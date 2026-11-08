@@ -530,13 +530,166 @@
  "GneHMTwzyo8": {
   "channel": "Nicos Weg (DW)",
   "lang": "de",
-  "checked": "2026-10-28T00:27:04+00:00",
+  "checked": "2026-11-08T15:17:12+00:00",
   "title": "Deutsch lernen mit Videos | Winnetou: zwischen Kult und Kritik | mit deutschen Untertiteln",
-  "duration": 0,
+  "duration": 309,
   "published": "20261008",
-  "status": "error",
-  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
-  "tries": 1
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 160.4,
+  "rare": 0.1132,
+  "var": 0.8668,
+  "speech_s": 241.3,
+  "tokens": 645,
+  "kw": [
+   [
+    "kultur",
+    "ist unsere Kultur. Und wenn Menschen uns auch noch unsere Kultur nehmen",
+    23,
+    28,
+    5.02,
+    8
+   ],
+   [
+    "karl",
+    "ein fiktiver Native American, erfunden vom deutschen Schriftsteller Karl May.",
+    35,
+    41,
+    4.9,
+    8
+   ],
+   [
+    "deutschen",
+    "ein fiktiver Native American, erfunden vom deutschen Schriftsteller Karl May.",
+    35,
+    41,
+    5.67,
+    3
+   ],
+   [
+    "unsere",
+    "Uns wurden unsere Kinder weggenommen. Unser Land wurde uns weggenommen.",
+    18,
+    23,
+    5.63,
+    3
+   ],
+   [
+    "westen",
+    "und prägten das deutsche Bild vom Wilden Westen.",
+    106,
+    110,
+    4.73,
+    2
+   ],
+   [
+    "geschichten",
+    "Die Winnetou-Geschichten entstanden vor allem in Mays Fantasie.",
+    109,
+    113,
+    4.65,
+    2
+   ],
+   [
+    "west",
+    "Hunderttausende pilgern jeden Sommer zu einem riesigen Wild-West-Spektakel.",
+    9,
+    14,
+    4.61,
+    2
+   ],
+   [
+    "wild",
+    "Hunderttausende pilgern jeden Sommer zu einem riesigen Wild-West-Spektakel.",
+    9,
+    14,
+    4.5,
+    2
+   ],
+   [
+    "may",
+    "ein fiktiver Native American, erfunden vom deutschen Schriftsteller Karl May.",
+    35,
+    41,
+    4.15,
+    4
+   ],
+   [
+    "wilden",
+    "und prägten das deutsche Bild vom Wilden Westen.",
+    106,
+    110,
+    4.16,
+    3
+   ],
+   [
+    "american",
+    "ein fiktiver Native American, erfunden vom deutschen Schriftsteller Karl May.",
+    35,
+    41,
+    4.15,
+    3
+   ],
+   [
+    "begeisterung",
+    "Doch die Begeisterung hat eine Kehrseite.",
+    14,
+    17,
+    4.12,
+    3
+   ],
+   [
+    "native",
+    "Was hat Deutschland mit Native Americans zu tun?",
+    1,
+    6,
+    3.41,
+    8
+   ],
+   [
+    "winnetou",
+    "Winnetou ist in Deutschland Kult: ein fiktiver Native American, erfunden vom deutschen Schriftsteller Karl May.",
+    33,
+    41,
+    3.13,
+    6
+   ],
+   [
+    "aneignung",
+    "oder kulturelle Aneignung? Seit 1952 werden Karl Mays Romane",
+    62,
+    72,
+    3.17,
+    2
+   ],
+   [
+    "mays",
+    "Seit 1952 werden Karl Mays Romane",
+    68,
+    72,
+    2.93,
+    5
+   ],
+   [
+    "americans",
+    "Was hat Deutschland mit Native Americans zu tun?",
+    1,
+    6,
+    2.9,
+    5
+   ],
+   [
+    "indigene",
+    "Sehr unterschiedliche indigene Kulturen würden auf stereotype Symbole",
+    185,
+    190,
+    2.91,
+    3
+   ]
+  ],
+  "tx": "Was hat Deutschland mit Native Americans zu tun? Eigentlich wenig. Trotzdem sind sie hier seit Generationen Kult. Hunderttausende pilgern jeden Sommer zu einem riesigen Wild-West-Spektakel. Doch die Begeisterung hat eine Kehrseite. Uns wurden unsere Kinder weggenommen. Unser Land wurde uns weggenommen. Was uns heute noch bleibt, ist unsere Kultur. Und wenn Menschen uns auch noch unsere Kultur nehmen zu ihrem eigenen Vergnügen, dann nehmen sie uns das, was uns ausmacht. Winnetou ist in Deutschland Kult: ein fiktiver Native American, erfunden vom deutschen Schriftsteller Karl May. Man weiß, es gibt Gut und Böse. Und Winnetou ist der Gute. Winnetou steht dafür, dass man für seine Meinung einstehen muss, dass man dafür kämpfen muss. Ich hab als Kind schon immer Karl May gelesen, hoch und runter und drei Mal. Und so ist es wieder zurück ‘n Stück in die Jugend. Warum ist Deutschland so fasziniert von Native Americans? Und ist das Wertschätzung – oder kulturelle Aneignung? Seit 1952 werden Karl Mays Romane auf der Freilichtbühne im norddeutschen Bad Segeberg inszeniert. Winnetou ist für viele Deutsche seit Generationen eine Kindheitserinnerung. Es ist eigentlich ein deutsches oder deutschsprachiges Phänomen. Und das fing eben an mit den Büchern, die zwar in 50 Sprachen übersetzt wurden, aber es hat doch nachhaltig erst (in) dann in Deutschland sich gesetzt. Karl May schrieb seine ersten Abenteuerromane im 19. Jahrhundert, bevor er selbst in den USA war. Sie wurden millionenfach verkauft und prägten das deutsche Bild vom Wilden Westen. Die Winnetou-Geschichten entstanden vor allem in Mays Fantasie. Doch ganz frei erfunden war die Welt seiner Romane nicht. Karl Mays Geschichten sind nur ein Teil der deutschen Wild-West-Begeisterung. In Brandenburg steht eine von mehreren Western",
+  "status": "ok",
+  "src": "cc"
  },
  "3IcsL0xipuw": {
   "channel": "Deutsch mit Marija",
@@ -13915,5 +14068,1973 @@
   "status": "ok",
   "src": "auto",
   "var": 0.7754
+ },
+ "7UhHe6XAxSc": {
+  "channel": "Learn German with Anja",
+  "lang": "de",
+  "checked": "2026-11-08T15:17:49+00:00",
+  "title": "Must-Know German Clothing Vocabulary",
+  "duration": 468,
+  "published": "20260129",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 151.7,
+  "rare": 0.087,
+  "var": 0.6959,
+  "speech_s": 468.4,
+  "tokens": 1184,
+  "kw": [
+   [
+    "sagen",
+    "sagen wir z.B. Klamotten laden. Klamotten laden. Klamotten also the",
+    20,
+    29,
+    5.68,
+    13
+   ],
+   [
+    "the",
+    "Kleidergeschäft. Kleider the clothes. But actually Kleide can also mean the",
+    6,
+    15,
+    5.62,
+    12
+   ],
+   [
+    "heisst",
+    "",
+    0,
+    0,
+    5.48,
+    10
+   ],
+   [
+    "you",
+    "will show you all the important words",
+    28,
+    34,
+    4.84,
+    9
+   ],
+   [
+    "farbe",
+    "Kleid, das Kleid. Und welche Farbe hat",
+    45,
+    51,
+    4.73,
+    8
+   ],
+   [
+    "tasche",
+    "eine Tasche. Die Tasche. Okay, eine",
+    192,
+    199,
+    4.52,
+    7
+   ],
+   [
+    "siehst",
+    "diese Weste hat gar keine Ärmel. Siehst",
+    263,
+    270,
+    4.65,
+    6
+   ],
+   [
+    "kleid",
+    "Artikel. Das ist das Kleid. Ein",
+    43,
+    49,
+    4.3,
+    6
+   ],
+   [
+    "pullover",
+    "ganz wichtig. Das ist ein Pullover.",
+    204,
+    212,
+    3.73,
+    8
+   ],
+   [
+    "klamotten",
+    "sagen wir z.B. Klamotten laden. Klamotten laden. Klamotten also the",
+    20,
+    29,
+    4.06,
+    7
+   ],
+   [
+    "knopf",
+    "Knopf. Der Knopf. Z.B. kannst du sagen:",
+    313,
+    320,
+    4.0,
+    7
+   ],
+   [
+    "but",
+    "But actually Kleide can also mean the",
+    9,
+    15,
+    4.05,
+    6
+   ],
+   [
+    "color",
+    "das Kleid? Which color does it have? Das",
+    48,
+    55,
+    3.48,
+    4
+   ],
+   [
+    "singular",
+    "it's singular. I know in English you say",
+    77,
+    82,
+    3.29,
+    4
+   ],
+   [
+    "bluse",
+    "Bluse. Die Bluse. Ja, ist feminin. Und welche",
+    60,
+    69,
+    3.53,
+    3
+   ],
+   [
+    "kapuze",
+    "Kapuze. Die Kapuze, aber diese Jacke hat",
+    175,
+    181,
+    3.34,
+    3
+   ],
+   [
+    "kariert",
+    "das? Das ist kariert. Kariert. Z.B.",
+    271,
+    278,
+    2.35,
+    5
+   ],
+   [
+    "stoffhose",
+    "Stoffhose. Ja, you see the material?",
+    92,
+    98,
+    2.24,
+    3
+   ],
+   [
+    "pattern",
+    "What is this pattern called? Siehst du",
+    269,
+    276,
+    2.95,
+    2
+   ],
+   [
+    "actually",
+    "But actually Kleide can also mean the",
+    9,
+    15,
+    2.93,
+    2
+   ]
+  ],
+  "tx": "Wo bin ich gerade? Where am I just now? Ich bin in einem Kleidergeschäft. Kleidergeschäft. Kleider the clothes. But actually Kleide can also mean the dress. Ja, und das Geschäft ist. But we have other words to say it. For example, in daily language umgangssprachlich. Umgangssprachlich sagen wir z.B. Klamotten laden. Klamotten laden. Klamotten also the close und laden ist also shop. Today I will show you all the important words for shopping, for clothes. Ja, Kleider oder Klamotten in Germany. Los geht's. Hier haben wir als erstes, was ist das? Also, when I say it, always remember the article. Ja, bitte merke dir den Artikel. Das ist das Kleid. Ein Kleid, das Kleid. Und welche Farbe hat das Kleid? Which color does it have? Das ist weiß. Also, das ist ein weißes Kleid. Was haben wir? Ah, das hier. Das ist noch gut. Was ist das? Das ist eine Bluse. Die Bluse. Ja, ist feminin. Und welche Farbe? Which color? Weiß hier. Oh, das ist noch gut. Was ist das erstmal? Allgemein in general. What ist das? Das ist eine Hose. Die Hose. Ja. In German it's singular. I know in English you say trousers or pants because it has two legs, but in German one object. So die Hose. But the plural would be die. Hosen. Jetzt habe ich zwei Hosen in der Hand und das hier ist eine Stoffhose. Ja, you see the material? Like Stoff, soft. So, das ist eine Stoffhose. Und welche Farbe haben diese Hosen? Schwarz. Das ist eine schwarze Hose. Gut, weiter geht's. Hier haben wir ein Top. Das Top, das ist eigentlich aus dem Englischen, aber wir sagen es auch auf Deutsch, ein schwarzes Top. Und für die Füße, was haben wir hier erstmal? Was sind das, was ich anhabe? Das sind Schuhe. Die Schuhe in Singular. Was ist der Singular? Der, die oder das Schuh? Der Schuh. Ja. Und das hier sind Turnschuhe. Turnschuhe like, you",
+  "status": "ok",
+  "src": "auto"
+ },
+ "7xqrHAqD-IE": {
+  "channel": "Get Germanized",
+  "lang": "de",
+  "checked": "2026-11-08T15:19:08+00:00",
+  "title": "Do Governments Use Football to Distract Us?",
+  "duration": 1535,
+  "published": "20260711",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 139.7,
+  "rare": 0.0762,
+  "var": 0.8284,
+  "speech_s": 1533.6,
+  "tokens": 3571,
+  "kw": [
+   [
+    "während",
+    "Emotionen. Und während alle das Spiel",
+    14,
+    18,
+    5.68,
+    26
+   ],
+   [
+    "gesetz",
+    "Wenn ein Gesetz verabschiedet wird, während niemand darauf achtet, mag es",
+    159,
+    164,
+    4.91,
+    26
+   ],
+   [
+    "fussball",
+    "",
+    0,
+    0,
+    5.01,
+    19
+   ],
+   [
+    "land",
+    "das Land still. Millionen Menschen schauen zu. Nachrichtenredaktionen",
+    2,
+    8,
+    5.47,
+    16
+   ],
+   [
+    "aufmerksamkeit",
+    "Politiker verstehen, was Aufmerksamkeit bedeutet. Sie verstehen Medienzyklen.",
+    95,
+    102,
+    4.64,
+    19
+   ],
+   [
+    "kapitel",
+    "schwieriger, es zu ignorieren. Kapitel 1: Die Aufmerksamkeitsökonomie der",
+    130,
+    137,
+    4.44,
+    18
+   ],
+   [
+    "gesetze",
+    "anderes. Gesetze werden verabschiedet. Abstimmungen werden durchgeführt.",
+    19,
+    25,
+    4.55,
+    12
+   ],
+   [
+    "entscheidungen",
+    ", denn politische Entscheidungen werden nicht erst dann getroffen, wenn die",
+    563,
+    568,
+    4.6,
+    11
+   ],
+   [
+    "verabschiedet",
+    "anderes. Gesetze werden verabschiedet. Abstimmungen werden durchgeführt.",
+    19,
+    25,
+    4.11,
+    10
+   ],
+   [
+    "regierungen",
+    "Regierungen große Sportereignisse, um unpopuläre Gesetze durchzusetzen? Oder",
+    46,
+    53,
+    4.14,
+    6
+   ],
+   [
+    "ablenkung",
+    "funktioniert Ablenkung genauso gut. Kapitel zwei. Warum Sport die perfekte",
+    203,
+    211,
+    3.72,
+    6
+   ],
+   [
+    "woanders",
+    "Landes woanders liegen. Das ist die",
+    112,
+    117,
+    4.19,
+    5
+   ],
+   [
+    "sommerpause",
+    "Sommerpause abgeschlossen sein. Und Fußballturniere finden für",
+    84,
+    89,
+    3.55,
+    4
+   ],
+   [
+    "timing",
+    "Timing. Wenn der Fußball das Land",
+    851,
+    855,
+    3.55,
+    3
+   ],
+   [
+    "mehrwertsteuer",
+    "Erhöhung der Mehrwertsteuer. Das erste große Beispiel, das oft genannt wird,",
+    278,
+    287,
+    3.51,
+    3
+   ],
+   [
+    "schwindet",
+    ", schwindet das Vertrauen. Und wenn das",
+    1189,
+    1193,
+    3.27,
+    3
+   ],
+   [
+    "sportereignisse",
+    "Regierungen große Sportereignisse, um unpopuläre Gesetze durchzusetzen? Oder",
+    46,
+    53,
+    2.28,
+    6
+   ],
+   [
+    "esm",
+    "Nachlässigkeit. Kapitel 8, 2012, ESM und der Fiskalpakt. Einen Tag nach dem",
+    684,
+    696,
+    2.99,
+    3
+   ],
+   [
+    "föderalismusreform",
+    "Föderalismusreform. Die Erhöhung der Mehrwertsteuer war nicht die einzige",
+    363,
+    372,
+    2.34,
+    3
+   ],
+   [
+    "krankenversicherungsbeiträge",
+    "Krankenversicherungsbeiträge. Dann kam die Fußball-Weltmeisterschaft 2010 in",
+    521,
+    530,
+    2.04,
+    3
+   ]
+  ],
+  "tx": "Wenn Deutschland Fußball spielt, steht das Land still. Millionen Menschen schauen zu. Nachrichtenredaktionen verlagern ihren Fokus. Politiker posten Fotos in Trikots. Öffentliche Plätze füllen sich mit Fahnen, Bier, nervösem Geschrei und nationalen Emotionen. Und während alle das Spiel verfolgen, passiert in Berlin oft etwas anderes. Gesetze werden verabschiedet. Abstimmungen werden durchgeführt. Vereinbarungen werden getroffen. Reformen verabschiedet. Und manchmal sind diese Reformen genau die Art von Dingen, über die die Leute normalerweise lautstark streiten würden. Steuern, Gesundheitsbeiträge, Datenschutz, europäische Rettungsschirme, Rentensysteme, Versicherungsreformen, Wehrpflicht. Die Frage ist also unbequem. Nutzen Regierungen große Sportereignisse, um unpopuläre Gesetze durchzusetzen? Oder ist das nur ein Zufall, der durch den politischen Kalender erzeugt wird? Die ehrliche Antwort ist komplizierter, aber das Muster ist real genug, dass wir darüber sprechen sollten. Mir ist langweilig. Was soll ich tun? Ich rate: Lass dich germanisieren. Dieses Video behauptet nicht, dass jeder Politiker heimlich in einem dunklen Raum Pläne schmiedet, während Deutschland Fußball schaut. Das wäre zu einfach. Politik hat Kalender. Parlamente haben Zeitpläne. Koalitionen haben Fristen. Haushalt und Reformen müssen oft vor der Sommerpause abgeschlossen sein. Und Fußballturniere finden für gewöhnlich im Juni und Juli statt. Eine gewisse Überschneidung erscheint also ganz natürlich, doch das bedeutet nicht, dass sie bedeutungslos ist, denn Politiker verstehen, was Aufmerksamkeit bedeutet. Sie verstehen Medienzyklen. Sie verstehen, wann Menschen wütend sind. Sie verstehen, wann Menschen abgelenkt sind. Und sie verstehen, dass eine kontroverse Entscheidung weniger Aufsehen erregt, we",
+  "status": "ok",
+  "src": "auto"
+ },
+ "kXXQcG1alpQ": {
+  "channel": "Deutsch mit Benjamin",
+  "lang": "de",
+  "checked": "2026-11-08T15:22:19+00:00",
+  "title": "Ich-Laut /ç/ - Deutsche Aussprache lernen & üben",
+  "duration": 444,
+  "published": "20221005",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 153.6,
+  "rare": 0.0758,
+  "var": 0.8091,
+  "speech_s": 381.2,
+  "tokens": 976,
+  "kw": [
+   [
+    "laut",
+    "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache.",
+    0,
+    6,
+    5.23,
+    34
+   ],
+   [
+    "spricht",
+    "Weil der Ich-Laut eben vorn entsteht, spricht man CH als Ich-Laut auch immer dann, wenn es nach einem",
+    212,
+    221,
+    5.11,
+    9
+   ],
+   [
+    "beispiel",
+    "In den slawischen Sprachen zum Beispiel wird CH mit einem härteren Konsonanten ausgesprochen.",
+    37,
+    46,
+    5.35,
+    5
+   ],
+   [
+    "wort",
+    "der Buchstabenkombination CH. Und zwar genau die, wie in dem Wort ich.",
+    15,
+    21,
+    5.22,
+    5
+   ],
+   [
+    "entsteht",
+    "entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch",
+    52,
+    59,
+    4.63,
+    6
+   ],
+   [
+    "zähne",
+    "einem I-Vokal gesprochen wird. Was man hier aber auch gut sieht ist, dass die Zähne beim Ich-Laut",
+    110,
+    117,
+    4.32,
+    5
+   ],
+   [
+    "lippen",
+    "Der Mund öffnet sich nur wenig, die Lippen sind ein bisschen breit, relativ locker. Die Zungen- und",
+    92,
+    99,
+    4.27,
+    5
+   ],
+   [
+    "unteren",
+    "Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich",
+    68,
+    75,
+    4.46,
+    4
+   ],
+   [
+    "aussprache",
+    "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache.",
+    0,
+    6,
+    3.88,
+    5
+   ],
+   [
+    "hebt",
+    "Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich",
+    68,
+    75,
+    4.14,
+    2
+   ],
+   [
+    "vordere",
+    "Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich",
+    68,
+    75,
+    3.64,
+    2
+   ],
+   [
+    "süddeutschland",
+    "das ist vor allem in Süddeutschland üblich, aber in den meisten Regionen oberhalb von",
+    375,
+    382,
+    3.62,
+    2
+   ],
+   [
+    "vokal",
+    "einem I-Vokal gesprochen wird. Was man hier aber auch gut sieht ist, dass die Zähne beim Ich-Laut",
+    110,
+    117,
+    3.2,
+    9
+   ],
+   [
+    "plural",
+    "in Köchin, spricht man eben einen Ich-Laut. Oder auch im Plural: die Köche oder köcheln.",
+    262,
+    271,
+    3.59,
+    3
+   ],
+   [
+    "beieinander",
+    "und unteren Zähne wieder nah beieinander sind. Die Zungenposition ändert sich bei",
+    139,
+    145,
+    3.48,
+    3
+   ],
+   [
+    "gaumen",
+    "zum harten Gaumen. Zwischen der Zunge und dem harten Gaumen entsteht so eine Enge, durch die die",
+    74,
+    82,
+    3.27,
+    3
+   ],
+   [
+    "vokalen",
+    "aber auch die Diphthonge eu und ei. Nach Vokalen, die weiter hinten",
+    230,
+    237,
+    2.77,
+    2
+   ],
+   [
+    "diphthonge",
+    "aber auch die Diphthonge eu und ei. Nach Vokalen, die weiter hinten",
+    230,
+    237,
+    2.07,
+    2
+   ]
+  ],
+  "tx": "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache. Der Ich-Laut ist eine von mehreren möglichen Realisierungen der Aussprache der Buchstabenkombination CH. Und zwar genau die, wie in dem Wort ich. Deswegen heißt er auch so, ja. Das CH in dem Wort ich wird so ausgesprochen. Das ist der Ich-Laut. In vielen Sprachen gibt es diesen Laut nicht, bzw. CH wird ganz anders ausgesprochen. In den slawischen Sprachen zum Beispiel wird CH mit einem härteren Konsonanten ausgesprochen. Das klingt aber ganz anders als . Der für slawische Sprachen typischer Laut entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch und wichtig ist dieses Reibe-Geräusch. Der Ich-Laut ist die stimmlose Variante des J-Lautes Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich zum harten Gaumen. Zwischen der Zunge und dem harten Gaumen entsteht so eine Enge, durch die die Luft nach außen entweicht. Schauen wir uns doch mal einige Wörter mit dem Ich-Laut in Zeitlupe an. Der Mund öffnet sich nur wenig, die Lippen sind ein bisschen breit, relativ locker. Die Zungen- und Lippen-Position des kurzen I-Vokals ist genau wie beim Ich-Laut. Deshalb empfiehlt es sich auch mit diesem Wort anzufangen zu üben, bzw. mit anderen Wörtern, bei denen der Ich-Laut nach einem I-Vokal gesprochen wird. Was man hier aber auch gut sieht ist, dass die Zähne beim Ich-Laut wesentlich näher zusammen sind, als beim I-Vokal. Sie liegen allerdings nicht aufeinander. Der Mund ist hier beim kurzen E-Vokal etwas weiter geöffnet, so dass man hier noch deutlicher sehen kann, wie er sich für den Ich-Laut fast schließt, so dass also die oberen und unteren Zähne wieder nah beieinander sind. Die Zungenposition ändert si",
+  "status": "ok",
+  "src": "cc"
+ },
+ "-Jm4g0u8z6w": {
+  "channel": "Deutsch mit Marija",
+  "lang": "de",
+  "checked": "2026-11-08T15:22:45+00:00",
+  "title": "Formelles oder informelles Deutsch? Es geht um Register!",
+  "duration": 1740,
+  "published": "20260426",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 129.9,
+  "rare": 0.065,
+  "var": 0.7704,
+  "speech_s": 1739.7,
+  "tokens": 3767,
+  "kw": [
+   [
+    "passiert",
+    "Sprache lernen passiert es leider oft,",
+    181,
+    186,
+    5.2,
+    28
+   ],
+   [
+    "z.b",
+    "an das Märchen Aschenputtel z.B. wo",
+    29,
+    36,
+    5.03,
+    22
+   ],
+   [
+    "wort",
+    "zu tun, dass du bei jedem Wort, bei",
+    143,
+    148,
+    5.22,
+    21
+   ],
+   [
+    "sagen",
+    "und sagen, ich möchte endlich alle",
+    70,
+    75,
+    5.68,
+    18
+   ],
+   [
+    "benutzen",
+    "Sprache benutzen, deren Ziel, wie ich",
+    103,
+    109,
+    4.67,
+    15
+   ],
+   [
+    "geschehen",
+    "geschehen ist oder nee, geschehen hatten",
+    945,
+    950,
+    4.76,
+    11
+   ],
+   [
+    "vergangenen",
+    "vergangenen Nachmittag ereignet. Was hat sich ereignet?",
+    879,
+    887,
+    4.67,
+    9
+   ],
+   [
+    "geplant",
+    "sprechen, der geplant war oder Vorfall",
+    588,
+    595,
+    4.7,
+    7
+   ],
+   [
+    "ähm",
+    "verstehen. Und dann sage ich ähm, also",
+    75,
+    80,
+    4.12,
+    8
+   ],
+   [
+    "stattgefunden",
+    "Stadt eine Demo stattgefunden hat, z.B.",
+    604,
+    612,
+    4.04,
+    8
+   ],
+   [
+    "register",
+    "euch über Register sprechen. Ein Register ist meines Erachtens eines der",
+    3,
+    13,
+    3.91,
+    8
+   ],
+   [
+    "vorfall",
+    "äh also wenn wir von einem Vorfall",
+    585,
+    592,
+    4.08,
+    6
+   ],
+   [
+    "ereignet",
+    "ereignet? Das ist relativ neutral. Das hat was hat",
+    849,
+    857,
+    3.48,
+    14
+   ],
+   [
+    "formell",
+    "formell. Also, ich würde es auch nicht",
+    414,
+    420,
+    3.46,
+    9
+   ],
+   [
+    "vorgefallen",
+    "vorgefallen? Er würde höchstwahrscheinlich die Zeugen, die",
+    737,
+    744,
+    3.23,
+    8
+   ],
+   [
+    "substantiv",
+    "Konstruktion mit einem Substantiv wird immer formeller und trockener sein als",
+    786,
+    795,
+    3.21,
+    6
+   ],
+   [
+    "formeller",
+    "schreiben und entsprechend formeller und sachlicher klingen wollen, dann lassen",
+    476,
+    484,
+    2.49,
+    9
+   ],
+   [
+    "muttersprachler",
+    "Muttersprachler, die genauso große Schwierigkeiten haben beim Verständnis",
+    82,
+    92,
+    2.82,
+    5
+   ],
+   [
+    "reflexiv",
+    "machen. Erstens, es ist reflexiv. Das",
+    892,
+    899,
+    2.38,
+    4
+   ],
+   [
+    "verinnerlichen",
+    "Übrigens, etwas verinnerlichen ist ein schönes Wort für etwas lernen.",
+    1476,
+    1486,
+    2.75,
+    3
+   ]
+  ],
+  "tx": "Hallo meine Lieben, heute möchte ich mit euch über Register sprechen. Ein Register ist meines Erachtens eines der wichtigsten Themen beim Sprachenlernen überhaupt und eines der Themen, die komischerweise absolut stiefmütterlich behandelt werden. Ihr kennt den Ausdruck, oder? stiefmütterlich behandeln. Das bedeutet wenig Aufmerksamkeit schenken. Äh man denke da an das Märchen Aschenputtel z.B. wo Aschenputtel von der Stiefmutter schlecht behandelt wurde oder alle anderen Märchen, wo auch irgendwelche Stiefmütter im Spiel waren. So, das heißt, etwas oder jemanden stiefmütterlich behandeln bedeutet dieser Person oder dieser Sache wenig Aufmerksamkeit schenken. Und ich weiß nicht, warum das so ist, aber meine Beobachtung ist, dass Menschen, die aus vor allem staatlich geförderten Deutschkursen kommen, sehr wenig Sprachgefühl haben im Sinne von was ist mündliches Deutsch, was ist schriftliches Deutsch, was ist Behördendeutsch. Äh, viele kommen zu mir und sagen, ich möchte endlich alle Briefe vom Jobcenter oder vom Finanzamt verstehen. Und dann sage ich ähm, also ich muss sie immer wieder auch mit Chat GPT entziffern und ich kenne viele Muttersprachler, die genauso große Schwierigkeiten haben beim Verständnis der offiziellen Schreiben, die sie von irgendwelchen Behörden bekommen. Und das hat nichts damit zu tun, dass die Menschen ihre Muttersprache nicht beherrschen. hat damit zu tun, dass die Behörden eine eigentlich eine eigene Sprache benutzen, deren Ziel, wie ich das sehe, nur eins ist, äh dass die Menschen Respekt haben vor etwas, was sehr kompliziert ist. Weil wenn dir das Finanzamt einen Brief schicken würde, wo drin steht äh bitte zahlen Sie bis übermorgen äh Summe X, das wäre zu einfach. Aber nein, Sie schicken dir sieben Seiten von unverständlichen äh Formulierungen",
+  "status": "ok",
+  "src": "auto"
+ },
+ "1F8Oh8MJmTs": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-08T15:23:25+00:00",
+  "title": "Pflegereform: Worüber der Bundestag jetzt berät",
+  "duration": 315,
+  "published": "20261105",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 176.9,
+  "rare": 0.0708,
+  "var": 0.8514,
+  "speech_s": 316.1,
+  "tokens": 932,
+  "kw": [
+   [
+    "tatsächlich",
+    "Würde und was mich dann tatsächlich doch",
+    27,
+    32,
+    5.11,
+    7
+   ],
+   [
+    "beispielsweise",
+    "der beispielsweise Einkäufe macht oder einen begleitet, betreut oder aber auch",
+    96,
+    104,
+    4.99,
+    6
+   ],
+   [
+    "gerade",
+    "einen Angehörigen gerade nicht pflegen kann, dann greift ein Notfallplan, dass",
+    127,
+    134,
+    5.77,
+    5
+   ],
+   [
+    "gesagt",
+    "gesagt, es kann gut sein, dass man in",
+    37,
+    41,
+    5.43,
+    5
+   ],
+   [
+    "künftig",
+    "es ja, dass Menschen künftig so lange",
+    32,
+    36,
+    4.37,
+    6
+   ],
+   [
+    "pflege",
+    "Gesundheit und Pflege insgesamt ist. Und vor allem wichtig ist es für die",
+    59,
+    65,
+    4.49,
+    4
+   ],
+   [
+    "leistungen",
+    "Leistungen künftig budgetiert. Da kommt man dann auch an gewisse Leistungen gar",
+    107,
+    114,
+    4.71,
+    3
+   ],
+   [
+    "greift",
+    "kann, dann greift ein Notfallplan, dass",
+    129,
+    134,
+    4.42,
+    3
+   ],
+   [
+    "pflegen",
+    "dieses Pflegen-Neuordnungsgesetzes ist es ja, dass Menschen künftig so lange",
+    31,
+    36,
+    4.1,
+    5
+   ],
+   [
+    "angehörige",
+    "Angehörige pflegen. Äh, das Ganze ist",
+    65,
+    69,
+    4.12,
+    3
+   ],
+   [
+    "vorfeld",
+    "auch im Vorfeld geäußert wurde, ist",
+    150,
+    155,
+    4.16,
+    2
+   ],
+   [
+    "lesung",
+    "Verfahren hat mit dieser ersten Lesung",
+    41,
+    46,
+    3.89,
+    2
+   ],
+   [
+    "gesundheitsminister",
+    "Linnemann, der Gesundheitsminister, der hat als allererster gesprochen. Es",
+    21,
+    28,
+    3.28,
+    3
+   ],
+   [
+    "pflegeversicherung",
+    "zwischen der privaten Pflegeversicherung und der sogenannten sozialen",
+    269,
+    274,
+    3.2,
+    3
+   ],
+   [
+    "notfallplan",
+    "Notfallplan. Also wenn man beispielsweise selbst erkrankt ist und",
+    124,
+    130,
+    2.8,
+    3
+   ],
+   [
+    "pflegediensten",
+    "kann in aus Pflegediensten jemand sein,",
+    95,
+    99,
+    2.12,
+    2
+   ]
+  ],
+  "tx": "Es war insgesamt eine, ich würde sagen, eher ruhige und ziemlich geordnete Debatte mit wenig Zwischenrufen. Es gab einige Nachfragen, die die Rednerinnen und Rednern in den meisten Fällen auch zugelassen haben und man hat gemerkt, es herrscht Redebedarf. Also die Bundestagspräsidentin musste mehrmals einschreiten, hat einmal sogar auch ein Mikrofon runtergedreht, weil die Redezeit eben schon vorbei war. Carsten Linnemann, der Gesundheitsminister, der hat als allererster gesprochen. Es fielen oft die Worte Menschlichkeit und Würde und was mich dann tatsächlich doch etwas überrascht hat, also das Ziel dieses Pflegen-Neuordnungsgesetzes ist es ja, dass Menschen künftig so lange wie möglich zu Hause gepflegt werden, aber der Gesundheitsminister hat selbst gesagt, es kann gut sein, dass man in diesem Gesetz noch einmal nachbessern muss. Also das parlamentarische Verfahren hat mit dieser ersten Lesung ja erst noch begonnen und wir können davon ausgehen, dass es da tatsächlich noch Anpassungen geben wird in den nächsten Wochen und was vielleicht auch noch ganz interessant war, der Bundeskanzler, der war auch anwesend, zumindestens die ersten ja 20 25 Minuten, das ist auch nicht unbedingt üblich bei einer ersten Lesung, zeigt aber wie wichtig ihm das Thema Gesundheit und Pflege insgesamt ist. Und vor allem wichtig ist es für die Menschen, die Pflege brauchen oder die Angehörige pflegen. Äh, das Ganze ist natürlich total entscheidend für die. Was würde denn, wenn dieses Gesetz kommt, tatsächlich sie konkret äh verändern? Ja, wir haben im Beitrag ja schon einige Punkte gehört. Also ein großer ein großer Teil, der ist äh Pflegegrad eins. Also wir brechen das alles mal so ein bisschen runter, weil es doch sehr gleich kleinteilig ist. Also es gibt einen Betrag, der gezahlt wird derz",
+  "status": "ok",
+  "src": "auto"
+ },
+ "MonJYV-570c": {
+  "channel": "comprehensible GERMANi",
+  "lang": "de",
+  "checked": "2026-11-08T15:29:47+00:00",
+  "title": "A1/A2 Akkusativ und Dativ verstehen | easy and comprehensible German",
+  "duration": 804,
+  "published": "20260215",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 84.0,
+  "rare": 0.0361,
+  "var": 0.4357,
+  "speech_s": 792.1,
+  "tokens": 1109,
+  "kw": [
+   [
+    "tisch",
+    "Bilder angemalt. Ich habe den Tisch",
+    5,
+    13,
+    4.83,
+    46
+   ],
+   [
+    "hinter",
+    "Hinter dem Baum und vor dem Baum. Okay,",
+    538,
+    545,
+    5.32,
+    17
+   ],
+   [
+    "neben",
+    "Tisch. Ich lege sie neben den Tisch. Ich",
+    77,
+    89,
+    5.47,
+    13
+   ],
+   [
+    "hund",
+    "Der Igel. Das ist ein Hund. Der Hund.",
+    519,
+    529,
+    4.86,
+    9
+   ],
+   [
+    "baum",
+    "Kommen wir zum Baum. Der Baum und viele",
+    499,
+    511,
+    4.62,
+    39
+   ],
+   [
+    "wohin",
+    "Wohin lege ich den Teller? Ich lege den",
+    210,
+    222,
+    4.5,
+    12
+   ],
+   [
+    "glas",
+    "haben ein Glas, eine Gabel, eine Tasse, einen Teller, ein Messer und",
+    58,
+    75,
+    4.61,
+    10
+   ],
+   [
+    "messer",
+    "eine Tasse, einen Teller, ein Messer und",
+    63,
+    75,
+    4.49,
+    8
+   ],
+   [
+    "lege",
+    "einen Löffel. Und ich lege diese Sachen",
+    69,
+    78,
+    4.06,
+    42
+   ],
+   [
+    "schrank",
+    "Schrank. Der Schrank. Und wir haben",
+    314,
+    323,
+    4.14,
+    34
+   ],
+   [
+    "schaf",
+    "Das ist ein Schaf. Das Schaf. Das ist",
+    510,
+    520,
+    3.73,
+    12
+   ],
+   [
+    "gabel",
+    "braun angemalt und ich habe die Gabel",
+    9,
+    15,
+    3.64,
+    11
+   ],
+   [
+    "igel",
+    "eine Katze. Die Katze. Das ist ein Igel.",
+    514,
+    525,
+    3.56,
+    6
+   ],
+   [
+    "bluse",
+    "eine rosa Bluse. Wir haben ein lila Kleid und wir haben",
+    333,
+    344,
+    3.53,
+    6
+   ],
+   [
+    "dativ",
+    "Wir lernen den Akkusativ und den Dativ.",
+    19,
+    28,
+    3.22,
+    2
+   ],
+   [
+    "kleiderbügel",
+    "einen braunen Kleiderbügel. Der Kleiderbügel.",
+    339,
+    347,
+    2.62,
+    7
+   ],
+   [
+    "angemalt",
+    "Bilder angemalt. Ich habe den Tisch",
+    5,
+    13,
+    2.76,
+    3
+   ],
+   [
+    "akkusativ",
+    "Wir lernen den Akkusativ und den Dativ.",
+    19,
+    28,
+    2.91,
+    2
+   ],
+   [
+    "example",
+    "few times and for example make your own",
+    746,
+    753,
+    2.89,
+    2
+   ]
+  ],
+  "tx": "Wir haben vor einigen Videos diese Bilder angemalt. Ich habe den Tisch braun angemalt und ich habe die Gabel grau angemalt. Heute spielen wir mit diesen Bildern. Wir lernen den Akkusativ und den Dativ. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Wir lernen Akkusativ und wir lernen Dativ. Das ist Grammatik, aber wir haben tolle Bilder und ich gebe dir guten Input. Hier haben wir den Tisch. Der Tisch. Wir haben einen Tisch und wir haben ein Glas, eine Gabel, eine Tasse, einen Teller, ein Messer und einen Löffel. Und ich lege diese Sachen auf den Tisch, ich lege sie unter den Tisch. Ich lege sie neben den Tisch. Ich lege das Glas auf den Tisch. Ich lege das Glas auf den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Tasse neben den Tisch. Das Glas ist auf dem Tisch. Die Gabel ist unter dem Tisch. Die Tasse ist neben dem Tisch. Ich lege den Teller auf den Tisch. Ich lege den Teller auf den Tisch. Der Teller ist auf dem Tisch. Ups. Ich lege das Messer unter den Tisch. Ich lege das Messer unter den Tisch. Das Messer ist unter dem Tisch. Ich lege den Löffel neben den Tisch. Ich lege den Löffel neben den Tisch. Der Löffel ist neben dem Tisch. Was ist auf dem Tisch? Auf dem Tisch ist das Glas und der Teller. Was ist unter dem Tisch? Unter dem Tisch ist die Gabel und das Messer. Was ist neben dem Tisch? Neben dem Tisch ist der Löffel und die Tasse. Noch einmal. Wohin lege ich den Teller? Ich lege den Teller unter den Tisch. Der Teller liegt unter dem Tisch. Wohin lege ich das Glas? Ich lege das Glas neben den Tisch. Ich lege das Glas neben den Tisch. Wo ist das Glas? Das Glas ist neben dem Tisch. Wohin lege ich den Löffel? Den Löffel lege ich auf den Tisch. Wo ist der Löffel? Auf dem Tisch. Wohin lege i",
+  "status": "ok",
+  "src": "auto"
+ },
+ "t7RFvCK7Pm4": {
+  "channel": "Authentic German Learning",
+  "lang": "de",
+  "checked": "2026-11-08T15:51:06+00:00",
+  "title": "👉 10 Tipps für flüssiges Deutsch – So sprichst du selbstbewusst! 🗣️💪",
+  "duration": 697,
+  "published": "20250217",
+  "spoken": "",
+  "spoken_v": 2,
+  "pace": 80.6,
+  "rare": 0.0822,
+  "var": 0.8416,
+  "speech_s": 689.0,
+  "tokens": 925,
+  "kw": [
+   [
+    "sprechen",
+    "Heute geht es um ein Thema, das viele Deutschlerner betrifft: freies Sprechen. Wie",
+    8,
+    19,
+    5.13,
+    16
+   ],
+   [
+    "deutsch",
+    "Deutsch führen oder mit einem Tandempartner üben. 3. Spreche mit Muttersprachlern",
+    175,
+    187,
+    5.24,
+    10
+   ],
+   [
+    "thema",
+    "Heute geht es um ein Thema, das viele Deutschlerner betrifft: freies Sprechen. Wie",
+    8,
+    19,
+    5.36,
+    9
+   ],
+   [
+    "kannst",
+    "kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen?",
+    18,
+    31,
+    5.54,
+    8
+   ],
+   [
+    "tipp",
+    "Der erste und wichtigste Tipp: Mach dir keine Sorgen, Fehler zu machen! Fehler gehören zum",
+    51,
+    64,
+    4.51,
+    12
+   ],
+   [
+    "höre",
+    "wie iTalki oder HelloTalk ausprobieren. 4. Höre viel authentisches Deutsch",
+    240,
+    252,
+    4.6,
+    3
+   ],
+   [
+    "positive",
+    "7. Baue eine positive Einstellung auf Eine der größten Hürden beim freien",
+    421,
+    430,
+    4.57,
+    3
+   ],
+   [
+    "einstellung",
+    "7. Baue eine positive Einstellung auf Eine der größten Hürden beim freien",
+    421,
+    430,
+    4.54,
+    3
+   ],
+   [
+    "grammatik",
+    "8. Vermeide zu viel Grammatikfokus Natürlich ist Grammatik wichtig,",
+    476,
+    487,
+    3.99,
+    4
+   ],
+   [
+    "sprichst",
+    "Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto sicherer wirst",
+    63,
+    72,
+    3.99,
+    3
+   ],
+   [
+    "hilfsmittel",
+    "9. Verwende visuelle Hilfsmittel Manchmal kann es helfen, visuelle",
+    528,
+    540,
+    3.79,
+    3
+   ],
+   [
+    "flüssig",
+    "kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen?",
+    18,
+    31,
+    3.67,
+    3
+   ],
+   [
+    "flüssiger",
+    "Um flüssiger zu sprechen, ist es wichtig, ein gutes Sprachgefühl zu entwickeln. Du musst",
+    251,
+    261,
+    3.24,
+    4
+   ],
+   [
+    "visuelle",
+    "9. Verwende visuelle Hilfsmittel Manchmal kann es helfen, visuelle",
+    528,
+    540,
+    3.53,
+    3
+   ],
+   [
+    "fortgeschrittenen",
+    "oder fortgeschrittenen Lernenden Einer der besten Wege, flüssig und",
+    186,
+    196,
+    3.41,
+    3
+   ],
+   [
+    "übe",
+    "wirst und dich besser ausdrücken kannst! 2. Übe regelmäßig, auch wenn es nur kurz ist!",
+    113,
+    127,
+    3.4,
+    3
+   ],
+   [
+    "muttersprachlern",
+    "Deutsch führen oder mit einem Tandempartner üben. 3. Spreche mit Muttersprachlern",
+    175,
+    187,
+    2.65,
+    3
+   ],
+   [
+    "authentisches",
+    "wie iTalki oder HelloTalk ausprobieren. 4. Höre viel authentisches Deutsch",
+    240,
+    252,
+    2.78,
+    2
+   ]
+  ],
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner betrifft: freies Sprechen. Wie kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen? Ich werde dir heute einige sehr hilfreiche Tipps geben, mit denen du dein Sprechen auf das nächste Level heben kannst. Lass uns gleich loslegen! 1. Keine Angst vor Fehlern! Der erste und wichtigste Tipp: Mach dir keine Sorgen, Fehler zu machen! Fehler gehören zum Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto sicherer wirst du. Viele Deutschlerner machen den Fehler, sich zu sehr darauf zu konzentrieren, alles perfekt zu sagen. Aber in echten Gesprächen geht es nicht um Perfektion, sondern um Kommunikation. Sei also nicht zu streng mit dir selbst. Tipp: Wenn dir ein Wort nicht einfällt, versuche es mit einem Synonym zu umschreiben. Du wirst sehen, dass du schnell kreativer wirst und dich besser ausdrücken kannst! 2. Übe regelmäßig, auch wenn es nur kurz ist! Das Geheimnis des flüssigen Sprechens ist regelmäßige Übung. Es hilft dir, die Sprache in deinem Alltag zu integrieren. Und du musst nicht immer Stunden investieren – auch kurze, tägliche Übungseinheiten können große Fortschritte bringen. Tipp: Setze dir ein tägliches Ziel, zum Beispiel 5-10 Minuten Sprechen pro Tag. Du kannst zu Hause laut vor dich hin sprechen, ein Tagebuch auf Deutsch führen oder mit einem Tandempartner üben. 3. Spreche mit Muttersprachlern oder fortgeschrittenen Lernenden Einer der besten Wege, flüssig und selbstbewusst zu sprechen, ist der Austausch mit Muttersprachlern oder anderen fortgeschrittenen Deutschlernern. Sie können dir sofort Feedback geben, dich korrigieren, wenn es nötig ist, und du bekommst auch einen",
+  "status": "ok",
+  "src": "cc"
+ },
+ "zXmFaoTrm-s": {
+  "channel": "Authentic German Learning",
+  "lang": "de",
+  "checked": "2026-11-08T15:51:10+00:00",
+  "title": "💝 Liebe und Sprache: Wie die Deutschen den Valentinstag feiern 💌",
+  "duration": 318,
+  "published": "20250214",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 86.4,
+  "rare": 0.0711,
+  "var": 0.8753,
+  "speech_s": 312.5,
+  "tokens": 450,
+  "kw": [
+   [
+    "liebe",
+    "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning.",
+    0,
+    9,
+    5.48,
+    5
+   ],
+   [
+    "deutsch",
+    "Zeichen der Zuneigung, das vom Herzen kommt. Vokabeln rund um die Liebe auf Deutsch lernen!",
+    150,
+    162,
+    5.24,
+    5
+   ],
+   [
+    "tag",
+    "Doch was bedeutet dieser Tag in Deutschland, und wie wird er hier gefeiert?",
+    19,
+    27,
+    5.69,
+    4
+   ],
+   [
+    "deutsche",
+    "paar Zeilen an jemanden, den du gern hast, und entdecke, wie schön sich die deutsche",
+    213,
+    222,
+    5.57,
+    3
+   ],
+   [
+    "feiern",
+    "Nun ist es wieder so weit – am 14. Februar feiern Menschen in vielen Ländern den Valentinstag!",
+    8,
+    20,
+    4.76,
+    3
+   ],
+   [
+    "verbessern",
+    "Warum diesen Tag nicht dazu nutzen, dein Deutsch zu verbessern?",
+    231,
+    238,
+    4.48,
+    2
+   ],
+   [
+    "verliebt",
+    "Verliebt – verliebt sein, oder wie man auch sagt, „Schmetterlinge im Bauch haben“",
+    194,
+    205,
+    4.36,
+    2
+   ],
+   [
+    "gefeiert",
+    "Doch was bedeutet dieser Tag in Deutschland, und wie wird er hier gefeiert?",
+    19,
+    27,
+    4.33,
+    2
+   ],
+   [
+    "paare",
+    "In den 1950er Jahren kam der Tag nach Deutschland. Anfangs schenkten sich nur wenige Paare Blumen,",
+    92,
+    105,
+    4.09,
+    2
+   ],
+   [
+    "zeilen",
+    "paar Zeilen an jemanden, den du gern hast, und entdecke, wie schön sich die deutsche",
+    213,
+    222,
+    4.06,
+    2
+   ],
+   [
+    "valentin",
+    "Der Valentinstag hat seinen Ursprung im alten Rom und geht auf den Priester Valentin von",
+    59,
+    69,
+    3.67,
+    2
+   ],
+   [
+    "valentinstag",
+    "Nun ist es wieder so weit – am 14. Februar feiern Menschen in vielen Ländern den Valentinstag!",
+    8,
+    20,
+    3.53,
+    8
+   ],
+   [
+    "vokabeln",
+    "Zeichen der Zuneigung, das vom Herzen kommt. Vokabeln rund um die Liebe auf Deutsch lernen!",
+    150,
+    162,
+    3.37,
+    2
+   ],
+   [
+    "deutschlernen",
+    "Verliebe dich ins Deutschlernen indem du diese Seite besuchst: AuthenticGermanLearning.com/join",
+    290,
+    302,
+    2.39,
+    2
+   ]
+  ],
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Nun ist es wieder so weit – am 14. Februar feiern Menschen in vielen Ländern den Valentinstag! Doch was bedeutet dieser Tag in Deutschland, und wie wird er hier gefeiert? In Deutschland hat der Valentinstag eine ganz besondere Bedeutung und bringt die Menschen dazu, sich kleine Aufmerksamkeiten zu schenken; doch die Art, ihn zu feiern, ist oft nicht so übertrieben wie in anderen Ländern. Es geht darum, Wertschätzung zu zeigen – oft ganz schlicht, wie es den Deutschen gefällt. Woher kommt der Valentinstag eigentlich? Der Valentinstag hat seinen Ursprung im alten Rom und geht auf den Priester Valentin von Terni zurück. Er soll heimlich Liebespaare getraut haben, was damals verboten war. Diese romantische Rebellion hat ihm schließlich das Leben gekostet – doch Valentin wird heute noch als Heiliger gefeiert, und die Tradition lebt weiter. In den 1950er Jahren kam der Tag nach Deutschland. Anfangs schenkten sich nur wenige Paare Blumen, heute ist er aber für viele Paare ein Tag, um sich Zeit füreinander zu nehmen. Wie feiern die Deutschen den Valentinstag? Hierzulande schätzen wir die einfachen Dinge, wie einen Spaziergang, ein selbst gekochtes Essen oder einen Besuch im Lieblingscafé. Doch Blumenläden sind am Valentinstag auch hier gut besucht – besonders rote Rosen und Tulpen sind beliebt! Im Vergleich zu anderen Ländern geht es in Deutschland weniger um große, teure Geschenke, sondern um das kleine Zeichen der Zuneigung, das vom Herzen kommt. Vokabeln rund um die Liebe auf Deutsch lernen! Hier einige Worte und Ausdrücke, die dir helfen, über die Liebe auf Deutsch zu sprechen: Ich habe dich lieb – Ich mag dich (eher im freundschaftlichen Sinne) Ich liebe dich – Der große Liebesausdruck! Lieblingsmen",
+  "status": "ok",
+  "src": "cc"
+ },
+ "fQRwCC6tEbw": {
+  "channel": "Miffy - Deutsch",
+  "lang": "de",
+  "checked": "2026-11-08T15:52:15+00:00",
+  "title": "Miffy und die Blätter 🍂 | Miffy | Ganze Folge",
+  "duration": 1081,
+  "published": "20261108",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 104.2,
+  "rare": 0.1108,
+  "var": 0.7748,
+  "speech_s": 977.1,
+  "tokens": 1697,
+  "kw": [
+   [
+    "hallo",
+    "Hallo, Miffi. Spielst du ein Spiel mit Schnuffi?",
+    12,
+    18,
+    5.06,
+    17
+   ],
+   [
+    "nacht",
+    "Also werdet ihr die ganze Nacht draußen",
+    377,
+    381,
+    5.36,
+    12
+   ],
+   [
+    "gute",
+    "Gute Nacht, Poppy. Gute Nacht, Poppy.",
+    563,
+    568,
+    5.61,
+    10
+   ],
+   [
+    "haus",
+    "nach Haus was Maschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus",
+    72,
+    78,
+    5.41,
+    7
+   ],
+   [
+    "garten",
+    "noch ein bisschen im Garten spielen.",
+    118,
+    124,
+    4.73,
+    9
+   ],
+   [
+    "kaputt",
+    "jetzt ist das Zelt kaputt, also ist wohl",
+    671,
+    676,
+    4.57,
+    5
+   ],
+   [
+    "wow",
+    "Oh, wow. Was wirst du mit den Blättern tun,",
+    125,
+    131,
+    4.71,
+    4
+   ],
+   [
+    "echten",
+    "Wie wäre es, wenn wir es mit echten",
+    283,
+    288,
+    4.51,
+    4
+   ],
+   [
+    "hack",
+    "ist Blättertag. Ich hack hack hack,",
+    171,
+    179,
+    3.73,
+    9
+   ],
+   [
+    "zelt",
+    "Hi, Poppy. Wow, ist das das Zelt? Hallo",
+    400,
+    408,
+    4.04,
+    7
+   ],
+   [
+    "grant",
+    "Melanie und Grant, die sind auch da.",
+    374,
+    379,
+    3.74,
+    6
+   ],
+   [
+    "blättern",
+    "ich glaube, man hört Blättern nicht",
+    41,
+    46,
+    3.84,
+    5
+   ],
+   [
+    "zelten",
+    "Zu Granti. Mit zelten in ihrem Garten.",
+    366,
+    373,
+    3.48,
+    9
+   ],
+   [
+    "juhu",
+    "Juhu. Zeelten macht Spaß.",
+    527,
+    536,
+    3.38,
+    4
+   ],
+   [
+    "maschen",
+    "nach Haus was Maschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus",
+    72,
+    78,
+    3.32,
+    4
+   ],
+   [
+    "hak",
+    "sie wieder zusammen. Ich hak, hak, heute",
+    168,
+    176,
+    3.01,
+    4
+   ],
+   [
+    "schnuffi",
+    "Komm, Schnuffi. Oh, Schnuffi, komm her, Schnuffi.",
+    2,
+    12,
+    2.06,
+    28
+   ],
+   [
+    "rascheln",
+    "Rascheln. ",
+    56,
+    63,
+    2.88,
+    26
+   ],
+   [
+    "poppy",
+    "Hi, Poppy. Wow, ist das das Zelt? Hallo",
+    400,
+    408,
+    2.73,
+    6
+   ],
+   [
+    "mii",
+    "Oh, sehr gut Mii. Sehr sauber. Und",
+    202,
+    210,
+    2.54,
+    3
+   ]
+  ],
+  "tx": "Komm, Schnuffi. Oh, Schnuffi, komm her, Schnuffi. Hallo, Miffi. Spielst du ein Spiel mit Schnuffi? Ja, wir spielen Stöckchen holen. Das spielt Schnuffi am liebsten. Wo ist der Stock, Schnuffi? Schnuffi sieht aus, als hätte Schnuffi ein neues Lieblingsspiel gefunden. Oh, heute sind überall Blätter. Hör mal, ich glaube, man hört Blättern nicht fallen, Miffi, das weiß ich doch. Aber man kann es hören, wenn Schnuffi durchläuft. Hör zu. Oh, jetzt höre ich es auch. Dieses Rascheln. Raschel, Raschel, Russchel, Raschel, Raschel, Raschel. Puh, jetzt muss ich nach Hause, Schnuffi, es ist Mittagszeit. Rascheln, rascheln, rascheln. Ich gehe nach Haus was Maschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus was Maschen und dann einfach rascheln rascheln, rascheln. Oh, hallo Tante Alice. Hallo Miffi, mein Liebes. Was machst du da? Ich liebe die Farben des Herbstlaubes. Also male ich diesen Baum. Ich mag Herbstlaub auch, nämlich wegen seinem Rascheln, rascheln, rascheln. Das höre ich. Seine Geräusche kann ich nicht malen, aber seine Farben. Darf ich das Bild sehen, wenn es fertig ist? Natürlich, aber das wird noch etwas dauern. Okay, ich komme nach dem Essen zurück. Rascheln, rascheln, rascheln, ich gehe nach Haus aus Maschen. Rascheln, rascheln, rascheln, ich gehe nach Haus aus Maschen. Das Essen ist noch nicht ganz fertig, Miffi, geh doch noch ein bisschen im Garten spielen. Okay. Oh, wow. Was wirst du mit den Blättern tun, Miffi? Du weißt doch, was ich tun werde. Ich habe auf dem ganzen Weg nach Hause geraschelt. Pass mal auf, wie ich jetzt im Garten weiter rascheln werde. Rasche, Raschel, Miifi, die habe ich gerade zusammengehakt. Irgendjemand muss den Garten ja sauber und ordentlich halten. Oh, tut mir leid. Die sahen so schön raschelig aus. Da konnte ich nicht anders. Aber ",
+  "status": "ok",
+  "src": "auto"
+ },
+ "hTjSotB2wwA": {
+  "channel": "German Stories for Beginners",
+  "lang": "de",
+  "checked": "2026-11-08T15:56:27+00:00",
+  "title": "Learn German from Scratch with This Easy First Day Story (A1)",
+  "duration": 1707,
+  "published": "20260928",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 76.3,
+  "rare": 0.0394,
+  "var": 0.5637,
+  "speech_s": 1038.4,
+  "tokens": 1320,
+  "kw": [
+   [
+    "deutsch",
+    "Deshalb brauche ich Deutsch für meine",
+    172,
+    179,
+    5.24,
+    17
+   ],
+   [
+    "danach",
+    "Danach gehe ich ins Badezimmer und putze",
+    306,
+    314,
+    5.3,
+    13
+   ],
+   [
+    "möchte",
+    "Ich möchte mit den Gästen besser",
+    189,
+    195,
+    5.49,
+    12
+   ],
+   [
+    "maria",
+    "Sie heißt Maria und kommt aus Italien.",
+    580,
+    586,
+    4.82,
+    12
+   ],
+   [
+    "anna",
+    "Hallo, ich heiße Anna. Hello, my name is Anna.",
+    68,
+    82,
+    4.65,
+    12
+   ],
+   [
+    "wörter",
+    "Auf dem Weg höre ich deutsche Wörter auf",
+    419,
+    426,
+    4.35,
+    12
+   ],
+   [
+    "salzburg",
+    "Jetzt wohne ich in Salzburg. Now I live in Salzburg.",
+    106,
+    118,
+    4.49,
+    10
+   ],
+   [
+    "schneider",
+    "Sie heißt Frau Schneider. Sie begrüßt uns freundlich und sagt:",
+    660,
+    679,
+    4.4,
+    7
+   ],
+   [
+    "wohne",
+    "Jetzt wohne ich in Salzburg. Now I live in Salzburg.",
+    106,
+    118,
+    4.14,
+    8
+   ],
+   [
+    "gästen",
+    "Ich möchte mit den Gästen besser",
+    189,
+    195,
+    4.14,
+    4
+   ],
+   [
+    "antworte",
+    "Ich antworte: \"Ja, heute ist mein erster",
+    560,
+    568,
+    3.83,
+    4
+   ],
+   [
+    "setze",
+    "Ich setze mich neben Maria. Kurz danach kommt unsere Lehrerin in den",
+    629,
+    649,
+    4.15,
+    3
+   ],
+   [
+    "kurses",
+    "Kurses. Danach erklärt sie den Ablauf des",
+    728,
+    743,
+    3.25,
+    4
+   ],
+   [
+    "language",
+    "Learning a new language through a story",
+    0,
+    5,
+    3.59,
+    2
+   ],
+   [
+    "wiederhole",
+    "Am Abend wiederhole ich die Wörter noch",
+    1420,
+    1427,
+    3.57,
+    2
+   ],
+   [
+    "snack",
+    "essen einen kleinen Snack. In der Pause trinken wir Wasser und",
+    1079,
+    1099,
+    3.39,
+    2
+   ],
+   [
+    "deutschkurs",
+    "Deutschkurs German course",
+    26,
+    34,
+    2.76,
+    11
+   ],
+   [
+    "sprachschule",
+    "Sprachschule Language school",
+    31,
+    38,
+    2.62,
+    4
+   ]
+  ],
+  "tx": "Learning a new language through a story is fun and very interesting. Today, we are learning German with the story \"My First German Course\". We speak slowly and clearly. The English translation is spoken and shown as subtitles. At the end, there is a short Goethe-style test to check your understanding. First, we will learn 10 important words from the story. Deutschkurs German course Sprachschule Language school Kursraum Classroom Sich anmelden To register Sich vorstellen To introduce oneself Hausaufgabe Homework Pause Break Sich verbessern To improve Selbstbewusst Confident Sich verabschieden To say goodbye Hallo, ich heiße Anna. Hello, my name is Anna. Hallo, ich heiße Anna. Ich bin 22 Jahre alt. I am 22 years old. Ich bin 22 Jahre alt. Ich komme aus Spanien. I come from Spain. Ich komme aus Spanien. Jetzt wohne ich in Salzburg. Now I live in Salzburg. Jetzt wohne ich in Salzburg. Ich wohne allein in einer kleinen Wohnung. Ich wohne allein in einer kleinen Wohnung. Meine Wohnung ist nicht groß, aber sie ist sehr gemütlich. Meine Wohnung ist nicht groß, aber sie ist sehr gemütlich. Ich arbeite in einem kleinen Hotel in Salzburg. Ich arbeite in einem kleinen Hotel in Salzburg. Deshalb brauche ich Deutsch für meine Arbeit. Deshalb brauche ich Deutsch für meine Arbeit. Ich möchte mit den Gästen besser sprechen. Ich möchte mit den Gästen besser sprechen. Außerdem möchte ich mich in Österreich sicherer fühlen. Außerdem möchte ich mich in Österreich sicherer fühlen. Deshalb habe ich mich für einen Deutschkurs angemeldet. Deshalb habe ich mich für einen Deutschkurs angemeldet. Heute ist mein erster Tag im Deutschkurs. Heute ist mein erster Tag im Deutschkurs. Ich bin ein bisschen nervös. Am Morgen stehe ich um 7 Uhr auf. Ich mache mein Bett und öffne das Fenster. Ich mache mein",
+  "status": "ok",
+  "src": "auto"
+ },
+ "opvdvlO8m0k": {
+  "channel": "Peppa Pig Deutsch - Offizieller Kanal",
+  "lang": "de",
+  "checked": "2026-11-08T15:58:55+00:00",
+  "title": "Peppa-Wutz-Geschichten 🍼 Baby Evie MACHT Peppa beim ESSEN NACH! 🥣 | LEGO DUPLO Peppa-Wutz-Folgen",
+  "duration": 1826,
+  "published": "20260930",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 114.1,
+  "rare": 0.1204,
+  "var": 0.8243,
+  "speech_s": 1733.9,
+  "tokens": 3298,
+  "kw": [
+   [
+    "spass",
+    "",
+    0,
+    0,
+    5.22,
+    15
+   ],
+   [
+    "euch",
+    "wird es euch Evi nachmachen. So, wollen wir einsteigen und im Zug",
+    150,
+    160,
+    5.71,
+    13
+   ],
+   [
+    "sehen",
+    "Alle sehen sich genau an, wie Effi ihre",
+    498,
+    505,
+    5.69,
+    10
+   ],
+   [
+    "gleich",
+    "Und jetzt geht es gleich in den Zug.",
+    123,
+    128,
+    5.59,
+    10
+   ],
+   [
+    "baby",
+    "Zimmer für das neue Baby, nicht für uns.",
+    1314,
+    1321,
+    4.71,
+    18
+   ],
+   [
+    "mama",
+    "Danke dir, Mama. Wir stoppen, gucken, hören und geben",
+    79,
+    89,
+    4.68,
+    15
+   ],
+   [
+    "papa",
+    "Oh, sieht aus, als würde Papa Wutz ein",
+    200,
+    206,
+    4.46,
+    10
+   ],
+   [
+    "lieb",
+    "richtig lieb. Und alle haben Evi ganz doll lieb. Heute",
+    735,
+    743,
+    4.47,
+    7
+   ],
+   [
+    "ähm",
+    "Bevor wir darüber gehen, müssen wir ähm",
+    63,
+    71,
+    4.12,
+    12
+   ],
+   [
+    "lila",
+    "Effi. Peppa hat blau, Luzie hat lila,",
+    379,
+    387,
+    3.9,
+    6
+   ],
+   [
+    "wanne",
+    "großen Wanne voller Schaumblasen. Mama, kann Efi nicht zu uns in die Wanne",
+    934,
+    941,
+    3.69,
+    6
+   ],
+   [
+    "gemütlichen",
+    "Zum gemütlichen Fluss. ",
+    758,
+    763,
+    3.63,
+    6
+   ],
+   [
+    "evi",
+    "verantwortungsvoll und für Evi ein richtig gutes Vorbild.",
+    118,
+    128,
+    3.0,
+    23
+   ],
+   [
+    "tropf",
+    "gleich mit dem Streichen an. Tropf,",
+    1346,
+    1351,
+    3.07,
+    8
+   ],
+   [
+    "windel",
+    "schmutzige Windel aus. Nun, sauber machen mit einem Feuchttuch. Danach ein",
+    232,
+    240,
+    3.17,
+    6
+   ],
+   [
+    "enten",
+    "Enten klettern den Berg hoch. Gemeinsam Kunst zu machen kann wunderbar",
+    515,
+    523,
+    3.58,
+    5
+   ],
+   [
+    "schorsch",
+    "Kriegst mich nicht, Schorsch. Ich bin zu",
+    13,
+    18,
+    2.83,
+    50
+   ],
+   [
+    "peppa",
+    "Peppa Wutz Geschichten Lasst uns springen.",
+    0,
+    7,
+    2.17,
+    49
+   ],
+   [
+    "effi",
+    "Babys wie Effi lernen, indem sie alles",
+    30,
+    35,
+    2.76,
+    28
+   ],
+   [
+    "wutz",
+    "Peppa Wutz Geschichten Lasst uns springen.",
+    0,
+    7,
+    2.39,
+    19
+   ]
+  ],
+  "tx": "Peppa Wutz Geschichten Lasst uns springen. Und schrubb, schrubb, schrubb, dann wisch, wisch, wisch und tada! Heute hat Peppa Kriegst mich nicht, Schorsch. Ich bin zu schnell. ein riesen Chaos angerichtet. Oh je. Ups, ups. Entschuldigung, das war keine Absicht. Das kann passieren. Seid einfach vorsichtig. Babys wie Effi lernen, indem sie alles nachmachen. Was meinst du? Oh. Effi macht Peppa und Schorsch nach. Wenn wir also ganz brav sind, ist Effi dann auch ganz brav? Na ja. Ja, Peppa. Ganz genauso ist es. Schorsch und ich sind ab jetzt ganz brav. Also bist du auch brav, Effi? Ja! Peppas Familie macht sich jetzt auf den Weg zum Bahnhof. Stopp! Bevor wir darüber gehen, müssen wir ähm Peppa weiß nicht recht, was man jetzt machen muss. Stoppen, gucken, hören und Erwachsenen die Hand geben. Danke dir, Mama. Wir stoppen, gucken, hören und geben Erwachsenen die Hand. Dank Peppa haben jetzt alle ganz sicher die Straße überquert. Und jetzt müssen sie auf den Zug warten. Vorsicht, Schorsch. Wir müssen brav sein für Effi. Also sollten wir am Bahnhof nicht spielen. Peppa und Schorsch sind verantwortungsvoll und für Evi ein richtig gutes Vorbild. Und jetzt geht es gleich in den Zug. Der Zug ist da. Auf dem Bahnsteig rennt man nicht. Entschuldigung, Mama. Schon gut. Es ist nicht so, dass ihr keinen Spaß haben dürft. Habt Spaß, aber seid vorsichtig. Dann wird es euch Evi nachmachen. So, wollen wir einsteigen und im Zug noch ein bisschen mehr Spaß haben? Ganz vorsichtigen Spaß. Peppa passt sehr gern auf Evi auf. Besonders, wenn Aufpassen heißt, dass dabei alle zusammen Spaß haben. Ich bin die schnellste. Heute veranstalten Peppa und Schorsch ein Rennen. Ich komme rein. Oh, sieht aus, als würde Papa Wutz ein Windelrennen veranstalten. leid, ihr zwei. Ich bin zwar schnell beim Windeln we",
+  "status": "ok",
+  "src": "auto"
+ },
+ "zOQ-Cl2QVr0": {
+  "channel": "Bluey - Deutsch Offizieller Kanal",
+  "lang": "de",
+  "checked": "2026-11-08T16:00:14+00:00",
+  "title": "Der letzte Luftballon 🎈 | LEGO Bluey Kurzgeschichten | Bluey - Deutsch Offizieller Kanal",
+  "duration": 158,
+  "published": "20260820",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 131.9,
+  "rare": 0.1442,
+  "var": 0.7518,
+  "speech_s": 148.3,
+  "tokens": 326,
+  "kw": [
+   [
+    "nein",
+    "Nein, nein, nein, schnell, schnell! Ah, Mom!",
+    53,
+    58,
+    5.52,
+    6
+   ],
+   [
+    "schnell",
+    "Butsch! Ah, Bingo, schnell! Ja!",
+    40,
+    45,
+    5.51,
+    4
+   ],
+   [
+    "los",
+    "Okay, los! ",
+    32,
+    38,
+    5.26,
+    4
+   ],
+   [
+    "hilfe",
+    "Ah, Bingo, Hilfe! Ich kann nicht, ich bin eine",
+    97,
+    102,
+    5.24,
+    3
+   ],
+   [
+    "schwierig",
+    "Das ist total schwierig! Okay, ich mache jetzt Frühstück, Kinder.",
+    55,
+    64,
+    4.69,
+    2
+   ],
+   [
+    "seht",
+    "Seht nur. Wow! Wahnsinn, seht euch das an.",
+    106,
+    111,
+    4.32,
+    2
+   ],
+   [
+    "bingo",
+    "Oh, gar nichts, Bingo. Es ist nur ein",
+    26,
+    30,
+    3.63,
+    6
+   ],
+   [
+    "tageszeitung",
+    "meine Tageszeitung. Dad!",
+    95,
+    99,
+    3.95,
+    3
+   ],
+   [
+    "dad",
+    "Dad, wir spielen Luftballon-Butsch. Kannst du es schwieriger machen?",
+    91,
+    96,
+    3.82,
+    3
+   ],
+   [
+    "mom",
+    "Ah, Mom! Das ist total schwierig!",
+    55,
+    61,
+    3.78,
+    3
+   ],
+   [
+    "schnapp",
+    "Bluey, schnapp ihn! Das war gut!",
+    50,
+    54,
+    3.43,
+    2
+   ],
+   [
+    "luftballon",
+    "Ist es Luftballon-Butsch? Ja, Luftballon-Butsch.",
+    10,
+    16,
+    2.99,
+    9
+   ],
+   [
+    "butch",
+    "Nein, nein, nein, Butch. Oh, ich krieg ihn.",
+    124,
+    129,
+    2.73,
+    2
+   ]
+  ],
+  "tx": "Bluey! Da fällt mir ein schönes Spiel für euch ein. Ist es Luftballon-Butsch? Ja, Luftballon-Butsch. Toll, Luftballon-Butsch, juhu! Diese Folge von Bluey heißt \"Der letzte Luftballon\". Was ist Luftballon-Butsch? Du musst den Luftballon in der Luft halten und er darf nicht auf den Boden fallen. Was passiert, wenn er auf den Boden fällt? Oh, gar nichts, Bingo. Es ist nur ein Spiel. Oh, na gut. Seid ihr bereit? Ja! Okay, los! Ah, Butsch! Butsch! Butsch! Ah, Bingo, schnell! Ja! Hier, Butsch! Butsch! Ich krieg ihn, Bluey! Butsch! Du kriegst ihn! Bluey, schnapp ihn! Das war gut! Toll! Nein, nein, nein, schnell, schnell! Ah, Mom! Das ist total schwierig! Okay, ich mache jetzt Frühstück, Kinder. Butsch! Mom! Wir dürfen nicht so doll machen. Ist einfacher. Butsch! Butsch! So, jetzt ist es ja noch viel lustiger. Guck mal, Mom! Butsch! Hey, tolle Strategie, ihr Luftballon-Mädchen. ein Luftballon-Butsch-Experte. Ja, aber es ist nicht mehr so lustig. Kannst du es wieder schwierig machen? Entschuldige, Spatz, aber ich habe gerade ganz viel zu tun. Oh, guten Morgen, ihr Schnuffelhasen. Ich sag guten Morgen, ihr Schnuffelhasen. ab, Partymäuse? Dad, wir spielen Luftballon-Butsch. Kannst du es schwieriger machen? Ja, meine Tageszeitung. Dad! Ah, Bingo, Hilfe! Ich kann nicht, ich bin eine Tageszeitung. Ah, ah, oh, wie dramatisch die immer schreiben. Ah, ja, ja, ja. Seht nur. Wow! Wahnsinn, seht euch das an. Bluey, Hilfe! Ich rette dich, Bingo. Lass sie los. Oh, möchtest du die Tageszeitung durchblättern? Okay, aber mach nicht das Kreuzworträtsel. Oh, lecker, wunderbarer Orangensaft. Ja, bitte. Nein, nein, nein, Butch. Oh, ich krieg ihn. es, Bingo. Ah, süßes Kind, du wirst viel zu schnell groß. Ah, Dad, was los? Bingo, schnapp ihn. Er darf nicht auf den Boden fallen. Louis, Hilfe. Ich scha",
+  "status": "ok",
+  "src": "auto"
  }
 }
