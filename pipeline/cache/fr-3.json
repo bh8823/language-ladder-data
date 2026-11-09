@@ -1788,405 +1788,1085 @@
  "LLz-jGzGrIQ": {
   "channel": "Frenza: learn french",
   "lang": "fr",
-  "checked": "2026-10-31T16:35:25+00:00",
+  "checked": "2026-11-09T17:14:56+00:00",
   "title": "A Family at the Beach | Easy French Story with Dialogues (A1-A2)",
   "duration": 1110,
   "published": "20260623",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 191.0,
   "rare": 0.0314,
+  "var": 0.8396,
   "speech_s": 670.5,
   "tokens": 2134,
   "kw": [
    [
-    "goéland",
-    "C'est un goéland ou une mouette.",
-    557
+    "mer",
+    "Ces gens jettent des étoiles de mer dans l'eau.",
+    1,
+    4,
+    5.1,
+    14
    ],
    [
-    "marchez",
-    "Marchez doucement sur l'herbe. Ne faites pas de bruit.",
-    320
-   ],
-   [
-    "mouette",
-    "Non, vilaine mouette. Laisse-les tranquilles.",
-    3
-   ],
-   [
-    "fixement",
-    "Il regarde fixement dans le trou.",
-    23
-   ],
-   [
-    "retournons",
-    "Moins de bavardage, retournons au travail.",
-    900
-   ],
-   [
-    "poulailler",
-    "Ne détruisez pas notre poulailler. Un marché avec vous?",
-    135
-   ],
-   [
-    "pointues",
+    "oui",
     "Oui, mais il a de grandes dents pointues.",
-    84
+    84,
+    88,
+    5.8,
+    13
+   ],
+   [
+    "regarde",
+    "Maman, regarde! Ces gens jettent des étoiles de mer dans l'eau.",
+    0,
+    4,
+    5.13,
+    13
+   ],
+   [
+    "chien",
+    "Le chien se penche. Il regarde fixement dans le trou.",
+    20,
+    25,
+    4.86,
+    13
+   ],
+   [
+    "regardez",
+    "Regardez! Les autres personnes sur la plage commencent à faire la même chose.",
+    7,
+    12,
+    4.78,
+    14
+   ],
+   [
+    "étoiles",
+    "Ces gens jettent des étoiles de mer dans l'eau.",
+    1,
+    4,
+    4.59,
+    13
+   ],
+   [
+    "maman",
+    "Maman, regarde! Ces gens jettent des étoiles de mer dans l'eau.",
+    0,
+    4,
+    4.74,
+    12
+   ],
+   [
+    "plage",
+    "Les autres personnes sur la plage commencent à faire la même chose.",
+    8,
+    12,
+    4.63,
+    10
    ],
    [
     "puits",
     "Il vous attend au fond du vieux puits de Pierre.",
-    316
+    316,
+    319,
+    4.14,
+    6
+   ],
+   [
+    "vagues",
+    "Écoutons le bruit des vagues et le champ de l'Océan.",
+    546,
+    550,
+    4.18,
+    3
+   ],
+   [
+    "cruel",
+    "C'est un animal énorme, féroce et vraiment très cruel.",
+    74,
+    79,
+    3.86,
+    3
+   ],
+   [
+    "mystérieuse",
+    "Une ombre mystérieuse. Qu'est-ce qu'elle tient dans sa main?",
+    484,
+    490,
+    3.83,
+    3
+   ],
+   [
+    "marchez",
+    "Marchez doucement sur l'herbe. Ne faites pas de bruit.",
+    320,
+    324,
+    3.06,
+    4
+   ],
+   [
+    "verger",
+    "Un autre chien géant a mangé votre repas dans le verger.",
+    252,
+    257,
+    3.38,
+    2
+   ],
+   [
+    "pointues",
+    "Oui, mais il a de grandes dents pointues.",
+    84,
+    88,
+    3.19,
+    2
+   ],
+   [
+    "poulailler",
+    "Ne détruisez pas notre poulailler. Un marché avec vous?",
+    135,
+    139,
+    3.01,
+    2
+   ],
+   [
+    "mouette",
+    "Non, vilaine mouette. Laisse-les tranquilles.",
+    3,
+    7,
+    2.98,
+    3
+   ],
+   [
+    "goéland",
+    "C'est un goéland ou une mouette.",
+    557,
+    560,
+    2.44,
+    3
+   ],
+   [
+    "retournons",
+    "Moins de bavardage, retournons au travail.",
+    900,
+    904,
+    2.83,
+    2
+   ],
+   [
+    "fixement",
+    "Il regarde fixement dans le trou.",
+    23,
+    25,
+    2.75,
+    2
    ]
   ],
-  "tx": "Maman, regarde! Ces gens jettent des étoiles de mer dans l'eau. Non, vilaine mouette. Laisse-les tranquilles. Elles veulent vivre. Regardez! Les autres personnes sur la plage commencent à faire la même chose. Mais c'est injuste. Elles n'ont rien fait de mal. Regardez dedans, César! Il est caché tout au fond de l'eau. Le chien se penche. Il regarde fixement dans le trou. Approchez-vous du feu, les enfants. Léo, pose cette branche. D'accord, maman. Regarde, Rose. Tu frissones à côté du feu. J'ai peur, Léo. Quelque chose bouge près de la mare noire. C'est bizarre, papa. Pourquoi les animaux sont tous dehors? Ils ont peur de César, le nouveau chien du fermier. C'est un animal énorme, féroce et vraiment très cruel. Plus cruel qu'un Loup sauvage. Ce n'est qu'un chien. Oui, mais il a de grandes dents pointues. Il fait peur. Écoutez. Il sort de sa niche. Il commence à grogner. Qu'est-ce que vous faites là-bas? Tout est à moi. Oh non, maman! Ses yeux brillent dans le noir! Partez d'ici! Si je vous attrape, je vous mords! S'il vous plaît, César, calmez-vous! Ne nous attaquez pas! Faisons un marché. Ne détruisez pas notre poulailler. Un marché avec vous? Vous êtes faibles et stupides. Restez dans votre enclos! On vous apporte à manger! Quoi? Vous capitulez devant ce monstre? C'est fou! Mais non, Léo. Ils veulent Juste protéger les bébés poussants. Regarde! César réfléchit. L'idée lui plaît beaucoup. J'accepte. Mais si le bol est vide, je détruis tout. Le matin arrive. Regardez. Barnabé apporte le bol. Oh non, Barnabé. Pourquoi tu t'arrêtes sur le chemin? Regarde, Rose. Il s'amuse à chasser un vilain papillon. Il prend son temps, les enfants. Il marche très lentement. C'est dangereux. Le soleil est déjà haut dans le ciel. Tu te moques de moi, petit chat. J'ai faim. Viens ici! Le te",
+  "tx": "Maman, regarde! Ces gens jettent des étoiles de mer dans l'eau. Non, vilaine mouette. Laisse-les tranquilles. Elles veulent vivre. Regardez! Les autres personnes sur la plage commencent à faire la même chose. Mais c'est injuste. Elles n'ont rien fait de mal. Regardez dedans, César! Il est caché tout au fond de l'eau. Le chien se penche. Il regarde fixement dans le trou. Approchez-vous du feu, les enfants. Léo, pose cette branche. D'accord, maman. Regarde, Rose. Tu frissones à côté du feu. J'ai peur, Léo. Quelque chose bouge près de la mare noire. C'est bizarre, papa. Pourquoi les animaux sont … On vous apporte à manger! Quoi? Vous capitulez devant ce monstre? C'est fou! Mais non, Léo. Ils veulent Juste protéger les bébés poussants. Regarde! César réfléchit. L'idée lui plaît beaucoup. J'accepte. Mais si le bol est vide, je détruis tout. Le matin arrive. Regardez. Barnabé apporte le bol. Oh non, Barnabé. Pourquoi tu t'arrêtes sur le chemin? Regarde, Rose. Il s'amuse à chasser un vilain papillon. Il prend son temps, les enfants. Il marche très lentement. C'est dangereux. Le soleil est déjà haut dans le ciel. Tu te moques de moi, petit chat. J'ai faim. Viens ici! Le temps est écoulé. … n'y a aucun autre chien. Ses oreilles se dressent. Il montre ses dents blanches. Un lâche. Moi. Je vais lui donner une leçon. Emmène-moi voir ce menteur tout de suite. Où est-il? Suivez-moi. Il vous attend au fond du vieux puits de Pierre. Oui, Rose. Marchez doucement sur l'herbe. Ne faites pas de bruit. Regarde, maman. Le chat court vite maintenant. Il guide le chien. Le puits est Juste là, sous le grand arbre mort. C'est un endroit sombre. L'eau y est noire et profonde. Regardez dedans, César. Il est caché tout au fond de l'eau. Viens ici, misérable. Montre-toi si tu es courageux. Le chien … C'est magnifique, maman. Le petit chat a gagné avec sa tête. Oui, Rose. L'intelligence est plus forte que la violence. C'est une belle leçon pour nous tous ce soir. Mais attendez. Regardez là-bas, derrière la barrière Rouge. Je vois une ombre, maman. Une ombre mystérieuse. Qu'est-ce qu'elle tient dans sa main? On dirait un filet. Attends, maman. C'est qui? Un homme avec une grande cage. Restons ici en sécurité et observons de loin, les enfants. Regardez. L'homme s'éloigne déjà et son ombre disparaît complètement dans la nuit. C'est plus prudent. La ferme a retrouvé son calme ce soir … mouette. C'est un goéland, Léo. Tu deviens un vrai petit expert de la nature. Un goéland? Maman, j'adore cet endroit. On découvre de jolies choses partout et j'aime déjà le goût des glaces locales. C'est un moment très agréable en famille. Profitons-en bien avant le coucher du soleil. Excusez-moi, est-ce que vous savez où se trouve le stand de glace à la vanille? Oui, c'est Juste là-bas, à côté des grands parasols bleus et jaunes. Merci beaucoup, jeune homme. Bonne fin de journée à vous. Le soleil commence à baisser. Faisons une promenade agréable au bord de l'eau. Oh! Regardez! Les vagues … ce soir. Cela me rend tellement triste. Je comprends ta tristesse, Rose, mais... Je sais que nous ne pouvons pas régler ce grand problème. Avançons doucement. Je marche très prudemment pour ne pas les abîmer ou les blesser. Miam! Des étoiles de mer gratuites pour mon dîner. Non, Vilaine Mouette. Laisse-les tranquilles. Elles veulent vivre. D'accord, d'accord. Je vais chercher un morceau de poisson ailleurs. Regardez cette petite fille là-bas. Elle est aussi très triste pour les étoiles de mer. S'il vous plaît, vous pouvez m'aider. Je veux empêcher ces créatures de mourir. Pour être tout à … celle-ci. Je peux sauver celle-là. Merci, gentille fille. Je m'appelle Etoile et je veux vivre. Oh mon Dieu! L'étoile de mer parle Elle aussi. S'il vous plaît, jetez-moi dans l'Océan. L'air sec me pique. Merci. L'eau est fraîche et parfaite. Vous êtes mes héros. C'est incroyable. Cet argument est très fort. Elle a raison, papa. Absolument. Chaque petit geste compte. Même si le problème est immense. T'as raison, Julie. Allez l'équipe. Ramassons les étoiles de mer, nous aussi. Oui, sauvons celle-ci. Et puis celle-là. Celle-là et encore une autre. Rose, tu te rappelles notre séjour dans la … en pensant attaquer son propre reflet dans l'eau. C'est une histoire magnifique. Le petit chat a gagné. Avec sa tête, pas avec la violence. Hé, vous parlez de puits et d'eau douce, mais ici, c'est l'Océan. Moins de paroles, plus d'action. Aidez les autres étoiles sur le sable. Le poisson a raison. Moins de bavardage, retournons au travail. Maman, regarde! Ces gens jettent des étoiles de mer dans l'eau. C'est amusant! C'est une excellente idée. Viens, nous allons les aider nous aussi. Regardez! Les autres personnes sur la plage commencent à faire la même chose que nous. C'est l'effet … amis. Au revoir, Sarah. Continue de protéger la nature avec ton grand cœur. Au revoir. À bientôt, peut-être, sur une autre plage. Bon, retournons vers notre campement pour préparer le dîner. Je vois une ombre, maman. Une ombre mystérieuse, qui marche discrètement. Attends, maman. C'est l'homme mystérieux de notre dernière aventure à la ferme. C'est incroyable. Pourquoi cet homme est-il ici, sur cette île? Il regarde vers l'eau. Est-ce qu'il cherche à attraper nos amis les étoiles de mer? Oh non! Il ne doit pas détruire notre beau travail de ce soir! On doit le suivre! Papa, s'il te plaît, … français. Écrivez votre avis dans les commentaires selon vous. Qui est cet homme à la barrière Rouge? Oh papa, moi je sais. C'est le... Rose, gardons le secret absolu pour le prochain épisode. D'accord, d'accord. Au revoir tout le monde. A bientôt et bon apprentissage! Oui, rendez-vous la semaine prochaine pour découvrir la suite de notre enquête. A bientôt les amis. Prenez soin de l'Océan. Et ne marchez pas sur mes pinces. Au revoir. Bon, je vais dormir mous aussi. Bonsoir la plage. Au revoir les étoiles de mer. Éteignons les caméras maintenant. A la semaine prochaine. Salut tout le monde.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8491
+  "src": "cc"
  },
  "KRyALtH8dJU": {
   "channel": "Frenza: learn french",
   "lang": "fr",
-  "checked": "2026-10-31T16:35:32+00:00",
+  "checked": "2026-11-09T17:15:05+00:00",
   "title": "French Dialogues for Everyday Problems | Card Declined, a Leak, Train Tickets (A1-A2)",
   "duration": 1229,
   "published": "20251219",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 128.4,
   "rare": 0.0822,
+  "var": 0.8529,
   "speech_s": 1165.1,
   "tokens": 2493,
   "kw": [
    [
-    "cuisinez",
-    "Vous cuisinez quelque chose de spécial ?",
-    468
+    "oui",
+    "Oui, deux fois, et ça me dit “paiement refusé”.",
+    16,
+    23,
+    5.8,
+    65
    ],
    [
-    "insérez",
-    "Insérez la carte ici, s’il vous plaît.",
-    30
+    "merci",
+    "Merci, j’espère que celle-ci sera plus gentille.",
+    101,
+    107,
+    5.62,
+    25
    ],
    [
-    "mouchoir",
-    "Forte ? Là, je ressemble à un mouchoir géant.",
-    631
+    "veux",
+    "Super… juste quand je veux payer mes courses.",
+    70,
+    76,
+    5.61,
+    16
    ],
    [
-    "retards",
-    "Normalement oui, mais il y a parfois des retards.",
-    358
+    "vraiment",
+    "Merci pour votre patience, vraiment. Aucun problème, c’est mon travail.",
+    122,
+    128,
+    5.8,
+    12
    ],
    [
-    "stressé",
-    "Bonne idée. Moi je cuisine quand je suis stressé.",
-    484
+    "chocolat",
+    "Je vais prendre encore du chocolat, on ne sait jamais.",
+    547,
+    552,
+    4.49,
+    5
+   ],
+   [
+    "sucre",
+    "Oui, du sucre et du beurre aussi.",
+    499,
+    503,
+    4.47,
+    4
+   ],
+   [
+    "chantier",
+    "Ah merci, je n’avais pas vu. C’est mon premier jour sur le chantier.",
+    736,
+    742,
+    4.3,
+    4
+   ],
+   [
+    "rire",
+    "On peut rire et être triste, ça fait partie du soin.",
+    643,
+    648,
+    4.79,
+    3
    ],
    [
     "rassure",
     "Ah, ça me rassure un peu.",
-    57
+    57,
+    61,
+    3.98,
+    3
    ],
    [
-    "wagon",
-    "Oui, très bien, le wagon est calme aujourd’hui.",
-    421
+    "retards",
+    "Normalement oui, mais il y a parfois des retards.",
+    358,
+    363,
+    3.68,
+    3
    ],
    [
-    "aimable",
-    "C’est vrai, vous êtes très aimable.",
-    394
+    "survivre",
+    "J’essaie de survivre à la semaine.",
+    131,
+    135,
+    4.18,
+    2
+   ],
+   [
+    "annonces",
+    "Oui, je commence même à chercher des annonces.",
+    222,
+    227,
+    4.16,
+    2
+   ],
+   [
+    "mouchoir",
+    "Forte ? Là, je ressemble à un mouchoir géant.",
+    631,
+    637,
+    3.42,
+    3
+   ],
+   [
+    "stressé",
+    "Bonne idée. Moi je cuisine quand je suis stressé.",
+    484,
+    489,
+    3.48,
+    2
+   ],
+   [
+    "insérez",
+    "Insérez la carte ici, s’il vous plaît.",
+    30,
+    34,
+    2.76,
+    2
+   ],
+   [
+    "cuisinez",
+    "Vous cuisinez quelque chose de spécial ?",
+    468,
+    472,
+    2.43,
+    2
    ]
   ],
-  "tx": "﻿Bonjour, excusez-moi, ma carte ne fonctionne pas du tout. D’accord, je peux vérifier. Vous avez déjà essayé ? Oui, deux fois, et ça me dit “paiement refusé”. Ah ok, je comprends. On va réessayer ensemble. D’accord, j’espère que ça va marcher cette fois. Insérez la carte ici, s’il vous plaît. Voilà… oh non, encore refusé. Hmm, peut-être un problème avec la puce. Elle a décidé de m’abandonner aujourd’hui. Oui, elle semble un peu capricieuse. Je vous jure, elle marchait très bien ce matin. Parfois la machine du magasin fait des siennes aussi. Ah, ça me rassure un peu. Vous pouvez essayer en sans contact ? Oui, je tente… oh, toujours rien. D’accord, ça vient peut-être du système bancaire. Super… juste quand je veux payer mes courses. Vous pouvez vérifier votre application bancaire ? Oui, je regarde… une seconde… Tout va bien ? Oui, j’ai de l’argent, pas de souci. Alors c’est sûrement la machine ici. Elle n’aime pas mon prénom, peut-être. Ou elle préfère une autre cliente ! Je peux essayer une autre caisse ? Oui, bonne idée. Je vous accompagne. Merci, j’espère que celle-ci sera plus gentille. Essayons… insérez la carte. Voilà… oh ! Ça fonctionne ! Parfait ! Je savais que l’autre machine était bizarre. Elle avait sûrement un mauvais jour. Comme nous, parfois ça arrive. Merci pour votre patience, vraiment. Aucun problème, c’est mon travail. Vous êtes très sympa pour un lundi matin. J’essaie de survivre à la semaine. Je comprends totalement. Vous avez besoin d’un sac pour vos achats ? Oui, un petit sac, s’il vous plaît. Le voici. Tout est réglé maintenant. Merci beaucoup, vous m’avez évité une crise. Heureux d’avoir sauvé la journée. Bonne journée à vous ! À vous aussi, et bonne chance avec la carte ! Tu as vu ? La fuite au plafond a recommencé. Oui, je viens de regarder. L’ea",
+  "tx": "﻿Bonjour, excusez-moi, ma carte ne fonctionne pas du tout. D’accord, je peux vérifier. Vous avez déjà essayé ? Oui, deux fois, et ça me dit “paiement refusé”. Ah ok, je comprends. On va réessayer ensemble. D’accord, j’espère que ça va marcher cette fois. Insérez la carte ici, s’il vous plaît. Voilà… oh non, encore refusé. Hmm, peut-être un problème avec la puce. Elle a décidé de m’abandonner aujourd’hui. Oui, elle semble un peu capricieuse. Je vous jure, elle marchait très bien ce matin. Parfois la machine du magasin fait des siennes aussi. Ah, ça me rassure un peu. Vous pouvez essayer en … Le voici. Tout est réglé maintenant. Merci beaucoup, vous m’avez évité une crise. Heureux d’avoir sauvé la journée. Bonne journée à vous ! À vous aussi, et bonne chance avec la carte ! Tu as vu ? La fuite au plafond a recommencé. Oui, je viens de regarder. L’eau tombe plus vite qu’hier. C’est incroyable, on a déjà signalé ça trois fois. Oui, et personne ne nous donne de solution. Ça devient vraiment pénible. Et en plus, ça abîme nos meubles. Oui, je dois déplacer tout le salon chaque jour. Tu penses qu’on devrait porter plainte cette fois ? Franchement, j’y pense de plus en plus. Moi … sera utile si on va plus loin. On mérite un logement correct, ce n’est pas trop demander. Je suis complètement d’accord. On fait quoi en premier ? Agence ou avocat ? L’agence d’abord. On verra selon leur réponse. Oui, c’est logique. Et ce soir, je regarde encore les annonces. D’accord, je regarderai aussi. On va finir par trouver quelque chose de mieux. Oui, je veux juste vivre sans seau au milieu du salon. Bonjour madame, contrôle des billets s’il vous plaît. Bonjour, bien sûr, attendez une seconde. Merci. Vous voyagez jusqu’à quelle destination ? Je vais jusqu’à Bordeaux aujourd’hui. Très … parler aux voyageurs. C’est vrai, vous êtes très aimable. Merci, c’est important d’être cordial. Vous avez souvent des problèmes avec des billets ? Oui, parfois des billets invalides ou oubliés. Ah oui, ça doit être compliqué à gérer. Oui, mais la plupart des gens sont corrects. Tant mieux, ça rend votre travail plus agréable. C’est vrai. Et vous, tout se passe bien pour le voyage ? Oui, très bien, le wagon est calme aujourd’hui. Parfait, c’est agréable pour tout le monde. Merci encore pour votre aide. Avec plaisir, je repasserai plus tard dans le wagon. D’accord, bonne tournée alors. … où ? À côté des yaourts, au rayon frais. Parfait, je vais y aller après. Vous faites vos courses souvent ici ? Oui, c’est près de chez moi. Ah ok, moi j’y travaille depuis deux ans. Alors vous connaissez chaque rayon par cœur. Exactement, même les produits cachés. C’est pratique pour moi aujourd’hui ! Tant mieux, j’aime aider les clients. Vous êtes vraiment très aimable. Merci, c’est gentil. Je vais prendre encore du chocolat, on ne sait jamais. Très bon choix, le chocolat sauve tout. Oui, même les gâteaux ratés. Alors prenez-en deux, par sécurité. Vous avez raison, je vais en prendre … d’un peu d’humour. On peut rire et être triste, ça fait partie du soin. C’est vrai… ça fait un peu de bien. Tu veux sortir prendre l’air un moment ? Oui, ça me ferait du bien de marcher. On peut aller au parc, il y a du soleil aujourd’hui. Bonne idée, j’ai besoin de lumière. Et de chocolat, tu veux du chocolat ? Toujours, le chocolat est mon meilleur ami. Je confirme, il est plus fiable que beaucoup de gens. Tu n’as pas tort… Tu sais, tu mérites quelqu’un qui te respecte vraiment. J’essaie de me dire ça, mais c’est difficile. C’est normal, mais chaque jour tu iras un peu mieux. J’espère… … a travaillé dur, même sous la pluie. Je vois, vous êtes tous très courageux. Ou un peu fous, je ne sais pas. Où est-ce que je dois commencer la visite ? Je peux vous accompagner si vous voulez. Oui, ce serait beaucoup plus simple. Alors suivez-moi, on va commencer par le rez-de-chaussée. D’accord. Les murs seront finis quand ? Normalement la semaine prochaine, si tout va bien. Très bien. Et le plafond ici, il manque encore ? Oui, mais les matériaux arrivent demain. Ah parfait, ça avance vite finalement. Oui, malgré quelques retards au début. Quel genre de retards ? Le fournisseur s’est … votre aide, vraiment. Avec plaisir, c’est normal sur un chantier. Bonjour, c’est votre premier jour de cours aussi ? Oui, je viens juste d’arriver. Je suis un peu stressée. Ah ok, je comprends, moi aussi je suis nerveux. Ça rassure de ne pas être seule dans ce cas. Vous étudiez le français depuis longtemps ? Non, je commence presque à zéro. Moi aussi, j’ai juste appris quelques phrases. Alors on va galérer ensemble ! Oui, au moins ce sera plus amusant. Vous pensez que le professeur est strict ? Je ne sais pas, mais il a l’air sympathique. Tant mieux, j’ai peur des professeurs trop sévères. … J’aurai besoin d’un sac plus solide. Vous n’êtes pas la seule, je l’ai déjà déchiré une poche. Oh non, sérieux ? Oui, je suis arrivé avec le livre dans la main. J’imagine la scène, ça me fait rire. Au moins, ça a bien commencé. Le professeur arrive, je crois. Oui, il nous sourit, c’est bon signe. Je suis un peu plus confiante maintenant. Moi aussi. On va survivre à ce premier cours. Oui, et peut-être apprendre un mot ou deux ! Salut, tu fais quoi samedi soir ? Pas grand-chose, pourquoi ? Je voulais t’inviter à une petite soirée entre amis. Ah ok, ça me tente bien ! C’est où ? … Et eux aiment beaucoup parler, tu verras. Alors je ne me sentirai pas seule dans un coin. Jamais. Tu fais partie du groupe maintenant. C’est gentil, ça me met à l’aise. Tu veux qu’on prévoie des jeux ou quelque chose ? Oui, ce serait amusant, quelque chose de simple. On peut faire un jeu de cartes, par exemple. Bonne idée, j’adore les jeux de cartes. Parfait, ça détend tout le monde. Il y aura de la musique tranquille ? Oui, juste une playlist douce en fond. Super, c’est exactement ce que j’aime. Alors c’est parfait, tu es officiellement invitée ! Merci beaucoup, je viendrai avec plaisir !",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8702
+  "src": "cc"
  },
  "R6pvXezGrBo": {
   "channel": "French with Benoît",
   "lang": "fr",
-  "checked": "2026-10-31T16:37:52+00:00",
-  "title": "Easy French Listening Practice | Finding Cheese in Paris on a Sunday",
+  "checked": "2026-11-09T17:17:31+00:00",
+  "title": "French Listening Practice | Finding Cheese in Paris on a Sunday",
   "duration": 449,
   "published": "20261031",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 135.3,
   "rare": 0.0221,
+  "var": 0.7815,
   "speech_s": 441.6,
   "tokens": 996,
   "kw": [
    [
-    "morbier",
-    "J'ai du Comté et j'ai du Morbier.",
-    332
+    "ouais",
+    "Ouais, allez-y Vous avez du vacherin jurassien?",
+    293,
+    300,
+    5.2,
+    19
    ],
    [
-    "fromagerie",
+    "parce",
+    "parce que vraiment à Paris c'est le moyen",
+    48,
+    51,
+    5.73,
+    10
+   ],
+   [
+    "vais",
     "Et donc je vais essayer de trouver une fromagerie",
-    32
+    32,
+    38,
+    5.58,
+    7
    ],
    [
-    "dépêcher",
-    "je dois me dépêcher. Je viens de sortir de l'auberge de jeunesse",
-    54
+    "prendre",
+    "pour prendre un RER qui est similaire au métro.",
+    65,
+    71,
+    5.62,
+    6
+   ],
+   [
+    "vin",
+    "Ou alors une bouteille de vin,",
+    39,
+    44,
+    4.79,
+    5
+   ],
+   [
+    "extérieur",
+    "à l'extérieur de la ville de Paris.",
+    76,
+    81,
+    4.79,
+    3
+   ],
+   [
+    "heureusement",
+    "Heureusement ce n'est pas très loin.",
+    129,
+    134,
+    4.66,
+    3
+   ],
+   [
+    "vélo",
+    "On va reprendre un vélo parce que vraiment à Paris c'est le moyen",
+    45,
+    51,
+    4.56,
+    3
    ],
    [
     "appellation",
     "L'appellation interdit la vente. À partir du...",
-    304
+    304,
+    309,
+    3.87,
+    3
    ],
    [
     "rer",
     "pour prendre un RER qui est similaire au métro.",
-    65
+    65,
+    71,
+    4.0,
+    2
    ],
    [
-    "fromage",
-    "pour acheter un fromage peut-être. Ou alors une bouteille de vin,",
-    37
+    "fromagerie",
+    "Et donc je vais essayer de trouver une fromagerie",
+    32,
+    38,
+    3.02,
+    4
+   ],
+   [
+    "dépêcher",
+    "je dois me dépêcher. Je viens de sortir de l'auberge de jeunesse",
+    54,
+    61,
+    3.14,
+    2
+   ],
+   [
+    "morbier",
+    "J'ai du Comté et j'ai du Morbier.",
+    332,
+    337,
+    2.06,
+    3
    ]
   ],
-  "tx": "Alors bonjour à tous, on est toujours à Paris, tu peux voir mes anciennes vidéos que j'ai déjà postées. Et aujourd'hui ils ont annoncé de la pluie, pour l'instant ça va, mais il fait déjà un peu plus froid. Et j'ai un rendez-vous de famille chez mon cousin aujourd'hui. mais j'ai besoin d'aller acheter quelque chose à amener comme cadeau. Et donc je vais essayer de trouver une fromagerie pour acheter un fromage peut-être. Ou alors une bouteille de vin, du vin blanc par exemple. On va reprendre un vélo parce que vraiment à Paris c'est le moyen le plus rapide de se déplacer. Et je n'ai pas beaucoup de temps, je dois me dépêcher. Je viens de sortir de l'auberge de jeunesse Après je me dirige vers une gare pour prendre un RER qui est similaire au métro. Mais le RER c'est entre un train et un métro pour faire des distances plus loin à l'extérieur de la ville de Paris. Parce que mon cousin habite pas mal à l'extérieur de Paris. Tout à l'ouest, presque à la sortie de la zone urbaine. Alors voilà c'est parti, on va y aller et faire ça. Alors en fait je viens de me rendre compte d'une chose. Je viens de réaliser une chose, c'est que si je dois aller acheter un fromage ou une bouteille de vin, Je ne peux pas prendre un vélo comme ça parce que je ne pourrais pas le laisser à l'extérieur (le vélo). C'est trop, je pense, dangereux. Donc je vais aller à pied en fait, commencer. Heureusement ce n'est pas très loin. Donc je vais y arriver rapidement. Aussi j'ai un peu froid, aujourd'hui il fait plus froid que hier. Donc j'ai sorti ma veste, comme ça ce sera mieux. Voilà, là on voit c'est écrit fromagerie mais c'est fermé. Et c'est vrai que ce que j'ai complètement oublié, c'est qu'on est dimanche et donc les magasins sont fermés. Je n'ai pas pensé à ça. Et là je vois maintenant, ok, il ",
+  "tx": "Alors bonjour à tous, on est toujours à Paris, tu peux voir mes anciennes vidéos que j'ai déjà postées. Et aujourd'hui ils ont annoncé de la pluie, pour l'instant ça va, mais il fait déjà un peu plus froid. Et j'ai un rendez-vous de famille chez mon cousin aujourd'hui. mais j'ai besoin d'aller acheter quelque chose à amener comme cadeau. Et donc je vais essayer de trouver une fromagerie pour acheter un fromage peut-être. Ou alors une bouteille de vin, du vin blanc par exemple. On va reprendre un vélo parce que vraiment à Paris c'est le moyen le plus rapide de se déplacer. Et je n'ai pas beaucoup de temps, je dois me dépêcher. Je viens de sortir de l'auberge de jeunesse Après je me dirige vers une gare pour prendre un RER qui est similaire au métro. Mais le RER c'est entre un train et un métro pour faire des distances plus loin à l'extérieur de la ville de Paris. Parce que mon cousin habite pas mal à l'extérieur de Paris. Tout à l'ouest, presque à la sortie de la zone urbaine. Alors voilà c'est parti, on va y aller et faire ça. Alors en fait je viens de me rendre compte d'une chose. Je viens de réaliser une chose, c'est que si je dois aller acheter un fromage ou une bouteille de vin, Je ne peux pas prendre un vélo comme ça parce que je ne pourrais pas le laisser à l'extérieur (le vélo). C'est trop, je pense, dangereux. Donc je vais aller à pied en fait, commencer. Heureusement ce n'est pas très loin. Donc je vais y arriver rapidement. Aussi j'ai un peu froid, aujourd'hui il fait plus froid que hier. Donc j'ai sorti ma veste, comme ça ce sera mieux. Voilà, là on voit c'est écrit fromagerie mais c'est fermé. Et c'est vrai que ce que j'ai complètement oublié, c'est qu'on est dimanche et donc les magasins sont fermés. Je n'ai pas pensé à ça. Et là je vois maintenant, ok, il y en a peut-être un qui est ouvert. On croise les doigts. La prochaine (rue) parce qu'il y en avait encore une par ici, je crois. Ah là je vois qu'il y a une charcuterie donc pour la viande et puis du vin aussi. Donc si jamais je peux acheter quelque chose ici aussi par exemple du vin. Mais d'abord il y a encore une fromagerie à visiter là-bas qui a l'air d'être ouverte. En tout cas sur Google Map. Bon alors heureusement qu'on est à Paris parce que dans une.. Ca c'est une boulangerie dans une petite ville ça aurait été beaucoup plus compliqué. Ah, c'est de l'autre côté de la route. Mais oula. Ah voilà c'est ici. Je sais pas si ils auront. Bonjour. Il est pas mal. Là on est encore sur le début du lait de prairie. Est-ce que vous avez, je vais vous demander un truc chelou, Du bril noir? Non. Alors peut-être qu'on va laisser passer le monsieur. Pas de souis, merci. Ouais, allez-y Vous avez du vacherin jurassien? Ca va être difficile à trouver ça? Le Mont d'Or ? Oui. Ah non c'est plus la saison. Ah ok C'est interdit en fait. L'appellation interdit la vente. À partir du... peut-être hier ou avant hier, je sais plus Ah ouais?! Ouais ouais ouais La plupart des fromagers arrêtent avant parce que la fin, en fin de saison ils sont.. leur goût est trop fort. Ah ouais ok d'accord. Ouais ouais ouais, nous on l'appelle... Ah j'étais pas au courant. En fait c'est régit pas une appellation L'appellation exige.. je pense que c'est le marketing à la base mais vraiment la vente est autorisée du 10 septembre au 10 mai. Vous avez rien d'autre de cette région là? Du Jura? Ouais J'ai du Comté et j'ai du Morbier. C'est comment le Morbier? Le morbier, vous savez celui-là qui a la... Qui a le truc comme ca au milieu Ouais ben ça ça a l'air pas mal ouais Ah oui c'est bon Ca c'est du Jura? Ouais Ouais ben je vais vous prendre ça. Oui c'est un des trois grands fromages du Jura. Super. Parce que je suis arrivé pour visiter de la famille à Paris et j'ai oublié de prendre avec moi Comme ca vous pouvez dire que vous l'avez ramené de chez vous, c'est ca? Voilà, ouais, ouais. Merci ouais. Ça coutera combien un peu près? Je vais vous dire. Ça c'est 10,40€. Ouais ben je vais prendre celui-là. Je peux vous payer avec la carte? Ouais. Vous prenez pas le ticket de caisse alors? parce que si ils voient que c'est... Ah mais super, vous me sauvez la vie là. Ah ça fait plaisir. Voilà. Et bah merci. Merci bien, au revoir. Bonne journée. Bonne journée, au revoir. Alors Bah ça c'est magnifique. J'espère que mon cousin ne regardera pas la vidéo. Si tu as compris ce qu'il vient de se passer. Donc ça, ça m'a effectivement sorti d'une bonne situation. Non, ça m'a sorti d'une mauvaise situation. Parce que j'avais... C'est pas que j'ai oublié, c'est que j'ai pas eu le temps d'aller dans une fromagerie à des heures ouvertes pour amener quelque chose. Et donc heureusement il y avait cette solution. Tout est bien, qui finit bien. Mais, par contre, je dois maintenant vraiment me dépêcher parce qu'il nous reste très peu de temps pour arriver à la gare pour prendre le train à temps. Donc on y va.",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7837
+  "src": "cc"
  },
  "zd3lbktdt94": {
   "channel": "French with Benoît",
   "lang": "fr",
-  "checked": "2026-10-31T16:38:13+00:00",
-  "title": "Easy French Listening Practice | Taking the Metro in Paris",
+  "checked": "2026-11-09T17:18:03+00:00",
+  "title": "French Listening Practice | Taking the Metro in Paris",
   "duration": 992,
   "published": "20260919",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 124.5,
   "rare": 0.0127,
+  "var": 0.7923,
   "speech_s": 948.7,
   "tokens": 1969,
   "kw": [
    [
-    "tickets",
-    "on pouvait encore utiliser des tickets physiques",
-    364
+    "parce",
+    "parce que je suis récemment arrivé en Europe",
+    49,
+    55,
+    5.73,
+    18
    ],
    [
-    "embêtant",
-    "Donc c'est un peu embêtant. Voilà tout ce que je sais",
-    278
+    "voilà",
+    "Voilà, donc c'est toujours un plaisir pour moi de venir à Paris.",
+    29,
+    36,
+    5.25,
+    13
    ],
    [
-    "navigo",
-    "Vous n'avez pas de passe Navigo",
-    484
+    "maintenant",
+    "Maintenant, il est en recherche de nouvelles opportunités",
+    91,
+    95,
+    5.53,
+    11
    ],
    [
-    "auberge",
-    "c'est une auberge de jeunesse est à 15 heures je crois.",
-    271
+    "ici",
+    "je viens d'arriver ici en train depuis Genève.",
+    8,
+    14,
+    5.71,
+    8
    ],
    [
-    "trajets",
-    "c'est des trajets en métro. Je comprends rien.",
-    597
+    "métro",
+    "le mieux je pense c'est d'y aller en métro",
+    317,
+    322,
+    4.59,
+    15
    ],
    [
-    "valise",
-    "et que j'y laisse ma valise",
-    301
+    "gare",
+    "on est à la gare de Lyon",
+    3,
+    6,
+    4.63,
+    4
    ],
    [
     "trajet",
     "mais je vais quand même vous montrer le trajet.",
-    314
+    314,
+    317,
+    4.22,
+    4
    ],
    [
-    "opportunités",
-    "Maintenant, il est en recherche de nouvelles opportunités",
-    91
+    "jeunesse",
+    "c'est une auberge de jeunesse est à 15 heures je crois.",
+    271,
+    279,
+    4.72,
+    3
+   ],
+   [
+    "tickets",
+    "on pouvait encore utiliser des tickets physiques",
+    364,
+    369,
+    3.81,
+    4
+   ],
+   [
+    "fatigué",
+    "Alors, je dois vous dire que je suis assez fatigué",
+    134,
+    138,
+    4.19,
+    3
+   ],
+   [
+    "valise",
+    "et que j'y laisse ma valise",
+    301,
+    305,
+    3.99,
+    3
+   ],
+   [
+    "auberge",
+    "c'est une auberge de jeunesse est à 15 heures je crois.",
+    271,
+    279,
+    3.9,
+    3
+   ],
+   [
+    "navigo",
+    "Vous n'avez pas de passe Navigo",
+    484,
+    488,
+    3.09,
+    2
+   ],
+   [
+    "embêtant",
+    "Donc c'est un peu embêtant. Voilà tout ce que je sais",
+    278,
+    282,
+    3.08,
+    2
    ]
   ],
-  "tx": "Bon et bien bienvenue à Paris, on est à la gare de Lyon Et on va commencer aujourd'hui à explorer Paris, je viens d'arriver ici en train depuis Genève. Il y a énormément de monde, c'est le matin, il est 9h40. Il y a des ambiances de grande capitale, ça c'est certain. Voilà, donc c'est toujours un plaisir pour moi de venir à Paris. La dernière fois que je suis venu, c'était pour les Jeux Olympiques, pendant les Jeux Olympiques. Et je suis revenu du coup à Paris parce que je suis récemment arrivé en Europe j'étais pendant quelques mois au Mexique et je suis venu tout seul, donc Arianna est restée au Mexique On va sortir là-bas à l'extérieur. Et en fait, il se trouve que mon frère, mon petit frère est ici à Paris pendant quelques mois parce qu'il est en transition professionnelle, on peut dire ça comme ça. En fait, mon frère est réalisateur de films Maintenant, il est en recherche de nouvelles opportunités et il a écrit aussi un scénario de film qu'il essaie de produire. Et donc venir à Paris était plutôt intéressant pour le réseautage, se retrouver d'autres opportunités de travail ou réussir peut-être à financer son film. Et donc, j'en ai profité pour moi aussi, venir à Paris, qui est une ville que j'aime beaucoup de toute façon et qui sera vraiment parfaite pour ces vidéos de français. Alors, je dois vous dire que je suis assez fatigué parce que j'ai dormi 4 heures à peu près et maintenant il est presque 10 heures du matin et bon c'est cool, la journée vient de commencer. Je voudrais vous montrer le devant de la gare ici. C'est marrant parce que quand je suis venu avec Arianna pour la première fois à Paris, elle a tout de suite beaucoup aimé l'ambiance en fait en sortant de la gare parce qu'en fait ca a tout de suite donné l'impression d'une très grande ville. Et c'est v",
+  "tx": "Bon et bien bienvenue à Paris, on est à la gare de Lyon Et on va commencer aujourd'hui à explorer Paris, je viens d'arriver ici en train depuis Genève. Il y a énormément de monde, c'est le matin, il est 9h40. Il y a des ambiances de grande capitale, ça c'est certain. Voilà, donc c'est toujours un plaisir pour moi de venir à Paris. La dernière fois que je suis venu, c'était pour les Jeux Olympiques, pendant les Jeux Olympiques. Et je suis revenu du coup à Paris parce que je suis récemment arrivé en Europe j'étais pendant quelques mois au Mexique et je suis venu tout seul, donc Arianna est … le réseautage, se retrouver d'autres opportunités de travail ou réussir peut-être à financer son film. Et donc, j'en ai profité pour moi aussi, venir à Paris, qui est une ville que j'aime beaucoup de toute façon et qui sera vraiment parfaite pour ces vidéos de français. Alors, je dois vous dire que je suis assez fatigué parce que j'ai dormi 4 heures à peu près et maintenant il est presque 10 heures du matin et bon c'est cool, la journée vient de commencer. Je voudrais vous montrer le devant de la gare ici. C'est marrant parce que quand je suis venu avec Arianna pour la première fois à Paris, … se fait. Mais c'est vrai que moi je suis beaucoup venu à Paris en fait depuis très jeune parce que j'ai de la famille ici aussi. Il n'y a pas que mon frère, j'ai aussi des cousins qui habitent ici et des oncles. Et donc avec ma mère qui est française, on est toujours beaucoup venu à Paris. j'arrive à la fois dans un endroit familier mais aussi dans un endroit assez intense des fois. Et donc là quand je suis un peu fatigué le matin après avoir dormi pas beaucoup d'heures, je me suis réveillé vers 6 heures du matin. Ça va mais je suis allé au lit à une heure. Et le problème c'est que … réservation et que j'y laisse ma valise parce que avec la valise ça va être un petit peu compliqué de filmer les vidéos et de se déplacer en ville mais je vais quand même vous montrer le trajet. J'ai regardé, le mieux je pense c'est d'y aller en métro et ensuite de marcher pendant une dizaine de minutes. Je pourrais marcher aussi 40 minutes mais c'est un peu long avec la valise. Donc on va prendre le métro comme ça je te montre le métro dans cette vidéo. Ça va être le sujet d'aujourd'hui pour pratiquer le français. Donc il y a une entrée de métro qui se trouve ici. On dirait qu'il sont, … va prendre la ligne 1 justement. Peut-être on peut juste passer la carte de crédit si ça se trouve (expression). Alors là c'est la sortie. Ah il y a des machines là-bas. Je profite de te dire que tu peux prendre des cours de français pour parler avec moi et si tu fais ça, eh bien, tu me verras comme ça, comme maintenant. On sera en conversation. Tu peux aller voir dans la description de la vidéo il y a toutes les informations. Tu peux cliquer sur le lien. Tu vas discuter et converser avec moi directement. Je pense que ça peut vraiment accélérer ton apprentissage du français. C'est aussi … je vois qu'il y a des forfaits et c'est sûrement parfait pour moi parce que je suis là pendant 4 jours. 1, 2, 3 ou 5 jours. On va voir combien ça coûte. Voilà, 2 euros c'est pas cher. Voyageur tarif enfant Nombre de voyageurs, Il y en a un seul, c'est moi. Bon là c'est embêtant parce qu'il n'y a pas 4 jours. samedi, dimanche, lundi et je pars mardi. On va peut-être prendre le 5 jours du coup. Ah quand même 80 euros... Ça c'est quand même pas un peu cher. Non alors... Non non on va pas faire ça. Tout annuler. Parce que je pense que c'est illimité. Mais je sais pas si le navigo... Parce que … la même chose. Ah voilà. Pensez à votre voyage de retour en sélectionnant au minimum 2 tickets. Mais donc ça je sais pas si c'est des trajets en métro. Je comprends rien. \"Attention...\" Donc en fait chaque trajet coûte je crois 2,55 euros. Donc pour l'instant je vais juste en prendre un. Parce que j'ai pas envie de faire une bêtise. Comme ça, je prends pas de risque. Et je pourrais demander à mon frère si c'est vraiment la bonne manière de faire. Comme il est là depuis plus longtemps maintenant. Je pensais que c'était moins cher les trajets. 2,55 euros ça me semble cher. Payer. Oui je … j'ai du réseau je ne comprends pas pourquoi j'ai pas internet Mais bon... Du coup c'était compliqué parce que pour faire le paiement, j'avais besoin d'internet. Mais j'ai fini par payer avec une autre carte. Je me demande juste si c'est normal le prix de 2,55 euros par trajet. Ouais je crois que c'est normal, c'est écrit las bas. Maintenant il faut encore que je regarde dans quelle direction je dois aller. Ah mais je sais. Heureusement, je connais un peu Paris donc ça aide. Mais du coup c'est par où ? Il faut que je fasse attention parce que c'est peut-être pas la bonne entrée. Pourtant … conscient de qui c'est qui se rapproche de moi et de mon sac à dos derrière parce que c'est là où je vois pas bien. Pour faire attention avec les pickpockets mais ce qui est intéressant c'est que comme j'ai vécu pendant longtemps à Mexico City eh bien finalement Paris c'est quand même vachement moins dangereux. Donc étonnamment je suis en fait assez relax. Attention à la marche en descendant du train Voilà: \"Nations\" c'est là où on va. Et après je vais devoir encore marcher pendant 10 minutes. Voilà. Voilà donc j'ai quand même réussi à vous montrer un petit peu l'expérience du métro. … son charme avec tout de suite les architectures tant aimées du style Haussmann. Alors après déjà là vous voyez c'est le style qu'on appelle Art Nouveau qui date du je crois de la fin du 19e siècle ou le début du 20e siècle qui donne beaucoup de charme aussi à la ville de Paris. Là c'est juste magnifique. Ça ne déçoit pas. En plus il fait très beau aujourd'hui et peut-être ça ne sera pas le cas dans les jours qui suivent. Maintenant je vais aller à pied mais ça ce sera pour la prochaine vidéo tu pourras continuer de voir mon trajet jusqu'à l'auberge de jeunesse. où j'ai mon logement. Paris.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7774
+  "src": "cc"
  },
  "ho22H24ZLhk": {
   "channel": "Basic French Podcast",
   "lang": "fr",
-  "checked": "2026-10-31T16:43:00+00:00",
+  "checked": "2026-11-09T17:23:16+00:00",
   "title": "How to Talk about Your Family in French | French Podcast for Easy Conversation",
   "duration": 1494,
   "published": "20260916",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 146.1,
   "rare": 0.0226,
+  "var": 0.825,
   "speech_s": 1469.4,
   "tokens": 3578,
   "kw": [
    [
-    "mamie",
-    "Beaucoup disent juste papi et mamie.",
-    283
+    "famille",
+    "combien ta famille est-ce grande et tu",
+    11,
+    19,
+    5.52,
+    72
+   ],
+   [
+    "parents",
+    "Parents, frères, sœur, grands-parents. Au début, ce n'est pas évident à",
+    18,
+    27,
+    5.21,
+    40
+   ],
+   [
+    "oui",
+    "Quatre enfants, c'est beaucoup. Oui. Chez nous, c'était toujours bruyant mais",
+    118,
+    126,
+    5.8,
+    27
+   ],
+   [
+    "frères",
+    "Parents, frères, sœur, grands-parents. Au début, ce n'est pas évident à",
+    18,
+    27,
+    4.82,
+    26
+   ],
+   [
+    "sœur",
+    "Parents, frères, sœur, grands-parents. Au début, ce n'est pas évident à",
+    18,
+    27,
+    4.79,
+    27
    ],
    [
     "sœurs",
     "Et comment appelle-ton frères et sœurs",
-    264
+    264,
+    271,
+    4.24,
+    21
    ],
    [
-    "pluriel",
-    "Et pour les parents, c'est du pluriel,",
-    377
-   ],
-   [
-    "papi",
-    "Beaucoup disent juste papi et mamie.",
-    283
-   ],
-   [
-    "possessifs",
-    "Deuxièmement, les pronoms possessifs, mon frère, ma sœur, mes parents.",
-    1273
-   ],
-   [
-    "appelons",
-    "Oui, nous appelons presque chaque semaine.",
-    147
+    "habite",
+    "famille habite loin et qu'on la",
+    61,
+    65,
+    4.42,
+    9
    ],
    [
     "phrases",
     "phrases très simples et lentes. Nous parlerons aussi de la vie quand la",
-    56
+    56,
+    64,
+    4.2,
+    9
+   ],
+   [
+    "mamie",
+    "Beaucoup disent juste papi et mamie.",
+    283,
+    289,
+    3.86,
+    11
    ],
    [
     "vocabulaire",
     "Je vous montre le vocabulaire clé, une",
-    38
+    38,
+    45,
+    4.06,
+    6
+   ],
+   [
+    "pluriel",
+    "Et pour les parents, c'est du pluriel,",
+    377,
+    381,
+    3.7,
+    6
+   ],
+   [
+    "traditions",
+    "les traditions familiales. Par exemple, lors du repas de Noël.",
+    79,
+    87,
+    4.16,
+    5
+   ],
+   [
+    "papi",
+    "Beaucoup disent juste papi et mamie.",
+    283,
+    289,
+    3.43,
+    4
+   ],
+   [
+    "podcast",
+    "notre podcast. Heureux de vous retrouver. J'ai tout de",
+    2,
+    9,
+    3.57,
+    3
+   ],
+   [
+    "écrivez",
+    "écrivez quelques phrases sur votre propre famille.",
+    1339,
+    1349,
+    3.56,
+    2
+   ],
+   [
+    "bruyant",
+    "Chez nous, c'était toujours bruyant mais",
+    121,
+    126,
+    3.45,
+    2
+   ],
+   [
+    "possessifs",
+    "Deuxièmement, les pronoms possessifs, mon frère, ma sœur, mes parents.",
+    1273,
+    1282,
+    2.39,
+    2
    ]
   ],
-  "tx": "Bonjour et bienvenue à nouveau dans notre podcast. Heureux de vous retrouver. J'ai tout de suite une question pour vous. Vas-y Solen. Quelqu'un t'a déjà demandé en français combien ta famille est-ce grande et tu n'avais aucun mot ? Je connais bien ça. Parents, frères, sœur, grands-parents. Au début, ce n'est pas évident à expliquer. C'est exactement cela aujourd'hui. Je suis Soline et moi c'est Mathieu. Aujourd'hui, nous parlons de la famille. Donc, comment parler en français de parents, frères et autres proches. Je vous montre le vocabulaire clé, une règle importante et des exemples de la vraie vie. Et moi, je pose des questions comme dans une vraie conversation. Nous écouterons aussi un dialogue complet où quelqu'un parle de sa propre famille. Ensuite, nous répéterons ensemble des phrases très simples et lentes. Nous parlerons aussi de la vie quand la famille habite loin et qu'on la regrette. Et de la façon de présenter son partenaire à la famille, c'est toujours excitant. À la fin, il y aura comme toujours un petit devoir pour vous. Installez-vous donc confortablement. Prêt ? Nous parlerons aussi de comment décrire les traditions familiales. Par exemple, lors du repas de Noël. Exactement. La famille est un sujet dont on aime parler partout dans le monde. C'est vrai. Peu importe d'où l'on vient. Alors, installez-vous bien. Prêt ? Je suis prêt. Alors, commençons. Je veux commencer par une petite histoire. J'ai une famille assez grande. Elle est grande comment exactement ? J'ai deux frères et une sœur. Donc nous sommes quatre enfants chez mes parents. Waouh ! C'est vraiment une grande famille. Moi, je n'ai qu'une sœur. Quatre enfants, c'est beaucoup. Oui. Chez nous, c'était toujours bruyant mais aussi très drôle. Je peux imaginer. Vous vous voyez encore souvent maintena",
+  "tx": "Bonjour et bienvenue à nouveau dans notre podcast. Heureux de vous retrouver. J'ai tout de suite une question pour vous. Vas-y Solen. Quelqu'un t'a déjà demandé en français combien ta famille est-ce grande et tu n'avais aucun mot ? Je connais bien ça. Parents, frères, sœur, grands-parents. Au début, ce n'est pas évident à expliquer. C'est exactement cela aujourd'hui. Je suis Soline et moi c'est Mathieu. Aujourd'hui, nous parlons de la famille. Donc, comment parler en français de parents, frères et autres proches. Je vous montre le vocabulaire clé, une règle importante et des exemples de la … Lyon et moi ici, nous nous voyons encore, surtout pendant les fêtes. Exactement. Et c'est pour cela que j'aime ce sujet, car chacun a son histoire de famille. Tout à fait. Et chez vous, fêtez-vous Noël toujours au même endroit ? Oui, presque toujours chez mes parents dans la maison où j'ai grandi. C'est très important pour moi. Je comprends. Ces lieux fixes donnent un vrai sentiment de chez soi. Oui, même adulte, nous dormons toujours dans nos anciennes chambres d'enfants. Ça semble vraiment joli, presque comme un voyage dans le temps. Passons maintenant au vocabulaire pour que vous puissiez … Ça fait beaucoup de mots mais tout est très logique. Oui, quand on comprend le système, ce n'est pas si difficile. Existe-t-il aussi un mot pour toute la famille, donc toutes les générations ? Oui, on dit simplement toute la famille ou toute la parentée. Toute ma famille se réunit à Noël. C'est pratique quand on ne veut pas nommer chaque personne. Exact. Ça fait gagner du temps, surtout avec une famille aussi grande que la tienne. C'est vrai, chez nous à Noël, on dépasse vite 20 personnes. Maintenant, je vous montre comment dire mon frère, ta sœur et ainsi de suite. J'en ai besoin tout le … besoin. Mon copain a une sœur. Alors, elle sera peut-être bientôt ta belle-sœur. Et aujourd'hui, il existe aussi beaucoup de familles modernes. Par exemple, des familles s'y recomposées. Qu'est-ce que cela veut dire exactement ? C'est une famille où les parents ont d'autres partenaires et où des enfants de différentes relations vivent ensemble. Et comment appelle-t-on les enfants du nouveau partenaire de la mère ou du père ? Ce sont alors des beaux frères ou belles sœurs. Par exemple, un beau-frère ou une belle sœur. C'est un vocabulaire moderne et important qu'on ne voit pas souvent dans … veux améliorer ton français mais les manuels classiques t'ennuient ? Avec notre pack de trois livres, tu découvres des histoires courtes adaptées à ton parcours. Les trois livres t'accompagnent du niveau débutant au récis avancés. Histoire courte, nouveaux vocabulaire et petit quiz t'aident à mieux comprendre et retenir. Commence maintenant. Le lien est dans la description ou dans le commentaire épinglé. Maintenant, nous écoutons un dialogue complet pour que tu entendes comment cela sonne dans la vraie vie. Salut Mathieu, parle-moi un peu de ta famille. Volontiers. J'ai une sœur, elle … mais magnifique. Ma mère cuisine pour 20 personnes avec toutes les partenaires et enfants. Cela semble une fête animée. Ouais, c'est bruyant et il y a beaucoup à manger. Le soir, nous chantons même de vieux chants ensemble. Une belle tradition. Ta famille te manque-t-elle parfois au quotidien ? Oui, surtout le dimanche. Nous appelons souvent tous ensemble en grand groupe. C'est une bonne solution. Même si l'on vit loin. Oui, la technologie moderne rend le contact bien plus simple. Dis-moi, qui prépare toujours le grand repas de Noël chez vous ? Le plus souvent ma mère avec ma sœur. Moi, … Et maintenant, on échange les rôles. Mathieu, maintenant c'est toi qui me pose les questions. Avec plaisir. As-tu des frères ou sœurs Solenes ? Oui, j'ai trois frères et sœurs. Deux frères et une sœur. À quelle fréquence vous retrouvez-vous tous ensemble ? le plus souvent seulement à Noël, car nous vivons dans des villes différentes. Ta famille te manque-t-elle au quotidien ? Oui, mais nous appelons tous ensemble chaque dimanche. Cela aide vraiment. Cela montre bien que les familles peuvent être très différentes. Grandes ou petite, proche ou lointaine. Exactement. Mais l'amour de la famille … chez moi à deux endroits. Je trouve cette idée très belle. au lieu de manquer un seul lieu. Oui, et beaucoup de personnes que je connais le disent aussi maintenant. Parlons maintenant des traditions familiales et de la façon de présenter son partenaire à la famille. C'est toujours stressant, n'est-ce pas ? Comment dit-on cela en français ? On dit, \"Je présente mon partenaire à ma famille où mon copain rencontre mes parents.\" Je me souviens très bien quand mon copain a vu mes parents pour la première fois, j'étais si nerveuse. C'est normal. Comment cela s'est-il passé ? Au début, c'était un … les mots pour dire que la famille nous manque et pour les traditions familiales. C'est vraiment beaucoup de vocabulaire utiles pour un sujet très personnel et je pense que chacun peut présenter sa propre famille tout de suite avec ça. Grande ou petite famille, vous avez maintenant les mots nécessaires. Écoutez l'épisode encore une fois pour bien tout retenir et notez les mots les plus importants. Cela aide beaucoup pour apprendre. Les plus importants sont sûrement les pronoms possessifs mon et ma. On les utilise presque dans chaque phrase sur la famille. Pour le petit devoir … qui apprend le français ensemble. Une belle idée que je partage totalement. Merci d'avoir encore appris avec nous. Cela compte vraiment pour nous. Si vous n'avez pas appelé votre famille depuis longtemps, aujourd'hui est peut-être le bonjour. Très bonne idée, Solen. Appelez-les peut-être juste après cet épisode. Oui, un court appel fait souvent plus plaisir qu'on ne le croit. Restez curieux, continuez et pratiquez avec énergie. Nous attendons vos commentaires et vos histoires de famille avec impatience. À la prochaine et d'ici là, beaucoup d'amour pour votre famille où qu'elle soit.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8068
+  "src": "auto"
  },
  "zvZj7GGgflQ": {
   "channel": "French Stories",
   "lang": "fr",
-  "checked": "2026-10-31T16:45:42+00:00",
+  "checked": "2026-11-09T17:25:45+00:00",
   "title": "Ma peur a dominé ma vie | Learn French with Short Stories | French Short Stories",
   "duration": 1295,
   "published": "20260924",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 135.7,
   "rare": 0.0621,
+  "var": 0.8604,
   "speech_s": 1281.3,
   "tokens": 2898,
   "kw": [
    [
-    "restais",
-    "Alors, je restais au bord du bassin, le",
-    204
+    "eau",
+    "supporte plus l'eau profonde. Un jour",
+    24,
+    30,
+    5.46,
+    33
    ],
    [
-    "rechute",
-    "\"Une rechute n'est pas une preuve que tu",
-    970
+    "monsieur",
+    "Tout est allé si vite. Monsieur Dupont",
+    323,
+    329,
+    5.01,
+    18
    ],
    [
-    "nagé",
-    "Lina a lâché ma main et a nagé quelques",
-    1141
+    "mes",
+    "la vraie raison. Depuis mes ans, je ne",
+    20,
+    27,
+    5.77,
+    14
    ],
    [
-    "tremblante",
-    "Léa, trempée et tremblante mais indemne,",
-    266
+    "avais",
+    "J'avais mal au dos, trop de travail, pas",
+    9,
+    16,
+    5.53,
+    14
    ],
    [
-    "nager",
-    "Je n'ai jamais vraiment appris à nager,",
-    48
+    "bassin",
+    "d'un bassin de loin. Mon cœur s'emballe,",
+    39,
+    46,
+    4.36,
+    9
    ],
    [
-    "immobile",
-    "Immobile enfermé derrière une porte que je",
-    421
+    "piscine",
+    "de venir à la piscine, mais je trouvais toujours une excuse.",
+    4,
+    13,
+    4.41,
+    5
    ],
    [
-    "rentrais",
-    "Ce soir-là, je rentrais chez moi plus",
-    796
+    "profonde",
+    "supporte plus l'eau profonde. Un jour",
+    24,
+    30,
+    4.31,
+    5
+   ],
+   [
+    "papa",
+    "Papa, pourquoi n'es-tu pas venu ? J'essayais",
+    317,
+    324,
+    4.57,
+    4
+   ],
+   [
+    "donnait",
+    "Il expliqua qu'il donnait depuis des",
+    641,
+    646,
+    4.14,
+    5
    ],
    [
     "natation",
     "natation du club de Léa avait lieu avec",
-    184
+    184,
+    190,
+    3.85,
+    4
+   ],
+   [
+    "nager",
+    "Je n'ai jamais vraiment appris à nager,",
+    48,
+    55,
+    3.74,
+    4
+   ],
+   [
+    "senti",
+    "Lina et j'avais senti son regard",
+    440,
+    446,
+    4.18,
+    3
+   ],
+   [
+    "restais",
+    "Alors, je restais au bord du bassin, le",
+    204,
+    209,
+    3.01,
+    9
+   ],
+   [
+    "immobile",
+    "Immobile enfermé derrière une porte que je",
+    421,
+    430,
+    3.53,
+    3
+   ],
+   [
+    "rechute",
+    "\"Une rechute n'est pas une preuve que tu",
+    970,
+    976,
+    3.18,
+    3
+   ],
+   [
+    "hanches",
+    "dans de l'eau, dépassant mes hanches",
+    744,
+    750,
+    3.57,
+    2
+   ],
+   [
+    "tremblante",
+    "Léa, trempée et tremblante mais indemne,",
+    266,
+    274,
+    2.76,
+    2
+   ],
+   [
+    "nagé",
+    "Lina a lâché ma main et a nagé quelques",
+    1141,
+    1151,
+    2.68,
+    2
    ]
   ],
-  "tx": "Chaque année, ma fille Lena me demandait de venir à la piscine, mais je trouvais toujours une excuse. J'avais mal au dos, trop de travail, pas le temps, n'importe quoi. Il fallait juste que cela paraisse crédible. Ainsi, je n'expliquais jamais la vraie raison. Depuis mes ans, je ne supporte plus l'eau profonde. Un jour d'été, dans une carrière inondée, un courant m'a tiré sous l'eau. Pendant quelques secondes, j'ai cru que j'allais mourir. Depuis, je ne supporte même pas la vue d'un bassin de loin. Mon cœur s'emballe, mes mains deviennent moites dès que je sens l'odeur de chlore. Je n'ai jamais vraiment appris à nager, seulement le strict minimum. Toujours avec la panique dans le cou. Elle me chassait de l'eau dès que je ne touchais plus le fond. Lena a maintenant 10 ans. Une vraie puce d'eau comme sa mère dit tendrement. heureuse et courageuse dans l'élément qui m'effrait depuis 43 ans. Ma femme l'accompagne à l'entraînement et aux compétitions. Moi, je reste à la maison avec une mauvaise conscience. Je me justifie chaque fois à nouveau. J'ai organisé toute ma vie pour ne jamais croiser l'eau. Je me suis raconté que c'était acceptable, que cela ne me coûterait rien. Je me trompais lourdement. L'eau attendait patiente année après année le moment où je ne pourrais plus fuir. Parfois, je voyais Lena préparer son sac de piscine en quittant la maison. Alors, je ressentais une piqû brève et vive, l'intuition que je ratais quelque chose sans savoir quoi exactement. Puis je chassais cette idée comme tout ce qui touchait à l'eau. C'était devenu une routine presque facile après tant d'années à détourner le regard. Petite pause, tu veux vivre et travailler en France ? Alors écoute-moi 2 secondes. Notre programme de 30 jours t'aide à communiquer avec plus de confiance chaque jour.",
+  "tx": "Chaque année, ma fille Lena me demandait de venir à la piscine, mais je trouvais toujours une excuse. J'avais mal au dos, trop de travail, pas le temps, n'importe quoi. Il fallait juste que cela paraisse crédible. Ainsi, je n'expliquais jamais la vraie raison. Depuis mes ans, je ne supporte plus l'eau profonde. Un jour d'été, dans une carrière inondée, un courant m'a tiré sous l'eau. Pendant quelques secondes, j'ai cru que j'allais mourir. Depuis, je ne supporte même pas la vue d'un bassin de loin. Mon cœur s'emballe, mes mains deviennent moites dès que je sens l'odeur de chlore. Je n'ai … écoute-moi 2 secondes. Notre programme de 30 jours t'aide à communiquer avec plus de confiance chaque jour. Le cours commence bientôt et ceux qui s'inscrivent maintenant auront une place parmi les premiers. Mett-toi sur la liste d'attente et tu sauras en premier quand ça démarre. Chaque jour, tu reçois un plan clair et des formats variés chez toi à ton rythme. Si tu as besoin du français pour le travail, le quotidien ou l'amour, ce cours est pour toi. Lance-toi dès maintenant. Le lien est dans la description de la vidéo ou dans le commentaire épinglé. Un samedi de juin, le grand meeting de … elle comprit que je n'avais pas bougé. À cet instant, la piscine acclama. Heureuse que tout ce soit bien terminé. Je me sentis plus petit que jamais dans ma vie. Un homme adulte, incapable de faire ce qu'un étranger avait fait sans effort. Sur le chemin du retour, personne ne dit un mot. Lina était assise à l'arrière, enveloppée dans une couverture et regardait par la fenêtre. À la maison, ma femme sortit un instant de la cuisine. Alors Lina dit doucement sans me regarder. Papa, pourquoi n'es-tu pas venu ? J'essayais d'expliquer. Tout est allé si vite. Monsieur Dupont était simplement … derrière une porte que je n'arrivais plus à ouvrir. Une semaine plus tard, je restais le soir seul dans ma voiture, garé devant notre maison, incapable d'entrer. Au dîner, je n'avais presque pas regardé Lina et j'avais senti son regard attendant un changement. Rien n'avait changé. Je pensais à toutes ces années où j'avais minimisé ma peur. Un détail, une manie, rien de grave. Maintenant, je comprenais clairement. Elle avait façonné toute ma vie, chaque voyage que nous n'avions pas fait, chaque sortie au lac que j'avais annulé, chaque instant où je m'étais rendu plus petit comme père … débutant au réc, nouveaux vocabulaire et petit quiz t'aident à mieux comprendre et retenir. Commence maintenant. Le lien est dans la description ou dans le commentaire épinglé. Quelques jours plus tard, la sonnette a retenti chez nous. Un homme âgé se tenait là, mince, la peau allée et les yeux vifs et doux. Il se présenta comme monsieur Aubert, maître nageur à la retraite. Autrefois, il avait enseigné dans le même club que Lina. Monsieur Bernard, le père qui avait sorti Lina de l'eau, lui avait apparemment raconté ce qui s'était passé. \"J'ai appris que vous avez peur de l'eau profonde\", … L'eau m'arrivait à la poitrine, chaude, presque à la température du corps. Elle sentait légèrement le chlore, une odeur qui d'habitude me donnait la nausée. Mais ici, dans ce silence, sans public, sans pression, elle restait supportable. Monsieur Le Fèvre me demanda seulement de rester immobile, les pieds au fond. Je devais respirer lentement et profondément. Il se tenait à côté de moi sans me toucher. \"Sentez le sol\", dit-il. \"Sentez comment l'eau vous porte, ne vous tire pas, vous porte.\" Je fermais les yeux et sent le léger clapoti contre ma peau. J'entendis l'éco assourd du hall vide et … restait calme à côté de moi et répétait : \"L'eau te porte si tu la laisses.\" C'était comme une petite formule qui s'imprimait lentement dans ma tête. Je pratiquais des bras simples, puis des battements de jambes par étape, patiemment, sans pression d'aller vite. Parfois, après une bonne heure, je rentrais et racontais toute Alise pendant le dîner. D'abord avec prudence, puis avec une fiertéissante. Elle écoutait les yeux grands puis demanda un jour \"Tu pourras bientôt nager avec moi, papa ?\" J'ai répondu : \"J'y travaille, je te le promets. Pour la première fois depuis la fête de natation, … \"Une rechute n'est pas une preuve que tu as échoué\", a-t-il dit calmement. Elle montre seulement que la peur est encore là, plus profonde que prévu. Cela ne change rien à ce que tu as appris ces six dernières de semaines. Ce soir-là, j'ai voulu abandonner, rentrer chez moi et ne plus jamais appeler monsieur Aubert. Mais quand j'ai pensé à Lina, à son regard, je n'ai pas pu. J'ai rappelé monsieur Dubois deux jours plus tard la voix tremblante. Je veux continuer a etje dit mais plus lentement cette fois. Il a simplement répondu : \"Bien sûr, avancez à votre rythme, il n'y a pas de délai. … dimanche après-midi. J'ai accepté avec des papillons dans le ventre. Cette fois, pas seulement de la peur. Nous nous sommes tenus ensemble au bord de l'eau. Elle a pris ma main comme quand elle était petite avant que la peur nous sépare. Ensemble, nous avons descendu les marches lentement. Pas après pas. L'eau montait à mes genoux, hanches, poitrine. J'ai senti l'habituelle vague de panique, mais cette fois j'ai respiré comme monsieur du bois me l'avait appris. Je l'ai laissé passer comme une vague qui vient puis repart. Lina a lâché ma main et a nagé quelques mètres devant. Elle s'est … père, chaque sortie, chaque proximité que j'ai évité sans même le voir. Monsieur Albert avait raison. L'eau ne m'a jamais menacé. Je n'avais simplement jamais appris à lui faire confiance. Pas plus que je ne me faisais confiance pour être assez fort. Je pouvais affronter la peur plutôt que la fuir. \"L'eau te porte si tu la laisses\", disait-il. Je comprends maintenant que cette phrase ne parlait jamais seulement de nager. Parfois, pensais-je, tandis que le soleil descend derrière les toits de notre rue. Il faut simplement arrêter de lutter. Alors, on sent que l'on a été porté tout le temps.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8693
+  "src": "auto"
  },
  "-jIHCKJGMZk": {
   "channel": "French Stories",
   "lang": "fr",
-  "checked": "2026-10-31T16:45:59+00:00",
+  "checked": "2026-11-09T17:26:06+00:00",
   "title": "La vérité sur ma mère | Learn French with Short Stories | French Short Stories",
   "duration": 1329,
   "published": "20260909",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 130.2,
   "rare": 0.0522,
+  "var": 0.8437,
   "speech_s": 1316.1,
   "tokens": 2856,
   "kw": [
    [
-    "restais",
-    "alla. Je restais seul avec le carton, la",
-    256
+    "mère",
+    "Ma mère René aura soy ans dans trois",
+    1,
+    7,
+    5.45,
+    33
    ],
    [
-    "tremblaient",
-    "J'ai raccroché, mes mains tremblaient. Je suis allé chercher les vieux albums",
-    335
+    "nom",
+    "étiquette, sans nom. Qu'y a-t-il dedans",
+    190,
+    197,
+    5.59,
+    13
    ],
    [
-    "murmura",
-    "Mathieu, murmura-t-elle. Je suis Élise Perot, ancienne voisine de",
-    672
+    "puis",
+    "mains. Puis je vais au salon où une",
+    51,
+    57,
+    5.67,
+    12
    ],
    [
-    "levais",
-    "gâteau. Je levais la main pour sonner,",
-    987
+    "maintenant",
+    "parfait. Commence maintenant. Le lien est dans la description ou dans",
+    145,
+    155,
+    5.53,
+    10
+   ],
+   [
+    "pensais",
+    "Mais les yeux, pensais-je alors pour la",
+    365,
+    371,
+    4.64,
+    13
+   ],
+   [
+    "silence",
+    "silence. Je n'ai pas entendu ce nom depuis des",
+    320,
+    326,
+    4.72,
+    7
+   ],
+   [
+    "sœur",
+    "sœur de mon père défunt. Peut-être",
+    311,
+    317,
+    4.79,
+    6
+   ],
+   [
+    "boîte",
+    "boîte en carton brune attend sur ma",
+    54,
+    58,
+    4.7,
+    6
+   ],
+   [
+    "connaissais",
+    "que je connaissais. Aujourd'hui, je ne sais plus qui est",
+    42,
+    50,
+    4.19,
+    5
+   ],
+   [
+    "grenier",
+    "3 semaines dans son grenier. Ce jour-là, j'ai tenu cette boîte pour",
+    92,
+    102,
+    3.93,
+    4
+   ],
+   [
+    "panique",
+    "Crise de panique, a dit quelqu'un. Le",
+    581,
+    589,
+    4.16,
+    3
+   ],
+   [
+    "inconnue",
+    "vieille dame inconnue. Cheveux blancs, manteau bleu, sac en cuir usé.",
+    666,
+    675,
+    4.13,
+    3
    ],
    [
     "ouvrit",
     "n'ouvrit. Je ne connaissais pas ma mère.",
-    422
+    422,
+    430,
+    3.46,
+    3
    ],
    [
-    "laissais",
-    "Je laissais les pensées venir et partir",
-    893
+    "restais",
+    "alla. Je restais seul avec le carton, la",
+    256,
+    264,
+    3.01,
+    3
    ],
    [
-    "parlions",
-    "Je rendais visite à Léa. Nous parlions",
-    897
+    "passaient",
+    "Les jours passaient et je ne pensais",
+    385,
+    391,
+    3.58,
+    2
    ],
    [
-    "épinglé",
-    "le commentaire épinglé. 3 semaines plus tôt, j'aidais ma mère à",
-    150
+    "ignorais",
+    "de l'Est dont j'ignorais le nom. Maman !",
+    240,
+    248,
+    3.35,
+    2
+   ],
+   [
+    "levais",
+    "gâteau. Je levais la main pour sonner,",
+    987,
+    993,
+    2.67,
+    2
+   ],
+   [
+    "murmura",
+    "Mathieu, murmura-t-elle. Je suis Élise Perot, ancienne voisine de",
+    672,
+    682,
+    2.59,
+    2
+   ],
+   [
+    "tremblaient",
+    "J'ai raccroché, mes mains tremblaient. Je suis allé chercher les vieux albums",
+    335,
+    345,
+    2.44,
+    2
    ]
   ],
-  "tx": "Ma mère René aura soy ans dans trois jours et je ne sais plus qui elle est vraiment. Cela semble dramatique, je le sais. Mais depuis 3 semaines, je ne réponds plus à ces appels. Je n'y arrive pas. Je suis dans la cuisine et je fais sa tarte au citron meringué comme chaque année. Pourtant, rien n'est comme les autres années. Il y a trois semaines, tout était encore simple. René Dupont, né en 1956 à Lyon, veuve, retraité, ma mère amatrice de mots croisés et de violette. C'était la femme que je connaissais. Aujourd'hui, je ne sais plus qui est cette femme. Le gâteau est prêt. Je le pose sur la grille et je me lave les mains. Puis je vais au salon où une boîte en carton brune attend sur ma table. vieille poussiéreuse fermée par du ruban adhésif déjà coupé. Je m'assois devant elle et je la fixe comme si elle pouvait bouger. La boîte paraît plus petite que dans mon souvenir, presque inoffensive. Pourtant, je ne peux pas détacher mon regard d'elle. Dans 3 jours, ma mère aura 70 ans et je dois prendre une décision. parler ou me taire. J'ai déjà repoussé cette décision il y a 3 semaines dans son grenier. Ce jour-là, j'ai tenu cette boîte pour la première fois. Je ne peux plus la repousser, pas si je dois m'asseoir avec elle samedi à table et allumer des bougies comme si rien n'était. Petite pause. Tu comprends le français mais tu n'arrives pas à parler. Seulement 20 minutes par jour peuvent te changer ton français. Notre programme de 30 jours t'aide à parler avec confiance au quotidien. Le cours commence bientôt et les premiers inscrits auront une place garantie. Inscris-toi sur la liste d'attente et tu sauras le lancement en premier. Chaque jour, tu reçois un plan clair et des activités variées chez toi à ton rythme. Si tu as besoin du français pour le travail, la vie ou l'amou",
+  "tx": "Ma mère René aura soy ans dans trois jours et je ne sais plus qui elle est vraiment. Cela semble dramatique, je le sais. Mais depuis 3 semaines, je ne réponds plus à ces appels. Je n'y arrive pas. Je suis dans la cuisine et je fais sa tarte au citron meringué comme chaque année. Pourtant, rien n'est comme les autres années. Il y a trois semaines, tout était encore simple. René Dupont, né en 1956 à Lyon, veuve, retraité, ma mère amatrice de mots croisés et de violette. C'était la femme que je connaissais. Aujourd'hui, je ne sais plus qui est cette femme. Le gâteau est prêt. Je le pose sur la … un plan clair et des activités variées chez toi à ton rythme. Si tu as besoin du français pour le travail, la vie ou l'amour, ce cours est parfait. Commence maintenant. Le lien est dans la description ou dans le commentaire épinglé. 3 semaines plus tôt, j'aidais ma mère à ranger son grenier. Un samedi tout simple, café, tarte, vieux carton que personne ne veut. Celui-ci peut partir, dit-elle en montrant une boîte de décoration de Noël. Et celui-là aussi. Je hochais la tête, je triais, je rangeais machinalement sans penser. Au fond, sous une vieille couverture en laine, je trouvais un carton … rien. Des milliers de résultats, aucun correct. J'ai saisi le nom de la ville lu sur la carte d'identité, une petite ville de l'Est. Pendant 40 ans, ma mère ne l'avait pas mentionné une seule fois. Jamais. 40 années partagées et ce nom n'était jamais sorti. comme si quelqu'un l'avait effacé exprès de notre vie. J'ai appelé ma tante, la sœur de mon père défunt. Peut-être savait-elle quelque chose. Jeanne Webbert, dit-elle, puis un long silence. Je n'ai pas entendu ce nom depuis des décennies. Alors, tu le connais ? Ai-je demandé ? Demande à ta mère, Mathieu, dit-elle seulement. Ce n'est pas … dans ma tête encore et encore comme une chanson sans fin. Au travail, je n'arrivais plus à me concentrer. Mon patron demanda si tout allait bien et je mentis. Oui, tout va bien. La nuit, je restais éveillé et j'imaginais 100 histoire. Ma mère, une espionne, ma mère en fuite devant quelqu'un. Ma mère, une autre personne partie et prenant une nouvelle identité. Chaque histoire était plus folle que la précédente, mais aucune n'était impossible. Je ne connaissais pas ma mère. Je mangeais presque plus, je dormais presque plus. Je ne pensais qu'à la carte, à la photo, au nom étranger. Ma … un visage au-dessus de moi, des voix inconnues. Crise de panique, a dit quelqu'un. Le cœur va bien. Juste la panique. Juste la panique comme si ce n'était rien. À l'hôpital, je suis resté des heures sur un brancard. Lumière blanche, appareil qui bipe. La peur restait dans mon corps comme une pierre qui ne voulait pas partir. J'ai pensé à ma mère, à la carte, à Jeanne Webbert. Je ne connaissais pas ma mère, ai-je pensé. Et maintenant, je ne me connais plus moi-même. Petite pause, je veux te montrer quelque chose. Tu cherches des histoires courtes, passionnantes à lire chez toi avec … papier semblait doux, presque comme du tissu, usé par des décennies. Dans un coin à l'encre bleue, une date, 1968. Sur la photo se trouvait une jeune femme. Ma mère, mais plus mince, autre regard. À côté d'elle, une petite fille, trois ans peut-être, robe à poids. \"Qui est cet enfant ?\" murmurais-je. Ma voix était un souffle. La pluie devint plus forte. Madame Per garda le silence, parfum de lavande et vieux papiers, puis dit doucement : \"C'était ta sœur ? C'était à une sœur. J'avais eu une sœur. Je regardais la photo. La petite fille à la robe à poids. Un sourire que je n'avais jamais … me l'a-t-elle jamais dit ? Chuchotais-je ? Madame Leclerc posa sa main fine sur mon bras, chaude malgré la chambre froide. Demande-leui toi-même, Mathieu, dit-elle. Ce n'est pas ma réponse, c'est la sienne. J'ai quitté l'hôpital lundi. Mon cœur allait bien. Le reste demandait plus de temps. Je ne suis pas allé voir ma mère tout de suite. Je ne pouvais pas. À la place, je marchais chaque jour dans le parc le long de la rivière. Je laissais les pensées venir et partir sans les retenir. Je rendais visite à Léa. Nous parlions des heures avec du thé sur son canapé. \"Comment vas-tu vraiment ?\" … encore silencieuse cette fois pour toujours ? Et si la vérité détruisait tout ce qui restait entre nous ? Peut-être pensais-je, devrais-je partir apporter le gâteau ? Sourire, ne rien dire, comme toujours. Je me tournais presque pour partir. Mais je pensais alors à Claire et à sa robe à poids, à une femme qui avait vécu 50 ans seule avec un secret qui l'arrongeait. \"Si je pars maintenant, pensais-je, ma mère restera étrangère pour toujours.\" Je levais encore la main. Cette fois, je ne la baissais pas. Je sonnais dépas lent. La porte s'ouvrit. Ma mère apparut. Plus âgée, pensais-je soudain, … mais c'était un autre silence qu'avant. pas caché partagé. La vieille carte d'identité reposait entre nous sur la table ouverte sans secret désormais. Pour la première fois, nous avons vu tous les deux la même vérité. Les semaines suivantes n'étaient devait pas faciles, mais elles étaient en vraies. Nous parlions plus que jamais auparavant de Claire, de Jeanne, sur la femme que René était devenue pour survivre. Parfois nous pleurions ensemble, parfois nous riven qui revenaient de soudain. Le jour de son anniversaire, nous étions deux à la table, le gâteau entre nous. 70 petites bougies … Je ne connaissais pas ma mère, pensais-je ce soir-là en rentrant. Mais cette phrase sonnait maintenant autrement, plus comme un début que comme un reproche. Parfois, pensais-je, une personne n'est pas étrangère parce qu'elle se cache, mais parce que la vérité n'a pas encore été dite. Et parfois, il faut 50 ans de silence et une vieille boîte au grenier pour que deux personnes se voient enfin vraiment. Ma mère n'est plus une inconnue pour moi, pensais-je, pour la première fois de ma vie. Certaines vérités font mal quand on les entend, mais elles font plus mal quand on ne les entend jamais.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8676
+  "src": "auto"
  },
  "Fkjt1ZFwY30": {
   "channel": "French Talks",
@@ -2249,61 +2929,167 @@
  "m3pQSlyqzyE": {
   "channel": "Simply French Podcast | Easy French",
   "lang": "fr",
-  "checked": "2026-10-31T16:50:47+00:00",
+  "checked": "2026-11-09T17:31:49+00:00",
   "title": "How to Talk About Your Day in French (A1) | Learn French Podcast | French Speaking Practice | Ep. 2",
   "duration": 792,
   "published": "20261029",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 76.7,
   "rare": 0.0368,
+  "var": 0.6452,
   "speech_s": 785.9,
   "tokens": 1005,
   "kw": [
    [
+    "oui",
+    "Oui, notre journée. Chaque jour.",
+    40,
+    49,
+    5.8,
+    27
+   ],
+   [
+    "prends",
+    "Tu prends une ? Oui, je prends une douche.",
+    120,
+    130,
+    4.88,
+    13
+   ],
+   [
+    "quelle",
+    "tu te réveilles à quelle ?",
+    48,
+    55,
+    5.27,
+    11
+   ],
+   [
+    "petit",
+    "le petit déjeuner. Ah, le petit déjeuner.",
+    184,
+    195,
+    5.67,
+    8
+   ],
+   [
+    "déjeuner",
+    "le petit déjeuner. Ah, le petit déjeuner.",
+    184,
+    195,
+    4.47,
+    8
+   ],
+   [
+    "réveille",
+    "réveille-toi. Hmm,",
+    2,
+    9,
+    4.24,
+    8
+   ],
+   [
+    "mets",
+    "Tu mets ? Je mets un pantalon.",
+    155,
+    165,
+    4.76,
+    7
+   ],
+   [
+    "mange",
+    "Je mange du pain avec du beurre.",
+    194,
+    204,
+    4.55,
+    7
+   ],
+   [
     "manges",
     "Tu manges ? Je mange du pain",
-    190
+    190,
+    200,
+    3.72,
+    8
    ],
    [
-    "déjeune",
-    "Moi, je déjeune à 12h30. Je mange un plat chaud.",
-    348
+    "couches",
+    "Tu te couches à quelle ?",
+    509,
+    518,
+    4.19,
+    3
    ],
    [
-    "brosses",
-    "Et tu te brosses les ?",
-    109
+    "routine",
+    "Aujourd'hui, nous parlons de la routine.",
+    36,
+    45,
+    3.96,
+    3
    ],
    [
-    "lèves",
-    "Et tu te lèves tout de ?",
-    62
-   ],
-   [
-    "dîne",
-    "Je dîne à 19h. Moi, je dîne à 18h30.",
-    451
+    "brosse",
+    "Oui, je me brosse les dents. C'est",
+    111,
+    117,
+    3.84,
+    3
    ],
    [
     "10h",
     "à 10h. C'est très bien.",
-    665
+    665,
+    674,
+    3.47,
+    3
    ],
    [
-    "réveilles",
-    "tu te réveilles à quelle ?",
-    48
+    "lèves",
+    "Et tu te lèves tout de ?",
+    62,
+    68,
+    3.12,
+    3
+   ],
+   [
+    "brosses",
+    "Et tu te brosses les ?",
+    109,
+    116,
+    3.11,
+    3
    ],
    [
     "laves",
     "Tu te laves le ? Oui.",
-    101
+    101,
+    110,
+    3.12,
+    2
+   ],
+   [
+    "déjeune",
+    "Moi, je déjeune à 12h30. Je mange un plat chaud.",
+    348,
+    361,
+    2.94,
+    3
+   ],
+   [
+    "dîne",
+    "Je dîne à 19h. Moi, je dîne à 18h30.",
+    451,
+    463,
+    2.79,
+    2
    ]
   ],
-  "tx": "Victor, réveille-toi. Hmm, encore 5 minutes. 5 ? Il est déjà 8h. ? Oh non, mon réveil. Ton réveil est sur ta tête. Ah, c'est vrai. Merci Amélie. Bonjour à tous. Bienvenue sur Simply French podcast. Bonjour. Aujourd'hui, nous parlons de la routine. Oui, notre journée. Chaque jour. Amélie, tu te réveilles à quelle ? Je me réveille à 6h. ? C'est très tôt. Oui, j'aime le matin. Et tu te lèves tout de ? Oui, je me lève. Moi, je me réveille à 7h. Et tu te lèves à ? Non, je me lève à 7h30. Tu restes au lit. Oui, un peu. Et toi, tu te réveilles à quelle ? Tu te lèves tout de ? Après, je vais à la salle de bain. Tu te laves le ? Oui. Je me lave le visage. Et tu te brosses les ? Oui, je me brosse les dents. C'est important. Oui, très important. Moi aussi. Tu prends une ? Oui, je prends une douche. Le ? Oui, le matin. L'eau est chaude. J'aime les douches chaudes. Moi aussi. Et toi, tu te laves le ? Tu te brosses les ? Tu prends une douche le ? Après la douche, je m'habille. Tu mets ? Je mets un pantalon. Je mets un t-shirt. Moi, je mets une robe ou un jean et un pull. Tu mets des ? Oui, je mets mes chaussures. Je suis prête. Moi, je suis prêt. Ensuite, le petit déjeuner. Ah, le petit déjeuner. Tu manges ? Je mange du pain avec du beurre. Et tu bois ? Je bois du café. Un grand café. Moi, je bois du thé. Tu manges du pain ? Non, je mange un fruit, une banane ou une pomme. C'est bon pour la santé. Oui, et toi, tu manges des ? Non, pas le matin. Et toi, tu prends ton petit ? Tu manges ? Tu bois ? Je quitte la maison à 7h30. Si ? Oui. Je vais au travail. Tu vas au travail à ? Non, je prends le bus. Moi, je quitte la maison à 8h45. Et tu vas au ? Oui. Je vais au travail. Je prends le métro. Et toi, tu vas au travail ou tu vas à ? Tu prends le bus ou le ? Ou tu vas à ? Au travail, je com",
+  "tx": "Victor, réveille-toi. Hmm, encore 5 minutes. 5 ? Il est déjà 8h. ? Oh non, mon réveil. Ton réveil est sur ta tête. Ah, c'est vrai. Merci Amélie. Bonjour à tous. Bienvenue sur Simply French podcast. Bonjour. Aujourd'hui, nous parlons de la routine. Oui, notre journée. Chaque jour. Amélie, tu te réveilles à quelle ? Je me réveille à 6h. ? C'est très tôt. Oui, j'aime le matin. Et tu te lèves tout de ? Oui, je me lève. Moi, je me réveille à 7h. Et tu te lèves à ? Non, je me lève à 7h30. Tu restes au lit. Oui, un peu. Et toi, tu te réveilles à quelle ? Tu te lèves tout de ? Après, je vais à la salle de bain. Tu te laves le ? Oui. Je me lave le visage. Et tu te brosses les ? Oui, je me brosse les dents. C'est important. Oui, très important. Moi aussi. Tu prends une ? Oui, je prends une douche. Le ? Oui, le matin. L'eau est chaude. J'aime les douches chaudes. Moi aussi. Et toi, tu te laves le ? Tu te brosses les ? Tu prends une douche le ? Après la douche, je m'habille. Tu mets ? Je mets un pantalon. Je mets un t-shirt. Moi, je mets une robe ou un jean et un pull. Tu mets des ? Oui, je mets mes chaussures. Je suis prête. Moi, je suis prêt. Ensuite, le petit déjeuner. Ah, le petit déjeuner. Tu manges ? Je mange du pain avec du beurre. Et tu bois ? Je bois du café. Un grand café. Moi, je bois du thé. Tu manges du pain ? Non, je mange un fruit, une banane ou une pomme. C'est bon pour la santé. Oui, et toi, tu manges des ? Non, pas le matin. Et toi, tu prends ton petit ? Tu manges ? Tu bois ? Je quitte la maison à 7h30. Si ? Oui. Je vais au travail. Tu vas au travail à ? Non, je prends le bus. Moi, je quitte la maison à 8h45. Et tu vas au ? Oui. Je vais au travail. Je prends le métro. Et toi, tu vas au travail ou tu vas à ? Tu prends le bus ou le ? Ou tu vas à ? Au travail, je commence à 9h. Tu fais ? Je lis mes emails. Je parle avec mes collègues. Moi, je commence à 8h. Je travaille sur l'ordinateur. Tu fais une ? Oui. Je fais une petite pause. Je bois de l'eau. C'est bien. Ensuite, c'est l'heure du déjeuner. ! Le déjeuner. Je mange à midi. Tu manges avec ? Je mange avec mes collègues. Tu manges ? Je mange une salade ou un sandwich. Moi, je déjeune à 12h30. Je mange un plat chaud. Tu rentres à la maison pour ? Non, je mange au bureau. Et toi, tu déjeunes à quelle ? Tu manges ? L'après-midi, je travaille encore. Moi aussi, je travaille. Je finis à 16h. Si ? Oui. Ensuite, je rentre à la maison. Moi, je finis à 17h. Et tu rentres à la maison tout de ? Oui, je rentre à la maison. Je suis fatigué. Moi aussi, je suis fatigué. Et toi, tu rentres à la maison à quelle ? Quand je rentre, je me repose. Tu regardes la ? Non, je lis un livre. Moi, je regarde un peu la télévision. Tu écoutes de la ? Oui, parfois. Après, je prépare le dîner. Tu as ? Oui, j'ai faim. Je prépare des légumes. Moi, je prépare des pâtes ou du riz. Tu dînes à quelle ? Je dîne à 19h. Moi, je dîne à 18h30. Et toi, tu dînes à quelle ? Tu manges quoi le ? Après le dîner, je me repose. Tu regardes un ? Oui, j'aime les films. Moi, je préfère lire. Tu parles avec ta ? Oui, je parle avec ma famille. Et toi, tu fais quoi le ? Ensuite, je me prépare pour dormir. Tu te brosses les dents ? Oui, je me brosse les dents, je mets mon pyjama. Moi aussi. Tu te couches à quelle ? Je me couche à 22h30. Moi, je me couche à 22h. Tu te couches tôt. Oui, j'aime dormir. Et toi, tu te couches à quelle ? Victor, je vais te raconter une petite histoire. Oh, une histoire de ? Oui. Écoute bien. D'accord. Un matin, Victor se réveille. C'est ! Il se lève vite. Il prend une douche. Il s'habille. Mais c'est dimanche. Oui, il prend son café. Il est prêt. Ah, il pense que c'est lundi. Oui, Amélie arrive. Elle dit \"Victor, c'est dimanche.\" Oh non, c'est une bonne histoire. Victor rit. Il va au lit encore. C'est ma vie. Maintenant, nous allons parler de l'ordre. L'ordre de la journée. D'abord, je me réveille. Ensuite, je me lève. Puis, je prends une douche. Après, je prends mon petit-déjeuner. Enfin, je vais au travail. Et ? D'abord, tu fais ? Écoutons et répétons ensemble. Écoutez et répétez. Je me réveille à 7h. Je me brosse les dents. Je prends une douche. Je prends mon petit-déjeuner. Je vais au travail. Je rentre à la maison. Je me couche à 10h. C'est très bien. Maintenant, un petit défi. Un ? J'explique ma routine. Tu écoutes. D'accord. Je me réveille à 7h. Je prends mon petit-déjeuner. Je vais au travail à 8h. Je déjeune à midi. Je rentre à 6h. Je me couche à 10h. À quelle heure tu te ? À 7h. À quelle heure tu ? À midi. À quelle heure tu te ? À 10h. C'est parfait. Maintenant, c'est ton tour. Décris ta routine en six phrases. Tu peux dire je me réveille à Je prends mon petit-déjeuner. Je vais Je déjeune à Je rentre à Je me couche à C'est facile. Essaye. Nous espérons que vous avez aimé notre conversation. Oui. C'était amusant de parler de notre journée. Pas comme ce matin où je pensais que c'était lundi. Oui. Tu es retourné au lit. Bonne nuit. Ou bonne journée. Et ? Tu fais quoi chaque ? Au revoir. À bientôt.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.63
+  "src": "auto"
  },
  "pNVzkv75fLA": {
   "channel": "Piece of French",
@@ -4948,136 +5734,324 @@
  "imjcGVNSdNQ": {
   "channel": "French Talks",
   "lang": "fr",
-  "checked": "2026-11-01T16:46:01+00:00",
+  "checked": "2026-11-09T17:29:00+00:00",
   "title": "40 Daily French Conversations | 60 Minutes of Everyday French | Learn French for Daily Life A2 B1",
   "duration": 3735,
   "published": "20260127",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 115.4,
   "rare": 0.0449,
+  "var": 0.81,
   "speech_s": 2869.9,
   "tokens": 5522,
   "kw": [
    [
-    "échangeable",
-    "billet ni échangeable ni remboursable C'est absolument inadmissible.",
-    1233,
-    1241
+    "oui",
+    "Oui, elle revient cet après-midi. Très bien.",
+    92,
+    100,
+    5.8,
+    87
+   ],
+   [
+    "merci",
+    "Ce serait génial, merci. En fait, moi aussi j'ai une petite demande.",
+    22,
+    36,
+    5.62,
+    59
+   ],
+   [
+    "accord",
+    "Ah d'accord ! Vous savez quand elle revient ?",
+    86,
+    93,
+    5.41,
+    38
+   ],
+   [
+    "bonjour",
+    "Bonjour, je voudrais parler à Madame Martin, s’il vous plaît.",
+    70,
+    77,
+    5.12,
+    37
+   ],
+   [
+    "plaît",
+    "je voudrais parler à Madame Martin, s’il vous plaît.",
+    71,
+    77,
+    4.58,
+    21
+   ],
+   [
+    "voudrais",
+    "je voudrais parler à Madame Martin, s’il vous plaît.",
+    71,
+    77,
+    4.53,
+    9
+   ],
+   [
+    "billet",
+    "Donnez-moi votre billet. Je suis désolé monsieur,",
+    1193,
+    1203,
+    4.46,
+    8
+   ],
+   [
+    "retard",
+    "Je suis sûr qu'on peut t'aider à rattraper le retard.",
+    18,
+    23,
+    4.75,
+    7
    ],
    [
     "tarte",
     "Une tarte ? Une glace ?",
     608,
-    611
+    611,
+    3.9,
+    7
    ],
    [
-    "saignante",
-    "Quelle cuisson pour la viande ? Saignante ? À point ?",
-    712,
-    717
+    "horaires",
+    "Les horaires sont de 9h à 17h,",
+    529,
+    532,
+    4.14,
+    5
    ],
    [
-    "lavabo",
-    "Le lavabo à l'air sale Oui, et le miroir doit être nettoyé.",
-    2369,
-    2378
+    "have",
+    "Bonjour, j'ai une ordonnance du médecin. Hello, I have a prescription from the doctor.",
+    1274,
+    1279,
+    3.83,
+    4
    ],
    [
-    "entrecôte",
-    "une soupe à l’oignon en entrée et une entrecôte au roquefort.",
-    582,
-    586
+    "excusez",
+    "Bonjour, excusez-moi, vous pouvez m'aider ?",
+    369,
+    374,
+    3.79,
+    4
    ],
    [
-    "bavette",
-    "une bavette à l'échalote. D’accord. Je vais prendre un menu à 14 € avec une bavette.",
-    705,
-    713
-   ],
-   [
-    "entrez",
-    "Oui, entrez s'il vous plaît. Bonjour Monsieur Dupont,",
-    804,
-    815
+    "travaillez",
+    "Vous travaillez bien en équipe ?",
+    2745,
+    2749,
+    3.47,
+    3
    ],
    [
     "very",
     "Oui, très bien. Yes, very well.",
     1282,
-    1286
+    1286,
+    3.44,
+    3
+   ],
+   [
+    "lavabo",
+    "Le lavabo à l'air sale Oui, et le miroir doit être nettoyé.",
+    2369,
+    2378,
+    3.22,
+    3
+   ],
+   [
+    "haricots",
+    "Est-ce que je peux avoir des haricots verts à la place du riz ?",
+    731,
+    736,
+    3.59,
+    2
+   ],
+   [
+    "échangeable",
+    "billet ni échangeable ni remboursable C'est absolument inadmissible.",
+    1233,
+    1241,
+    2.34,
+    3
+   ],
+   [
+    "carafe",
+    "et une carafe d'eau. Ça a été ?",
+    593,
+    604,
+    2.9,
+    2
+   ],
+   [
+    "remboursables",
+    "vos billets ne sont pas remboursables.",
+    1212,
+    1215,
+    2.87,
+    2
+   ],
+   [
+    "bavette",
+    "une bavette à l'échalote. D’accord. Je vais prendre un menu à 14 € avec une bavette.",
+    705,
+    713,
+    2.54,
+    2
    ]
   ],
-  "tx": "Aider un camarade. Est-ce que je peux te demander un service ? J'ai raté quelques cours de biologie. Est-ce que tu pourrais me prêter tes notes ? Bien sûr, on peut aller à la bibliothèque pour copier mon cahier puis réviser chez toi. Je suis sûr qu'on peut t'aider à rattraper le retard. Ce serait génial, merci. En fait, moi aussi j'ai une petite demande. La sœur de ma copine vient nous rendre visite. Ça te dirait de sortir avec elle samedi ? Je vais au cinéma avec Jean, elle peut venir avec nous, et après on mange un truc. Ça marche ? Je lui demande, et je te tiens au courant rapidement. Merci encore pour l'aide en biologie. Pas de problème. N'hésite pas à m'appeler si tu as des questions. Allô ? Bonjour, je voudrais parler à Madame Martin, s’il vous plaît. Bonjour. Ne quittez pas, je regarde… Je suis désolée, Madame Martin n’est pas disponible. Ah d'accord ! Vous savez quand elle revient ? Oui, elle revient cet après-midi. Très bien. Je peux laisser un message ? Bien sûr ! Dites-lui que Paul a appelé, et que je rappellerai plus tard. Très bien, je note. Merci beaucoup. Bonne journée. Bonne journée à vous aussi ! Au revoir Au revoir. À la fac Tu es inscrit au TD ? Non, je suis arrivé trop tard. Le secrétariat était fermé. Pas de chance ! Je te présente Paola, une amie. Et voici Antoine, un copain. Salut ! Vous êtes en deuxième année aussi ? Oui. Je ne comprends rien au système. Le site est compliqué. Je ne sais pas quelles courses sont obligatoires. Et le secrétariat est fermé. Moi aussi j'ai un problème. Je ne peux pas faire mon emploi du temps. J'espère que mes cours ne sont pas en même temps. Mon premier TD est jeudi à 8h30, salle 7. Ah, moi aussi j'ai choisi ce TD. On sera ensemble, mais 8h30 c'est tôt. J'espère que je vais me réveiller. Le prof est strict, et note ",
+  "tx": "Aider un camarade. Est-ce que je peux te demander un service ? J'ai raté quelques cours de biologie. Est-ce que tu pourrais me prêter tes notes ? Bien sûr, on peut aller à la bibliothèque pour copier mon cahier puis réviser chez toi. Je suis sûr qu'on peut t'aider à rattraper le retard. Ce serait génial, merci. En fait, moi aussi j'ai une petite demande. La sœur de ma copine vient nous rendre visite. Ça te dirait de sortir avec elle samedi ? Je vais au cinéma avec Jean, elle peut venir avec nous, et après on mange un truc. Ça marche ? Je lui demande, et je te tiens au courant rapidement. … de Charenton. Et après ? Ensuite, continuez tout droit, vous allez passer devant un parc, le Parc de Bercy. La gare est juste après, vous la verrez à gauche, avec ses grandes portes d'entrée. Ah ! Je connais le parc de Bercy ! C'est à seulement 5 minutes d'ici à pied. Parfait, merci beaucoup. Je reste du côté de cette rue. Oui, restez bien du même côté de la rue. Vous verrez, le trottoir devient plus large vers la gare. Merci beaucoup ! Vous m'avez vraiment facilité la tâche, surtout sans GPS. Pas de soucis ! Bonne chance ! Appel téléphonique après l'entretien Allô ? Bonjour monsieur, Je … un fondant au chocolat, deux cafés et l’addition, s’il vous plaît ! Demande de congé pour voyager Oui, entrez s'il vous plaît. Bonjour Monsieur Dupont, Est-ce que je peux vous parler un moment ? Bonjour Madame Martin. Oui, bien sûr. Je vous écoute. Merci. Je voulais vous demander quelques jours de congé. D’accord. Pour quelle période, Madame Martin ? du 15 au 20 février. C'est pour une raison particulière ? Oui, je voudrais voyager un peu, j'en ai vraiment besoin. Je comprends. Vous avez encore des jours de congé disponibles ? Oui, il m'en reste encore. et le travail pendant votre absence. … Je crois que j'ai raté mon avion pour Amsterdam. Pouvez-vous m'aider? Un instant s'il vous plaît. Donnez-moi votre billet. Je suis désolé monsieur, mais vous avez raté votre vol. Pouvez-vous me mettre sur un autre vol ? Je regrette Monsieur, vos billets ne sont pas remboursables. Il faut que vous achetiez de nouveaux billets. Vous savez pourquoi j'ai raté l'avion ? Le tableau électronique, là-bas, ne fonctionne pas ! Mon vol n'a jamais été annoncé ! Et je suis dans l'aéroport depuis une heure ! je suis désolé, regardez, billet ni échangeable ni remboursable C'est absolument … marque française, Belle rue, Très tendance en ce moment ! Ah ! 150 euros ? C'est plus cher que je pensais ! Je comprends, mais on en a déjà vendu dix aujourd'hui. C'est vrai qu'elle est très belle. Vous faites une réduction pour les étudiants ? j'ai bien peur que non mais on peut faire un ajustement gratuit si vous voulez. D'accord. Où sont les cabines d'essayage ? Au fond, à gauche. Merci ! Si elle me va bien, je la prends. Parfait. Je reste ici si vous avez besoin. Elle me va trop bien ! Je la prends ! Excellent choix ! C'était la dernière en violet. Merci pour votre aide. Invitation à … 7h41, alors. Arrivée à Lille à 8h45. Attention, vous arrivez à Lille-Europe, pas à Lille-Flandres. D'accord. Lille-Europe, ça me va très bien. Pour le retour, à partir de 15h, vous avez un TGV toutes les heures. Vers 18 heures, dans ce cas. 18h11, arrivée à Paris-Nord à 19h47. Première ou seconde ? Seconde. Vous avez une réduction ? étudiant par exemple Malheureusement non ! Alors, ça fait 92 euros. Vos billets sont échangeables et remboursables jusqu'au départ. Bonjour Madame. Entrez je vous en prie. Bonjour Docteur Qu'est-ce qui vous amène aujourd'hui ? Depuis deux jours j'ai de la … finit vite, mieux c’est. Comme ça, on pourra se détendre. À la gare Le billet n'est pas échangeable. Bonjour, je voudrais changer mon billet, s'il vous plaît. Bonjour. En quoi puis-je vous aider ? Mon train est à 14h, mais je voudrais partir plus tôt. Je comprends. À quelle heure voulez-vous partir ? Vers midi, si c’est possible. Je regarde. Oui, il y a un train à 12h10. Parfait ! je veux changer pour ce train. Je suis désolée, monsieur Votre billet n’est pas échangeable. Ah d'accord ! Je ne peux vraiment pas changer ? Non malheureusement. Vous devez acheter un nouveau billet si vous voulez … avez déjà parlé avec des clients en anglais ? Oui, parfois, mais ce n'est pas facile. D'accord, ici parfois on a des clients étrangers, mais on vous aide au début. Très bien, merci. Je vous explique maintenant l'entreprise. Nous sommes une petite équipe, dix personnes. On travaille dans le service client. D'accord. Nos règles sont simples. on respecte les horaires, on se parle poliment, et on travaille en équipe. Très bien. Pour les nouveaux, il y a une formation au début. Vous ne serez pas seul. C’est bien. Après 6 mois, si tout se passe bien, cela peut devenir un CDI. Très bien. Le … deux bouquets-ci ensemble, je vais en avoir pour combien ? Vous en aurez pour 25 €. D’accord, je prends les deux bouquets ensemble. C’est pour offrir, donc. Oui, madame. Vous réglez comment ? En espèces ou par carte ? En liquide Retrouvailles Hé, Julien, c'est bien toi? Pardon, on se connaît ? Je ne t'avais pas reconnu avec ta barbe. Mais oui, c'est moi, Thomas ! Tu ne me reconnais vraiment pas ? Thomas ! Ça fait un bail ! Tu as changé, dis donc. Tu as maigri, non ? Oui… J’ai pris un coup de vieux après mon divorce. Et mes cheveux ont blanchi. Ah ! Tu as divorcé… Je ne savais pas. Et tu … garantie. C'est tentant, mais trop cher ! On pourrait attendre une promo ? Il y a des réductions de temps en temps. La Bosch me semble bien, mais le prix reste un problème. Alors, tu choisis laquelle ? Elles se valent, mais l'une est plus chère. C'est compliqué. Choisir un lave-linge, c'est presque aussi dur que choisir une voiture. Je m'en fiche. C'est juste pour laver les vêtements. Tu veux chercher quelque chose de moins cher? Non, les moins chers tombent souvent en panne. Et si on regardait les avis en ligne? Oui, bonne idée. Ça nous aidera à choisir. D'accord, mais il faut décider vite.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8279
+  "src": "cc"
  },
  "LH6ZqvdS5yw": {
   "channel": "Simply French Podcast | Easy French",
   "lang": "fr",
-  "checked": "2026-11-01T16:48:37+00:00",
+  "checked": "2026-11-09T17:32:09+00:00",
   "title": "How to Talk About Your Family (A2) | Learn French Podcast | Easy French | Ep. 58",
   "duration": 1065,
   "published": "20261010",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 107.7,
   "rare": 0.0142,
+  "var": 0.793,
   "speech_s": 1061.4,
   "tokens": 1905,
   "kw": [
    [
-    "oncles",
-    "Essayez de former une phrase simple. Victor, tu as une grande famille avec les oncles,",
-    586,
-    597
+    "oui",
+    "Amélie, qu'est-ce que tu regardes sur ton téléphone ? C'est une photo. Ah oui,",
+    0,
+    8,
+    5.8,
+    34
    ],
    [
-    "cousins",
-    "les tantes, les cousins ? Oui, j'ai une famille assez grande. Ma mère a deux frères donc j'ai",
-    596,
-    607
+    "famille",
+    "Victor, c'est une photo de ma famille. Nous étions en vacances la semaine dernière. Oh,",
+    7,
+    16,
+    5.52,
+    30
    ],
    [
-    "auditeurs",
-    "leur manière de montrer leur amour. Et toi chers auditeurs, comment est votre famille ? Tu as des",
-    410,
-    420
+    "mère",
+    "super ! Qui est sur la photo ? Je ne reconnais pas tout le monde. Alors, regarde, ici c'est ma mère.",
+    15,
+    27,
+    5.45,
+    20
    ],
    [
-    "aimons",
-    "nous aimons faire des promenades où nous cuisinons ensemble. Cuisiner ensemble, c'est une bonne idée.",
-    244,
-    255
-   ],
-   [
-    "habitent",
+    "parents",
     "Nous sommes très proches. Et tes parents, ils habitent où ? Mes parents habitent à la campagne,",
     89,
-    101
+    101,
+    5.21,
+    18
+   ],
+   [
+    "sœur",
+    "la fille à côté de lui, c'est ma sœur Léa. Tu as une sœur aussi ? Je ne savais pas. Elle a quel",
+    58,
+    68,
+    4.79,
+    13
    ],
    [
     "sœurs",
     "Tu as deux frères et sœurs, c'est chouette. Oui, j'aime beaucoup avoir une grande famille.",
     79,
-    90
+    90,
+    4.24,
+    8
    ],
    [
-    "tantes",
+    "histoires",
+    "sont adorables. Ma grand-mère est très douce et mon grand-père aime raconter des histoires. Oh,",
+    305,
+    317,
+    4.64,
+    6
+   ],
+   [
+    "habite",
+    "ils vivent avec tes parents ? Non, Thomas habite à Paris pour son travail. Il est ingénieur. Léa,",
+    110,
+    121,
+    4.42,
+    6
+   ],
+   [
+    "cousins",
     "les tantes, les cousins ? Oui, j'ai une famille assez grande. Ma mère a deux frères donc j'ai",
     596,
-    607
+    607,
+    3.88,
+    7
+   ],
+   [
+    "auditeurs",
+    "leur manière de montrer leur amour. Et toi chers auditeurs, comment est votre famille ? Tu as des",
+    410,
+    420,
+    3.7,
+    5
+   ],
+   [
+    "pratiquer",
+    "pratiquer. Raconte-nous une petite histoire de ta famille, Victor. Un souvenir amusant. Une histoire",
+    452,
+    463,
+    4.15,
+    4
+   ],
+   [
+    "habitent",
+    "Nous sommes très proches. Et tes parents, ils habitent où ? Mes parents habitent à la campagne,",
+    89,
+    101,
+    3.85,
+    4
+   ],
+   [
+    "oncles",
+    "Essayez de former une phrase simple. Victor, tu as une grande famille avec les oncles,",
+    586,
+    597,
+    3.29,
+    4
    ],
    [
     "promenades",
     "nous aimons faire des promenades où nous cuisinons ensemble. Cuisiner ensemble, c'est une bonne idée.",
     244,
-    255
+    255,
+    3.53,
+    2
+   ],
+   [
+    "tantes",
+    "les tantes, les cousins ? Oui, j'ai une famille assez grande. Ma mère a deux frères donc j'ai",
+    596,
+    607,
+    3.22,
+    2
    ]
   ],
-  "tx": "Amélie, qu'est-ce que tu regardes sur ton téléphone ? C'est une photo. Ah oui, Victor, c'est une photo de ma famille. Nous étions en vacances la semaine dernière. Oh, super ! Qui est sur la photo ? Je ne reconnais pas tout le monde. Alors, regarde, ici c'est ma mère. Elle est très souriante et là à côté d'elle, c'est mon père. Ah oui, je vois. Ils ont l'air très contents. Et le jeune homme là, c'est ton frère ? Exactement, c'est mon frère Thomas. Il a 25 ans. 25 ans ? Il est plus jeune que toi, non ? Oui, il est un peu plus jeune. J'ai 28 ans. Et la fille à côté de lui, c'est ma sœur Léa. Tu as une sœur aussi ? Je ne savais pas. Elle a quel âge ? Oui, elle est la plus jeune. Elle a 20 ans. Elle est étudiante. Waouh ! Une grande famille. Tu as deux frères et sœurs, c'est chouette. Oui, j'aime beaucoup avoir une grande famille. Nous sommes très proches. Et tes parents, ils habitent où ? Mes parents habitent à la campagne, pas très loin de ma ville. Je les vois souvent. C'est bien. Et tes frères et sœurs Thomas et Léa, ils vivent avec tes parents ? Non, Thomas habite à Paris pour son travail. Il est ingénieur. Léa, elle est à Lyon pour ses études. D'accord. Donc vous êtes un peu dispersé. Oui, mais nous nous appelons souvent. Et pour les vacances, nous essayons de nous retrouver. C'est important de passer du temps en famille. C'est une belle photo. Merci. Et toi, Victor, tu as des frères ou des sœurs ? Moi, j'ai un frère, il s'appelle Marc. Ah oui. Et il a quel âge ton frère ? Il a 32 ans. Il est plus âgé que moi. Et comment est ton frère Marc ? Il te ressemble ? Marc est très drôle. Il est aussi très sportif. Il aime beaucoup faire du vélo. Oh, c'est bien. Et toi, tu es sportif aussi ? Non, pas comme lui. Moi, je préfère lire et regarder des films. C'est ça les frère, sou",
+  "tx": "Amélie, qu'est-ce que tu regardes sur ton téléphone ? C'est une photo. Ah oui, Victor, c'est une photo de ma famille. Nous étions en vacances la semaine dernière. Oh, super ! Qui est sur la photo ? Je ne reconnais pas tout le monde. Alors, regarde, ici c'est ma mère. Elle est très souriante et là à côté d'elle, c'est mon père. Ah oui, je vois. Ils ont l'air très contents. Et le jeune homme là, c'est ton frère ? Exactement, c'est mon frère Thomas. Il a 25 ans. 25 ans ? Il est plus jeune que toi, non ? Oui, il est un peu plus jeune. J'ai 28 ans. Et la fille à côté de lui, c'est ma sœur Léa. Tu … ? Non, Thomas habite à Paris pour son travail. Il est ingénieur. Léa, elle est à Lyon pour ses études. D'accord. Donc vous êtes un peu dispersé. Oui, mais nous nous appelons souvent. Et pour les vacances, nous essayons de nous retrouver. C'est important de passer du temps en famille. C'est une belle photo. Merci. Et toi, Victor, tu as des frères ou des sœurs ? Moi, j'ai un frère, il s'appelle Marc. Ah oui. Et il a quel âge ton frère ? Il a 32 ans. Il est plus âgé que moi. Et comment est ton frère Marc ? Il te ressemble ? Marc est très drôle. Il est aussi très sportif. Il aime beaucoup … est plus calme mais il est très généreux. Ça a l'air d'être de belles personnes. Et qu'est-ce que vous faites ensemble en famille ? Le weekend quand je suis chez mes parents, nous aimons faire des promenades où nous cuisinons ensemble. Cuisiner ensemble, c'est une bonne idée. Qu'est-ce que vous préparez ? Souvent, ma mère fait de bons gâteaux et mon père, lui aime faire des grillades l'été. Hm, ça donne envie. et avec tes frères et sœurs quand vous êtes tous ensemble. Quand Thomas et Léa sont là, nous aimons regarder des films le soir où nous jouons à des jeux de société, des moments simples … il a beaucoup d'humour. Il me fait toujours rire. C'est merveilleux. d'avoir des grands-parents comme ça. Oui, je suis très chanceuse. Et toi, Victor, tu as encore tes grands-parents ? Oui, j'ai mes grands-parents maternels. Ma grand-mère habite en Bretagne. Ah, en Bretagne, c'est loin ? Oui, c'est un peu loin mais j'essaie d'aller la voir une ou deux fois par an. C'est un beau voyage. Et comment est ta grand-mère ? Ma grand-mère est très énergique. Elle est généreuse. Elle fait toujours de délicieux repas quand je viens. Ça c'est typique des grand-mères. On ne mange jamais assez pour ell. … pour décrire chaque membre de votre famille. Par exemple, mon père est très calme ou ma sœur est très sportive. C'est une bonne manière de pratiquer. Raconte-nous une petite histoire de ta famille, Victor. Un souvenir amusant. Une histoire amusante. Ah oui, un Noël quand j'étais petit. Mon frère Marc et moi, nous voulions ouvrir nos cadeaux très tôt. Oui. Et alors ? Mes parents dormaient. Alors, nous avons essayé d'ouvrir un cadeau en secret, mais le papier a fait trop de bruit. Oh non ! Et vos parents vous ont entendu ? Oui, mon père est venu dans le salon. Il n'était pas très content … matin, ma mère nous a aidé à les retrouver. Nous avons beaucoup ri. C'est mignon. Les petites disputes de sœur, ça fait partie de la vie de famille. Exactement. Ça rend les souvenirs encore plus spéciaux. Chers auditeurs, qu'est-ce que vous aimez faire avec votre famille le weekend ? Vous aimez manger ensemble, regarder des films, faire du sport ? Nous aimons aller au restaurant. Je visite mes grands-parents. Essayez de former une phrase simple. Victor, tu as une grande famille avec les oncles, les tantes, les cousins ? Oui, j'ai une famille assez grande. Ma mère a deux frères donc j'ai … une tante de ce côté. Mon père est fils unique. Donc moins donc les tentes et des cousins. Oui, j'ai deux cousins et une cousine. Ils habitent loin donc je ne les vois pas très souvent. C'est dommage quand la famille est loin. Oui, un peu. Mais on s'envoie des message. Chers auditeurs, avez-vous des oncles, des tantes, des cousins ? Sont-ils nombreux ? Les voyez-vous souvent ? Imaginez que vous parlez à un ami et vous lui présentez votre famille. J'ai un oncle qui s'appelle Paul. Ma cousine est très gentille. C'est une bonne manière de pratiquer la description. Amélie, parlons un peu plus … petites choses. Oui, c'est la vie de famille. On n'est pas toujours d'accord mais l'amour est là. Exactement. L'important, c'est de se respecter. Chers auditeurs, comment vous sentez-vous avec votre famille ? Êtes-vous proche ? Aimez-vous passer du temps avec eux ? Vous pouvez dire \"Je suis très proche de ma famille ou \"J'aime ma famille.\" J'aime parler avec ma mère. Mon frère me fait rire. Des phrases simples pour exprimer vos sentiments. C'est un bon exercice. Oui, ça permet de pratiquer le vocabulaire et les sentiments. Faisons un petit jeu d'écoute. Amélie, j'ai bien écouté quand tu as … poser des questions, Victor. Je suis prêt. Comment s'appelle ton frère ? Mon frère s'appelle Marc. Oui. Et où habite ta grand-mère ? Ma grand-mère habite en Bretagne. Excellent. Et qu'est-ce que ta grand-mère fait quand tu viens la voir ? Elle fait toujours de délicieux repas et elle me demande si j'ai bien mangé. Oui, je me souviens de ça. C'est parfait, Victor. Ce petit jeu est amusant. Ça aide à écouter les détails. Oui, c'est très utile pour apprendre. Alors, chers auditeurs, nous avons parlé de beaucoup de choses aujourd'hui. Nous avons appris les mots pour les membres de la famille. … famille ou j'ai une grande famille.\" Mon père est très gentil ou ma sœur est sportive. Nous aimons regarder des films ensemble. Je suis proche de ma mère. Et comment vous sentez-vous ? J'aime ma famille. Prenez le temps de construire ces phrases. C'est votre moment de parler. C'est la meilleure façon de progresser. Nous espérons que cet épisode vous a aidé à parler de votre famille avec plus de confiance. Oui, continuez à pratiquer, c'est le plus important. Merci de nous avoir écouté et à très bientôt pour un nouvel épisode. Au revoir tout le monde. Parlez de votre famille en français. Yeah.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.76
+  "src": "cc"
  },
  "2jEVLAduivA": {
   "channel": "Simply French Podcast | Easy French",
@@ -14016,7 +14990,7 @@
  "9BNPl_yPISE": {
   "channel": "Alice Ayel",
   "lang": "fr",
-  "checked": "2026-11-03T04:45:51+00:00",
+  "checked": "2026-11-09T16:30:43+00:00",
   "title": "🌊 The Drowned City of Damvauthier | French Story Listening",
   "duration": 2204,
   "published": "20261102",
@@ -14024,9 +14998,106 @@
   "spoken_v": 2,
   "pace": 94.5,
   "rare": 0.0636,
+  "var": 0.5757,
   "speech_s": 2186.5,
   "tokens": 3443,
   "kw": [
+   [
+    "ville",
+    "avait une grande ville. avec beaucoup de maisons.",
+    186,
+    197,
+    5.66,
+    52
+   ],
+   [
+    "beaucoup",
+    "avec beaucoup de maisons. Il y avait une grande cité, une grande",
+    189,
+    199,
+    5.75,
+    33
+   ],
+   [
+    "femme",
+    "femme, une femme Une femme",
+    930,
+    942,
+    5.59,
+    33
+   ],
+   [
+    "étaient",
+    "étaient très riches. C'était une ville",
+    429,
+    438,
+    5.53,
+    32
+   ],
+   [
+    "forêt",
+    "forêt parce qu'en Franchecté, il y a",
+    210,
+    217,
+    4.6,
+    16
+   ],
+   [
+    "lac",
+    "Et cette légende s'intitule le lac. Le",
+    107,
+    117,
+    4.67,
+    15
+   ],
+   [
+    "légende",
+    "je vais vous raconter une légende. Je",
+    3,
+    10,
+    4.58,
+    13
+   ],
+   [
+    "maisons",
+    "avec beaucoup de maisons. Il y avait une grande cité, une grande",
+    189,
+    199,
+    4.75,
+    11
+   ],
+   [
+    "blé",
+    "le blé le blé une céréale pour faire le pain et",
+    303,
+    312,
+    4.12,
+    11
+   ],
+   [
+    "ayez",
+    "comme par exemple soyez bon ou ayez ayez",
+    34,
+    44,
+    4.11,
+    11
+   ],
+   [
+    "serviteur",
+    "porte et un serviteur, un servant, un serviteur.",
+    1147,
+    1161,
+    3.74,
+    11
+   ],
+   [
+    "partez",
+    "partez. Il a dit partez",
+    1304,
+    1313,
+    3.75,
+    10
+   ],
    [
     "vieillard",
     "C'était un vieillard. Il était vraiment",
@@ -14034,6 +15105,30 @@
     696,
     3.48,
     20
+   ],
+   [
+    "dong",
+    "dong ding",
+    1706,
+    1716,
+    3.4,
+    7
+   ],
+   [
+    "ding",
+    "ding dong",
+    1704,
+    1711,
+    3.21,
+    7
+   ],
+   [
+    "réchauffer",
+    "chauffer, nous réchauffer parce que nous",
+    1128,
+    1134,
+    3.56,
+    6
    ],
    [
     "tonner",
@@ -14052,38 +15147,6 @@
     5
    ],
    [
-    "ding",
-    "ding dong",
-    1704,
-    1711,
-    3.21,
-    7
-   ],
-   [
-    "serviteur",
-    "porte et un serviteur, un servant, un serviteur.",
-    1147,
-    1161,
-    3.74,
-    11
-   ],
-   [
-    "découragez",
-    "ne vous découragez pas. Ne vous découragez",
-    1503,
-    1513,
-    2.26,
-    4
-   ],
-   [
-    "partez",
-    "partez. Il a dit partez",
-    1304,
-    1313,
-    3.75,
-    10
-   ],
-   [
     "dédaigneux",
     "dédaigneux. Dédigneux.",
     1181,
@@ -14092,74 +15155,18 @@
     4
    ],
    [
-    "ville",
-    "avait une grande ville. avec beaucoup de maisons.",
-    186,
-    197,
-    5.66,
-    52
-   ],
-   [
-    "femme",
-    "femme, une femme Une femme",
-    930,
-    942,
-    5.59,
-    33
-   ],
-   [
-    "beaucoup",
-    "avec beaucoup de maisons. Il y avait une grande cité, une grande",
-    189,
-    199,
-    5.75,
-    33
-   ],
-   [
-    "étaient",
-    "étaient très riches. C'était une ville",
-    429,
-    438,
-    5.53,
-    32
-   ],
-   [
-    "bébé",
-    "portait aussi un petit bébé. Elle portait un petit bébé.",
-    988,
-    1002,
-    4.81,
-    28
-   ],
-   [
-    "parce",
-    "forêt parce qu'en Franchecté, il y a",
-    210,
-    217,
-    5.73,
-    16
-   ],
-   [
-    "froid",
-    "froid, c'était la saison de l'hiver. Alors, il",
-    906,
-    917,
-    4.82,
-    16
-   ],
-   [
-    "forêt",
-    "forêt parce qu'en Franchecté, il y a",
-    210,
-    217,
-    4.6,
-    16
+    "découragez",
+    "ne vous découragez pas. Ne vous découragez",
+    1503,
+    1513,
+    2.26,
+    4
    ]
   ],
-  "tx": "Coucou les French learners. Aujourd'hui, je vais vous raconter une légende. Je vais vous raconter une légende française de la région de Franche-cté. Et cette légende va vous aider à acquérir le français naturellement. Cette légende va vous aider à acquérir, à assimiler de manière inconsciente, sans avoir à mémoriser, à étudier. Et bien cette légende va vous aider donc à acquérir des structures complexes comme par exemple soyez bon ou ayez ayez pitié ou Dieu soit loué. Ce sont des structures qui utilisent des formes complexes de temps et de verbes comme le subjonctif. Et grâce à cette histoire et bien vous allez assimiler, absorber ces structures. Alors installez-vous confortablement, détendez-vous et appréciez l'histoire. N'essayez pas de mémoriser, n'essayez pas d'étudier. Essayez de comprendre l'essentiel de cette légende mystérieuse. C'est parti. anisay.com pour acquérir le français naturellement. Aujourd'hui, je vais raconter une légende, une légende française. Une légende de la région de Franchecté, une légende de France. La Franche Comptée est une région en France qui se trouve qui se situe à l'est de la France. Et cette légende s'intitule le lac. Le lac de saint le lac de Saint Point. le lac de 5 points il y a très très très très longtemps dans le passé. C'était dans le passé et je ne sais pas exactement quand, mais c'était il y a très très longtemps, extrêmement longtemps. C'était il y a il y a fort fort longtemps. Il y a fort longtemps dans le passé. très très très longtemps. Il y avait au bord de la rivière, il y avait une rivière en Franchectée. En Franchectée, il y a une rivière qui s'appelle le Doux. C'est une rivière, une grande rivière qui s'appelle le doux. Et au bord au bord de la rivière, au bord du Dou, il y avait une grande ville. avec beaucoup de ma",
+  "tx": "Coucou les French learners. Aujourd'hui, je vais vous raconter une légende. Je vais vous raconter une légende française de la région de Franche-cté. Et cette légende va vous aider à acquérir le français naturellement. Cette légende va vous aider à acquérir, à assimiler de manière inconsciente, sans avoir à mémoriser, à étudier. Et bien cette légende va vous aider donc à acquérir des structures complexes comme par exemple soyez bon ou ayez ayez pitié ou Dieu soit loué. Ce sont des structures qui utilisent des formes complexes de temps et de verbes comme le subjonctif. Et grâce à cette histoire … la forêt parce qu'en Franchecté, il y a beaucoup de forêt avec beaucoup d'arbres, beaucoup de pains, de sapins. Et donc cette ville était située au bord au bord de la forêt. Elle était en lisière. à côté en lisière de forêt en lisère, c'est-à-dire à côté de la forêt et aussi au bord de la rivière. Au bord et cette ville, cette ville était une grande ville. C'était une grande ville très riche. Cette ville s'appelait Dame Votier ou dans peut-être dame ou peut-être d je ne sais pas exactement comment se prononce le nom de cette ville dans Vier parce que cette ville cette ville n'existe plus. … la ville étaient décoré avec des perles précieuse, avec des rubis et aussi avec de l'or. Les maisons de la ville de Dameutier étaient somptueuse. Somptueuse. C'était une ville prospère et riche. Alors, les habitants de la ville de Dame Votier n'avaient pas besoin de travailler. Ce n'était pas nécessaire pour eux de travailler parce qu'ils avaient du blé en abondance, des vergers, de la vigne. Ils n'avaient pas besoin de travailler. Ils ne travaillaient pas. Ils ne travaillaient pas. Ils étaient oisifs. Oisifs, c'est-à-dire qu'ils ne travaillaient pas. Ils étaient oisifs et ils étaient … Et sur la place de la ville, il y avait un homme, un homme h qui était très très vieux. Il était vieux, il avait une barbe et il marchait il marchait avec une canne. Il marchait avec une canne parce qu'il était vieux. C'était un vieillard. Il était vraiment très vieux. Il était fort vieux, très vieux. C'était un vieillard. Et cet homme était sur la place, il était sur la place de la ville et il voyait, il observait les habitants de la ville qui chantait, qui buvaient, qui mangeaient du gibier, qui était paresseux, gourmand, arrogant. alors il disait il disait il criait attention … Et il neigeit. Il neigeit. H il neigeait beaucoup beaucoup. Une femme, une femme Une femme est entrée elle est entrée dans la ville de Dame Vautier. Elle n'habitait pas à Dame Vautier. Elle elle est entrée dans la ville et cette femme cette femme était très pauvre. Elle n'était pas riche. Elle n'était pas prospère, elle était pauvre. Elle portait des vieux vêtements, des vêtements qui étaient très très usés. C'était des vieux vêtements. Ils étaient très usés, très vieux. Elle portait des haillons, des haillons, des très vieux vêtements qui étaient sales et usés. Et elle portait aussi … a frappé à la porte. Elle a frappé à la porte et un serviteur, un servant, un serviteur. Hm hm. Le serviteur n'était pas content. Un serviteur a ouvert la porte. Il a ouvert la porte et il a regardé il a regardé la femme avec arrogance. Il a regardé la femme d'un air dédaigneux. Dédigneux. Hm. Dédigneux. avec dédain avec arrogance. La femme a dit \"Oh s'il vous plaît, s'il vous plaît.\" La femme a dit \"S'il vous plaît, ayez pitié. Ayez pitié ! Ayez pitié de mon bébé. Ayez pitié de mon bébé, il est bleu. Il est tout bleu. Il a très très froid. Il est presque presque mort de froid et de faim. … Et encore une fois, le serviteur a répondu d'un air dédaigneux : \"Partez Et elle a continué à chaque chaque dans chaque maison de la ville, elle a frappé à chaque porte de chaque maison de la ville de Dame Vutier, elle a frappé et à chaque fois à chaque fois et bien une personne un serviteur ou une servante disait lui criait partez, partez. La femme était complètement complètement désespérée. Elle a dit \"Tout est fini maintenant. C'est fini. Tout est fini. Tout est fini. Je vais mourir. Je vais mourir de froid.\" Alors, elle a imploré Dieu. Elle a dit \"Dieu sauvez mon bébé. Moi, je vais … chaud. Il était réchauffé. Et la femme a remercié elle a remercié le vieillard. Elle a dit au vieillard \"Merci, merci vieillard. Merci. Elle a remercié. C'était c'était la nuit maintenant. C'était la nuit dans la forêt et dans la ville. La nuit avec la lune et les étoiles. Et il était minuit. Il était minuit. Exactement. H minuit. Min nuit. À minuit. Exactement. On a entendu ding dong ding dong. Les cloches pour sonner minuit. Et à ce moment-là, dans le ciel, il y a eu le tonner, l'électricité, l'éclair, l'éclair, l'électricité dans le ciel, l'éclair. Et après le tonner, il y a eu un … mais l'eau montait montait monté, l'eau a pénétré dans les maisons et tout était fini. Dame Vautier a disparu. Dame Votier a disparu sous l'eau. Dame Votier a complètement disparu avec les habitants. Alors le lendemain, la nuit était passée, le jour suivant, le lendemain, le lendemain. Demain, aujourd'hui, c'est lundi, demain c'est mardi. le lendemain, le jour suivant, le jour suivant, quand la femme et son bébé se sont réveillés, elles ont vu elles ont vu un lac. La ville avait complètement disparu et à la place de la ville, il y avait un lac, un grand lac. Elles ont vu un lac et la femme … cette légende ? partager votre avis, votre opinion dans les commentaires. Et puis pour lire cette légende et pour l'écouter de nouveau avec une voix différente, et bien cliquez sur le lien qui est dans la description sous la vidéo et aussi dans les commentaires. Cliquez sur ce lien, allez sur alisael.com et rejoignez notre communauté de French Learners. pour comprendre le français naturellement sans effort pour penser en français directement sans passer par la traduction sans réfléchir et puis pour parler français spontanément et librement pour acquérir le français naturellement. À bientôt.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6064
+  "src": "auto"
  },
  "2Ciz_RSA-SU": {
   "channel": "FrancoTalks",
@@ -45348,7 +46355,7 @@
  "dQI-QnI1enw": {
   "channel": "Frenchy Tales",
   "lang": "fr",
-  "checked": "2026-11-07T05:42:59+00:00",
+  "checked": "2026-11-09T16:09:46+00:00",
   "title": "He Abandoned Us 18 Years Ago. Today I Interview Him | Learn French Through Stories (A1–A2)",
   "duration": 2356,
   "published": "20261103",
@@ -45356,89 +46363,10 @@
   "spoken_v": 2,
   "pace": 97.4,
   "rare": 0.0324,
+  "var": 0.8264,
   "speech_s": 2300.3,
   "tokens": 3734,
   "kw": [
-   [
-    "répétez",
-    "père nous a abandonné. Maintenant, répétez. Mon père nous a abandonné.",
-    1820,
-    1831,
-    2.98,
-    9
-   ],
-   [
-    "murmuré",
-    "Mais j'ai laissé l'assiette de papa sur la table. Il va peut-être encore venir, ai-je murmuré.",
-    237,
-    247,
-    2.68,
-    6
-   ],
-   [
-    "pardonner",
-    "pardonner, mais je sais que je n'ai pas le droit de te le demander. J'ai éteint l'enregistreur.",
-    1627,
-    1639,
-    3.94,
-    11
-   ],
-   [
-    "assiettes",
-    "Le dimanche soir, j'ai aidé maman à préparer le dîner. J'ai mis trois assiettes sur la table.",
-    203,
-    214,
-    3.6,
-    4
-   ],
-   [
-    "tremblait",
-    "pourquoi ? voix tremblait. S'il te plaît, dis-moi que Thomas n'est pas venue te voir. J'ai regardé",
-    544,
-    555,
-    2.8,
-    2
-   ],
-   [
-    "raccroché",
-    "choisis maman. Elle a commencé à pleurer. Je sais, je suis désolée. J'ai raccroché.",
-    632,
-    645,
-    2.97,
-    2
-   ],
-   [
-    "ressentais",
-    "Maintenant, elle était terminée, mais je ne ressentais pas le bonheur que j'avais imaginé.",
-    1645,
-    1656,
-    3.06,
-    2
-   ],
-   [
-    "enregistreur",
-    "J'ai allumé l'enregistreur. Pourquoi tu as choisi ton autre famille ? demandé. Thomas",
-    1562,
-    1573,
-    3.06,
-    2
-   ],
-   [
-    "maman",
-    "Chaque dimanche, papa préparait le petit-djeuner. Parfois, il brûlait le pain. Maman riait toujours.",
-    133,
-    143,
-    4.74,
-    26
-   ],
-   [
-    "papa",
-    "papa, tu as disparu pendant 18 ans. Puis il m'a dit quelque chose que je n'aurais jamais imaginé.",
-    44,
-    55,
-    4.57,
-    24
-   ],
    [
     "avais",
     "Je l'ai regardé. Tu avais promis de revenir dimanche. Il a baissé la tête. Je sais. 18 ans,",
@@ -45472,6 +46400,22 @@
     16
    ],
    [
+    "maman",
+    "Chaque dimanche, papa préparait le petit-djeuner. Parfois, il brûlait le pain. Maman riait toujours.",
+    133,
+    143,
+    4.74,
+    26
+   ],
+   [
+    "papa",
+    "papa, tu as disparu pendant 18 ans. Puis il m'a dit quelque chose que je n'aurais jamais imaginé.",
+    44,
+    55,
+    4.57,
+    24
+   ],
+   [
     "regardé",
     "Je l'ai regardé. Tu avais promis de revenir dimanche. Il a baissé la tête. Je sais. 18 ans,",
     31,
@@ -45480,18 +46424,114 @@
     15
    ],
    [
-    "pourquoi",
-    "la tête et dimanche prochain, il va expliquer à tout le monde pourquoi je vous ai quitté.",
-    65,
-    74,
-    5.66,
-    15
+    "signifie",
+    "que l'amour ne signifie rien si on ne le montre pas par ses actes. Mes yeux se sont remplis de",
+    1605,
+    1615,
+    4.73,
+    11
+   ],
+   [
+    "pardonner",
+    "pardonner, mais je sais que je n'ai pas le droit de te le demander. J'ai éteint l'enregistreur.",
+    1627,
+    1639,
+    3.94,
+    11
+   ],
+   [
+    "senti",
+    "6 ans, j'ai senti mon cœur se serrer. Pendant des années, j'avais pensé que papa était parti parce",
+    472,
+    484,
+    4.18,
+    4
+   ],
+   [
+    "imaginé",
+    "papa, tu as disparu pendant 18 ans. Puis il m'a dit quelque chose que je n'aurais jamais imaginé.",
+    44,
+    55,
+    4.02,
+    4
+   ],
+   [
+    "silencieux",
+    "connaissait l'existence de Lucas ? Ai-je murmuré. Thomas est resté silencieux. Papa,",
+    500,
+    512,
+    3.93,
+    4
+   ],
+   [
+    "rangé",
+    "ai-je demandé. Maman a regardé vers la porte. Encore un peu. À heure, elle a rangé le repas.",
+    224,
+    238,
+    3.55,
+    2
+   ],
+   [
+    "préparait",
+    "Chaque dimanche, papa préparait le petit-djeuner. Parfois, il brûlait le pain. Maman riait toujours.",
+    133,
+    143,
+    3.48,
+    2
+   ],
+   [
+    "tristement",
+    "mais tu m'as élevé toute seule. Elle a sourit tristement. et je le referai pour toi. Deux jours",
+    715,
+    727,
+    3.44,
+    2
+   ],
+   [
+    "sep",
+    "Apprenons sep mots et expressions utiles en français. Tiré de l'histoire d'Émilie.",
+    1767,
+    1777,
+    3.18,
+    2
+   ],
+   [
+    "répétez",
+    "père nous a abandonné. Maintenant, répétez. Mon père nous a abandonné.",
+    1820,
+    1831,
+    2.98,
+    9
+   ],
+   [
+    "murmuré",
+    "Mais j'ai laissé l'assiette de papa sur la table. Il va peut-être encore venir, ai-je murmuré.",
+    237,
+    247,
+    2.68,
+    6
+   ],
+   [
+    "raccroché",
+    "choisis maman. Elle a commencé à pleurer. Je sais, je suis désolée. J'ai raccroché.",
+    632,
+    645,
+    2.97,
+    2
+   ],
+   [
+    "tremblait",
+    "pourquoi ? voix tremblait. S'il te plaît, dis-moi que Thomas n'est pas venue te voir. J'ai regardé",
+    544,
+    555,
+    2.8,
+    2
    ]
   ],
-  "tx": "Welcome to French Tales. Make your learning journey fun and exciting with engaging stories. L'homme assis en face de moi avait abandonné ma mère et moi 18 ans plus tôt et maintenant il voulait que je l'interview. Émilie ! Murmura-t-il. S'il te plaît, écoute-moi. Je l'ai regardé. Tu avais promis de revenir dimanche. Il a baissé la tête. Je sais. 18 ans, papa, tu as disparu pendant 18 ans. Puis il m'a dit quelque chose que je n'aurais jamais imaginé. Éie, tu as un frère. Je l'ai regardé complètement surprise. Un frère, il a hoché la tête et dimanche prochain, il va expliquer à tout le monde pourquoi je vous ai quitté. Je ne savais plus quoi dire, mais ce n'était pas la pire chose que j'allais découvrir. Je m'appelle Émilie Bernard, j'ai 31 ans et j'habite à Toulouse en France. Je travaille comme journaliste à la radio. Chaque semaine, j'interview des personnes qui racontent leur vie. Mais il y avait une histoire que je ne voulais jamais raconter. La mienne. Quand j'avais 13 ans, je vivais avec mes parents dans un petit appartement. Ma mère Claire travaillait dans une boulangerie. Mon père Thomas réparait des voitures. Nous n'avions pas beaucoup d'argent mais je pensais que nous étions heureux. Chaque dimanche, papa préparait le petit-djeuner. Parfois, il brûlait le pain. Maman riait toujours. Tu sais réparer une voiture mais tu ne sais pas préparer le petit-déjeuner. Papa souriait. Alors, je vais réparer le grille pain. J'adorais ces moments, mais un vendredi soir, tout a changé. Mes parents se sont disputés dans la cuisine. J'ai entendu maman pleurer. Thomas, comment as-tu pu faire ça ? Papa n'a pas répondu. Puis il est entré dans ma chambre avec une valise. Où est-ce que tu vas ? Ai-je demandé. Je dois partir pendant quelques jours. Tu vas revenir ? Il m'a embrassé sur ",
+  "tx": "Welcome to French Tales. Make your learning journey fun and exciting with engaging stories. L'homme assis en face de moi avait abandonné ma mère et moi 18 ans plus tôt et maintenant il voulait que je l'interview. Émilie ! Murmura-t-il. S'il te plaît, écoute-moi. Je l'ai regardé. Tu avais promis de revenir dimanche. Il a baissé la tête. Je sais. 18 ans, papa, tu as disparu pendant 18 ans. Puis il m'a dit quelque chose que je n'aurais jamais imaginé. Éie, tu as un frère. Je l'ai regardé complètement surprise. Un frère, il a hoché la tête et dimanche prochain, il va expliquer à tout le monde … l'assiette de papa sur la table. Il va peut-être encore venir, ai-je murmuré. Maman m'a serré dans ses bras, mais il n'est jamais venu. Le dimanche suivant, je l'ai encore attendu. Puis un autre dimanche est passé. Finalement, j'ai arrêté de poser des questions. Maman a commencé à travailler davantage. Parfois, elle rentrait si fatiguée qu'elle s'endormait sur sa chaise. Je nettoyais notre appartement et je préparais des repas simples. À l'école, je regardais les autres enfants rire avec leur père. Je me demandais pourquoi le mien ne voulait pas de moi. Les années ont passé. J'ai … pensé que papa était parti parce qu'il ne nous aimait plus. Mais maintenant, je comprenais quelque chose de terrible. Il avait un autre enfant alors qu'il vivait encore avec maman et moi. Est-ce que maman connaissait l'existence de Lucas ? Ai-je murmuré. Thomas est resté silencieux. Papa, réponds-moi. Il m'a regardé. Émilie, il y a quelque chose que tu dois demander à ta mère. Je n'arrivais pas à le croire. Quel rapport avec maman ? Avant qu'il puisse répondre, mon téléphone a sonné. C'était maman. J'ai répondu : \"Émilie, tu es au travail ?\" \"Oui, pourquoi ? voix tremblait. S'il te … Bonjour Émilie, je suis Lucas. Est-ce qu'on peut parler ? J'ai regardé l'écran puis j'ai accepté. Nous nous sommes retrouvés dans un café près de la rivière. Lucas était grand avec des cheveux bruns et les mêmes yeux que mon père. \"Merci d'être venu\", a-t-il dit. Qu'est-ce que tu veux ? Je veux connaître ma sœur. Tu as eu 24 ans pour ça. J'ai découvert ton existence il y a seulement 6 mois. Je l'ai regardé. Papa ne t'avait jamais parlé de moi. Il m'a dit que tu savais que j'existais mais que tu ne voulais pas me rencontrer. J'ai senti la colère monter. Il ne m'a jamais laissé le choix. Lucas … est entré dans mon bureau. Émilie, il faut que tu vois ça. Il m'a montré une vidéo qui annonçait l'émission de radio de dimanche sur les parents absents. Soudain, j'ai entendu ma propre voix. J'avais tr ans. Je pensais qu'il allait rentrer à la maison. J'ai senti mes mains devenir froides. C'était ma conversation privée avec Lucas. Je l'ai immédiatement appelé. Lucas, tu m'as enregistré ? Il est resté silencieux. Réponds-moi. Oui. Pourquoi ? Je voulais que les gens comprennent ce que papa avait fait. C'était mon histoire. Tu ne m'as pas demandé la permission. Je pensais que ça allait … voulais. Tu ne le fais jamais. Pendant un long moment, il n'a rien dit. Puis j'ai posé la question que je me posais depuis 18 ans. Pourquoi tu nous as quitté ? Thomas a pris une grande inspiration. J'ai été égoïste, Émilie. J'avais une autre famille. J'avais peur de dire la vérité. Alors, je me suis enfuie. Est-ce que tu as déjà pensé à revenir très souvent ? Alors pourquoi tu ne l'as pas fait ? Parce que j'avais honte. Chaque année, revenir devenait plus difficile. Je l'ai regardé. Je t'attendais chaque dimanche. Il a commencé à pleurer. Je sais. Non, papa, tu ne sais pas. Tu n'étais pas … le laisser entrer. Tu veux du thé ? Il a sour avec plaisir. Nous ne sommes pas redevenus proches immédiatement. Mais nous avons recommencé à parler. Deux semaines plus tard, maman a invité Lucas à dîner le dimanche. Il l'a aidé à préparer le repas. Cette fois, il n'a pas brûlé le pain. J'ai ris, tu fais des progrès ? Apprends vite, a-t-il répondu. Maman nous a regardé en souriant. Pour la première fois, notre petite famille semblait plus grande. Mais il me restait encore une conversation à avoir. Un mois plus tard, j'ai contacté Thomas. Je veux t'interviewer ai etje dit. Il semblait surpris … Oui maman, je crois que oui. Je ne savais toujours pas si j'allais pardonner à mon père. Peut-être qu'un jour nous nous parlerions à nouveau, mais j'avais enfin compris quelque chose. Pendant 18 ans, j'avais attendu quelqu'un qui avait choisi de partir. Maintenant, je pouvais voir les personnes qui avaient choisi de rester et cela me suffisait. Maintenant, c'est l'heure du vocabulaire. Apprenons sep mots et expressions utiles en français. Tiré de l'histoire d'Émilie. Écoutez attentivement et essayez de répéter chaque mot ou chaque phrase en français à voix haute. Notre première expression … pouvoir compter sur toi. Maintenant, répétez. Je veux te faire confiance. Notre 5è expression est dire la vérité. Dire signifie dire ce qui est vrai sans mentir. Pendant de nombreuses années, Thomas cache la vérité sur son autre famille. Quand Émilie l'interview enfin, elle veut des réponses honnêtes pour comprendre pourquoi il est parti. Voici une phrase simple en français. Je veux connaître la vérité. Cela signifie que je veux savoir ce qui s'est vraiment passé. Maintenant, répétez. Je veux connaître la vérité. Notre 6e expression est pardonner à quelqu'un. Pardonner à quelqu'un … Et voilà, c'est la fin de l'histoire d'Émilie. Et vous, si votre père vous avait abandonné pendant 18 ans, lui donneriez-vous une deuxième chance ? Partagez votre avis dans les commentaires et si cette histoire vous a touché, découvrez maintenant l'histoire de Sophie, une femme qui apprend que son fiancé a un frère jumeau secret seulement tro semaines avant leur mariage. Mais quand la vérité sur sa famille commence à apparaître, elle se met à douter de tout ce qu'elle croyait savoir sur l'homme qu'elle aime. Cliquez sur la vidéo qui apparaît à l'écran pour découvrir son histoire. See you next",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8464
+  "src": "cc"
  },
  "Zao8E7jLJD4": {
   "channel": "Le Monde",
@@ -45696,7 +46736,7 @@
  "StyhHKzB1oA": {
   "channel": "FrancoTalks",
   "lang": "fr",
-  "checked": "2026-11-07T06:11:09+00:00",
+  "checked": "2026-11-09T17:11:39+00:00",
   "title": "Speak French Naturally This Autumn: 30 Minutes of Simple Conversations (A1-A2)",
   "duration": 1802,
   "published": "20261104",
@@ -45704,73 +46744,10 @@
   "spoken_v": 2,
   "pace": 84.9,
   "rare": 0.0292,
+  "var": 0.8229,
   "speech_s": 1790.9,
   "tokens": 2535,
   "kw": [
-   [
-    "marrons",
-    "Acheter des marrons chauds. Bonsoir, ça sent très bon ici.",
-    1496,
-    1505,
-    3.31,
-    5
-   ],
-   [
-    "cornet",
-    "Je peux acheter un petit cornet ?",
-    1515,
-    1520,
-    3.44,
-    5
-   ],
-   [
-    "châtaigne",
-    "La fête de la châtaigne Bonjour, monsieur.",
-    152,
-    157,
-    2.73,
-    3
-   ],
-   [
-    "tarte",
-    "Une tarte aux pommes et un gâteau au chocolat.",
-    53,
-    60,
-    3.9,
-    7
-   ],
-   [
-    "parapluie",
-    "Vous n'avez pas de parapluie ?",
-    614,
-    618,
-    3.52,
-    4
-   ],
-   [
-    "écharpe",
-    "Vous voulez voir une écharpe ?",
-    381,
-    385,
-    3.61,
-    4
-   ],
-   [
-    "pommes",
-    "Une tarte aux pommes et un gâteau au chocolat.",
-    53,
-    60,
-    4.21,
-    10
-   ],
-   [
-    "chauds",
-    "Acheter des marrons chauds. Bonsoir, ça sent très bon ici.",
-    1496,
-    1505,
-    3.88,
-    4
-   ],
    [
     "oui",
     "Oui, près de la fenêtre. Merci, il fait froid aujourd'hui.",
@@ -45804,42 +46781,114 @@
     17
    ],
    [
-    "peux",
-    "Je peux m'asseoir ici ? Bonjour, madame.",
-    5,
-    11,
-    5.61,
-    14
+    "automne",
+    "Choisir des vêtements pour l'automne. Bonjour, monsieur.",
+    299,
+    306,
+    4.49,
+    10
    ],
    [
-    "sûr",
-    "Bien sûr, il est pour les clients.",
-    110,
-    114,
-    5.27,
-    12
+    "pommes",
+    "Une tarte aux pommes et un gâteau au chocolat.",
+    53,
+    60,
+    4.21,
+    10
    ],
    [
-    "monsieur",
-    "Bonjour, monsieur. Je peux m'asseoir ici ?",
-    3,
-    9,
-    5.01,
-    12
+    "chaud",
+    "Vous avez du chocolat chaud ?",
+    37,
+    41,
+    4.79,
+    6
    ],
    [
-    "euros",
-    "Cela fait 7,50 euros. Je peux payer par carte ?",
-    133,
-    141,
-    5.06,
-    12
+    "revoir",
+    "Merci Monsieur, au revoir. Au revoir Madame, bonne journée.",
+    143,
+    153,
+    4.7,
+    6
+   ],
+   [
+    "tarte",
+    "Une tarte aux pommes et un gâteau au chocolat.",
+    53,
+    60,
+    3.9,
+    7
+   ],
+   [
+    "manteau",
+    "Je cherche un manteau pour octobre.",
+    305,
+    309,
+    4.12,
+    4
+   ],
+   [
+    "goûter",
+    "On peut goûter des spécialités ?",
+    190,
+    194,
+    4.1,
+    4
+   ],
+   [
+    "promenade",
+    "Avec plaisir, bonne promenade. Au revoir, madame.",
+    1628,
+    1636,
+    4.06,
+    4
+   ],
+   [
+    "cornet",
+    "Je peux acheter un petit cornet ?",
+    1515,
+    1520,
+    3.44,
+    5
+   ],
+   [
+    "marrons",
+    "Acheter des marrons chauds. Bonsoir, ça sent très bon ici.",
+    1496,
+    1505,
+    3.31,
+    5
+   ],
+   [
+    "parapluie",
+    "Vous n'avez pas de parapluie ?",
+    614,
+    618,
+    3.52,
+    4
+   ],
+   [
+    "pleuvoir",
+    "Oh, il commence à pleuvoir. Alors, ouvre ton parapluie.",
+    1178,
+    1187,
+    3.43,
+    2
+   ],
+   [
+    "châtaigne",
+    "La fête de la châtaigne Bonjour, monsieur.",
+    152,
+    157,
+    2.73,
+    3
    ]
   ],
-  "tx": "Une pause dans un salon de thé. Bonjour, monsieur. Je peux m'asseoir ici ? Bonjour, madame. Oui, près de la fenêtre. Merci, il fait froid aujourd'hui. Oui, et il pleut depuis ce matin. Votre salon de thé est très jolie. Merci. Vous voulez la carte ? Oui, s'il vous plaît. Nous avons des boissons chaudes. Vous avez du chocolat chaud ? Oui, avec du lait. Je vais en prendre un. Très bien. Et pour manger ? Qu'est-ce que vous avez comme gâteau ? Une tarte aux pommes et un gâteau au chocolat. La tarte aux pommes est faite ici ? Oui, ce matin. Alors, une part de tarte, s'il vous plaît. Avec un peu de crème. Non merci, seulement la tarte. D'accord. Vous êtes bien installé ? Oui, je peux voir la rue. Vous aimez regarder la pluie ? Oui, quand je suis au chaud. Moi aussi, je reviens avec votre commande. Merci. Vous avez un journal ? Oui, sur l'étagère à gauche. Je peux le lire ? Bien sûr, il est pour les clients. Ah, voilà mon chocolat. Et voici votre tarte aux pommes. Ça sent bon, merci beaucoup. Je vous en prie, bonne dégustation. Je voudrais payer, s'il vous plaît. Cela fait 7,50 euros. Je peux payer par carte ? Oui, au comptoir. Merci Monsieur, au revoir. Au revoir Madame, bonne journée. La fête de la châtaigne Bonjour, monsieur. C'est ici la fête de la Châtaigne ? Bonjour, madame. Bienvenue à la fête. Je vois beaucoup de stands. Aujourd'hui, nous fêtons la Châtaigne. Pourquoi ce fruit est important ici ? En Ardèche, il y a beaucoup de Châtaigniers. Ce sont les grands arbres là-bas ? Oui. Et leurs feuilles sont jaunes. On peut goûter des spécialités ? Bien sûr. Nous avons de la crème de marron. C'est très sucré ? Oui, mais c'est délicieux sur du pain. Je peux en goûter un peu ? Oui, bien sûr. Goûter. J'aime beaucoup. Vous voulez acheter un petit pot ? Oui, pour ma soeur. Elle a",
+  "tx": "Une pause dans un salon de thé. Bonjour, monsieur. Je peux m'asseoir ici ? Bonjour, madame. Oui, près de la fenêtre. Merci, il fait froid aujourd'hui. Oui, et il pleut depuis ce matin. Votre salon de thé est très jolie. Merci. Vous voulez la carte ? Oui, s'il vous plaît. Nous avons des boissons chaudes. Vous avez du chocolat chaud ? Oui, avec du lait. Je vais en prendre un. Très bien. Et pour manger ? Qu'est-ce que vous avez comme gâteau ? Une tarte aux pommes et un gâteau au chocolat. La tarte aux pommes est faite ici ? Oui, ce matin. Alors, une part de tarte, s'il vous plaît. Avec un peu de … là-bas ? Oui. Et leurs feuilles sont jaunes. On peut goûter des spécialités ? Bien sûr. Nous avons de la crème de marron. C'est très sucré ? Oui, mais c'est délicieux sur du pain. Je peux en goûter un peu ? Oui, bien sûr. Goûter. J'aime beaucoup. Vous voulez acheter un petit pot ? Oui, pour ma soeur. Elle aime les produits de la région ? Oui, surtout les confitures. Alors, ce pot est parfait. Il y a aussi du jus de pommes ? Oui, à ce stand, à droite. Et de la musique ? Oui, un groupe joue sur la place. La fête dure toute la journée. Jusqu'à 18 heures. Je peux revenir avec mes parents ? … lourd. Il a aussi une capuche. C'est utile quand il pleut. Vous voulez voir une écharpe ? Oui, une écharpe en laine. J'en ai une de couleur crème. Elle est douce ? Oui, touchez-la. Très bien, quelle est son prix ? 18 euros. Et le manteau ? Combien coûte-t-il ? 60 euros aujourd'hui. Il y a une réduction ? Oui, le prix est déjà réduit. Je prends les deux. Vous avez besoin d'un sac ? Non merci, j'ai un grand cabat. Vous réglez par carte ? Oui, sans contact. Voici le terminal. Merci beaucoup, monsieur. Merci à vous. Bonne journée. Les Vendanges. Bonjour, je m'appelle Lucas. Je viens pour les … sont très belles en septembre. Oui, les feuilles commencent à changer de couleur. Mon panier est plein. Je fais quoi ? Pose-le près de cette caisse. Je travaille bien ? Oui, tu travailles très bien. Merci, Anaïs. Je continue, alors. Très bien, Lucas. Sous la pluie. Excusez-moi, je peux attendre ici ? Oui, bien sûr, il pleut beaucoup. Je suis complètement mouillé. Vous n'avez pas de parapluie ? Non, je l'ai laissé chez moi. Moi, j'ai un grand parapluie. Vous attendez le tram ? Oui, la ligne Ouno pour le centre. Moi aussi, je vais à la librairie. Moi, je vais chez le médecin. Le tram arrive … cherche des fleurs pour la Toussaint. Bonjour, monsieur. Nous avons des chrysanthèmes. Vous parlez de ces fleurs jaunes ? Oui, et nous en avons des blanches. Je préfère les blanches. Vous voulez une plante ou un bouquet ? Une plante pour le cimetière. C'est pour une tombe ? Oui, celle de mon grand-père. Je comprends. Cette plante est jolie. Elle peut rester dehors ? Oui, elle aime les températures fraîches. Elle a besoin de beaucoup d'eau ? Non, juste un peu. Je vais au cimetière avec ma mère. Vous y allez le 1er novembre ? Oui, le matin. Il y a souvent beaucoup de monde ce jour-là. C'est … coûte celui-ci ? Trois euros. J'en prends un. Vous avez des poireaux ? Oui, juste ici. Je vais en prendre deux. Vous voulez aussi des carottes ? Oui, quatre s'il vous plaît. Les voilà. Et pour les fruits ? Quelles poires sont bien mûres ? Les poires de cette caisse. Je peux en prendre trois ? Bien sûr, elles sont très bonnes. Et ces pommes rouges ? Elles viennent d'un verger de la région. Elles sont sucrées ? Oui, parfaites pour une tarte. Je vais faire une tarte au pommes dimanche. Bonne idée. Vous voulez un kilo ? Seulement quatre pommes, merci. D'accord. Autre chose ? Oui, un petit … jaunes et rouges. J’aime ces couleurs. Moi aussi, mais je préfère le soleil. Tu fais quoi cet après-midi ? Je reste chez moi et je lis. Avec un thé chaud ? Exactement, un thé au citron. Moi, je prépare une soupe. Une soupe de légumes ? Oui, avec des carottes et des pommes de terre. Ça sent déjà l'automne. Oh, il commence à pleuvoir. Alors, ouvre ton parapluie. Merci, Lucie. À demain. À demain, Hugo. Un week-end automne. Salut Thomas, tu fais quoi samedi ? Rien de spécial nadeige. Pourquoi ? J'aimerais visiter une ville historique. Je connais une jolie ville près de la Seine. On peut y aller … mon appareil photo. Et moi, un petit sac avec de l'eau ? Super ! Une sortie dans la forêt ? Salut, Léa, tu es libre dimanche ? Oui, Simon, tu as une idée ? On peut aller dans une forêt près d'ici. C'est loin d'ici. Pas trop. On peut prendre le train. Et après, on marche. Oui, sur un chemin facile. Super, j'aime les arbres en automne. Il y a de grands rochers là-bas. On peut les voir sans grimper ? Oui, ils sont près du chemin. Parfait, je n'aime pas les endroits dangereux. Tu as de bonnes chaussures ? Oui, des chaussures de marche. Moi, je vais prendre mon imperméable. Tu penses … un petit cornet ? Bien sûr, 5 euros le cornet. Il y a combien de marrons ? Environ 10 selon la taille. Ils sont très chauds ? Oui, attention aux doigts. J'ai froid aux mains. Le cornet va les réchauffer. Merci. Comment on mange les marrons ? On enlève la peau. Je peux essayer tout de suite ? Attendez un peu s'il vous plaît. D'accord. Vous êtes ici tous les soirs ? Seulement du jeudi au dimanche. Et vous restez jusqu'à quelle heure ? Jusqu'à 19 heures. Je me promène près de la Seine. C'est agréable en automne. Oui, les arbres sont magnifiques. Surtout près du jardin des tuileries. Je vais … Tu veux marcher jusqu'au jardin ? Oui, mais pas trop vite. Tu es fatigué ? Non, je regarde les couleurs. On a de la chance, il fait soleil. Et il ne fait pas trop froid. Tu as apporté quelque chose à manger ? Oui, deux petites pommes. Je prends celle qui est rouge. Et moi, je prends la verte. On s'assoit sur ce banc ? Oui, il est libre. Écoute, les oiseaux chantent. J'aime ce calme. Après, on va boire un chocolat chaud ? Oui, dans un café près du parc. Il est déjà 16 heures. Alors, on termine notre promenade. Merci pour cette belle promenade. Merci à toi. Allons boire notre chocolat chaud.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7907
+  "src": "cc"
  },
  "WHVUGGCnqMg": {
   "channel": "FrancoTalks",

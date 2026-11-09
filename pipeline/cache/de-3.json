@@ -1959,7 +1959,7 @@
  "FxlDep6oQhI": {
   "channel": "Sloeful German",
   "lang": "de",
-  "checked": "2026-11-02T15:15:05+00:00",
+  "checked": "2026-11-09T16:28:44+00:00",
   "title": "Schinderhannes - A German Robber | Intermediate German Text (B1 / B2)",
   "duration": 197,
   "published": "20240302",
@@ -1967,9 +1967,66 @@
   "spoken_v": 2,
   "pace": 111.5,
   "rare": 0.1274,
+  "var": 0.8709,
   "speech_s": 198.6,
   "tokens": 369,
   "kw": [
+   [
+    "wissen",
+    "schinderhnes wirklich und was wissen wir",
+    20,
+    27,
+    5.55,
+    3
+   ],
+   [
+    "weiss",
+    "",
+    0,
+    0,
+    5.75,
+    2
+   ],
+   [
+    "sehen",
+    "kalblütigen Kriminellen andere sehen in ihm einen deutschen Robin Hood wer war",
+    13,
+    24,
+    5.69,
+    2
+   ],
+   [
+    "tod",
+    "nicht mehr so gut das Urteil lautete Tod",
+    143,
+    151,
+    5.16,
+    2
+   ],
+   [
+    "johannes",
+    "Schinderhannes eigentlich Johannes Bückler hieß das war sein richtiger Name",
+    26,
+    36,
+    4.63,
+    2
+   ],
+   [
+    "half",
+    "haben er stritt dies ab doch es half",
+    76,
+    83,
+    4.16,
+    2
+   ],
+   [
+    "spektakel",
+    "Spektakel mit ihm wurden noch 20 seiner",
+    152,
+    159,
+    3.54,
+    2
+   ],
    [
     "schinderhannes",
     "das Leben des Schinderhannes ist eine",
@@ -1987,14 +2044,6 @@
     4
    ],
    [
-    "raubzügen",
-    "Diebstählen blutigen Raubzügen und ausgelassenen festen am Anfang des 19",
-    4,
-    14,
-    2.22,
-    2
-   ],
-   [
     "kumpanen",
     "Bande von weiteren Kumpanen machten sie",
     110,
@@ -2003,95 +2052,23 @@
     2
    ],
    [
-    "spektakel",
-    "Spektakel mit ihm wurden noch 20 seiner",
-    152,
-    159,
-    3.54,
-    2
-   ],
-   [
-    "half",
-    "haben er stritt dies ab doch es half",
-    76,
-    83,
-    4.16,
-    2
-   ],
-   [
-    "wissen",
-    "schinderhnes wirklich und was wissen wir",
-    20,
-    27,
-    5.55,
-    3
-   ],
-   [
-    "z.b",
-    "er dann z.B Leder Tierfutter oder Seife",
-    60,
-    68,
-    5.03,
-    2
-   ],
-   [
-    "weiss",
-    "",
-    0,
-    0,
-    5.75,
-    2
-   ],
-   [
-    "tod",
-    "nicht mehr so gut das Urteil lautete Tod",
-    143,
-    151,
-    5.16,
-    2
-   ],
-   [
-    "sehen",
-    "kalblütigen Kriminellen andere sehen in ihm einen deutschen Robin Hood wer war",
-    13,
-    24,
-    5.69,
-    2
-   ],
-   [
-    "name",
-    "Bückler hieß das war sein richtiger Name",
-    28,
-    36,
-    5.14,
-    2
-   ],
-   [
-    "johannes",
-    "Schinderhannes eigentlich Johannes Bückler hieß das war sein richtiger Name",
-    26,
-    36,
-    4.63,
-    2
-   ],
-   [
-    "begann",
-    "Prügelstrafe von 25 hiben und so begann",
-    82,
-    89,
-    4.8,
+    "raubzügen",
+    "Diebstählen blutigen Raubzügen und ausgelassenen festen am Anfang des 19",
+    4,
+    14,
+    2.22,
     2
    ]
   ],
-  "tx": "das Leben des Schinderhannes ist eine Geschichte von hinterlistigen Diebstählen blutigen Raubzügen und ausgelassenen festen am Anfang des 19 Jahrhunderts manche halten ihn für einen kalblütigen Kriminellen andere sehen in ihm einen deutschen Robin Hood wer war schinderhnes wirklich und was wissen wir über sein Leben wir wissen dass der Schinderhannes eigentlich Johannes Bückler hieß das war sein richtiger Name wir wissen außerdem dass er eine Lehre als Schinder machte daher der Name Schinderhannes was aber ist ein Schinder oder besser was war ein Schinder denn diesem Beruf gibt es heute nicht mehr ein Schinder hat damals toten Tieren das Fell abgezogen und die Fälle Organe und Knochen weiterverarbeitet aus diesen Resten hat er dann z.B Leder Tierfutter oder Seife gemacht zurück zu unserem Protagonisten im jungen Alter von 15 Jahren wurde ihm vorgeworfen seinem Meister mehrere tierfälle gestohlen zu haben er stritt dies ab doch es half nichts er erhielt eine öffentliche Prügelstrafe von 25 hiben und so begann die kriminelle Karriere des Schinderhannes von nun an begann er nachts vie zu stehlen wie z.B Schafe Schweine oder Pferde und diese tagsüber an Metzger und Pferdehändler zu verkaufen eine Weile später lernte er auch Juliane Blasius kennen sie wurde seine räuberbraut und mit ihr und einer Bande von weiteren Kumpanen machten sie die Wälder unsicher sie begleitete den Schinderhannes ganze drei Jahre lang und half ihm bei seinen Raubzügen in dieser Zeit soll sie bei den Überfällen auch oft Männerkleidung getragen haben der schindhannes wurde bald sehr bekannt in seiner Gegend und überall gesucht dieses verstecksspiel ging lange gut doch irgendwann erkannte ihn jemand und verriet ihn an die Polizei jetzt lief es nicht mehr so gut das Urteil lautete Tod durch Fallbeil die",
+  "tx": "das Leben des Schinderhannes ist eine Geschichte von hinterlistigen Diebstählen blutigen Raubzügen und ausgelassenen festen am Anfang des 19 Jahrhunderts manche halten ihn für einen kalblütigen Kriminellen andere sehen in ihm einen deutschen Robin Hood wer war schinderhnes wirklich und was wissen wir über sein Leben wir wissen dass der Schinderhannes eigentlich Johannes Bückler hieß das war sein richtiger Name wir wissen außerdem dass er eine Lehre als Schinder machte daher der Name Schinderhannes was aber ist ein Schinder oder besser was war ein Schinder denn diesem Beruf gibt es heute nicht mehr ein Schinder hat damals toten Tieren das Fell abgezogen und die Fälle Organe und Knochen weiterverarbeitet aus diesen Resten hat er dann z.B Leder Tierfutter oder Seife gemacht zurück zu unserem Protagonisten im jungen Alter von 15 Jahren wurde ihm vorgeworfen seinem Meister mehrere tierfälle gestohlen zu haben er stritt dies ab doch es half nichts er erhielt eine öffentliche Prügelstrafe von 25 hiben und so begann die kriminelle Karriere des Schinderhannes von nun an begann er nachts vie zu stehlen wie z.B Schafe Schweine oder Pferde und diese tagsüber an Metzger und Pferdehändler zu verkaufen eine Weile später lernte er auch Juliane Blasius kennen sie wurde seine räuberbraut und mit ihr und einer Bande von weiteren Kumpanen machten sie die Wälder unsicher sie begleitete den Schinderhannes ganze drei Jahre lang und half ihm bei seinen Raubzügen in dieser Zeit soll sie bei den Überfällen auch oft Männerkleidung getragen haben der schindhannes wurde bald sehr bekannt in seiner Gegend und überall gesucht dieses verstecksspiel ging lange gut doch irgendwann erkannte ihn jemand und verriet ihn an die Polizei jetzt lief es nicht mehr so gut das Urteil lautete Tod durch Fallbeil die Richtung des Schinderhannes war ein riesiges Spektakel mit ihm wurden noch 20 seiner Kumpanen hingerichtet die hatte er verraten am 21 November wimmelte es nur so von Menschen die sich das Spektakel auf dem Jahrmarkt ansehen wollten 30 000 Schaulustige sollen es insgesamt gewesen sein ob diese Zahl stimmt weiß man nicht so genau was man aber sehr wohl weiß ist dass sie tranken tanzten und spielten dann stieg Schinderhannes als erster auf das Schaffot um dem Tod ins Auge zu sehen und so endete das rasante Räuberleben des Johannes Bückler",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8609
+  "src": "auto"
  },
  "v9C44PCDNkw": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-02T15:17:56+00:00",
+  "checked": "2026-11-09T16:30:51+00:00",
   "title": "A1 German Story: 'The tennis match' / super easy German│Total Beginner German",
   "duration": 426,
   "published": "20230604",
@@ -2099,33 +2076,10 @@
   "spoken_v": 2,
   "pace": 68.4,
   "rare": 0.0231,
+  "var": 0.7747,
   "speech_s": 417.7,
   "tokens": 476,
   "kw": [
-   [
-    "lisas",
-    "Tom sitzen in Lisas Wohnung in Lisas",
-    54,
-    66,
-    2.68,
-    2
-   ],
-   [
-    "lisa",
-    "dieser Geschichte geht es um Lisa und",
-    13,
-    23,
-    4.34,
-    20
-   ],
-   [
-    "tom",
-    "Tom und die Geschichte heißt das",
-    19,
-    26,
-    4.52,
-    17
-   ],
    [
     "gehen",
     "gehen es gibt dort im Museum eine",
@@ -2133,14 +2087,6 @@
     97,
     5.65,
     8
-   ],
-   [
-    "museum",
-    "gehen es gibt dort im Museum eine",
-    85,
-    97,
-    4.71,
-    7
    ],
    [
     "geschichte",
@@ -2167,18 +2113,50 @@
     4
    ],
    [
-    "findet",
+    "lisa",
+    "dieser Geschichte geht es um Lisa und",
+    13,
+    23,
+    4.34,
+    20
+   ],
+   [
+    "tom",
+    "Tom und die Geschichte heißt das",
+    19,
+    26,
+    4.52,
+    17
+   ],
+   [
+    "museum",
+    "gehen es gibt dort im Museum eine",
+    85,
+    97,
+    4.71,
+    7
+   ],
+   [
+    "ausstellung",
     "interessante Ausstellung Lisa findet das sehr",
     91,
     107,
-    5.38,
+    4.69,
     4
+   ],
+   [
+    "lisas",
+    "Tom sitzen in Lisas Wohnung in Lisas",
+    54,
+    66,
+    2.68,
+    2
    ]
   ],
-  "tx": "hallo ich bin Anna und heute erzähle ich euch eine Geschichte in dieser Geschichte geht es um Lisa und Tom und die Geschichte heißt das Tennisspiel das ist der Name von der Geschichte also fangen wir an heute ist ein sehr schöner Samstag heute ist ein sehr schöner Samstag die Sonne scheint und die Vögel singen Lisa und Tom sitzen in Lisas Wohnung in Lisas Wohnung auf dem Sofa tom ist ein guter Freund von Lisa er wohnt in Berlin er wohnt in Berlin aber besucht Lisa heute in Leipzig Tom will am Nachmittag ins gehen es gibt dort im Museum eine interessante Ausstellung Lisa findet das sehr langweilig sie will lieber zum zum See gehen dort kann man schwimmen und in der Sonne liegen lisa sagt wir machen immer nur das was du willst das stimmt nicht antwortet Tom und so so streiten die beiden schon eine halbe Stunde eine halbe Stunde doch dann hat Lisa eine Idee wir spielen Tennis und der Gewinner das Wählen der Gewinner darf wählen was wir machen ins Museum gehen oder an den See fahren Tom findet die Idee super die beiden ziehen ihre Sportsachen an und Tom holt die Tennisschläger aus dem Keller aus dem Keller dann gehen sie zum Tennisplatz das Spiel beginnt am Anfang spielt Lisa nicht so gut und Tom macht viele Punkte aber dann holt Lisa auf jetzt haben Tom und Lisa gleich viele Punkte es ist wirklich ein spannendes Spiel aber am Ende spielt Tom wieder besser als Lisa und Tom gewinnt ach Mist sagt Lisa ich will nicht ins Museum gehen Tom lacht hahaha Tom sagt du Lisa wirst es bestimmt auch toll finden Lisa zieht ihre Jacke an und Tom packt zwei Brötchen und eine Flasche Wasser ein dann gehen beide los das Museum ist im Stadtzentrum im Zentrum von der Stadt Lisa und Tom fahren mit der Straßenbahn hin im Museum gibt es am Wochenende eine Ausstellung über Technologien auch Lisa f",
+  "tx": "hallo ich bin Anna und heute erzähle ich euch eine Geschichte in dieser Geschichte geht es um Lisa und Tom und die Geschichte heißt das Tennisspiel das ist der Name von der Geschichte also fangen wir an heute ist ein sehr schöner Samstag heute ist ein sehr schöner Samstag die Sonne scheint und die Vögel singen Lisa und Tom sitzen in Lisas Wohnung in Lisas Wohnung auf dem Sofa tom ist ein guter Freund von Lisa er wohnt in Berlin er wohnt in Berlin aber besucht Lisa heute in Leipzig Tom will am Nachmittag ins gehen es gibt dort im Museum eine interessante Ausstellung Lisa findet das sehr langweilig sie will lieber zum zum See gehen dort kann man schwimmen und in der Sonne liegen lisa sagt wir machen immer nur das was du willst das stimmt nicht antwortet Tom und so so streiten die beiden schon eine halbe Stunde eine halbe Stunde doch dann hat Lisa eine Idee wir spielen Tennis und der Gewinner das Wählen der Gewinner darf wählen was wir machen ins Museum gehen oder an den See fahren Tom findet die Idee super die beiden ziehen ihre Sportsachen an und Tom holt die Tennisschläger aus dem Keller aus dem Keller dann gehen sie zum Tennisplatz das Spiel beginnt am Anfang spielt Lisa nicht so gut und Tom macht viele Punkte aber dann holt Lisa auf jetzt haben Tom und Lisa gleich viele Punkte es ist wirklich ein spannendes Spiel aber am Ende spielt Tom wieder besser als Lisa und Tom gewinnt ach Mist sagt Lisa ich will nicht ins Museum gehen Tom lacht hahaha Tom sagt du Lisa wirst es bestimmt auch toll finden Lisa zieht ihre Jacke an und Tom packt zwei Brötchen und eine Flasche Wasser ein dann gehen beide los das Museum ist im Stadtzentrum im Zentrum von der Stadt Lisa und Tom fahren mit der Straßenbahn hin im Museum gibt es am Wochenende eine Ausstellung über Technologien auch Lisa findet die Ausstellung sehr spannend sie lernt viel Neues über Handys und Computer lisa sagt ich habe immer gedacht Museen sind total langweilig aber das stimmt gar nicht und Tom freut sich sehr dass ihr die Ausstellung auch gefällt man kann hier sehr viel lernen sagt er Lisa und Tom sind drei Stunden drei Stunden im Museum dann bekommt Lisa Hunger die beiden gehen in ein Restaurant und kaufen eine Pizza schmeckt die gut es war ein sehr schöner Tag Lisa will ab sofort jede Woche jeder Woche ins Museum gehen Ende das ist das Ende der Geschichte diese Geschichte hat Dominik von der lernlaterne geschrieben bei der lernlaterne gibt es noch mehr Geschichten und Dialoge für unterschiedliche Niveaus unten in der Infobox findet ihr den Link zur lernlaterne ich hoffe dieses Video hat euch gefallen und dass wir uns bei der nächsten Geschichte Wiedersehen also bis dann tschüss",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.75
+  "src": "auto"
  },
  "oeWqRNO02k4": {
   "channel": "Comprehensible German",
@@ -2331,7 +2309,7 @@
  "pts3AoJfE3c": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-02T15:19:02+00:00",
+  "checked": "2026-11-09T17:05:54+00:00",
   "title": "Full German Lesson A1 / A2",
   "duration": 1612,
   "published": "20250320",
@@ -2339,73 +2317,10 @@
   "spoken_v": 2,
   "pace": 97.2,
   "rare": 0.0224,
+  "var": 0.5269,
   "speech_s": 1570.5,
   "tokens": 2543,
   "kw": [
-   [
-    "eimer",
-    "Eimer also genau ein Glas eine Flasche zum trinken und ein",
-    756,
-    769,
-    3.85,
-    33
-   ],
-   [
-    "rucksack",
-    "Rucksack okay der Rucksack und wahrscheinlich war er gerade in der",
-    91,
-    101,
-    4.03,
-    34
-   ],
-   [
-    "pfeife",
-    "schlimm die Pfeife ach so Pfeife es gibt",
-    1331,
-    1341,
-    3.6,
-    19
-   ],
-   [
-    "rauch",
-    "ist wenn nicht ist okay der Rauch der",
-    63,
-    72,
-    4.17,
-    36
-   ],
-   [
-    "rennt",
-    "der Junge oder rennt der Junge rennt der",
-    575,
-    585,
-    3.87,
-    13
-   ],
-   [
-    "brennt",
-    "sagt Hilfe ja mein Haus brennt er sagt",
-    206,
-    217,
-    4.21,
-    24
-   ],
-   [
-    "schüttet",
-    "schüttet das Wasser",
-    878,
-    888,
-    3.18,
-    6
-   ],
-   [
-    "geraucht",
-    "RA er hat geraucht Rauchen ja er hat",
-    1370,
-    1377,
-    3.72,
-    8
-   ],
    [
     "okay",
     "ist der Junge der Junge okay also der",
@@ -2439,47 +2354,143 @@
     50
    ],
    [
-    "haus",
+    "brennt",
+    "sagt Hilfe ja mein Haus brennt er sagt",
+    206,
+    217,
+    4.21,
+    24
+   ],
+   [
+    "ruft",
+    "und der Rucksack ruft hilfe mein Haus",
+    263,
+    271,
+    4.56,
+    17
+   ],
+   [
+    "rücken",
+    "auf dem Rücken hat etwas auf dem",
+    80,
+    89,
+    4.79,
+    11
+   ],
+   [
+    "leer",
+    "leer ja also der Eimer war voll und",
+    1212,
+    1219,
+    4.6,
+    9
+   ],
+   [
+    "rauch",
+    "ist wenn nicht ist okay der Rauch der",
+    63,
+    72,
+    4.17,
+    36
+   ],
+   [
+    "rucksack",
+    "Rucksack okay der Rucksack und wahrscheinlich war er gerade in der",
+    91,
+    101,
+    4.03,
+    34
+   ],
+   [
+    "eimer",
+    "Eimer also genau ein Glas eine Flasche zum trinken und ein",
+    756,
+    769,
+    3.85,
+    33
+   ],
+   [
+    "pfeife",
+    "schlimm die Pfeife ach so Pfeife es gibt",
+    1331,
+    1341,
+    3.6,
+    19
+   ],
+   [
+    "zeigefinger",
+    "Hand hebt er seinen Zeigefinger ja das",
+    1471,
+    1477,
+    3.52,
+    6
+   ],
+   [
+    "schüttet",
+    "schüttet das Wasser",
+    878,
+    888,
+    3.18,
+    6
+   ],
+   [
+    "gebrannt",
+    "hat das Haus gebrannt nein nein hat der Rucksack gebrannt nein",
+    1376,
+    1389,
+    3.57,
+    5
+   ],
+   [
+    "erschreckt",
+    "kommt und er er erschreckt sich er erschreckt sich ja und er",
+    198,
+    214,
+    3.56,
+    3
+   ],
+   [
+    "schulranzen",
+    "Schulranzen Rucksäcke für die Schule also",
+    103,
+    110,
+    2.85,
+    4
+   ],
+   [
+    "brenne",
+    "brenne ruft das Haus Hilfe ich brenne",
+    285,
+    292,
+    2.96,
+    2
+   ],
+   [
+    "wegrennen",
+    "wegrennen ja wegrennen ja to Runa der",
+    608,
+    617,
+    2.88,
+    2
+   ],
+   [
+    "heel",
     "etwas das Haus das Haus okay heel weißt",
     56,
     64,
-    5.41,
-    45
-   ],
-   [
-    "wasser",
-    "hat Flasche mit Wasser ja fast okay",
-    737,
-    746,
-    5.32,
-    26
-   ],
-   [
-    "vater",
-    "Vater oh je ja das konntest du nicht wissen das",
-    1147,
-    1157,
-    5.21,
-    23
-   ],
-   [
-    "genau",
-    "Rauch okay super genau das ist der Rauch",
-    67,
-    74,
-    5.65,
-    20
+    2.86,
+    2
    ]
   ],
-  "tx": "das hier ist ein Bild und das hier dieses Bild hat eine Nummer die Nummer 1 das erste Bild gibt es auf diesem Bild schon etwas was ihr kennt kennt ihr schon ein Wort was auf diesem Bild ist der Junge der Junge okay also der Junge der Junge okay kennt ihr noch ein Wort und das Fenster das Fenster okay super das hier das hier ist das Fenster noch etwas das Haus das Haus okay heel weißt du noch was das hier ist wenn nicht ist okay der Rauch der Rauch okay super genau das ist der Rauch im deutschen wir sagen auch z.B wenn man raucht ist das Rauchen ja rauchen und das ist der Rauch der Junge hat etwas auf dem Rücken hat etwas auf dem Rücken wisst ihr was das ist er hat so etwas auf dem Rücken genau der Rucksack okay der Rucksack und wahrscheinlich war er gerade in der Schule ja und in der Schule die Rucksäcke für die Schule heißen Schulranzen Rucksäcke für die Schule also der Schulranzen ja ein Ranzen also wir haben den Rucksack der Junge kommt wahrscheinlich gerade von der Schule er war in der Schule er ist morgens zur Schule gegangen und ist jetzt auf dem Weg nach Hause der Junge geht nach Hause und der Junge sieht sein Haus und er sieht das Fenster und ist das Fenster offen oder geschlossen offen genau das Fenster ist offen genau offen und das Gegenteil ist geschlossen und was ist mit dem Fenster da kommt etwas raus was kommt aus dem Fenster der Rauch kommt aus dem Fenster genau der Rauch kommt aus dem Fenster genau der Rauch kommt aus dem Fenster super also der Rauch kommt aus dem also das Fenster der Rauch kommt aus dem Fenster okay der Junge sieht sein Haus ja das ist das Haus in dem der Junge wohnt der Junge sieht sein Haus und er sieht den Rauch der aus dem Fenster kommt und er er erschreckt sich er erschreckt sich ja und er sagt Hilfe ja mein Haus brennt er sagt Hil",
+  "tx": "das hier ist ein Bild und das hier dieses Bild hat eine Nummer die Nummer 1 das erste Bild gibt es auf diesem Bild schon etwas was ihr kennt kennt ihr schon ein Wort was auf diesem Bild ist der Junge der Junge okay also der Junge der Junge okay kennt ihr noch ein Wort und das Fenster das Fenster okay super das hier das hier ist das Fenster noch etwas das Haus das Haus okay heel weißt du noch was das hier ist wenn nicht ist okay der Rauch der Rauch okay super genau das ist der Rauch im deutschen wir sagen auch z.B wenn man raucht ist das Rauchen ja rauchen und das ist der Rauch der Junge hat … kommt aus dem Fenster genau der Rauch kommt aus dem Fenster super also der Rauch kommt aus dem also das Fenster der Rauch kommt aus dem Fenster okay der Junge sieht sein Haus ja das ist das Haus in dem der Junge wohnt der Junge sieht sein Haus und er sieht den Rauch der aus dem Fenster kommt und er er erschreckt sich er erschreckt sich ja und er sagt Hilfe ja mein Haus brennt er sagt Hilfe okay kommt der Rauch kommt der Rauch aus dem Fenster ja Ja oder Nein okay ja der Rauch kommt aus dem Fenster kommt der Rauch aus dem Rucksack nein nein nein okay der Rauch kommt nicht aus dem Rucksack … rufst Hilfe der Junge ruft hilfe Also er sagt oh Gott mein Haus brennt und er er bleibt stehen ja erst kommt er von der Schule nach Hause er läuft und plötzlich bleibt er stehen ja es oh Gott was passiert hier hilfe mein Haus brennt und was brennt was brennt der Rucksack oder das Haus das Haus das Haus das Haus brennt okay also auf dem ersten Bild haben wir gesehen dass der Junge vor seinem Haus steht und Rauch kommt aus dem offenen Fenster und er erschreckt sich ja und ruft mein Haus brennt okay super das Bild hier das Bild hier hat auch eine Nummer das erste Bild hat eine Nummer das erste … jetzt das Fenster zu nein kommt immer noch Rauch aus dem Fenster ja mhm okay es kommt immer noch Rauch aus dem Fenster ja immer noch okay also das hat sich auch nicht geändert der Rauch ist nicht weg nein trägt der Junge immer noch einen Rucksack ja der junge Junge trägt immer UPS immer noch einen Rucksack immer noch im ersten Bild haben wir gesehen der Junge steht er steht vor dem Haus steht der Junge vor dem Haus nein nein okay also wir haben immer noch und das Gegenteil Gegenteil ist opposite ja ist nicht mehr der Junge steht nicht mehr vor dem Haus ja er steht nicht mehr vor dem Haus … seinem Rucksack okay der Junge rennt so schnell er kann ja so schnell er kann rennt der Junge weg und was ruft er ruft er hallo hallo ruft er guten Tag was ruft er hilfe hilfe okay Hilfe okay und er sagt auch noch mal mein Haus brennt ja vielleicht kommt jemand und kann ihm helfen das dritte Bild dort ist immer noch Rauch ja ja genau es gibt immer noch Rauch ist dort immer noch ein Haus ja immer noch ein Fenster ja super also das ist alles noch da aber es gibt etwas Neues was ist neu kennt ihr das hier der Junge hat Flasche mit Wasser ja fast okay Flasche ist das die Flasche das Glas und das … geholt und jetzt hat er einen schweren eimerwasser was macht er mit dem Eimer er das Wasser durchs Fenster der Junge schüttet das Wasser durch das Fenster durch ist through ja also hier ist das Fenster und das Wasser geht einmal durch Schütte der junge Wasser in den Rucksack nein nein ja schütten ist das hier schütten nein der Junge schüttet kein Wasser in den Rucksack schüttet der Junge das Wasser auf seinen Kopf nein nein okay wohin schüttet er das Wasser jung das Wasser durch das Fenster perfekt okay der Junge schwerer Satz der Junge schüttet das Wasser durch das Fenster okay der Junge … aber er ist stark ja und der Eimer ist leicht nein nein wie ist der Eimer schwer schwer und der Rucksack ist auch schwer ja der Junge kommt aus der Schule hat viele viele Bücher schwer okay also der Junge trägt seinen Schulranzen und der Junge trägt den Eimer ja beides ist sehr schwer okay das das hier ist das vierte Bild das vierte Bild okay was passiert hier also ist das Haus immer noch da ja das Haus ist noch da ist das Fenster noch offen ja ja okay ist der Rucksack noch da okay ist der Rauch noch da nein nein der ist weg okay aber jemand anderes ist da jetzt kommt nicht mehr Rauch aus … war voll und deshalb war auch sehr schwer voll und schwer und jetzt ist der Eimer leer der Eimer ist leer ja leer der Eimer war voll ja vorher war voll jetzt ist er leer okay wo ist das Wasser hin das Wasser ist nicht mehr im Eimer wo ist das Wasser das Wasser ist auf dem Vater es gibt trocken und nass trocken und nass z.B nass der Vater ist jetzt nass ja vorher war er trocken ja also der Sohn ist trocken und der Vater ist nass also der Vater ist trocken ist der Vater trocken nein nein nein der Vater ist nass ein bisschen oder sehr nass sehr nass okay okay den Vater ist nicht nur nass er … nein hat der Rucksack gebrannt nein nein was hat gebrannt nichts nichts nichts hat gebrannt nichts hat gebrannt okay aber die Pfeife hat geraucht ja da kam Rauch aus der Pfeife und der Vater ist der glücklich oder ist er wütend genau wütend okay er ist wütend ja er denkt ich sitze hier entspannt und rauche meine Pfeife alles ist gut und auf einmal kommt Wasser in mein Gesicht und er weiß nicht was los ist ja und er schaut aus dem Fenster und vor ihm steht sein Sohn ja der Junge ist sein Sohn der Sohn und er sieht den Sohn und er sieht den Eimer und er denkt was soll das genau wasch du das … der Junge ist noch klein ja der raucht keine Pfeife hat der Vater den Eimer geholt oder hat der Sohn den Eimer geholt der Sohn ja der Sohn ist gegangen hat den Eimer geholt okay der Vater hat den Eimer nicht geholt ist der Eimer leer ja der Eimer ist leer ist der einimal leer nein wie ist dieser Eimer die Eimer ist voll genau dieser Eimer ist voll okay ein Eimer ist leer und ein eimal ist voll und was was denkt der Sohn ja der Vater denkt was machst du da ja der Sohn denkt oh ich wollte doch nur helfen ja der Sohn denkt ich ich mache hier gute Sachen und jetzt kriege ich auch noch ärger dafür",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5123
+  "src": "auto"
  },
  "v5mtp0zPR3Q": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-02T15:51:40+00:00",
+  "checked": "2026-11-09T17:09:13+00:00",
   "title": "Who Works in This Restaurant? | Easy German Story (A1/A2)",
   "duration": 626,
   "published": "20260906",
@@ -2487,48 +2498,73 @@
   "spoken_v": 2,
   "pace": 84.2,
   "rare": 0.0777,
+  "var": 0.6141,
   "speech_s": 596.2,
   "tokens": 837,
   "kw": [
    [
-    "delfin",
-    "der intelligente Delfin hat eine Idee.",
-    101,
-    111,
-    3.04,
-    14
+    "sagt",
+    "Der Delfin hat eine Idee und er sagt,",
+    106,
+    114,
+    5.59,
+    20
    ],
    [
-    "qualle",
-    "Die transparente Qualle, hm, sie hat",
-    299,
-    306,
-    2.7,
+    "bist",
+    "Oskar, du bist kein Transporter. Ein Transporter",
+    225,
+    235,
+    5.61,
     9
    ],
    [
-    "taucher",
-    "die Taucher, sie kommen vom Land. Die Personen, die",
-    153,
-    162,
-    3.42,
-    13
+    "guter",
+    "Ich bin ein guter Transporter\", sagt Oskar.",
+    211,
+    221,
+    5.04,
+    8
    ],
    [
-    "oktopus",
-    "Oskar Oktopus? Nein?",
-    3,
-    10,
-    2.62,
+    "nein",
+    "Nein? Hm.",
+    6,
+    13,
+    5.52,
+    6
+   ],
+   [
+    "schiff",
+    "das alte Schiff ist perfekt für ein neues Restaurant.",
+    110,
+    123,
+    4.67,
+    8
+   ],
+   [
+    "restaurant",
+    "ist perfekt für ein neues Restaurant.",
+    113,
+    123,
+    4.53,
     7
    ],
    [
-    "kocher",
-    "der Kocher. Ich koche das Essen.\"",
-    312,
-    321,
-    3.05,
+    "schokolade",
+    "nehme eine warme Schokolade. Sagt Lars.",
+    475,
+    485,
+    4.2,
     7
+   ],
+   [
+    "koch",
+    "Kocher. Du arbeitest als Koch. genau.",
+    343,
+    353,
+    4.45,
+    6
    ],
    [
     "oskar",
@@ -2547,6 +2583,14 @@
     12
    ],
    [
+    "lars",
+    "Der Taucher ist Lars und Lars ist ein",
+    436,
+    446,
+    4.08,
+    10
+   ],
+   [
     "transporter",
     "Ich bin ein guter Transporter\", sagt Oskar.",
     211,
@@ -2555,79 +2599,63 @@
     7
    ],
    [
-    "sagt",
-    "Der Delfin hat eine Idee und er sagt,",
-    106,
-    114,
-    5.59,
-    20
+    "delfin",
+    "der intelligente Delfin hat eine Idee.",
+    101,
+    111,
+    3.04,
+    14
    ],
    [
-    "bist",
-    "Oskar, du bist kein Transporter. Ein Transporter",
-    225,
-    235,
-    5.61,
-    9
+    "taucher",
+    "die Taucher, sie kommen vom Land. Die Personen, die",
+    153,
+    162,
+    3.42,
+    13
    ],
    [
-    "schiff",
-    "das alte Schiff ist perfekt für ein neues Restaurant.",
-    110,
-    123,
-    4.67,
-    8
-   ],
-   [
-    "guter",
-    "Ich bin ein guter Transporter\", sagt Oskar.",
-    211,
-    221,
-    5.04,
-    8
-   ],
-   [
-    "restaurant",
-    "ist perfekt für ein neues Restaurant.",
-    113,
-    123,
-    4.53,
+    "kocher",
+    "der Kocher. Ich koche das Essen.\"",
+    312,
+    321,
+    3.05,
     7
    ],
    [
-    "wasser",
-    "unter Wasser. Es ist auf dem Boden. Es",
-    125,
-    132,
-    5.32,
-    6
+    "transparente",
+    "Die transparente Qualle, hm, sie hat",
+    299,
+    306,
+    3.41,
+    4
    ],
    [
-    "nein",
-    "Nein? Hm.",
-    6,
-    13,
-    5.52,
-    6
+    "qualle",
+    "Die transparente Qualle, hm, sie hat",
+    299,
+    306,
+    2.7,
+    9
    ],
    [
-    "koch",
-    "Kocher. Du arbeitest als Koch. genau.",
-    343,
-    353,
-    4.45,
-    6
+    "oktopus",
+    "Oskar Oktopus? Nein?",
+    3,
+    10,
+    2.62,
+    7
    ]
   ],
-  "tx": "Kennst du Oskar Oktopus? Nein? Hm. Dann muss ich dir die Geschichte erzählen. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Heute gibt es eine Geschichte und in der Geschichte geht es um Oskar Oktopus. Oskar Oktopus ist ein Oktopus und er heißt Oskar. Ganz genau. Und Oskar lebt im großen Ozean. Und der große Ozean ist voll von vielen Tieren. Es gibt Fische, es gibt Muscheln, es gibt Delfine, es gibt viele Oktopusse, es gibt, ja, sehr viele Tiere im Ozean. Aber allen Tieren ist langweilig. Bäh, was machen wir? Es ist langweilig. Ich habe nichts zu tun, ich kann nichts machen. Ich kann nicht arbeiten, ich kann nicht spielen. Bäh, es ist langweilig. Aber der intelligente Delfin hat eine Idee. Der Delfin hat eine Idee und er sagt, das alte Schiff ist perfekt für ein neues Restaurant. Im Ozean gibt es ein altes Schiff. Das alte Schiff ist kaputt und es ist unter Wasser. Es ist auf dem Boden. Es ist auf dem Sand. Das Schiff ist kaputt. Es ist im Wasser. Es ist ein altes Schiff. Und der intelligente Delfin sagt: \"Ha, ich habe eine Idee. Das Schiff ist perfekt für ein neues Restaurant.\" Wir brauchen einen Gast. Und die Taucher, sie kommen vom Land. Die Personen, die Menschen, sie gehen in das Wasser, sie schwimmen und sie gehen unter Wasser, sie tauchen. Und die Taucher, die kommen zu den Tieren, sie kommen unter Wasser. Und die Taucher sind die perfekten Gäste. Ein Taucher ist ein perfekter Gast. Eine wundervolle Idee. \"Ich arbeite in dem neuen Restaurant\", sagt Oskar. Er will im neuen Restaurant arbeiten. \"Es ist eine wundervolle Idee\", sagt Oskar. \"Ich habe acht Arme.\" Oskar ist ein Oktopus. Er hat acht Arme. \"Und ich kann viele Dinge transportieren. Ich bin ein guter Transporter\", sagt Oskar. Ist Oskar ein Transporter? Der intelligente Delfin ",
+  "tx": "Kennst du Oskar Oktopus? Nein? Hm. Dann muss ich dir die Geschichte erzählen. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Heute gibt es eine Geschichte und in der Geschichte geht es um Oskar Oktopus. Oskar Oktopus ist ein Oktopus und er heißt Oskar. Ganz genau. Und Oskar lebt im großen Ozean. Und der große Ozean ist voll von vielen Tieren. Es gibt Fische, es gibt Muscheln, es gibt Delfine, es gibt viele Oktopusse, es gibt, ja, sehr viele Tiere im Ozean. Aber allen Tieren ist langweilig. Bäh, was machen wir? Es ist langweilig. Ich habe nichts zu tun, ich kann nichts machen. Ich kann nicht arbeiten, ich kann nicht spielen. Bäh, es ist langweilig. Aber der intelligente Delfin hat eine Idee. Der Delfin hat eine Idee und er sagt, das alte Schiff ist perfekt für ein neues Restaurant. Im Ozean gibt es ein altes Schiff. Das alte Schiff ist kaputt und es ist unter Wasser. Es ist auf dem Boden. Es ist auf dem Sand. Das Schiff ist kaputt. Es ist im Wasser. Es ist ein altes Schiff. Und der intelligente Delfin sagt: \"Ha, ich habe eine Idee. Das Schiff ist perfekt für ein neues Restaurant.\" Wir brauchen einen Gast. Und die Taucher, sie kommen vom Land. Die Personen, die Menschen, sie gehen in das Wasser, sie schwimmen und sie gehen unter Wasser, sie tauchen. Und die Taucher, die kommen zu den Tieren, sie kommen unter Wasser. Und die Taucher sind die perfekten Gäste. Ein Taucher ist ein perfekter Gast. Eine wundervolle Idee. \"Ich arbeite in dem neuen Restaurant\", sagt Oskar. Er will im neuen Restaurant arbeiten. \"Es ist eine wundervolle Idee\", sagt Oskar. \"Ich habe acht Arme.\" Oskar ist ein Oktopus. Er hat acht Arme. \"Und ich kann viele Dinge transportieren. Ich bin ein guter Transporter\", sagt Oskar. Ist Oskar ein Transporter? Der intelligente Delfin hört das. \"Nein, Oskar, du bist kein Transporter. Ein Transporter ist ein großes Auto. Das ist Oscar nicht. Oscar ist kein Transporter. Er transportiert Dinge, aber Oscar ist kein Transporter. Was ist Oscar? Der intelligente Delfin sagt: \"Du arbeitest als Kellner. Du bist ein perfekter Kellner.\" \"Ich bin ein perfekter Kellner?\" fragt Oscar. \"Ja, ein Kellner nimmt die Gläser und ein Kellner bringt das Essen. Du hast acht Arme. Du nimmst und bringst alles. Du kannst viel transportieren. Das ist eine gute Idee. Du bist der perfekte Kellner.\" \"Ich bin ein guter Arbeiter. Ich bin ein perfekter Kellner\", sagt Oscar. \"Ich nehme alles und ich bringe alles.\" Die transparente Qualle, hm, sie hat keine Farbe. Sie ist nicht rot, sie ist nicht blau, sie ist transparent. Die transparente Qualle sagt: \"Ich bin der Kocher. Ich koche das Essen.\" Ist sie ein Kocher? Ist ein Kocher eine Person, die kocht? \"Nein\", sagt der Delfin. \"Nein, du bist kein Kocher. Das ist ein Wasserkocker, aber die Qualle? Nein, die Qualle ist kein Kocher. Was ist die Qualle?\" Der Delfin sagt: \"Nein, du bist kein Kocher. Du arbeitest als Koch. genau. Kocher ist nicht richtig. Du arbeitest als Koch. Du bist ein guter Koch. Ja, okay, ich bin ein guter Koch, sagt die transparente Qualle. Und du bist der Chef. Delfin, Delfin, du bist der Chef. Ja, ich bin der Chef, ich bin euer Boss. Sagt der Delfin. Der Delfin ist ein intelligenter Chef. Die Qualle ist ein guter Koch und Oskar ist ein perfekter Kellner. Aber sie haben keine Gäste. Sie haben keine Gäste. Sie warten und warten und warten. Dann sehen die Tiere einen Taucher. Sie sehen einen Taucher. Er kommt vom Land. Er schwimmt im Wasser und er taucht zu den Tieren. Er sieht das alte Schiff und er sieht das neue Restaurant. Ein Restaurant, sagt der Taucher, ich habe Hunger. Der Taucher ist Lars und Lars ist ein großer Taucher mit großem Hunger. Willkommen, sagt Oskar, ich bin der Kellner, ich bin kein Transporter, ich bin der Kellner. Hallo, sagt Lars, ich habe Hunger. Ich will essen. Hier ist das Menü, sagt Oskar. ähm Und gibt Lars das Menü. Was nimmst du? Fragt er. Ich nehme eine warme Schokolade. Sagt Lars. Oskar nimmt die warme Schokolade und bringt die warme Schokolade zu Lars. Lars nimmt die warme Schokolade und trinkt sie. Die warme Schokolade ist wundervoll, sagt Lars. Du bist ein guter Tester, sagt der intelligente Delfin. Ich bin kein Tester, sagt Lars. Ich bin ein Taucher. Ich bin kein Tester, ich bin ein Taucher. Aber die Schokolade ist wundervoll. Alle Tiere sind glücklich. Der intelligente Delfin ist glücklich, die transparente Qualle ist glücklich, der perfekte Kellner, Oskar, der Oktopus, ist glücklich und ja, der Taucher ist auch glücklich. Er hat keinen Hunger mehr, er hat eine warme Schokolade. Das neue Restaurant im alten Schiff ist super. Der Delfin ist ein intelligenter Chef, die Qualle ist ein guter Koch und Oskar, der Oktopus, ist ein perfekter Kellner. Und Lars ist kein Tester. Aber ein großer Taucher und ein guter Gast. Ich wünsche dir viel Spaß beim Deutsch lernen und bis zum nächsten Video. Mach's gut. Tschüss.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.64
+  "src": "auto"
  },
  "wHIOk1Ldozk": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-02T15:51:44+00:00",
+  "checked": "2026-11-09T17:09:16+00:00",
   "title": "Where are the snacks? | Easy German Story (A1)",
   "duration": 348,
   "published": "20260830",
@@ -2635,73 +2663,10 @@
   "spoken_v": 2,
   "pace": 76.4,
   "rare": 0.0483,
+  "var": 0.6641,
   "speech_s": 308.6,
   "tokens": 393,
   "kw": [
-   [
-    "leon",
-    "Eva und Leon zu Mama. Habt ihr einen guten Film, fragt Mama.",
-    39,
-    53,
-    4.05,
-    17
-   ],
-   [
-    "snacks",
-    "Ein Filmabend ohne Snacks ist kein",
-    117,
-    124,
-    3.44,
-    8
-   ],
-   [
-    "filmabend",
-    "Ein Filmabend ohne Snacks ist kein",
-    117,
-    124,
-    2.67,
-    3
-   ],
-   [
-    "schmecke",
-    "Ich schmecke die Butter, ich schmecke",
-    233,
-    244,
-    2.77,
-    3
-   ],
-   [
-    "popcorn",
-    "Das hört sich an wie Popcorn.",
-    204,
-    213,
-    3.63,
-    5
-   ],
-   [
-    "riechst",
-    "Riechst du das? Hörst du das?",
-    209,
-    220,
-    2.95,
-    2
-   ],
-   [
-    "chips",
-    "die Chips, ruft Leon. Mama bringt die Chips. Und Leon nimmt",
-    140,
-    156,
-    3.95,
-    4
-   ],
-   [
-    "riecht",
-    "riecht Leon da? Es riecht gut.",
-    188,
-    197,
-    4.13,
-    4
-   ],
    [
     "film",
     "Wir wollen einen Film anschauen, sagen",
@@ -2709,6 +2674,30 @@
     43,
     5.23,
     14
+   ],
+   [
+    "sagt",
+    "Ich mag den Film nicht, sagt Leon.",
+    55,
+    64,
+    5.59,
+    11
+   ],
+   [
+    "bitte",
+    "Einen Moment bitte, das ist der Titel von unserer Geschichte",
+    0,
+    10,
+    5.7,
+    5
+   ],
+   [
+    "nimmt",
+    "Eva nimmt einen Film. Ist der Film gut?",
+    47,
+    56,
+    5.16,
+    5
    ],
    [
     "eva",
@@ -2727,55 +2716,95 @@
     12
    ],
    [
-    "sagt",
-    "Ich mag den Film nicht, sagt Leon.",
-    55,
-    64,
-    5.59,
-    11
-   ],
-   [
-    "nimmt",
-    "Eva nimmt einen Film. Ist der Film gut?",
-    47,
-    56,
-    5.16,
-    5
-   ],
-   [
-    "moment",
-    "Einen Moment bitte, das ist der Titel von unserer Geschichte",
-    0,
-    10,
-    5.13,
-    5
-   ],
-   [
-    "bitte",
-    "Einen Moment bitte, das ist der Titel von unserer Geschichte",
-    0,
-    10,
-    5.7,
-    5
-   ],
-   [
     "schmeckt",
     "sich eine Handvoll Popcorn. Schmeckt das gut.",
     226,
     237,
     4.47,
     4
+   ],
+   [
+    "höre",
+    "Ich höre deinen Bauch, sagt Eva.",
+    112,
+    122,
+    4.6,
+    3
+   ],
+   [
+    "leon",
+    "Eva und Leon zu Mama. Habt ihr einen guten Film, fragt Mama.",
+    39,
+    53,
+    4.05,
+    17
+   ],
+   [
+    "popcorn",
+    "Das hört sich an wie Popcorn.",
+    204,
+    213,
+    3.63,
+    5
+   ],
+   [
+    "riecht",
+    "riecht Leon da? Es riecht gut.",
+    188,
+    197,
+    4.13,
+    4
+   ],
+   [
+    "chips",
+    "die Chips, ruft Leon. Mama bringt die Chips. Und Leon nimmt",
+    140,
+    156,
+    3.95,
+    4
+   ],
+   [
+    "snacks",
+    "Ein Filmabend ohne Snacks ist kein",
+    117,
+    124,
+    3.44,
+    8
+   ],
+   [
+    "schmecke",
+    "Ich schmecke die Butter, ich schmecke",
+    233,
+    244,
+    2.77,
+    3
+   ],
+   [
+    "filmabend",
+    "Ein Filmabend ohne Snacks ist kein",
+    117,
+    124,
+    2.67,
+    3
+   ],
+   [
+    "riechst",
+    "Riechst du das? Hörst du das?",
+    209,
+    220,
+    2.95,
+    2
    ]
   ],
-  "tx": "Einen Moment bitte, das ist der Titel von unserer Geschichte heute. Hallo, herzlich willkommen, ich bin Katrin und wir lernen natürlich Deutsch. Also, die Geschichte heißt einen Moment bitte. Wir wollen einen Film anschauen, sagen Eva und Leon zu Mama. Habt ihr einen guten Film, fragt Mama. Eva nimmt einen Film. Ist der Film gut? Sie zeigt Mama den Film. Ich mag den Film nicht, sagt Leon. Er nimmt einen anderen Film. Der Film ist besser, das ist eine Komödie, sagt er. Eva und Leon beginnen den Film. Sie schauen sich den Film an und sie hören die Personen im Film. Der Film ist gut und sie fühlen die Emotionen der Personen. Sie hören den Tiger, sie fühlen die Angst, sie sehen den Vater, sie fühlen das Glück. Aber was hört Leon? Groah, das ist sein Bauch, er hat Hunger. Ich höre deinen Bauch, sagt Eva. Ein Filmabend ohne Snacks ist kein Filmabend. Mama, wir wollen Snacks haben, sagt Leon. Einen Moment bitte, die Snacks sind im Schrank, sagt Mama. Ich höre die Snacks, ruft Eva. Ich höre die Chips, ruft Leon. Mama bringt die Chips. Und Leon nimmt einen Chip. Die Chips schmecken gut, Mama, sagt Leon. Eva nimmt auch einen Chip. Ja, mir schmecken die Chips auch, meint Eva. Aber wir wollen noch mehr Snacks. Einen Moment bitte, die die Snacks sind in der Küche, sagt Mama. Eva und Leon schauen sich den Film weiter an. Was riecht Leon da? Es riecht gut. Es riecht wie Butter? Und was hört Leon da? Plop. Das hört sich an wie Popcorn. Riechst du das? Hörst du das? Ich glaube, Mama macht Popcorn, sagt Leon zu Eva. Mama bringt das Popcorn und Leon nimmt sich eine Handvoll Popcorn. Schmeckt das gut. Ich schmecke die Butter, ich schmecke den Zucker, ruft Leon. Das ist so gut. Ich mag kein Popcorn, sagt Eva. Das schmeckt mir nicht. Ich will trinken haben. Einen Moment bitte, das Trinken is",
+  "tx": "Einen Moment bitte, das ist der Titel von unserer Geschichte heute. Hallo, herzlich willkommen, ich bin Katrin und wir lernen natürlich Deutsch. Also, die Geschichte heißt einen Moment bitte. Wir wollen einen Film anschauen, sagen Eva und Leon zu Mama. Habt ihr einen guten Film, fragt Mama. Eva nimmt einen Film. Ist der Film gut? Sie zeigt Mama den Film. Ich mag den Film nicht, sagt Leon. Er nimmt einen anderen Film. Der Film ist besser, das ist eine Komödie, sagt er. Eva und Leon beginnen den Film. Sie schauen sich den Film an und sie hören die Personen im Film. Der Film ist gut und sie fühlen die Emotionen der Personen. Sie hören den Tiger, sie fühlen die Angst, sie sehen den Vater, sie fühlen das Glück. Aber was hört Leon? Groah, das ist sein Bauch, er hat Hunger. Ich höre deinen Bauch, sagt Eva. Ein Filmabend ohne Snacks ist kein Filmabend. Mama, wir wollen Snacks haben, sagt Leon. Einen Moment bitte, die Snacks sind im Schrank, sagt Mama. Ich höre die Snacks, ruft Eva. Ich höre die Chips, ruft Leon. Mama bringt die Chips. Und Leon nimmt einen Chip. Die Chips schmecken gut, Mama, sagt Leon. Eva nimmt auch einen Chip. Ja, mir schmecken die Chips auch, meint Eva. Aber wir wollen noch mehr Snacks. Einen Moment bitte, die die Snacks sind in der Küche, sagt Mama. Eva und Leon schauen sich den Film weiter an. Was riecht Leon da? Es riecht gut. Es riecht wie Butter? Und was hört Leon da? Plop. Das hört sich an wie Popcorn. Riechst du das? Hörst du das? Ich glaube, Mama macht Popcorn, sagt Leon zu Eva. Mama bringt das Popcorn und Leon nimmt sich eine Handvoll Popcorn. Schmeckt das gut. Ich schmecke die Butter, ich schmecke den Zucker, ruft Leon. Das ist so gut. Ich mag kein Popcorn, sagt Eva. Das schmeckt mir nicht. Ich will trinken haben. Einen Moment bitte, das Trinken ist im Kühlschrank, sagt Mama und geht in die Küche. Mama bringt zwei Gläser. Das riecht nach Orange, riechst du das? Fragt Eva. Leon trinkt aus dem Glas und es schmeckt nach Orange. Eva trinkt die Fanta. Wow, das schmeckt so süß. Ich schmecke den Sommer. Ich liebe Snacks, sagt Leon. Und ich liebe den Film. Das war die Geschichte von Eva und Leon mit vielen Snacks und einem Filmabend.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6458
+  "src": "auto"
  },
  "xiQkrxS70uM": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-02T15:57:05+00:00",
+  "checked": "2026-11-09T17:15:44+00:00",
   "title": "Mia will in die KUGEL, um Pia zu retten!",
   "duration": 533,
   "published": "20261101",
@@ -2783,24 +2812,41 @@
   "spoken_v": 2,
   "pace": 178.1,
   "rare": 0.0379,
+  "var": 0.7737,
   "speech_s": 452.7,
   "tokens": 1344,
   "kw": [
    [
-    "emre",
-    "Kannst du zu mir kommen, Emre?",
-    325,
-    328,
-    2.85,
-    14
+    "nein",
+    "Nein! Niemand darf da rein! Das ist viel zu gefährlich!",
+    8,
+    12,
+    5.52,
+    24
    ],
    [
-    "mia",
-    "So, jetzt kann Mia nicht in die Kugel!",
-    0,
-    3,
-    3.98,
-    25
+    "gehen",
+    "Darf ich denn in die Kugel gehen?",
+    6,
+    9,
+    5.65,
+    8
+   ],
+   [
+    "gleich",
+    "Sonst fackelt unser Haus gleich ab!",
+    125,
+    128,
+    5.59,
+    7
+   ],
+   [
+    "max",
+    "Du bist ein Verräter, Max! Ich will auch Mama zurückhaben, Papa!",
+    313,
+    318,
+    4.94,
+    7
    ],
    [
     "kugel",
@@ -2809,54 +2855,6 @@
     3,
     4.21,
     27
-   ],
-   [
-    "abführmittel",
-    "Ähm, ich brauche Abführmittel! Warum brauchst du Abführmittel?",
-    189,
-    195,
-    2.76,
-    3
-   ],
-   [
-    "marianne",
-    "Ist das Marianne? Ja, ich schlachte sie jetzt!",
-    40,
-    44,
-    3.9,
-    7
-   ],
-   [
-    "chicken",
-    "Hast du mir Chicken gebracht? Ja, so viel du willst!",
-    209,
-    214,
-    3.49,
-    3
-   ],
-   [
-    "rette",
-    "Ich gehe in diese Kugel und rette Mama!",
-    271,
-    274,
-    3.28,
-    2
-   ],
-   [
-    "lösch",
-    "Lösch das Feuer, Mia! Was heißt löschen?",
-    92,
-    96,
-    3.41,
-    2
-   ],
-   [
-    "nein",
-    "Nein! Niemand darf da rein! Das ist viel zu gefährlich!",
-    8,
-    12,
-    5.52,
-    24
    ],
    [
     "papa",
@@ -2875,22 +2873,6 @@
     13
    ],
    [
-    "sebastian",
-    "Sei nicht so gemein zu Sebastian!",
-    104,
-    107,
-    4.44,
-    8
-   ],
-   [
-    "gehen",
-    "Darf ich denn in die Kugel gehen?",
-    6,
-    9,
-    5.65,
-    8
-   ],
-   [
     "feuer",
     "Lösch das Feuer, Mia! Was heißt löschen?",
     92,
@@ -2899,26 +2881,82 @@
     8
    ],
    [
-    "max",
-    "Du bist ein Verräter, Max! Ich will auch Mama zurückhaben, Papa!",
-    313,
-    318,
-    4.94,
+    "mia",
+    "So, jetzt kann Mia nicht in die Kugel!",
+    0,
+    3,
+    3.98,
+    25
+   ],
+   [
+    "marianne",
+    "Ist das Marianne? Ja, ich schlachte sie jetzt!",
+    40,
+    44,
+    3.9,
     7
    ],
    [
-    "gleich",
-    "Sonst fackelt unser Haus gleich ab!",
-    125,
-    128,
-    5.59,
-    7
+    "ähm",
+    "Ähm, ich brauche Abführmittel! Warum brauchst du Abführmittel?",
+    189,
+    195,
+    4.12,
+    2
+   ],
+   [
+    "aufhalten",
+    "Dann musst du wohl die Kugel verlassen und mich aufhalten!",
+    45,
+    49,
+    4.11,
+    2
+   ],
+   [
+    "chicken",
+    "Hast du mir Chicken gebracht? Ja, so viel du willst!",
+    209,
+    214,
+    3.49,
+    3
+   ],
+   [
+    "lösch",
+    "Lösch das Feuer, Mia! Was heißt löschen?",
+    92,
+    96,
+    3.41,
+    2
+   ],
+   [
+    "rette",
+    "Ich gehe in diese Kugel und rette Mama!",
+    271,
+    274,
+    3.28,
+    2
+   ],
+   [
+    "emre",
+    "Kannst du zu mir kommen, Emre?",
+    325,
+    328,
+    2.85,
+    14
+   ],
+   [
+    "abführmittel",
+    "Ähm, ich brauche Abführmittel! Warum brauchst du Abführmittel?",
+    189,
+    195,
+    2.76,
+    3
    ]
   ],
-  "tx": "So, jetzt kann Mia nicht in die Kugel! Ich lasse Mia hier nicht durch! Darf ich denn in die Kugel gehen? Nein! Niemand darf da rein! Das ist viel zu gefährlich! Papa beschützt die Kugel! Ich kann dich sehen, Mia! Ich werde Mama retten! Ich lasse dich nicht in die Kugel! Das werden wir sehen! Ich habe ein paar Ideen! Wir können Mama nicht retten, Mia! Und ich werde dich nicht auch verlieren in dieser Kugel! Jetzt komm schon! Ich kann hier stundenlang sitzen! Mia wird nicht in diese Kugel gehen! Was war das? Willst du auch einen Burger, Papa? Ist das Marianne? Ja, ich schlachte sie jetzt! Nein, nicht meine Marianne! Dann musst du wohl die Kugel verlassen und mich aufhalten! Marianne! Nein, ich kann die Kugel nicht verlassen! Schatz? Ich muss das jetzt tun, Marianne! Du musst sterben, damit ich meine Mama retten kann! Letzte Chance, Papa! Bitte tu ihr nichts, Mia! Dann lass mich in die Kugel! Du weißt, dass ich das nicht kann! Du wirst so gut schmecken, Süße! Es tut mir leid, Marianne! Aber Mia darf nicht in diese dumme Kugel gehen! Mach es gut, Marianne! Lauf, Marianne! Bring dich in Sicherheit! Nein, warte! Ich hasse dich, Papa! Tja, das hat wohl nicht geklappt, Mia! Du wirst nicht in diese Kugel gehen! Dann warte mal ab! Was hast du jetzt vor? Lululu! Oh, das brennt ja! Lösch das Feuer, Mia! Was heißt löschen? Mach das Feuer aus! Gehst du bitte aus? Er will gerade nicht, Papa! Lass den Unsinn, Mia! Das Feuer ist gefährlich! Sei nicht so gemein zu Sebastian! Er ist noch ein Baby! Wer ist denn jetzt Sebastian? So heißt mein Feuer! Du bist ja gewachsen, Sebastian! Sie werden so schnell erwachsen! Du spinnst doch total! Ich weiß, was du vorhast, Mia! Aber ich lasse dich nicht in diese Kugel! Willst du mal Sebastian kennenlernen? Nein! Lösch das Feuer jetzt! Sonst fackelt un",
+  "tx": "So, jetzt kann Mia nicht in die Kugel! Ich lasse Mia hier nicht durch! Darf ich denn in die Kugel gehen? Nein! Niemand darf da rein! Das ist viel zu gefährlich! Papa beschützt die Kugel! Ich kann dich sehen, Mia! Ich werde Mama retten! Ich lasse dich nicht in die Kugel! Das werden wir sehen! Ich habe ein paar Ideen! Wir können Mama nicht retten, Mia! Und ich werde dich nicht auch verlieren in dieser Kugel! Jetzt komm schon! Ich kann hier stundenlang sitzen! Mia wird nicht in diese Kugel gehen! Was war das? Willst du auch einen Burger, Papa? Ist das Marianne? Ja, ich schlachte sie jetzt! Nein, … tun, Marianne! Du musst sterben, damit ich meine Mama retten kann! Letzte Chance, Papa! Bitte tu ihr nichts, Mia! Dann lass mich in die Kugel! Du weißt, dass ich das nicht kann! Du wirst so gut schmecken, Süße! Es tut mir leid, Marianne! Aber Mia darf nicht in diese dumme Kugel gehen! Mach es gut, Marianne! Lauf, Marianne! Bring dich in Sicherheit! Nein, warte! Ich hasse dich, Papa! Tja, das hat wohl nicht geklappt, Mia! Du wirst nicht in diese Kugel gehen! Dann warte mal ab! Was hast du jetzt vor? Lululu! Oh, das brennt ja! Lösch das Feuer, Mia! Was heißt löschen? Mach das Feuer aus! … jetzt Sebastian? So heißt mein Feuer! Du bist ja gewachsen, Sebastian! Sie werden so schnell erwachsen! Du spinnst doch total! Ich weiß, was du vorhast, Mia! Aber ich lasse dich nicht in diese Kugel! Willst du mal Sebastian kennenlernen? Nein! Lösch das Feuer jetzt! Sonst fackelt unser Haus gleich ab! Mein Papa will dich unbedingt kennenlernen, Sebastian! Nein, bring das Feuer nach draußen! Sag \"hallo\" zu Sebastian, Papa! Das Feuer ist so heiß! Ich glaube Papa steht auf dich, Sebastian! Er hat leider eine Freundin, Papa! Okay, schade! Äh, hör jetzt endlich auf damit, Mia! Lass mich in die … einfach auf, Mia! Ich werde nicht von dieser Kugel weggehen! Nein! Ich habe noch 3 Ideen! Ich lasse dich nicht durch! Egal, was du tust! Äh.. Gleich ist es vorbei! Dann werde ich in die Kugel gehen! Alter.. Deine Fürze funktionieren nicht mehr bei mir! Ich habe noch 2 Ideen! Oh Gott! Ich muss die Kugel bewachen! Was kann ich für dich tun, Mädchen? Ähm, ich brauche Abführmittel! Warum brauchst du Abführmittel? Ähm, ich habe Verstopfung! Achso! Warte, ich hole es dir! Na warte, Papa! Ich komme in diese Kugel! So langsam bekomme ich Hunger! Papa! Ich habe Essen mitgebracht! Hast du mir … verhungerst! Okay! Danke, Schatz! Warum isst du nichts, Mia? Äh, ich habe Döner gegessen! Mehr für mich! Haha! Jetzt muss ich nur noch warten! 15 Minuten später Was ist denn mit meinem Bauch los? Ich weiß, was los ist! Was meinst du? Ich habe Abführmittel auf die Chicken gemacht! Was ist das? Du musst gleich heftig auf Klo! Du bist doch krank! Tja, ich habe doch gesagt, dass ich in diese Kugel komme! Ich werde nicht zur Toilette gehen! Du hältst es gleich aber nicht mehr aus! Nein, ich halte das aus! Oh Gott! Geh schnell auf Klo oder es gibt hier ein Unglück! Nein, Mia.. Willst du in deine … Ich bin aber schneller als du! Was? Ich lasse dich nicht in die Kugel! Ich will doch nur Mama retten! Nein, das ist zu gefährlich! Das ist schwieriger als gedacht! Haha! Jetzt kannst du nichts mehr machen! Gib einfach auf, Mia! Du hast es so gewollt, Papa! Ich muss das jetzt tun.. Was hast du vor, Mia? Jetzt kommt meine letzte und krasseste Idee! Ich gebe dir aber noch eine Chance! Lass mich in die Kugel oder du wirst es bereuen! Ich werde gar nichts bereuen! Du blöffst nur! Okay, bis gleich! Weißt du, was Mia vorhat? Ne, aber ich hoffe, sie gewinnt gegen dich! Du bist ein Verräter, Max! … Emre? Ich will mich aber gleich mit Sinan treffen! Ich bin deine Freundin, Emre! Du kannst deinen Cousin auch morgen treffen! Na gut! Was machen wir denn bei dir? Das siehst du gleich! Was hat Mia jetzt schon wieder vor? Stell diesen Kackeimer woanders hin! Nein, du kannst da auch reinmachen! Ich habe doch meine Windel! Bald haben wir kein Geld mehr für Windeln! Sind wir arm? Ja, ohne Mama haben wir zu wenig Geld! Okay, dann kacke ich in den Eimer! Das ist mein Junge! Bist du das, Mia? Ja, und ich habe jemanden mitgebracht! Ist Fatima da? Nein, mein heißer Freund Emre! Ich finde dich auch … du bist nicht meine Mama! Ich will meine Mama zurück! Äh, Emre darf hier bleiben! Komm, wir gehen in mein Zimmer, Schatz! Uh, okay! In dein Zimmer? Ja, und wir schließen die Tür ab! Was machst du da mit Emre? Na was wohl.. Uh.. Nein, ihr dürft nicht in dein Zimmer! Ich bin 16 und Emre ist 17! Wir können also machen, was wir wollen! Nein, ich will doch kein Opa werden! Komm, Emre! Bester Tag ever! Das kann ich nicht zulassen! Nein! Ich kann die Kugel nicht alleine lassen! Tut es nicht, Mia! Emre und ich gehen jetzt in mein Zimmer! Ich bin so aufgeregt! Halt die Klappe, Emre! Letzte Chance, … Nein, Ich will Onkel werden! Ich will aber kein Opa werden! Wie machen wir das jetzt? Weißt du nich,t wie das geht? Nein! das wird mein erstes Mal! Das ist auch mein 1. Mal! Ich bin sofort wieder da! Endlich passiert es! Ich hoffe, es wird ein Junge! Ich muss die beiden aufhalten! Macht die Tür auf! Du machst das so gut, Emre! Du auch, Baby! Was tut ihr da? Du bist jetzt dran, Schatz! Ich komme jetzt rein! Hört sofort auf damit! Äh.. Das hatte ich mir auch anders vorgestellt, Bruder! Mia will in die Kugel! Ich rette dich, Mama! Was machst du da, Max? Ich gehe in die Kugel, Mia! Ich brauche … ist in die Kugel gefallen! Ich muss Max verfolgen! Nein, Ich darf dich nicht auch verlieren! Du kannst mich mal, Papa! Ich kann Max nicht alleine lassen! MIA! Wo bin ich hier? Das sieht aus wie dein Zimmer, aber irgendwie anders! Dir geht es gut, Max! Weißt du, was hier los ist? Nein, Ich bin verwirrt! Das sieht echt wie mein Zimmer aus! Aber es sieht etwas anders aus! Wie können wir jetzt Mama retten? Wir müssen erstmal rausfinden, was hier los ist! Da kommt jemand! Wer seid ihr? Was ist hier los? Wollt ihr Teil 2? Dann abonniert und aktiviert die Glocke! Und klickt auf dieses Video von mir!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7444
+  "src": "cc"
  },
  "GtW4AJG5YRo": {
   "channel": "Deutsch verstehen",
@@ -3071,7 +3109,7 @@
  "EzckvzT38ZE": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-02T15:59:31+00:00",
+  "checked": "2026-11-09T17:18:11+00:00",
   "title": "Pete die Katze liebt seine Schuhe",
   "duration": 839,
   "published": "20220922",
@@ -3079,81 +3117,10 @@
   "spoken_v": 2,
   "pace": 53.3,
   "rare": 0.0944,
+  "var": 0.5292,
   "speech_s": 680.1,
   "tokens": 604,
   "kw": [
-   [
-    "piet",
-    "Piet ist eine Katze miau eine Katze",
-    12,
-    22,
-    3.19,
-    20
-   ],
-   [
-    "pete",
-    "Pete liebt seine Schuhe Piet ist eine Katze miau eine Katze",
-    6,
-    22,
-    3.54,
-    22
-   ],
-   [
-    "piets",
-    "sind Piets Auge und pietznase",
-    23,
-    34,
-    2.05,
-    4
-   ],
-   [
-    "pfütze",
-    "Pfütze eine Pfütze",
-    662,
-    677,
-    3.05,
-    6
-   ],
-   [
-    "piept",
-    "das ist die Katze und piept die Katze",
-    136,
-    145,
-    2.74,
-    5
-   ],
-   [
-    "erdbeeren",
-    "Erdbeeren das sind viele",
-    252,
-    260,
-    3.61,
-    9
-   ],
-   [
-    "blaubeeren",
-    "Blaubeeren auf der Straße sind Blaubeeren",
-    430,
-    440,
-    2.73,
-    4
-   ],
-   [
-    "peach",
-    "Peach Schuhe sind wieder",
-    765,
-    775,
-    2.99,
-    3
-   ],
-   [
-    "schuhe",
-    "Pete liebt seine Schuhe Piet ist eine Katze miau eine Katze",
-    6,
-    22,
-    4.62,
-    45
-   ],
    [
     "strasse",
     "",
@@ -3179,19 +3146,35 @@
     14
    ],
    [
-    "weissen",
-    "",
-    0,
-    0,
-    4.76,
-    8
-   ],
-   [
     "sieht",
     "sieht die Erdbeeren nicht er sieht die",
     284,
     294,
     5.57,
+    8
+   ],
+   [
+    "schuhe",
+    "Pete liebt seine Schuhe Piet ist eine Katze miau eine Katze",
+    6,
+    22,
+    4.62,
+    45
+   ],
+   [
+    "singt",
+    "das piept singt ",
+    174,
+    182,
+    4.22,
+    10
+   ],
+   [
+    "weissen",
+    "",
+    0,
+    0,
+    4.76,
     8
    ],
    [
@@ -3203,18 +3186,106 @@
     8
    ],
    [
-    "wasser",
-    "ist Wasser auf der Straße ist",
-    648,
-    659,
-    5.32,
-    7
+    "erdbeeren",
+    "Erdbeeren das sind viele",
+    252,
+    260,
+    3.61,
+    9
+   ],
+   [
+    "weint",
+    "piept weint nicht Pete geht weiter auf der Straße",
+    389,
+    404,
+    3.89,
+    6
+   ],
+   [
+    "braunen",
+    "meine braunen Schuhe ich liebe",
+    626,
+    637,
+    3.91,
+    3
+   ],
+   [
+    "braune",
+    "braune Schuhe Pete hat",
+    593,
+    603,
+    4.0,
+    2
+   ],
+   [
+    "pete",
+    "Pete liebt seine Schuhe Piet ist eine Katze miau eine Katze",
+    6,
+    22,
+    3.54,
+    22
+   ],
+   [
+    "piet",
+    "Piet ist eine Katze miau eine Katze",
+    12,
+    22,
+    3.19,
+    20
+   ],
+   [
+    "pfütze",
+    "Pfütze eine Pfütze",
+    662,
+    677,
+    3.05,
+    6
+   ],
+   [
+    "wäscht",
+    "das Wasser in der Pfütze wäscht",
+    693,
+    699,
+    3.43,
+    3
+   ],
+   [
+    "piept",
+    "das ist die Katze und piept die Katze",
+    136,
+    145,
+    2.74,
+    5
+   ],
+   [
+    "blaubeeren",
+    "Blaubeeren auf der Straße sind Blaubeeren",
+    430,
+    440,
+    2.73,
+    4
+   ],
+   [
+    "piets",
+    "sind Piets Auge und pietznase",
+    23,
+    34,
+    2.05,
+    4
+   ],
+   [
+    "peach",
+    "Peach Schuhe sind wieder",
+    765,
+    775,
+    2.99,
+    3
    ]
   ],
-  "tx": "die Geschichte heißt der Name der Geschichte ist Pete liebt seine Schuhe Piet ist eine Katze miau eine Katze das sind Piets Auge und pietznase das ist Piets Kopf und die Ohren nur Haare und Mund das ist Pete pete ist eine Katze Piet ist eine Katze Piet ist eine Katze aber pete ist keine normale Katze denn hat Schuhe klasse ja und viel peter hat viel Schuhe Pete hat vier Schuhe Piet hat vier weiße Schuhe weiß die Schuhe sind weiß das ist die Katze und piept die Katze hat viel weiße Schuhe liebt seine weißen Schuhe Pete liebt seine weißen Schuhe Pete liebt seine weißen Schuhe so sehr das piept singt singt Piet singt ich liebe meine weißen Schuhe ich liebe meine weißen Schuhe Pete liebt seine weißen Schuhe und Pete geht auf der Straße hier ist Straße und Pit geht auf der Straße und Piet singt ich liebe meine weißen Schuhe ich liebe meine weißen Schuhe aber oh nein auf der Straße sind Erdbeeren das sind viele Erdbeeren auf der Schulstraße sind Erdbeeren und Piet geht auf der Straße und singt und Piet sieht die Erdbeeren nicht er sieht die Erdbeeren nicht Pete sieht die Erdbeeren nicht die Erdbeere nicht und Piet tritt in die Erdbeeren piept sieht die Erdbeeren nicht und tritt in die Erdbeeren oh nein sind Pete Schuhe jetzt weiß nein piez Schuhe sind jetzt rot Pitch Schuhe sind jetzt rot Piet hat jetzt rote Schuhe aber ist Pete traurig tschüss nein so ein Quatsch piept weint nicht Pete geht weiter auf der Straße und Pie singt ich liebe meine roten Schuhe ich liebe meine roten Schuhe ich liebe meine roten Schuhe aber auf der Straße sind Blaubeeren auf der Straße sind Blaubeeren und sieht die Blaubeeren nicht und Piet tritt in die Blaubeeren oh nein sind Piets Schuhe jetzt nein peace Schuhe sind jetzt blau Piet hat jetzt blaue Schuhe peter hat blaue Schuhe ist Piet traurig wei",
+  "tx": "die Geschichte heißt der Name der Geschichte ist Pete liebt seine Schuhe Piet ist eine Katze miau eine Katze das sind Piets Auge und pietznase das ist Piets Kopf und die Ohren nur Haare und Mund das ist Pete pete ist eine Katze Piet ist eine Katze Piet ist eine Katze aber pete ist keine normale Katze denn hat Schuhe klasse ja und viel peter hat viel Schuhe Pete hat vier Schuhe Piet hat vier weiße Schuhe weiß die Schuhe sind weiß das ist die Katze und piept die Katze hat viel weiße Schuhe liebt seine weißen Schuhe Pete liebt seine weißen Schuhe Pete liebt seine weißen Schuhe so sehr das piept singt singt Piet singt ich liebe meine weißen Schuhe ich liebe meine weißen Schuhe Pete liebt seine weißen Schuhe und Pete geht auf der Straße hier ist Straße und Pit geht auf der Straße und Piet singt ich liebe meine weißen Schuhe ich liebe meine weißen Schuhe aber oh nein auf der Straße sind Erdbeeren das sind viele Erdbeeren auf der Schulstraße sind Erdbeeren und Piet geht auf der Straße und singt und Piet sieht die Erdbeeren nicht er sieht die Erdbeeren nicht Pete sieht die Erdbeeren nicht die Erdbeere nicht und Piet tritt in die Erdbeeren piept sieht die Erdbeeren nicht und tritt in die Erdbeeren oh nein sind Pete Schuhe jetzt weiß nein piez Schuhe sind jetzt rot Pitch Schuhe sind jetzt rot Piet hat jetzt rote Schuhe aber ist Pete traurig tschüss nein so ein Quatsch piept weint nicht Pete geht weiter auf der Straße und Pie singt ich liebe meine roten Schuhe ich liebe meine roten Schuhe ich liebe meine roten Schuhe aber auf der Straße sind Blaubeeren auf der Straße sind Blaubeeren und sieht die Blaubeeren nicht und Piet tritt in die Blaubeeren oh nein sind Piets Schuhe jetzt nein peace Schuhe sind jetzt blau Piet hat jetzt blaue Schuhe peter hat blaue Schuhe ist Piet traurig weint nein so ein Quatsch Piet weint nicht Piet geht weiter auf der Straße und singt ich liebe meine blauen Schuhe ich liebe meine blauen Schuhe ich liebe meine blauen Schuhe aber oh nein auf der Straße ist Schokolade auf der Straße ist Schokolade viel Schokolade und Piet sieht die Schokolade nicht und Piet tritt in die Schokolade oh nein ist pietsschuh jetzt blau nein pietschuh ist jetzt braun Piet hat jetzt braune Schuhe Pete hat braune Schuhe ist piept traurig weint Pete nein so ein Quatsch Pete weint nicht Pete geht weiter auf der Straße und singt ich liebe meine braunen Schuhe ich liebe meine braunen Schuhe ich liebe meine braunen Schuhe aber auf der Straße ist Wasser auf der Straße ist Wasser was Wasser ja Wasser kann man trinken und auf der Straße ist eine Pfütze eine Pfütze und Piet sieht die Pfütze nicht Pete geht auf der Straße und singt und tritt in die Pfütze oh nein das Wasser in der Pfütze wäscht waschen wäscht ich wasche meine Hände eine Hand zwei Hände das Wasser die Pfütze wäscht die Schuhe und das Braun verschwindet und das Blau geht weg und rot geht weg und Piets Schuhe sind nicht braun sie sind nicht blau sie sind nicht rot peace Schuhe sind jetzt sieht man nicht Pete Schuhe sind jetzt weiß Peach Schuhe sind wieder weiß Pete hat weiße Schuhe aber Peach Schuhe sind weiß und Pikachu sind Peach Schuhe sind jetzt nass oh Wasser an den Schuhen Pete hat jetzt nasse Schuhe ist traurig nein weint nein Pete geht weiter auf der Straße und Piet singt ich liebe meine nassen Schuhe ich liebe meine nassen Schuhe das Ende",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5032
+  "src": "auto"
  },
  "wEUc86_meqg": {
   "channel": "Learn German by Listening (DldH)",
@@ -11096,73 +11167,18 @@
  "YDiy4LjI8mw": {
   "channel": "tagesschau",
   "lang": "de",
-  "checked": "2026-11-06T16:45:50+00:00",
+  "checked": "2026-11-09T16:23:46+00:00",
   "title": "Ilse Aigner soll Bundespräsidentin werden – Union laut ARD-Informationen einig",
   "duration": 191,
   "published": "20261106",
   "spoken": "de",
   "spoken_v": 2,
-  "pace": 170.2,
-  "rare": 0.0788,
-  "speech_s": 192.5,
-  "tokens": 546,
+  "pace": 170.4,
+  "rare": 0.0713,
+  "var": 0.8214,
+  "speech_s": 192.6,
+  "tokens": 547,
   "kw": [
-   [
-    "bundespräsidentin",
-    "Bundespräsidentin vorschlagen. Das hat unser die Hauptstadtstudio aus",
-    7,
-    14,
-    2.2,
-    3
-   ],
-   [
-    "landtagspräsidentin",
-    "derzeit ja noch Landtagspräsidentin in Bayern. Welche Erfahrung bringt sie denn",
-    21,
-    27,
-    2.61,
-    2
-   ],
-   [
-    "ähm",
-    "ähm politischen Karrieren tatsächlich ist. Also ähm wenn wir gleich noch mal",
-    68,
-    74,
-    4.12,
-    7
-   ],
-   [
-    "eigner",
-    "will die CSU Politikerin Ilse Eigner als",
-    4,
-    10,
-    3.26,
-    2
-   ],
-   [
-    "ilse",
-    "will die CSU Politikerin Ilse Eigner als",
-    4,
-    10,
-    3.59,
-    2
-   ],
-   [
-    "oberbayern",
-    "Oberbayern, sie kommt aus dem Ort",
-    87,
-    91,
-    3.72,
-    2
-   ],
-   [
-    "landtag",
-    "Landtag, aber sie bringt äh eine sehr",
-    54,
-    60,
-    4.3,
-    4
-   ],
    [
     "sehen",
     "Besonderes. Hier sehen wir sie. Sie war",
@@ -11170,6 +11186,14 @@
     43,
     5.69,
     6
+   ],
+   [
+    "bringt",
+    "Bayern. Welche Erfahrung bringt sie dann",
+    23,
+    27,
+    5.21,
+    5
    ],
    [
     "politische",
@@ -11180,12 +11204,12 @@
     5
    ],
    [
-    "bringt",
-    "Bayern. Welche Erfahrung bringt sie denn",
-    23,
-    27,
-    5.21,
-    5
+    "geschichte",
+    "etwas andere Geschichte mitbringt. Welche Geschichte bringt sie denn mit?",
+    79,
+    87,
+    5.45,
+    4
    ],
    [
     "bayerischen",
@@ -11196,42 +11220,82 @@
     5
    ],
    [
-    "tatsächlich",
-    "ja auch tatsächlich schon auf Bundesebene aktiv, nicht nur in Bayern,",
-    41,
-    47,
-    5.11,
+    "landtag",
+    "Landtag, aber sie bringt äh eine sehr",
+    54,
+    60,
+    4.3,
     4
    ],
    [
-    "geschichte",
-    "etwas andere Geschichte mitbringt. Welche Geschichte bringt sie denn mit?",
-    79,
-    88,
-    5.45,
-    4
-   ],
-   [
-    "relativ",
-    "Na ja, sie bringt äh relativ viel",
-    28,
-    33,
-    4.81,
-    3
-   ],
-   [
-    "lange",
+    "karriere",
     "sehr sehr lange politische Karriere tatsächlich schon mit, die aber äh gar",
     57,
     64,
-    5.59,
+    4.7,
     3
+   ],
+   [
+    "mögliche",
+    "Aigner als mögliche Nachfolgerin, derzeit ja noch Landtagspräsidentin in",
+    19,
+    26,
+    4.56,
+    2
+   ],
+   [
+    "ähm",
+    "ähm politischen Karrieren tatsächlich ist. Also ähm wenn wir gleich noch mal",
+    68,
+    74,
+    4.12,
+    4
+   ],
+   [
+    "oberbayern",
+    "Oberbayern. Sie kommt aus dem Ort",
+    87,
+    91,
+    3.72,
+    2
+   ],
+   [
+    "ilse",
+    "will die CSU-Politikerin Ilse Aigner als",
+    4,
+    10,
+    3.59,
+    2
+   ],
+   [
+    "aigner",
+    "will die CSU-Politikerin Ilse Aigner als",
+    4,
+    10,
+    3.26,
+    2
+   ],
+   [
+    "bundespräsidentin",
+    "Bundespräsidentin vorschlagen. Das hat unser ARD-Hauptstadtstudio aus",
+    7,
+    14,
+    2.2,
+    3
+   ],
+   [
+    "landtagspräsidentin",
+    "derzeit ja noch Landtagspräsidentin in Bayern. Welche Erfahrung bringt sie dann",
+    21,
+    27,
+    2.61,
+    2
    ]
   ],
-  "tx": "Ihr Name war schon länger im Gespräch. Jetzt steht es offenbar fest. Die Union will die CSU Politikerin Ilse Eigner als Bundespräsidentin vorschlagen. Das hat unser die Hauptstadtstudio aus Parteikreisen erfahren. Markus Pfeifer in der Tagesschauredaktion. Nach zwei Amtszeiten scheidet Frank Walter Steinmeier im Frühjahr als Bundespräsident aus. Jetzt also Ilse Eigner als mögliche Nachfolgerin, derzeit ja noch Landtagspräsidentin in Bayern. Welche Erfahrung bringt sie denn ansonsten mit für eine mögliche Bundespräsidentschaft? Na ja, sie bringt äh relativ viel politische Erfahrung mit. Man könnte auch sagen, sie ist eine Frau aus dem Volke. So kann man das zusammenfassen. Wenn man mal auf ihre Biografie guckt, die ist ja doch etwas relativ Besonderes. Hier sehen wir sie. Sie war ja auch tatsächlich schon auf Bundesebene aktiv, nicht nur in Bayern, wie du das jetzt eben gerade gesagt hast. Hier sehen wir sie bei der Vereidigung als Landwirtschaftsministerin. Im Moment ist sie ja und das sehen wir hier auf diesen Bildern, die Landtagspräsidentin im bayerischen Landtag, aber sie bringt äh eine sehr sehr sehr lange politische Karriere tatsächlich schon mit, die aber äh gar nicht so als politische Karriere tatsächlich angelegt war und auch keine dieser von dem Hörsaal in den Plenarsaal ähm politischen Karrieren tatsächlich ist. Also ähm wenn wir gleich noch mal ein bisschen auf die politische Karriere gucken von ihr, dann äh dürfte man durchaus sehen, dass sie ähm ja eine etwas andere Geschichte mitbringt. Welche Geschichte bringt sie denn mit? Ja, also sie ist aufgewachsen in Oberbayern, sie kommt aus dem Ort Feldkirchen Westarm. Hier sehen wir auch Kindheitsbilder. Äh, das ist so auf der halben Strecke zwischen München und Rosenheim. Dann hat sie die mittlere Reife gemacht",
+  "tx": "Ihr Name war schon länger im Gespräch. Jetzt steht es offenbar fest. Die Union will die CSU-Politikerin Ilse Aigner als Bundespräsidentin vorschlagen. Das hat unser ARD-Hauptstadtstudio aus Parteikreisen erfahren. Markus Pfeifer in der Tagesschau-Redaktion. Nach zwei Amtszeiten scheidet Frank-Walter Steinmeier im Frühjahr als Bundespräsident aus. Jetzt also Ilse Aigner als mögliche Nachfolgerin, derzeit ja noch Landtagspräsidentin in Bayern. Welche Erfahrung bringt sie dann ansonsten mit für eine mögliche Bundespräsidentschaft? Naja, sie bringt äh relativ viel politische Erfahrung mit. Man könnte auch sagen, sie ist eine Frau aus dem Volke, so kann man das zusammenfassen. Wenn man mal auf ihre Biografie guckt, die ist ja doch etwas relativ Besonderes. Hier sehen wir sie. Sie war ja auch tatsächlich schon auf Bundesebene aktiv, nicht nur in Bayern, wie du das jetzt eben gerade gesagt hast. Hier sehen wir sie bei der Vereidigung als Landwirtschaftsministerin. Im Moment ist sie ja, und das sehen wir hier auf diesen Bildern, die Landtagspräsidentin im bayerischen Landtag, aber sie bringt äh eine sehr sehr sehr lange politische Karriere tatsächlich schon mit, die aber äh gar nicht so als politische Karriere tatsächlich angelegt war und auch keine dieser von dem Hörsaal in den Plenarsaal ähm politischen Karrieren tatsächlich ist. Also ähm wenn wir gleich noch mal ein bisschen auf die politische Karriere gucken von ihr, dann äh dürfte man durchaus sehen, dass sie ähm ja eine etwas andere Geschichte mitbringt. Welche Geschichte bringt sie denn mit? Ja, also sie ist aufgewachsen in Oberbayern. Sie kommt aus dem Ort Feldkirchen-Westerham. Hier sehen wir auch Kindheitsbilder. Äh das ist so auf der halben Strecke zwischen München und Rosenheim. Dann hat sie die mittlere Reife gemacht. Sie hat nicht studiert. Sie ist aber ausgebildete Fernsehtechnikerin und dann hat sie sich auch weitergebildet für die Elektrik an den Hubschrauber, das sind an den Eurocoptern, ja? Und dann hat sie eine Geschichte, die sie eng verbindet. Hier sehen wir sie mit Markus Söder, ähm denn die beiden sind zusammen das erste Mal zusammen in den Landtag in den bayerischen Landtag gewählt worden und seitdem verbindet die beiden eine sehr sehr ja äh ja, politische Geschichte in Bayern. Sie waren beide z.B. bei Horst Seehofer im bayerischen Kabinett. Sie haben viele Wege zusammen durch gemacht, sind 1994 in den bayerischen Landtag, wie gesagt, gekommen, aber sie hat dann auch relativ bald den Sprung nach Berlin gewagt, weil sie ist eingesprungen 1998 für einen ausgefallenen CSU-Kandidaten und sie gewann direkt das Direktmandat und da sieht man, sie hat also alle politischen Ebenen einmal mitgemacht. Ganz lange jetzt die Landespolitik, davor die Bundespolitik auch als Agrarministerin und dann hat sie ja auch noch verschiedene ehrenamtliche Tätigkeiten. Also ich zähle mal einfach ein paar auf. Sie ist z.B. Vizepräsidentin des Landesverbandes Oberbayern im Deutschen Bund Deutscher Karneval. Also sie bringt auch eine gewisse närrische Seite mit, das muss man ja vielleicht auch als Bundespräsidentin haben. Sie ist Mitglied im Kuratorium des Deutschen Museums in München, war lange auch Vorsitzende der Wasserwacht beim Bayerischen Roten Kreuz. Also man könnte durchaus sagen, sie ist eine aus dem Volk, für das Volk und könnte dann ja im kommenden Jahr in der Bundesversammlung dann zur Bundespräsidentin gewählt werden. Du hast das Video bis zum Ende geschaut, dann kannst du auch ein Abo da lassen.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8319
+  "src": "auto"
  },
  "WN1WiVYLKJI": {
   "channel": "tagesschau",
@@ -13812,7 +13876,7 @@
  "x3dI5kSb_Ug": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-07T05:41:15+00:00",
+  "checked": "2026-11-09T16:07:47+00:00",
   "title": "German Expressions with MACHEN You Must Know",
   "duration": 243,
   "published": "20261105",
@@ -13820,73 +13884,10 @@
   "spoken_v": 2,
   "pace": 121.8,
   "rare": 0.1452,
+  "var": 0.7091,
   "speech_s": 244.3,
   "tokens": 496,
   "kw": [
-   [
-    "means",
-    "Machen means to make or to do in German.",
-    6,
-    12,
-    3.13,
-    7
-   ],
-   [
-    "anmachen",
-    "haben wir anmachen und ausmachen. Ich",
-    49,
-    57,
-    3.36,
-    7
-   ],
-   [
-    "actually",
-    "You can use the same one actually with",
-    33,
-    40,
-    2.93,
-    3
-   ],
-   [
-    "purzelbaum",
-    "mache einen Purzelbaum. Kannst du das nachmachen?",
-    108,
-    120,
-    2.26,
-    2
-   ],
-   [
-    "sentence",
-    "Write one sentence with one of these",
-    213,
-    219,
-    2.38,
-    2
-   ],
-   [
-    "same",
-    "You can use the same one actually with",
-    33,
-    40,
-    3.76,
-    5
-   ],
-   [
-    "nachmachen",
-    "Kannst du das nachmachen? Nachmachen means like can you copy me?",
-    113,
-    123,
-    3.31,
-    3
-   ],
-   [
-    "can",
-    "You can use the same one actually with",
-    33,
-    40,
-    4.22,
-    10
-   ],
    [
     "the",
     "You can use the same one actually with",
@@ -13912,14 +13913,6 @@
     9
    ],
    [
-    "mach",
-    "bitte? Anja, mach weiter. Mitmachen, means to join or to do the",
-    143,
-    153,
-    5.1,
-    6
-   ],
-   [
     "kannst",
     "actually. Du kannst sagen, ich mache den",
     99,
@@ -13928,34 +13921,138 @@
     6
    ],
    [
-    "fertig",
-    "jetzt fertig. Ich habe das Video fertig",
-    192,
-    201,
-    5.02,
-    6
+    "can",
+    "You can use the same one actually with",
+    33,
+    40,
+    4.22,
+    10
    ],
    [
-    "weiter",
-    "bitte? Anja, mach weiter. Mitmachen, means to join or to do the",
-    143,
-    153,
-    5.75,
+    "like",
+    "with someone. If I say like this, oh,",
+    64,
+    69,
+    4.26,
     5
    ],
    [
-    "video",
-    "jetzt fertig. Ich habe das Video fertig",
-    192,
-    201,
-    5.13,
+    "one",
+    "You can use the same one actually with",
+    33,
+    40,
+    4.65,
     4
+   ],
+   [
+    "sauber",
+    "Sauber machen. Ich mache sauber. Ich wische, also ich mache die",
+    127,
+    142,
+    4.46,
+    4
+   ],
+   [
+    "lampe",
+    "mache die Lampe an. Siehst du? Die Lampe",
+    52,
+    62,
+    3.99,
+    6
+   ],
+   [
+    "same",
+    "You can use the same one actually with",
+    33,
+    40,
+    3.76,
+    5
+   ],
+   [
+    "christine",
+    "Sehr gut, Christine. Sehr gut. Dann",
+    46,
+    53,
+    4.13,
+    4
+   ],
+   [
+    "vorhang",
+    "sagen, ich mache den Vorhang zu.",
+    11,
+    18,
+    3.82,
+    4
+   ],
+   [
+    "anmachen",
+    "haben wir anmachen und ausmachen. Ich",
+    49,
+    57,
+    3.36,
+    7
+   ],
+   [
+    "means",
+    "Machen means to make or to do in German.",
+    6,
+    12,
+    3.13,
+    7
+   ],
+   [
+    "thing",
+    "Anmachen, ausmachen, same thing. Ich mache einen Purzelbaum.",
+    105,
+    114,
+    3.48,
+    3
+   ],
+   [
+    "something",
+    "machen, means to break something, ja?",
+    171,
+    178,
+    3.39,
+    3
+   ],
+   [
+    "actually",
+    "You can use the same one actually with",
+    33,
+    40,
+    2.93,
+    3
+   ],
+   [
+    "join",
+    "Mitmachen, means to join or to do the",
+    147,
+    153,
+    2.97,
+    2
+   ],
+   [
+    "sentence",
+    "Write one sentence with one of these",
+    213,
+    219,
+    2.38,
+    2
+   ],
+   [
+    "purzelbaum",
+    "mache einen Purzelbaum. Kannst du das nachmachen?",
+    108,
+    120,
+    2.26,
+    2
    ]
   ],
-  "tx": "Hallo alle zusammen. Heute sprechen wir über Verben mitmachen. Machen means to make or to do in German. Also, wir haben hier z.B. Ich kann sagen, ich mache den Vorhang zu. Ich habe den Vorhang zugemacht. Also, das Verb ist zumachen. To close. Ich mache den Vorhang auf. To open. Ich habe den Vorhang aufgemacht. You can use the same one actually with window. Ich mache das Fenster auf. Ja, I open the window. Und ich mache das Fenster zu. Sehr gut, Christine. Sehr gut. Dann haben wir anmachen und ausmachen. Ich mache die Lampe an. Siehst du? Die Lampe ist an. Ich habe die Lampe angemacht. Anmachen can actually also be to flirt with someone. If I say like this, oh, ich mache die Lampe an, dann ist das das, ja. Anmachen can also mean, when you're like picking on someone. Warum hast du ihn so blöd angemacht? So, it can also be negative. Anmachen has a lot of meanings. Und ich mache die Lampe aus. That means to turn off. Ich habe die Lampe ausgemacht. By the way, you can also use anschalten und ausschalten, ja. You can also use those instead of anmachen. Was haben wir noch? Wir haben noch Hier ist the same actually. Du kannst sagen, ich mache den Ofen an. Ich mache den Ofen aus. Anmachen, ausmachen, same thing. Ich mache einen Purzelbaum. Kannst du das nachmachen? Nachmachen means like can you copy me? Can do the same thing? Kannst du auch einen Purzelbaum machen? Kannst du das nachmachen? Sauber machen. Ich mache sauber. Ich wische, also ich mache die Küche sauber. I'm cleaning the kitchen. Christine, kannst du mal mitmachen, bitte? Anja, mach weiter. Mitmachen, means to join or to do the same thing, ja? Kannst du bitte mitmachen? Can you join me? And what Christine said, mach weiter, is like continue. Mach weiter, weitermachen. Ich putze weiter. Ich mache weiter. Ah, ich mach",
+  "tx": "Hallo alle zusammen. Heute sprechen wir über Verben mitmachen. Machen means to make or to do in German. Also, wir haben hier z.B. Ich kann sagen, ich mache den Vorhang zu. Ich habe den Vorhang zugemacht. Also, das Verb ist zumachen. To close. Ich mache den Vorhang auf. To open. Ich habe den Vorhang aufgemacht. You can use the same one actually with window. Ich mache das Fenster auf. Ja, I open the window. Und ich mache das Fenster zu. Sehr gut, Christine. Sehr gut. Dann haben wir anmachen und ausmachen. Ich mache die Lampe an. Siehst du? Die Lampe ist an. Ich habe die Lampe angemacht. Anmachen can actually also be to flirt with someone. If I say like this, oh, ich mache die Lampe an, dann ist das das, ja. Anmachen can also mean, when you're like picking on someone. Warum hast du ihn so blöd angemacht? So, it can also be negative. Anmachen has a lot of meanings. Und ich mache die Lampe aus. That means to turn off. Ich habe die Lampe ausgemacht. By the way, you can also use anschalten und ausschalten, ja. You can also use those instead of anmachen. Was haben wir noch? Wir haben noch Hier ist the same actually. Du kannst sagen, ich mache den Ofen an. Ich mache den Ofen aus. Anmachen, ausmachen, same thing. Ich mache einen Purzelbaum. Kannst du das nachmachen? Nachmachen means like can you copy me? Can do the same thing? Kannst du auch einen Purzelbaum machen? Kannst du das nachmachen? Sauber machen. Ich mache sauber. Ich wische, also ich mache die Küche sauber. I'm cleaning the kitchen. Christine, kannst du mal mitmachen, bitte? Anja, mach weiter. Mitmachen, means to join or to do the same thing, ja? Kannst du bitte mitmachen? Can you join me? And what Christine said, mach weiter, is like continue. Mach weiter, weitermachen. Ich putze weiter. Ich mache weiter. Ah, ich mach das jetzt kaputt. Nein, wer soll denn das ganz machen? Kaputt machen, means to break something, ja? Ich mach das ba kaputt. Und Christine hat gesagt, wer soll denn das ganz machen? Ganz machen, es ist gleiche wie reparieren. Das ist ganz, that means it is fixed, it is working. And ganz machen, means that you repair something. Okay, ich bin jetzt fertig. Ich habe das Video fertig gemacht. To finish something in German, we say fertig machen. Mach das Video bitte fertig. Ich habe das Video fertig gemacht. Okay, schreibe einen Satz mit einem der Wörter in die Kommentare. Write one sentence with one of these words in the comments. So, we learned anmachen, ausmachen, fertig machen, ganz machen, sauber machen und noch ganz viele andere. Maybe you also know another word, you can also use it. Write one sentence in the comments. Danke schön und tschüss. Would you like to get the free PDF for this video? It also includes exercises and the whole explanation. If you're interested, check the link in the",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.704
+  "src": "auto"
  },
  "67JctFS_CoU": {
   "channel": "Deutsch mit Benjamin",
