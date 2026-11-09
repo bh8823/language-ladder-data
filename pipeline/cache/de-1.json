@@ -1306,13 +1306,134 @@
  "qD-OCKiwXjA": {
   "channel": "Nicos Weg (DW)",
   "lang": "de",
-  "checked": "2026-10-28T01:15:20+00:00",
+  "checked": "2026-11-09T02:44:41+00:00",
   "title": "Deutsch lernen mit Videos | Arbeiten im Alter? Ein Wiener Café zeigt wie | mit deutschen Untertiteln",
-  "duration": 0,
+  "duration": 289,
   "published": "20260924",
-  "status": "error",
-  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
-  "tries": 1
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 175.3,
+  "rare": 0.0612,
+  "var": 0.8434,
+  "speech_s": 234.9,
+  "tokens": 686,
+  "kw": [
+   [
+    "arbeiten",
+    "Arbeiten im Ruhestand? In diesem Wiener Café ist das möglich.",
+    0,
+    4,
+    5.4,
+    5
+   ],
+   [
+    "unternehmen",
+    "wo wir grad mit vielen Unternehmen",
+    168,
+    171,
+    5.38,
+    3
+   ],
+   [
+    "stunden",
+    "Die Schichten für die Mitarbeitenden im Rentenalter dauern fünf Stunden,",
+    109,
+    114,
+    5.36,
+    3
+   ],
+   [
+    "fünf",
+    "Die Schichten für die Mitarbeitenden im Rentenalter dauern fünf Stunden,",
+    109,
+    114,
+    5.29,
+    3
+   ],
+   [
+    "oma",
+    "Marianne Hofmann ist heute „Oma vom Dienst“.",
+    27,
+    31,
+    4.49,
+    4
+   ],
+   [
+    "kuchen",
+    "Ihr werdet gar nicht wissen, welchen Kuchen ihr nehmen sollt.",
+    35,
+    39,
+    4.48,
+    4
+   ],
+   [
+    "dienst",
+    "Marianne Hofmann ist heute „Oma vom Dienst“.",
+    27,
+    31,
+    4.76,
+    3
+   ],
+   [
+    "gäste",
+    "Ihr Job: sich um die Gäste kümmern.",
+    30,
+    33,
+    4.73,
+    3
+   ],
+   [
+    "marianne",
+    "Marianne Hofmann ist heute „Oma vom Dienst“.",
+    27,
+    31,
+    3.9,
+    3
+   ],
+   [
+    "schichten",
+    "Die Schichten für die Mitarbeitenden im Rentenalter dauern fünf Stunden,",
+    109,
+    114,
+    4.11,
+    2
+   ],
+   [
+    "ruhestand",
+    "Arbeiten im Ruhestand? In diesem Wiener Café ist das möglich.",
+    0,
+    4,
+    4.07,
+    2
+   ],
+   [
+    "altersarmut",
+    "Altersarmut und Einsamkeit sind für viele ältere Menschen in Europa",
+    7,
+    11,
+    3.32,
+    3
+   ],
+   [
+    "cafés",
+    "auch in den anderen Cafés. Und wenn des vorhanden ist,",
+    82,
+    87,
+    3.52,
+    2
+   ],
+   [
+    "vollpension",
+    "in der Vollpension. Wie oft sie arbeitet, entscheidet sie selbst.",
+    105,
+    110,
+    2.56,
+    4
+   ]
+  ],
+  "tx": "Arbeiten im Ruhestand? In diesem Wiener Café ist das möglich. Schön, dass ihr hier seid. Ihr wisst eigentlich, um was es geht bei uns? Altersarmut und Einsamkeit sind für viele ältere Menschen in Europa ein Problem. Besonders Frauen sind finanziell gefährdet. Jede fünfte Frau über 65 Jahre ist in Österreich von Altersarmut betroffen. Es ist schwierig: Eine Reparatur, irgendwas, ich könnte mir zusätzlich nichts leisten. Und drum bin ich über den Zuverdienst sehr froh. Marianne Hofmann ist heute „Oma vom Dienst“. Ihr Job: sich um die Gäste kümmern. Ihr werdet gar nicht wissen, welchen Kuchen ihr nehmen sollt. Mit 81 Jahren ist sie längst im Ruhestand. Hier kann sie ihre Rente aufbessern, hat Kontakt zu Menschen und eine Aufgabe. Entschuldige, ich muss dich da hinten betatschen. Das macht mich narrisch, wenn so ein Schild da raushängt. Ich red’ gern. Ich brauch die Gäste, ich brauch ein bisschen Erleben. Nur zu Hause sitzen, nein, das wäre nix für mich. Das würde ich nicht aushalten. Die Gäste merken von diesem Hintergrund erstmal wenig. Viele kommen vor allem wegen der Kuchen. Die Idee der Gründer: Nirgends schmeckt der Kuchen so gut wie bei Oma. Neben den „Omas vom Dienst“ arbeiten hier deswegen auch „Backomas“ und „Backopas“. Also drei, vier Sachen haben wir immer: Das ist a Apfelstrudel, a Sachertorte, a Mohntorte und a Linzer. Die haben wir immer, auch in den anderen Cafés. Und wenn des vorhanden ist, können wir uns austoben. Und das ist halt der Vorteil, dass… jede Oma, die da ist, macht des, was sie am besten kann. Und somit kriegen die Leute immer das Beste vom Besten. Heute backt Ljiljana Winkelbauer ihren Germknödelkuchen. Bis letzten Herbst hat sie als Jugendcoach gearbeitet. Direkt nach dem Renteneintritt startete sie mit dem Job in der Vollpension. Wie oft sie",
+  "status": "ok",
+  "src": "cc"
  },
  "X2NPTSVuGiM": {
   "channel": "Easy German",
@@ -17530,6 +17651,1189 @@
    ]
   ],
   "tx": "Schneequelle. Hallo Spaßfreund. Bär, komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch. Nimm mich mit. 1 2 3 und 4. 1 2 3 und 4. Oi! 1 2 1 2 1 2 1 2 Oh oh oh. 1 2 1 2 Los! Los! Wow! Hey Bär, kannst du das auch machen? Ich Hopp, hopp, hoppa! Hopp, hopp, hoppa! Du fängst mich nicht, du fängst mich nicht! Ja, ich glaube, wir müssten jetzt noch viel mehr trainieren. Gönn dir 5 Minuten Pause. 3, 2, und die Pause ist rum. Und jetzt trainieren wir, ähm, indem wir auf den Ball springen. Nur keine Panik, wir werden auch an deinem Gebrüll arbeiten. Was für ein toller Spagat. Warum magst du dann kein springen? Okay, gar kein Problem. Ich werde schon noch ein Champion aus dir machen. Das war toll, gut gebrüllt. Du dummer Schien. Nicht aufhören. Versuch jetzt so das Gleichgewicht zu halten. Und jetzt die letzte Übung. Springen von einem Baum. Das war sehr knapp, aber du hast es verfehlt. Ich finde die Blumen sehen so hübsch aus. Gutes Timing, Bär. Lass uns jetzt endlich mit der Gruppenübung beginnen. Lauft weiter, meine Bären. Lauft weiter. Gesundheit. Wieso ist es aus? Hat die Batterie den Geist aufgegeben? Honigbienen, wollt ihr auch etwas Süßes? Juhu, wer hat das Radio repariert? Aber die ganzen Süßigkeiten sind leer. Sie sehen irgendwie nicht gut aus. Bär, wir müssen den Krankenwagen rufen. Hier steht, dass sie zu schwer sind. Sie müssen sich bewegen. Aha, jetzt ist alles klar. Bär, wir brauchen Süßigkeiten für das Training. Und jetzt beginnen wir mit unserer Turnstunde. Stellt eure Füße in schulterbreite auf. Streckt die Arme zu den Seiten aus und 1 2 3 4 Nicht den Atem anhalten. 1 2 3 4 1 2 3 Schön gerade halten. Streckt euch mehr an. Streckt euch mehr an, meine Freunde. Sieh sie nur an. Was können wir ohne Süßes schon erreichen? Es ",
+  "status": "ok",
+  "src": "auto"
+ },
+ "rYWdcMAGVfE": {
+  "channel": "Learn German with Anja",
+  "lang": "de",
+  "checked": "2026-11-09T02:45:12+00:00",
+  "title": "What to Say When Shopping in Germany (With Real-Life Dialogue!)",
+  "duration": 651,
+  "published": "20260115",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 141.5,
+  "rare": 0.143,
+  "var": 0.7477,
+  "speech_s": 643.9,
+  "tokens": 1518,
+  "kw": [
+   [
+    "the",
+    "would of klamotten the same as close",
+    70,
+    78,
+    5.62,
+    36
+   ],
+   [
+    "you",
+    "By the way, if you want to get PDF for",
+    89,
+    95,
+    4.84,
+    32
+   ],
+   [
+    "and",
+    "in this video. And you also get",
+    101,
+    107,
+    5.22,
+    14
+   ],
+   [
+    "ihnen",
+    "Hallo, kann ich Ihnen helfen? Oh ja, bitte. Haben Sie diesen Pullover",
+    0,
+    7,
+    5.74,
+    13
+   ],
+   [
+    "this",
+    "in this video. And you also get",
+    101,
+    107,
+    4.51,
+    30
+   ],
+   [
+    "can",
+    "description you can download it for",
+    95,
+    100,
+    4.22,
+    17
+   ],
+   [
+    "good",
+    "good, Chunk. Unfortunately not. Leider der nicht. Nur die Größen, die hier",
+    144,
+    153,
+    4.2,
+    14
+   ],
+   [
+    "like",
+    "You can remember. Das ist like in the",
+    245,
+    253,
+    4.26,
+    9
+   ],
+   [
+    "say",
+    "Ja, ist formally. How would you say this",
+    120,
+    127,
+    3.68,
+    14
+   ],
+   [
+    "very",
+    "klamott very informal sometimes ist klamottenladen",
+    73,
+    85,
+    3.67,
+    12
+   ],
+   [
+    "it's",
+    "This means the changing rooms. It's the",
+    227,
+    233,
+    3.96,
+    8
+   ],
+   [
+    "bit",
+    "etwas größer. A little bit bigger. Etwas",
+    287,
+    293,
+    3.92,
+    8
+   ],
+   [
+    "means",
+    "means der Laden oder das Geschäft.",
+    84,
+    93,
+    3.13,
+    9
+   ],
+   [
+    "would",
+    "would of klamotten the same as close",
+    70,
+    78,
+    3.5,
+    8
+   ],
+   [
+    "something",
+    "on something. And the an goes to the",
+    166,
+    173,
+    3.39,
+    7
+   ],
+   [
+    "remember",
+    "You can remember. Das ist like in the",
+    245,
+    253,
+    3.19,
+    6
+   ],
+   [
+    "chunk",
+    "good, Chunk. Unfortunately not. Leider der nicht. Nur die Größen, die hier",
+    144,
+    153,
+    2.13,
+    9
+   ],
+   [
+    "anprobieren",
+    "anprobieren means to try on. I am trying",
+    163,
+    169,
+    2.84,
+    6
+   ],
+   [
+    "umkleidekabinen",
+    "Und wo sind die Umkleidekabinen? Die Umkleidekabinen sind da hinten in",
+    13,
+    20,
+    2.68,
+    5
+   ],
+   [
+    "actually",
+    "what we also informally actually what",
+    66,
+    74,
+    2.93,
+    4
+   ]
+  ],
+  "tx": "Hallo, kann ich Ihnen helfen? Oh ja, bitte. Haben Sie diesen Pullover auch in der Größe es? Leider nicht. Nur die Größen, die hier hängen. Ah, okay. Na ja, gut, dann probiere ich den mal an. Der wird passen. Und wo sind die Umkleidekabinen? Die Umkleidekabinen sind da hinten in der Ecke. Da steht Anprobe oben drüber. Ah ja, vielen Dank. Gerne. Hallo, alles gut bei Ihnen? Kann ich Ihnen helfen? Ja, bitte. Haben Sie dieses T-Shirt auch etwas größer? Ja, das ist wirklich sehr eng. Ich schaue mal nach. Auf jeden Fall haben wir das größer. Ja, das sitzt wirklich sehr eng. Und äh haben Sie diese Hose vielleicht noch in einer anderen Farbe, etwas helleres? Oh ja, ich glaube, wir haben die noch in einem helleren Grün. Ich würde es ihn bringen. Oh, vielen Dank. Sehr gerne. Bis gleich. So, heute gehen wir ins Kleidungsgeschäft. will go kleidungsgeschäft ja often bekleidungsgeschäft sokkleidungsgeschäft what we also informally actually what would of klamotten the same as close klamott very informal sometimes ist klamottenladen der laden ist das same das gesch means der Laden oder das Geschäft. By the way, if you want to get PDF for free worksheet, check the link in the description you can download it for free. You get the transcript also more common phrases, ja will talk about also in this video. And you also get exercises, Übungen exercises, ja, which you can do. solution. Okay. Alri, los geht's. Hallo, kann ich Ihnen helfen? Can I help you formally? Ja, ist formally. How would you say this informally? Kann ich dir helfen? Kann ich dir helfen? Ja, bitte. Haben Sie diesen Pullover auch in der Größe S? Die Größe ist ein z.B. Ich trage die Größe M. I wear the size M. Leider nicht. Very good, Chunk. Unfortunately not. Leider der nicht. Nur die Größen, die hier hängen. Only the sizes ",
+  "status": "ok",
+  "src": "auto"
+ },
+ "qeIWSnWUorg": {
+  "channel": "Get Germanized",
+  "lang": "de",
+  "checked": "2026-11-09T02:46:10+00:00",
+  "title": "Why Germans Stay Quiet Until They Snap",
+  "duration": 723,
+  "published": "20260620",
+  "spoken": "en",
+  "spoken_v": 2,
+  "status": "wronglang"
+ },
+ "uJFbyl-7Rlg": {
+  "channel": "Deutsch mit Marija",
+  "lang": "de",
+  "checked": "2026-11-09T02:49:08+00:00",
+  "title": "Sprachgefühl LERNEN - geht das?? Deutsch C1 C2",
+  "duration": 646,
+  "published": "20260411",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 135.1,
+  "rare": 0.0508,
+  "var": 0.7818,
+  "speech_s": 647.5,
+  "tokens": 1458,
+  "kw": [
+   [
+    "hast",
+    "und du hast irgendwie im Gefühl, wann er",
+    260,
+    267,
+    5.75,
+    16
+   ],
+   [
+    "sprache",
+    "es gar nicht in jeder Sprache gibt.",
+    28,
+    35,
+    5.07,
+    11
+   ],
+   [
+    "sondern",
+    "käuflich erwerben, sondern man kann es",
+    102,
+    107,
+    5.77,
+    10
+   ],
+   [
+    "vielleicht",
+    "glaube, ich las vielleicht eine Zeitung",
+    217,
+    222,
+    5.72,
+    7
+   ],
+   [
+    "texte",
+    "Texte, Texte in verschiedenen Registern äh die für verschiedene Zwecke",
+    167,
+    176,
+    4.6,
+    7
+   ],
+   [
+    "schwimmen",
+    "würdest du darin schwimmen. Und schwimmen ist auch ein Prozess, der viel",
+    439,
+    447,
+    4.38,
+    6
+   ],
+   [
+    "kennst",
+    "Intuition sprechen, dann kennst du das",
+    249,
+    257,
+    4.45,
+    4
+   ],
+   [
+    "brauchst",
+    "brauchst ein Sprachgefühl dafür. Und ich finde, es ist etwas sehr",
+    63,
+    71,
+    4.59,
+    3
+   ],
+   [
+    "trainieren",
+    "ich trainieren kann? Also, ich kann",
+    80,
+    85,
+    4.15,
+    4
+   ],
+   [
+    "verstehst",
+    "wenn du verstehst, dass du eigentlich",
+    70,
+    77,
+    4.15,
+    3
+   ],
+   [
+    "blume",
+    "kann es ja wirklich wie eine Blume",
+    137,
+    143,
+    3.94,
+    3
+   ],
+   [
+    "sollst",
+    "Sprache existiert, lernen sollst und die",
+    149,
+    157,
+    4.19,
+    2
+   ],
+   [
+    "züchten",
+    "man kann es tatsächlich züchten, man",
+    134,
+    142,
+    3.43,
+    3
+   ],
+   [
+    "konstruktiv",
+    "und nicht immer konstruktiv. Und konstruktiv in dem Sinne, dass ihr dann,",
+    319,
+    327,
+    3.55,
+    2
+   ],
+   [
+    "gepflanzt",
+    "diesem Topf hast du etwas gepflanzt und",
+    520,
+    526,
+    3.52,
+    2
+   ],
+   [
+    "kurzgeschichten",
+    "Kurzgeschichten. Ich empfehle z.B. sehr gerne die Bücher von Elke Heidenreich.",
+    577,
+    585,
+    3.47,
+    2
+   ],
+   [
+    "sprachgefühl",
+    "Sprachgefühl sprechen. Sprachgefühl ist, wie ich feststellen durfte, etwas, was",
+    21,
+    31,
+    2.39,
+    11
+   ],
+   [
+    "muttersprachler",
+    "nur Muttersprachler und auch die nicht alle.",
+    4,
+    13,
+    2.82,
+    6
+   ],
+   [
+    "beschäftigst",
+    "beschäftigst, nicht nur im Lehrbuch, sondern durchaus auch literarische",
+    162,
+    172,
+    2.46,
+    3
+   ]
+  ],
+  "tx": "Hallo meine Lieben. Angeblich haben es nur Muttersprachler und auch die nicht alle. Hm, worum könnte es sich handeln? Nein, es geht nicht um die deutsche Staatsangehörigkeit. Ich möchte mit euch heute über das Sprachgefühl sprechen. Sprachgefühl ist, wie ich feststellen durfte, etwas, was es gar nicht in jeder Sprache gibt. Jedenfalls der Begriff existiert, z.B. im Russischen nicht. Ich habe lange gesucht und nichts vernünftiges gefunden, außer sprachliche Intuition, wenn man das so sinngemäß übersetzt. Ich wette, ihr habt schon in euren Sprachkursen von euren äh Lehrern, falls ihr einzelnen Unterricht genommen hattet, den Satz gehört, ja, hm, das kannst du nicht lernen, das musst du im Gefühl haben. Du brauchst ein Sprachgefühl dafür. Und ich finde, es ist etwas sehr frustrierendes, wenn du verstehst, dass du eigentlich nichts dafür tun kannst, um es zu verbessern. Also, was bedeutet Sprachgefühl? Ist es wie ein Muskel, den ich trainieren kann? Also, ich kann Aussprache trainieren, aber wie kann man Sprachgefühl trainieren? Und heute möchte ich mit dem Vorurteil aufräumen, das Sprachgefühl etwas ist, was nur Muttersprachler oder fast Muttersprachler besitzen. Man kann es nicht trainieren, man kann es nicht irgendwie erwerben und ich meine nicht käuflich erwerben, sondern man kann es irgendwie nicht ja erarbeiten. Man kann es nur entweder haben oder nicht haben. Das ist irgendwie unlogisch. Also, ich möchte es auch nicht mit Talent gleichsetzen. Äh ja, es gibt so etwas wie ein Sprachtalent, aber darüber wollen wir heute nicht sprechen. Das Sprachgefühl ist dann aus meiner Sicht etwas, was m durch sehr viel Beschäftigung mit der Sprache nach und nach entsteht. Also, man kann es tatsächlich züchten, man kann es ja wirklich wie eine Blume züchten, indem man sich viel mit d",
+  "status": "ok",
+  "src": "auto"
+ },
+ "F33O09wCcjE": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-09T02:49:30+00:00",
+  "title": "ARD-Korrespondentin beantwortet Fragen zum Tod Hubert Aiwangers",
+  "duration": 404,
+  "published": "20261105",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 151.8,
+  "rare": 0.0749,
+  "var": 0.8276,
+  "speech_s": 390.5,
+  "tokens": 988,
+  "kw": [
+   [
+    "eben",
+    "Partei, aber eben auch beim Koalitionspartner. Wir haben es gehört.",
+    39,
+    46,
+    5.39,
+    12
+   ],
+   [
+    "freien",
+    "Aiwanger hat die Freien Wähler über zwei",
+    62,
+    67,
+    4.88,
+    11
+   ],
+   [
+    "partei",
+    "der eigenen Partei. Der bayerische Digitalminister",
+    11,
+    19,
+    5.14,
+    9
+   ],
+   [
+    "bayern",
+    "Bayern, Ilse Aigner, die von einem",
+    56,
+    62,
+    5.23,
+    7
+   ],
+   [
+    "wähler",
+    "Aiwanger hat die Freien Wähler über zwei",
+    62,
+    67,
+    4.53,
+    8
+   ],
+   [
+    "angekommen",
+    "angekommen. Er war wortgewandt. Kritiker sagen, er hat auch gerne mal",
+    95,
+    104,
+    4.51,
+    4
+   ],
+   [
+    "markus",
+    "Markus Söder, der bayerische Ministerpräsident, hat sich kurz nachdem",
+    44,
+    50,
+    4.43,
+    4
+   ],
+   [
+    "gesprochen",
+    "einer absoluten Tragödie gesprochen, aber auch die Landtagspräsidentin in",
+    52,
+    60,
+    4.74,
+    3
+   ],
+   [
+    "hubert",
+    "Der Tod von Hubert Aiwanger kam völlig",
+    0,
+    5,
+    4.01,
+    10
+   ],
+   [
+    "söder",
+    "Markus Söder, der bayerische Ministerpräsident, hat sich kurz nachdem",
+    44,
+    50,
+    3.71,
+    5
+   ],
+   [
+    "bayerische",
+    "der eigenen Partei. Der bayerische Digitalminister",
+    11,
+    19,
+    4.17,
+    3
+   ],
+   [
+    "wählern",
+    "mit den Freien Wählern eingehen wollte,",
+    286,
+    292,
+    3.72,
+    3
+   ],
+   [
+    "koalitionspartner",
+    "Koalitionspartner. Wir haben es gehört. Markus Söder, der bayerische",
+    41,
+    48,
+    3.38,
+    3
+   ],
+   [
+    "konkurrent",
+    "aber eben auch ein Konkurrent. Wie hat",
+    227,
+    232,
+    3.38,
+    3
+   ],
+   [
+    "flugblatt",
+    "die Flugblatt-Affäre von 2023 in Erinnerung. Damals hatte die",
+    169,
+    178,
+    3.08,
+    3
+   ],
+   [
+    "regierungskoalition",
+    "2018 in die Regierungskoalition mit der",
+    82,
+    89,
+    3.1,
+    2
+   ],
+   [
+    "aiwanger",
+    "Der Tod von Hubert Aiwanger kam völlig",
+    0,
+    5,
+    2.44,
+    15
+   ],
+   [
+    "bestürzung",
+    "Bestürzung groß. Zum einen natürlich in",
+    9,
+    14,
+    2.92,
+    2
+   ],
+   [
+    "konservatives",
+    "dann als konservatives Regierungsbündnis, als erfolgreiches",
+    237,
+    244,
+    2.59,
+    2
+   ]
+  ],
+  "tx": "Der Tod von Hubert Aiwanger kam völlig überraschend. Wie groß ist der Schock in der bayerischen Politik? Der Schock ist immens riesig, die Bestürzung groß. Zum einen natürlich in der eigenen Partei. Der bayerische Digitalminister Mehring hat sich zu Wort gemeldet. Er spricht von einem Schockmoment. Er war ja auch in Berlin bei dieser Veranstaltung, auf der Hubert Aiwanger auftreten sollte. Er wollte eigentlich gestern noch mit Hubert Aiwanger zu Mittagessen, hat er geschrieben und sei dann eigentlich von einem Schnupfen ausgegangen bei Hubert Aiwanger. Also ganz große Bestürzung in der eigenen Partei, aber eben auch beim Koalitionspartner. Wir haben es gehört. Markus Söder, der bayerische Ministerpräsident, hat sich kurz nachdem der Tod bekannt geworden ist, in den sozialen Medien zu Wort gemeldet, von einer absoluten Tragödie gesprochen, aber auch die Landtagspräsidentin in Bayern, Ilse Aigner, die von einem großen Verlust für die Politik in Bayern gesprochen hat. Aiwanger hat die Freien Wähler über zwei Jahrzehnte geprägt und sie bis in die Staatsregierung Bayerns dann auch geführt. Was hat diesen Mann politisch eigentlich so erfolgreich gemacht? Also, du hast es gesagt, 20 Jahre lang das Gesicht der Freien Wähler, 2008 erstmals in den Landtags, also in den Landtag geführt und dann 2018 in die Regierungskoalition mit der CSU. Er galt als nahbar, hat die Menschen auf dem Land angesprochen, hat auch gerne Hände geschüttelt, Selfies gemacht mit den Menschen. Das ist gut angekommen. Er war wortgewandt. Kritiker sagen, er hat auch gerne mal populistische Reden geschwungen, aber das ist gut angekommen bei den Menschen, dass er ihnen gesagt hat, er setzt sich für die Interessen der Menschen in Bayern ein. Du hast es schon ein bisschen angedeutet. Er war ein bisschen ein ande",
+  "status": "ok",
+  "src": "auto"
+ },
+ "_FANZRkduAo": {
+  "channel": "Deutsch mit Rieke",
+  "lang": "de",
+  "checked": "2026-11-09T02:50:55+00:00",
+  "title": "Sprich Deutsch wie ein Muttersprachler! (B2/C1)",
+  "duration": 599,
+  "published": "20260607",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 133.1,
+  "rare": 0.0374,
+  "var": 0.784,
+  "speech_s": 590.3,
+  "tokens": 1309,
+  "kw": [
+   [
+    "mag",
+    "„Mag sein\", „halb so wild\", „Das kann ja heiter werden\": Solche und ähnliche Ausdrücke",
+    0,
+    8,
+    5.32,
+    15
+   ],
+   [
+    "vielleicht",
+    "gefragt. “Mag sein” bedeutet so viel wie “Das stimmt vielleicht,",
+    103,
+    110,
+    5.72,
+    10
+   ],
+   [
+    "euch",
+    "geht es heute. Sie helfen euch dabei, gesprochenes Deutsch besser zu verstehen",
+    18,
+    23,
+    5.71,
+    10
+   ],
+   [
+    "beispiel",
+    "dasselbe wie “Ich glaube nicht”. Noch ein Beispiel:",
+    56,
+    61,
+    5.35,
+    8
+   ],
+   [
+    "ausdruck",
+    "ganz sicher. In dieser Situation haben wir in der gesprochenen Sprache einen praktischen Ausdruck,",
+    35,
+    42,
+    4.53,
+    9
+   ],
+   [
+    "sage",
+    "eine Entschuldigung wie hier. Ich sage: “Kein Problem, mach dir keine Sorgen,",
+    254,
+    260,
+    4.78,
+    7
+   ],
+   [
+    "wüsste",
+    "nämlich “nicht, dass ich wüsste”. Hier ist ein kleiner Beispieldialog:",
+    41,
+    47,
+    4.28,
+    7
+   ],
+   [
+    "schlimm",
+    "das ist nicht so schlimm wie du denkst. Das sagt man zum Beispiel als Antwort auf",
+    249,
+    255,
+    4.78,
+    5
+   ],
+   [
+    "unangenehm",
+    "meine aber das Gegenteil. “Das kann ja heiter werden” bedeutet: “Das wird bestimmt unangenehm,",
+    375,
+    384,
+    4.11,
+    2
+   ],
+   [
+    "anstrengend",
+    "anstrengend oder ärgerlich”. Mein Zug hat Verspätung und mein Handy ist gleich",
+    383,
+    390,
+    4.08,
+    2
+   ],
+   [
+    "ausdrücken",
+    "sind typisch fürs gesprochene Deutsch. Ihr kennt wahrscheinlich jedes Wort in diesen Ausdrücken,",
+    7,
+    13,
+    4.06,
+    2
+   ],
+   [
+    "tasse",
+    "von “mögen” steckt in “Das mag sein”. - „Ich habe aus Versehen deine Tasse",
+    230,
+    236,
+    4.06,
+    2
+   ],
+   [
+    "heiter",
+    "„Mag sein\", „halb so wild\", „Das kann ja heiter werden\": Solche und ähnliche Ausdrücke",
+    0,
+    8,
+    3.5,
+    9
+   ],
+   [
+    "unfreundlich",
+    "- “Der neue Kollege ist ziemlich unfreundlich.” – “Mag sein, aber er macht seine Arbeit gut.”",
+    142,
+    151,
+    3.41,
+    5
+   ],
+   [
+    "ausdrücke",
+    "„Mag sein\", „halb so wild\", „Das kann ja heiter werden\": Solche und ähnliche Ausdrücke",
+    0,
+    8,
+    3.48,
+    3
+   ],
+   [
+    "möchtet",
+    "mehr über die Modalpartikel “ja” erfahren möchtet, schaut euch gern mein Video dazu",
+    451,
+    457,
+    3.44,
+    2
+   ],
+   [
+    "verlinke",
+    "an. Ich verlinke es in der Videobeschreibung. - „Ich finde, unsere Meetings dauern immer viel zu",
+    456,
+    464,
+    2.65,
+    2
+   ]
+  ],
+  "tx": "„Mag sein\", „halb so wild\", „Das kann ja heiter werden\": Solche und ähnliche Ausdrücke sind typisch fürs gesprochene Deutsch. Ihr kennt wahrscheinlich jedes Wort in diesen Ausdrücken, aber es ist trotzdem nicht sofort klar, was damit gemeint ist. Um solche Ausdrücke geht es heute. Sie helfen euch dabei, gesprochenes Deutsch besser zu verstehen und natürlicher Deutsch zu sprechen. Los geht's! Stellt euch vor, jemand stellt euch eine Frage, und ihr denkt, dass die Antwort auf diese Frage “Nein” ist. Ihr seid euch aber nicht ganz sicher. In dieser Situation haben wir in der gesprochenen Sprache einen praktischen Ausdruck, nämlich “nicht, dass ich wüsste”. Hier ist ein kleiner Beispieldialog: - “Gibt es in Singapur gefährliche Tiere?” – “Nicht, dass ich wüsste.” “Nicht, dass ich wüsste” bedeutet im Grunde dasselbe wie “Ich glaube nicht”. Noch ein Beispiel: - „Findet heute noch ein Meeting statt?\" – „Nicht, dass ich wüsste. Aber frag lieber noch mal bei den Kollegen nach.” Also: Ich glaube, es gibt heute kein Meeting mehr statt, aber ich weiß es nicht genau. “Wüsste” ist der Konjunktiv II von “wissen”. “Nicht, dass ich wüsste” ist sozusagen kurz für “Es ist nicht so, dass ich es wüsste.” Klingt kompliziert, aber im Alltag sagt man das ganz selbstverständlich in dieser kurzen Form. - “Du arbeitest viel zu viel!” – “Mag sein. Aber im Moment geht es nicht anders. Ich muss Geld verdienen!” “Mag sein” – nach diesem Ausdruck hat mich neulich ein Zuschauer gefragt. “Mag sein” bedeutet so viel wie “Das stimmt vielleicht, aber ich finde das gerade nicht so wichtig.” Du hast vielleicht recht. Vielleicht arbeite ich zu viel. Aber das ist für mich gerade nicht wichtig, denn ich muss Geld verdienen. Oder: - “Fabian ist größer, deshalb spielt er besser Basketball als du.” – “Mag sein, das",
+  "status": "ok",
+  "src": "cc"
+ },
+ "kvwU9odFGXg": {
+  "channel": "Natürlich German",
+  "lang": "de",
+  "checked": "2026-11-09T02:53:27+00:00",
+  "title": "Popular German Children's Book: Das Sams┃The Story┃German Book for Beginners│Beginner German",
+  "duration": 1094,
+  "published": "20220305",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 79.0,
+  "rare": 0.1158,
+  "var": 0.6224,
+  "speech_s": 1082.6,
+  "tokens": 1425,
+  "kw": [
+   [
+    "herr",
+    "gibt es herrn taschenbier herr taschenbier und dann klar das sams paul",
+    79,
+    92,
+    5.24,
+    53
+   ],
+   [
+    "woche",
+    "woche die woche fängt am sonntag an am",
+    130,
+    141,
+    5.38,
+    11
+   ],
+   [
+    "freitag",
+    "donnerstag am freitag hat herr taschenbier frei bekommen am freitag hat",
+    261,
+    275,
+    4.91,
+    9
+   ],
+   [
+    "gehen",
+    "taschenbier muss zur arbeit gehen er",
+    197,
+    209,
+    5.65,
+    8
+   ],
+   [
+    "wünsche",
+    "taschenbier sagen ich wünsche mir gummibärchen",
+    601,
+    612,
+    4.78,
+    11
+   ],
+   [
+    "wunsch",
+    "und mit diesen wunsch punkten kann sich",
+    555,
+    564,
+    4.74,
+    10
+   ],
+   [
+    "herrn",
+    "gibt es herrn taschenbier herr taschenbier und dann klar das sams paul",
+    79,
+    92,
+    4.7,
+    8
+   ],
+   [
+    "dienst",
+    "herr taschenbier dienst das heißt herr",
+    193,
+    204,
+    4.76,
+    6
+   ],
+   [
+    "münzen",
+    "regnet es münzen es regnet münzen im",
+    752,
+    765,
+    4.07,
+    5
+   ],
+   [
+    "unwetter",
+    "donnerstag gab es ein unwetter es gab ein unwetter ein unwetter und es",
+    240,
+    253,
+    3.72,
+    4
+   ],
+   [
+    "bände",
+    "mehrere bände insgesamt gibt es zehn bände es gibt",
+    30,
+    45,
+    3.98,
+    3
+   ],
+   [
+    "schlafzimmer",
+    "schlafzimmer im schlafzimmer von herrn taschenbier und herr taschenbier sagt",
+    741,
+    752,
+    4.19,
+    2
+   ],
+   [
+    "sams",
+    "euch vom sams zählen ",
+    8,
+    17,
+    3.11,
+    48
+   ],
+   [
+    "mohn",
+    "von herrn mohn herr mohn ist ein guter",
+    156,
+    167,
+    3.22,
+    10
+   ],
+   [
+    "gummibärchen",
+    "gummibärchen haben will kann er sich",
+    591,
+    598,
+    3.16,
+    7
+   ],
+   [
+    "währungen",
+    "viele viele verschiedene währungen ja währungen wie euro oder dollar oder",
+    768,
+    784,
+    3.43,
+    3
+   ],
+   [
+    "taschenbier",
+    "gibt es herrn taschenbier herr taschenbier und dann klar das sams paul",
+    79,
+    92,
+    2.05,
+    51
+   ],
+   [
+    "donnert",
+    "bild donnert es gab donner am",
+    255,
+    267,
+    2.93,
+    3
+   ],
+   [
+    "bleche",
+    "nimmt zwei bleche zwei bleche und",
+    947,
+    959,
+    2.91,
+    3
+   ],
+   [
+    "hauptfiguren",
+    "hauptfiguren in den büchern es gibt zwei",
+    61,
+    72,
+    2.97,
+    2
+   ]
+  ],
+  "tx": "hallo heute am samstag am samstag möchte ich euch vom sams zählen das sams ist eine kinderbuchreihe eine kinderbuchreihe das heißt es gibt mehrere bücher es gibt mehrere bände insgesamt gibt es zehn bände es gibt zehn bücher über das sams der erste band ist in 1973 rausgekommen und der neueste der zehnte band ist erst in 2020 rausgekommen es gibt zwei hauptfiguren in den büchern es gibt zwei hauptfiguren ja die die zwei wichtigsten figuren die zwei wichtigsten personen in den büchern in den geschichten einmal gibt es herrn taschenbier herr taschenbier und dann klar das sams paul maar hat das sams geschrieben es gibt zehn bücher oder zehn bände aber es gibt auch hörspiele also zum zuhören herr taschenbier hat ein eher langweiliges leben er ist nicht sehr mutig er ist nicht sehr mutig und er ist sehr sehr schüchtern sehr schüchtern aber dann hat herr taschenbier eine ganz verrückte woche die woche fängt am sonntag an am sonntag schien die sonne am sonntag schien die sonne und am nächsten tag am montag bekommt herr taschenbier besuch herr taschenbier bekommt besuch von herrn mohn herr mohn ist ein guter freund von herr taschenbier und herr mohn kommt herr taschenbier am montag besuchen herr mohn kommt zu herrn taschenbier nach hause also am sonntag schien die sonne und am montag kam herr mohn und was passiert am dienstag am dienstag hat herr taschenbier dienst das heißt herr taschenbier muss zur arbeit gehen er geht ins büro er geht ins büro er hat dienst er hat arbeit er muss arbeiten gehen im büro am dienstag hat herr taschenbier dienst und am mittwoch am mittwoch ist mitte der woche der mittwoch der mittwoch ist die mitte die mitte die mitte der woche und am donnerstag gab es ein unwetter es gab ein unwetter ein unwetter und es hat geblitzt und bild donnert es gab donne",
+  "status": "ok",
+  "src": "auto"
+ },
+ "pG3x8VmpiA4": {
+  "channel": "Bluey - Deutsch Offizieller Kanal",
+  "lang": "de",
+  "checked": "2026-11-09T03:11:45+00:00",
+  "title": "Ein Eis für einen heißen Tag🍦| Ganze Folgen | Bluey - Deutsch Offizieller Kanal",
+  "duration": 1985,
+  "published": "20260807",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 148.7,
+  "rare": 0.0662,
+  "var": 0.803,
+  "speech_s": 1841.8,
+  "tokens": 4565,
+  "kw": [
+   [
+    "nein",
+    "Nein, hier ist heute niemand ein Eis.",
+    32,
+    36,
+    5.52,
+    54
+   ],
+   [
+    "okay",
+    "Okay. Okay. Ihr bekommt dein Eis.",
+    69,
+    74,
+    4.97,
+    53
+   ],
+   [
+    "bitte",
+    "Darf ich einmal lecken, bitte? Muffin.",
+    64,
+    69,
+    5.7,
+    25
+   ],
+   [
+    "kinder",
+    "Hallo Kinder. Guck mal. Eiscreme.",
+    26,
+    31,
+    5.6,
+    20
+   ],
+   [
+    "eis",
+    "Oh, kriegen wir etwa kein Eis?",
+    30,
+    35,
+    4.59,
+    16
+   ],
+   [
+    "tja",
+    "Tja, das nennt man dann allgemein Pech",
+    14,
+    18,
+    4.55,
+    10
+   ],
+   [
+    "fair",
+    "Oh, das ist nicht fair. Es ist ziemlich fair.",
+    17,
+    23,
+    4.39,
+    10
+   ],
+   [
+    "königin",
+    "eines Tages beschloss die Königin ihre",
+    1015,
+    1020,
+    4.46,
+    9
+   ],
+   [
+    "bingo",
+    "Bis dann, Blui. Bis dann, Bingo.",
+    85,
+    89,
+    3.63,
+    21
+   ],
+   [
+    "dad",
+    "Dad, kann ich sowas hier haben?",
+    7,
+    12,
+    3.82,
+    17
+   ],
+   [
+    "kissen",
+    "will das verrückte Kissen sein. Nein, du bist doch der verrückte",
+    1637,
+    1643,
+    3.95,
+    11
+   ],
+   [
+    "malen",
+    "malen, Blue? Ja, aber kann ich das erst",
+    1246,
+    1251,
+    4.11,
+    8
+   ],
+   [
+    "verrücktes",
+    "Brauchen Sie ein verrücktes Ges? Nein, braucht er nicht. Das ist wirklich",
+    1765,
+    1772,
+    3.16,
+    6
+   ],
+   [
+    "mango",
+    "Siehst du, es gibt sogar Mango.",
+    77,
+    81,
+    3.35,
+    5
+   ],
+   [
+    "cowboy",
+    "Aber ich will noch den Cowboy Hut malen.",
+    1323,
+    1328,
+    3.38,
+    4
+   ],
+   [
+    "marin",
+    "Marin, wenn du wegläufer das ganze nur",
+    1371,
+    1378,
+    3.22,
+    4
+   ],
+   [
+    "muffin",
+    "Tja, und wieso darf Muffin dann ein Eis",
+    43,
+    46,
+    2.97,
+    37
+   ],
+   [
+    "stripe",
+    "Okay, Uncle Stripe. Sie muss einfach lernen, das andere auch",
+    1358,
+    1364,
+    2.38,
+    5
+   ],
+   [
+    "eiscreme",
+    "Eiscreme. Hallo Kinder.",
+    25,
+    30,
+    2.91,
+    4
+   ],
+   [
+    "socks",
+    "Muffin und Socks machen? Bitte.",
+    1214,
+    1219,
+    2.24,
+    4
+   ]
+  ],
+  "tx": "Oh, ein Dinosaurier. Sein Mund geht auf und wieder zu. Dad, kann ich sowas hier haben? Nur wenn du es selbst bezahlst. Aber ich habe überhaupt kein Geld. Ja, dann kannst du es nicht haben. Aber ich will es haben. Tja, das nennt man dann allgemein Pech gehabt. Oh, das ist nicht fair. Es ist ziemlich fair. Nehmt ihn weg. Neimmt ihn weg. Nehmt ihn weg. Eiscreme. Hallo Kinder. Guck mal. Eiscreme. Wir gehen weiter. Oh, kriegen wir etwa kein Eis? Nein, hier ist heute niemand ein Eis. Wieso denn nicht? Weil ihr schon gestern eins hattet. Das ist zu viel Zucker. Oh, das ist unfair. Das ist völlig fair. Tja, und wieso darf Muffin dann ein Eis haben? Dad, Muffin kriegt doch überhaupt kein Eis. Ich habe ein Eis. Siehst du? Ja, danke, Mann. Wisst ihr Kinder, Muffin kriegt ein Eis, weil sie von einem Dinosaurier gebissen wurde. Es war ein Velociraptor. Oh, voll unfair. Nein, es ist total fair. Vielleicht lässt Muffin euch ja mal lecken. Nein, das wird nicht passieren, mein Freund. Darf ich einmal lecken, bitte? Muffin. Ah, Dad. Okay. Okay. Ihr bekommt dein Eis. Ja. Eiscreme. Diese Folge von Blu heißt Eiscreme. Siehst du, es gibt sogar Mango. Das ist der glücklichste Tag meines ganzen Lebens. Oh, unsere Färe ist da, Muffin. Wir sehen uns später, Mädels. Bis dann, Blui. Bis dann, Bingo. Hey, Kinder, Onkel Stribe und Muffin verabschieden sich gerade. Oh, bis dann, Muffin. Bis dann, Onkel Erdbeereis. Wir sehen uns dann. Du musst dein Eis aufessen, bevor wir auf die Fähre gehen, Muffin. Gut, wisst ihr, was ihr wollt? Ja, ich nehme Mangoeis, bitte. Okay, einmal Mango bitte. Aber das soll extra groß sein. Ein extra kleines. Danke. Oh, das ist nicht fair. Doch, sehr fair. Louis, was ist mit dir? Hm, ich kann mich nicht entscheiden. Ich nehme entweder Mango wie Bingo oder Erdbeere. Kann ich ",
+  "status": "ok",
+  "src": "auto"
+ },
+ "6lnYuYo9jW8": {
+  "channel": "Deutsch für Euch",
+  "lang": "de",
+  "checked": "2026-11-09T04:12:33+00:00",
+  "title": "German Konjunktiv II - start here! | Grammatik A2 || Deutsch Für Euch 136",
+  "duration": 1032,
+  "published": "20211023",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 53.5,
+  "rare": 0.1429,
+  "var": 0.7638,
+  "speech_s": 408.4,
+  "tokens": 364,
+  "kw": [
+   [
+    "gerne",
+    "meaning wird ich würde so gerne",
+    295,
+    303,
+    5.49,
+    10
+   ],
+   [
+    "spielen",
+    "ich würde gerne spielen konjunktiv ich spielte gerne",
+    789,
+    798,
+    5.42,
+    8
+   ],
+   [
+    "kosten",
+    "kosten wenn die kritik sagt eine",
+    686,
+    694,
+    5.18,
+    4
+   ],
+   [
+    "hätte",
+    "ich hätte gestern gerne gespielt bickels",
+    800,
+    806,
+    5.7,
+    3
+   ],
+   [
+    "möchten",
+    "können dürfen möchten sollen wollen müssen",
+    496,
+    504,
+    4.79,
+    2
+   ],
+   [
+    "schliesst",
+    "",
+    0,
+    0,
+    4.57,
+    2
+   ],
+   [
+    "definitiv",
+    "würde definitiv konjunktiv",
+    321,
+    335,
+    4.53,
+    2
+   ],
+   [
+    "brot",
+    "wünschte das brot koste weniger infektiös",
+    696,
+    710,
+    4.5,
+    2
+   ],
+   [
+    "schlief",
+    "jetzt ich schlief böses ich schließe du",
+    449,
+    457,
+    3.66,
+    3
+   ],
+   [
+    "werben",
+    "das modell werben können dürfen möchten sollen wollen",
+    493,
+    504,
+    4.04,
+    2
+   ],
+   [
+    "into",
+    "into durfte",
+    539,
+    544,
+    3.71,
+    2
+   ],
+   [
+    "konjunktiv",
+    "konjunktiv 1 ",
+    1,
+    21,
+    3.12,
+    14
+   ],
+   [
+    "using",
+    "die kampagne konjunktiv 2 ist bei using",
+    240,
+    247,
+    3.18,
+    2
+   ],
+   [
+    "infiniti",
+    "using die infiniti few months since we",
+    248,
+    255,
+    2.54,
+    3
+   ]
+  ],
+  "tx": "konjunktiv 1 hallo leute ich bin katja und deutsch für konjunktiv motiv changes mit tempo 122 62 reale bedingung und vergleich setzte 22 die kampagne konjunktiv 2 ist bei using die konjunktiv zwei werden using die infiniti few months since we stay only to form der konjunktiv 2 auf werden existenzform wurde 22 ich würde du würdest er sie es oder man würde wir würden ihr würdet sie würden dies vom linken bein ist die infiniti v4 meaning wird ich würde so gerne verreisen und relaxe travel impressions wir würden das machen aber wir haben keine zeit mein bruder würde das nicht verstehen especially in counter konjunktiv würde definitiv konjunktiv 21 haben werden so haben das hatte ich wäre gerne christoph würde example of der ist schlafen das taxi games so verschlafen und identität um bestimmte schließt dieses web access der snow im konjunktiv zwei personen sandy konjunktiv zwei teams in liberia sie jetzt ich schlief böses ich schließe du schläfst du hast du schlief fest es schließt schlief konjunktiv 2 die indikative konjunktiv 26 das modell werben können dürfen möchten sollen wollen müssen sollten sie dürfen ich darf bottich dürfte definitiv bei den foxes dürfen turned into durfte mögen oder möchten sollen wollen die videos ist okay die haben werden im werben um prinzipien der konjunktiv 22222 kosten wenn die kritik sagt eine korrektur über and tax intelligent ö wenn die eu-länder bist küste so ich wünschte das brot koste weniger infektiös was würde das kosten jk/c't ich wünschte das brot würde weniger kosten redwood kosten haben werden 22 ich bin gegangen beim kochen cockpit haben ich habe gekocht 12 in die kompanie christi 22 ich würde gerne spielen konjunktiv ich spielte gerne ich hätte gestern gerne gespielt bickels spielen das kann beim quiz haben report haben into the",
   "status": "ok",
   "src": "auto"
  }
