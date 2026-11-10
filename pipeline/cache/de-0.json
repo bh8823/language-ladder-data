@@ -2346,7 +2346,7 @@
  "ABonj-Rnrn4": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-02T15:01:59+00:00",
+  "checked": "2026-11-10T15:03:47+00:00",
   "title": "DIESE Partei braucht Deutschland jetzt! | #mirkosmeinung",
   "duration": 913,
   "published": "20261010",
@@ -2354,73 +2354,10 @@
   "spoken_v": 2,
   "pace": 189.9,
   "rare": 0.0442,
+  "var": 0.8742,
   "speech_s": 837.4,
   "tokens": 2650,
   "kw": [
-   [
-    "nova",
-    "Nennen wir diese Partei mal NOVA.",
-    186,
-    190,
-    3.69,
-    24
-   ],
-   [
-    "klingbeil",
-    "ist der SPD-Vorsitzende Lars Klingbeil. Abitur, Zivildienst, dann Studium, unter anderem Politikwissenschaft,",
-    249,
-    256,
-    2.69,
-    6
-   ],
-   [
-    "innerparteiliche",
-    "Allerdings führen innerparteiliche Prozesse immer wieder dazu,",
-    229,
-    233,
-    2.82,
-    2
-   ],
-   [
-    "verlinkt",
-    "Zahlen dazu unten verlinkt. Zwar gibt es immer mal wieder Ausnahmen und Parteien,",
-    146,
-    151,
-    3.52,
-    3
-   ],
-   [
-    "lars",
-    "ist der SPD-Vorsitzende Lars Klingbeil. Abitur, Zivildienst, dann Studium, unter anderem Politikwissenschaft,",
-    249,
-    256,
-    4.08,
-    6
-   ],
-   [
-    "pragmatisch",
-    "Und eine Partei, die gleichzeitig pragmatisch ist und verbindlich.",
-    180,
-    185,
-    3.29,
-    2
-   ],
-   [
-    "adenauer",
-    "1957, als Konrad Adenauer Bundeskanzler war,",
-    571,
-    574,
-    3.73,
-    3
-   ],
-   [
-    "schubladen",
-    "Wir Menschen stecken andere gerne in Schubladen,",
-    422,
-    425,
-    3.46,
-    2
-   ],
    [
     "parteien",
     "In Deutschland gibt es Dutzende verschiedene Parteien.",
@@ -2454,47 +2391,127 @@
     13
    ],
    [
-    "beispiel",
-    "Die Tierschutzpartei zum Beispiel ist zwar mit einem Abgeordneten",
-    71,
-    75,
-    5.35,
-    13
+    "karriere",
+    "sollte nicht nach politischer Karriere ausgewählt werden,",
+    346,
+    350,
+    4.7,
+    4
    ],
    [
-    "natürlich",
-    "Sofern sie mit den Gesetzen bei uns vereinbar sind natürlich.",
+    "letztlich",
+    "Letztlich könnte jeder das hineininterpretieren, was er richtig findet.",
+    200,
+    205,
+    4.53,
+    4
+   ],
+   [
+    "bestimmte",
+    "Demnach wählt jeder zweite Deutsche nur deshalb eine bestimmte Partei,",
+    119,
+    124,
+    4.75,
+    3
+   ],
+   [
+    "demokratie",
+    "Denn eine Demokratie lebt davon, dass möglichst alle gesellschaftlichen Strömungen",
+    80,
     85,
-    88,
-    5.62,
-    12
+    4.75,
+    3
    ],
    [
-    "sollte",
-    "künftig von allen gewählt werden sollte, muss ich euch enttäuschen.",
-    8,
-    12,
-    5.76,
-    11
+    "nova",
+    "Nennen wir diese Partei mal NOVA.",
+    186,
+    190,
+    3.69,
+    24
    ],
    [
-    "sagen",
-    "Ich würde sagen: ja und nein.",
-    100,
-    103,
-    5.68,
-    9
+    "lars",
+    "ist der SPD-Vorsitzende Lars Klingbeil. Abitur, Zivildienst, dann Studium, unter anderem Politikwissenschaft,",
+    249,
+    256,
+    4.08,
+    6
+   ],
+   [
+    "lücke",
+    "eine ziemlich große Lücke in der Parteienlandschaft,",
+    17,
+    20,
+    4.08,
+    3
+   ],
+   [
+    "politisches",
+    "gleich ein komplettes politisches Programm abzuleiten.",
+    518,
+    521,
+    4.05,
+    3
+   ],
+   [
+    "verlinkt",
+    "Zahlen dazu unten verlinkt. Zwar gibt es immer mal wieder Ausnahmen und Parteien,",
+    146,
+    151,
+    3.52,
+    3
+   ],
+   [
+    "komplettes",
+    "denn er hat ein komplettes Ministerium voller Fachleute,",
+    307,
+    310,
+    3.58,
+    2
+   ],
+   [
+    "andersrum",
+    "Vom Ziel zum Staat sozusagen und nicht andersrum.",
+    699,
+    702,
+    3.49,
+    2
+   ],
+   [
+    "schubladen",
+    "Wir Menschen stecken andere gerne in Schubladen,",
+    422,
+    425,
+    3.46,
+    2
+   ],
+   [
+    "klingbeil",
+    "ist der SPD-Vorsitzende Lars Klingbeil. Abitur, Zivildienst, dann Studium, unter anderem Politikwissenschaft,",
+    249,
+    256,
+    2.69,
+    6
+   ],
+   [
+    "innerparteiliche",
+    "Allerdings führen innerparteiliche Prozesse immer wieder dazu,",
+    229,
+    233,
+    2.82,
+    2
    ]
   ],
-  "tx": "Diese Partei braucht Deutschland jetzt. Ich weiß nicht, was ihr euch beim Lesen dieses Titels erhofft habt. Aber falls ihr denkt, dass ich jetzt sage, welche Partei meiner Meinung nach künftig von allen gewählt werden sollte, muss ich euch enttäuschen. Denn die Partei, die ich meine, die gibt es gar nicht. Noch nicht. Ich würde behaupten, in Deutschland existiert grade eine ziemlich große Lücke in der Parteienlandschaft, die von niemandem so richtig besetzt wird. Eine Lücke für eine Partei, die einiges anders machen könnte. Und die damit durchaus Aussicht auf Erfolg hätte. Was wäre das für eine Partei? Wie würde sie aussehen? Wie würde sie arbeiten? Meine Meinung dazu jetzt. (Helle Klänge) In Deutschland gibt es Dutzende verschiedene Parteien. Knapp 30 davon haben an der Bundestagswahl 2025 teilgenommen. Da war von allem etwas dabei. Größere Parteien wie CDU, AfD, SPD und auch ganz kleine Parteien wie die Partei für Verjüngungsforschung oder die Bayernpartei. Es gibt Parteien, die versuchen, möglichst viele Teile der Bevölkerung anzusprechen und ein breites Programm anzubieten. Und es gibt Parteien, die sich vor allem um ein Thema oder um eine Zielgruppe drehen. Die meisten der kleineren Parteien haben wegen dieser starken Zuspitzung kaum eine Chance, jemals irgendwo in einem Parlament zu landen. Oder wenn, dann nur in sehr überschaubarem Umfang. Die Tierschutzpartei zum Beispiel ist zwar mit einem Abgeordneten im EU-Parlament vertreten, spielt dort aber kaum eine Rolle. Trotzdem ist es wichtig, dass es auch solche Parteien gibt. Denn eine Demokratie lebt davon, dass möglichst alle gesellschaftlichen Strömungen vertreten werden. Sofern sie mit den Gesetzen bei uns vereinbar sind natürlich. Meinungsvielfalt ist ein zentrales demokratisches Element. Und dazu zählen auch d",
+  "tx": "Diese Partei braucht Deutschland jetzt. Ich weiß nicht, was ihr euch beim Lesen dieses Titels erhofft habt. Aber falls ihr denkt, dass ich jetzt sage, welche Partei meiner Meinung nach künftig von allen gewählt werden sollte, muss ich euch enttäuschen. Denn die Partei, die ich meine, die gibt es gar nicht. Noch nicht. Ich würde behaupten, in Deutschland existiert grade eine ziemlich große Lücke in der Parteienlandschaft, die von niemandem so richtig besetzt wird. Eine Lücke für eine Partei, die einiges anders machen könnte. Und die damit durchaus Aussicht auf Erfolg hätte. Was wäre das für … stellen: Reicht das nicht schon aus? Gibt es nicht schon genug Parteien in Deutschland? Ich würde sagen: ja und nein. Ja, wir haben eine große Zahl demokratischer Parteien, die miteinander im Wettstreit stehen. Aber nein, das reicht nicht aus. Denn immer mehr Menschen wählen nicht mehr aus Überzeugung, sondern aus Mangel an Alternativen. Das ergibt zum Beispiel eine Befragung von Infratest dimap aus dem Juni 2026. Demnach wählt jeder zweite Deutsche nur deshalb eine bestimmte Partei, weil sie oder er nicht weiß, wen man sonst wählen könnte. Laut einer Untersuchung für das Standard … Letztlich könnte jeder das hineininterpretieren, was er richtig findet. Noch dazu muss ich sagen, spricht sich NOVA einfach gut. Das sind letztlich natürlich alles Oberflächlichkeiten. Aber auch auf solche Dinge kommt es politisch an, denn man möchte schließlich bei den Menschen hängenbleiben. Kommen wir mal zur Sache. Abgesehen vom Namen, was wäre denn wichtig für NOVA? Ich würde sagen, es sind vor allem vier Dinge. Natürlich wäre es total populistisch zu behaupten, die großen Parteien in Deutschland hätten keine Leute, die was draufhaben, das stimmt einfach nicht. Allerdings führen … hat in seinem Leben sicher viele öffentliche Haushalte gesehen, hat Erfahrung in dem Bereich. Aber er ist eben Politiker und kein ausgebildeter Finanzfachmann. Da könnte man dagegenhalten: Das muss er auch nicht sein, denn er hat ein komplettes Ministerium voller Fachleute, die er um Rat fragen kann. Aber was befähigt denn jemanden, der noch nie ein Unternehmen geleitet hat, dazu, Chef eines riesigen Bundesministeriums zu sein mit rund 2.300 Mitarbeitern? Das kann funktionieren, muss es aber nicht. Natürlich ist ein Ministerium aber auch kein Unternehmen. Ein guter Unternehmer wäre wohl auch … einer Art Avengers-Team auftreten, mit Topleuten, die in ihrem jeweiligen Fachbereich sehr viel Kompetenz mitbringen und dann jeweils eigene Teams bilden. Ja, ich weiß, es sagt sich sehr einfach. Aber wenn man als Partei von Anfang an nicht nach politischer Karriere geht, sondern nach dem, was man letztlich braucht, womit man bei den Menschen Vertrauen wecken kann, dann wäre das, denke ich, ein sinnvoller Schritt. Das Personal sollte also anders ausgewählt werden als das bei vielen Parteien jetzt der Fall ist. Wir Menschen stecken andere gerne in Schubladen, das ist ganz natürlich. Das … anderen Partei kommt. Das klingt natürlich erst mal verlockend. Wir machen einfach das, was funktioniert. Aber logisch ist, so simpel ist Politik nicht. Denn häufig gibt es gar nicht die eine objektiv richtige Lösung. Zum Beispiel ist uns mehr wirtschaftliche Freiheit wichtiger oder mehr soziale Sicherheit? Das sind Werteentscheidungen und die kann einem auch kein Experte abnehmen. Deshalb wäre NOVA nicht komplett wertfrei. Es wäre auch falsch, in diese Richtung zu denken. Die Partei bräuchte meiner Meinung nach einen ganz klaren Wertekompass. Sie würde aber nicht versuchen, aus diesen … war: Ob Adenauer die demografische Entwicklung unterschätzt hat, lässt sich heute schwer beurteilen. Aber das Beispiel zeigt gut, wie politische Entscheidungen Jahrzehnte später Folgen haben können. Genauso wie bei Lars Klingbeil will ich nicht über die Politik von Konrad Adenauer urteilen, sondern es geht mir um etwas anderes. Politik sollte, meiner Meinung nach, öfter vom Ende her gedacht werden. Also, was wollen wir im Jahr X erreichen? Und wie können wir das schaffen? Wie sieht der Weg dahin aus? Oder wir haben ein Problem Y, wie sollte die Lösung aussehen? Und wie kommen wir dahin? … ist. Aber es ist nicht nur die Erzählung, die bei NOVA anders wäre, sondern auch der komplette Ansatz, wie Politik gedacht und kommuniziert wird. Vom Ziel zum Staat sozusagen und nicht andersrum. Das hätte auch Potenzial für Begeisterungsfähigkeit, im besten Fall. Und ganz eng damit verbunden: Parteien haben heute oft ein Repräsentationsproblem. Weniger als zwei Prozent der Bevölkerung sind Parteimitglieder. Und wiederum nur ein Teil davon ist tatsächlich politisch innerhalb der Partei aktiv. Gleichzeitig sind Parteien heute oft nicht wirklich durchlässig. Wer einmal ein wichtiges … innerparteiliche Prozesse. Das klingt alles sehr idealistisch, aber es kann funktionieren, glaube ich. Am Ende sollte es immer um die beste Idee gehen und nicht darum, dass der mächtigste Mensch im Raum sich mit seiner Idee durchsetzt, weil er eben mächtig ist. Natürlich müsse sich NOVA auch die Frage stellen: Denn mit Macht kommen fast automatisch auch Menschen, denen die eigene Karriere, vielleicht auch das eigene Geld wichtiger ist als die Sache selbst. Deshalb müsste NOVA von Anfang an Mechanismen zur Selbstkontrolle einbauen. Ich habe das eben schon mal kurz angedeutet. Da bräuchte … auch interessieren, fändet ihr das alles gut? Denkt ihr, für eine solche Partei würde es in Deutschland, das politisch immer stärker polarisiert ist, eine Lücke geben? Oder sagt ihr, nee, das sind alles totale Fantastereien, das funktioniert nicht, du denkst in die falsche Richtung. Schreibt es gerne unten in die Kommentare. Lasst uns drüber diskutieren, denn genau das sollte man in einer Demokratie machen. Ich bin gespannt, was ihr dazu denkt. Neben mir findet ihr zwei weitere Meinungsvideos vom Kanal. Hier und hier, schaut da gerne mal rein. Danke fürs Zuschauen. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8258
+  "src": "cc"
  },
  "1oD_L4zqDDY": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-02T15:08:09+00:00",
+  "checked": "2026-11-10T15:07:59+00:00",
   "title": "Eine magische Übung für dein Deutsch",
   "duration": 1434,
   "published": "20261001",
@@ -2502,73 +2519,10 @@
   "spoken_v": 2,
   "pace": 135.3,
   "rare": 0.0362,
+  "var": 0.7581,
   "speech_s": 1434.0,
   "tokens": 3234,
   "kw": [
-   [
-    "akzentfrei",
-    "fehlerfrei, akzentfrei und so weiter Deutsch zu sprechen und es klappt nicht.",
-    62,
-    70,
-    2.29,
-    3
-   ],
-   [
-    "futur",
-    "\"Wofür braucht man Futur 2?\" Das ist",
-    733,
-    739,
-    2.9,
-    4
-   ],
-   [
-    "gedankenexperiment",
-    "Jetzt müssten wir ein Gedankenexperiment machen, so eine Art kleine Zeitreise.",
-    269,
-    279,
-    2.59,
-    3
-   ],
-   [
-    "wünschst",
-    "wünschst. Logisch, wenn es klappen würde, dann würdest du nicht in meinem",
-    77,
-    86,
-    3.19,
-    4
-   ],
-   [
-    "deutschkenntnisse",
-    "ihrer Deutschkenntnisse. Es hat höchstwahrscheinlich Auswirkungen",
-    226,
-    235,
-    2.97,
-    3
-   ],
-   [
-    "unterbewusstsein",
-    "Unterbewusstsein und so weiter. Es klingt vielleicht ein bisschen paradox,",
-    101,
-    109,
-    3.31,
-    3
-   ],
-   [
-    "komplimente",
-    "Komplimente bekommen für meine Deutschkenntnisse, ich werde erfolgreich",
-    1303,
-    1312,
-    3.34,
-    3
-   ],
-   [
-    "deutschkurs",
-    "in im Deutschkurs hat so was gesagt.",
-    414,
-    420,
-    2.76,
-    2
-   ],
    [
     "deutsch",
     "besser Deutsch zu sprechen oder gut",
@@ -2594,22 +2548,6 @@
     22
    ],
    [
-    "zukunft",
-    "deiner Vergangenheit und deiner Zukunft. Irgendwo in der Mitte ist der Punkt",
-    280,
-    287,
-    5.21,
-    16
-   ],
-   [
-    "werde",
-    "ist, dann werde ich einen guten Job",
-    252,
-    257,
-    5.6,
-    16
-   ],
-   [
     "sagen",
     "möchte nicht sagen, dass es nicht deine",
     135,
@@ -2618,31 +2556,143 @@
     16
    ],
    [
-    "bist",
-    "deine Heimat verlassen, also bist du",
-    181,
-    187,
-    5.61,
-    14
+    "gelernt",
+    "gelernt. Ich glaube, ich habe zu wenig",
+    111,
+    116,
+    4.74,
+    7
    ],
    [
-    "weiter",
+    "stell",
+    "Und jetzt stell dir vor, stell dir diese Zeitlinie vor zwischen",
+    276,
+    283,
+    4.43,
+    7
+   ],
+   [
+    "kurs",
+    "Denn jeder von euch ist in diesem Kurs",
+    67,
+    73,
+    4.65,
+    6
+   ],
+   [
+    "sagst",
+    "sagst, \"Ich bin nicht sprachbegabt.\"",
+    357,
+    365,
+    4.49,
+    5
+   ],
+   [
+    "muttersprache",
+    "eurer Muttersprache bzw. in der Sprache,",
+    863,
+    870,
+    3.76,
+    4
+   ],
+   [
+    "ähm",
+    "dir nichts Konkretes vor. Ähm, man kann",
+    757,
+    762,
+    4.12,
+    3
+   ],
+   [
+    "schreibst",
+    "Und du schreibst, wie ist es dort?",
+    812,
+    820,
+    4.03,
+    3
+   ],
+   [
+    "grammatik",
+    "\"Ich glaube, ich habe zu wenig Grammatik",
+    109,
+    114,
+    3.99,
+    3
+   ],
+   [
+    "wünschst",
+    "wünschst. Logisch, wenn es klappen würde, dann würdest du nicht in meinem",
+    77,
+    86,
+    3.19,
+    4
+   ],
+   [
+    "höchstwahrscheinlich",
+    "Es hat höchstwahrscheinlich Auswirkungen auf andere Lebensbereiche. Z.B. Du",
+    228,
+    237,
+    3.59,
+    3
+   ],
+   [
+    "idealerweise",
+    "Blatt Papier, idealerweise, wenn du ungestört bist durch Kinder, Ehemänner,",
+    795,
+    803,
+    3.46,
+    3
+   ],
+   [
+    "komplimente",
+    "Komplimente bekommen für meine Deutschkenntnisse, ich werde erfolgreich",
+    1303,
+    1312,
+    3.34,
+    3
+   ],
+   [
+    "futur",
+    "\"Wofür braucht man Futur 2?\" Das ist",
+    733,
+    739,
+    2.9,
+    4
+   ],
+   [
+    "deutschkenntnisse",
+    "ihrer Deutschkenntnisse. Es hat höchstwahrscheinlich Auswirkungen",
+    226,
+    235,
+    2.97,
+    3
+   ],
+   [
+    "gedankenexperiment",
+    "Jetzt müssten wir ein Gedankenexperiment machen, so eine Art kleine Zeitreise.",
+    269,
+    279,
+    2.59,
+    3
+   ],
+   [
+    "akzentfrei",
     "fehlerfrei, akzentfrei und so weiter Deutsch zu sprechen und es klappt nicht.",
     62,
     70,
-    5.75,
-    13
+    2.29,
+    3
    ]
   ],
-  "tx": "Hallo meine Lieben, heute gibt es ein ungewöhnliches Format. Ihr hört es an meiner Stimme, es ist noch noch nicht die Zeit, in der ich normalerweise Videos aufnehme, aber ich möchte etwas mit euch teilen, dass ich gestern aus einem Seminar mitgenommen habe und der Gedanke ist auf jeden Fall sehr wertvoll. Ich habe gestern ein Seminar von Ada Conde angehört, das ist eine russische Psychologin unter anderem. Ich verlinke sie euch gerne. Sie hat einen YouTube-Kanal mit sehr vielen wertvollen Videos. Und da hat sie eine Sache gesagt, warum erfüllen sich Dinge nicht, die wir uns wünschen? Also, warum passiert es nicht? Wir wünschen es uns und irgendwie bleibt es bei diesem Wunsch. Nehmen wir mal ein Beispiel, ihr wünscht euch, besser Deutsch zu sprechen oder gut Deutsch zu sprechen, fließend, fehlerfrei, akzentfrei und so weiter Deutsch zu sprechen und es klappt nicht. Denn jeder von euch ist in diesem Kurs gekommen mit mit der Klage, mit der Beschwerde, dass es nicht klappt, so wie es du es dir wünschst. Logisch, wenn es klappen würde, dann würdest du nicht in meinem Kurs sitzen. So. Und ich bin immer noch der Meinung, dass die Sprache eigentlich von selbst kommt, also es passiert fast automatisch, wenn man alle Barrieren aufräumt, die wir im Kopf haben und in unserem Unterbewusstsein und so weiter. Es klingt vielleicht ein bisschen paradox, weil ihr alle kommt in meine Kurse und sagt, \"Ich glaube, ich habe zu wenig Grammatik gelernt. Ich glaube, ich habe zu wenig Wortschatz. Ich glaube, ich habe zu wenig an meiner Aussprache gearbeitet und so weiter. Aber das ist nicht das Problem. Das Problem sind tatsächlich die Barrieren, die du im Kopf hast und die dich davon abhalten, Deutsch zu lernen. Wie ist diese Vorstellung? Also, ich möchte nicht sagen, dass es nicht deine Schul",
+  "tx": "Hallo meine Lieben, heute gibt es ein ungewöhnliches Format. Ihr hört es an meiner Stimme, es ist noch noch nicht die Zeit, in der ich normalerweise Videos aufnehme, aber ich möchte etwas mit euch teilen, dass ich gestern aus einem Seminar mitgenommen habe und der Gedanke ist auf jeden Fall sehr wertvoll. Ich habe gestern ein Seminar von Ada Conde angehört, das ist eine russische Psychologin unter anderem. Ich verlinke sie euch gerne. Sie hat einen YouTube-Kanal mit sehr vielen wertvollen Videos. Und da hat sie eine Sache gesagt, warum erfüllen sich Dinge nicht, die wir uns wünschen? Also, … nicht. Aber alles, was mit uns passiert, ist das Ergebnis von dem, wie wir uns eingestellt haben. Und ich meine damit nicht irgendwelche politisch, gesellschaftlichen, dramatischen Ereignisse, die uns vielleicht zwingen, in ein anderes Land umzuziehen oder andere Dinge zu tun. Das meine ich nicht. Also, es wäre auch sehr arrogant zu sagen, na ja, du musstest deine Heimat verlassen, also bist du selbst schuld, weil du es dir selbst sozusagen äh weil weil weil du dieses Ereignis selbst angezogen hast, ja? Also, du hast das psychisch irgendwie angezogen. Das möchte ich nicht sagen. Aber was … ist für die Vorstellung. Also, für die meisten von euch wird es schwierig sein, weil ihr es gewohnt seid und ihr wiederholt es höchstwahrscheinlich jeden Tag, mein Deutsch ist noch nicht so, wie ich es gerne hätte. Und meine Aussprache ist noch nicht so und ich mache viele Fehler und so weiter. Es ist nicht unbedingt schlecht, diese selbstkritische Haltung zu haben, aber das Problem ist, und das habe ich zu einigen von euch immer wieder gesagt, ihr müsst hören, wie ihr mit euch selbst sprecht. Alles, was ihr über euch selbst sagt, speichert euer Unterbewusstsein wie ein Schwamm. … im besten Alter ihres Lebens, die sich auf den Tag freut und die sehr attraktiv ist und ich habe aber auch die Möglichkeit, also es es gibt keinen kein Verbot oder es gibt keine Filter in meinem Bewusstsein, die mir verbieten zu sagen, ich sehe da und dann kommen alle möglichen negativen Begriffe, die ich jetzt nicht schon wieder äh nennen möchte, ja? Also, wie oft hast du in den Spiegel geschaut und hast nur die Dinge gesehen, die dir an dir nicht gefallen? Genauso ist das so. Es ist möglich, dein Deutsch in negative Aspekte zu zerlegen. Also, du läufst jetzt durchs Leben und erzählst dir … mit netten, freundlichen, hilfsbereiten Menschen und du kommst in die Arbeit und das erste, was du hörst, nachdem du guten Morgen gesagt hast, dann sagt dein Kollege: \"Wahnsinn, jetzt habe ich deinen guten Morgen gehört und es war ein perfektes, akzentfreies guten Morgen und vor einigen Jahren hätte ich mir das noch nicht vorstellen können, dass du akzentfrei sprechen wirst, aber ich bin so begeistert, wie viel besser deine Sprache geworden ist.\" So, das ist das erste, was du hörst, z.B. Und also, die Arbeit stimmt, du hast ein Sozialleben, du triffst dich mit Leuten, du hast … äh wann genau es passieren wird. Ich brauche jetzt von dir nur das Vertrauen, dass du dass du mir vertraust und du sagst, \"Okay, ich glaube dir, Maria, dass es eines Tages passieren wird.\" So. Und jetzt machst du bitte Folgendes. Wenn du dieses Video zu Ende gehört hast, dann setzt du dich hin, nimmst ein Blatt Papier, idealerweise, wenn du ungestört bist durch Kinder, Ehemänner, Hunde und so weiter, und du stellst dir vor, du bist in diesem Zeitpunkt in der Zukunft, ja? Egal, wann das genau sein wird. Und du schreibst, wie ist es dort? Wie ist dein Leben? Was passiert ganz konkret? … habe gerade einen Kurs angekündigt, der irgendwo in einer traumhaften Landschaft stattfindet, in einem schönen Hotel und da biete ich so einen ähnlichen Kurs wie für euch an, aber es ist ein Präsenzkurs, also kein Online-Kurs und es ist einfach, es ist eine Kombination aus einer Kur und und ja, nicht Deutschkurs, sondern eben eine Deutschkur. So, das war nur mein Beispiel. Das heißt, in diesem Moment in der Zukunft schreibt ihr, wie ist die Lage, was habe ich gerade zum Beispiel ich sitze in der Küche von unserem schönen neuen Haus wo ist das Haus? Du kannst das sagen, musst es aber nicht, … wird euch helfen und wie viel Zeit wird bis dahin vergehen. Das spielt überhaupt keine Rolle. Aber ich kann euch versichern, diese Übung über diesen einen Punkt in der Zukunft, es können immer unterschiedliche Punkte sein. Wenn du diese Übung schriftlich machst, in deiner Muttersprache, idealerweise, und du beschreibst konkrete Momente aus dieser Zukunft, so als wärst du dort, dort, ja? So als wärst du dort, ohne Pläne oder \"Es wäre schön, wenn\", sondern du bist schon dort und das ist nicht dein Job, zu überlegen, wie bist du dahin gekommen. Das ist so ein bisschen schwierig, aber man … zu machen. Du kannst es auch ignorieren, es ist kein Problem, es ist ein Angebot von mir, was ich für sehr sinnvoll halte, so zu arbeiten. Es hat nichts mit Fantasien zu tun, wobei Fantasien sind sehr, sehr hilfreich, denn das größte Problem, dass die meisten haben, die z.B. Deutsch lernen und nicht weiterkommen, ist nicht, dass sie talentfrei sind oder dass sie keine Sprachbegabung haben oder dass sie nicht genug irgendwas gelernt haben. Das größte Problem ist, sie können sich das nicht vorstellen, wie ist es denn, wie wäre es, wenn ich fließend frei, entspannt Deutsch sprechen … euch auf, nicht für YouTube oder so. Ich bin gespannt, was ihr sagt. Macht das auf jeden Fall, probiert es aus. Ihr müsst es mir nicht zeigen, es ist eine private Übung und macht es in der Sprache, in der es für euch am bequemsten ist. Also macht es auf Ukrainisch oder Russisch oder Litauisch oder Aserbaidschanisch oder also wie wie es für euch angenehm ist. Okay? Und erzählt mir gerne, wie es geklappt hat oder erzählt es mir nicht. Das ist mein Angebot an euch, eine Technik, die ich selbst sehr gerne mag. Genau. Und wenn irgendwas nicht klar ist, dann schreibt gerne im Chat. Also, bis dann.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7655
+  "src": "auto"
  },
  "XfkeDWCNnjM": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-02T15:13:08+00:00",
+  "checked": "2026-11-10T15:11:22+00:00",
   "title": "sich lustig machen: 7 Verben im Vergleich (B2/C1)",
   "duration": 714,
   "published": "20260906",
@@ -2650,73 +2700,10 @@
   "spoken_v": 2,
   "pace": 135.6,
   "rare": 0.0676,
+  "var": 0.825,
   "speech_s": 706.4,
   "tokens": 1597,
   "kw": [
-   [
-    "sticheln",
-    "dem Verb „sticheln“. Stellt euch vor, ihr kommt morgens ins Büro, und eine Kollegin sagt zu euch:",
-    274,
-    283,
-    2.34,
-    8
-   ],
-   [
-    "hänseln",
-    "– „Nicht so gut. Seine Mitschüler hänseln ihn wegen seiner Brille.“",
-    522,
-    529,
-    2.22,
-    6
-   ],
-   [
-    "neckt",
-    "mit denen wir so eine Situation beschreiben können. Macht er sich über mich lustig? Neckt",
-    6,
-    12,
-    2.31,
-    5
-   ],
-   [
-    "verb",
-    "Verb passt. Fangen wir mit einem sehr allgemeinen Ausdruck an: „sich über jemanden lustig machen“.",
-    19,
-    27,
-    3.72,
-    11
-   ],
-   [
-    "necken",
-    "„Was sich liebt, das neckt sich.“ Da steckt unser nächstes Verb drin: „jemanden necken“.",
-    96,
-    105,
-    2.73,
-    5
-   ],
-   [
-    "verhöhnen",
-    "machen weiter mit „jemanden verhöhnen“. Dieses Verb beschreibt ein sehr schlechtes Verhalten.",
-    616,
-    624,
-    2.78,
-    3
-   ],
-   [
-    "bemerkungen",
-    "Das beschreibt, dass man jemanden ärgert, mit kleinen Witzen und Bemerkungen. Aber das ist",
-    104,
-    112,
-    3.71,
-    6
-   ],
-   [
-    "aufziehen",
-    "das etwas ganz Ähnliches beschreibt wie „jemanden necken“. Und das ist „jemanden aufziehen“:",
-    185,
-    193,
-    3.43,
-    4
-   ],
    [
     "jemanden",
     "Verb passt. Fangen wir mit einem sehr allgemeinen Ausdruck an: „sich über jemanden lustig machen“.",
@@ -2750,42 +2737,138 @@
     8
    ],
    [
-    "person",
+    "witze",
     "Wenn wir uns über jemanden lustig machen, machen wir Witze über diese Person. Wir",
     26,
     32,
-    5.29,
-    7
+    4.24,
+    9
    ],
    [
-    "darüber",
-    "es kann aber auch harmlos sein. Wenn ein Freund sich darüber lustig macht,",
-    37,
-    43,
-    5.44,
-    7
+    "böse",
+    "meistens freundlich und spielerisch gemeint, nicht böse. Schauen wir uns ein Beispiel an:",
+    112,
+    119,
+    4.74,
+    5
    ],
    [
-    "chef",
+    "gemeint",
+    "meistens freundlich und spielerisch gemeint, nicht böse. Schauen wir uns ein Beispiel an:",
+    112,
+    119,
+    4.65,
+    5
+   ],
+   [
+    "lachen",
+    "lachen über sie, vielleicht imitieren wir sie auch. Das ist manchmal sehr gemein,",
+    31,
+    38,
+    4.76,
+    3
+   ],
+   [
+    "verb",
+    "Verb passt. Fangen wir mit einem sehr allgemeinen Ausdruck an: „sich über jemanden lustig machen“.",
+    19,
+    27,
+    3.72,
+    11
+   ],
+   [
+    "bemerkungen",
+    "Das beschreibt, dass man jemanden ärgert, mit kleinen Witzen und Bemerkungen. Aber das ist",
+    104,
+    112,
+    3.71,
+    6
+   ],
+   [
+    "podcast",
+    "Ihr Lieben, ich habe eine Neuigkeit für euch: In wenigen Tagen startet mein neuer Podcast. Ich",
+    391,
+    397,
+    4.07,
+    4
+   ],
+   [
+    "meeting",
     "- „Nach dem Meeting habe ich gehört, wie der Chef sich über meine Präsentation lustig gemacht hat.“",
     75,
     83,
-    4.92,
-    7
+    3.81,
+    4
    ],
    [
-    "bedeutet",
-    "Das bedeutet: Hör auf, Witze über seine Frisur zu machen. Hör auf, darüber zu lachen. Oder:",
-    68,
-    76,
-    5.09,
-    7
+    "aufziehen",
+    "das etwas ganz Ähnliches beschreibt wie „jemanden necken“. Und das ist „jemanden aufziehen“:",
+    185,
+    193,
+    3.43,
+    4
+   ],
+   [
+    "spott",
+    "an. Da steckt das Substantiv „der Spott“ drin. Was bedeutet das? Wenn ich mich in einer bösen",
+    439,
+    449,
+    3.58,
+    3
+   ],
+   [
+    "verspottet",
+    "er mich, verspottet er mich oder zieht er mich auf? In diesem Video schauen uns an, wann welches",
+    12,
+    20,
+    3.23,
+    3
+   ],
+   [
+    "hanse",
+    "Gretel“ zu tun hat. Das ist aber nicht so. „Hänseln“ kommt von dem Wort „Hanse“. Eine",
+    577,
+    585,
+    3.25,
+    2
+   ],
+   [
+    "sticheln",
+    "dem Verb „sticheln“. Stellt euch vor, ihr kommt morgens ins Büro, und eine Kollegin sagt zu euch:",
+    274,
+    283,
+    2.34,
+    8
+   ],
+   [
+    "hänseln",
+    "– „Nicht so gut. Seine Mitschüler hänseln ihn wegen seiner Brille.“",
+    522,
+    529,
+    2.22,
+    6
+   ],
+   [
+    "necken",
+    "„Was sich liebt, das neckt sich.“ Da steckt unser nächstes Verb drin: „jemanden necken“.",
+    96,
+    105,
+    2.73,
+    5
+   ],
+   [
+    "neckt",
+    "mit denen wir so eine Situation beschreiben können. Macht er sich über mich lustig? Neckt",
+    6,
+    12,
+    2.31,
+    5
    ]
   ],
-  "tx": "Stellt euch vor, ein Freund macht einen Witz über meine Frisur. Im Deutschen haben wir viele Verben, mit denen wir so eine Situation beschreiben können. Macht er sich über mich lustig? Neckt er mich, verspottet er mich oder zieht er mich auf? In diesem Video schauen uns an, wann welches Verb passt. Fangen wir mit einem sehr allgemeinen Ausdruck an: „sich über jemanden lustig machen“. Wenn wir uns über jemanden lustig machen, machen wir Witze über diese Person. Wir lachen über sie, vielleicht imitieren wir sie auch. Das ist manchmal sehr gemein, es kann aber auch harmlos sein. Wenn ein Freund sich darüber lustig macht, dass ich immer ein paar Minuten zu spät zu unserer Verabredung komme, ist das nicht besonders schlimm. Aber wenn sich jemand über mein Aussehen lustig macht, dann kann das verletzend sein. Es kommt also auf die Situation an. Hier ist ein Beispieldialog: - „Ich finde, mit seiner neuen Frisur sieht er aus wie ein Papagei.“ – „Ach, hör doch auf, dich immer über ihn lustig zu machen.“ Das bedeutet: Hör auf, Witze über seine Frisur zu machen. Hör auf, darüber zu lachen. Oder: - „Nach dem Meeting habe ich gehört, wie der Chef sich über meine Präsentation lustig gemacht hat.“ Der Chef hat also Witze über mich oder meine Präsentation gemacht. Das war für mich sehr unangenehm und vom Chef sehr unprofessionell. Wir haben im Deutschen ein Sprichwort. Das geht so: „Was sich liebt, das neckt sich.“ Da steckt unser nächstes Verb drin: „jemanden necken“. Das beschreibt, dass man jemanden ärgert, mit kleinen Witzen und Bemerkungen. Aber das ist meistens freundlich und spielerisch gemeint, nicht böse. Schauen wir uns ein Beispiel an: - „Marcel hat als einziger im Büro einen super unordentlichen Schreibtisch. Die Kollegen necken ihn manchmal deshalb.“ Also: Die Kollegen mac",
+  "tx": "Stellt euch vor, ein Freund macht einen Witz über meine Frisur. Im Deutschen haben wir viele Verben, mit denen wir so eine Situation beschreiben können. Macht er sich über mich lustig? Neckt er mich, verspottet er mich oder zieht er mich auf? In diesem Video schauen uns an, wann welches Verb passt. Fangen wir mit einem sehr allgemeinen Ausdruck an: „sich über jemanden lustig machen“. Wenn wir uns über jemanden lustig machen, machen wir Witze über diese Person. Wir lachen über sie, vielleicht imitieren wir sie auch. Das ist manchmal sehr gemein, es kann aber auch harmlos sein. Wenn ein Freund … Frisur zu machen. Hör auf, darüber zu lachen. Oder: - „Nach dem Meeting habe ich gehört, wie der Chef sich über meine Präsentation lustig gemacht hat.“ Der Chef hat also Witze über mich oder meine Präsentation gemacht. Das war für mich sehr unangenehm und vom Chef sehr unprofessionell. Wir haben im Deutschen ein Sprichwort. Das geht so: „Was sich liebt, das neckt sich.“ Da steckt unser nächstes Verb drin: „jemanden necken“. Das beschreibt, dass man jemanden ärgert, mit kleinen Witzen und Bemerkungen. Aber das ist meistens freundlich und spielerisch gemeint, nicht böse. Schauen wir uns ein … Partner oder seine Partnerin … Und daher kommt auch das Sprichwort: „Was sich liebt, das neckt sich“. Es bedeutet: „Menschen, die sich lieben oder gernhaben, ärgern sich manchmal auch ein bisschen.“ Das gehört dazu. Hier ist noch ein Beispiel: - „Meine Großmutter neckt meinen Vater bis heute damit, dass er mit dreißig noch nicht kochen konnte.“ Meine Oma erinnert meinen Vater also immer wieder scherzhaft an diese alte Geschichte, und die ganze Familie hat dann Spaß. Wir haben noch ein Verb, das etwas ganz Ähnliches beschreibt wie „jemanden necken“. Und das ist „jemanden aufziehen“: - „Meine … eine Eigenschaft, eine Schwäche oder einen Fehler. Hier im ersten Beispiel war es meine Angst vor Hunden. Schauen wir uns noch ein Beispiel an: - „Seit ich einmal in einem Meeting eingeschlafen bin, zieht mich mein Chef damit auf. Ich fürchte, er wird nie damit aufhören.“ Hier war mein Fehler, dass ich mal in einem Meeting eingeschlafen bin. Mein Chef erinnert mich jetzt immer wieder lachend an diesen einen peinlichen Moment und macht Witze darüber. „Jemanden aufziehen“ ist umgangssprachlich. Es passt also gut in lockere Gespräche, aber nicht in eine förmliche E-Mail. Das Verb ist … ist aber eine Ausnahme. Das, was die Kollegin hier macht, nennt man „sticheln“: Man sagt dabei nicht offen, klar und deutlich, was man denkt. Stattdessen versteckt man seine Kritik in einer kleinen, scheinbar harmlosen Bemerkung. Oft bedeutet „sticheln“, dass man immer wieder solche kleinen Bemerkungen macht. In dem Verb „sticheln“ steckt das Wort „stechen“. Wenn man stichelt, sticht man immer wieder mit einem spitzen Gegenstand irgendwo rein. Im übertragenen Sinn gibt jemand immer wieder einzelne, kleine Bemerkungen oder Kommentare von sich. Jede einzelne Bemerkung wirkt nicht so schlimm, … Zum Beispiel: - „Musst du ständig gegen deinen Bruder sticheln?“ Also: Musst du immer wieder solche kleinen bösen c Bemerkungen über deinen Bruder machen? Ihr Lieben, ich habe eine Neuigkeit für euch: In wenigen Tagen startet mein neuer Podcast. Ich werde wöchentlich eine neue Folge veröffentlichen und in jeder Folge einen Ausdruck oder ein nützliches Wort aus dem Alltag besprechen. Die Folgen sind kurz – etwa 5 Minuten – sodass ihr sie wunderbar nebenbei hören könnt. Das ist also ein anderes Format als meine sehr ausführlichen YouTube-Videos. Wenn das interessant für euch klingt, … nennt man das „Spott“: Ich verspotte die Person. „Sich über jemanden lustig machen“ kann vieles bedeuten. Das kann ein liebevoller Scherz unter Freunden sein oder ein gemeiner Kommentar. „Jemanden necken“ und „jemanden aufziehen“ sind eher lieb gemeint. Bei „jemanden verspotten“ ist aber ganz klar, dass es sich um ein abwertendes, gemeines Verhalten handelt. Spott ist nie lieb gemeint. Ein Beispielsatz: - „Mein Vater wurde früher in der Schule wegen seines Dialekts verspottet.“ Das bedeutet: Die anderen Schüler haben böse Witze über seinen Dialekt gemacht. Sie wollten ihm wehtun mit ihren … ganz klar negatives Verb. An „hänseln“ ist nichts gut oder lustig. Hier im Beispiel sage ich: Die anderen Kinder machen sich immer wieder über ihn lustig, sie machen gemeine Witze über seine Brille. Und er kann sich nicht wehren. Hänseln passiert immer wieder, nicht nur einmal. Es trifft jemanden, der sich schlecht wehren kann, oft ein Kind. Und oft ist es eine Gruppe gegen einen. Es sind häufig Kinder, die gehänselt werden. Bei Erwachsenen benutzt man dieses Wort weniger. Die Entstehungsgeschichte dieses Verbs ist ganz interessant. Wenn man das so liest, könnte man denken, dass es … Gruppe aufzunehmen. Heute geht’s darum, jemanden aus einer Gruppe auszuschließen. Aber dass man sich über jemanden lustig macht und über ihn lacht, ist heute noch so geblieben. Wir machen weiter mit „jemanden verhöhnen“. Dieses Verb beschreibt ein sehr schlechtes Verhalten. Wenn ich jemanden verhöhne, mag ich die Person nicht. Ich denke, dass ich besser bin als die Person. Und ich will sie verletzen, indem ich mich über sie lustig mache. Was oft auch noch dazu kommt, ist Schadenfreude. Wenn es einer anderen Person richtig schlecht geht und ich mich darüber freue und dann noch Witze darüber … aus dem Sport: - „Als die Spieler nach dem verlorenen Finale auf dem Platz standen und weinten, wurden sie von den gegnerischen Fans verhöhnt.“ Das bedeutet: Die Spieler waren gerade sehr traurig und weinten, und genau in diesem Moment haben die Fans der anderen Mannschaft gejubelt und sich über sie lustig gemacht. Sie haben sich über ihr Unglück gefreut. Genau das ist Verhöhnen. Wenn euch dieses Video gefallen hat, schaut euch doch als nächstes mein Video über Synonyme für „lachen“ an. Ich verlinke es euch hier und in der Videobeschreibung. Vielen Dank fürs Zuschauen und bis nächste Woche!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7837
+  "src": "cc"
  },
  "PqJz6WTJgf8": {
   "channel": "Chill German",
@@ -4157,7 +4240,7 @@
  "0OoZuYtP90k": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-03T04:42:59+00:00",
+  "checked": "2026-11-10T15:11:25+00:00",
   "title": "So unterscheidest du die Verben mit „finden“ (Deutsch B2, C1)",
   "duration": 589,
   "published": "20260830",
@@ -4165,73 +4248,10 @@
   "spoken_v": 2,
   "pace": 124.0,
   "rare": 0.0609,
+  "var": 0.8193,
   "speech_s": 579.7,
   "tokens": 1198,
   "kw": [
-   [
-    "verb",
-    "Okay, sprechen wir über “etwas oder jemanden vorfinden”. Bei diesem Verb geht es darum,",
-    82,
-    90,
-    3.72,
-    11
-   ],
-   [
-    "vorfinden",
-    "auffinden, vorfinden, ausfinden und anfinden. Wir schauen heute mal,",
-    12,
-    18,
-    3.25,
-    7
-   ],
-   [
-    "auffinden",
-    "auffinden, vorfinden, ausfinden und anfinden. Wir schauen heute mal,",
-    12,
-    18,
-    3.28,
-    7
-   ],
-   [
-    "ausfindig",
-    "das Mitglied vielleicht im Kopf hatte: jemanden oder etwas ausfindig machen.",
-    397,
-    404,
-    3.69,
-    7
-   ],
-   [
-    "verben",
-    "dass es vor einiger Zeit diese Verben gesehen hat und sie interessant fand:",
-    7,
-    13,
-    3.41,
-    4
-   ],
-   [
-    "bewusstlos",
-    "- “Als sie nach Hause kam, fand sie ihren Ehemann bewusstlos vor.”",
-    108,
-    115,
-    3.48,
-    4
-   ],
-   [
-    "hasskommentare",
-    "- „Die Polizei konnte den Verfasser der Hasskommentare ausfindig machen.\"",
-    452,
-    459,
-    2.48,
-    2
-   ],
-   [
-    "rieke",
-    "In der “Deutsch mit Rieke“-Community kam neulich eine schöne Frage auf. Ein Mitglied schrieb,",
-    1,
-    8,
-    2.67,
-    2
-   ],
    [
     "beispiel",
     "“Jemanden finden” bedeutet meistens, dass man nach einer Person gesucht hat. Zum Beispiel:",
@@ -4265,42 +4285,130 @@
     8
    ],
    [
-    "jemanden",
-    "“Jemanden finden” bedeutet meistens, dass man nach einer Person gesucht hat. Zum Beispiel:",
-    59,
-    66,
-    4.88,
+    "feuerwehr",
+    "- „Die Feuerwehr hat in dem brennenden Haus zum Glück keine verletzten Personen vorgefunden.\"",
+    231,
+    239,
+    4.49,
+    5
+   ],
+   [
+    "schlüssel",
+    "gefunden?” – “Ja, er war im Kleiderschrank.” Hier hat man aktiv nach dem Schlüssel gesucht.",
+    51,
+    60,
+    4.42,
+    5
+   ],
+   [
+    "zustand",
+    "dann jemand oder etwas in einem besonderen Zustand. Also: Irgendwas ist besonders,",
+    96,
+    104,
+    4.79,
+    3
+   ],
+   [
+    "bestimmten",
+    "Es geht nicht immer darum, dass man an einem ganz bestimmten Ort ankommt. Es kann auch sein, dass",
+    177,
+    183,
+    4.75,
+    3
+   ],
+   [
+    "verb",
+    "Okay, sprechen wir über “etwas oder jemanden vorfinden”. Bei diesem Verb geht es darum,",
+    82,
+    90,
+    3.72,
+    11
+   ],
+   [
+    "ausfindig",
+    "das Mitglied vielleicht im Kopf hatte: jemanden oder etwas ausfindig machen.",
+    397,
+    404,
+    3.69,
     7
    ],
    [
-    "jemand",
-    "dass jemand an einem Ort ankommt – zum Beispiel kommt jemand nach Hause. Und an diesem Ort ist",
-    89,
-    97,
-    5.5,
+    "aufgefunden",
+    "- “Der vermisste Mann wurde am Abend auf einem Parkplatz außerhalb der Stadt aufgefunden.”",
+    306,
+    314,
+    3.8,
+    4
+   ],
+   [
+    "verletzten",
+    "- „Die Feuerwehr hat in dem brennenden Haus zum Glück keine verletzten Personen vorgefunden.\"",
+    231,
+    239,
+    3.97,
+    3
+   ],
+   [
+    "auffinden",
+    "auffinden, vorfinden, ausfinden und anfinden. Wir schauen heute mal,",
+    12,
+    18,
+    3.28,
     7
    ],
    [
-    "suche",
-    "- “Nach monatelanger Suche habe ich endlich einen guten Augenarzt gefunden.”",
-    65,
-    72,
-    5.1,
-    6
+    "vorfinden",
+    "auffinden, vorfinden, ausfinden und anfinden. Wir schauen heute mal,",
+    12,
+    18,
+    3.25,
+    7
    ],
    [
-    "oft",
-    "Zustandsangabe klingt “vorfinden” mit Personen oft merkwürdig. Hier ist noch ein Beispiel:",
-    141,
-    149,
-    5.48,
-    6
+    "bewusstlos",
+    "- “Als sie nach Hause kam, fand sie ihren Ehemann bewusstlos vor.”",
+    108,
+    115,
+    3.48,
+    4
+   ],
+   [
+    "verben",
+    "dass es vor einiger Zeit diese Verben gesehen hat und sie interessant fand:",
+    7,
+    13,
+    3.41,
+    4
+   ],
+   [
+    "aufzufinden",
+    "Sehr häufig ist auch die verneinte Konstruktion „nicht aufzufinden sein\". Zum Beispiel:",
+    365,
+    372,
+    2.87,
+    2
+   ],
+   [
+    "rieke",
+    "In der “Deutsch mit Rieke“-Community kam neulich eine schöne Frage auf. Ein Mitglied schrieb,",
+    1,
+    8,
+    2.67,
+    2
+   ],
+   [
+    "hasskommentare",
+    "- „Die Polizei konnte den Verfasser der Hasskommentare ausfindig machen.\"",
+    452,
+    459,
+    2.48,
+    2
    ]
   ],
-  "tx": "In der “Deutsch mit Rieke“-Community kam neulich eine schöne Frage auf. Ein Mitglied schrieb, dass es vor einiger Zeit diese Verben gesehen hat und sie interessant fand: auffinden, vorfinden, ausfinden und anfinden. Wir schauen heute mal, was diese Verben bedeuten und was die Unterschiede sind. Viel Spaß! Lasst uns ganz kurz mit dem Grundverb “finden” anfangen. Das kennt ihr natürlich, aber wir brauchen es als Grundlage, um die anderen Verben zu verstehen. Deshalb kurz zur Wiederholung: “etwas finden” bedeutet, dass ich auf eine Sache stoße – entweder zufällig oder weil ich danach gesucht habe. Also: - “Ich habe beim Aufräumen 20 € in einer alten Tasche gefunden.” Das ist zufällig. Oder: - “Hast du endlich den Autoschlüssel gefunden?” – “Ja, er war im Kleiderschrank.” Hier hat man aktiv nach dem Schlüssel gesucht. “Jemanden finden” bedeutet meistens, dass man nach einer Person gesucht hat. Zum Beispiel: - “Nach monatelanger Suche habe ich endlich einen guten Augenarzt gefunden.” Diese Bedeutungen von “finden” behalten wir mal im Kopf. Es gibt noch andere Bedeutungen von “finden”, die sind aber für dieses Video hier nicht relevant. Okay, sprechen wir über “etwas oder jemanden vorfinden”. Bei diesem Verb geht es darum, dass jemand an einem Ort ankommt – zum Beispiel kommt jemand nach Hause. Und an diesem Ort ist dann jemand oder etwas in einem besonderen Zustand. Also: Irgendwas ist besonders, anders als sonst oder nicht so wie erwartet. Hier ist mal ein Beispielsatz: - “Als sie nach Hause kam, fand sie ihren Ehemann bewusstlos vor.” Sie kam nach Hause und da lag ihr Ehemann bewusstlos auf dem Boden. Er war ohnmächtig. Das ist ja etwas Besonderes. Das hatte sie nicht erwartet. Achtet hier auf das Wort “bewusstlos”: Wenn wir eine Person vorfinden, brauchen wir fast immer s",
+  "tx": "In der “Deutsch mit Rieke“-Community kam neulich eine schöne Frage auf. Ein Mitglied schrieb, dass es vor einiger Zeit diese Verben gesehen hat und sie interessant fand: auffinden, vorfinden, ausfinden und anfinden. Wir schauen heute mal, was diese Verben bedeuten und was die Unterschiede sind. Viel Spaß! Lasst uns ganz kurz mit dem Grundverb “finden” anfangen. Das kennt ihr natürlich, aber wir brauchen es als Grundlage, um die anderen Verben zu verstehen. Deshalb kurz zur Wiederholung: “etwas finden” bedeutet, dass ich auf eine Sache stoße – entweder zufällig oder weil ich danach gesucht … gesucht. “Jemanden finden” bedeutet meistens, dass man nach einer Person gesucht hat. Zum Beispiel: - “Nach monatelanger Suche habe ich endlich einen guten Augenarzt gefunden.” Diese Bedeutungen von “finden” behalten wir mal im Kopf. Es gibt noch andere Bedeutungen von “finden”, die sind aber für dieses Video hier nicht relevant. Okay, sprechen wir über “etwas oder jemanden vorfinden”. Bei diesem Verb geht es darum, dass jemand an einem Ort ankommt – zum Beispiel kommt jemand nach Hause. Und an diesem Ort ist dann jemand oder etwas in einem besonderen Zustand. Also: Irgendwas ist … Er war ohnmächtig. Das ist ja etwas Besonderes. Das hatte sie nicht erwartet. Achtet hier auf das Wort “bewusstlos”: Wenn wir eine Person vorfinden, brauchen wir fast immer so eine Zustandsangabe – man findet jemanden zum Beispiel bewusstlos, schlafend oder verletzt vor. Ohne Zustandsangabe klingt “vorfinden” mit Personen oft merkwürdig. Hier ist noch ein Beispiel: - „Als das Ehepaar vom Theaterbesuch zurückkam, fand es die Wohnung verwüstet vor.\" Die Wohnung war verwüstet – das bedeutet, dass jemand in der Wohnung war und dort alles durchwühlt und großes Chaos angerichtet hat. Ein … ankommt. Es kann auch sein, dass man in eine neue Situation kommt und dort dann ein besonderer Zustand herrscht. Zum Beispiel: - “In diesem Verein wirst du perfekte Trainingsbedingungen vorfinden.” Also: Wenn du Mitglied in diesem Verein wirst – also in diese neue Situation kommst –, dann wirst du dort perfekt trainieren können: Es gibt moderne Geräte, gute Trainer, tolle Atmosphäre. Das sind die besonderen Umstände, die es in diesem Verein gibt. Bei „vorfinden\" geht es also immer darum, dass man irgendwo hinkommt und dort dann irgendetwas Besonderes ist. Es geht NICHT darum, dass man … Ein Haus hat gebrannt. Die Feuerwehr kam an dem Haus an – das ist die “besondere Situation”. Und in diesem brennenden Haus ist die Feuerwehr auf keine verletzten Personen gestoßen. Ich kann diesen Satz auch mit “finden” formulieren: - “Die Feuerwehr hat in dem Haus keine verletzten Personen gefunden.” Das würde bedeuten, dass die Feuerwehr aktiv nach den Personen gesucht hat. Das Verb “vorfinden” klingt oft sehr sachlich und etwas formell. In der Umgangssprache im Alltag benutzt man es daher nicht besonders oft, aber in den Nachrichten und in anderen offizielleren Texten hört und liest … Also zum Beispiel: - “Der vermisste Mann wurde am Abend auf einem Parkplatz außerhalb der Stadt aufgefunden.” “Auffinden\" ist ein Verb, das in bestimmten Situationen benutzt wird: nämlich in Polizeimeldungen, Nachrichten oder offiziellen Berichten. In alltäglichen Gesprächen kann man hier auch einfach “finden” sagen: “Der vermisste Mann wurde auf einem Parkplatz gefunden.” „Auffinden\" wird außerdem fast immer im Passiv benutzt. Hier ist noch ein Beispiel: - „Die Seniorin wurde am Abend wohlbehalten in einem Park aufgefunden.\" Also: Die alte Frau war verschwunden. Ihre Verwandten haben … aufgefunden.” Sehr häufig ist auch die verneinte Konstruktion „nicht aufzufinden sein\". Zum Beispiel: - „Trotz intensiver Suche war der Mann nicht aufzufinden.\" Also: Trotz intensiver Suche konnte man den verschwundenen Mann nicht finden. In der Community wurde noch nach dem Verb “ausfinden” gefragt. Dieses Verb gibt es im heutigen Deutsch nicht – aber es gibt einen Ausdruck, der so ähnlich aussieht und den das Mitglied vielleicht im Kopf hatte: jemanden oder etwas ausfindig machen. „Jemanden ausfindig machen\" bedeutet: eine Person oder Sache nach einer längeren, oft schwierigen Suche … Gemälde gehört. Diese aktive, mühsame Suche ist genau das, was „ausfindig machen\" von „auffinden\" unterscheidet: Beim „Auffinden\" ist die Entdeckung oft eher zufällig, beim „Ausfindigmachen\" ist sie das Ergebnis von cleverer Recherche. Wenn man nach etwas gesucht hat wie ein Detektiv, dann passt “ausfindig machen”. Noch ein Beispiel: - „Die Polizei konnte den Verfasser der Hasskommentare ausfindig machen.\" Jemand hat Hasskommentare geschrieben – bei Instagram zum Beispiel –, und die Polizei hat so lange gesucht, bis sie wusste, wer es war. Die Suche hat lange gedauert, aber sie war … und irgendwann diesen einen Händler entdeckt. Bleibt noch das Verb „anfinden\". Als ich den Beitrag des Mitglieds gelesen habe, dachte ich, “Hm, ‘anfinden’, das Verb gibt es gar nicht.” Aber als ich dann recherchiert habe, wurde ich überrascht. In manchen Regionen Deutschlands wird dieses Verb tatsächlich benutzt, zum Beispiel in Ostdeutschland. Ein Beispielsatz, den ich gefunden habe, ist: - “Der Schlüssel hat sich wieder angefunden.” Ich würde diesen Satz so ausdrücken: “Der Schlüssel ist wieder aufgetaucht” oder “Der Schlüssel wurde gefunden” oder “Jemand hat den Schlüssel gefunden.” … Videos anschauen ist gut, aktiv lernen ist noch besser! Als Mitglied von Deutsch mit Rieke bekommst du interaktive Übungsaufgaben zu jedem Video – auch zu diesem hier; kannst dir die Skripte herunterladen, meine Videos ohne Werbung anschauen und mehr. Informationen dazu gibt’s auf https://deutsch-mit-rieke.de/mitglied. Habt ihr auch Verben im Kopf, bei denen ihr nicht so richtig versteht, was eigentlich der Unterschied zwischen ihnen ist? Schreibt sie in die Kommentare! Vielleicht mache ich dann schon bald ein Video darüber. Vielen Dank fürs Zuschauen und bis nächste Woche, macht’s gut!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.846
+  "src": "cc"
  },
  "WpuCo94hTQo": {
   "channel": "Sloeful German",
@@ -6603,7 +6711,7 @@
  "WkABcHoo_vo": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-03T15:59:10+00:00",
+  "checked": "2026-11-10T15:37:00+00:00",
   "title": "Caillous Safari | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3497,
   "published": "20261003",
@@ -6611,73 +6719,10 @@
   "spoken_v": 2,
   "pace": 117.0,
   "rare": 0.1167,
+  "var": 0.8362,
   "speech_s": 2892.2,
   "tokens": 5638,
   "kw": [
-   [
-    "rosie",
-    "er suchen muss. Komm mit, Rosie. Jetzt",
-    126,
-    133,
-    3.01,
-    41
-   ],
-   [
-    "papi",
-    "Papi, wo sind meine Karten? Vielleicht spielt Rosi gerade damit.",
-    35,
-    45,
-    3.27,
-    41
-   ],
-   [
-    "mami",
-    "Ist das Wal, Mami? Such mal im",
-    59,
-    65,
-    3.61,
-    26
-   ],
-   [
-    "chinook",
-    "bin Tom und das ist Chinook. Er ist ein",
-    423,
-    430,
-    2.29,
-    11
-   ],
-   [
-    "rosi",
-    "Vielleicht spielt Rosi gerade damit. Da ist eine.",
-    38,
-    48,
-    3.09,
-    16
-   ],
-   [
-    "spieluhr",
-    "Ich möchte auch mit der Spieluhr",
-    2763,
-    2768,
-    2.58,
-    9
-   ],
-   [
-    "gilbert",
-    "Gilbert, du darfst mein Schlittenkater sein.",
-    595,
-    601,
-    3.58,
-    15
-   ],
-   [
-    "schneeanzug",
-    "Schneeanzug nicht? Nein, ich will den",
-    205,
-    210,
-    2.06,
-    5
-   ],
    [
     "hast",
     "Was ist, Caillou? Hast du vielleicht",
@@ -6703,14 +6748,6 @@
     21
    ],
    [
-    "nein",
-    "Nein, das sind meine. Caillou wollte Rosi die Schachtel mit",
-    85,
-    94,
-    5.52,
-    18
-   ],
-   [
     "konnte",
     "mehr stillstehen konnte. ",
     219,
@@ -6719,39 +6756,143 @@
     18
    ],
    [
-    "gern",
-    "Er wollte doch so gern mit seinen Karten",
-    51,
-    56,
-    5.15,
-    18
+    "karten",
+    "Daddy, weißt du, wo meine Karten sind?",
+    16,
+    22,
+    4.74,
+    12
    ],
    [
-    "wollte",
-    "Er wollte doch so gern mit seinen Karten",
-    51,
-    56,
-    5.5,
+    "guck",
+    "Guck mal, eine Schlange.",
+    133,
+    139,
+    4.37,
+    12
+   ],
+   [
+    "ball",
+    "beobachten, dass er seinen Ball völlig",
+    1386,
+    1391,
+    4.64,
+    7
+   ],
+   [
+    "milch",
+    "Mann die Muku-Milch aus dem Kühlschrank",
+    1478,
+    1485,
+    4.51,
+    7
+   ],
+   [
+    "mami",
+    "Ist das Wal, Mami? Such mal im",
+    59,
+    65,
+    3.61,
+    26
+   ],
+   [
+    "wiedersehen",
+    "Ups! Wiedersehen! ",
+    353,
+    360,
+    4.11,
+    7
+   ],
+   [
+    "lucky",
+    "Caillou, das ist Lucky. Na, komm schon. Wir begrüßen es",
+    2060,
+    2068,
+    3.75,
+    7
+   ],
+   [
+    "andré",
+    "Hallo, André. Wollen wir wettrennen? Ich kann nicht. Ich muss zu meiner",
+    2481,
+    2488,
+    4.12,
+    6
+   ],
+   [
+    "papi",
+    "Papi, wo sind meine Karten? Vielleicht spielt Rosi gerade damit.",
+    35,
+    45,
+    3.27,
+    41
+   ],
+   [
+    "rosie",
+    "er suchen muss. Komm mit, Rosie. Jetzt",
+    126,
+    133,
+    3.01,
+    41
+   ],
+   [
+    "rosi",
+    "Vielleicht spielt Rosi gerade damit. Da ist eine.",
+    38,
+    48,
+    3.09,
+    16
+   ],
+   [
+    "gilbert",
+    "Gilbert, du darfst mein Schlittenkater sein.",
+    595,
+    601,
+    3.58,
     15
    ],
    [
-    "spielen",
-    "spielen. Hey, suchst du vielleicht deine Karten?",
-    53,
-    60,
-    5.42,
-    15
+    "chinook",
+    "bin Tom und das ist Chinook. Er ist ein",
+    423,
+    430,
+    2.29,
+    11
+   ],
+   [
+    "spieluhr",
+    "Ich möchte auch mit der Spieluhr",
+    2763,
+    2768,
+    2.58,
+    9
+   ],
+   [
+    "pferdchen",
+    "wie mein Pferdchen. Schneller.",
+    1853,
+    1859,
+    2.66,
+    5
+   ],
+   [
+    "schneeanzug",
+    "Schneeanzug nicht? Nein, ich will den",
+    205,
+    210,
+    2.06,
+    5
    ]
   ],
-  "tx": "Nur ein Zebra? Daddy, weißt du, wo meine Karten sind? Auf Wiederhören. Papi, wo sind meine Karten? Vielleicht spielt Rosi gerade damit. Da ist eine. Der Löwe. Lass mich die Schachtel zumachen. Caillou war enttäuscht. Er wollte doch so gern mit seinen Karten spielen. Hey, suchst du vielleicht deine Karten? Ich glaube, ich weiß, wo der Wal ist. Ist das Wal, Mami? Such mal im Badezimmer. Die Suche wurde aufregend. Wo könnte wohl die Wal-Karte versteckt sein? Ja, ich habe sie gefunden. Kikeriki! Dankeschön, Rosi. Meins! Nein, das sind meine. Caillou wollte Rosi die Schachtel mit den Karten nicht geben. Er spielte doch gerade damit. Caillou! Was ist hier los? Mami, ich habe gerade mit den Karten gespielt. Es sieht so aus, als ob noch viele Karten fehlen würden. Und Josie kann dich doch auf deiner Safari begleiten. Was ist denn eine Safari? Wenn du auf einer Safari bist, dann beobachtest du sehr, sehr vorsichtig wilde Tiere. Caillou war von dieser Idee begeistert. Er stellte sich vor, dass die fehlenden Karten alles wirkliche Tiere sind, die er suchen muss. Komm mit, Rosie. Jetzt gehen wir auf Safari. Guck mal, eine Schlange. Caillou und Rosie suchten sehr gründlich. In welchem Versteck würden sie wohl das nächste Tier entdecken? Caillou! Sie fanden es lustig, die Tiere nachzuahmen, die sie gerade gefunden hatten. Ein Krokodil! Caillou mochte Krokodile, denn sie waren groß und stark. Euer Abendbrot wartet. Aber Caillou und Rosie wollten ihre Safari weiterspielen. schon, Caillou. Ihr könnt später weiterspielen. Ich bin nicht Caillou, ich bin ein Krokodil. Wirklich wahr? Das ist aber schade. Caillou wird dann auf sein Lieblingsessen verzichten müssen, Hamburger. Ah, Hamburger? Ehrlich? Äh, guck mal, Papi, ich bin's Caillou. Nun mach schon, Caillou. Draußen ist es bitterkalt. Ma",
+  "tx": "Nur ein Zebra? Daddy, weißt du, wo meine Karten sind? Auf Wiederhören. Papi, wo sind meine Karten? Vielleicht spielt Rosi gerade damit. Da ist eine. Der Löwe. Lass mich die Schachtel zumachen. Caillou war enttäuscht. Er wollte doch so gern mit seinen Karten spielen. Hey, suchst du vielleicht deine Karten? Ich glaube, ich weiß, wo der Wal ist. Ist das Wal, Mami? Such mal im Badezimmer. Die Suche wurde aufregend. Wo könnte wohl die Wal-Karte versteckt sein? Ja, ich habe sie gefunden. Kikeriki! Dankeschön, Rosi. Meins! Nein, das sind meine. Caillou wollte Rosi die Schachtel mit den Karten nicht … Fell ist genauso wie dein Schneeanzug. Es hält ihn warm, wenn er den Schlitten durch den Schnee zieht. Caillou bemerkte, dass Chinooks Schlitten ganz anders war als seiner. Ich hab auch einen Schlitten. Und was für einen schönen. Aber Chinook muss einen besonderen Schlitten ziehen. Was ist, Caillou? Hast du vielleicht Lust auf eine Fahrt mit Chinook? Caillou hatte etwas Angst. Er hatte noch nie auf einem Hundeschlitten gesessen. Du brauchst keine Angst zu haben. Ich glaube, dass Chinook sehr vorsichtig sein wird. Sag mal, hat deine kleine Schwester vielleicht auch Lust mitzufahren? … parat? Ja! Na, dann los, fangt an, sie zu verteilen. Diese hier ist für dich, Clementine. Alles Gute zum Valentinstag. Ah, ist die aber schön. Habe ich selbst gemacht. Das da bin ich und das da bist du. Hier, Caillou. Danke, toll. Klasse, die ist echt schön. Caillou freute sich, dass die Freunde seine Valentinskarten mochten. Hast du schon alle verteilt? Diese Valentinskarte hatte Caillou noch gar nicht bemerkt. Die hier habe ich aber gar nicht gemacht. Diese Karte muss für dich sein, denn dein Name steht da drauf. Aber Caillou hatte doch schon von all seinen Freunden eine … er zuerst suchen sollte, aber dann hörte er sehr vertraute Laute aus dem Badezimmer und wusste nun, wen er fragen konnte. Hast du den Dinosaurier schon gefunden? Dinosaurier? Ich habe gedacht, das war ein Monster. Vielleicht war es auch ein Raumschiff. Ein Monster? Ein Dinosaurier? Ein Raumschiff? Was kann denn nur solche Geräusche machen? Los, komm mit, Mami. Caillou konnte es einfach nicht glauben. Niemand war im Zimmer, außer Gilbert. Aber wie hätte Gilbert solche Geräusche machen sollen? Natürlich, das ist ja ein altes Babyspielzeug von Rosie. Gilbert muss es sich aus der … Komm, wir ziehen uns an. einkaufen geht, bringt doch bitte Brot mit. Ich werde Rosie inzwischen was anderes zu essen geben. Du gehst viel zu schnell. Mami, sieh mal. Caillou fand die Zeichnung jetzt viel schöner, weil es eine fröhliche Sonne war. Dankeschön. Nicht so schnell, Caillou. Du hast nicht gesagt rotes Licht. Caillou machte dieses Spiel großen Spaß und deshalb wollte er es auf dem ganzen Nachhauseweg spielen. Grünes Licht. Rotes Licht, Mami. Wir sind wieder da. Caillou war froh, dass es ihm eingefallen war, schnell frische Milch zu holen, denn jetzt hatte er auch Hunger auf … Ja, bitte. Caiou hatte noch nie einen echten Cowboy gesehen. Er war schwer beeindruckt. Vielen Dank auch, mein kleines Fräulein. Ich glaube, Rosie möchte noch mehr Blumen pflücken. Wir lassen euch Cowboys am besten allein. Hast du schon mal ein richtiges Lasso gesehen, Caillou? Oh, toll! Caillou staunte über die Tricks, die Johnny konnte. Und, hab ich dich. Wie gut, dass wir den Baumstumpf eingefangen haben, bevor er weglaufen konnte. Sieh mal da, Caillou. Das ist aber ein großes Pferd, Papi. Das ist ein Pony. Pferde sind noch sehr viel größer. Ich werde mal eins aus dem Stall … gehören. Ich möchte auch gern so ein Tigerhemd haben. Hey, ich glaube, ich habe genau das Richtige für dich, Caillou. Das musst du an dein T-Shirt annähen lassen. Mit diesem Abzeichen fühlte sich Caillou ganz toll. Mann, habe ich einen Durst. Möchtest du auch etwas Wasser haben? das selber machen. Papi! Ja! Caillou war ganz aufgeregt, als er sah, wie sein Papi einen Punkt geholt hatte. Ja! Das haben wir hier noch mal gut hingekriegt. Danke sehr, Caillou. Du bist ja ein prima Wasserträger. Was ist ein Wasserträger? Das ist jemand, der die Aufgabe hat, den durstigen Spielern Wasser zu geben. … der arme Bär hat ein Loch im Kopf. Das werden wir gleich beheben. Hm. So, und jetzt ist da ein Piratenbär. Caillou hatte jetzt doch mehr Spaß mit dem Piratenbären, denn die Spieldose machte plötzlich keine Musik mehr. Ich bin ein Pirat! Rosie auch, Caillou? Nein, Rosie! Rosie, komm mal, ich hab was für dich. Hier kommt das Piratenschiff. Jetzt hörte er plötzlich die Spieldose wieder. Ich möchte auch mit der Spieluhr spielen. Meins. Willst du das hier? Nein. Willst du mein Piratenschiff haben? Nein. Du darfst auch mit meinem Piratenbär spielen, wenn du willst. Rosie mochte den Bären sehr … Libelle. Das ist eine Libelle? Oh, wie schön. Guck sie dir an, Rexi. Sie ist darüber geflogen. Können wir da auch hin? Zu Befehl, Captain. Also nehmen wir Kurs auf die Rohrkolben. Du kannst sie anfassen, Caillou. Die Rohrkolben fühlen sich ganz weich und pelzig an. Ja. Da. Caillou hatte noch nie einen so großen und so schönen Vogel so nah gesehen. Oh. So etwas nenne ich Glück. Das ist ein Silberreiher. Habt ihr das gesehen? Oh. Auf Wiedersehen, Rexy. Danke. Also, dann wollen wir mal weiter. Gleich sind wir da. Oh Mann, sieh dir das an. Wo? Rexy! Bleib ganz ruhig, Caillou. Ich habe ihn schon. … draußen, dürft ihr auf keinen Fall wieder in das Haus zurückgehen. Verstanden? Verstanden. Erst müssen wir ganz sicher sein, dass jeder von uns hier draußen ist. Und dann gehen wir zum Nachbarn und rufen von dort die Feuerwehr. Caillou tat jetzt so, als wäre ein Feuerwehrmann, der zum Helfen hergekommen ist. Caillou stellte sich vor, dass die Blumen brennen. Feuerwehrmann spielen machte wirklich großen Spaß. Rosie, guck, ich bin ein Feuerwehrmann. Und ein toller dazu. Hey, pass auf, wo du hinspritzt, du Oberfeuerwehrmann. Und so endete die erste Feueralarmübung von Caillou und seiner Familie.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8363
+  "src": "auto"
  },
  "nNHbRfNPy9Q": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-03T15:59:14+00:00",
+  "checked": "2026-11-10T15:37:06+00:00",
   "title": "Tanzen bei Oma | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3466,
   "published": "20260927",
@@ -6759,73 +6900,10 @@
   "spoken_v": 2,
   "pace": 115.9,
   "rare": 0.1081,
+  "var": 0.8381,
   "speech_s": 2949.5,
   "tokens": 5698,
   "kw": [
-   [
-    "rosie",
-    "Rosie auch. Darf ich um den nächsten Tanz bitten?",
-    180,
-    189,
-    3.01,
-    44
-   ],
-   [
-    "papi",
-    "Müsli, Papi. Na, du Schlafmütze.",
-    198,
-    206,
-    3.27,
-    39
-   ],
-   [
-    "mami",
-    "Das ist Mami. Halli Hallo, ihr Lieben. Zum Glück hat",
-    160,
-    169,
-    3.61,
-    31
-   ],
-   [
-    "clementine",
-    "Das war gerade Clementine am Telefon.",
-    2211,
-    2216,
-    2.79,
-    10
-   ],
-   [
-    "goldie",
-    "Sein Name ist Goldie, weil er ein",
-    2318,
-    2323,
-    2.72,
-    9
-   ],
-   [
-    "spieldose",
-    "Spieldose spielen. Nein!",
-    2768,
-    2777,
-    2.07,
-    6
-   ],
-   [
-    "hinkel",
-    "Gehen wir jetzt Mr. Hinkel helfen?",
-    1008,
-    1014,
-    2.52,
-    7
-   ],
-   [
-    "spieluhr",
-    "Spieluhr, als ich noch klein war.",
-    2675,
-    2680,
-    2.58,
-    7
-   ],
    [
     "hallo",
     "Hallo. Opi.",
@@ -6859,42 +6937,138 @@
     22
    ],
    [
-    "wollte",
-    "Das ist gemein. Ich wollte doch in den",
-    21,
-    26,
-    5.5,
-    21
+    "guck",
+    "Guck mal, Omi. ",
+    90,
+    94,
+    4.37,
+    13
    ],
    [
-    "glaube",
-    "Nein, das glaube ich nicht, dass ihr das",
-    57,
-    62,
-    5.39,
-    21
+    "milch",
+    "Und würde der junge Mann die Muku-Milch",
+    247,
+    252,
+    4.51,
+    9
    ],
    [
-    "konnte",
-    "Jetzt konnte Caillou das quietschende Geräusch nicht mehr hören, aber dafür",
-    903,
-    909,
-    5.64,
-    19
+    "karten",
+    "Daddy, weißt du, wo meine Karten sind?",
+    632,
+    637,
+    4.74,
+    8
    ],
    [
-    "gern",
-    "gern? Müsli, bitte. Ich, ich, ich!",
-    231,
-    238,
-    5.15,
-    19
+    "hörte",
+    "gehen und jetzt hörte es einfach nicht",
+    6,
+    11,
+    4.41,
+    8
+   ],
+   [
+    "mami",
+    "Das ist Mami. Halli Hallo, ihr Lieben. Zum Glück hat",
+    160,
+    169,
+    3.61,
+    31
+   ],
+   [
+    "kaninchen",
+    "Mami, Mami, ein Kaninchen. Draußen ist",
+    3380,
+    3387,
+    3.94,
+    10
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, Kühe. Können wir",
+    2474,
+    2479,
+    3.9,
+    10
+   ],
+   [
+    "billy",
+    "Was macht Billy denn da? Mein Bruder Billy übt auf seiner Tuba,",
+    2908,
+    2917,
+    3.88,
+    8
+   ],
+   [
+    "rosie",
+    "Rosie auch. Darf ich um den nächsten Tanz bitten?",
+    180,
+    189,
+    3.01,
+    44
+   ],
+   [
+    "papi",
+    "Müsli, Papi. Na, du Schlafmütze.",
+    198,
+    206,
+    3.27,
+    39
+   ],
+   [
+    "gilbert",
+    "Kaius Missgeschick freute, war Gilbert. Milch?",
+    268,
+    276,
+    3.58,
+    11
+   ],
+   [
+    "karotten",
+    "Karotten ein. Man kann ja nie wissen.",
+    1252,
+    1257,
+    3.42,
+    11
+   ],
+   [
+    "clementine",
+    "Das war gerade Clementine am Telefon.",
+    2211,
+    2216,
+    2.79,
+    10
+   ],
+   [
+    "goldie",
+    "Sein Name ist Goldie, weil er ein",
+    2318,
+    2323,
+    2.72,
+    9
+   ],
+   [
+    "goldfisch",
+    "Goldfisch ist. ",
+    2320,
+    2325,
+    2.75,
+    7
+   ],
+   [
+    "spieluhr",
+    "Spieluhr, als ich noch klein war.",
+    2675,
+    2680,
+    2.58,
+    7
    ]
   ],
-  "tx": "Caillou war sehr enttäuscht. Omi hatte versprochen, mit ihm in den Park zu gehen und jetzt hörte es einfach nicht auf zu regnen. Was ist mit dir, Caillou? Das ist gemein. Ich wollte doch in den Park gehen. aufhört zu regnen, können wir vielleicht später gehen. Bist du so lieb und trocknest die Schüssel ab? Na, ja, mache ich, Omi. Als Caillou mit Abtrocknen fertig war, spielte er wieder mit seinem Auto. Caillou fragte sich, was das wohl für Bilder in dem Buch waren. Ach, du hast ja mein Fotoalbum gefunden, Caillou. Wer ist das, Omi? Das sind dein Opa und ich, als wir beide noch jung waren. Nein, das glaube ich nicht, dass ihr das seid. Doch, das sind wir. Dein Opa und ich waren gute Tänzer. Oh, ich heb's auf. Dieses Foto von uns wurde bei einem großen Tanzwettbewerb gemacht. Da haben wir den Anstecker gewonnen. Toll! Caillou war sehr beeindruckt. Was meinst du, soll ich dir das Tanzen beibringen? Ja! Dann kann ich auch den ersten Preis gewinnen. Dieses Stück war eines unserer Lieblingslieder. Guck mal, Omi. Guck mal, ich tanze. Das ist gut, Caillou. Hier, komm und nimm meine Hände. Das Wichtigste beim Tanzen ist, genau hinhören und im Takt bleiben. Siehst du? Noch mal! Caillou fand es toll, mit seiner Oma zu tanzen. Es macht ihm riesigen Spaß. Pass mal auf, Omi. Hey, du hast dir einen neuen Tanz erfunden. Weil du so ein ausgezeichneter Tänzer bist, gewinnst du hiermit den ersten Preis. Hallo. Opi. Wir sind im Wohnzimmer, Schatz. Hallo, ihr zwei. Sieht so aus, als ob hier jemand eine Tanzstunde bekommt. Omi hat mir das beigebracht. Ausgezeichnet. Das ist Mami. Halli Hallo, ihr Lieben. Zum Glück hat es endlich aufgehört zu regnen. Caillou hatte die Tanzerei so viel Spaß gemacht, dass er gar nicht gemerkt hatte, dass es nicht mehr regnete. Guck mal, ich habe den ersten Prei",
+  "tx": "Caillou war sehr enttäuscht. Omi hatte versprochen, mit ihm in den Park zu gehen und jetzt hörte es einfach nicht auf zu regnen. Was ist mit dir, Caillou? Das ist gemein. Ich wollte doch in den Park gehen. aufhört zu regnen, können wir vielleicht später gehen. Bist du so lieb und trocknest die Schüssel ab? Na, ja, mache ich, Omi. Als Caillou mit Abtrocknen fertig war, spielte er wieder mit seinem Auto. Caillou fragte sich, was das wohl für Bilder in dem Buch waren. Ach, du hast ja mein Fotoalbum gefunden, Caillou. Wer ist das, Omi? Das sind dein Opa und ich, als wir beide noch jung waren. … Das ist Rosie. Sie ist meine kleine Schwester und ich mag sie sehr gern. Wir spielen sehr oft zusammen. Und dabei haben wir viel Spaß. Ich zeige ihr die Sachen, die ich gerne mag und manchmal tröste ich sie auch. Ich bin nämlich ihr großer Bruder. Wir schauen heute bei Papas Baseballspiel zu. Mami, Papi, ich bin fertig. Ist er Gut ist er gut, wir sind auch fertig. Rosie auch fertig. Du hast ja auf deinem Hemd einen Tiger. Ja, natürlich, weil sich meine Mannschaft die Tiger nennt. Auf zum Spiel. Caillou war sehr aufgeregt, weil er seinem Papi beim Baseballspielen zusehen durfte. Wollen wir … Ah, Hamburger? Ehrlich? Äh, guck mal, Papi, ich bin's, Caillou. An einem verschneiten Winterabend war Oma bei Caillou und Rosie zu Besuch. Macht deine Nase auch Piep, Rosie? Was war denn das? Ich glaube, das war ein Monster. Caillou wusste natürlich, dass das kein Monster war, aber es machte ihm Spaß, sich eins vorzustellen. Oh, ich glaube nicht, dass ein Monster unter das Sofa passt. Der Schneepflug. Caillou war von dem Schneepflug und seinen tollen Geräuschen ganz begeistert. All die lustigen Clowns tanzten aus dem Zirkuszelt heraus und dann begann die große Parade. Da ist schon … Hinkel. keine Sorgen. Seine Mami passt immer gut auf ihre Kleinen auf. Wahrscheinlich spielt das Hundebaby irgendwo herum. Aber ich höre es. Hündchen, Hündchen, wo hast du dich denn versteckt? Da bist du ja. Der Welpe spielte Verstecken. Und Caillou mochte dieses Spiel. Habt ihr das Hundebaby gesehen? Es ist darüber gerannt. es nicht gesehen. Wir müssen erst einmal das Dach auf die Hütte tun und dann werden wir es alle suchen. Da ist es ja. So, fertig. Hoffentlich mögen sie ihre Hütte. Komm her, Mimi. Kommt her, meine Babys. Gefällt sie dir? Das ist ja ein tolles Haus. Ich finde es prima. … Lucky sehr stark sein muss, weil er alle in der Kutsche ziehen konnte. Willst du mal die Zügel halten, Caillou? Ja, gern! Caillou war etwas ängstlich, aber er wollte dann doch versuchen, ob er den Wagen kutschieren kann. Ich bin der Kutscher, Papi. Und jetzt siehst du wie ein richtiger Cowboy aus. Yippie! Hoffentlich hat's dir gefallen. Hier hast du noch ein Andenken. Toll! Danke sehr. Tschüss, Partner. Tschüss, Lucky. Hi, mein Pferdchen. Hier, jetzt bekommst du eine Karotte. Ja. Ist es noch weit, Papi? Caillou war ungeduldig, endlich zu seinen Großeltern zu kommen, denn er wollte mit … ganz schnell rausgehen. Los, komm mit, Gilbert. So, und noch etwas ist sehr wichtig. Falls jemals ein Feuer ausbricht und ihr seid schon draußen, dürft ihr auf keinen Fall wieder in das Haus zurückgehen. Verstanden? Verstanden. Erst müssen wir ganz sicher sein, dass jeder von uns hier draußen ist. Und dann gehen wir zum Nachbarn und rufen von dort die Feuerwehr. Caillou tat jetzt so, als wäre ein Feuerwehrmann, der zum Helfen hergekommen ist. Caillou stellte sich vor, dass die Blumen brennen. Feuerwehrmann spielen machte wirklich großen Spaß. Rosie, guck, ich bin ein Feuerwehrmann. Und … Toll! Meinem kleinen Fischchen wird es hier drin zu warm werden, wenn es den Pulli anbehält. Ja, gut. Danke, Caillou. Hast du Lust zu spielen? Hallo, Fischchen. Sein Name ist Goldie, weil er ein Goldfisch ist. Es sah so aus, als ob der Fisch kurz anhielt, um Hallo zu sagen. Caillou strahlte. Goldfisch, Goldfisch, Goldie, der Goldfisch, Goldfisch. Möchte jemand Kekse haben? Goldie, der Goldfisch. Ich kann genauso essen wie Goldie. Komm, wir malen, Goldie. Das ist für dich. Dankeschön, das ist aber hübsch geworden. Caillou, wir müssen bald gehen, in Ordnung? Caillou wollte jetzt noch … Aber der arme Bär hat ein Loch im Kopf. Das werden wir gleich beheben. Hm. So. Und jetzt ist da ein Piratenbär. Caillou hatte jetzt doch mehr Spaß mit dem Piratenbären, denn die Spieluhr machte plötzlich keine Musik mehr. Ich bin ein Pirat. Rosie auch, Caillou. Nein, Rosie. Rosie, komm mal, ich habe was für dich. Hier kommt das Piratenschiff. Jetzt hörte er plötzlich die Spieluhr wieder. Ich möchte auch mit der Spieluhr spielen. Meins. Willst du das hier? Nein. Willst du mein Piratenschiff haben? Nein. Du darfst auch mit meinem Piratenbär spielen, wenn du willst. Rosie mochte den … gehen. Also, bis nachher. Dieses Hoch- und Runterspiel hatte Caillou großen Spaß gemacht. Deshalb wollte er jetzt noch nicht aufhören. Ich heb's schon auf. Hey, ich habe eine Idee. Lass mich auch mal. Clementine, Caillou hatte das gerade. Kommt mal mit, ihr zwei. Ich habe da eine Idee. Mögt ihr vielleicht ein paar Plätzchen haben? Und was wollt ihr trinken? Milch oder lieber Saft? Habt ihr etwa gesagt, ihr wollt Essig trinken? Na gut, also von mir aus. Nein, Milch bitte. Ah, Billys Kapelle fängt an zu üben. Wenn ihr mit Essen fertig seid, könnt ihr rausgehen und zuhören. Caillou konnte es … zog. Sieh mal, Mami. Oh, du meine Güte, es ist ein Kaninchen. Häschen! Ich hab dir doch gesagt, ich hab es gesehen. Sei vorsichtig, es kennt dich nicht. Schneebällchen. Also, hier hast du dich versteckt. Ihr Kaninchen, Mr. Hinkel? Nein, es ist meins. Ich bin Nancy. Ich bin zu Besuch bei meinem Bruder und irgendwie muss Schneebällchen aus seinem Käfig entwicht sein. Wir haben schon überall nach dem Kerlchen gesucht. Möchtest du Schneebällchen gern mal streicheln? Also, ich glaube, jetzt ist der Fall der verschwundenen Karotten gelöst. Und ich habe ein verschwundenes Häschen wieder gefunden.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8519
+  "src": "auto"
  },
  "p5b1dtqnmiM": {
   "channel": "Deutsch für Euch",
@@ -7500,7 +7674,7 @@
  "qlw7LMOFpV4": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-04T03:45:55+00:00",
+  "checked": "2026-11-10T15:32:50+00:00",
   "title": "🎭 Emotionen im Deutschen – So drückst du deine Gefühle richtig aus! 😍🇩🇪",
   "duration": 909,
   "published": "20250307",
@@ -7508,73 +7682,10 @@
   "spoken_v": 2,
   "pace": 75.5,
   "rare": 0.0651,
+  "var": 0.826,
   "speech_s": 891.9,
   "tokens": 1122,
   "kw": [
-   [
-    "emotionen",
-    "Emotionen! Gefühle sind ein zentraler Bestandteil jeder Sprache, und das Deutsche hat viele schöne,",
-    15,
-    26,
-    4.15,
-    14
-   ],
-   [
-    "auszudrücken",
-    "präzise Begriffe, um Emotionen auszudrücken. In diesem Video schauen wir uns die wichtigsten",
-    25,
-    36,
-    3.72,
-    7
-   ],
-   [
-    "nuancen",
-    "was wir empfinden. Im Deutschen gibt es spezielle Wörter für Nuancen von Gefühlen,",
-    62,
-    71,
-    3.31,
-    4
-   ],
-   [
-    "wehmut",
-    "Wehmut Wehmut ist ein schönes deutsches Wort, das Melancholie beschreibt,",
-    729,
-    740,
-    2.99,
-    3
-   ],
-   [
-    "zuneigung",
-    "Zuneigung und Liebe Bei Zuneigung gibt es ebenfalls viele Abstufungen. „Ich",
-    395,
-    405,
-    3.63,
-    4
-   ],
-   [
-    "traurigkeit",
-    "Traurigkeit und Bedauern Bei Traurigkeit gibt es auch Nuancen. Wenn man sagt, „Ich bin traurig“,",
-    172,
-    185,
-    3.5,
-    3
-   ],
-   [
-    "verspüre",
-    "anderes hat.Beispiel: „Ich verspüre manchmal Eifersucht, wenn jemand sehr erfolgreich ist.“",
-    661,
-    674,
-    3.04,
-    2
-   ],
-   [
-    "frustration",
-    "Ergebnis war meine Enttäuschung groß.“ Frustration Frustration ist das Gefühl,",
-    614,
-    627,
-    3.24,
-    2
-   ],
    [
     "gefühl",
     "klingt das eher allgemein. Wenn man aber sehr tief in einem Gefühl steckt, kann man „tief betroffen“",
@@ -7584,20 +7695,36 @@
     14
    ],
    [
-    "wörter",
-    "deutschen Wörter für Emotionen an, und ich gebe dir Beispiele, wie du",
-    35,
-    42,
-    4.35,
-    11
-   ],
-   [
     "freude",
     "Freude und Glück Freude ist ein schöner Begriff, den wir für positive Gefühle verwenden,",
     106,
     118,
     4.87,
     8
+   ],
+   [
+    "sagen",
+    "aber es gibt so viele Varianten! Man kann sagen, dass man „glücklich“ ist, was etwas persönlicher",
+    117,
+    127,
+    5.68,
+    6
+   ],
+   [
+    "deutschen",
+    "deutschen Wörter für Emotionen an, und ich gebe dir Beispiele, wie du",
+    35,
+    42,
+    5.67,
+    6
+   ],
+   [
+    "wörter",
+    "deutschen Wörter für Emotionen an, und ich gebe dir Beispiele, wie du",
+    35,
+    42,
+    4.35,
+    11
    ],
    [
     "beschreibt",
@@ -7616,34 +7743,90 @@
     7
    ],
    [
-    "sagt",
+    "beschreiben",
+    "man Ärger beschreiben kann.Beispiel: „Ich spüre Wut, wenn jemand unfair behandelt wird.“",
+    297,
+    309,
+    4.33,
+    4
+   ],
+   [
+    "emotionen",
+    "Emotionen! Gefühle sind ein zentraler Bestandteil jeder Sprache, und das Deutsche hat viele schöne,",
+    15,
+    26,
+    4.15,
+    14
+   ],
+   [
+    "auszudrücken",
+    "präzise Begriffe, um Emotionen auszudrücken. In diesem Video schauen wir uns die wichtigsten",
+    25,
+    36,
+    3.72,
+    7
+   ],
+   [
+    "zuneigung",
+    "Zuneigung und Liebe Bei Zuneigung gibt es ebenfalls viele Abstufungen. „Ich",
+    395,
+    405,
+    3.63,
+    4
+   ],
+   [
+    "wütend",
+    "Wut und Ärger Wenn etwas uns verärgert, kann man sagen, „Ich bin wütend“ oder „Ich bin sauer“. Die",
+    244,
+    258,
+    4.17,
+    3
+   ],
+   [
+    "nuancen",
+    "was wir empfinden. Im Deutschen gibt es spezielle Wörter für Nuancen von Gefühlen,",
+    62,
+    71,
+    3.31,
+    4
+   ],
+   [
+    "traurigkeit",
     "Traurigkeit und Bedauern Bei Traurigkeit gibt es auch Nuancen. Wenn man sagt, „Ich bin traurig“,",
     172,
     185,
-    5.59,
-    6
+    3.5,
+    3
    ],
    [
-    "sagen",
-    "aber es gibt so viele Varianten! Man kann sagen, dass man „glücklich“ ist, was etwas persönlicher",
-    117,
-    127,
-    5.68,
-    6
+    "freudig",
+    "klingt.Oder, wenn man besonders freudig ist, kann man „begeistert“ oder „entzückt“ sein.Ein",
+    126,
+    138,
+    3.46,
+    2
    ],
    [
-    "deutschen",
-    "deutschen Wörter für Emotionen an, und ich gebe dir Beispiele, wie du",
-    35,
-    42,
-    5.67,
-    6
+    "frustration",
+    "Ergebnis war meine Enttäuschung groß.“ Frustration Frustration ist das Gefühl,",
+    614,
+    627,
+    3.24,
+    2
+   ],
+   [
+    "wehmut",
+    "Wehmut Wehmut ist ein schönes deutsches Wort, das Melancholie beschreibt,",
+    729,
+    740,
+    2.99,
+    3
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute sprechen wir über ein Thema, das uns alle betrifft – nämlich Emotionen! Gefühle sind ein zentraler Bestandteil jeder Sprache, und das Deutsche hat viele schöne, präzise Begriffe, um Emotionen auszudrücken. In diesem Video schauen wir uns die wichtigsten deutschen Wörter für Emotionen an, und ich gebe dir Beispiele, wie du sie in Gesprächen nutzen kannst. Los geht’s! Warum Emotionen in der Sprache so wichtig sind Emotionen helfen uns, uns auf tieferer Ebene zu verbinden und das auszudrücken, was wir empfinden. Im Deutschen gibt es spezielle Wörter für Nuancen von Gefühlen, die in anderen Sprachen vielleicht keine direkte Übersetzung haben. Ein besseres Verständnis dieser Wörter hilft dir also, dich besser auszudrücken und die Sprache natürlicher zu sprechen. Grundemotionen und ihre Varianten im Deutschen Es gibt einige grundlegende Emotionen, die jeder von uns kennt. Hier sind ein paar deutsche Begriffe dafür: Freude und Glück Freude ist ein schöner Begriff, den wir für positive Gefühle verwenden, aber es gibt so viele Varianten! Man kann sagen, dass man „glücklich“ ist, was etwas persönlicher klingt.Oder, wenn man besonders freudig ist, kann man „begeistert“ oder „entzückt“ sein.Ein sehr umgangssprachlicher Ausdruck ist „Ich bin überglücklich!“, was bedeutet, dass man extrem freudig ist. Die Wörter „Freude“, „Glück“ und „Begeisterung“ zeigen, dass es viele Möglichkeiten gibt, Freude auszudrücken.Beispiel: „Ich empfinde große Freude, wenn ich meine Freunde sehe.“ Traurigkeit und Bedauern Bei Traurigkeit gibt es auch Nuancen. Wenn man sagt, „Ich bin traurig“, klingt das eher allgemein. Wenn man aber sehr tief in einem Gefühl steckt, kann man „tief betroffen“ oder „erschüttert“ sein. Ein weite",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute sprechen wir über ein Thema, das uns alle betrifft – nämlich Emotionen! Gefühle sind ein zentraler Bestandteil jeder Sprache, und das Deutsche hat viele schöne, präzise Begriffe, um Emotionen auszudrücken. In diesem Video schauen wir uns die wichtigsten deutschen Wörter für Emotionen an, und ich gebe dir Beispiele, wie du sie in Gesprächen nutzen kannst. Los geht’s! Warum Emotionen in der Sprache so wichtig sind Emotionen helfen uns, uns auf tieferer Ebene zu verbinden und das auszudrücken, was wir empfinden. Im … besser auszudrücken und die Sprache natürlicher zu sprechen. Grundemotionen und ihre Varianten im Deutschen Es gibt einige grundlegende Emotionen, die jeder von uns kennt. Hier sind ein paar deutsche Begriffe dafür: Freude und Glück Freude ist ein schöner Begriff, den wir für positive Gefühle verwenden, aber es gibt so viele Varianten! Man kann sagen, dass man „glücklich“ ist, was etwas persönlicher klingt.Oder, wenn man besonders freudig ist, kann man „begeistert“ oder „entzückt“ sein.Ein sehr umgangssprachlicher Ausdruck ist „Ich bin überglücklich!“, was bedeutet, dass man extrem … “ Traurigkeit und Bedauern Bei Traurigkeit gibt es auch Nuancen. Wenn man sagt, „Ich bin traurig“, klingt das eher allgemein. Wenn man aber sehr tief in einem Gefühl steckt, kann man „tief betroffen“ oder „erschüttert“ sein. Ein weiteres Wort ist „bekümmert“, was eine etwas weniger intensive Traurigkeit beschreibt. Diese Vielfalt hilft, genau auszudrücken, wie intensiv das Gefühl ist.Trauer ist das Gefühl von „Sadness“ oder „Grief“. Es beschreibt einen Zustand, wenn man sich niedergeschlagen oder traurig fühlt.Beispiel: „Nach dem Abschied spürte ich große Trauer.“ Wut und Ärger Wenn etwas … Wenn man wirklich intensiv wütend ist, sagt man „Ich bin fuchsteufelswild!“. Das bedeutet, dass man kurz vor dem Explodieren steht!Ein weiteres, oft humorvoll gemeintes Wort für Wut ist „angefressen“. Es ist interessant zu sehen, wie unterschiedlich man Ärger beschreiben kann.Beispiel: „Ich spüre Wut, wenn jemand unfair behandelt wird.“ Überraschung Ein interessantes Gefühl! Wenn etwas passiert, das man nicht erwartet hat, sagt man oft „Ich bin überrascht“. Man kann das steigern und sagen „Ich bin verblüfft“, was bedeutet, dass man wirklich erstaunt ist. Wenn man völlig sprachlos ist (im … wenn es sehr ernst ist, kann man „panisch“ oder „entsetzt“ sein. Ein milderes Wort wäre „besorgt“ – oft sagen wir „Ich mache mir Sorgen“. Damit beschreibt man eher eine milde Angst, ohne dass sie so intensiv ist wie Panik.Beispiel: „Vor Prüfungen habe ich immer ein bisschen Angst.“ Zuneigung und Liebe Bei Zuneigung gibt es ebenfalls viele Abstufungen. „Ich mag dich“ oder „Ich habe dich lieb“ sind sanfte Formen, Zuneigung auszudrücken, während „Ich liebe dich“ sehr stark ist. Ein wenig mehr im Spaß und oft freundschaftlich verwendet ist „Ich habe dich gern“. All diese Ausdrücke geben die … zeigen, dass man Anerkennung empfindet. Manchmal sagt man auch „Ich bin stolz wie Oskar“, was eine Redewendung ist und etwas übertrieben verwendet wird. Das drückt aus, dass man vor Freude überquillt. Anscheinend war Oskar eine sehr stolze Person — keine Ahnung. Nuancen von positiven Emotionen Manchmal reicht es nicht, nur „Freude“ zu sagen. Hier sind ein paar Wörter, die die Freude im Deutschen genauer beschreiben: Begeisterung Man ist voller positiver Energie und freut sich auf etwas.Beispiel: „Mit großer Begeisterung habe ich das neue Buch gelesen.“ Zufriedenheit Zufriedenheit ist ein … oder Sorge wegfällt – dann sagt man: „puh!“Beispiel: „Nach der Prüfung habe ich eine große Erleichterung gespürt.“ Hoffnung Hoffnung beschreibt die positive Erwartung oder das Warten auf etwas Gutes in der Zukunft.Beispiel: „Ich habe Hoffnung, dass das Wetter morgen besser wird.“ Nuancen von negativen Emotionen Auch für negative Gefühle gibt es im Deutschen einige interessante Wörter, die man kennen sollte: Enttäuschung Enttäuschung beschreibt das Gefühl, wenn etwas nicht so gut lief wie erwartet — man sagt dann vielleicht: „Ach, Mensch!“Beispiel: „Nach dem schlechten Ergebnis war meine … Eifersucht beschreibt das Gefühl, das man hat, wenn man jemanden oder etwas beneidet — also wenn man auch das haben möchte, was jemand anderes hat.Beispiel: „Ich verspüre manchmal Eifersucht, wenn jemand sehr erfolgreich ist.“ Scham Scham beschreibt das Gefühl von Verlegenheit oder Reue.Beispiel: „Ich empfinde Scham, wenn ich etwas falsch gemacht habe.“ Wörter für gemischte Gefühle Einige deutsche Wörter beschreiben Gefühle, die nicht ganz eindeutig positiv oder negativ sind: Sehnsucht Sehnsucht ist ein Gefühl des Verlangens. Es ist eine Art positive, aber auch traurige Erwartung. Man … „Mit Wehmut denke ich an meine Kindheit zurück.“ Verwirrung Verwirrung ist das Gefühl, wenn man unsicher oder durcheinander ist.Beispiel: „Nach der Erklärung war ich total verwirrt.“ Emotionen im Alltag ausdrücken Wie kannst du nun diese Emotionen in deinem Alltag auf Deutsch verwenden? Hier ein paar Ideen: Über Gefühle sprechen: „Heute fühle ich mich .“ → Zum Beispiel: „Heute fühle ich mich glücklich.“ Nach den Gefühlen anderer fragen: „Wie fühlst du dich?“ oder „Wie geht es dir emotional?“ Gefühle zeigen: Manchmal braucht es nicht viele Worte; Emotionen kann man natürlich auch durch … in deinem Wortschatz haben solltest, um das richtige Gefühl zu beschreiben. Probier einige dieser Wörter in deinem Alltag aus und schreib mir in den Kommentaren, welche Emotion du heute erlebt hast – das wäre eine tolle Übung! Wenn dir dieses Video geholfen hat, die verschiedenen Wörter für Emotionen zu verstehen, lass einen Daumen nach oben da und abonniere den Kanal! Möchtest du mehr über die deutsche Sprache und Kultur erfahren? Schau dir die Deutschlern-Akademie an und vertiefe deine Sprachkenntnisse: AuthenticGermanLearning.com/join Danke fürs Zuschauen! Bis zum nächsten Mal — tschüss!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8414
+  "src": "cc"
  },
  "OAJrELY_4dE": {
   "channel": "Caillou Deutsch",
@@ -8388,7 +8571,7 @@
  "RoHoM_FIwb4": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-04T22:15:45+00:00",
+  "checked": "2026-11-10T15:26:16+00:00",
   "title": "Experiment 2: Blumen",
   "duration": 1039,
   "published": "20200510",
@@ -8396,73 +8579,10 @@
   "spoken_v": 2,
   "pace": 59.4,
   "rare": 0.0314,
+  "var": 0.6258,
   "speech_s": 932.9,
   "tokens": 923,
   "kw": [
-   [
-    "blume",
-    "eine blume oder zwei oder drei das ist",
-    104,
-    109,
-    3.94,
-    20
-   ],
-   [
-    "gläser",
-    "kleine gläser du brauchst vier kleine",
-    31,
-    45,
-    3.91,
-    11
-   ],
-   [
-    "stengel",
-    "ein kreuz in den blumen stengel das ist",
-    464,
-    474,
-    3.1,
-    5
-   ],
-   [
-    "lebensmittelfarbe",
-    "lebensmittelfarbe und du brauchst vier lebensmittelfarbe schreibe das auf",
-    191,
-    203,
-    2.37,
-    3
-   ],
-   [
-    "blüte",
-    "was ist passiert was ist mit der blüte",
-    780,
-    799,
-    3.82,
-    5
-   ],
-   [
-    "scharfes",
-    "als zweites brauchst du ein scharfes ein",
-    72,
-    85,
-    3.33,
-    3
-   ],
-   [
-    "lila",
-    "ist auch lila sie hat auch lila an der",
-    931,
-    940,
-    3.9,
-    5
-   ],
-   [
-    "blättern",
-    "was ist mit den blättern passiert das",
-    798,
-    809,
-    3.84,
-    4
-   ],
    [
     "vier",
     "für das experiment als erstes vier",
@@ -8478,14 +8598,6 @@
     45,
     5.32,
     14
-   ],
-   [
-    "farbe",
-    "grün du kannst auch eine andere farbe",
-    209,
-    218,
-    4.73,
-    12
    ],
    [
     "drei",
@@ -8504,11 +8616,19 @@
     11
    ],
    [
-    "rose",
-    "habe drei rosen meine erste rose in",
-    670,
-    682,
-    4.35,
+    "farbe",
+    "grün du kannst auch eine andere farbe",
+    209,
+    218,
+    4.73,
+    12
+   ],
+   [
+    "blau",
+    "ich habe grün rot blau und als letzte",
+    217,
+    248,
+    4.65,
     11
    ],
    [
@@ -8526,12 +8646,76 @@
     253,
     4.46,
     11
+   ],
+   [
+    "blume",
+    "eine blume oder zwei oder drei das ist",
+    104,
+    109,
+    3.94,
+    20
+   ],
+   [
+    "gläser",
+    "kleine gläser du brauchst vier kleine",
+    31,
+    45,
+    3.91,
+    11
+   ],
+   [
+    "lila",
+    "ist auch lila sie hat auch lila an der",
+    931,
+    940,
+    3.9,
+    5
+   ],
+   [
+    "blüte",
+    "was ist passiert was ist mit der blüte",
+    780,
+    799,
+    3.82,
+    5
+   ],
+   [
+    "stengel",
+    "ein kreuz in den blumen stengel das ist",
+    464,
+    474,
+    3.1,
+    5
+   ],
+   [
+    "scharfes",
+    "als zweites brauchst du ein scharfes ein",
+    72,
+    85,
+    3.33,
+    3
+   ],
+   [
+    "viertes",
+    "und als viertes als letztes das ist das",
+    591,
+    601,
+    3.37,
+    2
+   ],
+   [
+    "lebensmittelfarbe",
+    "lebensmittelfarbe und du brauchst vier lebensmittelfarbe schreibe das auf",
+    191,
+    203,
+    2.37,
+    3
    ]
   ],
-  "tx": "hallo wir machen heute ein experiment wir machen ein experiment du brauchst für das experiment als erstes vier kleine gläser du brauchst vier kleine gläser mit wasser in dem glas ist wasser und indem es ist wasser das ist das was du brauchst vier kleine gläser mit wasser als zweites brauchst du ein scharfes ein scharfes messer du brauchst als drittes brauchst du weiße blumen eine blume oder zwei oder drei das ist egal ich habe drei weiße weiß weiße blume du brauchst drei weiße blumen ich habe drei weiße rosen nur eine blume hast das ist auch okay das ist auch okay ja hier so ist die weiße blume so da ist eine weiße blume keine blaue blume ok eine blaue blume ist nicht richtig das ist falsch eine blaue blume ist nicht gut für das experiment eine weiße blume ist richtig das ist falsch das geht nicht und du brauchst lebensmittelfarben lebensmittelfarben sind farben für essen du kannst lebensmittelfarben in essen schützen ja zum beispiel in einen kuchen oder in plätzchen macht man lebensmittelfarbe und du brauchst vier lebensmittelfarbe schreibe das auf menden und ich habe grün du kannst auch eine andere farbe nehmen das ist egal ich habe grün rot blau und als letzte farbe als vierte farbe gelb gelb mal ich hier aber ich schreibe gelb mit schwarz-gelb ist so hell ja ich habe blau grün gelb und rot wenn du vier kleine gläser mit wasser ein scharfes messer drei oder eine weiße blume und viel lebensmittelfarben hast dann geht's los jetzt fangen wir an als erstes als erstes machen wir die farbe in das wasser wir haben vier lebensmittelfarben und vier kleine gläser mit wasser in jedes glas kommt eine farbe ja vielleicht drei vier tropfen ja schreibe das hier hin ich bin zwei gläser in jedes glas in alle gläser in das erste glas mache ich gut hier ist meine rote farbe und ich mac",
+  "tx": "hallo wir machen heute ein experiment wir machen ein experiment du brauchst für das experiment als erstes vier kleine gläser du brauchst vier kleine gläser mit wasser in dem glas ist wasser und indem es ist wasser das ist das was du brauchst vier kleine gläser mit wasser als zweites brauchst du ein scharfes ein scharfes messer du brauchst als drittes brauchst du weiße blumen eine blume oder zwei oder drei das ist egal ich habe drei weiße weiß weiße blume du brauchst drei weiße blumen ich habe drei weiße rosen nur eine blume hast das ist auch okay das ist auch okay ja hier so ist die weiße blume so da ist eine weiße blume keine blaue blume ok eine blaue blume ist nicht richtig das ist falsch eine blaue blume ist nicht gut für das experiment eine weiße blume ist richtig das ist falsch das geht nicht und du brauchst lebensmittelfarben lebensmittelfarben sind farben für essen du kannst lebensmittelfarben in essen schützen ja zum beispiel in einen kuchen oder in plätzchen macht man lebensmittelfarbe und du brauchst vier lebensmittelfarbe schreibe das auf menden und ich habe grün du kannst auch eine andere farbe nehmen das ist egal ich habe grün rot blau und als letzte farbe als vierte farbe gelb gelb mal ich hier aber ich schreibe gelb mit schwarz-gelb ist so hell ja ich habe blau grün gelb und rot wenn du vier kleine gläser mit wasser ein scharfes messer drei oder eine weiße blume und viel lebensmittelfarben hast dann geht's los jetzt fangen wir an als erstes als erstes machen wir die farbe in das wasser wir haben vier lebensmittelfarben und vier kleine gläser mit wasser in jedes glas kommt eine farbe ja vielleicht drei vier tropfen ja schreibe das hier hin ich bin zwei gläser in jedes glas in alle gläser in das erste glas mache ich gut hier ist meine rote farbe und ich mache die rote farbe in das wasser raptor ups da fällt mit plastik ins glas das ist nicht so schön otto 1234 das ist genug in das zweite glas mache ich die blaue farbe das sieht aus wie hier sie das für blaue farbe ja die blaue farbe will nicht auf kommt in das zweite glas 13 jetzt sieht cool aus oder sehr cool und in das dritte glas machen grüne farbe in das dritte class 12 34 und in das vierte glas kommt geld so 1234 jetzt haben wir vier gläser vier kleine gläser mit wasser und lebensmittelfarbe als zweites schneiden wir die blume mit dem messer als zweites schneide ein kreuz in den blumen stengel das ist das hier der blumen stände ist es grüne an der blume das ist der stängel da sind die blätter das hier das ist der blumen stengel als drittes als drittes nehmen wir die blume die geschnittene blume und stellen die blume in vier gläser nicht in ein glas in alle vier kleinen gläser und als viertes als letztes das ist das allerschwerste als viertes das allerschwerste warten die blume bleibt im kleinen glas in den vier gläsern über nacht warte bis morgen wartete eine nacht bis morgen bis morgen hallo willkommen zum zweiten tag des experiments heute schauen wir was passiert ist mit den drei blumen gestern habe ich die erste blume ich habe drei rosen meine erste rose in grünes gelbes rotes und blaues wasser gestellt ich habe den blumen stengel das ist der blumen stengel in vier teile geschnitten in vier teile und jeder teil ist in einer anderen farbe aber ich hatte drei rosen nicht eine die zweite rose habe ich nicht in vier teile geschnitten nur in zwei der eine teil ist im blauen wasser und der zweite teil ist in rotem wasser und für die dritte blume die dritte rose habe ich auch nur zwei teile geschnitten der blumen stengel ist auch in zwei teilen und ein teil steht im grünen wasser und der andere teil steht in gelbem wasser was ist passiert was ist mit der blüte der rose passiert das ist die blüte und was ist mit den blättern passiert das ist ein blatt oder zwei drei vier blätter was ist mit den blättern über nacht passiert schauen wir was passiert ist aus meiner weißen rose ist meiner schönen weißen rose sind drei wunderschöne bunte bund sind viele farben wenn ich viele farben habe rot gelb grün blau das ist zusammen bund und ich habe schöne bunte großen das ist die rose 3 mit grün und gelb die rose 3 das ist die rose 2 mit blau und rot und ihr seht an den blättern ist die rose auch blau und rot in der blüte und an den blättern ist sie blau und rot und sie ist auch lila sie hat auch lila an der blüte ja denn blau und rot macht lila und die erste rose mit den vier teilen hier unten sieht man das blau grün gelb und rot es ist sehr bunt ja sie ist auch rot und grün und gelb ein bisschen blau aber sie ist auch lila sie hat viele farben die blüte ist grün gelb rot blau und auch lila ja denn die farben mischen sich und sie ist sehr sehr bunt und auch die blätter sind rot und blau weil der erst bei der dritten blume ist es auch ein bisschen grün und gelb aber die blätter einer blume sind grün man sieht das nicht so gut aber hier sind meine drei wunderschönen großen schick mehr per e mail oder in sessa ein foto von deinen blumen",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6255
+  "src": "auto"
  },
  "jSdxIIdEKK4": {
   "channel": "Learn German by Listening (DldH)",
@@ -8803,7 +8987,7 @@
  "rkF5r9vAeoQ": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-05T15:05:57+00:00",
+  "checked": "2026-11-10T15:16:40+00:00",
   "title": "Easiest way to learn German - Das Wohnzimmer",
   "duration": 484,
   "published": "20220604",
@@ -8811,73 +8995,10 @@
   "spoken_v": 2,
   "pace": 82.9,
   "rare": 0.0586,
+  "var": 0.4574,
   "speech_s": 481.8,
   "tokens": 666,
   "kw": [
-   [
-    "bilderrahmen",
-    "zwei bilderrahmen die bilderrahmen die bilderrahmen sind rosa",
-    336,
-    347,
-    2.91,
-    12
-   ],
-   [
-    "sofa",
-    "sofa das sofa ist grün es ist grün",
-    35,
-    49,
-    4.15,
-    41
-   ],
-   [
-    "lampe",
-    "rechts neben dem sofa steht eine lampe",
-    129,
-    137,
-    3.99,
-    28
-   ],
-   [
-    "lampenschirm",
-    "die lampe hat einen runden lampenschirm",
-    140,
-    148,
-    2.35,
-    7
-   ],
-   [
-    "kissen",
-    "auf dem sofa liegen fünf kissen die",
-    43,
-    50,
-    3.95,
-    15
-   ],
-   [
-    "glühbirne",
-    "in lampenschirm ist eine glühbirne die",
-    147,
-    157,
-    3.16,
-    6
-   ],
-   [
-    "comprehensive",
-    "hallo willkommen bei comprehensive german auf diesem kanal lernst du",
-    0,
-    9,
-    2.44,
-    2
-   ],
-   [
-    "vase",
-    "auf dem tisch steht eine phase die vase",
-    233,
-    245,
-    3.41,
-    3
-   ],
    [
     "tisch",
     "tisch der tisch der tisch ist rosa",
@@ -8919,34 +9040,114 @@
     9
    ],
    [
-    "boden",
-    "auf dem boden der boden der boden ist blau",
-    315,
-    331,
-    5.01,
-    9
+    "hängen",
+    "die wand ist orange an der wand hängen",
+    330,
+    342,
+    4.6,
+    6
    ],
    [
-    "liegen",
+    "grün",
+    "sofa ist grün es ist grün",
+    39,
+    49,
+    4.75,
+    5
+   ],
+   [
+    "decke",
+    "decke oder auf dem boden das sofa die lampe und der tisch stehen",
+    369,
+    381,
+    4.36,
+    3
+   ],
+   [
+    "sofa",
+    "sofa das sofa ist grün es ist grün",
+    35,
+    49,
+    4.15,
+    41
+   ],
+   [
+    "lampe",
+    "rechts neben dem sofa steht eine lampe",
+    129,
+    137,
+    3.99,
+    28
+   ],
+   [
+    "kissen",
     "auf dem sofa liegen fünf kissen die",
     43,
     50,
-    5.2,
-    8
+    3.95,
+    15
    ],
    [
-    "bild",
-    "heute schauen wir uns dieses bild an",
-    17,
-    24,
-    5.4,
+    "orange",
+    "die wand ist orange an der wand hängen",
+    330,
+    342,
+    4.15,
+    3
+   ],
+   [
+    "glühbirne",
+    "in lampenschirm ist eine glühbirne die",
+    147,
+    157,
+    3.16,
+    6
+   ],
+   [
+    "vase",
+    "auf dem tisch steht eine phase die vase",
+    233,
+    245,
+    3.41,
+    3
+   ],
+   [
+    "ausmalen",
+    "ich werde das bild ausmalen ausmalen auf diesem bild gibt es ein",
+    27,
+    38,
+    3.25,
+    2
+   ],
+   [
+    "bilderrahmen",
+    "zwei bilderrahmen die bilderrahmen die bilderrahmen sind rosa",
+    336,
+    347,
+    2.91,
+    12
+   ],
+   [
+    "lampenschirm",
+    "die lampe hat einen runden lampenschirm",
+    140,
+    148,
+    2.35,
     7
+   ],
+   [
+    "comprehensive",
+    "hallo willkommen bei comprehensive german auf diesem kanal lernst du",
+    0,
+    9,
+    2.44,
+    2
    ]
   ],
-  "tx": "hallo willkommen bei comprehensive german auf diesem kanal lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an heute schauen wir uns dieses bild an dieses bild das bild ist schwarz und weiß ich werde das bild ausmalen ausmalen auf diesem bild gibt es ein sofa das sofa ist grün es ist grün auf dem sofa liegen fünf kissen die kessen es gibt zwei rote kissen zwei blaue christen und ein hellgrünes kissen die roten kissen haben streifen die streifen die blauem kissen haben gelbe punkte die punkte das hellgrüne kissen liegt in der mitte die mitte gibt es auf diesem bild ein sofa auf diesem bild gibt es ein sofa ist das sofa grün oder rot das sofa ist grün liegen auf dem sofa kissen auf dem sofa liegen kissen liegen auf dem sofa drei kissen oder fünf kissen auf diesem sofa die den fünf kissen wie viele kissen liegen auf dem sofa auf dem sofa liegen fünf kissen wo liegen die kissen die kissen liegen auf dem sofa rechts neben dem sofa steht eine lampe die lampe die lampe ist groß und rot die lampe hat einen runden lampenschirm der lampenschirm in lampenschirm ist eine glühbirne die glühbirne steht neben dem sofa einen lampe neben dem sofa steht eine lampe steht die lampe neben dem sofa oder vor dem sofa die lampe steht neben dem sofa wo steht die lampe die lampe steht neben dem sofa hat die lampe einen lampenschirm ja die lampe hat einen lampenschirm hat die lampe keinen lampenschirm nein die lampe hat einen lampenschirm hat die lampe eine glühbirne ja die lampe hat eine glühbirne hat die lampe keine glühbirne nein die lampe hat eine glühbirne links neben dem sofa steht ein kleiner tisch der tisch der tisch ist rosa auf dem tisch steht eine phase die vase in der vas",
+  "tx": "hallo willkommen bei comprehensive german auf diesem kanal lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an heute schauen wir uns dieses bild an dieses bild das bild ist schwarz und weiß ich werde das bild ausmalen ausmalen auf diesem bild gibt es ein sofa das sofa ist grün es ist grün auf dem sofa liegen fünf kissen die kessen es gibt zwei rote kissen zwei blaue christen und ein hellgrünes kissen die roten kissen haben streifen die streifen die blauem kissen haben gelbe punkte die punkte das hellgrüne kissen liegt in der mitte die mitte gibt es auf diesem bild ein sofa auf diesem bild gibt es ein sofa ist das sofa grün oder rot das sofa ist grün liegen auf dem sofa kissen auf dem sofa liegen kissen liegen auf dem sofa drei kissen oder fünf kissen auf diesem sofa die den fünf kissen wie viele kissen liegen auf dem sofa auf dem sofa liegen fünf kissen wo liegen die kissen die kissen liegen auf dem sofa rechts neben dem sofa steht eine lampe die lampe die lampe ist groß und rot die lampe hat einen runden lampenschirm der lampenschirm in lampenschirm ist eine glühbirne die glühbirne steht neben dem sofa einen lampe neben dem sofa steht eine lampe steht die lampe neben dem sofa oder vor dem sofa die lampe steht neben dem sofa wo steht die lampe die lampe steht neben dem sofa hat die lampe einen lampenschirm ja die lampe hat einen lampenschirm hat die lampe keinen lampenschirm nein die lampe hat einen lampenschirm hat die lampe eine glühbirne ja die lampe hat eine glühbirne hat die lampe keine glühbirne nein die lampe hat eine glühbirne links neben dem sofa steht ein kleiner tisch der tisch der tisch ist rosa auf dem tisch steht eine phase die vase in der vase steht eine rote blume die blume links neben der vase steht eine flasche die flasche steht neben dem sofa ein kleiner tisch neben dem sofa steht ein kleiner tisch städtische rechts neben dem sofa oder links neben dem sofa der tisch steht links neben dem sofa stehtisch rechts neben dem sofa nein der tür steht nicht rechts neben dem sofa der tisch steht links neben dem sofa ist der tisch klein oder groß der tisch ist klein ist der tisch groß nein der tisch ist nicht groß der tisch ist klein das sofa die lampe und der tisch stehen auf dem boden der boden der boden ist blau hinter dem sofa ist die band die band die wand ist orange an der wand hängen zwei bilderrahmen die bilderrahmen die bilderrahmen sind rosa im großen bilderrahmen stehen wörter die wörter stehen das sofa die lampe und der tisch auf dem boden ja das sofa die lampe und der tisch stehen auf dem boden stehen das sofa die lampe und der tisch an der decke oder auf dem boden das sofa die lampe und der tisch stehen auf dem boden stehen das sofa die lampe und der tisch an der decke nein das sofa die lampe und der tisch stehen nicht an der decke das sofa die lampe und der tisch stehen auf dem boden wo stehen das sofa die lampe und der tisch das sofa die lampe und der tisch stehen auf dem boden ist die wand orange oder grün die band ist orange hängen an der wand zwei bilderrahmen oder drei bilderrahmen an der wand hängen zwei bilderrahmen hängt an der wand nur ein bilderrahmen nein an der wand hängt nicht nur ein bilderrahmen an der wand hängen zwei bilderrahmen wo hängen die bilderrahmen die bilderrahmen hängen an der wand hatte dieses video beim deutschlernen geholfen dann schau dir doch auch noch meine anderen videos in dieser playlist an für weitere informationen über mich und diese methode auf meine website vorbei auf comprehensive - german punkt com bis zum nächsten mal",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.4786
+  "src": "auto"
  },
  "-88-O--G-ss": {
   "channel": "comprehensible GERMANi",
@@ -14495,7 +14696,7 @@
  "OG2-Dck2oYE": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:01:40+00:00",
+  "checked": "2026-11-10T15:46:34+00:00",
   "title": "Peppa Wutz spielt SCHMETTERLING! 🦋 | Schmetterlingskostüme | Neue Ganze Folgen",
   "duration": 2153,
   "published": "20261027",
@@ -14503,81 +14704,10 @@
   "spoken_v": 2,
   "pace": 107.3,
   "rare": 0.1158,
+  "var": 0.7914,
   "speech_s": 2110.5,
   "tokens": 3774,
   "kw": [
-   [
-    "peppa",
-    "aufwachst, bist du immer noch Peppa.",
-    100,
-    105,
-    2.17,
-    34
-   ],
-   [
-    "schorsch",
-    "Das ist doch kein Dinosaurier, Schorsch.",
-    132,
-    138,
-    2.83,
-    24
-   ],
-   [
-    "eiscreme",
-    "Eiscreme. Peppa und Schorsch sind bei Oma und Opa",
-    270,
-    276,
-    2.91,
-    25
-   ],
-   [
-    "erdbeeren",
-    "Erdbeeren aus unserem Garten. Ja, wir machen Himbeer- und",
-    407,
-    415,
-    3.61,
-    31
-   ],
-   [
-    "sandburg",
-    "Die Sandburg. Es ist ein schöner sonniger Tag. Peppa",
-    1613,
-    1623,
-    2.24,
-    9
-   ],
-   [
-    "spielgruppe",
-    "Spielgruppe. Hallo zusammen. Hallo Dr. Hamster.",
-    5,
-    14,
-    2.35,
-    8
-   ],
-   [
-    "wutz",
-    "Wutz. ",
-    274,
-    280,
-    2.39,
-    8
-   ],
-   [
-    "toast",
-    "Madame Gazelle, gibt es auch Toast für",
-    943,
-    947,
-    3.57,
-    14
-   ],
-   [
-    "gemüse",
-    "Sowas kann man auch mit Gemüse machen.",
-    1301,
-    1308,
-    4.33,
-    24
-   ],
    [
     "nein",
     "Nein, es ist kleiner als ein Wal.",
@@ -14611,34 +14741,138 @@
     14
    ],
    [
-    "herr",
-    "Da kommt Herr Labrador mit seinem neuen",
-    279,
-    283,
-    5.24,
-    12
+    "gemüse",
+    "Sowas kann man auch mit Gemüse machen.",
+    1301,
+    1308,
+    4.33,
+    24
    ],
    [
-    "kinder",
-    "Alle Kinder basteln wunderschöne Schmetterlingsflügel.",
-    150,
-    156,
-    5.6,
-    11
+    "obst",
+    "Obst und Gemüse machen uns stark.",
+    1350,
+    1358,
+    4.23,
+    23
    ],
    [
-    "lieben",
-    "Ja, Raupen lieben es, Blätter zu essen.",
-    52,
-    60,
-    4.87,
-    10
+    "garten",
+    "Erdbeeren aus unserem Garten. Ja, wir machen Himbeer- und",
+    407,
+    415,
+    4.73,
+    8
+   ],
+   [
+    "burg",
+    "Burg. Und",
+    1723,
+    1730,
+    4.38,
+    8
+   ],
+   [
+    "erdbeeren",
+    "Erdbeeren aus unserem Garten. Ja, wir machen Himbeer- und",
+    407,
+    415,
+    3.61,
+    31
+   ],
+   [
+    "pedro",
+    "Pedro Pony ist Hallo, aufwachen, Pedro.",
+    231,
+    239,
+    3.73,
+    13
+   ],
+   [
+    "hurra",
+    "Hurra! ",
+    61,
+    67,
+    3.69,
+    9
+   ],
+   [
+    "edmund",
+    "Mein kleiner Bruder Edmund ist nämlich",
+    620,
+    626,
+    3.61,
+    9
+   ],
+   [
+    "toast",
+    "Madame Gazelle, gibt es auch Toast für",
+    943,
+    947,
+    3.57,
+    14
+   ],
+   [
+    "schmetterlinge",
+    "Schmetterlinge. Heute besucht Dr. Hamster die",
+    1,
+    9,
+    3.59,
+    9
+   ],
+   [
+    "raupe",
+    "Schaut hier. Es ist eine Raupe.",
+    29,
+    34,
+    3.31,
+    7
+   ],
+   [
+    "erdbeere",
+    "Was ist eine Erdbeere? Obst oder Gemüse?",
+    1461,
+    1471,
+    3.02,
+    7
+   ],
+   [
+    "peppa",
+    "aufwachst, bist du immer noch Peppa.",
+    100,
+    105,
+    2.17,
+    34
+   ],
+   [
+    "eiscreme",
+    "Eiscreme. Peppa und Schorsch sind bei Oma und Opa",
+    270,
+    276,
+    2.91,
+    25
+   ],
+   [
+    "schorsch",
+    "Das ist doch kein Dinosaurier, Schorsch.",
+    132,
+    138,
+    2.83,
+    24
+   ],
+   [
+    "sandburg",
+    "Die Sandburg. Es ist ein schöner sonniger Tag. Peppa",
+    1613,
+    1623,
+    2.24,
+    9
    ]
   ],
-  "tx": "Schmetterlinge. Heute besucht Dr. Hamster die Spielgruppe. Hallo zusammen. Hallo Dr. Hamster. Dr. Hamster will uns heute ein interessantes Lebewesen zeigen. Könnt ihr erraten, was es für ein Tier ist? Es ist ein Wal. Nein, es ist kleiner als ein Wal. Eine Ameise? Nein, es ist größer. Eine große Ameise? Schaut hier. Es ist eine Raupe. Boah! Viele Raupen. Ja. Da ist eine gestreifte. Die Streifen helfen ihr, sich im Gras zu verstecken. Die da hat ein Fell. Können wir sie streicheln? Äh, nein, Mia. Davon könntest du juckenden Ausschlag bekommen. Die mit den Punkten frisst ein Blatt. Ja, Raupen lieben es, Blätter zu essen. Jetzt malen wir unsere eigenen Raupen mit Buntstiften aus. Hurra! Meine bekommt grüne Punkte. Meine Raupe wird orange. Ich finde schwarze und weiße Streifen schick. Das habt ihr gut gemacht. Und wer kann mir denn sagen, was das hier ist? Das ist ein Blatt. Es sieht vielleicht aus wie ein Blatt, ist aber keins. Dieses Ding ist ein Kokon. Das ist eine Hülle, in der sich die Raupen dann verstecken, wenn sie schlafen wollen. Oh! Ist das wie ein kuscheliges Bett? So ähnlich. Aber wenn du schlafen gehst und in deinem kuscheligen Bett aufwachst, bist du immer noch Peppa. Ja! Aber wenn die Raupe in ihrem kuscheligen Kokon erwacht, dann hat sie sich in ein ganz anderes Geschöpf verwandelt. Was für ein Geschöpf ist sie dann wohl? Ein Wal. Ein Tier Rad. Hat sie sich in eine Superraupe verwandelt? Nein, keineswegs. Oh, es bewegt sich. Der Kokon bricht auf. Oh, was ist das? Saurier. Das ist doch kein Dinosaurier, Schorsch. Es ist ein Schmetterling. Die Raupe hat sich in einen wunderschönen Schmetterling verwandelt. Wer möchte gerne einen von diesen Schmetterlingsflügeln verzieren? Ich, ich, ich. Alle Kinder basteln wunderschöne Schmetterlingsflügel. Ja, wie hübsch. Kön",
+  "tx": "Schmetterlinge. Heute besucht Dr. Hamster die Spielgruppe. Hallo zusammen. Hallo Dr. Hamster. Dr. Hamster will uns heute ein interessantes Lebewesen zeigen. Könnt ihr erraten, was es für ein Tier ist? Es ist ein Wal. Nein, es ist kleiner als ein Wal. Eine Ameise? Nein, es ist größer. Eine große Ameise? Schaut hier. Es ist eine Raupe. Boah! Viele Raupen. Ja. Da ist eine gestreifte. Die Streifen helfen ihr, sich im Gras zu verstecken. Die da hat ein Fell. Können wir sie streicheln? Äh, nein, Mia. Davon könntest du juckenden Ausschlag bekommen. Die mit den Punkten frisst ein Blatt. Ja, Raupen … eure Augen. Ich habe Flügel. Ich auch. Wir sind Schmetterlinge. Pedro Pony ist Hallo, aufwachen, Pedro. Mami, komme ich etwa zu spät zur Spielgruppe? Nein, du bist doch längst in der Spielgruppe. Oh, ich bin ein Schmetterling. Ja. Wir sind alle Schmetterlinge. Wir sind kleine Schmetterlinge, bunt und schön. So flattern wir herum, herrlich anzusehen. Wir sind kleine Schmetterlinge, fliegen kreuz und quer. Mit flap, flap, flap flattern wir zu dir. Peppa liebt es, ein Schmetterling zu sein. Alle lieben es, Schmetterlinge zu sein. Eiscreme. Peppa und Schorsch sind bei Oma und Opa Wutz. Zu mir, … Minuten. Du kannst damit anfangen, Peppa. Eiscreme, Eiscreme, hin und her. Eiscreme machen ist gar nicht schwer. Sehr gut, Peppa. Eiscreme, Eiscreme. Eiscreme, Eiscreme, hin und her. Eiscreme machen ist gar nicht schwer. Ich schüttle auch noch mal, dann es fertig sein. Hat es geklappt? Ja. Oh! Das ist die beste Eiscreme auf der Welt. Jam, jam. Omi, kann ich meine Freunde zum Eisessen einladen? Natürlich, Peppa, gerne. Wenn das aber so ist, brauchen wir noch viel, viel mehr Eiscreme. Hurra! Eiscreme! Die beste Eiscreme auf der Welt! Alle Freunde von Peppa möchten gerne Eiscreme. Hurra! Kann … nicht magisch, elektrostatisch. Wie funktioniert das? Keine Ahnung. Wenn zwischen Objekten Reibung verlieren die Stoffe ihre elektrische Neutralität und statische Ladung Das erklärt Statik. Was hat da geknallt? Hallo, Kinder! Da ist Opi Mümmel. Passt mal auf, jetzt wird's gefährlich. Aber keine Angst, hier ist ja zum Glück ein Erwachsener am Werk. Ich Wer will mal in dieser Rakete fahren? Ich, ich, ich! Peppa, steig doch bitte ein. Äh, sind Sie auch sicher, dass es ungefährlich ist? Natürlich ist es das. Also, Peppa, drück mit deinen Händen gegen meine und bei drei stößt du dich ab. Eins, … habe gedacht. Edmund Elefant ist ein Schlauberger. Denken verbraucht eine Menge Energie. Oh! Und nun könnt ihr euch aussuchen, was ihr frühstücken möchtet. Es gibt Brot, Käse, Ei, Müsli, Joghurt. bitte eine Möhre zum Frühstück? Natürlich. Krieg ich Cornflakes, bitte? Bitteschön, Klausi. Madame Gazelle, gibt es auch Toast für mich? Ja, Luzie. Ich mache dir einen Toast. Möchte sonst noch jemand Toast? Nein, danke. Okay, das Brot kommt hier rein und dann drücken wir diesen Hebel runter. Der Toaster wird sehr heiß, also bitte nicht anfassen. Und gleich kommt er. Noch einen Augenblick. Hoppla. … Venusfliegenfalle. Ich bin die Fliegenfalle und du kannst die Fliege sein. Hab dich, Schorsch. Jetzt bin ich die Fliege und du die Fliegenfalle. Schorsch, Venusfliegenfallen können nicht rennen. Oh weh, Schorsch ist eine sehr traurige Venusfliegenfalle. Na komm, Schorsch. Dann sind wir beide Fliegen. Langsam, ihr Fliegen. Es ist viel zu heiß zum rumschwören. Keine Sorge, im nächsten Haus gibt's 'ne Abkühlung. Das hier ist unser Kalthaus. Ist das der Nordpolgarten? So ähnlich. Der richtige Name ist arktischer Tundragarten. Oh, Eiswaffeln. Wachsen am Nordpol Eiswaffeln, Frau Mümmel? Nein, … wir machen hier heute alle zusammen ein Obst- und Gemüse-Quiz. Oh! Was ist ein Quiz? Eine Quiz ist, wenn ich euch etwas frage und wenn ihr die Antwort wisst, dann drückt ihr den Buzzer. Wir brauchen dazu zwei Teams. Peppa, Luisa und Pedro, ihr bildet das eine Team. Luzie, Klausi und Mandy, ihr seid das andere Team. Fangen wir an. Die erste Frage lautet: Was hiervon ist kein Gemüse? Kopfsalat, Radieschen, Sellerie oder ein Auto? Das Auto ist doch gar kein Gemüse. Das ist richtig. Nächste Frage: Ist ein Schokoladenkeks ein Stück Obst? Ja oder nein? Ja, es ist ein Obst. Mein Vater isst davon … Dann müsst ihr den Eimer umdrehen. Haut mit der Schaufel drauf. Gut. Und jetzt hebt ihr den Eimer ab. Tada! Tada! Tada! Peppa, Schorsch, Mama Wutz und Papa Wutz haben vier Sandburgen gebaut. Da kommt Pedro Pony. Hallo, Peppa. Hallo, Pedro. Wie findest du unsere Sandburgen? Gut, aber es wäre noch besser, wenn ihr die mit Mauern verbinden würdet. Etwa so. Gute Idee, Pedro. Ja, sehr gute Mauern. Die Burgen sind durch die Mauern verbunden. Jetzt ist es eine große Sandburg. Wendy Wolf ist auch am Strand mit ihrem Papa. Die Sandburg ist ja toll. Dankeschön, Wendy. Ich mag die Mauern. Es geht … anschauen. Opa Wutz hat sich wirklich Mühe mit den Erdbeeren gegeben. Ja, ihr werdet Augen machen. Sollen wir Erdbeermarmelade kochen? Ja, gern. Peppa und Schorsch lieben Erdbeermarmelade. Darf ich vorstellen, meine Erdbeere. Eine Erdbeere? Du hast eine Erdbeere gepflanzt? Dafür ist es die köstlichste Erdbeere der Welt. Warum ist die Erdbeere in einem kleinen Haus versteckt? sich vor den frechen kleinen Vögeln, die die anderen Erdbeeren gefressen haben. Ah! Du frecher Vogel! Das war's wohl mit den Erdbeeren. Und es gibt auch keine Marmelade. Nein, nein, keine Sorge. Ich weiß einen Ort, wo … habt ja ordentlich Erdbeeren gepflückt. Wo ist der Ausgang? Direkt hier entlang, durch den Hofladen. Was verkaufen Sie in Ihrem Hofladen, Frau Mümmel? Erdbeerkuchen, Erdbeerkekse, Erdbeerquark, Erdbeersaft, Erdbeergelee, Erdbeermilch. Gibt es vielleicht auch was ohne Erdbeeren? Äh, nein. Ich glaube, wir hatten genug Erdbeeren für heute. Vielen Dank. Komisch, nie will jemand was im Laden kaufen. Frau Mümmel, schauen Sie mal, wie viele Erdbeeren wir gepflückt haben. Gut gemacht, Peppa und Schorsch. Daraus kochen wir Erdbeermarmelade. Peppa und Schorsch lieben Erdbeeren. Alle lieben Erdbeeren.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7684
+  "src": "auto"
  },
  "fNhPHw2E2TA": {
   "channel": "Daily Deutsch",
@@ -14768,7 +15002,7 @@
  "SvFvwxAjyas": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-07T05:07:51+00:00",
+  "checked": "2026-11-10T15:39:16+00:00",
   "title": "Start Learning German TODAY - German Beginner podcast (Greetings, Numbers, Phrases)",
   "duration": 501,
   "published": "20260913",
@@ -14776,81 +15010,10 @@
   "spoken_v": 2,
   "pace": 125.0,
   "rare": 0.0184,
+  "var": 0.788,
   "speech_s": 494.3,
   "tokens": 1030,
   "kw": [
-   [
-    "förmlicher",
-    "Etwas förmlicher, aber immer noch freundlich.",
-    84,
-    88,
-    2.08,
-    2
-   ],
-   [
-    "triffst",
-    "Stell dir vor, du triffst jemanden auf der Straße in Deutschland.",
-    50,
-    55,
-    3.51,
-    4
-   ],
-   [
-    "sophia",
-    "Ich bin Sophia und das hier ist Daily Deutsch.",
-    2,
-    7,
-    3.8,
-    4
-   ],
-   [
-    "tschüss",
-    "Jetzt der Abschied, ganz locker unter Freunden, sagt man Tschüss, kurz und einfach.",
-    99,
-    107,
-    3.96,
-    5
-   ],
-   [
-    "toilette",
-    "Zum Beispiel, wenn du die Toilette suchst.",
-    185,
-    189,
-    4.13,
-    5
-   ],
-   [
-    "höflichkeit",
-    "In Deutschland ist Höflichkeit wichtig. Und zum Glück brauchst du nur ein paar Wörter.",
-    150,
-    156,
-    3.53,
-    2
-   ],
-   [
-    "hörst",
-    "Wörter, die du oft hörst, bleiben einfach hängen.",
-    39,
-    43,
-    3.91,
-    3
-   ],
-   [
-    "entschuldigung",
-    "Entschuldigung, dieses Wort ist Gold wert.",
-    178,
-    183,
-    4.28,
-    6
-   ],
-   [
-    "sagst",
-    "Was sagst du? Ganz einfach: Hallo!",
-    54,
-    58,
-    4.49,
-    11
-   ],
    [
     "guten",
     "Am frühen Morgen sagt man Guten Morgen.",
@@ -14868,22 +15031,6 @@
     8
    ],
    [
-    "sagt",
-    "Man sagt Hallo - fertig. So einfach ist das.",
-    64,
-    69,
-    5.59,
-    8
-   ],
-   [
-    "heisst",
-    "",
-    0,
-    0,
-    5.48,
-    8
-   ],
-   [
     "danke",
     "Und wenn du etwas bekommst, sagst du Danke.",
     168,
@@ -14892,26 +15039,106 @@
     8
    ],
    [
-    "wort",
-    "Das ist das erste Wort, das jeder lernt.",
-    58,
-    61,
-    5.22,
-    7
+    "sagt",
+    "Man sagt Hallo - fertig. So einfach ist das.",
+    64,
+    69,
+    5.59,
+    8
    ],
    [
-    "tag",
-    "Später am Tag, vielleicht um 14 Uhr, sagt man Guten Tag.",
-    80,
-    85,
-    5.69,
-    7
+    "sagst",
+    "Was sagst du? Ganz einfach: Hallo!",
+    54,
+    58,
+    4.49,
+    11
+   ],
+   [
+    "entschuldigung",
+    "Entschuldigung, dieses Wort ist Gold wert.",
+    178,
+    183,
+    4.28,
+    6
+   ],
+   [
+    "woher",
+    "Das zeigt, woher du bist. Ich komme aus, und dann dein Land.",
+    285,
+    290,
+    4.64,
+    5
+   ],
+   [
+    "wörter",
+    "Egal, ob du null Wörter kennst oder schon ein bisschen Deutsch verstehst,",
+    11,
+    17,
+    4.35,
+    5
+   ],
+   [
+    "toilette",
+    "Zum Beispiel, wenn du die Toilette suchst.",
+    185,
+    189,
+    4.13,
+    5
+   ],
+   [
+    "tschüss",
+    "Jetzt der Abschied, ganz locker unter Freunden, sagt man Tschüss, kurz und einfach.",
+    99,
+    107,
+    3.96,
+    5
+   ],
+   [
+    "sophia",
+    "Ich bin Sophia und das hier ist Daily Deutsch.",
+    2,
+    7,
+    3.8,
+    4
+   ],
+   [
+    "hörst",
+    "Wörter, die du oft hörst, bleiben einfach hängen.",
+    39,
+    43,
+    3.91,
+    3
+   ],
+   [
+    "triffst",
+    "Stell dir vor, du triffst jemanden auf der Straße in Deutschland.",
+    50,
+    55,
+    3.51,
+    4
+   ],
+   [
+    "höflichkeit",
+    "In Deutschland ist Höflichkeit wichtig. Und zum Glück brauchst du nur ein paar Wörter.",
+    150,
+    156,
+    3.53,
+    2
+   ],
+   [
+    "förmlicher",
+    "Etwas förmlicher, aber immer noch freundlich.",
+    84,
+    88,
+    2.08,
+    2
    ]
   ],
-  "tx": "Hey, schön, dass du da bist! Ich bin Sophia und das hier ist Daily Deutsch. Heute machen wir etwas ganz Besonderes. Wir starten bei null, ganz am Anfang. Egal, ob du null Wörter kennst oder schon ein bisschen Deutsch verstehst, heute nehme ich dich mit auf eine kleine Reise. Mach es dir gemütlich. Vielleicht liegst du gerade im Bett. Vielleicht fährst du Auto oder gehst spazieren. Das ist egal. Du musst nichts aufschreiben. Kein Stress, keine Prüfung, nur zuhören. Weißt du, was das Coole ist? Dein Gehirn arbeitet die ganze Zeit. Auch wenn du entspannt bist, auch wenn du fast einschläfst. Wörter, die du oft hörst, bleiben einfach hängen. Wie ein Lied, das du nicht mehr aus dem Kopf bekommst. Also los, lehn dich zurück. Wir fangen an. Stell dir vor, du triffst jemanden auf der Straße in Deutschland. Was sagst du? Ganz einfach: Hallo! Das ist das erste Wort, das jeder lernt. Hallo bedeutet einfach: Ich sehe dich, ich grüße dich. Man sagt Hallo - fertig. So einfach ist das. Aber Deutsch hat auch Grüße für verschiedene Tageszeiten. Am frühen Morgen sagt man Guten Morgen. Stell dir vor, du triffst einen Nachbarn um 8 Uhr. Du sagst Guten Morgen. Später am Tag, vielleicht um 14 Uhr, sagt man Guten Tag. Etwas förmlicher, aber immer noch freundlich. Und wenn die Sonne untergeht, am Abend, sagt man Guten Abend. Bevor man schläft, sagt man Gute Nacht. Das ist auch etwas Süßes, das man Kindern sagt. Jetzt der Abschied, ganz locker unter Freunden, sagt man Tschüss, kurz und einfach. Etwas förmlicher ist Auf Wiedersehen. Das benutzt man vielleicht mit dem Chef oder einem Fremden. Lass uns das noch einmal zusammen durchgehen, ganz langsam. Hallo, Guten Morgen, Guten Tag, Guten Abend, Gute Nacht, Tschüss, Auf Wiedersehen. Stell dir jetzt einen Tag vor. Du wachst auf und sagst Guten Morg",
+  "tx": "Hey, schön, dass du da bist! Ich bin Sophia und das hier ist Daily Deutsch. Heute machen wir etwas ganz Besonderes. Wir starten bei null, ganz am Anfang. Egal, ob du null Wörter kennst oder schon ein bisschen Deutsch verstehst, heute nehme ich dich mit auf eine kleine Reise. Mach es dir gemütlich. Vielleicht liegst du gerade im Bett. Vielleicht fährst du Auto oder gehst spazieren. Das ist egal. Du musst nichts aufschreiben. Kein Stress, keine Prüfung, nur zuhören. Weißt du, was das Coole ist? Dein Gehirn arbeitet die ganze Zeit. Auch wenn du entspannt bist, auch wenn du fast einschläfst. … einfach hängen. Wie ein Lied, das du nicht mehr aus dem Kopf bekommst. Also los, lehn dich zurück. Wir fangen an. Stell dir vor, du triffst jemanden auf der Straße in Deutschland. Was sagst du? Ganz einfach: Hallo! Das ist das erste Wort, das jeder lernt. Hallo bedeutet einfach: Ich sehe dich, ich grüße dich. Man sagt Hallo - fertig. So einfach ist das. Aber Deutsch hat auch Grüße für verschiedene Tageszeiten. Am frühen Morgen sagt man Guten Morgen. Stell dir vor, du triffst einen Nachbarn um 8 Uhr. Du sagst Guten Morgen. Später am Tag, vielleicht um 14 Uhr, sagt man Guten Tag. Etwas … Und wenn die Sonne untergeht, am Abend, sagt man Guten Abend. Bevor man schläft, sagt man Gute Nacht. Das ist auch etwas Süßes, das man Kindern sagt. Jetzt der Abschied, ganz locker unter Freunden, sagt man Tschüss, kurz und einfach. Etwas förmlicher ist Auf Wiedersehen. Das benutzt man vielleicht mit dem Chef oder einem Fremden. Lass uns das noch einmal zusammen durchgehen, ganz langsam. Hallo, Guten Morgen, Guten Tag, Guten Abend, Gute Nacht, Tschüss, Auf Wiedersehen. Stell dir jetzt einen Tag vor. Du wachst auf und sagst Guten Morgen zu deiner Familie. Mittags triffst du einen … Abends siehst du einen Freund und sagst Guten Abend. Und wenn du gehst, sagst du Tschüss, siehst du, ganz natürlich. Jetzt wird es richtig praktisch. In Deutschland ist Höflichkeit wichtig. Und zum Glück brauchst du nur ein paar Wörter. Das wichtigste Wort überhaupt: bitte. Du hörst es überall, im Café, im Laden, überall. Wenn du etwas bestellst, sagst du zum Beispiel: Ein Kaffee, bitte. Ganz einfach. Und wenn du etwas bekommst, sagst du Danke. Vielleicht sogar Danke schön, das klingt noch netter. Jetzt kommt ein Wort, das dir wirklich helfen wird. Entschuldigung, dieses Wort ist Gold wert. … ansprichst. Zum Beispiel, wenn du die Toilette suchst. Entschuldigung, wo ist die Toilette? Oder wenn du aus Versehen jemanden anstößt. Entschuldigung! Zwei kleine, aber mächtige Wörter. Ja und nein. Ja heißt, ich stimme zu. Nein heißt, ich stimme nicht zu. Lass uns wiederholen, bitte. Danke. Entschuldigung. Ja, nein. Kleine Szene für dich. Du gehst in ein Café, du sagst: Ein Wasser, bitte. Die Kellnerin bringt es dir. Du sagst Danke schön. Dann fragst du: Entschuldigung, wo ist die Toilette? Sie zeigt dir den Weg. Du sagst noch mal Danke. Ganz natürlich, oder? Jetzt wird es persönlich. … Deutsch? Das erste Wort: ich. Das bist du, wenn du sprichst. Man sagt, ich bin hier oder ich lerne Deutsch. Und wenn du mit jemandem sprichst, benutzt du du. Wie heißt du? Oder du bist nett. Jetzt ein superwichtiges Verb: sein. Dieses Wort brauchst du ständig. Ich bin, du bist, er ist, sie ist. Zum Beispiel: Ich bin müde. Oder du bist freundlich. Ein weiteres wichtiges Wort ist heißen. Das benutzt man für den Namen. Ich heiße Sophia. Ganz einfach, oder? Jetzt du. Wie heißt du? Und zum Schluss: kommen. Das zeigt, woher du bist. Ich komme aus, und dann dein Land. Wiederholen wir. Ich, du, … vor, du triffst jemanden zum ersten Mal. Hallo, ich heiße Sophia. Ich komme aus Deutschland. Wie heißt du? Woher kommst du? Das ist wirklich eine komplette Vorstellung. Mit nur wenigen Wörtern. Zahlen begegnen dir jeden Tag. Beim Einkaufen, beim Bezahlen, überall. Fangen wir an, ganz gemütlich. Eins, zwei, drei, vier, fünf. Gut, machen wir weiter, im gleichen Tempo. Sechs, sieben, acht, neun, zehn. Und noch einmal, von Anfang bis Ende. Ganz entspannt. Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn. Diese Zahlen benutzt du wirklich überall. Ich habe zwei Geschwister. Der … überrascht sein, wie oft diese kleinen Zahlen im Alltag auftauchen. Zum Schluss, und das ist wirklich Gold wert, ein paar Fragen, die dir in jedem Gespräch helfen. Wie geht's? Diese Frage hörst du ständig. Sie bedeutet: Wie fühlst du dich? Du kannst antworten: Mir geht's gut, oder mir geht's nicht so gut. Wie heißt du? Nach dem Namen fragen. Woher kommst du? Nach dem Herkunftsland fragen. Und wenn du etwas suchst: Wo ist? Wo ist der Bahnhof? Wo ist die Toilette? Diese Frage rettet dich in vielen Situationen. Und zum Schluss, wenn du etwas nicht kennst: Was ist das? Wiederholen wir noch … Wie heißt du? Woher kommst du? Wo ist? Was ist das? Wow, schau mal, wie viel wir heute gemacht haben. Lass uns das alles noch einmal zusammenbringen, in einer kleinen Geschichte. Hör einfach zu, entspann dich und lass die Wörter einfach durch dich fließen. Guten Tag, ich heiße Sophia. Wie heißt du? Ich komme aus Deutschland. Woher kommst du? Mir geht's gut, danke. Und dir? Ich habe zwei gute Freunde hier in der Stadt. Entschuldigung, weißt du vielleicht, wo die Toilette ist? Ah, danke schön, es war wirklich schön, dich kennenzulernen. Tschüss und bis bald. Und das war's, deine erste kleine … Begrüßungen, Höflichkeit, wie man über sich spricht, die ersten Zahlen und die wichtigsten Fragen. Das Schöne ist, du musst dir jetzt keine Sorgen machen, alles perfekt zu verstehen. Hör diese Folge einfach noch einmal. Vielleicht heute Abend, vielleicht morgen früh. Jedes Mal bleibt ein bisschen mehr hängen. So funktioniert Sprachenlernen wirklich. Nicht durch Stress, sondern durch Wiederholung, durch Entspannung, durch einfaches Zuhören. Danke, dass du heute dabei warst. Ich freue mich schon, wenn wir das nächste Mal wieder zusammen Deutsch lernen. Bis dahin, mach's gut und tschüss.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7953
+  "src": "cc"
  },
  "rh9mXPhXdcg": {
   "channel": "Deutsch mit Lari",

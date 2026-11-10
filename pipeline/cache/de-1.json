@@ -103,50 +103,135 @@
  "0dybNhyGn4w": {
   "channel": "Nicos Weg (DW)",
   "lang": "de",
-  "checked": "2026-10-27T20:34:56+00:00",
+  "checked": "2026-11-10T14:56:26+00:00",
   "title": "Arbeitsschutz | Deutsch im Job | B1 | DW Deutsch lernen",
   "duration": 182,
   "published": "20261021",
+  "spoken": "de",
+  "spoken_v": 2,
   "pace": 132.0,
   "rare": 0.0549,
+  "var": 0.8467,
   "speech_s": 165.5,
   "tokens": 364,
   "kw": [
    [
-    "sadi",
+    "hast",
     "Sadi, was hast du vor? Ich kann gar nicht hinsehen.",
-    20
+    20,
+    27,
+    5.75,
+    3
    ],
    [
-    "cajon",
-    "Ich wollte die Cajon vom Regal holen.",
-    80
+    "nein",
+    "Äh, nein, nein, alles in Ordnung. Es",
+    39,
+    43,
+    5.52,
+    3
    ],
    [
-    "marmelade",
-    "Nein, das ist nur Marmelade vom",
-    100
+    "kleiner",
+    "kleiner Unfall. Ah, ein Unfall? Oh mein Gott, was ist",
+    109,
+    116,
+    5.0,
+    3
    ],
    [
-    "elternzeit",
-    "Elternzeit mit ihr trainieren. Wann fängt die noch mal an?",
-    149
+    "sollte",
+    "Damit sollte es auch gehen. Mist. Äh.",
+    11,
+    21,
+    5.76,
+    2
    ],
    [
-    "sturz",
-    "Hätte Sadi sich bei dem Sturz verletzt,",
-    45
+    "unfall",
+    "Versicherung zuständig. Der Unfall muss daher dokumentiert und vom Arbeitgeber",
+    62,
+    72,
+    4.7,
+    3
+   ],
+   [
+    "passieren",
+    "Weg von oder zur Arbeit passieren. In",
+    56,
+    63,
+    4.78,
+    2
+   ],
+   [
+    "glückwunsch",
+    "Miguel, herzlichen Glückwunsch. Du bist Vater geworden? Herzlichen",
+    128,
+    136,
+    4.36,
+    2
+   ],
+   [
+    "herzlichen",
+    "Miguel, herzlichen Glückwunsch. Du bist Vater geworden? Herzlichen",
+    128,
+    136,
+    4.25,
+    2
    ],
    [
     "dokumentiert",
     "daher dokumentiert und vom Arbeitgeber gemeldet werden. Dazu muss die",
-    65
+    65,
+    74,
+    4.05,
+    2
+   ],
+   [
+    "sturz",
+    "Hätte Sadi sich bei dem Sturz verletzt,",
+    45,
+    51,
+    4.01,
+    2
+   ],
+   [
+    "marmelade",
+    "Nein, das ist nur Marmelade vom",
+    100,
+    105,
+    3.57,
+    4
+   ],
+   [
+    "elternzeit",
+    "Elternzeit mit ihr trainieren. Wann fängt die noch mal an?",
+    149,
+    156,
+    3.33,
+    2
+   ],
+   [
+    "sadi",
+    "Sadi, was hast du vor? Ich kann gar nicht hinsehen.",
+    20,
+    27,
+    2.19,
+    6
+   ],
+   [
+    "cajon",
+    "Ich wollte die Cajon vom Regal holen.",
+    80,
+    86,
+    2.31,
+    2
    ]
   ],
-  "tx": "Wo ist denn die Leiter von vorhin geblieben? Na egal. Damit sollte es auch gehen. Mist. Äh. So, das sollte hoch genug sein. Sadi, was hast du vor? Ich kann gar nicht hinsehen. Sadi, oh, alles okay? Oh Mensch, was ist denn passiert? Ah, alles gut. Ich bin nur ein bisschen gestürzt. Bist du sicher? Ach, soll ich nicht doch lieber den Rettungsdienst rufen? Na. Äh, nein, nein, alles in Ordnung. Es geht schon wieder. Huh, das ist ja noch mal gut gegangen. Hätte Sadi sich bei dem Sturz verletzt, würde man von einem Arbeitsunfall sprechen. Das sind Unfälle, die während der Arbeitszeit oder auf dem direkten Weg von oder zur Arbeit passieren. In solchen Fällen ist eine besondere Versicherung zuständig. Der Unfall muss daher dokumentiert und vom Arbeitgeber gemeldet werden. Dazu muss die betroffene Person zu einem besonderen Arzt gehen, der die Verletzungen behandelt und dokumentiert. Wie konnte das denn passieren? Ich wollte die Cajon vom Regal holen. Für die Teamsitzung gleich. Und da hast du dir einen Turm gebaut. Oh man, Sadi. Dafür haben wir doch die Trittleiter. Geht es dir denn wirklich gut? Sag mal, blutest du da am Kopf? Warte, ich hol schnell den Verbandskasten. Was? Nein, das ist nur Marmelade vom Frühstück. Oscar hat heute Morgen seine Hände an mir abgewischt. Hier ist wirklich nichts passiert. War ja nur ein kleiner Unfall. Ah, ein Unfall? Oh mein Gott, was ist hier denn los? Alles halb so schlimm, nur ein kleiner Sturz. Und ein bisschen Marmelade. Hör ich da Marmelade? Ich liebe Marmelade. Da ist ja endlich der stolze Papa. Miguel, herzlichen Glückwunsch. Du bist Vater geworden? Herzlichen Glückwunsch. Was ist das denn? Eine kleine Ida. Das ist sie, 3700 g schwer, 54 cm groß und ein kleiner Sonnenschein. Nur das mit dem Nachtschlafen muss sie noch üben. Das kannst d",
+  "tx": "Wo ist denn die Leiter von vorhin geblieben? Na egal. Damit sollte es auch gehen. Mist. Äh. So, das sollte hoch genug sein. Sadi, was hast du vor? Ich kann gar nicht hinsehen. Sadi, oh, alles okay? Oh Mensch, was ist denn passiert? Ah, alles gut. Ich bin nur ein bisschen gestürzt. Bist du sicher? Ach, soll ich nicht doch lieber den Rettungsdienst rufen? Na. Äh, nein, nein, alles in Ordnung. Es geht schon wieder. Huh, das ist ja noch mal gut gegangen. Hätte Sadi sich bei dem Sturz verletzt, würde man von einem Arbeitsunfall sprechen. Das sind Unfälle, die während der Arbeitszeit oder auf dem direkten Weg von oder zur Arbeit passieren. In solchen Fällen ist eine besondere Versicherung zuständig. Der Unfall muss daher dokumentiert und vom Arbeitgeber gemeldet werden. Dazu muss die betroffene Person zu einem besonderen Arzt gehen, der die Verletzungen behandelt und dokumentiert. Wie konnte das denn passieren? Ich wollte die Cajon vom Regal holen. Für die Teamsitzung gleich. Und da hast du dir einen Turm gebaut. Oh man, Sadi. Dafür haben wir doch die Trittleiter. Geht es dir denn wirklich gut? Sag mal, blutest du da am Kopf? Warte, ich hol schnell den Verbandskasten. Was? Nein, das ist nur Marmelade vom Frühstück. Oscar hat heute Morgen seine Hände an mir abgewischt. Hier ist wirklich nichts passiert. War ja nur ein kleiner Unfall. Ah, ein Unfall? Oh mein Gott, was ist hier denn los? Alles halb so schlimm, nur ein kleiner Sturz. Und ein bisschen Marmelade. Hör ich da Marmelade? Ich liebe Marmelade. Da ist ja endlich der stolze Papa. Miguel, herzlichen Glückwunsch. Du bist Vater geworden? Herzlichen Glückwunsch. Was ist das denn? Eine kleine Ida. Das ist sie, 3700 g schwer, 54 cm groß und ein kleiner Sonnenschein. Nur das mit dem Nachtschlafen muss sie noch üben. Das kannst du ja dann in deiner Elternzeit mit ihr trainieren. Wann fängt die noch mal an? Oh. Du gehst in Elternzeit? Ja, aber erst im Februar. Dann musst du hier die Stellung halten, Sadi. Was hast du denn da für eine Kiste mitgebracht? Ach, das ist eine Cajon. Dazu wird Sadi euch jetzt gleich mehr erzählen. So, sollen wir mit der Teamsitzung starten?",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8537
+  "src": "auto"
  },
  "-xLT7AMY_B4": {
   "channel": "Learn German with Anja",
@@ -2167,7 +2252,7 @@
  "X2NPTSVuGiM": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-02T14:59:35+00:00",
+  "checked": "2026-11-10T15:02:34+00:00",
   "title": "Learn German in Linz: Austrian Dialect & Local Life",
   "duration": 991,
   "published": "20260927",
@@ -2175,81 +2260,10 @@
   "spoken_v": 2,
   "pace": 152.8,
   "rare": 0.0954,
+  "var": 0.7831,
   "speech_s": 905.2,
   "tokens": 2305,
   "kw": [
-   [
-    "linz",
-    "Linz ist cool.",
-    0,
-    4,
-    4.23,
-    34
-   ],
-   [
-    "lentos",
-    "Brucknerhaus, das Kunstmuseum Lentos. Übrigens Lentos ist ein keltischer Name",
-    126,
-    135,
-    2.09,
-    4
-   ],
-   [
-    "grauslich",
-    "Die sind ein bisschen grauslich, meiner",
-    355,
-    360,
-    2.17,
-    4
-   ],
-   [
-    "goe",
-    "Goe. Also Goe, wenn man jemand immer wieder",
-    635,
-    641,
-    2.33,
-    4
-   ],
-   [
-    "oberösterreicher",
-    "Na ja, die Oberösterreicher werden die",
-    469,
-    474,
-    2.4,
-    4
-   ],
-   [
-    "schweinsbraten",
-    "sonst Wiener Schnitzel, Schweinsbraten, also, die Hausmannskost, glaube ich, ist",
-    413,
-    421,
-    2.42,
-    4
-   ],
-   [
-    "electronica",
-    "Ich glaube, dass das Ars Electronica",
-    88,
-    94,
-    2.64,
-    4
-   ],
-   [
-    "lände",
-    "Ich bin da jetzt auf der Donau Lände in",
-    102,
-    107,
-    2.23,
-    3
-   ],
-   [
-    "wort",
-    "Wort nicht kennen, was heißt das?",
-    365,
-    369,
-    5.22,
-    9
-   ],
    [
     "vielleicht",
     "eben so die Altstadt oder vielleicht das",
@@ -2267,6 +2281,14 @@
     9
    ],
    [
+    "wort",
+    "Wort nicht kennen, was heißt das?",
+    365,
+    369,
+    5.22,
+    9
+   ],
+   [
     "glaube",
     "Ich glaube, dass das Ars Electronica",
     88,
@@ -2275,42 +2297,138 @@
     8
    ],
    [
-    "geh",
-    "der Trainer hat gesagt geh geh um mich",
-    696,
-    701,
-    4.92,
+    "linz",
+    "Linz ist cool.",
+    0,
+    4,
+    4.23,
+    34
+   ],
+   [
+    "österreichischen",
+    "österreichischen Bundesländer zu bereisen und Linz ist mit seinen 210.000",
+    27,
+    36,
+    4.55,
+    4
+   ],
+   [
+    "german",
+    "einer neuen Easy German Episode aus",
+    17,
+    22,
+    4.49,
+    4
+   ],
+   [
+    "altstadt",
+    "der Altstadt vor dem Wahrzeichen der",
+    37,
+    42,
+    4.25,
+    4
+   ],
+   [
+    "donau",
+    "Donau Länden. Da kann man gut sitzen, da",
+    67,
+    71,
+    4.12,
     8
    ],
    [
-    "bisschen",
-    "wir mal glauben, wir sind ein bisschen",
-    163,
-    167,
-    5.23,
-    8
-   ],
-   [
-    "genau",
-    "die die Gäste bedienen. Genau. Und es",
-    188,
-    194,
-    5.65,
-    7
-   ],
-   [
-    "österreich",
-    "Österreich. Heute aus Linz, der Landeshauptstadt von Oberösterreich. Wir",
-    19,
-    26,
-    5.2,
+    "oberösterreich",
+    "Landeshauptstadt von Oberösterreich. Wir sind hier gerade auf Mission alle neun",
+    21,
+    28,
+    3.92,
     6
+   ],
+   [
+    "coole",
+    "dieses coole Festival, das Ars Electronica Festival gegründet, wo es ja",
+    166,
+    173,
+    4.05,
+    4
+   ],
+   [
+    "easy",
+    "einer neuen Easy German Episode aus",
+    17,
+    22,
+    3.99,
+    4
+   ],
+   [
+    "linzer",
+    "vielleicht zum Trinken Linzer Bier. Ein Linzer",
+    346,
+    350,
+    3.44,
+    6
+   ],
+   [
+    "ars",
+    "Ich glaube, dass das Ars Electronica",
+    88,
+    94,
+    3.31,
+    4
+   ],
+   [
+    "radler",
+    "Radler probieren. Was ist ein Radler?",
+    422,
+    428,
+    3.59,
+    3
+   ],
+   [
+    "beilage",
+    "essen, nicht nur als Beilage, sondern in",
+    473,
+    479,
+    3.59,
+    2
+   ],
+   [
+    "electronica",
+    "Ich glaube, dass das Ars Electronica",
+    88,
+    94,
+    2.64,
+    4
+   ],
+   [
+    "schweinsbraten",
+    "sonst Wiener Schnitzel, Schweinsbraten, also, die Hausmannskost, glaube ich, ist",
+    413,
+    421,
+    2.42,
+    4
+   ],
+   [
+    "oberösterreicher",
+    "Na ja, die Oberösterreicher werden die",
+    469,
+    474,
+    2.4,
+    4
+   ],
+   [
+    "goe",
+    "Goe. Also Goe, wenn man jemand immer wieder",
+    635,
+    641,
+    2.33,
+    4
    ]
   ],
-  "tx": "Linz ist cool. Interessant. Großartig. Lustig. Klein. Kulturstadt. Überzeugen, lässig. Geil. Zukunftsorientiert. Überraschung. Stahlstadt. In Linz beginnt's. Hallo Grüß dich und Habe die Ehre zu einer neuen Easy German Episode aus Österreich. Heute aus Linz, der Landeshauptstadt von Oberösterreich. Wir sind hier gerade auf Mission alle neun Landeshauptstädte der neuen österreichischen Bundesländer zu bereisen und Linz ist mit seinen 210.000 Einwohnerinnen die drittgrößte Stadt in Österreich. Ich stehe jetzt gerade in der Altstadt vor dem Wahrzeichen der Stadt, der Dreifaltigkeitssäule und heute wollen wir herausfinden, was man in Linz unbedingt gesehen haben muss, was man hier unbedingt gegessen haben muss und wie die Leute da so reden, nämlich in Dialekt. Los geht's. Was muss man in Linz unbedingt gesehen haben? Ich persönlich mag sehr, sehr gerne die Donau Länden. Da kann man gut sitzen, da sind voll viele Leute, da tut sich ja immer was. Es gibt Plätze, wo man baden kann, wo man grillen kann und so. Interessiert man sich für Kulturgeschichte, dann würde ich die Altstadt empfehlen. Interessiert man sich für Sie fürs Nachtleben, wie so eben so die Altstadt oder vielleicht das so andere Donauufer, die Stadtwerkstatt. Ich glaube, dass das Ars Electronica Center ist so eine gute Sehenswürdigkeit zu sehen. Ah, ja. Das Musiktheater. Die Donau, die Donau, also es ist wirklich so schön da, die Sandburg. Ich bin da jetzt auf der Donau Lände in Linz und das ist eigentlich ein Hidden Gem, weil viele Leute wissen gar nicht, dass man da entlang der Donau chillen kann, baden gehen kann. Es gibt Bars und Veranstaltungen und auch kleine Strände, da ist immer irgendwas los. Und hier auf der Donau Lände gibt's auch noch viele anderen der Highlights von Linz, wie z.B. Das nach dem berüh",
+  "tx": "Linz ist cool. Interessant. Großartig. Lustig. Klein. Kulturstadt. Überzeugen, lässig. Geil. Zukunftsorientiert. Überraschung. Stahlstadt. In Linz beginnt's. Hallo Grüß dich und Habe die Ehre zu einer neuen Easy German Episode aus Österreich. Heute aus Linz, der Landeshauptstadt von Oberösterreich. Wir sind hier gerade auf Mission alle neun Landeshauptstädte der neuen österreichischen Bundesländer zu bereisen und Linz ist mit seinen 210.000 Einwohnerinnen die drittgrößte Stadt in Österreich. Ich stehe jetzt gerade in der Altstadt vor dem Wahrzeichen der Stadt, der Dreifaltigkeitssäule und … Leute wissen gar nicht, dass man da entlang der Donau chillen kann, baden gehen kann. Es gibt Bars und Veranstaltungen und auch kleine Strände, da ist immer irgendwas los. Und hier auf der Donau Lände gibt's auch noch viele anderen der Highlights von Linz, wie z.B. Das nach dem berühmten österreichischen Komponisten benannte Brucknerhaus, das Kunstmuseum Lentos. Übrigens Lentos ist ein keltischer Name und daraus ist der heutige Name Linz entstanden. Die Kunstuni und das Schloss Linz. Und hinter mir das Ars Electronica, ein Kunst, Wissenschaft und Bildungsinstitut, das sich vor allen Dingen … Kirche Österreichs, sondern einfach ein total beeindruckendes Gebäude. Ein Highlight hier in Linz ist der Mariendom und er ist flächenmäßig die größte Kirche in Österreich. Ähm, der Bischof damals hatte die Idee, dass alle Menschen, die in Linz wohnen, und das waren 20.000 Menschen, gleichzeitig hineinpassen. Und mittlerweile wäre das nur mehr ein Zehntel von allen Menschen, die hier wohnen. Wir treffen jetzt gleich den Dommeister und er zeigt uns den Dom von innen und von oben. Los geht's. Grüß dich, Clemens. Hallo. Du du bist der Dommeister. Genau. Von da her oben hat man Traumausblick … Ganz wichtig, Fehler machen ist dort ausdrücklich erlaubt. Wenn das nach was klingt, was euch interessiert, schaut mal vorbei auf easygerman.org/conversationmembership und da könnt ihr gemeinsam mit uns Deutsch sprechen üben. Dann ähm, was wär denn typisch zum Essen aus der Region? Gibt's irgendeine ganz bestimmte Speise oder Getränke, die es in Oberösterreich gibt? Also zum Trinken alkoholisches Most. Ist typisch. Genau. Vielleicht kurze Erklärung, was ist denn Most? Äh, das ist vergorene Birnen, Äpfel und ist ein bisschen mit Alkohol, aber das wurde früher sehr gern getrunken. Ja. Von … ist Ja, es gibt keine Wörter. Ich habe keine Ahnung, was das da drinnen, aber Und schmeckt es dir? Wenn ich, wenn ich ein bisschen betrunken bin. Für unsere Region nichts Spezielles. In Viertelknödel natürlich und ja, die essen wir in Linz genauso gern, aber sonst Wiener Schnitzel, Schweinsbraten, also, die Hausmannskost, glaube ich, ist immer noch äh, überwiegend, ja. Ja, ich denke, man muss unbedingt einen Radler probieren. Was ist ein Radler? Ein Radler ist ein Getränke mit, äh, es ist Bier mit Limonade. Also, Schweinsbraten ist, glaube ich, in ganz Österreich verbreitet, aber in … wir zum Beispiel einen Semmelknödel. Da haben wir einen Hascheeknödel. Das Wort Haschee kommt eigentlich vom gekochten Faschierten und Faschierten ist das österreichische Wort für Gehacktes, also Hackfleisch. Und da haben wir auch was Besonderes, nämlich einen Grammelknödel. Grammeln sind quasi ausgelassenes Schweinefett und ist ja ähm eine Spezialität mit Sauerkraut und Krautsalat. Und ich würde sagen, guten Appetit und Mahlzeit. Mhm. In Linz findet jährlich das Pflasterspektakel statt und es ist Europas größtes Straßenkunstfestival mit über 300 Künstlerinnen aus 44 Nationen, mit über 100 … Ja. Kannst du uns vielleicht Fliege gesagt Floin, Floin. Ja, also Das hat ja keiner verstanden. Ich hab von anderen bisschen gehört, dass er sehr melodisch öfters ist und da recht weich in manchen Betonungen auch und generell dadurch, dass wir doch sehr nahe an Richtung Bayern und Deutschland halt dann angrenzen, ist es auch, dass das dort sehr ähnliche Begriffe oder sehr ähnlich im Dialekt sich anscheinend anhört, Bayern, Oberösterreich, Salzburg so. Achtung Goe. Also Goe, wenn man jemand immer wieder in seine Gespräche dieses Wort Goe einfließen lässt, dann ist es garantiert ein … nichts zu tun ich habe kein Wort verstanden ich ich stehe da geh um mich geh um mich was bedeutet das ja geh auf die Seite auf voll schönes Beispiel ich glaube Botschen oder was ist ein Botschen genau Hausschuh ja voll gut Schlapfen Bloten beim Rad ja genau Platten Bloten ist der Botschen kann Botschen Botschen kann auch ein Rastplatz sein ja also Botschen ist ein Schuh oder Reifenplatzer ja Botschen das war jetzt ein ganz spannendes Interview weil das ein wirklich schwieriges Wort ist drum werde ich euch versuchen noch mal einfach zu sagen ein Patschen kann mehrere Bedeutungen haben also … und Gottes Willen, jetzt haben wir das Pflasterspektakel, dann ist die Klangwolke, da tut sich ja immer was. Das ist Lentos, das ist ja immer wieder Ausstellung. Es ist, es tut sich immer was in Linz. Das ist einfach wirklich großartig und das Wort in Linz beginnt, sehen Sie, meine ich bin zwar Linzerin, aber für mich, für mich ist immer wieder was Neues, was neu beginnt. Linz, es ist klein, aber fein. Also, klein, aber fein, würde ich sagen, ja. Also, ich finde so ein zwei Tage, einmal nach Linz kommen und ein bisschen spazieren gehen. Tiptop. Ich habe jetzt da jetzt nicht was Besonderes, … dem Blick über ganz Linz endet da unsere Episode über Linz. Es war schon wieder so ein cooler Tag und wir haben so viele coole Leute und Plätze kennengelernt. Aber gibt's vielleicht noch Sachen aus Linz, die wir vergessen haben oder nicht gefunden haben? Wenn ihr den Linz gut kennt oder neue Hidden Gems habt, schreibt es uns gerne in die Kommentare und wir lesen wie immer alles ganz genau durch. Und schaut sie mal noch, es gibt diese Serie auch von den anderen österreichischen Landeshauptstädten von Salzburg, St. Pölten und so weiter und ich freue mich, wenn wir uns bald wieder sehen. Ciao.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7642
+  "src": "auto"
  },
  "lz2k08ZU9qQ": {
   "channel": "MrWissen2go",
@@ -2867,7 +2985,7 @@
  "Lf6iSTc1jHU": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-02T14:54:11+00:00",
+  "checked": "2026-11-10T14:57:59+00:00",
   "title": "How to Make German Potato Salad (Easy + Vocabulary)",
   "duration": 358,
   "published": "20260319",
@@ -2875,73 +2993,10 @@
   "spoken_v": 2,
   "pace": 146.2,
   "rare": 0.1142,
+  "var": 0.7808,
   "speech_s": 359.5,
   "tokens": 876,
   "kw": [
-   [
-    "kartoffelsalat",
-    "Beilage, als Kartoffelsalat, Salzkartoffeln, Bratkartoffeln und so",
-    21,
-    29,
-    3.25,
-    8
-   ],
-   [
-    "means",
-    "Schälen means to take off the skin.",
-    45,
-    51,
-    3.13,
-    5
-   ],
-   [
-    "gewürzgurken",
-    "Gewürzgurken. Dann haben wir Senf, vielleicht kennt",
-    117,
-    124,
-    2.42,
-    3
-   ],
-   [
-    "mayonnaise",
-    "mit Mayonnaise oder wir sagen auch Mayo",
-    113,
-    118,
-    3.03,
-    4
-   ],
-   [
-    "zack",
-    "Mayonnaise. Zack, immer rein hier. Bä.",
-    155,
-    163,
-    3.92,
-    8
-   ],
-   [
-    "schäle",
-    "ab. Das ist schälen. Ich schäle die",
-    50,
-    57,
-    2.06,
-    2
-   ],
-   [
-    "schneidebrett",
-    "erstmal mit einem Schneidebrett. Das ist",
-    71,
-    77,
-    2.14,
-    2
-   ],
-   [
-    "cut",
-    "geschnitten werden. They have to be cut.",
-    67,
-    72,
-    3.71,
-    5
-   ],
    [
     "schön",
     "Skin, das ist die Schale und dann schön",
@@ -2957,14 +3012,6 @@
     40,
     5.62,
     8
-   ],
-   [
-    "you",
-    "weiter. Today I will show you how to",
-    26,
-    31,
-    4.84,
-    7
    ],
    [
     "rein",
@@ -2983,12 +3030,12 @@
     7
    ],
    [
-    "bisschen",
-    "Parsley. Manche machen auch ein bisschen",
-    143,
-    148,
-    5.23,
-    5
+    "like",
+    "dann viertel heißt das. Viertel ist like",
+    79,
+    84,
+    4.26,
+    8
    ],
    [
     "salz",
@@ -2999,18 +3046,122 @@
     4
    ],
    [
-    "klein",
-    "die muss man ganz schön klein schneiden.",
-    162,
-    168,
-    4.94,
+    "siehst",
+    "Kartoffel. Siehst du das? Und hier",
+    54,
+    60,
+    4.65,
+    3
+   ],
+   [
+    "with",
+    "them with everything. Mit Schnitzel, als",
+    19,
+    25,
+    4.58,
+    3
+   ],
+   [
+    "kartoffeln",
+    "lieben Kartoffeln. We love them. Beat",
+    16,
+    22,
+    4.12,
+    8
+   ],
+   [
+    "zack",
+    "Mayonnaise. Zack, immer rein hier. Bä.",
+    155,
+    163,
+    3.92,
+    8
+   ],
+   [
+    "cut",
+    "geschnitten werden. They have to be cut.",
+    67,
+    72,
+    3.71,
+    5
+   ],
+   [
+    "pfeffer",
+    "haben wir noch Salz und Pfeffer, ganz",
+    126,
+    132,
+    3.81,
     4
+   ],
+   [
+    "kartoffelsalat",
+    "Beilage, als Kartoffelsalat, Salzkartoffeln, Bratkartoffeln und so",
+    21,
+    29,
+    3.25,
+    8
+   ],
+   [
+    "means",
+    "Schälen means to take off the skin.",
+    45,
+    51,
+    3.13,
+    5
+   ],
+   [
+    "mayonnaise",
+    "mit Mayonnaise oder wir sagen auch Mayo",
+    113,
+    118,
+    3.03,
+    4
+   ],
+   [
+    "today",
+    "today. Wir sind heute hier. Ich zeige",
+    7,
+    12,
+    3.56,
+    3
+   ],
+   [
+    "gewürzgurken",
+    "Gewürzgurken. Dann haben wir Senf, vielleicht kennt",
+    117,
+    124,
+    2.42,
+    3
+   ],
+   [
+    "actually",
+    "actually not my kitchen, but we are here",
+    5,
+    9,
+    2.93,
+    2
+   ],
+   [
+    "geschält",
+    "gekocht und sie müssen geschält werden.",
+    41,
+    48,
+    2.77,
+    2
+   ],
+   [
+    "potato",
+    "make a Potato Salad. Und erstmal diese",
+    28,
+    34,
+    2.6,
+    2
    ]
   ],
-  "tx": "Willkommen zurück in Anjas Küche. Welcome back in Anjaas Kitchen, which is actually not my kitchen, but we are here today. Wir sind heute hier. Ich zeige euch heute etwas ganz typisch Deutsches. Was ist erstmal das? Was ist das? Das ist eine Kartoffel. Und wir Deutschen lieben Kartoffeln. We love them. Beat them with everything. Mit Schnitzel, als Beilage, als Kartoffelsalat, Salzkartoffeln, Bratkartoffeln und so weiter. Today I will show you how to make a Potato Salad. Und erstmal diese Kartoffeln musste man am Anfang kochen. Der hätte beuckt mit Schale. So with the Skin, das ist die Schale und dann schön weich kochen. So, jetzt sind sie schon gekocht und sie müssen geschält werden. Schälen means to take off the skin. Schälen bedeutet, man macht die Schale ab. Das ist schälen. Ich schäle die Kartoffel. Siehst du das? Und hier siehst du, diese Kartoffeln haben wir schon geschält. So, und jetzt schäle ich diese Kartoffeln hier schnell und die anderen und wir sehen uns gleich wieder. Und jetzt müssen die Kartoffeln geschnitten werden. They have to be cut. Und was man hier machen kann, ist erstmal mit einem Schneidebrett. Das ist das Schneidebrett und ein Messer, ein Schneidemesser. Erstmal halbieren und dann viertel heißt das. Viertel ist like a quarter und halbieren ist like cut it in half. Und dann schön dünne kleine Scheiben Scheiben schneiden und dann hat man das so. Das können manche Leute schneller, die nicht Anja heißen und ich ist dann meistens das Ende. So und heute machen wir den klassischen Kartoffelsalat. We will make the classical German Potato Salad. Vom Kartoffelsalat in Deutschland gibt es Millionen Varianten der like a million versions. Aber wir machen das so hier mit Mayonnaise oder wir sagen auch Mayo oder Mayonnaise. Das hier sind Gewürzgurken. Dann ha",
+  "tx": "Willkommen zurück in Anjas Küche. Welcome back in Anjaas Kitchen, which is actually not my kitchen, but we are here today. Wir sind heute hier. Ich zeige euch heute etwas ganz typisch Deutsches. Was ist erstmal das? Was ist das? Das ist eine Kartoffel. Und wir Deutschen lieben Kartoffeln. We love them. Beat them with everything. Mit Schnitzel, als Beilage, als Kartoffelsalat, Salzkartoffeln, Bratkartoffeln und so weiter. Today I will show you how to make a Potato Salad. Und erstmal diese Kartoffeln musste man am Anfang kochen. Der hätte beuckt mit Schale. So with the Skin, das ist die Schale und dann schön weich kochen. So, jetzt sind sie schon gekocht und sie müssen geschält werden. Schälen means to take off the skin. Schälen bedeutet, man macht die Schale ab. Das ist schälen. Ich schäle die Kartoffel. Siehst du das? Und hier siehst du, diese Kartoffeln haben wir schon geschält. So, und jetzt schäle ich diese Kartoffeln hier schnell und die anderen und wir sehen uns gleich wieder. Und jetzt müssen die Kartoffeln geschnitten werden. They have to be cut. Und was man hier machen kann, ist erstmal mit einem Schneidebrett. Das ist das Schneidebrett und ein Messer, ein Schneidemesser. Erstmal halbieren und dann viertel heißt das. Viertel ist like a quarter und halbieren ist like cut it in half. Und dann schön dünne kleine Scheiben Scheiben schneiden und dann hat man das so. Das können manche Leute schneller, die nicht Anja heißen und ich ist dann meistens das Ende. So und heute machen wir den klassischen Kartoffelsalat. We will make the classical German Potato Salad. Vom Kartoffelsalat in Deutschland gibt es Millionen Varianten der like a million versions. Aber wir machen das so hier mit Mayonnaise oder wir sagen auch Mayo oder Mayonnaise. Das hier sind Gewürzgurken. Dann haben wir Senf, vielleicht kennt ihr das. Das ist Bauzner. Senf Bauzen ist eine Stadt in Deutschland. Dann haben wir noch Salz und Pfeffer, ganz wichtig. Und Zwiebeln. Ja, das ist eine Zwiebel. Und das ist jetzt erstmal das Grundrezept für den klassischen Kartoffelsalat, aber z.B. in manchen Familien wird dann noch Peter Silie hinzugefügt. Some families they at Parsley. Manche machen auch ein bisschen Speck rein, manche machen auch Eier rein. Ja, also das es gibt wirklich sehr viele Varianten. Aber wir fangen jetzt mal an. Erstmal wir nehmen die ganze Mayonnaise. Zack, immer rein hier. Bä. Dann haben wir hier die Gewürzgurken und die muss man ganz schön klein schneiden. Ganz schön klein. Ja, ich mache immer erstmal die beiden Enden ein bisschen ab. So und jetzt wieder halbieren. Ja, cut in half. Und jetzt ganz schön klein und dünn schneiden. So, Wskgurken hier rein. Dann der Senf. Ich mach mal hier so einen Löffel. Siehst du das? Zack. Und hier bei der Zwiebel nehme ich die Hälfte. Ja. So, ich denke, das ist genug für den Salat. Und da schneide ich auch wieder ein bisschen die Enden ab. Abschneiden ist like to cut off. Hier auch ein bisschen so. Ja, das das brennt in den Augen. It burns in the e. Und hier muss man aufpassen, dass man nicht anfängt zu heulen. Heulen ist ein anderes Wort für weinen. Ja, ich heule oder ich weine. Es ist das gleiche, aber bis jetzt geht's noch. Until now ist okay. So. Und da auch wieder schön klein. You try to cut it really small. Somehow possible. Ja, übrigens, also ich bin keine Köchin. Ja, I am not a cook. So, please be nice with me today. So, und jetzt kommt die Zwiebel hier rein. Zack. Und dann brauchen wir natürlich noch Salz und Pfeffer. So, Salz. Schön. Zack. und Pfeffer. Wuhu! Und Geheimtipp, a Secret Tipp, eine kleine Brise Zucker. Das hier ist Zucker. So. Yeah. Gut. Kartoffelsalat ist fertig. Und noch ein Geheimtipp. Ein bisschen Gurkenwasser hier rein. Ja, nicht zu viel für den Geschmack. Dann schmeckt es etwas cremiger. M. Und das ist jetzt die Soße oder das Dressing oder auch der Sut für den Kartoffelsalat. Was jetzt noch fehlt, sind die Kartoffeln. Und das kann man jetzt noch rühren. Ja, hier. Zack. So wird das schön gerührt. Lecker. Umrühren. Means like to stir or. You can also say rühren. Und hier haben wir jetzt die Kartoffeln. Kommen hier rein. Zack. Und so geht es dann etwas schneller. Zack, zack. So. Und jetzt werden die untergehoben. Ja, also unterheben ist dann so immer schön so alles schön verteilen. Und da haben wir schon unseren Kartoffelsalat. Am besten ist es den noch etwas ziehen zu lassen. Ja, so that means ziehen actually means to pull, but it means that you let it sit for a while. So the flavor really distributes. Ja, so dass der Geschmack überall schön gleichmäßig ist. Und ja, das ist dann der deutsche Kartoffelsalat mit Kartoffeln, Mayonnaise, Salz und Pfeffer, Senf, Gewürzgurken und ganz viel Liebe von Anja. Da ist er. Okay, tschüss. Would you like to get more structured lessons just like this one and including exercises? Check out the free trial of my German Academy. You get access to over 200 real life dialoges like this one. You get a transcript, subtitles in German and English, grammar explanations and tons of exercises. Check out the link in the description. Yeah.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7659
+  "src": "auto"
  },
  "iKwkXyAbljg": {
   "channel": "Get Germanized",
@@ -3503,7 +3654,7 @@
  "5W3khGaVU0M": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-02T15:05:26+00:00",
+  "checked": "2026-11-10T15:05:59+00:00",
   "title": "Was flüssige und natürliche Aussprache auf Deutsch wirklich bedeutet",
   "duration": 709,
   "published": "20250211",
@@ -3511,73 +3662,10 @@
   "spoken_v": 2,
   "pace": 151.3,
   "rare": 0.1061,
+  "var": 0.7977,
   "speech_s": 680.2,
   "tokens": 1715,
   "kw": [
-   [
-    "vokal",
-    "Auch hier geht der Primärakzent mit der Melodie nach unten und der Vokal ist",
-    256,
-    261,
-    3.2,
-    12
-   ],
-   [
-    "schwa",
-    "Im Wort \"beziehen\" hat er das e-Schwa getilgt – also nicht mitgesprochen.",
-    89,
-    94,
-    2.49,
-    7
-   ],
-   [
-    "junos",
-    "Ich muss noch Junos Bett beziehen.",
-    37,
-    45,
-    2.16,
-    6
-   ],
-   [
-    "assimilation",
-    "Ihr könnt versuchen nur diese Assimilation zu üben, indem ihr sagt: ,",
-    158,
-    165,
-    3.14,
-    9
-   ],
-   [
-    "silbe",
-    "Die Silbe, die in der jeweiligen Gruppe den Primärakzent trägt,",
-    58,
-    62,
-    3.3,
-    10
-   ],
-   [
-    "konsonant",
-    "Das ist übrigens eine regressive Assimilation, denn der nasale Konsonant –",
-    313,
-    318,
-    2.48,
-    6
-   ],
-   [
-    "akzentuierte",
-    "dass betonte Silben (akzentuierte Silben) immer höher gesprochen werden.",
-    187,
-    192,
-    2.08,
-    5
-   ],
-   [
-    "konsonanten",
-    "Wenn ein Wort mit einem Konsonanten endet und das nächste Wort mit einem Konsonanten beginnt,",
-    102,
-    108,
-    3.07,
-    8
-   ],
    [
     "sondern",
     "Er hat also nicht gesagt mit drei Silben, sondern mit zwei Silben.",
@@ -3603,6 +3691,14 @@
     13
    ],
    [
+    "bett",
+    "Ich muss noch Junos Bett beziehen.",
+    37,
+    45,
+    4.94,
+    11
+   ],
+   [
     "gesprochen",
     "Und dieser zweite wird dann auch stimmlos gesprochen.",
     147,
@@ -3619,34 +3715,122 @@
     11
    ],
    [
-    "bett",
+    "aufhören",
+    "zumindest bis die Albträume aufhören. Ich glaube, sie braucht noch etwas Zeit.",
+    49,
+    54,
+    4.52,
+    8
+   ],
+   [
+    "david",
+    "Ich weiß nicht, David. Sie sollte die ersten Nächte noch bei uns schlafen,",
+    44,
+    50,
+    4.79,
+    7
+   ],
+   [
+    "wörtern",
+    "den Wörtern, wodurch es also auch wieder zu Assimilationen kommt.",
+    218,
+    222,
+    3.71,
+    7
+   ],
+   [
+    "nächte",
+    "Sie sollte die ersten Nächte noch bei uns schlafen,",
+    47,
+    50,
+    4.06,
+    6
+   ],
+   [
+    "melodie",
+    "Auch hier geht der Primärakzent mit der Melodie nach unten und der Vokal ist",
+    256,
+    261,
+    3.99,
+    3
+   ],
+   [
+    "pausen",
+    "Und den ganzen Satz, also die ganze Akzentgruppe hier spricht er komplett ohne Pausen.",
+    98,
+    103,
+    3.8,
+    3
+   ],
+   [
+    "vokal",
+    "Auch hier geht der Primärakzent mit der Melodie nach unten und der Vokal ist",
+    256,
+    261,
+    3.2,
+    12
+   ],
+   [
+    "silbe",
+    "Die Silbe, die in der jeweiligen Gruppe den Primärakzent trägt,",
+    58,
+    62,
+    3.3,
+    10
+   ],
+   [
+    "assimilation",
+    "Ihr könnt versuchen nur diese Assimilation zu üben, indem ihr sagt: ,",
+    158,
+    165,
+    3.14,
+    9
+   ],
+   [
+    "silben",
+    "Er hat also nicht gesagt mit drei Silben, sondern mit zwei Silben.",
+    93,
+    99,
+    3.22,
+    8
+   ],
+   [
+    "schwa",
+    "Im Wort \"beziehen\" hat er das e-Schwa getilgt – also nicht mitgesprochen.",
+    89,
+    94,
+    2.49,
+    7
+   ],
+   [
+    "konsonant",
+    "Das ist übrigens eine regressive Assimilation, denn der nasale Konsonant –",
+    313,
+    318,
+    2.48,
+    6
+   ],
+   [
+    "junos",
     "Ich muss noch Junos Bett beziehen.",
     37,
     45,
-    4.94,
-    11
+    2.16,
+    6
    ],
    [
-    "schlafen",
-    "Sie sollte die ersten Nächte noch bei uns schlafen,",
-    47,
-    50,
-    4.82,
-    9
-   ],
-   [
-    "ersten",
-    "Sie sollte die ersten Nächte noch bei uns schlafen,",
-    47,
-    50,
-    5.76,
-    9
+    "akzentuiert",
+    "hier in diesem Fall der Name des Kindes primär akzentuiert wurde.",
+    79,
+    84,
+    2.75,
+    5
    ]
   ],
-  "tx": "Hallo und willkommen bei Deutsch mit Benjamin! Ihr wollt doch fließend Deutsch sprechen, oder? Dann schauen wir uns doch heute einfach mal eine kurze Szene aus einer deutschsprachigen Netflix-Serie an. Wir nehmen die brandneue Netflix-Serie Cassandra, die gerade erst erschienen ist und in Deutschland produziert wurde. Und dann analysieren wir diese Szene ganz genau im Hinblick auf Aussprache und Prosodie, damit ihr seht, was die Sprache so natürlich macht. Meine Anmerkungen könnt ihr dann nutzen, um z. B. Shadowing zu praktizieren und so selbst eure Aussprache bzw. das fließende Sprechen zu trainieren. Los geht's! Ich muss noch Junos Bett beziehen. Ich weiß nicht, David. Sie sollte die ersten Nächte noch bei uns schlafen, zumindest bis die Albträume aufhören. Ich glaube, sie braucht noch etwas Zeit. Jetzt habe ich alles in Akzentgruppen oder rhythmische Gruppen eingeteilt. In jeder Zeile ist genau eine Gruppe. Die Silbe, die in der jeweiligen Gruppe den Primärakzent trägt, habe ich hier jeweils fett markiert und in Form dieser rosafarbenen Linie markiere ich den Melodieverlauf. Ich muss noch Junos Bett beziehen. In der ersten Akzentgruppe ist mir natürlich aufgefallen, dass das Wort \"ich\" gar nicht mitgesprochen wurde. Dann ist mir aufgefallen, dass statt wie in der neutralen Sprechweise das Wort \"Bett\" hier in diesem Fall der Name des Kindes primär akzentuiert wurde. Damit drückt der Vater ganz klar aus, dass vorher schon andere Betten – also wahrscheinlich die Betten der Eltern – bezogen wurden. Im Wort \"beziehen\" hat er das e-Schwa getilgt – also nicht mitgesprochen. Er hat also nicht gesagt mit drei Silben, sondern mit zwei Silben. Und den ganzen Satz, also die ganze Akzentgruppe hier spricht er komplett ohne Pausen. Wenn ein Wort mit einem Konsonanten endet und das",
+  "tx": "Hallo und willkommen bei Deutsch mit Benjamin! Ihr wollt doch fließend Deutsch sprechen, oder? Dann schauen wir uns doch heute einfach mal eine kurze Szene aus einer deutschsprachigen Netflix-Serie an. Wir nehmen die brandneue Netflix-Serie Cassandra, die gerade erst erschienen ist und in Deutschland produziert wurde. Und dann analysieren wir diese Szene ganz genau im Hinblick auf Aussprache und Prosodie, damit ihr seht, was die Sprache so natürlich macht. Meine Anmerkungen könnt ihr dann nutzen, um z. B. Shadowing zu praktizieren und so selbst eure Aussprache bzw. das fließende Sprechen zu … In der ersten Akzentgruppe ist mir natürlich aufgefallen, dass das Wort \"ich\" gar nicht mitgesprochen wurde. Dann ist mir aufgefallen, dass statt wie in der neutralen Sprechweise das Wort \"Bett\" hier in diesem Fall der Name des Kindes primär akzentuiert wurde. Damit drückt der Vater ganz klar aus, dass vorher schon andere Betten – also wahrscheinlich die Betten der Eltern – bezogen wurden. Im Wort \"beziehen\" hat er das e-Schwa getilgt – also nicht mitgesprochen. Er hat also nicht gesagt mit drei Silben, sondern mit zwei Silben. Und den ganzen Satz, also die ganze Akzentgruppe hier … notwendig wäre, löst diesen Verschluss aber nicht hörbar. Das liegt eben an dem am Anfang von \"beziehen\", denn das ist ja auch ein Plosiv – und wenn im Deutschen zwei Plosive aufeinandertreffen, dann wird nur der zweite hörbar gelöst. Und dieser zweite wird dann auch stimmlos gesprochen. \"Junos Bett beziehen\" wäre unnatürliche Überartikulation. Stattdessen sagt man so wie er: \"Junos Bett beziehen\". Ihr könnt versuchen nur diese Assimilation zu üben, indem ihr sagt: , , . Jetzt hören wir das dreimal und ihr könnt Shadowing machen. Ich muss noch Junos Bett beziehen. Ich muss noch Jonos … wodurch es also auch wieder zu Assimilationen kommt. \"ich weiß\" – hier macht der Ich-Laut das stimmlos. Es ist also nicht , sondern . Und durch den Ich-Laut am Ende von \"nicht\", wird auch das am Anfang von \"David\" stimmlos. Es ist also nicht sowas wie , sondern . Ich weiß nicht, David. Wenn ihr das Video nützlich findet, gebt doch bitte einen Daumen hoch. Das würde mir sehr helfen. Und abonniert auch gerne meinen Kanal, am besten mit Benachrichtigungen. Sie sollte die ersten Nächte noch bei uns schlafen. Auch hier geht der Primärakzent mit der Melodie nach unten und der Vokal ist wie in … . Beachtet, dass sie nicht , sondern sagt. Sie tilgt also das e-Schwa und infolgedessen wird der Plosiv /t/ wieder nicht als richtiges gesprochen, sondern durch die Nase gedrückt, wegen dem nasalen Konsonanten . Das ist übrigens eine regressive Assimilation, denn der nasale Konsonant – also der, der als zweites gesprochen wird – verändert den Konsonanten davor – in diesem Fall . Das ist einer der Fälle, in denen es im Deutschen zur regressiven Assimilation kommt, in denen also der Konsonant, der als zweites gesprochen wird, den davor beeinflusst. Zwischen den Wörtern \"noch\" und \"bei\" … , . Hier sind diese Wörter – wie so oft im Satz – aber nicht akzentuiert und deswegen ist der Vokal deutlich kürzer. Falls es in diesem Video was gibt, was euch zu kompliziert erscheint bzw. wozu ihr euch eine detailliertere Erklärung wünscht, dann schreibt mir das doch bitte in die Kommentare und dann kann ich versuchen, zu diesem Thema, zu diesem Aspekt auch noch ein Video zu machen. Sie sollte die ersten Nächte noch bei uns schlafen. Sie sollte die ersten Nächte noch bei uns schlafen, // zumindest bis die Albträume aufhören. Ich glaube, den Mythos, dass akzentuierte, also betonte … Anfang der Silbe \"-träu-\". Und in solchen Fällen wird nur der zweite Plosiv hörbar gelöst, also . Die Lippen kommen schon zusammen für dieses , aber der Verschluss der Lippen wird eben nicht hörbar gelöst. Hörbar gelöst wird erst . Und dieser Konsonant ist stimmlos und beeinflusst den Konsonanten danach – das R. Das wird auch stimmlos, also nicht oder sowas, sondern , – stimmlos. Alpträume. Das Wort \"zumindest\" sagt sie mit in der ersten Silbe, also nicht , sondern . In der letzten Silbe dieses Wortes höre ich einen Vokal, der weiter vorne ist, als das e-Schwa, das wir dort vielleicht … den nächsten auch stimmlos macht. \"zumindest bis die Albträume aufhören\". Man beachte auch mal, wie sie das Wort \"aufhören\" ausspricht. Der Konsonant hat ja dieses starke Reibegeräusch und das führt dazu, dass dieses H hier fast gar nicht mehr da ist: . Und natürlich fällt auf, dass sie nur zwei Silben spricht. Statt sagt sie ja . Sie tilgt also wieder das e-Schwa in der Endung, was jetzt zur Folge hat, dass der Buchstabe R innerhalb einer Silbe direkt nach dem Vokal steht und in solchen Fällen wird R vokalisch als a-Schwa gesprochen. Es entsteht also ein Diphthong, der aus dem und dem … Gehen wir an den Anfang dieser Gruppe. Bei \"ich glaube\" höre ich eine progressive Assimilation, nämlich, wo der Ich-Laut, der ja ein stimmloser Konsonant ist, den folgenden Konsonanten auch stimmlos macht. Sie sagt ja nicht , sondern . Der Vokal in dem Wort \"sie\" wurde hier wieder kürzer gesprochen, weil das Wort ja auch hier wieder nicht akzentuiert ist. Es ist aber eben trotzdem immer noch ein gespannter Vokal, also , und nicht etwa ein ungespannter Vokal, also es wird nicht draus. Dann natürlich keine Pausen zwischen den Wörtern. Eine Besonderheit haben wir hier zwischen den … , sodass also dieses durch die Nase gedrückt wird. Wie ich vorhin schon gesagt sagt habe: Wenn euch diese Assimilation schwer fällt, dann könnt ihr versuchen, nur die Assimilation zu üben, indem ihr sagt , , , . Ich glaube, sie braucht noch etwas Zeit. Ich muss noch Junos Bett beziehen. Ich weiß nicht, David. Sie sollte die ersten Nächte noch bei uns schlafen, zumindest die Albträume aufhören. Ich glaube, sie braucht noch etwas Zeit. Welche Information war heute neu für euch? Was wollt ihr unbedingt aus diesem Video mitnehmen? Schreibt mir das doch mal in die Kommentare! Danke fürs Zuschauen.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.823
+  "src": "cc"
  },
  "5Boqikl_u9E": {
   "channel": "Sloeful German",
@@ -6780,7 +6964,7 @@
  "duQT6mN1sMU": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-03T15:55:20+00:00",
+  "checked": "2026-11-10T15:22:02+00:00",
   "title": "12 Min. Conversation in Beginner German / Learn German Naturally",
   "duration": 737,
   "published": "20260926",
@@ -6788,9 +6972,138 @@
   "spoken_v": 2,
   "pace": 76.6,
   "rare": 0.126,
+  "var": 0.7151,
   "speech_s": 689.9,
   "tokens": 881,
   "kw": [
+   [
+    "oft",
+    "Träumst du oft von Supermärkten? Nein, nicht so oft.",
+    324,
+    333,
+    5.48,
+    8
+   ],
+   [
+    "mag",
+    "Ich mag Wassermelone auch. Hm.",
+    96,
+    104,
+    5.32,
+    7
+   ],
+   [
+    "bisschen",
+    "Ja, 13 Euro ist vielleicht ein bisschen",
+    314,
+    319,
+    5.23,
+    5
+   ],
+   [
+    "hast",
+    "Wie hast du heute geschlafen? Ich habe heute ausnahmsweise",
+    133,
+    143,
+    5.75,
+    4
+   ],
+   [
+    "traum",
+    "Ein Albtraum ist ein schlechter Traum.",
+    152,
+    162,
+    4.72,
+    6
+   ],
+   [
+    "träume",
+    "Ich träume sehr oft von dir.",
+    338,
+    346,
+    4.36,
+    5
+   ],
+   [
+    "high",
+    "Kisa, high five. High five. Au.",
+    500,
+    507,
+    4.56,
+    4
+   ],
+   [
+    "allgemein",
+    "Oder Wasser allgemein? Wasser allgemein, Schwimmbad,",
+    364,
+    372,
+    4.75,
+    2
+   ],
+   [
+    "five",
+    "Kisa, high five. High five. Au.",
+    500,
+    507,
+    3.72,
+    4
+   ],
+   [
+    "ähm",
+    "Ähm. Keine Ahnung. Ähm, vielleicht",
+    53,
+    61,
+    4.12,
+    3
+   ],
+   [
+    "nüsse",
+    "Wir wollten Nüsse kaufen. Nüsse?",
+    245,
+    251,
+    3.71,
+    3
+   ],
+   [
+    "supermarkt",
+    "zusammen in einem Supermarkt waren. Wirklich?",
+    235,
+    242,
+    4.17,
+    2
+   ],
+   [
+    "mhm",
+    "Mhm. Und wenn man schläft,",
+    164,
+    171,
+    3.53,
+    6
+   ],
+   [
+    "ananas",
+    "Ein Ananas. Ananas? Stimmt, wir haben letztens",
+    607,
+    613,
+    3.49,
+    6
+   ],
+   [
+    "mango",
+    "Mango? Die Mango?",
+    59,
+    65,
+    3.35,
+    6
+   ],
+   [
+    "albträume",
+    "Manchmal habe ich Albträume, aber",
+    142,
+    150,
+    3.17,
+    5
+   ],
    [
     "wassermelone",
     "Ist die Wassermelone. ",
@@ -6816,114 +7129,18 @@
     4
    ],
    [
-    "mango",
-    "Mango? Die Mango?",
-    59,
-    65,
-    3.35,
-    6
-   ],
-   [
-    "albträume",
-    "Manchmal habe ich Albträume, aber",
-    142,
-    150,
-    3.17,
-    5
-   ],
-   [
-    "ananas",
-    "Ein Ananas. Ananas? Stimmt, wir haben letztens",
-    607,
-    613,
-    3.49,
-    6
-   ],
-   [
-    "mhm",
-    "Mhm. Und wenn man schläft,",
-    164,
-    171,
-    3.53,
-    6
-   ],
-   [
     "paulina",
     "Paulina. Paulina, ach.",
     519,
     526,
     2.92,
     3
-   ],
-   [
-    "oft",
-    "Träumst du oft von Supermärkten? Nein, nicht so oft.",
-    324,
-    333,
-    5.48,
-    8
-   ],
-   [
-    "mag",
-    "Ich mag Wassermelone auch. Hm.",
-    96,
-    104,
-    5.32,
-    7
-   ],
-   [
-    "traum",
-    "Ein Albtraum ist ein schlechter Traum.",
-    152,
-    162,
-    4.72,
-    6
-   ],
-   [
-    "träume",
-    "Ich träume sehr oft von dir.",
-    338,
-    346,
-    4.36,
-    5
-   ],
-   [
-    "bisschen",
-    "Ja, 13 Euro ist vielleicht ein bisschen",
-    314,
-    319,
-    5.23,
-    5
-   ],
-   [
-    "wasser",
-    "Es ist wie süßes Wasser essen.",
-    107,
-    113,
-    5.32,
-    4
-   ],
-   [
-    "vielleicht",
-    "Keine Ahnung. Ähm, vielleicht Mango?",
-    55,
-    62,
-    5.72,
-    4
-   ],
-   [
-    "videos",
-    "exklusive Videos aus meinem und unserem",
-    194,
-    203,
-    4.84,
-    4
    ]
   ],
-  "tx": "Ah. Hallo Palina. Hi. Schön, dass du da bist. Ich bin immer da. Meistens hinter der Kamera. Hallo und herzlich willkommen zu einer neuen Folge von Children. Mein Name ist Jam. Mein Name ist Palina. Und wir sprechen langsam. Und ihr lernt schnell. Sehr gut. Palina. Hm. Was ist deine Lieblingsfrucht? Ach, ich weiß, das ist eine sehr schwierige Frage. Ähm. Keine Ahnung. Ähm, vielleicht Mango? Die Mango? Die Mango. Mango ist feminin, das ist die Mango. Warum magst du Mango? Weil weil sie gut schmeckt. Hm, das ist ein sehr guter Grund. Hm. Was ist deine Lieblingsfrucht, Jam? Meine Lieblingsfrucht? Ist die Wassermelone. Hm. Ich mag Wassermelone auch. Hm. Ich mag Wassermelone, weil sie so erfrischend ist. Es ist wie süßes Wasser essen. Und ich mag auch, dass Wassermelonen so groß sind. Sie haben viel Fruchtfleisch. Das ist nur ein Viertel von einer Wassermelone. Wie hast du heute geschlafen? Ich habe heute ausnahmsweise sehr gut geschlafen. Manchmal habe ich Albträume, aber nur manchmal. Was ist Albträume? Ein Albtraum ist ein schlechter Traum. Man hat Angst oder es ist gruselig oder es ist stressig. Mhm. Und wenn man schläft, möchte man nicht gestresst sein. Ja. Ich habe auch manchmal Albträume. Palina und ich, wir sind beide riesige Fans von unseren Patreon Subscribern. Deswegen bekommen unsere Patreon Subscriber ihren Namen in unserem Video, exklusive Videos aus meinem und unserem Leben in normaler deutscher Sprache, Transkripte für alle Videos und alle unsere Videos nochmal ohne Untertitel. Vielen Dank an euch. Hattest du heute Nacht einen Albtraum? Mhm, heute nicht. Nein. Was hast du heute geträumt heute Nacht? Nichts Besonderes, nichts zu Großes. Ich habe geträumt, dass wir zusammen in einem Supermarkt waren. Wirklich? Ja. Was haben wir in dem Supermarkt gemacht? Wir wol",
+  "tx": "Ah. Hallo Palina. Hi. Schön, dass du da bist. Ich bin immer da. Meistens hinter der Kamera. Hallo und herzlich willkommen zu einer neuen Folge von Children. Mein Name ist Jam. Mein Name ist Palina. Und wir sprechen langsam. Und ihr lernt schnell. Sehr gut. Palina. Hm. Was ist deine Lieblingsfrucht? Ach, ich weiß, das ist eine sehr schwierige Frage. Ähm. Keine Ahnung. Ähm, vielleicht Mango? Die Mango? Die Mango. Mango ist feminin, das ist die Mango. Warum magst du Mango? Weil weil sie gut schmeckt. Hm, das ist ein sehr guter Grund. Hm. Was ist deine Lieblingsfrucht, Jam? Meine Lieblingsfrucht? Ist die Wassermelone. Hm. Ich mag Wassermelone auch. Hm. Ich mag Wassermelone, weil sie so erfrischend ist. Es ist wie süßes Wasser essen. Und ich mag auch, dass Wassermelonen so groß sind. Sie haben viel Fruchtfleisch. Das ist nur ein Viertel von einer Wassermelone. Wie hast du heute geschlafen? Ich habe heute ausnahmsweise sehr gut geschlafen. Manchmal habe ich Albträume, aber nur manchmal. Was ist Albträume? Ein Albtraum ist ein schlechter Traum. Man hat Angst oder es ist gruselig oder es ist stressig. Mhm. Und wenn man schläft, möchte man nicht gestresst sein. Ja. Ich habe auch manchmal Albträume. Palina und ich, wir sind beide riesige Fans von unseren Patreon Subscribern. Deswegen bekommen unsere Patreon Subscriber ihren Namen in unserem Video, exklusive Videos aus meinem und unserem Leben in normaler deutscher Sprache, Transkripte für alle Videos und alle unsere Videos nochmal ohne Untertitel. Vielen Dank an euch. Hattest du heute Nacht einen Albtraum? Mhm, heute nicht. Nein. Was hast du heute geträumt heute Nacht? Nichts Besonderes, nichts zu Großes. Ich habe geträumt, dass wir zusammen in einem Supermarkt waren. Wirklich? Ja. Was haben wir in dem Supermarkt gemacht? Wir wollten Nüsse kaufen. Nüsse? Ja. Okay. Was für Nüsse? Äh. Haselnüsse. Haselnüsse? Ja. Warum wollten wir Haselnüsse kaufen? Keine Ahnung. Ich bin eigentlich kein Fan von Haselnüssen. Ich auch nicht. Meine Lieblingsnüsse sind Cashews und Pistazien. Und deine? Ich habe keine Lieblingsnüsse. Nicht Macadamias? Ich mag Macadamias. Aber ich mag nur gesalzene Macadamias. Hm. Nicht ungesalzen. Und was ist dann in deinem Traum passiert? Du wolltest teure Haselnüsse kaufen. Und ich wollte günstige Haselnüsse kaufen. Und die teuren Haselnüsse waren 13 Euro. Ui. Ja, 13 Euro ist vielleicht ein bisschen viel für Haselnüsse. Ja. Und das war mein Traum. Ein sehr spannender Traum. Ja. Träumst du oft von Supermärkten? Nein, nicht so oft. Wovon träumst du häufiger? Ähm. Ich träume sehr oft von dir. Oh. Es ist nicht immer Oh. Ich träume oft von meiner Familie, von Leuten, die ich kenne. Ich träume oft von dem Wasser. Mhm, mhm. Also dem Meer. Meer, Schwimmbad. Oder Wasser allgemein? Wasser allgemein, Schwimmbad, mhm, Flüsse. Ja. Gesundheit. Wovon träumst du normalerweise? Ich kann mich leider oft nicht an meine Träume erinnern. Aber Also du vergisst deine Träume. Genau. Wenn ich aufwache, habe ich den Traum schon vergessen. Die Erinnerung ist weg. Aber wenn ich mich an meinen Traum erinnere, dann war es oft sehr stressig. Ich habe selten gruselige Albträume, aber ich habe oft stressige Albträume. Ich kann mich immer daran erinnern, wenn ich gestresst war. Unser Hund möchte vom Balkon herunter. Ich nutze die Gelegenheit, um mehr Wassermelone zu essen. Ich glaube, Kiesel möchte auch ein bisschen Wassermelone. Das kann ich gut verstehen. Kann das sein? Ich habe das Gefühl, ja. Oh. Ich glaube, ich glaube, vielleicht, möglicherweise, eventuell, könnte Kisa ein bisschen Wassermelone wollen. Aber darf Kisa ein bisschen Wassermelone haben? Kisa darf Wassermelone haben. Kisa bekommt Wassermelone. Kisa, high five. High five. Au. High five. High five. Ui. Dankeschön. Okay. Paulina. Paulina, ach. Kisa isst gerne privat. Wir dürfen ihr nicht zuschauen. Und schon ist sie zurück. Darf Kisa noch ein Stück Wassermelone haben? Ein kleines Stück. Ein kleines Stück. Aber ich gebe ihr dieses Stück. Bunny. Wo das ist. Bunny. Ja. Bunny. Kransch, kransch, kransch. Können wir sprechen, während Kisa kaut? Ja. Kisa ist sehr, sehr süß. Deswegen bekommt sie immer alles, was sie möchte. Sie hat mich gekratzt. Kisa, warum hast du sie gekratzt? Was denkst du ist Kisas Lieblingsfrucht? Vielleicht auch Wassermelone. Glaube ich auch. Kisa mag keine Äpfel. Viele Früchte sind für Kisa zu sauer. Kisa mag keine sauren Früchte. Ja. Also keine Äpfel, keine Kiwis. Ein Ananas. Ananas? Stimmt, wir haben letztens Ananas versucht. Ananas? Die Ananas. Keine Ananas. Und was machst du heute noch? Heute filmen wir noch ein paar Videos. Mhm. Stimmt. Wir machen später ein B2 Gesprächsvideo. Ja. Da sprechen wir komplizierter. Nicht so einfach. Wir können heute Abend keinen Film gucken. Oh ja. Unser Internet funktioniert leider nicht. Ja, schon seit zwei Tagen. Ja, vorgestern hat es angefangen. Ja. Also müssen wir lesen? Wir müssen lesen? Wir wir lesen gerne, Paulina. Aber ja, es ist ein bisschen schwierig, plötzlich ohne Internet zu funktionieren. Zum Glück haben wir mobiles Internet, also auf dem Handy. Kisa, möchtest du noch etwas sagen? Na gut. Du hast recht. Wir müssen dieses Video beenden. Vielen, vielen Dank, dass ihr zugeschaut habt. Ich hoffe, ihr habt ein paar neue Wörter gehört. Und wir sehen uns im nächsten Video. Schreibt unten, welche neue Wörter ihr gelernt habt. Und wenn ihr Fragen habt, dann schreibt die Fragen auch unten in die Kommentare. Wir sehen uns im nächsten Video. Bis dahin. Tschau. Haut.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7359
+  "src": "auto"
  },
  "ZQ3PTjcMDpo": {
   "channel": "Kathrin Shechtman (Story Listening)",
@@ -7410,7 +7627,7 @@
  "_cQ9xSpsyvI": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-03T15:58:57+00:00",
+  "checked": "2026-11-10T15:34:31+00:00",
   "title": "Miffy spielt Versteck | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260927",
@@ -7418,73 +7635,10 @@
   "spoken_v": 2,
   "pace": 111.6,
   "rare": 0.1029,
+  "var": 0.803,
   "speech_s": 872.8,
   "tokens": 1623,
   "kw": [
-   [
-    "schnuffi",
-    "Guck mal, Miffi, da ist Schnuffi.",
-    26,
-    32,
-    2.06,
-    17
-   ],
-   [
-    "schneeball",
-    "Schneeball zu machen, lief sie schnell,",
-    807,
-    813,
-    2.77,
-    12
-   ],
-   [
-    "poppy",
-    "Poppy Pigs nichte. \"Miffi, Miifi!\" rief",
-    7,
-    15,
-    2.73,
-    7
-   ],
-   [
-    "melanie",
-    "Melanie malte viele hübsche Muscheln und Agie einen Fisch.",
-    295,
-    308,
-    3.85,
-    12
-   ],
-   [
-    "boris",
-    "Lass uns Boris und Barbara fragen, ob",
-    34,
-    39,
-    4.02,
-    12
-   ],
-   [
-    "eiern",
-    "aus blauen Eiern? Das glaube ich nicht. Karotten kommen",
-    574,
-    583,
-    3.8,
-    8
-   ],
-   [
-    "versteck",
-    "sie. \"Hast du Lust, Versteck zu",
-    11,
-    18,
-    3.6,
-    5
-   ],
-   [
-    "karotten",
-    "Poppy. Bekommt man nicht blaue Karotten",
-    571,
-    578,
-    3.42,
-    4
-   ],
    [
     "sagte",
     "Gruny\", sagte Miffi. \"Aber wir sind nur",
@@ -7492,6 +7646,30 @@
     23,
     5.48,
     34
+   ],
+   [
+    "bilder",
+    "und die Bilder dann an die leere Wand",
+    272,
+    277,
+    5.12,
+    9
+   ],
+   [
+    "konnte",
+    "Sie suchte weiter, aber sie konnte",
+    190,
+    196,
+    5.64,
+    8
+   ],
+   [
+    "oben",
+    "Sie sahen nach oben. Und da war Barbara ganz hoch oben auf",
+    227,
+    236,
+    5.27,
+    8
    ],
    [
     "barbara",
@@ -7518,42 +7696,114 @@
     9
    ],
    [
-    "bilder",
-    "und die Bilder dann an die leere Wand",
-    272,
-    277,
-    5.12,
-    9
-   ],
-   [
-    "oben",
-    "Sie sahen nach oben. Und da war Barbara ganz hoch oben auf",
-    227,
-    236,
-    5.27,
-    8
-   ],
-   [
-    "konnte",
-    "Sie suchte weiter, aber sie konnte",
-    190,
-    196,
-    5.64,
-    8
-   ],
-   [
     "baum",
     "lief zu einem Baum und fing an zu",
     118,
     125,
     4.62,
     7
+   ],
+   [
+    "boris",
+    "Lass uns Boris und Barbara fragen, ob",
+    34,
+    39,
+    4.02,
+    12
+   ],
+   [
+    "melanie",
+    "Melanie malte viele hübsche Muscheln und Agie einen Fisch.",
+    295,
+    308,
+    3.85,
+    12
+   ],
+   [
+    "eiern",
+    "aus blauen Eiern? Das glaube ich nicht. Karotten kommen",
+    574,
+    583,
+    3.8,
+    8
+   ],
+   [
+    "malen",
+    "schmücken würden? Wir können etwas malen",
+    269,
+    275,
+    4.11,
+    7
+   ],
+   [
+    "karotten",
+    "Poppy. Bekommt man nicht blaue Karotten",
+    571,
+    578,
+    3.42,
+    4
+   ],
+   [
+    "blaues",
+    "ein Ei. Ein blaues Ei. Wie schön, sagte Miffi. Sie dachte nicht",
+    545,
+    559,
+    3.56,
+    3
+   ],
+   [
+    "bretter",
+    "Boris. Ich wollte diese Bretter in meine",
+    885,
+    893,
+    3.41,
+    3
+   ],
+   [
+    "winnie",
+    "Winnie malte ein Boot mit vielen Fahnen.",
+    302,
+    308,
+    3.08,
+    3
+   ],
+   [
+    "schnuffi",
+    "Guck mal, Miffi, da ist Schnuffi.",
+    26,
+    32,
+    2.06,
+    17
+   ],
+   [
+    "schneeball",
+    "Schneeball zu machen, lief sie schnell,",
+    807,
+    813,
+    2.77,
+    12
+   ],
+   [
+    "poppy",
+    "Poppy Pigs nichte. \"Miffi, Miifi!\" rief",
+    7,
+    15,
+    2.73,
+    7
+   ],
+   [
+    "schoben",
+    "Zusammen schoben sie den Schneeball vor",
+    812,
+    819,
+    2.93,
+    2
    ]
   ],
-  "tx": "Miffi spielte im Garten mit ihrem Ball. Da kam Grunty angelaufen. Gruny war Poppy Pigs nichte. \"Miffi, Miifi!\" rief sie. \"Hast du Lust, Versteck zu spielen?\" \"Das ist ein tolles Spiel, Gruny\", sagte Miffi. \"Aber wir sind nur zu zweit. Wir brauchen mehr als zwei Personen, um versteckt zu spielen. Guck mal, Miffi, da ist Schnuffi. Lass uns Boris und Barbara fragen, ob sie mitspielen wollen. Dann sind wir zu viert und Schnuffi kann uns beim Versteckspielen zugucken. Sie gingen zusammen in den Wald und bald kamen sie zum Haus von Boris und Barbara Bär. Hallo Boris, hallo Barbara\", sagte Granty. \"Habt ihr Lust mit uns Versteck zu spielen, wenn ihr mit eurer Arbeit fertig seid?\" \"Oh ja, gerne.\" Freute sich Boris. \"Wir haben genug Holz gesägt und jetzt können wir mit euch Versteck spielen. Lasst uns anfangen. Wer will suchen?\" \"Nein, Schnuffi\", sagte Miffi. \"Das ist ungerecht. Mit deiner Spürnase findest du uns zu schnell, aber es macht dir sicher auch Spaß, uns zuzugucken. Ich suche als erste und ihr könnt euch alle verstecken. Miffi drehte sich um und fing langsam an bis Zeh zu zählen. 1 2 3 4 5 6 7 8 9 10 Miffi machte die Augen wieder auf und rief: \"Ich komme.\" Dann fing sie an zu suchen. Schnuffi lief zu einem Baum und fing an zu bellen. Boris kam hinter dem Baum hervor. \"So geht das nicht, Schnuffi\", sagte er. \"Mi sollte uns finden, nicht du.\" Dann kamen auch Gruny und Barbara aus ihrem Versteck. \"Jetzt müssen wir wieder von vorne anfangen\", sagten sie. Ja, sagte Miffi. Und du sollst nicht suchen, Schnuffi, und du sollst nicht bellen. Du musst ganz ruhig sein. Ich muss die Verstecke finden. Miffi drehte sich wieder um und machte die Augen zu. Boris, Barbara und Gruny liefen los, um sich wieder zu verstecken. Diesmal saß Schnuffi ganz still. Ich komme, rief Miffi. Sie guck",
+  "tx": "Miffi spielte im Garten mit ihrem Ball. Da kam Grunty angelaufen. Gruny war Poppy Pigs nichte. \"Miffi, Miifi!\" rief sie. \"Hast du Lust, Versteck zu spielen?\" \"Das ist ein tolles Spiel, Gruny\", sagte Miffi. \"Aber wir sind nur zu zweit. Wir brauchen mehr als zwei Personen, um versteckt zu spielen. Guck mal, Miffi, da ist Schnuffi. Lass uns Boris und Barbara fragen, ob sie mitspielen wollen. Dann sind wir zu viert und Schnuffi kann uns beim Versteckspielen zugucken. Sie gingen zusammen in den Wald und bald kamen sie zum Haus von Boris und Barbara Bär. Hallo Boris, hallo Barbara\", sagte Granty. … und ihr könnt euch alle verstecken. Miffi drehte sich um und fing langsam an bis Zeh zu zählen. 1 2 3 4 5 6 7 8 9 10 Miffi machte die Augen wieder auf und rief: \"Ich komme.\" Dann fing sie an zu suchen. Schnuffi lief zu einem Baum und fing an zu bellen. Boris kam hinter dem Baum hervor. \"So geht das nicht, Schnuffi\", sagte er. \"Mi sollte uns finden, nicht du.\" Dann kamen auch Gruny und Barbara aus ihrem Versteck. \"Jetzt müssen wir wieder von vorne anfangen\", sagten sie. Ja, sagte Miffi. Und du sollst nicht suchen, Schnuffi, und du sollst nicht bellen. Du musst ganz ruhig sein. Ich muss die … \"Hoffentlich hat Barbara sich nicht verlaufen.\" \"Jetzt kannst du uns helfen, Schnuffi. Such Barbara!\" Schnuffi lief sofort zu einem Baum und fing an laut zu bellen, aber da war Barbara auch nicht. Schnuffi hörte nicht aufzubällen. Sie sahen nach oben. Und da war Barbara ganz hoch oben auf einem Ast. Was für ein tolles Versteck, sagte Miffi. Ohne Schnuffi hätte ich dich nie gefunden. In Miffis Klassenzimmer war eine leere weiße Wand. Miffi meldete sich und fragte die Lehrerin: \"Wäre es nicht schön, wenn wir die Wand mit ein paar hübschen Bildern schmücken würden? Wir können etwas malen … Egg bemalte ihren Fisch mit blauen und gelben Streifen. Wenny nahm blaue Farbe für ihr Boot. Sie malte die Fahnen rot, gelb und blau an. \"Ich weiß nicht, was ich als nächstes malen soll\", sagte Melanie, als ihr Bild fertig war. Ich auch nicht\", sagte Winnie. \"Aber wir brauchen noch viel mehr Bilder für die große Wand\", sagte Miffi. \"Kommt, Kinder\", sagte die Lehrerin. \"Es ist so ein schöner Tag. Neimmt eure Mahlsachen und lasst uns rausgehen. Seht euch nur um. Es gibt so viel, dass man malen kann.\" Die Kinder schauten auf dem Spielplatz umher. Miffi fand noch ein paar bunte Blumen, die … sie alle an der Wand Platz haben\", sagte sie. Aber es waren einfach zu viele. Einige Kinder waren enttäuscht, weil für ihre Bilder an der Wand kein Platz mehr war. Melanie meldete sich. \"Ich habe eine Idee\", sagte sie. \"Wir können doch jeden Tag andere Bilder aufhängen. So kommen sie ganz bestimmt alle einmal an die Wand.\" Das ist wirklich eine gute Idee, Melanie\", sagte die Lehrerin. \"Das werden wir tun, dann können wir sogar noch mehr Bilder malen.\" Alle Kinder freuten sich. Miffi sagte, jetzt macht es sogar noch mehr Spaß, zur Schule zu kommen. Und das tat es auch, denn jeden Tag hingen … Ball. Staunend betrachtete sie das kleine blaue Ei. \"Was mag da drin sein, Melanie?\", sagte Miffi. In dem Moment kam Poppy Pig vorbei. \"Oh, das ist ja ein blaues Ei,\" sagte Poppy. Bekommt man nicht blaue Karotten aus blauen Eiern? Das glaube ich nicht. Karotten kommen nicht aus Eiern.\" \"Meine Großmutter hat mir erzählt, in blauen Eiern stecken blaue Socken,\" sagte Melanie. Das ist nicht wahr\", sagte Miffi. Socken kauft man im Laden. Die Vögel legen Eier. In einem von diesen Bäumen muss ein Vogelnest sein. Melanie sah nach oben und sah ein Vogelnest, in dem dicker roter Vogel saß. Miffi … Die rote Vogelmutter setzte sich auf das Ei und zwitscherte ein fröhliches Lied. Poppy hatte den Ball gefunden. Jetzt konnten sie zu dritt weiterspielen. Sie lachten viel und hatten großen Spaß. Plötzlich hörten sie etwas, das klang wie das Zwitschern eines Vogelbabys. Und dann sahen sie ihn, den kleinen roten Vogel in seinem Nest. Und Miffi dachte, es sieht also doch nicht alles von innen genauso aus wie von außen. Ich wusste natürlich, dass Karotten nicht aus Eiern kommen, Miffi sagte Poppy Pig. Und blaue Karotten gibt es gar nicht. Ich habe nur Spaß gemacht. Ich auch, sagte Melanie. … zu machen. Doch am schönsten war es einen Schneehasen zu bauen. Aber das war schwer und alleine konnte Miffi das nicht. Und da kam auch schon jemand, der ihr helfen konnte. Es war Schnuffi, ihre kleine Hundefreundin. Schnuffi freute sich, wenn sie im Schnee herum tollen konnte, aber als sie sah, wie Miffi versuchte, einen großen Schneeball zu machen, lief sie schnell, um ihr zu helfen. Zusammen schoben sie den Schneeball vor sich her und je länger sie ihn schoben, umso mehr Schnee blieb an ihm hängen. Er wurde immer dicker. Jetzt ist er groß genug für den Schneehasen Körper, sagte Miffi. … versuchten, der Schneeball war einfach zu schwer für sie. Da kam Miffis Freund Boris Bär vorbei. \"Hallo Miffi,\" sagte Boris. \"Was macht ihr denn da?\" \"Wir wollen einen großen Schneehasen bauen,\" sagte Miffi. \"Aber der Kopf ist zu schwer. Wir können ihn nicht heben.\" \"Ich habe eine Idee, Miifi\", sagte Boris. Ich wollte diese Bretter in meine Werkstatt bringen, aber wir können damit eine Rampe bis oben an den großen Schneeball bauen. Boris lehnte die Bretter gegen den Schneehasenkörper. Die Bretter reichten genau bis oben an den Schneeball heran. Jetzt konnten sie den kleineren Schneeball auf … Schnee um den einen Zweig und packte Schnee um den anderen Zweig. Jetzt hatte der Schneehase zwei richtige Ohren. Schnuffi lief durch den Schnee davon und kam mit zwei kleinen Gummibällen zurück, mit denen sie oft spielte. Miffi hatte verstanden. Sie drückte die Bälle in das Gesicht von dem Schneehasen. \"Jetzt hat er Augen\", sagte sie. \"Jetzt kann er sehen, wie schön er geworden ist. Er sollte sich bei euch bedanken, Schnuffi und Boris, das habt ihr wirklich gut gemacht. Zum Schluss steckte Miffi ihm noch eine Karotte ins Gesicht und nun hatte ihr Schneehase auch eine prächtige rote Nase.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8192
+  "src": "auto"
  },
  "QSl-n50nrKM": {
   "channel": "Easy German",
@@ -7854,7 +8104,7 @@
  "-deNrdtgn3s": {
   "channel": "Sloeful German",
   "lang": "de",
-  "checked": "2026-11-04T03:43:22+00:00",
+  "checked": "2026-11-10T15:13:30+00:00",
   "title": "What surprised you about Berlin? | Simple German Conversation #1 (B1)",
   "duration": 220,
   "published": "20240124",
@@ -7862,73 +8112,10 @@
   "spoken_v": 2,
   "pace": 132.4,
   "rare": 0.0331,
+  "var": 0.8195,
   "speech_s": 219.4,
   "tokens": 484,
   "kw": [
-   [
-    "nikki",
-    "überlegt dass Nikki und ich einfach ein bisschen sprechen und eine Konversation haben wir werden",
-    6,
-    15,
-    3.19,
-    3
-   ],
-   [
-    "subtil",
-    "werden ja das war am Anfang besonders schwierig manchmal waren die Witze so subtil dass ich erst",
-    99,
-    108,
-    3.28,
-    2
-   ],
-   [
-    "stromberg",
-    "wollen es ging immer viel um so Stereotypen es gibt aber auch gute Sachen Stromberg z.B",
-    171,
-    179,
-    3.29,
-    2
-   ],
-   [
-    "witze",
-    "Menschen hier Witze machen wo ich aufgewachsen bin war es immer sehr eindeutig wenn jemand einen Witz",
-    60,
-    69,
-    4.24,
-    6
-   ],
-   [
-    "podcast",
-    "Hallo und herzlich Willkommen zu \"Sloeful Dialoges\" in diesem Podcast haben wir uns",
-    0,
-    7,
-    4.07,
-    4
-   ],
-   [
-    "trocken",
-    "trocken ist was ich aber wirklich liebe ich habe irgendwann bemerkt dass viele von meinen Freunden",
-    75,
-    84,
-    4.3,
-    5
-   ],
-   [
-    "shows",
-    "im Fernsehen gezeigt wird und an die Komiker und die Comedy Shows die wir hier haben und ich hatte",
-    134,
-    142,
-    3.93,
-    2
-   ],
-   [
-    "humor",
-    "gemacht hat oder etwas Lustiges erzählt hat daher war ich überrascht dass der Humor hier oft sehr",
-    68,
-    76,
-    4.48,
-    6
-   ],
    [
     "oft",
     "gemacht hat oder etwas Lustiges erzählt hat daher war ich überrascht dass der Humor hier oft sehr",
@@ -7936,30 +8123,6 @@
     76,
     5.48,
     4
-   ],
-   [
-    "überrascht",
-    "erste Frage die wir uns gegenseitig stellen möchten ist was uns überrascht hat als wir",
-    38,
-    45,
-    4.64,
-    3
-   ],
-   [
-    "z.b",
-    "England z.B ist der Humor auch oft sehr trocken aber dieses Niveau in Deutschland war schon",
-    113,
-    120,
-    5.03,
-    3
-   ],
-   [
-    "witz",
-    "Menschen hier Witze machen wo ich aufgewachsen bin war es immer sehr eindeutig wenn jemand einen Witz",
-    60,
-    69,
-    4.6,
-    3
    ],
    [
     "gemacht",
@@ -7984,17 +8147,89 @@
     61,
     5.51,
     3
+   ],
+   [
+    "humor",
+    "gemacht hat oder etwas Lustiges erzählt hat daher war ich überrascht dass der Humor hier oft sehr",
+    68,
+    76,
+    4.48,
+    6
+   ],
+   [
+    "witze",
+    "Menschen hier Witze machen wo ich aufgewachsen bin war es immer sehr eindeutig wenn jemand einen Witz",
+    60,
+    69,
+    4.24,
+    6
+   ],
+   [
+    "trocken",
+    "trocken ist was ich aber wirklich liebe ich habe irgendwann bemerkt dass viele von meinen Freunden",
+    75,
+    84,
+    4.3,
+    5
+   ],
+   [
+    "überrascht",
+    "erste Frage die wir uns gegenseitig stellen möchten ist was uns überrascht hat als wir",
+    38,
+    45,
+    4.64,
+    3
+   ],
+   [
+    "podcast",
+    "Hallo und herzlich Willkommen zu \"Sloeful Dialoges\" in diesem Podcast haben wir uns",
+    0,
+    7,
+    4.07,
+    4
+   ],
+   [
+    "shows",
+    "im Fernsehen gezeigt wird und an die Komiker und die Comedy Shows die wir hier haben und ich hatte",
+    134,
+    142,
+    3.93,
+    2
+   ],
+   [
+    "nikki",
+    "überlegt dass Nikki und ich einfach ein bisschen sprechen und eine Konversation haben wir werden",
+    6,
+    15,
+    3.19,
+    3
+   ],
+   [
+    "stromberg",
+    "wollen es ging immer viel um so Stereotypen es gibt aber auch gute Sachen Stromberg z.B",
+    171,
+    179,
+    3.29,
+    2
+   ],
+   [
+    "subtil",
+    "werden ja das war am Anfang besonders schwierig manchmal waren die Witze so subtil dass ich erst",
+    99,
+    108,
+    3.28,
+    2
    ]
   ],
-  "tx": "Hallo und herzlich Willkommen zu \"Sloeful Dialoges\" in diesem Podcast haben wir uns überlegt dass Nikki und ich einfach ein bisschen sprechen und eine Konversation haben wir werden ein bisschen langsamer reden damit Ihr uns gut verstehen könnt und wir hoffen dass ihr Spaß daran habt und falls ihr Vorschläge habt für Themen über die wir sprechen könnten schreibt uns einfach eine E-Mail in dieser und den nächsten Podcast Episoden möchten wir ein paar Fragen beantworten und die erste Frage die wir uns gegenseitig stellen möchten ist was uns überrascht hat als wir nach Berlin gezogen sind also fangen wir einfach mal mit Nikki an Nikki was hat dich überrascht als du nach Berlin gezogen bist das erste woran ich denken muss ist die Art und WE Weise wie die Menschen hier Witze machen wo ich aufgewachsen bin war es immer sehr eindeutig wenn jemand einen Witz gemacht hat oder etwas Lustiges erzählt hat daher war ich überrascht dass der Humor hier oft sehr trocken ist was ich aber wirklich liebe ich habe irgendwann bemerkt dass viele von meinen Freunden Witze machen aber man das in ihren Gesichtern gar nicht lesen konnte fandst du es dann manchmal schwierig zu erkennen ob jemand einen Witz macht oder nicht weil die Witze oft so trocken erzählt werden ja das war am Anfang besonders schwierig manchmal waren die Witze so subtil dass ich erst später bemerkt habe dass das überhaupt ein Witz war aber natürlich ist das einfacher jetzt in England z.B ist der Humor auch oft sehr trocken aber dieses Niveau in Deutschland war schon echt neu für mich ja das kann ich verstehen diese Art von Humor ist auch wirklich weit verbreitet in Deutschland aber es ist interessant denn wenn ich an deutschen Humor denke denke ich oft an das was im Fernsehen gezeigt wird und an die Komiker und die Comedy Sho",
+  "tx": "Hallo und herzlich Willkommen zu \"Sloeful Dialoges\" in diesem Podcast haben wir uns überlegt dass Nikki und ich einfach ein bisschen sprechen und eine Konversation haben wir werden ein bisschen langsamer reden damit Ihr uns gut verstehen könnt und wir hoffen dass ihr Spaß daran habt und falls ihr Vorschläge habt für Themen über die wir sprechen könnten schreibt uns einfach eine E-Mail in dieser und den nächsten Podcast Episoden möchten wir ein paar Fragen beantworten und die erste Frage die wir uns gegenseitig stellen möchten ist was uns überrascht hat als wir nach Berlin gezogen sind also fangen wir einfach mal mit Nikki an Nikki was hat dich überrascht als du nach Berlin gezogen bist das erste woran ich denken muss ist die Art und WE Weise wie die Menschen hier Witze machen wo ich aufgewachsen bin war es immer sehr eindeutig wenn jemand einen Witz gemacht hat oder etwas Lustiges erzählt hat daher war ich überrascht dass der Humor hier oft sehr trocken ist was ich aber wirklich liebe ich habe irgendwann bemerkt dass viele von meinen Freunden Witze machen aber man das in ihren Gesichtern gar nicht lesen konnte fandst du es dann manchmal schwierig zu erkennen ob jemand einen Witz macht oder nicht weil die Witze oft so trocken erzählt werden ja das war am Anfang besonders schwierig manchmal waren die Witze so subtil dass ich erst später bemerkt habe dass das überhaupt ein Witz war aber natürlich ist das einfacher jetzt in England z.B ist der Humor auch oft sehr trocken aber dieses Niveau in Deutschland war schon echt neu für mich ja das kann ich verstehen diese Art von Humor ist auch wirklich weit verbreitet in Deutschland aber es ist interessant denn wenn ich an deutschen Humor denke denke ich oft an das was im Fernsehen gezeigt wird und an die Komiker und die Comedy Shows die wir hier haben und ich hatte immer Probleme deutsche Shows oder Comedians zu finden die ich richtig lustig finde es gibt z.B ein Komik den viele Leute hier witzig finden aber ich habe nie verstanden wieso das für eine Art von Humor ist das ich weiß nicht was für Witze er heute macht aber früher hat er immer nur Witze über Männer und Frauen gemacht und dass Männer alle Fußball lieben und Frauen nur Schuhe kaufen wollen es ging immer viel um so Stereotypen es gibt aber auch gute Sachen Stromberg z.B war eigentlich ganz gut gemacht das ist die deutsche Version von The Office und ich finde da gab es schon interessante Beobachtungen zur deutschen Kultur und dem Büroleben in Deutschland die Serie war aber auch ziemlich trocken oder ja das stimmt der Humor in Stromberg ist sehr trocken und vieles ist sehr subtil das war's für unsere erste Folge den Text für diesen Podcast findet ihr online auf www.sloeful.com unter \"Podcast\". Vielen Dank fürs zuhören und bis bald!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.817
+  "src": "cc"
  },
  "qNzVwfBXyDE": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-04T03:43:39+00:00",
+  "checked": "2026-11-10T15:15:31+00:00",
   "title": "Favourite German cassette tapes from my childhood - slow German│Pre-Beginner German",
   "duration": 523,
   "published": "20230415",
@@ -8002,73 +8237,10 @@
   "spoken_v": 2,
   "pace": 76.1,
   "rare": 0.1229,
+  "var": 0.7357,
   "speech_s": 513.5,
   "tokens": 651,
   "kw": [
-   [
-    "buh",
-    "Hui Buh das Schlossgespenst Hui Buh ist der Name von",
-    134,
-    145,
-    2.94,
-    11
-   ],
-   [
-    "blocksberg",
-    "Nummer eins Bibi Blocksberg das ist Bibi",
-    18,
-    29,
-    2.68,
-    8
-   ],
-   [
-    "hui",
-    "Hui Buh das Schlossgespenst Hui Buh ist der Name von",
-    134,
-    145,
-    3.62,
-    15
-   ],
-   [
-    "bibi",
-    "Nummer eins Bibi Blocksberg das ist Bibi",
-    18,
-    29,
-    3.45,
-    12
-   ],
-   [
-    "klösschen",
-    "",
-    0,
-    0,
-    2.19,
-    4
-   ],
-   [
-    "gabi",
-    "Karl Klößchen und Gabi bkkg steht für die",
-    385,
-    397,
-    3.38,
-    5
-   ],
-   [
-    "julius",
-    "eines Tages ist König Julius der",
-    224,
-    238,
-    4.06,
-    11
-   ],
-   [
-    "buhu",
-    "Burgeck hui Buhu schon seit vielen vielen Jahren auf",
-    149,
-    161,
-    2.13,
-    2
-   ],
    [
     "schloss",
     "Schloss Burgeck hui Buhu",
@@ -8076,14 +8248,6 @@
     158,
     4.84,
     12
-   ],
-   [
-    "burg",
-    "111 nach Schloss Burg Eck gekommen König",
-    231,
-    243,
-    4.38,
-    6
    ],
    [
     "heisst",
@@ -8102,14 +8266,6 @@
     5
    ],
    [
-    "ritter",
-    "war war er ein Ritter und dieser Ritter",
-    173,
-    182,
-    4.38,
-    4
-   ],
-   [
     "karl",
     "Karl Klößchen und Gabi bkkg steht für die",
     385,
@@ -8118,26 +8274,138 @@
     4
    ],
    [
-    "vier",
-    "TKG ist eine Gruppe von vier",
-    372,
-    381,
-    5.44,
+    "burg",
+    "111 nach Schloss Burg Eck gekommen König",
+    231,
+    243,
+    4.38,
+    6
+   ],
+   [
+    "ritter",
+    "war war er ein Ritter und dieser Ritter",
+    173,
+    182,
+    4.38,
+    4
+   ],
+   [
+    "tim",
+    "zwischen 14 und 18 Jahre alt sind Tim",
+    380,
+    390,
+    4.38,
     3
    ],
    [
-    "versucht",
-    "versucht Hui Buh Julius zu erschrecken und Weg zu",
-    294,
-    311,
-    5.1,
+    "barbara",
+    "Mutter barbara Blocksberg und mit ihrem",
+    32,
+    41,
+    4.35,
     3
+   ],
+   [
+    "hui",
+    "Hui Buh das Schlossgespenst Hui Buh ist der Name von",
+    134,
+    145,
+    3.62,
+    15
+   ],
+   [
+    "julius",
+    "eines Tages ist König Julius der",
+    224,
+    238,
+    4.06,
+    11
+   ],
+   [
+    "eck",
+    "111 nach Schloss Burg Eck gekommen König",
+    231,
+    243,
+    3.83,
+    6
+   ],
+   [
+    "tina",
+    "oder die Reihe bibi und Tina ist eine",
+    85,
+    95,
+    3.93,
+    4
+   ],
+   [
+    "bibi",
+    "Nummer eins Bibi Blocksberg das ist Bibi",
+    18,
+    29,
+    3.45,
+    12
+   ],
+   [
+    "gabi",
+    "Karl Klößchen und Gabi bkkg steht für die",
+    385,
+    397,
+    3.38,
+    5
+   ],
+   [
+    "gespenst",
+    "einem Gespenst ein Schlossgespenst Hui Buh lebt auf dem",
+    140,
+    150,
+    3.4,
+    4
+   ],
+   [
+    "spucken",
+    "spucken doch leider ist Hui Buh nicht",
+    211,
+    222,
+    3.39,
+    4
+   ],
+   [
+    "buh",
+    "Hui Buh das Schlossgespenst Hui Buh ist der Name von",
+    134,
+    145,
+    2.94,
+    11
+   ],
+   [
+    "blocksberg",
+    "Nummer eins Bibi Blocksberg das ist Bibi",
+    18,
+    29,
+    2.68,
+    8
+   ],
+   [
+    "klösschen",
+    "",
+    0,
+    0,
+    2.19,
+    4
+   ],
+   [
+    "balduin",
+    "hieß Balduin das ist der Name von dem",
+    177,
+    186,
+    2.76,
+    2
    ]
   ],
-  "tx": "hallo heute zeige ich euch drei Kassetten die ich als Kind gehört habe viel Spaß Nummer eins Bibi Blocksberg das ist Bibi Blocksberg Bibi Blocksberg ist ein 13-jähriges Mädchen sie lebt mit ihrer Mutter barbara Blocksberg und mit ihrem Vater Bernhard Blocksberg in Neustadt in Deutschland Bibi und Barbara Blocksberg sind Hexen sie können beide Hexen barbara Blocksberg die Mutter kann sehr gut Hexen aber Bibi muss noch lernen Baby geht auf eine normale Schule dort hat sie zwei Freundinnen und einen Freund Bibi geht aber auch auf eine Hexenschule mit ihren zwei hexenfreundinnen diese Serie heißt Bibi Blocksberg aber es gibt auch die Serie oder die Reihe bibi und Tina ist eine sehr gute Freundin von Bibi in dieser Reihe ist Bibi bei ihrer Freundin Tina auf einem Bauernhof auf diesem Bauernhof von der Familie von Tina verbringt Bibi immer ihre Ferien auf dem Bauernhof gibt es hauptsächlich Pferde es gibt auch andere Tiere zum Beispiel Hühner aber hauptsächlich Pferde bibi und Tina machen gemeinsam oft Wettrennen mit den Pferden Nummer 2 Hui Buh das Schlossgespenst Hui Buh ist der Name von einem Gespenst ein Schlossgespenst Hui Buh lebt auf dem Schloss Burgeck hui Buhu schon seit vielen vielen Jahren auf Schloss Burgeck Hui Buh ist tot richtig er ist ein Gespenst aber als Hui Buh noch gelebt hat als er noch eine Person war war er ein Ritter und dieser Ritter hieß Balduin das ist der Name von dem Ritter aber dann ist der Ritter Balduin gestorben und weil du ihn wurde zu hui buhibu wohnt in einem Turm auf Schloss Burgeck in diesem Tor schläft Hui Buh tagsüber und nachts um Mitternacht um 0 Uhr fängt Hui Buh an zu spucken doch leider ist Hui Buh nicht sehr gut im spucken er ist ein schlechtes Gespenst dann eines Tages ist König Julius der 111 nach Schloss Burg Eck gekommen König",
+  "tx": "hallo heute zeige ich euch drei Kassetten die ich als Kind gehört habe viel Spaß Nummer eins Bibi Blocksberg das ist Bibi Blocksberg Bibi Blocksberg ist ein 13-jähriges Mädchen sie lebt mit ihrer Mutter barbara Blocksberg und mit ihrem Vater Bernhard Blocksberg in Neustadt in Deutschland Bibi und Barbara Blocksberg sind Hexen sie können beide Hexen barbara Blocksberg die Mutter kann sehr gut Hexen aber Bibi muss noch lernen Baby geht auf eine normale Schule dort hat sie zwei Freundinnen und einen Freund Bibi geht aber auch auf eine Hexenschule mit ihren zwei hexenfreundinnen diese Serie heißt Bibi Blocksberg aber es gibt auch die Serie oder die Reihe bibi und Tina ist eine sehr gute Freundin von Bibi in dieser Reihe ist Bibi bei ihrer Freundin Tina auf einem Bauernhof auf diesem Bauernhof von der Familie von Tina verbringt Bibi immer ihre Ferien auf dem Bauernhof gibt es hauptsächlich Pferde es gibt auch andere Tiere zum Beispiel Hühner aber hauptsächlich Pferde bibi und Tina machen gemeinsam oft Wettrennen mit den Pferden Nummer 2 Hui Buh das Schlossgespenst Hui Buh ist der Name von einem Gespenst ein Schlossgespenst Hui Buh lebt auf dem Schloss Burgeck hui Buhu schon seit vielen vielen Jahren auf Schloss Burgeck Hui Buh ist tot richtig er ist ein Gespenst aber als Hui Buh noch gelebt hat als er noch eine Person war war er ein Ritter und dieser Ritter hieß Balduin das ist der Name von dem Ritter aber dann ist der Ritter Balduin gestorben und weil du ihn wurde zu hui buhibu wohnt in einem Turm auf Schloss Burgeck in diesem Tor schläft Hui Buh tagsüber und nachts um Mitternacht um 0 Uhr fängt Hui Buh an zu spucken doch leider ist Hui Buh nicht sehr gut im spucken er ist ein schlechtes Gespenst dann eines Tages ist König Julius der 111 nach Schloss Burg Eck gekommen König julius ist der Erbe von Schloss Burg Eck das heißt Schloss Burg Eck hat seinen Vorfahren gehört aber jetzt sind die Vorfahren gestorben und jetzt bekommt Julius Schloss Burgeck das heißt Julius kommt nach Schloss Burg Eck und zieht ein er wohnt jetzt in Schloss Burg Eck und das gefällt Hui Buh gar nicht Hui Buh sagt das ist mein Schloss das Schloss gehört mir nicht Julius will das Julius wieder geht und deswegen versucht Hui Buh Julius zu erschrecken und Weg zu spucken um Mitternacht kommt hui du aus seinem Turm und er spuckt und spuckt und er versucht Julius zu erschrecken aber Julius hat keine Angst gut spucken und König Julius sagt was machst du da du sollst ein Gespenst sein tut mir leid aber du bist nicht gruselig hui Buhu ist erst sehr oft wütend und er versucht es wieder und wieder aber Julius bleibt auf Schloss Burg Eck und nach einer Weile werden die zwei beste Freunde Nummer drei ein Fall für TKKG TKG ist eine Gruppe von vier Jugendlichen Jugendliche sind Kinder die zwischen 14 und 18 Jahre alt sind Tim Karl Klößchen und Gabi bkkg steht für die Anfangsbuchstaben von den Namen der Kinder kim ist der Anführer von der Bande Tim macht Kampfsport zum Beispiel Judo ji Jitsu und Kung Fu karl hat ein sehr gutes Gedächtnis das heißt Karl kann sich sehr gut an Dinge erinnern Klößchen ist sehr lustig und er liebt Schokolade der Vater von Klößchen arbeitet in einer Schokoladenfabrik gabi ist sehr mutig und gerecht gabi hat einen Hund und der Hund heißt Oskar Gabi liebt Tiere ihr Vater ist ein Polizist und zusammen lösen die vier Kriminalfälle also etwas Schlimmes passiert ist helfen Tim Karl Klößchen und Gabi sie helfen den Fall zu lösen und die Kriminellen zu schnappen die vier sind also wie Detektive und geraten immer im gefährlichen Abenteuer das waren die drei hörspielreihen die ich als Kind gehört habe habt ihr noch Kassetten gehört als ihr klein wart schreibt es unten in die Kommentare also bis bald tschüss",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7253
+  "src": "auto"
  },
  "Qk8nNN7Volg": {
   "channel": "Comprehensible German",
@@ -8463,7 +8731,7 @@
  "EqMkbXRhkQ8": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-04T03:46:06+00:00",
+  "checked": "2026-11-10T15:34:35+00:00",
   "title": "Onkel Pilot kommt zur Rettung | Miffy | Ganze Folge",
   "duration": 1082,
   "published": "20260920",
@@ -8471,73 +8739,10 @@
   "spoken_v": 2,
   "pace": 112.8,
   "rare": 0.0875,
+  "var": 0.8066,
   "speech_s": 978.9,
   "tokens": 1841,
   "kw": [
-   [
-    "schnuffi",
-    "Ja, ich suche Schnuffi. Ich habe sie",
-    9,
-    15,
-    2.06,
-    32
-   ],
-   [
-    "erdbeeren",
-    "besonders die Erdbeeren. ",
-    368,
-    378,
-    3.61,
-    13
-   ],
-   [
-    "mii",
-    "Oh, halt die Eier fest, Mii.",
-    375,
-    380,
-    2.54,
-    3
-   ],
-   [
-    "zugbrücke",
-    "hohen Turm und einer Zugbrücke, damit",
-    838,
-    843,
-    2.56,
-    3
-   ],
-   [
-    "boris",
-    "Boris, du hast ihn gefällt. Was? Oh nein. Miffi, der Sturm hat ihn",
-    745,
-    756,
-    4.02,
-    10
-   ],
-   [
-    "spielhaus",
-    "Spielhaus zu bauen? Super Idee. Was für eine schöne Idee, Boris Kinder,",
-    827,
-    836,
-    2.41,
-    2
-   ],
-   [
-    "piratenschiff",
-    "Ich weiß was. Ein Piratenschiff und eine",
-    846,
-    851,
-    2.58,
-    2
-   ],
-   [
-    "rettungsaktion",
-    "Rettungsaktion mit dem Flugzeug ausprobiert?",
-    190,
-    197,
-    3.06,
-    2
-   ],
    [
     "nein",
     "Oh nein, sie hat sich bestimmt verlaufen.",
@@ -8553,14 +8758,6 @@
     175,
     5.06,
     11
-   ],
-   [
-    "papa",
-    "Ja, Papa. Oh oh.",
-    377,
-    385,
-    4.46,
-    9
    ],
    [
     "hast",
@@ -8579,20 +8776,12 @@
     8
    ],
    [
-    "schnell",
-    "wir dreimal so schnell und an dreimal so vielen Orten. Los,",
-    58,
-    69,
-    5.51,
-    6
-   ],
-   [
-    "bist",
-    "Oh, wo bist du? Stimmt etwas nicht, Miffi, du siehst",
-    4,
-    10,
-    5.61,
-    6
+    "papa",
+    "Ja, Papa. Oh oh.",
+    377,
+    385,
+    4.46,
+    9
    ],
    [
     "ball",
@@ -8601,12 +8790,124 @@
     35,
     4.64,
     6
+   ],
+   [
+    "onkel",
+    "Guck mal, es ist Onkel Pilot. Komm,",
+    159,
+    165,
+    4.28,
+    6
+   ],
+   [
+    "burg",
+    "Oh, ich hätte gerne eine Burg mit einem",
+    836,
+    841,
+    4.38,
+    5
+   ],
+   [
+    "erdbeeren",
+    "besonders die Erdbeeren. ",
+    368,
+    378,
+    3.61,
+    13
+   ],
+   [
+    "boris",
+    "Boris, du hast ihn gefällt. Was? Oh nein. Miffi, der Sturm hat ihn",
+    745,
+    756,
+    4.02,
+    10
+   ],
+   [
+    "pilot",
+    "Guck mal, es ist Onkel Pilot. Komm,",
+    159,
+    165,
+    4.16,
+    6
+   ],
+   [
+    "supermarkt",
+    "Ich mag den Supermarkt und alles darin",
+    364,
+    373,
+    4.17,
+    5
+   ],
+   [
+    "riese",
+    "passiert? Hat ein Riese genießt und die",
+    729,
+    735,
+    3.57,
+    2
+   ],
+   [
+    "mhm",
+    "Mhm. Das ist schwer.",
+    468,
+    482,
+    3.53,
+    2
+   ],
+   [
+    "lauft",
+    "Lauft, lauft. Ahoft.",
+    1063,
+    1071,
+    3.26,
+    2
+   ],
+   [
+    "matsch",
+    "mag Matsch. Ich nicht. Das muss ich später sauber",
+    384,
+    390,
+    3.22,
+    2
+   ],
+   [
+    "schnuffi",
+    "Ja, ich suche Schnuffi. Ich habe sie",
+    9,
+    15,
+    2.06,
+    32
+   ],
+   [
+    "zugbrücke",
+    "hohen Turm und einer Zugbrücke, damit",
+    838,
+    843,
+    2.56,
+    3
+   ],
+   [
+    "mii",
+    "Oh, halt die Eier fest, Mii.",
+    375,
+    380,
+    2.54,
+    3
+   ],
+   [
+    "piratenschiff",
+    "Ich weiß was. Ein Piratenschiff und eine",
+    846,
+    851,
+    2.58,
+    2
    ]
   ],
-  "tx": "Oh, wo bist du? Stimmt etwas nicht, Miffi, du siehst besorgt aus. Ja, ich suche Schnuffi. Ich habe sie schon ewig nicht mehr gesehen. Na ja, Schnuffi kommt und geht doch immer wie es ihr gefällt. Aber sie war noch nie so lange weg. Ich habe Angst, dass sie sich verlaufen hat. Ähm, ist das Schnuffis Ball? Hi Miffi. Melanie und ich spielen Ball. Willst du mitspielen? Ah, jetzt fällt's mir wieder ein. Schnuffis Ball ist rot und nicht blau. Ist alles okay? Was ist los? Ich habe Schnuffi seit gestern nicht mehr gesehen. Oh nein, sie hat sich bestimmt verlaufen. Dann helfen wir dir sie zu finden. Wo könnte sie sein? Ich weiß nicht, aber wenn wir drei sie suchen, sind wir dreimal so schnell und an dreimal so vielen Orten. Los, Schnuffi, Schnuffi, Schnuffi, Schnuffi, Schnuffi, im Park bist du nicht. Schnuffi, wo bist du? Bell mal für mich. Schnuffi, Schnuffi, Schnuffi, sie ist nicht mehr am Teich. Schnuffi, ich hoffe, wir finden dich gleich. Schnuffi, beim Laden wirst du auch nicht zusehen. Schnuffi, wir finden dich, weil wir nicht aufgeben. Schnuffi, Schnuffi, ich vermisse sie echt. Wieso finden wir sie nicht? Das ist nicht gerecht. Schnuffi, komm her, Schnuffi. Tut mir leid, dass wir sie nicht gefunden haben. Miffi, ich muss jetzt aber nach Hause zum Mittagessen, sonst macht Tante Poppy sich Sorgen. Oh, es ist schon Mittagszeit? Danke, dass ihr so lange mitgesucht habt. Schon gut, Miffi. Schnuffi ist ja auch unsere Freundin. Bis dann, Miffi. Bis dann. Was ist denn los? Miffilein Schnuffi fehlt mir. Ich habe sie den ganzen Morgen gesucht. Hm, jetzt wo du es sagst, ich habe Schnuffi seit Tagen nicht gesehen. Das ist wirklich ungewöhnlich. Oh, vielleicht ist dir was passiert. Wo ist sie nur? Ist das Geräusch das, wofür ich es halte? Guck mal, es ist Onkel Pilot. Komm, Onkel Pilo",
+  "tx": "Oh, wo bist du? Stimmt etwas nicht, Miffi, du siehst besorgt aus. Ja, ich suche Schnuffi. Ich habe sie schon ewig nicht mehr gesehen. Na ja, Schnuffi kommt und geht doch immer wie es ihr gefällt. Aber sie war noch nie so lange weg. Ich habe Angst, dass sie sich verlaufen hat. Ähm, ist das Schnuffis Ball? Hi Miffi. Melanie und ich spielen Ball. Willst du mitspielen? Ah, jetzt fällt's mir wieder ein. Schnuffis Ball ist rot und nicht blau. Ist alles okay? Was ist los? Ich habe Schnuffi seit gestern nicht mehr gesehen. Oh nein, sie hat sich bestimmt verlaufen. Dann helfen wir dir sie zu finden. … ist nicht gerecht. Schnuffi, komm her, Schnuffi. Tut mir leid, dass wir sie nicht gefunden haben. Miffi, ich muss jetzt aber nach Hause zum Mittagessen, sonst macht Tante Poppy sich Sorgen. Oh, es ist schon Mittagszeit? Danke, dass ihr so lange mitgesucht habt. Schon gut, Miffi. Schnuffi ist ja auch unsere Freundin. Bis dann, Miffi. Bis dann. Was ist denn los? Miffilein Schnuffi fehlt mir. Ich habe sie den ganzen Morgen gesucht. Hm, jetzt wo du es sagst, ich habe Schnuffi seit Tagen nicht gesehen. Das ist wirklich ungewöhnlich. Oh, vielleicht ist dir was passiert. Wo ist sie nur? Ist das … Wir können zehn mal so viele Orte absuchen und zehn mal so schnell. Bis dann. Viel Glück. Bis dann. Juhu! Halt die Augen offen, Mee. Suche nach Hinweisen. Oh, guck mal, ist Miffi. Schnuffi, Schnuffi. Oh. Oh. Miffi. Hallo, Miffi. Oh, es gibt so viele Orte, an denen wir suchen müssen. Fliegen wir mal näher ran. Kannst du zurückfliegen? Ich glaube, ich habe etwas gesehen. Kein Problem, da unten. Das ist ein Ball. Ein roter Ball. So ein hat Schnuffi auch. Halt dich gut fest. Das ist Schnuffis Ball. Den würde ich immer erkennen. Schn Schnuffi, Schnuffi. Oh, das kommt von dort. Schnell, … bevor deine Eltern jemanden losschicken, um dich zu suchen. Aber ich habe Schnuffi gerade erst wieder gefunden. Ich will noch bei ihr bleiben. Ich habe nicht gesagt, dass du sie verlassen sollst. Guck mal, Onkel Pilot. Schnuffi fliegt genauso gerne wie ich. Jiu! Oh, danke, dass ihr mir mit dem Einkauf hilft, Kinder. Ich mag den Supermarkt und alles darin besonders die Erdbeeren. Oh, halt die Eier fest, Mii. Ja, Papa. Oh oh. Das Auto wird ganz schön matschig. Ich mag Matsch. Ich nicht. Das muss ich später sauber machen. Sieh mal, Papa, die Eier sind noch rein. Oh, Glück gehabt. Ah, fertig. … Miffi. So viele Spritz am Matsch. Ich weiß was. Warum waschen wir nicht das Auto, während Papa die Erdbeeren holt? Gute Idee, dann tun wir ihm auch ein gefallen. Ja. Hier ist ein Schwamm für dich, Grant. Und ein Eimer. Gut. Mhm. Das ist schwer. Nein, Grant, nicht so. Wir brauchen Wasser. So, siehst du? Oh. Hallo Barbara. Ich hätte gerne Erdbeeren. Tut mir leid, aber die sind leider ausverkauft. Oh, aber ich habe leckere Weintrauben und auch Kirschen. Heute nicht. Entschuldige. Es müssen Erdbeeren sein. Nun, heute ist Markt. Warum versuchst du es nicht dort? Oh, danke Barbara. Das werde … ist es innensauber. Wir schaffen das nie rechtzeitig. Doch, das schaffen wir. Komm schon. So. Mhm. Da noch. Okay. Hier und hier. Da bist du ja. Gut, dass ich dich finde. Ich brauche dringend Erdbeeren. Tut mir leid, ich habe keine mehr übrig. Ich habe gestern alle dem Supermarkt geliefert. Dann hätte ich gleich wieder zum Supermarkt fahren können. Ich hätte ein paar Pflaumen. Nein, danke. Papa, Papa, sieh mal, was wir gemacht haben. Guck mal, Papa. Oh, Kinder, ihr habt für mich das Auto gewaschen. Was für eine schöne Überraschung. Vielen Dank. Können wir jetzt unsere Überraschung haben? … vielleicht solltet ihr zuerst euch waschen. Oh ja. Guten Morgen, Miffi. Was ist denn hier passiert? Hat ein Riese genießt und die ganzen Blätter weggepustet? Kein Riese, ein Sturm. Gestern Nacht war es ganz schön windig. Oh nein, die Wunschbäume. Boris, du hast ihn gefällt. Was? Oh nein. Miffi, der Sturm hat ihn umgewählt. Siehst du? Oh ja. Ich segge ihn klein, sonst rollt er noch den Hügel hinab. Oh je, armer alter Wunschbaum. Wunschbaum? Ja, ich berühre sie immer auf meinem Weg zur Schule und wünsche mir etwas. Ich wünschte, es hätte dich nicht umgewählt. Ich habe sie immer Kletterbäume … wie viel mir der alte Baum bedeutet hat. Also dachte ich mir, anstatt ihn loszuwerden, warum nutzen wir nicht sein Holz, um ein Spielhaus zu bauen? Super Idee. Was für eine schöne Idee, Boris Kinder, warum schlagt ihr nicht vor, was für ein Haus er bauen könnte? Oh, ich hätte gerne eine Burg mit einem hohen Turm und einer Zugbrücke, damit wir Ritterkönig und Königin spielen können. Oh, oh, oh, ein Laden. Nein, ein Kaffee. Ich weiß was. Ein Piratenschiff und eine Dampflock. Pirine Dampflock. Huhu, das wird die Kühner Eil zur Hilfe auf die Planken. Das wird super. Ich denke, das reicht, … ich kann dein Pferd nicht sehen, Kühne Miffi. Vielleicht ist es weggelaufen. Sei doch nicht albern. Das ist ja kein echtes Pferd. Es ist ein Spielpferd. Du musst es dir vorstellen. Oh, verstehe. Das könnte eine Spielburg sein. Das ist die Zugbrücke und das ist der Hof. Und das ist der große hohe Turm. Ich kann Meilenweit sehen. Oh, hi Boris. Hi Miffi. Gefällt dir euer neues Spielhaus? Ist großartig, Boris. Oh, gut. Ich hatte schon Angst, weil ihr alle so unterschiedliche Vorstellungen hattet. Und du hast dich für meine Burg entschieden. Danke, Boris. M. Wow. Miffi, du bist aber sehr früh … Karottenkank. Danke Borus, das ist das beste Kaffee aller Zeiten. Ja. Oh, danke. Und vielen Dank für die Suppe. Kapitän Melanie sagt: \"Ein Hoch auf Boris. Hurra! Gern geschehen. Vielen Dank euch allen. Eine Suppe für dich, Zugführer. Lecker. Danke, ich kann die Du hast es geschafft, Boris. Du hast alles mit einem Mal geschafft und du kannst dir immer noch was wünschen, wenn du magst. Das ist der alte Baumstumpf. So kannst du immer noch jeden Tag beide Bäume berühren. Oh ja. Lauft, lauft. Ahoft. Was hast du dir gewünscht, Mii? Das hier. Alle einsteigen. Bitte Pferdchen. H. Hallo, wie viele",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7642
+  "src": "auto"
  },
  "T-53EtUGSFI": {
   "channel": "Miffy - Deutsch",
@@ -9088,7 +9389,7 @@
  "BDuxgn1-QWc": {
   "channel": "Sloeful German",
   "lang": "de",
-  "checked": "2026-11-04T22:14:26+00:00",
+  "checked": "2026-11-10T15:13:33+00:00",
   "title": "How fair is the Berlin nightclub Berghain? | Slow German Podcast (B1, B2)",
   "duration": 721,
   "published": "20240124",
@@ -9096,73 +9397,10 @@
   "spoken_v": 2,
   "pace": 130.9,
   "rare": 0.0753,
+  "var": 0.8095,
   "speech_s": 718.8,
   "tokens": 1568,
   "kw": [
-   [
-    "berghain",
-    "und den Sie unbedingt besuchen wollen das ist das Berghain wenn du diesen Podcast hörst dann",
-    32,
-    41,
-    2.81,
-    34
-   ],
-   [
-    "reinzukommen",
-    "Berghain feiern können ist es nicht leicht dort reinzukommen viele Leute kommen an die",
-    55,
-    63,
-    2.89,
-    4
-   ],
-   [
-    "selektivität",
-    "finden ein Argument ist dass die Selektivität des Berghains nicht mit den Werten von Offenheit und",
-    268,
-    277,
-    2.47,
-    3
-   ],
-   [
-    "wählerisch",
-    "nicht sind sehr wählerisch sie lassen also sehr viele Menschen nicht in den Club das berkin ist",
-    68,
-    77,
-    3.1,
-    4
-   ],
-   [
-    "mainstream",
-    "oft so gemeint befreie dich vom Mainstream und sei stattdessen der der du wirklich sein",
-    292,
-    300,
-    3.83,
-    7
-   ],
-   [
-    "hereingelassen",
-    "hereingelassen wird das alles trägt zur Mystik des Berghains bei die Kombination von guter Musik und",
-    191,
-    199,
-    2.07,
-    2
-   ],
-   [
-    "reingelassen",
-    "Freunde wurden nicht reingelassen ich wurde auch schon nicht reingelassen und vor ein paar Jahren",
-    247,
-    254,
-    2.97,
-    3
-   ],
-   [
-    "hereinkommt",
-    "Tür und die Türsteher das heißt die Leute die entscheiden wer in den Club hereinkommt und wer",
-    62,
-    69,
-    2.31,
-    2
-   ],
    [
     "club",
     "das die Berliner Clubkultur und es gibt einen Ort einen Club den alle meine Freunde kennen",
@@ -9180,12 +9418,12 @@
     10
    ],
    [
-    "szene",
-    "Fokus eigentlich sehr stark auf der Fetisch und schwulen Szene das Berghain ist aber auch heute",
-    137,
-    145,
-    4.76,
-    9
+    "eigentlich",
+    "dann oft ist das denn eigentlich fair dass das berghhein so wählerisch ist dass es so schwierig",
+    102,
+    109,
+    5.58,
+    7
    ],
    [
     "freunde",
@@ -9196,42 +9434,138 @@
     7
    ],
    [
-    "eigentlich",
-    "dann oft ist das denn eigentlich fair dass das berghhein so wählerisch ist dass es so schwierig",
-    102,
-    109,
-    5.58,
+    "szene",
+    "Fokus eigentlich sehr stark auf der Fetisch und schwulen Szene das Berghain ist aber auch heute",
+    137,
+    145,
+    4.76,
+    9
+   ],
+   [
+    "möchten",
+    "möchten sie sind aber eigentlich nur Zuschauer die keine echte Neugier an der Szene haben S",
+    472,
+    480,
+    4.79,
+    4
+   ],
+   [
+    "ruf",
+    "bekannteste Argument ist dass die Selektivität sehr wichtig für den Ruf des Berghains ist das",
+    437,
+    445,
+    4.56,
+    4
+   ],
+   [
+    "gemeinschaft",
+    "unterstützen und ein Gefühl von Gemeinschaft zu fördern dieses Gemeinschaftsgefühl wird aber nur",
+    567,
+    576,
+    4.52,
+    4
+   ],
+   [
+    "mainstream",
+    "oft so gemeint befreie dich vom Mainstream und sei stattdessen der der du wirklich sein",
+    292,
+    300,
+    3.83,
     7
    ],
    [
-    "sagen",
-    "ist auch eines der besten der ganzen Welt und drittens kann man auch sagen dass das Berghain",
-    164,
-    172,
-    5.68,
-    6
+    "clubs",
+    "Clubs assoziiert die Leute nicht reinlassen weil sie nicht die richtigen Schuhe tragen die nicht",
+    330,
+    337,
+    4.14,
+    5
    ],
    [
-    "leute",
+    "unfair",
+    "ist da reinzukommen ist das nicht eigentlich ein bisschen arrogant und unfair bevor wir darüber",
+    109,
+    117,
+    3.85,
+    4
+   ],
+   [
+    "attraktiv",
+    "man etwas attraktiv oder interessant findet und weil das Berghain so viele Menschen anzieht gibt",
+    206,
+    215,
+    4.13,
+    2
+   ],
+   [
+    "wählerisch",
+    "nicht sind sehr wählerisch sie lassen also sehr viele Menschen nicht in den Club das berkin ist",
+    68,
+    77,
+    3.1,
+    4
+   ],
+   [
+    "türsteher",
+    "Tür und die Türsteher das heißt die Leute die entscheiden wer in den Club hereinkommt und wer",
+    62,
+    69,
+    3.26,
+    2
+   ],
+   [
+    "mystik",
+    "eine gewisse Mystik entwickelt hat es gibt dort in den Badezimmern keine Spiegel man darf keine",
+    171,
+    179,
+    3.2,
+    2
+   ],
+   [
+    "anpasst",
+    "kommt es darauf an wie cool man aussieht und wie sehr man sich daran anpasst was das Berghain cool",
+    344,
+    352,
+    3.14,
+    2
+   ],
+   [
+    "berghain",
+    "und den Sie unbedingt besuchen wollen das ist das Berghain wenn du diesen Podcast hörst dann",
+    32,
+    41,
+    2.81,
+    34
+   ],
+   [
+    "reinzukommen",
     "Berghain feiern können ist es nicht leicht dort reinzukommen viele Leute kommen an die",
     55,
     63,
-    5.63,
-    6
+    2.89,
+    4
    ],
    [
-    "berlin",
-    "Wenn Freunde mich zum ersten Mal in Berlin besuchen wollen sie in der Regel alle das",
-    0,
-    7,
-    5.68,
-    6
+    "reingelassen",
+    "Freunde wurden nicht reingelassen ich wurde auch schon nicht reingelassen und vor ein paar Jahren",
+    247,
+    254,
+    2.97,
+    3
+   ],
+   [
+    "selektivität",
+    "finden ein Argument ist dass die Selektivität des Berghains nicht mit den Werten von Offenheit und",
+    268,
+    277,
+    2.47,
+    3
    ]
   ],
-  "tx": "Wenn Freunde mich zum ersten Mal in Berlin besuchen wollen sie in der Regel alle das Gleiche tun die meisten von ihnen wollen die Sehenswürdigkeiten sehen also z.B das Brandenburger Tor oder die Berliner Mauer und einige wollen vielleicht eine Currywurst essen aber wenn es eine Sache gibt welche die meisten meiner Freunde hier in Berlin erleben wollen ist das die Berliner Clubkultur und es gibt einen Ort einen Club den alle meine Freunde kennen und den Sie unbedingt besuchen wollen das ist das Berghain wenn du diesen Podcast hörst dann weißt Du wahrscheinlich schon dass das Berghain ein berühmter Nachtclub hier in Berlin ist es befindet sich im Stadtteil Friedrichshain in einem alten großen Kraftwerk obwohl 1500 Menschen in dem Berghain feiern können ist es nicht leicht dort reinzukommen viele Leute kommen an die Tür und die Türsteher das heißt die Leute die entscheiden wer in den Club hereinkommt und wer nicht sind sehr wählerisch sie lassen also sehr viele Menschen nicht in den Club das berkin ist so bekannt dafür dass es online sehr viele memes darüber gibt die sich darüber lustig machen einige Menschen haben sogar einen Online Berghain-Trainer gemacht eine Webseite bei der man online üben kann in das Berghain zu kommen wenn ihr Interesse habt euch das anzuschauen könnt ihr den Link auf unserer Webseite zu diesem Podcast finden meine Freunde die mich besuchen fragen mich dann oft ist das denn eigentlich fair dass das berghhein so wählerisch ist dass es so schwierig ist da reinzukommen ist das nicht eigentlich ein bisschen arrogant und unfair bevor wir darüber sprechen lasst uns ein wenig darüber reden warum es so viele so wichtig finden überhaupt in den Club zu kommen was ist so besonders am Berghain einer der Gründe ist dass das Berghain seit langem für seinen Hedon",
+  "tx": "Wenn Freunde mich zum ersten Mal in Berlin besuchen wollen sie in der Regel alle das Gleiche tun die meisten von ihnen wollen die Sehenswürdigkeiten sehen also z.B das Brandenburger Tor oder die Berliner Mauer und einige wollen vielleicht eine Currywurst essen aber wenn es eine Sache gibt welche die meisten meiner Freunde hier in Berlin erleben wollen ist das die Berliner Clubkultur und es gibt einen Ort einen Club den alle meine Freunde kennen und den Sie unbedingt besuchen wollen das ist das Berghain wenn du diesen Podcast hörst dann weißt Du wahrscheinlich schon dass das Berghain ein … Menschen nicht in den Club das berkin ist so bekannt dafür dass es online sehr viele memes darüber gibt die sich darüber lustig machen einige Menschen haben sogar einen Online Berghain-Trainer gemacht eine Webseite bei der man online üben kann in das Berghain zu kommen wenn ihr Interesse habt euch das anzuschauen könnt ihr den Link auf unserer Webseite zu diesem Podcast finden meine Freunde die mich besuchen fragen mich dann oft ist das denn eigentlich fair dass das berghhein so wählerisch ist dass es so schwierig ist da reinzukommen ist das nicht eigentlich ein bisschen arrogant und unfair … ist aber auch heute noch dafür bekannt dass es diesen Szenen einen sicheren Raum bieten möchte ein weiterer Grund für die Beliebtheit des Berghains ist dass es dafür bekannt ist die Musik in den Vordergrund zu stellen es zieht DJs und Künstler aus der ganzen Welt an und das Soundsystem im Berghain ist auch eines der besten der ganzen Welt und drittens kann man auch sagen dass das Berghain eine gewisse Mystik entwickelt hat es gibt dort in den Badezimmern keine Spiegel man darf keine Fotos machen und muss einen Aufkleber auf die Handykamera kleben bevor man in den Club geht und außerdem … es oft super lange Schlangen vor dem Club und die Leute sind bereit in der Schlange zu warten oft stundenlang und sogar mitten im Winter viele warten und warten und warten bis sie schließlich ganz vorne in der Schlange stehen und dann entweder reinkommen oder nicht dieses Gefühl nicht reinzukommen und abgelehnt zu werden kann für viele Menschen die neuen Berlin sind sehr peinlich sein viele Menschen nehmen es sehr persönlich es passiert aber sehr oft viele meiner Freunde wurden nicht reingelassen ich wurde auch schon nicht reingelassen und vor ein paar Jahren wurde auch Elon Musk nicht … verhalten wie er oder sie möchte das ist aber vielleicht nicht ganz wahr es ist nämlich oft so gemeint befreie dich vom Mainstream und sei stattdessen der der du wirklich sein willst ein Teil der Gegenkultur nicht Mainstream diese Ablehnung des Mainstreams bedeutet dass Menschen die eindeutig Mainstream sind vom Berghain abgewiesen werden und einige Leute würden sagen dass dies gerade nicht offen ist zweitens argumentieren manche dass das Berghain seine eigene Form des Elitismus praktiziert Elitismus in der Clubszene wird oft mit teuren Clubs assoziiert die Leute nicht reinlassen weil sie … jetzt zum dritten Punkt die Auswahl der Leute nach dem Coolnessfaktor macht es nämlich auch schwierig einen Abend mit Freunden zu planen man kann vorher nie sicher sagen ob man ins Berghain hereingelassen wird du kannst gut aussehen und die richtige Einstellung haben es kann sein dass du schon oft im Berghain gefeiert hast aber du könntest trotzdem abgewiesen werden wenn einige deer Freunde es schaffen reinzukommen du und andere aber nicht was dann ich kenne z.B jemanden der seinen Geburtstag im Berghain feiern wollte seine Freunde sind an dem Abend alle hereingekommen aber er selbst … und selektiv ist das bekannteste Argument ist dass die Selektivität sehr wichtig für den Ruf des Berghains ist das Wort Ruf bedeutet hier Reputation wie andere und die Gesellschaft das Berghain sehen das Berghain hat einen Ruf ein Club für die Fetisch und schwulenzene zu sein und das berghhein möchte Menschen hereinlassen die auch in dieser Szene sind und je bekannter das berkhein wird desto wahrscheinlicher ist es dass mehr und mehr Menschen das legendäre Berghain-Erlebnis haben möchten sie sind aber eigentlich nur Zuschauer die keine echte Neugier an der Szene haben S eigentlich nur … also sehr stark zu filtern das t uns zu unserem nächsten Argument dass es wichtig ist sichere Räume zu schaffen für Menschen die es im Mainstream schwieriger haben die Menschen die nicht ins Berghain gelassen werden weil sie zu Mainstream wirken können oft in andere Clubs gehen für die Menschen die es im Mainstream schwieriger haben ist das aber nicht so einfach auch wenn die Türpolitik des Berghains auf den ersten Blick arrogant scheinen mag so wird doch argumentiert, dass es ein Risiko ist wenn das Berghain zu viele Menschen hereinlässt die nicht in der Szene sind es wird damit nämlich … wirklich wie eine echte Gemeinschaft anfühlt und damit der Club für Menschen in dieser Gemeinschaft attraktiv bleibt ist es wichtig Menschen die nicht in dieser Gemeinschaft sind oder die viel zu weit weg von der Szene sind nicht hereinzulassen und das klappt natürlich nicht immer zu wissen wer in der Szene ist und wer nicht ist nicht leicht oft filtert das Berghain Menschen aus welche eigentlich sehr aktiv in der Szene sind aber so kann man wenigstens erklären warum das Berghain so stark filtert und was die Idee und die Absicht dahinter ist ich persönlich denke dass es letztendlich fairer … Berghain gibt der etwas anderes bietet aber was denkt ihr darüber ist es fair dass das berkhein mit seiner Türpolitik einen sicheren Raum schaffen möchte oder ist die strenge Tür einfach nur Marketing welches den Türstehern ermöglicht am Wochenende nachts Gott zu spielen schreibt uns das gerne in die Kommentare wenn ihr eine Meinung dazu habt ansonsten danke fürs Zuhören ich hoffe dass diese Episode interessant war aber auch verständlich und wenn du dir das auf Youtube anhörst dann vergiss nicht das Video zu liken und auf unserer Webseite gibt es natürlich wieder den kompletten Text bis bald",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7937
+  "src": "cc"
  },
  "d3tStoDDapM": {
   "channel": "comprehensible GERMANi",
@@ -13057,7 +13391,7 @@
  "IxeMURU4IaY": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:01:57+00:00",
+  "checked": "2026-11-10T15:49:40+00:00",
   "title": "Der letzte Luftballon 🎈💙 | 60-Minuten-Zusammenfassung | Bluey – Deutsch Offizieller Kanal",
   "duration": 3902,
   "published": "20261007",
@@ -13065,73 +13399,10 @@
   "spoken_v": 2,
   "pace": 131.2,
   "rare": 0.0822,
+  "var": 0.8171,
   "speech_s": 3365.6,
   "tokens": 7361,
   "kw": [
-   [
-    "bingo",
-    "Bingo, Hilfe. Ich kann nicht. Ich bin eine",
-    26,
-    32,
-    3.63,
-    45
-   ],
-   [
-    "boing",
-    "Boing boing boing boing boing. Ich will das jetzt auch mal machen.",
-    1398,
-    1405,
-    2.5,
-    15
-   ],
-   [
-    "dad",
-    "Dad, wir spielen Luftballon. Butch, kannst du schwieriger machen?",
-    20,
-    27,
-    3.82,
-    35
-   ],
-   [
-    "haferbrei",
-    "Babybeär. Mama Bär hatte Haferbrei gekocht und in einem ganz bestimmten Ton",
-    3695,
-    3702,
-    2.33,
-    8
-   ],
-   [
-    "schweinchen",
-    "Schweinchen? Ja, kannst du sie lustig erzählen?",
-    125,
-    130,
-    3.09,
-    10
-   ],
-   [
-    "spielzimmer",
-    "Begleit uns bitte ins Spielzimmer. Ja, Meister,",
-    2318,
-    2326,
-    2.66,
-    7
-   ],
-   [
-    "traumhaus",
-    "Blu und Bingos Traumhaus. Wie kann ich",
-    3442,
-    3446,
-    2.85,
-    5
-   ],
-   [
-    "verrücktes",
-    "Brauchen Sie ein verrücktes Gesetz? Nein, braucht er nicht. Das ist wirklich",
-    570,
-    577,
-    3.16,
-    6
-   ],
    [
     "nein",
     "nein, nein, nein. Putsch. Oh, ich krieg",
@@ -13165,47 +13436,143 @@
     27
    ],
    [
-    "los",
-    "Lass sie los. Oh, möchtest du die Tageszeitung",
-    41,
-    47,
-    5.26,
-    24
+    "wolf",
+    "böse Wolf auf und sagte: \"Kleines",
+    141,
+    146,
+    4.57,
+    12
    ],
    [
-    "hast",
-    "sagten: \"Du hast drei Vorstrafen und dein Auto geklaut. Erzähle das dem",
-    177,
-    184,
-    5.75,
-    23
+    "mama",
+    "Mama hat die Tauchtiere dabei. Ja,",
+    2259,
+    2264,
+    4.68,
+    11
    ],
    [
-    "gar",
-    "gar nicht zu Ende. Tja, das solltest du lieber mit Bingo",
-    669,
-    675,
-    5.64,
-    22
+    "tja",
+    "Tja, ja, Disziplin hilft und Ende",
+    274,
+    281,
+    4.55,
+    8
    ],
    [
-    "bitte",
-    "bitte. Ah, nein, nein, nein. Putsch. Oh, ich krieg",
-    52,
-    59,
-    5.7,
-    20
+    "red",
+    "Mein Border heißt Red. Mein Anter heißt Strip.",
+    2817,
+    2830,
+    4.64,
+    7
+   ],
+   [
+    "bingo",
+    "Bingo, Hilfe. Ich kann nicht. Ich bin eine",
+    26,
+    32,
+    3.63,
+    45
+   ],
+   [
+    "dad",
+    "Dad, wir spielen Luftballon. Butch, kannst du schwieriger machen?",
+    20,
+    27,
+    3.82,
+    35
+   ],
+   [
+    "bär",
+    "drei Bären. Papabär, Mama Bär und",
+    3693,
+    3698,
+    4.0,
+    13
+   ],
+   [
+    "kissen",
+    "Ich will das verrückte Kissen sein.",
+    442,
+    447,
+    3.95,
+    11
+   ],
+   [
+    "schweinchen",
+    "Schweinchen? Ja, kannst du sie lustig erzählen?",
+    125,
+    130,
+    3.09,
+    10
+   ],
+   [
+    "verrücktes",
+    "Brauchen Sie ein verrücktes Gesetz? Nein, braucht er nicht. Das ist wirklich",
+    570,
+    577,
+    3.16,
+    6
+   ],
+   [
+    "limonade",
+    "Limonade. Wow, gute Idee. In der",
+    196,
+    202,
+    3.1,
+    5
+   ],
+   [
+    "schnapp",
+    "Bingo, schnapp ihn. Er darf nicht auf",
+    63,
+    67,
+    3.43,
+    4
+   ],
+   [
+    "boing",
+    "Boing boing boing boing boing. Ich will das jetzt auch mal machen.",
+    1398,
+    1405,
+    2.5,
+    15
+   ],
+   [
+    "haferbrei",
+    "Babybeär. Mama Bär hatte Haferbrei gekocht und in einem ganz bestimmten Ton",
+    3695,
+    3702,
+    2.33,
+    8
+   ],
+   [
+    "spielzimmer",
+    "Begleit uns bitte ins Spielzimmer. Ja, Meister,",
+    2318,
+    2326,
+    2.66,
+    7
+   ],
+   [
+    "traumhaus",
+    "Blu und Bingos Traumhaus. Wie kann ich",
+    3442,
+    3446,
+    2.85,
+    5
    ]
   ],
-  "tx": "Guck mal, M. Hey, tolle Strategie, ihr Luftballonmädchen. Ich bin ein Luftballonbutsch Experte. Ja, aber es ist nicht mehr so lustig. Kannst du es wieder schwierig machen? Entschuldige Sparz, aber ich habe gerade ganz viel zu tun. Oh, guten Morgen ihr Schnuffelhasen. Ich sag guten Morgen ihr Schnuffelhasen. Was geht ab? Partymäuse Dad, wir spielen Luftballon. Butch, kannst du schwieriger machen? Meine Tageszeitung. Bingo, Hilfe. Ich kann nicht. Ich bin eine Tageszeitung. Oh, wie dramatisch die immer schreiben. Ja, ja, ja. Seht nur. Wow. Wahnsinn. Seht euch das an. Louis, Hilfe. Ich rette dich, Bingo. Lass sie los. Oh, möchtest du die Tageszeitung durchblättern? Okay, aber mach nicht das Kreuzworträtsel. Oh, lecker. Wunderbar Orangensaft. Ja, bitte. Ah, nein, nein, nein. Putsch. Oh, ich krieg schaffst das Bingo. Süßes Kind, du wirst viel zu schnell groß. Ah, Dad, lass los. Bingo, schnapp ihn. Er darf nicht auf den Boden fallen. Lui, Hilfe. Ich habe das nicht ganz allein. Ach, Kind, umarme deinen alten Vater. Lass los. Butsch! Ah, jetzt wieder ich. Oh, diese Hitze ist wirklich erdrückend. Ich schmeiße mal den Ventilator an. Oh nein, hier liegen ja überall Blätter rum. Hier liegt zu viel Spielzeug auf dem Boden rum. Butsch! Wer hat denn diese Unordnung nur verursacht? Mann, Mann, das ganze verstreute Spielzeug macht es sicher nicht ganz so einfach für euch, den Ballon in der Luft zu halten. Wir wissen das. Könnt ihr euch vorstellen, wie einfach es doch wäre, wenn ihr alles aufgeräumt hättet? Das hilft uns gerade nicht. Oh nein. Uh. Haha. Siehst du, Dad? Unser Spielzeug hat den Ballon gerettet. Erzählst du uns eine Geschichte, Dad? Okay. Wie wären die drei kleinen Schweinchen? Ja, kannst du sie lustig erzählen? Okay. Es waren einmal drei kleine Schweinchen namens Jingo, Guy",
+  "tx": "Guck mal, M. Hey, tolle Strategie, ihr Luftballonmädchen. Ich bin ein Luftballonbutsch Experte. Ja, aber es ist nicht mehr so lustig. Kannst du es wieder schwierig machen? Entschuldige Sparz, aber ich habe gerade ganz viel zu tun. Oh, guten Morgen ihr Schnuffelhasen. Ich sag guten Morgen ihr Schnuffelhasen. Was geht ab? Partymäuse Dad, wir spielen Luftballon. Butch, kannst du schwieriger machen? Meine Tageszeitung. Bingo, Hilfe. Ich kann nicht. Ich bin eine Tageszeitung. Oh, wie dramatisch die immer schreiben. Ja, ja, ja. Seht nur. Wow. Wahnsinn. Seht euch das an. Louis, Hilfe. Ich rette dich, … und dann helfe ich dir beim Aufräumen. Alles gut, ich mache das schon. So, wo sind denn nun diese ungezogenen Kinder? Ja. Oh, wow, da sind sie ja. Mach das noch mal. Kinder, keine Kinder. Kinder, keine Kinder. Kinder, keine Kinder. Wollen wir Hotel spielen? Ja. Oh nein, nicht Hotel. Diese Folge von Blu heißt Hotel. Oh, Bingo, wir haben einen Gast. Ich will das verrückte Kissen sein. Nein, du bist doch der verrückte Hotelhelfer. Oh, hallo. Nein, Dad, du musst auf die Klingel drücken. Oh, okay. Ah, ich versuche, die Lautstärke dieser Klingel zu optimieren. Gut, das versuchen wir noch mal. … schon die ganze Zeit dran. Fingo. Lass los. Ich hab's. Ihr kleinen Kröten. Hättet euch lieber nicht zanken sollen. Statue, Statue, Statue, Statue. Egal, ich schnapp sie mir später. Schön, mein neuer kleiner Gartenzwerk gefällt mir richtig gut. Ah, das hier ist der perfekte Platz. Oh, Augenblick. Warte mal, der kleine Zwerg hat ja Filzstift an den Händen. Bestimmt hat der Unsinn gemacht. Ich hole schnell den Gartenschlauch und lebendig. Danke, Bingo. Dad holt den Gartenschlauch. Wollen wir schnell verstou? Wenn wir spielen, darf ich nie auch mal dran sein. Die ganze Zeit bist immer nur … ich die Falle vorbereiten. In der Zwischenzeit lief alles aus dem Ruder. Nein, ich kann gerade nicht, Genies. Ich habe da was berufliches. Ich habe sie zusammengerufen, um Ihnen mitzuteilen, es ist jemand aus diesem Raum. Und woher wissen Sie das, Herr Braunbär? Ich habe alle Ihre Schultern mit feinem Glitzer bestreut. als sie gerade nicht hingeguckt haben. Warum? Damit derjenige, der hier auf die Schultern tippt, Glitzer am Finger haben wird. Uh, gute Idee. Also müssen wir uns jetzt nur alle Finger angucken und derjenige mit Glitzer drauf ist der tippende Übeltäter. Dad. Äh, ich muss … Ich möchte, dass meine Jüngste anfängt Geige zu spielen. Das würde gut zu ihr passen. Tja, da sind sie hier genau richtig. Zeigen Sie mir, was Sie für welche haben. Ja, na ja, wir haben sehr viele. Sehr große, sehr kleine, welche aus Holz, noch andere aus Holz, sehr günstige, sehr teure. Normalerweise fangen Kinder im Alter ihrer Tochter mit einer Viertelgeige an. Okay. Und wie viel kostet so eine? Na ja, das ist unterschiedlich. Erstmal kommt es darauf an, wo die Geige herkommt. Wenn sie aus teleportiert ist, kann das sehr ins Geld gehen. Aber wenn sie zit für eine sehen hier in der … Snack. Ja, aber ich habe nichts zu essen mitgebracht. Wisst ihr was, Kinder? Ich glaube, wir sind hier fertig. Nein, ich will aber noch gar nicht rauskommen. Komm schon, los. Bingo. Mir ist kalt. Tja, dann schnapp dir dein Handtuch. Ich habe aber keins dabei. Dann schüttel dich. Ich habe noch nicht gelernt, mich richtig zu schütteln. Komm schon. Nein, ich will aber noch nicht raus. Ich bleibe aber noch hier im Pool. Ich kann mich nicht vernünftig schütteln. Hey, hilf mir mal mit deiner Schwester. Ich werde niemals mehr hier. Dad, mir ist kalt. Dad, ich. Dad, ich hab Hunger. Dad, ich … sie haben uns aber den geschickt. Okay, sag bitte deinen Satz. Aber ich will die Katzeneinheit Kätzcheninsel. Okay, also ich öffne den Karton hier. Geht nicht. Nicht kaputt machen. Komm schon. Sag ich doch. Wie habt ihr das Rad denn überhaupt abgekriegt? Das ist der Kipplaster. Drück auf den Knopf. Wenn ihr auf diesen Knopf drückt, dann macht er das. Drück ihn doller. Funktioniert gar nicht. Drück ihn richtig. Mache ich. Man darf nicht vergessen, vorher erst die Batterien reinzumachen. Oh, ein Glück. Oh, das ist ziemlich cool. Vielleicht sollte ich mal ein paar Steine hinten drauf legen. … quack. Ach, der Frosch ist weg und plötzlich taucht eine Miezekatze auf. Oh nein. Oh nein. Bingo. Das Kätzchen möchte ein Schläfchen machen und mit seinen Krallen macht es sich ein schön bequemes Bett. Ach, das Kätzchen ist eingeschlafen. Alles ist gut. Dinosaurier. Ja, alles klar. Bingo, geh dein Zimmer aufräumen. Nein. Bingo, geh und ist sofort Gemüse. Nein, es reicht. Ich schreibe jetzt direkt einen Brief an die Regierung. Liebe Regierung, meine Kinder tun nie das, was ich ihnen sage. Katching. Ich sage ihnen, sie sollen ihr Zimmer aufräumen. Ich sage Ihnen, sie sollen ihr Gemüse essen. … sein oder der Toilettenbattler. Es gibt 50 Toiletten hier im Traumhaus und alle stinken. Habe ich recht, Jenkins? Oh, nicht schon wieder. Die Kinder vergessen einfach jedes Mal zu spülen. Ähm, und was für eine Art Butler bin ich? Sie sind ab jetzt der Sparad Butler. Es ist ihr Job, den Sparereich sauber zu halten und alle Spielzeuge zügig aus dem Skimmer zu fischen. Oh, na ja, das klingt doch gar nicht so übel. Ja, es ist meist ziemlich unkompliziert. Butler, ich möchte sofort zu Chloes Traumhaus. Solange sich das Traumhaus nicht bewegt. Starte den Flugmodus. Viel Glück. Wir … der Wind!\" sprang sie durchs Fenster und nahm die Beine in die Hand. Die Bären jubelten und klatschen sich ab. Yeah, das war super. Babybeär und Mama Bär war begeistert von Papa Bär. Oh, du warst der Wahnsinn, Gerald. So richtig männlich und helenhaft und er nur: \"Oh, ja, danke Mama Be, du warst auch gut.\" Und wisst ihr was? Sie beschlossen das Häuser und Haferbrei und Klamotten und dieses ganze Zeug nichts mehr für sie war. Sie verkauften alles und zogen in den Wald und ernährten sich nur noch von frischen Bären und wildem Lachs und lebten glücklich und zufrieden. Und Ende noch mal. Nein.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8335
+  "src": "auto"
  },
  "LQuVDNAuBdk": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-07T05:02:23+00:00",
+  "checked": "2026-11-10T15:52:14+00:00",
   "title": "Mascha und der Bär 👧🐻 Schneller, höher, stärker! 🏃‍♀️💪 Masha and the Bear",
   "duration": 2866,
   "published": "20261020",
@@ -13213,73 +13580,10 @@
   "spoken_v": 2,
   "pace": 78.8,
   "rare": 0.0728,
+  "var": 0.8327,
   "speech_s": 1077.0,
   "tokens": 1414,
   "kw": [
-   [
-    "bär",
-    "Hey Bär, ich habe gehört, dass es in den Bergen",
-    6,
-    14,
-    4.0,
-    17
-   ],
-   [
-    "schlittschuh",
-    "Wir werden Schlittschuh laaufen, egal wie.",
-    2620,
-    2626,
-    2.65,
-    3
-   ],
-   [
-    "schummeln",
-    "Damit das klar ist. schummeln verboten.",
-    573,
-    578,
-    2.95,
-    3
-   ],
-   [
-    "mach's",
-    "Ber! Hey, hörst du mich? Ich mach's nie",
-    2086,
-    2093,
-    3.24,
-    3
-   ],
-   [
-    "warze",
-    "mit Warze drauf? Oh, ich denke, ich habe keine Lust mehr",
-    1206,
-    1214,
-    2.66,
-    2
-   ],
-   [
-    "puck",
-    "Puck in die Mitte. Pass. Spitzentaktik.",
-    1271,
-    1277,
-    3.15,
-    2
-   ],
-   [
-    "hurra",
-    "Hurra! Hurra! B! Du hast das Rennen",
-    846,
-    852,
-    3.69,
-    3
-   ],
-   [
-    "hockey",
-    "Komm, wir spielen Hockey. Komm, wir",
-    1369,
-    1376,
-    3.7,
-    3
-   ],
    [
     "spielen",
     "Könnte ich nur gegen jemanden spielen,",
@@ -13287,14 +13591,6 @@
     1298,
     5.42,
     12
-   ],
-   [
-    "komm",
-    "Los, komm Na, siehst du, es funktioniert.",
-    715,
-    782,
-    4.91,
-    10
    ],
    [
     "bist",
@@ -13305,12 +13601,12 @@
     10
    ],
    [
-    "hey",
-    "Hey Bär, ich habe gehört, dass es in den Bergen",
-    6,
-    14,
-    4.93,
-    8
+    "komm",
+    "Los, komm Na, siehst du, es funktioniert.",
+    715,
+    782,
+    4.91,
+    10
    ],
    [
     "euch",
@@ -13321,34 +13617,130 @@
     8
    ],
    [
-    "weiter",
-    "Bär, komm weiter, nur noch ein bisschen.",
-    824,
-    831,
-    5.75,
-    7
-   ],
-   [
-    "los",
-    "Los, komm Na, siehst du, es funktioniert.",
-    715,
-    782,
-    5.26,
-    7
-   ],
-   [
-    "schnell",
-    "nervigen Hexenbesen. Schnell, bevor ich eine Riesen Nase mit Warze kriege.",
-    1227,
-    1235,
-    5.51,
+    "fliegen",
+    "fliegen? Ah. Ah,",
+    1003,
+    1010,
+    4.66,
     5
+   ],
+   [
+    "versprochen",
+    "Du hattest doch versprochen, dass du",
+    875,
+    881,
+    4.27,
+    5
+   ],
+   [
+    "baum",
+    "Bär, ein Baum, ein Baum. Komm schnell,",
+    2216,
+    2222,
+    4.62,
+    4
+   ],
+   [
+    "aha",
+    "Aha. ",
+    546,
+    559,
+    4.2,
+    4
+   ],
+   [
+    "bär",
+    "Hey Bär, ich habe gehört, dass es in den Bergen",
+    6,
+    14,
+    4.0,
+    17
+   ],
+   [
+    "hockey",
+    "Komm, wir spielen Hockey. Komm, wir",
+    1369,
+    1376,
+    3.7,
+    3
+   ],
+   [
+    "hurra",
+    "Hurra! Hurra! B! Du hast das Rennen",
+    846,
+    852,
+    3.69,
+    3
+   ],
+   [
+    "spielzeug",
+    "Spiel, bist du mein Spielzeug. Und wie spielt man das jetzt? Wie heißt",
+    195,
+    211,
+    4.13,
+    2
+   ],
+   [
+    "mach's",
+    "Ber! Hey, hörst du mich? Ich mach's nie",
+    2086,
+    2093,
+    3.24,
+    3
+   ],
+   [
+    "mhm",
+    "Mhm. H",
+    369,
+    408,
+    3.53,
+    2
+   ],
+   [
+    "besen",
+    "Gut. Gehor ist ganz wichtig, Besen. Und",
+    1031,
+    1041,
+    3.49,
+    2
+   ],
+   [
+    "rausholen",
+    "Kann mich nicht jemand hier rausholen?",
+    2310,
+    2316,
+    3.47,
+    2
+   ],
+   [
+    "schummeln",
+    "Damit das klar ist. schummeln verboten.",
+    573,
+    578,
+    2.95,
+    3
+   ],
+   [
+    "schlittschuh",
+    "Wir werden Schlittschuh laaufen, egal wie.",
+    2620,
+    2626,
+    2.65,
+    3
+   ],
+   [
+    "warze",
+    "mit Warze drauf? Oh, ich denke, ich habe keine Lust mehr",
+    1206,
+    1214,
+    2.66,
+    2
    ]
   ],
-  "tx": "Wow! Hey Bär, ich habe gehört, dass es in den Bergen noch Jetis geben könnte. Hey Jis, wo seid ihr? Yeah. Ah, könnt ihr nicht still sein? Oh, es hat eine angebissen bei beiden. Ja. ยึ เ Jetzt reicht. Du hast es nicht anders gewollt. Jetzt spielst du gegen mich. In Ordnung. Aber wenn ich das hier gewinne, Satz und Spiel, bist du mein Spielzeug. Und wie spielt man das jetzt? Wie heißt es? Äh Tennis. Ich bin fertig. Das Geheimnis des Sieges. Genau, das ist es. Das ist die Geheimwaffe. Wer am allerlautesten schreit, der gewinnt das Spiel. Ah! Oh! Im Gewinnen bin ich einfach die größte. Ich werde die Siegerin dieses Spiels sein. อ Mhm. H geschafft. Du bist mein Spielzeug. Oh, meine kleinen Zuckerpüppchen, meine süßen Zwillingsbabys. Fahr schneller. Könnt ihr mir mal verraten, was ihr beide da eigentlich macht? Ihr verhaltet euch wie zwei umgezogene Tierbabys. Jetzt reicht's aber. Wenn ihr herausfinden wollt, wer besser ist, dann durch einen Wettkampf. Ja, ein Radrenn. Bist du sicher? Ja. Ein Radrennen. Aha. Erzähl nicht sowas. Das ganze ist für mir ein Kinderspiel. Wollen wir wetten? Damit das klar ist. schummeln verboten. B hier ist ein Ersatzreifen. Los, komm Na, siehst du, es funktioniert. ึ Bär, komm weiter, nur noch ein bisschen. Hau in die Pedale. Bär, los, weiter, weiter. Du hast es gleich geschafft. Komm schon, du bist gleich am Ziel. Hurra! Hurra! B! Du hast das Rennen gewonnen. Nun zu dir, mein Freundchen. Du hast verloren. Du hattest doch versprochen, dass du nicht schummeln willst. Ja, ja, ja. 야 ึ Ah. Genau, den kann ich jetzt sehr gut gebrauchen. Damit werde ich sicher gewinnen. Huhu. So, hast du jetzt Angst, Häschen? Ich habe ihn einfach weggefickt. Was jetzt? Wollen wir zum Bärenhaus fliegen? Ah. Ah, kannst du nicht ein bisschen tiefer fliegen? Hör Geburt auf.",
+  "tx": "Wow! Hey Bär, ich habe gehört, dass es in den Bergen noch Jetis geben könnte. Hey Jis, wo seid ihr? Yeah. Ah, könnt ihr nicht still sein? Oh, es hat eine angebissen bei beiden. Ja. ยึ เ Jetzt reicht. Du hast es nicht anders gewollt. Jetzt spielst du gegen mich. In Ordnung. Aber wenn ich das hier gewinne, Satz und Spiel, bist du mein Spielzeug. Und wie spielt man das jetzt? Wie heißt es? Äh Tennis. Ich bin fertig. Das Geheimnis des Sieges. Genau, das ist es. Das ist die Geheimwaffe. Wer am allerlautesten schreit, der gewinnt das Spiel. Ah! Oh! Im Gewinnen bin ich einfach die größte. Ich werde … Tierbabys. Jetzt reicht's aber. Wenn ihr herausfinden wollt, wer besser ist, dann durch einen Wettkampf. Ja, ein Radrenn. Bist du sicher? Ja. Ein Radrennen. Aha. Erzähl nicht sowas. Das ganze ist für mir ein Kinderspiel. Wollen wir wetten? Damit das klar ist. schummeln verboten. B hier ist ein Ersatzreifen. Los, komm Na, siehst du, es funktioniert. ึ Bär, komm weiter, nur noch ein bisschen. Hau in die Pedale. Bär, los, weiter, weiter. Du hast es gleich geschafft. Komm schon, du bist gleich am Ziel. Hurra! Hurra! B! Du hast das Rennen gewonnen. Nun zu dir, mein Freundchen. Du hast verloren. … Bärenhaus fliegen? Ah. Ah, kannst du nicht ein bisschen tiefer fliegen? Hör Geburt auf. Ich habe gesagt aufhören. Stopp. Gut. Gehor ist ganz wichtig, Besen. Und jetzt fliegen wir ganz langsam weiter. Oh, ich bin eine super gute Fliegerin. Zum Bärenhaus. Los geht's. Oh je, ich will auch die haben. Oi, Der Heck Enwesen. Bär, sag mal, soll das heißen, dass man sich, wenn man auf solchen Besen fliegt, automatisch in eine Hexe verwandelt? Bekomme ich dann auch so eine große Nase mit Warze drauf? Oh, ich denke, ich habe keine Lust mehr zu fliegen. Ich habe gesagt, ich habe keine Lust mehr zu … jetzt fliege ich nie wieder. Pass nach links. Zurück nach rechts. Schuss, Tor. Puck in die Mitte. Pass. Spitzentaktik. Tor. Das Tempo erhöht sich. Schuss, Tor! Schuss und gleich noch mal! Juhu! Und zum relsten Mal bin ich Hockeymeisterin des Hauses. Könnte ich nur gegen jemanden spielen, der besser ist als ihr? Ich gehe raus und werde Champion des Waldes. Hallo. Hallo. Wer will Eishockey gegen mich spielen? Hallo, spielen wir Eishockey? Traurig. Hallo Jungs, wollt ihr mit mir spielen? Als ob ich mit euch spielen will. Bär, wach auf. Die Hockeymeisterschaften beginnen. Ich habe kein, der mit … Vergangenheit. H Was soll die Prügelei? Seid ihr bescheuert? Das kann man doch nicht Eishockeypielen nennen. Ups. Ich habe euch wohl nicht überzeugt. Geht weg. Lasst mich in Ruhe, ihrenen Ritter. War's das? Gebt sie auf. Dann kommt mit erhobenen Händen rauf, einer nach dem anderen. Und nun legt schön brav eure Waffen nieder. Sind das alle? Soll ich euch dich suchen? Fällt euch denn keine andere Lösung ein, als euren Streit mit Waffen auszufechten? Dann werde ich es euch beibringen. Aber erst wird rangeklotzt. ว้าว ฮู้ Yeah. Du bist wach. Sieh doch nur, wie schön sie jetzt spielen, ohne sich … mal versuchen. Ich weiß, wir nehmen sie mit zum Bären. kann es bestimmt wieder ganz machen. Bist du zu Hause? Oh, er ist nicht da. Komm los, wir suchen das passende Werkzeug im Schuppen. Na sowas. Was ist das für ein schöner Tisch? Wo bist du denn gewesen? Komm mal rauf hier, schnell. Tada! Pass auf, es ist wirklich ganz einfach. Gehen wir. Wir können unser Spiel zu Ende spielen und dann bringen wir sie zurück und keiner wird irgendwas merken. M. Klicker klacker raus hier. Не. Mhm. Klapper kein gezoffel. А Ha, wer sagt's denn? Ich habe gewonnen. Ich habe gewonnen. Ich gehe den Bär … versprochen. Hilf mir. Ja, davon wird er aufwachen. Hm. Hm, wenn er niet, wird's gefährlich. Ähm, wir wollen nur ein bisschen, du weißt schon. Oh. Das ist einfach passiert. Ich wollte das doch gar nicht. Hurra! Es hat geschneit. Ich will Schlitten von Ja. Ups. Aha. Oh, erst da. Oh, warum kann der Bär so schnell fahren? Bär, ein Baum, ein Baum. Komm schnell, wir müssen ihm helfen. So's und den Rest kennst du ja. ว้าว Au! Ah, der gefällt mir. Das ist ja ein richtiger Rennschlitten. Aufhören! Vorsichtig! aufpassen. Kann mich nicht jemand hier rausholen? Wer? Hol mich hier raus. Ich kann … jemand hier rausholen? dreh weiter. Mehr nach links. Bär, der Baum Vorsicht. Bär, hey, hörst du mich? Ich mach's nie wieder. Versprochen. Hilf mir. Ich mach's nie wieder. Versprochen, Bär, versprochen. Ich würde dir auch meinen Gürtel schenken. Ich habe ja verdient. Hä? Und hop. Oh, das ist aber glatt hier. Oh, schön. Passt sie im Zirkus und kannst du mir das auch beibringen, bitte? Dann eben nicht. Oh, der Bär kann zeigen, wie es geht. Bär, das Ess rutschig. Ich kann darauf nicht Schlitschuh laufen. Oh, der Bär schläft ja schon wieder. Immer musst du schlafen. Wach auf. Ah, mal sehen, … werden Schlittschuh laaufen, egal wie. Oi! Hey, hey, hey, aus dem Weg! Hm! Toll, er ist aufgewacht. Schlittchullaufen. Schlittchuhlaaufen. H. Hey, wo geht ihr denn hin? Ich will mit euch Schlitt laufen. Ihr könnt mich doch nicht einfach ganz allein auf dem Eis rumlaufen lassen. Und wenn ich ausrutsche und hinfalle? Ich bin hingefallen. Aua, aua. Oh, das tut weh. Das tut so weh. Wir werden bestimmt schlitzulaufen. Können wir jetzt endlich Schlittschuh laufen oder nicht? Der Teich erglänzt so weiß, denn endlich trägt das Eis. Die Großen wollen schnell nach Haus. Die Kinder finden es nett. Sie … doch nicht abseits stehen. Zieh die Schlittschuh an. Juhu, ich kann schlch laufen. เ Sen geraten. Wir insen. Musik und Tanz und Feuerwerk. Das Glück, das ist komplett. Wir reichen uns die Hände, der Kister nimmt kein Ende. Wir lachen und wir springen wie im schönsten Eispalat. Und wo bekomme ich meine Medaille? So, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amen.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8106
+  "src": "auto"
  },
  "1954XSo45hc": {
   "channel": "German Stories for Beginners",
@@ -17741,7 +18133,7 @@
  "NYpmdWJp2ZY": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-08T15:49:17+00:00",
+  "checked": "2026-11-10T15:30:02+00:00",
   "title": "#926 5 Kurzgeschichten zum Deutschlernen [Deutsch lernen durch Hören]Learn German with stories A2-B1",
   "duration": 582,
   "published": "20260616",
@@ -17914,7 +18306,8 @@
     2
    ]
   ],
-  "tx": "Schnäppchenjäger Laut gähnte Karl. Der Wecker läutete zu früh. Aber wenn er alles erledigen wollte, dann musste er jetzt aufstehen! Plötzlich spürte er die Energie in seinem Körper. Er freute sich auf den heutigen Tag! Im Badezimmerspiegel sah er seine großen Augenringe. Karl war gestern bis 1 Uhr früh wach gewesen, um alle Lebensmittelaktionen zu finden und alle Gutscheine aus den Broschüren auszuschneiden. Denn Karl ist ein wahrer Schnäppchenjäger! Um 6:30 verließ er schließlich das Haus. Mit seinem Auto fuhr er Richtung Stadt und hielt als erstes bei einem großen Supermarkt. Er legte Dosen von Ananas und Bohnen in seinem Einkaufswagen und Haferflocken und Tomatensauce. Das Gleiche machte er noch bei drei weiteren Supermärkten. Dann ging es endlich zu seinem Lieblingsteil – dem Flohmarkt! Karl brauchte dringend ein neues Nachtkästchen und neues Geschirr. Er geht aber jedes Wochenende auf den Flohmarkt: um zu sehen, was es gibt und um die besten Schnäppchen zu bekommen. Nach zwei Stunden hatte er ein Set mit Besteck und schöne alte Teller gefunden. Es gab nur ein Nachtkästchen, das Karl gar nicht gefiel. Dann musste er sein Glück nächstes Wochenende noch einmal versuchen! Fremdsprache Ich bin ein Fremdsprachen-Junkie. Ich habe schon in der Schule drei Fremdsprachen gelernt: Englisch, Französisch und Russisch. Diese Sprachen spreche ich auf hohem Niveau. Wenn ich jetzt in ein neues Land reise, dann lerne ich die Sprache. Na ja, ich lerne ein paar Sätze und Wörter. Und manchmal auch ein bisschen mehr als nur das! Manchmal passieren mir dann lustige Situationen. In Spanien habe ich mich sehr wohl gefühlt. Einen ganzen Monat bin ich dort gewesen. Weil Französisch ähnlich ist, habe ich sehr viel verstanden und konnte auch einiges sagen. Eines Tages haben wir Butter im Super",
+  "tx": "Schnäppchenjäger Laut gähnte Karl. Der Wecker läutete zu früh. Aber wenn er alles erledigen wollte, dann musste er jetzt aufstehen! Plötzlich spürte er die Energie in seinem Körper. Er freute sich auf den heutigen Tag! Im Badezimmerspiegel sah er seine großen Augenringe. Karl war gestern bis 1 Uhr früh wach gewesen, um alle Lebensmittelaktionen zu finden und alle Gutscheine aus den Broschüren auszuschneiden. Denn Karl ist ein wahrer Schnäppchenjäger! Um 6:30 verließ er schließlich das Haus. Mit seinem Auto fuhr er Richtung Stadt und hielt als erstes bei einem großen Supermarkt. Er legte Dosen … weiteren Supermärkten. Dann ging es endlich zu seinem Lieblingsteil – dem Flohmarkt! Karl brauchte dringend ein neues Nachtkästchen und neues Geschirr. Er geht aber jedes Wochenende auf den Flohmarkt: um zu sehen, was es gibt und um die besten Schnäppchen zu bekommen. Nach zwei Stunden hatte er ein Set mit Besteck und schöne alte Teller gefunden. Es gab nur ein Nachtkästchen, das Karl gar nicht gefiel. Dann musste er sein Glück nächstes Wochenende noch einmal versuchen! Fremdsprache Ich bin ein Fremdsprachen-Junkie. Ich habe schon in der Schule drei Fremdsprachen gelernt: Englisch, … ich die Sprache. Na ja, ich lerne ein paar Sätze und Wörter. Und manchmal auch ein bisschen mehr als nur das! Manchmal passieren mir dann lustige Situationen. In Spanien habe ich mich sehr wohl gefühlt. Einen ganzen Monat bin ich dort gewesen. Weil Französisch ähnlich ist, habe ich sehr viel verstanden und konnte auch einiges sagen. Eines Tages haben wir Butter im Supermarkt gesucht – und konnten sie nicht finden. Schließlich haben wir eine Verkäuferin gefragt. Doch sie konnte kein Englisch sprechen und hat uns nicht verstanden. Deshalb habe ich es mit meinen geringen Spanischkenntnissen … logisch? Also habe ich „burro, burro“ gesagt. Die Frau hat mich entsetzt angeschaut. Immer lauter habe ich das Wort gerufen. Ich habe ein Stück Brot mit der einen Hand geformt und das Streichen von Butter mit der anderen angedeutet. Letztendlich ist die Frau geflüchtet. Sie hatte Angst vor mir. Als ich im Wörterbuch nachgeschlagen habe, habe ich herausgefunden, dass „burro“ Esel heißt. Still und leise habe ich nach dem Wort für Butter gesucht und eine andere Angestellte um ihre Hilfe gefragt. Liebesschlösser Alex und Rebecca sind seit einem Jahr zusammen und haben eine romantische Idee. Um … Das Essen ist lecker und anschließend sind sie sehr satt. Doch jetzt kommt erst der romantische Teil des Abends. Hand in Hand spazieren sie durch die Stadt und freuen sich über die weihnachtliche Dekoration. Alex und Rebecca machen sich auf den Weg zu einer Brücke. Dort wollen sie ein Liebesschloss aufhängen! Auf der Brücke hängen schon sehr viele Liebesschlösser. Ihr Schloss haben sie selbst bunt angemalt. Darauf steht „Alex + Rebecca“ und „seit 02.12. 2019“. Als sie bei der Brücke ankommen, wollen sie den perfekten Platz finden. Direkt in der Mitte! Plötzlich entdeckt Rebecca ein … Wie sollen sie es dann aufhängen? Unmöglich. Alex ist gestresst und ärgert sich. Er hatte den Schlüssel eingesteckt. Wo hat er ihn nur hingegeben? Dann fängt Rebecca zu lachen an. „Ist doch egal“, sagt sie ihm und gibt ihm einen Kuss auf die Wange. Seitdem liegt das Liebesschloss als Dekoration in ihrer Wohnung. Nebenjob Hauptberuflich bin ich Lehrer an einer Grundschule. Ich unterrichte das Fach Deutsch. Mein Vollzeitjob besteht darin, jungen Schülern das Lesen und Schreiben beizubringen. Mir machen das Unterrichten und die Arbeit mit den Kindern sehr viel Spaß. Da ich gerne eine … suche ich mir einen Nebenjob. Bei einem Nebenjob verdient man nicht so viel, wie bei einem Hauptberuf, allerdings kann ich so genug Geld für die Reise sparen. Außerdem arbeitet man bei einem Nebenjob nur ein paar Tage in der Woche. Ich frage meine Freunde, ob sie eine Idee haben, wo ich noch arbeiten könnte. Eine Freundin von mir schlägt vor, ich könnte Nachhilfe geben. Ein Freund von mir meint, ich könnte als Babysitter arbeiten. Sind das gute Nebenjobs? Ich suche im Internet und finde viele Angebote und Vorschläge. Man kann überall etwas Geld dazuverdienen. Da ich schon in der Schule … Ich kann in einem Laden arbeiten. Ich habe noch nie in einem Geschäft gearbeitet. In der Nähe von meiner Wohnung braucht ein Laden neue Mitarbeiter. Das ist eine perfekte Gelegenheit! Ich gehe in den Laden, um zu fragen, wie viel Geld ich bekomme und ob ich dort arbeiten darf. Mit diesem Nebenjob kann ich 450 Euro im Monat verdienen und ich muss nur dreimal die Woche im Laden arbeiten. Ich arbeite an der Kasse und verkaufe den Kunden die Produkte. Das ist eine interessante Abwechslung zu meinem Hauptberuf. Ich lerne hier neue Dinge und rede mit vielen Menschen. Mir macht mein neuer … packt ihre Koffer. Heute fahren sie und ihre Klasse zusammen auf Klassenfahrt. Um 12 Uhr mittags treffen sich die Schüler und Lehrer auf dem Pausenhof. Dann kommt ein Bus. Die Kinder verstauen ihr Gepäck und verabschieden sich von ihren Eltern. Im Anschluss steigen alle voller Vorfreude in den Bus. Marie setzt sich neben ihre Freundin Lisa. Nach einigen Stunden sind sie an der Jugendherberge angekommen. Immer vier Schüler übernachten zusammen in einem Zimmer. Marie und Lisa schlafen zusammen in einem Raum. Am nächsten Tag gehen die Schüler mit ihren Lehrern wandern. Gemeinsam klettert die … Klassenfahrt gehen alle gemeinsam ins Schwimmbad. Am Abend haben Lisa und Marie gemeinsam Küchendienst. Sie müssen den Tisch für die Klasse decken. Am dritten Tag sind alle ganz traurig. Denn heute Abend wird die Klasse wieder nach Hause fahren. Doch davor gehen sie noch in den Kletterpark. Marie klettert bis an die Spitze. Nach dem Klettern fahren sie wieder in die Jugendherberge und packen ihre Koffer. Dann geht es zurück nach Hause. Marie freut sich, als sie ihre Eltern auf dem Pausenhof endlich wieder sieht. Aber sie ist auch ein bisschen traurig, dass die Klassenfahrt jetzt zu Ende ist.",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -20258,5 +20651,162 @@
   "gist": "w",
   "status": "ok",
   "src": "auto"
+ },
+ "KOK7-SkdORg": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-10T15:09:30+00:00",
+  "title": "tagesschau in Einfacher Sprache 19:00 Uhr, 09.11.2026",
+  "duration": 374,
+  "published": "20261109",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 124.5,
+  "rare": 0.0698,
+  "var": 0.8065,
+  "speech_s": 282.8,
+  "tokens": 587,
+  "kw": [
+   [
+    "nächsten",
+    "Und nun zur nächsten Nachricht. In dem Land Türkei",
+    137,
+    146,
+    5.3,
+    5
+   ],
+   [
+    "ddr",
+    "kurz DDR, im Osten. Die Menschen in der DDR waren nicht frei.",
+    270,
+    278,
+    4.8,
+    5
+   ],
+   [
+    "nachricht",
+    "Und nun zur 1. Nachricht. Der Bundespräsident",
+    34,
+    45,
+    4.8,
+    4
+   ],
+   [
+    "dort",
+    "Dort hat nämlich die Weltklimakonferenz begonnen.",
+    150,
+    155,
+    5.78,
+    3
+   ],
+   [
+    "mauer",
+    "Die DDR hatte eine Mauer gebaut.",
+    280,
+    284,
+    4.43,
+    6
+   ],
+   [
+    "klima",
+    "Die Teilnehmer beraten über das Klima auf der Welt.",
+    154,
+    159,
+    4.44,
+    3
+   ],
+   [
+    "türkei",
+    "Türkei: Beginn von Weltklimakonferenz. Gazastreifen: Tote nach Überschwemmungen.",
+    22,
+    30,
+    4.78,
+    2
+   ],
+   [
+    "wetter",
+    "Klima ist das Wetter in einem langen Zeitraum.",
+    158,
+    163,
+    4.76,
+    2
+   ],
+   [
+    "bundespräsident",
+    "Der Bundespräsident ist der ranghöchste Politiker von Deutschland.",
+    43,
+    48,
+    3.84,
+    3
+   ],
+   [
+    "untertitel",
+    "Untertitel: Norddeutscher Rundfunk 2026 Willkommen zur tagesschau in Einfacher Sprache.",
+    5,
+    14,
+    3.85,
+    2
+   ],
+   [
+    "tagesschau",
+    "Willkommen zur tagesschau in Einfacher Sprache.",
+    10,
+    14,
+    3.8,
+    2
+   ],
+   [
+    "merz",
+    "Hier ist Ilse Aigner mit Bundeskanzler Merz.",
+    80,
+    85,
+    3.66,
+    2
+   ],
+   [
+    "aigner",
+    "CDU: Aigner soll Bundespräsidentin werden. Türkei: Beginn von Weltklimakonferenz.",
+    18,
+    26,
+    3.26,
+    10
+   ],
+   [
+    "ilse",
+    "Ilse Aigner soll Bundespräsidentin werden. Sie ist auf dem Foto.",
+    70,
+    75,
+    3.59,
+    6
+   ],
+   [
+    "gazastreifen",
+    "Gazastreifen: Tote nach Überschwemmungen. 9. November: Gedenken an Mauerfall.",
+    26,
+    34,
+    3.12,
+    6
+   ],
+   [
+    "zelten",
+    "Deshalb wohnen viele Menschen im Gazastreifen in Zelten.",
+    217,
+    222,
+    3.48,
+    2
+   ],
+   [
+    "bundespräsidentin",
+    "CDU: Aigner soll Bundespräsidentin werden. Türkei: Beginn von Weltklimakonferenz.",
+    18,
+    26,
+    2.2,
+    4
+   ]
+  ],
+  "tx": "* Gong * Untertitel: Norddeutscher Rundfunk 2026 Willkommen zur tagesschau in Einfacher Sprache. Ich bin Susanne Holst und das sind unsere Nachrichten. CDU: Aigner soll Bundespräsidentin werden. Türkei: Beginn von Weltklimakonferenz. Gazastreifen: Tote nach Überschwemmungen. 9. November: Gedenken an Mauerfall. Und nun zur 1. Nachricht. Der Bundespräsident ist der ranghöchste Politiker von Deutschland. Er vertritt z.B. Deutschland in anderen Ländern auf der Welt. Und er muss jedes Gesetz in Deutschland unterschreiben. Sonst gilt das Gesetz nicht. Bald wird der Bundespräsident neu gewählt. Die Parteien CDU und CSU wollen dafür eine Frau. Das wurde jetzt beschlossen. Ilse Aigner soll Bundespräsidentin werden. Sie ist auf dem Foto. Wer ist Ilse Aigner? Dazu kommt jetzt ein Film. Hier ist Ilse Aigner mit Bundeskanzler Merz. Merz sagt: Wir von den Parteien CDU und CSU wollen, dass Aigner Bundespräsidentin wird. Sie ist dafür sehr gut geeignet. Ilse Aigner sagt: Ich möchte gerne eine Bundespräsidentin für alle Menschen in Deutschland sein. Ilse Aigner ist Politikerin aus dem Bundesland Bayern. Sie ist 61 Jahre alt. Aigner hat früher eine Ausbildung zur Elektrotechnikerin gemacht. Vor einigen Jahren war sie Ministerin in der Bundesregierung von Angela Merkel. Und hier könnte Aigner in Zukunft arbeiten: Im Bundespräsidialamt. Bisher waren nur Männer Bundespräsident von Deutschland. Ilse Aigner könnte die erste Frau werden. Ende Januar wird gewählt. Und nun zur nächsten Nachricht. In dem Land Türkei treffen sich gerade Politiker und Wissenschaftler aus vielen Ländern. Dort hat nämlich die Weltklimakonferenz begonnen. Die Teilnehmer beraten über das Klima auf der Welt. Klima ist das Wetter in einem langen Zeitraum. Wissenschaftler haben herausgefunden, das Klima wandelt, verändert sich. Das bedeutet, auf der Erde wird es wärmer. Das ist gefährlich für die Natur und für die Menschen. Deshalb sprechen die Teilnehmer auf der Weltklimakonferenz darüber, wie kann verhindert werden, dass es immer wärmer wird. Über Lösungen für das Problem wird auf der Weltklimakonferenz in den nächsten zwei Wochen beraten. Nun zur nächsten Nachricht. Der Gazastreifen ist neben dem Land Israel. Im Gazastreifen war lange Krieg. Israel hat dort gegen palästinensische Terroristen gekämpft. Sehr viele Häuser wurden durch den Krieg zerstört. Deshalb wohnen viele Menschen im Gazastreifen in Zelten. Jetzt hat es dort lange und viel geregnet. Dazu zeigen wir einen kurzen Film. Durch den Regen gibt es Überschwemmungen im Gazastreifen. Das Wasser ist bis in die Zelte von den Menschen gelaufen. Dabei sind auch Menschen ertrunken, also gestorben. Viele Menschen können jetzt nicht mehr in den Zelten wohnen. Mehr als eine Million Menschen im Gazastreifen haben kein Zuhause mehr. Und nun zur nächsten Nachricht. Deutschland war früher in zwei Länder geteilt. Es gab die Bundesrepublik Deutschland im Westen und die Deutsche Demokratische Republik, kurz DDR, im Osten. Die Menschen in der DDR waren nicht frei. Sie durften z.B. nicht überall hinreisen. Die DDR hatte eine Mauer gebaut. Die Mauer sieht man auf dem Foto. Die Menschen in der DDR sollten nicht in den anderen Teil von Deutschland gehen. Dagegen haben viele protestiert. Sie wollten ein anderes, freies Leben. Am 9. November 1989 sind viele Menschen zur Mauer gekommen. Die Polizei von der DDR hat die Menschen dann durchgelassen. Sie sind auf die Mauer geklettert und haben gefeiert. Das ist auf diesem Foto. Die Mauer hat die Menschen nicht mehr getrennt. Deshalb wird am 9. November an den Fall der Mauer in Deutschland erinnert. Und das waren unsere Nachrichten. Und jetzt kommt das Wetter. Im Süden, ganz unten, und im Osten, rechts von Deutschland, kann es Regen geben. Sonst ist es meist trocken. Es werden 4 bis 13 Grad. Das war die tagesschau in Einfacher Sprache. Tschüss, bis zum nächsten Mal. Copyright Untertitel: NDR 2026",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
  }
 }
