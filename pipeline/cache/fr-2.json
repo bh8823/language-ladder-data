@@ -659,136 +659,364 @@
  "7Y54wRdDcwU": {
   "channel": "Français Plus Facile",
   "lang": "fr",
-  "checked": "2026-11-01T16:06:28+00:00",
+  "checked": "2026-11-09T19:26:44+00:00",
   "title": "Learn French 🇫🇷 while I bake a tart",
   "duration": 636,
   "published": "20260914",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 130.4,
   "rare": 0.0233,
+  "var": 0.7515,
   "speech_s": 612.0,
   "tokens": 1330,
   "kw": [
    [
-    "pâtissière",
+    "vais",
+    "Alors, je vais sortir les ingrédients. Par contre, j'ai acheté la pâte parce que tu vois, je suis pas",
+    38,
+    47,
+    5.58,
+    34
+   ],
+   [
+    "voilà",
+    "donc j'ai l'habitude. En fait, je voyais très bien comment il faisait mais voilà, c'est pas grave.",
+    70,
+    77,
+    5.25,
+    15
+   ],
+   [
+    "vois",
+    "Alors, je vais sortir les ingrédients. Par contre, j'ai acheté la pâte parce que tu vois, je suis pas",
+    38,
+    47,
+    5.45,
+    14
+   ],
+   [
+    "puis",
+    "faire, c'est meilleur et puis euh je pense que je t'ai jamais dit ça. Euh mon père était pâtissier,",
+    60,
+    71,
+    5.67,
+    13
+   ],
+   [
+    "lait",
+    "hein. Tu as besoin de lait, un œuf, du sucre et un peu de farine. Donc on va la faire ensemble.",
+    114,
+    123,
+    4.61,
+    14
+   ],
+   [
+    "crème",
     "la crème pâtissière en attendant. Alors la crème pâtissière, c'est super facile,",
     109,
-    114
+    114,
+    4.39,
+    9
+   ],
+   [
+    "euh",
+    "chez moi. Euh j'ai besoin de place en général. Donc aujourd'hui, je vais pas faire la pâte.",
+    46,
+    53,
+    4.57,
+    7
+   ],
+   [
+    "jaune",
+    "j'ai besoin de deux œufs. Mais attention, il faut seulement le jaune. Le jaune d'œuf. Et je vais",
+    169,
+    179,
+    4.65,
+    6
    ],
    [
     "tarte",
     "on est invité pour un barbecue. Alors, j'ai envie de faire une tarte, une tarte aux poires.",
     28,
-    37
+    37,
+    3.9,
+    10
    ],
    [
-    "mesureur",
-    "j'ai 1 L de lait et puis j'ai un verre mesureur. C'est un verre qui sert à mesurer. On l'appelle",
-    132,
-    140
+    "farine",
+    "hein. Tu as besoin de lait, un œuf, du sucre et un peu de farine. Donc on va la faire ensemble.",
+    114,
+    123,
+    3.95,
+    4
    ],
    [
-    "nappage",
-    "ça s'appelle un nappage. C'est une sorte de couche qu'on va rajouter dessus. Et en fait,",
-    528,
-    537
+    "œuf",
+    "hein. Tu as besoin de lait, un œuf, du sucre et un peu de farine. Donc on va la faire ensemble.",
+    114,
+    123,
+    3.94,
+    4
+   ],
+   [
+    "pâte",
+    "Alors, je vais sortir les ingrédients. Par contre, j'ai acheté la pâte parce que tu vois, je suis pas",
+    38,
+    47,
+    4.1,
+    3
    ],
    [
     "casserole",
     "J'ai une petite casserole. Tu vois, c'est pas la peine de prendre une casserole énorme. Je",
     150,
-    157
+    157,
+    3.51,
+    4
+   ],
+   [
+    "gelée",
+    "pour la faire, il faut simplement de la confiture. Alors, soit de la gelée de pomme. Je n'en ai pas.",
+    536,
+    544,
+    3.59,
+    3
    ],
    [
     "poires",
     "on est invité pour un barbecue. Alors, j'ai envie de faire une tarte, une tarte aux poires.",
     28,
-    37
+    37,
+    3.21,
+    3
    ],
    [
-    "épaissir",
-    "va cuire avec la farine et la crème va épaissir. OK, le lait est bien prêt là, donc je vais verser",
-    340,
-    351
+    "consistance",
+    "monter dans le sens où elle va s'épaissir. Tu vois l'épaisseur là ? La consistance,",
+    393,
+    401,
+    3.37,
+    2
+   ],
+   [
+    "pâtissière",
+    "la crème pâtissière en attendant. Alors la crème pâtissière, c'est super facile,",
+    109,
+    114,
+    2.77,
+    4
    ],
    [
     "congelée",
     "Aujourd'hui, je vais faire avec une pâte achetée dans le commerce. Tu vois, elle est congelée. Mais",
     76,
-    85
+    85,
+    2.56,
+    2
+   ],
+   [
+    "épaissir",
+    "va cuire avec la farine et la crème va épaissir. OK, le lait est bien prêt là, donc je vais verser",
+    340,
+    351,
+    2.52,
+    2
+   ],
+   [
+    "nappage",
+    "ça s'appelle un nappage. C'est une sorte de couche qu'on va rajouter dessus. Et en fait,",
+    528,
+    537,
+    2.24,
+    2
    ]
   ],
-  "tx": "Bon, on est dimanche matin, je suis en week-end aux États-Unis et cet après-midi, on est invité, on est invité pour un barbecue. Alors, j'ai envie de faire une tarte, une tarte aux poires. Alors, je vais sortir les ingrédients. Par contre, j'ai acheté la pâte parce que tu vois, je suis pas chez moi. Euh j'ai besoin de place en général. Donc aujourd'hui, je vais pas faire la pâte. Je l'ai acheté hier. Euh, on verra. D'accord. Normalement, je la fais parce que c'est facile à faire, c'est meilleur et puis euh je pense que je t'ai jamais dit ça. Euh mon père était pâtissier, donc j'ai l'habitude. En fait, je voyais très bien comment il faisait mais voilà, c'est pas grave. Aujourd'hui, je vais faire avec une pâte achetée dans le commerce. Tu vois, elle est congelée. Mais ça devrait aller. Tu vois, j'enlève l'emballage. Ça, c'est un emballage en plastique. Donc ça, je l'enlève. Et puis ensuite, tu as du papier parchemin. Tu peux le garder si tu veux. Je vais voir si elle se déroule bien. Non, il faut que j'attende un petit peu parce qu'elle est congelée. Donc je vais la laisser là quelques minutes et puis je vais faire la la crème pâtissière en attendant. Alors la crème pâtissière, c'est super facile, hein. Tu as besoin de lait, un œuf, du sucre et un peu de farine. Donc on va la faire ensemble. Tu vas voir, c'est super simple. Alors, je vais commencer par faire chauffer le lait parce que la crème pâtissière, il faut la faire avec du lait chaud. Donc, tu vois là, j'ai 1 L de lait et puis j'ai un verre mesureur. C'est un verre qui sert à mesurer. On l'appelle le verre mesureur. J'ai besoin d'un demi-litre de lait. Donc, je vais verser le lait dans le verre. J'ai une petite casserole. Tu vois, c'est pas la peine de prendre une casserole énorme. Je verse le lait dans la casserol",
+  "tx": "Bon, on est dimanche matin, je suis en week-end aux États-Unis et cet après-midi, on est invité, on est invité pour un barbecue. Alors, j'ai envie de faire une tarte, une tarte aux poires. Alors, je vais sortir les ingrédients. Par contre, j'ai acheté la pâte parce que tu vois, je suis pas chez moi. Euh j'ai besoin de place en général. Donc aujourd'hui, je vais pas faire la pâte. Je l'ai acheté hier. Euh, on verra. D'accord. Normalement, je la fais parce que c'est facile à faire, c'est meilleur et puis euh je pense que je t'ai jamais dit ça. Euh mon père était pâtissier, donc j'ai l'habitude. … pas grave. Aujourd'hui, je vais faire avec une pâte achetée dans le commerce. Tu vois, elle est congelée. Mais ça devrait aller. Tu vois, j'enlève l'emballage. Ça, c'est un emballage en plastique. Donc ça, je l'enlève. Et puis ensuite, tu as du papier parchemin. Tu peux le garder si tu veux. Je vais voir si elle se déroule bien. Non, il faut que j'attende un petit peu parce qu'elle est congelée. Donc je vais la laisser là quelques minutes et puis je vais faire la la crème pâtissière en attendant. Alors la crème pâtissière, c'est super facile, hein. Tu as besoin de lait, un œuf, du sucre … c'est super simple. Alors, je vais commencer par faire chauffer le lait parce que la crème pâtissière, il faut la faire avec du lait chaud. Donc, tu vois là, j'ai 1 L de lait et puis j'ai un verre mesureur. C'est un verre qui sert à mesurer. On l'appelle le verre mesureur. J'ai besoin d'un demi-litre de lait. Donc, je vais verser le lait dans le verre. J'ai une petite casserole. Tu vois, c'est pas la peine de prendre une casserole énorme. Je verse le lait dans la casserole et puis je vais le faire chauffer. Pendant que le lait chauffe, je vais m'occuper de la préparation qui va servir à … il faut seulement le jaune. Le jaune d'œuf. Et je vais enlever le blanc d'œuf. Donc regarde, tu peux euh casser la coquille comme ça et puis hop. Tu vois, je vais faire deux ou trois transvasements. Ça veut dire que je vais passer d'un côté à l'autre pour récupérer seulement le jaune. Moi, je veux le jaune. Voilà. Donc je mets le jaune dans le grand bol et puis je fais la même chose avec le deuxième œuf. Donc le jaune euh c'est seulement pour la recette d'aujourd'hui mais le blanc euh je peux l'utiliser pour autre chose hein. Je vais voir ce que je vais faire avec. C'est la partie qui … une demi-cupe. En anglais, c'est une demi-cope. En France, en français, on va dire 100 g de farine. Tu vois, je fais pas trop de crème parce que c'est juste pour une tarte. D'accord ? C'est pas la peine d'en faire trop. Tu vois, je regarde à peu près. Voilà, ça c'est bien. C'est presque une demi-cup. Donc je vais mettre ça dans mon bol et puis je vais aussi mettre le sucre. Pour le sucre, c'est la même chose. Je dois mettre à peu près une demi cupe. Bon, je vais verser le sucre et je verse comme ça. Je vais utiliser le fouet pour mélanger tout ça. Ça c'est un fouet, un fouet de cuisine, … un petit peu de lait. Voilà, je fouette pour que ce soit bien lisse. Faut pas que ça fasse plein de petits morceaux. Les petits morceaux qu'on voit, ça s'appelle des grumeaux en français. Donc regarde, tu vois là, elle commence à être bien lisse et la partie importante, ça va être quand je mélange le lait. Pourquoi ? Parce que le lait va cuire avec la farine et la crème va épaissir. OK, le lait est bien prêt là, donc je vais verser le lait. Alors, cette partie-là, elle est facile mais ce n'est pas fini, hein. Je dois remettre le lait sur le feu avec la préparation. Donc là, je mélange bien. … maintenant ça va cuire. Donc je remets ça dans la casserole. Hop. Et là, il faut absolument rester à côté et tourner comme ça jusqu'à ce que ça épaisse. Tu vois, pour l'instant c'est liquide, hein, mais elle va monter. On dit que ça monte. La crème va monter dans le sens où elle va s'épaissir. Tu vois l'épaisseur là ? La consistance, on a vraiment une sorte de crème. Voilà. Et puis surtout, je vais la laisser reposer parce que maintenant je vais m'occuper de la tarte, le fond de tarte plus les poires que je vais couper. Ma crème pâtissière. Alors, regarde, elle a fait une petite peau mais … un. Et puis maintenant, je vais pouvoir mettre mes poires. Voilà. Alors, je vais la mettre au four pendant 30 minutes. Voilà. Je connais pas bien ce four mais ça devrait aller. Je vais surveiller de temps en temps. Ah, ça y est, la tarte est prête. Je vais prendre ça pour pas me brûler. Je vais ouvrir. Hop ! Je pense que c'est bien là. Regarde, elle est pas trop cuite mais elle est cuite. Voilà. Il y a des gens qui aiment bien quand c'est un petit peu plus cuit, mais bon. Et ça c'est la mini. Voilà. Donc deux tartes. Super. Je ferme le four. Je l'arrête. Alors, j'ai envie de te dire ça y … On va attendre quelques minutes. J'aime bien que la tarte soit très brillante dessus. Alors, ce qu'on va faire, ça s'appelle un nappage. C'est une sorte de couche qu'on va rajouter dessus. Et en fait, pour la faire, il faut simplement de la confiture. Alors, soit de la gelée de pomme. Je n'en ai pas. Et quand on n'a pas de gelée de pomme, il faut simplement prendre de l'abricot. Voilà. Donc je vais mettre la gelée. Tu vois ? J'essaie de prendre là où il y a pas de peau et puis je vais la faire je vais la faire chauffer quelques minutes avec un petit peu d'eau. Donc tu vois, je mets un … qu'une fois à ébullition, en fait, il y a le sucre qui donne une certaine consistance. Donc, tu vois, j'ai un pinceau de cuisine et je vais pouvoir passer sur la tarte et ça va lui donner du brillant. Et puis ça va aussi donner un petit goût sucré de nappage et elle va rester brillante. C'est ça qui est bien. Donc voilà, la tarte est prête. Elle est bien brillante. J'ai envie de la manger tout de suite mais non, c'est pour les invités. Donc on va partir tout à l'heure pour le barbecue et puis je pense que je te dirai dans les commentaires si elle était très bonne. Voilà, à bientôt. Ciao !",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7686
+  "src": "cc"
  },
  "_6ojfLzpIIk": {
   "channel": "French Breakdown",
   "lang": "fr",
-  "checked": "2026-11-01T16:08:41+00:00",
+  "checked": "2026-11-09T19:28:11+00:00",
   "title": "Expliquer mes symptômes et comprendre le médecin en français | French Listening Practice (B1)",
   "duration": 4633,
   "published": "20260923",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 110.6,
   "rare": 0.0313,
+  "var": 0.8419,
   "speech_s": 4608.7,
   "tokens": 8495,
   "kw": [
    [
+    "peux",
+    "Si tu ignores la date, tu peux utiliser un événement comme repère.",
+    1267,
+    1274,
+    5.61,
+    74
+   ],
+   [
+    "avais",
+    "J'avais aussi moins faim que d'habitude, et certains aliments me donnaient la nausée.",
+    80,
+    87,
+    5.53,
+    34
+   ],
+   [
+    "puis",
+    "Puis la douleur m'a réveillée pendant la nuit.",
+    126,
+    132,
+    5.67,
+    32
+   ],
+   [
+    "chaque",
+    "Je suis une apprenante canadienne, et j'utilise le français chaque jour depuis mon installation à Toulouse.",
+    6,
+    15,
+    5.6,
+    31
+   ],
+   [
+    "phrase",
+    "Cette phrase exprimait mon inquiétude, mais elle apportait très peu d'informations.",
+    232,
+    240,
+    4.65,
+    33
+   ],
+   [
+    "douleur",
+    "Six mois après mon arrivée à Toulouse, je me suis réveillée avec une douleur étrange au ventre.",
+    61,
+    69,
+    4.61,
+    31
+   ],
+   [
+    "professionnel",
+    "Le diagnostic appartenait au professionnel de santé.",
+    781,
+    787,
+    4.65,
+    27
+   ],
+   [
+    "ordonnance",
+    "Cette histoire commence avec beaucoup de stress, une ordonnance confuse et plusieurs questions que je n'osais pas poser.",
+    21,
+    31,
+    4.21,
+    18
+   ],
+   [
     "symptôme",
     "Cette phrase donnait déjà le symptôme, le début et le moment principal.",
     1011,
-    1018
+    1018,
+    3.6,
+    14
    ],
    [
-    "pharmacienne",
-    "Une pharmacienne m'a accueillie et a lu l'ordonnance.",
-    513,
-    519
+    "médicament",
+    "Je connaissais les mots « ventre », « douleur » et « médicament ».",
+    96,
+    105,
+    4.08,
+    12
    ],
    [
-    "consigne",
-    "Elle m'a conseillé de rappeler le cabinet pour vérifier cette consigne précise.",
-    616,
-    623
+    "gêne",
+    "La première gêne avait commencé quatre jours auparavant, après le déjeuner.",
+    270,
+    278,
+    4.19,
+    11
    ],
    [
-    "reformule",
-    "Si la phrase contient une interdiction, je la reformule toujours.",
-    2294,
-    2301
-   ],
-   [
-    "reformulation",
-    "Cette reformulation révélait les malentendus avant mon départ.",
-    863,
-    869
-   ],
-   [
-    "docteure",
-    "Le médecin s'appelait docteure Martin. Elle m'a demandé ce qui m'amenait.",
-    210,
-    219
-   ],
-   [
-    "pharmacien",
-    "J'ai découvert comment décrire mes symptômes clairement et vérifier les instructions d'un médecin ou d'un pharmacien.",
-    30,
-    39
+    "pharmacie",
+    "Je suis entrée dans la première pharmacie ouverte.",
+    508,
+    514,
+    4.01,
+    11
    ],
    [
     "toux",
     "Quelques semaines plus tard, j'ai eu besoin d'un nouveau rendez-vous pour une toux persistante.",
     981,
-    989
+    989,
+    3.51,
+    8
+   ],
+   [
+    "comprenais",
+    "Je ne comprenais pas encore qu'une consultation n'était pas une épreuve de langue.",
+    153,
+    160,
+    3.52,
+    6
+   ],
+   [
+    "clarification",
+    "Le cinquième jour, entraîne les phrases de clarification.",
+    3548,
+    3555,
+    3.16,
+    5
+   ],
+   [
+    "signifiait",
+    "Cette fois, j'ai demandé ce que ce mot signifiait dans mon cas.",
+    2012,
+    2019,
+    3.44,
+    4
+   ],
+   [
+    "pharmacienne",
+    "Une pharmacienne m'a accueillie et a lu l'ordonnance.",
+    513,
+    519,
+    2.71,
+    6
+   ],
+   [
+    "docteure",
+    "Le médecin s'appelait docteure Martin. Elle m'a demandé ce qui m'amenait.",
+    210,
+    219,
+    2.63,
+    5
+   ],
+   [
+    "reformulation",
+    "Cette reformulation révélait les malentendus avant mon départ.",
+    863,
+    869,
+    2.55,
+    5
+   ],
+   [
+    "reformule",
+    "Si la phrase contient une interdiction, je la reformule toujours.",
+    2294,
+    2301,
+    2.47,
+    5
    ]
   ],
-  "tx": "Bonjour, je m'appelle Maya, et je suis heureuse de te retrouver. Je suis une apprenante canadienne, et j'utilise le français chaque jour depuis mon installation à Toulouse. Aujourd'hui, je vais raconter ma première consultation médicale entièrement en français. Cette histoire commence avec beaucoup de stress, une ordonnance confuse et plusieurs questions que je n'osais pas poser. J'ai découvert comment décrire mes symptômes clairement et vérifier les instructions d'un médecin ou d'un pharmacien. Avant cette histoire, écris en commentaire la ville et le pays d'où tu regardes cette vidéo. Tu es peut-être à Toulouse, en France. Tu nous regardes peut-être depuis Montréal, au Canada. Tu apprends peut-être le français à Dakar, au Sénégal. Six mois après mon arrivée à Toulouse, je me suis réveillée avec une douleur étrange au ventre. Ce n'était pas une douleur très forte, mais elle revenait depuis plusieurs jours. Elle apparaissait surtout après le déjeuner et durait parfois une heure. J'avais aussi moins faim que d'habitude, et certains aliments me donnaient la nausée. Au début, je n'ai pas voulu prendre rendez-vous. Je pensais que mon français médical était trop faible. Je connaissais les mots « ventre », « douleur » et « médicament ». Pourtant, je ne savais pas expliquer le mouvement précis de cette douleur. Je ne savais pas non plus comment parler de sa fréquence. Chaque matin, je me promettais d'appeler un cabinet médical. Chaque après-midi, je repoussais cette décision au lendemain. Puis la douleur m'a réveillée pendant la nuit. Elle restait modérée, mais cette répétition m'inquiétait. Le lendemain, une collègue m'a aidée à trouver un rendez-vous. Elle m'a proposé de m'accompagner, mais j'ai refusé par fierté. Je voulais prouver que je pouvais gérer seule une conversatio",
+  "tx": "Bonjour, je m'appelle Maya, et je suis heureuse de te retrouver. Je suis une apprenante canadienne, et j'utilise le français chaque jour depuis mon installation à Toulouse. Aujourd'hui, je vais raconter ma première consultation médicale entièrement en français. Cette histoire commence avec beaucoup de stress, une ordonnance confuse et plusieurs questions que je n'osais pas poser. J'ai découvert comment décrire mes symptômes clairement et vérifier les instructions d'un médecin ou d'un pharmacien. Avant cette histoire, écris en commentaire la ville et le pays d'où tu regardes cette vidéo. Tu es … l'ordonnance sous la pluie. Les mots écrits semblaient plus difficiles que ceux entendus. Je reconnaissais le nom du médicament, mais pas toutes les abréviations. Je suis entrée dans la première pharmacie ouverte. Une pharmacienne m'a accueillie et a lu l'ordonnance. Elle a sorti une boîte, puis elle a commencé à expliquer le traitement. Elle a utilisé les mots « posologie », « prise » et « à jeun ». Je connaissais « dose », mais je ne comprenais pas la différence avec « posologie ». Je pensais qu'une « prise » parlait peut-être d'une prise électrique. L'expression « à jeun » ne … partie contenait ma raison principale. J'ai écrit : « Je tousse depuis huit jours, surtout la nuit. » Cette phrase donnait déjà le symptôme, le début et le moment principal. La deuxième partie décrivait l'évolution. La toux avait commencé légèrement, puis elle était devenue plus fréquente. Je dormais moins bien depuis trois nuits. Je pouvais parler sans difficulté, mais les longues phrases déclenchaient parfois la toux. Je n'ai pas ajouté une interprétation personnelle. J'ai seulement noté ce que je pouvais observer. La troisième partie rassemblait les autres signes. J'avais le nez … zone, puis décris-la avec une phrase. La sensation apporte une autre différence utile. Une douleur peut brûler, piquer, serrer ou battre. Elle peut ressembler à une pression ou à une crampe. Tu n'as pas besoin de connaître tous ces mots. Tu peux utiliser une comparaison simple et honnête. « J'ai l'impression qu'une ceinture serre mon front » crée une image précise. « Cela brûle quand j'avale » relie la sensation à une action. « Ça pique seulement quand je bouge » situe aussi une circonstance. Si aucun mot ne convient, dis-le clairement. Tu peux expliquer que la sensation est difficile à … précise peut éviter plusieurs minutes de confusion. Tu peux dire : « Que veut dire ce mot, s'il vous plaît ? » Tu peux demander : « Est-ce que vous pouvez l'expliquer plus simplement ? » Si le nom concerne un examen, demande aussi comment il se déroule. Tu peux vérifier où il aura lieu et comment t'y préparer. Quand la vitesse pose problème, nomme directement ce besoin. « Pourriez-vous parler un peu plus lentement, s'il vous plaît ? » fonctionne très bien. Tu peux ajouter que tu apprends encore le français. La personne comprend alors que le contenu compte davantage que ton niveau. Si un … la peau ou utilisé autrement. Une forme liquide peut demander un instrument de mesure adapté. Je demande une démonstration quand le dispositif est nouveau. Je peux dire : « Pouvez-vous me montrer comment l'utiliser ? » Puis je refais le geste devant le professionnel si c'est possible. Cette répétition transforme une explication abstraite en action visible. Lors d'un autre passage, la pharmacienne m'a remis une boîte différente de celle attendue. Le nom commercial ne correspondait pas au nom que j'avais mémorisé. J'ai cru qu'une erreur venait de se produire. Au lieu de partir inquiète, … Ne décris pas seulement le produit par sa couleur. Cette précision permet au professionnel de vérifier correctement. La sixième erreur consiste à mémoriser la consigne sans la reformuler. Une phrase entendue paraît souvent claire dans le cabinet. Puis les détails disparaissent sur le chemin du retour. Avant de partir, explique ce que tu vas faire en premier. Continue avec le rythme, la durée et la prochaine étape. Si ton résumé contient une erreur, elle devient visible immédiatement. La septième erreur consiste à vouloir traiter plusieurs problèmes sans priorité. J'arrivais parfois … cartes. La première demande de parler plus lentement. La deuxième demande de répéter une partie précise. La troisième demande une explication avec des mots plus simples. La quatrième demande d'écrire un nom ou une consigne. La cinquième annonce que tu vas reformuler. La sixième demande qui contacter en cas de doute. Mélange les cartes et prononce chaque phrase sans préparation. Ton but est de rendre ces phrases disponibles sous stress. Tu peux aussi varier la politesse sans changer le sens. Utilise toujours « vous » avec un professionnel inconnu, sauf invitation contraire. Écoute ta voix et … le lieu concerné. Une septième question apparaît après le retour à la maison. Que faire si les notes ne sont plus claires ? Ne choisis pas une interprétation au hasard. Relis l'ordonnance, l'étiquette et la notice conservée avec la boîte. Puis contacte le professionnel approprié pour vérifier le point incertain. Prépare une question courte avant d'appeler. Indique le nom exact du produit et la consigne qui te pose problème. Tu gagneras du temps et tu réduiras le risque de confusion. Une huitième question concerne les informations trouvées en ligne. Elles peuvent t'aider à comprendre un … Tu peux redire le plan jusqu'à ce que chaque action soit claire. Pour ton prochain entraînement, prends une seule feuille. Écris un symptôme fictif, son début, son évolution et son effet quotidien. Ajoute deux informations de contexte et trois questions utiles. Présente ensuite cette fiche à voix haute en moins de deux minutes. Termine avec la phrase « Si j'ai bien compris » et résume un plan imaginaire. Puis écris en commentaire la phrase de clarification que tu veux mémoriser aujourd'hui. Cette phrase deviendra ton premier outil disponible quand une conversation importante commencera.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.831
+  "src": "cc"
  },
  "qUC8g_CiYrM": {
   "channel": "StoryTalks French",
@@ -1780,69 +2008,135 @@
  "og9R-J6bduk": {
   "channel": "Easy French",
   "lang": "fr",
-  "checked": "2026-11-01T16:19:14+00:00",
+  "checked": "2026-11-09T19:37:43+00:00",
   "title": "The French Describe Their Best Friend (B1 Listening Comprehension)",
   "duration": 646,
   "published": "20261010",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 170.3,
   "rare": 0.0149,
+  "var": 0.7625,
   "speech_s": 614.4,
   "tokens": 1744,
   "kw": [
    [
-    "cetera",
-    "vie et cetera. Mais euh on reste",
-    425,
-    431
+    "comment",
+    "Et comment vous vous êtes ?",
+    121,
+    126,
+    5.74,
+    15
+   ],
+   [
+    "meilleur",
+    "de nous parler de leur meilleur ami. Et",
+    6,
+    12,
+    5.36,
+    14
+   ],
+   [
+    "voilà",
+    "Voilà. Et vous êtes une bande de ?",
+    37,
+    42,
+    5.25,
+    14
+   ],
+   [
+    "ami",
+    "de nous parler de leur meilleur ami. Et",
+    6,
+    12,
+    5.09,
+    12
+   ],
+   [
+    "euh",
+    "Euh mon ami meilleur ami, j'en ai deux,",
+    30,
+    35,
+    4.57,
+    64
+   ],
+   [
+    "lycée",
+    "C'est ça. Du lycée, on s'est rencontrés",
+    39,
+    43,
+    4.75,
+    6
+   ],
+   [
+    "partager",
+    "continue de partager ça ensemble et",
+    480,
+    485,
+    4.69,
+    3
+   ],
+   [
+    "justement",
+    "donc justement on va au théâtre de la",
+    212,
+    216,
+    4.68,
+    3
    ],
    [
     "évolue",
     "on évolue pas mal dans la même",
     470,
-    476
-   ],
-   [
-    "repérage",
-    "près ça que je viens en repérage",
-    201,
-    207
-   ],
-   [
-    "idéaux",
-    "même si les idéaux changent euh il y a",
-    559,
-    566
-   ],
-   [
-    "rencontrés",
-    "C'est ça. Du lycée, on s'est rencontrés",
-    39,
-    43
+    476,
+    4.06,
+    5
    ],
    [
     "entretenir",
     "Pour entretenir votre ? On reste en contact euh via les réseaux",
     309,
-    316
+    316,
+    4.13,
+    4
    ],
    [
     "phases",
     "toutes les phases de la vie, des phases",
     73,
-    78
+    78,
+    4.04,
+    3
    ],
    [
-    "convictions",
-    "les mêmes convictions euh même si c'est",
-    495,
-    501
+    "rencontrés",
+    "C'est ça. Du lycée, on s'est rencontrés",
+    39,
+    43,
+    3.94,
+    3
+   ],
+   [
+    "repérage",
+    "près ça que je viens en repérage",
+    201,
+    207,
+    3.26,
+    2
+   ],
+   [
+    "cetera",
+    "vie et cetera. Mais euh on reste",
+    425,
+    431,
+    2.48,
+    2
    ]
   ],
-  "tx": "Bonjour les amis et bienvenue dans un nouvel épisode d'Easy French. Aujourd'hui, on va demander aux passants de nous parler de leur meilleur ami. Et restez bien jusqu'à la fin de cette vidéo parce qu'on va revoir ensemble 10 expressions intéressantes, pertinentes qui ont été utilisées dans cet épisode. C'est ! Qui est votre meilleur ? Euh mon ami meilleur ami, j'en ai deux, trois même. Ils s'appellent Émilien, Thibault et Julien. OK. Voilà. Et vous êtes une bande de ? C'est ça. Du lycée, on s'est rencontrés au lycée. Et donc vous êtes amis depuis combien de ? Euh ça va faire du coup euh 5-6 ans. Ouais. Quelque chose comme ça. Qui est votre meilleur ? Mon meilleur ami s'appelle Yanis. C'est euh quelqu'un que j'ai rencontré au lycée et euh c'est avec les années on a passé énormément de temps ensemble, on avait un groupe de potes, mais euh notre amitié s'est liée particulièrement tous les deux et c'est un peu devenu mon mon frère de cœur. Vraiment, on a une belle relation, euh on est toujours là l'un pour l'autre et euh on s'est connus dans toutes les phases de la vie, des phases très agréables, des phases très douloureuses et on s'est pas lâchés, ça fait plus de 7 ans maintenant et c'est beau. Qui est votre meilleur ? Euh c'est une fille. Euh vous voulez son ? Elle s'appelle Sana. Euh voilà. Et vous la connaissez depuis combien de ? Euh alors, on se connaît depuis 10 ans environ. On s'est connus on s'est rencontrés à la fac. Et vous êtes devenus amis tout de ? Euh oui, tout à fait. On avait un peu plus ou moins les mêmes on était dans le même domaine et tout donc oui oui oui, ça s'est passé vraiment rapidement et tout de suite. Une amie que j'ai depuis que je suis au lycée donc ça va faire presque 10 ans. Voilà. Elle s'appelle ? Clara. Voilà. Et comment vous vous êtes ? O",
+  "tx": "Bonjour les amis et bienvenue dans un nouvel épisode d'Easy French. Aujourd'hui, on va demander aux passants de nous parler de leur meilleur ami. Et restez bien jusqu'à la fin de cette vidéo parce qu'on va revoir ensemble 10 expressions intéressantes, pertinentes qui ont été utilisées dans cet épisode. C'est ! Qui est votre meilleur ? Euh mon ami meilleur ami, j'en ai deux, trois même. Ils s'appellent Émilien, Thibault et Julien. OK. Voilà. Et vous êtes une bande de ? C'est ça. Du lycée, on s'est rencontrés au lycée. Et donc vous êtes amis depuis combien de ? Euh ça va faire du coup euh 5-6 … frère de cœur. Vraiment, on a une belle relation, euh on est toujours là l'un pour l'autre et euh on s'est connus dans toutes les phases de la vie, des phases très agréables, des phases très douloureuses et on s'est pas lâchés, ça fait plus de 7 ans maintenant et c'est beau. Qui est votre meilleur ? Euh c'est une fille. Euh vous voulez son ? Elle s'appelle Sana. Euh voilà. Et vous la connaissez depuis combien de ? Euh alors, on se connaît depuis 10 ans environ. On s'est connus on s'est rencontrés à la fac. Et vous êtes devenus amis tout de ? Euh oui, tout à fait. On avait un peu plus ou … comment est-ce que vous la ? Euh, une princesse. ? Euh, parce que c'est ce qu'elle a toujours voulu être même enfant et euh c'était son rêve d'enfant et je trouve qu'elle l'incarne bien avec toutes ses qualités et tout ce qui va avec voilà. Mon meilleur ami euh c'est un monsieur qui est sur Triel. Oui. C'est une ? C'est une ville. Merci bien. Et vous vous connaissez depuis combien de ? Euh, depuis 2 3 ans maximum maximum. Comment est-ce que vous vous êtes ? Sur le marché. Sur le marché en fait ça s'appelle le marché aux flans. Très connu à Triel et on a on a sympathisé, on était sur la … vos meilleurs ? Euh, bah c'est des personnes que je connais depuis très longtemps. Très très longtemps. Ah si, par contre, j'ai une amie d'enfance mais que je vois d'assez près ça que je viens en repérage euh que je vois ce weekend parce qu'elle habite encore Bruxelles. Moi je suis de là-bas mais j'habite Paris depuis 77. Et donc elle vient ce weekend à Paris donc justement on va au théâtre de la Gaîté là samedi, je venais un peu en repérage pas qu'on perde de temps. Euh, donc oui, on peut considérer je l'ai connue euh j'avais 11 ans. J'en ai 68 donc voilà. Mais euh je me suis fait plein … la plateforme Easy French. Pour non seulement reconnaître des mots quand vous les entendez, mais aussi pour vraiment les apprendre, les mémoriser et les utiliser en contexte. Et vous pouvez essayer la plateforme Easy French gratuitement pendant 7 jours et retrouver les exercices liés à cette vidéo en passant par le lien qui est dans la description de cet épisode. Et comment vous les ? Euh drôle. Sympa. Marrant. Euh non sinon euh très très joyeux, on a une forme une très bonne alchimie ensemble et tout donc euh voilà. Et comment vous faites pour rester en ? Pour entretenir votre ? On reste … que moi donc euh bon ça on on on est bien je trouve. C'est on est bien. Et euh qu'est-ce que vous faites pour entretenir votre ? Ah non on se voit on a on habite pas très loin l'un de l'autre donc euh voilà. Ouais. OK. Et donc vous arrivez à vous voir ? Et puis il y a des bons bars à Triel donc donc il y a pas de problème. Non non, c'est vrai. Comment je la ? Mon Dieu euh Oh, elle est toujours positive, elle est très très active, elle fait plein de trucs. Elle a pris sa retraite il y a pas longtemps mais elle a pris sa retraite là, elle avait 72 ans quoi. Donc c'est vous dire. Donc elle fait … Comment on a ? Ben téléphone dans un premier temps euh Voilà, on s'est jamais vraiment perdu de vue en fait. Euh alors c'est une fille euh très gentille. Euh elle elle aime aider les gens beaucoup d'ailleurs elle travaille dans ça. Et euh le trois trois mots vous avez dit donc euh bah est jolie. OK. Et comment vous faites pour rester amies, pour entretenir votre ? Alors euh on se voit pas beaucoup malheureusement avec les contraintes du travail, de la vie et cetera. Mais euh on reste toujours en contact euh pendant les occasions et cetera. On se voit allez 10 ans une fois tous les deux … tous les deux changé, évolué. Comment vous faites pour quand même rester amis même si vous avez peut-être des avis qui sont différents des Bah pour pour le coup euh non justement, on évolue pas mal dans la même direction. Euh on a on a deux emplois très différents mais euh on a les mêmes passions, le jeu vidéo euh donc donc on continue de partager ça ensemble et sinon sur tout ce qui est politique, on évolue dans le même sens donc euh ça c'est très agréable. OK. Vous pensez que c'est important quand même de partager un peu Je pense que je suis même sûr que oui effectivement, faut faut … entretenir toutes ces amitiés au fil du ? J'ai l'impression que ça se fait naturellement. Ça se fait à plus ou moins naturellement avec les gens qu'on continue de croiser euh dans le dans le dans les parcours de vie quoi. Vous vous parlez au téléphone, vous vous ? Bah ouais, on se tient au courant quand on peut se voir, c'est surtout ça. Dès que quelqu'un passe dans la ville de l'autre, on s'écrit quoi. C'est euh une c'est quelque chose qu'on essaie de garder. Donc même si on s'écrit pas pendant des mois, des années euh ah bah on peut ça peut arriver quoi. Comment on fait pour rester ami … on va dire. Mon meilleur ami s'appelle Yanis. On se connaît depuis 10 ans. On s'est rencontré à l'école. On se voit tous les 2 mois. C'est devenu mon frère de cœur. On reste en contact grâce aux réseaux sociaux. On ne se voit pas tous les quatre matins. Elle est toujours positive. Il est calme, sage et drôle. On partage les mêmes convictions politiques. Merci les amis d'avoir regardé cet épisode. On espère qu'il vous a plu. À votre tour maintenant de nous dire en commentaire comment est votre meilleur ami. Décrivez-le en trois mots en français. Et on vous dit à la semaine prochaine.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7593
+  "src": "auto"
  },
  "nDCVXdenDII": {
   "channel": "Easy French",
@@ -1914,61 +2208,167 @@
  "IA5MVA0WTvQ": {
   "channel": "Français Authentique",
   "lang": "fr",
-  "checked": "2026-10-31T16:23:42+00:00",
+  "checked": "2026-11-09T19:40:12+00:00",
   "title": "5 choses à savoir avant d'aller au supermarché en France",
   "duration": 697,
   "published": "20261012",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 178.0,
   "rare": 0.0322,
+  "var": 0.7924,
   "speech_s": 669.0,
   "tokens": 1985,
   "kw": [
    [
-    "caissière",
-    "tu prends tes fruits et légumes, tu les donnes à la caissière, et la caissière les pèse",
-    162
+    "tes",
+    "tu dois peser toi-même tes fruits et tes légumes. Alors, ce n'est pas toujours le cas ; parfois,",
+    156,
+    163,
+    5.45,
+    14
+   ],
+   [
+    "français",
+    "français. Aujourd'hui, je vais te présenter cinq choses à savoir avant d'aller dans un supermarché",
+    21,
+    29,
+    5.78,
+    7
+   ],
+   [
+    "chose",
+    "La première chose à savoir, c'est qu'en France, tu ne trouveras pas de médicaments dans un",
+    40,
+    47,
+    5.7,
+    7
+   ],
+   [
+    "pays",
+    "supermarché. Et ça, pour beaucoup d'étrangers, c'est surprenant. Dans de nombreux pays, on peut",
+    46,
+    54,
+    5.79,
+    6
+   ],
+   [
+    "caisse",
+    "Tu attends ton ticket de caisse, mais personne ne te le donne. Bienvenue dans un supermarché",
+    15,
+    22,
+    4.53,
+    10
+   ],
+   [
+    "médicaments",
+    "Tu cherches des médicaments, mais tu n'en trouves pas. Tu prends des tomates,",
+    5,
+    10,
+    4.42,
+    9
+   ],
+   [
+    "lait",
+    "Une autre surprise pour certains, c'est le lait. Le lait frais, en France, il est bien",
+    351,
+    358,
+    4.61,
+    8
+   ],
+   [
+    "température",
+    "les trouver. Parce qu'en France, ils sont tout simplement à température ambiante, hors du frigo.",
+    283,
+    290,
+    4.61,
+    7
    ],
    [
     "supermarché",
     "Salut ! Imagine tu es en France et tu entres dans un supermarché.",
-    0
-   ],
-   [
-    "réfrigérateur",
-    "France, les œufs sont vendus en dehors du réfrigérateur. Donc, si tu arrives et que tu",
-    270
-   ],
-   [
-    "ambiante",
-    "les trouver. Parce qu'en France, ils sont tout simplement à température ambiante, hors du frigo.",
-    283
+    0,
+    6,
+    3.87,
+    12
    ],
    [
     "ticket",
     "Tu attends ton ticket de caisse, mais personne ne te le donne. Bienvenue dans un supermarché",
-    15
+    15,
+    22,
+    4.01,
+    9
+   ],
+   [
+    "œufs",
+    "mais tu oublies de les peser. Tu cherches des œufs au rayon frais, mais ils n'y sont pas.",
+    9,
+    16,
+    4.17,
+    8
    ],
    [
     "peser",
     "mais tu oublies de les peser. Tu cherches des œufs au rayon frais, mais ils n'y sont pas.",
-    9
+    9,
+    16,
+    3.85,
+    6
    ],
    [
-    "jetaient",
-    "les jetaient par terre, les mettaient dans leurs poches et, du coup, on gaspillait du papier,",
-    515
+    "caissière",
+    "tu prends tes fruits et légumes, tu les donnes à la caissière, et la caissière les pèse",
+    162,
+    169,
+    3.26,
+    7
+   ],
+   [
+    "ambiante",
+    "les trouver. Parce qu'en France, ils sont tout simplement à température ambiante, hors du frigo.",
+    283,
+    290,
+    3.47,
+    5
+   ],
+   [
+    "réfrigérateur",
+    "France, les œufs sont vendus en dehors du réfrigérateur. Donc, si tu arrives et que tu",
+    270,
+    279,
+    3.27,
+    5
+   ],
+   [
+    "bananes",
+    "c'est simple : tu prends tes pommes, tes bananes, tes courgettes, tes tomates, tu les mets à chaque",
+    174,
+    182,
+    3.57,
+    2
    ],
    [
     "bloques",
     "bloques la caisse. Parfois, elle peut les mesurer, mais c'est rare. Quand c'est décidé que ce soit",
-    222
+    222,
+    229,
+    2.77,
+    2
+   ],
+   [
+    "jetaient",
+    "les jetaient par terre, les mettaient dans leurs poches et, du coup, on gaspillait du papier,",
+    515,
+    522,
+    2.77,
+    2
    ]
   ],
-  "tx": "Salut ! Imagine tu es en France et tu entres dans un supermarché. Tu cherches des médicaments, mais tu n'en trouves pas. Tu prends des tomates, mais tu oublies de les peser. Tu cherches des œufs au rayon frais, mais ils n'y sont pas. Tu attends ton ticket de caisse, mais personne ne te le donne. Bienvenue dans un supermarché français. Aujourd'hui, je vais te présenter cinq choses à savoir avant d'aller dans un supermarché en France. Ce ne sont pas forcément des choses uniques au monde, mais elles surprennent beaucoup d'étrangers qui se rendent pour la première fois dans un supermarché français. La première chose à savoir, c'est qu'en France, tu ne trouveras pas de médicaments dans un supermarché. Et ça, pour beaucoup d'étrangers, c'est surprenant. Dans de nombreux pays, on peut acheter des médicaments comme le paracétamol, l'ibuprofène, des médicaments contre le rhume, directement au supermarché. En France, non. Même pour les médicaments très courants, il faut aller à la pharmacie. Pourquoi ? Tout simplement parce qu'en France, le médicament est très encadré. Il est considéré comme un produit de santé et pas comme un produit de consommation. Il doit donc être vendu sous la responsabilité d'un pharmacien qui a fait des études pour pouvoir le faire. Et même la vente de médicaments en ligne, elle est réservée aux pharmacies autorisées. Donc, si tu es en France et que tu vas au supermarché pour trouver quelque chose pour soigner le mal de tête, tu ne trouveras rien. Tu trouveras des vitamines, des compléments alimentaires, des pansements, mais pas de médicaments. Pour ça, il faut que tu cherches les fameuses croix vertes. Quand la croix verte est allumée au niveau d'une pharmacie, ça veut dire que la pharmacie est ouverte. Donc, si tu es dans un supermarché en France et que",
+  "tx": "Salut ! Imagine tu es en France et tu entres dans un supermarché. Tu cherches des médicaments, mais tu n'en trouves pas. Tu prends des tomates, mais tu oublies de les peser. Tu cherches des œufs au rayon frais, mais ils n'y sont pas. Tu attends ton ticket de caisse, mais personne ne te le donne. Bienvenue dans un supermarché français. Aujourd'hui, je vais te présenter cinq choses à savoir avant d'aller dans un supermarché en France. Ce ne sont pas forcément des choses uniques au monde, mais elles surprennent beaucoup d'étrangers qui se rendent pour la première fois dans un supermarché … pas comme un produit de consommation. Il doit donc être vendu sous la responsabilité d'un pharmacien qui a fait des études pour pouvoir le faire. Et même la vente de médicaments en ligne, elle est réservée aux pharmacies autorisées. Donc, si tu es en France et que tu vas au supermarché pour trouver quelque chose pour soigner le mal de tête, tu ne trouveras rien. Tu trouveras des vitamines, des compléments alimentaires, des pansements, mais pas de médicaments. Pour ça, il faut que tu cherches les fameuses croix vertes. Quand la croix verte est allumée au niveau d'une pharmacie, ça veut dire … une pharmacie. Deuxième chose à savoir, dans beaucoup de supermarchés français, tu dois peser toi-même tes fruits et tes légumes. Alors, ce n'est pas toujours le cas ; parfois, tu prends tes fruits et légumes, tu les donnes à la caissière, et la caissière les pèse avant que tu payes. Mais, dans de nombreux magasins, c'est toi qui dois les peser. Alors, c'est simple : tu prends tes pommes, tes bananes, tes courgettes, tes tomates, tu les mets à chaque fois dans un sac différent, tu te rends sur la petite balance du magasin, tu choisis à l'écran de quels fruits ou légumes il s'agit ; si tu … tu bloques la caisse. Parfois, elle peut les mesurer, mais c'est rare. Quand c'est décidé que ce soit à toi de le faire, elle te renvoie, et toi, tu bloques la caisse, et c'est assez gênant. Il m'est d'ailleurs déjà arrivé d'avoir bloqué la caisse, j'étais très gêné, et il m'est aussi arrivé de devoir attendre parce que quelqu'un bloquait la caisse, et c'est toujours frustrant. Donc, si tu vas dans un supermarché en France, le mieux est d'observer. Tu regardes : est-ce qu'il y a une balance ? Que font les gens ? Est-ce qu'ils mettent les fruits dans leur caddie ou est-ce qu'ils les … ambiante, hors du frigo. Pour ceux qui viennent d'un pays dans lequel les œufs sont toujours réfrigérés, ça peut paraître étrange. Je sais que certains se disent même « mais est-ce que mes œufs ne vont pas devenir mauvais s'ils sont stockés à température ambiante ? » Donc, non, ce n'est pas de la négligence, rassure-toi. En France et en Europe en général, on ne lave pas les œufs avant de les vendre. Ils gardent donc leur protection naturelle autour de la coquille. Et grâce à cette protection, ils peuvent être vendus à température ambiante. Dans d'autres pays, comme aux États-Unis par … frais au réfrigérateur. Mais en France, il y a aussi du lait qu'on appelle « UHT », comme ultra-haute température. C'est du lait qui, comme son nom l'indique, a été chauffé à une température très élevée pour tuer toutes les bactéries. Et du coup, ce lait-là, il est conservé à température ambiante. Tant que la bouteille n'est pas ouverte, il peut rester hors du frigo. Et là encore, ceux qui sont habitués dans leur pays à n'avoir du lait que dans le rayon frais peuvent être perdus en se disant : mais où est le lait ici ? Quatrième chose à savoir, là c'est plutôt une question … mais ce n'est pas garanti. Le commerce est très, très encadré en France, et, en général, le repos hebdomadaire commence le dimanche à 13 h. Donc, si tu arrives en France un dimanche, surtout l'après-midi, ne t'attends pas à trouver facilement un supermarché dans lequel tu pourras acheter de l'eau, du lait ou du café. Regarde à l'avance, sur Internet, peut-être, s'il y a un supermarché qui est ouvert autour de l'endroit où tu vas rester. Cinquième et dernière chose à savoir, celle-là, elle est plus récente, mais plutôt anecdotique. Même les gens qui connaissent bien la France ne sont pas … changement ? Tout simplement pour des raisons écologiques et de gaspillage. Avant, on imprimait tous les tickets automatiquement. Les gens les prenaient, les regardaient souvent pas, les chiffonnaient, les jetaient par terre, les mettaient dans leurs poches et, du coup, on gaspillait du papier, de l'encre et il fallait, en plus, ramasser tous les tickets que les gens jetaient par terre. Entre parenthèses, je trouve ça complètement fou et un manque de civilité, un manque d'éducation terrible de jeter son ticket par terre. Ça, c'est une autre histoire. Donc, maintenant, ce qu'on se dit, et … Par contre, tu es aussi libre de dire non. Et l'idée, ici, c'est de ne pas être surpris, je ne voudrais pas que tu te retrouves à la caisse en attendant, tu attends ton ticket en regardant la caissière ou le caissier pendant que la caissière passe à l'autre client. Je ne veux pas que tu aies ce moment un peu gênant, donc n'attends pas ton ticket si tu le veux, tu le demandes. Donc, voilà, j'espère que ça t'a plu. Si c'est le cas, tu peux le laisser en laissant un petit « j'aime ». Et tu l'as probablement vu à l'écran tout à l'heure, nous avons rouvert les inscriptions à l'Académie Française … pour t'entraîner sur tous les aspects théoriques du français, pouvoir faire des dictées, pouvoir faire partie d'un club de lecture, et bien sûr, tu choisis, t'es pas obligé de tout faire, il y a énormément de ressources, mais on te demande pas de tout consommer. Si ça t'intéresse, suis le premier lien dans la description, avant que les inscriptions ne ferment. Merci d'avoir été avec moi aujourd'hui, tu peux aussi t'abonner à la chaîne YouTube de Français Authentique en activant les notifications, et moi, je te dis à très bientôt pour du nouveau contenu en Français Authentique. Salut !",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8026
+  "src": "cc"
  },
  "ns6cOxGYwQc": {
   "channel": "Français Authentique",
@@ -3009,61 +3409,175 @@
  "gd4N7p61Xc4": {
   "channel": "Frenchy Tales",
   "lang": "fr",
-  "checked": "2026-10-31T16:08:22+00:00",
+  "checked": "2026-11-09T19:25:42+00:00",
   "title": "I'm a Nurse ❤️ | Learn French with Stories | French Listening A1–A2 Practice",
   "duration": 2461,
   "published": "20261029",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 103.2,
   "rare": 0.0248,
+  "var": 0.8156,
   "speech_s": 2410.9,
   "tokens": 4147,
   "kw": [
    [
-    "murmuré",
-    "lundi dernier, une patiente âgée m'a pris la main et m'a murmuré. Emma, ta mère n'a jamais arrêté",
-    28
+    "mère",
+    "Il y a huit ans, ma mère a disparu. Je pensais qu'elle nous avait quitté pour toujours. Mais",
+    19,
+    29,
+    5.45,
+    34
    ],
    [
-    "ema",
-    "pas vous donner son adresse sans sa permission. Je comprenais. S'il vous plaît, dites-lui qu'ema",
-    1210
+    "pendant",
+    "maman nous a dit qu'elle devait partir dans une autre ville pendant quelques jours. Je",
+    158,
+    166,
+    5.67,
+    24
+   ],
+   [
+    "femme",
+    "Quand j'avais ans, maman a commencé à aider une femme âgée qui s'appelait Madeleine.",
+    139,
+    149,
+    5.59,
+    21
+   ],
+   [
+    "avais",
+    "de te chercher. Puis elle m'a montré une photo que je n'avais jamais vu. Pour expliquer pourquoi ces",
+    38,
+    49,
+    5.53,
+    17
+   ],
+   [
+    "maman",
+    "Quand j'avais 10 ans, j'avais une petite mallette de médecin en jouet. Un soir, maman est rentrée",
+    74,
+    86,
+    4.74,
+    35
+   ],
+   [
+    "signifie",
+    "Cela signifie qu'Emma travaille dans un hôpital et soigne les patients. Maintenant,",
+    1886,
+    1896,
+    4.73,
+    13
+   ],
+   [
+    "regardé",
+    "m'appelle Emma Laurent. La femme a regardé mon badge avec attention. Laurent, a-t-elle répété,",
+    351,
+    363,
+    4.48,
+    11
+   ],
+   [
+    "fier",
+    "je suis fier de toi. Des larmes ont coulé sur ses joues. Tu l'as gardé pendant toutes ces années,",
+    1661,
+    1675,
+    4.54,
+    10
    ],
    [
     "infirmière",
     "Je m'appelle Emma Laurent, j'ai 32 ans et je travaille comme infirmière à Tour en France.",
-    10
-   ],
-   [
-    "répétez",
-    "répétez. Emma travaille comme infirmière. Notre deuxème expression est disparaître.",
-    1895
-   ],
-   [
-    "courageuse",
-    "sois courageuse, je suis fière de toi.\" Je l'ai gardé dans une boîte en bois.",
-    129
+    10,
+    19,
+    4.04,
+    21
    ],
    [
     "fière",
     "sois courageuse, je suis fière de toi.\" Je l'ai gardé dans une boîte en bois.",
-    129
+    129,
+    139,
+    4.14,
+    9
    ],
    [
-    "soigne",
-    "une infirmière. Une infirmière est une femme qui soigne les personnes malades. Dans notre histoire,",
-    1855
+    "serré",
+    "Madeleine m'a serré la main parce que quelqu'un a caché les autres. Avant que je puisse lui demander",
+    459,
+    469,
+    4.02,
+    6
+   ],
+   [
+    "assise",
+    "elle avait l'air effrayée. Emma, ferme la porte, s'il te plaît. Je me suis assise à",
+    596,
+    606,
+    4.18,
+    5
+   ],
+   [
+    "courageuse",
+    "sois courageuse, je suis fière de toi.\" Je l'ai gardé dans une boîte en bois.",
+    129,
+    139,
+    3.56,
+    5
    ],
    [
     "secoué",
     "moi. Elle a choisi de partir, a dit Luc. Non, ai-je répondu. Elle nous aime. Luc a secoué la",
-    210
+    210,
+    225,
+    3.4,
+    3
+   ],
+   [
+    "badge",
+    "m'appelle Emma Laurent. La femme a regardé mon badge avec attention. Laurent, a-t-elle répété,",
+    351,
+    363,
+    3.53,
+    2
+   ],
+   [
+    "embrassé",
+    "Est-ce que je serai une vraie infirmière un jour ? Elle m'a embrassé sur le front. J'en suis sûr.",
+    108,
+    120,
+    3.51,
+    2
+   ],
+   [
+    "murmuré",
+    "lundi dernier, une patiente âgée m'a pris la main et m'a murmuré. Emma, ta mère n'a jamais arrêté",
+    28,
+    39,
+    2.68,
+    8
+   ],
+   [
+    "répétez",
+    "répétez. Emma travaille comme infirmière. Notre deuxème expression est disparaître.",
+    1895,
+    1911,
+    2.98,
+    7
+   ],
+   [
+    "ema",
+    "pas vous donner son adresse sans sa permission. Je comprenais. S'il vous plaît, dites-lui qu'ema",
+    1210,
+    1220,
+    2.83,
+    7
    ]
   ],
-  "tx": "Welcome to French Tales. Make your learning journey fun and exciting with engaging stories. Je m'appelle Emma Laurent, j'ai 32 ans et je travaille comme infirmière à Tour en France. Il y a huit ans, ma mère a disparu. Je pensais qu'elle nous avait quitté pour toujours. Mais lundi dernier, une patiente âgée m'a pris la main et m'a murmuré. Emma, ta mère n'a jamais arrêté de te chercher. Puis elle m'a montré une photo que je n'avais jamais vu. Pour expliquer pourquoi ces mots ont changé ma vie, je dois commencer par mon enfance. Ma mère s'appelait Claire. Elle a élevé seul mon grand frère Luc et moi après le départ de notre père. Elle faisait le ménage dans des bureaux et rentraient souvent fatiguée, mais elle trouvait toujours du temps pour nous. Quand j'avais 10 ans, j'avais une petite mallette de médecin en jouet. Un soir, maman est rentrée avec un mal de tête. Je l'ai couverte avec une couverture et j'ai pris mon thermomètre en jouet. Ne bouge pas, ai-je dit, je suis ton infirmière. Elle a rit. Alors, je suis entre de bonnes mains. Est-ce que je serai une vraie infirmière un jour ? Elle m'a embrassé sur le front. J'en suis sûr. Chaque matin, maman mettait un petit mot dans mon cartable. Mon préféré disait \"Sois gentille, sois courageuse, je suis fière de toi.\" Je l'ai gardé dans une boîte en bois. Quand j'avais ans, maman a commencé à aider une femme âgée qui s'appelait Madeleine. Elle préparait les repas, faisait le ménage et aidait Madeleine à faire ses courses. Un lundi, maman nous a dit qu'elle devait partir dans une autre ville pendant quelques jours. Je serai bientôt de retour, a-t-elle promis, mais elle n'est jamais revenue. Au début, Luc et moi l'appelions tous les jours. Son téléphone était éteint. Nous avons contacté la police et demandé de l'aide à ses amis",
+  "tx": "Welcome to French Tales. Make your learning journey fun and exciting with engaging stories. Je m'appelle Emma Laurent, j'ai 32 ans et je travaille comme infirmière à Tour en France. Il y a huit ans, ma mère a disparu. Je pensais qu'elle nous avait quitté pour toujours. Mais lundi dernier, une patiente âgée m'a pris la main et m'a murmuré. Emma, ta mère n'a jamais arrêté de te chercher. Puis elle m'a montré une photo que je n'avais jamais vu. Pour expliquer pourquoi ces mots ont changé ma vie, je dois commencer par mon enfance. Ma mère s'appelait Claire. Elle a élevé seul mon grand frère Luc … mes études, les autres étudiants ont fêté leur réussite avec leur famille. Moi, je suis rentré seule chez moi. J'ai ouvert ma boîte en bois et j'ai relu son petit mot. Maman, ai-je murmuré, j'ai réussi. Je suis devenue infirmière. Six ans plus tard, j'aimais toujours mon travail. J'aidais les patients qui avaient peur. J'écoutais leurs inquiétudes et j'essayais de les faire sourire. Mais quand je rentrais dans mon appartement le soir, le silence me faisait mal. Un vendredi, ma responsable m'a proposé de passer un entretien pour un poste d'infirmière responsable. Tu as beaucoup travaillé, … la couverture de Madeleine et je me suis dirigée vers la porte. Emma m'a-t-elle appelé doucement. Je me suis retournée. Reviens demain. J'ai quelque chose qui appartient à ta mère. Maman ! dit Thomas d'un ton sévère. Je suis sortie dans le couloir en tremblant. Pendant h ans, j'avais cru que maman avait choisi de nous quitter. Maintenant, je savais que quelqu'un nous avait caché ses lettres. Mais qui pourquoi ? Ce soir-là, j'ai ouvert ma boîte en bois et j'ai pris le petit mot de maman. Sois courageuse, ai-je lu ? Le lendemain, je retournerai dans la chambre de Madeleine. Je ne savais pas … regardé sans comprendre. Quelle lettre ? Maman disait qu'elle était malade. Elle voulait que nous allions la voir. Elle t'avait donné une adresse. Il a hoché la tête. J'ai senti mon cœur se briser. Tu savais où elle était ? J'étais en colère, Emma. Je pensais qu'elle nous avait abandonné. J'ai déchiré la lettre. J'ai reculé d'un pas. Pendant 8 ans, je l'ai cherché. Tu m'as vu pleurer et tu n'as rien dit. Je suis désolé. Tu étais la seule personne en qui j'avais confiance. J'ai quitté son appartement en pleurant. Pour la première fois, je me suis sentie complètement seule. Pendant les jours … remarqué mon visage fatigué. Est-ce que ça va ma petite ? Je me suis forcée à sourire. Oui, vous inquiétez pas. Elle m'a pris la main. Ma fille me manque. Elle habite loin. Est-ce qu'elle sait qu'elle vous manque ? La femme a secoué la tête. Alors dites-le lui s'il vous plaît, ai-je murmuré. Elle attend peut-être de vos nouvelles. Après avoir quitté sa chambre, j'ai pleuré dans la salle de repos du personnel. Plus tard, Madeleine a demandé à me voir. Emma, je me suis souvenue de quelque chose. Je me suis assise à côté d'elle. Qu'est-ce que c'est ? Ma mère m'a envoyé une fois une photo d'une … garde une photo de vous et de votre frère près de son lit depuis des années. Je l'ai remercié et j'ai raccroché. Pendant longtemps, je suis restée assise en silence. Puis j'ai pris mon téléphone et j'ai appelé Luc. Il a répondu immédiatement. Emma, j'ai retrouvé maman. Il y a eu un silence. Elle est vivante, a-t-il murmuré. Oui, elle veut nous voir. Lux s'est mise à pleurer. Emma, je suis vraiment désolée. J'avais encore mal à cause de ce qu'il avait fait. Mais je savais qu'il avait souffert lui aussi. Je suis encore en colère contre toi, Luc\", ai-je dit. Mais c'est notre mère, nous … fille, a-t-elle murmuré, tu es là. J'ai commencé à pleurer contre son épaule. Je pensais que tu nous avais quitté. Non, ma chérie, jamais. J'ai essayé de rentrer à la maison. Je sais maman, je le sais maintenant. Luc se tenait à quelques pas de nous. Maman l'a regardé. Luc, il s'est mis à pleurer. Je suis désolé maman, j'aurais dû répondre à ta lettre. Elle lui a tendu la main. Tu étais jeune et tu avais peur. Il s'est agenouillé à côté d'elle. Je pensais que tu ne nous aimais plus. Maman l'a serré contre elle. Je n'ai jamais cessé de vous aimer, ni l'un ni l'autre. Pendant longtemps, nous … Pendant des années, j'avais aidé les autres à se sentir en sécurité. et aimé. Mais maintenant quand ma longue journée se terminait, quelqu'un m'attendait, moi aussi. Ma mère était de retour à la maison et cette fois je pouvais lui raconter ma journée. Maintenant, c'est l'heure du vocabulaire. Apprenons sep mots et expressions utiles en français tiré de l'histoire d'Emma. Écoutez attentivement et essayez de répéter chaque mot ou chaque phrase à voix haute. Notre premier mot est une infirmière. Une infirmière est une femme qui soigne les personnes malades. Dans notre histoire, Emma travaille … difficiles. Emma rencontre beaucoup de difficultés pendant qu'elle cherche sa mère. Elle perd une occasion importante pour sa carrière et dépense ses économies. Mais elle continue à chercher clair. Voici une phrase simple en français. Je ne vais pas abandonner. Cela signifie que je vais continuer à essayer même si c'est difficile. Maintenant, répétez. Je ne vais pas abandonner. Notre 6e expression. est être fier ou fier de quelqu'un. Être fier ou fier de quelqu'un signifie être heureux et admiratif de ce qu'une personne a accompli. On utilise fier pour un homme et fier pour une femme. Dans … qu'Emma est devenue infirmière, elle a réalisé son rêve d'enfance. Excellent travail. Et voilà, c'est la fin de l'histoire d'Ema. Et vous, est-ce que vous pardonneriez à Luc d'avoir caché la lettre de leur mère pendant 8 ans ? Partagez votre avis dans les commentaires et si l'histoire d'Ema vous a touché le cœur, découvrez celle d'Élise, une femme qui a arrêté de jouer du piano après un terrible accident. ans plus tard, sa fille révèle un secret qui pourrait tout changer. Cliquez sur la vidéo qui apparaît à l'écran pour découvrir son histoire. Subscribe and keep learning through stories.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8434
+  "src": "cc"
  },
  "cSvC_aYvoAg": {
   "channel": "Français avec Pierre",
@@ -20157,81 +20671,18 @@
  "JrCfOzeWsgs": {
   "channel": "Le Monde",
   "lang": "fr",
-  "checked": "2026-11-03T04:41:09+00:00",
-  "title": "On a réussi à filmer ce que ChatGPT vous cache",
+  "checked": "2026-11-09T19:35:52+00:00",
+  "title": "LE projet de trop qui a renforcé la défaite de Trump | Midterms",
   "duration": 1647,
   "published": "20261101",
   "spoken": "fr",
   "spoken_v": 2,
   "pace": 275.7,
   "rare": 0.0349,
+  "var": 0.6343,
   "speech_s": 1307.7,
   "tokens": 6009,
   "kw": [
-   [
-    "centers",
-    "de data centers au monde. <i>Et ce n'est qu'un</i> <i>des multiples chantiers</i>",
-    91,
-    96,
-    2.67,
-    33
-   ],
-   [
-    "data",
-    "le chantier du plus gros data center au monde.",
-    22,
-    26,
-    4.02,
-    50
-   ],
-   [
-    "center",
-    "le chantier du plus gros data center au monde.",
-    22,
-    26,
-    3.93,
-    17
-   ],
-   [
-    "gobelet",
-    "<i>Sa vision des choses est très libérale</i> <i>et il illustre ça avec un gobelet.</i>",
-    1441,
-    1445,
-    3.15,
-    6
-   ],
-   [
-    "turbines",
-    "<i>93 turbines à gaz</i> <i>et il souhaite en ajouter d'autres,</i>",
-    1099,
-    1104,
-    3.31,
-    6
-   ],
-   [
-    "rapporterait",
-    "<i>ça ne rapporterait qu'un dollar.</i> <i>Nous avons un autre gobelet ici,</i>",
-    1462,
-    1466,
-    2.74,
-    3
-   ],
-   [
-    "chantier",
-    "le chantier du plus gros data center au monde.",
-    22,
-    26,
-    4.3,
-    16
-   ],
-   [
-    "aquifère",
-    "<i>L'aquifère de l'Ogallala</i> <i>ne se renouvelle pas.</i>",
-    1314,
-    1317,
-    2.44,
-    2
-   ],
    [
     "eau",
     "<i>Personne</i> <i>n'a assez d'eau.</i> Jusqu'où êtes-vous prête à aller ?",
@@ -20265,42 +20716,138 @@
     11
    ],
    [
-    "côté",
-    "entre, d'un côté, la plus petite manif du monde,",
-    17,
-    21,
-    5.5,
-    10
+    "chantier",
+    "le chantier du plus gros data center au monde.",
+    22,
+    26,
+    4.3,
+    16
    ],
    [
-    "gaz",
-    "<i>rapidement pour pas trop cher :</i> <i>du gaz, qui vient notamment d'ici,</i>",
-    1083,
-    1089,
-    4.82,
-    9
+    "regardez",
+    "<i>Regardez ça.</i> 38 points en moins.",
+    242,
+    247,
+    4.78,
+    5
    ],
    [
-    "cela",
-    "<i>Comment était tout cela</i> <i>il y a un an ?</i>",
-    975,
-    978,
-    5.72,
-    8
+    "construire",
+    "<i>D'abord, pour construire un data center,</i> <i>il a fallu un peu de place.</i>",
+    726,
+    731,
+    4.69,
+    5
    ],
    [
-    "énergie",
-    "<i>dans la course</i> <i>à l'énergie et à l'IA.</i>",
-    402,
-    405,
-    4.99,
-    7
+    "électricité",
+    "<i>Ensuite et surtout, il faut</i> <i>de l'électricité 24 heures sur 24.</i>",
+    736,
+    741,
+    4.57,
+    5
+   ],
+   [
+    "data",
+    "le chantier du plus gros data center au monde.",
+    22,
+    26,
+    4.02,
+    50
+   ],
+   [
+    "center",
+    "le chantier du plus gros data center au monde.",
+    22,
+    26,
+    3.93,
+    17
+   ],
+   [
+    "fibre",
+    "<i>Troisièmement, il faut être raccordé</i> <i>à un réseau de fibre.</i>",
+    743,
+    748,
+    4.06,
+    5
+   ],
+   [
+    "panneau",
+    "<i>Regardez,</i> <i>il y a un panneau anti-drones.</i>",
+    558,
+    561,
+    4.15,
+    3
+   ],
+   [
+    "turbines",
+    "<i>93 turbines à gaz</i> <i>et il souhaite en ajouter d'autres,</i>",
+    1099,
+    1104,
+    3.31,
+    6
+   ],
+   [
+    "gobelet",
+    "<i>Sa vision des choses est très libérale</i> <i>et il illustre ça avec un gobelet.</i>",
+    1441,
+    1445,
+    3.15,
+    6
+   ],
+   [
+    "alimente",
+    "<i>Mais depuis quelques mois,</i> <i>un autre sujet alimente la colère.</i>",
+    275,
+    279,
+    3.55,
+    2
+   ],
+   [
+    "moralement",
+    "Et moralement, ça va ? <i>Pas aussi bien</i> <i>que ça devrait.</i>",
+    175,
+    179,
+    3.51,
+    2
+   ],
+   [
+    "centers",
+    "de data centers au monde. <i>Et ce n'est qu'un</i> <i>des multiples chantiers</i>",
+    91,
+    96,
+    2.67,
+    33
+   ],
+   [
+    "rapporterait",
+    "<i>ça ne rapporterait qu'un dollar.</i> <i>Nous avons un autre gobelet ici,</i>",
+    1462,
+    1466,
+    2.74,
+    3
+   ],
+   [
+    "longer",
+    "je vais chronométrer combien de temps je mets pour longer le chantier.",
+    43,
+    48,
+    2.94,
+    2
+   ],
+   [
+    "arroseur",
+    "<i>Voilà à quoi ressemble</i> <i>un arroseur.</i>",
+    1374,
+    1377,
+    2.5,
+    2
    ]
   ],
-  "tx": "- Bon, je viens de rouler pendant des heures, je suis au fond du Texas. Je suis en train d'assister à une scène un peu étrange entre, d'un côté, la plus petite manif du monde, j'en rajoute peut-être un peu, et de l'autre, le chantier du plus gros data center au monde. <i>Ça va être plus grand que tout</i> <i>ce qu'on aurait pu imaginer.</i> <i>C'est même inimaginable.</i> <i>C'est gigantesque.</i> <i>Vraiment gigantesque.</i> <i>C'est effrayant.</i> <i>Pourquoi cette manifestation</i> <i>est-elle si petite ?</i> <i>C'est un peu au milieu</i> <i>de nulle part.</i> <i>On ne peut pas boire des données.</i> - Pour qu'on se rende compte de la taille du truc, je vais chronométrer combien de temps je mets pour longer le chantier. OK, c'est parti. C'est immense, ça n'en finit pas. <i>Ça représentera environ</i> <i>17 gigawatts de puissance.</i> <i>Trois fois la consommation électrique</i> <i>de la ville de New York.</i> <i>C'est dingue,</i> <i>c'est comme le Far West.</i> - Et là, je suis à 110 km/h environ. C'est dingue. Ce n'est toujours pas fini. <i>Les républicains</i> <i>vont perdre leurs sièges.</i> <i>J'aime Trump plus que tout,</i> <i>mais sur ce point,</i> <i>je suis à 100 % en désaccord avec lui.</i> - Toujours pas, toujours pas. <i>J'ai peur pour mes parents</i> <i>et pour mes petits-enfants.</i> - Stop, j'arrête le chrono. Presque 4 minutes 30 juste pour longer le chantier à 100 km/h. <i>Ce chantier,</i> <i>c'est celui du plus grand ensemble</i> de data centers au monde. <i>Et ce n'est qu'un</i> <i>des multiples chantiers</i> <i>qui secouent les États-Unis.</i> <i>Le pays est lancé</i> <i>dans un élan de construction</i> <i>si vaste qu'il est comparé</i> <i>à une guerre.</i> <i>C'est le prochain champ</i> <i>de bataille de l'Occident.</i> <i>Son prochain</i> <i>théâ",
+  "tx": "- Bon, je viens de rouler pendant des heures, je suis au fond du Texas. Je suis en train d'assister à une scène un peu étrange entre, d'un côté, la plus petite manif du monde, j'en rajoute peut-être un peu, et de l'autre, le chantier du plus gros data center au monde. <i>Ça va être plus grand que tout</i> <i>ce qu'on aurait pu imaginer.</i> <i>C'est même inimaginable.</i> <i>C'est gigantesque.</i> <i>Vraiment gigantesque.</i> <i>C'est effrayant.</i> <i>Pourquoi cette manifestation</i> <i>est-elle si petite ?</i> <i>C'est un peu au milieu</i> <i>de nulle part.</i> <i>On ne peut pas boire des … </i> Jusqu'où êtes-vous prête à aller ? <i>Je suis prête</i> <i>à risquer ma vie.</i> - Le drapeau fait la taille d'un terrain de foot. Je suis tout au nord du Texas, dans une ville qui s'appelle Amarillo. <i>Bienvenue au Texas,</i> <i>mon ami !</i> <i>Le Texas est</i> <i>de loin le meilleur</i> <i>parce qu'on fait</i> <i>la meilleure poitrine de bœuf.</i> - Et ce que vous voyez autour de moi, c'est un festival du barbecue. <i>Bacon et cream cheese.</i> <i>Tout est meilleur au Texas.</i> <i>C'est un gros morceau.</i> <i>Mets-le dans ta bouche.</i> <i>Ici, Trump a reçu</i> <i>plus de 70 % … <i>pour s'imposer sur le marché.</i> <i>Et elles investissent</i> <i>des sommes considérables</i> <i>dans des data centers</i> <i>beaucoup plus gros qu'avant.</i> <i>Plus de 1 500 nouveaux data centers</i> <i>sont en construction ou prévus.</i> <i>Et l'État américain dans lequel</i> <i>les data centers les plus puissants</i> <i>doivent être construits,</i> <i>c'est celui-ci : le Texas.</i> <i>Le gouverneur du Texas</i> <i>a déclaré vouloir faire</i> <i>de l'État l'épicentre de l'IA.</i> <i>Et c'est là, au Texas,</i> <i>qu'a été annoncé</i> <i>le plus gros projet</i> <i>de data centers connu … là, on est arrivés</i> <i>à côté du chantier,</i> <i>mais il est si vaste</i> <i>que c'est un peu difficile</i> <i>d'apercevoir ce qui s'y passe.</i> <i>Regardez,</i> <i>il y a un panneau anti-drones.</i> <i>Un panneau indiquait qu'ils pouvaient</i> <i>\"faire usage de la force létale\".</i> <i>Ils peuvent ouvrir le feu</i> <i>si vous faites voler un drone ici.</i> <i>Attention, monsieur,</i> <i>vous n'avez pas le droit de filmer ici.</i> D'où vient le son ? <i>Il vient de...</i> <i>Je ne sais pas</i> <i>ce que c'est.</i> <i>Une sorte de générateur</i> <i>ou de panneau solaire ?</i> <i>Ces … grosso modo</i> <i>la taille d'une remorque classique.</i> <i>Comme la remorque</i> <i>d'un camion.</i> <i>Ensuite et surtout, il faut</i> <i>de l'électricité 24 heures sur 24.</i> <i>L'énergie est cruciale</i> <i>car le data center</i> <i>doit fonctionner en permanence.</i> <i>Troisièmement, il faut être raccordé</i> <i>à un réseau de fibre.</i> <i>Ici, on peut voir quelques câbles</i> <i>de fibre optique.</i> <i>Mais ces serveurs</i> <i>qui tournent 24 heures sur 24</i> <i>chauffent et ils n'aiment pas</i> <i>la chaleur.</i> <i>Une grande partie est faite</i> <i>de métaux précieux.</i> … Mais il ne peut pas habiter là. Donc là, c'est devant chez lui. Et là, c'est sa maison. Oh non, la poussière ! J'avais un peu peur du chien. Je n'étais pas sûr de pouvoir m'approcher. <i>Aucun problème.</i> <i>Il va venir te lécher,</i> <i>mais il ne va pas te faire de mal.</i> <i>C'est comme ça</i> <i>toute la journée.</i> <i>Et une bonne</i> <i>partie de la nuit.</i> <i>Ce n'est pas agréable</i> <i>de vivre à côté.</i> Et moralement, ça va ? <i>Pas aussi bien</i> <i>que ça devrait.</i> <i>On voulait vivre ici</i> <i>pour le reste de notre vie.</i> <i>Nous vivons dans cette maison,</i> … <i>leurs propres centrales</i> <i>pour produire</i> <i>leur propre électricité.</i> <i>Cela garantira à l'entreprise</i> <i>d'avoir de l'électricité.</i> <i>Et le Texas a un gros atout</i> <i>pour générer de l'électricité</i> <i>rapidement pour pas trop cher :</i> <i>du gaz, qui vient notamment d'ici,</i> <i>le bassin permien, l'une des</i> <i>principales régions de production</i> <i>d'hydrocarbures au monde.</i> <i>Début 2026, le projet Matador</i> <i>a reçu l'autorisation d'exploiter</i> <i>93 turbines à gaz</i> <i>et il souhaite en ajouter d'autres,</i> <i>ce qui en ferait la plus … ça,</i> <i>je suis allé voir Daniel.</i> <i>Il préfère</i> <i>qu'on l'appelle Danny.</i> Vous êtes Danny ? <i>Oui !</i> Enchanté, je suis Marc. <i>J'arrive !</i> <i>Vous avez choisi</i> <i>un bon jour pour venir.</i> Oh, vraiment ? Pourquoi ? <i>Il fait beau !</i> <i>Daniel est agriculteur.</i> <i>Il fait ça</i> <i>depuis longtemps.</i> <i>Je me suis installé comme agriculteur</i> <i>à mon compte vers 24 ans.</i> <i>Ça fait 52 ans que je suis agriculteur.</i> <i>Il se définit</i> <i>comme républicain.</i> <i>Je dirais que je suis plus conservateur</i> <i>que les républicains.</i> … <i>Je soutiens</i> <i>les data centers.</i> <i>Je les soutiens,</i> <i>vraiment.</i> <i>J'ai rencontré David Prescott.</i> <i>Il est expert en sciences</i> <i>de l'environnement</i> <i>et il nous explique</i> <i>l'accord sur l'eau.</i> <i>La ville d'Amarillo doit</i> <i>faire les choses correctement.</i> <i>Sa vision des choses est très libérale</i> <i>et il illustre ça avec un gobelet.</i> <i>Imaginons qu'on ait cinq gobelets</i> <i>remplis d'eau ici.</i> <i>Chaque gobelet représente</i> <i>un investissement</i> <i>qu'on va</i> <i>faire fructifier.</i> <i>Prenons ce gobelet,</i> <i>qui … moratoire sur les data centers.</i> <i>Quoi qu'il en soit,</i> <i>dans le reste des États-Unis,</i> <i>les data centers</i> <i>continuent de sortir de terre</i> <i>et les inquiétudes grandissent.</i> <i>Il y a des gens partout aux Etats-Unis</i> <i>qui sont en colère,</i> <i>qui ont le sentiment</i> <i>qu'ils ne sont pas entendus</i> <i>et qui se sentent</i> <i>impuissants.</i> <i>Il faut que les gens</i> <i>commencent à se parler.</i> <i>On ne s'entendra pas</i> <i>sur tout, certes.</i> <i>J'aime Trump plus que tout,</i> <i>mais sur ce point,</i> <i>je suis à 100 % en désaccord avec lui.</i>",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.6816
+  "src": "cc"
  },
  "1B9-ZMFMt2Q": {
   "channel": "Alice Ayel",

@@ -2,128 +2,332 @@
  "dgk-zY-liyQ": {
   "channel": "StoryTalks French",
   "lang": "fr",
-  "checked": "2026-10-31T16:05:24+00:00",
+  "checked": "2026-11-09T19:22:24+00:00",
   "title": "Learn French Through Everyday Conversations 🇫🇷 | 10 Dialogues (A1–A2)",
   "duration": 1533,
   "published": "20261006",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 73.6,
   "rare": 0.0112,
+  "var": 0.7619,
   "speech_s": 1460.5,
   "tokens": 1791,
   "kw": [
    [
-    "chaises",
-    "Je peux mettre quatre chaises. Et quand tu es seul?",
-    364
+    "accord",
+    "D'accord, on la prend. La livraison des meubles",
+    138,
+    154,
+    5.41,
+    18
    ],
    [
-    "cafetière",
-    "J'ai un problème avec cette cafetière.",
-    463
+    "regarde",
+    "Regarde, il y a beaucoup de machines à laver.",
+    14,
+    20,
+    5.13,
+    18
+   ],
+   [
+    "merci",
+    "Merci. Vous habitez à quel étage?",
+    173,
+    178,
+    5.62,
+    17
+   ],
+   [
+    "parfait",
+    "Parfait. On prend cette machine?",
+    134,
+    139,
+    4.86,
+    15
+   ],
+   [
+    "coûte",
+    "Combien coûte la machine? Elle coûte quatre cents euros.",
+    90,
+    97,
+    4.43,
+    15
+   ],
+   [
+    "livraison",
+    "Et la livraison? Elle coûte vingt euros.",
+    106,
+    112,
+    4.31,
+    9
+   ],
+   [
+    "machine",
+    "Choisir une machine à laver Bonjour.",
+    1,
+    13,
+    4.72,
+    7
+   ],
+   [
+    "commande",
+    "Vous avez votre numéro de commande?",
+    641,
+    646,
+    4.58,
+    7
+   ],
+   [
+    "chaises",
+    "Je peux mettre quatre chaises. Et quand tu es seul?",
+    364,
+    371,
+    3.82,
+    11
    ],
    [
     "matelas",
     "Choisir un lit et un matelas.",
-    1200
+    1200,
+    1207,
+    3.84,
+    8
+   ],
+   [
+    "canapé",
+    "Vous avez le canapé? Le canapé et la table.",
+    162,
+    170,
+    4.15,
+    5
    ],
    [
     "cassée",
     "Une chaise cassée après la livraison",
-    600
+    600,
+    607,
+    3.62,
+    5
    ],
    [
-    "shampoing",
-    "On commence par le shampoing? D'accord.",
-    763
+    "cafetière",
+    "J'ai un problème avec cette cafetière.",
+    463,
+    468,
+    3.07,
+    5
    ],
    [
     "livreur",
     "Le livreur prend la chaise cassée.",
-    725
+    725,
+    730,
+    3.55,
+    3
+   ],
+   [
+    "shampoing",
+    "On commence par le shampoing? D'accord.",
+    763,
+    768,
+    3.37,
+    3
    ],
    [
     "brie",
     "Alors, je vous conseille ce brie.",
-    1078
-   ],
-   [
-    "confortable",
-    "Il est-ce confortable? Très confortable.",
-    939
+    1078,
+    1083,
+    3.38,
+    2
    ]
   ],
-  "tx": "Choisir une machine à laver Bonjour. Regarde, il y a beaucoup de machines à laver. Regarde cette machine. Elle est petite. Elle est bien pour notre appartement. Je pense aussi. Quelle est la taille? Elle fait soixante centimètres de large. C'est bien pour notre salle de bain. Et elle lave sept kilos de linge. Sept kilos, c'est assez pour nous. Nous sommes seulement deux. Regarde les programmes. Il y a un programme rapide. Combien de temps? Trente minutes. C'est pratique. Il y a aussi un programme pour le coton. Très bien. Et pour les vêtements délicats? Il y a aussi un programme. Cette machine me plaît. À moi aussi. Mais regarde le prix. Combien coûte la machine? Elle coûte quatre cents euros. C'est un peu cher. Mais elle consomme peu d'électricité. C'est important. Et la livraison? Elle coûte vingt euros. Ils livrent à la maison? Bien sûr. Et l'installation? Ils peuvent installer la machine. C'est pratique. Et notre vieille machine? Ils peuvent la prendre gratuitement. Parfait. On prend cette machine? D'accord, on la prend. La livraison des meubles Bonjour. J'ai votre livraison. Très bien. Vous avez le canapé? Le canapé et la table. Parfait. Je vais ouvrir la porte. Merci. Vous habitez à quel étage? Au quatrième étage. Il y a un ascenseur? Il est juste à gauche. Le canapé entre dans l'ascenseur? Je pense que ça passe. D'accord. Je vais essayer. Attention, la porte est petite. Ça passe. Super. Je monte avec vous. Merci. C'est assez lourd. Nous sommes au quatrième étage. D'accord. Où est votre appartement? La porte à droite. Je pose le canapé ici? Non, dans le salon. Où est le salon? Tout droit. Je mets le canapé près du mur? C'est parfait ici. Maintenant, je vais chercher la table. D'accord. Je vous attends ici. Voilà. J'ai la table. Je peux vous aider? Merci. Prenez ce",
+  "tx": "Choisir une machine à laver Bonjour. Regarde, il y a beaucoup de machines à laver. Regarde cette machine. Elle est petite. Elle est bien pour notre appartement. Je pense aussi. Quelle est la taille? Elle fait soixante centimètres de large. C'est bien pour notre salle de bain. Et elle lave sept kilos de linge. Sept kilos, c'est assez pour nous. Nous sommes seulement deux. Regarde les programmes. Il y a un programme rapide. Combien de temps? Trente minutes. C'est pratique. Il y a aussi un programme pour le coton. Très bien. Et pour les vêtements délicats? Il y a aussi un programme. Cette … Bonjour. J'ai votre livraison. Très bien. Vous avez le canapé? Le canapé et la table. Parfait. Je vais ouvrir la porte. Merci. Vous habitez à quel étage? Au quatrième étage. Il y a un ascenseur? Il est juste à gauche. Le canapé entre dans l'ascenseur? Je pense que ça passe. D'accord. Je vais essayer. Attention, la porte est petite. Ça passe. Super. Je monte avec vous. Merci. C'est assez lourd. Nous sommes au quatrième étage. D'accord. Où est votre appartement? La porte à droite. Je pose le canapé ici? Non, dans le salon. Où est le salon? Tout droit. Je mets le canapé près du mur? C'est … table? Exactement. Mon appartement est petit. Regarde cette table blanche. Elle est jolie. Et elle n'est pas grande. C'est une table pliante? Je pense. Regarde ici. Ah, elle s'ouvre. Essaie de l'ouvrir. Comme ça? Exactement. Tire doucement. Voilà. Elle est plus grande maintenant. C'est pratique pour les invités. Je peux mettre quatre chaises. Et quand tu es seul? Je peux fermer la table. Essaie maintenant. Attends. Comment je fais? Appuie ici. Ah, d'accord. Attention à tes doigts. Voilà. Elle est fermée. Maintenant, elle est très petite. C'est parfait pour ma cuisine. Tu aimes la couleur? … Vous l'avez achetée ici? Bien sûr. Samedi dernier. Vous avez le ticket? Le voici. Merci. Je regarde. Je l'ai utilisée une fois. Elle a fonctionné? La première fois, très bien. Et après? Ce matin, elle ne marche plus. Vous avez vérifié la prise? Bien sûr. La prise fonctionne. Et le réservoir d'eau? Il est plein. D'accord. Je vais tester la cafetière. Très bien. Regardez, elle ne s'allume pas. C'est le problème. Je comprends. Je peux changer la cafetière? Bien sûr. Vous voulez le même modèle? Je préfère un autre modèle. Regardez cette cafetière. Elle coûte combien? 90 euros. Mon modèle … numéro de commande? Un moment, s'il vous plaît. Bien sûr. Voilà. C'est le 4582. Merci. Je cherche votre commande. D'accord. Vous avez quatre chaises blanches? Exactement. La livraison était ce matin? À 10 heures. Très bien. La chaise était déjà cassée? Je pense que oui. Le carton est abîmé? Un peu. Sur le côté. D'accord. Vous pouvez garder les trois autres chaises. Et la chaise cassée? Nous allons la remplacer. C'est possible demain? Je regarde la date. Merci. Demain après-midi, c'est possible. À quelle heure? Entre 2 heures et 4 heures. C'est parfait pour moi. Le livreur prend la chaise … Je préfère une odeur de citron. Regarde ici. Il y en a un. La bouteille est grande. Elle fait 500 millilitres. C'est parfait. Il coûte 4 euros. Je prends aussi ce gel douche. Tu as besoin d'autre chose? Je cherche une crème pour le visage. Quel type de crème? Une crème pour le matin. Regarde cette petite boîte. Elle est pour le visage? Exactement. Elle est pour le matin. Je peux sentir la crème? Bien sûr. Il y a un testeur. L'odeur est agréable. Et la crème est légère. Combien coûte-t-elle? 12 euros. D'accord. Je la prends aussi. Tu as tout maintenant? Shampoing, gel douche et crème. … fait quelle taille? 15 pouces. Essaie de le mettre dans le sac. Attends, je regarde. Il entre? Parfaitement. Il y a assez de place. C'est pratique pour le voyage. Je peux aussi mettre mes vêtements. Et une petite veste. Exactement. Le sac ferme bien? Regarde. Aucun problème. Combien coûte-t-il? 55 euros. Le prix est correct. Regarde. Il y a aussi le même modèle en bleu. Ah oui. Je préfère ce sac bleu. Alors essaie le bleu aussi. Il est encore plus confortable. Parfait. Prends celui-là. Acheter du fromage Bonjour madame. Bonjour ! Vous cherchez quelque chose ? Je voudrais acheter du fromage. … le kilo. Je ne veux pas un kilo. Aucun problème. Quelle quantité voulez-vous? Un petit morceau, s'il vous plaît. Environ 200 grammes? C'est assez pour deux personnes? C'est une bonne quantité. Alors, 200 grammes. Je coupe le fromage. Merci. Voilà. Il fait 210 grammes. Très bien. Ça coûte combien? 4 euros 20. Parfait. Je le prends. Vous voulez un petit sac? Non merci. J'ai mon sac. Très bien. Voici votre fromage. Merci beaucoup. Bonne journée. Merci. Bonne journée à vous. Choisir un lit et un matelas. Bonjour madame. Bonjour monsieur. Je peux vous aider? Je cherche un lit pour ma chambre. … Essayez celui-ci. Je peux m'allonger dessus? Bien sûr. Allez-y. Il est très confortable. Il est assez ferme pour vous? Exactement. Il me plaît. Ce matelas coûte 200 euros. D'accord. Le lit est disponible? Je vais vérifier. Merci. Le lit est disponible aujourd'hui. Et le matelas? Il est disponible aussi. Vous faites la livraison? Bien sûr. Nous pouvons livrer samedi. Parfait. Je prends le lit et le matelas. Très bien. Allons préparer la commande. Une commande incomplète Bonjour monsieur. Bonjour madame. Je peux vous aider? J'ai un problème avec ma commande. Qu'est-ce qui manque? J'ai … Les cartons étaient-ils fermés? Bien sûr. Ils étaient fermés. D'accord. La quatrième chaise est encore ici. Elle est dans le magasin? Exactement. Elle n'est pas partie avec le livreur. Je peux la prendre maintenant? Bien sûr. Elle est disponible. Elle est dans un carton? Exactement. Le carton est assez grand. Je suis venue en bus. Alors c'est difficile de la transporter. Vous pouvez la livrer? Bien sûr. Nous pouvons la livrer demain. À quelle heure? Entre dix heures et midi. C'est parfait pour moi. La livraison est-ce gratuite Très bien. Merci pour votre aide. Avec plaisir. Bonne journée.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7314
+  "src": "cc"
  },
  "wMTMdzCi17E": {
   "channel": "Apprends le français",
   "lang": "fr",
-  "checked": "2026-11-01T16:02:57+00:00",
+  "checked": "2026-11-09T19:24:02+00:00",
   "title": "My Husband Was My Biggest Mistake । Learn French with this simple story ( B1-B2 )",
   "duration": 1909,
   "published": "20261019",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 119.5,
   "rare": 0.1377,
+  "var": 0.8419,
   "speech_s": 1880.5,
   "tokens": 3746,
   "kw": [
    [
+    "puis",
+    "Puis Wilfried est entré dans ma vie. Il avait vingt-sept ans,",
+    79,
+    86,
+    5.67,
+    20
+   ],
+   [
+    "pendant",
+    "Je m’appelle Léonie et, pendant douze ans, j’ai cru avoir épousé l’homme qui resterait",
+    0,
+    7,
+    5.67,
+    13
+   ],
+   [
+    "parce",
+    "parce que c’était exactement ce que je voulais, moi aussi.",
+    144,
+    150,
+    5.73,
+    12
+   ],
+   [
+    "maison",
+    "vie. » Pendant les premières années, nous avons été heureux. Nous avons loué une petite maison,",
+    176,
+    186,
+    5.53,
+    11
+   ],
+   [
+    "cuisine",
+    "j’étais dans ma cuisine, une tasse de café froid à la main, en train de fixer mon alliance.",
+    15,
+    24,
+    4.75,
+    9
+   ],
+   [
+    "regardé",
+    "Je l’ai regardé se servir du café. « Wilfried, qui t’a envoyé un message hier soir ? » Sa main",
+    570,
+    579,
+    4.48,
+    9
+   ],
+   [
+    "répondu",
+    "Elle m’a simplement répondu : « Léonie, cela fait longtemps que tu lui trouves des excuses. » Ses",
+    751,
+    760,
+    4.62,
+    8
+   ],
+   [
+    "café",
+    "j’étais dans ma cuisine, une tasse de café froid à la main, en train de fixer mon alliance.",
+    15,
+    24,
+    4.76,
+    7
+   ],
+   [
+    "cessé",
+    "plus tard. Au début, je ne m’inquiétais pas. Puis c’est devenu une habitude. Il a cessé de",
+    269,
+    280,
+    4.18,
+    6
+   ],
+   [
+    "restée",
+    "Puis il est sorti. Je suis restée debout dans la cuisine, me sentant stupide.",
+    622,
+    630,
+    4.16,
+    5
+   ],
+   [
+    "valise",
+    "Comment allais-je me sauver moi-même ? Le lendemain matin, j’ai préparé une valise.",
+    976,
+    986,
+    3.99,
+    4
+   ],
+   [
+    "assise",
+    "Wilfried est rentré après minuit. J’étais assise sur le canapé à l’attendre.",
+    428,
+    436,
+    4.18,
+    3
+   ],
+   [
     "pâtisserie",
     "je disais souvent à Wilfried qu’un jour, je voulais ouvrir une petite boulangerie-pâtisserie.",
     1222,
-    1230
+    1230,
+    3.58,
+    9
    ],
    [
     "regardée",
     "Wilfried m’a regardée et m’a dit : « Tu es la femme avec qui je veux vieillir. » J’ai souri,",
     137,
-    145
-   ],
-   [
-    "souvenue",
-    "Soudain, je me suis souvenue de la jeune fille que j’étais autrefois. Celle qui rêvait d’ouvrir une",
-    842,
-    850
-   ],
-   [
-    "trompais",
-    "à mes côtés jusqu’à mon dernier souffle. Je me trompais. Le matin où je m’en suis rendu compte,",
-    6,
-    16
-   ],
-   [
-    "réveillais",
-    "me réveillais plus en me demandant ce que Wilfried était en train de faire.",
-    1335,
-    1342
-   ],
-   [
-    "souri",
-    "Wilfried m’a regardée et m’a dit : « Tu es la femme avec qui je veux vieillir. » J’ai souri,",
-    137,
-    145
+    145,
+    3.43,
+    7
    ],
    [
     "travaillais",
     "Paris. Ma vie était simple. Je travaillais en semaine, je rendais visite à ma mère le",
     64,
-    73
+    73,
+    3.4,
+    3
+   ],
+   [
+    "souri",
+    "Wilfried m’a regardée et m’a dit : « Tu es la femme avec qui je veux vieillir. » J’ai souri,",
+    137,
+    145,
+    3.34,
+    3
+   ],
+   [
+    "trompais",
+    "à mes côtés jusqu’à mon dernier souffle. Je me trompais. Le matin où je m’en suis rendu compte,",
+    6,
+    16,
+    2.58,
+    3
+   ],
+   [
+    "souvenue",
+    "Soudain, je me suis souvenue de la jeune fille que j’étais autrefois. Celle qui rêvait d’ouvrir une",
+    842,
+    850,
+    2.54,
+    3
    ],
    [
     "excusée",
     "mais je me suis excusée. Je me suis convaincue qu’il subissait beaucoup de pression.",
     323,
-    331
+    331,
+    2.83,
+    2
+   ],
+   [
+    "réveillais",
+    "me réveillais plus en me demandant ce que Wilfried était en train de faire.",
+    1335,
+    1342,
+    2.54,
+    2
    ]
   ],
-  "tx": "Je m’appelle Léonie et, pendant douze ans, j’ai cru avoir épousé l’homme qui resterait à mes côtés jusqu’à mon dernier souffle. Je me trompais. Le matin où je m’en suis rendu compte, j’étais dans ma cuisine, une tasse de café froid à la main, en train de fixer mon alliance. Cette bague n’avait rien de particulier. C’était un simple anneau en or, orné d’un petit diamant au centre. Wilfried me l’avait achetée lorsque nous étions jeunes et que nous rêvions encore de notre avenir. À cette époque, il m’avait pris la main et m’avait dit : « Léonie, je n’ai pas beaucoup d’argent pour le moment, mais je te promets de t’offrir une belle vie. » J’avais cru chacun de ses mots. J’avais vingt-trois ans lorsque j’ai rencontré Wilfried. Je venais de commencer à travailler dans un petit cabinet d’assurance à Paris. Ma vie était simple. Je travaillais en semaine, je rendais visite à ma mère le dimanche et je passais mes vendredis soirs avec ma meilleure amie, Malou. Puis Wilfried est entré dans ma vie. Il avait vingt-sept ans, il était sûr de lui, drôle et facile à aborder. Il travaillait pour une entreprise de construction et semblait toujours avoir une histoire à raconter. La première fois que nous avons discuté, il m’a fait tellement rire que j’ai failli renverser mon café. Après cela, il a commencé à m’attendre devant mon bureau. Il m’apportait des fleurs. Il se souvenait de la façon dont j’aimais mon café. Il m’appelait chaque soir avant que j’aille me coucher. Mais surtout, il me donnait l’impression d’être celle qu’il avait choisie entre toutes. Un soir de pluie, nous étions assis dans son vieux camion, tandis que les gouttes couvraient les vitres. Wilfried m’a regardée et m’a dit : « Tu es la femme avec qui je veux vieillir. » J’ai souri, parce que c’était exactement ce que je v",
+  "tx": "Je m’appelle Léonie et, pendant douze ans, j’ai cru avoir épousé l’homme qui resterait à mes côtés jusqu’à mon dernier souffle. Je me trompais. Le matin où je m’en suis rendu compte, j’étais dans ma cuisine, une tasse de café froid à la main, en train de fixer mon alliance. Cette bague n’avait rien de particulier. C’était un simple anneau en or, orné d’un petit diamant au centre. Wilfried me l’avait achetée lorsque nous étions jeunes et que nous rêvions encore de notre avenir. À cette époque, il m’avait pris la main et m’avait dit : « Léonie, je n’ai pas beaucoup d’argent pour le moment, mais … voulait créer sa propre entreprise de construction. Il était enthousiaste. « Je sais que je peux y arriver, m’a-t-il dit. J’ai juste besoin que quelqu’un croie en moi. » Alors, j’ai cru en lui. Je lui ai donné presque toutes mes économies. Je faisais des heures supplémentaires au cabinet d’assurance pendant qu’il développait son entreprise. Lorsque son premier chantier a échoué, je lui ai dit de ne pas abandonner. Lorsqu’il s’est retrouvé endetté, je l’ai aidé à rembourser ses dettes. Lorsqu’il rentrait épuisé à la maison, je lui préparais le dîner et je l’écoutais se plaindre de ses clients … nuit-là, impossible de trouver le sommeil. Je n’arrêtais pas de penser à l’homme que j’avais épousé. Celui qui m’attendait autrefois devant mon bureau. Celui qui m’avait promis un jour que j’étais son avenir. Je voulais croire que cet homme était toujours là, quelque part. Le vendredi suivant, Wilfried est rentré après minuit. J’étais assise sur le canapé à l’attendre. Il a franchi la porte, desserré sa cravate, puis s’est figé en me voyant. « Tu es encore réveillée ? » « Je t’attendais. » « Je t’avais dit que je travaillais. » J’ai hoché la tête. « Bien sûr. » Il m’a embrassée sur le front, … fixée du regard. « Tu fais toute une histoire pour rien. » Puis il est sorti. Je suis restée debout dans la cuisine, me sentant stupide. Mais cette fois, je ne me suis pas excusée. J’ai commencé à prêter attention à ce qui se passait autour de moi. Au cours des deux semaines suivantes, j’ai tout remarqué. Wilfried a changé ses mots de passe. Il emportait son téléphone jusque sous la douche. Il a commencé à recevoir des fleurs au bureau, alors qu’il ne m’en rapportait jamais à la maison. Puis j’ai découvert quelque chose de bien pire. Un relevé bancaire. Un virement de huit mille euros … que j’avais du mal à respirer. « Est-ce que tu l’aimes ? » Il n’a pas répondu. Son silence m’en a appris suffisamment. Je suis montée à l’étage et je me suis enfermée dans la salle de bains. Je me suis regardée dans le miroir. Mes yeux étaient gonflés. Soudain, je me suis souvenue de la jeune fille que j’étais autrefois. Celle qui rêvait d’ouvrir une boulangerie. Celle qui riait à gorge déployée. Celle qui croyait que l’amour rendrait la vie plus belle. Où était-elle passée ? J’avais passé douze ans à aider Wilfried à construire sa vie. Et, d’une manière ou d’une autre, j’avais oublié de … plus vraiment. J’ai retiré mon alliance et l’ai déposée sur la commode. Pendant un instant, j’ai failli la remettre à mon doigt. Puis je me suis souvenue du reçu de l’hôtel, de l’argent dissimulé, des mensonges et de cette maison qu’il avait secrètement prévu de vendre. J’ai pris ma valise. Lorsque je suis descendue, Wilfried était assis à la table de la cuisine. Il m’a regardée. « Où est-ce que tu vas ? » « Je m’en vais. » Il a fixé ma valise. « Léonie, ne fais pas de scène. » J’ai failli rire. Après tout ce qui s’était passé, il pensait encore que ma souffrance n’était qu’un caprice. … » Pour la première fois, je me suis demandé pourquoi j’avais cessé de rêver. Alors, j’ai recommencé à faire de la pâtisserie. Le premier gâteau que j’ai préparé était une catastrophe. Il s’est complètement affaissé au milieu. Je me suis assise par terre, dans la cuisine, et j’ai éclaté de rire. Puis j’ai pleuré. Ensuite, j’ai encore ri. C’était la première fois depuis longtemps que je m’entendais rire aussi sincèrement. J’ai préparé un autre gâteau, puis un autre. J’en ai apporté un au travail. Une collègue m’a demandé où je l’avais acheté. « C’est moi qui l’ai fait. » Elle a eu l’air … qu’était l’amour. Il avait changé parce que sa nouvelle vie avait échoué. « Wilfried, ai-je dit doucement, est-ce que je te manque ? » « Oui. » « Ou est-ce que c’est la femme qui venait toujours te sauver qui te manque ? » Il est resté silencieux. Et dans ce silence, j’ai enfin compris. Je n’étais plus sa femme. J’étais son filet de sécurité. Et pendant douze ans, j’avais confondu le fait d’être indispensable avec celui d’être aimée. Trois ans se sont écoulés depuis ce matin où j’ai quitté mon mariage, une seule valise à la main. Parfois, je repense encore à cette femme que j’étais. Elle … » Il a regardé à travers la vitrine de la pâtisserie. « C’est toi qui as construit tout ça ? » « Oui. » Nous nous sommes installés à une petite table au fond du local. Il m’a raconté que son entreprise avait fait faillite. Il avait presque tout perdu. Puis il m’a regardée. « Je sais que je ne mérite pas une seconde chance, a-t-il dit. J’ai tout gâché. » « C’est vrai. » Il a dégluti. « Je pensais que l’argent, la réussite et une nouvelle femme suffiraient à me rendre heureux. » Il a baissé les yeux. « Je me trompais. » Puis il m’a demandé : « M’épouser a-t-il vraiment été la plus grande … bien. J’avais cessé de mesurer ma valeur à travers l’amour de quelqu’un d’autre. Et cela a tout changé. Mon mariage avec Wilfried a été ma plus grande erreur. Mais il n’a pas marqué la fin de mon histoire. Il a été le chapitre qui m’a appris la leçon la plus importante de ma vie. L’amour ne devrait jamais t’obliger à t’effacer. Tu peux pardonner à quelqu’un tout en choisissant de partir. Tu peux perdre un mariage et malgré tout sauver ta propre vie. Et parfois, la personne que tu croyais responsable de ton cœur brisé est celle qui te pousse à découvrir à quel point ton cœur peut devenir fort.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8604
+  "src": "cc"
  },
  "gYyvkbpkg88": {
   "channel": "French Breakdown",
@@ -175,176 +379,473 @@
  "4DDvgW5bCR8": {
   "channel": "Français avec Pierre",
   "lang": "fr",
-  "checked": "2026-10-31T16:15:33+00:00",
+  "checked": "2026-11-09T19:32:01+00:00",
   "title": "Si tu connais ces Mots, tu as un Niveau B2 en français | Test de Vocabulaire",
   "duration": 886,
   "published": "20261023",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 151.4,
   "rare": 0.0312,
+  "var": 0.7683,
   "speech_s": 711.4,
   "tokens": 1795,
   "kw": [
    [
-    "cafard",
-    "Numéro 6 : avoir le cafard.",
-    172
+    "exemple",
+    "essayer de trouver un exemple dans une phrase réelle.",
+    56,
+    62,
+    5.4,
+    21
    ],
    [
-    "morose",
-    "Numéro 2, juste un mot: morose.",
-    123
-   ],
-   [
-    "répartie",
+    "numéro",
     "Numéro 1 : avoir de la répartie.",
-    111
+    111,
+    117,
+    5.03,
+    17
    ],
    [
-    "râler",
-    "Numéro 10 : râler. Le verbe: râler.",
-    225
+    "français",
+    "Aujourd'hui, nous allons faire un petit test de français.",
+    2,
+    8,
+    5.78,
+    12
    ],
    [
-    "fisc",
-    "Numéro 7, un peu technique : le fisc.",
-    183
+    "avez",
+    "vous avez certainement un niveau B2 de français,",
+    26,
+    33,
+    5.49,
+    12
    ],
    [
-    "démissionner",
-    "Numéro 8, le verbe: démissionner. Numéro 9 : une manif.",
-    199
+    "connaissez",
+    "Et si vous connaissez la majorité de ces mots ou expressions,",
+    15,
+    22,
+    4.32,
+    8
+   ],
+   [
+    "exprimer",
+    "C'est donc une expression assez familière pour exprimer un but",
+    463,
+    468,
+    4.53,
+    6
+   ],
+   [
+    "plainte",
+    "Numéro 5 : porter plainte. Si vous la connaissez, essayez d'écrire une phrase avec",
+    157,
+    170,
+    4.51,
+    6
+   ],
+   [
+    "utilise",
+    "Souvent, on l'utilise pour l'ambiance. Par exemple : L'ambiance au bureau actuellement est vraiment morose.",
+    406,
+    413,
+    4.79,
+    5
    ],
    [
     "verbe",
     "Numéro 8, le verbe: démissionner. Numéro 9 : une manif.",
-    199
+    199,
+    215,
+    4.06,
+    8
+   ],
+   [
+    "fisc",
+    "Numéro 7, un peu technique : le fisc.",
+    183,
+    189,
+    3.69,
+    8
    ],
    [
     "expressions",
     "Je vais vous donner 10 mots ou 10 expressions.",
-    8
+    8,
+    15,
+    4.06,
+    7
+   ],
+   [
+    "démissionner",
+    "Numéro 8, le verbe: démissionner. Numéro 9 : une manif.",
+    199,
+    215,
+    3.82,
+    6
+   ],
+   [
+    "répartie",
+    "Numéro 1 : avoir de la répartie.",
+    111,
+    117,
+    3.54,
+    7
+   ],
+   [
+    "cafard",
+    "Numéro 6 : avoir le cafard.",
+    172,
+    177,
+    3.14,
+    7
+   ],
+   [
+    "râler",
+    "Numéro 10 : râler. Le verbe: râler.",
+    225,
+    233,
+    3.37,
+    6
+   ],
+   [
+    "morose",
+    "Numéro 2, juste un mot: morose.",
+    123,
+    130,
+    3.05,
+    6
    ]
   ],
-  "tx": "Bonjour les amis. Aujourd'hui, nous allons faire un petit test de français. Je vais vous donner 10 mots ou 10 expressions. Et si vous connaissez la majorité de ces mots ou expressions, cela veut dire que, grosso modo, vous avez certainement un niveau B2 de français, ou davantage, bien évidemment. Donc, nous allons procéder de la sorte. Je vais commencer à énoncer, juste énoncer, ces 10 mots et expressions. Vous pouvez les noter, réfléchir, voir si vraiment vous les connaissez, essayer de trouver un exemple dans une phrase réelle. Et vous faites le compte. J'en connais 8, j'en connais 7, j'en connais 10, j'en connais 2. Et après, je donnerai la correction, c'est-à-dire que j'expliquerai l'expression et je donnerai un exemple. Cela permet d'enrichir son vocabulaire, de tester un petit peu son niveau de vocabulaire. Et puis de se situer par rapport à son niveau de français. Allez, on commence tout de suite. Voici aujourd'hui la liste de ces 10 expressions. Numéro 1 : avoir de la répartie. Je répète : avoir de la répartie. Numéro 2, juste un mot: morose. Je répète : morose. Numéro 3 : en fin de compte. Numéro 4 : histoire de. Attention, il s'agit d'une expression. Numéro 5 : porter plainte. Si vous la connaissez, essayez d'écrire une phrase avec pour la mettre en contexte. Numéro 6 : avoir le cafard. Numéro 7, un peu technique : le fisc. C'est un mot qui fait partie de la vie de tous les jours des Français, Français adultes. Numéro 8, le verbe: démissionner. Numéro 9 : une manif. C'est un mot qui est très actuel, vu les événements en France en ce moment. Numéro 10 : râler. Le verbe: râler. Alors, vous avez noté ces 10 expressions et ces 10 mots ? Vous les connaissez tous ? Vous en connaissez combien ? Si vous connaissez la majorité de ces expressions et de ces mots, je le r",
+  "tx": "Bonjour les amis. Aujourd'hui, nous allons faire un petit test de français. Je vais vous donner 10 mots ou 10 expressions. Et si vous connaissez la majorité de ces mots ou expressions, cela veut dire que, grosso modo, vous avez certainement un niveau B2 de français, ou davantage, bien évidemment. Donc, nous allons procéder de la sorte. Je vais commencer à énoncer, juste énoncer, ces 10 mots et expressions. Vous pouvez les noter, réfléchir, voir si vraiment vous les connaissez, essayer de trouver un exemple dans une phrase réelle. Et vous faites le compte. J'en connais 8, j'en connais 7, j'en … Je répète : morose. Numéro 3 : en fin de compte. Numéro 4 : histoire de. Attention, il s'agit d'une expression. Numéro 5 : porter plainte. Si vous la connaissez, essayez d'écrire une phrase avec pour la mettre en contexte. Numéro 6 : avoir le cafard. Numéro 7, un peu technique : le fisc. C'est un mot qui fait partie de la vie de tous les jours des Français, Français adultes. Numéro 8, le verbe: démissionner. Numéro 9 : une manif. C'est un mot qui est très actuel, vu les événements en France en ce moment. Numéro 10 : râler. Le verbe: râler. Alors, vous avez noté ces 10 expressions et ces 10 … parce que pour nous, c'est très important. N'oubliez pas de vous abonner à la chaîne aussi pour recevoir les notifications des vidéos qu'on fait régulièrement. Et puis, bien sûr, je vous rappelle qu'on peut vous aider à progresser en français. Nous avons des cours pour tous les niveaux, pour tous les objectifs et pour tous les cas. Parce que pour chaque cas, c'est différent. Certaines personnes veulent passer un examen comme le DELF, DALF, TCF, TEF. D'autres personnes veulent progresser tranquillement en français, sans stress. D'autres personnes sont débutantes, d'autres ont un niveau avancé. … agréable ou vous taquine, comme on dit, ou cherche à vous contredire. Eh bien, une personne qui a de la répartie va être capable de répondre rapidement, intelligemment et donc de se défendre. Imaginez cet échange : Vous êtes encore en retard ? Non, c'est vous qui avez commencé trop tôt! Ça ne justifie peut-être pas le retard, mais on peut dire que la personne a de la répartie. Elle est capable de répondre rapidement et de se défendre. Le mot numéro 2 était un adjectif : morose. Que signifie morose ? Cela signifie triste, qui manque d'enthousiasme, peu joyeux. Exemple : Depuis son retour … très intéressante, très importante. On l'utilise plutôt dans un registre légèrement familier, mais on l'utilise énormément. Donc, dans l'expression « histoire de », comme: histoire de faire quelque chose, histoire de terminer ceci... D'accord ? C'est suivi d'un verbe à l'infinitif. Donc, cette expression signifie: dans le but de. C'est donc une expression assez familière pour exprimer un but qui n'a pas énormément d'importance. On va voir un exemple. Je vais faire un petit tour, histoire de prendre l'air. Donc, le but, c'est pour prendre l'air, entre autres, d'accord ? Pour me changer … exprimer, expliquer des faits dont vous avez été la victime. Et donc, officiellement, vous allez porter plainte. Par exemple, on vous vole votre téléphone, eh bien, vous allez porter plainte au commissariat. Autre exemple : Il a porté plainte contre ses voisins pour tapage nocturne. Alors, attention ici, dans cet exemple, « pour » n'exprime pas le but ou l'objectif. Ceci est très rare. Là, « pour » va exprimer la raison. Ça arrive rarement et c'est quand « pour » est suivi d'un nom qui va représenter en fait une action, un verbe. Par exemple : pour tapage nocturne, pour conduite en état … Français sont un peu comme ça par moments. Quand on a le blues, on peut dire aussi, d'accord ? Quand le moral n'est pas au plus haut. Bon, il faut savoir qu'un cafard, c'est cet insecte-là, je pense qu'on va le mettre à l'écran, ce sera plus simple. Donc, avoir le cafard, je ne sais pas pourquoi on utilise ce mot, ce petit insecte. Peut-être parce qu'il n'est pas très agréable. Et qu'en général, s'il est dans votre maison, c'est que ce n'est peut-être pas très propre. En tout cas, l'expression, c'est: avoir le cafard. Exemple : Depuis qu'il est rentré de vacances, il a le cafard. Alors, … ne se passe pas bien, vous avez un redressement fiscal. Autre exemple : Cette entreprise doit de l'argent au fisc. Numéro 8 : démissionner. Ça, je pense que vous connaissez, c'est un mot courant, un verbe important. Donc, démissionner, c'est quand vous partez de votre travail, quand vous quittez votre travail, par vous-mêmes. Vous n'êtes pas renvoyés, mais vous décidez vous-mêmes de démissionner. Exemple : Elle a décidé de démissionner pour créer son entreprise. Autre exemple : Après 10 ans dans cette boîte, il a décidé de démissionner parce qu'il voulait changer un petit peu. Allez, numéro … dans l'espace public, pour manifester contre, par exemple, une réforme, pour demander certaines choses, pour revendiquer des droits, etc. Par exemple: Il y aura une manif contre la réforme des retraites vendredi. Et on va terminer par un verbe, c'est le verbe: râler. Alors, on dit souvent que les Français sont des râleurs parce qu'ils aiment râler. Et franchement, je ne vais pas le démentir. C'est faire des généralités, bien évidemment. Mais c'est vrai qu'on a cette réputation de râler et je pense que ce n'est pas totalement faux. Alors, râler, c'est quoi ? C'est exprimer son mécontentement, … Je me ferai un plaisir de les lire et de vous répondre si vous avez des questions. Je vous rappelle que vous trouverez une fiche PDF avec cette vidéo. Comme pour toutes nos vidéos, vous avez une fiche PDF qui accompagne la vidéo, dans laquelle on vous résume tout le contenu, on vous met parfois des exercices, etc. Donc, n'hésitez pas à l'utiliser, c'est gratuit. C'est évidemment dans la description. Moi, je vous souhaite une excellente journée ou une excellente soirée, c'est selon. Et surtout, prenez bien soin de vous et on se retrouve bien sûr dans une prochaine vidéo. À bientôt !",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7337
+  "src": "cc"
  },
  "BYiMpftIkpE": {
   "channel": "StoryTalks French",
   "lang": "fr",
-  "checked": "2026-10-27T16:37:16+00:00",
+  "checked": "2026-11-09T19:22:28+00:00",
   "title": "Warm Family Conversations in French  | 10 Easy Dialogues (A1–A2)",
   "duration": 1373,
   "published": "20260924",
+  "spoken": "fr",
+  "spoken_v": 2,
   "pace": 77.0,
   "rare": 0.0089,
+  "var": 0.7632,
   "speech_s": 1312.4,
   "tokens": 1684,
   "kw": [
    [
+    "oui",
+    "Oui, c'est ma famille. Qui est cet homme?",
+    14,
+    21,
+    5.8,
+    12
+   ],
+   [
+    "veux",
+    "Tu veux faire tes devoirs maintenant?",
+    242,
+    246,
+    5.61,
+    11
+   ],
+   [
+    "maintenant",
+    "Tu veux faire tes devoirs maintenant?",
+    242,
+    246,
+    5.53,
+    10
+   ],
+   [
+    "regarde",
+    "On regarde les vieilles photos. Bonjour mamie.",
+    404,
+    414,
+    5.13,
+    10
+   ],
+   [
+    "maman",
+    "Salut maman! Tu as passé une bonne journée?",
+    139,
+    147,
+    4.74,
+    11
+   ],
+   [
+    "papa",
+    "Salut, papa. Ça va?",
+    281,
+    287,
+    4.57,
+    6
+   ],
+   [
+    "chocolat",
+    "On prend aussi du chocolat? Allez, un peu de chocolat.",
+    619,
+    627,
+    4.49,
+    6
+   ],
+   [
+    "mets",
+    "Mets-les dans le placard. D'accord.",
+    1144,
+    1150,
+    4.76,
+    5
+   ],
+   [
     "mamie",
     "Bonjour mamie. Bonjour Emma.",
-    410
+    410,
+    417,
+    3.86,
+    9
    ],
    [
-    "crêpes",
-    "On prépare des crêpes. Bonjour mamie.",
-    959
+    "chérie",
+    "Très bien ma chérie. Qu'est-ce que tu fais?",
+    419,
+    425,
+    4.17,
+    4
    ],
    [
-    "coiffeur",
-    "Oh, tu es allée chez le coiffeur.",
-    840
+    "maths",
+    "J'ai eu français, maths et sport.",
+    158,
+    164,
+    4.09,
+    4
    ],
    [
-    "popcorn",
-    "Je voudrais du popcorn. Bonne idée!",
-    607
-   ],
-   [
-    "baguettes",
-    "Une ou deux baguettes? Deux baguettes, s'il te plaît.",
-    1258
+    "croissant",
+    "Tu veux un croissant? Un croissant au beurre.",
+    1268,
+    1276,
+    4.11,
+    3
    ],
    [
     "pyjama",
     "Et ton pyjama? Oh, j'ai oublié mon pyjama.",
-    719
+    719,
+    727,
+    3.57,
+    2
+   ],
+   [
+    "baguettes",
+    "Une ou deux baguettes? Deux baguettes, s'il te plaît.",
+    1258,
+    1266,
+    3.41,
+    2
+   ],
+   [
+    "popcorn",
+    "Je voudrais du popcorn. Bonne idée!",
+    607,
+    613,
+    3.26,
+    2
    ]
   ],
-  "tx": "Voici ma famille. Salut. C'est ta famille? Oui, c'est ma famille. Qui est cet homme? C'est mon père. Comment il s'appelle? Il s'appelle Julien. Et cette femme? C'est ma mère. Comment elle s'appelle? Elle s'appelle Claire. Tu as une sœur? Oui, j'ai une sœur. Comment elle s'appelle? Elle s'appelle Emma. Elle a quel âge? Elle a 15 ans. Tu as un frère? Non, je n'ai pas de frère. Et eux, qui sont-ils? Ce sont mes grands-parents. C'est ta grand-mère? C'est ma grand-mère Monique. Et lui? C'est mon grand-père Pierre. Ils habitent où? Ils habitent à Lyon. Tu vas chez eux? J'y vais le dimanche. Vous mangez ensemble? Oui, on mange ensemble. Ta grand-mère cuisine? Oui, elle prépare le déjeuner. Tu aimes ta famille? J'aime beaucoup ma famille. Ta famille est grande. Après l'école Salut Lucas! Salut maman! Tu as passé une bonne journée? Très bonne, merci. L'école, ça va? Ça va bien. Tu as eu quel cours aujourd'hui? J'ai eu français, maths et sport. Tu aimes les maths? Non, c'est difficile. Et le français? J'aime bien le français. Qu'est-ce que vous avez fait? On a lu un petit texte. C'était facile? C'était assez facile. Et le sport? On a joué au football. Tu as joué avec tes amis? J'ai joué avec Paul et Hugo. Tu as mangé à la cantine? Oui, j'ai mangé avec mes amis. Qu'est-ce que tu as mangé? Du poulet avec du riz. C'était bon? C'était très bon. Ça s'est bien passé avec les professeurs? Ils étaient très contents. Tu as des devoirs? J'ai un peu de maths. Et du français? J'ai un exercice de français. Tu veux faire tes devoirs maintenant? Je voudrais manger quelque chose d'abord. Tu veux un fruit? Une pomme, s'il te plaît. Après, tu fais tes devoirs. D'accord, maman! Une mauvaise note. Salut Lucas! Salut, papa. Ça va? Pas très bien. Qu'est-ce qu'il y a? J'ai une mauvaise note. Dans quell",
+  "tx": "Voici ma famille. Salut. C'est ta famille? Oui, c'est ma famille. Qui est cet homme? C'est mon père. Comment il s'appelle? Il s'appelle Julien. Et cette femme? C'est ma mère. Comment elle s'appelle? Elle s'appelle Claire. Tu as une sœur? Oui, j'ai une sœur. Comment elle s'appelle? Elle s'appelle Emma. Elle a quel âge? Elle a 15 ans. Tu as un frère? Non, je n'ai pas de frère. Et eux, qui sont-ils? Ce sont mes grands-parents. C'est ta grand-mère? C'est ma grand-mère Monique. Et lui? C'est mon grand-père Pierre. Ils habitent où? Ils habitent à Lyon. Tu vas chez eux? J'y vais le dimanche. Vous … J'ai eu français, maths et sport. Tu aimes les maths? Non, c'est difficile. Et le français? J'aime bien le français. Qu'est-ce que vous avez fait? On a lu un petit texte. C'était facile? C'était assez facile. Et le sport? On a joué au football. Tu as joué avec tes amis? J'ai joué avec Paul et Hugo. Tu as mangé à la cantine? Oui, j'ai mangé avec mes amis. Qu'est-ce que tu as mangé? Du poulet avec du riz. C'était bon? C'était très bon. Ça s'est bien passé avec les professeurs? Ils étaient très contents. Tu as des devoirs? J'ai un peu de maths. Et du français? J'ai un exercice de français. … as eu combien? J'ai eu 8 sur 20. Tu es déçu? Un peu. Le contrôle était difficile? Très difficile. Tu as bien révisé? Pas assez. Pourquoi? J'étais fatigué hier. Tu as fait tes exercices? Pas tous. Tu comprends la leçon? Pas très bien. Quelle partie est difficile? Les fractions. Tu peux demander de l'aide au professeur? Je vais lui demander demain. Tu veux aussi mon aide? Avec plaisir. On travaille après le dîner. D'accord. Tu as un autre contrôle bientôt? Vendredi. Alors, on va réviser un peu chaque jour. C'est une bonne idée. Ne t'inquiète pas. Merci papa. Tu peux faire mieux la prochaine … C'est moi. Toi, mamie? Oui, j'ai huit ans sur cette photo. Tu es très jolie. Merci ma chérie. Et cette femme? C'est ma mère. C'est mon arrière-grand-mère? Exactement. Comment elle s'appelle? Elle s'appelle Madeleine. Et cet homme? C'est mon père, Louis. Et ce garçon? C'est mon frère, Michel. Tu as un frère? Oui, j'ai un frère et une sœur. Comment s'appelle ta sœur? Elle s'appelle Sophie. Elle habite où? Elle habite à Paris. Tu la vois souvent? Je la vois pour Noël Et cette photo? C'est ton père quand il était petit. Papa est très drôle. Il a six ans sur cette photo. On regarde un film en … Tu veux le regarder? Pourquoi pas ! On regarde le film dans le salon? D'accord, le canapé est confortable. Tu veux quelque chose à manger? Je voudrais du popcorn. Bonne idée! Et toi, tu veux quoi? Je vais prendre quelques biscuits. On prend aussi du chocolat? Allez, un peu de chocolat. Et quelque chose à boire? Il y a du jus d'orange. Parfait! Tu peux préparer le popcorn? Bien sûr! Je prépare les boissons. Le film commence à quelle heure? À vingt heures. On a encore le temps! Tu peux appeler maman? Oui, elle est dans la cuisine. Alors, tout le monde est prêt? Presque. Allez, le film … Voilà, je l'ai. Tu as ton téléphone? Il est dans mon sac. Et ton chargeur? Je l'ai aussi. Parfait, on peut partir. Tu as les billets de train? Ils sont sur mon téléphone. Le train part à quelle heure? À dix heures vingt. On a le temps? On a encore trente minutes. La gare est loin? Non, elle est à quinze minutes. On va à la gare comment? On prend le tram. On arrive à quelle heure chez mamie? Vers midi. Mamie vient nous chercher? Elle nous attend à la gare. Super, elle sait qu'on arrive? Je lui ai téléphoné ce matin. On reste combien de jours? On reste tout le week-end. Je suis … maintenant. Ça te va très bien. J'avais envie de changer. C'est une bonne idée. Au début, j'étais un peu nerveuse. Pourquoi? J'avais peur de couper trop court. Et maintenant, tu es contente? Très contente. Tu as aussi changé la couleur? Non, c'est ma couleur naturelle. Tu préfères les cheveux courts? Je ne sais pas encore. C'était long chez le coiffeur. Environ quarante minutes. Il y avait beaucoup de monde? Non, pas beaucoup. Le coiffeur était sympa? Très sympa. Tu as une photo avant la coupe? Elle est sur mon téléphone. Montre-moi. Regarde, c'était ce matin. Quelle différence? Je … le placard. Et après? Il nous faut trois oeufs. Je prends les oeufs. Fais attention. Il faut du lait aussi? Il nous faut un demi-litre de lait. Et du sucre? Deux cuillères de sucre. On met du beurre? Un peu de beurre. Je mélange maintenant? Mélange doucement. Comme ça? C'est parfait. La pâte est prête? Presque. Attends un peu. Et maintenant? Maintenant, on fait cuire les crêpes. Je peux essayer? D'accord, mais fais attention. Ma crêpe est prête. Elle est très belle. Tu veux de la confiture? Je préfère un peu de sucre. Moi, je prends du chocolat. Bon appétit, ma chérie. On range la … Et tes livres? Je les mets sur l'étagère. Très bien. Et ton bureau? Je vais le ranger aussi. Il y a des papiers partout. Je les mets où? Mets-les dans ce tiroir. Et mes cahiers? Mets-les dans ton sac. Mon sac est plein. Alors, regarde ce qu'il y a dedans. Il y a beaucoup de vieux papiers. Tu peux les jeter. Bonne idée. N'oublie pas de faire ton lit. Je le fais maintenant. Tu as presque fini? Encore cinq minutes. Après, tu peux jouer. Super. Ta chambre est beaucoup mieux maintenant. Merci, maman. On va à la boulangerie. Bonjour Emma. Bonjour maman. Ça va ce matin? Très bien, merci. … au chocolat. Mamie aime les croissants aussi. Alors, on prend un croissant pour elle. Et pour papa? Il aime les chaussons aux pommes. On en prend un? Oui, un chausson aux pommes. Regarde les gâteaux! Ils sont très beaux. On peut acheter un petit gâteau? Un petit gâteau pour le dessert. Merci, maman. Tu préfères lequel? Celui au chocolat. Très bon choix. On a tout maintenant? Je crois que oui. Alors, on rentre? Oui, allons à la maison. J'ai faim maintenant. Moi aussi. Si vous avez aimé ces cours dialogue en français laissez votre avis dans les commentaires et n'oubliez pas de vous abonner.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.715
+  "src": "cc"
  },
  "yGzOnDPkBLs": {
   "channel": "Français Plus Facile",
   "lang": "fr",
-  "checked": "2026-11-01T16:06:25+00:00",
+  "checked": "2026-11-09T19:26:40+00:00",
   "title": "On va cueillir des pommes ! 🍏 (français authentique)",
   "duration": 628,
   "published": "20260922",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 140.0,
   "rare": 0.0368,
+  "var": 0.7471,
   "speech_s": 581.9,
   "tokens": 1358,
   "kw": [
    [
-    "myrtilles",
-    "train de me gaver de myrtilles comme un gamin de 5 ans. Il y a plein de sortes de",
-    28,
-    35
+    "vois",
+    "mais je vois qu'il fait beau, donc c'est quand même super confortable.",
+    107,
+    116,
+    5.45,
+    28
+   ],
+   [
+    "vais",
+    "pommes. Donc je vais goûter aussi d'autres sortes qu'on va trouver en chemin. Hm,",
+    34,
+    41,
+    5.58,
+    18
+   ],
+   [
+    "plein",
+    "Elle a plein de jus. Mmm yes, j'adore ! J'adore les framboises. Je suis en",
+    19,
+    29,
+    5.24,
+    16
+   ],
+   [
+    "puis",
+    "mes sandales et puis on va partir. Et puis ce sera l'occasion pour toi de voir le vocabulaire,",
+    62,
+    71,
+    5.67,
+    11
    ],
    [
     "pommes",
     "pommes. Donc je vais goûter aussi d'autres sortes qu'on va trouver en chemin. Hm,",
     34,
-    41
+    41,
+    4.21,
+    22
    ],
    [
-    "gaver",
+    "euh",
+    "hein. C'est la première fois. Donc on va partir en voiture et puis euh on va ramasser des pommes.",
+    75,
+    86,
+    4.57,
+    6
+   ],
+   [
+    "sortes",
     "train de me gaver de myrtilles comme un gamin de 5 ans. Il y a plein de sortes de",
     28,
-    35
+    35,
+    4.29,
+    4
    ],
    [
-    "bleuets",
-    "Alors là, il y a des bleuets. Les bleuets en français, c'est les myrtilles. Au Québec,",
-    305,
-    314
-   ],
-   [
-    "framboises",
-    "Elle a plein de jus. Mmm yes, j'adore ! J'adore les framboises. Je suis en",
-    19,
-    29
+    "fruits",
+    "tu vois, sur les fruits qui sont tombés. En tout cas, ceux qui sont mûrs sont tombés",
+    380,
+    389,
+    4.58,
+    3
    ],
    [
     "goûter",
     "pommes. Donc je vais goûter aussi d'autres sortes qu'on va trouver en chemin. Hm,",
     34,
-    41
+    41,
+    4.1,
+    7
    ],
    [
-    "abîmée",
-    "elle est un petit peu abîmée, tu vois. Elle est un peu jaune là. Je sais pas si ça c'est",
-    508,
-    513
+    "attraper",
+    "Celles qui sont tout en haut là, on peut pas les attraper mais on peut quand même",
+    245,
+    250,
+    3.93,
+    4
    ],
    [
-    "mûrs",
-    "pas encore mûrs, mais tu vois celle que je viens de prendre là, elles sont bien. Alors moi ici,",
-    326,
-    338
+    "plu",
+    "Alors il a beaucoup plu, il a plu toute la nuit donc je ne sais pas du tout si c'est",
+    85,
+    92,
+    4.13,
+    3
+   ],
+   [
+    "bracelet",
+    "on va aller voir. Pour la cueillette, on doit porter un bracelet. Tu vois,",
+    201,
+    209,
+    3.94,
+    3
+   ],
+   [
+    "imaginais",
+    "peut-être que j'imaginais autre chose. J'imaginais des grands arbres, il faut monter. Ah, celle-ci,",
+    501,
+    509,
+    3.45,
+    2
+   ],
+   [
+    "cueillir",
+    "différentes. Donc on va voir celle qu'on peut cueillir aujourd'hui. Euh toutes les pommes",
+    136,
+    144,
+    3.35,
+    2
+   ],
+   [
+    "sandales",
+    "mes sandales et puis on va partir. Et puis ce sera l'occasion pour toi de voir le vocabulaire,",
+    62,
+    71,
+    3.34,
+    2
+   ],
+   [
+    "cueillette",
+    "et puis il y a tous les pommiers autour et c'est nous qui faisons la cueillette.",
+    155,
+    161,
+    3.24,
+    2
+   ],
+   [
+    "myrtilles",
+    "train de me gaver de myrtilles comme un gamin de 5 ans. Il y a plein de sortes de",
+    28,
+    35,
+    2.84,
+    6
+   ],
+   [
+    "gaver",
+    "train de me gaver de myrtilles comme un gamin de 5 ans. Il y a plein de sortes de",
+    28,
+    35,
+    2.99,
+    4
+   ],
+   [
+    "framboises",
+    "Elle a plein de jus. Mmm yes, j'adore ! J'adore les framboises. Je suis en",
+    19,
+    29,
+    2.99,
+    3
+   ],
+   [
+    "bleuets",
+    "Alors là, il y a des bleuets. Les bleuets en français, c'est les myrtilles. Au Québec,",
+    305,
+    314,
+    2.98,
+    3
    ]
   ],
-  "tx": "Elle a plein de jus. Mmm yes, j'adore ! J'adore les framboises. Je suis en train de me gaver de myrtilles comme un gamin de 5 ans. Il y a plein de sortes de pommes. Donc je vais goûter aussi d'autres sortes qu'on va trouver en chemin. Hm, j'adore. Il y a plein de bestioles dessus mais c'est pas grave. Hop ! Ah ! Aujourd'hui, on va aller ramasser des pommes. On va aller dans la campagne. Je vais mettre mes sandales et puis on va partir. Et puis ce sera l'occasion pour toi de voir le vocabulaire, comment est-ce qu'on ramasse des pommes, etc. Alors, je vais être honnête, je l'ai jamais fait, hein. C'est la première fois. Donc on va partir en voiture et puis euh on va ramasser des pommes. Alors il a beaucoup plu, il a plu toute la nuit donc je ne sais pas du tout si c'est très praticable mais moi j'ai que mes sandales. Donc on va voir comment ça se passe et on y va. Alors, il y en a juste pour 30 minutes, hein. 30 minutes de route, mais je vois qu'il fait beau, donc c'est quand même super confortable. Bon, voilà. Donc, je vais mettre ma ceinture, je vais boucler ma ceinture et puis on y va. Ça y est, on arrive. Il y a plein d'arbres différents. Il y a plein de variétés de pommes différentes. Donc on va voir celle qu'on peut cueillir aujourd'hui. Euh toutes les pommes ne sont pas encore prêtes. Donc on va voir. Ça y est, on est arrivé. Donc tu vois, la ferme est là et puis il y a tous les pommiers autour et c'est nous qui faisons la cueillette. On ramasse les pommes qu'on veut dans un panier et puis ensuite il calcule et on emmène les pommes. Donc on va aller voir ça. Alors ils ont quand même un petit un petit magasin. On va voir. Ils vendent des produits euh des compotes, des confitures et puis bien sûr leurs pommes. Et apparemment, on peut goûter dehors pour savoir ce qu'o",
+  "tx": "Elle a plein de jus. Mmm yes, j'adore ! J'adore les framboises. Je suis en train de me gaver de myrtilles comme un gamin de 5 ans. Il y a plein de sortes de pommes. Donc je vais goûter aussi d'autres sortes qu'on va trouver en chemin. Hm, j'adore. Il y a plein de bestioles dessus mais c'est pas grave. Hop ! Ah ! Aujourd'hui, on va aller ramasser des pommes. On va aller dans la campagne. Je vais mettre mes sandales et puis on va partir. Et puis ce sera l'occasion pour toi de voir le vocabulaire, comment est-ce qu'on ramasse des pommes, etc. Alors, je vais être honnête, je l'ai jamais fait, … va ramasser des pommes. Alors il a beaucoup plu, il a plu toute la nuit donc je ne sais pas du tout si c'est très praticable mais moi j'ai que mes sandales. Donc on va voir comment ça se passe et on y va. Alors, il y en a juste pour 30 minutes, hein. 30 minutes de route, mais je vois qu'il fait beau, donc c'est quand même super confortable. Bon, voilà. Donc, je vais mettre ma ceinture, je vais boucler ma ceinture et puis on y va. Ça y est, on arrive. Il y a plein d'arbres différents. Il y a plein de variétés de pommes différentes. Donc on va voir celle qu'on peut cueillir aujourd'hui. Euh … on est arrivé. Donc tu vois, la ferme est là et puis il y a tous les pommiers autour et c'est nous qui faisons la cueillette. On ramasse les pommes qu'on veut dans un panier et puis ensuite il calcule et on emmène les pommes. Donc on va aller voir ça. Alors ils ont quand même un petit un petit magasin. On va voir. Ils vendent des produits euh des compotes, des confitures et puis bien sûr leurs pommes. Et apparemment, on peut goûter dehors pour savoir ce qu'on va ramasser. Donc on va aller voir. Pour la cueillette, on doit porter un bracelet. Tu vois, il faut le coller. J'enlève la petite … tenir ici. Voilà, tu vois, j'ai mon bracelet. et on va pouvoir aller cueillir les pommes. Donc tu vois là, il y a plein de pommes. Alors ça, c'est des McIntosh. Tu prends celles qui sont à portée. Donc il y en a quand même pas mal. Tu vois, il y en a en bas, il y en a en haut. Celles qui sont tout en haut là, on peut pas les attraper mais on peut quand même attraper beaucoup de pommes euh à niveau, tu vois. C'est à peu près à mon niveau. Là, je peux attraper pas mal de choses. Et puis surtout on peut goûter. Donc je vais goûter, alors je vais pas goûter celle-ci, mais je vais en goûter … Ça c'est des gars là. Je vais prendre celle-ci. Je vais la frotter un peu. Je sais pas s'ils utilisent beaucoup de produits chimiques. On va voir. Sent bon. Hm. Elle a plein de jus. Ah yes ! Super bonne. Alors là, il y a des bleuets. Les bleuets en français, c'est les myrtilles. Au Québec, ils disent des bleuets, mais en France, on dit des myrtilles. Tu vois ce fruit là très foncé ? C'est super. J'adore. C'est un petit peu tôt apparemment, tu vois. Il y en a plein qui sont pas encore mûrs, mais tu vois celle que je viens de prendre là, elles sont bien. Alors moi ici, je n'arrive pas à … qu'elles sont bien mûres parce que elles viennent toutes seules, tu vois. Il y a pas besoin de le tirer, ça vient tout seul. Je sais pas si je vais manger beaucoup de pommes parce que je suis en train de me gaver. Me gaver, ça veut dire que j'en mange sans me contrôler. Je suis en train de me gaver de myrtilles comme un gamin de 5 ans. Je vois qu'il y a plein de myrtilles par terre parce qu'il a beaucoup plu hier et je pense que ça a eu un impact négatif, tu vois, sur les fruits qui sont tombés. En tout cas, ceux qui sont mûrs sont tombés et c'est dommage. Tu vois, il y a aussi des … quand même très bon. Tu vois, il y en a quelques-unes qui sont bien mûres. Hm, j'adore. Il y a plein de bestioles dessus mais c'est pas grave. J'adore les framboises en fait. Je pense que j'adore tous les fruits, hein, c'est ça mon problème. J'adore tous les fruits. Je pourrais manger ça pendant des heures. Alors, je vais peut-être être malade, hein. C'est pas c'est pas super pour le transit, mais bon, tu vois, une fois en passant, c'est bien. Hm. Tu vois, j'ai encore de la place. Je suis en train de manger une golden. J'aime beaucoup les golden, mais il y a plein de sortes de pommes. Donc … choisi un sac de cette taille et je vais prendre les pommes au fur et à mesure. Tu vois, quand je vois qu'elles sont bien, je les mets dans le sac. Ah, elle sent super bon. Elles sentent vraiment la pomme prête à prête à être mangée. Voilà. Donc c'est pas vraiment des grands arbres, tu vois. C'est très facile. Je sais pas, peut-être que j'imaginais autre chose. J'imaginais des grands arbres, il faut monter. Ah, celle-ci, elle est un petit peu abîmée, tu vois. Elle est un peu jaune là. Je sais pas si ça c'est un problème ou pas. Non. OK. Donc, tu vois, rien que sur ce plan là, il y a … pourrie, tu vois. C'est une pomme pourrie. Elle est plus du tout consommable. Il y a sûrement des insectes. Et tu vois, la chair a changé de couleur. Elle, c'est un peu... on dit qu'elle est pourrie. Bon, on va bientôt se calmer. Tu vois, le sac est bientôt rempli. Ça c'est des gars là, elles sont un petit peu plus petites. Euh voilà. Donc on va terminer de remplir le sac et puis tu vois, on va pas tout manger trop vite. C'est l'avantage des pommes, c'est qu'on peut les garder longtemps, tu vois, si tu les laisses dans ton frigo. Donc voilà, on a de quoi faire. On peut les manger comme ça. … plein de choses possibles. La tarte tatin avec des pommes. Il y a plein de recettes de dessert avec des pommes. Le chausson aux pommes. Donc on va voir, on va décider. Voilà, le sac est plein, vraiment plein cette fois. Donc il faut pas beaucoup de temps hein pour faire ça. Tu vois en trois quarts d'heure, tu peux remplir très facilement un sac. C'est le bon moment et euh on a de quoi faire. On a de quoi faire. Ça veut dire qu'on a largement la possibilité d'essayer plein de choses avec ces pommes. On a de quoi faire. Donc voilà, je vais te dire au revoir pour aujourd'hui et puis à très vite.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7594
+  "src": "cc"
  },
  "AamN7IoeSBM": {
   "channel": "French Breakdown",
@@ -631,176 +1132,529 @@
  "ostV5Va7uHQ": {
   "channel": "Français avec Pierre",
   "lang": "fr",
-  "checked": "2026-11-01T16:13:08+00:00",
+  "checked": "2026-11-09T19:32:05+00:00",
   "title": "62 Phrases pour Réagir Naturellement en français",
   "duration": 1810,
   "published": "20261016",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 195.1,
   "rare": 0.0144,
+  "var": 0.7844,
   "speech_s": 1541.4,
   "tokens": 5013,
   "kw": [
    [
-    "familier",
-    "Dans un registre familier, on va dire simplement: C'est génial!",
-    185,
-    189
+    "exemple",
+    "Par exemple, dans des situations comme celle-ci:",
+    19,
+    22,
+    5.4,
+    38
    ],
    [
-    "formel",
-    "mais on pourrait imaginer la même réplique dans un registre plus formel.",
-    225,
-    230
+    "voulez",
+    "si vous voulez avoir l'air plus français.",
+    313,
+    316,
+    4.9,
+    24
    ],
    [
-    "vouvoiement",
-    "Et vous voyez que je l'ai mis avec le vouvoiement parce que dans un registre",
-    1129,
-    1133
+    "français",
+    "Vous connaissez le français, vous connaissez vos règles de grammaire,",
+    0,
+    5,
+    5.78,
+    23
    ],
    [
-    "élégant",
-    "Là, c'est soutenu, mais c'est très élégant.",
-    1124,
-    1127
+    "parce",
+    "Et oui, parce que dans les conversations naturelles de tous les jours,",
+    52,
+    57,
+    5.73,
+    23
    ],
    [
-    "étonnerait",
-    "vous pouvez être un petit peu plus frontal et dire: Ça m'étonnerait.",
-    1032,
-    1039
+    "registre",
+    "Et puis, je vous expliquerai aussi le registre de langue",
+    114,
+    118,
+    4.33,
+    21
    ],
    [
-    "relancer",
-    "C'est comment relancer naturellement une conversation.",
-    1482,
-    1487
-   ],
-   [
-    "doutais",
-    "intéressante, c'est: Je m'en doutais. Mais là, c'est un petit peu comme quand quelqu'un va vous révéler quelque chose.",
-    523,
-    531
+    "naturel",
+    "Vous avez besoin de réfléchir et ce n'est pas tout à fait naturel.",
+    14,
+    19,
+    4.72,
+    15
    ],
    [
     "réagir",
     "au moment de réagir, vous prenez encore un peu trop de temps.",
     10,
-    14
+    14,
+    4.25,
+    10
+   ],
+   [
+    "utilise",
+    "On l'utilise beaucoup. C'est: Sans blague?",
+    421,
+    425,
+    4.79,
+    9
+   ],
+   [
+    "familier",
+    "Dans un registre familier, on va dire simplement: C'est génial!",
+    185,
+    189,
+    3.87,
+    11
+   ],
+   [
+    "relancer",
+    "C'est comment relancer naturellement une conversation.",
+    1482,
+    1487,
+    3.9,
+    6
+   ],
+   [
+    "enthousiasme",
+    "ou montrer simplement son enthousiasme. Donc, on va voir ça chapitre par chapitre.",
+    109,
+    115,
+    4.12,
+    5
+   ],
+   [
+    "expressions",
+    "Et savoir utiliser d'autres expressions pour réagir à ce genre de situation,",
+    40,
+    47,
+    4.06,
+    5
+   ],
+   [
+    "formel",
+    "mais on pourrait imaginer la même réplique dans un registre plus formel.",
+    225,
+    230,
+    3.56,
+    5
+   ],
+   [
+    "étonnerait",
+    "vous pouvez être un petit peu plus frontal et dire: Ça m'étonnerait.",
+    1032,
+    1039,
+    3.54,
+    4
+   ],
+   [
+    "empathie",
+    "On a de l'empathie. Par exemple: Oh, tu dois être tellement heureux!",
+    242,
+    247,
+    3.58,
+    3
+   ],
+   [
+    "subtile",
+    "Donc, il faut le dire de manière un petit peu subtile pour ne pas",
+    996,
+    1001,
+    3.56,
+    3
+   ],
+   [
+    "intonation",
+    "Là, c'est vraiment l'intonation et la tête que vous allez faire qui nous permettent",
+    710,
+    714,
+    2.97,
+    2
+   ],
+   [
+    "vouvoiement",
+    "Et vous voyez que je l'ai mis avec le vouvoiement parce que dans un registre",
+    1129,
+    1133,
+    2.28,
+    2
    ]
   ],
-  "tx": "Vous connaissez le français, vous connaissez vos règles de grammaire, vous avez même un bon vocabulaire, mais au moment de parler, au moment de réagir, vous prenez encore un peu trop de temps. Vous avez besoin de réfléchir et ce n'est pas tout à fait naturel. Par exemple, dans des situations comme celle-ci: un ami vous annonce une bonne nouvelle, une personne vous dit quelque chose qui vous surprend, une autre vous propose quelque chose d'intéressant. Dans ce type de situation, en français, vous avez souvent tendance à dire toujours la même chose. Et justement, c'est ça qui fait que ce n'est pas très naturel. Et savoir utiliser d'autres expressions pour réagir à ce genre de situation, ça peut vraiment tout changer et vous faire passer un cap en français. Et oui, parce que dans les conversations naturelles de tous les jours, les Français utilisent plein de petites expressions très fréquentes comme: tu m'étonnes! Tant mieux! Ça alors! Pourquoi pas! Ça va de soi, etc. Ce genre d'expression, elles sont très importantes à connaître. Ça vous permettra d'avoir beaucoup plus de fluidité, et je le répète encore une fois, de parler avec plus de naturel. Dit d'une autre façon, ces petites phrases peuvent faire une grosse différence, voire toute la différence. Aujourd'hui, nous allons donc voir 62 phrases, 62 répliques pour réagir de manière naturelle en français. Et cela dans dix situations concrètes de la vie de tous les jours. Réagir à une bonne nouvelle, réagir à une mauvaise nouvelle, montrer que l'on comprend une émotion, réagir à quelque chose d'évident ou montrer simplement son enthousiasme. Donc, on va voir ça chapitre par chapitre. Et puis, je vous expliquerai aussi le registre de langue parce que c'est important. On ne va pas réagir de la même manière si vous êtes, par e",
+  "tx": "Vous connaissez le français, vous connaissez vos règles de grammaire, vous avez même un bon vocabulaire, mais au moment de parler, au moment de réagir, vous prenez encore un peu trop de temps. Vous avez besoin de réfléchir et ce n'est pas tout à fait naturel. Par exemple, dans des situations comme celle-ci: un ami vous annonce une bonne nouvelle, une personne vous dit quelque chose qui vous surprend, une autre vous propose quelque chose d'intéressant. Dans ce type de situation, en français, vous avez souvent tendance à dire toujours la même chose. Et justement, c'est ça qui fait que ce n'est … Génial! Félicitations! Une phrase intéressante aussi, c'est dire simplement: Quelle bonne nouvelle! Là, ce n'est plus un registre familier, c'est un registre neutre. Vous pouvez l'utiliser dans n'importe quelle situation. Nous avons finalement obtenu un financement. Quelle bonne nouvelle ! Registre un petit peu plus familier: Je suis super content pour toi! Ce \"super\", ça a une note un petit peu familière, mais on pourrait imaginer la même réplique dans un registre plus formel. Par exemple: Je suis très heureux pour vous. Mais retenez bien cette structure: pour toi, pour vous. On peut … je vous le recommande. Dans un registre légèrement plus familier, plus relax, vous avez le classique: Ça alors! Les Français adorent utiliser ça. Tu te souviens de Julie ? Je viens de la croiser à Tokyo. Le monde est petit! Ça alors ? Oui, ça, c'est sûr, le monde est petit! Et dans le même style, si vous voulez insister encore plus: Je n'en reviens pas! Allez, une un petit peu plus familière, mais très bien aussi. On l'utilise beaucoup. C'est: Sans blague? Littéralement, cela signifie: tu ne plaisantes pas? Mais elle signifie tout simplement: vraiment? C'est comme dire \"vraiment\", mais ça … projet, une idée, quelque chose qui lui tient à cœur. Et c'est important de montrer aussi votre enthousiasme. Alors, je vous propose: Excellente idée! C'est simple, c'est positif. Bon, ça marche avec tous les registres. D'accord ? Et si nous allions au restaurant de la dernière fois? Très bonne idée! Ou: Excellente idée! Alors, dans le même style, vous pourriez dire: Ça me plaît bien! Je trouve ça sympathique, ça me plaît bien. Et si vous voulez montrer votre enthousiasme pour un plan, une phrase très bien, c'est: Je suis partant! Ou: Je suis partante! Évidemment, si vous êtes une femme. … alors! Tu vas devoir prendre le suivant. Allez, ce n'est pas grave, ne t'inquiète pas. Sachez que les Français utilisent aussi un mot très vulgaire qui est: put... Et pour remplacer ce mot, on utilise souvent aussi: Purée! Oh purée! Bon allez! Ne t'en fais pas! Vous pouvez aussi soutenir votre ami en lui disant, par exemple: Ce n'est vraiment pas de chance. Quand il a raté quelque chose et que ce n'est pas sa faute, c'est une question de chance: Ce n'est vraiment pas de chance. Allez, t'inquiète pas, ça va aller. Ou si vous voulez montrer votre empathie, vous pouvez dire aussi: Je … vous n'êtes pas convaincu. Donc, il faut le dire de manière un petit peu subtile pour ne pas froisser la personne. Alors, au lieu de dire directement: Non, c'est totalement faux, etc. C'est mieux d'émettre un doute. Par exemple: Tu es sûr ? Ou bien sûr: Vous êtes sûr ? Vous voyez, vous ne vous opposez pas frontalement, mais vous proposez juste d'émettre un doute. Alors bien sûr, ça va dépendre de l'intonation, du ton que vous y mettez. Par exemple: Vous êtes sûr ? Ou: Vous êtes sûr? Et si vraiment, vous ne croyez pas votre interlocuteur, plutôt pour un ami, vous pouvez être un petit peu … Allez, on va au resto ce soir? Ça marche. Ici, ce n'est pas le verbe \"marcher\". Marcher, ici, ça veut dire que ça fonctionne. Une autre, dans un registre assez familier: Ça me va. Ça veut dire que pour moi, c'est bon, c'est OK, ça me va. Cette solution me convient. Dans un registre plus formel, on va dire: Volontiers! Faites attention à la prononciation. Je n'ai pas dit: volontière, volontiers. Et on met un S à la fin. Vous reprendrez un peu de gâteau ? Volontiers! Et si, au contraire, vous ne voulez pas, mais vous voulez dire que vous ne voulez pas de manière polie, vous pourrez dire: Ça … aussi, on peut utiliser: Ça dépend. Oui, parce que ça dépend des situations, ça dépend des cas, etc. Oui, moi, je crois que c'est plutôt comme ceci, comme cela. Je crois que ça dépend. Ça dépend de la situation. Ça dépend de ce que tu cherches. Et j'en profite pour faire une micro parenthèse parce que justement, si vous voulez bien apprendre le français, ce n'est pas si simple. Ça dépend de votre situation, de votre niveau, de votre temps disponible et surtout de vos objectifs. Et c'est pour ça que sur Français avec Pierre, nous avons développé énormément de solutions pour que justement, … mais finalement, je ne sais pas si ça va se faire. Attends, qu'est-ce que tu veux dire par là ? Ça peut même être limite quand vous commencez à vous énerver un petit peu, mais en restant calme: Mais qu'est-ce que tu veux dire par là ? C'est-à-dire que vous demandez à la personne de préciser parce que ça commence à vous inquiéter, on va dire. Et finalement, si c'est vous qui êtes en train de parler et que vous voulez relancer la discussion, que vous voulez continuer la discussion, vous voulez connaître l'avis de votre interlocuteur, tout simplement, vous vous arrêtez et puis vous lui … dit. Tu viendras me voir ? Avec plaisir! Je compte sur toi! Ça marche! Et alors, tu commences quand ? Vous voyez, il n'y a aucune phrase bien compliquée. Et pourtant, ce dialogue paraît très naturel. Pourquoi ? Parce qu'il utilise beaucoup de toutes ces phrases qu'on vient de voir dans cette vidéo. Cette vidéo qui, j'espère, vous aura été utile. Si c'est le cas, n'oubliez pas de nous le dire en nous mettant un pouce vers le haut. Vous pouvez aussi vous abonner à cette chaîne et partager cette vidéo. Prenez bien soin de vous et on se retrouve justement dans une prochaine vidéo. À très bientôt!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8189
+  "src": "cc"
  },
  "cac8cn7MwQo": {
   "channel": "Français Authentique",
   "lang": "fr",
-  "checked": "2026-10-27T21:29:57+00:00",
+  "checked": "2026-11-09T19:40:06+00:00",
   "title": "Sais-tu encore ne rien faire ? (Café Avec Johan 22)",
   "duration": 1622,
   "published": "20261019",
+  "spoken": "fr",
+  "spoken_v": 2,
   "pace": 166.7,
   "rare": 0.0211,
+  "var": 0.7809,
   "speech_s": 1586.3,
   "tokens": 4406,
   "kw": [
    [
-    "pauses",
-    "je me disais : chaque moment de ma journée doit être utile. Même mes pauses. Pendant mes pauses,",
-    124
+    "parce",
+    "parce que si tu as cliqué sur cette vidéo, c'est que tu connais probablement cette sensation",
+    17,
+    25,
+    5.73,
+    23
    ],
    [
-    "hobby",
-    "mettre en place des systèmes que c'est devenu un hobby. Donc, en fait, plus j'avais de temps,",
-    558
+    "minutes",
+    "encore ne rien faire, même pour quelques minutes, même pour dix minutes ? Pas sûr,",
+    10,
+    18,
+    5.31,
+    20
    ],
    [
-    "podcast",
-    "dans mon podcast Marchez avec Johan. Une bonne chose faite à l'excès, ça devient mauvaise.",
-    630
+    "vraiment",
+    "Et le troisième frein, on a vu la culpabilité, l'ennui ; le troisième frein au fait de vraiment",
+    367,
+    376,
+    5.8,
+    17
    ],
    [
-    "brainstorming",
-    "coups de téléphone, résoudre des problèmes, donc en faire une sorte de brainstorming avec moi-même.",
-    888
+    "moment",
+    "qu'on peut commencer à tous ressentir quand on a un petit moment pour soi.",
+    24,
+    31,
+    5.66,
+    15
    ],
    [
-    "expliquais",
-    "je marche plus, je marche en moyenne 10 km par jour, et j'adore ça. Et j'expliquais dans un",
-    869
+    "moments",
+    "de moins en moins, les petits moments de la vie. Un des grands freins à ça, parce qu'il y a souvent",
+    198,
+    206,
+    4.65,
+    9
+   ],
+   [
+    "pensées",
+    "Ou alors tu vas être perdu dans tes pensées pour penser ou pour réfléchir à l'avenir. Et moi,",
+    49,
+    56,
+    4.42,
+    9
+   ],
+   [
+    "café",
+    "Salut, et merci de me rejoindre pour ce nouvel épisode de Café avec Johan. Est-ce que tu sais",
+    0,
+    11,
+    4.76,
+    7
+   ],
+   [
+    "vidéos",
+    "pour vraiment vivre de ce que j'aime, pour être toujours là, 15 ans après, à faire des vidéos de",
+    483,
+    492,
+    4.76,
+    7
+   ],
+   [
+    "smartphone",
+    "le smartphone devenait très envahissant. Pendant des années, j'ai eu le smartphone dans la main,",
+    1055,
+    1062,
+    4.19,
+    8
    ],
    [
     "échecs",
     "pendant ma pause de l'après-midi, ou alors je vais faire une partie d'échecs,",
-    801
+    801,
+    806,
+    4.02,
+    6
+   ],
+   [
+    "authentique",
+    "énormément travaillé : au début de Français Authentique, j'avais à la fois mon travail en",
+    447,
+    453,
+    3.97,
+    5
+   ],
+   [
+    "culpabilité",
+    "c'est la culpabilité. Tu vas culpabiliser, tu vas dire : « Non, mais attends, je devrais faire",
+    216,
+    225,
+    3.96,
+    5
+   ],
+   [
+    "pauses",
+    "je me disais : chaque moment de ma journée doit être utile. Même mes pauses. Pendant mes pauses,",
+    124,
+    130,
+    3.45,
+    7
+   ],
+   [
+    "podcast",
+    "dans mon podcast Marchez avec Johan. Une bonne chose faite à l'excès, ça devient mauvaise.",
+    630,
+    639,
+    3.57,
+    4
+   ],
+   [
+    "hobby",
+    "mettre en place des systèmes que c'est devenu un hobby. Donc, en fait, plus j'avais de temps,",
+    558,
+    565,
+    3.17,
+    3
+   ],
+   [
+    "anticipation",
+    "faire des pauses, de vraiment souffler, c'est l'anticipation. Où l'on se dit : « bon, ben là,",
+    375,
+    381,
+    3.59,
+    2
+   ],
+   [
+    "dopamine",
+    "comme malade, comme étant quelqu'un qui a une addiction, à la dopamine notamment.",
+    1416,
+    1425,
+    2.96,
+    2
+   ],
+   [
+    "remplacements",
+    "Donc, il faut aussi, et ça, c'est un peu le défi, le challenge, c'est de trouver des remplacements,",
+    743,
+    754,
+    2.93,
+    2
+   ],
+   [
+    "expliquais",
+    "je marche plus, je marche en moyenne 10 km par jour, et j'adore ça. Et j'expliquais dans un",
+    869,
+    875,
+    2.76,
+    2
+   ],
+   [
+    "brainstorming",
+    "coups de téléphone, résoudre des problèmes, donc en faire une sorte de brainstorming avec moi-même.",
+    888,
+    895,
+    2.55,
+    2
    ]
   ],
-  "tx": "Salut, et merci de me rejoindre pour ce nouvel épisode de Café avec Johan. Est-ce que tu sais encore ne rien faire, même pour quelques minutes, même pour dix minutes ? Pas sûr, parce que si tu as cliqué sur cette vidéo, c'est que tu connais probablement cette sensation qu'on peut commencer à tous ressentir quand on a un petit moment pour soi. Tu imagines, tu as un petit moment, tu as dix minutes qui arrivent, qui sont disponibles, mais tu vas prendre ton téléphone, tu arrives, tu prends ton téléphone, parce que c'est le comportement par défaut quand on a dix minutes de temps. Ou alors tu vas te dire : « Tiens, qu'est-ce que je pourrais faire pendant ces dix minutes ? » Ou alors tu vas être perdu dans tes pensées pour penser ou pour réfléchir à l'avenir. Et moi, je connais bien ça, ça fait très longtemps que j'en parle et ça fait aussi un bon moment que j'ai simplifié à la fois mes journées ; donc j'ai commencé par travailler un peu moins, être plus focalisé, simplifier tout un tas de tâches administratives, etc. Mais en simplifiant, je me suis aperçu que j'avais du mal à ne rien faire et que je remplissais. Donc, on vide des choses, on enlève des obligations et on remplit de tâches supplémentaires ou de complexités supplémentaires. Et aujourd'hui, j'aimerais bien qu'on voie ensemble déjà qu'on réalise que ce n'est pas forcément bon d'être tout le temps en train de remplir, de chercher à être productif, de chercher à produire, à faire des choses. Parfois, on peut juste prendre plaisir à souffler. On n'a pas besoin de rendre chaque minute de notre journée utile. Encore une fois, par le passé, je me disais : chaque moment de ma journée doit être utile. Même mes pauses. Pendant mes pauses, je veux lire. Pendant mes marches, je veux marcher vite pour être essoufflé. Donc, on",
+  "tx": "Salut, et merci de me rejoindre pour ce nouvel épisode de Café avec Johan. Est-ce que tu sais encore ne rien faire, même pour quelques minutes, même pour dix minutes ? Pas sûr, parce que si tu as cliqué sur cette vidéo, c'est que tu connais probablement cette sensation qu'on peut commencer à tous ressentir quand on a un petit moment pour soi. Tu imagines, tu as un petit moment, tu as dix minutes qui arrivent, qui sont disponibles, mais tu vas prendre ton téléphone, tu arrives, tu prends ton téléphone, parce que c'est le comportement par défaut quand on a dix minutes de temps. Ou alors tu vas … fait, on est tout le temps en train d'apprendre, d'agir, ou de réagir, de construire, et on n'apprécie plus finalement, ou de moins en moins, les petits moments de la vie. Un des grands freins à ça, parce qu'il y a souvent trois réactions quand on a un peu de temps devant nous, si on reprend cet exemple des dix minutes, tu as dix minutes devant toi. Déjà, le premier sentiment, si tu ne fais rien, c'est la culpabilité. Tu vas culpabiliser, tu vas dire : « Non, mais attends, je devrais faire quelque chose là, je devrais produire ». C'est aussi ce que le monde nous dit en permanence, on vit … culpabilité, l'ennui ; le troisième frein au fait de vraiment faire des pauses, de vraiment souffler, c'est l'anticipation. Où l'on se dit : « bon, ben là, tout va bien en ce moment », mais il faut que je me prépare à la suite, parce que la suite risque d'être compliquée. Donc, le corps est là, détendu plus ou moins, mais la tête est déjà en train de régler les prochains problèmes, en train de préparer le lendemain. Et parfois, c'est un mélange des trois : on n'arrive pas à se reposer, on n'arrive pas à se poser, parce qu'on est à la fois victime de la culpabilité, de l'ennui et de … gagné, je l'utilisais à étudier des moyens de gagner encore plus de temps. C'est un peu la course folle à la productivité, tu sais, puisque moi, la productivité, j'ai tellement aimé ça, j'ai tellement aimé apprendre, mettre en place des systèmes que c'est devenu un hobby. Donc, en fait, plus j'avais de temps, plus je travaillais à gagner du temps. Et au final, c'est un peu n'importe quoi. Parce que finalement, le temps libre, il est là pour se reposer. Il est là pour profiter. Il n'est pas là pour être rempli en permanence. Tu as peut-être déjà eu cette sensation de te dire : vivement … faut aussi, et ça, c'est un peu le défi, le challenge, c'est de trouver des remplacements, de trouver des remplacements, parce que si on dit : « bon, je me repose », et pendant ces moments de repos, je n'ai pas le droit, par exemple, d'écouter des contenus, je n'ai pas le droit de me former à fond, ou de temps en temps, ce n'est pas forcément une règle ultime, eh bien, on ne saura pas quoi faire et on ne sait pas quoi faire. Il faut trouver un équilibre, mais le texte ne continue pas, il semble s'arrêter ici. Donc, il faut trouver des activités de remplacement et de substitution. Et c'est … mais je ne suis pas là à me dire : « tiens, ça, il faut que je pense à cette idée » et à prendre des notes sur mon téléphone ou à commencer à faire un brainstorming avec l'intelligence artificielle. Non, je me garde à ces moments et, bien sûr, après, si j'ai envie d'écouter un podcast ou une conférence de Jim Rohn, je peux le faire. Mais ces 10-15 premières minutes, j'essaie de regarder autour de moi, observer des choses, laisser mes pensées venir ; des pensées viennent, des pensées repartent, mais ça ne veut pas dire que je suis obligé d'agir dessus. Moi, j'ai toujours eu tendance à dire … se brosser les dents sans se rajouter des stimulations ? Donc, moi, je pense qu'on peut nourrir ces vides et on peut même les rechercher. Donc, aujourd'hui, c'est une des règles que j'ai : cet espace mental que j'ai récupéré n'a pas de prix, ce n'est pas le smartphone. Je vais commencer par le matin : pas de smartphone pendant ma routine matinale, le smartphone reste dans le couloir, pas de smartphone dans la pièce quand je travaille, sauf si je sais que Céline ou les enfants peuvent devoir me joindre, auquel cas je le mets un peu plus loin dans le bureau, mais pas sur mon bureau. Pas de … ne rien faire, et que j'essaie aujourd'hui de cultiver, parce que dans le monde dans lequel nous sommes, c'est de plus en plus difficile à faire. Et je pense qu'à l'époque dans laquelle nous entrons, avec la technologie, les réseaux, l'intelligence artificielle, ceux qui seront capables de se focaliser, de rester quelques minutes à s'ennuyer, à penser, à ne rien faire, seront les plus heureux. Les autres risquent fort d'abîmer leur cerveau et de ne plus vraiment savoir quoi faire, parce qu'ils seront tout le temps dans cette boucle infernale ; ils risquent de ne pas s'en apercevoir, et … sûr, ce n'est pas une chose qui va venir comme ça. Moi, je me considère comme malade, comme étant quelqu'un qui a une addiction, à la dopamine notamment. J'avais fait un épisode de podcast, aussi, Marchez avec Johan, dans lequel j'expliquais, je parlais de cette addiction à la dopamine. Et l'idée, c'est de petit à petit laisser un peu d'espace à notre cerveau. Et je t'invite à vraiment tester ça par de petits, de tout petits défis, mais de quelques minutes, tous les jours. Et pendant ces pauses, tu n'as rien à prouver. Ça ne veut pas dire que tu négliges le reste. Moi, j'adore toujours … », si ça te plaît. Tu peux bien sûr partager cette vidéo avec tes amis, laisser un petit commentaire. Tu peux me dire si toi, tu arrives à ne rien faire. Peut-être que tu es plus avancé que moi, et que c'est à toi de m'enseigner, dans les commentaires, comment tu fais. Donc, on lit tous vos commentaires, et je serai très heureux de te lire. Et bien sûr, n'oublie pas de t'abonner à la chaîne YouTube de Français Authentique, en activant les notifications. Merci d'avoir passé ce moment avec moi aujourd'hui, et je te dis à très bientôt pour un nouvel épisode de Café avec Johan. Merci, salut !",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7793
+  "src": "cc"
  },
  "PZxVi6lCLAU": {
   "channel": "innerFrench",
   "lang": "fr",
-  "checked": "2026-10-31T16:13:38+00:00",
+  "checked": "2026-11-09T19:30:13+00:00",
   "title": "E197 L'amitié, un lien révolutionnaire ?",
   "duration": 2184,
   "published": "20260701",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 167.8,
   "rare": 0.0263,
+  "var": 0.7889,
   "speech_s": 2164.4,
   "tokens": 6055,
   "kw": [
    [
-    "cetera",
-    "elle et cetera. Tu peux expliquer ce que",
-    155
+    "famille",
+    "comme une nouvelle famille dont je suis",
+    148,
+    154,
+    5.52,
+    44
    ],
    [
-    "recomposées",
-    "recomposées. Des familles recomposées, c'est-à-dire que c'est un couple qui",
-    647
+    "voilà",
+    "majeure. Voilà, les événements ont fait",
+    101,
+    107,
+    5.25,
+    34
    ],
    [
-    "institutionnalisé",
-    "d'institutionnalisé. C'est-à-dire que la République devait",
-    1190
+    "chose",
+    "pas quelque chose qui est officiel aux",
+    198,
+    202,
+    5.7,
+    33
    ],
    [
-    "miser",
-    "Ouais, c'est une bonne expression. Miser",
-    941
+    "quelque",
+    "pas quelque chose qui est officiel aux",
+    198,
+    202,
+    5.54,
+    32
    ],
    [
-    "lgbtq",
-    "le mouvement LGBTQ plus avec notamment",
-    1419
+    "amitié",
+    "L'amitié, un lien révolutionnaire.",
+    0,
+    11,
+    4.55,
+    38
    ],
    [
-    "hétérosexuel",
-    "couple hétérosexuel qui a vocation à devenir parent. Donc,",
-    390
+    "euh",
+    "euh je suis en Espagne pour quelques",
+    23,
+    30,
+    4.57,
+    32
    ],
    [
-    "amitiés",
-    "peut-être les amitiés, comme on peut en",
-    1016
+    "nucléaire",
+    "nucléaire. Ce qu'on appelle famille nucléaire, c'est la famille classique",
+    359,
+    370,
+    4.56,
+    12
+   ],
+   [
+    "liens",
+    "les divorces, il y a les liens qui se",
+    1010,
+    1015,
+    4.72,
+    8
    ],
    [
     "capitalisme",
     "du doigt, c'est le capitalisme. Parce",
-    1893
+    1893,
+    1898,
+    3.93,
+    6
+   ],
+   [
+    "âgées",
+    "France 7500 personnes âgées, donc des",
+    798,
+    806,
+    4.05,
+    5
+   ],
+   [
+    "féministe",
+    "féministe assez connue et elle a écrit",
+    560,
+    564,
+    3.97,
+    5
+   ],
+   [
+    "isolement",
+    "une épidémie d'isolement. Il y a de plus",
+    778,
+    784,
+    3.94,
+    5
+   ],
+   [
+    "miser",
+    "Ouais, c'est une bonne expression. Miser",
+    941,
+    947,
+    3.48,
+    5
+   ],
+   [
+    "podcast",
+    "tout la tête à enregistrer le podcast.",
+    89,
+    96,
+    3.57,
+    2
+   ],
+   [
+    "isolées",
+    "isolées et les chiffres d'ailleurs font",
+    783,
+    789,
+    3.55,
+    2
+   ],
+   [
+    "penseurs",
+    "penseurs des lumières parce que pour les",
+    1097,
+    1104,
+    3.45,
+    2
+   ],
+   [
+    "cetera",
+    "elle et cetera. Tu peux expliquer ce que",
+    155,
+    160,
+    2.48,
+    12
+   ],
+   [
+    "recomposées",
+    "recomposées. Des familles recomposées, c'est-à-dire que c'est un couple qui",
+    647,
+    657,
+    2.25,
+    4
+   ],
+   [
+    "hétérosexuel",
+    "couple hétérosexuel qui a vocation à devenir parent. Donc,",
+    390,
+    399,
+    2.87,
+    3
+   ],
+   [
+    "lgbtq",
+    "le mouvement LGBTQ plus avec notamment",
+    1419,
+    1425,
+    2.77,
+    3
    ]
   ],
-  "tx": "L'amitié, un lien révolutionnaire. Salut à toutes et à tous. Salut Ingrid. Comment ça va après cette longue pause ? Bah écoute, ça va bien là. Actuellement euh je suis en Espagne pour quelques jours, pas très loin de Toulouse hein, vraiment juste j'ai pris la voiture pour aller sur la côte parce que en ce moment, au moment où on enregistre, c'est la canicule, une des nombreuses vagues de chaleur qu'on connaît en ce moment. Et à Toulouse, il fait vraiment très chaud. Donc je suis partie avec une copine et son bébé. On s'est fait un petit moment euh au frais en Espagne sur la côte. Et toi, comment tu vas ? Euh moi ça va. Il fait assez chaud aussi à Marseille, mais c'est plus supportable que chez vous à Toulouse, vu qu'on est au bord de la mer. On a 30 31° alors que toi tu me disais, vous êtes plutôt à autour des 40. Donc nous ça va, on arrive à on arrive encore à respirer. Euh oui, je disais qu'on avait fait une longue pause et c'était pas à cause de la chaleur mais plutôt à cause de raisons personnelles. Notamment de mon côté, les dernières semaines ont été assez assez chargées, assez compliqué, rien de très grave mais j'avais pas du tout la tête à enregistrer le podcast. C'est pour ça que cette pause s'est imposée et on vous l'avait pas dit parce que c'était pas du tout prévu mais c'était on peut dire un cas de force majeure. Voilà, les événements ont fait que on n' pas pu enregistrer d'épisodes et c'est ma faute. Donc voilà, je vous présente mes excuses mais là on est de retour malgré cette chaleur avec un sujet assez léger pour commencer l'été et c'est toi qui l'a choisi d'ailleurs. Alors pourquoi tu tu as choisi ce sujet de l'amitié ? Et ben oui, c'est un sujet en fait sur lequel je commençais à réfléchir bien avant qu'on fasse cette pause parce que c'est vrai que mo",
+  "tx": "L'amitié, un lien révolutionnaire. Salut à toutes et à tous. Salut Ingrid. Comment ça va après cette longue pause ? Bah écoute, ça va bien là. Actuellement euh je suis en Espagne pour quelques jours, pas très loin de Toulouse hein, vraiment juste j'ai pris la voiture pour aller sur la côte parce que en ce moment, au moment où on enregistre, c'est la canicule, une des nombreuses vagues de chaleur qu'on connaît en ce moment. Et à Toulouse, il fait vraiment très chaud. Donc je suis partie avec une copine et son bébé. On s'est fait un petit moment euh au frais en Espagne sur la côte. Et toi, … amitié de Alice Rebo. Et donc j'ai lu ce livre ces derniers mois et je me suis dit \"Ah mais tiens, il y a un sujet de podcast qui pourrait être intéressant à partir de de ces relations qui me paraissent à moi assez banales mais finalement qui sont un vrai sujet qui peut être étudié. Et euh voilà, j'en ai parlé avec toi Hugo et on s'est dit que ça pouvait être pas mal d'explorer tout ça. Ouais, c'est vrai que l'amitié c'est un sujet euh qui est assez peu étudié finalement et dont on parle assez rarement surtout si on le compare à l'amour par exemple. C'est vrai que c'est plutôt quelque chose … c'est plus la chose qu'on recherche absolument. Oui. D'ailleurs, c'est même quelque chose qui est souvent tourné en dérision. Je pense que tu as aussi des gens comme ça dans ton entourage, mais les gens qui une fois en couple ne répondent que par on, ils ne disent plus du tout je mais ils disent toujours nous ou on comme s'ils étaient incapables de faire quoi que ce soit sans leur moitié. et euh et voilà, il y a un peu cette vision très fusionnelle du couple qui a tendance à être tourné de plus en plus en dérision. Et c'est vrai que en plus comme on est dans une société patriarcale, on en a … beaucoup plus importante que ce que je croyais avant de préparer cet épisode. Et donc on commence de plus en plus à imaginer que la parentalité, la vie de famille ne doit pas forcément être associé à la vie amoureuse, encore moins à la vie amoureuse hétérosexuelle puisque on en a pas parlé parce que ça ça nous paraît de plus en plus courant, mais il y a aussi les familles homoparentales qui doivent passer par des étapes différentes pour pouvoir former une famille. Et donc ben voilà, c'est un peu la réalité dans laquelle aujourd'hui on est, c'est moins de famille nucléaire et plus de … Miser sur le mauvais cheval, je crois que ça existe aussi en anglais. Je sais pas si ça existe en espagnol, mais miser, il y a plusieurs significations, mais là c'est dans le sens de parier de l'argent. par exemple là en ce moment c'est la coupe du monde de foot. Bon je l'ai pas fait mais on peut dire que j'ai misé 100 € sur la victoire de la France et si la France gagne bah je vais je vais gagner de l'argent. Donc voilà miser parier de l'argent miser sur un cheval quand il y a une course de chevaux une course et il y a l'expression miser sur le mauvais cheval. Autrement dit, on a on n … C'est-à-dire que la République devait organiser les amitiés. Il allait assez loin et il disait que les amis devaient être placés côte à côte au combat, qui devaient être enterrés ensemble, que les hommes devaient déclarer leurs amis chaque année. En fait, comme on a institutionnalisé le couple avec le mariage, lui, il considérait qu'il fallait institutionnaliser l'amitié. Et d'ailleurs, il disait carrément que les personnes qui n'ont pas pas d'amis devraient être bannie de la société. Donc voilà, un peu extrémiste mais en tout cas il y a cette idée que voilà qui a des amis euh présente … leurs amis qui faisaient partie de de la même communauté. Donc là, il a commencé à à avoir ce concept de famille choisie. Donc une famille non pas fondée sur les liens du sang, mais avec des personnes avec qui on a décidé de partager sa vie. pas forcément des couples mais euh voilà, plutôt à travers ce lien d'amitié. Ouais, parce que en plus les communautés LGBTQ plus se reconnaissent dans l'idée d'éloignement de la famille biologique parce que c'est des personnes qui euh peuvent parfois être rejetées par leur famille et donc elles vont trouver des liens qui peuvent ressembler à des liens … expérience. On a des amis qui ne sont pas amis entre eux, soit parce qu'ils se connaissent même pas, soit parce qu'ils s'entendent pas. Et voilà, ce truc d'avoir vraiment un groupe euh c'est quelque chose qui est un mythe et peut-être on peut souffrir parfois de se dire que on n pas cette relation là mais finalement c'est quelque chose qui peut être repensé en se disant que on peut avoir une deux amitiés très proches voire cinq mais qui ne sont pas lié les unes aux autres ou même que si on a la chance d'être très proche de son frère ou de sa sœur bah ça compte aussi comme une amitié … d'or, autrement dit, est quelque chose qui permet de de faire une fortune, de gagner beaucoup d'argent. Vous pouvez imaginer si vous aviez une poule qui pondait des œufs en or, bah ça vous permettrait de devenir riche assez rapidement parce que quand la communauté est faible et qu'on a seulement des familles nucléaires qui vivent côte à côte sans avoir de lien entre elles, bah chaque famille doit acheter sa machine à laver, sa voiture, sa tondeuse à gazon et cetera. Donc ça pour stimuler la la croissance économique, c'est parfait. Alors que justement dans ces nouvelles communautés, il y a … sur un moment où il va y avoir un mariage entre amis qui va être reconnu et puis les impôts le reconnaîtront et cetera. Mais c'est intéressant d'y penser et de le penser comme une réaction à la crise du capitalisme. En effet, voilà, on espère que cet épisode vous a plu, que ça vous aura poussé à réfléchir un peu à à ce concept d'amitié. Peut-être que ça vous a donné envie d'envoyer un petit SMS ou d'appeler vos amis pour reprendre contact. Nous, on a été très content de l'enregistrer pour vous. On se retrouve dans de semaines pour un nouvel épisode. Et oui, à dans semaines. Ciao. Salut.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8213
+  "src": "auto"
  },
  "8a79ytwKPTM": {
   "channel": "Le Monde",

@@ -5521,270 +5521,678 @@
  "EMbZ72cCAzI": {
   "channel": "TED-Ed",
   "lang": "en",
-  "checked": "2026-11-01T16:17:38+00:00",
+  "checked": "2026-11-09T19:36:27+00:00",
   "title": "How to explain something complicated",
   "duration": 569,
   "published": "20260915",
   "spoken": "en",
+  "spoken_v": 2,
   "pace": 163.4,
   "rare": 0.0316,
+  "var": 0.8127,
   "speech_s": 500.0,
   "tokens": 1362,
   "kw": [
    [
-    "prefrontal",
-    "and particularly a part called the prefrontal cortex.",
-    96,
-    100
+    "idea",
+    "What if you need someone to understand an idea that's difficult to explain?",
+    7,
+    12,
+    5.36,
+    10
+   ],
+   [
+    "experience",
+    "But one of the most important things it does is an experience simulator.",
+    119,
+    126,
+    5.27,
+    8
+   ],
+   [
+    "things",
+    "Turns out the prefrontal cortex does lots of things.",
+    117,
+    120,
+    5.74,
+    6
+   ],
+   [
+    "big",
+    "What is it about a big brain that nature was so eager",
+    62,
+    68,
+    5.67,
+    6
+   ],
+   [
+    "happiness",
+    "he planned to explain a complicated concept called “Synthesized Happiness,”",
+    25,
+    32,
+    4.44,
+    9
+   ],
+   [
+    "audience",
+    "Gilbert asks the audience to use their experience simulators",
+    204,
+    209,
+    4.73,
+    5
+   ],
+   [
+    "concept",
+    "he planned to explain a complicated concept called “Synthesized Happiness,”",
+    25,
+    32,
+    4.77,
+    4
+   ],
+   [
+    "turns",
+    "Well, it turns out when brains triple in size,",
+    84,
+    87,
+    4.76,
+    3
    ],
    [
     "simulator",
     "But one of the most important things it does is an experience simulator.",
     119,
-    126
-   ],
-   [
-    "synthesized",
-    "he planned to explain a complicated concept called “Synthesized Happiness,”",
-    25,
-    32
-   ],
-   [
-    "simulators",
-    "Pilots practice in flight simulators so that they don't make real mistakes in planes.",
-    125,
-    131
-   ],
-   [
-    "cortex",
-    "and particularly a part called the prefrontal cortex.",
-    96,
-    100
-   ],
-   [
-    "metaphors",
-    "Each bit gets stronger thanks to metaphors and examples.",
-    481,
-    486
+    126,
+    3.61,
+    7
    ],
    [
     "curiosity",
     "Do you feel a little spark of curiosity?",
     69,
-    73
+    73,
+    3.97,
+    5
    ],
    [
-    "yuck",
-    "and it’s not because they whipped some up, tried it, and went yuck!",
-    180,
-    185
+    "immune",
+    "as a psychological immune system, a system of cognitive processes,",
+    385,
+    390,
+    4.14,
+    4
+   ],
+   [
+    "bias",
+    "He and his coworkers have been researching something called impact bias,",
+    277,
+    283,
+    4.18,
+    3
+   ],
+   [
+    "cortex",
+    "and particularly a part called the prefrontal cortex.",
+    96,
+    100,
+    3.59,
+    5
+   ],
+   [
+    "synthesized",
+    "he planned to explain a complicated concept called “Synthesized Happiness,”",
+    25,
+    32,
+    3.24,
+    5
+   ],
+   [
+    "metaphors",
+    "Each bit gets stronger thanks to metaphors and examples.",
+    481,
+    486,
+    3.23,
+    3
+   ],
+   [
+    "marvelous",
+    "Human beings have this marvelous adaptation that they can actually",
+    131,
+    135,
+    3.53,
+    2
+   ],
+   [
+    "prefrontal",
+    "and particularly a part called the prefrontal cortex.",
+    96,
+    100,
+    2.82,
+    5
+   ],
+   [
+    "simulators",
+    "Pilots practice in flight simulators so that they don't make real mistakes in planes.",
+    125,
+    131,
+    2.91,
+    3
    ]
   ],
-  "tx": "What if you need someone to understand an idea that's difficult to explain? Explaining a complicated idea so that someone can understand it is one of the ways society moves forward. Harvard psychologist Dan Gilbert came to TED with a difficult task. In just a single short talk, he planned to explain a complicated concept called “Synthesized Happiness,” and why it leads us to make incorrect predictions about our own futures. Let's see how he goes about his task. When you have 21 minutes to speak, 2 million years seems like a really long time. But evolutionarily, 2 million years is nothing. And yet in 2 million years, the human brain has nearly tripled in mass; going from the one and a quarter pound brain of our ancestor here, Habilis, to the almost 3 pound meatloaf that everybody here has between their ears. What is it about a big brain that nature was so eager for every one of us to have one? Do you feel a little spark of curiosity? That's the first step to a successful explanation. Once a mind is curious, it opens up. Gilbert continues to spark our curiosity. Well, it turns out when brains triple in size, they don't just get three times bigger, they gain new structures. And one of the main reasons that our brain got so big is because it got a new part called the frontal lobe— and particularly a part called the prefrontal cortex. Now, what does a prefrontal cortex do for you that should justify the entire architectural overhaul of the human skull in the blink of evolutionary time? While keeping us interested, Gilbert introduced the first concept he’ll be building on: prefrontal cortex. Turns out the prefrontal cortex does lots of things. But one of the most important things it does is an experience simulator. Pilots practice in flight simulators so that they don't make ",
+  "tx": "What if you need someone to understand an idea that's difficult to explain? Explaining a complicated idea so that someone can understand it is one of the ways society moves forward. Harvard psychologist Dan Gilbert came to TED with a difficult task. In just a single short talk, he planned to explain a complicated concept called “Synthesized Happiness,” and why it leads us to make incorrect predictions about our own futures. Let's see how he goes about his task. When you have 21 minutes to speak, 2 million years seems like a really long time. But evolutionarily, 2 million years is nothing. And … their ears. What is it about a big brain that nature was so eager for every one of us to have one? Do you feel a little spark of curiosity? That's the first step to a successful explanation. Once a mind is curious, it opens up. Gilbert continues to spark our curiosity. Well, it turns out when brains triple in size, they don't just get three times bigger, they gain new structures. And one of the main reasons that our brain got so big is because it got a new part called the frontal lobe— and particularly a part called the prefrontal cortex. Now, what does a prefrontal cortex do for you that … Turns out the prefrontal cortex does lots of things. But one of the most important things it does is an experience simulator. Pilots practice in flight simulators so that they don't make real mistakes in planes. Human beings have this marvelous adaptation that they can actually have experiences in their heads before they try them out in real life. This is a trick that none of our ancestors could do, that no other animal can do quite like we can. It's a marvelous adaptation. It’s up there with opposable thumbs and standing upright and language as one of the things that got our species … of a flight simulator— helps us understand what an experience simulator is. Now how about an example? All of you have done this. I mean, you know, Ben & Jerry’s doesn’t have liver and onion ice cream, and it’s not because they whipped some up, tried it, and went yuck! It’s because, without leaving your armchair, you can simulate that flavor and say yuck before you make it. Gilbert uses a single strong example of how the experience simulator works, and then you totally get what it is. But now the talk takes a turn. Gilbert asks the audience to use their experience simulators to imagine going … Then he shares a truly amazing piece of information. Interestingly, there are data on these two groups of people, data on how happy they are. And this is exactly what you expected, isn't it? But these aren’t the data, I made these up. These are the data. You failed the pop quiz, and you’re hardly five minutes into the lecture. Because the fact is that a year after losing the use of their legs and a year after winning the lotto, lottery winners and paraplegics are equally happy with their lives. What? That can't be right. This new concept of the experience simulator has suddenly taken you … in that gap. He and his coworkers have been researching something called impact bias, which is the tendency for our experience simulators to work badly— to make us believe different experiences are more different than they actually are. By putting a name on it, impact bias, the mystery of the information we’re struggling to make sense of starts to become more believable. Our curiosity is now burning more brightly than before. Gilbert uses our curiosity to reveal the big idea of his talk. In fact, they really are, from field studies to laboratory studies, we see that winning or losing an … expect them to have. Now, in fact, a recent study— this almost floors me— a recent study showing how major life traumas affect people suggests that if it happened over three months ago, with only a few exceptions, it has no impact whatsoever on your happiness. Why? Because happiness can be synthesized. Sir Thomas Brown wrote in 1642, “I am the happiest man alive. I have that in me that can convert poverty to riches, adversity to prosperity, I am more invulnerable than Achilles; fortune hath not one place to hit me.” Kind of remarkable machinery does this guy have in his head? Well, it … cognitive processes, that help them change their views of the world so that they can feel better about the worlds in which they find themselves. There it is, Gilbert’s big idea: something called Synthetic Happiness. He goes on to describe how this works. It's like an immune system for the mind. Just as the immune system protects our bodies from infection, synthesized happiness protects our peace of mind. Our brains build happiness for themselves, even when things don’t go as planned. Gilbert got his audience to understand synthesized happiness by building on the concepts of prefrontal … After giving us some examples of synthesized happiness in action, He goes on to show how you can live a wiser, happier life if you remember synthetic happiness exists. At the end of the explanation, the way we see the world has been upgraded. It’s richer, deeper, and truer. There is a lot of evidence out there suggesting that this is how understanding must be built. Like a tower, each new block of information supports the next new block of information. Each bit gets stronger thanks to metaphors and examples. The metaphors show us the shape of each new idea so that the mind knows how to … metaphors and examples can you use to help listeners understand things they may not be familiar with yet? It can be tricky to spot what things an audience may need help understanding. We all suffer from something economist Robin Hogarth calls “the curse of knowledge.” Basically, we find it hard to remember what it feels like not to know something that we ourselves do know. This might be the most important requirement for clear communication. You can’t give a powerful new idea to an audience unless you can figure out how to explain it. That can only be done step by step, fueled by curiosity.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.817
+  "src": "cc"
  },
  "8qQW4LTWgtc": {
   "channel": "Kurzgesagt – In a Nutshell",
   "lang": "en",
-  "checked": "2026-11-01T16:19:30+00:00",
+  "checked": "2026-11-09T19:37:54+00:00",
   "title": "Why Earth Sucks Compared to the Planet Hestia",
   "duration": 892,
   "published": "20260526",
   "spoken": "en",
+  "spoken_v": 2,
   "pace": 159.0,
   "rare": 0.0661,
+  "var": 0.8529,
   "speech_s": 862.4,
   "tokens": 2285,
   "kw": [
    [
-    "coastlines",
-    "So for Hestia, we maximize coastlines and avoid mega continents.",
-    365,
-    371
+    "earth",
+    "Earth seems like a paradise for life but it's actually kind of mid.",
+    5,
+    12,
+    5.06,
+    17
    ],
    [
-    "dwarfs",
-    "70% of stars are red dwarfs.",
-    81,
-    85
+    "perfect",
+    "So perfect for the emergence of life, filled with not just biomass",
+    22,
+    27,
+    5.2,
+    15
    ],
    [
-    "ecosystems",
-    "evaporation produces so much rain that wildfires never get powerful enough to wipe out ecosystems.",
-    504,
-    511
+    "surface",
+    "Hestia’s radius is 1.3 times Earth’s, so it has 70% more surface area – a lot more space for life.",
+    154,
+    163,
+    4.83,
+    12
+   ],
+   [
+    "star",
+    "Our hottest update for Star Birds is out now!",
+    0,
+    6,
+    5.19,
+    10
+   ],
+   [
+    "planet",
+    "Could there be a planet that is not just more suitable for life, but ideal?",
+    17,
+    23,
+    4.68,
+    13
+   ],
+   [
+    "birds",
+    "Our hottest update for Star Birds is out now!",
+    0,
+    6,
+    4.6,
+    6
+   ],
+   [
+    "desert",
+    "but also biodiversity that Earth is a barren desert compared to them.",
+    26,
+    34,
+    4.4,
+    6
+   ],
+   [
+    "thousands",
+    "Hestia’s islands have hundreds of thousands of unique habitats,",
+    419,
+    423,
+    4.77,
+    5
+   ],
+   [
+    "planets",
+    "Superearths, planets larger than Earth that have",
+    38,
+    42,
+    4.05,
+    6
    ],
    [
     "oceans",
     "that sterilizes their planets or boils their oceans away.",
     104,
-    109
+    109,
+    3.76,
+    6
+   ],
+   [
+    "tropical",
+    "cold for much of the year, while tropical rainforests have ideal conditions for life.",
+    404,
+    410,
+    4.18,
+    5
    ],
    [
     "earth’s",
     "Hestia’s radius is 1.3 times Earth’s, so it has 70% more surface area – a lot more space for life.",
     154,
-    163
+    163,
+    3.83,
+    5
    ],
    [
-    "tutor",
-    "On a perfect planet, every student would have access to a great tutor.",
-    799,
-    804
+    "ecosystems",
+    "evaporation produces so much rain that wildfires never get powerful enough to wipe out ecosystems.",
+    504,
+    511,
+    3.52,
+    5
    ],
    [
-    "rainforests",
-    "cold for much of the year, while tropical rainforests have ideal conditions for life.",
-    404,
-    410
+    "dwarfs",
+    "70% of stars are red dwarfs.",
+    81,
+    85,
+    3.17,
+    4
+   ],
+   [
+    "continents",
+    "Earth has one huge downside: most of its land is bound in large continents, whose central areas",
+    353,
+    360,
+    3.55,
+    3
    ],
    [
     "biomass",
     "So perfect for the emergence of life, filled with not just biomass",
     22,
-    27
+    27,
+    3.38,
+    3
+   ],
+   [
+    "coastlines",
+    "So for Hestia, we maximize coastlines and avoid mega continents.",
+    365,
+    371,
+    2.62,
+    3
+   ],
+   [
+    "rainforests",
+    "cold for much of the year, while tropical rainforests have ideal conditions for life.",
+    404,
+    410,
+    2.74,
+    2
    ]
   ],
-  "tx": "Our hottest update for Star Birds is out now! Earth seems like a paradise for life but it's actually kind of mid. Big parts of it are covered by hostile deserts of ice, fire, rock or darkness. Could there be a planet that is not just more suitable for life, but ideal? So perfect for the emergence of life, filled with not just biomass but also biodiversity that Earth is a barren desert compared to them. As we have begun to look deep into our galaxy we’ve found a new and weird type of planet: Superearths, planets larger than Earth that have the potential to not only host life but to be superhabitable. Let's take all the science on exoplanets we have and imagine a perfect world: Hestia – after the Greek goddess of the comfy home – the best possible planet for life in the universe. First of all, we want a perfect star. The Perfect Star for the Perfect World The perfect world needs a perfect star – but that may not be a yellow dwarf like our sun because they die in under 10 billion years and keep getting hotter as they age. 70% of the window for life on earth has already passed. Earth has a mere couple of billion years left before the sun ends it all. 70% of stars are red dwarfs. Pretty small and alive for trillions of years, basically forever. Since they’re not that bright and hot, their habitable zones, where water can be liquid, are pretty close to them. Which makes it very likely that their planets are tidally locked, one hemisphere a hot desert and the other an icy hell. Also, young red dwarfs tend to vomit deadly radiation that sterilizes their planets or boils their oceans away. The perfect stars for life might be orange dwarfs. In the goldilocks zone between red and yellow dwarfs, their energy output is very stable, radiation tends to be less aggressive and most impo",
+  "tx": "Our hottest update for Star Birds is out now! Earth seems like a paradise for life but it's actually kind of mid. Big parts of it are covered by hostile deserts of ice, fire, rock or darkness. Could there be a planet that is not just more suitable for life, but ideal? So perfect for the emergence of life, filled with not just biomass but also biodiversity that Earth is a barren desert compared to them. As we have begun to look deep into our galaxy we’ve found a new and weird type of planet: Superearths, planets larger than Earth that have the potential to not only host life but to be … one hemisphere a hot desert and the other an icy hell. Also, young red dwarfs tend to vomit deadly radiation that sterilizes their planets or boils their oceans away. The perfect stars for life might be orange dwarfs. In the goldilocks zone between red and yellow dwarfs, their energy output is very stable, radiation tends to be less aggressive and most importantly: They live up to 70 billion years, giving life plenty of time to emerge, evolve and thrive. So here’s our perfect star: an orange dwarf, born 3 billion years ago in a calm galactic neighbourhood. For the next tens of billions … strong protection. And Hestia needs plate tectonics to mix its surface around. Venus turned into a 470 degree hell, because without tectonic plates breaking and mixing, the tension and heat below its surface unloads in apocalyptic volcanic eruptions. Continental plates moving into the depths also remove CO2 from the surface, which is great, because excess CO2 makes the atmosphere heat up too much. And they bring up a vital mix of water, minerals and elements that life can feast on. We also have something for you to feast on: our latest video game! We’ve been working on this game together … And, we also added controller support if you’d rather play on the couch or on the go with your Steam Deck. This is the second big update before we gear up for the grand finale. We're looking forward to your feedback and experiences and are now hard at work on the last big content update, the Star Birds full release! Grab Star Birds for a special early bird discount on Steam now! Ok, now that the basis for life is set, let’s see how the surface turns out! We still need to make a bunch of character choices to make Hestia superhabitable. Each upgrade comes with tradeoffs life has to work … of all sizes and shapes. All of its land has access to water, salt or fresh, without a single desert, creating the maximum land surface area for life. Hestia’s biomass on land is also supercharged because we’ll make it 5°C warmer than earth. This doesn’t sound like much but as we know, earth has plenty of spaces that are uncomfortably cold for much of the year, while tropical rainforests have ideal conditions for life. On Earth they hold more biomass than any other land ecosystem, and Hestia is nothing but tropical forests, and ice free polar regions. Hestia’s islands have hundreds of … centipede lizards. But we should move on to another ecosystem that Earth can only dream of: The sky. The Best Possible Sky – Another World to Inhabit Hestia's large mass holds gases much firmer than Earth, so its atmosphere is much thicker with just under one and a half times the pressure – but much richer in oxygen and CO2. This could be catastrophic for life because high levels of oxygen make wildfires more likely and more devastating – but since Hestia is so warm and humid, evaporation produces so much rain that wildfires never get powerful enough to wipe out ecosystems. The upsides … Like this skywhale shooting through the clouds, swallowing millions of tiny bird-like critters. Enormous as they are, they never touch the ground except to lay eggs and when they die. The thick atmosphere also does another thing really well: Transfer sound. Hestia is not a quiet place. Anywhere you are, animals are communicating, warning each other or screaming for mates. This created super weird adaptations like hunters not trying to sneak up but masking their direction of attack with disturbing and distracting noises. But we haven’t even talked about the largest ecosystem: The Best … it more diverse. Hestia’s oceans house breathtakingly vast ecosystems: Corals form living megacities stretching over thousands of kilometers, home to trillions of animals competing for real estate and forming complex relationships. Pseudo crabs and fishlizards and whatever this thing is supposed to be. Bordering the megacities are kelp and algae colonies filled with life like tropical rainforests. But there’s another biodiversity supercharger: coastlines – where land and sea ecosystems meet, nutrients mix, birds eat fish and crocodiles hunt gorillas. Even if they occupy only 7% of the total … a planet where any wound you cut would be filled up in no time. What would they think of our desert planet with winters and ice, with a few specs of green? Would they look at space and say “no thank you” to planets that are so obviously inferior? We don’t know if a planet like Hestia exists. But it actually could. Maybe among the quadrillions of planets in the universe, somewhere around a small and superstable orange dwarf, there is a place that is home to more life today than earth has hosted in its entire history. Here at Kurzgesagt, we know a thing or two about helping people learn. For … way to learn. Its curriculum is designed by experts from MIT, Harvard, Stanford, and Caltech – covering math and coding from grade 5 through college and beyond. It's also perfect for summer break, helping students return to school even sharper than when they left. A perfect planet gives life the conditions to emerge. Brilliant gives minds the conditions to flourish. Click the link below to get started with Brilliant’s tutor for free. You can also upgrade to Premium to get full tutor support. And right now, kurzgesagt viewers can get 20% off an annual subscription at Brilliant.org/nutshell",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8096
+  "src": "cc"
  },
  "dl0-TveDDGA": {
   "channel": "Kurzgesagt – In a Nutshell",
   "lang": "en",
-  "checked": "2026-11-01T16:19:41+00:00",
+  "checked": "2026-11-09T19:38:04+00:00",
   "title": "Our Minds Are Weirder than You Think",
   "duration": 742,
   "published": "20260421",
   "spoken": "en",
+  "spoken_v": 2,
   "pace": 164.8,
   "rare": 0.0351,
+  "var": 0.8195,
   "speech_s": 715.2,
   "tokens": 1964,
   "kw": [
    [
+    "mind",
+    "You exist in a truly secret place nobody but you can enter: Your mind.",
+    0,
+    7,
+    5.41,
+    17
+   ],
+   [
+    "able",
+    "And by looking at them and their evolution we may be able to learn",
+    109,
+    113,
+    5.43,
+    9
+   ],
+   [
+    "different",
+    "humans have and how different our minds must be.",
+    90,
+    95,
+    5.59,
+    7
+   ],
+   [
+    "information",
+    "and your motor output, how you react to information by moving your body.",
+    124,
+    130,
+    5.43,
+    7
+   ],
+   [
+    "minds",
+    "Probably, because how would we know if two minds are the same?",
+    43,
+    49,
+    4.45,
+    28
+   ],
+   [
+    "humans",
+    "humans have and how different our minds must be.",
+    90,
+    95,
+    4.61,
+    8
+   ],
+   [
+    "apple",
+    "What do you see when you imagine an apple?",
+    48,
+    51,
+    4.76,
+    5
+   ],
+   [
+    "inner",
+    "It's the totality of your inner world,",
+    11,
+    14,
+    4.5,
+    5
+   ],
+   [
     "neurons",
     "Roundworms only have 302 neurons in total, yet they are already able to learn things like “this thing",
     182,
-    189
+    189,
+    3.71,
+    7
    ],
    [
-    "simulate",
-    "bird minds are able to simulate a map of reality, including other players.",
-    438,
-    444
+    "emerged",
+    "When life emerged it was without any minds but just cells, able to eat, poop and reproduce.",
+    133,
+    140,
+    4.16,
+    3
    ],
    [
-    "universes",
-    "It is a bit stunning how many variations of inner universes",
-    86,
-    90
-   ],
-   [
-    "octopuses",
-    "Octopuses are very intelligent animals, able to do loads of complex things, so their minds should be somewhat complex.",
-    399,
-    408
-   ],
-   [
-    "simulating",
-    "We humans are not just simulating other minds in our minds.",
-    532,
-    536
+    "complexity",
+    "But as life exploded in complexity and became",
+    161,
+    165,
+    4.02,
+    3
    ],
    [
     "sensory",
     "To create a gap between all of your sensory input,",
     122,
-    125
+    125,
+    3.68,
+    3
    ],
    [
-    "reflexes",
-    "just preprogrammed automated reflexes. With more neurons, animals can “freeze” before they act.",
-    206,
-    214
+    "simulate",
+    "bird minds are able to simulate a map of reality, including other players.",
+    438,
+    444,
+    3.44,
+    4
+   ],
+   [
+    "universes",
+    "It is a bit stunning how many variations of inner universes",
+    86,
+    90,
+    3.1,
+    3
    ],
    [
     "octopus",
     "like the octopus that has about 500 million of them.",
     365,
-    369
+    369,
+    3.46,
+    2
+   ],
+   [
+    "reflexes",
+    "just preprogrammed automated reflexes. With more neurons, animals can “freeze” before they act.",
+    206,
+    214,
+    3.24,
+    2
+   ],
+   [
+    "simulating",
+    "We humans are not just simulating other minds in our minds.",
+    532,
+    536,
+    2.98,
+    2
+   ],
+   [
+    "octopuses",
+    "Octopuses are very intelligent animals, able to do loads of complex things, so their minds should be somewhat complex.",
+    399,
+    408,
+    2.43,
+    2
    ]
   ],
-  "tx": "You exist in a truly secret place nobody but you can enter: Your mind. When we say mind we mean the place where you, whatever you are, exist. It's the totality of your inner world, the location of your consciousness and memories, the toolset of your intelligence. It’s the place where all of your wants, thoughts and emotions happen, where you think, learn, dream and imagine things – consciously and unconsciously. Your mind is truly your own, a universe only directly accessible and inhabited by you – and inaccessible to anyone else in the universe. And your mind is probably unique to you. Probably, because how would we know if two minds are the same? What do you see when you imagine an apple? A detailed scenery, a crisp image with clear details and colour? Is the apple hanging in a void? Can you rotate it? Is it a 2D shape? Is it colorless or transparent or very vague? Or don’t you see anything at all but feel what an apple feels like to you? Maybe a weird mix? Do you have an internal voice that narrates your life? Do you have an inner monologue? Is there silence inside your mind? Do you only hear voices when you read? Or do you process thoughts nonverbally or even just feel the world around you? It is a bit stunning how many variations of inner universes humans have and how different our minds must be. Humans have arguably the most complex minds on earth but today it is widely accepted that minds are not exclusive to us. There are trillions of animal minds out in the world, uncountable little secret universes, forever locked to us. And by looking at them and their evolution we may be able to learn why our minds are as stunning as they are today. A pretty wild idea is that minds might have originally evolved to control your movements. To create a gap between all of your s",
+  "tx": "You exist in a truly secret place nobody but you can enter: Your mind. When we say mind we mean the place where you, whatever you are, exist. It's the totality of your inner world, the location of your consciousness and memories, the toolset of your intelligence. It’s the place where all of your wants, thoughts and emotions happen, where you think, learn, dream and imagine things – consciously and unconsciously. Your mind is truly your own, a universe only directly accessible and inhabited by you – and inaccessible to anyone else in the universe. And your mind is probably unique to you. … feel the world around you? It is a bit stunning how many variations of inner universes humans have and how different our minds must be. Humans have arguably the most complex minds on earth but today it is widely accepted that minds are not exclusive to us. There are trillions of animal minds out in the world, uncountable little secret universes, forever locked to us. And by looking at them and their evolution we may be able to learn why our minds are as stunning as they are today. A pretty wild idea is that minds might have originally evolved to control your movements. To create a gap … as life exploded in complexity and became multicellular, cells began to dedicate themselves to processing information. The first very simple “minds” emerged: little more than tiny gaps. Virtual spaces in which sensory information could be processed for a short moment before these early animals had to react. Roundworms only have 302 neurons in total, yet they are already able to learn things like “this thing is bad” and retain a memory that changes behavior for a few hours before they forget again. Minds on this level most likely don’t reason or think, but use simple rules that work well in … a huge mental map of flowers over square kilometers of terrain, cross referencing it with the position of the sun to find its way. Bees can take shortcuts, so they can’t be simply following reflexes but are actually navigating their internal maps. In extreme cases when resources are scarce, bees can move up to 10km from their hives to collect food – the equivalent of going from Paris to Rome for groceries. And they teach the location of the food by dancing. Minds have emerged a few times in evolutionary history and evolved in different directions, so while we are telling this story … create and send invoices in seconds: just select your customer, add your products and quantities, define the billing terms, and send everything via email. Plus, the built-in chatter gives you an overview of your emails, notes and activities – all in one place. Tracking your payments, with clear statuses and deadlines, is just as simple. You can try all these features for free – because your first Odoo app is free forever, with unlimited support and hosting included. When you’re ready to scale up, Odoo adapts to your needs – you can simply add more apps. And you get access to all … arms are specialized and used primarily for different tasks, like exploring or movement. And we know their arms can make decisions independently to some degree and have some autonomy. Octopuses are very intelligent animals, able to do loads of complex things, so their minds should be somewhat complex. But how does their mind experience things? Is it distributed over their whole body? Does an Octopus feel like multiple smaller minds interacting as one thing? If octopuses show how strange minds can be, birds show how sophisticated they can become if it develops in a different direction. Some … they might be able to simulate the minds of other birds – If a scrub jay is hiding food and notices another jay watching, they will return later and re-hide their stash so it doesn’t get stolen. Which is a perfect transition to what makes the minds of humans so special: While we are probably not the only animals that can simulate other minds inside our mind – humans with our 86 billion neurons have taken it to extraordinary depths. The Internal Universe When humans are born they are cute but selfish blobs of meat, solely focused on their own needs. But around 18–24 months a baby … about what others think. We think about what they think about us thinking about what they think. And so on. There are a lot of layers. This awareness of the minds of others may be one of the origins of our moral conscience and a huge reason why we are able to live in large societies, with other humans we are not related to. And may have spawned one of our most charming obsessions: storytelling. We don’t just remember that an event happened, we imagine what the people that were part of it were thinking, what we think they should have been thinking, what might have happened if they acted … maybe the most amazing thing about human minds is that they're fundamentally social - filled with voices, ideas, and perspectives from countless others. Your thoughts and feelings have been shaped by stories that never happened but that you've absorbed and simulated in your mind in a way that is unique to you. In a very real sense, your secret mind isn't just yours, but a collaborative creation between you and all the human minds that came before. And if you want you can add your stories as well. For the ones that come after. Our latest Limited Edition Pin is here – kicking off the new … from the kurzgesagt universe. If you’ve been around the channel for a while, these might look a little familiar. Mission Control, meet Duck – always ready for another trip through space. Never stare directly into a deadly ray from space – this birb learned the hard way. And whatever you do… never press the big red button. Get one – or all of them – for your desk, bookshelf, or honestly … your life in general. We had a blast designing them, packing each one with love and tiny details. Head over to our shop, we’ve put together a few deals for you. Get your special piece of kurzgesagt now.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7718
+  "src": "cc"
  },
  "h3DCdWyb0cc": {
   "channel": "Kurzgesagt – In a Nutshell",
   "lang": "en",
-  "checked": "2026-11-01T16:19:45+00:00",
+  "checked": "2026-11-09T19:38:08+00:00",
   "title": "The Most Insane Megaproject You Never Heard About",
   "duration": 786,
   "published": "20260330",
   "spoken": "en",
+  "spoken_v": 2,
   "pace": 164.4,
   "rare": 0.0806,
+  "var": 0.8447,
   "speech_s": 734.1,
   "tokens": 2011,
   "kw": [
    [
-    "nukes",
-    "dozens of nukes for a bright future, in the most feverish years of the Cold War,",
-    27,
-    33
-   ],
-   [
-    "radioactive",
-    "The major concern was radioactive contamination.",
-    244,
-    248
-   ],
-   [
-    "ww3",
-    "With public opinion increasingly opposed to the arms race and ever more terrified by WW3,",
-    151,
-    156
-   ],
-   [
-    "nuke",
-    "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs.",
-    0,
+    "news",
+    "Our partner Ground News is a website and app built to help",
+    295,
+    299,
+    5.44,
     6
    ],
    [
-    "thermonuclear",
-    "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs.",
-    0,
+    "across",
+    "They curate news articles from across the globe, adding context on political bias,",
+    303,
+    308,
+    5.25,
     6
+   ],
+   [
+    "power",
+    "A nuke with the power of 3,100 tonnes of TNT was buried 360 meters deep,",
+    364,
+    370,
+    5.52,
+    5
+   ],
+   [
+    "far",
+    "But Teller’s team had missed a tiny detail – the salt contained far more water than expected.",
+    407,
+    413,
+    5.5,
+    5
+   ],
+   [
+    "nuclear",
+    "scientists of the Manhattan Project, the colossal effort that led to the first nuclear bomb.",
+    50,
+    56,
+    4.73,
+    15
+   ],
+   [
+    "canal",
+    "In 1956 Egypt had just nationalized the Suez Canal,",
+    176,
+    181,
+    4.22,
+    8
+   ],
+   [
+    "bomb",
+    "scientists of the Manhattan Project, the colossal effort that led to the first nuclear bomb.",
+    50,
+    56,
+    4.6,
+    7
+   ],
+   [
+    "blast",
+    "doctrine was to blast open a new one through the Israeli desert.",
+    187,
+    192,
+    4.32,
+    7
    ],
    [
     "bombs",
     "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs.",
     0,
-    6
+    6,
+    4.15,
+    10
    ],
    [
-    "crater",
-    "and the collapse ripples upwards until it reaches the floor, where it forms a crater.",
-    273,
-    279
+    "radioactive",
+    "The major concern was radioactive contamination.",
+    244,
+    248,
+    3.72,
+    10
+   ],
+   [
+    "atomic",
+    "Time to blast open a Pan-Atomic Canal!",
+    211,
+    215,
+    3.98,
+    4
    ],
    [
     "fallout",
     "radioactive fallout, even from peaceful nukes.",
     443,
-    447
+    447,
+    3.69,
+    4
+   ],
+   [
+    "nukes",
+    "dozens of nukes for a bright future, in the most feverish years of the Cold War,",
+    27,
+    33,
+    3.14,
+    15
+   ],
+   [
+    "nuke",
+    "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs.",
+    0,
+    6,
+    3.29,
+    5
+   ],
+   [
+    "crater",
+    "and the collapse ripples upwards until it reaches the floor, where it forms a crater.",
+    273,
+    279,
+    3.55,
+    4
+   ],
+   [
+    "excavation",
+    "In a nutshell, nuclear excavation works like this.",
+    258,
+    262,
+    3.46,
+    3
+   ],
+   [
+    "thermonuclear",
+    "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs.",
+    0,
+    6,
+    2.67,
+    3
+   ],
+   [
+    "ww3",
+    "With public opinion increasingly opposed to the arms race and ever more terrified by WW3,",
+    151,
+    156,
+    2.41,
+    3
+   ],
+   [
+    "radioactivity",
+    "but nobody wanted them glowing with radioactivity for thousands of years.",
+    249,
+    254,
+    2.91,
+    2
+   ],
+   [
+    "hollowed",
+    "Deep below, the explosion hollowed a cavern the size of over ten Olympic swimming pools.",
+    402,
+    408,
+    2.82,
+    2
    ]
   ],
-  "tx": "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs. And Panama. And Alaska. All in the name of progress, driven by a mad scientist, to use the most destructive of weapons to… build things. Excavate canals. Carve out harbors. Tap oil and gas. This was Project Plowshare. It kept the US busy for two decades, burned hundreds of millions of dollars and exploded dozens of nukes for a bright future, in the most feverish years of the Cold War, when the world got terrifyingly close to blowing itself up. Nukes for Peace Our story begins with the brilliant Hungarian physicist Edward Teller – one of the key scientists of the Manhattan Project, the colossal effort that led to the first nuclear bomb. But almost from the beginning, he dreamt of destroying the world much harder. “Traditional” nukes, like the Hiroshima and Nagasaki ones, release energy by splitting heavy atoms, like uranium. But these are rare, expensive, and the resulting bombs are difficult to scale up. So Teller lobbied for a different approach – unleash the nuclear fire by smashing together hydrogen atoms. That would allow for bombs thousands of times more powerful. The problem was technically hard, but in the 1950s Teller solved it. The terrifying new thermonuclear bomb made Hiroshima and Nagasaki look like firecrackers. Nuclear fire strong enough to end human civilization itself. The Soviet Union followed quickly and a new madness for destruction took over the world. Teller was having the time of his life as he got to chase his nukiest dreams, like a bomb so powerful that it would wipe out civilization in one single strike – a real thing the US actually started working on. We told this story before, if you want to watch it. And as the perfectly sane man he was, Teller had other great ",
+  "tx": "In the 1960s, the US planned to nuke Israel with hundreds of thermonuclear bombs. And Panama. And Alaska. All in the name of progress, driven by a mad scientist, to use the most destructive of weapons to… build things. Excavate canals. Carve out harbors. Tap oil and gas. This was Project Plowshare. It kept the US busy for two decades, burned hundreds of millions of dollars and exploded dozens of nukes for a bright future, in the most feverish years of the Cold War, when the world got terrifyingly close to blowing itself up. Nukes for Peace Our story begins with the brilliant Hungarian … thermonuclear bomb made Hiroshima and Nagasaki look like firecrackers. Nuclear fire strong enough to end human civilization itself. The Soviet Union followed quickly and a new madness for destruction took over the world. Teller was having the time of his life as he got to chase his nukiest dreams, like a bomb so powerful that it would wipe out civilization in one single strike – a real thing the US actually started working on. We told this story before, if you want to watch it. And as the perfectly sane man he was, Teller had other great ideas, like nuking the Moon to show the commies … plan to use nuclear explosions for peaceful engineering. And who would be put at the helm? Exactly. Cutting Through Continents In 1956 Egypt had just nationalized the Suez Canal, a vital artery for global trade and oil delivery to Europe. So one of the first ideas of the new Build-With-Nukes doctrine was to blast open a new one through the Israeli desert. On the other side of the world, the Panama Canal had long been in need of an upgrade. Scientists explored extension routes and found they would need to remove 1.2 billion cubic meters of earth – 500 Great Pyramids of Giza. A monumental … contamination. Canals and harbors were great, but nobody wanted them glowing with radioactivity for thousands of years. Luckily, Teller had a plan: nuking the land from below. In a nutshell, nuclear excavation works like this. You drill a hole a few hundred meters deep and place the bomb at the bottom. When it goes off, the blast hollows out a cavern in the rock and flash-melts its walls into magma. The molten rock pools at the bottom, the ceiling collapses, and the collapse ripples upwards until it reaches the floor, where it forms a crater. The result is a massive hole on top with … planning to lift its ban on nuclear weapons. Some frame it as a prudent response to the state of the world, while others warn of escalation. Ground News also reveals \"blind spots\" – stories that only one side is covering, showing you what your usual news feed is hiding. As information bubbles are becoming the norm, thinking critically about the news is no longer optional. And Ground News makes it easier to do just that. If you’d like to give them a try, go to ground.news/nutshell, or scan the QR code on the screen. Using this link gives you 40% off an unlimited access subscription, and … ticked. And then, with a distant thud, the ground shuddered. Deep below, the explosion hollowed a cavern the size of over ten Olympic swimming pools. But Teller’s team had missed a tiny detail – the salt contained far more water than expected. Which turned into superheated steam that massively amplified the blast. The hole used to lower the bomb had been designed to collapse and seal itself after the explosion, but the unexpectedly monstrous pressure broke through. So a few minutes after the blast, a plume of radioactive steam erupted from the shaft – damaging cameras and instruments and … excavation itself and check how big the crater could get. The blast displaced 12 million tonnes of soil and hollowed out a gargantuan crater 100 meters deep and 400 meters across – the largest artificial crater in US history. But digging with nukes is tricky. Bury the bomb too deep, and you’ll only get a disappointing dent. Bury it too shallow, and you risk launching a radioactive cloud into the sky. Which was exactly what happened. Someone had miscalculated the depth of the explosion and a plume of radioactivity punched through. Fallout was detected as far as South Dakota and … flat, pretty empty and perfectly nukable. 250 bombs with the power of 8,000 Hiroshimas would do the job. 43,000 people across 17,000 square kilometers would still have to be evacuated. You know, just in case. And shockwaves might shatter windows as far as Costa Rica and Colombia. But what were such details in the grand scheme of progress? So let’s rewind history… and press the button to see what might have happened if Teller had got his way. Ready to push the button? 3… 2… 1… boom The first round of nuclear salvos, close to both coasts obliterates hundreds of square kilometers of pristine … like a self-healing wound. The choices? Leave a mud-choked, glowing blister through the rainforest – or begin a colossal engineering nightmare just to keep the jungle from landsliding onto the canal. Not to mention the ecological apocalypse – and the devastating PR victory that 120 megatons of Nuclear Peace over Latin America would give Cuba and the USSR. Luckily, in our timeline the US blinked and began to sober up. In 1970, a final report killed the Pan-Atomic Canal and, with it, all nuclear excavation projects. But Teller wasn’t ready to let go, so he turned to nuclear fracking. … we are telling dark and novel stories from history that you might never have heard before and that might stay with you, like the greatest pirate, the horrible life of past kings or the bloody war that lead to the number zero. Same Kurzgesagt, different vibe, new style, hand drawn and made with love by real birds. We’ve released over an hour of videos already and the next one, about the struggle for power over the biggest drug cartel ever, is coming out tomorrow at 4PM CET! Head over there now to subscribe and watch the other videos - for history like you haven’t seen itit on Youtube before.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8558
+  "src": "cc"
  },
  "EMouC8eu2Y8": {
   "channel": "Miss Jean Teaches",
@@ -36811,23 +37219,23 @@
  "oNyhcX8jH5g": {
   "channel": "Peppa Pig - Official Channel",
   "lang": "en",
-  "checked": "2026-11-08T15:17:19+00:00",
+  "checked": "2026-11-09T19:22:41+00:00",
   "title": "Peppa Pig Makes a GIANT Sandwich! 😮 Learning How to Pack a Lunch Box | BRAND NEW Peppa Pig Tales",
   "duration": 1622,
   "published": "20261103",
   "spoken": "en",
   "spoken_v": 2,
-  "pace": 104.4,
-  "rare": 0.0621,
-  "var": 0.8087,
-  "speech_s": 1500.3,
+  "pace": 103.3,
+  "rare": 0.0617,
+  "var": 0.8085,
+  "speech_s": 1516.1,
   "tokens": 2610,
   "kw": [
    [
     "food",
     ">> Ooh, maybe at this restaurant the food",
     749,
-    758,
+    756,
     5.4,
     13
    ],
@@ -36867,7 +37275,7 @@
     "restaurant",
     "Mhm, the new restaurant should be right",
     736,
-    743,
+    742,
     4.68,
     10
    ],
@@ -36889,11 +37297,11 @@
    ],
    [
     "ooh",
-    ">> Ooh. >> You can select different toppings for",
-    203,
-    210,
+    ">> Ooh, and banana. >> With pickles and strawberry onions.",
+    110,
+    118,
     3.76,
-    12
+    14
    ],
    [
     "coin",
@@ -36915,7 +37323,7 @@
     "sushi",
     "sushi restaurant. Sushi is a yummy food",
     905,
-    911,
+    910,
     3.68,
     7
    ],
@@ -36957,13 +37365,13 @@
     39,
     47,
     2.49,
-    7
+    6
    ],
    [
     "sprinkles",
-    "sprinkles? >> Sprinkles.",
-    654,
-    660,
+    "Who's ready for sprinkles? >> Sprinkles.",
+    653,
+    659,
     2.95,
     4
    ],
@@ -36984,7 +37392,8 @@
     3
    ]
   ],
-  "tx": "The perfect packed lunch is about the love that goes into making it. >> Yay, sandwiches! My favorite. >> Yummy. >> Today, Peppa and her friends are eating lunch at playgroup. >> Aw, my yogurt exploded. >> Mhm, but yogurt-y carrots are delicious. >> What are you having for lunch, Madame Gazelle? >> Oh, I have the most delicious, crunchy, cheesy I've forgotten my lunch. Oh, uh perhaps I have a snack in the cupboard somewhere. >> Madame Gazelle can't miss lunch. >> Lunch is the best thing since breakfast. She can have one of my sandwiches. There's only one two tiny bites in it. >> I know. Why don't we take a small bit of our lunches and make one big lunch for Madame Gazelle? >> Now, what does Madame Gazelle like to eat? She likes crunchy things. So, how about some lettuce? >> And she likes cheesy things, like cheese. And everyone likes jelly. >> Mhm, maybe Madame Gazelle likes different flavors, like chocolate biscuits and tomato. >> Oh, and banana. >> With pickles and strawberry onions. >> Ew. >> It's perfect. Madam Gazelle, we know you forgot your lunch. So, we made you one instead. >> Oh my. How thoughtful. Oh, what is it? >> It's you. I squashed the blueberry eye. And the horns are my yogurt tea carrot. >> You really shouldn't have. Oh, are you going to try some? Uh, of course. Here I go. Oh, goodness. It's crunchy and cheesy and oh, just the right amount of jiggly. Thank you, children. >> Hooray! >> Everyone likes different things for lunch, but the best lunches are always made with love. >> Hello. >> Peppa and her family are ordering lunch at a sandwich shop. >> Peppa, we don't order at the counter in this sandwich shop. We order at these special screens. >> Oh. Sorry. >> Why don't you have a go at ordering a sandwich, Peppa? >> Ooh. >> You can select different toppi",
+  "tx": "The perfect packed lunch is about the love that goes into making it. >> Yay, sandwiches! My favorite. >> Yummy. >> Today, Peppa and her friends are eating lunch at playgroup. >> Aw, my yogurt exploded. >> Mhm, but yogurt-y carrots are delicious. >> What are you having for lunch, Madame Gazelle? >> Oh, I have the most delicious crunchy cheesy I've forgotten my lunch. Oh, uh perhaps I have a snack in the cupboard somewhere. >> Madame Gazelle can't miss lunch. >> Lunch is the best thing since breakfast. She can have one of my sandwiches. There's only one two tiny bites in it. >> I know. Why … We order at these special screens. >> Oh. Sorry. >> Why don't you have a go at ordering a sandwich, Peppa? You can select different toppings for your baguette by pressing the pictures. >> I'm very hungry. I want a really big, long baguette, please. Lettuce, tomato, and lot of cheese. >> Peppa is adding lots of cheese, and her sandwich is getting bigger and bigger. >> I know you're hungry, Peppa. >> But that might be a bit too much cheese. >> Oh. Okay. >> Now press the send button so the chef can make your order. >> The chefs have received Peppa's order from the machine and are hard at work … even if they aren't exactly what they meant to order. Today, Peppa and her friends are going to the sweet shop. >> Hello, Miss Rabbit. I'd like to buy everything in the sweet shop, please. Here is my coin. >> Peppa and her friends each have one coin to buy a sweet with. >> Here is my coin, too. >> And mine. >> Wow, what a lot of money. But, I'm afraid it's not enough to buy everything in the shop. >> Oh, yes. >> One coin is perfect for trying my new sweet-making machines, though. Just choose a machine, pop your coin in the slot, and push the big red button. >> Strawberry laces. >> But, … >> Peppa loves a sweet treat from the sweet shop. Everyone loves a sweet treat from the sweet shop. >> >> Today, Peppa and her family are driving in a rocket-powered donut. Oh, they're just pretending it's a rocket. Peppa's family are visiting a donut factory. >> First stop is the shape station, where the dough is stamped into rings, like so. >> Wonderful engineering. >> Faster, faster. >> Oh, no. Making donuts is careful work. Less is more. >> Woah! Sorry. >> >> Anyhow, next is the most exciting bit of all, the resting of the donuts. >> When does it start, Miss Rabbit? >> It already has. … great, though, eh? >> Oop, this way everyone. Mhm, the new restaurant should be right about here. >> Peppa and George are very excited for a yummy meal. But all the plates are empty. >> Ooh, maybe at this restaurant the food is pretend. Very much tasty food actually. >> It's not pretend food, Peppa. It's a buffet. >> So, we get to take our plates and choose the food we want. Peppa and George love buffets. >> Can we really try anything we want? >> Of course, but not too much. >> >> Okay. Ooh, some of this and this. This looks yummy. >> trying lots of different foods. How about some yummy soup, … >> It's time for the best part. >> Fortune cookies! >> Aw, the person next to you loves you very much. >> What's mine, Daddy? >> It says, \"Sometimes, to try new things, you have to make them.\" >> That's true. >> >> Today, Peppa and her family are at a sushi restaurant. Sushi is a yummy food from Japan. >> >> There's no one to order food from. I think this restaurant is closed, Mommy. >> It isn't closed, Peppa. We get our food from the train. And our drinks from this screen. Like this. Ahem, like this. Oh, um come on. >> >> Um did you mean to order 17 lychee juices? >> >> I hope we're all … They're easy squeezy. >> Aha. Oh. >> Your phone. >> Mommy Pig has found her phone inside a sushi roll. >> Thank you, chefs. Gosh, it's thirsty work using chopsticks. >> Peppa loves eating at the sushi restaurant. >> >> Good thing our drinks are here. >> Everyone loves eating at the sushi restaurant. >> >> Today is pancake day. So, Peppa and her family are eating at a fancy pancake restaurant. >> Hello. I'll be your chef today. I make the pancakes right at your table, and you get to help. >> What kind of pancakes can we make? >> Any you can think of. We have lots of yummy ingredients. >> I'll … Mr. Bull's plate. >> Oh, yummy. Mm, tall very much. Mm. It's sweet mm and savory. Crunchy and ooh ooh ooh ooh >> >> spicy. Ooh, delicious. >> >> It's a special surprise pancake. >> Oh, mm pancake? >> Peppa and George love making super special surprise pancakes. >> Looks like we'll have to make another for you, too. >> Yay! >> >> But they really love eating them when they're done. Today, Peppa and her family are eating out at a restaurant. >> I'm so hungry. >> And this restaurant has an >> ice cream factory. >> Mm. >> Hello, you two. Your table's actually over here. >> But but but the ice … Evie's nappy is changed, and Mummy and Daddy Pig have almost finished their mains. >> No smell full. Oh, trumpet. >> Whoops-y-daisy, Evie. >> Don't worry, I've got just the thing. >> We can do this, George. We just need to wait a teensy bit longer. >> Done. >> Oh, the mess is all cleaned up, and everyone has finished their food. That means it's >> Ice cream time! Huh? It's broken. >> Oops, silly me. Unplugged it to use the vacuum. >> >> There. >> Peppa and George love having ice cream after dinner. And it's always worth the wait. Today, Mummy Pig has brought Peppa and George for a special … machine has put the wrong clothes on the toys. >> The machine mixed up their clothes, Miss Rabbit. >> Oh yes. Ah well, they still look like fun toys to me and very creative. >> >> Flying egg is fun. >> Wait for us, Peppa. >> Wow. What is this room? >> This is a special new toy machine. Just stand here in the middle, Peppa. >> What is it doing? >> Stay still. >> What was that? >> Ta-da! >> The machine has made a little toy that looks just like Peppa. >> Look, George. I'm tiny. >> >> And so are you. >> >> And George loved making toys in the toy shop, but George really loved being a toy, too.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },

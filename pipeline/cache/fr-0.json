@@ -1364,69 +1364,175 @@
  "6N9491daw0Q": {
   "channel": "maprofdefrançais",
   "lang": "fr",
-  "checked": "2026-11-01T16:15:03+00:00",
+  "checked": "2026-11-09T19:33:51+00:00",
   "title": "Une Québécoise comprend-elle l'argot français?",
   "duration": 999,
   "published": "20260424",
   "spoken": "fr",
+  "spoken_v": 2,
   "pace": 203.0,
   "rare": 0.0319,
+  "var": 0.7336,
   "speech_s": 999.7,
   "tokens": 3382,
   "kw": [
    [
-    "bour",
-    "bour hein. Mais non, ça passe crème. Vas-y, j'y",
-    121,
-    128
+    "ouais",
+    "Ouais, la même, t'inquiète. Il y a un",
+    106,
+    111,
+    5.2,
+    31
    ],
    [
-    "argot",
+    "français",
+    "votre prof de français et de culture du",
+    1,
+    6,
+    5.78,
+    25
+   ],
+   [
+    "chose",
+    "resto histoire de faire quelque chose.",
+    97,
+    103,
+    5.7,
+    20
+   ],
+   [
+    "petit",
     "composé un petit dialogue en argot",
     30,
-    35
+    35,
+    5.67,
+    20
    ],
    [
-    "pogner",
-    "notre verbe pogner. Pogner qui veut",
-    689,
-    695
+    "euh",
+    "Euh, grave, je suis partant. Euh mais",
+    99,
+    105,
+    4.57,
+    27
+   ],
+   [
+    "utilise",
+    "yo, je sais pas pourquoi on utilise ça",
+    169,
+    173,
+    4.79,
+    12
+   ],
+   [
+    "crème",
+    "Mais non, ça passe crème. Vas-y, j'y",
+    123,
+    128,
+    4.39,
+    9
+   ],
+   [
+    "café",
+    "toujours petit dessus, café, un petit café, tu vois, pour en fait",
+    281,
+    288,
+    4.76,
+    5
    ],
    [
     "dalle",
     "Non, que dalle pour l'instant. Pourquoi",
     91,
-    94
+    94,
+    3.98,
+    10
    ],
    [
-    "capte",
-    "Ça me va. Euh, on se capte vers quelle",
-    112,
-    116
+    "expressions",
+    "c'est des expressions exagérées pour dire qu'on est super motivé. OK, je suis",
+    422,
+    430,
+    4.06,
+    6
    ],
    [
-    "capter",
-    "marrant parce que le verbe capter en",
-    661,
-    665
+    "resto",
+    "resto histoire de faire quelque chose.",
+    97,
+    103,
+    4.04,
+    6
    ],
    [
     "taf",
     "Euh le taf. Le taf, c'est Hugo quand",
     720,
-    727
+    727,
+    3.83,
+    6
+   ],
+   [
+    "argot",
+    "composé un petit dialogue en argot",
+    30,
+    35,
+    3.23,
+    8
+   ],
+   [
+    "capte",
+    "Ça me va. Euh, on se capte vers quelle",
+    112,
+    116,
+    3.52,
+    5
    ],
    [
     "tune",
     "diriez plus de tune. On dirait j'ai plus",
     501,
-    507
+    507,
+    3.25,
+    3
+   ],
+   [
+    "dérangé",
+    "dérangé. Je suis en mode pas dérangé",
+    780,
+    784,
+    3.48,
+    2
+   ],
+   [
+    "bour",
+    "bour hein. Mais non, ça passe crème. Vas-y, j'y",
+    121,
+    128,
+    2.63,
+    7
+   ],
+   [
+    "pogner",
+    "notre verbe pogner. Pogner qui veut",
+    689,
+    695,
+    2.38,
+    4
+   ],
+   [
+    "partante",
+    "partante. Je suis partante. On le dit",
+    401,
+    406,
+    2.94,
+    2
    ]
   ],
-  "tx": "Salut tout le monde, c'est Jeun Viè, votre prof de français et de culture du Québec. Aujourd'hui, on a une vidéo spéciale. On a un invité de marque que vous connaissez probablement. Donc, on reçoit Vincent de la chaîne French School TV. Bonjour Vincent. Salut Jeunevè, merci beaucoup pour l'invitation. C'est Ben merci à toi d'avoir accepté. Je suis vraiment vraiment contente. Merci d'avoir accepté mon idée de vidéo parce que là, on voit souvent des vidéos. Est-ce que les Français comprennent les Québécois ? C'est très rare qu'on voit l'inverse. Donc aujourd'hui, Vincent a composé un petit dialogue en argot français et on va voir si moi je comprends. On va essayer de lire le dialogue ensemble peut-être l'afficher. Ça va être très drôle. Est-ce que tu peux nous expliquer un très brièvement ? Sais-tu d'où ça vient l'argot ? C'est quoi ? Ah, c'est une excellente question. Alors en fait l'argot c'est surtout un langage qui a été utilisé par les prisonniers dans les prisons pour justement pouvoir communiquer sans que les gardes sachent de quoi de quoi ça parle. Donc c'est vraiment un langage gangster quoi. OK. Codé secret. Puis ça finit par s'imisser dans la langue de tout le monde. Puis après c'est devenu bien évidemment le langage des jeunes puisque de cette manière ils pouvaient parler sans que leurs parents ou leurs amis sachent de quoi ils sont en train de ce qu'ils sont en train de tramer pour le futur. OK, super. On va allons-y avec le dialogue. Bon ben, on va je vais essayer de lire ça puis là faut que je fasse un accent français. C'est ça. C'est toi qui décide. OK, on va essayer. Yo, tu as un plan pour ce soir ? Non, que dalle pour l'instant. Pourquoi ? Bah, je me disais qu'on pourrait se faire une petite sortie genre bar au resto histoire de faire quelque chose. Euh,",
+  "tx": "Salut tout le monde, c'est Jeun Viè, votre prof de français et de culture du Québec. Aujourd'hui, on a une vidéo spéciale. On a un invité de marque que vous connaissez probablement. Donc, on reçoit Vincent de la chaîne French School TV. Bonjour Vincent. Salut Jeunevè, merci beaucoup pour l'invitation. C'est Ben merci à toi d'avoir accepté. Je suis vraiment vraiment contente. Merci d'avoir accepté mon idée de vidéo parce que là, on voit souvent des vidéos. Est-ce que les Français comprennent les Québécois ? C'est très rare qu'on voit l'inverse. Donc aujourd'hui, Vincent a composé un petit … Euh mais pas un truc trop cher du coup. Je suis à sec ce mois-ci. Ouais, la même, t'inquiète. Il y a un bar sympa pour être chez Wam. Ambiance style, pas de prise de tête. Ça me va. Euh, on se capte vers quelle heure ? Euh, 830. Je finis la tafe à 7, je passe à la maison en mode rapide. OK, cool. Euh mais tu seras pas à la bour hein. Mais non, ça passe crème. Vas-y, j'y serai. C'est bon. À plus. À plus. Ça fait tellement bizarre. Désolé pour la pitoyable imitation. Non mais c'est tu vois c'est il faut tous qu'on s'y mette un jour au final quoi. Tu vois c'est pas forcément je sais pas si … pour ce soir ? C'est ça me semble pas particulièrement français. Un plan, on dirait ça ici aussi me semble. Ouais. Un plan de sortie quoi ? Est-ce que tu as quelque chose de prévu tout simplement ? Un plan pour ce soir. Super. Non, que dalle pour l'instant. Pourquoi donc le fameux que dalle ? En fait, les français, on utilise dalle un petit peu pour tout. J'ai la dalle, ça veut dire j'ai faim. Et que dalle, ça veut dire rien. J'ai la dalle, j'ai faim, mais que dalle, ça veut dire rien du tout. Je fais que dalle ou Ah, il y a que dalle à la télé, il y a rien à la télé tout simplement. … pas j'avais pas remarqué que c'est ça que ça voulait dire là. Mais le petit café c'est c'est plus Ouais. Un café rapide, un café convivial. Ouais. Sans sans prise de tête. Exactement. Le genre, on le dit aussi énormément ici. C'est vraiment un tic de ça. Ça ça me fait plaisir. Alors parce que les français entre genre et du coup, c'est c'est quand on entend parler les gens maintenant, c'est genre et du coup dans toutes les phrases. Donc si vous ne le savez pas, genre c'est du type, non ? Par exemple, barre et resto, une petite sortie du type barre et resto, une petite sortie euh pourquoi … des expressions exagérées pour dire qu'on est super motivé. OK, je suis partant, ça marche, compte sur moi, c'est fantastique, je valide. OK. OK. En québécois, on aurait dit mais comme ça veut dire tu peux le dire mais hm mais maison. OK. Attend sud natal. Moi j'ai une expression qui est mais en faisant qui est une rime au final. Non mais en faisant mais ça veut dire vas-y attaque. OK mais ça je pense que même quelqu'un de Paris euh dirait mais qu'est-ce que ça veut dire cette expression ? C'est cool. Ah ben là c'est sûr que ça prenait au moins un du coup hein. J'en ai mis un quand même … qu'on a nous transformé en gazoile, tu vois. OK, c'est bon. Euh oui, la même c'est comme la même chose. C'est exactement ça. La même. Pareil pour moi. Tu vois ou quand quelqu'un dit bonne journée on dira \"Ouais la même\" ou de même de même pour toi ou la même chose pour toi ou pour vous aussi. De même ça se dit mais c'est la première fois que je vois comme la même chose puis ch intéressant. Nous aussi on élimine des mots. Oui, c'est ça. C'est pas les mêmes. C'est ça. C'est là ça poser le problème. Il y a un bar sa pas près de chez Wam. Ah moi et vous l'avez mis à l'envers. Exactement. C'est … les utilise assez souvent les Français. Ouais, super. Bon ben tant mieux. Euh, ça me va. On se capte vers quelle heure on se capte ? C'est on se rejoint, on s'attrape. Exactement. Ouais. Rejoindre. Rejoindre. Ouais. On se voit à quelle heure, on se capte. Mais le verbe en fait, c'est marrant parce que le verbe capter en français, on l'utilise beaucoup dans l'argot de différentes manières. Euh Ah, j'ai pas réussi à capter euh Marie. On s'est pas capté. Ça ça veut dire on s'est pas vu tout simplement. Mais si vous si on dit à quelqu'un \"Je suis désolé, je capte rien là\", ça veut dire je ne … Je finis le taf, je fini la job. Nous autres, on dirait la job, je fini la job à je passe à la maison en mode rapide. C'est pas quelque chose qu'on dirait ici, mais c'est très transparent là. Vite, rapidement. Ouais, en fait, c'est intéressant les français de plus en plus, on utilise l'expression en mode avec un adjectif à côté qui vient en fait des téléphones portables. Non, mais là, à ce weekend, je suis en mode tranquille, tu vois. Ah, c'est comme si j'avais en fait c'est j'ai mis mon téléphone en mode pas dérangé. Je suis en mode pas dérangé moi, tu vois. Je suis en mode tranquille, … examen comment ça s'est passé ? Ouais, c'est passé crème. Ça veut dire c'est passé tout doux parce que la crème c'est doux. OK. C'est tout doux, sans problème, sans sans accros, sans difficulté, mais on peut l'utiliser de différentes manières. Ouais. Riche, velé et crémeux. J'aime bien. Ah, c'est cool. J'adore. Magnifique. Vas-y. Vous l'utilisez beaucoup vous ou pas du tout ? Ça passe crème ? Non, c'est J'ai jamais entendu ça. Non, mais le vasi qui après Oh, ça passe crème. Vas-y. Je serai en fait, vas-y, tu vois. On l'utilise beaucoup comme allez c'est bon quoi. Vas-y, c'est bon. Et … non, c'est pas quelque chose qu'on dirait ici. Pas vraiment. Vas-y, c'est juste pour motiver la personne au final à faire n'importe quelle chose basiquement. OK, super. Ben écoute, merci beaucoup de m'avoir appris toutes ces belles expressions euh en argot français. Grand plaisir de t'avoir reçu sur la chaîne. J'espère les amis que vous avez appris quelque chose vous aussi. Bien entendu, je vous laisse les liens vers la chaîne de Vincent ici dans la description de la commentaire, dans la description de la vidéo. Puis nous, on se revoit très bientôt pour une autre capsule. Bye tout le monde.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.798
+  "src": "auto"
  },
  "oB6t61bLIXc": {
   "channel": "StoryTalks French",
