@@ -1224,7 +1224,7 @@
  "lYOHvhSn8bM": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-02T03:16:48+00:00",
+  "checked": "2026-11-10T02:25:55+00:00",
   "title": "So redest du über Zeit wie ein Muttersprachler (B2/C1)",
   "duration": 675,
   "published": "20260927",
@@ -1232,73 +1232,10 @@
   "spoken_v": 2,
   "pace": 143.8,
   "rare": 0.0292,
+  "var": 0.8032,
   "speech_s": 643.8,
   "tokens": 1543,
   "kw": [
-   [
-    "jubeljahre",
-    "– „Nur alle Jubeljahre mal. Die Karten sind mir einfach zu teuer geworden.“",
-    141,
-    147,
-    2.26,
-    3
-   ],
-   [
-    "beeilen",
-    "Kein Problem, hilf deinem Sohn ganz in Ruhe bei den Hausaufgaben. Du musst dich nicht beeilen.",
-    433,
-    440,
-    3.27,
-    4
-   ],
-   [
-    "reif",
-    "Wann ist die Zeit eigentlich „reif“? Und was bedeutet es,",
-    0,
-    5,
-    3.94,
-    7
-   ],
-   [
-    "ewigkeit",
-    "- „Eine halbe Ewigkeit. Wir waren zusammen im Kindergarten.“",
-    334,
-    339,
-    4.05,
-    7
-   ],
-   [
-    "ausdrücke",
-    "Im Deutschen benutzen wir viele bildliche Ausdrücke, wenn wir über die Zeit sprechen.",
-    7,
-    13,
-    3.48,
-    3
-   ],
-   [
-    "angelogen",
-    "- „Meinst du, sie findet irgendwann heraus, dass ich sie angelogen habe?“",
-    545,
-    549,
-    3.02,
-    2
-   ],
-   [
-    "gunst",
-    "jetzt die Gunst der Stunde und frage ihn, ob ich nächste Woche Urlaub nehmen kann.“",
-    77,
-    83,
-    3.62,
-    3
-   ],
-   [
-    "drängt",
-    "Die Zeit drängt, wir fliegen doch schon in zwei Monaten nach Japan!“",
-    581,
-    585,
-    3.9,
-    4
-   ],
    [
     "beispiel",
     "Hier ist noch ein Beispiel: - „Das Schwimmbad ist sehr in die Jahre gekommen. Es müsste mal saniert werden.“",
@@ -1306,14 +1243,6 @@
     66,
     5.35,
     12
-   ],
-   [
-    "ausdruck",
-    "als „Sie ist alt“. Man kann diesen Ausdruck auch benutzen, wenn man über Menschen spricht.",
-    36,
-    43,
-    4.53,
-    8
    ],
    [
     "sagen",
@@ -1340,34 +1269,114 @@
     6
    ],
    [
-    "ziemlich",
-    "Einige davon schauen wir uns heute genauer an. - „Unsere Waschmaschine ist ziemlich in die",
-    12,
-    18,
-    5.18,
+    "ausdruck",
+    "als „Sie ist alt“. Man kann diesen Ausdruck auch benutzen, wenn man über Menschen spricht.",
+    36,
+    43,
+    4.53,
+    8
+   ],
+   [
+    "benutzen",
+    "Im Deutschen benutzen wir viele bildliche Ausdrücke, wenn wir über die Zeit sprechen.",
+    7,
+    13,
+    4.67,
     5
    ],
    [
-    "vielleicht",
-    "dass sein Produkt vielleicht in ein",
-    235,
-    238,
-    5.72,
-    5
+    "sage",
+    "Allerdings finde ich, dass das ziemlich unhöflich klingt, deshalb sage ich das nicht.",
+    42,
+    50,
+    4.78,
+    4
    ],
    [
-    "kurz",
-    "Also: Es gab für einen kurzen Moment eine gute Gelegenheit. Weil es kurz nicht geregnet hat,",
-    126,
-    134,
-    5.43,
-    5
+    "passieren",
+    "in der letzten Zeit so entwickelt, dass etwas jetzt passieren kann oder passieren sollte.",
+    192,
+    199,
+    4.78,
+    3
+   ],
+   [
+    "ewigkeit",
+    "- „Eine halbe Ewigkeit. Wir waren zusammen im Kindergarten.“",
+    334,
+    339,
+    4.05,
+    7
+   ],
+   [
+    "reif",
+    "Wann ist die Zeit eigentlich „reif“? Und was bedeutet es,",
+    0,
+    5,
+    3.94,
+    7
+   ],
+   [
+    "drängt",
+    "Die Zeit drängt, wir fliegen doch schon in zwei Monaten nach Japan!“",
+    581,
+    585,
+    3.9,
+    4
+   ],
+   [
+    "gunst",
+    "jetzt die Gunst der Stunde und frage ihn, ob ich nächste Woche Urlaub nehmen kann.“",
+    77,
+    83,
+    3.62,
+    3
+   ],
+   [
+    "beeilen",
+    "Kein Problem, hilf deinem Sohn ganz in Ruhe bei den Hausaufgaben. Du musst dich nicht beeilen.",
+    433,
+    440,
+    3.27,
+    4
+   ],
+   [
+    "ausdrücke",
+    "Im Deutschen benutzen wir viele bildliche Ausdrücke, wenn wir über die Zeit sprechen.",
+    7,
+    13,
+    3.48,
+    3
+   ],
+   [
+    "übertreibung",
+    "benutzen dieses Wort oft als Übertreibung. Wenn wir sagen wollen, dass etwas sehr lange dauert,",
+    346,
+    353,
+    3.25,
+    2
+   ],
+   [
+    "angelogen",
+    "- „Meinst du, sie findet irgendwann heraus, dass ich sie angelogen habe?“",
+    545,
+    549,
+    3.02,
+    2
+   ],
+   [
+    "jubeljahre",
+    "– „Nur alle Jubeljahre mal. Die Karten sind mir einfach zu teuer geworden.“",
+    141,
+    147,
+    2.26,
+    3
    ]
   ],
-  "tx": "Wann ist die Zeit eigentlich „reif“? Und was bedeutet es, wenn eine Waschmaschine „in die Jahre gekommen“ ist? Im Deutschen benutzen wir viele bildliche Ausdrücke, wenn wir über die Zeit sprechen. Einige davon schauen wir uns heute genauer an. - „Unsere Waschmaschine ist ziemlich in die Jahre gekommen. Sie wäscht nur noch, wenn man vorher einmal dagegen tritt.“ Wenn ein Gerät „in die Jahre gekommen ist“, dann ist es alt. Das Gerät funktioniert noch, aber nicht mehr so richtig gut. „Die Maschine ist in die Jahre gekommen“ klingt irgendwie freundlicher und netter als „Sie ist alt“. Man kann diesen Ausdruck auch benutzen, wenn man über Menschen spricht. Allerdings finde ich, dass das ziemlich unhöflich klingt, deshalb sage ich das nicht. Aber wenn jemand ironisch über sich selbst spricht, hört man das schon mal: “Ich bin ganz schön in die Jahre gekommen”, also: “Ich bin ziemlich alt.” Hier ist noch ein Beispiel: - „Das Schwimmbad ist sehr in die Jahre gekommen. Es müsste mal saniert werden.“ Also: Das Schwimmbad ist schon ziemlich alt und das sieht man auch. Es müsste mal erneuert werden. - „Der Chef hat gerade richtig gute Laune.“ – „Dann nutze ich jetzt die Gunst der Stunde und frage ihn, ob ich nächste Woche Urlaub nehmen kann.“ Was passiert hier? Der Chef hat gute Laune. Das ist für mich ein guter Moment, um ihn nach Urlaub zu fragen. Wenn der Chef gute Laune hat, sagt er wahrscheinlich, dass ich Urlaub nehmen darf. „Die Gunst der Stunde nutzen“ bedeutet: Eine günstige Gelegenheit erkennen und sie sofort nutzen. Wichtig dabei: Diese gute Situation hat man meistens nicht selbst geschaffen. Die Umstände haben sich verändert, oft plötzlich, und man greift zu. Also: Ich nutze den guten Moment, der gerade da ist, um etwas zu machen. Noch ein Beispiel: - „Als der Regen aufhö",
+  "tx": "Wann ist die Zeit eigentlich „reif“? Und was bedeutet es, wenn eine Waschmaschine „in die Jahre gekommen“ ist? Im Deutschen benutzen wir viele bildliche Ausdrücke, wenn wir über die Zeit sprechen. Einige davon schauen wir uns heute genauer an. - „Unsere Waschmaschine ist ziemlich in die Jahre gekommen. Sie wäscht nur noch, wenn man vorher einmal dagegen tritt.“ Wenn ein Gerät „in die Jahre gekommen ist“, dann ist es alt. Das Gerät funktioniert noch, aber nicht mehr so richtig gut. „Die Maschine ist in die Jahre gekommen“ klingt irgendwie freundlicher und netter als „Sie ist alt“. Man kann … werden.“ Also: Das Schwimmbad ist schon ziemlich alt und das sieht man auch. Es müsste mal erneuert werden. - „Der Chef hat gerade richtig gute Laune.“ – „Dann nutze ich jetzt die Gunst der Stunde und frage ihn, ob ich nächste Woche Urlaub nehmen kann.“ Was passiert hier? Der Chef hat gute Laune. Das ist für mich ein guter Moment, um ihn nach Urlaub zu fragen. Wenn der Chef gute Laune hat, sagt er wahrscheinlich, dass ich Urlaub nehmen darf. „Die Gunst der Stunde nutzen“ bedeutet: Eine günstige Gelegenheit erkennen und sie sofort nutzen. Wichtig dabei: Diese gute Situation hat man meistens … die Möbel schnell ins Auto bringen. - „Gehst du eigentlich noch regelmäßig ins Theater?“ – „Nur alle Jubeljahre mal. Die Karten sind mir einfach zu teuer geworden.“ Wie oft geht diese Person ins Theater? Sehr, sehr selten. Genau das heißt „alle Jubeljahre“. Dieser Ausdruck drückt aus, dass etwas nur in sehr großen zeitlichen Abständen passiert. Das ist ein umgangssprachlicher Ausdruck. Hier ist noch ein Beispiel: - „Meine Cousine sehe ich nur alle Jubeljahre.“ Also: Ich sehe meine Cousine sehr selten. Nur alle paar Jahre. - „Ich arbeite jetzt schon seit zehn Jahren in dieser Firma. Die Zeit … essen. Er hat sich lange genug entwickelt. Und so ist es auch hier. Die Zeit ist reif – die Zeit ist jetzt so, dass man etwas tun kann. Hier ist noch ein Beispiel: - „Ich finde seine Produktidee wirklich gut, aber er findet keine Investoren. Ich glaube, die Zeit ist noch nicht reif dafür.“ Also: Es ist jetzt noch nicht der richtige Zeitpunkt für sein Produkt. Ich glaube, dass sein Produkt vielleicht in ein paar Jahren passender sein könnte. - „Die Schule hat die Zeichen der Zeit erkannt und den Umgang mit künstlicher Intelligenz in den Stundenplan aufgenommen.“ „Die Zeichen der Zeit … war, funktioniert es nicht mehr. Wir müssen uns anpassen.“ Hier ist noch ein Beispiel: - „Die Bäckerei hat die Zeichen der Zeit erkannt: Man kann dort Brötchen online vorbestellen und in einem Automaten abholen.“ Also: Heutzutage erledigen viele Menschen ihre Einkäufe online und wollen ganz flexibel sein. Diese Veränderung des Einkaufsverhaltens hat die Bäckerei erkannt und sich daran angepasst. Man kann jetzt online bestellen und die Brötchen abholen, wann immer man möchte. Dieser Ausdruck klingt etwas gehoben, würde ich sagen. Im Alltag hört man den jetzt nicht ständig, aber in Interviews … Wort oft als Übertreibung. Wenn wir sagen wollen, dass etwas sehr lange dauert, dann sagen wir „Es dauert eine Ewigkeit“ oder „Es dauert eine halbe Ewigkeit“. Die halbe Ewigkeit meint nicht eine kürzere Zeit. Beide Ausdrücke sind eine Übertreibung und bedeuten: sehr lange. Hier ist noch ein Beispiel: - „Ich wollte mich schon seit einer halben Ewigkeit wieder bei dir melden, aber es kam immer etwas dazwischen.“ Also: Ich wollte dich schon seit sehr langer Zeit mal wieder anrufen oder dir schreiben, aber ich hab’s nie geschafft. Oder: - „Ich warte schon seit einer halben Ewigkeit auf … helfen.“ Und ich antworte: - „Kein Problem, lass dir Zeit. Dann gehe ich noch einkaufen.“ „Sich Zeit lassen“ bedeutet: Etwas in Ruhe machen, ohne Stress und ohne Hektik. Ich sage hier also: Kein Problem, hilf deinem Sohn ganz in Ruhe bei den Hausaufgaben. Du musst dich nicht beeilen. “Sich Zeit lassen” steht mit dem Dativ: Ich lasse mir Zeit, du lässt dir Zeit, er lässt sich Zeit und so weiter.. Noch ein Beispiel: - „Die Bewerbungsfrist läuft in zwei Monaten ab.“ – „Gut, dann kann ich mir ja Zeit lassen!“ Also: Zwei Monate sind eine lange Zeit. Dann kann ich meine Bewerbung ganz in … Sie haben sich also überhaupt nicht beeilt. - „Wenn du ständig zu wenig schläfst, wirst du über kurz oder lang gesundheitliche Probleme bekommen.“ „Über kurz oder lang“ – dieser Ausdruck klingt ein bisschen merkwürdig, oder? Er ist aber ziemlich nützlich. Wir sagen das, wenn etwas mit Sicherheit irgendwann passieren wird, wir aber nicht sagen können, wann genau. Ich sage hier also: Irgendwann wirst du bestimmt gesundheitliche Probleme bekommen. Vielleicht schon bald, vielleicht erst später. Noch ein Beispiel: - „Meine Arbeit macht mir einfach keinen Spaß. Über kurz oder lang werde ich mir … Es gibt noch einen Ausdruck, der genau dasselbe beschreibt, nämlich „früher oder später“. Die beiden Ausdrücke könnt ihr genau gleichwertig benutzen. - „Hast du schon deinen Reisepass beantragt?“ – „Nein, noch nicht.“ – „Dann mach das mal! Die Zeit drängt, wir fliegen doch schon in zwei Monaten nach Japan!“ „Die Zeit drängt“ – Das bedeutet: Es ist eilig. Du darfst nicht noch länger warten. Das Verb „drängen“ kennt ihr vielleicht aus einem anderen Zusammenhang. Stellt euch vor, ein Konzert oder eine Sportveranstaltung ist zu Ende und alle Leute wollen gleichzeitig so schnell wie möglich … - „Bist du endlich fertig? Die Zeit drängt, der Zug wartet nicht auf uns!“ Also: Wir haben es jetzt wirklich eilig, wir müssen uns beeilen. Wir müssen unseren Zug erwischen. Ihr Lieben, falls ihr es noch nicht gesehen habt: Vor Kurzem ist mein neuer Podcast an den Start gegangen. Ihr findet ihn überall, wo es Podcasts gibt, unter dem Namen “Deutsch mit Rieke”. Am Mittwoch kommt wieder eine neue Folge, in der ich euch einen Ausdruck aus der deutschen Alltagssprache vorstelle. Ich freu mich, wenn ihr reinhört. Jetzt aber erst mal vielen Dank fürs Zuschauen und bis nächste Woche, macht’s gut!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7868
+  "src": "cc"
  },
  "1n9XGefiXBQ": {
   "channel": "Learn German with Anja",
@@ -2098,7 +2107,7 @@
  "QEuCBmvvkEY": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-02T15:54:36+00:00",
+  "checked": "2026-11-10T02:36:57+00:00",
   "title": "Learn BEGINNER German naturally with our VLOG / A2 Comprehensible Input German Listening Practice",
   "duration": 578,
   "published": "20261024",
@@ -2106,16 +2115,105 @@
   "spoken_v": 2,
   "pace": 95.3,
   "rare": 0.1117,
+  "var": 0.7333,
   "speech_s": 462.0,
   "tokens": 734,
   "kw": [
    [
-    "wassermelone",
-    "Und natürlich eine Wassermelone. Jam liebt Wassermelone.",
-    46,
-    56,
-    2.94,
+    "you",
+    "What do you mean there? Do you see something there?",
+    437,
+    442,
+    4.84,
+    10
+   ],
+   [
+    "bisschen",
+    "Ja, ich muss ein bisschen anziehen.",
+    221,
+    229,
+    5.23,
     5
+   ],
+   [
+    "essen",
+    "den Rucksack voll mit Essen und ich bin",
+    133,
+    140,
+    5.33,
+    4
+   ],
+   [
+    "okay",
+    "Okay. Ich kann nicht reden. Ich muss arbeiten.",
+    80,
+    88,
+    4.97,
+    4
+   ],
+   [
+    "like",
+    "He said to just like move it to the",
+    477,
+    481,
+    4.26,
+    5
+   ],
+   [
+    "that",
+    "I don't have to record that.",
+    447,
+    451,
+    4.56,
+    4
+   ],
+   [
+    "just",
+    "He said to just like move it to the",
+    477,
+    481,
+    4.22,
+    4
+   ],
+   [
+    "kühlschrank",
+    "Kühlschrank. Und hier kann ich",
+    68,
+    76,
+    4.21,
+    4
+   ],
+   [
+    "ähm",
+    "Und ähm, Jam und ich haben heute ein",
+    10,
+    17,
+    4.12,
+    8
+   ],
+   [
+    "know",
+    "I don't know. I'm scared of breaking.",
+    462,
+    468,
+    4.17,
+    4
+   ],
+   [
+    "how",
+    "Do you remember how? He said to just like move it to the",
+    476,
+    481,
+    4.19,
+    3
+   ],
+   [
+    "i'm",
+    "I don't know. I'm scared of breaking.",
+    462,
+    468,
+    4.11,
+    3
    ],
    [
     "picknick",
@@ -2134,28 +2232,12 @@
     4
    ],
    [
-    "scared",
-    "I don't know. I'm scared of breaking.",
-    462,
-    468,
-    2.34,
-    2
-   ],
-   [
-    "cheddar",
-    "Ist das Cheddar? Cheddar,",
-    322,
-    328,
-    2.59,
-    2
-   ],
-   [
-    "ähm",
-    "Und ähm, Jam und ich haben heute ein",
-    10,
-    17,
-    4.12,
-    8
+    "cem",
+    "Hier ist Cem. Hier bin ich.",
+    191,
+    200,
+    3.45,
+    3
    ],
    [
     "jam",
@@ -2166,82 +2248,42 @@
     3
    ],
    [
-    "cem",
-    "Hier ist Cem. Hier bin ich.",
-    191,
-    200,
-    3.45,
-    3
-   ],
-   [
-    "you",
-    "What do you mean there? Do you see something there?",
-    437,
-    442,
-    4.84,
-    10
-   ],
-   [
-    "bisschen",
-    "Ja, ich muss ein bisschen anziehen.",
-    221,
-    229,
-    5.23,
+    "wassermelone",
+    "Und natürlich eine Wassermelone. Jam liebt Wassermelone.",
+    46,
+    56,
+    2.94,
     5
    ],
    [
-    "that",
-    "I don't have to record that.",
-    447,
-    451,
-    4.56,
-    4
+    "hurt",
+    "hurt you. It's okay.",
+    502,
+    507,
+    2.93,
+    2
    ],
    [
-    "okay",
-    "Okay. Ich kann nicht reden. Ich muss arbeiten.",
-    80,
-    88,
-    4.97,
-    4
+    "didn't",
+    "I'm sorry. I didn't want to",
+    501,
+    504,
+    2.92,
+    2
    ],
    [
-    "essen",
-    "den Rucksack voll mit Essen und ich bin",
-    133,
-    140,
-    5.33,
-    4
-   ],
-   [
-    "wohin",
-    "wohin. Wohin? Wohin?",
-    104,
-    112,
-    4.5,
-    3
-   ],
-   [
-    "paar",
-    "Und ich habe ein paar Sachen geholt.",
-    28,
-    35,
-    5.56,
-    3
-   ],
-   [
-    "deswegen",
-    "Deswegen muss sie jetzt einen Pullover anziehen.",
-    228,
-    237,
-    4.99,
-    3
+    "cheddar",
+    "Ist das Cheddar? Cheddar,",
+    322,
+    328,
+    2.59,
+    2
    ]
   ],
-  "tx": "Hi, und willkommen zu Chill German. Ich bin nicht Jam, ich bin Palina. Und ähm, Jam und ich haben heute ein Date. Wir haben ein Picknick-Date. Und ich muss jetzt alles vorbereiten. Und ich habe sehr, sehr wenig Zeit. Also muss ich sehr schnell sein. Ja, ich bin Ich bin einkaufen gegangen. Und ich habe ein paar Sachen geholt. Äh Salami und Käse Trauben Alles, was man braucht. Alles, was man für ein Picknick braucht. Ähm Und natürlich eine Wassermelone. Jam liebt Wassermelone. Sie spricht ständig darüber, wie sehr sie Wassermelone liebt. Also muss ich jetzt schnell die Wassermelone schneiden und alles packen. Und ich habe hier so einen kleinen Kühlschrank. Und hier kann ich alle Getränke legen. Und sie werden dann kühl. Okay. Ich kann nicht reden. Ich muss arbeiten. Gleich. Ups. Ähm hm hm hm hm Ich muss die Wassermelone auch irgendwohin packen. Und ich habe keine Ahnung wohin. Wohin? Wohin? Okay, ich mache jetzt die Kamera aus, weil sonst schaffe ich nichts. Die Die ist schlecht. Sie ist sehr sehr weich, zu weich. So, ich bin fertig. Ich habe mich schick angezogen. Ich habe den Kühlschrank dabei, ich habe den Rucksack voll mit Essen und ich bin auf dem Weg. Was ist das hier? Was ist das hier? Mhm. So ein schönes Bild, ha. Das Wetter ist wie immer wunderschön. Ich glaube, ich kenne keine andere kleine Stadt, die so schön ist. Hier ist Cem. Hier bin ich. Jetzt muss Cem den Kühlschrank tragen. Das ist eine Kühlbox, kein Kühlschrank. Oi. Hier machen wir den Picknick. Ja, ich muss ein bisschen anziehen. Cem ist immer zu kalt. Deswegen muss sie jetzt einen Pullover anziehen. Vielleicht kannst du ein bisschen von deinem Tag erzählen. Ich habe heute wieder in einem Café gearbeitet, in einem Café, dass ich ganz gerne mag hier in Nazareth. Das heißt Ushalla. Und ja, ich habe angefa",
+  "tx": "Hi, und willkommen zu Chill German. Ich bin nicht Jam, ich bin Palina. Und ähm, Jam und ich haben heute ein Date. Wir haben ein Picknick-Date. Und ich muss jetzt alles vorbereiten. Und ich habe sehr, sehr wenig Zeit. Also muss ich sehr schnell sein. Ja, ich bin Ich bin einkaufen gegangen. Und ich habe ein paar Sachen geholt. Äh Salami und Käse Trauben Alles, was man braucht. Alles, was man für ein Picknick braucht. Ähm Und natürlich eine Wassermelone. Jam liebt Wassermelone. Sie spricht ständig darüber, wie sehr sie Wassermelone liebt. Also muss ich jetzt schnell die Wassermelone schneiden und alles packen. Und ich habe hier so einen kleinen Kühlschrank. Und hier kann ich alle Getränke legen. Und sie werden dann kühl. Okay. Ich kann nicht reden. Ich muss arbeiten. Gleich. Ups. Ähm hm hm hm hm Ich muss die Wassermelone auch irgendwohin packen. Und ich habe keine Ahnung wohin. Wohin? Wohin? Okay, ich mache jetzt die Kamera aus, weil sonst schaffe ich nichts. Die Die ist schlecht. Sie ist sehr sehr weich, zu weich. So, ich bin fertig. Ich habe mich schick angezogen. Ich habe den Kühlschrank dabei, ich habe den Rucksack voll mit Essen und ich bin auf dem Weg. Was ist das hier? Was ist das hier? Mhm. So ein schönes Bild, ha. Das Wetter ist wie immer wunderschön. Ich glaube, ich kenne keine andere kleine Stadt, die so schön ist. Hier ist Cem. Hier bin ich. Jetzt muss Cem den Kühlschrank tragen. Das ist eine Kühlbox, kein Kühlschrank. Oi. Hier machen wir den Picknick. Ja, ich muss ein bisschen anziehen. Cem ist immer zu kalt. Deswegen muss sie jetzt einen Pullover anziehen. Vielleicht kannst du ein bisschen von deinem Tag erzählen. Ich habe heute wieder in einem Café gearbeitet, in einem Café, dass ich ganz gerne mag hier in Nazareth. Das heißt Ushalla. Und ja, ich habe angefangen ein neues Buch zu übersetzen. Ich habe nicht ganz so viel geschafft, wie ich gerne wollte, aber manche Arbeitstage sind ebenso. Und wenn sie so enden mit einer schönen Aussicht, ein bisschen gutem Essen und einer noch schöneren Partnerin, dann ähm kann ich glaube ich nicht unzufrieden sein. Krina hat einige schöne Sachen mitgebracht. Sie hat gestern Vanillekekse gebacken. Die sind hier auf dem Teller. Ein paar Datteln, ein paar Weintrauben. Ist das Cheddar? Cheddar, Ziegenkäse, Camembert, eine Ananas-Weinschorle. Einen Ananas-Spritz. Ähm, mit Alkohol. Ja? Ja, mit Alkohol. Ähm etwas, das wir beide nicht kennen. Es heißt Kefir. Und es ist wohl fermentierte Limette. Und ein bisschen Hamann. Und ja. Das ist unser Picknick. Ich bin total in diesem Picknick Ort, in diesem Picknick Platz verliebt. Das ist hier wirklich der Hammer. Ähm. Es ist total privat. Es ist in so einer kleinen Kuhle neben dem Weg, wo die meisten Leute entlang gehen. Und es ist deswegen auch relativ windgeschützt. Deswegen ist es hier nicht so windig. Und Paulina und ich haben gerade ganz hinten in der Ferne im Wasser eine Schule Delfine gesehen. Die springen dort herum. Ähm, und das ist ja, ich weiß gar nicht genau, äh, wie ich das beschreiben soll. Das ist einfach unheimlich toll. Das sieht sehr, sehr, sehr schön aus. Ja. Äh. Und das Licht ist jetzt ein bisschen orange. Ja, die Sonne geht gerade unter. Es wird also ein Hm? Wow. Das Essen war gut. Die Kekse essen wir jetzt. Und What's there? Okay. What do you mean there? Do you see something there? What do you mean? Hahaha. I don't have to record that. What do you mean? I don't believe in anything. I don't know. I'm scared of breaking. I was so scared. If that happens, you know what? We will have a third proposal. Do you remember how? He said to just like move it to the side. But like I'll need help with that for sure. He just did it like But where? And just this thing? Or here? I was hoping you would get up. It's really cool, you know, and then turn. But you wouldn't get up. I'm sorry. I didn't want to hurt you. It's okay. I was so panicked. Like I didn't know how to I suppose. And I uh yeah, that's good. I hope it works. I love it incredibly. I just hope it doesn't hurt your ear. I mean. I'm not 100% sure how to. Maybe we can do that. It's like",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.697
+  "src": "auto"
  },
  "HKG6VFucvJI": {
   "channel": "Miffy - Deutsch",
@@ -2427,7 +2469,7 @@
  "5pz_4HTvMI4": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-02T16:19:10+00:00",
+  "checked": "2026-11-10T02:58:32+00:00",
   "title": "Spielzeit mit Gilbert | Caillou auf Deutsch | Cartoons voor kinderen",
   "duration": 3436,
   "published": "20261031",
@@ -2435,73 +2477,10 @@
   "spoken_v": 2,
   "pace": 120.2,
   "rare": 0.0997,
+  "var": 0.8461,
   "speech_s": 3019.7,
   "tokens": 6048,
   "kw": [
-   [
-    "rosy",
-    "wollte Kaju nicht, dass Rosy damit",
-    122,
-    128,
-    2.32,
-    32
-   ],
-   [
-    "papi",
-    "Picknick gehen, Papi? Jetzt? Aber es ist doch noch gar nicht",
-    29,
-    34,
-    3.27,
-    36
-   ],
-   [
-    "mami",
-    "Das hier ist mein Lieblingssaft, Mami.",
-    7,
-    14,
-    3.61,
-    46
-   ],
-   [
-    "kau",
-    "Kau hatte jetzt eine Menge Spaß mit dem",
-    102,
-    109,
-    2.96,
-    18
-   ],
-   [
-    "spieldose",
-    "Spieldose, als ich noch klein war.",
-    664,
-    670,
-    2.07,
-    11
-   ],
-   [
-    "rosi",
-    "Nein, Rosi. Papi hatte ihm die Uhr gegeben. Deshalb",
-    119,
-    125,
-    3.09,
-    16
-   ],
-   [
-    "hundebaby",
-    "Ein Hundebaby. Ein Z 3.",
-    450,
-    462,
-    2.08,
-    6
-   ],
-   [
-    "bagger",
-    "ein Bagger. Diese mächtigen Bagger faszinierten",
-    1847,
-    1854,
-    3.46,
-    12
-   ],
    [
     "hallo",
     "Hallo, Leo. Oh, Papi, das ist für dich.",
@@ -2535,47 +2514,143 @@
     24
    ],
    [
-    "hast",
-    "Du hast Picknick gesagt. Ist endlich",
-    52,
-    61,
-    5.75,
-    22
+    "guck",
+    "Guck mal, Mami. Was für eine Überraschung. Die habe ich",
+    658,
+    665,
+    4.37,
+    11
    ],
    [
-    "komm",
-    "Nähe sein. Komm, wir suchen sie.",
-    153,
-    158,
-    4.91,
-    19
+    "wolle",
+    "der Wolle von unseren Schafen machen.",
+    2901,
+    2906,
+    4.5,
+    9
    ],
    [
-    "nein",
-    "Mittag, Mami? Nein, Kaju, noch nicht.",
-    54,
-    61,
-    5.52,
+    "leo",
+    "Wollte Leo heute nicht zu dir kommen?",
+    238,
+    243,
+    4.27,
+    9
+   ],
+   [
+    "karten",
+    "Tady, weißt du, wo meine Karten sind?",
+    1247,
+    1253,
+    4.74,
+    8
+   ],
+   [
+    "mami",
+    "Das hier ist mein Lieblingssaft, Mami.",
+    7,
+    14,
+    3.61,
+    46
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, Kühe. Können wir",
+    1079,
+    1086,
+    3.9,
+    10
+   ],
+   [
+    "wiedersehen",
+    "Wiedersehen. Wow.",
+    394,
+    401,
+    4.11,
+    8
+   ],
+   [
+    "schaf",
+    "Ein Schaf. Kommt doch rein, dann zeige ich euch all",
+    2893,
+    2902,
+    3.73,
+    7
+   ],
+   [
+    "papi",
+    "Picknick gehen, Papi? Jetzt? Aber es ist doch noch gar nicht",
+    29,
+    34,
+    3.27,
+    36
+   ],
+   [
+    "rosi",
+    "Nein, Rosi. Papi hatte ihm die Uhr gegeben. Deshalb",
+    119,
+    125,
+    3.09,
+    16
+   ],
+   [
+    "bagger",
+    "ein Bagger. Diese mächtigen Bagger faszinierten",
+    1847,
+    1854,
+    3.46,
+    12
+   ],
+   [
+    "picknick",
+    "unser Picknick. Toll, dann gehen wir. Mami,",
+    13,
+    18,
+    3.48,
+    10
+   ],
+   [
+    "rosy",
+    "wollte Kaju nicht, dass Rosy damit",
+    122,
+    128,
+    2.32,
+    32
+   ],
+   [
+    "kau",
+    "Kau hatte jetzt eine Menge Spaß mit dem",
+    102,
+    109,
+    2.96,
     18
    ],
    [
-    "glaube",
-    "Also, ich glaube, wenn ich mit dieser",
-    35,
-    39,
-    5.39,
-    16
+    "spieldose",
+    "Spieldose, als ich noch klein war.",
+    664,
+    670,
+    2.07,
+    11
+   ],
+   [
+    "goldfisch",
+    "Goldfisch ist. Es sah so aus, als ob der Fisch kurz",
+    3326,
+    3335,
+    2.75,
+    6
    ]
   ],
-  "tx": "Das hier ist mein Lieblingssaft, Mami. Dann haben wir ja alles zusammen für unser Picknick. Toll, dann gehen wir. Mami, jetzt noch nicht. Kou, erst später. Ich habe noch einiges zu erledigen, bevor wir gehen können. K wäre am liebsten sofort losgegangen, um zu picknicken. Er konnte es nicht verstehen, warum seine Mami noch warten wollte. Können wir nicht jetzt schon zu unserem Picknick gehen, Papi? Jetzt? Aber es ist doch noch gar nicht Mittag. Wann ist denn Mittag? Also, ich glaube, wenn ich mit dieser Wäsche durch bin, dann wird es Mittag sein. Mein? Ja, siehst du, da fehlt ein Knopf. Ich muss einen neuen annähen, dann kannst du die Jacke zum Picknick anziehen. Du hast Picknick gesagt. Ist endlich Mittag, Mami? Nein, Kaju, noch nicht. Papi, Kaju, du hast mich aber erschreckt. Bist du fertig? Können wir jetzt gehen? Weißt du, mit der Zeit ist das so, dass man manchmal das Gefühl hat, dass sie ganz langsam vergeht. Pass mal auf. Hast du Lust, unser Zeitwächter zu sein? Dann bist du nämlich derjenige, der uns sagt, wann wir gehen sollen. Wirklich? Und jetzt zeige ich dir etwas. Wenn der große und der kleine Zeiger beide auf die 12 zeigen, dann ist es Mittag. Und jetzt werde ich noch den Wecker stellen, sass er genau mittags klingelt. So, hörst du? Danke sehr, Papi. Kau hatte jetzt eine Menge Spaß mit dem Wecker. Er war sehr stolz darauf, dass er der Zeitwächter war. Es ist immer noch nicht so weit. Ros! Nein, Rosi. Papi hatte ihm die Uhr gegeben. Deshalb wollte Kaju nicht, dass Rosy damit spielt. Meine Uhr. Rosi, hast du sie weggenommen? Kaju war fassungslos. Seine Zeitwächteruhr war plötzlich verschwunden. Mami, meine Zeitwächteruhr ist weg. Weißt du vielleicht, wo die Uhr ist, Rosie? Nein. Aber sie muss doch irgendwo hier in der Nähe sein. Komm, wir suchen sie. K verlo",
+  "tx": "Das hier ist mein Lieblingssaft, Mami. Dann haben wir ja alles zusammen für unser Picknick. Toll, dann gehen wir. Mami, jetzt noch nicht. Kou, erst später. Ich habe noch einiges zu erledigen, bevor wir gehen können. K wäre am liebsten sofort losgegangen, um zu picknicken. Er konnte es nicht verstehen, warum seine Mami noch warten wollte. Können wir nicht jetzt schon zu unserem Picknick gehen, Papi? Jetzt? Aber es ist doch noch gar nicht Mittag. Wann ist denn Mittag? Also, ich glaube, wenn ich mit dieser Wäsche durch bin, dann wird es Mittag sein. Mein? Ja, siehst du, da fehlt ein Knopf. Ich … Aber nimm dich in acht, da oben toen riesige gefährliche Bären in dunklen Höhlen herum. Kaju, bist du das? Sarah. Hallo, ich kann nicht lange bleiben. Dein Papi fährt mich zu meiner Karatestunde. Ich wollte euch nur mein Karategie zeigen. Du trägst das beim Karate? Aha, siehst du? Ah, ich brauche viel Platz beim Karate üben und mein Gie ist sehr bequem. Dein Papi hat gedacht, ich habe noch mein Pyjama an. Kau und Leo verfolgten gebannt Saras Karatevorführung. Sarah, ich bin soweit. Ich muss los, aber ich kann nach meiner Stunde herkommen und euch noch mehr Karateübungen zeigen, wenn ihr … Du darfst auch mit meinem Piratenbär spielen, wenn du willst. Rosy mochte den Bären sehr gern. Deshalb war sie auch einverstanden, ihn gegen die Spieldose zu tauschen. Als aber die Spieldose verstummt war, wollte Kaju seinen Bären wieder haben. Hier, Rosi, du kannst wieder mit der Spieldose spielen. Nein, ich will meinen Piratenbär. Meins. Was ist hier los? Ich will meinen Bären wieder haben. Die Spieldose ist kaputt gegangen. Gib mir die Spieldose mal hier. Sieh mal, du musst die Spield aufziehen und den Deckel aufmachen und schon funktioniert sie wieder. Warum spielt ihr beide nicht … Hallo Kühe. Wer ist denn da aufgewacht? Rosy wollte wie KU auf dem Zaun stehen und die Kühe ansehen, aber es war nicht einfach da hochzuklettern. Soll ich dir helfen, Rosy? Hops und hoch mit dir. Ich will auch so hoch oben stehen. Na schön. Was sagen denn die Kühe gerade? Ich glaube, dass die Kühe uns in ihrer Sprache begrüßen. Kaju fand es toll, die Kühe zu beobachten. Sie hungrig. Dann fangen wir mit dem Picknick an. Schling nicht so, Kaju. Wir haben den ganzen Nachmittag Zeit. Ich würde so gern die Kühe weiter ansehen. Augenblick, ich begleite dich. Ich nehme dein Flugzeug mit. … Mami. Kaju fand, dass er schon viel zu groß ist, um wie ein Baby im Einkaufswagen gefahren zu werden. Er wollte lieber seinen eigenen Wagen herumschieben und Sachen reintun. Augenblick mal, mein Hase, mach langsam. Ja, ich habe eine Liste von den Sachen, die wir brauchen. Willst du für mich die Sachen finden, die wir kaufen wollen? Also, fangen wir mit dem Obst an. Kayu fand immer alles ganz schnell im Supermarkt. Das war so ähnlich wie Verstecken spielen, nur dass man Sachen zum Essen suchen musste. Prima, Kaju, du hast die Äpfel gefunden. Ich hole eine Tüte, um sie reinzutun. Ich will … musste in denen stecken, um all diese Erde zu bewegen? Wenn ich mal groß bin, dann will ich unbedingt auch so einen riesigen Bagger fahren und dann kann ich dir durch das Loch im Zaun zusehen. Aber jetzt müssen wir langsam nach Hause. Papi wartet auf uns. Aber K wollte noch nicht gehen. Nein, Mami, ich will noch ein bisschen zusehen. Okay, Ku, schnell deinen Sicherheitsgurt fest. Das Flugzeug setzt jetzt zur Landung an. Ich bin ein fliegender Bagger. Und baggerst du die Wolken weg? Bitte warten Sie auf mich, Her Baggerfahrer. Hallo Kau. Ich bin nicht K, ich bin ein Bagger. Kau überlegte … sein. Das war der merkwürdigste Ball, den Kaju je gesehen hatte. Sei vorsichtig, sie ist sehr schwer. K fragte sich, wie man mit so einem schweren Ball überhaupt spielen konnte. Kannst du mir zeigen, wie man damit spielt? Sicher Kaju, aber zuerst muss ich noch ein paar Sachen holen, die deiner Größe mehr entsprechen. So, jetzt glaube ich, haben wir alles. Kaju war sehr neugierig, wie dieses Spiel wohl gehen würde. Auch natürlich, Rosy. Opi zeigt dir auch, wie man Bowling spielt. Das sieht hervorragend aus. Also, das ist unsere Bowlingbahn. Rosie auch. Komm mit, Rosy. Du kannst mir helfen, … Papi, ich bin fertig. Ist ja gut, ist ja gut. Wir sind auch fertig. Rosi auch fertig. Du hast ja auf deinem Hemd einen Tiger. Ja, natürlich, weil sich meine Mannschaft die Tiger nennt. Auf zum Spiel. Kouu war sehr aufgeregt, weil er seinem Papi beim Baseballpielen zusehen durfte. Wollen wir Papi ordentlich anfeuern? Cou? Ja. Seht ihr, Papi ist der mit dem Schläger. Er hat ihn getroffen. Papi hat ihn getroffen. Ja, K wurd es langsam langweilig, dem Spiel immer nur zuzuschauen. Kaju Papi sitzt jetzt drüben auf der Bank. Willst du zu ihm hingehen? Kann ich mal den Ball schlagen, Papi, der … geblieben? Warum ist denn das Schaf nackt? Mein Papa hat es gerade geschoren. Willst du zusehen? Warte. Konnte nicht glauben, was er da sah. Der Mann nahm die Wolle direkt vom Rücken des Schafes weg. Mein Papa konzentriert sich immer sehr, wenn er bei der Scharfschuhe ist. Ich wette, er hat uns noch gar nicht gesehen. Muss das Schaf jetzt frieren? Oh nein, seine Wolle wächst ja wieder nach. Los, Kaju, komm mit, ich will dir noch etwas zeigen. Was? Das ist eine Überraschung. Kaju war neugierig, was jetzt wohl kommen würde. Ist das hier Wolle? Ja, natürlich. Oh nein, es ist schon wieder aus … angezogen, um nach Hause zu gehen. Hier, das habe ich für Goldi gemalt. Wiedersehen, Clementine. Hallo. Clementine hat einen Goldfisch bekommen und der heißt Goldi und er mochte mein Bild. Ich glaube, Goldi ist nicht der einzige, der deine Zeichnung mag. Hey Gilbert, das Bild gehört Mami. Mami, Mami ist die allergrößte. Sie nimmt mich überall mit hin, wo es lustig ist. Z.B. zum Schwimmen. Mami sagt, es macht Spaß, neue Sachen auszuprobieren. Sie mag es, wenn ich ihr Bilder male. Wunderschön. Vielen Dank. Und ich mag es, wenn sie mich abends ins Bett bringt. Und dein Dino schläft jetzt auch.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8242
+  "src": "auto"
  },
  "UbigTWK1SWM": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-02T16:19:15+00:00",
+  "checked": "2026-11-10T02:58:38+00:00",
   "title": "Was befindet sich auf dem Dachboden? | Caillou auf Deutsch | Cartoons voor kinderen",
   "duration": 3467,
   "published": "20261024",
@@ -2583,73 +2658,10 @@
   "spoken_v": 2,
   "pace": 115.5,
   "rare": 0.0997,
+  "var": 0.8478,
   "speech_s": 2969.8,
   "tokens": 5718,
   "kw": [
-   [
-    "rosy",
-    "Nein. Rosy. Rosy, komm mal, ich habe was für dich.",
-    90,
-    98,
-    2.32,
-    48
-   ],
-   [
-    "papi",
-    "Papi, mein Papi zeigt mir oft, wie",
-    196,
-    204,
-    3.27,
-    26
-   ],
-   [
-    "kau",
-    "Kau ging gern auf den Speicher, weil der",
-    35,
-    43,
-    2.96,
-    20
-   ],
-   [
-    "spieldose",
-    "Spieldose, als ich noch klein war.",
-    49,
-    55,
-    2.07,
-    12
-   ],
-   [
-    "mami",
-    "Mami, wieso hast du dich denn in meinem Mantel",
-    9,
-    14,
-    3.61,
-    29
-   ],
-   [
-    "rosi",
-    "Hier, Rosi, du kannst wieder mit der",
-    140,
-    148,
-    3.09,
-    19
-   ],
-   [
-    "bagger",
-    "ein Bagger. Diese mächtigen Bagger faszinierten",
-    1877,
-    1885,
-    3.46,
-    11
-   ],
-   [
-    "omi",
-    "Kayu war sehr enttäuscht. Omi hatte",
-    453,
-    458,
-    3.33,
-    9
-   ],
    [
     "wollte",
     "wollte Kaju seinen Bären wieder haben.",
@@ -2683,42 +2695,138 @@
     21
    ],
    [
-    "hast",
-    "wieso hast du dich denn in meinem Mantel",
-    10,
-    14,
-    5.75,
-    20
+    "leo",
+    "einfiel, dass Leo heute eine Valentinstagparty gab.",
+    1057,
+    1064,
+    4.27,
+    18
    ],
    [
-    "komm",
-    "Rosy, komm mal, ich habe was für dich.",
-    92,
-    98,
-    4.91,
+    "karten",
+    "auch Karten geben. Mami erklärte, dass der",
+    1068,
+    1075,
+    4.74,
+    12
+   ],
+   [
+    "guck",
+    "Guck mal, Mami, was für eine Überraschung. Die habe ich",
+    43,
+    50,
+    4.37,
+    12
+   ],
+   [
+    "milch",
+    "Und würde der junge Mann die Muku Milch",
+    277,
+    285,
+    4.51,
+    9
+   ],
+   [
+    "mami",
+    "Mami, wieso hast du dich denn in meinem Mantel",
+    9,
+    14,
+    3.61,
+    29
+   ],
+   [
+    "wiedersehen",
+    "gehen. Auf Wiedersehen. Vorsicht.",
+    802,
+    807,
+    4.11,
+    12
+   ],
+   [
+    "elefanten",
+    "wir uns Elefanten im Zoo an.",
+    3091,
+    3097,
+    3.88,
+    11
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, Kühe. Können wir",
+    689,
+    696,
+    3.9,
+    10
+   ],
+   [
+    "papi",
+    "Papi, mein Papi zeigt mir oft, wie",
+    196,
+    204,
+    3.27,
+    26
+   ],
+   [
+    "rosi",
+    "Hier, Rosi, du kannst wieder mit der",
+    140,
+    148,
+    3.09,
     19
    ],
    [
-    "schön",
-    "Na schön. Cou und Rosy hatten sich geeinigt,",
-    188,
-    197,
-    5.52,
-    18
+    "bagger",
+    "ein Bagger. Diese mächtigen Bagger faszinierten",
+    1877,
+    1885,
+    3.46,
+    11
    ],
    [
-    "nein",
+    "omi",
+    "Kayu war sehr enttäuscht. Omi hatte",
+    453,
+    458,
+    3.33,
+    9
+   ],
+   [
+    "rosy",
     "Nein. Rosy. Rosy, komm mal, ich habe was für dich.",
     90,
     98,
-    5.52,
-    18
+    2.32,
+    48
+   ],
+   [
+    "kau",
+    "Kau ging gern auf den Speicher, weil der",
+    35,
+    43,
+    2.96,
+    20
+   ],
+   [
+    "spieldose",
+    "Spieldose, als ich noch klein war.",
+    49,
+    55,
+    2.07,
+    12
+   ],
+   [
+    "ros",
+    "Ros auch. Kuku. Nein. Rosy.",
+    89,
+    98,
+    2.98,
+    7
    ]
   ],
-  "tx": "Kaju Mami, wieso hast du dich denn in meinem Mantel verhädert? Ich weiß nicht. Was machst du denn da, Mami? Ich will diese Sachen nach oben auf den Speicher tragen. Ich will dir helfen. Das ist nett. Du darfst diesen Hut tragen. Danke, Kayu. Kau ging gern auf den Speicher, weil der voller Überraschung war. Guck mal, Mami, was für eine Überraschung. Die habe ich ja schon völlig vergessen. Das war meine Spieldose, als ich noch klein war. Kau mochte die Musik, die die Spieldose machte. Oh, und das war mein Lieblingsteddybär. Aber der arme Bär hat ein Loch im Kopf. Das werden wir gleich beheben. H so und jetzt ist da ein Piratenbär. K hatte jetzt doch mehr Spaß mit dem Piratenbären, denn die Spieldose machte plötzlich keine Musik mehr. Ich bin ein Pirat. Ros auch. Kuku. Nein. Rosy. Rosy, komm mal, ich habe was für dich. Hier kommt das Piratenschiff. Jetzt hörte er plötzlich die Spieldose wieder. Ich möchte auch mit der Spieldose spielen. Meins. Willst du das hier? Nein. Willst du mein Piratenschiff haben? Nein. Du darfst auch mit meinem Piratenbär spielen, wenn du willst. Rosy mochte den Bären sehr gern. Deshalb war sie auch einverstanden, ihn gegen die Spieldose zu tauschen. Als aber die Spieldose verstumkt war, wollte Kaju seinen Bären wieder haben. Hier, Rosi, du kannst wieder mit der Spield spielen. Nein, ich will meinen Piratenbär. Meins. Was ist hier los? Ich will meinen Bären wieder haben. Die Spieldose ist kaputt gegangen. Gib mir die Spieldose mal hier. Sieh mal, du musst die Spieldose aufziehen und den Deckel aufmachen und schon funktioniert sie wieder. Warum spielt ihr beide nicht abwechselnd damit? K hatte aber keine Lust mit Rosy abzuwechseln. Er wollte mit der Spieldose und den Bären spielen. Wen haben wir denn hier? Oh, Piraten. Habt ihr einen Schatz gefunden",
+  "tx": "Kaju Mami, wieso hast du dich denn in meinem Mantel verhädert? Ich weiß nicht. Was machst du denn da, Mami? Ich will diese Sachen nach oben auf den Speicher tragen. Ich will dir helfen. Das ist nett. Du darfst diesen Hut tragen. Danke, Kayu. Kau ging gern auf den Speicher, weil der voller Überraschung war. Guck mal, Mami, was für eine Überraschung. Die habe ich ja schon völlig vergessen. Das war meine Spieldose, als ich noch klein war. Kau mochte die Musik, die die Spieldose machte. Oh, und das war mein Lieblingsteddybär. Aber der arme Bär hat ein Loch im Kopf. Das werden wir gleich beheben. … großen Spaß und deshalb wollte er es auf dem ganzen nach Hauseweg spielen. Grünes Licht. Rotes Licht. Mami, wir sind wieder da. Kaju war froh, dass es ihm eingefallen war, schnell frische Milch zu holen, denn jetzt hatte er auch Hunger auf eine große Schüssel Müsli auch. Müsli, du bist immer noch hungrig nach all dem, was du gegessen hast. Fertig. Grünes Licht. Das ist Rosi. Sie ist meine kleine Schwester und ich mag sie sehr gern. Wir spielen sehr oft zusammen und dabei haben wir viel Spaß. Ich zeige ihr die Sachen, die ich gerne mag und manchmal tröste ich sie auch. Ich bin nämlich ihr … die Kühe weiter ansehen. Augenblick, ich begleite dich. Ich nehme dein Flugzeug mit. Vielleicht wollen wir nachher spielen. Rosy, hast du Lust dir mit Mami die Kühe anzusehen? Na schön, dann ist zuerst deinen Apfel auf. Ku, darf ich dein Flugzeug mal ausprobieren? Na klar. Hurra! Gut gemacht, Papi. Oh, mein Flugzeug. Ich hole es dir. Danke, Papi. Ja, im Ernst. Ich wollte gerade wieder gehen. Auf Wiedersehen. Vorsicht. Oh, da. Danke, das war knapp. Hat jemand Durst? Ich habe was ganz besonderes für euch. Das war eins von Kajus Lieblingsgetränken. Schokoladenmilch. Na, schmeckt sie dir, … Kayu arbeitete sehr konzentriert, um jedem seiner Freunde eine ganz besondere Valentinskarte zu machen. Ich bin fertig, Mami. Ich habe eine für Leo gemacht, eine für Clementine, eine für Xavia und eine für Emma. Die Karten sehen wirklich sehr hübsch aus. Kau, ich bin sicher, dass sich alle sehr freuen werden. H so, du musst dich anziehen, sonst kommen wir noch zu spät. Konnte es nicht erwarten, zu Leos Party zu kommen. Die Valentinskarten, hier sind sie, Kaju. Ich habe sie alle in eine Tüte getan. Oh, danke schön. Viel Spaß, Kayu. Wiedersehen Papa. Als Kau endlich bei Leo war, konnte er … Spiel wohl gehen würde. B auch natürlich Rosy. Opi zeigt dir auch, wie man Bowling spielt. Das sieht hervorragend aus. Also, das ist unsere Bowlingbahn. Rosy auch. Komm mit, Rosy. Du kannst mir helfen, die Kegel aufzubauen. Du musst sie so hinstellen, siehst du, Ros? So, jetzt können wir mit dem Spiel anfangen. Jetzt bin ich dran. Guter Wurf. Ja, das Bowlingspiel machte Kaju großen Spaß. Rosi auch. Telefon, es ist für dich. Komme Schatz. Du bist schon ein so guter Bowlingspieler. Zeig du doch Rosy, wie es geht, während ich telefoniere. K war stolz, als sein Opa sagte, dass er schon ein … dir durch das Loch im Zaun zusehen. Aber jetzt müssen wir langsam nach Hause. Papi wartet auf uns. Aber K wollte noch nicht gehen. Nein, Mami, ich will noch ein bisschen zusehen. Okay, Ku, schnall deinen Sicherheitsgurt fest. Das Flugzeug setzt jetzt zur Landung an. Ich bin ein fliegender Bagger. Und baggerst du die Wolken weg? Bitte warten Sie auf mich, Her Baggerfahrer. Hallo Kau. Ich bin nicht K, ich bin ein Bagger. K überlegte sich, womit er jetzt am besten Bagger spielen könnte. Ja. Hey, sieh mal Rosy. K ist ein riesiger Bagger. Konzentrierte sich so sehr darauf, ein Bagger zu sein, … ja doch. Wiedersehen, Ku. Wiedersehen, Rosy. Wiedersehen. Auf zum Park. Ja. Hier, fang. Rosy, meine Weltraumrakete fliegt schneller als deine. Nein, meine. Alles klar, machen zur Landung. Ich werde jetzt auch landen. Hier, das ist unsere Raumstation. Als Rosie sah, welchen Spaß K und Leo hatten, wollte sie auch mitspielen. Oh, Rosi, nein, Papi, das hat sie bestimmt nicht mit Absicht gemacht. R spielen. Nein, Rosi, jetzt wurde es Kai zu viel. Er wusste zwar, dass Rosy nur helfen wollte, aber sie machte alles kaputt. Das geht nicht, Papi. Rosy darf nicht mit uns Raumstation spielen. Na … gemacht hatte. Wir tun sie da oben drauf. Großartige Idee. Jetzt wird es aber allerhöchste Zeit für den ersten Flug. Hallo Rosi, komm auf meinen Schoß. Alles fertig machen zum Starten. Die Sicherheitsgurte anlegen. 5 4 3 2 1 und Start! Flieg! Und so flogen Leo Cu und Rosie mit ihrem Raketenflugzeug und der Raketenflugzeugfahne ab in den Weltraum. Also können wir jetzt gehen? Mami versucht gerade im Wohnzimmer ein bisschen zu schlafen. Mami hat sich erkältet und während sie sich ausruht, werden wir beide eine besonders liebe Freundin von mir besuchen. K liebte die … Kau mochte das Lamm sehr gern. Jetzt wollen wir versuchen, das Lamm wieder in seinen Stall zu locken. Hältst du mal bitte die Flasche? Ja, gern. Jetzt musst du nur ganz langsam rückwärts gehen. Der Slamm wird dir folgen. Und ich mache die Tür ganz weit auf. Gut, Kaju. Und jetzt komm ganz schnell da raus. Tut mir leid, es gibt nichts mehr. Danke, Ku. Kau war sehr stolz, dass er geholfen hatte. Das waren reizende Stunden immer. Ich danke dir von ganzem Herzen. Das sollten wir unbedingt häufiger tun. Oh ja, auf jeden Fall. Wo ist Mary? Mary, hier noch ein Andenken. Kaju, das ist für dich, Kaju. … muss. Komm mit, Rosi. Jetzt gehen wir auf Safari. Guck mal, eine Schlange. K und Rosy suchten sehr gründlich. In welchem Versteck würden Sie wohl das nächste Tier entdecken? Sie fanden es lustig, die Tiere nachzuarahmen, die sie gerade gefunden hatten. Ein Krokodil. K mochte Krokodile, denn sie waren groß und stark. Euer Abendbrot wartet, aber Cou und Rosie wollten ihre Safaripielen. Na komm schon. späteritel. Ich bin nicht K, ich bin ein Krokodil. Wirklich? W Das ist aber schade. K wird dann auf sein Lieblingsessen verzichten müssen. Hamburger. Hamburger? Ehrlich? Guck mal, Papi, ich bin K.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7942
+  "src": "auto"
  },
  "j-s2t3q4f2w": {
   "channel": "Deutsch mit Marija",
@@ -3054,7 +3162,7 @@
  "LER7gJi5hWg": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-03T04:45:59+00:00",
+  "checked": "2026-11-10T02:30:17+00:00",
   "title": "Simple German: Fashion trends when I was in primary school│Pre-Beginner German",
   "duration": 488,
   "published": "20230520",
@@ -3062,71 +3170,40 @@
   "spoken_v": 2,
   "pace": 78.1,
   "rare": 0.1075,
+  "var": 0.709,
   "speech_s": 478.4,
   "tokens": 623,
   "kw": [
    [
-    "modetrend",
+    "nummer",
     "Modetrend Nummer eins ist die Schlaghose also eine Hose klar aber",
     47,
     60,
-    2.24,
-    9
+    4.9,
+    8
    ],
    [
-    "creolen",
-    "der letzte Modetrend sind die Creolen",
-    396,
-    406,
-    2.04,
-    5
-   ],
-   [
-    "schlaghosen",
-    "Schlaghosen auch angesagt auch cool und jetzt jetzt in",
-    109,
-    124,
-    2.15,
-    4
-   ],
-   [
-    "bauchfrei",
-    "bauchfrei tragen wisst ihr was bauchfrei",
-    251,
-    261,
-    2.24,
-    4
-   ],
-   [
-    "bauchtasche",
-    "Bauchtasche bindet man sich ja eigentlich nicht um den Bauch aber um",
-    338,
-    351,
-    2.42,
-    4
-   ],
-   [
-    "halsband",
-    "Halsband ein schwarzes Halsband das Halsband sah aus wie ein Tattoo ein",
-    133,
-    148,
-    3.27,
-    5
-   ],
-   [
-    "jeansjacke",
-    "also eine Jeansjacke ist natürlich eine Jacke und sie ist aus",
-    293,
-    307,
-    2.54,
+    "vielleicht",
+    "passt vielleicht der Geldbeutel rein und",
+    377,
+    385,
+    5.72,
     3
    ],
    [
-    "modetrends",
-    "spreche ich über Modetrends aus meiner",
-    13,
-    24,
-    2.67,
+    "unten",
+    "Hosenbeine waren hier unten hier unten",
+    78,
+    86,
+    5.01,
+    3
+   ],
+   [
+    "top",
+    "Spaghettiträger an einem Top ein Top ist",
+    169,
+    181,
+    4.94,
     3
    ],
    [
@@ -3136,14 +3213,6 @@
     181,
     4.34,
     9
-   ],
-   [
-    "nummer",
-    "Modetrend Nummer eins ist die Schlaghose also eine Hose klar aber",
-    47,
-    60,
-    4.9,
-    8
    ],
    [
     "tasche",
@@ -3170,39 +3239,111 @@
     4
    ],
    [
-    "vielleicht",
-    "passt vielleicht der Geldbeutel rein und",
-    377,
-    385,
-    5.72,
-    3
+    "hüfte",
+    "Hüfthosen also das ist die Hüfte und",
+    221,
+    231,
+    3.69,
+    6
    ],
    [
-    "unten",
-    "Hosenbeine waren hier unten hier unten",
-    78,
-    86,
-    5.01,
-    3
+    "hosen",
+    "ab dem Knie ab dem Knie werden die Hosen",
+    88,
+    99,
+    4.17,
+    2
    ],
    [
-    "top",
-    "Spaghettiträger an einem Top ein Top ist",
-    169,
-    181,
-    4.94,
-    3
+    "shirts",
+    "bauchfreie Tops oder bauchfreie T-Shirts also die T-Shirts sind dann ein bisschen",
+    271,
+    285,
+    4.01,
+    2
+   ],
+   [
+    "angesagt",
+    "angesagt auch cool und jetzt jetzt in",
+    112,
+    124,
+    3.98,
+    2
+   ],
+   [
+    "halsband",
+    "Halsband ein schwarzes Halsband das Halsband sah aus wie ein Tattoo ein",
+    133,
+    148,
+    3.27,
+    5
+   ],
+   [
+    "spaghetti",
+    "Modetrend Nummer drei sind die Spaghetti",
+    162,
+    170,
+    3.58,
+    4
+   ],
+   [
+    "silberne",
+    "silberne silberne Creolen und heute habe ich",
+    419,
+    432,
+    3.59,
+    2
+   ],
+   [
+    "ohrringe",
+    "Creolen sind Ohrringe aber größere Ohrringe in",
+    400,
+    411,
+    3.37,
+    2
+   ],
+   [
+    "modetrend",
+    "Modetrend Nummer eins ist die Schlaghose also eine Hose klar aber",
+    47,
+    60,
+    2.24,
+    9
+   ],
+   [
+    "creolen",
+    "der letzte Modetrend sind die Creolen",
+    396,
+    406,
+    2.04,
+    5
+   ],
+   [
+    "bauchtasche",
+    "Bauchtasche bindet man sich ja eigentlich nicht um den Bauch aber um",
+    338,
+    351,
+    2.42,
+    4
+   ],
+   [
+    "bauchfrei",
+    "bauchfrei tragen wisst ihr was bauchfrei",
+    251,
+    261,
+    2.24,
+    4
    ]
   ],
-  "tx": "hallo meine Lieben ich hoffe euch geht es gut heute werde ich über Mode sprechen also über Klamotten heute spreche ich über Modetrends aus meiner Schulzeit also als ich ein Kind war und zur Schule gegangen bin ich spreche über Modetrends aus meiner Grundschulzeit die Grundschule in Deutschland geht von der ersten bis zur vierten Klasse Modetrend Nummer eins ist die Schlaghose also eine Hose klar aber keine enge Hose die Hosenbeine sind nicht eng der Stoff ist nicht eng am Bein der Stoff ist nicht eng an der Haut die Hosenbeine waren hier unten hier unten sehr weit sehr weit hier ab dem Knie ab dem Knie werden die Hosen weiter das ist eine Schlaghose und die waren in die waren cool als ich in der Grundschule war in den 70er Jahren waren Schlaghosen auch angesagt auch cool und jetzt jetzt in 2023 kommen die Schlaghosen wieder jetzt sind die Schlaghosen wieder angesagt Modetrend Nummer 2 ist ein Halsband ein schwarzes Halsband das Halsband sah aus wie ein Tattoo ein Tattoo was man auf die Haut stechen lassen kann das Halsband hatte so ein Muster und das Halsband lag auch ganz eng am Hals Modetrend Nummer drei sind die Spaghetti Träger die Spaghettiträger an einem Top ein Top ist ein Oberteil und ein Top Hat Träger Träger die Träger liegen auf den Schultern hier und es gibt breite Träger aber es gibt auch dünne Träger wie Spaghetti Träger Spaghetti Träger sind so dünn wie Spaghettis also die Nudeln ja Spaghettiträger waren in aber klar jetzt in 2023 trägt man auch Spaghetti-Träger Tops Modetrend Nummer 4 sind auch ein paar Hosen aber keine Schlaghosen sondern Hüfthosen also das ist die Hüfte und eine Hüfthose geht nur bis zur Hüfte nicht über die Hüfte die Hüfthose sitzt auf der Hüfte und nicht hier oben die Hose geht nicht über den Bauch ja Hüfthosen waren total in Modetre",
+  "tx": "hallo meine Lieben ich hoffe euch geht es gut heute werde ich über Mode sprechen also über Klamotten heute spreche ich über Modetrends aus meiner Schulzeit also als ich ein Kind war und zur Schule gegangen bin ich spreche über Modetrends aus meiner Grundschulzeit die Grundschule in Deutschland geht von der ersten bis zur vierten Klasse Modetrend Nummer eins ist die Schlaghose also eine Hose klar aber keine enge Hose die Hosenbeine sind nicht eng der Stoff ist nicht eng am Bein der Stoff ist nicht eng an der Haut die Hosenbeine waren hier unten hier unten sehr weit sehr weit hier ab dem Knie ab dem Knie werden die Hosen weiter das ist eine Schlaghose und die waren in die waren cool als ich in der Grundschule war in den 70er Jahren waren Schlaghosen auch angesagt auch cool und jetzt jetzt in 2023 kommen die Schlaghosen wieder jetzt sind die Schlaghosen wieder angesagt Modetrend Nummer 2 ist ein Halsband ein schwarzes Halsband das Halsband sah aus wie ein Tattoo ein Tattoo was man auf die Haut stechen lassen kann das Halsband hatte so ein Muster und das Halsband lag auch ganz eng am Hals Modetrend Nummer drei sind die Spaghetti Träger die Spaghettiträger an einem Top ein Top ist ein Oberteil und ein Top Hat Träger Träger die Träger liegen auf den Schultern hier und es gibt breite Träger aber es gibt auch dünne Träger wie Spaghetti Träger Spaghetti Träger sind so dünn wie Spaghettis also die Nudeln ja Spaghettiträger waren in aber klar jetzt in 2023 trägt man auch Spaghetti-Träger Tops Modetrend Nummer 4 sind auch ein paar Hosen aber keine Schlaghosen sondern Hüfthosen also das ist die Hüfte und eine Hüfthose geht nur bis zur Hüfte nicht über die Hüfte die Hüfthose sitzt auf der Hüfte und nicht hier oben die Hose geht nicht über den Bauch ja Hüfthosen waren total in Modetrend Nummer 5 ist bauchfrei tragen wisst ihr was bauchfrei bedeutet also das ist mein Bauch und bauchfrei bedeutet dass der Bauch oder ein Stück von dem Bauch nicht bedeckt ist zum Beispiel gibt es bauchfreie Tops oder bauchfreie T-Shirts also die T-Shirts sind dann ein bisschen kürzer und bauchfrei ist natürlich auch jetzt in 2023 wieder in Modetrend Nummer 6 sind die Jeansjacken also eine Jeansjacke ist natürlich eine Jacke und sie ist aus dem gleichen Stoff wie eine Jeanshose ich glaube ich hatte auch eine Jeansjacke ja meine Jeansjacke war dunkelblau nicht hellblau aber dunkelblau Modetrend Nummer 7 sind die Bauchtaschen also eine Tasche wisst ihr was eine Tasche ist das hier z.B ist eine Tasche aber das ist eine große Tasche Bauchtaschen sind viel kleiner also eine Bauchtasche bindet man sich ja eigentlich nicht um den Bauch aber um die Hüfte also es ist eine kleine Tasche ungefähr so groß mit einem Band und dann kann man sich die Tasche um die Hüfte binden aber heute in 2023 tragen viele Menschen die Bauchtasche über die Schulter oder in so einer Bauchtasche ist nicht so viel Platz da passt vielleicht der Geldbeutel rein und vielleicht ein Lippenstift und heute vielleicht noch das Handy und dann ist die Bauchtasche voll Modetrend Nummer 8 und damit auch der letzte Modetrend sind die Creolen Creolen sind Ohrringe aber größere Ohrringe in Ringform das hier sind zum Beispiel Creolen und die waren damals auch er in ich hatte damals silberne silberne Creolen und heute habe ich goldene Creolen okay das war's für heute erzählt mir erzählt mir welchen von diesen Modetrends ihr auch noch kennt schreibt es unten in die Kommentare wenn euch das Video gefallen hat dann klickt einmal auf den Like Button und aktiviert die Glocke aktiviert die Glocke damit ihr kein Beginner Video mehr verpasst also bis bald und einen schönen Tag noch tschüss",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6947
+  "src": "auto"
  },
  "EqwRp0kzwCg": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-03T04:46:03+00:00",
+  "checked": "2026-11-10T02:30:21+00:00",
   "title": "NORSE MYTHOLOGY#13: Ragnarok│Intermediate German Story",
   "duration": 1067,
   "published": "20230513",
@@ -3210,73 +3351,10 @@
   "spoken_v": 2,
   "pace": 95.7,
   "rare": 0.085,
+  "var": 0.7671,
   "speech_s": 1047.1,
   "tokens": 1670,
   "kw": [
-   [
-    "heimdall",
-    "aber Heimdall wird immer noch nichts",
-    0,
-    8,
-    2.05,
-    14
-   ],
-   [
-    "loki",
-    "Schwert und Loki wird zurückschlagen ",
-    7,
-    14,
-    3.1,
-    16
-   ],
-   [
-    "ragnarok",
-    "Ragnarok das letzte Schicksal der Götter",
-    35,
-    44,
-    2.08,
-    4
-   ],
-   [
-    "götter",
-    "Ragnarok das letzte Schicksal der Götter",
-    35,
-    44,
-    4.16,
-    16
-   ],
-   [
-    "odin",
-    "vielen Geschichten von Loki und Odin und",
-    24,
-    34,
-    3.23,
-    5
-   ],
-   [
-    "odins",
-    "ist weg und Odins Sohn muss dabei",
-    573,
-    582,
-    2.46,
-    3
-   ],
-   [
-    "schachspiel",
-    "Schachspiel und sie werden noch mehr",
-    995,
-    1002,
-    2.88,
-    3
-   ],
-   [
-    "höllenhund",
-    "Höllenhund kam wird aus den Tiefen",
-    442,
-    453,
-    2.02,
-    2
-   ],
    [
     "seinem",
     "sagen aber er wird zuschlagen mit seinem",
@@ -3284,14 +3362,6 @@
     11,
     5.63,
     17
-   ],
-   [
-    "wolf",
-    "sie von einem Wolf gefressen werden",
-    146,
-    155,
-    4.57,
-    10
    ],
    [
     "sagen",
@@ -3318,39 +3388,143 @@
     8
    ],
    [
-    "sehen",
-    "alles überall sehen und er sieht auch",
-    95,
-    104,
-    5.69,
-    7
+    "wolf",
+    "sie von einem Wolf gefressen werden",
+    146,
+    155,
+    4.57,
+    10
    ],
    [
-    "kommen",
-    "niemand sieht es kommen außer Heimdall",
-    83,
-    92,
-    5.71,
-    7
-   ],
-   [
-    "winter",
-    "kommt es wird in einem Winter passieren",
-    106,
-    114,
-    4.84,
+    "kämpfen",
+    "werden überall geführt Brüder kämpfen gegen Brüder Schwestern",
+    120,
+    133,
+    4.74,
     6
+   ],
+   [
+    "toten",
+    "befreien er wird das Schiff der Toten",
+    281,
+    290,
+    4.57,
+    5
+   ],
+   [
+    "geschichten",
+    "die Geschichten der nordischen Mythologie zu Ende bringen die vielen",
+    19,
+    29,
+    4.65,
+    4
+   ],
+   [
+    "götter",
+    "Ragnarok das letzte Schicksal der Götter",
+    35,
+    44,
+    4.16,
+    16
+   ],
+   [
+    "schlange",
+    "die mit ganz Schlange die einmal um die",
+    220,
+    228,
+    4.11,
+    7
+   ],
+   [
+    "schwert",
+    "Schwert und Loki wird zurückschlagen ",
+    7,
+    14,
+    4.1,
+    7
+   ],
+   [
+    "welten",
+    "allen Welten und die Krieger von",
+    365,
+    372,
+    4.06,
+    4
+   ],
+   [
+    "loki",
+    "Schwert und Loki wird zurückschlagen ",
+    7,
+    14,
+    3.1,
+    16
+   ],
+   [
+    "odin",
+    "vielen Geschichten von Loki und Odin und",
+    24,
+    34,
+    3.23,
+    5
+   ],
+   [
+    "schlachtfeld",
+    "Schlachtfeld angeführt von dem Gott oh den auf seinem",
+    375,
+    386,
+    3.49,
+    4
+   ],
+   [
+    "speer",
+    "reiten und er wird nach seinem Speer",
+    399,
+    408,
+    3.58,
+    3
+   ],
+   [
+    "heimdall",
+    "aber Heimdall wird immer noch nichts",
+    0,
+    8,
+    2.05,
+    14
+   ],
+   [
+    "ragnarok",
+    "Ragnarok das letzte Schicksal der Götter",
+    35,
+    44,
+    2.08,
+    4
+   ],
+   [
+    "schachspiel",
+    "Schachspiel und sie werden noch mehr",
+    995,
+    1002,
+    2.88,
+    3
+   ],
+   [
+    "odins",
+    "ist weg und Odins Sohn muss dabei",
+    573,
+    582,
+    2.46,
+    3
    ]
   ],
-  "tx": "aber Heimdall wird immer noch nichts sagen aber er wird zuschlagen mit seinem Schwert und Loki wird zurückschlagen endlich ist es soweit heute werden wir die Geschichten der nordischen Mythologie zu Ende bringen die vielen vielen Geschichten von Loki und Odin und Thor finden heute ihr Ende heute erzähle ich euch die Geschichte von Ragnarok das letzte Schicksal der Götter der nordischen Mythologie alle Geschichten die ich euch bisher erzählt habe haben in der Vergangenheit gespielt das ist alles vor vielen vielen vielen vielen Jahren passiert aber die Geschichte heute ist noch nicht passiert diese Geschichte liegt in der Zukunft und deswegen werde ich euch heute diese Geschichte in der Zukunftsform erzählen es wird anfangen wenn alle Götter schlafen Tor Odin freier Frey alle schlafen sie und niemand sieht es kommen außer Heimdall erinnert ihr euch an Heimdall Heimdall ist der Wächter der Götter er kann immer alles überall sehen und er sieht auch Ragnarok kommen doch auch Heimdall kann nicht verhindern dass Ragnarok näher kommt es wird in einem Winter passieren aber das wird kein normaler Winter wird Winter Folgen es gibt keinen Frühling mehr keine Wärme werden überall geführt Brüder kämpfen gegen Brüder Schwestern verraten Schwestern Dunkelheit wird über die Welt einbrechen und wenn nur noch wenige lebende übrig sind dann werden Sonne und Mond verschwinden als würden sie von einem Wolf gefressen werden keiner kann mir die Sterne sehen das wird der Winter der niemals endet teilte Winde heftige Stürme so kalt und heftig dass die Tränen in deinen Augen gefrieren Winter gefolgt von Winter und dann kommen die Zeiten der Erdbeben Berge werden sich erschüttern bäum werden fallen die letzten Häuser werden zerstört fenriye der gigantische große gefährliche Wolf der ein Sohn von L",
+  "tx": "aber Heimdall wird immer noch nichts sagen aber er wird zuschlagen mit seinem Schwert und Loki wird zurückschlagen endlich ist es soweit heute werden wir die Geschichten der nordischen Mythologie zu Ende bringen die vielen vielen Geschichten von Loki und Odin und Thor finden heute ihr Ende heute erzähle ich euch die Geschichte von Ragnarok das letzte Schicksal der Götter der nordischen Mythologie alle Geschichten die ich euch bisher erzählt habe haben in der Vergangenheit gespielt das ist alles vor vielen vielen vielen vielen Jahren passiert aber die Geschichte heute ist noch nicht passiert … näher kommt es wird in einem Winter passieren aber das wird kein normaler Winter wird Winter Folgen es gibt keinen Frühling mehr keine Wärme werden überall geführt Brüder kämpfen gegen Brüder Schwestern verraten Schwestern Dunkelheit wird über die Welt einbrechen und wenn nur noch wenige lebende übrig sind dann werden Sonne und Mond verschwinden als würden sie von einem Wolf gefressen werden keiner kann mir die Sterne sehen das wird der Winter der niemals endet teilte Winde heftige Stürme so kalt und heftig dass die Tränen in deinen Augen gefrieren Winter gefolgt von Winter und dann … kann die mit ganz Schlange die einmal um die Welt geht und auch ein Kind von Loki ist wird sich erheben um mit seinem Gift zu töten es wird kein Leben mehr in den mehreren geben überall wo die Kinder von Loki hinkommen bricht tot und elend aus und das ist der Anfang des Endes die Söhne der feuerwelt werden ausbrechen angeführt von surrt der feuerriese mit seinem brennenden Schwert und Sie werden über die Regenbogenbrücke reiten und alles verbrennen und alles zerstören es wird keine Regenbogen mehr geben Luki wird sich ebenfalls aus deinem Gefängnis befreien er wird das Schiff der Toten … zur Schlacht aufstellen die schlimmsten Feinde die man sich vorstellen kann und Heimdall der Wächter der Götter wird all das gesehen haben und dann wird er das yalla Horn blasen um alle Götter aufzuwecken und zu warnen die Götter werden aufwachen und sich bewaffnen bewaffnen mit Waffen mit einem Schwert mit einer Axt alle Götter aus allen Welten und die Krieger von Walhalla machen sich bereit für den Kampf und sie reiten zum letzten Schlachtfeld angeführt von dem Gott oh den auf seinem Pferd Sleipnir auch ein Kind von Loki oh den in seiner schimmernden Rüstung und mit seinem goldenen Helm … gegen die Toten der Höllenhund kam wird aus den Tiefen hervorkommen und den Göttern die Köpfe Abreißen der Gott dir wird den hellen Hund stoppen aber das wird beiden das Leben kosten hier wird mutig kämpfen aber der Höllenhund kam wird mit tierskopf im Maul sterben Thor wird endlich die Schlange töten das wollte er schon so lange machen er wird mit seinem Hammer den Kopf der Schlange zertrümmern Tor wird zurücktreten als der gigantische Kopf der Schlange auf das Schlachtfeld fällt Tor wird einige Meter davon entfernt stehen aber nicht weit genug als der gigantische Kopf auf den Boden … und der Speer ist weg ein beißen und ein Knirschen und ein schlucken und auch der Allvater oder den ist weg und Odins Sohn muss dabei zugucken fanrede der Wolf freut sich sehr über Odins Tod aber Odins Sohn nimmt sein Schwert und reißt dem Wolf den Unterkiefer aus und so wird der Wolf fanrea sterben auf dem Schlachtfeld werden die Götter fallen als sie gegen die Eisriesen kämpfen und die Eisriesen werden fallen als sie gegen die Götter kämpfen die Armee der Toten werden neben den Göttern auf dem Boden liegen Tod zum letzten Mal Loki wird als einziger von dieser Armee übrig bleiben und Loki … ich war jahrelang gefangen wegen euch gefesselt mit den Überresten von meinem Sohn das Gift von der Schlange auf mich tropfend und meine wunderschöne Frau an meiner Seite und das einzige was mich davon abgehalten hat nicht komplett verrückt zu werden in dieser Zeit war dieser Moment ich habe es mir wieder und wieder vorgestellt wie ich und meine Kinder die Götter besiegen werde und die Welten vernichten werde aber Heimdall wird immer noch nichts sagen aber er wird zuschlagen mit seinem Schwert und Loki wird zurückschlagen mit Brutalität und Intelligenz sie werden kämpfen und Schlitzen und … können sind tot ich habe gewonnen aber Heimdall wird wieder sagen ich kann weiter als du sehen und mit seinem letzten Atemzug wird er sagen ich kann den ganzen Weg bis zum Baum der Welten sehen das Feuer von suhrt kann dem Baum nichts anhaben und dort in dem Baumstamm haben sich zwei Menschen versteckt das ist nicht das Ende es gibt kein Ende das ist nur das Ende unserer Zeit und die Geburt einer neuen Zeit du Loki hast versagt und Loki wird etwas Antworten etwas Kluges und verletzendes aber sein Leben wird vorbei sein und seine Brillanz und Grausamkeit auch und er wird nichts mehr … kommt von den grauen Meeren wird die grüne Erde noch mal entstehen die Sonne wird gefressen worden sein aber die Tochter der Sonne wird als Ersatz scheinen der Mann und die Frau werden aus ihrem Versteck kommen Odin Söhne werden dorthin gehen wo Asgard einmal war und thorst Söhne werden auch bald ankommen die Götter bald da und hat Balda und hat sind schon vor langer Zeit in einer anderen Geschichte lange vor Ragnarok gestorben und kommen aus der Unterwelt wieder sie werden reden und sich an alte Geschichten erinnern sie werden diskutieren was man hätte anders machen können und ob das Ende … Hammer oh guck mal hier ist Heimdall mit seinem Horn und hier ist Frick sie ist die Königin von dem Schachspiel und sie werden noch mehr Schachfiguren im Gras finden Loki und seine Kinder die Frostriesen bald haben sie alle Figuren für ein Schachspiel zusammen sie stellen die Figuren auf und sie ordnen die Figuren zu einem Schachspiel an auf dem Schachbrett stellen Sie die Götter gegenüber von ihren Feinden die goldenen Schachfiguren werden in der Sonne glänzen bald da wird Lächeln nach einer Schachfigur greifen und seinen ersten Schachzug machen und so fängt das Spiel wieder von vorne an",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.775
+  "src": "auto"
  },
  "0GAvXO9fffc": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-03T04:50:38+00:00",
+  "checked": "2026-11-10T02:37:00+00:00",
   "title": "A2 BEGINNER German Listening Practice / German Comprehensible Input - Deutsch für Anfänger",
   "duration": 601,
   "published": "20261017",
@@ -3358,73 +3532,10 @@
   "spoken_v": 2,
   "pace": 93.1,
   "rare": 0.0791,
+  "var": 0.7697,
   "speech_s": 496.9,
   "tokens": 771,
   "kw": [
-   [
-    "avocados",
-    "Wenn es gute Avocados gibt. Ich gehe Avocados suchen.",
-    313,
-    321,
-    2.74,
-    4
-   ],
-   [
-    "wassermelone",
-    "Wassermelone? Klingt gut?",
-    189,
-    196,
-    2.94,
-    4
-   ],
-   [
-    "patreon",
-    "die uns auf Patreon unterstützen. Und noch ein großes Dankeschön an alle",
-    489,
-    499,
-    2.56,
-    3
-   ],
-   [
-    "karotten",
-    "So, wir brauchen Karotten. Wir brauchen Karotten, wir brauchen",
-    122,
-    129,
-    3.42,
-    5
-   ],
-   [
-    "pfand",
-    "dann sollten wir unseren Pfand mitnehmen.",
-    20,
-    28,
-    3.48,
-    5
-   ],
-   [
-    "mhm",
-    "Mhm. Kannst du Karotten holen? Ich hole die",
-    130,
-    134,
-    3.53,
-    5
-   ],
-   [
-    "paulina",
-    "zum Frühstück für Paulina. Ich habe",
-    294,
-    302,
-    2.92,
-    3
-   ],
-   [
-    "wassermelonen",
-    "Wassermelonen hat. Und ich möchte unbedingt mehr",
-    62,
-    70,
-    2.59,
-    2
-   ],
    [
     "brauchen",
     "So, wir brauchen Karotten. Wir brauchen Karotten, wir brauchen",
@@ -3450,27 +3561,11 @@
     5
    ],
    [
-    "wasser",
-    "Wir brauchen noch Wasser. Oh ja, auf jeden Fall.",
-    225,
-    231,
-    5.32,
-    4
-   ],
-   [
-    "video",
-    "Thunfisch für ein anderes Video. Mhm.",
-    209,
-    216,
-    5.13,
-    4
-   ],
-   [
-    "okay",
-    "Okay, ich habe auch die Karotten",
-    139,
-    142,
-    4.97,
+    "euch",
+    "Ein großes Dankeschön an alle von euch,",
+    486,
+    493,
+    5.71,
     4
    ],
    [
@@ -3482,18 +3577,130 @@
     4
    ],
    [
-    "gute",
-    "Einkaufen? Ja, das ist eine gute Idee.",
-    8,
+    "einkaufen",
+    "Lass uns einkaufen gehen. Einkaufen? Ja, das ist eine gute Idee.",
+    7,
     15,
-    5.61,
+    4.33,
     4
+   ],
+   [
+    "findest",
+    "Findest du? Ja.",
+    165,
+    169,
+    4.74,
+    3
+   ],
+   [
+    "milch",
+    "Und Milch. Ich hole beides.",
+    229,
+    235,
+    4.51,
+    3
+   ],
+   [
+    "salat",
+    "Salat. Und Gurken.",
+    127,
+    131,
+    4.1,
+    4
+   ],
+   [
+    "bringe",
+    "Ich bringe Salat. Mhm.",
+    219,
+    224,
+    4.09,
+    3
+   ],
+   [
+    "einkauf",
+    "Einkauf fertig. Es hat insgesamt ungefähr 20 Euro gekostet. Also 16,50",
+    405,
+    419,
+    4.0,
+    3
+   ],
+   [
+    "ähm",
+    "Ähm. Wir brauchen noch Wasser.",
+    223,
+    230,
+    4.12,
+    2
+   ],
+   [
+    "mhm",
+    "Mhm. Kannst du Karotten holen? Ich hole die",
+    130,
+    134,
+    3.53,
+    5
+   ],
+   [
+    "pfand",
+    "dann sollten wir unseren Pfand mitnehmen.",
+    20,
+    28,
+    3.48,
+    5
+   ],
+   [
+    "karotten",
+    "So, wir brauchen Karotten. Wir brauchen Karotten, wir brauchen",
+    122,
+    129,
+    3.42,
+    5
+   ],
+   [
+    "gurken",
+    "Und Gurken. Mhm.",
+    128,
+    133,
+    3.57,
+    2
+   ],
+   [
+    "wassermelone",
+    "Wassermelone? Klingt gut?",
+    189,
+    196,
+    2.94,
+    4
+   ],
+   [
+    "avocados",
+    "Wenn es gute Avocados gibt. Ich gehe Avocados suchen.",
+    313,
+    321,
+    2.74,
+    4
+   ],
+   [
+    "paulina",
+    "zum Frühstück für Paulina. Ich habe",
+    294,
+    302,
+    2.92,
+    3
+   ],
+   [
+    "patreon",
+    "die uns auf Patreon unterstützen. Und noch ein großes Dankeschön an alle",
+    489,
+    499,
+    2.56,
+    3
    ]
   ],
-  "tx": "Ja. Hi. Lass uns einkaufen gehen. Einkaufen? Ja, das ist eine gute Idee. Los geht's. Aber wenn wir zum Supermarkt fahren, dann sollten wir unseren Pfand mitnehmen. Wir fahren mit dem Auto, deswegen lege ich die Pfandkiste in den Kofferraum. So. Und mache den Kofferraum natürlich wieder zu. Es gibt hier in der Nähe vier verschiedene Supermärkte. Aber heute fahren wir zu Aldi, weil Aldi sehr günstige, gute Wassermelonen hat. Und ich möchte unbedingt mehr Wassermelonen. Ich schließe das Auto. Kommst du? Ja. Los geht's. Als Erstes bringen wir das Pfand weg. Hier bekommt man pro Flasche 10 Cent Pfand. In Deutschland ist es ein bisschen mehr. In Deutschland bekommt man 25 Cent pro Flasche. Diese Kiste mit Pfand war jetzt 3,50 Euro wert. Das können wir jetzt beim Einkaufen benutzen. So, wir brauchen Karotten. Wir brauchen Karotten, wir brauchen Salat. Und Gurken. Mhm. Kannst du Karotten holen? Ich hole die Gurken. Ja. Okay, ich habe auch die Karotten gefunden. Dann holst du die Karotten. Was machen wir denn heute? Wir kochen Sommerrollen. Kochen Sommerrollen oder machen Sommerrollen? Gut, ich denke, wir machen Sommerrollen. Ja, gut. Ich glaube, kochen muss man da nicht viel. Ich glaube, die andere Gurke sieht besser aus. Welche? Die. Die oben? Ja. Findest du? Ja. Die hier? Ja. Okay. Und Salat. Ich glaube, Salat ist da drüben? Mhm. Siehst du Eisbergsalat? Äh, nein. Wie findest du den Klang dieser Wassermelone? Klingt gut? Mhm. Wir haben schon eineinhalb Hä? Wir haben schon eineinhalb Wassermelone zu Hause. Ja, aber die sind zum Kochen. Die damit machen wir äh veganen Thunfisch für ein anderes Video. Mhm. Ich bringe Salat. Mhm. Ähm. Wir brauchen noch Wasser. Oh ja, auf jeden Fall. Und Milch. Ich hole beides. Und du guckst, ob du was Leckeres findest. Ich suche nach Leckerchen. S",
+  "tx": "Ja. Hi. Lass uns einkaufen gehen. Einkaufen? Ja, das ist eine gute Idee. Los geht's. Aber wenn wir zum Supermarkt fahren, dann sollten wir unseren Pfand mitnehmen. Wir fahren mit dem Auto, deswegen lege ich die Pfandkiste in den Kofferraum. So. Und mache den Kofferraum natürlich wieder zu. Es gibt hier in der Nähe vier verschiedene Supermärkte. Aber heute fahren wir zu Aldi, weil Aldi sehr günstige, gute Wassermelonen hat. Und ich möchte unbedingt mehr Wassermelonen. Ich schließe das Auto. Kommst du? Ja. Los geht's. Als Erstes bringen wir das Pfand weg. Hier bekommt man pro Flasche 10 Cent Pfand. In Deutschland ist es ein bisschen mehr. In Deutschland bekommt man 25 Cent pro Flasche. Diese Kiste mit Pfand war jetzt 3,50 Euro wert. Das können wir jetzt beim Einkaufen benutzen. So, wir brauchen Karotten. Wir brauchen Karotten, wir brauchen Salat. Und Gurken. Mhm. Kannst du Karotten holen? Ich hole die Gurken. Ja. Okay, ich habe auch die Karotten gefunden. Dann holst du die Karotten. Was machen wir denn heute? Wir kochen Sommerrollen. Kochen Sommerrollen oder machen Sommerrollen? Gut, ich denke, wir machen Sommerrollen. Ja, gut. Ich glaube, kochen muss man da nicht viel. Ich glaube, die andere Gurke sieht besser aus. Welche? Die. Die oben? Ja. Findest du? Ja. Die hier? Ja. Okay. Und Salat. Ich glaube, Salat ist da drüben? Mhm. Siehst du Eisbergsalat? Äh, nein. Wie findest du den Klang dieser Wassermelone? Klingt gut? Mhm. Wir haben schon eineinhalb Hä? Wir haben schon eineinhalb Wassermelone zu Hause. Ja, aber die sind zum Kochen. Die damit machen wir äh veganen Thunfisch für ein anderes Video. Mhm. Ich bringe Salat. Mhm. Ähm. Wir brauchen noch Wasser. Oh ja, auf jeden Fall. Und Milch. Ich hole beides. Und du guckst, ob du was Leckeres findest. Ich suche nach Leckerchen. Schokolinum. Wasser ist im Anmarsch. Zwei große Flaschen Wasser. Und Enkus. Gibt's gratis dazu. In Portugal haben sie leider sehr wenig gute Schokolade. Und nichts. Ich dachte, du würdest dich ein bisschen mehr ducken. 6 l Milch für 6 l Kaffee zum Frühstück für Paulina. Ich habe das hier genommen. Milk and Crisp? Ja. Ein kleiner Snack für zwischendurch. Ja. Ähm was brauchen wir sonst noch? Brauchen wir noch etwas für die Sommerrollen? Avocado? Wenn es gute Avocados gibt. Ich gehe Avocados suchen. Ich glaube, die Avocados sind leider ein bisschen zu hart. Es tut mir leid, Schatz. Aber die Avocados sind alle ein bisschen zu hart. Es gibt keine reifen. Also dann heute Sommerrollen ohne Avocado. Das ist okay. Oder möchtest du noch bei einem anderen Laden vorbeischauen? Nein, nein. Das lohnt sich nicht. Du nimmst den Käse. Für die Sommerrollen brauchen wir glaube ich nichts mehr. Wir haben einen Snack, eine kleine Belohnung. Wir haben Wasser und wir haben Milch. Möchtest du morgen das gleiche zum Frühstück wie heute? Ja, das war lecker. Okay, da haben wir noch genug von. Vielleicht etwas zu trinken. Nee, ich brauche nichts. Ich möchte etwas zu trinken haben. Ich bin eine für kleine blaue für kleine pinke Monster. Und damit sind wir mit dem Einkauf fertig. Es hat insgesamt ungefähr 20 Euro gekostet. Also 16,50 mit dem Pfand. Wir bringen den Einkauf jetzt ins Auto. Und dann bringe ich den Einkaufswagen zurück. Ich habe hier eine Einkaufstasche. Damit bringen wir den Einkauf gleich nach Hause. Die Wassermelone ist sehr schwer. Ich lege die Wassermelone zuerst in die Einkaufstasche. Ach ja, ich habe auch Kichererbsen gekauft. Die esse ich in letzter Zeit ganz ganz oft zum Frühstück. Jetzt bringe ich noch den Wagen zurück und dann sind wir fertig. Ein großes Dankeschön an alle von euch, die uns auf Patreon unterstützen. Und noch ein großes Dankeschön an alle von euch, die uns hier auf YouTube unterstützen, indem ihr liked, teilt, subscribt, kommentiert oder einfach dieses Video bis zum Ende anschaut. Auf Patreon bekommt ihr auch exklusive Videos, Transkripte und alle Videos ohne Untertitel. In den extra Videos auf Patreon spreche ich normal, also mit meiner typischen Stimme und meinem typischen Tempo. Und ich erzähle euch auch ein bisschen mehr von meinem Leben. Ich gehe ein bisschen mehr ins Detail und ihr könnt mehr über mich und über Paulina und über uns lernen. Vielen Dank, dass ihr heute wieder dabei wart. Ich hoffe, ihr habt ein paar neue Dinge gesehen, gehört und gelernt. Und ich hoffe, dass Paulina und ich euch im nächsten Video wiedersehen dürfen. Schreibt unten in die Kommentare, wo ihr normalerweise einkaufen geht. Was ist euer Lieblingssupermarkt? Und schreibt auch, welche neuen Wörter ihr gelernt habt. Ich gehe jetzt die ganzen Lebensmittel wegpacken und dann ist dieses Video vorbei. Wir sehen uns beim nächsten Mal und bis dahin Jam out.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7444
+  "src": "auto"
  },
  "j8_zrhJ2hyo": {
   "channel": "Learn German by Listening (DldH)",
@@ -3606,7 +3813,7 @@
  "FX4_O4ouW38": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-03T05:01:07+00:00",
+  "checked": "2026-11-10T02:53:00+00:00",
   "title": "🧠 10 Deutsche Philosophen, die denken lassen 🤔🇩🇪",
   "duration": 362,
   "published": "20250317",
@@ -3614,15 +3821,72 @@
   "spoken_v": 2,
   "pace": 82.3,
   "rare": 0.1118,
+  "var": 0.8301,
   "speech_s": 358.9,
   "tokens": 492,
   "kw": [
    [
-    "tiefgreifend",
+    "welt",
+    "deutscher Philosophen ein, die die Philosophie und unser Verständnis der Welt maßgeblich",
+    13,
+    21,
+    5.66,
+    5
+   ],
+   [
+    "werk",
+    "zur Macht\". Sein Werk \"Also sprach Zarathustra\" hat viele Denker nach ihm beeinflusst, indem er",
+    63,
+    74,
+    4.89,
+    5
+   ],
+   [
+    "deutsche",
+    "diesem Video über 10 deutsche Philosophen! Ja, heute tauchen wir in die Gedankenwelt",
+    4,
+    14,
+    5.57,
+    3
+   ],
+   [
+    "wissen",
     "Philosophie tiefgreifend verändert, indem er untersuchte, wie wir Wissen erlangen und was",
     41,
     50,
-    2.62,
+    5.55,
+    3
+   ],
+   [
+    "philosophie",
+    "deutscher Philosophen ein, die die Philosophie und unser Verständnis der Welt maßgeblich",
+    13,
+    21,
+    4.57,
+    8
+   ],
+   [
+    "wilhelm",
+    "traditionelle Werte und Moral in Frage stellte. Georg Wilhelm Friedrich Hegel",
+    73,
+    83,
+    4.63,
+    3
+   ],
+   [
+    "beeinflusst",
+    "beeinflusst haben. Bereit für eine Reise durch die Philosophiegeschichte? Los geht's!",
+    20,
+    28,
+    4.31,
+    3
+   ],
+   [
+    "ideen",
+    "\"Der Steppenwolf\" sind literarische Reflexionen philosophischer Ideen.",
+    209,
+    218,
+    4.78,
     2
    ],
    [
@@ -3634,43 +3898,51 @@
     4
    ],
    [
-    "gedankenwelt",
-    "diesem Video über 10 deutsche Philosophen! Ja, heute tauchen wir in die Gedankenwelt",
-    4,
-    14,
-    3.07,
-    2
-   ],
-   [
-    "schopenhauer",
-    "verstehen und erleben. Arthur Schopenhauer Arthur Schopenhauer prägte den Pessimismus und das Konzept des \"Willens\". Er sah den Willen",
-    156,
-    173,
-    3.22,
-    2
-   ],
-   [
-    "immanuel",
-    "Immanuel Kant Lass uns mit Immanuel Kant beginnen,",
-    27,
-    33,
-    3.25,
-    2
-   ],
-   [
-    "arendt",
+    "hannah",
     "Hannah Arendt Hannah Arendt hat sich mit",
     245,
     250,
-    3.26,
+    3.9,
     2
    ],
    [
-    "heidegger",
-    "tiefgreifend beeinflusst. Martin Heidegger Martin Heidegger hat die Existenzialphilosophie weiterentwickelt, insbesondere durch sein Werk",
-    135,
-    149,
-    3.31,
+    "gottfried",
+    "Gottfried Wilhelm Leibniz Zum Schluss Gottfried Wilhelm Leibniz,",
+    275,
+    282,
+    3.86,
+    2
+   ],
+   [
+    "hesse",
+    "Hermann Hesse Hermann Hesse, obwohl mehr als Schriftsteller bekannt, hat durch seine Werke philosophische Themen wie die",
+    189,
+    201,
+    3.76,
+    2
+   ],
+   [
+    "nietzsche",
+    "wir wirklich wissen können. Friedrich Nietzsche",
+    49,
+    56,
+    3.59,
+    2
+   ],
+   [
+    "willens",
+    "Friedrich Nietzsche ist bekannt für seine Konzepte des Existenzialismus und des \"Willens",
+    55,
+    64,
+    3.58,
+    2
+   ],
+   [
+    "bekanntes",
+    "auch die Geschichtsbetrachtung geprägt. Ein bekanntes Werk ist \"Phänomenologie des Geistes\".",
+    100,
+    112,
+    3.56,
     2
    ],
    [
@@ -3682,74 +3954,18 @@
     2
    ],
    [
-    "philosophie",
-    "deutscher Philosophen ein, die die Philosophie und unser Verständnis der Welt maßgeblich",
-    13,
-    21,
-    4.57,
-    8
-   ],
-   [
-    "werk",
-    "zur Macht\". Sein Werk \"Also sprach Zarathustra\" hat viele Denker nach ihm beeinflusst, indem er",
-    63,
-    74,
-    4.89,
-    5
-   ],
-   [
-    "welt",
-    "deutscher Philosophen ein, die die Philosophie und unser Verständnis der Welt maßgeblich",
-    13,
-    21,
-    5.66,
-    5
-   ],
-   [
-    "wissen",
+    "tiefgreifend",
     "Philosophie tiefgreifend verändert, indem er untersuchte, wie wir Wissen erlangen und was",
     41,
     50,
-    5.55,
-    3
-   ],
-   [
-    "wilhelm",
-    "traditionelle Werte und Moral in Frage stellte. Georg Wilhelm Friedrich Hegel",
-    73,
-    83,
-    4.63,
-    3
-   ],
-   [
-    "friedrich",
-    "wir wirklich wissen können. Friedrich Nietzsche",
-    49,
-    56,
-    4.8,
-    3
-   ],
-   [
-    "deutsche",
-    "diesem Video über 10 deutsche Philosophen! Ja, heute tauchen wir in die Gedankenwelt",
-    4,
-    14,
-    5.57,
-    3
-   ],
-   [
-    "bekannt",
-    "Friedrich Nietzsche ist bekannt für seine Konzepte des Existenzialismus und des \"Willens",
-    55,
-    64,
-    5.26,
-    3
+    2.62,
+    2
    ]
   ],
-  "tx": "Hey, Deutschlerner! Mark hier. Lerne automatisch Deutsch mit diesem Video über 10 deutsche Philosophen! Ja, heute tauchen wir in die Gedankenwelt deutscher Philosophen ein, die die Philosophie und unser Verständnis der Welt maßgeblich beeinflusst haben. Bereit für eine Reise durch die Philosophiegeschichte? Los geht's! Immanuel Kant Lass uns mit Immanuel Kant beginnen, dem Begründer der Transzendentalphilosophie. Er hat mit seiner \"Kritik der reinen Vernunft\" die Philosophie tiefgreifend verändert, indem er untersuchte, wie wir Wissen erlangen und was wir wirklich wissen können. Friedrich Nietzsche Friedrich Nietzsche ist bekannt für seine Konzepte des Existenzialismus und des \"Willens zur Macht\". Sein Werk \"Also sprach Zarathustra\" hat viele Denker nach ihm beeinflusst, indem er traditionelle Werte und Moral in Frage stellte. Georg Wilhelm Friedrich Hegel Hegel hat mit seiner Dialektik und dem Idealismus die Philosophie vorangetrieben. Seine Idee der Entwicklung durch Widersprüche und Synthese hat nicht nur die Philosophie, sondern auch die Geschichtsbetrachtung geprägt. Ein bekanntes Werk ist \"Phänomenologie des Geistes\". Karl Marx Karl Marx ist bekannt für den dialektischen Materialismus, eine Philosophie, die die Geschichte durch Klassenkämpfe erklärt. Seine Arbeiten wie \"Das Kapital\" haben die Grundlage für den Kommunismus gelegt und die Weltpolitik tiefgreifend beeinflusst. Martin Heidegger Martin Heidegger hat die Existenzialphilosophie weiterentwickelt, insbesondere durch sein Werk \"Sein und Zeit\". Er untersuchte das Wesen des Seins und wie wir uns in der Welt verstehen und erleben. Arthur Schopenhauer Arthur Schopenhauer prägte den Pessimismus und das Konzept des \"Willens\". Er sah den Willen als das treibende Kraft hinter allem, was zu einem oft düsteren Blick ",
+  "tx": "Hey, Deutschlerner! Mark hier. Lerne automatisch Deutsch mit diesem Video über 10 deutsche Philosophen! Ja, heute tauchen wir in die Gedankenwelt deutscher Philosophen ein, die die Philosophie und unser Verständnis der Welt maßgeblich beeinflusst haben. Bereit für eine Reise durch die Philosophiegeschichte? Los geht's! Immanuel Kant Lass uns mit Immanuel Kant beginnen, dem Begründer der Transzendentalphilosophie. Er hat mit seiner \"Kritik der reinen Vernunft\" die Philosophie tiefgreifend verändert, indem er untersuchte, wie wir Wissen erlangen und was wir wirklich wissen können. Friedrich Nietzsche Friedrich Nietzsche ist bekannt für seine Konzepte des Existenzialismus und des \"Willens zur Macht\". Sein Werk \"Also sprach Zarathustra\" hat viele Denker nach ihm beeinflusst, indem er traditionelle Werte und Moral in Frage stellte. Georg Wilhelm Friedrich Hegel Hegel hat mit seiner Dialektik und dem Idealismus die Philosophie vorangetrieben. Seine Idee der Entwicklung durch Widersprüche und Synthese hat nicht nur die Philosophie, sondern auch die Geschichtsbetrachtung geprägt. Ein bekanntes Werk ist \"Phänomenologie des Geistes\". Karl Marx Karl Marx ist bekannt für den dialektischen Materialismus, eine Philosophie, die die Geschichte durch Klassenkämpfe erklärt. Seine Arbeiten wie \"Das Kapital\" haben die Grundlage für den Kommunismus gelegt und die Weltpolitik tiefgreifend beeinflusst. Martin Heidegger Martin Heidegger hat die Existenzialphilosophie weiterentwickelt, insbesondere durch sein Werk \"Sein und Zeit\". Er untersuchte das Wesen des Seins und wie wir uns in der Welt verstehen und erleben. Arthur Schopenhauer Arthur Schopenhauer prägte den Pessimismus und das Konzept des \"Willens\". Er sah den Willen als das treibende Kraft hinter allem, was zu einem oft düsteren Blick auf das menschliche Leben führte. Ein bekanntes Werk ist \"Die Welt als Wille und Vorstellung\". Hermann Hesse Hermann Hesse, obwohl mehr als Schriftsteller bekannt, hat durch seine Werke philosophische Themen wie die Suche nach Sinn und Selbstverwirklichung behandelt. Werke wie \"Siddhartha\" und \"Der Steppenwolf\" sind literarische Reflexionen philosophischer Ideen. Max Weber Max Weber war ein Soziologe, dessen philosophische Überlegungen die Rationalisierung und Bürokratisierung der modernen Gesellschaft untersuchten. Seine Arbeiten wie \"Die protestantische Ethik und der Geist des Kapitalismus\" verbinden Philosophie und Soziologie. Hannah Arendt Hannah Arendt hat sich mit politischer Theorie beschäftigt, insbesondere mit dem Phänomen des Totalitarismus. Ihr Werk \"Elemente und Ursprünge totaler Herrschaft\", im Original \"The Origins of Totalitarianism\", ist ein wesentlicher Beitrag zur politischen Philosophie nach dem Zweiten Weltkrieg. Gottfried Wilhelm Leibniz Zum Schluss Gottfried Wilhelm Leibniz, dessen Gedankenwelt eine faszinierende Mischung aus Philosophie, Mathematik und Logik war. In seiner \"Monadologie\" beschreibt er die Welt als ein System von winzigen, unteilbaren Einheiten, die er Monaden nennt. Das Fazit Das war ein kurzer Einblick in die Welt deutscher Philosophen, deren Ideen weiterhin diskutiert und studiert werden. Wenn du mehr über diese und andere deutsche Denker erfahren möchtest, abonniere meinen Newsletter unter AuthenticGermanLearning.com/free. Dort schicke ich unter anderem E-Mails über berühmte Persönlichkeiten zu deren Geburtstag. Lass uns im Kommentarbereich wissen, welcher Philosoph dich am meisten inspiriert hat oder ob du weitere deutsche Philosophen kennenlernen möchtest! Danke fürs Zuschauen! Klicke auf das nächste Video, um weiter zu lernen. Bis bald!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8098
+  "src": "cc"
  },
  "qVuww0QxaUU": {
   "channel": "Miffy - Deutsch",
@@ -10595,7 +10811,7 @@
  "E-lzrRF9vUI": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-07T04:48:25+00:00",
+  "checked": "2026-11-10T03:01:22+00:00",
   "title": "LEARN A1 GERMAN | My life in Hamburg | Easy German Story with English Translation",
   "duration": 1237,
   "published": "20260928",
@@ -10603,73 +10819,10 @@
   "spoken_v": 2,
   "pace": 74.8,
   "rare": 0.0487,
+  "var": 0.6188,
   "speech_s": 905.7,
   "tokens": 1129,
   "kw": [
-   [
-    "subtitles",
-    "hear the story with subtitles. After",
-    16,
-    22,
-    2.06,
-    3
-   ],
-   [
-    "frühstücke",
-    "dann frühstücke ich. Then I have breakfast.",
-    331,
-    342,
-    2.7,
-    4
-   ],
-   [
-    "hear",
-    "of the same story. First you hear the",
-    10,
-    17,
-    3.09,
-    3
-   ],
-   [
-    "badezimmer",
-    "Ich habe auch ein Badezimmer. I also have a bathroom.",
-    169,
-    181,
-    3.9,
-    6
-   ],
-   [
-    "koche",
-    "Am Abend koche ich. In the evening, I cook.",
-    399,
-    411,
-    3.56,
-    4
-   ],
-   [
-    "lea",
-    "I heiße Lea. My name is Lea.",
-    34,
-    44,
-    3.77,
-    5
-   ],
-   [
-    "wohne",
-    "Ich wohne in Hamburg. I live in Hamburg.",
-    68,
-    80,
-    4.14,
-    9
-   ],
-   [
-    "parents",
-    "My parents live in Hamburg. Meine Eltern wohnen in Hamburg.",
-    257,
-    266,
-    2.62,
-    2
-   ],
    [
     "hamburg",
     "Ich wohne in Hamburg. I live in Hamburg.",
@@ -10687,35 +10840,19 @@
     16
    ],
    [
-    "zusammen",
-    "Wir essen zusammen. We eat together.",
-    280,
-    291,
-    5.55,
-    12
-   ],
-   [
-    "mag",
-    "mag Hamburg sehr. I like Hamburg very much.",
-    102,
-    113,
-    5.32,
-    12
-   ],
-   [
-    "kaffee",
-    "Im Café mache ich Kaffee. In the Cafe I make coffee.",
-    354,
-    367,
-    4.84,
-    12
-   ],
-   [
     "arbeit",
     "Ich fahre mit dem Bus zur Arbeit.",
     341,
     350,
     5.57,
+    12
+   ],
+   [
+    "zusammen",
+    "Wir essen zusammen. We eat together.",
+    280,
+    291,
+    5.55,
     12
    ],
    [
@@ -10727,23 +10864,135 @@
     10
    ],
    [
-    "klein",
-    "Meine Wohnung ist klein und schön.",
-    124,
-    134,
-    4.94,
-    10
+    "bus",
+    "Ich fahre mit dem Bus zur Arbeit.",
+    341,
+    350,
+    4.72,
+    7
+   ],
+   [
+    "story",
+    "This is a simple slow German story that",
+    0,
+    6,
+    4.52,
+    7
+   ],
+   [
+    "küche",
+    "habe eine Küche. I have a kitchen.",
+    159,
+    170,
+    4.67,
+    6
+   ],
+   [
+    "wohne",
+    "Ich wohne in Hamburg. I live in Hamburg.",
+    68,
+    80,
+    4.14,
+    9
+   ],
+   [
+    "schlafzimmer",
+    "Ich habe ein Schlafzimmer. I have a bedroom.",
+    138,
+    149,
+    4.19,
+    6
+   ],
+   [
+    "have",
+    "I have a bedroom. Ich habe ein Schlafzimmer.",
+    141,
+    149,
+    4.14,
+    6
+   ],
+   [
+    "besuche",
+    "Am Wochenende besuche ich meine Eltern.",
+    265,
+    276,
+    4.05,
+    6
+   ],
+   [
+    "koche",
+    "Am Abend koche ich. In the evening, I cook.",
+    399,
+    411,
+    3.56,
+    4
+   ],
+   [
+    "hear",
+    "of the same story. First you hear the",
+    10,
+    17,
+    3.09,
+    3
+   ],
+   [
+    "then",
+    "story with English translation. Then you",
+    14,
+    20,
+    3.51,
+    2
+   ],
+   [
+    "beautiful",
+    "Hamburg is very beautiful. Hamburg ist sehr schön. Ich",
+    94,
+    106,
+    3.5,
+    2
+   ],
+   [
+    "frühstücke",
+    "dann frühstücke ich. Then I have breakfast.",
+    331,
+    342,
+    2.7,
+    4
+   ],
+   [
+    "subtitles",
+    "hear the story with subtitles. After",
+    16,
+    22,
+    2.06,
+    3
+   ],
+   [
+    "sometimes",
+    "Sometimes listen to music. Manchmal höre ich Musik.",
+    414,
+    423,
+    2.89,
+    2
+   ],
+   [
+    "parents",
+    "My parents live in Hamburg. Meine Eltern wohnen in Hamburg.",
+    257,
+    266,
+    2.62,
+    2
    ]
   ],
-  "tx": "This is a simple slow German story that will help you practice your absolute beginner German skills. On our channel you will also get the A2 level version of the same story. First you hear the story with English translation. Then you hear the story with subtitles. After that, you hear the story again with only German subtitles. Finally, conclude with fun test understanding. Hallo. Hello. I heiße Lea. My name is Lea. Ich heiße Lea. Ich bin 22 Jahre alt. I am 22 years old. Ich bin 22 Jahre alt. Ich komme aus Deutschland. I come from Germany. Ich komme aus Deutschland. Ich wohne in Hamburg. I live in Hamburg. Ich wohne in Hamburg. Hamburg ist eine große Stadt. Hamburg is a big city. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Hamburg is very beautiful. Hamburg ist sehr schön. Ich mag Hamburg sehr. I like Hamburg very much. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. I apartment. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. My apartment is small and beautiful. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. I have a bedroom. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. I living room. Ich habe ein Wohnzimmer. Ich habe eine Küche. I have a kitchen. Ich habe eine Küche. Ich habe auch ein Badezimmer. I also have a bathroom. Ich habe auch ein Badezimmer. Meine Familie. My family. Meine Familie ist klein. My family small. Meine Familie ist klein. Ich habe einen Bruder. I have a brother. Ich habe einen Bruder. Er heißt Tim. His name Tim. Er heißt Tim. Tim ist 19 Jahre alt. Tim is 19 years old. Tim ist 19 Jahre alt. Er geht zur Schule. He goes to school. Er geht zur Schule. Ich habe auch eine Mutter und einen Vater. I also have a mother and a father. Ich habe auch eine Mutter und einen Vater. Meine Eltern wohnen",
+  "tx": "This is a simple slow German story that will help you practice your absolute beginner German skills. On our channel you will also get the A2 level version of the same story. First you hear the story with English translation. Then you hear the story with subtitles. After that, you hear the story again with only German subtitles. Finally, conclude with fun test understanding. Hallo. Hello. I heiße Lea. My name is Lea. Ich heiße Lea. Ich bin 22 Jahre alt. I am 22 years old. Ich bin 22 Jahre alt. Ich komme aus Deutschland. I come from Germany. Ich komme aus Deutschland. Ich wohne in Hamburg. I … große Stadt. Hamburg is a big city. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Hamburg is very beautiful. Hamburg ist sehr schön. Ich mag Hamburg sehr. I like Hamburg very much. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. I apartment. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. My apartment is small and beautiful. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. I have a bedroom. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. I living room. Ich habe ein Wohnzimmer. Ich habe eine Küche. I have a kitchen. Ich habe eine … Ich habe auch ein Badezimmer. Meine Familie. My family. Meine Familie ist klein. My family small. Meine Familie ist klein. Ich habe einen Bruder. I have a brother. Ich habe einen Bruder. Er heißt Tim. His name Tim. Er heißt Tim. Tim ist 19 Jahre alt. Tim is 19 years old. Tim ist 19 Jahre alt. Er geht zur Schule. He goes to school. Er geht zur Schule. Ich habe auch eine Mutter und einen Vater. I also have a mother and a father. Ich habe auch eine Mutter und einen Vater. Meine Eltern wohnen in Hamburg. My parents live in Hamburg. Meine Eltern wohnen in Hamburg. Am Wochenende besuche ich … Wochenende besuche ich meine Eltern. Wir essen zusammen. We eat together. Wir essen zusammen. Wir sprechen zusammen. We talk together. Wir sprechen zusammen. Mein Tag. My day. Ich arbeite in einem Cafée. Ich arbeite in einem Café. Jeden Morgen stehe ich um 7 Uhr auf. Morning up Jeden Morgen stehe ich um 7 Uhr auf, dann frühstücke ich. Then I have breakfast. Dann frühstücke ich. Ich fahre mit dem Bus zur Arbeit. I take the bus to work. Ich fahre mit dem Bus zur Arbeit. Im Café mache ich Kaffee. In the Cafe I make coffee. Im Cafe mache ich Kaffee. Ich helfe den Kunden. I help the customers. … work. Ich mag meine Arbeit. Nach der Arbeit gehe ich nach Hause. After work, I go home. Nach der Arbeit gehe ich nach Hause. Am Abend koche ich. In the evening, I cook. Am Abend koche ich. Manchmal höre ich Musik. Sometimes listen to music. Manchmal höre ich Musik. Manchmal sehe ich einen Film. Sometimes I watch a movie. Manchmal sehe ich einen Film. Meine Hobbys. My hobbies. Ich lese gerne Bücher. I like to read books. Ich lese gerne Bücher. Ich gehe gerne spazieren. I like to go for walks. Ich gehe gerne spazieren. Am Wochenende treffe ich meine Freunde. Wir gehen zusammen in ein Café. … den Park oder wir gehen in den Park. Ich bin glücklich. I am happy. Ich bin glücklich. Ich mag mein Leben in Hamburg. I like my life in Hamburg. Ich mag mein Leben in Hamburg. Listen to the story again slowly without the English voice translation. Hallo, ich heiße Lea. Ich bin 22 Jahre alt. Ich komme aus Deutschland. Ich wohne in Hamburg. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. Ich habe eine Küche. Ich habe auch ein Badezimmer. Meine … Er heißt Tim. Tim ist 19 Jahre alt. Er geht zur Schule. Ich habe auch eine Mutter und einen Vater. Meine Eltern wohnen in Hamburg. Am Wochenende besuche ich meine Eltern. Wir essen zusammen. Wir sprechen zusammen. Mein Tag. Ich arbeite in einem Kaffee. Jeden Morgen stehe ich um 7 Uhr auf. Dann frühstücke ich. Ich fahre mit dem Bus zur Arbeit. Im Kaffee mache ich Kaffee. Ich helfe den Kunden. Ich mag meine Arbeit. Nach der Arbeit gehe ich nach Hause. Am Abend koche ich. Manchmal höre ich Musik. Manchmal sehe ich einen Film. meine Hobbys. Ich lese gerne Bücher. Ich gehe gerne spazieren. … in ein Caffee oder wir gehen in den Park. Ich bin glücklich. Ich mag mein Leben in Hamburg. Listen to the story again at a normal pace with only German subtitles. Hallo, ich heiße Lea. Ich bin 22 Jahre alt. Ich komme aus Deutschland. Ich wohne in Hamburg. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. Ich habe eine Küche. Ich habe auch ein Badezimmer. Meine Familie. Meine Familie ist klein. Ich habe einen Bruder. Er heißt Tim. Tim ist … Mutter und einen Vater. Meine Eltern wohnen in Hamburg. Am Wochenende besuche ich meine Eltern. Wir essen zusammen. Wir sprechen zusammen. Mein Tag. Ich arbeite in einem Kaffee. Jeden Morgen stehe ich um 7 Uhr auf. Dann frühstücke ich. Ich fahre mit dem Bus zur Arbeit. Im Kaffee mache ich Kaffee. Ich helfe den Kunden. Ich mag meine Arbeit. Nach der Arbeit gehe ich nach Hause. Am Abend koche ich. Manchmal höre ich Musik. Manchmal sehe ich einen Film. meine Hobbys. Ich lese gerne Bücher, ich gehe gerne spazieren. Am Wochenende treffe ich meine Freunde. Wir gehen zusammen in ein Kaffee oder … Leben in Hamburg. Repeat the following simple sentences after the narrator to practice your pronunciation. Wohnen. Ich wohne in Hamburg. Das Schlafzimmer. Das Schlafzimmer ist klein. Das Wohnzimmer. Ich bin im Wohnzimmer. Die Küche. Die Küche ist schön. Das Badezimmer. Das Badezimmer ist klein. Besuchen. Ich besuche meine Eltern. Ich besuche meine Eltern. Aufstehen. Ich stehe um 7 Uhr auf. arbeiten. Ich arbeite in einem Kaffee. Ich arbeite in einem Kaffee machen. Ich mache Kaffee. Fahren. Ich fahre mit dem Bus. Ich fahre mit dem Bus. เฮ How did you score? Share your results in the comments.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5553
+  "src": "auto"
  },
  "Bc_TbVo--7c": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-07T04:48:38+00:00",
+  "checked": "2026-11-10T03:06:40+00:00",
   "title": "Learn German Naturally 🇩🇪 After Work in Germany, Supermarket and Cooking (Comprehensible Input)",
   "duration": 1245,
   "published": "20251101",
@@ -10751,81 +11000,10 @@
   "spoken_v": 2,
   "pace": 75.3,
   "rare": 0.1288,
+  "var": 0.7449,
   "speech_s": 1169.0,
   "tokens": 1467,
   "kw": [
-   [
-    "kürbis",
-    "Der Kürbis ist in Aktion, der Preis ist reduziert.",
-    208,
-    215,
-    3.47,
-    27
-   ],
-   [
-    "kürbiskernöl",
-    "Und guck mal, das Kürbiskernöl. Kürbiskernöl ist eine Spezialität aus meinem Heimatbundesland aus der Steiermark.",
-    1075,
-    1088,
-    2.01,
-    5
-   ],
-   [
-    "süsskartoffel",
-    "",
-    0,
-    0,
-    2.59,
-    5
-   ],
-   [
-    "karotten",
-    "Aber ich habe nicht nur Kürbis gekauft, sondern auch Karotten.",
-    399,
-    408,
-    3.42,
-    7
-   ],
-   [
-    "suppe",
-    "Und den gebe ich jetzt auch noch in die Suppe.",
-    950,
-    956,
-    3.99,
-    13
-   ],
-   [
-    "backblech",
-    "Jetzt gebe ich den Kürbis auf das Backblech und guck mal,",
-    539,
-    547,
-    2.72,
-    4
-   ],
-   [
-    "hokkaido",
-    "und einen Hokkaido Kürbis. Der Hokkaido Kürbis.",
-    332,
-    341,
-    2.72,
-    3
-   ],
-   [
-    "schäle",
-    "Ich schäle die Karotte. Und das hier ist die Schale,",
-    612,
-    618,
-    2.06,
-    2
-   ],
-   [
-    "guck",
-    "oder guck mal an einem Gewässer",
-    65,
-    76,
-    4.37,
-    11
-   ],
    [
     "gebe",
     "Jetzt gebe ich den Kürbis auf das Backblech und guck mal,",
@@ -10843,14 +11021,6 @@
     5
    ],
    [
-    "fertig",
-    "Ich bin also fertig mit der Arbeit für heute",
-    21,
-    27,
-    5.02,
-    5
-   ],
-   [
     "bisschen",
     "und anstatt einfach so auf Social Media zu scrollen, nutze ich die Zeit ein bisschen produktiver.",
     728,
@@ -10859,39 +11029,151 @@
     5
    ],
    [
-    "gern",
-    "Meine Freizeit verbringe ich gern draußen in der Natur.",
-    54,
-    62,
-    5.15,
+    "fertig",
+    "Ich bin also fertig mit der Arbeit für heute",
+    21,
+    27,
+    5.02,
+    5
+   ],
+   [
+    "guck",
+    "oder guck mal an einem Gewässer",
+    65,
+    76,
+    4.37,
+    11
+   ],
+   [
+    "nehme",
+    "Also nehme ich den Kürbis aus dem Ofen.",
+    857,
+    863,
+    4.71,
+    3
+   ],
+   [
+    "ungefähr",
+    "und bei 180° Grad Celsius röstet der Kürbis für ungefähr 40 Minuten.",
+    686,
+    701,
+    4.7,
+    3
+   ],
+   [
+    "kalt",
+    "Mir ist es schon kalt. Meine Finger sind kalt,",
+    133,
+    140,
+    4.56,
+    3
+   ],
+   [
+    "suppe",
+    "Und den gebe ich jetzt auch noch in die Suppe.",
+    950,
+    956,
+    3.99,
+    13
+   ],
+   [
+    "ofen",
+    "So, der Ofen ist vorgeheizt, also schiebe ich die zwei Backbleche in den Ofen",
+    675,
+    687,
+    4.12,
+    6
+   ],
+   [
+    "supermarkt",
+    "Mal gucken, was es Leckeres im Supermarkt gibt.",
+    148,
+    155,
+    4.17,
+    5
+   ],
+   [
+    "feierabend",
+    "Ich habe Feierabend. Ich bin also fertig mit der Arbeit für heute",
+    18,
+    27,
+    3.91,
     4
    ],
    [
-    "gerade",
-    "Ich komme gerade vom Supermarkt. Ich bin ganz schön hungrig.",
-    236,
-    247,
-    5.77,
+    "kürbis",
+    "Der Kürbis ist in Aktion, der Preis ist reduziert.",
+    208,
+    215,
+    3.47,
+    27
+   ],
+   [
+    "karotten",
+    "Aber ich habe nicht nur Kürbis gekauft, sondern auch Karotten.",
+    399,
+    408,
+    3.42,
+    7
+   ],
+   [
+    "kaugummi",
+    "Oh. Und spucke den Kaugummi aus.",
+    258,
+    265,
+    3.43,
     4
    ],
    [
-    "zuerst",
-    "Doch zuerst muss ich meinen Schal, meine Jacke, meine Stiefel ausziehen.",
-    246,
-    255,
-    4.97,
+    "schalte",
+    "Es wird dunkler, also schalte ich Takos Licht ein.",
+    160,
+    168,
+    3.59,
+    3
+   ],
+   [
+    "süsskartoffel",
+    "",
+    0,
+    0,
+    2.59,
+    5
+   ],
+   [
+    "kürbiskernöl",
+    "Und guck mal, das Kürbiskernöl. Kürbiskernöl ist eine Spezialität aus meinem Heimatbundesland aus der Steiermark.",
+    1075,
+    1088,
+    2.01,
+    5
+   ],
+   [
+    "backblech",
+    "Jetzt gebe ich den Kürbis auf das Backblech und guck mal,",
+    539,
+    547,
+    2.72,
+    4
+   ],
+   [
+    "hokkaido",
+    "und einen Hokkaido Kürbis. Der Hokkaido Kürbis.",
+    332,
+    341,
+    2.72,
     3
    ]
   ],
-  "tx": "Hallo. Ich habe Feierabend. Ich bin also fertig mit der Arbeit für heute und wir Tako und ich machen einen Feierabendspaziergang. Komm mit. Der Feierabend. Feierabend ist der restliche Tag nach der Arbeit, also wenn man mit der Arbeit für den Tag fertig ist. Und die Freizeit startet. Meine Freizeit verbringe ich gern draußen in der Natur. Am liebsten im Wald oder guck mal an einem Gewässer wie z.B. an einem See, der See. Abends lass ich gern den Tag Revue passieren. Ich denke also über meinen Tag nach was lief gut, was lief solala, was möchte ich morgen vielleicht besser machen? Nachdenken und der Gedanke, also ich denke an etwas Bestimmtes, der Gedanke. Wie verbringst du deinen Feierabend gern? Mir ist es schon kalt. Meine Finger sind kalt, meine Hände und meine Nase ist kalt. Ich muss jetzt noch fürs Abendessen einkaufen. Mal gucken, was es Leckeres im Supermarkt gibt. Kommst du mit? Super. Na, dann los geht's. Es wird dunkler, also schalte ich Takos Licht ein. Auf geht's. Wir fahren zum Supermarkt. Ich überquere den Zabrastreifen und gehe in den Supermarkt. Die Schiebetüren öffnen sich. Ich stehe in der Obst und Gemüseabteilung und guck mal, hier gibt es viele verschiedene Kürbisse. Der Kürbis ist in Aktion, der Preis ist reduziert. Die Selbstbedienungskasse. Vor mir steht eine Frau mit Einkaufswagen und ich halte den Einkaufskorb in der Hand. Ich komme gerade vom Supermarkt. Ich bin ganz schön hungrig. Doch zuerst muss ich meinen Schal, meine Jacke, meine Stiefel ausziehen. Ich hänge die Tasche zurück. Oh. Und spucke den Kaugummi aus. Guck mal, der Kaugummi, die Packung, die Kaugummipackung. Ich kaue Kaugummi und ich spucke den Kaugummi aus. Es ist schon dunkel hier, also schalte ich das Licht ein. Oh, die Einkaufstasche ist schwer. Und jetzt zeige ich dir, was ich ",
+  "tx": "Hallo. Ich habe Feierabend. Ich bin also fertig mit der Arbeit für heute und wir Tako und ich machen einen Feierabendspaziergang. Komm mit. Der Feierabend. Feierabend ist der restliche Tag nach der Arbeit, also wenn man mit der Arbeit für den Tag fertig ist. Und die Freizeit startet. Meine Freizeit verbringe ich gern draußen in der Natur. Am liebsten im Wald oder guck mal an einem Gewässer wie z.B. an einem See, der See. Abends lass ich gern den Tag Revue passieren. Ich denke also über meinen Tag nach was lief gut, was lief solala, was möchte ich morgen vielleicht besser machen? Nachdenken … wird dunkler, also schalte ich Takos Licht ein. Auf geht's. Wir fahren zum Supermarkt. Ich überquere den Zabrastreifen und gehe in den Supermarkt. Die Schiebetüren öffnen sich. Ich stehe in der Obst und Gemüseabteilung und guck mal, hier gibt es viele verschiedene Kürbisse. Der Kürbis ist in Aktion, der Preis ist reduziert. Die Selbstbedienungskasse. Vor mir steht eine Frau mit Einkaufswagen und ich halte den Einkaufskorb in der Hand. Ich komme gerade vom Supermarkt. Ich bin ganz schön hungrig. Doch zuerst muss ich meinen Schal, meine Jacke, meine Stiefel ausziehen. Ich hänge die Tasche … und das hier ist ein Muskatkürbis. Dann gab es einen Spaghettikürbis. Wie die Pasta Spaghetti, so heißt dieser Kürbis Spaghettikürbis und einen Hokkaido Kürbis. Der Hokkaido Kürbis. Und guck mal, ich habe hier drei 1 2 3 verschiedene Kürbisarten, den Muskatkürbis, Spaghettikürbis und Hokkaido-Kürbis. Tako liebt Kürbis, aber dieser Kürbis ist nicht für Tako, sondern für uns. Und guck mal, links, Mitte, rechts. Ich schreibe mit der rechten Hand und du? Der linke Kürbis ist orange. Der orange Kürbis, der rechte Kürbis ist grün. Der grüne Kürbis und der Kürbis in der Mitte ist gelb und … die Knolle, der Knoblauch und ein Stück Ingwer, der Ingwer. Und rate mal, was wir heute kochen werden, was wir heute zu Abend essen. Na, hast du es erraten? Wir werden heute eine Kürbissuppe kochen und für den ersten Schritt brauchen wir ein Schneidebrett, ein großes Messer und einen Schäler. Mir ist es gerade zu dunkel. Ich möchte mir nicht in die Finger schneiden, also brauche ich mehr Licht. Zuerst halbiere ich den Kürbis. So, ich habe den Kürbis halbiert und guck mal, das hier ist das Kürbisfleisch und in der Mitte siehst du die weißen Kürbiskererne. Wir rösten den Kürbis zuerst. Also … ist der letzte Kürbis an der Reihe. Weil auf diesem Blech kein Platz mehr ist, gebe ich den restlichen Kürbis auf ein zweites Backblech. Und nun sind die Karotten dran. die Karotte oder die Möhre. Und jetzt kommt der Schäler zum Einsatz. Ich schäle die Karotte. Und das hier ist die Schale, also die äußere Haut von Gemüse oder Obst. Die Schale. Ich schäle die Karotte von oben nach unten. Von oben nach unten. Ich schneide die Enden ab und gebe die Karotten auch aufs Backblech. Und jetzt besprühe ich den Kürbis und die Karotten mit Olivenöl. Ich würze das Gemüse mit Salz und Pfeffer. Würzen. … Also habe ich jetzt ungefähr 30 Minuten für mich und anstatt einfach so auf Social Media zu scrollen, nutze ich die Zeit ein bisschen produktiver. heute mit Busuu. Ungefähr vor 4 Jahren habe ich Busuu entdeckt und ich freue mich dir diese App heute zu zeigen. Busuu Sprachlernapp, die von Sprachexpertinnen entwickelt wurde. Was mir besonders gut gefällt, sind die abwechslungsreichen Lektionen. In der Regel startet man die Lektion mit Videos, wo es in erster Linie darum geht, das Video den Inhalt zu sehen, zu hören und zu verstehen. Genauso wie Sprache im Alltag wirklich klingt. Und das Beste … Art und Weise. Und gerade dieser Austausch mit Muttersprachlern, das regelmäßige Schreiben und Sprechen in der Zielsprache ist beim Sprachenlernen so wichtig. Es riecht hier in der Wohnung schon so lecker nach Kürbis. Mal gucken, ob denn der Kürbis schon fertig ist. Oh ja, das Kürbisfleisch ist schon weich. Also nehme ich den Kürbis aus dem Ofen. Ich schalte den Ofen aus. Ich öffne den Ofen und nehme ein Blech aus dem Ofen. Huiuii. Und guck mal, wie schön sich das Kürbisfleisch von der Schale löst. Ich gebe das Kürbisfleisch in den Kochtopf. Ich gebe die gerösteten Karotten in den Topf … den gebe ich jetzt auch noch in die Suppe. Du siehst, dass die Suppe bereits kocht. Also drehe ich die Temperatur etwas herunter. Ich gebe den Deckel nun auf den Kochtopf und lasse die Suppe bei geringer Temperatur noch ein bisschen köcheln. So, die Suppe ist nahezu fertig, also fast fertig. Also decke ich den Tisch. Möchtest du Wasser? Ich salze die Suppe nach. Die Suppe benötigt noch ein bisschen mehr Salz. nachsalzen und noch ein bisschen Muskatnuss. Das hier ist die ganze Nuss und diese reibe ich in die Suppe. Noch einmal abschmecken, also der Geschmack und ich schmecke etwas schmeckt … Kürbiskernöl ist eine Spezialität aus meinem Heimatbundesland aus der Steiermark. Immer wenn ich nach Hause fahre nach Graz in meine Heimatstadt oder Besuch kommt - aus Graz, bitte ich meine Besucher Kürbiskernöl mitzubringen, denn das heimische Kürbiskernöl ist das Beste. Ich gebe also ein bisschen Kürbiskernöl auf die Suppe und auch noch ein paar geröstete Kürbiskerne und getoastetes Sauerteigbrot. Bist du hungrig? Na, dann ab an den Tisch. Das Essen ist angerichtet. Komm, setz dich. Mahlzeit. Guten Appetit. Lass es dir schmecken. Die Suppe besteht nur aus wenigen Zutaten und schmeckt … Wenn du Busu testen möchtest, dann kannst du das jederzeit kostenlos machen oder auch 7 Tage lang Busuu Premium testen. Den Link dazu findest du in der Videobeschreibung. Die Teller sind leer, wir haben alles aufgegessen. Ich muss jetzt noch die Küche machen und deshalb verabschiede ich mich jetzt von dir. Ich hoffe, dass du in diesem Video wieder viele neue Wörter gelernt hast und vielleicht auch nicht nur Lust auf Kürbissuppe, sondern auch auf Busuu bekommen hast. Guck dir doch gern Busuu an. Ich wünsche dir viel Spaß und viel Erfolg beim Deutschlernen und bis zum nächsten Mal. Tschüss.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7733
+  "src": "cc"
  },
  "DSXJnFktVAw": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T04:49:12+00:00",
+  "checked": "2026-11-10T03:12:14+00:00",
   "title": "1 STUNDE Familienspiele | Willkommen im Bandit’s Cafe 🍽️💙 | Bluey – Deutsch Offizieller Kanal",
   "duration": 4184,
   "published": "20261106",
@@ -10899,73 +11181,10 @@
   "spoken_v": 2,
   "pace": 134.7,
   "rare": 0.0686,
+  "var": 0.8072,
   "speech_s": 3758.3,
   "tokens": 8436,
   "kw": [
-   [
-    "bingo",
-    "die Regenbogen? Na ja, Bingo. Mein Name ist Lauren.",
-    131,
-    139,
-    3.63,
-    57
-   ],
-   [
-    "dad",
-    "Nein, Dad, wir brauchen dich nicht als",
-    24,
-    29,
-    3.82,
-    28
-   ],
-   [
-    "judo",
-    "Judo, wir wissen jetzt, wie du Did dit",
-    2365,
-    2369,
-    3.4,
-    15
-   ],
-   [
-    "muffin",
-    "Hey, Muffin ist da. Mom, du weißt noch,",
-    368,
-    373,
-    2.97,
-    11
-   ],
-   [
-    "schneeglöckchen",
-    "Schneeglöckchen. Steh doch mal auf, Riesenaffe. Unsere",
-    1620,
-    1626,
-    2.56,
-    8
-   ],
-   [
-    "spielzimmer",
-    "Begleit uns bitte ins Spielzimmer. Ja, Meister,",
-    1511,
-    1519,
-    2.66,
-    7
-   ],
-   [
-    "ketchup",
-    "Hey, was hast du denn da für Ketchup,",
-    3864,
-    3867,
-    3.48,
-    11
-   ],
-   [
-    "bonjour",
-    "Bonjour. Hä?",
-    19,
-    22,
-    2.8,
-    6
-   ],
    [
     "okay",
     "Okay, na schön, du kannst hier arbeiten.",
@@ -10999,42 +11218,138 @@
     29
    ],
    [
-    "kinder",
-    "Kinder, Kinder, was habt ihr mit Dad",
-    754,
-    757,
-    5.6,
+    "wow",
+    "Stopp. Wow, 23 Sekunden. So schnell",
+    266,
+    270,
+    4.71,
+    13
+   ],
+   [
+    "tja",
+    "Besitzer ihn vergessen hat. Tja, na ja,",
+    335,
+    341,
+    4.55,
+    12
+   ],
+   [
+    "wach",
+    "übernachtet, dürft ihr etwas länger wach",
+    376,
+    380,
+    4.46,
+    9
+   ],
+   [
+    "machst",
+    "Sheila, was machst du denn da?",
+    546,
+    550,
+    4.77,
+    8
+   ],
+   [
+    "bingo",
+    "die Regenbogen? Na ja, Bingo. Mein Name ist Lauren.",
+    131,
+    139,
+    3.63,
+    57
+   ],
+   [
+    "dad",
+    "Nein, Dad, wir brauchen dich nicht als",
+    24,
+    29,
+    3.82,
     28
    ],
    [
-    "hey",
-    "dauern. Hey. Oh, entschuldigen Sie bitte.",
-    16,
-    21,
-    4.93,
-    28
+    "blue",
+    "Blue, vielleicht sollten wir lieber nur zur",
+    558,
+    563,
+    4.17,
+    11
    ],
    [
-    "hast",
-    "Okay, kleiner, du hast mit uns das Curry",
-    316,
-    320,
-    5.75,
-    26
+    "kissen",
+    "Ich will das verrückte Kissen sein.",
+    1902,
+    1906,
+    3.95,
+    11
    ],
    [
-    "bist",
-    "Schildkrötenjunge, du bist noch da und",
-    312,
-    317,
-    5.61,
-    26
+    "judo",
+    "Judo, wir wissen jetzt, wie du Did dit",
+    2365,
+    2369,
+    3.4,
+    15
+   ],
+   [
+    "ketchup",
+    "Hey, was hast du denn da für Ketchup,",
+    3864,
+    3867,
+    3.48,
+    11
+   ],
+   [
+    "zauberei",
+    "bleibt hier. Wer hat dir die Zauberei",
+    997,
+    1002,
+    3.27,
+    8
+   ],
+   [
+    "schätzchen",
+    "Nein, Schätzchen, du kannst ihn nicht",
+    302,
+    306,
+    3.21,
+    7
+   ],
+   [
+    "muffin",
+    "Hey, Muffin ist da. Mom, du weißt noch,",
+    368,
+    373,
+    2.97,
+    11
+   ],
+   [
+    "schneeglöckchen",
+    "Schneeglöckchen. Steh doch mal auf, Riesenaffe. Unsere",
+    1620,
+    1626,
+    2.56,
+    8
+   ],
+   [
+    "spielzimmer",
+    "Begleit uns bitte ins Spielzimmer. Ja, Meister,",
+    1511,
+    1519,
+    2.66,
+    7
+   ],
+   [
+    "bonjour",
+    "Bonjour. Hä?",
+    19,
+    22,
+    2.8,
+    6
    ]
   ],
-  "tx": "Hallo. Möchten Sie vielleicht gerne in meinen Kaffee kommen? Aber ja, sehr gerne. Bitte sehen Sie sich unsere Karte an und bestellen dann. H Plit. Sehr gern. Es wird auch gar nicht lange dauern. Hey. Oh, entschuldigen Sie bitte. Bonjour. Hä? Bonjour. Ich glaube, er will unser Koch sein. Nein, Dad, wir brauchen dich nicht als Koch. Du kannst wieder rausgehen und das Spiel mit den kleinen Figuren spielen. Okay, na schön, du kannst hier arbeiten. Super. Sie müssen jetzt ein Stück Pavlova aus dem Kühlschrank holen. Pavlova? Ja. Pavlova aus dem Kühlschrank. Pavlov? Nein, das ist ein Magnet. Gucken Sie in den Kühlschrank. Sehen Sie? Pavlova. Ja, Pavlova. Bring dem Kunden ein Stück. Bonjour. Bonjour, bonjour. Das tut mir sehr leid, lieber Kunde. Ihre Pavlova kommt sofort. Unser neuer Koch muss noch viel lernen. Bonjour Pavlova. Hey, das ist doch keine Plavovla. Ja, genau, das ist keine Pavlova. Ja, das sind doch Ednerna Damebohnen. Edn Damebohnen. Discotek. Ich habe darauf gezeigt, sehen Sie, Pavlova. Ah, Gardinor. Pavlova. Ja, Bohnen. Ja, das sind Bohnen. Aber wir wollen keine Bohnen, wir wollen Pavlova. Ist alles klar. Es tut mir so leid, lieber Kunde. Er ist neu. Ist schon okay. Pavlov, wo ist denn die Pavlova? Eccote. Pavlova, das ist nur ein Krümel. Oh, das ist zu wenig. Mon Passor gehen Sie zurück und holen Sie ein Stück in der Größe. Klar, so groß. M, welches Tattoo soll ich denn nehmen? Gefällt dir das Einhorn oder die Regenbogen? Na ja, Bingo. Mein Name ist Lauren. Na ja, Lauren. Ich finde, du solltest auf jeden Fall Da ist er. Also raus. Spielen wir eine Runde Lieferstuhl? Nein. Oh, bitte. Oh, mach nicht dein Bitte Gesicht. Na gut. Ja, Bingo, wir spielen Lieferstuhl. Dieses Bittegesicht macht mich echt fertig. Ich muss heute diese beiden Pakete verschicken, aber zuer",
+  "tx": "Hallo. Möchten Sie vielleicht gerne in meinen Kaffee kommen? Aber ja, sehr gerne. Bitte sehen Sie sich unsere Karte an und bestellen dann. H Plit. Sehr gern. Es wird auch gar nicht lange dauern. Hey. Oh, entschuldigen Sie bitte. Bonjour. Hä? Bonjour. Ich glaube, er will unser Koch sein. Nein, Dad, wir brauchen dich nicht als Koch. Du kannst wieder rausgehen und das Spiel mit den kleinen Figuren spielen. Okay, na schön, du kannst hier arbeiten. Super. Sie müssen jetzt ein Stück Pavlova aus dem Kühlschrank holen. Pavlova? Ja. Pavlova aus dem Kühlschrank. Pavlov? Nein, das ist ein Magnet. Gucken … Okay, ein Spiel, dann ins Bett. Klasse. Also, welches Spiel? Restaurant. So, mein Ehemann und Schiler, wie wäre es mit einem ganz entspannten Abendessen im Restaurant? Klar doch, Spatz. Guten Abend, willkommen in unserem Restaurant. Wir sind bekannt für unseren schnellen Service. Wie viel Personen sind Sie? Drei. Sehr gut. Ein Z. Und wo ist der dritte Gast? Mach doch auf. Sch. Mein Name ist BB Babu. BuBu Babu. Muss ganz dringend ins Bett. Alles gut? Sie kuschelt nur gern mit Pflanzen. Wow. Ich hasse Pflanzen. Doch zusammen. Wir sind soweit. Brum Ding. Nächster Halt, das Museum. Sheila, … na ja, dann schreibe ich die Adresse auf meine Hand. Schwer. Oh, jetzt ist der Stift ganz schwer. Okay, die Straße heißt Nach Road. Was ist denn los, Bendit? Du hebst doch sonst auch jeden Löffel. Und was machst du denn da? Gar nichts. Ist einfach deine Fruchtkringel. Okay. Ham, ham, ham, das ist der beste Morgen aller Zeiten. Ham, ham, h, hier geht irgendwas komisches vor sich. Ach, was du nicht sagst. Es liegt an Bingo. Sie hat ein Zauberfederstab. Hab sie. Sie will uns davon abhalten, zu Chloes Party zu gehen. Schwer. Achtung. Uh, was ist denn hier los? Oh nein, ihr bleibt hier. Wer … sollten wir es einsammeln und in die Schubkarre packen? Das gehört uns doch gar nicht. Tja, weißt du, das ganze Essen im Kühlschrank, das gehört euch auch nicht. Aber wenn ihr es weiter essen wollt, macht euch lieber an die Arbeit. Er meinte Super ernst. Schubkarre. Mini Blui, du bist ganz schön laut. Ja, Mini Blue, wenn ich Aufgaben erledige, singe ich auch nicht. Normalerweise meckere ich und ich arbeite natürlich viel langsamer, als du es gerade tust. Pass auf. Oh, warum müssen wir denn das immer alles machen? Oh, es ist so heiß. Okay, wisst ihr was? Ich hätte jetzt gern zwei Bingos. … Mom lässt mich immer auf die Toilette gehen. Oh, okay. Die Luft ist rein. Okay, mach was du machen musst, aber bitte mach es schnell. Ja, Boss. Und es ist nur Pipi gestattet. Klar, ich bleibe hier stehen. Bingo, du passt draußen auf. Okay. Ah, ist das schön. Halt bitte weiter ausschau nach Mom. Für ein Knuti würde sie glaube ich alles tun. Ich hätte eher nichts dagegen. Bist du jetzt langsam mal fertig? Ja, gleich. Ah, so ein Mist. Was ist passiert? Gar nichts. Wieso hüpfst du? Hab mir auf den Fuß gepieselt. Ah, warum hast du die auf den Fuß gepieselt? Ich habe nicht richtig aufgepasst. … und hole euch zurück. Halt, stopp. Ich dachte, dass du hier eigentlich aufräumen wolltest. Dad, stimmt es, dass du morgen mit einem Flugzeug wegfliegst? Oh ja, so ist es. Und wie lange wirst du dann weg sein? Nur sechs Wochen. Wie lang sind sechs Wochen? Das sind sechs Wochenenden. Oh, das ist eine Ewigkeit. In dem Moment wurde die wahre Herausforderung dieser Mission enthüllt. Wir müssen jetzt nach Hause gehen, Bingo. Das geht nicht. Ich will nicht noch mal an der Elster vorbei und ich will nicht, dass du wegfliegst. Tut mir leid, Spatz. Ich will auch nicht weg, aber ich muss leider. … Nein, nicht mehr. Das ist jetzt sein Zimmer. Wir sehen uns. Das ist ungeheuerlich. Ich mache es an der Taille enger. Hey, das ist Chucky Chips Anzug. Ja, genau. Und voll ein Glitzerhunds Hut. Hey, er wollte alles haben. Aber du kannst ihm die Sachen nicht geben, nur weil er sagt, dass er sie haben will. Hört mal, ich bin nur der Butler. Wenn ihr ein Problem habt, wendet euch an den Affen. Oh, na, das werde ich. Hör zu, Kumpel. Für einen gewissen jemand hier ist es an der Zeit, endlich woanders zu wohnen. Ich meinte doch nicht uns. Das war hart, aber auch fair. Bist du nicht ein bisschen zu … wir mit dem Stumpf hier fertig sind. Okay. Okay. Weil danach kommen wir und dann ist der da dran. Ja. Also ist bei dir angekommen, dass wir nachher kommen werden und dann auch den Baumstumpf da wegmachen werden? Ja, ist doch ganz klar, denn es heißt Stumpf weg und das ist ein Stumpf. Ja, klar, Stumpf weg. Okay, dann können wir endlich eröffnen. Hurra. Ach, das ist ganz wunderhübsch. Vielen Dank, ihr Lieben. Ich sag doch, der Laden ist genau der Richtige. Kommt bald wieder. Wir brauchen noch viel mehr Kunden. Dad, kannst du mal kurz unser Kunde sein? Nee, st Oh, du hast ihn gleich los. Du … und einer fiel raus. Es waren drei im Bett und der kleine Hund sagt: \"Rutsch drüber, rutsch drüber.\" Also rutschen sie rüber und einer fiel raus. Entschuldigen Sie mich bitte für einen Augenblick, Nachbar. Es ist an der Zeit dem ein Ende zu setzen. Ein für alle mal. Wie wollen Sie das tun? Ich werde einfach ganz freundlich fragen. Entschuldigen Sie bitte. Nachbar. Sie haben mein Dach zerstört. Also wäre es sehr schön, wenn Sie ein guter Nachbar sind und etwas für mich tun. Was denn? Bitte reparieren Sie es. Nein, wird nicht passieren. Meine Liebe. Reparieren Sie es. Äh, okay. Ich glaube, … Nein, ich habe acht Kinder. Warte. Nein. Neun. Das wusste ich ja gar nicht. Wow. Du musst dich ja ziemlich gut auskennen. Ja, schon. Und du musst eine Sache unbedingt wissen. Was? Du machst das ganz toll. Sind das Freudentränen? M Ja, Freudentränen, Schätzchen. Ab diesem Tag habe ich mein eigenes Wettrennen gemacht. Wow. Wow. Ja, Blum gewinnt. Gut. gemacht, Judo. Du kleines schlaues Kind. Und hat Blue denn jemals laufen gelernt? Ja, Schätzchen, es war in der Küche. Warum wollte ich denn in der Küche loslaufen? Ich habe keine Ahnung, Schätzchen. Vielleicht wolltest du irgendwo unbedingt hin.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7808
+  "src": "auto"
  },
  "19XaJms_ov8": {
   "channel": "German Stories for Beginners",
@@ -16806,7 +17121,7 @@
  "3AoQtYGLeiQ": {
   "channel": "Deutsch für Euch",
   "lang": "de",
-  "checked": "2026-11-09T02:45:42+00:00",
+  "checked": "2026-11-10T02:15:31+00:00",
   "title": "3 Mistakes that Make You Sound More German | Real German || Deutsch Für Euch 137",
   "duration": 771,
   "published": "20211125",
@@ -16939,7 +17254,8 @@
     2
    ]
   ],
-  "tx": "wir probieren heute etwas ausreißer ich mische heute deutsch und englisch mixing german engagement ab ja also fehler die man machen sollte ich meine übrigens nicht man muss mal einen fehler gemacht haben um dann besser zu werden battle of the world ich meine tatsächlich fehler die man in der sprache im alltag benutzt bevor ich aber anfang disclaimer alles wovon ich heute rede ist umgangssprache anders gesagt das gehört nicht zum guten ton sprache ist wichtig sprache können wir dann jetzt mal mit dem video anfang warum sitzt du eigentlich auf dem boden keine ahnung gehabt geschrieben wer also die erste frage wo mein gott bist du okay ich hab nur gerade ein paar sekunden in die zukunft gesehen und gehört was du gesagt hast bist du geht das ist doch kein deutsch okay das ist klar bist du okay ist eine wörtliche übersetzung der amerikanischen phrase übrigens eigentlich klingt das auch auf englisch total komisch das gleiche gilt übrigens für die deutsche version bist du in ordnung die richtige deutsche version korrekt ist alles in ordnung bei dir ist alles in ordnung hier bist du okay nur die person usa kontrolliert und denker reviews bald bei dem bio pharm pippo du judith nollmeyer dies ja ja ja ja okay okay aber findest du mich trotzdem dass das total dämlich klingt nicht wirklich ein was nicht wirklich ist auch kein deutsch stimmt ja das wird jetzt auch einige deutsche überraschende surprise vier james whale watching tour nicht wirklich wir sind ja nicht wirklich kommt auch von noordwijk das im englischen sehr viel benutzt wird germain nämlich wirklich und tatsächlich eigentlich und wahrhaftig wirklichkeit wahrhaftig wahrhaftig das heißt am besten würde man nord bieri mit nicht tatsächlich übersetzen das sagt aber niemand und tatsächlich ändern fragt nicht wirklich ist ju",
+  "tx": "wir probieren heute etwas ausreißer ich mische heute deutsch und englisch mixing german engagement ab ja also fehler die man machen sollte ich meine übrigens nicht man muss mal einen fehler gemacht haben um dann besser zu werden battle of the world ich meine tatsächlich fehler die man in der sprache im alltag benutzt bevor ich aber anfang disclaimer alles wovon ich heute rede ist umgangssprache anders gesagt das gehört nicht zum guten ton sprache ist wichtig sprache können wir dann jetzt mal mit dem video anfang warum sitzt du eigentlich auf dem boden keine ahnung gehabt geschrieben wer also die erste frage wo mein gott bist du okay ich hab nur gerade ein paar sekunden in die zukunft gesehen und gehört was du gesagt hast bist du geht das ist doch kein deutsch okay das ist klar bist du okay ist eine wörtliche übersetzung der amerikanischen phrase übrigens eigentlich klingt das auch auf englisch total komisch das gleiche gilt übrigens für die deutsche version bist du in ordnung die richtige deutsche version korrekt ist alles in ordnung bei dir ist alles in ordnung hier bist du okay nur die person usa kontrolliert und denker reviews bald bei dem bio pharm pippo du judith nollmeyer dies ja ja ja ja okay okay aber findest du mich trotzdem dass das total dämlich klingt nicht wirklich ein was nicht wirklich ist auch kein deutsch stimmt ja das wird jetzt auch einige deutsche überraschende surprise vier james whale watching tour nicht wirklich wir sind ja nicht wirklich kommt auch von noordwijk das im englischen sehr viel benutzt wird germain nämlich wirklich und tatsächlich eigentlich und wahrhaftig wirklichkeit wahrhaftig wahrhaftig das heißt am besten würde man nord bieri mit nicht tatsächlich übersetzen das sagt aber niemand und tatsächlich ändern fragt nicht wirklich ist just over time nicht wirklich sorry no samba die mainzer noch das trikot und samba linus benedict mccarthy nicht wirklich das ist aber kugel nicht wirklich und bevor du jetzt sagst und unwirklich das sagt man nämlich im deutschen manchmal gerne wenn jemand nicht wirklich sagt und fragt man und unwirklich und eigentlich ist das eigentlich wirklich sprachgebrauch nicht wirklich okay das macht schon sinn hast du selber gemacht was das macht sinn ist eine super englische phrase what makes sense ist mir enorm cent in gleiwitz von something makes sense in english in germany goodwin ergeben ergeben dieses wort in mathematik so zwei plus zwei ergibt vier große zwei plus zwei ist vier apps ergeben sms tv sind das ergibt sinn machen ich mache sinn da raus im englischen macht man also wirklich sinn man erschafft sinn man macht sinn you are creating ist konsens das geht im deutschen eigentlich nicht aber andererseits das macht dann fünf euro das macht dann bitte so machen tuesday ok dann danke für die korrektur dieses mal aber sag mal was hältst du eigentlich davon wenn leute check das aus in deutschen sagen oh gott das ist doch kein deutsch hey wie immer möchten wir uns am ende bei den leuten bedanken die deutsch für euch aufhören unterstützen das sind die ganzen leute die ihr hier auf der liste vorbeifahren wird übrigens weil diese leute unterstützen deutsche euch und sorgen dafür dass sie weiter videos machen kann und euch sagen können was stimmt im deutschen wenn ihr deutsche euch auch auf die türen unterstützen möchtet dann könnt ihr das machen in denen ihr auf den link klickt der ist auch in der beschreibung und da gibt es alle möglichen sachen könnt ihr euch anschauen hat katja da alles hin geschrieben wir freuen uns und vielen dank und besonderen dank an die leute die 10 dollar oder mehr menschen sehr cool achso übrigens die mütze hier falls ihr auch klugscheißer seid könnt ihr auf unserer webseite kaufen deutsch für euch punkt kommen ist auch in der beschreibung findet ihr im shop ach so ja und danke nochmal an den bruder für die unterstützung schaut bei denen vorbei die sind cool und für uns ist das auch gut die gebühr die gebühr und die gebühren bis zum nächsten mal so war's das jetzt ja ich glaube das war's",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -19279,6 +19595,107 @@
    ]
   ],
   "tx": "Es geht um die Angriffe auf Kühlsysteme in Supermärkten in Frankreich. Das war ja eine riesengeschichte. Haben wir auch bei Tageschau 24 sehr ausführlich drüber berichtet. Es gab ja dort ein Cyberangriff und dann war es so, dass die Kühlsysteme nicht mehr kühlten, sondern auf bis zu 50° erhitzt worden sind. Massenweise mussten Waren vernichtet werden. Und nun mein Frankreich außerest Barot. Hinter diesen Cyberangriffen steckt der Iran. Luca, wie kommen die darauf? Weil so das so laut des französischen Außenministers die Hinweise darauf ganz ganz klar sein. Also, es geht hier um die Cybereinheit Schahid KW, die den iranischen Revolutionsgaben Garden untersteht. Ähm und diese ähm ja, ich sag jetzt mal ähm Salop Hacker Gruppe ähm hat schon mehrere Angriffe zu verantworten gehabt und das Muster so das französische Außenministerium, das sei auch in diesem Fall die Hackerangriffe auf die Kühltruhen. Bernt, du hast es schon gesagt, die sein sehr ähnlich gewesen. So se persische IP-Adressen genutzt worden unter anderem und die Hinweise sind eben so klar, dass man eben ganz klar sagt, die iranischen Revolutionsgarten, die stecken hinter diesen ähm Hackerangriffen so Frankreich sollen auch Konsequenzen folgen für den Iran. Der iranische Botschafter ist einbestellt in das französischen Außenministerium und die Konsequenzen äh oder Sanktionen sollen auf EU-Ebene verübt werden. Äh welche genau es geben könnte. Ähm, das wird wahrscheinlich noch abgesprochen, das steht noch aus. So, jetzt gab's ja nicht nur die Angriffe in Frankreich, sondern wir haben ähnliche Vorfälle in den USA zu verzeichnen gehabt. In Europa, ganz Europa gab es solche Vorfälle, vereinzelt sogar in Deutschland. Äh, wie fallen denn jetzt die Reaktionen darauf äh was Frankreich dort jetzt erstmal Richtung Iran vorgebracht hat? Mhm. Ja, also es ist so, dass ich z.B. die USA z.B. jetzt aber auch andere europäische Länder, in denen genau das ja auch passiert ist, noch nicht so weit vorgewagt haben. Ähm wie eben Frankreich. Also das US-Verteidigungsministerium hat gesagt, man beteiligt d beteiligt sich nicht an Spekulationen und ähm auch ja vom deutschen Verteidigungs oder Außenministerium gibt es noch keine Stellungnahme dazu. Aber die Vorfälle, Bernt, du hast es gesagt, auch hier noch mal in den Bildern belegt, die betreffen eben nicht nur Frankreich, sondern auch viele Supermärkte vor einigen Wochen eben in Deutschland, wo Kühlanlagen ähm durch diese Hacker vielleicht ähm im ja gegebenenfalls vielleicht die iranischen Hacker ähm so erhitzt wurden, dass ähm es zu Bremen gekommen ist teilweise, dass Lebensmittel, die ja normalerweise gekühlt werden sollen, so stark erhitzt wurden, dass massenhaft Lebensmittel eben vernichtet werden mussten. Ein Schaden in Millionenhöhe ist entstanden, aber genau positioniert hat sich Deutschland und auch die USA jetzt in diesem Fall noch nicht. So und jetzt stellt sich natürlich für uns Verbraucher natürlich die große Frage, warum hängen diese Kühlanlagen in Supermärkten überhaupt am Netz und vor allen Dingen an einem Netz? Man könnte ja sich vorstellen, okay, wenn ein Supermarkt und dann der nächste hat auch wieder ein Netz, aber dass die alle zusammenhängen, das ist ja schon ein bisschen merkwürdig und wie wir ja auch sehen, fehleranfällig. Es ist fehleranfällig, es dient aber eigentlich einem guten Zweck und zwar der Lebensmittelverschwendung, also genau dem entgegenzutreten. Also das Kühltruhen ähm verschiedenster Supermärkte an einem Netzing hat einfach den Grund, dass man genauso genau steuern kann, wie viele Bestände sind noch da, wann bestellt man nach und wie viel ist gegebenenfalls schon weg, damit die Lebensmittelverschwendung äh so gering wie möglich gehalten wird. Das Problem in diesem Fall ist aber nur dieses System, ein System, du hast es gesagt, Bernt, das ist eben auch schon ja, ich sag mal in die Jahre gekommen, nicht auf dem neuesten Stand der ähm ja, Cyburity und äh genau das ist jetzt das Problem, dass genau dieses ähm System quasi ein probes Mittel ist für Hackerangriffe. Wir haben es gesehen hier in Deutschland, auch in Frankreich und ähm wenn wir die Spirale einmal weiterdrehen, also in Frankreich wurden auch Hackerangriffe auf ein Lager von Blutkonserven ähm unternommen. Das ist ja dann auch noch mal eine ganz andere Dimension. Auch hier muss gekühlt werden. Also diese Vorfälle führen einem vor Augen, wie anfällig und wie wichtig dann die kritische Infrastruktur auf dieser Cyber Eben Cyberebene auch ist. Ja, und ich sag's noch mal, wie anfällig das gegebenenfalls dann noch sein kann. Ja, ich finde es gut, dass du es eben noch mal andere Beispiele erwähnt hast, wie anfällig das ist. Hier muss ein Lebensmittel weggeworfen werden, aber wenn es im Gesundheitssystem passiert, dann hat das ganz andere Konsequenzen.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "JzSOhi2IAwo": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-10T02:24:22+00:00",
+  "title": "Wie sich Jüdinnen und Juden in Deutschland zu schützen versuchen",
+  "duration": 168,
+  "published": "20261109",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 162.3,
+  "rare": 0.0659,
+  "var": 0.8587,
+  "speech_s": 157.2,
+  "tokens": 425,
+  "kw": [
+   [
+    "kinder",
+    "Kinder singen in der Öffentlichkeit auch",
+    40,
+    45,
+    5.6,
+    3
+   ],
+   [
+    "schule",
+    "in der Schule erfahren, dass es so krass",
+    85,
+    90,
+    5.34,
+    3
+   ],
+   [
+    "offen",
+    "Gemeindemitglieder, wie offen sie Zeichen ihres Glaubens noch zeigen",
+    35,
+    39,
+    4.99,
+    3
+   ],
+   [
+    "erfahren",
+    "Beginn. Bei ihrem Besuch erfahren sie,",
+    26,
+    32,
+    4.9,
+    3
+   ],
+   [
+    "juden",
+    "Torchrein für Juden der wichtigste Ort",
+    0,
+    5,
+    4.71,
+    5
+   ],
+   [
+    "besucher",
+    "Kulturwochen können Besucher ihn aus nächster Nähe betrachten. Im Alltag ist",
+    4,
+    11,
+    4.63,
+    3
+   ],
+   [
+    "jüdischen",
+    "in der Synagoge. Bei den jüdischen",
+    2,
+    7,
+    4.35,
+    3
+   ],
+   [
+    "führung",
+    "Teilnehmenden der Führung gleich zu Beginn. Bei ihrem Besuch erfahren sie,",
+    25,
+    32,
+    4.73,
+    2
+   ],
+   [
+    "synagoge",
+    "in der Synagoge. Bei den jüdischen",
+    2,
+    7,
+    3.74,
+    2
+   ],
+   [
+    "gemeindemitglieder",
+    "Gemeindemitglieder, wie offen sie Zeichen ihres Glaubens noch zeigen",
+    35,
+    39,
+    2.98,
+    2
+   ]
+  ],
+  "tx": "Torchrein für Juden der wichtigste Ort in der Synagoge. Bei den jüdischen Kulturwochen können Besucher ihn aus nächster Nähe betrachten. Im Alltag ist das aus Sicherheitsgründen nicht so einfach möglich. Aus der Religionssicht her kann jeder zum Gottesdienst kommen. Es ist eher das Problem der Sicherheit. Die Stuttgarter Synagoge und das jüdische Gemeindezentrum sind stark gesichert. Das merken die rund 30 Teilnehmenden der Führung gleich zu Beginn. Bei ihrem Besuch erfahren sie, wie religiöses Leben aussieht, von Minora bis hin zum Gebetsschal. Doch im Moment fragen sich viele Gemeindemitglieder, wie offen sie Zeichen ihres Glaubens noch zeigen können. Ich trag offen den David Stern. Meine Kinder singen in der Öffentlichkeit auch mal Lieder, die sie aus der Kita kennen, also mit jüdischem Kontext. Es ist mir ganz wichtig, dass wir da kein Geheimnis drum machen, uns verstecken und uns irgendwie selber unwohl fühlen. Gleichzeitig wäre das auch gelogen, wenn ich sage, dass ich nicht drauf achte, ah, okay, ist da jetzt jemand lang gelaufen, der mich irgendwie seltsam angeschaut hat. Ihr Mann geht z.B. nicht ohne Mütze über der Kipper nach draußen. Nicht verstecken, aber vorsichtig bleiben. Bei der Führung erfahren die Besucher, für Juden ist das Alltag. Antissemitismus ist ein gesellschaftliches Problem, dass ich seit dem Terrorangen der Hamas im 7. Oktober verstärkt hat. Das spüren besonders junge Juden. Es gibt Kinder, die offen damit leben und gibt keine Probleme ab. Es gibt auch Kinder, die auch natürlich Antimizismus in der Schule erfahren, dass es so krass ist, dass sie Schule wechseln wollen, dass sie mehrere Wochen nicht in die Schule gegangen sind, weil es einfach nicht mehr ausgehalten haben. Gerade in sozialen Medien nimmt der Hass auf Juden zu, sagt Barbara Traub, die Vorsitzende der jüdischen Gemeinde in Würtenberg. Das Sicherheitsbedürfnis der Gemeindemitglieder größer geworden. Wir werden oft gefragt bei Veranstaltungen, gibt's da Polizeischutz? Vor allem, wenn wir hinausgehen, aber es ist für mich verständlich. Es ist die Realität, mit der wir leben und leben müssen. Die Kulturwochen sollen jüdisches Leben sichtbarer machen und Begegnung ermöglichen. Bei der Synagogenführung nutzen viele Besucher diese Chance. Sie schauen sich interessiert um, hören zu und stellen Fragen rund um das Judentum. Ich glaube, dass wir von den Jüen und Juden viel lernen können, also auch religiös und das ist halt einmalig, das hier so erklärt zu bekommen, ne? Die Atmosphäre hier, die hat mich schon stark beeindruckt. Ja, die jüdischen Kulturwochen wollen mit Vorurteilen aufräumen, Interesse für ihren Glauben wecken und zeigen, es gibt viele Gemeinsamkeiten mit anderen Religionen. Denn Antisemitismus ist oft auch eine Folge von Unwissenheit. เฮ",
   "gist": "w",
   "status": "ok",
   "src": "auto"
