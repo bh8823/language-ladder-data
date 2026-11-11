@@ -4580,7 +4580,7 @@
  "pCBurwMcaWo": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-03T15:52:31+00:00",
+  "checked": "2026-11-11T00:27:21+00:00",
   "title": "So benutzt du das Verb „lassen“ richtig! (Deutsch B2/C1)",
   "duration": 822,
   "published": "20260816",
@@ -4588,73 +4588,10 @@
   "spoken_v": 2,
   "pace": 140.4,
   "rare": 0.03,
+  "var": 0.7789,
   "speech_s": 782.7,
   "tokens": 1832,
   "kw": [
-   [
-    "hausaufgaben",
-    "- “Julia lässt ihre Hausaufgaben von ihrem Bruder machen.”",
-    80,
-    86,
-    3.97,
-    13
-   ],
-   [
-    "türsteher",
-    "- “Der Türsteher lässt uns nicht in den Club!”",
-    280,
-    284,
-    3.26,
-    6
-   ],
-   [
-    "infinitiv",
-    "Also: haben plus Infinitiv plus „lassen“. Nicht „gelassen“!",
-    141,
-    148,
-    2.74,
-    4
-   ],
-   [
-    "verb",
-    "sich machen.“ – „Ich habe mein Handy zu Hause gelassen.“ Fünf Sätze mit dem Verb „lassen“ – und",
-    6,
-    13,
-    3.72,
-    7
-   ],
-   [
-    "renovieren",
-    "- “Wir lassen unser Badezimmer nächstes Jahr renovieren.”",
-    39,
-    44,
-    3.4,
-    4
-   ],
-   [
-    "bedeutungen",
-    "und es hat so viele Bedeutungen und Verwendungen, dass man den Überblick verlieren kann. Deshalb",
-    18,
-    25,
-    3.53,
-    4
-   ],
-   [
-    "imperativ",
-    "So, als nächstes schauen wir uns an, was “lassen” im Imperativ für Bedeutungen haben kann.",
-    630,
-    638,
-    3.19,
-    3
-   ],
-   [
-    "verwendungen",
-    "und es hat so viele Bedeutungen und Verwendungen, dass man den Überblick verlieren kann. Deshalb",
-    18,
-    25,
-    2.97,
-    2
-   ],
    [
     "lassen",
     "sich machen.“ – „Ich habe mein Handy zu Hause gelassen.“ Fünf Sätze mit dem Verb „lassen“ – und",
@@ -4680,14 +4617,6 @@
     14
    ],
    [
-    "satz",
-    "Der erste Satz mit “von” klingt eindeutiger. Was ich damit meine, werdet ihr später merken,",
-    101,
-    108,
-    4.93,
-    13
-   ],
-   [
     "euch",
     "bringen wir heute Ordnung ins Chaos: Ich zeige euch alle wichtigen Bedeutungen von „lassen“,",
     24,
@@ -4696,34 +4625,122 @@
     13
    ],
    [
-    "bruder",
+    "julia",
     "- “Julia lässt ihre Hausaufgaben von ihrem Bruder machen.”",
     80,
     86,
-    5.01,
-    12
+    4.37,
+    10
    ],
    [
-    "gehen",
-    "„Ich lasse mir die Haare schneiden.“ – „Lass das!“ – „Lass uns gehen!“ – „Das lässt",
-    0,
-    7,
-    5.65,
-    11
+    "gelassen",
+    "sich machen.“ – „Ich habe mein Handy zu Hause gelassen.“ Fünf Sätze mit dem Verb „lassen“ – und",
+    6,
+    13,
+    4.58,
+    7
    ],
    [
-    "beispiel",
-    "Hier ist noch ein Beispiel: - “Julia lässt ihre Hausaufgaben von ihrem Bruder machen.”",
-    79,
+    "erlaubt",
+    "“Lassen” kann auch “erlauben” bedeuten, also: Julia erlaubt ihrem Bruder,",
+    198,
+    203,
+    4.73,
+    5
+   ],
+   [
+    "garten",
+    "- „Wir können die Hunde nicht in den Garten lassen, weil wir keinen Zaun haben.“",
+    312,
+    318,
+    4.73,
+    5
+   ],
+   [
+    "hausaufgaben",
+    "- “Julia lässt ihre Hausaufgaben von ihrem Bruder machen.”",
+    80,
     86,
-    5.35,
-    11
+    3.97,
+    13
+   ],
+   [
+    "verb",
+    "sich machen.“ – „Ich habe mein Handy zu Hause gelassen.“ Fünf Sätze mit dem Verb „lassen“ – und",
+    6,
+    13,
+    3.72,
+    7
+   ],
+   [
+    "koffer",
+    "- „Können wir unsere Koffer bis heute Nachmittag im Hotel lassen?“",
+    564,
+    569,
+    4.19,
+    5
+   ],
+   [
+    "nervös",
+    "- „Der Gedanke an das Vorstellungsgespräch lässt sie nervös werden.“",
+    431,
+    436,
+    4.06,
+    4
+   ],
+   [
+    "türsteher",
+    "- “Der Türsteher lässt uns nicht in den Club!”",
+    280,
+    284,
+    3.26,
+    6
+   ],
+   [
+    "bedeutungen",
+    "und es hat so viele Bedeutungen und Verwendungen, dass man den Überblick verlieren kann. Deshalb",
+    18,
+    25,
+    3.53,
+    4
+   ],
+   [
+    "renovieren",
+    "- “Wir lassen unser Badezimmer nächstes Jahr renovieren.”",
+    39,
+    44,
+    3.4,
+    4
+   ],
+   [
+    "färben",
+    "- „Dieser Stoff lässt sich leicht färben.“",
+    478,
+    483,
+    3.58,
+    3
+   ],
+   [
+    "infinitiv",
+    "Also: haben plus Infinitiv plus „lassen“. Nicht „gelassen“!",
+    141,
+    148,
+    2.74,
+    4
+   ],
+   [
+    "verwendungen",
+    "und es hat so viele Bedeutungen und Verwendungen, dass man den Überblick verlieren kann. Deshalb",
+    18,
+    25,
+    2.97,
+    2
    ]
   ],
-  "tx": "„Ich lasse mir die Haare schneiden.“ – „Lass das!“ – „Lass uns gehen!“ – „Das lässt sich machen.“ – „Ich habe mein Handy zu Hause gelassen.“ Fünf Sätze mit dem Verb „lassen“ – und fünfmal bedeutet es etwas anderes. „Lassen“ gehört zu den häufigsten Verben im Deutschen, und es hat so viele Bedeutungen und Verwendungen, dass man den Überblick verlieren kann. Deshalb bringen wir heute Ordnung ins Chaos: Ich zeige euch alle wichtigen Bedeutungen von „lassen“, natürlich mit vielen Beispielen aus dem Alltag. Fangen wir mit einer Verwendung von “lassen” an, die ihr vielleicht schon im Deutschunterricht kennengelernt habt: - “Wir lassen unser Badezimmer nächstes Jahr renovieren.” Das bedeutet: Wir renovieren das Bad nicht selbst. Wir beauftragen eine andere Person, die das für uns macht. “Ich lasse etwas machen” bedeutet also: Ich organisiere, dass eine andere Person etwas für mich macht, damit ich es nicht selbst machen muss. Wenn wir sagen wollen, wer etwas für uns macht, haben wir zwei Möglichkeiten. Ich kann sagen: - “Wir lassen unser Badezimmer nächstes Jahr von der Firma Müller renovieren.” Oder: - “Wir lassen die Firma Müller nächstes Jahr unser Badezimmer renovieren.” Hier ist noch ein Beispiel: - “Julia lässt ihre Hausaufgaben von ihrem Bruder machen.” - Oder: “Julia lässt ihren Bruder ihre Hausaufgaben machen.” Also: Julia sagt zu ihrem Bruder, dass er ihre Hausaufgaben machen soll, und er macht das auch. Sie macht ihre Hausaufgaben nicht selbst. Der erste Satz mit “von” klingt eindeutiger. Was ich damit meine, werdet ihr später merken, wenn wir uns die anderen Bedeutungen von “lassen” anschauen. Hier ist noch ein Beispiel: - „Herr Schmidt lässt seine Hose enger nähen.“ Also: Herr Schmidt geht zum Schneider und gibt dem Schneider den Auftrag, die Hose enger zu nähen. ",
+  "tx": "„Ich lasse mir die Haare schneiden.“ – „Lass das!“ – „Lass uns gehen!“ – „Das lässt sich machen.“ – „Ich habe mein Handy zu Hause gelassen.“ Fünf Sätze mit dem Verb „lassen“ – und fünfmal bedeutet es etwas anderes. „Lassen“ gehört zu den häufigsten Verben im Deutschen, und es hat so viele Bedeutungen und Verwendungen, dass man den Überblick verlieren kann. Deshalb bringen wir heute Ordnung ins Chaos: Ich zeige euch alle wichtigen Bedeutungen von „lassen“, natürlich mit vielen Beispielen aus dem Alltag. Fangen wir mit einer Verwendung von “lassen” an, die ihr vielleicht schon im … - “Julia lässt ihre Hausaufgaben von ihrem Bruder machen.” - Oder: “Julia lässt ihren Bruder ihre Hausaufgaben machen.” Also: Julia sagt zu ihrem Bruder, dass er ihre Hausaufgaben machen soll, und er macht das auch. Sie macht ihre Hausaufgaben nicht selbst. Der erste Satz mit “von” klingt eindeutiger. Was ich damit meine, werdet ihr später merken, wenn wir uns die anderen Bedeutungen von “lassen” anschauen. Hier ist noch ein Beispiel: - „Herr Schmidt lässt seine Hose enger nähen.“ Also: Herr Schmidt geht zum Schneider und gibt dem Schneider den Auftrag, die Hose enger zu nähen. Herr … ihren Kindern, bis 20 Uhr draußen zu spielen. Ich möchte noch einmal über einen Satz sprechen, den ich euch gerade schon gezeigt habe: - “Julia lässt ihren Bruder ihre Hausaufgaben machen.” Ich habe gesagt, dass dieser Satz bedeutet, dass Julia zu ihrem Bruder gesagt hat, dass er die Hausaufgaben für sie machen soll. Man kann diesen Satz aber auch anders verstehen. “Lassen” kann auch “erlauben” bedeuten, also: Julia erlaubt ihrem Bruder, dass er ihre Hausaufgaben macht. Sie hindert ihn nicht daran. Wenn man sich diesen Satz für sich allein, ohne Zusammenhang, anschaut, ist die … geben. Okay, zurück zur Bedeutung “jemandem etwas erlauben”. Hier ist noch ein Beispiel: - “Mein Opa lässt niemanden seine Briefmarkensammlung anfassen.” Er erlaubt es nicht. Niemand darf seine Briefmarken anfassen. Oft geht es auch darum, dass man jemandem erlaubt, irgendwohin zu gehen. Hier gibt es ein sehr interessantes Detail. Schaut euch mal diesen Satz an: - “Der Türsteher lässt uns nicht in den Club!” Der Türsteher erlaubt uns nicht, in den Club zu gehen. Wir dürfen nicht reingehen. Fällt euch in diesem Satz etwas auf? Wir haben hier kein zweites Verb! Wenn aus dem Zusammenhang … Türsteher hat uns nicht in den Club gelassen.” - Und: „Ich habe die Hunde in den Garten gelassen.“ Aber: - „Ich habe die Hunde in den Garten gehen lassen.“ Und: - “Der Türsteher hat uns nicht in den Club gehen lassen.” Als grundsätzliche Regel könnt ihr euch Folgendes merken: Wenn „lassen“ zusammen mit einem zweiten Verb im Infinitiv steht, dann heißt das Perfekt: haben plus Infinitiv plus „lassen“. Wenn „lassen“ allein steht, ohne zweites Verb, dann heißt das Perfekt ganz normal „gelassen“. Schauen wir uns noch einen Beispielsatz mit “lassen” an: - “Sie lässt warmes Wasser in die Badewanne … dass die Blumen schneller wachsen. Die Sonne sorgt dafür, dass die Blumen schneller wachsen. Und noch ein Beispiel: - „Der Gedanke an das Vorstellungsgespräch lässt sie nervös werden.“ Wenn sie an das Vorstellungsgespräch denkt, wird sie nervös. Dieser Gedanke bewirkt, dass sie nervös wird. Und wie lautet dieser Satz im Perfekt? So: - “Der Gedanke an das Vorstellungsgespräch hat sie nervös werden lassen.” Im Extra-Video für Mitglieder stelle ich euch diese Woche vier feste Ausdrücke mit “lassen” vor, die sehr nützlich im Alltag sind. Für Mitglieder gibt’s außerdem wie immer Übungen zu … ihn gut färben kann. Hier sind noch ein paar Beispiele: - „Das Problem lässt sich nicht so einfach lösen.“ Also: Das Problem kann nicht so einfach gelöst werden. Oder: - „Das Fenster lässt sich nicht öffnen.“ Das Fenster kann also nicht geöffnet werden. Diese Konstruktion ist ein Ersatz für das Passiv. Wenn ihr mehr darüber erfahren wollt, schaut euch gerne dieses Video von mir an. In den Sätzen, die wir uns bisher angeschaut haben, stand „lassen“ fast immer zusammen mit einem zweiten Verb. Aber „lassen“ kann auch ganz allein stehen, als normales Vollverb. Es steht dann zusammen mit einer … stehen. Dann bedeutet es, dass man etwas nicht verändert. Zum Beispiel: - “Wirst du die Wand im Wohnzimmer streichen?” – “Nein, ich lasse sie weiß.” Also: Die Wand ist jetzt weiß. Und das werde ich nicht ändern. Die Wand bleibt weiß. Statt eines Adjektivs benutzen wir auch oft das kleine Wort “so”: - „Soll ich am Design noch etwas ändern?“ – „Nein, lassen Sie es bitte so.” Also: Verändern Sie bitte nichts. Es soll so bleiben, wie es jetzt ist. So, als nächstes schauen wir uns an, was “lassen” im Imperativ für Bedeutungen haben kann. Stellt euch vor, ich fahre mit meiner Mutter in den … können wir einer anderen Person also anbieten, ihr zu helfen oder etwas für sie zu tun. Wir können mit “lassen” auch eine freundliche Aufforderung oder einen Vorschlag formulieren. Das kennt ihr bestimmt. Zum Beispiel: - “Was sollen wir heute Abend machen?” – “Lass uns ins Kino gehen!” Das bedeutet: Ich habe einen Vorschlag für heute Abend. Wir könnten ins Kino gehen. Oder wenn ihr im Büro seid und ein Kollege etwas mit euch besprechen möchte, ihr aber gerade keine Zeit habt, ist ein passender Satz: - “Lass uns später darüber reden. Ich habe jetzt einen Termin.” Damit sagt ihr freundlich: … und schärfer als “Hör auf!”. Man sagt das vor allem, wenn man mit Freunden oder der Familie spricht, nicht mit Fremden oder Kollegen. Noch ein Beispieldialog: - “Ich trinke abends immer Kaffee und kann dann nicht schlafen.” – “Ja, dann lass das doch!” Also: Hör auf, abends Kaffee zu trinken! Dann ist dein Problem gelöst und du kannst besser schlafen. Wenn euch dieses Video gefallen hat, schaut euch doch auch mein Video über 10 Verben mit “lassen” an. Darin geht’s zum Beispiel um ablassen, auflassen, hinlassen, einlassen und zerlassen. Vielen Dank fürs Zuschauen und bis nächste Woche!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7796
+  "src": "cc"
  },
  "dnmT-utNxDs": {
   "channel": "Comprehensible German",
@@ -7081,7 +7098,7 @@
  "VR4PW_DGBdw": {
   "channel": "Sloeful German",
   "lang": "de",
-  "checked": "2026-11-04T22:14:30+00:00",
+  "checked": "2026-11-11T00:28:11+00:00",
   "title": "Learn German with comprehensible input | Slow German Podcast (B1, B2)",
   "duration": 663,
   "published": "20240116",
@@ -7089,73 +7106,10 @@
   "spoken_v": 2,
   "pace": 132.4,
   "rare": 0.0351,
+  "var": 0.791,
   "speech_s": 658.3,
   "tokens": 1453,
   "kw": [
-   [
-    "podcast",
-    "Podcast machen und was die Idee dahinter",
-    11,
-    18,
-    4.07,
-    29
-   ],
-   [
-    "beginner",
-    "die aber keine Absoluten Beginner mehr",
-    41,
-    49,
-    2.84,
-    3
-   ],
-   [
-    "inspirationen",
-    "Inspirationen für diesen Podcast sprechen viele der Ideen die wir euch",
-    371,
-    380,
-    2.96,
-    3
-   ],
-   [
-    "nicki",
-    "und Nicki und unser Projekt heißt",
-    17,
-    25,
-    3.09,
-    3
-   ],
-   [
-    "input",
-    "Input braucht um eine Sprache wirklich",
-    424,
-    432,
-    3.5,
-    4
-   ],
-   [
-    "inner",
-    "Ugo von inner French inner French ist",
-    505,
-    513,
-    3.5,
-    4
-   ],
-   [
-    "french",
-    "Ugo von inner French inner French ist",
-    505,
-    513,
-    3.58,
-    4
-   ],
-   [
-    "ugo",
-    "Ugo von inner French inner French ist",
-    505,
-    513,
-    2.57,
-    2
-   ],
    [
     "sprechen",
     "schon fließend Deutsch sprechen können gemacht wurden und darum ist es unser",
@@ -7189,42 +7143,138 @@
     11
    ],
    [
-    "bisschen",
-    "bisschen erklären wieso wir diesen Podcast machen und was die Idee dahinter",
-    9,
-    18,
-    5.23,
-    10
+    "möchten",
+    "Podcasts in dieser ersten Folge möchten",
+    3,
+    10,
+    4.79,
+    6
    ],
    [
-    "themen",
-    "vielleicht was für Themen finden wir",
-    310,
-    317,
-    4.93,
-    9
+    "ideen",
+    "sprechen wir möchten euch drei Ideen",
+    145,
+    153,
+    4.78,
+    6
    ],
    [
-    "idee",
+    "wörter",
+    "und euch schwierige Wörter ab und zu",
+    180,
+    187,
+    4.35,
+    6
+   ],
+   [
+    "interessante",
+    "darum über interessante Dinge zu sprechen das heißt wir beschränken uns",
+    288,
+    296,
+    4.53,
+    5
+   ],
+   [
+    "podcast",
     "Podcast machen und was die Idee dahinter",
     11,
     18,
-    5.2,
-    9
+    4.07,
+    29
    ],
    [
-    "heisst",
-    "",
-    0,
-    0,
-    5.48,
-    8
+    "grammatik",
+    "hört Grammatik erklären wir nur ganz",
+    228,
+    235,
+    3.99,
+    5
+   ],
+   [
+    "steven",
+    "sollten wir Steven crushen als eine",
+    406,
+    412,
+    3.92,
+    5
+   ],
+   [
+    "schwierige",
+    "und euch schwierige Wörter ab und zu",
+    180,
+    187,
+    4.06,
+    4
+   ],
+   [
+    "french",
+    "Ugo von inner French inner French ist",
+    505,
+    513,
+    3.58,
+    4
+   ],
+   [
+    "inner",
+    "Ugo von inner French inner French ist",
+    505,
+    513,
+    3.5,
+    4
+   ],
+   [
+    "input",
+    "Input braucht um eine Sprache wirklich",
+    424,
+    432,
+    3.5,
+    4
+   ],
+   [
+    "nicki",
+    "und Nicki und unser Projekt heißt",
+    17,
+    25,
+    3.09,
+    3
+   ],
+   [
+    "inspirationen",
+    "Inspirationen für diesen Podcast sprechen viele der Ideen die wir euch",
+    371,
+    380,
+    2.96,
+    3
+   ],
+   [
+    "beginner",
+    "die aber keine Absoluten Beginner mehr",
+    41,
+    49,
+    2.84,
+    3
+   ],
+   [
+    "muttersprachler",
+    "Muttersprachler und Nicki hat Deutsch in",
+    26,
+    32,
+    2.82,
+    2
+   ],
+   [
+    "ugo",
+    "Ugo von inner French inner French ist",
+    505,
+    513,
+    2.57,
+    2
    ]
   ],
-  "tx": "willkommen zur ersten Episode unseres Podcasts in dieser ersten Folge möchten wir uns nur kurz vorstellen und euch ein bisschen erklären wieso wir diesen Podcast machen und was die Idee dahinter ist wir sind zu zweit wir heißen Dominik und Nicki und unser Projekt heißt slowful German oder einfach slowful ich bin Dominik ich bin deutscher Muttersprachler und Nicki hat Deutsch in Berlin gelernt ihre Muttersprache ist aber eigentlich Englisch unsere Idee mit diesem Podcast ist es einen Podcast zu machen für Menschen die Deutsch lernen die aber keine Absoluten Beginner mehr sind wenn man eine Sprache lernt und dann irgendwann kein Beginner mehr ist also die Sprache schon ein bisschen spricht und einige Dinge verstehen kann wird es nämlich oft irgendwann schwierig gutes Material zu zu finden also Filme Bücher oder Podcasts welches auf dem richtigen Niveau aber gleichzeitig auch interessant genug ist als ich z.B Französisch und Englisch gelernt habe fand ich das sehr frustrierend und Nicki hatte die gleiche Erfahrung als sie Deutsch gelernt hat viele Inhalte sind oft entweder viel zu einfach weil sie für Beginner gemacht wurden und dann dadurch extrem langweilig oder Sie sind viel zu schwierig weil sie für Muttersprachler oder Menschen die schon fließend Deutsch sprechen können gemacht wurden und darum ist es unser Ziel in diesem Podcast über Dinge zu sprechen die man gut verstehen kann wenn man schon etwas fortgeschritten ist aber noch nicht fließend Deutsch spricht das heißt wenn ihr schon ein bisschen Deutsch sprechen könnt und viel von dem versteht was ich sage aber aber vielleicht nicht alles vielleicht müsst ihr diese Podcast Folge auch zwei oder dreimal hören oder bei einigen Wörtern raten was sie bedeuten aber wenn das bei euch so ist dann habt ihr unserer Meinung nac",
+  "tx": "willkommen zur ersten Episode unseres Podcasts in dieser ersten Folge möchten wir uns nur kurz vorstellen und euch ein bisschen erklären wieso wir diesen Podcast machen und was die Idee dahinter ist wir sind zu zweit wir heißen Dominik und Nicki und unser Projekt heißt slowful German oder einfach slowful ich bin Dominik ich bin deutscher Muttersprachler und Nicki hat Deutsch in Berlin gelernt ihre Muttersprache ist aber eigentlich Englisch unsere Idee mit diesem Podcast ist es einen Podcast zu machen für Menschen die Deutsch lernen die aber keine Absoluten Beginner mehr sind wenn man eine … z.B Französisch und Englisch gelernt habe fand ich das sehr frustrierend und Nicki hatte die gleiche Erfahrung als sie Deutsch gelernt hat viele Inhalte sind oft entweder viel zu einfach weil sie für Beginner gemacht wurden und dann dadurch extrem langweilig oder Sie sind viel zu schwierig weil sie für Muttersprachler oder Menschen die schon fließend Deutsch sprechen können gemacht wurden und darum ist es unser Ziel in diesem Podcast über Dinge zu sprechen die man gut verstehen kann wenn man schon etwas fortgeschritten ist aber noch nicht fließend Deutsch spricht das heißt wenn ihr schon … für diesen Podcast jetzt möchten wir aber auch noch ein bisschen über die Philosophie hinter diesem Podcast sprechen wir möchten euch drei Ideen vorstellen die diesen Podcast ausmachen wenn man sagt dass etwas etwas ausmacht dann heißt das dass das das Besondere an etwas ist diese drei Ideen machen den Podcast also besonders diese drei Ideen machen den Podcast aus was sind diese drei Ideen die erste Idee ist dass wir in diesem Podcast ein bisschen langsamer sprechen als wir das normalerweise tun würden und euch schwierige Wörter ab und zu erklären der Ausdruck ab und zu z.B heißt so viel … zu sprechen damit ihr euch an die Sprache gewöhnt wir möchten dass Ihr ein Gefühl für die deutsche Sprache entwickelt und das geht nur wenn ihr sehr viel Deutsch lest und hört also Bücher auf Deutsch lest Filme auf Deutsch schaut oder z.B diesem Podcast hört Grammatik erklären wir nur ganz selten einerseits weil es schon viele gute Bücher und Materialien zu Grammatik gibt andererseits aber aber auch weil das Lernen von Grammatik euch nicht direkt dabei helfen wird echte Konversationen oder Filme zu verstehen Grammatik ist sehr nützlich gerade am Anfang und vor allem wenn du besser … etwas fokussiert und andere Sachen nicht macht man macht also nur eine Sache dann beschränkt man sich auf diese eine Sache und zuletzt als dritte Idee geht es in diesem Podcast auch darum über interessante Dinge zu sprechen das heißt wir beschränken uns in diesem Podcast darauf viel zu sprechen aber versuchen vor allem auch über interessante dem zu sprechen was interessant ist ist natürlich Geschmackssache was wir interessant finden findest du vielleicht ganz langweilig und umgekehrt und dann fragst du dich jetzt vielleicht was für Themen finden wir interessant wir persönlich also niiki und … Thema also z.B dieser Podcast dreht sich um interessante kulturelle Themen die drei Ideen sind also dass wir erstens etwas langsamer sprechen und schwierige Wörter erklären dass wir zweitens versuchen sehr sehr viel zu sprechen damit ihr euch an die Sprache gewöhnt und zuletzt also drittens dass wir über interessante Themen reden wir möchten jetzt noch ein bisschen über die Inspirationen für diesen Podcast sprechen viele der Ideen die wir euch gerade vorgestellt haben sind nämlich nicht vom Himmel gefallen sondern gehen zurück auf verschiedene Personen und Philosophien wenn etwas nicht vom … Inspiration erwähnen Steven crushen ist ein amerikanischer Linguist welcher sich mit dem Lernen von Fremdsprachen beschäftigt hat eine seiner bekanntest Thesen ist dass man eine Sprache sehr viel hören und lesen muss also sehr viel Input braucht um eine Sprache wirklich zu lernen und dass dieser Input auf einem Level sein sollte das ist deine weitere These von crushen der ein bisschen herausfordern ist ein bisschen schwierig aber trotzdem nicht zu schwierig man versteht also eigentlich sehr sehr viel kennt aber einige Wörter nicht oder vielleicht einige Strukturen nicht das nenn crushen I + … den ich sehr gut verstehe aber ein Wort nicht kenne dann könnte man sagen dass der Satz auf dem Level i+ 1 ist diese Idee war sehr einflussreich und wie Ihr sehen werdet sind viele von unseren Inspirationen selbst wieder von Steven crushchen inspiriert die zweite Person welche einen großen Einfluss auf die Idee für diesen Podcast hatte ist Ugo von inner French inner French ist ein Podcast und YouTube-Kanal für französischlerner und auch von Steven crushchen inspiriert ich glaube Ugo hat auf seinem YouTube-Kanal sogar ein Interview mit Steven crushchen gemacht inner French dreht sich auch … aber die Sprache auf einem Level ist welches ich sehr gut verstehen kann falls du also neben deutsch auch französisch lernst kann ich dir inner French sehr sehr sehr empfehlen wir könnten jetzt noch über viele andere Einflüsse sprechen über viele andere Inspirationen wie z.B Steve Kaufman oder ohberg aber ich glaube die generelle Idee von all diesen Einflüssen ist sehr ähnlich und ich glaube ich habe eigentlich jetzt erklärt worum es in diesem Podcast geht und was das Ziel von diesem Podcast ist wie geht es also jetzt weiter es wird von heute an jede Woche eine Podcast Episode geben und zu … eine Vokabelliste hinzufügen zuletzt haben wir noch eine Frage oder vielleicht eher eine Bitte und zwar würden wir gerne von euch wissen was für Themen euch interessieren gibt es etwas das Sie besonders interessant findet ein Thema welches ihr spannend findet oder über das wir in diesem Podcast sprechen sollten dann schreibt uns einfach eine E-Mail an hello@slowfall.com falls Ihr Feedback habt oder Kritik zu der Idee von diesem Podcast oder falls ich zu schnell zu langsam oder nicht deutlich genug spreche könnt ihr uns das auch gerne an die E-Mail schreiben wir freuen uns darauf und bis bald",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8204
+  "src": "auto"
  },
  "kkLK2nUOlJE": {
   "channel": "Comprehensible German",
@@ -7388,7 +7438,7 @@
  "NKLdZn-yazo": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-04T22:15:48+00:00",
+  "checked": "2026-11-11T00:38:35+00:00",
   "title": "Remote lesson 10: Wenn du einer Maus einen Keks gibst (Geschichte 77)",
   "duration": 922,
   "published": "20200505",
@@ -7396,9 +7446,42 @@
   "spoken_v": 2,
   "pace": 63.2,
   "rare": 0.0219,
+  "var": 0.5711,
   "speech_s": 822.5,
   "tokens": 866,
   "kw": [
+   [
+    "hast",
+    "fragt die maus hast du einen spiegel für",
+    275,
+    288,
+    5.75,
+    9
+   ],
+   [
+    "geschichte",
+    "hallo ich habe eine neue geschichte der",
+    0,
+    12,
+    5.45,
+    8
+   ],
+   [
+    "bild",
+    "dann malt die maus ein bild und wenn das",
+    778,
+    791,
+    5.4,
+    8
+   ],
+   [
+    "vielleicht",
+    "keks mit schokolade vielleicht ja schokolade das ist ein keks oder auch",
+    78,
+    97,
+    5.72,
+    5
+   ],
    [
     "maus",
     "wenn du einer maus einen keks gibst die",
@@ -7406,62 +7489,6 @@
     39,
     4.22,
     64
-   ],
-   [
-    "keks",
-    "wenn du einer maus einen keks gibst die",
-    23,
-    39,
-    3.65,
-    10
-   ],
-   [
-    "gibst",
-    "wenn du einer maus einen keks gibst die",
-    23,
-    39,
-    4.03,
-    11
-   ],
-   [
-    "strohhalm",
-    "die maus nach einem strohhalm fragen",
-    199,
-    209,
-    3.23,
-    4
-   ],
-   [
-    "besen",
-    "hast du einen besen für mich die maus",
-    490,
-    502,
-    3.49,
-    4
-   ],
-   [
-    "klebestreifen",
-    "sie fragt hast du klebe klebestreifen",
-    828,
-    840,
-    2.41,
-    2
-   ],
-   [
-    "schere",
-    "ich muss mit der schere ich muss meine haare schneiden und dann",
-    404,
-    433,
-    3.78,
-    5
-   ],
-   [
-    "kuckuck",
-    "wenn die maus das glas milch kuckuck",
-    235,
-    246,
-    3.11,
-    2
    ],
    [
     "milch",
@@ -7488,50 +7515,74 @@
     10
    ],
    [
-    "glas",
-    "gibst dann wird die maus nach einem glas",
-    109,
-    122,
-    4.61,
+    "gibst",
+    "wenn du einer maus einen keks gibst die",
+    23,
+    39,
+    4.03,
+    11
+   ],
+   [
+    "keks",
+    "wenn du einer maus einen keks gibst die",
+    23,
+    39,
+    3.65,
     10
    ],
    [
-    "sauber",
-    "einem besen denn die maus will sauber",
-    510,
-    517,
-    4.46,
-    9
+    "schere",
+    "ich muss mit der schere ich muss meine haare schneiden und dann",
+    404,
+    433,
+    3.78,
+    5
    ],
    [
-    "hast",
-    "fragt die maus hast du einen spiegel für",
-    275,
-    288,
-    5.75,
-    9
+    "bart",
+    "milchbart hat ja ein mann hat einen bart",
+    326,
+    334,
+    4.17,
+    4
    ],
    [
-    "spiegel",
-    "einen spiegel schauen wollen ja dann",
-    271,
-    281,
-    4.74,
-    8
+    "besen",
+    "hast du einen besen für mich die maus",
+    490,
+    502,
+    3.49,
+    4
    ],
    [
-    "geschichte",
-    "hallo ich habe eine neue geschichte der",
-    0,
-    12,
-    5.45,
-    8
+    "strohhalm",
+    "die maus nach einem strohhalm fragen",
+    199,
+    209,
+    3.23,
+    4
+   ],
+   [
+    "kuckuck",
+    "wenn die maus das glas milch kuckuck",
+    235,
+    246,
+    3.11,
+    2
+   ],
+   [
+    "klebestreifen",
+    "sie fragt hast du klebe klebestreifen",
+    828,
+    840,
+    2.41,
+    2
    ]
   ],
-  "tx": "hallo ich habe eine neue geschichte der name der geschichte ist wenn du einer maus einen keks gibst die geschichte heißt wenn du einer maus einen keks gibst eine maus ist das hier das ist die maus und ein keks ist wie ein plätzchen ein keks ist etwas zu essen und zum beispiel so so ein brauner keks mit schokolade vielleicht ja schokolade das ist ein keks oder auch ein plätzchen wir sagen auch plätzchen wählen der geschichte plätze wenn du einer maus einen keks gibst dann wird die maus nach einem glas milch fragen wenn du der maus das den keks gibst hier muss dann fragt dem aus nach einem glas milch milch ist weiß und milch kommt von einer kuh wenn du einer maus einen keks gibst dann wird die maus nach einem glas milch fragen wenn du der maus ein glas milch gibst dann wird die maus wahrscheinlich es ist nicht sicher ja oder nein aber wahrscheinlich wird die maus nach einem strohhalm fragen du gibst damals ein glas milch und die maus fragt kriege ich einen strohhalm ein strohhalm ist für die milch das ist ein strohhalm wenn die maus das glas milch kuckuck kuckuck auf getrunken hat wenn sie die milch auf getrunken hat es ist keine milch mehr da das glas ist leer keine milch dann wird die maus in einen spiegel schauen wollen ja dann fragt die maus hast du einen spiegel für mich ein spiel das ist ein spiegel das glas hier ist dann die maus und die maus schaut in den spiegel und in dem spiegel na klar sein spiegel ist die maus ja die maus wird in den spiegel schauen wollen sie will wollen denn die maus will sehen ob sie einen milchbart hat ja ein mann hat einen bart hier seien man ja und ein mann hat einen bart hier ist der bart und die maus denkt vielleicht habe ich von der milch einen milchbart einen weißen bart ja hier einen milchbart vielleicht ist die maus schwarz und di",
+  "tx": "hallo ich habe eine neue geschichte der name der geschichte ist wenn du einer maus einen keks gibst die geschichte heißt wenn du einer maus einen keks gibst eine maus ist das hier das ist die maus und ein keks ist wie ein plätzchen ein keks ist etwas zu essen und zum beispiel so so ein brauner keks mit schokolade vielleicht ja schokolade das ist ein keks oder auch ein plätzchen wir sagen auch plätzchen wählen der geschichte plätze wenn du einer maus einen keks gibst dann wird die maus nach einem glas milch fragen wenn du der maus das den keks gibst hier muss dann fragt dem aus nach einem glas milch milch ist weiß und milch kommt von einer kuh wenn du einer maus einen keks gibst dann wird die maus nach einem glas milch fragen wenn du der maus ein glas milch gibst dann wird die maus wahrscheinlich es ist nicht sicher ja oder nein aber wahrscheinlich wird die maus nach einem strohhalm fragen du gibst damals ein glas milch und die maus fragt kriege ich einen strohhalm ein strohhalm ist für die milch das ist ein strohhalm wenn die maus das glas milch kuckuck kuckuck auf getrunken hat wenn sie die milch auf getrunken hat es ist keine milch mehr da das glas ist leer keine milch dann wird die maus in einen spiegel schauen wollen ja dann fragt die maus hast du einen spiegel für mich ein spiel das ist ein spiegel das glas hier ist dann die maus und die maus schaut in den spiegel und in dem spiegel na klar sein spiegel ist die maus ja die maus wird in den spiegel schauen wollen sie will wollen denn die maus will sehen ob sie einen milchbart hat ja ein mann hat einen bart hier seien man ja und ein mann hat einen bart hier ist der bart und die maus denkt vielleicht habe ich von der milch einen milchbart einen weißen bart ja hier einen milchbart vielleicht ist die maus schwarz und die nase ist weiß von der milch wenn die maus in den spiegel schaut dann denkt die maus vielleicht ich muss meine haare schneiden die maus hat vielleicht lange haare achtung ist im aus und sagt oh je schaut mal meine haare ich muss mit der schere ich muss meine haare schneiden und dann fragt die maus dann fragt die maus hast du eine schere für mich das fragt die maus ja hinaus fragt hast du eine schere das ist die schere für mich wenn du der maus die schere gibst schneidet die maus die haare und jetzt sind die haare nicht auf dem kopf jetzt sind die haare auf dem boden viele viele viele habe die maus sieht die haare auf dem boden und fragt olé hast du einen besen für mich die maus fragt nach einem besen das ist ein besen die maus fragt nach einem besen denn die maus will sauber machen sie will sauber machen ja sauber alles ist schön sauber ja die haare sind weg vom fußboden und wenn die maus anfängt wenn sie damit anfängt wenn sie startet sauber zu machen dann will die maus plötzlich das ganze haus sauber machen sie macht nicht nur die haare weg sie macht das ganze haus von oben bis unten das ganze haus macht c sauber das haus ist so sauber wenn die maus das ganze haus sauber gemacht hat dann ist die maus mitte und wenn die maus müde ist müde maus wenn die maus müde ist die maus ist müde dann will die maus schlafen und wenn die maus schlafen will dann fragt die maus hast du ein bett für mich die maus möchte ein bett und dann gibst du der maus ein neues bett eine kiste mit einer decke eine schöne warme decke ja in der kiste ist eine warme decke so die hängt herunter ja dies darin eine warme decke wenn die maus in der kiste liegt sie schaut daraus wenn die maus in der kiste liegt dann will die maus eine geschichte hören sie will eine geschichte und wenn die maus eine geschichte hören will dann nimmst du ein buch und liest eine geschichte in dem buch sind ist text aber auch bilder das sind bilder ja und wenn die maus die bilder im buch sieht h dann will die maus mal also gibst du der maus einen pinsel und farben dann malt die maus ein bild und wenn das bild fertig ist jetzt das bild die maus malt eine maus gut wenn das bild fertig ist dann will die maus das bild an den kühlschrank hängen das bild soll an den kühlschrank im kühlschrank ist es ja dann will die maus das bild an den kühlschrank hängen und sie fragt hast du klebe klebestreifen für mich ja tesafilm zum beispiel hast du klebestreifen und wenn die maus das bild an den kühlschrank geklebt hat dann schaut die maus den kühlschrank an und denkt ich habe durst ich habe du hast du hast und dann will die maus wahrscheinlich ein glas milch und wenn du der maus ein glas milch gibst dann will sie sicher einen keks das ende",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5973
+  "src": "auto"
  },
  "w27_HIX1upU": {
   "channel": "Effortless German",
@@ -7720,7 +7771,7 @@
  "pVj_Ln_q988": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-04T22:16:30+00:00",
+  "checked": "2026-11-11T00:43:57+00:00",
   "title": "„der“, „die“ oder „das“? 🤯 So merkst du dir den Artikel!",
   "duration": 467,
   "published": "20250305",
@@ -7728,80 +7779,17 @@
   "spoken_v": 2,
   "pace": 75.2,
   "rare": 0.1239,
+  "var": 0.8141,
   "speech_s": 457.1,
   "tokens": 573,
   "kw": [
    [
-    "genus",
-    "Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der,",
-    17,
-    31,
-    3.29,
-    14
-   ],
-   [
-    "sächlich",
-    "Substantiv ein Geschlecht – männlich (der), weiblich (die) oder sächlich (das). Das Genus",
-    60,
-    75,
-    2.09,
-    3
-   ],
-   [
-    "grammatische",
-    "Heute geht es um ein Thema, das viele Deutschlerner herausfordert: das grammatische",
-    8,
-    18,
-    2.71,
-    2
-   ],
-   [
-    "bildliche",
-    "aber ein nützlicher Hinweis. Bildliche AssoziationenManche",
-    279,
-    291,
-    2.82,
-    2
-   ],
-   [
-    "substantiv",
-    "die, und das – und wie merkt man sich, welches Genus ein Substantiv hat? Ich gebe dir Tipps, die",
-    30,
-    43,
-    3.21,
-    2
-   ],
-   [
-    "nomen",
-    "dir helfen werden, das Geschlecht deutscher Nomen besser zu verstehen und zu merken. Los geht’s!",
-    42,
-    55,
-    3.33,
-    2
-   ],
-   [
-    "lampe",
-    "Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der,",
-    17,
-    31,
-    3.99,
-    4
-   ],
-   [
-    "abstrakte",
-    "Farben und Abstrakte BegriffeWörter für Farben und abstrakte Begriffe wie Gefühle sind oft sächlich,",
-    259,
-    272,
-    3.53,
-    2
-   ],
-   [
-    "geschlecht",
-    "Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der,",
-    17,
-    31,
-    4.41,
-    8
+    "deutschen",
+    "Warum gibt es im Deutschen Genus? Im Deutschen hat jedes",
+    54,
+    61,
+    5.67,
+    5
    ],
    [
     "oft",
@@ -7809,14 +7797,6 @@
     74,
     85,
     5.48,
-    5
-   ],
-   [
-    "deutschen",
-    "Warum gibt es im Deutschen Genus? Im Deutschen hat jedes",
-    54,
-    61,
-    5.67,
     5
    ],
    [
@@ -7836,34 +7816,130 @@
     4
    ],
    [
-    "helfen",
-    "dir helfen werden, das Geschlecht deutscher Nomen besser zu verstehen und zu merken. Los geht’s!",
-    42,
-    55,
-    5.18,
-    4
-   ],
-   [
-    "artikel",
-    "die wirklich helfen: Lerne Nomen immer mit dem Artikel!Wenn du",
-    124,
-    134,
-    5.24,
-    4
-   ],
-   [
-    "tisch",
+    "geschlecht",
     "Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der,",
     17,
     31,
-    4.83,
+    4.41,
+    8
+   ],
+   [
+    "erinnern",
+    "gelernt werden, „Tisch“ als der Tisch. Das hilft dir, dich an das richtige Genus zu erinnern.",
+    146,
+    159,
+    4.75,
+    2
+   ],
+   [
+    "leichter",
+    "das Geschlecht leichter zu erinnern. Genus-Übungen und Spiele",
+    310,
+    321,
+    4.66,
+    2
+   ],
+   [
+    "farben",
+    "Farben und Abstrakte BegriffeWörter für Farben und abstrakte Begriffe wie Gefühle sind oft sächlich,",
+    259,
+    272,
+    4.57,
+    2
+   ],
+   [
+    "lampe",
+    "Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der,",
+    17,
+    31,
+    3.99,
+    4
+   ],
+   [
+    "weiblich",
+    "Substantiv ein Geschlecht – männlich (der), weiblich (die) oder sächlich (das). Das Genus",
+    60,
+    75,
+    3.96,
     3
+   ],
+   [
+    "lerne",
+    "die wirklich helfen: Lerne Nomen immer mit dem Artikel!Wenn du",
+    124,
+    134,
+    4.07,
+    2
+   ],
+   [
+    "übungen",
+    "das Geschlecht leichter zu erinnern. Genus-Übungen und Spiele",
+    310,
+    321,
+    4.07,
+    2
+   ],
+   [
+    "genus",
+    "Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der,",
+    17,
+    31,
+    3.29,
+    14
+   ],
+   [
+    "abstrakte",
+    "Farben und Abstrakte BegriffeWörter für Farben und abstrakte Begriffe wie Gefühle sind oft sächlich,",
+    259,
+    272,
+    3.53,
+    2
+   ],
+   [
+    "nomen",
+    "dir helfen werden, das Geschlecht deutscher Nomen besser zu verstehen und zu merken. Los geht’s!",
+    42,
+    55,
+    3.33,
+    2
+   ],
+   [
+    "substantiv",
+    "die, und das – und wie merkt man sich, welches Genus ein Substantiv hat? Ich gebe dir Tipps, die",
+    30,
+    43,
+    3.21,
+    2
+   ],
+   [
+    "sächlich",
+    "Substantiv ein Geschlecht – männlich (der), weiblich (die) oder sächlich (das). Das Genus",
+    60,
+    75,
+    2.09,
+    3
+   ],
+   [
+    "bildliche",
+    "aber ein nützlicher Hinweis. Bildliche AssoziationenManche",
+    279,
+    291,
+    2.82,
+    2
+   ],
+   [
+    "grammatische",
+    "Heute geht es um ein Thema, das viele Deutschlerner herausfordert: das grammatische",
+    8,
+    18,
+    2.71,
+    2
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner herausfordert: das grammatische Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der, die, und das – und wie merkt man sich, welches Genus ein Substantiv hat? Ich gebe dir Tipps, die dir helfen werden, das Geschlecht deutscher Nomen besser zu verstehen und zu merken. Los geht’s! Warum gibt es im Deutschen Genus? Im Deutschen hat jedes Substantiv ein Geschlecht – männlich (der), weiblich (die) oder sächlich (das). Das Genus ist festgelegt und nicht veränderbar. Oft ergibt das Geschlecht keinen logischen Sinn. Zum Beispiel: die Lampe ist weiblich, obwohl es kein „weibliches“ Objekt ist. Viele fragen sich: Warum? Das liegt oft an historischen Entwicklungen, und manchmal am Wortstamm, doch für uns als Deutschlerner zählt vor allem, das Genus einfach zu lernen und zu behalten. Wie merkt man sich das Genus von Wörtern? Hier sind ein paar Strategien, die wirklich helfen: Lerne Nomen immer mit dem Artikel!Wenn du ein neues Wort lernst, lerne immer den bestimmten Artikel mit: „Lampe“ sollte immer als die Lampe gelernt werden, „Tisch“ als der Tisch. Das hilft dir, dich an das richtige Genus zu erinnern. Bestimmte Endungen geben Hinweise!Im Deutschen gibt es Wortendungen, die oft auf das Genus hinweisen. Hier ein paar Beispiele:Wörter auf -heit, -keit, -ung und -schaft sind fast immer weiblich. Zum Beispiel: die Freiheit, die Möglichkeit, die Zeitung.Wörter auf -er, -en und -ig sind oft männlich: der Lehrer, der Garten, der Honig.Wörter auf -chen und -lein sind fast immer sächlich, zum Beispiel das Mädchen, das Büchlein. Berufe und Rollen im Männlichen und WeiblichenIn vielen Fällen gibt es im Deutschen sowohl eine m",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner herausfordert: das grammatische Geschlecht, auch Genus genannt. Warum sagen wir die Lampe, aber der Tisch? Warum gibt es der, die, und das – und wie merkt man sich, welches Genus ein Substantiv hat? Ich gebe dir Tipps, die dir helfen werden, das Geschlecht deutscher Nomen besser zu verstehen und zu merken. Los geht’s! Warum gibt es im Deutschen Genus? Im Deutschen hat jedes Substantiv ein Geschlecht – männlich (der), weiblich (die) oder sächlich (das). Das Genus ist festgelegt und nicht veränderbar. Oft ergibt das Geschlecht keinen logischen Sinn. Zum Beispiel: die Lampe ist weiblich, obwohl es kein „weibliches“ Objekt ist. Viele fragen sich: Warum? Das liegt oft an historischen Entwicklungen, und manchmal am Wortstamm, doch für uns als Deutschlerner zählt vor allem, das Genus einfach zu lernen und zu behalten. Wie merkt man sich das Genus von Wörtern? Hier sind ein paar Strategien, die wirklich helfen: Lerne Nomen immer mit dem Artikel!Wenn du ein neues Wort lernst, lerne immer den bestimmten Artikel mit: „Lampe“ sollte immer als die Lampe gelernt werden, „Tisch“ als der Tisch. Das hilft dir, dich an das richtige Genus zu erinnern. Bestimmte Endungen geben Hinweise!Im Deutschen gibt es Wortendungen, die oft auf das Genus hinweisen. Hier ein paar Beispiele:Wörter auf -heit, -keit, -ung und -schaft sind fast immer weiblich. Zum Beispiel: die Freiheit, die Möglichkeit, die Zeitung.Wörter auf -er, -en und -ig sind oft männlich: der Lehrer, der Garten, der Honig.Wörter auf -chen und -lein sind fast immer sächlich, zum Beispiel das Mädchen, das Büchlein. Berufe und Rollen im Männlichen und WeiblichenIn vielen Fällen gibt es im Deutschen sowohl eine männliche als auch eine weibliche Form, zum Beispiel der Lehrer und die Lehrerin, der Arzt und die Ärztin. Dies hilft auch, das Geschlecht im Kontext von Personen besser zu verstehen. Farben und Abstrakte BegriffeWörter für Farben und abstrakte Begriffe wie Gefühle sind oft sächlich, zum Beispiel das Rot, das Glück, das Leben. Dies ist kein festes Gesetz, aber ein nützlicher Hinweis. Bildliche AssoziationenManche Menschen nutzen bildliche Assoziationen, um sich das Genus zu merken. Wenn du dir ein bestimmtes Bild zum Wort vorstellst und dabei den Artikel mit einbeziehst, kann das helfen, das Geschlecht leichter zu erinnern. Genus-Übungen und Spiele Um das Gelernte zu festigen, gibt es viele nützliche Spiele und Übungen, bei denen du das Genus gezielt trainieren kannst. Du kannst Apps verwenden, Karteikarten erstellen, oder ein Notizbuch führen, in dem du besonders schwierige Wörter notierst und regelmäßig wiederholst. Genus ist eine Übungssache Das Genus zu meistern, dauert – also keine Sorge, wenn es nicht sofort klappt. Das richtige Geschlecht zu nutzen, macht dein Deutsch flüssiger und klingt natürlicher, aber auch Muttersprachler machen hier Fehler, gerade bei seltenen Wörtern. Mit Geduld und Wiederholung wird es dir immer leichter fallen, und bald wird sich das Genus für viele Wörter ganz natürlich anfühlen. Zum Schluss noch ein Tipp: Je öfter du deutsche Texte liest und hörst, desto besser prägt sich das grammatische Geschlecht bei dir ein. Lies deutsche Bücher, schau Filme und achte auf die Artikel. Für tolle Bücher für Deutschlerner, siehe: AuthenticGermanLearning.com/books Und wenn du noch weiter üben und tief in die Feinheiten der deutschen Sprache eintauchen möchtest, dann schau in meine Deutschlern-Akademie! Da findest du viele Kurse, die dir helfen, deine Sprachkenntnisse zu perfektionieren. Besuche jetzt: AuthenticGermanLearning.com/join Bis zum nächsten Mal und viel Erfolg beim Lernen — tschüss!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7979
+  "src": "cc"
  },
  "HgR4qv0SOMA": {
   "channel": "tagesschau",
@@ -8016,7 +8092,7 @@
  "awscSvqsS9U": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-05T15:06:01+00:00",
+  "checked": "2026-11-11T00:30:54+00:00",
   "title": "Easy Beginner German - Comprehensible Input",
   "duration": 361,
   "published": "20220520",
@@ -8024,81 +8100,10 @@
   "spoken_v": 2,
   "pace": 73.4,
   "rare": 0.0607,
+  "var": 0.4955,
   "speech_s": 349.9,
   "tokens": 428,
   "kw": [
-   [
-    "ringfinger",
-    "das ist der ringfinger der ringfinger",
-    94,
-    101,
-    2.64,
-    9
-   ],
-   [
-    "mittelfinger",
-    "das ist der mittelfinger der mittelfinger",
-    115,
-    126,
-    3.31,
-    5
-   ],
-   [
-    "fasse",
-    "ich fasse meine hand an ich fasse den tisch an",
-    260,
-    270,
-    3.46,
-    5
-   ],
-   [
-    "zeigefinger",
-    "das ist der zeigefinger der zeigefinger",
-    138,
-    146,
-    3.52,
-    5
-   ],
-   [
-    "fingernagel",
-    "habe ich auch einen fingernagel der fingernagel",
-    65,
-    73,
-    2.7,
-    2
-   ],
-   [
-    "daumen",
-    "das ist der daumen der daumen",
-    162,
-    170,
-    4.2,
-    6
-   ],
-   [
-    "anfassen",
-    "anfassen ich fasse meine hand an",
-    258,
-    270,
-    3.81,
-    3
-   ],
-   [
-    "linker",
-    "ist das mein linker ringfinger oder mein",
-    192,
-    200,
-    4.02,
-    4
-   ],
-   [
-    "finger",
-    "ich habe zehn finger die finger",
-    34,
-    51,
-    4.66,
-    14
-   ],
    [
     "hand",
     "ich habe eine rechte hand und",
@@ -8114,22 +8119,6 @@
     246,
     5.52,
     8
-   ],
-   [
-    "händen",
-    "mit meinen händen kann ich viele dinge",
-    239,
-    246,
-    4.57,
-    8
-   ],
-   [
-    "ring",
-    "trage einen ring am ringfinger",
-    101,
-    108,
-    4.54,
-    6
    ],
    [
     "mache",
@@ -8148,18 +8137,114 @@
     5
    ],
    [
-    "dinge",
-    "kann man auf dinge zeigen zeigen",
-    145,
-    156,
-    5.22,
+    "finger",
+    "ich habe zehn finger die finger",
+    34,
+    51,
+    4.66,
+    14
+   ],
+   [
+    "händen",
+    "mit meinen händen kann ich viele dinge",
+    239,
+    246,
+    4.57,
+    8
+   ],
+   [
+    "ring",
+    "trage einen ring am ringfinger",
+    101,
+    108,
+    4.54,
+    6
+   ],
+   [
+    "daumen",
+    "das ist der daumen der daumen",
+    162,
+    170,
+    4.2,
+    6
+   ],
+   [
+    "faust",
+    "ich kann mit meinen händen eine faust",
+    285,
+    292,
+    4.19,
+    4
+   ],
+   [
+    "linker",
+    "ist das mein linker ringfinger oder mein",
+    192,
+    200,
+    4.02,
+    4
+   ],
+   [
+    "rechter",
+    "rechter ringfinger das ist mein linker ringfinger",
+    196,
+    209,
+    4.04,
+    3
+   ],
+   [
+    "anfassen",
+    "anfassen ich fasse meine hand an",
+    258,
+    270,
+    3.81,
+    3
+   ],
+   [
+    "zeigefinger",
+    "das ist der zeigefinger der zeigefinger",
+    138,
+    146,
+    3.52,
     5
+   ],
+   [
+    "fasse",
+    "ich fasse meine hand an ich fasse den tisch an",
+    260,
+    270,
+    3.46,
+    5
+   ],
+   [
+    "mittelfinger",
+    "das ist der mittelfinger der mittelfinger",
+    115,
+    126,
+    3.31,
+    5
+   ],
+   [
+    "ringfinger",
+    "das ist der ringfinger der ringfinger",
+    94,
+    101,
+    2.64,
+    9
+   ],
+   [
+    "fingernagel",
+    "habe ich auch einen fingernagel der fingernagel",
+    65,
+    73,
+    2.7,
+    2
    ]
   ],
-  "tx": "daniela herzlich willkommen bei peheims auf diesem kanal lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an das sind meine hände die hände ich habe eine rechte hand und eine linke hand ich habe zehn finger die finger 1 2 3 4 5 6 7 8 9 10 finger meine linke hand hat fünf finger und meine rechte hand hat auch fünf finger an jedem finger habe ich auch einen fingernagel der fingernagel das ist der kleine finger der kleine finger der kleine finger ist klein er ist nicht groß er ist nicht groß der kleine finger ist klein das ist der ringfinger der ringfinger ich trage einen ring am ringfinger der ring der ringfinger das ist der mittelfinger der mittelfinger der mittelfinger ist in der mitte die mitte auf dieser seite sind zwei finger und auf dieser seite sind auch zwei finger der mittelfinger ist in der mitte das ist der zeigefinger der zeigefinger mit dem zeigefinger kann man auf dinge zeigen zeigen ich zeige auf den ring ich zeige auf meine hand ich zeige auf den tisch zeigen das ist der daumen der daumen wenn dir dieses video beim deutschlernen hilft kannst du mir gerne einen daumen nach oben geben einen daumen nach oben geben wo ist meine rechte hand hier ist meine rechte hand wo ist meine linke hand hier ist meine linke hand ist das mein linker ringfinger oder mein rechter ringfinger das ist mein linker ringfinger wo ist mein rechter ringfinger hier ist mein rechter ringfinger ist das mein zeigefinger oder mein mittelfinger das ist mein zeigefinger ist das mein linker daumen ja das ist mein linker daumen wo sind meine kleinen finger hier sind meine kleinen finger mit meinen händen kann ich viele dinge machen die dinge ich kann mit meinen händen auf dinge ze",
+  "tx": "daniela herzlich willkommen bei peheims auf diesem kanal lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an das sind meine hände die hände ich habe eine rechte hand und eine linke hand ich habe zehn finger die finger 1 2 3 4 5 6 7 8 9 10 finger meine linke hand hat fünf finger und meine rechte hand hat auch fünf finger an jedem finger habe ich auch einen fingernagel der fingernagel das ist der kleine finger der kleine finger der kleine finger ist klein er ist nicht groß er ist nicht groß der kleine finger ist klein das ist der ringfinger der ringfinger ich trage einen ring am ringfinger der ring der ringfinger das ist der mittelfinger der mittelfinger der mittelfinger ist in der mitte die mitte auf dieser seite sind zwei finger und auf dieser seite sind auch zwei finger der mittelfinger ist in der mitte das ist der zeigefinger der zeigefinger mit dem zeigefinger kann man auf dinge zeigen zeigen ich zeige auf den ring ich zeige auf meine hand ich zeige auf den tisch zeigen das ist der daumen der daumen wenn dir dieses video beim deutschlernen hilft kannst du mir gerne einen daumen nach oben geben einen daumen nach oben geben wo ist meine rechte hand hier ist meine rechte hand wo ist meine linke hand hier ist meine linke hand ist das mein linker ringfinger oder mein rechter ringfinger das ist mein linker ringfinger wo ist mein rechter ringfinger hier ist mein rechter ringfinger ist das mein zeigefinger oder mein mittelfinger das ist mein zeigefinger ist das mein linker daumen ja das ist mein linker daumen wo sind meine kleinen finger hier sind meine kleinen finger mit meinen händen kann ich viele dinge machen die dinge ich kann mit meinen händen auf dinge zeigen ich kann mit meinen händen dinge anfassen ich fasse meine hand an ich fasse den tisch an ich fasse den ring an ich fasse den ring an anfassen ich kann mit meinen händen klatschen ich kann mit meinen händen eine faust machen die faust die fäuste ich kann mit meinen händen linken winkel was mache ich mit meiner rechten hand ich zeige auf den ring zeigen was mache ich mit meiner linken hand ich fasse den tisch an anfassen was mache ich mit meinen beiden händen ich klatsche was mache ich mit meiner linken hand ich mache eine faust die faust und was mache ich jetzt mit meinen beiden händen ich winke bis zum nächsten mal tschüss",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.4989
+  "src": "auto"
  },
  "YFWxt7DQfow": {
   "channel": "Chill German",
@@ -12938,80 +13023,49 @@
  "irewOhICuFY": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-07T05:07:55+00:00",
-  "title": "Die schwierige Prüfung 📚 | German Story for Beginners B2 | English Subtitles",
+  "checked": "2026-11-11T00:51:52+00:00",
+  "title": "How to Pass a Difficult German Exam | B2 Story",
   "duration": 861,
   "published": "20261019",
   "spoken": "de",
   "spoken_v": 2,
   "pace": 79.1,
   "rare": 0.1124,
+  "var": 0.8358,
   "speech_s": 594.0,
   "tokens": 783,
   "kw": [
    [
-    "exam",
+    "the",
     "schwierige Prüfung. The difficult exam. Heute ist der Tag meiner wichtigen",
     15,
     25,
-    2.49,
-    10
+    5.62,
+    9
    ],
    [
-    "lernstoff",
-    "schnell den Lernstoff. Ich",
-    69,
+    "einige",
+    "Einige Mitschüler wiederholen noch schnell den Lernstoff.",
+    66,
     75,
-    2.5,
-    5
+    5.54,
+    6
    ],
    [
-    "überprüfe",
+    "darauf",
+    "intensiv darauf vorbereitet. Trotzdem bin ich am Morgen sehr",
+    30,
+    44,
+    5.52,
+    6
+   ],
+   [
+    "bevor",
     "Bevor ich das Haus verlasse, überprüfe",
     45,
     53,
-    2.91,
-    4
-   ],
-   [
-    "abschlussprüfung",
-    "Abschlussprüfung. Today is the day of my important final",
-    22,
-    31,
-    3.25,
-    5
-   ],
-   [
-    "einzuatmen",
-    "einzuatmen. I try to stay calm and take a deep",
-    80,
-    87,
-    2.37,
-    3
-   ],
-   [
-    "abgebe",
-    "Bevor ich das Blatt abgebe, kontrolliere",
-    160,
-    169,
-    2.61,
-    3
-   ],
-   [
-    "kontrolliere",
-    "Bevor ich das Blatt abgebe, kontrolliere",
-    160,
-    169,
-    2.81,
-    3
-   ],
-   [
-    "subtitles",
-    "German and English subtitles. Let's start today's German story. Die",
-    9,
-    20,
-    2.06,
-    2
+    5.19,
+    6
    ],
    [
     "prüfung",
@@ -13020,14 +13074,6 @@
     25,
     4.63,
     11
-   ],
-   [
-    "the",
-    "schwierige Prüfung. The difficult exam. Heute ist der Tag meiner wichtigen",
-    15,
-    25,
-    5.62,
-    9
    ],
    [
     "aufgaben",
@@ -13054,39 +13100,111 @@
     6
    ],
    [
-    "einige",
-    "Einige Mitschüler wiederholen noch schnell den Lernstoff.",
-    66,
-    75,
-    5.54,
-    6
+    "erleichtert",
+    "erleichtert und zufrieden. Meine Freunde erzählen, welche Aufgaben",
+    176,
+    192,
+    4.19,
+    3
    ],
    [
-    "darauf",
-    "intensiv darauf vorbereitet. Trotzdem bin ich am Morgen sehr",
-    30,
-    44,
-    5.52,
-    6
+    "noten",
+    "Wir hoffen alle, dass wir gute Noten",
+    195,
+    201,
+    4.18,
+    3
    ],
    [
-    "bevor",
+    "konzentriert",
+    "arbeite konzentriert weiter und verliere keine Zeit. I continue working with",
+    149,
+    160,
+    4.15,
+    3
+   ],
+   [
+    "passende",
+    "passende Antwort. Ich arbeite konzentriert weiter und verliere",
+    143,
+    157,
+    4.13,
+    3
+   ],
+   [
+    "abschlussprüfung",
+    "Abschlussprüfung. Today is the day of my important final",
+    22,
+    31,
+    3.25,
+    5
+   ],
+   [
+    "verlasse",
     "Bevor ich das Haus verlasse, überprüfe",
     45,
     53,
-    5.19,
-    6
+    3.52,
+    3
+   ],
+   [
+    "today",
+    "start today's German story. Die schwierige Prüfung. The difficult exam.",
+    12,
+    23,
+    3.56,
+    2
+   ],
+   [
+    "before",
+    "Before I leave the house, check my",
+    52,
+    57,
+    3.51,
+    2
+   ],
+   [
+    "exam",
+    "schwierige Prüfung. The difficult exam. Heute ist der Tag meiner wichtigen",
+    15,
+    25,
+    2.49,
+    10
+   ],
+   [
+    "lernstoff",
+    "schnell den Lernstoff. Ich",
+    69,
+    75,
+    2.5,
+    5
+   ],
+   [
+    "überprüfe",
+    "Bevor ich das Haus verlasse, überprüfe",
+    45,
+    53,
+    2.91,
+    4
+   ],
+   [
+    "kontrolliere",
+    "Bevor ich das Blatt abgebe, kontrolliere",
+    160,
+    169,
+    2.81,
+    3
    ]
   ],
-  "tx": "Welcome to German Stories for beginners. Here you will learn German with simple stories, slow voice narration and clear German and English subtitles. Let's start today's German story. Die schwierige Prüfung. The difficult exam. Heute ist der Tag meiner wichtigen Abschlussprüfung. Today is the day of my important final exam. Ich habe mich mehrere Wochen intensiv darauf vorbereitet. Trotzdem bin ich am Morgen sehr aufgeregt. Bevor ich das Haus verlasse, überprüfe ich noch einmal meine Unterlagen. Before I leave the house, check my documents one more. Ich komme rechtzeitig in der Schule an und suche meinen Prüfungsraum. Arrive on my exam. Einige Mitschüler wiederholen noch schnell den Lernstoff. Ich versuche ruhig zu bleiben und tief einzuatmen. I try to stay calm and take a deep breath. Kurz darauf erklärt die Lehrerin den Ablauf der Prüfung. Als ich die Aufgaben sehe, wirken sie schwieriger als erwartet. Ich beginne mit den Aufgaben, die ich sicher beantworten kann. Bei einer Aufgabe muss ich lange über die richtige Lösung nachdenken. Zum Glück erinnere ich mich an ein Beispiel aus dem Unterricht. Dadurch finde ich schließlich die passende Antwort. Ich arbeite konzentriert weiter und verliere keine Zeit. I continue working with concentration and do not waste any time. Bevor ich das Blatt abgebe, kontrolliere ich alle Antworten sorgfältig. Nach dem Ende der Prüfung fühle ich mich erleichtert und zufrieden. Meine Freunde erzählen, welche Aufgaben sie besonders schwierig fanden. Wir hoffen alle, dass wir gute Noten bekommen werden. All will grades. Einige Tage später erhalte ich endlich mein Prüfungsergebnis. Obwohl die Prüfung sehr schwierig war, habe ich sie erfolgreich bestanden und bin stolz auf mich. German English nary. Heute ist der Tag meiner wichtigen Abschlussprüf",
+  "tx": "Welcome to German Stories for beginners. Here you will learn German with simple stories, slow voice narration and clear German and English subtitles. Let's start today's German story. Die schwierige Prüfung. The difficult exam. Heute ist der Tag meiner wichtigen Abschlussprüfung. Today is the day of my important final exam. Ich habe mich mehrere Wochen intensiv darauf vorbereitet. Trotzdem bin ich am Morgen sehr aufgeregt. Bevor ich das Haus verlasse, überprüfe ich noch einmal meine Unterlagen. Before I leave the house, check my documents one more. Ich komme rechtzeitig in der Schule an und suche meinen Prüfungsraum. Arrive on my exam. Einige Mitschüler wiederholen noch schnell den Lernstoff. Ich versuche ruhig zu bleiben und tief einzuatmen. I try to stay calm and take a deep breath. Kurz darauf erklärt die Lehrerin den Ablauf der Prüfung. Als ich die Aufgaben sehe, wirken sie schwieriger als erwartet. Ich beginne mit den Aufgaben, die ich sicher beantworten kann. Bei einer Aufgabe muss ich lange über die richtige Lösung nachdenken. Zum Glück erinnere ich mich an ein Beispiel aus dem Unterricht. Dadurch finde ich schließlich die passende Antwort. Ich arbeite konzentriert weiter und verliere keine Zeit. I continue working with concentration and do not waste any time. Bevor ich das Blatt abgebe, kontrolliere ich alle Antworten sorgfältig. Nach dem Ende der Prüfung fühle ich mich erleichtert und zufrieden. Meine Freunde erzählen, welche Aufgaben sie besonders schwierig fanden. Wir hoffen alle, dass wir gute Noten bekommen werden. All will grades. Einige Tage später erhalte ich endlich mein Prüfungsergebnis. Obwohl die Prüfung sehr schwierig war, habe ich sie erfolgreich bestanden und bin stolz auf mich. German English nary. Heute ist der Tag meiner wichtigen Abschlussprüfung. Ich habe mich mehrere Wochen intensiv darauf vorbereitet. Trotzdem bin ich am Morgen sehr aufgeregt. Bevor ich das Haus verlasse, überprüfe ich noch einmal meine Unterlagen. Ich komme rechtzeitig in der Schule an und suche meinen Prüfungsraum. Einige Mitschüler wiederholen noch schnell den Lernstoff. Ich versuche ruhig zu bleiben und tief einzuatmen. Kurz darauf erklärt die Lehrerin den Ablauf der Prüfung. Als ich die Aufgaben sehe, wirken sie schwieriger als erwartet. Ich beginne mit den Aufgaben, die ich sicher beantworten kann. Bei einer Aufgabe muss ich lange über die richtige Lösung nachdenken. Zum Glück erinnere ich mich an ein Beispiel aus dem Unterricht. Dadurch finde ich schließlich die passende Antwort. Ich arbeite konzentriert weiter und verliere keine Zeit. Bevor ich das Blatt abgebe, kontrolliere ich alle Antworten sorgfältig. Nach dem Ende der Prüfung fühle ich mich erleichtert und zufrieden. Meine Freunde erzählen, welche Aufgaben sie besonders schwierig fanden. Wir hoffen alle, dass wir gute Noten bekommen werden. Einige Tage später erhalte ich endlich mein Prüfungsergebnis. Obwohl die Prüfung sehr schwierig war, habe ich sie erfolgreich bestanden und bin stolz auf mich. German subtitles available. Heute ist der Tag meiner wichtigen Abschlussprüfung. Ich habe mich mehrere Wochen intensiv darauf vorbereitet. Trotzdem bin ich am Morgen sehr aufgeregt. Bevor ich das Haus verlasse, überprüfe ich noch einmal meine Unterlagen. Ich komme rechtzeitig in der Schule an und suche meinen Prüfungsraum. Einige Mitschüler wiederholen noch schnell den Lernstoff. Ich versuche ruhig zu bleiben und tief einzuatmen. Kurz darauf erklärt die Lehrerin den Ablauf der Prüfung. Als ich die Aufgaben sehe, wirken sie schwieriger als erwartet. Ich beginne mit den Aufgaben, die ich sicher beantworten kann. Bei einer Aufgabe muss ich lange über die richtige Lösung nachdenken. Zum Glück erinnere ich mich an ein Beispiel aus dem Unterricht. Dadurch finde ich schließlich die passende Antwort. Ich arbeite konzentriert weiter und verliere keine Zeit. Bevor ich das Blatt abgebe, kontrolliere ich alle Antworten sorgfältig. Nach dem Ende der Prüfung. Fühle ich mich erleichtert und zufrieden. Meine Freunde erzählen, welche Aufgaben sie besonders schwierig fanden. Wir hoffen alle, dass wir gute Noten bekommen werden. Einige Tage später erhalte ich endlich mein Prüfungsergebnis. Obwohl die Prüfung sehr schwierig war, habe ich sie erfolgreich bestanden und bin stolz auf mich. Abschlussprüfung. Ich habe heute eine wichtige Abschlussprüfung. Final exam. I have an important final exam today. Vorbereitung. Ich habe mich gut vorbereitet. Preparation. I have prepared well. Unterlagen. Ich überprüfe meine Unterlagen. Docums. I check my documents. Prüfungsraum. Ich suche meinen Prüfungsraum. Exam room. I look for my exam room. Lernstoff. Ich wiederhole den Lernstoff. Study material. I review the study material. Aufgabe. Ich lese jede Aufgabe aufmerksam. Question. I read every question carefully. Lösung. Ich finde die richtige Lösung. Solution. I find the correct solution. Antwort. Ich schreibe meine Antwort. I write my answer. Prüfungsergebnis. Ich bekomme Prüfungsergebnis. Exam result. I receive my exam result. Bestanden. Ich habe die Prüfung bestanden. I pass the exam. Now let prti fill in the blank gu the missing words before the time run M.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8839
+  "src": "auto"
  },
  "5EuttN7aRvs": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:08:22+00:00",
+  "checked": "2026-11-11T00:55:06+00:00",
   "title": "Peppa Wutz & Baby Evies ERSTE HALLOWEENPARTY! 🎃 | Peppa-Wutz-Geschichten | Ganze Folgen",
   "duration": 1437,
   "published": "20261021",
@@ -13094,9 +13212,138 @@
   "spoken_v": 2,
   "pace": 101.0,
   "rare": 0.1308,
+  "var": 0.8193,
   "speech_s": 1340.7,
   "tokens": 2256,
   "kw": [
+   [
+    "familie",
+    "Familie Wutz, verkleidet in einem Familienkostüm.",
+    7,
+    14,
+    5.41,
+    12
+   ],
+   [
+    "nein",
+    "Oh nein, war das Kostüm nicht mehr zu retten.",
+    70,
+    78,
+    5.52,
+    8
+   ],
+   [
+    "mach",
+    "Komm, mach den Gruselschütteln nach.",
+    249,
+    255,
+    5.1,
+    8
+   ],
+   [
+    "los",
+    "Stimmt, habe ich. Dann los. Bereit?",
+    31,
+    36,
+    5.26,
+    7
+   ],
+   [
+    "mama",
+    "Mama, du hast gesagt, wir tun du weißt",
+    27,
+    32,
+    4.68,
+    11
+   ],
+   [
+    "papa",
+    "Aber Mama und Papa finden den Preis",
+    712,
+    718,
+    4.46,
+    7
+   ],
+   [
+    "monster",
+    "Stampf wie ein Monster wild und kick.",
+    254,
+    260,
+    4.22,
+    7
+   ],
+   [
+    "brauch",
+    "Das ist unfair, ich brauch ihn.",
+    1162,
+    1169,
+    4.47,
+    5
+   ],
+   [
+    "halloween",
+    "Halloween-Deko ein Geschenk für Familie Wutz. Neue, passende Halloween-Kostüme.",
+    90,
+    98,
+    3.87,
+    18
+   ],
+   [
+    "gruselig",
+    "Das ist so gruselig, Mama. ",
+    281,
+    288,
+    3.75,
+    10
+   ],
+   [
+    "kostüm",
+    "Oh nein, war das Kostüm nicht mehr zu retten.",
+    70,
+    78,
+    3.89,
+    8
+   ],
+   [
+    "kostüme",
+    "Gute Güte, was für quakige Kostüme.",
+    24,
+    31,
+    3.8,
+    7
+   ],
+   [
+    "zauberstab",
+    "Zauberstab haben. Okay, du darfst als Erste und gleich",
+    1111,
+    1121,
+    3.05,
+    8
+   ],
+   [
+    "locke",
+    "und Frau Locke das verpasst haben. Sie",
+    42,
+    48,
+    3.41,
+    4
+   ],
+   [
+    "gruselige",
+    "gruselige Familie. Vielen Dank, Madame Gazelle.",
+    116,
+    123,
+    3.13,
+    4
+   ],
+   [
+    "spaghetti",
+    "Ich liebe Spaghetti und Knoblauchbrot. Die übriggebliebene Lebensmittelfarbe",
+    807,
+    817,
+    3.58,
+    3
+   ],
    [
     "peppa",
     "tolle Idee, Peppa. Heute Abend gibt es eine große",
@@ -13128,113 +13375,17 @@
     14,
     2.39,
     8
-   ],
-   [
-    "halloween",
-    "Halloween-Deko ein Geschenk für Familie Wutz. Neue, passende Halloween-Kostüme.",
-    90,
-    98,
-    3.87,
-    18
-   ],
-   [
-    "zauberstab",
-    "Zauberstab haben. Okay, du darfst als Erste und gleich",
-    1111,
-    1121,
-    3.05,
-    8
-   ],
-   [
-    "lebensmittelfarbe",
-    "Lebensmittelfarbe. Oh, schmeckt es am Ende trotzdem?",
-    759,
-    768,
-    2.37,
-    5
-   ],
-   [
-    "gruseliges",
-    "Krieg ich bitte ein gruseliges Vampirkostüm, Frau Mümmel?",
-    552,
-    560,
-    2.59,
-    5
-   ],
-   [
-    "familie",
-    "Familie Wutz, verkleidet in einem Familienkostüm.",
-    7,
-    14,
-    5.41,
-    12
-   ],
-   [
-    "mama",
-    "Mama, du hast gesagt, wir tun du weißt",
-    27,
-    32,
-    4.68,
-    11
-   ],
-   [
-    "nein",
-    "Oh nein, war das Kostüm nicht mehr zu retten.",
-    70,
-    78,
-    5.52,
-    8
-   ],
-   [
-    "mach",
-    "Komm, mach den Gruselschütteln nach.",
-    249,
-    255,
-    5.1,
-    8
-   ],
-   [
-    "papa",
-    "Aber Mama und Papa finden den Preis",
-    712,
-    718,
-    4.46,
-    7
-   ],
-   [
-    "los",
-    "Stimmt, habe ich. Dann los. Bereit?",
-    31,
-    36,
-    5.26,
-    7
-   ],
-   [
-    "nie",
-    "Ich werde nie mehr wieder vor irgendwas",
-    509,
-    514,
-    5.67,
-    6
-   ],
-   [
-    "lieben",
-    "Lieben. Wir brauchen nur das hier und",
-    85,
-    91,
-    4.87,
-    6
    ]
   ],
-  "tx": "Heute Abend macht eine Entenfamilie einen Spaziergang. Oh, die Entenfamilie ist in Wahrheit Familie Wutz, verkleidet in einem Familienkostüm. Als Enten zu gehen war wirklich eine tolle Idee, Peppa. Heute Abend gibt es eine große Kostümparade und auf dem Weg dorthin heißt es für Peppas Familie: Süßes oder Saures. Gute Güte, was für quakige Kostüme. Mama, du hast gesagt, wir tun du weißt schon. Stimmt, habe ich. Dann los. Bereit? Was für eine Freude. Schade, dass Luzie und Frau Locke das verpasst haben. Sie sind auf dem Weg zur Parade. Kein Problem, dann sehen wir sie doch. Danke sehr. Familie Wutz geht jetzt zum nächsten Haus. Ah, oder doch nicht. Oh, hat sie Ja. Dürfen wir kurz das Bad benutzen, Oma Locke? Effi hat äh Ihre Federn voll gemacht. Effi hat jetzt wieder eine saubere Windel, aber sie ist keine Ente mehr. Oh nein, war das Kostüm nicht mehr zu retten. So können wir bei der Parade nicht mitgehen. Unsere Kostüme passen nicht zusammen. Das kriegen wir in Nullkommanix hin, ihr Lieben. Wir brauchen nur das hier und Oma Locke zaubert aus ihrer Halloween-Deko ein Geschenk für Familie Wutz. Neue, passende Halloween-Kostüme. Danke, Oma Locke. Gern geschehen. Bis später bei der Parade. Bald schon beginnt die Parade, aber ein Haus fehlt Familie Wutz noch, das von Madame Gazelle. Ihr habt mich erwischt. So eine gruselige Familie. Vielen Dank, Madame Gazelle. Jetzt ist es Zeit für die Parade. Nichts wie los. Wir sehen uns dort. Den Flur runter und dann links. Danke. Effi hat wieder eine saubere Windel, aber ihr neues Kostüm ist jetzt auch weg. Oh, war es äh Ja, das willst du gar nicht wissen. Jetzt passen wir schon wieder nicht zusammen. Wir tragen ja alle was Schwarzes drunter, dann gehen wir halt als Schatten. Heureka! Nein, die ist noch sauber. Nun, ich weiß eine Lösung ",
+  "tx": "Heute Abend macht eine Entenfamilie einen Spaziergang. Oh, die Entenfamilie ist in Wahrheit Familie Wutz, verkleidet in einem Familienkostüm. Als Enten zu gehen war wirklich eine tolle Idee, Peppa. Heute Abend gibt es eine große Kostümparade und auf dem Weg dorthin heißt es für Peppas Familie: Süßes oder Saures. Gute Güte, was für quakige Kostüme. Mama, du hast gesagt, wir tun du weißt schon. Stimmt, habe ich. Dann los. Bereit? Was für eine Freude. Schade, dass Luzie und Frau Locke das verpasst haben. Sie sind auf dem Weg zur Parade. Kein Problem, dann sehen wir sie doch. Danke sehr. Familie … links. Danke. Effi hat wieder eine saubere Windel, aber ihr neues Kostüm ist jetzt auch weg. Oh, war es äh Ja, das willst du gar nicht wissen. Jetzt passen wir schon wieder nicht zusammen. Wir tragen ja alle was Schwarzes drunter, dann gehen wir halt als Schatten. Heureka! Nein, die ist noch sauber. Nun, ich weiß eine Lösung für euer Problem. Seht ihr? Endlich hat Familie Wutz perfekt passende Halloween-Kostüme für die Parade und hoffentlich gibt's bei Effi keine stinkige Überraschung mehr. Das ist nur ein Luftballon, Mama. Es ist Halloween, darum fahren Peppa und ihre Freunde mit einer … nach. Das ist so gruselig, Mama. Ja. Ich bin froh, dass du meine Hand hältst, Peppa. Ähm, ich halte deine Hand nicht, Mama. Hä? Aber wenn du nicht meine Hand hältst, wer? Wer dann? Ist die Geisterbahn jetzt kaputt? Nein, keine Sorge. Ich krieg sie im Handumdrehen wieder flott. Ich glaube, ein Geist hat sie angehalten. Oder eine Hexe. Oder dein Luftballon. Oh. Eher nicht. Oh, eine Zombiehand. Keine Sorge, eure Gruselfahrt kann gleich weitergehen. Tschüss. Einmal geht der Gruselschütteln noch. Fröhliches Halloween, ihr Lieben. Jeder liebt es, zu Halloween mit der Geisterbahn zu fahren. … Böses Ge- Gespenst. Pedro, wir sind's und wir haben deine Brille gefunden. Oh, danke. Tut mir leid, ich bin weggelaufen, weil ich Angst bekommen habe. Kein Problem. Aber wir sollten ab jetzt zusammenbleiben, wie Mama gesagt hat. Ja, das klingt nach einer sehr guten Idee. Peppa, Lucy und Pedro haben Spaß mit den verschiedenen Spiegeln in diesem Raum. In manchen sieht man riesig aus, in anderen wie ein Monster und in manchen sogar ganz winzig. Wir sind winzig kleine Babys. Jetzt fehlt nur noch ein Raum. Oh, Fi, vielleicht sollten wir besser zurückgehen. nicht echt, Luzie. Es ist alles … toll ist. Nicht wahr, Frau Mümmel? Äh, natürlich. Sehen wir uns um. Peppa probiert verschiedene Kostüme an. Tada! Ein Zitronenkostüm? Zitronen sind nicht so gruselig wie Vampire. Ein reizendes Blumenkostüm? Wie reizend! Es ist reizend, aber es ist nicht gruselig. Und sogar ein Bleistiftkostüm? Oh, wie ausgefallen! Gibt es hier auch noch irgendwelche gruseligen Kostüme? Ich befürchte, wir haben alle verkauft. Aber wir haben noch ein paar gruselige Kostümteile übrig. Mach daraus doch ein ganz neues Monster, Peppa. Ja! Legen wir los! Peppa und Schorsch suchen nach geeigneten Sachen für ein … Die Farben ändern sich ja. Das ist Halloween-Magie. Das ist leider keine Magie, sondern Lebensmittelfarbe. Oh, schmeckt es am Ende trotzdem? Fruchtfarben verändern nur die Farbe. Alles andere ist immer noch fantastisch. Fantastisch. Peppa kreiert ein gruseliges Kürbistörtchen und Schorsch ein grünes Dinosauriertörtchen. Hallo, Schorsch. Ich bin ein gruseliges Kürbistörtchen. Peppa und Schorsch haben nun alle Törtchen fertig verziert. So, das Abendessen ist jetzt fertig. Ich muss nur noch Mama Wutz aus dem Garten holen. Ich liebe Spaghetti und Knoblauchbrot. Die übriggebliebene … einen Filmabend. Die Familie wird sich einen Hexenfilm ansehen. So, seid ihr bereit, den Film zu starten? Ja, los. Schorsch freut sich schon riesig auf den. Wartet, wo ist das Knabberzeug? Oh, das darf ja nicht fehlen. Filme machen mich hungrig. Holen wir uns Hexenknabberzeug für unseren Hexenfilm. Drachenhaare und viele Würmer. Das sind nur ein paar Rosinen. Wie wär's mit Zauberstäben? Abracadabra. Und wir brauchen auch Zaubertränke. Fruchtig. Jetzt, wo das Knabberzeug da ist, kann der Film losgehen. Jetzt kann's losgehen. Wisst ihr, mit einer kuscheligen Decke wäre der Filmabend noch … und Feen. Oh, natürlich. Ich glaube, wir müssen noch mehr, wie Feen und Hexen aussehen, Peppa. Hexen haben Zauberstäbe, Luzie. Aber Feen haben sie auch. Luzie und Peppa wollen beide den Zauberstab haben. Okay, du darfst als Erste und gleich danach darf ich ihn dann aber haben. Jetzt macht Peppa einen Zaubertrank. Blubber, Blubber, Spielzeug und Und Luzie erfüllt inzwischen Wünsche mit dem Zauberstab. Was wünschst du dir denn, Teddy? Okay, wusch, jeder darf sich was wünschen. Luzie, ich glaube, jetzt bin ich dran mit dem Zauberstab. Aber ich muss noch viele Wünsche erfüllen. Aber du bist ja … solltet ihr doch beste Freundinnen sein. Ich stell das mal hierher. Tut mir leid, Luzie. Lass uns doch zusammen zaubern, wie beste Freundinnen das machen. auch leid, Peppa. Lass uns nie, nie, nie, nie, nie mehr wieder streiten. Oh, aber jetzt haben wir gar keinen Zauberstab mehr. Oder, wir haben sogar zwei. Peppa und Luzie lieben Zauberspiele. bereit, Fee Luzie? Bereit, Hexe Peppa. meisten Spaß macht es, wenn sie zusammen spielen. Nein, weg mit dir, Peppa. Heute jagen Peppa und Luzie einem Riesengebiss hinterher, Hab dich. ah, weil sie Zahnarzt spielen. Zeit zum Zähneputzen. Los! Und das … sind zu groß und zu scharf und er ist gegen Karies. Wir schaffen das, Dr. Luzie. Für uns ist kein Auftrag zu groß. Ich hab's. Wir müssen uns nur so ein ultrahohes Zickzackleiterding da von Herrn Bulle ausleihen. Na gut, lieber Herr Sausier, wie können wir dir denn helfen? Oh, das kein Auftrag ist zu stenkig. So, schon viel besser. Sausias Maul tut ihm immer noch weh. Aber kein Auftrag ist zu schwer. Aha! Da steckt ja ein Baum in seinem Zahn. Na los, Dr. Luzie. Problem gelöst. Dr. Pepper und Dr. Luzie haben Sausias Zähne wieder heil gemacht. Es fehlt nur noch eins. Und hier ist dein Sticker.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8738
+  "src": "auto"
  },
  "jPa7yCjqVug": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:08:46+00:00",
+  "checked": "2026-11-11T00:57:24+00:00",
   "title": "Das große Bluey-Grillfest 🍗🧑‍🍳 | Ganze Folgen | Bluey - Deutsch Offizieller Kanal",
   "duration": 2554,
   "published": "20260918",
@@ -13242,73 +13393,10 @@
   "spoken_v": 2,
   "pace": 129.9,
   "rare": 0.0777,
+  "var": 0.8026,
   "speech_s": 2313.8,
   "tokens": 5009,
   "kw": [
-   [
-    "bingo",
-    "Ja, Bingo. ",
-    26,
-    32,
-    3.63,
-    31
-   ],
-   [
-    "schneeglöckchen",
-    "Schneeglöckchen. Steh doch mal auf, Riesenaffe. Unsere",
-    1835,
-    1841,
-    2.56,
-    10
-   ],
-   [
-    "laus",
-    "Leute, Vogel. Laus, laus, laus, laus. Kikiki, laus, laus, laus,",
-    2262,
-    2272,
-    2.83,
-    11
-   ],
-   [
-    "babyparty",
-    "auf diese Babyparty gefreut. Ich verstehe das gar nicht. Warum möchte man",
-    1957,
-    1964,
-    2.02,
-    4
-   ],
-   [
-    "dad",
-    "Dad, in welche Richtung muss ich den",
-    19,
-    26,
-    3.82,
-    13
-   ],
-   [
-    "klingel",
-    "Klingel, klingel. Klingel, klingel, klingel, klingel, klingel, klingel.",
-    955,
-    961,
-    3.39,
-    8
-   ],
-   [
-    "zahnpasta",
-    "Nimm dir die Zahnpasta. Mach die Zahnpasta auf die Zahnbürste.",
-    258,
-    271,
-    3.31,
-    7
-   ],
-   [
-    "zahnbürste",
-    "Oh, okay. Nimm dir die Zahnbürste.",
-    253,
-    262,
-    3.43,
-    7
-   ],
    [
     "okay",
     "laufen. Okay, jetzt putzt die Zähne,",
@@ -13342,47 +13430,143 @@
     22
    ],
    [
-    "bitte",
-    "Noch mehr Würstchen, bitte. Blue hier",
-    87,
-    94,
-    5.7,
-    21
+    "bob",
+    "Bob darf das ganze Wochenende bei uns",
+    592,
+    597,
+    4.21,
+    12
    ],
    [
-    "bist",
-    "Team, für welches Team bist du denn",
-    137,
-    142,
-    5.61,
-    20
+    "tja",
+    "Oh, okay. Alles, was ich will. Ja. Tja,",
+    992,
+    999,
+    4.55,
+    8
    ],
    [
-    "kannst",
-    "kannst du aber nicht verhindern. Schön.",
-    380,
-    388,
-    5.54,
-    19
+    "ring",
+    "ring, ring. Oh nein, Judo ruft gerade an.",
+    1247,
+    1252,
+    4.54,
+    8
    ],
    [
-    "richtig",
-    "Richtig gut. Wo muss das sein?",
-    165,
-    170,
-    5.58,
-    17
+    "gucken",
+    "Zeichentrickfilme gucken und sogar Spiele spielen.",
+    657,
+    663,
+    4.48,
+    8
+   ],
+   [
+    "bingo",
+    "Ja, Bingo. ",
+    26,
+    32,
+    3.63,
+    31
+   ],
+   [
+    "dad",
+    "Dad, in welche Richtung muss ich den",
+    19,
+    26,
+    3.82,
+    13
+   ],
+   [
+    "mom",
+    "Team ist und deine Mom für das blaue",
+    135,
+    140,
+    3.78,
+    8
+   ],
+   [
+    "hurra",
+    "Waschbecken und fertig. Hurra! Sehr gut",
+    337,
+    343,
+    3.69,
+    8
+   ],
+   [
+    "klingel",
+    "Klingel, klingel. Klingel, klingel, klingel, klingel, klingel, klingel.",
+    955,
+    961,
+    3.39,
+    8
+   ],
+   [
+    "zahnbürste",
+    "Oh, okay. Nimm dir die Zahnbürste.",
+    253,
+    262,
+    3.43,
+    7
+   ],
+   [
+    "zahnpasta",
+    "Nimm dir die Zahnpasta. Mach die Zahnpasta auf die Zahnbürste.",
+    258,
+    271,
+    3.31,
+    7
+   ],
+   [
+    "sauberen",
+    "Ich bring die sauberen sauberen Sachen",
+    1302,
+    1309,
+    3.52,
+    6
+   ],
+   [
+    "laus",
+    "Leute, Vogel. Laus, laus, laus, laus. Kikiki, laus, laus, laus,",
+    2262,
+    2272,
+    2.83,
+    11
+   ],
+   [
+    "schneeglöckchen",
+    "Schneeglöckchen. Steh doch mal auf, Riesenaffe. Unsere",
+    1835,
+    1841,
+    2.56,
+    10
+   ],
+   [
+    "muffin",
+    "Vielen Dank. Sie auch, Muffin? Nein, ich behalte alle.",
+    854,
+    861,
+    2.97,
+    5
+   ],
+   [
+    "calypso",
+    "Da gehe ich mal Calypso fragen. Wie soll",
+    2317,
+    2321,
+    2.63,
+    4
    ]
   ],
-  "tx": "Wir brauchen noch Salatdressing. Na schön. Was hast du gemacht? Na ja, weißt du, kann ich das Auslein? Match mir Matsch. Oh, der Matsch ist alle. Ich mache einfach neun. Dad, in welche Richtung muss ich den Wasser eindrehen? Dad. Ja, Bingo. Alles gut. Ich habe es schon allein geschafft. Schön. Jetzt mache ich meine Flasche voll und den Schlauch lege ich einfach mal hierhin. Bingo, was machst du denn da unten? Bingo, schnapp dir den Schlauch. Ich versuch es. Ah, das gibt sich aber total. Vergiss den Schlauch. Den Hörn zu. Nein, nein, nein. Andere Richtung im Uhrzeigers. Alles klar? Ja. Meine gute Güte, das ist ja gar nicht entspannend. Salatessing. So, jetzt setze ich mich auf mein Entspannungsstuhl und entspanne mich. Wer war mit Matschpoten auf der Terrasse? Noch mehr Würstchen, bitte. Blue hier bitte. Danke sehr. Na endlich, jetzt kann ich mich entspannen. Die Würstchen sind fertig. Würstchen, aus dem Weg, ihr Salate. Das sieht aber gut aus. Gut gemacht. Ich danke euch. Vielen, vielen Dank. Und wieso sagt keiner von euch was zu den Salaten? Und das war der KCKO. Komm los. Dad, haben wir was zu essen? Oh, hier ist leckeres Trockenfleisch und die Pizza kommt in der Halbzeit. Oh, wurde hart getroffen. Ich kann nicht sehen. Chucky, wenn dein Dad für das weinrote Team ist und deine Mom für das blaue Team, für welches Team bist du denn dann? M hat gesagt, ich darf mir aussuchen. Meine Mom und mein Dad sind beide für das Weinrote Team, also bin ich auch für Weinrot, auch wenn ich blau bin. Es ist verwirrend. Hm, ich bin Gold. Gibt es ein goldenes Team? Nein, es gibt nur Weinrot und Blau. Oh. Soll ich dir helfen eine Farbe auszusuchen? Ja, bitte. Die Erwachsenen werden gleich tanzen. Das ist mein Lieblingsteil. Richtig gut. Wo muss das sein? Na, was sagst du dazu? Jelleosäre ",
+  "tx": "Wir brauchen noch Salatdressing. Na schön. Was hast du gemacht? Na ja, weißt du, kann ich das Auslein? Match mir Matsch. Oh, der Matsch ist alle. Ich mache einfach neun. Dad, in welche Richtung muss ich den Wasser eindrehen? Dad. Ja, Bingo. Alles gut. Ich habe es schon allein geschafft. Schön. Jetzt mache ich meine Flasche voll und den Schlauch lege ich einfach mal hierhin. Bingo, was machst du denn da unten? Bingo, schnapp dir den Schlauch. Ich versuch es. Ah, das gibt sich aber total. Vergiss den Schlauch. Den Hörn zu. Nein, nein, nein. Andere Richtung im Uhrzeigers. Alles klar? Ja. Meine … und jetzt spuckst du die Zahnpasta ins Waschbecken rein. J. Sehr gut. Halte das Ende der Zahnbürste schön unters Wasser. Leg die Zahnbürste aufs Waschbecken und fertig. Hurra! Sehr gut gemacht, Robo Bingo. Hey Bingo, mach noch mal Pipi, bevor du schlafen gehst. G. Nein. Oh, da hat jemand geklingelt. Mach doch nichts. M macht sicher auf. Hey, Schiffchen können nicht laufen. Hi. Würden Sie bei Ihrer Stromrechnung gerne 200 $ im Jahr sparen? Entschuldigen Sie bitte. Ist hier vielleicht noch jemand, mit dem ich sprechen könnte? Ich hole schnell mal meine Mom. Ach, was los, Schleifchen? Ich … Klick, klick. Mein Handy ist runtergefallen und in dem Spritzding vom Wal gelandet. Oh, ich hole dir das schnell zurück. Äh, kannst du den Hubschrauber mal ganz kurz übernehmen? Sicher doch. Aber echt nur ganz kurz. Ich bin immer noch der Pilot. Okay. Okay. Gib mir das Handy zurück, du Wahl. Pass auf, gleich kommt aus dem Spritzdings ganz viel Wasser raus. Bob darf das ganze Wochenende bei uns bleiben und wir machen Fotos von allen lustigen Ding, die wir erleben. Und die kleben wir dann ins Bob Beuteltierbuch. Hier ist Bob bei Jasper zu Hause und hier war bei Harley. Oh, ihr habt zusammen … laut sein, du kannst alle Bücher ausleihen, du kannst sogar kleine Kinder essen. Aber du musst die Bücher zurückgeben, weil du sonst nicht richtig Bibliothek spielst. Und ein paar Wochen später war es immer noch da. Was ist los, ihr Süßen? Muffin spielt einfach nicht richtig. Bloy, wir haben das besprochen. Muffin kann spielen, wie sie möchte. Aber wir spielen doch Bibliothek und sie gibt die Bücher nicht zurück. Sie sagt, sie muss sich nicht an die Regeln in der Bibliothek halten. Oh, hat sie auch gesagt, warum? Sie sagt, weil sie ein ganz besonders besonderes Kind ist. Oh, okay. Ich … Prinzessin. Wenn du uns brauchst, sind wir für dich da. Tja, vielen Dank. Wir sind da. Auf diesem Bauernhof bin ich aufgewachsen. Hier finden wir genug Essen für die Babys der lieben Königin. Auer, es ist alles weg. Hier standen früher viele Büsche voller Obst. Was ist passiert? Die böse Königin hat alles in Sand verwandelt. Meine liebe Prinzessin. Großmütterchen Fee, du bist es. Ja, ich bin es. Warum hat die böse Königin all die Obstbüsche in Sand verwandelt? Vielleicht, weil sie Sand gern hat. Jemand muss sie aufhalten, sonst gibt es nie wieder was zu essen. Wie wär es mit dir? Was? … Oh nein, ihr geht's gut. Gut, das macht dann vier Talerscheine, bitte. Ah, wenn wir bezahlen, ist das Spiel vorbei. Was hast du denn jetzt vor, Spatz? Ich weiß was. Laufila. Okay. Wow. Hey, die. Das Spiel geht noch weiter. Das ist klasse. Spaß. Polizei! Hat hier jemand die Polizei gerufen? Ja, sie ist da lang gerannt. Halt! Polizei. Ha, reite los, Flamingo, reite los. Boah, Muffin, du bist echt richtig müde. Stillgesch ist das wahr, Chefwissenschaftler? Ja, ich wollte so tun, als ob ihr mich zurücklasst und ich dann ganz alleine bin. Warum? Ich weiß es nicht. Tja, ich weiß nicht, ob wir … Pupskopf? Ich habe gesagt, nein. Und sie hat gesagt, ciao, Bingo, da hast du's. Dann habe ich mit Felix im Sandkasten gespielt. Gut gemacht, Bingo. Ich krieg dich. Du hast gewonnen, Keny. Toll. Machen wir noch ein Rennen? Ja. Soll ich euch vielleicht das Startsignal geben? Nein, danke. Oma. Auf die Plätze, fertig los. Oh, okay. Hey. Hey, Trixi, kann ich dir vielleicht helfen? Ach, so ein Quatsch. Setz dich hin und entspann dich. Oh, ich glaube, Omas sind überhaupt gar nicht gut im Entspannen. Vielleicht braucht dort drüben jemand meine Hilfe. Chloe, kannst du gucken, wie ich einen Handstand … und ihre ganzen Freundinnen fahren in die Stadt und beobachten das Baby beim Party machen. Nein, so geht eine Babyparty gar nicht. Das glaubst du doch nicht wirklich, oder Dad? Na ja, was ist denn dann? Das ist eine Party für eine Mutter, die ein Baby in ihrem dicken Bauch drin hat. Ach, wirklich? Das weißt du doch. Gibt es Geschenke? Ja, aber die sind alle für das Baby. Oh, was für Geschenke will ein Baby denn? Oh, keine Ahnung. Letzchen und Rasseln und sowas. Ja. Und Strampler. Oh ja, Babys lieben Strampler. Und machen sie auch Spiele? Oh ja, ich denke schon. Spiele wie den Babynamraten … Lauf, laus, laus, la. Ja, ich bin ganz glücklich, dass du Bingo nicht mehr in Grund und Boden quatschtst. Ja, ich helfe die Sprache zu finden. Ich weiß, aber wenn du für sie sprichst, findet sie ihre Sprache leider auch nicht wieder. Oh, was soll ich denn dann tun? Du musst einfach nur deine Ohren wiederfinden. Die sind doch an meinem Kopf. Blowy, warum hat der alte Hund nicht schon früher in die Truhe geguckt? Ich weiß nicht genau. Tja, ich schreibe eine Geschichte, in der er sofort in die Truhe guckt und alle Leckerliis aufst. Hey, wo ist denn die Schreibmaschine hin? Keine Ahnung. Da … langweilig wird, dann drehe ich mich. Kommen Sie, ich zeig ihn unsere Cafeteria. Uff. Z und 11 und 12. Also, das ist unsere Cafeteria. Möchten Sie ein Suiröllchen essen? Na ja, ich sollte langsam anfangen zu arbeiten. Ein Zusöchen, bitte. Möen Sie auch Sojasoße? Ja, bitte. Nein. Und hier, bitte sehr. Gut, danke, dass Sie mich umgeführt haben. Ich muss jetzt anfangen zu arbeiten. Nein, halt. Sie haben die Tischtennisplatte noch nicht gesehen. Ich glaube, ich sollte lieber meine Arbeit erledigen. Was ist, wenn der Chef mich dabei erwischt? Keine Sorge, der Chef liebt Tischtennis. Kommen Sie.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8004
+  "src": "auto"
  },
  "Gw0ZNZTTbv8": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-07T05:08:58+00:00",
+  "checked": "2026-11-11T00:59:39+00:00",
   "title": "💥 NEUE FOLGE 💥Gesummtheit 🤸‍♂️🏋️ Episodensammlung 🎬 Mascha und der Bär",
   "duration": 1271,
   "published": "20261017",
@@ -13390,73 +13574,10 @@
   "spoken_v": 2,
   "pace": 79.9,
   "rare": 0.0735,
+  "var": 0.8144,
   "speech_s": 450.0,
   "tokens": 599,
   "kw": [
-   [
-    "bär",
-    "Sie sehen irgendwie nicht gut aus. Bär,",
-    83,
-    91,
-    4.0,
-    15
-   ],
-   [
-    "süssigkeit",
-    "",
-    0,
-    0,
-    2.85,
-    4
-   ],
-   [
-    "hopp",
-    "Hopp, hopp, hoppa! Hopp, hopp, hoppa!",
-    510,
-    517,
-    3.56,
-    4
-   ],
-   [
-    "honigbiene",
-    "Hey Honigbiene, los geht's. Mach das uns",
-    239,
-    244,
-    2.58,
-    2
-   ],
-   [
-    "streckt",
-    "Streckt die Arme zu den Seiten aus und 1",
-    155,
-    162,
-    3.32,
-    3
-   ],
-   [
-    "radrennen",
-    "Ja, ein Radrennen. Bist du sicher?",
-    897,
-    907,
-    2.8,
-    2
-   ],
-   [
-    "süsses",
-    "",
-    0,
-    0,
-    3.93,
-    5
-   ],
-   [
-    "schummeln",
-    "Damit das klar ist, schummeln verboten.",
-    934,
-    940,
-    2.95,
-    2
-   ],
    [
     "weiter",
     "Etwas weiter beugen. Hallo, Sportler.",
@@ -13482,28 +13603,20 @@
     6
    ],
    [
-    "los",
-    "Hey Honigbiene, los geht's. Mach das uns",
-    239,
-    244,
-    5.26,
-    4
-   ],
-   [
-    "komm",
-    "Bär, komm schon. Hast du etwa deine Ski",
-    402,
-    407,
-    4.91,
-    4
-   ],
-   [
     "euch",
     "Schön gerade halten. Streckt euch mehr",
     166,
     174,
     5.71,
     4
+   ],
+   [
+    "beginnen",
+    "Und jetzt beginnen wir mit unserer",
+    149,
+    153,
+    4.69,
+    3
    ],
    [
     "süss",
@@ -13514,18 +13627,122 @@
     3
    ],
    [
-    "beginnen",
-    "Und jetzt beginnen wir mit unserer",
-    149,
-    153,
-    4.69,
+    "springen",
+    "auf den Ball springen. Nur keine Panik, wir werden auch in",
+    600,
+    619,
+    4.26,
     3
+   ],
+   [
+    "wollt",
+    "Honigbienen, wollt ihr auch etwas Süßes?",
+    55,
+    60,
+    4.7,
+    2
+   ],
+   [
+    "bär",
+    "Sie sehen irgendwie nicht gut aus. Bär,",
+    83,
+    91,
+    4.0,
+    15
+   ],
+   [
+    "süsses",
+    "",
+    0,
+    0,
+    3.93,
+    5
+   ],
+   [
+    "trainieren",
+    "gut trainieren kannst du nicht. Oh.",
+    204,
+    226,
+    4.15,
+    3
+   ],
+   [
+    "süssigkeiten",
+    "",
+    0,
+    0,
+    3.87,
+    2
+   ],
+   [
+    "hopp",
+    "Hopp, hopp, hoppa! Hopp, hopp, hoppa!",
+    510,
+    517,
+    3.56,
+    4
+   ],
+   [
+    "streckt",
+    "Streckt die Arme zu den Seiten aus und 1",
+    155,
+    162,
+    3.32,
+    3
+   ],
+   [
+    "krankenwagen",
+    "wir müssen den Krankenwagen rufen. Hier steht, dass sie zu schwer sind.",
+    87,
+    140,
+    3.5,
+    2
+   ],
+   [
+    "lauft",
+    "Lauft weiter, meine Bären. Lauft weiter.",
+    801,
+    807,
+    3.26,
+    2
+   ],
+   [
+    "süssigkeit",
+    "",
+    0,
+    0,
+    2.85,
+    4
+   ],
+   [
+    "schummeln",
+    "Damit das klar ist, schummeln verboten.",
+    934,
+    940,
+    2.95,
+    2
+   ],
+   [
+    "radrennen",
+    "Ja, ein Radrennen. Bist du sicher?",
+    897,
+    907,
+    2.8,
+    2
+   ],
+   [
+    "honigbiene",
+    "Hey Honigbiene, los geht's. Mach das uns",
+    239,
+    244,
+    2.58,
+    2
    ]
   ],
-  "tx": "Gesundheit. Wieso ist das aus? Hat die Batterie den Geist aufgegeben? Honigbienen, wollt ihr auch etwas Süßes? Juhu, wer hat das Radio repariert? Aber die ganzen Süßigkeiten sind leer. Sie sehen irgendwie nicht gut aus. Bär, wir müssen den Krankenwagen rufen. Hier steht, dass sie zu schwer sind. Sie müssen sich bewegen. Aha, jetzt ist alles klar. Wer? Wir brauchen Süßigkeiten für das Training. Und jetzt beginnen wir mit unserer Turnstunde. Stellt eure Füße in schulterbreite auf. Streckt die Arme zu den Seiten aus und 1 2 3 4. Nicht den Atem anhalten. 1 2 3 4 1 2 3 4. Schön gerade halten. Streckt euch mehr an. Streckt euch mehr an, meine Freunde. Sieh sie nur an. Was können wir ohne Süßes schon erreichen? Es ist Zeit für die nächste Übung. Seitenbeugen. Und 1 2 3 4. Etwas weiter beugen. Hallo, Sportler. Und noch etwas weiter. 1 2 3 Und jetzt die andere Seite. Du gibst immer nur an, aber sonderlich gut trainieren kannst du nicht. Oh. Jippi! Hey Honigbiene, los geht's. Mach das uns nach. Er sieht irgendwie nicht gut aus. Hey Bär, ruf den Krankenwagen. Hast du das gesehen, Bär? Gib mir was Süßes. Wer will was Süßes? Es ist süß und lecker. So süß wie es nur geht, die aller süßeste Süßigkeit. Süß und lecker, es gibt nichts Süßeres. Hey, wer es schafft, mich zu fangen, bekommt eine leckere Süßigkeit. Kommt und holt euch die Süßigkeit. Honigbiene, hier drüben, hier bin ich. Leckere Süßigkeit. Hey, sieh nur, alles beim Alten. Bär, willst du auch abnehmen? Okay, dann hol was Süßes. Schnell, kurz. Hallo, Sportfreund. Bär, komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch, nimm mich mit. 1 2 3 und 4. 1 2 3 und 4. 1 2 1 2 1 2 1 2 Los! Wow! Hey Bär, kannst du das auch machen? Hopp, hopp, hoppa! Hopp, hopp, hoppa! Du fängst mich nicht, du fä",
+  "tx": "Gesundheit. Wieso ist das aus? Hat die Batterie den Geist aufgegeben? Honigbienen, wollt ihr auch etwas Süßes? Juhu, wer hat das Radio repariert? Aber die ganzen Süßigkeiten sind leer. Sie sehen irgendwie nicht gut aus. Bär, wir müssen den Krankenwagen rufen. Hier steht, dass sie zu schwer sind. Sie müssen sich bewegen. Aha, jetzt ist alles klar. Wer? Wir brauchen Süßigkeiten für das Training. Und jetzt beginnen wir mit unserer Turnstunde. Stellt eure Füße in schulterbreite auf. Streckt die Arme zu den Seiten aus und 1 2 3 4. Nicht den Atem anhalten. 1 2 3 4 1 2 3 4. Schön gerade halten. Streckt euch mehr an. Streckt euch mehr an, meine Freunde. Sieh sie nur an. Was können wir ohne Süßes schon erreichen? Es ist Zeit für die nächste Übung. Seitenbeugen. Und 1 2 3 4. Etwas weiter beugen. Hallo, Sportler. Und noch etwas weiter. 1 2 3 Und jetzt die andere Seite. Du gibst immer nur an, aber sonderlich gut trainieren kannst du nicht. Oh. Jippi! Hey Honigbiene, los geht's. Mach das uns nach. Er sieht irgendwie nicht gut aus. Hey Bär, ruf den Krankenwagen. Hast du das gesehen, Bär? Gib mir was Süßes. Wer will was Süßes? Es ist süß und lecker. So süß wie es nur geht, die aller süßeste Süßigkeit. Süß und lecker, es gibt nichts Süßeres. Hey, wer es schafft, mich zu fangen, bekommt eine leckere Süßigkeit. Kommt und holt euch die Süßigkeit. Honigbiene, hier drüben, hier bin ich. Leckere Süßigkeit. Hey, sieh nur, alles beim Alten. Bär, willst du auch abnehmen? Okay, dann hol was Süßes. Schnell, kurz. Hallo, Sportfreund. Bär, komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch, nimm mich mit. 1 2 3 und 4. 1 2 3 und 4. 1 2 1 2 1 2 1 2 Los! Wow! Hey Bär, kannst du das auch machen? Hopp, hopp, hoppa! Hopp, hopp, hoppa! Du fängst mich nicht, du fängst mich nicht. Ja, ich glaube, wir müssten jetzt noch viel mehr trainieren. Gönn dir 5 Minuten Pause. 3 2 und die Pause ist rum. Und jetzt trainieren wir ähm, indem wir auf den Ball springen. Nur keine Panik, wir werden auch in deinem Gebrüll arbeiten. Was für ein toller Spagat. Warum magst du dann kein Springen? Ha! Okay, gar kein Problem. Ich werde schon noch einen Champion aus dir machen. Hey, hey! Das war toll, gut gebrüllt. Du Dummärchen. Nicht aufgeben. Versuch jetzt so das Gleichgewicht zu halten. Und jetzt die letzte Übung. Springen von einem Baum. Das war sehr knapp, aber du hast es verfehlt. Ich finde die Blumen sehen so hübsch aus. Gutes Timing, Bär. Lass uns jetzt endlich mit der Gruppenübung beginnen. Lauft weiter, meine Bären. Lauft weiter. Bär, fahr schneller! Könnt ihr mir mal verraten, was ihr beide da eigentlich macht? Ihr verhaltet euch wie zwei ungezogene Tierbabys. Jetzt reicht's aber. Wenn ihr herausfinden wollt, wer besser ist, dann durch einen Wettkampf. Ja, ein Radrennen. Bist du sicher? Ja, ein Radrennen. Erzähl nicht sowas, das ganze ist für Bär ein Kinderspiel, wollen wir wetten? Damit das klar ist, schummeln verboten. Bär, Bär, hier ist ein Ersatzreifen. Los, komm mit. Na, siehst du, es funktioniert. Bär, komm weiter, nur noch ein bisschen. Hau in die Pedale. Bär, los, weiter, weiter, du hast es gleich geschafft. Komm schon, du bist gleich am Ziel. Hurra, hurra, Bär, du hast das Rennen gewonnen. Nun zu dir, mein Freundchen. Du hast verloren. Du hattest doch versprochen, dass du nicht schummeln willst. So, so, so, so. Warum sind denn alle meine Videos verschwunden? Dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage \"Mascha und der Bär ist dran.\" Das war einfach und jetzt probiert ihr es mal.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8216
+  "src": "auto"
  },
  "3nQ40TrwGsU": {
   "channel": "German Stories for Beginners",
@@ -14292,7 +14509,7 @@
  "a527M-ZK6L8": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-07T05:28:10+00:00",
+  "checked": "2026-11-11T00:49:46+00:00",
   "title": "A1–A2 German Story: Kochen mit Mama🍝Easy German Listening Practice| GERMAN Story for Beginners",
   "duration": 1113,
   "published": "20260827",
@@ -14300,73 +14517,10 @@
   "spoken_v": 2,
   "pace": 90.3,
   "rare": 0.0076,
+  "var": 0.636,
   "speech_s": 612.1,
   "tokens": 921,
   "kw": [
-   [
-    "mia",
-    "Mia nimmt die Tomaten und wäscht sie.",
-    150,
-    156,
-    3.98,
-    45
-   ],
-   [
-    "tomaten",
-    "Sie haben Tomaten, Zwiebeln, Milch, Käse",
-    127,
-    135,
-    3.95,
-    20
-   ],
-   [
-    "nudeln",
-    "und Nudeln. Sie haben Tomaten, Zwiebeln, Milch, Käse",
-    131,
-    151,
-    3.94,
-    16
-   ],
-   [
-    "kocht",
-    "Ihre Mutter kocht inzwischen die Nudeln.",
-    181,
-    187,
-    3.86,
-    9
-   ],
-   [
-    "schneidet",
-    "Danach schneidet sie die Tomaten in",
-    164,
-    170,
-    3.87,
-    9
-   ],
-   [
-    "esszimmer",
-    "Esszimmer. Dann bringen sie das Essen ins",
-    285,
-    296,
-    3.14,
-    4
-   ],
-   [
-    "wäscht",
-    "Mia nimmt die Tomaten und wäscht sie.",
-    150,
-    156,
-    3.43,
-    3
-   ],
-   [
-    "zwiebeln",
-    "Sie haben Tomaten, Zwiebeln, Milch, Käse",
-    127,
-    135,
-    3.82,
-    4
-   ],
    [
     "mutter",
     "Mutter beim Kochen. Mir ist 10 Jahre alt und hilft ihrer",
@@ -14408,14 +14562,6 @@
     14
    ],
    [
-    "hilft",
-    "Mir ist 10 Jahre alt und hilft ihrer",
-    21,
-    27,
-    4.94,
-    13
-   ],
-   [
     "käse",
     "Sie haben Tomaten, Zwiebeln, Milch, Käse",
     127,
@@ -14424,18 +14570,74 @@
     12
    ],
    [
-    "hause",
-    "und mir ist zu Hause. Heute ist Samstag und mir ist zu Hause.",
-    7,
-    21,
-    5.17,
-    12
+    "kochen",
+    "Mutter beim Kochen. Mir ist 10 Jahre alt und hilft ihrer",
+    23,
+    39,
+    4.52,
+    7
+   ],
+   [
+    "räumen",
+    "Dann räumen Mia und ihre Mutter",
+    378,
+    385,
+    4.3,
+    7
+   ],
+   [
+    "mia",
+    "Mia nimmt die Tomaten und wäscht sie.",
+    150,
+    156,
+    3.98,
+    45
+   ],
+   [
+    "tomaten",
+    "Sie haben Tomaten, Zwiebeln, Milch, Käse",
+    127,
+    135,
+    3.95,
+    20
+   ],
+   [
+    "nudeln",
+    "und Nudeln. Sie haben Tomaten, Zwiebeln, Milch, Käse",
+    131,
+    151,
+    3.94,
+    16
+   ],
+   [
+    "schneidet",
+    "Danach schneidet sie die Tomaten in",
+    164,
+    170,
+    3.87,
+    9
+   ],
+   [
+    "esszimmer",
+    "Esszimmer. Dann bringen sie das Essen ins",
+    285,
+    296,
+    3.14,
+    4
+   ],
+   [
+    "wäscht",
+    "Mia nimmt die Tomaten und wäscht sie.",
+    150,
+    156,
+    3.43,
+    3
    ]
   ],
-  "tx": "Heute ist Samstag und mir ist zu Hause. Heute ist Samstag und mir ist zu Hause. Mir ist 10 Jahre alt und hilft ihrer Mutter beim Kochen. Mir ist 10 Jahre alt und hilft ihrer Mutter beim Kochen. Ihre Mutter ist auch zu Hause, weil sie heute nicht arbeitet. Ihre Mutter ist auch zu Hause, weil sie heute nicht arbeitet. Am Nachmittag gehen mir und ihre Mutter in die Küche. Am Nachmittag gehen mir und ihre Mutter in die Küche. Sie möchten zusammen das Abendessen machen. Sie möchten zusammen das Abendessen machen. Zuerst schauen sie, was sie zu Hause haben. Pause haben. Zuerst schauen Sie, was sie zu Hause haben. Sie haben Tomaten, Zwiebeln, Milch, Käse und Nudeln. Sie haben Tomaten, Zwiebeln, Milch, Käse und Nudeln. Mia nimmt die Tomaten und wäscht sie. Danach schneidet sie die Tomaten in kleine Stücke. Danach schneidet sie die Tomaten in kleine Stücke. Ihre Mutter kocht inzwischen die Nudeln. Mia hilft ihrer Mutter und legt den Käse auf den Tisch. Mia hilft ihrer Mutter und legt den Käse auf den Tisch. In der Küche riecht es schon sehr gut. Mia hat großen Hunger und wartet auf das Essen. Mia hat großen Hunger und wartet auf das Essen. Nach einer Weile sind die Nudeln fertig. Mia und ihre Mutter geben die Tomaten und den Käse zu den Nudeln. Mia und ihre Mutter geben die Tomaten und den Käse zu den Nudeln. Dann bringen sie das Essen ins Esszimmer. Dann bringen sie das Essen ins Esszimmer. Der Vater kommt auch an den Tisch und hilft beim Tragen. Der Vater kommt auch an den Tisch und hilft beim Tragen. Die ganze Familie sitzt zusammen und beginnt zu essen. Die ganze Familie sitzt zusammen und beginnt zu essen. Das Essen schmeckt allen sehr gut. Mia sagt, dass sie gerne mit ihrer Mutter kocht. Mia sagt, dass sie gerne mit ihrer Mutter kocht. Nach dem Essen trinken sie noch etwas",
+  "tx": "Heute ist Samstag und mir ist zu Hause. Heute ist Samstag und mir ist zu Hause. Mir ist 10 Jahre alt und hilft ihrer Mutter beim Kochen. Mir ist 10 Jahre alt und hilft ihrer Mutter beim Kochen. Ihre Mutter ist auch zu Hause, weil sie heute nicht arbeitet. Ihre Mutter ist auch zu Hause, weil sie heute nicht arbeitet. Am Nachmittag gehen mir und ihre Mutter in die Küche. Am Nachmittag gehen mir und ihre Mutter in die Küche. Sie möchten zusammen das Abendessen machen. Sie möchten zusammen das Abendessen machen. Zuerst schauen sie, was sie zu Hause haben. Pause haben. Zuerst schauen Sie, was sie zu Hause haben. Sie haben Tomaten, Zwiebeln, Milch, Käse und Nudeln. Sie haben Tomaten, Zwiebeln, Milch, Käse und Nudeln. Mia nimmt die Tomaten und wäscht sie. Danach schneidet sie die Tomaten in kleine Stücke. Danach schneidet sie die Tomaten in kleine Stücke. Ihre Mutter kocht inzwischen die Nudeln. Mia hilft ihrer Mutter und legt den Käse auf den Tisch. Mia hilft ihrer Mutter und legt den Käse auf den Tisch. In der Küche riecht es schon sehr gut. Mia hat großen Hunger und wartet auf das Essen. Mia hat großen Hunger und wartet auf das Essen. Nach einer Weile sind die Nudeln fertig. Mia und ihre Mutter geben die Tomaten und den Käse zu den Nudeln. Mia und ihre Mutter geben die Tomaten und den Käse zu den Nudeln. Dann bringen sie das Essen ins Esszimmer. Dann bringen sie das Essen ins Esszimmer. Der Vater kommt auch an den Tisch und hilft beim Tragen. Der Vater kommt auch an den Tisch und hilft beim Tragen. Die ganze Familie sitzt zusammen und beginnt zu essen. Die ganze Familie sitzt zusammen und beginnt zu essen. Das Essen schmeckt allen sehr gut. Mia sagt, dass sie gerne mit ihrer Mutter kocht. Mia sagt, dass sie gerne mit ihrer Mutter kocht. Nach dem Essen trinken sie noch etwas Wasser. Nach dem Essen trinken sie noch etwas Wasser. Dann räumen Mia und ihre Mutter gemeinsam die Küche auf. Dann räumen Mia und ihre Mutter gemeinsam die Küche auf. Am Ende sitzen alle noch ein bisschen zusammen. Am Ende sitzen alle noch ein bisschen zusammen. Mia ist glücklich, weil sie einen schönen Samstag mit ihrer Familie hat. Mia ist glücklich, weil sie einen schönen Samstag mit ihrer Familie hat. Heute ist Samstag und Mia ist zu Hause. Mia ist 10 Jahre alt und hilft ihrer Mutter beim Kochen. Ihre Mutter ist auch zu Hause, weil sie heute nicht arbeitet. Am Nachmittag gehen Mia und ihre Mutter in die Küche. Sie möchten zusammen das Abendessen machen. Zuerst schauen sie, was sie zu Hause haben. Sie haben Tomaten, Zwiebeln, Milch, Käse und Nudeln. Mia nimmt die Tomaten und wäscht sie. Danach schneidet sie die Tomaten in kleine Stücke. Ihre Mutter kocht inzwischen die Nudeln. Mia hilft ihrer Mutter und legt den Käse auf den Tisch. In der Küche riecht es schon sehr gut. Mia hat großen Hunger und wartet auf das Essen. Nach einer Weile sind die Nudeln fertig. Mia und ihre Mutter geben die Tomaten und den Käse zu den Nudeln. Dann bringen sie das Essen ins Esszimmer. Der Vater kommt auch an den Tisch und hilft beim Tragen. Die ganze Familie sitzt zusammen und beginnt zu essen. Das Essen schmeckt allen sehr gut. Mia sagt, dass sie gerne mit ihrer Mutter kocht. Nach dem Essen trinken sie noch etwas Wasser. Dann räumen Mia und ihre Mutter gemeinsam die Küche auf. Am Ende sitzen alle noch ein bisschen zusammen. Mia ist glücklich, weil sie einen schönen Samstag mit ihrer Familie hat. Heute ist Samstag und Mia ist zu Hause. Mia ist 10 Jahre alt und hilft ihrer Mutter beim Kochen. Ihre Mutter ist auch zu Hause, weil sie heute nicht arbeitet. Am Nachmittag gehen Mia und ihre Mutter in die Küche. Sie möchten zusammen das Abendessen machen. Zuerst schauen sie, was sie zu Hause haben. Sie haben Tomaten, Zwiebeln, Milch, Käse und Nudeln. Mia nimmt die Tomaten und wäscht sie. Danach schneidet sie die Tomaten in kleine Stücke. Ihre Mutter kocht inzwischen die Nudeln. Mia hilft ihrer Mutter und legt den Käse auf den Tisch. In der Küche riecht es schon sehr gut. Mia hat großen Hunger und wartet auf das Essen. Nach einer Weile sind die Nudeln fertig. Mia und ihre Mutter geben die Tomaten und den Käse zu den Nudeln. Dann bringen sie das Essen ins Esszimmer. Der Vater kommt auch an den Tisch und hilft beim Tragen. Die ganze Familie sitzt zusammen und beginnt zu essen. Das Essen schmeckt allen sehr gut. Mia sagt, dass sie gerne mit ihrer Mutter kocht. Nach dem Essen trinken sie noch etwas Wasser. Dann räumen Mia und ihre Mutter gemeinsam die Küche auf. Am Ende sitzen alle noch ein bisschen zusammen. Mia ist glücklich, weil sie einen schönen Samstag mit ihrer Familie hat. helfen Mia hilft ihrer Mutter beim Kochen. inzwischen Mia schneidet die Tomaten. Inzwischen kocht ihre Mutter die Nudeln. Mia schneidet die Tomaten. Inzwischen kocht ihre Mutter die Nudeln. schneiden Mia schneidet die Tomaten. Das Stück. Mia schneidet die Tomaten in kleine Stücke. Mia schneidet die Tomaten in kleine Stücke. riechen Das Essen riecht sehr gut. Der Hunger. Mia hat großen Hunger. Warten. Mia wartet auf das Essen. Danach. Mia und ihre Mutter kochen zuerst. Danach essen sie zusammen. Mia und ihre Mutter kochen zuerst. Danach essen sie zusammen. Aufräumen. Mia und ihre Mutter räumen die Küche auf. Mia und ihre Mutter räumen die Küche auf. Gemeinsam. Sie räumen gemeinsam die Küche auf. Ja.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.527
+  "src": "auto"
  },
  "Z2zf8LgiiUk": {
   "channel": "Deutsch mit Lari",

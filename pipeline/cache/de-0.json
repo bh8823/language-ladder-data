@@ -717,50 +717,119 @@
  "vX472XxRlOQ": {
   "channel": "Nicos Weg (DW)",
   "lang": "de",
-  "checked": "2026-10-27T20:35:22+00:00",
+  "checked": "2026-11-11T00:17:13+00:00",
   "title": "Arbeitsverträge | Deutsch im Job | B1 | DW Deutsch lernen",
   "duration": 180,
   "published": "20261021",
+  "spoken": "de",
+  "spoken_v": 2,
   "pace": 135.6,
   "rare": 0.0623,
+  "var": 0.8519,
   "speech_s": 163.3,
   "tokens": 369,
   "kw": [
    [
-    "malik",
-    "Malik. Hallo Ayo, rate mal, was ich hier habe.",
-    7
+    "kannst",
+    "Hier, vielleicht kannst du mir auch noch",
+    42,
+    48,
+    5.54,
+    3
    ],
    [
-    "probezeit",
-    "Und ähm, hier steht was zu Probezeit,",
-    63
-   ],
-   [
-    "arbeitsvertrag",
-    "Na gut, das ist mein Arbeitsvertrag vom",
-    22
-   ],
-   [
-    "arbeitsrecht",
-    "gut mit Arbeitsrecht aus. Wenn man einen Arbeitsvertrag bekommt,",
-    129
-   ],
-   [
-    "arbeitest",
+    "vertrag",
     "arbeitest. Zeig mir mal den Vertrag.",
-    40
+    40,
+    46,
+    4.87,
+    3
+   ],
+   [
+    "lassen",
+    "Zeit lassen. Ajo, was meinst du?",
+    120,
+    126,
+    5.76,
+    2
+   ],
+   [
+    "sollte",
+    "sollte man ihn sich immer gründlich",
+    134,
+    140,
+    5.76,
+    2
+   ],
+   [
+    "arbeitgeber",
+    "möchte der Arbeitgeber gucken, ob du",
+    71,
+    77,
+    4.49,
+    3
+   ],
+   [
+    "unterschreiben",
+    "Soll ich jetzt einfach unterschreiben? Warte Malik, du kannst dir ruhig noch",
+    114,
+    124,
+    4.17,
+    2
    ],
    [
     "professionell",
     "professionell arbeitest und gut ins Team",
-    73
+    73,
+    79,
+    4.03,
+    2
+   ],
+   [
+    "arbeitest",
+    "arbeitest. Zeig mir mal den Vertrag.",
+    40,
+    46,
+    3.79,
+    2
+   ],
+   [
+    "malik",
+    "Malik. Hallo Ayo, rate mal, was ich hier habe.",
+    7,
+    16,
+    3.25,
+    4
+   ],
+   [
+    "probezeit",
+    "Und ähm, hier steht was zu Probezeit,",
+    63,
+    69,
+    3.26,
+    3
+   ],
+   [
+    "arbeitsrecht",
+    "gut mit Arbeitsrecht aus. Wenn man einen Arbeitsvertrag bekommt,",
+    129,
+    137,
+    3.54,
+    2
+   ],
+   [
+    "arbeitsvertrag",
+    "Na gut, das ist mein Arbeitsvertrag vom",
+    22,
+    29,
+    3.39,
+    2
    ]
   ],
-  "tx": "Malik. Hallo Ayo, rate mal, was ich hier habe. Post von deiner Oma aus Bulgarien? Falsch. Du hast im Lotto gewonnen? Das wäre auch nicht schlecht. Komm, jetzt sag schon. Na gut, das ist mein Arbeitsvertrag vom Johannes Krankenhaus. Was? Das ist ja super, herzlichen Glückwunsch. Dankeschön. Ich freue mich voll für dich, dann sehen wir uns ja jetzt wohl noch öfter, auch wenn du auf einer anderen Station arbeitest. Zeig mir mal den Vertrag. Hier, vielleicht kannst du mir auch noch ein paar Punkte darin erklären, bevor ich ihn unterschreibe. Klar. Beginn des Arbeitsverhältnisses am 1.11. Das ist ja schon in ein paar Wochen. Ja, ich kann es kaum glauben, das ging jetzt wirklich schnell. Das passt dann genau mit meiner Kündigungsfrist. Und ähm, hier steht was zu Probezeit, ist das normal? Ja, das ist häufig so. In der Probezeit möchte der Arbeitgeber gucken, ob du professionell arbeitest und gut ins Team passt. Wenn du keine groben Fehler machst und dich kollegial verhältst, musst du dir da eigentlich keine Sorgen machen. Aber auch du kannst die Zeit für dich nutzen und schauen, ob dir die Arbeit gefällt und du bei dem Arbeitgeber bleiben willst. Die Probezeit gilt für beide Seiten. Ah, okay. Hm, das mit der Schweigepflicht habe ich schon nachgeschlagen und soweit verstanden. Aber hierbei der Vergütung steht etwas zu den Zuschlägen, ist das bei dir ähnlich? Oh, das gucke ich nachher mal in meiner aktuellen Gehaltsabrechnung nach. Sieht aber auf den ersten Blick gut aus. Soll ich jetzt einfach unterschreiben? Warte Malik, du kannst dir ruhig noch Zeit lassen. Ajo, was meinst du? Wenn du willst, kann ich auch noch mal meinen Bruder fragen, ob er sich den Vertrag anschauen kann. Der kennt sich gut mit Arbeitsrecht aus. Wenn man einen Arbeitsvertrag bekommt, sollte man ihn sich i",
+  "tx": "Malik. Hallo Ayo, rate mal, was ich hier habe. Post von deiner Oma aus Bulgarien? Falsch. Du hast im Lotto gewonnen? Das wäre auch nicht schlecht. Komm, jetzt sag schon. Na gut, das ist mein Arbeitsvertrag vom Johannes Krankenhaus. Was? Das ist ja super, herzlichen Glückwunsch. Dankeschön. Ich freue mich voll für dich, dann sehen wir uns ja jetzt wohl noch öfter, auch wenn du auf einer anderen Station arbeitest. Zeig mir mal den Vertrag. Hier, vielleicht kannst du mir auch noch ein paar Punkte darin erklären, bevor ich ihn unterschreibe. Klar. Beginn des Arbeitsverhältnisses am 1.11. Das ist ja schon in ein paar Wochen. Ja, ich kann es kaum glauben, das ging jetzt wirklich schnell. Das passt dann genau mit meiner Kündigungsfrist. Und ähm, hier steht was zu Probezeit, ist das normal? Ja, das ist häufig so. In der Probezeit möchte der Arbeitgeber gucken, ob du professionell arbeitest und gut ins Team passt. Wenn du keine groben Fehler machst und dich kollegial verhältst, musst du dir da eigentlich keine Sorgen machen. Aber auch du kannst die Zeit für dich nutzen und schauen, ob dir die Arbeit gefällt und du bei dem Arbeitgeber bleiben willst. Die Probezeit gilt für beide Seiten. Ah, okay. Hm, das mit der Schweigepflicht habe ich schon nachgeschlagen und soweit verstanden. Aber hierbei der Vergütung steht etwas zu den Zuschlägen, ist das bei dir ähnlich? Oh, das gucke ich nachher mal in meiner aktuellen Gehaltsabrechnung nach. Sieht aber auf den ersten Blick gut aus. Soll ich jetzt einfach unterschreiben? Warte Malik, du kannst dir ruhig noch Zeit lassen. Ajo, was meinst du? Wenn du willst, kann ich auch noch mal meinen Bruder fragen, ob er sich den Vertrag anschauen kann. Der kennt sich gut mit Arbeitsrecht aus. Wenn man einen Arbeitsvertrag bekommt, sollte man ihn sich immer gründlich durchlesen und prüfen, ob man alle Punkte darin versteht. Sollten noch Fragen offen sein, kann man sich, wie Malik, von einer guten Freundin helfen lassen. Man hat natürlich auch immer die Möglichkeit beim Arbeitgeber selbst nachzufragen. Oder man lässt sich professionell zum Thema Arbeitsrecht beraten. Erst dann sollte man einen Vertrag unterschreiben. Jetzt lass uns aber erstmal auf deinen neuen Job anstoßen, Malik. Auf dich. Auf uns, Kollegin.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8502
+  "src": "auto"
  },
  "YQbO2x6Ft9c": {
   "channel": "Learn German with Anja",
@@ -3911,7 +3980,7 @@
  "9tKAPBnyoVg": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-03T04:38:13+00:00",
+  "checked": "2026-11-11T00:24:03+00:00",
   "title": "Wortschatz & Aussprache verbessern mit TV-Nachrichten & Videos – Deutsch B2/C1/C2",
   "duration": 1725,
   "published": "20250126",
@@ -3919,73 +3988,10 @@
   "spoken_v": 2,
   "pace": 180.1,
   "rare": 0.079,
+  "var": 0.798,
   "speech_s": 1472.1,
   "tokens": 4419,
   "kw": [
-   [
-    "schwa",
-    "Hier passiert zweierlei, das e-Schwa wird offensichtlich",
-    158,
-    162,
-    2.49,
-    10
-   ],
-   [
-    "anhänglich",
-    "kann man sagen, dass er anhänglich ist.",
-    1029,
-    1031,
-    2.7,
-    10
-   ],
-   [
-    "heizt",
-    "In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
-    793,
-    797,
-    3.19,
-    12
-   ],
-   [
-    "kanzlerkandidat",
-    "In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
-    793,
-    797,
-    3.03,
-    10
-   ],
-   [
-    "habeck",
-    "In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
-    793,
-    797,
-    3.14,
-    8
-   ],
-   [
-    "weintrauben",
-    "Weintrauben können zum Beispiel Kerne haben oder auch",
-    1348,
-    1351,
-    2.98,
-    7
-   ],
-   [
-    "kernthemen",
-    "Anhängern ordentlich ein, mit grünen Kernthemen wie Mobilität",
-    796,
-    801,
-    2.71,
-    6
-   ],
-   [
-    "eingeheizt",
-    "Publikum richtig eingeheizt. Also die Bands und Musiker haben dem Publikum",
-    1182,
-    1188,
-    2.1,
-    4
-   ],
    [
     "sagen",
     "Also ihr könnt zum Beispiel sagen, dass ihr",
@@ -4019,20 +4025,12 @@
     16
    ],
    [
-    "rede",
-    "muttersprachlichen Sprechgeschwindigkeit rede. Wenn du das Gefühl hast, dass ich zu",
-    62,
-    66,
-    5.0,
-    15
-   ],
-   [
-    "beispiel",
-    "Also ihr könnt zum Beispiel sagen, dass ihr",
-    241,
-    245,
-    5.35,
-    15
+    "ordentlich",
+    "Anhängern ordentlich ein, mit grünen Kernthemen wie Mobilität",
+    796,
+    801,
+    4.46,
+    13
    ],
    [
     "wahlkampf",
@@ -4043,18 +4041,122 @@
     13
    ],
    [
-    "union",
-    "Union. In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
-    803,
-    808,
-    4.83,
+    "gehalten",
+    "Oder du hast ein Referat gehalten, ich habe",
+    247,
+    251,
+    4.78,
+    9
+   ],
+   [
+    "anhänger",
+    "Der Anhänger. Hier haben wir wieder einen Ang-Laut und",
+    948,
+    952,
+    4.57,
+    9
+   ],
+   [
+    "aussprache",
+    "eure Aussprache verbessern, viel über die natürliche Aussprache",
+    45,
+    49,
+    3.88,
     13
+   ],
+   [
+    "anhängern",
+    "Anhängern ordentlich ein, mit grünen Kernthemen wie Mobilität",
+    796,
+    801,
+    3.85,
+    10
+   ],
+   [
+    "auftakt",
+    "Unter einem Auftakt versteht man einen wichtigen oder",
+    735,
+    739,
+    4.0,
+    9
+   ],
+   [
+    "mobilität",
+    "Anhängern ordentlich ein, mit grünen Kernthemen wie Mobilität",
+    796,
+    801,
+    3.98,
+    7
+   ],
+   [
+    "heizt",
+    "In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
+    793,
+    797,
+    3.19,
+    12
+   ],
+   [
+    "kanzlerkandidat",
+    "In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
+    793,
+    797,
+    3.03,
+    10
+   ],
+   [
+    "habeck",
+    "In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen",
+    793,
+    797,
+    3.14,
+    8
+   ],
+   [
+    "kerne",
+    "Weintrauben können zum Beispiel Kerne haben oder auch",
+    1348,
+    1351,
+    3.38,
+    6
+   ],
+   [
+    "anhänglich",
+    "kann man sagen, dass er anhänglich ist.",
+    1029,
+    1031,
+    2.7,
+    10
+   ],
+   [
+    "schwa",
+    "Hier passiert zweierlei, das e-Schwa wird offensichtlich",
+    158,
+    162,
+    2.49,
+    10
+   ],
+   [
+    "weintrauben",
+    "Weintrauben können zum Beispiel Kerne haben oder auch",
+    1348,
+    1351,
+    2.98,
+    7
+   ],
+   [
+    "melonen",
+    "Melonen. Also ich persönlich mag das überhaupt nicht.",
+    1350,
+    1354,
+    2.96,
+    6
    ]
   ],
-  "tx": "Willkommen bei Deutsch mit Benjamin. Nach dem Ampelaus finden ja nun im Februar 2025 vorgezogene Neuwahlen statt und dieses aktuelle Thema habe ich zum Anlass genommen, dieses Video hier zu produzieren. Ihr werdet euer Hörverständnis von echtem, authentischem Deutsch trainieren, denn wir werden uns gleich ein paar Clips aus dem deutschen Fernsehen anschauen, dort werden wir uns dann genau anschauen, was gesagt wurde, wie es gesagt wurde, d.h. ihr werdet nicht nur euer Hörverständnis trainieren können, sondern auch euren Wortschatz erweitern, den Wortschatz automatisieren, damit ihr ihn auch nie wieder vergesst und ihr werdet eure Aussprache verbessern, viel über die natürliche Aussprache und Prosedie des Deutschen lernen, also die Intonation auch, den Sprechrhythmus und die Sprechmelodie. Wenn euch das interessiert, dann bleibt dran, wir legen los. Wir beginnen mit einem kurzen Hörverständnistraining. Hör mir zu, während ich in meiner normalen muttersprachlichen Sprechgeschwindigkeit rede. Wenn du das Gefühl hast, dass ich zu schnell spreche, geh ein Stück zurück und hör nochmal. So gewöhnst du dich an die Art und Weise, wie wir Muttersprachler normalerweise sprechen. Achte auf die ausgewählten Kollokationen und Ausdrücke, um deinen Wortschatz auf natürliche Weise durch meine Erzählung zu erweitern. Ich persönlich habe übrigens bei der letzten Bundestagswahl nicht mitgewählt, weil ich mich nicht rechtzeitig gekümmert habe. Ich war zu langsam, tja, selber schuld. Ich lebe ja im Ausland, deswegen kann ich nur per Briefwahl wählen und ich hätte diese Unterlagen früher beantragen müssen und als ich nachgeguckt habe, war es schon zu spät. Dieses Jahr oder dieses Mal habe ich diesen Fehler nicht mehr gemacht, also ich habe rechtzeitig nachgeguckt, weil es war ja auch überall ",
+  "tx": "Willkommen bei Deutsch mit Benjamin. Nach dem Ampelaus finden ja nun im Februar 2025 vorgezogene Neuwahlen statt und dieses aktuelle Thema habe ich zum Anlass genommen, dieses Video hier zu produzieren. Ihr werdet euer Hörverständnis von echtem, authentischem Deutsch trainieren, denn wir werden uns gleich ein paar Clips aus dem deutschen Fernsehen anschauen, dort werden wir uns dann genau anschauen, was gesagt wurde, wie es gesagt wurde, d.h. ihr werdet nicht nur euer Hörverständnis trainieren können, sondern auch euren Wortschatz erweitern, den Wortschatz automatisieren, damit ihr ihn auch … gebildet werden. In solchen Fällen spricht man nur den zweiten aus, in diesem Fall hier also das d, aber eben stimmlos aufgrund der progressiven Assimilation. Der Wahlkampf. Häufig sagt man auch nur »Wahlkampf«. In dem Fernsehbeitrag hört man das auch so. Das ist die Zeit vor einer Wahl, in der die Parteien versuchen, so viele Stimmen wie möglich zu bekommen. Wenn euch dieses Video bis hierher gefällt, dann würde ich mich sehr freuen, wenn ihr einen Daumen nach oben geben könntet und abonniert auch gerne meinen Kanal, am besten mit Benachrichtigung, um neue Videos nicht zu verpassen und … diese Folie bringen und dann der Klasse durch diese, über diesen Polyluchs eben zeigen. Dann wurde das an die Wand geworfen und dann konnten das alle sehen, was man da erzählt hat oder was man da zeigen wollte und erklären wollte. Und später gab es dann PowerPoint natürlich. Also da ging das dann langsam los, dass man auch Computer benutzt hat und PowerPoint-Präsentationen vorbereiten musste. Und mir hat das immer Spaß gemacht. Also ich habe total gerne Vorträge gehalten, Präsentationen gehalten. Ich fand das immer richtig gut, das alles auszuarbeiten, vielleicht auch ein Quiz für die … das Wort wieder vergessen habt. Also wenn ihr in der Lage sein wollt, die Wörter auch später spontan anzuwenden, dann stellt sicher, dass ihr sie nicht einzeln lernt, also nicht einfach nur Wahlkampf zum Beispiel, sondern eben in Kollokationen oder Mehrwortausdrücken oder sogar ganzen Sätzen, wie hier im Video gezeigt. Also die drei Sätze, die wir gerade gesehen haben, die könnt ihr als jeweils eine Vokabel betrachten, nicht nur das Wort an sich, sondern den ganzen Satz, die Kollokation oder einen Mehrwortausdruck. So stellt ihr sicher, dass das Wort sich in eurem Gedächtnis verankert und … Ang-Laut, das ist dann ein erfolgreicher Start. Man kann auch von einem vielversprechenden Auftakt sprechen, ein vielversprechender Auftakt, auch hier bitte wieder a -Schwa, viel-fa-fa, vielversprechender, ein vielversprechender Auftakt, das ist also ein Start, der uns Hoffnung gibt, dass das Ereignis erfolgreich wird. Und ich habe gehört, dass dieses Buch der Auftakt einer Reihe ist. Der Auftakt in die heiße Phase des Weihnachtsgeschäfts hat viele Einzelhändler enttäuscht. Machen wir mit dem nächsten Satz weiter, auch hier gibt es wieder viel interessantes Vokabular und ihr sollt wieder … die Nase gesprochen wird. Also ordentlich. Und t-l ergibt tl, ordentlich. Zu dieser Lautkombination, also d plus l oder t plus l, kann ich gerne auch mal ein Video machen. Wenn euch das interessiert, dann schreibt mir das gerne in die Kommentare. Der Anhänger. Hier haben wir wieder einen Ang-Laut und ein a-Schwa am Ende. Also passt auf, dass ihr hier nicht einfach ein n und ein g sprecht, sondern wirklich nur ein Ang-Laut. Also nicht sowas wie Anhänger, sondern Anhänger. Und damit ist hier eine Person gemeint, die eine bestimmte Partei, Idee, Religion oder eben auch ein Politiker … verlangt es den Dativ. Hier in dieser Schlagzeile steht zum Beispiel, dem Publikum richtig eingeheizt. Also die Bands und Musiker haben dem Publikum richtig eingeheizt. Man könnte auch im Passiv sagen, dass dem Publikum richtig eingeheizt wurde. Das Verb hat aber auch eine andere Bedeutung. Die ursprüngliche, die hat natürlich mit heizen zu tun, also mit Wärme. Nun wird der spezielle Pressluftölbrenner eingeheizt. Dann folgt der Akkusativ. Der Arbeiter heizt den Brenner ein. In seiner Rede heizt Kanzlerkandidat Robert Habeck seinen Anhängern ordentlich ein, mit grünen Kernthemen wie … Wir haben zwar einen Weinberg und da haben wir natürlich dementsprechend viele Weintrauben. Aber die haben alle Kerne und deswegen esse ich davon kaum welche. Ein paar esse ich natürlich, weil das würde einem ja sonst leid tun. Aber die meisten nehmen wir tatsächlich, um Wein draus zu machen. Und dann kaufe ich Weintrauben lieber im Supermarkt. Da steht ja dann auch immer da, kernlos. Dann nehme ich natürlich die. Und bei Melonen dasselbe. Also Melonen im Sommer ist, also das ist was ganz ganz Leckeres. Ich bin großer Fan davon. Im Winter muss ich ehrlich sagen, so in der kalten Jahreszeit, … also um meine zwei Kernthemen. Digitalisierung steht immer irgendwo da drin. Und das hier ist ein Kernkraftwerk oder auch Atomkraftwerk. Da ist eine Tür mitten in der Höhle, die führt auf das Gelände vom Kernkraftwerk. Wir brauchen ein Durchsuchungsprofil, vielleicht ist Michael da durch. Die bevorzugte Energiequelle ist dabei die Kernenergie. Und damit liegt er offenbar ganz auf Linie der Union, die nämlich das Thema Atomstrom auch für den Bund nicht abschreiben will. Noch eine Kollokation, die man häufig in Debatten und in den Medien hören kann, die Position vertreten. In einem … der Migrationspolitik um die Stimmen der Wähler. Was war für euch die wertvollste Information, die ihr heute aus diesem Video für euch mitnehmt? Der größte Mehrwert oder der größte Aha-Moment? Schreibt mir das doch mal bitte in die Kommentare, denn das hilft mir nämlich zu verstehen, was euch am meisten interessiert beziehungsweise am meisten hilft, was ihr einfach sehen wollt, was ihr braucht und so kann ich dann mehr ähnliche Inhalte für euch produzieren. Danke, dass ihr heute zugeschaut habt. Ihr lernt Deutsch mit Benjamin auf YouTube und ich freue mich auf euch im nächsten Video.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8409
+  "src": "cc"
  },
  "E7_1wKhTzpg": {
   "channel": "Deutsch mit Rieke",
@@ -5591,7 +5693,7 @@
  "F2pU-1poAzE": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-03T15:49:00+00:00",
+  "checked": "2026-11-11T00:21:44+00:00",
   "title": "How Much Do People Pay for Rent in Munich?",
   "duration": 900,
   "published": "20260920",
@@ -5599,73 +5701,10 @@
   "spoken_v": 2,
   "pace": 150.6,
   "rare": 0.0445,
+  "var": 0.8028,
   "speech_s": 840.5,
   "tokens": 2110,
   "kw": [
-   [
-    "quadratmeter",
-    "Für wie viel Quadratmeter? 35 Quadratmeter.",
-    34,
-    39,
-    3.83,
-    21
-   ],
-   [
-    "kaltmiete",
-    "60 Quadratmeter. Also Kaltmiete 1300, genau. 60 Quadratmeter.",
-    55,
-    62,
-    2.58,
-    3
-   ],
-   [
-    "mehrgenerationenhaus",
-    "Mehrgenerationenhaus gefunden? Tatsächlich über WG-gesucht.",
-    533,
-    541,
-    2.36,
-    2
-   ],
-   [
-    "wohnheime",
-    "lernen. Und private Wohnheime lohnen sich, da sind oft viele Plätze frei, die",
-    745,
-    752,
-    2.55,
-    2
-   ],
-   [
-    "annonce",
-    "gefunden habe ich sie über Annonce in",
-    584,
-    589,
-    2.69,
-    2
-   ],
-   [
-    "ähm",
-    "Ähm, so anonym, ne? Ja, Jain.",
-    47,
-    53,
-    4.12,
-    7
-   ],
-   [
-    "jain",
-    "Ja, Jain. Ja, Jain am Schluss.",
-    49,
-    56,
-    3.03,
-    2
-   ],
-   [
-    "prozentual",
-    "verraten Sie mir prozentual von Ihrem",
-    463,
-    468,
-    3.07,
-    2
-   ],
    [
     "wohnung",
     "das eine ganze Wohnung für dich oder ein",
@@ -5683,36 +5722,12 @@
     12
    ],
    [
-    "miete",
-    "deine Miete? Uff. Da ist gebe ich tatsächlich keine",
-    16,
-    22,
-    4.35,
-    11
-   ],
-   [
     "hast",
     "Da hast du über die Hälfte von der Rente",
     516,
     521,
     5.75,
     10
-   ],
-   [
-    "zimmer",
-    "Zimmer? Äh, eine ganze Wohnung.",
-    89,
-    94,
-    4.97,
-    9
-   ],
-   [
-    "hoch",
-    "wie hoch sind die Mieten hier wirklich?",
-    7,
-    13,
-    5.28,
-    9
    ],
    [
     "euro",
@@ -5723,18 +5738,138 @@
     9
    ],
    [
-    "wirklich",
-    "wie hoch sind die Mieten hier wirklich?",
-    7,
-    13,
-    5.75,
+    "miete",
+    "deine Miete? Uff. Da ist gebe ich tatsächlich keine",
+    16,
+    22,
+    4.35,
+    11
+   ],
+   [
+    "warm",
+    "Warm oder kalt? Warm.",
+    32,
+    36,
+    4.51,
     7
+   ],
+   [
+    "welchem",
+    "In welchem Stadtteil? Ja, hier in dem Viertel, Haidhausen.",
+    60,
+    67,
+    4.68,
+    5
+   ],
+   [
+    "gegend",
+    "Oh, das ist klein. In welcher Gegend?",
+    37,
+    41,
+    4.64,
+    5
+   ],
+   [
+    "quadratmeter",
+    "Für wie viel Quadratmeter? 35 Quadratmeter.",
+    34,
+    39,
+    3.83,
+    21
+   ],
+   [
+    "ähm",
+    "Ähm, so anonym, ne? Ja, Jain.",
+    47,
+    53,
+    4.12,
+    7
+   ],
+   [
+    "stadtteil",
+    "In welchem Stadtteil? Ja, hier in dem Viertel, Haidhausen.",
+    60,
+    67,
+    4.19,
+    6
+   ],
+   [
+    "zahle",
+    "Äh, aktuell zahle ich 1180. Für wie",
+    66,
+    73,
+    3.96,
+    3
+   ],
+   [
+    "angeschrieben",
+    "angeschrieben und habe gefragt. Und dann haben wir wirklich fast zwei",
+    660,
+    667,
+    3.53,
+    2
+   ],
+   [
+    "mhm",
+    "Mhm, wie groß ist dein Zimmer? In einer",
+    97,
+    100,
+    3.53,
+    2
+   ],
+   [
+    "idealerweise",
+    "30 soll man da ausgeben, idealerweise.",
+    490,
+    495,
+    3.46,
+    2
+   ],
+   [
+    "möchtet",
+    "möchtet, dann müsst ihr Deutsch lernen",
+    371,
+    376,
+    3.44,
+    2
+   ],
+   [
+    "kaltmiete",
+    "60 Quadratmeter. Also Kaltmiete 1300, genau. 60 Quadratmeter.",
+    55,
+    62,
+    2.58,
+    3
+   ],
+   [
+    "annonce",
+    "gefunden habe ich sie über Annonce in",
+    584,
+    589,
+    2.69,
+    2
+   ],
+   [
+    "wohnheime",
+    "lernen. Und private Wohnheime lohnen sich, da sind oft viele Plätze frei, die",
+    745,
+    752,
+    2.55,
+    2
+   ],
+   [
+    "mehrgenerationenhaus",
+    "Mehrgenerationenhaus gefunden? Tatsächlich über WG-gesucht.",
+    533,
+    541,
+    2.36,
+    2
    ]
   ],
-  "tx": "Immer wieder höre ich, dass München die teuerste Stadt Deutschlands sei. Heute bin ich hier und möchte herausfinden, wie hoch sind die Mieten hier wirklich? Los geht's. Ich möchte von dir wissen, wie hoch ist deine Miete? Uff. Da ist gebe ich tatsächlich keine Auskunft drüber. Warum nicht? Das ist einfach so ein Ding, genau wie mein Gehalt und so, das geht nicht so niemand groß was an. Okay. Wie hoch ist deine Miete? 13 Warm oder kalt? Warm. Für wie viel Quadratmeter? 35 Quadratmeter. Oh, das ist klein. In welcher Gegend? Hier gleich, hier vorne. Im Universitätsviertel? Genau. Äh, meine Miete 1300 Euro. Für wie viel Quadratmeter? Ähm, so anonym, ne? Ja, Jain. Ja, Jain am Schluss. Äh, ja, aber was habe ich zu 60 Quadratmeter. Also Kaltmiete 1300, genau. 60 Quadratmeter. In welchem Stadtteil? Ja, hier in dem Viertel, Haidhausen. Eins der teuersten Viertel Münchens. Äh, aktuell zahle ich 1180. Für wie Für wie viele Quadratmeter? 28 Quadratmeter. Es klingt erstmal sehr hoch, aber das ist direkt um die Ecke. So zentral, ich liebe es einfach und es lohnt sich für mich tatsächlich, würde ich sagen. Welcher Stadtteil ist das hier? Äh, Maxvorstadt oder halt Univiertel. Ja. das eine ganze Wohnung für dich oder ein Zimmer? Äh, eine ganze Wohnung. Oh, Mieten in München sind sehr hoch, aber ich hatte Glück, ich habe ein sehr schönes Zimmer für 650 Euro. Mhm, wie groß ist dein Zimmer? In einer WG, vermute ich? Es ist in einer Mehrgenerationen-WG, also ich wohne bei einem älteren Ehepaar im Anbau und habe da mein eigenes Wohnzimmer, Schlafzimmer und Badezimmer. Es sind 40 Quadratmeter und nutze die Küche mit denen gemeinsam. Wow, das ist ja cool. Und in welcher Gegend? Im Hasengarten, also ein bisschen ab vom Schuss. Dafür mit Garten. 2,53 Warm oder kalt? Alles mit Land. Für wie viel ",
+  "tx": "Immer wieder höre ich, dass München die teuerste Stadt Deutschlands sei. Heute bin ich hier und möchte herausfinden, wie hoch sind die Mieten hier wirklich? Los geht's. Ich möchte von dir wissen, wie hoch ist deine Miete? Uff. Da ist gebe ich tatsächlich keine Auskunft drüber. Warum nicht? Das ist einfach so ein Ding, genau wie mein Gehalt und so, das geht nicht so niemand groß was an. Okay. Wie hoch ist deine Miete? 13 Warm oder kalt? Warm. Für wie viel Quadratmeter? 35 Quadratmeter. Oh, das ist klein. In welcher Gegend? Hier gleich, hier vorne. Im Universitätsviertel? Genau. Äh, meine Miete … 650 Euro. Mhm, wie groß ist dein Zimmer? In einer WG, vermute ich? Es ist in einer Mehrgenerationen-WG, also ich wohne bei einem älteren Ehepaar im Anbau und habe da mein eigenes Wohnzimmer, Schlafzimmer und Badezimmer. Es sind 40 Quadratmeter und nutze die Küche mit denen gemeinsam. Wow, das ist ja cool. Und in welcher Gegend? Im Hasengarten, also ein bisschen ab vom Schuss. Dafür mit Garten. 2,53 Warm oder kalt? Alles mit Land. Für wie viel Quadratmeter? 114 Und in welchem Stadtteil? Ramersdorf-Perlach Was ist das so für ein Stadtteil? Eher teuer? Ganz normal, eigentlich günstig. Wie hoch … ein teureres Viertel. Ja, man muss aber sagen, ich wir wohnen dort schon seit 20 Jahren. Also diese Wohnung würde mit den 200 Quadratmetern und drei Balkonen würde heute Also, wenn man sie jetzt neu vermieten würde, müssten Sie noch mal wahrscheinlich sogar noch mal 2000 Euro locker drauflegen. Wie hoch ist eure Miete? Wir haben Wir haben uns einbetoniert. Was bedeutet das denn? Wir leben da schon sehr lange. Erst gelebt, jetzt leben wir zu zweit. Wie lange schon? 20 Jahre. Genau, das heißt, wir haben halt einfach uns überhaupt nicht bewegt, weil bewegen heißt in München sofort … Gegend so, ne? Ist eine ganz gute Gegend, ja. Also, Münchner Süden. Oh, ich zahle noch günstig, weil ich schon vor fast 30 Jahre dort wohne. Aber ich weiß, dass momentan ist katastrophal. Und verraten Sie, wie viel Sie ungefähr bezahlen? Ja, ich bin immer noch unter 1000 Euro, aber weil ich so was äh in einem alten Vertrag bin. Für wie viel Quadratmeter? Äh ungefähr 60. Und in welchem Stadtteil? Das ist Berg am Laim. Da haben Sie Glück bzw. lange Ausdauer. Ja, ja, du ich äh Sie, ich bin schon viele Jahre dort, aber ich bin auch ziemlich ähm alt und äh für junge Leute, das ist das ist … Sprache mit iTalki lernen wollt, dann meldet euch an und benutzt unseren Code Easy German 8, dann bekommt ihr 5 Euro Rabatt auf eure erste Stunde bei iTalki und den Code und den Link findet ihr auch hier unten. Okay, jetzt noch eine persönliche Frage, müssen Sie wissen, verraten Sie mir prozentual von Ihrem Einkommen, wie viel Sie für die Miete jeden Monat zahlen? Ungefähr ein Drittel, etwas weniger. Verrätst du mir, wie viel Prozent deines Einkommens du für die Miete aufwendest? Wir sind zu zweit, deswegen geht das, aber wahrscheinlich sind es bei mir trotzdem so 50 %. Das ist eigentlich … bleibt nicht mehr viel. Und wie hast du dieses Zimmer in dem Mehrgenerationenhaus gefunden? Tatsächlich über WG-gesucht. Was ist das? Wie funktioniert das? Ja, also einfach Webseite, da kann man Gesuche einstellen oder eben direkt selber suchen, was andere Leute reingestellt haben und da kann man WG-Zimmer finden. Wie hast du diese Wohnung gefunden? Durch einen Kunden von mir. Der ist ausgezogen und hat er mich weiterempfohlen. In welchem Beruf? Im Friseur, ich bin Friseur, alles mein Kunde. Und dann hast du das geteilt mit allen deinen Kunden, dass du eine Wohnung suchst? Ne, ehrlich gesagt … ging das, dann haben Sie sie sofort bekommen? Ja. Das ist sehr schön, auch in der heutigen Zeit noch funktioniert über die Zeitung. Klar, warum nicht? Wie hast du die Wohnung ursprünglich gefunden? Über Vitamin B, also Freunde. Ich habe hier im angefangen zu studieren damals und bin in eine WG dort eingezogen, bin im Haus mehrmals umgezogen, von einer 70 Quadratmeter Wohnung auf eine 30 Quadratmeter Wohnung, nach oben. In dieser 30 Quadratmeter Wohnung durften wir dann einen Durchbruch netterweise machen mit unserem ehemaligen Vermieter, der leider verstorben ist. Und ähm haben jetzt … ist die der Freund äh der Tochter einer Freundin von mir gewesen. So war das. Noch mal? Ja. Der Freund einer Tochter einer Freundin von mir. So eine gute Übung für den Genitiv. Und wie hast du dein WG-Zimmer gefunden? Über so einen peinlichen ähm Insta- äh Story-Aufruf und dann hat eine Freundin darauf geantwortet und dann hat sie mir eben gesagt, dass jemand auszieht und dann ähm ja, habe ich das Zimmer bekommen. Das ist jetzt interessant, weil super viele Leute mir gesagt haben, Social Media. Also, du hast eine Story gepostet bei Instagram, ich suche ein WG-Zimmer und dann hat sich … und Für Studentenzimmer. Genau, Studentenzimmer und ihr müsst auf jeden Fall wissen, wie ihr euch finanziert werdet, weil es wird nicht relativ so schnell gehen mit BAföG, das wissen ja fast mittlerweile alle. Und ja, also, wenn du davor schon weißt, wie du dich finanzierst, dann kannst du besser klarkommen tatsächlich in München. Also, ich würde den äh Zureisenden raten, mehrere Leute zu suchen, alt, jung und so weiter und dann versuchen, ein Mehrgenerationenhaus zu machen, weil das finde ich eine coole Sache. Und dann wirklich schauen, was kann man irgendwie teilen, wie kann man … Sie mir denn empfehlen? Ich würde Ihnen Erfurt empfehlen, Leipzig, Dresden. Ich würde Ihnen den Osten empfehlen. Toll. Westen, Ravensburg, sowas, diese kleineren schönen Städte. Puh, stolze Preise hier in München. Wie die Lage in Berlin ist, seht ihr in diesem Video, denn Paulina hat vor einem Jahr die gleiche Frage in Berlin gestellt. Gibt es noch andere Städte, wo wir diese Frage mal stellen sollten? Schreibt uns mal einen Kommentar. Und wenn ihr mit uns über das Leben in Deutschland chatten möchtet auf Discord, dann werdet ein Easy German Mitglied. Vielen Dank fürs Zuschauen und bis bald.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.778
+  "src": "auto"
  },
  "uN1Zx-Ia-SE": {
   "channel": "MrWissen2go",
@@ -5887,7 +6022,7 @@
  "nkhAHUUJxFo": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-03T15:50:53+00:00",
+  "checked": "2026-11-11T00:25:29+00:00",
   "title": "Prüfungstipps B2+ telc Goethe ösd [Video aus dem Archiv]",
   "duration": 773,
   "published": "20260928",
@@ -5895,73 +6030,10 @@
   "spoken_v": 2,
   "pace": 132.0,
   "rare": 0.0489,
+  "var": 0.801,
   "speech_s": 772.0,
   "tokens": 1698,
   "kw": [
-   [
-    "diskussionsrunde",
-    "eine sie haben an einer Diskussionsrunde",
-    367,
-    373,
-    3.02,
-    5
-   ],
-   [
-    "heimatland",
-    "Heimatland dann solltest du zumindest Problem und Heimatland vielleicht anders",
-    321,
-    331,
-    3.74,
-    6
-   ],
-   [
-    "überlegst",
-    "Aufgabe gelesen hast überlegst du sofort",
-    173,
-    180,
-    2.93,
-    3
-   ],
-   [
-    "vorbereitest",
-    "vorbereitest das heißt es ist B2 Goethe",
-    63,
-    70,
-    2.11,
-    2
-   ],
-   [
-    "prüfungsvorbereitung",
-    "hast bei der Prüfungsvorbereitung damit ich dir vielleicht noch den einen oder",
-    757,
-    765,
-    2.36,
-    2
-   ],
-   [
-    "umformulieren",
-    "umformulieren du kannst sagen ich hatte die",
-    143,
-    152,
-    2.37,
-    2
-   ],
-   [
-    "wortschatz",
-    "ausreichender Wortschatz für B2 ich würde sagen bis Niveau B1 kannst du das",
-    244,
-    255,
-    3.6,
-    4
-   ],
-   [
-    "lektion",
-    "Lektion 9 von unserem Crashkurs fehlerfrei und jetzt kommen die",
-    3,
-    12,
-    3.64,
-    4
-   ],
    [
     "möchte",
     "sonst ich möchte euch heute einen",
@@ -5977,14 +6049,6 @@
     0,
     5.48,
     12
-   ],
-   [
-    "prüfung",
-    "Beispiele für die Prüfung auf die ihr",
-    59,
-    64,
-    4.63,
-    11
    ],
    [
     "okay",
@@ -6003,34 +6067,138 @@
     9
    ],
    [
-    "weiter",
-    "weiter ich gebe euch solche Tipps auch",
-    23,
-    32,
-    5.75,
+    "prüfung",
+    "Beispiele für die Prüfung auf die ihr",
+    59,
+    64,
+    4.63,
+    11
+   ],
+   [
+    "heimat",
+    "zumindest Heimat sagen okay oder diese Schwierigkeit ist auch in",
+    330,
+    340,
+    4.73,
+    4
+   ],
+   [
+    "persönliche",
+    "Sie Ihre persönliche Meinung dann schreibst du nicht hiermit möchte ich",
+    218,
+    225,
+    4.62,
+    4
+   ],
+   [
+    "wichtigen",
+    "einer sehr wichtigen Verpflichtung in ihrem Heimatland können Sie die Stelle",
+    474,
+    482,
+    4.62,
+    4
+   ],
+   [
+    "äusserungen",
+    "",
+    0,
+    0,
+    4.18,
     8
    ],
    [
-    "wichtig",
-    "ÖSD aber mir ist es wichtig dass ihr das",
-    48,
-    54,
-    5.29,
+    "schreibst",
+    "Äußerungen und dann schreibst Du bitte",
+    210,
+    216,
+    4.03,
     6
    ],
    [
-    "stelle",
-    "schreiben sie haben eine Stelle in einem",
-    469,
-    475,
-    5.22,
+    "formulierung",
+    "Möglichkeit hast diese Formulierung zu verwenden also ich spreche ja immer",
+    107,
+    117,
+    4.02,
     6
+   ],
+   [
+    "heimatland",
+    "Heimatland dann solltest du zumindest Problem und Heimatland vielleicht anders",
+    321,
+    331,
+    3.74,
+    6
+   ],
+   [
+    "diskussionsrunde",
+    "eine sie haben an einer Diskussionsrunde",
+    367,
+    373,
+    3.02,
+    5
+   ],
+   [
+    "statements",
+    "folgende Statements also Statements benutzt man letztendlich auch im",
+    166,
+    174,
+    3.45,
+    3
+   ],
+   [
+    "prüfer",
+    "ist eine Fähigkeit die die Prüfer und",
+    229,
+    236,
+    3.54,
+    2
+   ],
+   [
+    "talkshow",
+    "haben an einer Talkshow mit dem Thema",
+    93,
+    98,
+    3.51,
+    2
+   ],
+   [
+    "überlegst",
+    "Aufgabe gelesen hast überlegst du sofort",
+    173,
+    180,
+    2.93,
+    3
+   ],
+   [
+    "aufgabenstellungen",
+    "hat wie ihr mit Aufgabenstellungen umgeht ich habe hier ein paar",
+    36,
+    43,
+    2.76,
+    2
+   ],
+   [
+    "umformulieren",
+    "umformulieren du kannst sagen ich hatte die",
+    143,
+    152,
+    2.37,
+    2
+   ],
+   [
+    "prüfungsvorbereitung",
+    "hast bei der Prüfungsvorbereitung damit ich dir vielleicht noch den einen oder",
+    757,
+    765,
+    2.36,
+    2
    ]
   ],
-  "tx": "hallo meine Lieben heute sind wir bei Lektion 9 von unserem Crashkurs fehlerfrei und jetzt kommen die Lektionen die ihr wahrscheinlich eher weniger erwartet habt ihr habt wahrscheinlich gedacht ich werde euch jetztzähen ja benutze lieber passiv und nicht was weiß ich irgendwas anderes oder benutzt das benutzt das und so weiter ich gebe euch solche Tipps auch aber solche Tipps findet ihr überall sonst ich möchte euch heute einen besonderen Tipp geben der damit zu tun hat wie ihr mit Aufgabenstellungen umgeht ich habe hier ein paar Aufgabenstellungen ausgedruckt ich glaube das ist eine Mischung aus B2 Goethe und B2 ÖSD aber mir ist es wichtig dass ihr das Prinzip versteht deswegen möchte ich euch folgendes bitten zu tun für diese Lektion schreibt bitte ein paar eigene Beispiele für die Prüfung auf die ihr euch vorbereitet oder auf die du dich vorbereitest das heißt es ist B2 Goethe oder es ist C1 take oder es ist Test da und so weiter ich kann jetzt nicht die Beispiele aus allen Prüfungen bringen aber du willähst deine Prüfung und machst dann das was ich dir in diesem Video erzählen werde für deine Prüfung okay also äh eine ganz ganz wichtige Sache du hast immer die Aufgabenstellung z.B äh das ist die schriftliche Aufgabe sie haben an einer Talkshow mit dem Thema Jugendliche und Schulden teilgenommen dabei felen folgende Äußerungen so was ganz ganz wichtig ist ab Niveau B2 vergiss dass du die Möglichkeit hast diese Formulierung zu verwenden also ich spreche ja immer wieder über Synonyme und wie viele synony Synonyme man verwenden sollte und so weiter was auf keinen Fall geht ist dass du in der Prüfung sagst als Einleitung z.B zu deinem Text ich habe an einer Talkshow mit dem Thema Jugendliche und Schulden teilgenommen dabei vielen folgende Äußerungen das also vergiss es g",
+  "tx": "hallo meine Lieben heute sind wir bei Lektion 9 von unserem Crashkurs fehlerfrei und jetzt kommen die Lektionen die ihr wahrscheinlich eher weniger erwartet habt ihr habt wahrscheinlich gedacht ich werde euch jetztzähen ja benutze lieber passiv und nicht was weiß ich irgendwas anderes oder benutzt das benutzt das und so weiter ich gebe euch solche Tipps auch aber solche Tipps findet ihr überall sonst ich möchte euch heute einen besonderen Tipp geben der damit zu tun hat wie ihr mit Aufgabenstellungen umgeht ich habe hier ein paar Aufgabenstellungen ausgedruckt ich glaube das ist eine Mischung … erzählen werde für deine Prüfung okay also äh eine ganz ganz wichtige Sache du hast immer die Aufgabenstellung z.B äh das ist die schriftliche Aufgabe sie haben an einer Talkshow mit dem Thema Jugendliche und Schulden teilgenommen dabei felen folgende Äußerungen so was ganz ganz wichtig ist ab Niveau B2 vergiss dass du die Möglichkeit hast diese Formulierung zu verwenden also ich spreche ja immer wieder über Synonyme und wie viele synony Synonyme man verwenden sollte und so weiter was auf keinen Fall geht ist dass du in der Prüfung sagst als Einleitung z.B zu deinem Text ich habe an einer … das heißt sobald du die Aufgabe gelesen hast überlegst du sofort wie kann ich sie anders formulieren okay wir schauen das jetzt gleich mal oder bevor wir zur nächsten Aufgabe gehen es sind ja immer in jeder Prüfung so Unterpunkte geschrieben ja sowas wie was denken sie über diese Äußerungen wenn das T B2 wäre dann würde würde da sowas stehen schreiben Sie womit sie unzufrieden waren wenn es ein Beschwerdebrief ist z.B ja das heißt du liest die Aufgabe wie denken sie über diese Äußerungen und dann schreibst Du bitte nicht ich denke über diese Äußerungen oder wenn das steht begründen Sie … der Aufgabe übernehmen und dann ist es wichtig dass du verstehst was von dir verlangt wird aber hier wenn hier steht beschreiben Sie eigene Erfahrungen oder Erfahrungen von Freunden zum Thema dann schreibst du nicht ich möchte eigene Erfahrungen beschreiben es geht nicht darum dass du das Wort Erfahrungen nicht benutzen darfst aber versuch wenigstens wenigstens ein anderes Verb zu benutzen ja also ich möchte im Folgenden auf eigene Erfahrungen zurückgreifen z.B ja aber sag nicht ich möchte die Erfahrungen beschreiben ich denke hier bei diesem Tipp von mir ist es wirklich wichtig dass … ist auch in meiner Heimat zu beobachten damit zeigst du schon mal dass du ein Synonym für Problem kennst also Schwierigkeit dass du weißt dass es das Heimatland ist aber die Heimat und so weiter das heißt die Prüfung dient dazu um deinen Wortschatz und seine korrekte Anwendung zu überprüfen wenn du nicht schaffst genügend Wortschatz in dieser Prüfung zu demonstrieren dann denken die Prüfer dass du nicht genug kannst schauen wir noch eine sie haben an einer Diskussionsrunde mit dem Thema sollte das Handwerk staatlich subventioniert werden teilgenommen dabei vielen folgende äußerungen … arbeitest dass du in der Prüfung trotz Stress und Aufregung in der Lage bist diese Formulierung gleich im Kopf umzuswitchen das heißt du liest die Aufgabe und diese Wörter die da stehen sollten in deinem Kopf sofort verschwinden okay ich weiß es ist eine komische Sache aber es es geht wirklich um Prüfungen und was in den Prüfungen von dir erwartet wird so und danach die Punkte wiederholen sich es ist auch wieder wie denken sie über blablabla begründen sie ihre persönliche Meinung wobei persönliche Meinung das ist so wie tote Leiche die Meinung kann nur persönlich sein sie kann nicht … sehr geehrte Frau Schumann aufgrund einer sehr wichtigen Verpflichtung in meinem Heimatland blablabla auf keinen Fall das heißt du überlegst welche Verpflichtung könnte es denn sein du schreibst da ich da erlicherweise ich weiß es nicht beim beim Begräbnis meiner Tante anwesend sein muss oder es gibt nicht sehr viele Events die wirklich als Entschuldigung gelten warum man einen Job nicht antritt aber es ist meistens sowas wie okay Hochzeit ist glaube ich keine gute Entschuldigung Trauerfall was was immer gut funktioniert aufgrund eines Trauerfalls in meiner Heimat und so weiter dann … ich bitte vielmals um Entschuldigung zu meinem großen Bedauern kann ich nicht äh ne meine kann ich die Stelle nicht antreten und so weiter erklären Sie den Grund warum sie die Stelle im Moment nicht antreten können vielleicht auch dieses antreten du musst zeigen dass du das Wort verstanden hast aber du musst es nicht benutzen das heißt ähm bedauerlicherweise kann ich nicht zum was weiß ich 11 wie besprochen mit der Arbeit beginnen da ich an dieser Stelle beginnen ist immer ein bisschen formeller als anfangen anfangen ist so das alltagsdeutsch beginnen ist eine Stufe höher machen sie einen … du übst dafür indem du synonymische Konstruktionen sammelst das heißt du lernst nicht einzelne Wörter sondern du nimmst einfach so einen Satz wie bedanken Sie sich für das Angebot und schreibst drei Formulierungen wie kann man sich für etwas bedanken oder wie kann man sich entschuldigen oder so du musst einen Wortschatz parat haben der wirklich vielfältig ist und das ist am Beispiel von B2 aber natürlich für C1 und C2 gilt es noch mehr hier ist gerade Sherlock der Angst hat vor weiß ich nicht Wetter okay genau das waren so die wichtigen Sachen ich möchte Dich bitten folgendes zu machen … mindestens drei aufgabenformulierungen nimmst und sie einfach umformulierst okay poste das in die Gruppe wir werden das auf jeden Fall korrigieren und schauen ob das richtig ist okay das war's für heute das war die Lektion ich freue mich auf deine Beiträge in der Gruppe und ansonsten darfst du mir natürlich gerne eine E-Mail schreiben und erzählen womit genau du Probleme hast bei der Prüfungsvorbereitung damit ich dir vielleicht noch den einen oder anderen Tipp geben kann und solange wünsche ich dir viel Erfolg bei der Prüfungsvorbereitung und wir sehen uns in Lektion 10 ciao ciao",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8282
+  "src": "auto"
  },
  "pmSeJRqry6c": {
   "channel": "Natürlich German",
@@ -7831,7 +7999,7 @@
  "OAJrELY_4dE": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-04T03:46:28+00:00",
+  "checked": "2026-11-11T00:48:03+00:00",
   "title": "Caillou und die Welpen | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3526,
   "published": "20260913",
@@ -7839,73 +8007,10 @@
   "spoken_v": 2,
   "pace": 118.6,
   "rare": 0.0936,
+  "var": 0.8401,
   "speech_s": 3047.5,
   "tokens": 6024,
   "kw": [
-   [
-    "rosy",
-    "Rosy schläft noch. Komm, steig ein und",
-    211,
-    218,
-    2.32,
-    45
-   ],
-   [
-    "mami",
-    "Mami. Hörst du, da ist einer von ihnen.",
-    24,
-    30,
-    3.61,
-    44
-   ],
-   [
-    "papi",
-    "Hurra! Gut gemacht, Papi. Oh, mein Flugzeug.",
-    331,
-    343,
-    3.27,
-    31
-   ],
-   [
-    "rosi",
-    "Rosi hungrig. Dann fangen wir mit dem Picknick an.",
-    295,
-    302,
-    3.09,
-    24
-   ],
-   [
-    "spieldose",
-    "Spieldose, als ich noch klein war.",
-    829,
-    835,
-    2.07,
-    11
-   ],
-   [
-    "kau",
-    "Willst du mit ihnen spielen? Kau",
-    39,
-    44,
-    2.96,
-    14
-   ],
-   [
-    "hundebaby",
-    "Ein Hundebaby. Ein Z 3.",
-    30,
-    42,
-    2.08,
-    6
-   ],
-   [
-    "hinkel",
-    "Gehen wir jetzt Mr. Hinkel helfen?",
-    3,
-    9,
-    2.52,
-    7
-   ],
    [
     "hast",
     "wo hast du dich denn versteckt?",
@@ -7939,42 +8044,138 @@
     24
    ],
    [
-    "glaube",
-    "Ich glaube, sie mögen es auch. Mr.",
-    179,
-    187,
-    5.39,
-    23
+    "guck",
+    "Mami, guck mal, Kühe. Können wir",
+    238,
+    245,
+    4.37,
+    9
    ],
    [
-    "nein",
-    "Nein, Mami. Kaju fand, dass er schon viel zu groß",
-    671,
-    678,
-    5.52,
-    21
+    "leo",
+    "einfiel, dass Leo heute eine Valentinstagparty gab. Ich muss nachher",
+    2317,
+    2324,
+    4.27,
+    9
    ],
    [
-    "hallo",
-    "Hallo, Mr. Hinkel. Hallo. Schön, dass",
-    11,
-    16,
-    5.06,
-    21
+    "sieh",
+    "Sieh mal, Mami, ich habe Geld.",
+    662,
+    667,
+    4.23,
+    7
    ],
    [
-    "schön",
-    "Hallo, Mr. Hinkel. Hallo. Schön, dass",
-    11,
-    16,
-    5.52,
-    20
+    "ball",
+    "Ball. Wo bist du?",
+    113,
+    122,
+    4.64,
+    6
+   ],
+   [
+    "mami",
+    "Mami. Hörst du, da ist einer von ihnen.",
+    24,
+    30,
+    3.61,
+    44
+   ],
+   [
+    "elefanten",
+    "Und heute sehen wir uns Elefanten im Zoo",
+    3345,
+    3349,
+    3.88,
+    11
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, Kühe. Können wir",
+    238,
+    245,
+    3.9,
+    10
+   ],
+   [
+    "wiedersehen",
+    "gehen. Auf Wiedersehen. Vorsicht.",
+    351,
+    355,
+    4.11,
+    8
+   ],
+   [
+    "papi",
+    "Hurra! Gut gemacht, Papi. Oh, mein Flugzeug.",
+    331,
+    343,
+    3.27,
+    31
+   ],
+   [
+    "rosi",
+    "Rosi hungrig. Dann fangen wir mit dem Picknick an.",
+    295,
+    302,
+    3.09,
+    24
+   ],
+   [
+    "gilbert",
+    "Gilbert. Milch?",
+    1079,
+    1086,
+    3.58,
+    11
+   ],
+   [
+    "picknick",
+    "sollte ein großes Picknick veranstaltet werden.",
+    198,
+    204,
+    3.48,
+    10
+   ],
+   [
+    "rosy",
+    "Rosy schläft noch. Komm, steig ein und",
+    211,
+    218,
+    2.32,
+    45
+   ],
+   [
+    "kau",
+    "Willst du mit ihnen spielen? Kau",
+    39,
+    44,
+    2.96,
+    14
+   ],
+   [
+    "spieldose",
+    "Spieldose, als ich noch klein war.",
+    829,
+    835,
+    2.07,
+    11
+   ],
+   [
+    "clementine",
+    "Das war gerade Clementine am Telefon.",
+    1882,
+    1886,
+    2.79,
+    8
    ]
   ],
-  "tx": "Gehen wir jetzt Mr. Hinkel helfen? Ja, wir bauen eine Hundehütte. Eine Hundehütte? Hallo, Mr. Hinkel. Hallo. Schön, dass Sie kommen konnten. Und K ist auch da. Hallo. Wo ist denn der Hund? Kaju? Hallo, Mr. Hinkel. Ich habe nicht einen, sondern drei Hunde. Zwei Welpen und die Mami. Hörst du, da ist einer von ihnen. Ein Hundebaby. Ein Z 3. Willst du mit ihnen spielen? Kau Kau war begeistert, dass er mit den Welpen spielen durfte. Er mochte sie sehr gern. Doch manchmal war er ein bisschen unsicher, wenn er mit Hunden zusammen war. Das ist ein braves Mädchen, Mimi. Na, geh schon. Ja, mein Mädchen, das ist die Mami. Hallo, Mimi. Sie mag dich. Ich wusste gar nicht, dass sie eine Hundezucht eröffnen wollen. Ich pass nur auf sie auf. Die Hunde gehören meinem Freund, der gerade umzieht. Die Hundeütte ist eine Überraschung für ihn. Kou war immer noch ein bisschen vorsichtig, aber er fand die Welpen einfach zu süß. Sie waren so lustig. Ah, die sind ganz aufgeregt, weil sie mit dir spielen wollen. Oh, wo ist das Hundebaby mit dem Fleck geblieben, Mr. Hinkel? Es kann nicht weit weg sein. Bestimmt versteckt es sich. Dann werde ich es mal suchen. Viel Spaß. Wo bist du Kau? Machte es unheimlich Spaß mit dem Welpen zu spielen. Deshalb vergaß er ganz den anderen zu suchen. Aber dann fiel es ihm wieder ein. Wo ist denn dein Baby mit dem Fleck? Das ist doch kein Hundebaby, das ist ein Ball. Wo bist du? Ich kann das Hundebaby einfach nicht finden. Mr. Hinkel. Mach dir keine Sorgen. Seine Mami passt immer gut auf ihre Kleinen auf. Wahrscheinlich spielt das Hundebaby irgendwo herum, aber ich höre es. Hüchen, Hündchen, wo hast du dich denn versteckt? Da bist du ja. Der Welpe spielte Verstecken und K mochte dieses Spiel. Habt ihr das Hundebaby gesehen? Es ist darüber gerannt. Ich hab es nicht g",
+  "tx": "Gehen wir jetzt Mr. Hinkel helfen? Ja, wir bauen eine Hundehütte. Eine Hundehütte? Hallo, Mr. Hinkel. Hallo. Schön, dass Sie kommen konnten. Und K ist auch da. Hallo. Wo ist denn der Hund? Kaju? Hallo, Mr. Hinkel. Ich habe nicht einen, sondern drei Hunde. Zwei Welpen und die Mami. Hörst du, da ist einer von ihnen. Ein Hundebaby. Ein Z 3. Willst du mit ihnen spielen? Kau Kau war begeistert, dass er mit den Welpen spielen durfte. Er mochte sie sehr gern. Doch manchmal war er ein bisschen unsicher, wenn er mit Hunden zusammen war. Das ist ein braves Mädchen, Mimi. Na, geh schon. Ja, mein Mädchen, … Durst? Ich habe was ganz Besonderes für euch. Das war eins von Kus Lieblingsgetränken. Schokoladenmilch. Na, schmeckt sie dir Kaju? Und was heißt das? Das heißt, ich mag sie sehr gern. R auch. Hallo, Omi. Hallo, Kaju. Kajus Mutter hatte ihn und Rosy an diesem Nachmittag zu den Großeltern gebracht. Was ist das? Das ist Opas alte Bowlingtrophäe. Er hat den Preis gewonnen, weil er der allerbeste Spieler war. Ja, ich war damals ein recht guter Bowlingspieler. Los, komm mit. Ich glaube, meine Bowlingkugel muss hier noch irgendwo sein. Das war der merkwürdigste Ball, den Kaju je gesehen hatte. … von dem Mädchen angemalt war. Alles voll mit Sternen und Kreisen. Er wollte, dass sein Gesicht auch angemalt wird. Du kannst dich auch so anmalen lassen. Da ist eine Frau, die malt allen die Gesichter an. Sie ist da drüben. Aber es ist besser, wenn du erstmal deine Mama fragst. Das kostet nämlich Geld. Mami, Mami, darf ich auch angemalt werden? Ich habe Geld. Ciao. Darf ich bitte? K war glücklich, dass sein Gesicht auch angemalt wurde und er war stolz, dass er das mit seinem eigenen Geld bezahlen konnte. Pie, das kriegen Sie zurück und einen schönen Tag noch. Diesen Luftballon bringe ich … mit Müsli. Kau hatte ein schlechtes Gewissen, aber er hatte die Milcher nicht mit Absicht verschüttet. Zum Glück fiel ihm dann ein, woher man Milch kriegen könnte. Wir können zum Kaufmann gehen und Milch holen. Das ist eine gute Idee. Kuk, komm, wir ziehen uns an. Wenn ihr einkaufen geht, bringt doch bitte Brot mit. Ich werde Rosy inzwischen was anderes zu essen geben. Du gehst viel zu schnell. Mami, sieh mal. Kaju fand die Zeichnung jetzt viel schöner, weil es eine fröhliche Sonne war. Danke schön. Nicht so schnell. Kaju, du hast nicht gesagt rotes Licht. Kaju machte dieses Spiel großen … wie du war. Ein Blockhaus ist ein Haus, das ganz aus Holz gebaut ist. Wo ist es? Wir müssen erst ein Stück gehen, bevor du es sehen kannst. Hier entlang und halte Augen und Ohren offen. In der Natur warten viele Überraschungen auf dich. Es dauerte nicht lange, bis Kaju seine erste Überraschung erlebte. Papa, guck mal. Sie ist weg. Auf diese Art und Weise schützen sich die Schnecken. Vielleicht hat sie sich von dir erschreckt. Hier ist alles noch genauso, wie ich es in Erinnerung habe. Da ein Boot. Das ist nicht irgendein Boot, das ist ein Kanu. Und wir werden damit über den Seerudern bis zum … das ist ein schönes Foto. Du hast einen Reier gesehen. Guck mal, Mami, ich habe dir einen Kuss geschickt. Das war gerade Clementine am Telefon. Sie hat ein neues Haustier und hat uns eingeladen, es anzusehen. Wollen wir hingehen? Aha. Kaju konnte es gar nicht erwarten, mit Clementines Haustier zu spielen. Ich weiß, Clementine hat keine Katze gekriegt. Rat doch mal, was es ist. K hatte einen Kater. Gilbert. Was für Haustiere gab es sonst noch? Ein Hund? Das ist richtig. Ein Hund ist auch ein Haustier, aber sie hat keinen Hund bekommen. Rat noch mal. Guck mal, Mami. Oh, du meine Güte. … geht. Na komm, jetzt gehen wir wieder zu deiner Mutter. Du hast ihn gefunden. K hatte so viel Spaß gehabt, die Enten zu beobachten, dass er seinen Ball völlig vergessen hatte. Wenn ich eine Ente wäre, könnte ich hinüber schwimmen und den Ball holen. Das hast du toll gemacht. Ich werde ihn tragen. Komm mit. Ich glaube, wir müssen dich wieder sauber machen. Nein, Papi, ich will jetzt nicht baden. Aber da wartet jemand auf dich in der Badewanne. Guten Morgen, Kaju. Guten Morgen. Alles Gute zum Valentinstag. Kau wurde ganz aufgeregt, als ihm einfiel, dass Leo heute eine Valentinstagparty gab. … wer ihm die Valentinskarte gemacht hatte. Bist du sicher, dass du schon an alle gedacht hast, die in frage kommen? Ich glaube, du hast jemanden vergessen. Ros. Rosi, hast du diese Karte für mich gemacht? Rosi gemacht. Wir haben schwer geschuftet an diesem großen Geheimnis, nicht wahr, Rosy? Danke. Alles Gute zum Valentinstag. Hier, ich habe auch etwas für dich, Rosi. Lecker, danke sehr, Ku. Vielen Dank, Ku. auch Gilbert, warte auf mich. K hörte plötzlich ein komisches lautes Piepen. Er wollte herausfinden, was das war. Papi, das stinkt aber hier in der Küche. Ich weiß, mein Toast ist … Also dann, Rosy, Mittagsschläfchen. 5 4 3 2 1 Hast du das gesehen, Mami? Wir sind durch den Reifen geflogen. Könntet ihr beide vielleicht etwas leiser sein? Rosy hält gerade ihren Mittagsschlaf. Raketenstat sind aber laut. K gefiel das überhaupt nicht, dass er jetzt leise spielen musste, nur weil Rosy schlief. Du hast recht, die sind laut. Ähm, aber nachdem die Rakete gestartet ist, was passiert dann eigentlich oben im Weltraum? Keine Ahnung. Was denn? Tja, wenn ich im Weltraum wäre, dann würde ich mir meinen Weltraumanzug anziehen und einen Weltraumspaziergang machen. Wartet mal, ihr habt … Rosy, soll ich dich Huckepack nehmen und dann sehen wir uns die Elefanten an? Toll. Kayu konnte es kaum glauben. Endlich sah er die Elefanten und darüber war er sehr, sehr glücklich. Elefanten. Kaju konnte die Elefanten von seinem Platz sehr gut beobachten. Es waren wirklich die größten Tiere, die er jemals gesehen hatte. Die sind aber wirklich groß. Magst du die, Rosi? Das ist ein Babyelefant mit seinem Papielefant. Boah, der ist aber stark. Das Baby ist jetzt. Der Papielefant kommt jetzt näher. Und jetzt duscht er. Oh, er winkt uns. Er will uns hallo sagen, glaube ich. Elefant. ัo hallo",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8236
+  "src": "auto"
  },
  "U4gBYX9bin8": {
   "channel": "Deutsch mit Rieke",
@@ -8127,7 +8328,7 @@
  "6_c-BydRakA": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-04T22:14:40+00:00",
+  "checked": "2026-11-11T00:30:06+00:00",
   "title": "New Year’s Eve in Germany – How do Germans welcome the new year?│Intermediate German",
   "duration": 447,
   "published": "20221231",
@@ -8135,81 +8336,10 @@
   "spoken_v": 2,
   "pace": 102.9,
   "rare": 0.0924,
+  "var": 0.8097,
   "speech_s": 429.3,
   "tokens": 736,
   "kw": [
-   [
-    "blei",
-    "Okay, was ist Bleigießen? Das Wort Blei",
-    66,
-    74,
-    3.73,
-    16
-   ],
-   [
-    "glücksbringer",
-    "Tradition Nummer 4: Die Glücksbringer. An Silvester darf auch die Dekoration",
-    348,
-    359,
-    2.99,
-    5
-   ],
-   [
-    "sketch",
-    "Sketch, der jedes Jahr an Silvester bei",
-    288,
-    298,
-    3.41,
-    4
-   ],
-   [
-    "silvesterparty",
-    "einer Silvesterparty. Und was bei einer Party natürlich auch",
-    164,
-    173,
-    2.37,
-    2
-   ],
-   [
-    "silvester",
-    "heißen. Heute geht es um Silvester,",
-    11,
-    19,
-    3.92,
-    5
-   ],
-   [
-    "geschmolzen",
-    "dann, wenn das Blei geschmolzen ist,",
-    114,
-    122,
-    3.19,
-    2
-   ],
-   [
-    "erhitzt",
-    "der Flamme erhitzt. Das Blei, das feste",
-    106,
-    115,
-    3.38,
-    2
-   ],
-   [
-    "dinner",
-    "Tradition Nummer 3: Dinner for one. Die",
-    273,
-    281,
-    3.82,
-    3
-   ],
-   [
-    "z.b",
-    "Blei. Wenn es z.B. aussieht wie ein",
-    140,
-    147,
-    5.03,
-    5
-   ],
    [
     "euch",
     "Jahres. Ich werde euch heute ein paar",
@@ -8219,12 +8349,12 @@
     5
    ],
    [
-    "tradition",
-    "Tradition Nummer 1, das Bleigießen. Okay, was ist Bleigießen? Das Wort Blei",
-    61,
-    74,
-    4.63,
-    4
+    "z.b",
+    "Blei. Wenn es z.B. aussieht wie ein",
+    140,
+    147,
+    5.03,
+    5
    ],
    [
     "oben",
@@ -8243,6 +8373,14 @@
     4
    ],
    [
+    "tradition",
+    "Tradition Nummer 1, das Bleigießen. Okay, was ist Bleigießen? Das Wort Blei",
+    61,
+    74,
+    4.63,
+    4
+   ],
+   [
     "käse",
     "Und ganz zuletzt kommt der Käse oben",
     222,
@@ -8251,31 +8389,111 @@
     4
    ],
    [
-    "wasser",
-    "aber wir gießen hier nicht mit Wasser,",
-    81,
-    87,
-    5.32,
-    3
-   ],
-   [
     "one",
     "Tradition Nummer 3: Dinner for one. Die",
     273,
     281,
     4.65,
     3
+   ],
+   [
+    "fehlen",
+    "nicht fehlen darf, ist das Essen. Ein",
+    168,
+    176,
+    4.78,
+    2
+   ],
+   [
+    "blei",
+    "Okay, was ist Bleigießen? Das Wort Blei",
+    66,
+    74,
+    3.73,
+    16
+   ],
+   [
+    "giessen",
+    "",
+    0,
+    0,
+    4.16,
+    5
+   ],
+   [
+    "silvester",
+    "heißen. Heute geht es um Silvester,",
+    11,
+    19,
+    3.92,
+    5
+   ],
+   [
+    "dinner",
+    "Tradition Nummer 3: Dinner for one. Die",
+    273,
+    281,
+    3.82,
+    3
+   ],
+   [
+    "sketch",
+    "Sketch, der jedes Jahr an Silvester bei",
+    288,
+    298,
+    3.41,
+    4
+   ],
+   [
+    "gegossen",
+    "wird es in das kalte Wasser gegossen.",
+    117,
+    125,
+    3.56,
+    2
+   ],
+   [
+    "dekoration",
+    "An Silvester darf auch die Dekoration",
+    352,
+    359,
+    3.55,
+    2
+   ],
+   [
+    "erhitzt",
+    "der Flamme erhitzt. Das Blei, das feste",
+    106,
+    115,
+    3.38,
+    2
+   ],
+   [
+    "glücksbringer",
+    "Tradition Nummer 4: Die Glücksbringer. An Silvester darf auch die Dekoration",
+    348,
+    359,
+    2.99,
+    5
+   ],
+   [
+    "silvesterparty",
+    "einer Silvesterparty. Und was bei einer Party natürlich auch",
+    164,
+    173,
+    2.37,
+    2
    ]
   ],
-  "tx": "Hallöchen, jetzt ist es bald soweit. Das Jahr neigt sich dem Ende zu und bald werden wir das neue Jahr willkommen heißen. Heute geht es um Silvester, sprich die Feierlichkeiten am 31.12. Jahres. Ich werde euch heute ein paar deutsche Silvestertraditionen vorstellen. Viel Spaß. Natürlich ist Deutschland ein sehr vielseitiges Land und bei jedem Fest, dass wir feiern, sei es Weihnachten oder Karneval, gibt es unterschiedliche Traditionen je nach Region in Deutschland. Ich stelle euch heute vier Silvestertraditionen vor. die bei uns sehr typisch sind. Tradition Nummer 1, das Bleigießen. Okay, was ist Bleigießen? Das Wort Blei gießen besteht eigentlich aus zwei Wörtern, Blei und gießen. Blei ist ein Metall, das ist Blei und gießen ist das, aber wir gießen hier nicht mit Wasser, sondern wir gießen Blei. Okay, wie funktioniert also Bleigießen? Wir brauchen eine Schüssel mit kaltem Wasser, einen Löffel, ein kleines Feuer oder eine Kerze und Blei. Ich habe kein Blei. Ein kleines Stück Blei kommt auf den Löffel und dann wird das Blei über der Flamme erhitzt. Das Blei, das feste Stück Blei schmilzt dann natürlich und dann, wenn das Blei geschmolzen ist, wird es in das kalte Wasser gegossen. Das flüssige Blei wird nun sofort wieder fest und nimmt ganz komische Formen an. Das neueformte Blei soll nun die Zukunft der Person vorhersagen. Man interpretiert also die Form von dem Blei. Wenn es z.B. aussieht wie ein Herz, dann bedeutet das wohl, dass die Person, die das Blei gegossen hat, im neuen Jahr, im kommenden Jahr die große Liebe findet oder so. Tradition Nummer 2: Dasen. Das Bleießen wird oft mit mehreren Personen gemacht, z.P. bei einer Silvesterparty. Und was bei einer Party natürlich auch nicht fehlen darf, ist das Essen. Ein sehr beliebtes Silvestergericht ist das Raklett. Bei",
+  "tx": "Hallöchen, jetzt ist es bald soweit. Das Jahr neigt sich dem Ende zu und bald werden wir das neue Jahr willkommen heißen. Heute geht es um Silvester, sprich die Feierlichkeiten am 31.12. Jahres. Ich werde euch heute ein paar deutsche Silvestertraditionen vorstellen. Viel Spaß. Natürlich ist Deutschland ein sehr vielseitiges Land und bei jedem Fest, dass wir feiern, sei es Weihnachten oder Karneval, gibt es unterschiedliche Traditionen je nach Region in Deutschland. Ich stelle euch heute vier Silvestertraditionen vor. die bei uns sehr typisch sind. Tradition Nummer 1, das Bleigießen. Okay, was ist Bleigießen? Das Wort Blei gießen besteht eigentlich aus zwei Wörtern, Blei und gießen. Blei ist ein Metall, das ist Blei und gießen ist das, aber wir gießen hier nicht mit Wasser, sondern wir gießen Blei. Okay, wie funktioniert also Bleigießen? Wir brauchen eine Schüssel mit kaltem Wasser, einen Löffel, ein kleines Feuer oder eine Kerze und Blei. Ich habe kein Blei. Ein kleines Stück Blei kommt auf den Löffel und dann wird das Blei über der Flamme erhitzt. Das Blei, das feste Stück Blei schmilzt dann natürlich und dann, wenn das Blei geschmolzen ist, wird es in das kalte Wasser gegossen. Das flüssige Blei wird nun sofort wieder fest und nimmt ganz komische Formen an. Das neueformte Blei soll nun die Zukunft der Person vorhersagen. Man interpretiert also die Form von dem Blei. Wenn es z.B. aussieht wie ein Herz, dann bedeutet das wohl, dass die Person, die das Blei gegossen hat, im neuen Jahr, im kommenden Jahr die große Liebe findet oder so. Tradition Nummer 2: Dasen. Das Bleießen wird oft mit mehreren Personen gemacht, z.P. bei einer Silvesterparty. Und was bei einer Party natürlich auch nicht fehlen darf, ist das Essen. Ein sehr beliebtes Silvestergericht ist das Raklett. Beim Raklettessen wird ein Raklettofen auf den Tisch gestellt. Und ja, ich weiß, das sieht jetzt eher aus wie ein verrückter Burger, aber stellt euch einfach einen elektrischen Grill vor. Der Raklettofen hat hier in der Mitte eine Lücke, in die später die kleinen Pfänchen kommen. Auf dem Tisch werden auch unterschiedliche Sachen bereitgestellt. Üblich sind z.B. Pellkartoffeln, saure Gurken oder Essigzwiebeln, aber noch vieles mehr. Dann kann man sich aussuchen, was auf sein Pfänchen kommt. Und ganz zuletzt kommt der Käse oben drauf. Also, wenn du dir ausgesucht hast, was für Gemüse und andere Sachen auf dein Pfänchen kommen sollen, dann tust du am Ende den Käse oben drauf und dann schiebst du es hier in die Mitte in den Raklettofen rein. In dem Ofen wird das Pfänchen mit dem Essen erhitzt und der Käse beginnt zu schmelzen. Wenn der Käse geschmolzen ist, kann das Pfänchen nach ein paar Minuten wieder raus. Und voila, das erste Pfänchen ist fertig. Viele Raklettöfen haben hier oben auch einen Stein, auf dem man z.B. auch Fleisch braten kann. Also hier oben drauf brät dein Fleisch und hier in der Mitte wird dein Essen gebacken. Tradition Nummer 3: Dinner for one. Die Leute, die schon länger auf meinem Kanal dabei sind, haben vielleicht schon einmal von Dinner for One gehört. Dinner for One ist ein britischer Sketch, der jedes Jahr an Silvester bei uns im Fernsehen kommt. 1963 lief der Sketch zum allerersten Mal im deutschen Fernsehen und mittlerweile hat dieser kurze Sketch Kultstatus in Deutschland. 1988 kam diese Sendung in das Guinness Buch der Rekorde als weltweit am häufigsten wiederholte Fernsehproduktion. In diesem Sketch gibt es nur zwei Personen. Miss Sophie und ihr Butler James. Miss Sophie feiert ihren 90. Geburtstag in diesem Schauspiel. Aber wenn ihr mehr zu der Handlung hören wollt, dann schaut euch das Video an, dass ich dazu gemacht habe. Proced last year. Tradition Nummer 4: Die Glücksbringer. An Silvester darf auch die Dekoration aus Glücksbringern nicht fehlen. Ein Glücksbringer ist ein Gegenstand oder ein Mensch. oder ein Tier oder eine Pflanze, die Glück bringen soll. Typische Glücksbringer an Silvester sind das vier blättrige Kleeblatt, das Hufeisen, der Marienkäfer, der Fliegenpilz, Glückspfennige, der Schornsteinfäer oder Glücksschweine. Diese Glücksbringer gibt es in allen Arten und Formen, z.B. als Dekoration auf einer Silvesterparty oder Glücksschweine aus Marzipan. Man kann z.B. seinen Lieben, also die Leute in deinem Umfeld, die du sehr lieb hast und denen du viel Glück fürs neue Jahr wünscht, so einen Glücksbringer schenken. Also, das waren viel Silvestertraditionen, die in Deutschland gepflegt werden. Wie feiert ihr Silvester? Lasst es mich unten in den Kommentaren wissen. Also dann, ich wünsche euch einen guten Rutsch ins neue Jahr. Tschüss. He.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7722
+  "src": "auto"
  },
  "0kaJUblCR48": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-04T22:15:14+00:00",
+  "checked": "2026-11-11T00:33:25+00:00",
   "title": "German Numbers in Real Life | Heidelberg Vlog for Beginners",
   "duration": 535,
   "published": "20260705",
@@ -8283,73 +8501,10 @@
   "spoken_v": 2,
   "pace": 99.0,
   "rare": 0.0474,
+  "var": 0.7223,
   "speech_s": 524.2,
   "tokens": 865,
   "kw": [
-   [
-    "strassenbahn",
-    "",
-    0,
-    0,
-    3.92,
-    6
-   ],
-   [
-    "takes",
-    "understanding them fast takes practice. So if you want to train exactly that, I",
-    489,
-    499,
-    3.16,
-    2
-   ],
-   [
-    "plakat",
-    "ein Plakat und auf dem Plakat gibt es",
-    402,
-    409,
-    3.92,
-    4
-   ],
-   [
-    "ähm",
-    "und ähm ja, ich suche verschiedene",
-    82,
-    90,
-    4.12,
-    5
-   ],
-   [
-    "fahrradfahrer",
-    "das Auto und da der Fahrradfahrer ganz",
-    464,
-    469,
-    3.41,
-    2
-   ],
-   [
-    "bushaltestelle",
-    "Und jetzt habe ich eine Bushaltestelle",
-    232,
-    238,
-    3.6,
-    2
-   ],
-   [
-    "want",
-    "So if you want to train exactly that, I",
-    492,
-    499,
-    3.72,
-    2
-   ],
-   [
-    "getränk",
-    "Getränk gefunden. Und wir können gucken,",
-    165,
-    173,
-    3.83,
-    2
-   ],
    [
     "zahlen",
     "Zahlen auf Schildern, Zahlen",
@@ -8383,14 +8538,6 @@
     7
    ],
    [
-    "natürlich",
-    "Katrin und wir lernen natürlich Deutsch.",
-    36,
-    47,
-    5.62,
-    6
-   ],
-   [
     "fährt",
     "Fahrplan. Wann fährt der Bus hier? Und",
     244,
@@ -8399,31 +8546,87 @@
     6
    ],
    [
-    "you",
-    "So if you want to train exactly that, I",
-    492,
-    499,
-    4.84,
-    5
-   ],
-   [
     "bus",
     "gefunden. Hier stoppt der Bus, ein",
     234,
     240,
     4.72,
     5
+   ],
+   [
+    "trinken",
+    "wie viel Trinken in diesem Getränk ist.",
+    168,
+    177,
+    4.76,
+    4
+   ],
+   [
+    "german",
+    "German numbers are everywhere and understanding them fast takes practice.",
+    487,
+    496,
+    4.49,
+    4
+   ],
+   [
+    "strassenbahn",
+    "",
+    0,
+    0,
+    3.92,
+    6
+   ],
+   [
+    "ähm",
+    "und ähm ja, ich suche verschiedene",
+    82,
+    90,
+    4.12,
+    5
+   ],
+   [
+    "plakat",
+    "ein Plakat und auf dem Plakat gibt es",
+    402,
+    409,
+    3.92,
+    4
+   ],
+   [
+    "ups",
+    "Ups. Was möchten wir denn z.B. Ach, hier. Wir",
+    335,
+    344,
+    4.01,
+    2
+   ],
+   [
+    "fahrradfahrer",
+    "das Auto und da der Fahrradfahrer ganz",
+    464,
+    469,
+    3.41,
+    2
+   ],
+   [
+    "takes",
+    "understanding them fast takes practice. So if you want to train exactly that, I",
+    489,
+    499,
+    3.16,
+    2
    ]
   ],
-  "tx": "Zahlen auf Schildern, Zahlen im Supermarkt, Zahlen überall. Aber verstehst du die Zahlen, wenn ein Deutscher sie sagt? Heute schauen wir uns Heidelberg an und wir üben die Zahlen. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Wir lernen heute deutsche Zahlen. Wir gehen raus, wir gehen nach Heidelberg und wir suchen Zahlen. Wir suchen deutsche Zahlen und ja, üben sie. Bist du bereit? So, endlich habe ich einen Platz gefunden, wo es nicht ganz so laut ist, weil viele Leute schneiden das Gras. Sie machen das Gras kurz und dann ja ist es laut und ihr könnt mich nicht so gut verstehen. Aber ich bin jetzt auf dem Weg hier durch Heidelberg und ähm ja, ich suche verschiedene Zahlen und ich habe Oh, tatsächlich habe ich schon Zahlen gefunden. Schaut mal hier oben ähm auf diesem Schild. Es ist ein Schild für einen Parkplatz und es hat eine Nummer, weil genau ein bestimmtes Auto dort parken kann oder parken darf und ähm ja, da steht diese Nummer dran. Die eine Nummer ist 2246 35197 wie eine Telefonnummer, aber es ist eine Nummer für einen Parkplatz Ausweis oder einen Parkkausweis und die andere Nummer Und die andere Nummer 2045 82 495. Gut, gehen wir weiter. Schauen wir, was wir finden. Natürlich gibt es auch jede Menge Hausnummern, z.B. 47 bis 49. Wisst ihr, was ich jetzt gefunden habe? Niemand der seinen Müll nicht aufgeräumt hat. Ich habe hier einen, was ist das? Ein Durfslöscher. Nein, ein Ja, ein Getränk gefunden. Und wir können gucken, wie viel Trinken in diesem Getränk ist. Es sind 500 ml. Und oben auf der Getränkepackung steht ein Datum. Wie lange kannst du das Trinken trinken? Wie lange ist das Trinken gut? Das Mindesthaltbarkeitsdatum. Das ist das. Und wie ist das Datum? Kannst du es sagen? Und schaut mal, hier ist noch mal eine Zahl, eine ",
+  "tx": "Zahlen auf Schildern, Zahlen im Supermarkt, Zahlen überall. Aber verstehst du die Zahlen, wenn ein Deutscher sie sagt? Heute schauen wir uns Heidelberg an und wir üben die Zahlen. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Wir lernen heute deutsche Zahlen. Wir gehen raus, wir gehen nach Heidelberg und wir suchen Zahlen. Wir suchen deutsche Zahlen und ja, üben sie. Bist du bereit? So, endlich habe ich einen Platz gefunden, wo es nicht ganz so laut ist, weil viele Leute schneiden das Gras. Sie machen das Gras kurz und dann ja ist es laut und ihr könnt mich nicht so gut verstehen. Aber ich bin jetzt auf dem Weg hier durch Heidelberg und ähm ja, ich suche verschiedene Zahlen und ich habe Oh, tatsächlich habe ich schon Zahlen gefunden. Schaut mal hier oben ähm auf diesem Schild. Es ist ein Schild für einen Parkplatz und es hat eine Nummer, weil genau ein bestimmtes Auto dort parken kann oder parken darf und ähm ja, da steht diese Nummer dran. Die eine Nummer ist 2246 35197 wie eine Telefonnummer, aber es ist eine Nummer für einen Parkplatz Ausweis oder einen Parkkausweis und die andere Nummer Und die andere Nummer 2045 82 495. Gut, gehen wir weiter. Schauen wir, was wir finden. Natürlich gibt es auch jede Menge Hausnummern, z.B. 47 bis 49. Wisst ihr, was ich jetzt gefunden habe? Niemand der seinen Müll nicht aufgeräumt hat. Ich habe hier einen, was ist das? Ein Durfslöscher. Nein, ein Ja, ein Getränk gefunden. Und wir können gucken, wie viel Trinken in diesem Getränk ist. Es sind 500 ml. Und oben auf der Getränkepackung steht ein Datum. Wie lange kannst du das Trinken trinken? Wie lange ist das Trinken gut? Das Mindesthaltbarkeitsdatum. Das ist das. Und wie ist das Datum? Kannst du es sagen? Und schaut mal, hier ist noch mal eine Zahl, eine große 30 mitten auf der Straße. Und das ist die Geschwindigkeitsbegrenzung. Also, so schnell dürfen die Autos hier fahren. Sie dürfen nur 30 fahren und nicht schneller. Und hier sehen wir noch einmal die 30, aber es ist das Ende der 30er Zone. Das heißt, jetzt dürfen die Autos wieder schneller fahren. Und jetzt habe ich eine Bushaltestelle gefunden. Hier stoppt der Bus, ein Busstopp, eine Bushaltestelle, sagen wir. Und dort gibt es natürlich ein Fahrplan. Wann fährt der Bus hier? Und der Bus fährt nicht so oft hier. Es ist ein eine Haltestelle, wo der Bus nur in der Nacht anhält. Hier kann ich es dir zeigen. Der Bus fährt um 23:56 Uhr und dann um 0:26 Uhr und um 0:56 Uhr und um 1:26 Uhr und um 1:56 Uhr und um 2:56 Uhr. Er fährt also wirklich nur in der Nacht, vielleicht wenn die Straßenbahn nicht mehr fährt. Hier in der Nähe fährt nämlich auch eine Straßenbahn. Mal schauen, ob wir sie nachher noch sehen. Ich hoffe immer noch, dass eine Straßenbahn kommt, weil die Straßenbahn natürlich auch Zahlen hat. Sie hat eine Nummer, eine Straßenbahnummer und ich glaube, es ist 26, aber ähm ja, es kommt keine Straßenbahn, es kommt aber eine Haltestelle, eine Straßenbahnhaltestelle und dort werde ich hingehen. Ich gehe zur Straßenbahnhhaltestelle und dort gibt es ein Ticketautomat. Da gibt es auch Zahlen. So, die Tickets. Ups. Was möchten wir denn z.B. Ach, hier. Wir haben ein Datum. Der 9.6. Das ist heute und wir haben eine Uhrzeit. 14:45 Uhr. Jetzt weißt du ganz genau, wann ich dieses Video aufgenommen habe. Was finden wir denn noch hier z.B. hier, wenn ich eine Kurzstrecke kaufen möchte für einen Erwachsenen, dann kostet das 2,30 €. Das ist ein eine Zahl. Oder hier die Erwachsene, ein Erwachsene und kein Kind oder kein Hund. Wenn ich auch ein Kind möchte, ein Erwachsene und ein Kind, dann kostet es 3,90 €. Jetzt habe ich die ähm Straßenbahn entdeckt. Jetzt kommt sie und es ist tatsächlich die Nummer 26. Und ich habe noch etwas gedeckt auf der anderen Straßenseite. Ich muss warten, bis die Ampel grün wird. Da drüben ist ein Plakat und auf dem Plakat gibt es natürlich auch Zahlen. Ups, jetzt darf ich laufen und zwar ein Datum, wann ja das Festival stattfindet. Ich zeige es dir. Ja, und zwar ist es der 27. Juni 2026 oder der 27.6. 27.6.27. Juni 2026, also dieses Jahr natürlich. Und noch mal etwas habe ich gefunden. Es ist wieder ein Plakat und dieses Mal ist es eine Strecke mit Metern. Es sagt, wie weit das Auto von ja dem Fahrrad weg sein soll, der Abstand. Also nicht hier das Auto und da der Fahrradfahrer ganz nah zusammen. Das ist nicht gut für den Fahrradfahrer. Sie sollen viel Platz haben und deshalb gibt es dieses Plakat. Welche Zahlen sind das? Wir haben viele Zahlen gefunden und ich gehe jetzt wieder zurück nach Hause. German numbers are everywhere and understanding them fast takes practice. So if you want to train exactly that, I want to recommend you Zahlhaus which is a great tool for drilling German number comprehension. The link is in the description box and if you use my link also get a little discount. If looking for structured path to learn German in general, you also find link to my curriculum jumps at zero takes confident A1 A2 level. Wish you a great time with learning German and keep having fun. Bis dan. Tschüss.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7212
+  "src": "auto"
  },
  "hF5eJd9Xr-0": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-04T22:15:22+00:00",
+  "checked": "2026-11-11T00:35:40+00:00",
   "title": "My morning vlog in EASY and SLOW German / Beginner German Comprehensible Input A1",
   "duration": 511,
   "published": "20260905",
@@ -8431,89 +8634,10 @@
   "spoken_v": 2,
   "pace": 60.9,
   "rare": 0.0829,
+  "var": 0.6419,
   "speech_s": 416.0,
   "tokens": 422,
   "kw": [
-   [
-    "bananenbrot",
-    "ein Stück Bananenbrot und ein Kaffee.",
-    274,
-    285,
-    2.11,
-    3
-   ],
-   [
-    "spiegeleier",
-    "Wir essen Spiegeleier. Palina und ich, wir essen zwei",
-    221,
-    232,
-    2.47,
-    3
-   ],
-   [
-    "ladekabel",
-    "Ich nehme mein Ladekabel und packe das Ladekabel",
-    453,
-    464,
-    3.04,
-    3
-   ],
-   [
-    "geschirrspüler",
-    "Geschirrspüler aus. Dieses Geschirr",
-    155,
-    163,
-    3.05,
-    3
-   ],
-   [
-    "palina",
-    "mich und Palina. Wir essen Spiegeleier.",
-    218,
-    230,
-    2.4,
-    2
-   ],
-   [
-    "dehne",
-    "Sport und ich dehne mich. Das mache ich",
-    315,
-    326,
-    2.47,
-    2
-   ],
-   [
-    "geschirr",
-    "Dieses Geschirr ist sauber.",
-    157,
-    166,
-    3.67,
-    4
-   ],
-   [
-    "jam",
-    "muss heute Jam aufwecken. Jam schläft immer noch und ich wecke sie",
-    7,
-    20,
-    3.4,
-    3
-   ],
-   [
-    "küche",
-    "Als Nächstes gehe ich in die Küche.",
-    126,
-    136,
-    4.67,
-    6
-   ],
-   [
-    "sauber",
-    "Die Küche ist nicht sauber. Ich muss die Küche aufräumen und sauber",
-    139,
-    150,
-    4.46,
-    5
-   ],
    [
     "meinen",
     "Heute zeige ich euch meinen Morgen.",
@@ -8539,6 +8663,30 @@
     5
    ],
    [
+    "fast",
+    "Es ist jetzt fast 8 Uhr",
+    2,
+    8,
+    5.58,
+    3
+   ],
+   [
+    "küche",
+    "Als Nächstes gehe ich in die Küche.",
+    126,
+    136,
+    4.67,
+    6
+   ],
+   [
+    "sauber",
+    "Die Küche ist nicht sauber. Ich muss die Küche aufräumen und sauber",
+    139,
+    150,
+    4.46,
+    5
+   ],
+   [
     "nehme",
     "Ich nehme das dreckige Geschirr",
     193,
@@ -8555,18 +8703,106 @@
     3
    ],
    [
-    "fertig",
-    "So, die Dusche ist fertig. Jetzt muss ich mich nur noch anziehen",
-    386,
-    395,
-    5.02,
+    "laptop",
+    "Ich arbeite mit meinem Laptop. Das ist mein Laptop.",
+    438,
+    454,
+    4.17,
+    5
+   ],
+   [
+    "geschirr",
+    "Dieses Geschirr ist sauber.",
+    157,
+    166,
+    3.67,
+    4
+   ],
+   [
+    "badezimmer",
+    "Badezimmer. Das ist das Badezimmer.",
+    90,
+    98,
+    3.9,
     3
+   ],
+   [
+    "schrank",
+    "Schrank. Das ist der Schrank.",
+    176,
+    183,
+    4.14,
+    2
+   ],
+   [
+    "jam",
+    "muss heute Jam aufwecken. Jam schläft immer noch und ich wecke sie",
+    7,
+    20,
+    3.4,
+    3
+   ],
+   [
+    "geschirrspüler",
+    "Geschirrspüler aus. Dieses Geschirr",
+    155,
+    163,
+    3.05,
+    3
+   ],
+   [
+    "ladekabel",
+    "Ich nehme mein Ladekabel und packe das Ladekabel",
+    453,
+    464,
+    3.04,
+    3
+   ],
+   [
+    "packe",
+    "und packe das Ladekabel in meinen",
+    458,
+    467,
+    3.36,
+    2
+   ],
+   [
+    "spiegeleier",
+    "Wir essen Spiegeleier. Palina und ich, wir essen zwei",
+    221,
+    232,
+    2.47,
+    3
+   ],
+   [
+    "bananenbrot",
+    "ein Stück Bananenbrot und ein Kaffee.",
+    274,
+    285,
+    2.11,
+    3
+   ],
+   [
+    "dehne",
+    "Sport und ich dehne mich. Das mache ich",
+    315,
+    326,
+    2.47,
+    2
+   ],
+   [
+    "palina",
+    "mich und Palina. Wir essen Spiegeleier.",
+    218,
+    230,
+    2.4,
+    2
    ]
   ],
-  "tx": "Guten Morgen. Es ist jetzt fast 8 Uhr und ich muss heute Jam aufwecken. Jam schläft immer noch und ich wecke sie auf. Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Heute ui Heute zeige ich euch meinen Morgen. Als erstes gehe ich ins Badezimmer. Das ist das Badezimmer. Hier putze ich meine Zähne mit der Zahnbürste und der Zahnpasta. Als Nächstes gehe ich in die Küche. Das ist die Küche. Die Küche ist unordentlich. Die Küche ist nicht sauber. Ich muss die Küche aufräumen und sauber machen. Jetzt räume ich den sauberen Geschirrspüler aus. Dieses Geschirr ist sauber. Dieses Geschirr ist dreckig. Ich räume das saubere Geschirr in den Schrank. Das ist der Schrank. Jetzt ist der Geschirrspüler leer. Ich nehme das dreckige Geschirr und ich lege es in den Geschirrspüler. Die Küche ist endlich wieder sauber und jetzt mache ich das Frühstück für mich und Palina. Wir essen Spiegeleier. Palina und ich, wir essen zwei Spiegeleier. Zusammen vier Eier. Was machst du da? Ja, na klar. Ich mache den Kaffee, nicht du. Das ist unser Frühstück. Zwei Spiegeleier, ein Stück Bananenbrot und ein Kaffee. Ich habe das Bananenbrot selber gebacken. Es war mein erster Versuch. Ich habe vorher niemals Bananenbrot gebacken. Es ist nicht perfekt, aber es ist trotzdem lecker. Nach dem Essen mache ich ein bisschen Sport und ich dehne mich. Das mache ich fast jeden Tag. Das ist Dehnen. Ich dehne meine Beine. Heute trainiere ich meine Beine. Ich hebe meine Beine. Jetzt bin ich außer Atem und ich schwitze. Das bedeutet, ich muss duschen. Ich gehe zurück ins Badezimmer und ich mache mich sauber. Ich gehe unter die Dusche. Und dann ist dieses Video fast vorbei. So, die Dusche ist fertig. Jetzt muss ich mich nur noch anziehen u",
+  "tx": "Guten Morgen. Es ist jetzt fast 8 Uhr und ich muss heute Jam aufwecken. Jam schläft immer noch und ich wecke sie auf. Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Heute ui Heute zeige ich euch meinen Morgen. Als erstes gehe ich ins Badezimmer. Das ist das Badezimmer. Hier putze ich meine Zähne mit der Zahnbürste und der Zahnpasta. Als Nächstes gehe ich in die Küche. Das ist die Küche. Die Küche ist unordentlich. Die Küche ist nicht sauber. Ich muss die Küche aufräumen und sauber machen. Jetzt räume ich den sauberen Geschirrspüler aus. Dieses Geschirr ist sauber. Dieses Geschirr ist dreckig. Ich räume das saubere Geschirr in den Schrank. Das ist der Schrank. Jetzt ist der Geschirrspüler leer. Ich nehme das dreckige Geschirr und ich lege es in den Geschirrspüler. Die Küche ist endlich wieder sauber und jetzt mache ich das Frühstück für mich und Palina. Wir essen Spiegeleier. Palina und ich, wir essen zwei Spiegeleier. Zusammen vier Eier. Was machst du da? Ja, na klar. Ich mache den Kaffee, nicht du. Das ist unser Frühstück. Zwei Spiegeleier, ein Stück Bananenbrot und ein Kaffee. Ich habe das Bananenbrot selber gebacken. Es war mein erster Versuch. Ich habe vorher niemals Bananenbrot gebacken. Es ist nicht perfekt, aber es ist trotzdem lecker. Nach dem Essen mache ich ein bisschen Sport und ich dehne mich. Das mache ich fast jeden Tag. Das ist Dehnen. Ich dehne meine Beine. Heute trainiere ich meine Beine. Ich hebe meine Beine. Jetzt bin ich außer Atem und ich schwitze. Das bedeutet, ich muss duschen. Ich gehe zurück ins Badezimmer und ich mache mich sauber. Ich gehe unter die Dusche. Und dann ist dieses Video fast vorbei. So, die Dusche ist fertig. Jetzt muss ich mich nur noch anziehen und meine Haare machen. Und das ist das fertige Outfit. Meine Haare sind nass. Sie müssen trocknen, aber meine Haare sind fertig. Das ist mein Outfit. Ich bin fertig für den Tag. Heute muss ich arbeiten. Das ist mein Arbeitsoutfit. Ich arbeite heute in einem Café. Ich arbeite mit meinem Laptop. Das ist mein Laptop. Ich nehme den Laptop in das Café. Ich nehme mein Ladekabel und packe das Ladekabel in meinen Rucksack. Meinen Laptop packe ich auch in meinen Rucksack. Das ist alles, was ich brauche. Meinen Laptop und mein Ladekabel. Und jetzt gehe ich zur Arbeit. Vielen Dank fürs Zuschauen. Und ich hoffe, dass wir uns im nächsten Video wiedersehen. Bis dahin, Ciao out.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6631
+  "src": "auto"
  },
  "RoHoM_FIwb4": {
   "channel": "Kathrin Shechtman (Story Listening)",
@@ -8828,7 +9064,7 @@
  "y_ZtOJR4YYI": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-04T22:16:45+00:00",
+  "checked": "2026-11-11T00:45:44+00:00",
   "title": "Miffy streicht ihr Zimmer | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260906",
@@ -8836,73 +9072,10 @@
   "spoken_v": 2,
   "pace": 118.0,
   "rare": 0.0967,
+  "var": 0.8127,
   "speech_s": 862.2,
   "tokens": 1696,
   "kw": [
-   [
-    "schnuffi",
-    "Da kam Schnuffi angelaufen. Der kleine",
-    540,
-    545,
-    2.06,
-    7
-   ],
-   [
-    "vogelhaus",
-    "Ich kann ihr ein Vogelhaus bauen, dann",
-    271,
-    276,
-    2.48,
-    5
-   ],
-   [
-    "bretter",
-    "Boris suchte seine besten Bretter heraus. Er brauchte Bretter für die",
-    300,
-    309,
-    3.41,
-    5
-   ],
-   [
-    "boris",
-    "Boris und Barbara dachten über Miffys",
-    251,
-    258,
-    4.02,
-    9
-   ],
-   [
-    "leckeres",
-    "Miffy. Ich wünsche mir ein leckeres Eis.",
-    684,
-    692,
-    3.55,
-    4
-   ],
-   [
-    "sähe",
-    "\"Wenn es blau wäre, sähe es aus, als ob",
-    84,
-    92,
-    3.64,
-    4
-   ],
-   [
-    "tulpe",
-    "sah eine leuchtend gelbe Tulpe. \"Wenn mein Zimmer so gelb wäre wie die",
-    120,
-    128,
-    2.77,
-    2
-   ],
-   [
-    "freute",
-    "Miffy freute sich sehr über ihr helles",
-    234,
-    242,
-    3.71,
-    4
-   ],
    [
     "sagte",
     "Mutter sagte: \"Das ist doch eine gute",
@@ -8960,18 +9133,114 @@
     9
    ],
    [
-    "dachte",
-    "immer Nacht wäre\", dachte sie. \"Wenn es rot wäre, sähe es so heiß aus.",
-    87,
-    101,
-    5.12,
-    8
+    "blumen",
+    "Blumen. Miffy dachte an ihre Mutter. Sie",
+    648,
+    657,
+    4.43,
+    7
+   ],
+   [
+    "boris",
+    "Boris und Barbara dachten über Miffys",
+    251,
+    258,
+    4.02,
+    9
+   ],
+   [
+    "wände",
+    "streichen, Miffy. Die Wände brauchen dringend neue Farbe.\" \"Oh ja\", sagte",
+    9,
+    18,
+    4.16,
+    5
+   ],
+   [
+    "brett",
+    "Wände, ein dickeres Brett für den Boden",
+    304,
+    311,
+    3.95,
+    5
+   ],
+   [
+    "gelbe",
+    "sah eine leuchtend gelbe Tulpe. \"Wenn mein Zimmer so gelb wäre wie die",
+    120,
+    128,
+    4.18,
+    4
+   ],
+   [
+    "bretter",
+    "Boris suchte seine besten Bretter heraus. Er brauchte Bretter für die",
+    300,
+    309,
+    3.41,
+    5
+   ],
+   [
+    "leckeres",
+    "Miffy. Ich wünsche mir ein leckeres Eis.",
+    684,
+    692,
+    3.55,
+    4
+   ],
+   [
+    "pinsel",
+    "Er nahm einen großen Pinsel und gab",
+    174,
+    180,
+    3.54,
+    3
+   ],
+   [
+    "fee",
+    "Geschichte von einer Fee, die drei",
+    504,
+    510,
+    3.59,
+    2
+   ],
+   [
+    "schnuffi",
+    "Da kam Schnuffi angelaufen. Der kleine",
+    540,
+    545,
+    2.06,
+    7
+   ],
+   [
+    "vogelhaus",
+    "Ich kann ihr ein Vogelhaus bauen, dann",
+    271,
+    276,
+    2.48,
+    5
+   ],
+   [
+    "bücherregal",
+    "und mein Bett, und mein Bücherregal.",
+    29,
+    34,
+    2.95,
+    2
+   ],
+   [
+    "tulpe",
+    "sah eine leuchtend gelbe Tulpe. \"Wenn mein Zimmer so gelb wäre wie die",
+    120,
+    128,
+    2.77,
+    2
    ]
   ],
-  "tx": "Es regnete und es war viel zu nass um draußen zu spielen. Miffys Mutter sagte: \"Das ist doch eine gute Gelegenheit, um dein Zimmer neu zu streichen, Miffy. Die Wände brauchen dringend neue Farbe.\" \"Oh ja\", sagte Miffy, \"darf ich mithelfen?\" \"Ja\", sagte ihr Vater, \"aber zuerst müssen wir das Zimmer leerräumen.\" \"An den Wänden hängen viele Bilder\", sagte Miffy, \"und mein Schrank steht da, und mein Bett, und mein Bücherregal. Können wir da nicht einfach drumherum malen?\" \"Das geht nicht\", sagte die Mutter, \"wir müssen alles ausräumen, damit wir alle Wände gleichmäßig streichen können.\" \"Also gut\", sagte Miffy, \"ich nehme zuerst meine Bilder von der Wand. Aber mein Bett und mein Schrank und mein Bücherregal sind viel zu schwer für mich.\" \"Deine Mutter und ich räumen die schweren Sachen aus\", sagte ihr Vater. \"Du kannst darüber nachdenken, welche Farbe dein Zimmer haben soll. Ich habe viele verschiedene Farben in meiner Werkstatt.\" Ihr Vater und ihre Mutter räumten das Zimmer aus und Miffy überlegte, welche Farbe ihr Zimmer haben sollte. \"Wenn es blau wäre, sähe es aus, als ob immer Nacht wäre\", dachte sie. \"Wenn es rot wäre, sähe es so heiß aus. Ein grünes Zimmer sähe aus, als wäre mein Zimmer im Garten. Und wenn es weiß wäre, hätte es dieselbe Farbe wie ich und man könnte mich gar nicht sehen.\" Miffy guckte aus dem Fenster und sah eine leuchtend gelbe Tulpe. \"Wenn mein Zimmer so gelb wäre wie die Tulpe, dann sähe es immer sonnig und hell aus. Ich möchte ein gelbes Zimmer haben\", sagte Miffy. \"Ich habe schöne gelbe Farbe\", sagte ihr Vater. \"Ich streiche den oberen Teil der Wände und du streichst den unteren Teil. So lernst du es am besten. Aber zuerst musst du dir eine Schürze umbinden. Es wäre schade, wenn Farbe auf dein hübsches Kleid tropft\", sagte die Mutter. Miffy band",
+  "tx": "Es regnete und es war viel zu nass um draußen zu spielen. Miffys Mutter sagte: \"Das ist doch eine gute Gelegenheit, um dein Zimmer neu zu streichen, Miffy. Die Wände brauchen dringend neue Farbe.\" \"Oh ja\", sagte Miffy, \"darf ich mithelfen?\" \"Ja\", sagte ihr Vater, \"aber zuerst müssen wir das Zimmer leerräumen.\" \"An den Wänden hängen viele Bilder\", sagte Miffy, \"und mein Schrank steht da, und mein Bett, und mein Bücherregal. Können wir da nicht einfach drumherum malen?\" \"Das geht nicht\", sagte die Mutter, \"wir müssen alles ausräumen, damit wir alle Wände gleichmäßig streichen können.\" \"Also … es blau wäre, sähe es aus, als ob immer Nacht wäre\", dachte sie. \"Wenn es rot wäre, sähe es so heiß aus. Ein grünes Zimmer sähe aus, als wäre mein Zimmer im Garten. Und wenn es weiß wäre, hätte es dieselbe Farbe wie ich und man könnte mich gar nicht sehen.\" Miffy guckte aus dem Fenster und sah eine leuchtend gelbe Tulpe. \"Wenn mein Zimmer so gelb wäre wie die Tulpe, dann sähe es immer sonnig und hell aus. Ich möchte ein gelbes Zimmer haben\", sagte Miffy. \"Ich habe schöne gelbe Farbe\", sagte ihr Vater. \"Ich streiche den oberen Teil der Wände und du streichst den unteren Teil. So lernst du … Wände in einem hellen, sonnigen Gelb. Und bald waren alle Möbel wieder an ihrem Platz. Miffy freute sich sehr über ihr helles und sauberes Zimmer. Es ist ein schönes Gefühl, ein frisch gestrichenes Zimmer zu haben. Und ich habe dabei geholfen. Boris und Barbara dachten über Miffys Geburtstag nach. \"Was können wir ihr schenken?\", fragte Barbara. \"Nun\", sagte Boris, \"es wird bald Frühling und Miffy freut sich immer, wenn die Vogelbabys ausschlüpfen. Ich kann ihr ein Vogelhaus bauen, dann kann sie die kleinen Vögel jeden Tag beobachten.\" \"Oh ja\", sagte Barbara, \"das ist eine tolle Idee und wir … sägen musste, damit sie alle zusammenpassten. Als er das Holz abgemessen hatte, nahm er einen Bleistift und machte einen Strich, wo er das Brett durchsägen musste. Er spannte das Brett fest in seine Werkbank ein, sodass es nicht wackeln konnte. Dann nahm er eine scharfe Säge. An der Stelle, an der er den Strich auf das Brett gemacht hatte, sägte er jetzt hin und her, hin und her, bis er das Brett durchgesägt hatte. So machte er es mit allen Brettern, die er für das Vogelhaus brauchte. Jetzt musste er die Bretter nur noch zusammenhämmern. Dann war es fertig, ein richtiges kleines Haus. Ich … An Miffys Geburtstag gingen Boris und Barbara zu Miffys Haus. Sie hatten das Vogelhaus auf einem Pfahl befestigt und stellten es in Miffys Garten auf. \"Herzlichen Glückwunsch zum Geburtstag\", sagten Boris und Barbara. \"Wir haben eine Überraschung für dich. Komm mit in den Garten.\" Miffy war ganz begeistert von ihrem Vogelhaus. \"Es sieht genauso aus wie mein Haus\", sagte sie. \"Aber etwas ist doch anders. Es hat keine Tür, sondern nur das kleine Loch da vorne. Das ist der Eingang für die Vögel, die brauchen keine Tür, sagte Boris. Sie lachten. Boris hatte Recht. Was für ein Glück, dass … dass ihre Mutter und ihr Vater sie lieb hatten. Also dachte sie über einen anderen Wunsch nach. Sie wollte einen Spaziergang machen. Beim Spazierengehen konnte man sich ja viel besser nachdenken. Da kam Schnuffi angelaufen. Der kleine Hund freute sich immer, wenn er Miffy sah. Willst du mich ein Stück begleiten, Schnuffi, fragte Miffy. Sie waren noch nicht lange gegangen, da trafen sie Aggie. Aggie hatte ihren Arm in einer Schlinge. Hallo, Aggie, sagte Miffy. Was ist mit deinem Arm passiert? Ich bin beim Rollschuhlaufen hingefallen und habe mich am Arm verletzt, sagte Aggie. Ich wünsche … Miffy staunte, als es ganz plötzlich aufhörte zu regnen und die Sonne herauskam. Das war ein dummer Wunsch, dachte Miffy. Wenn es nie regnet und immer die Sonne scheint, können keine Bäume wachsen. Jetzt hatte sie nur noch einen Wunsch frei. Mein dritter Wunsch soll für etwas ganz Besonderes sein, sagte sie zu Schnuffi. Sie gingen weiter und Miffy dachte angestrengt nach, was sie sich denn wünschen sollte. Sie kamen an eine Wiese mit vielen Blumen. Miffy dachte an ihre Mutter. Sie wollte ihr einen Blumenstrauß pflücken. Meine Mutter mag am liebsten gelbe Blumen, sagte sie. Aber ich … Schnuffi auf den Heimweg. Die Mutter freute sich sehr über die hübschen gelben Blumen. \"Oh, Miffy\", sagte sie, \"wie schön! Das sind meine Lieblingsblumen.\" \"Ich habe mir meinen letzten Wunsch für ein leckeres Eis aufgehoben\", sagte Miffy. \"Weißt du, was ich mir wünsche?\", sagte die Mutter. \"Ich wünsche mir, dass meine kleine Miffy so lieb bleibt, wie sie jetzt ist.\" Sie nahm Miffy fest in den Arm und gab ihr einen dicken Kuss. Dann ging die Mutter in die Küche und gab Schnuffi eine Schüssel mit frischem, kühlem Wasser. Und Miffy bekam ein leckeres Eis. Die Schule war zu Ende und die Ferien … antwortete die Mutter. Der Vater sah noch einmal nach, ob das Auto für die Reise in die Berge in Ordnung war. Und dann fuhren sie los. Die Fahrt ging über sonnige Hügel, durch die Wälder und dann hoch in die Berge. Miffy merkte, dass es immer kälter wurde, je höher sie kamen. Sie stiegen aus, um sich die Berge anzusehen und waren froh über ihre warme Kleidung. Sie fuhren noch höher die Berge hinauf und da lag sogar etwas Schnee. \"Das ist aber komisch\", sagte Miffy. \"Schnee mitten im Sommer?\" \"Das ist so, Miffy\", sagte die Mutter. \"Je höher du in die Berge kommst, umso kälter wird es. … wärmer wurde es wieder. Bald kamen sie an einen wunderschönen See. \"Hier werden wir unsere Ferien verbringen\", sagte die Mutter. \"Guck mal, Miffy, was da auf dich wartet.\" \"Noch eine Überraschung\", rief Miffy. \"Erst der Schnee und jetzt das Boot. Was für ein schöner Tag.\" Die Mutter wollte das Essen vorbereiten. Miffy und ihr Vater gingen zum Boot. Sie stiegen ein und fuhren los. Einmal um den ganzen See herum. Als sie zurückkamen, sah Miffy, dass ihre Mutter ein Lagerfeuer angezündet und ein leckeres Abendessen zubereitet hatte. Und Miffy dachte zufrieden: \"Das sind wirklich schöne Ferien.\"",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7785
+  "src": "auto"
  },
  "RUCidncXnHk": {
   "channel": "Get Germanized",
@@ -9440,7 +9709,7 @@
  "nmqFTDbQFNw": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-05T15:06:58+00:00",
+  "checked": "2026-11-11T00:38:39+00:00",
   "title": "Experiment 1: Wasser und Seife",
   "duration": 762,
   "published": "20200503",
@@ -9448,9 +9717,74 @@
   "spoken_v": 2,
   "pace": 55.2,
   "rare": 0.0398,
+  "var": 0.5776,
   "speech_s": 682.6,
   "tokens": 628,
   "kw": [
+   [
+    "wasser",
+    "wasser zwei schüsseln mit wasser kleine",
+    100,
+    110,
+    5.32,
+    15
+   ],
+   [
+    "warum",
+    "händewaschen ist sehr wichtig aber warum",
+    33,
+    56,
+    5.75,
+    5
+   ],
+   [
+    "hause",
+    "hallo im moment sind wir alle zu hause",
+    0,
+    12,
+    5.17,
+    5
+   ],
+   [
+    "andere",
+    "als zweites nimmst du die andere schüsse",
+    359,
+    370,
+    5.75,
+    4
+   ],
+   [
+    "brauchst",
+    "wir machen ein experiment du brauchst du",
+    70,
+    93,
+    4.59,
+    14
+   ],
+   [
+    "finger",
+    "wasser ist nass ja was mein finger nass",
+    279,
+    289,
+    4.66,
+    12
+   ],
+   [
+    "erstes",
+    "fertig als erstes schützt du die kräuter",
+    305,
+    318,
+    4.75,
+    4
+   ],
+   [
+    "steckt",
+    "und steckt den finger langsam in die",
+    444,
+    473,
+    4.66,
+    4
+   ],
    [
     "seife",
     "seife ich habe eine große packung seife",
@@ -9476,14 +9810,6 @@
     15
    ],
    [
-    "schüsseln",
-    "brauchst zwei schüsseln das ist eine schüssel eine schüssel ja",
-    88,
-    101,
-    2.98,
-    6
-   ],
-   [
     "flüssig",
     "sollte flüssig sein wasser ist flüssig",
     153,
@@ -9500,12 +9826,12 @@
     4
    ],
    [
-    "majoran",
-    "brauchst du ja hier das ist majoran aber",
-    218,
-    234,
-    2.41,
-    2
+    "flüssige",
+    "flüssig flüssige seife ja flüssige seife",
+    179,
+    193,
+    3.3,
+    3
    ],
    [
     "basilikum",
@@ -9516,74 +9842,42 @@
     3
    ],
    [
-    "wasser",
-    "wasser zwei schüsseln mit wasser kleine",
-    100,
-    110,
-    5.32,
-    15
+    "schüsseln",
+    "brauchst zwei schüsseln das ist eine schüssel eine schüssel ja",
+    88,
+    101,
+    2.98,
+    6
    ],
    [
-    "brauchst",
-    "wir machen ein experiment du brauchst du",
-    70,
-    93,
-    4.59,
-    14
+    "thymian",
+    "thymian geht auch oder basilikum ja du",
+    227,
+    239,
+    2.96,
+    2
    ],
    [
-    "finger",
-    "wasser ist nass ja was mein finger nass",
-    279,
-    289,
-    4.66,
-    12
-   ],
-   [
-    "warum",
+    "händewaschen",
     "händewaschen ist sehr wichtig aber warum",
     33,
     56,
-    5.75,
-    5
+    2.68,
+    2
    ],
    [
-    "hause",
-    "hallo im moment sind wir alle zu hause",
-    0,
-    12,
-    5.17,
-    5
-   ],
-   [
-    "steckt",
-    "und steckt den finger langsam in die",
-    444,
-    473,
-    4.66,
-    4
-   ],
-   [
-    "erstes",
-    "fertig als erstes schützt du die kräuter",
-    305,
-    318,
-    4.75,
-    4
-   ],
-   [
-    "bisschen",
-    "ein bisschen seife und trockene kräuter",
-    298,
-    306,
-    5.23,
-    4
+    "majoran",
+    "brauchst du ja hier das ist majoran aber",
+    218,
+    234,
+    2.41,
+    2
    ]
   ],
-  "tx": "hallo im moment sind wir alle zu hause wir sind zu hause in unseren häusern wir sind zu hause und nicht in der schule wir sind nicht in der schule wir sind zu hause denn es gibt einen virus das corona virus und wir sind zu hause und wir waschen uns viel die hände händewaschen ist sehr wichtig aber warum warum ist händewaschen wichtig hmm dazu machen wir ein experiment hallo wir machen heute ein experiment wir machen ein experiment du brauchst du brauchst zwei schüsseln das ist eine schüssel eine schüssel ja und du brauchst zwei schüsseln mit wasser zwei schüsseln mit wasser kleine schüssel große schüssel das ist egal ob du brauchst zwei schüsseln mit wasser ja hier ist eine schüssel und in der schüssel ist wasser wasser so da ist wasser in der schüssel du brauchst zwei schüsseln mit wasser und du brauchst seife ich habe eine große packung seife ja du brauchst seife und die seife sollte flüssig sein wasser ist flüssig es ist nicht hart ja das ist flüssig und die seife ist auch flüssig ja du brauchst einmal einmal seife und du brauchst du brauchst flüssig flüssige seife ja flüssige seife also nicht so eine seife sondern eine seife hier raus ja in dieser hier ist die seife diese seife ist flüssig wie wasser ja du brauchst flüssige seife und als letztes brauchst du ja hier das ist majoran aber thymian geht auch oder basilikum ja du brauchst als letztes ein paar kräuter die kräuter sind nicht frisch ja es sind keine frischen kräuter ja das ist trocken keine frischen kräuter du brauchst trockene kräuter trockene kräuter kräuter das ist hier dass es zb basilikum basilikum oder thymian oder majoran und die müssen trocken sein wasser ist nass ja was mein finger nass und jetzt ist mein finger trocken sind die die kräuter sind nicht frisch gut dann wenn du zwei schüsseln mit wasse",
+  "tx": "hallo im moment sind wir alle zu hause wir sind zu hause in unseren häusern wir sind zu hause und nicht in der schule wir sind nicht in der schule wir sind zu hause denn es gibt einen virus das corona virus und wir sind zu hause und wir waschen uns viel die hände händewaschen ist sehr wichtig aber warum warum ist händewaschen wichtig hmm dazu machen wir ein experiment hallo wir machen heute ein experiment wir machen ein experiment du brauchst du brauchst zwei schüsseln das ist eine schüssel eine schüssel ja und du brauchst zwei schüsseln mit wasser zwei schüsseln mit wasser kleine schüssel große schüssel das ist egal ob du brauchst zwei schüsseln mit wasser ja hier ist eine schüssel und in der schüssel ist wasser wasser so da ist wasser in der schüssel du brauchst zwei schüsseln mit wasser und du brauchst seife ich habe eine große packung seife ja du brauchst seife und die seife sollte flüssig sein wasser ist flüssig es ist nicht hart ja das ist flüssig und die seife ist auch flüssig ja du brauchst einmal einmal seife und du brauchst du brauchst flüssig flüssige seife ja flüssige seife also nicht so eine seife sondern eine seife hier raus ja in dieser hier ist die seife diese seife ist flüssig wie wasser ja du brauchst flüssige seife und als letztes brauchst du ja hier das ist majoran aber thymian geht auch oder basilikum ja du brauchst als letztes ein paar kräuter die kräuter sind nicht frisch ja es sind keine frischen kräuter ja das ist trocken keine frischen kräuter du brauchst trockene kräuter trockene kräuter kräuter das ist hier dass es zb basilikum basilikum oder thymian oder majoran und die müssen trocken sein wasser ist nass ja was mein finger nass und jetzt ist mein finger trocken sind die die kräuter sind nicht frisch gut dann wenn du zwei schüsseln mit wasser ein bisschen seife und trockene kräuter hast kann es losgehen fertig als erstes schützt du die kräuter in eine schüssel nur in eine schüssel die kräuter schützt du in eine schüssel also als erstes schütte weiter in eine schüssel als zweites nimmst du die andere schüsse die schüssel mit wasser aber ohne kräuter nur wasser und in die schüssel schützt du ein bisschen seife zweiter schütze ein bisschen nicht so viel ein bisschen seife in die andere schüsse in die zweite schüssel in die andere wussten so weit weg in die andere schüsse als drittes nehmt die schüssel mit den kräutern die schüssel mit den kräutern und steckt den finger langsam in die schüssel steckt einen finger langsam in die schüssel mit kräutern was passiert nein hat dein finger auch kräuter überall ich habe meine hand gewaschen ich habe meine hand gewaschen also viertens was deinen finger was deine finger am besten alle nicht nur einen als nächstes als fünfter schritt und letzter schritt nehmt die schüssel mit dem wasser und der seife und steckt euren finger als erstes in die schüssel mit der seife und dann wieder in die schüssel mit den kräutern also fing erst in die seife und dann wieder langsam in die kräuter steckt den finger zuerst als erstes mache ich so in die seife in das wasser mit der seife und dann zweitens wieder in die kräuter was ist passiert was ist mit dem finger passiert und warum ist es eine gute idee warum warum ist es eine gute idee die hände mit seife zu waschen die hände mit seife mit seife zu waschen schickt eure antwort per e mail über saison oder hier als kommentar ihr könnt mir auch ein foto schicken vielleicht von eurem finger hier ist der finger ein foto oder aber auch ein kleines video bis zum nächsten mal",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5407
+  "src": "auto"
  },
  "twn-sV1iAQ0": {
   "channel": "Learn German by Listening (DldH)",
@@ -15143,7 +15437,7 @@
  "rh9mXPhXdcg": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-07T05:08:09+00:00",
+  "checked": "2026-11-11T00:53:01+00:00",
   "title": "Learn GERMAN the Easy way with COMPREHENSIBLE INPUT | Lesson 3",
   "duration": 828,
   "published": "20250906",
@@ -15151,81 +15445,10 @@
   "spoken_v": 2,
   "pace": 70.0,
   "rare": 0.0811,
+  "var": 0.6656,
   "speech_s": 793.4,
   "tokens": 925,
   "kw": [
-   [
-    "tomate",
-    "hier wachsen sogar Tomaten. Die Tomate und die Tomaten. Diese Tomate ist grün. Sie ist noch",
-    532,
-    548,
-    3.36,
-    6
-   ],
-   [
-    "chilis",
-    "wachsen Salatpflanzen. Der Salat und Chilis. Die Chilis. Chilis sind scharf. Ist du gerne scharf",
-    502,
-    518,
-    2.65,
-    3
-   ],
-   [
-    "rampe",
-    "das hier ist eine Glühbirne. Die Glühbirne. Und das hier ist eine Rampe. Die Rampe, die Rampe hat",
-    613,
-    627,
-    3.47,
-    5
-   ],
-   [
-    "steinmauer",
-    "Und die Steinmauer. Diese Mauer besteht aus Steinen. Die Steinmauer.",
-    324,
-    340,
-    2.51,
-    2
-   ],
-   [
-    "bet",
-    "Wie schön ist dieser Gastgarten? Hier gibt es auch ein Hochbeet. Das Bet.",
-    478,
-    491,
-    3.42,
-    3
-   ],
-   [
-    "quebec",
-    "der Provinz Quebec. Größere Städte sind z.B. Keb, also Kebstadt und Montreal. Warst du",
-    34,
-    48,
-    2.95,
-    2
-   ],
-   [
-    "kanadische",
-    "zur Touristinformation und guck, das hier ist die kanadische Post, die kanadische Poststelle.",
-    663,
-    675,
-    3.51,
-    3
-   ],
-   [
-    "unreif",
-    "also essbar. Man kann sie essen, aber diese Tomate ist unreif,",
-    559,
-    570,
-    2.99,
-    2
-   ],
-   [
-    "guck",
-    "es eine Straße und auf der Straße fahren Autos. Guck mal, das Auto. Das Auto fährt auf der Straße.",
-    177,
-    198,
-    4.37,
-    13
-   ],
    [
     "strasse",
     "",
@@ -15251,19 +15474,27 @@
     6
    ],
    [
-    "bus",
-    "der Bus. Der graue Bus. Das ist ein Bus oder ein Autobus, ein öffentliches Verkehrsmittel.",
-    104,
-    121,
-    4.72,
-    6
-   ],
-   [
     "autos",
     "die Autos und die Straße. Ich stehe ganz kurz ganz kurz auf der Straße und",
     134,
     146,
     4.81,
+    6
+   ],
+   [
+    "guck",
+    "es eine Straße und auf der Straße fahren Autos. Guck mal, das Auto. Das Auto fährt auf der Straße.",
+    177,
+    198,
+    4.37,
+    13
+   ],
+   [
+    "bus",
+    "der Bus. Der graue Bus. Das ist ein Bus oder ein Autobus, ein öffentliches Verkehrsmittel.",
+    104,
+    121,
+    4.72,
     6
    ],
    [
@@ -15275,18 +15506,114 @@
     5
    ],
    [
-    "auto",
-    "Und das Auto auf der Straße fährt ein Auto. Also das Auto,",
-    122,
-    135,
-    5.3,
+    "garten",
+    "das Haus hat einen Garten. Der Garten. Und im Garten steht ein roter Tisch und auf der",
+    221,
+    235,
+    4.73,
+    4
+   ],
+   [
+    "parken",
+    "sich die Parkplätze. Der Parkplatz und die Parkplätze. Autos parken auf den Parkplätzen.",
+    375,
+    388,
+    3.97,
+    3
+   ],
+   [
+    "stopp",
+    "Der weiße Bus, der Bus parkt aussteigen. Der Busfahrer steigt aus dem Bus aus. Stopp. Das",
+    387,
+    407,
+    3.87,
+    3
+   ],
+   [
+    "rotes",
+    "Hinter mir, hinter mir ist ein weißes Haus. Das Haus hat ein rotes Dach. Also,",
+    197,
+    210,
+    3.84,
+    3
+   ],
+   [
+    "rollstuhl",
+    "Verande auf der Veranda steht ein Rollstuhl. Der Rollstuhl, der elektrische Rollstuhl.",
+    234,
+    246,
+    3.81,
+    3
+   ],
+   [
+    "tomate",
+    "hier wachsen sogar Tomaten. Die Tomate und die Tomaten. Diese Tomate ist grün. Sie ist noch",
+    532,
+    548,
+    3.36,
+    6
+   ],
+   [
+    "rampe",
+    "das hier ist eine Glühbirne. Die Glühbirne. Und das hier ist eine Rampe. Die Rampe, die Rampe hat",
+    613,
+    627,
+    3.47,
     5
+   ],
+   [
+    "kanadische",
+    "zur Touristinformation und guck, das hier ist die kanadische Post, die kanadische Poststelle.",
+    663,
+    675,
+    3.51,
+    3
+   ],
+   [
+    "bet",
+    "Wie schön ist dieser Gastgarten? Hier gibt es auch ein Hochbeet. Das Bet.",
+    478,
+    491,
+    3.42,
+    3
+   ],
+   [
+    "chilis",
+    "wachsen Salatpflanzen. Der Salat und Chilis. Die Chilis. Chilis sind scharf. Ist du gerne scharf",
+    502,
+    518,
+    2.65,
+    3
+   ],
+   [
+    "telefonzelle",
+    "hinter mir gibt es eine Telefonzelle. die Telefonzelle und guck mal, dieses Telefon",
+    270,
+    282,
+    2.99,
+    2
+   ],
+   [
+    "unreif",
+    "also essbar. Man kann sie essen, aber diese Tomate ist unreif,",
+    559,
+    570,
+    2.99,
+    2
+   ],
+   [
+    "quebec",
+    "der Provinz Quebec. Größere Städte sind z.B. Keb, also Kebstadt und Montreal. Warst du",
+    34,
+    48,
+    2.95,
+    2
    ]
   ],
-  "tx": "Guten Morgen, Kanada. Hallo und schön, dass du da bist. Wenn du neu hier bist, hi, ich bin Lari und gemeinsam lernen wir hier auf diesem Kanal Deutsch. Ich bin hier im Urlaub. Ich bin in Kanada, um genauer zu sein, in Tadusak. Tadusak ist eine kleine Stadt in der Provinz Quebec. Größere Städte sind z.B. Keb, also Kebstadt und Montreal. Warst du schon einmal in Kanada? Und wenn ja, wo warst du? In den letzten zwei Deutschlernvlogs hast du bereits 100 der 1500 Wörter gelernt, die du brauchst, um 90% der deutschen Alltagssprache verstehen zu können. In diesem Video spazieren wir durch Tadosack und mit diesem Video lernst du die nächsten 50 Wörter. Also, bist du bereit? Na, dann komm mit. Kanada ist ein großes Land. Die ersten drei Wörter dieses Videos waren also Urlaub. Stadt und das Land. Das vierte Wort ist der Bus. Der graue Bus. Das ist ein Bus oder ein Autobus, ein öffentliches Verkehrsmittel. Und das Auto auf der Straße fährt ein Auto. Also das Auto, die Autos und die Straße. Ich stehe ganz kurz ganz kurz auf der Straße und jetzt bin ich wieder auf dem Gweg, der Gweg. Ich gehe auf dem Gehweg. Rechts neben mir, rechts neben mir gibt es hohe Bäume. Der Baum, der Baum ist hoch und links gibt es eine Straße und auf der Straße fahren Autos. Guck mal, das Auto. Das Auto fährt auf der Straße. Hinter mir, hinter mir ist ein weißes Haus. Das Haus hat ein rotes Dach. Also, das Haus ist weiß und das Haus hat ein rotes Dach. Kannst du es sehen? Und guck mal, das Haus hat einen Garten. Der Garten. Und im Garten steht ein roter Tisch und auf der Verande auf der Veranda steht ein Rollstuhl. Der Rollstuhl, der elektrische Rollstuhl. Und siehst du die weiße Skulptur auf der Veranda? Guck mal, das hier ist ein Wah, der Wah, denn Tatusak ist bekannt für die vielen Wale, die man hier se",
+  "tx": "Guten Morgen, Kanada. Hallo und schön, dass du da bist. Wenn du neu hier bist, hi, ich bin Lari und gemeinsam lernen wir hier auf diesem Kanal Deutsch. Ich bin hier im Urlaub. Ich bin in Kanada, um genauer zu sein, in Tadusak. Tadusak ist eine kleine Stadt in der Provinz Quebec. Größere Städte sind z.B. Keb, also Kebstadt und Montreal. Warst du schon einmal in Kanada? Und wenn ja, wo warst du? In den letzten zwei Deutschlernvlogs hast du bereits 100 der 1500 Wörter gelernt, die du brauchst, um 90% der deutschen Alltagssprache verstehen zu können. In diesem Video spazieren wir durch Tadosack und mit diesem Video lernst du die nächsten 50 Wörter. Also, bist du bereit? Na, dann komm mit. Kanada ist ein großes Land. Die ersten drei Wörter dieses Videos waren also Urlaub. Stadt und das Land. Das vierte Wort ist der Bus. Der graue Bus. Das ist ein Bus oder ein Autobus, ein öffentliches Verkehrsmittel. Und das Auto auf der Straße fährt ein Auto. Also das Auto, die Autos und die Straße. Ich stehe ganz kurz ganz kurz auf der Straße und jetzt bin ich wieder auf dem Gweg, der Gweg. Ich gehe auf dem Gehweg. Rechts neben mir, rechts neben mir gibt es hohe Bäume. Der Baum, der Baum ist hoch und links gibt es eine Straße und auf der Straße fahren Autos. Guck mal, das Auto. Das Auto fährt auf der Straße. Hinter mir, hinter mir ist ein weißes Haus. Das Haus hat ein rotes Dach. Also, das Haus ist weiß und das Haus hat ein rotes Dach. Kannst du es sehen? Und guck mal, das Haus hat einen Garten. Der Garten. Und im Garten steht ein roter Tisch und auf der Verande auf der Veranda steht ein Rollstuhl. Der Rollstuhl, der elektrische Rollstuhl. Und siehst du die weiße Skulptur auf der Veranda? Guck mal, das hier ist ein Wah, der Wah, denn Tatusak ist bekannt für die vielen Wale, die man hier sehen kann. Und guck mal, hinter mir gibt es eine Telefonzelle. die Telefonzelle und guck mal, dieses Telefon hier funktioniert. Ich könnte mit diesem Telefon telefonieren, aber ich habe keine Münzen, denn das hier ist ein Münztelefon. Man muss also Münzen hier hineinwerfen, um telefonieren zu können. Oh, und guck mal, dieses Haus hat einen Vorgarten, also einen Garten, der vor dem Haus ist. Guck mal. Und die Steinmauer. Diese Mauer besteht aus Steinen. Die Steinmauer. Der Zaun, der Gartenzaun. Der Zaun ist aus Holz. Das Holz. Und dieser Saun ist aus Holz. Guck mal, hier in dieser Straße gibt es viele Hotels und Motels. Also ein Hotel mit Parkplatz und hier vorne vor dem Hotel oder vor dem Motel befinden sich die Parkplätze. Der Parkplatz und die Parkplätze. Autos parken auf den Parkplätzen. Der weiße Bus, der Bus parkt aussteigen. Der Busfahrer steigt aus dem Bus aus. Stopp. Das hier ist ein Stoppschild. Aber auf welcher Sprache steht hier stopp? Ist das Spanisch? Nein. Ist das Portugiesisch? Nein. Hm. Vielleicht italienisch? Nein. Auch nicht. Genau, das ist Französisch, denn in Quebec wird Französisch gesprochen. Ich kann aber kein Französisch. Ich kenne ich kenne aber dieses Symbol und deshalb weiß ich, dass das hier Stopp bedeutet. Autofahrer müssen hier also anhalten, stoppen, stehen bleiben. Wir dürfen jetzt aber weitergehen. Komm mit. Wir schauen nach rechts, links, rechts und überqueren die Straße. Schnell. Wie schön ist dieser Gastgarten? Hier gibt es auch ein Hochbeet. Das Bet. Im Bet wachsen Pflanzen und das hier ist ein Hochbet. Es ist also erhöht und in diesem Bet wachsen Salatpflanzen. Der Salat und Chilis. Die Chilis. Chilis sind scharf. Ist du gerne scharf oder mild? Also nicht scharf. Scharf. Mild. Und hier gibt es auch Kräuter. Und guck mal, hier wachsen sogar Tomaten. Die Tomate und die Tomaten. Diese Tomate ist grün. Sie ist noch grün. Aber diese Tomate hier ist rot. Sie ist schon rot. Diese Tomate ist schon reif, also essbar. Man kann sie essen, aber diese Tomate ist unreif, also noch nicht reif. Sie ist unreif. Man kann die grüne Tomate also noch nicht essen, aber vielleicht in ein paar Tagen oder Wochen. Also die Tomatenpflanze, der Tisch hier, der Tisch ist aus Holz. Genau das Holz. Und das hier oben, hier hoch oben sind Lichterketten. Ich steige auf die Bank. Ich stehe auf der Bank und das hier, das hier ist eine Glühbirne. Die Glühbirne. Und das hier ist eine Rampe. Die Rampe, die Rampe hat keine Stufen, keine Treppen. Die Rampe ist flach. Diese Rampe ist für Rollstuhlfahrer oder Menschen, die Probleme haben zu gehen, Treppen zu gehen. Und guck mal, das hier ist die Touristeninformation. Ich bin Touristin hier. Ich bin hier auf Besuch und wenn ich Fragen habe, gehe ich zur Touristinformation und guck, das hier ist die kanadische Post, die kanadische Poststelle. Und das hier ist die kanadische Flagge. Die Flagge. Die Flagge ist rot und weiß und sie hat ein rotes Ahhornblatt in der Mitte. Und hier kann man Briefe aufgeben. Guck mal, ich gehe hier auf der Straße neben den Autos, aber dieser Streifen, dieser Streifen hier ist für Fußgänger und Radfahrer. Ich darf hier also ganz normal gehen. Hier drüben aber fahren Autos und am Fahrstreifen ganz rechts rechts, guck mal, hier dürfen keine Autos parken. Parkverbot. Das Parken ist hier verboten. Aber jetzt schnell wieder zurück auf den Fußgängerstreifen. So meine Lieben, das war's für heute. Ich brauche ganz dringend Kaffee und deshalb suche ich jetzt ein Kaffee oder eine Bäckerei, je nachdem, was ich hier so finde. Tschüss, bis zum nächsten Mal.",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.6561
+  "src": "cc"
  },
  "iJpEcmXA_Mw": {
   "channel": "Daily Deutsch",
@@ -18900,7 +19227,7 @@
  "MekKGzKqU0E": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-08T15:49:21+00:00",
+  "checked": "2026-11-11T00:41:32+00:00",
   "title": "#925 6 Kurzgeschichten zum Deutschlernen [Deutsch lernen durch Hören]Learn German with stories A2-B1",
   "duration": 627,
   "published": "20260612",
@@ -19065,7 +19392,8 @@
     2
    ]
   ],
-  "tx": "Erdbeeren selbst pflücken Anita packt zwei große Körbe in den Kofferraum des Autos. Die Kinder hüpfen glücklich auf und ab. „Sollen wir losfahren ins Erdbeerland?“, fragt die Mama ihren Sohn und ihre Tochter. Laut schreien die Kinder „JA!“ Sie setzen sich in das Auto und fahren nur zehn Minuten. Vor dem grünen Feld steht ein Zelt. „Ihr wisst, wie das Erdbeerland funktioniert?“, fragt die alte Dame. Anita nickt und ihre Kinder laufen schon zu den Erdbeeren. „Wir pflücken selbst von den Pflanzen. Und alles, was wir direkt auf dem Feld essen, müssen wir nicht bezahlen, stimmt’s?“, meint Anita. Die alte Frau nickt. „Das, was ihr in euren Korb gebt, wiegen wir nachher ab. Ihr zahlt pro Kilo.“ Anita bedankt sich und geht zu ihren Kindern. Ihre Münder sind schon rot. „Schmeckt es?“, fragt die Mutter lachend. Aber die Kinder konzentrieren sich nur auf die Erdbeeren. Heute ist es nicht so heiß und ein bisschen bewölkt. Das ist das beste Wetter, um im Erdbeerland zu sein. Anita und ihre Kinder pflücken viele der Früchte und geben sie in den Korb. Die Mutter freut sich nicht nur über die Erdbeeren. Das Erdbeerfeld ist nah an der Stadt, aber es ist in der Natur. Hier kann sie der Hektik der Stadt entfliehen. Herrlich. Tandem Chris ist glücklich. Seit einem Jahr lernt er Spanisch und er will die Sprache sehr gut können. Heute trifft er sich mit Juan. Er kommt aus Kolumbien und Spanisch ist seine Muttersprache. Juan lernt gerade Deutsch – da kann ihm Chris sehr gut helfen, immerhin ist er Deutscher! Auf Facebook haben sich die beiden in einer Tandem-Gruppe kennengelernt. Dort kann man Menschen suchen, mit denen man Sprachen lernen kann. Tandem ist ein besonderes Konzept: Chris lernt Spanisch mit einem Muttersprachler und Juan lernt Deutsch mit einem Muttersprachler! Sie treffen sich ",
+  "tx": "Erdbeeren selbst pflücken Anita packt zwei große Körbe in den Kofferraum des Autos. Die Kinder hüpfen glücklich auf und ab. „Sollen wir losfahren ins Erdbeerland?“, fragt die Mama ihren Sohn und ihre Tochter. Laut schreien die Kinder „JA!“ Sie setzen sich in das Auto und fahren nur zehn Minuten. Vor dem grünen Feld steht ein Zelt. „Ihr wisst, wie das Erdbeerland funktioniert?“, fragt die alte Dame. Anita nickt und ihre Kinder laufen schon zu den Erdbeeren. „Wir pflücken selbst von den Pflanzen. Und alles, was wir direkt auf dem Feld essen, müssen wir nicht bezahlen, stimmt’s?“, meint Anita. … sich nur auf die Erdbeeren. Heute ist es nicht so heiß und ein bisschen bewölkt. Das ist das beste Wetter, um im Erdbeerland zu sein. Anita und ihre Kinder pflücken viele der Früchte und geben sie in den Korb. Die Mutter freut sich nicht nur über die Erdbeeren. Das Erdbeerfeld ist nah an der Stadt, aber es ist in der Natur. Hier kann sie der Hektik der Stadt entfliehen. Herrlich. Tandem Chris ist glücklich. Seit einem Jahr lernt er Spanisch und er will die Sprache sehr gut können. Heute trifft er sich mit Juan. Er kommt aus Kolumbien und Spanisch ist seine Muttersprache. Juan lernt … Konzept: Chris lernt Spanisch mit einem Muttersprachler und Juan lernt Deutsch mit einem Muttersprachler! Sie treffen sich in einer Kneipe und wollen ein Bier trinken. Die erste halbe Stunde reden sie auf Deutsch. Chris fühlt sich schlecht, denn Juans Deutsch ist schon sehr gut. Sie reden fast normal miteinander. Schließlich sprechen sie auf Spanisch weiter. Am Anfang hat Chris ein wenig Angst. Doch schon bald geht das Reden gut! Nach zehn Minuten hat er schon ein paar neue Wörter gelernt und auch verwendet. Die zwei Männer haben sehr viel Spaß. Am Ende bedanken sie sich beieinander. … Schon wieder hat Lukas sie im Unterricht geärgert. Schlagen darf sie ihn nicht. Aber was soll sie jetzt machen? Ella sagt: „Hör auf, du Arschloch!“ Lukas schaut sie überrascht an. Aber auch die Lehrerin hat das gehört. Sie möchte mit Lukas und Ella nach dem Unterricht sprechen. Nach der Stunde gehen die beiden zur Lehrerin. Sie erklärt ihnen, dass man niemanden ärgert. Und auch, dass man keine Schimpfwörter sagen darf. Schimpfwörter sind Wörter, die andere als etwas Schlechtes bezeichnen, und werden als Beschimpfung benutzt. Schimpfwörter werden am häufigsten verwendet, wenn sich Menschen … von Kindern wie Ella. Die meisten Menschen würden deshalb nie zur Polizei gehen. Das erklärt die Lehrerin den Kindern. Ella bekommt in der Schule eine Strafe dafür, dass sie Arschloch gesagt hat. Auch Lukas bekommt eine Strafe, weil er Ella geärgert hat. Die beiden sind wieder Freunde. Ella weiß jetzt, dass man Schimpfwörter nicht sagen darf. Die peinliche Stille Ich liebe Wörter. Ich habe sicher schon zweitausend Bücher in meinem Leben gelesen. Außerdem habe ich schon selbst Bücher geschrieben und sie auch verkauft. Ich liebe also das geschriebene Wort, aber das gesprochene ist manchmal … Stille. Heute habe ich sie auch. Um 18 Uhr treffe ich mich mit Johannes zum Abendessen. Davor schminke ich mich und ziehe mir einen Rock an. Auch er hat sich schön gemacht und sofort beginnt der Small Talk. Schließlich kommt der Moment der peinlichen Stille: Wir wissen beide nicht, was wir sagen sollen. Plötzlich fällt mir der Löffel mit der Suppe aus der Hand und ich bin von oben bis unten voll. Johannes lacht laut und ich stimme mit ein. Das Eis ist gebrochen. Während des ganzen Abendessens kommt es zu keiner peinlichen Stille mehr. Danach gehen wir spazieren. Zuerst reden wir über … Mutter. Ich besuche sie sehr oft. Meine Mutter ist die beste Köchin der Welt. Mit ihrem Talent könnte sie eine professionelle und berühmte Köchin werden, aber stattdessen wurde sie Lehrerin. In ihrer Freizeit kocht und probiert sie neue Rezepte aus. Meine Mutter erfindet sogar neue Rezepte. Sie schreibt diese auf und veröffentlicht sie im Internet. Viele Leute verfolgen die Beiträge, die meine Mutter postet. In ihren Beiträgen findet man viele neue Tipps und Tricks, um großartige Gerichte zu kochen. Heute bin ich zum Mittagessen eingeladen. Meine Mutter meinte, ich soll pünktlich um 14 … meine Mutter etwas Leckeres. Ich bin mit dem Auto unterwegs und komme endlich bei ihr an. Als ich aus dem Auto aussteige, rieche ich das Essen schon. Ich bin sehr gespannt, was es zum Essen gibt. Meine Mutter hat wohl mein Auto gehört, denn sie öffnet bereits die Tür. Wir begrüßen uns lächelnd und umarmen uns, als hätten wir uns seit Jahren nicht mehr gesehen. Meine Mutter und ich haben ein sehr gutes Verhältnis. Ich betrachte sie als meine beste Freundin. Wir reisen manchmal zusammen. Ab und zu gehen wir in die Stadt und reden über verschiedene Themen. Ich begleite meine Mutter in ihre … setzen uns an den Tisch und beißen in das köstliche Essen hinein. „Warum ist dein Essen nur so lecker, Mama?“, frage ich neugierig. „Ganz einfach: Weil es mit Liebe gemacht ist.“, antwortet meine Mutter lächelnd. Kleinanzeige Gestern ging mein Schreibtisch kaputt. Ich legte ein dickes Buch darauf und Bumm. Alles fiel auf den Boden. Deshalb brauche ich dringend einen Schreibtisch. Ich lerne oft und viel. In meinem Bett oder in der Küche kann ich mich aber nicht konzentrieren. Mein großes Problem ist aber: Ich habe kein Geld. Ich bin Studentin und verdiene nur wenig Geld im Monat. Meine … auf die jeder Annoncen stellen kann. Schnell finde ich drei Schreibtische, die unter 50€ kosten. Ich schreibe die Besitzer an. Aber niemand antwortet mir! „Das ist normal“, erklärt mir meine Freundin Lisa. Die vierte Person antwortet mir endlich. „Der Schreibtisch ist leider schon verkauft.“ Mist. Ich hasse die Kleinanzeigen. Doch plötzlich taucht eine Anzeige auf! Der Schreibtisch sieht nicht nur fast wie neu aus, sondern ist auch noch hübsch. „Du kannst ihn heute Abend abholen. Hier ist meine Adresse“, schreibt der Verkäufer und ich bin glücklich. Ich mag die Kleinanzeigen doch!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
