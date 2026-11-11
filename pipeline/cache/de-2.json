@@ -6984,7 +6984,7 @@
  "vJOivSoHmck": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-04T22:13:39+00:00",
+  "checked": "2026-11-11T04:08:55+00:00",
   "title": "So habe ich 1994 in Mannheim Deutsch gelernt",
   "duration": 1967,
   "published": "20260507",
@@ -6992,73 +6992,10 @@
   "spoken_v": 2,
   "pace": 145.1,
   "rare": 0.0402,
+  "var": 0.7854,
   "speech_s": 1965.0,
   "tokens": 4752,
   "kw": [
-   [
-    "grammatik",
-    "Wenn die deutsche Grammatik, dir Kopfschmerzen bereitet, dann wird dir",
-    0,
-    8,
-    3.99,
-    29
-   ],
-   [
-    "präteritum",
-    "Präteritum.\" Oder \"Bilde Sätze im Perfekt.\" oder sowas.",
-    1215,
-    1225,
-    2.74,
-    5
-   ],
-   [
-    "passiv",
-    "alles Passiv Ersatzformen. Man kann es",
-    1727,
-    1733,
-    3.76,
-    9
-   ],
-   [
-    "vergangenheitsform",
-    "Vergangenheitsform.\" Und äh wenn ich las weiß, dann sage ich",
-    1251,
-    1261,
-    2.29,
-    3
-   ],
-   [
-    "fliessend",
-    "",
-    0,
-    0,
-    3.63,
-    7
-   ],
-   [
-    "riga",
-    "beendete meine Schule in Riga. Und dann erst mit 22, glaube ich, kam",
-    196,
-    204,
-    3.51,
-    6
-   ],
-   [
-    "lernst",
-    "würdest, wenn du eine Sprache lernst.",
-    469,
-    476,
-    3.72,
-    6
-   ],
-   [
-    "studierst",
-    "Germanistik studierst, wenn du Linguistik studierst. Natürlich ist es",
-    1785,
-    1792,
-    2.94,
-    3
-   ],
    [
     "deutsch",
     "gutes Deutsch. Ich hatte die Erfahrung",
@@ -7092,42 +7029,138 @@
     20
    ],
    [
-    "lernen",
-    "gemacht, Deutsch als Kind zu lernen. Mit",
-    29,
-    35,
-    5.14,
-    19
+    "gelernt",
+    "wie intuitiv gelernt. Bzw., wenn ich ein bisschen weiter",
+    270,
+    280,
+    4.74,
+    9
    ],
    [
-    "schule",
-    "einer Schule in Mannheim, in einer",
-    39,
-    44,
-    5.34,
-    17
+    "lehrerin",
+    "dieser Klasse und die Lehrerin sprach",
+    987,
+    993,
+    4.24,
+    9
    ],
    [
-    "heisst",
+    "spreche",
+    "möchte meinen, ich spreche ein ziemlich",
+    24,
+    30,
+    4.27,
+    7
+   ],
+   [
+    "sprach",
+    "ich einfach besser Deutsch sprach als",
+    938,
+    942,
+    4.77,
+    5
+   ],
+   [
+    "grammatik",
+    "Wenn die deutsche Grammatik, dir Kopfschmerzen bereitet, dann wird dir",
+    0,
+    8,
+    3.99,
+    29
+   ],
+   [
+    "passiv",
+    "alles Passiv Ersatzformen. Man kann es",
+    1727,
+    1733,
+    3.76,
+    9
+   ],
+   [
+    "fliessend",
     "",
     0,
     0,
-    5.48,
-    17
+    3.63,
+    7
    ],
    [
-    "eigentlich",
-    "eigentlich null auf ein sehr brauchbares",
-    47,
-    54,
-    5.58,
-    17
+    "lernst",
+    "würdest, wenn du eine Sprache lernst.",
+    469,
+    476,
+    3.72,
+    6
+   ],
+   [
+    "riga",
+    "beendete meine Schule in Riga. Und dann erst mit 22, glaube ich, kam",
+    196,
+    204,
+    3.51,
+    6
+   ],
+   [
+    "autofahren",
+    "wie ich das immer mit dem Autofahren",
+    1735,
+    1740,
+    3.54,
+    3
+   ],
+   [
+    "kapieren",
+    "Und ich kannte das Wort kapieren nicht,",
+    558,
+    564,
+    3.44,
+    3
+   ],
+   [
+    "intuitiv",
+    "wie intuitiv gelernt. Bzw., wenn ich ein bisschen weiter",
+    270,
+    280,
+    3.39,
+    3
+   ],
+   [
+    "präteritum",
+    "Präteritum.\" Oder \"Bilde Sätze im Perfekt.\" oder sowas.",
+    1215,
+    1225,
+    2.74,
+    5
+   ],
+   [
+    "studierst",
+    "Germanistik studierst, wenn du Linguistik studierst. Natürlich ist es",
+    1785,
+    1792,
+    2.94,
+    3
+   ],
+   [
+    "vergangenheitsform",
+    "Vergangenheitsform.\" Und äh wenn ich las weiß, dann sage ich",
+    1251,
+    1261,
+    2.29,
+    3
+   ],
+   [
+    "lappland",
+    "gefragt, ob ich aus Lappland komme.",
+    428,
+    434,
+    2.87,
+    2
    ]
   ],
-  "tx": "Wenn die deutsche Grammatik, dir Kopfschmerzen bereitet, dann wird dir dieses Video wahrscheinlich gefallen. Ich muss sagen, die deutsche Grammatik beherrsche ich wahrscheinlich bis heute nicht perfekt und wirklich sehr weit entfernt von perfekt, obwohl ich mich mit der deutschen Sprache inzwischen seit über 30 Jahren beschäftige. Ich möchte meinen, ich spreche ein ziemlich gutes Deutsch. Ich hatte die Erfahrung gemacht, Deutsch als Kind zu lernen. Mit 11 Jahren kam ich nach Deutschland für eine Art Austauschjahr und war fast ein ganzes Schuljahr in einer Schule in Mannheim, in einer Waldorfschule tatsächlich. Und ich hatte die Erfahrung gemacht, dass ich von eigentlich null auf ein sehr brauchbares äh mündliches und schriftliches Deutschniveau kam innerhalb von wenigen Monaten. Jetzt muss ich dazu sagen, ich hatte eine wirklich, wirklich, wirklich gute Erfahrung gemacht mit der Klasse, mit den Lehrern, mit der Unterstützung, die ich von allen Seiten bekommen habe. Ich war 11 Jahre alt, also es war eigentlich nicht mehr das Alter, wo man die Sprache so komplett unbewusst lernt, wie kleine Kinder, wenn sie zusammen im Sandkasten spielen und irgendwie mühelos miteinander kommunizieren, scheinbar unabhängig davon, welche Sprachen sie sprechen. 11 Jahre ist geht schon in Richtung Pubertät, da ist es nicht mehr so einfach. Aber ich hatte wirklich eine extrem hilfsbereite Klasse, muss aber dazu sagen, ich war die einzige Ausländerin. Das heißt, ich war das Äffchen, ich war die Unterhaltung für die Klasse und die Klasse hat sich wirklich sehr bemüht, alle meine Fehler zu korrigieren und ich muss sagen, mein Selbstwertgefühl hat sich damals ziemlich stabilisiert. Erstaunlicherweise, weil ich wurde wirklich jedes Mal korrigiert, wenn ich mich im Unterricht meldet und etwas sagen",
+  "tx": "Wenn die deutsche Grammatik, dir Kopfschmerzen bereitet, dann wird dir dieses Video wahrscheinlich gefallen. Ich muss sagen, die deutsche Grammatik beherrsche ich wahrscheinlich bis heute nicht perfekt und wirklich sehr weit entfernt von perfekt, obwohl ich mich mit der deutschen Sprache inzwischen seit über 30 Jahren beschäftige. Ich möchte meinen, ich spreche ein ziemlich gutes Deutsch. Ich hatte die Erfahrung gemacht, Deutsch als Kind zu lernen. Mit 11 Jahren kam ich nach Deutschland für eine Art Austauschjahr und war fast ein ganzes Schuljahr in einer Schule in Mannheim, in einer … ich von der vom Studium her eigentlich nichts mit Deutsch als Fremdsprache zu tun habe, sondern ich habe Lehramt für damals Hauptschulen, heute heißen sie hier zumindest Mittelschulen, äh studiert. Das heißt, ich hätte eigentlich an einer Regelschule in Bayern arbeiten können und ich dürfte muttersprachliche Kinder in Deutsch und ein paar anderen Fächern unterrichten. Offensichtlich mache ich das nicht. Also, wenn es euch interessiert, auch z.B. meine Entscheidung eben nicht in der Schule zu arbeiten und nicht mit äh Kindern und Jugendlichen zu arbeiten, sondern mit Erwachsenen oder gar … Deutsch und der Unterricht an der Schule half, glaube ich, nicht so viel. Es war die sechste Klasse in der Waldorfschule und wenn ihr euch, also falls einige von euch sich vielleicht ein bisschen mit Waldorfpädagogik auskennen, in der sechsten Klasse nimmt man so tolle Sachen durch, wie ich glaube, Geschichte des alten Rom z.B. Das heißt, da waren ganz viele Begriffe, die du definitiv nicht lernen würdest, also nicht in erster Linie lernen würdest, wenn du eine Sprache lernst. Und ich lernte die aber, weil ich sie im Unterricht gebraucht habe und es wurden irgendwelche literarischen … und der eine Lehrer beantwortet meistens auch nicht alle Fragen, weil nicht jede Frage zum Thema des Unterrichts passt. Und das ist problematisch. Also, ihr versteht, was ich meine. So. Okay, jetzt müssen wir langsam zum Thema Grammatik kommen, sonst denkt ihr, was, sie hat versprochen, ich erzähle, wie ich die Sprache gelernt habe. Also, nachdem ich ein Jahr in meiner Schule in Riga, in diesem fancy deutschsprachigen Gymnasium war und ich hatte nichts gelernt. Ich bin sicher, wir hatten sehr viel Grammatikunterricht und ich machte Hausaufgaben und obwohl ich sehr viel Stress hatte … deutsch Gymnasium in Riga und ich musste, zum Glück, wirklich zum Glück, ich musste eine Klasse wiederholen. Weil sie gesagt haben, na ja, du warst in einer, was, Waldorfschule? Das ist eine Privatschule. Ihr habt da irgendwie andere Sachen gelernt als wir hier, also, um sicher zu gehen wiederholst du einfach noch mal die sechste Klasse. Weil ich war in der sechsten Klasse in in Mannheim und dann kam ich nach Riga und die sagten, okay das ist uns zu riskant, wir nehmen dich nicht in die siebte, du wiederholst die sechste Klasse. Und es war mein großes Glück, weil somit bin ich nicht in meine … und es ist irgendwie nicht gut genug und oh mein Gott und also es war ich war wirklich sehr gestresst. Und dann schaute ich ich glaube meinen Stift an oder irgendwas lag auf dem Tisch oder meine Hände. Ich habe auf jeden Fall nicht hochgeschaut zur Lehrerin und habe angefangen irgendwas über meine Sommerferien zu erzählen. Ich weiß gar nicht, was ich erzählt habe. Das also es waren ja die Sommerferien, in denen ich zurückgekommen bin aus Deutschland und und ich habe irgendwas erzählt, aber es war ungefähr so fließend, wie ich jetzt mit euch spreche. Und ich hatte wirklich ich hatte so … können. Ich hatte bloß den richtigen Namen nicht parat. Genau. Und das hat sich aber relativ schnell aufgeklärt, also die Lehrerin war sehr überrascht, als sie die Ergebnisse dieses Tests austeilte. Und damals hat man bei uns noch die Noten einfach vorgelesen, also es gab nichts mit Datenschutz und so weiter, deswegen hat sie einfach vorgelesen und hat gesagt, Maria, ich weiß nicht, was bei dir los war, aber die Note ist nicht gut. Und dann sprach ich sie an nach der Stunde und hatte gesagt, so ist die Sache. Ich weiß, was das ist, aber ich kannte den Begriff nicht. Und so lernte ich in … und dann noch mit Modalverb. Ich habe nie diese Tabellen gelernt, wie man diese Grammatikform bildet, aber ich kann einen korrekten Satz im Kopf formulieren und dann überlege ich okay, ich habe das jetzt so gemacht und dann kann ich das aufrollen und schauen, warum habe ich das so gemacht. Lange Rede, kurzer Sinn, was ich euch mit diesem Video signalisieren möchte ist folgendes. Ich kenne viele Wege zu guten Sprachkenntnissen und keiner dieser Wege führt über intensive Grammatik Studien, bevor du sprichst, bevor du schreibst. Also, ich kann mit Grammatik arbeiten, aber es ist nur … Du kannst sie benutzen, ohne sie zu kennen, weil z.B. wenn du einen Satz bilden kannst, wie es lässt sich einrichten oder es lässt sich machen oder man kann es machen oder etwas ist zu tun, z.B. ja, das sind alles Passiv Ersatzformen. Man kann es lernen, wie sie heißen, man muss es nicht unbedingt lernen. Das ist genauso, wie ich das immer mit dem Autofahren vergleiche, wenn jede Person auf diesem Planeten, die Autofahren kann, um den Führerschein zu bekommen, ein Auto technisch komplett beherrschen müsste. Also, ich kann jedes Teil im Auto benennen und ich kann das Auto … reingestopft, aber du hast es nie wieder gebraucht seitdem. Warum, warum speichern wir das überhaupt? Und dann kommt die fleißige Putzfrau im Gehirn und schmeißt alles weg, was du nicht gebraucht hast. So funktioniert es. Deswegen, also, ich weiß, das war jetzt wieder ein langes Video, ich kann es irgendwie nicht kurz erklären, aber schreibt mir auf jeden Fall in die Kommentare, ob ihr mehr wissen wollt über meine Laufbahn und wie es bei mir alles gelaufen ist. Stellt mir gerne alle Fragen zum Grammatik oder auch nicht Grammatik, die ihr habt und wir sehen uns im nächsten Video. Ciao, ciao.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8098
+  "src": "auto"
  },
  "VR4PW_DGBdw": {
   "channel": "Sloeful German",
@@ -8754,7 +8787,7 @@
  "blbkZRBhkZo": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-05T15:08:26+00:00",
+  "checked": "2026-11-11T04:24:11+00:00",
   "title": "Grunty, die Ballerina | Miffy | Ganze Folge",
   "duration": 1442,
   "published": "20260816",
@@ -8762,73 +8795,10 @@
   "spoken_v": 2,
   "pace": 102.2,
   "rare": 0.1263,
+  "var": 0.7778,
   "speech_s": 1203.8,
   "tokens": 2051,
   "kw": [
-   [
-    "schnuffi",
-    "Komm Schnuffi. Oh, Schnuffi.",
-    363,
-    369,
-    2.06,
-    28
-   ],
-   [
-    "hark",
-    "harke sie wieder zusammen. Ich hark,",
-    528,
-    535,
-    2.48,
-    21
-   ],
-   [
-    "rascheln",
-    "Rascheln. ",
-    416,
-    421,
-    2.88,
-    25
-   ],
-   [
-    "boing",
-    "Du machst einen Boing-Boing-Tanz. ",
-    227,
-    232,
-    2.5,
-    14
-   ],
-   [
-    "zelten",
-    "Wir zelten in ihrem Garten. Ich kann es",
-    728,
-    733,
-    3.48,
-    11
-   ],
-   [
-    "granny",
-    "Da ist Granny! Komm rein, Granti.",
-    112,
-    122,
-    3.0,
-    6
-   ],
-   [
-    "naschen",
-    "nach Haus was naschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus",
-    432,
-    438,
-    3.05,
-    6
-   ],
-   [
-    "beeil",
-    "Ah, la la. Oh, ich beeil mich lieber.",
-    24,
-    30,
-    2.7,
-    3
-   ],
    [
     "hallo",
     "Hallo Miffy, du hast heute aber gute",
@@ -8846,27 +8816,11 @@
     9
    ],
    [
-    "garten",
-    "Garten spielen. Okay.",
-    479,
-    485,
-    4.73,
-    9
-   ],
-   [
     "schön",
     "Oh, sehr schön. Oh, hört sich an, als würde Tante Alice",
     16,
     25,
     5.52,
-    8
-   ],
-   [
-    "okay",
-    "diesmal nicht mit den Armen, okay? Oh.",
-    213,
-    219,
-    4.97,
     8
    ],
    [
@@ -8878,26 +8832,138 @@
     8
    ],
    [
-    "komm",
-    "Komm rein, Granti. Hallo, können wir Fü und Melanie bitte",
-    116,
-    124,
-    4.91,
+    "garten",
+    "Garten spielen. Okay.",
+    479,
+    485,
+    4.73,
+    9
+   ],
+   [
+    "kaputt",
+    "das Zelt kaputt. Also ist wohl alles",
+    1032,
+    1036,
+    4.57,
+    5
+   ],
+   [
+    "wow",
+    "Oh, wow. Was wirst du mit den Blättern tun,",
+    485,
+    491,
+    4.71,
+    4
+   ],
+   [
+    "echten",
+    "Wie wäre es, wenn wir es mit echten",
+    644,
+    649,
+    4.51,
+    4
+   ],
+   [
+    "alice",
+    "Zu meiner Ballettstunde bei Tante Alice.",
+    8,
+    15,
+    4.19,
+    8
+   ],
+   [
+    "tante",
+    "Zu meiner Ballettstunde bei Tante Alice.",
+    8,
+    15,
+    4.18,
     7
    ],
    [
-    "gute",
-    "Hallo Miffy, du hast heute aber gute",
-    4,
-    9,
-    5.61,
+    "melanie",
+    "Melanie! Miffy!",
+    35,
+    40,
+    3.85,
     7
+   ],
+   [
+    "zelt",
+    "Hi Poppy. Wow, ist das das Zelt?",
+    760,
+    767,
+    4.04,
+    5
+   ],
+   [
+    "zelten",
+    "Wir zelten in ihrem Garten. Ich kann es",
+    728,
+    733,
+    3.48,
+    11
+   ],
+   [
+    "naschen",
+    "nach Haus was naschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus",
+    432,
+    438,
+    3.05,
+    6
+   ],
+   [
+    "granny",
+    "Da ist Granny! Komm rein, Granti.",
+    112,
+    122,
+    3.0,
+    6
+   ],
+   [
+    "schlitten",
+    "Es ist ein Schlitten. Wow. Schau mal, wie er fährt.",
+    1354,
+    1364,
+    3.52,
+    3
+   ],
+   [
+    "schnuffi",
+    "Komm Schnuffi. Oh, Schnuffi.",
+    363,
+    369,
+    2.06,
+    28
+   ],
+   [
+    "rascheln",
+    "Rascheln. ",
+    416,
+    421,
+    2.88,
+    25
+   ],
+   [
+    "hark",
+    "harke sie wieder zusammen. Ich hark,",
+    528,
+    535,
+    2.48,
+    21
+   ],
+   [
+    "boing",
+    "Du machst einen Boing-Boing-Tanz. ",
+    227,
+    232,
+    2.5,
+    14
    ]
   ],
-  "tx": "Hallo Miffy, du hast heute aber gute Laune. Wohin gehst du? Zu meiner Ballettstunde bei Tante Alice. Ich liebe tanzen. Oh, sehr schön. Oh, hört sich an, als würde Tante Alice anfangen. Ah, la la. Oh, ich beeil mich lieber. Melanie! Miffy! Oh, hallo Miffy. Da bist du ja. Bereit für eure Ballettstunde? Ja, Tante Alice. Beginnen wir mit einem Plié. Plié bedeutet, dass man seine Knie beugen muss. Weiß ich doch. Gut gemacht. Und noch einmal. Sehr schön. Versuchen wir eine Pirouette. Und jetzt möchte ich ein paar Sprünge sehen. Sehr gut, Miffy und Melanie. Mal sehen, ob ihr alle drei Bewegungen zusammenbringen könnt. Plié! Oh. Pirouette! Hervorragend! Und springt! Da ist Granny! Komm rein, Granti. Hallo, können wir Fü und Melanie bitte zum Spielen rauskommen? Wir haben unsere Ballettstunde fast beendet. Nur noch ein paar Minuten und äh oh. Warum machst du nicht einfach mit? Das kann auch Spaß machen. Aber ich habe noch nie Ballett getanzt. Oh, keine Sorge, Granti. Ich bin mir sicher, dass du es im Nu lernst. Wir helfen dir. Zuerst machen wir ein Plie. Ein was? Ein Plie, man beugt seine Knie. Ich glaube, mein Magen knurrt. Mein Magen knurrt auch. Meiner auch. Nun, es ist ja auch schon fast Zeit fürs Mittagessen. Warum zeigt ihr Granti nicht ein paar weitere Tanzschritte, während ich das Mittagessen vorbereite? Ja! Ich weiß was. Ich spiele Klavier. Hm. Schau zu, Granti. Vorsichtig, flatter nicht mit den Armen. Au. Ich kann nicht so gut Ballett tanzen wie du, Müffi. Versuch es einfach weiter. Lass uns springen. Einfach so. Jetzt bist du dran, Granti. Flatter diesmal nicht mit den Armen, okay? Oh. Das ist witzig. Hopp, Granti. Du machst einen Boing-Boing-Tanz. Warum wackelt denn hier alles? Jetzt hat es aufgehört. Ganz schön viele Boings. Wir wollen dir was zeigen, Tante Alice. S",
+  "tx": "Hallo Miffy, du hast heute aber gute Laune. Wohin gehst du? Zu meiner Ballettstunde bei Tante Alice. Ich liebe tanzen. Oh, sehr schön. Oh, hört sich an, als würde Tante Alice anfangen. Ah, la la. Oh, ich beeil mich lieber. Melanie! Miffy! Oh, hallo Miffy. Da bist du ja. Bereit für eure Ballettstunde? Ja, Tante Alice. Beginnen wir mit einem Plié. Plié bedeutet, dass man seine Knie beugen muss. Weiß ich doch. Gut gemacht. Und noch einmal. Sehr schön. Versuchen wir eine Pirouette. Und jetzt möchte ich ein paar Sprünge sehen. Sehr gut, Miffy und Melanie. Mal sehen, ob ihr alle drei Bewegungen … während ich das Mittagessen vorbereite? Ja! Ich weiß was. Ich spiele Klavier. Hm. Schau zu, Granti. Vorsichtig, flatter nicht mit den Armen. Au. Ich kann nicht so gut Ballett tanzen wie du, Müffi. Versuch es einfach weiter. Lass uns springen. Einfach so. Jetzt bist du dran, Granti. Flatter diesmal nicht mit den Armen, okay? Oh. Das ist witzig. Hopp, Granti. Du machst einen Boing-Boing-Tanz. Warum wackelt denn hier alles? Jetzt hat es aufgehört. Ganz schön viele Boings. Wir wollen dir was zeigen, Tante Alice. Spiel bitte Klavier. Oh, ich äh Nun, dann mal los. Ja. Oh! Bravo! Bravo! Ich … Miffy. Das weiß ich doch, aber man kann es hören, wenn Schnuffi durchläuft. Hör zu. Oh, jetzt höre ich es auch, dieses Rascheln. Huh, raschel, raschel, raschel. Huh. Jetzt muss ich nach Hause, Schnuffi. Es ist Mittagszeit. Rascheln, rascheln, rascheln. Ich gehe nach Haus was naschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus was naschen. Und dann einfach Oh, hallo Tante Alice. Hallo Miffy, mein Liebes. Was machst du da? Ich liebe die Farben des Herbstlaubes, also male ich diesen Baum. Ich mag Herbstlaub auch, nämlich wegen seinem rascheln, rascheln, rascheln. Das höre ich. Seine … muss den Garten ja sauber und ordentlich halten. Ah. Oh, tut mir leid. Die sahen so schön raschelig aus. Da konnte ich nicht anders. Aber keine Sorge, Papa, ich harke sie wieder zusammen. Ich hark, hark, hark, heute ist Blättertag. Ich hark, hark, hark, heute ist Blättertag. Ich hark, hark, hark, heute ist Blättertag. Du musst dich beeilen, wenn du gegen den Wind gewinnen willst, sonst weht er sie weg. Ich hark, hark, hark, heute ist Blättertag. Ich hark, hark, hark, heute ist Blättertag. Ich hark, hark, hark, heute ist Blättertag. Ich hark, hark, hark, heute ist Blättertag. Oh, sehr gut, … Ende machen? Wie mit dem hier? Oh, das ist eine fantastische Idee, Miffy. Wir machen aus meinem Bild eine Collage mit echten Blättern. Das ist ein schönes. Oh, und das. Das sieht genauso aus wie der echte Baum. Rascheln, rascheln, rascheln. Ich gehe nach Haus was naschen. Rascheln, rascheln, rascheln. Ich gehe nach Haus was naschen. Oh, hallo Alice. Du kommst genau richtig zum Essen. Guck mal, was wir gemacht haben. Wie schön. Ich möchte, dass du es behältst, Miffy. Schließlich hat deine Idee mein Bild gerettet oder sollte ich sagen unsere Collage. Kann ich es hier für dich aufhängen? Oh, … Zeltabenteuer vor. Ja. Wir werden so viel Spaß haben. Aber müssen wir die ganze Nacht draußen zelten? Du musst keine Angst haben. Das ist leicht Miffy, ich habe schon ganz oft draußen gezeltet. Okay, wenn ihr das sagt. Alles wird gut Miffy, Melanie und Granti liegen gleich neben dir und ich bin gleich hier im Haus. Wir werden singen und spielen und es gibt sogar einen Mitternachtsschmaus. Einen Mitternachtsschmaus? Ja, guck. Oh, lecker. Oh. Schnuffi, der ist für unseren Mitternachtsschmaus. Ich glaube, Schnuffi will auch zelten. Schnuffi, das ist mein Apfel. Komm zurück. Aus. Schnuffi. Ähm, … Aber die hilft euch vielleicht. Oh. Oh, wie schön. So, die wird die ganze Nacht leuchten. Jetzt aber ab ins Zelt. Wir sehen uns morgen früh. Gute Nacht, Papi. Schlaf gut. Gute Nacht, Kinder. Zeit für unseren Mitternachtssnack. Hurra! Ja! Oh, wach auf, Kanti. Ich hab was gehört. Was ist denn los? Hast du das gehört? Ah, das ist nur eine Eule, nichts, wovor man Angst haben muss. Schlaf weiter. Habt ihr das gehört? Was ist das? Ich weiß nicht. Oh, nein. Oh, es ist ein Monster! Das ist kein Monster. Das ist Schnuffi. Hallo, Schnuffi. Es ist Schnuffi! Sie wollte auch zelten. Schnuffi, das … Granny? Granny? Melanie? Gute Nacht, Schlafmützen. Hallo, Miffy. Du stampfst aber viel. Bist du wütend? Nein. Ich halte mich warm. Heute ist es sehr kalt. Ah, deswegen hast du deinen Mantel an. Aber was ist mit dem Helm? Soll er dich auch warm halten? Nein, den trage ich zur Sicherheit. Ich fahre mit Granny den Abhang hinab. Entschuldige die Verspätung, Miffy. Los, gehen wir. Es ist so schwer, ihn den Hügel hoch zu schieben. Oh, schau mal, der Griff. Wir können ihn einfach den Hügel hochziehen. Super Idee. Wir können uns abwechseln. Du zuerst. Okay, aber du bist als Nächste dran, Granny. … weiß doch, dass es einfacher ist, ihn zu ziehen. Ich kann ihn nicht ziehen. Meiner hat keine Räder, siehst du? Schlappohrs Wagen ist kaputt. Granti, sein Name ist Den. Okay, aber er verschwendet seine Zeit, wenn er einen kaputten Wagen trägt. Hm, vielleicht, wir werden sehen. Aber habt ihr bemerkt, wie grau der Himmel ist? Oh ja. Was für eine witzige Farbe. Warum ist das so? Miffy, beeil dich! Ich muss jetzt gehen. Bis später, Den. Bis bald, Miffy. Es schneit! Ich liebe Schnee. Oh, natürlich. Deswegen ist der Himmel so grau. Deshalb wusste Ben, dass es schneien würde. Komm, Miffy, … es auch kein Wagen. Es ist ein Schlitten. Wow. Schau mal, wie er fährt. Juhu! Ziemlich cool, oder? Wow, dein Schlitten ist großartig. Darf ich auch mal, Schlafohr? Granty, so heißt er nicht. Das habe ich dir doch gesagt. Oh, tut mir leid. Ich habe nicht nachgedacht. Darf ich auch mal, den? Liebend gern. Von mir aus können wir es gerne zusammen versuchen. 3 2 1 Los! Du steuerst super Granti. Das macht Spaß. Das hat wirklich Spaß gemacht. Danke Den. Ja. Können wir noch mal Schlitten fahren? Bitte. Aber natürlich. Aber lass uns zuerst reingehen und einen Kakao trinken. Kakao! Ja, bitte. Lecker.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8292
+  "src": "auto"
  },
  "iHkkiH_gAHs": {
   "channel": "tagesschau",
@@ -9050,7 +9116,7 @@
  "OtRwcQVPv-s": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-05T16:07:30+00:00",
+  "checked": "2026-11-11T04:13:42+00:00",
   "title": "Wohin fährt der Bus? Hamburg City Tour | German Directions (A1/A2)",
   "duration": 792,
   "published": "20260614",
@@ -9058,81 +9124,10 @@
   "spoken_v": 2,
   "pace": 89.4,
   "rare": 0.0806,
+  "var": 0.5827,
   "speech_s": 750.1,
   "tokens": 1117,
   "kw": [
-   [
-    "biegt",
-    "macht er eine Kurve. Er biegt ab. Also",
-    150,
-    160,
-    3.3,
-    30
-   ],
-   [
-    "geradeaus",
-    "Rechts, links, geradeaus, findest du den Weg?",
-    14,
-    26,
-    3.57,
-    25
-   ],
-   [
-    "dammtor",
-    "Zur Station Dammtor. Wie komme ich vom",
-    476,
-    485,
-    2.34,
-    6
-   ],
-   [
-    "landungsbrücken",
-    "Landungsbrücken, Landungsbrücken.",
-    114,
-    121,
-    2.61,
-    5
-   ],
-   [
-    "wallanlagen",
-    "zu den großen Wallanlagen. Wie komme ich",
-    375,
-    381,
-    2.17,
-    4
-   ],
-   [
-    "elbphilharmonie",
-    "Schau, hast du die Elbphilharmonie entdeckt? Die Elbphilharmonie ist auch",
-    255,
-    265,
-    3.07,
-    5
-   ],
-   [
-    "biege",
-    "Dann biege nach links ab und biege nach rechts ab.",
-    525,
-    535,
-    2.7,
-    4
-   ],
-   [
-    "helgoländer",
-    "die Helgoländer Allee. Gehen Sie die",
-    400,
-    408,
-    2.15,
-    3
-   ],
-   [
-    "bus",
-    "eine U-Bahn und es gibt einen Bus.",
-    9,
-    19,
-    4.72,
-    29
-   ],
    [
     "rechts",
     "Rechts, links, geradeaus, findest du den Weg?",
@@ -9166,6 +9161,14 @@
     15
    ],
    [
+    "bus",
+    "eine U-Bahn und es gibt einen Bus.",
+    9,
+    19,
+    4.72,
+    29
+   ],
+   [
     "fährt",
     "Und wo fährt er hin? Er fährt eine Weile",
     142,
@@ -9174,12 +9177,12 @@
     15
    ],
    [
-    "strasse",
-    "",
-    0,
-    0,
-    5.27,
-    10
+    "brücke",
+    "Ich gehe auf Kennedy Brücke. Eine",
+    574,
+    584,
+    4.61,
+    7
    ],
    [
     "station",
@@ -9188,12 +9191,108 @@
     424,
     4.47,
     7
+   ],
+   [
+    "kreuzung",
+    "Kreuzung. Und an der Kreuzung biegt er",
+    235,
+    244,
+    4.0,
+    11
+   ],
+   [
+    "haltestelle",
+    "Haltestelle Landungsbrücken,",
+    113,
+    121,
+    3.99,
+    7
+   ],
+   [
+    "allee",
+    "die Helgoländer Allee. Gehen Sie die",
+    400,
+    408,
+    3.84,
+    3
+   ],
+   [
+    "umdrehen",
+    "Umdrehen. Was ist Umdrehen? Umdrehen, wenn ich",
+    287,
+    297,
+    3.62,
+    3
+   ],
+   [
+    "biegt",
+    "macht er eine Kurve. Er biegt ab. Also",
+    150,
+    160,
+    3.3,
+    30
+   ],
+   [
+    "geradeaus",
+    "Rechts, links, geradeaus, findest du den Weg?",
+    14,
+    26,
+    3.57,
+    25
+   ],
+   [
+    "elbphilharmonie",
+    "Schau, hast du die Elbphilharmonie entdeckt? Die Elbphilharmonie ist auch",
+    255,
+    265,
+    3.07,
+    5
+   ],
+   [
+    "drehe",
+    "geradeaus, geradeaus. Dann drehe ich mich um. Ich drehe mich um und jetzt ist",
+    296,
+    308,
+    3.57,
+    4
+   ],
+   [
+    "dammtor",
+    "Zur Station Dammtor. Wie komme ich vom",
+    476,
+    485,
+    2.34,
+    6
+   ],
+   [
+    "landungsbrücken",
+    "Landungsbrücken, Landungsbrücken.",
+    114,
+    121,
+    2.61,
+    5
+   ],
+   [
+    "biege",
+    "Dann biege nach links ab und biege nach rechts ab.",
+    525,
+    535,
+    2.7,
+    4
+   ],
+   [
+    "wallanlagen",
+    "zu den großen Wallanlagen. Wie komme ich",
+    375,
+    381,
+    2.17,
+    4
    ]
   ],
-  "tx": "Du bist in Hamburg. Es gibt ein Schiff, es gibt eine S-Bahn, es gibt eine U-Bahn und es gibt einen Bus. Rechts, links, geradeaus, findest du den Weg? Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Heute machen wir eine Stadtrundfahrt in Hamburg. Wir fahren mit dem Bus durch Hamburg und ich beschreibe den Weg. Rechts, links, geradeaus und du kannst viele Vokabeln lernen. Gut, hier ist die große Karte. Hier, hier ist die Karte oder auch der Stadtplan, der Stadtplan. Die Stadt, der Plan, der Stadtplan und hier sind die vielen, vielen Straßen in Hamburg. Nicht ganz Hamburg, aber ja, ein Teil von Hamburg. Die rote Linie, das ist Linie A. Und die äh gelbe Linie, das ist Linie C. Wo beginnen die Linien? Die rote 1, das ist hier, das ist an der Haltestelle Landungsbrücken, Landungsbrücken. Hier sehen wir, es ist eine U-Bahn-Haltestelle und ein hier hier dahinter, das ist eine S-Bahn-Haltestelle. Also ein Stopp für die U-Bahn, für die S-Bahn und der Start vom Bus, der Start vom Bus. Und wo fährt er hin? Er fährt eine Weile geradeaus. Er fährt geradeaus. Dann macht er eine Kurve. Er biegt ab. Also geradeaus und dann nicht mehr geradeaus, das ist Abbiegen, Abbiegen. Hier biegt er ab oder auch hier, das siehst du hier. Der Bus biegt ab. Biegt er nach rechts oder nach links ab? Er biegt nach rechts ab. Hier biegt er nach rechts ab. Oder hier. Was macht der Bus? Er biegt nach rechts ab. Genau, haben wir noch eine andere hier oben vielleicht. Was macht er hier oben? Der Bus biegt Er biegt nach links ab. Er kommt vom Harvesterhuder Weg und biegt nach links ab in den Mittelweg. Und er fährt den Mittelweg geradeaus, geradeaus, geradeaus bis zum Ende. Am Ende ist eine, wie heißt das hier? Eine Kreuzung. Und an der Kreuzung biegt er nach links ab. Genau. An de",
+  "tx": "Du bist in Hamburg. Es gibt ein Schiff, es gibt eine S-Bahn, es gibt eine U-Bahn und es gibt einen Bus. Rechts, links, geradeaus, findest du den Weg? Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Heute machen wir eine Stadtrundfahrt in Hamburg. Wir fahren mit dem Bus durch Hamburg und ich beschreibe den Weg. Rechts, links, geradeaus und du kannst viele Vokabeln lernen. Gut, hier ist die große Karte. Hier, hier ist die Karte oder auch der Stadtplan, der Stadtplan. Die Stadt, der Plan, der Stadtplan und hier sind die vielen, vielen Straßen in Hamburg. Nicht ganz … Die rote Linie, das ist Linie A. Und die äh gelbe Linie, das ist Linie C. Wo beginnen die Linien? Die rote 1, das ist hier, das ist an der Haltestelle Landungsbrücken, Landungsbrücken. Hier sehen wir, es ist eine U-Bahn-Haltestelle und ein hier hier dahinter, das ist eine S-Bahn-Haltestelle. Also ein Stopp für die U-Bahn, für die S-Bahn und der Start vom Bus, der Start vom Bus. Und wo fährt er hin? Er fährt eine Weile geradeaus. Er fährt geradeaus. Dann macht er eine Kurve. Er biegt ab. Also geradeaus und dann nicht mehr geradeaus, das ist Abbiegen, Abbiegen. Hier biegt er ab oder … Bus biegt ab. Biegt er nach rechts oder nach links ab? Er biegt nach rechts ab. Hier biegt er nach rechts ab. Oder hier. Was macht der Bus? Er biegt nach rechts ab. Genau, haben wir noch eine andere hier oben vielleicht. Was macht er hier oben? Der Bus biegt Er biegt nach links ab. Er kommt vom Harvesterhuder Weg und biegt nach links ab in den Mittelweg. Und er fährt den Mittelweg geradeaus, geradeaus, geradeaus bis zum Ende. Am Ende ist eine, wie heißt das hier? Eine Kreuzung. Und an der Kreuzung biegt er nach links ab. Genau. An der Kreuzung biegt der Bus nach links ab. Was entdecken wir … entdeckt? Die Elbphilharmonie ist auch sehr bekannt. Und der Bus fährt geradeaus bis zur Elbphilharmonie. Er fährt am Kaiserkai geradeaus bis zur Elbphilharmonie. Was macht der Bus dann? Stoppt er? Oder dreht er um? Fährt er zurück? Umdrehen. Was ist Umdrehen? Umdrehen, wenn ich die andere Richtung gehe. Jetzt gehe ich geradeaus, geradeaus. Dann drehe ich mich um. Ich drehe mich um und jetzt ist hier geradeaus, geradeaus. Ich gehe zurück. Ich drehe mich um. Ich drehe mich um. Okay? Verstanden? Sehr gut. Nein, der Bus dreht nicht um. Was macht der Bus bei der Elbphilharmonie? Er … rechts ab. Und er biegt noch einmal rechts ab. Was passiert, wenn der Bus links abbiegt? Wo fährt der Bus hin, wenn er hier links abbiegt und nicht rechts? Er biegt nicht rechts ab, sondern links. Dann kommt er zur U-Bahn-Haltestelle Baumwall. Nach links geht es zur U-Bahn-Haltestelle und nach rechts geht es ja, zurück. Geht es im Kreis. Ich bin bei den Landungsbrücken und ich will gerne zu den großen Wallanlagen. Wie komme ich hierhin? Ich bin bei den Landungsbrücken. Hast du eine Idee? Entschuldigung, wie komme ich zu den Wallanlagen? Wir sind hier bei den Landungsbrücken. Welche … Helgoländer Allee. Gehen Sie die Helgoländer Allee. Bis wohin? Bis wohin muss ich die Helgoländer Allee gehen? Ich gehe sie bis zur U-Bahn-Station St. Pauli. Ich gehe sie bis zur U-Bahn-Station St. Pauli. Dort ist eine große Kreuzung. Was mache ich an der Kreuzung hier? Gehe nach rechts, nach links oder geradeaus? Wohin gehe ich bei der Kreuzung? Ich will zu den Wallanlagen. Gehe geradeaus. Genau. Gehe bei der Kreuzung geradeaus in die Glacischaussee. Sind die Wallanlagen auf der rechten Seite oder auf der linken Seite? Von der Glacischaussee. Die Bahnanlagen sind auf der rechten Seite. … Hauptbahnhof? Zur Station Dammtor. Wie komme ich vom Hauptbahnhof zur Station Dammtor? Mit der S-Bahn. Fahre mit der S-Bahn eine Station. Das ist ganz einfach. Fahre mit der S-Bahn eine Station. Was ist mit der U-Bahn? Kann ich auch U-Bahn fahren? Hier ist eine dünne Linie. Wo fährt die U-Bahn? Die U-Bahn fährt nicht hier. Nein. Mit der U-Bahn kann ich nicht fahren. Aber ich kann laufen. Wie komme ich vom Hauptbahnhof zum Dammtor? Gehe in die Kirchenallee. Dann biege nach links ab und biege nach rechts ab. Die erste Straße. Die erste Straße. Das hier ist die zweite Straße. Ich komme von hier. … Straße nach rechts ab. Die Straße heißt Holzdamm. Die Straße heißt Holzdamm. Ich biege nach rechts ab in den Holzdamm. Dann kommt eine Kreuzung. Gehe ich nach rechts, nach links oder geradeaus? An der Kreuzung gehe ich geradeaus. Wie heißt die Straße? Die Straße heißt Kennedybrücke. Ich gehe auf Kennedy Brücke. Eine Brücke, weißt du, was eine Brücke ist? Wir haben Wasser und wir wollen über das Wasser und dann gibt es eine Straße oder einen Weg über das Wasser. Das ist eine Brücke. Unter der Brücke ist das Wasser und auf der Brücke können wir laufen oder fahren mit ja, dem Bus oder der … Brücke gehe ich geradeaus bis zur nächsten Kreuzung. Ich gehe bis zur nächsten Kreuzung und hier ist die S-Bahn-Haltestelle. Hier ist die Station Dammtor. Vorher habe ich gesagt, der Bus biegt hier nach links ab. Also, was können wir sagen? Der Bus fährt bei der U-Bahn-Haltestelle Stephansplatz. Was macht er dann? Er kommt vom Dammtor Damm. Oh, Doppeldamm. Dammtor Damm. Und dann biegt er nach rechts ab. Der Bus biegt ab in den Gorch-Fock-Wall. Der Bus biegt ab in den Gorch-Fock-Wall. Was macht der Bus dann? Er biegt ab nach rechts oder nach links? Der Bus biegt nach rechts ab, genau. Und … bisschen geradeaus. Wie weit? Wann stoppt der Bus? Bis wohin fährt der Bus geradeaus? Er fährt geradeaus bis zum Messeplatz. Dreht der Bus beim Messeplatz um? Nein, er dreht nicht um. Was macht der Bus beim Messeplatz? Er biegt nach links ab. Der Bus biegt nach links ab. Er biegt in die Karolinenstraße. Er biegt in die Karolinenstraße. Wo biegt der Bus nach rechts ab? Wo biegt der Bus nach rechts ab? Er biegt bei der Kirche. Dieses Kreuz hier ist eine Kirche. Er biegt bei der Kirche nach rechts ab. Hast du das verstanden? Ist das klar? Wenn du eine Frage hast, frage unten in den Kommentaren.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5864
+  "src": "auto"
  },
  "Gm9P9YLD2DA": {
   "channel": "Effortless German",
@@ -9350,7 +9449,7 @@
  "xNXtskzQKPY": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-05T16:09:05+00:00",
+  "checked": "2026-11-11T04:22:46+00:00",
   "title": "Kennen vs. Wissen – Wann benutzt man was? 🤔🇩🇪 #learnGerman",
   "duration": 433,
   "published": "20250225",
@@ -9358,73 +9457,10 @@
   "spoken_v": 2,
   "pace": 88.6,
   "rare": 0.0346,
+  "var": 0.8188,
   "speech_s": 430.9,
   "tokens": 636,
   "kw": [
-   [
-    "vertrautheit",
-    "durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder",
-    67,
-    77,
-    2.94,
-    2
-   ],
-   [
-    "verwendest",
-    "„wissen“ = Fakten oder Wissen besitzen. 2. Wann du „kennen“ verwendest",
-    93,
-    105,
-    3.02,
-    2
-   ],
-   [
-    "verb",
-    "diesem Video wirst du genau wissen, wann du welches Verb nutzen solltest. Also, los geht’s!",
-    34,
-    45,
-    3.72,
-    3
-   ],
-   [
-    "vertraut",
-    "Einfach ausgedrückt: „kennen“ = Vertraut sein mit etwas oder jemandem.",
-    86,
-    94,
-    4.28,
-    5
-   ],
-   [
-    "spezifische",
-    "Nun zu „wissen“. Dieses Verb benutzen wir, wenn es um spezifische Informationen oder Fakten geht:",
-    161,
-    174,
-    3.88,
-    2
-   ],
-   [
-    "fragst",
-    "Maria vertraut bist oder sie persönlich kennst. „Kennst du Berlin?“ → In diesem Fall fragst du,",
-    116,
-    127,
-    3.92,
-    2
-   ],
-   [
-    "merke",
-    "Merke: Wenn du eine Tatsache oder eine spezifische Information vermitteln möchtest,",
-    207,
-    216,
-    4.04,
-    2
-   ],
-   [
-    "know",
-    "beide „to know“, aber sie werden im Deutschen unterschiedlich verwendet. Keine Sorge – nach",
-    24,
-    35,
-    4.17,
-    2
-   ],
    [
     "wissen",
     "Unterschied zwischen „kennen“ und „wissen“? Diese beiden Verben bedeuten im Englischen",
@@ -9440,14 +9476,6 @@
     25,
     5.07,
     17
-   ],
-   [
-    "kennst",
-    "durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder",
-    67,
-    77,
-    4.45,
-    7
    ],
    [
     "hast",
@@ -9466,34 +9494,90 @@
     6
    ],
    [
-    "weiss",
-    "",
-    0,
-    0,
-    5.75,
+    "kennst",
+    "durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder",
+    67,
+    77,
+    4.45,
+    7
+   ],
+   [
+    "fakten",
+    "durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder",
+    67,
+    77,
+    4.49,
     5
    ],
    [
-    "stadt",
-    "ob die Person Berlin kennt, also ob sie die Stadt schon einmal besucht hat oder sie gut kennt.",
-    126,
-    136,
-    5.66,
-    5
-   ],
-   [
-    "informationen",
-    "Informationen wissen. Es geht mehr um Kenntnisse oder Informationen, die du im Kopf hast.",
-    76,
+    "vertraut",
+    "Einfach ausgedrückt: „kennen“ = Vertraut sein mit etwas oder jemandem.",
     86,
-    5.01,
+    94,
+    4.28,
     5
+   ],
+   [
+    "information",
+    "„Weißt du, wie spät es ist?“ → Hier wird nach einer Information",
+    183,
+    191,
+    4.63,
+    4
+   ],
+   [
+    "verb",
+    "diesem Video wirst du genau wissen, wann du welches Verb nutzen solltest. Also, los geht’s!",
+    34,
+    45,
+    3.72,
+    3
+   ],
+   [
+    "know",
+    "beide „to know“, aber sie werden im Deutschen unterschiedlich verwendet. Keine Sorge – nach",
+    24,
+    35,
+    4.17,
+    2
+   ],
+   [
+    "merke",
+    "Merke: Wenn du eine Tatsache oder eine spezifische Information vermitteln möchtest,",
+    207,
+    216,
+    4.04,
+    2
+   ],
+   [
+    "fragst",
+    "Maria vertraut bist oder sie persönlich kennst. „Kennst du Berlin?“ → In diesem Fall fragst du,",
+    116,
+    127,
+    3.92,
+    2
+   ],
+   [
+    "verwendest",
+    "„wissen“ = Fakten oder Wissen besitzen. 2. Wann du „kennen“ verwendest",
+    93,
+    105,
+    3.02,
+    2
+   ],
+   [
+    "vertrautheit",
+    "durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder",
+    67,
+    77,
+    2.94,
+    2
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute klären wir eine Frage, die viele Deutschlerner beschäftigt: Was ist der Unterschied zwischen „kennen“ und „wissen“? Diese beiden Verben bedeuten im Englischen beide „to know“, aber sie werden im Deutschen unterschiedlich verwendet. Keine Sorge – nach diesem Video wirst du genau wissen, wann du welches Verb nutzen solltest. Also, los geht’s! 1. Der Hauptunterschied zwischen „kennen“ und „wissen“ Lass uns die Grundlagen verstehen: „kennen“ verwenden wir, wenn wir eine Person, einen Ort oder eine Sache kennen. Es geht darum, dass du etwas durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder Informationen wissen. Es geht mehr um Kenntnisse oder Informationen, die du im Kopf hast. Einfach ausgedrückt: „kennen“ = Vertraut sein mit etwas oder jemandem. „wissen“ = Fakten oder Wissen besitzen. 2. Wann du „kennen“ verwendest Schauen wir uns Beispiele an, bei denen „kennen“ verwendet wird: „Ich kenne Maria.“ → Hier bedeutet „kennen“, dass du mit Maria vertraut bist oder sie persönlich kennst. „Kennst du Berlin?“ → In diesem Fall fragst du, ob die Person Berlin kennt, also ob sie die Stadt schon einmal besucht hat oder sie gut kennt. „Wir kennen den Film.“ → Das bedeutet, du hast den Film gesehen und bist mit ihm vertraut. Ein Tipp: „Kennen“ wird oft mit Personen, Orten oder Dingen verwendet, die dir durch Erfahrung bekannt sind. 3. Wann du „wissen“ verwendest Nun zu „wissen“. Dieses Verb benutzen wir, wenn es um spezifische Informationen oder Fakten geht: „Ich weiß, dass Maria aus Spanien kommt.“ → Hier geht es um eine Tatsache, die du über Maria weißt. „Weißt du, wie spät es ist?“ → Hier wird nach einer Information gefragt – nämlich nach der Uhrzeit. „Ich weiß, wo das",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute klären wir eine Frage, die viele Deutschlerner beschäftigt: Was ist der Unterschied zwischen „kennen“ und „wissen“? Diese beiden Verben bedeuten im Englischen beide „to know“, aber sie werden im Deutschen unterschiedlich verwendet. Keine Sorge – nach diesem Video wirst du genau wissen, wann du welches Verb nutzen solltest. Also, los geht’s! 1. Der Hauptunterschied zwischen „kennen“ und „wissen“ Lass uns die Grundlagen verstehen: „kennen“ verwenden wir, wenn wir eine Person, einen Ort oder eine Sache kennen. Es geht darum, dass du etwas durch Erfahrung oder Vertrautheit kennst. „wissen“ benutzen wir, wenn wir Fakten oder Informationen wissen. Es geht mehr um Kenntnisse oder Informationen, die du im Kopf hast. Einfach ausgedrückt: „kennen“ = Vertraut sein mit etwas oder jemandem. „wissen“ = Fakten oder Wissen besitzen. 2. Wann du „kennen“ verwendest Schauen wir uns Beispiele an, bei denen „kennen“ verwendet wird: „Ich kenne Maria.“ → Hier bedeutet „kennen“, dass du mit Maria vertraut bist oder sie persönlich kennst. „Kennst du Berlin?“ → In diesem Fall fragst du, ob die Person Berlin kennt, also ob sie die Stadt schon einmal besucht hat oder sie gut kennt. „Wir kennen den Film.“ → Das bedeutet, du hast den Film gesehen und bist mit ihm vertraut. Ein Tipp: „Kennen“ wird oft mit Personen, Orten oder Dingen verwendet, die dir durch Erfahrung bekannt sind. 3. Wann du „wissen“ verwendest Nun zu „wissen“. Dieses Verb benutzen wir, wenn es um spezifische Informationen oder Fakten geht: „Ich weiß, dass Maria aus Spanien kommt.“ → Hier geht es um eine Tatsache, die du über Maria weißt. „Weißt du, wie spät es ist?“ → Hier wird nach einer Information gefragt – nämlich nach der Uhrzeit. „Ich weiß, wo das Restaurant ist.“ → Hier geht es um Wissen über den Standort eines Restaurants, nicht darum, dass du das Restaurant selbst kennst. Merke: Wenn du eine Tatsache oder eine spezifische Information vermitteln möchtest, dann ist „wissen“ das richtige Verb. 4. Satzbeispiele für „kennen“ und „wissen“ im Vergleich Schauen wir uns ein paar direkte Vergleiche an, um den Unterschied klarer zu machen: „Ich kenne diese Stadt.“ → Das bedeutet, du bist vertraut mit der Stadt, vielleicht weil du dort gelebt oder sie oft besucht hast. „Ich weiß, wo diese Stadt liegt.“ → Hier bezieht sich dein Wissen auf eine Information (die Lage der Stadt), nicht auf persönliche Vertrautheit. „Kennst du den neuen Lehrer?“ → Bedeutet, ob du den Lehrer persönlich kennst oder ihn schon einmal getroffen hast. „Weißt du, wer der neue Lehrer ist?“ → Hier fragst du nach einer Information über den Lehrer, ohne dass du ihn kennen musst. 5. Besondere Ausdrücke und Redewendungen Manchmal kann „wissen“ in bestimmten Ausdrücken verwendet werden, wo es sich anders anhört als im normalen Sprachgebrauch. Ein paar Beispiele sind: „Ich weiß Bescheid.“ → Das heißt so viel wie „Ich bin informiert“. „Ich weiß es nicht.“ → Sehr häufig und bedeutet „I don’t know“. Es gibt auch Situationen, in denen wir „kennen“ als Teil einer Redewendung nutzen: „Ich kenne dich in- und auswendig.“ → Das bedeutet, dass du jemanden sehr gut kennst. Zusammenfassung Um es nochmal kurz zusammenzufassen: „Kennen“ nutzt du für Personen, Orte oder Dinge, mit denen du vertraut bist. „Wissen“ ist für Fakten und Informationen gedacht, die du im Kopf hast. Merke dir einfach diese Faustregel: „Kennen“ ist für Menschen, Orte oder Dinge, die du erlebt hast, und „wissen“ ist für Informationen und Fakten. Wenn dir dieses Video gefallen hat und du jetzt den Unterschied zwischen „kennen“ und „wissen“ besser verstehst, dann abonnier doch den Kanal! So verpasst du keine neuen Videos zu wichtigen Themen der deutschen Sprache mehr. Und wenn du noch tiefer in die deutsche Sprache eintauchen möchtest, schau dir die Deutschlern-Akademie an! Da findest du tolle Kurse und kannst deine Sprachkenntnisse richtig aufbauen: AuthenticGermanLearning.com/join Ich hoffe, dieses Video hat dir geholfen, das Rätsel um „kennen“ und „wissen“ zu lösen. Viel Spaß beim Üben und bis zum nächsten Mal!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8026
+  "src": "cc"
  },
  "-W8-7yl0yDY": {
   "channel": "Miffy - Deutsch",
@@ -9794,7 +9878,7 @@
  "0P7mhv0zviw": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-06T02:25:09+00:00",
+  "checked": "2026-11-11T04:18:22+00:00",
   "title": "Remote lesson 8 (Geschichte 75): Narziss",
   "duration": 1023,
   "published": "20200401",
@@ -9802,73 +9886,10 @@
   "spoken_v": 2,
   "pace": 63.9,
   "rare": 0.0325,
+  "var": 0.598,
   "speech_s": 983.0,
   "tokens": 1047,
   "kw": [
-   [
-    "vergass",
-    "",
-    0,
-    0,
-    3.58,
-    7
-   ],
-   [
-    "egoistisch",
-    "an sich er war sehr egoistisch sehr das",
-    313,
-    327,
-    3.48,
-    5
-   ],
-   [
-    "narziss",
-    "narziss interessierte sich nicht für die",
-    227,
-    248,
-    2.47,
-    2
-   ],
-   [
-    "anschaute",
-    "anschaute dass du je länger er das",
-    893,
-    907,
-    2.51,
-    2
-   ],
-   [
-    "eingebildet",
-    "er war sehr eingebildet wie der monat",
-    362,
-    367,
-    3.23,
-    3
-   ],
-   [
-    "nuts",
-    "gesicht nuts es natürlich erst mal sein",
-    524,
-    538,
-    2.62,
-    2
-   ],
-   [
-    "blume",
-    "blume wurzeln seine blume ja und man",
-    955,
-    975,
-    3.94,
-    6
-   ],
-   [
-    "netzes",
-    "anderen menschen waren netzes egal er interessierte sich nicht für seine",
-    253,
-    269,
-    3.46,
-    3
-   ],
    [
     "gesicht",
     "wunderschönes gesicht es war wunderschön das gesicht war wunderschön hier ist das",
@@ -9878,12 +9899,12 @@
     34
    ],
    [
-    "nazis",
-    "name des mythos ist nazis nazis es war",
-    20,
-    45,
-    4.59,
-    19
+    "schön",
+    "er war jung und sehr sehr schön sieht",
+    66,
+    75,
+    5.52,
+    11
    ],
    [
     "wasser",
@@ -9902,42 +9923,130 @@
     11
    ],
    [
-    "schön",
-    "er war jung und sehr sehr schön sieht",
-    66,
-    75,
-    5.52,
-    11
+    "nazis",
+    "name des mythos ist nazis nazis es war",
+    20,
+    45,
+    4.59,
+    19
    ],
    [
-    "wollte",
+    "wurzeln",
+    "nasses wurzeln zu schlagen nazis schlug",
+    937,
+    949,
+    4.28,
+    7
+   ],
+   [
+    "wunderschön",
+    "wunderschönes gesicht es war wunderschön das gesicht war wunderschön hier ist das",
+    99,
+    114,
+    4.27,
+    7
+   ],
+   [
+    "minute",
+    "eine minute vergeht eine minute 60",
+    671,
+    681,
+    4.79,
+    3
+   ],
+   [
+    "blume",
+    "blume wurzeln seine blume ja und man",
+    955,
+    975,
+    3.94,
+    6
+   ],
+   [
+    "mythos",
+    "die nächste geschichte ist ein mythos",
+    0,
+    7,
+    4.03,
+    5
+   ],
+   [
+    "interessierte",
+    "interessierte sich nicht für andere menschen ja hier sind die anderen",
+    212,
+    228,
+    4.14,
+    4
+   ],
+   [
+    "verzweifelt",
+    "verzweifelt nein er war verzweifelt sieht man mir er",
+    762,
+    775,
+    4.11,
+    4
+   ],
+   [
+    "vergass",
+    "",
+    0,
+    0,
+    3.58,
+    7
+   ],
+   [
+    "egoistisch",
+    "an sich er war sehr egoistisch sehr das",
+    313,
+    327,
+    3.48,
+    5
+   ],
+   [
+    "streicheln",
     "er wollte das gesicht streicheln das ist streicheln er wollte das gesicht",
     600,
     610,
-    5.5,
-    9
+    3.56,
+    3
    ],
    [
-    "liebe",
-    "gesicht im see ich liebe dich und leise",
-    544,
-    574,
-    5.48,
-    9
+    "netzes",
+    "anderen menschen waren netzes egal er interessierte sich nicht für seine",
+    253,
+    269,
+    3.46,
+    3
    ],
    [
-    "sah",
-    "gestand sie dass das wasser und erst sah",
-    451,
-    468,
-    5.07,
-    6
+    "nuts",
+    "gesicht nuts es natürlich erst mal sein",
+    524,
+    538,
+    2.62,
+    2
+   ],
+   [
+    "anschaute",
+    "anschaute dass du je länger er das",
+    893,
+    907,
+    2.51,
+    2
+   ],
+   [
+    "narziss",
+    "narziss interessierte sich nicht für die",
+    227,
+    248,
+    2.47,
+    2
    ]
   ],
-  "tx": "die nächste geschichte ist ein mythos ein mythos die geschichte ist ein mythos aus griechenland ein griechischer mythos der name des mythos ist nazis nazis es war einmal ein junger mann der nazis hier ist der junge mann so meine männer und frauen ja das ist der junge mann nazis nazis war jung und sehr sehr sehr schlimm er war jung und sehr sehr schön sieht man jetzt vielleicht hier nicht aber er war sehr sehr schön und sehr ja sehr schön ja er war sehr schön nass ist hatte ein wunderschönes gesicht es war wunderschön das gesicht war wunderschön hier ist das gesicht ja das ist das gesicht das gesicht das von augen nase und wange angebracht dass es das gesicht und das gesicht war wunderschön nicht nur schön sondern wunderschön einfach wunderschön und nazis hatte auch einen schönen körper ja so dass ist das gesicht und hier das alles ist der kamera er hatte einen schönen körper und ein wunderschönes gesicht nazis war unwahrscheinlich schön es ist fast nicht real so schön war ja es war fast nicht real aber unwahrscheinlich man kann es kaum glauben ja man glaubt es kaum es kann nicht real seien unwahrscheinlich schön aber nazis hatte kein gutes herz er hatte kein gutes herz kein gutes er war kein guter mensch nazis interessierte sich nicht für andere menschen ja hier sind die anderen menschen die andere menschen ja und narziss interessierte sich nicht für die anderen menschen für die anderen personen für den anderen menschen die anderen menschen waren netzes egal er interessierte sich nicht für seine familie für seine freunde ja es war ihnen alles egal freunde paar freunde egal familie auch egal er interessierte sich für keine andere person ja das dachte nur an sich er dachte nur an sich denkt und alles was er denkt ist ich bin so schön er denkt an nichts anderes er dachte n",
+  "tx": "die nächste geschichte ist ein mythos ein mythos die geschichte ist ein mythos aus griechenland ein griechischer mythos der name des mythos ist nazis nazis es war einmal ein junger mann der nazis hier ist der junge mann so meine männer und frauen ja das ist der junge mann nazis nazis war jung und sehr sehr sehr schlimm er war jung und sehr sehr schön sieht man jetzt vielleicht hier nicht aber er war sehr sehr schön und sehr ja sehr schön ja er war sehr schön nass ist hatte ein wunderschönes gesicht es war wunderschön das gesicht war wunderschön hier ist das gesicht ja das ist das gesicht das gesicht das von augen nase und wange angebracht dass es das gesicht und das gesicht war wunderschön nicht nur schön sondern wunderschön einfach wunderschön und nazis hatte auch einen schönen körper ja so dass ist das gesicht und hier das alles ist der kamera er hatte einen schönen körper und ein wunderschönes gesicht nazis war unwahrscheinlich schön es ist fast nicht real so schön war ja es war fast nicht real aber unwahrscheinlich man kann es kaum glauben ja man glaubt es kaum es kann nicht real seien unwahrscheinlich schön aber nazis hatte kein gutes herz er hatte kein gutes herz kein gutes er war kein guter mensch nazis interessierte sich nicht für andere menschen ja hier sind die anderen menschen die andere menschen ja und narziss interessierte sich nicht für die anderen menschen für die anderen personen für den anderen menschen die anderen menschen waren netzes egal er interessierte sich nicht für seine familie für seine freunde ja es war ihnen alles egal freunde paar freunde egal familie auch egal er interessierte sich für keine andere person ja das dachte nur an sich er dachte nur an sich denkt und alles was er denkt ist ich bin so schön er denkt an nichts anderes er dachte nur an sich er war sehr egoistisch sehr das egoistische egoistisch ist wenn man nur an sich denkt an keine andere person er war sehr egoistisch alles war nachts ist es ist ein zartes er hatte kein herz und war sehr egoistisch die anderen menschen waren nazis egal sie waren ihnen andere menschen sie waren völlig egal und weil er so schön war war auch sehr augen er war sehr eingebildet wie der monat märz er war egoistisch er war ganz und das gleiche wie arrogantes eingebildet wintermonaten als er war und geahnt und eingebildet und gedacht nur an sich und er dachte ich bin so schön ich bin so intelligent so klug ich bin eines tagessatzes wenn er bald wie kann es auch anders sein als in den wald bei spielen alle den wald und im wald kam nazis an ein si hier war ein sehr nah an sie er kam an einen see und als er da am see war am vergangen haben sie bei maxis vorher stand am see er war sehr nahe aber nicht weit weg gestand sie dass das wasser und erst sah seine reflexion er sah sein gesicht im wasser hier er sah seine reflexion dass es die reflektion er sah sein reflexion im wasser im see netzes sei das gesicht im see und nazis dachte das gesicht ist wunderschön war beeindruckt eindruck dass durch sein wo das ist toll dann bin ich beeindruckt wow das war beeindruckt was für ein wunderschönes gesicht nuts es natürlich erst mal sein gesicht nazis liebt er liebte das so wunderschön und narziss sagte zu dem gesicht im see ich liebe dich und leise sagte das gesicht in see sagt das gesicht auch ja nuts es ging mit der hand zum wasser und er wollte das gesicht streicheln das ist streicheln er wollte das gesicht streichen doch als er das wasser berührt in dem moment war das gesicht weg das gesicht war weg es verschwand es verschwand es war kein gesicht mehr im sie das gesicht war klar er berührt das wasser das wasser macht so ja es war weg das ist meine große liebe meine große liebe kommt zurück zurück zu mir meine große liebe er liegt nur als ich selbst meine große liebe kommt zurück eine minute vergeht eine minute 60 sekunden vergehen ja und dann noch einen und noch einen noch eine weitere noch eine minute und dann noch eine und noch eine noch ein und nach einigen minuten wurde der sie still der see wurde wieder stehen und da plötzlich im stillen sie stille sie da sah nazis wieder das gesicht das gesicht war wieder da aber diesmal vorfreude er strich freude geschrien vor freude jetzt schrie vor freude meine liebe da bist du ich liebe dich und wieder streichelte nazis das gesicht und natürlich verschwand das gesicht wieder es verschwand wieder und 19 war verzweifelt nein er war verzweifelt sieht man mir er war verzweifelt doch nach einigen minuten kam das gesicht wieder nazis wollte das gesicht wieder streicheln er wollte das gesicht berühren nazis war verzweifelt er wollte bei seiner großen liebe sein assist konnte nicht nach hause gehen er konnte nicht weg er sah das gesicht und der konnte licht wenn er blieb stehen er blieb am see und starrte in das wasser er starte ich schaute ins wasser starte in das wasser er vergaß zu essen nicht er vergaß er vergaß zu essen er vergaß zu trinken und er vergaß zu schlafen er vergaß alles er blieb am see und starrte in das wasser erst nicht er trank nicht er schlief nicht er vergaß alles er wollte nur bei seiner großen liebe sein und je länger je länger 60 minuten 120 minuten drei tage jede leider er das gesicht anschaute dass du je länger er das gesicht anstalt desto mehr wollte er bleiben ja je länger desto länger desto mehr ist dass je länger er das gesicht anschaute je mehr wollte er nicht nach hause wollte bleiben und da begann nasses wurzeln zu schlagen nazis schlug wurzeln wurzeln baum hat wurzeln ja eine blume wurzeln seine blume ja und man schlug wurzeln und langsam nicht schnell aber langsam mit der zeit verwandelte sich nachts in eine blume aus dem menschen ercis wurde eine blume er schlug wurzeln an dem see und aus netzes wurde die blume die blume nazis und das ist das ende",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5459
+  "src": "auto"
  },
  "KlChE-QV8pQ": {
   "channel": "Caillou Deutsch",
@@ -14543,7 +14652,7 @@
  "kYBj-8a1zkM": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-07T05:22:43+00:00",
+  "checked": "2026-11-11T04:33:24+00:00",
   "title": "💥 NEUE FOLGE 💥 Erste Hilfe 🐷🏥✨ Episodensammlung 🎬 Mascha und der Bär",
   "duration": 1182,
   "published": "20261012",
@@ -14551,16 +14660,73 @@
   "spoken_v": 2,
   "pace": 87.9,
   "rare": 0.0985,
+  "var": 0.8506,
   "speech_s": 464.3,
   "tokens": 680,
   "kw": [
    [
-    "rosi",
-    "Was habe ich dir gesagt, Rosi? Du bist",
-    60,
-    67,
-    3.09,
-    7
+    "hey",
+    "Hey, hey Süße,",
+    9,
+    14,
+    4.93,
+    8
+   ],
+   [
+    "hilfe",
+    "Erste Hilfe. ",
+    3,
+    12,
+    5.24,
+    4
+   ],
+   [
+    "jungs",
+    "Hey Jungs, warum ist sie denn so",
+    306,
+    311,
+    4.87,
+    4
+   ],
+   [
+    "besser",
+    "besser? Hey Jungs, warum ist sie denn so",
+    300,
+    311,
+    5.66,
+    3
+   ],
+   [
+    "lösen",
+    "Einen Momentchen, lass mich das lösen.",
+    873,
+    879,
+    4.63,
+    2
+   ],
+   [
+    "wolf",
+    "Angst macht den Wolf größer. ",
+    369,
+    397,
+    4.57,
+    2
+   ],
+   [
+    "pass",
+    "pass doch auf dich auf. Halt doch an.",
+    12,
+    17,
+    4.56,
+    2
+   ],
+   [
+    "wörter",
+    "bin. Gemeine Wörter, die kenne ich zu",
+    896,
+    902,
+    4.35,
+    2
    ],
    [
     "bär",
@@ -14571,6 +14737,38 @@
     15
    ],
    [
+    "war's",
+    "Toll, das war's. Bär, Bär, sieh doch dort!",
+    1010,
+    1030,
+    4.07,
+    2
+   ],
+   [
+    "frech",
+    "Sei nicht so frech. Das sagst ausgerechnet du.",
+    881,
+    889,
+    3.84,
+    2
+   ],
+   [
+    "gestürzt",
+    "gestürzt und jetzt geht's dir schlecht.",
+    62,
+    67,
+    3.82,
+    2
+   ],
+   [
+    "rosi",
+    "Was habe ich dir gesagt, Rosi? Du bist",
+    60,
+    67,
+    3.09,
+    7
+   ],
+   [
     "erfrieren",
     "sehen. Er könnte in der Kälte erfrieren.",
     988,
@@ -14579,19 +14777,11 @@
     4
    ],
    [
-    "mascha",
-    "Und Mascha ist sehr nett. Fürchterlich.",
-    915,
-    921,
-    2.94,
-    3
-   ],
-   [
-    "papageien",
-    "Bär, wir müssen nach den Papageien",
-    986,
-    993,
-    3.03,
+    "cha",
+    "Rumba, Samba, Cha-Cha-Cha. Hoppla.",
+    811,
+    826,
+    3.47,
     3
    ],
    [
@@ -14603,90 +14793,26 @@
     3
    ],
    [
+    "mascha",
+    "Und Mascha ist sehr nett. Fürchterlich.",
+    915,
+    921,
+    2.94,
+    3
+   ],
+   [
     "stimmt's",
     "Medizin wirkt Wunder. Stimmt's Bär? ",
     347,
     356,
     2.8,
     2
-   ],
-   [
-    "cha",
-    "Rumba, Samba, Cha-Cha-Cha. Hoppla.",
-    811,
-    826,
-    3.47,
-    3
-   ],
-   [
-    "hey",
-    "Hey, hey Süße,",
-    9,
-    14,
-    4.93,
-    8
-   ],
-   [
-    "jungs",
-    "Hey Jungs, warum ist sie denn so",
-    306,
-    311,
-    4.87,
-    4
-   ],
-   [
-    "hilfe",
-    "Erste Hilfe. ",
-    3,
-    12,
-    5.24,
-    4
-   ],
-   [
-    "lass",
-    "Lass mich mal sehen. Angst macht den Wolf größer.",
-    355,
-    374,
-    5.0,
-    3
-   ],
-   [
-    "hallo",
-    "Hallo, ihr hübsch Täubchen.",
-    826,
-    833,
-    5.06,
-    3
-   ],
-   [
-    "besser",
-    "besser? Hey Jungs, warum ist sie denn so",
-    300,
-    311,
-    5.66,
-    3
-   ],
-   [
-    "wörter",
-    "bin. Gemeine Wörter, die kenne ich zu",
-    896,
-    902,
-    4.35,
-    2
-   ],
-   [
-    "wolf",
-    "Angst macht den Wolf größer. ",
-    369,
-    397,
-    4.57,
-    2
    ]
   ],
-  "tx": "Erste Hilfe. Hey, hey Süße, pass doch auf dich auf. Halt doch an. Du könntest stürzen und dich verletzen oder krank werden. Bleib doch stehen. Ich fahre schnell mit deiner Mami. Ah, sie ist völlig außer Kontrolle. Was habe ich dir gesagt, Rosi? Du bist gestürzt und jetzt geht's dir schlecht. Hey Bär, der Kleinen geht's schlecht. Ach, mir doch nicht. Rosi! Da steht ein Brennnesselstich ist ungefährlich. Er geht schnell wieder weg. Das wäre erledigt. Dann schauen wir mal, was wäre, wenn meine Rosi andere Krankheiten hätte. Die Wangen könnten anschwellen. Oh nein! Oh, sie hat eine Triebnase. Verdauungsprobleme. Du meine Güte, das klingt echt schlimm, Rosi. Die Ohren hängen und sie grunzen beim Schnaufen. Eindeutig, glasklar, sie hat Mumps. Was sie jetzt braucht, ist das Erste-Hilfe-Team. Bitte sagt, dass ihr sie retten könnt. Okay. Aber ihr Bauch, seht, er muss auch behandelt werden. Siehst du, Bär? Dank dieser Mami hier geht es Rosi zum Glück bald wieder gut. Das reicht nicht. Sie hat auch Grundatemgeräusche. Man muss sie immer im Auge behalten. Rosi, wie fühlst du dich? Geht es dir besser? Hey Jungs, warum ist sie denn so kraftlos? Hurra! Die Jungs haben meinem Rosi-Baby geholfen. Genau das meine ich. Medizin wirkt Wunder. Stimmt's Bär? Bär, dein Husten gefällt mir gar nicht. Lass mich mal sehen. Angst macht den Wolf größer. Hey Bär, schau wie gut ich rennen kann. Hey Bär, wir können den Krankenwagen nicht so stehen lassen. Es dauert auch nur 5 Minuten. Wir besorgen einen Schraubenschlüssel, den allerallerbesten. Bringt alle Werkzeuge hierher, den ganzen Werkzeugkasten. Hab ich recht, Bär? Hm. Und jetzt den Motor anhalten. Hast du die Notruf gewählt? Und was sitzt ihr denn hier so rum? Hey Bär, fang mich auf! Kein Stück vom Himmel. Hokus Pokus Tralala. Ah, jetzt weiß ich",
+  "tx": "Erste Hilfe. Hey, hey Süße, pass doch auf dich auf. Halt doch an. Du könntest stürzen und dich verletzen oder krank werden. Bleib doch stehen. Ich fahre schnell mit deiner Mami. Ah, sie ist völlig außer Kontrolle. Was habe ich dir gesagt, Rosi? Du bist gestürzt und jetzt geht's dir schlecht. Hey Bär, der Kleinen geht's schlecht. Ach, mir doch nicht. Rosi! Da steht ein Brennnesselstich ist ungefährlich. Er geht schnell wieder weg. Das wäre erledigt. Dann schauen wir mal, was wäre, wenn meine Rosi andere Krankheiten hätte. Die Wangen könnten anschwellen. Oh nein! Oh, sie hat eine Triebnase. Verdauungsprobleme. Du meine Güte, das klingt echt schlimm, Rosi. Die Ohren hängen und sie grunzen beim Schnaufen. Eindeutig, glasklar, sie hat Mumps. Was sie jetzt braucht, ist das Erste-Hilfe-Team. Bitte sagt, dass ihr sie retten könnt. Okay. Aber ihr Bauch, seht, er muss auch behandelt werden. Siehst du, Bär? Dank dieser Mami hier geht es Rosi zum Glück bald wieder gut. Das reicht nicht. Sie hat auch Grundatemgeräusche. Man muss sie immer im Auge behalten. Rosi, wie fühlst du dich? Geht es dir besser? Hey Jungs, warum ist sie denn so kraftlos? Hurra! Die Jungs haben meinem Rosi-Baby geholfen. Genau das meine ich. Medizin wirkt Wunder. Stimmt's Bär? Bär, dein Husten gefällt mir gar nicht. Lass mich mal sehen. Angst macht den Wolf größer. Hey Bär, schau wie gut ich rennen kann. Hey Bär, wir können den Krankenwagen nicht so stehen lassen. Es dauert auch nur 5 Minuten. Wir besorgen einen Schraubenschlüssel, den allerallerbesten. Bringt alle Werkzeuge hierher, den ganzen Werkzeugkasten. Hab ich recht, Bär? Hm. Und jetzt den Motor anhalten. Hast du die Notruf gewählt? Und was sitzt ihr denn hier so rum? Hey Bär, fang mich auf! Kein Stück vom Himmel. Hokus Pokus Tralala. Ah, jetzt weiß ich, wie es funktioniert. Ich muss nur fokussiert bleiben. Rumba, Samba, Cha-Cha-Cha. Hoppla. Hallo, ihr hübsch Täubchen. Was für eine tolle Begrüßung. Sagt Hallo zu eurem Mitbewohner. Willkommen, neuer Mitbewohner. Seht euch das an, da spielt sich einer als Boss auf. Zerstörung, Katastrophe. Zu Hilfe, der dreht durch. Angriff. Der Brombeer wurde gestürzt. Einen Momentchen, lass mich das lösen. Lass es sie klären, sie klärt, sie wird es auch ohne dich Bromka lösen. Sei nicht so frech. Das sagst ausgerechnet du. Ich war schon frech, als du noch gar nicht da warst. Pass besser auf. Ja, ich bin der Derber, fluche und klaue und ich beschimpfe jeden und was ich eine Sau bin. Gemeine Wörter, die kenne ich zu Haus. Viele schlimme Wörter, Furz, Kacka, Kot. Ich glaube, wir sollten dir ein paar Manieren beibringen. Sag mal, der Bär ist sehr lieb. Und Mascha ist sehr nett. Fürchterlich. Wenn du keinen Streit willst, belehrst mich lieber nicht. Nacht? Probier nochmal. Mascha ist schlau. Der Bär ist voll lustig. Mit Haustieren muss man zärtlich sein. Wie bringen wir dir bloß Manieren bei? Komm zurück! Wir sind besser draußen erzogen. Arrivederci, du Nervensäge. Bär, wir müssen nach den Papageien sehen. Er könnte in der Kälte erfrieren. Also, Rio de Janeiro ist das nicht hier. Nicht erfrieren, nicht erfrieren, nicht erfrieren. Toll, das war's. Bär, Bär, sieh doch dort! Also gut ihr Streuner, weilt mal ordentlich ein. Ich bin hungrig wie ein Wolf. Habt ihr was zu knabbern? Freunde, verzeiht mir. Hört auf mit dem Quatsch und lasst mich bitte los. Gute Jungs, feine Hündchen, ganz brav. Hallo Jungs, habt ihr denn vielleicht meinen Papageien gesehen? Zu Hilfe! Katastrophe! Hurra, wir haben den Papageien gefunden. Hey, das da ist unser Papagei. Das war's dann wohl ihr Trottel. Hi ja ja ja, wir müssen euch und dir wohl noch Manieren beibringen. Stimmt's Bär? Also gut, dann fangen wir doch mal mit dir an. Ja, das hier ist wirklich nicht Rio de Janeiro. So so so so. Warum sind denn alle meine Videos verschwunden? Dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage \"Mascha und der Bär ist dran.\" Das war einfach und jetzt probiert ihr es mal.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8702
+  "src": "auto"
  },
  "iXNI5CGD2e0": {
   "channel": "Daily Deutsch",
@@ -15915,7 +16041,7 @@
  "7UhHe6XAxSc": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-08T15:17:49+00:00",
+  "checked": "2026-11-11T04:04:11+00:00",
   "title": "Must-Know German Clothing Vocabulary",
   "duration": 468,
   "published": "20260129",
@@ -16088,7 +16214,8 @@
     2
    ]
   ],
-  "tx": "Wo bin ich gerade? Where am I just now? Ich bin in einem Kleidergeschäft. Kleidergeschäft. Kleider the clothes. But actually Kleide can also mean the dress. Ja, und das Geschäft ist. But we have other words to say it. For example, in daily language umgangssprachlich. Umgangssprachlich sagen wir z.B. Klamotten laden. Klamotten laden. Klamotten also the close und laden ist also shop. Today I will show you all the important words for shopping, for clothes. Ja, Kleider oder Klamotten in Germany. Los geht's. Hier haben wir als erstes, was ist das? Also, when I say it, always remember the article. Ja, bitte merke dir den Artikel. Das ist das Kleid. Ein Kleid, das Kleid. Und welche Farbe hat das Kleid? Which color does it have? Das ist weiß. Also, das ist ein weißes Kleid. Was haben wir? Ah, das hier. Das ist noch gut. Was ist das? Das ist eine Bluse. Die Bluse. Ja, ist feminin. Und welche Farbe? Which color? Weiß hier. Oh, das ist noch gut. Was ist das erstmal? Allgemein in general. What ist das? Das ist eine Hose. Die Hose. Ja. In German it's singular. I know in English you say trousers or pants because it has two legs, but in German one object. So die Hose. But the plural would be die. Hosen. Jetzt habe ich zwei Hosen in der Hand und das hier ist eine Stoffhose. Ja, you see the material? Like Stoff, soft. So, das ist eine Stoffhose. Und welche Farbe haben diese Hosen? Schwarz. Das ist eine schwarze Hose. Gut, weiter geht's. Hier haben wir ein Top. Das Top, das ist eigentlich aus dem Englischen, aber wir sagen es auch auf Deutsch, ein schwarzes Top. Und für die Füße, was haben wir hier erstmal? Was sind das, was ich anhabe? Das sind Schuhe. Die Schuhe in Singular. Was ist der Singular? Der, die oder das Schuh? Der Schuh. Ja. Und das hier sind Turnschuhe. Turnschuhe like, you",
+  "tx": "Wo bin ich gerade? Where am I just now? Ich bin in einem Kleidergeschäft. Kleidergeschäft. Kleider the clothes. But actually Kleide can also mean the dress. Ja, und das Geschäft ist. But we have other words to say it. For example, in daily language umgangssprachlich. Umgangssprachlich sagen wir z.B. Klamotten laden. Klamotten laden. Klamotten also the close und laden ist also shop. Today I will show you all the important words for shopping, for clothes. Ja, Kleider oder Klamotten in Germany. Los geht's. Hier haben wir als erstes, was ist das? Also, when I say it, always remember the article. … Kleid. Und welche Farbe hat das Kleid? Which color does it have? Das ist weiß. Also, das ist ein weißes Kleid. Was haben wir? Ah, das hier. Das ist noch gut. Was ist das? Das ist eine Bluse. Die Bluse. Ja, ist feminin. Und welche Farbe? Which color? Weiß hier. Oh, das ist noch gut. Was ist das erstmal? Allgemein in general. What ist das? Das ist eine Hose. Die Hose. Ja. In German it's singular. I know in English you say trousers or pants because it has two legs, but in German one object. So die Hose. But the plural would be die. Hosen. Jetzt habe ich zwei Hosen in der Hand und das hier ist … das ist eine Stoffhose. Und welche Farbe haben diese Hosen? Schwarz. Das ist eine schwarze Hose. Gut, weiter geht's. Hier haben wir ein Top. Das Top, das ist eigentlich aus dem Englischen, aber wir sagen es auch auf Deutsch, ein schwarzes Top. Und für die Füße, was haben wir hier erstmal? Was sind das, was ich anhabe? Das sind Schuhe. Die Schuhe in Singular. Was ist der Singular? Der, die oder das Schuh? Der Schuh. Ja. Und das hier sind Turnschuhe. Turnschuhe like, you know, the the body ones. Und hier haben wir aber sind nicht wirklich Schuhe, das sind Stiefel. Ja, Stiefel und das sind … ist auch so maskulin. Und hier haben wir noch mehr Klamotten. ML mehr Kleidung. Kleidung ist auch noch ein Wort. Du kannst auch sagen Kleidungsgeschäft oder Bekleidungsgeschäft z.B. Ja. Wie heißt das? Wie nennt man das? Das ist eine Jacke. Die Jacke. Und welche Farbe hat die Jacke? Ich glaube, das ist schwarz oder dunkelblau. Ich glaube, es ist schwarz. Also, das ist eine Jacke und sie hat keine Kapue. Das ist eine Kapuze. Die Kapuze, aber diese Jacke hat keine Kapuze und noch ganz wichtig, wir haben da drüben eine Stoffhose gesehen. Und was ist das? Das ist eine Jeans oder Jeanshose. … eine Tasche. Die Tasche. Okay, eine Tasche ist auch so ein B, aber das hier ist auch eine Tasche und zwar die Hosentasche. Dann noch etwas. Oh, das hier ist auch ganz wichtig. Das ist ein Pullover. Pullover. Der Pullover. Und welche Farbe hat dieser Pullover? H, ich würde sagen braun oder beige. Das ist der Pullover. So. Und hier sagen wir auch manchmal Strickpullover, weil das hier ist gestrickt, also sagen wir Strick pullover. Ja, it's kind of like in English when you pull over something. I know you guys call it sweatshirt, but in German we actually use an English word which is pullover. … Wie heißt das, wenn das lang ist oder kurz? Das ist lang oder something else in der Bluse for example was short. Das heißt langärmlich. Ein langer Ärmel. Der Ärmel ist das und das ist langärmlich oder kurzerärmlich. Der Arm ärlig. Okay, das ist noch wichtig. So und dann haben wir hier noch, das ist eine Weste, die Weste. Und diese Weste hat gar keine Ärmel. Siehst du das? Und wie heißt dieses Muster? What is this pattern called? Siehst du das? Das ist kariert. Kariert. Z.B. sagen sie das manchmal über Deutsche Leute sagen sie Deutsche sind so kleinkariert. Die sind sehr klein kariert. … eine Jacke, aber länger. Siehst du? Dieser Mantel geht über die Hüfte. Das ist meine Hüfte. Und dieser Mantel ist schön lang und geht über meine Hüfte. Und wie heißt das hier? Das ist ein Gürtel. Der Gürtel ist like the Belt normally separate. Ah, ich habe auch einen Gürtel. Siehst du das? Das ist der Gürtel. Und dieser Mantel hat auch einen Gürtel. Und das hier, wie heißt das? Der Knopf. Der Knopf. Z.B. kannst du sagen: \"Oh nein, ich habe meinen Knopf verloren. I lost my Button.\" Aber ein Knopf ist auch etwas, was du drücken kannst. Ja, manchmal ist da ein kleines Ding und du kannst … Okay. Und hier haben wir einen Rock. Der Rock, siehst du? Und dieser Rock ist welche Farbe? Hatten wir schon? Schwarz. Und hier hat er auch ein bisschen weiß. Wup. Wie heißt das auf Deutsch? Das ist ein Hemd. Das Hemd. Und welche Farbe hat dieses Hemd? Which color does it have? Es ist blau oder genauer gesagt hellblau. Und erinnerst du dich, wie heißt dieses Muster? Do you remember? What is this pattern called? Dieses Muster, das ist kariert. Klein, klein kariert. Und hier haben wir noch ein T-Shirt. Ist wie auf Englisch. T-Shirt. Also, wir sagen nicht Tirt oder so auf Deutsch. Der Tea in … Und welche Farbe hat das T-Shirt? Which color does it? Say rosa. Rosa oder pink? Rosa oder pink? So erinnerst du dich? Do you remember? Wie heißt das auf Deutsch? What is this called? The pocket in German. Wie heißt das auf Deutsch? Es ist eine Hosentasche und das hier ist eine Handtasche. Manche sagen auch nur Tasche. Meine Tasche. Oh, meine schöne Tasche oder Handtasche. Es gibt aber z.B. auch eine Sporttasche und so weiter. Ja, das sind alles Taschen. So. Und das hier ist eine Kette, die Kette und die ist aus Gold. Und das ist eine Halskette. Das ist mein Hals und diese Kette geht um den … Es gibt auch einen Ohrring, der geht um das Ohr, das ist für das Ohr ein Ohrring. Ich habe einen Ohrstecker, das ist kein Ring, aber, kennst du das? Diese Ohrringe, die gehen um das Ohr. Ja. So, ich war erfolgreich beim Shoppen. Ich habe viel Geld ausgegeben. Ich habe einen Pullover gekauft, ein T-Shirt und ein Kleid. Let me know in the comments what you learn today. And also we will have in another video a dialog about shopping. Ja, einen Dialog beim Klamotten einkaufen und da siehst du ganz wichtige Sätze zum Klamotten oder zum Kleidung einkaufen. Alles klar. Danke schön und tschüss.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
