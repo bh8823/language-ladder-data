@@ -6627,7 +6627,7 @@
  "ScseAJrBnH4": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-03T15:49:04+00:00",
+  "checked": "2026-11-11T01:57:39+00:00",
   "title": "Why Germans Love Coffee and Cake (Slow German Conversation)",
   "duration": 855,
   "published": "20260916",
@@ -6635,16 +6635,105 @@
   "spoken_v": 2,
   "pace": 99.5,
   "rare": 0.1028,
+  "var": 0.7767,
   "speech_s": 827.7,
   "tokens": 1372,
   "kw": [
    [
-    "pflaumenkuchen",
-    "Pflaumenkuchen, wir haben eine Rosinenschnecke",
-    108,
-    117,
-    2.02,
+    "kaffee",
+    "Kaffee und Kuchen. Diese Kombination ist",
+    0,
+    10,
+    4.84,
+    26
+   ],
+   [
+    "essen",
+    "essen Janusch und ich heute Kuchen und",
+    9,
+    21,
+    5.33,
+    7
+   ],
+   [
+    "lernen",
+    "aber im Deutsch lernen und zwar in",
+    447,
+    455,
+    5.14,
+    7
+   ],
+   [
+    "läuft",
+    "guckt läuft. ",
+    276,
+    283,
+    5.17,
+    5
+   ],
+   [
+    "kuchen",
+    "Kaffee und Kuchen. Diese Kombination ist",
+    0,
+    10,
+    4.48,
+    21
+   ],
+   [
+    "schmeckt",
+    "Das schmeckt dir aber nicht. Es schmeckt",
+    201,
+    207,
+    4.47,
     6
+   ],
+   [
+    "lecker",
+    "bisschen lecker sauer. Wie schmeckt der Kuchen? Der Kuchen",
+    382,
+    392,
+    4.32,
+    4
+   ],
+   [
+    "app",
+    "ist eine App zum Deutsch lernen und auch",
+    463,
+    470,
+    4.79,
+    3
+   ],
+   [
+    "trinke",
+    "wenn ich zu viel Kaffee trinke, kann ich",
+    575,
+    584,
+    4.03,
+    4
+   ],
+   [
+    "populär",
+    "sehr populär in Deutschland. Deshalb essen Janusch und ich heute Kuchen und",
+    5,
+    21,
+    3.75,
+    4
+   ],
+   [
+    "filter",
+    "einen Filter, es gibt heißes Wasser, es gibt eine",
+    155,
+    165,
+    4.09,
+    3
+   ],
+   [
+    "gabel",
+    "Was soll ich mit der Gabel machen? Die",
+    424,
+    431,
+    3.64,
+    3
    ],
    [
     "schnecke",
@@ -6663,12 +6752,28 @@
     6
    ],
    [
-    "laktosefrei",
-    "Dieser Bienenstich ist äh laktosefrei. M. Okay, toll. Super.",
-    715,
-    729,
-    2.12,
+    "koffein",
+    "kein kein Koffein hier für abreichen.",
+    605,
+    612,
+    3.4,
     3
+   ],
+   [
+    "leckeren",
+    "Abendessen gibt's noch einen leckeren Kuchen. Nicht jeden Tag und nicht bei",
+    56,
+    67,
+    3.58,
+    2
+   ],
+   [
+    "pflaumenkuchen",
+    "Pflaumenkuchen, wir haben eine Rosinenschnecke",
+    108,
+    117,
+    2.02,
+    6
    ],
    [
     "bienenstich",
@@ -6679,98 +6784,26 @@
     3
    ],
    [
-    "lieblingskuchen",
-    "Lieblingskuchen Mondkuchen.",
-    544,
-    554,
-    2.0,
+    "laktosefrei",
+    "Dieser Bienenstich ist äh laktosefrei. M. Okay, toll. Super.",
+    715,
+    729,
+    2.12,
+    3
+   ],
+   [
+    "glutenfrei",
+    "ist sogar glutenfrei und mit echten Apfeln Stück",
+    404,
+    413,
+    2.82,
     2
-   ],
-   [
-    "zwischenmahlzeit",
-    "so eine Art Zwischenmahlzeit. Vielleicht eine Zwischenmahlzeit,",
-    36,
-    45,
-    2.08,
-    2
-   ],
-   [
-    "probierst",
-    "probierst und",
-    368,
-    378,
-    2.59,
-    2
-   ],
-   [
-    "kaffee",
-    "Kaffee und Kuchen. Diese Kombination ist",
-    0,
-    10,
-    4.84,
-    26
-   ],
-   [
-    "kuchen",
-    "Kaffee und Kuchen. Diese Kombination ist",
-    0,
-    10,
-    4.48,
-    21
-   ],
-   [
-    "lernen",
-    "aber im Deutsch lernen und zwar in",
-    447,
-    455,
-    5.14,
-    7
-   ],
-   [
-    "essen",
-    "essen Janusch und ich heute Kuchen und",
-    9,
-    21,
-    5.33,
-    7
-   ],
-   [
-    "schmeckt",
-    "Das schmeckt dir aber nicht. Es schmeckt",
-    201,
-    207,
-    4.47,
-    6
-   ],
-   [
-    "stück",
-    "Janusch, du darfst dir ein Stück Kuchen",
-    338,
-    344,
-    5.09,
-    5
-   ],
-   [
-    "läuft",
-    "guckt läuft. ",
-    276,
-    283,
-    5.17,
-    5
-   ],
-   [
-    "könnt",
-    "könnt ihr auf euer Handy herunterladen",
-    469,
-    475,
-    4.84,
-    5
    ]
   ],
-  "tx": "Kaffee und Kuchen. Diese Kombination ist sehr populär in Deutschland. Deshalb essen Janusch und ich heute Kuchen und wir trinken dazu Kaffee. Janusch, Kaffee und Kuchen, ist das eine richtige Mahlzeit in Deutschland? Ich würde das nicht eine Mahlzeit nennen, aber es ist Spaß. Ab 15 Uhr nachmittags ähm hat man so eine Art Zwischenmahlzeit. Vielleicht eine Zwischenmahlzeit, also eine etwas zwischen den normalen Mahlzeiten. Die Deutschen essen gerne Kaffee und Kuchen am Nachmittag 14, 15, 16 Uhr. Zwischen dem Mittagessen und dem Abendessen gibt's noch einen leckeren Kuchen. Nicht jeden Tag und nicht bei allen, aber ich denke gerade so bei älteren Menschen ist es populär. Ja. Und auch so in Institutionen, so im Krankenhaus, im Altenheim, da gibt es dann Kaffee und Kuchen als eben Tagesplan. Ja. Und neben dem Essen, was wirklich wichtig ist, ist die Gemütlichkeit. M genau. Janusch, wir haben Kuchen gekauft gerade. Wir waren in zwei Bäckereien in Berlin und haben verschiedene Kuchenstücke gekauft. Sehr typisch in Deutschland gibt es Apfelkuchen, Mondkuchen, Pflaumenkuchen, wir haben eine Rosinenschnecke und einen Bienenstich. Das ist etwas auch ein typischer Kuchen in Deutschland. Was uns noch fehlt, ist Kaffee. Und Janusch zeigt uns jetzt, wie er am liebsten Kaffee macht. So, jetzt machen wir Kaffee und Janusch zeigt mir, wie er Kaffee zubereitet. Es gibt einen Filter, es gibt heißes Wasser, es gibt eine Kanne und da drin ist der Kaffee. Janusch, hast du eine Lieblings Zubereitungsmethode? Ja, zu Hause habe ich zwei Kaffeemaschinen, aber letztendlich finde ich diese, wie heißt das auf Deutsch? Ein Handfilter oder ein Du du hast einen Filter. Ja. Und ja, ich glaube, das ist Filterkaffee, aber es gibt auch Kaffeefiltermaschinen, die haben so etwas in einer Maschine. Das schmec",
+  "tx": "Kaffee und Kuchen. Diese Kombination ist sehr populär in Deutschland. Deshalb essen Janusch und ich heute Kuchen und wir trinken dazu Kaffee. Janusch, Kaffee und Kuchen, ist das eine richtige Mahlzeit in Deutschland? Ich würde das nicht eine Mahlzeit nennen, aber es ist Spaß. Ab 15 Uhr nachmittags ähm hat man so eine Art Zwischenmahlzeit. Vielleicht eine Zwischenmahlzeit, also eine etwas zwischen den normalen Mahlzeiten. Die Deutschen essen gerne Kaffee und Kuchen am Nachmittag 14, 15, 16 Uhr. Zwischen dem Mittagessen und dem Abendessen gibt's noch einen leckeren Kuchen. Nicht jeden Tag und … Janusch, wir haben Kuchen gekauft gerade. Wir waren in zwei Bäckereien in Berlin und haben verschiedene Kuchenstücke gekauft. Sehr typisch in Deutschland gibt es Apfelkuchen, Mondkuchen, Pflaumenkuchen, wir haben eine Rosinenschnecke und einen Bienenstich. Das ist etwas auch ein typischer Kuchen in Deutschland. Was uns noch fehlt, ist Kaffee. Und Janusch zeigt uns jetzt, wie er am liebsten Kaffee macht. So, jetzt machen wir Kaffee und Janusch zeigt mir, wie er Kaffee zubereitet. Es gibt einen Filter, es gibt heißes Wasser, es gibt eine Kanne und da drin ist der Kaffee. Janusch, hast du … die haben so etwas in einer Maschine. Das schmeckt dir aber nicht. Es schmeckt mir alles eigentlich, aber das finde ich am gemütlichsten und letztendlich erreiche ich damit den besten Kaffee. Janusch erreicht den besten Geschmack. Ja, mit dieser Methode. In Deutschland ist eigentlich alles populär. Filtermaschinen, Siebträgermaschinen, Vollautomaten, da wo man nur die Tasse reinstellt und auf Cappuccino drückt. Aber man kann auch, wenn man ein Kondisseur ist, wie alles selber per Hand machen. Was ist das? Ein Milchschäumer bzw. ich benutze das mehr als Milch Erwärmer. Janusch wärmt die Milch. … warten auf uns. Super. Nach 15 Minuten Kaffee machen haben wir endlich zwei Kaffees. Ja. Und jetzt ist es Zeit für Kuchen. Janusch, wir haben ein Problem. Wir haben keine Kuchenteller und keine Kuchengabeln. Ja, das ist schlimm genug. Ja, weil ich weiß nicht, ob es das in euren Ländern gibt, aber in Deutschland gibt es Kuchenteller, die sind kleiner. Es gibt Kuchengabeln, die sind auch kleiner. Ja. Und es ärgert mich, dass wir das nicht authentisch zeigen können. Absolut. Janusch, du darfst dir ein Stück Kuchen aussuchen. Oh, sehr gerne. Welchen Kuchen möchtest du? Ich möchte zum Anfang … Der Kuchen schmeckt ein bisschen sauer. Janusch, ich nehme einen Apfelkuchen. Apfelkuchen ist vielleicht der populärste Kuchen in Deutschland und dieses Stück Apfelkuchen ist sogar glutenfrei und mit echten Apfeln Stück mit richtigen richtige Apfelstücke. Ja, da drin. Hm. Ich probiere den Apfelkuchen. Toll, lecker. Was soll ich mit der Gabel machen? Die müsste ich eigentlich abwaschen, oder? Ich hole dir eine neue Gabel. Das ist also Pflaumenkuchengabel. Kari, was machst du da? Ha, ich mache etwas ähnliches wie du mit deinem Kaffee. Ich spezialisiere mich aber im Deutsch lernen und zwar … und das Tolle ist, dass ihr dort wirklich nach euren eigenen Methoden und mit eurem eigenen Fokus lernen könnt. Was ich jetzt mache, ich mache ein Flashcard Deck aus den heutigen Vokabeln, z.B. die Gabel, der Kuchen, der Kaffee, der Filter. An diese Wörter möchte ich mich später erinnern. Also suche ich sie im Seedling Dictionary. Ich füge sie zu meinen Reviews hinzu und dann kann ich sie später wiederholen. Ja, sehr schlau. Sehr gut. Das könntest du auch machen beim Französisch lernen. Auf jeden Fall. Wenn ihr das auch ausprobieren möchtet, dann ladet einfach die App auf euer Handy … lernen möchtet. Janusch, es wird Zeit, dass du noch einen Kuchen probierst. Ja, mein Lieblingskuchen Mondkuchen. Mkuchen ist Janusch Lieblingskuchen. M Janusch probiert den Mondkuchen. Schmeckt's? Es schmeckt und es ist so schwer. Ich habe immer das Gefühl, nachdem nachdem ich ein Mondkuchen gegessen habe, kann ich einen Powerpen direkt machen. Janusch, wenn ich zu viel Kaffee trinke, kann ich nicht schlafen. Wie ist das bei dir? Ich glaube, ich glaube endlich, aber der Kaffee ist tatsächlich koffeinfrei. Was? Ich trinke gerade einen koffeinfreien Kaffee. Ja, ich habe an dich gedacht und … es nicht. Ich trinke ja nie Kaffee. Mhm. Janusch, was ist das? Das ist eine Schnecke. Das ist eine Rosinenschnecke. Jisch. In Deutschland nennt man solche Dinger auch Teilchen. Ja, das ist Kuchen. Das gibt es auf einem Blech. Dann gibt es Tortenstücke. Das ist so eine runde Torte. Und es gibt Teilchen, so ich glaube auf Englisch würde man pastry sagen. Und erkläre, was das Wort Schnecke bedeutet. In ursprünglichen Sinne. Eine Schnecke ist ein Tier, das langsam auf dem Boden kriegt und die Schnecke hat ein Haus und das hier sieht ähnlich aus. Ja, diese Schnecke, die geht so rund und im … Na gut. Und vielleicht Bienenstich auch. Mm. Dieser Bienenstich ist äh laktosefrei. M. Okay, toll. Super. Ich esse glutenfrei und laktosefrei. Und dieser Kuchen ist tatsächlich Gluten und laktosefrei. Ja. Und schmeckt leider nicht so süß, aber das ist doch das kann auch ein Vorteil sein. Genau. M voll lecker. Janusch, du hast den Apfelkuchen noch nicht probiert. Gibt es noch Platz im Bauch? Ja, es ist Schluss. Und ich möchte lieber, dass das Geschmeck von dem Pflaumenkuchen länger verwalt in meinen Mund. Der Geschmack. Janusch möchte, dass der Geschmack des Pflaumenkuchens noch … man soll Stückchen vom Kuchen essen und gute Zeit haben, entspannen und das ist wiederum sehr gesund. Janisch, hast du dich bei unserer Kaffee und Kuchenpause entspannt? Total. Ja, hat Spaß gemacht. Dann dann wünsche ich dir noch einen schönen Tag und ich wünsche euch auch einen schönen Tag. Ihr könnt jetzt weiternen mit Easy German. Guckt einfach noch ein Video von uns, denn Janusch und ich, wir essen gleich. Wir essen weiter. Wir haben schon viele Videos gemacht mit Essen und hier seht ihr jetzt ein neues Video, das sieht man mir an. Klick da drauf. Tschüss, bis nächstes Mal. Ciao.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7685
+  "src": "auto"
  },
  "jjf6peil5uM": {
   "channel": "Sloeful German",
@@ -7901,7 +7934,7 @@
  "QSl-n50nrKM": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-04T03:40:48+00:00",
+  "checked": "2026-11-11T01:57:42+00:00",
   "title": "How to Actually Remember German Vocabulary",
   "duration": 893,
   "published": "20260913",
@@ -7909,73 +7942,10 @@
   "spoken_v": 2,
   "pace": 155.4,
   "rare": 0.0517,
+  "var": 0.7905,
   "speech_s": 874.7,
   "tokens": 2265,
   "kw": [
-   [
-    "herfahren",
-    "einfach herfahren, herfahren, herfahren, herfahren. Wobei natürlich, also",
-    702,
-    709,
-    2.33,
-    5
-   ],
-   [
-    "ähm",
-    "du dir ähm Oh Gott, wie erklärt jetzt",
-    252,
-    259,
-    4.12,
-    14
-   ],
-   [
-    "eselsbrücke",
-    "eine Eselsbrücke. Wie merkt ihr euch neue Dinge am besten?",
-    255,
-    264,
-    2.36,
-    2
-   ],
-   [
-    "einprägen",
-    "dass sie es besser einprägen können. Ja.",
-    477,
-    482,
-    2.68,
-    2
-   ],
-   [
-    "vokabeln",
-    "genau. Französisch Vokabeln. Und wie bist du davor gegangen?",
-    630,
-    639,
-    3.37,
-    3
-   ],
-   [
-    "auswendig",
-    "Ich lerne ständig etwas auswendig, weil",
-    3,
-    10,
-    3.8,
-    4
-   ],
-   [
-    "loki",
-    "Loki Methode oder so Memory Palces, wo man Orte mit",
-    189,
-    199,
-    3.1,
-    2
-   ],
-   [
-    "abgefragt",
-    "abgefragt oder? Genau. Ja. Ja. Also mit ihnen",
-    481,
-    486,
-    3.23,
-    2
-   ],
    [
     "lernen",
     "lernen musstest? Ich lerne ständig etwas auswendig, weil",
@@ -8009,11 +7979,11 @@
     11
    ],
    [
-    "sachen",
-    "Sachen dir merken kannst? Ich mache immer so ein Dreier Gerüst in",
-    155,
-    164,
-    5.09,
+    "gelernt",
+    "was sie als letztes gelernt haben und",
+    14,
+    20,
+    4.74,
     10
    ],
    [
@@ -8025,26 +7995,114 @@
     10
    ],
    [
-    "gelernt",
-    "was sie als letztes gelernt haben und",
-    14,
-    20,
-    4.74,
-    10
+    "methode",
+    "merken musst. Äh hast du eine Methode,",
+    149,
+    156,
+    4.51,
+    8
    ],
    [
-    "z.b",
-    "z.B. die Artikel oder so. Es ist ja der",
-    133,
-    140,
-    5.03,
-    9
+    "wörter",
+    "die Wörter einfach wiederholen, System entwickeln, wie man mit Plus und Minus",
+    84,
+    91,
+    4.35,
+    8
+   ],
+   [
+    "ähm",
+    "du dir ähm Oh Gott, wie erklärt jetzt",
+    252,
+    259,
+    4.12,
+    14
+   ],
+   [
+    "auswendig",
+    "Ich lerne ständig etwas auswendig, weil",
+    3,
+    10,
+    3.8,
+    4
+   ],
+   [
+    "lerne",
+    "Ich lerne ständig etwas auswendig, weil",
+    3,
+    10,
+    4.07,
+    3
+   ],
+   [
+    "merke",
+    "Dann merke ich mir das so. Also nur beim",
+    61,
+    65,
+    4.04,
+    3
+   ],
+   [
+    "vokabeln",
+    "genau. Französisch Vokabeln. Und wie bist du davor gegangen?",
+    630,
+    639,
+    3.37,
+    3
+   ],
+   [
+    "geldpolitik",
+    "Geldpolitik. Geldpolitik?",
+    528,
+    535,
+    3.32,
+    2
+   ],
+   [
+    "abgefragt",
+    "abgefragt oder? Genau. Ja. Ja. Also mit ihnen",
+    481,
+    486,
+    3.23,
+    2
+   ],
+   [
+    "loki",
+    "Loki Methode oder so Memory Palces, wo man Orte mit",
+    189,
+    199,
+    3.1,
+    2
+   ],
+   [
+    "herfahren",
+    "einfach herfahren, herfahren, herfahren, herfahren. Wobei natürlich, also",
+    702,
+    709,
+    2.33,
+    5
+   ],
+   [
+    "einprägen",
+    "dass sie es besser einprägen können. Ja.",
+    477,
+    482,
+    2.68,
+    2
+   ],
+   [
+    "eselsbrücke",
+    "eine Eselsbrücke. Wie merkt ihr euch neue Dinge am besten?",
+    255,
+    264,
+    2.36,
+    2
    ]
   ],
-  "tx": "Janusch, was ist das letzte, was du lernen musstest? Ich lerne ständig etwas auswendig, weil ich singe und ich muss die Texte von den äh Liedern sing äh auswendig lernen. Wir wollen heute von den Leuten wissen, was sie als letztes gelernt haben und besonders welche Methoden sie zum Lernen kennen. Los geht's. Los geht's. Wie merkst du dir neue Dinge am besten? indem man einfach macht, indem man einfach Dinge, die man lernen möchte, wiederholt und sich auch vielleicht neuen Situation aussetzt, wo man die Dinge benutzt. Wie lernt ihr neue Dinge am besten? ausprobieren. Also Praxis auf jeden Fall immer einmal machen, einmal schreiben, einmal machen. Einmal schreiben, einmal machen. Das finde ich gut, indem ich sie oft wiederhole, also immer und immer wieder dasselbe irgendwie machen muss. Also war, wenn ich irgendwie ein neues Spiel lernen muss, dann muss ich es ein paar mal machen. Dann merke ich mir das so. Also nur beim ersten Mal zuhören oder beim ersten Mal hören ist es meistens eher schwierig bei mir. Das geht einfach so. Also du ja hast keine Probleme damit. Gutes Gedächtnis. Oh ich bene beneide dich dafür. Ich mittlere Weile ich vergesse sowas von alles. Das gibt es auch. Ja, natürlich. Ich schau sie mir nicht eine andere Sprache lern schau ich sie mir oft an die Wörter einfach wiederholen, System entwickeln, wie man mit Plus und Minus Lücken identifiziert. Also, du hast ein richtigen System dann. Klar, das ist gut. Welche Sprachen hast du gelernt? Also, ich habe gelernt äh erst Latein, ne? Ja, ja, völlig für die Katzentomori dann dann Italienisch, Französisch, Englisch und Spanisch. Ah, dann ist schon eine Menge. Ja. Ja, na ja, immer relativ oder? Wie merkt ihr euch neue Dinge am besten durch Bilder? Kannst du das bisschen mir erklären? Wie machst du das mit Bilder",
+  "tx": "Janusch, was ist das letzte, was du lernen musstest? Ich lerne ständig etwas auswendig, weil ich singe und ich muss die Texte von den äh Liedern sing äh auswendig lernen. Wir wollen heute von den Leuten wissen, was sie als letztes gelernt haben und besonders welche Methoden sie zum Lernen kennen. Los geht's. Los geht's. Wie merkst du dir neue Dinge am besten? indem man einfach macht, indem man einfach Dinge, die man lernen möchte, wiederholt und sich auch vielleicht neuen Situation aussetzt, wo man die Dinge benutzt. Wie lernt ihr neue Dinge am besten? ausprobieren. Also Praxis auf jeden Fall … das ist gut. Welche Sprachen hast du gelernt? Also, ich habe gelernt äh erst Latein, ne? Ja, ja, völlig für die Katzentomori dann dann Italienisch, Französisch, Englisch und Spanisch. Ah, dann ist schon eine Menge. Ja. Ja, na ja, immer relativ oder? Wie merkt ihr euch neue Dinge am besten durch Bilder? Kannst du das bisschen mir erklären? Wie machst du das mit Bildern? Also du musst irgendwas lernen und dann hast du direkt ein Bild dazu im Kopf nur oder auch was wirklich visuell ist dann. Also, ich habe auch Deutsch lernen müssen. Ich bin eigentlich Italienerin und ich bin mit 14 nach … Ich habe in der Vergangenheit oft so Gedächtnistechniken benutzt, z.B. die Loki Methode oder so Memory Palces, wo man Orte mit Geschichten verknüpft. Was ist die Loki Methode? Da nimmst du Orte, die du schon kennst, z.B. deine Wohnung oder dein Büro und platzierst dann in deinem Gehirn die Erinnerungen, Geschichten an den Ecken und dann kann man sich das besser merken und dann läuft man das ab, richtig? Also, wenn man dann durch die Wohnung läuft z.B. Genau. Und das ist ein Zwischenschritt. Also, dann muss man halt z.B. will keine Karteikarten benutzen, sondern man kann, wenn man das … man sich die Geschichten bauen dann. Also so merke ich mir verschiedene Sachen. Spannend und das mit den Zahlen, dass die einen Charakter haben, das ist hast du einfach intuitiv das einfach so ein Gefühl, was du mir mal als Kind irgendwie so zusammengesprochen. Können Sie mir vielleicht erstmal erklären, was eine Eselsbrücke überhaupt ist? Ja, aber etwas ähnliches, etwas adäquates zu dem Namen. Z.B. fehlt der Name Elisabeth, das kann auch eine Königin sein und dann kann ich sagen, ja, Elisabeth, der war was mit Königin und dann weiß ich wieder Elisabeth. Sehr gut. Janusch, wie hast du … Und das Beste, ihr lernt nicht alleine, sondern gemeinsam in unserer aktiven Deutschlern Community, in der ihr euch dann täglich mit anderen Deutschlernenden aus der ganzen Welt austauschen könnt. Um mitzumachen, müsst ihr einfach nur ein Mitglied von EasyGerman werden. Alle Infos findet ihr auf easygermin.org. slvecab und noch mal unten in der Infobox. Was hast du das letzte Mal auswendig lernen müssen und wie hast du das bewältigt? Oh. Ähm, ich lerne ein bisschen Japanisch und da musste ich mir eine Rede merken für Kunden, die ich dort äh halten durfte und wie ich mir das ja ganz … nicht aufhören zu reden, einfach weiter weiter weiter quatsch, auch wenn die Grammatik nicht nicht stimmt, auch wenn die Leute dich dafür gehasst haben. Nee, gar nicht mal. Also die, guck mal, die meisten Leute, wenn die du deren Landessprache sprichst, die sind völlig happy. Die finden das total toll. Ja, aus Berlin, weil hier redet man sehr gerne mit Ausländern Englisch. Das stimmt allerdings. Ja. Ähm, was ist das letzte, was ihr lernen musstet? Boah, ich habe für meine Prüfung in der Uni lernen müssen. Was war das? Geldpolitik. Geldpolitik? Ja. Und wie hast du das gemacht? Ich habe … ich dich auch erstmal gleich so neidisch angeschaut mit deiner Kamera. Ich bin Fotografin. Genau. Und muss mir die Sachen eben, die ich da jeden Tag reingeprügelt bekomme, merken und schreib mir die mit und les mir die immer wieder durch, dann bleibt's im geh im Gedächtnis hängen. Okay. Schon, also auch mitschreiben und wieder durchlesen. Genau. Also, ich habe äh gelernt Kaffee zu machen. Also, so und ich habe auch eine italienisch Kurs gemacht, also auch eine Sprache versucht zu lernen. Äh genau. Ich finde das interessant mit dem Kaffee machen. Also was hast du da gelernt? Also mit einer … zu haben. Ich so Vokabeln lernen tue ich eigentlich gar nicht. Okay, also es ist dann weil ich zu faul bin. Also ist dann wirklich eher nur aktiv in der Anwendung. Genau. Welche Methode würdest du jetzt jemanden äh empfehlen? Jemanden, der gerade Deutsch lernt, versucht Deutsch zu lernen, gerade anfängt? Anfängt? Ja, also ich würde sagen ähm Filme gucken mit deutschen Untertiteln, ich würde sagen äh einfache Sachen lesen und manchmal gibt's ja auch so zweisprachige Ausgaben, das ist auch super. Ähm und einfach herfahren, herfahren, herfahren, herfahren. Wobei natürlich, also was bedeutet … so dass man gar nicht merkt, dass man gerade was lernen muss. Also, man soll weggehen von dem, ich muss mir das jetzt einprägen, zu komm, wir machen was Lustiges, was spannendes, spielerisches draus. Und so kann man eigentlich Schüler austrixen, weil sie dann nicht diesen Schulcharakter haben, sondern eher Spiele machen und Spaß dran haben und dann selber Lust haben weiterzumachen und mehr. Na, man muss sich reinwerfen mit den Leuten reden, meine Meinung. Ja, da muss man der Typ aber für sein, wenn man der Typ nicht ist für mit den Leuten Fehler machen, sich unterhalten, dann und man … oder einen Tipp für Menschen, die z.B. Deutsch lernen möchten? Also es hilft immer Dinge laut und emotional zu machen. Also, wenn es so ein Wort gibt, dass man sich per nicht merken kann, dann kann es helfen, das mal zu schreien oder zu singen oder also es hilft oft, wenn man so den ganzen Körper mit reinbringt. Finde ich sehr cool. Ja, ich habe früher mal mir meine Sachen vorgesungen in der Schule. Und wenn ihr jetzt noch mehr neue deutsche Wörter lernen möchtet, dann macht unbedingt bei unserer Vocab Challenge mit. Alle Infos findet ihr auf easyorg/wokchallenge. Bis zum nächsten Mal. Ciao.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7688
+  "src": "auto"
  },
  "I_An1pmC_Yw": {
   "channel": "MrWissen2go",
@@ -10096,7 +10154,7 @@
  "ynKgKGFtrDc": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-04T22:16:49+00:00",
+  "checked": "2026-11-11T02:18:21+00:00",
   "title": "Miffys farbige Welt | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260830",
@@ -10104,73 +10162,10 @@
   "spoken_v": 2,
   "pace": 114.7,
   "rare": 0.1093,
+  "var": 0.8207,
   "speech_s": 895.2,
   "tokens": 1711,
   "kw": [
-   [
-    "poppy",
-    "Sie kamen an Poppy Pigs Haus vorbei.",
-    66,
-    73,
-    2.73,
-    21
-   ],
-   [
-    "melanie",
-    "Es war Melanie. \"Hallo Melanie\", sagte Miffy.",
-    44,
-    53,
-    3.85,
-    17
-   ],
-   [
-    "roller",
-    "leuchtend roter Roller aus Holz. So ein schöner Roller, sagte Miffy. Er",
-    312,
-    323,
-    3.89,
-    17
-   ],
-   [
-    "pigs",
-    "Sie kamen an Poppy Pigs Haus vorbei.",
-    66,
-    73,
-    2.48,
-    4
-   ],
-   [
-    "spielplatz",
-    "\"Hallo Miffy. Ich gehe zum Spielplatz\",",
-    49,
-    58,
-    3.86,
-    10
-   ],
-   [
-    "guckte",
-    "Sie guckte aus dem Fenster. Welche Farben konnte sie sehen?",
-    4,
-    15,
-    2.87,
-    3
-   ],
-   [
-    "teddy",
-    "mein Teddy sitzen, wenn wir spazieren",
-    322,
-    326,
-    3.75,
-    6
-   ],
-   [
-    "zelt",
-    "Garten im Zelt schlafen.\" \"Oh, das wäre schön\", sagte Miffy",
-    766,
-    774,
-    4.04,
-    9
-   ],
    [
     "sagte",
     "\"Ich bin weiß\", sagte sie, \"und ich habe",
@@ -10196,14 +10191,6 @@
     13
    ],
    [
-    "vater",
-    "Der Vater und die Mutter begrüßten",
-    270,
-    276,
-    5.21,
-    12
-   ],
-   [
     "beiden",
     "Die beiden kleinen Mädchen machten sich",
     61,
@@ -10212,39 +10199,143 @@
     12
    ],
    [
-    "mädchen",
-    "Die beiden kleinen Mädchen machten sich",
-    61,
-    67,
-    5.21,
+    "farben",
+    "Miffy liebte Farben. Sie guckte aus dem Fenster.",
+    2,
+    11,
+    4.57,
+    8
+   ],
+   [
+    "garten",
+    "ihrem Garten. ",
+    21,
+    27,
+    4.73,
+    7
+   ],
+   [
+    "fragte",
+    "Miffy fragte ihre Mutter, ob sie gehen",
+    512,
+    517,
+    4.46,
+    7
+   ],
+   [
+    "fuhr",
+    "fuhr. \"Ich hoffe, dir gefällt die Fahrt,",
+    353,
+    359,
+    4.58,
+    5
+   ],
+   [
+    "roller",
+    "leuchtend roter Roller aus Holz. So ein schöner Roller, sagte Miffy. Er",
+    312,
+    323,
+    3.89,
+    17
+   ],
+   [
+    "melanie",
+    "Es war Melanie. \"Hallo Melanie\", sagte Miffy.",
+    44,
+    53,
+    3.85,
+    17
+   ],
+   [
+    "spielplatz",
+    "\"Hallo Miffy. Ich gehe zum Spielplatz\",",
+    49,
+    58,
+    3.86,
     10
    ],
    [
-    "ihren",
-    "Miffy liebte ihren neuen Roller. Als Melanie zurückkam, sagte sie: \"Das",
-    416,
-    439,
-    5.74,
+    "zelt",
+    "Garten im Zelt schlafen.\" \"Oh, das wäre schön\", sagte Miffy",
+    766,
+    774,
+    4.04,
     9
    ],
    [
-    "angst",
-    "\"Du hast doch keine Angst vor der",
-    818,
-    822,
-    5.17,
-    9
+    "leckeren",
+    "leckeren Keksen mit.\" Miffy machte sich mit ihrem Roller auf",
+    532,
+    542,
+    3.58,
+    3
+   ],
+   [
+    "freuten",
+    "und freuten sich. \"Alle diese Farben sehen so schön aus\",",
+    175,
+    187,
+    3.21,
+    3
+   ],
+   [
+    "lachten",
+    "andere ist braun.\" Die beiden lachten",
+    171,
+    179,
+    3.21,
+    3
+   ],
+   [
+    "flüsterte",
+    "flüsterte Granti. \"Das ist unheimlich.\" \"Das sind nur die Grillen\", sagte Miffy",
+    846,
+    857,
+    3.04,
+    3
+   ],
+   [
+    "poppy",
+    "Sie kamen an Poppy Pigs Haus vorbei.",
+    66,
+    73,
+    2.73,
+    21
+   ],
+   [
+    "pigs",
+    "Sie kamen an Poppy Pigs Haus vorbei.",
+    66,
+    73,
+    2.48,
+    4
+   ],
+   [
+    "keksen",
+    "leckeren Keksen mit.\" Miffy machte sich mit ihrem Roller auf",
+    532,
+    542,
+    2.96,
+    3
+   ],
+   [
+    "schneien",
+    "wenn es anfängt zu schneien, kann es",
+    523,
+    528,
+    2.96,
+    3
    ]
   ],
-  "tx": "Miffy liebte Farben. Sie guckte aus dem Fenster. Welche Farben konnte sie sehen? Sie sah, dass der Himmel blau war. Und das Gras war grün. Sie sah rote Blumen und gelbe Blumen in ihrem Garten. Sie guckte sich ihre Hände an. \"Ich bin weiß\", sagte sie, \"und ich habe ein blaues Kleid an.\" \"Ist es nicht schön, dass es so viele bunte Farben gibt?\", dachte sie. Da klingelte es an der Haustür. Es war Melanie. \"Hallo Melanie\", sagte Miffy. \"Hallo Miffy. Ich gehe zum Spielplatz\", sagte Melanie, \"möchtest du mitkommen?\" \"Oh ja\", sagte Miffy. Die beiden kleinen Mädchen machten sich zusammen auf den Weg zum Spielplatz. Sie kamen an Poppy Pigs Haus vorbei. Poppy Pigs Haus war rot und hatte ein grünes Dach. Im Blumenkasten vor dem Fenster blühten gelbe Blumen. Da war Poppy. Sie kam aus ihrem Garten. Ihre Schubkarre war voll mit frischen, orangefarbenen Karotten. \"Hallo Poppy\", sagte Miffy. \"Hallo Miffy, hallo Melanie\", sagte Poppy. \"Was für ein schönes buntes Haus du hast, Poppy\", sagte Melanie. \"Es freut mich, dass es euch gefällt.\" \"Es sieht so fröhlich aus\", sagte Miffy. Die beiden Mädchen winkten Poppy zu und gingen weiter. Als sie auf dem Spielplatz angekommen waren, spielten sie auf der gelben Schaukel. Sie rutschten die blaue Rutsche hinunter. Und drehten sich rundherum auf dem roten Karussell. Miffy sagte zu Melanie: \"Guck mal, wie viele verschiedene Farben es hier gibt.\" \"Oh ja\", sagte Melanie, \"alles ist bunt. Und du bist weiß und ich bin braun. Wir haben auch verschiedene Farben.\" \"Wir haben verschiedene Farben\", sagte Miffy, \"aber wir sehen doch gleich aus.\" \"Ja, du hast recht. Wir sind zwei Hasenmädchen. Eins ist weiß und das andere ist braun.\" Die beiden lachten und freuten sich. \"Alle diese Farben sehen so schön aus\", sagte Melanie. Sie sahen einen grünen Vogel und ein",
+  "tx": "Miffy liebte Farben. Sie guckte aus dem Fenster. Welche Farben konnte sie sehen? Sie sah, dass der Himmel blau war. Und das Gras war grün. Sie sah rote Blumen und gelbe Blumen in ihrem Garten. Sie guckte sich ihre Hände an. \"Ich bin weiß\", sagte sie, \"und ich habe ein blaues Kleid an.\" \"Ist es nicht schön, dass es so viele bunte Farben gibt?\", dachte sie. Da klingelte es an der Haustür. Es war Melanie. \"Hallo Melanie\", sagte Miffy. \"Hallo Miffy. Ich gehe zum Spielplatz\", sagte Melanie, \"möchtest du mitkommen?\" \"Oh ja\", sagte Miffy. Die beiden kleinen Mädchen machten sich zusammen auf den Weg … Die beiden Mädchen winkten Poppy zu und gingen weiter. Als sie auf dem Spielplatz angekommen waren, spielten sie auf der gelben Schaukel. Sie rutschten die blaue Rutsche hinunter. Und drehten sich rundherum auf dem roten Karussell. Miffy sagte zu Melanie: \"Guck mal, wie viele verschiedene Farben es hier gibt.\" \"Oh ja\", sagte Melanie, \"alles ist bunt. Und du bist weiß und ich bin braun. Wir haben auch verschiedene Farben.\" \"Wir haben verschiedene Farben\", sagte Miffy, \"aber wir sehen doch gleich aus.\" \"Ja, du hast recht. Wir sind zwei Hasenmädchen. Eins ist weiß und das andere ist braun.\" Die … die es gab. \"Ein Regenbogen\", rief Miffy. Und die beiden kleinen Mädchen dachten, wie schön, dass diese Welt so bunt und farbenfroh ist. Eines Morgens war Miffy sehr aufgeregt. Großmutter und Großvater kamen zu Besuch. Das war immer etwas Besonderes. Großvater hatte ein großes Paket mitgebracht. Der Vater und die Mutter begrüßten Miffys Großeltern. Hallo Großmutter, hallo Großvater, sagte Miffy. Ich freue mich so, dass ihr da seid. Und wir freuen uns sehr, dich zu sehen, sagte die Großmutter. Wir haben dir etwas mitgebracht. Hoffentlich gefällt es dir, sagte der Großvater. Ich habe es in … den ganzen Weg mit deinem Roller fahren, sagte der Vater. Und schon war Miffy mit ihrem schönen neuen Roller und ihrem Teddy auf dem Weg zum Spielplatz. Der Vater musste sehr schnell laufen, damit Miffy ihm nicht davon fuhr. \"Ich hoffe, dir gefällt die Fahrt, Teddy\", sagte Miffy. Es sah aus, als ob der kleine Teddy mit dem Kopf nickte. \"Ja, und wie!\" Bald kamen Miffy und ihr Vater auf dem Spielplatz an. Und da war Miffys Freundin Melanie. \"Hallo, Melanie\", sagte Miffy. \"Hallo, Miffy\", sagte Melanie. \"Du hast aber einen schönen Roller.\" \"Mein Großvater hat ihn in seiner Werkstatt selbst … sie: \"Das ist so ein schöner Roller, Miffy. Ich werde meinen Vater fragen, ob er mir auch einen baut. Dann können wir zusammen fahren.\" \"Oh ja\", sagte Miffy. \"Das wäre toll.\" Als es Zeit wurde, fuhr Miffy mit ihrem Roller nach Hause. Der Großvater war glücklich, dass Miffy sich so über den Roller freute. Als Miffy und ihr Vater nächste Mal auf dem Spielplatz waren, kam auch Melanie wieder mit ihrem eigenen neuen Roller. Und Melanie hatte auch ihren Teddy mitgebracht. Sie hatten eine Menge Spaß, die beiden Mädchen mit ihren Rollern und ihren Teddybären. Eines Tages wollte Poppy Pig Miffy … Sie war gut angekommen. Poppy hatte wirklich leckere Kekse gebacken und Tee gemacht. Miffy und Poppy machten es sich gemütlich. Miffy hatte nicht auf die Zeit geachtet. Plötzlich klingelte das Telefon. \"Hallo?\" \"Deine Mutter ist am Telefon\", sagte Poppy. \"Du sollst nach Hause kommen. Sie sagt, es sieht so aus, als ob es gleich schneien würde. Oje, sagte Miffy. Es war so schön bei dir, Poppy, aber ich muss jetzt wirklich gehen. Miffy zog ihren Mantel an und band ihren Schal um. Sie wollte Poppy gerade auf Wiedersehen sagen, als sie daran dachte, was sie ihrer Mutter versprochen hatte. Darf … hatte sich nicht weh getan, aber sie wollte ihren Roller den Rest des Weges doch lieber schieben. Zuhause machte sich die Mutter schon Sorgen. Ich hoffe, Miffy ist nichts passiert, dachte sie. Aber da kam ihre kleine Miffy schon. Endlich. Schnell öffnete die Mutter die Tür. Hallo, Miffy, sagte sie. Ich bin froh, dass du deinen Roller geschoben hast. Ich bin zuerst gefahren, sagte Miffy, aber dann bin ich ausgerutscht und hingefallen. Ich habe mir nicht weh getan, aber ich bin doch lieber zu Fuß gegangen. Ich habe dir ein paar von Poppys leckeren Keksen mitgebracht. Miffy guckte in die Tüte. … fleißig war, machte Miffy eine lustige Schlittenfahrt. Es war ein wunderschöner Sommertag und Miffy fragte ihre Mutter und ihren Vater, ob ihre Freundin Grunty bei ihr übernachten dürfte. \"Ja\", sagte die Mutter, \"es ist heute so schön warm. Ihr könntet draußen im Garten im Zelt schlafen.\" \"Oh, das wäre schön\", sagte Miffy fröhlich. \"Ich fahre dich zu Poppy Pigs Haus\", sagte der Vater, \"dann können wir Poppys Nichte Grunty abholen.\" Sie setzten sich ins Auto und fuhren los. \"Hallo Poppy\", sagte der Vater, \"Miffy möchte Grunty einladen, bei ihr zu übernachten. Packst du ihr ein paar Sachen … ist das für ein Geräusch?\" flüsterte Granti. \"Das ist unheimlich.\" \"Das sind nur die Grillen\", sagte Miffy leise. \"Die zirpen immer nachts. Du musst keine Angst haben, Granti.\" \"Was ist das?\" fragte Granti. Sie hatte jetzt wirklich Angst. \"Das ist nur eine Eule, die nachts oben im Baum sitzt\", flüsterte Miffy. \"Vor der brauchst du auch keine Angst zu haben.\" Aber Granti hatte Angst. \"Können wir das Zelt morgen in Poppys Garten aufstellen?\" fragte Granti. \"Da kenne ich alle Geräusche.\" Die beiden kleinen Mädchen kuschelten sich wieder ein und waren bald darauf eingeschlafen. Als es morgen … Sie hat keine Angst.\" \"Natürlich.\" sagte Poppy. Später am Abend, als die Mädchen in ihrem Zelt in Poppys Garten gemütlich in ihren Betten lagen, schlief Granti sofort ein. Sie fühlte sich hier zu Hause. Miffy konnte nicht einschlafen. Sie hörte Geräusche. \"Was ist das?\" flüsterte Miffy ängstlich. \"Jetzt habe ich Angst. Was ist das für ein Geräusch? Wach auf, Granti. So etwas habe ich noch nie gehört.\" Granti fing an zu lachen. \"Das ist meine Tante Poppy. Sie schnarcht. Ich höre das jeden Abend.\" Jetzt musste auch Miffy lachen. Die beiden lachten und lachten, bis sie endlich einschlieffen.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7804
+  "src": "auto"
  },
  "Hs6wsNKYoMs": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-04T22:17:06+00:00",
+  "checked": "2026-11-11T02:21:05+00:00",
   "title": "Die Entenfamilie | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3526,
   "published": "20260830",
@@ -10252,73 +10343,10 @@
   "spoken_v": 2,
   "pace": 121.5,
   "rare": 0.1075,
+  "var": 0.8345,
   "speech_s": 2989.1,
   "tokens": 6054,
   "kw": [
-   [
-    "rosie",
-    "Wiedersehen, Rosie. Was war denn das?",
-    224,
-    237,
-    3.01,
-    57
-   ],
-   [
-    "mami",
-    "Sch, Mami versucht gerade im Wohnzimmer",
-    202,
-    208,
-    3.61,
-    50
-   ],
-   [
-    "papi",
-    "Den kriege ich, Papi. Okay, Caillou. Noch einmal.",
-    1,
-    12,
-    3.27,
-    34
-   ],
-   [
-    "spieldose",
-    "Spieldose, als ich noch klein war.",
-    1054,
-    1059,
-    2.07,
-    13
-   ],
-   [
-    "bagger",
-    "Ein Bagger. Diese mächtigen Bagger faszinierten",
-    3362,
-    3370,
-    3.46,
-    14
-   ],
-   [
-    "clementine",
-    "Das war gerade Clementine am Telefon.",
-    1851,
-    1855,
-    2.79,
-    8
-   ],
-   [
-    "goldfisch",
-    "Goldfisch ist. Es sah so aus, als ob der Fisch kurz",
-    1960,
-    1969,
-    2.75,
-    7
-   ],
-   [
-    "picknick",
-    "sollte ein großes Picknick veranstaltet werden.",
-    813,
-    818,
-    3.48,
-    10
-   ],
    [
     "hast",
     "Bye, du hast ihn gefunden. Caillou hatte so viel Spaß gehabt die",
@@ -10352,42 +10380,138 @@
     21
    ],
    [
-    "fand",
-    "Caillou fand die Entensprache ziemlich merkwürdig.",
-    97,
-    106,
-    5.23,
-    18
+    "guck",
+    "Guck mal, die machen auch ein",
+    27,
+    30,
+    4.37,
+    14
    ],
    [
-    "gern",
-    "gern weiter beobachten. Ich habe eine Idee. Komm mit.",
-    81,
-    88,
-    5.15,
-    17
+    "karten",
+    "Daddy, weißt du, wo meine Karten sind?",
+    2312,
+    2317,
+    4.74,
+    12
    ],
    [
-    "komm",
-    "Ich habe eine Idee. Komm mit.",
-    83,
-    88,
-    4.91,
-    16
+    "sieh",
+    "Sieh mal, Papi. Jetzt kommen sie.",
+    108,
+    116,
+    4.23,
+    10
    ],
    [
-    "danke",
-    "Danke! Caiou hatte noch nie ein Spinnrad",
-    336,
-    343,
-    5.64,
-    16
+    "milch",
+    "Das trinkt ja Milch aus einem",
+    497,
+    502,
+    4.51,
+    9
+   ],
+   [
+    "mami",
+    "Sch, Mami versucht gerade im Wohnzimmer",
+    202,
+    208,
+    3.61,
+    50
+   ],
+   [
+    "wiedersehen",
+    "Wiedersehen, Caillou. Wiedersehen. Wiedersehen, Papi.",
+    220,
+    229,
+    4.11,
+    10
+   ],
+   [
+    "kaninchen",
+    "Mami, Mami, ein Kaninchen. Draußen ist",
+    1339,
+    1346,
+    3.94,
+    10
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, Kühe. Können wir",
+    853,
+    859,
+    3.9,
+    10
+   ],
+   [
+    "rosie",
+    "Wiedersehen, Rosie. Was war denn das?",
+    224,
+    237,
+    3.01,
+    57
+   ],
+   [
+    "papi",
+    "Den kriege ich, Papi. Okay, Caillou. Noch einmal.",
+    1,
+    12,
+    3.27,
+    34
+   ],
+   [
+    "bagger",
+    "Ein Bagger. Diese mächtigen Bagger faszinierten",
+    3362,
+    3370,
+    3.46,
+    14
+   ],
+   [
+    "picknick",
+    "sollte ein großes Picknick veranstaltet werden.",
+    813,
+    818,
+    3.48,
+    10
+   ],
+   [
+    "spieldose",
+    "Spieldose, als ich noch klein war.",
+    1054,
+    1059,
+    2.07,
+    13
+   ],
+   [
+    "clementine",
+    "Das war gerade Clementine am Telefon.",
+    1851,
+    1855,
+    2.79,
+    8
+   ],
+   [
+    "goldfisch",
+    "Goldfisch ist. Es sah so aus, als ob der Fisch kurz",
+    1960,
+    1969,
+    2.75,
+    7
+   ],
+   [
+    "angemalt",
+    "von dem Mädchen angemalt war. Alles voll",
+    746,
+    751,
+    2.76,
+    4
    ]
   ],
-  "tx": "Den kriege ich, Papi. Okay, Caillou. Noch einmal. Der ist viel zu weit. Halt, Caillou. Warte auf mich. Sei nicht traurig. Irgendwie kriegen wir den schon wieder. Ente. Guck mal, die machen auch ein Familienpicknick. Caillou beobachtete die Entenfamilie ganz genau. Das klingt, als ob sie lachen. Was machen die da? Ich glaube, sie schauen nach, ob es unter Wasser was zu fressen gibt. Caillou konnte sich nicht vorstellen, wie Enten unter Wasser Futter finden könnten. Verstecken die sich? Nein, siehst du, sie kommen zurück. Ein Entlein fehlt noch. Ah, da kommt es ja. Caillou machte es Spaß zu sehen, wie die Enten Verstecken spielten. Papi, da! Ich glaube, wir haben sie erschreckt. Caillou tat es leid, dass sie die Enten erschreckt hatten. Er wollte sie doch so gern weiter beobachten. Ich habe eine Idee. Komm mit. Jetzt werde ich dir zeigen, wie man mit einer Ente spricht. Fertig? Caillou fand die Entensprache ziemlich merkwürdig. Aber er wollte es auch mal versuchen. Sieh mal, Papi. Jetzt kommen sie. Das ist Vaterente. Siehst du, wie schön bunt er ist? Caillou wollte, dass die ganze Entenfamilie aus dem Wasser kommt. Papi Caillou war wie gebannt als ein kleines Entlein ganz in seiner Nähe war. Hallo kleines Entchen. Warum ich will man die wieder weg? Die Mutter Ente passt gut auf dass keines ihrer Jungen verloren geht. Caillou Na komm jetzt gehen wir wieder zu deiner Mutter Ente. Bye, du hast ihn gefunden. Caillou hatte so viel Spaß gehabt die Enten zu beobachten, dass er seinen Ball völlig vergessen hatte. Wenn ich eine Ente wäre, könnte ich hinüber schwimmen und den Ball holen. Das hast du toll gemacht. Ich werde ihn tragen. Caillou Komm mit, ich glaube wir müssen dich wieder sauber machen. Nein, Papi, ich will jetzt nicht baden. wartet jemand auf dich in der Badewanne. A",
+  "tx": "Den kriege ich, Papi. Okay, Caillou. Noch einmal. Der ist viel zu weit. Halt, Caillou. Warte auf mich. Sei nicht traurig. Irgendwie kriegen wir den schon wieder. Ente. Guck mal, die machen auch ein Familienpicknick. Caillou beobachtete die Entenfamilie ganz genau. Das klingt, als ob sie lachen. Was machen die da? Ich glaube, sie schauen nach, ob es unter Wasser was zu fressen gibt. Caillou konnte sich nicht vorstellen, wie Enten unter Wasser Futter finden könnten. Verstecken die sich? Nein, siehst du, sie kommen zurück. Ein Entlein fehlt noch. Ah, da kommt es ja. Caillou machte es Spaß zu … Schaf sehr komisch aussah. Es war viel dünner als die anderen. Wo war nur sein Fell geblieben? Warum ist denn das Schaf nackt? Mein Papa hat es gerade geschoren. Willst du zusehen? Mary, warte! Caillou konnte nicht glauben, was er da sah. Der Mann nahm die Wolle direkt vom Rücken des Schafes weg. Mein Papa konzentriert sich immer sehr, wenn er bei der Schafschur ist. Ich wette, er hat uns noch gar nicht gesehen. Muss das Schaf jetzt frieren? Oh, nein. Seine Wolle wächst ja wieder nach. Los, Caillou, komm mit. Ich will dir noch etwas zeigen. Was? Das ist eine Überraschung. Caillou war … Du kannst dich auch so anmalen lassen. Da ist eine Frau, die malt allen die Gesichter an. Sie ist da drüben, aber es ist besser, wenn du erstmal deine Mama fragst. Das kostet nämlich Geld. Mami, Mami, darf ich auch angemalt werden? Ich hab Geld, schau. Darf ich bitte? Caillou war glücklich, dass sein Gesicht auch angemalt wurde und er war stolz, dass er das mit seinem eigenen Geld bezahlen konnte. Piep. Das kriegen Sie zurück und einen schönen Tag noch. Diesen Luftballon bring ich Rosie mit. Hast du dich versteckt? Ich komme. Caillou und Rosie spielten wieder Verstecken. Aber diesmal war … Meins. Was ist hier los? Ich will meinen Bären wieder haben. Die Spieldose ist kaputt gegangen. Gib mir die Spieldose mal hier. Sieh mal, du musst die Spieldose aufziehen und den Deckel aufmachen und schon funktioniert sie wieder. Warum spielt ihr beide nicht abwechselnd damit? Caillou hatte aber keine Lust mit Rosie abzuwechseln. Er wollte mit der Spieldose und dem Bären spielen. Wen haben wir denn hier? Oh, Piraten. Habt ihr einen Schatz gefunden? Ja, hier, die Spieldose und der Piratenbär bewacht sie. Na schön. Caillou und Rosie hatten sich geeinigt, gemeinsam Piraten zu spielen. … Papi, Hilfe, sie steckt fest. Du musst kräftig ziehen. Au! Caillou hatte eine andere Idee, wie er helfen könnte. Ich werde jetzt hier schaufeln. Es schneit! Hey! Was ihr könnt, kann ich schon lange. Vorsicht! So, Spaß beiseite. Wenn wir noch zur Schlittschuhbahn wollen, dann müssen wir jetzt aber weiterarbeiten. Ich schaufel besser auch den Fußweg frei. Was ist denn das? Kann ich den haben, Opi? Na klar, hier hast du ihn. Caillou fand, dass der Blumentopf prima zum Schneetragen war. Außerdem konnte man damit wunderbare Schneeburgen bauen. Papi, komm mal, guck, was ich gemacht hab. Toll, … sind wilde Tiere, die leben in der Natur. Mal überlegen. Ich geb dir einen kleinen Tipp. Clementines Haustier ist orangefarben. Was könnte wohl orangefarben sein, dachte Caillou. Ein Dinosaurier. Oh je, das hätte noch gefehlt. Ich glaube, du wirst es bald wissen. Hallo. Hallo. Bitte kommt doch rein. Das musst du dir ansehen, Caillou. Er macht Blasen. Caillou überlegte, welches Tier wohl Blasen macht. Ein Fisch. Was isst denn dein Fisch? Ich mag gern Würstchen und Plätzchen. Hier hast du die Dose, aber nur ein ganz kleines bisschen, verstanden? Er isst Fischfutter. Hier. Du darfst … Uhr später. Nein, ich habe keine Lust mehr. Ich will erst meine Zeitwächter-Uhr wieder haben. Meine Uhr! Jetzt ist Mittag. Jetzt können wir endlich zum Picknicken gehen. Das bin ich. Ich bin Caillou. Ich bin vier Jahre alt und kann schon eine Menge Sachen machen. Ich kann meinem Papi beim Basteln helfen. Ich weiß, wie ich meinen Teddybär wieder gesund mache. Ich kann sogar meiner Omi Geschichten vorlesen. Aber was ich am besten kann, das ist Spaß haben. Nur ein Zebra? Daddy, weißt du, wo meine Karten sind? Auf Wiederhören. Papi, wo sind meine Karten? Vielleicht spielt Rosie gerade damit. Da … gut. Alles klar zum Einsteigen? Ist mein kleiner Späher bereit? Sag mir Bescheid, wenn ich für dich was fotografieren soll. Caillou fand es toll, der Späher zu sein und sein Dinosaurier Rexi musste ihm dabei helfen. Wow! Caillou fand das Tier einmalig schön. Das ist eine Libelle. Das ist eine Libelle? Oh, wie schön! Guck sie dir an, Rexi. Sie ist darüber geflogen. Können wir da auch hin? Zu Befehl, Captain. Also, nehmen wir Kurs auf die Rohrkolben. Du kannst sie anfassen, Caillou. Die Rohrkolben fühlen sich ganz weich und pelzig an. Ja! Da! Caillou hatte noch nie einen so großen und so … Caillou. Ich habe sie alle in eine Tüte getan. Oh, danke schön. Viel Spaß, Caillou. Wiedersehen, Papa. Als Caillou endlich bei Leo war, konnte er es nicht erwarten, die Valentinskarten seinen Freunden zu geben. Hast du deine Valentinskarten schon verteilt? Nein, wir haben auf dich gewartet. Caillou, Caillou, los, komm. Also gut, habt ihr alle eure Valentinskarten bereit? Ja. Na, dann los, fangt an, sie zu verteilen. Diese hier ist für dich, Clementine. Alles Gute zum Valentinstag. Oh, ist die aber schön. Habe ich selbst gemacht. Das da bin ich und das da bist du. Hier Caillou. Danke. Toll. … Guck mal, Rosie. Bagger können aber auch beim Bauen helfen. Und bald baute Rosie ihren Turm allein weiter auf. Und Caillou, der Bagger, musste sich eine neue Arbeit suchen. Danke sehr. Ich muss in den Garten und Laubrechen. Ich brauche dringend einen Bagger, der mir hilft. Willst du mitkommen? Ja. Eine Arbeit für einen Bagger. Caillou war schwer begeistert. Er konnte es gar nicht erwarten, bis es endlich losging. Gute Arbeit, Caillou. Danke. Toll, ihr seid ja schon beinahe fertig. Caillou war glücklich. Das war genau die richtige Arbeit für einen Bagger. Und es gab noch so viel zu tun. Flieg.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8392
+  "src": "auto"
  },
  "LDnmwZ_Y6S0": {
   "channel": "Deutsch für Euch",
@@ -10551,7 +10675,7 @@
  "-y1rxt6wd2c": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-05T15:05:29+00:00",
+  "checked": "2026-11-11T02:04:23+00:00",
   "title": "The Story of Wicked Frederick (famous German children's book)│Total Beginner German",
   "duration": 618,
   "published": "20220618",
@@ -10559,73 +10683,10 @@
   "spoken_v": 2,
   "pace": 62.3,
   "rare": 0.0479,
+  "var": 0.486,
   "speech_s": 602.5,
   "tokens": 626,
   "kw": [
-   [
-    "peitsche",
-    "hat eine peitsche eine peitsche da ist die falsche und",
-    240,
-    255,
-    3.4,
-    11
-   ],
-   [
-    "gretchen",
-    "das ist gretchen das ist friedrich das ist gretchen und",
-    225,
-    236,
-    3.08,
-    5
-   ],
-   [
-    "struwwelpeter",
-    "struwwelpeter das ist der name von dem buch der",
-    27,
-    38,
-    2.49,
-    3
-   ],
-   [
-    "quält",
-    "quält die tiere das und das das sind die tiere und er",
-    112,
-    130,
-    3.21,
-    3
-   ],
-   [
-    "friedrichs",
-    "auf friedrichs stuhl das ist der stuhl",
-    487,
-    497,
-    3.61,
-    4
-   ],
-   [
-    "flügen",
-    "die fliegen und er fängt die flügen und",
-    144,
-    152,
-    3.41,
-    3
-   ],
-   [
-    "stühle",
-    "friedrich macht die stühle er macht die",
-    97,
-    106,
-    3.79,
-    4
-   ],
-   [
-    "weint",
-    "gretchen und weint gretchen weint denn friedrich",
-    232,
-    246,
-    3.89,
-    4
-   ],
    [
     "friedrich",
     "friedrich ",
@@ -10651,6 +10712,14 @@
     8
    ],
    [
+    "liegt",
+    "quält die katze auf der katze liegt ein",
+    206,
+    220,
+    5.55,
+    5
+   ],
+   [
     "bein",
     "friedrich in das bein in das bein er",
     341,
@@ -10667,14 +10736,6 @@
     6
    ],
    [
-    "vögel",
-    "tieren die vögel der hahn die katze",
-    129,
-    140,
-    4.31,
-    5
-   ],
-   [
     "schlägt",
     "schlägt er erschlägt die vögel die vögel",
     185,
@@ -10683,18 +10744,90 @@
     5
    ],
    [
-    "liegt",
-    "quält die katze auf der katze liegt ein",
-    206,
-    220,
-    5.55,
+    "vögel",
+    "tieren die vögel der hahn die katze",
+    129,
+    140,
+    4.31,
     5
+   ],
+   [
+    "treppe",
+    "friedrich die treppe hoch er läuft die",
+    259,
+    271,
+    4.19,
+    5
+   ],
+   [
+    "trinkt",
+    "hund trinkt wasser der hund trinkwasser",
+    279,
+    292,
+    4.07,
+    4
+   ],
+   [
+    "weint",
+    "gretchen und weint gretchen weint denn friedrich",
+    232,
+    246,
+    3.89,
+    4
+   ],
+   [
+    "stühle",
+    "friedrich macht die stühle er macht die",
+    97,
+    106,
+    3.79,
+    4
+   ],
+   [
+    "peitsche",
+    "hat eine peitsche eine peitsche da ist die falsche und",
+    240,
+    255,
+    3.4,
+    11
+   ],
+   [
+    "gretchen",
+    "das ist gretchen das ist friedrich das ist gretchen und",
+    225,
+    236,
+    3.08,
+    5
+   ],
+   [
+    "flügen",
+    "die fliegen und er fängt die flügen und",
+    144,
+    152,
+    3.41,
+    3
+   ],
+   [
+    "quält",
+    "quält die tiere das und das das sind die tiere und er",
+    112,
+    130,
+    3.21,
+    3
+   ],
+   [
+    "struwwelpeter",
+    "struwwelpeter das ist der name von dem buch der",
+    27,
+    38,
+    2.49,
+    3
    ]
   ],
-  "tx": "das ist ein buch ein buch für kinder das buch ist schon sehr alt sehr alt das buch wurde 1845 geschrieben das buch heißt der struwwelpeter das ist der name von dem buch der struwwelpeter und das ist er das ist der struwwelpeter das buch war ein beliebtes kinderbuch in deutschland heute zeige ich euch eine geschichte aus dem buch die geschichte vom bösen friedrich das ist friedrich das ist friedrich und friedrich ist böse er ist böse er ist nicht nett nein er ist böse friedrich macht die stühle er macht die stühle kaputt er macht dich stühle kaputt und friedrich quält die tiere das und das das sind die tiere und er quält die tiere er ist gemein zu den tieren die vögel der hahn die katze friedrich fängt er fängt die fliegen die fliegen und er fängt die flügen und er reist er reißt den flügen die flügel aus da da guckt er fängt die flügen und reißt ihnen die flügel aus er macht die stühle kaputt und vögel tot und friedrich schlägt er erschlägt die vögel die vögel tot die vögel sind tot das war friedrich und friedrich quält die katze auf der katze liegt ein stein das ist ein stein und der stein liegt auf der katze dass das ist gretchen das ist friedrich das ist gretchen und gretchen und weint gretchen weint denn friedrich hat eine peitsche eine peitsche da ist die falsche und friedrich schlägt gretchen mit der peitsche hier läuft friedrich die treppe hoch er läuft die treppe die treppe hoch mit der peitsche in der hand hier oben ist ein hund der hund trinkt wasser der hund trinkwasser und friedrich geht zu dem hund und er schlägt den hund mit der peitsche und er tritt den hund er schlägt und er tritt den hund friedrich schlägt den hund friedrich tritt tritt den hund hier vertritt den hund der hund heult der hund hall für der hund hat schmerzen schmerzen der hund hat schmerz",
+  "tx": "das ist ein buch ein buch für kinder das buch ist schon sehr alt sehr alt das buch wurde 1845 geschrieben das buch heißt der struwwelpeter das ist der name von dem buch der struwwelpeter und das ist er das ist der struwwelpeter das buch war ein beliebtes kinderbuch in deutschland heute zeige ich euch eine geschichte aus dem buch die geschichte vom bösen friedrich das ist friedrich das ist friedrich und friedrich ist böse er ist böse er ist nicht nett nein er ist böse friedrich macht die stühle er macht die stühle kaputt er macht dich stühle kaputt und friedrich quält die tiere das und das das sind die tiere und er quält die tiere er ist gemein zu den tieren die vögel der hahn die katze friedrich fängt er fängt die fliegen die fliegen und er fängt die flügen und er reist er reißt den flügen die flügel aus da da guckt er fängt die flügen und reißt ihnen die flügel aus er macht die stühle kaputt und vögel tot und friedrich schlägt er erschlägt die vögel die vögel tot die vögel sind tot das war friedrich und friedrich quält die katze auf der katze liegt ein stein das ist ein stein und der stein liegt auf der katze dass das ist gretchen das ist friedrich das ist gretchen und gretchen und weint gretchen weint denn friedrich hat eine peitsche eine peitsche da ist die falsche und friedrich schlägt gretchen mit der peitsche hier läuft friedrich die treppe hoch er läuft die treppe die treppe hoch mit der peitsche in der hand hier oben ist ein hund der hund trinkt wasser der hund trinkwasser und friedrich geht zu dem hund und er schlägt den hund mit der peitsche und er tritt den hund er schlägt und er tritt den hund friedrich schlägt den hund friedrich tritt tritt den hund hier vertritt den hund der hund heult der hund hall für der hund hat schmerzen schmerzen der hund hat schmerzen und dann beißt der hund friedrich in das bein in das bein er weist friedrich cook er beißt friedrich in das bein das bein blutet das blut kommt aus dem bein das bein blutet und friedrich schreit friedrich schreit und er weint er weint und friedrich friedrich lässt er lässt die peitsche los friedrich lässt die peitsche los und der hund rennt weg der hund rennt mit der peitsche im mund weg er rennt mit der peitsche im mund weg und jetzt hat friedrich schmerzen jetzt hat friedrich schmerzen im bein ja im bein und friedrich muss ins red friedrich liegt im bett mit schmerzen das ist der arzt der arzt gibt friedrich medizin zum trinken der arzt hat medizin für friedrich hier geht eine treppe runter hier geht eine treppe runter und hier sind bäume kleine bäume und die bäume werden immer kleiner die bäume werden immer kleiner und was macht der hund der hund geht's zum tisch und sitzt auf friedrichsplatz auf friedrichs stuhl das ist der stuhl und der hund sitzt auf friedrichs stuhl und der hund ist friedrichs kuchen das ist der kuchen und der hund ist friedrichs wurst das ist die wurst und der hund hat nicht nur hunger aber auch durst und hunger und durst also ist der hund und trinkt der hund und der hund trinkt auch den wein trinkt den wein hier über dem stuhl liegt die peitsche hier über dem stuhl liegt die peitsche und jetzt geht es dem hund gut und friedrich schlecht und das ist die geschichte vom bösen friedrich was denkt ihr über die geschichte vom bösen friedrich schreibt es schreibt es unten in die kommentare wenn euch das video gefallen hat dann drückt auf den daumen nach oben bis zum nächsten video",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.486
+  "src": "auto"
  },
  "Sy1KeCG91vM": {
   "channel": "Deutsch verstehen",
@@ -10947,7 +11080,7 @@
  "_PLkV2QbOjM": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-05T15:07:56+00:00",
+  "checked": "2026-11-11T02:16:36+00:00",
   "title": "10 Redewendungen, die dein Deutsch sofort verbessern! ✨💬 #German",
   "duration": 446,
   "published": "20250301",
@@ -10955,9 +11088,106 @@
   "spoken_v": 2,
   "pace": 85.4,
   "rare": 0.0757,
+  "var": 0.8163,
   "speech_s": 436.1,
   "tokens": 621,
   "kw": [
+   [
+    "beispiel",
+    "einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“,",
+    39,
+    49,
+    5.35,
+    11
+   ],
+   [
+    "warum",
+    "Beispiel: „Warum der Drucker nicht funktioniert? Das ist nicht mein Bier.“",
+    125,
+    133,
+    5.75,
+    3
+   ],
+   [
+    "deutsche",
+    "Heute schauen wir uns deutsche Redewendungen an, die dir im Alltag begegnen können. Sie",
+    7,
+    17,
+    5.57,
+    3
+   ],
+   [
+    "kopf",
+    "6. Den Nagel auf den Kopf treffen Wenn jemand etwas genau",
+    202,
+    211,
+    5.3,
+    3
+   ],
+   [
+    "katze",
+    "einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“,",
+    39,
+    49,
+    4.49,
+    4
+   ],
+   [
+    "jemandem",
+    "4. Jemandem die Daumen drücken Wenn du jemandem die Daumen drückst,",
+    134,
+    142,
+    4.38,
+    4
+   ],
+   [
+    "daumen",
+    "4. Jemandem die Daumen drücken Wenn du jemandem die Daumen drückst,",
+    134,
+    142,
+    4.2,
+    4
+   ],
+   [
+    "gekauft",
+    "einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“,",
+    39,
+    49,
+    4.77,
+    3
+   ],
+   [
+    "bären",
+    "10. Jemandem einen Bären aufbinden Wenn du jemandem einen Bären aufbindest,",
+    321,
+    334,
+    3.9,
+    4
+   ],
+   [
+    "nagel",
+    "6. Den Nagel auf den Kopf treffen Wenn jemand etwas genau",
+    202,
+    211,
+    3.97,
+    3
+   ],
+   [
+    "klappe",
+    "5. Zwei Fliegen mit einer Klappe schlagen Wenn du mit einer Aktion zwei Ziele erreichst,",
+    169,
+    182,
+    3.96,
+    3
+   ],
+   [
+    "salat",
+    "2. Da haben wir den Salat. Diese Redewendung benutzt man,",
+    87,
+    96,
+    4.1,
+    2
+   ],
    [
     "redewendung",
     "deutsche Sprache und Kultur besser zu verstehen. Aber was ist eigentlich eine Redewendung? Eine",
@@ -10981,116 +11211,12 @@
     142,
     3.11,
     2
-   ],
-   [
-    "bären",
-    "10. Jemandem einen Bären aufbinden Wenn du jemandem einen Bären aufbindest,",
-    321,
-    334,
-    3.9,
-    4
-   ],
-   [
-    "klappe",
-    "5. Zwei Fliegen mit einer Klappe schlagen Wenn du mit einer Aktion zwei Ziele erreichst,",
-    169,
-    182,
-    3.96,
-    3
-   ],
-   [
-    "nagel",
-    "6. Den Nagel auf den Kopf treffen Wenn jemand etwas genau",
-    202,
-    211,
-    3.97,
-    3
-   ],
-   [
-    "daumen",
-    "4. Jemandem die Daumen drücken Wenn du jemandem die Daumen drückst,",
-    134,
-    142,
-    4.2,
-    4
-   ],
-   [
-    "sack",
-    "einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“,",
-    39,
-    49,
-    4.26,
-    3
-   ],
-   [
-    "beispiel",
-    "einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“,",
-    39,
-    49,
-    5.35,
-    11
-   ],
-   [
-    "katze",
-    "einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“,",
-    39,
-    49,
-    4.49,
-    4
-   ],
-   [
-    "jemandem",
-    "4. Jemandem die Daumen drücken Wenn du jemandem die Daumen drückst,",
-    134,
-    142,
-    4.38,
-    4
-   ],
-   [
-    "warum",
-    "Beispiel: „Warum der Drucker nicht funktioniert? Das ist nicht mein Bier.“",
-    125,
-    133,
-    5.75,
-    3
-   ],
-   [
-    "sprache",
-    "deutsche Sprache und Kultur besser zu verstehen. Aber was ist eigentlich eine Redewendung? Eine",
-    21,
-    31,
-    5.07,
-    3
-   ],
-   [
-    "schatten",
-    "9. Über den eigenen Schatten springen Wenn du etwas tust, was dir schwerfällt",
-    294,
-    304,
-    4.5,
-    3
-   ],
-   [
-    "kultur",
-    "deutsche Sprache und Kultur besser zu verstehen. Aber was ist eigentlich eine Redewendung? Eine",
-    21,
-    31,
-    5.02,
-    3
-   ],
-   [
-    "kopf",
-    "6. Den Nagel auf den Kopf treffen Wenn jemand etwas genau",
-    202,
-    211,
-    5.3,
-    3
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute schauen wir uns deutsche Redewendungen an, die dir im Alltag begegnen können. Sie helfen dir nicht nur, flüssiger zu sprechen, sondern auch, die deutsche Sprache und Kultur besser zu verstehen. Aber was ist eigentlich eine Redewendung? Eine Redewendung ist eine feste Verbindung mehrerer Wörter, deren Bedeutung man nicht sofort aus den einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“, dann hat das nichts mit einer echten Katze zu tun! Lass uns einige der bekanntesten deutschen Redewendungen anschauen und herausfinden, wie man sie benutzt. 1. Das ist der Hammer! Wenn du etwas besonders toll oder beeindruckend findest, sagst du: „Das ist der Hammer!“ Beispiel: „Hast du das Feuerwerk gestern gesehen? Das war echt der Hammer!“ 2. Da haben wir den Salat. Diese Redewendung benutzt man, wenn etwas schiefgegangen ist oder ein Problem entstanden ist. Beispiel: „Ich habe die Adresse vergessen, und jetzt haben wir den Salat.“ 3. Das ist nicht mein Bier. Mit dieser Redewendung sagst du, dass etwas dich nicht betrifft oder nicht deine Verantwortung ist. Beispiel: „Warum der Drucker nicht funktioniert? Das ist nicht mein Bier.“ 4. Jemandem die Daumen drücken Wenn du jemandem die Daumen drückst, wünschst du ihm viel Glück! Es ist eine nette Geste, um Unterstützung zu zeigen. Beispiel: „Morgen habe ich meine Prüfung. Drück mir die Daumen!“ Diese Redewendung geht auf alte Rituale zurück, bei denen Daumen als Schutzsymbol galten. 5. Zwei Fliegen mit einer Klappe schlagen Wenn du mit einer Aktion zwei Ziele erreichst, dann schlägst du „zwei Fliegen mit einer Klappe“. Beispiel: „Ich habe meine Freunde besucht und gleichzeitig einen neuen Buchladen entdeckt – zwe",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute schauen wir uns deutsche Redewendungen an, die dir im Alltag begegnen können. Sie helfen dir nicht nur, flüssiger zu sprechen, sondern auch, die deutsche Sprache und Kultur besser zu verstehen. Aber was ist eigentlich eine Redewendung? Eine Redewendung ist eine feste Verbindung mehrerer Wörter, deren Bedeutung man nicht sofort aus den einzelnen Wörtern ableiten kann. Wenn jemand zum Beispiel sagt: „Er hat die Katze im Sack gekauft“, dann hat das nichts mit einer echten Katze zu tun! Lass uns einige der bekanntesten deutschen Redewendungen anschauen und herausfinden, wie man sie benutzt. 1. Das ist der Hammer! Wenn du etwas besonders toll oder beeindruckend findest, sagst du: „Das ist der Hammer!“ Beispiel: „Hast du das Feuerwerk gestern gesehen? Das war echt der Hammer!“ 2. Da haben wir den Salat. Diese Redewendung benutzt man, wenn etwas schiefgegangen ist oder ein Problem entstanden ist. Beispiel: „Ich habe die Adresse vergessen, und jetzt haben wir den Salat.“ 3. Das ist nicht mein Bier. Mit dieser Redewendung sagst du, dass etwas dich nicht betrifft oder nicht deine Verantwortung ist. Beispiel: „Warum der Drucker nicht funktioniert? Das ist nicht mein Bier.“ 4. Jemandem die Daumen drücken Wenn du jemandem die Daumen drückst, wünschst du ihm viel Glück! Es ist eine nette Geste, um Unterstützung zu zeigen. Beispiel: „Morgen habe ich meine Prüfung. Drück mir die Daumen!“ Diese Redewendung geht auf alte Rituale zurück, bei denen Daumen als Schutzsymbol galten. 5. Zwei Fliegen mit einer Klappe schlagen Wenn du mit einer Aktion zwei Ziele erreichst, dann schlägst du „zwei Fliegen mit einer Klappe“. Beispiel: „Ich habe meine Freunde besucht und gleichzeitig einen neuen Buchladen entdeckt – zwei Fliegen mit einer Klappe!“ 6. Den Nagel auf den Kopf treffen Wenn jemand etwas genau richtig sagt oder tut, trifft er „den Nagel auf den Kopf“. Beispiel: „Dein Vorschlag ist perfekt! Damit hast du den Nagel auf den Kopf getroffen.“ 7. Ein Auge zudrücken Wenn du jemanden nicht für einen Fehler bestrafst, sondern nachsichtig bist, dann drückst du „ein Auge zu“. Beispiel: „Der Lehrer hat ein Auge zugedrückt und mich die Hausaufgabe noch einmal machen lassen.“ 8. Die Katze im Sack kaufen Diese Redewendung bedeutet, dass man etwas kauft oder eine Entscheidung trifft, ohne es vorher genau zu prüfen. Beispiel: „Ich habe online eine Kamera gekauft, ohne die Bewertungen zu lesen – ich habe wohl die Katze im Sack gekauft!“ Warum dieser Ausdruck? Früher auf Märkten wurden manchmal wertlose Dinge wie Katzen anstelle von Ferkeln in Säcke gesteckt, um Käufer zu täuschen. 9. Über den eigenen Schatten springen Wenn du etwas tust, was dir schwerfällt oder was dich Überwindung kostet, dann springst du „über deinen eigenen Schatten“. Beispiel: „Ich musste über meinen Schatten springen, um vor so vielen Menschen zu sprechen.“ 10. Jemandem einen Bären aufbinden Wenn du jemandem einen Bären aufbindest, erzählst du ihm eine unglaubliche Geschichte, die nicht wahr ist – also: Du lügst ihn an. Beispiel: „Er hat mir erzählt, dass er einen Schatz im Wald gefunden hat. Aber ich glaube, er hat mir nur einen Bären aufgebunden.“ Diese Redewendung stammt vermutlich aus alten Geschichten, in denen Bären symbolisch für große Lügen standen. Warum sind Redewendungen wichtig? Redewendungen machen deine Sprache lebendiger und helfen dir, dich wie ein Muttersprachler auszudrücken. Außerdem sind sie oft voller Kultur und Geschichte – sie zeigen, wie Menschen früher gedacht und gesprochen haben. Wenn du Deutsch lernen möchtest, empfehle ich dir, Redewendungen nach und nach in deinen Alltag einzubauen. Notiere dir ein paar, übe sie, und schau, wie sie benutzt werden! Welche Redewendungen kennst du? Schreib mir in die Kommentare, welche Redewendung du besonders lustig oder interessant findest. Und wenn du mehr über die deutsche Sprache und Kultur erfahren möchtest, melde dich für meinen Newsletter an: AuthenticGermanLearning.com/free Danke fürs Zuschauen! Bis zum nächsten Mal — tschüss!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8139
+  "src": "cc"
  },
  "4fKtvA1-xiw": {
   "channel": "Chill German",
@@ -11539,7 +11665,7 @@
  "ycogsUe24FM": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-06T02:24:38+00:00",
+  "checked": "2026-11-11T02:04:43+00:00",
   "title": "Learn German in Context | Super EASY",
   "duration": 716,
   "published": "20220225",
@@ -11547,81 +11673,10 @@
   "spoken_v": 2,
   "pace": 66.0,
   "rare": 0.0978,
+  "var": 0.5402,
   "speech_s": 548.4,
   "tokens": 603,
   "kw": [
-   [
-    "textmarker",
-    "mädchen denn viele textmarker die textmarker",
-    258,
-    269,
-    2.05,
-    23
-   ],
-   [
-    "kappe",
-    "der füller hat eine kappe die",
-    125,
-    134,
-    3.53,
-    13
-   ],
-   [
-    "buntstift",
-    "sind auch buntstifte der buntstift mit",
-    77,
-    84,
-    2.2,
-    5
-   ],
-   [
-    "füller",
-    "in meinem mädchen ist auch ein füller",
-    115,
-    125,
-    3.09,
-    5
-   ],
-   [
-    "kariertes",
-    "es gibt aber auch kariertes papier",
-    644,
-    650,
-    2.36,
-    3
-   ],
-   [
-    "filzstift",
-    "der filzstift der filzstift hat auch",
-    153,
-    163,
-    2.4,
-    3
-   ],
-   [
-    "fineliner",
-    "ich habe zwei fineliner beide haben",
-    206,
-    219,
-    2.07,
-    2
-   ],
-   [
-    "reissverschluss",
-    "",
-    0,
-    0,
-    3.35,
-    3
-   ],
-   [
-    "farbe",
-    "haben nicht die gleiche farbe das ist nicht die gleiche farbe",
-    317,
-    344,
-    4.73,
-    15
-   ],
    [
     "gleiche",
     "haben nicht die gleiche farbe das ist nicht die gleiche farbe",
@@ -11647,6 +11702,22 @@
     10
    ],
    [
+    "kurz",
+    "kurz und dieser text marke ist lang",
+    488,
+    500,
+    5.43,
+    6
+   ],
+   [
+    "farbe",
+    "haben nicht die gleiche farbe das ist nicht die gleiche farbe",
+    317,
+    344,
+    4.73,
+    15
+   ],
+   [
     "unterschiedliche",
     "sie haben unterschiedliche farben unterschiedliche farben",
     339,
@@ -11663,26 +11734,106 @@
     7
    ],
    [
-    "meinem",
-    "in meinem mädchen ist ein bleistift",
-    39,
-    46,
-    5.43,
+    "farben",
+    "verschiedene farben blau und",
+    96,
+    108,
+    4.57,
     6
    ],
    [
-    "linien",
-    "dieser feind macht dünne linien und dieser fall einer macht",
-    231,
-    248,
-    4.37,
-    6
+    "dünn",
+    "dünn und dick was ist noch in meinem mädchen in meinem",
+    249,
+    262,
+    4.09,
+    4
+   ],
+   [
+    "malen",
+    "kann ich auch malen malen",
+    164,
+    178,
+    4.11,
+    3
+   ],
+   [
+    "eignet",
+    "linie das papier eignet sich zum",
+    673,
+    679,
+    3.91,
+    2
+   ],
+   [
+    "kappe",
+    "der füller hat eine kappe die",
+    125,
+    134,
+    3.53,
+    13
+   ],
+   [
+    "füller",
+    "in meinem mädchen ist auch ein füller",
+    115,
+    125,
+    3.09,
+    5
+   ],
+   [
+    "bleistift",
+    "in meinem mädchen ist ein bleistift",
+    39,
+    46,
+    3.52,
+    3
+   ],
+   [
+    "reissverschluss",
+    "",
+    0,
+    0,
+    3.35,
+    3
+   ],
+   [
+    "textmarker",
+    "mädchen denn viele textmarker die textmarker",
+    258,
+    269,
+    2.05,
+    23
+   ],
+   [
+    "buntstift",
+    "sind auch buntstifte der buntstift mit",
+    77,
+    84,
+    2.2,
+    5
+   ],
+   [
+    "filzstift",
+    "der filzstift der filzstift hat auch",
+    153,
+    163,
+    2.4,
+    3
+   ],
+   [
+    "kariertes",
+    "es gibt aber auch kariertes papier",
+    644,
+    650,
+    2.36,
+    3
    ]
   ],
-  "tx": "halli hallo willkommen bei comprehensive german hier lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an heute werfen wir einen blick in mein mädchen das ist mein mädchen mein mädchen hat einen reißverschluss der reißverschluss mit dem reißverschluss kann man das mädchen zu machen und auf machen in meinem mädchen ist ein bleistift der bleistift mit dem bleistift kann ich zeichnen zum beispiel ein haus oder ich kann schreiben in meinem mädchen sind auch buntstifte der buntstift mit dem buntstift kann ich ausmalen ausmalen und stifter haben verschiedene farben blau und rot es gibt viele farmen viele farben in meinem mädchen ist auch ein füller der fülle der füller hat eine kappe die kappe mit dem füller kann ich auch schreiben der filzstift der filzstift hat auch eine kappe die kappe mit dem filzstift kann ich auch malen malen hat der buntstift auch eine kappe eine kappe hat der buntstift eine kappe nein der buntstift hat keine kappe hat der füller eine kappe ja der füller hat eine kappe ich habe zwei fineliner beide haben eine kappe und mit ihnen kann ich zeichnen oder schreiben dieser feind macht dünne linien und dieser fall einer macht dicke linien dünn und dick was ist noch in meinem mädchen in meinem mädchen denn viele textmarker die textmarker textmarker gibt es in vielen farben lila orange und gelb die textmarker gibt es in vielen farben und die textmarker haben auch eine kappe die kappe mit dem textmarker kann man den text markieren diese zwei textmarker haben nicht die gleiche farbe das ist nicht die gleiche farbe sie haben unterschiedliche farben unterschiedliche farben diese zwei textmarker haben die gleiche farbe die gleiche farbe haben diese zwei",
+  "tx": "halli hallo willkommen bei comprehensive german hier lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an heute werfen wir einen blick in mein mädchen das ist mein mädchen mein mädchen hat einen reißverschluss der reißverschluss mit dem reißverschluss kann man das mädchen zu machen und auf machen in meinem mädchen ist ein bleistift der bleistift mit dem bleistift kann ich zeichnen zum beispiel ein haus oder ich kann schreiben in meinem mädchen sind auch buntstifte der buntstift mit dem buntstift kann ich ausmalen ausmalen und stifter haben verschiedene farben blau und rot es gibt viele farmen viele farben in meinem mädchen ist auch ein füller der fülle der füller hat eine kappe die kappe mit dem füller kann ich auch schreiben der filzstift der filzstift hat auch eine kappe die kappe mit dem filzstift kann ich auch malen malen hat der buntstift auch eine kappe eine kappe hat der buntstift eine kappe nein der buntstift hat keine kappe hat der füller eine kappe ja der füller hat eine kappe ich habe zwei fineliner beide haben eine kappe und mit ihnen kann ich zeichnen oder schreiben dieser feind macht dünne linien und dieser fall einer macht dicke linien dünn und dick was ist noch in meinem mädchen in meinem mädchen denn viele textmarker die textmarker textmarker gibt es in vielen farben lila orange und gelb die textmarker gibt es in vielen farben und die textmarker haben auch eine kappe die kappe mit dem textmarker kann man den text markieren diese zwei textmarker haben nicht die gleiche farbe das ist nicht die gleiche farbe sie haben unterschiedliche farben unterschiedliche farben diese zwei textmarker haben die gleiche farbe die gleiche farbe haben diese zwei textmarker die gleiche farbe oder eine unterschiedliche farbe sie haben die gleiche farbe haben diese zwei textmarker die gleiche farbe oder eine unterschiedliche farbe sie haben eine unterschiedliche farbe haben diese beiden stifter die gleiche farbe ja sie haben die gleiche farbe sie sind blau diese beiden textmarker haben die gleiche farbe aber sie sind auch unterschiedlich die farbe ist gleich aber die form die form ist unterschiedlich die form ist unterschiedlich und die form ist zugleich diese drei textmarker haben die gleiche form sie haben die gleiche vor und diese zwei textmarker haben eine unterschiedliche form eine unterschiedliche form dieser textmarker ist kurz und dieser text marke ist lang er ist kurz und der ist lang dieser textmarker ist dick und diese textmarker ist dünn dick und dünn kurz und lang diese beiden textmarker sind lang dieser textmarker ist kurz welcher textmarker ist kurz dieser text marke ist kurz welche textmarker sind lang diese textmarker cent lang ist dieser textmarker oder dick dieser textmarker ist dick diese fineliner haben die gleiche form die gleiche form aber sie mahlen unterschiedlich sie malen unterschiedlich dieser malt dick und dieser white dünn sie sind unterschiedlich sie mahnen unterschiedlich aber die farbe ist gleich und die form ist gleich in meinem mädchen liegt auch ein genial das lineal mit dem lineal kann man linien die linien ziehen man kann eine linie ziehen das papier ist liniert es hat viele linien viele linien es gibt aber auch kariertes papier kariertes papier linie das papier eignet sich zum schreiben und kariertes papier eignet sich gut zum rechnen zum rechnen ich packe alle meine sachen wieder ins mäppchen was ich mache das mädchen zu wenn dir dieses video gefallen hat würde ich mich über einen berg freuen dann können noch mehr leute deutschland bis zum nächsten mal tschüss",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6047
+  "src": "auto"
  },
  "8VJCR1QQJNw": {
   "channel": "Authentic German Learning",
@@ -14642,7 +14793,7 @@
  "1dsotu7AIZM": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-07T05:15:16+00:00",
+  "checked": "2026-11-11T02:24:18+00:00",
   "title": "Speak German With Me: 20 Minutes German Conversation Practice for Beginners",
   "duration": 1142,
   "published": "20250816",
@@ -14650,73 +14801,10 @@
   "spoken_v": 2,
   "pace": 92.2,
   "rare": 0.0464,
+  "var": 0.7332,
   "speech_s": 980.5,
   "tokens": 1507,
   "kw": [
-   [
-    "wildblumen",
-    "ich habe viele Wildblumen gesehen. Weiße",
-    203,
-    212,
-    2.34,
-    6
-   ],
-   [
-    "picknick",
-    "einen Picknick machen und schwimmen. Das klingt schön. Und was hast du am",
-    184,
-    197,
-    3.48,
-    12
-   ],
-   [
-    "lari",
-    "mit Lari, wenn du neu hier bist. Hallo,",
-    4,
-    11,
-    2.34,
-    5
-   ],
-   [
-    "taco",
-    "Und sag mal, hat Taco auch ein Stück",
-    319,
-    327,
-    2.71,
-    4
-   ],
-   [
-    "snacken",
-    "Snacken. Und bist du dann in der Sonne",
-    290,
-    297,
-    2.27,
-    3
-   ],
-   [
-    "trinkflasche",
-    "Trinkflasche, einen Apfel und Chips zum",
-    286,
-    294,
-    2.73,
-    3
-   ],
-   [
-    "stechmücken",
-    "und Mücken. Stechmücken natürlich auch. Fische. Wo hast du Fische gesehen? Die",
-    231,
-    243,
-    2.75,
-    3
-   ],
-   [
-    "stückchen",
-    "Spalten und dann in kleinere Stückchen.",
-    314,
-    323,
-    3.71,
-    6
-   ],
    [
     "hast",
     "spaziert und dabei hast du hoffentlich",
@@ -14724,14 +14812,6 @@
     33,
     5.75,
     32
-   ],
-   [
-    "park",
-    "englische Garten? Der Park ist in",
-    152,
-    161,
-    4.72,
-    21
    ],
    [
     "gesehen",
@@ -14750,6 +14830,22 @@
     18
    ],
    [
+    "bist",
+    "mit Lari, wenn du neu hier bist. Hallo,",
+    4,
+    11,
+    5.61,
+    11
+   ],
+   [
+    "park",
+    "englische Garten? Der Park ist in",
+    152,
+    161,
+    4.72,
+    21
+   ],
+   [
     "blumen",
     "gegangen. Hast du Blumen gesehen? Ja,",
     198,
@@ -14766,31 +14862,119 @@
     15
    ],
    [
-    "bist",
+    "fluss",
+    "ein kleiner Fluss. Ein Bach ist schmaler",
+    245,
+    257,
+    4.44,
+    9
+   ],
+   [
+    "fische",
+    "Bienen und Fische. Ach ja, und Fliegen",
+    227,
+    235,
+    4.17,
+    12
+   ],
+   [
+    "apfel",
+    "Trinkflasche, einen Apfel und Chips zum",
+    286,
+    294,
+    4.03,
+    9
+   ],
+   [
+    "spazieren",
+    "machen? Na ja, man kann spazieren gehen,",
+    176,
+    185,
+    3.99,
+    6
+   ],
+   [
+    "gesessen",
+    "oder eben Schatten gesessen? Ich bin in",
+    293,
+    301,
+    3.86,
+    6
+   ],
+   [
+    "picknick",
+    "einen Picknick machen und schwimmen. Das klingt schön. Und was hast du am",
+    184,
+    197,
+    3.48,
+    12
+   ],
+   [
+    "schmetterlinge",
+    "Eichhörnchen gesehen, Schmetterlinge, Bienen und Fische. Ach ja, und Fliegen",
+    224,
+    235,
+    3.59,
+    3
+   ],
+   [
+    "eichhörnchen",
+    "Eichhörnchen gesehen, Schmetterlinge, Bienen und Fische. Ach ja, und Fliegen",
+    224,
+    235,
+    3.57,
+    3
+   ],
+   [
+    "schmaler",
+    "ein kleiner Fluss. Ein Bach ist schmaler",
+    245,
+    257,
+    3.53,
+    3
+   ],
+   [
+    "wildblumen",
+    "ich habe viele Wildblumen gesehen. Weiße",
+    203,
+    212,
+    2.34,
+    6
+   ],
+   [
+    "lari",
     "mit Lari, wenn du neu hier bist. Hallo,",
     4,
     11,
-    5.61,
-    11
+    2.34,
+    5
    ],
    [
-    "wochenende",
-    "Wochenende gemacht? Am Samstag war ich im englischen Garten",
-    139,
-    149,
-    4.96,
-    9
+    "taco",
+    "Und sag mal, hat Taco auch ein Stück",
+    319,
+    327,
+    2.71,
+    4
+   ],
+   [
+    "aufgeschnitten",
+    "aufgeschnitten. Hast du den Apfel in",
+    307,
+    315,
+    2.94,
+    3
    ]
   ],
-  "tx": "Hallo und willkommen zurück bei Deutsch mit Lari, wenn du neu hier bist. Hallo, ich bin Lari, Deutschlehrerin und gemeinsam lernen wir hier Deutsch. Im letzten Deutschlernvlog sind wir gemeinsam durch den englischen Garten spaziert und dabei hast du hoffentlich viele neue Wörter gelernt und heute bist du dran, denn in diesem Video wiederholen wir die gelernten Wörter und trainieren dabei nicht unsere Muskeln. Nein, sondern das Sprechen, denn du möchtest wahrscheinlich nicht nur Deutsch verstehen, sondern vor allem sprechen können, oder? Und genau dafür habe ich für dich zwei Methoden mitgebracht. Also hör gut zu, denn so läuft unser Sprechraining heute ab. In Schritt 1 hörst du gleich den ganzen Dialog. In Schritt 2 sprechen wir dann Satz für Satz nach. Du hörst also einen Satz und sprichst ihn dann nach. Und zum Schluss in Schritt 3 sprechen wir, du und ich Synchronen. Wir sprechen also den ganzen Dialog gleichzeitig. Du sprichst also mit mir mit und dabei konzentrierst du dich besonders auf die Sprechgeschwindigkeit und auf den Sprechhythmus. Na dann, viel Spaß. Schritt 1: Hör zu. Hallo Lari, schön dich zu sehen. Hallo, schön dich auch zu sehen. Wie geht's dir? Mir geht's sehr gut, danke. Und dir? Mir geht's auch gut. Was hast du am Wochenende gemacht? Am Samstag war ich im englischen Garten und am Sonntag habe ich nichts gemacht, ich war nur zu Hause. Wo ist der englische Garten? Der Park ist in München. Ist es ein großer Park? Ja, tatsächlich ist es der größte städtische Park Deutschlands, also der größte Park, den es in einer Stadt gibt. Oh wow, cool. Und was kann man in diesem Park so machen? Na ja, man kann spazieren gehen, man kann auf der Wiese sitzen, man kann einen Picknick machen und schwimmen. Das klingt schön. Und was hast du am Samstag im Park gemacht? Ic",
+  "tx": "Hallo und willkommen zurück bei Deutsch mit Lari, wenn du neu hier bist. Hallo, ich bin Lari, Deutschlehrerin und gemeinsam lernen wir hier Deutsch. Im letzten Deutschlernvlog sind wir gemeinsam durch den englischen Garten spaziert und dabei hast du hoffentlich viele neue Wörter gelernt und heute bist du dran, denn in diesem Video wiederholen wir die gelernten Wörter und trainieren dabei nicht unsere Muskeln. Nein, sondern das Sprechen, denn du möchtest wahrscheinlich nicht nur Deutsch verstehen, sondern vor allem sprechen können, oder? Und genau dafür habe ich für dich zwei Methoden … gleichzeitig. Du sprichst also mit mir mit und dabei konzentrierst du dich besonders auf die Sprechgeschwindigkeit und auf den Sprechhythmus. Na dann, viel Spaß. Schritt 1: Hör zu. Hallo Lari, schön dich zu sehen. Hallo, schön dich auch zu sehen. Wie geht's dir? Mir geht's sehr gut, danke. Und dir? Mir geht's auch gut. Was hast du am Wochenende gemacht? Am Samstag war ich im englischen Garten und am Sonntag habe ich nichts gemacht, ich war nur zu Hause. Wo ist der englische Garten? Der Park ist in München. Ist es ein großer Park? Ja, tatsächlich ist es der größte städtische Park … gegangen. Hast du Blumen gesehen? Ja, ich habe viele Wildblumen gesehen. Weiße Blumen, gelbe Blumen, lila Blumen. Hä, was sind denn Wildblumen? Das sind Blumen, die einfach so in der freien Natur wachsen. Okay, verstehe. Und hast du auch Tiere gesehen? Ja, ich habe Eichhörnchen gesehen, Schmetterlinge, Bienen und Fische. Ach ja, und Fliegen und Mücken. Stechmücken natürlich auch. Fische. Wo hast du Fische gesehen? Die Fische habe ich im Bach gesehen. Bach? Was ist ein Bach? Na ja, ein Bach ist ein kleiner Fluss. Ein Bach ist schmaler und nicht so tief wie ein Fluss. Und das Wasser fließt … Und bist du dann in der Sonne oder eben Schatten gesessen? Ich bin in der Sonne gesessen. Und hast du dann deinen Apfel gegessen? Ja, aber zuerst habe ich ihn mit einem Taschenmesser aufgeschnitten. Hast du den Apfel in Scheiben geschnitten? Nein, zuerst in Spalten und dann in kleinere Stückchen. Und sag mal, hat Taco auch ein Stück bekommen? Ja, Taco hat auch ein kleines Stückchen bekommen. Wie lange bist du dann im Park geblieben? M Ich bin ungefähr bis um 20 Uhr geblieben, also bis um 8 Uhr abends. Hast du dann dort noch den Sonnenuntergang gesehen? Ja, ich habe die Sonne beobachtet, … geht's auch gut. Was hast du am Wochenende gemacht? Samstag war ich im englischen Garten und am Sonntag habe ich nichts gemacht. Ich war nur zu Hause. Wo ist der englische Garten? Der Park ist in München. Ist es ein großer Park? Ja, tatsächlich ist es der größte städtische Park Deutschlands, also der größte Park, den es in einer Stadt gibt. Oh wow, cool. Und was kann man in diesem Park so machen? Na ja, man kann spazieren gehen, man kann auf der Wiese sitzen, man kann einen Picknick machen und schwimmen. Das klingt schön. Und was hast du am Samstag? im Park gemacht. Ich bin mit meinem Hund … und Fische. Ach ja, und Fliegen und Mücken, Stechmücken natürlich auch. Fische, wo hast du Fische gesehen? Die Fische habe ich im Bach gesehen. Bach? Was ist ein Bach? Na ja, ein Bach ist ein kleiner Fluss. Ein Bach ist schmaler und nicht so tief wie ein Fluss und das Wasser fließt oft langsamer als im Fluss. Ah, ich verstehe. Bist du auch über eine Brücke gegangen? Ja, wir haben auch eine Brücke überquert. Hast du dann auch einen Picknick gemacht? Na ja, kein richtiges Picknick, kein großes Picknick, aber ich hatte meine Picknickdecke dabei und eine Trinkflasche, einen Apfel und Chips … sag mal, hat Tao auch ein Stück bekommen? Ja, Taco hat auch ein kleines Stückchen bekommen. Wie lange bist du dann im Park geblieben? M Ich bin ungefähr bis um 20 Uhr geblieben, also bis um 8 Uhr abends. Hast du dann dort noch den Sonnenuntergang gesehen? Ja, ich habe die Sonne beobachtet, als sie hinter den Bäumen unterging. Ach, das klingt nach einem schönen Samstag. Ja, der Tag war sehr entspannt. Und du, was hast du am Wochenende gemacht? Bravo! Und jetzt der letzte Schritt. Schritt 3. Sprich mit mir mit. Hallo Lari, schön dich zu sehen. Hallo, schön dich auch zu sehen. Wie geht's dir? … Park Deutschlands. Also der größte Park, den es in einer Stadt gibt. Oh wow, cool. Und was kann man in diesem Park so machen? Na ja, man kann spazieren gehen, man kann auf der Wiese sitzen, man kann einen Picknick machen und schwimmen. Das klingt schön. Und was hast du am Samstag im Park gemacht? Ich bin mit meinem Hund spazieren gegangen. Hast du Blumen gesehen? Ja, ich habe viele Wildblumen gesehen. Weiße Blumen, gelbe Blumen, lila Blumen. Hä, was sind denn Wildblumen? Das sind Blumen, die einfach so in der freien Natur wachsen. Okay, verstehe. Und hast du auch Tiere gesehen? Ja, ich habe … Wasser fließt oft langsamer als im Fluss. Ah, ich verstehe. Bist du auch über eine Brücke gegangen? Ja, wir haben auch eine Brücke überquert. Hast du dann auch einen Picknick gemacht? Na ja, kein richtiges Picknick, kein großes Picknick, aber ich hatte meine Picknickdecke dabei und eine Trinkflasche, einen Apfel und Chips zum Snacken. Und bist du dann in der Sonne oder eben Schatten gesessen? Ich bin in der Sonne gesessen. Und hast du dann deinen Apfel gegessen? Ja, aber zuerst habe ich ihn mit einem Taschenmesser aufgeschnitten. Hast du den Apfel in Scheiben geschnitten? Nein, zuerst in … beobachtet, als sie hinter den Bäumen unterging. Ach, das klingt nach einem schönen Samstag. Ja, der Tag war sehr entspannt und du, was hast du am Wochenende gemacht? Super Applaus für dich. Toll gemacht. Übe diesen Dialog gerne noch ein paar Mal, denn je öfter du das Sprechen übst, desto flüssiger und sicherer wirst du. Und wenn du jetzt noch zusätzlich dein Schreiben üben möchtest, dann beantworte doch die letzte Frage des Dialogs, nämlich wie war dein Wochenende? Was hast du am Wochenende gemacht oder was machst du am Wochenende? Also bis zum nächsten Mal. Viel Spaß beim Deutsch lernen.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7271
+  "src": "auto"
  },
  "AUzBhJinEsE": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-07T05:16:25+00:00",
+  "checked": "2026-11-11T02:29:55+00:00",
   "title": "💥 NEUE FOLGE 💥Die rutschige Piste 🐰🪣🧼 Episodensammlung 🎬 Mascha und der Bär",
   "duration": 1198,
   "published": "20261014",
@@ -14798,9 +14982,74 @@
   "spoken_v": 2,
   "pace": 96.8,
   "rare": 0.0797,
+  "var": 0.7965,
   "speech_s": 474.4,
   "tokens": 765,
   "kw": [
+   [
+    "tor",
+    "Hey Bär, werden sie ein Tor schießen?",
+    839,
+    845,
+    4.8,
+    16
+   ],
+   [
+    "hey",
+    "Hey Leute, kommt schon raus. Keine",
+    525,
+    530,
+    4.93,
+    7
+   ],
+   [
+    "spiel",
+    "Landes. Dies ist das entscheidende Spiel",
+    817,
+    824,
+    5.49,
+    4
+   ],
+   [
+    "lange",
+    "niemand den Ball lange halten. Hey Bär, werden sie ein Tor schießen?",
+    835,
+    845,
+    5.59,
+    3
+   ],
+   [
+    "ball",
+    "Kampf. Die Spieler versuchen, den Ball",
+    831,
+    836,
+    4.64,
+    11
+   ],
+   [
+    "pass",
+    "einen Konter. Pass! Das ist ein",
+    846,
+    850,
+    4.56,
+    6
+   ],
+   [
+    "schuss",
+    "Eine tolle Torchance. Ein Schuss! Wie schade. Ein guter Zeitpunkt für",
+    842,
+    849,
+    4.42,
+    3
+   ],
+   [
+    "siehst",
+    "Hey Bär, siehst du das? Die haben auch",
+    605,
+    610,
+    4.65,
+    2
+   ],
    [
     "bär",
     "entwischen. Habe ich Bär? Also, das nenne ich mal einen guten",
@@ -14808,30 +15057,6 @@
     391,
     4.0,
     15
-   ],
-   [
-    "häschen",
-    "Hallo Häschen. Hallo Bärchen.",
-    52,
-    62,
-    3.11,
-    4
-   ],
-   [
-    "waschtag",
-    "Ist bei dir heute tatsächlich Waschtag?",
-    61,
-    67,
-    2.21,
-    2
-   ],
-   [
-    "rosi",
-    "Das sind die von meiner Rosi und das",
-    121,
-    128,
-    3.09,
-    3
    ],
    [
     "hurra",
@@ -14842,11 +15067,35 @@
     4
    ],
    [
-    "shampoo",
-    "kein Shampoo. Was wir brauchen ist ein",
-    453,
-    460,
-    3.43,
+    "schiedsrichter",
+    "Der Schiedsrichter gibt einen Elfmeter. Endlich besteht die Chance auf einen",
+    900,
+    905,
+    3.95,
+    3
+   ],
+   [
+    "gastgeber",
+    "aber der Mittelfeldspieler der Gastgeber spielt ihn wieder zurück in die rechte",
+    989,
+    994,
+    4.08,
+    2
+   ],
+   [
+    "häschen",
+    "Hallo Häschen. Hallo Bärchen.",
+    52,
+    62,
+    3.11,
+    4
+   ],
+   [
+    "hopp",
+    "Hopp, hopp.",
+    1038,
+    1042,
+    3.56,
     3
    ],
    [
@@ -14858,6 +15107,14 @@
     3
    ],
    [
+    "shampoo",
+    "kein Shampoo. Was wir brauchen ist ein",
+    453,
+    460,
+    3.43,
+    3
+   ],
+   [
     "heimmannschaft",
     "Die Heimmannschaft kontrolliert den Ball wieder am gegnerischen Strafraum.",
     892,
@@ -14866,74 +15123,18 @@
     2
    ],
    [
-    "tor",
-    "Hey Bär, werden sie ein Tor schießen?",
-    839,
-    845,
-    4.8,
-    16
-   ],
-   [
-    "ball",
-    "Kampf. Die Spieler versuchen, den Ball",
-    831,
-    836,
-    4.64,
-    11
-   ],
-   [
-    "hey",
-    "Hey Leute, kommt schon raus. Keine",
-    525,
-    530,
-    4.93,
-    7
-   ],
-   [
-    "pass",
-    "einen Konter. Pass! Das ist ein",
-    846,
-    850,
-    4.56,
-    6
-   ],
-   [
-    "spiel",
-    "Landes. Dies ist das entscheidende Spiel",
-    817,
-    824,
-    5.49,
-    4
-   ],
-   [
-    "spieler",
-    "Kampf. Die Spieler versuchen, den Ball",
-    831,
-    836,
-    5.06,
-    3
-   ],
-   [
-    "schuss",
-    "Eine tolle Torchance. Ein Schuss! Wie schade. Ein guter Zeitpunkt für",
-    842,
-    849,
-    4.42,
-    3
-   ],
-   [
-    "schau",
-    "Schau mal, was ich hier habe.",
-    425,
-    431,
-    4.95,
-    3
+    "waschtag",
+    "Ist bei dir heute tatsächlich Waschtag?",
+    61,
+    67,
+    2.21,
+    2
    ]
   ],
-  "tx": "Die rutschige Piste. Hallo Häschen. Hallo Bärchen. Oh, was ist das? Ist bei dir heute tatsächlich Waschtag? Warte eine Sekunde. Oh, ich bin so unglaublich hilfsbereit. Hä? Und ha. Das war's, fertig. Das sind die von meiner Rosi und das sind die von meinen kleinen Babys. Gib mir deine Pfote. Ui. Er rutscht immer aus der Hand. Wieder fliegt der davon. Dino, Hades ist wieder da. Hurra! Wir haben ihn. Jetzt kannst du uns nicht mehr entwischen. Habe ich Bär? Also, das nenne ich mal einen guten Waschtag. Vollwaschgang. Duschkraft. Also gut, wer will mitspielen? Schau mal, was ich hier habe. Los, hol ihn. Na, mach schon, fang ihn. Er benimmt sich echt komisch. Ob er vielleicht krank ist? Nein, meine liebe Rosi, wir brauchen kein Shampoo. Was wir brauchen ist ein Welpenarzt. Schau, wir werden dir jetzt gleich helfen. Wartet, wartet. Habt ihr Hände gewaschen? Ihr werdet meinen Welpen noch ganz schmutzig machen. Hey Leute, kommt schon raus. Keine Sorge, mein Welpe wird euch schon nicht beißen. Bär! Schau, er ist immer noch so komisch. Und die Ärzte konnten gar nicht helfen. Floh- und Zeckenshampoo. Oh! Hey Bär, siehst du das? Die haben auch Flöhe. Hey ihr beiden, kommt mit zum Baden hier dazu. Es ist nur zu eurem Besten. Schaut. Jetzt wird's Zeit, dass ihr auch ein Bad nehmt. Ihr sollt ein Bad nehmen und zwar jetzt. Hört mal, das Wasser wird schon kalt, okay? Lass sie nicht entkommen, Bär. Hört mal zu, Widerstand ist zwecklos. Seht ihr? So ist's viel besser. Stimmt's, Bär? Oh, das Shampoo ist ganz leer. Ich weiß, da war doch noch jemand mit mehr Shampoo. Gut. Ich hoffe, du hast es genossen, Bär. Du siehst ganz umwerfend aus, Bär. Genau wie meine liebe Rosi. Man braucht nur ein Ziel. Hey, Fußballkumpel. Bär, gehen wir doch raus und kicken eine Runde. Okay? Alle aufgepasst. Wir ber",
+  "tx": "Die rutschige Piste. Hallo Häschen. Hallo Bärchen. Oh, was ist das? Ist bei dir heute tatsächlich Waschtag? Warte eine Sekunde. Oh, ich bin so unglaublich hilfsbereit. Hä? Und ha. Das war's, fertig. Das sind die von meiner Rosi und das sind die von meinen kleinen Babys. Gib mir deine Pfote. Ui. Er rutscht immer aus der Hand. Wieder fliegt der davon. Dino, Hades ist wieder da. Hurra! Wir haben ihn. Jetzt kannst du uns nicht mehr entwischen. Habe ich Bär? Also, das nenne ich mal einen guten Waschtag. Vollwaschgang. Duschkraft. Also gut, wer will mitspielen? Schau mal, was ich hier habe. Los, hol ihn. Na, mach schon, fang ihn. Er benimmt sich echt komisch. Ob er vielleicht krank ist? Nein, meine liebe Rosi, wir brauchen kein Shampoo. Was wir brauchen ist ein Welpenarzt. Schau, wir werden dir jetzt gleich helfen. Wartet, wartet. Habt ihr Hände gewaschen? Ihr werdet meinen Welpen noch ganz schmutzig machen. Hey Leute, kommt schon raus. Keine Sorge, mein Welpe wird euch schon nicht beißen. Bär! Schau, er ist immer noch so komisch. Und die Ärzte konnten gar nicht helfen. Floh- und Zeckenshampoo. Oh! Hey Bär, siehst du das? Die haben auch Flöhe. Hey ihr beiden, kommt mit zum Baden hier dazu. Es ist nur zu eurem Besten. Schaut. Jetzt wird's Zeit, dass ihr auch ein Bad nehmt. Ihr sollt ein Bad nehmen und zwar jetzt. Hört mal, das Wasser wird schon kalt, okay? Lass sie nicht entkommen, Bär. Hört mal zu, Widerstand ist zwecklos. Seht ihr? So ist's viel besser. Stimmt's, Bär? Oh, das Shampoo ist ganz leer. Ich weiß, da war doch noch jemand mit mehr Shampoo. Gut. Ich hoffe, du hast es genossen, Bär. Du siehst ganz umwerfend aus, Bär. Genau wie meine liebe Rosi. Man braucht nur ein Ziel. Hey, Fußballkumpel. Bär, gehen wir doch raus und kicken eine Runde. Okay? Alle aufgepasst. Wir berichten live aus dem wichtigsten Fußballstadion des Landes. Dies ist das entscheidende Spiel der Saison, das Spiel um den Superpreis. In Ordnung, wir sehen uns das eine Weile an. Im Mittelfeld gibt es einen intensiven Kampf. Die Spieler versuchen, den Ball zurückzuerobern, aber bisher kann niemand den Ball lange halten. Hey Bär, werden sie ein Tor schießen? Eine tolle Torchance. Ein Schuss! Wie schade. Ein guter Zeitpunkt für einen Konter. Pass! Das ist ein Fehlschuss. Der Ball geht ins Aus. Und wo bleibt das Tor? Hey Bär, wie lange dauert es noch, bis ich ein Tor sehe? Wann fällt das Tor? Wie lange noch bis zum Tor? Also, wo bleibt das Tor? Bär, dein Fußballspiel hat überhaupt keine Tore. Es ist so langweilig. Die Heimmannschaft kontrolliert den Ball wieder am gegnerischen Strafraum. Ein Pass. Ein weiterer Pass. Ein Fehlpass. Foul. Der Schiedsrichter gibt einen Elfmeter. Endlich besteht die Chance auf einen Treffer. Ein Schuss aufs Tor. Ach schon wieder daneben. Ups, rote Karte für mich. Der Schiedsrichter verweist einen Spieler wegen unsportlichen Verhaltens des Platzes. Und wir starten in die zweite Halbzeit. Die Spieler sind wieder auf dem Platz. Der Schiedsrichter pfeift an. Zweite Halbzeit beginnt. Häschen, hey Häschen, kicken wir eine Runde. Komm schon, komm schon, schieß, schieß. Mist, Latte, aber der nächste ist drin. Oh, Häschen. Okay, bin dabei. Der Kampf um den Ball ist noch nicht vorüber. Jetzt wandert der Ball in die rechte Hälfte des Feldes und er ist wieder in der linken Spielfeldhälfte, aber der Mittelfeldspieler der Gastgeber spielt ihn wieder zurück in die rechte Spielfeldhälfte. Noch ein Pass. Der Ball ist wieder in der linken Spielfeldhälfte. Ein Pass und die Heimmannschaft kontrolliert den Ball wieder problemlos im gegnerischen Strafraum. Und die Gastgeber spielen den Ball zurück in die rechte Hälfte des Feldes. Noch ein Pass und der Ball ist wieder in der linken Spielfeldhälfte. Ein Schuss. Die Fans sind begeistert. Der Ball ist wieder in der rechten Hälfte des Feldes. Was für ein heldenhaftes Spiel. Hopp, hopp. Wunderbar. Der Schlusspfiff ertönt. Was für ein spannendes Spiel. Zur Freude aller Fußballfans war das heute ein wahres Fußballfest. Der Endstand ist 0 zu 0. Aber wie man so schön sagt, es geht nicht um Tore, dabei sein ist alles. Tor! Tor! Hurra! Tor! Hurra! Hallo Bär, gab es ein Tor? Einen Moment. 1 2 3 4 5 hopp! Halte ihn! Tor! Tor! Tor! Bär, da hast du dein Tor! Tor! Hurra! Das wolltest du doch, oder Bär? So so so so. Warum sind denn alle meine Videos verschwunden? Dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage \"Mascha und der Bär ist dran\". Das war einfach und jetzt probiert ihr es mal.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.854
+  "src": "auto"
  },
  "6sE5WWZQoe0": {
   "channel": "Deutsch mit Lari",
@@ -16949,7 +17150,7 @@
  "fG-9Va7uTZM": {
   "channel": "Get Germanized",
   "lang": "de",
-  "checked": "2026-11-08T15:19:13+00:00",
+  "checked": "2026-11-11T01:56:49+00:00",
   "title": "Germany, Migrant Crime, and the Movie They Tried to Stop",
   "duration": 1098,
   "published": "20260704",
@@ -17114,7 +17315,8 @@
     2
    ]
   ],
-  "tx": "Ein Film über Selbstjustiz, Migrationskriminalität und einen Mann, der dem System nicht mehr vertraut, wurde in Deutschland praktisch blockiert. Nicht, weil niemand ihn sehen wollte, sondern weil die deutsche Filmprüfstelle die Einstufung verweigerte. Und nun stellt sich die offensichtliche Frage: Sollte ein demokratisches Land einen Film blockieren, weil seine Botschaft gefährlich ist? Oder beweist das nur den Punkt des Films? Denn ob man „ Citizen Vigilante“ mag oder hasst, die Kontroverse darum offenbart etwas, das weit über einen einzelnen Film hinausgeht. Es zeigt, wie nervös Deutschland in Bezug auf Migration, Kriminalität, Zensur, öffentliche Wut und die Frage geworden ist, der sich niemand an der Macht wirklich stellen will. Was passiert, wenn die Menschen nicht mehr glauben, dass das System sie schützt? Mir ist langweilig. Was soll ich tun? Hol „ Citizen Vigilante“ ist kein subtiler Film. Regie führte Uva Boy, und Amy Hammer spielt einen wohlhabenden amerikanischen Geschäftsmann in Europa , der den Glauben an das Justizsystem verliert und zum gewalttätigen Selbstjustizler wird. Die Geschichte handelt Berichten zufolge von gewalttätigen Kriminellen, Vergewaltigern, korrupten Beamten und Tätern, die oft als Migranten oder Ausländer dargestellt werden. Also ja, der Film ist kontrovers. Er ist gewalttätig. Er ist politisch aufgeladen und je nach Perspektive wirkt er wie eine brutale Rachefantasie , eine Provokation, eine gesellschaftliche Warnung oder ein höchst unverantwortliches Filmwerk. Aber die Debatte in Deutschland dreht sich nicht nur darum, ob der Film gut ist. Es geht darum, ob Erwachsene ihn sehen dürfen sollten. Und genau da hat Deutschland meiner Meinung nach ein Problem. Denn wenn ein Film schlecht ist, kritisiert ihn. Wenn er ausbeuterisch ist, sagt ",
+  "tx": "Ein Film über Selbstjustiz, Migrationskriminalität und einen Mann, der dem System nicht mehr vertraut, wurde in Deutschland praktisch blockiert. Nicht, weil niemand ihn sehen wollte, sondern weil die deutsche Filmprüfstelle die Einstufung verweigerte. Und nun stellt sich die offensichtliche Frage: Sollte ein demokratisches Land einen Film blockieren, weil seine Botschaft gefährlich ist? Oder beweist das nur den Punkt des Films? Denn ob man „ Citizen Vigilante“ mag oder hasst, die Kontroverse darum offenbart etwas, das weit über einen einzelnen Film hinausgeht. Es zeigt, wie nervös Deutschland … das offen. Aber ihn faktisch von einer normalen Veröffentlichung auszuschließen, das ist ein weitaus gefährlicherer Weg. Kapitel eins. Was ist eigentlich passiert? Wichtig ist, dass Deutschland den Film nicht unbedingt im klassischen Sinne verboten hat. Die Filmprüfstelle hat ihm keine Altersfreigabe erteilt. Und in Deutschland bedeutet das sehr viel. Ohne Altersfreigabe kann ein Film am Markt nicht normal funktionieren. Es wird nahezu unmöglich, ihn zu bewerben , breit in Kinos zu zeigen oder über normale kommerzielle Kanäle zu vertreiben. Technisch gesehen könnten Leute also argumentieren, … gesetzestreue Bürger machtlos fühlen? Was, wenn endlich jemand etwas unternimmt? Diese Fantasie gilt als gefährlich, ist aber auch kulturell aufschlussreich. Die Menschen reagieren nicht auf Selbstjustiz-Geschichten, weil sie alle insgeheim gewalttätige Extremisten sind. Sie reagieren, weil die Geschichte eine Angst berührt, die moderne Gesellschaften oft nur schwer angehen können. Die Angst, dass die Justiz zu langsam, zu weich, zu bürokratisch oder zu entfremdet von den Leidtragenden geworden ist. Citizen Vigilante fügt dieser Mischung das Thema Migration hinzu. Und genau deshalb ist … Statistiken. Sie sehen Angriffe im öffentlichen Raum. Sie sehen Wiederholungstäter. Sie sehen Politiker, die Konsequenzen versprechen , die nie einzutreten scheinen. Sie sehen Opfer, deren Geschichten schnell verschwinden, weil die Debatte unbequem wird. Und irgendwann haben viele Menschen das Gefühl, dass wir nicht offen darüber sprechen dürfen. Dieses Gefühl ist politisch explosiv. Ein Verbot oder die Blockade eines Films wie Citizen Vigilante schwächt dieses Gefühl nicht ab. Es bestätigt es. Kapitel 4. Wo Menschen vielleicht genug haben. Wenn Menschen sagen, dass sie genug haben, … sollte nicht so zerbrechlich sein, dass ein hässlicher Film sie zerstören kann. Wenn der Film zu simpel ist, sollen Kritiker das aufzeigen. Wenn er ausbeuterisch ist, soll das Publikum darüber debattieren. Wenn er moralisch verwirrt ist, sollen die Leute das so sagen dürfen. Wenn er mit gefährlichen Fantasien spielt, sollte diese Gefahr offen diskutiert werden. Doch wenn Institutionen ihn blockieren, erschaffen sie einen Märtyrer. Sie verwandeln einen Film in eine verbotene Wahrheit. Und genau so schlägt Zensur fehl. In dem Moment, in dem man den Leuten sagt, sie dürfen das nicht sehen, … Und wenn der öffentliche Zorn ohnehin groß ist, spielen Bilder eine Rolle. Die Frage ist also nicht: Besteht ein Risiko? Wahrscheinlich schon. Die Frage ist: Ist Zensur die richtige Antwort? Ich glaube nicht. Die richtige Antwort sind Altersfreigaben, Kontext, Kritik und erwachsene Verantwortung. Vergebt eine FSK-18-Einstufung. Warnt die Menschen vor dem Inhalt. Führt Debatten. Lasst Kritiker den Film hinterfragen. Lasst die Zuschauer diskutieren. Aber macht einen kontroversen Film nicht zur verbotenen Frucht. Kapitel 7. Deutschlands besondere Sensibilität. Deutschland ist aus … zu lange vermieden hat. Das tieferliegende Problem ist, dass Deutschland immer noch damit ringt, ehrlich über Migration zu sprechen. Jahrelang steckte die Debatte oft zwischen zwei Extremen fest. Die eine Seite behauptet, Migration sei die Quelle aller Probleme. Die andere Seite sagt, Migration dürfe niemals mit Problemen in Verbindung gebracht werden . Beide Positionen scheitern. Eine ernsthafte Gesellschaft muss mehrere Dinge gleichzeitig sagen. Die meisten Migranten sind keine Kriminellen. Straftäter müssen konsequent zur Rechenschaft gezogen werden. Integration ist wichtig. … Kriminelle besser geschützt werden als Opfer. Wenn sie glauben, dass öffentlichen Institutionen das Image wichtiger ist als die Konsequenzen. Wenn sie glauben, dass Sprache kontrolliert wird, Gewalt aber nicht. Diese Wahrnehmung mag in manchen Fällen übertrieben sein. Sie mag politisch manipuliert sein. Sie mag durch soziale Medien emotional intensiviert werden, aber sie existiert . Und wenn Institutionen nur damit reagieren: „Ihr dürft das nicht schauen.“ Dann vermeiden sie die eigentliche Frage. Warum hat diese Geschichte überhaupt ein Publikum gefunden? Das ist die Debatte, die … wütend über Gewaltverbrechen zu sein. Es ist legitim, Konsequenzen zu fordern. Es ist legitim, die Migrationspolitik zu kritisieren. Es ist legitim, Gerichte, Politiker, Polizeiversagen, Abschiebedefizite und die mediale Darstellung zu kritisieren. Es ist legitim zu sagen, dass hier etwas schiefläuft. Aber es ist nicht legitim , ganze Gruppen pauschal als schuldig zu betrachten. Es ist nicht legitim, reale Gewalt zu feiern, egal von welcher Seite sie kommt. Es ist nicht legitim, Angst in Hass zu verwandeln. Und es ist nicht legitim, das Recht durch Rache zu ersetzen. Das ist das … Film freizugeben. Der Weg nach vorne ist nicht das Schweigen. Es ist die Ehrlichkeit. Ehrlichkeit über Kriminalität, Ehrlichkeit über Migration, Ehrlichkeit über Opfer, Ehrlichkeit über die Gefahr von Hass und Ehrlichkeit über die Tatsache, dass Meinungsfreiheit am einfachsten zu verteidigen ist, wenn uns gefällt, was gesagt wird, aber am wichtigsten ist sie, wenn uns das nicht gefällt. Bitte teilt mir eure Gedanken zu diesem Thema in den Kommentaren unten mit. Und ansonsten vielen herzlichen Dank fürs Zuschauen. Vergesst nicht, euch germanisieren zu lassen. Auf Wiedersehen und alles Gute.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -18757,7 +18959,7 @@
  "KBaBDZCOnMw": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-08T15:55:18+00:00",
+  "checked": "2026-11-11T02:22:22+00:00",
   "title": "Learn German with a Simple Story (A1–A2)| Deutsch lernen |Mein Handy",
   "duration": 919,
   "published": "20260825",
@@ -18906,7 +19108,8 @@
     5
    ]
   ],
-  "tx": "Mein Handy. My phone. Ich habe ein Handy, dass ich jeden Tag benutze. I have a phone that I use every day. Ich habe ein Handy, dass ich jeden Tag benutze. Mein Handy ist lila, klein und leicht. My phone is purple, small and light. Mein Handy ist lila, klein und leicht. Ich kann es einfach überall hin mitnehmen. I can easily take it with me anywhere. Ich kann es einfach überall hin mitnehmen. Ich habe mein Handy zum Geburtstag bekommen. I got my phone for my birthday. Ich habe mein Handy zum Geburtstag bekommen. Ich habe mich sehr darüber gefreut. I was very happy about it. Ich habe mich sehr darüber gefreut. Seitdem ist mein Handy jeden Tag bei mir. Since then, my phone has been with me every day. Seitdem ist mein Handy jeden Tag bei mir. Am Morgen stelle ich einen Wecker auf meinem Handy. In the morning I set an alarm on my phone. Am Morgen stelle ich Am Morgen stelle ich einen Wecker auf meinem Handy. Der Wecker hilft mir, pünktlich aufzustehen. Der Wecker hilft mir, pünktlich aufzustehen. Nach dem Aufstehen lerne ich manchmal Deutsch mit meinem Handy. Nach dem Aufstehen lerne ich manchmal Deutsch mit meinem Handy. Ich benutze eine App und lerne neue Wörter. Ich benutze eine App und lerne neue Wörter. Ich übe jeden Tag ein bisschen Deutsch. Mein Handy ist auch praktisch beim Einkaufen. Mein Einkaufen. Ich schreibe meine Einkaufsliste in die Notizen. Ich schreibe meine Einkaufsliste in die Notizen. Dort schreibe ich auch wichtige Dinge auf. Dort schreibe ich auch wichtige Dinge auf. So vergesse ich nichts. In meiner Freizeit höre ich Musik und schaue Videos. In meiner Freizeit höre ich Musik und schaue Videos. Ich mache auch gerne Fotos mit meinem Handy. Ich mache auch gerne Fotos mit meinem Handy. Ich schreibe meinen Freunden Nachrichten. Ich schreibe meinen Freunden ",
+  "tx": "Mein Handy. My phone. Ich habe ein Handy, dass ich jeden Tag benutze. I have a phone that I use every day. Ich habe ein Handy, dass ich jeden Tag benutze. Mein Handy ist lila, klein und leicht. My phone is purple, small and light. Mein Handy ist lila, klein und leicht. Ich kann es einfach überall hin mitnehmen. I can easily take it with me anywhere. Ich kann es einfach überall hin mitnehmen. Ich habe mein Handy zum Geburtstag bekommen. I got my phone for my birthday. Ich habe mein Handy zum Geburtstag bekommen. Ich habe mich sehr darüber gefreut. I was very happy about it. Ich habe mich sehr darüber gefreut. Seitdem ist mein Handy jeden Tag bei mir. Since then, my phone has been with me every day. Seitdem ist mein Handy jeden Tag bei mir. Am Morgen stelle ich einen Wecker auf meinem Handy. In the morning I set an alarm on my phone. Am Morgen stelle ich Am Morgen stelle ich einen Wecker auf meinem Handy. Der Wecker hilft mir, pünktlich aufzustehen. Der Wecker hilft mir, pünktlich aufzustehen. Nach dem Aufstehen lerne ich manchmal Deutsch mit meinem Handy. Nach dem Aufstehen lerne ich manchmal Deutsch mit meinem Handy. Ich benutze eine App und lerne neue Wörter. Ich benutze eine App und lerne neue Wörter. Ich übe jeden Tag ein bisschen Deutsch. Mein Handy ist auch praktisch beim Einkaufen. Mein Einkaufen. Ich schreibe meine Einkaufsliste in die Notizen. Ich schreibe meine Einkaufsliste in die Notizen. Dort schreibe ich auch wichtige Dinge auf. Dort schreibe ich auch wichtige Dinge auf. So vergesse ich nichts. In meiner Freizeit höre ich Musik und schaue Videos. In meiner Freizeit höre ich Musik und schaue Videos. Ich mache auch gerne Fotos mit meinem Handy. Ich mache auch gerne Fotos mit meinem Handy. Ich schreibe meinen Freunden Nachrichten. Ich schreibe meinen Freunden Nachrichten. Manchmal telefoniere ich mit meiner Oma oder meiner Tante. Manchmal telefoniere ich mit meiner Oma oder meiner Tante. Ich telefoniere auch mit meinen Freunden. Ich telefoniere auch mit meinen Freunden. Wenn ich Zeit habe, lese ich ein Buch auf meinem Handy. Wenn ich Zeit habe, lese ich ein Buch auf meinem Handy. Mein Handy hilft mir beim Lernen und im Alltag. Mein Handy hilft mir beim Lernen und im Alltag. Ich kann damit viele Dinge machen. Am Abend lege ich mein Handy auf den Tisch. Am Abend lege ich mein Handy auf den Ich schreibe meinen Freunden Nachrichten. Manchmal telefoniere ich mit meiner Oma oder meiner Tante. Ich telefoniere auch mit meinen Freunden. Wenn ich Zeit habe, lese ich ein Buch auf meinem Handy. Mein Handy hilft mir beim Lernen und im Alltag. Ich kann damit viele Dinge machen. Am Abend lege ich mein Handy auf den Tisch. Dann ist mein Tag fast vorbei. Ich bin froh, dass ich mein Handy habe. Mein Handy. Ich habe ein Handy, dass ich jeden Tag benutze. Mein Handy ist lila, klein und leicht. Ich kann es einfach überall hin mitnehmen. Ich habe mein Handy zum Geburtstag bekommen. Ich habe mich sehr darüber gefreut. Seitdem ist mein Handy jeden Tag bei mir. Am Morgen stelle ich einen Wecker auf meinem Handy. Der Wecker hilft mir, pünktlich aufzustehen. Nach dem Aufstehen lerne ich manchmal Deutsch mit meinem Handy. Ich benutze eine App und lerne neue Wörter. Ich übe jeden Tag ein bisschen Deutsch. Mein Handy ist auch praktisch beim Einkaufen. Ich schreibe meine Einkaufsliste in die Notizen. Dort schreibe ich auch wichtige Dinge auf. So vergesse ich nichts. In meiner Freizeit höre ich Musik und schaue Videos. Ich mache auch gerne Fotos mit meinem Handy. Ich schreibe meinen Freunden Nachrichten. Manchmal telefoniere ich mit meiner Oma oder meiner Tante. Ich telefoniere auch mit meinen Freunden. Wenn ich Zeit habe, lese ich ein Buch auf meinem Handy. Mein Handy hilft mir beim Lernen und im Alltag. Ich kann damit viele Dinge machen. Am Abend lege ich mein Handy auf den Tisch. Dann ist mein Tag fast vorbei. Ich bin froh, dass ich mein Handy habe. Sich freuen. Ich freue mich über mein neues Handy. Pünktlich. Ich möchte pünktlich zur Arbeit kommen. Aufstehen. Ich stehe jeden Morgen um 7 Uhr auf. Überall hin. Ich nehme mein Handy überall hin mit. Vergessen. Ich möchte meine Einkaufsliste nicht vergessen. Ich möchte meine Einkaufsliste nicht vergessen. Die Freizeit. In meiner Freizeit höre ich gerne Musik. Damit. Ich kann damit Fotos machen. Der Alltag. Mein Handy hilft mir im Alltag. Fast. Es ist fast 10 Uhr. Darüber. Ich freue mich darüber.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -21233,6 +21436,163 @@
   ],
   "tx": "Erstmals teilen sich zwei Länder den Vorsitz. Die Türkei und Australien. Warum? Ja, das hat den Hintergrund, dass man sich nicht einigen konnte. Beide Länder haben sich beworben, beide Länder wollten bis zum Schluss diese COP ausrichten und dann hat man einen Kompromiss gesucht. Der Kompromiss sieht wie folgt aus. Es gibt eine Aufteilung, eine Aufgabenaufteilung dieses Jahr. Die Türken sind offiziell die Gastgeber, haben die Präsidentschaft inne. Die Australier führen offiziell die politischen Verhandlungen. Das ist tatsächlich etwas ungewöhnlich. Was man heute am ersten Tag schon sagen kann, es ist ein sehr großes Interesse an dieser COP 31 in Antalya. Es sollen laut UN mehr als 60.000 Teilnehmende aus über 190 Nationen hier vor Ort sein. Die Türken legen noch einen drauf. Sie sprechen von 100.000 Teilnehmenden. Also das ist noch nicht so ganz klar. Was wir aber schon sagen können, es ist eine COP der Superlative. Es wird vermutlich eine der größten aller Zeiten sein. Und wie lässt sich dieses große Interesse erklären? Na ja, also die COP ist jetzt in ihrem 31. Jahr mittlerweile und viele Delegationen, die hier sind gerade in der ersten Woche, da geht es ja vor allen Dingen darum, dass Wissenschaftler miteinander sprechen, dass Diplomaten miteinander sprechen, aber auch Juristen, die dann an den Texten, die in der zweiten Woche von den Politikern sozusagen festgeklopft werden, jetzt schon mal etwas feilen. Und äh die haben natürlich erkannt, dass die Welt, auch Deutschland, weit hinterher hinkt beim Erreichen der Klimaziele. Das Pariser Abkommen beispielsweise vor 11 Jahren 2015 geschlossen, da hatten sich ja die teilnehmenden COP-Länder darauf geeinigt, dass man sich nur noch um 1,5 äh auf das 1,5 Grad Limit festlegt und dieses Limit, so schaut es momentan nach aktuellem Stand aus, das wird so nicht eingehalten. Man liegt realistischerweise eher bei 2,6 bis 2,8 Grad Erderwärmung bis zum Ende Jahrhunderts und da gilt es jetzt gegenzusteuern. Viele Klima-NGOs, Aktivistinnen, Aktivisten erhoffen sich, dass hier eine neue Dynamik reinkommt, dass jetzt es darum geht, gegenzusteuern, aber auch Klimaschutz aktiv umzusetzen, denn ich habe es erwähnt, das Pariser Abkommen regelt ja eigentlich den Klimaschutz, das heißt, das Regelwerk, das ist da. Jetzt geht es darum, das Ganze umzusetzen. Viele sagen uns, wichtig ist, dass der Scheinwerfer mal wieder auf dieses sehr wichtige Thema fällt, denn gerade im Zuge von sehr vielen internationalen Konflikten, aber auch Kriegen, die es auf der Welt momentan gibt, wurde dieses Jahr besonders sehr wenig über den Klimaschutz berichtet. Du hast Deutschland schon kurz angesprochen. Der Kanzler, der wird ja nicht vorbeischauen bei dieser Konferenz, das hat ihm hierzulande Kritik eingebracht. Wird sein Fehlen auch in Antalya kommentiert? Na ja, also auf den offiziellen Bühnen natürlich nicht, hinter den Kulissen sicherlich und auch äh die deutschen Klima-NGOs, Klimaaktivistinnen, die kritisieren das Ganze ja stark und sagen, das sei ein falsches Zeichen gerade in dieser Zeit, wo die Bundesregierung eben ihre Ziele selbst nicht einhalten kann, wie auch viele andere der anwesenden Länder. Sei es eben wichtig, dass auch Staats- und Regierungschefs hier teilnehmen. Es gibt den sogenannten Leaders Summit, ist also Treffen von Staats- und Regierungschefs, da haben sich stand jetzt etwa 100 angemeldet. Das findet dann ab Mitte der Woche hier in Antalya statt. Der türkische Staatspräsident Recep Tayyip Erdoğan, der wird selbst auch teilnehmen und dass Bundeskanzler Friedrich Merz aufgrund von Terminüberschneidungen da fehlt, das kritisieren eben viele der teilnehmenden Klimaaktivistinnen und Aktivisten hier. Es wird äh die Bundesregierung in der ersten Woche über ihre Staatsministerin vertreten und ab der zweiten Woche, so ist das tatsächlich auch üblich, nimmt der deutsche Umweltminister Schneider dann hier teil. Nun haben wir schon gehört, dass das eine Konferenz ist, auf der große Beschlüsse eigentlich fast unmöglich sind. Welche Impulse können denn von dieser Weltklimakonferenz trotzdem ausgehen? Ja, also eben das Wichtige ist, Scheinwerfer wieder auf Themen zu lenken und auch Versäumnisse sichtbar zu machen, denn der große Nachteil der COP, du hast es erwähnt, ist eben, dass diese Beschlüsse, die gefasst werden von den teilnehmenden Ländern, dass die eben nicht verbindlich sind. Das heißt, Klimaschutz ist dann eben Sache der einzelnen Länder und wer sich nicht dran hält, der wird dann international eben durch die UN und die Umweltbehörde nicht abgestraft. Aber man kann eben im Zuge solcher COPs auch Versäumnisse sichtbar machen und das gilt natürlich auch für die einzelnen Länder, die beispielsweise jetzt wie in diesem Jahr Australien, Türkei die COP auch ausrichten. Das gibt für NGOs, türkische NGOs, aber auch australische NGOs damit eine Bühne, um drauf hinzuweisen, was nicht so gut läuft. Die Türkei hat das Motto Elektrifizierung ausgerufen für die COP und sagt, sie wollen da ordentlich voranschreiten, ihren Verkehr, aber auch ihre Industrie auf Elektrifizierung umstellen. Da sagen viele NGOs, das ist grundsätzlich sehr gut, aber die Elektrifizierung, die müsse eben durch grünen Strom erfolgen und sowohl die Türkei als auch Australien, die sind nach wie vor sehr stark von fossilen Energien, allen voran dem Kohleabbau abhängig und die planen da auch weiter dran festzuhalten und da fordern viele der Aktivistinnen, Aktivisten, NGOs, aber auch Experten, da muss ein Ausstieg erfolgen, denn fossile Energien, die sind eben einer der Hauptverursacher für den Treibhauseffekt und damit auch die Erderwärmung. Du hast das Video bis zum Ende geschaut, dann kannst du auch ein Abo da lassen.",
   "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "vxsP-RZJF7Q": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-11T02:01:09+00:00",
+  "title": "Merz will Aigner als Bundespräsidentin: Hintergründe der Entscheidung",
+  "duration": 394,
+  "published": "20261109",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 148.8,
+  "rare": 0.0735,
+  "var": 0.8561,
+  "speech_s": 394.7,
+  "tokens": 979,
+  "kw": [
+   [
+    "amt",
+    "erstmals eine Frau das höchste Amt im",
+    200,
+    207,
+    4.82,
+    5
+   ],
+   [
+    "friedrich",
+    "Und lieber Friedrich, ich bedanke mich",
+    22,
+    26,
+    4.8,
+    5
+   ],
+   [
+    "gemacht",
+    "spannend gemacht, auch für mich",
+    30,
+    36,
+    5.65,
+    4
+   ],
+   [
+    "hast",
+    "du hast die PK ja heute auch verfolgt.",
+    58,
+    62,
+    5.75,
+    3
+   ],
+   [
+    "sage",
+    "Vollendung, sage ich in Anführungsstrichen, durch Ilse Aigner",
+    216,
+    222,
+    4.78,
+    3
+   ],
+   [
+    "möglicherweise",
+    "möglicherweise Entscheidungen treffen, auch harte Entscheidungen treffen, nicht",
+    296,
+    303,
+    4.69,
+    3
+   ],
+   [
+    "gehalten",
+    "beachtenswerte Rede gehalten, als sie das viel zitierte nie wieder eigentlich",
+    240,
+    250,
+    4.78,
+    2
+   ],
+   [
+    "hängt",
+    "Ach, ich glaube, das hängt mit Struktur",
+    135,
+    139,
+    4.74,
+    2
+   ],
+   [
+    "bundeskanzler",
+    "Und der Bundeskanzler hat es ja durchaus",
+    28,
+    33,
+    3.92,
+    4
+   ],
+   [
+    "merz",
+    "soweit Friedrich Merz und Ilse Aigner,",
+    56,
+    61,
+    3.66,
+    4
+   ],
+   [
+    "bürgern",
+    "den Bürgerinnen und Bürgern steht. Sie hat ebenso deutlich gemacht, dass",
+    85,
+    93,
+    4.17,
+    2
+   ],
+   [
+    "echo",
+    "Das Echo aus München hieß dann wenig",
+    113,
+    119,
+    4.05,
+    2
+   ],
+   [
+    "ilse",
+    "Mit Ilse Aigner gewinnt die Bundesrepublik Deutschland",
+    0,
+    7,
+    3.59,
+    9
+   ],
+   [
+    "aigner",
+    "Mit Ilse Aigner gewinnt die Bundesrepublik Deutschland",
+    0,
+    7,
+    3.26,
+    9
+   ],
+   [
+    "kandidatin",
+    "Plan. Die erste Kandidatin vor sehr sehr",
+    206,
+    211,
+    3.58,
+    2
+   ],
+   [
+    "signalisiert",
+    "signalisiert. Auch von den Grünen wird",
+    170,
+    177,
+    3.47,
+    2
+   ],
+   [
+    "bundespräsidentin",
+    "eine Bundespräsidentin mit Würde und mit",
+    4,
+    10,
+    2.2,
+    8
+   ]
+  ],
+  "tx": "Mit Ilse Aigner gewinnt die Bundesrepublik Deutschland eine Bundespräsidentin mit Würde und mit Herz, eine Bundespräsidentin, die zusammenführt, die Orientierung gibt und die Debatten anstoßen wird. Dafür hat Ilse Aigner nicht nur die charakterlichen Voraussetzungen, den Intellekt, die Nahbarkeit und ja auch Charme und Charisma. Und lieber Friedrich, ich bedanke mich für die sehr freundlichen, netten Worte. Und der Bundeskanzler hat es ja durchaus spannend gemacht, auch für mich die letzten Wochen. Aber wenn diese Dramaturgie dazu dann führt, dass hinter meiner Person sich wirklich eine … kann, dann bin ich darüber auch sehr froh. Genau das ist nämlich ein wichtiges Signal gegen populistische und extremistische Kräfte in unserem Land. Christoph Mestmacher in Berlin. Ja, soweit Friedrich Merz und Ilse Aigner, du hast die PK ja heute auch verfolgt. Was waren denn für dich die wichtigen Aussagen? Na, ihr habt ja in dem O-Ton eben gezeigt, eine kleine Spitze war schon da. Friedrich Merz habe ist ja über die letzten Wochen etwas spannend gemacht. Auch was ihre Person angeht, hat Ilse Aigner gesagt, nun aber ist es entschieden. Die designierte Bundespräsidentin, die sich … zur Wahl stellen wird, hat deutlich gesagt, sie möchte eine Bundespräsidentin sein, die nicht über den Bürgerinnen und Bürgern steht. Sie hat ebenso deutlich gemacht, dass sie sich klar gegen Extremismus und eine weitere Polarisierung der Gesellschaft positionieren wolle, aber eben auch den Bürgern das Gefühl zu geben, dass sie dazugehören, die sich derzeit nicht so richtig gesehen fühlten. Und Friedrich Merz hat auf der Pressekonferenz ja sich noch mal bedankt, dass die CDU, seine Partei, seinem Vorschlag gefolgt sei. Das Echo aus München hieß dann wenig später von Markus Söder, herzlichen … Vorschlag Angebot gefolgt sei, Ilse Aigner zur Bundespräsidentin machen zu wollen. Und das Eingehen auf dieses Angebot, das hat ja dann doch etwas länger gedauert. Warum hat der Kanzler nicht früher grünes Licht gegeben? Ach, ich glaube, das hängt mit Struktur und Ordnung zusammen. Es geht um das Vorschlagsrecht, das ein wenig der Natürlichkeit halber der größeren Partei gehört. Das ist eindeutig die CDU. Dann ging es wohl eine Zeit lang auch um das Gesicht wahren und um Unruhe aus der Partei, aus der CDU und besonders aus einigen einigen Landesverbänden. Dann wurden neue Namen fallen … Kanzlers. Aber unterm Strich ist jetzt ja eine Entscheidung gefallen. Ilse Aigner soll es werden. Der SPD Parteivorstand hat heute schon große Zustimmung signalisiert. Auch von den Grünen wird diese signalisiert. Also die Wahl am 30. Januar kann aus Blick beider Unionsparteien der Schwestern folgen. Und alle scheinen ja irgendwie ja wirklich ungewohnt happy. Du hast gerade schon gesagt, Grüne, SPD, auch die haben ihr Ja gegeben. Warum so klar? Ja, das hängt einmal mit der historischen Entscheidung zusammen, die Friedrich Merz heute aber auch als eine Selbstverständlichkeit, wie ich finde, … erstmals eine Frau das höchste Amt im Staate bekleiden. Das jedenfalls ist der Plan. Die erste Kandidatin vor sehr sehr langer Zeit, die für dieses Amt angetreten ist, ist ja mal Anne Marie Renger gewesen. Und jetzt eben die Vollendung, sage ich in Anführungsstrichen, durch Ilse Aigner und dass die Frau es wird und dass sie auch geschätzt wird, durchaus bei den Grünen. Da wird es auch Rückstimmungen aus Bayern gegeben haben. Ilse Aigner ist ja amtierende Landtagspräsidentin in Bayern des Landtages und hat sich dort einen guten Ruf erworben und dann sie hat ja auch kurz vor ihrer offiziellen … beachtenswerte Rede gehalten, als sie das viel zitierte nie wieder eigentlich für tot erklärt hat. Das ist im Kern eine bittere Bestandsaufnahme, was den Antisemitismus angeht und den Kampf dagegen. Sie hat von einem dunklen Geschwür gesprochen, das sich weiter ausbreitet. Hätte sie, sage ich mal, diese Rede als Bundespräsidentin gehalten, das Echo wäre um ein Vielfaches größer gewesen und auch die Debatte, die sich daran dann angeschlossen hätte. Möchte trotzdem noch mal nachhaken. Ist man sich vielleicht auch deswegen so einig, weil es bei diesem Amt vor allem um Repräsentation geht? Na, … dir ein wenig widersprechen. Repräsentation ist ein Teil dieses Amtes, aber es liegt sozusagen eine Art Reservemacht, so hat es, glaube ich, Hans Rudolf Cortel, der Politikwissenschaftler, mal genannt, in diesem Amt inne. Sie muss schon an ganz zentralen Entstellen möglicherweise Entscheidungen treffen, auch harte Entscheidungen treffen, nicht nur weil sie letztlich über jedes Bundesgesetz über jedes Gesetz, das erlassen wird vom Bund, gucken muss, aber es könnte eine Situation eintreten mit Blick auf die nächste Bundestagswahl, wo es sehr schwierige Mehrheitsverhältnisse möglicherweise … könnte theoretisch es möglicherweise passieren, dass erstmalig ein Bundeskanzler nur mit einfacher Mehrheit gewählt wird und es ist dann an der Bundespräsidentin, der Designierten, zu entscheiden, ob sie das akzeptieren wird oder nicht. Und sie hat sehr deutlich gemacht, dass ihr Ziel ist, die politische Mitte zu stabilisieren und jenen auch Gehör zu verschaffen, die sich nicht gehört fühlen. Ilse Aigner also heute offiziell Kandidatin für das Amt der Bundespräsidentin. Ist es denn sicher, dass sie auch gewählt wird am Ende? Ich glaube ja. Morgen soll es noch einen Fototermin geben. … zusammen unterwegs nach München, 20-jähriges Jubiläum der Einweihung der zentralen Synagoge von München wird dort gefeiert an diesem historisch bedeutenden Tag. Dann geht es heute Abend zurück, nachdem was wir hören, erste Vorstellung auch in den Landesgruppen und morgen soll es ein gemeinsames Foto geben mit den sie tragenden Parteien. Dazu würden dann auch die Grünen und die SPD gehören und insofern wäre diese Geste dann das finale Signal dafür, dass ihre Wahl nicht zu erschüttern ist, sage ich jetzt mal. Du hast das Video bis zum Ende geschaut, dann kannst du auch ein Abo da lassen.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  }
