@@ -9492,7 +9492,7 @@
  "7DUDsRdqVoc": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-04T22:13:11+00:00",
+  "checked": "2026-11-11T15:14:34+00:00",
   "title": "SPD oder AfD: Wer gewinnt in Mecklenburg-Vorpommern?",
   "duration": 695,
   "published": "20260912",
@@ -9500,73 +9500,10 @@
   "spoken_v": 2,
   "pace": 178.5,
   "rare": 0.0514,
+  "var": 0.8412,
   "speech_s": 654.6,
   "tokens": 1947,
   "kw": [
-   [
-    "schwesig",
-    "Manuela Schwesig. Zuerst ins Amt gekommen,",
-    106,
-    110,
-    3.29,
-    11
-   ],
-   [
-    "minderheitsregierung",
-    "Szenario eins wäre eine Minderheitsregierung angeführt von der SPD und Manuela Schwesig,",
-    416,
-    423,
-    2.89,
-    8
-   ],
-   [
-    "vorpommern",
-    "in Mecklenburg-Vorpommern. Von Roggendorf bis nach Anklam und von Neustrelitz bis nach Rügen",
-    1,
-    7,
-    4.02,
-    20
-   ],
-   [
-    "mecklenburg",
-    "in Mecklenburg-Vorpommern. Von Roggendorf bis nach Anklam und von Neustrelitz bis nach Rügen",
-    1,
-    7,
-    4.13,
-    20
-   ],
-   [
-    "infobox",
-    "Mehr dazu unten in der Infobox verlinkt.",
-    206,
-    209,
-    2.71,
-    4
-   ],
-   [
-    "akzeptabel",
-    "akzeptabel oder nicht akzeptabel? Die Hälfte der Befragten hat dazu gesagt:",
-    558,
-    564,
-    3.58,
-    6
-   ],
-   [
-    "ministerpräsidentin",
-    "Seit 2017 ist diese Frau hier Ministerpräsidentin.",
-    103,
-    107,
-    3.14,
-    4
-   ],
-   [
-    "verlinkt",
-    "das oben auf dem i verlinkt ist.",
-    86,
-    88,
-    3.52,
-    5
-   ],
    [
     "afd",
     "Wie erfolgreich wird die AfD? Kann die SPD weiterhin die Regierung anführen?",
@@ -9600,20 +9537,12 @@
     13
    ],
    [
-    "könnte",
-    "nach Berlin haben könnte? Alles, was zu dieser Wahl wichtig ist, jetzt hier in diesem Video.",
-    22,
-    28,
-    5.69,
-    11
-   ],
-   [
-    "prozent",
-    "39,6 Prozent hat die Partei damals bekommen.",
-    126,
-    129,
-    5.22,
-    10
+    "landtag",
+    "Die Linke kam auf 9,9 Prozent und in den Landtag geschafft",
+    132,
+    136,
+    4.3,
+    13
    ],
    [
     "mehrheit",
@@ -9624,18 +9553,114 @@
     9
    ],
    [
-    "parteien",
-    "und sich gegen die anderen 18 Parteien,",
-    304,
-    307,
-    4.8,
-    7
+    "kommenden",
+    "Am kommenden Sonntag ist Landtagswahl in Mecklenburg-Vorpommern.",
+    0,
+    4,
+    4.59,
+    4
+   ],
+   [
+    "sitze",
+    "71 Sitze wird der neue Landtag von Mecklenburg-Vorpommern",
+    325,
+    329,
+    4.47,
+    4
+   ],
+   [
+    "mecklenburg",
+    "in Mecklenburg-Vorpommern. Von Roggendorf bis nach Anklam und von Neustrelitz bis nach Rügen",
+    1,
+    7,
+    4.13,
+    20
+   ],
+   [
+    "vorpommern",
+    "in Mecklenburg-Vorpommern. Von Roggendorf bis nach Anklam und von Neustrelitz bis nach Rügen",
+    1,
+    7,
+    4.02,
+    20
+   ],
+   [
+    "umfragen",
+    "sind im Landtag und auch in den Umfragen SPD und AfD,",
+    181,
+    186,
+    3.99,
+    8
+   ],
+   [
+    "ministerpräsidenten",
+    "durchgehend den Ministerpräsidenten gestellt. Überholt wurde die CDU",
+    160,
+    165,
+    3.85,
+    5
+   ],
+   [
+    "schwesig",
+    "Manuela Schwesig. Zuerst ins Amt gekommen,",
+    106,
+    110,
+    3.29,
+    11
+   ],
+   [
+    "akzeptabel",
+    "akzeptabel oder nicht akzeptabel? Die Hälfte der Befragten hat dazu gesagt:",
+    558,
+    564,
+    3.58,
+    6
+   ],
+   [
+    "manuela",
+    "Manuela Schwesig. Zuerst ins Amt gekommen,",
+    106,
+    110,
+    3.56,
+    5
+   ],
+   [
+    "verlinkt",
+    "das oben auf dem i verlinkt ist.",
+    86,
+    88,
+    3.52,
+    5
+   ],
+   [
+    "minderheitsregierung",
+    "Szenario eins wäre eine Minderheitsregierung angeführt von der SPD und Manuela Schwesig,",
+    416,
+    423,
+    2.89,
+    8
+   ],
+   [
+    "infobox",
+    "Mehr dazu unten in der Infobox verlinkt.",
+    206,
+    209,
+    2.71,
+    4
+   ],
+   [
+    "bsw",
+    "mit der Linken und mit dem BSW versuchen,",
+    467,
+    470,
+    2.61,
+    2
    ]
   ],
-  "tx": "Am kommenden Sonntag ist Landtagswahl in Mecklenburg-Vorpommern. Von Roggendorf bis nach Anklam und von Neustrelitz bis nach Rügen sind insgesamt rund 1,3 Millionen Menschen wahlberechtigt. Und ähnlich wie in Sachsen-Anhalt gibt es rund um diese Wahl viele Diskussionen. Wie erfolgreich wird die AfD? Kann die SPD weiterhin die Regierung anführen? Und fährt die CDU eine Niederlage ein, die Auswirkungen bis zu Bundeskanzler Friedrich Merz nach Berlin haben könnte? Alles, was zu dieser Wahl wichtig ist, jetzt hier in diesem Video. Und wenn ihr künftig kein Video mehr verpassen wollt, dann abonniert diesen Kanal hier gerne. (Unruhige Klänge) Der September 2026 ist eine Art Superwahlmonat. Zuerst war Sachsen-Anhalt dran. Diesen Sonntag ist Kommunalwahl in Niedersachsen und in der kommenden Woche Sonntags dann Landtagswahl in Mecklenburg-Vorpommern. Und außerdem auch Abgeordnetenhauswahl in Berlin. Und natürlich geht es bei diesen Wahlen zunächst einmal um regionale Aspekte, die für die Menschen wichtig sind, die in dem jeweiligen Bundesland leben. Aber zum einen haben Landtagswahlen generell immer auch bundesweite Bedeutung, weil sie unter anderem die Mehrheitsverhältnisse im Bundesrat verändern können. Und zum anderen gelten Landtagswahlen als ein wichtiger Gradmesser für politische Entwicklungen allgemein in Deutschland. Im Vorfeld der Wahl in Sachsen-Anhalt wurde besonders viel über das mögliche Abschneiden der Alternative für Deutschland, der AfD, gesprochen. Jetzt vor der Wahl in Mecklenburg-Vorpommern ist es ganz ähnlich. Und wie es bei Berlin aussieht, könnt ihr euch in dem Video anschauen, das oben auf dem i verlinkt ist. Aber ich würde sagen, immer der Reihe nach. Wir schauen uns zunächst mal an, wie sieht die Ausgangssituation aus? In Mecklenburg-Vorpommern regiert ",
+  "tx": "Am kommenden Sonntag ist Landtagswahl in Mecklenburg-Vorpommern. Von Roggendorf bis nach Anklam und von Neustrelitz bis nach Rügen sind insgesamt rund 1,3 Millionen Menschen wahlberechtigt. Und ähnlich wie in Sachsen-Anhalt gibt es rund um diese Wahl viele Diskussionen. Wie erfolgreich wird die AfD? Kann die SPD weiterhin die Regierung anführen? Und fährt die CDU eine Niederlage ein, die Auswirkungen bis zu Bundeskanzler Friedrich Merz nach Berlin haben könnte? Alles, was zu dieser Wahl wichtig ist, jetzt hier in diesem Video. Und wenn ihr künftig kein Video mehr verpassen wollt, dann … viel über das mögliche Abschneiden der Alternative für Deutschland, der AfD, gesprochen. Jetzt vor der Wahl in Mecklenburg-Vorpommern ist es ganz ähnlich. Und wie es bei Berlin aussieht, könnt ihr euch in dem Video anschauen, das oben auf dem i verlinkt ist. Aber ich würde sagen, immer der Reihe nach. Wir schauen uns zunächst mal an, wie sieht die Ausgangssituation aus? In Mecklenburg-Vorpommern regiert seit 1998 ununterbrochen die SPD, mal zusammen mit der CDU und mal mit der Partei Die Linke beziehungsweise deren Vorgängerpartei PDS. Seit 2017 ist diese Frau hier Ministerpräsidentin. … Dabei war sie in dem Bundesland mal eine bedeutende politische Kraft. 1990 und 1994 lag die CDU bei fast 40 Prozent und hatte in den ersten acht Jahren seit der Wiedervereinigung durchgehend den Ministerpräsidenten gestellt. Überholt wurde die CDU dann zuerst von der SPD und 2016 auch von der AfD. Die kamen in diesem Jahr aus dem Stand auf knapp 21 Prozent und 2021 waren es dann, wie gesagt, ein paar Prozentpunkte weniger, aber immer noch mehr als bei der CDU. Das heißt, die stärksten politischen Kräfte in Mecklenburg-Vorpommern sind im Landtag und auch in den Umfragen SPD und AfD, die … Personen. Das heißt, der Spitzenkandidat soll nicht, wie sonst meist üblich, auch Ministerpräsident werden, sondern man trennt das voneinander. Spitzenkandidat ist Enrico Schult. Ministerpräsidentenkandidat der AfD ist Leif-Erik Holm. Bei der SPD gibt es dagegen nur eine Spitzenkandidatin, und das ist die Ministerpräsidentin Manuela Schwesig. Sie möchte also weiterhin im Amt bleiben. Und im direkten Vergleich liegt Schwesig auch deutlich vorne. Könnte man den Ministerpräsidenten in Mecklenburg-Vorpommern direkt wählen, was ja nicht der Fall ist, dann würden sich laut dem aktuellen … zu gewinnen und sich gegen die anderen 18 Parteien, insbesondere die größeren Parteien, durchzusetzen? Was müsste passieren, damit es am Ende für Schwesig als Ministerpräsidentin reicht und wie stehen die Chancen für die AfD? Also zusammengefasst gefragt, welche Szenarien gibt es für die Wahl in Mecklenburg-Vorpommern? Zunächst mal eine Zahl, nämlich die 71. 71 Sitze wird der neue Landtag von Mecklenburg-Vorpommern voraussichtlich haben, wobei es durch Überhang und Ausgleichsmandate auch noch Abweichungen nach oben geben kann. Momentan sind es in Schwerin, der Landeshauptstadt, 79 … kommt allein auf mindestens 36 Sitze. Auch nicht die AfD. Jetzt nehmen wir mal an, das Ergebnis bei der Wahl entspricht im Großen und Ganzen den aktuellen Umfragen und es bleibt bei 71 Sitzen insgesamt. Was wäre dann möglich? Theoretisch jede Menge, praktisch allerdings nicht, denn die CDU schließt eine Zusammenarbeit mit der AfD und mit der Linken generell aus. Dazu gibt es von der Partei einen Unvereinbarkeitsbeschluss. Auch die SPD will nicht mit der AfD zusammenarbeiten, genauso wenig wie alle anderen Parteien, die mutmaßlich im Landtag in Schwerin vertreten sein werden. In unserem … würde und niemand sonst mehr Stimmen hätte als Schwesig, dann wäre sie gewählt. Dabei müsse sie sich für ihre Vorhaben im Landtag dann immer wieder Unterstützung außerhalb der eigenen Regierungsfraktion organisieren. Sie würde dauerhaft mit einer Minderheitsregierung regieren. Je nach Ausgang der Wahl könnte die SPD auch eine Minderheitsregierung mit der Linken und mit dem BSW versuchen, wenn es das BSW in den Landtag schafft. Oder mit der CDU und den Grünen. Sollte es am Ende die FDP tatsächlich in den Landtag schaffen, dann würde das die Situation noch einmal verändern. Aber auch … nicht vollkommen aus. Die Frage wäre nur, wer diese Regierung dann im Landtag tolerieren könnte. Das heißt, sollte es der AfD nicht gelingen, bei der Landtagswahl in Mecklenburg-Vorpommern in der kommenden Woche die absolute Mehrheit zu erreichen und schafft es die SPD auch nicht, eine Koalition zu schmieden, die eine eigene Mehrheit hat, dann könnte eine Minderheitsregierung zu einer realistischen Option werden. Wie ist die politische Stimmung im Land? Auch dazu, welche Art der Regierungsbildung sich die Menschen in Mecklenburg-Vorpommern wünschen, gibt es Umfragewerte. Im … Bildung, Schule, Ausbildung. Danach folgen gleich auf Wirtschaft und Zuwanderung, Flucht und dann Arbeitslosigkeit, Arbeitsmarkt. Und diese Themen finden sich auch in den Wahlprogrammen der Parteien wieder. Darin geht es viel darum, wie man die finanzielle Situation der Menschen verbessern könnte, wie sich Arbeitsplätze in Mecklenburg-Vorpommern sichern lassen und wie man die Wirtschaft stärken kann. Wenn euch die Details interessieren, dann findet ihr alle Wahlprogramme der momentan im Landtag vertretenen oder in Umfragen längere Zeit über drei Prozent liegenden Parteien unten in … verstärken. Wie seht ihr das denn? Was wünscht ihr euch für die Wahl? Was ist eure Prognose? Schreibt es gerne unten in die Kommentare. Und wo wir gerade über die Diskussion rund um einen möglichen Rücktritt von Bundeskanzler Friedrich Merz gesprochen haben, findet ihr hier ein Video genau dazu. Direkt darunter ein spannendes Video der Kollegen von \"Die da oben\". Die sind nach Mecklenburg-Vorpommern gereist und haben viele Eindrücke gesammelt aus dem Bundesland vor der Wahl. Schaut auch da gerne mal rein. Danke dafür. Danke fürs Zuschauen, bis zum nächsten Mal. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8477
+  "src": "cc"
  },
  "BDuxgn1-QWc": {
   "channel": "Sloeful German",
@@ -11610,7 +11635,7 @@
  "7a8HSQ0Yqgw": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-05T16:07:59+00:00",
+  "checked": "2026-11-11T15:24:33+00:00",
   "title": "Mia will NEUE AUGEN von GOTT!",
   "duration": 741,
   "published": "20260920",
@@ -11618,73 +11643,10 @@
   "spoken_v": 2,
   "pace": 170.4,
   "rare": 0.0309,
+  "var": 0.7948,
   "speech_s": 626.7,
   "tokens": 1780,
   "kw": [
-   [
-    "mia",
-    "Was hat Mia vor? Wohin gehst du, Mia?",
-    34,
-    39,
-    3.98,
-    24
-   ],
-   [
-    "vorraum",
-    "Wir sind im Vorraum zum Jenseits!",
-    376,
-    379,
-    3.1,
-    3
-   ],
-   [
-    "mias",
-    "Mias Füße riechen echt nach Döner!",
-    82,
-    86,
-    2.37,
-    2
-   ],
-   [
-    "türgriff",
-    "Wo ist der Türgriff? Ah, hier ist der Türgriff!",
-    54,
-    59,
-    2.45,
-    2
-   ],
-   [
-    "sonnenfinsternis",
-    "Ja, du hast in die Sonnenfinsternis geguckt!",
-    637,
-    642,
-    3.09,
-    2
-   ],
-   [
-    "beeilen",
-    "Ich muss mich beeilen! Halte durch, Mia!",
-    281,
-    286,
-    3.27,
-    2
-   ],
-   [
-    "antwortet",
-    "Gott antwortet mir nicht mehr! Obwohl ich ihn vor Teufel Paul gerettet habe!",
-    91,
-    96,
-    4.08,
-    5
-   ],
-   [
-    "atmet",
-    "Mia atmet noch! Ich muss schnell einen Krankenwagen rufen!",
-    269,
-    273,
-    3.48,
-    2
-   ],
    [
     "gott",
     "Bitte gib mir neue Augen, Gott!",
@@ -11718,42 +11680,122 @@
     11
    ],
    [
-    "nein",
-    "Nein, ihr kennt Gott nicht! Doch, ich habe Gott im Himmel getroffen, als ich gestorben war!",
-    147,
-    153,
-    5.52,
-    11
+    "hölle",
+    "Mia, wir gehen gleich in die Hölle und lassen den Teufel frei!",
+    175,
+    179,
+    4.45,
+    8
    ],
    [
-    "neue",
+    "tot",
+    "Dafür musst du doch tot sein!",
+    29,
+    32,
+    4.75,
+    7
+   ],
+   [
+    "blind",
+    "Ich kann nicht mehr blind sein, Papa!",
+    240,
+    243,
+    4.26,
+    6
+   ],
+   [
+    "gib",
     "Bitte gib mir neue Augen, Gott!",
     0,
     2,
-    5.77,
-    10
+    4.46,
+    5
    ],
    [
-    "bist",
-    "Bist du dumm? Ich kann gehen, wann ich will!",
-    60,
-    64,
-    5.61,
-    10
+    "mia",
+    "Was hat Mia vor? Wohin gehst du, Mia?",
+    34,
+    39,
+    3.98,
+    24
    ],
    [
-    "sehen",
-    "Ich muss Gott sehen! Was? Wie denn?",
-    38,
-    42,
-    5.69,
-    9
+    "antwortet",
+    "Gott antwortet mir nicht mehr! Obwohl ich ihn vor Teufel Paul gerettet habe!",
+    91,
+    96,
+    4.08,
+    5
+   ],
+   [
+    "hörst",
+    "Warum hörst du mich nicht? Ich hasse dich, Gott!",
+    4,
+    7,
+    3.91,
+    3
+   ],
+   [
+    "outfit",
+    "Äh, aber ich will ein cooleres Outfit!",
+    330,
+    334,
+    3.91,
+    3
+   ],
+   [
+    "vorraum",
+    "Wir sind im Vorraum zum Jenseits!",
+    376,
+    379,
+    3.1,
+    3
+   ],
+   [
+    "heult",
+    "Dein Vater heult wie ein Mädchen!",
+    319,
+    322,
+    3.55,
+    2
+   ],
+   [
+    "atmet",
+    "Mia atmet noch! Ich muss schnell einen Krankenwagen rufen!",
+    269,
+    273,
+    3.48,
+    2
+   ],
+   [
+    "beeilen",
+    "Ich muss mich beeilen! Halte durch, Mia!",
+    281,
+    286,
+    3.27,
+    2
+   ],
+   [
+    "türgriff",
+    "Wo ist der Türgriff? Ah, hier ist der Türgriff!",
+    54,
+    59,
+    2.45,
+    2
+   ],
+   [
+    "mias",
+    "Mias Füße riechen echt nach Döner!",
+    82,
+    86,
+    2.37,
+    2
    ]
   ],
-  "tx": "Bitte gib mir neue Augen, Gott! Ich flehe dich an! Warum hörst du mich nicht? Ich hasse dich, Gott! Was? Jetzt gib mir Augen, Gott! Wasch sofort deine Zunge! Warum sollte ich? Man sagt nicht, dass man Gott hasst! Das ist haram! Aber er gibt mir keine neuen Augen! Hast du zu Gott gebetet? Ja, und er hört mich nicht! Ich habe eine Idee! Welche Idee? Ich werde gleich Gott treffen! Wie willst du das machen? Dafür musst du doch tot sein! Ach, du Scheibenkleister! Was hat Mia vor? Wohin gehst du, Mia? Ich muss Gott sehen! Was? Wie denn? Bald kann ich wieder sehen, Mama! Was ist los, Paul? Mia will Gott treffen, damit sie neue Augen bekommt! Aber das geht doch nur, wenn man tot ist! Ja, genau! Lauf, Paul! Wo ist der Türgriff? Ah, hier ist der Türgriff! Du darfst nicht gehen! Bist du dumm? Ich kann gehen, wann ich will! Ich bin alt genug! Aber du willst Gott treffen! Ja, und? Er soll mir neue Augen geben! Und jetzt lass mich los! Du musst doch tot sein, um Gott zu treffen! Das darf nicht passieren! Chill mal! ich wollte zur Kirche gehen! Oh.. Ich komme mit! Aber zieh dir vorher eine Hose an! Mias Füße riechen echt nach Döner! Ich war hier lange nicht mehr! Warum gehst du nicht mehr in die Kirche? Gott antwortet mir nicht mehr! Obwohl ich ihn vor Teufel Paul gerettet habe! Mir antwortet Gott auch nicht mehr! So eine Unverschämtheit! Mal sehen, ob Gott in der Kirche antwortet! Los, park das Auto! Hier sieht es richtig cool aus! Hallo, hallo, hallo! Ich rufe jetzt nach Gott! Hörst du mich, Gott? Ich brauche neue Augen! Was tun Sie hier? So sieht also Gott aus! Das ging schnell! Gib Mia neue Augen! Ich bin nicht Gott! Ich bin der Priester dieser Kirche! Achso! Können sie Gott anrufen? Sagen Sie Gott, Paul Müller will mit ihm reden! Was? Keine Sorge! Wir kennen uns schon! Ich rufe d",
+  "tx": "Bitte gib mir neue Augen, Gott! Ich flehe dich an! Warum hörst du mich nicht? Ich hasse dich, Gott! Was? Jetzt gib mir Augen, Gott! Wasch sofort deine Zunge! Warum sollte ich? Man sagt nicht, dass man Gott hasst! Das ist haram! Aber er gibt mir keine neuen Augen! Hast du zu Gott gebetet? Ja, und er hört mich nicht! Ich habe eine Idee! Welche Idee? Ich werde gleich Gott treffen! Wie willst du das machen? Dafür musst du doch tot sein! Ach, du Scheibenkleister! Was hat Mia vor? Wohin gehst du, Mia? Ich muss Gott sehen! Was? Wie denn? Bald kann ich wieder sehen, Mama! Was ist los, Paul? Mia will … Kirche gehen! Oh.. Ich komme mit! Aber zieh dir vorher eine Hose an! Mias Füße riechen echt nach Döner! Ich war hier lange nicht mehr! Warum gehst du nicht mehr in die Kirche? Gott antwortet mir nicht mehr! Obwohl ich ihn vor Teufel Paul gerettet habe! Mir antwortet Gott auch nicht mehr! So eine Unverschämtheit! Mal sehen, ob Gott in der Kirche antwortet! Los, park das Auto! Hier sieht es richtig cool aus! Hallo, hallo, hallo! Ich rufe jetzt nach Gott! Hörst du mich, Gott? Ich brauche neue Augen! Was tun Sie hier? So sieht also Gott aus! Das ging schnell! Gib Mia neue Augen! Ich bin nicht … kennt Gott nicht! Doch, ich habe Gott im Himmel getroffen, als ich gestorben war! Dann habe ich Teufel Paul mit Gott besiegt! Und die Erde war gerettet! Ich kenne einen guten Psychiater! Jetzt verlasst meine Kirche! Nein, mein Papa sagt die Wahrheit! Dann beweist es! Gott! Ich weiß, dass du uns hören kannst! Zeig dich oder ich lasse Teufel Paul wieder frei! Und ich furze diesen Mann an, der für dich arbeitet! Nein! Ich bin allergisch gegen Furzgas! Mia, wir gehen gleich in die Hölle und lassen den Teufel frei! Letzte Chance, Gott! Üheuheu! Ein Zeichen! Gott gibt es wirklich! Ja, aber er … ist! Was denn? Hast du es nicht gemerkt? Hast du gepupst? Nein, Gott hat uns gerade gehört! Stimmt, aber er antwortet nicht! Er ignoriert uns also! Aber wieso tut Gott das? Ich weiß es nicht! Ich will doch nur wieder sehen können! Warte, Mia! Wieso hilfst du mir nicht, Gott? Du siehst doch, wie sehr ich leide! Was ist los, Schatz? Ich kann nicht mehr blind sein, Papa! Ich halte das nicht mehr aus! Ich wünschte, ich wäre blind und nicht du! Ich auch! Äh.. Ich werde niemals wieder sehen können! Gib die Hoffnung nicht auf, Schatz! Können wir bitte nach Hause fahren? Ja, lasst uns zum Auto … leid! Niemand mag es, mich zu sehen! Du kommst ja auch nur, wenn man tot ist! Ja, stemt! Haha! Also, bist du bereit? Bereit wofür? Ich bringe dich in die Hölle oder den Himmel! Äh, ich muss in den Himmel! Das kannst du nicht entscheiden! Aber ich muss dringend mit Gott reden! Mia! Halte durch! Dein Vater heult wie ein Mädchen! Im Herzen ist er noch ein kleines Mädchen! Komm jetzt mit! Dann sehen wir, wo du hinkommst! Und wenn ich nicht will? Dann wirst du zum Geist! Äh, aber ich will ein cooleres Outfit! Dann komme ich mit! Okay, warte! Äh.. So, lasst uns gehen! Das ist kein cooles Outfit! … mir! Wo sind wir hier? Wir sind im Vorraum zum Jenseits! Und was passiert im Vorraum? Hier entscheidet sich, ob du in die Hölle oder in den Himmel kommst! Und wenn ich einfach in den Himmel gehe? Dann wirst du von der Himmelspolizei verfolgt! Ich will doch nur Gott treffen, Alter! Komm in die Mitte! Dann starten wir! Was passiert jetzt? Warum habe ich mich bewegt? Als du ein Jahr warst, warst du ein guter Mensch! Ah, jetzt verstehe ich, wie das läuft! Dieser Raum guckt ob ich gut war in 16 Jahren! Gleich bin ich im Himmel! Was hast du gemacht, als du 3 warst? Ich habe einen Burak im … Viel Spaß in der Hölle, Mia! Ich werde in die Hölle gezogen! Du warst ein schlechter Mensch, Mia! Ich darf nicht in die Hölle! Lass los, Mia! Dein Schicksal wurde entschieden! Niemals! Ich muss mit Gott reden! Du kommst nicht in den Himmel! Das werden wir sehen! Also das ist noch nie passiert! Viel Erfolg, Mia! Ich habe es geschafft! Gleich bin ich im Himmel! Ich glaube die Tür zum Himmel ist offen! Stopp! Wohin willst du? Äh, in den Himmel! Wie heißt du? Mia Müller! Komisch, du stehst gar nicht auf der Liste! Das muss ein Fehler sein! Ich wurde vom Vorraum hierher geschickt! Äh, okay! … Liste! Aber ich muss in den Himmel! Ich mag dein Outfit! Du darfst trotzdem nicht rein! Bitte, Detlef! Woher kennst du meinen Namen? Mein Vater hat gesagt, dass du süß bist! Ist dein Vater Paul Müller? Ja, das ist mein Vater! Ich komme, Paul! Das war zu einfach, Alter! Gleich treffe ich dich, Gott! Endlich bin ich im Himmel! Ich muss durch das Tor laufen! Was passiert hier? Bevor du weitergehen darfst, musst du gereinigt werden! 1 Stunde später Das tut so gut, Alter! Bitte hör auf, zu furzen! Bitte geh weiter! Du kannst nicht gereinigt werden! Na gut! Hier kommen die neuen Menschenseelen … sein! Ich bin da! Das muss Gottes Haus sein! Ich hoffe, er ist zu Hause! Gott? Bist du da? Was willst du, Mia? Du weißt, was ich will, Gott! Ich bin blind! Hä? Warum bist du blind? Du weißt, warum ich blind bin! Du bist doch Gott! Ja, du hast in die Sonnenfinsternis geguckt! Ja, und das ist deine Schuld! Ja, ich habe die Sonnenfinsternis gemacht! Aber du hast da reingeguckt! Bitte gib mir neue Augen, Gott! Ich verwandle mich erstmal in meine normale Form! In deine normale Form? Ja, du siehst mich eh nicht! Weißt du, warum ich deine Gebete ignoriert habe? Nein, warum? Ich habe genug davon, … gelesen! Du wirst DV nicht fragen, ob du neue Augen bekommst! Das lasse ich nicht zu! Doch, das werde ich! Tja! Schade dass du tot bist! Dann kommst du eh nicht zurück zur Erde! Verdammt! Du hast Recht! Ich schicke dich jetzt zu den anderen Seelen! Was ist dieses Geräusch? Das ist dein Herz! Was hat das zu bedeuten? Du wirst gerade wiederbelebt! Wir sehen uns wieder, Mia! Bitte retten Sie Mia! Ihr Herz schlägt! Lebe ich wieder? MIA! Ich muss DV treffen! Wollt ihr den nächsten Teil? Dann kommentiert, was wohl als nächstes passiert! Und klickt auch auf dieses Video, bis der nächste Part da ist!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7937
+  "src": "cc"
  },
  "ycogsUe24FM": {
   "channel": "Comprehensible German",
@@ -11931,7 +11973,7 @@
  "8VJCR1QQJNw": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-06T02:25:27+00:00",
+  "checked": "2026-11-11T15:27:19+00:00",
   "title": "Deutsche Aussprache meistern – So sprichst du richtig! 🇩🇪",
   "duration": 643,
   "published": "20250219",
@@ -11939,9 +11981,74 @@
   "spoken_v": 2,
   "pace": 72.8,
   "rare": 0.0814,
+  "var": 0.812,
   "speech_s": 628.4,
   "tokens": 762,
   "kw": [
+   [
+    "deine",
+    "einige wichtige Ausspracheregeln und nützliche Tipps geben, damit du deine Aussprache schnell",
+    35,
+    46,
+    5.56,
+    7
+   ],
+   [
+    "laut",
+    "Eines der bekanntesten Ausspracheprobleme im Deutschen ist der Laut „ch“. Es gibt zwei",
+    107,
+    120,
+    5.23,
+    7
+   ],
+   [
+    "deutschen",
+    "Eines der bekanntesten Ausspracheprobleme im Deutschen ist der Laut „ch“. Es gibt zwei",
+    107,
+    120,
+    5.67,
+    6
+   ],
+   [
+    "richtige",
+    "Aussprache. Deutsch kann manchmal knifflig klingen, besonders wenn es um die richtige",
+    16,
+    26,
+    5.01,
+    5
+   ],
+   [
+    "verbessern",
+    "verbessern kannst. Also, lass uns loslegen! 1. Warum ist die deutsche Aussprache so wichtig?",
+    45,
+    59,
+    4.48,
+    5
+   ],
+   [
+    "übung",
+    "aber mit Übung wird es besser. Umlautvokale (ä, ö, ü)",
+    178,
+    191,
+    4.23,
+    5
+   ],
+   [
+    "tipps",
+    "einige wichtige Ausspracheregeln und nützliche Tipps geben, damit du deine Aussprache schnell",
+    35,
+    46,
+    4.6,
+    4
+   ],
+   [
+    "tipp",
+    "wie das „ch“ im schottischen „loch“. Tipp: Übe, den Unterschied zwischen",
+    157,
+    170,
+    4.51,
+    4
+   ],
    [
     "aussprache",
     "Aussprache. Deutsch kann manchmal knifflig klingen, besonders wenn es um die richtige",
@@ -11959,6 +12066,22 @@
     9
    ],
    [
+    "sprichst",
+    "Wenn du Deutsch sprichst, möchte jeder, dass du klar und deutlich zu verstehen bist. Die richtige",
+    58,
+    69,
+    3.99,
+    6
+   ],
+   [
+    "laute",
+    "die diese Laute nicht hat. Hier sind einige Tipps: „ä“:",
+    201,
+    209,
+    4.01,
+    5
+   ],
+   [
     "vokale",
     "Deutsche Vokale mit Umlauten wie ä, ö und ü können schwierig sein, wenn du aus einer Sprache kommst,",
     190,
@@ -11967,11 +12090,27 @@
     4
    ],
    [
-    "blaukraut",
-    "zum Beispiel: „Fischers Fritze fischt frische Fische“ oder „Blaukraut bleibt Blaukraut.“",
-    480,
-    491,
-    2.28,
+    "übe",
+    "wie das „ch“ im schottischen „loch“. Tipp: Übe, den Unterschied zwischen",
+    157,
+    170,
+    3.4,
+    3
+   ],
+   [
+    "umfahren",
+    "„umfahren“: Wenn du das „umfahren“ betonen würdest, bedeutet es „etwas",
+    346,
+    357,
+    3.14,
+    3
+   ],
+   [
+    "silbe",
+    "herumfahren“ (z.B. einen Stuhl umgehen). „umfahren“: Betonst du die zweite Silbe, bedeutet",
+    356,
+    369,
+    3.3,
     2
    ],
    [
@@ -11983,98 +12122,18 @@
     2
    ],
    [
-    "umfahren",
-    "„umfahren“: Wenn du das „umfahren“ betonen würdest, bedeutet es „etwas",
-    346,
-    357,
-    3.14,
-    3
-   ],
-   [
-    "sprichst",
-    "Wenn du Deutsch sprichst, möchte jeder, dass du klar und deutlich zu verstehen bist. Die richtige",
-    58,
-    69,
-    3.99,
-    6
-   ],
-   [
-    "übe",
-    "wie das „ch“ im schottischen „loch“. Tipp: Übe, den Unterschied zwischen",
-    157,
-    170,
-    3.4,
-    3
-   ],
-   [
-    "laut",
-    "Eines der bekanntesten Ausspracheprobleme im Deutschen ist der Laut „ch“. Es gibt zwei",
-    107,
-    120,
-    5.23,
-    7
-   ],
-   [
-    "deine",
-    "einige wichtige Ausspracheregeln und nützliche Tipps geben, damit du deine Aussprache schnell",
-    35,
-    46,
-    5.56,
-    7
-   ],
-   [
-    "deutschen",
-    "Eines der bekanntesten Ausspracheprobleme im Deutschen ist der Laut „ch“. Es gibt zwei",
-    107,
-    120,
-    5.67,
-    6
-   ],
-   [
-    "verbessern",
-    "verbessern kannst. Also, lass uns loslegen! 1. Warum ist die deutsche Aussprache so wichtig?",
-    45,
-    59,
-    4.48,
-    5
-   ],
-   [
-    "richtige",
-    "Aussprache. Deutsch kann manchmal knifflig klingen, besonders wenn es um die richtige",
-    16,
-    26,
-    5.01,
-    5
-   ],
-   [
-    "versuche",
-    "Tipp: Übe die Umlaute mit Wörtern, die du häufig verwendest, und versuche,",
-    264,
-    274,
-    4.88,
-    4
-   ],
-   [
-    "tipps",
-    "einige wichtige Ausspracheregeln und nützliche Tipps geben, damit du deine Aussprache schnell",
-    35,
-    46,
-    4.6,
-    4
-   ],
-   [
-    "tipp",
-    "wie das „ch“ im schottischen „loch“. Tipp: Übe, den Unterschied zwischen",
-    157,
-    170,
-    4.51,
-    4
+    "blaukraut",
+    "zum Beispiel: „Fischers Fritze fischt frische Fische“ oder „Blaukraut bleibt Blaukraut.“",
+    480,
+    491,
+    2.28,
+    2
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner herausfordert: die deutsche Aussprache. Deutsch kann manchmal knifflig klingen, besonders wenn es um die richtige Betonung und die Aussprache von bestimmten Lauten geht. Aber keine Sorge! Ich werde dir einige wichtige Ausspracheregeln und nützliche Tipps geben, damit du deine Aussprache schnell verbessern kannst. Also, lass uns loslegen! 1. Warum ist die deutsche Aussprache so wichtig? Wenn du Deutsch sprichst, möchte jeder, dass du klar und deutlich zu verstehen bist. Die richtige Aussprache hilft dir nicht nur, Missverständnisse zu vermeiden, sondern sie trägt auch dazu bei, dass du selbstbewusster und authentischer klingst. Die richtige Aussprache ist entscheidend, um beim Sprechen nicht nur verstanden zu werden, sondern auch, um natürlicher zu klingen. 2. Wichtige Ausspracheregeln: Das „ch“ Eines der bekanntesten Ausspracheprobleme im Deutschen ist der Laut „ch“. Es gibt zwei Varianten dieses Lautes: „ich“ – Wie in „ich“, „nicht“ oder „Licht“: Der Laut wird wie das englische „sh“ ausgesprochen, aber weicher. „ach“ – Wie in „nach“, „machen“ oder „Woche“: Der Laut wird kratziger ausgesprochen, wie das „ch“ im schottischen „loch“. Tipp: Übe, den Unterschied zwischen diesen beiden Lauten zu hören und zu produzieren. Es kann anfangs schwierig sein, aber mit Übung wird es besser. Umlautvokale (ä, ö, ü) Deutsche Vokale mit Umlauten wie ä, ö und ü können schwierig sein, wenn du aus einer Sprache kommst, die diese Laute nicht hat. Hier sind einige Tipps: „ä“: Wie in „Bär“ oder „Hände“. Der Laut klingt ein wenig wie das englische „air“. „ö“: Wie in „können“ oder „hören“. Du musst die Lippen leicht runden und den Laut „e“ sagen, aber mit runden Lippen.",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner herausfordert: die deutsche Aussprache. Deutsch kann manchmal knifflig klingen, besonders wenn es um die richtige Betonung und die Aussprache von bestimmten Lauten geht. Aber keine Sorge! Ich werde dir einige wichtige Ausspracheregeln und nützliche Tipps geben, damit du deine Aussprache schnell verbessern kannst. Also, lass uns loslegen! 1. Warum ist die deutsche Aussprache so wichtig? Wenn du Deutsch sprichst, möchte jeder, dass du klar und deutlich zu verstehen bist. Die richtige Aussprache hilft dir nicht nur, Missverständnisse zu vermeiden, sondern sie trägt auch dazu bei, dass du selbstbewusster und authentischer klingst. Die richtige Aussprache ist entscheidend, um beim Sprechen nicht nur verstanden zu werden, sondern auch, um natürlicher zu klingen. 2. Wichtige Ausspracheregeln: Das „ch“ Eines der bekanntesten Ausspracheprobleme im Deutschen ist der Laut „ch“. Es gibt zwei Varianten dieses Lautes: „ich“ – Wie in „ich“, „nicht“ oder „Licht“: Der Laut wird wie das englische „sh“ ausgesprochen, aber weicher. „ach“ – Wie in „nach“, „machen“ oder „Woche“: Der Laut wird kratziger ausgesprochen, wie das „ch“ im schottischen „loch“. Tipp: Übe, den Unterschied zwischen diesen beiden Lauten zu hören und zu produzieren. Es kann anfangs schwierig sein, aber mit Übung wird es besser. Umlautvokale (ä, ö, ü) Deutsche Vokale mit Umlauten wie ä, ö und ü können schwierig sein, wenn du aus einer Sprache kommst, die diese Laute nicht hat. Hier sind einige Tipps: „ä“: Wie in „Bär“ oder „Hände“. Der Laut klingt ein wenig wie das englische „air“. „ö“: Wie in „können“ oder „hören“. Du musst die Lippen leicht runden und den Laut „e“ sagen, aber mit runden Lippen. „ü“: Wie in „für“ oder „über“. Du formst die Lippen wie beim „u“, aber sprichst den Laut „i“ aus. Tipp: Übe die Umlaute mit Wörtern, die du häufig verwendest, und versuche, die Lippen richtig zu runden. Lange und kurze Vokale Ein weiterer wichtiger Punkt in der deutschen Aussprache sind lange und kurze Vokale: Ein kurzer Vokal ist zum Beispiel in „bitte“ oder „Mitte“ zu hören. Ein langer Vokal hört sich an wie in „Biene“ oder „Vater“. Tipp: Achte darauf, den Unterschied zwischen langen und kurzen Vokalen zu erkennen und korrekt zu betonen, da er die Bedeutung eines Wortes verändern kann. Betonung von Wörtern Die Betonung ist im Deutschen sehr wichtig, da sie oft den Unterschied zwischen der Bedeutung von zwei ähnlichen Wörtern ausmacht: „umfahren“: Wenn du das „umfahren“ betonen würdest, bedeutet es „etwas herumfahren“ (z.B. einen Stuhl umgehen). „umfahren“: Betonst du die zweite Silbe, bedeutet es „jemanden überfahren“ (z.B. mit einem Auto). Tipp: In der Regel wird die Betonung im Deutschen auf der ersten Silbe des Wortes gelegt, aber es gibt auch Ausnahmen. Höre auf die Betonung, wenn du mit Muttersprachlern sprichst, und versuche, die Betonung korrekt zu übernehmen. 3. Übungen für eine bessere Aussprache Hier sind einige Übungen, die dir helfen können, deine Aussprache zu verbessern: Hörübungen: Höre dir Podcasts oder Hörbücher auf Deutsch an und versuche, den Sprechern zu folgen. Achte auf die Betonung, den Rhythmus und die Melodie der Sprache. Sprachaufnahmen: Nimm dich selbst auf, während du sprichst. So kannst du deine Aussprache hören und selbst überprüfen, ob du richtig sprichst. Sprachpartner: Wenn du die Möglichkeit hast, mit einem Muttersprachler zu sprechen, nutze diese Gelegenheit. Sie können dir direkt sagen, wo du dich verbessern musst. Zungenbrecher: Zungenbrecher sind eine großartige Übung, um deine Aussprache zu schärfen. Versuche zum Beispiel: „Fischers Fritze fischt frische Fische“ oder „Blaukraut bleibt Blaukraut.“ 4. Zusätzliche Tipps: Sei geduldig: Aussprache braucht Zeit. Mach dir keine Sorgen, wenn du nicht sofort perfekt sprichst. Jeder macht Fehler, und Übung macht den Meister. Verstehe die Laute: Verstehe die Laute und deren Unterschiede. Im Deutschen gibt es Laute, die in anderen Sprachen nicht vorkommen, aber mit Übung wirst du sie meistern. Sprich langsam und deutlich: Achte darauf, langsam zu sprechen und auf die richtige Betonung zu achten. So wirst du besser verstanden. Das Fazit Die richtige Aussprache ist ein wichtiger Bestandteil des Sprachenlernens, und mit ein wenig Übung kannst du deine Aussprache deutlich verbessern. Achte auf die Vokale, die Umlaut-Laute, die Betonung und die schwierigen „ch“-Laut-Regeln. Übe regelmäßig, höre viel Deutsch und sei geduldig mit dir selbst – du wirst sehen, wie sich deine Aussprache verbessert. Wenn dir dieses Video geholfen hat, dann abonnier unbedingt den Kanal, um weitere nützliche Tipps zum Deutschlernen zu bekommen! Und wenn du deine Aussprache noch weiter verbessern möchtest, schau dir unsere Kurse in der Deutschlern-Akademie an: AuthenticGermanLearning.com/join Ich hoffe, du fühlst dich nun sicherer mit deiner deutschen Aussprache. Viel Erfolg beim Üben und bis zum nächsten Mal!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8164
+  "src": "cc"
  },
  "rVfA3a71_d4": {
   "channel": "tagesschau",
@@ -15594,7 +15653,7 @@
  "WzjDs8BWCR4": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:28:43+00:00",
+  "checked": "2026-11-11T15:32:59+00:00",
   "title": "Peppa Wutz schwimmt mit MEERJUNGFRAU Baby Evie! 🧜‍♀️ | Magisches Abenteuer | Neue Ganze Folgen",
   "duration": 1631,
   "published": "20261007",
@@ -15602,89 +15661,10 @@
   "spoken_v": 2,
   "pace": 102.9,
   "rare": 0.1138,
+  "var": 0.8406,
   "speech_s": 1572.5,
   "tokens": 2698,
   "kw": [
-   [
-    "peppa",
-    "Heute sind Peppa und ihre Familie",
-    6,
-    12,
-    2.17,
-    33
-   ],
-   [
-    "wutz",
-    "Peppa Wutz und ihre Freunde sind heute",
-    176,
-    182,
-    2.39,
-    11
-   ],
-   [
-    "schnauz",
-    "Prinzessin kleiner Schnauz. Menschen aus dem ganzen Land versuchten ihr beim",
-    1315,
-    1323,
-    2.05,
-    7
-   ],
-   [
-    "evi",
-    "aber für Evi ist es ganz schön schwer",
-    21,
-    27,
-    3.0,
-    6
-   ],
-   [
-    "auster",
-    "Das ist eine Auster. In ihr befindet",
-    249,
-    255,
-    2.85,
-    5
-   ],
-   [
-    "wackel",
-    "Arme. Wackel. Wackel. Wackelck.",
-    201,
-    207,
-    2.56,
-    4
-   ],
-   [
-    "donut",
-    "einem raketenbetriebenen Donut. Oh, sie tun nur so, als wäre es eine",
-    727,
-    737,
-    2.97,
-    5
-   ],
-   [
-    "perle",
-    "sich eine Perle. Eine Perle?",
-    252,
-    259,
-    3.59,
-    8
-   ],
-   [
-    "george",
-    "Peppa und George haben beim Erkunden",
-    17,
-    22,
-    4.58,
-    37
-   ],
-   [
-    "mama",
-    "Hose genau wie diese, aber Mama Wutz",
-    484,
-    489,
-    4.68,
-    16
-   ],
    [
     "familie",
     "Heute sind Peppa und ihre Familie",
@@ -15718,26 +15698,138 @@
     8
    ],
    [
-    "verloren",
-    "meinte, wir hätten sie verloren. ",
-    486,
-    491,
-    5.07,
+    "george",
+    "Peppa und George haben beim Erkunden",
+    17,
+    22,
+    4.58,
+    37
+   ],
+   [
+    "mama",
+    "Hose genau wie diese, aber Mama Wutz",
+    484,
+    489,
+    4.68,
+    16
+   ],
+   [
+    "baby",
+    "zusammen mit Baby Ei im Aquarium.",
+    8,
+    18,
+    4.71,
     7
    ],
    [
-    "schön",
+    "ruhig",
+    "wenn man verloren geht? Ruhig bleiben",
+    578,
+    584,
+    4.76,
+    6
+   ],
+   [
+    "babys",
+    "nicht winden wie echte Babys. Das ist nicht das einzige",
+    1169,
+    1176,
+    4.02,
+    8
+   ],
+   [
+    "illusion",
+    "Illusion. Was ist eine Illusion?",
+    913,
+    922,
+    3.86,
+    8
+   ],
+   [
+    "erkunden",
+    "Peppa und George haben beim Erkunden",
+    17,
+    22,
+    3.72,
+    7
+   ],
+   [
+    "tschüss",
+    "Tschüss. Heute sind Peppa und ihre Familie",
+    1,
+    12,
+    3.96,
+    4
+   ],
+   [
+    "perle",
+    "sich eine Perle. Eine Perle?",
+    252,
+    259,
+    3.59,
+    8
+   ],
+   [
+    "evi",
     "aber für Evi ist es ganz schön schwer",
     21,
     27,
-    5.52,
+    3.0,
+    6
+   ],
+   [
+    "dinosaurier",
+    "Dinosaurier. Ach du meine Güte. Tut mir leid, Leute.",
+    450,
+    458,
+    3.57,
+    5
+   ],
+   [
+    "schleim",
+    "ich babysicheren Schleim gemacht aus Maisstärke, Wasser und ein bisschen",
+    1486,
+    1494,
+    3.31,
+    5
+   ],
+   [
+    "peppa",
+    "Heute sind Peppa und ihre Familie",
+    6,
+    12,
+    2.17,
+    33
+   ],
+   [
+    "wutz",
+    "Peppa Wutz und ihre Freunde sind heute",
+    176,
+    182,
+    2.39,
+    11
+   ],
+   [
+    "schnauz",
+    "Prinzessin kleiner Schnauz. Menschen aus dem ganzen Land versuchten ihr beim",
+    1315,
+    1323,
+    2.05,
     7
+   ],
+   [
+    "donut",
+    "einem raketenbetriebenen Donut. Oh, sie tun nur so, als wäre es eine",
+    727,
+    737,
+    2.97,
+    5
    ]
   ],
-  "tx": "Tschüss. Heute sind Peppa und ihre Familie zusammen mit Baby Ei im Aquarium. Wow, hinter der Meerjungfrau her. Peppa und George haben beim Erkunden sehr viel Spaß, aber für Evi ist es ganz schön schwer mitzuhalten, um auch Dinge zu erkunden. Schau mal George, me Jungfrauen sind super. Wir kommen. Oh, danke schön. Ihr seid wirklich ein fischfreundliches Publikum. Tut mir leid, Ei, wir haben es verpasst. Gute Schwanzarbeit, Ei, du wärst eine tolle Meerjungfrau. Wie auch immer, ich muss los. Ich habe eine Idee. Frau Mümmel hat Peppa auf eine Idee gebracht. Komm raus, Ei. Peppa hatte eine schöne Idee. Das stimmt, Efi. Wir können das Aquarium zusammen erkunden, denn wir sind mehr Jungfrauen. Oh wow. Peppa und Ei stellen sich vor, sie wären mehr Jungfrauen, die die Unterwasserwelt erkunden. Jetzt kann Ei also herumschwimmen und alles erkunden, was sie möchte. Wo möchtest du denn hinschwimmen? Efi. Oh, wie Meerjungfrau Ei hat einen Korallenriff entdeckt und ein paar Seepferdchen. Sie machen ein Seepferdchen rin. Das Meer ist voll von erstaunlichen freundlichen Kreaturen. Oh, hallo Herr Schildröte. Hallo Fräulein Delfin. Und schau mal, da ist ein Octopus. Es war wirklich schön mit dir herumzuschwimmen, Meerjungfrau Ei. Peppa kann es kaum erwarten, bis Ei groß genug ist, um die Welt richtig zu erkunden. Eines Tages können ich, du und George zusammen rumlaufen und die Welt erkunden. Aber bis dahin können sie immer spielen und es sich vorstellen. Die nächste Krabenshow ist in 5 Minuten, Leute. Wenn ich es rechtzeitig dahin schaffe. Peppa Wutz und ihre Freunde sind heute ins Aquarium gegangen und sie tun alle so, als seien sie Fische. Miau. Was ist das? Das ist ein Tintenfisch. Er hat acht lange lustig wackelnde Beine. Oh. Eigentlich hat ein Tintenfisch nur zwei lustig wackelnde Be",
+  "tx": "Tschüss. Heute sind Peppa und ihre Familie zusammen mit Baby Ei im Aquarium. Wow, hinter der Meerjungfrau her. Peppa und George haben beim Erkunden sehr viel Spaß, aber für Evi ist es ganz schön schwer mitzuhalten, um auch Dinge zu erkunden. Schau mal George, me Jungfrauen sind super. Wir kommen. Oh, danke schön. Ihr seid wirklich ein fischfreundliches Publikum. Tut mir leid, Ei, wir haben es verpasst. Gute Schwanzarbeit, Ei, du wärst eine tolle Meerjungfrau. Wie auch immer, ich muss los. Ich habe eine Idee. Frau Mümmel hat Peppa auf eine Idee gebracht. Komm raus, Ei. Peppa hatte eine schöne … nur zwei lustig wackelnde Beine. Die restlichen sechs sind lustig wackelnde Arme. Wackel. Wackel. Wackelck. Oh. Oh. Wow. Ich hätte auch gern eine Regenbogenflosse. Lass uns mehrfrauen sein. Aber wir haben keine Meerjungfrauenflossen. Die stellen wir uns vor. Hurra! Peppa und Luzi tun so, als seien sie mehr Jungfrauen mit langen, hübschen Flossen. Hallo Seepferdchen, wir können genauso herums schwimmen wie ihr. Das ist so wunderschön. Was ist das? Das ist eine Auster. In ihr befindet sich eine Perle. Eine Perle? Was ist eine Perle? Ein sehr hübscher Gegenstand, der wunderschön funkel. … anprobieren? Nein. Na ja, sie versuchen zu helfen. Das blaue T-Shirt kannst du nicht jeden Tag anziehen, Geor. Komm zurück, George. Oh, Peppa und ihre Familie sind in einem spannenden neuen Bereich des Geschäfts. Was geht, Fashionfreunde? Wie kann ich euch beim Umsetzen eurer Fashion Träume helfen? Wir suchen nach neuen Anziehsachen für George, aber er möchte überhaupt nichts Neues anprobieren. Wenn ihr nach Inspiration sucht, versucht doch unseren neuen super perfekt inspirierenden elektronischen Ganzkörperinkaufsleitfaden oder kurz gesagt Spiegel. Ganz schön raffiniert. Man kann Sachen … Anziehsachen, die man tragen kann, aber das Wichtigste ist Kleidung zu finden, in der du dich ganz du selbst fühlst. 956 97 Heute sind Peppa und ihre Familie in einem richtig großen Geschäft. 98 99 100 Wer es kaputt macht, muss es bezahlen. Frau Möbbel ist im Sicherheitsraum und sorgt dafür, dass alles sicher ist. Entschuldigung, wir sollten wieder zu Mama und Peppa gehen, wenn wir sie finden. Wir dachten schon, wir hätten euch verloren. Nun, wisst ihr noch, was man tun muss, wenn man verloren geht? Ruhig bleiben und einen Mitarbeiter nach Hilfe fragen. Ganz genau. George weiß nun ganz … ihr vielleicht noch jemanden verloren? Oh! Oh! Hallo! Doch ist da jemand? Und jetzt wissen Sie genau, was man machen muss, wenn man verloren ist. Sehr geehrte Kundin, bitte bleiben Sie ruhig und fragen Sie jemanden nach Hilfe. Heute sind Peppa und ihre Familie in einem raketenbetriebenen Donut. Oh, sie tun nur so, als wäre es eine Rakete. Peppa und ihre Familie besuchen eine Donutfabrik. Der erste Halt ist die Formstation. Hier wird der Teig in Ringe gepresst. Ungefähr so. Wunderbare Technik. Schneller, schneller. Oh nein. Beim Donuts machen muss man sich Zeit lassen. Weniger ist mehr. … das Haus auf dem Kopf? Heute sind Peppa und George an einem ganz besonderen Ort, weil das gar kein Haus ist. Es ist eine Illusion. Was ist eine Illusion? Eine Illusion täuscht unser Auge. Da ist etwas nicht so, wie es scheint. Na los, ich zeig's euch. Aber wie kommen wir da rein? Die Tür ist ja da ganz oben. Oh, wirklich? Seht mal, hier hängt ja alles an der Decke. Genau. Und jetzt passt auf. Sag tschüss. Jetzt hängen ja wir an der Decke. Kommt mit. Auf in den nächsten Raum. Dieser Raum ist voller Spiegel. Ich bin hier, Kinder. Seht, ich fliege. Wie machst du das denn, Mama? Sag du es mir. … Illusionen. Okay, alle auf Position. Sie wird jeden Moment hier sein. Heute schmeißt Frau Locke eine Überraschungsparty für Mama Wutz, um ihr neues Baby zu feiern. Diese besondere Art von Party heißt eine Babypy. Wie wunderbar. Das schnell alle ins Haus. Rettet euch. Mach Platz für die angehende Mutter. Tja, es war wunderbar. Frau Locke hatte leider kein schlechtes Wetter eingeplant. Kein Problem. Wir holen es ein anderes Mal nach. Ich hab's. Wie wär es, wenn wir können? Das machen wir. Will jemand Gebäck? Wir sind soweit. Peppa und Frau Locke haben die Babyparty von draußen ins Haus … seine Vorteile. Es waren einmal drei kleine sehr sehr müde Häschen. Fertig. Super Wam. Ihr habt recht. Es bedeutet mehr Arbeit, mehr Schmutz und mehr Chaos. Aber wir werden auch mehr Spaß haben, mehr lachen und uns noch mehr lieben. Mama Wutz liebt ihre Familie wirklich sehr. So, jetzt wechsel ich eine Windel mit verbundenen Augen und sie freut sich sehr, dass sie noch größer Peppa und George helfen Mama Wutz, denn für Evi ist es Schlafenszeit. Wieso wickelst du Ei ein wie eine Mumie? Mama, das nennt man Pucken. So fühlen sich Babys geborgen und schlafen leichter ein. So, wenn wir jetzt … Guter Versuch, meine Kleinen. Ich werde jetzt Ich habe noch eine Idee. Kleine Fötchen, schlapp und weich, rosaringchwanz, kicherst sanft, krabbelst rum, ganz langsam ganz. Ich bin bei dir und halt dich fest und sagt: \"Treu jetzt schön von Fützen, ich geb acht.\" Du brauchst nicht zu weinen, laut, es gibt nichts, was traurig macht. Ich bin hier und gehe Gutach auf dich, mein kleiner Schnauz. Durch die Tränen schlaf jetzt ein, denn die Wolken ziehen herein. Ich bin hier und gehe. Gutach auf dich, mein kleiner Schnauz. Schlaf schön. Gute Nacht, Ei. Schau mal, Ei, das ist eine Lavalampe. Blup, … Ah, das waren wunderbare Geräusche. Jetzt ist es Zeit für Entspannung. Jetzt sieht man entspannende Lichter und ganz viele Seifenblasen. Hurra! Oh je, jetzt lassen Peppa und ihre Freunde begeistert die Seifenglasen platzen. Ich glaube, dass Babys Seifenblasen gerne anschauen, also dürfen wir nicht alle platzen lassen. Lass sie uns auch angucken. Ich habe noch nie Seifenblasen einfach fliegen lassen. Eei, ich liebe es. Und Ei liebt es auch. Gut gemacht, Pepper. Für kleine Babys ist es wichtig, die Welt auf leise und sanfte Weise zu erforschen. sogar Babys lassen gern Seifenblasen platzen.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8314
+  "src": "auto"
  },
  "pl9h17R2VZ4": {
   "channel": "Learn German with Anja",
@@ -16407,7 +16499,7 @@
  "D3loZpx620Q": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-07T06:03:28+00:00",
+  "checked": "2026-11-11T15:19:19+00:00",
   "title": "We're going hiking // GERMAN VLOG for German learners │Pre-Advanced German",
   "duration": 436,
   "published": "20220409",
@@ -16415,73 +16507,10 @@
   "spoken_v": 2,
   "pace": 127.8,
   "rare": 0.0389,
+  "var": 0.7679,
   "speech_s": 410.3,
   "tokens": 874,
   "kw": [
-   [
-    "arschkalt",
-    "angekommen bin da warst arschkalt aber",
-    165,
-    172,
-    2.39,
-    3
-   ],
-   [
-    "windig",
-    "bei uns klar bei uns war es auch windig",
-    249,
-    255,
-    3.12,
-    3
-   ],
-   [
-    "müsliriegel",
-    "Müsliriegel und gehe nur noch einer den",
-    281,
-    287,
-    2.52,
-    2
-   ],
-   [
-    "skyline",
-    "aber hier kann man die Skyline von",
-    385,
-    393,
-    3.26,
-    3
-   ],
-   [
-    "wandertag",
-    "gibt's einen Wandertag mindestens einen Wandertag mindestens",
-    52,
-    60,
-    2.69,
-    2
-   ],
-   [
-    "wanderweg",
-    "terrassenweg also ein Wanderweg am Rhein",
-    138,
-    147,
-    3.3,
-    2
-   ],
-   [
-    "celsius",
-    "10 Grad Celsius also gar nicht so",
-    158,
-    163,
-    3.78,
-    3
-   ],
-   [
-    "wandern",
-    "hallöchen wir sind heute wandern ",
-    0,
-    12,
-    4.2,
-    6
-   ],
    [
     "gerade",
     "und die Sonne ist gerade rausgekommen",
@@ -16499,11 +16528,11 @@
     6
    ],
    [
-    "rhein",
-    "wir laufen heute ein Stück von dem Rhein",
-    135,
-    143,
-    4.6,
+    "bisschen",
+    "bisschen aus der Puste aber gut",
+    64,
+    69,
+    5.23,
     5
    ],
    [
@@ -16515,12 +16544,28 @@
     5
    ],
    [
-    "bisschen",
-    "bisschen aus der Puste aber gut",
-    64,
-    69,
-    5.23,
+    "wandern",
+    "hallöchen wir sind heute wandern ",
+    0,
+    12,
+    4.2,
+    6
+   ],
+   [
+    "rhein",
+    "wir laufen heute ein Stück von dem Rhein",
+    135,
+    143,
+    4.6,
     5
+   ],
+   [
+    "gefahren",
+    "mit dem Auto gefahren dann an den Rhein",
+    309,
+    317,
+    4.76,
+    4
    ],
    [
     "wein",
@@ -16531,26 +16576,82 @@
     4
    ],
    [
-    "stimmt",
-    "Deutschen und wenn das stimmt dann",
-    29,
-    36,
-    5.16,
-    4
+    "rucksack",
+    "Rucksack dabei denn die hat es gerne weil wir laufen ja",
+    97,
+    107,
+    4.03,
+    3
    ],
    [
-    "sehen",
-    "zeigen und ich hoffe ihr könnt es sehen",
-    381,
-    386,
-    5.69,
-    4
+    "celsius",
+    "10 Grad Celsius also gar nicht so",
+    158,
+    163,
+    3.78,
+    3
+   ],
+   [
+    "fähre",
+    "Fähre genommen mit dem Auto so mit der",
+    316,
+    323,
+    3.78,
+    2
+   ],
+   [
+    "skyline",
+    "aber hier kann man die Skyline von",
+    385,
+    393,
+    3.26,
+    3
+   ],
+   [
+    "windig",
+    "bei uns klar bei uns war es auch windig",
+    249,
+    255,
+    3.12,
+    3
+   ],
+   [
+    "wanderweg",
+    "terrassenweg also ein Wanderweg am Rhein",
+    138,
+    147,
+    3.3,
+    2
+   ],
+   [
+    "arschkalt",
+    "angekommen bin da warst arschkalt aber",
+    165,
+    172,
+    2.39,
+    3
+   ],
+   [
+    "wandertag",
+    "gibt's einen Wandertag mindestens einen Wandertag mindestens",
+    52,
+    60,
+    2.69,
+    2
+   ],
+   [
+    "müsliriegel",
+    "Müsliriegel und gehe nur noch einer den",
+    281,
+    287,
+    2.52,
+    2
    ]
   ],
-  "tx": "hallöchen wir sind heute wandern und die Sonne ist gerade rausgekommen ich bin gerade in Deutschland und jedes Mal wenn ich hier zu Hause bin dann gehen wir wandern wandern ist angeblich das Lieblings Hobby oder die lieblingsfreizeitbeschäftigung von den Deutschen und wenn das stimmt dann fallen meine Eltern und ich definitiv in das Klischee rein denn wir lieben wandern und auch wenn ich in London bin wo ich ja zur Zeit wohne hält mich das auch nicht davon ab wann dann zu gehen dann fahre ich öfter an die Küste oder so aber jedes Mal wenn ich hier bin gibt's einen Wandertag mindestens einen Wandertag mindestens also nach dem Aufstieg bin ich jetzt auch ein bisschen aus der Puste aber gut so wie ich meine Eltern kenne haben die bestimmt schon für heute Abend irgendwo reserviert also in dem Restaurant oder so das machen die gerne wenn sie wandern waren dann wird abends schön irgendwo gegessen beschweren will ich mich ja nicht und so wie ich meine Mutter kenne hat die bestimmt eine Flasche Wein im Rucksack dabei denn die hat es gerne weil wir laufen ja hier in den Weinbergen lang also hier mit überall Wein angebaut und dann hat meine Mutter das sehr gerne wenn wir irgendwo eine Pause machen und dann ein Schluck Wein trinken meine Eltern machen das ich mag Wein nicht so aber gut und jetzt müssen wir hier oh mein Gott diese Treppe hoch heiliges bisschen wir laufen heute ein Stück von dem Rhein terrassenweg also ein Wanderweg am Rhein entlang am Fluss normalerweise fahren wir immer in den Rheinsteig das ist auch ein Wanderweg am Rhein entlang aber heute sind wir mal auf der anderen Seite vom Rhein heute ist es auch gar nicht so kalt ich glaube heute sind sie so um die 10 Grad Celsius also gar nicht so schlimm letzte Woche noch als ich in Deutschland angekommen bin da warst ar",
+  "tx": "hallöchen wir sind heute wandern und die Sonne ist gerade rausgekommen ich bin gerade in Deutschland und jedes Mal wenn ich hier zu Hause bin dann gehen wir wandern wandern ist angeblich das Lieblings Hobby oder die lieblingsfreizeitbeschäftigung von den Deutschen und wenn das stimmt dann fallen meine Eltern und ich definitiv in das Klischee rein denn wir lieben wandern und auch wenn ich in London bin wo ich ja zur Zeit wohne hält mich das auch nicht davon ab wann dann zu gehen dann fahre ich öfter an die Küste oder so aber jedes Mal wenn ich hier bin gibt's einen Wandertag mindestens einen Wandertag mindestens also nach dem Aufstieg bin ich jetzt auch ein bisschen aus der Puste aber gut so wie ich meine Eltern kenne haben die bestimmt schon für heute Abend irgendwo reserviert also in dem Restaurant oder so das machen die gerne wenn sie wandern waren dann wird abends schön irgendwo gegessen beschweren will ich mich ja nicht und so wie ich meine Mutter kenne hat die bestimmt eine Flasche Wein im Rucksack dabei denn die hat es gerne weil wir laufen ja hier in den Weinbergen lang also hier mit überall Wein angebaut und dann hat meine Mutter das sehr gerne wenn wir irgendwo eine Pause machen und dann ein Schluck Wein trinken meine Eltern machen das ich mag Wein nicht so aber gut und jetzt müssen wir hier oh mein Gott diese Treppe hoch heiliges bisschen wir laufen heute ein Stück von dem Rhein terrassenweg also ein Wanderweg am Rhein entlang am Fluss normalerweise fahren wir immer in den Rheinsteig das ist auch ein Wanderweg am Rhein entlang aber heute sind wir mal auf der anderen Seite vom Rhein heute ist es auch gar nicht so kalt ich glaube heute sind sie so um die 10 Grad Celsius also gar nicht so schlimm letzte Woche noch als ich in Deutschland angekommen bin da warst arschkalt aber arschkalt vor allem bin ich ja dann auch noch von Spanien gekommen und in Spanien hatten wir so 18 19 Grad Celsius und dann bin ich in Deutschland gelandet und dann waren es minus zwei Grad Celsius arschkalt sage ich euch richtig kalt also für mich persönlich ist es sehr kalt aber wie gesagt heute geht's die Sonne ist sogar draußen gekommen also der Himmel ist ein bisschen der Himmel ist blau die Sonne ist draußen also alles gar nicht so schlimm gutes Wetter fürs Wandern gehen denke ich und es stürmt auch gerade gar nicht so es stimmt ja eigentlich gerade total in Deutschland also bei uns im Süden nicht so sehr in Hessen nicht so sehr obwohl wir gerade gar nicht in Hessen sind gerade sind wir im Bundesland Rheinland-Pfalz aber ja in Hessen stimmt das eigentlich nicht so sehr auf jeden Fall nicht so arg wie im Norden im Norden von Deutschland da fegt gerade der Orkan durch da gab es auch schon viele Unfälle das stimmt auf jeden Fall viel mehr und bei uns klar bei uns war es auch windig es ist auch jetzt noch windig deswegen stehen auch meine Haare so ab aber im Vergleich zum Norden hatten wir nur ein Stürmchen kein Sturm ich hoffe ja dass das mit der Aufnahme geht mit dem Wind und so und dass sie mich trotzdem hören muss heute machen wir auch nur eine kleine Wanderung also heute laufen wir nur drei Stunden deswegen ist auch gar nicht so viel im Rucksack im Rucksack sind nur zwei Müsliriegel und gehe nur noch einer den einen habe ich schon gegessen okay ein Müsliriegel zwei Flaschen Wasser noch eine dickere Jacke und das war's dann schon weil ich brauchen wir nicht so viel brauchen kein Essen für zwischendurch heute laufen wir nur drei Stunden und genau heute machen wir eine kleinere Wandertour und genau dann sind wir ungefähr eine halbe dreiviertel Stunde mit dem Auto gefahren dann an den Rhein also an den Fluss dann haben wir die Fähre genommen mit dem Auto so mit der Fähre über den Fluss gefahren und dann sind wir zwei Stationen glaube ich mit dem Zug gefahren also wir haben das Auto am Bahnhof geparkt und dann zwei Stationen im Zug gefahren und jetzt laufen wir gerade quasi diese zwei Stationen wieder zurück zum Auto genau sollen ungefähr drei Stunden sein also von daher da vorne da vorne läuft meine Mama mit ihren Wanderstöcken da sieht man jetzt schön die ganzen Weinberge überall also ich habe mir jetzt doch mal die Kapuze eingezogen weil es doch ein bisschen windig wurde und die Ohren kalt wurden aber hier will ich euch was zeigen und ich hoffe ihr könnt es sehen ich weiß nicht ob ihr das sehen werdet aber hier kann man die Skyline von Frankfurt sehen und da war der Akku von meiner Kamera auch schon leer aber das macht nichts ich habe es dann noch mal mit dem Handy aufgenommen und auch noch mal ein Foto gemacht und ich glaube es ist am besten wenn ich euch das Foto zeige denn da kann man die Skyline wirklich am besten erkennen da hinten am Horizont muss so ein bisschen dunkler ist kann man die Skyline von Frankfurt sehen alles klar dann bis zum nächsten Mal tschüss",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8
+  "src": "auto"
  },
  "XETfpbtc2rY": {
   "channel": "Comprehensible German",
@@ -16736,7 +16837,7 @@
  "9zwhTftuR3U": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-07T06:08:04+00:00",
+  "checked": "2026-11-11T15:20:48+00:00",
   "title": "Frequency words in German (A2) | easy and comprehensible input",
   "duration": 876,
   "published": "20260308",
@@ -16744,73 +16845,10 @@
   "spoken_v": 2,
   "pace": 93.7,
   "rare": 0.0665,
+  "var": 0.5558,
   "speech_s": 866.8,
   "tokens": 1354,
   "kw": [
-   [
-    "federball",
-    "Badminton spielen oder auch Federball. Federball spielen. Federball ist",
-    156,
-    166,
-    2.48,
-    11
-   ],
-   [
-    "schlittschuhe",
-    "Die Schlittschuhe. Die Schlittschuhe. Ich fahre Schlittschuhe",
-    53,
-    66,
-    2.71,
-    8
-   ],
-   [
-    "tauche",
-    "oder wann? Ja, wie oft tauche ich? Wie",
-    309,
-    316,
-    3.02,
-    9
-   ],
-   [
-    "skateboard",
-    "Das erste Bild, das ist ein Skateboard.",
-    42,
-    50,
-    3.14,
-    9
-   ],
-   [
-    "zaubere",
-    "Okay, Magie. Wie oft zaubere ich?",
-    699,
-    706,
-    2.19,
-    5
-   ],
-   [
-    "domino",
-    "Domino. Das Domino. Domino spielen oder hier Karten spielen.",
-    145,
-    157,
-    3.31,
-    8
-   ],
-   [
-    "schwimme",
-    "Wie oft schwimme ich? Oh, manchmal",
-    347,
-    357,
-    2.68,
-    5
-   ],
-   [
-    "schaukel",
-    "Eine Schaukel und ein Sessel. Hm. Wie häufig wie häufig lese ich",
-    421,
-    433,
-    3.24,
-    5
-   ],
    [
     "oft",
     "Wie oft mache ich etwas? Wie oft?",
@@ -16844,22 +16882,6 @@
     23
    ],
    [
-    "spielen",
-    "Jetzt kein Sport, sondern hier spielen.",
-    137,
-    146,
-    5.42,
-    19
-   ],
-   [
-    "spiele",
-    "Wie oft spiele ich Domino? Oh, ich weiß",
-    190,
-    200,
-    5.13,
-    18
-   ],
-   [
     "fahre",
     "Ich fahre Skateboard. Das Fahrrad. Ich fahre Fahrrad.",
     46,
@@ -16868,18 +16890,130 @@
     18
    ],
    [
-    "vielleicht",
-    "Im Kindergarten vielleicht, aber das ist",
-    203,
-    211,
-    5.72,
-    13
+    "lese",
+    "Hm. Wie häufig wie häufig lese ich",
+    426,
+    433,
+    4.45,
+    12
+   ],
+   [
+    "karten",
+    "Domino spielen oder hier Karten spielen.",
+    149,
+    157,
+    4.74,
+    9
+   ],
+   [
+    "fahrrad",
+    "Das Fahrrad. Ich fahre Fahrrad. Die Schlittschuhe. Die Schlittschuhe.",
+    49,
+    61,
+    4.48,
+    7
+   ],
+   [
+    "ähm",
+    "spiele sehr, sehr selten ähm Karten oder",
+    219,
+    229,
+    4.12,
+    9
+   ],
+   [
+    "trinke",
+    "Also, wie oft trinke ich? Ähm, häufig, ich trinke häufig oder",
+    577,
+    591,
+    4.03,
+    9
+   ],
+   [
+    "grillen",
+    "kochen und grillen. Das ist vielleicht eine Idee, weil hier",
+    562,
+    570,
+    3.86,
+    8
+   ],
+   [
+    "stempel",
+    "Und hier stempeln. Wie oft stempel ich?",
+    813,
+    822,
+    3.79,
+    7
+   ],
+   [
+    "skateboard",
+    "Das erste Bild, das ist ein Skateboard.",
+    42,
+    50,
+    3.14,
+    9
+   ],
+   [
+    "tauche",
+    "oder wann? Ja, wie oft tauche ich? Wie",
+    309,
+    316,
+    3.02,
+    9
+   ],
+   [
+    "domino",
+    "Domino. Das Domino. Domino spielen oder hier Karten spielen.",
+    145,
+    157,
+    3.31,
+    8
+   ],
+   [
+    "spaghetti",
+    "Dann haben wir hier Spaghetti. Was ist in diesem Topf?",
+    547,
+    555,
+    3.58,
+    6
+   ],
+   [
+    "federball",
+    "Badminton spielen oder auch Federball. Federball spielen. Federball ist",
+    156,
+    166,
+    2.48,
+    11
+   ],
+   [
+    "schlittschuhe",
+    "Die Schlittschuhe. Die Schlittschuhe. Ich fahre Schlittschuhe",
+    53,
+    66,
+    2.71,
+    8
+   ],
+   [
+    "schwimme",
+    "Wie oft schwimme ich? Oh, manchmal",
+    347,
+    357,
+    2.68,
+    5
+   ],
+   [
+    "zaubere",
+    "Okay, Magie. Wie oft zaubere ich?",
+    699,
+    706,
+    2.19,
+    5
    ]
   ],
-  "tx": "Wie oft mache ich etwas? Wie oft? This video is about adverbs of frequency. How often am I doing things? Hallo, herzlich willkommen. Ich bin Katrin und wir lernen Deutsch. Immer lernen wir Deutsch und es macht viel Spaß. Oder macht Deutsch lernen viel Spaß? Hoffentlich. Also, das hier sind Bilder. Ich habe dir Bilder mitgebracht. Das erste Bild, das ist ein Skateboard. Ich fahre Skateboard. Das Fahrrad. Ich fahre Fahrrad. Die Schlittschuhe. Die Schlittschuhe. Ich fahre Schlittschuhe und die Schier. Ich fahre Schier, also Skateboard, Fahrrad, Schlittschuhe und Ski. Jetzt wie oft wie oft fahre ich Skateboard? Ich fahre nie Skateboard. Nie fahre ich Skateboard. Nie fahre ich Skateboard. Fahrrad. Wie oft fahre ich Fahrrad? Ach, manchmal. Manchmal fahre ich Fahrrad. Manchmal fahre ich Fahrrad. Schlittschuhe. Wie oft fahre ich Schlittschuhe? Ach, selten, selten fahre ich Schlittschuhe. Selten fahre ich Schlittschuhe. Und she Shi fahre ich auch nie. Nie fahre ich Ski. Ich kann kein Skateboard fahren und ich kann kein Ski keine Ski fahren. Also nie fahre ich Skateboard, nie fahre ich Ski. Jetzt kein Sport, sondern hier spielen. Was ist dieses Spiel? Das ist ein Domino. Das Domino. Domino spielen oder hier Karten spielen. Karten spielen. Badminton spielen oder auch Federball. Federball spielen. Federball ist zusammen. Du und ich, wir spielen zusammen. Und Badminton ist, wir spielen gegeneinander. Ich will gewinnen. Du willst gewinnen. Das ist badminton. Und wenn wir zusammen spielen, dann ist es Federball. Also Federball spielen oder Tischtennis spielen. Tischtennisspiel. Domino, Karten, Federball und Tischtennis. Wie oft spiele ich Domino? Oh, ich weiß nicht. Spiel, wie oft spielst du Domino? Ich glaube, ich spiele nie Domino. Im Kindergarten vielleicht, aber das ist lange her.",
+  "tx": "Wie oft mache ich etwas? Wie oft? This video is about adverbs of frequency. How often am I doing things? Hallo, herzlich willkommen. Ich bin Katrin und wir lernen Deutsch. Immer lernen wir Deutsch und es macht viel Spaß. Oder macht Deutsch lernen viel Spaß? Hoffentlich. Also, das hier sind Bilder. Ich habe dir Bilder mitgebracht. Das erste Bild, das ist ein Skateboard. Ich fahre Skateboard. Das Fahrrad. Ich fahre Fahrrad. Die Schlittschuhe. Die Schlittschuhe. Ich fahre Schlittschuhe und die Schier. Ich fahre Schier, also Skateboard, Fahrrad, Schlittschuhe und Ski. Jetzt wie oft wie oft fahre … ich Schlittschuhe? Ach, selten, selten fahre ich Schlittschuhe. Selten fahre ich Schlittschuhe. Und she Shi fahre ich auch nie. Nie fahre ich Ski. Ich kann kein Skateboard fahren und ich kann kein Ski keine Ski fahren. Also nie fahre ich Skateboard, nie fahre ich Ski. Jetzt kein Sport, sondern hier spielen. Was ist dieses Spiel? Das ist ein Domino. Das Domino. Domino spielen oder hier Karten spielen. Karten spielen. Badminton spielen oder auch Federball. Federball spielen. Federball ist zusammen. Du und ich, wir spielen zusammen. Und Badminton ist, wir spielen gegeneinander. Ich will … Oh, ich weiß nicht. Spiel, wie oft spielst du Domino? Ich glaube, ich spiele nie Domino. Im Kindergarten vielleicht, aber das ist lange her. Also, nein, nie, nie spiele ich Domino. Nie. Und Karten. Karten spiele ich sehr, sehr selten. Ich spiele sehr, sehr selten ähm Karten oder vielleicht kaum, kaum spiele ich Karten oder ich spiele kaum Karten, das ist ein bisschen besser. Ich spiele kaum Karten. Federball. Wie oft spiele ich Federball? Selten spiele ich Federball. Selten spiele ich Federball. Und Tischtennis. Ja, auch selten. Ich spiele selten Federball und ich spiele selten … und die Person taucht. Das zweite Bild, das ist jemand, der schwimmt, ein Schwimmer oder eine Person, die schwimmt. Hier haben wir eine Badewanne, Baden und eine Dusche. Also duschen, tauchen, schwimmen, baden und duschen. Wie oft oder wann? Ja, wie oft tauche ich? Wie oft tauche ich? Na, ich tauche nicht im Meer hier mit einer mit den Flossen und mit einer Tauch äh Flasche. So tauche ich nicht. Also nie tauche ich so. Manchmal, nein, selten, selten tauche ich im Schwimmbad, im Pool. Sehr selten, aber manchmal. Und aber im Meer tauche ich nie. Nie tauche ich im Meer. Selten tauche ich … Ja, vielleicht auch manchmal. Manchmal bade ich. Und duschen. Oh, duschen tue ich häufig. Ich dusche häufig. oder was kann man noch sagen? Oft, oft dusche ich. Oft dusche ich, manchmal bade ich. Oft dusche ich, manchmal bade ich. Oder häufiger dusche ich. Manchmal bade ich, aber häufiger dusche ich. Was haben wir jetzt? Oh, das hier sind Dinge aus dem Haus. Das erste ist ein Buch. Dann was ist das? Ein Farbkasten oder der Wasserfarbkasten? Eine Schaukel und ein Sessel. Hm. Wie häufig wie häufig lese ich wahrscheinlich lesen. Wie häufig lese ich? Ha, wie häufig lese ich ein Buch? Sehr … ich lese oft, täglich lese ich malen. Wie oft male ich? H ich habe Kinder. Ich arbeite mit Kindern. Ähm ja, manchmal manchmal male ich. Manchmal male ich. Wie oft schaukel ich? Als ich Kind war, habe ich immer geschaukelt. Immer war ich auf der Schaukel. Aber jetzt als Erwachsener ist Schaukel nicht mehr so gut. Also selten, selten schaukel ich jetzt. Und Sesseln, wofür ist der Sessel? Sitzen, ausruhen, entspannen. Wir haben keinen Sessel. Wir haben ein Sofa. Also vielleicht nie. Nie sitze ich auf dem so auf dem Sessel. Nie sitze ich auf dem Sessel. Immer sitze ich auf dem Sofa. Nie … das kochen einfach. Vielleicht ist das Trinken, Essen, kochen und grillen. Das ist vielleicht eine Idee, weil hier siehst du, hier ist ein Feuer und hier oben ist eine Wurst. Dann ist es Trinken, Essen, kochen und ähm Grillen. Also, wie oft trinke ich? Ähm, häufig, ich trinke häufig oder oft oft trinke ich Wasser. Fast immer trinke ich Wasser. Manchmal trinke ich Saft. Fast immer trinke ich Wasser oder nie trinke ich Alkohol und nie trinke ich Kaffee. Manchmal trinke ich Tee. Gut, das nächste Bild. Das nächste Bild ist Essen. Ähm, wie oft esse ich? Dreimal am Tag. Dreimal am Tag esse ich. … Ja, vielleicht alle paar Wochen esse ich Spaghetti. Kochen. Ähm, ja, nicht täglich. Ich koche nicht täglich. Manchmal kocht mein Mann oder manchmal kochen unsere Kinder. Also nicht täglich, aber fast täglich. Ich sage fast täglich koche ich. Und grillen wir grillen selten. Selten grillen wir oder im Sommer grillen wir. Im Sommer grillen wir manchmal. Im Sommer grillen wir nicht immer, manchmal. Und hier das letzte. Oh, das ist noch mal hier wie spielen hier. Das hier sieht aus wie ein Zauberhut. Ja, hier ziemlich viel Magie. Okay, Magie. Wie oft zaubere ich? Vielleicht. Das hier … mit Schere und Kleber? H, keine Ahnung. Also, wie oft zaubere ich? Wie oft zaubere ich? Oh, ich will immer zaubern, aber ich kann nicht zaubern. Also ähm nie, nie zaubere ich. Ich kann nicht zaubern. Nie zaubere ich. Wie oft zauberst du? Kannst du zaubern? Dann die Kamera fotografieren. Wie oft fotografierst du? Wie oft fotografiere ich? Oft. Nicht immer. Aber ich liebe den Sonnenaufgang. Es gibt so einen so schönen Himmel. Und dann, wenn ich den Sonnenaufgang sehe, dann will ich ein Foto machen. Also, ich fotografiere oft. Oft fotografiere ich den Sonnenaufgang. Dann spielen. M spielen? … Zu selten spiele ich mit meinen Kindern. Und hier stempeln. Wie oft stempel ich? Äh ja, auch selten. Vielleicht in der Arbeit, wenn wir einen Stempel haben für das Datum oder für ähm die Adresse, dann stempel ich. Aber ich stempel keine Herzen. Nie stempel ich einen ein Herz. Nie stempel ich ein Herz. Äh manchmal stempel ich eine Adresse. Ja, das sind die alle Bilder. Und jetzt interessiert mich, wie oft machst du diese Dinge? Aber noch interessanter ist es, wie oft schaust du meine Videos? Schreibe mir einen Kommentar. Ganz viel Spaß beim Deutsch lernen und bis nächste Woche. Tschüss.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.4919
+  "src": "auto"
  },
  "NLMdUD4Rh6g": {
   "channel": "comprehensible GERMANi",
@@ -17180,7 +17314,7 @@
  "0wrQeWBmY90": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-08T15:17:52+00:00",
+  "checked": "2026-11-11T15:11:57+00:00",
   "title": "How to Order at a German Bakery Like a Local 🇩🇪",
   "duration": 389,
   "published": "20260122",
@@ -17353,7 +17487,8 @@
     3
    ]
   ],
-  "tx": "Guten Tag. Was darf sein bei Ihnen? Guten Tag. Ich nehme bitte ein Dinkelbrötchen. Ein Dinkelbrötchen? Ja. Dann noch einen Nusstrudel, bitte. Ja. Und noch eine Quarkschnecke. Eine Quarkschnecke. Das war's dann bei Ihnen. Ja, das ist alles. Okay. Das macht dann 6,70 € bitte. Mhm. Danke schön. Und 30 Cent zurück. Super, danke schön und bitte schön lassen sich schmecken. Vielen Dank. Auf Wiedersehen. Tschüss. So, hier haben wir den Dialog beim Bäcker. Beim means like at beim Bcker at the Bakery. You could for example also say in der Bäckerei. In der Bäckerei. Normally actually die Bäckerei. The Bakery is female in German. But sind hier we have the dattive case. We say in der Bckerei, you can also just learn it as a chunk. For example, ich bin in der Bckerei. I am in the Bakery. Oder ich bin beim Bcker at the Baker. Let's have a look at this dialogue a little bit. And also, by the way, if you wann download this worksheet, you can get this for free as a PDF. And it also includes some explanations, ja, some common phrases we use and so on and also some Übungen. Hier sind ein paar Übungen am Ende some exercises for you so you can practice a little bit. They also come with the solutions. Check the link in the description to see the free PDF. Los geht's. Guten Tag, was darf sein bei Ihnen? So darf comes actually from dürfen and the s des darfs is actually s. So it's literally like what allowed it be for you for me? So kind of like what can I give you? What am I allowed to give you kind of in a phrase. It's a bit weird but this is how we actually talk. Ja was darf's sein bei ihnen if it were in formal it would be by dir. So keer for you. Guten Tag. Ich nehme bitte ein Dinkelbrötchen. Das Dinkelbrötchen. Das ist das. Okay. Ein Dinkelbrötchen. Ja. Dann noch eine Nussstrude. Let's s",
+  "tx": "Guten Tag. Was darf sein bei Ihnen? Guten Tag. Ich nehme bitte ein Dinkelbrötchen. Ein Dinkelbrötchen? Ja. Dann noch einen Nusstrudel, bitte. Ja. Und noch eine Quarkschnecke. Eine Quarkschnecke. Das war's dann bei Ihnen. Ja, das ist alles. Okay. Das macht dann 6,70 € bitte. Mhm. Danke schön. Und 30 Cent zurück. Super, danke schön und bitte schön lassen sich schmecken. Vielen Dank. Auf Wiedersehen. Tschüss. So, hier haben wir den Dialog beim Bäcker. Beim means like at beim Bcker at the Bakery. You could for example also say in der Bäckerei. In der Bäckerei. Normally actually die Bäckerei. The Bakery is female in German. But sind hier we have the dattive case. We say in der Bckerei, you can also just learn it as a chunk. For example, ich bin in der Bckerei. I am in the Bakery. Oder ich bin beim Bcker at the Baker. Let's have a look at this dialogue a little bit. And also, by the way, if you wann download this worksheet, you can get this for free as a PDF. And it also includes some explanations, ja, some common phrases we use and so on and also some Übungen. Hier sind ein paar Übungen am Ende some exercises for you so you can practice a little bit. They also come with the solutions. Check the link in the description to see the free PDF. Los geht's. Guten Tag, was darf sein bei Ihnen? So darf comes actually from dürfen and the s des darfs is actually s. So it's literally like what allowed it be for you for me? So kind of like what can I give you? What am I allowed to give you kind of in a phrase. It's a bit weird but this is how we actually talk. Ja was darf's sein bei ihnen if it were in formal it would be by dir. So keer for you. Guten Tag. Ich nehme bitte ein Dinkelbrötchen. Das Dinkelbrötchen. Das ist das. Okay. Ein Dinkelbrötchen. Ja. Dann noch eine Nussstrude. Let's say together. Nussudel. Das ist ein Nussstrudel. Probably what you know also ist der Apfelstrudel. Das ist very popular German Nachtisch. Dessert. Der Nachtisch ist der Dessert. Ja. Und noch eine Quarkschnecke. This one is very common, very popular. Der Quark. I also made a video about this. It's kind of a cheese. It's very typical in German. You can have it in a savory way or also in a sweet way. Und Schnecke ist actually a snail. Das ist eine Schnecke und das hier ist eine Quarkschnecke. Das war's dann bei Ihnen. So, war ist the same as war es. So was it. So basically this is all for you. This was all that you want. Ja, das ist alles. Very good chunk. Remember this also. Ja, that's all. Das macht dann also very good chunk. des comes to. Das macht dann 6,70 € for Exempel. Danke schön und 30 Cent zurück. Back zurück. Danke schön. Super. And also good chunk. Ja. And you can also use this informally. Lassen sie es sich schmecken. Short often also just say it like this. Lassen sie sich schmecken. Lassen sie es sich schmecken. So. And informally. What do you think it would be? Lass es dir schmecken. Lass es dir schmecken. Vielen Dank. Auf Wiedersehen. Tschüss. And here we have some common Bakery phrases. Häufige Sätze und Wörter in der Bäckerei. Guten Tag. Was darf's sein? Very common phrase. What would you like? Was darf's sein? Bei dir oder bei Ihnen? Ich hätte gern, ich nehme sonst noch etwas. Anything else? Sonst noch etwas? Das war's. Das ist alles so. The ones wie so already. Das Brötchen, das can be any breadwolink Brötchen. Das Vollkornbrot and just a bread roll it would das Vollkornbrötchen. Let together. Vollkornbrötchen. Then we have rockenbrot. Rockenbrot. And Brot ist just Leib. Some people also say it's just a loaf of bread. Ja, das Brot. And then of course we have süßes Gebäck. Süßes. So what you s der Nusudel, Quarkschnecke, Croisson, Apfel, Kuchen oder das Stück Kuchen. Ein Stück Kuchen. And then we have den numbers. No. 1 2 D bitte noch another. Vor Exempel noch ein Brötchen. Another Breadro. Sonst noch etwas? I already s au dem. Ja, this means also additionally außerdem. You can use this to. And then also this phrase as I told you this is a very good junk. Das macht dann. Ja, you will hear a lot. Stimmt so already had das in my previous videos. Keep the chains. Danke schön. Lassen sie es sich schmecken oder lass es dir schmecken. Auf Wiedersehen. Tschüss. And here you get some Übungen, some exercises. If you want, you can download the free PDF for this video. Leave the like if you enjoy these dialogues. Danke schön und tschüss. Danke. Schönen Tag. Acho, das Brötchen. Ich will keine Schauspielerin sein. Eine Ja. Nus, was war das? Danke. Schönen Tag, ihre.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -17533,7 +17668,7 @@
  "FKS9eGhFLG8": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-08T15:19:55+00:00",
+  "checked": "2026-11-11T15:13:36+00:00",
   "title": "How I Became a German Citizen in 3 Years",
   "duration": 1857,
   "published": "20260825",
@@ -17706,7 +17841,8 @@
     2
    ]
   ],
-  "tx": "Halli hallo, willkommen zurück beim Easy German Podcast. Hallo Manuel, hallo Kari und halli hallo an unseren heutigen Gast Rawart. Hallo Manuel. Hallo Kari. Rawart, du bist einer der letzten Immigranten in Deutschland, der die sogenannte Turboeinbürgerung geschafft hat. Das ist die deutsche Staatsangehörigkeit nach 3 Jahren. Das ist etwas Besonderes, was es nur für eine kurze Zeit gab im deutschen Gesetz. und wir wollen heute mit dir darüber sprechen, wie du das geschafft hast und was die deutsche Staatsbürgerschaft heute für dich bedeutet. Thema der Woche. Ja, Rav, zeig ihn uns mal deinen deutschen Pass. Da ist er, das das gute Stück. Du bist jetzt deutscher Staatsbürger nach nur mittlerweile bist du 4er Jahre in Deutschland, aber du hast diesen Pass letztes Jahr bekommen und der ganze Prozess, wie lange hat der gedauert? Also nach 3 Jahren habe ich das gemacht und natürlich äh ich habe versucht die ganze Zeit so kleine Schritte zu machen und das war sehr wichtig. Also zuerst mit dem C1 und natürlich Einbürgerungstest und alles, was ich da brauchte. Mhm. Und ja, das können wir sagen, also 3 Jahren hat das gedauert, 3 Jahre, um deutscher Staatsbürger zu werden. Viele von euch, die zusehen, träumen wahrscheinlich davon. Und Ruard, ich glaube, du bist auch ein gutes Vorbild für viele Menschen da draußen. Bevor wir anfangen, ist es gut zu wissen, dass es das jetzt heute nicht mehr gibt. Ähm, das Staatsbürgerschaftsrecht wurde 2024 geändert von der damaligen Bundesregierung, äh die Ampelregierung, von der Ampel. Ganz, also früher konnte man in 8 Jahren Staatsbürger werden, dann ab 5 Jahren regulär und diese 3 Jahre, diese Turboeinbögerung sagt man auch, die gab es nur tatsächlich für ein bisschen mehr als ein Jahr, weil sie wurde dann von der CDU Regierung wieder abgeschaff",
+  "tx": "Halli hallo, willkommen zurück beim Easy German Podcast. Hallo Manuel, hallo Kari und halli hallo an unseren heutigen Gast Rawart. Hallo Manuel. Hallo Kari. Rawart, du bist einer der letzten Immigranten in Deutschland, der die sogenannte Turboeinbürgerung geschafft hat. Das ist die deutsche Staatsangehörigkeit nach 3 Jahren. Das ist etwas Besonderes, was es nur für eine kurze Zeit gab im deutschen Gesetz. und wir wollen heute mit dir darüber sprechen, wie du das geschafft hast und was die deutsche Staatsbürgerschaft heute für dich bedeutet. Thema der Woche. Ja, Rav, zeig ihn uns mal deinen … du dann ja nicht hier studiert, oder? Nee, also damals konnte ich kein Deutsch. Mhm. Und das war viel schwieriger für mich, ja, äh hierherzukommen, weil am meisten sind die auch, also ich glaube, die englische Masterstudiengange sind auch ein bisschen teurer. Mhm. Und die, die auf Deutsch sind, waren ein bisschen damals für mich schwierig. Ja, weil die brauchen auch C1. Jetzt habe ich C1. Das heißt, 2016 hast du zum ersten Mal mit dem Gedanken gespielt. Mhm. Das mit dem Studium hat nicht geklappt, aber du hast dann trotzdem weiter darauf hinarbeitet, ja, in Deutschland zu arbeiten. Wann … viele von euch sind auch nach Deutschland emigriert, man denkt ja nicht sofort an die Staatsbürgerschaft, oder doch? Wann war denn für dich klar, ich will hier bleiben und ich will auch den Pass haben? Ja, ich glaube, es gibt immer die Möglichkeit, den Pass zu haben, auch wenn man hier bleiben will. Und die Idee ist hier im Hinterkopf und das bleibt so. Das war also schon vorher bei dir im Hinterkopf? Ja, also natürlich, das war so die Möglichkeit, aber damals war auch nach, also möglich nach 8 Jahren und stimmt es war, als du gekommen bist, war es noch gar nicht möglich nach drei oder … man bei Easy German arbeitet, einfacher vielleicht Deutsch zu lernen. Natürlich. Du hast ja den ganzen Tag unsere Videos geschnitten und über deinen Spracherwerb haben wir auch schon mal eine ganze Episode gemacht. Wie hieß die, Manuel? Die hieß wie hieß die noch mal? Rob? Kartoffel. Eine echte Kartoffel. Eine echte Kartoffel. Genau, nennst du dich, das bin ich. Die könnt ihr euch noch mal anhören, einfach mal danach suchen. Ähm, was mich auch sehr fasziniert an dir, weil es geht ja bei der Integration und auch bei der Staatsbürgerschaft nicht nur um Sprache. Sprache ist ein wichtiger … hören, auch wenn man noch nicht alles versteht. Ja. Ja, natürlich. Und ich glaube, das ist auch ein Missverständnis. So sie, also ich glaube die alle Leute sagen, dass die das in Deutschland ist etwas Besonders und man kommt nicht äh dann muss immer nur Deutsch sprechen. Aber ich glaube in alle Ländern ist auch genauso. Unsere Nachbarn, die Franzosen sind auch genauso ein bisschen schwieriger, glaube ich. Und wie was meinst du? Also, dass man die Sprache braucht, um Menschen kennenzulernen oder? nicht neue Menschen um um rein in die Gesellschaft rein, also um in die Gesellschaft reinzugehen. … und mit also ein bisschen arbeiten. Hi hast dich ehrenamtlich engagiert in Deutschland. Ja, das ist auch eine von diesen Voraussetzungen oder gibt eine Möglichkeit sich schneller einbürgern zu lassen. Das stimmt. Von all diesen Sachen, die du machen musstest, um die Staatsbürgerschaft zu bekommen, was war denn besonders überraschend für dich? Also, du hattest ja vielleicht auch eine Vorstellung vorher, wie dieser Prozess ist der Integration in Deutschland. Ich glaube, überraschend war, wie schnell ist es bei mir alles also gut gelaufen ist. Ja, das war un unglaublich. Also unglaublich. … in Deutschland. Nee, nee, das wie läuft es ab, diese Zeremonie, diese Einbürgerungs äh ja, Urkunde in die Hand, fertig. Wir gehen rein. Äh, es gibt also einen Raum und äh wir sitzt wir man sitzt da und dann wartet und wurde man auch äh äh gerufen und dann gehen wir rein äh und dann sitzen wir und dann erklären wir ein paar Sachen und die sagen immer, jetzt darfst du die zwei Angehörig, also Staatsangehörigkeiten behalt behalten und ja, ich muss auch einen kleinen Text auch also laut lesen. Ah, so eine Art Schwur, dass man sich jetzt dem der deutschen Demokratie verpflichtet oder so. … System zur Gesellschaft. Welche Episode war das, Manuel? Wie hieß die? Die hieß: \"Wie schwer ist der deutsche Einbürgerungstest? Zwei Teile 648 und Episode 649.9 Rot emotional nimm uns mal mit. Manuel und ich sind hier geboren. Wir haben immer diesen Pass gehabt. Was bedeutet das für dich, diesen Pass zu haben?\" Ja, also natürlich ich will auch sagen, dass das geht um die Staatsangehörigkeit zuerst. Ja, weil natürlich es gibt andere Menschen, die sagen, okay, ich brauche den Pass, das ist praktisch, ich will auch viel reisen und so weiter, aber zuerst die Staatsangehöigkeit, dieses … Einbürgerungen in diesen letzten ein oder zwei Jahren als jemals zuvor, aber das war wegen auch, dass es nicht mehr 8 Jahre möglich ist. Also, also ich glaube, das war nach fünf und da gab es eine große Gruppe an Syrerinnen und Syrern, die sind 2 15 16 gekommen und die haben dann sind dann sozusagen alle auf einmal eingebürgert worden. Das stimmt. Aber du sagst, also von den Menschen, die sich überhaupt einbürgern wollen, sind das nur ein paar Prozent, die das nach 3 Jahren gemacht haben. Der Rest nach fünf. Ja, in meiner Umgebung. Ich ich kenne niemanden, der das gemacht hat. Ja. Kennst du … sind, ja, mit Videoproduzenten und vielen anderen Menschen. Und ihr bekommt aber auch ganz viel von uns. Zum Podcast bekommt ihr z.B. ein interaktives Transkript. Für unsere Videos bekommt ihr interaktive Übungen und und ihr könnt mit uns chatten, all dies und die Aftershow hören, die jetzt gleich noch kommt. Wir werden weitersprechen hier im Podcast und das kann man nur hören exklusiv als Mitglied. Auf easygerman.org/membership findet ihr alle Infos dazu und Rawat, vielen, vielen Dank, dass du zum zweiten Mal bei uns zu Gast warst hier im Podcast. Ich danke euch. Vielen, vielen Dank. Ciao.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -18065,7 +18201,7 @@
  "zjSNHlrBOII": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-08T15:28:27+00:00",
+  "checked": "2026-11-11T15:19:34+00:00",
   "title": "Total Beginner German | Comprehensible Input",
   "duration": 274,
   "published": "20220209",
@@ -18182,14 +18318,15 @@
     8
    ]
   ],
-  "tx": "hallo willkommen bei comprehensive german auf diesem kanal lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an ok los geht's heute schauen wir uns dieses bild an dieses bild auf diesem bild siehst du häuser die häuser ein rosa haus ein gelbes haus und ein blaues haus 1 23 häuser jedes haus hat ein dach das dach das rosa haus hat ein dach und das gelbe haus hat ein dach hat das blaue haus auch ein dach das blaue haus hat auch ein dach 123 dächer das dach ist oben auf dem haus oben das dach ist nicht unten und das dach ist oben das gelbe haus hat einen schornstein der schornstein aus dem schornstein kommt rauch der rauch hat das rosa haus einen schornstein nein das rosa haus hat keinen traunstein welches haus hat einen schornstein das gelbe haus hat einen schornstein kommt rauch aus dem schornstein ja aus dem schornstein kommt rauch das gelbe haus hat fenster das fenster die fenster hat das blaue haus auch fenster ja das blaue haus hat auch fenster alle drei häuser haben fenster wie viele fenster hat das gelbe haus das gelbe haus hat 17 fenster das rosa haus steht auf der linken seite das blaue haus steht auf der rechten seite das gelbe haus steht zwischen den blauen und der rosa haus es steht dazwischen steht das gelbe haus zwischen dem große haus und dem blauen haus ja das gelbe haus steht zwischen dem rosa haus und dem blauen haus steht das blaue haus zwischen dem rosa haus und dem gelben haus nein das blaue haus steht nicht zwischen dem rosa haus und im gelben haus das blaue haus steht auf der rechten seite oben im bild ist der himmel der himmel ist der himmel auf dem bild oben oder unten der himmel ist oben der himmel ist blau dieses haus ist auch blau b",
+  "tx": "hallo willkommen bei comprehensive german auf diesem kanal lernst du deutsch durch zuhören und zuschauen ganz einfach wenn du beim ersten mal noch nicht alles verstehst kein problem schau dir das video einfach ein paar mal an ok los geht's heute schauen wir uns dieses bild an dieses bild auf diesem bild siehst du häuser die häuser ein rosa haus ein gelbes haus und ein blaues haus 1 23 häuser jedes haus hat ein dach das dach das rosa haus hat ein dach und das gelbe haus hat ein dach hat das blaue haus auch ein dach das blaue haus hat auch ein dach 123 dächer das dach ist oben auf dem haus oben das dach ist nicht unten und das dach ist oben das gelbe haus hat einen schornstein der schornstein aus dem schornstein kommt rauch der rauch hat das rosa haus einen schornstein nein das rosa haus hat keinen traunstein welches haus hat einen schornstein das gelbe haus hat einen schornstein kommt rauch aus dem schornstein ja aus dem schornstein kommt rauch das gelbe haus hat fenster das fenster die fenster hat das blaue haus auch fenster ja das blaue haus hat auch fenster alle drei häuser haben fenster wie viele fenster hat das gelbe haus das gelbe haus hat 17 fenster das rosa haus steht auf der linken seite das blaue haus steht auf der rechten seite das gelbe haus steht zwischen den blauen und der rosa haus es steht dazwischen steht das gelbe haus zwischen dem große haus und dem blauen haus ja das gelbe haus steht zwischen dem rosa haus und dem blauen haus steht das blaue haus zwischen dem rosa haus und dem gelben haus nein das blaue haus steht nicht zwischen dem rosa haus und im gelben haus das blaue haus steht auf der rechten seite oben im bild ist der himmel der himmel ist der himmel auf dem bild oben oder unten der himmel ist oben der himmel ist blau dieses haus ist auch blau beide sind blau ist der himmel gelb oder blau der himmel ist blau danke fürs zuschauen und zuhören bis zum nächsten mal tschüss",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
  "pew42Zq8y1E": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-08T15:28:31+00:00",
+  "checked": "2026-11-11T15:19:38+00:00",
   "title": "Learn GERMAN super easy with Comprehensible Input",
   "duration": 366,
   "published": "20220131",
@@ -18290,7 +18427,8 @@
     5
    ]
   ],
-  "tx": "heute sehen wir uns dieses bild an dieses bild auf diesem bild siehst du ein kind das kind auf der rechten seite neben dem kind sitzt ein hund der hund der hund hat ein hut auf der hut der hut ist rot auf der linken seite neben dem kind steht ein glas das glas in dem glas ist wasser das wasser in dem glas mit masse steht eine blume die blume die blume ist gelb und grün die blume hat zwei blätter ein blatt zwei blätter das kind und der hund schauen die blume an wie du und ich wir schauen das bild an und das kind und der hund schauen die blumen über der blume ist eine wolke die wolke die wolke schwebt über die blume sie ist oben sie schwebt über der blume aus der wolke fällt regen der regen der regen fällt auf die blume und in das glas die blume und das glas sind unter der wolke sie sind unter der wolke die wolke ist über der blume und dem glas und die blume und dass das sind unter der burg kannst du diese fragen beantworten schaut das kind auf die blume oder auf den hund das kind schaut auf die uhr schaut der hund auch auf die blue ja der hund schaut auch auf die blume beide schauen auf die blume hat der hund einen hut auf oder eine wolke auf der hund hat einen hut auf der hut ist der hund neben dem kind oder über dem kind der hund neben dem kind ist das eine wolke oder ein glas das ist eine wolke kommt aus der wolke regen ja aus der wolke kommt fliegen kommen aus der wolke blumen ein aus der wolke kommen keine blumen was der wolke kommt regen hat diese blume ein blatt oder zwei blätter diplomat zwei blätter steht die blume in glas oder neben dem glas diplom steht im glas in dem glas im glas steht das glas unter der wolke oder über der wolke das glas steht unter der wolke spät die wolke über dem glas oder über den kind die wolke schwebt über dem glas worüber schwebt die ",
+  "tx": "heute sehen wir uns dieses bild an dieses bild auf diesem bild siehst du ein kind das kind auf der rechten seite neben dem kind sitzt ein hund der hund der hund hat ein hut auf der hut der hut ist rot auf der linken seite neben dem kind steht ein glas das glas in dem glas ist wasser das wasser in dem glas mit masse steht eine blume die blume die blume ist gelb und grün die blume hat zwei blätter ein blatt zwei blätter das kind und der hund schauen die blume an wie du und ich wir schauen das bild an und das kind und der hund schauen die blumen über der blume ist eine wolke die wolke die wolke schwebt über die blume sie ist oben sie schwebt über der blume aus der wolke fällt regen der regen der regen fällt auf die blume und in das glas die blume und das glas sind unter der wolke sie sind unter der wolke die wolke ist über der blume und dem glas und die blume und dass das sind unter der burg kannst du diese fragen beantworten schaut das kind auf die blume oder auf den hund das kind schaut auf die uhr schaut der hund auch auf die blue ja der hund schaut auch auf die blume beide schauen auf die blume hat der hund einen hut auf oder eine wolke auf der hund hat einen hut auf der hut ist der hund neben dem kind oder über dem kind der hund neben dem kind ist das eine wolke oder ein glas das ist eine wolke kommt aus der wolke regen ja aus der wolke kommt fliegen kommen aus der wolke blumen ein aus der wolke kommen keine blumen was der wolke kommt regen hat diese blume ein blatt oder zwei blätter diplomat zwei blätter steht die blume in glas oder neben dem glas diplom steht im glas in dem glas im glas steht das glas unter der wolke oder über der wolke das glas steht unter der wolke spät die wolke über dem glas oder über den kind die wolke schwebt über dem glas worüber schwebt die wolke die wolke schwebt über dem glas was schauen das kind und der hund an das kind und der hund schauen die blume an und was schauen wir an was schaust du an was schaue ich an wir schauen gemeinsam das bild an bis zum nächsten mal tschüss",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -18627,7 +18765,7 @@
  "Aryr1DcltTc": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-08T15:33:35+00:00",
+  "checked": "2026-11-11T15:25:22+00:00",
   "title": "Remote lesson 7 (Geschichte 74): Der Tag an dem Louis gefressen wurde",
   "duration": 1554,
   "published": "20200317",
@@ -18800,7 +18938,8 @@
     2
    ]
   ],
-  "tx": "die geschichte heißt der tag an dem louis gefressen wollte die sein lager titel ja ein langer name der tag an dem louis gefressen wurde es war einmal vor langer langer zeit ein junge namens louis neues manchmal dass es ja dass das so ist und der junge lewis hatte eine schwester und er hatte eine große schwester ja das ist lewis und lewis hatte eine große schwester die malerinnen die große schwester das ist die große schwester das ist lewis froh schwester und seine große schwester sarah sarah sarah war luises große schwester eines tages waren lois und sarah draußen im wald waren draußen draußen an der luft in der natur ja sie waren draußen sie waren nicht im haus sie waren draußen ja sie waren im wald draußen im wald ihr wisst ein bald das sind die wollen das ist und jeder geschichte ist einmal sie waren draußen gewalt und spielten ja doch unglücklicherweise und unglücklicherweise ja glücklicherweise unglücklicherweise wurde louis dort im wald von einem schluck gefressen einschlug hier ist ein monster das ist ein schmucker und der schlucker fraß der schlucker fraglos hier ist der schlachtung monster hat ein großer mund und lois in dem monster der schlug aber fraglos schlucker christ kleine füße ja das ist in schmucker unglücklicherweise wurde lewis auch von den starken gefressen der schlucker louis schlucker schlucken ist ich schlucke ich schlucke wasser ja der schlucker fast louis um nein aber die große schwester sarah blieb ganz sie wurde nicht nervös sie hatte keine angst sie blieb ganz ruhig sarah sie blieb still ich hätte vielleicht sehen wir nicht nervös sie blieb ruhig denn sarah wusste dass schlug ihre beute heute ist was ein tier frisst ja als jagd- und was das tier jagd ist die beute und hier ist low ist die bresche so ist es sie heute schon ein doch sarah wuss",
+  "tx": "die geschichte heißt der tag an dem louis gefressen wollte die sein lager titel ja ein langer name der tag an dem louis gefressen wurde es war einmal vor langer langer zeit ein junge namens louis neues manchmal dass es ja dass das so ist und der junge lewis hatte eine schwester und er hatte eine große schwester ja das ist lewis und lewis hatte eine große schwester die malerinnen die große schwester das ist die große schwester das ist lewis froh schwester und seine große schwester sarah sarah sarah war luises große schwester eines tages waren lois und sarah draußen im wald waren draußen … schluck gefressen einschlug hier ist ein monster das ist ein schmucker und der schlucker fraß der schlucker fraglos hier ist der schlachtung monster hat ein großer mund und lois in dem monster der schlug aber fraglos schlucker christ kleine füße ja das ist in schmucker unglücklicherweise wurde lewis auch von den starken gefressen der schlucker louis schlucker schlucken ist ich schlucke ich schlucke wasser ja der schlucker fast louis um nein aber die große schwester sarah blieb ganz sie wurde nicht nervös sie hatte keine angst sie blieb ganz ruhig sarah sie blieb still ich hätte vielleicht … wie der wolf in rotkäppchen normalerweise fraßen schlucker die beute an einem stück lewis ist an einem stück es nicht in viele stücke sie fraßen die beute an einem stück und so wusste sarah wenn sie schnell ist wenn sie sich bereit sie musste sich beeilen ist eine schnell schnell schnell machen muss dann musst du dich deine und sarah wusste wenn sie sich beeilt dann konnte sie louis vielleicht das nicht sicher vielleicht befreien ja sie musste sich beeilen um lewis zu befreien befreien es auch was bei rotkäppchen der jäger machte jäger befreit rotkäppchen aus dem bach und hier will sarah … da etwas im wald und steckt es sich steckte sich etwas in die tasche gesteckt die sich etwas in die tasche und dann verfolgte sie den schlucker sarah katze den schlucker fasst sie hat ihn fast eingeholt sie fast fast da wo der stocker war sie hatte ihn fast 18 war sie der schluga eingeholt es eine rente und ist hier und der zweite kommt jetzt hat er ihn eingeholt ja sie hatte ihn fast eingeholt doch da unglücklicherweise wurde der schluck von einem grapscher gefressen hier ist der gramzower auto verharrte und kleine augen das ist der grapscher und der glescher der gewalt gab schöne so kapsch … an seinem bett der tochter einlässt und der gletscher war fast in seinem es unglücklicherweise wurde der grapscher von einem säbelzahn schlinger aufgefressen er wurde auch aufgefressen von einem säbelzahn schlinger sieben zähler sind solche zählen große große zähne ja das ist der see er hat auch hier zählen das ist er selena dann sehen wir nur der sophos man sieht nicht viel ja das ist derselbe zahn schwenger derselben zahl schlinger 4 das sind 7 in den szenen hier der säbelzahn lena der serbe zahlen schläger schwingen ist wenn du schnell ist dann kommt dann schlägst du das essen ja er … naja so groß fast mal so das sind dornen wie eine rose ja das sind doch das ist der dom rücken hätte es hier so lange da ist der mund da sind alle im 3 ja das ist der 30 schäfer und der säbelzahn schlinger wurde unglücklicherweise von einem den rücken der rücken dorn rücken für farbe gefressen schnüffeln es wenn die duh ist eine suppe und du stürzt das ist dürfen ja ein dorn rückenschläfer daran sind und dem dritten schiff führt war er sie verfolgte den dritten schäfer und dr er ist glücklicherweise bis in seine höhle ist die löhne und der dom rückenschläfer wurde nicht gefressen er schaffte … mensch ist kein mund essen ein sie kletterte das maul des toren rückenschläfer und dann kletterte sie eben aus mal dasselbe zahn schlinger und da kletterte sie in das maul des grabs und schließlich endlich kletterte sarah in das maul des schlummer auch vom schlucker saß er sitzt jetzt hier saß ruhig saß im bauch des schlucker und sasa sarah kam ihr ein sarah ist jetzt hier drin er sah war und lächelte und louis sagte da bist du ja ich wusste dass du kommst ich wusste dass du kommst ich wusste du hilfst mir ja aber da war wie kommen wir wieder aus dem bauch wie kommen wir raus ja wir sind … ist dass das ist ein schluckauf und da ist nur ein schluckauf vorschlag zeigte den schluckauf vorstellungs und sagte schau ich habe den stück auf frosch draußen im wald gefunden er wird uns helfen pass auf schaut zu passiv ja das auch hier komm ich zeig dir hier kommt und dann ließ sie den frosch los und in dem moment wo der frosch kreuz und quer und kreuz und quer durch den magen des schluckt das erhoffte holz und quer der hüfte kreuz und quer im magen des schlusstags platz nicht viel der schluckt er fing an zu zucken und er fängt alles okay er fing an zu zucken und nach einer weile nach … wort für monster und die monster die fingen an alle zu fixen es ist ein schluckauf zu bekommen und zu rülpsen und sie alle aus der douane rückenschläfer den säbel zahlen schlimmer aus der sie edelfan schlinger produkte den glockner aus und machen xx der grazer spuckte den schluckauf und der schluckte endlich louis saha und den schluckauf frosch jetzt waren alle aus dem bauch alle waren befreit keiner ist mehr im alle waren sarah und lewis waren nicht mehr im bau ja und der schluckauf roche hier war auch hier ein kleiner ist ja eigentlich klein sie waren nicht mehr im bauch sie waren … hatten alle heuer hatten einen ehren hunger sie hatten einen riesenhunger waren so hungrig sie hatten einen bärenhunger und sie schauten auf die kinder und legten sich die lippen da schrien louis erschwert brüllt ein löwe brüllt und los brüllt von meiner schwester finger weg von meiner schwester oder ich fress die ungeheuer schauten auf lewis und ergriffen die flucht sie rannten alle weg sie ergriffen die flucht ja die flucht ergreifen ist man rennt man hat angst und mann flüchtete und rennt weg sie ergriffen alle die flucht flucht und sagte danke und sarah und louis gingen nach hause das in",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -20146,7 +20285,7 @@
  "rYWdcMAGVfE": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-09T02:45:12+00:00",
+  "checked": "2026-11-11T15:12:01+00:00",
   "title": "What to Say When Shopping in Germany (With Real-Life Dialogue!)",
   "duration": 651,
   "published": "20260115",
@@ -20319,7 +20458,8 @@
     4
    ]
   ],
-  "tx": "Hallo, kann ich Ihnen helfen? Oh ja, bitte. Haben Sie diesen Pullover auch in der Größe es? Leider nicht. Nur die Größen, die hier hängen. Ah, okay. Na ja, gut, dann probiere ich den mal an. Der wird passen. Und wo sind die Umkleidekabinen? Die Umkleidekabinen sind da hinten in der Ecke. Da steht Anprobe oben drüber. Ah ja, vielen Dank. Gerne. Hallo, alles gut bei Ihnen? Kann ich Ihnen helfen? Ja, bitte. Haben Sie dieses T-Shirt auch etwas größer? Ja, das ist wirklich sehr eng. Ich schaue mal nach. Auf jeden Fall haben wir das größer. Ja, das sitzt wirklich sehr eng. Und äh haben Sie diese Hose vielleicht noch in einer anderen Farbe, etwas helleres? Oh ja, ich glaube, wir haben die noch in einem helleren Grün. Ich würde es ihn bringen. Oh, vielen Dank. Sehr gerne. Bis gleich. So, heute gehen wir ins Kleidungsgeschäft. will go kleidungsgeschäft ja often bekleidungsgeschäft sokkleidungsgeschäft what we also informally actually what would of klamotten the same as close klamott very informal sometimes ist klamottenladen der laden ist das same das gesch means der Laden oder das Geschäft. By the way, if you want to get PDF for free worksheet, check the link in the description you can download it for free. You get the transcript also more common phrases, ja will talk about also in this video. And you also get exercises, Übungen exercises, ja, which you can do. solution. Okay. Alri, los geht's. Hallo, kann ich Ihnen helfen? Can I help you formally? Ja, ist formally. How would you say this informally? Kann ich dir helfen? Kann ich dir helfen? Ja, bitte. Haben Sie diesen Pullover auch in der Größe S? Die Größe ist ein z.B. Ich trage die Größe M. I wear the size M. Leider nicht. Very good, Chunk. Unfortunately not. Leider der nicht. Nur die Größen, die hier hängen. Only the sizes ",
+  "tx": "Hallo, kann ich Ihnen helfen? Oh ja, bitte. Haben Sie diesen Pullover auch in der Größe es? Leider nicht. Nur die Größen, die hier hängen. Ah, okay. Na ja, gut, dann probiere ich den mal an. Der wird passen. Und wo sind die Umkleidekabinen? Die Umkleidekabinen sind da hinten in der Ecke. Da steht Anprobe oben drüber. Ah ja, vielen Dank. Gerne. Hallo, alles gut bei Ihnen? Kann ich Ihnen helfen? Ja, bitte. Haben Sie dieses T-Shirt auch etwas größer? Ja, das ist wirklich sehr eng. Ich schaue mal nach. Auf jeden Fall haben wir das größer. Ja, das sitzt wirklich sehr eng. Und äh haben Sie diese … ja often bekleidungsgeschäft sokkleidungsgeschäft what we also informally actually what would of klamotten the same as close klamott very informal sometimes ist klamottenladen der laden ist das same das gesch means der Laden oder das Geschäft. By the way, if you want to get PDF for free worksheet, check the link in the description you can download it for free. You get the transcript also more common phrases, ja will talk about also in this video. And you also get exercises, Übungen exercises, ja, which you can do. solution. Okay. Alri, los geht's. Hallo, kann ich Ihnen helfen? Can I … Very good, Chunk. Unfortunately not. Leider der nicht. Nur die Größen, die hier hängen. Only the sizes which are hanging here. Hangen the ones we have. Ah, na gut. Na ja, gut. Ah, das ist good one. Dann probiere ich den mal an. So, first of all, these two belong together. Ja, anprobieren means to try on. I am trying on something. And the an goes to the end. Anprobieren. I probiere das an. Now what is interesting hier is that anprobieren takes the accusative. So den refers to diesen Pullover. This pulover. Das ist what this refers to basically this is the same thing. They belong together. Ja, … this one fits me? This pullover fits me. We would say der pullover passt mir. It fits me. This comes with the dattive case. So this is just for you to learn. Und wo sind die Umkleidabinen? Let's say this one together. Umkleidekabinen. This means the changing rooms. It's the same word. Kleide ist the same in Kleidungsgeschäft. So, this has something to do with clothes and kabinen these little rooms basically. Die Umkleidekabinen sind da hinten in der Ecke. In der Ecke ist also a good chunk. You can remember. Das ist like in the corner. Da steht Anprobe oben drüber. Wenn der ist written … ich Ihnen od dir informel kann ich Ihnen helfen? Ja, bitte haben Sie dieses T-Shirt auch etwas größer? This is also a very good chunk. You can remember. Ja, etwas größer. A little bit bigger. Etwas can mean something, but it can also mean a little bit. Z.B. Ich sage etwas. This means I say something. But when I say ich spreche etwas Englisch, I speak a little bit of English. I spreche etwas Englisch. denn the same as ein bisschen Englisch. So in das Sense hier etwas ist the same as ein bisschen. A little bit. Ja, das ist wirklich sehr eng. Das ist a good vocabulary. Eng te. Ich schaue … haben das T-Shirt biger größer. Ja, das sitzt wirklich sehr eng. Und haben Sie diese Hose vielleicht noch in einer anderen Farbe, etwas helleres? So hell in German, this is a bit funny. It's not like in English hell, it's a fast friend. It means actually light. So for example when you say hellblau, this is like a light blue, hell blau. And what is the opposite? What is the opposite of hellblau? Dunkelblau, dark blue. These are just some things you can remember. So hell is really not like in English. In einer anderen Farbe, in another color. I glaube wir haben die noch in einem helleren … würde es ihnen bringen. Whatever we talking about. So, but if it was super correct, German, she would say ich würde sie ihnen bringen. Referring to the pants because we were talking about the pants. Vielen Dank. Sehr gerne. Danke schön. Bis gleich. Bis gleich. See you soon. Okay. Now, some other phrases. Ja, that very useful for you. This one we already had. Hallo, kann ich Ihnen helfen? Can I help you? Ich schaue nur. Also very important. When you go to shop and talk to you, I schaue nur. Ich schaue nur oder ich gucke nur. Some people might also say, ich schaue mich nur um. Um means like … Sie das? Whatever you having in your hands in another size? Gibt es das so? Gibt es again, this is a very good chunk, dass eine Nummer größer oder kleiner? Ja, one size bigger smaller, größer oder kleiner, das ist mir zu eng, das ist mir zu weit, das ist mir zu lang, das ist mir zu kurz. Das sitzt ja sitzen actually ich sitze gerade. I am just sitting. But you can also use it for close. Das sitzt gut. Ja. It's sitting well. It fits well. Perfekt. Nicht so gut. Kann ich das anprobieren? Anprobieren. Can I try this on? Wo sind die Umkleidabinen? Very good word. Kann ich das kurz anziehen? Can … And this um is usually it has something to do with change. And that's war also called umkleidekabinen. It's the changing room, the fitting room. Haben Sie das auch in einer anderen Farbe? Do you also have this in another color? Etwas helleres. Ja, leider dunkleres. Bitte gibt es das auch in schwarz, blau, grün? Was ist das für eine Farbe? Orange. Do you also have it in orange? And so on. Wie viel kostet das? How much is you could also say instead of you can also say was kostet das? Das ist mir zu teuer. Too expensive. Good chunk. Zu teuer. Ich nehme das. I will take it. This is also very … why we have the mir ich überlege es mir noch just remember it as a chunk and the last bit kann ich mit Karte zahlen can I pay by card mit Karte zahlen. Very good Chunk brauchen Sie eine Quittung? This is also a good one. Remember this because they say this a lot. Möchten Sie eine Tüte? Tüte. Tüte ist a. Möchten Sie eine Tüte? And then you get exercises hier. Hier kommen immer Übungen that you can practice a little bit. The solutions are also underneath. If you want download this, the link is in the description for free. And you also get PDFs for all my other videos. Danke schön und tschüss.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },

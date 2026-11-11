@@ -9582,7 +9582,7 @@
  "-W8-7yl0yDY": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-05T16:09:24+00:00",
+  "checked": "2026-11-11T15:28:12+00:00",
   "title": "Boris’ Wettrennen | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260803",
@@ -9590,73 +9590,10 @@
   "spoken_v": 2,
   "pace": 120.8,
   "rare": 0.1073,
+  "var": 0.8162,
   "speech_s": 935.0,
   "tokens": 1883,
   "kw": [
-   [
-    "karotten",
-    "keine Karotten mehr hatte. Miffy liebte",
-    756,
-    763,
-    3.42,
-    16
-   ],
-   [
-    "schnuffi",
-    "Auf einmal kam Schnuffi an ihr vorbei",
-    5,
-    10,
-    2.06,
-    7
-   ],
-   [
-    "poppy",
-    "hat\", sagte Miffy, \"Poppy Pig. Poppy hat",
-    774,
-    781,
-    2.73,
-    8
-   ],
-   [
-    "boris",
-    "Als erstes rief Miffy ihren Freund Boris",
-    38,
-    43,
-    4.02,
-    22
-   ],
-   [
-    "schachtel",
-    "Miffy beschloss, eine hübsche Schachtel für ihre Mutter zu basteln.",
-    275,
-    285,
-    3.51,
-    8
-   ],
-   [
-    "tante",
-    "Tante Alice ihren neuen Tanz üben.",
-    510,
-    516,
-    4.18,
-    19
-   ],
-   [
-    "alice",
-    "Tante Alice ihren neuen Tanz üben.",
-    510,
-    516,
-    4.19,
-    18
-   ],
-   [
-    "wedelte",
-    "\"Achtung, fertig, los!\" und wedelte mit",
-    100,
-    108,
-    2.19,
-    3
-   ],
    [
     "sagte",
     "laufen als ich\", sagte Miffy. \"Bei einem Wettrennen würde ich immer",
@@ -9682,14 +9619,6 @@
     14
    ],
    [
-    "barbara",
-    "Barbara hielt die Startflagge hoch. Sie rief:",
-    95,
-    105,
-    4.35,
-    9
-   ],
-   [
     "konnte",
     "konnte wirklich nicht gut laufen und",
     119,
@@ -9698,39 +9627,143 @@
     8
    ],
    [
-    "fuss",
-    "",
-    0,
-    0,
-    4.81,
+    "schild",
+    "Ein blaues Schild, ein gelbes Schild, ein rotes Schild, ein",
+    72,
+    83,
+    4.26,
+    13
+   ],
+   [
+    "barbara",
+    "Barbara hielt die Startflagge hoch. Sie rief:",
+    95,
+    105,
+    4.35,
+    9
+   ],
+   [
+    "lief",
+    "Eines Tages lief Miffy sehr schnell von",
+    1,
+    6,
+    4.69,
+    6
+   ],
+   [
+    "garten",
+    "Garten. Die Mutter guckte in die Hundehütte und",
+    463,
+    476,
+    4.73,
+    5
+   ],
+   [
+    "boris",
+    "Als erstes rief Miffy ihren Freund Boris",
+    38,
+    43,
+    4.02,
+    22
+   ],
+   [
+    "tante",
+    "Tante Alice ihren neuen Tanz üben.",
+    510,
+    516,
+    4.18,
+    19
+   ],
+   [
+    "alice",
+    "Tante Alice ihren neuen Tanz üben.",
+    510,
+    516,
+    4.19,
+    18
+   ],
+   [
+    "melanie",
+    "Es waren Miffy, Aggie, Melanie, Grunty",
+    88,
+    96,
+    3.85,
+    7
+   ],
+   [
+    "karotten",
+    "keine Karotten mehr hatte. Miffy liebte",
+    756,
+    763,
+    3.42,
+    16
+   ],
+   [
+    "schachtel",
+    "Miffy beschloss, eine hübsche Schachtel für ihre Mutter zu basteln.",
+    275,
+    285,
+    3.51,
     8
    ],
    [
-    "laufen",
-    "laufen als ich\", sagte Miffy. \"Bei einem Wettrennen würde ich immer",
-    16,
-    23,
-    5.05,
+    "winnie",
+    "Winnie. Sie konnte sehr gut auf einem",
+    523,
+    529,
+    3.08,
+    4
+   ],
+   [
+    "roch",
+    "die Schachtel nach der Wurst roch, die",
+    334,
+    340,
+    3.45,
+    3
+   ],
+   [
+    "poppy",
+    "hat\", sagte Miffy, \"Poppy Pig. Poppy hat",
+    774,
+    781,
+    2.73,
+    8
+   ],
+   [
+    "schnuffi",
+    "Auf einmal kam Schnuffi an ihr vorbei",
+    5,
+    10,
+    2.06,
     7
    ],
    [
-    "bild",
-    "das Bild auf den Lieblingsstuhl ihrer Mutter.",
-    360,
-    366,
-    5.4,
-    7
+    "wettrennen",
+    "\"Bei einem Wettrennen würde ich immer",
+    19,
+    23,
+    2.93,
+    4
+   ],
+   [
+    "guckte",
+    "Als sie in die Schüssel guckte, sah sie",
+    416,
+    423,
+    2.87,
+    3
    ]
   ],
-  "tx": "Eines Tages lief Miffy sehr schnell von der Schule nach Hause. Auf einmal kam Schnuffi an ihr vorbei gerannt und war vor ihr an der Haustür. \"Schnuffi, du kannst viel schneller laufen als ich\", sagte Miffy. \"Bei einem Wettrennen würde ich immer verlieren.\" Sie ging ins Haus und hatte plötzlich eine Idee. \"Wir könnten mit all unseren Freunden ein Wettrennen veranstalten\", sagte sie zu ihrer Mutter. \"Und Vater und du, ihr könnt zugucken.\" Als erstes rief Miffy ihren Freund Boris Bär an. \"Boris\", sagte sie, \"ich möchte ein Wettrennen organisieren. Dafür brauchen wir Schilder, damit wir wissen, wohin wir laufen müssen.\" Boris sagte: \"Nun, Miffy, ich kann nicht gut laufen, aber ich mache dir gerne richtige Wegweiser.\" Dann rief Miffy ihre anderen Freunde an und erzählte ihnen, was sie vorhatte. Der große Tag war gekommen. Boris hatte alle Schilder fertig und steckte sie so in die Erde, dass sie die Richtung anzeigten. Ein blaues Schild, ein gelbes Schild, ein rotes Schild, ein grünes Schild und als letztes ein weißes Schild. Die Läufer hatten sich an der Startlinie versammelt. Es waren Miffy, Aggie, Melanie, Grunty und Boris. Barbara hielt die Startflagge hoch. Sie rief: \"Achtung, fertig, los!\" und wedelte mit der Flagge. Und los ging's. Alle liefen so schnell sie konnten. Wer würde gewinnen? Zuerst kamen sie am blauen Schild vorbei. Aggie war vorne. Boris versuchte mitzuhalten, aber er konnte wirklich nicht gut laufen und fiel immer weiter zurück. Als sie am gelben Schild vorbei liefen, war Granti die erste. Als nächstes kam das rote Schild. An dem lief Melanie als erste vorbei. Und dann kam das grüne Schild und die erste, die daran vorbei lief, war Miffy. Inzwischen waren Miffys Eltern angekommen. Sie hielten mit ihrem Auto genau vor dem weißen Schild an. Plötzlich blieben",
+  "tx": "Eines Tages lief Miffy sehr schnell von der Schule nach Hause. Auf einmal kam Schnuffi an ihr vorbei gerannt und war vor ihr an der Haustür. \"Schnuffi, du kannst viel schneller laufen als ich\", sagte Miffy. \"Bei einem Wettrennen würde ich immer verlieren.\" Sie ging ins Haus und hatte plötzlich eine Idee. \"Wir könnten mit all unseren Freunden ein Wettrennen veranstalten\", sagte sie zu ihrer Mutter. \"Und Vater und du, ihr könnt zugucken.\" Als erstes rief Miffy ihren Freund Boris Bär an. \"Boris\", sagte sie, \"ich möchte ein Wettrennen organisieren. Dafür brauchen wir Schilder, damit wir wissen, … los!\" und wedelte mit der Flagge. Und los ging's. Alle liefen so schnell sie konnten. Wer würde gewinnen? Zuerst kamen sie am blauen Schild vorbei. Aggie war vorne. Boris versuchte mitzuhalten, aber er konnte wirklich nicht gut laufen und fiel immer weiter zurück. Als sie am gelben Schild vorbei liefen, war Granti die erste. Als nächstes kam das rote Schild. An dem lief Melanie als erste vorbei. Und dann kam das grüne Schild und die erste, die daran vorbei lief, war Miffy. Inzwischen waren Miffys Eltern angekommen. Sie hielten mit ihrem Auto genau vor dem weißen Schild an. Plötzlich blieben … sie konnten. Miffy kam als erste über die Ziellinie. Aber natürlich viel, viel später als Boris. \"Wie hast du den Weg zum Ziel so schnell gefunden, Boris?\", fragte Granti. \"Wir wussten nicht, wo wir hinlaufen sollten.\" \"Tja, ich wusste ja, wo das Schild war, denn ich habe es ja selbst dahin gesteckt\", sagte Boris. \"Aber Boris\", sagte Barbara, \"das ist den anderen gegenüber nicht gerecht. Ich bin ja gar nicht gelaufen, um zu gewinnen, sagte Boris. Ich bin ja schon froh, dass ich die Strecke überhaupt geschafft habe. Miffy hat den Wettlauf gewonnen. Sie waren alle Gewinner, denn das … leuchtend rotes Papier und schnitt ein Herz aus. Das Herz klebte sie auf den Deckel der Schachtel. Auf dem Heimweg blieb Miffy stehen und packte die blaue Schachtel in ihre Frühstücksdose, damit ihre Mutter sie nicht finden konnte. Es sollte ja eine Überraschung sein. \"Ich verstecke das Geschenk unter meinem Bett\", dachte sie. \"Und ich male Bilder, auf denen sie sehen kann, wo sie suchen muss.\" Als Miffy die blaue Schachtel aus der Frühstücksdose nahm, merkte sie, dass die Schachtel nach der Wurst roch, die sie in der Pause gegessen hatte. Auch Schnuffi roch die Wurst und kam angelaufen. … Möchtest du dich nicht auf deinen Lieblingsstuhl setzen?\" Als die Mutter das Bild von der Schüssel auf dem Stuhl sah, musste sie lachen. \"Ich weiß, was das bedeutet\", sagte sie. \"Das heißt, ich soll in der Schüssel nachsehen.\" Als sie in die Schüssel guckte, sah sie das Bild von der Spielkiste. Sie sah in der Spielkiste nach und fand das Bild von Miffys Bett. Die Mutter guckte unter Miffys Bett und Miffy konnte es kaum erwarten zu sehen, wie ihre Mutter sich freuen würde, wenn sie die schöne blaue Schachtel sah. Aber unter Miffys Bett war nichts. Noch nicht mal ein Bild. \"Wo soll ich jetzt … sie mit ihrer Tanzgruppe in der Tanzstunde bei Tante Alice ihren neuen Tanz üben. Als der Unterricht zu Ende war, trafen sich die Mädchen aus der Tanzgruppe draußen vor der Schule. Als erste kam Winnie. Sie konnte sehr gut auf einem Bein tanzen. Dann kam Melanie, die sich wunderschön drehen konnte. \"Wo ist Grunty?\", fragte Miffy. \"Sie kann am allerbesten springen.\" Da kam Grunty schon. Aber Grunty sprang nicht, sie humpelte. \"Oh nein\", sagte Miffy, \"was ist mit dir los, Grunty? Warum humpelst du?\" \"Es ist auf dem Spielplatz passiert\", sagte Grunty. \"Ich bin von der Schaukel gefallen und … dass Grantie ihren Fuß verstaucht hatte, wusste sie sofort, was zu tun war. \"Ich hole einen kalten, nassen Umschlag und lege den um deinen Fuß, Grantie\", sagte Tante Alice. \"Davon geht die Schwellung zurück.\" Grantie saß auf einem Stuhl und ihr Fuß lag auf einem Kissen. Der Fuß tat nicht mehr weh, aber sie war enttäuscht, dass sie nicht mittanzen konnte. Mephi, Winnie und Melanie übten ihre Schritte, aber es machte keinen Spaß ohne Grantie. \"Seid nicht traurig, Kinder\", sagte Tante Alice, \"es ist nicht so schlimm. Ich habe eine besondere Salbe für Granties Fuß und ich glaube, sie wird … Sprünge quer über die Bühne. Es gab großen Beifall. Bravo, bravo. Granty sagte: \"Es hat überhaupt nicht weh getan. Das habe ich Tante Alice zu verdanken.\" Eines Morgens wollte Miffys Mutter das Frühstück machen, als sie sah, dass sie keine Karotten mehr hatte. Miffy liebte Karotten zum Frühstück. \"Ich war schon ganz früh auf dem Markt\", sagte die Mutter, \"aber die Karotten waren ausverkauft. Es gab keine einzige Karotte mehr.\" \"Ich weiß, wer Karotten in ihrem Garten hat\", sagte Miffy, \"Poppy Pig. Poppy hat einen schönen Garten, in dem viele Karotten wachsen. Ich bin sicher, sie wird dir … es viele Wochen, bis es richtige Karotten sind. Da kam Tante Alice. Sie trug zwei schwere Körbe. Hallo, Miffy, hallo, Poppy. Ich habe heute Morgen auf dem Markt alle Karotten gekauft. Ich möchte etwas Besonderes daraus machen. Ihr seid beide zum Abendessen eingeladen und ihr könnt auch eure Freunde mitbringen, sagte sie. Dann ging Tante Alice nach Hause. Miffy und Poppy konnten kaum erwarten, dass es Abend wurde. Da kamen Boris und Barbara Bär vorbei. Ihr seid heute Abend bei Tante Alice zu einem Karottenessen eingeladen, sagte Miffy. Wir essen nicht so gerne Karotten, sagte Boris. Aber … Das riecht wundervoll, sagte Barbara. Das sind bestimmt keine Karotten, sagte Boris. Vielleicht kocht sie etwas anderes. Als alle am Tisch waren, brachte Tante Alice ihnen Karottensuppe, Karottenbrot, Karottenpastete und Karottensaft. Ihr solltet es mal probieren, sagte Tante Alice. Boris und Barbara schmeckte es wirklich sehr gut. Hier habe ich noch einen Karottennachtisch für euch, sagte Tante Alice. Hurra, freute sich Boris, ein richtiges Karottenfest. Als sie nach Hause gingen, sagte Boris zu Barbara, das hat so gut geschmeckt. Wir werden jetzt auch Karotten in unserem Garten pflanzen.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8052
+  "src": "auto"
  },
  "J5XzwxKPYCo": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-06T02:24:53+00:00",
+  "checked": "2026-11-11T15:22:49+00:00",
   "title": "BEGINNER German Listening Practice - describing everything I see / Easy German comprehensible Input",
   "duration": 857,
   "published": "20260725",
@@ -9738,81 +9771,10 @@
   "spoken_v": 2,
   "pace": 62.5,
   "rare": 0.0877,
+  "var": 0.6769,
   "speech_s": 798.2,
   "tokens": 832,
   "kw": [
-   [
-    "müllcontainer",
-    "Hinter mir sind drei Müllcontainer. Ein blauer Müllcontainer,",
-    377,
-    390,
-    2.72,
-    7
-   ],
-   [
-    "subscriber",
-    "Unsere Patreon Subscriber sind super.",
-    636,
-    647,
-    2.52,
-    5
-   ],
-   [
-    "patreon",
-    "Unsere Patreon Subscriber sind super.",
-    636,
-    647,
-    2.56,
-    5
-   ],
-   [
-    "palina",
-    "Aber ich fahre gerne mit Palina.",
-    225,
-    237,
-    2.4,
-    4
-   ],
-   [
-    "zebrastreifen",
-    "Hier ist ein Zebrastreifen. Das ist ein Zebrastreifen.",
-    231,
-    249,
-    3.12,
-    5
-   ],
-   [
-    "parkt",
-    "Das Auto parkt. Parken bedeutet",
-    48,
-    59,
-    3.2,
-    5
-   ],
-   [
-    "essig",
-    "Jetzt nehme ich den Essig und lege den",
-    358,
-    366,
-    3.56,
-    6
-   ],
-   [
-    "baumstumpf",
-    "Das ist ein Baumstumpf. Dieser Baumstumpf",
-    681,
-    695,
-    2.57,
-    3
-   ],
-   [
-    "baum",
-    "Ich stehe auf dem Baum. Dieser Baum ist nicht senkrecht.",
-    729,
-    746,
-    4.62,
-    11
-   ],
    [
     "auto",
     "Ich sehe ein silbernes Auto. Das Auto parkt.",
@@ -9828,14 +9790,6 @@
     688,
     5.52,
     7
-   ],
-   [
-    "gekauft",
-    "und ich zeige euch, was ich gekauft",
-    477,
-    485,
-    4.77,
-    6
    ],
    [
     "gehe",
@@ -9854,12 +9808,28 @@
     5
    ],
    [
-    "sehe",
-    "Und ich sage, was ich sehe.",
-    28,
-    43,
-    5.18,
-    5
+    "baum",
+    "Ich stehe auf dem Baum. Dieser Baum ist nicht senkrecht.",
+    729,
+    746,
+    4.62,
+    11
+   ],
+   [
+    "gekauft",
+    "und ich zeige euch, was ich gekauft",
+    477,
+    485,
+    4.77,
+    6
+   ],
+   [
+    "portugal",
+    "In Portugal gibt es ganz, ganz viele",
+    285,
+    294,
+    4.23,
+    6
    ],
    [
     "milch",
@@ -9868,12 +9838,108 @@
     359,
     4.51,
     5
+   ],
+   [
+    "supermarkt",
+    "Supermarkt. Und ich sage, was ich sehe.",
+    26,
+    43,
+    4.17,
+    4
+   ],
+   [
+    "wolken",
+    "sind Wolken. Ich kann kein Blau",
+    103,
+    115,
+    4.17,
+    2
+   ],
+   [
+    "lege",
+    "Ich nehme die Milch und lege die Milch",
+    351,
+    359,
+    4.06,
+    2
+   ],
+   [
+    "korb",
+    "in den Korb. Jetzt nehme ich den Essig und lege den",
+    355,
+    366,
+    3.87,
+    2
+   ],
+   [
+    "essig",
+    "Jetzt nehme ich den Essig und lege den",
+    358,
+    366,
+    3.56,
+    6
+   ],
+   [
+    "parkt",
+    "Das Auto parkt. Parken bedeutet",
+    48,
+    59,
+    3.2,
+    5
+   ],
+   [
+    "zebrastreifen",
+    "Hier ist ein Zebrastreifen. Das ist ein Zebrastreifen.",
+    231,
+    249,
+    3.12,
+    5
+   ],
+   [
+    "senkrecht",
+    "Dieser Baum ist nicht senkrecht. Dieser Baum ist waagerecht.",
+    734,
+    746,
+    3.59,
+    4
+   ],
+   [
+    "müllcontainer",
+    "Hinter mir sind drei Müllcontainer. Ein blauer Müllcontainer,",
+    377,
+    390,
+    2.72,
+    7
+   ],
+   [
+    "patreon",
+    "Unsere Patreon Subscriber sind super.",
+    636,
+    647,
+    2.56,
+    5
+   ],
+   [
+    "subscriber",
+    "Unsere Patreon Subscriber sind super.",
+    636,
+    647,
+    2.52,
+    5
+   ],
+   [
+    "palina",
+    "Aber ich fahre gerne mit Palina.",
+    225,
+    237,
+    2.4,
+    4
    ]
   ],
-  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Ich gehe zum Supermarkt. Und ich sage, was ich sehe. Ich zeige euch alles, was ich sehe. Ich sehe ein silbernes Auto. Das Auto parkt. Parken bedeutet nicht fahren. Das Auto fährt nicht. Es parkt. Das Auto parkt auf der Straße. Und neben der Straße stehen Bäume. Ich mag diese Bäume sehr. Ich finde, sie sind schön. Ich finde, die Bäume sind schön. Der Himmel ist ganz weiß. Überall sind Wolken. Ich kann kein Blau und keine Sonne sehen. Im Himmel sind nur weiße Wolken. Keine Sonne und kein blauer Himmel. Ich sehe einen großen Hund. Das ist ein besonders freundlicher Hund. Der Hund ist sehr niedlich. Dieses Auto parkt auch. Aber dieses Auto ist nicht silber. Dieses Auto ist beige. Ich gehe auf der Straße. Das Material ist Asphalt. Ich gehe auf der Asphaltstraße. Es gibt keine Autos. Die Straße ist leer. Niemand fährt mit dem Auto. Ich bin allein. Hier parkt ein grauer Motorroller. Ich fahre sehr gerne mit dem Motorroller. Aber ich habe keine Übung. Ich traue mich nicht. Ich brauche mehr Erfahrung. Ich muss mehr üben. Aber ich fahre gerne mit Palina. Hier ist ein Zebrastreifen. Das ist ein Zebrastreifen. Der Name kommt von dem Tier. Das Zebra. Hier ist noch ein Zebrastreifen. Man kann auch Fußgängerüberweg sagen. Aber Zebrastreifen ist einfacher. Der Zebrastreifen ist neben einem Kreisverkehr. Hier fahren die Autos im Kreis. In Portugal gibt es ganz, ganz viele Kreisverkehre. Sie sind sehr häufig. In Deutschland gibt es auch Kreisverkehre, aber nicht so oft wie in Portugal. In Portugal sind sie häufiger. Jetzt gehe ich kurz in den Supermarkt und dann gehen wir zurück nach Hause. Ich schneide das Brot in der Brotschneidemaschine. Das Brot wird gesc",
+  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Ich gehe zum Supermarkt. Und ich sage, was ich sehe. Ich zeige euch alles, was ich sehe. Ich sehe ein silbernes Auto. Das Auto parkt. Parken bedeutet nicht fahren. Das Auto fährt nicht. Es parkt. Das Auto parkt auf der Straße. Und neben der Straße stehen Bäume. Ich mag diese Bäume sehr. Ich finde, sie sind schön. Ich finde, die Bäume sind schön. Der Himmel ist ganz weiß. Überall sind Wolken. Ich kann kein Blau und keine Sonne sehen. Im Himmel sind nur weiße Wolken. Keine Sonne und kein blauer Himmel. Ich sehe einen großen Hund. Das ist ein besonders freundlicher Hund. Der Hund ist sehr niedlich. Dieses Auto parkt auch. Aber dieses Auto ist nicht silber. Dieses Auto ist beige. Ich gehe auf der Straße. Das Material ist Asphalt. Ich gehe auf der Asphaltstraße. Es gibt keine Autos. Die Straße ist leer. Niemand fährt mit dem Auto. Ich bin allein. Hier parkt ein grauer Motorroller. Ich fahre sehr gerne mit dem Motorroller. Aber ich habe keine Übung. Ich traue mich nicht. Ich brauche mehr Erfahrung. Ich muss mehr üben. Aber ich fahre gerne mit Palina. Hier ist ein Zebrastreifen. Das ist ein Zebrastreifen. Der Name kommt von dem Tier. Das Zebra. Hier ist noch ein Zebrastreifen. Man kann auch Fußgängerüberweg sagen. Aber Zebrastreifen ist einfacher. Der Zebrastreifen ist neben einem Kreisverkehr. Hier fahren die Autos im Kreis. In Portugal gibt es ganz, ganz viele Kreisverkehre. Sie sind sehr häufig. In Deutschland gibt es auch Kreisverkehre, aber nicht so oft wie in Portugal. In Portugal sind sie häufiger. Jetzt gehe ich kurz in den Supermarkt und dann gehen wir zurück nach Hause. Ich schneide das Brot in der Brotschneidemaschine. Das Brot wird geschnitten. Ich nehme die Milch und lege die Milch in den Korb. Jetzt nehme ich den Essig und lege den Essig auch in den Korb. Und dann scanne ich die Lebensmittel an der Kasse. Hinter mir sind drei Müllcontainer. Ein blauer Müllcontainer, ein grüner Müllcontainer und ein gelber Müllcontainer. Genau wie in Deutschland wird in Portugal der Müll auch getrennt. Wir haben einen Müllcontainer für Glas, einen Müllcontainer für Papier und einen Müllcontainer für Plastik. Ich freue mich immer sehr, wenn ich so etwas finde. In Portugal gibt es viele Hunde und viele Hunde laufen frei herum. Es gibt viele freilaufende Hunde. Und manchmal kann man im Boden Pfotenabdrücke finden. Pfoten sind die Füße von Hunden. Und hier ist ein Pfotenabdruck im Boden. Ich bin immer sehr fröhlich, wenn ich sie finde. Ich finde das total niedlich. Jetzt bin ich aus dem Supermarkt raus. Ich bin auf dem Weg nach Hause und ich zeige euch, was ich gekauft habe. Immer, wenn ich einkaufen gehe, jedes Mal, kaufe ich ein bisschen Milch. Palina und ich, wir trinken sehr viel Kaffee. Wir haben nie zu viel Milch. Zu viel Milch gibt es nicht. Ich habe für Palina einen kleinen Donut gekauft als Snack. Wenn ich in den Supermarkt gehe, bringe ich Palina einen Snack mit. Das ist ein Muss. Immer. Jedes Mal. Ich habe Maisbrot gekauft. Maisbrot ist mein Lieblingsbrot. Das esse ich am liebsten. Leider gibt es in Deutschland kein Maisbrot. Das kenne ich nur hier in Portugal. Ich weiß nicht, warum Deutschland kein Maisbrot mag, aber ich vermisse es sehr, wenn ich in Deutschland bin. Ich möchte Maisbrot in Deutschland essen. Ein kleiner Kakao, den benutze ich heute für Palinas Kaffee. Ich mache ihr einen Mokaccino, also einen Cappuccino mit Kakao. Und als letztes, weil wir es brauchen, habe ich Essig gekauft. Wir benutzen Essig für Zwiebeln und unser Essig ist leer. Also habe ich neuen Essig gekauft. Und das war's. Das war alles. Mehr habe ich nicht gekauft. Nur diese fünf Sachen. Unsere Patreon Subscriber sind super. Unsere Patreon Subscriber unterstützen uns. Unsere Patreon Subscriber bekommen einmal pro Monat ein extra Video. Und sie bekommen Transkripte für alle Videos. Und wir laden alle Videos ohne Untertitel hoch. Also nochmal, unsere Patreon Subscriber sind super. Vielen, vielen Dank. Das ist ein Baumstumpf. Dieser Baumstumpf ist entwurzelt. Er ist nicht mehr im Boden. Die Wurzeln, das ist die Wurzel, die Wurzel ist nicht im Boden. Der Baumstumpf wurde entwurzelt. Ich stehe auf dem Baum. Dieser Baum ist nicht senkrecht. Dieser Baum ist waagerecht. Weil der Baum waagerecht ist, kann ich darauf stehen. Ich stehe auf dem waagerechten Baum. Dieser Baum ist senkrecht. Ich kann nicht auf dem Baum stehen. Der Baum ist senkrecht. Ich kann nur neben dem Baum stehen. Ich stehe neben dem Baum. Der Baum ist senkrecht. Jetzt bin ich wieder zu Hause. Und ich beende das Video. Das Video ist vorbei. Vielen, vielen Dank fürs Zuschauen. Und nochmal das Licht ist ausgegangen. Einen Moment. Okay. Dann machen wir hier weiter. Vielen, vielen Dank fürs Zuschauen. Und nochmal vielen Dank an unsere Patreon Subscriber. Und ich hoffe, ich sehe euch im nächsten Video. Bis dahin, Jam out.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6877
+  "src": "auto"
  },
  "0P7mhv0zviw": {
   "channel": "Kathrin Shechtman (Story Listening)",
@@ -14961,7 +15027,7 @@
  "Z2zf8LgiiUk": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-07T05:28:25+00:00",
+  "checked": "2026-11-11T15:31:13+00:00",
   "title": "Learn German the Natural Way | Riding a Bike & Talk (Comprehensible Input for Beginners)",
   "duration": 763,
   "published": "20250720",
@@ -14969,72 +15035,41 @@
   "spoken_v": 2,
   "pace": 72.0,
   "rare": 0.1003,
+  "var": 0.7309,
   "speech_s": 747.4,
   "tokens": 897,
   "kw": [
    [
-    "speichen",
-    "und an den Speichen, die Speichen des Rades, an den Speichen",
-    273,
-    286,
-    2.89,
+    "natürlich",
+    "Natürlich gibt es auf dem Lenker auch",
+    75,
+    83,
+    5.62,
+    5
+   ],
+   [
+    "hast",
+    "Körper. Hast du ein Ökofahrad oder ein E-Bike und wie oft nutzt du das",
+    518,
+    532,
+    5.75,
     4
    ],
    [
-    "hinterrad",
-    "Natürlich das Hinterrad, das Vorderrad und das Hinterrad. Und mit der rechten",
-    162,
-    178,
-    3.02,
+    "los",
+    "ich los. Los geht's. Stimmt, du hast recht. Ich sollte einen",
+    576,
+    595,
+    5.26,
     4
    ],
    [
-    "fahrradkette",
-    "Fahrradkette. Die Fahrradkette.",
-    300,
-    312,
-    2.53,
-    3
-   ],
-   [
-    "gangschaltung",
-    "Gangschaltung. Dieses Fahrrad hat eine Gangschaltung.",
-    671,
-    679,
-    2.57,
-    3
-   ],
-   [
-    "pedale",
-    "Das Fahrrad hat nicht nur eine Pedale,",
-    317,
-    328,
-    3.12,
+    "österreich",
+    "Österreich wachsen Kinder mit dem Fahrrad auf. In Österreich und in",
+    531,
+    543,
+    5.2,
     4
-   ],
-   [
-    "gepäckträger",
-    "gibt es einen Gepäckträger. Das Gepäck, meine Tasche ist mein Gepäck",
-    186,
-    199,
-    2.9,
-    3
-   ],
-   [
-    "vorderrad",
-    "wird das Vorderrad gebremst.",
-    142,
-    154,
-    2.94,
-    3
-   ],
-   [
-    "eselsbrücke",
-    "eine lustige Eselsbrücke. Die Eselsbrücke,",
-    247,
-    257,
-    2.36,
-    2
    ],
    [
     "fahrrad",
@@ -15053,27 +15088,11 @@
     5
    ],
    [
-    "natürlich",
-    "Natürlich gibt es auf dem Lenker auch",
-    75,
-    83,
-    5.62,
-    5
-   ],
-   [
-    "österreich",
-    "Österreich wachsen Kinder mit dem Fahrrad auf. In Österreich und in",
-    531,
-    543,
-    5.2,
-    4
-   ],
-   [
-    "vorne",
-    "sollen. Vorne vorne am Fahrrad. befindet sich das",
-    98,
-    111,
-    4.73,
+    "hinten",
+    "am Gepäckträger. Hinten gibt es auch das",
+    217,
+    225,
+    4.79,
     4
    ],
    [
@@ -15085,31 +15104,111 @@
     4
    ],
    [
-    "musst",
-    "die Pedale treten oder du musst ein",
-    331,
-    340,
-    5.06,
+    "helm",
+    "Ich nehme den Helm ab. Der Helm.",
+    41,
+    51,
+    4.07,
+    6
+   ],
+   [
+    "bike",
+    "Dieses Fahrrad ist ein E-Bike. Es ist",
+    381,
+    391,
+    3.84,
+    5
+   ],
+   [
+    "sattel",
+    "Und der Sattel, der Sattel ist höhenverstellbar.",
+    351,
+    370,
+    3.8,
+    5
+   ],
+   [
+    "bremse",
+    "Mit der Bremse bremst man und hier die",
+    121,
+    133,
+    3.69,
+    3
+   ],
+   [
+    "lenker",
+    "Ich hänge den Helm an den Lenker, der",
+    51,
+    61,
+    3.53,
     4
    ],
    [
-    "los",
-    "ich los. Los geht's. Stimmt, du hast recht. Ich sollte einen",
-    576,
-    595,
-    5.26,
+    "pedale",
+    "Das Fahrrad hat nicht nur eine Pedale,",
+    317,
+    328,
+    3.12,
     4
+   ],
+   [
+    "hinterrad",
+    "Natürlich das Hinterrad, das Vorderrad und das Hinterrad. Und mit der rechten",
+    162,
+    178,
+    3.02,
+    4
+   ],
+   [
+    "mountainbike",
+    "aber auch Mountainbike. Das Mountainbike hat keinen Gebäckträger, es hat aber",
+    438,
+    451,
+    3.51,
+    2
+   ],
+   [
+    "speichen",
+    "und an den Speichen, die Speichen des Rades, an den Speichen",
+    273,
+    286,
+    2.89,
+    4
+   ],
+   [
+    "vorderrad",
+    "wird das Vorderrad gebremst.",
+    142,
+    154,
+    2.94,
+    3
+   ],
+   [
+    "gepäckträger",
+    "gibt es einen Gepäckträger. Das Gepäck, meine Tasche ist mein Gepäck",
+    186,
+    199,
+    2.9,
+    3
+   ],
+   [
+    "gangschaltung",
+    "Gangschaltung. Dieses Fahrrad hat eine Gangschaltung.",
+    671,
+    679,
+    2.57,
+    3
    ]
   ],
-  "tx": "Hallo, wie geht es dir? Mir geht es gut. Ich fahre gerade ins Stadtzentrum. Ich fahre mit einem Fahrrad und deshalb möchte ich dir in diesem Deutschlernvog Teile des Fahrrads zeigen. Währst du gerne Fahrrad? Ich nehme den Helm ab. Der Helm. Ich hänge den Helm an den Lenker, der Fahrradlenker. Mit dem Lenker kann man nach links oder nach rechts fahren. Man lenkt das Fahrrad, also der Lenker. Natürlich gibt es auf dem Lenker auch eine Klingel. Die Fahrradklingel, die ist sehr wichtig, um anderen Spaziergängern oder Fahrradfahrern zu sagen, dass sie bitte ausweichen sollen. Vorne vorne am Fahrrad. befindet sich das Licht. Dieses Licht befindet sich vorne, also nennt man es auch Vorderlicht. Das Vorderlicht gleich wie die Vorderbremse. Mit der Bremse bremst man und hier die linke Bremse ist die Vorderbremse. Guck mal. Mit der Vorderbremse wird das Vorderrad gebremst. Das Rad und das Vorderrad. Was glaubst du, wie nennt man das hintere Rad Fahrrads? Natürlich das Hinterrad, das Vorderrad und das Hinterrad. Und mit der rechten Bremse bremst man also das Hinterrad. Über dem Hinterrad gibt es einen Gepäckträger. Das Gepäck, meine Tasche ist mein Gepäck oder natürlich auch das Handgepäck beim Reisen am Flughafen und der Gepäckträger. Hier kann man z.B. seine Tasche einklen und somit auf dem Rad transportieren am Gepäckträger. Hinten gibt es auch das Rücklicht. Wir haben also das Vorderlicht, das Licht für vorne und das hintere Licht, das Rücklicht. Wie der Rücken, der Rücken, der Rücken ist hinten und unter dem Rücken der hintern. Hinten und Hintern. Das ist eine lustige Eselsbrücke. Die Eselsbrücke, also ein Wortspiel, um dir bestimmte Wörter vielleicht einfacher zu merken. Und die Reflektoren. Dieses Fahrrad hat viele Reflektoren. den mal hier diesen Reflektor und an den Speic",
+  "tx": "Hallo, wie geht es dir? Mir geht es gut. Ich fahre gerade ins Stadtzentrum. Ich fahre mit einem Fahrrad und deshalb möchte ich dir in diesem Deutschlernvog Teile des Fahrrads zeigen. Währst du gerne Fahrrad? Ich nehme den Helm ab. Der Helm. Ich hänge den Helm an den Lenker, der Fahrradlenker. Mit dem Lenker kann man nach links oder nach rechts fahren. Man lenkt das Fahrrad, also der Lenker. Natürlich gibt es auf dem Lenker auch eine Klingel. Die Fahrradklingel, die ist sehr wichtig, um anderen Spaziergängern oder Fahrradfahrern zu sagen, dass sie bitte ausweichen sollen. Vorne vorne am Fahrrad. befindet sich das Licht. Dieses Licht befindet sich vorne, also nennt man es auch Vorderlicht. Das Vorderlicht gleich wie die Vorderbremse. Mit der Bremse bremst man und hier die linke Bremse ist die Vorderbremse. Guck mal. Mit der Vorderbremse wird das Vorderrad gebremst. Das Rad und das Vorderrad. Was glaubst du, wie nennt man das hintere Rad Fahrrads? Natürlich das Hinterrad, das Vorderrad und das Hinterrad. Und mit der rechten Bremse bremst man also das Hinterrad. Über dem Hinterrad gibt es einen Gepäckträger. Das Gepäck, meine Tasche ist mein Gepäck oder natürlich auch das Handgepäck beim Reisen am Flughafen und der Gepäckträger. Hier kann man z.B. seine Tasche einklen und somit auf dem Rad transportieren am Gepäckträger. Hinten gibt es auch das Rücklicht. Wir haben also das Vorderlicht, das Licht für vorne und das hintere Licht, das Rücklicht. Wie der Rücken, der Rücken, der Rücken ist hinten und unter dem Rücken der hintern. Hinten und Hintern. Das ist eine lustige Eselsbrücke. Die Eselsbrücke, also ein Wortspiel, um dir bestimmte Wörter vielleicht einfacher zu merken. Und die Reflektoren. Dieses Fahrrad hat viele Reflektoren. den mal hier diesen Reflektor und an den Speichen, die Speichen des Rades, an den Speichen habe ich auch Speichoren. Diese kann man einfach abnehmen und ganz einfach auch wieder auf die Speichen. Ein weiteres wichtiges Wort ist die Fahrradkette. Die Fahrradkette. Ich trage heute keine Halskette. Die Kette, die Halskette und die Fahrradkette. Das Fahrrad hat nicht nur eine Pedale, sondern zwei Pedalen. Man muss also in die Pedale treten. In die Pedale treten oder du musst ein bisschen in die Pedale treten. Ist ein Sprichwort, um zu sagen, dass du dich ein bisschen beeilen musst. Du musst also schneller treten, um schneller voranzukommen. Und der Sattel, der Sattel ist höhenverstellbar. So ist mir der Sattel zu nieder. So ist mir der Sattel zu hoch und so. ist der Sattel für mich richtig eingestellt. Dieses Fahrrad ist ein E-Bike. Es ist also ein Fahrrad, das mit Akku fährt, also ein Akkufahrad. Dieses Fahrrad wird auch Stadtfahrrad genannt. Und guck mal, hier hinten haben wir einen Anhänger. Was glaubst du, wozu brauchen wir diesen Anhänger? Na klar, für Taco. Wir versuchen gerade Taco an den Anhänger zu gewöhnen. Das hier ist ein Mountain Bike. Der Mountain, der Berg und Bike, das Fahrrad. Also ein Bergfahrrad. Im Deutschen nennen wir ein Bergfahrrad, aber auch Mountainbike. Das Mountainbike hat keinen Gebäckträger, es hat aber eine Trinkflaschenhalterung, die Trinkflasche und die Halterung. Also die Trinkflaschenhalterung. Diese Halterung ist super praktisch, weil man während des Fahrens auch trinken kann. Dieses Fahrrad hat keinen Akku. Dieses Fahrrad ist kein E-Bike. Seitdem es aber E-Bikes gibt, gibt es auch für normale Fahrräder besondere Namen. So nennt man ein solches Fahrrad auch mechanisches Fahrrad oder auch Ökofahrad. Mir persönlich gefällt dieser Begriff Ökofahrad. Super gut, weil dieses Fahrrad natürlich viel umweltfreundlicher ist und zudem auch gesünder für den Menschen, für den Körper. Hast du ein Ökofahrad oder ein E-Bike und wie oft nutzt du das Fahrrad? In Deutschland und in Österreich wachsen Kinder mit dem Fahrrad auf. In Österreich und in Deutschland macht man schon in der vierten Klasse einen Fahrradführerschein. Schülerinnen und Schüler in der Grundschule oder in Österreich in der Volksschule müssen eine theoretische und eine praktische Prüfung bestehen, um dann einen Fahrradpass, einen Fahrradführerschein zu erhalten. Und auf diese Dinge musst du beim Fahrradfahren in Deutschland und in Österreich achten. Und jetzt fahre ich los. Los geht's. Stimmt, du hast recht. Ich sollte einen Helm aufsetzen. Wirfst du ihn mir rüber? Ich habe den Helm gefangen. Ich setze den Helm auf. Und jetzt geht's los. Im Straßenverkehr gibt es für Fahrradfahrer Regeln. Z.B. ist es wichtig, immer darauf zu achten, dass man auf der rechten Seite fährt. Wenn man abbiegen möchte, also nach links oder nach rechts fahren möchte, ist es wichtig, immer ein Handzeichen zu geben. Ich fahre auf der rechten Seite und biege rechts ab. Und eine wichtige Sache, die Gangschaltung. Dieses Fahrrad hat eine Gangschaltung. Mit der Gangschaltung kann man den Kraftaufwand anpassen. Berg auf. Im dritten Gang ist es ganz schön hart, aber im ersten Gang geht es einfacher, aber natürlich muss ich öfter treten. So, wir wollen jetzt aber los. Wir möchten die Stadt erkunden. Wir werden durch die Straßen fahren und dir ein kleines bisschen von München zeigen. Wenn du also Lust hast auf das nächste Video, dann abonniere den Kanal, denn gemeinsam lernt es sich für gewöhnlich viel schöner und einfacher. Schreib mir also noch einmal in die Kommentare, ob du gerne Fahrrad fährst, welche Art von Fahrrad du hast, wie oft du fährst und tausch dich dann gerne mit unserer Deutschlern Community in den Kommentaren aus. Viel Erfolg beim Deutsch lernen und bis zum nächsten Video. Tschüss.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7037
+  "src": "auto"
  },
  "lz1AXYTW55Y": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:28:48+00:00",
+  "checked": "2026-11-11T15:33:03+00:00",
   "title": "Peppa Wutz stellt sich vor, ERWACHSEN zu sein! 💭 | Übernachtung mit Luzie Locke | Neue Ganze Folgen",
   "duration": 2157,
   "published": "20261006",
@@ -15117,73 +15216,10 @@
   "spoken_v": 2,
   "pace": 103.7,
   "rare": 0.1315,
+  "var": 0.7905,
   "speech_s": 2076.9,
   "tokens": 3589,
   "kw": [
-   [
-    "peppa",
-    "Peppa übernachtet heute bei Luzi Locke.",
-    3,
-    10,
-    2.17,
-    53
-   ],
-   [
-    "luzi",
-    "Peppa übernachtet heute bei Luzi Locke.",
-    3,
-    10,
-    2.44,
-    24
-   ],
-   [
-    "wutz",
-    "Mama Wutz und Frau Locke gehen ins Kino.",
-    6,
-    12,
-    2.39,
-    18
-   ],
-   [
-    "hüpf",
-    "Ja, klar können wir hüpfen. Hüpf, hüpf,",
-    1163,
-    1170,
-    2.73,
-    18
-   ],
-   [
-    "hops",
-    "Hops, hips, spring. Peppa und George spielen im Garten.",
-    1081,
-    1091,
-    2.74,
-    16
-   ],
-   [
-    "pfützen",
-    "noch andere Pfützen. Wir machen nämlich einen wunderbaren",
-    1641,
-    1646,
-    2.91,
-    13
-   ],
-   [
-    "hopsen",
-    "hopsen? Klar kann ich das. Hops, hops, hops.",
-    1104,
-    1112,
-    2.21,
-    8
-   ],
-   [
-    "hüpfen",
-    "Supi dupi. Aber könnt ihr auch hüpfen?",
-    1160,
-    1168,
-    3.4,
-    14
-   ],
    [
     "hallo",
     "Hallo zusammen. Hallo. Das ist meine Cousine Charlotte.",
@@ -15191,30 +15227,6 @@
     29,
     5.06,
     47
-   ],
-   [
-    "papa",
-    "Papa, ich kann jetzt Englisch sprechen.",
-    482,
-    490,
-    4.46,
-    27
-   ],
-   [
-    "george",
-    "und George ist dann ein Dinosaurier.",
-    137,
-    143,
-    4.58,
-    22
-   ],
-   [
-    "mama",
-    "Mama Wutz und Frau Locke gehen ins Kino.",
-    6,
-    12,
-    4.68,
-    19
    ],
    [
     "spielen",
@@ -15241,18 +15253,138 @@
     11
    ],
    [
-    "kinder",
-    "Und unsere Kinder sind auch alle da.",
-    210,
-    216,
-    5.6,
-    9
+    "papa",
+    "Papa, ich kann jetzt Englisch sprechen.",
+    482,
+    490,
+    4.46,
+    27
+   ],
+   [
+    "george",
+    "und George ist dann ein Dinosaurier.",
+    137,
+    143,
+    4.58,
+    22
+   ],
+   [
+    "leo",
+    "Für dich, Leo. Peppa wirft den Ball Luzis ausgedachtem",
+    1379,
+    1385,
+    4.27,
+    20
+   ],
+   [
+    "mama",
+    "Mama Wutz und Frau Locke gehen ins Kino.",
+    6,
+    12,
+    4.68,
+    19
+   ],
+   [
+    "hop",
+    "ich. Hopp, hopp, hop, hop, hop, hop,",
+    1118,
+    1125,
+    3.94,
+    16
+   ],
+   [
+    "spring",
+    "Hops, hips, spring. Peppa und George spielen im Garten.",
+    1081,
+    1091,
+    3.8,
+    16
+   ],
+   [
+    "perfekten",
+    "perfekten Tag verbringen. Oh,",
+    832,
+    839,
+    3.98,
+    7
+   ],
+   [
+    "rätsel",
+    "Kommt, wir lösen das Rätsel. Wir sagen es besser meinem Papa.",
+    579,
+    588,
+    4.17,
+    6
+   ],
+   [
+    "hüpfen",
+    "Supi dupi. Aber könnt ihr auch hüpfen?",
+    1160,
+    1168,
+    3.4,
+    14
+   ],
+   [
+    "pfütze",
+    "Oh, die Pfütze ist aber nicht gerade",
+    1690,
+    1696,
+    3.05,
+    10
+   ],
+   [
+    "hopp",
+    "ich. Hopp, hopp, hop, hop, hop, hop,",
+    1118,
+    1125,
+    3.56,
+    8
+   ],
+   [
+    "locke",
+    "Peppa übernachtet heute bei Luzi Locke.",
+    3,
+    10,
+    3.41,
+    6
+   ],
+   [
+    "peppa",
+    "Peppa übernachtet heute bei Luzi Locke.",
+    3,
+    10,
+    2.17,
+    53
+   ],
+   [
+    "luzi",
+    "Peppa übernachtet heute bei Luzi Locke.",
+    3,
+    10,
+    2.44,
+    24
+   ],
+   [
+    "hüpf",
+    "Ja, klar können wir hüpfen. Hüpf, hüpf,",
+    1163,
+    1170,
+    2.73,
+    18
+   ],
+   [
+    "wutz",
+    "Mama Wutz und Frau Locke gehen ins Kino.",
+    6,
+    12,
+    2.39,
+    18
    ]
   ],
-  "tx": "Wenn wir groß sind. Peppa übernachtet heute bei Luzi Locke. Mama Wutz und Frau Locke gehen ins Kino. Keine Sorge, Mama. Wir passen auf das Haus auf, wenn ihr weg seid. Das ist nett von dir, Luzi. Aber ich habe extra eine Babysitterin bestellt. Da kommt sie schon. Hallo zusammen. Hallo. Das ist meine Cousine Charlotte. Charlotte ist die Babysitterin. Hallo Charlotte. Schön, dass du Zeit hast. Wir bleiben nicht so lang. Du kannst Fernsehen gucken und ich habe dir eine Pizza gemacht. Oh, danke schön. Und ihr seid schön brav. Na klar. Tschüss. Tschüss. Viel Spaß Wie alt bist du, Charlotte? Ich bin 17. 17? Das ist schon sehr erwachsen. Wenn man erwachsen ist, kann man machen, was man will. Das stimmt. Man kann Auto fahren und sogar ganz lange aufbleiben. Wow. W in der Zukunft, wenn ihr erwachsen seid, dürft ihr das auch alles machen. Oh. Aber Erwachsene müssen natürlich auch arbeiten gehen. Das klingt toll. Können wir mit dir lange aufbleiben, Charlotte? Oh nein, ihr müsst jetzt schlafen gehen. Oh, gute Nacht. Schlaft gut. Gute Nacht, Luzi. Ja. Bist du wach? Ja. Ich wäre so gern erwachsen. Ich auch. Wenn wir groß sind, sitzen wir da unten und gucken Fernsehen und essen Pizza. Ja. und sind Babysitter und gehen ins Kino und bleiben die ganze Nacht wach. Wenn wir groß sind, haben wir ein gelbes Auto. Nein, blau. Gelb und blau. Ich fahre. Und ich auch. KF ist ein Astronaut. Ja, ich fliege ins Weltall und George ist dann ein Dinosaurier. Sausi und Freddy Fuchs ist dann Polizist. Hallo, hallo, hallo. Was soll das denn sein? Unser Erwachsenen Auto. Könnt ihr beide einmal bitte für mich hupen? Wunderbar. und weiterfahren. Tschüss. Was arbeitest du denn dann? Na, Krankenschwester. Aber in der Mittagspause bin ich Pilotin. Willkommen, liebe Fluggäste. Sie fliegen jetzt mit mir einmal ",
+  "tx": "Wenn wir groß sind. Peppa übernachtet heute bei Luzi Locke. Mama Wutz und Frau Locke gehen ins Kino. Keine Sorge, Mama. Wir passen auf das Haus auf, wenn ihr weg seid. Das ist nett von dir, Luzi. Aber ich habe extra eine Babysitterin bestellt. Da kommt sie schon. Hallo zusammen. Hallo. Das ist meine Cousine Charlotte. Charlotte ist die Babysitterin. Hallo Charlotte. Schön, dass du Zeit hast. Wir bleiben nicht so lang. Du kannst Fernsehen gucken und ich habe dir eine Pizza gemacht. Oh, danke schön. Und ihr seid schön brav. Na klar. Tschüss. Tschüss. Viel Spaß Wie alt bist du, Charlotte? Ich … war alles in Ordnung hier? Ja, war alles gar kein Problem. Hallo, seid ihr zwei etwa noch wach? Ja, Mama, wir denken gerade an die Zukunft. Es ist sehr anstrengend, erwachsen zu sein. Da hast du recht. Wir brauchen jetzt mal Ruhe. Dann Augen zu. Gute Nacht, ihr kleinen. Gute Nacht ihr großen. Peppa und Luzi müssen jetzt schlafen, um sich auszuruhen für die Zukunft. Neue Sprachen. Peppa und ihre Freundinnen und Freunde kommen zur Spielgruppe. Playgoup. Was sagt das Mädchen denn da zu seiner Mama? Bye bye Mami. Hallo, du da. Oh, hallo. Guten Morgen, liebe Kinder. Guten Morgen, Madame Gazelle. … du denn? Hallo, ich bin Peppa Wutz. Hello, I am Peppa Pig. Es ist Nachmittag. Die Eltern kommen, um ihre Kinder abzuholen. Heads Schulter, Nies und Toast, Nies und Toast. Kopf, Schulter, Knie und Ce, Knie und Ce. Und Augen, Ohren, Nase und Mund. Toast nie toast. Bravo Papa, ich kann jetzt Englisch sprechen. Das ist ja fantastisch, Peppa, ich kenne auch ein paar englische Wörter. Please fill my car with Potato Boah. Und was bedeutet das? Das heißt, bitte füllen Sie mein Auto mit Kartoffeln. Deshalb habe ich beim Tanken nie Benzin bekommen. Sehr lustig. M, Mami. Hallo Lizzy, wie war dein … Hier unten liegen lauter Sachen, die jemand verloren hat. Boah, lauter Schirme, Schuhe, eine Straßenlaterne, sogar ein verlorener Schrank. Den hat niemand verloren, Freddy. In dem Schrank lagern wir Piratenschätze. Oh, er ist fort. Merkwürdig. Und noch ein Rätsel. Hallo, hallo, hallo. Da ist ein Loch in der Wand und ein Tunnel. Jemand hat ein Loch gegraben und unseren Schatz weggeschafft durch den Tunnel. Ein Meisterdieb, ganz ohne Zweifel. Ich frag mich, wo der hinführt. Schaut, da sind Münzen auf dem Boden. Aha, das ist eine Spur. Wir folgen der Spur. Bald wissen wir, wer den Schatz … Tag. Oh, supi. Tschüss, Mama. Dann bis später. Und wohin gehen wir für unseren perfekten Tag, Papa? Keine Ahnung. Hier gibt's nur Geschäfte und noch mehr Geschäfte und oh, eine fahrende Zaubertreppe. Das Pepper ist eine Rolltreppe. Können wir mal drauf fahren? Ja, nimm meine Hand. Da ist Luzi Locke. Da ist Luzi. Hallo. Hallo Peppa. Wo fahrt ihr hin? Wir fahren nach ganz oben. Und wo fahrt ihr hin? Wir fahren nach ganz unten. Peppa ist oben angekommen. Schnell, Papa, ich muss runter, um Luzi zu treffen. Ich komme zu dir hoch, Peppa. Ich komme zu dir runter, Luzi. Ah, du fähr fährst in … hopsen? Klar kann ich das. Hops, hops, hops. Das ist doch nicht hopsen, Peppa, das ist springen. Oh, hopsen ist, wenn man auf und abspringt auf einem Bein, so wie ich. Hopp, hopp, hop, hop, hop, hop, hop. Dieser Löffel kann sehr gut hopsen. Hop, hop, hop, hop, hop, hop, hop, hop. Mach mit, George. Hopsen ist ganz einfach. Du hüpfst einfach auf einem Bein. Hopp, hopp. Genau. Hopp, hopp, hopp, hop, hop, hopp. Da kommt Luzi Locke. Hallo zusammen. Hallo, Luz. Was spielt ihr denn da? Wir spielen Hopsen. Schau mal her. Supi dupi. Aber könnt ihr auch hüpfen? Ja, klar können wir hüpfen. Hüpf, … mein neuer Freund Leöwe. Wo ist er? Da ist doch keiner. Luzi hat sich einen Freund ausgedacht. Kannst du ihn nicht sehen, Peppa? M, komm, wir spielen mit dem Ball. Ja, fein. Für dich, Leo. Peppa wirft den Ball Luzis ausgedachtem Freund zu. Leo kann aber nicht gut fangen. Kann er wohl. Er will nur gerade nicht mit dem Ball spielen. Und was will Leo jetzt lieber tun? Er will lieber fauchen. Wird er wirklich gleich fauchen? Ja, aber das warst du. Nö, das war Leo. Ah, hallo Leo. Peppa tut so, als könnte sie Leolöwe sehen. Leo, willst du auch mein Freund sein? Was hat er gesagt? Er nickt mit … Peppers Freunde sind gekommen. Alle haben Gummistiefel an. Wir hüpfen durch die Matschepfützen. Ja. Sollte König Leon nicht vielleicht besser auch seine Gummistiefel anziehen? Oh, habe ich vergessen. Leo hat auch seine Gummistiefel dabei. He, guck mal, der Leo. Er hüpft auch immer rein und raus. Alle lieben es durch Matschepfützen zu hüpfen, sogar geheime Freunde. Jede Menge Matschepützen. Es ist morgen. Peppa und George spielen im Garten. Schau mal, George. Eine schöne Matschepfütze zum hineinspringen. Peppa, George, kommt schon, wir wollen los. Ach, aber wir wollten noch in die … Beschreibung, Peppa. Spielplatzpfützen sind spritzig. Zeit nach Hause zu fahren. Das war doch heute wirklich ein wundervoller Ausflug. Ja, wir haben so viele verschiedene Fützen entdeckt. Zuerst die knicksig knackselige Pütze im Wald. Vollerblätter und Esst. Dann die knirschig knchige Pfütze am Strand aus Wasser und Sand und die spritzige Pfütze auf dem Spielplatz. Es ist schade, dass wir keine Matschepfütze gefunden haben. Ich weiß, wo wir die besten Matschepfützen finden werden. Peppa und George sind wieder zu Hause. Matschepützen. Na, Peppa, und wie nennst du jetzt diese Pfütze hier? … Nein, Mama, einer fehlt uns noch. Los, komm, George, komm mit rein. Welcher Ton kann das sein? Es ist ein besonders wichtiger Ton. Peppa geht ins Badezimmer. Spür mal das Klo, George. Papa Wutz kommt von der Arbeit nach Hause. Hallo zusammen. Hallo Papa. Ich freue mich schon den ganzen Tag auf meinen neuen Synthesizer. Tolle Musik und mit den Knöpfen ist sie sogar noch viel toller. Papa, spiel noch mal. Also gut. Was ist das? Na, ich. Wir haben so witzige Töne. Spiel es noch mal. Das ist lustige Musik. Papa, da hast du recht. Papa Wutz liebt lustige Musik. Alle lieben lustige Musik. He.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7823
+  "src": "auto"
  },
  "MDPAwAN-3oU": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
@@ -15597,7 +15729,7 @@
  "nJCmFPh5-6k": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-07T05:52:30+00:00",
+  "checked": "2026-11-11T15:16:00+00:00",
   "title": "Authentisch oder nervig? Füllwörter, Modalpartikeln und Artikulation",
   "duration": 743,
   "published": "20260503",
@@ -15605,73 +15737,10 @@
   "spoken_v": 2,
   "pace": 135.4,
   "rare": 0.0602,
+  "var": 0.7858,
   "speech_s": 743.3,
   "tokens": 1677,
   "kw": [
-   [
-    "muttersprachler",
-    "möchtest wie ein Muttersprachler, dann solltest du hin und wieder zumindest",
-    21,
-    29,
-    2.82,
-    10
-   ],
-   [
-    "russischsprachigen",
-    "wenn ich in einer russischsprachigen Umgebung leben würde. Und hier kann man",
-    270,
-    277,
-    2.33,
-    3
-   ],
-   [
-    "artikulation",
-    "die Artikulation. Bedenke, sie kommt nicht von selbst.",
-    668,
-    675,
-    2.75,
-    3
-   ],
-   [
-    "körperspannung",
-    "gute Körperspannung hast, das gehört alles dazu. Und ich muss noch eine Sache",
-    508,
-    515,
-    2.33,
-    2
-   ],
-   [
-    "muttersprache",
-    "Schülerin, deren Muttersprache eigentlich Deutsch ist. Also, es ist",
-    77,
-    83,
-    3.76,
-    5
-   ],
-   [
-    "russisch",
-    "ich Russisch spreche und Russisch ist",
-    210,
-    215,
-    4.09,
-    6
-   ],
-   [
-    "aussprache",
-    "nicht nur die Aussprache und bei",
-    138,
-    143,
-    3.88,
-    4
-   ],
-   [
-    "probier",
-    "Probier das mal aus. Also, wir haben das",
-    654,
-    660,
-    3.7,
-    3
-   ],
    [
     "sprache",
     "eine Modalpartikel belebt die Sprache, heißt es. Also, wenn du so klingen",
@@ -15681,11 +15750,11 @@
     11
    ],
    [
-    "z.b",
-    "aber sobald sie sich z.B. die Aufgabe",
-    170,
-    178,
-    5.03,
+    "hast",
+    "ich kann fragen, was hast du heute",
+    39,
+    46,
+    5.75,
     8
    ],
    [
@@ -15697,50 +15766,138 @@
     8
    ],
    [
-    "hast",
-    "ich kann fragen, was hast du heute",
-    39,
-    46,
-    5.75,
+    "z.b",
+    "aber sobald sie sich z.B. die Aufgabe",
+    170,
+    178,
+    5.03,
     8
    ],
    [
-    "heisst",
-    "",
-    0,
-    0,
-    5.48,
-    7
-   ],
-   [
-    "sprechen",
-    "dagegen sagen, aber sie sprechen sehr",
-    159,
-    164,
-    5.13,
+    "klingen",
+    "heißt es. Also, wenn du so klingen",
+    19,
+    24,
+    4.21,
     6
    ],
    [
-    "genau",
-    "ich das jetzt unbedingt erzählen? Genau.",
-    67,
-    75,
-    5.65,
+    "haltung",
+    "eine aufrechte Haltung z.B. oder dass du",
+    488,
+    497,
+    4.51,
+    5
+   ],
+   [
+    "geplant",
+    "geplant? Und ich kann fragen, was hast",
+    42,
+    48,
+    4.7,
+    4
+   ],
+   [
+    "eindruck",
+    "Eindruck mache ich auf meine Gesprächspartner",
+    127,
+    135,
+    4.76,
+    3
+   ],
+   [
+    "russisch",
+    "ich Russisch spreche und Russisch ist",
+    210,
+    215,
+    4.09,
     6
    ],
    [
-    "deutsch",
-    "eigentlich Deutsch ist. Also, es ist",
-    79,
+    "muttersprache",
+    "Schülerin, deren Muttersprache eigentlich Deutsch ist. Also, es ist",
+    77,
     83,
-    5.24,
-    6
+    3.76,
+    5
+   ],
+   [
+    "aussprache",
+    "nicht nur die Aussprache und bei",
+    138,
+    143,
+    3.88,
+    4
+   ],
+   [
+    "seminar",
+    "bist z.B. in einem Seminar, es muss",
+    612,
+    617,
+    4.12,
+    3
+   ],
+   [
+    "umgangssprachlich",
+    "weiß, sie sind umgangssprachlich, ich weiß, das ist irgendein Slangwort,",
+    218,
+    227,
+    3.41,
+    2
+   ],
+   [
+    "ciao",
+    "uns im nächsten Video. Ciao, ciao.",
+    739,
+    744,
+    3.39,
+    2
+   ],
+   [
+    "unterbewusstsein",
+    "deinem Unterbewusstsein, dass du jetzt in diesen aufmerksamen Modus gehst.",
+    627,
+    636,
+    3.31,
+    2
+   ],
+   [
+    "muttersprachler",
+    "möchtest wie ein Muttersprachler, dann solltest du hin und wieder zumindest",
+    21,
+    29,
+    2.82,
+    10
+   ],
+   [
+    "artikulation",
+    "die Artikulation. Bedenke, sie kommt nicht von selbst.",
+    668,
+    675,
+    2.75,
+    3
+   ],
+   [
+    "russischsprachigen",
+    "wenn ich in einer russischsprachigen Umgebung leben würde. Und hier kann man",
+    270,
+    277,
+    2.33,
+    3
+   ],
+   [
+    "körperspannung",
+    "gute Körperspannung hast, das gehört alles dazu. Und ich muss noch eine Sache",
+    508,
+    515,
+    2.33,
+    2
    ]
   ],
-  "tx": "Hallo meine Lieben, heute möchte ich mit euch eine Beobachtung teilen, die mich sehr amüsiert hat letztens und zwar folgendes. Ihr kennt sowas wie Füllwörter und Modalpartikeln, oder? Also, eine Modalpartikel belebt die Sprache, heißt es. Also, wenn du so klingen möchtest wie ein Muttersprachler, dann solltest du hin und wieder zumindest Modalpartikeln benutzen und dann klingt die Sprache natürlicher. Was sind Modalpartikeln? Alle möglichen Wörter, die keine eigene Bedeutung tragen in dieser Funktion. Das heißt, ich kann fragen, was hast du heute geplant? Und ich kann fragen, was hast du denn geplant? Was hast du denn geplant? Dieses denn macht meine Frage weicher und weniger ähm verhörmäßig, ja? Also, wenn ich sage, was hast du heute geplant, dann fühlt sich mein Gegenüber möglicherweise unwohl und denkt, oh mein Gott, äh muss ich das jetzt unbedingt erzählen? Genau. Und das Interessante ist, also, ich hatte vor kurzem eine Nachhilfestunde mit einer Schülerin, deren Muttersprache eigentlich Deutsch ist. Also, es ist nicht die einzige Sprache, die sie spricht, aber es ist eine der Sprachen. So, und sie hat ungefähr alle zwei Wörter halt eingebaut. Und dann habe ich halt das gemacht und es ist halt so und so weiter. Und dann habe ich gemerkt, hm, irgendwo muss ein Gleichgewicht sein, also eine Balance zwischen gar keinen Modalpartikeln und gar keinen Füllwörtern und zu vielen. Denn wenn man mit Muttersprachlern arbeitet oder mit Menschen, die schon die Sprache sehr sehr sehr sehr gut beherrschen, auf dem Niveau, besprechen wir oft, wie komme ich rüber? Also, wie wie welchen Eindruck mache ich auf meine Gesprächspartner und wodurch wird dieser Eindruck erzeugt? Es ist nicht nur der Wortschatz, es ist nicht nur die Aussprache und bei Aussprache meine ich nicht unbedingt de",
+  "tx": "Hallo meine Lieben, heute möchte ich mit euch eine Beobachtung teilen, die mich sehr amüsiert hat letztens und zwar folgendes. Ihr kennt sowas wie Füllwörter und Modalpartikeln, oder? Also, eine Modalpartikel belebt die Sprache, heißt es. Also, wenn du so klingen möchtest wie ein Muttersprachler, dann solltest du hin und wieder zumindest Modalpartikeln benutzen und dann klingt die Sprache natürlicher. Was sind Modalpartikeln? Alle möglichen Wörter, die keine eigene Bedeutung tragen in dieser Funktion. Das heißt, ich kann fragen, was hast du heute geplant? Und ich kann fragen, was hast du denn … der Sprachen. So, und sie hat ungefähr alle zwei Wörter halt eingebaut. Und dann habe ich halt das gemacht und es ist halt so und so weiter. Und dann habe ich gemerkt, hm, irgendwo muss ein Gleichgewicht sein, also eine Balance zwischen gar keinen Modalpartikeln und gar keinen Füllwörtern und zu vielen. Denn wenn man mit Muttersprachlern arbeitet oder mit Menschen, die schon die Sprache sehr sehr sehr sehr gut beherrschen, auf dem Niveau, besprechen wir oft, wie komme ich rüber? Also, wie wie welchen Eindruck mache ich auf meine Gesprächspartner und wodurch wird dieser Eindruck erzeugt? Es … sind Muttersprachler, aber sobald sie sich z.B. die Aufgabe stellen, ich möchte vor einem Publikum sprechen oder ich möchte bei einem Vorstellungsgespräch wirklich einen guten Eindruck hinterlassen, dann wird es interessant und da ist es plötzlich nicht mehr so wichtig, bin ich Muttersprachler, bin ich kein Muttersprachler. In meiner Erfahrung ist es so, dass Menschen, die die deutsche Sprache als Fremdsprache gelernt haben oder nicht nur Deutsch, aber vor allem mit Deutsch arbeite ich ja, dass sie die Sprache sorgfältiger benutzen. Und ich merke das bei mir selbst, wenn ich Russisch … zu klingen. Und das ist mir letztens aufgefallen, das ist amüsant oder vielleicht auch nicht, keine Ahnung, das ist so ein Expat-Problem. Also, wenn man in ins Ausland geht, dann verliert man, so heißt es, die Muttersprache teilweise. Also, ich verlerne sie natürlich nicht komplett, aber ich entwickele sie auch nicht so weiter, wie wenn ich in einer russischsprachigen Umgebung leben würde. Und hier kann man sich darüber streiten, also, ich bin auch nicht in einer russischsprachigen Umgebung aufgewachsen in dem Sinne, weil es nicht so also, weil es immer weniger Russisch gab im … bedeutet, meine Sprache ist so ein bisschen konserviert in dem Moment, also, mit 22 bin ich hergekommen. Das heißt, es ist anders, als wenn ich in meiner Muttersprache studiert hätte, was ich nicht habe. Ich habe zuerst auf Lettisch studiert und dann habe ich auf Deutsch studiert. Auf Russisch habe ich z.B. all die pädagogischen und psychologischen und lernpsychologischen Themen, da die kann ich gar nicht so wirklich gut auf Russisch besprechen, weil mir oft einfach der Wortschatz fehlt oder dann klinge ich wie so eine Ausländerin. Genau, worauf ich hinaus will. Unabhängig davon, ob du in … ist völlig egal, auf welchem Niveau du Deutsch lernst und oder ob du es schon kannst, aber du kannst immer deine klare Aussprache verbessern. Da gibt es also, ich habe das bei Monika Hein gelernt z.B., sie ist eine tolle Stimm- und Sprachtrainerin und da haben wir völlig absurde Übungen gemacht zum Teil, wo wir uns schlapp gelacht haben, wirklich. Also, wir man musste solche Grimassen machen bei diesen Übungen, dass wir nur noch lachen konnten und manche Übungen haben wir dann nicht in der Gruppe gemacht, das heißt, jeder hat sich alleine lächerlich gemacht irgendwie im Bad beim … du zu umgangssprachlich oder einfach ungebildet. Also, es gibt bestimmte Füllwörter, die benutzen tatsächlich Menschen, die keinen klaren Gedanken formulieren können und das ist schade, aber man kann es lernen. Aber wie alles Andere, das ist so wie eine aufrechte Haltung z.B. oder dass du dich so durchs Leben bewegst, dass man nicht denkt, dass du ein bisschen betrunken bist, sondern dass du aufrecht und stabil gehen kannst z.B., also, dass du deinen Körper kontrollierst und eine gute Körperspannung hast, das gehört alles dazu. Und ich muss noch eine Sache sagen, ich mir ist … und artikuliert zu sprechen, denn der ganze Sprechapparat ist ja auch voller Muskeln und diese Muskeln, wenn sie nicht trainiert werden, sind sie auch nicht angespannt beim Sprechen und dann klingen wir irgendwie so, dass man nichts versteht, also, kennt ihr bestimmt. Genau, deswegen und noch eine letzte Sache, das ist das Thema Körperhaltung, das habe ich von einer Expertin für nonverbale Kommunikation, die war mal zu Besuch in im Podcast von meinem Bruder und mir, dem russischsprachigen Podcast und sie hat eine interessante Sache gesagt. Sie hat gesagt, deine Haltung bestimmt im … Unterbewusstsein, dass du jetzt in diesen aufmerksamen Modus gehst. Wenn du aber im Unterricht, egal wo sitzt und du bist auf die Lehne so zurückgelehnt, so und dann hast noch die Arme verschränkt, z.B. Äh, dann signalisierst du deinem Unterbewusstsein, ich habe nicht vor, irgendwas zu lernen, ich blockiere einfach alles, was da auf mich zukommt, ist sowieso alles Blödsinn. Probier das mal aus. Also, wir haben das Thema Füllwörter. Achte mal darauf, welche du benutzt und vielleicht hast du dir zu viele angeeignet, weil du möglichst wie ein Muttersprachler klingen wolltest. Die zweite … die Haltung, probier das einfach beim nächsten Mal aus, wenn du irgendwo aufmerksam zuhören möchtest, versuch dich mal aufrecht hinzusetzen und vielleicht ein Tick nach vorne zu gehen, dann kannst du dich deutlich besser konzentrieren und kannst alles besser behalten, als wenn du so nach hinten sinkst und noch vielleicht die Arme ähm auf der Brust verschränkst. Probier das mal aus und schreib mal in die Kommentare, was deine Erfahrungen sind mit dem Thema Füllwörter, mit dem Thema Artikulation, also, wie deutlich man spricht, und auch Haltung. Und wir sehen uns im nächsten Video. Ciao, ciao.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7533
+  "src": "auto"
  },
  "CLIBhaicQ2k": {
   "channel": "Natürlich German",
@@ -16567,7 +16724,7 @@
  "-Jm4g0u8z6w": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-08T15:22:45+00:00",
+  "checked": "2026-11-11T15:16:03+00:00",
   "title": "Formelles oder informelles Deutsch? Es geht um Register!",
   "duration": 1740,
   "published": "20260426",
@@ -16740,7 +16897,8 @@
     3
    ]
   ],
-  "tx": "Hallo meine Lieben, heute möchte ich mit euch über Register sprechen. Ein Register ist meines Erachtens eines der wichtigsten Themen beim Sprachenlernen überhaupt und eines der Themen, die komischerweise absolut stiefmütterlich behandelt werden. Ihr kennt den Ausdruck, oder? stiefmütterlich behandeln. Das bedeutet wenig Aufmerksamkeit schenken. Äh man denke da an das Märchen Aschenputtel z.B. wo Aschenputtel von der Stiefmutter schlecht behandelt wurde oder alle anderen Märchen, wo auch irgendwelche Stiefmütter im Spiel waren. So, das heißt, etwas oder jemanden stiefmütterlich behandeln bedeutet dieser Person oder dieser Sache wenig Aufmerksamkeit schenken. Und ich weiß nicht, warum das so ist, aber meine Beobachtung ist, dass Menschen, die aus vor allem staatlich geförderten Deutschkursen kommen, sehr wenig Sprachgefühl haben im Sinne von was ist mündliches Deutsch, was ist schriftliches Deutsch, was ist Behördendeutsch. Äh, viele kommen zu mir und sagen, ich möchte endlich alle Briefe vom Jobcenter oder vom Finanzamt verstehen. Und dann sage ich ähm, also ich muss sie immer wieder auch mit Chat GPT entziffern und ich kenne viele Muttersprachler, die genauso große Schwierigkeiten haben beim Verständnis der offiziellen Schreiben, die sie von irgendwelchen Behörden bekommen. Und das hat nichts damit zu tun, dass die Menschen ihre Muttersprache nicht beherrschen. hat damit zu tun, dass die Behörden eine eigentlich eine eigene Sprache benutzen, deren Ziel, wie ich das sehe, nur eins ist, äh dass die Menschen Respekt haben vor etwas, was sehr kompliziert ist. Weil wenn dir das Finanzamt einen Brief schicken würde, wo drin steht äh bitte zahlen Sie bis übermorgen äh Summe X, das wäre zu einfach. Aber nein, Sie schicken dir sieben Seiten von unverständlichen äh Formulierungen",
+  "tx": "Hallo meine Lieben, heute möchte ich mit euch über Register sprechen. Ein Register ist meines Erachtens eines der wichtigsten Themen beim Sprachenlernen überhaupt und eines der Themen, die komischerweise absolut stiefmütterlich behandelt werden. Ihr kennt den Ausdruck, oder? stiefmütterlich behandeln. Das bedeutet wenig Aufmerksamkeit schenken. Äh man denke da an das Märchen Aschenputtel z.B. wo Aschenputtel von der Stiefmutter schlecht behandelt wurde oder alle anderen Märchen, wo auch irgendwelche Stiefmütter im Spiel waren. So, das heißt, etwas oder jemanden stiefmütterlich behandeln … kann. Und beim Sprache lernen passiert es leider oft, äh, dass Menschen irgendwelche Wörter lernen, ohne zu verstehen, wo sie sie benutzen können. Und das ist aus meiner Sicht ein gravierender Fehler, weil etwas, was du gelernt hast, aber nicht klar einsortiert hast. Also, du kennst das Wort, aber du weißt nicht genau, wo und wann du es verwenden kannst. Äh, das führt eigentlich nur dazu, dass du es falsch verwendest, weil du es nämlich in in unpassenden Situationen verwendest. Und das führt zu Frust und das führt dazu, dass du das Gefühl hast, okay, ich habe umsonst gelernt und so weiter. … äh z.B. äh wir haben darüber gehört, dass gestern in der Stadt etwas los war, egal was. Wenn ich eine Freundin frage, die dabei war, dann kann ich sagen, also über etwas, was jetzt gerade passiert, würde ich sagen, was ist los? Über etwas, was schon vergangen ist, würde ich fragen, was war los? Was war denn gestern in der Stadt los? Das ist die einfachste Art. Das ist mündliches Umgangssprachliches Deutsch. Das würde ich äh schriftlich wahrscheinlich okay, schriftlich in einer WhatsAppnachricht vielleicht, aber ich würde das nicht in einem Aufsatz schreiben oder in einem Zeitungsartikel … und es ist wie gesagt ein Problem, dass sowohl die Muttersprachler haben, als auch Menschen, die die Sprache zwar als Fremdsprache lernen, aber schon auf einem hohen Niveau sind. Das kommt nicht automatisch. Also, wenn du äh das Niveau C2 anstrebst, dann musst du bewusst an deiner Sprache arbeiten. Und äh das sind, denke ich, Methoden, die Muttersprachler genauso verwenden wie äh Nichtmuttersprachler. Genau. Also, meine Freundin, kann ich eben fragen, was war los gestern in der Stadt? Was ist denn passiert? Übrigens, äh die Besonderheit vom Verb passieren ist äh man benutzt es nicht, wenn … Polizist würde, wenn er einen Bericht erstellt, würde so etwas fragen. Was ist vorgefallen? Er würde höchstwahrscheinlich die Zeugen, die anwesenden nicht fragen, was ist passiert? Er würde sagen, was ist vorgefallen? So, und es gibt auch das Nomen dazu und zwar der Vorfall. Und ihr wisst, wenn wir wollen, dass eine Erzählung formeller wird und sachlicher wird und trockener wird, dann machen wir was genau? Wir benutzen möglichst viele Substantive. Das heißt, wir würden, also, wenn wir ein Verb aussuchen, würden wir eher sagen, was ist vorgefallen. Aber noch formeller wäre zu sagen, ähm äh … aus meiner Kindheit äh berichten. Z.B. Also etwas, was geschehen ist oder nee, geschehen hatten wir noch nicht, etwas ist passiert, etwas hat sich ereignet. sich etwas hat sich ereignet und etwas äh was hatten wir noch? Etwas ist vorgefallen. Genau. Etwas ist vorgefallen. Klingt negativ. Wird auch, glaube ich, in den allermeisten Fällen äh in einem negativen Kontext benutzt. Ein Ereignis ist nicht per se negativ. Also, ich möchte über ein wundervolles Ereignis äh aus meiner Kindheit berichten. Das ist auf jeden Fall etwas Positives. So, dann gibt es noch das literarische Wort geschehen. Und … liest, dann weißt du, okay, wir sind in einem formellen Kontext am vergangenen Samstag oder wenn wir gleich dazu noch die Zukunft nehmen, am kommenden Dienstag. So, achte mal darauf, je nachdem natürlich, wie wie gut die Sprache der Nachrichten ist, aber sowas wie Tagesschau wird höchstwahrscheinlich nicht sagen letzten Dienstag, nächsten Mittwoch und so weiter. In den Nachrichten hörst du eher Formulierungen wie am vergangenen Samstag, am kommenden Dienstag und so weiter. Das ist ein nicht offizieller Unterschied, aber ist mir immer wieder aufgefallen. Zeitangaben mit Reposition und Dativ … Kontext bist. Wenn du mit Behörden kommunizierst, z.B. solltest du das Wort nicht benutzen bzw. Also, du kannst es benutzen, aber dann musst dir bewusst sein, welchen Eindruck du hinterlässt bei der Person, die das liest. Also, ich habe ihren Brief gekriegt, ist sehr informell. Ich habe ihr Schreiben erhalten, ist formell. Und ich kann es nur damit vergleichen, dass wir ja auch unsere Kleidung entsprechend der Veranstaltung aussuchen, zu der wir hingehen. Das heißt, es gibt Veranstaltungen, da gehst du mit, ich weiß nicht, Shorts und T-Shirt und Flipflops hin und das sind meistens … und deswegen, falls jetzt irgendeins von den Wörtern, die ich erwähnt habe, für euch neu war, kann ich euch nicht fragen, habt ihr es schon gelernt? Das müsste ich in einer Woche, in drei Wochen, in sechs Wochen fragen und so weiter. Genau. Also, wir hatten die sehr informelle Formulierung, was ist los bzw. was war los? Dann hatten wir die etwas immer noch umgangssprachliche Formulierung. Was ist passiert? Was ist denn gestern passiert? Was ist denn? Und du merkst was, ich sage nicht, was ist denn? Ich sage, was ist denn? Was ist denn letzten Dienstag? passiert. Das ist Umgangssprache, … habe ihren Brief gekriegt. Das ist ein Satz, den du eigentlich nicht schreiben solltest. Kriegen bitte nur mündlich und nicht schriftlich. So, ich hoffe, ihr habt ziemlich viel verinnerlicht aus diesem Video. Es sollte ein sehr kurzes Video sein. Daraus haben wir mal wieder bestätigt bekommen, dass ich nicht in der Lage zu sein scheine kurze Videos aufzunehmen, aber ich kann damit leben. Ich hoffe ihr auch. Wenn euch noch andere Wörter oder Redewendungen oder sonstige Themen einfallen, die ich erklären soll, schreibt es bitte in die Kommentare. Ansonsten sehen wir uns im nächsten Video. จจช",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -17067,7 +17225,7 @@
  "t7RFvCK7Pm4": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-08T15:51:06+00:00",
+  "checked": "2026-11-11T15:27:25+00:00",
   "title": "👉 10 Tipps für flüssiges Deutsch – So sprichst du selbstbewusst! 🗣️💪",
   "duration": 697,
   "published": "20250217",
@@ -17224,7 +17382,8 @@
     2
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner betrifft: freies Sprechen. Wie kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen? Ich werde dir heute einige sehr hilfreiche Tipps geben, mit denen du dein Sprechen auf das nächste Level heben kannst. Lass uns gleich loslegen! 1. Keine Angst vor Fehlern! Der erste und wichtigste Tipp: Mach dir keine Sorgen, Fehler zu machen! Fehler gehören zum Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto sicherer wirst du. Viele Deutschlerner machen den Fehler, sich zu sehr darauf zu konzentrieren, alles perfekt zu sagen. Aber in echten Gesprächen geht es nicht um Perfektion, sondern um Kommunikation. Sei also nicht zu streng mit dir selbst. Tipp: Wenn dir ein Wort nicht einfällt, versuche es mit einem Synonym zu umschreiben. Du wirst sehen, dass du schnell kreativer wirst und dich besser ausdrücken kannst! 2. Übe regelmäßig, auch wenn es nur kurz ist! Das Geheimnis des flüssigen Sprechens ist regelmäßige Übung. Es hilft dir, die Sprache in deinem Alltag zu integrieren. Und du musst nicht immer Stunden investieren – auch kurze, tägliche Übungseinheiten können große Fortschritte bringen. Tipp: Setze dir ein tägliches Ziel, zum Beispiel 5-10 Minuten Sprechen pro Tag. Du kannst zu Hause laut vor dich hin sprechen, ein Tagebuch auf Deutsch führen oder mit einem Tandempartner üben. 3. Spreche mit Muttersprachlern oder fortgeschrittenen Lernenden Einer der besten Wege, flüssig und selbstbewusst zu sprechen, ist der Austausch mit Muttersprachlern oder anderen fortgeschrittenen Deutschlernern. Sie können dir sofort Feedback geben, dich korrigieren, wenn es nötig ist, und du bekommst auch einen",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner betrifft: freies Sprechen. Wie kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen? Ich werde dir heute einige sehr hilfreiche Tipps geben, mit denen du dein Sprechen auf das nächste Level heben kannst. Lass uns gleich loslegen! 1. Keine Angst vor Fehlern! Der erste und wichtigste Tipp: Mach dir keine Sorgen, Fehler zu machen! Fehler gehören zum Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto … machen den Fehler, sich zu sehr darauf zu konzentrieren, alles perfekt zu sagen. Aber in echten Gesprächen geht es nicht um Perfektion, sondern um Kommunikation. Sei also nicht zu streng mit dir selbst. Tipp: Wenn dir ein Wort nicht einfällt, versuche es mit einem Synonym zu umschreiben. Du wirst sehen, dass du schnell kreativer wirst und dich besser ausdrücken kannst! 2. Übe regelmäßig, auch wenn es nur kurz ist! Das Geheimnis des flüssigen Sprechens ist regelmäßige Übung. Es hilft dir, die Sprache in deinem Alltag zu integrieren. Und du musst nicht immer Stunden investieren – … können große Fortschritte bringen. Tipp: Setze dir ein tägliches Ziel, zum Beispiel 5-10 Minuten Sprechen pro Tag. Du kannst zu Hause laut vor dich hin sprechen, ein Tagebuch auf Deutsch führen oder mit einem Tandempartner üben. 3. Spreche mit Muttersprachlern oder fortgeschrittenen Lernenden Einer der besten Wege, flüssig und selbstbewusst zu sprechen, ist der Austausch mit Muttersprachlern oder anderen fortgeschrittenen Deutschlernern. Sie können dir sofort Feedback geben, dich korrigieren, wenn es nötig ist, und du bekommst auch einen Einblick in die echte Sprache, wie sie im … Tipp: Nutze Sprach-Tandem-Apps oder Plattformen, um Partner zum Sprechen zu finden. Wenn du keine Muttersprachler in deiner Nähe hast, kannst du auch Online-Sprachaustausch-Plattformen wie iTalki oder HelloTalk ausprobieren. 4. Höre viel authentisches Deutsch Um flüssiger zu sprechen, ist es wichtig, ein gutes Sprachgefühl zu entwickeln. Du musst die Sprache hören, um sie richtig sprechen zu können. Höre Podcasts, schaue Filme oder YouTube-Videos auf Deutsch – und achte dabei nicht nur auf den Inhalt, sondern auch auf die Ausdrucksweise und Intonation. Tipp: Versuche, einfache Gespräche und … Du kannst auch die Shadowing-Technik ausprobieren, bei der du einen Satz direkt nachsprichst, sobald du ihn hörst. Das hilft dir, deinen Sprechfluss zu verbessern. 5. Denke in der Zielsprache Ein weiterer Tipp: Denke direkt in Deutsch, anstatt in deiner Muttersprache zu denken und dann zu übersetzen. Das Übersetzen kann dich bremsen und deine Sprechgeschwindigkeit verlangsamen. Versuche stattdessen, deine Gedanken sofort auf Deutsch zu formulieren. Tipp: Wenn du über alltägliche Dinge nachdenkst, versuche, in Deutsch zu denken – zum Beispiel, wenn du zur Arbeit gehst oder einkaufen gehst. … und flüssiger zu sprechen. 6. Finde dein „Thema“ oder Interesse Es ist viel einfacher, flüssig zu sprechen, wenn du ein Thema findest, das du wirklich interessant findest. Wenn du dich über ein Thema gerne unterhältst, kommen die Worte viel leichter. Je mehr du darüber sprichst, desto mehr Vokabeln und Ausdrücke wirst du kennen lernen. Tipp: Überlege dir ein Thema, das dich begeistert – sei es Reisen, Filme, Musik oder Sport. Übe regelmäßig, dieses Thema auf Deutsch zu besprechen. Du wirst merken, dass du dich immer wohler und selbstbewusster fühlst. 7. Baue eine positive Einstellung … beim freien Sprechen ist oft der Selbstzweifel. Denk immer daran, dass du auf dem richtigen Weg bist, und erlaube dir, Fehler zu machen. Das gehört zum Lernprozess dazu und ist völlig normal. Eine positive Einstellung wird dir helfen, deine Ängste abzubauen und dich auf das Wesentliche zu konzentrieren: das Gespräch! Tipp: Visualisiere deinen Erfolg. Stelle dir vor, wie du ein tolles Gespräch auf Deutsch führst und dich dabei selbstbewusst fühlst. 8. Vermeide zu viel Grammatikfokus Natürlich ist Grammatik wichtig, aber beim freien Sprechen solltest du dich nicht zu sehr auf die Grammatik … besser, zuerst zu sprechen und deine Ideen zu äußern, als perfekt über jeden Satz nachzudenken. Grammatik kannst du später verbessern. Tipp: Wenn dir eine grammatikalische Regel nicht einfällt, sprich einfach weiter. Die Zuhörer werden eher darauf achten, wie du dich ausdrückst, als darauf, ob du die Grammatik perfekt beherrschst. 9. Verwende visuelle Hilfsmittel Manchmal kann es helfen, visuelle Hilfsmittel wie Bilder, Diagramme oder sogar Notizen zu verwenden, um deine Gedanken zu organisieren. Du kannst beispielsweise vor einem Gespräch Notizen zu den wichtigsten Punkten machen, die du … Wenn du über ein bestimmtes Thema sprichst, erstelle eine kleine Liste oder ein Mindmap, um dich zu orientieren. Das wird dir helfen, den Gesprächsfaden nicht zu verlieren. 10. Bleib geduldig mit dir selbst! Zu guter Letzt: Geduld ist der Schlüssel! Freies Sprechen braucht Zeit und Übung. Sei nicht zu hart zu dir selbst, wenn es mal nicht so gut klappt. Mit jeder Übungseinheit wirst du sicherer und flüssiger werden. Tipp: Feiere kleine Erfolge! Jede noch so kleine Verbesserung ist ein Schritt in die richtige Richtung. Zusammenfassung: Mache dir keine Sorgen vor Fehlern. Übe regelmäßig, auch … mit Muttersprachlern oder fortgeschrittenen Lernenden. Höre viel authentisches Deutsch. Denke in Deutsch. Finde ein Thema, das du liebst. Baue eine positive Einstellung auf. Vermeide zu viel Grammatikfokus. Nutze visuelle Hilfsmittel. Sei geduldig mit dir selbst. Wenn du noch mehr zu diesem Thema lernen möchtest, schau dir auch meine anderen Videos an! Melde dich auch für den Newsletter an, um immer auf dem neuesten Stand zu bleiben: AuthenticGermanLearning.com/free Ich hoffe, diese Tipps helfen dir, selbstbewusster und flüssiger zu sprechen! Viel Erfolg beim Üben! Bis zum nächsten Mal!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },

@@ -62462,7 +62462,7 @@
  "02gREj_YHCo": {
   "channel": "StoryTalks French",
   "lang": "fr",
-  "checked": "2026-11-07T05:38:45+00:00",
+  "checked": "2026-11-11T15:11:10+00:00",
   "title": "Need a Doctor in France? 🇫🇷 Learn These Dialogues First | 20 Minutes",
   "duration": 1167,
   "published": "20260716",
@@ -62470,73 +62470,10 @@
   "spoken_v": 2,
   "pace": 67.8,
   "rare": 0.0258,
+  "var": 0.7239,
   "speech_s": 1095.6,
   "tokens": 1238,
   "kw": [
-   [
-    "reposez",
-    "Reposez-vous. D'accord, docteur.",
-    79,
-    86,
-    3.03,
-    4
-   ],
-   [
-    "buvez",
-    "Vous buvez assez d'eau? Oui, un peu.",
-    67,
-    75,
-    3.45,
-    4
-   ],
-   [
-    "bougez",
-    "Ne bougez pas. D'accord.",
-    404,
-    409,
-    3.18,
-    3
-   ],
-   [
-    "respirez",
-    "Respirez doucement. Oui.",
-    424,
-    431,
-    2.82,
-    2
-   ],
-   [
-    "pastilles",
-    "Oui, des pastilles. Voilà les pastilles.",
-    776,
-    782,
-    3.0,
-    2
-   ],
-   [
-    "perfusion",
-    "Je vais mettre une perfusion. D'accord.",
-    393,
-    399,
-    3.18,
-    2
-   ],
-   [
-    "portez",
-    "Ne portez pas de choses lourdes.",
-    876,
-    881,
-    3.68,
-    3
-   ],
-   [
-    "fatiguée",
-    "Vous êtes que fatiguée? Oui, très fatiguée.",
-    55,
-    62,
-    3.92,
-    4
-   ],
    [
     "oui",
     "Oui, je tousse. Vous avez de la fièvre?",
@@ -62570,14 +62507,6 @@
     25
    ],
    [
-    "merci",
-    "Merci, docteur. De rien, bon rétablissement.",
-    98,
-    110,
-    5.62,
-    19
-   ],
-   [
     "docteur",
     "Bonjour, docteur. Qu'est-ce qui ne va pas?",
     12,
@@ -62586,31 +62515,111 @@
     14
    ],
    [
-    "voilà",
-    "Voilà. Ne bougez pas.",
-    402,
-    408,
-    5.25,
-    12
+    "plaît",
+    "Ouvrez la bouche, s'il vous plaît.",
+    181,
+    185,
+    4.58,
+    6
    ],
    [
-    "matin",
-    "Le matin et le soir. Oui.",
-    93,
-    99,
-    5.32,
-    10
+    "lunettes",
+    "Vous portez des lunettes? Oui, parfois.",
+    954,
+    961,
+    4.44,
+    4
+   ],
+   [
+    "blessure",
+    "Une blessure. Bonjour.",
+    468,
+    478,
+    4.29,
+    4
+   ],
+   [
+    "fièvre",
+    "Vous avez de la fièvre? Oui, un peu.",
+    32,
+    40,
+    4.14,
+    5
+   ],
+   [
+    "fatiguée",
+    "Vous êtes que fatiguée? Oui, très fatiguée.",
+    55,
+    62,
+    3.92,
+    4
+   ],
+   [
+    "médicament",
+    "Prenez ce médicament. Combien de fois?",
+    85,
+    91,
+    4.08,
+    3
+   ],
+   [
+    "rétablissement",
+    "De rien, bon rétablissement. Chez le dentiste.",
+    101,
+    120,
+    3.84,
+    3
+   ],
+   [
+    "buvez",
+    "Vous buvez assez d'eau? Oui, un peu.",
+    67,
+    75,
+    3.45,
+    4
+   ],
+   [
+    "reposez",
+    "Reposez-vous. D'accord, docteur.",
+    79,
+    86,
+    3.03,
+    4
+   ],
+   [
+    "bougez",
+    "Ne bougez pas. D'accord.",
+    404,
+    409,
+    3.18,
+    3
+   ],
+   [
+    "perfusion",
+    "Je vais mettre une perfusion. D'accord.",
+    393,
+    399,
+    3.18,
+    2
+   ],
+   [
+    "respirez",
+    "Respirez doucement. Oui.",
+    424,
+    431,
+    2.82,
+    2
    ]
   ],
-  "tx": "Les symptômes du rhume Bonjour Bonjour, docteur. Qu'est-ce qui ne va pas? Je me sens mal. Vous avez mal ou? J'ai mal à la gorge. Vous toussez? Oui, je tousse. Vous avez de la fièvre? Oui, un peu. Vous avez le nez qui coule? Oui. Vous avez mal à la tête? Oui, un peu. Depuis quand? Depuis deux jours. Vous êtes que fatiguée? Oui, très fatiguée. Vous dormez bien? Non, pas très bien. Vous buvez assez d'eau? Oui, un peu. Buvez plus d'eau. D'accord. Reposez-vous. D'accord, docteur. Prenez ce médicament. Combien de fois? Deux fois par jour. Le matin et le soir. Oui. Merci, docteur. De rien, bon rétablissement. Chez le dentiste. Bonjour. Bonjour, docteur. Qu'est-ce qui ne va pas? J'ai mal à une dent. Depuis quand? Depuis trois jours. Vous avez mal ici? Oui, ici. La douleur est forte? Oui, assez forte. Vous avez mal le matin? Oui, un peu. Vous avez mal le soir? Oui, beaucoup. Vous pouvez manger? Non, pas bien. Vous buvez froid? Oui, parfois. Ça fait mal avec l'eau froide? Oui, beaucoup. Ouvrez la bouche, s'il vous plaît. D'accord. Je vais regarder. D'accord, docteur. Vous avez une petite carie C'est grave? Non, ce n'est pas grave. Ça va faire mal? Non, ne vous inquiétez pas. D'accord. Prenez ce médicament. Combien de fois par jour? Deux fois par jour, le matin et le soir. Merci, docteur. De rien, bon courage. Prendre rendez-vous. Bonjour. Bonjour, monsieur. Je voudrais prendre rendez-vous. D'accord, avec quel médecin? Avec le docteur Martin. C'est pour vous? Oui, c'est pour moi. Quelle est votre nom? Je m'appelle Paul Durand. Vous avez quel âge? J'ai 25 ans. Pourquoi voulez-vous voir le médecin? J'ai mal à la gorge. Vous avez de la fièvre? Oui, un peu. Depuis quand? Depuis deux jours. Vous êtes libre demain? Oui, demain matin. À neuf heures? Non, c'est trop tôt. À dix heures, alo",
+  "tx": "Les symptômes du rhume Bonjour Bonjour, docteur. Qu'est-ce qui ne va pas? Je me sens mal. Vous avez mal ou? J'ai mal à la gorge. Vous toussez? Oui, je tousse. Vous avez de la fièvre? Oui, un peu. Vous avez le nez qui coule? Oui. Vous avez mal à la tête? Oui, un peu. Depuis quand? Depuis deux jours. Vous êtes que fatiguée? Oui, très fatiguée. Vous dormez bien? Non, pas très bien. Vous buvez assez d'eau? Oui, un peu. Buvez plus d'eau. D'accord. Reposez-vous. D'accord, docteur. Prenez ce médicament. Combien de fois? Deux fois par jour. Le matin et le soir. Oui. Merci, docteur. De rien, bon … va pas? J'ai mal à une dent. Depuis quand? Depuis trois jours. Vous avez mal ici? Oui, ici. La douleur est forte? Oui, assez forte. Vous avez mal le matin? Oui, un peu. Vous avez mal le soir? Oui, beaucoup. Vous pouvez manger? Non, pas bien. Vous buvez froid? Oui, parfois. Ça fait mal avec l'eau froide? Oui, beaucoup. Ouvrez la bouche, s'il vous plaît. D'accord. Je vais regarder. D'accord, docteur. Vous avez une petite carie C'est grave? Non, ce n'est pas grave. Ça va faire mal? Non, ne vous inquiétez pas. D'accord. Prenez ce médicament. Combien de fois par jour? Deux fois par jour, le matin … Bonjour. Bonjour, monsieur. Je voudrais prendre rendez-vous. D'accord, avec quel médecin? Avec le docteur Martin. C'est pour vous? Oui, c'est pour moi. Quelle est votre nom? Je m'appelle Paul Durand. Vous avez quel âge? J'ai 25 ans. Pourquoi voulez-vous voir le médecin? J'ai mal à la gorge. Vous avez de la fièvre? Oui, un peu. Depuis quand? Depuis deux jours. Vous êtes libre demain? Oui, demain matin. À neuf heures? Non, c'est trop tôt. À dix heures, alors? Oui, c'est parfait. Très bien, demain à dix heures. Merci beaucoup. Vous avez votre carte? Oui, j'ai ma carte. Apportez-la demain, s'il … Non, merci. À demain, monsieur. À demain. À l'hôpital. Bonjour, madame. Bonjour. Je suis l'infirmière. D'accord. Ça va? Non, ça ne va pas. Vous êtes fatiguée? Oui, très fatiguée. Vous avez mal? Oui, j'ai mal à la tête. Vous avez de la fièvre? Oui, un peu. Je vais mettre une perfusion. D'accord. Donnez-moi votre bras. Voilà. Ne bougez pas. D'accord. Ça va? Oui, ça va. Ça fait mal? Un peu. C'est normal. D'accord. Respirez doucement. Oui. La perfusion est prête. Merci. Maintenant, reposez-vous. D'accord. Vous voulez de l'eau? Oui, s'il vous plaît. Voilà de l'eau. Merci beaucoup. De … Je suis blessé. Où est-ce la blessure? À la main. Montrez-moi votre main. Voilà. Ça fait mal. Oui, un peu. Ça saigne? Oui, un peu. Comment vous avez fait ça? Je suis tombé. C'était quand? Ce matin. La blessure est petite. Ce n'est pas grave? Non, ce n'est pas grave. D'accord. Je vais nettoyer la blessure. Ça va faire mal? Un peu seulement. D'accord. Ne bougez pas. Oui. Voilà, c'est propre. Merci. Je vais mettre un pencement. D'accord. Changer le pencement demain. Demain matin? Oui, demain matin. Merci, docteur. De rien, bon courage. Faire une analyse de sang. Bonjour, madame. Bonjour. Je … c'est ça. Vous avez votre ordonnance? Oui, la voilà. Merci. Est-ce que ça va faire mal? Un peu seulement. D'accord. Donnez-moi votre bras, s'il vous plaît. Le bras droit? Oui, très bien. Voilà. Ne bougez pas. D'accord. Respirez doucement. Oui. Ça va? Oui, ça va. C'est presque fini. Très bien. Voilà, c'est fini. Déjà? Oui. Merci. Je mets un petit pencement. D'accord. Gardez le pencement dix minutes. Dix minutes. Oui, dix minutes. Merci beaucoup. De rien, madame. À la pharmacie. Bonjour. Bonjour, monsieur. Je voudrais un médicament. D'accord. Qu'est-ce qui ne va pas? J'ai mal à la gorge. Vous … Depuis deux jours. Vous avez le nez qui coule? Oui. Je vous donne ce sirop. C'est pour la tout? Oui, c'est pour la tout. Comment je le prends? Deux fois par jour. Le matin et le soir? Oui. Je dois manger avant? Oui, c'est mieux. D'accord. Buvez beaucoup d'eau. Très bien. Reposez-vous aussi. D'accord. Vous voulez autre chose? Oui, des pastilles. Voilà les pastilles. Combien ça coûte? Dix euros. Voilà. Merci. Bon rétablissement. Merci au revoir. Le mal de dos. Bonjour. Bonjour docteur. Qu'est-ce qui ne va pas? J'ai mal au dos. Depuis quand? Depuis hier. La douleur est forte? Oui, assez forte. … pouvez vous asseoir? Oui, mais ça fait mal. Vous avez porté quelque chose? Oui, un sac lourd. D'accord. Ce n'est pas grave? Non, je pense que ce n'est pas grave. Que dois-je faire? Reposez-vous aujourd'hui. D'accord. Ne portez pas de choses lourdes. Très bien. Mettez cette crème. Combien de fois par jour? Deux fois par jour. Le matin et le soir? Oui. Je dois revenir? Oui, si la douleur continue. Merci, docteur. De rien, bon rétablissement. Chez l’ophtalmologue Bonjour, monsieur. Bonjour, docteur. Qu'est-ce qui ne va pas? Je vois mal. Depuis quand? Depuis une semaine. Vous avez mal aux … Oui, parfois. Vous avez vos lunettes? Oui, les voilà. D'accord, merci. C'est grave? Non, je vais regarder. D'accord. Regardez les lettres. D'accord. Vous voyez cette ligne? Non, pas très bien. Et cette ligne? Oui, je la vois. Très bien. J'ai besoin de nouvelles lunettes? Oui, je pense. D'accord. Je vais faire une ordonnance. Merci, docteur. Portez vos lunettes tous les jours. D'accord. Revenez dans six mois. Très bien. Au revoir, monsieur. Au revoir, docteur. À la réception de l'hôpital. Bonjour, madame. Bonjour. Je voudrais voir un médecin. D'accord. Quel est votre nom? Je m'appelle … qui ne va pas? J'ai mal au ventre. Depuis quand? Depuis ce matin. Vous avez de la fièvre? Oui, un peu. Vous avez votre carte? Oui, la voilà. Merci. Je dois attendre longtemps? Non, pas très longtemps. D'accord. Asseyez-vous s'il vous plaît. Où? Là-bas, dans la salle d'attente. Merci. Le médecin va vous appeler. Très bien. Vous voulez de l'eau? Oui, s'il vous plaît. Voilà. Merci beaucoup. De rien. Je suis un peu inquiète. Ne vous inquiétez pas. D'accord. Tout va bien. Si vous avez aimé ces cours dialogues en français, laissez votre avis dans les commentaires et n'oubliez pas de vous abonner.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7108
+  "src": "cc"
  },
  "EWdx1Qt7GbA": {
   "channel": "Français Plus Facile",
   "lang": "fr",
-  "checked": "2026-11-07T05:43:48+00:00",
+  "checked": "2026-11-11T15:12:25+00:00",
   "title": "Comprehensible input en français🇫🇷 Le pronom Y en contexte",
   "duration": 679,
   "published": "20260524",
@@ -62618,72 +62627,17 @@
   "spoken_v": 2,
   "pace": 135.1,
   "rare": 0.0181,
+  "var": 0.7429,
   "speech_s": 661.2,
   "tokens": 1489,
   "kw": [
    [
-    "préposition",
-    "je vais t'expliquer. J'ai utilisé Y parce que le verbe réfléchir s'utilise avec la préposition à.",
-    48,
-    58,
-    2.85,
-    8
-   ],
-   [
-    "pronom",
-    "Qu'est-ce que j'ai fait ici ? J'ai utilisé le pronom Y. Est-ce que tu sais pourquoi ? Si tu",
-    30,
-    41,
-    3.27,
-    7
-   ],
-   [
-    "verbes",
-    "est la difficulté pour toi ici ? Eh bien c'est de comprendre que certains verbes doivent s'utiliser",
-    102,
-    111,
-    3.57,
-    9
-   ],
-   [
-    "verbe",
-    "je vais t'expliquer. J'ai utilisé Y parce que le verbe réfléchir s'utilise avec la préposition à.",
-    48,
-    58,
-    4.06,
-    14
-   ],
-   [
-    "habituer",
-    "chose. On a le verbe s'habituer. On s'habitue à quelque chose. On a le verbe faire attention.",
-    154,
-    165,
-    3.7,
-    5
-   ],
-   [
-    "horoscope",
-    "Tiens, regarde, je suis tombée sur mon horoscope. Est-ce que tu lis",
-    270,
-    275,
-    3.13,
-    3
-   ],
-   [
-    "apprennes",
-    "pas de sens. Il faut que tu les apprennes petit à petit. Aujourd'hui, on va en voir six. Ce sont des",
-    127,
-    136,
-    2.51,
-    2
-   ],
-   [
-    "vinaigre",
-    "Tiens, est-ce que tu as déjà goûté à ça ? Les chips au vinaigre ? Je te pose la question parce",
-    318,
-    327,
-    3.65,
-    4
+    "chose",
+    "a par exemple le verbe penser. On pense à quelque chose. On a le verbe croire. On croit à quelque",
+    144,
+    155,
+    5.7,
+    12
    ],
    [
     "tiens",
@@ -62691,14 +62645,6 @@
     182,
     192,
     4.88,
-    12
-   ],
-   [
-    "chose",
-    "a par exemple le verbe penser. On pense à quelque chose. On a le verbe croire. On croit à quelque",
-    144,
-    155,
-    5.7,
     12
    ],
    [
@@ -62718,42 +62664,114 @@
     11
    ],
    [
-    "vais",
-    "Je sais pas trop quoi faire pendant les vacances cet été. Est-ce que je vais à la plage ? Est-ce",
-    0,
-    9,
-    5.58,
-    10
+    "réfléchir",
+    "que je vais à la montagne ? Qu'est-ce que je dois faire ? Je pense que je vais y réfléchir. Je vais",
+    8,
+    17,
+    4.53,
+    5
    ],
    [
-    "quelque",
-    "a par exemple le verbe penser. On pense à quelque chose. On a le verbe croire. On croit à quelque",
-    144,
-    155,
-    5.54,
-    10
+    "contexte",
+    "faut que tu les apprennes. Et c'est le contexte qui va t'aider à comprendre que tu peux utiliser",
+    215,
+    223,
+    4.79,
+    4
    ],
    [
-    "utiliser",
-    "en général, on peut utiliser le pronom Y pour remplacer un groupe de mots.",
-    64,
-    74,
-    5.04,
-    8
+    "utilise",
+    "sais pourquoi on utilise ce pronom, ça va vraiment t'aider. Si tu ne sais pas, eh bien aujourd'hui",
+    40,
+    49,
+    4.79,
+    3
    ],
    [
-    "parce",
+    "entends",
+    "tu peux aussi identifier le Y quand tu écoutes du français. Tiens, j'entends le Y. De quoi",
+    618,
+    628,
+    4.56,
+    3
+   ],
+   [
+    "verbe",
     "je vais t'expliquer. J'ai utilisé Y parce que le verbe réfléchir s'utilise avec la préposition à.",
     48,
     58,
-    5.73,
+    4.06,
+    14
+   ],
+   [
+    "réfléchis",
+    "Je réfléchis à mes vacances. Je réfléchis à ce que je vais faire cet été.",
+    73,
+    82,
+    3.87,
+    5
+   ],
+   [
+    "habituer",
+    "chose. On a le verbe s'habituer. On s'habitue à quelque chose. On a le verbe faire attention.",
+    154,
+    165,
+    3.7,
+    5
+   ],
+   [
+    "vinaigre",
+    "Tiens, est-ce que tu as déjà goûté à ça ? Les chips au vinaigre ? Je te pose la question parce",
+    318,
+    327,
+    3.65,
+    4
+   ],
+   [
+    "verbes",
+    "est la difficulté pour toi ici ? Eh bien c'est de comprendre que certains verbes doivent s'utiliser",
+    102,
+    111,
+    3.57,
+    9
+   ],
+   [
+    "pronom",
+    "Qu'est-ce que j'ai fait ici ? J'ai utilisé le pronom Y. Est-ce que tu sais pourquoi ? Si tu",
+    30,
+    41,
+    3.27,
+    7
+   ],
+   [
+    "horoscope",
+    "Tiens, regarde, je suis tombée sur mon horoscope. Est-ce que tu lis",
+    270,
+    275,
+    3.13,
+    3
+   ],
+   [
+    "préposition",
+    "je vais t'expliquer. J'ai utilisé Y parce que le verbe réfléchir s'utilise avec la préposition à.",
+    48,
+    58,
+    2.85,
     8
+   ],
+   [
+    "apprennes",
+    "pas de sens. Il faut que tu les apprennes petit à petit. Aujourd'hui, on va en voir six. Ce sont des",
+    127,
+    136,
+    2.51,
+    2
    ]
   ],
-  "tx": "Je sais pas trop quoi faire pendant les vacances cet été. Est-ce que je vais à la plage ? Est-ce que je vais à la montagne ? Qu'est-ce que je dois faire ? Je pense que je vais y réfléchir. Je vais prendre le temps d'y réfléchir. Je ne veux pas prendre une décision comme ça sans y réfléchir. Qu'est-ce que j'ai fait ici ? J'ai utilisé le pronom Y. Est-ce que tu sais pourquoi ? Si tu sais pourquoi on utilise ce pronom, ça va vraiment t'aider. Si tu ne sais pas, eh bien aujourd'hui je vais t'expliquer. J'ai utilisé Y parce que le verbe réfléchir s'utilise avec la préposition à. Et en français, quand un verbe est suivi de la préposition à, en général, on peut utiliser le pronom Y pour remplacer un groupe de mots. Je réfléchis à mes vacances. Je réfléchis à ce que je vais faire cet été. Je réfléchis à ces deux options, la plage ou la montagne. Je réfléchis à ce qui me plaît le plus. Donc, j'ai le droit d'utiliser Y. J'y réfléchis. Je veux y réfléchir. Alors, quelle est la difficulté pour toi ici ? Eh bien c'est de comprendre que certains verbes doivent s'utiliser avec la préposition à et tu dois les apprendre. Tu n'as pas le choix, ça va pas venir comme ça tout seul. Alors aujourd'hui, je vais pas te donner une liste de 300 verbes avec la préposition à. Ça n'a pas de sens. Il faut que tu les apprennes petit à petit. Aujourd'hui, on va en voir six. Ce sont des verbes très courants qui te seront utiles. Donc essaie de les apprendre avec la préposition à. On a par exemple le verbe penser. On pense à quelque chose. On a le verbe croire. On croit à quelque chose. On a le verbe s'habituer. On s'habitue à quelque chose. On a le verbe faire attention. On fait attention à quelque chose. Le verbe tenir. Tenir à quelque chose. Alors attention, ce verbe, il a un sens un petit peu différe",
+  "tx": "Je sais pas trop quoi faire pendant les vacances cet été. Est-ce que je vais à la plage ? Est-ce que je vais à la montagne ? Qu'est-ce que je dois faire ? Je pense que je vais y réfléchir. Je vais prendre le temps d'y réfléchir. Je ne veux pas prendre une décision comme ça sans y réfléchir. Qu'est-ce que j'ai fait ici ? J'ai utilisé le pronom Y. Est-ce que tu sais pourquoi ? Si tu sais pourquoi on utilise ce pronom, ça va vraiment t'aider. Si tu ne sais pas, eh bien aujourd'hui je vais t'expliquer. J'ai utilisé Y parce que le verbe réfléchir s'utilise avec la préposition à. Et en français, … réfléchis à ce que je vais faire cet été. Je réfléchis à ces deux options, la plage ou la montagne. Je réfléchis à ce qui me plaît le plus. Donc, j'ai le droit d'utiliser Y. J'y réfléchis. Je veux y réfléchir. Alors, quelle est la difficulté pour toi ici ? Eh bien c'est de comprendre que certains verbes doivent s'utiliser avec la préposition à et tu dois les apprendre. Tu n'as pas le choix, ça va pas venir comme ça tout seul. Alors aujourd'hui, je vais pas te donner une liste de 300 verbes avec la préposition à. Ça n'a pas de sens. Il faut que tu les apprennes petit à petit. Aujourd'hui, on … On pense à quelque chose. On a le verbe croire. On croit à quelque chose. On a le verbe s'habituer. On s'habitue à quelque chose. On a le verbe faire attention. On fait attention à quelque chose. Le verbe tenir. Tenir à quelque chose. Alors attention, ce verbe, il a un sens un petit peu différent du verbe tenir. Tenir à quelque chose, ça veut dire que cette chose est importante pour nous. Je tiens à cette chose. Je tiens à venir te voir. C'est important pour moi. Et puis on va voir un dernier verbe. C'est le verbe ne rien comprendre. On ne comprend rien à quelque chose. Voilà. Donc il … Et c'est le contexte qui va t'aider à comprendre que tu peux utiliser le pronom Y quand tu utilises ces verbes. Alors justement, on va s'entraîner aujourd'hui avec des situations faciles à comprendre et tu vas voir comment on utilise ce pronom. J'ai rendez-vous chez le dentiste à la fin du mois prochain. Donc tu vois, je note la date sur mon calendrier parce que sinon je ne vais pas y penser. Je vais oublier que j'ai rendez-vous. Donc penser à un rendez-vous, y penser. Je note la date pour y penser. Tiens, regarde, je suis tombée sur mon horoscope. Est-ce que tu lis l'horoscope ? Moi, … incroyable. Est-ce que tu y crois ? Est-ce que tu crois à l'horoscope ? Est-ce que tu crois à ces histoires d'astrologie ? Eh bien moi, je n'y crois pas du tout. Je ne pense pas que mon avenir soit influencé par les étoiles. Alors, tu as le droit d'y croire. Chacun est libre mais moi vraiment je n'y crois pas. Tiens, est-ce que tu as déjà goûté à ça ? Les chips au vinaigre ? Je te pose la question parce que c'est super populaire au Canada, en Amérique du Nord, je pense en général. Les gens adorent les chips au vinaigre. Eh bien moi, je n'aime pas. Je trouve que c'est trop fort. On sent … pas à m'y habituer. Je n'arrive pas à m'y faire. S'y faire en français, ça veut dire s'habituer à quelque chose. Je n'arrive pas à m'y faire. Et tu vois encore aujourd'hui, hein, j'ai essayé de redonner une chance aux chips au vinaigre. Eh bien, je crois que je ne m'y habituerai jamais. Jamais. Je n'aime pas du tout. Tiens, regarde. Je te montre ça parce que justement j'étais à Boston il y a quelques jours. Boston aux États-Unis et il faisait 35 degrés, grand soleil. Donc tu vois, j'ai pris des couleurs mais j'ai fait attention à ma peau. J'y ai fait attention. Pourquoi ? Parce que le … pas très beau, tu vois. Donc d'un seul coup, le soleil comme ça sur la peau, il faut y faire attention. Alors, j'ai pas mis de crème, j'avais pas de crème solaire, mais j'ai décidé de marcher aux endroits où il y avait de l'ombre. Tu vois, j'étais pas en plein soleil toute la journée parce que j'ai beaucoup marché. Donc, j'ai décidé de faire attention à ma peau. Voilà, on y fait attention, ça veut dire qu'on fait attention à quelque chose. Alors, tu sais, moi je porte pas beaucoup de bijoux et puis je porte toujours les mêmes. En fait, je les enlève pas. Alors, regarde celui-ci, je te … C'est un porte-bonheur. Et tu vois, ça fait 8 ans que je le porte et j'espère que je ne vais jamais le perdre. J'y tiens, ça veut dire que c'est important pour moi. Il a une valeur sentimentale très forte. J'y tiens. Alors, peut-être que toi aussi tu as des objets auxquels tu tiens beaucoup. Donc, n'hésite pas à utiliser ce verbe : j'y tiens. Ça veut dire que c'est très important pour moi. Voilà. Je suis en train d'essayer de lire un petit roman en japonais. Je suis pas prête. Je suis pas prête à lire ce genre de choses. C'est trop difficile, je n'y comprends rien. J'arrive à lire mon … comprendre, tu le connais. Mais attention à la forme négative avec rien. Il faut utiliser la préposition à. Je ne comprends rien à ce livre. Je ne comprends rien à ce que tu dis. Je ne comprends rien à l'histoire dans ce film. Ça peut être une situation aussi. Donc tu dois utiliser le pronom Y. Je n'y comprends rien. Voilà. Donc tu vois, ce sont sept verbes. Le verbe que j'ai donné en introduction et les six verbes que je t'ai présentés avec des exemples. Ce sont des verbes courants. Et c'est à toi maintenant d'apprendre ces verbes avec la préposition à. Ça va pas venir tout seul. C'est … est le contexte ? Parce que c'est toujours lié à un contexte. Comme je te le disais tout à l'heure, quand je dis : \"Je n'y comprends rien\", je parle de ce livre, tu le sais puisque tu m'as vu lire. Donc tous les Y que tu entends en général, quand il s'agit d'un pronom, ils font référence à quelque chose qui était dans le contexte. Donc je t'encourage à faire attention à ce que tu entends et puis tu vas voir, ça va être plus naturel pour toi. Et puis bien sûr, je te donnerai d'autres façons de travailler ces mots importants, le Y, le EN dans d'autres vidéos. Alors, je te dis à très bientôt.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7092
+  "src": "cc"
  },
  "WwBlgiqkpfA": {
   "channel": "French Breakdown",
@@ -63120,7 +63138,7 @@
  "v2whO4U3S34": {
   "channel": "Easy French",
   "lang": "fr",
-  "checked": "2026-11-07T05:56:45+00:00",
+  "checked": "2026-11-11T15:17:12+00:00",
   "title": "Summer Drinks & Terrace Culture: Vocabulary and Real Conversations in Slow French",
   "duration": 902,
   "published": "20260627",
@@ -63128,72 +63146,41 @@
   "spoken_v": 2,
   "pace": 126.1,
   "rare": 0.0722,
+  "var": 0.7503,
   "speech_s": 876.2,
   "tokens": 1841,
   "kw": [
    [
-    "pinte",
-    "Une pinte de bière, c'est-à-dire 50",
-    459,
-    468,
-    3.07,
+    "eau",
+    "de citron, d'eau et de sucre.",
+    126,
+    133,
+    5.46,
+    12
+   ],
+   [
+    "prendre",
+    "Je vais prendre un sirop de pêche, s'il",
+    74,
+    79,
+    5.62,
+    11
+   ],
+   [
+    "vais",
+    "Je vais prendre un sirop de pêche, s'il",
+    74,
+    79,
+    5.58,
+    9
+   ],
+   [
+    "cela",
+    "cela avec modération. Nous allons donc aujourd'hui voir toutes",
+    42,
+    50,
+    5.72,
     7
-   ],
-   [
-    "glaçons",
-    "verre, on ajoute quelques glaçons et puis on remplit le verre d'eau.",
-    142,
-    152,
-    3.27,
-    5
-   ],
-   [
-    "chardonnay",
-    "chardonnay, un Saint-Émilion, un Côtes-du-Rhône, un Pouilly-Fumé, il",
-    561,
-    570,
-    3.05,
-    4
-   ],
-   [
-    "diabolo",
-    "de l'eau plate, cela fait un diabolo.",
-    151,
-    159,
-    2.57,
-    3
-   ],
-   [
-    "cocktails",
-    "adorent prendre des cocktails en terrasse. Il en existe plein, le Spritz,",
-    273,
-    283,
-    3.6,
-    6
-   ],
-   [
-    "grenadine",
-    "fraise, pêche, grenadine, menthe. Il y",
-    158,
-    166,
-    2.63,
-    3
-   ],
-   [
-    "picon",
-    "ou encore le Picon bière. Le Picon,",
-    522,
-    531,
-    2.74,
-    3
-   ],
-   [
-    "mojito",
-    "Mojito. Mais, dis-moi Judith,",
-    286,
-    293,
-    2.76,
-    3
    ],
    [
     "bière",
@@ -63212,27 +63199,11 @@
     12
    ],
    [
-    "eau",
-    "de citron, d'eau et de sucre.",
-    126,
-    133,
-    5.46,
-    12
-   ],
-   [
     "vin",
     "un verre de vin, mais évidemment tout",
     39,
     46,
     4.79,
-    11
-   ],
-   [
-    "prendre",
-    "Je vais prendre un sirop de pêche, s'il",
-    74,
-    79,
-    5.62,
     11
    ],
    [
@@ -63244,26 +63215,106 @@
     10
    ],
    [
-    "vais",
-    "Je vais prendre un sirop de pêche, s'il",
-    74,
-    79,
-    5.58,
-    9
+    "citron",
+    "un Perrier avec une rondelle de citron,",
+    35,
+    42,
+    3.88,
+    7
    ],
    [
-    "alcool",
-    "alcool. En français, on appelle ça des",
-    103,
-    111,
-    4.67,
-    9
+    "terrasse",
+    "terrasse. Et pourquoi ça, ? Nous sommes ici parce qu'il fait très",
+    8,
+    17,
+    4.09,
+    6
+   ],
+   [
+    "boisson",
+    "boisson est-ce qu'on peut boire durant",
+    21,
+    27,
+    4.04,
+    6
+   ],
+   [
+    "bars",
+    "bars, du pop-corn salé. Mais si on a vraiment très ?",
+    675,
+    683,
+    4.02,
+    6
+   ],
+   [
+    "pinte",
+    "Une pinte de bière, c'est-à-dire 50",
+    459,
+    468,
+    3.07,
+    7
+   ],
+   [
+    "easy",
+    "nouvel épisode de Super Easy French.",
+    2,
+    9,
+    3.58,
+    5
+   ],
+   [
+    "glaçons",
+    "verre, on ajoute quelques glaçons et puis on remplit le verre d'eau.",
+    142,
+    152,
+    3.27,
+    5
+   ],
+   [
+    "virgin",
+    "commander des cocktails virgin. C'est comme cela que l'on appelle les",
+    294,
+    302,
+    3.44,
+    4
+   ],
+   [
+    "mojito",
+    "Mojito. Mais, dis-moi Judith,",
+    286,
+    293,
+    2.76,
+    3
+   ],
+   [
+    "picon",
+    "ou encore le Picon bière. Le Picon,",
+    522,
+    531,
+    2.74,
+    3
+   ],
+   [
+    "grenadine",
+    "fraise, pêche, grenadine, menthe. Il y",
+    158,
+    166,
+    2.63,
+    3
+   ],
+   [
+    "diabolo",
+    "de l'eau plate, cela fait un diabolo.",
+    151,
+    159,
+    2.57,
+    3
    ]
   ],
-  "tx": "Bonjour les amis et bienvenue dans un nouvel épisode de Super Easy French. Aujourd'hui, nous sommes installés en terrasse. Et pourquoi ça, ? Nous sommes ici parce qu'il fait très beau et très chaud. Et surtout parce que nous avons très très soif. Aujourd'hui, nous allons voir quelle boisson est-ce qu'on peut boire durant l'été. Alors, Judith, quel type de boisson est-ce qu'on peut ? On peut boire une bière, un jus de fruits, un cocktail, un Perrier avec une rondelle de citron, un verre de vin, mais évidemment tout cela avec modération. Nous allons donc aujourd'hui voir toutes les boissons qu'on peut boire pendant l'été, mais aussi les phrases utiles pour les commander. Alors, c'est ? C'est parti. Bonjour. Qu'est-ce que je vous ? Bonjour. Je voudrais une citronnade, s'il vous plaît. Bonjour. Vous avez ? Je vais prendre un sirop de pêche, s'il vous plaît. Lorsqu'un serveur ou une serveuse vous demande ce que vous voulez boire, vous pouvez dire \"Je voudrais\" qui est assez poli et formel, ou \"Je vais prendre\" qui est plutôt naturel en français. Bien sûr, on n'oublie pas de dire \"Bonjour\", \"S'il vous plaît\" et \"Merci\". Commençons avec les boissons sans alcool. En français, on appelle ça des softs, comme le Coca, l'Orangina, l'Ice Tea ou encore tous les jus de fruits. Plus original, on peut aussi commander une citronnade. Une citronnade, c'est une boisson à base de citron, d'eau et de sucre. Et si on n'aime pas le citron, ? Si on n'aime pas le citron, on peut commander un sirop à l'eau. C'est très simple. On met un peu de sirop au fond d'un verre, on ajoute quelques glaçons et puis on remplit le verre d'eau. Et si on met de l'eau gazeuse à la place de l'eau plate, cela fait un diabolo. Et il existe des sirops de plusieurs : fraise, pêche, grenadine, menthe. Il y en a pour tou",
+  "tx": "Bonjour les amis et bienvenue dans un nouvel épisode de Super Easy French. Aujourd'hui, nous sommes installés en terrasse. Et pourquoi ça, ? Nous sommes ici parce qu'il fait très beau et très chaud. Et surtout parce que nous avons très très soif. Aujourd'hui, nous allons voir quelle boisson est-ce qu'on peut boire durant l'été. Alors, Judith, quel type de boisson est-ce qu'on peut ? On peut boire une bière, un jus de fruits, un cocktail, un Perrier avec une rondelle de citron, un verre de vin, mais évidemment tout cela avec modération. Nous allons donc aujourd'hui voir toutes les boissons … naturel en français. Bien sûr, on n'oublie pas de dire \"Bonjour\", \"S'il vous plaît\" et \"Merci\". Commençons avec les boissons sans alcool. En français, on appelle ça des softs, comme le Coca, l'Orangina, l'Ice Tea ou encore tous les jus de fruits. Plus original, on peut aussi commander une citronnade. Une citronnade, c'est une boisson à base de citron, d'eau et de sucre. Et si on n'aime pas le citron, ? Si on n'aime pas le citron, on peut commander un sirop à l'eau. C'est très simple. On met un peu de sirop au fond d'un verre, on ajoute quelques glaçons et puis on remplit le verre d'eau. Et … pétillante. En France, la marque la plus connue d'eau gazeuse, c'est Perrier. En France, on peut donc commander un Perrier tranche ou un Perrier rondelle. C'est-à-dire un Perrier avec une tranche de citron à l'intérieur. Et il me semble que notre chère Judith adore les Perrier rondelles. Bonjour, qu'est-ce que je vous ? Je vais prendre un Perrier tranche, s'il vous plaît. Avec beaucoup de glaçons. Je vous fais ça tout de suite. Une boisson sans alcool. Un Un sirop à l'eau. Un Perrier tranche. Un jus de fruit. Une citronnade. Des glaçons. Avec glaçons. Sans glaçons. De l'eau gazeuse. De … cela que l'on appelle les cocktails sans alcool. Donc, un virgin mojito, un virgin Moscow Mule, et cetera. Je ne vois pas leurs cocktails sans alcool. Je suis déjà venu ici, ils font tous leurs cocktails sans alcool. Je vais prendre un virgin mojito, alors. ? Tu as quelque chose à ? Les boissons, la nourriture, les vacances, ce sont exactement le genre de sujets qui reviennent dans les conversations de tous les jours. Et si vous voulez vous entraîner à parler de ces sujets, iTalki est une super option. iTalki est une plateforme qui met en relation les apprenants du français et des … vous pouvez adapter vos cours à ce besoin précis. Et comme ce sont des cours particuliers, toute l'attention du professeur est centrée sur vous. Vous avez davantage de temps pour parler, plus d'occasions pour poser vos questions et surtout, vous recevez des retours plus personnalisés. L'inscription est gratuite et avec le code Easy French 6, vous obtenez une réduction de 5 euros sur votre premier cours d'une valeur d'au moins 10 euros. Pour profiter de cette offre, cliquez sur le lien dans la description go.italki.com/easyfrench6. Créez dès maintenant votre compte et réservez votre … c'est-à-dire 50 centilitres ou un demi, 25 centilitres. Ici, malheureusement, ils n'ont que de la bière en bouteille et de la bière italienne, mais c'est pas grave, on va trinquer. Judith, tu prends une pinte ou un ? Je pense que je vais commencer par un demi et puis peut-être je prendrai une pinte. Moi euh je prends directement une pinte. En France, nous adorons mélanger la bière avec d'autres boissons. Parmi les boissons les plus connues à base de bière, on retrouve le Monaco, c'est à dire de la bière avec un peu de grenadine et de limonade, le panaché, de la bière avec de la limonade, … Et pensez bien à dire quel type de vin vous voulez, que ce soit un chardonnay, un Saint-Émilion, un Côtes-du-Rhône, un Pouilly-Fumé, il existe tellement de vins différents en France. Je prendrai bien un verre de vin blanc, mais je n'y connais rien. Si tu veux un blanc sec, je te conseille un chardonnay ou un sauvignon. Mais si tu veux un blanc un peu plus moelleux, je te conseille le riesling, le pinot ou le muscat. Et toi, tu vas prendre ? Je vais prendre un verre de vin rouge, mais j'hésite encore entre le pinot noir qui est très léger ou un merlot qui est un peu plus fruité. Une bière. … vers 17h, on commence à nous apporter des bols avec quelque chose à grignoter dedans. Cela peut être des chips, des bretzels, des cacahuètes et parfois, dans certains bars, du pop-corn salé. Mais si on a vraiment très ? Si on a vraiment très faim, certains bars proposent des planches de charcuterie ou de fromage. Mais faites attention, en général, elles coûtent très cher et ne sont pas très généreuses. On peut dire que dans certains cas, c'est un peu une arnaque. Et concernant les bars et les terrasses, est-ce qu'on a d'autres astuces ou conseils à ? Absolument. On peut notamment mentionner … est à 4 euros entre 16h et minuit. OK, super. Envoie-moi l'adresse, j'y serai à 16h01. Judith, est-ce qu'il t'arrive de laisser des ? Oui, cela m'arrive, spécialement si le service était agréable. En général, combien est-ce que tu laisses et est-ce que c'est obligatoire en ? Je laisse un ou deux euros en fonction du service et non, ce n'est absolument pas obligatoire. En France, on dit que le service est compris, c'est-à-dire qu'il n'y a pas besoin d'ajouter de l'argent à ce qui est indiqué sur l'addition, contrairement aux États-Unis par exemple. Et en France, pour laisser un pourboire, il … Quelque chose à grignoter. Des bretzels. Des chips. Des cacahuètes. Des pop-corn salés. Et voilà, les terrasses françaises n'auront plus aucun secret pour vous. Comme d'habitude, si cette vidéo vous a plu, likez-la et surtout abonnez-vous à notre chaîne pour ne rater aucun de nos futurs épisodes. Et bien sûr, si vous voulez retenir tout le vocabulaire que vous avez appris dans cette vidéo, devenez membre d'Easy French sur easy-french.org/membership pour accéder à des exercices spécialement reliés à cette vidéo. Et nous on se dit à la semaine prochaine. C'est ? Ouais. Et voilà. Pardon.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7308
+  "src": "auto"
  },
  "dMzOhoJPO84": {
   "channel": "Français avec Nelly",
@@ -63903,7 +63954,7 @@
  "PPXhqsGv55Y": {
   "channel": "innerFrench",
   "lang": "fr",
-  "checked": "2026-11-08T15:20:54+00:00",
+  "checked": "2026-11-11T15:14:30+00:00",
   "title": "E183 La France taxe-t-elle trop les riches ?",
   "duration": 2492,
   "published": "20251105",
@@ -64076,7 +64127,8 @@
     2
    ]
   ],
-  "tx": "La France taxe-telle trop les riches ? Salut à toutes et à tous. Salut Ingrid. Salut Hugo. Comment ça va ? Ça va, ça va. J'ai l'impression que ça fait longtemps qu'on a pas enregistré un petit épisode ensemble. Oui, c'est vrai, on a fait pas mal d'épisodes solo, d'interview et au final, ça fait longtemps, on se parle en dehors des épisodes mais ça fait longtemps qu'on sait pas parler face au micro. Ouais, mais là c'est vrai qu'avec la situation politique en France euh bon, on s'est dit qu'il fallait euh faire un épisode un peu plus d'actualité, mais en même temps, on avait pas forcément envie de parler encore une fois de politique. Surtout que bon, la situation a pas trop évolué par rapport à à l'année dernière. Disons que c'est toujours autant le bazar et que les choses changent très vite. Donc voilà, on veut pas faire un épisode qui va se périmer dans une semaine. Mais par contre, il y a un débat assez intéressant dans le contexte actuel qui lui à mon avis va rester. Donc c'est ça dont on a décidé de vous parler aujourd'hui. Oui, parce que la situation politique fait qu'il y a des conséquences sur les réflexions, sur les débats qu'il y a dans la société française aujourd'hui et notamment euh par rapport à l'économie puisque vous le savez, on vous en a déjà parlé, en France en ce moment, il y a trois grandes forces politiques. La gauche, l'extrême droite et au milieu, on va dire la droite, centre droit. Et ces forces politiques s'opposent tellement et font tellement de blocages qu'il y a des grands débats sur comment réformer l'économie, comment organiser la société et cetera et notamment ben sur cette question de est-ce qu'on taxe trop ou pas assez les riches. Oui, parce que aucun de ces blocs n'a une majorité suffisante pour gouverner à l'assemblée. Donc ils sont obl",
+  "tx": "La France taxe-telle trop les riches ? Salut à toutes et à tous. Salut Ingrid. Salut Hugo. Comment ça va ? Ça va, ça va. J'ai l'impression que ça fait longtemps qu'on a pas enregistré un petit épisode ensemble. Oui, c'est vrai, on a fait pas mal d'épisodes solo, d'interview et au final, ça fait longtemps, on se parle en dehors des épisodes mais ça fait longtemps qu'on sait pas parler face au micro. Ouais, mais là c'est vrai qu'avec la situation politique en France euh bon, on s'est dit qu'il fallait euh faire un épisode un peu plus d'actualité, mais en même temps, on avait pas forcément envie … France. Qui sont les riches, qui sont les pauvres et dans quelle proportion ? Alors, il faut savoir qu'en France, comme dans une grande partie des pays riches, et bien la richesse est très concentré. Selon la fondation Jean Jorè, qui est vraiment une fondation qui publie des études de référence dans ce domaine, les 10 % les plus riches, les 10 % des Français les plus riches possèdent 55 % du patrimoine national. Donc voilà, les 10 % des plus riches possèdent plus de la moitié du patrimoine national. Le mot patrimoine, il faut qu'on le définisse, le patrimoine, c'est ce que l'on possède. … mais aussi celle de leur origine. D'où vient cet argent ? Donc en fait pour 90 % des Français, pour quasiment tous les Français, la richesse vient principalement du travail. Autrement dit, ce sont les salaires. C'est nos salaires qui nous permettent de vivre. Mais plus on monte dans l'échelle des richesses, plus le capital prend le dessus sur le travail. Autrement dit, ce sont les revenus qui viennent de notre patrimoine qui sont les plus importants et pas nécessairement les revenus qui viennent de notre travail. Faut pas croire que Bernard Arnaud se paye un salaire de plusieurs milliards … notamment depuis 2017, depuis l'élection d'Emmanuel Macron. Euh il y a plus de millionnaires, mais il y a aussi plus de pauvres. Et ça euh ça c'est quelque chose qui est dû à beaucoup de facteurs he les taxes mais aussi l'héritage. Et le monde en 2025 a fait un dossier qui était très intéressant, je vous le conseille, sur l'héritage et ils affirmaient que le niveau des inégalités d'aujourd'hui, c'est ça revient au même que celui de la France du 19e siècle. Donc voilà, on est un peu revenu à un niveau d'inégalité euh d'une époque où il y avait des grandes familles qui possédaient … même si cet impôt là qui est le plus connu est progressif et équitable, c'est pas forcément le cas pour la majorité des taxes. Par exemple, Ouais. Et en fait, je te coupe, c'est le plus connu parce que c'est celui dont on se rend compte le plus facilement parce que chaque année, on doit faire notre déclaration d'impôts et si on a des impôts à payer et bien les impôts font un prélèvement sur notre compte où nous on doit faire un virement avec le montant d'impôts. Donc on voit vraiment très concrètement combien on pai d'impôts alors que les autres impôts dont tu vas parler, je pense sont un … D'ailleurs, tu vas peut-être pouvoir nous dire quelles sont les autres taxes qui sont payées par les entreprises. Comment ça se passe à part la contributions sur les salaires ? Et ben, il y en a un sacré paquet surtout comparé à la Pologue. Franchement là, en rentrant en France, je me rendais pas compte de toutes les taxes que j'allais devoir payer à travers l'entreprise. Mais la plus connue, c'est l'impôt sur les sociétés. Donc ça c'est aussi une taxe qui existe dans tous les pays. C'est tout simplement la taxe sur les bénéfices, sur les profits. En France, elle est fixée à 25 %. Donc … par exemple si Inner French commence à vendre des milliers de cours et que on a plein d'argent et que je veux me verser 1 million d'euros de dividende et bien je payerai que 30 % sur ces on a le droit de rêver là. Je te demanderai une augmentation hein. Ouais. Bon, je effectivement je commence par donner une augmentation à à Ania et Ingrid, mais de toute façon, les dividendes, c'est toujours sur les profits, donc c'est sur ce qui le reste après avoir payé les salariés, tous les coûts de l'entreprise. Bref, donc je payai 300000 € de flat taxe sur ces 1 million et après je payerai pas … comparé aux personnes normales, aux personnes lambda qui elles n'ont pas de holding et qui paient directement les impôts sur leur salaire. Alors, on vous a parlé en introduction de la taxe Zucman. On va voir très rapidement ce que c'est. Comme ça, quand vous en entendrez parler dans les médias, vous aurez quand même une référence. Alors déjà, qui est Zucman ? Zucman, c'est Gabriel Zucman. Un économiste, c'est pas un superhéros. Certains le pensent, mais c'est un économiste, il est français. Il a fait son post doctorat à Berkley en Californie et aujourd'hui il enseigne à l'École normale … répond que le Brésil a déjà mis en place un impôt similaire en 2024 sans catastrophe. ça s'est bien passé et que en fait quotidiennement les comptables dans les entreprises font ces valorisations d'actifs. Elles valorise combien vaut je sais pas tel achat de machine, tous les investissements qui sont réalisés. L'autre critique, c'est que les entreprises sont réparties en action et donc les actions, c'est pas du liquide, c'est pas de l'argent concrètement. Et certaines entreprises qu'on appelle les licornes sont des entreprises qui sont euh très valorisées, donc qui sur le marché de la … cette loi Zucmane. Mais en tout cas, ça a permis de relancer le débat sur la taxation des ultra riches. Et en fait, ce que Gabriel Zucman veut, c'est que la France soit un leader mondial dans ce domaine et que ensuite cette taxe soit adoptée à l'échelle mondiale pour éviter justement les exits fiscaux et cetera. Donc voilà, c'est sûrement quelque chose dont on va reparler plus tard et on espère en tout cas que ça vous a permis de mieux comprendre ce débat. N'hésitez pas à nous dire ce que vous en pensez dans les commentaires et on se retrouve dans de semaines. À dans 2 semaines. Salut. Salut.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -64263,7 +64315,7 @@
  "Np-gLAQl-so": {
   "channel": "Français avec Pierre",
   "lang": "fr",
-  "checked": "2026-11-09T02:48:25+00:00",
+  "checked": "2026-11-11T15:14:45+00:00",
   "title": "Test de français : Si tu connais ces Mots tu as un Niveau A1, A2, B1, B2, C1, C2 ! (Compilation)",
   "duration": 3241,
   "published": "20260814",
@@ -64436,7 +64488,8 @@
     6
    ]
   ],
-  "tx": "Le premier mot, c'est: un étage. Deuxième mot: le centre-ville. Troisième mot, un adjectif: ensoleillé. Ensoleillé. Mot numéro 4: réviser. Il s'agit d'un verbe. Mot numéro 5, adjectif: pressé. Je suis pressé, par exemple. Mot numéro 6: un clavier. Mot numéro 7: un rideau. Mot numéro 8: être en retard. Mot numéro 9: déménager. Il s'agit d'un verbe, donc: déménager. Et mot numéro 10: un bureau. Alors, est-ce que vous connaissez la plupart majorité de ces mots ? Si oui, il est très probable que vous avez déjà atteint le niveau A1 en français. Donc, vous pouvez commencer à suivre le programme pour A2. Allez, on va expliquer tous ces mots et donner un exemple. Le premier mot, c'était: un étage. Un étage, c'est un niveau dans un immeuble ou dans une maison. Exemple: Mon appartement est au troisième étage. Le deuxième mot, un mot composé: le centre-ville. Le centre-ville, c'est la partie principale et animée d'une ville qui se trouve généralement dans le centre de la ville. Exemple: Nous allons faire du shopping au centre-ville. Ensoleillé était notre troisième mot. C'est un adjectif qui signifie qu'il y a beaucoup de soleil. Alors, par exemple, une journée ensoleillée. Le temps est ensoleillé. Mais on peut dire aussi: Mon appartement est très ensoleillé. Cela signifie que le soleil rentre dans l'appartement. Alors, réviser maintenant. Donc, réviser, c'est étudier de nouveau une leçon pour être prêt à un examen ou à un test. Par exemple: Je dois réviser mon vocabulaire de français. Je dois réviser pour mon examen de demain, etc. Alors, ça peut avoir un autre sens comme par exemple, réviser un texte avant de l'envoyer. C'est-à-dire qu'on va regarder s'il n'y a pas d'erreur dans un texte. Cinquième mot: pressé. Quand on est pressé, c'est qu'on est en manque de temps. On doit se ",
+  "tx": "Le premier mot, c'est: un étage. Deuxième mot: le centre-ville. Troisième mot, un adjectif: ensoleillé. Ensoleillé. Mot numéro 4: réviser. Il s'agit d'un verbe. Mot numéro 5, adjectif: pressé. Je suis pressé, par exemple. Mot numéro 6: un clavier. Mot numéro 7: un rideau. Mot numéro 8: être en retard. Mot numéro 9: déménager. Il s'agit d'un verbe, donc: déménager. Et mot numéro 10: un bureau. Alors, est-ce que vous connaissez la plupart majorité de ces mots ? Si oui, il est très probable que vous avez déjà atteint le niveau A1 en français. Donc, vous pouvez commencer à suivre le programme … Mot numéro 6, il s'agit d'un adjectif: doué. Mot numéro 7, un verbe, cette fois-ci, le verbe: piquer. Mot numéro 8, un autre verbe: débattre. Les Français adorent ça. Mot numéro 9: une bougie. Et mot numéro 10: une clé USB. Alors, est-ce que vous connaissez tous ces mots ? Comme je vous l'ai expliqué, si vous connaissez presque tous ces mots, certainement, vous avez déjà un niveau A2 en français. Bien sûr, c'est approximatif. D'ailleurs, si vous voulez faire un test un peu plus approfondi et même avoir un diagnostic, je vous conseille notre test de niveau sur notre site internet. Je vous … un débat. Exemple: Aujourd'hui, dans la classe, les élèves ont débattu sur le sujet du changement climatique. Le mot numéro 9, c'est: une bougie. Alors, une bougie, c'est un petit cylindre de cire avec une mèche qu'on allume pour avoir de la lumière ou pour décorer. Par exemple, on utilise les bougies sur un gâteau d'anniversaire. Et c'est justement mon exemple: On a mis dix bougies sur le gâteau d'anniversaire de Julien, qui fête ses dix ans. Et mot numéro 10, c'est: une clé USB. Alors, on utilise ce mot en français pour cette petite chose qui a de la mémoire qu'on insère donc dans … pour laver le sol. Exemple: J'ai passé la serpillère après le repas dans la cuisine. En France, en général, on utilisait une serpillère directement, puis on pouvait utiliser un genre de balai pour pousser la serpillère ou bien la passer directement sur le sol. Depuis, sont apparus des balais serpillères, si vous voulez, avec un manche. On peut appeler ça aussi une serpillère ou encore un balai à franges. Et on dit même par moments un balai espagnol, puisqu'en Espagne, c'est très commun, ça s'appelle une fregona. Le septième mot était encore lié à l'école, il s'agit d'une gomme pour … j'ai regardé un court métrage très émouvant sur YouTube. Mot numéro 2: des cernes. Je l'ai utilisé au pluriel, puisque dans l'énorme majorité des cas, on l'utilise au pluriel. Mais c'est un cerne, c'est masculin. Les cernes, ce sont les marques noires qu'on a sous les yeux quand on est fatigué, généralement, lorsqu'on manque de sommeil. J'espère que vous n'avez pas de cernes. Exemple: J'ai dormi seulement quatre heures cette nuit. J'ai des cernes énormes sous les yeux. Je suis fatigué. Ou alors: Ouh là! T'as des cernes aujourd'hui! T'as mal dormi ? Ensuite, on avait le verbe: gaspiller. … achever une personne. Si par exemple, quelqu'un commet un crime, puis la personne n'est pas encore tout à fait morte. Et alors, on va l'achever. Je vous donne cet exemple, pas pour être lugubre, mais parce qu'on l'utilise beaucoup dans ce cas-là. Par exemple, dans un film, vous avez quelqu'un avec un revolver, il dit: Allez, achève-le! Alors, on va choisir un exemple un peu moins sinistre. J'ai enfin achevé ce projet que j'ai commencé il y a déjà plusieurs mois. Ensuite, on a l'adjectif: périmé. Et ça aussi, c'est très important et ça pose des problèmes. C'est pour ça que je l'ai choisi. … père, il est devenu lui aussi médecin. Le copinage. Ah, le fameux copinage. Allez, explication: c'est le fait de favoriser ses amis, copains, copinage, vous avez compris, ça vient de \"copain\", donc de favoriser ses amis dans le travail ou les affaires. Souvent avec une connotation évidemment négative. En fait, c'est privilégier une personne à la place d'une autre parce que c'est votre ami. Dans un registre familier, on dirait \"pistonner une personne\". Ou: il a été pistonné. Voyons un exemple. Dans cette entreprise, les promotions se font souvent par copinage plutôt que par mérite. J'espère … peut-être difficiles à prononcer: s'astreindre. Explication. Ça signifie s'imposer une discipline, s'imposer une règle. C'est un verbe un peu formel, mais très utilisé à l'écrit. Voyons un exemple. Il s'astreint à se lever à 6h00 tous les matins pour travailler. Il s'astreint à se lever à 6h00. Attention à la préposition. Le verbe \"louvoyer\", maintenant. Louvoyer aussi, c'est un verbe qui est joli. On a l'impression à l'entendre déjà qu'il y a ce mouvement-là, que ça louvoie. Qu'est-ce que ça signifie ? Ça signifie éviter de s'engager clairement, manœuvrer avec prudence ou ruse. Vous voyez, … mot numéro 1. C'était le mot: prégnant. Quelque chose de prégnant, c'est quelque chose de très présent qui marque fortement l'esprit ou qui exerce une influence très forte. Par exemple: Le thème de la solitude est très prégnant dans ce roman. On aurait pu dire présent, mais prégnant, c'est plus technique, c'est plus élaboré et c'est plus précis. Le deuxième mot était le mot: éculé. J'ai bien dit \"éculé\" pour les mauvaises pensées. Alors éculé, cela signifie qui est devenu banal à force d'être tellement utilisé, sans originalité. Alors, par exemple: Dire que l'argent ne fait pas le bonheur, … Je vous rappelle pour les non francophones que nous avons des cours de français, que ce soit pour les débutants, pour les avancés, à faire de manière autonome ou avec un professeur, que vous vouliez apprendre pour le plaisir ou pour un objectif particulier comme un examen: DELF, DALF, TCF, etc. Donc n'hésitez pas à nous contacter. Je vous laisse absolument tous les liens sous cette vidéo. Vous retrouverez aussi la fiche PDF, le podcast, etc. Tout ça dans la description. Je vous embrasse très fort et soyez gentils, ne vous gaussez pas des autres. Allez, prenez soin de vous et à très bientôt!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -71239,7 +71292,7 @@
  "3105ScO53fo": {
   "channel": "Le Réveilleur",
   "lang": "fr",
-  "checked": "2026-11-08T16:20:03+00:00",
+  "checked": "2026-11-11T15:44:19+00:00",
   "title": "Pourquoi la vie galère dans l'océan ?",
   "duration": 1170,
   "published": "20220530",
@@ -71412,14 +71465,15 @@
     4
    ]
   ],
-  "tx": "Bonjour à tous et bienvenue dans cette vidéo où on va parler de l’océan et plus particulièrement de la vie qu’il abrite. La vie dans l’océan, comme sur les continents, repose sur des organismes photosynthétiques. C'est-à-dire des organismes capables de produire de la matière organique grâce au rayonnement solaire et aux éléments chimiques présents dans leur milieu. La photosynthèse fixe du CO2 et libère du dioxygène. Sur les continents, les organismes capables de faire de la photosynthèse dominent les paysages de nombreux écosystèmes. La masse des plantes y est plus d’une centaine de fois supérieure à la masse des animaux qui les consomment. On peut trouver des écosystèmes aquatiques qui font penser aux écosystèmes terrestres comme les herbiers marins ou les forêts de Kelp. Mais, ces écosystèmes sont limités aux zones côtières et sont peu représentatifs de la vie dans l’océan. En effet, 70% de la biomasse marine est composée de micro-organismes. La majorité de cette biomasse nous est donc invisible ! La photosynthèse dans l’océan est effectuée, pour l’essentiel, par des micro-organismes de nature variée qu’on regroupe sous le terme de phytoplancton. Et ce phytoplancton est plutôt impressionnant mais pour le comprendre il faut une petite notion. Pour estimer la productivité d’un écosystème, les écologues regardent la production primaire. La production primaire brute désigne la quantité de matière organique produite par les organismes photosynthétiques. Si on retire la matière organique utilisée par ces organismes pour leurs propres usages, notamment la respiration, on obtient la production primaire nette. La production primaire nette représente donc la matière organique disponible pour les autres organismes du milieu… et notamment pour les animaux qui, comme nous, ne son",
+  "tx": "Bonjour à tous et bienvenue dans cette vidéo où on va parler de l’océan et plus particulièrement de la vie qu’il abrite. La vie dans l’océan, comme sur les continents, repose sur des organismes photosynthétiques. C'est-à-dire des organismes capables de produire de la matière organique grâce au rayonnement solaire et aux éléments chimiques présents dans leur milieu. La photosynthèse fixe du CO2 et libère du dioxygène. Sur les continents, les organismes capables de faire de la photosynthèse dominent les paysages de nombreux écosystèmes. La masse des plantes y est plus d’une centaine de fois … que c’est plutôt pas mal ! Les plus attentifs d’entre vous feront remarquer que l’océan est plus étendu que les continents. C’est vrai que pour une surface donnée, les écosystèmes marins sont, en moyenne, trois fois moins productifs que les écosystèmes terrestres. Mais ces moyennes cachent de fortes disparités. On voit, sur cette carte, que sur les continents comme dans l’océan, certaines zones sont beaucoup plus productives que d’autres. Ce qui m’intéresse particulièrement, ici, ce sont ces grandes zones de l’océan avec une faible productivité biologique. Pourquoi la vie semble avoir du … va être consommée en chemin ou au niveau du fond par des bactéries et des animaux qui se nourrissent de cette neige marine. Les couches les plus profondes de l’océan sont ainsi enrichies en carbone et en nutriments par ce flux. Une toute petite partie de cette matière organique sera ensevelie dans les sédiments marins et devient indisponible pour le vivant. C’est seulement cette partie du CO2 fixé par les organismes photosynthétiques qui sera séquestrée sur des échelles de temps géologiques. La chute de la matière organique transfert du carbone et des nutriments de la surface le l’océan … Sur cette carte, on voit, par exemple, l'influence des importantes remontées d’eau au large de la Californie, du Pérou, de la Mauritanie, de la Namibie et d’Oman. Les fleuves apportent également des nutriments, ce qui permet une activité biologique importante au niveau de leurs embouchures. On peut voir, par exemple, l’effet de l’Amazone et du Congo. Les zones de l’océan où les nutriments ne limitent plus la croissance du phytoplancton, font partie des écosystèmes les plus productifs de notre planète. Ce qui en fait des zones de pêche particulièrement actives. Maintenant, on sait pourquoi … ce diazote pour leurs besoins physiologiques… Et ne dépendent donc pas de la disponibilité des nitrates dans le milieu. Sur les continents, c’est le cas de certaines bactéries qui vivent en symbiose avec les légumineuses. Dans l’océan, ce sont certaines espèces de cyanobactéries qui sont diazotrophes. Dans les eaux chaudes et pauvres en nitrates, ces cyanobactéries vont être avantagées par rapport à d’autres espèces de phytoplanctons. Mais elles ont des besoins en fer encore plus importants que le phytoplancton non diazotrophe et elles ont toujours besoin de phosphore. Suivant les zones … bien une fertilisation. L’attention se concentre alors sur l’arc volcanique de Tonga, une véritable chaîne de volcans sous-marins, situés entre 200 et 500 mètres de profondeur. Ces volcans émettraient des fluides hydrothermaux riches en fer. Une autre expédition, nommée TONGA ,montre que ces sources hydrothermales augmentent localement la concentration en fer, permettant d’alimenter jusqu’à la zone photique de l’océan. Du fer est donc rendu disponible pour les organismes photosynthétiques. D’autres études menées à bord confirment que ces fluides hydrothermaux sont capables de stimuler … en vous demandant, sur Twitter, des anecdotes intéressantes sur l’océan, je pense ne pas être le seul dans ce cas. Est-ce que vous saviez que près d’une source hydrothermale, on a découvert un escargot capable de se produire une armure en fer. Ou encore que dans l’état actuel de nos connaissances, la baleine bleue est le plus grand animal ayant vécu sur Terre et ses déjections fertilisent la surface de l’océan en y dispersant du fer. C’est fabuleux. Je veux de la recherche fondamentale parce que ça m'intéresse de comprendre comment le climat, l’atmosphère et l’océan fonctionnent. Je veux … quantité d’oxygène dissous et augmente la stratification… ce qui peut réduire la production primaire dans certaines zones de l’océan. Il reste de grandes incertitudes même sur des questions aussi fondamentales que l’effet du changement climatique sur le développement du phytoplancton qui est la base de la chaîne alimentaire marine et contribue à réduire le surplus de CO2 atmosphérique. Anticiper les évolutions futures du climat et de l’océan passe par une meilleure connaissance du fonctionnement du système Terre et, en particulier, du fonctionnement de l’océan qui est encore mal connu. On a … la modification de l’écosystème induite pouvait provoquer la production de toxines. Et, plus globalement, des modifications de la chimie de l’océan à cette échelle pourraient avoir des effets importants et difficilement prévisibles sur l’ensemble des écosystèmes marins vu qu’ils sont interconnectés. La fertilisation de l’océan par le fer est une approche considérée aujourd’hui comme risquée avec des bénéfices potentiels limités. Au vu des connaissances scientifiques actuelles, il est peu probable qu’on utilise cette approche pour réduire la concentration en CO2 atmosphérique. La priorité, … l’océan pour cette vidéo, je dois dire que je suis fasciné par les différences qui existent entre l’organisation de la vie dans l’océan et sur les continents, c’est assez surprenant. Je vous en courage, une fois encore, à aller voir l’interview que j’ai réalisée des deux chercheuses Sophie Bonnet et Cécile Guieu avec qui j’ai eu grand plaisir à échanger. Je remercie EchoSciences Provence-Alpes-Côte d'Azur, l’IRD, le CNRS et l’IMEV qui financent cette vidéo. Je remercie également l’ensemble des partenaires qui ont permis à ce travail d’exister. C’était Le Réveilleur et à bientôt sur le net.",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
  "4EKIsmmGVbw": {
   "channel": "FastGoodCuisine",
   "lang": "fr",
-  "checked": "2026-11-08T16:21:17+00:00",
+  "checked": "2026-11-11T15:46:03+00:00",
   "title": "Le Dernier Qui Garde Son Colis Gagne 10 000€",
   "duration": 1807,
   "published": "20251226",
@@ -71592,14 +71646,15 @@
     2
    ]
   ],
-  "tx": "J'ai derrière moi un coner avec 50 colis mystèr allant de 50 centimes à 1000 € de valeur. Il y a 50 personnes réparties en 10 équipes et ils vont s'affronter pour repartir avec leur colis qu'ils vont chercher dès maintenant. E il y aura qu'un gagnant à la finin. Un gagnant ou une équipe ? Une équipe. Une équipe. Ah une personne de chaque équipe va choisir son colis. Il y a du potentiel. Il y a un potentiel. J'ai vu un gros colis sortir de ce conteneur. Bon, il y a l'iPhone dedans. Il y a l'iPhone là. On verra ça après. C'est quoi la taille de ce colis ? Le sac de riz. Le sac de riz avec Michou dedans. Arrête de taper. Le pauvre, il est enfermé dedans depuis 3 jours là. Il y a différentes stratégies. Il y a la méta de prendre des colis gros. Il y a la méta de \"Je prends des colis petits pour voir l'iPhone.\" Tous les candidats ont récupéré leur colis pour repartir avec. Ils devront réussir cinq épreuves. Et avant ça, je vais vous les présenter. L'équipe de dernier qui quitte la table est de retour. On a aussi des tiktokeurs composés d'Ana, Jérémy, Linda, Jordan et Ahmed. Les youtubeurs. J'ai vu qu'il y avait une équipe université. Je peux leur parler ? Je peux avoir vos cinq snaps s'il vous plaît ? Ça équipe université, je peux rentrer dans votre groupe ou pas ? E tu es pas sur ce concept sans date là. Ah ouais. Pour les autres équipes, il y a les copines de l'université, l'équipe des potes, les inconnus qui se sont rencontrés pour la première fois ici, l'équipe des fans de PP Chicken, Papi Papi les miss et les pâtissiers habitués au concours et les rugby coc Rico. Première manche, ça va être le concept du juste prix. Sous ce drap, il y a quatre objets. Les équipes doivent deviner le prix total du lot placé devant elle. Celle qui sera le plus loin du montant sera éliminé ",
+  "tx": "J'ai derrière moi un coner avec 50 colis mystèr allant de 50 centimes à 1000 € de valeur. Il y a 50 personnes réparties en 10 équipes et ils vont s'affronter pour repartir avec leur colis qu'ils vont chercher dès maintenant. E il y aura qu'un gagnant à la finin. Un gagnant ou une équipe ? Une équipe. Une équipe. Ah une personne de chaque équipe va choisir son colis. Il y a du potentiel. Il y a un potentiel. J'ai vu un gros colis sortir de ce conteneur. Bon, il y a l'iPhone dedans. Il y a l'iPhone là. On verra ça après. C'est quoi la taille de ce colis ? Le sac de riz. Le sac de riz avec … 200, moi je dirais 300. Tu vois, on tap au milieu. C'est du faux, c'est pas du 500. Vous êtes sûr que nous on sait que quand tu as un palier sur ta chaîne, tu peux racheter par exemple le trophée ou quoi. Sauf que là, tu as pas 100 millions, donc tu l'as pas racheté. Moi je pourrais rien vous dire. YouTube. Impossible franchement pas un truc juste en mode décoratif. Je sais même pas moi ça c'est les chips je suis ad chips donc je suis sûr de moi. En vrai le paquet de chips c'est quoi ? C'est 100 € c'est collector ce paquet de chips hein. Ouais c'est vrai. Ouais ça se voit. E mais ils veul … ? Vous l'avez en caméra ? Je pense que le gâteau c'est à peu près à 30 € parce que effectivement il est déjà il est quand même un peu gros. Généralement les trompil aucénalement une trentaine de balles. C'est rien ça. C'est 40 balles. La mascotte pour moi c'est au moins 300 €. En plus elle est très bien faite. Le mec il a l'air à l'aise dedans. Mascotte et je dirais 300. Non non non non non, ça coûte plus que ça. J'en fais. Pour moi, c'est dans les 1000 € hein. Ah ouais 1000 1500. En fait je me dis si tu as fait appel à un ami qu'on connaît tous sur YouTube et que tu lui as demandé une carte … 3 2 1 ça commence. OK là ça va très vite. Vas-y, vas-y, vas-y, vite, vite, vite, vite éliminé. Dépêche-toi, sinon je le mets he je peux me sacrifier. Qu que je peux me C'est quoi la strat gens ils sont en fil. Oh non, Chantal éliminé. C'est la dernière équipe qui en fil. J'ai en fil metsle, mets-le pardessus. Mets-le pardessus. Arrêtez. Allez, allez, allez. Metsle, metsle vite vite vite plus vite vite vite vite vite vite. Lève la main, lève la main. Qui est en dernier ? Qui est en dernier ? On va quand même vérifier l'avare mais je pense que les blancs sont éliminés. Je vous confirme que … chrono atteint 5 minutes. Les trois joueurs où le timing sera le plus éloigné perdront les preuves et élimineront toute leur équipe. Je vous laisse donc choisir votre capitaine. Vous avez 2 minutes. Mais là en fait, on est tous les deux, on veut y aller. Mais ils font shifoumi là. OK. Ben on veut voir le shifoumi là. Chifoui. Bon, non, je suis content, je suis content, je suis content, je suis content. Il a des capacités physiques. La strate, ça va être de faire des temps d'apné parce que du coup, je connais mes temps d'apné. Donc ça veut dire que si je fais une minute d'apné, je sais à … que je les crame toutes. Malheureusement Iness et les pâtissiers éliminé. Deuxème personne éliminé. On perd l'équipe de potes. OK, il nous reste une dernière équipe. Et oui, malgré que vous êtes fan de poulet et de fans de PP chicken, c'est éliminé. J'ai des cadeaux pour tout le monde mais je te le donne à toi pour l'instant. Première bouteille et le clou du spectacle, la pépée chicken. On va voir ce qu'il y avait dans vos colis In. J'ai l'impression que vraiment les pâtissiers, ils ont pris les pires colis. Ça va avec le thème l'art de perdre de perdre. Ahed il avait un beau cadeau. Oh non … quelque chose après qui va payer l'hôtel. Non mais c'est combien de temps ? C'est combien de temps ? Il y a un hôtel ou pas ? L'hôtel dedans il y a pas Vas-y ça vas-y ça vasy dedans il y a plein de il y a l'hôtel ou vas-y ça tu as toujours moi je prends moi je prends moi je prends la ils m'ont fait une promesse. Ils doivent val Ah oui mais moi je lui donne on le fait pour qui ? Il y a pas de maillon faible. On est une équipe sauvée. Sauv vraiment. Mais il a ni foi ni loi ce mec. Il vient d'éliminer l'équipe des youtubeurs et Maxime clic dégoûté pour une fois qu'il pouvait gagner. Il y avait … contre nous c'est qui qui joue là ? C'est bon. Voilà c'est qui joue ? Mais si si ta race est enfin les rugbyman vous vous coupez une corde. Maintenant la question c'est il y a une cible ou pas ? Il me regarde avec un grand sourire. Ah ouais ça rend pas un mot. Coup pour coup. Oh, j'ai eu peur. J'ai cru que c'était la bonne. E vous avez déjà perdu trois cordes. Hor, c'est chaud. Rebecca, je te sens hésitante là. Ouais, de ouf. Qu'est-ce qui se passe dans ta tête ? Je sais pas, j'ai plus de feeling là. Deux cordes en moins chez les miss. Trois cordes sur le dernier qui quitte la table et … de la finale. Il y a une clé cachée dans ces deux mallettes. Seule une équipe pourra ouvrir une mallette. L'autre alors aura 2 minutes pour décider s'il souhaite garder la leure ou les changer. À la fin, l'équipe ayant la clé remportera la valeur du conteneur. Comme la valeur des colis des Rugbyan est inférieure à celle des Miss, ça est décidé s'ils veulent ouvrir l'une des deux mallettes ou prendre le risque de tout perdre. Est-ce que vous préférez qu'il ? J'ai pas envie de regarder dedans moi. Je préfère avoir le pouvoir d'échange que le pouvoir visuel. Bon les gars, vous en pensez quoi … C'est bon. C'est bon. On a des tranché. On a détranché. C'est bon. C'est tranché. C'est sûr. C'est tranché. Assumé. Messieurs, est-ce que vous allez garder votre mallette ou est-ce que vous allez l'échanger ? On va l'échanger. Très bien. Je vais procéder à l'échange. Pour l'instant, il y a vraiment zéro réaction. Je sais pas qui a gagné. Moi, j'ai pas regardé ce qu'il y a dedans. Pareil. C'est pour ça qu' stress. 3 2 1 revil. On a eu la clé. Félicitations au Rugbyman. Merci au Miss d'être venu. C'était une finale incroyable. Et si tu veux voir une autre vidéo comme ça, clique juste ici.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "EzGzQmd6jsc": {
   "channel": "FastGoodCuisine",
   "lang": "fr",
-  "checked": "2026-11-08T16:21:47+00:00",
+  "checked": "2026-11-11T15:46:31+00:00",
   "title": "J’ai Mangé 50 aliments TikTok Shop (Arnaque ou Pas ?)",
   "duration": 1980,
   "published": "20250815",
@@ -71772,7 +71827,8 @@
     5
    ]
   ],
-  "tx": "Vous vous demandez peut-être pourquoi j'ai autant de nourriture devant moi ? Et bien avec la sortie de TikTok Shop en France, j'ai voulu voir si c'était possible de faire des courses dessus. Donc j'ai tout commandé et on va tout tester comme des pop-corn Netflix, des Pringles du Mystè, des Kinder Bueno de Dubaï, des yaourts Oreo et plein de machines bizarres comme cette machine qui fait des côes de glace. Et on commence avec un snack très bizarre. des Kitat goût gâteau chocolat et fraises. Je suis sceptique. Je me demande la couleur que ça va avoir. Oh, par contre, j'aime bien ça. C'est des mini ouf ça pue. En fait, ça a une odeur très chimique. Franchement, ça a plus le goût de la fraise que du gâteau au chocolat. C'est pas mauvais mais c'est pas exceptionnel. 6. Déjà, on a un paquet qui est bien grand. Heureusement parce que ça a coûté 12,50 € et on est sur des pop-corn Netflix. Je ne sais absolument pas quel goût ça va avoir. Donc on va découvrir ensemble. Ou ils sont bien caramélisés. Est-ce que ça va être salé ou sucré ? Je sais pas quel goût ça a mais pour moi c'est des pop-corn caramel quoi. Ouais c'est caramel burell ça. En vrai c'est 10/ 10. C'est les pop-corn que tu as envie de manger ? devant Netflix quoi. Première machine bizarre qu'on va tester, la machine importante pour le petit- déjeuner. Trois en un. D'un côté café, four et là on a même un petit grill pour faire le bacon, les œufs. Donc avec ça, on est censé faire un brunch parfait. Je vais remplir ma machine avec de l'eau pour le café. Ah oui, bah ça coule. Merde, j'ai oublié de mettre le café déjà. Ça commence les galères. Il y a pas besoin de mettre de filtre. Il y a un filtre déjà là. Ah, c'est parti. On va voir déjà le café. Est-ce que ça fonctionne ? Merde ! Donc là, on va allumer le four, on va f",
+  "tx": "Vous vous demandez peut-être pourquoi j'ai autant de nourriture devant moi ? Et bien avec la sortie de TikTok Shop en France, j'ai voulu voir si c'était possible de faire des courses dessus. Donc j'ai tout commandé et on va tout tester comme des pop-corn Netflix, des Pringles du Mystè, des Kinder Bueno de Dubaï, des yaourts Oreo et plein de machines bizarres comme cette machine qui fait des côes de glace. Et on commence avec un snack très bizarre. des Kitat goût gâteau chocolat et fraises. Je suis sceptique. Je me demande la couleur que ça va avoir. Oh, par contre, j'aime bien ça. C'est des … tester une spécialité américaine. C'est du bœuf séché et c'est chili et lime. En gros, ça c'est des épices et du citron. Il le mange sur le bœuf ou même sur des bonbons. Ça ressemble à ça. À l'odeur, on sent le le bon bœuf Texant mariné. J'ai l'impression que je vais manger un barbecue là. Texture un peu dure. Franchement, j'aime beaucoup. C'est pas trop épicé. Quoique ça monte un peu à la fin. 8 et demi. Ce genre de moment où tu te dis \"Mais pourquoi je suis devant un fromage de cette couleur ? Ce fromage a un problème pour moi.\" Non, il est ben non, il est il est maturé. Wou ! L'odeur … n'importe quoi comme des chips de jaquier. Oh en fait, l'odeur, c'est ça pue en même temps. C'est gourmand. C'est sucré, salé, plutôt pas mal. 7 et demi, il y a des que de cerise. Donc c'est une infusion durétique et perte de poids. Il y a un message à me faire passer ou 16,90 € hein. C'est plus cher que les cerises. Et ben ils se font plaisir hein. C'est ch sec ou pas ? Bo où il y a encore des pop-corns de la marque Dunking. Oh ! Quoi ? Mais non mais je suis pas hypé du tout en fait parce qu'il y a écrit dunking green on cream cheese pop-corn c'est pas sucré. Toi aussi tes team pop-corn … parce que ça peut être soit l'un soit l'autre. Oh il y a pas de doute. C'est pas une fraise ça. Wou ! Ah, celui-là je le mange pas en entier, je vous le dis direct. C'est for Ah, on voit la poubelle. Ah, je cracher. Wou, c'est super fort. Dernier. Vas-y. Le marron. Nourriture pour chien. C'est vraiment pas bon la bouffiant. C'est ignoble. Wou, je vous dis, c'est plus dangereux que les Jelly Belly. concept sympa en soirée ou si vous faites des vidéos sur YouTube. Et apparemment du coup, ils disent que c'est du cavi vert. Selon faut arrêter de me vendre des trucs les gars. Non mais là … Moins beau du dragon. C'est quand même plus beau. Non non, c'est vrai. Ben, buvez pas ça. V buvez du pops. Là, on a un produit Pokémon. Apparemment, c'est du sucre qui pétit. Vous rappelez à l'ancienne, il y avait la sucette pied avec le sucre qui pétit. Regardez, c'est des mini sachets. Et en fait, ça a collectionné un drac. Un drac, un drac, un drac. Bon, sécateur. OK. Bon, je peux vous dire que vu ce qu'on a eu là, on n' pas eu un truc rare. Mais bon, j'aime bien le concept. C'est marrant la sensation. Goûa, le sucre pétit bien. Le goût est bon. Un petit peu acidulé. H. Ouais, je suis … ça donne envie je trouve. On va ajouter du lait. Ah, ça va être satisfaisant peut-être. Non, mais en vrai, moi quand je vois des meufs en fer, elles envoient un peu plus d'énergie, tu vois. Elle là là, tu vois, elle montte les les blancs en neige limite. Je pense que tu es trop gentil avec. Ouais, mais moi je suis je suis je suis trop doux pour ça. Je pense que je préfère au macha. Il y a une une sorte de rondeur qu' y a pas forcément avec le macha. Je sais pas ça vient de la du fait que ce soit une racine ou une tubercule mais en tout cas c'est plus rond que le macha. C'est moins c'est le … lait. Oh ça c'est vraiment ma câ le sucre ne regardons pas le sucre. 9/ 10 Ouais moi j'adore ça. Autant que les waffles pépé 9/ 10. Pareil là on a un press à grume portatif. Ça c'est stylé par contre. C'est plutôt pas mal. On a payé combien ça ? On l'a payé 20 €. 20 € ? OK, plutôt correct. Donc on va couper une orange. Hop, on va mettre l'orange. On referme et on va démarrer. Donc ça marche sur batterie, ça qui est stylé en vrai. Donc en fait, c'est une machine automatique. Je viens de capter ça. On test. Je découvre avec vous. Donc apparemment là, il y a un cycle. Donc si j'appuie, ça va … là ! 20 € pour le prochain. On a une belle boîte. On dirait un truc un peu premium. La boîte est très cali, je vous le dis. Et qu'est-ce qu'on a là-dedans ? Oh, des cristaux comestibles. Par contre, si c'est vraiment juste du sucre et je pense que ça va être juste du sucre. 20 balles pour ça, c'est quand même pas fouin. Reviens. H dégueulasse. Par contre, c'est ce qui est ce qui est pas inintéressant. Il y a quand même un point positif, c'est c'est on dirait une sorte de pâte de fruits. C'est mou. Ouais. L'intérieur, on dirait vraiment ça. C'est plus un truc de déco ça. 4. Oh là là, c'est … et on a ce format là qui est pas mal du tout. On a trois goûts en un. En vrai, tu sais ce qui est que tes trois personnes pe tourner un peu le truc pour savoir qui mange lequen. Ouais, j'allais faire un truc, c'est bizarre. Mais tu imagines c'était à trois comme ça avec ta copine. Le problème c'est qui est la troisième personne ? Pomme, fraise, mirtil. Allez, on va goûter pomme. Je vis voir la couleur du gel, tiens. Oh on dirait du sirop. Ouais, c'est très transparent. Ah, c'est d'une déception en fait. C'est juste du sirop avec une très légère note de goût pomme mais c'est pas du … on finit avec un truc très très bizarre. C'est censé être un rouleau de fruits. Ah, c'est style Dubaï ça. Ouais, c'est une sorte de pâte de fruits rouleau à la prune. Il a un boxe le produit. OK. Jojolle, on dirait que j'ai fait du papier peint. J'ai le truc en main. Allez, on va goûter ce produit tendance. Waouh ! Sucré acide acidulé périmé. Ah ! Ça résume parfaitement cette vidéo. TikTok Shop, c'est pas ouf même si on a eu des bonnes surprises. En tout cas, c'est moins pire que sur cette vidéo parce que là, on est sur une vidéo tému et je peux vous dire que tému c'est horrible. Allez voir.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -73789,7 +73845,7 @@
  "BY_C1FAgy9I": {
   "channel": "FrancoTalks",
   "lang": "fr",
-  "checked": "2026-11-09T02:56:51+00:00",
+  "checked": "2026-11-11T15:22:40+00:00",
   "title": "10 Daily French Conversations for beginners (A1-A2) | Arguments and quarrels in French",
   "duration": 1207,
   "published": "20251009",
@@ -73914,7 +73970,8 @@
     2
    ]
   ],
-  "tx": "Dispute sur un parking. Hé, cette place est pour moi. Quoi? Je l'ai vue libre? Non, j'attendais avec le clignotant. Ah bon? Je ne vous ai pas vue. Tout le monde a vu, sauf vous. Calmez-vous, ce n'est qu'une place. J'attends depuis dix minutes. Et moi, je suis pressé. Alors, attendez une autre place. Non, j'ai déjà mis ma voiture. Sortez la voiture, s'il vous plaît. Non, pas maintenant. Alors, j'appelle la police. Oh non, pas la police. Si, c'est pas juste. D'accord, je sors, mais vite. Merci, c'est bien. Vous me devez un café. Ha ha, non, je vous offre de l'eau. D'accord, mais bougez la voiture. Oui, je la bouge. Parfait, maintenant j'entre. Bonne chance pour une autre place. Merci, bonne chance avec vos nerfs. Ha ha, oui, j'en ai besoin. Au revoir. Au revoir, et pas de dispute la prochaine fois. Passez devant dans la file. Excusez-moi, vous êtes dans la file? Oui, bien sûr, j'attends mon tour. Mais je suis arrivé avant vous. Ah pardon, j'étais déjà là tout à l'heure. Je ne vous ai pas vu. Parce que je suis sorti un moment pour prendre un produit. Mais la file continue, on ne peut pas sortir et revenir. Je comprends, mais j'ai demandé au monsieur derrière. Et il vous a gardé la place? Oui, il m'a dit que ce n'était pas un problème. Bon, alors d'accord. Merci, je ne veux pas de dispute. Moi non plus, je veux juste que ce soit juste. Bien sûr, personne ne veut perdre de temps. En plus, la file est longue. Oui, tout le monde est fatigué. Qu'est-ce que vous allez acheter? Juste du pain et du lait. Ah, alors vous passez vite. Merci de comprendre pour ma place. De rien, on parle calmement au final. Oui, mieux vaut ça que se fâcher. Exactement, une bonne journée commence sans colère. J'espère bien, merci encore. Bonne journée à vous. À vous aussi, bonne journée. Veste abîmée a",
+  "tx": "Dispute sur un parking. Hé, cette place est pour moi. Quoi? Je l'ai vue libre? Non, j'attendais avec le clignotant. Ah bon? Je ne vous ai pas vue. Tout le monde a vu, sauf vous. Calmez-vous, ce n'est qu'une place. J'attends depuis dix minutes. Et moi, je suis pressé. Alors, attendez une autre place. Non, j'ai déjà mis ma voiture. Sortez la voiture, s'il vous plaît. Non, pas maintenant. Alors, j'appelle la police. Oh non, pas la police. Si, c'est pas juste. D'accord, je sors, mais vite. Merci, c'est bien. Vous me devez un café. Ha ha, non, je vous offre de l'eau. D'accord, mais bougez la … pour prendre un produit. Mais la file continue, on ne peut pas sortir et revenir. Je comprends, mais j'ai demandé au monsieur derrière. Et il vous a gardé la place? Oui, il m'a dit que ce n'était pas un problème. Bon, alors d'accord. Merci, je ne veux pas de dispute. Moi non plus, je veux juste que ce soit juste. Bien sûr, personne ne veut perdre de temps. En plus, la file est longue. Oui, tout le monde est fatigué. Qu'est-ce que vous allez acheter? Juste du pain et du lait. Ah, alors vous passez vite. Merci de comprendre pour ma place. De rien, on parle calmement au final. Oui, mieux … Et le tissu est un peu abîmé. Oui, je comprends. Que pouvez-vous faire? On peut la nettoyer encore une fois, gratuitement bien sûr. Et si la tâche reste? Alors, on verra pour une compensation. La veste est nouvelle, je l'ai achetée la semaine dernière. D'accord, je comprends bien. Ça prend combien de temps? Trois jours environ. Oh, j'en ai besoin pour le travail. On peut vous prêter un manteau si vous voulez. Ce n'est pas pareil, mais d'accord. Promis, on fait de notre mieux. Très bien, je vous fais confiance. Merci pour votre patience. J'espère que ce sera mieux cette fois. Oui, on … n'est pas grave, mais il y a des enfants ici. Vous avez raison, je mets la laisse tout de suite. Merci, c'est plus sûr pour tout le monde. Oui, je ne veux pas déranger. Comment s'appelle votre chien? Il s'appelle Rocky. Ah, joli nom. Oui, il est mignon, mais un peu fou. Haha, comme tous les jeunes chiens. Oui, il a beaucoup d'énergie. Il a quel âge? Deux ans. Ah, il est encore jeune. Oui, il aime courir. Vous pouvez aller dans la zone pour chiens. Bonne idée, j'irai là-bas. Comme ça, il court librement. Merci du conseil. De rien, c'est plus sûr. Vous avez raison. Merci de comprendre. Pas de … Environ quinze minutes. Ouf, j'ai un autre rendez-vous après. Je comprends, je regarde votre numéro. Oui, merci. Vous êtes le numéro huit. Et maintenant, c'est quel numéro? Le numéro six. Donc, deux personnes avant vous. D'accord, quinze minutes alors. Oui, à peu près. D'accord, mais j'aimerais plus de ponctualité. Vous avez raison, excusez-nous. C'est souvent en retard ici. Oui, on essaye d'améliorer. Et si j'arrive en retard à mon autre rendez-vous? On peut vous donner un papier de retard. Ah, merci, c'est bien. De rien, je comprends. Je peux attendre ici? Oui, bien sûr, il y a des … problème sur la voie. Ah, ça arrive souvent ici. Oui, ces jours-ci, il y a beaucoup de problèmes. Le train partira aujourd'hui. Oui, il répare maintenant. D'accord, je vais attendre. Vous pouvez attendre dans la salle d'attente. Merci, vous ferez une annonce? Oui, on parlera au micro quand le train partira. Très bien, je vais écouter. D'accord, je vous dirai aussi si ça change. Merci, c'est gentil. De rien, je comprends. J'espère que le retard ne sera pas plus long. J'espère aussi, il vérifie déjà. Heureusement que vous informez les gens. Oui, comme ça tout le monde reste calme. Bon, … suis assis depuis longtemps. Je comprends, mais j'ai mal aux genoux. Oh, je suis désolé, je ne savais pas. Ce n'est pas grave, mais c'est difficile pour moi debout. Très bien, je vous laisse la place. Merci, vous êtes gentil finalement. Oui, pardon d'avoir mal répondu au début. L'important, c'est le respect. Vous avez raison, vous allez loin? Non, juste deux arrêts, après vous pourrez vous rasseoir. Parfait, c'est bien de partager. Merci encore, jeune homme. De rien, bon trajet. À vous aussi, bonne journée. Bonne journée, madame. Produits abîmés au supermarché. Excusez-moi, madame, ce lait … me donner un autre lait ? Oui, vous pouvez l'échanger. Et si je préfère le remboursement ? C'est possible aussi. Je préfère le remboursement. D'accord, on le fait tout de suite. Merci, mais soyez plus attentif. Oui, on va parler avec le fournisseur. Parce que ce n'est pas la première fois. Ah bon, c'est déjà arrivé ? Oui, avec un yaourt. Oh, ce n'est pas bien. Oui, ça me fait perdre du temps. Je comprends vraiment. J'espère que le service va s'améliorer. Oui, nous travaillons là-dessus. Bien, je vais attendre. Voilà votre remboursement. Merci. Pardon encore pour le problème. Refusez un taxi … un peu ? Non, je dois partir maintenant. On peut envoyer un autre taxi. Un autre ? En combien de temps ? Environ vingt minutes. Non, impossible, j'ai une réunion bientôt. D'accord, vous voulez annuler ? Oui, annulez s'il vous plaît. Très bien, c'est annulé. Merci, je vais chercher une autre solution. Vous allez loin ? Non, juste au centre. Vous pouvez prendre le bus. Ou le métro aussi ? Oui, le métro est plus rapide. Parfait, je vais prendre le métro. Désolé pour l'attente. Ce n'est pas grave, mais dites-le plus tôt. Vous avez raison, excusez-nous. J'espère que le service sera meilleur. Oui, … Mince, mon téléphone est mouillé aussi. Ah bon ? Il marche encore ? Oui, je crois. Heureusement. Ouf, j'ai eu peur. Moi aussi, mais tout va bien. Vous voulez qu'on nettoie la veste ? Non, je le ferai chez moi. Je vous offre un café pour m'excuser. Oh, merci, c'est gentil. C'est normal, monsieur. Ce n'est pas très grave. Oui, le plus important, c'est que tout va bien. Et le café gratuit aide aussi. Haha, vous êtes sympa. Tout le monde fait des erreurs. Merci pour votre patience. De rien, mais soyez plus prudent. Promis, je ferai attention. Parfait, j'attends mon café. Il arrive tout de suite.",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -75582,7 +75639,7 @@
  "K0S_JAe5fBE": {
   "channel": "Carlito — Learn French Through Culture",
   "lang": "fr",
-  "checked": "2026-11-09T03:09:51+00:00",
+  "checked": "2026-11-11T15:32:27+00:00",
   "title": "Should billionaires pay a 2% tax?",
   "duration": 337,
   "published": "20251011",
@@ -75699,14 +75756,15 @@
     2
    ]
   ],
-  "tx": "Voilà, déjà, je vais vous expliquer ce qu'est la taxe Zucman. Il est passé dans une émission sur TF1 qui s'appelle Quotidien. C'est un économiste qui est notamment professeur à Berkeley et il fait de la recherche. Il est spécialisé dans l'analyse des ultra-riches et il a donné son nom à une proposition de loi qui est la taxe Zuckmann. On va voir comment il explique son projet et ensuite, je vais vous expliquer avec d'autres mots. Votre proposition, si je peux la résumer, vous m'arrêtez si je dis une bêtise, c'est un prélèvement annuel de 2% sur les patrimoines supérieurs à 100 millions d'euros, un impôt qui permettrait de court-circuiter tous les mécanismes d'optimisation fiscale. Pourquoi je parle de la taxe Zucman ? C'est une proposition de loi pour faire rentrer de l'argent dans les caisses de l'État. L'état a besoin d'argent pour financer son fonctionnement. Il est fortement endetté. Et cet économiste a proposé une loi pour rapporter 20 milliards d'euros par an à l'État. Cette loi propose de taxer à 2% le patrimoine net des ultra-riches. Et la barre des ultra-riches, c'est lorsque l'on possède plus de 100 millions d'euros. Il explique qu'aujourd'hui, les ultra-riches ne payent pas ou peu d'impôts par rapport aux autres citoyens français. La grande majorité des Français paie un impôt sur le revenu. Donc, il y a un salaire. Et sur ce salaire, je vais être prélevé d'un impôt. Le problème, c'est que les ultra-riches, eux, n'ont pas de revenus. Ils ne vont pas avoir un salaire. L'argent qu'ils vont toucher, c'est dans leur entreprise, dans leur holding. Ils vont contourner l'impôt. Zucman considère que ce n'est pas égalitaire, que tous les Français devraient être égaux vis-à-vis des impôts. Et donc, il souhaite taxer les ultra-riches et notamment imposer une taxe de 2%, ",
+  "tx": "Voilà, déjà, je vais vous expliquer ce qu'est la taxe Zucman. Il est passé dans une émission sur TF1 qui s'appelle Quotidien. C'est un économiste qui est notamment professeur à Berkeley et il fait de la recherche. Il est spécialisé dans l'analyse des ultra-riches et il a donné son nom à une proposition de loi qui est la taxe Zuckmann. On va voir comment il explique son projet et ensuite, je vais vous expliquer avec d'autres mots. Votre proposition, si je peux la résumer, vous m'arrêtez si je dis une bêtise, c'est un prélèvement annuel de 2% sur les patrimoines supérieurs à 100 millions d'euros, un impôt qui permettrait de court-circuiter tous les mécanismes d'optimisation fiscale. Pourquoi je parle de la taxe Zucman ? C'est une proposition de loi pour faire rentrer de l'argent dans les caisses de l'État. L'état a besoin d'argent pour financer son fonctionnement. Il est fortement endetté. Et cet économiste a proposé une loi pour rapporter 20 milliards d'euros par an à l'État. Cette loi propose de taxer à 2% le patrimoine net des ultra-riches. Et la barre des ultra-riches, c'est lorsque l'on possède plus de 100 millions d'euros. Il explique qu'aujourd'hui, les ultra-riches ne payent pas ou peu d'impôts par rapport aux autres citoyens français. La grande majorité des Français paie un impôt sur le revenu. Donc, il y a un salaire. Et sur ce salaire, je vais être prélevé d'un impôt. Le problème, c'est que les ultra-riches, eux, n'ont pas de revenus. Ils ne vont pas avoir un salaire. L'argent qu'ils vont toucher, c'est dans leur entreprise, dans leur holding. Ils vont contourner l'impôt. Zucman considère que ce n'est pas égalitaire, que tous les Français devraient être égaux vis-à-vis des impôts. Et donc, il souhaite taxer les ultra-riches et notamment imposer une taxe de 2%, qui permettrait de rapporter 20 milliards d'euros par an. En France, il y a environ 1 500 foyers fiscaux qui sont au-dessus des 100 millions d'euros. Donc cette taxe concerne environ 1 500 foyers en France. Pour vous donner un exemple concret, si Bernard Arnault touche avec LVMH et les autres entreprises qu'il possède des dividendes, on va prendre la totalité de ces dividendes et imposer un pourcentage de 2% sur ce montant. Ça, c'était la proposition de Zucman quand il y avait le Premier ministre Bayrou et cette taxe n'est pas passée. Zucman n'a pas abandonné. Il continue de faire le tour des plateaux et il est très optimiste. Il a travaillé notamment avec l'équipe de Joe Biden Donc, Joe Biden a aussi... Bon, maintenant, il n'est plus au pouvoir, mais il avait travaillé et mis en place une taxe similaire à celle que je viens de vous présenter, mais qui était beaucoup plus élevée aux États-Unis. Donc, ce n'est pas juste une taxe française, mais c'est un mouvement qui est presque mondial, qui, selon Zucman va émerger dans plusieurs pays, en Europe et dans le monde. Et c'est une invention française. Un argument qui est souvent mentionné par les opposants à cette politique, c'est que rajouter de plus en plus d'impôts ne règle pas le problème, car le vrai problème, c'est réduire les dépenses. Et lorsque l'on ajoute plus d'impôts, on crée un cercle vicieux où on ne s'attaque pas au vrai problème sur le long terme. Ajouter un impôt, c'est court-termiste, c'est facile à faire et les hommes politiques privilégient des choix court-termistes pour faire plaisir aux électeurs et donc être réélus. Mais le vrai problème de la France, selon les opposants à cette loi, est qu'il y a trop de dépenses et qu'il faudrait d'abord attaquer vrai problème qui est la dépense, avant de rajouter des impôts.",
+  "gist": "w",
   "status": "ok",
   "src": "cc"
  },
  "dMvyJMVA7VE": {
   "channel": "Carlito — Learn French Through Culture",
   "lang": "fr",
-  "checked": "2026-11-09T03:09:59+00:00",
+  "checked": "2026-11-11T15:32:36+00:00",
   "title": "The Guillotine and Marie-Antoinette: A Shocking French History Lesson",
   "duration": 419,
   "published": "20250908",
@@ -75855,7 +75913,8 @@
     2
    ]
   ],
-  "tx": "Coucou, j'espère que tu vas bien. Et aujourd'hui, je vais te raconter une histoire, l'histoire de Marie-Antoinette et de la guillotine. Donc, je vais t'expliquer quel est le lien entre Marie-Antoinette et la guillotine. Vous le savez, Marie-Antoinette était une reine de France et elle a fini guillotinée, décapitée. On lui a coupé la tête et on a utilisé la guillotine pour lui couper la tête. Reste bien jusqu'à la fin et si tu aimes apprendre le français à travers la culture, tu peux télécharger mes sept histoires culturelles qui vont t'aider à pratiquer le français et te donner confiance en toi. Le lien est dans la Très bien. Maintenant, passons à Marie-Antoinette et à la guillotine. Comment ça ? Qu'est-ce que c'est ? La guillotine. Il y a un débat sur l'authenticité de cette guillotine, mais ça serait la guillotine qui aurait été utilisée pour découper la tête de Marie-Antoinette. Tu peux dire couper la tête de quelqu'un ou guillotiner quelqu'un. Ça s'appelait avant la louisette. La C'est intéressant parce que mine de rien, ça a été étudié pour être rapide et très efficace, notamment au niveau de la courbe de la lame, avant c'était arrondi. Avec l'expérience, adapter le modèle et le plus efficace, c'est la lame comme ça. Comment ça fonctionne ? Si je mets une photo de la guillotine. On a la lame en acier, ce qu'on appelle la tête de mouton. La tête de mouton, c'est la partie... Tiens, la lame, qui est très lourde. Et la lame va descendre sur la tête du condamner et décapiter la personne. Il y avait une photo là. Est-ce que vous savez où ça se trouve ? Sur cette photo, on peut voir Marie-Antoinette se faire décapiter. Je Aujourd'hui, c'est la place de la Concorde, mais à l'époque, ça s'appelait comment ? C'est la place de la Révolution. Et on peut voir ici le bourreau. ",
+  "tx": "Coucou, j'espère que tu vas bien. Et aujourd'hui, je vais te raconter une histoire, l'histoire de Marie-Antoinette et de la guillotine. Donc, je vais t'expliquer quel est le lien entre Marie-Antoinette et la guillotine. Vous le savez, Marie-Antoinette était une reine de France et elle a fini guillotinée, décapitée. On lui a coupé la tête et on a utilisé la guillotine pour lui couper la tête. Reste bien jusqu'à la fin et si tu aimes apprendre le français à travers la culture, tu peux télécharger mes sept histoires culturelles qui vont t'aider à pratiquer le français et te donner confiance en toi. Le lien est dans la Très bien. Maintenant, passons à Marie-Antoinette et à la guillotine. Comment ça ? Qu'est-ce que c'est ? La guillotine. Il y a un débat sur l'authenticité de cette guillotine, mais ça serait la guillotine qui aurait été utilisée pour découper la tête de Marie-Antoinette. Tu peux dire couper la tête de quelqu'un ou guillotiner quelqu'un. Ça s'appelait avant la louisette. La C'est intéressant parce que mine de rien, ça a été étudié pour être rapide et très efficace, notamment au niveau de la courbe de la lame, avant c'était arrondi. Avec l'expérience, adapter le modèle et le plus efficace, c'est la lame comme ça. Comment ça fonctionne ? Si je mets une photo de la guillotine. On a la lame en acier, ce qu'on appelle la tête de mouton. La tête de mouton, c'est la partie... Tiens, la lame, qui est très lourde. Et la lame va descendre sur la tête du condamner et décapiter la personne. Il y avait une photo là. Est-ce que vous savez où ça se trouve ? Sur cette photo, on peut voir Marie-Antoinette se faire décapiter. Je Aujourd'hui, c'est la place de la Concorde, mais à l'époque, ça s'appelait comment ? C'est la place de la Révolution. Et on peut voir ici le bourreau. Le bourreau, c'est la personne qui va exécuter le condamné. Et le bourreau, ici, va agiter la tête de Marie-Antoinette devant la foule. Marie-antoinette sera ensuite emmenée à la Madeleine pour être enterrée et inhumée. Donc, Le trajet de Marie-Antoinette. Je vais vous montrer un portrait de Marie-Antoinette et on va analyser ensemble quelles sont les contraintes à mettre en place pour bien guillotiner quelqu'un. C'est un peu macabre. Notre belle Marie-Antoinette était habillée en blanc. Elle avait les cheveux courts pour que la nuque soit dégagée et permettre à la de bien couper la tête. C'est pour ça qu'elle a les cheveux courts sur cette représentation. Ensuite, Marie-Antoinette était à la comanderie. Elle était dans une prison à Paris, c'est l'Île de la Cité. Ici, vous avez aujourd'hui le Palais de Justice. Ici se trouve la Sainte-Chapelle. À côté, il y a le Palais de Justice. Marie-antoinette était enfermée à la Conciergerie. Louis XVI et Marie-Antoinette étaient à la Conciergerie. On est à Paris et ensuite, elle va être amenée aujourd'hui Place de la Concorde, à l'époque place de la Révolution, et on va l'enterrer à la Madeleine. La Madeleine qui a été récemment rénovée et aujourd'hui, c'est ouvert au public, donc vous pouvez aller visiter la Madeleine. Voilà pour notre chère Marie-Antoinette et pour la guillotine. Comme je le disais, il y a encore un détail sur l'authenticité de cette guillotine, parce qu'à l'époque, il démontait et remontait les guillotines en fonction des personnes à exécuter. Donc, on ne sait pas vraiment si c'est réellement cette lame qui a servi à tuer Marie-Antoinette. Dernier point, le bourreau. Tout à l'heure, j'ai parlé de ce monsieur qu'on appelle qui s'appelle le bourreau. Il était connu parce que ce bourreau était un professionnel. La personne dont le métier est d'exécuter les condamnés à mort, c'est Charles-Henri Samson, qui a été le bourreau de Marie-Antoinette. C'est ce monsieur qui, au cours de sa carrière, a exécuté plus de 2 500 personnes et c'est lui qui a exécuté Marie-Antoinette. En fait, ils étaient bourreaux de père en fils. C'était une question de génération. Comme aujourd'hui, on pourrait être boulanger, à l'époque, ils étaient bourreaux. Et Marie-Antoinette, avant de mourir, a prononcé une phrase qui est célèbre: Excusez-moi, monsieur, je ne l'ai pas fait exprès. Ce sont les derniers mots de Marie-Antoinette. Ce n'est pas en référence à son règne, mais c'est parce qu'elle a marché sur le pied du bourreau. En allant à la guillotine, elle a marché sur le pied du bourreau. Excusez-moi, Monsieur, je ne l'ai pas fait exprès. À l'époque, c'était un peu le chaos à Paris. Marie-antoinette a été jugée par un tribunal révolutionnaire, mais il n'y avait pas encore cette notion de ville de Paris qui cherche à récupérer tous les objets pour les mettre dans des musées. Donc, ça ne m'étonne pas que la famille de Samson, le bourreau, ait acheté cette femme. Voilà, ça Voilà, ça, c'était l'histoire de Marie-Antoinette. Une histoire qui est tragique, malheureusement ou heureusement, je ne sais pas. Si tu as aimé, n'hésite pas à liker, commenter, me dire ce que tu penses de cette fin. Et aussi, si tu veux continuer à pratiquer ton français à travers la culture, tu peux télécharger mes sept histoires culturelles. Le lien est dans la description. Je te souhaite une très bonne journée. C'était Charles. Ciao.",
+  "gist": "w",
   "status": "ok",
   "src": "cc"
  },
@@ -76027,7 +76086,7 @@
  "2OU7KVa_s5s": {
   "channel": "French with Felix",
   "lang": "fr",
-  "checked": "2026-11-09T03:11:37+00:00",
+  "checked": "2026-11-11T15:34:50+00:00",
   "title": "Les Daft Punk - Easy French #53",
   "duration": 705,
   "published": "20260202",
@@ -76176,7 +76235,8 @@
     5
    ]
   ],
-  "tx": "Est-ce que vous connaissez ces deux légendes françaises ? Bonjour à tous et bienvenue pour cette nouvelle vidéo sur le groupe français le plus mythique, les Daft Punk. L'histoire commence en région parisienne. Les deux protagonistes de cette vidéo sont Thomas Bangalter et Guy Manuel de Homem-Christo Ils se rencontrent au lycée à Paris en 1987 et partagent une passion commune pour la musique. Ils forment un groupe de rock nommé Darlin avec notamment Laurent Brankowitz qui deviendra plus tard membre du groupe Phoenix, un autre groupe de musique français populaire. Après la sortie de leur premier morceau, le groupe reçoit rapidement des critiques et notamment une d'un magazine britannique qui qualifie leur musique de Daft Punky Trash. C'est cette critique qui va leur donner l'idée du nom de Daft Punk. Ils perdent alors l'envie de continuer le projet et mettent fin à Darlin. A ce moment, c'est aussi l'arrivée de la musique électronique en France et c'est à l'occasion d'une de leurs premières rave à Beaubourg, au centre Pompidou, dans Paris, que Thomas et Guy Manuel découvrent cette musique et commencent à s'y intéresser. Un peu plus tard, à l'occasion d'un concert à Paris, ils rencontrent le groupe Slam qui est aussi fondateur du label Soma Records. Ils en profitent alors pour leur faire écouter une démo qui s'appelle The New Wave et qui sortira en 1994 sur le label. Et ils enchaînent en 1995 avec le titre qui sera leur premier gros succès, Da Funk C'est littéralement la première brique pour leur carrière mythique, puisqu'à la suite de ce succès, ils sortent en 1997, leur album Homework, qui contient donc Da Funk, mais surtout Around the World. Juste pour vous donner un ordre d'idée, Around the World aujourd'hui c'est 385 millions de streams sur Spotify. L'album est sorti e",
+  "tx": "Est-ce que vous connaissez ces deux légendes françaises ? Bonjour à tous et bienvenue pour cette nouvelle vidéo sur le groupe français le plus mythique, les Daft Punk. L'histoire commence en région parisienne. Les deux protagonistes de cette vidéo sont Thomas Bangalter et Guy Manuel de Homem-Christo Ils se rencontrent au lycée à Paris en 1987 et partagent une passion commune pour la musique. Ils forment un groupe de rock nommé Darlin avec notamment Laurent Brankowitz qui deviendra plus tard membre du groupe Phoenix, un autre groupe de musique français populaire. Après la sortie de leur … alors l'envie de continuer le projet et mettent fin à Darlin. A ce moment, c'est aussi l'arrivée de la musique électronique en France et c'est à l'occasion d'une de leurs premières rave à Beaubourg, au centre Pompidou, dans Paris, que Thomas et Guy Manuel découvrent cette musique et commencent à s'y intéresser. Un peu plus tard, à l'occasion d'un concert à Paris, ils rencontrent le groupe Slam qui est aussi fondateur du label Soma Records. Ils en profitent alors pour leur faire écouter une démo qui s'appelle The New Wave et qui sortira en 1994 sur le label. Et ils enchaînent en 1995 avec … mais surtout Around the World. Juste pour vous donner un ordre d'idée, Around the World aujourd'hui c'est 385 millions de streams sur Spotify. L'album est sorti en 1997. J'insiste, mais autant vous dire qu'à cette époque, Spotify n'existait pas. On était plutôt occupé à jouer à Pinball 3D. Spotify arrive en France seulement en 2008, soit 11 ans après la sortie de Homework. Donc quand un morceau fait 385 millions de streams sur un service qui est sorti 11 ans après sa propre sortie, on peut dire que c'est un classique. Cet album révolutionne littéralement la musique électronique. Ils … comme on les connaît aujourd'hui. Même s'ils commencent déjà à faire des interviews avec des masques pour cacher leur identité, c'est en 2001 que leur projet commencera vraiment à s'inscrire dans la légende. 2001, c'est la sortie de Discovery, un album mythique qui a marqué à jamais l'histoire de la musique électronique. Honnêtement, je ne sais pas trop par où commencer car c'est un album rempli de classiques. Bon, pour commencer, one more time. 630 millions de streams, toujours 7 ans avant la sortie de Spotify. Je sais pas si j'ai besoin d'ajouter autre chose. Harder Better Faster … plus de 1 milliard de streams. Et pour finir, c'est aussi pour le coup mes préférés, Something About Us et Veridis Quo En vous mettant les clips, vous avez sûrement remarqué le style japonais des dessins Il s'agit en fait du film Interstellar 555555 réalisé avec Reiji Matsumoto, le dessinateur d'Albator et Kazuhisa Takenouchi. C'est un film muet qui utilise uniquement les musiques de Discovery. Si ça vous intéresse, vous devriez pouvoir le trouver facilement en streaming. Discovery, c'est donc l'album qui les propulse au rang de légende, qui fait de Daft Punk des légendes. C'est aussi … Human After All, qui reçoit un accueil mitigé. Les critiques sont bof. Ils disent avoir produit l'album en une douzaine de jours seulement. Et même si l'accueil a été mitigé, l'album contient des morceaux emblématiques, dont Technologic, avec un clip qui sera source de cauchemars pour les plus jeunes. C'est cet album qui marque aussi le début de ce qu'on peut appeler la French Touch 2.0, avec une musique électronique plus agressive, et qui sera aussi suivie par d'autres artistes français, comme Kavinsky, Sebastian ou encore Justice. Mais depuis 2001 les Daft Punk n'ont donné aucun … En 2006, ils leur proposent 300 000 $, et ils ont accepté. Ils préparent alors en secret leur concert pour l'édition de 2006. Quand je dis \"en secret\", c'est que même leur manager, Pedro Winter, le découvre seulement 10 jours avant le festival. Et non seulement ils préparent des morceaux exclusifs, qui combinent leurs trois albums studios, mais ils préparent surtout un show qui marquera à jamais la musique électronique. A cette époque, ils font appel à tous les fournisseurs de LED des États-Unis. Ils construisent une structure unique, en forme de pyramide, et le reste appartient à la … des Daft Punk. Avec la réussite de ce premier show à Coachella, ils enchaînent avec une tournée en 2007, et ils sortiront l'album Alive 2007, qui gagnera un Grammy Award du meilleur album de musique électronique en 2009. Il faudrait ensuite attendre 2010 pour avoir des nouvelles des robots avec la sortie du nouveau film Tron. Ils ont tout simplement collaboré avec Disney pour la composition de la bande originale, la BO du film. Ça a été une occasion en or pour apprendre à composer avec d'autres musiciens, et en l'occurrence avec un orchestre. Ce n'était pas juste faire une musique … Memories, qui représente un tournant vers des sonorités plus organiques et influencés par le funk et le disco des années 70-80. Alors, quoi de mieux que de collaborer avec des légendes comme Nils Rogers ou encore Giorgio Moroder L'album est sublime, au-delà des hits comme Get Lucky, il y a aussi des morceaux comme Within, Touch, Motherboard ou même Beyond, où on retrouve le mélange électro-orchestre. C'est un énorme succès mondial, et l'album remporte 5 Grammy Awards, dont le prix le plus prestigieux. Cette dernière étape de leur carrière inscrit définitivement les Daft Punk comme des … ils annoncent la fin de cette aventure. C'est triste, mais en même temps, est-ce que ce n'est pas une bonne chose de savoir s'arrêter quand il le faut ? Car finalement, ils auront eu une carrière parfaite. Si vous avez aimé cette vidéo, n'hésitez pas à soutenir la chaîne en vous abonnant, en laissant un j'aime et un commentaire. J'ai également un Patreon si vous voulez me soutenir. Il y a un Discord privé et je crée aussi du contenu exclusif, donc si vous voulez me soutenir, n'hésitez pas à cliquer sur le lien dans la description. Merci d'avoir regardé jusqu'au bout et à la prochaine !",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },

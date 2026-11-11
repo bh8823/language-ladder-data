@@ -11976,7 +11976,7 @@
  "OYiN3uE0LTo": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-05T16:09:37+00:00",
+  "checked": "2026-11-11T15:28:58+00:00",
   "title": "Caillou und das Schaf | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3556,
   "published": "20260809",
@@ -11984,24 +11984,73 @@
   "spoken_v": 2,
   "pace": 113.8,
   "rare": 0.0961,
+  "var": 0.8489,
   "speech_s": 3000.8,
   "tokens": 5690,
   "kw": [
    [
-    "rosy",
-    "Rosy schläft noch. Komm, steig ein und schnall dich an,",
-    436,
-    446,
-    2.32,
-    42
+    "hast",
+    "Rosy, hast du Lust dir mit Mami die Kühe",
+    540,
+    545,
+    5.75,
+    24
    ],
    [
-    "papi",
-    "Wiedersehen, Papi. Wiedersehen, Rosi. Was war denn das?",
-    28,
-    43,
-    3.27,
-    43
+    "wollte",
+    "Kayu wollte bei den Schafen bleiben,",
+    74,
+    79,
+    5.5,
+    24
+   ],
+   [
+    "nein",
+    "Oh nein, seine Wolle wächst ja wieder",
+    248,
+    254,
+    5.52,
+    22
+   ],
+   [
+    "spielen",
+    "nachher spielen. Rosy, hast du Lust dir mit Mami die Kühe",
+    538,
+    545,
+    5.42,
+    22
+   ],
+   [
+    "guck",
+    "Oh, toll. Omi Schafe. Guck mal.",
+    45,
+    52,
+    4.37,
+    11
+   ],
+   [
+    "milch",
+    "Das trinkt ja Milch aus einem",
+    302,
+    307,
+    4.51,
+    9
+   ],
+   [
+    "wolle",
+    "der Wolle von unseren Schafen machen.",
+    110,
+    116,
+    4.5,
+    9
+   ],
+   [
+    "mittag",
+    "Mittag. Wann ist denn Mittag?",
+    1068,
+    1073,
+    4.29,
+    9
    ],
    [
     "mami",
@@ -12012,6 +12061,38 @@
     35
    ],
    [
+    "wiedersehen",
+    "Wiedersehen, Kaju. Wiedersehen.",
+    25,
+    34,
+    4.11,
+    13
+   ],
+   [
+    "kaninchen",
+    "Mami, Mami, ein Kaninchen. Draußen ist",
+    1370,
+    1377,
+    3.94,
+    10
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, Kühe. Können wir",
+    464,
+    470,
+    3.9,
+    10
+   ],
+   [
+    "papi",
+    "Wiedersehen, Papi. Wiedersehen, Rosi. Was war denn das?",
+    28,
+    43,
+    3.27,
+    43
+   ],
+   [
     "rosi",
     "Wiedersehen, Papi. Wiedersehen, Rosi. Was war denn das?",
     28,
@@ -12020,19 +12101,11 @@
     19
    ],
    [
-    "kau",
-    "angefasst hatte. Kau mochte das Lamm",
-    320,
-    324,
-    2.96,
-    16
-   ],
-   [
-    "karotten",
-    "zwei Karotten aus dem Garten holt?",
-    1279,
-    1283,
-    3.42,
+    "gilbert",
+    "Gilbert. Die Karte ist von Gilbert.",
+    1796,
+    1802,
+    3.58,
     11
    ],
    [
@@ -12044,6 +12117,22 @@
     11
    ],
    [
+    "rosy",
+    "Rosy schläft noch. Komm, steig ein und schnall dich an,",
+    436,
+    446,
+    2.32,
+    42
+   ],
+   [
+    "kau",
+    "angefasst hatte. Kau mochte das Lamm",
+    320,
+    324,
+    2.96,
+    16
+   ],
+   [
     "ros",
     "Natürlich. Ros bekommt auch ein Schäfchen.",
     393,
@@ -12052,74 +12141,18 @@
     7
    ],
    [
-    "wollte",
-    "Kayu wollte bei den Schafen bleiben,",
-    74,
-    79,
-    5.5,
-    24
-   ],
-   [
-    "hast",
-    "Rosy, hast du Lust dir mit Mami die Kühe",
-    540,
-    545,
-    5.75,
-    24
-   ],
-   [
-    "spielen",
-    "nachher spielen. Rosy, hast du Lust dir mit Mami die Kühe",
-    538,
-    545,
-    5.42,
-    22
-   ],
-   [
-    "nein",
-    "Oh nein, seine Wolle wächst ja wieder",
-    248,
-    254,
-    5.52,
-    22
-   ],
-   [
-    "danke",
-    "ich habe es. Danke. Ku hatte noch nie ein Spinnenrad",
-    139,
-    148,
-    5.64,
-    21
-   ],
-   [
-    "konnte",
-    "damit machen konnte. Dieses Spinnenrad benutzen wir, um aus",
-    147,
-    155,
-    5.64,
-    20
-   ],
-   [
-    "gehen",
-    "Also können wir jetzt gehen? Mami versucht gerade im Wohnzimmer ein",
-    3,
-    13,
-    5.65,
-    20
-   ],
-   [
-    "gemacht",
-    "Ich zeig dir mal, wie es gemacht wird.",
-    170,
-    175,
-    5.65,
-    19
+    "clementine",
+    "Diese Karte ist für Clementine. Sie mag",
+    1544,
+    1551,
+    2.79,
+    6
    ]
   ],
-  "tx": "Also können wir jetzt gehen? Mami versucht gerade im Wohnzimmer ein bisschen zu schlafen. Mami hat sich erkältet und während sie sich ausruht, werden wir beide eine besonders liebe Freundin von mir besuchen. K liebte die Entdeckungsreisen mit seiner Oma. Da gab es immer viele Überraschungen. Wiedersehen, Kaju. Wiedersehen. Wiedersehen, Papi. Wiedersehen, Rosi. Was war denn das? Schafe. Oh, toll. Omi Schafe. Guck mal. K war ganz aufgeregt. Noch nie hatte er Schafe von so nahen gesehen. Die essen ja krass. Keine Angst, es will dir doch nur guten Tag sagen. Äh hallo. Hallo ihr zwei. Hallo, Emma. Kayu wollte bei den Schafen bleiben, aber er wusste, dass er mit seiner Oma gehen musste. Emma, wir haben uns so lange nicht gesehen. Sag mal, wer ist denn dieser reizende junge Mann? Das ist mein Enkelsohn K. Und Emma gehört die Schäferei. K wurde etwas schüchtern, als er Emma sah, aber alles hier um ihn herum interessierte ihn sehr. Ein Schaf. Kommt doch rein, dann zeige ich euch all die wunderschönen Sachen, die wir aus der Wolle von unseren Schafen machen. Kaju fand das wunderschön. Die Wollkneu leuchteten in allen Farben des Regenbogens. Das ist doch wohl nicht etwa Mary, oder doch? Ist doch nicht zu fassen. So groß bist du geworden. Oh oh, ich habe es. Danke. Ku hatte noch nie ein Spinnenrad gesehen. Er hatte keine Ahnung, was man damit machen konnte. Dieses Spinnenrad benutzen wir, um aus der Wolle das Garn zu spinnen. Das steht hier schon seit langer Zeit. Es hat nämlich meiner Großmutter gehört, Ku. Es steht hier nur zur Dekoration. Aber es funktioniert noch. Möchtest du das mal anfassen? Das ist Wolle vom Schaf. Die Wolle fühlte sich weich und zart an. Ich zeig dir mal, wie es gemacht wird. Du ziehst sie auseinander. Mary, kannst du mir mal helfen? Klar. Omi, sieh doch ma",
+  "tx": "Also können wir jetzt gehen? Mami versucht gerade im Wohnzimmer ein bisschen zu schlafen. Mami hat sich erkältet und während sie sich ausruht, werden wir beide eine besonders liebe Freundin von mir besuchen. K liebte die Entdeckungsreisen mit seiner Oma. Da gab es immer viele Überraschungen. Wiedersehen, Kaju. Wiedersehen. Wiedersehen, Papi. Wiedersehen, Rosi. Was war denn das? Schafe. Oh, toll. Omi Schafe. Guck mal. K war ganz aufgeregt. Noch nie hatte er Schafe von so nahen gesehen. Die essen ja krass. Keine Angst, es will dir doch nur guten Tag sagen. Äh hallo. Hallo ihr zwei. Hallo, Emma. … Ku. Kau war sehr stolz, dass er geholfen hatte. Das waren reizende Stunden immer. Ich danke dir von ganzem Herzen. Das sollten wir unbedingt häufiger tun. Oh ja, auf jeden Fall. Wo ist Mary? Mary, hier noch ein Andenken. Kaju, das ist für dich, Kaju. Danke schön. Sieh mal, Papi. Mami schläft immer noch im Wohnzimmer. Hier, sieh mal, Papi, ich habe ein Schaf. Rosi auch? Natürlich. Ros bekommt auch ein Schäfchen. Schäfchen? Kayu dachte sich, dass seine Mami mit dem Schäfchen im Arm viel besser schlafen würde. Kayu war ganz aufgeregt, denn heute sollte ein großes Picknick veranstaltet … bei dir eine neue Weltraumstation. Oh ja. Komm schon, Papi. Los, beeil dich. Achtung, alles klar zum Raketenstart. Rosy wollte überhaupt nicht schlafen. Sie wollte viel lieber raus und mit ihrem großen Bruder Cou spielen. Also dann, Rosy, Mittagsschläfchen. 5 4 3 2 1 Hast du das gesehen, Mami? Wir sind durch den Reifen geflogen. Könntet ihr beide vielleicht etwas leiser sein? Rosy hält gerade ihren Mittagsschlaf. Raketenstarts sind aber laut. K gefiel das überhaupt nicht, dass er jetzt leise spielen musste, nur weil Rosy schlief. Du hast recht, die sind laut. Ähm, aber nachdem die Rakete … Mami? Nein, Kaju, noch nicht. Papi, Kaju, du hast mich aber erschreckt. Bist du fertig? Können wir jetzt gehen? Weißt du, mit der Zeit ist das so, dass man manchmal das Gefühl hat, dass sie ganz langsam vergeht. Pass mal auf. Hast du Lust, unser Zeitwächter zu sein? Dann bist du nämlich derjenige, der uns sagt, wann wir gehen sollen. Wirklich? Und jetzt zeige ich dir etwas. Wenn der große und der kleine Zeiger beide auf die 12 zeigen, dann ist es Mittag. Und jetzt werde ich noch den Wecker stellen, sass er genau mittags klingelt. So, hörst du? Danke sehr, Papi. Kau hatte jetzt eine … bei meinem Bruder und irgendwie muss Schneebchen aus einem Käfig entwischt sein. Wir haben schon überall nach dem Körlchen gesucht. Möchtest du Schneebällchen gern mal streicheln? Also, ich glaube, jetzt ist der Fall der verschwundenen Karotten gelöst. Und ich habe ein verschwundenes Häschen wieder gefunden. Guten Morgen, Kaju. Guten Morgen. Alles Gute zum Valentinstag. Kayu wurde ganz aufgeregt, als ihm einfiel, dass Leo heute eine Valentinstagparty gab. Ich muss nachher Valentinskarten malen. Ja, genau. Du kannst sie dann zu Leos Party mitnehmen und unter deinen Freunden verteilen und die … war Kai völlig durcheinander. Er hatte keine Ahnung, wer ihm die Valentinskarte gemacht hatte. Bist du sicher, dass du schon an alle gedacht hast, die in Frage kommen? Ich glaube, du hast jemanden vergessen. Ros. Rosi, hast du diese Karte für mich gemacht? Rosi gemacht. Wir haben schwer geschuftet an diesem großen Geheimnis, nicht wahr, Rosy? Danke. Alles Gute zum Valentinstag. Hier, ich habe auch etwas für dich, Rosi. Lecker, danke sehr, Kaju. Vielen Dank, Ku. auch. Ja, guck mal, der riesige Laster. Er ist da reingefahren. Was ist denn da drin, Mami? Das wirst du gleich selber sehen … dein Gesicht ab, bevor du davon düst. Aber Gilbert hat doch gerade nur keine Panik. Du kannst das alles nachher erledigen. Aber seine Mami hatte Kaju doch gebeten, diese Liste seinem Papi zu geben. Hier. Genau, das brauchen wir. Siehst du das? Ich glaube, das Stück, dass du hast, passt da genau rein. Wir werden es wieder festkleben. Kann ich das machen? ganz vorsichtig drücken. Kaju war stolz, dass er seinem Vater helfen konnte. Gesundheit. Der Stuhl ist vielleicht staubig. Wir müssen ihn sauber machen. Unser Nasu muss auch sauber gemacht werden. Papi, ich glaube, er passt gut in … machen, bis sie hier sind? Wenn ich hohe Töne spiele, dann müsst ihr eure Hände zur Decke strecken. Wenn ich tiefe Töne spiele, dann müsst ihr so tief wie ihr könnt, runter auf den Boden. Ihr müsst drauf und runter, so wie ich spiele. Kau, schau mal, wie tief ich runterkomme. Das sind hohe Töne. Guck mal, wie hoch ich komme. Ich komme noch höher. Billy, deine Freunde sind unten im Garten. Ich muss gehen. Also, bis nachher. Dieses Hoch und runterspiel hatte Kaju großen Spaß gemacht. Deshalb wollte er jetzt noch nicht aufhören. Ich heb's schon auf. Hey, ich habe eine Idee. Lass … aus dem Stall holen. Kaju konnte sich nicht vorstellen, wie viel größer ein Pferd wohl sein könnte. Guck mal, Kaju, es regnet Stroh. Das Vieren des Pferdes hatte KU erschreckt. Vielleicht will es nicht, dass wir mit seinem Fressen spielen. Im Ernst? Nein, Kaju, ich habe nur Spaß gemacht. Da kommt jetzt ein Pferd, Papi. Konnte es nicht fassen, wie groß das Pferd war. Er hatte ein ganz klein bisschen Angst. Kayu, das ist Lucky. Na komm schon, wir begrüßen es gemeinsam. Hallo Lucky, ich glaube das Pferd mag dich. Was ist denn das? Karotten. Weißt du, dass Lucky Karotten sehr gern mag? Würdest … und deshalb wollte er es auf dem ganzen nach Hauseweg spielen. Grünes Licht. Rotes Licht. Mami, wir sind wieder da. Kaju war froh, dass es ihm eingefallen war, schnell frische Milch zu holen, denn jetzt hatte er auch Hunger auf eine große Schüssel. Müssli auch, Müsli, du bist immer noch hungrig nach all dem, was du gegessen hast. Fertig. Grünes Licht. Das ist Rosi. Sie ist meine kleine Schwester und ich mag sie sehr gern. Wir spielen sehr oft zusammen und dabei haben wir viel Spaß. Ich zeige ihr die Sachen, die ich gerne mag und manchmal tröste ich sie auch. Ich bin nämlich ihr großer Bruder.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8743
+  "src": "auto"
  },
  "wfSBfdubpt4": {
   "channel": "MrWissen2go",
@@ -12272,7 +12305,7 @@
  "wJALneM0PX0": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-06T02:25:01+00:00",
+  "checked": "2026-11-11T15:24:37+00:00",
   "title": "Mia STIRBT im FEUER?",
   "duration": 603,
   "published": "20260916",
@@ -12280,81 +12313,10 @@
   "spoken_v": 2,
   "pace": 160.6,
   "rare": 0.0435,
+  "var": 0.7979,
   "speech_s": 497.6,
   "tokens": 1332,
   "kw": [
-   [
-    "mia",
-    "Oh nein! Mia! Was ist passiert?",
-    2,
-    8,
-    3.98,
-    19
-   ],
-   [
-    "regenwolken",
-    "Hier sind Regenwolken! Regenwolken?",
-    41,
-    45,
-    2.5,
-    4
-   ],
-   [
-    "pia",
-    "Und jetzt mach mal ein süßes Foto von mir, Pia!",
-    104,
-    108,
-    3.65,
-    8
-   ],
-   [
-    "furz",
-    "Furz nicht so viel, Pia! Ich habe das Fenster gefunden!",
-    371,
-    376,
-    3.23,
-    4
-   ],
-   [
-    "mias",
-    "Das war Mias Furz! Was ist hier los?",
-    445,
-    449,
-    2.37,
-    2
-   ],
-   [
-    "betrüge",
-    "Dann betrüge ich dich halt, wenn du mich nicht schön findest!",
-    239,
-    243,
-    2.56,
-    2
-   ],
-   [
-    "rauch",
-    "Hier ist überall Rauch! Kann man Rauch essen?",
-    52,
-    57,
-    4.17,
-    8
-   ],
-   [
-    "bügeleisen",
-    "DAS BÜGELEISEN!! Was ist hier los?",
-    48,
-    52,
-    2.93,
-    2
-   ],
-   [
-    "feuer",
-    "Hilf mir, das Feuer zu löschen!",
-    96,
-    98,
-    4.76,
-    13
-   ],
    [
     "gott",
     "Oh Gott Die Treppe! Lebst du noch, Mia?",
@@ -12370,22 +12332,6 @@
     8,
     5.52,
     10
-   ],
-   [
-    "papa",
-    "Willst du nicht duschen, Papa? Nein, ich sehe cool aus, Schatz!",
-    117,
-    121,
-    4.46,
-    9
-   ],
-   [
-    "mama",
-    "Mama? Was ist los, Max?",
-    39,
-    42,
-    4.68,
-    9
    ],
    [
     "sterben",
@@ -12404,18 +12350,122 @@
     7
    ],
    [
-    "zimmer",
-    "Okay, darf ich wieder in mein Zimmer?",
-    169,
-    172,
-    4.97,
-    6
+    "feuer",
+    "Hilf mir, das Feuer zu löschen!",
+    96,
+    98,
+    4.76,
+    13
+   ],
+   [
+    "mama",
+    "Mama? Was ist los, Max?",
+    39,
+    42,
+    4.68,
+    9
+   ],
+   [
+    "papa",
+    "Willst du nicht duschen, Papa? Nein, ich sehe cool aus, Schatz!",
+    117,
+    121,
+    4.46,
+    9
+   ],
+   [
+    "blind",
+    "Ich hasse es, blind zu sein!",
+    34,
+    36,
+    4.26,
+    5
+   ],
+   [
+    "mia",
+    "Oh nein! Mia! Was ist passiert?",
+    2,
+    8,
+    3.98,
+    19
+   ],
+   [
+    "rauch",
+    "Hier ist überall Rauch! Kann man Rauch essen?",
+    52,
+    57,
+    4.17,
+    8
+   ],
+   [
+    "pia",
+    "Und jetzt mach mal ein süßes Foto von mir, Pia!",
+    104,
+    108,
+    3.65,
+    8
+   ],
+   [
+    "treppe",
+    "Oh Gott Die Treppe! Lebst du noch, Mia?",
+    12,
+    18,
+    4.19,
+    2
+   ],
+   [
+    "furz",
+    "Furz nicht so viel, Pia! Ich habe das Fenster gefunden!",
+    371,
+    376,
+    3.23,
+    4
+   ],
+   [
+    "ausbricht",
+    "Ab heute werden wir gut aufpassen, dass kein Feuer mehr ausbricht!",
+    159,
+    164,
+    3.2,
+    2
+   ],
+   [
+    "regenwolken",
+    "Hier sind Regenwolken! Regenwolken?",
+    41,
+    45,
+    2.5,
+    4
+   ],
+   [
+    "bügeleisen",
+    "DAS BÜGELEISEN!! Was ist hier los?",
+    48,
+    52,
+    2.93,
+    2
+   ],
+   [
+    "betrüge",
+    "Dann betrüge ich dich halt, wenn du mich nicht schön findest!",
+    239,
+    243,
+    2.56,
+    2
+   ],
+   [
+    "mias",
+    "Das war Mias Furz! Was ist hier los?",
+    445,
+    449,
+    2.37,
+    2
    ]
   ],
-  "tx": "Immer muss ich bügeln! Oh nein! Mia! Was ist passiert? Mia ist geflogen! Wohin ist sie geflogen? Ich glaube, in den Himmel! Oh Gott Die Treppe! Lebst du noch, Mia? Hm, habe ich nicht irgendwas vergessen? Egal! Wach auf, Mia! Ich gebe dir Döner! Was ist los? Gott sei Dank! Du lebst! Hier riecht irgendwas! Bin ich die Treppe runtergefallen? Ja! das war das sechste Mal diese Woche, Mia! Ich hasse es, blind zu sein! Wir finden bald Augen für dich, Schatz! Äh.. Mama? Was ist los, Max? Hier sind Regenwolken! Regenwolken? Es gibt keine Regenwolken drinnen! Moment Mal! DAS BÜGELEISEN!! Was ist hier los? Hier ist überall Rauch! Kann man Rauch essen? Halt deine Luft an, Max! Nö, kein Bock! Mir wird schwindelig! Aua! Die Tür ist zu heiß! Ich bin ja voll stark, Alter! Das ist nicht gut! Unser Haus fackelt ab! Das hilft nicht! Wo ist Paul, dieser Idiot? Du bist die süßeste Frau in der Welt! Bitte gib mir ein bisschen Geld! Unser Haus brennt, Paul! Ich habe mir einen Squishy bestellt! Üheuheu! Steh sofort auf! Ich habe doch nur gesungen! Oh Gott! Hier ist Rauch! Hilf mir, das Feuer zu löschen! Soll ich die Feuerwehr rufen? Nein, dein Mann schafft das! Ich bin nämlich ein richtiger Mann! Und jetzt mach mal ein süßes Foto von mir, Pia! Lösch das Feuer! Mach erst ein Foto von mir für mein Insta! Ich hasse dich so sehr! später am Abend Wir müssen dringend reden! Willst du nicht duschen, Papa? Nein, ich sehe cool aus, Schatz! Mach noch ein Foto, Pia! Ihr hört mir jetzt alle zu! Du auch Max! Leg sofort Ringi weg! Nö! Wir machen irgendwas falsch als Eltern! Gut, dass ich so eine gute Tochter bin! HAHAHAHA! Wir müssen jetzt reden! Was ist denn passiert, Pia? Wir hatten doch einen sehr schönen Tag heute! Einen schönen Tag? Hast du unser Schlafzimmer gesehen? Ich mag die Farbe Schwarz! Unsere ",
+  "tx": "Immer muss ich bügeln! Oh nein! Mia! Was ist passiert? Mia ist geflogen! Wohin ist sie geflogen? Ich glaube, in den Himmel! Oh Gott Die Treppe! Lebst du noch, Mia? Hm, habe ich nicht irgendwas vergessen? Egal! Wach auf, Mia! Ich gebe dir Döner! Was ist los? Gott sei Dank! Du lebst! Hier riecht irgendwas! Bin ich die Treppe runtergefallen? Ja! das war das sechste Mal diese Woche, Mia! Ich hasse es, blind zu sein! Wir finden bald Augen für dich, Schatz! Äh.. Mama? Was ist los, Max? Hier sind Regenwolken! Regenwolken? Es gibt keine Regenwolken drinnen! Moment Mal! DAS BÜGELEISEN!! Was ist hier … Das ist nicht gut! Unser Haus fackelt ab! Das hilft nicht! Wo ist Paul, dieser Idiot? Du bist die süßeste Frau in der Welt! Bitte gib mir ein bisschen Geld! Unser Haus brennt, Paul! Ich habe mir einen Squishy bestellt! Üheuheu! Steh sofort auf! Ich habe doch nur gesungen! Oh Gott! Hier ist Rauch! Hilf mir, das Feuer zu löschen! Soll ich die Feuerwehr rufen? Nein, dein Mann schafft das! Ich bin nämlich ein richtiger Mann! Und jetzt mach mal ein süßes Foto von mir, Pia! Lösch das Feuer! Mach erst ein Foto von mir für mein Insta! Ich hasse dich so sehr! später am Abend Wir müssen dringend … machen irgendwas falsch als Eltern! Gut, dass ich so eine gute Tochter bin! HAHAHAHA! Wir müssen jetzt reden! Was ist denn passiert, Pia? Wir hatten doch einen sehr schönen Tag heute! Einen schönen Tag? Hast du unser Schlafzimmer gesehen? Ich mag die Farbe Schwarz! Unsere Familie wäre fast gestorben heute! Ich rufe bald das Jugendamt! Ich glaube, Mama ist ein bisschen emotional heute! Ich habe so Angst! Es wird alles gut, mein süßer Elefant! Ab heute werden wir gut aufpassen, dass kein Feuer mehr ausbricht! Du hast doch das Bügeleisen vergessen! Äh, ja! Aber ab heute passen wir alle auf! … heute hier im Wohnzimmer! Dann bin ich ja alleine oben! Ja! Pass auf dich auf, Schatz! Ja, ich schaffe das! Wir müssen dringend neue Augen für Mia finden! Habe ich die Babies verletzt? Die Zwillinge sind stark genug! Stimmt, du bist ja schwanger! Seit wann ist das so, Pia? Gute Nacht! Mia, lass mich nicht alleine mit Mama! Sonst werde ich auch blind! Cool, dann sind wir beide blind! Komm zurück, Mia! Das ist das erste Mal dass ich alleine oben schlafe! Ich dusche jetzt und dann geht es los! Bitte, Gott! Ich brauche neue Augen! Er hört mich nicht! Ich gehe jetzt duschen und dann Haare … ich dich halt, wenn du mich nicht schön findest! Was? Äh, ich betrüge dich? Oh Gott! Ich weine gleich noch ein bisschen und dann schlafe ich! Mein Leben ist so dumm geworden! Ich wünschte, ich hätte nie in diese Sonnenfinsternis gekuckt! Naja. egal! Jetzt kann ich es nicht mehr ändern! Doch, ich muss neue Augen finden! Das ist mein Handy! Das könnte Alex sein! Üheuheu! Niemand liebt mich in dieser Familie! Ich liebe dich! Danke, Max! Wenigstens einer! Wo bist du, Ringi? Ich liebe dich so sehr! Wir lieben dich alle Paul! Echt? Ja, du bist aber ein Vollidiot! Das ist okay! Wie viel Geld haben … später Ja, hat mich auch gefreut, Alex! Wir sehen uns morgen in der Schule! Alex ist so verdammt süß! Auch, wenn ich nicht weiß, wie er aussieht! Hä? Warum ist mein Handy so nass? Meine Haare sind ja auch nass! Aber ich habe doch meine Haare geföhnt! Moment Mal! Jetzt geht's mir besser! Was riecht hier so? Ist das Rauch? Oh mein Gott! Ich habe den Föhn vergessen! Hier ist so viel Rauch! Äh ich kann nichts sehen! Aber ich kann nicht atmen! Oh nein! Brennt es im Bad? Ich glaube, das ist die falsche Richtung! Ich bin so müde! Hier ist es so heiß! Und ich höre Feuer! Mama Papa! Es brennt! … Wo ist das Fenster? Ich will nicht sterben! Vielleicht da! Furz nicht so viel, Pia! Ich habe das Fenster gefunden! Aber es geht nicht auf! Der Rauch vergiftet mich! Ich werde hier sterben! Nein, ich darf hier nicht sterben! Ich muss Mama und Papa aufwecken! Aber wie soll ich das machen? Luft! Mama, Papa! Wacht auf! Warum hört ihr mich nicht? Verdammt! Ich werde hier sterben! Was mache ich denn jetzt? Aua! Das Feuer kommt immer näher! Ich werde sterben, wenn ich Mama und Papa nicht aufwecke! Ich habe eine Idee! Ich wecke sie mit meinem Pups auf! Verdammt! Mein Furz war nicht schnell … nicht! So, fertig geladen! Wacht auf, Mama und Papa! Flieg, Furzi! Donner! Er fliegt! Trenn dich! Bäh, was ist das? Oh, Zuckerwatte! Das war Mias Furz! Was ist hier los? Donnerwolken! Nein! Das ist Rauch! Hm, lecker! Wach auf, Paul! Boah, geil! Siehst du nicht, was hier los ist? Hier sind Furzwolken! Nein! Das ist echter Rauch! Echte Furzwolken? Nein, von Feuer du Idiot! Achso, dann ist es okay! Steh sofort auf, du Trottel! Wir müssen nach Mia sehen! Äh, ja! Es hat nicht funktioniert! Niemand kommt mich retten! Mia! Papa? Bist du da oben, Mia? Ja, bitte rettet mich! Hab keine Angst, Schatz! … etwas nicht! Das ist total heiß! Üheuheu! Papa? Geh in dein Zimmer und klettere durch das Fenster, Mia! Aber ich kann das Fenster nicht öffnen, wenn ich blind bin! Du musst es schaffen! Ich kann nicht zu dir nach oben kommen! Ich probiere es nochmal! Ich will nicht sterben! Spring aus dem Fenster! Ich fange dich auf! Warum hast du Mia nicht gerettet? Ich wusste nicht, dass Feuer so heiß ist! Mia, hörst du mich? Ja ich höre dich! Öffne das Fenster und spring! Ich schaffe es nicht! Ich werde hier sterben! Wo bleibt die Feuerwehr? Meine arme Mia! Ich glaube, das Feuer ist jetzt in meinem … da! Ich hatte ein schönes Leben! Nein! Ich bin noch viel zu jung! Bitte Gott! Ich will nicht sterben! Das Feuer ist gleich bei meinem Bett! Was? Ich kann sehen! Ich bin so glücklich! Ich muss hier schnell raus! Ich glaube, Mia ist tot! Wir haben unsere Tochter verloren! MIA! Ich habe es geschafft! Aber wie? Ich kann wieder sehen! Gott hat mir neue Augen gegeben! Gott sei Dank! Ich bin wieder blind! Was soll das, Gott? Was passiert hier? Ich muss Gott treffen.. Wollt ihr den nächsten Teil? Dann kommentiert, was wohl als nächstes passiert! Und klickt gerne auf dieses Video, bis Part 9 da ist!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8345
+  "src": "cc"
  },
  "zYwXE4twq5U": {
   "channel": "Learn German by Listening (DldH)",
@@ -15246,80 +15296,49 @@
  "f2_XcczoZT0": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-07T05:28:13+00:00",
-  "title": "Learn German Language with a Story \"IM BUS\". German Stories for Beginners",
+  "checked": "2026-11-11T15:30:59+00:00",
+  "title": "Understand Spoken German with This Simple Bus Ride Story (A1)",
   "duration": 669,
   "published": "20261006",
   "spoken": "de",
   "spoken_v": 2,
   "pace": 72.2,
   "rare": 0.0923,
+  "var": 0.625,
   "speech_s": 387.4,
   "tokens": 466,
   "kw": [
    [
-    "rettungswagen",
-    "Ein Rettungswagen kommt. An ambulance is coming.",
-    278,
-    292,
-    3.31,
-    6
+    "the",
+    "Anna is taking the bus today.",
+    7,
+    16,
+    5.62,
+    10
    ],
    [
-    "ampel",
-    "Die Ampel ist rot. The traffic light is red.",
-    95,
-    108,
-    3.97,
+    "frau",
+    "Eine schwangere Frau steigt ein. A pregnant woman gets on.",
+    331,
+    346,
+    5.66,
     8
    ],
    [
-    "drives",
-    "The bus drives slowly. Der Bus fährt langsam.",
-    254,
-    262,
-    2.39,
-    2
-   ],
-   [
-    "haltestelle",
-    "Die Haltestelle ist nicht weit. The bus stop is not far.",
-    42,
-    56,
-    3.99,
+    "uhr",
+    "Es ist 8:15 Uhr. It is quarter past eight.",
+    16,
+    29,
+    5.67,
     7
    ],
    [
-    "walks",
-    "Anna walks to the bus stop.",
-    33,
-    42,
-    2.48,
-    2
-   ],
-   [
-    "sirene",
-    "Plötzlich hört Anna eine Sirene. Suddenly, Anna hears a siren.",
-    262,
-    278,
-    3.22,
-    3
-   ],
-   [
-    "biegt",
-    "Dann biegt sie rechts ab. Then she turns right.",
-    69,
-    83,
-    3.3,
-    3
-   ],
-   [
-    "geradeaus",
-    "Anna geht geradeaus. Anna walks straight ahead.",
-    56,
-    69,
-    3.57,
-    3
+    "sagt",
+    "Die Frau sagt: \"Vielen Dank.\" Die Frau sagt:",
+    385,
+    401,
+    5.59,
+    5
    ],
    [
     "anna",
@@ -15346,30 +15365,6 @@
     12
    ],
    [
-    "the",
-    "Anna is taking the bus today.",
-    7,
-    16,
-    5.62,
-    10
-   ],
-   [
-    "frau",
-    "Eine schwangere Frau steigt ein. A pregnant woman gets on.",
-    331,
-    346,
-    5.66,
-    8
-   ],
-   [
-    "uhr",
-    "Es ist 8:15 Uhr. It is quarter past eight.",
-    16,
-    29,
-    5.67,
-    7
-   ],
-   [
     "steigt",
     "Anna steigt in den Bus ein.",
     194,
@@ -15378,18 +15373,90 @@
     7
    ],
    [
-    "wartet",
-    "Anna wartet an der Ampel. Anna waits at the traffic light.",
-    107,
-    122,
-    4.55,
-    5
+    "ampel",
+    "Die Ampel ist rot. The traffic light is red.",
+    95,
+    108,
+    3.97,
+    8
+   ],
+   [
+    "haltestelle",
+    "Die Haltestelle ist nicht weit. The bus stop is not far.",
+    42,
+    56,
+    3.99,
+    7
+   ],
+   [
+    "kreuzung",
+    "Sie kommt an eine Kreuzung. She comes to an intersection.",
+    82,
+    96,
+    4.0,
+    3
+   ],
+   [
+    "schwangere",
+    "Eine schwangere Frau steigt ein. A pregnant woman gets on.",
+    331,
+    346,
+    3.77,
+    3
+   ],
+   [
+    "rettungswagen",
+    "Ein Rettungswagen kommt. An ambulance is coming.",
+    278,
+    292,
+    3.31,
+    6
+   ],
+   [
+    "geradeaus",
+    "Anna geht geradeaus. Anna walks straight ahead.",
+    56,
+    69,
+    3.57,
+    3
+   ],
+   [
+    "biegt",
+    "Dann biegt sie rechts ab. Then she turns right.",
+    69,
+    83,
+    3.3,
+    3
+   ],
+   [
+    "sirene",
+    "Plötzlich hört Anna eine Sirene. Suddenly, Anna hears a siren.",
+    262,
+    278,
+    3.22,
+    3
+   ],
+   [
+    "walks",
+    "Anna walks to the bus stop.",
+    33,
+    42,
+    2.48,
+    2
+   ],
+   [
+    "drives",
+    "The bus drives slowly. Der Bus fährt langsam.",
+    254,
+    262,
+    2.39,
+    2
    ]
   ],
-  "tx": "Im Bus. Anna fährt heute mit dem Bus. Anna is taking the bus today. Anna fährt heute mit dem Bus. Es ist 8:15 Uhr. It is quarter past eight. Es ist 8:15 Uhr. Anna geht zur Bushaltestelle. Anna walks to the bus stop. Anna geht zur Bushaltestelle. Die Haltestelle ist nicht weit. The bus stop is not far. Die Haltestelle ist nicht weit. Anna geht geradeaus. Anna walks straight ahead. Anna geht geradeaus. Dann biegt sie rechts ab. Then she turns right. Dann biegt sie rechts ab. Sie kommt an eine Kreuzung. She comes to an intersection. Sie kommt an eine Kreuzung. Die Ampel ist rot. The traffic light is red. Die Ampel ist rot. Anna wartet an der Ampel. Anna waits at the traffic light. Anna wartet an der Ampel. Dann wird die Ampel grün. Anna überquert die Straße. Um 8:30 Uhr ist sie an der Haltestelle. Anna wartet auf den Bus. Der Bus kommt um 8:45 Uhr. Anna steigt in den Bus ein. Sie kauft eine Fahrkarte. Anna findet einen freien Platz. Sie setzt sich ans Fenster. She sits by the window. Sie setzt sich ans Fenster. Der Bus fährt langsam. The bus drives slowly. Der Bus fährt langsam. Plötzlich hört Anna eine Sirene. Suddenly, Anna hears a siren. Plötzlich hört Anna eine Sirene. Ein Rettungswagen kommt. An ambulance is coming. Ein Rettungswagen kommt. Der Bus hält an. The bus stops. Der Bus hält an. Der Rettungswagen fährt vorbei. The ambulance drives past. Der Rettungswagen fährt vorbei. Dann fährt der Bus weiter. Then the bus continues. Dann fährt der Bus weiter. Eine schwangere Frau steigt ein. A pregnant woman gets on. Eine schwangere Frau steigt ein. Alle Plätze sind besetzt. Anna steht auf. Sie gibt der Frau ihren Platz. Die Frau sagt: \"Vielen Dank.\" Die Frau sagt: \"Vielen Dank.\" Anna sagt: \"Gern geschehen.\" Anna kommt an ihrer Haltestelle an. Anna steigt aus dem Bus aus. ",
+  "tx": "Im Bus. Anna fährt heute mit dem Bus. Anna is taking the bus today. Anna fährt heute mit dem Bus. Es ist 8:15 Uhr. It is quarter past eight. Es ist 8:15 Uhr. Anna geht zur Bushaltestelle. Anna walks to the bus stop. Anna geht zur Bushaltestelle. Die Haltestelle ist nicht weit. The bus stop is not far. Die Haltestelle ist nicht weit. Anna geht geradeaus. Anna walks straight ahead. Anna geht geradeaus. Dann biegt sie rechts ab. Then she turns right. Dann biegt sie rechts ab. Sie kommt an eine Kreuzung. She comes to an intersection. Sie kommt an eine Kreuzung. Die Ampel ist rot. The traffic light is red. Die Ampel ist rot. Anna wartet an der Ampel. Anna waits at the traffic light. Anna wartet an der Ampel. Dann wird die Ampel grün. Anna überquert die Straße. Um 8:30 Uhr ist sie an der Haltestelle. Anna wartet auf den Bus. Der Bus kommt um 8:45 Uhr. Anna steigt in den Bus ein. Sie kauft eine Fahrkarte. Anna findet einen freien Platz. Sie setzt sich ans Fenster. She sits by the window. Sie setzt sich ans Fenster. Der Bus fährt langsam. The bus drives slowly. Der Bus fährt langsam. Plötzlich hört Anna eine Sirene. Suddenly, Anna hears a siren. Plötzlich hört Anna eine Sirene. Ein Rettungswagen kommt. An ambulance is coming. Ein Rettungswagen kommt. Der Bus hält an. The bus stops. Der Bus hält an. Der Rettungswagen fährt vorbei. The ambulance drives past. Der Rettungswagen fährt vorbei. Dann fährt der Bus weiter. Then the bus continues. Dann fährt der Bus weiter. Eine schwangere Frau steigt ein. A pregnant woman gets on. Eine schwangere Frau steigt ein. Alle Plätze sind besetzt. Anna steht auf. Sie gibt der Frau ihren Platz. Die Frau sagt: \"Vielen Dank.\" Die Frau sagt: \"Vielen Dank.\" Anna sagt: \"Gern geschehen.\" Anna kommt an ihrer Haltestelle an. Anna steigt aus dem Bus aus. Im Bus. Anna fährt heute mit dem Bus. ist 8:15 Uhr. Es ist Anna geht zur Bushaltestelle. Die Haltestelle ist nicht weit. Anna geht geradeaus. Dann biegt sie rechts ab. Sie kommt an eine Kreuzung. Die Ampel ist rot. Anna wartet an der Ampel. Dann wird die Ampel grün. Anna überquert die Straße. Um 8:30 Uhr ist sie an der Haltestelle. Anna wartet auf den Bus. Der Bus kommt um 8:45 Uhr. Anna steigt in den Bus ein. Sie kauft eine Fahrkarte. Anna findet einen freien Platz. Sie setzt sich ans Fenster. Der Bus fährt langsam. Plötzlich hört Anna eine Sirene. Ein Rettungswagen kommt. Der Bus hält an. Der Rettungswagen fährt vorbei. Dann fährt der Bus weiter. Eine schwangere Frau steigt ein. Alle Plätze sind besetzt. Anna steht auf. Sie gibt der Frau ihren Platz. Die Frau sagt: \"Vielen Dank.\" Anna sagt: \"Gern geschehen.\" Anna kommt an ihrer Haltestelle an. Anna steigt aus dem Bus aus.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6038
+  "src": "auto"
  },
  "eGKB-3WbLB4": {
   "channel": "Daily Deutsch",
@@ -15691,7 +15758,7 @@
  "hSmfckuMSbY": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:34:48+00:00",
+  "checked": "2026-11-11T15:34:59+00:00",
   "title": "Spiele für die ganze Familie 💙 | Vollständige Folgen | Bluey - Deutsch Offizieller Kanal",
   "duration": 3854,
   "published": "20260821",
@@ -15699,73 +15766,10 @@
   "spoken_v": 2,
   "pace": 135.9,
   "rare": 0.0764,
+  "var": 0.8156,
   "speech_s": 3401.2,
   "tokens": 7706,
   "kw": [
-   [
-    "bingo",
-    "Bingo. Louis.",
-    17,
-    26,
-    3.63,
-    50
-   ],
-   [
-    "muffin",
-    "Hey, Muffin ist da. M, du weißt noch,",
-    1173,
-    1177,
-    2.97,
-    25
-   ],
-   [
-    "dad",
-    "Dad hat den ganzen Tag auf dir gesessen.",
-    138,
-    144,
-    3.82,
-    45
-   ],
-   [
-    "boing",
-    "Boing boing boing boing boing. Ich will das jetzt auch mal machen.",
-    105,
-    116,
-    2.5,
-    15
-   ],
-   [
-    "mom",
-    "Mom ist echt sowas von pingelig, findest",
-    464,
-    467,
-    3.78,
-    20
-   ],
-   [
-    "hurra",
-    "Hurra, aber trotzdem nicht zu schnell.",
-    227,
-    233,
-    3.69,
-    14
-   ],
-   [
-    "blu",
-    "Diese Folge von Blu heißt der Pool.",
-    459,
-    467,
-    3.71,
-    14
-   ],
-   [
-    "meerjungfrau",
-    "kleine Meerjungfrau. Wow, guck dir mal die Muschel an.",
-    844,
-    853,
-    3.1,
-    8
-   ],
    [
     "nein",
     "Nein, jetzt noch nicht. Chloe.",
@@ -15799,42 +15803,138 @@
     32
    ],
    [
-    "bitte",
-    "Oh, bitte. Oh, mach nicht dein Bitte Gesicht.",
-    164,
-    172,
-    5.7,
-    22
+    "wow",
+    "Wow, guck dir mal die Muschel an.",
+    849,
+    853,
+    4.71,
+    16
    ],
    [
-    "bist",
-    "bist als deine Schwester. Ich bin es vier. Ja, und nicht sechs, so",
-    353,
-    360,
-    5.61,
-    22
+    "eis",
+    "Oh, kriegen wir etwa kein Eis?",
+    2348,
+    2353,
+    4.59,
+    16
    ],
    [
-    "gar",
-    "denk gar nicht erst dran. Hier",
-    87,
-    92,
-    5.64,
+    "onkel",
+    "Hey Mädels, Onkel Stripe ist auf Bali",
+    433,
+    437,
+    4.28,
+    16
+   ],
+   [
+    "tja",
+    "Doch, doch brauchen wir. Tja, dann",
+    537,
+    541,
+    4.55,
+    14
+   ],
+   [
+    "bingo",
+    "Bingo. Louis.",
+    17,
+    26,
+    3.63,
+    50
+   ],
+   [
+    "dad",
+    "Dad hat den ganzen Tag auf dir gesessen.",
+    138,
+    144,
+    3.82,
+    45
+   ],
+   [
+    "blue",
+    "Diese Folge von Blue heißt der Strand.",
+    796,
+    803,
+    4.17,
     21
    ],
    [
-    "kannst",
-    "Kannst du irgendwas mit uns spielen?",
-    30,
-    35,
-    5.54,
+    "mom",
+    "Mom ist echt sowas von pingelig, findest",
+    464,
+    467,
+    3.78,
     20
+   ],
+   [
+    "judo",
+    "Und kann ich es besser als Judo?",
+    2706,
+    2711,
+    3.4,
+    10
+   ],
+   [
+    "meerjungfrau",
+    "kleine Meerjungfrau. Wow, guck dir mal die Muschel an.",
+    844,
+    853,
+    3.1,
+    8
+   ],
+   [
+    "polizistin",
+    "Natürlich, Polizistin. Entschuldigung, Polizistin.",
+    1436,
+    1442,
+    3.53,
+    5
+   ],
+   [
+    "singe",
+    "und ich singe sehr, sehr gern. Oh, ich",
+    3591,
+    3597,
+    3.52,
+    5
+   ],
+   [
+    "muffin",
+    "Hey, Muffin ist da. M, du weißt noch,",
+    1173,
+    1177,
+    2.97,
+    25
+   ],
+   [
+    "boing",
+    "Boing boing boing boing boing. Ich will das jetzt auch mal machen.",
+    105,
+    116,
+    2.5,
+    15
+   ],
+   [
+    "krabbeln",
+    "Judo konnte auch vor mir krabbeln. Echt?",
+    2828,
+    2833,
+    2.97,
+    7
+   ],
+   [
+    "flamingo",
+    "Reite los, Flamingo, reite los. Boah, Muffin, du bist echt richtig müde.",
+    1416,
+    1428,
+    2.93,
+    4
    ]
   ],
-  "tx": "M. Dash. Bingo. Louis. Ja. Kannst du irgendwas mit uns spielen? Ich habe keine Zeit für Spiele, kleines. Ich arbeite heute von zu Hause aus. Augenblick, ich muss mal ganz schnell nach unten. Okay, ich bin zurück. Ist das deiner? Ja. Spiel noch mal Fahrstuhl. Ich hab es doch schon gesagt. Keine Zeit fürs Fahrstuhlspiel. Heute ist ein Arbeitstag. Tut. Ich habe noch einen gefunden. Noch mal. Tut mir leid, Kinder. Ich habe so viel Arbeit zu erledigen. Dut. Ich kann das Fahrstuhlspiel einfach nicht spielen. Du spielst es doch schon. Diese Folge von Bluis heißt Riesenball. Los, schnell, Bingo. Hey, denk gar nicht erst dran. Hier geblieben. Wartet und runter. Ihr kleinen Kröten. Warum sitzt du auf einem riesigen grünen Ball? Weil ich mir beim vielen Windeln wechseln den Rücken kaputt gemacht habe. Boing boing boing boing boing. Ich will das jetzt auch mal machen. Boing, boing, boing, boing, boing, boing, boing. Okay, los geht spielen. Ich muss arbeiten. Nein, jetzt noch nicht. Chloe. Oh, und dann fragt der verwirrte Murphy ganz direkt. Bananenmoothie einen. Du willst? Ach B, du musst wirklich schlafen. Du musst völlig erschöpft sein. Der große Dad hat den ganzen Tag auf dir gesessen. Ähm, Bli, welches Tattoo soll ich denn nehmen? Gefällt dir das Einhorn oder die Regenbogen? Na ja, Bingo. Mein Name ist Lauren. Na ja, Lauren. Ich finde, du solltest auf jeden Fall Da ist er. So raus. Spielen wir eine Runde Lieferstuhl? Nein. Oh, bitte. Oh, mach nicht dein Bitte Gesicht. Na gut. Ja, Bingo, wir spielen Lieferstuhl. Dieses Bittegesicht macht mich echt fertig. Ich muss heute diese beiden Pakete verschicken, aber zuerst muss ich sie noch stempeln. Stempel, Stempel. Gut, und jetzt muss ich sie liefern. Das erste geht nach Mal sehen. Oh, Mugadishu. Okay, hier ist dann das erste Paket. O",
+  "tx": "M. Dash. Bingo. Louis. Ja. Kannst du irgendwas mit uns spielen? Ich habe keine Zeit für Spiele, kleines. Ich arbeite heute von zu Hause aus. Augenblick, ich muss mal ganz schnell nach unten. Okay, ich bin zurück. Ist das deiner? Ja. Spiel noch mal Fahrstuhl. Ich hab es doch schon gesagt. Keine Zeit fürs Fahrstuhlspiel. Heute ist ein Arbeitstag. Tut. Ich habe noch einen gefunden. Noch mal. Tut mir leid, Kinder. Ich habe so viel Arbeit zu erledigen. Dut. Ich kann das Fahrstuhlspiel einfach nicht spielen. Du spielst es doch schon. Diese Folge von Bluis heißt Riesenball. Los, schnell, Bingo. Hey, … ich ja. Dad, was ist? B B B U kj k für ein Wort. Obuba kakakayo zu heiß. Zieh doch einfach deine Latschen an. Ich habe sie nicht dabei. Okay. Wie machen wir das jetzt? Au, au, au. Hey Bingo, was ist denn da oben los? Ich bin eine Giraffe und ich esse die ganzen Blätter. Kann mal bitte jemand dieses Tor aufmachen? Kann ich mein Schwimmshirt haben? Hast du es dabei? Nein. Dann nicht. Dad, hast du den Sonnenschutz eingepackt? Ah, nein, habe ich nicht. Ist schon okay. Wir brauchen gar keinen Sonnenschutz. Doch, doch brauchen wir. Tja, dann müssen wir im schattigen Teil bleiben und unsere Hüter … lieber weiter. Ich komme schon. Oh, eine Qualle. Haha, du kannst mir nichts tun, du Qualle. Ich bin eine Meerjüfrau und ich habe Beine. Da ist ja ein altes Schloss. Wer hier wohl gewohnt hat? Vielleicht gehört das Schloss den anderen Meerjungfrauen. Hallo. Ähm, wäre es okay, wenn du weggehst? Ich will die Muschel so gerne meiner Mom zeigen. Ah, vielleicht gehe ich auch lieber wieder zurück. Ich glaube, ich war lange genug ganz allein unterwegs. Oh, Dad ist nur noch ein blauer Fleck. Ich kann nicht mehr zurückgehen und ich kann nicht vorwärts gehen. Was mache ich denn jetzt nur? Ms … ein bisschen auf sie achten. Marin hätte schon längst im Bett sein sollen. Seht sie euch an. Böse Polizistin. China, komm zurück! Das bedeutet aber nicht, dass das Spiel noch weitergeht. Ich komme zu dir, Flamingo. Ist alles okay, Muffin? Ich bin die Flamingo Königin Blu. Das bedeutet, das Spiel geht doch noch weiter. Komm schon, wir bleiben noch viel länger wach. Nein, Bingo, mach alles so wie ich. Ah, Sheila, sieh doch, da kommt die Polizistin schon. Los, mir nach. Du kriegst uns nicht Polizistin. Louis, ich bin euch ganz dicht auf den Fersen. Oh, versteck dich hier drunter, Schila. Okay, … blau. Ich bin ein Mädchen. Oh, ja, wusste ich doch. Bringst du uns heute Abend ins Bett, Onkel Red? Aber hallo, Hurra. Nicht Hurra. Blo lässt sich ungern von Babysittern ins Bett bringen. Onkel Red, keine Sorge, Bloy. Wer könnte dich denn besser ins Bett bringen als dein Onkel Red? Hallo, Frisky. Hey Mädels das ist Uncle Red. Hi. Frisky, kennst du Bendit Bruder Redley schon? M ja. Bist du bei der Hochzeit nicht in den Pool gefallen? Könnte sein. Frisky ist Bluis liebe Patentante. Entschuldige Frisky. Onkel Red hat in letzter Minute zugestimmt, dass er heute aufpasst. Hast du meine … total gruseliges angeguckt. Deswegen wirst du nicht gern vom Babysitter ins Bett gebracht, nicht wahr? Ja, damals ist es einfach nicht so gut gelaufen. Diesmal wird es anders sein. Das versprechen wir. Aber wie kann ich mir sicher sein, dass es nicht wieder passiert? Kannst du nicht, aber du musst es einfach ausprobieren, sonst wirst du den Rest deines Lebens bei dem stinkenden Drachen festsitzen. Okay, dann probiere ich es aus. Das ist mein Mädchen. Wirklich? Das war mir gar nicht ber. Deswegen mache ich das ja so. Ein anderes Shampoo mag ich einfach nicht. Das Shampoo ist toll, aber der … nichts. Doch, eine lehrreiche Lektion des Lebens. Ich will aber keine lehrreiche Lektion des Lebens. Ich will doch einfach nur ein Eis haben. Au, au, au. Na schön, ich sag euch was. Ihr könnt mein Eis haben. Wirklich? Ja. Na los. Ja, danke. Hä? Wir machen es abwechselnd. Du darfst anfangen und nimm so viel wie du willst. Danke, Blu. Ist es lecker? Ja, du bist dran. Ich habe nur ein bisschen genommen. Danke, Bingo. Gut gelöst, Mädels. M, das schmeckt noch viel besser als Mango. Klar, es ist Schokolade. Tut mir leid, dass du jetzt kein Eis essen kannst. Dad ist schon in Ordnung. Alles gut, … Aber eines Tages kam Kokosm mich besuchen. Hi, Chili Bella. Oh, hallo. Es tut mir leid, hier ist totales Chaos. Wir haben eine Weile gequatscht und dann zeigte sie mir ein Foto. Sind das alles deine Kinder? Ja. Ich dachte, Kuko wäre dein erstes. Nein, ich habe acht Kinder. Warte. Nein. Neun. Das wusste ich ja gar nicht. Wow. Du musst dich ja ziemlich gut auskennen. Ja, schon. Und du musst eine Sache unbedingt wissen. Was? Du machst das ganz toll. Sind das Freudentränen, Mom? Ja, Freuden drehen, Schätzchen. Ab diesem Tag habe ich mein eigenes Wettrennen gemacht. Wow. Wow. Wow. Ja, … deswegen habe ich ihn doch nicht gewählt. Austrip diese Croster. Oh, wirklich? Sie sind voller Liebe. Ah, Battleby, wo ist denn mein Schlüssel? Schnell, die Fähre liegt schon ab. Ah, komm schon. Bis dann, Kinder. Fröhliche Weihnachten alle zusammen. Frühichen. Wir trinken auf Battlebe. Ja, Battlebe. Willkommen in der Familie, Kumpel. Dad. Entschuldige, Kumpel. Ah, wo ist mein Toast? BL, kannst du mal kurz so ruhig sein wie Bingo? Nein, geht nicht. Bloy, ich finde deine Bücher aus der Bibliothek nicht. Sie müssen zurück. Hast du Häschen mit dem grünen Näschen gesehen? Nein, Häschen mit dem … mega nervig. Wirklich? Ja, ich bin nur anders nervig als du. Ich zeig's dir. Wo ist das Klebeband? Hier. Ich habe es. Oh, danke. Kannst du auch die falschen Zähne für mich holen? Oh, okay. Hier sind sie schon. Au. Ah, Mann, ist das entspannt. Bingo, was? Hör bitte auf, du machst mir echt Angst. Hör auf, geh weg. Was ist denn bei euch? Flo, Bingo. Bingo, hört auf damit. Komm rein. Es reicht. Wir wollen eine Bluey und eine Bingo. Nichts anderes. Ist das klar? Jetzt treiben wir es auf die Spitze. Okay. Sind wir jetzt sicher? Ich denke schon. Es ist da 20 Minuten still. Hi, hätte klappen können.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8345
+  "src": "auto"
  },
  "x3dI5kSb_Ug": {
   "channel": "Learn German with Anja",
@@ -16020,7 +16120,7 @@
  "67JctFS_CoU": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-07T05:50:26+00:00",
+  "checked": "2026-11-11T15:14:54+00:00",
   "title": "Betonung im Deutschen lernen: Übungen & Regeln zum Satzakzent | Deutsche Aussprache verbessern",
   "duration": 1399,
   "published": "20230226",
@@ -16028,73 +16128,10 @@
   "spoken_v": 2,
   "pace": 156.5,
   "rare": 0.0692,
+  "var": 0.7583,
   "speech_s": 1379.4,
   "tokens": 3597,
   "kw": [
-   [
-    "verb",
-    "Verb welches von den beiden Wörtern",
-    229,
-    235,
-    3.72,
-    31
-   ],
-   [
-    "rhythmischen",
-    "so hier sind jetzt die rhythmischen",
-    123,
-    129,
-    3.04,
-    15
-   ],
-   [
-    "schüttet",
-    "normalerweise ist es ja so man schüttet",
-    64,
-    71,
-    3.18,
-    16
-   ],
-   [
-    "sieb",
-    "in ein Sieb große und kleine Dinge",
-    67,
-    71,
-    3.28,
-    14
-   ],
-   [
-    "wohligen",
-    "befinden sich im wohligen Zustand zwischen wach sein und Schlaf und",
-    776,
-    783,
-    2.17,
-    7
-   ],
-   [
-    "weggetreten",
-    "aber auch noch nicht ganz weggetreten ne",
-    1185,
-    1190,
-    2.17,
-    5
-   ],
-   [
-    "verbs",
-    "ein Präfix des Verbs haben ja",
-    280,
-    286,
-    2.8,
-    6
-   ],
-   [
-    "einzuschlafen",
-    "schade dabei einzuschlafen befinden Zustand zwischen wach sein und",
-    756,
-    764,
-    2.9,
-    6
-   ],
    [
     "wort",
     "ist ja nur das eine Wort normalerweise",
@@ -16112,20 +16149,28 @@
     19
    ],
    [
-    "hängen",
-    "bleiben hängen so wir hören uns das",
-    75,
-    80,
-    4.6,
-    16
-   ],
-   [
     "gerade",
     "haben ergeben dass Fehler gerade in der",
     23,
     29,
     5.77,
     15
+   ],
+   [
+    "grosse",
+    "",
+    0,
+    0,
+    5.55,
+    14
+   ],
+   [
+    "hängen",
+    "bleiben hängen so wir hören uns das",
+    75,
+    80,
+    4.6,
+    16
    ],
    [
     "betont",
@@ -16136,34 +16181,122 @@
     15
    ],
    [
-    "kleine",
+    "normalerweise",
+    "normalerweise ist es ja so man schüttet",
+    64,
+    71,
+    4.51,
+    13
+   ],
+   [
+    "wach",
+    "befinden Zustand zwischen wach sein und",
+    759,
+    764,
+    4.46,
+    13
+   ],
+   [
+    "verb",
+    "Verb welches von den beiden Wörtern",
+    229,
+    235,
+    3.72,
+    31
+   ],
+   [
+    "primär",
+    "primär Akzent ganz einfach auf derselben",
+    175,
+    181,
+    4.06,
+    15
+   ],
+   [
+    "akzent",
+    "primär Akzent ganz einfach auf derselben",
+    175,
+    181,
+    3.89,
+    14
+   ],
+   [
+    "betonen",
+    "trennbaren werden betonen wir das Präfix",
+    288,
+    293,
+    3.98,
+    13
+   ],
+   [
+    "schüttet",
+    "normalerweise ist es ja so man schüttet",
+    64,
+    71,
+    3.18,
+    16
+   ],
+   [
+    "rhythmischen",
+    "so hier sind jetzt die rhythmischen",
+    123,
+    129,
+    3.04,
+    15
+   ],
+   [
+    "sieb",
     "in ein Sieb große und kleine Dinge",
     67,
     71,
-    5.42,
+    3.28,
     14
    ],
    [
-    "grossen",
-    "",
-    0,
-    0,
-    5.55,
-    14
+    "silbe",
+    "rauszuhören welche Silbe in jeder rhythmischen Gruppe den primärakzent",
+    130,
+    138,
+    3.3,
+    7
    ],
    [
-    "grosse",
-    "",
-    0,
-    0,
-    5.55,
-    14
+    "wohligen",
+    "befinden sich im wohligen Zustand zwischen wach sein und Schlaf und",
+    776,
+    783,
+    2.17,
+    7
+   ],
+   [
+    "präfix",
+    "ein Präfix des Verbs haben ja",
+    280,
+    286,
+    2.96,
+    6
+   ],
+   [
+    "einzuschlafen",
+    "schade dabei einzuschlafen befinden Zustand zwischen wach sein und",
+    756,
+    764,
+    2.9,
+    6
+   ],
+   [
+    "verbs",
+    "ein Präfix des Verbs haben ja",
+    280,
+    286,
+    2.8,
+    6
    ]
   ],
-  "tx": "ihr möchtet doch authentisch verständlich und selbstbewusst Deutsch sprechen oder deswegen seid ihr doch hier dann solltet ihr euch als allererstes mit dem satzrhythmus im weitesten Sinne beschäftigen also Wortakzent und satzakzent habt ihr zum Beispiel gewusst dass Fehler im satzrhythmus und in der sprechmelodie den Unterschied ausmachen können wenn ihr euch mit Muttersprachlern unterhaltet wissenschaftliche Studien haben ergeben dass Fehler gerade in der prosie also im Bereich des Rhythmus und der Melodie der Sprache die größten Missverständnisse in Gesprächen hervorrufen um das zu ändern lernen wir heute gemeinsam die Grundlagen des deutschen satzrhythmus des Satz Akzentes damit ihr möglichst authentisch verständlich und noch ein Stück selbstbewusster Deutsch sprechen kann das ganze machen wir anhand von zwei kurzen Äußerungen aus einer deutschen Fernsehsendung damit das auch wirklich authentisch ist also bleibt auf jeden Fall dran es lohnt sich versprochen normalerweise ist es ja so man schüttet in ein Sieb große und kleine Dinge klar die kleinen fallen durch die großen bleiben hängen so wir hören uns das ganze noch mal an ihr könnt ja mal versuchen das Transkript zu vervollständigen normalerweise ist es ja so man schüttet in ein Sieb große und kleine Dinge klar die kleinen fallen durch die großen bleiben hängen okay so müsste das ganze jetzt aussehen und jetzt hören wir uns das ganze noch mal an und ihr versucht jetzt mal rauszuhören wie die Sprecherin hier die Sätze in rhythmische Gruppen unterteilt hat normalerweise ist es ja so man schüttet in ein Sieb große und kleine Dinge die kleinen fallen durch die großen bleiben hängen so hier sind jetzt die rhythmischen Gruppen und jetzt hören wir uns das noch einmal an und ihr versucht jetzt rauszuhören welche Silbe in j",
+  "tx": "ihr möchtet doch authentisch verständlich und selbstbewusst Deutsch sprechen oder deswegen seid ihr doch hier dann solltet ihr euch als allererstes mit dem satzrhythmus im weitesten Sinne beschäftigen also Wortakzent und satzakzent habt ihr zum Beispiel gewusst dass Fehler im satzrhythmus und in der sprechmelodie den Unterschied ausmachen können wenn ihr euch mit Muttersprachlern unterhaltet wissenschaftliche Studien haben ergeben dass Fehler gerade in der prosie also im Bereich des Rhythmus und der Melodie der Sprache die größten Missverständnisse in Gesprächen hervorrufen um das zu ändern … die allererste rhythmische Gruppe ist ja nur das eine Wort normalerweise das heißt dort liegt natürlich dann der primär Akzent ganz einfach auf derselben Silbe auf der auch der Wortakzent dieses Wortes liegt normalerweise hier betont man die zweite Silbe des Wortes bei den anderen rhythmischen Gruppen können wir sehr gut sehen dass der primärakzent immer auf einem Wort liegt dass einen richtigen Inhalt hat ist es ja so so das Wort ist ein also dieses so ist ein Wort das hier etwas demonstriert das hat so eine demonstrative Funktion wie folgt könnte man ja auch sagen dieses also dieser primär … wir zum Beispiel nicht das Wort kleinen oder fallen oder großen oder schreiben oder auch hier große und kleine warum betonen wir diese Wörter nicht das sind doch auch inhaltswörter und da können wir eigentlich auch ganz gut erkennen dass wir bei solchen längeren rhythmischen Gruppen wo wir mehrere inhaltswörter haben den primärakzent auf das letzte Wort legen wenn wir also mehrere inhaltswörter haben die eigentlich die gleiche Gewichtung haben gleich wichtig sind für den Satz dann haben wir im deutschen die Tendenz das letzte davon am stärksten zu betonen wenn ich jetzt sage das letzte … der letzte Teil trägt dann den primärakzent und das sehen wir jetzt auch wenn wir mal von der Ebene der rhythmischen Gruppen auf die Satzebene gehen also wir haben jetzt die Akzente in den einzelnen rhythmischen Gruppen bestimmt und jetzt interessiert uns ja aber welche Silbe muss ich jetzt im ganzen Satz am stärksten betonen erster Satz normalerweise ist es ja so hier wird also von beiden rhythmischen Gruppen dann der primär Akzent der zweiten bzw der letzten rhythmischen Gruppe auch zum primär Akzent des ganzen Satzes deswegen würde man den Satz nicht so aussprechen normalerweise ist … auch aus dieser Fernsehsendung habe ich noch zwei kurze bitten an euch erstens wenn ihr mich unterstützen wollt völlig kostenlos und ganz ganz schnell dann würde ich mich mega freuen wenn ihr diesen Video einfach einen Daumen nach oben geben könntet ich weiß das nervt wenn die Leute auf Youtube das immer sagen aber das machen wir nicht ohne Grund das liegt ganz einfach daran wenn ihr das macht dann sagt ihr dem Algorithmus von Youtube bitte schlage dieses Video auch anderen Menschen vor die Deutsch lernen die sich dafür interessieren könnten das ist also eine kleine Unterstützung … befinden Zustand zwischen wach sein und Schlaf und plötzlich Durchzug des ihren Körper hier sehen wir jetzt die rhythmischen Gruppen und wir hören uns das ganze noch mal an und ihr versucht bitte diesen diese primär Akzente in jeder Gruppe zu finden kennen sie das sie sind gerade dabei einzuschlafen befinden sich im wohligen Zustand zwischen wach sein und Schlaf und plötzlich durchzuckt es ihrem Körper kennen sie das sie sind gerade dabei einzuschlafen befinden sich im wohligen Zustand zwischen wach sein und Schlaf und plötzlich durchzucktes ihrem Körper also warum liegen die primär … sind ja beides Wörter die auf einer Ebene sozusagen liegen die die gleiche Gewichtung haben aber der primär Akzent liegt dann auf dem letzten und plötzlich hier gibt's nur ein inhaltswort logischerweise wird nicht und betont ja man sagt natürlich nicht und plötzlich das wäre Quatsch ja also das gibt es nicht und plötzlich und plötzlich Durchzug des ihren Körper wir haben wieder ein Verb aber es dieses Verb bekommt ein Akkusativobjekt ihren Körper also jetzt merke ich gerade dass hier natürlich ein Rechtschreibfehler war Entschuldigung dafür genau und das Akkusativobjekt ist ein Nomen … mich im wohligen Zustand oder ich bin so in dieser Trance ja in beiden Fällen habe ich hier dieses Nomen und das wird dann entsprechend betont aber wie ist das zum Beispiel hier warum ist jetzt hier oben kennen sie das das Verb betont aber hier jetzt plötzlich das bekannt dieses Adjektiv naja weil wir haben hier nicht mehr nur das Verb bekannt vorkommen das ist eigentlich das gesamte Verb das vollständige Verb also alle Teile des Prädikats bekannt vorkommen und deswegen wird also dieser zweite Teil betont wenn das Verb nicht alleine steht sondern einen zweiten Teil hat dann wird das … das Präfix da ist ein trennbares Verb ist weggetreten also wird hier nicht als Verb benutzt wird hier als Adjektiv benutzt aber man sieht ja ne das ist von dem Verb kommt genau und plötzlich hatten wir hier und hier ist dann natürlich und auf einmal und auf einmal ja fühlst du so ein Zucken Durchzug des ihren Körper fühlst du so ein Zucken also auch hier ist wieder nicht nur das Verb alleine ich fühle nicht einfach sondern ich fühle ein Zucken also das ist wichtiger ja das Akkusativobjekt hier der zweite Teil wieder das Verbs der zweite Teil des Prädikats das ist wichtiger als das … dann nicht das Gefühl oh der spricht aber langsam oder sie spricht aber echt langsam nee das würde sich einfach ganz normal anhören denn der Rhythmus ist viel wichtiger als die Geschwindigkeit an sich das was wir als schnelle Sprache wahrnehmen ist gar nicht mal unbedingt immer die Geschwindigkeit an sich also wirklich die Zeit die man braucht um alles auszusprechen ich freue mich sehr dass ich euch auch heute wieder ein kleines Stück näher an euer Ziel bringen konnte danke euch fürs zuschauen bis hierher ihr lernt Deutsch mit Benjamin auf Youtube und ich freue mich auf Euch im nächsten Video",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8264
+  "src": "auto"
  },
  "PygQcriW6cg": {
   "channel": "Deutsch mit Rieke",
@@ -16349,7 +16482,7 @@
  "iB8M3rzvFVs": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-07T05:56:53+00:00",
+  "checked": "2026-11-11T15:17:19+00:00",
   "title": "inzwischen, mittlerweile oder zwischendurch? (C1)",
   "duration": 575,
   "published": "20260705",
@@ -16357,73 +16490,10 @@
   "spoken_v": 2,
   "pace": 138.8,
   "rare": 0.0402,
+  "var": 0.7902,
   "speech_s": 569.6,
   "tokens": 1318,
   "kw": [
-   [
-    "spülmaschine",
-    "„Ich bringe schnell die Kinder ins Bett. Kannst du inzwischen die Spülmaschine ausräumen?”",
-    97,
-    103,
-    3.28,
-    9
-   ],
-   [
-    "haupttätigkeit",
-    "Haupttätigkeit in diesem Satz. Ich sage, dass du in diesem Zeitraum",
-    458,
-    464,
-    2.26,
-    3
-   ],
-   [
-    "zwischenzeit",
-    "die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch,",
-    5,
-    11,
-    3.94,
-    10
-   ],
-   [
-    "zwischendurch",
-    "die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch,",
-    5,
-    11,
-    4.05,
-    11
-   ],
-   [
-    "ausgeräumt",
-    "- “Ich habe die Kinder ins Bett gebracht. Mein Mann hat inzwischen die Spülmaschine ausgeräumt.”",
-    137,
-    143,
-    3.17,
-    4
-   ],
-   [
-    "zeitpunkten",
-    "diesen Zeitpunkten ist etwas passiert. Etwas ist heute anders als früher. Früher konnte",
-    208,
-    216,
-    2.87,
-    3
-   ],
-   [
-    "wartezeit",
-    "Minuten. Diese zehn Minuten sind für meine Freundin sowas wie Wartezeit. Sie wartet,",
-    49,
-    57,
-    3.74,
-    6
-   ],
-   [
-    "telefoniere",
-    "Essen bestellt, während ich mit meiner Mutter telefoniere. Ich kann deshalb zu ihr sagen:",
-    33,
-    39,
-    2.91,
-    3
-   ],
    [
     "inzwischen",
     "die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch,",
@@ -16449,50 +16519,146 @@
     8
    ],
    [
-    "video",
-    "Im Extra-Video für Mitglieder geht es diese Woche um das Wort “zwischenzeitlich”. In dem",
-    393,
-    401,
-    5.13,
-    7
-   ],
-   [
-    "satz",
-    "Der Satz klingt etwas seltsam. Der Grund dafür ist glaube ich,",
-    142,
-    147,
-    4.93,
-    7
-   ],
-   [
-    "mittlerweile",
-    "mittlerweile. Die haben alle irgendwie was mit der Zeit zu tun, aber was bedeuten sie",
-    10,
-    16,
-    4.99,
-    7
-   ],
-   [
-    "hast",
-    "Also: Wenn ich die Kinder ins Bett bringe, hast du ja freie Zeit zur",
-    102,
-    108,
+    "andere",
+    "entsteht eine “Wartezeit” für eine andere Person. Und diese Person macht dann in diesem",
+    71,
+    78,
     5.75,
     7
    ],
    [
-    "früher",
-    "In diesem Beispiel vergleiche ich zwei Zeitpunkte: früher und heute. Zwischen",
-    202,
-    209,
-    5.22,
-    7
+    "zeitraum",
+    "Ein Ereignis dauert eine bestimmte Zeit. Und in dieser Zeit, in diesem Zeitraum,",
+    66,
+    72,
+    4.51,
+    6
+   ],
+   [
+    "vergangenheit",
+    "benutzen? Meistens ja, aber nicht immer. Wenn wir über die Vergangenheit sprechen,",
+    119,
+    126,
+    4.79,
+    4
+   ],
+   [
+    "benutzen",
+    "benutzen? Meistens ja, aber nicht immer. Wenn wir über die Vergangenheit sprechen,",
+    119,
+    126,
+    4.67,
+    4
+   ],
+   [
+    "gelernt",
+    "hat er Deutsch gelernt. Genau das drückt “inzwischen” hier aus. Noch ein Beispiel:",
+    221,
+    228,
+    4.74,
+    3
+   ],
+   [
+    "zwischendurch",
+    "die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch,",
+    5,
+    11,
+    4.05,
+    11
+   ],
+   [
+    "zwischenzeit",
+    "die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch,",
+    5,
+    11,
+    3.94,
+    10
+   ],
+   [
+    "wartezeit",
+    "Minuten. Diese zehn Minuten sind für meine Freundin sowas wie Wartezeit. Sie wartet,",
+    49,
+    57,
+    3.74,
+    6
+   ],
+   [
+    "bringe",
+    "„Ich bringe schnell die Kinder ins Bett. Kannst du inzwischen die Spülmaschine ausräumen?”",
+    97,
+    103,
+    4.09,
+    4
+   ],
+   [
+    "spülmaschine",
+    "„Ich bringe schnell die Kinder ins Bett. Kannst du inzwischen die Spülmaschine ausräumen?”",
+    97,
+    103,
+    3.28,
+    9
+   ],
+   [
+    "ausgeräumt",
+    "- “Ich habe die Kinder ins Bett gebracht. Mein Mann hat inzwischen die Spülmaschine ausgeräumt.”",
+    137,
+    143,
+    3.17,
+    4
+   ],
+   [
+    "snack",
+    "- “Ein Apfel ist der perfekte Snack für zwischendurch.”",
+    535,
+    539,
+    3.39,
+    2
+   ],
+   [
+    "weiterarbeiten",
+    "weil ich in der Zwischenzeit nicht weiterarbeiten konnte.”",
+    165,
+    170,
+    3.19,
+    2
+   ],
+   [
+    "telefoniere",
+    "Essen bestellt, während ich mit meiner Mutter telefoniere. Ich kann deshalb zu ihr sagen:",
+    33,
+    39,
+    2.91,
+    3
+   ],
+   [
+    "zeitpunkten",
+    "diesen Zeitpunkten ist etwas passiert. Etwas ist heute anders als früher. Früher konnte",
+    208,
+    216,
+    2.87,
+    3
+   ],
+   [
+    "haupttätigkeit",
+    "Haupttätigkeit in diesem Satz. Ich sage, dass du in diesem Zeitraum",
+    458,
+    464,
+    2.26,
+    3
+   ],
+   [
+    "auszuräumen",
+    "Verfügung. Kannst du diese Zeit bitte nutzen, um die Spülmaschine auszuräumen?",
+    107,
+    114,
+    2.91,
+    2
    ]
   ],
-  "tx": "Hallo und willkommen! Heute geht es um eine Gruppe von kleinen Wörtern, die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch, mittlerweile. Die haben alle irgendwie was mit der Zeit zu tun, aber was bedeuten sie eigentlich genau? Das schauen wir uns jetzt an! Stellt euch vor, ich habe Besuch von einer Freundin. Wir wollen etwas zu Essen bestellen und uns einen gemütlichen Abend machen. Vorher muss ich aber mit meiner Mutter telefonieren. Jetzt wäre es ja praktisch, wenn meine Freundin das Essen bestellt, während ich mit meiner Mutter telefoniere. Ich kann deshalb zu ihr sagen: - “Ich telefoniere kurz mit meiner Mutter. Du kannst in der Zwischenzeit ja schon mal das Essen bestellen.” Wir haben hier ein Ereignis, nämlich mein Telefonat. Das dauert vielleicht zehn Minuten. Diese zehn Minuten sind für meine Freundin sowas wie Wartezeit. Sie wartet, bis ich fertig telefoniert habe. Aber sie kann diese Wartezeit füllen, indem sie das Essen bestellt. Um das zu beschreiben, sage ich “in der Zwischenzeit”: Ein Ereignis dauert eine bestimmte Zeit. Und in dieser Zeit, in diesem Zeitraum, entsteht eine “Wartezeit” für eine andere Person. Und diese Person macht dann in diesem Zeitraum – in der Zwischenzeit – etwas anderes. Ein weiterer Ausdruck, der dasselbe beschreibt wie “in der Zwischenzeit” ist “inzwischen”. Wir können sagen: - “Ich telefoniere kurz mit meiner Mutter. Du kannst inzwischen ja schon mal das Essen bestellen.” - Oder, andere Situation: „Ich bringe schnell die Kinder ins Bett. Kannst du inzwischen die Spülmaschine ausräumen?” Also: Wenn ich die Kinder ins Bett bringe, hast du ja freie Zeit zur Verfügung. Kannst du diese Zeit bitte nutzen, um die Spülmaschine auszuräumen? Kann man “inzwischen” und “in der Zwischenzeit” also in dieser Bed",
+  "tx": "Hallo und willkommen! Heute geht es um eine Gruppe von kleinen Wörtern, die euch im Alltag ständig begegnen: inzwischen, in der Zwischenzeit, zwischendurch, mittlerweile. Die haben alle irgendwie was mit der Zeit zu tun, aber was bedeuten sie eigentlich genau? Das schauen wir uns jetzt an! Stellt euch vor, ich habe Besuch von einer Freundin. Wir wollen etwas zu Essen bestellen und uns einen gemütlichen Abend machen. Vorher muss ich aber mit meiner Mutter telefonieren. Jetzt wäre es ja praktisch, wenn meine Freundin das Essen bestellt, während ich mit meiner Mutter telefoniere. Ich kann … telefoniert habe. Aber sie kann diese Wartezeit füllen, indem sie das Essen bestellt. Um das zu beschreiben, sage ich “in der Zwischenzeit”: Ein Ereignis dauert eine bestimmte Zeit. Und in dieser Zeit, in diesem Zeitraum, entsteht eine “Wartezeit” für eine andere Person. Und diese Person macht dann in diesem Zeitraum – in der Zwischenzeit – etwas anderes. Ein weiterer Ausdruck, der dasselbe beschreibt wie “in der Zwischenzeit” ist “inzwischen”. Wir können sagen: - “Ich telefoniere kurz mit meiner Mutter. Du kannst inzwischen ja schon mal das Essen bestellen.” - Oder, andere Situation: … Bedeutung immer gleichwertig benutzen? Meistens ja, aber nicht immer. Wenn wir über die Vergangenheit sprechen, benutzen wir lieber “in der Zwischenzeit”. In dieser Bedeutung mit der Wartezeit klingt “inzwischen” oft sehr merkwürdig, wenn wir über die Vergangenheit sprechen. Also zum Beispiel: - “Ich habe die Kinder ins Bett gebracht. Mein Mann hat inzwischen die Spülmaschine ausgeräumt.” Der Satz klingt etwas seltsam. Der Grund dafür ist glaube ich, dass “inzwischen” auch noch eine andere Bedeutung hat und hier dann nicht ganz klar ist, welche Bedeutung gemeint ist. Diese andere Bedeutung … konnte.” Mein Computer hat zwei Stunden lang ein Update installiert. In diesen zwei Stunden entstand für mich diese “Wartezeit”, in der ich nicht weiterarbeiten konnte. In diesem Satz passt “inzwischen” gar nicht. Ich habe gerade gesagt, dass “inzwischen” noch eine andere Bedeutung haben kann. Die sehen wir hier: - „Vor zehn Jahren hat er noch kein Wort Deutsch gesprochen. Inzwischen hält er sogar Vorträge auf Deutsch.” Hier geht es nicht darum, dass eine Wartezeit gefüllt wird. In diesem Beispiel vergleiche ich zwei Zeitpunkte: früher und heute. Zwischen diesen Zeitpunkten ist etwas … Tag.” Früher fand ich Kaffee eklig, heute trinke ich gerne Kaffee. Zwischen diesen beiden Zeitpunkten hat sich also mein Geschmack verändert. Es gibt noch ein anderes Wort, das ihr in dieser Bedeutung genauso wie “inzwischen” benutzen könnt, nämlich “mittlerweile”. Ihr könnt die letzten zwei Beispielsätze nehmen und dort einfach “mittlerweile” einsetzen. Die Bedeutung bleibt gleich. Hier ist noch ein Satz: - „Das Unternehmen wurde 2010 gegründet. Mittlerweile/Inzwischen beschäftigt es über fünfhundert Mitarbeiter.” Am Anfang, 2010 hatte das Unternehmen wenige Mitarbeiter. Bis heute hat … Heute wohnt sie in Mannheim. Zwischen früher und heute ist sie irgendwann umgezogen. Oder stellt euch vor, mein Freund hat nächste Woche Geburtstag. Also schreibe ich meinem Chef eine E-Mail und frage ihn, ob ich nächste Woche einen Tag freinehmen kann. Nach ein paar Stunden fragt mich mein Freund: - “Hast du inzwischen/mittlerweile eine Antwort von deinem Chef bekommen?” Also: Hast du seit dem Zeitpunkt, an dem du die E-Mail weggeschickt hast, eine Antwort bekommen? Lasst uns noch einmal kurz das “inzwischen” in der ersten Bedeutung und “inzwischen” in der zweiten Bedeutung vergleichen. … können wir “inzwischen” oder “in der Zwischenzeit” sagen. Stellt euch vor, dass der Mann die Spülmaschine an diesem Abend nicht ausräumt. Er sagt zu seiner Frau: “Ich mach das morgen.” Am nächsten Morgen sitzen die Frau und ihr Mann am Frühstückstisch und die Frau fragt: - “Hast du inzwischen die Spülmaschine ausgeräumt?” Damit sagt sie: Hast du, seitdem wir gestern über die Spülmaschine gesprochen haben, die Maschine ausgeräumt? Hast du in diesem Zeitraum zwischen gestern und jetzt die Spülmaschine ausgeräumt? In dieser Bedeutung passen “inzwischen” und “mittlerweile”. Im Extra-Video für … benutzen könnt. Das Skript zum Video, Videos ohne Werbung und vieles mehr gibt’s natürlich auch im Mitgliederbereich. Wenn du Mitglied bei Deutsch mit Rieke werden möchtest, schau mal auf deutsch-mit-rieke.de/mitglied vorbei. Weiter geht’s mit einem Wort, das eine etwas andere zeitliche Bedeutung hat: zwischendurch. Mit “zwischendurch” beschreiben wir, dass in einem Zeitraum, in dem eine längere Handlung stattfindet, auch noch andere, kürzere Handlungen stattfinden. Hier ist ein Beispiel: - “Wenn du den ganzen Tag am Schreibtisch sitzt, ist es wichtig, dass du zwischendurch mal aufstehst … Noch ein Beispielsatz: - “Ich habe gestern fünf Stunden lang für die Prüfung gelernt und zwischendurch nur zwei Mal aufs Handy geschaut.” Die Haupttätigkeit war das Lernen. Ich habe lange gelernt. Aber ich habe das Lernen zweimal kurz unterbrochen, um aufs Handy zu schauen. Oder: - “Wie war die Bahnfahrt?” – “Lang! Ich war sechs Stunden unterwegs. Zum Glück konnte ich zwischendurch schlafen.” Die Haupttätigkeit ist hier die lange Bahnfahrt – sechs Stunden. Das Schlafen ist das, was in dieser langen Zeit irgendwann passiert. Die Person hat also nicht die ganzen sechs Stunden geschlafen, … Apfel ist der perfekte Snack für zwischendurch.” - Oder: “Ein Müsliriegel ist ideal für zwischendurch, wenn man unterwegs ist.” “Etwas für zwischendurch” ist ein Snack, den man mal in einer kleinen Pause essen kann. Bei der Arbeit, beim Sport und so weiter. Zum Weiterschauen empfehle ich euch mein Video über Zeitbegriffe in der Vergangenheit. Darin lernt ihr, was der Unterschied zwischen Wörtern wie “vorhin”, “gerade”, “eben”, “kürzlich” und “letztens” ist. Ich verlinke euch das Video hier irgendwo. Viel Spaß beim Weiterschauen und danke für eure Zeit heute! Bis nächste Woche, macht's gut!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7949
+  "src": "cc"
  },
  "WBtiAYV-Dfw": {
   "channel": "Comprehensible German",
@@ -16991,7 +17157,7 @@
  "yv5ZHXAeN00": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-08T15:19:51+00:00",
+  "checked": "2026-11-11T15:13:30+00:00",
   "title": "How to Start a Conversation in German",
   "duration": 792,
   "published": "20260830",
@@ -17156,14 +17322,15 @@
     2
    ]
   ],
-  "tx": "Janosch, was haben wir heute vor? Heute wollen wir fremde Leute ansprechen, sie kennenlernen und das Ganze sehr spontan. Genau, wir wollen herausfinden, wie spricht man überhaupt jemanden auf Deutsch an und später im Video haben wir auch nützliche Ausdrücke für euch zusammengestellt, die ihr braucht, um neue Leute anzusprechen und ihr könnt das sogar als kostenloses PDF herunterladen. Los geht's! Kannst du mir mal von einer Situation erzählen, wo du einen Menschen im echten Leben kennengelernt hast? Kann auch gerne im romantischen Kontext sein. Da gibt es in Berlin täglich Situationen, wo man Menschen kennenlernt. Täglich? Also, ich habe ja einen Hund und ja, also man wird ständig irgendwie, wenn man auf Menschen trifft, mit anderen Hunden angequatscht, ne? Und dann kommt man halt ins Gespräch. Sei es jetzt, also es ist meistens nicht romantisch, so. Ähm, aber es ist eigentlich immer ganz cool. Kannst du mir mal eine Situation erzählen, wo du jemanden in echt kennengelernt hast? Also, im Leben und nicht über Insta oder auf einer Dating-App oder so. Also, auf der Straße, meinst du? Ja, oder in einem Café oder in einer Bar, also wie war die Situation, wo war das und Ich denke jetzt direkt an eine Situation in Rom, am Bahnhof habe ich jemanden angesprochen und meinte, dass er schöne Haare hat. Cool. Habe ihn auf Englisch angesprochen und seinen deutschen Akzent gehört. Also, am Ende haben wir Deutsch gesprochen, weil er Ach, witzig. tatsächlich auch aus Hamburg kam. Ich bin ein recht wortkarger Mensch, ich gehe nicht unbedingt auf Menschen einfach so zu und spreche sie an, dass sie aus dem Kontext heraus, dass irgendwie ein Gespräch entsteht. Ähm, deswegen meine erste Sache wäre irgendwie, mich umzugucken, was hier gerade los ist und das zu kommentieren und darüber irgendw",
+  "tx": "Janosch, was haben wir heute vor? Heute wollen wir fremde Leute ansprechen, sie kennenlernen und das Ganze sehr spontan. Genau, wir wollen herausfinden, wie spricht man überhaupt jemanden auf Deutsch an und später im Video haben wir auch nützliche Ausdrücke für euch zusammengestellt, die ihr braucht, um neue Leute anzusprechen und ihr könnt das sogar als kostenloses PDF herunterladen. Los geht's! Kannst du mir mal von einer Situation erzählen, wo du einen Menschen im echten Leben kennengelernt hast? Kann auch gerne im romantischen Kontext sein. Da gibt es in Berlin täglich Situationen, wo man … Haare hat. Cool. Habe ihn auf Englisch angesprochen und seinen deutschen Akzent gehört. Also, am Ende haben wir Deutsch gesprochen, weil er Ach, witzig. tatsächlich auch aus Hamburg kam. Ich bin ein recht wortkarger Mensch, ich gehe nicht unbedingt auf Menschen einfach so zu und spreche sie an, dass sie aus dem Kontext heraus, dass irgendwie ein Gespräch entsteht. Ähm, deswegen meine erste Sache wäre irgendwie, mich umzugucken, was hier gerade los ist und das zu kommentieren und darüber irgendwie ein Gespräch entstehen zu lassen, aber wenn jetzt hier gerade nichts los ist, ist es halt … Äh, eine äh 75-Jahr-Feier, da haben drei Freundinnen miteinander Geburtstag gefeiert. Jede war 25 und da habe ich meinen jetzigen Partner kennengelernt. Wir wurden uns vorgestellt und sind dann eigentlich den ganzen Abend zusammen gesessen. Genau. Okay. Kannst du mir erstmal erzählen oder erinnerst du dich noch, wie du deinen letzten Partner oder Partnerin kennengelernt hast? Okay, das ist eine lange Geschichte. Ich mache das erstmal kurz. Ähm, wir haben uns schon beim ähm Jurastudium kennengelernt. Okay. Ähm, aber dann oder damals kannten wir uns nicht so gut. Weißt du noch diesen … wir nicht genau wissen, wie spreche ich Menschen an, wie macht man das, wie ist überhaupt dieser erste Satz? Und ich würde super gerne das mit Ihnen einfach mal ausprobieren. Also, wir machen wie so eine Form kleines Straßentheater. Okay. Stellen Sie vor, Sie sehen mich jetzt irgendwie, wir sind auf einer Party, gerne bei dieser 75-Jahr-Feier und wir spielen das einfach mal. Wie würden Sie das machen? Hm. Wie würde ich das machen? Ähm, hey, du hast 'ne coole Tasche. Ah, cool. von dieser Tasche ist besonders. Ja, danke. Ich habe die tatsächlich äh aus Kroatien. Okay. Also, Urlaub. Okay. Also, … gerne. Oh, das toll. Ja, schön. Toll. Ich erzähle dir alles von meinem Leben, ja? Ja, gut. Ein Ausdruck, der sehr hilfreich ist, wenn ihr jemanden auf Deutsch kennenlernen möchtet oder noch viel mehr, wenn ihr zum ersten Mal überhaupt mit der Person sprechen möchtet, ist \"Du bist mir aufgefallen.\" Janosch, hast du diesen Satz schon mal benutzt oder hat schon mal zu dir jemand diesen Satz gesagt? Nein, weder noch und ich finde diesen Satz ein bisschen ähm unbrauchbar. Äh, du bist mir ja aufgefallen und bist du jetzt ein Polizist oder was? Na ja, im Positiven. Du bist mir z.B. sympathisch … möchtet. Wenn ihr das herunterladen möchtet, geht einfach auf den Link unten in der Videobeschreibung, da könnt ihr euch das PDF kostenlos herunterladen. Und jetzt geht's weiter mit dem Video. Hi, entschuldige, ich will dich eigentlich gar nicht stören, aber ich wollte fragen, ob du vielleicht Lust auf einen Kaffee hast. Ah, hi, wow, ich bin gerade voll äh überra- Wie heißt du? Elisabeth. Elisabeth? Hi, ich bin Paulina. Sehr schön. Ähm, wohnst du hier? Ich wohne hier um die Ecke und stehe auch hier. Cool. Ja, falls du jetzt Zeit hast oder ein anderes Mal. Du kannst mir mal deine Nummer … super toll, dass du mich ansprichst, aber ich muss sagen, ich hab kein Interesse. Okay, ja, versteh ich. ich find's richtig richtig gut und äh ja, mach das weiter so. Okay, schön. Dann wünsch ich dir einen schönen Tag, ja? Danke, gleichfalls. Wiedersehen. Ciao. Ja, schönen guten Tag. Ich bin hier in Berlin. Äh, ich suche nach einem schönen Café um einen leckeren Kaffee zu trinken. Können Sie mir da was empfehlen? Ja, hier alle alle 20 m gibt es ein Café, da hinter dem der weißen Bank. Gibt es einen sehr gemütlichen Café, heißt äh Kauf dich glücklich, heißt er. Genau. Okay, schön. Was machst … du hin? Ähm, ich bin gerade auf dem Weg nach Hamburg. Ah, wirklich? Ich auch. Echt? Ja, ich fahr nach Hause, ja. Ich weiß nicht, vielleicht hast du auch lieber gerade Lust, alleine im Zug zu sein, aber wenn du magst, also wir können auch gerne zusammen sitzen und ein bisschen quatschen. ich brauch bisschen Zeit, um so Musik zu hören, aber bisschen quatschen auch gerne. Ja, cool, super. Ja, dann lass uns, ich glaub, wir müssen gleich vier. Ja, cool, lass. Hallo. Hi. Kannst du mir vielleicht helfen? Ich will zum Mauerpark. Oh, das ist ganz einfach. Das ist eigentlich ungefähr 70 m von hier … Bäckerei, was ich dir erzählt hab, ja. Okay, darf ich mitkommen? Ähm. Lass mich mal sehen. Eigentlich nee. Ja, wenn wenn du Zeit brauchst mit deiner Freundin, dann ist es was anderes. lange nicht gesehen. Ja, ja, ja. Aber dann vielleicht sehen wir uns noch. Vielleicht. Hallo, Sie, ich sehe, Sie trinken Bier. Schmeckt Ihnen Bier? Ja. Das ist für 'ne Frau jetzt nicht unbedingt so das Übliche. Die trinken ja eher Wein oder sowas anderes. Ja, das stimmt, aber ich glaub, heutzutage hat sich das auch bisschen geändert. Viele Frauen trinken sehr gerne Bier. Ja. Es Guinness. Guinness ist mein … sagen, in der Mittagspause ist besser. Da können wir zum Vietnamesen nebenan gehen. Okay, Asiatisch esse ich auch sehr gerne. Ah, super. Würde ich mich sehr freuen. Okay, schön. Ja, schönen Tag. Äh, schönen Tag noch. Vielen Dank. Ciao. Und jetzt wollen wir von euch wissen, wie würdet ihr jemanden zum allerersten Mal ansprechen? Schreibt es uns unten in die Kommentare und vergesst nicht, wir haben euch ein PDF mit den wichtigsten Ausdrücken zum Kennenlernen zusammengestellt. Das könnt ihr kostenlos herunterladen. Klickt dafür auf den Link in der Videobeschreibung. Bis zum nächsten Mal. Ciao.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "0hEI9B6aj48": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-08T15:22:15+00:00",
+  "checked": "2026-11-11T15:14:58+00:00",
   "title": "Wie spricht man Ö aus? | Deutsche Aussprache verbessern - Akzentfrei Deutsch sprechen",
   "duration": 567,
   "published": "20230217",
@@ -17336,7 +17503,8 @@
     2
    ]
   ],
-  "tx": "hallo liebe Youtube Deutsch lernen und willkommen bei Deutsch mit Benjamin heute steht die richtige Aussprache der deutschen öllaute auf dem Programm es gibt zwei verschiedene öllaute im Hinblick auf die Qualität das heißt im Hinblick auf den Klang natürlich gibt es einerseits lange und kurze Vokale aber andererseits auch gespannte und ungespannte vokale wir haben also das gespannte Öl auf der einen Seite und das ungespannte auf der anderen Seite und was die öl-laute betrifft können beide also sowohl Ö gespannt als auch ungespannt lang und kurz sein oft wird unterrichtet dass das Öl einfach ausgesprochen wird indem man die Lippen rundet und währenddessen eh ausspricht das kann tatsächlich helfen die Aussprache der öllaute richtig hinzubekommen es ist aber nicht ganz richtig der gespannte Öl laut Öl wird gebildet indem der vordere Teil des Zungenrückens zum harten Gaumen angehoben wird beim Ö hebt sich der Zungenrücken aber nicht ganz so weit vorne wie beim E außerdem ist beim Ö auch der zahnreihenabstand ein bisschen größer als beim E das heißt wenn ich sage Ö ja da geht auch der Kiefer ein bisschen weiter runter der Unterkiefer als beim E vielleicht habt ihr auch schon oft gehört dass man die Mundmuskulatur sehr stark beanspruchen muss also dass man die Lippen richtig stark runden muss das ist aber eigentlich auch nicht ganz richtig auf jeden Fall ist es wichtig die Lippen zu runden also das auf jeden Fall die Lippen müssen beim Öl gerundet werden das sind gerundete Vokale aber wir müssen es nicht übertreiben in dieser Nahaufnahme sieht man wie das Wort Öl ausgesprochen wird hier sieht man sehr schön die für den gespannten laut Öl notwendige aber moderate lippenrundung außerdem wird die lippenrundung schon vor der eigentlichen Aussprache des Lautes realisiert die lippe",
+  "tx": "hallo liebe Youtube Deutsch lernen und willkommen bei Deutsch mit Benjamin heute steht die richtige Aussprache der deutschen öllaute auf dem Programm es gibt zwei verschiedene öllaute im Hinblick auf die Qualität das heißt im Hinblick auf den Klang natürlich gibt es einerseits lange und kurze Vokale aber andererseits auch gespannte und ungespannte vokale wir haben also das gespannte Öl auf der einen Seite und das ungespannte auf der anderen Seite und was die öl-laute betrifft können beide also sowohl Ö gespannt als auch ungespannt lang und kurz sein oft wird unterrichtet dass das Öl einfach … indem der vordere Teil des Zungenrückens zum harten Gaumen angehoben wird beim Ö hebt sich der Zungenrücken aber nicht ganz so weit vorne wie beim E außerdem ist beim Ö auch der zahnreihenabstand ein bisschen größer als beim E das heißt wenn ich sage Ö ja da geht auch der Kiefer ein bisschen weiter runter der Unterkiefer als beim E vielleicht habt ihr auch schon oft gehört dass man die Mundmuskulatur sehr stark beanspruchen muss also dass man die Lippen richtig stark runden muss das ist aber eigentlich auch nicht ganz richtig auf jeden Fall ist es wichtig die Lippen zu runden also das … gespannten laut Öl notwendige aber moderate lippenrundung außerdem wird die lippenrundung schon vor der eigentlichen Aussprache des Lautes realisiert die lippenrundung wird erst bei der Aussprache des folgenden Konsonanten aufgehoben hier das Wort größer die Laute werden schon mit gerundeten Lippen gesprochen die lippenrundung wird erst während der Aussprache des folgekonsonantens aufgehoben das Wort Möwe auch hier die lippenrundung schon beim erst während der Aussprache des folgekonsonanten wird sie aufgehoben hier sehen wir auch ein Beispiel aus einem Fernsehbeitrag diese Flasche … Hefe Höfe sowie lesen lösen lesen lösen für den unterschiedlichen Klang ist also auf jeden Fall die lippenrundung mitverantwortlich aber ein Großteil dieser Arbeit übernimmt auch die Zunge ja das ist ganz ganz wichtig zu verstehen auch im Vergleich zum ü hebt sich die Zunge beim Öl etwas weiter hinten nach oben Richtung Gaumen also vorne natürlich aber ein bisschen weiter hinten als beim ü auch dazu zwei Minimalpaare die Grüße die Größe Grüße Größe und die Tüten töten Tüten Töten dieser gespannte Vokal über den wir bisher gesprochen haben ist vom Prinzip her lang also Öl in unbetonten … der Fall Föderalismus und für Jeton wenn ihr gerne mit meinen Videos hier auf Youtube lernt und auch der Meinung seid dass ihr schon relativ viel davon profitiert habt und gerne weiter mit mir lernen möchtet eure deutsche Aussprache verbessern möchtet generell einfach natürlicher und selbstbewusster Deutsch sprechen möchtet sowohl was die Aussprache angeht als auch den Wortschatz dann meldet euch auf jeden Fall in meiner online Akademie an meine Online-Akademie ist die weltweit einzige online Lernplattform die euch so ein umfassendes Lernprogramm bietet mit so vielen Audiodateien Videos … lernt so wie es von mir sowieso schon gewohnt seid wirklich die deutsche Sprache die man wirklich spricht also so wie wirklich wir Deutschen im alltäglichen Berufs- und Privatleben sprechen wenn euch das interessiert wenn euch das gefällt wenn ihr sagt das ist was für mich dann erfahrt ihr alle Infos dazu die ihr braucht über den Link den ich hier unter dem Video veröffentliche ihr könnt auch direkt meine Webseite besuchen Deutsch mit benjamin.com oder auf Google einfach Deutsch mit Benjamin Akademie eingeben und dann wird euch das sofort angezeigt meine Akademie ist so aufgebaut dass ihr … austreten ihr könnt jederzeit problemlos kündigen dann ist es so dass ihr den Zugang noch bis zum Ende des Monats habt den ihr ja schon bezahlt habt und dann am Anfang des nächsten Monats verliert ihr dann den Zugang ihr könnt aber natürlich dann auch in der Zukunft zu jedem Zeitpunkt später wieder zurück in die Akademie kommen und weitermachen ein weiterer Bonus den ihr automatisch bekommt wenn ihr euch für die Akademie anmeldet sind regelmäßig stattfindende Workshops zum Thema Akzent Reduzierung Aussprache aber auch Konversationen Diskussionsrunden und ähnliches die ihr einfach an … einzige Lernplattform die euch das bietet also nichts wie hin alle Infos wie gesagt gibt es über den Link unter dem Video oder direkt über meine Webseite Deutsch mit benjamin.com der kurze övokal in deutschen Wörtern die keine Fremdwörter sind ist ungespannt ungespannt heißt dass die Mundmuskulatur etwas lockerer ist das heißt diese lippenrundung ist nicht so stark der Mund ist auch ein kleines bisschen weiter geöffnet und insgesamt ist alles einfach lockerer ja also im Vergleich gespannt und ungespannt Öl das Wort plötzlich auch für den ungespannten öllaut a muss die lippenrundung … Öl hier links zu sehen und dem ungespannten öllaut hier rechts zu sehen bei den Wörtern Höhle und Hölle kann man sehr schön den Unterschied zwischen dem langen gespannten övokal und dem kurzen ungespannten övokal hören die Höhle die Hölle und auch bei mögen und möchten wird der Unterschied deutlich wenn wir also sagen zum Beispiel wir mögen das nicht dann sprechen wir den langen gespannten ölvokal wenn wir aber sagen wir möchten das nicht oder ich möchte das nicht dann sprechen wir den kurzen ungespannten Vokal mögen möchten Ö in eingedeutschten Fremdwörtern aus dem Englischen und … Workshop also mit diesem gespannten Öl sondern verworkshop oder auch ein anderes Beispiel wäre der Burger der Burger also nicht der Burger und auch nicht der Bürger sondern der Bürger also wie schon gesagt zu meiner Webseite wo ihr alle Infos findet und wo ihr euch auch dann direkt anmelden könnt gelangt ihr wenn ihr auf den Link unter dem Video klickt oder wenn ihr direkt Deutsch mit benjamin.com besucht das war's für heute ich danke euch fürs zuschauen ihr lernt Deutsch mit Benjamin auf Youtube und ich freue mich auf Euch im nächsten Video bzw hoffentlich auch in meiner online Akademie",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -21823,6 +21991,139 @@
   ],
   "tx": "Nachdem, was Sie bisher wissen, für wie wahrscheinlich halten Sie es denn, dass die Freundin, die Affäre von Wang, für den chinesischen Geheimdienst wirklich gearbeitet hat? Tja, das kann man gerade ganz schwer absehen, denn wir haben es wie so oft ja mit Informationen zu tun, die aus Geheimdienstkreisen kommen und zwar aus amerikanischen. Das heißt, uns fehlt die Einsicht im Moment, was natürlich dafür spricht ist, dass es offenbar bereits seit längerem diese Mutmaßung, diese Thesen gibt, dass auch die Firma, die Frau Wang, also die mutmaßliche Agentin betrieben hat, schon länger im Visier … machen auch US-Dienste nicht leichtfertig. Wie werden denn Frauen in solchen Konstellationen angeworben? Werden sie als Freundin oder Ehepartnerin zur Mitarbeit beim vom Geheimdienst gezwungen oder werden sie als Honey Trap, also so wie im Film dann als Agentin auf Ziele des Geheimdienstes eingesetzt? Es ist gut, dass Sie das Thema Filme ansprechen, denn in der Tat ist dieser aktuelle Fall eigentlich einer, der sehr untypisch ist. Im Kalten Krieg, vielleicht erinnert sich die eine oder andere jedenfalls aus Film und Fernsehen, gab es ja Romeo-Agenten, also Personen, die richtige … Sekretärinnen beispielsweise. Das gab es also in beide Richtungen, wovon außen eigentlich klar war, na ja, das wird jetzt nicht die große Liebe sein, da haben die sich ganz schön verrannt und was dann in der Regel auf Erpressung hinauslief und am Ende auf Dokumentenlieferung. Dieser Fall hier ist deswegen außergewöhnlich, weil es ja eine Geschäftsbeziehung von Herrn Wang zu Frau Wang, wenn sie denn so heißt, gab, nämlich über diese Exportfirma, die sie leitete, die auch im Chip-Bereich tätig ist und die ja offenbar schon versucht hat, vorher Chips über Singapur nach China zu bringen. Das … sondern so wie es aussieht aktuell, hat sich das eher dynamisch entwickelt und das ist auch ein Punkt, der auf das Verhalten von China gut trifft, denn in der Regel vermeidet China sehr exponierte, sehr medial wirksame Operationen wie diese, weil die Entdeckung, weil die Diskussion in keinem guten Verhältnis zum Ertrag steht. Normalerweise geht China eben leise vor und schöpft unbewusst ab. Noch mal, um das zu verstehen, war das eine Affäre dieses Firmenchefs? Ja, das wird man sehen. Er hat ja eingestanden, dass er mit ihr offenbar neben seiner Ehefrau liiert war, das heißt eine Affäre im … wurde von Anfang an mit der Idee, du hast eine Affäre, du wirst Informationen abgraben, also diese alten Romeo-Fälle, oder ob es sich, wie ich eher glaube, eben aus dieser Geschäftsbeziehung, die ja schon zum Vorteil Chinas war, nämlich möglichst viele Chips nach China zu bringen, entwickelt hat, das müssen die weiteren Ermittlungen erst zeigen. Nehmen wir noch mal das Bild, das wir aus Filmen kennen, CIA, MI5, diese Geheimdienste, die sind für uns zumindest medial sehr vertraut. Wie sieht's denn mit den chinesischen Geheimdiensten aus? Was macht die aus? Ja, das Ministerium für … hat, das ist ein riesiges Geheimdienstgebilde mit hunderttausenden Mitarbeitern. Einerseits eine sehr enge Inlandsüberwachung, also Sie kennen das Thema Uiguren sicherlich noch, aber da geht's eben auch um Oppositionsunterdrückung, um richtig harte Verfolgung, autoritäre Verfolgung. Und nach außen hin, ja, da ist China eben wahnsinnig aktiv darin, leise wirtschaftliche Vorteile zu gewinnen. Also wenn man China verstehen muss man Russland als Gegenüber nehmen. Russland, das sehen wir ja alle, führt diese Show of Force Attacken durch, also macht Einsätze von ähm Low-Level-Agents, von … was bei rum, aber es geht eben darum, uns einzuschüchtern. Und China macht genau den anderen Approach im Ausland. China geht leise vor mit Gastwissenschaftlern, mit Praktikanten, lädt Personen nach China ein, um sie abzuschöpfen. Also das MSS im Ausland ist so eine Art Sperrspitze in erster Linie der des wirtschaftlichen Aufstiegs dieser Planung bis 2049, wirtschaftliche absolute Weltmacht zu werden. Und da sind eben solche lauten Töne gar nicht hilfreich. Und deswegen passt das MSS auch weniger gut auf diese filmischen Beispiele als etwa die CIA, die Sie angesprochen haben. Vor dem … Nvidia ist in einem Bereich aktiv, der hochspannend ist, nicht nur für chinesische Dienste, denn die Chips, die Nvidia produziert, sind gerade im Bereich KI ganz entscheidend. Und KI-Unternehmen sind in gewisser Weise so im Mittelpunkt der Ausspähung von Nachrichtendiensten, wie es Rüstungsunternehmen im Kalten Krieg waren. Denn alle Beteiligten wissen, die wirtschaftliche Vormachtstellung, aber auch die militärische, die hängt eben nicht mehr nur von harten physischen Systemen ab, sondern auch davon, wie gut man KI einbinden kann. Und KI-Unternehmen, die sind eben viel weniger … angeht. Und das gilt auch für deren Umfeld, wie eben Nvidia. Und deswegen werden diese Unternehmen in den nächsten Jahren sehr sehr viel stärker auf Geheimschutz und Absicherung setzen müssen. Also wir werden etwas erleben wie in den Sechzigern und Siebzigern bei den Rüstungskonzernen, wo eine enorme Abschottung Stück für Stück stattgefunden hat. Welche Folgen könnte dieser Fall haben, wie Sie ihm sagen, mehr Sicherheitsvorkehrungen? Das ist dringend notwendig, also wenn sogar einen Konzernchef offenbar ja so exponiert angegangen wird in einer für China untypischen, ja, … Es lenkt aber eben auch ab, denn die allermeisten Ausspähungen, gerade von China, sind eben leise, sind niedrigschwellig. Sie betreffen Personen wie mich, die an der Uni forschen oder vielleicht die eine der anderen Zuschauer, der im Sales-Bereich arbeitet, in der mittleren Führungshierarchie einer Behörde sitzt, denn das sind Ziele, die rechnen nicht mit ihrer Abschöpfung und deswegen werden sie in Deutschland und in Europa durch China tagtäglich abgeschöpft. Das war Lukas Manz von der Forschungsstelle Nachrichtendienste der Uni Köln. Herr Manz, vielen Dank für das Gespräch. Ich danke Ihnen.",
   "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "HVOz8HbyKHE": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-11T15:16:24+00:00",
+  "title": "Die Karriere von CSU-Politikerin Ilse Aigner",
+  "duration": 169,
+  "published": "20261109",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 137.9,
+  "rare": 0.108,
+  "var": 0.88,
+  "speech_s": 169.3,
+  "tokens": 389,
+  "kw": [
+   [
+    "amt",
+    "sie versteht das Amt als ein",
+    16,
+    21,
+    4.82,
+    3
+   ],
+   [
+    "dort",
+    "hält dort diesen Sommer eine Grundsatzrede, für manche eine Art",
+    45,
+    52,
+    5.78,
+    2
+   ],
+   [
+    "hast",
+    "Oder hast du da was anders vor? Wolltest",
+    95,
+    98,
+    5.75,
+    2
+   ],
+   [
+    "ende",
+    "gewinnt am Ende Söder. Viel später sagt",
+    136,
+    143,
+    5.67,
+    2
+   ],
+   [
+    "damen",
+    "Meine Damen und Herren, Angst ist ein",
+    51,
+    57,
+    4.78,
+    2
+   ],
+   [
+    "demokratie",
+    "Schulen für den Wert der Demokratie,",
+    32,
+    37,
+    4.75,
+    2
+   ],
+   [
+    "horst",
+    "Bundespräsidenten Horst Köhler. Künftig könnte sie selbst diese Urkunden",
+    5,
+    12,
+    4.44,
+    2
+   ],
+   [
+    "landtag",
+    "Präsidentin im Bayerischen Landtag und sie versteht das Amt als ein",
+    14,
+    21,
+    4.3,
+    2
+   ],
+   [
+    "wolltest",
+    "Oder hast du da was anders vor? Wolltest",
+    95,
+    98,
+    4.04,
+    2
+   ],
+   [
+    "präsidentin",
+    "Präsidentin im Bayerischen Landtag und sie versteht das Amt als ein",
+    14,
+    21,
+    3.88,
+    2
+   ],
+   [
+    "ministerpräsidenten",
+    "Ministerpräsidenten bleiben, oder? genau.",
+    93,
+    97,
+    3.85,
+    2
+   ],
+   [
+    "söder",
+    "Söder, der auch nach ganz oben will.",
+    88,
+    94,
+    3.71,
+    2
+   ],
+   [
+    "aigner",
+    "Oktober 2008. Ilse Aigner erhält ihre",
+    0,
+    6,
+    3.26,
+    8
+   ],
+   [
+    "ilse",
+    "Oktober 2008. Ilse Aigner erhält ihre",
+    0,
+    6,
+    3.59,
+    4
+   ]
+  ],
+  "tx": "Oktober 2008. Ilse Aigner erhält ihre Ernennungsurkunde vom damaligen Bundespräsidenten Horst Köhler. Künftig könnte sie selbst diese Urkunden überreichen. Seit 2018 ist sie bereits Präsidentin im Bayerischen Landtag und sie versteht das Amt als ein politisches. Der AFD vil sie Grenzen setzen. Und Sie können sich wirklich sicher sein, ich werde eine Präsidentin für alle Fraktionen sein, aber ich bin nicht ohne Haltung. Aigner wirbt auf Marktplätzen und in Schulen für den Wert der Demokratie, ernennt Orte der Demokratie. Einer davon, die Ludwig-Maximilians-Universität in München. Hier warfen Hans und Sophie Scholl 1943 ihre Flugblätter ab. Aigner hält dort diesen Sommer eine Grundsatzrede, für manche eine Art Bewerbungsrede. Meine Damen und Herren, Angst ist ein sehr wirkungsvolles Instrument. Man treibt auseinander. Ich warne vor dieser Unversöhnlichkeit. Sie reißt tiefe Gräben, um ein anderes Land zu schaffen und klar gesagt, ich will dieses andere Land nicht. Aufgewachsen ist Ilse Aigner als Jüngste von vier Schwestern im oberbayerischen Feldkirchen-Westerham, macht eine Ausbildung zur Radio- und Fernsehtechnikerin, arbeitet später im elterlichen Elektrobetrieb. Früh engagiert sie sich für die CSU. 1994 mit 29 Jahren der Einzug in den Landtag, gemeinsam mit dem jungen Markus Söder, der auch nach ganz oben will. Ja, wir müssen ja loyal zum Ministerpräsidenten bleiben, oder? genau. Oder hast du da was anders vor? Wolltest du jetzt wolltest du jetzt auf Hausbesuch machen? Der damalige bayerische Ministerpräsident Horst Seehofer fördert Aigner, macht sie in Berlin zu seiner Nachfolgerin im Bundeslandwirtschaftsministerium. Dort jagt eine Krise die nächste. Dioxin in Eiern, EHEC auf Sprossen, Pferdefleisch in der Lasagne. Aigner verspricht Konsequenzen, wird von der Opposition als Ankündigungsministerin bezeichnet. In Bayern gilt sie schon als Kronprinzessin für das Amt des Ministerpräsidenten. Ich darf dich bitten, Ilse, ähm, dass ich jetzt an deinen Platz gehe und du an meinen Platz. Das soll aber nichts besagen, meine Damen und Herren. Den Machtkampf um die Staatskanzlei gewinnt am Ende Söder. Viel später sagt Ilse Aigner in einem Interview, wenn ich alle Mittel und Register gezogen hätte, wäre das vielleicht gegangen, aber irgendwann habe ich gesagt, nein, das ist es mir nicht wert, jedes Mittel anzuwenden. Um das Amt des Bundespräsidenten bewirbt man sich nicht, man wird gefragt. Entsprechend hielt sich Aigner an eine politische Grundregel, Schweigen und Abwarten, bis es soweit ist. Du hast das Video bis zum Ende geschaut? Dann kannst du auch ein Abo da lassen.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  }

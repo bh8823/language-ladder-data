@@ -11215,7 +11215,7 @@
  "lseoD4MFUNk": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-05T16:07:46+00:00",
+  "checked": "2026-11-11T15:22:45+00:00",
   "title": "German School System / Advanced German Podcast B1-B2 Comprehensible Input",
   "duration": 1994,
   "published": "20260801",
@@ -11223,73 +11223,10 @@
   "spoken_v": 2,
   "pace": 128.5,
   "rare": 0.0255,
+  "var": 0.7519,
   "speech_s": 1977.0,
   "tokens": 4234,
   "kw": [
-   [
-    "mhm",
-    "Mhm. Sehr gut.",
-    36,
-    44,
-    3.53,
-    16
-   ],
-   [
-    "lehrerinnen",
-    "Lehrer und Lehrerinnen gab, aber auch einige sehr alte Lehrer und",
-    611,
-    620,
-    3.59,
-    10
-   ],
-   [
-    "noten",
-    "theoretisch, wenn deine Noten gut genug",
-    263,
-    270,
-    4.18,
-    24
-   ],
-   [
-    "palina",
-    "Palina. Wir unterhalten uns heute",
-    15,
-    23,
-    2.4,
-    3
-   ],
-   [
-    "note",
-    "das eine ist eine mündliche Note, das",
-    1431,
-    1437,
-    4.3,
-    21
-   ],
-   [
-    "ähm",
-    "Ähm bei uns äh sind die ersten vier Klassen",
-    200,
-    208,
-    4.12,
-    13
-   ],
-   [
-    "patreon",
-    "uns auf Patreon unterstützen, bedanken. Auf Patreon bekommt ihr ein extra Video",
-    290,
-    301,
-    2.56,
-    3
-   ],
-   [
-    "hauptschule",
-    "Hauptschule, die Realschule und das Gymnasium.",
-    241,
-    251,
-    3.65,
-    6
-   ],
    [
     "schule",
     "Schule. Mit einem Feuerzeug.",
@@ -11307,14 +11244,6 @@
     23
    ],
    [
-    "lehrer",
-    "Wie sind die Lehrer an deutschen Schulen? Wie",
-    555,
-    563,
-    4.92,
-    21
-   ],
-   [
     "klasse",
     "früher es keine vierte Klasse gab.",
     174,
@@ -11323,42 +11252,146 @@
     21
    ],
    [
-    "weiss",
-    "",
-    0,
-    0,
-    5.75,
-    19
+    "lehrer",
+    "Wie sind die Lehrer an deutschen Schulen? Wie",
+    555,
+    563,
+    4.92,
+    21
    ],
    [
-    "russland",
-    "Russland. Heute sprechen wir über die",
-    24,
-    32,
-    4.99,
-    19
+    "note",
+    "das eine ist eine mündliche Note, das",
+    1431,
+    1437,
+    4.3,
+    21
    ],
    [
-    "hatten",
-    "Wir hatten Demonstrationen deswegen, weil äh",
-    121,
-    129,
-    5.52,
-    18
+    "unterricht",
+    "Wie heißt der Unterricht, wo du lernst,",
+    684,
+    689,
+    4.57,
+    11
    ],
    [
-    "glaube",
-    "Ich glaube, das sind normalerweise 10",
-    48,
-    53,
-    5.39,
+    "gymnasium",
+    "und das Gymnasium. Wenn man studieren möchte, dann muss man",
+    244,
+    254,
+    4.43,
+    10
+   ],
+   [
+    "meistens",
+    "wir hatten meistens nur Frauen. Wir",
+    668,
+    676,
+    4.64,
+    9
+   ],
+   [
+    "noten",
+    "theoretisch, wenn deine Noten gut genug",
+    263,
+    270,
+    4.18,
+    24
+   ],
+   [
+    "ähm",
+    "Ähm bei uns äh sind die ersten vier Klassen",
+    200,
+    208,
+    4.12,
+    13
+   ],
+   [
+    "uniform",
+    "wenn du keine Uniform hattest, z.B.",
+    961,
+    968,
+    3.93,
+    8
+   ],
+   [
+    "lernst",
+    "Wie heißt der Unterricht, wo du lernst,",
+    684,
+    689,
+    3.72,
+    6
+   ],
+   [
+    "mhm",
+    "Mhm. Sehr gut.",
+    36,
+    44,
+    3.53,
     16
+   ],
+   [
+    "lehrerinnen",
+    "Lehrer und Lehrerinnen gab, aber auch einige sehr alte Lehrer und",
+    611,
+    620,
+    3.59,
+    10
+   ],
+   [
+    "religionsunterricht",
+    "Religionsunterricht in Russland war?",
+    844,
+    850,
+    3.55,
+    4
+   ],
+   [
+    "gesamtschule",
+    "Und das nennt sich die Gesamtschule.",
+    505,
+    512,
+    3.49,
+    4
+   ],
+   [
+    "patreon",
+    "uns auf Patreon unterstützen, bedanken. Auf Patreon bekommt ihr ein extra Video",
+    290,
+    301,
+    2.56,
+    3
+   ],
+   [
+    "palina",
+    "Palina. Wir unterhalten uns heute",
+    15,
+    23,
+    2.4,
+    3
+   ],
+   [
+    "kochst",
+    "bist, dann kochst, dann lernst du, wie",
+    717,
+    723,
+    2.92,
+    2
+   ],
+   [
+    "abgefuckt",
+    "abgefuckt. Ja.",
+    363,
+    367,
+    2.9,
+    2
    ]
   ],
-  "tx": "Hallo und herzlich willkommen bei Chill German. Mein Name ist Jam und dein Name ist? Palina. Wir unterhalten uns heute über ein neues Thema im Vergleich von Deutschland und Russland. Heute sprechen wir über die Schule. Mit einem Feuerzeug. Wie Deutsch von dir, Palina? Mhm. Sehr gut. Palina, wie lange geht man in Russland zur Schule? Ich glaube, das sind normalerweise 10 bis 11 Klassen. 10 bis 11 Jahre? Mhm. In Deutschland äh sind es ungefähr 10 bis 13. Ich sage ungefähr, weil es zu meiner Zeit einen kurzen Moment gab, wo es nur 12 waren. Ich habe nur 12 Jahre Schule gemacht. Ich bin nur bis zum 12. Jahrgang gekommen, aber damals war es der letzte Jahrgang. Die deutsche Regierung hat zu der Zeit entschlossen, dass 13 Jahre zu viel sind, dass man eigentlich nur 12 Jahre braucht und deswegen mussten wir dann das ganze Material, das im 13. Jahr gemacht werden sollte, auch zusätzlich im 12. Jahr machen. Das hat niemandem gefallen. Das hat keinem Schüler, keiner Schülerin, keiner Lehrerin gefallen. Wir sind tatsächlich demonstrieren gegangen damals. Leute wollten mehr studieren? Ja, wir sind alle auf die Schule Leute wollten länger studieren? Wir hatten Demonstrationen deswegen, weil äh wir der Meinung waren, dass man mehr Zeit braucht, um das ganze Material zu schaffen und das das das 12 Jahre einfach nicht ausreichen. Und tatsächlich war ich dann auch der letzte Jahrgang wo es nur 12 Jahre waren. Nach mir waren es dann wieder 13 Jahre. Ich finde 13, ich finde 12 Jahre viel zu viel. Dann bist du in der Schule, bis du 20 bist. Ich war 18. du kannst Ja, aber wenn du 13 Jahren studierst, du kannst schon Kinder haben und noch zur Schule gehen. Die Frage ist, ob du Kinder haben solltest. Ja, ich finde das zu lange. 20, mit 20 möchte ich nicht mehr zur Schule gehen. In Russland, d",
+  "tx": "Hallo und herzlich willkommen bei Chill German. Mein Name ist Jam und dein Name ist? Palina. Wir unterhalten uns heute über ein neues Thema im Vergleich von Deutschland und Russland. Heute sprechen wir über die Schule. Mit einem Feuerzeug. Wie Deutsch von dir, Palina? Mhm. Sehr gut. Palina, wie lange geht man in Russland zur Schule? Ich glaube, das sind normalerweise 10 bis 11 Klassen. 10 bis 11 Jahre? Mhm. In Deutschland äh sind es ungefähr 10 bis 13. Ich sage ungefähr, weil es zu meiner Zeit einen kurzen Moment gab, wo es nur 12 waren. Ich habe nur 12 Jahre Schule gemacht. Ich bin nur bis … man studieren möchte, dann muss man auf das Gymnasium gehen, denn nur das Gymnasium geht die kompletten 13 Jahre. Wenn du zur Hauptschule gehst, dann bist du nur 10 Jahre in der Schule. Und theoretisch, wenn deine Noten gut genug sind, kannst du danach mit der Realschule weitermachen. Und wenn deine Noten dann immer noch gut genug sind, kannst du mit dem Gymnasium weitermachen. Und dann nach dem Gymnasium kannst du an die Universität gehen. Dann kannst du studieren. Bevor wir mit dem Video weitermachen, möchte ich mich bei allen Leuten, die uns auf Patreon unterstützen, bedanken. Auf … das nicht daran lag, dass ich besonders super intelligent war, sondern einfach, dass ich ein Umfeld hatte, dass mich sehr unterstützt hat. Meine Eltern haben mir immer sehr viel mit der Schule geholfen. Ich hatte ein sehr ruhiges Umfeld, wo ich mir keine Sorgen um andere Dinge machen musste. Meine Familie war nicht reich, aber wir hatten genug Geld. Ich hatte einfach das Privileg, die Möglichkeit in der Schule gut zu sein und dann an die gute Schule weiter zu gehen. Also kurz gefasst hatte ich einfach Glück. Glück, das andere Personen nicht hatten. Es gibt in Deutschland eine Alternative … hatten meistens nur Frauen. Wir hatten einen Wir hatten einen Mann als Sportlehrer und einen als ähm Ah, ich weiß nicht, wie das heißt. Wie heißt der Unterricht, wo du lernst, wie Ah, das ist auch Ah, wir Wir was ganz Komisches. Es gibt in Russland einen Unterricht, wo du lernst, was du lernst, hängt davon ab, ob du ein Junge bist oder ein Mädchen. Oh, wunderbar. Wenn du ein Mädchen bist, dann lernst du kochen und nähen. Wenn du ein Junge bist, dann lernst du, wie du, keine Ahnung, Stühle machst. Also Handwerk. Äh, Handwerk. Ja, Handwerk. Und wenn du ein Mädchen bist, dann kochst, dann … wo über Religion gesprochen wurde, über verschiedene Religionen, aber natürlich mit einem Fokus auf das Christentum. Oder man konnte den Werte- und Normenunterricht besuchen. Das war dann eher so etwas wie ein früherer Philosophiekurs. Dort hat man allgemein über Traditionen und äh Weltanschauung gesprochen, die nicht unbedingt speziell religiös wären. Mich würde interessieren, wie wie viel durften die Lehrer machen? Ich glaube, ich verstehe nicht ganz, was du meinst. Ähm Ich weiß nicht, wie man das auf Deutsch sagt, die Boundaries von den Schülern. Wie wie wie war das? Wie wichtig … etwas sagen und sie hat meine Nägel gesehen und sie hat mir gesagt, dass ich in das Badezimmer gehen muss und das irgendwie wegmachen. Und ich habe gefragt: \"Hey, wie wie wie kann ich meinen Nagellack wegmachen? Das das geht nicht.\" Sie hat gesagt, ihr ist das egal, ich kann, wenn ich möchte, meine Finger abschneiden. Ja, das gab es in Deutschland definitiv nicht. Ja. zu meiner Zeit. Danach ist mein Vater zur Schule gegangen, äh um mit ihr zu reden und hat auch gesagt, dass sie, wenn sie das noch mal sowas zu mir sagt, dass äh das ähm Dass er sie verklagt. Ich weiß nicht genau … ein Anzug. Äh Jungen ja müssen einen Anzug tragen oder mindestens schwarze Hosen und ein Hemd. Du darfst keine Jeans tragen, du darfst kein T-Shirts tragen. Du darfst kein Make-up haben, du darfst nicht deine Haare so haben, du musst die im Zopf haben. Ja, ich weiß nicht, ob das sein Klingt sehr anstrengend. Ja, es war so unangenehm und ich habe mein ganzes Schulleben damit gekämpft. Kann ich mir gut vorstellen. auch Stress jeden Tag, wenn du das nicht machst, die dürfen nichts mit dir machen. Sie dürfen dich nicht nach Hause schicken, wenn du das nicht machst. Aber du bekommst trotzdem … gegeben. Das war dann die Einschätzung von der Lehrkraft, wie gut diese Person im Unterricht mitgearbeitet hat, wie viele Fragen sie gestellt hat, wie viele Fragen beantwortet wurden, wie gut man aufgepasst hat und so weiter. Und die Endnote am Ende des Jahres für das Fach wurde dann aus der mündlichen Note und aus der schriftlichen Note ähm Ich weiß nicht genau, wie sie es ausgerechnet haben, aber mit diesen Noten wurde dann das Endergebnis gefunden. Bei uns war das so, dass du jeden Tag eine Note bekommen könntest, in jedem Unterricht. Und einfach zufällig? Oder wie? Mehr oder weniger … wie genau das Wort dafür heißt. Eine Vier ist einfach nicht genug. Ja. Eine Fünf ist schlecht. Und dann eine Sechs ist quasi, du hast gar nichts gemacht. Ja, du hast einen leeren Test abgegeben. Du bist nicht erschienen. Das ist eine Sechs. Später in den letzten paar Jahren wurde das dann gewechselt. Aber eigentlich war es das Gleiche. Später hatten wir dann ein System von 15 bis 0. Aber eigentlich war es das Gleiche. Eine 15 war einfach eine Eins plus. Also super perfekt, sehr sehr sehr gut, genau richtig. 14 war eine normale Eins. 13 war eine Eins minus, fast perfekt. 12 eine Zwei plus. … von anderen Kontinenten. Das einzige, was ich so wirklich weiß, ist, was man in Filmen und Serien, also in den Medien sieht. Und wer weiß, wie genau das ist, wie detailliert das ist. Mal ganz abgesehen davon, ist das meistens auch hauptsächlich eher aus den USA oder vielleicht aus England. Also, erzählt es uns in den Kommentaren, was sind eure Erfahrungen damit? Vielen, vielen Dank, dass ihr dabei wart. Vielen, vielen Dank fürs Zuschauen. Und ich glaube, ich kann für uns beide sprechen, wenn ich sage, dass wir uns freuen, euch im nächsten Video wieder zu sehen. Und bis dahin. Jam out.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7482
+  "src": "auto"
  },
  "xnROCttQjLI": {
   "channel": "Kathrin Shechtman (Story Listening)",
@@ -11653,7 +11686,7 @@
  "yrFYrElUcUs": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-05T16:09:41+00:00",
+  "checked": "2026-11-11T15:29:02+00:00",
   "title": "Genau wie Papa | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3496,
   "published": "20260802",
@@ -11661,73 +11694,10 @@
   "spoken_v": 2,
   "pace": 116.1,
   "rare": 0.1075,
+  "var": 0.8406,
   "speech_s": 3013.7,
   "tokens": 5833,
   "kw": [
-   [
-    "rosy",
-    "Ich gehe nachher mit Rosy einkaufen.",
-    14,
-    19,
-    2.32,
-    48
-   ],
-   [
-    "papi",
-    "Was machst du da, Papi? Ich schreibe eine Liste von allen",
-    7,
-    14,
-    3.27,
-    39
-   ],
-   [
-    "mami",
-    "Danke sehr, Mami. Kaju liebte es genau dasselbe wie sein",
-    41,
-    50,
-    3.61,
-    44
-   ],
-   [
-    "rosi",
-    "Rosi auch. Ros spielen. ",
-    300,
-    308,
-    3.09,
-    18
-   ],
-   [
-    "spieldose",
-    "Spieldose, als ich noch klein war.",
-    3125,
-    3130,
-    2.07,
-    10
-   ],
-   [
-    "kau",
-    "Komm, beeil dich, Kau. Wir wollen jetzt",
-    1072,
-    1077,
-    2.96,
-    12
-   ],
-   [
-    "hinkel",
-    "Hallo, Mr. Hinkel. Hallo, Jungs. Ich habe gerade einen",
-    671,
-    678,
-    2.52,
-    8
-   ],
-   [
-    "hundebaby",
-    "Ein Hundebaby. Ein Z 3.",
-    2686,
-    2696,
-    2.08,
-    6
-   ],
    [
     "spielen",
     "Rosi auch. Ros spielen. ",
@@ -11761,42 +11731,138 @@
     21
    ],
    [
-    "komm",
-    "dann komm mit. ",
-    255,
-    268,
-    4.91,
-    18
+    "guck",
+    "Guck, jetzt rasiere ich mich auch.",
+    147,
+    153,
+    4.37,
+    15
    ],
    [
-    "hast",
-    "Hier hast du deinen ganz persönlichen",
-    37,
+    "karten",
+    "Tady, weißt du, wo meine Karten sind?",
+    2087,
+    2093,
+    4.74,
+    8
+   ],
+   [
+    "mochte",
+    "K mochte seinen neuen Schneeanzug jetzt",
+    1422,
+    1427,
+    4.23,
+    8
+   ],
+   [
+    "begeistert",
+    "Kayu war begeistert. Er und sein bester",
+    429,
+    434,
+    4.52,
+    6
+   ],
+   [
+    "mami",
+    "Danke sehr, Mami. Kaju liebte es genau dasselbe wie sein",
     41,
-    5.75,
+    50,
+    3.61,
+    44
+   ],
+   [
+    "kaninchen",
+    "Mami, Mami, ein Kaninchen. Draußen ist ein Kaninchen und es hat",
+    950,
+    956,
+    3.94,
+    10
+   ],
+   [
+    "wiedersehen",
+    "Wiedersehen. Wiedersehen, mein Hase. Wir sind bald",
+    76,
+    84,
+    4.11,
+    9
+   ],
+   [
+    "geräusch",
+    "Was ist das für ein Geräusch? Das sind",
+    1981,
+    1985,
+    3.93,
+    6
+   ],
+   [
+    "papi",
+    "Was machst du da, Papi? Ich schreibe eine Liste von allen",
+    7,
+    14,
+    3.27,
+    39
+   ],
+   [
+    "rosi",
+    "Rosi auch. Ros spielen. ",
+    300,
+    308,
+    3.09,
     18
    ],
    [
-    "wollte",
-    "Kayu wollte genau das gleiche wie sein",
-    239,
-    245,
-    5.5,
-    17
+    "gilbert",
+    "Nicht Gilbert. Gib das sofort wieder her.",
+    86,
+    95,
+    3.58,
+    14
    ],
    [
-    "vielleicht",
-    "Der Kaffee ist vielleicht noch ein",
-    32,
-    38,
-    5.72,
-    17
+    "bagger",
+    "ein Bagger. Diese mächtigen Bagger faszinierten",
+    2297,
+    2305,
+    3.46,
+    13
+   ],
+   [
+    "rosy",
+    "Ich gehe nachher mit Rosy einkaufen.",
+    14,
+    19,
+    2.32,
+    48
+   ],
+   [
+    "kau",
+    "Komm, beeil dich, Kau. Wir wollen jetzt",
+    1072,
+    1077,
+    2.96,
+    12
+   ],
+   [
+    "spieldose",
+    "Spieldose, als ich noch klein war.",
+    3125,
+    3130,
+    2.07,
+    10
+   ],
+   [
+    "hinkel",
+    "Hallo, Mr. Hinkel. Hallo, Jungs. Ich habe gerade einen",
+    671,
+    678,
+    2.52,
+    8
    ]
   ],
-  "tx": "Bie bie. Was machst du da, Papi? Ich schreibe eine Liste von allen Sachen, die ich heute erledigen will. Was für Sachen? Ich gehe nachher mit Rosy einkaufen. Willst du mitkommen, Ku? Nein, ich will hier bei Papi bleiben. Danke sehr. Ich möchte auch Kaffee haben. Der Kaffee ist vielleicht noch ein bisschen zu stark für dich, Kaju. Hier hast du deinen ganz persönlichen Becher. Stell dir einfach vor, es ist Kaffee drin. Danke sehr, Mami. Kaju liebte es genau dasselbe wie sein Papi zu machen. Oh. Oh, schon so spät. Jetzt muss ich aber loslegen, Papi. Halt, lass mich noch mal kurz einen Blick auf die Liste werfen. Hm, dies herrichten und das. Ah, da muss ich noch etwas ergänzen. Mittagessen machen. So, jetzt kannst du die Liste Papi geben. K. Ja, gut. Wiedersehen. Wiedersehen, mein Hase. Wir sind bald wieder da. Alles klar. Nicht Gilbert. Gib das sofort wieder her. Hier schau mal, Gilbert, ist alles in Ordnung da unten? Kaju fand, dass das Gesicht von seinem Papi sehr komisch aussah. Tu auf mein Gesicht auch so Schaum, Papi. Dann hol mal deinen Tritt her. So, und was jetzt, Papi? Das kitzelt. Das sieht lustig aus. Also gut. Und was jetzt, Papi, du kannst das hier nehmen, um den Schaum abzuwischen. Guck, jetzt rasiere ich mich auch. Hey, machst du mir etwa alles nach, Gilbert? Lass das. Hey, wisch erstmal dein Gesicht ab, bevor du davon dühst. Aber Gilbert hat doch gerade nur keine Panik. Du kannst das alles nachher erledigen. Aber seine Mami hatte Kaju doch gebeten, diese Liste seinem Papi zu geben. Hier. Genau das brauchen wir. Siehst du das? Ich glaube, das Stück, das du hast, passt da genau rein. Wir werden es wieder festkleben. Kann ich das machen? ganz vorsichtig drücken. Kaju war stolz, dass er seinem Vater helfen konnte. Gesundheit. Der Stuhl ist vielleicht staubig. W",
+  "tx": "Bie bie. Was machst du da, Papi? Ich schreibe eine Liste von allen Sachen, die ich heute erledigen will. Was für Sachen? Ich gehe nachher mit Rosy einkaufen. Willst du mitkommen, Ku? Nein, ich will hier bei Papi bleiben. Danke sehr. Ich möchte auch Kaffee haben. Der Kaffee ist vielleicht noch ein bisschen zu stark für dich, Kaju. Hier hast du deinen ganz persönlichen Becher. Stell dir einfach vor, es ist Kaffee drin. Danke sehr, Mami. Kaju liebte es genau dasselbe wie sein Papi zu machen. Oh. Oh, schon so spät. Jetzt muss ich aber loslegen, Papi. Halt, lass mich noch mal kurz einen Blick auf … Nein, meine. Alles klar, machen zur Landung. Ich werde jetzt auch landen. Hier, das ist unsere Raumstation. Als Rosy sah, welchen Spaß CU und Leo hatten, wollte sie auch mitspielen. Oh, Ros! Nein, Papi, das hat sie bestimmt nicht mit Absicht gemacht. Rosi spielen. Oh nein, Rosi. Jetzt wurde es Kaju zu viel. Er wusste zwar, dass Rosy nur helfen wollte, aber sie machte alles kaputt. Das geht nicht, Papi. Ros darf nicht mit uns Raumstation spielen. Na schön, vielleicht ist Rosy noch zu klein, um euch bei der Raumstation zu helfen. Rosy, wollen wir beide Ball spielen? Bald spielen? Na gut, … anlegen. 5 4 3 2 1 und Start! Und so flogen Leo Cu und Rosie mit ihrem Raketenflugzeug und der Raketenflugzeug fahne ab in den Weltraum. Teddy hat Hunger, Mami. Oh, Rosi auch Hunger. Das Essen ist noch nicht fertig. Ihr müsst noch ein paar Minuten warten. Eine Minute, 2 Minuten, 3 Minuten ist das Essen jetzt fertig? Jetzt fertig. Wie wä es denn, wenn ihr mir rasch zwei Karotten aus dem Garten holt? Daraus mache ich Häschenkarotten. Die könnt ihr mümeln, während ihr wartet. Ja, Hächen Hächen Karotten. Cou und Rosy gingen raus zum Gemüsegarten, wo die Karotten wachsen. … Nein, wir waren zwar schneller, aber Mami und Rosy waren mit ihrem Schlitten zuerst unten. Komm, steh auf, Papi. Gleich noch mal. Ich will gewinnen. Da ist ein Hund. Können wir uns den ansehen? Na klar, den gucken wir uns an. Kaju hatte noch nie einen Hund gesehen, der einen Schlitten zog. Er war beeindruckt, wie genau der Hund den Befehlen gehorchte. Also, das wär es dann für heute, Leute. Nadu, wie heißt du denn? K. Ich bin Tom und das ist Shinuk. Er ist ein Schlittenhund und mag Schnee sehr gern. K war begeistert von Shinuk. Siehst du, Shinuks Fell ist genauso wie dein Schneeanzug. … neuen Tanz erfunden. Weil du so ein ausgezeichneter Tänzer bist, gewinnst du hiermit den ersten Preis. Hallo, wir sind im Wohnzimmer, Schatz. Hallo, ihr zwei. Sieht so aus, als ob hier jemand eine Tanzstunde bekommt. Omi hat mir das beigebracht. Ausgezeichnet. Das ist Mami. Halli hallo ihr Lieben. Zum Glück hat es endlich aufgehört zu regnen. K hatte die Tanzerei so viel Spaß gemacht, dass er gar nicht gemerkt hatte, dass es nicht mehr regnete. Guck mal, ich habe den ersten Preis fürs Tanzen bekommen. Rosi auch. Darf ich um den nächsten Tanz bitten? Kayu machte mit seinem Vater und … an dem wärmenden Feuer zu sitzen und Kaju war sicher, dass sein nasser Dinosaurier das auch mochte. Was ist das für ein Geräusch? Das sind Grillen. Das Lied der Grillen war sehr einschläfernd und es dauerte auch gar nicht lange, bis Kai müde wurde. Ich glaube, wir müssen dich ins Bett bringen. Nein, ich bin nicht müde. Gut, das Beste kommt nämlich erst noch. Das Rösten von Marshmallows war meine Lieblingsbeschäftigung, als ich als kleiner Junge hier war. Meine auch. Kayu beobachtete gern, wie sich die Form der Marshmallows veränderte. Darf ich bitte noch ein für Opi machen und ein für … ein Bagger zu sein, dass er alles um sich herum vergaß. Aber das gefiel nicht jedem. Ciao Ku. Kayu dachte, dass Rosy auch Bagger spielen wollte. Deshalb merkte er nicht, dass Rosy ihm eigentlich ihren schönen Turm zeigen wollte. Nein, Kaju, guck mal, Rosi. Bagger können aber auch beim Bauen helfen. Und bald baute Rosy ihren Turm allein weiter auf und Kau der Bagger, musste sich eine neue Arbeit suchen. Danke sehr. Ich muss in den Garten und Laubbrechen. Ich brauche dringend einen Bagger, der mir hilft. Willst du mitkommen? Ja. Eine Arbeit für einen Bagger. K war schwer begeistert. Er … lustig. Die sind ganz aufgeregt, weil sie mit dir spielen wollen. Oh, wo ist das Hundebaby mit dem Fleck geblieben, Mr. Hinkel? Es kann nicht weit weg sein. Bestimmt versteckt es sich. Dann werde ich es mal suchen. Viel Spaß. Wo bist du Kau? Machte es unheimlich Spaß mit dem Welpen zu spielen. Deshalb vergaß er ganz den anderen zu suchen. Aber dann fiel es ihm wieder ein. Wo ist denn dein Baby mit dem Fleck? Das ist doch kein Hundebaby, das ist ein Ball. Wo bist du? Ich kann das Hundebaby einfach nicht finden. Mr. Hinkel, mach dir keine Sorgen. Seine Mami passt immer gut auf ihre kleinen … meinem Mantel verhädert? Ich weiß nicht. Was machst du denn da, Mami? Ich will diese Sachen nach oben auf den Speicher tragen. Ich will dir helfen. Das ist nett. Du darfst diesen Hut tragen. Danke, Ku. K ging gern auf den Speicher, weil der voller Überraschung war. Guck mal, Mami, was für eine Überraschung. Die habe ich ja schon völlig vergessen. Das war meine Spieldose, als ich noch klein war. Killu mochte die Musik, die die Spieldose machte. Oh, und das war mein Lieblingssteddybär. Aber der arme Bär hat ein Loch im Kopf. Das werden wir gleich beheben. Hm. So, und jetzt ist da ein … konnte. Hast du den Dinosaurier schon gefunden? Dinosaurier? Ich habe gedacht, das war ein Monster. Vielleicht war es auch ein Raumschiff. Ein Monster? Ein Dinosaurier, ein Raumschiff? Was kann denn nur solche Geräusche machen? Los, komm mit, Mami. Konnte es einfach nicht glauben. Niemand war im Zimmer außer Gilbert. Aber wie hätte Gilbert solche Geräusche machen sollen? Natürlich, das ist ja ein altes Babyspielzeug von Rosy. Gilbert muss es sich aus der Spielzeugkiste im Badezimmer geholt haben. Tja, jetzt wissen wir endlich, was gequetscht, gerasselt und auch gepocht hat, nicht wahr? Das",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8351
+  "src": "auto"
  },
  "XVHltpZj9Wo": {
   "channel": "tagesschau",
@@ -11949,7 +12015,7 @@
  "AxGUGDQaFyQ": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-06T02:24:32+00:00",
+  "checked": "2026-11-11T15:19:10+00:00",
   "title": "Can You Guess the Fictional Character? // Play Games and Learn German│Total Beginner German",
   "duration": 647,
   "published": "20220416",
@@ -11957,73 +12023,10 @@
   "spoken_v": 2,
   "pace": 67.3,
   "rare": 0.0268,
+  "var": 0.4777,
   "speech_s": 631.0,
   "tokens": 708,
   "kw": [
-   [
-    "zaubern",
-    "sie kann zaubern sie kann zaubern",
-    433,
-    445,
-    3.68,
-    5
-   ],
-   [
-    "granger",
-    "granger auf deutsch hermine granger von",
-    469,
-    480,
-    2.67,
-    2
-   ],
-   [
-    "spinat",
-    "stark weil er ganz ganz viel spinat",
-    545,
-    560,
-    3.41,
-    3
-   ],
-   [
-    "erraten",
-    "erraten viel spaß ",
-    13,
-    21,
-    3.55,
-    3
-   ],
-   [
-    "donuts",
-    "liebt donuts er ist donuts sehr gerne der mann arbeitet in",
-    222,
-    234,
-    3.06,
-    2
-   ],
-   [
-    "bumm",
-    "um bumm bumm erfährt eine rosa das auto",
-    164,
-    171,
-    3.21,
-    2
-   ],
-   [
-    "hermine",
-    "klar die zweite person heißt hermine",
-    464,
-    474,
-    3.3,
-    2
-   ],
-   [
-    "tattoo",
-    "tattoo er hat ein tattoo auf dem arm er",
-    508,
-    518,
-    3.78,
-    3
-   ],
    [
     "mann",
     "erste person ist ein mann die person ist",
@@ -12065,39 +12068,111 @@
     7
    ],
    [
-    "freunde",
-    "beste freunde zwei",
-    345,
-    356,
-    5.18,
-    6
-   ],
-   [
-    "zweite",
-    "zweite die zweite person die zweite",
-    274,
-    287,
-    5.14,
-    5
-   ],
-   [
     "liest",
     "liest die frau liest sehr viel die frau",
     331,
     342,
     4.56,
     5
+   ],
+   [
+    "liebt",
+    "ein baby der mann liebt er liebt bier",
+    120,
+    128,
+    4.55,
+    4
+   ],
+   [
+    "rosa",
+    "auto ist rosa obwohl das ist pink das",
+    141,
+    151,
+    4.37,
+    4
+   ],
+   [
+    "zaubern",
+    "sie kann zaubern sie kann zaubern",
+    433,
+    445,
+    3.68,
+    5
+   ],
+   [
+    "nachbar",
+    "wohnt der nachbar der nachbar von der",
+    199,
+    211,
+    4.13,
+    4
+   ],
+   [
+    "braune",
+    "lange braune braune braune haare sie hat lange braune",
+    312,
+    324,
+    4.0,
+    4
+   ],
+   [
+    "tattoo",
+    "tattoo er hat ein tattoo auf dem arm er",
+    508,
+    518,
+    3.78,
+    3
+   ],
+   [
+    "erraten",
+    "erraten viel spaß ",
+    13,
+    21,
+    3.55,
+    3
+   ],
+   [
+    "spinat",
+    "stark weil er ganz ganz viel spinat",
+    545,
+    560,
+    3.41,
+    3
+   ],
+   [
+    "seemann",
+    "der mann ist ein seemann der mann",
+    517,
+    527,
+    3.44,
+    2
+   ],
+   [
+    "hermine",
+    "klar die zweite person heißt hermine",
+    464,
+    474,
+    3.3,
+    2
+   ],
+   [
+    "granger",
+    "granger auf deutsch hermine granger von",
+    469,
+    480,
+    2.67,
+    2
    ]
   ],
-  "tx": "hallo willkommen bei natürlich german könnt ihr die person erraten viel spaß erste person die erste person ist ein mann die person ist ein mann der mann ist ein bisschen dick der mann ist ein bisschen dick er hat einen dicken bauch der bauch der bauch ist dick der mann ist auch sehr faul der mann ist sehr sehr faul der mann hat keine haare der mann hat keine haare oder okay er hat nur sehr wenig sehr wenig haare er hat nicht viele viele haare sehr sehr sehr wenige wenige haare der mann ist verheiratet der mann hat eine frau der mann hat eine frau und sie haben drei kinder 123 sie haben drei kinder ein kind ist ein baby das eine kind ist ein baby der mann liebt er liebt bier der mann liebt bier trinkt sehr sehr viel bier der mann hat auch ein auto er hat ein auto und das auto ist rosa obwohl das ist pink das spm das ist auch pink das ist rosa ja dass hier und hier das ist rosa und der mann fährt um bumm bumm erfährt eine rosa das auto die familie die familie hat auch einen hund und eine katze die familie hat zwei haustiere einen hund und eine katze hier in dem haus wohnt die familie und neben dem haus hier wohnt der nachbar der nachbar von der familie und der mann der mann hasst er hasst seinen nachbar er mag die nicht nein er mag ihn nicht der mann liebt donuts er ist donuts sehr gerne der mann arbeitet in einem atomkraftwerk der mann hat nur vier er hat nur vier finger 1234 und der mann und seine frau und seine kinder und sein nachbar sind gelb sie sind gelb wer wer ist die erste die erste person wer die erste person ist homer simpson okay die zweite die zweite person die zweite person ist eine frau es ist eine frau es ist eine junge frau sie ist nicht alt sie ist jung sie ist unter 30 jahre alt die frau ist jung sie ist unter 30 jahre alt sie hat lange sie hat lange b",
+  "tx": "hallo willkommen bei natürlich german könnt ihr die person erraten viel spaß erste person die erste person ist ein mann die person ist ein mann der mann ist ein bisschen dick der mann ist ein bisschen dick er hat einen dicken bauch der bauch der bauch ist dick der mann ist auch sehr faul der mann ist sehr sehr faul der mann hat keine haare der mann hat keine haare oder okay er hat nur sehr wenig sehr wenig haare er hat nicht viele viele haare sehr sehr sehr wenige wenige haare der mann ist verheiratet der mann hat eine frau der mann hat eine frau und sie haben drei kinder 123 sie haben drei kinder ein kind ist ein baby das eine kind ist ein baby der mann liebt er liebt bier der mann liebt bier trinkt sehr sehr viel bier der mann hat auch ein auto er hat ein auto und das auto ist rosa obwohl das ist pink das spm das ist auch pink das ist rosa ja dass hier und hier das ist rosa und der mann fährt um bumm bumm erfährt eine rosa das auto die familie die familie hat auch einen hund und eine katze die familie hat zwei haustiere einen hund und eine katze hier in dem haus wohnt die familie und neben dem haus hier wohnt der nachbar der nachbar von der familie und der mann der mann hasst er hasst seinen nachbar er mag die nicht nein er mag ihn nicht der mann liebt donuts er ist donuts sehr gerne der mann arbeitet in einem atomkraftwerk der mann hat nur vier er hat nur vier finger 1234 und der mann und seine frau und seine kinder und sein nachbar sind gelb sie sind gelb wer wer ist die erste die erste person wer die erste person ist homer simpson okay die zweite die zweite person die zweite person ist eine frau es ist eine frau es ist eine junge frau sie ist nicht alt sie ist jung sie ist unter 30 jahre alt die frau ist jung sie ist unter 30 jahre alt sie hat lange sie hat lange braune braune braune haare sie hat lange braune gewellte haare die frau ist sehr sehr klug sie ist sehr klug die frau liest die frau liest sehr viel die frau liest viele bücher die frau liest viele bücher die frau hat zwei beste freunde zwei freunde das sind ihre besten freunde die frau geht sie geht zu einer schule das ist das ist eine schule aber diese schule ist sehr besonders sehr speziell ja die frau geht mit ihren freunden zu einer zellen schule und in der schule ist sie sehr gut sie ist sehr gut in der schule die schule hat eine bibliothek und die frau ist sehr oft sehr oft immer wieder und wieder wieder und wieder sie ist sehr oft in der bibliothek und liest oder sie sie lernt sie lernt die frau ist eine hexe die frau ist eine hexe sie kann zaubern sie kann zaubern abrakadabra sie kann zaubern auch ihre freunde können zaubern ihre freunde können auch zaubern und ihre freunde heißen harry und ron wer ist die zweite person und klar die zweite person heißt hermine granger auf deutsch hermine granger von den büchern und den filmen harry potter und die dritte person die dritte person ist ein mann es ist ein mann der mann ist sehr sehr stark er ist sehr stark er trägt er trägt eine mütze er trägt eine mütze er hat ein tattoo er hat ein tattoo auf dem arm er hat ein tattoo auf der mann ist ein seemann der mann braucht der mann raucht pfeife und warum warum ist der mann so stark warum ist der mann so stark weil er ganz ganz viel spinat ist der mann ist sehr sehr viel spinat er ist sehr viel spinat wer wer ist diese person die dritte person ist pop popeye der seemann welche welche person welche person habt ihr erraten nummer 1 nummer 2 nummer drei oder alle drei personen welche personen habt ihr richtig richtig erraten schreibt es unten in den kommentaren wenn euch das video das video gefallen hat dann drückt drückt auf den daumen nach oben alles klar bis dann zu",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.4774
+  "src": "auto"
  },
  "_0LDtzBNzj4": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-06T02:24:45+00:00",
+  "checked": "2026-11-11T15:20:41+00:00",
   "title": "Can you follow along? | learn German with a comprehensible picture desciption A2/B1",
   "duration": 691,
   "published": "20260315",
@@ -12105,73 +12180,10 @@
   "spoken_v": 2,
   "pace": 106.5,
   "rare": 0.0444,
+  "var": 0.7188,
   "speech_s": 684.6,
   "tokens": 1215,
   "kw": [
-   [
-    "schwimmweste",
-    "an. Schwimmweste oder eine Rettungsweste,",
-    55,
-    62,
-    2.35,
-    3
-   ],
-   [
-    "ziege",
-    "Ziege, sie ist sehr neugierig. H, was",
-    331,
-    338,
-    3.52,
-    5
-   ],
-   [
-    "matrose",
-    "ist ein Matrose wahrscheinlich. Und er erklärt, worauf die Kinder achten",
-    169,
-    179,
-    2.9,
-    3
-   ],
-   [
-    "waschbär",
-    "Vielleicht hat das Kind den Waschbär",
-    212,
-    220,
-    3.01,
-    3
-   ],
-   [
-    "schweine",
-    "Hier gibt es nämlich noch mehr Schweine.",
-    383,
-    391,
-    4.02,
-    8
-   ],
-   [
-    "schwimmwesten",
-    "Sie haben alle orangene Schwimmwesten an. Schwimmweste oder eine",
-    50,
-    61,
-    2.38,
-    2
-   ],
-   [
-    "angelt",
-    "Er sitzt auf einem Steg und er angelt.",
-    282,
-    293,
-    2.55,
-    2
-   ],
-   [
-    "klappstuhl",
-    "oder einem Strandstuhl. Klappstuhl, wir können Klappstuhl sagen und liest eine",
-    346,
-    357,
-    2.59,
-    2
-   ],
    [
     "weiss",
     "",
@@ -12197,14 +12209,6 @@
     7
    ],
    [
-    "kind",
-    "sie passen nicht auf und dieses Kind",
-    192,
-    197,
-    5.27,
-    7
-   ],
-   [
     "glaube",
     "Und sie essen, ich glaube, das sind",
     64,
@@ -12221,31 +12225,135 @@
     6
    ],
    [
-    "person",
-    "wir ähm die Person retten. Hier oben ist",
-    117,
-    130,
-    5.29,
+    "boot",
+    "gibt es ein kleines Boot und auf den Schiffen ist viel los. Hier",
+    30,
+    43,
+    4.52,
     6
    ],
    [
-    "hund",
-    "Hier hinten ist ein Hund. Der Hund hat",
-    150,
-    159,
-    4.86,
-    6
+    "pferd",
+    "Pony, ein kleines Pferd und die Frau",
+    468,
+    476,
+    4.43,
+    5
+   ],
+   [
+    "baum",
+    "einen Baum. Der Junge sitzt unter dem",
+    310,
+    319,
+    4.62,
+    4
+   ],
+   [
+    "schweine",
+    "Hier gibt es nämlich noch mehr Schweine.",
+    383,
+    391,
+    4.02,
+    8
+   ],
+   [
+    "schwein",
+    "Schwein an der Leine. Es ist kein Hund,",
+    369,
+    376,
+    4.11,
+    4
+   ],
+   [
+    "huhn",
+    "Er angelt nach Fischen und das Huhn, das",
+    287,
+    296,
+    3.79,
+    4
+   ],
+   [
+    "pony",
+    "Pony, ein kleines Pferd und die Frau",
+    468,
+    476,
+    3.65,
+    4
+   ],
+   [
+    "ziege",
+    "Ziege, sie ist sehr neugierig. H, was",
+    331,
+    338,
+    3.52,
+    5
+   ],
+   [
+    "traktor",
+    "auf dem Wagen. Der Traktor hat einen",
+    478,
+    486,
+    3.56,
+    3
+   ],
+   [
+    "winkt",
+    "Vater, er winkt jemandem. Ich weiß nicht, ob er die Mädchen winkt",
+    74,
+    85,
+    3.53,
+    3
+   ],
+   [
+    "klettert",
+    "auch nicht. Das Kind klettert auf dem",
+    194,
+    201,
+    3.37,
+    3
+   ],
+   [
+    "matrose",
+    "ist ein Matrose wahrscheinlich. Und er erklärt, worauf die Kinder achten",
+    169,
+    179,
+    2.9,
+    3
+   ],
+   [
+    "schwimmweste",
+    "an. Schwimmweste oder eine Rettungsweste,",
+    55,
+    62,
+    2.35,
+    3
+   ],
+   [
+    "klappstuhl",
+    "oder einem Strandstuhl. Klappstuhl, wir können Klappstuhl sagen und liest eine",
+    346,
+    357,
+    2.59,
+    2
+   ],
+   [
+    "angelt",
+    "Er sitzt auf einem Steg und er angelt.",
+    282,
+    293,
+    2.55,
+    2
    ]
   ],
-  "tx": "Es gibt ein neues Wimmelbild. Heute schauen wir uns dieses Bild an und lernen viele neue Wörter. Was können wir auf diesem Bild entdecken? Hier gibt es ein großes Schiff und hier gibt es ein kleines Boot und auf den Schiffen ist viel los. Hier auf dem kleinen Boot haben wir eine Familie. Ich denke, es ist eine Familie, ein Vater, eine Mutter und drei Kinder. Sie haben alle orangene Schwimmwesten an. Schwimmweste oder eine Rettungsweste, aber normalerweise sagen wir Schwimmweste. Und sie essen, ich glaube, das sind Spaghetti. Sie essen gerade zu Mittag, sie haben leckere Spaghetti und der Vater, er winkt jemandem. Ich weiß nicht, ob er die Mädchen winkt oder der alten Frau oder dem Papagei. Wem winkt der Vater? Ich weiß es nicht. Na ja, auf dem großen Schiff oder auf dem großen Boot, ich glaube, es ist ein Ausflugsboot und manche Personen haben auch hier Schwimmwesten oder Rettungswesten an, aber nicht alle. Diese Frau hat keine, diese Frau hat keine, der Mann auch nicht. Und hier gibt es Rettungsringe. Wenn jemand in das Wasser fällt, können wir ähm die Person retten. Hier oben ist der Kapitän und er fährt das Boot. Die alte Frau hat eine Kamera oder einen Fotoapparat und sie fotografiert etwas. Ich weiß nicht, was sie gesehen hat. Wer ist noch auf dem Schiff? Es gibt Vögel. Das hier sind Möwen. Das ist ein Papagei. Hier hinten ist ein Hund. Der Hund hat auch eine Schwimmweste an und er hört die Matrosen zu. Das ist eine Person ähm, die auf dem Schiff arbeitet. Es ist kein Kapitän, aber er arbeitet und er ist ein Matrose wahrscheinlich. Und er erklärt, worauf die Kinder achten müssen. Er sagt: \"Vorsichtig, fallt nicht runter, passt gut auf.\" Genau. Und der Hund hört auch gut zu. Aber die erwachsenen Personen hier drin, sie passen nicht auf und dieses Kind auch nicht. Da",
+  "tx": "Es gibt ein neues Wimmelbild. Heute schauen wir uns dieses Bild an und lernen viele neue Wörter. Was können wir auf diesem Bild entdecken? Hier gibt es ein großes Schiff und hier gibt es ein kleines Boot und auf den Schiffen ist viel los. Hier auf dem kleinen Boot haben wir eine Familie. Ich denke, es ist eine Familie, ein Vater, eine Mutter und drei Kinder. Sie haben alle orangene Schwimmwesten an. Schwimmweste oder eine Rettungsweste, aber normalerweise sagen wir Schwimmweste. Und sie essen, ich glaube, das sind Spaghetti. Sie essen gerade zu Mittag, sie haben leckere Spaghetti und der … Papagei. Wem winkt der Vater? Ich weiß es nicht. Na ja, auf dem großen Schiff oder auf dem großen Boot, ich glaube, es ist ein Ausflugsboot und manche Personen haben auch hier Schwimmwesten oder Rettungswesten an, aber nicht alle. Diese Frau hat keine, diese Frau hat keine, der Mann auch nicht. Und hier gibt es Rettungsringe. Wenn jemand in das Wasser fällt, können wir ähm die Person retten. Hier oben ist der Kapitän und er fährt das Boot. Die alte Frau hat eine Kamera oder einen Fotoapparat und sie fotografiert etwas. Ich weiß nicht, was sie gesehen hat. Wer ist noch auf dem Schiff? Es … auch eine Schwimmweste an und er hört die Matrosen zu. Das ist eine Person ähm, die auf dem Schiff arbeitet. Es ist kein Kapitän, aber er arbeitet und er ist ein Matrose wahrscheinlich. Und er erklärt, worauf die Kinder achten müssen. Er sagt: \"Vorsichtig, fallt nicht runter, passt gut auf.\" Genau. Und der Hund hört auch gut zu. Aber die erwachsenen Personen hier drin, sie passen nicht auf und dieses Kind auch nicht. Das Kind klettert auf dem auf das Dach. Das ist keine gute Idee. Der Matrose hat bestimmt gesagt: \"Nein, nicht klettern.\" Und das Kind klettert trotzdem. Warum klettert das Kind … und der Waschbär sitzt auf dem Dach. Genau. Hier unten gibt es noch eine Person und diese Person arbeitet auch auf dem Schiff. Das ist auch ein Matrose. Und er hat gebacken, ich glaube, ah, das sind die Bretzeln hier. Schau mal, auf der Flagge ist eine Bretzel und hier sind die Bretzeln. Aber sie sind alle schwarz, sie sind verbrannt, sie sind nicht gut geworden. Sie wurden zu lange gebacken und jetzt sind sie kaputt. Jetzt sind sie verbrannt. Es gibt sehr viel Rauch überall. Deshalb sind die Fenster offen, damit der Rauch nach draußen kann. Also auf dem Wasser, auf dem Fluss gibt es ein … Steg und er angelt. Er angelt nach Fischen und das Huhn, das Huhn hat schon etwas gefunden. Das Huhn hat einen Wurm gefunden. Die Würmer sind eigentlich für die Fische, aber das Huhn mag die Würmer auch. Dann haben wir hier eine Treppe und einen Baum. Der Junge sitzt unter dem Baum. Und was macht er? Hat er ein Handy oder ein iPad oder so und spielt. Vielleicht ist es auch ein Buch, aber ich glaube, es ist ich glaube es ist irgendwie ein Tablet oder so. Und die Ziege, sie ist sehr neugierig. H, was machst du? Was machst du? Die Ziege will wissen, was der Junge macht. Sie will schauen. Diese … sagen und liest eine Zeitschrift. Sind das Märchen? Es sieht aus wie der Froschkönig. Genau. Und sie entspannt sich. Sie hat hier leckere Getränke und ich weiß nicht warum, sie hat ein Schwein an der Leine. Es ist kein Hund, es ist ein Schwein. Das ist sehr komisch. Ich glaube, das Schwein will zu diesen Schweinen gehen. Hier gibt es nämlich noch mehr Schweine. Es ist ein Bauernhof und wir haben hier Schweine. Eigentlich eigentlich leben die Schweine hier, aber die Türe ist offen und die Schweine sind nach draußen gegangen. Die Schweine sind in den Garten gegangen und jetzt essen sie die … alte Frau kommt gerannt, sie sieht die Schweine und sagt: \"Nein, halt stopp, Schweine, geht zurück nach Hause, esst nicht in meinem Garten.\" Und hier kommt ein Mann mit einem kleinen Auto. Will er den Waschbär fangen oder will er nur putzen? Ist das ein Mann, der putzt oder ist das ein Mann, der ein Waschbeeren fängt? Ha, ich weiß es nicht genau. Ich bin mir nicht sicher. Dann haben wir also auf dem Bauernhof gibt es Schweine und dann gibt es auch Hühner und einen Hund. Der Hund schläft in seiner Hundehütte. Hier drüben gibt es auch ein kleines Pony, ein kleines Pferd und die Frau geht mit … einen Anhänger, einen Wagen und oben drauf sind die Kinder und eine Ziege. Tatsächlich. Ganz hier drüben gibt es noch mehr Ziegen. Diese Ziege haben wir schon gesehen und hier gibt es noch mehr Ziegen. Hier gibt es noch ein Pferd. Das ist kein Pony. Ein Pony ist ein kleines Pferd und das ist ein großes Pferd. Und was ist das? Das ist eine Kuh. Also, das ist der Stall mit dem Pferd und der Kuh. Hinter dem Stall sind noch einmal Vögel. Weißt du, wie diese Vögel heißen? Das sind Störche. Und die Störche sind auf dem Feld und suchen nach Essen. Das sind die Tiere auf dem Bauernhof. Und was ist … gebaut. Es gibt eine lange Leiter bis in den Baum und dann haben wir hier Bretter und die Kinder können auf dem Brett sitzen. Das eine Kind ist Das Kind hat ein Kleid. Es sieht aus wie eine Tänzerin, wie eine Ballerina. Und dieser Junge, er wirft etwas. Er wirft einen Apfel. Wen will er abwerfen? Will er den Apfel auf das Schwein werfen? Will er den Apfel auf das Schiff werfen? Oder vielleicht einfach weit? Kann ich weiter werfen als du? Ich weiß es nicht genau. Wir haben gesagt, diese Kinder machen einen Ausflug mit dem Traktor. Der Bauer fährt den Traktor und er transportiert die … Bis nachher.\" Genau. Und dann gibt es noch die Leute hier oben. Dieser Mann ers sich. Er macht auch Pause und hat sich auf das Dach gelegt, auf den Stall. Und er genießt die Sonne. Er hört Musik. Er hat etwas zu trinken und macht Pause. Was diese Person macht, weiß ich nicht. Sie schaut aus dem Fenster. Ja, keine Ahnung, was sie macht. Hast du noch etwas entdeckt oder war das alles? Ich hoffe, dieses Video hat dir gefallen. Bitte gib dem Video einen Daumen nach oben, teile es mit deinen Freunden und ich wünsche dir viel Spaß beim Deutsch lernen. Mach's gut. Tschüss. Conto material German.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7378
+  "src": "auto"
  },
  "nvBx3QgKBKM": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-06T02:25:34+00:00",
+  "checked": "2026-11-11T15:28:17+00:00",
   "title": "Gruntys Grummeltag | Miffy | Ganze Folge",
   "duration": 1081,
   "published": "20260726",
@@ -12253,73 +12361,10 @@
   "spoken_v": 2,
   "pace": 117.6,
   "rare": 0.0817,
+  "var": 0.8039,
   "speech_s": 985.8,
   "tokens": 1933,
   "kw": [
-   [
-    "vatertag",
-    "Jemand feiert Vatertag. Papa. Mhm, so, fertig. Mama, Mama, ich bin",
-    736,
-    747,
-    3.01,
-    13
-   ],
-   [
-    "zahnfee",
-    "Jetzt kannst du ihn für die Zahnfee",
-    259,
-    264,
-    2.55,
-    6
-   ],
-   [
-    "äffchen",
-    "Vier kleine Äffchen haben Spaß. Äffchen",
-    211,
-    217,
-    2.76,
-    6
-   ],
-   [
-    "spielhaus",
-    "Spielhaus? Spielhaus!",
-    10,
-    15,
-    2.41,
-    4
-   ],
-   [
-    "funkgerät",
-    "Ich hab's. Das Funkgerät. Entschuldigung.",
-    602,
-    610,
-    2.89,
-    4
-   ],
-   [
-    "juhu",
-    "Juhu! Bis morgen, Kinder. Bis dann.",
-    2,
-    11,
-    3.38,
-    5
-   ],
-   [
-    "zahn",
-    "Zahn. Mein Zahn tut weh. Dein Zahn tut weh?",
-    135,
-    144,
-    3.98,
-    9
-   ],
-   [
-    "zebras",
-    "Nein! Löwen und Zebras. Wir fahren zum",
-    376,
-    384,
-    3.02,
-    3
-   ],
    [
     "hallo",
     "Hallo. Hi!",
@@ -12337,35 +12382,11 @@
     11
    ],
    [
-    "papa",
-    "Jemand feiert Vatertag. Papa. Mhm, so, fertig. Mama, Mama, ich bin",
-    736,
-    747,
-    4.46,
-    11
-   ],
-   [
     "nein",
     "Nein. Ich habe heute keine Lust darauf.",
     81,
     88,
     5.52,
-    9
-   ],
-   [
-    "löwen",
-    "Nein! Löwen und Zebras. Wir fahren zum",
-    376,
-    384,
-    4.32,
-    9
-   ],
-   [
-    "bus",
-    "Parkaufseher an Bus 1, bitte zum",
-    435,
-    442,
-    4.72,
     9
    ],
    [
@@ -12377,18 +12398,138 @@
     8
    ],
    [
-    "tut",
+    "papa",
+    "Jemand feiert Vatertag. Papa. Mhm, so, fertig. Mama, Mama, ich bin",
+    736,
+    747,
+    4.46,
+    11
+   ],
+   [
+    "bus",
+    "Parkaufseher an Bus 1, bitte zum",
+    435,
+    442,
+    4.72,
+    9
+   ],
+   [
+    "löwen",
+    "Nein! Löwen und Zebras. Wir fahren zum",
+    376,
+    384,
+    4.32,
+    9
+   ],
+   [
+    "wow",
+    "Wow! Wie geht's dir jetzt, Kranti?",
+    244,
+    254,
+    4.71,
+    7
+   ],
+   [
+    "zahn",
     "Zahn. Mein Zahn tut weh. Dein Zahn tut weh?",
     135,
     144,
-    5.19,
-    8
+    3.98,
+    9
+   ],
+   [
+    "ähm",
+    "Ähm, wir könnten Café spielen. Das magst",
+    87,
+    94,
+    4.12,
+    4
+   ],
+   [
+    "haltet",
+    "Haltet durch, Miffy. Ich bin sofort da.",
+    638,
+    646,
+    3.96,
+    3
+   ],
+   [
+    "münze",
+    "Münze. Eine Münze für einen Zahn? Wow!",
+    269,
+    277,
+    3.88,
+    3
+   ],
+   [
+    "vatertag",
+    "Jemand feiert Vatertag. Papa. Mhm, so, fertig. Mama, Mama, ich bin",
+    736,
+    747,
+    3.01,
+    13
+   ],
+   [
+    "juhu",
+    "Juhu! Bis morgen, Kinder. Bis dann.",
+    2,
+    11,
+    3.38,
+    5
+   ],
+   [
+    "hehe",
+    "Hehe, zu Fuß willst du das bestimmt",
+    415,
+    420,
+    3.57,
+    3
+   ],
+   [
+    "mhm",
+    "Mhm, lecker. Mhm.",
+    336,
+    343,
+    3.53,
+    3
+   ],
+   [
+    "äffchen",
+    "Vier kleine Äffchen haben Spaß. Äffchen",
+    211,
+    217,
+    2.76,
+    6
+   ],
+   [
+    "zahnfee",
+    "Jetzt kannst du ihn für die Zahnfee",
+    259,
+    264,
+    2.55,
+    6
+   ],
+   [
+    "funkgerät",
+    "Ich hab's. Das Funkgerät. Entschuldigung.",
+    602,
+    610,
+    2.89,
+    4
+   ],
+   [
+    "spielhaus",
+    "Spielhaus? Spielhaus!",
+    10,
+    15,
+    2.41,
+    4
    ]
   ],
-  "tx": "Juhu! Bis morgen, Kinder. Bis dann. Spielhaus? Spielhaus! Kommst du mit uns mit zum Spielhaus, Granti? Ich denke schon. Okay, dann bis gleich. Oje, sieht so aus, als wäre Granti ein bisschen grummelig. Sie war schon den ganzen Tag sehr still. Vielleicht verbessert das Spielhaus ihre Laune. Das hoffe ich. Es ist nicht schön, wenn Granti grummelig ist. Schnell! Au! Uh! Oh! Hab dich! Du bist Lauf! Du kriegst mich nicht. Kriegst du mich nicht. Aha! Hab dich! Du bist dran, Miffy. Juhu! Du bist Granti. Willst du uns nicht fangen? Nein. Ich habe heute keine Lust darauf. Oh! Okay. Ähm, wir könnten Café spielen. Das magst du doch am liebsten. kann ich eine von deinen süßen Hefeschnecken haben? Die sind lecker. Nicht heute. Ich will gar nichts spielen. Oje! Ich weiß was. Ich kann mich heute um das Café kümmern. Komm denn. Ja! Ist alles in Ordnung, Granti? Was darf es sein, der Herr? Sie noch Hilfeschnecken? Natürlich. Alles in Ordnung. Das klingt aber gar nicht so. Du wirkst ein bisschen grummelig. Tue ich gar nicht. Autsch! Au! Was ist los? Ich bin nicht grummelig. Es ist nur mein Zahn. Mein Zahn tut weh. Dein Zahn tut weh? Ja, der ist ganz wackelig und der tut weh, wenn ich au! Vielleicht hast du dir die Zähne nicht richtig geputzt. Habe ich wohl. Ich putze sie mir zweimal täglich. Es ist nicht meine Schuld, dass mein Zahn wackelt. Das muss schlimm sein, wenn ein Zahn weh tut. Und es ist schlimm, wenn Kranti so grummelig ist. Hoppi weiß bestimmt, was zu tun ist. Ah! Oh, ja, ich sehe es. Das sieht schmerzhaft aus. Liegt es daran, dass sie nicht richtig die Zähne geputzt hat? Nein, das ist nur einer von Krantis Milchzähnen, der locker geworden ist. Stimmt ja. Unsere Lehrerin hat uns davon erzählt. Unsere Milchzähne fallen raus, um Platz für unsere Erwachsenenzähne zu machen. Jetz",
+  "tx": "Juhu! Bis morgen, Kinder. Bis dann. Spielhaus? Spielhaus! Kommst du mit uns mit zum Spielhaus, Granti? Ich denke schon. Okay, dann bis gleich. Oje, sieht so aus, als wäre Granti ein bisschen grummelig. Sie war schon den ganzen Tag sehr still. Vielleicht verbessert das Spielhaus ihre Laune. Das hoffe ich. Es ist nicht schön, wenn Granti grummelig ist. Schnell! Au! Uh! Oh! Hab dich! Du bist Lauf! Du kriegst mich nicht. Kriegst du mich nicht. Aha! Hab dich! Du bist dran, Miffy. Juhu! Du bist Granti. Willst du uns nicht fangen? Nein. Ich habe heute keine Lust darauf. Oh! Okay. Ähm, wir könnten … und der tut weh, wenn ich au! Vielleicht hast du dir die Zähne nicht richtig geputzt. Habe ich wohl. Ich putze sie mir zweimal täglich. Es ist nicht meine Schuld, dass mein Zahn wackelt. Das muss schlimm sein, wenn ein Zahn weh tut. Und es ist schlimm, wenn Kranti so grummelig ist. Hoppi weiß bestimmt, was zu tun ist. Ah! Oh, ja, ich sehe es. Das sieht schmerzhaft aus. Liegt es daran, dass sie nicht richtig die Zähne geputzt hat? Nein, das ist nur einer von Krantis Milchzähnen, der locker geworden ist. Stimmt ja. Unsere Lehrerin hat uns davon erzählt. Unsere Milchzähne fallen raus, um Platz … ist draußen. Cool! Wow! Wie geht's dir jetzt, Kranti? Viel besser. Es tut nicht mehr weh. Das ist toll! Oh, sehr gut, Kranti. Ich habe ja gesagt, dass er von alleine rausfällt. Jetzt kannst du ihn für die Zahnfee aufheben. Zahnfee? Ja, du legst ihn heute Nacht unter dein Kissen und dann kommt die Zahnfee und tauscht ihn gegen eine Münze. Eine Münze für einen Zahn? Wow! Ich glaube, mein Zahn ist auch ein bisschen wackelig. Keine Sorge, Melanie. Bei dir ist es auch bald soweit. Bei euch allen. Kann ich jetzt schon ins Bett gehen, Tante Poppy? Na ja, es wird schon bald dunkel. Ich bringe … so grummelig war. Mhm, lecker. Mhm. Au! Was ist los, Melanie? Mein Zahn ist rausgefallen. Wow! Ich habe doch gesagt, dass er wackelt. Gut, dann kannst du ja morgen Hefeschnecken mitbringen. Granti! Oh! Hm, sieht aus, als würdest du auf etwas warten, Miffy. Poppy und Granti machen mit mir einen Ausflug in die Natur, bei dem wir ganz viele Tiere sehen werden. Oh, wie schön! Welche denn? Vögel? Schmetterlinge? Nein! Löwen und Zebras. Wir fahren zum Safaripark. Guten Morgen, Miffy. Bist du bereit für ein großes Abenteuer? Ja! Und du, Granti? Ich kann es kaum erwarten. Ich will einen … eigentlich ganz einfach. Lasst die Tiere in Ruhe, dann lassen sie euch auch in Ruhe. Merkt ihr euch das? Lasst die Tiere in Ruhe, dann lassen sie euch auch in Ruhe. Sehr gut. Das bedeutet, ihr füttert sie nicht, ihr ruft sie nicht und vor allen Dingen, ihr verlasst den Bus nicht, solange ihr im Park seid. Oh. Und hier ist schon unser Bus. Wow. Hallo Kinder, habt ihr Lust Tiere zu beobachten? unbedingt, bitte. Zuerst sehen wir hier eine Gruppe Flamingos. Flamingos können stundenlang auf einem Bein stehen. Sie können sogar so schlafen. Wow, das könnte ich nicht. Ich würde das auch nicht … Winzig, riesig, pfiffig, spitzig. Alle Tiere hier sind witzig. Sieh mal da. Wow. Warum halten wir an? Tut mir leid, Leute, ein Zebra will über die Straße. Wir sind hier in seinem Zuhause, also müssen wir geduldig warten, bis es weg ist. Witziges Zebra. Was ist los? Warum fahren wir nicht? Oh, tut mir leid. Wir stecken im Matsch fest. Wir stecken fest? Was machen wir denn jetzt? Ich weiß es auch nicht. Hm. Ich hab's. Das Funkgerät. Entschuldigung. Können Sie nicht das Funkgerät benutzen und den Parkaufseher um Hilfe bitten? Das ist eine tolle Idee. Oder wie wäre es, wenn du mit ihm über das … Uh! Haltet euch fest, Kinder. Hey, das klingt fast wie Löwengebrüll. Oh, ja! Hurra! Ich weiß ja nicht, wie ihr das aber ich finde das war sehr viel Natur für einen Tag. Hallo Kinder, hattet ihr Spaß? Was fandet ihr am besten? Dass der Bus nicht mehr aus dem Matsch kam. Er kam nicht mehr aus dem Matsch? Du meine Güte. Ich fand das Brüllen am besten. Oh, von den Löwen. Nein, vom Bus. Ah. Ja. Hallo Miffy, was machst du gerade? Eine Karte. Schau mal. Oh, sehr schön. Feiert jemand Geburtstag? Nein. Jemand feiert Vatertag. Papa. Mhm, so, fertig. Mama, Mama, ich bin fertig. Sehr gut, Miffy. … ist. Oh. Was ist los, Papa? Oh, was ist mit meinem Vater? Ich habe Opa keine Vatertagskarte geschickt. Gar nichts. Es ist Vatertag. Es ist Vatertag. Ich weiß. Ist Miffys Karte nicht schön geworden? Nun ja, natürlich. Aber was ist mit meinem Vater? Ich habe ihm keine Karte geschickt. Ah, er wird denken, ich hätte es vergessen. das hast du ja auch. Ich weiß. Oh, nein. Du könntest so eine Karte machen, wie ich, Papa. Ich helfe dir. Ach, wirklich? Oh, aber es ist zu spät, um sie noch abzuschicken. Na ja, du könntest sie ihm ja selbst bringen. Hm, ja. Oh, das heißt, ich müsste eine Pause vom … normaler Tag. Aber wir sind schon so weit gefahren. Wir sollten Opa wenigstens Hallo sagen. Wirklich? Obwohl ich den Vatertag vergessen habe? Komm schon, Papa. Er wird sich sehr freuen, dich zu sehen. Ganz sicher. Hm. Ähm. Los. Oh. Hallo, mein Sohn. Miffy, dich habe ich ja schon ewig nicht mehr gesehen. Was für eine schöne Überraschung. Alles Gute zum Vatertag. Ähm, es tut mir so leid, dass ich keine Karte geschickt habe. Ist heute Vatertag? Das wusste ich gar nicht. Weißt du, ich habe dir sogar eine Karte gebastelt. Wirklich? Wo ist sie? Sie treibt den Fluss runter. Wie bitte? Ach, vergiss … die Schrift deines Vaters erkannt. Guck mal, Papa. Das ist zwar meine Schrift, aber die Karte ist für Opa. Alles Gute zum Vatertag, Papa. Oh, danke, mein Sohn. Die ist sehr schön und nur ein kleines bisschen nass. Ah, ich glaube, das könnte der beste Vatertag aller Zeiten werden. Das finde ich auch. Und wir haben sogar den Schuppen fertig gestrichen. Bitte sehr, ganz trocken. Oh, danke, Miffy. Puh, bin ich erschöpft. Zum Glück ist nur einmal im Jahr Vatertag. Ja, aber Muttertag kommt auch bald. Oh, pass auf, dass du den nicht verpasst. An dem Tag warten schon viele neue Aufgaben auf dich.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7856
+  "src": "auto"
  },
  "BZVRgZ5Dg68": {
   "channel": "MrWissen2go",
@@ -17114,105 +17255,18 @@
  "udt4_s-8aJg": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-07T05:28:17+00:00",
-  "title": "Describe your Clothes in Deutsch. Know German words for wearing items",
+  "checked": "2026-11-11T15:31:04+00:00",
+  "title": "How to Describe Clothes in German | Simple A1 Story",
   "duration": 743,
   "published": "20261004",
   "spoken": "de",
   "spoken_v": 2,
   "pace": 72.1,
   "rare": 0.0595,
+  "var": 0.5789,
   "speech_s": 587.5,
   "tokens": 706,
   "kw": [
-   [
-    "schal",
-    "Ich habe auch einen Schal. also scarf.",
-    298,
-    311,
-    3.72,
-    8
-   ],
-   [
-    "clothes",
-    "I like my clothes. Ich mag meine Kleidung.",
-    34,
-    42,
-    2.56,
-    3
-   ],
-   [
-    "pullover",
-    "Ich habe einen roten Pullover. I have a red sweater.",
-    144,
-    158,
-    3.73,
-    7
-   ],
-   [
-    "trage",
-    "Im Winter trage ich einen Mantel.",
-    171,
-    177,
-    4.23,
-    15
-   ],
-   [
-    "jeans",
-    "habe eine blaue Jeans. I have blue jeans.",
-    119,
-    133,
-    4.1,
-    10
-   ],
-   [
-    "wear",
-    "In winter wear a coat. Im Winter trage ich einen Mantel.",
-    177,
-    187,
-    3.05,
-    3
-   ],
-   [
-    "mantel",
-    "Im Winter trage ich einen Mantel.",
-    171,
-    177,
-    4.04,
-    8
-   ],
-   [
-    "mütze",
-    "Im Winter trage ich eine Mütze.",
-    272,
-    278,
-    3.86,
-    6
-   ],
-   [
-    "shirt",
-    "Mein T-Shirt ist weiß. My T-Shirt is white.",
-    66,
-    79,
-    4.33,
-    12
-   ],
-   [
-    "kleidung",
-    "Meine Kleidung. Ich heiße Anna.",
-    0,
-    8,
-    4.46,
-    12
-   ],
-   [
-    "anna",
-    "Ich heiße Anna. My name is Anna.",
-    3,
-    15,
-    4.65,
-    12
-   ],
    [
     "winter",
     "Im Winter trage ich einen Mantel.",
@@ -17220,14 +17274,6 @@
     177,
     4.84,
     9
-   ],
-   [
-    "hose",
-    "Ich habe eine schwarze Hose. I have black trousers. Ich habe eine",
-    94,
-    108,
-    4.44,
-    8
    ],
    [
     "weiss",
@@ -17246,18 +17292,146 @@
     7
    ],
    [
-    "schuhe",
-    "Ich trage gerne Schuhe. I like wearing shoes.",
-    224,
+    "welche",
+    "Welche Farbe hat Annas andes T-Shirt?",
+    569,
+    575,
+    5.55,
+    5
+   ],
+   [
+    "trage",
+    "Im Winter trage ich einen Mantel.",
+    171,
+    177,
+    4.23,
+    15
+   ],
+   [
+    "anna",
+    "Ich heiße Anna. My name is Anna.",
+    3,
+    15,
+    4.65,
+    12
+   ],
+   [
+    "kleidung",
+    "Meine Kleidung. Ich heiße Anna.",
+    0,
+    8,
+    4.46,
+    12
+   ],
+   [
+    "shirt",
+    "Mein T-Shirt ist weiß. My T-Shirt is white.",
+    66,
+    79,
+    4.33,
+    12
+   ],
+   [
+    "jeans",
+    "habe eine blaue Jeans. I have blue jeans.",
+    119,
+    133,
+    4.1,
+    10
+   ],
+   [
+    "have",
+    "I have many clothes. Ich habe viele Kleider.",
+    45,
+    54,
+    4.14,
+    8
+   ],
+   [
+    "mantel",
+    "Im Winter trage ich einen Mantel.",
+    171,
+    177,
+    4.04,
+    8
+   ],
+   [
+    "schal",
+    "Ich habe auch einen Schal. also scarf.",
+    298,
+    311,
+    3.72,
+    8
+   ],
+   [
+    "blaues",
+    "habe auch ein blaues T-Shirt. I also have a blue T-shirt.",
+    79,
+    94,
+    3.56,
+    3
+   ],
+   [
+    "many",
+    "I have many clothes. Ich habe viele Kleider.",
+    45,
+    54,
+    3.41,
+    3
+   ],
+   [
+    "jogginghose",
+    "Zu Hause trage ich eine Jogginghose.",
+    349,
+    358,
+    3.13,
+    3
+   ],
+   [
+    "wear",
+    "In winter wear a coat. Im Winter trage ich einen Mantel.",
+    177,
+    187,
+    3.05,
+    3
+   ],
+   [
+    "clothes",
+    "I like my clothes. Ich mag meine Kleidung.",
+    34,
+    42,
+    2.56,
+    3
+   ],
+   [
+    "shoes",
+    "I like wearing shoes. Ich trage gerne Schuhe.",
+    229,
     237,
-    4.62,
-    6
+    2.9,
+    2
+   ],
+   [
+    "jacket",
+    "I also have a jacket. Ich habe auch eine Jacke.",
+    204,
+    212,
+    2.86,
+    2
+   ],
+   [
+    "sweater",
+    "I have a red sweater. I habe einen roten Pullover.",
+    149,
+    158,
+    2.65,
+    2
    ]
   ],
-  "tx": "Meine Kleidung. Ich heiße Anna. My name is Anna. Ich heiße Anna. Ich bin 22 Jahre alt. I 22 years old. Ich bin 22 Jahre alt. Ich mag meine Kleidung. I like my clothes. Ich mag meine Kleidung. Ich habe viele Kleider. I have many clothes. Ich habe viele Kleider. Ich habe viele T-Shirts. I have many T-shirts. Ich habe viele T-Shirts. Mein T-Shirt ist weiß. My T-Shirt is white. Mein T-Shirt ist weiß. Ich habe auch ein blaues T-Shirt. I also have a blue T-shirt. Ich habe auch ein blaues T-Shirt. Ich habe eine schwarze Hose. I have black trousers. Ich habe eine schwarze Hose. Die Hose ist bequem. The trousers are comfortable. Die Hose ist bequem. Ich habe eine blaue Jeans. I have blue jeans. Ich habe eine blaue Jeans. Meine Jeans ist neu. My jeans are new. Meine Jeans ist neu. Ich habe einen roten Pullover. I have a red sweater. I habe einen roten Pullover. Der Pullover ist warm. The sweater is warm. Der Pullover ist warm. Im Winter trage ich einen Mantel. In winter wear a coat. Im Winter trage ich einen Mantel. Mein Mantel ist schwarz. My coat is black. Mein Mantel ist schwarz. Ich habe auch eine Jacke. I also have a jacket. Ich habe auch eine Jacke. Meine Jacke ist grün. My Jacket is green. Meine Jacke ist grün. Ich trage gerne Schuhe. I like wearing shoes. Ich trage gerne Schuhe. Meine Schuhe sind weiß. My shoes are white. Meine Schuhe sind weiß. Ich habe viele Socken. I have many socks. Ich habe viele Socken. Meine Socken sind bunt. Mycks colorful. Meine Socken sind bunt. Im Winter trage ich eine Mütze. In winter we. Im Winter trage ich eine Mütze. Meine Mütze ist grau. My hat gray. Meine Mütze ist grau. Ich habe auch einen Schal. also scarf. Ich habe auch einen Schal. Mein Schal ist blau. My scarf is blue. Mein Schal ist blau. Im Sommer trage ich ein Kleid. In summer I w",
+  "tx": "Meine Kleidung. Ich heiße Anna. My name is Anna. Ich heiße Anna. Ich bin 22 Jahre alt. I 22 years old. Ich bin 22 Jahre alt. Ich mag meine Kleidung. I like my clothes. Ich mag meine Kleidung. Ich habe viele Kleider. I have many clothes. Ich habe viele Kleider. Ich habe viele T-Shirts. I have many T-shirts. Ich habe viele T-Shirts. Mein T-Shirt ist weiß. My T-Shirt is white. Mein T-Shirt ist weiß. Ich habe auch ein blaues T-Shirt. I also have a blue T-shirt. Ich habe auch ein blaues T-Shirt. Ich habe eine schwarze Hose. I have black trousers. Ich habe eine schwarze Hose. Die Hose ist bequem. The trousers are comfortable. Die Hose ist bequem. Ich habe eine blaue Jeans. I have blue jeans. Ich habe eine blaue Jeans. Meine Jeans ist neu. My jeans are new. Meine Jeans ist neu. Ich habe einen roten Pullover. I have a red sweater. I habe einen roten Pullover. Der Pullover ist warm. The sweater is warm. Der Pullover ist warm. Im Winter trage ich einen Mantel. In winter wear a coat. Im Winter trage ich einen Mantel. Mein Mantel ist schwarz. My coat is black. Mein Mantel ist schwarz. Ich habe auch eine Jacke. I also have a jacket. Ich habe auch eine Jacke. Meine Jacke ist grün. My Jacket is green. Meine Jacke ist grün. Ich trage gerne Schuhe. I like wearing shoes. Ich trage gerne Schuhe. Meine Schuhe sind weiß. My shoes are white. Meine Schuhe sind weiß. Ich habe viele Socken. I have many socks. Ich habe viele Socken. Meine Socken sind bunt. Mycks colorful. Meine Socken sind bunt. Im Winter trage ich eine Mütze. In winter we. Im Winter trage ich eine Mütze. Meine Mütze ist grau. My hat gray. Meine Mütze ist grau. Ich habe auch einen Schal. also scarf. Ich habe auch einen Schal. Mein Schal ist blau. My scarf is blue. Mein Schal ist blau. Im Sommer trage ich ein Kleid. In summer I wear a dress. Im Sommer trage ich ein Kleid. Mein Kleid ist rosa. My dress is pink. Mein Kleid ist rosa. Zu Hause trage ich eine Jogginghose. At home I wear sweat pants. Zu Hause trage ich eine Jogginghose. Ich mag meine Kleidung sehr. I like my clothes very much. Ich mag meine Kleidung sehr. Meine Kleidung ist schön und bequem. My beautiful andable. Meine Kleidung ist schön und bequem. English meine Kleidung. Ich heiße Anna. Ich bin 22 Jahre alt. Ich mag meine Kleidung. Ich habe viele Kleider. Ich habe viele T-Shirts. Mein T-Shirt ist weiß. Ich habe auch ein blaues T-Shirt. Ich habe eine schwarze Hose. Die Hose ist bequem. Ich habe eine blaue Jeans. Meine Jeans ist neu. Ich habe einen roten Pullover. Der Pullover ist warm. Im Winter trage ich einen Mantel. Mein Mantel ist schwarz. Ich habe auch eine Jacke. Meine Jacke ist grün. Ich trage gerne Schuhe. Meine Schuhe sind weiß. Ich habe viele Socken. Meine Socken sind bunt. Im Winter trage ich eine Mütze. Meine Mütze ist grau. Ich habe auch einen Schal. Mein Schal ist blau. Im Sommer trage ich ein Kleid. Mein Kleid ist rosa. Zu Hause trage ich eine Jogginghose. Ich mag meine Kleidung sehr. Meine Kleidung ist schön und bequem. Now it's time for a short G style German quiz. Test your understanding of the story and see how much you remember. Good luck and let's begin. Teil 1. Richtig oder falsch. Höre die Geschichte und entscheide richtig oder falsch. Anna ist 22 Jahre alt. Anna mag ihre Kleidung. Anna hat nur ein T-Shirt. Ihr T-Shirt ist weiß. Anna hat eine schwarze Hose. Teil 2. Wähle die richtige Antwort. Wähle A, B oder C. Welche Farbe hat Annas andes T-Shirt? Wie ist die Hose? Welche Jeans hat Anna? Was ist neu? Welche Farbe hat Annas Pullover? Teil 3. Was passt? Wähle die richtige Antwort. Was trägt Anna im Winter? Welche Farbe hat ihr Mantel? Was trägt Anna um den Hals? Welche Farbe hat ihr Schal? Was macht Anna mit ihrem Schal? Teil 4. Ergänze den Satz. Wähle das richtige Wort. Ich habe viele. Mein T-Shirt ist meine Jeans ist mein Mantel ist. Ich habe auch einen.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5076
+  "src": "auto"
  },
  "5fiGR9PC7tQ": {
   "channel": "Deutsch mit Lari",
@@ -17552,7 +17726,7 @@
  "h8Kj4Bb_fpg": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:29:05+00:00",
+  "checked": "2026-11-11T15:34:54+00:00",
   "title": "Da kommt der Papa-Zug! 🚆💙 | Bluey - Deutsch Offizieller Kanal",
   "duration": 3675,
   "published": "20260828",
@@ -17560,73 +17734,10 @@
   "spoken_v": 2,
   "pace": 135.9,
   "rare": 0.0804,
+  "var": 0.8168,
   "speech_s": 3459.9,
   "tokens": 7838,
   "kw": [
-   [
-    "bingo",
-    "nicht kommt. Bingo. Sie möchte doch nur einen Knucci haben.",
-    124,
-    129,
-    3.63,
-    38
-   ],
-   [
-    "dad",
-    "I Dad, was ist das? Oh, sieht wie Soße aus.",
-    157,
-    165,
-    3.82,
-    22
-   ],
-   [
-    "spielzimmer",
-    "Begleit uns bitte ins Spielzimmer. Ja, Meister,",
-    3330,
-    3338,
-    2.66,
-    7
-   ],
-   [
-    "seegang",
-    "Seegang. Was? Festhalten. Touristin. Da kommt eine",
-    2609,
-    2616,
-    2.71,
-    7
-   ],
-   [
-    "mom",
-    "Poppi. Deine Mom ist hier. Sie hat heute",
-    74,
-    79,
-    3.78,
-    14
-   ],
-   [
-    "wendy",
-    "Es tut mir leid, Wendy. Er hört einfach",
-    1817,
-    1823,
-    3.18,
-    8
-   ],
-   [
-    "zauberei",
-    "bleibt hier. Wer hat dir die Zauberei",
-    2950,
-    2954,
-    3.27,
-    8
-   ],
-   [
-    "schnapp",
-    "Egal, ich schnapp sie mir später. Schön,",
-    1510,
-    1516,
-    3.43,
-    9
-   ],
    [
     "nein",
     "Nein, für sie haben sich die Knutchis",
@@ -17660,47 +17771,143 @@
     31
    ],
    [
-    "bitte",
-    "Oh, klar doch. Hier, bitte sehr.",
-    113,
-    121,
-    5.7,
-    26
+    "tja",
+    "Tja, jetzt schon. ",
+    250,
+    257,
+    4.55,
+    14
    ],
    [
-    "hast",
-    "Hast du Hunger, mein kleines Eisbärchen?",
-    30,
-    34,
-    5.75,
-    21
+    "fährt",
+    "Die Bahn fährt ein. Nächster Halt, die",
+    0,
+    4,
+    4.78,
+    9
    ],
    [
-    "schön",
-    "schön unten. Ja, ist gut.",
-    145,
-    152,
-    5.52,
-    20
+    "bestellen",
+    "bestellen. Opa, nein, das ist kein Restaurant, das",
+    391,
+    396,
+    4.43,
+    9
    ],
    [
-    "danke",
-    "Danke, Poppi. Deine Mom ist hier. Sie hat heute",
-    72,
+    "wow",
+    "Ich weiß was. Laufila. Okay. Wow.",
+    714,
+    720,
+    4.71,
+    8
+   ],
+   [
+    "bingo",
+    "nicht kommt. Bingo. Sie möchte doch nur einen Knucci haben.",
+    124,
+    129,
+    3.63,
+    38
+   ],
+   [
+    "dad",
+    "I Dad, was ist das? Oh, sieht wie Soße aus.",
+    157,
+    165,
+    3.82,
+    22
+   ],
+   [
+    "mom",
+    "Poppi. Deine Mom ist hier. Sie hat heute",
+    74,
     79,
-    5.64,
-    20
+    3.78,
+    14
+   ],
+   [
+    "blue",
+    "Diese Folge von Blue heißt Weihnachten",
+    317,
+    322,
+    4.17,
+    11
+   ],
+   [
+    "schnapp",
+    "Egal, ich schnapp sie mir später. Schön,",
+    1510,
+    1516,
+    3.43,
+    9
+   ],
+   [
+    "klingel",
+    "Klingel, klingel, klingel, klingel, klingel, klingel, klingel, klingel!",
+    384,
+    390,
+    3.39,
+    8
+   ],
+   [
+    "zauberei",
+    "bleibt hier. Wer hat dir die Zauberei",
+    2950,
+    2954,
+    3.27,
+    8
+   ],
+   [
+    "wendy",
+    "Es tut mir leid, Wendy. Er hört einfach",
+    1817,
+    1823,
+    3.18,
+    8
+   ],
+   [
+    "seegang",
+    "Seegang. Was? Festhalten. Touristin. Da kommt eine",
+    2609,
+    2616,
+    2.71,
+    7
+   ],
+   [
+    "spielzimmer",
+    "Begleit uns bitte ins Spielzimmer. Ja, Meister,",
+    3330,
+    3338,
+    2.66,
+    7
+   ],
+   [
+    "muffin",
+    "Mach schon, Muffin. Du kommst dann zu",
+    352,
+    356,
+    2.97,
+    4
+   ],
+   [
+    "polly",
+    "Ja. Ich leg Polly für dich da rein. Ah!",
+    3471,
+    3476,
+    2.97,
+    4
    ]
   ],
-  "tx": "Die Bahn fährt ein. Nächster Halt, die Mutterendte Tagespflege. Vielen Dank, die Bahn fährt los. Oh, hallo Poppy. Du kommst genau richtig für die Geschichte. Geschichte lesen, Geschichte lesen. Ich hole dich nach der Arbeit wieder ab, Schätzchen. Lass dich drücken, meine Kleine. Und die klitze kleine Maus lebt in einem ganz ganz besonderen Haus. Die Bahn fährt ein. Eines Tages, als Maus Spaziergang machte. Hast du Hunger, mein kleines Eisbärchen? Uh, nächster Halt, der Tierarzt. Vielen Dank, die Guten Morgen, Guten Morgen, Dr. Glender. Wir haben heute einen stressigen Tag. Ein kranker Tiger und sechs schniefende Stinktiere. Das spricht sich schwer. Oh, und ein misslauniger Eisb ist auch noch da. Oh, du musst ih einfach nur ein bisschen kitzeln. Guck. Kitzel, kitzel. Siehst du? Was würden wir nur ohne dich machen, Glender? Die Bahn fährt ein. Arbeiten, arbeiten. Wir sehen uns dann morgen. Bis dann, Glender. Die Bahn fährt los. Nächster Halt. Tagespflege. Danke, Poppi. Deine Mom ist hier. Sie hat heute ganz viel Spaß gehabt. Oh, das ist mein großes Mädchen. Die Bahn fährt ein. Vielen Dank. Die Bahn fährt los. Schlaf, schlaf, schlaf. Guten Morgen, Papi. Ich muss jetzt schnell zur Arbeit. Wiedersehen, Ehemann. Die Bahn lässt diese Station aus. Hey, halt, ich komme doch. Die Bahn hält an. kann losgehen. Ähm, entschuldigen Sie, kein Essen, keine Getränke, Füße sofort runter und die Katze hat auf dem Schoß zu sitzen. Ah, fahren Sie einfach die Bahn, Kollege. Was? So ein freches kleines Augenblick. Zeigen Sie mir Ihre Fahrkarte. Oh, klar doch. Hier, bitte sehr. Sieht in Ordnung aus. Hier lang, hier lang. Pass auf, dass M nicht kommt. Bingo. Sie möchte doch nur einen Knucci haben. Nein, für sie haben sich die Knutchis erledigt. Ja, denn du gehörst jetzt uns. Alles klar. Und bin ",
+  "tx": "Die Bahn fährt ein. Nächster Halt, die Mutterendte Tagespflege. Vielen Dank, die Bahn fährt los. Oh, hallo Poppy. Du kommst genau richtig für die Geschichte. Geschichte lesen, Geschichte lesen. Ich hole dich nach der Arbeit wieder ab, Schätzchen. Lass dich drücken, meine Kleine. Und die klitze kleine Maus lebt in einem ganz ganz besonderen Haus. Die Bahn fährt ein. Eines Tages, als Maus Spaziergang machte. Hast du Hunger, mein kleines Eisbärchen? Uh, nächster Halt, der Tierarzt. Vielen Dank, die Guten Morgen, Guten Morgen, Dr. Glender. Wir haben heute einen stressigen Tag. Ein kranker Tiger … jetzt ab. Ah, bis dann, Kinder. Ah! Hurra, du hast es geschafft. Hurra! Klingel, klingel, klingel, klingel, klingel, klingel, klingel, klingel! Hallo. Ah, hallo. Ich würde gern was zu essen bestellen. Opa, nein, das ist kein Restaurant, das man anrufen kann. Was? Du bestellst über die App? Aber ich habe keine Speisekarte. Die ist in der App. Oh, richtig. Oh, ja, jetzt verstehe ich. Augenblick. Was für ein Restaurant seid ihr denn? Wie meinst du das? Gibt es Chinesisch oder Italienisch? Wir machen alles. Genau. Du kannst eine Pizza bestellen oder ein Burrito. Einen Buro. Burrito. Du kannst … Ding, ding ding. Sie haben einen Versuch. Ich wünsche viel Glück. Uh, ich will Wellenreiter haben. Okay. Ja, ja, ja. Bingo. Hurra. Was? Nein, sie verlieren, sie verlieren, sie verlieren. Benreiter. Magischer Greifer, du. Mehr Münzen einwerfen. Los, komm schon, Bingo. Wir müssen noch mehr erledigen. Das ist doch klasse. Die Kinder lernen etwas und wir haben ein sauberes Haus. Nichts von beidem wird eintreten. Okay, wir schaffen das. Ching. Ding, ding, ding, ding. Sie verlieren. Dad, das ist nicht fair. Ich bin nicht Dad. Ich bin der magische Greifer. Der magische Greifer hat keine Kinder. … Blo? Nein. Nein, bitte nicht. Wir müssen los. Komm schon, wir müssen weiter. Es fährt doch noch Wiedersehen. Rollende Rentner. Bingo, du musst jetzt M spielen, weil ihr euch so ähnlich seht. Ich gebe mein Bestes, damit ich nicht wieder alles kaputt mache. Machst du nicht. Los geht's. Das bin ich. Eines Tages äh wartte kurz. Wie ist dein nichtm Name? Chili. Oh ja, eines Tages machte Chili einen schönen Spaziergang und damals war sie noch keine Mom. Das war die ganz alten Zeiten. Chili liebt es Hockey zu spielen und zu tanzen. Oh ja und zu tanzen. Ich bin ja eine gute Tänzerin, aber sie war … Baum. Oh ja, er kann uns sagen, wo sich der Drache versteckt. Also liefen sie zum alten weisen sprechenden Baum. Wir sind da. Wo ist der magische Baum? Mom! Oh, ich habe jetzt schon so viele Blätter gemalt. Mir tut die Hand weh. Kannst du weiter malen, Blue? Nein, das möchte ich nicht. Ich male weiter. Oh, hey. Na, was geht ab? Bingo, willst du den Baum malen? Okay, warte. Nein, Freunde, es ist auf. Rechender Baum. Weißt du vielleicht, wo wir den Drachen finden können? Er sitzt in der Toilette. Hey, ich weiß was Bäume hassen. Sag hallo zu meinem kleinen Freund. Oh, auf Wiedersehen. Wir … Oh, was kann man denn noch damit spielen? Eigentlich fahre ich damit immer nur rum. Okay, dann machen wir das. Füße abtreten. Chuldigung, ich will kein Dreck im Auto haben. Wir sind soweit, Muffin, aber bitte fahr auf keinen Fall zu ich. Hey, hey, gleich sind überall Fotenabdrücke drauf. Gefällt dir auch, Trixi? Ich vermisse das alte Auto. Damit haben wir die Kinder nach der Geburt nach Hause gefahren. Das hat Spaß gemacht. Darf ich bitte auch mal fahren? Na gut, alles klar und los geht's. Hä, was ist denn jetzt los? Oh, der Akku ist alle. Oh, wir müssen ihn aufladen. Dad. Okay, der Akku … wir spielen Luftballon. Butch, kannst du schwieriger machen? Meine Tageszeitung. Bingo, Hilfe. Ich kann nicht, ich bin eine Tageszeitung. Wie dramatisch die immer schreiben. Ja, ja, ja. Seht nur. Wow. Wahnsinn. Seht euch das an. Loui, Hilfe. Ich rette dich, Bingo. Lass sie los. Möchtest du die Tageszeitung durchblättern? Okay, aber mach nicht das Kreuzworträtsel. Oh, lecker. Wunderbar Orangensaft. Ja, bitte. Ah, nein, nein, nein. Putsch. Oh, ich krieg Du schaffst das Bingo. Süßes Kind, du wirst viel zu schnell groß. Ah, Dad, lass los. Bingo, schnapp ihn. Er darf nicht auf den Boden … nicht. Oh, guck mal, das sind jetzt unsere Schwänzchen. Ja, und wir sind Eidechsen. Eidechsen machen das hier. Help, hjelp. H. Genau, wir fangen fliegen. Ja, ich bringe dir bei, wie man sie fängt, weil ich die Eidexen Mama bin. Help! Help! J hast du es sicher? Hast du es sicher? Ja. Oh. Oh, entschuldige. Oh, Liebling. Ich dachte, du hast es. Ich habe mich entschuldigt. Ah, du hast es kaputt gemacht. Tja, deswegen hat der Anleitungshund gesagt, dass man einen Karton drunter legen soll. Alles klaro. Ja j natürlich ist das meine Schulter. Schnell, Dingo. Eexen können nicht schwimmen. Sollen … wir denn jetzt schon bereit, dass wir mit den beiden zusammen frühstücken können? Ja, jetzt noch nicht, aber bald. Kommt Bingo auch mit? Nein, sie schläft noch. Oh, okay. Tja, dann eben nur wir. Komm schon. Wir werden heute ganz ekelhafte und widerliche Smoothies für dich und Feido machen. Tja, dann essen wir den ganzen Lebkuchen auf und rennen weg ohne zu zahlen. Oh, sie sind nicht da. Tja, wahrscheinlich kommen sie nicht jeden Morgen her. Hier ist ihr Smoothie. Oh, danke. Es wäre schön, wenn Winnie hier wä. Das weiß ich doch. Wäre es auch schön, wenn Winnie Dad hier wä? Ja. Ja, schon. Es … nicht so gut. Und somit stand Indy wieder am Anfang. Aber was sollte sie sich diesmal einreden? Old McDonald hat eine Farm i Und da gibt's ein Giraffenpferd mit einem G und G. Okay. Okay. Und was ist dann passiert? Sie haben noch weiter dran gearbeitet. Hm hm. Der Hals ist einfach nur zu lang geworden. Fertig. Pferd. Ja, vielen Dank für deine Hilfe, Winton. Ist schon okay. Ich habe dir gesagt, du bist gut. Ich finde, dass du auch gut bist. Oh, das ist schön. Wie wollen wir es nennen? Meister Tom. Hi, Meister Tom. Ja, Meister Tom. Und dann läbt sie beide glücklich und zufrieden. Viel besser.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8372
+  "src": "auto"
  },
  "vdWXxOFH3g4": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-07T05:29:18+00:00",
+  "checked": "2026-11-11T15:36:06+00:00",
   "title": "Premiere 📣 Mascha und der Bär 💥 NEUE FOLGE 2026 💥 Verliere nie den Kopf! 🐻🏨🤔  (Folge 152)",
   "duration": 1241,
   "published": "20261009",
@@ -17708,9 +17915,74 @@
   "spoken_v": 2,
   "pace": 82.1,
   "rare": 0.0505,
+  "var": 0.8188,
   "speech_s": 520.8,
   "tokens": 713,
   "kw": [
+   [
+    "spiel",
+    "sich auf das Spiel eingestellt haben.",
+    651,
+    657,
+    5.49,
+    7
+   ],
+   [
+    "hey",
+    "Hey Bär, was ist das denn für ein cooler",
+    349,
+    355,
+    4.93,
+    6
+   ],
+   [
+    "schneller",
+    "Ich find sie schneller als du.",
+    81,
+    86,
+    4.86,
+    6
+   ],
+   [
+    "hast",
+    "Trick? Hier hast du deinen Kopf und da",
+    352,
+    357,
+    5.75,
+    4
+   ],
+   [
+    "prinzessin",
+    "Die Prinzessin und das Biest. ",
+    810,
+    837,
+    4.32,
+    9
+   ],
+   [
+    "herzlich",
+    "Sie sind uns hier jederzeit herzlich",
+    372,
+    376,
+    4.43,
+    3
+   ],
+   [
+    "wow",
+    "Oh wow, alles für mich allein.",
+    143,
+    148,
+    4.71,
+    2
+   ],
+   [
+    "zuschauer",
+    "Zuschauer. Und das Spiel ist vorübergehend unterbrochen. Der Stürmer",
+    685,
+    692,
+    4.64,
+    2
+   ],
    [
     "bär",
     "Ich habe dich, Bär. Und jetzt bist du",
@@ -17718,30 +17990,6 @@
     25,
     4.0,
     7
-   ],
-   [
-    "komfort",
-    "Willkommen im großer Komfort. Ah.",
-    399,
-    426,
-    3.57,
-    3
-   ],
-   [
-    "halskette",
-    "Halskette. Und wenn wir stattdessen ein Spiel",
-    872,
-    891,
-    3.25,
-    2
-   ],
-   [
-    "professionalität",
-    "Werden wir echte Professionalität sehen. Also, der Gegner hat erst",
-    653,
-    660,
-    3.3,
-    2
    ],
    [
     "stürmer",
@@ -17760,79 +18008,39 @@
     2
    ],
    [
-    "prinzessin",
-    "Die Prinzessin und das Biest. ",
-    810,
-    837,
-    4.32,
-    9
+    "komfort",
+    "Willkommen im großer Komfort. Ah.",
+    399,
+    426,
+    3.57,
+    3
    ],
    [
-    "spiel",
-    "sich auf das Spiel eingestellt haben.",
-    651,
-    657,
-    5.49,
-    7
+    "professionalität",
+    "Werden wir echte Professionalität sehen. Also, der Gegner hat erst",
+    653,
+    660,
+    3.3,
+    2
    ],
    [
-    "schneller",
-    "Ich find sie schneller als du.",
-    81,
-    86,
-    4.86,
-    6
-   ],
-   [
-    "hey",
-    "Hey Bär, was ist das denn für ein cooler",
-    349,
-    355,
-    4.93,
-    6
-   ],
-   [
-    "willkommen",
-    "willkommen, wann immer Sie möchten.",
-    374,
-    379,
-    4.82,
-    4
-   ],
-   [
-    "sieht",
-    "sieht gemütlich aus hier. He. He.",
-    556,
-    604,
-    5.57,
-    4
-   ],
-   [
-    "nein",
-    "Nein, ",
-    455,
-    465,
-    5.52,
-    4
-   ],
-   [
-    "los",
-    "Pilz zusammengehst. Los jetzt. Mm.",
-    188,
-    203,
-    5.26,
-    4
+    "halskette",
+    "Halskette. Und wenn wir stattdessen ein Spiel",
+    872,
+    891,
+    3.25,
+    2
    ]
   ],
-  "tx": "Verliere nie den Kopf. Ich habe dich, Bär. Und jetzt bist du mal dran mit fangen. Ja. Gleich beginnt unsere Kinderparty. Aber du fakst immer noch und bist noch nicht umgezogen. Ich find sie schneller als du. Zieh mal. Okay, meineten. Dann werde ich eben schneller zu Hause sein als du. Ich bin erste. Ich bin erste. I wie kann es sein, dass Bär vor mir hier ist? Oh wow, alles für mich allein. Alles klar, dann kann es losgehen. Hm. Alle warten schon auf dich, während du Pilz zusammengehst. Los jetzt. Mm. Ich bitte jetzt um eure Aufmerksamkeit und präsentiere den Bären. Habt keine Angst, liebe Kinder. Das ist nur mein Gehilfe Timon. Applaus bitte. Und nun wollen wir mal sehen, wer schneller rutschen kann. Oh. Na los, komm. Jippi! Ji! Und jetzt machen wir ein Ausritt auf dem Pferd. Oh! Bravo, bravo. Und jetzt gibt es Süßigkeiten. Ah, komm schon, wir reiten noch schneller, Mann. Bär jetzt mach doch mal ein bisschen schneller. Na los, ich war viel viel schneller. Hey Bär, was ist das denn für ein cooler Trick? Hier hast du deinen Kopf und da drüben, da hast du ihn nicht. Äh, hallöchen. Äh, was bist du nur für ein kopfloser Helfer? Aber Onkel, ich möchte mich für ihre Hilfe bedanken. Sie sind uns hier jederzeit herzlich willkommen, wann immer Sie möchten. Zeit nach Hause zu gehen, Bär. Aber versprich mir, dass du deinen Kopf nicht verlierst. Willkommen im großer Komfort. Ah. Ah! Ah! Ah! Was? Was ist das? Was ist das? Frage ich sie. Was ist das? Frage ich Sie. Hä? Oh, nun, ich bin ich wollte ähm Nein, und so muss das im großen Komfort aussehen. Nun, wie kann ich ihn helfen? Setzen Sie sich bitte. Hm. Oh, sieht gemütlich aus hier. He. He. Guten Tag und herzlich willkommen an alle Sportfreunde. Heute steht ein großes Fußballspiel bevor. Alle sind gespannt darauf, was die Organisat",
+  "tx": "Verliere nie den Kopf. Ich habe dich, Bär. Und jetzt bist du mal dran mit fangen. Ja. Gleich beginnt unsere Kinderparty. Aber du fakst immer noch und bist noch nicht umgezogen. Ich find sie schneller als du. Zieh mal. Okay, meineten. Dann werde ich eben schneller zu Hause sein als du. Ich bin erste. Ich bin erste. I wie kann es sein, dass Bär vor mir hier ist? Oh wow, alles für mich allein. Alles klar, dann kann es losgehen. Hm. Alle warten schon auf dich, während du Pilz zusammengehst. Los jetzt. Mm. Ich bitte jetzt um eure Aufmerksamkeit und präsentiere den Bären. Habt keine Angst, liebe Kinder. Das ist nur mein Gehilfe Timon. Applaus bitte. Und nun wollen wir mal sehen, wer schneller rutschen kann. Oh. Na los, komm. Jippi! Ji! Und jetzt machen wir ein Ausritt auf dem Pferd. Oh! Bravo, bravo. Und jetzt gibt es Süßigkeiten. Ah, komm schon, wir reiten noch schneller, Mann. Bär jetzt mach doch mal ein bisschen schneller. Na los, ich war viel viel schneller. Hey Bär, was ist das denn für ein cooler Trick? Hier hast du deinen Kopf und da drüben, da hast du ihn nicht. Äh, hallöchen. Äh, was bist du nur für ein kopfloser Helfer? Aber Onkel, ich möchte mich für ihre Hilfe bedanken. Sie sind uns hier jederzeit herzlich willkommen, wann immer Sie möchten. Zeit nach Hause zu gehen, Bär. Aber versprich mir, dass du deinen Kopf nicht verlierst. Willkommen im großer Komfort. Ah. Ah! Ah! Ah! Was? Was ist das? Was ist das? Frage ich sie. Was ist das? Frage ich Sie. Hä? Oh, nun, ich bin ich wollte ähm Nein, und so muss das im großen Komfort aussehen. Nun, wie kann ich ihn helfen? Setzen Sie sich bitte. Hm. Oh, sieht gemütlich aus hier. He. He. Guten Tag und herzlich willkommen an alle Sportfreunde. Heute steht ein großes Fußballspiel bevor. Alle sind gespannt darauf, was die Organisatoren und die Mannschaften, die das Finale erreicht haben, für uns alle vorbereitet haben. Schauen wir mal, wie die Spieler sich auf das Spiel eingestellt haben. Werden wir echte Professionalität sehen. Also, der Gegner hat erst einmal Glück. Die Spannung steigt schnell. Ein Stürmer ist im Leder. Ab. Habt ihr das gesehen? Da kommt es zu Handreisigkeiten zwischen den Verteidigern und Stürmer. Guter Spieler ist vorerst auf dem Spiel. Was für ein Spiel, meine Damen und Herren. Was für ein Spiel. Die Sportler beider Teams zeigen große Professionalität. Abstoß! Tor! Tor! Was für ein schönes Tor, liebe Zuschauer. Und das Spiel ist vorübergehend unterbrochen. Der Stürmer verlässt das Feld. Es sieht so aus, als ob das Spiel von nun an mit weniger Spielern fortgesetzt wird. Sowas sieht man nur einmal im Leben. Ein wahres festes Sport. Liebe Zuschauer, hä? Hm. อื Hm. Oh. Nun, ich muss sagen, das ist ein echter großer Komfort. Ah, also sind Sie bereit, sich in den Arbeitstrubel zu stürzen? Hä, das ist für mich. Na dann vielen Dank. Ein markoser Sieg. Die Prinzessin und das Biest. Wow, Süß! Oh, mach der Prinzessin bitte eine Halskette. Und wenn wir stattdessen ein Spiel spielen, du kannst die Prinzessin sein. Nein, Prinzessinnen essen so etwas nicht. Hast du etwa meine Halskette vergessen? Ne. Nein, ich bin keine Prinzessin. Ich bin jetzt die Königin. Oh hey. Und los geht's, mein liebes Pferdchen. Oh, noch eine richtige Prinzessin. Hallo und herzlich willkommen in meinem Königreich. Oh! Süß! Hey, Prinzessin, schau mal hier. Das ist nur mein Einhorn. Oh! Mehr Leidenschaft. Zeigt mir Gefühle. Stellt euch vor, das ist ein Drache, der euch jetzt gleich entführen wird. Doch nicht so. Oh, so sieht das aus, wenn ihr entführt werdet. Oh ja, Zeit für eine Drachenjagd. Ху. Hey, Prinzessin. Oj, nein, jetzt kriegt sie Ärger. Hey, warte mal. Warte doch. Hey, Prinzessin, du hast ein Handy hier vergessen. Dann rannten sie weg und lebten glücklich bis ans Ende ihrer Tage. Gut, wir spielen nicht mehr, Prinzessin. Und jetzt, Bär, wirst du gleich ein Hubschrauber sein? So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amin.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7971
+  "src": "auto"
  },
  "vC2rEMnNTVc": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-07T05:29:26+00:00",
+  "checked": "2026-11-11T15:36:10+00:00",
   "title": "Mascha und der Bär 👧🐻 Stilwechsel | Verwandlemein Aussehen 💁🏼‍♀️👚🔃👗 Masha and the Bear",
   "duration": 4246,
   "published": "20261006",
@@ -17840,73 +18048,10 @@
   "spoken_v": 2,
   "pace": 87.8,
   "rare": 0.0809,
+  "var": 0.8199,
   "speech_s": 1883.9,
   "tokens": 2757,
   "kw": [
-   [
-    "bär",
-    "Bär, was würdest du denn nur machen ohne",
-    268,
-    276,
-    4.0,
-    11
-   ],
-   [
-    "rosi",
-    "Rosi. Rosi, wo bist du mein kleines",
-    1724,
-    1729,
-    3.09,
-    4
-   ],
-   [
-    "klassisches",
-    "auf. Dann nehmen wir ein klassisches",
-    872,
-    878,
-    3.64,
-    6
-   ],
-   [
-    "merc",
-    "Sag Merc und sie wo in den USA England auf Kanada,",
-    750,
-    761,
-    2.19,
-    2
-   ],
-   [
-    "ziege",
-    "ist denn meine Ziege hin? Hier, riech und such.",
-    2598,
-    2610,
-    3.52,
-    4
-   ],
-   [
-    "lalala",
-    "In Verona, in Italien, lalala lalala,",
-    1061,
-    1070,
-    2.48,
-    2
-   ],
-   [
-    "wagst",
-    "wagst vorher, wie du bitte und danke sagst.",
-    709,
-    720,
-    2.62,
-    2
-   ],
-   [
-    "kichert",
-    "Wenn einer kichert, verpasse ich ihm",
-    2370,
-    2376,
-    2.72,
-    2
-   ],
    [
     "nein",
     "ein Kostüm. Nein. B.",
@@ -17924,11 +18069,11 @@
     12
    ],
    [
-    "königin",
-    "Krone vorübergehend Königin Marianna der allerersten. Die kriege ich. Ich bin",
-    3170,
-    3179,
-    4.46,
+    "hast",
+    "B, was ist denn los? Hast du etwas",
+    527,
+    534,
+    5.75,
     10
    ],
    [
@@ -17940,19 +18085,19 @@
     10
    ],
    [
+    "königin",
+    "Krone vorübergehend Königin Marianna der allerersten. Die kriege ich. Ich bin",
+    3170,
+    3179,
+    4.46,
+    10
+   ],
+   [
     "hut",
     "Der Hut war nicht für dich gedacht, also",
     1323,
     1328,
     4.39,
-    10
-   ],
-   [
-    "hast",
-    "B, was ist denn los? Hast du etwas",
-    527,
-    534,
-    5.75,
     10
    ],
    [
@@ -17964,23 +18109,119 @@
     9
    ],
    [
-    "euch",
-    "Es ist uns eine große Ehre euch unsere",
-    1047,
-    1056,
-    5.71,
+    "drama",
+    "ein klassisches Drama auf. Vielleicht sogar eine Tragödie. Ich sage, wir",
+    892,
+    903,
+    4.31,
     8
+   ],
+   [
+    "bär",
+    "Bär, was würdest du denn nur machen ohne",
+    268,
+    276,
+    4.0,
+    11
+   ],
+   [
+    "klassisches",
+    "auf. Dann nehmen wir ein klassisches",
+    872,
+    878,
+    3.64,
+    6
+   ],
+   [
+    "drehbuch",
+    "Du meinst, wir sollten ein Drehbuch",
+    3609,
+    3615,
+    3.96,
+    4
+   ],
+   [
+    "kostüm",
+    "mitfeiern, wenn man ein Kostüm trägt.",
+    112,
+    119,
+    3.89,
+    4
+   ],
+   [
+    "ziege",
+    "ist denn meine Ziege hin? Hier, riech und such.",
+    2598,
+    2610,
+    3.52,
+    4
+   ],
+   [
+    "rosi",
+    "Rosi. Rosi, wo bist du mein kleines",
+    1724,
+    1729,
+    3.09,
+    4
+   ],
+   [
+    "theaterstück",
+    "Theaterstück. Ist das öde? Eine Opa ist doch so viel",
+    876,
+    885,
+    3.59,
+    2
+   ],
+   [
+    "erkennst",
+    "erkennst du ihre Sauerkraft? Oh, was ist denn mit deinem Koffer? Da",
+    797,
+    813,
+    3.5,
+    2
+   ],
+   [
+    "pfote",
+    "Pfote zu gehen. Es gezi sich nicht, dass ein König sich",
+    3082,
+    3098,
+    2.99,
+    2
+   ],
+   [
+    "hissen",
+    "hissen. Hey, das ist Meuterei. Leute, der",
+    1382,
+    1392,
+    2.93,
+    2
+   ],
+   [
+    "matrose",
+    "Matrose, volle Kraft voraus. Hurra!",
+    1337,
+    1381,
+    2.9,
+    2
+   ],
+   [
+    "majestätisch",
+    "inspizere, ob auch alles majestätisch ist.",
+    3319,
+    3328,
+    2.8,
+    2
    ]
   ],
-  "tx": "Gleich beginnt unsere Kinderparty. Aber du fakst immer noch und bist noch nicht umgezogen. Alle warten schon auf dich, während du Pilz zusammen gehst. Los jetzt. Ernte Dankfest. Ich will auch. Ich will auch. Ich möchte auch Erntefest Spaß haben. Hurra! Wir feiern eine Party. Das heißt, lieber Hase, man darf nur mitfeiern, wenn man ein Kostüm trägt. Was soll ich nur tun? Ich habe aber doch gar kein Kostüm. Ein Kostüm? Ich brauche ein Kostüm. Nein. B. Aber was dann? Als was soll ich mich verkleiden? Oh, nur ein Wunder kann mich noch retten. Magie. Ich muss Magie benutzen. Ich bin die zauberhafteste aller Fehen. Oh. Oh. Ja, was machen wohl all die anderen? Nein, nein, nein, nein, nein. Und was? Oh. Hallo zusammen. Was ist das Problem? H, dafür bin ich zuständig. Und wenn ihr noch Hilfe braucht, ich bin da. Ach, das ist kein Problem. Das regel ich im Handumdrehen. Bär, was würdest du denn nur machen ohne mich? Aber Mitternacht ist doch noch weit entfernt. Jetzt ist es an der Zeit, dich anzuziehen. อ嗯 Hm. Ah! Ach! Zeit! Warum kannst du nicht stehen bleiben? He. Okay, die Feier verlief nicht ganz wie geplant, aber schaut doch, was für eine tolle Ernte wir haben. Nein, nein, ich sollte nicht an Wunder glauben. Weltreise gewinnlos auf Seite 15. Abfahrt heute 18:30 Uhr. Ja. B, was ist denn los? Hast du etwas verloren? Oh, sowas Dummes. Der Bär hat sein Kreuzfahrt gewinnlos verloren. Ah, da vorne liegt es ja. Geh du es schnell holen und ich lenke so lange den Bären ab. Kein Glück. Hast du es nicht gefunden? Wenn wir gemeinsam suchen, finden wir es. Wie soll man denn irgendwas finden in dieser chaotischen Unordnung? haben wir im Schlafzimmer gesucht. Dann Müssen wir wohl mal in der Küche nachsehen. Haben wir was vergessen? Die Besenkammer. Wer weißt du eigentlich, welches die wich",
+  "tx": "Gleich beginnt unsere Kinderparty. Aber du fakst immer noch und bist noch nicht umgezogen. Alle warten schon auf dich, während du Pilz zusammen gehst. Los jetzt. Ernte Dankfest. Ich will auch. Ich will auch. Ich möchte auch Erntefest Spaß haben. Hurra! Wir feiern eine Party. Das heißt, lieber Hase, man darf nur mitfeiern, wenn man ein Kostüm trägt. Was soll ich nur tun? Ich habe aber doch gar kein Kostüm. Ein Kostüm? Ich brauche ein Kostüm. Nein. B. Aber was dann? Als was soll ich mich verkleiden? Oh, nur ein Wunder kann mich noch retten. Magie. Ich muss Magie benutzen. Ich bin die … Die Besenkammer. Wer weißt du eigentlich, welches die wichtigsten Wörter auf der Welt sind? Dann hör aufmerksam zu und merk sie dir gut. Es gibt viele Sprachen auf der Welt, was uns vor manches rät stellt. Drum lernen, wenn du eine Reise wagst vorher, wie du bitte und danke sagst. In Spanien oder Mexiko musst du da dringend mal aufs Klo, dann mach dir nicht die Hose nass. Sag fortver und Grazial. Dort wo man Deutsch spricht. Glaube mir, sag bitte und schon hilft man dir. Und gleich danach, bevor du fragst. Denk dran, dass du danke sagst. Bist du in Frankreich unterwegs, hast Hunger und … viel besser. Ganz tolle Kostüme und gesungen. Auch Das ist auch öde. Ich sage, wir führen ein klassisches Drama auf. Vielleicht sogar eine Tragödie. Ich sage, wir führen eine Opa auf. Eine Opa. Opa, wir führen eine Opa. Nein, ein großes Drama. Nur in der Opa wird gesungen. Ich sage, wir nehmen ein klassisches Drama auf. Nein, ich sage Drama, ein klassisches Theater. Opa auf. Nur ein Drama, ein großes Drama. Ein Drama ein großes Theaterst. Ich sage wir nehmen ein großes klassisches Drama. Wir f atstück. Ich sage ein klassisches Theaterstück. Ich sage, wir führen eine Ho. Das ist eine tolle … sind voller Freude. Doch sehet nur, was gleich passiert. Er tut genau, was ich befeh. Sonst gibt's ein Donnerwette. Meine Zauberkraft ist stark. Für euch gibt es keinen Retter. Nein, keiner fürchtet deine Macht. rum. Hau bloß ab, sonst gibt's 100. Ah. Herrlich, was für eine Diva. Der Hut war nicht für dich gedacht, also mach mal Platz hier. Ich trage den besonderen Hut und deshalb bin ich auch die Kapitän. Und die Kapitän steuert auch das Schiff. Matrose, volle Kraft voraus. Hurra! Ozean entdeckt auf Steuerboard. Bootsmann, es ist Zeit, die Segel zu hissen. Hey, das ist Meuterei. Leute, der … Wem könnte ich das denn noch zeigen? Wer? Natürlich. Entschuldigt bitte. Habt ihr irgendwo meinen Hut gesehen? Er ist schwarz und hat eine Spitze. Merci. Hallo, Bär. Sieh mal, was ich im Wald gefunden habe. Einen Hut mit unglaublichen Zauberkräften. Ja. Ja, ich habe magische Kräfte wie ein echter Zauberer. Ach, das ist doch kein Problem. Das bringen wir in 0 kom nichts wieder in Ordnung. schon fertig. Alles zauberhaft aufgeräumt. Hör auf ihn so anzuschreien. Er ist lebendig. Du verletzt deine Gefühle und außerdem ist er praktisch. Cool. Siehst du jetzt, wie nützlich dieser Hut ist? Er ist … Nein, auch Wissenschaftler sind manchmal sehr lustig. Da werde ich lieber Ärztin. Ich will nie in meinem Leben wieder ausgelacht werden. Wenn einer kichert, verpasse ich ihm eine Riesenspritze. Eine noch bessere Idee, Lehrerin. Wer kichert, bekommt eine sech. Und wer laut lacht, der muss ab zum Direktor. Leere Zimmer. Ich bin auf dem Weg. Ich komme ja schon. Schnell, schnell, schnell, schnell, schnell. Nur eine Sekunde, ich bin sofort da. Ich laufe ja schon so schnell ich nur kann. Hallo liebe Schüler, ich bin ab heute eure neue Klassenlehrerin. Wenn du dich matt und traurig fühlst, dir … gegrüßt an das planetiger Bruder. Hast du von da oben zufällig meine Ziege gesehen? Und ihr habt gedacht, das wä ein Außerirdischer. Ganz ruhig. Hab keine Angst, Jungs. Der will doch nur spielen. Aus beim Fuß. Halt. Komm zurück. Hierher sage ich. Komm zurück. Aus. Hurra, du bist wieder da. Wir haben ein verlorenes Zicklein wieder gefunden. Gibt es denn bei uns nicht genug zu futtern für dich? Musstest du denn wirklich weglaufen und dich auch noch am Feld unseres Nachbarn bedienen? Na prima. Wo ist sie denn jetzt schon wieder hinverschwunden? Wer behrt uns denn da mit seinem Besuch? Bist du … der allerersten. Die kriege ich. Ich bin Königin. Hier stehe ich rum und habe ein Königreich zu regieren. Der Lebenkönig hat mich zu seiner Lieblingskönigin erklärt. Es gehört sich nicht, dass eine Königin zu Fuß geht. Ich wä ein standesgemäßes Königinmobil. Ein Königinmobil. Du wagst es, die Pfote zu erheben? Ah, dann hab Dank für deinen ritterlichen Einsatz. Zum Palast. H, es schickt sich nicht, dass eine Königin in so einem kleinen Haus wohnt. Hey, mein Volk, baut mir einen anständigen Palast. Ah, seht ihr? Es geht doch, wenn ich euch zwinge. Na dann, du bereitest mir ein königliches … ich mir schon lieber einen Zeichentrickfilm an. Hey Bär, schau mal im Fernsehen schneid es auch. Mir ist langweilig. Es ist so unglaublich langweilig. Vielleicht sollten wir einen Film machen. Bär, lass uns anfangen. Ich bin bereit. Du meinst, wir sollten ein Drehbuch schreiben? Können wir das nicht auslassen? Na gut, ist in Ordnung. Worum geht es denn? Wer wird sich denn sowas langweiliges anschauen? Nein, so einen Film brauchen wir wirklich nicht. Das ist besser. Das nenne ich mal einen tollen Film. Und ich, was ist mit mir? Was soll das? Ich bin nicht das Bild. Nein, das funktioniert so … wahre Schönheit nur von innen kommt. Warum liegst du noch rum? All diese Schönheit muss fotografiert werden. Was ist mein lieber Hase? Willst du vielleicht auch so schön sein wie ich? Aber all die Schönheiten, so geht man nicht mit einem Fräulein von ausgesprochener Schönheit um. Schön. ist eine schreckliche Macht. So, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7951
+  "src": "auto"
  },
  "uzNrP5ZyH0A": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-07T05:34:32+00:00",
+  "checked": "2026-11-11T15:31:16+00:00",
   "title": "Learn German the Natural Way | Walk & Talk Through the City (Comprehensible Input for Beginners)",
   "duration": 940,
   "published": "20250705",
@@ -17988,73 +18229,10 @@
   "spoken_v": 2,
   "pace": 65.0,
   "rare": 0.1026,
+  "var": 0.7368,
   "speech_s": 907.7,
   "tokens": 984,
   "kw": [
-   [
-    "taco",
-    "Taco liegt",
-    43,
-    52,
-    2.71,
-    8
-   ],
-   [
-    "gastgarten",
-    "Der Gastgarten. Im Gastgarten gibt es Tische und Stühle.",
-    238,
-    252,
-    2.41,
-    5
-   ],
-   [
-    "supermärkte",
-    "Österreich haben alle Supermärkte und Läden sonntags geschlossen. Hier in",
-    185,
-    201,
-    3.43,
-    4
-   ],
-   [
-    "serviette",
-    "eine Serviette. die Serviette und eine Unterlage. Taco braucht eine",
-    611,
-    623,
-    2.81,
-    2
-   ],
-   [
-    "alltägliche",
-    "Deutschler, die alltägliche Wörter und alltägliche Sätze wiederholen möchten.",
-    81,
-    95,
-    3.52,
-    3
-   ],
-   [
-    "kostprobe",
-    "Die Kostprobe. Die Verkäuferin gebt Kostproben aus. Der Mann probiert",
-    853,
-    865,
-    3.01,
-    2
-   ],
-   [
-    "aschenbecher",
-    "gibt es einen Aschenbecher. Die Zigarette und der Aschenbecher.",
-    318,
-    332,
-    3.17,
-    2
-   ],
-   [
-    "cappuccino",
-    "mein Mann trinkt einen Cappuccino. Der Cappuccino hat einen schönen",
-    633,
-    646,
-    3.23,
-    2
-   ],
    [
     "tisch",
     "schattigen Tisch im Gastgarten.",
@@ -18062,6 +18240,30 @@
     274,
     4.83,
     8
+   ],
+   [
+    "grünen",
+    "grünen Daumen. Wenn eine Person einen",
+    381,
+    393,
+    4.99,
+    5
+   ],
+   [
+    "hast",
+    "weil ich auf das Gießen vergesse. Hast",
+    412,
+    425,
+    5.75,
+    4
+   ],
+   [
+    "tag",
+    "tag für Tag zu wiederholen und zu üben.",
+    108,
+    119,
+    5.69,
+    4
    ],
    [
     "restaurant",
@@ -18080,19 +18282,11 @@
     6
    ],
    [
-    "wörter",
-    "Deutschler, die alltägliche Wörter und alltägliche Sätze wiederholen möchten.",
-    81,
-    95,
-    4.35,
-    5
-   ],
-   [
-    "sitze",
-    "Ich sitze auf einer Bank, die Parkbank.",
-    20,
-    35,
-    4.47,
+    "geschlossen",
+    "geschlossen sein. Der Supermarkt ist geschlossen.",
+    174,
+    186,
+    4.72,
     5
    ],
    [
@@ -18104,26 +18298,98 @@
     5
    ],
    [
-    "guck",
-    "denn heute ist es sehr heiß. Und guck",
-    34,
-    44,
-    4.37,
+    "sonntags",
+    "und Läden sonntags geschlossen. Hier in",
+    190,
+    201,
+    3.99,
+    4
+   ],
+   [
+    "läden",
+    "und Läden sonntags geschlossen. Hier in",
+    190,
+    201,
+    3.97,
+    3
+   ],
+   [
+    "tische",
+    "Im Gastgarten gibt es Tische und Stühle.",
+    241,
+    252,
+    3.86,
+    3
+   ],
+   [
+    "supermarkt",
+    "Der Supermarkt geschlossen sein. Der Supermarkt ist",
+    170,
+    181,
+    4.17,
+    2
+   ],
+   [
+    "supermärkte",
+    "Österreich haben alle Supermärkte und Läden sonntags geschlossen. Hier in",
+    185,
+    201,
+    3.43,
+    4
+   ],
+   [
+    "alltägliche",
+    "Deutschler, die alltägliche Wörter und alltägliche Sätze wiederholen möchten.",
+    81,
+    95,
+    3.52,
+    3
+   ],
+   [
+    "mülleimer",
+    "und der Mülleimer. Das ist ein Mülleimer. Ich habe die",
+    150,
+    164,
+    3.54,
+    2
+   ],
+   [
+    "verkäuferin",
+    "Die Kostprobe. Die Verkäuferin gebt Kostproben aus. Der Mann probiert",
+    853,
+    865,
+    3.48,
+    2
+   ],
+   [
+    "taco",
+    "Taco liegt",
+    43,
+    52,
+    2.71,
+    8
+   ],
+   [
+    "gastgarten",
+    "Der Gastgarten. Im Gastgarten gibt es Tische und Stühle.",
+    238,
+    252,
+    2.41,
     5
    ],
    [
-    "grünen",
-    "grünen Daumen. Wenn eine Person einen",
-    381,
-    393,
-    4.99,
-    5
+    "serviette",
+    "eine Serviette. die Serviette und eine Unterlage. Taco braucht eine",
+    611,
+    623,
+    2.81,
+    2
    ]
   ],
-  "tx": "Hallo, wir sind heute in Udine. Ud italienische Stadt ungefähr 5 Stunden von München entfernt. Wir sind also in Italien. Ich sitze auf einer Bank, die Parkbank. Ich sitze im Schatten, der Schatten, denn heute ist es sehr heiß. Und guck mal, Taco liegt unter der Bank. Taco liegt unter der Bank und ich sitze auf der Bank und wir ruhen uns jetzt ein bisschen aus, oder doch nicht? Nein, Taco möchte euch jetzt beim Deutsch lernen helfen. Dieser Deutschlernflog ist für Beginner und für alle Deutschler, die alltägliche Wörter und alltägliche Sätze wiederholen möchten. Wir spazieren durch die Stadt und benennen Dinge, die wir sehen. Diese Methode kann dir auch zu Hause helfen, alltägliche Wörter auf Deutsch tag für Tag zu wiederholen und zu üben. Sprich also gerne auch mit. Los geht's. Auf dem Boden liegt eine Zigarettenpackung. Die Zigarette und die Zigarettenpackung. Die Zigarettenpackung gehört nicht auf den Boden. Der Boden wegwerfen. Ich werfe den Müll, die Zigarettenpackung weg und der Mülleimer. Das ist ein Mülleimer. Ich habe die Zigarettenpackung in den Müllimer geworfen. Der Supermarkt geschlossen sein. Der Supermarkt ist geschlossen. Heute ist Sonntag. In Deutschland und in Österreich haben alle Supermärkte und Läden sonntags geschlossen. Hier in Italien haben einige Supermärkte auch sonntags geöffnet. Einige Supermärkte sind in Italien auch sonntags offen. Wie sieht das in deinem Heimatland aus? haben Supermärkte und Läden sonntags geschlossen oder geöffnet. Das Restaurant ist noch geschlossen. Später werden die Restaurants öffnen. Der Gastgarten. Im Gastgarten gibt es Tische und Stühle. Sitzt du an einem schönen an einem sonnigen Tag, lieber im Gastgarten oder im Restaurant. Ich sitze im Sommer gerne an einem schattigen Tisch im Gastgarten. Hier gibt es zwei Tische",
+  "tx": "Hallo, wir sind heute in Udine. Ud italienische Stadt ungefähr 5 Stunden von München entfernt. Wir sind also in Italien. Ich sitze auf einer Bank, die Parkbank. Ich sitze im Schatten, der Schatten, denn heute ist es sehr heiß. Und guck mal, Taco liegt unter der Bank. Taco liegt unter der Bank und ich sitze auf der Bank und wir ruhen uns jetzt ein bisschen aus, oder doch nicht? Nein, Taco möchte euch jetzt beim Deutsch lernen helfen. Dieser Deutschlernflog ist für Beginner und für alle Deutschler, die alltägliche Wörter und alltägliche Sätze wiederholen möchten. Wir spazieren durch die Stadt … Methode kann dir auch zu Hause helfen, alltägliche Wörter auf Deutsch tag für Tag zu wiederholen und zu üben. Sprich also gerne auch mit. Los geht's. Auf dem Boden liegt eine Zigarettenpackung. Die Zigarette und die Zigarettenpackung. Die Zigarettenpackung gehört nicht auf den Boden. Der Boden wegwerfen. Ich werfe den Müll, die Zigarettenpackung weg und der Mülleimer. Das ist ein Mülleimer. Ich habe die Zigarettenpackung in den Müllimer geworfen. Der Supermarkt geschlossen sein. Der Supermarkt ist geschlossen. Heute ist Sonntag. In Deutschland und in Österreich haben alle Supermärkte und … Italien haben einige Supermärkte auch sonntags geöffnet. Einige Supermärkte sind in Italien auch sonntags offen. Wie sieht das in deinem Heimatland aus? haben Supermärkte und Läden sonntags geschlossen oder geöffnet. Das Restaurant ist noch geschlossen. Später werden die Restaurants öffnen. Der Gastgarten. Im Gastgarten gibt es Tische und Stühle. Sitzt du an einem schönen an einem sonnigen Tag, lieber im Gastgarten oder im Restaurant. Ich sitze im Sommer gerne an einem schattigen Tisch im Gastgarten. Hier gibt es zwei Tische im Schatten und hier gibt es zwei Tische in der Sonne. Vorzugst du … Sonne. Viele Restaurants stellen für Hunde Wassernöpfe zur Verfügung. Es gibt also Wassernöpfel für Hunde und neben dem Wassernap, guck mal, gibt es einen Aschenbecher. Die Zigarette und der Aschenbecher. Ich glaube, Taco braucht eine Pause. Die Pause. Es ist Tacos erster Sommer. Das erste richtig heiße Wetter. Taco trinkt also viel und braucht immer wieder Pausen im Schatten. Die Pflanzen und die Hängepflanze. Ich liebe Pflanzen, aber ich habe keinen grünen Daumen. Wenn eine Person einen grünen Daumen hat, bedeutet das, dass sie gut mit Pflanzen kann. dass Pflanzen bei dieser Person gut … Bei mir verwälken die meisten Pflanzen, weil ich auf das Gießen vergesse. Hast du einen grünen Daumen? Hast du viele echte Pflanzen in deinem Zuhause? Die Gasse, die Sackgasse, das grüne Garagentor, die Garage und die Satellitenschüsseln. Kannst du die Satellitenschüsseln sehen? Die Brücke. Wir gehen über die Brücke. Der Fluss. Unter der Brücke fließt ein Fluss. Das Fahrrad, das orange Fahrrad hat einen Fahrradkorb. der Fahrradkorb und natürlich auch eine Ring Ring Klingel, die Fahrradklingel und guck mal hier vorne, hier vorne ist ein Motorrad. Das Motorrad, also das Rad, das Fahrrad … Fahrrad. Fährst du Fahrrad, Roller, Motorrad, Auto oder gehst du lieber zu Fuß oder bevorzugst du öffliche Verkehrsmittel? schreibt mir das doch gerne in die Kommentare. Wir gehen weiter. Wir haben ein Restaurant gefunden, das bereits geöffnet hat. Wir sitzen an einem Tisch für zwei Personen und Taco ist gerade abgehauen. Einen Moment. Taco hier. Fein. Das Restaurant ist noch fast leer, aber mehr und mehr Menschen kommen ins Restaurant und hier möchte ich dir ein paar wichtige Wörter mitgeben und zwar das Gedeck, das Tischgedeck. Der Tisch ist also für Gäste. Bra. Der Tisch ist also für … das Besteck, eine Gabel, ein Messer, eine Serviette. die Serviette und eine Unterlage. Taco braucht eine Pause und ich brauche Kaffee. Ich trinke wie immer Kaffee mit Milch, einen Latemaiato und mein Mann trinkt einen Cappuccino. Der Cappuccino hat einen schönen Milchschauben, der Löffel, der Kaffeelöffel und Zucker, der Zucker für den Kaffee umrühren. Der Kaffee wird mit dem Löffel umgerührt. Ich finde dieses Restaurant super schön, denn guck mal, wir sitzen am Wasser. Es gibt Blumen, schöne rosagelbe Blumen und die Stühle sind in unterschiedlichen Farben. Ich sitze auf einem grauen … Hier hinten gibt es einen blauen Stuhl. Der blaue Stuhl. Welche anderen Farben kannst du fählen? Und noch ein wichtiges Wort, die Reservierung. Man reserviert ein Hotelzimmer oder eben z.B. einen Tisch. Hier in diesem Restaurant hat Monika für drei Personen einen Tisch reserviert. Wir dürfen hier also nicht sitzen. Und weiter geht's. Wir spazieren noch ein bisschen durch die Straßen. Auf dem Hauptplatz finden wir einen Brunnen. Aus dem Brunnen kommt Trinkwasser. Es ist also ein Trinkbrunnen. Auffüllen. Ich fülle die Wasserflasche auf. In dieser Straße gibt es viele Läden. Das Schaufenster, … Es ist also frei. Der Juwelier, das Schmuckgeschäft. Hier kann man Schmuck kaufen. Das Modegeschäft. Hier kann man Kleidung kaufen, aber auch Accessoires wie Taschen, Gürtel und Modeschmuck. Das Bistro. Die Gäste sitzen draußen im Gastgarten. Die Eisstiele. Der Mann bestellt eine Kugel Eis. Und guck mal, heute findet hier auch ein Wochenmarkt statt. Hier verkaufen Landwirte, Bauern und Winzer ihre eigenen Produkte. Es wird Käse verkauft und Obst, Gemüse, Pestos und Aufstriche wie Konfitüren und Honig. Die Kostprobe. Die Verkäuferin gebt Kostproben aus. Der Mann probiert die Kostprobe. … viele Besucher hier. Die Rettungssanitäterin geht durch die Menschenmassen. Der Informationsstand. Besucher können sich hier informieren und dahinter steht ein blauer Traktor. Und das hier ist ein kleiner Zeitungskiosk. Hier werden Zeitungen und Zeitschriften verkauft. Der Blumenstand. Die Verkäuferin verkauft hier frische Blumen. Die Kundin kauft einen Blumenstrauß. Es gibt Rosen in allen Farben. So, ich hoffe, du hast in diesem Video viele neue Wörter gelernt. Vielleicht hast du auch einige Wörter oder Sätze mitgesprochen. Ich wünsche dir einen schönen Tag. Bis zum nächsten Mal und tschüss.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6966
+  "src": "auto"
  },
  "jXKW9h1gQuU": {
   "channel": "Nicos Weg (DW)",
@@ -18982,7 +19248,7 @@
  "XJjPBlSYkrU": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-08T15:24:44+00:00",
+  "checked": "2026-11-11T15:17:22+00:00",
   "title": "7 Verben mit „zahlen“, die du wirklich brauchst (B2/C1)",
   "duration": 801,
   "published": "20260628",
@@ -19155,7 +19421,8 @@
     3
    ]
   ],
-  "tx": "Was ist eigentlich der Unterschied zwischen „zahlen“ und „bezahlen“? Und was bedeuten „abzahlen“, „anzahlen“ und andere Verben mit „zahlen“? All diese Fragen klären wir heute! Wir haben übrigens heute 37 Grad draußen und auch hier drinnen ist es unglaublich heiß. Also verzeiht mir, falls ich etwas fertig aussehe. Und wenn ihr Tipps habt, wie man es bei diesen heißen Temperaturen gut aushalten kann, schreibt sie gerne in die Kommentare. Also, “zahlen” und “bezahlen”: Diese beiden Verben haben dieselbe Grundbedeutung: Man gibt jemandem Geld und bekommt etwas dafür. In Wörterbüchern werden „zahlen“ und „bezahlen“ oft als Synonyme gelistet, aber sie sind nicht 100 %ig gleich. Es gibt Situationen, in denen wir beide Verben benutzen können. In anderen Situationen nutzen wir aber lieber „zahlen“ oder „bezahlen“. Schauen wir uns das mal genauer an. Hier sind ein paar Beispielsätze: - „Für das alte Auto hat er 1000 Euro gezahlt.\" - “Ich zahle jeden Monat 300 Euro für Lebensmittel.” - Und: “War dein Handy teuer?” – “Nein, ich habe nur 60 Euro dafür bezahlt.” In diesen Beispielen geht es um konkrete Geldsummen: 1000 Euro, 60 Euro, 300 Euro. Eine Person gibt einer anderen Person Geld und bekommt dafür etwas: ein Auto oder ein Handy oder Lebensmittel. In diesen Fällen werden “zahlen” und “bezahlen” wie Synonyme benutzt. Es gibt hier keinen wirklichen Unterschied. Der konkrete Geldbetrag muss übrigens nicht so genau benannt werden. Ich könnte auch sagen: - „In Deutschland zahlt man relativ hohe Steuern.\" - Oder: “Wenn du im Sportverein bist, musst du einen Mitgliedsbeitrag bezahlen.” Hier nenne ich zwar keine konkrete Geldsumme, aber es ist eine konkrete Geldsumme gemeint. Ich könnte auch sagen “Er zahlt 1000 Euro Steuern” oder “Du musst 20 Euro Mitgliedsbeitrag zahlen”. In diesen Sä",
+  "tx": "Was ist eigentlich der Unterschied zwischen „zahlen“ und „bezahlen“? Und was bedeuten „abzahlen“, „anzahlen“ und andere Verben mit „zahlen“? All diese Fragen klären wir heute! Wir haben übrigens heute 37 Grad draußen und auch hier drinnen ist es unglaublich heiß. Also verzeiht mir, falls ich etwas fertig aussehe. Und wenn ihr Tipps habt, wie man es bei diesen heißen Temperaturen gut aushalten kann, schreibt sie gerne in die Kommentare. Also, “zahlen” und “bezahlen”: Diese beiden Verben haben dieselbe Grundbedeutung: Man gibt jemandem Geld und bekommt etwas dafür. In Wörterbüchern werden … gibt einer anderen Person Geld und bekommt dafür etwas: ein Auto oder ein Handy oder Lebensmittel. In diesen Fällen werden “zahlen” und “bezahlen” wie Synonyme benutzt. Es gibt hier keinen wirklichen Unterschied. Der konkrete Geldbetrag muss übrigens nicht so genau benannt werden. Ich könnte auch sagen: - „In Deutschland zahlt man relativ hohe Steuern.\" - Oder: “Wenn du im Sportverein bist, musst du einen Mitgliedsbeitrag bezahlen.” Hier nenne ich zwar keine konkrete Geldsumme, aber es ist eine konkrete Geldsumme gemeint. Ich könnte auch sagen “Er zahlt 1000 Euro Steuern” oder “Du … In diesen Fällen benutzen wir normalerweise das Verb “etwas bezahlen”. Manchmal hört man hier auch „zahlen“, aber “bezahlen“ passt besser. Wenn ich einer Person für ihre Arbeit Geld gebe und diese Person im Akkusativ steht, brauche ich auch das Verb „bezahlen“. Zum Beispiel: - „Ich muss noch den Handwerker bezahlen, der letzte Woche meine Waschmaschine repariert hat.\" Also: Ich muss dem Handwerker noch das Geld geben oder ihm das Geld überweisen. In diesem Satz wäre “zahlen” falsch. Hier ist noch ein weiteres Beispiel dafür: - „Sie bezahlt ihre Angestellten überdurchschnittlich gut.” … Bedeutungen sehen möchtet, schreibt mir das gerne in die Kommentare. Wir machen jetzt weiter mit “etwas abzahlen” und “etwas abbezahlen”. Diese beiden Verben beschreiben genau dasselbe. Stellt euch vor, ihr wollt ein neues Auto kaufen. Es kostet 24.000 Euro – aber so viel Geld könnt ihr nicht auf einmal bezahlen. Also macht ihr es so, wie es viele Leute machen: Ihr zahlt jeden Monat einen festen Betrag, zum Beispiel 500 Euro, und nach einigen Jahren habt ihr das Auto dann komplett bezahlt. Genau diesen Vorgang – Monat für Monat einen Teil zahlen, bis am Ende alles bezahlt ist – nennt … einen Kredit bei der Bank aufnehmen müssen, um es sich zu kaufen, und diesen Kredit zahlen sie viele Jahre ab. Sie zahlen regelmäßig Geld an die Bank, bis der Kredit abbezahlt ist. Noch zwei Beispiele: - „Den Fernseher haben wir in 24 Raten abbezahlt.” - Und: „Sie zahlt ihren Studienkredit in monatlichen Raten von 250 Euro ab.\" Ich habe was Neues für euch, nämlich eine Videoserie über die wichtigsten Merkmale der gesprochenen deutschen Sprache. In 5 kurzen Videos schauen wir uns zum Beispiel die Aussprache an, die Satzstellung und, wie man in der gesprochenen Sprache über die … bedeutet also: einen ersten Teil des Gesamtpreises zahlen. Hier sind noch ein paar Beispiele: - „Wir haben die Wohnung mit 50.000 Euro angezahlt und nehmen für den Rest einen Kredit auf.” - Oder: „Für das neue Sofa haben wir 200 Euro angezahlt. Den Rest zahlen wir, wenn es geliefert wird.” Sehr häufig hört man dieses Verb auch, wenn es um den Urlaub geht. Wenn ihr eine Reise oder ein Hotel bucht, müsst ihr oft einen Teil sofort anzahlen, damit die Buchung gültig ist. Den Rest bezahlt man dann später, kurz bevor die Reise losgeht. Weiter geht’s mit “einzahlen”. Dieses Verb wird oft benutzt, … Geld bewegt sich von außen nach innen, in die Bank, auf das Konto. Wir verwenden das Verb „einzahlen“ aber auch noch etwas anders. Hier ist ein Beispiel: - “Ich zahle jeden Monat 500 Euro in die Rentenversicherung ein.” “Einzahlen” beschreibt hier, dass ich Geld irgendwo hin zahle, wo es für später „gesammelt“ wird. Ich gebe der Rentenversicherung Geld, damit ich später, wenn ich alt bin, Rente bekomme. Oder: - “Wie viel zahlst du pro Monat in die Krankenversicherung ein?” Ich gebe der Krankenversicherung Geld, damit die Versicherung später, wenn ich mal krank bin, die Arztkosten für mich … muss die Firma ihnen das Geld auszahlen. In welchen Situationen hört man dieses Verb besonders oft? Eine Firma oder ein Arbeitgeber zahlt den Angestellten ihren Lohn oder ihr Gehalt aus. Das Arbeitsamt zahlt das Arbeitslosengeld aus, die Rentenkasse zahlt die Rente aus. Hier ist noch ein Beispielsatz: - „Nach dem Unfall hat die Versicherung der Familie 50.000 Euro ausgezahlt.” Auf der einen Seite steht hier meistens eine Institution – eine Firma, eine Versicherung, eine Behörde, eine Bank –, auf der anderen Seite eine Person, die ein Recht auf dieses Geld hat. “Auszahlen” hat aber noch eine … gebe ich meiner Schwester Geld – so viel Geld, wie 50 % des Hauses wert sind. Ich zahle meine Schwester aus. Danach gehört das Haus mir allein, und meine Schwester hat kein Recht mehr an dem Haus. Weiter geht’s mit dem Verb “zuzahlen”. Dieses Verb brauchen wir oft, wenn wir über gesundheitliche Themen sprechen. Stellt euch vor, ihr bekommt ein Rezept vom Arzt, für ein Medikament. Ihr holt das Medikament in der Apotheke. Eure Krankenkasse, die Krankenversicherung, bezahlt das Medikament. Es kann aber sein, dass ihr einen kleinen Betrag – zum Beispiel fünf Euro – selbst zahlen müsst. Das … möchtet, müsst ihr wahrscheinlich etwas zuzahlen. Die Krankenkasse übernimmt dann nur einen Teil und den Rest müsst ihr selbst bezahlen. Falls ihr mehr über Zahnfüllungen und generell das Thema “Deutsch beim Zahnarzt” erfahren möchtet, schaut euch gern mein Video dazu an. Ich verlinke es in der Videobeschreibung. Wenn euch dieses Video gefallen hat, empfehle ich euch als nächstes meine Videos über Finanzbegriffe für Deutschlerner und 20 Wörter mit Geld. Schaut gern rein und gebt mir gerne einen Daumen nach oben, darüber freu ich mich sehr. Vielen Dank fürs Zuschauen und bis nächste Woche!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -19490,7 +19757,7 @@
  "9IaIjfjYBWU": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-08T15:33:39+00:00",
+  "checked": "2026-11-11T15:25:32+00:00",
   "title": "Remote lesson 6 (Geschichte 73): Vom eingebildeten März",
   "duration": 1548,
   "published": "20200316",
@@ -19663,7 +19930,8 @@
     4
    ]
   ],
-  "tx": "die geschichte vom eingebildeten monat mehr als die geschichte vom eingebildeten monat märz eingebildet ist das gleiche wie arrogant eingebildet ist ist man ganz nah demnach sollten die luft ja man ist eingebildet oder arrogant und märz ist der monat jetzt lange lange zeit freuten sich die menschen auf den märz ja denn vor dem märz kommt der wind- und im winter ist es schrecklich kalt und für eine lange zeit den ganzen winter der ganze winter von bis februar hatten drei monate dezember januar februar für lange zeit den ganzen winter freuten sich die menschen auf den märz die menschen während die menschen die menschen grosser fussball die menschen freuten sich der punkt dahinter die menschen freuten sich auch den märz sie warteten auf den mars und freuten sich auf sie freuten sich dass märz endlich kommt ja sie freunden sich auf märz sie freuten sich auf den märz denn im märz ist es ein bisschen wärmer ist es nicht so kalt ja die menschen freuten sich auf die frühlingsluft märz es nicht im winter märz ist im frühling mit märz kommt der frühling und die frühlingsluft luft ist luft g3 und raus dass die luft die luft ja die menschen freuten sich auf die frühlings sie freuten sich auf die süße frühlingsluft ja die luft riecht gut im frühling sie riecht nach blumen sie riecht nach natur sie freuten sich auf die süße frühlingsluft und die menschen freuten sich auch auf die wärmenden sonnenstrahlen hier ist die sonne so freuten sich auf die sonne und auf die sonnenstrahlen das sind die sonnenstrahlen sie freuten sich auf die wärmenden sonnenstrahlen das sind die wärmenden sonnenstrahlen das sind die sonnenstrahlen ja auch der mehr als selbst der märz selbst war hoch erfreut aber sehr glücklich erfreute sich sehr erfreut er war sehr sehr sehr glücklich der märz lag auf einer sch",
+  "tx": "die geschichte vom eingebildeten monat mehr als die geschichte vom eingebildeten monat märz eingebildet ist das gleiche wie arrogant eingebildet ist ist man ganz nah demnach sollten die luft ja man ist eingebildet oder arrogant und märz ist der monat jetzt lange lange zeit freuten sich die menschen auf den märz ja denn vor dem märz kommt der wind- und im winter ist es schrecklich kalt und für eine lange zeit den ganzen winter der ganze winter von bis februar hatten drei monate dezember januar februar für lange zeit den ganzen winter freuten sich die menschen auf den märz die menschen während … sich auf die frühlingsluft märz es nicht im winter märz ist im frühling mit märz kommt der frühling und die frühlingsluft luft ist luft g3 und raus dass die luft die luft ja die menschen freuten sich auf die frühlings sie freuten sich auf die süße frühlingsluft ja die luft riecht gut im frühling sie riecht nach blumen sie riecht nach natur sie freuten sich auf die süße frühlingsluft und die menschen freuten sich auch auf die wärmenden sonnenstrahlen hier ist die sonne so freuten sich auf die sonne und auf die sonnenstrahlen das sind die sonnenstrahlen sie freuten sich auf die wärmenden … einer wolke eine schönwetterwolken nicht eine regenwolke eine schönwetter und seine ganz weiße wolken schönwetterwolken na da ist das wetter ist schön es nicht schlecht besonders schauen und der märz lag hier auf dieser front auch dieser schönwetterwolken die die augen zu die haare finden und er war hoch erfreut er liebte sein leben ja von unten auf der erde und die menschen waren da war hier ein kit und das kind märz ist teil toll toll ist schön wunderbar super märz ist tollen lief das kind und es sagte merz hat die vita verjagt rotkäppchen dann ein jäger und hier ist es für die jagd er … die frühlingsblumen eine andere frau steht da steht neben dieser frau ja eine andere frau sagte ich mag ich mag den lauen wind die lauen wind den der märz mit bringt ja der lauer will ist dass es nicht dass es nicht dass es nicht viel wind das ja das ist nicht ein sturm es ist ein lauer wind nur ein bisschen ja das ist ein lauer wind und der wind es auch nicht kalt erst nicht warm aber auch nicht eisig kalt eventuelles ein lauer wind ein bisschen kühl ein bisschen warm vielleicht aber nicht nicht heiß und hoffentlich kann ja das ist ein lauer wind die frau sagt ich mag den lauen wind … sagte dass jürgen macht endlich wieder spaß das german macht spaß es macht wieder freude es macht spaß und es macht es ist schön überall waren die stimmen der menschen zu hören ja das ist die stimme wenn ich etwas sage hallo das ist meine stimme und die stimmen der menschen warum überall zu hören allem ein wörtchen stimmen alle sagt noll märz ist unsere so schön euch liebe dieses wetter ist es warm ich muss keine dicke jacke anziehen keine mütze keine chance es so schön die stimmen waren überall zu hören und da plötzlich war eine person jemand man weiß ich es war vielleicht ein kind … der märz bringt neues leben ja denn im märz wird alles grün und es wächst ja deren mehr neues leben ja die tiere wachen auf vom winterschlaf der märz bringt neues leben und darauf folgte ein mehrstimmiges ist nicht eine stimme es war mehr stimmen denn es kam von vielen personen darauf folgte ein mehrstimmiges ja alle stimmten zu alle sagten ja das ist wahr der märz lag weiter auf seiner schönwetterwolken und war zufrieden er war zufrieden hocherfreut zufrieden das ist wie glücklich er war zufrieden und er hörte die worte und schickte die worte über das land mit dem wind er schickte wind … natürlich 11 ja er zwinkerte seinen monats kollegen das sind die anderen monate das sind seine kollegen er arbeitet mit vielen monaten ja erzwingt hatte den monats kollegen zu und er gar angeben ist weil ich sage ich bin die allerschnellste und die aller stärkste und die allerbeste dann gebe ich an ja und das ist nicht so schön und der märz gab auch an der merz gab ein er war ein angeber ja schau ich kann alles am besten ja das sei ein angeber er war ein angeber und er zwinkerte seinen kollegen zu und sagte mich mögen die menschen hört hier ich bin den menschen der liebste sie mögen mich … gebildeter kollege sagte und er sich alle monate alle elf monate ärgerten sich sie ärgerten sich über diesen angeber aber sie hatten einen plan wütend war jeder monat in einen topf er ist ein top und in diesen topf waffel alle jeder von ihnen ein paar wetter gaben ein bisschen vom wetter von den monaten ja die sommermonate die sommermonate also juli juni juli august war ja das ist rothe sommer heißer sie warten hitze in den topf hitze sie warfen eine wolke die waffen gewitter ein gewitter ist sein wie ein sturm ja mit blitz und donner sie warfen gewitter in den topf gewitter schweren sturm … dass es nie sie waren nebel und wind in den topf und die winter karte dezember januar und februar waren natürlich kälte und schnee ja kennt das ist jetzt das ist die kälte und schnee schnee in den topf dieser topf mit all dem wetter im topf gaben die monate april april sollte mit dem topf zu märz gehen ja april sollte den topf ist eindruck dass das wetter und april sollte das auch sauer mit dem top zum märz gehen sie wollten den welt hat ob mit all dem wetter zum märz geben zudem ein angeber ja unser brillenrahmen den topf aber bis april auf die erde kam bis april auf die welt auf die erde … vierten monat auf der erde sonne regen schnee sturm und hagel hagel ist kleiner als kunden ja alles das gab es im april und oft gab es sonne regen schnee wind und hagel an einem einzigen tag ja das sind nicht ein tag sollte ein tag regen ein tag stehen ein oft gab es eben april sonne regen schnee wind und hagel einen tag es war chaos kein wunder kein wunder sagte merz kein wunder sagte merz dass die menschen den april nicht mögen und er legte sich auf seiner wolke und grinste ein großes nachbarn und grinste seinen kollegen eingebildet oder hochnäsig ja dass die nase hoch hochnäsig zu das ende",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
