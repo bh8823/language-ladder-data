@@ -89552,8 +89552,8 @@
   "lang": "zh",
   "status": "error",
   "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
-  "checked": "2026-11-12T06:06:34+00:00",
-  "tries": 2
+  "checked": "2026-11-12T15:13:02+00:00",
+  "tries": 3
  },
  "KqzEGcTaCZA": {
   "channel": "Dashu Mandarin",
@@ -89917,8 +89917,8 @@
   "lang": "zh",
   "status": "error",
   "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
-  "checked": "2026-11-12T06:01:08+00:00",
-  "tries": 2
+  "checked": "2026-11-12T15:07:23+00:00",
+  "tries": 3
  },
  "8VPETAjU0O8": {
   "channel": "Blabla Chinese",
@@ -90016,5 +90016,93 @@
   "spoken_v": 2,
   "status": "thin",
   "src": "cc"
+ },
+ "_3OQ7qXLVi0": {
+  "channel": "SyS Mandarin",
+  "lang": "zh",
+  "checked": "2026-11-12T15:33:13+00:00",
+  "title": "423 Learn Chinese: Shadowing Exercise of Ma Yun's Speech, Closing the Gap in Your Chinese Learning",
+  "duration": 604,
+  "published": "20220805",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "etOnmDh6cNE": {
+  "channel": "SyS Mandarin",
+  "lang": "zh",
+  "checked": "2026-11-12T15:33:30+00:00",
+  "title": "433 Learn Chinese Through Stories: Wolf is Here! 狼来了! #2",
+  "duration": 1363,
+  "published": "20221111",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "Efra_Petx7g": {
+  "channel": "Hello Chinese !",
+  "lang": "zh",
+  "checked": "2026-11-12T15:34:33+00:00",
+  "title": "Chinese Prepositions -- From... to.... (Part 2)",
+  "duration": 180,
+  "published": "20201222",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "9r7N-tgi7fE": {
+  "channel": "Comprehensible Mandarin",
+  "lang": "zh",
+  "checked": "2026-11-12T15:39:12+00:00",
+  "title": "The Princess Who Loved Her Father As Much as Salt (Part 2) - Chinese Comprehensible Input",
+  "duration": 468,
+  "published": "20250324",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "jrmGxMYNVt0": {
+  "channel": "Jiayun Mandarin",
+  "lang": "zh",
+  "checked": "2026-11-12T15:39:45+00:00",
+  "title": "Learn to write 30 Basic Chinese Radicals with stroke order Part 1",
+  "duration": 307,
+  "published": "20200331",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "2DeY4Yfc5wo": {
+  "channel": "Chinese Fairy Tales",
+  "lang": "zh",
+  "checked": "2026-11-12T15:39:48+00:00",
+  "title": "蘑菇族人 | The Shroomies in Chinese | @ChineseFairyTales",
+  "duration": 895,
+  "published": "20220528",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "cQA7YQVdJ-U": {
+  "channel": "SyS Mandarin",
+  "lang": "zh",
+  "checked": "2026-11-12T16:19:35+00:00",
+  "title": "436 Learn Chinese Through Movies: 《你好！李焕英》Hi, mom",
+  "duration": 920,
+  "published": "20221202",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
+ },
+ "BpJ_JF8W3X8": {
+  "channel": "Chinese Fairy Tales",
+  "lang": "zh",
+  "checked": "2026-11-12T16:24:01+00:00",
+  "title": "魅力人生宝石 — 第2部 | The Charmed Life - Part 2 in Chinese | @ChineseFairyTales",
+  "duration": 906,
+  "published": "20220514",
+  "spoken": "",
+  "spoken_v": 2,
+  "status": "nosubs"
  }
 }
