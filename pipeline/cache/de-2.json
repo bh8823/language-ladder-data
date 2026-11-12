@@ -10117,7 +10117,7 @@
  "KlChE-QV8pQ": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-06T02:25:42+00:00",
+  "checked": "2026-11-11T22:52:14+00:00",
   "title": "Caillou und die Welpen | Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 3466,
   "published": "20260725",
@@ -10125,73 +10125,10 @@
   "spoken_v": 2,
   "pace": 118.5,
   "rare": 0.1087,
+  "var": 0.8363,
   "speech_s": 2968.6,
   "tokens": 5862,
   "kw": [
-   [
-    "rosie",
-    "Teddy hat Hunger, Mami. Rosie auch",
-    196,
-    202,
-    3.01,
-    44
-   ],
-   [
-    "papi",
-    "Gut gemacht, Papi. Oh, mein Flugzeug!",
-    527,
-    538,
-    3.27,
-    35
-   ],
-   [
-    "mami",
-    "Hunde. Zwei Welpen und die Mami.",
-    22,
-    30,
-    3.61,
-    38
-   ],
-   [
-    "bagger",
-    "Ein Bagger! Diese mächtigen Bagger faszinierten Caillou. Was für eine Kraft",
-    1037,
-    1045,
-    3.46,
-    15
-   ],
-   [
-    "goldie",
-    "Sein Name ist Goldie, weil er ein",
-    2318,
-    2323,
-    2.72,
-    9
-   ],
-   [
-    "hundebaby",
-    "Ein Hundebaby. Eins, zwei, drei.",
-    30,
-    40,
-    2.08,
-    6
-   ],
-   [
-    "hinkel",
-    "Gehen wir jetzt Mr. Hinkel helfen?",
-    3,
-    9,
-    2.52,
-    7
-   ],
-   [
-    "goldfisch",
-    "Goldfisch ist. ",
-    2320,
-    2325,
-    2.75,
-    7
-   ],
    [
     "hallo",
     "Hallo Mr. Hinkel. Hallo, schön, dass Sie",
@@ -10225,42 +10162,138 @@
     23
    ],
    [
-    "glaube",
-    "Ich glaube, sie mögen es auch. Mr.",
-    179,
-    187,
-    5.39,
-    19
-   ],
-   [
-    "spielen",
-    "Willst du mit ihnen spielen, Caillou?",
-    39,
-    44,
-    5.42,
-    18
-   ],
-   [
-    "nein",
-    "Ihr Kaninchen, Mr. Hinkel? Nein, es ist",
-    361,
-    368,
-    5.52,
-    18
-   ],
-   [
-    "spass",
-    "",
-    0,
-    0,
-    5.22,
+    "guck",
+    "Mami, guck mal, da Kühe. Können wir",
+    433,
+    439,
+    4.37,
     17
+   ],
+   [
+    "leo",
+    "Wollte Leo heute nicht zu dir kommen?",
+    2024,
+    2028,
+    4.27,
+    9
+   ],
+   [
+    "karten",
+    "Daddy, weißt du, wo meine Karten sind?",
+    2672,
+    2677,
+    4.74,
+    8
+   ],
+   [
+    "siehst",
+    "Siehst du, da ist einer von ihnen.",
+    25,
+    30,
+    4.65,
+    8
+   ],
+   [
+    "mami",
+    "Hunde. Zwei Welpen und die Mami.",
+    22,
+    30,
+    3.61,
+    38
+   ],
+   [
+    "kaninchen",
+    "Mami, Mami, ein Kaninchen. Draußen ist",
+    304,
+    311,
+    3.94,
+    10
+   ],
+   [
+    "kühe",
+    "Mami, guck mal, da Kühe. Können wir",
+    433,
+    439,
+    3.9,
+    10
+   ],
+   [
+    "lucky",
+    "Lucky. Na, komm schon. Wir begrüßen es",
+    1806,
+    1813,
+    3.75,
+    7
+   ],
+   [
+    "rosie",
+    "Teddy hat Hunger, Mami. Rosie auch",
+    196,
+    202,
+    3.01,
+    44
+   ],
+   [
+    "papi",
+    "Gut gemacht, Papi. Oh, mein Flugzeug!",
+    527,
+    538,
+    3.27,
+    35
+   ],
+   [
+    "bagger",
+    "Ein Bagger! Diese mächtigen Bagger faszinierten Caillou. Was für eine Kraft",
+    1037,
+    1045,
+    3.46,
+    15
+   ],
+   [
+    "picknick",
+    "sollte ein großes Picknick veranstaltet werden.",
+    393,
+    398,
+    3.48,
+    10
+   ],
+   [
+    "goldie",
+    "Sein Name ist Goldie, weil er ein",
+    2318,
+    2323,
+    2.72,
+    9
+   ],
+   [
+    "goldfisch",
+    "Goldfisch ist. ",
+    2320,
+    2325,
+    2.75,
+    7
+   ],
+   [
+    "hinkel",
+    "Gehen wir jetzt Mr. Hinkel helfen?",
+    3,
+    9,
+    2.52,
+    7
+   ],
+   [
+    "hundebaby",
+    "Ein Hundebaby. Eins, zwei, drei.",
+    30,
+    40,
+    2.08,
+    6
    ]
   ],
-  "tx": "Gehen wir jetzt Mr. Hinkel helfen? Ja, wir bauen eine Hundehütte. Eine Hundehütte? Hallo Mr. Hinkel. Hallo, schön, dass Sie kommen konnten. Und Caillou ist auch da. Hallo. Wo ist denn der Hund? Caillou? Hallo Mr. Hinkel. Ich habe nicht einen, sondern drei Hunde. Zwei Welpen und die Mami. Siehst du, da ist einer von ihnen. Ein Hundebaby. Eins, zwei, drei. Willst du mit ihnen spielen, Caillou? Caillou war begeistert, dass er mit den Welpen spielen durfte. Er mochte sie sehr gern. Doch manchmal war er ein bisschen unsicher, wenn er mit Hunden zusammen war. Das ist ein braves Mädchen, Mimi. Na, geh schon. Ja, mein Mädchen. Das ist die Mami. Hallo, Mimi. Sie mag dich. Ich wusste gar nicht, dass Sie eine Hundezucht eröffnen wollen. Ich passe nur auf sie auf. Die Hunde gehören meinem Freund, der gerade umzieht. Die Hundehütte ist eine Überraschung für ihn. Caillou war immer noch ein bisschen vorsichtig, aber er fand die Welpen einfach zu süß. Sie waren so lustig. Die sind ganz aufgeregt, weil sie mit dir spielen wollen. Oh, wo ist das Hundebaby mit dem Fleck geblieben, Mr. Hinkel? Es kann nicht weit weg sein. Bestimmt versteckt es sich. ich es mal suchen. Viel Spaß. Wo bist du? Caillou machte es unheimlich Spaß, mit den Welpen zu spielen. Deshalb vergaß er ganz, den anderen zu suchen. Aber dann fiel es ihm wieder ein. Wo ist denn dein Baby mit dem Fleck? Das ist doch kein Hundebaby. Das ist ein Ball. Wo bist du? Ich kann das Hundebaby einfach nicht finden, Mr. Hinkel. keine Sorgen, seine Mami passt immer gut auf ihre Kleinen auf. Wahrscheinlich spielt das Hundebaby irgendwo herum. Aber ich höre es. Hündchen, Hündchen. Wo hast du dich denn versteckt? Da bist du ja. Der Welpe spielte Verstecken und Caillou mochte dieses Spiel. Habt ihr das Hundebaby gesehen? Es ist da rüber gera",
+  "tx": "Gehen wir jetzt Mr. Hinkel helfen? Ja, wir bauen eine Hundehütte. Eine Hundehütte? Hallo Mr. Hinkel. Hallo, schön, dass Sie kommen konnten. Und Caillou ist auch da. Hallo. Wo ist denn der Hund? Caillou? Hallo Mr. Hinkel. Ich habe nicht einen, sondern drei Hunde. Zwei Welpen und die Mami. Siehst du, da ist einer von ihnen. Ein Hundebaby. Eins, zwei, drei. Willst du mit ihnen spielen, Caillou? Caillou war begeistert, dass er mit den Welpen spielen durfte. Er mochte sie sehr gern. Doch manchmal war er ein bisschen unsicher, wenn er mit Hunden zusammen war. Das ist ein braves Mädchen, Mimi. Na, … würde. Dann merkte er, wie jemand an seiner Karotte zog. Sieh mal, Mami. Oh, du meine Güte, es ist ein Kaninchen. Häschen, ich habe dir doch gesagt, ich habe es gesehen. Sei vorsichtig, es kennt dich nicht. Schneebällchen. Also, hier hast du dich versteckt. Ihr Kaninchen, Mr. Hinkel? Nein, es ist meins. Ich bin Nancy. Ich bin zu Besuch bei meinem Bruder und irgendwie muss Schneebällchen aus seinem Käfig entwicht sein. Wir haben schon überall nach dem Kerlchen gesucht. Möchtest du Schneebällchen gern mal streicheln? Also, ich glaube, jetzt ist der Fall der verschwundenen Karotten gelöst. … genau wie wir. Siehst du? Aber Caillou sehnte sich immer nach seiner Mami. Rexy! Aha. Hier hast du ihn, Caillou. Danke. Weißt du was? Ich glaube, ich habe eine tolle Idee. Hier, wir können Fotos machen und die Bilder von unseren Abenteuern kannst du dann Mami und Rosie zeigen. Willst du es versuchen? Du musst mir nur Bescheid sagen, wenn du ein Foto machen willst, okay? Papi! Ein Foto von Opi. Fotografieren machte Spaß und deshalb fand Caillou den Ausflug jetzt doch gut. Alles klar zum Einsteigen? Ist mein kleiner Späher bereit? Sag mir Bescheid, wenn ich für dich was fotografieren soll. … Bagger. Und baggerst du die Wolken weg? Bitte warten Sie auf mich, Herr Baggerfahrer. Hallo, Caillou. Ich bin nicht Caillou, ich bin ein Bagger. Caillou überlegte sich, womit er jetzt am besten Bagger spielen könnte. Ja! Oh! Hey, sieh mal, Rosie, Caillou ist ein riesiger Bagger. Bagger! Caillou konzentrierte sich so sehr darauf, ein Bagger zu sein, dass er alles um sich herum vergaß. Aber das gefiel nicht jedem. Schau, Caillou! Caillou dachte, dass Rosie auch Bagger spielen wollte. Deshalb merkte er nicht, dass Rosie ihm eigentlich ihren schönen Turm zeigen wollte. Nein, Caillou! … Au! Caillou hatte eine andere Idee, wie er helfen könnte. Ich werde jetzt hier schaufeln. Es schneit! Hey! Was ihr könnt, kann ich schon lange. Vorsicht! So, Spaß beiseite. Wenn wir noch zur Schlittschuhbahn wollen, dann müssen wir jetzt aber weiter arbeiten. Ich schaufel besser auch den Fußweg frei. Was ist denn das? Kann ich den haben, Opi? Na klar, hier hast du ihn. Caillou fand, dass der Blumentopf prima zum Schneetragen war. Außerdem konnte man damit wunderbare Schneeburgen bauen. Papi, komm mal. Guck, was ich gemacht habe. Toll, eine Schneeburg. Super! Caillou war stolz, dass Opa … holen, damit die beiden die Überraschung auch sehen können? Wo mag denn nur unsere kleine Rosie stecken? Also, komisch, eben war sie noch hier. Kuckuck! Oh, toll! Ich dachte, du hast vielleicht Lust auf eine kleine Fahrt mit der Kutsche. Warte, Caillou. Komm her, Rosie. Nicht, Pferdchen. Hab keine Angst, Rosie. Lucky ist ein liebes Pferdchen. Hier, die ist für dich, Lucky. Und los geht's! Caillou dachte, dass Lucky sehr stark sein muss, weil er alle in der Kutsche ziehen konnte. Willst du mal die Zügel halten, Caillou? Ja, gern. Caillou war etwas ängstlich, aber er wollte dann doch versuchen, … Caillou. Ein Dinosaurier! Oje, das hätte noch gefehlt. Ich glaube, du wirst es bald wissen. Hallo! Hallo! Bitte kommt doch rein. Das musst du dir ansehen, Caillou. Er macht Blasen. Caillou überlegte, welches Tier wohl Blasen macht. Ein Fisch! Was isst denn ein Fisch? Ich mag gern Würstchen und Plätzchen. Hier hast du die Dose, aber nur ein ganz kleines bisschen. Verstanden? Er isst Fischfutter. Hier, du darfst dir etwas nehmen und ins Wasser streuen. Toll! Meinem kleinen Fischchen wird es hier drin zu warm werden, wenn es den Pulli anbehält. Ja, gut. Danke, Caillou. Hast du Lust zu spielen? … Ich will erst meine Zeitwächter-Uhr wieder haben. Meine Uhr! Jetzt ist Mittag. Jetzt können wir endlich zum Picknicken gehen. Das bin ich. Ich bin Caillou. Ich bin 4 Jahre alt und kann schon eine Menge Sachen machen. Ich kann meinem Papi beim Basteln helfen. Ich weiß, wie ich meinen Teddybär wieder gesund mache. Ich kann sogar meiner Omi Geschichten vorlesen. Aber was ich am besten kann, das ist Spaß haben. Nur ein Zebra? Daddy, weißt du, wo meine Karten sind? Auf Wiederhören. Papi, wo sind meine Karten? Vielleicht spielt Rosie gerade damit. Da ist eine. Der Löwe. Lass mich die Schachtel … Zum Glück hat es endlich aufgehört zu regnen. Caillou hatte die Tanzerei so viel Spaß gemacht, dass er gar nicht gemerkt hatte, dass es nicht mehr regnete. Guck mal, ich habe den ersten Preis fürs Tanzen bekommen. Rosie auch. Darf ich um den nächsten Tanz bitten? Müsli, Papi. Na, du Schlafmütze. Ich glaube, hier haben wir noch mehr Schlafmützen. Caillou fand es sehr lustig, dass alle anderen auch gehen mussten. Das war scheinbar ansteckend. Papis berühmtes Frühstücksrestaurant hat soeben geöffnet und an diesem schönen Morgen nehmen wir besondere Wünsche entgegen. Also, was hätte der … draußen, dürft ihr auf keinen Fall wieder in das Haus zurückgehen. Verstanden? Verstanden. Erst müssen wir ganz sicher sein, dass jeder von uns hier draußen ist. Und dann gehen wir zum Nachbarn und rufen von dort die Feuerwehr. Caillou tat jetzt so, als wäre ein Feuerwehrmann, der zum Helfen hergekommen ist. Caillou stellte sich vor, dass die Blumen brennen. Feuerwehrmann spielen machte wirklich großen Spaß. Rosie, guck, ich bin ein Feuerwehrmann. Und ein toller dazu. Hey, pass auf, wo du hinspritzt, du Oberfeuerwehrmann. Und so endete die erste Feueralarmübung von Caillou und seiner Familie.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8147
+  "src": "auto"
  },
  "NEkUCoQf0Sk": {
   "channel": "MrWissen2go",
@@ -15389,7 +15422,7 @@
  "MDPAwAN-3oU": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-07T05:34:40+00:00",
+  "checked": "2026-11-11T22:54:18+00:00",
   "title": "Peppa Wutz geht zu ihrem ERSTEN GESUNDHEITSCHECK! 🩺 | Arztbesuch | Neue Ganze Folgen",
   "duration": 3771,
   "published": "20261001",
@@ -15397,73 +15430,10 @@
   "spoken_v": 2,
   "pace": 110.7,
   "rare": 0.1032,
+  "var": 0.7935,
   "speech_s": 3692.3,
   "tokens": 6812,
   "kw": [
-   [
-    "peppa",
-    "Heute geht Peppa für einen Gesundheitscheck zum Doktor.",
-    2,
-    8,
-    2.17,
-    75
-   ],
-   [
-    "wutz",
-    "Ich bin Peppa Wutz. Und wer ist das? Teddy",
-    51,
-    57,
-    2.39,
-    25
-   ],
-   [
-    "spielgruppe",
-    "früher als sonst in die Spielgruppe.",
-    545,
-    550,
-    2.35,
-    15
-   ],
-   [
-    "mandy",
-    "Mandy Maus. Hallo zusammen.",
-    1088,
-    1094,
-    3.37,
-    22
-   ],
-   [
-    "gazelle",
-    "Madame Gazelle, gibt es auch Toast für",
-    673,
-    678,
-    2.88,
-    12
-   ],
-   [
-    "toast",
-    "Madame Gazelle, gibt es auch Toast für",
-    673,
-    678,
-    3.57,
-    17
-   ],
-   [
-    "luzi",
-    "Ja, ich bin Schwester Luzi und ich bin Dr. Schweinchen.",
-    288,
-    298,
-    2.44,
-    8
-   ],
-   [
-    "anstecker",
-    "einen Anstecker? Ja, gern.",
-    208,
-    215,
-    2.5,
-    8
-   ],
    [
     "hallo",
     "ist Dr. Braunbär. Hallo Peppa, kommst du",
@@ -15471,14 +15441,6 @@
     31,
     5.06,
     67
-   ],
-   [
-    "george",
-    "Peppa und George haben die ganze Woche",
-    1842,
-    1847,
-    4.58,
-    57
    ],
    [
     "frau",
@@ -15505,12 +15467,12 @@
     29
    ],
    [
-    "bitte",
-    "mit und stell dich bitte mal hier hin,",
-    68,
-    73,
-    5.7,
-    28
+    "george",
+    "Peppa und George haben die ganze Woche",
+    1842,
+    1847,
+    4.58,
+    57
    ],
    [
     "papa",
@@ -15527,12 +15489,116 @@
     171,
     4.33,
     25
+   ],
+   [
+    "obst",
+    "super. Also, magst du es Obst und Gemüse",
+    166,
+    171,
+    4.23,
+    24
+   ],
+   [
+    "madame",
+    "Madame Gazelle, gibt es auch Toast für",
+    673,
+    678,
+    3.87,
+    16
+   ],
+   [
+    "kartoffel",
+    "Das Quiz von Mr. Kartoffel. Obst und Gemüse machen uns stark. Denk",
+    807,
+    819,
+    3.74,
+    12
+   ],
+   [
+    "hügel",
+    "Ich mag Hügel. Ich",
+    1265,
+    1271,
+    4.07,
+    10
+   ],
+   [
+    "teddy",
+    "Ja. Und ich habe Teddy und ich habe das rote Buch.",
+    7,
+    14,
+    3.75,
+    9
+   ],
+   [
+    "mandy",
+    "Mandy Maus. Hallo zusammen.",
+    1088,
+    1094,
+    3.37,
+    22
+   ],
+   [
+    "toast",
+    "Madame Gazelle, gibt es auch Toast für",
+    673,
+    678,
+    3.57,
+    17
+   ],
+   [
+    "inspektor",
+    "Inspektor Kartoffel. Peppa und George gucken Inspektor",
+    3502,
+    3511,
+    3.44,
+    8
+   ],
+   [
+    "schweinchen",
+    "und ich bin Dr. Schweinchen. Sehr gut, dann rufe ich mal den ersten",
+    291,
+    300,
+    3.09,
+    7
+   ],
+   [
+    "peppa",
+    "Heute geht Peppa für einen Gesundheitscheck zum Doktor.",
+    2,
+    8,
+    2.17,
+    75
+   ],
+   [
+    "wutz",
+    "Ich bin Peppa Wutz. Und wer ist das? Teddy",
+    51,
+    57,
+    2.39,
+    25
+   ],
+   [
+    "spielgruppe",
+    "früher als sonst in die Spielgruppe.",
+    545,
+    550,
+    2.35,
+    15
+   ],
+   [
+    "gazelle",
+    "Madame Gazelle, gibt es auch Toast für",
+    673,
+    678,
+    2.88,
+    12
    ]
   ],
-  "tx": "Der Gesundheitscheck. Heute geht Peppa für einen Gesundheitscheck zum Doktor. Bist du soweit? Ja. Und ich habe Teddy und ich habe das rote Buch. Was ist das rote Buch? Es ist ein Buch über dich, Peppa. Darin notiert der Doktor alles über deine Gesundheit. Peppa ist an der Praxis angekommen. Da ist Dr. Braunbär. Hallo Peppa, kommst du für den Gesundheitscheck? Ja, komme ich. Und hast du auch dein rotes Buch mitgebracht? Ja, habe ich. Und Teddy habe ich auch mitgenommen. Das ist sehr gut. Heute ist Frau Dr. Eisbeer für dich da. Ah, das heißt, du kannst jetzt zu ihr rein. Das ist Frau Dr. Eisbär. Hallo, wen haben wir denn da? Ich bin Peppa Wutz. Und wer ist das? Teddy möchte Teddy mal bei einem Gesundheitscheck zusehen? Ja, wunderbar. Und hast du denn auch dein rotes Buch? Hier ist es ausgezeichnet. Dann wollen wir zuerst mal sehen, wie groß du bist. Komm mal mit und stell dich bitte mal hier hin, Peppa. Genauso bin ich jetzt schon ein bisschen groß. Ja, das bist du. Frau Dr. Eisbär schreibt in das rote Buch, wie groß Peppa ist. Als nächstes hüpf bitte mal für mich auf diese Waage. Eine Waage zeigt an, wie schwer man ist. Das ist gut. So, jetzt höre ich dein Herz ab mit meinem Stethoskop. Mit einem Stethoskop klingt das Herz lauter. Frau Dr. Eisberg kann hören, wie Peppers Herz schlägt. Möchtest du auch mal hören? Ja, gern. Ich höre Klopf für die Klopf. Klopfe die Klopf. Klopfe die Klopf. Und jetzt Teddy macht Teddys Herz denn. Klopfe die Klopf. Klopfe die Klopf. Nö, das Herz von Teddy kann nicht klopfen. Teddy ist doch ein Spielzeug. Oh, verstehe. Dann schaue ich mal mit meiner Speziallampe in deine Ohren rein. Das kitzelt. Alles gut soweit? Jetzt gucke ich mal in deinen Mund. Mach. Ah. Ah. Wunderbar. Wollen sie auch in meine Nase schauen? Danke schön, Peppa. Ich sehe sch",
+  "tx": "Der Gesundheitscheck. Heute geht Peppa für einen Gesundheitscheck zum Doktor. Bist du soweit? Ja. Und ich habe Teddy und ich habe das rote Buch. Was ist das rote Buch? Es ist ein Buch über dich, Peppa. Darin notiert der Doktor alles über deine Gesundheit. Peppa ist an der Praxis angekommen. Da ist Dr. Braunbär. Hallo Peppa, kommst du für den Gesundheitscheck? Ja, komme ich. Und hast du auch dein rotes Buch mitgebracht? Ja, habe ich. Und Teddy habe ich auch mitgenommen. Das ist sehr gut. Heute ist Frau Dr. Eisbeer für dich da. Ah, das heißt, du kannst jetzt zu ihr rein. Das ist Frau Dr. Eisbär. … machen Stabschrecken so. Die halten still und sehen wie Stöcke aus. Oh ja, natürlich. Also, geht's Kevin dann gut? Anscheinend ist das der Fall. Sorgt nur dafür, dass Kevin viel Wasser trinkt. Wiedersehen. Tschüss. Kann ich den nächsten Patienten aufrufen? Ja, gern. Nächster. Oh, das bin ich. Ich möchte Ihnen meine Meersschweinchen vorstellen. Oh, sowas Niedliches. Günther ist blitzgescheit und Berny ist sensibel. Ja, aber plötzlich ist es andersum. Berie ist Blitzgescheit und Günther ist der sensible. Aber sie scheinen glücklich zu sein. Oh, da bin ich froh. Gut, dass wir gekommen sind. … kriege ich bitte Marmelade? Natürlich, Kinder. Auf meinem Too ist es Erdbeermelade. Ich habe Honig, Erdbeer und Orangenmelade auf meinem. Ich kriege ganz viel Energie in meinem Bauch. Ja, ich auch. Ich kriege Erdbeermeladenenergie. Ich kriege Honig und Marmeladenenergie. Alle haben jede Menge Energie. Und nun ist es Zeit für unseren Frühstückssport. Kommt mit. Mit unserer Frühstücksenergie machen wir jetzt Körper und Geist fit für den ganzen Tag. Ich mache es euch vor. Ei, Apfel, Honig und Toast. Ein tolles Frühstück und ab geht die Post. Toast, Honig. Ei, ja. Toast, Toast, Toast. Das Quiz … das Team, das den Ball durch den Rinder da wirft gewinnt? Fang. Und schon geht's los. Emily Elefant fängt den Ball. Jetzt hat Luzi ihn. Sie passt ihn zu Pedro und der zu Peppa. Mandy schnappt den Ball, passt ihn zu Klausi. Mira fängt ihn, wirft ihn hoch in die Luft und Mandy Maus hat ihn. Das ist die Chance für Gerald Giraffe. Tor. Mandy, du bist gut. Ich weiß, ich bin genial. Kinder, alle reinkommen. Kann ich dir helfen? Nein, ich schaffe das schon. Ich kann das nämlich ganz alleine. Ich mag Hügel. Ich Es ist ein hoher Hügel. Ja, er ist sehr hoch. Vielleicht kannst du ein bisschen schieben. … ist Günther. Er ist blitzgescheit. Oh, und das ist Berny. Er ist sehr sensibel. Also, Kinder, ich fahre nächste Woche in die Ferien und suche jemanden, der soange auf Günther und Berny aufpassen möchte. Ich, ich, ich, ich. Es macht aber Arbeit und ihr müsst sie mit nach Hause nehmen. Ich, ich, ich mach's gerne. Bist du sicher, Peppa? Ja, ich liebe Haustiere. Danke schön, Peppa. Es ist Abholzeit. Mama, Mama, schau mal, was ich hier habe. Oh, wer sind denn die? Das sind Günther und Berny. Peppa war netterweise einverstanden, meine Meerschweinchen für eine Woche zu versorgen. Verstehe. Alles, … Mach weit auf und sag George hat ein bisschen Angst. Hm. Peppa, du bist schon groß und tapfer. Kannst du George zeigen, wie das geht mit dem Ah, natürlich. Ah. Hm. George hat sich erkältet. Bekommt George Medizin? Nein, aber er kann heute Abend eine schöne warme Milch trinken. Das hilft ihm einzuschlafen. Danke schön, Dr. Braunbär. Gern geschehen. Wiedersehen. George war den ganzen Tag im Bett, jetzt ist Peppas Schlafenszeit. Geosge, geht es dir besser? Hat? George, geht es nicht besser. Hat George, würdest du bitte nicht zu laut niesen? Ach, das ist ja unmöglich. George, hier hast du eine … hier. Kneb ist ganz da oben rauf. H brauche ich jetzt einen Hubschrauber oder ein Flugzeug oder eine Leiter? Was für ein Glücksfall. Zufällig steht hier gerade eine Leiter. Ha, fertig. Gut geworden. Leiter kommt. Den Rettungsweg freihalten. Hab dich. Frau Mümmel hat Knirpsi die Schildkröte gerettet. Knippsi, du böser Junge. Danke schön, Frau Mümmel. Ich mache nur meinen Job. Hallo, hier ist der Rettungsdienst. Mu, ich komme nicht vom Dark runter. Meine Leiter hat sich plötzlich in Luft aufgelöst. Oh. Ähm, wie seltsam. Keine Sorge, ich bin schon unterwegs. Danke schön. Oh, was würden wir … Hast du noch kein Weihnachtsgeschenk bekommen? Nein, noch nicht. Gut, der nächste. Ah, gut, endlich. Ho, ho, ho. Der Weihnachtsmann. Der Weihnachtsmann. Ja, der ist wohl viel wichtiger als ich, der Weihnachtsmann. Setzen Sie sich, Herr Weihnachtsmann, und sagen Sie mir, wo es weh tut. Oh nein, ich bin nicht hier, weil ich krank bin. Ich bin hier wegen Petos Weihnachtsgeschenk. Danke schön. Ich bin gespannt, was drinne ist. Hoffentlich keine Socken. Hurra, ein Dampfboot. Entschuldige die Verspätung, aber mein Bauch hat in einem Schornstein festgestickt. Diese Schornsteine werden auch jedes … die Bote aus echtem Käse gemacht? Nein, die Boote bestehen aus Plastik. Boote aus echtem Käse wären doch verrückt. Ah, im Käseboot geht es an Bäumen und Hügeln aus Käse entlang. Das ist der Käseberg. Oh, ist dieser Berg aus echtem Käse gemacht? Nein, aber es ist ganz genauso, als würden wir durch einen echten Käseberg fahren. Ah, wenn es Käseberge gäbe. Hallo miteinander, willkommen bei der Käsefluglinie. Wow. Also, ist jemand von euch schon mal mit diesem Flugzeug geflogen? Ja, ich. Natürlich. Tag auch. Mandy, zeigst du deinen Freunden, wie es funktioniert? Ja, wenn ihr an diesem Hebel … Fall brauchen wir Zeit. Das ist nicht wie im Fernsehen, wo jeder Fall blitzschnell gelöst wird. Das Inspektor Kartoffel zu ihren Diensten. Papa hat unser Auto verloren, Inspektor Kartoffel. Aha. Ja, dieses Rätsel kann nur ich alleine lösen. Danke, aber wir brauchen keine Hilfe. Die Situation ist unter Kontrolle. Ruhe, bitte. Ich brauche Stille zum Arbeiten. Das hier ist Ihr Auto. Äh nein, das hier ist Ihr Auto. Nein, das hier ist Ihr Auto. Ja, das ist unser Auto. Inspektor Kartoffel hat das Rätsel gelöst. Hurra! Oh, na gut, das war unglaublich. Das ist nichts Besonderes für eine Kartoffel.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7709
+  "src": "auto"
  },
  "O1e_PAAUfBA": {
   "channel": "Mascha und der Bär",
@@ -15902,7 +15968,7 @@
  "CLIBhaicQ2k": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-07T06:03:33+00:00",
+  "checked": "2026-11-11T22:45:39+00:00",
   "title": "Grimms': The Wolf and the Seven Young Goats│Beginner German Story",
   "duration": 1004,
   "published": "20220402",
@@ -15910,72 +15976,41 @@
   "spoken_v": 2,
   "pace": 80.5,
   "rare": 0.0446,
+  "var": 0.6907,
   "speech_s": 987.3,
   "tokens": 1324,
   "kw": [
    [
-    "ziege",
-    "geist also eine alte ziege und diese alte guys oder diese alte",
-    48,
-    66,
-    3.52,
-    28
-   ],
-   [
-    "geisslein",
-    "",
-    0,
-    0,
-    2.03,
-    7
-   ],
-   [
-    "ziegen",
-    "ziegen ja also fangen wir an es war einmal eine",
-    38,
-    49,
-    3.66,
+    "ging",
+    "und mama ziege ging in den weit es",
+    187,
+    200,
+    5.41,
     10
    ],
    [
-    "wanduhr",
-    "kasten von der wanduhr von der wanduhr",
-    533,
-    544,
-    2.46,
-    4
+    "wald",
+    "wollte mama ziege in den wald gehen mama",
+    70,
+    81,
+    4.81,
+    10
    ],
    [
-    "pfoten",
-    "mutter hat keine schwarzen pfoten du",
-    335,
-    344,
-    3.48,
-    6
+    "mutter",
+    "mutter ist dabei die ziegen hört sind die raue",
+    214,
+    229,
+    5.26,
+    9
    ],
    [
-    "pfote",
-    "seine schwarze pfote in das fenster in das fenster gelegt und",
-    315,
-    330,
-    2.99,
-    4
-   ],
-   [
-    "schütte",
-    "wolf sagte zum bäcker becker schütte",
-    349,
-    358,
-    3.22,
-    3
-   ],
-   [
-    "versteckte",
-    "versteckte sich im ofen die vierte ziege",
-    506,
-    516,
-    3.84,
-    5
+    "sieben",
+    "die sieben jungen geißlein viel spaß",
+    20,
+    30,
+    4.98,
+    8
    ],
    [
     "wolf",
@@ -16002,55 +16037,119 @@
     16
    ],
    [
-    "wald",
-    "wollte mama ziege in den wald gehen mama",
-    70,
-    81,
-    4.81,
-    10
-   ],
-   [
-    "ging",
-    "und mama ziege ging in den weit es",
-    187,
-    200,
-    5.41,
-    10
-   ],
-   [
-    "mutter",
-    "mutter ist dabei die ziegen hört sind die raue",
-    214,
-    229,
-    5.26,
-    9
-   ],
-   [
-    "sieben",
-    "die sieben jungen geißlein viel spaß",
-    20,
-    30,
-    4.98,
-    8
-   ],
-   [
     "steine",
     "holt steine große steine und mit den",
     807,
     818,
     4.32,
     7
+   ],
+   [
+    "ziegen",
+    "ziegen ja also fangen wir an es war einmal eine",
+    38,
+    49,
+    3.66,
+    10
+   ],
+   [
+    "brunnen",
+    "ging der wolf zu einem brunnen der wolf",
+    875,
+    884,
+    4.11,
+    7
+   ],
+   [
+    "bäcker",
+    "wolf weg und er ging zu einem bäcker der",
+    343,
+    356,
+    3.92,
+    5
+   ],
+   [
+    "versteckte",
+    "versteckte sich im ofen die vierte ziege",
+    506,
+    516,
+    3.84,
+    5
+   ],
+   [
+    "ziege",
+    "geist also eine alte ziege und diese alte guys oder diese alte",
+    48,
+    66,
+    3.52,
+    28
+   ],
+   [
+    "pfoten",
+    "mutter hat keine schwarzen pfoten du",
+    335,
+    344,
+    3.48,
+    6
+   ],
+   [
+    "kreide",
+    "großes stück kreide erst die kreide er hat die kreide",
+    267,
+    285,
+    3.45,
+    3
+   ],
+   [
+    "schütte",
+    "wolf sagte zum bäcker becker schütte",
+    349,
+    358,
+    3.22,
+    3
+   ],
+   [
+    "geisslein",
+    "",
+    0,
+    0,
+    2.03,
+    7
+   ],
+   [
+    "pfote",
+    "seine schwarze pfote in das fenster in das fenster gelegt und",
+    315,
+    330,
+    2.99,
+    4
+   ],
+   [
+    "wanduhr",
+    "kasten von der wanduhr von der wanduhr",
+    533,
+    544,
+    2.46,
+    4
+   ],
+   [
+    "beugte",
+    "und er beugte sich über den brunnen hier er beugte sich über den",
+    901,
+    915,
+    2.99,
+    2
    ]
   ],
-  "tx": "hallo und willkommen zurück ich bin anna und heute gibt es wieder eine neue geschichte von den brüdern grimm und die heutige geschichte heißt der wolf und die sieben jungen geißlein viel spaß also der wolf und die sieben jungen geißlein geißlein oder guys sind die ziegen ja also fangen wir an es war einmal eine alte geist also eine alte ziege und diese alte guys oder diese alte ziege hatte sieben jungen geißlein und so weiter und dann eines tages wollte mama ziege in den wald gehen mama ziege wollte in den wald gehen und futter am rand auch nach futter holen mama ziege ruft nach ihren kindern kommt er kommt her meine lieben und alle sieben kommen zu mama ziege und mama ziehe gesagt ich muss in den wald gehen und futter holen aber meine lieben seid vorsichtig passt auf ihr dürft den wolf nicht reinlassen wenn ihr den wolf rein lasst dann wird er euch seid vorsichtig der wolf verkleidet sich oft aber passt auf denn seine stimme ist rau und tief und seine füße sind schwarz passt gut auf an der stimme und an den füßen könnt ihr den wolf erkennen und die sieben kleinen geißlein sagen keine sorge mama du kannst in den wald gehen kein problem und mama ziege ging in den weit es dauerte nicht lange da klopfte es an die haustür und jemand also eine person oder ein wolf sagte macht aufwacht auf ihr lieben kinder eure mutter ist dabei die ziegen hört sind die raue tiefe stimme von dem wolf und wussten dass es nicht ihre mutter war wir machen nicht auf du bist nicht unsere mutter unsere mutter hat eine weiche liebliche stimme aber deine stimme ist rau und da lief der wolf weg und ging zu einem verkäufer und der wolf kaufte sich ein großes stück kreide erst die kreide er hat die kreide aufgegessen und hat damit seine stimme weicher und lieblicher gemacht dann ging er zurück zu dem ha",
+  "tx": "hallo und willkommen zurück ich bin anna und heute gibt es wieder eine neue geschichte von den brüdern grimm und die heutige geschichte heißt der wolf und die sieben jungen geißlein viel spaß also der wolf und die sieben jungen geißlein geißlein oder guys sind die ziegen ja also fangen wir an es war einmal eine alte geist also eine alte ziege und diese alte guys oder diese alte ziege hatte sieben jungen geißlein und so weiter und dann eines tages wollte mama ziege in den wald gehen mama ziege wollte in den wald gehen und futter am rand auch nach futter holen mama ziege ruft nach ihren kindern … holen aber meine lieben seid vorsichtig passt auf ihr dürft den wolf nicht reinlassen wenn ihr den wolf rein lasst dann wird er euch seid vorsichtig der wolf verkleidet sich oft aber passt auf denn seine stimme ist rau und tief und seine füße sind schwarz passt gut auf an der stimme und an den füßen könnt ihr den wolf erkennen und die sieben kleinen geißlein sagen keine sorge mama du kannst in den wald gehen kein problem und mama ziege ging in den weit es dauerte nicht lange da klopfte es an die haustür und jemand also eine person oder ein wolf sagte macht aufwacht auf ihr lieben … machen nicht auf du bist nicht unsere mutter unsere mutter hat eine weiche liebliche stimme aber deine stimme ist rau und da lief der wolf weg und ging zu einem verkäufer und der wolf kaufte sich ein großes stück kreide erst die kreide er hat die kreide aufgegessen und hat damit seine stimme weicher und lieblicher gemacht dann ging er zurück zu dem haus von den sieben geißlein und klopft wieder an die tür macht auf ihr lieben kinder ich habe jedem von euch etwas mitgebracht aber der wolf hatte seine schwarze seine schwarze pfote in das fenster in das fenster gelegt und die ziegen zahlen … lief der wolf weg und er ging zu einem bäcker der wolf sagte zum bäcker becker schütte schütte mir weißes klar weißes mehl auf die pfoten schütte mir weißes mehl auf meine pfoten alle vier der bäcker dachte was will der wolf machen das kann nichts gutes sein und der bäcker sagte nein mache ich nicht ich helfe dir nicht aber der wolf sagte wenn du das nicht für mich machst dann fresse ich steh ich da hat der bäcker angst bekommen und er machte was der wolf sagte er schüttete das mehl auf die pfoten und die pfoten vom wolf waren ganz weiß ganz weiße pfoten und dann ging der wolf zum dritten … hat jedem von euch etwas aus dem wald mitgebracht die ziegen sagten zeigt zeigt uns zeigt uns zuerst zuerst deine tote und da legte der wolf seine pfote in das fenster und als die ziegen die weiße pfote sahen dachten sie es wäre ihre mutter und sie machten die tür auf aber dann kam der wolf herein und die sieben ziegen erschraken und sie wollten sich verstecken die eine ziege sprang unter den tisch unter den tisch die zweite ziege sprang unter die decke ins bett unter die decke ins bett die dritte ziege versteckte sich im ofen die vierte ziege versteckte sich in der küche die fünfte ziege … in dem kasten von der wanduhr von der wanduhr aber der wolf hat sie alle gefunden und der wolf hat sie einer nach dem anderen runtergeschluckt er schluckt sie alle runter nur die jüngsten siege hat er nicht gefunden nein die ziege in der wanduhr im kasten von der wanduhr hat er nicht gefunden der wolf hatte sechs ziegen geschluckt und dann war er sehr sehr sehr voll dann ist er nach draußen gegangen er ist in den wald gegangen und hat sich unter einen baum gelegt und dann fing er an zu schlafen und dann kam mama ziege zurück nach hause und die tür stand offen nein was ist passiert mama … aus dem bett geholt und mama ziege konnte ihre kinder nirgendwo finden sie rief hallo sie rief nach ihren kindern klaus-peter rosalinde aber nichts und dann endlich als die mutter nach der jüngsten siege nach dem jüngsten kind rief isabel da kam die jüngste ziege aus der wand hervor und dann erzählte die jüngste ziege mama ziege was passiert und dass der wolf alle ihre geschwister gefressen hat und mama ziege hat angefangen zu hub zu weinen dann ging mama ziege in den wald und suchte nach dem wolf da lag der wolf und schnarcht und mama ziege sei dass sich etwas etwas in dem bauch in dem … schnell nach hause mama ziege holte eine schere und nadel und faden und dann gingen sie zurück in den wald und dann hat sie den bauch vom wolf aufgeschnitten sie schneidet den bauch vom wolf auf und da kamen alle sechs siegen aus dem bauch aus dem bauch geklettert alle sechs ziegen sind aus dem bauch raus gekommen sie waren alle am leben denn der wolf hatte nicht gekauft er hat alle sechs ziegen einfach so runtergeschluckt mama ziege war sehr sehr glücklich dass sie ihre kinder wieder hatte und dann sagte sie zu ihren kindern nun geht geht in den wald hinein und holt steine große steine und … legte die steine in den bauch von von dem wolf und dann nahm mama ziege nadel und faden und nähte den bauch vom wolf wieder zu und dann gingen alle alle schnell zurück nach hause und als der wolf aufwachte stand er auf der wolf stand auf und er hatte sehr sehr großen durst er hatte er hatte durst er wollte etwas trinken er wollte wasser trinken mit diesen steinen im bauch hatte er großen durst und dann ging der wolf zu einem brunnen der wolf ging los zu einem brunnen um wasser zu trinken aber als der wolf losging da oder tat ihm der bauch weh aber der wolf dachte hoch was ist denn nur … und die steine in seinem bauch waren sehr sehr schwer nicht acht leicht nein sehr schwer und als er sich über den bohnen gebeugt hat da haben die steine in seinem bauch in den brunnen gezogen die steine haben ihn runter gezogen und dann musste der wolf in dem wasser dann musste der wolf in dem wasser im brunnen er trinke er musste er trinken der wolf ist im wasser ertrunken und dann war der wolf tot also das war die geschichte der wolf und die sieben jungen geißlein von den brüdern grimm wenn es euch gefallen hat dann neigt das video und kommentiert unten alles klar dann bis zum nächsten mal",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7337
+  "src": "auto"
  },
  "8dvJ4EQoci0": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-07T06:11:56+00:00",
+  "checked": "2026-11-11T22:47:46+00:00",
   "title": "Learn German & Cook With Me - Intermediate German Comprehensible Input A2 B1 / Deutsch Hörverstehen",
   "duration": 879,
   "published": "20260711",
@@ -16058,73 +16157,10 @@
   "spoken_v": 2,
   "pace": 95.4,
   "rare": 0.0765,
+  "var": 0.7831,
   "speech_s": 829.9,
   "tokens": 1320,
   "kw": [
-   [
-    "palina",
-    "aber sie sind gemacht. Palina und ich",
-    88,
-    95,
-    2.4,
-    12
-   ],
-   [
-    "sandwich",
-    "Sandwich zu machen mit ein bisschen",
-    215,
-    222,
-    3.5,
-    8
-   ],
-   [
-    "patreon",
-    "unseren Patreon subscriben danken. Oh, ja, das ist sehr wichtig. Das möchte",
-    335,
-    342,
-    2.56,
-    3
-   ],
-   [
-    "sandwiches",
-    "Sandwiches. Sandwich-Zeit.",
-    401,
-    419,
-    2.99,
-    3
-   ],
-   [
-    "gisa",
-    "Gisa möchte unbedingt auf den Balkon.",
-    20,
-    27,
-    2.33,
-    2
-   ],
-   [
-    "gekrochen",
-    "Ich bin gerade aus dem Bett gekrochen",
-    31,
-    40,
-    3.12,
-    3
-   ],
-   [
-    "piri",
-    "Piri-Piri Chili-Soße da rein.",
-    618,
-    629,
-    2.41,
-    2
-   ],
-   [
-    "auseinanderfallen",
-    "auseinanderfallen. Es wird auseinanderfallen?",
-    793,
-    801,
-    2.52,
-    2
-   ],
    [
     "bisschen",
     "bisschen durcheinander. Es gibt auf Deutsch kein Wort für Bed",
@@ -16134,35 +16170,11 @@
     30
    ],
    [
-    "unseren",
-    "unseren Zuschauern sagen möchtest. Ja.",
-    328,
-    336,
-    5.08,
-    5
-   ],
-   [
     "gerne",
     "habe ich gehört, dass du gerne etwas zu",
     324,
     332,
     5.49,
-    5
-   ],
-   [
-    "frühstück",
-    "und ich muss Frühstück machen. Aber",
-    35,
-    43,
-    4.5,
-    5
-   ],
-   [
-    "brot",
-    "Brot gekauft. Für die Sandwiches braucht",
-    418,
-    424,
-    4.5,
     5
    ],
    [
@@ -16174,26 +16186,146 @@
     5
    ],
    [
-    "natürlich",
-    "man Brot, natürlich. Wir haben Imitationskrabbenfleisch,",
-    421,
-    430,
-    5.62,
+    "unseren",
+    "unseren Zuschauern sagen möchtest. Ja.",
+    328,
+    336,
+    5.08,
+    5
+   ],
+   [
+    "brot",
+    "Brot gekauft. Für die Sandwiches braucht",
+    418,
+    424,
+    4.5,
+    5
+   ],
+   [
+    "frühstück",
+    "und ich muss Frühstück machen. Aber",
+    35,
+    43,
+    4.5,
+    5
+   ],
+   [
+    "haare",
+    "meine Haare machen. Sie sind ein",
+    57,
+    64,
+    4.62,
+    3
+   ],
+   [
+    "passieren",
+    "Manchmal passieren einfach tragische Dinge.",
+    675,
+    683,
+    4.78,
+    2
+   ],
+   [
+    "supermarkt",
+    "So, und los geht's zum Supermarkt. Meine",
+    81,
+    89,
+    4.17,
+    7
+   ],
+   [
+    "salat",
+    "Und Salat. Daraus mache ich jetzt die",
+    460,
+    468,
+    4.1,
+    5
+   ],
+   [
+    "joghurt",
+    "einem Ei, ein bisschen Joghurt, ein",
+    223,
+    231,
+    3.69,
     4
    ],
    [
-    "morgen",
-    "Guten Morgen und herzlich willkommen zu einer neuen",
-    0,
-    8,
-    5.43,
-    4
+    "ähm",
+    "erwartet. Ähm Ich bin ein bisschen spät dran. Ich",
+    154,
+    162,
+    4.12,
+    3
+   ],
+   [
+    "sandwich",
+    "Sandwich zu machen mit ein bisschen",
+    215,
+    222,
+    3.5,
+    8
+   ],
+   [
+    "gurken",
+    "Saure Gurken. Und Salat.",
+    458,
+    465,
+    3.57,
+    3
+   ],
+   [
+    "gekrochen",
+    "Ich bin gerade aus dem Bett gekrochen",
+    31,
+    40,
+    3.12,
+    3
+   ],
+   [
+    "essig",
+    "wir in Essig vor ein paar Tagen",
+    433,
+    439,
+    3.56,
+    2
+   ],
+   [
+    "palina",
+    "aber sie sind gemacht. Palina und ich",
+    88,
+    95,
+    2.4,
+    12
+   ],
+   [
+    "sandwiches",
+    "Sandwiches. Sandwich-Zeit.",
+    401,
+    419,
+    2.99,
+    3
+   ],
+   [
+    "patreon",
+    "unseren Patreon subscriben danken. Oh, ja, das ist sehr wichtig. Das möchte",
+    335,
+    342,
+    2.56,
+    3
+   ],
+   [
+    "donut",
+    "kleinen Donut für Palina mitgebracht. Es ist eigentlich immer ein bisschen",
+    233,
+    243,
+    2.97,
+    2
    ]
   ],
-  "tx": "Guten Morgen und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich bin gerade aus dem Gisa möchte unbedingt auf den Balkon. Gisa, komm hier. Ja, I know. I know. Ich bin gerade aus dem Bett gekrochen und ich muss Frühstück machen. Aber bevor wir Frühstück machen können, bevor ich Frühstück machen kann, muss ich noch einkaufen gehen. Wir haben nämlich nichts zu Hause. Also, los geht's. Ich sollte vielleicht vorher meine Haare machen. Sie sind ein bisschen durcheinander. Es gibt auf Deutsch kein Wort für Bed Head, aber meine Haare sehen aus, als wäre ich gerade aus dem Bett gekrochen, denn ich bin gerade aus dem Bett gekrochen. So, und los geht's zum Supermarkt. Meine Haare müssen noch ein bisschen trocknen, aber sie sind gemacht. Palina und ich wollten eigentlich gestern schon zum Supermarkt, aber wir waren dann ein bisschen zu faul. Ich weiß noch nicht genau, was ich besorge, was ich Palina zum Frühstück machen möchte, aber das finde ich dann jetzt gleich im Supermarkt heraus. Ich schaue, was sie haben. Vielleicht gibt es etwas Interessantes und dann mache ich das. Da unten neben der Metallplatte sitzt ein kleines Kätzchen und schaut mich an. Ich traue mich nicht ein bisschen näher heranzugehen. Ich habe Sorge, dass ich sie verscheuche, dass sie Angst hat. Aber ich versuche es einmal. Okay, nein, zu viel Angst. Schade. So und wir sind wieder aus dem Supermarkt raus. Es hat ein bisschen länger gedauert als erwartet. Ähm Ich bin ein bisschen spät dran. Ich sollte Palina vor 10 Minuten aufwecken. Aber ich glaube, es hat sich gelohnt. Ich mache ihr etwas Leckeres. Es wird, glaube ich, gut. Ja. In der kurzen Zeit, die ich jetzt im Supermarkt war, ist die Sonne herausgekommen und es ist plötzlich sehr, sehr warm. Ich bin in meiner Lederjacke zu ",
+  "tx": "Guten Morgen und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich bin gerade aus dem Gisa möchte unbedingt auf den Balkon. Gisa, komm hier. Ja, I know. I know. Ich bin gerade aus dem Bett gekrochen und ich muss Frühstück machen. Aber bevor wir Frühstück machen können, bevor ich Frühstück machen kann, muss ich noch einkaufen gehen. Wir haben nämlich nichts zu Hause. Also, los geht's. Ich sollte vielleicht vorher meine Haare machen. Sie sind ein bisschen durcheinander. Es gibt auf Deutsch kein Wort für Bed Head, aber meine Haare sehen aus, als wäre ich gerade … aber wir waren dann ein bisschen zu faul. Ich weiß noch nicht genau, was ich besorge, was ich Palina zum Frühstück machen möchte, aber das finde ich dann jetzt gleich im Supermarkt heraus. Ich schaue, was sie haben. Vielleicht gibt es etwas Interessantes und dann mache ich das. Da unten neben der Metallplatte sitzt ein kleines Kätzchen und schaut mich an. Ich traue mich nicht ein bisschen näher heranzugehen. Ich habe Sorge, dass ich sie verscheuche, dass sie Angst hat. Aber ich versuche es einmal. Okay, nein, zu viel Angst. Schade. So und wir sind wieder aus dem Supermarkt raus. Es … kurzen Zeit, die ich jetzt im Supermarkt war, ist die Sonne herausgekommen und es ist plötzlich sehr, sehr warm. Ich bin in meiner Lederjacke zu warm angezogen. Uh, die Sonne. Ich schwitze. Heute Morgen, als ich losgegangen bin, war es noch ganz perfekt, genau richtig. Aber jetzt kann ich es kaum erwarten, zurück zu sein und diese Lederjacke auszuziehen. Ich habe vor, für Palina und mich ein Sandwich zu machen mit ein bisschen Krabbensticks, also Imitationskrabbenfleisch, einem Ei, ein bisschen Joghurt, ein bisschen Senf und so weiter. Und ich habe auch zum Nachtisch einen kleinen Donut für … interessante Folge von Chill German? Jam und Palina im Supermarkt. Schreibt es unten in die Kommentare, wenn ihr das sehen möchtet. Hi. Hey Kissa. Hey Kissa. Hi. Hello. So, ich bin wieder zu Hause. Die heiße Jacke ist ausgezogen. Palina ist aufgeweckt. Ich habe aufgehört zu schwitzen, aber jetzt kommt der ganz, ganz wichtige Teil, was ich als erstes machen muss. Kaffee. Guten Morgen, Palina. Guten Morgen. Hast du gut geschlafen? Mhm. Auch wenn ich dich ein bisschen zu spät aufgeweckt habe. Ja. Jetzt, wo wir eine kleine Pause machen, um einen Kaffee zu trinken, habe ich gehört, dass du gerne … auf Patreon unterstützen, auch bei mir Coffee, hier auf YouTube oder mit PayPal. Auf Patreon bekommt ihr auch einmal pro Monat ein extra Video. Und alle Videos ohne Untertitel und Transkripte für alle Videos. Auf bei mir Coffee bekommt ihr nichts. Aber es ist Ihr bekommt die Genugtuung, dass ihr uns geholfen habt. Ja, wir sind sehr sehr dankbar. Und ihr bekommt unseren Dank. Genau. Also bekommt ihr etwas ganz ganz Wertvolles. Unseren Dank und Genugtuung. Das war's. Okay. Dann trinken wir jetzt noch den Kaffee aus. Palina wacht noch ein bisschen mehr auf. Und dann mache ich mich an die … paar Tagen eingelegt und die müssen benutzt werden. Deswegen kommen die heute auf das Sandwich. Zwei Eier. Jeder weiß, was Eier sind. Ein bisschen Joghurt. Verschiedene Gewürze. Senf. Saure Gurken. Und Salat. Daraus mache ich jetzt die Frühstückssandwiches für Paulina und mich. Ist das die Hälfte? Was meint ihr? Ist das richtig? Ja. So. Wir fangen damit an, das Brot zu toasten, damit es schön knusprig ist. Während das Brot toastet, bereiten wir die Crabsticks vor, die Krabbensticks. Um die Krabbensticks vorzubereiten, schneide ich sie in dünne Streifen. So. Diese dünnen Streifen mischen … sie jetzt mit Joghurt, ein bisschen Senf und sauren Gurken, die ich klein geschnitten habe. Paulina isst sehr gerne saure Gurken, deswegen habe ich viele gemacht. Die Mengen könnt ihr selber entscheiden. Es gibt hier kein Richtig und Falsch. Das könnt ihr einfach nach Gefühl machen. Wir geben auch ein paar Gewürze dazu. Ein bisschen Paprika, ein bisschen Knoblauch, wenn es denn rauskommt. Der Knoblauch verklebt immer, der wird immer hart. Jetzt. Und natürlich ein bisschen Salz. Und dann vermischen wir das Ganze einfach. Wir rühren einfach um, bis alles gut verteilt ist. Und jetzt hätte ich … brate ich jeweils ein Spiegelei pro Sandwich in ein bisschen Butter. Lange Fingernägel funktionieren besonders gut, um Eierschalen aus der Pfanne zu fischen. Leider ist mir ein Eigelb in der Pfanne kaputt gegangen. Das wird dann mein Spiegelei. Manchmal passieren einfach tragische Dinge. Der Salat muss natürlich gewaschen werden. Er ist ein bisschen dreckig. Ich schneide das weiße Stück von dem Salat gerne ab, weil das ein bisschen bitter ist. Und damit sind alle Teile von unserem Sandwich vorbereitet. Jetzt müssen wir es nur noch zusammenpacken. Wir fangen mit der ersten Schicht, … damit es nicht zu sehr nach Essig schmeckt, aber genug, dass man sie bemerkt. Auf die Zwiebeln kommt der Salat. So. Wir können es auch ein bisschen drücken, damit es ein bisschen fester wird. Und auf den Salat legen wir das Ei. So. Noch ein bisschen Salz auf das Ei. Und damit ist das Sandwich fertig. Tada! Palina kann ihr Sandwich essen. Okay, Palina, ich hoffe, du hast Hunger. Ähm, was ist dein erster Eindruck von diesem Sandwich? Ich bin gespannt. Es kann passieren, dass es ein bisschen ähm ein Durcheinander wird, wenn du es isst. Es könnte eventuell auseinanderfallen. Es wird … ich einen Bissen nehme. Aber bisher hält es ganz gut zusammen. Zum Nachtisch haben wir dann eine Kiwi und einen Donut, den wir uns teilen. Und äh das machen wir dann aber privat. Ich glaube, wir sind am Ende des Videos angekommen. Ich hoffe, dass ihr ein bisschen Spaß hattet. Ich hoffe, dass ihr gerne dabei wart, als ich einkaufen gegangen bin und ein bisschen Inspiration für ein zukünftiges Frühstück bekommen habt. Und ich hoffe natürlich, wie immer, dass wir euch im nächsten Video wiedersehen. Was habt ihr heute gefrühstückt? Schreibt es unten in die Kommentare. Und ansonsten Tschau, out.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7754
+  "src": "auto"
  },
  "7UhHe6XAxSc": {
   "channel": "Learn German with Anja",
@@ -16560,7 +16692,7 @@
  "kXXQcG1alpQ": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-08T15:22:19+00:00",
+  "checked": "2026-11-11T22:42:09+00:00",
   "title": "Ich-Laut /ç/ - Deutsche Aussprache lernen & üben",
   "duration": 444,
   "published": "20221005",
@@ -16717,7 +16849,8 @@
     2
    ]
   ],
-  "tx": "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache. Der Ich-Laut ist eine von mehreren möglichen Realisierungen der Aussprache der Buchstabenkombination CH. Und zwar genau die, wie in dem Wort ich. Deswegen heißt er auch so, ja. Das CH in dem Wort ich wird so ausgesprochen. Das ist der Ich-Laut. In vielen Sprachen gibt es diesen Laut nicht, bzw. CH wird ganz anders ausgesprochen. In den slawischen Sprachen zum Beispiel wird CH mit einem härteren Konsonanten ausgesprochen. Das klingt aber ganz anders als . Der für slawische Sprachen typischer Laut entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch und wichtig ist dieses Reibe-Geräusch. Der Ich-Laut ist die stimmlose Variante des J-Lautes Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich zum harten Gaumen. Zwischen der Zunge und dem harten Gaumen entsteht so eine Enge, durch die die Luft nach außen entweicht. Schauen wir uns doch mal einige Wörter mit dem Ich-Laut in Zeitlupe an. Der Mund öffnet sich nur wenig, die Lippen sind ein bisschen breit, relativ locker. Die Zungen- und Lippen-Position des kurzen I-Vokals ist genau wie beim Ich-Laut. Deshalb empfiehlt es sich auch mit diesem Wort anzufangen zu üben, bzw. mit anderen Wörtern, bei denen der Ich-Laut nach einem I-Vokal gesprochen wird. Was man hier aber auch gut sieht ist, dass die Zähne beim Ich-Laut wesentlich näher zusammen sind, als beim I-Vokal. Sie liegen allerdings nicht aufeinander. Der Mund ist hier beim kurzen E-Vokal etwas weiter geöffnet, so dass man hier noch deutlicher sehen kann, wie er sich für den Ich-Laut fast schließt, so dass also die oberen und unteren Zähne wieder nah beieinander sind. Die Zungenposition ändert si",
+  "tx": "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache. Der Ich-Laut ist eine von mehreren möglichen Realisierungen der Aussprache der Buchstabenkombination CH. Und zwar genau die, wie in dem Wort ich. Deswegen heißt er auch so, ja. Das CH in dem Wort ich wird so ausgesprochen. Das ist der Ich-Laut. In vielen Sprachen gibt es diesen Laut nicht, bzw. CH wird ganz anders ausgesprochen. In den slawischen Sprachen zum Beispiel wird CH mit einem härteren Konsonanten ausgesprochen. Das klingt aber ganz anders als . Der für slawische Sprachen typischer Laut entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch und wichtig ist dieses Reibe-Geräusch. Der Ich-Laut ist die stimmlose Variante des J-Lautes Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich zum harten Gaumen. Zwischen der Zunge und dem harten Gaumen entsteht so eine Enge, durch die die Luft nach außen entweicht. Schauen wir uns doch mal einige Wörter mit dem Ich-Laut in Zeitlupe an. Der Mund öffnet sich nur wenig, die Lippen sind ein bisschen breit, relativ locker. Die Zungen- und Lippen-Position des kurzen I-Vokals ist genau wie beim Ich-Laut. Deshalb empfiehlt es sich auch mit diesem Wort anzufangen zu üben, bzw. mit anderen Wörtern, bei denen der Ich-Laut nach einem I-Vokal gesprochen wird. Was man hier aber auch gut sieht ist, dass die Zähne beim Ich-Laut wesentlich näher zusammen sind, als beim I-Vokal. Sie liegen allerdings nicht aufeinander. Der Mund ist hier beim kurzen E-Vokal etwas weiter geöffnet, so dass man hier noch deutlicher sehen kann, wie er sich für den Ich-Laut fast schließt, so dass also die oberen und unteren Zähne wieder nah beieinander sind. Die Zungenposition ändert sich bei dem Übergang vom kurzen E-Vokal zum Ich-Laut aber nicht. Man hebt einfach den Unterkiefer wieder an, damit sich eben die Zähne näher kommen. Richtig aufeinander liegen sie dann erst beim T-Laut. Das muss aber nicht sein, denn T-Laut kann man auch mit einem kleinen Abstand zwischen den oberen und unteren Zähnen aussprechen. Das ist sprecherabhängig. Hier ist deutlich zu sehen, dass die Lippen beim Ich-Laut in diesem Fall gerundet sind. Das liegt an dem mit gerundeten Lippen auszusprechenden Ü-Vokal in diesem Wort. Diese Lippenrundung bleibt beim Ich-Laut eben erhalten. Der vordere Zungenrücken ist beim Ü-Vokal noch nicht ganz weit oben am harten Gaumen. Für den Ich-Laut muss man ihn also noch ein Stückchen anheben. Die oberen und unteren Zähne sind natürlich wieder nah beieinander. Auch hier sind die Lippen beim Ich-Laut noch leicht gerundet wegen des vorangegangenen EU-Diphthongs. Und man sieht auch hier wieder, dass die Zähne natürlich wieder nah beieinander sind. Weil der Ich-Laut eben vorn entsteht, spricht man CH als Ich-Laut auch immer dann, wenn es nach einem Vorderzungenvokal kommt. Also nach einem Vokal, der auch vorne entsteht. Das betrifft also die e-, ö-, i- und ü-Vokale, aber auch die Diphthonge eu und ei. Nach Vokalen, die weiter hinten entstehen, also nach a-, o- und u- Vokalen, sowie auch nach dem au-Diphthonge, spricht man keinen Ich-Laut, sondern einen Ach-Laut, der ja auch hinten entsteht. Deswegen sagt man zum Beispiel auch: der Koch, mit Ach-Laut, aber im Gegensatz dazu: die Köchin, mit Ich-Laut. Nach einem O-Vokal, wie in Koch, spricht man einen Ach-Laut, aber nach einem Ö-Vokal, wie in Köchin, spricht man eben einen Ich-Laut. Oder auch im Plural: die Köche oder köcheln. Und vergesst bitte nicht, jedes Wort, das ihr hier seht und hört auch nachzusprechen, sonst macht die Übung keinen Sinn. Also noch ein Wortpaar. Singular und Plural, nämlich das Buch mit Ach-Laut. Und der Plural: die Bücher. Hier ist also wieder ein Ich-Laut zu sprechen. Allen von euch, die intensiv an ihrer deutschen Aussprache arbeiten möchten und ihren fremden Akzent so gut es geht reduzieren wollen, den empfehle ich eine Mitgliedschaft in meiner Online-Akademie, schaut einfach mal vorbei. Der Link ist unter dem Video oder ihr könnt auch einfach Deutsch mit benjamin.com besuchen. Das ist eine umfassende Online-Lernplattform mit ganz ganz vielen Audio- und Videomaterialien, Übungsmaterialien zum Verbessern der Aussprache, zum Verbessern des Hörverstehens und auch zum Erweitern des aktiven Wortschatzes. Also wie gesagt, schaut einfach mal vorbei, ich würde mich freuen, euch in meiner Online-Akademie begrüßen zu dürfen. Die Buchstabenkombination CH spricht man außerdem nach Konsonanten als Ich-Laut aus. Zum Beispiel: Aber auch in der Diminutivendung <chen>, also in dieser Verkleinerungsform spricht man CH als Ich-Laut, wobei dann aber das e-Schwa in der Regel wegfällt. Also man sagt eigentlich nur: . Man geht direkt vom Ich-Laut zum über. Zudem spricht man Wörter mit der Endung <ig> in der Regel auch mit einem Ich-Laut. Aber nur wenn der Buchstabe <g> auch wirklich am Ende bleibt. Zum Beispiel: Man kann auch sagen wenig, das ist vor allem in Süddeutschland üblich, aber in den meisten Regionen oberhalb von Süddeutschland sagt man wenig. Wenn dann aber das <g> nicht mehr am Wortende ist, dann spricht man auf jeden Fall . Also wenige. Weitere Beispiele sind: Zum Beispiel: dein Sohn ist aber wirklich ein sehr artiges Kind. Wörter, die mit dem Ich-Laut beginnen, gibt es nur wenige. Zwei Beispiele: Vor allem im Süden Deutschlands spricht man hier aber ein . Chemie und China. Wenn euch das Video geholfen hat, eure Aussprache des Ich-Lautes zu verbessern, dann gebt ihm doch bitte einen Daumen nach oben und abonniert meinen Kanal mit Benachrichtigungen. Damit unterstützt ihr nicht nur meinen Kanal und mich, sondern auch andere Deutschlernende, da Youtube dann diesen anderen Deutschlernenden auch das Video vorschlägt. Danke fürs Zuschauen. Ihr lernt Deutsch mit Benjamin auf Youtube und ich freue mich auf Euch im nächsten Video!",
+  "gist": "w",
   "status": "ok",
   "src": "cc"
  },
@@ -17053,7 +17186,7 @@
  "MonJYV-570c": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-08T15:29:47+00:00",
+  "checked": "2026-11-11T22:46:54+00:00",
   "title": "A1/A2 Akkusativ und Dativ verstehen | easy and comprehensible German",
   "duration": 804,
   "published": "20260215",
@@ -17218,7 +17351,8 @@
     2
    ]
   ],
-  "tx": "Wir haben vor einigen Videos diese Bilder angemalt. Ich habe den Tisch braun angemalt und ich habe die Gabel grau angemalt. Heute spielen wir mit diesen Bildern. Wir lernen den Akkusativ und den Dativ. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Wir lernen Akkusativ und wir lernen Dativ. Das ist Grammatik, aber wir haben tolle Bilder und ich gebe dir guten Input. Hier haben wir den Tisch. Der Tisch. Wir haben einen Tisch und wir haben ein Glas, eine Gabel, eine Tasse, einen Teller, ein Messer und einen Löffel. Und ich lege diese Sachen auf den Tisch, ich lege sie unter den Tisch. Ich lege sie neben den Tisch. Ich lege das Glas auf den Tisch. Ich lege das Glas auf den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Tasse neben den Tisch. Das Glas ist auf dem Tisch. Die Gabel ist unter dem Tisch. Die Tasse ist neben dem Tisch. Ich lege den Teller auf den Tisch. Ich lege den Teller auf den Tisch. Der Teller ist auf dem Tisch. Ups. Ich lege das Messer unter den Tisch. Ich lege das Messer unter den Tisch. Das Messer ist unter dem Tisch. Ich lege den Löffel neben den Tisch. Ich lege den Löffel neben den Tisch. Der Löffel ist neben dem Tisch. Was ist auf dem Tisch? Auf dem Tisch ist das Glas und der Teller. Was ist unter dem Tisch? Unter dem Tisch ist die Gabel und das Messer. Was ist neben dem Tisch? Neben dem Tisch ist der Löffel und die Tasse. Noch einmal. Wohin lege ich den Teller? Ich lege den Teller unter den Tisch. Der Teller liegt unter dem Tisch. Wohin lege ich das Glas? Ich lege das Glas neben den Tisch. Ich lege das Glas neben den Tisch. Wo ist das Glas? Das Glas ist neben dem Tisch. Wohin lege ich den Löffel? Den Löffel lege ich auf den Tisch. Wo ist der Löffel? Auf dem Tisch. Wohin lege i",
+  "tx": "Wir haben vor einigen Videos diese Bilder angemalt. Ich habe den Tisch braun angemalt und ich habe die Gabel grau angemalt. Heute spielen wir mit diesen Bildern. Wir lernen den Akkusativ und den Dativ. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Wir lernen Akkusativ und wir lernen Dativ. Das ist Grammatik, aber wir haben tolle Bilder und ich gebe dir guten Input. Hier haben wir den Tisch. Der Tisch. Wir haben einen Tisch und wir haben ein Glas, eine Gabel, eine Tasse, einen Teller, ein Messer und einen Löffel. Und ich lege diese Sachen auf den Tisch, ich lege sie unter den Tisch. Ich lege sie neben den Tisch. Ich lege das Glas auf den Tisch. Ich lege das Glas auf den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Tasse neben den Tisch. Das Glas ist auf dem Tisch. Die Gabel ist unter dem Tisch. Die Tasse ist neben dem Tisch. Ich lege den Teller auf den Tisch. Ich lege den Teller auf den Tisch. Der Teller ist auf dem Tisch. Ups. Ich lege das Messer unter den Tisch. Ich lege das Messer unter den Tisch. Das Messer ist unter dem Tisch. Ich lege den Löffel neben den Tisch. Ich lege den Löffel neben den Tisch. Der Löffel ist neben dem Tisch. Was ist auf dem Tisch? Auf dem Tisch ist das Glas und der Teller. Was ist unter dem Tisch? Unter dem Tisch ist die Gabel und das Messer. Was ist neben dem Tisch? Neben dem Tisch ist der Löffel und die Tasse. Noch einmal. Wohin lege ich den Teller? Ich lege den Teller unter den Tisch. Der Teller liegt unter dem Tisch. Wohin lege ich das Glas? Ich lege das Glas neben den Tisch. Ich lege das Glas neben den Tisch. Wo ist das Glas? Das Glas ist neben dem Tisch. Wohin lege ich den Löffel? Den Löffel lege ich auf den Tisch. Wo ist der Löffel? Auf dem Tisch. Wohin lege ich das Messer? Ich lege das Messer unter den Tisch. Das Messer liegt unter dem Tisch. Die Gabel. Wohin lege ich die Gabel? Ich lege die Gabel auf den Tisch. Wo liegt die Gabel? Die Gabel liegt auf dem Tisch. Wohin lege ich die Tasse? Ich lege die Tasse neben den Tisch. Wo ist die Tasse? neben dem Tisch. Wunderbar. Sehr gut. Jetzt haben wir keinen Tisch. Wir haben einen Schrank. Der Schrank. Und wir haben Kleider. Wir haben Kleidung. Was haben wir? Wir haben eine grüne Jacke. Wir haben einen roten Pullover. Wir haben eine blaue Hose, wir haben eine rosa Bluse. Wir haben ein lila Kleid und wir haben einen braunen Kleiderbügel. Der Kleiderbügel. Was ist im Schrank? Was ist im Schrank? Die Jacke ist im Schrank. Ich lege die Jacke in den Schrank. In den Schrank. Im Schrank. Ich lege die Hose in den Schrank. Die Hose ist im Schrank. Der Pullover. Ich lege den Pullover in den Schrank. Der Pullover ist im Schrank. Die Bluse. Ich lege die Bluse in den Schrank. Die Bluse ist im Schrank. Das Kleid. Ich lege das Kleid in den Schrank. Ich lege das Kleid in den Schrank. Das Kleid ist im Schrank. Genau. Und der Kleiderbügel. Ich lege den Kleiderbügel in den Schrank. Der Kleiderbügel ist im Schrank. Was ist im Schrank? Der Kleiderbügel ist im Schrank. Das Kleid ist im Schrank. Die Bluse ist im Schrank. Der Pullover ist im Schrank. Die Hose ist im Schrank und die Jacke ist im Schrank. Was lege ich in den Schrank? Ich lege den Kleiderbügel in den Schrank. Ich lege das Kleid in den Schrank. Ich lege die Bluse in den Schrank. Ich lege den Pullover in den Schrank. Ich lege die Jacke in den Schrank und ich lege die Hose in den Schrank. Wunderbar. Alles ist im Schrank. Kommen wir zum Baum. Der Baum und viele Tiere. Wie heißen die Tiere? Das ist ein Schaf. Das Schaf. Das ist eine Katze. Die Katze. Das ist ein Igel. Der Igel. Das ist ein Hund. Der Hund. Das ist ein Schwein, das Schwein. Und das ist ein Frosch, der Frosch. Hinter dem Baum und vor dem Baum. Okay, hinter dem Baum, vor dem Baum. Wo ist das Schaf? Das Schaf ist hinter dem Baum. Das Schaf ist hinter dem Baum. Das Schaf geht vor den Baum. Es ist hinter dem Baum und es geht vor den Baum. Weißt du was? Alle Tiere sind hinter dem Baum. Alle Tiere sind hinter dem Baum. Das Schaf ist auch hinter dem Baum. Jetzt gehen die Sch Jetzt gehen die Tiere. Das Schaf geht vor den Baum. Der Frosch geht vor den Baum. Die Katze geht vor den Baum. Jetzt ist sie vor dem Baum. Der Hund ist hinter dem Baum. Der Hund geht vor den Baum. Der Hund ist vor dem Baum. Der Igel ist hinter dem Baum. Er geht vor den Baum und er ist vor dem Baum. Das Schwein ist hinter dem Baum. Das Schwein geht vor den Baum. Das Schwein ist vor dem Baum. Wo ist der Frosch? Der Frosch ist vor dem Baum. Wohin geht der Frosch? Er geht hinter den Baum. Wo ist das Schaf? Das Schaf ist vor dem Baum. Wohin geht das Schaf? Das Schaf geht hinter den Baum. Wo ist der Hund? Der Hund ist vor dem Baum. Wohin geht der Hund? Der Hund geht hinter den Baum. Genau. Wo ist der Igel? Der Igel ist vor dem Baum. Wohin geht der Igel? Er geht hinter den Baum. Wo ist die Katze? Die Katze ist vor dem Baum. Wohin geht die Katze? Sie geht hinter den Baum. Jetzt bist du dran. Wo ist das Schwein? Das Schwein ist vor dem Baum. Wohin geht das Schwein? Das Schwein geht hinter den Baum. Sehr, sehr gut. I know that it's not easy to remember when to use den and when to use dem. But that's okay. Just listen to the video a few times and for example make your own little cards. You can also just write down the words that works as well. Take the actual stuff for example in the kitchen and put the things on the table, on the floor, in the cupboard, wherever you like. And comment on what you're doing. Ich lege es auf den Tisch. Es ist auf dem Tisch. I have another video which covers this topic and you can also check out my selfstudy courses on my platform. I wünsche dir ganz viel Spaß und Erfolg beim Deutsch lernen und wir sehen uns dann wieder in meinem nächsten Video. Mach's gut. Tschüss.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -17390,7 +17524,7 @@
  "zXmFaoTrm-s": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-08T15:51:10+00:00",
+  "checked": "2026-11-11T22:50:59+00:00",
   "title": "💝 Liebe und Sprache: Wie die Deutschen den Valentinstag feiern 💌",
   "duration": 318,
   "published": "20250214",
@@ -17515,7 +17649,8 @@
     2
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Nun ist es wieder so weit – am 14. Februar feiern Menschen in vielen Ländern den Valentinstag! Doch was bedeutet dieser Tag in Deutschland, und wie wird er hier gefeiert? In Deutschland hat der Valentinstag eine ganz besondere Bedeutung und bringt die Menschen dazu, sich kleine Aufmerksamkeiten zu schenken; doch die Art, ihn zu feiern, ist oft nicht so übertrieben wie in anderen Ländern. Es geht darum, Wertschätzung zu zeigen – oft ganz schlicht, wie es den Deutschen gefällt. Woher kommt der Valentinstag eigentlich? Der Valentinstag hat seinen Ursprung im alten Rom und geht auf den Priester Valentin von Terni zurück. Er soll heimlich Liebespaare getraut haben, was damals verboten war. Diese romantische Rebellion hat ihm schließlich das Leben gekostet – doch Valentin wird heute noch als Heiliger gefeiert, und die Tradition lebt weiter. In den 1950er Jahren kam der Tag nach Deutschland. Anfangs schenkten sich nur wenige Paare Blumen, heute ist er aber für viele Paare ein Tag, um sich Zeit füreinander zu nehmen. Wie feiern die Deutschen den Valentinstag? Hierzulande schätzen wir die einfachen Dinge, wie einen Spaziergang, ein selbst gekochtes Essen oder einen Besuch im Lieblingscafé. Doch Blumenläden sind am Valentinstag auch hier gut besucht – besonders rote Rosen und Tulpen sind beliebt! Im Vergleich zu anderen Ländern geht es in Deutschland weniger um große, teure Geschenke, sondern um das kleine Zeichen der Zuneigung, das vom Herzen kommt. Vokabeln rund um die Liebe auf Deutsch lernen! Hier einige Worte und Ausdrücke, die dir helfen, über die Liebe auf Deutsch zu sprechen: Ich habe dich lieb – Ich mag dich (eher im freundschaftlichen Sinne) Ich liebe dich – Der große Liebesausdruck! Lieblingsmen",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Nun ist es wieder so weit – am 14. Februar feiern Menschen in vielen Ländern den Valentinstag! Doch was bedeutet dieser Tag in Deutschland, und wie wird er hier gefeiert? In Deutschland hat der Valentinstag eine ganz besondere Bedeutung und bringt die Menschen dazu, sich kleine Aufmerksamkeiten zu schenken; doch die Art, ihn zu feiern, ist oft nicht so übertrieben wie in anderen Ländern. Es geht darum, Wertschätzung zu zeigen – oft ganz schlicht, wie es den Deutschen gefällt. Woher kommt der Valentinstag eigentlich? Der Valentinstag hat seinen Ursprung im alten Rom und geht auf den Priester Valentin von Terni zurück. Er soll heimlich Liebespaare getraut haben, was damals verboten war. Diese romantische Rebellion hat ihm schließlich das Leben gekostet – doch Valentin wird heute noch als Heiliger gefeiert, und die Tradition lebt weiter. In den 1950er Jahren kam der Tag nach Deutschland. Anfangs schenkten sich nur wenige Paare Blumen, heute ist er aber für viele Paare ein Tag, um sich Zeit füreinander zu nehmen. Wie feiern die Deutschen den Valentinstag? Hierzulande schätzen wir die einfachen Dinge, wie einen Spaziergang, ein selbst gekochtes Essen oder einen Besuch im Lieblingscafé. Doch Blumenläden sind am Valentinstag auch hier gut besucht – besonders rote Rosen und Tulpen sind beliebt! Im Vergleich zu anderen Ländern geht es in Deutschland weniger um große, teure Geschenke, sondern um das kleine Zeichen der Zuneigung, das vom Herzen kommt. Vokabeln rund um die Liebe auf Deutsch lernen! Hier einige Worte und Ausdrücke, die dir helfen, über die Liebe auf Deutsch zu sprechen: Ich habe dich lieb – Ich mag dich (eher im freundschaftlichen Sinne) Ich liebe dich – Der große Liebesausdruck! Lieblingsmensch – So nennt man einen besonders wichtigen Menschen Verliebt – verliebt sein, oder wie man auch sagt, „Schmetterlinge im Bauch haben“ Übrigens: Ein Liebesbrief auf Deutsch ist etwas ganz Besonderes! Schreibe ein paar Zeilen an jemanden, den du gern hast, und entdecke, wie schön sich die deutsche Sprache für solche Worte eignet! Mach den Valentinstag zum Lerntag! Warum diesen Tag nicht dazu nutzen, dein Deutsch zu verbessern? Wie wäre es, einem Freund auf Deutsch ein Kompliment zu machen oder ein paar nette Zeilen zu schreiben? Das hilft dir, neue Vokabeln zu üben und authentisch über deine Gefühle zu sprechen – ganz im Geiste des Valentinstags! Falls du gerne noch tiefer in die deutsche Kultur eintauchen und deinen Ausdruck verbessern möchtest, ist unsere Deutschlern-Akademie genau das Richtige für dich! Dort lernst du nicht nur die Sprache, sondern auch viel über Traditionen und Eigenheiten, die die deutsche Kultur ausmachen. Verliebe dich ins Deutschlernen indem du diese Seite besuchst: AuthenticGermanLearning.com/join Alles Liebe zum Valentinstag und viel Freude beim Deutschlernen! Danke fürs Zuschauen! Bis zum nächsten Mal — tschüss!",
+  "gist": "w",
   "status": "ok",
   "src": "cc"
  },
@@ -17703,7 +17838,7 @@
  "hTjSotB2wwA": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-08T15:56:27+00:00",
+  "checked": "2026-11-11T22:53:34+00:00",
   "title": "Learn German from Scratch with This Easy First Day Story (A1)",
   "duration": 1707,
   "published": "20260928",
@@ -17860,14 +17995,15 @@
     4
    ]
   ],
-  "tx": "Learning a new language through a story is fun and very interesting. Today, we are learning German with the story \"My First German Course\". We speak slowly and clearly. The English translation is spoken and shown as subtitles. At the end, there is a short Goethe-style test to check your understanding. First, we will learn 10 important words from the story. Deutschkurs German course Sprachschule Language school Kursraum Classroom Sich anmelden To register Sich vorstellen To introduce oneself Hausaufgabe Homework Pause Break Sich verbessern To improve Selbstbewusst Confident Sich verabschieden To say goodbye Hallo, ich heiße Anna. Hello, my name is Anna. Hallo, ich heiße Anna. Ich bin 22 Jahre alt. I am 22 years old. Ich bin 22 Jahre alt. Ich komme aus Spanien. I come from Spain. Ich komme aus Spanien. Jetzt wohne ich in Salzburg. Now I live in Salzburg. Jetzt wohne ich in Salzburg. Ich wohne allein in einer kleinen Wohnung. Ich wohne allein in einer kleinen Wohnung. Meine Wohnung ist nicht groß, aber sie ist sehr gemütlich. Meine Wohnung ist nicht groß, aber sie ist sehr gemütlich. Ich arbeite in einem kleinen Hotel in Salzburg. Ich arbeite in einem kleinen Hotel in Salzburg. Deshalb brauche ich Deutsch für meine Arbeit. Deshalb brauche ich Deutsch für meine Arbeit. Ich möchte mit den Gästen besser sprechen. Ich möchte mit den Gästen besser sprechen. Außerdem möchte ich mich in Österreich sicherer fühlen. Außerdem möchte ich mich in Österreich sicherer fühlen. Deshalb habe ich mich für einen Deutschkurs angemeldet. Deshalb habe ich mich für einen Deutschkurs angemeldet. Heute ist mein erster Tag im Deutschkurs. Heute ist mein erster Tag im Deutschkurs. Ich bin ein bisschen nervös. Am Morgen stehe ich um 7 Uhr auf. Ich mache mein Bett und öffne das Fenster. Ich mache mein",
+  "tx": "Learning a new language through a story is fun and very interesting. Today, we are learning German with the story \"My First German Course\". We speak slowly and clearly. The English translation is spoken and shown as subtitles. At the end, there is a short Goethe-style test to check your understanding. First, we will learn 10 important words from the story. Deutschkurs German course Sprachschule Language school Kursraum Classroom Sich anmelden To register Sich vorstellen To introduce oneself Hausaufgabe Homework Pause Break Sich verbessern To improve Selbstbewusst Confident Sich verabschieden … Salzburg. Now I live in Salzburg. Jetzt wohne ich in Salzburg. Ich wohne allein in einer kleinen Wohnung. Ich wohne allein in einer kleinen Wohnung. Meine Wohnung ist nicht groß, aber sie ist sehr gemütlich. Meine Wohnung ist nicht groß, aber sie ist sehr gemütlich. Ich arbeite in einem kleinen Hotel in Salzburg. Ich arbeite in einem kleinen Hotel in Salzburg. Deshalb brauche ich Deutsch für meine Arbeit. Deshalb brauche ich Deutsch für meine Arbeit. Ich möchte mit den Gästen besser sprechen. Ich möchte mit den Gästen besser sprechen. Außerdem möchte ich mich in Österreich sicherer fühlen. … im Deutschkurs. Ich bin ein bisschen nervös. Am Morgen stehe ich um 7 Uhr auf. Ich mache mein Bett und öffne das Fenster. Ich mache mein Bett und öffne das Fenster. Danach gehe ich ins Badezimmer und putze meine Zähne. Danach gehe ich ins Badezimmer und putze meine Zähne. Dann dusche ich und ziehe mich an. Zum Frühstück esse ich Brot mit Käse und ein Ei. Zum Frühstück esse ich Brot mit Käse und ein Dazu trinke ich eine Tasse Kaffee. Um 8 Uhr verlasse ich meine Wohnung. Der Deutschkurs beginnt um 9 Uhr. Ich fahre mit dem Bus zum Kurs. Auf dem Weg höre ich deutsche Wörter auf meinem Handy. … Sprachschule an. Vor der Tür sehe ich viele Menschen. Einige Menschen sprechen Deutsch miteinander. Einige Menschen sprechen Deutsch miteinander. Ich bin etwas schüchtern und sage zuerst nichts. Ich bin etwas schüchtern und sage zuerst nichts. Dann kommt ein Mädchen zu mir und lächelt. Dann kommt ein Mädchen zu mir und lächelt. Sie sagt: \"Hallo, bist du auch neu hier?\" Sie sagt: \"Hallo, bist du auch neu hier?\" Ich antworte: \"Ja, heute ist mein erster Tag.\" Ich antworte: \"Ja, heute ist mein erster Tag. Sie heißt Maria und kommt aus Italien. Wir gehen zusammen in den Kursraum. Im Kursraum … begrüßt uns freundlich und sagt: \"Guten Morgen.\" Sie begrüßt uns freundlich und sagt: \"Guten Morgen.\" Alle Schüler antworten. Guten Morgen. Alle Schüler antworten. Guten Morgen. Frau Schneider schreibt ihren Namen an die Tafel. Frau Schneider schreibt ihren Namen an die Tafel. Danach erklärt sie den Ablauf des Kurses. Danach erklärt sie den Ablauf des Kurses. Sie sagt, dass wir viel sprechen, hören, lesen und schreiben werden. Sie sagt, dass wir viel sprechen, hören, lesen und schreiben werden. Danach stellt sich jeder Schüler kurz vor. Danach stellt sich jeder Schüler kurz vor. Als ich an … Ich arbeite in einem Hotel und brauche Deutsch für meine Arbeit. Ich arbeite in einem Hotel und brauche Deutsch für meine Arbeit. In meiner Freizeit höre ich gerne Musik und gehe spazieren. In meiner Freizeit höre ich gerne Musik und gehe spazieren. Die anderen Schüler klatschen und lächeln. Die anderen Schüler klatschen und lächeln. Ich setze mich wieder hin und fühle mich erleichtert. Ich setze mich wieder hin und fühle mich erleichtert. Danach lernen wir einfache deutsche Wörter. Danach lernen wir einfache deutsche Wörter. Wir lernen Wörter wie hallo, danke, bitte und tschüss. … Maria. Danach fragt sie mich, wo wohnst du? Danach fragt sie mich, wo du? Ich antworte, ich wohne in Salzburg. Ich antworte, ich wohne in Salzburg. Wir üben diese Fragen mehrmals miteinander. Wir üben diese Fragen mehrmals miteinander. In der Pause trinken wir Wasser und essen einen kleinen Snack. In der Pause trinken wir Wasser und essen einen kleinen Snack. Ich spreche mit Maria über unser Leben in Österreich. Ich spreche mit Maria über unser Leben in Österreich. Sie sagt, dass sie auch Deutsch für ihre Arbeit braucht. Sie sagt, dass sie auch Deutsch für ihre Arbeit braucht. Das … mache ich einen kleinen Fehler. Aber Frau Schneider hilft mir freundlich. Aber Frau Schneider hilft mir freundlich. Sie sagt: \"Keine Sorge, Fehler sind ganz normal.\" Sie sagt: \"Keine Sorge, Fehler sind ganz normal.\" Diese Worte geben mir mehr Selbstvertrauen. Diese Worte geben mir mehr Selbstvertrauen. Am Ende des Kurses bekommen wir Hausaufgaben. Am Ende des Kurses bekommen wir Hausaufgaben. Wir sollen zehn neue Wörter lernen und einen kurzen Text schreiben. Wir sollen zehn neue Wörter lernen und einen kurzen Text schreiben. Der Kurs endet um 12 Uhr. Ich verabschiede mich von Maria … bin glücklich, weil mein erster Deutschkurs sehr interessant war. Zuhause mache ich zuerst Mittagessen. Danach mache ich meine Hausaufgaben. Ich schreibe die neuen Wörter in mein Heft. Ich schreibe die neuen Wörter in mein Heft. Am Abend wiederhole ich die Wörter noch einmal. Am Abend wiederhole ich die Wörter noch einmal. Ich möchte jeden Tag ein bisschen Deutsch lernen. Ich möchte jeden Tag ein bisschen Deutsch lernen. Ich weiß, dass Deutsch nicht immer einfach ist, aber ich gebe nicht auf. Ich weiß, dass Deutsch nicht immer einfach ist, aber ich gebe nicht auf. Mein Ziel ist, bald besser … kennenlernen. Außerdem möchte ich neue Freunde finden und mehr von Österreich kennenlernen. Ich freue mich schon auf meinen nächsten Deutschkurs. Ich freue mich schon auf meinen nächsten Deutschkurs. Für mich beginnt heute ein neuer Weg. Test 1: Richtig oder falsch? Anna kommt aus Spanien. Anna wohnt mit ihrer Familie in Salzburg. Anna arbeitet in einem Hotel. Der Deutschkurs beginnt um 9:00 Uhr. Maria kommt aus Italien. Test 2: Wähle die richtige Antwort. Warum lernt Anna Deutsch? Wie fährt Anna zur Sprachschule? Wie heißt die Lehrerin? Was isst Anna zum Frühstück? Wann steht Anna auf?",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "opvdvlO8m0k": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-08T15:58:55+00:00",
+  "checked": "2026-11-11T22:54:23+00:00",
   "title": "Peppa-Wutz-Geschichten 🍼 Baby Evie MACHT Peppa beim ESSEN NACH! 🥣 | LEGO DUPLO Peppa-Wutz-Folgen",
   "duration": 1826,
   "published": "20260930",
@@ -18040,14 +18176,15 @@
     19
    ]
   ],
-  "tx": "Peppa Wutz Geschichten Lasst uns springen. Und schrubb, schrubb, schrubb, dann wisch, wisch, wisch und tada! Heute hat Peppa Kriegst mich nicht, Schorsch. Ich bin zu schnell. ein riesen Chaos angerichtet. Oh je. Ups, ups. Entschuldigung, das war keine Absicht. Das kann passieren. Seid einfach vorsichtig. Babys wie Effi lernen, indem sie alles nachmachen. Was meinst du? Oh. Effi macht Peppa und Schorsch nach. Wenn wir also ganz brav sind, ist Effi dann auch ganz brav? Na ja. Ja, Peppa. Ganz genauso ist es. Schorsch und ich sind ab jetzt ganz brav. Also bist du auch brav, Effi? Ja! Peppas Familie macht sich jetzt auf den Weg zum Bahnhof. Stopp! Bevor wir darüber gehen, müssen wir ähm Peppa weiß nicht recht, was man jetzt machen muss. Stoppen, gucken, hören und Erwachsenen die Hand geben. Danke dir, Mama. Wir stoppen, gucken, hören und geben Erwachsenen die Hand. Dank Peppa haben jetzt alle ganz sicher die Straße überquert. Und jetzt müssen sie auf den Zug warten. Vorsicht, Schorsch. Wir müssen brav sein für Effi. Also sollten wir am Bahnhof nicht spielen. Peppa und Schorsch sind verantwortungsvoll und für Evi ein richtig gutes Vorbild. Und jetzt geht es gleich in den Zug. Der Zug ist da. Auf dem Bahnsteig rennt man nicht. Entschuldigung, Mama. Schon gut. Es ist nicht so, dass ihr keinen Spaß haben dürft. Habt Spaß, aber seid vorsichtig. Dann wird es euch Evi nachmachen. So, wollen wir einsteigen und im Zug noch ein bisschen mehr Spaß haben? Ganz vorsichtigen Spaß. Peppa passt sehr gern auf Evi auf. Besonders, wenn Aufpassen heißt, dass dabei alle zusammen Spaß haben. Ich bin die schnellste. Heute veranstalten Peppa und Schorsch ein Rennen. Ich komme rein. Oh, sieht aus, als würde Papa Wutz ein Windelrennen veranstalten. leid, ihr zwei. Ich bin zwar schnell beim Windeln we",
+  "tx": "Peppa Wutz Geschichten Lasst uns springen. Und schrubb, schrubb, schrubb, dann wisch, wisch, wisch und tada! Heute hat Peppa Kriegst mich nicht, Schorsch. Ich bin zu schnell. ein riesen Chaos angerichtet. Oh je. Ups, ups. Entschuldigung, das war keine Absicht. Das kann passieren. Seid einfach vorsichtig. Babys wie Effi lernen, indem sie alles nachmachen. Was meinst du? Oh. Effi macht Peppa und Schorsch nach. Wenn wir also ganz brav sind, ist Effi dann auch ganz brav? Na ja. Ja, Peppa. Ganz genauso ist es. Schorsch und ich sind ab jetzt ganz brav. Also bist du auch brav, Effi? Ja! Peppas … machen mit einem Feuchttuch. Danach ein Klecks Babycreme, um Effi zum Lachen zu bringen. Und dann ziehen wir die frische Windel an. Jetzt noch schnell die Hände waschen und wir sind fertig. Kinderleicht. Peppa und Schorsch wenden alles, was sie gelernt haben, an Effis Puppen an. Ich werde die allerschnellste sein beim Windelwechseln. Und da die beiden so konzentriert darauf sind, schnell zu sein, machen sie ein paar kleine Fehler. Oh, Schorsch, ähm Hallo, Effi. Ich bin die kleine Windelpuppe. Vielleicht ist es nicht das Wichtigste, der Schnellste zu sein. Und wie waren wir? Ähm Das war … Aber noch genauer kann ich nicht hinsehen. Ich nenne es Berge im Nebel. Das sind die Berge und das hier ist der Nebel. Ich weiß, was ich malen will. Effi macht es Spaß, ihr Blatt mit Fingerabdrücken zu füllen. Oh, und Peppas Blatt auch. Ach, Effi. Das hier ist doch mein Bild. Dein Blatt ist da. Erstmal muss deine Hand da weg. Oh je. Peppas Bild ist nicht mehr so, wie sie es geplant hatte. Oh je, tut mir leid, ihr zwei. Ich glaube, Effi wollte nur ihre Fingerabdrücke mit euch teilen. Und mit mir. Teilen macht in der Tat Freude. Ja, Effi wollte gar nicht unartig sein. Wenn wir genauer … Leider kann ich keine Autos mit Fernsteuerung reparieren. Ich hatte meinen neuen Werkzeugkasten dabei und bot meine Hilfe an. Klausie war so froh, dass sein Spielzeug wieder ganz war und viele andere Kinder wollten ihre Spielsachen auch reparieren lassen. Also habe ich weitergeholfen. Und seitdem bin ich jede Woche hier. So, mal sehen, ob wir Wack Wack wieder in Form bringen können. Äh, dürfen wir dir bitte helfen, Opa? dürft ihr. Hurra! Opa Wutz kann sehr gut Spielsachen reparieren. Und schon bald sieht Wack Wack wieder aus wie neu. Hurra! Oh, Doch \"Wack Wack\" hört sich noch nicht … du nicht bei Evi bleiben, Schorsch? Peppa. Doch Schorsch will auch bei Evi bleiben. Schorsch. Wir kriegen das schon hin. Auf dem gemütlichen Fluss fahren Peppa und Schorsch vorbei an der Turbodrehrutsche. Für Evi. Dann am Blubberbecken. Und am Luftkissenparkour. Für Peppa. Evi. Doch sie fahren zusammen mit Evi bis zum Ende des gemütlichen Flusses. Also, was meint ihr? Es hat Spaß gemacht. Ja. Aber Aber? Aber dürfen wir jetzt vielleicht doch noch auf die Algenrutsche? Na klar dürft ihr das. Aber was ist mit Evi? Evi hat mit Sicherheit auch nichts dagegen und ich hab auch schon eine Idee. … will Effi ja nur die Enten. Die mag sie am liebsten. Darf Effi die Enten haben? Die sind groß genug für Babys und schwimmen also. Eine schöne gute Idee. Bitte sehr, Effi. Ich glaube, Effi will dass ihr reinkommt und mitspielt. Dürfen wir? Ich mache nur schnell die Blasen weg und so, jetzt könnt ihr rein. Effi liebt es beim Baden mit Enten zu spielen. Wenigstens kriegen wir Effi jetzt sauber. Aber ihren Bruder und ihre Schwester liebt sie ganz besonders. Am Ende macht sie uns alle sauber. Es ist Schlafenszeit. Zeit für Peppa und Schorsch in ihren eigenen Zimmern ins Bett zu gehen. So, meine … dass ich ihn früher die ganze Zeit sehen konnte und jetzt eben nicht mehr. Ah, ich hab's. Wie wär's damit? Papa Wutz hat Peppa ein Babyfon gegeben und das andere in Schorschs Zimmer gestellt. Jetzt könnt ihr euch sehen, wann immer ihr wollt. Hab keine Angst, Schorsch. Ich bin gleich hier. Nachti. Peppa und Schorsch lieben es, eigene Zimmer zu haben. Nachti. Und sie haben sich gegenseitig sehr lieb. Dürfen wir bitte weitermachen, Papa? Bitte. Na gut, hier. Heute bereitet Peppas Familie alles für das neue Babyzimmer vor. Heute ist Renovierungstag. Ich gehe die Vorhänge abholen. Bin bald … Tropf, tropf, drei, vier, ich streiche mit dir. So, jetzt wird für das Baby jeden Tag die Sonne scheinen und dadurch wird sie immer an uns erinnert. Wow, es ist wunderschön. Das habt ihr toll gemacht. Ich bin sicher, das Baby wird das Zimmer genauso lieben wie ihr. Oh, das wird hier oben toll aussehen. Das neue Zimmer ist komplett geschmückt und bereit für das Baby. Ähm, Mama, wo sind denn die Vorhänge? Oh je. Ah, bis auf die Vorhänge, die fehlen noch. Heute haben Peppa und ihre Familie Oh, sie haben einen Termin bei Dr. Eisbär im Krankenhaus. Wir sind hergekommen, um das Baby zu sehen, … Sie wird hübsche Schuhe tragen, winken und sagen: \"Hallo, Peppa! Hallo, Schorsch!\" Meine Güte, die sind sehr hübsch, aber heute sieht man leider nur reinkommen. Schön, dich kennenzulernen, Baby. Ich bin deine große Schwester Peppa. Hä? Wo ist sie? Sie ist hier. ganz genau hin. Seht ihr? Hier ist der Kopf, hier sind die Füße. Und hier ihr Bäuchlein und die kleinen Hände. Peppa und Schorsch können die Geburt ihrer kleinen Schwester kaum erwarten. Oma, schau mal. Sie winkt uns zu, genauso wie ich es gemalt habe. Und sie haben schon Hallo gesagt. Hallo, kleines Baby. Okay, alle auf Position. … nur zwei Hände. Aber sechs weitere Hände, die dir helfen werden. Bin fast fertig. Babypuder. Das ist wahr. Hier gibt's drei sehr hilfsbereite Schweine, Mama Wutz. Und so viele Kinder zu haben hat auch seine Vorteile. Es waren einmal drei kleine wer wer müde Häschen. Ah, ha, ha, oh. Fertig. Super, Wutz-Team. Ihr habt recht. Es bedeutet mehr Arbeit, mehr Schmutz und mehr Chaos, aber wir werden auch mehr Spaß haben, mehr lachen und uns noch mehr lieben. Mama Wutz liebt ihre Familie wirklich sehr. So, jetzt wechsle ich eine Windel mit verbundenen Augen. freut sich sehr, dass sie noch größer wird.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "zOQ-Cl2QVr0": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-08T16:00:14+00:00",
+  "checked": "2026-11-11T22:55:31+00:00",
   "title": "Der letzte Luftballon 🎈 | LEGO Bluey Kurzgeschichten | Bluey - Deutsch Offizieller Kanal",
   "duration": 158,
   "published": "20260820",
@@ -18164,14 +18301,15 @@
     2
    ]
   ],
-  "tx": "Bluey! Da fällt mir ein schönes Spiel für euch ein. Ist es Luftballon-Butsch? Ja, Luftballon-Butsch. Toll, Luftballon-Butsch, juhu! Diese Folge von Bluey heißt \"Der letzte Luftballon\". Was ist Luftballon-Butsch? Du musst den Luftballon in der Luft halten und er darf nicht auf den Boden fallen. Was passiert, wenn er auf den Boden fällt? Oh, gar nichts, Bingo. Es ist nur ein Spiel. Oh, na gut. Seid ihr bereit? Ja! Okay, los! Ah, Butsch! Butsch! Butsch! Ah, Bingo, schnell! Ja! Hier, Butsch! Butsch! Ich krieg ihn, Bluey! Butsch! Du kriegst ihn! Bluey, schnapp ihn! Das war gut! Toll! Nein, nein, nein, schnell, schnell! Ah, Mom! Das ist total schwierig! Okay, ich mache jetzt Frühstück, Kinder. Butsch! Mom! Wir dürfen nicht so doll machen. Ist einfacher. Butsch! Butsch! So, jetzt ist es ja noch viel lustiger. Guck mal, Mom! Butsch! Hey, tolle Strategie, ihr Luftballon-Mädchen. ein Luftballon-Butsch-Experte. Ja, aber es ist nicht mehr so lustig. Kannst du es wieder schwierig machen? Entschuldige, Spatz, aber ich habe gerade ganz viel zu tun. Oh, guten Morgen, ihr Schnuffelhasen. Ich sag guten Morgen, ihr Schnuffelhasen. ab, Partymäuse? Dad, wir spielen Luftballon-Butsch. Kannst du es schwieriger machen? Ja, meine Tageszeitung. Dad! Ah, Bingo, Hilfe! Ich kann nicht, ich bin eine Tageszeitung. Ah, ah, oh, wie dramatisch die immer schreiben. Ah, ja, ja, ja. Seht nur. Wow! Wahnsinn, seht euch das an. Bluey, Hilfe! Ich rette dich, Bingo. Lass sie los. Oh, möchtest du die Tageszeitung durchblättern? Okay, aber mach nicht das Kreuzworträtsel. Oh, lecker, wunderbarer Orangensaft. Ja, bitte. Nein, nein, nein, Butch. Oh, ich krieg ihn. es, Bingo. Ah, süßes Kind, du wirst viel zu schnell groß. Ah, Dad, was los? Bingo, schnapp ihn. Er darf nicht auf den Boden fallen. Louis, Hilfe. Ich scha",
+  "tx": "Bluey! Da fällt mir ein schönes Spiel für euch ein. Ist es Luftballon-Butsch? Ja, Luftballon-Butsch. Toll, Luftballon-Butsch, juhu! Diese Folge von Bluey heißt \"Der letzte Luftballon\". Was ist Luftballon-Butsch? Du musst den Luftballon in der Luft halten und er darf nicht auf den Boden fallen. Was passiert, wenn er auf den Boden fällt? Oh, gar nichts, Bingo. Es ist nur ein Spiel. Oh, na gut. Seid ihr bereit? Ja! Okay, los! Ah, Butsch! Butsch! Butsch! Ah, Bingo, schnell! Ja! Hier, Butsch! Butsch! Ich krieg ihn, Bluey! Butsch! Du kriegst ihn! Bluey, schnapp ihn! Das war gut! Toll! Nein, nein, nein, schnell, schnell! Ah, Mom! Das ist total schwierig! Okay, ich mache jetzt Frühstück, Kinder. Butsch! Mom! Wir dürfen nicht so doll machen. Ist einfacher. Butsch! Butsch! So, jetzt ist es ja noch viel lustiger. Guck mal, Mom! Butsch! Hey, tolle Strategie, ihr Luftballon-Mädchen. ein Luftballon-Butsch-Experte. Ja, aber es ist nicht mehr so lustig. Kannst du es wieder schwierig machen? Entschuldige, Spatz, aber ich habe gerade ganz viel zu tun. Oh, guten Morgen, ihr Schnuffelhasen. Ich sag guten Morgen, ihr Schnuffelhasen. ab, Partymäuse? Dad, wir spielen Luftballon-Butsch. Kannst du es schwieriger machen? Ja, meine Tageszeitung. Dad! Ah, Bingo, Hilfe! Ich kann nicht, ich bin eine Tageszeitung. Ah, ah, oh, wie dramatisch die immer schreiben. Ah, ja, ja, ja. Seht nur. Wow! Wahnsinn, seht euch das an. Bluey, Hilfe! Ich rette dich, Bingo. Lass sie los. Oh, möchtest du die Tageszeitung durchblättern? Okay, aber mach nicht das Kreuzworträtsel. Oh, lecker, wunderbarer Orangensaft. Ja, bitte. Nein, nein, nein, Butch. Oh, ich krieg ihn. es, Bingo. Ah, süßes Kind, du wirst viel zu schnell groß. Ah, Dad, was los? Bingo, schnapp ihn. Er darf nicht auf den Boden fallen. Louis, Hilfe. Ich schaff das nicht ganz allein. Ach, Kind, umarm deinen alten Vater. Lass los. Butch. Ah, jetzt wieder ich. Oh, diese Hitze ist wirklich erdrückend. Ich schmeiße mal den Ventilator an.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
  "wQUp6Eg0paI": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-09T02:45:16+00:00",
+  "checked": "2026-11-11T22:38:54+00:00",
   "title": "Learn German With Me: Free German Breakfast Lesson",
   "duration": 444,
   "published": "20260108",
@@ -18344,7 +18482,8 @@
     3
    ]
   ],
-  "tx": "Hallo. Hallo. Was hätten Sie denn gern? Ähm, ich hätte gern einen Milchkaffee und einen Orangensaft, bitte. Und wissen Sie auch schon, was Sie zu essen möchten? Ja, ich möchte ein kleines Frühstück. Das Brötchen mit Marmelade und Butter und ja, noch etwas Schinken. Alles klar, kommt sofort. Danke schön. So, das war ein kurzer Dialog. This was a short dialog. And if you want, you can get this worksheet for the dialogue and lots of explanations and also exercises. Ja, Übung, die Übung an exercises for free. Check the link in the description and there you get everything. Okay, now let's have a look at this dialog and some more phrases. Okay, Dialog. Frühstück. Früh means actually early. früh means early and das ist the peace. So it's like an early peace eating. Ja, der zwe the breakfast. Das Stück, das Stück ist peace. For those of you who want to remember this word. Hallo, was hätten sie denn gern? This is a really good chunk. You can remember. Was hätten sie? You can also say just without then. Ja, was hätten sie gern? Very common phrase. What would you like to have? What can I bring you? And this another very good chunk. Ich hätte gern, ich hätte gern whatever it is. And afterwards remember that der ist der accusative follows after this. Ich hätte gern gerne you can say that as well. I nen der you see the accusative Milchkaffee oder ich hätte gern einen Cappuccino. Ich hätte gern ein Bier. How would you say I would like to have a salad? It's der Salat der. Salat. Ich hätte gern einen Salat. I also made videos about the just check my YouTube channel or we can also link it up here somewhere. And here again you see it because it's der orangaft. So again you have einen orangensaft and here you have ein nen Milchkaffee. So it's always accusative. Wissen Sie auch schon, was s",
+  "tx": "Hallo. Hallo. Was hätten Sie denn gern? Ähm, ich hätte gern einen Milchkaffee und einen Orangensaft, bitte. Und wissen Sie auch schon, was Sie zu essen möchten? Ja, ich möchte ein kleines Frühstück. Das Brötchen mit Marmelade und Butter und ja, noch etwas Schinken. Alles klar, kommt sofort. Danke schön. So, das war ein kurzer Dialog. This was a short dialog. And if you want, you can get this worksheet for the dialogue and lots of explanations and also exercises. Ja, Übung, die Übung an exercises for free. Check the link in the description and there you get everything. Okay, now let's have a look at this dialog and some more phrases. Okay, Dialog. Frühstück. Früh means actually early. früh means early and das ist the peace. So it's like an early peace eating. Ja, der zwe the breakfast. Das Stück, das Stück ist peace. For those of you who want to remember this word. Hallo, was hätten sie denn gern? This is a really good chunk. You can remember. Was hätten sie? You can also say just without then. Ja, was hätten sie gern? Very common phrase. What would you like to have? What can I bring you? And this another very good chunk. Ich hätte gern, ich hätte gern whatever it is. And afterwards remember that der ist der accusative follows after this. Ich hätte gern gerne you can say that as well. I nen der you see the accusative Milchkaffee oder ich hätte gern einen Cappuccino. Ich hätte gern ein Bier. How would you say I would like to have a salad? It's der Salat der. Salat. Ich hätte gern einen Salat. I also made videos about the just check my YouTube channel or we can also link it up here somewhere. And here again you see it because it's der orangaft. So again you have einen orangensaft and here you have ein nen Milchkaffee. So it's always accusative. Wissen Sie auch schon, was sie zu essen möchten? You could say was sie zuessen oder was sie essen möchten. Zuessen ist like what you would like to eat or like for food basically or was sie essen möchten what you would like to eat as well. So in englisch jetzt a bit different. Remember wissen sie ist like you formal. Do you know you formal auch schon also already was sie zu essen möchten. What we would like to eat. Ja, ich möchte ein kleines Frühstück, a small breakfast. What would be the opposite of ein kleines Frühstück? Das Gegenteil, die opposite, ein großes Frühstück. Ich möchte ein großes Frühstück. You could also say, ich möchte das große Frühstück oder ich möchte das kleine Frühstück. das Brötchen mit Marmelade und Butter und noch etwas Schinken. Etwas Schinken ist little bit etwas ist das gleiche wie ein bisschen. Okay, remember this. It's like a little bit, a little bit. Alles klar. Kommt sofort. Chunk. You can remember both of them actually. Alles klar. Ist already, all good. And comt sofort is like coming right up sofort ist immediately. And danke schön. Let's have a look at some phrases. Okay, so you can learn a bit more things than just that. Guten Morgen. Wir hätten gern ein Frühstück. You could also just say wir hätten gern Frühstück. Ja, we would like to have breakfast. Hätten gern same thing as we had before. Ich hätte gern ein Frühstück mit Kaffe. What is the opposite of mit Kaffee? Ohne Kaffee. Ja, ohne Kaffee, without Koffee. Was ist im Frühstück enthalten? This is included. So, what ist in der z.B. Butter, Marmelade, Croisson, ein Brötchen and so. So what is in there? So and then again, ich nehme, ja, I will have nehmen means actually to take and again the accusative follow. So, ich nehme einen Kaffee Here. Would also be einen cappuccino when masculine, you see that the accusative case. So ein changes to ein nen. Haben Sie auch koffeinfreien Kaffee? This is normally how we say it. Ja, koffeein. We would break it like this. Koffein freien. So just so you can pronounce it more easily. Haben Sie auch koffeinfreien Kaffee? So die K without Koffein. Let's say together. Koffeein frei. Koffein frei. Einen orangensaft bitte. That's easy. No that one. Now for food. Ich hätte gern ein Brötchen. Ein Brötchen. Ein Brötchen mit Butter und Marmelade. So, in general, first of all, this is a good Chunk. Gibt es auch. Ist der also do you also have this? Gibt es. Ja, ist der Rühteri rühren ist das Rühren. Rühren und Rüh ist scramblet egi. Oh. Spiegelei. Der Spiegel ist actually a Mirror und Spiegelei ist mired egg. I don't know why we call it like this, but it's a fried egg. Spiegelei. Ich nehme das kleine oder ich nehme das große Frühstück. Ich nehme das kleine Frühstück. Ich nehme das große Frühstück. Preferences and changes so ohne Zucker. What I already told you ohne Zucker, bitte, könnte ich statt. Das ist a good word. That means instead so könnte ich statt Butter Käse haben. So instead of butter, I want cheese. Könnte ich statt Butter Käse haben? Remember this das little word stad. If you wanna change something on the menu and you just wanna ask if you can change that. Okay und alles separat bitte. Everything separately. Finishing and paying. Also bezahlen. Könnten wir bitte zahlen? Can we please pay? Stimmt so. Danke. Das ist also very good chunk. Stimmt so. Ist like keep the change. Stimmt so. Es war sehr lecker. It was very tasty. Very yummy. Lecker. Lecker. And now if you wann to download this, you get some exercises here. So you can practice a little bit the gaps. It also comes with the solutions. I won't show you. Ja, da sind auch die Lösungen. You can download this whole PDF for free. Check the link in the description. Danke schön und tschüss.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -18836,7 +18975,7 @@
  "kosA2cVbpJg": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-09T02:49:04+00:00",
+  "checked": "2026-11-11T22:43:08+00:00",
   "title": "So sprechen die Deutschen WIRKLICH! 48 Sätze mit LEBEN | Deutsche Verben",
   "duration": 292,
   "published": "20260419",
@@ -18961,7 +19100,8 @@
     2
    ]
   ],
-  "tx": "Wo lebst du? Ich lebe in Deutschland. Seit wann lebst du hier? Ich lebe in Deutschland seit zwei Jahren. Wann bist du nach Deutschland gekommen? Ich lebe hier seit 2023. Wir leben seit ein paar Jahren in Bayern. Er lebt seit 1995 nicht mehr in Deutschland. Seine Familie lebt immer noch hier. In welcher Stadt lebt er denn? Er lebt mit seiner Familie in Hamburg. Seit wann lebt sie nicht mehr in Deutschland? Sie lebt seit vielen Jahren im Ausland. Seit wie vielen Jahren denn genau? Seit wann leben Sie in Deutschland? Wir leben hier seit einigen Jahren. Sie leben am anderen Ende der Welt. Das ist Ansichtssache. Für sie lebst du am Ende der Welt. Sie leben seit einer Ewigkeit in Australien. Wie spannend. Wo denn genau? Du lebst gefährlich. Fährst du immer 250 auf der Autobahn? Wo leben wir denn? Seit wann grüßen sich Nachbarn nicht mehr? Wir leben in einer verrückten Welt. Er lebt in den Tag hinein. Sie lebt von der Hand in den Mund. Sie lebt allein in einer kleinen Wohnung am Stadtrand. Früher lebten wir in einem Dorf, heute in der Großstadt. Er lebt sehr bewusst und achtet auf seine Ernährung. Sie lebt nach ihren eigenen Regeln. Er lebt von seiner Musik. Viele Künstler können nicht allein von ihrer Kunst leben. Wovon lebt ihr eigentlich? Sie lebt für ihre Kinder. Manche Menschen leben nur für ihre Karriere. Die Erinnerung an ihn lebt in uns weiter. Diese Tradition lebt bis heute fort. In diesem Haus lebt Geschichte. Sie lebt in Angst vor der Zukunft. Er lebt im Einklang mit der Natur. Wir leben in einer Zeit großer Veränderung. Lebe dein Leben. Lebe im Hier und Jetzt. Man lebt nur einmal. Leben und leben lassen. Günther lebt auf großem Fuß. Susanne lebt in den Tag hinein. Damit kann ich leben. Diese Lösung gefällt mir. Der große Komponist lebte sein Leben lang in diesem Ha",
+  "tx": "Wo lebst du? Ich lebe in Deutschland. Seit wann lebst du hier? Ich lebe in Deutschland seit zwei Jahren. Wann bist du nach Deutschland gekommen? Ich lebe hier seit 2023. Wir leben seit ein paar Jahren in Bayern. Er lebt seit 1995 nicht mehr in Deutschland. Seine Familie lebt immer noch hier. In welcher Stadt lebt er denn? Er lebt mit seiner Familie in Hamburg. Seit wann lebt sie nicht mehr in Deutschland? Sie lebt seit vielen Jahren im Ausland. Seit wie vielen Jahren denn genau? Seit wann leben Sie in Deutschland? Wir leben hier seit einigen Jahren. Sie leben am anderen Ende der Welt. Das ist Ansichtssache. Für sie lebst du am Ende der Welt. Sie leben seit einer Ewigkeit in Australien. Wie spannend. Wo denn genau? Du lebst gefährlich. Fährst du immer 250 auf der Autobahn? Wo leben wir denn? Seit wann grüßen sich Nachbarn nicht mehr? Wir leben in einer verrückten Welt. Er lebt in den Tag hinein. Sie lebt von der Hand in den Mund. Sie lebt allein in einer kleinen Wohnung am Stadtrand. Früher lebten wir in einem Dorf, heute in der Großstadt. Er lebt sehr bewusst und achtet auf seine Ernährung. Sie lebt nach ihren eigenen Regeln. Er lebt von seiner Musik. Viele Künstler können nicht allein von ihrer Kunst leben. Wovon lebt ihr eigentlich? Sie lebt für ihre Kinder. Manche Menschen leben nur für ihre Karriere. Die Erinnerung an ihn lebt in uns weiter. Diese Tradition lebt bis heute fort. In diesem Haus lebt Geschichte. Sie lebt in Angst vor der Zukunft. Er lebt im Einklang mit der Natur. Wir leben in einer Zeit großer Veränderung. Lebe dein Leben. Lebe im Hier und Jetzt. Man lebt nur einmal. Leben und leben lassen. Günther lebt auf großem Fuß. Susanne lebt in den Tag hinein. Damit kann ich leben. Diese Lösung gefällt mir. Der große Komponist lebte sein Leben lang in diesem Haus. Wo lebst du? Ich lebe in Deutschland. Seit wann lebst du hier? Ich lebe in Deutschland seit zwei Jahren. Wann bist du nach Deutschland gekommen? Ich lebe hier seit 2023. Wir leben seit ein paar Jahren in Bayern. Er lebt seit 1995 nicht mehr in Deutschland. Seine Familie lebt immer noch hier. In welcher Stadt lebt er denn? Er lebt mit seiner Familie in Hamburg. Seit wann lebt sie nicht mehr in Deutschland? Sie lebt seit vielen Jahren im Ausland. Seit wie vielen Jahren denn genau? Seit wann leben Sie in Deutschland? Wir leben hier seit einigen Jahren. Sie leben am anderen Ende der Welt. Das ist Ansichtssache. Für sie lebst du am Ende der Welt. Sie leben seit einer Ewigkeit in Australien. Wie spannend. Wo denn genau? Du lebst gefährlich. Fährst du immer 250 auf der Autobahn? Wo leben wir denn? Seit wann grüßen sich Nachbarn nicht mehr? Wir leben in einer verrückten Welt. Er lebt in den Tag hinein. Sie lebt von der Hand in den Mund. Sie lebt allein in einer kleinen Wohnung am Stadtrand. Früher lebten wir in einem Dorf, heute in der Großstadt. Er lebt sehr bewusst und achtet auf seine Ernährung. Sie lebt nach ihren eigenen Regeln. Er lebt von seiner Musik. Viele Künstler können nicht allein von ihrer Kunst leben. Wovon lebt ihr eigentlich? Sie lebt für ihre Kinder. Manche Menschen leben nur für ihre Karriere. Die Erinnerung an ihn lebt in uns weiter. Diese Tradition lebt bis heute fort. In diesem Haus lebt Geschichte. Sie lebt in Angst vor der Zukunft. Er lebt im Einklang mit der Natur. Wir leben in einer Zeit großer Veränderung. Lebe dein Leben. Lebe im Hier und Jetzt. Man lebt nur einmal. Leben und leben lassen. Günther lebt auf großem Fuß. Susanne lebt in den Tag hinein. Damit kann ich leben. Diese Lösung gefällt mir. Der große Komponist lebte sein Leben lang in diesem Haus.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -19460,7 +19600,7 @@
  "bzr3h71SlRY": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-09T03:02:42+00:00",
+  "checked": "2026-11-11T22:51:03+00:00",
   "title": "🔥🚑 Notruf 112: Was du als Deutschlerner wissen musst! #Deutsch",
   "duration": 290,
   "published": "20250211",
@@ -19569,14 +19709,15 @@
     2
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Stell dir vor, es passiert etwas – ein Unfall, ein Feuer, jemand braucht sofort Hilfe. Was jetzt? Zum Glück gibt es eine Nummer, die in ganz Europa Leben rettet: 112! Am 11. Februar feiern wir den Europäischen Tag des Notrufs 112 – eine perfekte Gelegenheit, um mehr über die Notrufsysteme in Deutschland zu lernen. Warum 112? Die europaweite Notrufnummer! Die 112 ist nicht nur eine deutsche, sondern eine europaweit gültige Notrufnummer. Egal ob du in Berlin, Paris oder Rom bist – die 112 ist die Nummer für alle Notfälle. Das Besondere: Anrufe zur 112 sind immer kostenlos, und du kannst sie sogar erreichen, wenn dein Handy gerade kein Guthaben hat. Wusstest du? In Deutschland gibt es neben der 112 auch die 110 – das ist der Notruf der Polizei! Wenn du also Zeuge eines Unfalls wirst oder in einer brenzligen Lage bist, wählst du die 112. Wenn du ein Verbrechen oder einen Diebstahl melden willst, ist die 110 die richtige Wahl. Wie funktioniert der Notruf in Deutschland? Sobald du die 112 wählst, meldet sich die Leitstelle. Hier ein kleiner Leitfaden, was du sagen solltest: Wo bist du? Was ist passiert? Wie viele Personen sind betroffen? Welche Art von Verletzungen gibt es? Wer ruft an? Keine Sorge – die Mitarbeiter sind geschult, dir zu helfen und die richtigen Fragen zu stellen. Ein kleiner Test für dich: Wie würdest du auf Deutsch den Notruf absetzen? Schreibe einen kurzen Dialog und versuche, deine Angaben so klar wie möglich zu machen. Das ist eine super Übung, um dein Vokabular für den Ernstfall zu trainieren! Warum wir diese Nummer feiern Ob ein Sturz, ein Feuer oder ein medizinischer Notfall: Die 112 ist mehr als nur eine Nummer. Sie ist ein Symbol für Sicherheit und schnelle Hilfe – egal, ob d",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Stell dir vor, es passiert etwas – ein Unfall, ein Feuer, jemand braucht sofort Hilfe. Was jetzt? Zum Glück gibt es eine Nummer, die in ganz Europa Leben rettet: 112! Am 11. Februar feiern wir den Europäischen Tag des Notrufs 112 – eine perfekte Gelegenheit, um mehr über die Notrufsysteme in Deutschland zu lernen. Warum 112? Die europaweite Notrufnummer! Die 112 ist nicht nur eine deutsche, sondern eine europaweit gültige Notrufnummer. Egal ob du in Berlin, Paris oder Rom bist – die 112 ist die Nummer für alle Notfälle. Das Besondere: Anrufe zur 112 sind immer kostenlos, und du kannst sie sogar erreichen, wenn dein Handy gerade kein Guthaben hat. Wusstest du? In Deutschland gibt es neben der 112 auch die 110 – das ist der Notruf der Polizei! Wenn du also Zeuge eines Unfalls wirst oder in einer brenzligen Lage bist, wählst du die 112. Wenn du ein Verbrechen oder einen Diebstahl melden willst, ist die 110 die richtige Wahl. Wie funktioniert der Notruf in Deutschland? Sobald du die 112 wählst, meldet sich die Leitstelle. Hier ein kleiner Leitfaden, was du sagen solltest: Wo bist du? Was ist passiert? Wie viele Personen sind betroffen? Welche Art von Verletzungen gibt es? Wer ruft an? Keine Sorge – die Mitarbeiter sind geschult, dir zu helfen und die richtigen Fragen zu stellen. Ein kleiner Test für dich: Wie würdest du auf Deutsch den Notruf absetzen? Schreibe einen kurzen Dialog und versuche, deine Angaben so klar wie möglich zu machen. Das ist eine super Übung, um dein Vokabular für den Ernstfall zu trainieren! Warum wir diese Nummer feiern Ob ein Sturz, ein Feuer oder ein medizinischer Notfall: Die 112 ist mehr als nur eine Nummer. Sie ist ein Symbol für Sicherheit und schnelle Hilfe – egal, ob du in Deutschland lebst oder nur auf Besuch bist. Wichtig: Notrufnummern sind wertvoll – nutze sie nur im Ernstfall. Aber, wenn du Hilfe brauchst, scheue dich nie, 112 zu wählen! Übrigens: In vielen Ländern gibt es andere Notrufnummern. Falls du mal in Deutschland bist, merk dir die 112 – sie könnte dir oder jemand anderem das Leben retten! Möchtest du sicher und sprachlich fit durchs Leben? Dann ist unsere Deutschlern-Akademie perfekt für dich! Profitiere von exklusiven Kursen, die dich sprachlich sicher durch den Alltag bringen: Sei dabei und besuche: AuthenticGermanLearning.com/join Bleib sicher und gut informiert! Danke fürs Zuschauen! Bis zum nächsten Mal — tschüss!",
+  "gist": "w",
   "status": "ok",
   "src": "cc"
  },
  "s4ZCOJtnCNE": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-09T03:03:52+00:00",
+  "checked": "2026-11-11T22:51:42+00:00",
   "title": "Miffys Apfelkuchen 🥧 | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260712",
@@ -19749,7 +19890,8 @@
     2
    ]
   ],
-  "tx": "Immer wenn Miffy an Poppy Pigs Haus vorbeiging, bewunderte sie den schönen Apfelbaum in Poppys Vorgarten. Im Herbst waren die Blätter leuchtend bunt. Im Winter hatte er gar keine Blätter. Im Frühling war der Baum über und über mit weißen Blüten bedeckt. Und im Sommer bekam er kleine grüne Äpfel. \"Poppy\", sagte Miffy an einem Sommertag, \"ich möchte so gerne einen von deinen Äpfeln probieren.\" \"Es ist noch zu früh\", sagte Poppy, \"die Äpfel sind noch zu klein und zu grün. Und sie sind noch zu hart. Du musst noch etwas warten.\" Als Miffy das nächste Mal an Poppys Haus vorbeikam, sah sie, dass die Äpfel größer geworden waren und jetzt jetzt waren einige von ihnen schon ein bisschen rot. \"Kann ich jetzt einen von deinen Äpfeln essen?\", fragte Miffy. \"Noch nicht, Miffy\", sagte Poppy. \"Die Äpfel müssen erst ganz rot sein, bevor man sie essen kann.\" Miffy war ganz aufgeregt. Es fiel ihr schwer, noch länger zu warten. Sie wollte zu gerne einen von den Äpfeln von Poppys Baum probieren. Es dauerte gar nicht lange, da waren die Äpfel schön groß und leuchtend rot. \"Die Vögel mögen bestimmt auch gerne rote Äpfel\", dachte Poppy. \"Ich muss die Äpfel pflücken, bevor die Vögel sie alle auffressen.\" An dem Tag machte Miffy sich nach der Schule so schnell sie konnte auf den Weg. Sie hoffte, das Poppys Äpfel jetzt reif genug waren um sie zu essen. Miffy stellte sich vor, wie gut sie schmecken würden und lief zu Poppys Haus. Endlich war sie da. Aber was war das? Alle Äpfel waren weg. Es hing kein einziger schöner roter Apfel mehr im Baum. Miffy lief zu Poppys Tür und klopfte an. Aber Poppy war nicht da. Wer kann bloß alle die Äpfel genommen haben, überlegte Miffy. Sie guckte durchs Fenster in Poppys Küche. Aber da waren auch keine Äpfel. Da kam Poppy nach Hause. Oh Poppy, rief Miffy. Jemand h",
+  "tx": "Immer wenn Miffy an Poppy Pigs Haus vorbeiging, bewunderte sie den schönen Apfelbaum in Poppys Vorgarten. Im Herbst waren die Blätter leuchtend bunt. Im Winter hatte er gar keine Blätter. Im Frühling war der Baum über und über mit weißen Blüten bedeckt. Und im Sommer bekam er kleine grüne Äpfel. \"Poppy\", sagte Miffy an einem Sommertag, \"ich möchte so gerne einen von deinen Äpfeln probieren.\" \"Es ist noch zu früh\", sagte Poppy, \"die Äpfel sind noch zu klein und zu grün. Und sie sind noch zu hart. Du musst noch etwas warten.\" Als Miffy das nächste Mal an Poppys Haus vorbeikam, sah sie, dass die … bevor die Vögel sie alle auffressen.\" An dem Tag machte Miffy sich nach der Schule so schnell sie konnte auf den Weg. Sie hoffte, das Poppys Äpfel jetzt reif genug waren um sie zu essen. Miffy stellte sich vor, wie gut sie schmecken würden und lief zu Poppys Haus. Endlich war sie da. Aber was war das? Alle Äpfel waren weg. Es hing kein einziger schöner roter Apfel mehr im Baum. Miffy lief zu Poppys Tür und klopfte an. Aber Poppy war nicht da. Wer kann bloß alle die Äpfel genommen haben, überlegte Miffy. Sie guckte durchs Fenster in Poppys Küche. Aber da waren auch keine Äpfel. Da kam … Apfelkuchen zu deinem Glas Milch haben? Dann öffnete Poppy die Ofentür und nahm einen großen Apfelkuchen heraus. Sie stellte den Kuchen auf den Tisch. Er sah wunderbar aus und duftete himmlisch. Miffy staunte. Das war wirklich eine leckere Überraschung. Nun konnte Miffy doch noch herausfinden, wie die schönen roten Äpfel von Poppys Apfelbaum schmeckten. Miffy, Melanie und Grunty waren bei Boris und Barbara Bär zu einem Picknick eingeladen. Boris und Barbara wohnten im Wald. Sie gingen schnell den Waldweg entlang, denn sie waren alle sehr hungrig. Als sie bei Boris und Barbara ankamen, war … dem Holzhaufen hinter dem Haus. Damit brennt dann das Feuer heiß genug, um darauf zu kochen.\" Und Barbara sagte: \"Miffy, du kannst mir helfen, Karotten und Kohl für unsere Suppe klein zu schneiden.\" Jetzt hatten sie alle etwas zu tun. Es machte Spaß, aber sie wurden immer hungriger. Als alles fertig war, merkten sie, dass sie etwas Wichtiges vergessen hatten. \"Wir haben kein Wasser, um das Gemüse darin zu kochen\", sagte Barbara. Miffy und Barbara gingen ins Haus, um Wasser zu holen. Als sie genug Wasser im Topf hatten, gingen sie wieder hinaus und stellten den Topf mit dem Wasser und dem … herauskam und auf seinem Banjo spielte, fing Miffy an zu tanzen und alle folgten ihr. Immer um den Suppentopf herum. Mit dem Löffel, den Stöckchen und dem Banjo machten sie Musik und tanzten dazu. Sie waren ein richtiges Picknick-Orchester. Als sie dreimal um den Topf herum getanzt waren, war die Suppe fertig. Musik machen und tanzen hatte sie sehr fröhlich, aber auch noch viel hungriger gemacht. Als Barbara die Löffel und die Suppenschüsseln verteilt hatte, aßen sie alle ihre Musiksuppe mit großem Appetit. Es war die beste Suppe, die sie je gegessen hatten. Miffy und Aggie hatten eine … Sie stießen sich mit den Füßen ab und das Karussell drehte sich rundherum, immer schneller und schneller. Und Schnuffi lief ganz aufgeregt um das Karussell herum, auch immer schneller und schneller. \"Guck mal, Miffy\", sagte Aggie, während sie sich immer weiter drehten. \"Schnuffi möchte auch Karussell fahren.\" \"Nein, nein\", sagte Miffy. \"Wir wissen, wie man Karussell fährt, aber du würdest ganz bestimmt runterfallen und dir dabei furchtbar wehtun. Kleine Hunde haben auf dem Karussell nichts zu suchen, aber du kannst drumherum rennen. Das macht auch Spaß.\" Das Karussell wurde jetzt immer … wollten sie jetzt essen. \"Hier, Schnuffi\", sagte Miffy, \"du kannst auch einen Keks haben. Kekse darf jeder essen, sogar kleine Hunde wie du.\" Miffy und Aggie lachten. Sie wollten nicht, dass Schnuffi traurig war, weil sie nicht mitspielen durfte. \"Du bleibst schön hier, Schnuffi. Aggie und ich gehen noch einmal zur Rutsche\", sagte Miffy. Miffy kletterte die Leiter hoch und rutschte fröhlich lachend hinunter. Dann war Aggie an der Reihe. Sie machte es genauso. Sie mussten beide lachen. Sie hatten nicht gemerkt, dass Schnuffi oben auf die Rutsche geklettert war, ohne runterzufallen. \"Nein, … Sie guckte unter ihrem Bett nach und da lag er. \"Du bist jetzt schon ein großer Teddybär.\" sagte Miffy. \"Ich glaube, du brauchst ein eigenes Bett, aus dem du nicht herausfallen kannst. Ich werde meinen Freund Boris Bär fragen, ob er dir ein Bett baut. Wir werden gleich zu ihm gehen.\" Miffy nahm ihren Teddy auf den Arm und zusammen mit Schnuffi gingen sie durch den Wald zu Boris Haus. \"Hallo Miffy, hallo Schnuffi.\" sagte Boris. \"Ich freue mich immer, wenn ihr beiden mich besuchen kommt. Und wie ich sehe, habt ihr heute noch einen Freund mitgebracht.\" \"Das ist mein Teddybär und er … fleißig geholfen und war jetzt müde. Da hörte sie ein Es war Miffys Vater. Barbara hatte ihn angerufen und ihn gebeten, Miffy und Schnuffi abzuholen. \"Guck mal, Vater\", sagte Miffy, \"was für ein schönes Bett Boris für meinen Teddy gebaut hat.\" \"Boris ist sehr geschickt\", sagte der Vater. \"Hast du dich auch richtig bedankt?\" \"Oh ja\", sagte Boris, \"Miffy hat sich sehr lieb bedankt. Es hat mich gefreut, dass ich ihr helfen konnte.\" Dann war es Zeit, nach Hause zu fahren. Der Vater stellte das Bett vorsichtig auf den Rücksitz des Autos und legte den Teddy hinein. Schnuffi setzte sich daneben … Bett leer war. Wo war ihr Teddybär? Sie fing an zu weinen. \"Oh, mein armer Teddybär ist im Wald verloren gegangen und ich werde ihn nie mehr wiedersehen.\" \"Ich glaube kaum, dass wir deinen Teddy in dem großen Wald wiederfinden\", sagte der Vater. \"Und wo ist Schnuffi? Sie ist auch weg\", sagte Miffy. Plötzlich hörten sie ein Bellen. Sie guckten sich um und sahen Schnuffi aus dem Wald kommen. \"Guck mal, Miffy\", rief der Vater. \"Schnuffi hat einen Teddybär gefunden.\" Miffy war überglücklich. Sie streichelte Schnuffi liebevoll. \"Du bist so ein guter kleiner Hund und mein allerbester Freund.\"",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },

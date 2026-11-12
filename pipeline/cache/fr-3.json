@@ -29186,7 +29186,7 @@
  "CgNSmh1iasg": {
   "channel": "Quotidien",
   "lang": "fr",
-  "checked": "2026-11-03T05:54:38+00:00",
+  "checked": "2026-11-11T23:14:56+00:00",
   "title": "Dette : quelles solutions pour redresser la France ? Les propositions du président d'Euronext",
   "duration": 1028,
   "published": "20261023",
@@ -29194,16 +29194,73 @@
   "spoken_v": 2,
   "pace": 238.8,
   "rare": 0.0228,
+  "var": 0.7262,
   "speech_s": 1024.5,
   "tokens": 4078,
   "kw": [
    [
-    "endetter",
-    "famille, euh c'est normal de s'endetter",
-    973,
-    979,
-    2.78,
-    4
+    "parce",
+    "parce que si on sait qu'on va gagner de",
+    68,
+    72,
+    5.73,
+    17
+   ],
+   [
+    "gens",
+    "problème des gens qui ont trop d'argent",
+    38,
+    42,
+    5.8,
+    14
+   ],
+   [
+    "pays",
+    "on est le pays qui prélève le plus",
+    151,
+    156,
+    5.79,
+    14
+   ],
+   [
+    "avez",
+    "dette. Quand vous avez C'est assez",
+    242,
+    245,
+    5.49,
+    12
+   ],
+   [
+    "euh",
+    "en plus cher. Et c'est vrai que euh",
+    188,
+    192,
+    4.57,
+    20
+   ],
+   [
+    "dette",
+    "dette et ce qu'on va payer cette année,",
+    201,
+    205,
+    4.52,
+    15
+   ],
+   [
+    "augmenter",
+    "continué à augmenter. Et donc les gens",
+    180,
+    186,
+    4.64,
+    8
+   ],
+   [
+    "impôts",
+    "d'impôts et de taxes sur la population.",
+    153,
+    158,
+    4.54,
+    8
    ],
    [
     "dépense",
@@ -29214,11 +29271,27 @@
     12
    ],
    [
-    "prêteurs",
-    "problème pour le moment de prêteurs. On",
-    288,
-    294,
-    2.95,
+    "dettes",
+    "aussi le pays qui a le stock de dettes",
+    174,
+    179,
+    4.14,
+    6
+   ],
+   [
+    "prêter",
+    "on veut bien continuer à vous prêter,",
+    185,
+    189,
+    4.08,
+    4
+   ],
+   [
+    "stock",
+    "aussi le pays qui a le stock de dettes",
+    174,
+    179,
+    4.16,
     3
    ],
    [
@@ -29230,28 +29303,44 @@
     4
    ],
    [
-    "sidération",
-    "sidération. Donc tout le monde est",
-    604,
-    608,
-    2.53,
+    "addiction",
+    "d'addiction. Ça n'est pas On n'a pas un",
+    286,
+    292,
+    3.52,
     2
    ],
    [
-    "renoncez",
-    "donc vous renoncez vous renoncez en",
-    710,
-    715,
-    2.66,
+    "payez",
+    "vous payez les intérêts de ce que vous",
+    254,
+    258,
+    3.51,
     2
    ],
    [
-    "surendettement",
-    "surendettement. Et c'est ce que nous",
-    269,
-    273,
-    2.86,
+    "accumule",
+    "on est aussi le pays qui accumule depuis",
+    166,
+    171,
+    3.41,
     2
+   ],
+   [
+    "endetter",
+    "famille, euh c'est normal de s'endetter",
+    973,
+    979,
+    2.78,
+    4
+   ],
+   [
+    "prêteurs",
+    "problème pour le moment de prêteurs. On",
+    288,
+    294,
+    2.95,
+    3
    ],
    [
     "prélève",
@@ -29262,74 +29351,18 @@
     2
    ],
    [
-    "euh",
-    "en plus cher. Et c'est vrai que euh",
-    188,
-    192,
-    4.57,
-    20
-   ],
-   [
-    "parce",
-    "parce que si on sait qu'on va gagner de",
-    68,
-    72,
-    5.73,
-    17
-   ],
-   [
-    "dette",
-    "dette et ce qu'on va payer cette année,",
-    201,
-    205,
-    4.52,
-    15
-   ],
-   [
-    "pays",
-    "on est le pays qui prélève le plus",
-    151,
-    156,
-    5.79,
-    14
-   ],
-   [
-    "gens",
-    "problème des gens qui ont trop d'argent",
-    38,
-    42,
-    5.8,
-    14
-   ],
-   [
-    "problème",
-    "problème des gens qui ont trop d'argent",
-    38,
-    42,
-    5.41,
-    12
-   ],
-   [
-    "avez",
-    "dette. Quand vous avez C'est assez",
-    242,
-    245,
-    5.49,
-    12
-   ],
-   [
-    "oui",
-    "Oui. Alors, il y a Ce qui est vrai,",
-    234,
-    239,
-    5.8,
-    10
+    "surendettement",
+    "surendettement. Et c'est ce que nous",
+    269,
+    273,
+    2.86,
+    2
    ]
   ],
-  "tx": "Bonsoir Stéphane Boujnah, bienvenue sur le plateau de Quotidien. Voici une partie de l'équipe et le public. Vous êtes le patron du directoire d'Euronext. Euronext, c'est la société qui gère la Bourse de Paris et une grande partie des places boursières européennes dont Francfort et Amsterdam. Francfort. Pas Francfort, Amsterdam. Avec des mots simples, en quoi consiste votre job et Euronext aussi, c'est ? Non mais Euronext c'est l'ensemble de bourses européennes à Oslo, à Dublin, Amsterdam, à Bruxelles, Athènes et qui ensemble qui ensemble essaient de régler les problèmes du financement de l'économie réelle, c'est-à-dire une bourse est un endroit où on règle le problème des gens qui ont trop d'argent et pas d'idées, pas de projet et les gens qui ont beaucoup de projets et pas d'argent. Et donc ces gens-là se retrouvent depuis des siècles dans une bourse. Et ils font ? Et ben, ils font les gens qui ont besoin d'argent lèvent de l'argent auprès de de ceux qui cherchent un rendement pour leur épargne. C'est ça la bourse. Vous voyez, c'est c'est une manière pour les gens qui ont besoin de prendre des risques, d'essayer des choses qui n'ont pas existé ou qui sont compliquées dans dans lesquelles on n'a pas la certitude et la visibilité sur le fait qu'on va pouvoir gagner de l'argent tout de suite parce que si on sait qu'on va gagner de l'argent, on emprunte à la banque. Mais si on arrive pas à emprunter à la banque parce que c'est trop risqué, trop innovant, et bien il faut lever du capital, des gens qui prennent le risque de tout gagner ou de tout perdre. Et ça ça s'appelle la bourse. Et votre rôle à vous, rapidement, c'est ? Notre notre rôle à nous, c'est de construire à vous à vous. Moi, je suis un dirigeant d'entreprise donc j'essaie de faire en sorte que tout le monde sac",
+  "tx": "Bonsoir Stéphane Boujnah, bienvenue sur le plateau de Quotidien. Voici une partie de l'équipe et le public. Vous êtes le patron du directoire d'Euronext. Euronext, c'est la société qui gère la Bourse de Paris et une grande partie des places boursières européennes dont Francfort et Amsterdam. Francfort. Pas Francfort, Amsterdam. Avec des mots simples, en quoi consiste votre job et Euronext aussi, c'est ? Non mais Euronext c'est l'ensemble de bourses européennes à Oslo, à Dublin, Amsterdam, à Bruxelles, Athènes et qui ensemble qui ensemble essaient de régler les problèmes du financement de … à Paris est un peu plus grand que le village de quelqu'un d'autre ailleurs en Europe. Mais à l'échelle européenne, il s'agit vraiment de faire une sorte d'Airbus de la finance et ça a réussi puisque maintenant on a une plateforme qui à partir de Paris-Amsterdam principalement fait représente deux fois les volumes qui sont traités à Londres. Aujourd'hui, Euronext c'est deux fois plus gros que la bourse des actions de Londres. Alors Les Echos ce matin, je lis \"Taux français à 5 % le seuil d'alerte.\" Tout le monde commence à paniquer sérieusement et encore plus depuis les violences de … les gens qui sont autour dans l'Île-de-France et le reste de la France, tous les résidents français, l'intégralité de l'impôt sur le revenu que nous avons payé cette année va servir intégralement à payer la charge de la dette. On parle beaucoup d'un effet boule de neige, d'une situation qui devient incontrôlable parce que la dette devient de plus en plus chère. Oui. Alors, il y a Ce qui est vrai, c'est que la principale cause du creusement de nos déficits, c'est qu'on doit payer de plus en plus cher notre dette. Quand vous avez C'est assez simple. Quand vous avez un stock de dettes qui … possible. ? D'abord parce qu'on l'a fait dans le passé. Il faut comprendre que euh euh On a fait ? Bah, l'histoire de France, c'est J'annule la dette. Non non, mais attendez, on parlera de ça après parce que c'est un sujet important euh qui qui Ça, c'est C'est des propositions. Je vais je vais y revenir, je vais y revenir, mais je vous réponds d'abord. On peut pas La prochaine question. Qu'est-ce qu'on peut le de ? Moi, je pense qu'on peut le faire tout de suite En 1946, c'était il y a très longtemps, on a fait ce gros effort dans un moment de de rassemblement. Maurice Thorez, ministre au … qu'on a ce qu'il faut faire, c'est ce qu'on fait tous les autres. En fait, ce qu'il faut comprendre, c'est que nous ne sommes pas sur une île et C'est qui les ? Le Portugal, ? Mais même dans les années 90, le Danemark et la Suède ? Ils ont coupé les ? Dans les années dans les années 90, le Danemark et la Suède, dans les années 2000, l'Allemagne, dans les années 2010, l'Italie et l'Espagne, dans les années 2010 c'est douloureux pour les Français, il va falloir le dire. Et qu'est-ce qu'ils ont ? Ils ont fait passer la retraite à 67 ans. Ils ont fait J'ai entendu des gens qui ont réagi là … vous avez beau couper en petites tranches les difficultés, il y a rien de comparable à euh essayer d'avoir un job mieux payé en étant dans une boîte compétitive qui paye des plus gros salaires. Alors là ça les les deux parties qui caracolent en tête là pour l'élection présidentielle de 2027 sont exactement pour le contraire de ça. Ouais. Bah ça c'est vous savez, ça la classe politique, c'est pas un clergé. Mais c'est eux qui vont gouverner. C'est c'est eux c'est eux sont élus. Si les Français choisissent de continuer, c'est moi je je suis pas là pour exprimer une opinion politique. Je suis … jouant le rapport de force avec les Européens. Oui mais enfin c'est quoi le rapport de force avec les ? Vous croyez que rien au monde Est-ce que vous croyez qu'il y a un monde où vous allez dire \"Nous, on arrête de rembourser notre dette à la BCE et euh vous savez ? Vous vous allez continuer à fonctionner comme ça.\" Et vous croyez que le reste des Européens va dire \"D'accord. Vous vous vous partez à la retraite à 62 ans, vous avez une TVA plus faible, vous avez toujours quoi dans ce ? Ben dans ce cas dans ce cas-là, les gens disent \"On vous vous n'annulez pas votre dette ou bien alors vous … des deux Marine Le Pen et Jean-Luc Mélenchon pardon, c'est on peut aussi augmenter les impôts notamment ceux des plus riches. Mais on peut peut-être augmenter les impôts et surtout les plus riches, ça ne permettra pas de faire rentrer les deux ronds dans la valise. Il faudra nécessairement aussi réduire de la dépense et aussi travailler sur la croissance en augmentant la quantité de travail. Vous savez Toucher à ? Bah vous c'est une décision d'augmentation de des impôts parmi d'autres. Ça c'est la délibération politique qui doit le permettre. Il y a une vraie différence entre discuter du … de réalité est inéluctable. arriver quand là ce que vous ? Je ne sais pas. La semaine prochaine. Non, je pense pas, je ne sais pas. question de jours, de semaines, de mois, ? Mais ça peut arriver très vite. Ça ça peut nous surprendre. Vous vous disiez \"On a ouvert les yeux, la psychologie est en train de changer, les marchés financiers ne nous regardent plus aujourd'hui comme ils nous regardaient il y a 15 jours.\" Le délitement est ultra rapide en fait. Mais du coup, c'est le plus important pour les marchés financiers qui savent qu'on a un PIB par habitant très important, qui savent qu'on … plutôt que des arrêts maladie. J'ai J'ai une dernière question. Est-ce Vous me répondez par oui ou par non, est-ce que vous êtes ? Oui. Je suis optimiste. C'est ? On est pas né pour avoir peur, on est là pour On est né pour résoudre les problèmes. On reste là-dessus alors. On n'est pas des pessimistes dépressifs. Oui, vous êtes optimiste. Merci beaucoup Stéphane Boujnah, c'était un plaisir de vous avoir. On salue tous les salariés de Onex qui nous regardent. Juste après la pub, la princesse Diana racontée par son frère Charles Spencer et dans Complément d'enquête pour sa seule interview télé.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7153
+  "src": "auto"
  },
  "wRvt5garabY": {
   "channel": "Matthieu Stefani - Génération Do It Yourself",
@@ -55254,7 +55287,7 @@
  "XJIkqJhH4b0": {
   "channel": "Dreaming French",
   "lang": "fr",
-  "checked": "2026-11-07T06:04:50+00:00",
+  "checked": "2026-11-11T22:45:57+00:00",
   "title": "She's Lazy But She'll Teach You French",
   "duration": 972,
   "published": "20260715",
@@ -55262,73 +55295,10 @@
   "spoken_v": 2,
   "pace": 60.3,
   "rare": 0.0181,
+  "var": 0.6496,
   "speech_s": 825.0,
   "tokens": 829,
   "kw": [
-   [
-    "salade",
-    "je vais manger une salade. Mardi, je vais aller au gym.",
-    222,
-    234,
-    4.05,
-    10
-   ],
-   [
-    "gym",
-    "Mardi, je vais aller au gym.",
-    226,
-    234,
-    3.74,
-    6
-   ],
-   [
-    "fatiguée",
-    "Je suis pas fatiguée. Je ne suis même pas fatiguée.",
-    580,
-    592,
-    3.92,
-    6
-   ],
-   [
-    "allô",
-    "Allô ? Ça ? Allô ?",
-    73,
-    79,
-    3.34,
-    3
-   ],
-   [
-    "revoit",
-    "On se revoit dimanche ? On se revoit dimanche prochain pour",
-    720,
-    731,
-    3.51,
-    2
-   ],
-   [
-    "poulet",
-    "Et je vais manger du poulet et",
-    240,
-    247,
-    4.24,
-    6
-   ],
-   [
-    "thon",
-    "une salade de thon. ",
-    271,
-    281,
-    3.58,
-    2
-   ],
-   [
-    "chips",
-    "des chips, de la pizza.",
-    159,
-    171,
-    3.69,
-    2
-   ],
    [
     "vais",
     "Je vais courir. Est-ce que tu veux courir avec",
@@ -55378,26 +55348,82 @@
     10
    ],
    [
-    "dois",
-    "Je dois arrêter. Je dois",
-    26,
-    34,
-    5.07,
-    8
+    "poulet",
+    "Et je vais manger du poulet et",
+    240,
+    247,
+    4.24,
+    6
    ],
    [
-    "ouais",
-    "Ouais. Mercredi, je vais faire du vélo.",
-    246,
-    260,
-    5.2,
-    7
+    "prête",
+    "Je vais être prête pour dimanche. Hmm.",
+    333,
+    346,
+    4.62,
+    5
+   ],
+   [
+    "salade",
+    "je vais manger une salade. Mardi, je vais aller au gym.",
+    222,
+    234,
+    4.05,
+    10
+   ],
+   [
+    "fatiguée",
+    "Je suis pas fatiguée. Je ne suis même pas fatiguée.",
+    580,
+    592,
+    3.92,
+    6
+   ],
+   [
+    "gym",
+    "Mardi, je vais aller au gym.",
+    226,
+    234,
+    3.74,
+    6
+   ],
+   [
+    "œufs",
+    "aux œufs. Aux œufs.",
+    345,
+    354,
+    4.17,
+    3
+   ],
+   [
+    "allô",
+    "Allô ? Ça ? Allô ?",
+    73,
+    79,
+    3.34,
+    3
+   ],
+   [
+    "thon",
+    "une salade de thon. ",
+    271,
+    281,
+    3.58,
+    2
+   ],
+   [
+    "revoit",
+    "On se revoit dimanche ? On se revoit dimanche prochain pour",
+    720,
+    731,
+    3.51,
+    2
    ]
   ],
-  "tx": "C'est drôle. ? Ça fait ? Ça fait déjà 1h que je regarde des ? Oh ! ? Je dois arrêter. Je dois ! Je dois bouger un peu. OK. Après cette vidéo, j'arrête. OK OK. Une vidéo de plus et après, j'arrête. Je dois ! ! C'est Chloé. Allô ? Ça ? Allô ? Oui. ? Oui oui, merci. Qu'est-ce que tu ? Aujourd'hui, c'est dimanche. Je vais courir. Est-ce que tu veux courir avec ? Oui, ça va être bon pour nous. Oui, mais je ne peux pas courir. Euh je suis malade. Je suis malade. Ah, OK. Dimanche prochain, ? Euh, ! Oui, OK. Dimanche prochain. OK, super. À dimanche prochain. À dimanche ! Bon, Chloé court chaque dimanche. Moi, je mange des chips, de la pizza. Je suis assise sur le divan toute la journée. Je dois être plus comme Chloé. Je dois courir. Je dois ! Dimanche prochain, je cours avec Chloé. Dans une semaine, je cours avec Chloé. Demain, c'est lundi. Lundi, je vais être une nouvelle personne. Lundi, je vais faire une marche. Hmm. Marche. Je vais faire une marche de 30 minutes. 30 minutes. Et je vais manger une salade. Mardi, je vais aller au gym. Oui. Mardi, je vais aller au gym 1h. Et je vais manger du poulet et du riz. Ouais. Mercredi, je vais faire du vélo. Vélo. Oui. Je vais faire du vélo 1h. Je vais faire 1h de vélo. Et je vais manger une salade de thon. Jeudi Je vais encore aller au gym 2h. Et je vais manger une salade de poulet. Vendredi, je vais faire plus de vélo. Ouais. Je vais faire 2h de vélo. 2h. Et je vais manger du poulet et du riz. Samedi Je vais courir. Ouais. Courir. Samedi, je vais courir. Je vais être prête pour dimanche. Hmm. Et je vais manger une salade aux œufs. Aux œufs. Et dimanche, dimanche. Le grand jour. Je vais être prête. Je vais courir avec Chloé. Bon. On y va. C'est lundi. Faire une marche et manger une salade. Facile. C'est mardi. Mon ventre. J'ai un peu ",
+  "tx": "C'est drôle. ? Ça fait ? Ça fait déjà 1h que je regarde des ? Oh ! ? Je dois arrêter. Je dois ! Je dois bouger un peu. OK. Après cette vidéo, j'arrête. OK OK. Une vidéo de plus et après, j'arrête. Je dois ! ! C'est Chloé. Allô ? Ça ? Allô ? Oui. ? Oui oui, merci. Qu'est-ce que tu ? Aujourd'hui, c'est dimanche. Je vais courir. Est-ce que tu veux courir avec ? Oui, ça va être bon pour nous. Oui, mais je ne peux pas courir. Euh je suis malade. Je suis malade. Ah, OK. Dimanche prochain, ? Euh, ! Oui, OK. Dimanche prochain. OK, super. À dimanche prochain. À dimanche ! Bon, Chloé court chaque dimanche. Moi, je mange des chips, de la pizza. Je suis assise sur le divan toute la journée. Je dois être plus comme Chloé. Je dois courir. Je dois ! Dimanche prochain, je cours avec Chloé. Dans une semaine, je cours avec Chloé. Demain, c'est lundi. Lundi, je vais être une nouvelle personne. Lundi, je vais faire une marche. Hmm. Marche. Je vais faire une marche de 30 minutes. 30 minutes. Et je vais manger une salade. Mardi, je vais aller au gym. Oui. Mardi, je vais aller au gym 1h. Et je vais manger du poulet et du riz. Ouais. Mercredi, je vais faire du vélo. Vélo. Oui. Je vais faire du vélo 1h. Je vais faire 1h de vélo. Et je vais manger une salade de thon. Jeudi Je vais encore aller au gym 2h. Et je vais manger une salade de poulet. Vendredi, je vais faire plus de vélo. Ouais. Je vais faire 2h de vélo. 2h. Et je vais manger du poulet et du riz. Samedi Je vais courir. Ouais. Courir. Samedi, je vais courir. Je vais être prête pour dimanche. Hmm. Et je vais manger une salade aux œufs. Aux œufs. Et dimanche, dimanche. Le grand jour. Je vais être prête. Je vais courir avec Chloé. Bon. On y va. C'est lundi. Faire une marche et manger une salade. Facile. C'est mardi. Mon ventre. J'ai un peu faim. Hier, j'ai juste mangé une salade. Mais c'est pas grave. Fini les chips et la pizza. Non. Aujourd'hui, je vais aller au gym et manger du poulet et du riz. Ouais. Je suis capable. Facile. C'est mercredi. Faire du vélo et manger une salade de thon. Facile. Mes muscles. Je suis raquée. Je suis raquée du gym hier. Mais c'est pas grave. Je suis capable. Allez. Aujourd'hui, je vais faire du vélo. C'est jeudi. Mes jambes. Mes jambes sont raquées. Mes jambes sont tellement raquées du vélo hier. Mais c'est pas grave. Je suis capable. Je continue. Allez. Aller au gym et manger une salade de poulet. Facile. C'est vendredi. Faire du vélo et manger du poulet et du riz. Facile. Je suis pas fatiguée. Je ne suis même pas fatiguée. Non. Je suis même pas fatiguée. C'est samedi. Courir et manger une salade aux œufs. Facile. C'est la dernière journée avant dimanche. Demain, je cours avec Chloé. Je dois être prête. Je suis capable. C'est dimanche. ! C'est Chloé. ? Allô Amanda, tu es prête à ? Oui oui, bien sûr, je suis prête. On se rencontre au parc dans 30 minutes. Ça ? Ouais. C'est parfait. À bientôt. Je suis fatiguée. Je suis tellement fatiguée. ! ! J'adore courir. Et ? Est-ce que tu adores ? Ouais ouais. J'adore courir. Bien sûr. Qui n'aime pas ? On se revoit dimanche ? On se revoit dimanche prochain pour courir ? ! ! ! ! ! ! Dimanche ? Ou je sais pas si je peux. ! Je te dis si je peux ou si je peux pas. ? OK. Dis-le-moi. À plus. ! J'ai ! J'ai vraiment ! C'était pas trop difficile. C'était pas super. La semaine prochaine, je le refais. Oui. Ma vie va changer. Oui. Je suis fatiguée. Je vais dormir. Demain, c'est lundi. Je vais aller marcher et manger une salade. ? Une petite pause. Je recommence demain. ! Bon, peut-être qu'elle est encore malade. Ah non, c'est déjà ? Une semaine à attendre pour la prochaine vidéo. Sauf sauf si tu vas sur dreamingfrench.com. Oui, sur dreamingfrench.com, il y a des vidéos tous les jours, des centaines de vidéos qui vont du niveau super débutant au niveau avancé, sur tous les thèmes et avec plusieurs différents types de français. N'est-ce pas, ? Et oui, parce que le français de France, c'est pas le seul français qui existe, n'est-ce ? Et la plateforme compte des heures de visionnage. Toutes tes heures d'un peu compréhensible sont ici. Tu peux suivre tes progrès, tes objectifs et accéder aux vidéos depuis n'importe où. Dès maintenant, grâce à l'application Dreaming qui est disponible sur toutes les plateformes de téléchargement. Et en plus, c'est trop bien. On ne voit pas le temps passer. Tu trouveras toutes les informations dans la description de cette vidéo. À bientôt sur dreamingfrench.com.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.5533
+  "src": "auto"
  },
  "StyhHKzB1oA": {
   "channel": "FrancoTalks",
@@ -56280,7 +56306,7 @@
  "IxHvEOgIkGg": {
   "channel": "Easy French",
   "lang": "fr",
-  "checked": "2026-11-08T15:24:40+00:00",
+  "checked": "2026-11-11T22:44:10+00:00",
   "title": "Jobs and Occupations: Vocabulary and Real Conversations in Slow French",
   "duration": 580,
   "published": "20260613",
@@ -56445,7 +56471,8 @@
     2
    ]
   ],
-  "tx": "Salut et bienvenue dans un nouvel épisode d'Easy French. Aujourd'hui, vous allez apprendre à parler de votre profession en français. Dire votre profession, demander à quelqu'un quel est son travail et décrire une profession simplement. C'est ! Il y a plusieurs manières de demander à quelqu'un quel est son travail. Selon le contexte, si c'est formel ou informel. Dans un contexte formel, par exemple, si vous parlez à une personne plus âgée, vous pouvez dire \"Qu'est-ce que vous faites dans la ?\" \"Quel est votre ?\" \"Quelle est votre ?\" \"Dans quel domaine ?\" Dans un contexte informel, par exemple, à une soirée entre amis, vous pouvez demander \"C'est quoi ton ?\" \"Tu bosses dans ?\" \"Tu travailles dans ?\" \"Tu fais quoi dans la ?\" Qu'est-ce que vous faites dans la ? Je suis chef d'entreprise. ! ? Dans quel ? Je travaille dans l'industrie pharmacologique. Et ? Moi, je suis chargée de communication dans une association culturelle. Je suis chef d'entreprise. Je suis chargée de communication. Mon vrai travail chez Easy French, c'est d'enseigner le français. J'ai un master de didactique du français langue étrangère de l'université Sorbonne Nouvelle et une dizaine d'années d'expérience dans l'enseignement du FLE. Je mets cette expérience au profit de la communauté Easy French lors des cours que je donne au côté d'Axel et Judith. Nos cours de français sont pensés pour vous aider à acquérir le vocabulaire et les structures de phrases les plus utiles pour comprendre les Français et vous faire comprendre. Mais la langue, ce n'est pas seulement les mots et la grammaire. Pour cela, nous intégrons toujours à nos cours des contenus culturels comme des chansons, des références à des phénomènes de mode ou de société ou des habitudes locales pour vous aider à vous immerger dans la francophonie. ",
+  "tx": "Salut et bienvenue dans un nouvel épisode d'Easy French. Aujourd'hui, vous allez apprendre à parler de votre profession en français. Dire votre profession, demander à quelqu'un quel est son travail et décrire une profession simplement. C'est ! Il y a plusieurs manières de demander à quelqu'un quel est son travail. Selon le contexte, si c'est formel ou informel. Dans un contexte formel, par exemple, si vous parlez à une personne plus âgée, vous pouvez dire \"Qu'est-ce que vous faites dans la ?\" \"Quel est votre ?\" \"Quelle est votre ?\" \"Dans quel domaine ?\" Dans un contexte informel, par exemple, à une soirée entre amis, vous pouvez demander \"C'est quoi ton ?\" \"Tu bosses dans ?\" \"Tu travailles dans ?\" \"Tu fais quoi dans la ?\" Qu'est-ce que vous faites dans la ? Je suis chef d'entreprise. ! ? Dans quel ? Je travaille dans l'industrie pharmacologique. Et ? Moi, je suis chargée de communication dans une association culturelle. Je suis chef d'entreprise. Je suis chargée de communication. Mon vrai travail chez Easy French, c'est d'enseigner le français. J'ai un master de didactique du français langue étrangère de l'université Sorbonne Nouvelle et une dizaine d'années d'expérience dans l'enseignement du FLE. Je mets cette expérience au profit de la communauté Easy French lors des cours que je donne au côté d'Axel et Judith. Nos cours de français sont pensés pour vous aider à acquérir le vocabulaire et les structures de phrases les plus utiles pour comprendre les Français et vous faire comprendre. Mais la langue, ce n'est pas seulement les mots et la grammaire. Pour cela, nous intégrons toujours à nos cours des contenus culturels comme des chansons, des références à des phénomènes de mode ou de société ou des habitudes locales pour vous aider à vous immerger dans la francophonie. Tous nos cours sont disponibles aux membres du Conversation Membership. Cinq à six cours par semaine inclus et un chat en langue française pour communiquer avec nous à tout moment. Vous hésitez ? Notre offre est disponible à l'essai gratuitement pendant sept jours sur easy-french.org/membership. Le lien est dans la description de l'épisode. Quand vous dites votre profession, pas besoin d'utiliser un article. On dit simplement \"Je suis développeuse, je suis vendeuse.\" Beaucoup de professions ont des formes distinctes selon le genre. Par exemple, directeur, directrice, assistant, assistante. Mais certains noms de professions changent seulement à l'écrit. Par exemple, un employé, une employée. Et certains ne changent pas du tout. Par exemple, réceptionniste. Elle est directrice d'une agence de publicité. Il est directeur d'une agence de publicité. Elle est réceptionniste. Il est réceptionniste. Elle est assistante sociale. Il est assistant social. Elle est avocate. Il est avocat. Pour dire où on travaille, on peut utiliser différentes prépositions. à, au, chez, pour, dans. On choisit la préposition selon si on veut préciser le domaine ou le lieu du travail. Et ton mari, il fait ? Il travaille dans les ressources humaines. Et il travaille ? Il travaille dans une entreprise de gestion des déchets. Et ton mari, il fait ? Il est vendeur. Il travaille chez Monoprix. ! Je l'ai peut-être déjà vu alors. C'est possible. Il travaille au Monoprix de République. Pour continuer une conversation sur le travail, on peut décrire ce qu'on fait avec des adjectifs. Attention, quand on utilise c'est ou ça a l'air, l'adjectif qui suit est toujours au masculin. Je travaille pour une compagnie aérienne. Je suis hôtesse de l'air. ! Ça a l'air intéressant. Tu dois beaucoup voyager. Oui, je voyage tout le temps. Ça me plaît, mais c'est fatigant. Et toi, tu travailles dans ? Je suis employée de mairie. C'est un peu ennuyeux, mais très tranquille. C'est bien ? Oui, ça va. Ça a l'air intéressant. C'est fatigant. C'est un peu ennuyeux. C'est très tranquille. C'est bien payé. C'est mal payé. Quel métier aurais-tu aimé ? Infirmière, sage-femme ou médecin. En tout cas, travailler dans un hôpital. Quelque chose de vraiment utile et gratifiant. Ma sœur est médecin. Ça a l'air très stressant. Oui, j'imagine. Infirmier, infirmière, sage-femme, médecin, travailler dans un hôpital. C'est utile. C'est gratifiant. C'est stressant. Voilà quelques noms de métiers courants. D'abord, les métiers de bureau. Secrétaire, comptable, assistant administratif. Des métiers dans le domaine du soin. Aide aux personnes âgées, auxiliaire de vie, aide-soignant, aide-soignante. Quelques métiers de l'enseignement. Professeur des écoles, professeur de collège ou lycée, professeur d'université. Des métiers dans le domaine de l'entretien. Agent, agente d'entretien, agent, agente de maintenance. Des métiers dans la vente. Vendeur, vendeuse, commercial, conseiller, conseillère client. Des métiers dans les transports. Chauffeur, livreur, conducteur, conductrice de transports en commun, chauffeur routier. Les métiers dans l'hôtellerie, restauration. Serveur, serveuse, cuisinier, cuisinière. Des métiers du bâtiment. Maçon, maçonne, électricien, électricienne, plombier, plombière. Pour pratiquer le vocabulaire vu dans la vidéo, faites l'exercice suivant. Complétez les phrases avec les mots manquants. Tu quoi dans la ? Je travaille les ressources humaines. Ça a intéressant. C'est un ennuyeux. Tu fais quoi dans la ? Je travaille dans les ressources humaines. Ça a l'air intéressant. C'est un peu ennuyeux. Merci beaucoup les amis d'avoir regardé cet épisode. Likez la vidéo, abonnez-vous à la chaîne et écrivez-nous un commentaire. Dites-nous quel est votre métier et décrivez-le avec deux adjectifs. À bientôt.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -63237,7 +63264,7 @@
  "Zg8VGEdcY84": {
   "channel": "ScienceEtonnante",
   "lang": "fr",
-  "checked": "2026-11-08T16:25:38+00:00",
+  "checked": "2026-11-11T23:06:13+00:00",
   "title": "L'EXPANSION ACCÉLÉRÉE de l'UNIVERS [Ép. 1 : La découverte]",
   "duration": 1207,
   "published": "20231103",
@@ -63402,7 +63429,8 @@
     2
    ]
   ],
-  "tx": "D’après les chercheurs en cosmologie, nous serions actuellement dans un Univers qui non seulement est en expansion, mais en plus, en expansion accélérée. Et ce phénomène serait peut-être dû à une mystérieuse substance, qu’on appelle l’énergie sombre, et qui conduirait à terme à un grand déchirement de tout ce qui peuple l’Univers : les galaxies, les étoiles, les planètes, et nous avec. Plutôt intrigant, non ? Alors dans cette vidéo et la suivante, on va essayer de comprendre ce que signifie cette histoire d’expansion accélérée de l’Univers, comment elle a été découverte de façon plutôt inattendue il y a environ 25 ans. Et on se demandera si on a vraiment besoin d’énergie sombre pour l’expliquer. Pour commencer, je vais rappeler ce qu’est l’expansion de l’Univers « tout court », et comment on la concevait avant qu’on ne découvre ce phénomène d’accélération. Je vais répéter quelques points que j’ai déjà abordé dans d’autres vidéos, mais je vais être un peu plus précis que d’habitude, pour bien pouvoir comprendre, ensuite, cette histoire d’accélération. Le phénomène d’expansion de l’Univers a été découvert en 1929 par l’astronome américain Edwin Hubble. A l’époque, il observait différentes galaxies, et s’efforçait de mesurer leur distance et leur vitesse par rapport à nous. Il avait alors constaté une chose étonnante : toutes les galaxies qui nous entourent semblent s’éloigner de nous, et ce d’autant plus vite qu’elles sont lointaines. Commençons par la distance. De façon générale, quand on observe un objet astrophysique et qu’on mesure par exemple sa luminosité, ça ne nous renseigne pas forcément très bien sur sa distance par rapport à nous. Par exemple si la luminosité d’une étoile dans le ciel est faible, est-ce que c’est parce qu’elle se trouve loin de nous, ou bien qu",
+  "tx": "D’après les chercheurs en cosmologie, nous serions actuellement dans un Univers qui non seulement est en expansion, mais en plus, en expansion accélérée. Et ce phénomène serait peut-être dû à une mystérieuse substance, qu’on appelle l’énergie sombre, et qui conduirait à terme à un grand déchirement de tout ce qui peuple l’Univers : les galaxies, les étoiles, les planètes, et nous avec. Plutôt intrigant, non ? Alors dans cette vidéo et la suivante, on va essayer de comprendre ce que signifie cette histoire d’expansion accélérée de l’Univers, comment elle a été découverte de façon plutôt … de l’Univers a été découvert en 1929 par l’astronome américain Edwin Hubble. A l’époque, il observait différentes galaxies, et s’efforçait de mesurer leur distance et leur vitesse par rapport à nous. Il avait alors constaté une chose étonnante : toutes les galaxies qui nous entourent semblent s’éloigner de nous, et ce d’autant plus vite qu’elles sont lointaines. Commençons par la distance. De façon générale, quand on observe un objet astrophysique et qu’on mesure par exemple sa luminosité, ça ne nous renseigne pas forcément très bien sur sa distance par rapport à nous. Par exemple … Des objets de ce genre, dont on connait par avance la puissance lumineuse intrinsèque, on appelle ça des chandelles standard. A l’époque, Hubble avait utilisé comme chandelles standards certaines étoiles variables, dont on connait la puissance intrinsèque grâce à leur période de variation. Il avait ainsi pu estimer la distance de quelques galaxies qui contenaient ce type d’étoiles. Ensuite, pour mesurer la vitesse, Hubble avait utilisé un phénomène découvert quelques années plus tôt : le décalage vers le rouge des longueurs d’onde. A l’époque on interprétait cela comme un effet Doppler. … c’est que cette interprétation « effet Doppler » qu’on avait à l’époque, elle est en fait incorrecte. Pour la suite, il faut donc se souvenir que ce qu’on mesure vraiment ça n’est pas directement la vitesse, mais ce redshift noté z. Et donc en toute rigueur on devrait plutôt graduer le diagramme en utilisant z plutôt que la vitesse qu’on en a déduite. Bien, c’est donc cette observation de l’éloignement des galaxies les unes par rapport aux autres qui est à la base de l’idée d’expansion de l’Univers. Les mesures d’Hubble et de ses successeurs semblent nous dire qu’actuellement l’Univers … il y a 1 milliard d’années il n’était pas si différent d’aujourd’hui. Ce diagramme de Hubble nous renseigne surtout sur le présent, pas tellement sur le passé. Pour reconstituer l’état de l’Univers il y a plusieurs milliards d’années, on ne se base pas sur ces mesures directement, mais on utilise des modèles théoriques de l’expansion de l’Univers. Et il se trouve que ceux-ci ont été élaborés à peu près à la même époque que les découvertes de Hubble. Dans les années 1920, deux scientifiques, le russe Alexander Friedmann et le belge Georges Lemaître mettent au point indépendamment les … quelque sorte devancé par ses calculs, et d’ailleurs on appelle maintenant cette relation de proportionnalité la loi de Hubble-Lemaître. Le facteur d’échelle est donc la quantité importante qui décrit l’évolution de la géométrie de l’Univers, et nous renseigne sur les distances entre les galaxies. Et ce que permettent de faire les équations de Friedman et Lemaître, c’est de quantifier cette évolution au cours du temps, à la fois pour reconstituer le passé, mais aussi pour extrapoler vers le futur. Pour mieux comprendre ces différents scénarios, on peut prendre une analogie. Eh bien pour … avec des pincettes. Car ça n’est pas ça, la véritable explication physique du décalage des longueurs d’onde. Et si on essaye d’aller justement regarder des galaxies avec des décalages élevés, cette subtilité devient importante. Pour connaitre l’intensité du décalage, c’est simple, on applique le principe d’expansion des distances, c’est-à-dire qu’on regarde comment a changé le facteur d’échelle le temps du trajet de la lumière. Je vous rappelle que dans une interprétation Doppler, le décalage z, c’est la vitesse de la source par rapport à la vitesse de la lumière. z=2, ça voudrait dire … le tri entre les différents modèles cosmologiques. Voilà, on a donc un moyen expérimental de savoir dans lequel des scénarios on se trouve, en complétant le diagramme de Hubble par des observations suffisamment lointaines. Il n’y a plus qu’à ! Et justement dans les années 90, deux équipes de recherche se sont formées avec l’ambition d’étendre le diagramme de Hubble pour pouvoir lever cette incertitude : la collaboration High-Z et la collaboration SNC, pour Supernova Cosmology Project. Ces deux équipes, qui étaient de fait en concurrence, avaient pour objectif initial de mesurer la … surveillance de larges portions du ciel, permettant de repérer le maximum de supernovas, sans savoir à l’avance où elles allaient se produire. En 1998, les deux collaborations ont quasi simultanément annoncé leurs résultats. Et là, ce fut une surprise ! Alors qu’elles étaient parties pour mesurer la décélération de l’expansion de l’Univers, les deux ont indépendamment découvert que l’expansion était en fait en accélération. Pour cette découverte inattendue, les deux équipes ont reçu en 2011 le prix Nobel de Physique. Alors je dit les équipes, en fait le prix Nobel de physique est toujours … prochaine vidéo, on verra plus précisément ces différentes hypothèses susceptibles d’expliquer cette expansion accélérée. On essaiera notamment de comprendre ce qu’est cette mystérieuse énergie sombre qui composerait soi-disant 70% de l’Univers, et on se demandera si on en a vraiment besoin. Voilà c’est tout pour aujourd’hui, merci d’avoir suivi la vidéo, abonnez vous pour augmenter vos chances de voir passer les prochaines vidéos, rejoignez le Discord de Science étonnante pour prolonger la discussion, le lien est en description, et je vous dit à très vite pour la prochaine vidéo. A bientôt.",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -63558,7 +63586,7 @@
  "UXt6RBdH-nQ": {
   "channel": "HugoDécrypte - Grands formats",
   "lang": "fr",
-  "checked": "2026-11-08T16:26:39+00:00",
+  "checked": "2026-11-11T23:07:13+00:00",
   "title": "3 504 951 920 329€ de dette... c'est ok ?",
   "duration": 1158,
   "published": "20260329",
@@ -63731,7 +63759,8 @@
     2
    ]
   ],
-  "tx": "Je suis à la tête d'un état qui est en situation de faillite sur le plan financier. Cette dette là, on peut pas laisser à nos enfants. Nous sommes au risque du surendettement. C'est notre échec la dette. 3305 milliards d'euros, c'est le montant de la dette française. Et je sais pas pour vous, mais pour moi, ce chiffre honnêtement, il veut rien dire. Depuis des années, les alertes à la catastrophe se multiplient. Pour certains politiques, la France serait au bord du gouffre financier, mais pour d'autres, la situation est totalement gérable. Mais alors, c'est quoi concrètement cette dette publique ? Pourquoi est-ce qu'elle fait autant de débat et pourquoi est-ce que son niveau de gravité semble varier comme ça d'un responsable politique à l'autre ? Est-ce que la France pourrait faire faillite ? Spoiler, vous allez le voir, c'est une question politique avec des regards divergents. On va donc faire un point calmement ensemble sur la situation et sur ce sujet qui nous concerne tous. Installez-vous et bienvenue pour ce nouveau grand format. Mais avant de poursuivre la vidéo, on va parler d'éducation financière. Comment investir et faire travailler son argent ? On en parle en collaboration avec Trade République. Pendant longtemps, l'investissement en bourse a donné l'impression d'être réservé aux spécialistes de la finance. Aujourd'hui, un français sur trois dit s'intéresser à l'investissement en bourse. Investir en bourse, concrètement, ça revient à devenir propriétaire d'une part d'une entreprise. Si elle va bien, la valeur de l'investissement augmente, mais si elle se porte mal, on perd de l'argent. C'est donc un placement qui peut rapporter sur le long terme, mais qui comporte toujours un risque de perte. On peut acheter soit une action, c'est-à-dire une petite part d'une ",
+  "tx": "Je suis à la tête d'un état qui est en situation de faillite sur le plan financier. Cette dette là, on peut pas laisser à nos enfants. Nous sommes au risque du surendettement. C'est notre échec la dette. 3305 milliards d'euros, c'est le montant de la dette française. Et je sais pas pour vous, mais pour moi, ce chiffre honnêtement, il veut rien dire. Depuis des années, les alertes à la catastrophe se multiplient. Pour certains politiques, la France serait au bord du gouffre financier, mais pour d'autres, la situation est totalement gérable. Mais alors, c'est quoi concrètement cette dette … est complètement perdue politiquement. Il n'y a vraiment plus de majorité claire à l'Assemblée. C'est donc devenu encore plus difficile de trouver des compromis pour voter des lois et parmi ces votes, il y a le budget de la France. Combien va-ton donner à l'éducation nationale ? Combien aux armées et cetera ? Dans ce contexte très tendu, le budget, il se retrouve au cœur des tensions avec un enjeu en particulier qui est beaucoup scruté en ce moment, la question du déficit public. Dans le budget de la France, je ne vous apprends rien mais il y a donc deux colonnes. L'argent qui rentre, qu'on … un prêt par exemple, vous allez devoir rembourser votre banque chaque mois en payant en plus des intérêts. Ces taux d'intérêt, c'est quelque chose de très classique, sauf que la comparaison qu'on pourrait faire avec un état et bien elle s'arrête là. En fait, il faut comprendre qu'au ministère de l'économie et des finances, à Paris donc, il y a un espace réservé à un service particulier. Et cet espace, c'est l'agence France Trésor. C'est cette agence qui va emprunter de l'argent à des investisseurs partout dans le monde, au nom de la France et pour ça et bien elle va vendre des sortes de … même si en soit c'est pas une situation qui est spécifique à notre pays aujourd'hui. Après la crise financière de 2008 et 2009, la Banque centrale européenne a baissé ses taux d'intérêt pour aider les pays à emprunter. Et en plus de ce pouvoir, je rentre pas dans les détails parce que c'est pas le sujet de la vidéo, mais la BCE, elle a aussi racheté beaucoup de titres de dett de pays comme la France. Ça a rassuré donc les investisseurs qui ont continué à acheter de la dette française. Sauf que avec le Covid, la guerre en Ukraine ou encore des situations énergétiques extrêmement … aussi ça pourrait faire l'objet d'une autre vidéo, mais c'est un sujet important à souligner. Ces agences, elles ont leurs limites, elles sont parfois jugées arbitraires, elles sont réactives aussi aux événements d'un moment précis et donc ça peut changer aussi très vite. Bref, elles sont aussi vivement critiquées par de nombreux politiques aujourd'hui. Bref, la dette prend de plus en plus de place, ça inquiète certains, mais pour autant, est-ce qu'on est dans une situation désespérée ? Est-ce que ceux qui nous ont prêté de l'argent sont à nos portes comme ça pour saisir nos biens ? Et bien … qu'il y a des regards politiques sur la question. Mais factuellement, l'État ne remboursera jamais toute sa dette. En plus, comparer l'État à un ménage ou à une famille, c'est pas forcément super honnête parce que l'État, il a un autre pouvoir que nous nous n'avons pas, le pouvoir d'augmenter les impôts. Et oui, nous a priori, on peut pas augmenter notre salaire comme ça en un claquement de doigts. Mais un état, lui, il peut décider d'essayer d'augmenter ses recettes s'il le juge nécessaire. Alors certes, avec tous les impacts potentiels d'une hausse d'impôts, mais tout de même levier … Techniquement, c'est une forme de défaut souverain. Donc ça veut dire que la Grèce, elle n'est plus capable de payer tous les intérêts et tous les emprunts. Donc l'Union européenne lui vient en aide. Après ça, la Grèce a continué à rembourser la partie restante de sa dette mais avec des échéances sur 30 ou 40 ans. Le problème, c'est que pour cet effacement partiel et pour avoir de l'aide financière de l'Union européenne ou encore du fond monétaire international, la Grèce, elle a dû consentir à plusieurs plans d'austérité. Des plans d'austérité jamais vu auparavant dans la zone euro. Des … et bien ça peut avoir des conséquences absolument immenses sur les autres pays de la zone euro. Personne n'y a intérêt. C'est ce qui fait croire donc à certains que en cas d'extrême urgence, il y aurait potentiellement un soutien malgré tout. Alors maintenant, je le disais, c'est une question qui est très politique et l'analyse de la situation, elle diffère selon les partis politiques. Alors là, je vais me permettre d'être relativement schématique pour expliquer ça dans les grandes lignes, mais dans des parties comme ceux d'Emmanuel Macron, de François Bairou ou encore du parti de … même s'il y a des nuances, vous l'avez compris, il une véritable vision politique sur cette question, globalement quand même la quasi totalité des partis politiques porte des solutions pour tenter de réduire malgré tout en quelque sorte ce déficit. À gauche, on en a beaucoup parlé. L'un des sujets qui est beaucoup revenu dans l'actualité et beaucoup revenu dans les débats publics, ça a été d'augmenter les recettes de l'État en taxant davantage les plus hautes fortunes. Il y a eu notamment tous ces débats autour de la taxe Zucman qui concernait les patrimoines de plus de 100 millions … différent pour mieux le comprendre. Pour découvrir mais découvrir aussi mes différentes interviews. Et bien tout est regroupé directement sur un flux de podcast. Vous pouvez taper Hugo DCT sur Spotify, Apple Podcast 10h ou autre. N'hésitez pas à vous abonner très facilement comme ça pour recevoir au quotidien l'essentiel de l'actualité et vous informer avec nous. Vous êtes de plus en plus nombreux. Donc merci beaucoup pour votre confiance. Je vous mets tous les liens en description. Prenez soin de vous, prenez soin de nos proches et puis on se dit à très vite pour une nouvelle vidéo.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -63919,7 +63948,7 @@
  "5bPshVQMcuY": {
   "channel": "Heu?reka",
   "lang": "fr",
-  "checked": "2026-11-08T16:30:37+00:00",
+  "checked": "2026-11-11T23:10:46+00:00",
   "title": "Une bonne idée ? Les pays qui l'utilisent déjà ? Les réformes à venir...",
   "duration": 5048,
   "published": "20230606",
@@ -64092,14 +64121,15 @@
     4
    ]
   ],
-  "tx": "aujourd'hui on parle de prix du carbone et quand je dis 11 veut dire Maxime Rodolphe et moi et pas moi du coup si toi aussi bien sûr ça fait toujours plaisir quand ça vient du coeur comme ça bon Rodolphe introduit le sujet qu'est-ce qu'une tarification du carbone quels sont les émissions ciblées quels sont les avantages et les inconvénients Maxime de son côté sort une vidéo sur les aspects philosophiques et normatifs d'une tarification carbone comment la concevoir de manière à ce qu'elle soit compatible avec la justice sociale et acceptable par les populations un prix du carbone génère-t-il forcément des inégalités celles-ci sont-elles toujours des injustices qu'elle serait la meilleure affectation des recettes d'une tarification de carbone et quant à nous on va tenter de répondre à trois questions un n'y a-t-il pas déjà des tarifications du carbone en place dans le monde spoiler alert la réponse est oui on en a une en Europe on en a même une complémentaire en France mais quelle forme prenne ses tarifications quelles sont leurs niveaux comment sont-elles utilisées on va essayer de faire le point 2 à quoi bon s'autoflageller avec a aucun prix du carbone si nos partenaires commerciaux ne font pas la même chose comment mettre en place un prix du carbone tout en évitant que les entreprises s'en aillent produire dans des pays qui n'imposent pas une telle tarification et enfin 3 comment définir le bon niveau de prix existe-t-il des méthodes pour calculer la véritable valeur du carbone tout un programme alors attention cette vidéo est sacrément longue et dense donc d'abord chapitrage sur la barre de lecture et en description tu commences à connaître mais surtout résumé à la fin de la vidéo qui reprend tous les points importants il est tout à fait possible de commencer par ce r",
+  "tx": "aujourd'hui on parle de prix du carbone et quand je dis 11 veut dire Maxime Rodolphe et moi et pas moi du coup si toi aussi bien sûr ça fait toujours plaisir quand ça vient du coeur comme ça bon Rodolphe introduit le sujet qu'est-ce qu'une tarification du carbone quels sont les émissions ciblées quels sont les avantages et les inconvénients Maxime de son côté sort une vidéo sur les aspects philosophiques et normatifs d'une tarification carbone comment la concevoir de manière à ce qu'elle soit compatible avec la justice sociale et acceptable par les populations un prix du carbone génère-t-il … 34% des émissions couvertes Espagne 82 37 la Suède 10 dollars et 77% des émissions ouvertes pourquoi ces différents partout là alors ça c'est parce que chaque État européen est libre d'assortir le système ets donc les quota carbone européens d'une tarification complémentaire par exemple en France il y a une taxe carbone prélevée sur les carburants utilisés par les transports ainsi que sur le fioul et le gaz cette taxe a été mise en place en 2014 à 7 euros la tonne et elle est figée à 44,60 depuis 2018 c'est sa réévaluation qui a mis le feu aux poudres les gilets jaunes fin 2018 donc à la … économique orientée vers l'investissement plutôt que vers la consommation utilisez des ressources économiques notamment en partie fossiles pour construire des infrastructures non fossiles c'est choisir de ne pas les utiliser pour fabriquer des vêtements des téléphones portables des meubles de la nourriture et même différents services une économie tournée vers plus d'investissement c'est une économie moins tournée vers la consommation en fonction de comment ce moins de consommation se répartit la population peut le sentir passer plus ou moins fortement ah ok je vois remplacer la consommation … d'efficacité retenu par le pouvoir politique au moins un certain niveau de PIB d'espérance de vie moyenne et d'égalité dans la population ok le plus efficace n'est pas forcément celui qui nous enlève le moins de PIB et du coup la définition de l'efficacité reste un choix politique parfait la deuxième méthode est dite coût bénéfice on veut faire en sorte que le PIB sacrifié par les investissements correspondent pile poil au PIB que le réchauffement climatique aurait détruit si on l'avait laissé faire sa deuxième approche rajoute de nombreuses incertitudes puisqu'elles demandent en plus de … a aussi les interdictions comme celle des voitures thermiques en 2035 les réglementations norment et standards qui structurent de nombreux secteurs sur le plan économique on peut taxer mais aussi subventionné comme on le fait sur les renouvelables les violations des bâtiments ou les voitures électriques enfin la sensibilisation l'éducation la formation et la recherche publique jouent également un rôle bien que ce soit plus difficile à quantifier ok bon alors sinon j'ai bien compris que il y avait plein de modèles co-efficacité coût bénéfices et plein de façons de faire que les hypothèses … le réchauffement climatique autant des financière cibler son nécessaire pour les plus précaires qui n'ont pas le choix ou pas les moyens de changer leurs usages autant une subvention pour tous bah ça a pas vraiment de sens ce serait plus efficace de laisser le signal prix transformé les usages des plus aisés et ben on n'est pas sorti de l'auberge tu crois vraiment qu'on va y arriver toi à limiter à 2 degrés le réchauffement climatique oh bah alors faut pas perdre espoir comme ça les subventions existent mais les mécanismes de tarification aussi tiens d'ailleurs est-ce que tu peux me … réserve les prix sont grimpés à 90 euros la tonne non ok alors du coup bonjour la complexité du machin c'est toujours le problème principal de la solution du marché la complexité mais finalement marcher ou taxes les deux sont des mécanismes de tarification pilotable un marché peut se rapprocher d'une taxe la puissance publique joue sur les quantités de quotas pour obtenir le prix voulu et une taxe peut se rapprocher d'un marché la puissance publique joue sur le montant de la taxe pour se rapprocher des émissions voulues ok ouais intéressant mais alors si une taxe peut se piloter comme … côté aviation on leur donnait gratuitement 50% de leurs besoins jusqu'en 2020 et puis covid maintenant on leur en donne beaucoup plus histoire de les aider à pas faire faillite côté central électrique fossile alors le vrai terme c'est activité de combustion mais c'est de la production d'électricité qui domine très largement donc voilà j'ai simplifié bref côté central électrique fossiles donc on voit bien l'évolution de la manière de procéder en 2013 il y a eu plusieurs phases dans le développement du marché de quota carbone européen et 2013 marque le début de la phase 3 les … à l'adoption du Gat il n'est donc pas surprenant d'identifier des contradictions irréductibles le GAT de l'OMC le général agreement en tarif entraide ah mais oui ah les cours d'histoire géo qui me reviennent donc si j'ai bien compris ce que tu veux me dire c'est que l'OMC est fait de vieilles règles qu'on 80 ans le mécanisme d'ajustement carbone lui bah c'est un truc tout nouveau fait pour lutter contre une menace insensée à l'époque de la création des règles du commerce international donc ça clash c'est exactement ça l'OMC a pour but de promouvoir le libre-échange et de lutter contre le … en place un macf d’ici 2026 je conclus en rappelant à nouveau qu'une tarification du carbone n'est qu'un outil parmi d'autres pour lutter contre les émissions de gaz à effet de serre et donc contre le réchauffement climatique un outil puissant et important mais qui ne se suffit pas à lui-même j'aurais également dire que le réchauffement climatique n'est pas le seul enjeu environnemental biodiversité pollution diverses raréfaction des ressources il y a beaucoup pas faire pour faire transiter nos économies vers des systèmes adaptés aux réalités environnementales on aura l'occasion d'en reparler",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "nhKjLqCzc4c": {
   "channel": "Heu?reka",
   "lang": "fr",
-  "checked": "2026-11-08T16:30:45+00:00",
+  "checked": "2026-11-11T23:10:54+00:00",
   "title": "La faillite de Silicon Valley Bank",
   "duration": 2574,
   "published": "20230323",
@@ -64272,14 +64302,15 @@
     2
    ]
   ],
-  "tx": "aujourd'hui on parle du bankrun qui a mené à la faillite de la banque californienne Silicone Valley Bank ou SVB encore des crypto doutes qu'on fait n'importe quoi non alors SVB est la banque de pas mal de startups de la Silicon Valley mais elle ne touchait pas vraiment au crypto ce qu'il a planté c'est la hausse des taux d'intérêt et la forte concentration de ses clients dans un seul secteur ah bon mais pourtant je croyais que sylverget est signature Bank qui elle tripotait de la crypto et qui ont aussi fait faillite quasiment en même temps que SVB mais au final ce qui est arrivé à ces trois banques est très similaire et ça a pas réellement de lien avec les cryptos en fait comme je te l'ai dit c'est plutôt le combo remonter des taux plus concentration des clients dans le même secteur ah il y a trois banques américaines qu'on fait faillite là ouais en même temps oui à quelques jours d'intervalle ah d'accord ah donc ça y est on est reparti la crise des subprimes et de retour quoi faut commencer à paniquer et ben c'est compliqué je pense pas qu'il faille paniquer aucune de ces trois banques n'était les mains Brothers mais c'est vrai que la situation est quand même particulière faut notamment surveiller interaction des autorités américaines et aussi ce qui va se passer en Europe aujourd'hui je vais me concentrer sur SVB mais en fonction de l'évolution des choses on sera peut-être amené à refaire des vidéos sur l'actu ok donc aujourd'hui c'est faillite de SVB faillite pour cause de banque run oui les clients retirent en masse leur bille de la banque elle n'arrive pas à suivre le gouvernement américain en prend le contrôle pour la liquider bon ben c'est parti pour la petite histoire alors SVB est une banque de dépôts américaine spécialisé dans l'accompagnement des startups de",
+  "tx": "aujourd'hui on parle du bankrun qui a mené à la faillite de la banque californienne Silicone Valley Bank ou SVB encore des crypto doutes qu'on fait n'importe quoi non alors SVB est la banque de pas mal de startups de la Silicon Valley mais elle ne touchait pas vraiment au crypto ce qu'il a planté c'est la hausse des taux d'intérêt et la forte concentration de ses clients dans un seul secteur ah bon mais pourtant je croyais que sylverget est signature Bank qui elle tripotait de la crypto et qui ont aussi fait faillite quasiment en même temps que SVB mais au final ce qui est arrivé à ces trois … des entreprises qui payent les salaires d'autres entreprises oui ça évite à certaines boîtes d'avoir en interne un département versement des salaires tu laisses un prestataire le faire pour toi ah ouais ah ouais donc si les boîtes qui versent les salaires peuvent plus rien payer on a plein d'entreprises partout qui peuvent plus payer les salaires voilà donc les différentes raisons qui font que pour SVB et pour signature Bank tous les dépôts sont garantis même au-dessus de 250 000 dollars tous les clients de ces banques vont être indemnisés à 100%. c'est marrant quand même au pays du … de la part de ses clients le tout dans un contexte de système financier complètement mal foutu ok alors on va se dire raconte il s'est passé quoi du coup ok commençons par un exemple simple pour bien saisir ce qui s'est joué les banques ne prêtent pas jamais les dépôts des clients les banques n'utilisent pas non plus les dépôts des clients pour acheter des produits financiers jamais c'est faux 100% faux non OK parce que je vois toujours plein de vidéos de tweets je sais bien que c'est compliqué sûrement que les gens veulent bien faire ils essayent de simplifier mais après si on … s'en aille vers une autre banque c'est une option mais on va voir que justement SVB n'a pas fait ça truc important à retenir la monnaie centrale qui est la contrepartie de la circulation de la monnaie normale n'est pas utilisable par nous pauvres pécheurs pour pouvoir utiliser cette monnaie centrale ils font un compte à la Fed ou à la banque centrale du pays en question ce que seuls les banques ont ni les particuliers ni même les grandes multinationales non de compte dans les banques centrales c'est un truc réservé aux banques ok j'ai compris enfin je crois que j'ai compris bon alors … maturités longues oui bon mais restons sur cet exemple d'une maturité à 5 ans du 5 ans en 2021 ça donne du 3 ans aujourd'hui prêt en 2021 pour remboursement en 2026 on est maintenant en 2023 ça fait remboursement dans trois ans ouais ok bon mais aujourd'hui les taux de la Fed ils sont plus à 0% ils sont à 4,5%. donc quand le gouvernement américain émet une obligation pour un remboursement dans trois ans il paie 4,8%. qu'est-ce que tu préfères un nouveau bon au trésor d'aujourd'hui qui rembourse 100 dans 3 ans et qui paie 4,8 % d'intérêt ou un vieux machin qui date de 2021 qui rembourse … HTM je croyais qu'on le gardait jusqu'au remboursement alors oui mais on peut donner en garantie des titres du portefeuille HTM à la Fed en échange d'un prêt exemple la créance va rembourser 101 dans un an elle vaut 96 sur le marché en ce moment la fête propose de garder cette créance en garantie en échange d'un prêt de disons 94 pourquoi un prêtre 94 si ça vaut 96 sur le marché là parce que la fête prend une marge au cas où je suis désolé d'utiliser à nouveau mais c'est un bordel donc on peut utiliser le portefeuille HTM pour obtenir de la thune mais le montant qu'on obtient correspond … si jamais la colonne de gauche perd de sa valeur par exemple parce qu'elle est composée de produits financiers dont les prix floutus en bourse la banque ne reste à flot que tant que la perte est amortie par le capital la partie qui revient aux actionnaires pourquoi parce que quand la valeur des possessions d'une entreprise diminue comptablement et bien on ne peut pas faire diminuer la valeur de ce que l'entreprise doit à s'écrit entier à ses clients l'entreprise n'a le droit de fonctionner que si créancier et clients sont bien protégés donc parce que le jeu de la compta c'est de bien garder … ont accès à leur compte peuvent utiliser leurs cartes de paiement etc simplement la banque est désormais sous le contrôle de la vie ici OK et après il se passe quoi la FDA ici garde le contrôle de la banque ad vitam comme ça non elle va la liquider la vendre soit la vendre en une seule pièce soit vendre ses actifs petit à petit reprenons le bilan de SVB tel qu'il existe probablement actuellement attention on n'a pas encore de données précis c'est un bilan recomposé en fonction des éléments que j'ai pu trouver ici et là a priori en tenant compte de la valeur de marché des actifs du … la base de la base de la gestion obligataire et il existe des assurances ce qu'on appelle les swap pour couvrir ce genre de risque risque que SVB n'avait apparemment pas couvert donc ils ont connu des pertes plus importantes que ce qui aurait été possible mais il n'empêche que la banque était tout à fait capable de survivre à cette perte de 1,8 milliard on était loin de la solvabilité à mon sens le vrai problème de SVB c'était la concentration de ses clients dans un seul secteur plus une banque est spécialisée plus elle possède des clients similaire plus il risque de tout faire dans le … fond parce que la valeur d'un produit financier si rien de plus qu'une histoire qu'on se raconte collectivement est-ce que les uns veulent acheter est-ce que les autres veulent vendre tout ça se résume à quand on est plutôt content et optimiste les produits financiers valent cher et quand on n'a pas le moral si on met des produits financiers partout qu'on associe toutes nos décisions économiques à la valeur de ces machins et qu'on commence à avoir peur tous ensemble et ben le château de cartes peut s'effondrer tout d'un coup conclusion pas de panique mais panique un peu quand même peut-être",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "AMbrT0WlcAE": {
   "channel": "Stupid Economics",
   "lang": "fr",
-  "checked": "2026-11-08T16:32:55+00:00",
+  "checked": "2026-11-11T23:12:25+00:00",
   "title": "Notre Argent : Créer un Média ?!",
   "duration": 365,
   "published": "20230212",
@@ -64420,7 +64451,8 @@
     3
    ]
   ],
-  "tx": "pour les nouveaux arrivants ceci est notre rituel satanique à nous voici la vidéo où on vous dit tout sur l'évolution de la chaîne nos projets et puis surtout notre argent dans la description se trouve ce document qui permet de suivre de façon très détaillée la compta de stupidité mais cette année on va moins parler de budget et un peu plus de projets j'ai eu quelques évolutions avec l'arrivée de nouvelles têtes entre nos invités pour les élections des émissions qui ont été réalisées grâce à l'aide de Louison Gasnier qui travaille maintenant comme journaliste chez arrêt sur image il y a aussi l'arrivée de Marino sur twitch qui après avoir produit 6 vidéos sur celui d'économics la chaîne Youtube présente maintenant deux streams hebdomadaires sur la chaîne twitch donc c'est une revue de presse tous les mercredis à 15h et un live sur l'actualité économique le dimanche à 18h on a aussi produit très épisodes et notamment deux qui ont demandé pas mal de travail notamment l'épisode sur l'urbanisme et l'autre sur l'éducation nationale mais ces deux épisodes qui ont très bien fonctionné et dans tous les cas on espère vraiment que l'arrivée de tous ces nouveaux formats vous permettront d'avoir un complément à l'actualité intéressant alors niveau thunes cette année on va faire court stupide économique se rapproche d'un objectif de longue date c'est que Valentin et moi puissions nous rémunérer au SMIC cette année on tourne autour de 980 euros brut par mois grâce l'activité de la chaîne en 2022 la difficulté c'était la fermeture de notre page tipi ça occasionné une perte de revenus d'environ 3000 euros pour nous mais ça nous a appris aussi à ne pas dépendre d'une seule plateforme c'est pour ça que nous lançons aujourd'hui une page qui se manque banque en plus de YouTube pour finir d",
+  "tx": "pour les nouveaux arrivants ceci est notre rituel satanique à nous voici la vidéo où on vous dit tout sur l'évolution de la chaîne nos projets et puis surtout notre argent dans la description se trouve ce document qui permet de suivre de façon très détaillée la compta de stupidité mais cette année on va moins parler de budget et un peu plus de projets j'ai eu quelques évolutions avec l'arrivée de nouvelles têtes entre nos invités pour les élections des émissions qui ont été réalisées grâce à l'aide de Louison Gasnier qui travaille maintenant comme journaliste chez arrêt sur image il y a aussi … la chaîne Youtube présente maintenant deux streams hebdomadaires sur la chaîne twitch donc c'est une revue de presse tous les mercredis à 15h et un live sur l'actualité économique le dimanche à 18h on a aussi produit très épisodes et notamment deux qui ont demandé pas mal de travail notamment l'épisode sur l'urbanisme et l'autre sur l'éducation nationale mais ces deux épisodes qui ont très bien fonctionné et dans tous les cas on espère vraiment que l'arrivée de tous ces nouveaux formats vous permettront d'avoir un complément à l'actualité intéressant alors niveau thunes cette année on va … et moi puissions nous rémunérer au SMIC cette année on tourne autour de 980 euros brut par mois grâce l'activité de la chaîne en 2022 la difficulté c'était la fermeture de notre page tipi ça occasionné une perte de revenus d'environ 3000 euros pour nous mais ça nous a appris aussi à ne pas dépendre d'une seule plateforme c'est pour ça que nous lançons aujourd'hui une page qui se manque banque en plus de YouTube pour finir de parler de Tune au final on clôture l'année avec un chiffre d'affaires pour stupid économics de 55 3008 euros en ca qui est composé de 57% de financement participatif … 80% de salaire 17% de coûts de structure et 3% de diverses dépenses donc c'est une année sans grosses évolution à première vue niveau tune mais c'est aussi parce que une partie de notre temps a été consacrée un gros projet c'est stupid economics a pu fonctionner c'est en partie dû au fait d'être au bon endroit au bon moment et puis d'avoir pu tenir cette ligne pendant 7 ans les années qui nous ont montré que clairement le journaliste sur les plateformes web c'est pas le truc le plus rentable au monde pour contribuer à l'émergence d'un journaliste indépendant sur les plateformes nous aidons … de l'aide technique du prêt de matériel et puis en les mettant en avant sur nos réseaux la suite logique c'était de structurer tout ça et c'est pour ça qu'on a fondé notre petit média à nous qui s'appelle stupe media le but c'est pas de créer du tout un nouveau média innovant qui va se planter dans deux ans au contraire l'objectif c'est vraiment d'accompagner ce qui existe déjà c'est d'accompagner les créateurs qui produisent du contenu journalistique vous avez déjà dû entendre parler de l'isolement des personnes qui bossent sur les plateformes et des problèmes que ça cause c'est vraiment … liberté mais ça fragilise au moins autant et si il est possible d'attaquer ou de faire taire des journalistes dans des rédactions assez importantes mais j'ai d'autant plus facile de le faire avec des auto-entrepreneurs c'est pour ça regrouper plusieurs créateurs autour d'un média ça permet d'avoir une vraie protection juridique l'autre avantage c'est de créer des emplois est d'éviter l'auto-entreprise parce qu'il se passe quand même des trucs un petit peu crados dans le milieu avec les monteuses et les monteurs les graphistes les community managers qui sont à peine payés et qui sont … sur stupide économique on a un avis très tranché sur les sponsors et les placements de produits quand il s'agit de produire de l'information stupédia suivent vraiment la même ligne et celles et ceux qui nous rejoignent signent un contrat qui les engage sur un ensemble de points d'abord pas de recours au sponsoring ensuite le respect des conventions collectives et puis le respect de la Charte mondiale des tics des journalistes ce média en fait existe depuis plus d'un an et dirigé par Léa Bello spleen LND Vincent d'Internet Val et moi nous avons pu produire déjà pas mal de contenu il y a … il y a aussi la face cachée des algorithmes de spin LND et puis surtout la série qui sort bientôt sous emprise qui s'intéresse aux dérives sectaires en France et surtout à leur montée en puissance en parallèle de ça on accompagne aussi le développement d'autres personnes comme mariwell confiance internationale il réveilla si vous ne connaissez pas toutes ces chaînes et toutes ces créateurs on vous a ajouté tous les liens en description on est encore au début du projet mais si vous aimez le concept que les productions du média vous semblent utile alors vous pouvez en fait soutenir la … donc ça veut dire que ça bénéficie à toutes les personnes qui rentrent dans la structure et puis ça devrait permettre aussi d'investir pour couvrir des sujets un peu différents avec des voix diverses et à contribuer à l'émergence de nouveaux créateurs d'ailleurs je profite de cette vidéo pour remercier toutes celles et ceux qui nous soutiennent depuis si longtemps j'ai pu parler à certains et certaines d'entre vous et je suis vraiment heureux cotant se retrouvent dans l'évolution de la chaîne bref entre stupédia et tous les projets en cours stupides économics et quand même parti pour … des gens avec qui on bosse et si vous n'avez pas encore regardé de stream de Marino je vous rappelle que le prochain est donc quelques heures d'ailleurs on y sera d'abord pour parler de ce bilan et puis pour répondre à vos questions alors sinon comme d'hab si 1% des abonnés de stupides économique participent d'au moins 1 euro par mois ça nous permet de produire un contenu gratuit pour les 99% restants et ça sans sponso ou placement de produit ce qui commence à se faire rare encore une fois merci à vous pour votre confiance que vous soyez viewer ou tipeur c'était stupid economics sur ce",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -64739,7 +64771,7 @@
  "fTmNo4GjIWw": {
   "channel": "French Breakdown",
   "lang": "fr",
-  "checked": "2026-11-09T02:46:33+00:00",
+  "checked": "2026-11-11T22:40:34+00:00",
   "title": "Mon parcours avec l'examen A2 | French Listening Practice (B1)",
   "duration": 4503,
   "published": "20260711",
@@ -64912,14 +64944,15 @@
     3
    ]
   ],
-  "tx": "Mon ami, il y a quelques années, j'étais assise devant une feuille blanche. J'avais un stylo à la main et je ne comprenais presque rien à ce qu'on me demandait de faire. Mon cœur battait très vite, mes mains étaient froides, et je me disais : pourquoi est-ce que j'ai choisi une langue aussi difficile ? Aujourd'hui, je vais vous raconter toute mon histoire. Elle commence le premier jour où j'ai ouvert un livre de français. Elle se termine le jour où j'ai reçu les résultats de mon examen A2. C'est une histoire pleine d'erreurs, de doutes, mais aussi de petites victoires. Je pense qu'elle peut vous aider si vous aussi, vous apprenez une langue étrangère en ce moment. Avant de continuer, j'aimerais vous poser une petite question, mon ami. Dites-moi dans les commentaires depuis quel pays vous regardez cette vidéo aujourd'hui. Peut-être que vous êtes en Espagne, ou peut-être que vous êtes au Canada. J'adore savoir d'où vient chaque personne qui m'écoute. Cela me montre que les langues nous connectent tous, même quand nous vivons très loin les uns des autres. Je suis une jeune femme turque, j'ai vingt-quatre ans, et je vis dans une grande ville de mon pays, près de la mer. Depuis toute petite, j'ai toujours aimé les langues étrangères. À l'école, j'apprenais l'anglais, comme presque tous les enfants de ma génération, et je pensais que cela suffisait. Mais un jour, tout a changé. Cette histoire commence exactement là, avec une décision simple qui allait transformer ma vie pendant plusieurs années. Quand j'avais environ vingt ans, j'ai terminé mes études à l'université et je cherchais un travail. Je n'avais pas beaucoup d'expérience, et le marché du travail dans ma ville n'était pas facile. Un jour, une amie m'a parlé d'une entreprise internationale qui cherchait des employés ca",
+  "tx": "Mon ami, il y a quelques années, j'étais assise devant une feuille blanche. J'avais un stylo à la main et je ne comprenais presque rien à ce qu'on me demandait de faire. Mon cœur battait très vite, mes mains étaient froides, et je me disais : pourquoi est-ce que j'ai choisi une langue aussi difficile ? Aujourd'hui, je vais vous raconter toute mon histoire. Elle commence le premier jour où j'ai ouvert un livre de français. Elle se termine le jour où j'ai reçu les résultats de mon examen A2. C'est une histoire pleine d'erreurs, de doutes, mais aussi de petites victoires. Je pense qu'elle peut … correcte. Il y avait aussi le problème des faux amis. Ce sont des mots qui ressemblent beaucoup à l'anglais, une langue que je connaissais déjà un peu. Pourtant, ils ont en réalité un sens complètement différent en français. Le mot \"actuellement\", par exemple, ne signifie pas la même chose que le mot anglais qui lui ressemble. Il veut dire \"en ce moment\", et non pas \"en réalité\". J'ai fait cette erreur plusieurs fois pendant mes premières conversations, ce qui créait parfois une confusion totale chez la personne qui m'écoutait. Mon ami, ces petits pièges linguistiques m'ont appris une chose. … réfléchir consciemment. Je devais presque calculer mentalement la bonne préposition, au lieu de la dire naturellement. Mon professeur en ligne me répétait souvent : ne t'inquiète pas, avec la pratique, cela deviendra automatique. Et honnêtement, mon ami, il avait raison, même si cela a pris beaucoup plus de temps que je ne l'espérais. La compréhension orale était probablement l'exercice le plus frustrant pour moi, au début. Vous savez, mon ami, quand on apprend une langue avec des applications ou des cours structurés, on s'habitue à une voix claire. Elle parle lentement, avec une … pour parler français. Ce sentiment de découragement, je pense que beaucoup d'entre vous le connaissent aussi, mon ami, quelle que soit la langue que vous apprenez. C'est normal de douter de soi, surtout quand les progrès semblent lents ou invisibles. Mais cette nuit-là, j'ai appelé une amie de mon groupe d'étude, celle qui venait du Maroc. Elle m'a dit une phrase que je n'ai jamais oubliée : \"Le découragement fait partie du chemin, ce n'est pas un obstacle sur le chemin.\" Cette phrase m'a beaucoup aidée. Elle m'a fait comprendre que mes difficultés n'étaient pas un signe d'échec, mais … petits mots d'encouragement, venant d'une personne qui n'avait aucune idée de ce qu'était réellement le DELF, m'ont étrangement beaucoup touchée. Je les ai gardés dans mon esprit pendant tout le trajet vers le centre d'examen. Le centre d'examen se trouvait dans un institut de langues, à environ quarante minutes de chez moi en transport en commun. Pendant tout le trajet, je révisais mentalement des listes de vocabulaire, en regardant par la fenêtre sans vraiment voir le paysage qui défilait. Quand je suis arrivée devant le bâtiment, il y avait déjà un petit groupe de candidats debout devant … j'ai senti mon corps se détendre légèrement. La première partie consistait à me présenter : mon nom, mon âge, ma ville, ma famille, mon travail et mes loisirs. J'avais tellement pratiqué cette présentation que les mots sortaient presque automatiquement, sans que j'aie besoin de trop réfléchir. Ensuite, elle m'a demandé de tirer deux petits papiers d'une boîte. Chaque papier contenait un sujet différent. Je devais choisir celui que je préférais pour la deuxième partie de l'examen. J'ai choisi un sujet sur les transports dans ma ville, parce que c'était un thème sur lequel j'avais beaucoup de … vraiment satisfaisantes. C'était remarquable, compte tenu de tout le chemin parcouru depuis le début, quand je ne connaissais absolument rien de cette langue. J'ai commencé à pleurer, mais cette fois, c'étaient des larmes de joie, complètement différentes des larmes de frustration que j'avais versées pendant ma préparation. Je suis sortie de la petite salle et j'ai immédiatement appelé ma mère. Elle a crié de joie tellement fort que j'ai dû éloigner le téléphone de mon oreille. Elle a immédiatement appelé ma grand-mère pour lui annoncer la nouvelle. Quelques minutes plus tard, ma … non pas parce que je dois pratiquer, mais parce que j'aime vraiment cela maintenant. J'ai développé des amitiés sincères avec des personnes francophones que j'ai rencontrées grâce à mes efforts d'apprentissage. Ces amitiés n'auraient jamais existé si je n'avais pas pris cette décision, il y a quelques années, de sortir de ma zone de confort. En tant que jeune femme turque, mon ami, je pense aussi que cette expérience m'a apporté quelque chose de plus profond, lié à mon identité. J'ai grandi dans mon pays entre des influences culturelles multiples. Il y avait notre riche histoire locale … du ridicule, cela peut vraiment nous paralyser et ralentir considérablement nos progrès. Les meilleurs apprenants que j'ai rencontrés dans mon groupe d'étude étaient justement ceux qui savaient rire de leurs propres erreurs. Ils abordaient chaque difficulté avec curiosité plutôt qu'avec une anxiété excessive. Je regarde maintenant en arrière sur tout ce parcours. Je repense à cette première soirée où j'ai téléchargé une application sans savoir dire un seul mot de français. Je pense aussi à aujourd'hui, alors que je peux partager avec vous toute cette histoire dans une langue apprise avec … accumulées avec constance, sont probablement la vraie raison de tous mes progrès, bien plus que n'importe quelle méthode miracle ou astuce particulière. Merci infiniment d'avoir écouté mon histoire jusqu'au bout, mon ami. J'espère vous retrouver très bientôt pour partager avec vous la suite de mon aventure. Cette fois, je vous parlerai de mon parcours vers le niveau B1, avec tous ses nouveaux défis et ses nouvelles découvertes. Prenez soin de vous et continuez à croire en vos propres capacités. Surtout, n'abandonnez jamais vos rêves, même quand le chemin semble très difficile au début.",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
  "OIjtIN9KRTU": {
   "channel": "Français avec Pierre",
   "lang": "fr",
-  "checked": "2026-11-09T02:48:29+00:00",
+  "checked": "2026-11-11T22:42:06+00:00",
   "title": "Que disent les Français dans ces Situations ? (célébrations, mariages, deuils...)",
   "duration": 991,
   "published": "20260807",
@@ -65084,7 +65117,8 @@
     3
    ]
   ],
-  "tx": "Mais qu'est-ce qu'on dit en français quand quelqu'un éternue comme ? On doit lui dire !\" \"Bonne !\" Et bien, c'est ce que nous allons voir dans cette vidéo. Pas seulement quand une personne éternue, mais aussi et bien quand on trinque, quand on boit un peu de champagne par exemple, pour célébrer quelque chose, ou bien ce que l'on dit aussi dans d'autres situations un peu plus désagréables, comme par exemple quand quelqu'un est malade, qu'est-ce qu'on doit lui ? Quelle est la bonne formule à ? Et dans des situations encore plus dramatiques, quand par exemple une personne proche est décédée. Alors, quels sont les mots à dire dans des cas comme ça en ? Donc toutes ces expressions, toutes ces phrases sont très importantes dans la vie de tous les jours. Et donc aujourd'hui, dans cette vidéo, je vous propose de repasser justement et bien toutes ces expressions importantes. Alors juste avant de commencer, je voulais vous rappeler comme toujours que si vous voulez apprendre le français d'une manière sérieuse et efficace, nous avons des cours pour cela, soit à faire de manière autonome, soit à faire avec nos professeurs. En tout cas, quel que soit votre niveau et votre objectif, comme réussir un examen par exemple du DELF, du DALF, et bien nous avons le matériel adéquat pour cela. Donc contactez-nous, n'hésitez pas et puis on se fera un plaisir de vous conseiller pour que vous puissiez réussir votre apprentissage du français, votre examen et cetera. Tous les liens sont dans la description de cette vidéo. Allez, on commence et donc on va justement commencer par répondre à cette question quand quelqu'un éternue, et bien qu'est-ce qu'on lui ? Alors non, on ne dit pas santé même si on peut l'entendre dans certains pays francophones en dehors de la France, mais en France on dit à tes ",
+  "tx": "Mais qu'est-ce qu'on dit en français quand quelqu'un éternue comme ? On doit lui dire !\" \"Bonne !\" Et bien, c'est ce que nous allons voir dans cette vidéo. Pas seulement quand une personne éternue, mais aussi et bien quand on trinque, quand on boit un peu de champagne par exemple, pour célébrer quelque chose, ou bien ce que l'on dit aussi dans d'autres situations un peu plus désagréables, comme par exemple quand quelqu'un est malade, qu'est-ce qu'on doit lui ? Quelle est la bonne formule à ? Et dans des situations encore plus dramatiques, quand par exemple une personne proche est décédée. … par répondre à cette question quand quelqu'un éternue, et bien qu'est-ce qu'on lui ? Alors non, on ne dit pas santé même si on peut l'entendre dans certains pays francophones en dehors de la France, mais en France on dit à tes souhaits. Voilà, ? Les souhaits donc c'est ce que les gens souhaitent obtenir. À tes souhaits, cela signifie bien j'espère que tes souhaits se réaliseront si vous voulez. Alors dans ce cas-là, et bien on répond simplement merci, ? Certaines personnes disent aussi, c'est un peu plus romantique, à tes amours, ? Et dans ce cas-là, on peut répondre que les tiennes … on peut inviter la personne au restaurant pour célébrer ou alors à la maison et bien on peut ouvrir par exemple une bouteille de champagne pour les Français c'est un grand classique de boire du champagne lors d'événements importants et donc ben on va trinquer c'est-à-dire on va cogner les verres comme ça et puis on va dire félicitations bravo pour ta réussite bravo pour ta promotion bravo pour ton examen et cetera. Alors justement maintenant est-ce que vous savez ce que l'on dit parfois aussi quand on trinque donc quand on célèbre quelque chose et quand on on cogne les verres comme ça et … le plus classique dans ce cas-là, eh bien, c'est tout simplement de dire \"bonne chance\", ? Bonne chance. Mais il y a comme une tradition qui dit en français que finalement de souhaiter bonne chance, ça peut euh porter malheur. Bon, c'est un petit peu bizarre, hein, un petit peu comme on dit \"tiré par les cheveux\", c'est-à-dire un peu bizarre. Mais bon, il y a certaines personnes qui croient en ça et qui disent qu'il ne faut jamais dire \"bonne chance\" et il faut dire à la place \"merde\". Voilà. Donc bon, c'est un peu familier, d'accord, c'est entre amis. Il y a des personnes qui vont vous … Jean-Paul, joyeux anniversaire\". Donc vous voyez qu'on n'a pas beaucoup d'imagination, on répète sans arrêt joyeux anniversaire. Bon, c'est comme ça, mais en tout cas, c'est la chanson classique que l'on chante le jour d'un anniversaire. En général, on la chante quand il y a le gâteau avec les bougies allumées et à la fin de la chanson, la personne souffle les bougies, ? Et là aussi, on est censé éteindre toutes les bougies, sinon ça peut porter malheur. Bon, bref. Allez, passons à la nouvelle année. Qu'est-ce qu'on dit quand on souhaite la nouvelle ? Donc, c'est le 31 au soir et puis ben … que l'on dit justement pour ? Alors, pour Noël, est-ce qu'on dit bon ? Non, dans ce cas-là, on va dire joyeux Noël plutôt, ? Bon, vous pouvez dire bon Noël, on vous comprendra, mais l'expression typique, c'est plutôt joyeux Noël, ? Comme joyeux anniversaire, ben joyeux Noël. Bien. Maintenant, quand une personne part en voyage, qu'est-ce qu'on lui dit ? Qu'est-ce qu'on peut lui ? Est-ce que vous ? Alors, ça peut être en voyage ou bien on va dire en vacances, ? Alors le plus simple, le plus classique, c'est tout simplement \"Bon !\" ? \"Bon !\" Ensuite, on peut dire \"Bonnes !\" Bien … !\" J'espère que tu reviendras en pleine forme. Alors maintenant, important, quand quelqu'un est malade, qu'est-ce qu'on va lui ? Oui, par exemple, quelqu'un vous dit \"Non, je peux pas venir euh au travail aujourd'hui, je suis malade.\" Bon, qu'est-ce que vous allez lui ? Alors, on peut dire \"Bon !\" ? On peut dire aussi \"Remets-toi !\" De se remettre de quelque chose, d'une maladie. Se remettre, ça veut dire que on se remet en forme. Ou tout simplement \"Soigne-toi !\" ? Et puis euh on entend dernièrement euh beaucoup \"Prends soin de toi.\" \"Prends soin de toi.\" Alors, ça vient là aussi un petit … qu'on dit pour féliciter les ? Bon. Alors, déjà, si vous êtes au mariage et que les mariés sortent de l'église, on dit, c'est l'expression typique, \"Vive les !\" ? \"Vive les !\" Et puis, si vous devez écrire un message à ces personnes parce que vous savez qu'elles se sont mariées, d'accord, ou qu'elles vont se marier, alors vous allez écrire \"Tous mes vœux de bonheur.\" Vous voyez que ce mot \"vœux\", les vœux là, hein, c'est très utilisé dans toutes ces formules. \"Tous mes vœux de bonheur\", ? Vous pouvez l'écrire ou vous pouvez le dire, hein, aussi, bien évidemment. Et c'est encore une … aussi de la vie. Donc un décès. Lorsqu'une personne proche de vous a appris malheureusement le décès d'une personne proche d'elle, qu'est-ce que vous devez lui ? Quelle est la formule pour la ? Quelle est la formule que l'on utilise dans ce ? La formule typique, c'est \"Mes sincères condoléances.\" ? \"Mes sincères condoléances.\" Donc vous pouvez le dire à l'oral ou à l'écrit. On peut dire aussi \"Je vous présente mes sincères condoléances.\" \"Je te présente\" si vous tutoyez bien évidemment, ? Alors après, vous pouvez ajouter des mots un petit peu plus euh on va dire moins formels. Vous … Je vous rappelle encore une fois que nous avons des cours pour vous aider à progresser en français. Toute l'équipe de Français avec Pierre est là pour vous aider. Et moi je n'ai plus qu'à vous souhaiter et bien félicitations pour votre apprentissage du français, pour cette envie que vous avez d'apprendre le français, cette jolie langue et ça nous fait évidemment extrêmement plaisir surtout si vous nous suivez, si vous avez confiance en Français avec Pierre et que vous appréciez notre travail. Merci beaucoup, prenez bien soin de vous et on se retrouve dans une prochaine vidéo. À bientôt.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -69809,7 +69843,7 @@
  "OAyYSlMhgI4": {
   "channel": "Le Réveilleur",
   "lang": "fr",
-  "checked": "2026-11-09T03:25:23+00:00",
+  "checked": "2026-11-11T23:02:01+00:00",
   "title": "Les terres rares.",
   "duration": 2139,
   "published": "20211012",
@@ -69982,7 +70016,8 @@
     3
    ]
   ],
-  "tx": "Bonjour à tous et bienvenue dans cette vidéo où je vais vous parler de terres rares. J’ai déjà parlé un peu des terres rares dans plusieurs vidéos mais vu que ce sujet revient souvent et que j’avais moi-même pas mal d’interrogations, je me suis dit que ce serait bien d’avoir une vidéo dédiée. Si je fais bien mon boulot vous devriez comprendre ce que sont les terres rares, à quoi elles servent et quels sont les problèmes qu’elles posent. Ah oui… Ces derniers temps j’ai été un peu occupé, j’ai déménagé et j’en ai profité pour aménager un décor un peu plus sympathique qu’un canapé, un radiateur et une plante… D’ailleurs, pas d'inquiétude, mon monstera a survécu mais comme je filme maintenant chez mes parents vous ne le verrez plus. Si vous êtes un habitué de la chaîne, n’hésitez pas à me dire ce que vous pensez des changements de forme que cette vidéo apporte. Allez trève de bavardages, c’est parti ! D’abord les terres rares c’est quoi? On désigne par “terres rares” un groupe de métaux aux propriétés voisines. On retrouve, dans les terres rares, le scandium, l’yttrium et le groupe des lanthanides: lanthane, cérium, praséodyme, néodyme, prométhium, samarium, europium, gadolinium, terbium, dysprosium, holmium, erbium, thulium, ytterbium et lutécium…. Le moins qu’on puisse dire c’est que, pour désigner ces 17 éléments chimiques, le terme de “terres rares” est plutôt inadapté. D’abord parce qu’elles ne sont pas rares - je détaillerai ce point plus loin - mais aussi parce que le terme de terres a mal vieilli et devrait être actualisé en minerais, on aurait donc des minerais rares. A la fin du XVIIIème siècle, on découvre en effet des minéraux peu communs. Les chimistes pensent alors découvrir deux nouveaux éléments: l’yttrium puis le cérium mais il y a beaucoup plus d’éléments ",
+  "tx": "Bonjour à tous et bienvenue dans cette vidéo où je vais vous parler de terres rares. J’ai déjà parlé un peu des terres rares dans plusieurs vidéos mais vu que ce sujet revient souvent et que j’avais moi-même pas mal d’interrogations, je me suis dit que ce serait bien d’avoir une vidéo dédiée. Si je fais bien mon boulot vous devriez comprendre ce que sont les terres rares, à quoi elles servent et quels sont les problèmes qu’elles posent. Ah oui… Ces derniers temps j’ai été un peu occupé, j’ai déménagé et j’en ai profité pour aménager un décor un peu plus sympathique qu’un canapé, un radiateur … J’ajoute quelques quantifications mais ce sont des chiffres de 2018 et il y a des variations entre les données disponibles. Je pense que les ordres de grandeur sont bons mais ça a peu de chance d’être juste au pourcent près. Le lanthane est utilisé dans les accumulateurs rechargeables nickel-hydrure métallique. Si vous avez des piles AA ou AAA avec marqués Ni-MH dessus, il y a du lanthane dedans. Encore des terres rares que vous utilisez sans doute régulièrement. Cette technologie nickel-hydrure métallique a été utilisée dans les premières générations de batteries des voitures électriques … de ces technologies et c’est un premier point intéressant. Quand on regarde comment se répartit l’utilisation des terres rares entre les applications dont on a parlé, on voit que ces aimants constituent environ 20% en volume. Les applications dans les éoliennes ou les voitures électriques constituent donc une fraction de ces 20%, fraction que je suis incapable de quantifier. Ce qui amène une question importante: est-ce que les terres rares vont limiter le déploiement des éoliennes et des voitures électriques ? Pour y répondre, il faut déjà regarder si les terres rares sont … que la demande augmente et la production avec, on a encore de la marge. En plus, comme j’en ai déjà parlé sur cette chaîne, les réserves sous-estiment largement les quantités de minérai du sous-sol puisque si on a des décennies ou des siècles de réserves devant nous… on ne va pas chercher davantage. Les réserves estimées par l’USGS ici,ne se basent que sur une dizaine de pays. La Chine dispose d’importantes réserves déclarées, mais également le Brésil, le Vietnam, la Russie, l’Inde et l’Australie. En plus des futures découvertes, les réserves augmentent également avec les … quasiment le monopole de l’extraction il y a 10 ans n’extrait “plus que” 60% des minerais de terres rares. Mais, elle continue d’opérer près de 90% du raffinage. La mine américaine de Mountain Pass qui a été rouverte envoie, par exemple, les minerais extraits en Chine pour leur raffinage. Et, la Chine produit encore sur son territoire les objets à haute valeur ajoutée qui contiennent ces terres rares. Par exemple, plus de 90% des aimants de terres rares proviennent encore de Chine. Ce quasi monopole chinois n’est pas le seul problème que pose les terres rares. L’exploitation de ces … radioactif… dans le sens où mon corps contient des radionucléides. Il n’y a pas d’un côté ce qui n’est pas radioactif et de l’autre ce qui l’est pas mais une continuité qui va d’éléments naturels très peu radioactifs à des déchets extrêmement radioactifs provenant du combustible usé des centrales nucléaires. Et, sur cet axe, les déchets radioactifs de l’industrie des terres rares sont des déchets de très faible activité... bien plus proche de la radioactivité naturelle du granit que du combustible usé sortant d’un réacteur nucléaire. C’est important de comprendre que ces déchets qualifiés … de cuivre et d’aluminium et le moteur sera plus lourd. Le cuivre et l’aluminium ne poussant pas sur les arbres, il faut donc mettre les effets de cette extraction face à celle des terres rares. Si on prend tout ça en compte, est-ce que c’est la voiture électrique sans terres rares dans son moteur qui a le moins d’impact ? En théorie, on pourrait répondre à cette question avec une méthode de comptabilité environnementale: l’analyse du cycle de vie. Mais, je n’ai pas trouvé d’études sur ce point précis, d’ailleurs si vous en trouvez ça m’intéresse ! Intuitivement, je pense que cette … exploitation minière dont ils bénéficieront assez peu. Il est donc peu probable que l’exploitation du sous-sol de l'Union européenne lui apporte l’auto-suffisance pour les terres rares. Mais, le problème ne se situe pas qu’à l’extraction, il faut maîtriser le reste de la chaîne de valeur et l’Europe a peu de capacités de raffinage. Une des rares exceptions est une usine française: l'usine Solvay à La Rochelle qui est la plus vieille usine de séparation de terres rares encore fonctionnelle. Elle produit notamment des pots catalytiques pour l’industrie automobile et des poudres de polissage. … fin de vie. On retrouve également la problématique de la chaîne de valeur. Le recyclage a beaucoup moins de chance de se mettre en place sur le territoire européen si on ne sait pas raffiner les terres rares et si il n’y a pas localement des industries intéressées par ces terres rares. Enfin, on parle ici d’applications qui sont amenées à croître. Le recyclage, même s' il se met en place, ne serait capable de ne couvrir qu’une partie de la demande. Il faut continuer de s’intéresser au recyclage puisqu’il pourrait permettre de dépendre moins de la production primaire et donc potentiellement … sachez que je suis aussi sur uTip. Tipeee constitue aujourd'hui la majorité de mes revenus donc je ne vais pas fermer ma page Tipeee mais je mettrai plus en avant uTip à l’avenir parce que j’ai une préférence pour leur approche. En plus, uTip prend moins de commission. Sans ces plateformes de financement et ceux qui me soutiennent en les utilisant, la vidéo que vous regardez ne serait pas là. C’est donc l’occasion, encore une fois, de remercier du fond du cœur ceux d’entre vous qui permettent à ce contenu d’exister. C’était Le Réveilleur dans un nouveau décor et à bientôt sur le net !",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -70170,7 +70205,7 @@
  "ych7sapaPXc": {
   "channel": "FastGoodCuisine",
   "lang": "fr",
-  "checked": "2026-11-09T03:27:02+00:00",
+  "checked": "2026-11-11T23:03:00+00:00",
   "title": "100 Personnes VS Le Silence (10 000€ à gagner)",
   "duration": 1451,
   "published": "20250725",
@@ -70343,7 +70378,8 @@
     2
    ]
   ],
-  "tx": "J'ai enfermé 50 personnes dans cette arène et le dernier qui restera ici gagnera 10000 € de cadeaux. Aujourd'hui, une seule règle compte. Si tu fais du bruit, tu es éliminé. Attention, le jeu a officiellement commencé à partir de maintenant. Vous êtes prêts ? Ils sont pas fait avoir. Ils sont prêts. On attaque. Manche une. Il y aura 10 éliminés. Vous allez devoir faire tenir en équilibre une balle sur une règle. Bien évidemment, les joueurs n'ont pas le droit de parler et c'est donc le bruit de la balle qui déterminera s'ils sont éliminés. 3 2 1 Go ! Oh ! Oh là là ! Oh là là ! Stop ! Oh ! Ça allit très vite. On va faire un arbitrage vidéo. J'ai la liste des éliminés. Première éliminé numéro 3 10 13 15 désolé m'en douter. Numéro 16. Trop le simple. Je me fais avoir parce que je tremblote. Numéro 17 23 27 41. Et le dernier numéro 42. Et d'ailleurs, vous avez sûrement remarqué, je suis accompagné d'arbitres qui sont là pour surveiller qu'aucun candidat ne triche ou ne parle. Vous connaissez tous la chaise, celle qu'on fait habituellement contre un mur. Cette position horrible qui fait mal, qui donne envie de parler. Et bien là, vous allez devoir faire la chaise en équipe dos à dos. Si un duo craque, une alarme se déclenche automatiquement et fera du bruit et donc le binô est éliminé. Les cinq premiers qui tombent perdent et en plus de la difficulté sportive, il y a aussi une différence de gabarit. Bah oui, c'est ça qui est marrant, c'est que le hasard ça complexifie les choses. Tu veux changer de partenaire ? Il a bien raison de toute façon, il aurait pas pu. OK. Mettez-vous en position dos à dos, s'il vous plaît. 3 2 1 Go ! Du coup, ça va être une épreuve d'endurance, de timing. Faudra pas craquer. Clairement, je suis en train de pleurer à l'intérieur. J'ai hyper mal au c",
+  "tx": "J'ai enfermé 50 personnes dans cette arène et le dernier qui restera ici gagnera 10000 € de cadeaux. Aujourd'hui, une seule règle compte. Si tu fais du bruit, tu es éliminé. Attention, le jeu a officiellement commencé à partir de maintenant. Vous êtes prêts ? Ils sont pas fait avoir. Ils sont prêts. On attaque. Manche une. Il y aura 10 éliminés. Vous allez devoir faire tenir en équilibre une balle sur une règle. Bien évidemment, les joueurs n'ont pas le droit de parler et c'est donc le bruit de la balle qui déterminera s'ils sont éliminés. 3 2 1 Go ! Oh ! Oh là là ! Oh là là ! Stop ! Oh ! Ça … Waouh ! Il est lourd ce mec. Ah, 38, c'est éliminé. C'est plus du tout une chaise. Ah, ici le 5. Plus qu'un duo. Ah 24. On a les cinq duos qui ont perdu et on a analysé les vidéos. Il y a une position qui n'a pas été validée. Il y a quelqu'un qui a tenté de tricher et la production l'a vu. 31 32 c'est vous que j'ai vu en 4K tricher. C'était quoi cette position ? la main comme ça à tenir le 32 il était sur moi du coup ma s plus et j'ai le sinon la différence de gabarit je mets un commentaire tu me donnes plus de pépé de chiking mois tu peux tu peux tu peux mettre un commentaire bah au … Mais non, c'est du gâteau. Après prend le couteau et coupe le couteau. Mais non, couteau c'est du gâteau. C rentre dans la pièce, il coupe la dame du gâteau aussi. Ça faire les popettes en vrai. Petit t-shirt, petit pantalon juste pas à poil. Arrêtez de regarder vos pieds là. Non, il y a pas de souci hein. J'ai l'habitude. Ça me rappelle mes premiers spectacles. On dirait que je suis Pierre Palmad. Euh, écoutez, ce sketch n'a pas de chute. Euh, mais voilà, c'est du gâteau. Après, prends le couteau et coupe le couteau. C'était un plaisir en tout cas de jouer contre vous. Je vous souhaite … numéro 7 34 35 36 et le dernier éliminé 33. J'ai perdu à cause d'une chips. J'ai les morts. 55 décibel. Ouais, je m'en doutais. Ça commençait bien et ça a croustillé. Bonne chance la team 30. Ah ouais, il y a des teams intéressants. Prochaine étape, la poutre avec le papier bulle. Ça veut dire que si vous tombez de la poutre, vous allez faire du bruit. Sur le papier bulle, vous serez automatiquement éliminé. La poutre mesure 3 m et a une largeur de 5 cm. Numéro 46 qui veut débuter. Aïe aïe aïe aïe aïe aïe. Ah ! Waouh ! Aïe aïe aïe aïe aïe aïe ! C'est éliminé 46. Je suis désolé. Vous l'aurez … c'est pas trop mal 15 de allez prête ça dépend pour quoi faire là ça va être des duos là du coup on va être à deux on va devoir verser là-bas parce qu'il y a un récipient faut passer par-dessus sauf que comme je suis un jean je suis pas du tout faut pas toucher ça va vous le sentez bien ouais c'est bon ok ça va aller et vous remarquerez que ils sont 15 donc il restera une personne à la fin sans duo Je pense c'est qui ? C'est 26 qui est solo. Oui, en vrai, je veux bien être solo. Non, c'est cool ensemble. C'est bien. Les équipes ont été constituées et il reste 26. Je suis désolé pour toi … le début et il continue de le montrer. À côté ça dit quoi ? OK et pendant ce temps qui galère avec une canette de Pops Vide. Moi, je vais me faire plaisir. En plus, on a sorti plein de nouveaux goûts cet été. Dites-moi dans les commentaires c'était quoi votre préféré. Et là, on va peut-être assister à la délivrance du 44 et du 12. Et oui, c'est fait. Il nous reste trois duos à faire passer. Go ! OK. Qu'est-ce que c'est que cette technique ? 43 et 45, ça avance vite. 11 et 9, ils ont tenté une technique. Au final, ils ont juste pas bougé depuis le début. Là, la partie compliquée. 50 aïe aïe … faut le pieds. C'est bâtard. Mais vas-y, vas-y, répartissez-vous par équipe. Mettez-vous dans un carré. Je reste focus, je reste déterminé. Ça va le faire. Je suis zen. 3 2 1 Go ! Ça va très très vite. Personne ne veut cette bombe. Aïe aïe aïe aïe a a a Oh la bonne strate ! Ça a fait per faire beaucoup de temps. Oh ça joue technique, ça joue technique. Oh ! Oh numéro 1 qui la prend en main. Bam ! La confiance du numéro 1. Qu'est-ce qui s'est passé ? Ah je me suis fissuré là. Ça va pas possible. Ça m'arrive jamais. Ça c'est la première fois. Je sais pas ce que c'est que perdre. C'est une … OK. En neuf. Et là, c'est mon camarade à ma droite qui tire un 4. Et ce ballon fait que de gonfler. Malheureusement, on perd le 43, le 44, le 39 à rien. Un coup prê. Un coup prè, c'est ce qu'on dit souvent. On aurait bien aimé qu'il parle un peu plus sur la vidéo. Il a les bon punch. Ils étaient 50, il n'en reste plus que six. Vous connaissez le jeu qui est devant moi. Chacun votre tour, vous piochez une carte, vous récupérez l'objet. Bien sûr, si vous faites sonner, vous êtes éliminé. Et maintenant, je pense qu'il est grand temps qu'on les laisse un petit peu parler quand même … puis déjà, j'ai la main un peu qui tremble. Oh là là, ça s'est joué à rien. Et là, sans faire exprès, mauvais geste et ça touche. Ah, on l'a entendu. Au revoir le numéro 20. Grâce au numéro 20, vous êtes plus que 5. Ça serait trop bête de perdre maintenant. Je vais rester concentré. Ah, c'est bon tirage. C'est pièces rectangulairire, grande ouverture. OK, la pièce est prise, elle est sortie, c'est validé. Numéro 48. C'est la seule épreuve où j'y étais plutôt serein. Pièce pas facile, ça va être compliqué. L'espace est très petit. Oh ! Il l'a posé. Ça a touché. Il y a pas de doute possible. … La gagnante repartira avec 10000 € de cadeau. Bah 26, c'est quand tu veux. Ça analyse. J'aurais fait exactement pareil. Je pense qu'au début ça va aller. C'est plus jeu va avancer, plus ça va être compliqué. Wou ! Moi, je m'attendais pas du tout à ça. Mais pourquoi ? Mais pourquoi prendre la pièce la plus grande dès le début ? Oh non ! 26 éliminé comme ça 50. Félicitations, tu repars avec 10000 € de cadeaux sans même jouer. Et puis pour la 26, on va pas te laisser sans rien, on va t'offrir quand même un iPad. En tout cas, si vous voulez voir une autre vidéo, bah vous pouvez cliquer juste ici.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -70877,7 +70913,7 @@
  "fLWvbnxVOnI": {
   "channel": "HugoDécrypte - Grands formats",
   "lang": "fr",
-  "checked": "2026-11-09T03:30:17+00:00",
+  "checked": "2026-11-11T23:07:29+00:00",
   "title": "L’interview sans filtre de Pierre Niney",
   "duration": 2572,
   "published": "20260201",
@@ -71050,7 +71086,8 @@
     4
    ]
   ],
-  "tx": "Salut Pierre. Salut. Je suis le compte de Monte Cristo. Il y a un problème avec la boîte noire. Tu veux vivre ou tu veux mourir ? Nous, on s'est dit qu'on pouvait vous rendre la drogue parce qu'on en a plus du tout l'utilité. Allez, on file. Tu vas bien ? Ouais, très bien et toi ? Très bien. Ravi de te recevoir à nouveau aujourd'hui. C'est dernière interview, cit il y a peut-être 3 ans et quelques. Ça faisait quelques temps. Tu es bien installé ? Je suis hyper bien, je crois. Ouais. On va décrypter. Qu'est-ce qu'on va décrypter une heure. On va décrypter. Donc décryp ça ne s'arrête pas jusqu'au bout comme ça. Euh il y a plein de sujets passionnants en vrai à aborder avec toi parce que là tu sors euh gourou euh ce sera sorti au moment où l'interview euh sera sera publiée. Il sort le 28 janvier. Euh Guru qui raconte enfin qui traite plein de thématiques différentes ultra intéressantes. C'est un thriller qui est réalisé par Yan Goselan avec qui tu as déjà travaillé sur un homme idéal ou sur boîte noire. On est on sent d'ailleurs qu'il y a une patte qui qui est très présente dans ce ce film qui est très très cool. T'incarne Matth dans ce film, le bon Matt qui est un gourou en développement personnel très influent en France dans le film et qui se laisse peu à peu dépasser en quelque sorte par la situation et donc voilà plein de choses intéressantes à aborder dessus. Tu es prêt ? On va pouvoir parler avec tout ça. Gra poursuivre l'interview, on voulait vous parler du partenaire qui nous permet de réaliser cette vidéo conto le compte pro français qui permet de créer son entreprise gratuitement. En 2025, 1,16 million d'entreprises ont été créées selon l'INC, un chiffre qui a augmenté de près de 4,9 % par rapport à 2024. Pourtant, malgré cet engouement, 40 % d'entre eux disent n",
+  "tx": "Salut Pierre. Salut. Je suis le compte de Monte Cristo. Il y a un problème avec la boîte noire. Tu veux vivre ou tu veux mourir ? Nous, on s'est dit qu'on pouvait vous rendre la drogue parce qu'on en a plus du tout l'utilité. Allez, on file. Tu vas bien ? Ouais, très bien et toi ? Très bien. Ravi de te recevoir à nouveau aujourd'hui. C'est dernière interview, cit il y a peut-être 3 ans et quelques. Ça faisait quelques temps. Tu es bien installé ? Je suis hyper bien, je crois. Ouais. On va décrypter. Qu'est-ce qu'on va décrypter une heure. On va décrypter. Donc décryp ça ne s'arrête pas … mais attends, on est allé voir un scénariste justement qui était fort en dialogue parce qu'on voulait que le personnage soit assez ambigu. Donc il y a des moments où tu te dises bah grave, il a raison quand il dit on est dans une société qui va mal, moi j'essaie juste de faire du bien à quelques personnes et pour ça je leur donne je leur redemets de la discipline, je leur redis d'aller faire du sport et des bains froids et des trucs why not en fait.\" Et d'autres moments où tu te dis bon plus questionnable et même sur la morale plus questionnable et et qu'est-ce qui se passe quand un … fais Laurel et Hardy, il faut Laurel et Hardy quoi. Faut les deux en fait. Tu as un peu toutes les vibes et on a besoin de toutes les natures et de toutes les formes et de toutes les genres de paroles et de background pour composer des films intéressants. On va tenter un truc. J'ai j'ai essayé de retrouver des phrases de justement de de sortes de gourou influenceur développement personnel sur les réseaux sociaux. On a récupéré aussi quelques phrase de de vrais philosophes de vrais philosoph on va essayer de deviner. Je vais dans le mur tu vois. Alors il y en a qui sont faciles il y en a … c'est abordé et c'est abordé sous un prix de de film qui est kiffant à mat. C'est c'est parce qu'il y a un côté vraiment thriller dedans. Mais c'est que du coup tu vois les coulisses de ce truc là aussi dans le public et les gens qui participent c'est des montants qui sont colossaux. Ouais, j'imagine qu'il y aussi du coup ouais dans les dérives là une forme de dépendance et de trucs qui se crée y compris financièrement qui peut être qui peut être immense quoi. C'est ce que il y a une scène au Sénat où mon personnage se fait un peu mettre sur le grill par une sénatrice. J'adore j'adore … et tu as plein de on va dire de complexes et tout à cet âge là. Moi j'ai commencé en 3e avec un prof d'anglais qui s'appelle monsieur album, je je salue au passage et et c'est vraiment lui qui m'a mis sur les rails de dire bah tu peux jouer des textes, ça peut raconter des choses, ça peut avoir de l'écho chez les gens et tout. Et au début, je jouais des pièces où je comprenais un peu rien ce que je disais, mais je voyais que chez les adultes, il y avait des rires, il y avait des émotions et tout et et donc moi, je dirais quand même les profs, les bons profs passionnés, c'est tellement un … ton numéro, tu donnes la feuille de présentation d'inscription puis ensuite tu te mets en place, tu dis ce que tu vas passer comme scène, scène 3, molière, machin truc. Et en fait, moi j'ai dit, j'ai dit un peu fuck that. J'ai fait un un peu genre tu sais quoi ? Ils doivent être saoulés. Je sentais le le l'endormissement dans la salle du jury, ça ils en sont à leur milliè candidat, il fait chaud et tout machin. Et du coup, je suis rentré en mode, j'ai commencé la scène, tu vois, en rentrant, j'ai dit non, de question et tout machin tout. Je sais pas si c'était bien ou pas bien mais en … des petites plages horaires pour bien jouer avec les enfants. Nous aussi pour bien faire limite des jeux de société avec des potes. Aller faire du sport aussi. Coller du sport co, c'est c'est du jeu. Moi j'aime bien faire du basket. Tout ça c'est ce rapport au jeu, c'est un ancrage au présent qui est on le sait très très bénéfique dans sur la santé mentale. Puis il y a un truc aussi de alors tu peux jouer juste pour jouer au sens pour le kiff et quand tu as un enfant évidemment que c'est ça. Mais ce qui est passionnant et ça ça a été quand même beaucoup montré, c'est que le jeu un jeu de … bande d'anne plein de choses que tu aurais pas forcément euh Ouais, j'ai découvert plein de trucs et j'ai adoré ça. J'ai adoré ça. J'ai adoré accompagner le truc et puis après quand tu tournes bah c'est toi qui doit garantir la bonne fin du tournage. Donc tu dois garantir aussi que l'argent va être bien utilisé et pas gâché. Et voilà. Sinon après tu payes de ta poche. Et aussi tu as payé de ta poche tout le développement du scénario. Ouais. Donc quand tu tournes et queil y a deux personnages dans une cabine téléphonique, ça va. Mais quand il y a 500 personnes comme dans les grandes scènes … très bien dit le côté partager des passions des trucs. Je pense que les gens il tu vois ils kiffent rire quand ils voient dans des vidéos sur YouTube comme ils kiffent te voir jouer mais il kiffent aussi t'écouter sur des trucs. Donc je trouve il y a un aspect là qui est intéressant à découvrir des passions des trucs. Mais le côté coulisse ouais tu t'en parler c'est c'est un gros truc hein. Je trouve que le c'est aussi que je trouve que le domaine tuis le métier d'acteur et ce cette dimension là, elle est elle est parfois à la fois beaucoup évoquée dans les interviews et à la fois mais oui … pas mon 06 que vous n'avez pas de problème avec moi.\" Et je trouvais ça intéressant en tout cas ce que ça ce que ça véhicule comme idée, tu vois. Et donc j'ai envie de dire aux gens, \"Calmez-vous\". Tout simplement. Tout simplement. Merci Pierre. Ouais, cool. Ça fait plaisir. On aurait pu aborder plein de sujets plein de sujets différents mais c'était passionnant deir là-dessus et et ouais très hâte de voir de voir la suite. Bah ouais. et rejoignez-moi sur les réseaux Pierre Fulmine. Pierre Fulmine et Hugo évidemment avec des belles formations, avec des très belles formations. à toutes. Salut",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -72665,7 +72702,7 @@
  "yLv1jLjYyAY": {
   "channel": "Quotidien",
   "lang": "fr",
-  "checked": "2026-11-09T03:37:01+00:00",
+  "checked": "2026-11-11T23:15:20+00:00",
   "title": "Malik Bentalha, plus présent dans Quotidien que Yann Barthès ?",
   "duration": 592,
   "published": "20261017",
@@ -72814,14 +72851,15 @@
     2
    ]
   ],
-  "tx": "Bonsoir Malik Bentalha. Comment ça ? Ça va super. Mais je suis ravi de vous revoir, ça fait longtemps, ça doit faire au moins une semaine. Une semaine ouais, quelques en tout cas quelques jours. Ravi de recevoir une nouvelle fois le cul d'or de l'humour 2026. aussi. Bah 2027 c'est pas fait. C'est pas encore mais 2027 c'est fait. Ah d'accord alors peut-être le 2027 je sais pas. Nouveau monde, c'est toujours en tournée. 18 et 19 novembre au Dôme de Paris dans quelques jours sur Disney Plus, il y aura le Marrakech Comedy Festival. Tu étais venu ici avant. Oui. C'était en juin je pense. C'était en juin exactement. On dirait que c'était hier écoute. Ah ça passe à une allure Yann, c'est vrai. Vitesse. Et donc maintenant tu passes après et comment ça s'est ? Donc ça a été tourné en juin. Ça a été Tu me poses trop de questions Yann. Je sais pas là, les trucs mémotechniques je sais pas. j'expliquais et la question c'est comment ça s'est ? Tu es super. Mais ça s'est super bien passé. C'est ? Allez la chronique d'Etienne. Le transpi canap. Non en plus heureusement c'était magnifique, on a été accueillis au Maroc, c'était merveilleux, il y avait une de vos chroniqueuses aussi qui a été extraordinaire. Sarah Lélé. Ouais. Younes Hanifi, Meriem Benoua, ça a été extraordinaire et j'ai hâte que que ça soit diffusé vendredi. Vendredi 16. Et c'est c'est enregistré sur combien de ? C'est sur un mois. Non c'est enregistré sur deux soirées. D'accord. C'est enregistré sur deux soirées et après on fait un un mix des des meilleurs moments et et c'est ce qu'on va voir ce vendredi justement. J'ai j'ai hâte de de livrer ça au public. Alors l'humour, l'amour, la la fraternité, c'est ton mantra. C'est un peu utopique. Tu y crois vraiment Tu y crois ? Écoute j'y crois en tout cas et c'est le moment d",
+  "tx": "Bonsoir Malik Bentalha. Comment ça ? Ça va super. Mais je suis ravi de vous revoir, ça fait longtemps, ça doit faire au moins une semaine. Une semaine ouais, quelques en tout cas quelques jours. Ravi de recevoir une nouvelle fois le cul d'or de l'humour 2026. aussi. Bah 2027 c'est pas fait. C'est pas encore mais 2027 c'est fait. Ah d'accord alors peut-être le 2027 je sais pas. Nouveau monde, c'est toujours en tournée. 18 et 19 novembre au Dôme de Paris dans quelques jours sur Disney Plus, il y aura le Marrakech Comedy Festival. Tu étais venu ici avant. Oui. C'était en juin je pense. C'était … plus heureusement c'était magnifique, on a été accueillis au Maroc, c'était merveilleux, il y avait une de vos chroniqueuses aussi qui a été extraordinaire. Sarah Lélé. Ouais. Younes Hanifi, Meriem Benoua, ça a été extraordinaire et j'ai hâte que que ça soit diffusé vendredi. Vendredi 16. Et c'est c'est enregistré sur combien de ? C'est sur un mois. Non c'est enregistré sur deux soirées. D'accord. C'est enregistré sur deux soirées et après on fait un un mix des des meilleurs moments et et c'est ce qu'on va voir ce vendredi justement. J'ai j'ai hâte de de livrer ça au public. Alors l'humour, … comme ? Évidemment, je suis tout cœur avec les lycéens. J'étais très touché par le discours des des des invités euh juste avant. Je les ai croisés, je les ai félicités pour le combat. C'est un combat nécessaire et qui de mieux que que que ces jeunes-là pour préparer l'avenir et notre avenir, l'avenir de nos enfants aussi. Donc je les soutiens et je suis à fond derrière eux. Tu étais quel genre de ? J'étais turbulent et très bon élève à l'école. C'est assez frustrant pour les profs. C'est-à-dire que ils me goalaient faire des conneries. dire. Ils pouvaient rien dire. J'avais les … Est-ce que l'humour qui vient de Paris passe toujours à ? Ah ben en en général, l'humour drôle passe partout hein. Parce que moi j'aime beaucoup l'humour, ça me fait rire, je trouve ça marrant. D'accord. Et en général, quand c'est drôle, ça passe partout. D'accord. Vraiment. ? Tout, partout. Everywhere stage. Everywhere stage, OK, d'accord. On t'a on t'a demandé de choisir un extrait, tu as choisi ? Bah, justement pour pour Sarah pour rendre hommage à l'émission et à ses chroniques qui me font hurler de rire. L'excellente Sarah Lélée en extrait à Marrakech. Et moi je peux vous dire, … il y a un gars, il s'est levé, il lui a dit \"C'est donc ça que tu appelles la ?\" Et Sarah Leli qui est là tous les vendredis ici dans le Quotidien. Et euh Sarah aussi fait partie d'une de tes dernières parodies. Oui, on a eu la chance de partager une parodie ensemble qui est une parodie de Sur ? C'était sur Djoul et Théodora. Oui, c'est ça. Ouais, et on voulait s'amuser et on s'est amusé. Et puis euh et on a bien ri, c'est ça. Tu es jaloux ? Tu es obsédé par Djoul toi. J'aime beaucoup Djoul. J'aime ? J'aime énormément Djoul parce que c'est un artiste qui n'a jamais lâché sa vision. … Marrakech euh Comédie Festival. À Marrakech. Euh c'est Meriem Benouah, elle était venue ici avec toi euh pour euh Extraordinaire Meriem. Voilà, extrait. C'est la première fois de ma vie que je vis avec quelqu'un et c'est fou de vivre avec quelqu'un, je vous jure, parce qu'il faut montrer son vrai visage, tu vois. Et moi je suis très timide et je suis très pudique dans dans la vie et il y a un cap que j'arrive pas à passer, là je vais vous parler avec le cœur, ? Comment est-ce que vous faites pour que du jour au lendemain vous mettiez à péter devant votre ? Comment vous ? C'est une vraie … Exactement, c'était juste avant la waouh waouh en en format en plus 18/9e là C'est euh en plus tu sais c'était le flow à l'époque on mettait une veste de smock avec une paire de baskets, ça veut dire on est mature mais on a on est jeune c'est un peu comme D'accord. Il y avait un Alors habituellement on fait les trois figures de Jean-Michel Apathie et on va faire les trois les quatre Pourquoi il est ? Bah il est parti il et ben il tu tu as dû le croiser en partant. Il il il fumait un joint il était juste Les trois figures de Malik de Malik Bentalha. Excuse-moi Yann, c'est le stress après. Ah … le il est beau, il est Ça lui a aussi Il est ? Mais je regarde pas parce qu'il est beau. Voilà. Il est beau et le ton sur ton ne c'est magnifique, ça lui va bien, il est cravaté noir. Et donc tu aimes ? Euh si si si charismatique, c'est c'est il est ténébreux, il est je je lui souhaite tout le bonheur du monde, c'est mon héros et vive Zinedine Zidane. Ah ? Pourquoi Alex ? Alex Lutz c'est le c'est la personne qui a changé ma vie euh parce qu'il m'a découvert en 2007 au moment où j'allais tout arrêter et euh il m'a mis en scène, il s'est porté garant pour mes premiers apparts quand j'avais … Zidane, en fait, ce que j'aimais avec Zidane, c'est c'est Le sketch a fait combien de ? Ah enfin, on est on est plusieurs plusieurs millions hein, plusieurs dizaines de millions et c'est un sketch euh c'est ça ça me touche beaucoup parce qu'on m'en parle encore aujourd'hui dans la rue et et et c'est quelque chose, je pense Ça dit quoi le fait que ça ait fait des des des millions de vues comme ? Je pense que c'est arrivé à un moment où on avait besoin euh On en avait envie. On en avait envie. Moi qui ai grandi avec les Guignols de l'info notamment, c'est vrai qu'on avait plus de … à tous dans L'heure de trop. Nous accueillons aujourd'hui l'imam de Nancy, monsieur Arbouney. On rappelle que vous êtes président d'honneur de la Confédération des imams de France, docteur en théologie musulmane, chercheur au CNRS, grand donateur pour l'association Un couscous tous pour un, double médaillé olympique d'Islam, professeur de muay-thaï au Kremlin-Bicêtre, charmante ville qu'on salue au passage, auteur des romans à succès \"Pour un islam sans les Arabes\" et vous sortez votre nouvel ouvrage \"Les musulmans stop\". Vous restez avec ? Oui, bien sûr. 20h50 sur CNews de Julien Bellver.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "AzkXGtDcMT0": {
   "channel": "JOYCA",
   "lang": "fr",
-  "checked": "2026-11-09T03:39:37+00:00",
+  "checked": "2026-11-11T23:18:00+00:00",
   "title": "ON TESTE 29 FRUITS BIZARRES (ft. Amixem, Thomas Deseur)",
   "duration": 3950,
   "published": "20251207",
@@ -72994,14 +73032,15 @@
     3
    ]
   ],
-  "tx": "Savez-vous comment on appelle la graine des fraises ? Non. Non. Et ben Anthony va nous le dire parce que j'ai oublié. C'est quoi le nom des Aken ? Les akenesaton. Rappelle-toi. Merci. Je demandé à Anthony. Pas pas toi connard. Les Aken. Tu te rappelles des que des zoomes. Quelle chaîne ! Quelle chaîne incroyable. C'est vrai. Attends, on peut se repasser quelques classiques pour les gens. On fait des sandwich. On attache un lustre. Pour moi, un classique. On va d'un point B. Ah ouais, quel be exceptionnel. Hop là, cette fois je l'ai enlevé. Bonjour tout le monde. Vous revoilà réuni. Mais oui, Jordan utilise pour son microcravat des a des Doritos, enfin des Doritos faits en gaffeur. Voilà. Alors, ça c'est un torsein berbe et magnifique. Regardez ce que ça me fait à moi. Je vous ai réuni et j'ai réuni cette sorte d'Avengers. Je sais pas si c'est DC Comics ou Avengers. Prenons Avengers. Si on parle ciné, prenons Avengers. Si on parle ciné, un film au top à conseillé et j'aimerais que toutes les 10 minutes il y en aient un qui pope de manière random tu goûtes un fruit, tu lâches une rêve de film très cool à voir. OK le film Anette vrai. Merci pour ça. On mettra simplement l'affiche et c'est une petite injection de cinéma dans la gueule des gens. Je pense que je dois avoir une allergie. J'ai mal en haut du torse. Je crois ça me gratte. Alors c'est des plantes urtitantes parce qu'on voulait vraiment pousser le truc de la jungle. Ah mais oui et en fait je saais pas le dire. Bête. Je vais me promener vite fait. Je vous laisse animer explorer un peu. Le scotch qui permet le scotch qui permet de verrouiller ses microphones, c'est du gaffeur ni plus ni moins. C'est pas hyper conseillé pour les non. Oh non non non. La déco par pitié c'est des vraies plantes. Je vous entends pas, je ",
+  "tx": "Savez-vous comment on appelle la graine des fraises ? Non. Non. Et ben Anthony va nous le dire parce que j'ai oublié. C'est quoi le nom des Aken ? Les akenesaton. Rappelle-toi. Merci. Je demandé à Anthony. Pas pas toi connard. Les Aken. Tu te rappelles des que des zoomes. Quelle chaîne ! Quelle chaîne incroyable. C'est vrai. Attends, on peut se repasser quelques classiques pour les gens. On fait des sandwich. On attache un lustre. Pour moi, un classique. On va d'un point B. Ah ouais, quel be exceptionnel. Hop là, cette fois je l'ai enlevé. Bonjour tout le monde. Vous revoilà réuni. Mais oui, … aucun goût. T simplement un skin de fruits à 400 V-Bucks pour moi. C'est assez étrange parce que c'est vrai qu' en goût c'est pas le plus ouf mais c'est quand même agréable à manger quoi. Et là on dirait qu'on mange. Je sais pas si vous allez me suivre là-dessus, si tu vas me suivre là-dessus, mais un peu comme si tu prenais du sésame. Exactement. Les petites graines, c'est ça. Et pour moi, le goût est un kiwi avec 20 % de goût de kiwi. Tu vois, c'est un kiwi mais très euh beaucoup de dos. Pour les gens niveau texture, c'est un avocat. Un avocat un peu trop mû. Ah ! Oui, il y a un peu une … fruit qui est extraordinairement beau. Waouh ! La DR est folle. Très dur de faire. Meilleur que ça. Ouais. Une fraise ananas. Ah là c'est un orgasme. J'ai eu un orgasme aussi sexuel là Anthony. Ça c'est excellent de malade. Pourquoi on découvre ça maintenant ? Pourquoi fait pas ça plus de dire fruit est excellent celui-là aussi mixonsl ? Non, je trouve ça super mais je crois que ça changera rien montre train de vide dépressif est ta citurne c'est des fraises blanches. Ça reste des fraises. J'en mangerai un bunker. Et pourquoi ? Pourquoi ananas ? C'est la seule question que je pose. Tu vas … l'a déjà fait dans Maxime. Donc, on passe cette séquence là puis on passe à un fruit. Non, je l'ais aussi chez moi. Tu veux prendre notre séquence ? Non, ce qu'on va faire, c'est qu'on va superposer les deux séquences. On va voir si les avis sont exactement les mêmes. Essayer de vous souvenir des vannes et tout. Souvent dans Top Chef, je me rappelle ce que j'ai dit à l'époque, dans Top Chef, il utilise souvent ce trucl. Je regarde Top Chef tous les ans. Moi à chaque fois il y a un mec qui te sort du citron cavière. Les avantages du citron sans les inconvénient. Ah si ça quand même les … ? Vieux cette blague. Attends, la présentation est folle. Ce que tu tiens dans la main, c'est ça, c'est du lait concentré et ça c'est une noix de coco germée. Et vous allez voir que l'intérieur en fait, c'est incroyable parce que l'eau se durcit. Ça fait comme une espèce de mousse qui peut remplacer le pain dans certaines régions du monde. Tu peux saucer, tu peux tu peux tu peux accompagner avec des trucs. Il faut tremper du coup l'eau qui est devenu mousse. C'est dingue. Toute l'expérience est folle. Un coup de ch dans la gueule. Oh, c'est top hein. Oh là là. Non mais Anthony, … je me désabonne à ta chaîne tous les quart d'heure depuis 2 ans. Pourquoi ? Bah j'ai envie d'avoir une relation toxique avec toi. Tu es OK ? Bah tu sais quoi ? Je te capte. Oh ça je connais, je connais. Devinez ce que c'est les noyaux de tout à l'heure ? On va se péter les dents là. Ah dedans et regarde, c'est une maracass. Ah ouais. Allez, je viens avec vous. On joue un petit truc. C'est une noisette. Non. Mathie qui gâche tout le certo en disant le fruit à coque le plus commun qui existe, c'est une noix de coco. C'est la plus petite noix de coco du monde. Ça s'appelle la coquito. Donc ça … si prêt. Ouvre fruit. Oh ! Mano ! Bravo ! Mélano sur ma main pour m'épouser. Alors ça c'est en fait un concombre. Bah oui mais enfin en même temps si tu précises des banalité tu c'est originaire d'Afrique. Le flow ! Le flow ! Ah c'est le plus beau. Il est exceptionnel on dirait Rick Mortti. Je sais pas pourquoi. Complètement à fruit dans Ric Morty. C'est exact. Ah ouais je l'ai je le cou c'est designé par Unia c'est sûr. Anthony, on t'avait dit pas de fruit généré par Unia. Bonjour Anthony. Non mais mec le non non non il est trop incroyable. Alors sachez qu'on va vous mettre le promp utilisé … je fais ah pour aller jusqu'à Ranger fruit suivant. J'ai découvert une chose qui m'a surpris, c'est que les fruits qu'on goûte là en fait, il y a tellement de choses qu'on ne connaît pas sur cette planète Terre comme par exemple le fait qu'elle est ronde et qu'elle tourne autour du soleil et pas l'inverse. Je l'ai découvert hier. Hier, je vous dis c'était Galilée. Poov, tu es Galilée. J'ai découvert découvert hier. que le soleil ne tourne pas comme ça parce qu'il est trop gros. Po tu es l'église catholique et tu écoutes ça au 1400, on le brûle. Il y a un des fruits qui m'a provoqué, qui m'a … les dates sont pas annoncé encore. Je me disais on a fait les fruits bizarres. Est-ce qu'on fait la même chose avec les fromages ? Voilà. À vous de le dire. C'est du champagne là qui arrive. Oui, c'est chamb. Alors là, le packaging est dingo. La boîte, elle pose dans l'arbre comme ça. Ça c'est le coco la boîte et dedans alors là silence musique qui colle parfaitement bien avec ce qui va se passer. Anthony, on t'écoute. Ici, on a deux pièces d'un fruit quasiment unique au monde. C'est-à-dire qu'en fait, je savais que ce fruit existait et je sais qui fait pousser ça. Donc, j'en ai parlé à … est nickel et vraiment il est au top. L'odeur est au top. Encore une fois, je vous mets ça dans la description. Merci à eux. Merci Anthony. C'est moi qui vous remercie les gars. Merci Anthony. Tu as été chercher des fruits de ma boule et ça se voit que tu es vraiment passionné. On a bien mangé le fruit de son travail. Oh merci merci beaucoup pour ça. Merci de nous avoir fait découvrir tout ça. L'ananas tout et tout incroyable. Et voilà j'espère que ça vous a plu aussi. On se retrouve la semaine prochaine superbement pour une nouvelle vidéo. Ilembarque tous les fruits. Merci à Mix. Allez ciao.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "OcCNH9gjJ1o": {
   "channel": "JOYCA",
   "lang": "fr",
-  "checked": "2026-11-09T03:39:55+00:00",
+  "checked": "2026-11-11T23:18:17+00:00",
   "title": "24H POUR RÉALISER 3 TRICKS !",
   "duration": 2382,
   "published": "20250914",
@@ -73174,7 +73213,8 @@
     3
    ]
   ],
-  "tx": "OK, je ne sors pas de cette pièce tant que j'ai pas réussi ces trois épreuves et la première, il faut que je fasse un cercle parfait à 95 % minimum. Du coup, c'est pas vraiment un cercle parfait en fait. Un cercle parfait, ce serait 100 % Ferme là. Ferme. Le cercle que vous avez ici, on l'a fait avec un compas, c'est-à-dire que il est parfait. En gros, je sais pas comment je vais m'y prendre. Surtout que j'ai deux autres épreuves. Après, je remercie d'ailleurs Revolut de m'accompagner sur cette vidéo là et on en parle juste après. Tranquille. Je vous jure que ça me met une presse. Ça me met une pression parce que je me suis dit sur le papier, allez vas-y, je vais les manger les épreuves. Non non, tu vas en chier là. Et si je m'infichi pour vous ma communauté. J'espère que vous allez adorer et que vous serez présents pour mettre des comi comiis, des petits commentaires. Commentos un cercle parfait ? Ça m'angoisse. Ça m'angoisse. Maître, s'il vous plaît, j'ai une question. Ferme ta gueule. Ferme ta gueule. Est-ce que je peux aller faire pipi ? Nique ta grand-mère maintenant. Monsieur, ça veut dire quoi ? Nique ta grand Ça veut dire ta grand-mère. Je la baise en fait. Je besoin de c'est comme un peu les zoomis déjà besoin de décharger un peu avant de me concentrer et d'obtenir du premier coup un cercle parfait. Si votre zob il a cette gueule là, il faut vraiment consulter, faut enlever le capuchon pour faire un truc. Juste avant que je le fasse, il y a une seule personne qui détient le record du cercle à main levée. Je crois que c'est 97,9 % dans ces eau là. Et le cercle qu'il a fait, c'est celui-ci. Cet homme est le go et cette vidéo que vous venez de voir, elle a 17 ans et moi petit con que je suis là, je viens et je dis je vais faire un cercle à 95 %. Donc déjà ma métho",
+  "tx": "OK, je ne sors pas de cette pièce tant que j'ai pas réussi ces trois épreuves et la première, il faut que je fasse un cercle parfait à 95 % minimum. Du coup, c'est pas vraiment un cercle parfait en fait. Un cercle parfait, ce serait 100 % Ferme là. Ferme. Le cercle que vous avez ici, on l'a fait avec un compas, c'est-à-dire que il est parfait. En gros, je sais pas comment je vais m'y prendre. Surtout que j'ai deux autres épreuves. Après, je remercie d'ailleurs Revolut de m'accompagner sur cette vidéo là et on en parle juste après. Tranquille. Je vous jure que ça me met une presse. Ça me met … of you going a little bit faster. Yes. Ok. That's it. That's it. Oh, it's good. It's good. But a little bit. What I will do, I will try try and try and try again and I will send you a picture when I have the final one. Is that good for you? I'm on the way. I have the techniques. Fast further connect. No DNC people Alexander avec Alexandre tout est en cercle mais en fait je l'ai c'est la connexion en bas il faut que je connecte en bas il faut que je connecte en bas et ça va de connecter en bas j'ai enchaîné beaucoup de cercles et à chaque fois j'étais surpris mais ils sont géniaux mes … ! Allez, c'est parti. Je suis fichu. Les premiers lancés sont à chier et c'est précisément là, c'està-dire dès le début, que je me suis dit que ça allait pas être si simple. Fait chier. Elle part derrière. Ça va être long. Pichnet. Pich mais mais par derrière, par derrière. J'ai un problème de rotation. Et puis à force de lancer, je commence à voir un petit début de boomerang dans les cartes. Pichenette, pas mal. Pichenette. E pichenette. Oui, c'est pas mal ça. J'apprends juste pour l'instant la pichenette. Pichen nette. mais attends, je suis en train de me dire que je peux, ça y est, j'ai … toutes les cartes seront récupérées et on fera un kems géant à la fin. Je vous montre les signes du camou pou. Je crois que c'est mon cri qui mide. Pchou pchou pacha pacha mam pou. cul. Bon, jusqu'à maintenant, là où je suis très heureux, c'est que je vois une progression claire. Vraiment, le cercle m'a mis dans une confiance énorme. Dans ma tête, je pars du principe que je vais pas rester 4 heures d'affilé dessus. Si ça se trouve, je vais attaquer les couteaux à 2h du matin. Ah oui, d'ailleurs Mathieu, tu peux montrer ce que j'ai parce que j'ai dit que je sortirai pas d'ici donc … fait monter le crâne. J'arrive pas, j'arrive pas. J'ai jamais gonflé un ballon aussi gros. Il est énorme. J'ai plus de J'ai plus d'espace. J'arrive pas. C'est une dinguerie pichenette. OK, nouvelle carte, il est temps de changer un peu. Voilà, on était sur Bicycle. J'adore les cartes Bicycle. Et ben, je change de cartes. Après presque 500 lancés, je décide de changer de cartes pour en prendre des légèrement plus rigides. Elles sont un peu plus dures celles-là. Est-ce que ce serait pas une bonne nouvelle ? Ah, j'ai un bon feeling. Et c'est moi où j'ai j'ai un peu plus cet effet de boomerang … de change ultra compétitif. Et ça, ça se passe directement dans l'application. Ça vous fait quand même des belles économies. Il y a pas que ça comme avantage. Vous pouvez aussi obtenir une SIM dans le pays de votre choix pour éviter les hors forfait par exemple. C'est beaucoup de cartes. Et bien sûr, n'oubliez pas, vous avez le lien dans la description pour récupérer vos 20 balles offerts. Et c'est le dernier paquet 13. Et le chiffre 13, qu'est-ce que c'est ? Je crois que c'est le chiffre de la chance. Non, c'est bon. Super. Faut que je clappe. Dernière épreuve. Dernière épreuve, le … ce qu'il m'avait dit comme une lumière divine. Regardez là. Marcus. Oui, je vais chercher dans la mémoire le visio. La pomme, elle est pas collée à la cible. Il y a à peu près cet espace là qu'il faut faire en step arrière. J'avais pas pris cette info. Pourtant Marcus me l'a dit. Ah merde, j'ai pas fait exprès. Bob, excuse-moi. Tu ne payes rien pour Oui, vous allez voir que je suis parti pour un petit moment là. Surtout que pour l'instant, j'arrive à planter dans la première cible ou mais pas la deuxième. Oh merde ! Ou oh là là là là ! Donnez-moi une cigarette Loulou. Tuas une cigarette … Bobby. Un de mes problèmes, c'est que j'ai plein de couteaux de taille et de poids différents et forcément bah c'est pas optimisé. Ah eux ils veulent pas rentrer. Ça m' remis les idées en place là. O wich c'est ça qu'il me fallait. Fallait que je me colle la tête. Est-ce que c'est pas simplement que je suis dans le coma et que je viens de rêver de de ça ? Je sais pas. 1 2 3 4 et 5. Je pense que je suis dans le comat. C'est fou, il vient de faire deux fois d'affilé là. Fr, je m'en branle même si je suis dans le coma. Continuez de filmer. Maintenant que je sais planter ici et que j'ai les … les deux dans le min. Il est 2h du matin. Ça fait du coup depuis 11h que je suis enfermé là et que j'ai décidé de m'enfermer là pour finir ces épreuves. Alors de sa mère, je vais finir. Je vais finir. Oui. Ah 1 2 Bob, je sais plus quoi te dire au bout d'un moment. Il faut que ça s'arrête. C'est la fin mon pote. Je lui ai fait une toute petite entaille sur la tête. À quelques centimètres près, j'étais en plein dedans. Ah, c'est dur. Et cette de pomme, je l'ai touché plusieurs fois même. Mais j'ai pas encore réussi à planter mon couteau dedans. J'en ai plein le cul, aucun monde. Où je dors … là. Et je mettais mon chapeau à l'envers depuis le début. En fait, il se met dans ce sens-là. Je viens de le voir, il y avait une étiquette, elle était à l'arrière. Tiens, regarde la petite claque en slow motion là, je te la mets. Et merci à Revolu d'avoir sponsorisé la vidéo. Évidemment, vous avez tous les liens dans la description. N'oubliez pas une chose, persévérreer. Mais la persévérance, ça ne marche que si on analyse, on prend du recul parce que faire des erreurs, c'est la bonne chose. Les échec, c'est pas des échecs, c'est des expériences. Ciao. Comment je fais pour partir du décor ?",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },

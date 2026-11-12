@@ -10586,7 +10586,7 @@
  "a7FlrgMkNMM": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-05T15:04:26+00:00",
+  "checked": "2026-11-11T22:41:47+00:00",
   "title": "AfD gewinnt in Sachsen-Anhalt! Kann sie jetzt regieren? | #analyse",
   "duration": 698,
   "published": "20260907",
@@ -10594,16 +10594,105 @@
   "spoken_v": 2,
   "pace": 186.0,
   "rare": 0.0499,
+  "var": 0.8197,
   "speech_s": 659.5,
   "tokens": 2045,
   "kw": [
    [
-    "bsw",
-    "BSW: 5,2 Prozent. Und sonstige Parteien: 4,1 Prozent.",
-    70,
-    77,
-    2.61,
-    8
+    "afd",
+    "Stärkste Kraft wird mit großem Abstand die AfD.",
+    2,
+    6,
+    5.16,
+    39
+   ],
+   [
+    "cdu",
+    "Die CDU, aktuell noch Regierungspartei, stellt den Ministerpräsidenten Sven Schulze,",
+    47,
+    52,
+    5.15,
+    22
+   ],
+   [
+    "sachsen",
+    "Die Landtagswahl in Sachsen-Anhalt ist vorbei.",
+    0,
+    3,
+    4.83,
+    22
+   ],
+   [
+    "wahl",
+    "Der größte Sieger bei dieser Wahl ist aber natürlich die AfD.",
+    118,
+    122,
+    5.19,
+    13
+   ],
+   [
+    "anhalt",
+    "Die Landtagswahl in Sachsen-Anhalt ist vorbei.",
+    0,
+    3,
+    4.34,
+    22
+   ],
+   [
+    "mehrheit",
+    "Und diese Regierung braucht eine absolute Mehrheit.",
+    182,
+    186,
+    4.73,
+    7
+   ],
+   [
+    "künftig",
+    "Die FDP ist künftig nicht mehr im Landtag vertreten,",
+    62,
+    66,
+    4.37,
+    7
+   ],
+   [
+    "ausgeschlossen",
+    "Das hat sie aber schon vor einiger Zeit ausgeschlossen,",
+    227,
+    231,
+    4.52,
+    5
+   ],
+   [
+    "ministerpräsidenten",
+    "auch die nächste Regierung und den Ministerpräsidenten stellen?",
+    6,
+    10,
+    3.85,
+    7
+   ],
+   [
+    "landtagswahl",
+    "Die Landtagswahl in Sachsen-Anhalt ist vorbei.",
+    0,
+    3,
+    3.97,
+    5
+   ],
+   [
+    "sven",
+    "stellt den Ministerpräsidenten Sven Schulze, kommt auf 17,2 Prozent.",
+    49,
+    55,
+    4.03,
+    4
+   ],
+   [
+    "schulze",
+    "stellt den Ministerpräsidenten Sven Schulze, kommt auf 17,2 Prozent.",
+    49,
+    55,
+    3.87,
+    4
    ],
    [
     "siegmund",
@@ -10611,6 +10700,38 @@
     251,
     254,
     3.13,
+    8
+   ],
+   [
+    "verlinkt",
+    "Endgültige Zahlen findet ihr unten in der Infobox verlinkt.",
+    30,
+    34,
+    3.52,
+    5
+   ],
+   [
+    "bundesebene",
+    "den man auch in anderen Bundes- ländern und auf Bundesebene sieht.",
+    491,
+    495,
+    3.58,
+    3
+   ],
+   [
+    "endergebnis",
+    "Ein amtliches Endergebnis zur Landtagswahl in Sachsen-Anhalt",
+    19,
+    22,
+    3.47,
+    3
+   ],
+   [
+    "bsw",
+    "BSW: 5,2 Prozent. Und sonstige Parteien: 4,1 Prozent.",
+    70,
+    77,
+    2.61,
     8
    ],
    [
@@ -10630,106 +10751,18 @@
     4
    ],
    [
-    "verlinkt",
-    "Endgültige Zahlen findet ihr unten in der Infobox verlinkt.",
-    30,
-    34,
-    3.52,
-    5
-   ],
-   [
-    "ministerpräsidenten",
-    "auch die nächste Regierung und den Ministerpräsidenten stellen?",
-    6,
-    10,
-    3.85,
-    7
-   ],
-   [
-    "stimmenanteile",
-    "Und die CDU halbiert ihre Stimmenanteile ungefähr",
-    99,
-    103,
-    2.0,
+    "wahlabend",
+    "am Wahlabend angesprochen. Er wurde gefragt, ob diese Brandmauer weiter Bestand hätte.",
+    303,
+    308,
+    2.87,
     2
-   ],
-   [
-    "alleinregierung",
-    "Das heißt, mit diesen Zahlen ist weder eine Alleinregierung der AfD",
-    233,
-    237,
-    2.37,
-    2
-   ],
-   [
-    "afd",
-    "Stärkste Kraft wird mit großem Abstand die AfD.",
-    2,
-    6,
-    5.16,
-    39
-   ],
-   [
-    "sachsen",
-    "Die Landtagswahl in Sachsen-Anhalt ist vorbei.",
-    0,
-    3,
-    4.83,
-    22
-   ],
-   [
-    "cdu",
-    "Die CDU, aktuell noch Regierungspartei, stellt den Ministerpräsidenten Sven Schulze,",
-    47,
-    52,
-    5.15,
-    22
-   ],
-   [
-    "anhalt",
-    "Die Landtagswahl in Sachsen-Anhalt ist vorbei.",
-    0,
-    3,
-    4.34,
-    22
-   ],
-   [
-    "wahl",
-    "Der größte Sieger bei dieser Wahl ist aber natürlich die AfD.",
-    118,
-    122,
-    5.19,
-    13
-   ],
-   [
-    "regierung",
-    "auch die nächste Regierung und den Ministerpräsidenten stellen?",
-    6,
-    10,
-    5.23,
-    12
-   ],
-   [
-    "prozent",
-    "kommt auf 17,2 Prozent. Die AfD: 44,4 Prozent.",
-    51,
-    58,
-    5.22,
-    12
-   ],
-   [
-    "ergebnis",
-    "Wie lautet das Ergebnis der Landtagswahl in Sachsen-Anhalt?",
-    37,
-    41,
-    4.99,
-    10
    ]
   ],
-  "tx": "Die Landtagswahl in Sachsen-Anhalt ist vorbei. Stärkste Kraft wird mit großem Abstand die AfD. Aber könnte die AfD auch die nächste Regierung und den Ministerpräsidenten stellen? Mehr dazu jetzt. (Helle Klänge) Zu Beginn dieses Videos hier, wie so oft an dieser Stelle, ein kurzer Hinweis. Ich drehe dieses Video in der Nacht von Sonntag auf Montag. Ein amtliches Endergebnis zur Landtagswahl in Sachsen-Anhalt liegt noch nicht vor, aber Hochrechnungen, die diesem Endergebnis mutmaßlich sehr nahe kommen. Deshalb sind diese Zahlen hier im Video vorläufig. Endgültige Zahlen findet ihr unten in der Infobox verlinkt. Damit sind wir auch schon direkt bei der ersten Frage in diesem Video hier nämlich: Wie lautet das Ergebnis der Landtagswahl in Sachsen-Anhalt? Wie gesagt, es gibt noch kein amtliches Endergebnis, aber es gibt Zahlen, die dem Ergebnis mutmaßlich sehr nahe kommen. Und die sehen so aus: Die CDU, aktuell noch Regierungspartei, stellt den Ministerpräsidenten Sven Schulze, kommt auf 17,2 Prozent. Die AfD: 44,4 Prozent. Die Linke: 8,6 Prozent. SPD: 9,1 Prozent. Die FDP ist künftig nicht mehr im Landtag vertreten, nur noch 2,5 Prozent. Die Grünen: 8,9 Prozent. BSW: 5,2 Prozent. Und sonstige Parteien: 4,1 Prozent. Es ist ein Ergebnis, das sich in Umfragen in den vergangenen Wochen und Monaten schon angedeutet hatte. Für die AfD ist es das beste Ergebnis, das jemals eine Partei in Sachsen-Anhalt bei Landtagswahlen seit 1990 erreicht hat. Für die bisherige Regierung von Sachsen-Anhalt, bestehend aus CDU, SPD und FDP, ist es dagegen eine deutliche Niederlage. Die FDP wird, wie vorhin schon kurz erwähnt, künftig nicht mehr im Landtag in Magdeburg vertreten sein. Und die CDU halbiert ihre Stimmenanteile ungefähr im Vergleich zur letzten Landtagswahl von 2021. Nur die SPD kann i",
+  "tx": "Die Landtagswahl in Sachsen-Anhalt ist vorbei. Stärkste Kraft wird mit großem Abstand die AfD. Aber könnte die AfD auch die nächste Regierung und den Ministerpräsidenten stellen? Mehr dazu jetzt. (Helle Klänge) Zu Beginn dieses Videos hier, wie so oft an dieser Stelle, ein kurzer Hinweis. Ich drehe dieses Video in der Nacht von Sonntag auf Montag. Ein amtliches Endergebnis zur Landtagswahl in Sachsen-Anhalt liegt noch nicht vor, aber Hochrechnungen, die diesem Endergebnis mutmaßlich sehr nahe kommen. Deshalb sind diese Zahlen hier im Video vorläufig. Endgültige Zahlen findet ihr unten in der … bei Landtagswahlen seit 1990 erreicht hat. Für die bisherige Regierung von Sachsen-Anhalt, bestehend aus CDU, SPD und FDP, ist es dagegen eine deutliche Niederlage. Die FDP wird, wie vorhin schon kurz erwähnt, künftig nicht mehr im Landtag in Magdeburg vertreten sein. Und die CDU halbiert ihre Stimmenanteile ungefähr im Vergleich zur letzten Landtagswahl von 2021. Nur die SPD kann ihre Stimmenanteile ungefähr halten. Einen Erfolg gibt es für die Grünen, sie können leicht zulegen. Und auch einen Erfolg gibt es für das BSW. Das BSW schafft es über die Fünfprozenthürde und wird … Wahl in dieser Reihenfolge: Soziale Sicherheit, Frieden in Europa, Wirtschaft. Viele Themen davon sind eher Bundesthemen als Landesthemen. So viel kurz zu den Hintergründen. Wenn euch das ausführlicher interessiert, schaut gerne in die Infobox, dort habe ich etwas dazu verlinkt. Aber die entscheidende Frage ist natürlich: Denn am Ende muss ja eine Regierung stehen mit einem Ministerpräsidenten. Und diese Regierung braucht eine absolute Mehrheit. Insgesamt gibt es im Landtag von Sachsen-Anhalt 83 Sitze. Zumindest Stand jetzt, das kann sich noch durch Überhang- und Ausgleichsmandate … weder eine Alleinregierung der AfD mit absoluter Mehrheit möglich, noch eine Regierungskoalition mit absoluter Mehrheit gegen die AfD. Was bleibt dann? Es sind zwei Optionen. Das Erste wäre eine Minderheitsregierung. Entweder angeführt von der AfD, das hatte die AfD aber vor der Wahl ausgeschlossen. Und jetzt nach der Wahl schließt Ulrich Siegmund das im Interview im ZDF-heute-Journal auch aus. Oder aber eine Minderheitsregierung angeführt von der CDU. Allerdings müssen sich dafür sehr viele Parteien zusammentun. Das scheint sehr unwahrscheinlich. Oder aber zweitens: Es gibt eine … Ja, da gibt es Beschlüsse, aber jetzt haben wir eben diese Zahlen. Weiter ist er nicht ins Detail gegangen. Gleichzeitig gab es Stimmen aus der Bundes-CDU, die eindeutig gesagt haben, dass es keine Zusammenarbeit mit der AfD geben würde, unter anderem von der CDU-Generalsekretärin. Und auf der anderen Seite gibt es die Option einer Zusammenarbeit zwischen AfD und BSW. Das BSW hat vor der Wahl und auch jetzt nach der Wahl betont, man würde Siegmund, den Spitzenkandidaten der AfD, nicht zum Ministerpräsidenten wählen. Gleichzeitig hat man aber auch gesagt, in einem möglichen dritten Wahlgang, … gibt aus anderen Parteien zur AfD, insbesondere von der CDU und unter Umständen auch vom BSW. Vor der Wahl hat Ulrich Siegmund klar gesagt, er wolle stabile Verhältnisse, er wolle eine Alleinregierung und mit anderen Parteien würde es momentan einfach nicht passen. Nach der Wahl wiederum hat Siegmund betont, die Hand sei ausgestreckt. Man sei eine demokratische Partei und würde auch auf die anderen zugehen, würde sie zu Gesprächen einladen, aber man müsste natürlich sehen, was dann dabei herauskomme. Das klingt wiederum ein bisschen anders und klingt nach einer Hintertür, die man … zum ersten Mal seit 1945 hat in Deutschland eine Partei die Chance, in die Regierung zu kommen, die vom zuständigen Landesamt für Verfassungsschutz als gesichert rechtsextremistisch eingestuft ist. Die AfD kritisiert das immer wieder, möchte den Verfassungsschutz auch umbauen. Mehr dazu erfahrt ihr unten in der Infobox. Aber darüber wird schon jetzt berichtet. Und die Frage ist natürlich, welche Folgen hat das auch für die Politik in Deutschland? Und eine Partei, die das ganz besonders betrifft, ist natürlich die CDU. Nicht nur, weil die Regierung in Sachsen-Anhalt auf der Kippe steht, … auf Friedrich Merz und auch in Sachsen-Anhalt. Die Junge Union, der Landesverband der Jugendorganisation der CDU in Sachsen-Anhalt, fordert den Rücktritt des gesamten Landesvorstands in Sachsen-Anhalt und damit auch den Rücktritt von Sven Schulze. Es wird in den kommenden Tagen sicher viel darüber diskutiert werden, wie man mit dem Wahlergebnis umgeht und wie man sich künftig gegenüber der AfD aufstellt. Soll man vielleicht doch mit ihr zusammenarbeiten und riskiert dabei, die CDU zu zerreißen? Oder hält man die Brandmauer weiterhin aufrecht? Das ist die eine Frage. Und die andere Frage … Das sieht man auch in anderen Ländern Europas. Unter anderem in Frankreich, wo auch in absehbarer Zeit gewählt wird. Auch dazu unten etwas in der Infobox verlinkt. Unterm Strich muss man sagen, nach dieser Wahl ist vieles noch unklar. Es ist noch nicht klar, wer künftig die Regierung in Sachsen-Anhalt anführen wird. Welche Rolle die AfD dabei spielt und wie sich die anderen Parteien verhalten werden. Insbesondere BSW und CDU. Klar ist aber, die AfD wird künftig in Sachsen- Anhalt eine große Rolle spielen. Selbst wenn sie nicht in die Regierung kommen sollte. Und das hat unter anderem … Das nur in der Theorie, ob es in der Praxis so kommt, ist natürlich fraglich. Soviel zum aktuellen Stand. Aktuelle Zahlen findet ihr, wie gesagt, unten in der Infobox verlinkt. Und mich würde natürlich interessieren, was denkt ihr über das Wahlergebnis von Sachsen-Anhalt? Schreibt es gerne unten in die Kommentare. Und hier neben mir findet ihr zwei weitere Videos hier vom Kanal. Einmal geht es um Friedrich Merz und direkt darunter ein ganz anderes Thema, nämlich Russland und die hybride Bedrohung durch das Land. Schaut da gerne mal rein. Danke fürs Zuschauen. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.82
+  "src": "cc"
  },
  "-y1rxt6wd2c": {
   "channel": "Natürlich German",
@@ -17018,7 +17051,7 @@
  "NLMdUD4Rh6g": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-07T06:08:08+00:00",
+  "checked": "2026-11-11T22:46:51+00:00",
   "title": "Wortschatz \"Frühling\" für B2-Lerner | comprehensible German",
   "duration": 1084,
   "published": "20260301",
@@ -17026,81 +17059,10 @@
   "spoken_v": 2,
   "pace": 100.8,
   "rare": 0.1046,
+  "var": 0.7625,
   "speech_s": 1047.0,
   "tokens": 1759,
   "kw": [
-   [
-    "buschwindröschen",
-    "Buschwindröschen, weiß ich auch nicht. Maöckchen. Hier haben wir wieder das",
-    363,
-    372,
-    2.0,
-    9
-   ],
-   [
-    "bärlauch",
-    "Und dann bleibt noch der Bärlauch. Für",
-    397,
-    404,
-    2.83,
-    8
-   ],
-   [
-    "schneeglöckchen",
-    "Schneeglöckchen. Das ist auch ja eine",
-    161,
-    167,
-    2.56,
-    6
-   ],
-   [
-    "glöckchen",
-    "Glöckchen. Das ist die Form von der",
-    172,
-    179,
-    2.97,
-    7
-   ],
-   [
-    "tulpe",
-    "Also, die Tulpe, sie ist oft rot, aber",
-    114,
-    123,
-    2.77,
-    6
-   ],
-   [
-    "blume",
-    "Blume. Auch die Kinder kennen sie. In",
-    86,
-    94,
-    3.94,
-    14
-   ],
-   [
-    "krokus",
-    "Der Krokus auch einer der ersten Blumen.",
-    181,
-    191,
-    2.34,
-    4
-   ],
-   [
-    "gänseblümchen",
-    "Gänseblümchen. Das ist ein sehr bekannte",
-    83,
-    91,
-    2.85,
-    5
-   ],
-   [
-    "blumen",
-    "Und Frühblühe, das sind Blumen, die ganz",
-    44,
-    52,
-    4.43,
-    17
-   ],
    [
     "gefunden",
     "G hier, ich habe Wasser gefunden.",
@@ -17134,39 +17096,143 @@
     10
    ],
    [
-    "wort",
+    "blumen",
+    "Und Frühblühe, das sind Blumen, die ganz",
+    44,
+    52,
+    4.43,
+    17
+   ],
+   [
+    "gelb",
+    "der Mitte sind Gänseblümchen gelb und",
+    90,
+    98,
+    4.46,
+    6
+   ],
+   [
+    "entdeckt",
+    "hier. Ich habe noch was entdeckt.",
+    4,
+    10,
+    4.75,
+    5
+   ],
+   [
+    "blätter",
+    "Sie haben hier diese großen Blätter",
+    274,
+    283,
+    4.24,
+    5
+   ],
+   [
+    "blume",
+    "Blume. Auch die Kinder kennen sie. In",
+    86,
+    94,
+    3.94,
+    14
+   ],
+   [
+    "ähm",
+    "Ähm und ich bin kein Botaniker. Keine",
+    266,
+    272,
+    4.12,
+    9
+   ],
+   [
+    "leber",
+    "Ähm, die Leber ist ein Organ.",
+    737,
+    743,
+    3.95,
+    6
+   ],
+   [
+    "becher",
+    "Becher, also ein Becher wie ein Glas.",
+    205,
+    214,
+    3.93,
+    4
+   ],
+   [
+    "senkrecht",
     "senkrecht. Ein anderes Wort für senkrecht ist vertikal und ein anderes",
     56,
     68,
-    5.22,
+    3.59,
+    5
+   ],
+   [
+    "vertikal",
+    "senkrecht ist vertikal und ein anderes",
+    58,
+    68,
+    3.4,
+    4
+   ],
+   [
+    "stiefmutter",
+    "Wort Stiefmütterchen oder Stiefmutter? Eine Stiefmutter. Ich mal kurz ein Bild.",
+    615,
+    627,
+    3.23,
+    4
+   ],
+   [
+    "horizontal",
+    "Wort für wagrecht ist horizontal. Horizontal und vertikal. Senkrecht und",
+    62,
+    75,
+    3.46,
+    3
+   ],
+   [
+    "buschwindröschen",
+    "Buschwindröschen, weiß ich auch nicht. Maöckchen. Hier haben wir wieder das",
+    363,
+    372,
+    2.0,
+    9
+   ],
+   [
+    "bärlauch",
+    "Und dann bleibt noch der Bärlauch. Für",
+    397,
+    404,
+    2.83,
+    8
+   ],
+   [
+    "glöckchen",
+    "Glöckchen. Das ist die Form von der",
+    172,
+    179,
+    2.97,
     7
    ],
    [
-    "ahnung",
-    "Ahnung, was der Unterschied ist. Ich",
-    269,
-    275,
-    4.97,
-    7
-   ],
-   [
-    "oben",
-    "Glöckchen. Hier oben war es Merzen",
-    377,
-    386,
-    5.27,
+    "tulpe",
+    "Also, die Tulpe, sie ist oft rot, aber",
+    114,
+    123,
+    2.77,
     6
    ]
   ],
-  "tx": "So, wir waren bei den vielen Spalten hier. Ich habe noch was entdeckt. Traubenhüherzinte. Hallo, herzlich willkommen. Heute gibt es leider kein Videointro, aber es geht ja um den Inhalt dieses Videos und nicht um mein Gesicht. So, ich habe dir heute ein Blatt mitgebracht, dass ich nicht selber gemacht habe, aber hier gibt es ein großes Buchstabengitter mit Frühblühen. Und Frühblühe, das sind Blumen, die ganz im Frühling schon blühen, also die ersten Blumen. Und um die geht es heute. senkrecht. Ein anderes Wort für senkrecht ist vertikal und ein anderes Wort für wagrecht ist horizontal. Horizontal und vertikal. Senkrecht und wagrecht. Das sind die deutschen Wörter. Also schauen wir uns die verschiedenen Blumen einmal an. Ich kann nicht zu allen etwas sagen. Das erste, das Gänseblümchen. Das ist ein sehr bekannte Blume. Auch die Kinder kennen sie. In der Mitte sind Gänseblümchen gelb und außenrum die Blütenblätter sind weiß. Dann der Winterling, den kenne ich nicht so gut, aber ich glaube, er ist blau. Ich glaube, der Winterling ist blau. Sicher bin ich mir nicht. Vielleicht muss ich das noch nachschauen. Also, die Tulpe, sie ist oft rot, aber es gibt sie auch in Gelb oder in Weiß oder in anderen Farben. Auch eine typische Frühlingsblume und die Tulpe hat eine Zwiebel unter der Erde und jedes Jahr wächst die Blume wieder an der gleichen Stelle. Die Narzisse nennen wir auch Osterglocke und die Osterglocken oder die Narzissten sind auch gelb oder manchmal auch ein bisschen orange. Genau. Ich finde Osterglocken sehr sehr schöne Blumen. Sie gefallen mir. Schneeglöckchen. Das ist auch ja eine der ersten Blumen, die jetzt bereits blühen. Bei uns gibt es schon Schneeglöckchen und wir haben wieder Glocke oder Glöckchen. Das ist die Form von der Blume. Es ist wie als als wäre es e",
+  "tx": "So, wir waren bei den vielen Spalten hier. Ich habe noch was entdeckt. Traubenhüherzinte. Hallo, herzlich willkommen. Heute gibt es leider kein Videointro, aber es geht ja um den Inhalt dieses Videos und nicht um mein Gesicht. So, ich habe dir heute ein Blatt mitgebracht, dass ich nicht selber gemacht habe, aber hier gibt es ein großes Buchstabengitter mit Frühblühen. Und Frühblühe, das sind Blumen, die ganz im Frühling schon blühen, also die ersten Blumen. Und um die geht es heute. senkrecht. Ein anderes Wort für senkrecht ist vertikal und ein anderes Wort für wagrecht ist horizontal. … die Tulpe, sie ist oft rot, aber es gibt sie auch in Gelb oder in Weiß oder in anderen Farben. Auch eine typische Frühlingsblume und die Tulpe hat eine Zwiebel unter der Erde und jedes Jahr wächst die Blume wieder an der gleichen Stelle. Die Narzisse nennen wir auch Osterglocke und die Osterglocken oder die Narzissten sind auch gelb oder manchmal auch ein bisschen orange. Genau. Ich finde Osterglocken sehr sehr schöne Blumen. Sie gefallen mir. Schneeglöckchen. Das ist auch ja eine der ersten Blumen, die jetzt bereits blühen. Bei uns gibt es schon Schneeglöckchen und wir haben wieder … ist es die gleiche Form. Schlüsselblumen. Schlüsselblumen sind gelbe Blumen. Mehr kann ich dir über diese Blumen nicht sagen. Ich weiß nur, dass sie gelb sind. Und hier jetzt kommen die Blumen, bei denen ich mir sehr unsicher bin. Wir haben Pfeilchen, wir haben Stiefmütterchen und hier unten Primeln. Ich kann diese Blumen nicht auseinanderhalten. Ich weiß, dass es sie in verschiedenen Farben gibt. Ich glaube, Pfeilchen sind blau vor allem, aber für mich sind alle blau oder lila. Es sind auf jeden Fall Blumen für den Vorgarten oder für den Balkon. Ähm und ich bin kein Botaniker. Keine … also ach, kann man das schreiben? Baurer Büble, sehr schwäbisch. Baurer, also der Bauer und Büble ist eine kleine Form, also ja, Chen eigentlich. Ähm und Büble, also der Bub, der Junge, also ein kleiner Bauernjunge. Ähm, wenn ich das ja auf Hochdeutsch übersetzen sollte. Genau. Also, Baurbüble, das sind auch eine meiner Lieblingsblumen im Frühling. Zu den Leberblümchen kann ich überhaupt nichts sagen. Absolut keine Ahnung. Buschwindröschen, weiß ich auch nicht. Maöckchen. Hier haben wir wieder das Glöckchen hier. die vielen kleinen Glocken. Und was auch auffällig ist, hier ist das Mai … sie nicht essen. Also müssen wir gut aufpassen, wenn wir Bärlauch sammeln gehen. Wunderbar. Aber jetzt sind wir bereit und wir schauen mal, welche Wörter wir denn in diesem riesigen Gitter überhaupt finden. G hier, ich habe Wasser gefunden. Gänseblümchen. Hier das erst die erste Blume, direkt Gänseblümchen. In der Mitte gelb und die Blütenblätter außenrum weiß. Was sehe ich noch für ein Oh, hier vertikal habe ich noch was gefunden. Schlüssel Blume. Die Schlüsselblume. Meine Güte, sind das lange Wörter. Und hier ganz an der Seite Buschwindröschen. Das siehst du gar nicht mehr hier. … Der Merzenbecher. Gut. Welche Blumen entdecke ich noch? Ich schaue mir die ganzen Buchstaben von links nach rechts an. Ich gehe die Zeilen durch. Ah, das ist noch gut. Zeile ist in diese Richtung. Eine Zeile, also auch so wie wir schreiben. Und eine Spalte. Haha, ich habe etwas gefunden. Eine Spalte ist von oben nach unten und hier in dieser Spalte ist direkt der Bärlauch. Der Bärlauch von oben nach unten oder senkrecht. Aber wagrecht habe ich jetzt nichts mehr gefunden. Dann schauen wir doch senrecht. Bärlauch haben wir schon gefunden. Glöckchen. Da gibt es irgendein Glöckchen. … Vielleicht kommt daher oder das Wort kommt daher, aber ich weiß nicht, was hier die Blume, das Stiefmitterchen mit einer Stiefmutter zu tun hat. Da habe ich keine Ahnung, aber es ist das gleiche Wort. So, wir waren bei den vielen Spalten hier. Ich habe noch was entdeckt. Traubenhüherzinte und wo wir bei interessanten Worten sind oder verwandten Worten Traube. Keine Ahnung, warum sie Traubenhörerzinte heißt. Vielleicht weil das hier oben ähnlich aussieht wie ein Traube. Keine Ahnung. Wie heißt das in deiner Sprache? ist es auch ähnlich wie Traube irgendwie. Hat es auch was mit Hyerzinte zu … Aber keine Ahnung, was die das Leberblümchen mit äh der Leber zu tun hat. Ich weiß es nicht, ob es da eine Verbindung gibt. Hier Winter. Ich habe noch was gefunden. Winterling. Der Winterling. Auch äh vertikal geschrieben von oben nach unten. H langsam bräuchte ich deine Hilfe, glaube ich. Hier ist so leer. Ich habe das Gefühl, dass hier ein Wort sein muss, irgendeine Blume, aber ich sehe keine. Ach, hier Pfeilchen. Ganz am Rand. Pfeilchen. Noch etwas. Welche Blumen fehlen mir überhaupt noch? Gänseblümchen haben wir gefunden. Winterling haben wir auch gefunden. Die Tulpe war hier unten. … aber Traubenhyerzinte. Leberblümchen haben wir gefunden und Maisiglöckchen haben wir gefunden. Haben wir die Primel schon gefunden? Nein, aber den Bärlauch und Buschwindröschen ist das letzte oder? Lass mich schauen. Buschwindröschen. Okay, also es fehlen Prime Buschwindröschen, Hyzinte und Krokos. Okay. Hm. Ich hör Zinte braucht irgendwie ein Y, aber es gibt so viele Y. Hier haben wir Hy, aber Oh nein. H Zinte, wo bist du? Ich habe sie entdeckt. Hier unten einmal wagrecht die Hyzinte. Sehr gut. J sind auch geschafft. Dann fehlt Prime und Buschwindröschen. Buschwind Buschwindröschen haben … sitzt vor deinem Bildschirm und denkst, warum sieht sie das nicht? Hier ist es doch. Krokus und Primel, wo seid ihr? Nein, ich finde es nicht. Na gut, ich glaube, ich muss aufgeben, sonst langweile ich dich hier, weil ich nur auf dieses große Buchstabitter äh starre. Aber bevor ich das Video beende, will ich noch sagen, unten habe ich den Link zu diesem ähm äh Arbeitsblatt hingeschrieben. Das heißt, du kannst es dir jetzt downloaden ganz kostenlos von einem Blog und selber noch einmal die vielen verschiedenen Blumen suchen. Ich wünsche dir ganz viel Spaß und dann bis nächste Woche. Tschüss.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7518
+  "src": "auto"
  },
  "MhbW1EZ88ys": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-07T06:15:13+00:00",
+  "checked": "2026-11-11T22:48:22+00:00",
   "title": "Mia KLAUT Augen von Mädchen!",
   "duration": 675,
   "published": "20260912",
@@ -17174,73 +17240,10 @@
   "spoken_v": 2,
   "pace": 173.4,
   "rare": 0.051,
+  "var": 0.7976,
   "speech_s": 611.2,
   "tokens": 1766,
   "kw": [
-   [
-    "mia",
-    "Mia ist zurück! Ah, das war also ihr Platz!",
-    0,
-    4,
-    3.98,
-    45
-   ],
-   [
-    "emmas",
-    "Wie bekomme ich Emmas Augen? Was bekommt der Gewinner?",
-    91,
-    95,
-    2.7,
-    11
-   ],
-   [
-    "emre",
-    "Doch! Du hast sogar Schluss gemacht, weil ich blind bin Emre!",
-    187,
-    192,
-    2.85,
-    10
-   ],
-   [
-    "emma",
-    "Ja, sie sind wunderschön, Emma! Wunderschön?",
-    47,
-    51,
-    4.14,
-    20
-   ],
-   [
-    "mias",
-    "Wie heißt Mias Schildkröte, die sie in der 1. Staffel getroffen hat?",
-    221,
-    226,
-    2.37,
-    4
-   ],
-   [
-    "quiz",
-    "Ja, wir machen ein Quiz! Wie bekomme ich Emmas Augen?",
-    89,
-    94,
-    3.63,
-    8
-   ],
-   [
-    "dvs",
-    "Wie kommen sie zu DVs Haus?",
-    369,
-    372,
-    2.31,
-    2
-   ],
-   [
-    "serkan",
-    "Das war Serkan! Serkan!",
-    257,
-    260,
-    2.42,
-    2
-   ],
    [
     "augen",
     "Meine Augen tun voll weh! So, die Polizei ist unterwegs!",
@@ -17274,42 +17277,114 @@
     11
    ],
    [
-    "punkte",
-    "Jede Frage gibt 10 Punkte! Und der Gewinner bekommt 100€!",
-    215,
-    220,
-    4.97,
-    10
-   ],
-   [
-    "richtig",
-    "Das ist richtig, Mia! Woher weißt du das, Mia?",
-    234,
-    239,
-    5.58,
-    9
-   ],
-   [
-    "polizei",
-    "Ich rufe die Polizei! Aber du hast noch nie die Polizei gerufen!",
-    21,
-    26,
-    5.39,
-    9
-   ],
-   [
     "staffel",
     "Wie heißt Mias Schildkröte, die sie in der 1. Staffel getroffen hat?",
     221,
     226,
     4.58,
     8
+   ],
+   [
+    "gehst",
+    "Du gehst nicht mehr auf diese Schule!",
+    15,
+    18,
+    4.35,
+    5
+   ],
+   [
+    "blind",
+    "Ihr behandelt mich alle schlecht, weil ich blind bin!",
+    182,
+    186,
+    4.26,
+    4
+   ],
+   [
+    "mitmachen",
+    "Du darfst eh nicht mitmachen, Mia!",
+    108,
+    111,
+    4.26,
+    4
+   ],
+   [
+    "mia",
+    "Mia ist zurück! Ah, das war also ihr Platz!",
+    0,
+    4,
+    3.98,
+    45
+   ],
+   [
+    "emma",
+    "Ja, sie sind wunderschön, Emma! Wunderschön?",
+    47,
+    51,
+    4.14,
+    20
+   ],
+   [
+    "quiz",
+    "Ja, wir machen ein Quiz! Wie bekomme ich Emmas Augen?",
+    89,
+    94,
+    3.63,
+    8
+   ],
+   [
+    "schülerin",
+    "Tja, jetzt bist du keine Schülerin mehr bei uns!",
+    26,
+    27,
+    3.82,
+    4
+   ],
+   [
+    "schildkröte",
+    "Wie heißt Mias Schildkröte, die sie in der 1. Staffel getroffen hat?",
+    221,
+    226,
+    3.42,
+    2
+   ],
+   [
+    "emmas",
+    "Wie bekomme ich Emmas Augen? Was bekommt der Gewinner?",
+    91,
+    95,
+    2.7,
+    11
+   ],
+   [
+    "emre",
+    "Doch! Du hast sogar Schluss gemacht, weil ich blind bin Emre!",
+    187,
+    192,
+    2.85,
+    10
+   ],
+   [
+    "mias",
+    "Wie heißt Mias Schildkröte, die sie in der 1. Staffel getroffen hat?",
+    221,
+    226,
+    2.37,
+    4
+   ],
+   [
+    "serkan",
+    "Das war Serkan! Serkan!",
+    257,
+    260,
+    2.42,
+    2
    ]
   ],
-  "tx": "Mia ist zurück! Ah, das war also ihr Platz! Wer sitzt auf meinem Platz? Was willst du? Du sitzt auf meinem Platz! Was? Was machst du hier, Mia? Warum sitzt dieses Mädchen auf meinem Platz? Bist du dumm, oder so? oder so Du gehst nicht mehr auf diese Schule! DAS IST TROTZDEM MEIN PLATZ! Du bist doch verrückt! Ich rufe die Polizei! Aber du hast noch nie die Polizei gerufen! Tja, jetzt bist du keine Schülerin mehr bei uns! Also kann ich die Polizei rufen! Oh nein! Meine Augen tun voll weh! So, die Polizei ist unterwegs! Schön für dich! Also gehst du nicht freiwillig? Nö, ich will meinen Sitzplatz zurück! Du bist hier keine Schülerin mehr! Ich verstehe das Problem nicht! Sind meine Augen okay, Fatima? Ja, sie sind wunderschön, Emma! Wunderschön? Ja, Emma hat echt hübsche Augen! Welche Farbe haben sie? Du kannst mich mal, Mia! Stehst du noch auf mich, Lukas? Ja, gehst du auf ein Date mit mir? Welche Augenfarbe hat diese Emma? Blau wie das Meer! Danke, Süßer! Ich brauche diese Augen! Gehst du jetzt auf ein Date mit mir? Warum willst du eine Blinde daten? Du bist immer noch eine 9/10! Ich bin eine 10/10, du Idiot! Gehen wir zusammen auf Toilette, Emma? Warum sollte ich? Dann kann ich deine Augen klauen! Dann kann ich deine Hand halten beim AA machen! Meint Mia das ernst? Ja! Können wir Unterricht machen, bis die Polizei da ist? Ja, wir machen ein Quiz! Wie bekomme ich Emmas Augen? Was bekommt der Gewinner? 100 Euro! Kann man Emmas Augen gewinnen? Bist du dumm? Nein! 100 Euro! Krass! Davon kaufe ich Döner! Oder ich kaufe Emmas Augen für 100€! Lass meine Augen in Ruhe, Mia! Du darfst eh nicht mitmachen, Mia! Was? Wieso nicht? Du bist nicht mehr meine Schülerin! Also darfst du nicht mitmachen! Na, das werden wir sehen! Ja, das werden wir sehen! Können wir mal darüber reden, dass ",
+  "tx": "Mia ist zurück! Ah, das war also ihr Platz! Wer sitzt auf meinem Platz? Was willst du? Du sitzt auf meinem Platz! Was? Was machst du hier, Mia? Warum sitzt dieses Mädchen auf meinem Platz? Bist du dumm, oder so? oder so Du gehst nicht mehr auf diese Schule! DAS IST TROTZDEM MEIN PLATZ! Du bist doch verrückt! Ich rufe die Polizei! Aber du hast noch nie die Polizei gerufen! Tja, jetzt bist du keine Schülerin mehr bei uns! Also kann ich die Polizei rufen! Oh nein! Meine Augen tun voll weh! So, die Polizei ist unterwegs! Schön für dich! Also gehst du nicht freiwillig? Nö, ich will meinen … Blinde daten? Du bist immer noch eine 9/10! Ich bin eine 10/10, du Idiot! Gehen wir zusammen auf Toilette, Emma? Warum sollte ich? Dann kann ich deine Augen klauen! Dann kann ich deine Hand halten beim AA machen! Meint Mia das ernst? Ja! Können wir Unterricht machen, bis die Polizei da ist? Ja, wir machen ein Quiz! Wie bekomme ich Emmas Augen? Was bekommt der Gewinner? 100 Euro! Kann man Emmas Augen gewinnen? Bist du dumm? Nein! 100 Euro! Krass! Davon kaufe ich Döner! Oder ich kaufe Emmas Augen für 100€! Lass meine Augen in Ruhe, Mia! Du darfst eh nicht mitmachen, Mia! Was? Wieso nicht? … Mia seit 6 Jahren! Sie ist nicht normal, aber sowas würde sie nicht tun! Ich hoffe Sie haben Recht! Das hoffe ich auch! Jetzt fang dieses Quiz an, Schmidti! So, eure Namen stehen an der Tafel! Mein Name fehlt! Du machst doch nicht mit, Mia! Ich töte Maria, wenn ich nicht mitmachen darf! Äh, was? Meine Gase sind bereit! Tun Sie etwas, Herr Schmidt! Äh, okay! Du darfst mitmachen! Wo bleibt die Polizei, Alter? Dann schreib meinen Namen an die Tafel! So, fertig! Hör jetzt auf, Mia! Warum ist mein Name so klein? Oh Gott! Ich will nicht sterben! Äh, da war kein Platz mehr! Dann mach Marias Namen … zu Deutsch verstehen! Ich liebe Deutsch verstehen! Ja, er ist das Original und klaut keine Ideen! Jede Frage gibt 10 Punkte! Und der Gewinner bekommt 100€! Was ist die 1. Frage? Wie heißt Mias Schildkröte, die sie in der 1. Staffel getroffen hat? Boah, das ist schwierig! Die 1. Staffel ist voll lange her! Ja, aber man kann ja alle Staffeln auf dem Kanal gucken! Bernhard heißt die Schildkröte! Das ist richtig, Mia! Woher weißt du das, Mia? Ich liebe DV über alles! Jetzt kommt die 2. Frage! Ich kann jede Frage beantworten! Diese Frage ist gar nicht so einfach! Mit wem hat Julia in der … schlau geworden? Max ist doch Mias Bruder, oder? Ja, aber warum wurde er plötzlich schlau? Max ist die Treppe runtergefallen! Diese Staffel war so kreativ! Sehr gut, Mia! Ich will die 100€ gewinnen! Wie viele Fragen gibt es noch? Nur noch ein paar.. Wann kommt die Polizei, Alter? Los, nächste Frage! 4. Frage zu DV: In welcher Straße wohnt Familie Müller? Peterstraße 5! Hä? Da wohne ich auch! Richtig, Emre! 10 Punkte für dich! 5. Frage: Wie heißt Mias Tochter in der Zukunft? Moment, mir fällt es gleich ein! In der Staffel fällt Mia in eine Kugel! Ja, in der Staffel hat DV richtig gekocht! … danach? Mia trifft Teufelin Mia! Dann gibt es den heftigsten Kampf zwischen Himmel und Hölle! Ich liebe DV so sehr für diese krassen Videos! 10 Punkte für Mia, Maria und Emre! Los, noch eine schwierige Frage! Als Mias Familie, der Teufel und Julia gegen DV kämpfen.. Wie kommen sie zu DVs Haus? Ein Tipp: DVs Haus ist im Himmel! Das wissen nur die hardcore Fans! Aber Achtung! Ihr verliert 10 Punkte bei einer falschen Antwort! Sie fliegen zum Haus? -10 Punkte, Emma! Haha, Emma! Du weißt es doch auch nicht, du dumme Nuss! Doch, sie fahren mit einem Aufzug! Richtig, und aus was besteht der … Nimm deine Arme wieder runter! Danke Gott, dass wir noch leben! Was übertreibt ihr so, Alter? Ich dachte, ich muss sterben! Meine Dönerfürze sind viel schlimmer! Können Sie Mia jetzt mitnehmen? Komm mit! Ich bringe dich zu deiner Blindenschule! Aber ich gewinne das DV Quiz gerade! Ein Quiz über Deutsch verstehen? Ja, und man kann Emmas Augen gewinnen! Das stimmt doch gar nicht! Ich liebe DV! Können Sie noch ein paar Fragen stellen? Okay, noch 3 Fragen! Dann nehmen sie Mia mit und wir haben wieder Ruhe! Okay, ja! Du bekommst meine Augen nicht! Hier kommt eine richtig schwierige DV Frage! … Frage gibt es 50 Punkte! Das heißt, jeder könnte noch gewinnen! Das muss eine krasse Frage sein! Hier kommt die Frage! Wie sieht DV aus? Das weiß doch niemand! Niemand hat DV jemals gesehen! Also ich weiß. wer DV ist.. Ich weiß auch. wie er aussieht! Er ist bestimmt ein Traummann! Wer ist DV denn? Dv ist.. Ich war zu aufgeregt! Schnell! Öffnet die Tür! Mia hat das Quiz gewonnen! Lass mich gehen! Nein, ich bringe dich zur Blindenschule! Aber ich habe das DV Quiz gewonnen! Du gehst aber nicht mehr auf diese Schule! Ja, aber ich muss da noch etwas erledigen! Tja, Pech gehabt! Wenn ich viel … Klassenraum! Ich muss Emmas Augen bekommen! Dann kann Dr. Stein mich operieren! So, wir sind fertig! Das wird Mia bestimmt gefallen! Was ist das? Das riecht nach Zwiebelfurz! Es geht los! Gleich gehören Emmas Augen mir! Was ist hier los? Oh, du bist ja wach, Emma! Warum hast du ein Messer in der Hand? Warum wohl? Du willst also doch meine Augen! Ich wusste es! Es ist gleich vorbei! Warum kann ich mich nicht bewegen? Warte, meine Maske nervt! Der Zwiebelfurz hat dich noch betäubt! Deshalb kannst du dich nicht bewegen! Bitte lass mich gehen, Mia! Es tut mir leid, Emma! Das ist meine einzige … haben aber ein Geschenk für dich! Ein Geschenk? Ja, das war Emmas Idee! Stimmt das, Emma? Ja! Willst du dein Geschenk nicht sehen? Ja! und danach schneide ich Emmas Augen raus! Was ist das? Emma wollte dir Augen basteln, damit du nicht mehr so traurig bist! Emma? Sie sind zwar nicht echt, aber vielleicht freust du dich! Das ist so süß! Was habe ich getan? Es tut mir so leid, Emma! Schon okay, Mia! Wir werden Augen für dich finden! Wie viele DV Fragen hattet ihr richtig? Schreibt es in die Kommentare und liked das Video, wenn es schön war! Und klickt gerne auf dieses Video, bis Part 8 da ist!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7426
+  "src": "cc"
  },
  "0wrQeWBmY90": {
   "channel": "Learn German with Anja",
@@ -18029,7 +18104,7 @@
  "95VC_YlSWrc": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-08T15:27:32+00:00",
+  "checked": "2026-11-11T22:45:43+00:00",
   "title": "How did Germanys national anthem come about? Why do we only sing the 3rd stanza?│Intermediate German",
   "duration": 427,
   "published": "20220326",
@@ -18194,7 +18269,8 @@
     2
    ]
   ],
-  "tx": "das lied der deutschen oder das deutschlandlied wurde von august heinrich hoffmann von fallersleben geschrieben und ist seit 1922 unsere deutsche nationalhymne das lied hat drei strophen aber heute ist nur noch die dritte strophe unsere nationalhymne aber gehen wir mal ein bisschen weiter zurück in der geschichte ihr habt vielleicht schon einmal von joseph haydn gehört joseph haydn war ein österreichischer klassischer komponist er hat zum beispiel die londoner sinfonien geschrieben und joseph haydn hat dann 1797 eine hymne geschrieben für den damaligen kaiser das war franz der zweite franz zweite war der römisch deutsche kaiser und der letzte kaiser von dem heiligen römischen reich denn kurz vor seinem tod hat er das kaisertum österreich begründet da wurde er dann zu kaiser franz der erste vom kaisertum österreich und dann wurde heidens melodie josef heinz hymne als die österreichische kaiserhymne benutzt und diese hymne die joseph haydn damals für franz den zweiten geschrieben hatte hieß gott erhalte franz den kaiser viele viele jahre später in 1840 gab es die rein krise zwischen frankreich und deutschland die reihen krise war also eine politische krise zwischen frankreich und deutschland in der es um gebiete umland um gebiete um den rhein um den fluss herum ging der rhein fließt hier entlang und frankreich wollte damals dass der rhein die grenze die grenze zu frankreich bildet die rein krise führte zu einer nationalistischen bewegung in deutschland oder er in den einzelnen mitgliedstaaten vom deutschen bund in mehreren dieser mitgliedstaaten kam es also zu einer nationalistischen bewegung durch diese krise und deswegen sind um den rhein herum viele nationalistische gedichte und rein lieder entstanden hoffmann von fallersleben war ein lehrer und auch ein dichter und da",
+  "tx": "das lied der deutschen oder das deutschlandlied wurde von august heinrich hoffmann von fallersleben geschrieben und ist seit 1922 unsere deutsche nationalhymne das lied hat drei strophen aber heute ist nur noch die dritte strophe unsere nationalhymne aber gehen wir mal ein bisschen weiter zurück in der geschichte ihr habt vielleicht schon einmal von joseph haydn gehört joseph haydn war ein österreichischer klassischer komponist er hat zum beispiel die londoner sinfonien geschrieben und joseph haydn hat dann 1797 eine hymne geschrieben für den damaligen kaiser das war franz der zweite franz zweite war der römisch deutsche kaiser und der letzte kaiser von dem heiligen römischen reich denn kurz vor seinem tod hat er das kaisertum österreich begründet da wurde er dann zu kaiser franz der erste vom kaisertum österreich und dann wurde heidens melodie josef heinz hymne als die österreichische kaiserhymne benutzt und diese hymne die joseph haydn damals für franz den zweiten geschrieben hatte hieß gott erhalte franz den kaiser viele viele jahre später in 1840 gab es die rein krise zwischen frankreich und deutschland die reihen krise war also eine politische krise zwischen frankreich und deutschland in der es um gebiete umland um gebiete um den rhein um den fluss herum ging der rhein fließt hier entlang und frankreich wollte damals dass der rhein die grenze die grenze zu frankreich bildet die rein krise führte zu einer nationalistischen bewegung in deutschland oder er in den einzelnen mitgliedstaaten vom deutschen bund in mehreren dieser mitgliedstaaten kam es also zu einer nationalistischen bewegung durch diese krise und deswegen sind um den rhein herum viele nationalistische gedichte und rein lieder entstanden hoffmann von fallersleben war ein lehrer und auch ein dichter und dann hat er in 1841 das deutschland lied gedichtet oder geschrieben aber als er das deutschland lied geschrieben hat hatte er die melodie zur kaiser finde zur österreichischen kaiserhymne im kopf also er hat dieses lied zu der melodie von der kaiserhymne geschrieben sodass das passt aber das deutschlandlied oder das lied der deutschen war eigentlich erst mal nur eines von vielen liedern die während der reihen krise entstanden sind während dieser nationalistischen bewegung es war also ein lied der deutschen nationalbewegung und erst dann im ersten weltkrieg hat das lied eine größere bedeutung bekommen in 1914 waren deutsche soldaten in belgien und haben dort spontan das lied angestimmt das heißt sie haben spontan angefangen das lied zu singen und von diesem ereignis wurde dann am nächsten tag in den nachrichten propagandistisch berichtet und in 1922 in der weimarer republik wurde dann das deutschlandlied mit allen drei strophen zur offiziellen deutschen nationalhymne erklärt zur zeit des nationalsozialismus also zwischen 1900 33 und 1945 wurde immer nur die erste strophe von dem deutschlandlied gesungen in der ersten zeile in der ersten strophe im deutschlandlied heißt es deutschland deutschland über alles und damit war ursprünglich gemeint dass ein einheitliches deutschland quasi wichtiger sei als alles andere und dass man die einheit deutschlands höher schätzen soll als die fürsten mit ihren einzel starten im deutschen bund die es damals gab während dem nationalsozialismus hat man immer nur die erste strophe gesungen und dann haben diese zeilen der ersten strophe eine andere bedeutung bekommen und man hat andere dinge damit assoziiert nach dem zweiten weltkrieg also nach 1945 hat man dann diskutiert ob man das deutschlandlied noch als nationalhymne verwenden soll und dann in 1952 wurde dann entschieden dass das deutschlandlied die nationalhymne bleibt aber das zu offiziellen anlässen immer nur die dritte strophe gesungen werden soll zu der zeit als deutschland getrennt war und wo es im osten die ddr gab und im westen die brd hatte die ddr eine andere hymne und nach der wiedervereinigung deutschlands wurde dann nur die dritte strophe ganz offiziell zur deutschen nationalhymne erklärt also dann war nicht mehr das ganze deutschland nie die hymne sondern nur noch offiziell die dritte strophe von dem lied also so kam es zu unserer deutschen nationalhymne ich verlinke euch die hände unten noch in der infobox und dort gebe ich euch auch alle drei strophen von dem deutschland liegt alles klar dann bis zum nächsten mal bis dann und erst später",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -19581,7 +19657,7 @@
  "UYVKeQwKyI8": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-08T15:57:10+00:00",
+  "checked": "2026-11-11T22:53:38+00:00",
   "title": "German Learning Vlog for Absolute Beginners | Comprehensible Input (Hotel Room Tour)",
   "duration": 956,
   "published": "20250628",
@@ -19754,14 +19830,15 @@
     2
    ]
   ],
-  "tx": "Fin. Hallo, ich bin im Urlaub und heute zeige ich dir ein Hotelzimmer. Worauf guckst du bei der Hotelbuchung. Was muss ein Hotelzimmer haben, damit du dich wohlfühlst? Für mich oder für uns ist es jetzt sehr sehr wichtig, dass das Hotel tierfreundlich ist, dass wir also unseren Hund mit ins Hotel nehmen dürfen. Und dieses Hotel ist hundefreundlich. Das Hotel hat uns sogar einen Napf bereitgestellt. Sie haben uns also diesen Napf zur Verfügung gestellt gegeben, während wir hier im Hotel sind. Super freundlich, oder? Wie du sehen kannst, halte ich ui die Hotelzimmerkarte in der Hand. Ich halte die Karte in der Hand und damit der Strom hier im Zimmer funktioniert, um das Licht einschalten zu können, muss ich die Karte in diesen Schlitz, der Schlitz hineinstecken. Und jetzt schalte ich das Licht ein. Yay. Zum Glück aber ist es hell draußen. Deshalb brauchen wir kein künstliches Licht. Ich schalte das Licht aus. Der Eingangsbereich. Direkt im Eingangsbereich gibt es einen großen Spiegel. Der Spiegel. Und im Spiegel kann ich meinen ganzen Körper sehen. Man nennt diesen Spiegel also auch Ganzkörperspiegel. Der Ganzkörperspiegel. Daneben in der Ecke gibt es eine kleine Küchenzeile. Es gibt eine Kaffeemaschine. Unter der Kaffeemaschine gibt es auch einen Kühlschrank. Der Kühlschrank und hier gibt es auch einen Mülleimer. Der Mülleimer. Und im Eimer gibt es eine Plastiktüte, die Mülltüte. Dieses Zimmer hat ein großes Bett. Das Doppelbett. ein Bett für zwei Personen. Manchmal haben Hotelzimmer aber auch kleine Betten. Ein Bett für eine Person. Das Einzelbett. Auf dem Bett gibt es mehrere Kissen. Vier Bettkissen und 1 2 3 Ziekissen. Zierkissen, weil sie das Bett aufhübschen. Und über dem Bett gibt es ein Bild. das Bild oder das Gemälde. Neben dem Bett gibt es Nachttische und auf de",
+  "tx": "Fin. Hallo, ich bin im Urlaub und heute zeige ich dir ein Hotelzimmer. Worauf guckst du bei der Hotelbuchung. Was muss ein Hotelzimmer haben, damit du dich wohlfühlst? Für mich oder für uns ist es jetzt sehr sehr wichtig, dass das Hotel tierfreundlich ist, dass wir also unseren Hund mit ins Hotel nehmen dürfen. Und dieses Hotel ist hundefreundlich. Das Hotel hat uns sogar einen Napf bereitgestellt. Sie haben uns also diesen Napf zur Verfügung gestellt gegeben, während wir hier im Hotel sind. Super freundlich, oder? Wie du sehen kannst, halte ich ui die Hotelzimmerkarte in der Hand. Ich halte … damit der Strom hier im Zimmer funktioniert, um das Licht einschalten zu können, muss ich die Karte in diesen Schlitz, der Schlitz hineinstecken. Und jetzt schalte ich das Licht ein. Yay. Zum Glück aber ist es hell draußen. Deshalb brauchen wir kein künstliches Licht. Ich schalte das Licht aus. Der Eingangsbereich. Direkt im Eingangsbereich gibt es einen großen Spiegel. Der Spiegel. Und im Spiegel kann ich meinen ganzen Körper sehen. Man nennt diesen Spiegel also auch Ganzkörperspiegel. Der Ganzkörperspiegel. Daneben in der Ecke gibt es eine kleine Küchenzeile. Es gibt eine Kaffeemaschine. … gibt es auch einen Kühlschrank. Der Kühlschrank und hier gibt es auch einen Mülleimer. Der Mülleimer. Und im Eimer gibt es eine Plastiktüte, die Mülltüte. Dieses Zimmer hat ein großes Bett. Das Doppelbett. ein Bett für zwei Personen. Manchmal haben Hotelzimmer aber auch kleine Betten. Ein Bett für eine Person. Das Einzelbett. Auf dem Bett gibt es mehrere Kissen. Vier Bettkissen und 1 2 3 Ziekissen. Zierkissen, weil sie das Bett aufhübschen. Und über dem Bett gibt es ein Bild. das Bild oder das Gemälde. Neben dem Bett gibt es Nachttische und auf dem Nachttisch steht eine Nachttischlampe. … Nomen. Die Nacht, der Tisch, die Lampe, die Nachttischlampe und neben der Lampe gibt es ein Telefon. Das Telefon. Hallo, Lari spricht. Gegenüber vom Bett ist Taco. Nee, Taco ist auf dem Bett. Gegenüber vom Bett steht ein Fernseher. Der Fernseher. Und unter dem Fernseher gibt es Fernbedienungen. Die Fernbedienung in der Ecke, in der Ecke des Zimmers steht ein Stuhl. Der Stuhl. Ich setze mich auf den Stuhl und guck mal, wie schön die Aussicht hier ist. Das Fenster. Ich öffne das Fenster und guck mal, das Fliegengitter. Das Fliegengitter hält Insekten, Fliegen, Mücken davon ab, … und dich in der Nacht zu stechen und dein Blut zu saugen. Dieses Gitter hier ist super praktisch, vor allem in warmen Ländern wie Italien. Und hier haben wir eine Kleiderstange. Die Kleiderstange. Auf der Kleiderstange hängen Kleiderhaken. Der Kleiderhaken. Und hier kann man seine Kleidungsstücke aufhängen oder hier unten in den Schubladen verstauen. Und jetzt geht's ins Badezimmer. Dieses Hotelzimmer hat ein eigenes Badezimmer. Das Badezimmer. Im Badezimmer gibt es eine Toilette. Die Toilette. Man muss sich das Bad und die Toilette also nicht mit fremden Menschen teilen. Neben der … BD in Deutschland sind Bids nicht üblich, aber hier in Italien z.B. sind BS sehr üblich. Man findet Bids in den meisten Hotels. Aber wie sieht das in deinem Heimatland aus? Welche Einrichtungsgegenstände sind in deinem Heimatland üblich und welche Gegenstände sind eher unüblich? schreib mir das doch gerne in die Kommentare. Und die Dusche, der Duschkopf und die Dusche. Taco macht es sich in der Dusche bequem. Wahrscheinlich, weil es hier im Badezimmer in der Dusche etwas kühler ist. Kalt und es ist kühler, denn draußen ist es schon relativ warm, es ist schon relativ heiß. Die Dusche hat … denn guck mal, wenn ich mir nicht die Haare waschen möchte, muss ich mir keine Duschhaube aufsetzen, sondern ich kann hier an der Seite die Körperduschen anstellen. Ich zeige euch das ganz kurz sehr vorsichtig, um nicht nass zu werden. Das war der falsche Drehknopf. Also, der oberste Drehknopf hier an der Seite ist für den Duschkopf. Siehst du das? Ui, ich stell das Wasser ab. Hast du das gesehen? Wie praktisch oder? Sitz. Fein, fein. Also brauche ich keine Duschhaube oder Duschkappe. Ich schließe die Türen, damit Taco nicht in die Dusche geht, denn die ist jetzt nass. Und dann zeige … persönlich immer sehr an Hotels schätze. Und zwar sind das diese kleinen Dinge hier, die Hotelkosmetik. Die Hotelkosmetik sind Annehmlichkeiten des Hotels für dich als Gast. Hier gibt es z.B. Shampoo und Duschgel in einem, aber eben auch die Duschkappe, Handzeifen und auch ein Kosmetik Set. Das Kosmetikset. Hier gibt es z.B. eine kleine Nagelfile. Die Nagelfile. Ich feile meinen Nagel. Wattestäbchen, das Stäbchen und die Watte, um sich z.B. Make-up zu entfernen oder um sich die Ohren zu putzen, aber der Ohrenarzt sollte das besser nicht wissen. Und dann gibt es Watte Pads. Die Wattepads … gebrauchen, denn mein Nagellack blättert schon ab. Mein Nagellack ist nicht mehr hübsch, ist nicht mehr schön, aber ich habe keinen Nagellack Entferner. Na ja, dann ist das eben so. Und dann gibt es hier noch einen Kosmetikspiegel. Und im Kosmetikspiegel sieht man wunderbar seine Fächen und Unreinheiten. Also weg damit. Und neben dem Spiegel gibt es einen Föhn. Der Föhn der Haarföhn. So, das Wichtigste heutzutage zumindest ist WLAN Internet. Natürlich ist es gut, wenn ein Hotel freies kostenloses WiFi hat und meistens bekommt man eine Karte mit dem Benutzernamen und Kennwort und diese Karte … Hand. In besonders warmen Ländern ist es auch von Vorteil der Vorteil, es ist ein Pluspunkt, wenn es eine Klimaanlage gibt, die Klimaanlage. Und heute hat Tao hier vor der Klimaanlage geschlafen, weil diese Klimaanlage das Hotelzimmer so schön kühlt. Das sind die wichtigsten Wörter, die du wissen musst, wenn du in einem deutschsprachigen Land ein Hotelzimmer buchst. Ich hoffe, dass dir dieses Video gefallen hat und du mit diesem Video wieder viele Wörter gelernt, wiederholt, geübt hast. Jetzt verabschiede ich mich von dir mit einem schönen Ausblick aus dem Hotelzimmer. Tschüss. Also, Schätzi.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "1YTXGSMO04Y": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-08T15:57:13+00:00",
+  "checked": "2026-11-11T22:53:42+00:00",
   "title": "German Learning Vlog for Absolute Beginners | Comprehensible Input (At the Beach)",
   "duration": 867,
   "published": "20250621",
@@ -19934,7 +20011,8 @@
     3
    ]
   ],
-  "tx": "Hallo, wo bin ich? H, ich sitze auf einem Handtuch. Das Handtuch. Und unter dem Handtuch ist eine Picknickdecke. Ich sitze im Schatten. Ich sitze unter unter einem Baum. Der Baum. Aber guck mal hinter mir. Hinter mir ist das Meer. Hinter mir gibt es einen Strand. Ich bin in Italien. Um genau zu sein in Grado. Kennst du Grado? Warst du schon einmal in Grado? Ich liebe es hier. Ich liebe das italienische Essen, die italienische Küche, die italienische Sprache, das Wetter und natürlich das Meer. Wir sitzen heute hier im Gras auf der Wiese und nicht am Strand, denn am Strand sind Hunde verboten. Taco darf nicht an den Strand. Deshalb haben wir es uns hier gemütlich gemacht. Heute lernst du mit mir die wichtigsten Strandvokabeln. Ich gehe an den Strand und ich nehme dich mit. Ich ziehe meine Sandalen an und ich setze die Sonnenbrille auf. aufsetzen und die Sonnenbrille. So und ich nehme dich mit. Ich nehme dich mit zum Strand. Los geht's. So, ich bin am Strand. Der Strand. Und guck mal, der Sand. Der Sand. Und das hier ist ein Sandstrand. Der Sandstrand. Der Strand hier ist nahezu leer. Es gibt nicht viele Urlauber, nicht viele Strandbesucher hier an dem Strand und es ist sehr windig. Der Wind ist sehr stark. Ich hoffe, du hörst mich. Trotzdem gut. Was gibt es hier? Was gibt es am Strand? Mal gucken. Es gibt hier viele Liegestühle. Der Liegestuhl. Ich habe den Liegestuhl aufgeklappt. Aufklappen. Zuklappen und aufklappen. Ich setze mich auf den Liegestuhl und ich lege mich auf den Liegestuhl. Jetzt liege ich auf dem Liegestuhl und genieße das sonnige Wetter. Es ist ganz schön heiß in der Sonne. Es ist richtig heiß und ich schwitze. Zum Glück gibt es einen Sonnenschirm. Das hier ist kein Regenschirm. Der Schirm schützt nicht vor Regen, sondern vor der starken Sonne. Also spann",
+  "tx": "Hallo, wo bin ich? H, ich sitze auf einem Handtuch. Das Handtuch. Und unter dem Handtuch ist eine Picknickdecke. Ich sitze im Schatten. Ich sitze unter unter einem Baum. Der Baum. Aber guck mal hinter mir. Hinter mir ist das Meer. Hinter mir gibt es einen Strand. Ich bin in Italien. Um genau zu sein in Grado. Kennst du Grado? Warst du schon einmal in Grado? Ich liebe es hier. Ich liebe das italienische Essen, die italienische Küche, die italienische Sprache, das Wetter und natürlich das Meer. Wir sitzen heute hier im Gras auf der Wiese und nicht am Strand, denn am Strand sind Hunde verboten. Taco darf nicht an den Strand. Deshalb haben wir es uns hier gemütlich gemacht. Heute lernst du mit mir die wichtigsten Strandvokabeln. Ich gehe an den Strand und ich nehme dich mit. Ich ziehe meine Sandalen an und ich setze die Sonnenbrille auf. aufsetzen und die Sonnenbrille. So und ich nehme dich mit. Ich nehme dich mit zum Strand. Los geht's. So, ich bin am Strand. Der Strand. Und guck mal, der Sand. Der Sand. Und das hier ist ein Sandstrand. Der Sandstrand. Der Strand hier ist nahezu leer. Es gibt nicht viele Urlauber, nicht viele Strandbesucher hier an dem Strand und es ist sehr windig. Der Wind ist sehr stark. Ich hoffe, du hörst mich. Trotzdem gut. Was gibt es hier? Was gibt es am Strand? Mal gucken. Es gibt hier viele Liegestühle. Der Liegestuhl. Ich habe den Liegestuhl aufgeklappt. Aufklappen. Zuklappen und aufklappen. Ich setze mich auf den Liegestuhl und ich lege mich auf den Liegestuhl. Jetzt liege ich auf dem Liegestuhl und genieße das sonnige Wetter. Es ist ganz schön heiß in der Sonne. Es ist richtig heiß und ich schwitze. Zum Glück gibt es einen Sonnenschirm. Das hier ist kein Regenschirm. Der Schirm schützt nicht vor Regen, sondern vor der starken Sonne. Also spanne ich den Sonnenschirm auf. Aufspannen, abnehmen. Ich nehme zuerst die Hülle ab oder entfernen. Ich entferne die Hülle. Aufspannen. Ich spanne den Sonnenschirm auf. Ich habe den Sonnenschirm aufgespannt oder der Sonnenschirm ist aufgespannt. Jetzt steht die Liege im Schatten. Der Wind weht. Im Schatten ist es schön kühl. Es ist angenehm. Die Temperatur ist angenehm. Ich schwitze nicht mehr und ich spanne den Sonnenschirm ab. Ich mache ihn also zu. Aber auch der Liegestuhl hat ein Sonnendach. Am Strand kann ich gut entspannen. Gerne lese ich auch ein Buch oder höre Musik. Was machst du gerne am Strand? Was machst du gern im Urlaub? Und wo warst du das letzte Mal im Urlaub? Schreib mir das doch gerne in die Kommentare. Statt für Sonnenliege und Sonnenschirben zu bezahlen, bringen viele Menschen ihre eigenen Sachen mit. Viele Menschen liegen in der Sonne, sie bräunen sich. Und hier am Strand tragen die meisten Menschen Badebekleidung. Frauen tragen einen Bikini oder einen Badeanzug und Männer tragen Badehose. Was nimmst du zum Strand mit? Welche Dinge dürfen für dich am Strand nicht fehlen? Was macht man noch so am Strand? Hm. Mal gucken. Muscheln suchen. Suchen und finden. Ich suche Muscheln und ich finde ein paar schöne Muscheln. Die Muschel und die Muscheln am Strand such. Ich gerne schöne Muscheln. Die Muscheln liegen im Sand. Ich halte die Muscheln in der Hand und jetzt wasche ich sie im Meer. Barfuß gehen. Am Strand spazieren gehen, aber natürlich auch schwimmen. Ich schwimme im Urlaub gern im Meer oder im Pol. Schwimmen, schnorcheln und tauchen. Was machst du gern, wenn du am Strand bist? Schwimmst du gern oder liegst du lieber auf einer Luftmatratze? Siehst du die Menschen dort hinten? Am italienischen Meer ist das Wasser oft flach. Man läuft oft meter weit durchs seichte Wasser, bevor es tief wird. Heute ist es sehr windig. Die Kitsurfer nutzen den Wind voll aus. Wie viele Kits kannst du am Himmel sehen? Am Strand steht ein Rettungsboot. Das Rettungsboot ist rot und hat zwei Holzruder. Auf dem Rettungsboot liegt ein Rettungsring. Der Rettungsring ist orange und hat weiße Streifen. Um den Rettungsring ist eine gelbe Wurfleine gewickelt. Auf dem Rettungsturm sitzt die Strandwache. Der Rettungsschwimmer trägt eine rote Badehose und ein rotes Tanktop. Zwischen den liegen liegt Sandspielzeug. Im Netz gibt es Sandspielzeug und auch einen Fußball. Es gibt auch Umkleidekabinen. Hier kann man sich umziehen. Es gibt auch eine Stranddusche. Diese kostet aber 50 Cent. Man kann mit Münzen bezahlen oder auch mit Karte. Und dann gibt es auch noch einen Spielplatz mit Schaukeln und Klettergerüst. Der Strandkiosk. Im Strandkiosk all das kaufen, worauf man vielleicht vergessen hat. Hier gibt es Sonnencreme, Süßigkeiten, Wasser und Strandspielzeug, Eis und Luftmatratzen und Souvenirs. Und dann gibt es auch einen kleinen Gastgarten. Der Strandkiosk hat nämlich auch ein kleines Restaurant und wir haben uns zum Abschluss noch frittierte Calamari und frittierte Meeresfrüchte bestellt. Was istst du gern am Strand am Meer? Schreib mir das doch gern in die Kommentare. Ich hoffe, dass du viele neue Wörter gelernt hast. Vielleicht kanntest du aber schon die meisten Wörter und hast dieses Video dafür genutzt, dein Sprechen zu üben, indem du einfache kurze Sätze mit mir mitsprichst oder nachsprichst, wenn du das noch nicht versuch sucht hast, dann versuch es doch und du wirst sehen, dass du dein Deutsch in kurzer Zeit verbesserst und dass du dich viel wohler und selbstbewusster beim Sprechen fühlst. Der Wind wird stärker und wir wollen jetzt dann auch bald mal los. Also verabschiede ich mich jetzt von dir. Also viel Erfolg beim Deutsch lernen und bis zum nächsten Mal. Tschüss. Ich spann es. Boah, ist das schwer.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -20121,7 +20199,7 @@
  "hQ0WAgnd1tM": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-08T16:01:52+00:00",
+  "checked": "2026-11-11T22:56:14+00:00",
   "title": "Premiere 📣 Mascha und der Bär 💥 NEUE FOLGE 2026 💥 Schnell-Kurs 🐻🏋️‍♂️💪 (Folge 137)",
   "duration": 1249,
   "published": "20260925",
@@ -20278,7 +20356,8 @@
     3
    ]
   ],
-  "tx": "Schneequelle. Hallo Spaßfreund. Bär, komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch. Nimm mich mit. 1 2 3 und 4. 1 2 3 und 4. Oi! 1 2 1 2 1 2 1 2 Oh oh oh. 1 2 1 2 Los! Los! Wow! Hey Bär, kannst du das auch machen? Ich Hopp, hopp, hoppa! Hopp, hopp, hoppa! Du fängst mich nicht, du fängst mich nicht! Ja, ich glaube, wir müssten jetzt noch viel mehr trainieren. Gönn dir 5 Minuten Pause. 3, 2, und die Pause ist rum. Und jetzt trainieren wir, ähm, indem wir auf den Ball springen. Nur keine Panik, wir werden auch an deinem Gebrüll arbeiten. Was für ein toller Spagat. Warum magst du dann kein springen? Okay, gar kein Problem. Ich werde schon noch ein Champion aus dir machen. Das war toll, gut gebrüllt. Du dummer Schien. Nicht aufhören. Versuch jetzt so das Gleichgewicht zu halten. Und jetzt die letzte Übung. Springen von einem Baum. Das war sehr knapp, aber du hast es verfehlt. Ich finde die Blumen sehen so hübsch aus. Gutes Timing, Bär. Lass uns jetzt endlich mit der Gruppenübung beginnen. Lauft weiter, meine Bären. Lauft weiter. Gesundheit. Wieso ist es aus? Hat die Batterie den Geist aufgegeben? Honigbienen, wollt ihr auch etwas Süßes? Juhu, wer hat das Radio repariert? Aber die ganzen Süßigkeiten sind leer. Sie sehen irgendwie nicht gut aus. Bär, wir müssen den Krankenwagen rufen. Hier steht, dass sie zu schwer sind. Sie müssen sich bewegen. Aha, jetzt ist alles klar. Bär, wir brauchen Süßigkeiten für das Training. Und jetzt beginnen wir mit unserer Turnstunde. Stellt eure Füße in schulterbreite auf. Streckt die Arme zu den Seiten aus und 1 2 3 4 Nicht den Atem anhalten. 1 2 3 4 1 2 3 Schön gerade halten. Streckt euch mehr an. Streckt euch mehr an, meine Freunde. Sieh sie nur an. Was können wir ohne Süßes schon erreichen? Es ",
+  "tx": "Schneequelle. Hallo Spaßfreund. Bär, komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch. Nimm mich mit. 1 2 3 und 4. 1 2 3 und 4. Oi! 1 2 1 2 1 2 1 2 Oh oh oh. 1 2 1 2 Los! Los! Wow! Hey Bär, kannst du das auch machen? Ich Hopp, hopp, hoppa! Hopp, hopp, hoppa! Du fängst mich nicht, du fängst mich nicht! Ja, ich glaube, wir müssten jetzt noch viel mehr trainieren. Gönn dir 5 Minuten Pause. 3, 2, und die Pause ist rum. Und jetzt trainieren wir, ähm, indem wir auf den Ball springen. Nur keine Panik, wir werden auch an deinem Gebrüll arbeiten. Was für ein toller Spagat. Warum magst du dann kein springen? Okay, gar kein Problem. Ich werde schon noch ein Champion aus dir machen. Das war toll, gut gebrüllt. Du dummer Schien. Nicht aufhören. Versuch jetzt so das Gleichgewicht zu halten. Und jetzt die letzte Übung. Springen von einem Baum. Das war sehr knapp, aber du hast es verfehlt. Ich finde die Blumen sehen so hübsch aus. Gutes Timing, Bär. Lass uns jetzt endlich mit der Gruppenübung beginnen. Lauft weiter, meine Bären. Lauft weiter. Gesundheit. Wieso ist es aus? Hat die Batterie den Geist aufgegeben? Honigbienen, wollt ihr auch etwas Süßes? Juhu, wer hat das Radio repariert? Aber die ganzen Süßigkeiten sind leer. Sie sehen irgendwie nicht gut aus. Bär, wir müssen den Krankenwagen rufen. Hier steht, dass sie zu schwer sind. Sie müssen sich bewegen. Aha, jetzt ist alles klar. Bär, wir brauchen Süßigkeiten für das Training. Und jetzt beginnen wir mit unserer Turnstunde. Stellt eure Füße in schulterbreite auf. Streckt die Arme zu den Seiten aus und 1 2 3 4 Nicht den Atem anhalten. 1 2 3 4 1 2 3 Schön gerade halten. Streckt euch mehr an. Streckt euch mehr an, meine Freunde. Sieh sie nur an. Was können wir ohne Süßes schon erreichen? Es ist Zeit für die nächste Übung. Seitenbeugen. Und 1 2 3 4 Etwas weiter beugen. Hallo Sportler. Und noch etwas weiter. 1 2 3 Und jetzt die andere Seite. Du gibst immer nur an, aber sonderlich gut trainieren kannst du nicht. Jippi! Hey Honigbienen, los geht's. Macht es uns nach. Ihr sieht irgendwie nicht gut aus. Hey Bär, ruf den Krankenwagen. Hast du das gesehen, Bär? Gib mir was Süßes. Wer will was Süßes? Es ist süß und lecker. So süß, wie es nur geht. Die allersüßeste Süßigkeit. Süß und lecker. Es gibt nichts Süßeres. Hey, wer es schafft, mich zu fangen, bekommt eine leckere Süßigkeit. Kommt, dann holt euch die Süßigkeit. Honigbienen, hier drüben. Hier bin ich. Leckere Süßigkeit. Hey, Zeno, alles beim Alten. Bär, willst du auch abnehmen? Okay, dann hol was Süßes. Kannst du nicht still sein? Es hat eine angebissen bei beiden. Ja. Jetzt reicht's. Du hast es nicht anders gewollt. Jetzt spielst du gegen mich. In Ordnung. Aber wenn ich das hier gewinne, Satz und Spiel, bist du mein Spielzeug. Und wie spielt man das jetzt? Wie heißt es? Tennis? Ich bin fertig. Das Geheimnis des Sieges. Genau, das ist Das ist die Geheimwaffe. Wer am allerlautesten schreit, der gewinnt das Spiel. Oh, im Gewinnen bin ich einfach die Größte. Ich werde die Siegerin dieses Spiels sein. Geschafft, du bist mein Spielzeug. Oh, meine kleinen Zuckerpüppchen. Meine süßen Zwillingsbabys. So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm. Dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mascha und der Bär ist dran. Das war einfach und jetzt probiert ihr es mal.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },

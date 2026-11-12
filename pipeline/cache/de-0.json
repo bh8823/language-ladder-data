@@ -19089,7 +19089,7 @@
  "Yx4u-Y3_od0": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-07T06:11:53+00:00",
+  "checked": "2026-11-11T22:47:42+00:00",
   "title": "Wie bekommt man eine Hormontherapie in Deutschland? Meine Erfahrungen / German Podcast B2 C1",
   "duration": 1367,
   "published": "20260718",
@@ -19097,73 +19097,10 @@
   "spoken_v": 2,
   "pace": 105.9,
   "rare": 0.0659,
+  "var": 0.7984,
   "speech_s": 1357.2,
   "tokens": 2396,
   "kw": [
-   [
-    "hormonbehandlung",
-    "Hormonbehandlung zu beginnen und meine Erfahrungen mit der Hormonbehandlung,",
-    43,
-    54,
-    2.11,
-    15
-   ],
-   [
-    "beratungstermin",
-    "separaten Beratungstermin mit einer psychotherapeutischen",
-    182,
-    189,
-    2.21,
-    4
-   ],
-   [
-    "indikation",
-    "Indikation. Eine Indikation ist ein Schreiben, in",
-    153,
-    162,
-    3.21,
-    6
-   ],
-   [
-    "patreon",
-    "Patreon. Wir haben ganz ganz tolle",
-    279,
-    285,
-    2.56,
-    4
-   ],
-   [
-    "östrogen",
-    "eine bioidentische Version von Östrogen und Zyproteron Accetat.",
-    108,
-    119,
-    2.7,
-    4
-   ],
-   [
-    "tabletten",
-    "von den Tabletten, die Bayer herstellt.",
-    745,
-    754,
-    3.9,
-    9
-   ],
-   [
-    "krankenkasse",
-    "gesetzlichen Krankenkasse übernommen. Ich bin bei der Technikerkrankenkasse",
-    963,
-    972,
-    3.87,
-    8
-   ],
-   [
-    "chemikalie",
-    "ist die Chemikalie und diese Chemikalie wird bei mir",
-    129,
-    139,
-    2.79,
-    3
-   ],
    [
     "musste",
     "Schritte, die ich machen musste, um",
@@ -19197,42 +19134,138 @@
     8
    ],
    [
-    "person",
-    "besteht, dass es für die Person",
-    168,
-    176,
-    5.29,
+    "bezahlen",
+    "nicht weiter zu bezahlen. Und sie sagen,",
+    1020,
+    1027,
+    4.76,
+    7
+   ],
+   [
+    "behandlung",
+    "Hormonb Behandlung. In diesem Video erzähle ich euch von den",
+    29,
+    38,
+    4.74,
+    7
+   ],
+   [
+    "medikamente",
+    "diese Medikamente zu bekommen, um die",
+    41,
+    48,
+    4.26,
+    7
+   ],
+   [
+    "angeboten",
+    "Beratungen über Zoom angeboten hat. Das hat damals ungefähr 50 € gekostet.",
+    228,
+    239,
+    4.68,
+    5
+   ],
+   [
+    "tabletten",
+    "von den Tabletten, die Bayer herstellt.",
+    745,
+    754,
+    3.9,
+    9
+   ],
+   [
+    "krankenkasse",
+    "gesetzlichen Krankenkasse übernommen. Ich bin bei der Technikerkrankenkasse",
+    963,
+    972,
+    3.87,
     8
    ],
    [
-    "indem",
-    "direkt auf YouTube unterstützen, indem ihr dieses Video bis zum Ende schaut.",
-    338,
-    347,
-    4.97,
-    8
+    "bestätigung",
+    "sagt, dass ich erstmal eine Bestätigung",
+    1054,
+    1062,
+    4.16,
+    3
    ],
    [
-    "heisst",
-    "",
-    0,
-    0,
-    5.48,
-    8
+    "gedauert",
+    "Stunden gedauert, wo ich mit dieser Person gesprochen habe",
+    245,
+    254,
+    4.09,
+    3
    ],
    [
-    "erfahrungen",
-    "über meine Erfahrungen mit dem deutschen Gesundheitssystem,",
-    18,
-    30,
-    4.82,
-    8
+    "indikation",
+    "Indikation. Eine Indikation ist ein Schreiben, in",
+    153,
+    162,
+    3.21,
+    6
+   ],
+   [
+    "angefühlt",
+    "mich ein bisschen unnötig angefühlt hat.",
+    268,
+    277,
+    3.27,
+    4
+   ],
+   [
+    "fachkraft",
+    "Fachkraft festgestellt wurde, dass ein Bedarf für eine Hormonbehandlung",
+    161,
+    173,
+    3.48,
+    3
+   ],
+   [
+    "gel",
+    "Medikament. Gynokadin ist ein Gel, dass",
+    920,
+    927,
+    3.56,
+    2
+   ],
+   [
+    "hormonbehandlung",
+    "Hormonbehandlung zu beginnen und meine Erfahrungen mit der Hormonbehandlung,",
+    43,
+    54,
+    2.11,
+    15
+   ],
+   [
+    "östrogen",
+    "eine bioidentische Version von Östrogen und Zyproteron Accetat.",
+    108,
+    119,
+    2.7,
+    4
+   ],
+   [
+    "patreon",
+    "Patreon. Wir haben ganz ganz tolle",
+    279,
+    285,
+    2.56,
+    4
+   ],
+   [
+    "beratungstermin",
+    "separaten Beratungstermin mit einer psychotherapeutischen",
+    182,
+    189,
+    2.21,
+    4
    ]
   ],
-  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Mein Name ist Jer und heute spreche ich über meine Erfahrungen mit dem deutschen Gesundheitssystem, um genau zu sein im Kontext einer Hormonb Behandlung. In diesem Video erzähle ich euch von den Medikamenten, die ich nehme, die Schritte, die ich machen musste, um diese Medikamente zu bekommen, um die Hormonbehandlung zu beginnen und meine Erfahrungen mit der Hormonbehandlung, mit der Weiterführung der Behandlung und mit verschiedenen Dingen, die mir geschehen sind oder Probleme, die ich im Laufe der Zeit lö lösen musste. Das hier ist kein Guide. Es ist einfach nur meine persönliche Erfahrung mit diesem Thema. Das bedeutet, andere Personen in Deutschland haben vielleicht auch andere Erfahrungen gemacht, aber allgemein die grobe Struktur sollte für alle Personen gleich sein. Ich befinde mich jetzt seit ungefähr 2 Jahren in einer Hormonbehandlung. Das heißt, ich bekomme von meiner Endokrinologin, der Hormonärztin, zwei Medikamente verschrieben. Gynokadin, was Östradiol beinhaltet, eine bioidentische Version von Östrogen und Zyproteron Accetat. Zyproteronassetat wird oft auch Androkur genannt, aber Androkur ist einfach nur ein Markenname. Zyproteronassetat ist die Chemikalie und diese Chemikalie wird bei mir benutzt, um mein Testosteron zu unterdrücken und dann Östradiol, Östrogen mit dem Gynokardin hinzuzufügen. Um in Deutschland eine Hormonbehandlung zu beginnen, braucht man erstmal eine Indikation. Eine Indikation ist ein Schreiben, in dem von einer psychotherapeutischen Fachkraft festgestellt wurde, dass ein Bedarf für eine Hormonbehandlung besteht, dass es für die Person notwendig ist. Das kann durch eine bestehende Therapie entstehen, aber man kann oft auch einen separaten Beratungstermin mit einer psychotherapeut",
+  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Mein Name ist Jer und heute spreche ich über meine Erfahrungen mit dem deutschen Gesundheitssystem, um genau zu sein im Kontext einer Hormonb Behandlung. In diesem Video erzähle ich euch von den Medikamenten, die ich nehme, die Schritte, die ich machen musste, um diese Medikamente zu bekommen, um die Hormonbehandlung zu beginnen und meine Erfahrungen mit der Hormonbehandlung, mit der Weiterführung der Behandlung und mit verschiedenen Dingen, die mir geschehen sind oder Probleme, die ich im Laufe der Zeit lö lösen musste. Das hier ist kein … durch eine bestehende Therapie entstehen, aber man kann oft auch einen separaten Beratungstermin mit einer psychotherapeutischen Fachkraft buchen. Das ist dann ein Gespräch, dass man mit dieser Person führt. In diesem Gespräch muss man Fragen beantworten. Man muss erzählen, was für Erlebnisse man hatte, wie man zu sich selbst steht und diese Fachkraft schreibt dann entsprechend der Beratung eine Indikation. Für mich persönlich, als ich mir im Klaren war, dass ich das gerne machen würde, dass ich gerne eine Hormonbehandlung hätte, habe ich ein wenig recherchiert und habe dann in der Umgebung … schüchtern seid und ihr euch nicht binden möchtet, dann könnt ihr uns auch einmalig einfach direkt auf PayPal oder auf bei mir Coffee unterstützen. Und wenn ihr kein Geld ausgeben möchtet, dann ist das natürlich auch völlig in Ordnung. Ihr könnt uns einfach hier direkt auf YouTube unterstützen, indem ihr dieses Video bis zum Ende schaut. Der Algorithmus mag das besonders gerne, indem ihr dieses Video liked, indem ihr subscribed, indem ihr teilt oder einfach indem ihr einen Kommentar unten hinschreibt. Vielen Dank für alles, was ihr tut. Ihr macht das alles hier überhaupt erst möglich und … einfach ein bisschen komisch angefühlt mit dieser wildfremden alten deutschen Person über meine Gefühle und meine und meine Beziehung zu meinem eigenen Geschlecht zu sprechen. Es war ein wenig unangenehm und das ganze über Zoom zu machen hat auch nur so halbwegs funktioniert. Ich konnte die Person teilweise nur ganz schlecht verstehen. Ich musste immer noch mal nachfragen, was die Person gesagt hat und so weiter. Also, es war eine etwas holprige Erfahrung. Nachdem ich dann endlich diese Inteikation erhalten hatte, hurrah, mußte ich einen Arzt oder eine Ärztin finden. Normalerweise wird … die Hormonwerte testen. Das macht man, indem sie deinen Blut klauen und untersuchen. Und dann kriegt man so eine ganz tolle Liste mit allem, was so in deinem Körper passiert und wie die Werte davon sind. Das wird dann benutzt, um eine Behandlung festzulegen, welche Mengen man nehmen muss und so weiter und wie oft. Das heißt, ich musste dann auch erst noch einmal wieder auf den Termin zur Blutnahme warten. Und nachdem ich dann den Termin zur Blutinnahme gemacht hatte, musste ich auf die Ergebnisse warten. Und sobald ich dann die Ergebnisse hatte, musste ich auf den ersten … pro Tag. Das hat tatsächlich für ein paar Schwierigkeiten gesorgt. Ich habe am Anfang des Videos gesagt, dass Zyprotonacetat oft auch Androur genannt wird. Androkur ist der Produktname von den Tabletten, die Bayer herstellt. Bayer ist eine Firma, die Medikamente herstellt und ist momentan in Deutschland die einzige Firma, die Zyproteronassetat in Tablettenform verkauft. Und als ich angefangen habe, haben Sie zwei Versionen angeboten. Sie haben 5 mg Tabletten angeboten und sie haben 50 mg Tabletten angeboten. Und als sie noch die 5 mg Tabletten angeboten haben, konnte man relativ einfach … muss ein bisschen suchen und man muss ein bisschen Glück haben, dass man eine findet, die bereit ist, das zu tun. Das Gynokadin ist ein bisschen einfacher. Das Gynokadin wird ganz normal verkauft. Dabei besteht auch, glaube ich, keine große Gefahr, dass dieses Produkt vom Markt genommen wird, weil es auch oft von Frauen in den Wechseljahren Menopaus benutzt wird. Es gibt also immer genug Kunden für dieses Medikament. Gynokadin ist ein Gel, dass ich morgens und abends auf meine Haut gebe und verteile. Ich muss dann immer ein bisschen aufpassen, weil dieses Gel für ein paar Stunden auf meiner … und bis es eine klarere Entscheidung gibt, müssen wir es erstmal nicht bezahlen. Das ist natürlich völliger Schwachsinn. Es ist einfach nur eine Ausrede für diese Krankenkassen möglichst wenig Geld zu bezahlen. Und jetzt habe ich von meiner Endokrinologin eine Nachricht bekommen, in der sie sagt, dass ich erstmal eine Bestätigung von meiner Krankenkasse brauche, bevor sie mir weiter Rezepte für meine Hormonbehandlung ausstellt, die von meiner Krankenkasse bezahlt werden müssen. Es kann nämlich passieren, dass wenn die Krankenkasse jetzt plötzlich sagt, ach, wir machen das jetzt nicht mehr, … bekommen, indem sie noch einmal erklärt, dass diese Behandlung notwendig ist, dass das allen medizinischen Standards entspricht und ich habe dieses Schreiben an meine Krankenkasse weitergeleitet und um eine Bestätigung der weiteren Kostenübernahme gebeten. Die Krankenkasse hat jetzt einiges an Zeit, um zu antworten. Ich glaube 7 Wochen, aber ich bin mir nicht sicher. Das kann auch falsch sein. Nehmt das nicht zu genau. Und dann hoffe ich einfach mal, dass sie jetzt nicht plötzlich sagen, ach, sie haben ja recht. Wir müssen das gar nicht bezahlen und nein sagen. Hoffentlich sagen sie … Was denkt ihr über dieses Thema? Habt ihr vielleicht auch persönliche Erfahrungen mit diesem Thema oder zumindest ähnliche Erfahrungen? Wenn ja, dann würde ich mich natürlich sehr freuen von euch in den Kommentaren zu hören. Ich freue mich immer von anderen Perspektiven zu lesen oder vielleicht auch von Erfahrungen aus anderen Ländern zu diesen Themen. Das ist für mich immer besonders interessant. Ich hoffe, dass es für euch auch interessant war, mir zuzuhören und ich möchte allen, die uns unterstützen, ganz ganz doll danken. Wir sehen uns im nächsten Video und bis dahin Jam Gut.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8181
+  "src": "auto"
  },
  "99QWzM7Rk_g": {
   "channel": "Deutsch für Euch",
@@ -19429,7 +19462,7 @@
  "F-qFOEvw7Gc": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-08T15:24:47+00:00",
+  "checked": "2026-11-11T22:44:17+00:00",
   "title": "6 feste Ausdrücke, die du im Deutschen brauchst (B2/C1)",
   "duration": 751,
   "published": "20260621",
@@ -19570,7 +19603,8 @@
     5
    ]
   ],
-  "tx": "„Im Sande verlaufen\", zu Buche schlagen”, “etwas im Schilde führen” – das sind Beispiele für feste Ausdrücke im Deutschen, die sehr nützlich für die Kommunikation im Alltag sind. Diese Ausdrücke haben eine Besonderheit, nämlich ein e. Eigentlich heißt es doch “Sand” und nicht “Sande” und “Buch” statt “Buche”. Früher hat man im Deutschen oft im Dativ ein -e angehängt. Dieses alte Dativ-e sehen wir heute noch in einigen dieser festen Ausdrücke und davon zeig ich jetzt ein paar. Wenn ihr dieses Video geschaut habt, erkennt ihr diese Ausdrücke sofort, wenn ihr sie hört, wisst genau, was sie bedeuten, und könnt sie selbst verwenden. Los geht’s! - „Meine Heimatstadt hat sich im Laufe der Jahre stark verändert.\" “Im Laufe der Jahre” bedeutet etwas Ähnliches wie “während der vergangenen Jahre” oder “im Verlauf vieler Jahre”. Mit „im Laufe …\" beschreibt man einen Zeitraum, in dem etwas passiert oder sich entwickelt: In den vergangenen Jahren hat sich die Stadt schrittweise, nach und nach verändert. Wir können auch einen anderen Zeitraum beschreiben. Zum Beispiel: - „Im Laufe der letzten Jahrzehnte hat sich die Rolle der Frau in der Arbeitswelt grundlegend verändert.” In den letzten Jahrzehnten hat sich die Rolle der Frau langsam immer weiter verändert. Oder: - „Sprachen verändern sich im Laufe der Zeit.” Bei „im Laufe der Zeit\" bleibt offen, wie lang der Zeitraum genau ist. Das Entscheidende ist nicht die Länge, sondern dass sich etwas langsam, nach und nach verändert, ohne dass man einen klaren Anfang oder ein klares Ende benennen kann. Man kann oft gar nicht genau sagen, wann es begonnen hat – man merkt nur: Heute ist die Sprache anders als früher. Wir verwenden “im Laufe …” aber auch noch etwas anders. Zum Beispiel hier: - “Ich weiß noch nicht genau, wann ich heute bei dir se",
+  "tx": "„Im Sande verlaufen\", zu Buche schlagen”, “etwas im Schilde führen” – das sind Beispiele für feste Ausdrücke im Deutschen, die sehr nützlich für die Kommunikation im Alltag sind. Diese Ausdrücke haben eine Besonderheit, nämlich ein e. Eigentlich heißt es doch “Sand” und nicht “Sande” und “Buch” statt “Buche”. Früher hat man im Deutschen oft im Dativ ein -e angehängt. Dieses alte Dativ-e sehen wir heute noch in einigen dieser festen Ausdrücke und davon zeig ich jetzt ein paar. Wenn ihr dieses Video geschaut habt, erkennt ihr diese Ausdrücke sofort, wenn ihr sie hört, wisst genau, was sie … Zum Beispiel: - „Im Laufe der letzten Jahrzehnte hat sich die Rolle der Frau in der Arbeitswelt grundlegend verändert.” In den letzten Jahrzehnten hat sich die Rolle der Frau langsam immer weiter verändert. Oder: - „Sprachen verändern sich im Laufe der Zeit.” Bei „im Laufe der Zeit\" bleibt offen, wie lang der Zeitraum genau ist. Das Entscheidende ist nicht die Länge, sondern dass sich etwas langsam, nach und nach verändert, ohne dass man einen klaren Anfang oder ein klares Ende benennen kann. Man kann oft gar nicht genau sagen, wann es begonnen hat – man merkt nur: Heute ist die … Das könnte in einer E-Mail von einem Kundenservice stehen. Irgendwann innerhalb einer Woche bekommen Sie eine Antwort von uns. - „Hast du bemerkt, wie freundlich Tom heute zu allen ist?\" – „Ja, seltsam. Der führt irgendwas im Schilde.” “Etwas im Schilde führen” ist unser nächster Ausdruck. Er ist umgangssprachlich. Wenn jemand etwas im Schilde führt, dann hat die Person einen geheimen Plan. Die Person hat irgendetwas Heimliches vor. Man sagt das meistens, wenn man denkt, dass die Person etwas Schlechtes vorhat. Man verdächtigt jemanden und misstraut ihm. Hier ist noch ein Beispiel: - „Die … vorsichtig mit diesem Geschäftspartner. Er wirkt sehr charmant, aber ich habe das Gefühl, dass er nichts Gutes im Schilde führt.” Dieser Ausdruck stammt wohl aus dem Mittelalter, ist also schon ziemlich alt. Stellt euch einen Ritter vor. Zur Ausrüstung eines Ritters gehörte früher ein Schild (das ist übrigens nicht “das Schild”, sondern “der Schild”). Den Schild hielt er vor sich, um sich vor Angriffen zu schützen. Auf diesem Schild war ein Wappen, also ein Zeichen, das jedem zeigte, woher der Ritter kam. An dem Wappen, das der Ritter “im Schilde führte” – also auf dem Schild hatte – konnte … ist leider im Sande verlaufen.” Wenn ein Plan oder ein Projekt “im Sande verläuft”, dann gibt man den Plan auf. Man arbeitet nicht weiter an dem Plan, er wird vergessen. Er schläft ein. Wir hatten geplant, ein Café zu eröffnen, aber wir haben nie so richtig damit angefangen. Der Plan ist ohne Ergebnis zu Ende gegangen. Stellt euch vor, wie Wasser in trockenen Sand fließt. Das Wasser “läuft” in den Sand, wird immer weniger und verschwindet schließlich ganz. Der Plan ist das Wasser. Er verschwindet irgendwann einfach, weil niemand sich mehr darum kümmert. Noch ein Beispiel: - “Die Polizei … mich eigentlich regelmäßig mit meiner ehemaligen Kollegin treffen, aber irgendwie ist der Kontakt im Sande verlaufen.” Also: Niemand hat den Kontakt bewusst abgebrochen. Aber wir haben uns einfach nicht mehr gesehen, hatten immer weniger Kontakt und irgendwann dann gar keinen Kontakt mehr. Der Kontakt war irgendwann weg. Wenn dir meine Arbeit hier bei YouTube gefällt, dann würde ich mich freuen, wenn du mich als Mitglied unterstützt. Als Mitglied bekommst du Übungsaufgaben zu allen meinen Videos – auch zu diesem hier. Du kannst dir außerdem die Skripte zu meinen Videos herunterladen, … Konstruktion “mit etwas zu Buche schlagen”. “Etwas” ist der Geldbetrag, den etwas kostet. Hier im Beispiel sage ich also: Die Reparatur der Wasserleitung ist echt teuer, sie kostet nämlich mehrere Tausend Euro. Noch ein Beispiel: - „Ein eigenes Auto verursacht mehr Kosten, als viele denken. Versicherung, Steuer und Reparaturen schlagen jedes Jahr mit mehreren Tausend Euro zu Buche.” Also: Wenn man die Kosten für ein Auto zusammenrechnet, kommt eine große Summe zusammen. Ein eigenes Auto ist teuer. Oder: - “Unser Sommerurlaub wird dieses Jahr echt teuer. Allein die Flüge schlagen schon mit … wie viel Geld man ausgegeben hat und wie viel Geld man verdient hat. Wenn eine Ausgabe richtig groß war, dann “schlug sie zu Buche”. Diesen Ausdruck benutzt man im Alltag nicht so oft, aber er wird häufig in geschäftlichen Texten verwendet oder wenn es ganz allgemein um Wirtschaft geht. - „Und, wie war der Vortrag von deinem Kollegen?\" – „Ganz ehrlich? Wir haben uns alle zu Tode gelangweilt. Nach zehn Minuten hat keiner mehr zugehört.” “Sich zu Tode langweilen” – das ist ein Ausdruck, den man echt häufig hört. Ich sage damit, dass ich mich extrem gelangweilt habe. Der Vortrag war … ist noch ein Beispiel: - „Ich habe mich gerade zu Tode erschrocken! Da war eine riesige Spinne in der Dusche.” Also: Ich habe mich gerade sehr sehr stark erschrocken. Oder: - “Sie hat mich zu Tode erschreckt, als sie auf einmal in meinem Zimmer stand.” Falls ihr euch wundert, dass ich einmal “erschrocken” und einmal “erschreckt” sage, schaut euch mal dieses Video über Verben mit “schrecken” an. Ich verlinke es in der Videobeschreibung. - „Ich bin im Moment einfach nicht imstande, mich zu konzentrieren.\" “Imstande sein, etwas zu tun” bedeutet “etwas machen können” oder “in der Lage sein, … ein ganzes Team zu leiten?” Also: Denken Sie, dass Herr Schulte ein ganzes Team leiten kann? Hat er die Fähigkeiten dafür? In diesem Ausdruck haben wir das Wort “Stand”. Das hat verschiedene Bedeutungen, unter anderem bedeutet es auch so viel wie “Zustand”. Wenn jemand imstande ist, etwas zu tun, dann ist er in einem Zustand, in dem er etwas tun kann. Welche Ausdrücke aus diesem Video waren neu für dich? Schreib gerne Beispielsätze damit unten in die Kommentare. Und wenn dir das Video gefallen hat, freue ich mich über einen Daumen nach oben! Vielen Dank fürs Zuschauen und bis nächste Woche!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -20292,7 +20326,7 @@
  "9NzRpCMGFMo": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-08T16:00:18+00:00",
+  "checked": "2026-11-11T22:55:35+00:00",
   "title": "Sag nicht „Dunny“ 🚽 | 1 Stunde voller alberner Spiele | Bluey - Deutsch Offizieller Kanal",
   "duration": 4149,
   "published": "20260814",
@@ -20465,14 +20499,15 @@
     6
    ]
   ],
-  "tx": "Oh, ich weiß es. Wir spielen einfach stille Post. Rutsch rüber, Riesen Daddy. Wir tauschen den Platz. Okay, alle bereit? Bereit. Ich esse gern pinke Kekse zum Frühstückstee. Vor allem, wenn ich dabei mit dem Pferd zum Mond reite, weil ich den Mond am Morgen sehr mag. Okay, los. M, was habe ich gesagt? Guten Morgen. Ich mag Mondkekse, weil sie viel besser sind als der Mond und trinke einen Morgentee. Nein, nein, das war total falsch. M, tja, was hast du denn gesagt? Oh, ich esse gern. Hab es vergessen. Mach es einfacher. Ich bin dran. Alles klar, wir tauschen durch. Mom, du bleibst da. Okay. Okay. Bingo, du weißt, was du zu tun hast. Oh Mann, ich muss schnell auf die Schüssel. Oh Mann, ich muss schnell auf die Schüssel. Oh Mann, ich muss schnell auf die Schüssel. Was habe ich gesagt? Ja, was hat sie gesagt? Und du musst es ganz laut sagen. Der Elefant hat einen langen Rüssel. Nein, unser Schloss braucht dringend einen neuen Schlüssel. Nein, das war voll falsch. Sie hat gesagt: \"Oh Mann, ich muss schnell auf die Schüssel.\" Rollgeplättet. Okay, okay, das reicht. Die Kinder sind genug rollgeplät. Oh, ich würde so gerne Schüssel sagen dürfen. Ach ja, warum denn? Ich mag das Wort und es reimt sich auf Rüssel. Weißt du, ich möchte, dass wir ordentliche Worte benutzen. Dann weiß jeder, dass wir eine ordentliche Familie sind. Oh, ist es okay, dass ich das will? Ja, ich binung. Okay, Herzlichen Dank. Können wir vier Hunde im Bett spielen? Ist gut. Hurra! Bereit? Bereit. Es waren vier im Bett und der kleine Hund sagt: \"Rutsch drüber, rutsch drüber.\" Also rutschen sie rüber und einer fiel raus. Es waren drei im Bett und der kleine Hund sagt: \"Rutsch drüber, rutsch drüber.\" Also rutschen sie rüber und einer fiel raus. Äh, Augenblick, die Glasur macht man erst am Ende drauf. Ah, wird",
+  "tx": "Oh, ich weiß es. Wir spielen einfach stille Post. Rutsch rüber, Riesen Daddy. Wir tauschen den Platz. Okay, alle bereit? Bereit. Ich esse gern pinke Kekse zum Frühstückstee. Vor allem, wenn ich dabei mit dem Pferd zum Mond reite, weil ich den Mond am Morgen sehr mag. Okay, los. M, was habe ich gesagt? Guten Morgen. Ich mag Mondkekse, weil sie viel besser sind als der Mond und trinke einen Morgentee. Nein, nein, das war total falsch. M, tja, was hast du denn gesagt? Oh, ich esse gern. Hab es vergessen. Mach es einfacher. Ich bin dran. Alles klar, wir tauschen durch. Mom, du bleibst da. Okay. … Entsafter. Warte, welche Früchte findest du eklig? Oh, Honigmelonen. Ich bin eine Honigmelone. Ja, und ich bin eine Fliege. Oh nein. Okay, dann mache ich mal den Deckel drauf. Klonk. Und jetzt schalte ich den Entsafter endlich ein. In Ordnung, schon fertig den Deckel ab. Ich will unbedingt kosten. Honigmelone und fliegen, die geht. Mach ein Nein. Nein, Kinder, das war's für mich. Ich muss jetzt los zur Arbeit. Nein, du hast noch Hunger auf Eier. Ja, ja. Ich esse keine Kohlenhydrate mehr. Es funktioniert. H, wir haben keinen Platz, um Kim Jim hinzulegen. Oh, ich weiß was. Also, wenn wir diese … Aber ich will da rein. Ich muss es tun. Wieso denn? Weil ich der Chefwissenschaftler bin. Es ist meine Aufgabe, alles herauszukriegen. Tja, dann kommen wir mit ihn. Was? Das ist zu gefährlich. Ich gehe allein rein. Aber was machen wir dann? Sie fliegen ohne mich zu Maß. Sind Sie sicher? Sehr sicher. Okay, du lässt ihn jetzt einfach gehen, wenn er das unbedingt spielen will. M, ich habe überhaupt keine Lust, Stopptanz zu spielen. Will ich auch nicht. Wie traurig. Ich brauche jemanden, der die Musik anhält. Aha, jetzt ist klar, woher Blue das hat. Okay, bereit? Los und stopp. Geblinzelt, … Familienberatung. Wir können keine großen Fische werden. Ja, diese Margaret gefällt mir überhaupt gar nicht. Sie ist eine ganz gemeine alte Wassermelone. Ja, ich will Karen zurück. Wie wä es, wenn wir uns Weigang zu machen, was sie sagt? Ja, wenn wir zusammenhalten, was will sie dann machen? Was meinst du, Mirfindor? Miror? Und dann haben sie gesagt, dass sie überhaupt nicht auf sie hören wollen und dass sie Karen zurück haben wollen. Ausgezeichnet gepetzt, Schätzchen. Ungezogenheit wird bestraft. Mirendor, hast du uns etwa verpetzt? Das ist erlaubt. Genauso ist es. Du bist jetzt ein großer … Ich werde euch locker schlagen. Ja, der gewinnt. Okay, gut gemacht. Danke. Jetzt gehe ich mir mein Brausulver holen. Ja. Ja, mach das. Ich glaube, wir hatten jetzt auch genug Dad für heute. Okay, dann wollen wir mal wieder Spaß haben. Das hat Spaß gemacht. Ja, was? Ich will noch ein Rennen machen. Hilfst du mir Dad zu besiegen? Ja, ich will Brausepulver. Okay, er wird euch aber nicht gewinnen lassen. Das ist wahr. Also, habt ihr nur eine Möglichkeit. Schummeln. Ja. Ja. Was? Nein. Ich meinte, ihr müsst üben. Ihr Kinder, seid wirklich willig, wieder besiegt zu werden? Oh ja, das sind wir. … raus. Na schön, einen Film gucken. Welchen Knopf muss ich jetzt drücken? Ah, Grüy, ich muss mich hier konzentrieren, Schätzchen. H Oh, geh mal zur Seite. Ah, Mami, Grüni hat mich geschupst. Grüni, was ist denn nur in dich gefahren? Also, jeder behält seine Patschehändchen bei sich. Grüni ist ein Kissenkopf. Windstoß. In meinem Haus wird aber niemand Kissenkopf genannt. Gute Erziehung. Knall. Mama, Grüni hat mich gehauen. Tja, das war ja irgendwie zu erwarten. Das gefällt mir jetzt nicht so gut. Ja, Grü Schätzchen, komm endlich darunter. Ich denke, diese Kinder brauchen ein bisschen … ich ihn verschaffen, Liebchen. Nächster Halt, bitte Fahrer. Hä? Aber der nächste Halt ist der Wurstladen. Sie wollten zum Kreuzfrätselclub. Nein, ich muss Wurst einkaufen. Okay. Und da sind wir. Türen öffnen. Vielen Dank. Ich habe meine Meinung geändert. Oh, okay. Türen schließen. Nächste Halt, bitte Fahrer. Aber das ist die Bibliothek. Ja, ich brauche ein Kochbuch. Okay, Türen öffnen. Viel Freude. Eigentlich kann ich nicht lesen. Passagiere sollen nur den Halteknopf drücken, wenn sie wirklich aussteigen wollen. Ist das klar? Gestehen Sie ihm die Liebe. Nein. Was meinen Sie mit Nein? Ich … nicht einfach wie wir anderen sein? Warum bist du in allem so anders? Ich weiß es nicht. Ich wäre gern nicht anders. Oh Mann, diese Lieder. Ich wäre so wie ihr. Popcorn. Ein Popcorn bitte. Klar. Bingo. Fass das nicht an. Dad, bin ich eigentlich auch anders so wie Chunky? Hä? Ja. Na ja. Nein, Bingo, nicht spatz. Ich glaube, ich bin anders. Ich bin die einzige von meinen Freunden, die nicht ins Kino geht. Ich wäre gerne nicht anders. Weißt du, Blo? Ich bin mir ziemlich sicher, dass am Ende allen gefallen wird, dass der Affe anders ist. Nicht verschütten Bingo, nicht verschütten. Tja, ich … das kriegen wir ganz schnell wieder hin. Au, au, au. Edner, kümmer dich um die Patientin. Au, au, au, au, au. Ich bin eine Meerjüfrau und ich habe Beine. Da ist ja ein altes Schloss. Wer hier wohl gewohnt hat? Vielleicht gehört das Schloss den anderen Meerjungfrauen. Hallo. Ähm, wäre es okay, wenn du weggehst? Ich will die Muschel so gerne meiner Mom zeigen. Ah, vielleicht gehe ich auch lieber wieder zurück. Ich glaube, ich war lange genug ganz allein unterwegs. Oh, Dad ist nur noch ein blauer Fleck. Ich kann nicht mehr zurückgehen und ich kann nicht vorwärts gehen. Was mache ich denn … im Garten spielen. Ja. Könnt ihr mit uns genau die gleichen Spiele spielen wie Mom und Dad? Okay. Was spielen Sie denn? Rattenuhn. Ratten? Was? Komm her und geh weg. Komm und geh. Was genau? Wir müssen nicht die gleichen Spiele spielen. Blu, wir spielen Lampenmaus. Quak. Quick quick qui knapper knapper knapper knapper. Lampenmaus war ganz lustig, aber jetzt möchte ich gar nichts mehr machen, was irgendwie anders ist. Wie wäre es damit? Ja, das ist verrückt. Ja, aber du wirst dich ganz schnell dran gewöhnt. Ich will auch. Oh, Mann. Dann versuchen wir es mal. Na, hallöchen, falsch Rumbingo.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "I5GBtWjYMt8": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-08T16:01:48+00:00",
+  "checked": "2026-11-11T22:56:10+00:00",
   "title": "💥 NEUE FOLGE 💥 Schnell-Kurs 🐻🏋️‍♂️💪 Episodensammlung 🎬 Mascha und der Bär",
   "duration": 2782,
   "published": "20261002",
@@ -20637,7 +20672,8 @@
     2
    ]
   ],
-  "tx": "schnell kurz. Hallo Sportsfreund. W komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart. Ich will auch. Nimm mich mit. 1 2 3 und 4. 1 2 1 Z 1 2 1 2 Oh oh oh 1 2 1 2 Wow. Hey Bär, kannst du das auch machen? П. Пхопа. อึ Du fängst mich nicht. Du fängst mich nicht. Ja, ich glaube, wir müssten jetzt noch viel mehr trainieren. Gönn dir 5 Minuten Pause. 3 2 und die Pause ist rum. Und jetzt trainieren wir, indem wir auf den Ball springen. Nur keine Panik, wir werden auch an deinem Gebrüll arbeiten. Was für ein toller Spagat. Warum magst du dann keinen springen? Ha! Okay, gar kein Problem. Ich werde schon noch ein Champion aus dir machen. Hey! Hey, das war toll. Gut gebrt, du Dummerchen. nicht aufhören. Versuch jetzt so das Gleichgewicht zu halten. Hop, hop, hop, hop. Und jetzt die letzte Übung. Springen von einem Baum. Das war sehr knapp, aber du hast es verfehlt. Ich finde, die Blumen sehen so hübsch aus. Gutes Timing wär. Lass uns jetzt endlich mit der Gruppenübung beginnen. Lauft weiter, meine Bären. Lauft weiter. Strandtag. Ich fange gleich an zu kochen. Hä? Aha. Hallo. Wo sind denn alle abgeblieben? Niemand da. Auch keiner zu Hause. Ich frag mich, wo alle hin sind. Hey, Bär, Bär. Warte auf mich bitte. Hallo, Bär, wo sind denn alle abgeblieben? Oh. Hula, ich gehe schwimmen. Nein. Ah! Hä? Willst du, dass ich das alles anziehe? Was ist denn jetzt schon wieder? H Ui, jemand muss mir helfen. Der Rettungsschimmer ist am ertrinken. Oh, da bist du ja wieder. Nein, leider noch nicht ganz. Wer ist jetzt unser Rettungsschwimmer? Hier. Ja. Nun. Wen rette ich als erstes? H entfreundet. Hallo Bär, streichst du etwa den Zaun? Das ist genau das, was ich jetzt machen wollte. Ein roter Zaun ist wunderbar. Ganz sonnenklar. Ich streiche schnell. Ich k den wär ganz ",
+  "tx": "schnell kurz. Hallo Sportsfreund. W komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart. Ich will auch. Nimm mich mit. 1 2 3 und 4. 1 2 1 Z 1 2 1 2 Oh oh oh 1 2 1 2 Wow. Hey Bär, kannst du das auch machen? П. Пхопа. อึ Du fängst mich nicht. Du fängst mich nicht. Ja, ich glaube, wir müssten jetzt noch viel mehr trainieren. Gönn dir 5 Minuten Pause. 3 2 und die Pause ist rum. Und jetzt trainieren wir, indem wir auf den Ball springen. Nur keine Panik, wir werden auch an deinem Gebrüll arbeiten. Was für ein toller Spagat. Warum magst du dann keinen springen? Ha! Okay, … toll. Gut gebrt, du Dummerchen. nicht aufhören. Versuch jetzt so das Gleichgewicht zu halten. Hop, hop, hop, hop. Und jetzt die letzte Übung. Springen von einem Baum. Das war sehr knapp, aber du hast es verfehlt. Ich finde, die Blumen sehen so hübsch aus. Gutes Timing wär. Lass uns jetzt endlich mit der Gruppenübung beginnen. Lauft weiter, meine Bären. Lauft weiter. Strandtag. Ich fange gleich an zu kochen. Hä? Aha. Hallo. Wo sind denn alle abgeblieben? Niemand da. Auch keiner zu Hause. Ich frag mich, wo alle hin sind. Hey, Bär, Bär. Warte auf mich bitte. Hallo, Bär, wo sind denn alle … anziehe? Was ist denn jetzt schon wieder? H Ui, jemand muss mir helfen. Der Rettungsschimmer ist am ertrinken. Oh, da bist du ja wieder. Nein, leider noch nicht ganz. Wer ist jetzt unser Rettungsschwimmer? Hier. Ja. Nun. Wen rette ich als erstes? H entfreundet. Hallo Bär, streichst du etwa den Zaun? Das ist genau das, was ich jetzt machen wollte. Ein roter Zaun ist wunderbar. Ganz sonnenklar. Ich streiche schnell. Ich k den wär ganz toll. Ich streiche schnell ein K den wär ganz toll. Geschafft alles fertig. Oh, ich habe ganz toll geholfen. Stimmt's? Bär. Hey, warum zerstörst du was ich … Gib's zurück. Gib's zurück. Gib's zurück. Gib's zurück. Wenn nicht, wenn nicht, wenn nicht, dann sind wir keine Freunde mehr. So bist du also ja. Wenn du dich so verhältst, wird niemand mehr dein Freund sein wollen. Hä? Das macht mir nichts, weißt du? Ich suche mir auch einen neuen Freund. Oh, da ist ja mein neuer Freund. Hallo, du Sportskanone. Wow, deine Hantel ist ja riesig. Du bist so unglaublich stark. Warte, warte. Ein Foto für deine Fans, bitte. Ausgezeichnet. Großartig. Fantastisch. Perfekt. Du bist ein strahlender Athlet. Warte, warte, warte. Der Athlet strahlt schon. Aber deine … poliert. Du siehst toll aus. Hä? Alle sind fertig. Warte, bleib bitte mal stehen. Lasst uns was spielen. Spielen wir Papa und Kind und verstecken. Hurra! 1 2 3 4 5 Bereit nicht, ich komme. Hey Bär, können wir noch mal von vorne anfangen? H schau, komm schon. Komm schon. Mach weiter, Bär. Du fängst mich nicht. Du fängst mich nicht. Niemals. Ziehzi, du. Nein, du hast mich nicht erwischt. Du hast mich nicht erwischt. Babysitterin für zwei Engelskinder gesucht. Verlangt, was ihr wollt. Dzi. Ah. Oh je. Oh je. Nein, das geht wirklich zu weit. Nin ninja. Und wer ist das? Ah, man kann sie nicht … не Hey, du solltest wiederkommen. Das hat Spaß gemacht. Ja, da. Bravo, bravo. Genial. Hallo, ich freue mich so dich kennenzulernen. Vielen lieben Dank für deinen wundervollen tollen Sohn. Wie war er denn, als er klein war? Oh, was für ein süßes kleines Pelzkneul. Er konnte Geige spielen in dem Alter. Das ist toll. Ihr habt zusammen Gitarre gespielt. Nein, ihr wart sogar ein Streichquartett. Habe ich ihm vielleicht eine peinliche Frage gestellt? Was? Ihr habt nie vor Publikum gespielt? Wenn ihr schon alle hier versammelt seid, könnt ihr doch zusammen musizieren als Quartett. Juhu! Und ich … Streichquartett. Ah. Oliber Bär, das ist klassische Musik. Spielt einfach einen anderen Stil, dann wird es wunderbar harmonisch. Yeah. Oh, ihr müsst zurück zu euren Wurzeln. Die gute alte Volksmusik. 야. Aha. Fangen wir noch mal von vorne an. Sie her, folgt einfach meinen musikalischen Anweisungen. Das Sonnenlicht von grauen Wolken geraubt. Ängstlich fliegen die Vögel davon. Die Musik ist so grausam und laut. Was die Freunde spielen, ist alles nur kein Song. Jeder Musiker halt sich für den Besten. Das Ergebnis jedach tut weh. Doch eine Band nur aus Brüdern und Schwestern ist wie die Noten … du die Noten von A bis G. Drum sei kein Egoist. Hör anderen zu und sicherlich triffst du die Noten von Ais G. Ja. ึ Oh je, jetzt wird er ganz traurig werden. Ich habe es gewusst. Er ist traurig. Ist ja auch kein Wunder. Dieses Ding ist uralt. Tja, ein cooles Instrument ist das nun wirklich nicht. Und er tut alles, um so gar nicht gut auszusehen. Na ja, wenn das so weitergeht, wird er nie Erfolg bei der Bären haben. Na, das wär es doch. Ich baue seine Gitarre einfach um. Und los geht's. Aha. Oh yeah, voll krass. Das haut jeden um. Bär. So geht das richtig ab. Yeah. Oh. Yeah. Yeah. เ เ H … Neues beibringen. Echt schade. เฮ He. He. Er liebt mich. Er liebt mich nicht. Wo geht er hin? Mit Schokolade und ganz allein. Hm. Guten Morgen, lieber Bär. Was ist das da an deiner Tatze? Ich schätze, das ist für mich, oder? Schmeckt gut, aber nicht genug für mich. Mehr, mehr haben. Hop. Dieses Schokolade gehört mir. Oh ja. Wer ist das denn? Bär, Bär, wer ist denn die da neben dir? Bär. Bär, ich möchte gern mit dir spielen. Der Bär hat sich verliebt. Du darfst nicht so böse schauen. Schnee und Eis sind fast geschmolzen. Neue Kraft das Land durch sie trommelt leise uns ein kleines … jetzt genießen und ein bisschen kein Meer ohne Wasser, kein Himmel ohne Luft, kein Garten ohne Blumen, ohne Wald, kein Tannenuft. Ein schöner Regenbogen braucht Farbenwicht an dich und deine große Freundschaft braucht dich und sie braucht mich. Eine wirklich große Freundschaft braucht dich und sie braucht mich. So so so. Warum sind denn alle meine Videos verschwunden? H, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amen.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -20655,7 +20691,7 @@
  "n1RZa2y29Yg": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-09T02:46:40+00:00",
+  "checked": "2026-11-11T22:40:42+00:00",
   "title": "Learn German Grammar in Real Conversations",
   "duration": 964,
   "published": "20260819",
@@ -20828,7 +20864,8 @@
     4
    ]
   ],
-  "tx": "Hallo Leute. Worüber freut ihr euch heute? Vielleicht darüber, dass wir ein neues Video für euch haben? Ihr seht schon, worum es heute geht, nämlich um Da-Wörter und Wo-Wörter. Diese Wörter sind für Deutschlernende ein bisschen verwirrend und ihr fragt euch vielleicht, wofür brauche ich die überhaupt? Und deshalb wollen wir euch heute mal zeigen, wie die funktionieren und wie ihr sie bildet. Und wenn ihr alle die Beispiele aus diesem Video noch mal gesammelt nachlesen möchtet, dann ladet doch unser kostenloses Cheat Sheet zum Thema des Videos runter. Den Link findet ihr hier unten in der Beschreibung. Los geht's. Im Deutschen gibt es ein paar Verben, die immer zusammen mit einer Präposition auftauchen, z.B. sich freuen auf oder nachdenken über. Und diese Verben nennt man Verben mit Präposition. Z.B. ich denke über mein Leben nach oder ich freue mich auf die Party. Und zu diesen besonderen Verben haben wir schon zwei Videos gemacht. Die schaut ihr euch am besten jetzt an und die haben wir hier unten für euch verlinkt. Und jetzt gehen wir direkt ins erste Beispiel. Ich esse einen Burrito de Cochinita, also einen Fleischburrito. Möchtest du auch einen? Ich freue mich total darauf, ich kenne das und ich mag das. Hier habt ihr das Verb sich freuen auf etwas gesehen. Janosch sagt, ich freue mich total darauf. Und er könnte auch sagen, ich freue mich total auf den Burrito. Aber in der Alltagssprache benutzen wir oft das Da-Wort. Ich freue mich total darauf, weil wir wissen, es geht um den Burrito. Auf Englisch würde man sagen, I look forward to it. Aber auf Deutsch klingt, ich freue mich auf es total komisch, das würden wir nicht sagen. Wir sagen, ich freue mich darauf. Darauf. Das besteht aus zwei Teilen. Ihr habt das kleine Wort da plus die Präposition auf. Und dieses darauf",
+  "tx": "Hallo Leute. Worüber freut ihr euch heute? Vielleicht darüber, dass wir ein neues Video für euch haben? Ihr seht schon, worum es heute geht, nämlich um Da-Wörter und Wo-Wörter. Diese Wörter sind für Deutschlernende ein bisschen verwirrend und ihr fragt euch vielleicht, wofür brauche ich die überhaupt? Und deshalb wollen wir euch heute mal zeigen, wie die funktionieren und wie ihr sie bildet. Und wenn ihr alle die Beispiele aus diesem Video noch mal gesammelt nachlesen möchtet, dann ladet doch unser kostenloses Cheat Sheet zum Thema des Videos runter. Den Link findet ihr hier unten in der … also einen Fleischburrito. Möchtest du auch einen? Ich freue mich total darauf, ich kenne das und ich mag das. Hier habt ihr das Verb sich freuen auf etwas gesehen. Janosch sagt, ich freue mich total darauf. Und er könnte auch sagen, ich freue mich total auf den Burrito. Aber in der Alltagssprache benutzen wir oft das Da-Wort. Ich freue mich total darauf, weil wir wissen, es geht um den Burrito. Auf Englisch würde man sagen, I look forward to it. Aber auf Deutsch klingt, ich freue mich auf es total komisch, das würden wir nicht sagen. Wir sagen, ich freue mich darauf. Darauf. Das … bald. Hier habt ihr das Verb sich freuen über gesehen. Easy sagt, darüber freuen wir uns. Und darüber bezieht sich auf die Kommentare der Zuschauer. Wie funktioniert das? Genau wie bei darauf. Ihr habt da, ihr habt über und wir fügen noch ein R ein, darüber. Bitte nicht verwechseln mit sich freuen auf, das bedeutet to look forward to. Ich war doch schon mal in Essen. die A40. gibt Autobahn mitten in der Stadt, daran erinnere ich mich. Kari sagt, daran erinnere ich mich. Und sie meint diese Autobahn in Essen. Das funktioniert wieder genau gleich. Sich erinnern an, da habt ihr die … anfängt. Deshalb brauchen wir hier kein R. Schaut euch das nächste Beispiel an. Da haben wir mit den Menschen auf der Straße über ihre Hunde gesprochen. Was magst du am liebsten an deinem Hund? Das man gern, dass sie sehr verkuschelt ist und dass man auch sehr sehr gut mit ihr spielen kann. Das Mädchen spricht über ihren Hund. Und sie findet es toll, dass man so gut mit ihr spielen kann. Sie benutzt nicht damit. Warum? Einfache, aber wichtige Regel, für Menschen benutzt man normalerweise keine da-Wörter. Man benutzt sie auch nicht für Tiere, vor allem Haustiere. In diesen Fällen benutzt … ihr noch mal alle Informationen zu diesem Grammatikthema findet. Der Link dazu ist unten in der Beschreibung. In welchen Situationen brauchen wir diese da Wörter eigentlich? Simpel. Ich habe gerade schon gesagt, dass die da Wörter sich auf etwas zurückbeziehen, was schon gesagt wurde. Und wir wollen es vermeiden, Sachen zweimal zu sagen oder Wörter zu wiederholen. Deshalb benutzen wir da Wörter. Man kann natürlich sagen, deutsche Grammatik ist gar nicht so schwer, wenn man sich mal mit deutscher Grammatik beschäftigt. Aber das ist unnötig lang und kompliziert und deshalb machen wir das … Das daran, das zeigt nach vorne, nämlich auf das Bürgermeisterin zu werden, auf diesen zu Infinitiv. Und dieses nach vorne zeigen, das funktioniert auch mit D-Sätzen und das seht ihr jetzt. Also, macht euch gar keinen Stress wegen des Futur 1. Es geht erstmal darum, dass ihr die Funktion des Futur 1 kennt, wenn ihr es mal hört. Es geht darum, dass ihr die Funktion des Futur 1 könnt. Das Verb ist um etwas gehen und darum zeigt hier auf den D-Satz, nämlich, dass ihr das Futur 1 könnt. Kurz zusammengefasst, D-Wörter braucht ihr in Aussagen und in Antworten auf Fragen. Z.B. Freust du dich … ihr dabei seid. Ihr wisst jetzt, da Wörter benutzen wir für Aussagen oder für Antworten auf Fragen. Was machen wir aber, wenn wir eine Frage stellen wollen? Dann brauchen wir Wo-Wörter. Wo-Wörter, die sind eng verwandt mit Da-Wörtern und sie funktionieren genauso. Der Unterschied ist, Wo-Wörter leiten direkte und indirekte Fragesätze ein. Schaut euch mal das nächste Beispiel an. Worauf in deinem Leben bist du ganz besonders stolz? Worauf bist du in deinem Leben ganz besonders stolz? Alternativ kann man sagen, auf was bist du besonders stolz? Das hätte genau die gleiche Bedeutung und wäre … gerade arbeitet. Das Wo-Wort ist hier woran. Woran Manuel gerade arbeitet. Also Wo plus R plus An. Woran. Und das Wo in diesen Wo-Wörtern, das hat nichts mit einem Ort zu tun. Das ist wichtig. Aber wir brauchen das Wo, um diese besonderen Fragewörter zu bilden, wenn es um Verben mit Präpositionen geht. Und jetzt haben wir noch ein Beispiel für euch mit dem Verb über etwas reden. Stell dir vor, du begegnest deinem jüngeren Ich. Worüber würdet ihr reden? Pauline fragt hier, worüber würdet ihr reden? Also sie stellt eine Frage nach etwas Unbekannten, etwas, was sie noch nicht weiß, aber … Worauf freust du dich? Auf den Urlaub. Ich freue mich total darauf. Woran denkst du? An mein Bewerbungsgespräch. Ich denke die ganze Zeit daran. Womit beschäftigst du dich? Ich beschäftige mich mit dem Projekt. Ich beschäftige mich schon den ganzen Tag damit. Worüber machst du dir Gedanken? Ich mache mir darüber Gedanken, wie mein Leben weitergeht. Woraus besteht der Teig? Der Teig besteht aus Mehl und Wasser. Daraus besteht er. Wobei hilfst du mir? Ich helfe dir dabei, dein Zimmer aufzuräumen. Wofür bedankst du dich? Ich bedanke mich dafür, dass du mir geholfen hast. Wogegen … Und ganz wichtig, die Da- und Wo-Wörter benutzt man meistens für Sachen, Aktivitäten, Themen, Situationen und eher nicht für Menschen oder für Haustiere. Und wenn ihr das alles noch mal schriftlich nachlesen möchtet, dann ladet euch doch einfach unser kostenloses Cheat Sheet hier unterm Video herunter. Wenn ihr jetzt noch Vorschläge und Ideen habt für Grammatik-Videos, die wir in der Zukunft mal drehen sollen, dann schreibt die uns sehr gerne unten in die Kommentare. Ich freue mich sehr darauf, die zu lesen und auch darauf, wenn ihr nächstes Mal wieder dabei seid. Bis dahin, macht's gut.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -21015,7 +21052,7 @@
  "F_mGqap-_t4": {
   "channel": "Comprehensible German",
   "lang": "de",
-  "checked": "2026-11-09T02:54:15+00:00",
+  "checked": "2026-11-11T22:46:06+00:00",
   "title": "Comprehensible German Input - Making it Easy for You to Learn German",
   "duration": 581,
   "published": "20220117",
@@ -21156,7 +21193,8 @@
     2
    ]
   ],
-  "tx": "die drei frauen sitzen auf einem handtuch das handtuch ist pink das handtuch ist pink diese frau trägt einen badeanzug im badeanzug der badeanzug ist rot-rot diese frau trägt auch einen badeanzug der badeanzug ist orange er ist orange beide frauen tragen badeanzüge trägt diese frau auch einen badeanzug ja diese frau trägt auch einen badeanzug der badeanzug ist türkis der badeanzug ist türkis trägt diese frau einen türkis einen badeanzug ja diese frau trägt einen job gießen badeanzug trägt diese frau einen tod schießenden badeanzug oder einen orangenen badeanzug diese frau trägt einen orangenen badeanzug trägt diese frau einen roten badeanzug einen roten badeanzug nein diese frau trägt einen orangenen badeanzug trägt diese frau einen badeanzug oder einen roten badeanzug diese frau trägt einen roten badeanzug welche frau trägt einen roten badeanzug diese frau trägt einen roten badeanzug welche frau trägt einen orangenen badeanzug diese frau trägt einen orangenen badeanzug und welche frau trägt einen türkis der anzug diese frau trägt einen türkisen im badeanzug dieses bild hat vier seiten 1234 das ist die rechte seite die rechte seite das ist die linke seite die linke seite und hier ist die mitte die mitte diese frau sitzt auf der rechten seite auf der rechten seite sitzt diese frau auf der rechten seite ja diese frau sitzt auf der rechten seite sitzt diese frau auf der linken seite auf der linken seite nein diese frau sitzt auf der rechten seite diese frau sitzt auf der linken seite auf den linken seite sitzt diese frau auf der linken seite oder auf der rechten seite die frau sitzt auf der linken seite wo sitzt diese frau diese frau sitzt in der mitte in der mitte diese frau sitzt nicht auf der ersten seite und nicht auf der linken seite diese frau sitzt in der mitte sitz",
+  "tx": "die drei frauen sitzen auf einem handtuch das handtuch ist pink das handtuch ist pink diese frau trägt einen badeanzug im badeanzug der badeanzug ist rot-rot diese frau trägt auch einen badeanzug der badeanzug ist orange er ist orange beide frauen tragen badeanzüge trägt diese frau auch einen badeanzug ja diese frau trägt auch einen badeanzug der badeanzug ist türkis der badeanzug ist türkis trägt diese frau einen türkis einen badeanzug ja diese frau trägt einen job gießen badeanzug trägt diese frau einen tod schießenden badeanzug oder einen orangenen badeanzug diese frau trägt einen orangenen badeanzug trägt diese frau einen roten badeanzug einen roten badeanzug nein diese frau trägt einen orangenen badeanzug trägt diese frau einen badeanzug oder einen roten badeanzug diese frau trägt einen roten badeanzug welche frau trägt einen roten badeanzug diese frau trägt einen roten badeanzug welche frau trägt einen orangenen badeanzug diese frau trägt einen orangenen badeanzug und welche frau trägt einen türkis der anzug diese frau trägt einen türkisen im badeanzug dieses bild hat vier seiten 1234 das ist die rechte seite die rechte seite das ist die linke seite die linke seite und hier ist die mitte die mitte diese frau sitzt auf der rechten seite auf der rechten seite sitzt diese frau auf der rechten seite ja diese frau sitzt auf der rechten seite sitzt diese frau auf der linken seite auf der linken seite nein diese frau sitzt auf der rechten seite diese frau sitzt auf der linken seite auf den linken seite sitzt diese frau auf der linken seite oder auf der rechten seite die frau sitzt auf der linken seite wo sitzt diese frau diese frau sitzt in der mitte in der mitte diese frau sitzt nicht auf der ersten seite und nicht auf der linken seite diese frau sitzt in der mitte sitzt diese frau in der mitte diese frau sitzt auf der rechten seite sitzt diese frau in der mitte diese frau sitzt auf der linken seite der sitzt auf der linken seite diese frau sitzt auf der hinterseite sitzt auf der rechten seite diese frau sitzt auf der rechten seite und mehr sitzt in der mitte diesen raum sitzt in der mitte die haie in der mitte hat am hut auf der hut ist lang die frau auf der rechten seite hat auch ein hut sind auch am hut der hut ist das handeln ist beide sind die frau auf den linken seite trifft auch einen hut der hut ist geht der hut ist alle drei frauen tragen diese frau einen gelben hut ja diese frau trägt einen gelben hut trägt diese frau einen gelben hut nein diese frau trägt einen blauen ruht trägt diese frau einen blauen hut oder einen pinken hut diese frau trägt einen pinken hut ist das handtuch pink oder türkis das handtuch ist weg alle drei frauen auf diesem bild tragen hüte und badeanzüge alle drei frauen auf diesem bild sitze auf einen pinken handtuch",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -22597,6 +22635,123 @@
    ]
   ],
   "tx": "Jonathan Chesoni ist voll dabei. Er hackt, er schaufelt. Die Arbeit ist anstrengend, denn hier in Samburu im Norden Kenias ist die Erde hart und trocken. Jonathan ist 28 eigentlich Viehhirte, aber er schaufelt hier mit, weil dieses Projekt sein Leben besser macht. Die Arbeit läuft gut. Wir sind hier schon seit über einem Monat dran. Wir graben flache Erdlöcher und säen Grassamen. Die Grassamen kommen in die staubtrockene Erde. Hier können sie viele Monate überleben, auch ohne Wasser. Wenn dann die Regenzeit beginnt, platzen die Samen auf, keimen, wachsen, alles wird grün. Um das kostbare Regenwasser zu sammeln, schaufeln Jonathan und seine Nachbarn die Erdlöcher in Form eines Halbkreises. Eine Seite ist erhöht wie ein kleiner Damm. Von oben sehen die Erdlöcher aus wie lachende Münder. Es geht um neues Weideland. Jetzt, wo wir Gras pflanzen, gibt es mehr Futter für unsere Nutztiere. Damit haben sie nicht nur in der Regenzeit, sondern auch in der Trockenzeit genug zu fressen. Jonathan trifft Mitarbeiterin der Organisation, die das Projekt finanziert mit Geld und Essen für alle, die mitmachen. Für sie geht es auch darum, die Folgen des Klimawandels zu bekämpfen. Dort, wo Pflanzen wachsen, kann sich der Boden nicht so stark aufheizen. Das trägt dazu bei, dass wir unseren Planeten herunterkühlen. Doch viele Industrieländer zögern bei der Unterstützung des Klimaschutzes in Ländern des globalen Südens. Auch die niederländische Umweltorganisation, die sich vor allem über private Spender finanziert, spürt, dass sich etwas verändert hat. Wir bekommen weniger Spenden. Ich denke, das liegt dass viele Leute sehen müssen, wo sie bleiben. Aber wir stehen immer noch gut da und werden weitermachen. Zu Hause bei Jonathan Chasoni. Hier lebt er mit seiner Frau und seinen vier Kindern. Auch sein Kamel Rupert frisst Heu aus den begrünten Erdlöchern. Früher musste ich meine Tiere an weit entfernte Orte bringen, damit sie Futter finden. Das hat oft Ärger mit den Nachbarn gegeben. Jetzt, da sie das Futter hier finden, ist das kein Problem mehr. Dadurch läuft es für meine Familie und für mich deutlich besser. Jonathan und die Dorfgemeinschaft haben hier schon rund 30.000 Erdlöcher geschaufelt. In ganz Afrika sind es mittlerweile sogar schon fast 1 Million. Wie viele Löcher will Jonathan noch graben? Ich persönlich und auch unsere Community, wir möchten so viele schaufeln, wie wir können. Die Vision, wo jetzt karges Land ist, soll es in Zukunft viel grüner werden. Jetzt fehlt nur noch der große Regen, auf den ihr alle sehnsüchtig warten. Du hast das Video bis zum Ende geschaut, dann kannst du auch ein Abo da lassen.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "b4IeJ6qAS4A": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-11T22:43:31+00:00",
+  "title": "Türkei vor Weltklimakonferenz: Dorfbewohner kämpfen gegen Braunkohletagebau",
+  "duration": 161,
+  "published": "20261109",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 149.6,
+  "rare": 0.1125,
+  "var": 0.8918,
+  "speech_s": 160.5,
+  "tokens": 400,
+  "kw": [
+   [
+    "unsere",
+    "Selbstverständlich müssen wir unsere bestehenden Kraftwerke erhalten, denn",
+    92,
+    99,
+    5.63,
+    3
+   ],
+   [
+    "sollen",
+    "Auftrag eines Energieunternehmens sollen hier Untersuchungen des Bodens",
+    6,
+    13,
+    5.51,
+    3
+   ],
+   [
+    "erhalten",
+    "wollen ihre Lebensgrundlage erhalten, auch für kommende Generationen. Denn so",
+    62,
+    69,
+    5.31,
+    3
+   ],
+   [
+    "ihrer",
+    "Dorfbewohner zum Verkauf ihrer Ländereihen zu drängen. Es wird hitzig.",
+    48,
+    55,
+    5.76,
+    2
+   ],
+   [
+    "türkei",
+    "die Türkei vor allem Wind und",
+    73,
+    78,
+    4.78,
+    3
+   ],
+   [
+    "gas",
+    "Kohle und Gas verzichten will. Noch",
+    85,
+    89,
+    4.53,
+    2
+   ],
+   [
+    "untersuchungen",
+    "hier Untersuchungen des Bodens vornehmen. Aus der Luft wird sichtbar,",
+    8,
+    16,
+    4.45,
+    2
+   ],
+   [
+    "kohle",
+    "Alternativen zur Kohle. Direkt gegenüber des Dorfes etwas stehen schon in",
+    68,
+    74,
+    4.37,
+    2
+   ],
+   [
+    "energien",
+    "fordern dagegen neue Energien zu fördern",
+    111,
+    117,
+    4.12,
+    2
+   ],
+   [
+    "erneuerbare",
+    "ausbauen. Bis 2040 sollen erneuerbare Energienmels dreiviertel der gesamten",
+    77,
+    85,
+    3.87,
+    2
+   ],
+   [
+    "dorfbewohner",
+    "abgebaut und die Dorfbewohner bangen um",
+    21,
+    26,
+    3.39,
+    5
+   ],
+   [
+    "energieversorgung",
+    "Bestandteile unserer Energieversorgung erhalten bleiben.",
+    103,
+    109,
+    3.53,
+    2
+   ]
+  ],
+  "tx": "Nesla Ischik und ihre Nachbarn sind angespannt. Sie wissen, gleich wird es Streit geben. Rund ein Dutzend Männer im Auftrag eines Energieunternehmens sollen hier Untersuchungen des Bodens vornehmen. Aus der Luft wird sichtbar, um was es hier in Akbellen an der geht. Nur ein paar Meter vom Dorf entfern klafft ein riesiger Krater. Braunkohle Tagabau seit Jahrzehnten wird hier abgebaut und die Dorfbewohner bangen um ihre Existenz. Der Staat will immer mehr Land enteignen. Dagegen kämpfen sie seit Jahren auch vor Gericht. Gleich hier ist das Gebiet schon für den Tagebau freigegeben, aber diese Flächen hier haben die Dorfbewohner nicht verkauft. Sie leisten immer noch Widerstand und haben Klage eingereicht. Das Verfahren läuft noch. Sie sind sicher, dass die Männer vom Energieunternehmen Fakten schaffen sollen, Druck aufbauen, um die Dorfbewohner zum Verkauf ihrer Ländereihen zu drängen. Es wird hitzig. Es reicht jetzt. Ich musste schon einmal mein Haus aufgeben und jetzt noch einmal. Es ist schändlich. Die Dorfbewohner sind frustriert, Neschla Ischik versucht zu vermitteln. Sie wollen ihre Lebensgrundlage erhalten, auch für kommende Generationen. Denn so die Dorfbewohner, es gebäbe ja Alternativen zur Kohle. Direkt gegenüber des Dorfes etwas stehen schon in sichtweite Solaranlagen. Künftig will die Türkei vor allem Wind und Solarenergie, aber auch Atomkraft ausbauen. Bis 2040 sollen erneuerbare Energienmels dreiviertel der gesamten Kraftwerksleistung ausmachen. Doch das bedeutet nicht, dass die Türkei auf Kohle und Gas verzichten will. Noch immer wird mehr als die Hälfte des Stroms aus diesen fossilen Energieträgern gewonnen. Selbstverständlich müssen wir unsere bestehenden Kraftwerke erhalten, denn wir sind weiterhin auf sie angewiesen. Deshalb wollen wir sicherstellen, dass sowohl unsere Gas als auch unsere Kohlekraftwerke langfristig als Bestandteile unserer Energieversorgung erhalten bleiben. Umweltorganisationen wie Greenpeace fordern dagegen neue Energien zu fördern statt Fossile. Es gibt unabhängige Untersuchungen, die zeigen, dass ein Kohleausstieg bis 2035 oder 36 durchaus möglich ist. Dafür braucht es aber eine politische Entscheidung von ganz oben. Die Energieversorgung der Türkei muss konsequent auf erneuerbare Energien ausgerichtet werden. Zurück bei Nesla Ischik und den anderen. Nach knapp 10 Minuten Diskussionen mit den Arbeitern packen die ihre Utensilien zusammen und räumen das Feld. Heute haben wir gewonnen. Bevor die Grabungen beginnen konnten, war hier schon wieder alles vorbei und das ist gut so. Doch sie wissen, der Kampf um den Erhalt ihrer Felder, ihres Erbes und der Zukunft ist noch lange nicht vorbei. Du hast das Video bis zu Ende geschaut, dann kannst du auch ein Abo daassen.",
   "gist": "w",
   "status": "ok",
   "src": "auto"
