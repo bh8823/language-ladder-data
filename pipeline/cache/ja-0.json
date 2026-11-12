@@ -149828,5 +149828,37 @@
   "en": 0.017,
   "status": "ok",
   "src": "cc"
+ },
+ "86EKFDPTtgc": {
+  "channel": "けんさんおかえり Japanese",
+  "lang": "ja",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-12T16:56:45+00:00",
+  "tries": 1
+ },
+ "smBbcP-CvEA": {
+  "channel": "けんさんおかえり Japanese",
+  "lang": "ja",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-12T16:57:33+00:00",
+  "tries": 1
+ },
+ "si3hNOsIAss": {
+  "channel": "けんさんおかえり Japanese",
+  "lang": "ja",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-12T16:58:20+00:00",
+  "tries": 1
+ },
+ "xkwsO9QC7XQ": {
+  "channel": "けんさんおかえり Japanese",
+  "lang": "ja",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-12T17:01:32+00:00",
+  "tries": 1
  }
 }
