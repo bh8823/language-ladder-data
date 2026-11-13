@@ -10298,7 +10298,7 @@
  "NEkUCoQf0Sk": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-06T02:40:21+00:00",
+  "checked": "2026-11-13T23:20:56+00:00",
   "title": "Hört Merz bald auf? So wahrscheinlich ist ein Rücktritt!",
   "duration": 723,
   "published": "20260815",
@@ -10306,73 +10306,10 @@
   "spoken_v": 2,
   "pace": 195.0,
   "rare": 0.045,
+  "var": 0.8356,
   "speech_s": 676.8,
   "tokens": 2200,
   "kw": [
-   [
-    "merz",
-    "Bundeskanzler Friedrich Merz von der CDU",
-    0,
-    2,
-    3.66,
-    42
-   ],
-   [
-    "bundeskanzler",
-    "Bundeskanzler Friedrich Merz von der CDU",
-    0,
-    2,
-    3.92,
-    16
-   ],
-   [
-    "schnieder",
-    "den Verkehrsminister Patrick Schnieder entlassen. Mit dem soll er schon seit längerer Zeit unzufrieden gewesen sein.",
-    230,
-    236,
-    2.04,
-    3
-   ],
-   [
-    "zurücktritt",
-    "Aber könnte das dazu führen, dass der Bundeskanzler zurücktritt?",
-    17,
-    22,
-    2.88,
-    4
-   ],
-   [
-    "neuwahl",
-    "ich rufe eine Neuwahl aus. Und eine Neuwahl würde natürlich für die jetzige Regierung bedeuten,",
-    545,
-    551,
-    3.32,
-    5
-   ],
-   [
-    "vertrauensfrage",
-    "im Bundestag die Vertrauensfrage gestellt hat.",
-    121,
-    124,
-    2.59,
-    3
-   ],
-   [
-    "wahlgang",
-    "Im ersten Wahlgang braucht man dafür die absolute Mehrheit.",
-    514,
-    518,
-    3.48,
-    5
-   ],
-   [
-    "trendwende",
-    "Eine Trendwende ist momentan nicht absehbar.",
-    311,
-    314,
-    2.98,
-    3
-   ],
    [
     "friedrich",
     "Bundeskanzler Friedrich Merz von der CDU",
@@ -10406,42 +10343,138 @@
     11
    ],
    [
-    "partei",
-    "Unruhe in der eigenen Partei. Und dann gibt es da auch noch einen ziemlich unfreundlichen Song",
-    6,
-    12,
-    5.14,
-    10
-   ],
-   [
-    "union",
-    "der Union aus CDU und CSU.",
-    164,
-    167,
-    4.83,
-    9
-   ],
-   [
-    "natürlich",
-    "ist natürlich extrem unwahrscheinlich. Auch wenn dieser Diss-Track",
-    37,
-    41,
-    5.62,
-    9
-   ],
-   [
     "mehrheit",
     "wer nicht mehr die politische Mehrheit habe",
     127,
     130,
     4.73,
     9
+   ],
+   [
+    "momentan",
+    "Eine Trendwende ist momentan nicht absehbar.",
+    311,
+    314,
+    4.58,
+    7
+   ],
+   [
+    "letztlich",
+    "die er dann letztlich nicht einhalten konnte oder nicht einhalten wollte.",
+    96,
+    101,
+    4.53,
+    6
+   ],
+   [
+    "vergangenheit",
+    "in der Vergangenheit immer wieder Dinge versprochen hat,",
+    94,
+    97,
+    4.79,
+    5
+   ],
+   [
+    "merz",
+    "Bundeskanzler Friedrich Merz von der CDU",
+    0,
+    2,
+    3.66,
+    42
+   ],
+   [
+    "bundeskanzler",
+    "Bundeskanzler Friedrich Merz von der CDU",
+    0,
+    2,
+    3.92,
+    16
+   ],
+   [
+    "umfragen",
+    "Laut verschiedenen Umfragen sind knapp 90 Prozent der Deutschen",
+    64,
+    68,
+    3.99,
+    5
+   ],
+   [
+    "rücktritt",
+    "dass Friedrich Merz in absehbarer Zeit seinen Rücktritt erklärt.",
+    50,
+    53,
+    4.19,
+    3
+   ],
+   [
+    "wahlgang",
+    "Im ersten Wahlgang braucht man dafür die absolute Mehrheit.",
+    514,
+    518,
+    3.48,
+    5
+   ],
+   [
+    "neuwahl",
+    "ich rufe eine Neuwahl aus. Und eine Neuwahl würde natürlich für die jetzige Regierung bedeuten,",
+    545,
+    551,
+    3.32,
+    5
+   ],
+   [
+    "erfahrt",
+    "Mehr dazu erfahrt ihr auch in dem Video hier oben auf dem i.",
+    100,
+    104,
+    3.26,
+    3
+   ],
+   [
+    "umfragewerte",
+    "Schlechte Umfragewerte für ihn und für seine Regierung.",
+    4,
+    7,
+    3.02,
+    3
+   ],
+   [
+    "zurücktritt",
+    "Aber könnte das dazu führen, dass der Bundeskanzler zurücktritt?",
+    17,
+    22,
+    2.88,
+    4
+   ],
+   [
+    "trendwende",
+    "Eine Trendwende ist momentan nicht absehbar.",
+    311,
+    314,
+    2.98,
+    3
+   ],
+   [
+    "vertrauensfrage",
+    "im Bundestag die Vertrauensfrage gestellt hat.",
+    121,
+    124,
+    2.59,
+    3
+   ],
+   [
+    "schnieder",
+    "den Verkehrsminister Patrick Schnieder entlassen. Mit dem soll er schon seit längerer Zeit unzufrieden gewesen sein.",
+    230,
+    236,
+    2.04,
+    3
    ]
   ],
-  "tx": "Bundeskanzler Friedrich Merz von der CDU erlebt gerade eine unruhige Zeit. Schlechte Umfragewerte für ihn und für seine Regierung. Unruhe in der eigenen Partei. Und dann gibt es da auch noch einen ziemlich unfreundlichen Song gegen Friedrich Merz, der inzwischen viral gegangen ist. Das alles kann Friedrich Merz gar nicht gefallen. Aber könnte das dazu führen, dass der Bundeskanzler zurücktritt? Was dafür spricht und was dagegen spricht, dazu jetzt mehr in diesem Video. (Abwartende Klänge) Direkt zu Beginn dieses Videos hier ein kleiner Spoiler. Dass Friedrich Merz, der Bundeskanzler, wegen eines Diss-Tracks gegen ihn, der im Internet kursiert, zurücktritt, ist natürlich extrem unwahrscheinlich. Auch wenn dieser Diss-Track inzwischen weit mehr als eine Million Aufrufe hat. Aber es gibt einige andere Punkte, die durchaus relevant sind. Und genau die schauen wir uns hier an. Wir gucken zunächst darauf, was dafür spricht, dass Friedrich Merz in absehbarer Zeit seinen Rücktritt erklärt. Und wir schauen auch darauf, was dagegen spricht. Starten wir mit den Pro-Argumenten. Der erste Punkt ist: Laut verschiedenen Umfragen sind knapp 90 Prozent der Deutschen unzufrieden mit der Arbeit des Bundeskanzlers. Und auch ungefähr 90 Prozent sind unzufrieden mit der Arbeit der Bundesregierung, deren Chef der Bundeskanzler ja ist. Friedrich Merz steht also schlecht da. Und das ist nicht eine Momentaufnahme, sondern das ist ein Trend, der schon seit einer Weile anhält. Gestartet ist Friedrich Merz bei Werten von um die 40 Prozent und innerhalb von etwas mehr als einem Jahr ging es steil nach unten für ihn. Das hängt unter anderem auch damit zusammen, dass Friedrich Merz in der Vergangenheit immer wieder Dinge versprochen hat, die er dann letztlich nicht einhalten konnte oder nicht einhalte",
+  "tx": "Bundeskanzler Friedrich Merz von der CDU erlebt gerade eine unruhige Zeit. Schlechte Umfragewerte für ihn und für seine Regierung. Unruhe in der eigenen Partei. Und dann gibt es da auch noch einen ziemlich unfreundlichen Song gegen Friedrich Merz, der inzwischen viral gegangen ist. Das alles kann Friedrich Merz gar nicht gefallen. Aber könnte das dazu führen, dass der Bundeskanzler zurücktritt? Was dafür spricht und was dagegen spricht, dazu jetzt mehr in diesem Video. (Abwartende Klänge) Direkt zu Beginn dieses Videos hier ein kleiner Spoiler. Dass Friedrich Merz, der Bundeskanzler, wegen … Werten von um die 40 Prozent und innerhalb von etwas mehr als einem Jahr ging es steil nach unten für ihn. Das hängt unter anderem auch damit zusammen, dass Friedrich Merz in der Vergangenheit immer wieder Dinge versprochen hat, die er dann letztlich nicht einhalten konnte oder nicht einhalten wollte. Mehr dazu erfahrt ihr auch in dem Video hier oben auf dem i. Und Friedrich Merz hat in der Vergangenheit auch immer wieder Dinge gesagt, an denen er heute gemessen werden muss, zum Beispiel das hier. Herr Bundeskanzler, Sie haben Ihre Chance gehabt. Sie haben diese Chance nicht genutzt. Sie, … Grund dafür sind die schlechten Umfragewerte der Union aus CDU und CSU. Bei der Bundestagswahl hat die Union 28,5 Prozent geholt. Das war kein besonders guter Wert, aber es hat gereicht, um die stärkste Kraft zu werden. Jetzt ist die Union in Umfragen hinter der AfD, steht zum Teil bei gerade mal 21 Prozent. Das sind Werte, die wären vor drei oder vier Jahren noch kaum für möglich gehalten worden. Friedrich Merz ist angetreten mit dem Ziel, die Union auf bis zu 40 Prozent zu bringen und die AfD zu halbieren. Passiert ist eher das Gegenteil. Und das kommt in der Partei nicht gut an. Man … von Rheinland-Pfalz, der angeführt wird vom Bruder von Patrick Schnieder, von Gordon Schnieder, Ministerpräsident von Rheinland-Pfalz. Und der hat sich nicht nur bitter beschwert öffentlich, sondern er hat auch ein Treffen des Landesverbands Rheinland-Pfalz, das mit Friedrich Merz geplant war, öffentlichkeitswirksam abgesagt. Einige andere prominente Mitglieder der CDU haben sich öffentlich zu Wort gemeldet und Friedrich Merz für seine Personalentscheidungen kritisiert. Friedrich Merz, so heißt es aus seinem Umfeld, verfüge nicht über das Netzwerk, das es brauche, um eine Partei wie die … Schwierigkeiten steckten. Ob es Gerhard Schröder war, der direkt zu Beginn seiner Amtszeit eine heftige Auseinandersetzung mit seinem Parteivorsitzenden Oskar Lafontaine hatte oder ob es Angela Merkel war, die immer wieder mit mächtigen Männern in der CDU aneinandergeraten ist. Das sind Dinge, die in der Vergangenheit passiert sind, die sich dann sozusagen gelöst haben für die jeweiligen Kanzler, die bei Friedrich Merz momentan aber überhaupt nicht am Horizont zu erkennen sind. Einerseits, was die Partei angeht, andererseits aber auch, was seine Regierung angeht. Für die CDU, aber natürlich … Allerdings wurde dieses Paket kurz nach der Vorstellung von Experten auseinandergenommen und es wurde festgestellt, dass vieles von dem, was die Regierung verspricht, tatsächlich gut klingt, aber letztlich vielleicht gar nicht so gut ist. Mehr dazu erfahrt ihr in dem Video oben auf dem \"i\". Und auch hier ist nicht unbedingt abzusehen, dass die Bevölkerung sagt: Ja, wir erkennen an, da passiert etwas und wir vertrauen der Regierung, dass sie künftig bessere Arbeit machen wird. Wenn man das alles so hört und sich die Dinge genauer anschaut, könnte man fast zu dem Schluss kommen: Ein … gilt für Hessen mit Boris Rhein. Auch er wird immer wieder genannt als möglicher Gegenkandidat. Und so ist innerhalb der Union momentan niemand da, der sich aufdrängt, neuer Bundeskanzler zu werden. Es wird natürlich auch über Markus Söder gesprochen, CSU-Chef. Allerdings ist es sehr unwahrscheinlich, dass er eine Mehrheit bekommt. Spätestens die SPD würde bei einer Abstimmung im Bundestag sagen: Nein, Markus Söder wählen wir nicht. So heißt es zumindest aus der Partei. Und wo wir gerade schon von Risiko gesprochen haben, kommen wir zu Punkt zwei: Ein Wechsel wäre riskant für die … Nein, das ist mir alles zu unsicher, ich rufe eine Neuwahl aus. Und eine Neuwahl würde natürlich für die jetzige Regierung bedeuten, dass sie dann keine Regierung mehr wäre und erst einmal wieder eine Mehrheit bräuchte. Friedrich Merz könnte aber auch noch einen anderen Weg gehen. Er könnte sagen: Ich stelle die Vertrauensfrage im Bundestag. Und wenn er diese Vertrauensfrage verliert und das auch ganz bewusst herbeiführt, dann würde es eine Neuwahl geben. Und diese Neuwahl hat natürlich ganz viele offene Komponenten. Die AfD ist momentan stärkste Kraft und könnte eine noch größere Rolle … und hätte keine Möglichkeit mehr, zu versuchen, das Ruder rumzureißen. Die Unzufriedenheit würde zunehmen und davon könnten andere Parteien profitieren, wie zuletzt immer wieder die AfD. Auch hier viel Risiko für Friedrich Merz und vor allem viel Risiko für die Union. Und ob man das eingehen möchte, das ist fraglich. Und was bedeutet das jetzt unterm Strich? Wird Friedrich Merz zurücktreten oder wird er es nicht? Letztlich weiß nur er das. Aber aus seinem Umfeld heißt es zumindest, er würde gerne weitermachen. Die Frage ist aber natürlich: Kann er das? Wir haben ja schon einige … das denn? Wie bewertet ihr die Arbeit von Friedrich Merz? Rechnet ihr damit, dass er Ende des Jahres noch Bundeskanzler ist? Schreibt es gerne unten in die Kommentare und lasst uns bitte sachlich darüber diskutieren, so wie immer. Neben mir findet ihr noch das vorhin schon angesprochene Video zu den Problemen von Friedrich Merz. Schaut da gerne mal rein. Direkt darunter findet ihr etwas zum sogenannten Reformpaket und warum manche Reform vielleicht dann doch nicht so ist, wie sie scheint. Auch da gerne mal reinschauen. Danke fürs Zuschauen und bis zum nächsten Mal. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8443
+  "src": "cc"
  },
  "lET8WpW33_4": {
   "channel": "tagesschau",
@@ -18811,7 +18844,7 @@
  "y9uMEFhKJ_8": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-09T02:48:37+00:00",
+  "checked": "2026-11-13T16:29:51+00:00",
   "title": "Warum Deutsche so schnell sprechen — und wie du sie verstehst (B2–C2)",
   "duration": 736,
   "published": "20220318",
@@ -18968,7 +19001,8 @@
     2
    ]
   ],
-  "tx": "Habt ihr euch schon mal gedacht: „Meine Güte. Die Deutschen sprechen immer so schnell. Sprecht doch bitte einfach mal langsamer.“ Und vor allem: „wie soll ich jemals so sprechen können? In meiner Muttersprache sprechen wir doch auch nicht so schnell.“ Dazu sage ich euch gleich was. Bleibt also dran, wenn euch das interessiert. tatsächlich an der Geschwindigkeit liegen. Ja, es gibt nun mal Leute, die wirklich richtig schnell sprechen. Aber normalerweise sprechen wir als deutsche Muttersprachler gar nicht so schnell, wie ihr vielleicht denkt oder schneller als die Sprecher anderer Sprachen. Es kommt euch nur so schnell vor, weil wir verbinden die Wörter einfach oft miteinander, statt jedes einzelne Wort getrennt vom nächsten Wort zu sagen. Das führt dazu, dass ein Satz manchmal so klingt, als wäre das ein einziges ellenlanges Wort, ja, weil oft lassen wir Laute weg, manchmal lassen wir sogar ganze Silben oder sogar ganze Wörter weg, manchmal sprechen wir einen ganz anderen Laut aus, und genau deshalb habt ihr es als Deutschlerner schwer, uns Muttersprachler zu verstehen, weil unsere Sprache dann für euch so schnell klingt und sich wahrscheinlich von dem unterscheidet, was ihr so in der Schule gelernt habt. Und das gilt übrigens nicht nur für Deutsch, sondern auch für Englisch, Französisch, Russisch und viele andere Sprachen auch. Aber ich habe gute Nachrichten für euch, denn im heutigen Video verrate ich euch ein paar nützliche Tipps, wie wir deutschen Muttersprachler das machen, damit auch ihr „schnell“ und flüssig sprechen könnt und vor allem aber eben auch So, hören wir uns jetzt mal den folgenden Satz an. Okay, was war jetzt hier schwierig dran? Na ja, sie sagt eben nicht: Herr | Stromberg | hat | mir | ein | paar | Mails | geschickt, | das | wäre | okay, | wenn | ich",
+  "tx": "Habt ihr euch schon mal gedacht: „Meine Güte. Die Deutschen sprechen immer so schnell. Sprecht doch bitte einfach mal langsamer.“ Und vor allem: „wie soll ich jemals so sprechen können? In meiner Muttersprache sprechen wir doch auch nicht so schnell.“ Dazu sage ich euch gleich was. Bleibt also dran, wenn euch das interessiert. tatsächlich an der Geschwindigkeit liegen. Ja, es gibt nun mal Leute, die wirklich richtig schnell sprechen. Aber normalerweise sprechen wir als deutsche Muttersprachler gar nicht so schnell, wie ihr vielleicht denkt oder schneller als die Sprecher anderer Sprachen. Es … wäre das ein einziges ellenlanges Wort, ja, weil oft lassen wir Laute weg, manchmal lassen wir sogar ganze Silben oder sogar ganze Wörter weg, manchmal sprechen wir einen ganz anderen Laut aus, und genau deshalb habt ihr es als Deutschlerner schwer, uns Muttersprachler zu verstehen, weil unsere Sprache dann für euch so schnell klingt und sich wahrscheinlich von dem unterscheidet, was ihr so in der Schule gelernt habt. Und das gilt übrigens nicht nur für Deutsch, sondern auch für Englisch, Französisch, Russisch und viele andere Sprachen auch. Aber ich habe gute Nachrichten für euch, denn im … jetzt mal den folgenden Satz an. Okay, was war jetzt hier schwierig dran? Na ja, sie sagt eben nicht: Herr | Stromberg | hat | mir | ein | paar | Mails | geschickt, | das | wäre | okay, | wenn | ich | sie | mitbringe. Sondern sie sagt: Die Wörter in diesem Satz sind alle miteinander verbunden. Das ist der Punkt. Man hört also keine Pausen dazwischen. Als Muttersprachler versteht man den Satz trotzdem, weil das Gehirn dran gewöhnt ist und diese Segmentierung selbst hinbekommt. Wenn man jetzt aber Deutsch als Fremdsprache lernt, so wie ihr, dann orientiert sich das Gehirn ja oft eher an der … sind also keine Pausen zwischen den Wörtern zu hören, besonders interessant sind diese Stellen: Das T wird hier gar nicht gesprochen, sondern nur so angedeutet, ja: also der Artikel „ein“ ist hier nur „m“ und das A ist hier kurz: wäre, oder eigentlich, wenn ich das ganz ganz deutlich ausspreche: wäre Wir sagen nicht „ha-ben“, sondern „haben“ Nicht „wer-den“, sondern „werden“ Ja, das ist kein richtiges und kein richtiges , sondern: Und meistens sagen wir auch nicht „sa-gen“, sondern sehr oft in der meisten Regionen Deutschlands die meisten Muttersprachler sagen (wie ich es gerade gemacht … stark reduziert, dazu gebe ich euch auch noch ein paar andere Beispiele, achtet mal genau auf die Aussprache der Artikel. Wenn ihr ganz genau hingehört habt, habt ihr sicherlich auch bemerkt, dass ich die Endung -en reduziert habe, was auch sehr üblich ist. Und dann haben wir gemerkt, dass „wäre“ eigentlich „wer“ ausgesprochen wurde, daraus können wir zwei Dinge ableiten: Erstens, dass wir das lange Ä oft wie ein langes E aussprechen, ja, wir sagen z.B. auch „Mädchen“ und nicht „Mädchen“. Und zweitens, dass wir Wörter mit der Kombination „Vokal – R + Endung E(N)“ nicht mit dem … die sehr oft reduziert ausgesprochen werden, und zwar so, dass sie dann ganz anders klingen, als man es in den meisten Kursen lernt. Er sagt nicht „ei-gent-lich“ – das steht so zwar im Wörterbuch, sagt aber niemand so, sondern: eigentlich nicht Manchmal sagt man auch: – das hat dann nur eine einzige Silbe und ist echt richtig stark reduziert. Es gibt verschiedene Stufen der Reduzierung, ja. Also speziell für dieses Wort. Und bei anderen Wörtern auch. Außerdem gibt es eine Faustregel, nicht nur bei diesem Wort, sondern generell: Je weniger ein Wort in einem Satz betont wird, desto weniger … also würde man diese extrem reduzierte Form hier eben nicht sagen. Aber in Sätzen wie in den beiden, die wir gerade in den Clips gesehen haben, wo das Wort überhaupt nicht betont ist, sind diese reduzierten Formen viel üblicher und natürlicher. Dann haben wir die Fragewörter „was“ und „warum“. Aus „was“ wird hier . Oder: Ein unbetontes „Warum“ kann ausgesprochen werden. Hier sehen wir auch noch was anderes Spannendes, und zwar sage ich ja in der Frage „Warum hast’n du …?“, also „Warum hast denn du …?“ Ja, eigentlich sage ich das so, aber schreiben würde man: „Warum hast du denn …?“, … der Stelle fällt mir auch ein Video ein, das ich letztes Jahr auf Instagram gepostet habe und das zeigt einen kurzen Ausschnitt aus einer öffentlichen Äußerung von Jens Spahn, dem damaligen Bundesgesundheitsminister, und da seht ihr nochmal zwei ganz typische Aussprachephänomene. Man muss ja nicht mit seiner Politik einverstanden sein, darum geht es ja auch nicht, aber Jens Spahn spricht im Gegensatz zu vielen anderen Politikern keinen Dialekt und artikuliert sehr schön und sehr deutlich. Also, mein abschließender Tipp für euch: all das, was wir uns heute angeschaut haben, ist für euch nicht … d.h. wenn ihr die nicht anwendet, klingt das einfach nicht richtig bzw. das stört irgendwie. Dazu gehört die Tatsache, dass wir die Wörter eben miteinander verbinden. Oder beispielsweise auch die Aussprache von „haben“ und nicht „ha-ben“ oder „reden“, ja, und eben nicht „reden“. Auf der anderen Seite gibt es auch Sachen, die ihr selbst nicht unbedingt anwenden müsst, z.B. die Fragen und Sätze, die wir jetzt in den letzten Minuten hier gesehen haben, ja, ihr könnt durchaus auch sagen: „Hast du mal ein Taschentuch?“ – das wäre kein Fehler. Aber ihr müsst eben damit rechnen, dass der Großteil … natürlicher oder authentischer zu klingen – ja, da könntet ihr ja sagen: „Ach, das will ich gar nicht, das ist mir gar nicht wichtig“ – aber nein, das wird euch eben auch dabei helfen, dass ihr uns Muttersprachler besser versteht. Und wenn ihr das selbst für euch anwendet, verschafft ihr euch dadurch automatisch auch mehr Anerkennung. Das ist dann so der Vorteil, wenn ihr das selbst für euch anwendet. Das ist wissenschaftlich auch erwiesen, dass Muttersprachler – oft natürlich unbewusst – glauben, dass man gebildet, selbstbewusst, gut in der Sprache und kompetent ist, alleine schon dann,",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -19108,7 +19142,7 @@
  "JjD8oGvTWx8": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-09T02:55:14+00:00",
+  "checked": "2026-11-13T22:24:15+00:00",
   "title": "seperable verbs and accusative | easy and comprehensible input German A1 A2",
   "duration": 1167,
   "published": "20260125",
@@ -19281,14 +19315,15 @@
     2
    ]
   ],
-  "tx": "Hier siehst du Bilder. Diese Bilder schneiden wir heute aus und wir malen sie an. Wir machen sie bunt. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. This video has actually two different grammar topics which I'm combining in some comprehensible input. Not really going to talk about how to use the grammar. It's not a grammar popup video or where explaining something. But the topics are the accusative case and separable verbs like anmalen und ausschneiden. Also fangen wir an. Und zuerst malen wir die Bilder an. Wen malen wir an? Die Bilder. So, hier habe ich meine Bilder und hier meine Stifte. Heute habe ich Wachsstifte oder Wachskreiden. M Ja, einfach etwas anderes. Was ist das hier? Das hier ist ein Tisch. Und wie male ich den Tisch an? Den Tisch male ich hier braun. Den Tisch male ich braun an. So, den Tisch male ich braun an. Den Tisch male ich braun an. Was ist das? Das ist ein Schrank. Der Schrank. Wie male ich den Schrank an? Wie male ich den Schrank an? Nicht braun, sondern ups, schwarz. Nein, das ist keine gute Idee. Grau. Ich male den Schrank grau an. So, ich male den Schrank grau an. Ich male den Schrank grau an. Was ist das hier? Das ist das Messer. Ich male das Messer grau an. Was ist das hier? Der Teller. Wie male ich den Teller an? Hm. Was ist eine gute Farbe für einen Teller? Weiß. Ich male den Teller weiß an. Das können wir nicht sehen. Das Papier ist weiß und der Teller ist weiß. Ich male den Teller weiß an. Was ist das? Das ist eine Tasse. Wie male ich die Tasse an? Ich male die Tasse blau an. Ich male die Tasse blau an. Und das ist hellblau. Ich male die Tasse hellblau an. Was ist das hier? Der Löffel. Wie male ich den Löffel an? Ich male den Löffel schwarz an. Oh, das ist eine große schwarz hier. Ich male den Löffel schw",
+  "tx": "Hier siehst du Bilder. Diese Bilder schneiden wir heute aus und wir malen sie an. Wir machen sie bunt. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. This video has actually two different grammar topics which I'm combining in some comprehensible input. Not really going to talk about how to use the grammar. It's not a grammar popup video or where explaining something. But the topics are the accusative case and separable verbs like anmalen und ausschneiden. Also fangen wir an. Und zuerst malen wir die Bilder an. Wen malen wir an? Die Bilder. So, hier habe ich meine … braun an. Den Tisch male ich braun an. Was ist das? Das ist ein Schrank. Der Schrank. Wie male ich den Schrank an? Wie male ich den Schrank an? Nicht braun, sondern ups, schwarz. Nein, das ist keine gute Idee. Grau. Ich male den Schrank grau an. So, ich male den Schrank grau an. Ich male den Schrank grau an. Was ist das hier? Das ist das Messer. Ich male das Messer grau an. Was ist das hier? Der Teller. Wie male ich den Teller an? Hm. Was ist eine gute Farbe für einen Teller? Weiß. Ich male den Teller weiß an. Das können wir nicht sehen. Das Papier ist weiß und der Teller ist weiß. Ich male … Löffel schwarz an. Oh, das ist eine große schwarz hier. Ich male den Löffel schwarz an und das hier ist ein Glas. Wie male ich das Glas an? Das Glas ist transparent. Ich male das Glas nicht an. Ich male das Glas nicht an. Was ist das hier? Die Gabel. Wie male ich die Gabel an? Vielleicht auch grau. Wo ist die grau? Ich male die Gabel grau an. Ich male die Gabel grau an. So, jetzt ist die Gabel grau. Das hier sind Kleider oder das ist Kleidung oder auch die Kleidungsstücke. Was ist das hier? Ein Kleid. Das Kleid. Wie male ich das Kleid an? Ich male das Kleid lila an. Ich male das Kleid lila … ich die Hose an? Ich male die Hose blau an. Dunkelblau. Ich male die Hose dunkelblau an. Und das nächste Bild. Was ist das nächste Bild? Was ist das? Eine Jacke. Wie male ich die Jacke an? Ich male die Jacke grün an. Es ist eine grüne Jacke. Ich male die Jacke grün an. So. Und was ist das? Kennst du das? Das ist ein Kleiderbügel. Der Kleiderbügel. Und wie male ich den Kleiderbügel an? Den Kleiderbügel mache ich braun. Ich male den Kleiderbügel braun an. So, ich male den Kleiderbügel braun an. Wunderbar. Hier die nächsten Bilder. Was ist das hier? Hast du eine Idee? Das ist ein … T-Shirt grün an. Ich male das T-Shirt grün an. Ich male die Hose hellblau an. Ich male den Jungen grün und hellblau an. Ich male den Jungen grün und hellblau an. Das hier ist ein Mädchen. Wie male ich das Mädchen an? Ähm, ich male das T-Shirt pink. Oh, es ist kein schönes Pink, es ist rosa. Also, ich male das T-Shirt rosa an und ich male den Rock rot an. Der Rock ist rot und das T-Shirt ist pink. Ich male das Mädchen rosa und rot an. Ich male das T-Shirt rosa an und ich male den Rock rot an. Was ist das? Das ist ein Liegestuhl. Der Liegestuhl. Und wie male ich den Liegestuhl an? Ich glaube, … male ich das Handtuch an? Ich male das Handtuch hellblau an. Ich male das Handtuch hellblau an. Das hier ist der Ball. Ein Ball. Der Ball. Wie male ich den Ball an? Gelb. Wir haben noch kein Gelb. Ich male den Ball gelb an oder ich male den Ball ein bisschen gelb an und m orange. Und ich male den Ball ein bisschen Orange an. Ich male den Ball gelb und orange an. Und das hier ist ein Schwimmring oder Schwimmreif. Wie male ich den Schwimring an? Den Schwimmring male ich grün an. Dunkelgrün. Ein großer Stift, ein großer Wachskreide. So. Und die andere Hälfte male ich hellgrün an. Den Ring … an. Und hier haben wir Tiere. Wie heißen diese Tiere? Das hier ist ein Igel. Der Igel. Und ich male den Igel schwarz an. Ich male den Igel schwarz an. Was ist das hier? Der Hund. Ich male den Hund braun an. Ich male den Hund braun an. Was ist das hier? Die Katze. Ich male die Katze. Oder wie male ich die Katze an? Ich male die Katze grau an. Es ist eine graue Katze. Ich male die Katze grau an. Was ist das? Welches Tier ist das? Das ist ein Schwein. Das Schwein. Und wie male ich das Schwein an? Ich male das Schwein rosa an. Ich male das Schwein rosa an. Wie heißt dieses Tier? Dieses Tier ist … an. Jetzt haben wir alles angemalt. Ich habe die Bilder angemalt. Jetzt nehme ich die Schere und wir schneiden aus. Ich schneide die Bilder aus. Jetzt schneide ich den Tisch und das Geschirr aus. So, ich schneide den Tisch und das Geschirr aus. Ich schneide den Tisch aus. So, hier ist der Tisch. Ich schneide das Messer aus. Ich schneide das Messer aus. Ich schneide den Löffel aus. Ich schneide den Teller aus. Ich schneide die Tasse aus. Hier die Tasse. Ich schneide das Glas und ich schneide die Gabel aus. Das Glas und die Gabel. Sehr gut. Das ist alles für den Tisch. Jetzt kommt der … aus. Die Jacke und die Hose. Wunderbar. Das nächste ist der Sonnenschirm. Der Sonnenschirm. Ich schneide den Sonnenschirm aus. Ich schneide den Sonnenschirm aus. Ich schneide die Kinder aus. Ich schneide die Kinder aus. Ich schneide den Jungen und ich schneide das Mädchen aus. Ich schneide den Jungen aus. Ich schneide das Mädchen aus. Der Liegestuhl. Ich schneide den Liegestuhl aus. Ich schneide den Liegestuhl aus. Ich schneide das Handtuch aus. Ich schneide das Handtuch aus. Der Ball und der Schwimmring oder der Wasserball und der Schwimmring. Ich schneide den Ball aus. Ich schneide den … Der Hund. Ich schneide den Hund aus. die Katze. Ich schneide die Katze aus. Ich schneide den Hund und die Katze aus. Das Schwein. Ich schneide das Schwein aus. Der Frosch und das Schaf. Ich schneide den Frosch und das Schaf aus. Ich hoffe, dieses Video hat dir gefallen. Ich hoffe, du hast viel gelernt, du hast viel Deutsch gehört. Wenn du Fragen hast, schreibe in die Kommentare. Und wenn du noch mehr Deutsch lernen willst, hier gibt es weitere Videos und schaue dir meine Plattform an. Dort gibt es Kurse, wo du z.B. diese Themen lernst. Ganz viel Spaß beim Deutsch lernen und bis dann. Tschüss.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "QJ3wnQ-actg": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-09T02:56:55+00:00",
+  "checked": "2026-11-13T16:35:12+00:00",
   "title": "German Culture: Superstitions / German Podcast A2 B1 Comprehensible Input Intermediate",
   "duration": 1583,
   "published": "20260627",
@@ -19461,14 +19496,15 @@
     3
    ]
   ],
-  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Mein Name ist Jam und das ist Palina Hallo Palina Hallo Wir sprechen beide langsam und ihr lernt schnell Palina und ich sprechen heute über das Thema Aberglaube Ein Aberglaube ist ein Glaube von einer großen Menge an Leuten z.B. in einer Nation oder in einer Religion an Handlungen Wörter oder Symbole die eine übernatürliche Wirkung haben z.B. Glück oder Pech bringen Ein sehr typisches Beispiel ist eine schwarze Katze die oft Pech bringt Das ist ein Aberglaube Habt ihr diesen Glauben mit der schwarzen Katze in Russland auch? Ja Ich glaube wenn eine schwarze Katze deine Straße überquert also vor dir die Straße überquert das ist dann schlecht Ist es in Russland wichtig von welcher Seite die Katze kommt von rechts oder von links? Das weiß ich nicht genau In Deutschland z.B. ist es wichtig dass die Katze von der rechten Seite kommt eine schwarze Katze von rechts bringt Unglück. Ich habe vorher, bevor wir mit diesem Video angefangen haben, ein bisschen recherchiert und da stand z.B. auch, dass wenn die Katze von links kommt, dass es andersherum ist, dass die Katze dann Glück bringt. Aber ich weiß es nicht genau. Das ist ein bisschen unsicher. Für dieses Video haben wir beide ein bisschen recherchiert und auch aus unserer eigenen Erfahrung ein paar Dinge vorbereitet und zwar wollten Palina und ich fünf typische Aberglauben vergleichen. Fünf typische russische Aberglauben und fünf typische deutsche Aberglauben. Natürlich ist das immer ein bisschen wischiwaschi, ein bisschen unklar. Russland ist z.B. ein sehr großes Land mit ganz ganz vielen verschiedenen, unterschiedlichen Bräuchen, Traditionen, Kulturen und Aberglauben. Und auch, wenn Deutschland natürlich deutlich kleiner ist, gibt es in Deutschland auch große Unterschied",
+  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Mein Name ist Jam und das ist Palina Hallo Palina Hallo Wir sprechen beide langsam und ihr lernt schnell Palina und ich sprechen heute über das Thema Aberglaube Ein Aberglaube ist ein Glaube von einer großen Menge an Leuten z.B. in einer Nation oder in einer Religion an Handlungen Wörter oder Symbole die eine übernatürliche Wirkung haben z.B. Glück oder Pech bringen Ein sehr typisches Beispiel ist eine schwarze Katze die oft Pech bringt Das ist ein Aberglaube Habt ihr diesen Glauben mit der schwarzen Katze in Russland auch? Ja Ich glaube … über unsere persönlichen Erfahrungen. Dinge, die wir persönlich in unserer Kindheit kennengelernt haben. Möchtest du anfangen, Palina? Was ist denn ein typischer russischer Aberglaube? Ich habe alles aufgeschrieben. Oh. Also, in Russland gibt es ganz viele, eigentlich. Es gibt ganz viele kleine Aberglauben, die ich glaube, viele Leute kennen und folgen. Der erste Aberglaube, den ich aufgeschrieben habe, ist Prisest na doroschku. Was bedeutet, sich vor dem Weg hinsetzen. Sich vor den Weg hinsetzen? Weg. Vor dem Weg. Ja. Also, wenn man das genau übersetzt, dann ist das sich auf den … oder direkt auf PayPal. Alternativ freuen wir uns auch über jede Hilfe hier auf YouTube. Ihr könnt dieses Video liken, teilen oder ihr könnt einfach subscriben. Und Palina sagt mir gerade, dass es dem Algorithmus besonders gefällt, wenn ihr dieses Video bis zum Ende schaut. So könnt ihr uns also auch unterstützen. Vielen Dank an alle, die das bereits tun. Und jetzt zurück zu Palina und mir. Und ich glaube, das kommt von dem Glauben an den Hausgeist. Was ist denn der Hausgeist? Ein Geist, der in deinem Haus wohnt und sich um dein Haus kümmert und aufpasst. Also, ich liebe den Hausgeist. Also, … deutschen Personen etwas macht, ist, dass man, wenn man beim Trinken anstößt, wenn man Prost sagt, dass man sich ganz, ganz unbedingt in die Augen schauen muss. Und das nehmen deutsche Personen auch wirklich sehr ernst. Fast schon lächerlich ernst. Es sieht immer sehr lustig aus, wenn man eine deutsche Gruppe sieht, die Prost sagt und dann immer diese Bewegung macht. Prost! Damit man auch ja jeder Person in die Augen geschaut. Wenn man das nicht macht, wenn man anstößt, ohne sich in die Augen zu schauen, dann hat man 7 Jahre lang schlechten Sex. Und das will natürlich keiner. Deswegen ist … ist. Es gibt noch ein paar sehr bekannte, sehr große und das sind die, die ich jetzt hier vorbereitet habe. Aber ich glaube, die meisten sind nicht mehr wirklich bekannt. Etwas, das ich ganz häufig gehört habe, dass Leute außerhalb von Deutschland überrascht hat, war, dass wir Regeln für Geburtstagswünsche haben. Und zwar eine ganz bestimmte Regel. Und die lautet, dass man jemanden auf keinen Fall vor seinem Geburtstag zum Geburtstag glückwünschen, dankschattulieren. Gratulieren. Und zwar, dass man jemanden vor seinem Geburtstag auf keinen Fall gratulieren darf. Also, alles Gute zum … tun, oder ist das Das weiß ich nicht genau. Ich weiß nicht, woher das kommt. Wenn ihr mehr darüber wisst, dann schreibt es doch bitte in die Kommentare. Ich glaube Ja, ja. Aber das ist auch etwas, was viele Leute wissen und auch machen. Auch wenn sie sagen, \"Hey, ja, ich glaube an das nicht\", einfach um sicher zu sein, machen sie das trotzdem. Das ist auch dieselbe Logik beim Anstoßen und den Geburtstagswünschen. Keiner glaubt daran, aber man will auf Nummer sicher gehen. Mhm. Wenn ich etwas über die Zukunft sage, und das ist entweder etwas besonders Gutes, was ich weiß, das passieren soll, … aus Deutschland, die es in Russland auch gibt. Ich merke, vielleicht sind wir Deutschen nicht ganz so kreativ. Was ist mit zu wischen? Pfeifen. Okay. Ähm, der vierte Aberglaube, den ich aufgeschrieben habe, ist, dass man zu Hause nicht pfeifen darf. Oder sollte. Echt? Mhm. Dann hat man kein Geld. Dann haben wir ja relativ viel Glück. Ah, wir sind da sehr geschützt von. Wir können beide nicht pfeifen. Ich kann ein bisschen pfeifen. Traust du dich zu pfeifen, obwohl wir zu Hause sind? Nein. Nein? Und man darf auch nicht zu Hause den Schirm Regenschirm aufmachen. Das habe ich auch gehört in … ist. Was aber ganz wichtig ist, ist, dass speziell Spiegelscherben keinen Glück bringen. Ja, wenn man einen Spiegel kaputt macht oder Scherben von einem Spiegel sieht, dann soll das angeblich sieben Jahre Pech bringen. Also, Teller, Gläser, Schüsseln sind alle okay, aber Scher- äh, Scherben. Aber Scheiben. Aber Spiegel, Spiegel dürfen nicht kaputt gehen. Ja. In Russland auch? Mhm. Ich glaube, das ist auch ein sehr typischer internationaler Aberglaube. Ich glaube, man sollte besonders nicht in den Spiegel gucken. In den kaputten Spiegel. Ja. Und was ist dein letzter, Polina? Ähm. Man sollte … Stärke auf dem Teller lässt. Ja, also wenn du dein Essen auf dem Teller lässt, dann lässt du deine Stärke auf dem Teller. Aber ich weiß nicht, ob das bei allen so ist oder Nur für deine Großmutter. Ja. In Deutschland ist das mit dem schlechten Wetter auf jeden Fall sehr weit verbreitet. Und das Interessante dabei ist, dass ich tatsächlich weiß, woher das das Das hat nämlich überhaupt nichts mit Glück oder Unglück oder mit Religion oder traditionellen Bräuchen zu tun. Dieser Aberglaube kommt einfach nur von einer falschen Übersetzung. In Deutschland gibt es einen Dialekt. Dieser Dialekt … Habt ihr die gleichen? Habt ihr völlig andere? Und wie weit verbreitet sind diese Aberglauben? Schreibt es unten in die Kommentare. Wir freuen uns darauf, von euch zu hören. Möchtest du unseren Zuschauern noch etwas auf den Weg geben? Ähm. Wenn ihr andere Ideen habt, was ich und Cem besprechen könnten, was wir vergleichen könnten zwischen Russland und Deutschland z.B., dann schreibt das auch. Unten. Das ist eine gute Idee. Okay. Vielen, vielen Dank, dass ihr uns zugehört und zugeschaut habt. Ich hoffe, dass wir beide euch in unserem nächsten Video wiedersehen können. Und bis dahin. Cem out.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "HS9-k-QjoaM": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-09T02:58:11+00:00",
+  "checked": "2026-11-13T16:35:20+00:00",
   "title": "Mia geht JETZT zur Blindenschule!",
   "duration": 661,
   "published": "20260830",
@@ -19593,7 +19629,8 @@
     2
    ]
   ],
-  "tx": "Fahr mich zur Blindenschule, Papa! Heute ist mein erster Tag! Wach auf, habe ich gesagt! Üheheu! Was willst du, Mia? Du musst mich zur neuen Schule fahren! Ist das die Blindenschule? Ja, heute ist mein 1. Tag! Wieviel Uhr haben wir denn? Wir haben erst halb 5! Oh! Dann müssen wir schnell fahren! Wann beginnt die Blindenschule, Mia? Sei etwas leiser, du Trottel! Äh! Tut mir leid, Schatz! Meine neue Schule beginnt um 8 Uhr! Hä? Dann haben wir doch noch genug Zeit! Nein, die Blindenschule ist nicht in Düsselstadt! Was? Wo denn? In Dortauge! Das ist in der Nähe von Dortmund! Wie soll ich dich jeden Tag da hinfahren? Keine Ahnung! Jetzt steh auf! Geh doch auf deine alte Schule, Mia! Okay, dann gehe ich halt überhaupt nicht mehr zur Schule! Was? Dann werde ich halt obdachlos und lande blind auf der Straße! Nein! Ich fahre dich zur Blindenschule! Gut! Beweg dich! Ich will nicht zu spät am 1. Tag kommen! Ich hoffe, die Blindenschule wird mir helfen! Ich zieh mich schnell an! Wir fahren jetzt, Mama! Gibst du mir einen Abschiedskuss? Hm, sie schläft bestimmt! So, sollen wir fahren? Was hast du getan? Hä? Mein Outfit ist doch süß! Nein! Ich meine deinen Arm! Ist das ein Tattoo? Ja, ich bin jetzt ein Bad Boy! Hat das nicht wehgetan? Ja, aber ich bin ein echter Mann! Beim Duschen wird es aber so weh tun! Warum beim Duschen? Ja, dann muss ich die Tattoo Sticker wieder abziehen! Alter.. Pass auf unsere Tochter auf, Paul! Warum redest du nicht mit Mia? Ich will nicht weinen, wenn ich in ihre Augen gucke! Vielleicht finden wir mal Spendeaugen für die OP! Mia ist wieder die Treppe runtergefallen! Guck, ob sie noch lebt, du Idiot! Stopp! Zieh dir einen Pulli oder so an! Gut, du lebst noch! Schubs mich mal die Treppe runter! Wie ist es eigentlich blind zu sein, Mia? Kacke! Kannst du echt g",
+  "tx": "Fahr mich zur Blindenschule, Papa! Heute ist mein erster Tag! Wach auf, habe ich gesagt! Üheheu! Was willst du, Mia? Du musst mich zur neuen Schule fahren! Ist das die Blindenschule? Ja, heute ist mein 1. Tag! Wieviel Uhr haben wir denn? Wir haben erst halb 5! Oh! Dann müssen wir schnell fahren! Wann beginnt die Blindenschule, Mia? Sei etwas leiser, du Trottel! Äh! Tut mir leid, Schatz! Meine neue Schule beginnt um 8 Uhr! Hä? Dann haben wir doch noch genug Zeit! Nein, die Blindenschule ist nicht in Düsselstadt! Was? Wo denn? In Dortauge! Das ist in der Nähe von Dortmund! Wie soll ich dich … fahren jetzt, Mama! Gibst du mir einen Abschiedskuss? Hm, sie schläft bestimmt! So, sollen wir fahren? Was hast du getan? Hä? Mein Outfit ist doch süß! Nein! Ich meine deinen Arm! Ist das ein Tattoo? Ja, ich bin jetzt ein Bad Boy! Hat das nicht wehgetan? Ja, aber ich bin ein echter Mann! Beim Duschen wird es aber so weh tun! Warum beim Duschen? Ja, dann muss ich die Tattoo Sticker wieder abziehen! Alter.. Pass auf unsere Tochter auf, Paul! Warum redest du nicht mit Mia? Ich will nicht weinen, wenn ich in ihre Augen gucke! Vielleicht finden wir mal Spendeaugen für die OP! Mia ist wieder die … noch nicht, wie es ist, blind zu sein! Siehst du echt überhaupt nichts? Nein ich sehe schwarz und oben rechts ein bisschen grau! Ich verstehe, Schatz! Ich will wissen, wie sich das anfühlt! Du willst blind sein? Ja, ich schließe jetzt meine Augen! Ah, so ist es also blind zu sein! Du fährst doch gerade Auto! Das ist sehr interessant! Oh mein Gott! Öffne deine Augen! Ich will aber wissen, wie du dich fühlst, Schatz! Ich will aber nicht sterben, du Trottel! Jetzt weiß ich, wie du dich fühlst, Mia! Guckst du wieder auf die Straße? Ja! Haha! Der fährt auf der falschen Seite! Oh mein Gott! … dass es meine Schuld ist, dass du blind bist, Mia! Ich hätte dich sofort zum Arzt bringen sollen! Aber jetzt ist es zu spät! Ich werde dir diese neuen Augen besorgen, Mia! Ich verspreche es! 2 Stunden später Mia ist jetzt blind! Das ist schade, weil sie ist mein Kind! Bitte hör auf zu singen! Ich singe doch gut! Ich will meine Ohren abschneiden! Wir sind jetzt da! Ich bin so aufgeregt! Wow, hier ist es so schön! Findest du nicht auch, Mia? Hm, lass uns zur Schule gehen! Wie viel Uhr haben wir denn? 7.30 Uhr! Wir sind pünktlich! Das ist also deine neue Blindenschule? Wie sieht meine neue … Danach gehen wir in deine Klasse! Gute Idee! Hallo! Guten Tag! Ich bin Marie! Was kann ich für Sie tun? Äh, wir sind hier! Entschuldigen Sie bitte! Ich bin seit meiner Geburt blind! Die ist ja voll hübsch! Ich bin auch blind seit 1 Woche! Ah, du musst Mia sein! Ja, ich gehe jetzt auf diese Schule! Wir freuen uns, dass du hier bist! Kann ich jetzt in meine Klasse gehen? Du kannst.. Haben sie schonmal in den Spiegel geguckt? Äh nein! Ich war schon immer blind! Dann haben sie etwas verpasst! Halt die Klappe, Papa! Du bist verheiratet! Ich habe doch nur geflirtet! Okay, das sage ich Mama! Ich … Danke, holst du mich später ab? Ja, ich chille so lange in Dortauge! Ab morgen nimmst du bitte den Zug! Guter Witz, Papa! Das war kein Witz! Ich muss morgen wieder arbeiten! Ich kann dich also nicht fahren! Du solltest Komiker werden! Geh jetzt in die Klasse! Wir reden später darüber! Bis später! Ich bin so aufgeregt! Los! Geh in deine Klasse! Viel Glück, Mia! Hast du die Hausaufgaben gemacht? Nö, haha! Ist hier Raum 002? Ja, wer bist du? Ich bin eine neue Schülerin! Seid ihr auch blind? Nein, wir gehen nur zum Spaß auf einer Blindenschule! Achso! Natürlich sind wir blind! Haha! Alle … auch blind sind! Hier sind alle blind, Mia! Und wie funktioniert dann der Unterricht? Setz dich hin! Dann fangen wir an! Wie finde ich meinen Sitzplatz? Du sitzt direkt vor Alex! Folg meiner Stimme, Mia! Danke, Alex! Lalalala! Wir beginnen jetzt mit dem Unterricht! Bitte kein Mathe! Wir fangen mit dem Morgenkreis an! Was ist das denn? Schiebt die Tische zur Seite und kommt mit euren Stühlen in die Mitte! So, wer will anfangen? Was passiert denn jetzt, Alter? Jeder darf etwas erzählen! Egal was? Ja, was du möchtest! Okay, dann fange ich an! Sehr schön, Mia! Gustav hat Angst vor mir! Wer ist … an! Er hatte Döner mit Zwiebeln bestellt! Danach habe ich ihn verprügelt! Das reicht jetzt! Mia ist irgendwie lustig! Ja, und ich glaube, sie ist richtig hübsch! Ich bin sogar eine 10/10! Echt? Ja, du kannst mein Gesicht anfassen! Gerne! Bleib sitzen, Alex! Wer will als nächstes? Ich will! Gott sei Dank! Dann sag etwas, Nathan! Erzähl weiter, Mia! Mein Doppelgänger ist der Teufel! Sie wollte die Erde zerstören! Dann habe ich sie mit meiner Furzattacke gestoppt! Das reicht jetzt wirklich! Wir beenden jetzt den Morgenkreis! Beste Morgenkreis ever! Das war wild! Was machen wir als nächstes? … Schon, dass du da bist, Mia\"! Gut gemacht, Johannes! Keine Sorge, Mia! Du lernst die Blindenschrift auch noch! Jaja.. Was tust du da? Ich höre euch zu! Und du bist nicht am Handy oder so? Nein, natürlich nicht! So, als nächstes üben wir das Gehen mit dem Blindenstock! Das kann ich schon! Das werden wir sehen! Aber wir können doch alle nichts sehen! Das sagt man doch nur so! Los, wir gehen raus! Eure Aufgabe wird es sein, um diese Kegel! zu gehen! Das wird einfach! Du fängst an, Alex! Okay! Das war krass gut, Alex! Du bist die Nächste, Mia! Bleib stehen, Mia! Wohin gehst du? Was stimmt nicht … hier zu sterben! Ist das ein Hubschrauber? Hallo? Ist hier jemand? Ja ich bin hier, um Mia abzuholen! Und ich habe eine wichtige Neuigkeit für Sie! Äh, wir haben ein Problem! Was ist denn? Wir haben Mia verlo.. Bester Schultag ever! Bis morgen, Herr Franz! Ich muss dir etwas sagen, Mia! Was denn? Der Arzt hat angerufen! Er will dich dringend sehen! Warum? Kann er meine Augen heilen? Ja, vielleicht! Ich will blind bleiben! Was? Ich will weiter auf die Blindenschule gehen! Aber Mia.. Sollte Mia blind bleiben? Schreibt es in die Kommentare! Und klickt gerne auf diese Folge bis Part 5 da ist!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -19898,7 +19935,7 @@
  "kltMj7k5t98": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-09T03:08:04+00:00",
+  "checked": "2026-11-13T22:28:25+00:00",
   "title": "How to Describe Your Room in German (A1 Vocabulary)",
   "duration": 594,
   "published": "20260915",
@@ -20055,14 +20092,15 @@
     2
    ]
   ],
-  "tx": "Welcome to German Stories for Beginners. Here you will learn German with simple stories, slow voice narration, and clear German and English subtitles. Let's start today's German story. Mein Zimmer. Das ist mein Zimmer. This is my room. Das ist mein Zimmer. Mein Zimmer ist klein und schön. My room is small and beautiful. Mein Zimmer ist klein und schön. In meinem Zimmer steht ein Bett. There is a bed in my room. In meinem Zimmer steht ein Bett. Das Bett ist neben dem Fenster. The bed is next to the window. Das Bett ist neben dem Fenster. Auf dem Bett liegt eine weiche Decke. There is a soft blanket on the bed. Auf dem Bett liegt eine weiche Decke. Neben dem Bett steht ein kleiner Tisch. There is a small table next to the bed. Neben dem Bett steht ein kleiner Tisch. Auf dem Tisch steht eine Lampe. There is a lamp on the table. Auf dem Tisch steht eine Lampe. Ich lese abends gern ein Buch. I like reading a book in the evening. Ich lese abends gern ein Buch. Mein Schreibtisch steht am Fenster. My desk is by the window. Mein Schreibtisch steht am Fenster. Auf dem Schreibtisch liegt mein Deutschbuch. My German book is on the desk. Auf dem Schreibtisch liegt mein Deutschbuch. Ich lerne jeden Tag Deutsch an meinem Schreibtisch. Ich lerne jeden Tag Deutsch an meinem Schreibtisch. Neben dem Schreibtisch steht ein Stuhl. Neben dem Schreibtisch steht ein Stuhl. An der Wand hängt ein schönes Bild. Mein Kleiderschrank steht neben der Tür. Meine Kleidung ist im Kleiderschrank. Auf dem Boden liegt ein kleiner Teppich. Ich halte mein Zimmer jeden Tag sauber. Am Morgen öffne ich das Fenster. Am Morgen öffne ich das Fenster. Dann mache ich mein Bett. Dann mache ich mein Bett. Ich fühle mich in meinem Zimmer sehr wohl. Ich fühle mich in Zimmer sehr wohl. Mein Zimmer. Das ist mein Zimmer. M",
+  "tx": "Welcome to German Stories for Beginners. Here you will learn German with simple stories, slow voice narration, and clear German and English subtitles. Let's start today's German story. Mein Zimmer. Das ist mein Zimmer. This is my room. Das ist mein Zimmer. Mein Zimmer ist klein und schön. My room is small and beautiful. Mein Zimmer ist klein und schön. In meinem Zimmer steht ein Bett. There is a bed in my room. In meinem Zimmer steht ein Bett. Das Bett ist neben dem Fenster. The bed is next to the window. Das Bett ist neben dem Fenster. Auf dem Bett liegt eine weiche Decke. There is a soft blanket on the bed. Auf dem Bett liegt eine weiche Decke. Neben dem Bett steht ein kleiner Tisch. There is a small table next to the bed. Neben dem Bett steht ein kleiner Tisch. Auf dem Tisch steht eine Lampe. There is a lamp on the table. Auf dem Tisch steht eine Lampe. Ich lese abends gern ein Buch. I like reading a book in the evening. Ich lese abends gern ein Buch. Mein Schreibtisch steht am Fenster. My desk is by the window. Mein Schreibtisch steht am Fenster. Auf dem Schreibtisch liegt mein Deutschbuch. My German book is on the desk. Auf dem Schreibtisch liegt mein Deutschbuch. Ich lerne jeden Tag Deutsch an meinem Schreibtisch. Ich lerne jeden Tag Deutsch an meinem Schreibtisch. Neben dem Schreibtisch steht ein Stuhl. Neben dem Schreibtisch steht ein Stuhl. An der Wand hängt ein schönes Bild. Mein Kleiderschrank steht neben der Tür. Meine Kleidung ist im Kleiderschrank. Auf dem Boden liegt ein kleiner Teppich. Ich halte mein Zimmer jeden Tag sauber. Am Morgen öffne ich das Fenster. Am Morgen öffne ich das Fenster. Dann mache ich mein Bett. Dann mache ich mein Bett. Ich fühle mich in meinem Zimmer sehr wohl. Ich fühle mich in Zimmer sehr wohl. Mein Zimmer. Das ist mein Zimmer. Mein Zimmer ist klein und schön. In meinem Zimmer steht ein Bett. Das Bett ist neben dem Fenster. Auf dem Bett liegt eine weiche Decke. Neben dem Bett steht ein kleiner Tisch. Auf dem Tisch steht eine Lampe. Ich lese abends gern ein Buch. Mein Schreibtisch steht am Fenster. Auf dem Schreibtisch liegt mein Deutschbuch. Ich lerne jeden Tag Deutsch an meinem Schreibtisch. Neben dem Schreibtisch steht ein Stuhl. An der Wand hängt ein schönes Bild. Mein Kleiderschrank steht neben der Tür. Meine Kleidung ist im Kleiderschrank. Auf dem Boden liegt ein kleiner Teppich. Ich halte mein Zimmer jeden Tag sauber. Am Morgen öffne ich das Fenster. Dann mache ich mein Bett. Ich fühle mich in meinem Zimmer sehr wohl. Mein Zimmer. Das ist mein Zimmer. Mein Zimmer ist klein und schön. In meinem Zimmer steht ein Bett. Das Bett ist neben dem Fenster. Auf dem Bett liegt eine weiche Decke. Neben dem Bett steht ein kleiner Tisch. Auf dem Tisch steht eine Lampe. Ich lese abends gern ein Buch. Mein Schreibtisch steht am Fenster. Auf dem Schreibtisch liegt mein Deutschbuch. Ich lerne jeden Tag Deutsch an meinem Schreibtisch. Neben dem Schreibtisch steht ein Stuhl. An der Wand hängt ein schönes Bild. Mein Kleiderschrank steht neben der Tür. Meine Kleidung ist im Kleiderschrank. Auf dem Boden liegt ein kleiner Teppich. Ich halte mein Zimmer jeden Tag sauber. Am Morgen öffne ich das Fenster. Dann mache ich mein Bett. Ich fühle mich in meinem Zimmer sehr wohl. Ja.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
  "GKnoR47AuT0": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-09T03:08:41+00:00",
+  "checked": "2026-11-13T16:40:02+00:00",
   "title": "Easy German Learning Vlog for Beginners | Comprehensible Input (Cozy Sunday in Germany)",
   "duration": 1276,
   "published": "20250610",
@@ -20235,14 +20273,15 @@
     3
    ]
   ],
-  "tx": "Hallo, guten Morgen. Na, wie geht's dir? Wie war dein Wochenende? Das Wochenende? Das Wochenende beginnt meistens freitags. Zum Wochenende gehören die Wochentage Samstag und Sonntag. Wie hast du dein letztes Wochenende verbracht? Hast du Wochenends eigentlich frei oder musst du am Samstag oder vielleicht sogar auch am Sonntag arbeiten? Heute nehme ich dich mit durch einen sehr gemütlichen und stressfreien Sonntag. Wie du vielleicht schon gesehen hast, ist unser Hund eingezogen. Endlich. Und deshalb danke schön für die Küsschen. Und deshalb habe ich ganz bewusst die letzten drei Wochen für mich, für uns genutzt. Aber jetzt kommt wieder ein neues Lernvideo für dich. Und über Tao und über sein Ankommen hier bei uns lernst du mehr im nächsten Video. Jetzt gerade frühstücke ich. Ich esse Früchte zum Frühstück und guck mal, kennst du den Namen dieser Frucht auf Deutsch? Wenn ja, dann schreib mir ihn doch in die Kommentare. Diese Frucht besteht zu 90 bis 92% aus Wasser. Und so sieht die Frucht von außen aus. Außen und inniui Tacon. Das Fruchtfleisch. Kannst du die kleinen braunen Kerne sehen? Diese Frucht hat nicht viele Kerne. Diese Frucht hat wenige Kerne. Und diese Frucht nennt man Wassermelone. Die Wassermelone. Ich frühstücke gerade Wassermelone. Was hast du gestern gefrühstückt? Ich gebe die Melone zurück in den Kühlschrank und zuvor habe ich lange geschlafen. Am Wochenende versuche ich immer länger zu schlafen. Wann stehst du am Wochenende ungefähr auf? Nachdem wir aufgestanden sind, sind wir mit unserem Hund spazieren gegangen. Mit dem Hund spazieren gehen nennt man auch Gassig gehen, aber guck, er ist von der Leine nichts beeindruckt, denn er war erst vor kurzer Zeit draußen. Jetzt möchte der Hund nur schlafen und sich entspannen. Im August, Juni, Juli, August, also i",
+  "tx": "Hallo, guten Morgen. Na, wie geht's dir? Wie war dein Wochenende? Das Wochenende? Das Wochenende beginnt meistens freitags. Zum Wochenende gehören die Wochentage Samstag und Sonntag. Wie hast du dein letztes Wochenende verbracht? Hast du Wochenends eigentlich frei oder musst du am Samstag oder vielleicht sogar auch am Sonntag arbeiten? Heute nehme ich dich mit durch einen sehr gemütlichen und stressfreien Sonntag. Wie du vielleicht schon gesehen hast, ist unser Hund eingezogen. Endlich. Und deshalb danke schön für die Küsschen. Und deshalb habe ich ganz bewusst die letzten drei Wochen für … Das Fruchtfleisch. Kannst du die kleinen braunen Kerne sehen? Diese Frucht hat nicht viele Kerne. Diese Frucht hat wenige Kerne. Und diese Frucht nennt man Wassermelone. Die Wassermelone. Ich frühstücke gerade Wassermelone. Was hast du gestern gefrühstückt? Ich gebe die Melone zurück in den Kühlschrank und zuvor habe ich lange geschlafen. Am Wochenende versuche ich immer länger zu schlafen. Wann stehst du am Wochenende ungefähr auf? Nachdem wir aufgestanden sind, sind wir mit unserem Hund spazieren gegangen. Mit dem Hund spazieren gehen nennt man auch Gassig gehen, aber guck, er ist von … mein Spanisch auf. Und deshalb gehe ich jetzt in das Arbeitszimmer, wo ich meinen Computer und alles vorbereite, was ich gleich für die Stunde brauche. Komm mit. Für die Stunde brauche ich eigentlich nur meinen Computer, einen Notizblock, einen Kugelschreiber, der Kugelschreiber. Und nachdem ich jetzt noch ein paar Minuten Zeit habe, mache ich mir noch schnell einen Kaffee. Und vielen, vielen lieben Dank für all eure großzügigen Kaffeespenden. Die Kaffeemaschine läuft. Ich schäume die Milch auf und Taco macht es sich auf dem Sofa gemütlich. So und jetzt muss ich mich tatsächlich ein … sodass alle Bereiche des Sprachenlernens abgedeckt werden. Im Juni, also jetzt in diesem Monat, findet die Lingoda Sprint Challenge statt. Mit der Lingoda Sprint Challenge kannst du 30 Kurse in 60 Tagen oder 60 Kurse in 60 Tagen buchen, um die besten Fortschritte zu erzielen. Und wenn du diese Challenge schaffst, kriegst du 50% Cashback. Du bekommst also entweder 50% deines Geldes zurück oder den gleichen Betrag als Unterrichtsgutschrift. Wenn du also Lust drauf hast, Lingode die Online Sprachschule auszuprobieren und vielleicht direkt an der Sprint Challenge teilnehmen möchtest, dann … sind. Zusätzlich planen wir unseren Sport. Seit einigen Wochen habe ich wieder mit Sport begonnen, um meinen Körper fit zu halten. Auch das planen wir voraus. Zusätzlich schreiben wir jede Woche sonntags einen Speiseplan, um dann auch eine Einkaufsliste erstellen zu können und einen Finanzplan. Wir überlegen uns, welche Einnahmen wir in diesem Monat haben und auch welche Ausgaben. Zusätzliche Ausgaben wie z.B. für Geburtstagsgeschenke oder Wochenendtrips und so weiter und wie viel Geld wir monatlich sparen können. Wie sieht das bei dir aus? Planst du deine Wochen oder deine Monate voraus? … trainiert. In der Kategorie Ernährung und Essen ist uns aber aufgefallen, dass wir im letzten Monat nicht so viel zu Hause gekocht und vorgekocht haben, wie wir uns das eigentlich wünschen würden. Und deshalb bleibt unser Ziel für den Monat Juni mehr vorzukochen, dass wir unsere selbstgekochten Mahlzeiten dann mit in die Arbeit nehmen können. Zufrieden sind wir mit der Routine, die wir für Taco, für unseren Hund entwickelt haben. Und mit den Veränderungen, dem regelmäßigen Besuch im Fitnessstudio, der Entwicklung einer guten Routine für Taco und uns, blieb mein YouTube-Kanal die … die frische Luft und das schöne sonnige Wetter. So, wir sind wieder zu Hause und jetzt wird vorgekocht. Das Hähnchen ist schon im Ofen. Der Reis und die Reisnudeln, also Reisförmige Nudeln. Ich gebe den Reis in den Kochtopf. Der Kochtopf. Ich gebe den Deckel auf den Kochtopf. Der Deckel. Das Wasser kocht. Ich gebe die Reisnudeln in das kochende Wasser. Die Süßkartoffel und die Kartoffel. Ich gebe die Kartoffeln vorsichtig ins heiße Wasser. Das Wasser kocht über. Ich lege einen Kochlöffel aus Holz auf den Kochtopf. Mittagessen ist angerichtet. Pie piep. Wir haben uns alle lieb. Pie … wie ich den freien Tag so nutzen möchte. Nachdem die letzten Wochen relativ stressig waren, möchte ich heute ein paar Minuten nutzen, um an einem neuen Video zu arbeiten. Also hole ich meinen Laptop aus dem Arbeitszimmer und ich mache es mir hier auf dem Sofa gemütlich. Ich bearbeite gerade das Video von Tacos Ankunft bei uns zu Hause. Ich gucke mir die Fotos an. So klein war Taco. Taco hat in unsere Hand gepasst und jetzt ist Tao schon so groß. Hast du dir dieses Video schon angeguckt? Wenn nicht, dann guckst dir auf jeden Fall nach diesem Video an. Viel Spaß dabei. So, genug gearbeitet. … Ich schenke mir Limo ein. Hast du ein leckeres Limoreept für uns? Dann schreib uns dein Lieblingslimezept gern in die Kommentare. Ich freue mich. Komm. Taco und ich waren gerade draußen spazieren und jetzt gerade sieht es so aus, als würde es bald regnen. Der Himmel bewölkt sich. Also die Wolke und wenn mehrere Wolken am Himmel zu sehen sind, die die Sonne verdecken, sagt man, es ist bewölkt. Also machen wir es uns hier zu Hause gemütlich. Ich habe meine Kuscheldecke unter Tacos Decke hervorgezogen. Tacos Decke lag auf meiner Tagesdecke. Die Tagesdecke oder die Kuschelddecke. Buch. Ich … wir haben Essen bestellt. Also die Tüte, die Liefertüte und an der Tüte hängt die Rechnung. So, das Abendessen steht auf dem Tisch. Bei uns gibt's heute Sushi, also eine Sushi Bowl und Markis. Und jetzt darf ich uns noch einen spannenden Film aussuchen. Wie sieht dein perfekter Sonntag aus oder wie hast du deinen letzten Sonntag verbracht? Schreib mir das doch gerne in die Kommentare und wenn du willst, korrigiere ich dir auch deinen Text. Schreib dafür einfach bitte korrigier und dann erzähle mir gerne von deinem Sonntag. Tschüss, schönen Abend und natürlich einen guten Start in die Woche.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "Kyz6t-kjjuk": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-09T03:10:24+00:00",
+  "checked": "2026-11-13T16:40:51+00:00",
   "title": "Peppa Wutz macht einen TROPISCHEN GESCHENKKORB! 🍍💰 | Die Schul-Tombola | Neue Ganze Folgen",
   "duration": 3771,
   "published": "20260924",
@@ -20415,14 +20454,15 @@
     31
    ]
   ],
-  "tx": "Der Präsentkorb. Peppa und ihre Freunde sind in der Spielgruppe. Kinder, wer von euch weiß, was das ist? das ist ein leeres Korb-Dings. Korrekt. Und man nennt so was einen Präsentkorb. Und wofür ist der gut? Wir sammeln damit Geld für einen guten Zweck. Oh! In den Präsentkorb packen wir lauter Essenssachen. Können wir auch Obst reinlegen? Wie wär's mit einer Ananas? Und eine Kokosnuss. Ich mag gern Bananen. Wundervoll. Das wird ein tropischer Präsentkorb. Woher bekommen wir denn all das Obst? Gute Frage, Luzie. Bringt bitte alle etwas Obst von zu Hause mit. Ja, Madame Gazelle. Dann machen wir eine Tombola. Eure Eltern kaufen ein Los und schreiben ihren Namen drauf. Und mit etwas Glück gewinnen sie den Präsentkorb. Die Spielgruppe ist zu Ende. Mama, Mama, wir packen einen richtigen Präsentkorb. Du kannst ihn gewinnen, wenn du ein Los kaufst. Das klingt ja nett. Kinder, vergesst bitte nicht, viele tropische Früchte mitzubringen. Papa, Papa, wir müssen Obst zusammen suchen. Äh, was? Für unseren Spielgruppen-Präsentkorb. Ah, wie wär's dann mit diesem Apfel? Nein, Papa, es muss super-trophy-poppy sein. Ja, Madame Gazelle sagte uns etwas von tropischen Früchten. Wie diese Kokosnuss. Gut. Und da müsste auch noch eine Dose Ananasscheiben im Schrank sein. Ist die okay? Ja, und jetzt müsst ihr mir ein Los abkaufen. Oh! Ich verstehe. Und dann musst du noch deinen Namen draufschreiben. Papa Wutz. Und wenn du das Glückslos hast, gewinnst du den Präsentkorb. Fantastisch. Ähm, Mami, kannst du denn dann meine restlichen Lose kaufen? Nun denn, es ist ja schließlich für einen guten Zweck. Am nächsten Tag haben alle Kinder tropische Früchte für den Präsentkorb mitgebracht. Ich habe Bananen und eine Dose Ananasscheiben. Ich habe eine Mango und sogar vier Dosen Ananasscheiben. Ich habe eine",
+  "tx": "Der Präsentkorb. Peppa und ihre Freunde sind in der Spielgruppe. Kinder, wer von euch weiß, was das ist? das ist ein leeres Korb-Dings. Korrekt. Und man nennt so was einen Präsentkorb. Und wofür ist der gut? Wir sammeln damit Geld für einen guten Zweck. Oh! In den Präsentkorb packen wir lauter Essenssachen. Können wir auch Obst reinlegen? Wie wär's mit einer Ananas? Und eine Kokosnuss. Ich mag gern Bananen. Wundervoll. Das wird ein tropischer Präsentkorb. Woher bekommen wir denn all das Obst? Gute Frage, Luzie. Bringt bitte alle etwas Obst von zu Hause mit. Ja, Madame Gazelle. Dann machen wir … ein Strohhalm und eine Klammer zum Befestigen. Fertig. So, ein Windrad. Und jetzt seid ihr dran. Ich will ein grünes Windrad machen. Ja, und ich mache ein rotes. Und ich mache ein großes. Erst müssen wir das Papier falten. Dann kann ein Erwachsener die Schnitte machen. Jetzt kommt noch ein Kleckschen Kleber in die Mitte. So. Dann kleben wir alles fest. Nur eine Seite von jeder Ecke, Freddy. Und nun befestigen wir es am Stiel. Soll ich das vielleicht mal machen, Peppa? So. Ein wirbeliges Windrad. Drehen sich denn alle Windräder? Ja. Meins nicht. Edmund hat nicht genug Puste für sein Windrad. … Lamm. Lina hat ein kleines Lamm, sein Fell ist weiß wie Schnee. Das Lamm folgt ihr auf Schritt und Tritt, Schritt und Tritt, Schritt und Tritt. Das Lamm folgt ihr auf Schritt und Tritt, egal wohin sie geht. Das Lied mag ich, weil da ein Schaf drin vorkommt. Das war sehr, sehr hübsch, Peppa. Vielen Dank. Und hat sonst noch jemand ein Lieblingslied? Ich mag die kleine Bo Peep. Und kannst du die kleine Bo Peep auch singen? Ja, und zwar geht es nämlich so: Die kleine Bo Peep, die war sehr betrübt. Sie hat ihre Schafe verloren. Dieses Lied mag ich aber nicht. Da gehen nämlich Schafe drin … steht ein Häuschen. Fragen wir da nach dem Weg. Hallo. Ist irgendwer zu Hause? Ich frag mich, wer hier wohnt, so mitten im tiefen Wald. Da stehen drei Stühle. Und drei Schüsseln mit Haferbrei. Hallo, Peppa. Das ist Belinda Bär mit Mama und Papa Bär. Hallo zusammen. Hallo, Herr und Frau Bär. Entschuldigen Sie die Störung. stand auf, da sind wir einfach reinspaziert. Das ist gar kein Problem. Es ist schön, dass Sie da sind. Bleibst du zum Essen bei uns, Peppa? Es gibt Haferbrei. Er ist nicht zu heiß und nicht zu kalt, er ist genau richtig. Wir sind eigentlich gerade auf dem Weg zum Haus … Zeichnung von meinem Papa. Ach ja, ich erinnere mich. Dein Vater hat gerne und oft gezeichnet. Aber Sie haben ihm nie einen Spielgruppenstern gegeben. Hierfür muss ich ihm einen gegeben haben. Haben Sie aber nicht. Papa Wutz, hierfür verdienen Sie einen Spielgruppenstern. Ich war noch nie so stolz im Leben. Papa Wutz ist der Spielgruppenstar. Hurra, Papa Wutz. Sachen suchen. Peppa und ihre Familie sind in der Küche. Mama Wutz backt einen Apfelkuchen. Ist der Apfelkuchen jetzt schon fertig? Nein, Peppa. Er muss erst noch in den Ofen. Tja, sieht so aus, als müssten wir noch warten. Ja. Was … Papa Wutz, wir brauchen nur einen Pappkarton, der groß genug ist. Haben wir denn einen so großen Karton? Nein. Paketzustellung für Herrn Wutz. Ich erinnere mich gar nicht, etwas so Großes bestellt zu haben. Ah, es ist nur die neue Glühbirne. Warum braucht man dafür denn so eine große Verpackung? zurücknehmen? Oh, ja, vielen Dank. Nein, Papa, wir brauchen den Karton. Guck, ich habe einen Karton. Dann ist die Burg ja fast fertig. Hurra! Sie ist noch gar nicht fast fertig. Wir müssen sie noch bekleben, anmalen und den Glitzer. Glitzer? Hallo? Hallo, kann ich bitte mit Peppa sprechen? Peppa, es … auf der ganzen Welt. Natürlich, ein richtiges Teegeschirr hat einen Dinosaurier als Teekanne. Papierflieger. Papa Wutz packt seine Sachen für die Arbeit. Gut, jetzt habe ich alle Papiere, die ich brauche. Wiedersehen. Wiedersehen, Papa. Mama, können wir vielleicht was basteln? Klar, was möchtet ihr denn basteln? Dinosaurier. Ach, Schorsch, du sagst immer nur Dinosaurier, egal, worum es geht. ein Flugzeug basteln. Schorsch liebt Flugzeuge. Können wir ein Flugzeug basteln, das richtig fliegt? Ja, wir brauchen nur ein bisschen Papier dafür. Wir wissen, wo es Papier gibt. Im Arbeitszimmer … da etwa gerade deine Murmelbahn gehört, Peppa? Kann ich mitmachen? Klar, Papa. Wunderbar, wir machen sie größer. Papa Wutz liebt Murmelbahn bauen. In der Schachtel ist ja gar nichts mehr zum Bauen drin. Oh! Nicht schlimm, wir nehmen einfach andere Sachen. Diesen Puzzlekarton und das Puppenhaus. Wir wollen es am liebsten noch größer, Papa. Ich schau mal im Büro nach, ob da etwas Brauchbares rumliegt. Aha! Guck mal Papa, wir haben auch noch ein bisschen Kram gefunden. Hervorragend. Seht mal, was ich habe. Tunnelmaterial. Boah, die Murmeln rollen dann hier überall herum. Das wird die beste und … könnte mich als Dornröschen verkleiden, aus diesem Buch. Ja, das lese ich immer gerne vor. Es war einmal eine Prinzessin. Oder, ich gehe als Rotes Äffchen. Das Buch liebe ich auch. Hm, ich weiß es nicht. Ich habe nur gute Bücher. gehst du nicht als lustige Zwiebel aus dem Buch von Mama Wutz? Ach nö, Papa, es muss schon ein richtiges Buch sein, nicht Mamas Buch. Herzlichen Dank, Peppa. Es war einmal eine Zwiebel, die hieß lustige Zwiebel. 476859312. Der größte Teil von Mama Wutz Buch ist eine lange Nummer. Ja, ich hatte Probleme beim Ausdrucken. Und wie wäre dieses Buch? Die kleine … Luzie Locke. Das bin ich, das macht Spaß. Der Preis für den besten im Supermarkt gekauften Kürbis geht an Pedro Pony. Das bin ich. Nein. Der Preis für den besten Kürbis aus Plastik geht an Was ist das für ein Lärm? Da, was ist das? Da ist ein Licht am Himmel. Oh. Das ist ja ein fliegender Kürbis. Das ist Peppas Kürbis. Boah. Hallo, leider sind wir zu spät. Hallo Peppa. Sind wir noch rechtzeitig für den Kürbiswettbewerb? Aber natürlich, der Preis für den besten fliegenden Kürbis geht an Peppa Wutz. Hurra. Das ist das beste Halloween aller Zeiten. Peppa liebt Halloween. Alle lieben Halloween.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "qIBUu4kCDdU": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-09T03:12:55+00:00",
+  "checked": "2026-11-13T22:29:57+00:00",
   "title": "Mascha und der Bär 👧🐻 Gute und schlechte Gewohnheiten 👍👎 Masha and the Bear",
   "duration": 3923,
   "published": "20260922",
@@ -20595,7 +20635,8 @@
     2
    ]
   ],
-  "tx": "Hallo Sportsfreund. Wer? Komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch. Nimm mich mit. 1 2 3 und Ja. 1 2 3 und 4. Oh, du bist ja schon auf. Ich bin hierher gerollert, um mit dir zu frühstücken. Von mir aus kannst du ja gern Fische jagen. Doch ich brauche erst was für den Magen. Will ich nicht. B, ich will irgendwas schön süßes essen. Ich kann gar nichts dafür. Alle Kinder essen am liebsten was richtig süßes. Hucker. Nein, wenn ich was Süßes haben will, dann werde ich es auch kriegen. H Tja, wenn mir keiner hilft, dann helfe ich mir eben selbst. Ha, toll. Am besten schmeckt das, was Zuckersüß ist. Kosten. Oh, wow. Klasse. Oh ja, Bär. Guck mal die vielen Lutscher, die ich mir gemacht habe. Sie machen mein Leben viel süßer. Autsch. Ich glaube, ich habe mir eine Ecke von meinem Zahn abgebrochen. Au, au, au. Bonbonskekse, Süße, Braus, Kuchen, Eis und lila Pause zu Nots. Ein paar Gummibärchen auch lolliisel Splitter Schokooll mchnusser bitter damit füll ich täglich meinen Bauch und jeder warnt mich zu jeder Tagestund. Pass auf, dir fallen bald die Zähne aus dem Mund, die ticken ja nicht rum. Meine Zähne sind gesund. Doch bei einem Lutscherhund prächtig knirscht in meinem Mund ganz mächtig. Ein Sitz der Zupf vom Kopf bis in den See. Ich weiß es nicht und spür es doch. Woeben noch ein Zahn war, klaft ein Loch. Herr Doktor, warum tut das denn so weh? Darf ich jetzt keine Zuckerwatte mehr? Kein Karamell, nur noch saure Stachelbeären. Erwmen bitte sehr. So ein Leben wird zu schwer. Kinder, wollt ihr naschen ohne Reue? Wir sagen euch ja stets aufs neue ist die Lösung gar nicht schwer. Zähne putzel hinterher. Kinder, wollt ihr naschen ohne Reue? Wir sagen es euch ja stets aufs Neue. Ist die Lösung gar nicht schwer. Putzen hinterher jet",
+  "tx": "Hallo Sportsfreund. Wer? Komm schon. Hast du etwa deine Ski vergessen? Was ist das? Irgendeine Sportart? Ich will auch. Nimm mich mit. 1 2 3 und Ja. 1 2 3 und 4. Oh, du bist ja schon auf. Ich bin hierher gerollert, um mit dir zu frühstücken. Von mir aus kannst du ja gern Fische jagen. Doch ich brauche erst was für den Magen. Will ich nicht. B, ich will irgendwas schön süßes essen. Ich kann gar nichts dafür. Alle Kinder essen am liebsten was richtig süßes. Hucker. Nein, wenn ich was Süßes haben will, dann werde ich es auch kriegen. H Tja, wenn mir keiner hilft, dann helfe ich mir eben selbst. … wollt ihr naschen ohne Reue? Wir sagen euch ja stets aufs neue ist die Lösung gar nicht schwer. Zähne putzel hinterher. Kinder, wollt ihr naschen ohne Reue? Wir sagen es euch ja stets aufs Neue. Ist die Lösung gar nicht schwer. Putzen hinterher jetzt. Ich bin extra zum Frühstück hergerollert. Einmal Schleckermaul, immer Schleckermaul. Mit Wissenschaft zum Sieg. Weiß beginnt und ist im Vorteil. Die Spielzüge. Hä? Ich habe schon so lange nicht mehr mit so schönen Steinchen gespielt. Ja. Hm. He. Oh je, gucken. Ich schieße ein Tor. Mhm. Oh. Und ja, juhu, das hat gesessen. Mas für 2:0. Tor! … Alles Gute zum Geburtstag, lieber Bär. Ui, ich bin hoch erfreut, dich wiederzusehen. Nur, damit du es weißt, ich zeige heute nur meine allerbesten Manieren. Dürfte ich dir kurz behilflich sein? Du siehst wirklich aus wie ein richtig süßer Fratz. Habe ich nicht recht? Bär? Dürfte ich dich vielleicht um diesen Tanz bitten? Pardon, es tut mir unendlich le wollen wir einfach weitert tanzen? Sei bitte nicht traurig. Den nächsten Tanz reserviere ich natürlich für dich. Ich könnte die ganze Torte auf einmal essen. Sie sieht so lecker aus. Alles Liebe, alles Gute zum Geburtstag. Viel Glück. … kommen, bitte. Den Bären geht's total schlecht. Sagt mal, spinnt ihr denn? Der Bär ist krank und ihr wollt euch nur den Baum vollschlagen? Wenn ihr den Bären geholfen habt, dann könnt ihr essen, bis ihr platzt. Schlafmittel. Spielsucht höchsten Grad ist Medizin unwirksam. Die Medizin konnte ihm nicht helfen. Dann muss ich eben seine Freunde zu Hilfe rufen. Zu Hilfe! Bitte komm schnell. Der Bär bra macht Hilfe. Der Bär braucht deine Hilfe? Mein armer Freund. Bär, wieso schreist du denn so? So, nun ist das Spiel ein für alle mal vorbei. Aufwachen im Frühling. Du schläfst doch nicht etwa … Es wäre sehr nützlich zu lernen, wie man einschläft. Es wäre sehr nützlich zu lernen, wie man einschläft. Ja, natürlich. Jetzt kann ich es verstehen. Eine sehr wirksame Methode, seit Jahrhunderten bewährt. Ja, und da ist eins. Und noch eins und wieder eins. Und das nicht zu vergessen. Bär, kann man sie nicht vielleicht mit Zahlen bemalen? Das wäre gut, weil ich nämlich Angst habe, mich zu verzählen. Klasse. Du Bär. Ich fände es gut, wenn sie bunt wären. Geht das? Juhu! Schlummer Schlummer Schlummerin, schlaf nicht auf dem Bettrand ein, denn dann kommt ein Wölfelein. Beiß dich in dein … Ringelschwänzchen hat sicher großen Hunger. Hm. Ah. Ja, wir laufen schnell zum Bären. Der hat ganz viel Milch. Wir laufen schnell zum Bären. Der hat ganz viel Milch. Hallo, wir wollen ein bisschen Milch von dir. อื Ich muss mein Baby füttern. Ich muss mein Baby füttern. Ich muss mein Baby füttern. Ja, ja, ja, ja, ja. M mein Baby weint. Es hat Hunger. Oh, Masas Peschale wird mein Baby bestimmt gut schmecken. Oh. Du wirst nie ein Kätzchen sehen, das sich selbst nicht sauber hält. Schmutz auf seinem Pelz den Brust, bis es sich wieder gefällt. Doch wir Kinder sind da anders. Sauber macht uns die … Kleider? Wir haben die neuen Kleider vergessen. Meine schönen Kleider. ปм빵м Hallo B. Hol. Ho. H. Ah, der Bär versteckt sich. gefunden, gefunden. Ich habe dich gefunden. Ich bin frei. Jetzt musst du mich suchen. Komm schon, aufstehen, an die Wand und Augen zu. Das Buch kannst du später lesen, aber du darfst nicht schummeln. Ich werde mich so gut verstecken, dass du mich nie finden wirst. Jetzt darfst du suchen. Hm, wie konnte er mich so schnell finden? Du sollst das doch später machen. Bär, los, jetzt bist du dran. 1 Z D vi Eckstahl alles muss versteckt sein. Vor und hinter mir geht nicht. … In unserer Stadt wird aus diesem Anlass eine neue hochmoderne Schule ihre Tore öffnen. Dort hängen Bilder an und immer größer. Ich werde ja für ja immer älter. Ich kann ja immer natürlich sind zu Beginn des Schuljahrs alle Schüler sehr aufgeregt. Ich will auch in die Schule gehen, so wie die anderen Kinder. Bau mir eine Schule. Juhu. Ich gehe morgen in die Schule. Vergiss nicht meine Schulbank. einen wunderschönen ersten Schultag. Oh, ist das schön hier. Oh, wow. Toll, toll. Mhm. Und jetzt bin ich bereit, alles zu lernen, Herr Lehrer. H schreiben. Ja, klar. Und noch einen großen Strich. … Hilfe! Ich möchte zu dir zurückkommen. Ich will wieder ein Mensch sein, wie früher. Jetzt habe ich diesen blöden Schwanz. Den will ich nicht haben. Wow. Ich will mit euch mitgehen. Darf ich? Ich le in einem Traum. Ich kann schreien und tum. Ich steig auf jeden Baum. Wo ich bin, ist um. Ich mache was ich will. Springe rum und sitz nicht da. Muss dich lernen nicht erräumen. Keine Tag verträumen. So ein tolles Leben. Ху. Ja, was ist passiert? Was ist mit mir? Gleich fange ich an zu weinen. Ich lebe wie ein wildes Tier. Ich kann es nicht mehr leiden. Auf einmal macht's keinen Spaß mehr. Ich … hauen. Die besten Geistergeschichten. Hey, spin Ihr seid ihr wilde Tiere? Das ist doch nur mein Kopfkissen. Ach, steht nicht rum. Helf mir doch es nach Hause zu bringen. Du wartest hier nicht weglaufen. Ich putz mir noch mal schnell meine Zähne. Wenn die Kinder schein sich waschen, steht der Mund am Himmel her. So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -20613,7 +20654,7 @@
  "92Mcmx5gVus": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-09T04:13:32+00:00",
+  "checked": "2026-11-13T16:28:38+00:00",
   "title": "Our Favourite Store in Berlin (Slow German)",
   "duration": 1075,
   "published": "20260812",
@@ -20786,7 +20827,8 @@
     2
    ]
   ],
-  "tx": "Manuel, wo sind wir heute? Wir sind mitten in Berlin auf der Friedrichstraße. Und wir gehen jetzt in ein Kaufhaus. Janosch, was ist ein Kaufhaus? Ein Kaufhaus ist ein Haus, in dem man viel einkaufen kann. Wir gehen jetzt mal rein. Los geht's. Das Kaufhaus. Die Kultur. Das Buch. Die Abteilung. Die Etage. Die Musikabteilung. Der Keller. Die Philosophie. Jetzt sind wir schon mitten im Kaufhaus. Und Manuel, dieses Kaufhaus ist anders als die Kaufhäuser, die wir kennen. Hier gibt es keine Klamotten, kein Geschirr. Hier gibt es Kultur, nur Kultur. Was heißt das, Janosch? Was gehört zur Kultur? Vor allen Dingen Bücher, glaube ich. Es gibt sehr viele Bücher hier und diese Bücher sind gut ausgestellt, sehr gut organisiert. Äh Langsam mal. Wenn man dieses Haus besucht, kann man hier spazieren gehen. Und man kann Sachen sehr gut finden, weil es sehr vernünftig geordnet ist. Was gibt es noch außer Bücher? Es gibt Musik, CDs, Schallplatten, es gibt Postkarten, es gibt Geschenke. Es gibt so äh Papierartikel, Notizblocks, Stifte. Wir schauen uns jetzt mal um. Janosch, du bist ein echter Bücherwurm. Ja. Du liebst Bücher. Ich liebe Bücher, absolut, ja. Und jetzt darfst du uns mitnehmen in deine Lieblingsabteilung. Es gibt zwei Lieblingsabteilungen, das ist unten die musikalische Abteilung, da findet man auch immer unglaubliche Sachen, aber auch oben die Philosophieabteilung. Es ist eine Freude. Ich würde sagen, wir gehen mal zur Musik. Ich freue mich. Die Noten. Die CD. En vogue. Die Renaissance. Entdecken. Stöbern. Janosch und Manuel sitzen im Hi-Fi-Studio. Dort kann man Musik hören in einer perfekten Umgebung. Europas größte CD-Abteilung. Manuel, sind CDs noch en vogue? Compact Discs. Ich glaube, sie haben eine Renaissance. Oh, ganz schön viel Französisch im Easy German Video. Ich hab",
+  "tx": "Manuel, wo sind wir heute? Wir sind mitten in Berlin auf der Friedrichstraße. Und wir gehen jetzt in ein Kaufhaus. Janosch, was ist ein Kaufhaus? Ein Kaufhaus ist ein Haus, in dem man viel einkaufen kann. Wir gehen jetzt mal rein. Los geht's. Das Kaufhaus. Die Kultur. Das Buch. Die Abteilung. Die Etage. Die Musikabteilung. Der Keller. Die Philosophie. Jetzt sind wir schon mitten im Kaufhaus. Und Manuel, dieses Kaufhaus ist anders als die Kaufhäuser, die wir kennen. Hier gibt es keine Klamotten, kein Geschirr. Hier gibt es Kultur, nur Kultur. Was heißt das, Janosch? Was gehört zur Kultur? Vor … Stifte. Wir schauen uns jetzt mal um. Janosch, du bist ein echter Bücherwurm. Ja. Du liebst Bücher. Ich liebe Bücher, absolut, ja. Und jetzt darfst du uns mitnehmen in deine Lieblingsabteilung. Es gibt zwei Lieblingsabteilungen, das ist unten die musikalische Abteilung, da findet man auch immer unglaubliche Sachen, aber auch oben die Philosophieabteilung. Es ist eine Freude. Ich würde sagen, wir gehen mal zur Musik. Ich freue mich. Die Noten. Die CD. En vogue. Die Renaissance. Entdecken. Stöbern. Janosch und Manuel sitzen im Hi-Fi-Studio. Dort kann man Musik hören in einer perfekten … CD, aber es ist ein einer der Musiker, mit dem ich sehr ähm mit einem eine seelische spirituelle Verbindung fühle. Und der Musiker heißt Mike Bloomfield. Manuel, hast du auch etwas entdeckt? Ja, diese Abteilung gefällt mir sehr, denn ich jamme gerne am Lagerfeuer auf der Gitarre. Und diese Band, die mag ich. Oasis. Der Roman. Probe lesen. Lesen. Sammeln. Das Gesellschaftsspiel. Janosch, jetzt sind wir in der Abteilung für Humor. Gibt es das überhaupt in Deutschland? Überraschende Weise, ja, jede Menge und ein Humor, der der mir gut gefällt, so ein immer ähm sehr sat äh selbstzerstörend sein … englischsprachigen Büchern geht, müssen wir erstmal durch ein paar andere Sprachen. Italienisch. Español. Français. Und Was bedeutet das? Ukrainska. Ah, ja. Es gibt auch noch weitere Sprachen, aber ich lese gerne auf Englisch. Wieso nicht auf Ukrainisch, Manuel? Diese Sprache muss ich noch lernen. Und ich mag Karten. Ich kaufe immer Karten, wenn ich welche gute finde, und ich habe zu Hause eine ganze Sammlung. Das Schöne ist, dass man sich hier hinsetzen kann und Bücher probe lesen kann. Dieses Buch habe ich schon gelesen. Es ist sehr gut. Oh, oh, Janosch hat die Philosophie-Abteilung … Wisdom of Escaping the Self. Ich bin sehr dafür. Das interessiert dich? Ja. Das ist etwas, was ich Kari empfehlen würde, weil sie damit selber angefangen hat, irgendwann mit mir darüber zu reden, How to Be a Stoic. Also quasi die langweiligste Seite des Lebens, das es gibt. Das Puzzle. Schenken. Kaufen. Das Spiel, die Spiele. Das Brettspiel. Das Kartenspiel. Ich habe vor Kurzem meine Liebe zu puzzeln entdeckt. Ich puzzle gerne, aber selten. Ich habe nicht so viel Zeit dafür. Und im Winter habe ich mehr gepuzzelt. Und diese Puzzle sehen sehr schön aus. Guck mal, die Geschichte berühmter … was ich mag, dieses Spiel ist Coop. Weißt du, was das heißt? Nicht gegeneinander, man spielt nicht gegeneinander, sondern miteinander. Ja, macht wirklich Spaß. Aber auch ganz ohne Competition ist auch langweilig, oder? Überhaupt nicht. Man versucht immer einen besseren Highscore zu machen. durchstöbern durchstöbern durchstöbern Das Buch, die Bücher. So viele Bücher, jetzt brauchen wir erstmal eine Pause. Und was macht Manuel in der Pause? Er wiederholt die Vokabeln der heutigen Episode. Das mache ich mit der Seedlang App. Die gibt es im App Store und im Play Store. Was ist denn die … com oder einfach im App- oder Play Store suchen. Guck mal, Cari, etwas hat mich gefunden. Wow, Janosch, eine Kette. Ja. Wir sind hier nicht zufällig in der Weltreligion und Religion Ecke und ich empfinde diese Kette als sehr religiös. Ist das nicht sind das nicht Geschenke für Kinder? Nein. Aber, Janosch, diese Kette steht dir wirklich gut. Was soll ich sagen? Und jetzt noch etwas, was ich sehr mag. Die Soundmaschine. Sie ist nicht an, leider. Keine Batterie drin, sonst hätte ich zuviel Spaß. will ich auch kaufen. Das ist eine Schimpfmaschine, damit mache ich viele Menschen sehr, sehr … Ja. Ich habe schon Schwierigkeiten, das Buchcover anzugucken. Ja, aber du wirst dich so ein bisschen äh umschauen in der Welt der Spinnen und sie lieben lernen. Ja? Dann die Reiseliteratur. Das Design. Empfehlen. Der Kaufrausch. Der Kugelschreiber. Wollt ihr jetzt auch wissen, was meine Lieblingsabteilung ist? Unbedingt. Was denkt ihr? Das ist glaube ich etwas mit Radfahren für Könnte sein, oder Bahnfahren. Meine Lieblingsabteilung ist Reiseliteratur. Design gibt es hier auch. Und Geschenkartikel. Ich liebe Radfahren und hier gibt es eine eigene Abteilung dafür. Und Janosch, hier sind … gefahren und hat darüber ein Buch geschrieben. Und ein Video, einen wunderschönen Film gemacht auch. Manuel, hast du auch was gefunden? Möchtest du mit dem Zug durch die Welt fahren, Kari? Dann ist dieses Buch das Richtige für dich. Ich bin auch dabei. Wow! Haben wollen. Kari, so langsam bin ich im Kaufrausch. Das ist ein schönes deutsches Wort. Man kauft so viel, dass man in einen Rausch gerät, so als würde man Drogen nehmen. Ich habe einen Stift entdeckt, der so schön ist, aber rate mal, was er kostet. Es ist ein Kugelschreiber. 100 Euro. 31 Euro. Voll okay. Ich habe auch schon … gehen zur Kasse. Wir müssen alles bezahlen. Emmanuel und Janosch sind zurück von der Kasse. Was habt ihr alles gekauft? Ich habe vier Bücher und einen Kugelschreiber gekauft. Janosch, was hast du? Äh, ich habe gerade 200 Euro ausgegeben. Und was ist das? Oh nein, ich fürchte, äh, ich muss erst noch den Hund föhnen, die Kinder abschminken und das LSD ernten. Es soll eine Eine Soundmaschine. Jetzt wollen wir von euch wissen, was ist denn euer Lieblingsgeschäft? Wo kauft ihr gerne ein und gebt viel zu viel Geld aus? Schreibt uns einen Kommentar. Bis bald. Tschüss, liebe Leute. Ich will Pizza.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -56915,9 +56957,1307 @@
  "87ktrqfEfsc": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "status": "error",
-  "error": "YouTube에 연결하지 못했어요 (인터넷 연결을 확인해 주세요)",
-  "checked": "2026-11-13T15:21:22+00:00",
-  "tries": 1
+  "checked": "2026-11-13T15:32:11+00:00",
+  "title": "#756 Jennifer als Diätassistentin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
+  "duration": 146,
+  "published": "20240525",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 103.4,
+  "rare": 0.0837,
+  "var": 0.8432,
+  "speech_s": 138.7,
+  "tokens": 239,
+  "kw": [
+   [
+    "frau",
+    "Patientin namens Frau Schmidt, die an",
+    29,
+    36,
+    5.66,
+    7
+   ],
+   [
+    "ihren",
+    "Ernährung ändern soll, um ihren Blutzuckerspiegel zu kontrollieren.",
+    38,
+    47,
+    5.74,
+    2
+   ],
+   [
+    "sagt",
+    "ausgewogene Ernährung zu achten, sagt Jennifer. Man muss auf Kohlenhydrate,",
+    67,
+    77,
+    5.59,
+    2
+   ],
+   [
+    "essen",
+    "\"Aber was darf ich sonst noch essen?\"",
+    79,
+    86,
+    5.33,
+    2
+   ],
+   [
+    "schmidt",
+    "Patientin namens Frau Schmidt, die an",
+    29,
+    36,
+    4.6,
+    7
+   ],
+   [
+    "ernährung",
+    "Ernährung ändern soll, um ihren Blutzuckerspiegel zu kontrollieren.",
+    38,
+    47,
+    4.4,
+    5
+   ],
+   [
+    "achten",
+    "ausgewogene Ernährung zu achten, sagt Jennifer. Man muss auf Kohlenhydrate,",
+    67,
+    77,
+    4.54,
+    2
+   ],
+   [
+    "medizinischen",
+    "unterschiedlichen medizinischen Bedürfnissen zuständig.",
+    22,
+    30,
+    4.24,
+    2
+   ],
+   [
+    "jennifer",
+    "Jennifer als Diätassistentin. Jennifer ist eine Diätassistentin in",
+    9,
+    18,
+    3.99,
+    8
+   ],
+   [
+    "gesunde",
+    "Sie gibt ihr auch Tipps für gesunde",
+    111,
+    117,
+    4.15,
+    2
+   ],
+   [
+    "diabetes",
+    "Diabetes leidet. Frau Schmidt ist frustriert. Sie weiß nicht, wie sie ihre",
+    32,
+    41,
+    3.92,
+    2
+   ],
+   [
+    "bedürfnissen",
+    "Bedürfnissen zuständig. Eines Tages trifft Jennifer auf eine",
+    24,
+    33,
+    3.74,
+    2
+   ],
+   [
+    "blutzuckerspiegel",
+    "Blutzuckerspiegel zu kontrollieren. Jennifer setzt sich neben Frau Schmidt",
+    40,
+    49,
+    2.82,
+    2
+   ]
+  ],
+  "tx": "Deutsch lernen durchhören. Jennifer als Diätassistentin. Jennifer ist eine Diätassistentin in einem Krankenhaus. Sie ist für die Erstellung von Ernährungsplänen für Patienten mit unterschiedlichen medizinischen Bedürfnissen zuständig. Eines Tages trifft Jennifer auf eine Patientin namens Frau Schmidt, die an Diabetes leidet. Frau Schmidt ist frustriert. Sie weiß nicht, wie sie ihre Ernährung ändern soll, um ihren Blutzuckerspiegel zu kontrollieren. Jennifer setzt sich neben Frau Schmidt und beginnt mit ihr über ihre Krankengeschichte und ihre derzeitige Ernährung zu sprechen. Sie erklärt, wie Diabetes durch einen Mangel an Insulin verursacht wird und wie bestimmte Nahrungsmittel den Blutzuckerspiegel erhöhen können. Deshalb ist es wichtig, auf eine ausgewogene Ernährung zu achten, sagt Jennifer. Man muss auf Kohlenhydrate, Eiweiß und Fett achten. Frau Schmidt nickt zustimmend und fragt: \"Aber was darf ich sonst noch essen?\" Jennifer lächelt und sagt: \"Es gibt viele Lebensmittel, die man essen kann, z.B. Obst, Gemüse, mageres Fleisch, Fisch und Vollkornprodukte. Wir werden gemeinsam einen Ernährungsplan erstellen, der ihren Bedürfnissen und ihrem Geschmack entspricht. In den nächsten Wochen arbeitet Jennifer eng mit Frau Schmidt zusammen und hilft ihr ihre Ernährung umzustellen. Sie gibt ihr auch Tipps für gesunde Snacks und Mahlzeiten. Am Ende ihres Krankenhaushalts ist Frau Schmidt dankbar für Jennifers Hilfe. Sie fühlt sich besser und hat gelernt, sich gesund und ausgewogen zu ernähren. Jennifer ist stolz darauf, Teil des medizinischen Teams zu sein und Patienten wie Frau Schmidt dabei zu helfen, ihre Gesundheit durch gesunde Ernährung zu verbessern.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "d4fzbVXgrKc": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T22:05:19+00:00",
+  "title": "#820 Lena als Barkeeperin - Berufe mit Geschichten zum Lesen & Hören - [Deutsch lernen durch Hören]",
+  "duration": 167,
+  "published": "20240929",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 114.9,
+  "rare": 0.0976,
+  "var": 0.8379,
+  "speech_s": 149.9,
+  "tokens": 287,
+  "kw": [
+   [
+    "uhr",
+    "Es ist 17:00 Uhr und Lenas Arbeitstag beginnt. Für die nächste Stunde macht sie die Tische und die",
+    10,
+    20,
+    5.67,
+    5
+   ],
+   [
+    "ersten",
+    "ordnet die Gläser und Flaschen hinter der Theke, während die ersten Gäste kommen.",
+    35,
+    41,
+    5.76,
+    2
+   ],
+   [
+    "etwa",
+    "etwa 30 Sekunden sollte alles gut miteinander vermischt sein. Zum Schluss gießt sie das",
+    76,
+    85,
+    5.62,
+    2
+   ],
+   [
+    "bar",
+    "Orangen, Äpfel und vieles mehr in Scheiben. Um 18:00 Uhr schließt Lena die Bar auf und",
+    27,
+    36,
+    4.55,
+    4
+   ],
+   [
+    "schliesst",
+    "",
+    0,
+    0,
+    4.57,
+    2
+   ],
+   [
+    "lena",
+    "Lena als Barkeeperin Es ist 17:00 Uhr und Lenas Arbeitstag beginnt. Für die nächste Stunde macht sie die Tische und die",
+    8,
+    20,
+    4.1,
+    8
+   ],
+   [
+    "gläser",
+    "ordnet die Gläser und Flaschen hinter der Theke, während die ersten Gäste kommen.",
+    35,
+    41,
+    3.91,
+    2
+   ],
+   [
+    "schenkt",
+    "Den restlichen Abend schenkt Lena Bier aus, mixt Cocktails und serviert kleine",
+    107,
+    116,
+    3.87,
+    2
+   ],
+   [
+    "serviert",
+    "serviert. Auch Lena durfte drei Cocktails selbst kreieren, die nun auf der Karte stehen.",
+    100,
+    108,
+    3.87,
+    2
+   ],
+   [
+    "cocktails",
+    "Theke sauber. Dann bereitet sie die Früchte für die Cocktails zu. Sie schneidet Ananas,",
+    19,
+    28,
+    3.52,
+    4
+   ],
+   [
+    "theke",
+    "Theke sauber. Dann bereitet sie die Früchte für die Cocktails zu. Sie schneidet Ananas,",
+    19,
+    28,
+    3.54,
+    3
+   ],
+   [
+    "ananas",
+    "Theke sauber. Dann bereitet sie die Früchte für die Cocktails zu. Sie schneidet Ananas,",
+    19,
+    28,
+    3.49,
+    2
+   ],
+   [
+    "snacks",
+    "Snacks. Es gibt Chips, Nüsse, Nachos und andere Snacks. Doch Lena schenkt nicht nur Alkohol aus,",
+    115,
+    125,
+    3.44,
+    2
+   ],
+   [
+    "mixt",
+    "Nun mixt Lena den ersten Cocktail des Abends, eine Pi­ña co­la­da. Dafür muss sie Rum,",
+    60,
+    69,
+    2.53,
+    2
+   ]
+  ],
+  "tx": "Lena als Barkeeperin Es ist 17:00 Uhr und Lenas Arbeitstag beginnt. Für die nächste Stunde macht sie die Tische und die Theke sauber. Dann bereitet sie die Früchte für die Cocktails zu. Sie schneidet Ananas, Orangen, Äpfel und vieles mehr in Scheiben. Um 18:00 Uhr schließt Lena die Bar auf und ordnet die Gläser und Flaschen hinter der Theke, während die ersten Gäste kommen. Vor 20:00 Uhr ist die Bar ziemlich leer und Lena hat nicht viel zu tun. Doch je später es wird, desto stressiger wird es. Da die Musik so laut ist, hat sie manchmal Probleme, die Leute zu verstehen. Nun mixt Lena den ersten Cocktail des Abends, eine Pi­ña co­la­da. Dafür muss sie Rum, Ananassaft, Kokossirup, Sahne und Eiswürfel in den Shaker füllen und kräftig schütteln. Nach etwa 30 Sekunden sollte alles gut miteinander vermischt sein. Zum Schluss gießt sie das Getränk in ein Cocktailglas und verziert es mit einer Scheibe Ananas und Ananasblättern. In der Bar werden neben den klassischen Cocktails wie Cosmopolitan und Mojito auch eigene Kreationen serviert. Auch Lena durfte drei Cocktails selbst kreieren, die nun auf der Karte stehen. Den restlichen Abend schenkt Lena Bier aus, mixt Cocktails und serviert kleine Snacks. Es gibt Chips, Nüsse, Nachos und andere Snacks. Doch Lena schenkt nicht nur Alkohol aus, auch Cola, Säfte oder Wasser werden in Mengen getrunken. Um etwa 22:00 Uhr muss sie meistens das erste Mal nach hinten ins Lager, um neue Zutaten und Getränke zu holen. Wenn die Bar um 03:00 Uhr schließt, ist der Arbeitstag für Lena noch nicht vorbei. Sie muss noch die letzten Gläser und Utensilien in den Geschirrspüler einräumen, die Theke putzen und die Tische und Sessel auf ihren richtigen Platz stellen, bevor sie endlich nach Hause in ihr Bett kann.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "T0MYu5SfKek": {
+  "channel": "Peppa Pig Deutsch - Offizieller Kanal",
+  "lang": "de",
+  "checked": "2026-11-13T15:34:21+00:00",
+  "title": "Peppa Wutz ist im FERNSEHEN! 📺😱 | TV Land | Neue Ganze Folgen |  Cartoons für Kinder",
+  "duration": 2154,
+  "published": "20261110",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 106.0,
+  "rare": 0.0984,
+  "var": 0.7851,
+  "speech_s": 2121.2,
+  "tokens": 3749,
+  "kw": [
+   [
+    "bitte",
+    "Ja, bitte. Okay, dann fahren wir ins Fernsehland.",
+    78,
+    88,
+    5.7,
+    38
+   ],
+   [
+    "danke",
+    "Danke schön. Wow!",
+    102,
+    112,
+    5.64,
+    30
+   ],
+   [
+    "hallo",
+    "Hallo ihr, das ist Frau Mümmel.",
+    109,
+    115,
+    5.06,
+    20
+   ],
+   [
+    "nein",
+    "Oh nein, ich bin eine Kartoffel.",
+    12,
+    18,
+    5.52,
+    19
+   ],
+   [
+    "obst",
+    "Obst und Gemüse machen uns stark. Denk",
+    24,
+    32,
+    4.23,
+    26
+   ],
+   [
+    "gemüse",
+    "Obst und Gemüse machen uns stark. Denk",
+    24,
+    32,
+    4.33,
+    25
+   ],
+   [
+    "käse",
+    "Käseritterburg, weil es danach Käse riecht.",
+    1105,
+    1111,
+    4.33,
+    18
+   ],
+   [
+    "opa",
+    "Oma und Opa Wutz sind zum Frühstück bei",
+    542,
+    548,
+    4.21,
+    12
+   ],
+   [
+    "hurra",
+    "Hurra! ",
+    262,
+    268,
+    3.69,
+    11
+   ],
+   [
+    "bulle",
+    "Hier ist Peppers Spielgruppe. Herr Bulle",
+    612,
+    618,
+    3.61,
+    11
+   ],
+   [
+    "madame",
+    "Madame Gazelle, ich kenne zwei freundliche Zauberwörter.",
+    648,
+    656,
+    3.87,
+    10
+   ],
+   [
+    "edmund",
+    "Edmund Elefant ist ein kleiner Schlauberger.",
+    71,
+    76,
+    3.61,
+    10
+   ],
+   [
+    "windrad",
+    "Oh, das ist ein Windrad. Ja, Peppa, es ist ein Windrad.",
+    873,
+    881,
+    3.05,
+    10
+   ],
+   [
+    "spaghetti",
+    "Spaghetti. Bitte Spaghetti.",
+    2059,
+    2066,
+    3.58,
+    8
+   ],
+   [
+    "elektrizität",
+    "Das macht Elektrizität. Edmund hat recht.",
+    878,
+    884,
+    3.53,
+    8
+   ],
+   [
+    "mandy",
+    "Der Geburtstag von Mandy Maus. Heute hat Mandy Maus Geburtstag. Sie hat",
+    1079,
+    1089,
+    3.37,
+    8
+   ],
+   [
+    "peppa",
+    "Peppa und ihre Freunde gucken ihre",
+    2,
+    7,
+    2.17,
+    37
+   ],
+   [
+    "gazelle",
+    "Madame Gazelle, ich kenne zwei freundliche Zauberwörter.",
+    648,
+    656,
+    2.88,
+    9
+   ],
+   [
+    "wutz",
+    "Okay, ich bin Peppa Wutz. Das ist mein kleiner Bruder George.",
+    221,
+    230,
+    2.39,
+    8
+   ],
+   [
+    "luzi",
+    "Luzi Locke und ihre Mutter sind zu Hause",
+    194,
+    199,
+    2.44,
+    6
+   ]
+  ],
+  "tx": "Fernsehland. Peppa und ihre Freunde gucken ihre Lieblingsfernsehsendung. Superkartoffel. Bin ich ein Vogel? Bin ich ein Flugzeug? Oh nein, ich bin eine Kartoffel. Ich liebe die Sendung Superkartoffel. Ich auch. Superkartoffel ist genial. Obst und Gemüse machen uns stark. Denk immer dran und ist fünf am Tag. Denk immer dran und ist fünf am Tag. Die Folge kenne ich doch. Ich kann das Lied auswendig. Ja, sie zeigen dieselbe Geschichte wieder und wieder und wieder. Das ist toll, finde ich. Ja, ich glaube, wir alle vergessen diesen Text niemals. Ja, ich glaube, diesen Text vergessen wir echt … ist mein kleiner Bruder George. Boah, Peppa und George sind im Fernseher. Das ist Mama Wutz und das ist Papa Wutz. Hallo Peppa, das ist für dich. Peppa, ich kann dich im Fernsehen sehen. Bin ich jetzt ganz klein? Ja, du bist sehr, sehr klein. Das macht Spaß. Kann ich noch mal ins Fernsehen? Natürlich. Jetzt, wo wir dich aufgenommen haben, kannst du jeden Tag ins Fernsehen. 100? Nein, tausend mal. Hurra! Peppa liebt das Fernsehen. Alle lieben das Fernsehen. Im Wissenschaftsmuseum. Peppa und ihre Spielgruppe besuchen das Museum. Ihr Lang Kinder mir nach. Da ist Frau Mümmel. Hallo zusammen. … Ich. Ich. Peppa, steig doch bitte ein. Sind Sie auch sicher, dass es ungefährlich ist? Natürlich ist es das. Also, Peppa, drück mit deinen Händen gegen meine und bei drei stößt du dich ab. 1 2 3 und los. Wow, ich bewege mich. Ja, das nennt man Schubkraft. Ah. Aber echte Raketen brauchen Raketentreibstoff, um abzuheben. Wer möchte mal mit dieser Rakete fliegen? Ich. Ich. Ich. Es muss jemand kleines sein. In der Rakete ist nicht viel Platz. Ich bin klein. Perfekt. Dann rein mit dir, Edmund. Und äh das ist auch ganz bestimmt sicher für Kinder. Ja, die Rakete fliegt von allein. Nein, ich mein … Apfel. Danke, Madame Gazelle. Sehr gut, Luzi. Und Klausi will den Apfel haben. Ja, ich will den Apfel haben. Okay, Klausy, frag Luzi nach dem Apfel. Gibst du mir den Apfel? Ja. M lecker. Versuch das noch mal. Wenn du nach etwas fragst, Klausy, dann denk immer an das Zauberwort. Abra Kadabra. Meie, wie geht das Zauberwort, Kinder? Bitte. Oh ja, seid ihr soweit? Ja. Ja. Dann geht's los. Gibst du mir den Apfel bitte? Nö. Luz, er hat doch schon einen Apfel. Es geht doch nicht um Äpfel. Es geht ums Bitte sagen. Okay, hier noch ein Apfel. Und nun, Klausi, was noch ein Zauberwort. Oh ja, danke … Machen wir auch Windräder, Madame Gazelle? Ja, wir brauchen Papier und Kleber und Strohhalme. Ich zeige euch jetzt, wie man ein kleines Windrad bastelt. Zuerst faltet ihr ein quadratisches Blatt Papier. So. Dann ein kleiner Schnitt an jeder Ecke und ein Klexkleber in die Mitte. Dann klebt ihr eine Seite von jeder Ecke in der Mitte fest. So. Jetzt noch ein Strohalm und eine Klammer zum Befestigen. Fertig. So, ein Windrad. Wow. Und jetzt seid ihr dran. Ich will ein grünes Windrad machen. Ja, und ich mache ein rotes und ich mache ein großes. Erst müssen wir das Papier falten. Dann kann … doch verrückt. Ah, im Käseboot geht es an Bäumen und Hügeln aus Käse entlang. Das ist der Käseberg. Oh, ist dieser Berg aus echtem Käse gemacht? Nein, aber es ist ganz genauso, als würden wir durch einen echten Käseberg fahren. Ah, wenn es Käseberge gäbe. Hallo miteinander, willkommen bei der Käsefluglinie. Wow. Also, ist jemand von euch schon mal mit diesem Flugzeug geflogen? Ja, ich. Natürlich. Tag auch. Mendy, zeigst du deinen Freunden, wie es funktioniert? Ja, wenn ihr an diesem Hebel zieht, steigt das Flugzeug auf. Boah! Und wenn ihr den Hebel nach vorn drückt, winkt es ab. U! Bitte … ihr den Bzer. Ah! Wir brauchen dazu zwei Teams. Peppa, Luisa und Pedro, ihr bildet das eine Team. Luzi, Klausi und Mendy, ihr seid das andere Team. Fangen wir an. Die erste Frage lautet: Was hiervon ist kein Gemüse? Kopfsalat, Radieschen, Sellery oder ein Auto? Das Auto ist doch gar kein Gemüse. Das ist richtig. Hur! Nächste Frage. Ist ein Schokoladenkeks ein Stück Obst? Ja oder nein? Ja, ist es ein Obst? Mein Vater ist davon ja immer fünf Stück am Tag. Überleg noch mal, Pedro. Ist dein Schokoladenkeks wirklich Obst? Äh nein, das ist richtig. Hurra! Und jetzt die Obst oder Gemüse fragen. … was das Beste wäre? mich jetzt zurücklehnen und heute gar nichts mehr machen. Peppa, Geosche, passt auf, sonst fällt noch jemand hin. Au, mein Arm. Oh weh. Peppa ist gestolpert und hat sich den Arm angestoßen. Ich glaube, wir rufen Dr. Braunbär. Dr. Braunbär, hallo. Aha, Arm angestoßen und das an Weihnachten. Bin schon unterwegs. So, Peppa, du hast dir also den Arm angestoßen. Ja. Kannst du mit den Fingern wackeln? Das ist sehr gut, aber um sicher zu gehen, fahren wir noch schnell ins Krankenhaus. Das ist das Krankenhaus. Frau Mümmel ist die Krankenschwester. Der nächste. Das wäre dann ich. … Gut. Völlig gesund. Hier ein Anstecker. Danke schön, Frau Mümmel, dass Sie sich auch an Weihnachten um uns alle kümmern. Ich mache nur meine Arbeit, Herr Weihnachtsmann, nur meine Arbeit. Frohe Weihnachten euch allen. Frohe Weihnachten. Der Geburtstag von Opa Wutz. Peppa und ihre Familie haben ihre feinsten Kleider angezogen. Heute ist der Geburtstag von Opa Wutz. Eine Party, eine Party. Wir gehen zu einer Party. Weißt du, das ist keine richtige Party. Peppa, wie meinst du das? Es ist nur ein schönes ruhiges Essen im Restaurant zu Opawutz Geburtstag. Du warst doch bis jetzt noch nie in einem … Karot, Creme von Steckrüben, getrockneter Fisch und für dir Kinder mit Grüßen aus der Küche Spaghetti. Spaghetti. Eine Frage. Als Geburtstagskind kriege ich da vielleicht auch Spaghetti. Ich auch. Ich auch. Ich auch. Ich auch. Alle lieben Spaghettis. Möchtet ihr etwas Käse über eure Spaghetti? Käse und Ballons, bitte. Balance natürlich. Hervorragend. Köstlich. Ballon. So langsam fühlt es sich an wie eine Geburtstagsparty. Jetzt fehlt nur noch die Torte. Oh, herzlichen Glückwunsch, Opa. Puste die Kerzen aus Opa. Hurra! Und jetzt Partymusic, bitte. Das ist so schön. Happy Birthday, Opa. Ah! Ah!",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "IixhOfz-j0c": {
+  "channel": "Mascha und der Bär",
+  "lang": "de",
+  "checked": "2026-11-13T15:34:25+00:00",
+  "title": "💥 NEUE FOLGE 💥Achtung! Die Tür schließt! 🚪📢 Episodensammlung 🎬 Mascha und der Bär",
+  "duration": 2752,
+  "published": "20261113",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 73.8,
+  "rare": 0.0666,
+  "var": 0.8051,
+  "speech_s": 1014.5,
+  "tokens": 1247,
+  "kw": [
+   [
+    "nein",
+    "Nein, es ist nicht in der Mitte. Mehr",
+    411,
+    416,
+    5.52,
+    17
+   ],
+   [
+    "hey",
+    "Hey Bär! Hey! Hey! Bär!",
+    39,
+    50,
+    4.93,
+    8
+   ],
+   [
+    "bitte",
+    "bitte? Eine Angel. ",
+    276,
+    287,
+    5.7,
+    7
+   ],
+   [
+    "guten",
+    "Schönen guten Tag. Ich bin Maschuko.",
+    812,
+    819,
+    5.43,
+    6
+   ],
+   [
+    "gucken",
+    "Fernseh gucken, Fernseh gucken, Fernseh gucken, Fernseh gucken, Fernseh gucken,",
+    738,
+    748,
+    4.48,
+    7
+   ],
+   [
+    "roboter",
+    "einen Roboter haben, der kann dir helfen",
+    944,
+    951,
+    4.21,
+    7
+   ],
+   [
+    "wow",
+    "Wow! Oh, Kirschmarmelade.",
+    168,
+    187,
+    4.71,
+    5
+   ],
+   [
+    "angenehm",
+    "Guten Tag. Sehr angenehm. Roboter. Roboter, sehr angenehm.",
+    1148,
+    1156,
+    4.28,
+    5
+   ],
+   [
+    "bär",
+    "Hey Bär! Hey! Hey! Bär!",
+    39,
+    50,
+    4.0,
+    18
+   ],
+   [
+    "fernseh",
+    "Fernseh gucken, Fernseh gucken, Fernseh gucken, Fernseh gucken, Fernseh gucken,",
+    738,
+    748,
+    3.61,
+    6
+   ],
+   [
+    "schluck",
+    "Wo kommt der Schluck auf und ach du",
+    2584,
+    2589,
+    3.76,
+    5
+   ],
+   [
+    "kennenzulernen",
+    "Freut mich sehr. euch kennenzulernen und das ist das wunderbarste.",
+    815,
+    826,
+    3.91,
+    3
+   ],
+   [
+    "juhu",
+    "Juhu, jetzt renovieren wir das ganze",
+    490,
+    496,
+    3.38,
+    5
+   ],
+   [
+    "leckeres",
+    "einfach leckeres Zeug. ",
+    1669,
+    1684,
+    3.55,
+    3
+   ],
+   [
+    "mhm",
+    "Mhm. Mhm. Alle Geschenke von der Liste. Hm. Was",
+    775,
+    784,
+    3.53,
+    3
+   ],
+   [
+    "mas",
+    "Juhu, das hat gesessen. Mas für 2:0.",
+    1322,
+    1334,
+    3.48,
+    3
+   ],
+   [
+    "bärchen",
+    "Bärchen, wir nehmen dich anständig. Das ganze Süßzeug macht mich halt voll",
+    203,
+    267,
+    2.84,
+    2
+   ],
+   [
+    "klümpchen",
+    "Klümpchen. Nein, nein, nein, nein, nein.",
+    1597,
+    1603,
+    2.2,
+    2
+   ]
+  ],
+  "tx": "Achtung, die Tür schließt. Hey Bär! Hey! Hey! Bär! Bär! Bär! Deine Tür scheint kaputt zu sein. Ja, ja, ja, ja, ja. Haück, haück. Hey, ich habe es rausgezogen. Noch mal. Hop. Da bin ich ja an mein größtes Glück aller Zeiten gerollt. Achtung, Achtung, die Türen schließen selbsttätig. Oh. bin beschäftigt. Oh! Oh! Wow! Oh, Kirschmarmelade. Wer hat nur gesagt, wir hätten alles schon aufgegessen? Bärchen, wir nehmen dich anständig. Das ganze Süßzeug macht mich halt voll durstig. Echt? Was für ein Glücksfund ist das denn bitte? Eine Angel. Nicht an der Schnur ziehen, dann geht die Tür sofort auf. … Freund Bär vom Tiger. Nein, es ist nicht in der Mitte. Mehr nach links, nach links. Da lang, da lang. Nach rechts, nach rechts. Mehr zur Mitte. Ja, genau. Noch etwas mehr darüber. Gib her, ich halte es dir an. Oh, genau. Seinen Helm brauche ich. Tata, jetzt kann ich dir helfen. Juhu, jetzt renovieren wir das ganze Haus. Hey, und womit soll ich nun streichen? Guck mal, wie toll deine Decke jetzt aussieht. Bär B. Lass mich das machen. Bär, Bär, bitte. Ich kann das auch. Bitte, bitte. Bär, das ist gemeint von dir. Ich will fahren. Oh, wow. Au Oj, oj. Ah! Ah, diesmal habe Habe ich gar … Fernseh gucken, Fernseh gucken, Fernseh gucken. Und los. Juhu, dann fangen wir gleich von vorne an. So, das da wie gewünscht und das habe ich bekommen. Das wurde nicht vergessen. Mhm. Mhm. Alle Geschenke von der Liste. Hm. Was ist denn das? Das habe ich mir gar nicht gewünscht. Alles Gute. Er hat daran gedacht. Er hat meinen Geburtstag nicht vergessen. I Hey, seht mal, was für ein wundervolles Geschenk. Ist sie nicht absolut super toll? Passt auf, sie kann das machen. Und jetzt haltet euch fest. Schönen guten Tag. Ich bin Maschuko. Freut mich sehr. euch kennenzulernen und das ist das … Warum ist denn alles so nass hier? Aber wie ist denn das passiert? Bär. Das ist Maschuko. Mit der kann man ganz toll spielen. Nein, nein, nein, das ist mir zu gefährlich. Wir kommen zurück, wenn du hier aufgeräumt hast. Du müsstest auch einen Roboter haben, der kann dir helfen und du hast viel Spaß. เฮ Ah. ึ Oh, hier ist es ja blitze blank. Masuko, flieg herein. Ich bin Masuko. Ich bin sehr erfreut, dich kennenzulernen. Guten Tag. Sehr angenehm. Roboter. Roboter, sehr angenehm. Ich bin sehr erfreut. Sehr angenehm, Roboter. Ich freue mich dich kennenzulernen. Sehr angenehm, Roboter. Sehr … sich nie. Mit Wissenschaft zum Sieg. Weiß beginnt und ist im Vorteil. Die Spielzüge. Ich habe schon so lange nicht mehr mit so schönen Steinchen gespielt. Ja. Hm. Oh je. Eber gucken, ich schieße ein Tor. Mhm. Und ja. Juhu, das hat gesessen. Mas für 2:0. Tor! Wieder getroffen. Toll, Mas. Bär fertig, wir haben Hunger. Was ist das? Brei etwa? Ja. Nein, nein, ich mache uns ein Maschale. Aha. J und rein. Oh wow, wie das Hochkoch. Ням ням. ง Ah. Oh. Да. Oh nein. Nein. Bär. Sauber ist jetzt alles. Ich habe Hunger. Was schon wieder? Das hast du nicht was anderes für mich? Das Masha Spechale … Nein, nein, nein, nein, nein. Das ist Haut drauf. Suppe zum Frühstück. Bär, du hast echt überhaupt keine Ahnung, wie sich Kinder er annäheren sollten. Du machst einfach klebrige Haversze. Ich gehe mal zu den Nachbarn, denn unsere Nachbarn haben immer einen Vorrat an Leckereien bei sich zu Hause. Nicht würzig genug. Nicht süß genug. Die ist zu holzig. Hier gibt's auch nichts anständiges zu essen. Wiedersehen. Guten Morgen. Guten Morgen. Ich will einfach leckeres Zeug. Der ist aber sauer. Die sind aber bitter. Weg damit. Dieses Ding kann man unmöglich essen. Aha, bei euch gibt's gerade … Baby versteckt? Wo könnte meine kleine Rosi sein? Es schmeckt fast wie ein ein Radiergummi. Oh wow, die muss ich mal probieren. I die ganzen Eier sind ja nicht mal gekocht. Ich möchte endlich etwas Leckeres. Ich wette, ihr zwei habt bestimmt irgendwo was besonders leckeres versteckt. Vielleicht sollten wir uns bloß etwas genauer umsehen. Ich hab was. Leute, Leute, wartet doch mal, Jungs. Aber es hat es hat doch so ein Ding. Halt, stopp, warte mal, Jungs. Macht mal kurz Pause. Einen Moment. Dreht die Dose um und öffnet sie einfach. Seht ihr den Ring? Das ist wohl abgelaufen. Tja, was soll man … das ist mal was richtig gutes. Vergritze mit leckeren Klümpchen. Chinesische Küche. Ambusgemüse. Taschen. Aha. Ah, da. Halt, halt, halt, halt. Jetzt habe ich dich endlich. Oh, du bist wieder da. Guck mal, das ist ein Schmetterlingbaby. Oh, meine kleine süße Raupe. Oh, was war das denn? Ein neues Spiel. Ah, der Tag sieht gut aus. Na, dann wollen wir mal. Juhu. H Aber ich will gern beim Kochen und Backen mithelfen, bitte. Ja. Sauber. H, da. Ah. I. Ah. Ja. เย Was? Ja, damit kann ich das. Ha. Und hop. Das hier ist meine Riesentacktasche. Ich weiß schon. Tada! Ich auch. Bitte, bitte. Hey Bär, … gesehen habe. Ah! Hm. Na gut, ich werde spazieren gehen. Was ist das denn? Es hört nicht auf. 5 Minuten Atem anhalten. Ah, tief einatmen soll ich oder? Gut, es ist wieder weg. Eigentlich hat's doch nicht geholfen. Puste Luftballons auf. Das Pusten hat aber auch nichts gebracht. Viel Wasser in einem Zug austrinken. Kinder haben so viele Fragen, doch mir schlägt heute nur einer auf den Magen. Wo kommt der Schluck auf und ach du Schreck, warum geht der nicht wieder weg? Ich schluck leise, schluckelaut. Ich schluck füll mit Wasser meinen Bauch und mache Warum hört das Warum hört das niemals … So ein Dreck. Der blöde Schluck geht nicht weg. Kannst der Mitelchen schlägt an. Ich ma kleine Pause dann und wann und wieder. Ob mir wirklich wirklich keiner helfen kann. Oh nein, jetzt hast du auch den Schluck auf. Das reicht. Bär, puste die Luft raus. Ah. เฮ Oh nein, das soll aufhören? Das ist doch fies. So, so, so. Warum sind denn alle meine Videos verschwunden? H, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "08e6HEuNFBs": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:42:43+00:00",
+  "title": "#824 Amelie als Tierpflegerin - Berufe mit Geschichten zum Lesen & Hören | #DldH",
+  "duration": 172,
+  "published": "20241010",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 117.6,
+  "rare": 0.1156,
+  "var": 0.8306,
+  "speech_s": 149.9,
+  "tokens": 294,
+  "kw": [
+   [
+    "tiere",
+    "Tiere. Amelie hat schon jahrelange Erfahrung mit den Tieren im Zoo und kann ihre Körpersprache",
+    42,
+    51,
+    4.85,
+    7
+   ],
+   [
+    "sollte",
+    "spielt mit ihnen. Doch sollte man immer vorsichtig sein, denn es handelt sich trotzdem um wilde",
+    33,
+    43,
+    5.76,
+    2
+   ],
+   [
+    "tag",
+    "Sie wollte schon immer lieber mit Tieren arbeiten als mit Menschen. Jeder Tag ist aufregend. Ihre",
+    16,
+    26,
+    5.69,
+    2
+   ],
+   [
+    "jedoch",
+    "nicht aggressiv, können jedoch durch ihr Gewicht Verletzungen verursachen.",
+    112,
+    118,
+    5.56,
+    2
+   ],
+   [
+    "besucht",
+    "Lieblingstiere sind die roten Pandas und Kängurus. Sie besucht sie jeden Tag und streichelt sie oder",
+    25,
+    34,
+    4.52,
+    2
+   ],
+   [
+    "tieren",
+    "Sie wollte schon immer lieber mit Tieren arbeiten als mit Menschen. Jeder Tag ist aufregend. Ihre",
+    16,
+    26,
+    4.34,
+    2
+   ],
+   [
+    "löwen",
+    "Eine ihrer täglichen Aufgaben ist das Füttern der verschiedenen Tiere. Heute muss sie die Löwen,",
+    59,
+    67,
+    4.32,
+    2
+   ],
+   [
+    "elefanten",
+    "Elefanten und Giraffen füttern. Da es sich hier um gefährlichere Tiere handelt,",
+    66,
+    74,
+    3.88,
+    3
+   ],
+   [
+    "zoo",
+    "Tiere. Amelie hat schon jahrelange Erfahrung mit den Tieren im Zoo und kann ihre Körpersprache",
+    42,
+    51,
+    4.15,
+    2
+   ],
+   [
+    "füttern",
+    "Eine ihrer täglichen Aufgaben ist das Füttern der verschiedenen Tiere. Heute muss sie die Löwen,",
+    59,
+    67,
+    3.75,
+    2
+   ],
+   [
+    "tierarzt",
+    "Heute kommt ein Tierarzt, um sich einen Pinguin anzusehen, der die letzten Tage sehr müde wirkt.",
+    127,
+    135,
+    3.66,
+    2
+   ],
+   [
+    "amelie",
+    "Amelie als Tierpflegerin Amelie arbeitet seit vielen Jahren im Tiergarten.",
+    9,
+    17,
+    3.14,
+    7
+   ],
+   [
+    "fütterung",
+    "ist sie immer achtsam. Die Löwen werden bei der Fütterung in das innere Gehege gesperrt,",
+    73,
+    81,
+    3.25,
+    3
+   ],
+   [
+    "pinguin",
+    "Heute kommt ein Tierarzt, um sich einen Pinguin anzusehen, der die letzten Tage sehr müde wirkt.",
+    127,
+    135,
+    3.32,
+    2
+   ],
+   [
+    "gehege",
+    "ist sie immer achtsam. Die Löwen werden bei der Fütterung in das innere Gehege gesperrt,",
+    73,
+    81,
+    3.26,
+    2
+   ],
+   [
+    "giraffen",
+    "Elefanten und Giraffen füttern. Da es sich hier um gefährlichere Tiere handelt,",
+    66,
+    74,
+    2.96,
+    3
+   ],
+   [
+    "tierpflegerin",
+    "Amelie als Tierpflegerin Amelie arbeitet seit vielen Jahren im Tiergarten.",
+    9,
+    17,
+    2.27,
+    2
+   ]
+  ],
+  "tx": "Amelie als Tierpflegerin Amelie arbeitet seit vielen Jahren im Tiergarten. Sie wollte schon immer lieber mit Tieren arbeiten als mit Menschen. Jeder Tag ist aufregend. Ihre Lieblingstiere sind die roten Pandas und Kängurus. Sie besucht sie jeden Tag und streichelt sie oder spielt mit ihnen. Doch sollte man immer vorsichtig sein, denn es handelt sich trotzdem um wilde Tiere. Amelie hat schon jahrelange Erfahrung mit den Tieren im Zoo und kann ihre Körpersprache gut verstehen. Sie weiß, wann sie sich zurückziehen und die Tiere in Ruhe lassen sollte. Eine ihrer täglichen Aufgaben ist das Füttern der verschiedenen Tiere. Heute muss sie die Löwen, Elefanten und Giraffen füttern. Da es sich hier um gefährlichere Tiere handelt, ist sie immer achtsam. Die Löwen werden bei der Fütterung in das innere Gehege gesperrt, während Amelie das Fleisch im Außengehege verteilt. Sie versucht immer, einen Teil der Nahrung zu verstecken, um die Tiere zu beschäftigen. Die Elefanten und Giraffen dürfen bei der Fütterung draußen bleiben. Dennoch passt Amelie auf, dass sie keine schnellen und unerwarteten Bewegungen macht, um die Tiere nicht zu erschrecken. Die Elefanten und Giraffen sind hier im Zoo nicht aggressiv, können jedoch durch ihr Gewicht Verletzungen verursachen. Als Tierpflegerin ist Amelie für die Reinigung der Gehege, die Fütterung und die Gesundheit der Tiere verantwortlich. Heute kommt ein Tierarzt, um sich einen Pinguin anzusehen, der die letzten Tage sehr müde wirkt. Er untersucht ihn und merkt, dass der Pinguin eine kleine Verletzung unter seinem Flügel hat. Der Tierarzt erklärt den Pflegern, was sie zu tun haben und wie oft sie ihm Medikamente geben müssen. Bevor er wieder geht, besucht er jedoch die Eisbären noch, da eine Eisbärin in wenigen Tagen Nachwuchs bekommt. Amelie ist schon ganz aufgeregt. Sich um kleine Tierbabys zu kümmern, ist ihre Lieblingsaufgabe.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "QC64EsQk6pA": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:54:58+00:00",
+  "title": "#810 Vanessa als Flugbegleiterin - Berufe mit Geschichten zum Lesen & Hören | #DldH",
+  "duration": 159,
+  "published": "20240914",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 114.3,
+  "rare": 0.1004,
+  "var": 0.8327,
+  "speech_s": 141.2,
+  "tokens": 269,
+  "kw": [
+   [
+    "ihren",
+    "Sie begrüßt die Passagiere und hilft ihnen, ihren Sitzplatz zu finden. Vor dem Abflug überprüft sie,",
+    85,
+    94,
+    5.74,
+    2
+   ],
+   [
+    "sicher",
+    "werden. Des Weiteren stellt sie sicher, dass die Innenausstattung funktioniert.",
+    79,
+    86,
+    5.54,
+    2
+   ],
+   [
+    "tage",
+    "länger als ein bis zwei Tage in dieser Stadt verbringt. Nach diesen vier Arbeitstagen hat",
+    31,
+    38,
+    5.38,
+    2
+   ],
+   [
+    "essen",
+    "lange vor den Passagieren an Bord. Vanessa muss überprüfen, ob es genug zu essen und",
+    64,
+    72,
+    5.33,
+    2
+   ],
+   [
+    "bord",
+    "lange vor den Passagieren an Bord. Vanessa muss überprüfen, ob es genug zu essen und",
+    64,
+    72,
+    4.47,
+    2
+   ],
+   [
+    "überprüft",
+    "trinken für alle Passagiere und Kollegen an Bord ist. Dann muss noch mal die Sauberkeit überprüft",
+    71,
+    80,
+    4.23,
+    2
+   ],
+   [
+    "vanessa",
+    "Vanessa als Flugbegleiterin Diese Woche ist Vanessa auf einem Kurzflug von München nach Rom,",
+    7,
+    17,
+    3.83,
+    4
+   ],
+   [
+    "passagiere",
+    "trinken für alle Passagiere und Kollegen an Bord ist. Dann muss noch mal die Sauberkeit überprüft",
+    71,
+    80,
+    4.03,
+    3
+   ],
+   [
+    "getränke",
+    "Dann ist es schon Zeit, das Essen und die Getränke zu servieren. Sie fragt die Passagiere,",
+    125,
+    133,
+    4.09,
+    2
+   ]
+  ],
+  "tx": "Vanessa als Flugbegleiterin Diese Woche ist Vanessa auf einem Kurzflug von München nach Rom, einem Flug nach London und einem Langstreckenflug nach New York. Und wieder zurück. Aufgrund ihres Jobs hat sie die Möglichkeit, viel von der Welt zu sehen. Auch wenn sie manchmal nicht länger als ein bis zwei Tage in dieser Stadt verbringt. Nach diesen vier Arbeitstagen hat sie drei Tage frei, um sich vom Jetlag und der Anstrengung ausruhen zu können. Zu Hause schminkt sie sich, kämmt ihre Haare zu einem strengen Dutt und zieht sich ihre Uniform an. Sie braucht nur 15 Minuten von ihrer Wohnung zum Flughafen. Dort angekommen, macht sie sich auf den Weg zum Flugzeug. Sie und ihr Team sind für den Tag schon lange vor den Passagieren an Bord. Vanessa muss überprüfen, ob es genug zu essen und trinken für alle Passagiere und Kollegen an Bord ist. Dann muss noch mal die Sauberkeit überprüft werden. Des Weiteren stellt sie sicher, dass die Innenausstattung funktioniert. Sie begrüßt die Passagiere und hilft ihnen, ihren Sitzplatz zu finden. Vor dem Abflug überprüft sie, ob das Handgepäck gut verstaut ist. Dann werden die Sicherheitsmaßnahmen erklärt, wie Rettungsweste, Notausgänge und Atemmasken. Während des Fluges geht Vanessa mehrmals sicher, dass die Vorschriften eingehalten werden. Alle Leute müssen auf ihren Plätzen und angeschnallt sein, wenn das Licht leuchtet. Sonst kann es bei Turbulenzen zu Unfällen und Verletzungen kommen. Dann ist es schon Zeit, das Essen und die Getränke zu servieren. Sie fragt die Passagiere, was sie wollen. Auf Langstreckenflügen gibt’s meistens eine Vorspeise, einen Snack und ein Dessert. Auf Kurzstreckenflügen werden kalte und heiße Getränke mit kleinen Keksen serviert.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "obi23Uta4MY": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:55:47+00:00",
+  "title": "#775 Helena als Sängerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
+  "duration": 179,
+  "published": "20240707",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 106.4,
+  "rare": 0.053,
+  "var": 0.8519,
+  "speech_s": 159.6,
+  "tokens": 283,
+  "kw": [
+   [
+    "ihren",
+    "paar Noten und die Lehrerin lobt sie. Jede Woche trainiert Helena so ihren Gesang.",
+    26,
+    35,
+    5.74,
+    2
+   ],
+   [
+    "erste",
+    "Nach ein paar Stunden ist das Lied fertig. Es ist das erste Musikstück des neuen Albums. Der",
+    67,
+    78,
+    5.57,
+    2
+   ],
+   [
+    "paar",
+    "paar Noten und die Lehrerin lobt sie. Jede Woche trainiert Helena so ihren Gesang.",
+    26,
+    35,
+    5.56,
+    2
+   ],
+   [
+    "singt",
+    "wie du deinen Atem kontrollierst“, sagt die Gesangslehrerin. Helena singt ein",
+    19,
+    27,
+    4.22,
+    3
+   ],
+   [
+    "lied",
+    "Nach ein paar Stunden ist das Lied fertig. Es ist das erste Musikstück des neuen Albums. Der",
+    67,
+    78,
+    4.73,
+    2
+   ],
+   [
+    "bar",
+    "Abend hat ihr Manager einen Auftritt in einer Bar gebucht. Sie geht nach Hause und zieht",
+    103,
+    111,
+    4.55,
+    2
+   ],
+   [
+    "manager",
+    "Abend hat ihr Manager einen Auftritt in einer Bar gebucht. Sie geht nach Hause und zieht",
+    103,
+    111,
+    4.55,
+    2
+   ],
+   [
+    "helena",
+    "Helena als Sängerin Helena kommt zu spät. Ihr Gesangsunterricht hat vor zehn Minuten begonnen. „Heute lernst du,",
+    8,
+    20,
+    3.75,
+    10
+   ],
+   [
+    "melodie",
+    "eine wunderschöne Melodie erfunden. Er spielt die Melodie auf dem Klavier und Helena singt den Text,",
+    50,
+    59,
+    3.99,
+    3
+   ],
+   [
+    "produzent",
+    "Nach dem Unterricht geht sie in das Studio. Dort wartet ihr Produzent auf sie. „Hast du",
+    34,
+    43,
+    3.77,
+    3
+   ],
+   [
+    "sängerin",
+    "Helena als Sängerin Helena kommt zu spät. Ihr Gesangsunterricht hat vor zehn Minuten begonnen. „Heute lernst du,",
+    8,
+    20,
+    4.12,
+    2
+   ]
+  ],
+  "tx": "Helena als Sängerin Helena kommt zu spät. Ihr Gesangsunterricht hat vor zehn Minuten begonnen. „Heute lernst du, wie du deinen Atem kontrollierst“, sagt die Gesangslehrerin. Helena singt ein paar Noten und die Lehrerin lobt sie. Jede Woche trainiert Helena so ihren Gesang. Nach dem Unterricht geht sie in das Studio. Dort wartet ihr Produzent auf sie. „Hast du deine Stimme aufgewärmt?“, fragt er. Helena stellt sich vor das Mikrofon. Der Produzent hat eine wunderschöne Melodie erfunden. Er spielt die Melodie auf dem Klavier und Helena singt den Text, den sie selbst geschrieben hat. Sie ist nicht nur Sängerin, sondern auch Liedtexterin. Nach ein paar Stunden ist das Lied fertig. Es ist das erste Musikstück des neuen Albums. Der Produzent wird die Töne noch bearbeiten und dann als Single im Internet veröffentlichen. Helenas Aufgabe ist es, das Lied auf ihren sozialen Medien zu promoten. Ihr Ziel ist es, eines Tages so berühmt wie Harry Styles oder Miley Cyrus zu sein. Heute ist ein sehr stressiger Tag für Helena. Am Abend hat ihr Manager einen Auftritt in einer Bar gebucht. Sie geht nach Hause und zieht sich schnell um. Ihr Manager hat ein Kostüm vorbereitet. Im glitzernden Anzug steht sie auf der Bühne der Bar. Die Scheinwerfer scheinen auf sie. Über hundert Menschen warten gespannt. Helena hat Lampenfieber. Sie ist nervös, weil so viele Leute hier sind. „Ich bin mutig“, denkt sie und gibt der Band ein Handzeichen. Man hört das Klavier, die Gitarre und das Schlagzeug. Der Rhythmus der Melodie entspannt Helena und sie singt die erste Strophe des Textes. Das Publikum liebt sie. Dieser Moment macht Helena glücklich. Ihr Alltag ist anstrengend. Sie hat viele Aufgaben und muss viele Rollen spielen. Doch die",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "MbZ2O6B_z8g": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:56:44+00:00",
+  "title": "#774 Maria als Bloggerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
+  "duration": 178,
+  "published": "20240706",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 109.5,
+  "rare": 0.0464,
+  "var": 0.8298,
+  "speech_s": 153.4,
+  "tokens": 280,
+  "kw": [
+   [
+    "unternehmen",
+    "die junge Frau. Das Unternehmen möchte ihre Kurzgeschichten als Buch veröffentlichen.",
+    62,
+    70,
+    5.38,
+    5
+   ],
+   [
+    "website",
+    "Während des Studiums hat sie eine eigene Website erstellt. Sie hat über ihre Erlebnisse als",
+    41,
+    49,
+    4.85,
+    5
+   ],
+   [
+    "maria",
+    "Maria als Bloggerin Maria liebt es, Geschichten zu erzählen. Schon als kleines Mädchen hat sie Märchen",
+    8,
+    18,
+    4.82,
+    5
+   ],
+   [
+    "ihrem",
+    "Danach kommen verschiedene Unternehmen zu ihr. Sie wollen, dass Maria ihre Produkte auf ihrem",
+    77,
+    85,
+    5.53,
+    2
+   ],
+   [
+    "blog",
+    "Das freut Maria sehr. Zum ersten Mal verdient sie durch ihren Blog Geld.",
+    69,
+    78,
+    4.49,
+    4
+   ],
+   [
+    "beiträge",
+    "immer mehr Menschen ihre Beiträge gelesen. Eines Tages kontaktiert ein großer Verlag",
+    55,
+    63,
+    4.73,
+    2
+   ],
+   [
+    "reisen",
+    "Studentin, über ihre Reisen geschrieben und kurze Geschichten erfunden. Jeden Tag haben",
+    48,
+    56,
+    4.68,
+    2
+   ],
+   [
+    "geschichten",
+    "Maria liebt es, Geschichten zu erzählen. Schon als kleines Mädchen hat sie Märchen",
+    11,
+    18,
+    4.65,
+    2
+   ],
+   [
+    "veröffentlichen",
+    "die junge Frau. Das Unternehmen möchte ihre Kurzgeschichten als Buch veröffentlichen.",
+    62,
+    70,
+    4.17,
+    2
+   ],
+   [
+    "kurzgeschichten",
+    "die junge Frau. Das Unternehmen möchte ihre Kurzgeschichten als Buch veröffentlichen.",
+    62,
+    70,
+    3.47,
+    2
+   ],
+   [
+    "marias",
+    "verschiedene Wege, wie man Bloggerin wird. Marias Freundin ist auch Bloggerin. Sie",
+    116,
+    124,
+    3.15,
+    2
+   ],
+   [
+    "bloggerin",
+    "Maria als Bloggerin Maria liebt es, Geschichten zu erzählen. Schon als kleines Mädchen hat sie Märchen",
+    8,
+    18,
+    2.9,
+    4
+   ]
+  ],
+  "tx": "Maria als Bloggerin Maria liebt es, Geschichten zu erzählen. Schon als kleines Mädchen hat sie Märchen und Fantasiewesen erfunden. Sie ist sehr kreativ. Als Kind wollte sie Autorin werden und für ein Magazin arbeiten. Darum hat sie Journalismus und Literatur studiert. Da hat sie mehr über alte Bücher und Autoren, Journalisten, neue Methoden, Schreibstile und die deutsche Sprache gelernt. Während des Studiums hat sie eine eigene Website erstellt. Sie hat über ihre Erlebnisse als Studentin, über ihre Reisen geschrieben und kurze Geschichten erfunden. Jeden Tag haben immer mehr Menschen ihre Beiträge gelesen. Eines Tages kontaktiert ein großer Verlag die junge Frau. Das Unternehmen möchte ihre Kurzgeschichten als Buch veröffentlichen. Das freut Maria sehr. Zum ersten Mal verdient sie durch ihren Blog Geld. Danach kommen verschiedene Unternehmen zu ihr. Sie wollen, dass Maria ihre Produkte auf ihrem Blog bewirbt. Das gibt Maria Freiheit. Sie kann selbst entscheiden, wann und wo sie arbeitet. Außerdem ist Schreiben ihre Stärke. Sie will ihre Gedanken mit der Welt teilen. Sie erstellt eine Website nur für das Reisen, eine Website nur für Kurzgeschichten und einen persönlichen Blog. Das Leben als Bloggerin ist sehr abwechslungsreich. Es gibt viele verschiedene Wege, wie man Bloggerin wird. Marias Freundin ist auch Bloggerin. Sie schreibt über ihre Erfahrungen in Hotels. Die Hotels schenken ihr eine Nacht in einem Zimmer und bezahlen sie dafür, etwas Positives über das Hotel auf ihrem Blog zu veröffentlichen. Marias Freund Bob arbeitet auch als Blogger. Er ist aber bei einem Unternehmen angestellt und schreibt Beiträge für die Website des Unternehmens. Es gibt auch Menschen, die Blogbeiträge für mehrere Firmen gleichzeitig schreiben und selbstständig sind. Sie haben ihr eigenes Unternehmen und verwalten die Website von anderen Unternehmen.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "kr28qGIjJqA": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:56:48+00:00",
+  "title": "#781 John als Auktionator - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
+  "duration": 129,
+  "published": "20240713",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 126.9,
+  "rare": 0.0533,
+  "var": 0.8061,
+  "speech_s": 106.4,
+  "tokens": 225,
+  "kw": [
+   [
+    "john",
+    "John als Auktionator John ist seit über 20 Jahren Auktionator und kennt jeden Trick,",
+    8,
+    18,
+    4.92,
+    9
+   ],
+   [
+    "stück",
+    "erste Stück präsentiert. Er ist ein Meister darin, die Leute zu begeistern und ihre Aufmerksamkeit zu",
+    44,
+    53,
+    5.09,
+    3
+   ],
+   [
+    "beginnt",
+    "um den Preis für ein Objekt zu erhöhen. Sein Tag beginnt früh am Morgen,",
+    17,
+    23,
+    4.95,
+    3
+   ],
+   [
+    "bekommen",
+    "bekommen. Mit jedem Stück steigt die Spannung und John führt die Bieter durch die gesamte Auktion.",
+    52,
+    61,
+    5.42,
+    2
+   ],
+   [
+    "zufrieden",
+    "aber zufrieden. Er hat sein Bestes gegeben und die Kunden sind zufrieden. Er ist stolz auf seine",
+    107,
+    116,
+    4.78,
+    2
+   ],
+   [
+    "stücke",
+    "achtet darauf, dass alle Stücke sorgfältig geprüft sind und die Beschreibungen stimmen.",
+    30,
+    37,
+    4.43,
+    2
+   ],
+   [
+    "auktion",
+    "Dann beginnt die Auktion. John betritt das Podium und beginnt mit einer kurzen Rede, bevor er das",
+    36,
+    45,
+    3.67,
+    2
+   ],
+   [
+    "bieter",
+    "bekommen. Mit jedem Stück steigt die Spannung und John führt die Bieter durch die gesamte Auktion.",
+    52,
+    61,
+    3.18,
+    2
+   ],
+   [
+    "auktionator",
+    "John als Auktionator John ist seit über 20 Jahren Auktionator und kennt jeden Trick,",
+    8,
+    18,
+    2.58,
+    2
+   ]
+  ],
+  "tx": "John als Auktionator John ist seit über 20 Jahren Auktionator und kennt jeden Trick, um den Preis für ein Objekt zu erhöhen. Sein Tag beginnt früh am Morgen, wenn er zur Auktionshalle fährt. Dort bereitet er alles für die bevorstehende Versteigerung vor. Er achtet darauf, dass alle Stücke sorgfältig geprüft sind und die Beschreibungen stimmen. Dann beginnt die Auktion. John betritt das Podium und beginnt mit einer kurzen Rede, bevor er das erste Stück präsentiert. Er ist ein Meister darin, die Leute zu begeistern und ihre Aufmerksamkeit zu bekommen. Mit jedem Stück steigt die Spannung und John führt die Bieter durch die gesamte Auktion. John ist ein guter Verhandler und weiß genau, wann er den Hammer fallen lassen muss, um den besten Preis zu bekommen. Manchmal streiten sich die Bieter um ein Stück. John fühlt sich dann wie ein Schiedsrichter in einem Boxkampf. Aber er bleibt ruhig und gelassen und macht sich immer Notizen, um einen Überblick über die Gebote zu haben. In der Mittagspause unterhält sich John mit anderen Auktionatoren und Kunden. Sie diskutieren über den Markt, neue Trends und besondere Stücke, die demnächst versteigert werden. John ist immer auf der Suche nach neuen und spannenden Objekten für seine Auktionen. Am Ende des Tages ist John oft erschöpft, aber zufrieden. Er hat sein Bestes gegeben und die Kunden sind zufrieden. Er ist stolz auf seine",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "2_ZMEpZgc_w": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:59:11+00:00",
+  "title": "#576 Rotkäppchen und der böse Wolf - Deutsch lernen durch Hören - Ein Märchen der Brüder Grimm A1-A2",
+  "duration": 567,
+  "published": "20230403",
+  "spoken": "",
+  "spoken_v": 2,
+  "pace": 119.5,
+  "rare": 0.0633,
+  "var": 0.7658,
+  "speech_s": 396.7,
+  "tokens": 790,
+  "kw": [
+   [
+    "haus",
+    "große Eichbäume. Unter diesen Bäumen steht ihr Haus“, sagte Rotkäppchen.",
+    170,
+    178,
+    5.41,
+    7
+   ],
+   [
+    "grosse",
+    "",
+    0,
+    0,
+    5.55,
+    6
+   ],
+   [
+    "bett",
+    "Jetzt legt der Wolf sich ins Bett und wartet auf Rotkäppchen.",
+    282,
+    287,
+    4.94,
+    6
+   ],
+   [
+    "warum",
+    "„Liebe Großmutter. Warum hast du so große Ohren?” „So kann ich dich besser hören.“",
+    323,
+    332,
+    5.75,
+    5
+   ],
+   [
+    "wolf",
+    "Als Rotkäppchen in den Wald kommt, begegnet es dem Wolf. Der Wolf ist ein böses Tier.",
+    103,
+    112,
+    4.57,
+    23
+   ],
+   [
+    "jäger",
+    "Zum Glück kommt ein Jäger am Haus vorbei und hört das Schnarchen.",
+    379,
+    387,
+    4.38,
+    9
+   ],
+   [
+    "fragt",
+    "Der Wolf ist sehr hungrig. Er sieht Rotkäppchen und fragt:",
+    120,
+    125,
+    4.69,
+    4
+   ],
+   [
+    "wein",
+    "eine Flasche Wein. Du musst den Korb zu deiner Großmutter bringen. Sie ist krank und schwach. Sie",
+    56,
+    65,
+    4.64,
+    4
+   ],
+   [
+    "grossmutter",
+    "",
+    0,
+    0,
+    3.98,
+    27
+   ],
+   [
+    "antwortet",
+    "und pass gut auf die Dinge im Korb auf. Rotkäppchen antwortet: “Liebe Mutter,",
+    73,
+    82,
+    4.08,
+    4
+   ],
+   [
+    "korb",
+    "An einem Morgen sagt die Mutter zu dem Kind: „Hier ist ein Korb. Darin liegen ein Stück Kuchen und",
+    48,
+    57,
+    3.87,
+    4
+   ],
+   [
+    "fressen",
+    "Der Wolf denkt: „Die kranke alte Frau kann ich leicht fressen,",
+    146,
+    152,
+    4.13,
+    2
+   ],
+   [
+    "rotkäppchen",
+    "Rotkäppchen Es war einmal ein kleines, süßes Mädchen, sie hat eine Großmutter. Die Großmutter",
+    14,
+    31,
+    3.11,
+    31
+   ],
+   [
+    "schnarcht",
+    "Wolf ist satt und zufrieden. Er legt sich wieder ins Bett, schläft ein und schnarcht sehr laut.",
+    363,
+    373,
+    2.84,
+    2
+   ]
+  ],
+  "tx": "Rotkäppchen Es war einmal ein kleines, süßes Mädchen, sie hat eine Großmutter. Die Großmutter schenkt dem Mädchen ein rotes Käppchen. Ein Käppchen ist eine kleine Mütze. Das kleine Mädchen mag dieses Käppchen sehr und trägt es immer. Deshalb heißt das Mädchen: Rotkäppchen. An einem Morgen sagt die Mutter zu dem Kind: „Hier ist ein Korb. Darin liegen ein Stück Kuchen und eine Flasche Wein. Du musst den Korb zu deiner Großmutter bringen. Sie ist krank und schwach. Sie wird sich darauf freuen. Aber du musst aufpassen: Es ist im Wald gefährlich. Bleibe also auf dem Weg und pass gut auf die Dinge im Korb auf. Rotkäppchen antwortet: “Liebe Mutter, ich bleibe auf dem Weg und passe gut auf den Korb auf. Das verspreche ich dir.” Und die Mutter sagt noch: „Grüß die Großmutter lieb von mir.” Die Großmutter wohnt in einem Häuschen im Wald. Rotkäppchen geht los. Als Rotkäppchen in den Wald kommt, begegnet es dem Wolf. Der Wolf ist ein böses Tier. Aber das weiß Rotkäppchen nicht. Deshalb hat Rotkäppchen keine Angst vor dem Wolf. Der Wolf ist sehr hungrig. Er sieht Rotkäppchen und fragt: „Hallo Rotkäppchen. Wohin gehst du schon so früh?“ Rotkäppchen antwortet ihm: “Hallo Wolf. Ich gehe zu meiner Großmutter. Sie ist sehr krank und schwach. Deshalb bringe ich ihr Kuchen und Wein; gestern hat meine Mutter gebacken.“ Der Wolf denkt: „Die kranke alte Frau kann ich leicht fressen, und als Nachtisch fresse ich noch das kleine Rotkäppchen.“ Der Wolf fragt weiter: „Rotkäppchen, wo wohnt deine Großmutter?“ „Ich glaube, noch eine Viertelstunde weiter im Wald. Dort gibt es drei große Eichbäume. Unter diesen Bäumen steht ihr Haus“, sagte Rotkäppchen. Dann sagt der Wolf zu Rotkäppchen: “Schau dich einmal um, Rotkäppchen. Auf der Wiese hier im Wald wachsen schöne Blumen. Bring doch deiner Großmutter einen bunten Strauß mit.” Rotkäppchen schaut sich um und denkt: “Großmutter freut sich sicher über einen Blumenstrauß.” Deshalb verlässt Rotkäppchen den Weg. Und sie geht auf die Wiese zu den Blumen. In dieser Zeit läuft der Wolf ins Haus der Großmutter. Er klopft an die Tür. Die Großmutter fragt: „Wer ist da?\" Der Wolf antwortet: “Rotkäppchen. Ich bringe dir Kuchen und Wein, mach auf.” Die Großmutter ruft: „Komm herein. Ich kann nicht aufstehen.“ Der Wolf geht in das Haus und frisst die Großmutter ganz schnell. Dann zieht der Wolf die Kleider von der Großmutter an und trägt auch ihre Mütze. Jetzt legt der Wolf sich ins Bett und wartet auf Rotkäppchen. Kurze Zeit später kommt Rotkäppchen zum Haus der Großmutter. Die Tür ist offen. Rotkäppchen hat Angst. Es geht langsam ins Haus und ruft: “Liebe Großmutter. Guten Morgen.” Aber die Großmutter antwortet nicht. Rotkäppchen geht zum Bett von der Großmutter und erschrickt, denn die Großmutter sieht so anders aus. Rotkäppchen denkt: „Ist das meine Großmutter?” Rotkäppchen fragt: „Liebe Großmutter. Warum hast du so große Ohren?” „So kann ich dich besser hören.“ „Warum hast du so große Augen?“ „So kann ich dich besser sehen.“ „Liebe Großmutter. Warum hast du so große Hände?“ “So kann ich dich besser packen.” “Liebe Großmutter. Warum hast du so einen großen Mund?” “So kann ich dich besser fressen.” Jetzt springt der Wolf aus dem Bett und frisst auch das arme Rotkäppchen. Der Wolf ist satt und zufrieden. Er legt sich wieder ins Bett, schläft ein und schnarcht sehr laut. Zum Glück kommt ein Jäger am Haus vorbei und hört das Schnarchen. Er wundert sich und denkt: “Warum schnarcht die alte Frau so? Ich muss doch hineingehen und sehen, ob es der alten Frau gut geht.“ Der Jäger geht ins Haus und sieht, dass der Wolf im Bett liegt. Der Jäger freut sich, denn er hat den Wolf schon lange Zeit gesucht. Der Jäger denkt: “Der Wolf hat die Großmutter gefressen und vielleicht kann ich sie noch retten.\" Der Jäger tötet den Wolf nicht, sondern nimmt eine große Schere und fängt an, den Bauch vom Wolf aufzuschneiden. Rotkäppchen und die Großmutter kommen aus dem Bauch vom Wolf. Es geht beiden gut. Das kleine Rotkäppchen sagt: „Gott sei Dank! Da drin war es so dunkel!“ Rotkäppchen holt große, schwere Steine von draußen. Nun füllen der Jäger und Rotkäppchen den Bauch des Wolfes mit Steinen und nähen ihn wieder zu. Als der Wolf aufwacht, sieht er den Jäger und will aus dem Bett springen, aber die Steine im Bauch sind sehr schwer. Deshalb fällt er tot zu Boden. Der Jäger bekommt das Fell vom Wolf. Rotkäppchen und die Großmutter danken dem Jäger und alle drei sind glücklich. Die Großmutter isst den Kuchen und trinkt den Wein. Sie erholt sich wieder. Das war das Märchen von Rotkäppchen. Dieses Märchen wurde vor allem in einer einfachen Sprache für Deutschlerner umgeschrieben. Wenn ihr mehr Märchen wie dieses möchtet, schreibt in die Kommentare, welche sie sind.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
  }
 }

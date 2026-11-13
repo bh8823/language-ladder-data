@@ -12157,7 +12157,7 @@
  "wfSBfdubpt4": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-06T02:23:57+00:00",
+  "checked": "2026-11-13T22:22:21+00:00",
   "title": "So kann die AfD allein regieren - und so nicht | 4 Szenarien für Sachsen-Anhalt",
   "duration": 903,
   "published": "20260829",
@@ -12165,73 +12165,10 @@
   "spoken_v": 2,
   "pace": 183.5,
   "rare": 0.0498,
+  "var": 0.8482,
   "speech_s": 813.7,
   "tokens": 2489,
   "kw": [
-   [
-    "bsw",
-    "Denn Sahra Wagenknecht, Gründerin des BSW, hat angekündigt:",
-    361,
-    365,
-    2.61,
-    9
-   ],
-   [
-    "minderheitsregierung",
-    "mit einer Minderheitsregierung. Ohne absolute Mehrheit für Gesetze, für den Haushalt",
-    381,
-    386,
-    2.89,
-    8
-   ],
-   [
-    "siegmund",
-    "wurde der Spitzenkandidat für Sachsen-Anhalt, Ulrich Siegmund,",
-    60,
-    63,
-    3.13,
-    9
-   ],
-   [
-    "wahlgang",
-    "braucht Ulrich Siegmund im ersten oder im zweiten Wahlgang",
-    264,
-    267,
-    3.48,
-    8
-   ],
-   [
-    "ministerpräsidenten",
-    "einen Ministerpräsidenten in Sachsen-Anhalt, der nicht von der CDU oder von der SPD kommt.",
-    80,
-    85,
-    3.85,
-    11
-   ],
-   [
-    "geschäftsführend",
-    "würde dann erst einmal geschäftsführend weitermachen.",
-    725,
-    728,
-    2.07,
-    3
-   ],
-   [
-    "szenario",
-    "ist nicht nur ein theoretisches Szenario,",
-    124,
-    127,
-    3.85,
-    9
-   ],
-   [
-    "landtag",
-    "wird in Sachsen-Anhalt ein neuer Landtag gewählt.",
-    1,
-    5,
-    4.3,
-    16
-   ],
    [
     "afd",
     "nämlich die AfD. Zum ersten Mal überhaupt",
@@ -12247,14 +12184,6 @@
     5,
     4.83,
     22
-   ],
-   [
-    "anhalt",
-    "wird in Sachsen-Anhalt ein neuer Landtag gewählt.",
-    1,
-    5,
-    4.34,
-    21
    ],
    [
     "parteien",
@@ -12273,6 +12202,14 @@
     18
    ],
    [
+    "anhalt",
+    "wird in Sachsen-Anhalt ein neuer Landtag gewählt.",
+    1,
+    5,
+    4.34,
+    21
+   ],
+   [
     "mehrheit",
     "dass die AfD tatsächlich die absolute Mehrheit",
     68,
@@ -12281,26 +12218,114 @@
     16
    ],
    [
-    "wahl",
-    "Und wie viele Prozentpunkte wären dafür bei der Wahl nötig?",
-    193,
-    197,
-    5.19,
+    "landtag",
+    "wird in Sachsen-Anhalt ein neuer Landtag gewählt.",
+    1,
+    5,
+    4.3,
+    16
+   ],
+   [
+    "absolute",
+    "dass die AfD tatsächlich die absolute Mehrheit",
+    68,
+    72,
+    4.4,
     11
    ],
    [
-    "cdu",
-    "der nicht von der CDU oder von der SPD kommt.",
-    82,
+    "ministerpräsidenten",
+    "einen Ministerpräsidenten in Sachsen-Anhalt, der nicht von der CDU oder von der SPD kommt.",
+    80,
     85,
-    5.15,
+    3.85,
     11
+   ],
+   [
+    "szenario",
+    "ist nicht nur ein theoretisches Szenario,",
+    124,
+    127,
+    3.85,
+    9
+   ],
+   [
+    "regieren",
+    "sondern das Land komplett allein zu regieren.",
+    21,
+    25,
+    3.93,
+    5
+   ],
+   [
+    "schulze",
+    "Sven Schulze, im Januar 2026, bekam Schulze 58 Stimmen.",
+    310,
+    315,
+    3.87,
+    5
+   ],
+   [
+    "siegmund",
+    "wurde der Spitzenkandidat für Sachsen-Anhalt, Ulrich Siegmund,",
+    60,
+    63,
+    3.13,
+    9
+   ],
+   [
+    "wahlgang",
+    "braucht Ulrich Siegmund im ersten oder im zweiten Wahlgang",
+    264,
+    267,
+    3.48,
+    8
+   ],
+   [
+    "landtags",
+    "die Stimmen der Mehrheit der Mitglieder des Landtags.",
+    267,
+    270,
+    3.59,
+    2
+   ],
+   [
+    "spitzenkandidat",
+    "wurde der Spitzenkandidat für Sachsen-Anhalt, Ulrich Siegmund,",
+    60,
+    63,
+    3.5,
+    2
+   ],
+   [
+    "bsw",
+    "Denn Sahra Wagenknecht, Gründerin des BSW, hat angekündigt:",
+    361,
+    365,
+    2.61,
+    9
+   ],
+   [
+    "minderheitsregierung",
+    "mit einer Minderheitsregierung. Ohne absolute Mehrheit für Gesetze, für den Haushalt",
+    381,
+    386,
+    2.89,
+    8
+   ],
+   [
+    "geschäftsführend",
+    "würde dann erst einmal geschäftsführend weitermachen.",
+    725,
+    728,
+    2.07,
+    3
    ]
   ],
-  "tx": "Am 6. September 2026 wird in Sachsen-Anhalt ein neuer Landtag gewählt. Rund 1,7 Millionen Menschen sind dabei wahlberechtigt. Entscheiden können sie sich zwischen insgesamt 16 verschiedenen Parteien. Aber diskutiert wird seit Monaten schon vor allem über eine Partei, nämlich die AfD. Zum ersten Mal überhaupt könnte die Alternative für Deutschland es schaffen, nicht nur in die Regierung eines Bundeslandes zu kommen, sondern das Land komplett allein zu regieren. Wovon hängt es ab, ob der AfD das gelingt? Und welche anderen Szenarien gibt es in Sachsen-Anhalt? Darum geht es hier in diesem Video. Und übrigens, wenn euch das Video hier gleich gefällt, dann abonniert diesen Kanal gerne. Danke schon mal und los geht's. (Lockere Klänge) In aktuellen Umfragen ist das Bild ziemlich eindeutig. Die AfD liegt mit großem Abstand vorne. Die anderen Parteien stehen abgeschlagen dahinter. Ihr Wahlprogramm hat die AfD ganz selbstbewusst \"Regierungsprogramm\" genannt und einen 100-Tage-Plan vorgelegt für die erste Zeit in der Landesregierung. Beim Bundesparteitag der AfD im Juli 2026 wurde der Spitzenkandidat für Sachsen-Anhalt, Ulrich Siegmund, selbstbewusst als nächster Ministerpräsident bezeichnet. Viele Parteimitglieder haben sich zuversichtlich geäußert, dass die AfD tatsächlich die absolute Mehrheit in Sachsen-Anhalt bekommen würde. Würde das passieren, dann wäre das in mehrfacher Hinsicht ein historisches Ereignis. Zum ersten Mal gebe es dann einen Ministerpräsidenten in Sachsen-Anhalt, der nicht von der CDU oder von der SPD kommt. Zum ersten Mal seit der Wiedervereinigung würde Sachsen-Anhalt von einer einzigen Partei regiert. Und zum ersten Mal überhaupt wäre in der Bundesrepublik Deutschland ein vom zuständigen Landesamt für Verfassungsschutz als gesichert rechtsextremistisch ein",
+  "tx": "Am 6. September 2026 wird in Sachsen-Anhalt ein neuer Landtag gewählt. Rund 1,7 Millionen Menschen sind dabei wahlberechtigt. Entscheiden können sie sich zwischen insgesamt 16 verschiedenen Parteien. Aber diskutiert wird seit Monaten schon vor allem über eine Partei, nämlich die AfD. Zum ersten Mal überhaupt könnte die Alternative für Deutschland es schaffen, nicht nur in die Regierung eines Bundeslandes zu kommen, sondern das Land komplett allein zu regieren. Wovon hängt es ab, ob der AfD das gelingt? Und welche anderen Szenarien gibt es in Sachsen-Anhalt? Darum geht es hier in diesem Video. … rechtsextremistisch eingestufter Parteilandesverband an der Regierung. Die AfD selbst lehnt diese Einstufung ab. Eine Regierung der AfD in Sachsen-Anhalt wäre eine historische Zäsur mit großer Wirkung. Auch über das Bundesland hinaus. Aber die Frage ist: Könnte es denn überhaupt dazu kommen? Und wenn ja, wie? Die erste Frage lässt sich ganz kurz und einfach beantworten: Ja, es könnte dazu kommen. Eine AfD-Regierung in Sachsen-Anhalt ist nicht nur ein theoretisches Szenario, sondern es ist realistisch, so realistisch wie bisher in keinem anderen Bundesland. Und das hängt eben mit den … das nicht, dann bleibt sie draußen. Für die AfD heißt das: Je mehr andere Parteien es in den Landtag schaffen, desto schwieriger wird es mit der absoluten Mehrheit. Wir sprechen darüber gleich noch genauer in einem anderen Szenario. Für die Partei ist deshalb entscheidend, so viele Prozentpunkte wie möglich zu bekommen und die kleineren Parteien rauszuhalten. 45 Prozent plus x gilt als das große Ziel. Bei 45 Prozent würde eine absolute Sitzmehrheit deutlich wahrscheinlicher. Ob es aber tatsächlich reicht, das hängt weiterhin davon ab, wie viele Stimmen die Parteien unterhalb der … Wahl des aktuellen Ministerpräsidenten von Sachsen-Anhalt zum Beispiel, Sven Schulze, im Januar 2026, bekam Schulze 58 Stimmen. Das sind zwei mehr, als die Parteien der aktuellen Regierung zusammen Abgeordnete hatten. Es ist natürlich schwierig, das miteinander zu vergleichen. Aber was ich damit sagen will, ist: Abweichler gab es in der Vergangenheit bei diversen Wahlen immer wieder. Und die Möglichkeit zwei wäre: Die AfD hat zwar nicht die absolute Mehrheit und Ulrich Siegmund schafft es weder im ersten noch im zweiten Wahlgang. Aber nachdem sich der Landtag nicht für eine Neuwahl … die eine Chance haben, künftig im Landtag von Sachsen-Anhalt vertreten zu sein, lehnen eine solche Koalition mit der AfD ab. Und auch die AfD selbst möchte das nicht. Kommen wir deshalb zu einem anderen Szenario. Und das wäre das komplette Gegenteil, nämlich: Noch mal ganz wichtig: Das alles auf Basis aktueller Umfragewerte. Wie vorhin schon gesagt, je mehr Parteien es in den Landtag schaffen, desto schwieriger wird es für die AfD. Ganz konkret geht es dabei um die SPD, um die Grünen und um das BSW. Schaffen es zwei dieser drei Parteien über die Fünf-Prozent-Hürde dann wäre eine absolute … mutmaßlich in Schwierigkeiten. Denn zur Auswahl stünden ja nur die AfD und Die Linke, also zwei Parteien, mit denen die CDU nicht zusammenarbeiten möchte. Denkbar wäre in diesem Fall, dass Die Linke mit ihrem Abstimmungsverhalten die Minderheitsregierung zumindest toleriert, ähnlich wie bei der Wahl des Ministerpräsidenten. Und genau das gab es interessanterweise auch schon mal und tatsächlich in Sachsen-Anhalt. Zwischen 1994 und 2002 hat die SPD Minderheitsregierungen angeführt, die von der PDS, Vorgängerpartei der Linken, toleriert worden sind. Als Magdeburger Modell ist das in die … Sachsen-Anhalt gar nicht unbedingt Mitglied des Landtags sein müsste. Theoretisch könnte auch Jürgen Klopp Ministerpräsident werden, wenn er denn vorgeschlagen würde und ausreichend Stimmen bekäme. Das ist in 15 Bundesländern in Deutschland so, nur nicht in Nordrhein-Westfalen. Da muss man Abgeordneter sein, um Regierungschef werden zu können. Das heißt für dieses Szenario, alle Parteien, die zusammen eine Mehrheit hinbekommen, stimmen sich ab und legen fest, welche überparteilichen Menschen Regierungschef und Minister werden sollen. Die bringt man dann ins Amt und unterstützt sie im … dauern, bis der neue Landtag zusammenkommt. So steht es in der Verfassung von Sachsen-Anhalt. Allerdings, wann genau der neue Minister- präsident gewählt werden muss, das ist nicht festgelegt. Und ohne neuen Ministerpräsidenten gibt es auch keine neue Regierung. Jetzt nehmen wir mal an, die AfD bekommt nicht die absolute Mehrheit. Und die anderen Parteien im Landtag hätten es nicht eilig, einen neuen Ministerpräsidenten zu wählen. Die alte Regierung von Sven Schulze von der CDU würde dann erst einmal geschäftsführend weitermachen. Schwierig wäre dabei, dass an dieser Regierung auch die … zunächst noch geschäftsführend im Amt geblieben sind, zum Beispiel Bodo Ramelow von der Partei Die Linke in Thüringen. Allerdings hat das nie wirklich lange gedauert. Und politisch wäre eine sehr lange geschäftsführende Amtszeit ungewöhnlich und dürfte eine große Diskussion darüber auslösen, wie lange die Parteien die Regierungsbildung hinauszögern könnten. Das wäre sicherlich auch keine gute Sache für die Demokratie und deren Ansehen. Ich wollte das hier nur erwähnt haben, weil es diese Möglichkeit eben auch noch gibt, zumindest in der Theorie. Und es wird tatsächlich auch … darüber, welche Regierung am Ende entsteht. Dafür kommt es darauf an, welche Parteien wie die Fünf-Prozent-Hürde überwinden, wie viele Mandate daraus entstehen und welche Mehrheiten sich an- schließend im Landtag bilden lassen. Danach weiß man dann mehr. Und was passiert denn, wenn die AfD am Ende tatsächlich regiert? Dazu findet ihr hier oben ein Video, klickt da gerne mal drauf und direkt darunter ein Video zur Diskussion um einen möglichen Rücktritt von Bundeskanzler Friedrich Merz. Schaut auch da gerne mal rein. Danke fürs Zuschauen, bis zum nächsten Mal. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8333
+  "src": "cc"
  },
  "wJALneM0PX0": {
   "channel": "Deutsch verstehen",
@@ -17734,7 +17759,7 @@
  "8sIfpXZ86kQ": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-08T15:27:36+00:00",
+  "checked": "2026-11-13T16:33:18+00:00",
   "title": "Peter Rabbit: Describing Pictures --Slow & Simple German--│Total Beginner German",
   "duration": 877,
   "published": "20220319",
@@ -17907,14 +17932,15 @@
     2
    ]
   ],
-  "tx": "hallo heute gucken wir uns bilder bilder von peter rabbit viel spaß also das ist peter rabbit peter auf deutsch peter haase peter haase peter haase ist ein hase und hier trägt peter haase eine jacke er trägt eine jacke eine eine blaue eine blaue jacke hier sind drei hasen drei hasen und die hasen telefonieren die hagen telefonieren peter haase ist ein weißer hase peter haase ist ein weißer hase er ist weiß und hier trägt er auch seine kleine blaue jacke und er trägt rote rote schlittschuhe er trägt schuhe an den füßen erträgt schlittschuhe an den füßen hier ist mama haase die mama von peter und peter hat drei geschwister ja eine mutter und vier kleine vier kleine hasen kinder vier kinder 123 und peter vier hier ist peter und peter hat eins zwei drei geschwister und die mutter die mutter mama so spricht sie spricht mit ihren kindern nächste seite hier in dem kleinen in dem kleinen bild sagt sagt mama haase tschüss sie sagt küs zu ihren kindern die kinder hier gehen sie gehen weg sie gehen weg mama haase sie verabschiedet sie verabschiedet ihre kinder hier in dem großen in dem großen bild in dem großen bild ist mama haase mama hase trägt einen roten einen roten umhang einen roten umhang mit einer roten kapuze mit einer kapuze sie trägt einen roten umhang mit einer roten kapuze und sie trägt ein weißes kleid und sie trägt schwarze schuhe sie trägt zwei schwarze schuhe und in den händen sie hat etwas in den händen in der einen hand trägt sie einen korb sie trägt einen korb in der anderen hand oder gut unter unter dem arm ja das ist der arm unter dem arm hier trägt sie einen regenschirm einen regenschirm für für den regen abba mamma haase sieht nicht glücklich aus oder mama haase sieht wütend aus ihr gesicht gesicht und ihre augen ihre augen sehen wütend aus ein bisschen ein",
+  "tx": "hallo heute gucken wir uns bilder bilder von peter rabbit viel spaß also das ist peter rabbit peter auf deutsch peter haase peter haase peter haase ist ein hase und hier trägt peter haase eine jacke er trägt eine jacke eine eine blaue eine blaue jacke hier sind drei hasen drei hasen und die hasen telefonieren die hagen telefonieren peter haase ist ein weißer hase peter haase ist ein weißer hase er ist weiß und hier trägt er auch seine kleine blaue jacke und er trägt rote rote schlittschuhe er trägt schuhe an den füßen erträgt schlittschuhe an den füßen hier ist mama haase die mama von peter und peter hat drei geschwister ja eine mutter und vier kleine vier kleine hasen kinder vier kinder 123 und peter vier hier ist peter und peter hat eins zwei drei geschwister und die mutter die mutter mama so spricht sie spricht mit ihren kindern nächste seite hier in dem kleinen in dem kleinen bild sagt sagt mama haase tschüss sie sagt küs zu ihren kindern die kinder hier gehen sie gehen weg sie gehen weg mama haase sie verabschiedet sie verabschiedet ihre kinder hier in dem großen in dem großen bild in dem großen bild ist mama haase mama hase trägt einen roten einen roten umhang einen roten umhang mit einer roten kapuze mit einer kapuze sie trägt einen roten umhang mit einer roten kapuze und sie trägt ein weißes kleid und sie trägt schwarze schuhe sie trägt zwei schwarze schuhe und in den händen sie hat etwas in den händen in der einen hand trägt sie einen korb sie trägt einen korb in der anderen hand oder gut unter unter dem arm ja das ist der arm unter dem arm hier trägt sie einen regenschirm einen regenschirm für für den regen abba mamma haase sieht nicht glücklich aus oder mama haase sieht wütend aus ihr gesicht gesicht und ihre augen ihre augen sehen wütend aus ein bisschen ein bisschen nächste seite hier sind zwei geschwister von peter haase und die zwei hasen pflücken sie pflücken bären bären sie pflücken sie zwischen behren und hier hier ist peter haase und peter haase geht unter unter einem zaun durch er geht unter einem zaun durch nächste seite hier sitzt peter haase unter einem baum hier ist der baum und hier setzt peter haase unter dem baum und er ist jung er ist eine karotte er ist eine karotte und hier hier sieht peter haase auch nicht glücklich aus oder ich glaube peter haase geht es nicht gut nein ihm geht es nicht gut nächste seite hier hier sitzt oder steht peter haase auch wieder unter einem baum ein großer baum und peter hat ein buch er hat ein buch in der hand er hat ein buch in der hand und hier hier oben rechts hier hier rennt peter peter rennt ganz ganz schnell ad peter kann sehr sehr sehr schnelle rennen ja hasen können schnell rennen nächste seite oh nein was ist hier passiert peter steckt fest er steckt fest peter kann nicht weiter gehen er steckt fest er steckt in dem zaun fest er steckt in dem zaun fest und und peter peter bond da hier hier ist eine eine träne unter peters auge ist eine träne hier peter meyndt hier wein später noch ein bisschen mehr und da kommen zwei vögel da kommen zwei vögel wollen die vögel peter helfen wollen sie ihm helfen ja bestimmt die vögel die vögel wollen peter helfen und peter zieht seine jacke aus peter zieht seine blaue jacke aus erzählt sie aus und da und da kommt ein mensch ja ein ein mensch ein mensch wie ich und du da kommt ein mensch und will peter fangen er will ihn einfangen er will ihn einfangen nächste seite da hat peter sein jacke ausgezogen die jacke liegt jacke liegt auf dem boden die jacke liegt auf dem boden und peter renz schnell weg er erlässt die jacke da die jacke bleibt da wo peter rennt weg und hier hier badet peter peter badisch er badet in einer gießkanne das ist eine gießkanne das ist eine grüne eine grüne dies kann peter badelt in einer grünen gießkannen der gießkanne ist wasser ja und hier und hier und hier und hier und hier sind die wassertropfen die wassertropfen spritzen aus der gießkanne raus nächste seite hier steht auch wieder ein baum das ist ein ein apfelbaum oder ist das ein ein apfelbaum und peter versteckt sich peter versteckt sich hinter hinter dem apfelbaum und hier was macht peter hier peter springt und peter ist sehr erschrocken oder er sieht er sieht sehr erschrocken aus hat er sich erschreckt oder hat peter angst hier sitzt peter wieder unter einem baum und er er ruht sich aus ja er ruht sich aus denn peter ist sehr sehr erschöpft peter ist erschöpft aber da trägt peter wieder seine jacke aber hier nicht nächste seite peter weint schon wieder er weint schon wieder und er spricht nobler er spricht mit einer maus oder mit einer ratte nächste seite hier ist eine katze eine katze und hier ist eins los ich glaube einfluss ja ein einfluss einfluss und in dem fluss in dem wasser sind zwei fische und die katze beobachtet beobachtet die fische im wasser hier ist peter in einem feld er ist in einem feld und in dem feld ist auch ein mensch und peter beobachtet den menschen der mensch sieht peter er sieht peter er sieht ihn und dann rennt peter wieder schnell weg dann rennt peter wieder schnell weg nächste seite peter sitzt wieder unter einem baum und er sieht traurig aus bruder er sieht ein bisschen traurig aus oder auch erschöpft hier sitzt peter unter einer großen blume das ist eine sehr sehr große blume okay ich glaube peter ist jetzt wieder zu hause zu hause bei seiner mama und bei seinen geschwistern ja hier sind die drei geschwister und die drei hasen die drei geschwister essen wie essen zu abend sie essen zu abend dass das essen ist in einer großen in einer großen schüssel in einer großen roten schüssel und die hasen nehmen das essen aus der schüssel nächste seite okay das war die letzte seite und das waren die mädels die bilder in dem buch in dem buch von peter haase vergesst nicht auf den daumen nach oben zu drücken und wir wir du und ich wir sehen wir sehen uns beim nächsten video beim nächsten mal also tschüss",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
  "VeUqRUTonXo": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-08T15:31:34+00:00",
+  "checked": "2026-11-13T16:35:05+00:00",
   "title": "Vlog auf Deutsch: normales Leben, Essen, Reisen, Arbeit / A2 German Learning Video",
   "duration": 1417,
   "published": "20260704",
@@ -18087,14 +18113,15 @@
     4
    ]
   ],
-  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Willkommen zu einem neuen Wochen Vlog. Ich zeige euch jeden Tag dieser Woche einen kleinen Teil des Tages und ich erzähle euch, was mir passiert ist. Ich freue mich darauf, diese Tage mit euch zu teilen. Bis morgen. Heute ist Montag und heute war ein reiner Arbeitstag. Ich habe genau dort auf der Couch gesessen und gearbeitet. Damit habe ich heute Vormittag um 11, 12 Uhr angefangen und jetzt ist es 10 Uhr abends und das reicht für heute. Ich muss ein bisschen mit der Arbeit aufholen, weil Palina und ich jetzt die letzten zwei Wochen nicht hier in Nazaré waren. Palina und ich waren mit einer Freundin in Porto und dann waren wir zurück in Deutschland, in Berlin. Aber da erzähle ich euch in einem anderen Video noch mehr drüber. Wir haben momentan auch Palinas Eltern zu Besuch. Das heißt, ich konnte heute ganz viel selbst gekochtes Essen von Palinas Eltern essen und ich konnte mich ganz auf die Arbeit konzentrieren. Das ist natürlich auch sehr hilfreich. Aber heute ist auch der letzte Tag von ihrem Besuch. Morgen früh um 6 Uhr, bevor Palina und ich aufstehen, fahren sie zurück nach Deutschland. Und jetzt, wo ich mit der Arbeit für heute fertig bin, werde ich mich wahrscheinlich für den Rest des Abends mit Palina ins Bett kuscheln und wir gucken weiter die Serie, die wir vor ein paar Tagen angefangen haben, The Pit. Die gefällt uns beiden sehr gut und wir sind inzwischen bei der zweiten Staffel. Und jetzt ist es Dienstagabend. Wir haben heute einen Tagesvlog gedreht. Das heißt, ihr habt dieses Video wahrscheinlich schon längst gesehen. Wenn ihr es gesehen habt, dann wisst ihr, dass wir heute für ein paar Stunden in Leer waren. Ich hatte einen Ter",
+  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Willkommen zu einem neuen Wochen Vlog. Ich zeige euch jeden Tag dieser Woche einen kleinen Teil des Tages und ich erzähle euch, was mir passiert ist. Ich freue mich darauf, diese Tage mit euch zu teilen. Bis morgen. Heute ist Montag und heute war ein reiner Arbeitstag. Ich habe genau dort auf der Couch gesessen und gearbeitet. Damit habe ich heute Vormittag um 11, 12 Uhr angefangen und jetzt ist es 10 Uhr abends und das reicht für heute. Ich muss ein bisschen mit … einen Tagesvlog gedreht. Das heißt, ihr habt dieses Video wahrscheinlich schon längst gesehen. Wenn ihr es gesehen habt, dann wisst ihr, dass wir heute für ein paar Stunden in Leer waren. Ich hatte einen Termin, um mein Gesicht lasern zu lassen. Und wir sind hinterher noch in ein Kunstgeschäft gegangen. Das ist jetzt hier nicht so interessant, das habt ihr schon gesehen. Ich bin gerade mit Kisa draußen gewesen in der Nacht im Dunkeln. Wir sind ein bisschen umher gelaufen, haben die Gegend beschnüffelt, ein paar Katzen getroffen und einen anderen Hund angeschrien. Oder zumindest hat Kisa das … Ich konnte leider nicht mitkommen. Ich musste mich nämlich um einige Dinge kümmern. Und ein großes dieser Dinge ist immer noch meine Krankenversicherung. Um genau zu sein, meine Krankenversicherung für meine Hormonbehandlung. Das heißt, ich habe gestern den ganzen Vormittag damit verbracht, meine Endokrinologin anzurufen, meine Apotheke anzurufen und den ganzen Kram zu klären. Paulina und ich haben vor, demnächst ein Video über dieses Thema zu machen, über meine Hormonbehandlung und meine Erfahrungen damit, wie das in Deutschland funktioniert. Es funktioniert halbwegs. Es gibt Dinge, … Die sind auch, glaube ich, ganz gut geworden und ich freue mich schon darauf, dass ihr sie sehen könnt. Ich weiß jetzt nicht genau, in welcher Reihenfolge die Videos veröffentlicht werden. Vielleicht habt ihr diese Videos schon gesehen, wenn dieses Video herauskommt. Vielleicht ist es etwas, worauf ihr euch in der Zukunft freuen könnt. Auf jeden Fall unterhalte ich mich mit Palina in einem Video über Aberglaube in Deutschland und in Russland. Und das andere Video, das wir gestern noch gefilmt haben, war unser Patreon-exklusives Video. Das könnt ihr also nur auf Patreon diesen Monat sehen. … Videos gedreht haben, habe ich versucht, noch ein bisschen Arbeit zu schaffen. Ich übersetze ja beruflich und habe dann noch zwei, drei Kapitel in dem Buch geschafft, dass ich gerade übersetze. Das ist zwar deutlich weniger, als ich eigentlich gerne pro Tag schaffen würde, aber nach dem ganzen Tag hatte ich einfach keine Energie mehr. Valina hat dann ganz lecker gekocht und dann war ich auch ganz dankbar, dass mir das einen guten Grund gegeben hat, den Tag ein bisschen entspannter zu beenden. Donnerstag war ein weiterer, leider sehr stressiger Tag. Ich musste wieder die erste Hälfte des … dieser Steuersache zum Glück an einem Punkt angekommen, wo wir einigermaßen fertig sind. Es ist zwar noch nicht komplett gelöst, aber zumindest sind alle Dinge, die ich tun kann, fertig. Jetzt müssen wir nur noch warten, bis sie Dinge tun, das Finanzamt und unsere Krankenkasse. Das hat zwar wieder enorm Energie gekostet, aber immerhin ist es jetzt relativ geklärt. Danach habe ich noch ein bisschen gearbeitet, auch wieder nicht ganz so effektiv, wie ich es gerne hätte. Das ist einfach immer ein bisschen schwierig nach so einem Start in den Tag, aber der Abend war dann angenehm. Am Abend haben … Das heißt, ich werde wahrscheinlich den ganzen Tag über arbeiten. Das wird für euch, für diesen Vlog, wahrscheinlich ganz besonders spannend. Freitag war ein ereignisloser Tag. Paulina hat am Vormittag einige Zeit am Strand verbracht. Tschüss. Und ist später am Tag, am frühen Abend zu einem Workout gegangen. Ich habe den ganzen Tag dort in unserem Zimmer auf der Couch verbracht, in unserem Wohnzimmer und habe versucht zu arbeiten. In letzter Zeit tue ich mich mit der Arbeit ein bisschen schwer. Aber jetzt am Freitag hatte ich keine gute Ausrede. Vorher konnte ich immer sagen, ja, … gegangen. Da war ich schon im Reich der Träume. Sie meinte, dass sie ungefähr gegen 2 Uhr nachts schlafen gegangen ist. Ich bin ein bisschen neidisch. Ich möchte eigentlich auch gerne wieder später schlafen gehen. Aber ich muss halt leider die Arbeit erledigen und dafür muss ich ein bisschen verantwortungsbewusster sein. Das heißt natürlich nicht, dass Palina nicht arbeitet. Palina leistet auch ganz ganz viel, aber sie ist einfach bereits ein bisschen verantwortungsbewusster als ich. Sie kriegt das einfach besser auf die Reihe. Samstag war ein weiterer ruhiger Tag. Ich habe, wie in den … Tatar und damit war der Tag dann auch schon mehr oder weniger vorbei. Guten Morgen, wir sind am letzten Tag angekommen. Der Sonntag war eigentlich ein ganz angenehmer Tag. Er war auch anstrengend, aber ich denke, es hat sich gelohnt. Ich bin relativ früh aufgestanden, ungefähr eine Stunde früher als sonst und wollte für Palina Frühstück machen, habe aber gemerkt, dass wir eigentlich nicht wirklich etwas Schönes zu Hause haben. Deshalb bin ich dann zum Supermarkt gegangen und habe ein paar nette Dinge fürs Frühstück besorgt. Palina isst sehr, sehr gerne Datteln mit Bacon. Ich habe das also … gefunden zu haben. Wir fangen dann nächsten Monat tatsächlich an und ich bin die DM. Ich bin total aufgeregt. Ich freue mich unheimlich, endlich wieder spielen zu können. Und das war der Sonntag. Das ging bis relativ spät abends. Ich glaube, Palina und ich sind dann um 2 Uhr nachts schlafen gegangen, ungefähr. Und jetzt sind wir hier am Montagmorgen. Und wir fangen mit der nächsten Woche an. Wir sehen uns im nächsten Video. Ich hoffe, dass euch dieses Video gefallen hat. Und ich hoffe, dass ihr mir unten erzählt, wie eure Woche so aussah. Bis zum nächsten Video. Und bis dahin, Jam out.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "7A2DbN67eqg": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-08T15:32:52+00:00",
+  "checked": "2026-11-13T16:35:15+00:00",
   "title": "Mia geht zu den Blinden Games!",
   "duration": 1013,
   "published": "20260904",
@@ -18259,7 +18286,8 @@
     2
    ]
   ],
-  "tx": "Was ist das? Bist du blind? Ja, das bin ich! Wilst du nicht mehr blind sein? Nein, ich hasse das! Dann komm zu den Blinden Games! Kann ich dann wirklich wieder sehen? Langweilig! Weg damit! Schalt zurück oder du bist tot! Ja, chill mal! Er erzählt weiter über die Blinden Games! Bei den Blinden Games kannst du etwas Krasses gewinnen! Was denn? Gewinne die Blinden Games und du bekommst neue Augen! Was? Das ist echt krass! Wo sind die Blinden Games? Und? Willst du wieder sehen? Dann komm heute nach Trinken in die Blindstraße 7! Und mach bei den Blinden Games mit! Da müssen wir hingehen! Das klingt echt interessant! Das hört sich aber gefährlich an! Nein, das sind nur Blindenspiele! Aber ich muss dich warnen! Die Blinden Games werden richtig heftig! Sowas hat die Welt noch nicht erlebt! Das ist viel zu gefährlich! Nein, ich muss zu den Blinden Games! Was denkst du, Paul? Mia könnte die Augen wirklich gewinnen! Ja, dann kann ich wieder sehen! Du musst dann aber operiert werden! Das schaffe ich auch, Mama! Du willst wirklich bei den Blinden Games mitmachen, Mia? Ja, das ist meine einzige Möglichkeit, wieder zu sehen! Wir sollten es Mia erlauben, Pia! Bitte, Mama! Okay, ich erlaube es! Danke, Mama! Aber dein Vater kommt mit dir! Ja, ich passe auf Mia auf, Schatz! Bitte pass auf deinen Vater auf, Mia! Das mache ich, Mama! Ich ziehe mich an und dann fahren wir, Papa! Ja, mein Schatz! Ich habe keine Lust mehr, neue Fernseher zu kaufen! Dann muss ich diese Augen gewinnen! Dann bin ich nicht mehr blind! Dann lass uns mal fahren! Ja, ich bin so gespannt! Ich bin ein Dönermann! Warum hast du das jetzt gesagt? Guck doch! Ich habe ein Döner T-Shirt an! Das habe ich im Internet bestellt! Ich würde das gerne sehen! Leider bin ich blind! Ja, schade für dich! Da ist sogar eine Zwiebel auf ",
+  "tx": "Was ist das? Bist du blind? Ja, das bin ich! Wilst du nicht mehr blind sein? Nein, ich hasse das! Dann komm zu den Blinden Games! Kann ich dann wirklich wieder sehen? Langweilig! Weg damit! Schalt zurück oder du bist tot! Ja, chill mal! Er erzählt weiter über die Blinden Games! Bei den Blinden Games kannst du etwas Krasses gewinnen! Was denn? Gewinne die Blinden Games und du bekommst neue Augen! Was? Das ist echt krass! Wo sind die Blinden Games? Und? Willst du wieder sehen? Dann komm heute nach Trinken in die Blindstraße 7! Und mach bei den Blinden Games mit! Da müssen wir hingehen! Das … diese Augen gewinnen! Dann bin ich nicht mehr blind! Dann lass uns mal fahren! Ja, ich bin so gespannt! Ich bin ein Dönermann! Warum hast du das jetzt gesagt? Guck doch! Ich habe ein Döner T-Shirt an! Das habe ich im Internet bestellt! Ich würde das gerne sehen! Leider bin ich blind! Ja, schade für dich! Da ist sogar eine Zwiebel auf dem Döner! Was? Äh.. Ich mache dich fertig! Ahh! Gut, dass du blind bist! Bald nicht mehr! Ich werde diese Augen gewinnen! Dann lass uns jetzt fahren, Schatz! Zieh dich aber erst um! Findest du es schlimm, eine blinde Tochter zu haben? Natürlich nicht, Schatz! … hat mich betrogen! Echt? Mit wem? Mit Naruto! Das ist das Verrückteste, was ich je gehört habe! Mia? Bist du das? Ja! Hallo, Herr Franz! Was macht ihr in Trinken? Wir wollen ganz viel trinken! Wir fahren gerade zu den Blinden Games! Oh! Da gehe ich auch gerade hin! Weißt du, wo die Blindenstraße 7 ist, mein Sohn? Ja, Papa! Wir können gemeinsam dahin fahren! Dann steig mal ein, Frederik! Mein Name ist Thomas! Ich bin dein Vater und du heißt Frederik! Okay, Papa! Was machen wir morgen in der Schule, Herr Franz? Keine Ahnung! Ich kündige heute nach den Blinden Games! Was? Wieso? Ich gewinne die … Verdammt, wir können alle nicht sehen! Ich kann sehen, aber ich sage es euch nicht! Haha! Das sage ich Mama! Äh, da kommt Rauch aus einer Dose! Rauch? Niemand darf jetzt pupsen! Mimimi! Das sind also die Teilnehmer! Die Armen wissen noch nicht, wie heftig es gleich wird! Zeit, aufzuwachen! Oh, war ich das? Ich pinkele manchmal im Schlaf! Willkommen bei den Blinden Games! Hallo! Dreht euch um! Seid ihr dumm? Nein, wir sind blind! Also ich bin nur ein bisschen dumm! Ein Wurm hat mein Gehirn gefressen! Was redest du da, Alter? Keine Ahnung! Frag den Wurm! Dreht euch jetzt alle zu uns! So, … heißt bestimmt Gisela bei 10 Millionen Zuschauern! Der Typ macht mich fertig, Alter! Wie gehen jetzt diese Blinden Games? Es wird 3 heftige Spiele geben! Wer am Ende übrig bleibt, gewinnt die Augen! Das schaffe ich easy! Aber Achtung! Ist hier eine Biene? Ich bin allergisch gegen Bienen! Was tust du da, Alter? Du hast \"Acthung\" gesagt! Es gibt hier keine Biene! Wir erklären die Blinden Games! Achso, gut! Warum haben Sie \"Achtung\" gesagt? Bei den Blinden Games könnt ihr sterben! Warum übertreibt ihr so? Die Zuschauer bezahlen viel Geld, um euch zu sehen! Ich mache nicht mehr mit! … sehen? Äh, meine Augen sind nicht kaputt! Es dürfen nur blinde Menschen bei den Blinden Games teilnehmen! Aber ich will meiner Tochter helfen! Nein, das wäre unfair! Bitte, Michael! Wir sind doch Bros! Okay, dann musst du aber deine Augen schließen! Kann ich nicht so eine coole Brille wie ihr haben? Ja, gerne! Sieht dein Vater cool aus, Mia? Ich kann doch nicht sehen! Du hast immer dieselbe Ausrede! Also ich würde Sie daten! Danke, aber dann bringt mich meine Frau um! Wir fangen jetzt mit dem 1. Spiel an! Folgt uns! Blind sein ist einfach! Wir müssen diese Augen für dich gewinnen, Mia! Ja, … . Tu es, Mia! Mia! Wo muss ich landen? Folg meiner Stimme! Poopsie poops! Pupsipups! Wir haben es geschafft! Wir gewinnen die Augen! Die anderen müssen es auch noch schaffen! Ihr habt noch 1 Minute Zeit! Die Blinden Games sind zu brutal! Ich will das nicht mehr! Da waren es nur noch 5! Ihr habt noch 40 Sekunden! Beeilt euch! Ihr habt noch 30 Sekunden! Könnt ihr einfach aufgeben, damit ich die Augen bekomme? Aber wenn wir verlieren sterben wir auch! Ich komme zu eurer Beerdigung! 15 Sekunden noch! Ich muss diese Augen gewinnen! Ben hat es geschafft! Noch 5 Sekunden! Marie hat es geschafft! … Ich gehe auf ein Date mit dir! Du willst mich daten? Ja, du bist ein attraktiver Mann! Du hast sehr schöne Haare! Haha! Du hast gelacht! Ich habe gewonnen! Warum lachst du, Alter? Sie hat gesagt, dass du attraktiv bist! Das war so witzig! Haha! Ich gehe auch zu Spiel 3! 3 2 1 Können wir jetzt zum letzten Spiel gehen? 0 Haha! Dachtet ihr echt, Spiel 2 ist so einfach? Das richtige 2. Spiel beginnt jetzt! Wohin fallen wir? Keine Ahnung! Wenn ich meine Brille ausziehe, sterbe ich! Hallo? Wer ist das? Ich bin Mr. Eyes und mache das 2. Spiel! Wir haben doch schon gewonnen! Glaubt ihr die … sind doch blind! Raff dich mal zusammen, Robin! Gut, dass wir gleich Feierabend haben! Wie geht Spiel 3? Ihr werdet jetzt erzählen, warum ihr die Augen gewinnen wollt! Dafür bekommt ihr eine Punktzahl! Wer die meisten Punkte hat, gewinnt die Blinden Games! Okay, ich fange an! Ich möchte die Augen für meine Tochter haben! Mein Herz tut so weh, wenn ich in Mias blinde Augen gucke! Ich liebe dich, Mia! Wie viele Punkte habe ich? 74, nicht schlecht! Jetzt bin ich dran! Ich möchte wieder Döner sehen! Oh nein.. Ich habe bestimmt viele Punkte! Du hast 11 Punkte! Döner ist doch total wichtig! Ich … die Augen gewonnen, Mia! Warum willst du Ben noch eine Chance geben? Äh, okay! Deine Entscheidung, Mia! Stimmst du zu, Paul? Ja! Komm nach vorne, Ben! Darf ich anfangen? Ja! Meine Mutter hat Krebs und stirbt bald! Ach, du Scheibenkleister! Und ich weiß nicht mehr, wie sie aussieht! Ich will meine Mama noch einmal sehen, bevor sie stirbt! Ben hat 98 Punkte! Was? Herzlichen Glückwunsch, Ben! Was hast du getan, Mia? Das Richtige.. Ich danke dir so sehr, Mia! Bitte schön, Ben! Was denkt ihr über Mias Entscheidung? Schreibt es in die Kommentare! Und klickt gerne auf diese Folge bis Part 6 da ist!",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
@@ -18447,7 +18475,7 @@
  "4yp3vYfDQKY": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-08T15:56:32+00:00",
+  "checked": "2026-11-13T16:39:53+00:00",
   "title": "Explore Munich and Learn German (Easy A1 Story)",
   "duration": 646,
   "published": "20260920",
@@ -18620,7 +18648,8 @@
     2
    ]
   ],
-  "tx": "Welcome to German Stories for Beginners. Here you will learn German with simple stories, slow voice narration, and clear German and English subtitles. Let's start today's German story. Ein Tag in München. Anna ist in München. Anna ist in Munich. Anna ist in München. Sie besucht die Stadt. She visits the city. Sie besucht die Stadt. Zuerst geht sie zum Marienplatz. First, she goes to Marienplatz. Zuerst geht sie zum Marienplatz. Dort sieht sie das neue Rathaus. There she sees the new town hall. Dort sieht sie das neue Rathaus. Das Rathaus ist sehr schön. The town hall is very beautiful. Das Rathaus ist sehr schön. Anna macht ein Foto. Anna takes a photo. Anna macht ein Foto. Dann geht sie zur Frauenkirche. Then she goes to Frauenkirche. Dann geht sie zur Frauenkirche. Die Kirche ist sehr groß. The church is very large. Die Kirche ist sehr groß. Danach besucht Anna ein Museum. After that, Anna visits a museum. Danach besucht Anna ein Museum. Sie sieht viele interessante Dinge. Dann geht Anna in den Englischen Garten. Der Park ist sehr groß. Anna macht einen Spaziergang. Sie sieht viele Bäume. Danach besucht sie Schloss Nymphenburg. Das Schloss ist sehr alt. Anna sieht den schönen Garten. Am Abend geht sie in ein Café. Sie trinkt einen Kaffee. a coffee. Sie trinkt einen Kaffee. Anna ist sehr glücklich. Anna is very happy. Anna ist sehr glücklich. Now you will hear the story only in German. There is no English narration. Use the English subtitles to understand the story. Ein Tag in München. Anna ist in München. Sie besucht die Stadt. Zuerst geht sie zum Marienplatz. Dort sieht sie das neue Rathaus. Das Rathaus ist sehr schön. Anna macht ein Foto. Dann geht sie zur Frauenkirche. Die Kirche ist sehr groß. Danach besucht Anna ein Museum. Sie sieht viele interessante Dinge. Dan",
+  "tx": "Welcome to German Stories for Beginners. Here you will learn German with simple stories, slow voice narration, and clear German and English subtitles. Let's start today's German story. Ein Tag in München. Anna ist in München. Anna ist in Munich. Anna ist in München. Sie besucht die Stadt. She visits the city. Sie besucht die Stadt. Zuerst geht sie zum Marienplatz. First, she goes to Marienplatz. Zuerst geht sie zum Marienplatz. Dort sieht sie das neue Rathaus. There she sees the new town hall. Dort sieht sie das neue Rathaus. Das Rathaus ist sehr schön. The town hall is very beautiful. Das Rathaus ist sehr schön. Anna macht ein Foto. Anna takes a photo. Anna macht ein Foto. Dann geht sie zur Frauenkirche. Then she goes to Frauenkirche. Dann geht sie zur Frauenkirche. Die Kirche ist sehr groß. The church is very large. Die Kirche ist sehr groß. Danach besucht Anna ein Museum. After that, Anna visits a museum. Danach besucht Anna ein Museum. Sie sieht viele interessante Dinge. Dann geht Anna in den Englischen Garten. Der Park ist sehr groß. Anna macht einen Spaziergang. Sie sieht viele Bäume. Danach besucht sie Schloss Nymphenburg. Das Schloss ist sehr alt. Anna sieht den schönen Garten. Am Abend geht sie in ein Café. Sie trinkt einen Kaffee. a coffee. Sie trinkt einen Kaffee. Anna ist sehr glücklich. Anna is very happy. Anna ist sehr glücklich. Now you will hear the story only in German. There is no English narration. Use the English subtitles to understand the story. Ein Tag in München. Anna ist in München. Sie besucht die Stadt. Zuerst geht sie zum Marienplatz. Dort sieht sie das neue Rathaus. Das Rathaus ist sehr schön. Anna macht ein Foto. Dann geht sie zur Frauenkirche. Die Kirche ist sehr groß. Danach besucht Anna ein Museum. Sie sieht viele interessante Dinge. Dann geht Anna in den Englischen Garten. Der Park ist sehr groß. Anna macht einen Spaziergang. Sie sieht viele Bäume. Danach besucht sie Schloss Nymphenburg. Das Schloss ist sehr alt. Anna sieht den schönen Garten. Am Abend geht sie in ein Café. Sie trinkt einen Kaffee. Anna ist sehr glücklich. You will now hear the story only in German. There is no English narration. German subtitles are available to help you read along. Ein Tag in München. Anna ist in München. Sie besucht die Stadt. Zuerst geht sie zum Marienplatz. Dort sieht sie das neue Rathaus. Das Rathaus ist sehr schön. Anna macht ein Foto. Dann geht sie zur Frauenkirche. Die Kirche ist sehr groß. Danach besucht Anna ein Museum. Sie sieht viele interessante Dinge. Dann geht Anna in den Englischen Garten. Der Park ist sehr groß. Anna macht einen Spaziergang. Sie sieht viele Bäume. Danach besucht sie Schloss Nymphenburg. Das Schloss ist sehr alt. Anna sieht den schönen Garten. Am Abend geht sie in ein Café. Sie trinkt einen Kaffee. Anna ist sehr glücklich. Oh.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -19499,7 +19528,7 @@
  "t21I-WYru08": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-09T02:56:59+00:00",
+  "checked": "2026-11-13T22:24:54+00:00",
   "title": "Life and Dealing with German Medical System / German Vlog - Intermediate Comprehensible Input",
   "duration": 975,
   "published": "20260620",
@@ -19656,7 +19685,8 @@
     3
    ]
   ],
-  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Palina und ich machen heute einen kleinen Ausflug nach Leer. Und ihr kommt natürlich wie immer mit. Leer ist eine etwas größere, aber immer noch relativ kleine Stadt in der Nähe von Nazareth, wo Palina und ich momentan leben. Wir haben heute nicht viel geplant, aber wir machen trotzdem einen einfachen kleinen Tagesvlog. Unser erster Halt heute ist ein Termin für mich. Das ist tatsächlich der eigentliche Grund, warum wir heute nach Leer fahren. Und zwar habe ich heute meinen zweiten äh Lasertermin. Das heißt, ich kriege heute mein Gesicht gelasert und habe hinterher hoffentlich ein paar weniger Haare im Gesicht. Ich durfte mein Gesicht seit vier Tagen jetzt schon nicht mehr rasieren und äh es stört mich. Es ist ein bisschen unangenehm, deswegen bin ich ganz froh, wenn der Termin dann vorbei ist und äh ich endlich wieder äh die Haare loswerden darf. Wir sind in Leer angekommen und hat gerade ihren Termin. Und ich habe Durst. Also gehe ich in den Supermarkt oder fahre ich in den Supermarkt und hole uns etwas zum Trinken. Und zwar fahre ich zu Lidl. Immer wenn ich bei Lidl bin, fühle ich mich ein bisschen wie in Deutschland. Also, wenn ich Deutschland vermisse, was nicht so oft passiert, kann ich einfach zu Lidl gehen und dann fühle ich mich wie zu Hause. So, der erste Termin ist fertig. Das ging relativ schnell und war auch relativ günstig. Ich habe jetzt 17 Euro für diesen Lasertermin bezahlt. Ich wurde rasiert, das heißt, meine Haut ist jetzt wieder schön glatt. Ich fühle mich wieder ein bisschen komfortabler. Ähm, und der Lasertermin selber war auch in Ordnung. Es hat ein bisschen weh getan, aber meine Güte, wenn ich dadurch die Haare in mei",
+  "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Palina und ich machen heute einen kleinen Ausflug nach Leer. Und ihr kommt natürlich wie immer mit. Leer ist eine etwas größere, aber immer noch relativ kleine Stadt in der Nähe von Nazareth, wo Palina und ich momentan leben. Wir haben heute nicht viel geplant, aber wir machen trotzdem einen einfachen kleinen Tagesvlog. Unser erster Halt heute ist ein Termin für mich. Das ist tatsächlich der eigentliche Grund, warum wir heute nach Leer fahren. Und zwar habe ich … Also gehe ich in den Supermarkt oder fahre ich in den Supermarkt und hole uns etwas zum Trinken. Und zwar fahre ich zu Lidl. Immer wenn ich bei Lidl bin, fühle ich mich ein bisschen wie in Deutschland. Also, wenn ich Deutschland vermisse, was nicht so oft passiert, kann ich einfach zu Lidl gehen und dann fühle ich mich wie zu Hause. So, der erste Termin ist fertig. Das ging relativ schnell und war auch relativ günstig. Ich habe jetzt 17 Euro für diesen Lasertermin bezahlt. Ich wurde rasiert, das heißt, meine Haut ist jetzt wieder schön glatt. Ich fühle mich wieder ein bisschen … wissen noch nicht, ob dies ein gutes Geschäft dafür ist. Das finden wir jetzt gleich heraus. Palina braucht ein paar neue Gegenstände für ihre Kunst. Wir haben dann letztendlich in dem Geschäft doch nichts gekauft. Ich glaube, das hat uns beiden nicht so gut gefallen. Es war nicht wirklich ein Kunstgeschäft, sondern eher so etwas wie ein Action Store. Ich weiß nicht, ob ihr das kennt, aber das ist einfach ein Geschäft, das ganz viele günstige, billige Gegenstände für ganz viele verschiedene Dinge und Bereiche im Leben hat. Stattdessen sind wir dann nebenan noch einmal in den Supermarkt … bei Farben wie Blau. Blaue Farbe wäscht sich mit der Zeit immer mehr aus und wird immer heller. Jetzt räume ich unser Schlafzimmer auf. Dort ist es nämlich ein bisschen chaotisch und danach muss ich wieder arbeiten. Das mache ich dann wahrscheinlich bis heute Abend. Dann gibt es Abendessen und mal schauen, was wir dann machen. Das weiß ich noch nicht. Palina und ich sind vor ein paar Tagen aus Deutschland zurückgekommen. Wir haben einen kleinen Ausflug gemacht, um Freunde und Verwandte zu treffen und deswegen sind all unsere Sachen jetzt noch eingepackt und überall in Taschen verteilt. … Wir besetzen ihre Wohnung. Äh, ähm, ja, es war schön. Ich habe meine Eltern seit äh seit Dezember nicht gesehen. Schon ein bisschen stressig, äh wenn vier Leute zu zusammen wohnen, aber sonst, ja. Und meine Eltern können sehr gut kochen. Insbesondere dein Vater. Mein Vater kann sehr gute Suppen machen. Mhm. Von dem Essen, dass deine Eltern gemacht haben, während sie hier waren, was hat dir am besten geschmeckt? Mhm. Mein Vater kann sehr gut Bouillabaisse kochen. Ich weiß nicht, ob ich das richtig ausspreche. Ich versuche es gar nicht erst. Äh, das ist eine französische Fischsuppe. … jetzt eigentlich ein Rezept für eine neue Ladung Hormone bekommen. Aber ich habe jetzt meine Endokrinologin kontaktiert und habe herausgefunden, ach, äh, es gibt jetzt etwas Neues, äh, wo ich ein Formular ausfüllen muss und nochmal um eine Kostenerstattung bei meiner Krankenkasse bitten muss. Aber ich kann nicht einfach dieses Formular bekommen und ausfüllen, an die Techniker Krankenkasse schicken und so schnell wie möglich eine Antwort bekommen. Nein, ich muss vorher mit meiner Endokrinologin sprechen. Dass das nötig ist, habe ich jetzt auch erst herausgefunden, nachdem ich meine … Und dann geht das auch hoffentlich relativ schnell. Die Medikamente müssen ja erstmal in der Apotheke fertig gemacht werden, dann von meiner Familie abgeholt werden und dann hier nach Portugal in unsere Wohnung geschickt werden. Und dann hoffe ich einfach mal, dass die Medikamente, die ich bisher noch habe, bis dahin auch reichen. Da werde ich auf jeden Fall morgen auch noch einmal nachfragen. Ich habe hier die E-Mail, die ich von meiner Endokrinologin bekommen habe und die liest sich wie folgt. Sehr geehrter Frau Rattai. Erstmal direkt einen Schreibfehler. Frau Rattai ist zwar … den Namen, zuerst mit Ihnen sprechen, bevor wir das mailen können und unterschreibt es erst nach dem Aufklärungstelefonat. Wir haben Sie für morgen auf unsere Rückrufliste geschrieben und würden uns nach der Sprechstunde aktiv bei Ihnen melden. Das bedeutet also, sie rufen mich morgen an, ich muss nicht sie anrufen. Mit freundlichen Grüßen Name. Das ist relativ in Ordnung, die es ist ein bisschen nervig, ja, dass ich mich jetzt um dieses extra Ding kümmern muss und es ist natürlich auch extra kompliziert, weil ich nicht in Deutschland bin, aber die Person, mit der ich gesprochen habe, war … vielleicht ist das einfach nur eine Formalität. Wer weiß, das werde ich dann morgen herausfinden und ihr werdet es wahrscheinlich in unserem Wochen-Vlog erfahren. Da werde ich dann nämlich bestimmt morgen von erzählen. Und damit sind wir am Ende des Tages angekommen. Und ich möchte gerne unseren Patreon Subscribern danken. Ihr unterstützt uns dabei, dass wir diese Videos machen können. Und wenn ihr auch dabei sein möchtet, dann könnt ihr bei uns auf Patreon jeden Monat ein extra Video, Transkripte und alle Videos ohne Untertitel erwarten. Also noch mal vielen Dank. Wenn euch eine … hat wieder ganz ganz viel Energie, obwohl ich gerade mit ihr draußen war. Du warst gerade draußen. Palina und ich gucken jetzt die neue Folge von Game Changer und essen unser Abendessen. Palina hat Pokeballs gemacht, da freue ich mich schon ganz doll drauf und dann gehen wir schlafen. Und damit ist dieses Video auch zu Ende. Ich hoffe, ihr hattet Spaß uns bei unserem Tag ein bisschen zu verfolgen. Ich hoffe, dass ihr ein paar neue Wörter gelernt habt und ich hoffe noch viel mehr, dass wir uns im nächsten Video wiedersehen. Bis dahin habt noch einen wunderschönen Abend. Gute Nacht und Jam out.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -20118,7 +20148,7 @@
  "wdGGkjtKOnE": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-09T03:02:45+00:00",
+  "checked": "2026-11-13T16:37:51+00:00",
   "title": "Was bedeutet das eigentlich? 🤨 Verwirrende deutsche Redewendungen",
   "duration": 352,
   "published": "20250210",
@@ -20259,14 +20289,15 @@
     3
    ]
   ],
-  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. In diesem Video geht es um einige deutsche Ausdrücke, die oft für Verwirrung sorgen. Es sind alltagsnahe Wendungen, die auf den ersten Blick vielleicht nicht so viel Sinn ergeben, aber in Wirklichkeit eine ganz klare Bedeutung haben. Also, wenn du schon mal mit einem dieser Ausdrücke konfrontiert wurdest und gedacht hast: \"Was soll das bitte bedeuten?\", dann bleib dran – ich kläre alles auf! „Ich glaub, mein Schwein pfeift!“ Dieser Ausdruck wird verwendet, wenn jemand sehr überrascht oder schockiert ist. Du hast es vielleicht in einem Moment gehört, in dem jemand von etwas völlig Unerwartetem erfährt. Es ist eine humorvolle Art zu sagen: „Das kann nicht wahr sein!“ Ein bisschen verrückt, oder? „Da steppt der Bär!“ Hast du mal gehört, dass gesagt wurde: „Da steppt der Bär!“? Keine Sorge, der Bär tanzt nicht wirklich. Diese Redewendung bedeutet, dass eine Party richtig gut läuft oder es richtig Spaß macht. Also, wenn du hörst, „Da steppt der Bär!“, dann ist die Stimmung top! „Die Katze im Sack kaufen“ Ein sehr gebräuchlicher Ausdruck für das Risiko, etwas zu kaufen, ohne es vorher genau zu überprüfen. Es geht darum, etwas zu kaufen, das vielleicht nicht das ist, was du erwartest. Also, wenn dir jemand sagt: „Kauf nicht die Katze im Sack!“, bedeutet das, du solltest vorsichtig sein und sicherstellen, dass du genau weißt, was du bekommst. „Jemandem einen Bären aufbinden“ Das klingt ziemlich lustig, oder? Es bedeutet, jemanden anzulügen oder ihm eine Geschichte zu erzählen, die einfach nicht wahr ist. Wenn du also denkst, dass dir jemand gerade einen Bären aufbindet, dann solltest du aufpassen – du wirst wahrscheinlich ein bisschen hinters Licht geführt! „Tomaten auf den Augen haben“ Hast du diese Red",
+  "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. In diesem Video geht es um einige deutsche Ausdrücke, die oft für Verwirrung sorgen. Es sind alltagsnahe Wendungen, die auf den ersten Blick vielleicht nicht so viel Sinn ergeben, aber in Wirklichkeit eine ganz klare Bedeutung haben. Also, wenn du schon mal mit einem dieser Ausdrücke konfrontiert wurdest und gedacht hast: \"Was soll das bitte bedeuten?\", dann bleib dran – ich kläre alles auf! „Ich glaub, mein Schwein pfeift!“ Dieser Ausdruck wird verwendet, wenn jemand sehr überrascht oder schockiert ist. Du hast es vielleicht in einem Moment gehört, in dem jemand von etwas völlig Unerwartetem erfährt. Es ist eine humorvolle Art zu sagen: „Das kann nicht wahr sein!“ Ein bisschen verrückt, oder? „Da steppt der Bär!“ Hast du mal gehört, dass gesagt wurde: „Da steppt der Bär!“? Keine Sorge, der Bär tanzt nicht wirklich. Diese Redewendung bedeutet, dass eine Party richtig gut läuft oder es richtig Spaß macht. Also, wenn du hörst, „Da steppt der Bär!“, dann ist die Stimmung top! „Die Katze im Sack kaufen“ Ein sehr gebräuchlicher Ausdruck für das Risiko, etwas zu kaufen, ohne es vorher genau zu überprüfen. Es geht darum, etwas zu kaufen, das vielleicht nicht das ist, was du erwartest. Also, wenn dir jemand sagt: „Kauf nicht die Katze im Sack!“, bedeutet das, du solltest vorsichtig sein und sicherstellen, dass du genau weißt, was du bekommst. „Jemandem einen Bären aufbinden“ Das klingt ziemlich lustig, oder? Es bedeutet, jemanden anzulügen oder ihm eine Geschichte zu erzählen, die einfach nicht wahr ist. Wenn du also denkst, dass dir jemand gerade einen Bären aufbindet, dann solltest du aufpassen – du wirst wahrscheinlich ein bisschen hinters Licht geführt! „Tomaten auf den Augen haben“ Hast du diese Redewendung schon mal gehört? Sie bedeutet, dass jemand etwas Offensichtliches nicht bemerkt oder übersieht. Zum Beispiel: Wenn du jemanden siehst, der etwas direkt vor sich hat, aber nicht darauf achtet, kannst du sagen, er hat „Tomaten auf den Augen“. „Ich verstehe nur Bahnhof!“ Eine der bekanntesten Redewendungen! Wenn jemand sagt, er versteht nur „Bahnhof“, dann bedeutet das, dass er überhaupt nichts versteht. Also, wenn du mal bei einer schwierigen Erklärung den Überblick verlierst, kannst du auch ruhig sagen: „Ich verstehe nur Bahnhof!“ – und das hilft, die Verwirrung zu lindern. Und das war’s auch schon mit einigen verwirrenden deutschen Ausdrücken! Wie du siehst, steckt hinter vielen von ihnen eine lustige oder interessante Bedeutung, die du auf den ersten Blick vielleicht nicht verstehst. Aber keine Sorge, das ist völlig normal. Mit der Zeit wirst du auch die subtilen Nuancen der deutschen Sprache immer besser verstehen! Wenn dir das Video gefallen hat, lass es mich wissen – schreib mir in die Kommentare, welchen Ausdruck du am verwirrendsten fandest oder ob du noch andere deutsche Redewendungen kennst, die dir komisch vorkommen. Vergiss nicht, das Video zu liken und zu abonnieren, damit du keine weiteren spannenden deutschen Ausdrücke verpasst! Wenn du tiefer in die deutsche Sprache eintauchen und mehr über die Kultur und Alltagssprache lernen willst, schau dir unsere Deutschlern-Akademie an! Hier findest du Kurse und Materialien für ein authentisches und natürliches Deutsch – ganz egal, ob du gerade erst anfängst oder deine Sprachkenntnisse vertiefen willst! AuthenticGermanLearning.com/join Bis zum nächsten Mal und viel Spaß beim Deutschlernen!",
+  "gist": "w",
   "status": "ok",
   "src": "cc"
  },
  "AIm9cuzdigY": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-09T03:03:56+00:00",
+  "checked": "2026-11-13T16:38:30+00:00",
   "title": "Miffy backt und bastelt | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260705",
@@ -20439,7 +20470,8 @@
     3
    ]
   ],
-  "tx": "Du hast so viele schöne Werkzeuge, Großvater, sagte Miffy. In der Werkstatt von Miffys Großvater gab es Hämmer und Sägen und viele andere Werkzeuge. Kannst du mir zeigen, wie man mit den Werkzeugen etwas bauen kann, fragte Miffy. Die Großmutter war erstaunt. Ich dachte, ich könnte dir heute beibringen, wie man einen Kuchen backt, sagte sie. Bei den Großeltern gab es immer so viele Dinge, die sie tun konnte, dass Miffy nicht wusste, womit sie anfangen sollte. Viele kleine Mädchen möchten gerne lernen, wie man näht oder kocht, sagte der Großvater. Aber sie können auch lernen, was man mit Werkzeugen machen kann. Es ist eigentlich dasselbe, sagte die Großmutter. Ob du einen Kuchen backst oder ein Bücherregal baust, du musst immer verschiedene Dinge zusammenfügen. Ich weiß, was ich tue, sagte Miffy. Ich backe einen Kuchen und dann mache ich eine Schachtel aus Holz, in die ich den Kuchen hineinlegen kann. Das ist eine tolle Idee, sagte der Großvater. Zuerst backst du den Kuchen und dann wissen wir, wie groß die Schachtel für den Kuchen sein muss. Ich nehme den Kuchen in der Schachtel mit nach Hause als Geschenk für meine Eltern, sagte Miffy. Miffy ging mit ihrer Großmutter in die Küche und stellte alles zusammen, was sie zum Kuchenbacken brauchen würden. Zuerst müssen wir die richtige Menge Mehl abwiegen und sie durch ein Sieb in die Schüssel geben, sagte die Großmutter. Dann brauchen wir Eier, Milch, Zucker und Kakao. Auch in der richtigen Menge. Das rühren wir dann alles zusammen. Miffy nahm besondere Messbecher, damit sie wirklich von allen Zutaten die richtige Menge hatte. Es stand alles in Großmutters Kochbuch. Als sie alle Zutaten miteinander vermischt hatten, war der Teig fertig. Miffy füllte den Teig in eine runde Backform. Sie nahm Großmutters Lineal, um die Form aus",
+  "tx": "Du hast so viele schöne Werkzeuge, Großvater, sagte Miffy. In der Werkstatt von Miffys Großvater gab es Hämmer und Sägen und viele andere Werkzeuge. Kannst du mir zeigen, wie man mit den Werkzeugen etwas bauen kann, fragte Miffy. Die Großmutter war erstaunt. Ich dachte, ich könnte dir heute beibringen, wie man einen Kuchen backt, sagte sie. Bei den Großeltern gab es immer so viele Dinge, die sie tun konnte, dass Miffy nicht wusste, womit sie anfangen sollte. Viele kleine Mädchen möchten gerne lernen, wie man näht oder kocht, sagte der Großvater. Aber sie können auch lernen, was man mit … Hause als Geschenk für meine Eltern, sagte Miffy. Miffy ging mit ihrer Großmutter in die Küche und stellte alles zusammen, was sie zum Kuchenbacken brauchen würden. Zuerst müssen wir die richtige Menge Mehl abwiegen und sie durch ein Sieb in die Schüssel geben, sagte die Großmutter. Dann brauchen wir Eier, Milch, Zucker und Kakao. Auch in der richtigen Menge. Das rühren wir dann alles zusammen. Miffy nahm besondere Messbecher, damit sie wirklich von allen Zutaten die richtige Menge hatte. Es stand alles in Großmutters Kochbuch. Als sie alle Zutaten miteinander vermischt hatten, war der … konnte, wenn Großvater es durchsägte. Das machte sie mit so vielen Brettern, wie sie brauchten. Miffy guckte dem Großvater gerne zu, wenn er mit der Säge arbeitete. Hin und her, hin und her, bis das Holz ganz durchgesägt war. Jetzt hatten sie Bretter für den Boden der Schachtel, für den Deckel und für die vier Seiten. Miffy nahm einen Hammer und Nägel und der Großvater half ihr, alle Teile zusammenzunageln. Als die Schachtel gerade fertig war, kam ein köstlicher Duft aus der Küche. \"Der Kuchen ist fertig\", rief Miffys Großmutter. Er war jetzt lange genug im Ofen. Es war ein herrlicher … Sein Arm hing nur noch an einem Faden. \"Oje, was ist passiert?\" sagte Miffy. \"Du siehst gar nicht gut aus, kleiner Teddy. Ich muss dich zum Doktor bringen.\" \"Gibt es einen Doktor für Teddybären?\" fragte sie ihre Mutter. \"Ja\", sagte die Mutter. \"Der beste Teddybär-Doktor ist deine Tante Alice.\" Gleich nach dem Frühstück packte Miffy ihren Teddy vorsichtig in ein Tuch und setzte ihn in den Korb an ihrem Roller, um ihn zu Tante Alice zu bringen. Sie fuhr so schnell sie konnte den Hügel hinauf zu Tante Alice' Haus. \"Kannst du dir bitte meinen Teddy ansehen?\" fragte Miffy. \"Mutter sagt, du bist … meinem Teddybärkrankenhaus bleiben, damit ich sehen kann, ob es ihm wirklich besser geht. Miffy war traurig, dass sie ihren Teddy verlassen sollte, wenn es auch nur für eine Nacht war. Aber es musste sein. Als sie wieder zu Hause war, konnte Miffy vor lauter Traurigkeit fast nichts essen. Ich glaube, ich kann ohne meinen Teddy überhaupt nicht schlafen, sagte sie. Arme Miffy, sagte ihre Mutter. Ich werde Tante Alice anrufen und fragen, ob du bei ihr schlafen kannst. Dann bist du ganz nah bei deinem Teddybär. Natürlich kann Miffy kommen, sagte Tante Alice. Ich habe den Teddy wieder … war sehr glücklich, dass ihr Teddy wieder gesund und munter war. Eines Tages spielten Miffy und ihre Freundinnen mit dem Ball. \"Wollen wir mal sehen, wer von uns den Ball am höchsten werfen kann?\", fragte Miffy und warf den Ball hoch in die Luft. Dann war Melanie dran. Und sie warf den Ball noch höher. Und auch Aggie warf den Ball. Aber nicht ganz so hoch. Da kam Poppy Pig vorbei. \"Hallo, ihr drei\", sagte sie. \"Ich kann sehr gut werfen. Darf ich es mal versuchen?\" \"Bitte\", sagten die Mädchen. \"Aber ich glaube nicht, dass du den Ball höher werfen kannst als wir\", sagte Aggie. Poppy warf den … nein\", sagte Poppy, \"jetzt liegt euer Ball im Wasser und ich kann nicht schwimmen.\" Da sahen sie Miffys Vater kommen. \"Ich helfe euch\", sagte er. \"Ich hole den Ball aus dem Teich und dann können wir ein Spiel machen und sehen, wer den Ball mit dem Fuß am weitesten wegschießen kann.\" Miffys Vater stieg in ein Boot, ruderte zur Mitte des Teiches und holte den Ball aus dem Wasser. \"Aggie, zeig mal, wie weit du den Ball schießen kannst\", sagte der Vater. Dann versuchte es Melanie. \"Sieh mal an\", sagte Miffys Vater, \"das war schon sehr gut und jetzt ist Miffy dran.\" \"Gut, Kinder\", sagte der … \"Wenigstens der Ball ist pünktlich zum Essen gekommen. Jetzt möchte ich gerne sehen, wer von euch als Erster am Tisch ist.\" Es war ein schöner Tag. Die Sonne schien, die Vögel sangen und überall blühten bunte Blumen. Miffy dachte: \"Das wird ein besonders schöner Tag.\" \"Mutter\", sagte sie, \"es ist so schön heute. Darf ich Poppy Pig besuchen?\" \"Ja, Miffy, aber es ist ein weiter Weg und dein Roller ist kaputt. Du musst zu Fuß gehen.\" Es war wirklich ein weiter Weg und Miffy war froh, als sie endlich bei Poppy ankam. Sie wusste, dass Poppy immer ein paar leckere Kekse im Haus hatte. Als sie … fragte Miffy. \"Oh, es tut mir so leid, Miffy\", sagte Melanies Mutter. \"Melanie liegt im Bett. Sie hat eine Erkältung und kann leider heute nicht mit dir draußen spielen.\" \"Ich weiß\", dachte Miffy. \"Ich hole meinen Ball und dann spiele ich mit Schnuffi.\" Sie ging zu ihrem Schrank und holte ihren großen, bunten Ball. \"Schnuffi findet es toll, hinter dem Ball her zu rennen\", dachte sie. Sie lief so schnell sie konnte, um Schnuffi abzuholen. Sie freute sich darauf, mit dem kleinen Hund zu spielen. Aber als sie dort ankam, sah sie, dass Schnuffi tief und fest schlief. Neben ihrem leeren … hielt die Schnur ganz fest und lief über die Wiese. Sie lief immer schneller, aber der Drachen hüpfte nur über den Boden. Es wehte kein Wind. Und ohne Wind kann kein Drachen in die Luft steigen. Miffy hörte auf zu laufen. Das sollte so ein schöner Tag werden, dachte sie. Aber alles geht schief. Ich werde einfach wieder nach Hause gehen. Zu Hause nahm sie ihr Lieblingsbuch aus dem Regal. Das ist etwas worüber man sich immer freuen kann. Ein schönes Buch. Miffy lächelte, als sie die lustige Geschichte las. Das macht auch alleine Spaß, dachte sie. Jetzt ist es doch noch ein schöner Tag geworden.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -20627,7 +20659,7 @@
  "VkjLbttjfvs": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-09T03:08:00+00:00",
+  "checked": "2026-11-13T16:39:58+00:00",
   "title": "How to Speak German at Work | Easy A1 Story",
   "duration": 1187,
   "published": "20260917",
@@ -20800,14 +20832,15 @@
     4
    ]
   ],
-  "tx": "Welcome to German Stories for Beginners. Here you will learn German with simple stories, slow voice narration, and clear German and English subtitles. Let's start today's German story. Ein Praktikum im Ausland. An internship abroad. Ich heiße Anna und komme aus der Ukraine. My name is Anna and I come from Ukraine. Ich heiße Anna und komme aus der Ukraine. Ich studiere Wirtschaft und interessiere mich für internationale Unternehmen. I study business and am interested in international companies. Ich studiere Wirtschaft und interessiere mich für internationale Unternehmen. Deshalb möchte ich ein Praktikum im Ausland machen. That is why I want to do an internship abroad. Deshalb möchte ich ein Praktikum im Ausland machen. Ich möchte gerne in Deutschland arbeiten und meine Deutschkenntnisse verbessern. I would like to work in Germany and improve my German skills. Ich möchte gerne in Deutschland arbeiten und meine Deutschkenntnisse verbessern. Eines Tages finde ich im Internet eine interessante Praktikumsstelle. One day I find an interesting internship position on the internet. Eines Tages finde ich im Internet eine interessante Praktikumsstelle. Die Stelle ist in einer Firma in Berlin. The Position is at a Company in Berlin. Die Stelle ist in einer Firma in Berlin. Die Aufgaben passen gut zu meinem Studium. The Tasks fit well with my Studies. Die Aufgaben passen gut zu meinem Studium. Deshalb möchte ich mich dort bewerben. Therefore, I want to apply there. Deshalb möchte ich mich dort bewerben. Zuerst schreibe ich meinen Lebenslauf und mein Anschreiben. First, I write my CV and Cover Letter. Zuerst schreibe ich meinen Lebenslauf und mein Anschreiben. Dann schicke ich meine Bewerbung per E-Mail. Then, I send my Application by E-Mail. Dann schicke ich meine Bewerbung per E-Mai",
+  "tx": "Welcome to German Stories for Beginners. Here you will learn German with simple stories, slow voice narration, and clear German and English subtitles. Let's start today's German story. Ein Praktikum im Ausland. An internship abroad. Ich heiße Anna und komme aus der Ukraine. My name is Anna and I come from Ukraine. Ich heiße Anna und komme aus der Ukraine. Ich studiere Wirtschaft und interessiere mich für internationale Unternehmen. I study business and am interested in international companies. Ich studiere Wirtschaft und interessiere mich für internationale Unternehmen. Deshalb möchte ich ein … meine Deutschkenntnisse verbessern. I would like to work in Germany and improve my German skills. Ich möchte gerne in Deutschland arbeiten und meine Deutschkenntnisse verbessern. Eines Tages finde ich im Internet eine interessante Praktikumsstelle. One day I find an interesting internship position on the internet. Eines Tages finde ich im Internet eine interessante Praktikumsstelle. Die Stelle ist in einer Firma in Berlin. The Position is at a Company in Berlin. Die Stelle ist in einer Firma in Berlin. Die Aufgaben passen gut zu meinem Studium. The Tasks fit well with my Studies. Die … und mein Anschreiben. First, I write my CV and Cover Letter. Zuerst schreibe ich meinen Lebenslauf und mein Anschreiben. Dann schicke ich meine Bewerbung per E-Mail. Then, I send my Application by E-Mail. Dann schicke ich meine Bewerbung per E-Mail. Nach einer Woche bekomme ich eine positive Antwort. After a Week, I receive a positive Reply. Nach einer Woche bekomme ich eine positive Antwort. Die Firma lädt mich zu einem Vorstellungsgespräch ein. The Company invites me to a Job Interview. Die Firma lädt mich zu einem Vorstellungsgespräch ein. Ich bin ein bisschen nervös, aber auch … von meinem Studium und meinen beruflichen Zielen. Zwei Tage später bekomme ich die Zusage. Ich freue mich riesig über diese Nachricht. Ich freue mich riesig über diese Nachricht. Jetzt beginnt die Vorbereitung für meine Reise nach Deutschland. Jetzt beginnt die Vorbereitung für meine Reise nach Deutschland. Ich buche meinen Flug und suche eine Unterkunft. Ich buche meinen Flug und suche eine Unterkunft. Schließlich finde ich ein schönes Zimmer in einer Wohngemeinschaft. Schließlich finde ich ein schönes Zimmer in einer Wohngemeinschaft. Einige Wochen später komme ich in Berlin an. … Meine Betreuerin begrüßt mich herzlich und zeigt mir das Büro. Meine Betreuerin begrüßt mich herzlich und zeigt mir das Büro. Danach lerne ich meine neuen Kollegen kennen. Danach lerne ich meine neuen Kollegen kennen. Alle sind freundlich und helfen mir bei meinen ersten Aufgaben. Alle sind freundlich und helfen mir bei meinen ersten Aufgaben. Ich schreibe E-Mails, bearbeite Dokumente und nehme an Besprechungen teil. Ich schreibe E-Mails, bearbeite Dokumente und nehme an Besprechungen teil. Manchmal verstehe ich nicht alles, aber ich frage einfach nach. Manchmal verstehe ich nicht alles, … drei Monaten bin ich stolz auf mich, denn mein Praktikum war eine tolle Erfahrung. Nach drei Monaten bin ich stolz auf mich, denn mein Praktikum war eine tolle Erfahrung. Hier die Story only in German. There is no English narration. Use the English subtitles to understand the story. Ein Praktikum im Ausland. Ich heiße Anna und komme aus der Ukraine. Ich studiere Wirtschaft und interessiere mich für internationale Unternehmen. Deshalb möchte ich ein Praktikum im Ausland machen. Ich möchte gerne in Deutschland arbeiten und meine Deutschkenntnisse verbessern. Eines Tages finde ich im Internet … ich meinen Lebenslauf und mein Anschreiben. Dann schicke ich meine Bewerbung per E-Mail. Nach einer Woche bekomme ich eine positive Antwort. Die Firma lädt mich zu einem Vorstellungsgespräch ein. Ich bin ein bisschen nervös, aber auch sehr glücklich. Das Gespräch findet online statt. Ich erzähle von meinem Studium und meinen beruflichen Zielen. Zwei Tage später bekomme ich die Zusage. Ich freue mich riesig über diese Nachricht. Jetzt beginnt die Vorbereitung für meine Reise nach Deutschland. Ich buche meinen Flug und suche eine Unterkunft. Schließlich finde ich ein schönes Zimmer in einer … herzlich und zeigt mir das Büro. Danach lerne ich meine neuen Kollegen kennen. Alle sind freundlich und helfen mir bei meinen ersten Aufgaben. Ich schreibe E-Mails, bearbeite Dokumente und nehme an Besprechungen teil. Manchmal verstehe ich nicht alles, aber ich frage einfach nach. In meiner Freizeit entdecke ich Berlin und lerne neue Menschen kennen. Nach 3 Monaten bin ich stolz auf mich, denn mein Praktikum war eine tolle Erfahrung. Ein Praktikum im Ausland. Ich heiße Anna und komme aus der Ukraine. Ich studiere Wirtschaft und interessiere mich für internationale Unternehmen. Deshalb … Die Stelle ist in einer Firma in Berlin. Die Aufgaben passen gut zu meinem Studium. Deshalb möchte ich mich dort bewerben. Zuerst schreibe ich meinen Lebenslauf und mein Anschreiben. Dann schicke ich meine Bewerbung per E-Mail. Nach einer Woche bekomme ich eine positive Antwort. Die Firma lädt mich zu einem Vorstellungsgespräch ein. Ich bin ein bisschen nervös, aber auch sehr glücklich. Das Gespräch findet online statt. Ich erzähle von meinem Studium und meinen beruflichen Zielen. Zwei Tage später bekomme ich die Zusage. Ich freue mich riesig über diese Nachricht. Jetzt … Wochen später komme ich in Berlin an. Die Stadt gefällt mir sofort. Am nächsten Morgen beginnt mein erster Arbeitstag. Meine Betreuerin begrüßt mich herzlich und zeigt mir das Büro. Danach lerne ich meine neuen Kollegen kennen. Alle sind freundlich und helfen mir bei meinen ersten Aufgaben. Ich schreibe E-Mails, bearbeite Dokumente und nehme an Besprechungen teil. Manchmal verstehe ich nicht alles, aber ich frage einfach nach. In meiner Freizeit entdecke ich Berlin und lerne neue Menschen kennen. Nach drei Monaten bin ich stolz auf mich, denn mein Praktikum war eine tolle Erfahrung. Ja.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "9Nnod7AS7DA": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-09T03:08:45+00:00",
+  "checked": "2026-11-13T16:40:06+00:00",
   "title": "Easy German Learning Vlog | Meet Tako (Comprehensible Input)",
   "duration": 941,
   "published": "20250606",
@@ -20980,14 +21013,15 @@
     2
    ]
   ],
-  "tx": "die Hündin unserer Bekannten hat Babys bekommen Mama Miley hat 9 Welpen zur Welt gebracht als die kleinen 3 Wochen alt waren durften wir sie besuchen und natürlich haben wir uns direkt verliebt das hier ist Taco unser Taco hallo wie geht's dir ich bin heute sehr aufgeregt denn heute holen wir unseren Welpen AB du hast es vielleicht schon im letzten Video gesehen dass wir unsere Wohnung schon 1 bisschen vorbereitet haben hier stehen schon die Fressnäpfe also der Fressnapf und der Wassernapf und heute ist es soweit die letzten Tage habe ich sehr wenig geschlafen vor lauter Aufregung unser Welpe ist 12 Wochen alt er ist 1 Rüde der Rüde er ist also 1 männlicher Hund 1 Rüde und er ist 1 Babyhund also 1 Welpe der Welpe und wir fahren gleich los und holen ihn AB und dafür packen wir jetzt noch seine Reise Kiste denn ich weiß nicht was uns in dieser 1. Fahrt so erwartet wir nehmen eine pinkelmatte mit es kann sein dass es dem kleinen übel wird und er sich vielleicht übergeben muss vielleicht ist er aber auch so nervös dass er auch pinkeln muss pinkeln also urinieren der Urin deshalb brauchen wir auf jeden Fall eine pinkelmatte und einen Geruchsentferner und fleckenspray sollte etwas daneben gehen natürlich nehmen wir auch Küchenrolle mit und einen Kauknochen der Kauknochen wir haben auch eine hundewasserflasche die ist auch schon aufgefüllt und sein Halsband das Halsband der Hals und das das Band das Halsband wir wissen noch nicht OB das Halsband besser passt oder vielleicht das Geschirr das Hundegeschirr also nehmen wir beides mit und natürlich die Leine mit der Leine werden wir spazieren gehen sollte unser Hund auch groß machen brauchen wir diese Tüten diese Kot Tüten die pack ich also auch 1 und natürlich dürfen die Leckerli nicht fehlen okay gut also kurzer check wir haben ",
+  "tx": "die Hündin unserer Bekannten hat Babys bekommen Mama Miley hat 9 Welpen zur Welt gebracht als die kleinen 3 Wochen alt waren durften wir sie besuchen und natürlich haben wir uns direkt verliebt das hier ist Taco unser Taco hallo wie geht's dir ich bin heute sehr aufgeregt denn heute holen wir unseren Welpen AB du hast es vielleicht schon im letzten Video gesehen dass wir unsere Wohnung schon 1 bisschen vorbereitet haben hier stehen schon die Fressnäpfe also der Fressnapf und der Wassernapf und heute ist es soweit die letzten Tage habe ich sehr wenig geschlafen vor lauter Aufregung unser Welpe … AB und dafür packen wir jetzt noch seine Reise Kiste denn ich weiß nicht was uns in dieser 1. Fahrt so erwartet wir nehmen eine pinkelmatte mit es kann sein dass es dem kleinen übel wird und er sich vielleicht übergeben muss vielleicht ist er aber auch so nervös dass er auch pinkeln muss pinkeln also urinieren der Urin deshalb brauchen wir auf jeden Fall eine pinkelmatte und einen Geruchsentferner und fleckenspray sollte etwas daneben gehen natürlich nehmen wir auch Küchenrolle mit und einen Kauknochen der Kauknochen wir haben auch eine hundewasserflasche die ist auch schon aufgefüllt und … nehmen wir beides mit und natürlich die Leine mit der Leine werden wir spazieren gehen sollte unser Hund auch groß machen brauchen wir diese Tüten diese Kot Tüten die pack ich also auch 1 und natürlich dürfen die Leckerli nicht fehlen okay gut also kurzer check wir haben das Reinigungsspray wir haben Wasser wir haben Leckerli und die Transportbox genau wir nehmen unsere Transportbox mit wir wissen zwar noch nicht OB sich der Hund während der Fahrt in der Box wohler fühlt oder bei uns auf dem Schoß der Schoß ähm also werden wir uns das angucken aber wir nehmen die Transportbox auf jeden … so jetzt nur noch die Hundebox AB ins Auto damit und dann sind wir startklar so die Box ist befestigt und auf geht's um ehrlich zu sein bin ich jetzt richtig nervös Mein Bauch grummelt Mir ist übel ich bin hungrig und nicht hungrig zur selben Zeit kennst du das Gefühl also komm mit und los geht's wir holen unser fellbaby AB unseren Taco Sicherheitsgurt an und los geht's bist du auch bereit ja okay bis gleich wir stehen im Stau der Stau wir können nicht schnell weiterfahren kannst du Mir helfen kannst du Mir helfen ich lern Spanisch mit fluent You einer Sprachlern App mit der man … sogar mit Liedern Spanisch lernen kann mit lustigen Liedern lustigen kurzen Videos aber auch minidokumentationen oder auszügen Aus Bekannten filmen also ich bin 1 echter Fan davon möchtest du vielleicht Deutsch lernen ja du auch na dann guck mal fluent You bietet 14 probetage an ich hab mich hier mal für Spanisch angemeldet kann hier aber ganz einfach zusätzliche Sprachen hinzufügen wir gucken uns also Deutsch an Deutsch bist du auf Beginner oder intermediate Level Beginner okay hast du Lust auf 1 lustiges kurzes Video ja okay hallo herzlich willkommen in der Apotheke Rohrbach Markt Mein … ich bin so gerne hier oh sowas würd ich sehr gerne ha ha schauen sie mal wie hat dir das Video gefallen super lustig gut das tolle ist dass du jetzt nämlich auch direkt deine gelernten Vokabeln testen kannst indem du hier das Quiz startest das poppt auf direkt nach dem Video und guck mal wünschte wünschte was bedeutet wünschte MH ich wünsche dir einen schönen Tag I Wish Wish MH hm und ich wünschte I wished aha genau also entweder Vergangenheit das Präteritum ich wünschte oder als Konjunktiv 2 und hier hast du auch die Definition also ich wünschte ich wünschte wir hätten schon Taco bei uns … tolles stärker oder schlecht er wär hier ich wünschte richtig ich wünschte er wäre hier um weitere 20 Punkte gesammelt super möchtest du es auch ausprobieren ja gut dann klick doch auf den Link unten in der Videobeschreibung und du auch denn ganze 14 Tage lang also 2 Wochen kannst du die App einfach so die App gratis ausprobieren und gucken OB dir die App genauso gut gefällt wie Mir mit Fluid You bekommst du aber nicht nur Zugang zur App sondern auch zur Fluid You Chrome Erweiterung damit kannst du Inhalte auf Netflix und YouTube zum Sprachenlernen nutzen oder YouTube Videos mit … beim Deutsch lernen hallo wir sind wieder im Auto wir sind auf der Rückfahrt nach Hause und guck mal Wen wir jetzt auf der Rückbank haben guten Morgen kleiner Mann das ist Taco tako hat die ganze Autofahrt geschlafen und jetzt ist er wach geworden Taco ist jetzt munter die Zeit mit der Familie mit seiner Hundemama und seinen Geschwistern und mit seiner 1. Menschenfamilie es war unglaublich schön Taco hat noch mit seiner Mutter und seinen Geschwistern gespielt wir haben diesen Moment auch in einem kurzen Video festgehalten guck mal und zusätzlich haben wir 1 Welpen Starter Paket bekommen eine … als wir ihn zum 1. mal besucht haben eine Tüte Trockenfutter und sein Reisepass der heimtierausweis leider war n Halsband und Hundegeschirr zu groß deshalb sind wir noch schnell in den Tierladen auf dem Weg nach Hause haben wir einige kleine Pausen eingelegt Takko macht sein Geschäft er löst sich und trinkt Wasser gleich sind wir zu Hause willkommen zu Hause Takko das Trockenfutter Taco hat in seiner 1. Menschenfamilie Trockenfutter bekommen dieses Trockenfutter und das mischen wir mit warmem Wasser und während das Trockenfutter einweicht wird natürlich zuerst mal gespielt und gestreichelt … für ihn und ich meine sein Futter ist bereit hm lecker komm Taco frisst Hunde oder Tiere fressen und Menschen essen er frisst Taco ist in seinem neuen Zuhause angekommen ich hoffe dir hat dieses Video gefallen und du hast viele neue Wörter gelernt wir müssen uns jetzt noch 1 bisschen kennenlernen deshalb verabschiede ich mich von dir jetzt tschüss auch wenn man sich verabschiedet wünscht man sich gerne was mach's gut bis bald also mach's gut und bis bald tschüss sollte unser Hund während der Fahrt auch groß machen groß machen also ha I i'll just say groß machen right I don't use kacken",
+  "gist": "s",
   "status": "ok",
   "src": "cc"
  },
  "HF9q3d8PeIY": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-09T03:10:28+00:00",
+  "checked": "2026-11-13T22:29:03+00:00",
   "title": "Peppa Wutz bekommt ein EPISCHES MAKEOVER! 💄 Übernachtung mit Cousine Chloe | Peppa-Wutz-Geschichten",
   "duration": 1625,
   "published": "20260923",
@@ -21160,14 +21194,15 @@
     4
    ]
   ],
-  "tx": "Heute veranstalten Peppa und Chloe eine Übernachtungsparty. Wir haben super kuschelige Schlafsäcke, kuschelige Morgenmäntel und flauschige Hausschuhe. Yay! Hurra! Tut mir leid, ich muss ein großes Mädchen sein wie Chloe. Und große Mädchen spielen nicht mit Spielsachen. Was hast du gesagt, Peppa? P möchte nicht. dass Chloe ihren Teddy und ihre Puppe sieht. Ich sagte, was ist das? Tante und Onkel Wutz übernachten auch hier. Genau wie Baby Alexander. Ei liebt es gerade witzige Geräusche zu machen. Genau wie wir. Und fertig. Ich liebe es. Hallo kleines Schweinchen. Ich meine gut aussehendes Schweinchen. Wie wäre es mit heißer Schokolade? Na ja, ehrlich gesagt, könnten wir stattdessen Snacks für große Mädchen bekommen? Bitte Snacks für große Mädchen? Ähm z.B. Ähm, Brokkoli. Gut, ich schaue mal, was ich tun kann. Und die heiße Schokolade lasse ich hier, nur für den Fall. Was möchtest du jetzt tun? Wieso spielen wir nicht? Peppa ist sich nicht sicher, ob große Mädchenspiele spielen. Ich habe ein paar Magazine dabei. Okay, bittte schön. Ein super bequemes, super weiches und super starkes Luftbett. Vielleicht müssen wir stattdessen eine Kissenburg bauen. Sollen wir uns Gruselgeschichten erzählen? Ja, ich hole mir ein Kissen, um mich dahinter zu verstecken. Nein. Chloe hat Teddy gefunden. Die gehören mir nicht. Ich mag keine Teddys. Ich mag nur Sachen für große Mädchen. Oh, ich liebe Teddys und Puppen und Dinosaurier. Hi Geosh, möchtest du mit uns spielen? Hallo Herr Dinosaurier, möchtest du eine heiße Schokolade? Peppa wusste nicht, dass große Mädchen wie Chloe mit Teddys und Puppen spielen. Aber bist du nicht zu alt, um mit Spielsachen zu spielen, Chloe? Nein, ich glaube nicht. Man ist niemals zu alt zum Spielen. Vielleicht sind wir zu alt, um mit einer Kissenburg zu spielen. M",
+  "tx": "Heute veranstalten Peppa und Chloe eine Übernachtungsparty. Wir haben super kuschelige Schlafsäcke, kuschelige Morgenmäntel und flauschige Hausschuhe. Yay! Hurra! Tut mir leid, ich muss ein großes Mädchen sein wie Chloe. Und große Mädchen spielen nicht mit Spielsachen. Was hast du gesagt, Peppa? P möchte nicht. dass Chloe ihren Teddy und ihre Puppe sieht. Ich sagte, was ist das? Tante und Onkel Wutz übernachten auch hier. Genau wie Baby Alexander. Ei liebt es gerade witzige Geräusche zu machen. Genau wie wir. Und fertig. Ich liebe es. Hallo kleines Schweinchen. Ich meine gut aussehendes … ist niemals zu alt zum Spielen. Vielleicht sind wir zu alt, um mit einer Kissenburg zu spielen. Man ist niemals zu alt. Oh nein, Evi sitzt im Babygefängnis fest. Das war Mama Unwug. Wir müssen etwas unternehmen. Heute spielt Peppa mit ihrer Cousine Chloe und die beiden haben eine ganz wichtige Mission. Die Feehen eilen zur Rettung. Nein, die Spione eilen zur Rettung. Wir können sie gemeinsam retten. Ja, also machen sich Chloe, die Spionin und Peppa, die Fee, auf den Weg, um Baby Ei zu retten. Aber zuerst müssen sie vorbei an Saugtron. Überlass das mir. Abraadabra, sappe die Zeugattron … werden es finden. Heute Abend suchen alle etwas. Ei Spielzeug Ququwack ist verschwunden. Okay, kommt meine Kleinen, es ist Zeit fürs Bett. Papa und ich werden Quaquak finden. Oh, aber ich wollte doch helfen. Keine Sorge, Quaquak taucht wieder auf. Manchmal gehen Spielzeuge spazieren, wenn wir nicht hinsehen. Das ist alles. Oh, das tun sie. Gehst du manchmal auch spazieren, Teddy? Peppa versucht wach zu bleiben, um zu sehen, ob Teddy wirklich alleine spazieren geht. H, was war das, Taddy? Du gehst tatsächlich spazieren, Teddy. Aber wo willst du hin? Ich schaue unser Zimmer nach. Ich schaue … Du musst Edelsteine sammeln und zwar so. Und wenn du den Drachen hörst, musst du dich verstecken. So siehst du? George ist vom Drachen erwischt worden. Nein, kein Problem. Jetzt weißt du immerhin, wie es geht. Schnell, hol dir die Edelsteine. Oh nein, der Drache. Versteck dich. Oh je, George ist wieder vom Drachen erwischt worden. Du musst dich verstecken, wenn der Drache brüllt, George. Sonst verlieren wir alle Punkte. Noch mal von vorn. Hä? Ich glaube, ich will lieber alleine spielen. George, nein. George, gib schon her. Nein, nein, nein. Was ist denn los, Team? George wird jedes Mal … du denn gerne spielen, Chloe? Ich mag sehr gerne das Tanzspielen. Chloe gefällt das Tspiel sehr gut. Peppa hingegen nicht so sehr gewonnen hat Spieler zwei. Sei nicht traurig, Peppa. Mal gewinnt man, mal verliert man. Du kannst das nächste Spiel aussuchen. Peppa und Chloe gehen los und suchen ein neues Spiel. Und wie es aussieht, hat Ei ein Spiel gefunden, das sie gerne spielen möchte. Genau wie Baby Alexander. Oki doki, hier gewinne ich in 0, nix. Ich bin ein Experte für Greifautomaten. Eigentlich bin ich ein Experte für Greifautomaten. Vielen Dank. Wir werden die Ente auf eigene Faust … die Königin vom Schloss. Na nu, wer ist denn da an der Tür? Hallo, kann ich mitspielen? Aber natürlich, es ist genug Raum für alle da. Hurra, ich liebe den Raum. Astronautin Luzi, hilfst du mir beim Zählen meiner Juwelen? Aber logo, Eure Majestät. 1 2 3 4 5 6 Königin Peppa und Astronautin Luzi haben sehr viele Juwelen zu zählen. Hallöchen, Pedro Pony will auch mitspielen. Kann ich mit euch mitspielen, Kumpel? Ja, Cowboy Pedro, du darfst eintreten. Hilfst du uns beim Zählen der Juwelen? Na klar, Kumpel. Ich komme hier nicht mehr raus. Astronautin Luzi zur Hilfe. Peppa, Luzi und Pedro haben … Drachen einzufangen. Wow! Oh, der goldene Drache ist ja aus Gelee. Keine Bewegung, ihr zwei. Den Geleedrachen gibt's als Nachspeise. Ihr müsst euch noch etwas gedulden. Es ist Mama Schlawiinerin. George, wir gehen auf eine Gelemission. Hallo Rustam. Oh, tschüss Wutzteam. Achtung, da ist Fußballzeug. Ich räume es weg, wenn ich den Tisch gedeckt habe. Okay, wir müssen die Treppe runterschleichen. Vorbei an Pap, ich meine Schurke Wutz und dann Mama Schlaavinerin ablenken. Klar. Hä? Okay, los geht's. Wir schleichen ganz ganz leise. Die frechen, wollten sich das Gelee schnappen. Ich habe ihnen … hinterlistige Missionen gehen. Nie wieder. Hm, eine Mission gibt es aber noch. Der Tisch muss gedeckt werden. Ich übernehme das. Dann los. Mission. Heute sind Peppa, Klausi und Luzi auf der Suche nach Drachen. Schau, da sind Drachen bei den Verließen. Hallo Molly, sag mal, hast du Lust mit uns Ritter und Drachen zu spielen? Ritter und Drachen ist Molly Miezes Lieblingsspiel. Oh nein, danke. Oh, okay. Tschüss. Was ist los? Ich dachte immer, Molly liebt Drachen. Hm, vielleicht hat sie ja Lust mitzuspielen, wenn wir die Drachen gefangen haben. Ja, los geht. Ich glaube, die Drachen sind hier … wirklich? Lässt du mich mitlesen? Ja, na klar. Das ist der Drache und er sucht nach einem Schatz. Aber die Ritter und Einhörner suchen auch nach magischen Schätzen. Peppa wusste nicht, warum Molly bei ihrem magischen Spiel nicht mitspielen wollte. Aber jetzt weiß sie warum, weil Molly Geschichte auch magisch ist. Willkommen zu unserem sagenhaften Teamwettbewerb. Drei Teams treten in rasanten, spannenden Spielen gegeneinander an und arbeiten zusammen, um zu genieren. Heute spielen Peppa und George ein paar besondere Teamspiele. Unser erstes Spiel heißt Schwirr und Wirbel Ballabwurf. Sammelt … sie nachzumachen und zwar so. Aber vergesst nicht, ihr müsst als Team arbeiten. Klar. So, seid ihr alle bereit? Los. Wir schaffen das, George. Mach's mir nach. Oh, tolle Teamarbeit, Peppa und George. Guter Versuch, Luisa und Linus. Hier kommt der nächste Schatten. Es ist ein Dinosaurier. Zeig mir, wie es geht, Geosch. Der müsste aus der Obertrierszeit stammen. Vielleicht ein Plateosaurus. Oh, das war Pech. Aber wirklich sehr leerreich und super gemacht. Peppa und George, ihr habt toll zusammengearbeitet. Ja, wir sind ein echt gutes Team, George. Das heißt, jedes Team hat ein Spiel gewonnen.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
  "Wd2x0bB-GlI": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-09T03:11:40+00:00",
+  "checked": "2026-11-13T22:29:45+00:00",
   "title": "NEUE LEGO Bluey Kurzgeschichten – Sammlung | Bluey - Deutsch Offizieller Kanal",
   "duration": 623,
   "published": "20260810",
@@ -21340,14 +21375,15 @@
     2
    ]
   ],
-  "tx": "Bluey! Oh, Mann! Hä? Machst du mich etwa nach? Oh, Mann! Oh, Mann! Diese Folge von Bluey heißt Nachmacherin. Ich bin Bluey und ich stinke wie ein alter Affe. Ich bin Bluey und ich stinke wie ein alter Affe. Schön, endlich sind wir uns darüber mal einig. Zeit für meinen Morgenspaziergang. Zeit für meinen Morgenspaziergang. Ich gehe sehr gern eine weite Strecke und dabei gehe ich dann immer so, wie ein richtiger Spitzensportler. Ah, du. Guten Morgen, Wendy. Wusstest du eigentlich, dass ich mir manchmal gerne selbst auf den Popo haue? Warum hast du nicht mitgemacht? Bluey! Ich gehe mal ein bisschen am Strand entlang spazieren. Warum gehst du eigentlich gerne allein spazieren? Hm. Das weiß ich gar nicht so genau. Ich mache es einfach. Wir sehen uns nachher, kleine Meerjungfrau. Wow, guck dir mal die Muschel an. Wow! Darf ich sie Mom zeigen? Ja, na klar. Lauf schnell los. Bingo und ich warten hier. Echt? Wirklich? Ist das da hinten Mom mit dem orangen Hut? Ja, das ist sie. Und ich darf den ganzen Weg ganz allein gehen? Ja, ich behalte dich im Auge. Ganz in echt jetzt? Klar, geh nur bitte nicht ins Wasser. Okay. Aber wie willst du ihr ohne Beine hinterherlaufen, Meerjungfrau? Oh, ja. Dann bist du König Neptun und gibst mir Beine. Echte Beine! Eigentlich ist der ein bisschen zu weit weg. Aber kleine Meerjungfrau, du kannst Moms Fußspuren folgen. Oh, ja. Danke, König Neptun. Viel Glück! Ich bin eine Meerjungfrau und ich habe Beine. Aber sie bleiben nur für einen Tag, kleine Meerjungfrau. Also genieße es. Okay, das mache ich. Hey Möwen, könnt ihr bitte weggehen? Die Meerjungfrau möchte vorbei. Dad, kannst du Oh, stimmt ja. Dad ist da hinten. Tja. Dann Oh, du gemeine Welle. Du hast einfach Moms Fußspuren weggewaschen. Uh. Eine Klappmuschel. Die Klappmuschel hat Pipi gemacht. Oh, ",
+  "tx": "Bluey! Oh, Mann! Hä? Machst du mich etwa nach? Oh, Mann! Oh, Mann! Diese Folge von Bluey heißt Nachmacherin. Ich bin Bluey und ich stinke wie ein alter Affe. Ich bin Bluey und ich stinke wie ein alter Affe. Schön, endlich sind wir uns darüber mal einig. Zeit für meinen Morgenspaziergang. Zeit für meinen Morgenspaziergang. Ich gehe sehr gern eine weite Strecke und dabei gehe ich dann immer so, wie ein richtiger Spitzensportler. Ah, du. Guten Morgen, Wendy. Wusstest du eigentlich, dass ich mir manchmal gerne selbst auf den Popo haue? Warum hast du nicht mitgemacht? Bluey! Ich gehe mal ein bisschen am Strand entlang spazieren. Warum gehst du eigentlich gerne allein spazieren? Hm. Das weiß ich gar nicht so genau. Ich mache es einfach. Wir sehen uns nachher, kleine Meerjungfrau. Wow, guck dir mal die Muschel an. Wow! Darf ich sie Mom zeigen? Ja, na klar. Lauf schnell los. Bingo und ich warten hier. Echt? Wirklich? Ist das da hinten Mom mit dem orangen Hut? Ja, das ist sie. Und ich darf den ganzen Weg ganz allein gehen? Ja, ich behalte dich im Auge. Ganz in echt jetzt? Klar, geh nur bitte nicht ins Wasser. Okay. Aber wie willst du ihr ohne Beine hinterherlaufen, Meerjungfrau? Oh, ja. Dann bist du König Neptun und gibst mir Beine. Echte Beine! Eigentlich ist der ein bisschen zu weit weg. Aber kleine Meerjungfrau, du kannst Moms Fußspuren folgen. Oh, ja. Danke, König Neptun. Viel Glück! Ich bin eine Meerjungfrau und ich habe Beine. Aber sie bleiben nur für einen Tag, kleine Meerjungfrau. Also genieße es. Okay, das mache ich. Hey Möwen, könnt ihr bitte weggehen? Die Meerjungfrau möchte vorbei. Dad, kannst du Oh, stimmt ja. Dad ist da hinten. Tja. Dann Oh, du gemeine Welle. Du hast einfach Moms Fußspuren weggewaschen. Uh. Eine Klappmuschel. Die Klappmuschel hat Pipi gemacht. Oh, hey, mein Freund. Wo willst du denn so schnell hin? Kribbel, krabbel, ich bin eine Meerjungfrau und ich habe Krabbenbeine. Wo willst du hin, kleine Krabbe? Okay, wir sehen uns. Aufgepasst, die Königin betritt den Saal. Das ist die Königin. Eure Majestät, hier bin ich. Oh, hallo. Oh, ich liebe euch, eure Majestät. Schön weiter. Halt! Butler, das königliche Hinterteil juckt sehr. Ich verlange, dass du es kratzt. Ja, oh ja, genau da. Ja, sehr gut. Nun, ich verlange auf dem Thron zu sitzen. Ja, meine Königin. Ah! Ah, opsi. Oh, ich stell das gerne auf, eure Majestät. Die Königin hat ein paar Schwierigkeiten. Richtig. Jetzt, geh weg. Ja, meine Königin. Komm her. Ja, eure Majestät. Entschuldige mal, steh nicht auf diesem königlichen Regenbogen-Teil. Oh, es tut mir ganz furchtbar leid, eure Majestät. Du frecher Butler. Ist das in Ordnung, eure Majestät? Ja. Wie kann ich euch dienen, meine Königin? Oh, ich werde heute ein Lied singen und du wirst es aufschreiben. Oh, okay. Ich bin so wunderschön. Ich bin so niedlich. Oh, und schön lang. Nun, siehst du es mir vor. Ich bin so wunderschön. Lauter. Ich bin so Lauter. niedlich und schillernd. Okay. Oh, unsere Königin ist wirklich niedlich und so schillernd. Bluey. Entschuldigen Sie bitte. Ja, hier drüben. brauche braun. Ups. Oh, ja. Wir hätten gern die Rechnung, bitte. Oh, wir hätten gern die Rechnung. Bluey, nicht so laut. Oh, wir hätten gern die Rechnung. Will Bingo den Rest noch essen? Äh, nein, ich glaube, sie ist fertig. Schnapp. So. Hey, die letzte Pommes ist weg. Hat Dad gegessen. Was? Ich habe mir die Pommes noch aufgehoben. Und ich habe mich auch schon entschuldigt. Das war mein Fehler. Ich dachte, du wärst fertig. Ich hatte immer noch ganz großen Hunger. Wie könnten wir das denn wieder gutmachen, Bingo? Sag es uns, egal was. Ah, ich weiß. Tanzalarm. Oh, nicht Tanzalarm. Diese Folge von Bluey heißt drei Wünsche. Ich bin so aufgeregt. Ich auch. Alles klar, du darfst dreimal den Tanzalarm auslösen, Bingo, und dann war's das. Okay. Der Hund ist grün, kommt. Oh, Bingo, da ist Musik. Lösen wir bei Mom den Tanzalarm aus? Ähm, ja, okay. Schon dabei. Tanzalarm. Schnell, weg hier, Kinder. Ihr kennt die gar nicht. Los geht's. Wow, lass es krachen, Chili. Grüß dich, Wendy. Oh. Das war so witzig. Du hast es noch drauf, Babe. Bluey! Oh! Ah! Ah, Bluey. Kann ich noch schnell ein Glas Wasser trinken? Na klar, Schätzchen. Wow! Oh Mann.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
  "svGY_k6tiIk": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-09T03:13:00+00:00",
+  "checked": "2026-11-13T22:30:03+00:00",
   "title": "Mascha und der Bär 👧🐻 Favoriten des Monats 🤩📆 Month's Favourites  🎬 Masha and the Bear",
   "duration": 2025,
   "published": "20260919",
@@ -21520,7 +21556,8 @@
     2
    ]
   ],
-  "tx": "Alle an Bord. Lass uns Kinder sofort mit dem Motorrad rumfahren. Bitte. Unsere hungrige Seele verlangt nach großer Action. Hm hm. War das aber mal eine Runde. Hm. H. Hurra, ein Hausboot. Lasst uns eine Runde fahren. Hey, hurra! Alle an Bord. Licht ist die A. Hey, was ist das? Wow! Und was ist das? Ganz Kapitän, wir sind auf der Stelle bereit loszusegeln. Jetzt bin ich der Kapitän. Jetzt mal zugehört, Schiffsjunge. Ab Richtung Steuerboard jetzt. Backboard. Steuerbord. Ui. Kapitän, die Crew steht bereit. Alles fertig zum Lossegeln. K raus. Wir sind die wilden Wölfe des Wassers, nicht wahr, Kapitän Wir sehnen uns zu reisen, die Welt zu erkunden. Für uns war das ein lebenslanger Traum. Ein stolzer T braucht, der Kapitän zu sein. Und selbst wenn es regnet, werden unsere Herzen strahlen. Und wenn dem Tripp der Nervenkitzel auch mal fehlt oder die gute Tanz vor Angst sich nicht mehr rührt, dann werden wir ganz fett zu mutigen Piraten. Umarm die Angst und wandel sie in Licht. Dreh das Feuerrad und Segel mit. Spür die Freiheit dieser Wellen auch und nichts kann nur so Freude stören. Rich euer Rad und segle mit dreh das Sujad und Säge mit. Spür die Freiheit dieser Wellen auch und nichts kann so Freude stören. Trich euer Rad und segle mit. Trerat und Segle mit. Frei fliegen wie ein Vogel wird jetzt real. Das Leben ist ein Traum. Kannst du es spüren? Trich Steuerrad und segle mit. Gesundheit. Wieso ist es aus? hat die Batterie den Geist aufgegeben? Honigbeien. Wollt ihr auch etwas Süßes? Juhu! Wer hat das Radio repariert? Aber die ganzen Süßigkeiten sind leer. Sie sehen irgendwie nicht gut aus. Be, wir müssten den Krankenwagen rufen. Ah. Hier steht, dass sie zu schwer sind. Sie müssen sich bewegen. Aha, jetzt ist alles klar. Wa, wir brauchen Süßigkeiten für das Training. Und jetzt ",
+  "tx": "Alle an Bord. Lass uns Kinder sofort mit dem Motorrad rumfahren. Bitte. Unsere hungrige Seele verlangt nach großer Action. Hm hm. War das aber mal eine Runde. Hm. H. Hurra, ein Hausboot. Lasst uns eine Runde fahren. Hey, hurra! Alle an Bord. Licht ist die A. Hey, was ist das? Wow! Und was ist das? Ganz Kapitän, wir sind auf der Stelle bereit loszusegeln. Jetzt bin ich der Kapitän. Jetzt mal zugehört, Schiffsjunge. Ab Richtung Steuerboard jetzt. Backboard. Steuerbord. Ui. Kapitän, die Crew steht bereit. Alles fertig zum Lossegeln. K raus. Wir sind die wilden Wölfe des Wassers, nicht wahr, … rührt, dann werden wir ganz fett zu mutigen Piraten. Umarm die Angst und wandel sie in Licht. Dreh das Feuerrad und Segel mit. Spür die Freiheit dieser Wellen auch und nichts kann nur so Freude stören. Rich euer Rad und segle mit dreh das Sujad und Säge mit. Spür die Freiheit dieser Wellen auch und nichts kann so Freude stören. Trich euer Rad und segle mit. Trerat und Segle mit. Frei fliegen wie ein Vogel wird jetzt real. Das Leben ist ein Traum. Kannst du es spüren? Trich Steuerrad und segle mit. Gesundheit. Wieso ist es aus? hat die Batterie den Geist aufgegeben? Honigbeien. Wollt ihr auch … das Training. Und jetzt beginnen wir mit unserer Turnstunde. Stellt eure Füße in Schulterbreite auf. Streck die Arme zu den Seiten aus und 1 2 3 4 nicht den Atem anhalten. 1 2 3 4 1 2 3 4 Schön gerade halten. Strengt euch mehr an. Strengt euch mehr an, meine Freunde. Sieh sie nur an. Was können wir ohne Süßes schon erreichen? Es ist Zeit für die nächste Übung. Seen beugen und 1 2 3 4 etwas weiter beugen. Hallo Sportler und noch etwas weiter. 1 2 3 4 Und jetzt die andere Seite. Du gibst immer nur an, aber sonderlich gut trainieren kannst du nicht. Yip. Hey, Honigbeien, los geht's. Macht es … eine leckere Süßigkeit. Kommt und holt euch die Süßigkeit. Honigbeien hier drüben. Hier bin ich. Leckere Süßigkeit. Hey, sie nur alles beim Alten. Be, willst du auch abnehmen? Okay, dann hol süßes. ist. Nein, das ist bloß noch Ein Haufen Schrott. Ihr braucht dringend ein Auto, eins, das Pferd und schön aussieht. Keine Sorge, ihr geht schlafen und bis morgen habe ich mir einen Plan ausgedacht. Der kleine Automechaniker. Klasse. Guten Morgen, ihr Faulpelze. Aufgestanden und an die Arbeit. Tada! Was ist los? Gefällt euch mein Masha? Merkt euch eins, ihr müsst euch genau an die Anleitung … Und das ist die Gangschaltung. Und das da, das ist ganz besonders schick. Und das da sind eure ersten Fahrgäste. Achtung, ganz wichtig, ihr müsst lächeln und alles andere nach der Anleitung. Was ist los? Können die etwa nicht lesen? Ist mir schlecht. Die können echt nicht lesen, ihr faulen Schulschwänzer nicht seit sechsen. Wenn ich euch einhole, dann zwinge ich euch alle Buchstaben zu lernen. Sei nicht böse, das ist nur passiert, weil sie nicht lesen können. Hallo liebe Schüler, aufwachen und lesen lernen. A M P Y Manucht nur ein Ziel. Hey Fußballkumpel, gehen wir doch raus und kicken … Ball zurückzuerobern, aber bisher kann niemand den Ball lange halten. Hey Bär, werden sie ein Tor schießen? Eine tolle Torchance. Ein Schuss. Oh, schade. Ein guter Zeitpunkt für einen Konter. Passt. Das ist ein Fehlschuss. Der Ball geht ins Aus. Und wo bleibt das Tor? Hey Bär, wie lange dauert's noch, bis ich ein Tor sehe? Wann fällt das Tor? Wie lang noch bis zum Tor? Also, wo bleibt das Tor? Ba, dein Fußballspiel hat überhaupt keine Tore. Es ist so langweilig. Die Heimmannschaft kontrolliert den Ball wieder am gegnerischen Straft. Ein Pass, ein weiterer Pass. Ein Dritt. Faul. Der … auf dem Platz. Der Schiedsrichter pfeift an. Zweite Halbzeit beginnt. Wir brauchen alle ein Tor. Häschen. Hey Häschen, kicken wir eine Runde. Komm schon, komm schon. Schieß, schieß für dich. Mist. Latte. Aber der nächste ist drin. Oh, Hässchen. Okay, bin dabei. Der Kampf um den Ball ist noch nicht vorüber. Jetzt wandert der Ball in die rechte Hälfte des Feldes und der ist wieder in der linken Spielfeldhälfte. Aber der Mittelfeldspieler der Gastgeber spielt i wieder zurück in die rechte Spielfeldhälfte. Noch ein Pass. Der Ball ist wieder in der linken Spielfeldhälfte. Ein Pass und die … Hälfte des Feldes. Was für ein heldenhaftes Spiel. Wunderbar. Der Schlusspff ertönt. Was für ein spannendes Spiel. Zur Freude aller Fußballfans war das heute ein wahres Fußballfest. Der Endstand ist 0:0. Aber wie man so schön sagt, es geht nicht um Tore. Dabei sein ist alles. Tor! Tor! Hurra! Tor! Hurra! Hallo Ba, gab's ein Tor? Einen Moment. 1 2 3 4 5 Hop! Halte ihn! Tor! Tor! Tor! Bär! Da hast du dein Tor! Tor. Das wolltest du doch, oder Bär? Prinzessin oder Drache? Rosi, die ist nicht für dich, sondern für die Prinzessin. Hey Bär, komm doch her. Spiel mit uns. Papa, Papa, Papa. Ich bin … entführt. Ich habe ja solche Angst. Ein tapfer Ritter wird kommen, um mich zu retten. Also mach dich auf was gefasst. Pap. Das war wohl nichts. Ihr habt es ruiniert. Fangen wir noch einmal an. Nein, diesmal ist Ber die Prinzessin. Und du, Rosi, du bist das Pferdchen. Oh, doch. Ja, Pferdchen, wir bekämpfen den Drachen. Hurra! Attacke! Drachenmonster, lass die Prinzessin in Ruhe. Ich werde dich bekämpfen. Wer so funktioniert das Spiel nicht. Ich befürchte, wir müssen neu anfangen. Setz die Krone ab. Perfekt. Папа, папа, папа. Dick dicke dick dicke dick dicke dick wir kommen. Dick diick diick … Drache. Nehmt euch besser in acht. Hier kommt der Drache. Der Drache ist hungrig. Was glotzt ihr denn so? Ihr sollt doch die Prinzessin retten, oder? Ich fresse Oh, Pfannkuchen. Prinzessin, komm runter. Der Drache gibt sich hiermit zufrieden. Prinzessinnen dürfen nicht alles essen. jedoch was sie wollen. So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amen.",
+  "gist": "s",
   "status": "ok",
   "src": "auto"
  },
@@ -21676,7 +21713,7 @@
  "SiOY2i2SL-g": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-09T04:12:04+00:00",
+  "checked": "2026-11-13T16:27:18+00:00",
   "title": "What to Say When You’re Sick in Germany — Easy German Vocabulary",
   "duration": 389,
   "published": "20251211",
@@ -21849,7 +21886,8 @@
     2
    ]
   ],
-  "tx": "Wie kannst du sagen, dass du krank bist? How can you say that you're sick in German? There are a lot of different ways. Also als erstes kannst du sagen, ich bin krank. Du kannst aber auch sagen, ich fühle mich krank oder ich fühle mich nicht so gut. How would you say that sick to your stomach? Like nauseous. Mir ist übel. Übel. Er sagt ja und das Nomen dafür ist Übelkeit. Die Übelkeit. And how do you say to vomit? So the former way is kind of. Ich muss mich übergeben. Übergeben ist like to overgive so overgiving something in unformal language usually just say kotzen z.B. ich muss kotzen oder er hat gekotzt. In a doctor's office, you would normally say, \"Ich habe mich übergeben. I had to vomit.\" How do you say that you feel a bit like? You know, you would say, \"Mir ist schwindlich.\" Oh, Doktor, mir ist so schwindlich. Ja. Wow. Ex he ich habe Kopfschmerzen. Mir tut der Kopf weh. Ja, mir tut der Kopf weh oder ich habe Migräne. Ich habe Migräne. How would you say you have a stomach acheg? Ja, the belly is hurting. Ich habe Bauchschmerzen. Or you can also say again when you use we tun. mir tut weh. Oh Mama, mir tut der Bauch weh. So now if you have any pain, you can usually use schmerzen. So for example, you can also say ich habe Halsschmerzen, ich habe Kopfschmerzen, ich habe Bauchschmerzen. But now when one part of the body hurts, usually we use mir tut etwas weh. Ja, z.B. Ah, mir tut die Hand weh oder mir tut die Schulter weh. Ja, oder mir tun die Augen weh. Ah, und noch etwas ganz Wichtiges. Back pain. How do you say auf Deutsch? Ich habe Rückenschmerzen. Rückenchmerzen. So. Now, some words if you feel something on your skin, how do you say this? So, for example, itching. Es juckt ja z.B. Oh, meine Haut juckt. Ich muss kratzen. To scratch means kratzen. Oft sagt der Arzt",
+  "tx": "Wie kannst du sagen, dass du krank bist? How can you say that you're sick in German? There are a lot of different ways. Also als erstes kannst du sagen, ich bin krank. Du kannst aber auch sagen, ich fühle mich krank oder ich fühle mich nicht so gut. How would you say that sick to your stomach? Like nauseous. Mir ist übel. Übel. Er sagt ja und das Nomen dafür ist Übelkeit. Die Übelkeit. And how do you say to vomit? So the former way is kind of. Ich muss mich übergeben. Übergeben ist like to overgive so overgiving something in unformal language usually just say kotzen z.B. ich muss kotzen oder er hat gekotzt. In a doctor's office, you would normally say, \"Ich habe mich übergeben. I had to vomit.\" How do you say that you feel a bit like? You know, you would say, \"Mir ist schwindlich.\" Oh, Doktor, mir ist so schwindlich. Ja. Wow. Ex he ich habe Kopfschmerzen. Mir tut der Kopf weh. Ja, mir tut der Kopf weh oder ich habe Migräne. Ich habe Migräne. How would you say you have a stomach acheg? Ja, the belly is hurting. Ich habe Bauchschmerzen. Or you can also say again when you use we tun. mir tut weh. Oh Mama, mir tut der Bauch weh. So now if you have any pain, you can usually use schmerzen. So for example, you can also say ich habe Halsschmerzen, ich habe Kopfschmerzen, ich habe Bauchschmerzen. But now when one part of the body hurts, usually we use mir tut etwas weh. Ja, z.B. Ah, mir tut die Hand weh oder mir tut die Schulter weh. Ja, oder mir tun die Augen weh. Ah, und noch etwas ganz Wichtiges. Back pain. How do you say auf Deutsch? Ich habe Rückenschmerzen. Rückenchmerzen. So. Now, some words if you feel something on your skin, how do you say this? So, for example, itching. Es juckt ja z.B. Oh, meine Haut juckt. Ich muss kratzen. To scratch means kratzen. Oft sagt der Arzt da nicht kratzen. Don't scratch. Nicht kratzen. How would you say when just a little like feeling like se grippeln? Ja. Oh, es grippelt. Es grippelt. And when it's burning, how would you say that? Es brennt. Brennen ist translation of burning. Ja, z.B. Oh, meine Haut brennt. Es brennt. Und ein paar typische Symptome von einer Grippe. Also erstmal zu Grippe sagen wir auch oft Erkältung. Die Erkältung oder die Grippe. Dann was hast du? Du hast manchmal Fieber. Oh, ich habe Fieber. Ich habe Husten. Ich habe Schnupfen. Oh, ich habe Schnupfen. So und was hier noch ganz wichtig ist, was auch manche Leute haben, Diara. Das ist der Durchfall. I think Gerun because falls through der Durchfall. Und was ist das Gegenteil von Durchfall? What is the opposite of Diara? Auf Deutsch sagen wir die Verstopfung. Etwas ist verstopft. Das bedeutet, das ist voll und es geht nicht durch. Ja. verstopft und wenn du eine Verstopfung hast, dann kannst du nicht kacken. Uh. Und das, was ist das? Das ist Blut. Ja, das ist kein echtes Blut. Und z.B. kannst du sagen, oh, ich habe eine Wunde. Ich habe mich verletzt und jetzt habe ich eine Wunde. Und man sagt dann auch, es blutet. Oh nein, es blutet. Und wenn man eine Wunde hat, dann macht man ein Pflaster drauf. Ein Pflaster drauf. Das ist für die Wunde. Und dann noch etwas, was auch oft passiert. What happens? Ich bin hingefallen. I fell down. Ich bin hingefallen und ah, ich habe mir mein Bein gebrochen. I broke my leg. Ich habe mir mein Bein gebrochen oder ich habe mir meinen Arm gebrochen und jetzt muss ich ins Krankenhaus und vielleicht muss ich operiert werden. Operieren ist to have surgery. Der Doktor oder der Arzt operiert mich. Okay, das ist eine schwierige Operation. It's a difficult surgery for example. I hope all this stuff never happens to you. I hoffe, das alles passiert dir nie. Aber wir haben jetzt sehr viele neue Wörter gelernt. I think we learned a lot of new words. So, first of all, how do you say something as itching? Es juckt. Es juckt. How do you say I broke my leg? Ich habe mein Bein gebrochen. How do you say backpain? I have backpain. Ich habe Rückenschmerzen. Rückenschmerzen. Oh, what else could you say? You could also say mein Rücken tut weh. Oh, mein Rücken tut weh. And how do you say this one again? What you put on a Wunde. Das macht man auf eine Wunde. Das ist ein Pflaster. Das Pflaster. I hope you learn a lot. So when you go to the doctor you know some of these words and you can have a conversation with the doctor or if you something you know how to answer. Okay? Also check out our other video about the dialogue at the doctors office. That's also very useful and there you learn even more vocabulary. Alles klar. Danke schön und tschüss.",
+  "gist": "w",
   "status": "ok",
   "src": "auto"
  },
@@ -60955,6 +60993,482 @@
    ]
   ],
   "tx": "Alexander als Türsteher Alexander ist ein großer Mann mit dicken Muskeln. Das macht ihn zu einem perfekten Türsteher. Sein Gesicht ist ernst, auch wenn er glücklich ist. Manche Leute haben sogar Angst vor ihm. Das liegt an seinen Tattoos, seiner Körpergröße und seinen Muskeln. Er liebt es, ein Türsteher zu sein. Er arbeitet in einer beliebten Bar in der Stadt. Sein Arbeitstag beginnt sehr spät. Erst um 17:00 Uhr abends fängt er an. Die ersten drei Stunden sind immer sehr ruhig. Er bereitet sich für die Nacht vor und redet mit den Kellnern. Manchmal hilft er ihnen, die Tische zu verschieben oder die Bar aufzuräumen. Außerdem stellt er die Absperrung vor den Eingang der Bar. So kontrolliert er, wer in die Bar ein- und rausgeht. Um 20:00 Uhr kommen die meisten Gäste. Der DJ spielt dann elektronische Musik und die Leute tanzen. Alexander begrüßt die neuen Gäste. Er kontrolliert die Ausweise. Man muss mindestens 18 Jahre alt sein, um in die Bar zu kommen. Es gibt Menschen, die ihren Ausweis fälschen. Dann muss Alexander die Polizei anrufen. Heute sind fast alle Gäste über 30 Jahre alt. Um 22:30 Uhr wird es in der Bar laut. Ein paar Leute stehen vor der Bar und rauchen Zigaretten. Alexander merkt sich die Gesichter. Sie gehen nach dem Rauchen wieder zurück in die Bar. Gläser dürfen die Gäste nicht mit nach draußen nehmen. Der Türsteher erinnert sie oft daran. Um 01:00 Uhr morgens ruft ein Kellner um Hilfe. Ein betrunkener Mann ist aggressiv. Er schreit und wirft leere Gläser auf den Kellner. Es ist Alexanders Aufgabe, den Mann aus der Bar zu bringen. Er nimmt den Mann am Arm. Dieser beschimpft Alexander, aber es ist ihm egal. Um 04:00 Uhr morgens schließt die Bar. Es war eine lange Nacht für Alexander und er ist müde. Er liebt seinen Job. Die meiste Zeit",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "c328NS-r3gw": {
+  "channel": "Peppa Pig Deutsch - Offizieller Kanal",
+  "lang": "de",
+  "checked": "2026-11-13T15:34:16+00:00",
+  "title": "Peppa Wutz STREICHT Danny Dogs Zimmer! 🎨 | Piratenzimmer | Neue Ganze Folgen",
+  "duration": 3777,
+  "published": "20261112",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 111.7,
+  "rare": 0.1065,
+  "var": 0.7989,
+  "speech_s": 3690.5,
+  "tokens": 6871,
+  "kw": [
+   [
+    "hallo",
+    "Hallo. Hallo Klausi.",
+    6,
+    12,
+    5.06,
+    80
+   ],
+   [
+    "frau",
+    "Willkommen, Frau Schmetterling. Ich sehe, sie haben die Dachterrasse",
+    673,
+    681,
+    5.66,
+    29
+   ],
+   [
+    "kinder",
+    "Kinder Peppa und George haben ihre Rollschuhe",
+    287,
+    295,
+    5.6,
+    25
+   ],
+   [
+    "euch",
+    "euch. Malt mal die Wände an.",
+    108,
+    113,
+    5.71,
+    24
+   ],
+   [
+    "papa",
+    "Tschüss, Papa. Was bedeutet das denn? Zimmer",
+    19,
+    25,
+    4.46,
+    63
+   ],
+   [
+    "george",
+    "Peppa und George haben ihre Rollschuhe",
+    291,
+    295,
+    4.58,
+    55
+   ],
+   [
+    "mama",
+    "Mama Cleff streicht die Decke mit einer",
+    98,
+    105,
+    4.68,
+    37
+   ],
+   [
+    "pizza",
+    "Pizza, Pizza. Es ist Mittagessenszeit.",
+    2428,
+    2437,
+    4.3,
+    25
+   ],
+   [
+    "bulle",
+    "Da kommt Herr Bulle. Er will das Dach",
+    832,
+    840,
+    3.61,
+    16
+   ],
+   [
+    "madame",
+    "Madame Gazelle hat die Aufsicht. Immer schön rund und rund im Kreisom.",
+    282,
+    291,
+    3.87,
+    14
+   ],
+   [
+    "schmetterling",
+    "Oh, seht mal, ein Schmetterling. Willkommen, Frau Schmetterling.",
+    670,
+    678,
+    3.67,
+    8
+   ],
+   [
+    "bücherei",
+    "Peppa besucht heute die Bücherei. Am",
+    813,
+    819,
+    3.64,
+    8
+   ],
+   [
+    "steinzeit",
+    "Steinzeit Oma. Peppa und George besuchen heute Oma und",
+    3237,
+    3244,
+    3.49,
+    10
+   ],
+   [
+    "meerschweinchen",
+    "wir haben Meerschweinchen. Können wir die Meerschweinchen",
+    2284,
+    2290,
+    3.32,
+    8
+   ],
+   [
+    "schmetterlinge",
+    "Schmetterlinge. Heute besucht Dr. Hamster die",
+    2968,
+    2974,
+    3.59,
+    7
+   ],
+   [
+    "raupe",
+    "Schaut her, es ist eine Raupe.",
+    2996,
+    3002,
+    3.31,
+    7
+   ],
+   [
+    "wutz",
+    "Oma und Opa Wutz. Hallo Oma und Opa. Hallo meine kleinen",
+    544,
+    552,
+    2.39,
+    56
+   ],
+   [
+    "peppa",
+    "Heute besucht Peppa Klausi Cleff zu",
+    3,
+    7,
+    2.17,
+    53
+   ],
+   [
+    "gänseblümchen",
+    "Butterblumen, Gänseblümchen und Löwentahn.",
+    1888,
+    1895,
+    2.85,
+    11
+   ],
+   [
+    "gazelle",
+    "Madame Gazelle hat die Aufsicht. Immer schön rund und rund im Kreisom.",
+    282,
+    291,
+    2.88,
+    9
+   ]
+  ],
+  "tx": "Klausys Piratenzimmer. Heute besucht Peppa Klausi Cleff zu Hause. Hallo. Hallo Klausi. Peppa, du kommst gerade recht zum helfen. Wir wollen nämlich heute Klausys Zimmer renovieren. Das macht bestimmt Spaß. Also dann bis später, Peppa. Tschüss, Papa. Was bedeutet das denn? Zimmer renovieren? Das ist wie in den Fernsehshows. Danach sieht das Zimmer komplett verändert aus. Oh. Mein Zimmer wird ein Piratenzimmer. Har, ein Piratenbett habe ich schon. Wow, stimmt genau. Heute wollen wir das ganze Zimmer renovieren. An die Wände malen wir das weite Meer und an die Decke einen Sternenhimmel. Wenn ich … Peppa. Hallo noch mal Papa. Hallo noch mal Emily. Was für eine Überraschung, die hier zu sehen. Tag. Endlich ist diese Babymusik zu Ende und jetzt spielen wir was cooles. Hier habe ich genau das Richtige. Könnt ihr jetzt bitte eine Kartoffel zwei Kartoffeln spielen? Eine Kartoffel, zwei Kartoffel, dre f Kartoffel, sechs Kartoffeln, alle sch Beim nächsten Mal müssen wir mit unserer Musik aber schneller sein. Ja, ich halte sie abspielbereit. Sch. Wow. Klausi kann ja schon rückwärts. Boah, wie machst du das denn? Ich weiß auch nicht. Schnell, es ist vorbei. Leg unsere auf. Yeah, jetzt ist Zeit … und George lieben das Insektenhotel. Alle kleinen Insekten lieben das Insektenhotel. Frau Mümmels Rettung. Peppa besucht heute die Bücherei. Am Empfang sitzt Frau Mümmel. Hallo Peppa und George. Halli hallo Frau Mümmel. In der Bücherei ist man ganz besonders leise, damit alle in Ruhe ihre Bücher lesen können. Da kommt Herr Bulle. Er will das Dach der Bücherei reparieren. Entschuldigung, Frau Mümmel. Ich repariere nur das Dach. Aber bitte ohne dabei Krach zu machen. Das hier ist eine Bücherei. Okay. Das Rettungsdiensttelefon. Hallo, wo brennt es denn, Frau Mümmel? Die Schildkröte Knips ist … Zeit den ganzen Tag. Ah, mir ist total langweilig. Opa. Oh, was ist das? Das sieht ja aus wie das Schloss von einer Fee. Da ist eine Windmühle und ein Dinosaurier. Das ist Kitty Golf Peppa. Das ist extra für kleine Kinder. Aber Opa, wir sind doch kleine Kinder. Oh, das stimmt. Das seid ihr wohl. Na gut, dann spielt ihr mal Kittyf. Das ist der Kittdy Golfplatz. Wie spielt man das? Also, ich glaube, das könnte Spaß machen. Der Ball muss erst durch die Windmühle dadurch über den Dinosaurier drüber, hinauf auf das Feehenschloss und in das Loch. Ich will zuerst. Du bist dran, George. Das macht … Herrlich, diese Ruhe. Jetzt kann ich endlich vernünftig arbeiten. Mama Wutz arbeitet gern an ihrem Computer. Hallo. Hallo, Mama Wutz. Haben Sie heute schon was vor? Ich arbeite an meinem Computer. Oh, das ist gar nicht gut. Computer führen zu Stress. Kommen Sie lieber in meinen Entspannungskurs. Entspannungskurs? Was ist das? Da lernen sie loszulassen und ihren inneren Frieden zu finden. Danach fühlen sie sich großartig. Ehrlich gesagt, das hört sich gut an. Okay, wir sehen uns im Sportzentrum. Das ist das Sportzentrum. Frau Mümmel ist hier die Leiterin. Hallo, Frau Mümmel. Hallo, … Fertig. Hallo, Gänseblümchenkönigin Peppa. Ja, Gänseblümchenkönigin, das bin ich. Schaut mich an. Nein, George, ich bin hier die Königin. Du kannst ja was anderes sein. Oh. George, du kannst ein Löwe sein und deine Löwenmähne, die ist aus Löwenzahn. George, der Löwenzahnlöwe. George, gefällt es ein Löwe zu sein? Kinder, Essen wartet auf euch. Guckt mal, ich bin die Gäneblümchenkönigin und das ist George der Löwe. W und ich weiß einen Trick, um zu sehen, ob du Butter magst. Wirklich? Ja, du magst gern Butter. Und ob. Das ist wirklich ein guter Trick. Peppa, darf ich mal? Hm. Ja, … gern Ananas auf der Pizza. Ananas auf der Pizza? Nein, das geht gar nicht. Ich glaube, Ananas auf der Pizza ist sogar verboten. So. Ein Unsinn. Natürlich ist Ananas auf der Pizza nicht verboten. Ähm, Papa, dürfen wir lustige Gesichter auf unsere Pizza legen? Na klar machen wir das. Aber bevor wir anfangen, waschen wir uns alle noch gründlich die Hände. Schäum die Hände ein, Wasser wäscht sie rein. Blit die Platsche die Blitze, die blank und sauber soll sie sein. Dann noch schön den Tisch abwischen und die Schürzen nicht vergessen. Fein. Jetzt machen wir Pizza. Pizza. Pizza. Peppa, George, … Lieben damit sehr glücklich machen. Es ist Abholzeit. Mami, Mami, wir haben Valentinskarten für dich und Papa gebastelt. Ah, wie schön. Peppa und George sind zu Hause angekommen. Fröhlichen Valentinstag, Papa für mich. Ja, fantastisch. Ist denn Mamas Karte schon gekommen? Nein, noch nicht. Ah, Herr Zebra, viel zu tun. Viel zu tun kann man wohl sagen. Schauen Sie mal, der Sack voll mit Valentinskarten. Haben Sie auch eine Karte für mich? Nein, eine Karte habe ich nicht für Sie. Oh, für Sie habe ich einen ganzen Sack voll. Oh, Papa Wutz hat hunderte von Valentins Karten bekommen. Alle für … sind in der Steinzeit. Schaut euch mal an, was wir im Garten machen. Hört mal her, hier sind Steinzeitpper und George. Hallo, wir graben uns mit Steinzeitwerkzeug in eine Höhle. Warum nehmen Sie nicht Eimer und Schaufel? Eimer und Schaufel gab es damals noch nicht. Wisst ihr, wir machen heute alles genauso wie die Leute in der Steinzeit. Heißer Tee für durstige Steinzeitmenschen. Gab es in der Steinzeit denn schon Tee? Äh nicht wirklich, aber ich bin sicher, wenn sie welchen gehabt hätten, hätten Sie ihn auch getrunken. Äh ja, ja. Die ganze Buddelei hat mich ziemlich hungrig gemacht. Mich … Dafür gibt es nur eine Lösung. Welche denn? Wir reißen den Boden auf. Hallo, Herr Bulle. Ich komme jetzt zurück. Ist alles in Ordnung? Ja, ja, ich habe alles unter Kontrolle. Wir sehen uns. Tretet zurück, Kinder. Bulle repariert den Holzboden. Madame Gazelle kommt vom Zahnarzt zurück. Ah, Herr Bulle, was machen Sie mit der Spielgruppe? Bulle repariert den quiekenden Holzboden. Das stimmt. Schauen Sie, kein Quietschen mehr. Das liegt daran, dass gar kein Holzboden mehr da ist. Oh ja. Machen Sie bitte alles wieder so, wie es vorher war. Sie haben recht. Herr Bulle liebt es Sachen zu reparieren.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "vDsBRkLP2g8": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:52:17+00:00",
+  "title": "#846 Felix als Rasenmäher - [Deutsch lernen durch Hören] @DldH Deutsch lernen mit Geschichten #dldh",
+  "duration": 143,
+  "published": "20241130",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 128.7,
+  "rare": 0.0372,
+  "var": 0.8218,
+  "speech_s": 125.4,
+  "tokens": 269,
+  "kw": [
+   [
+    "arbeit",
+    "wird. Es ist eine heiße und anstrengende Arbeit, aber Felix ist stolz darauf,",
+    30,
+    37,
+    5.57,
+    7
+   ],
+   [
+    "sagt",
+    "\"Das hast du sehr gut gemacht\", sagt sein Chef. \"Der Rasen sieht toll aus.\"",
+    77,
+    84,
+    5.59,
+    4
+   ],
+   [
+    "chef",
+    "fragt sein Chef, der gerade vorbeikommt. \"Mir geht's gut, danke\", antwortet Felix.",
+    70,
+    78,
+    4.92,
+    4
+   ],
+   [
+    "danke",
+    "fragt sein Chef, der gerade vorbeikommt. \"Mir geht's gut, danke\", antwortet Felix.",
+    70,
+    78,
+    5.64,
+    3
+   ],
+   [
+    "felix",
+    "Felix als Rasenmäher Felix arbeitet als Rasenmäher und ist heute für ein großes Grundstück",
+    9,
+    17,
+    4.4,
+    11
+   ],
+   [
+    "fährt",
+    "unterwegs. Er fährt seinen Rasenmäher auf den Rasen und beginnt, das Gras zu mähen.",
+    16,
+    24,
+    4.78,
+    2
+   ],
+   [
+    "fragt",
+    "fragt sein Chef, der gerade vorbeikommt. \"Mir geht's gut, danke\", antwortet Felix.",
+    70,
+    78,
+    4.69,
+    2
+   ],
+   [
+    "gras",
+    "unterwegs. Er fährt seinen Rasenmäher auf den Rasen und beginnt, das Gras zu mähen.",
+    16,
+    24,
+    4.26,
+    2
+   ],
+   [
+    "rasen",
+    "unterwegs. Er fährt seinen Rasenmäher auf den Rasen und beginnt, das Gras zu mähen.",
+    16,
+    24,
+    4.12,
+    4
+   ],
+   [
+    "antwortet",
+    "fragt sein Chef, der gerade vorbeikommt. \"Mir geht's gut, danke\", antwortet Felix.",
+    70,
+    78,
+    4.08,
+    2
+   ],
+   [
+    "rasenmäher",
+    "Felix als Rasenmäher Felix arbeitet als Rasenmäher und ist heute für ein großes Grundstück",
+    9,
+    17,
+    3.26,
+    5
+   ]
+  ],
+  "tx": "Felix als Rasenmäher Felix arbeitet als Rasenmäher und ist heute für ein großes Grundstück unterwegs. Er fährt seinen Rasenmäher auf den Rasen und beginnt, das Gras zu mähen. Er bewegt den Rasenmäher hin und her und achtet darauf, dass das Gras gleichmäßig geschnitten wird. Es ist eine heiße und anstrengende Arbeit, aber Felix ist stolz darauf, einen schönen Rasen hinterlassen zu haben. Nachdem er die Arbeit erledigt hat, lädt er den Rasenmäher in den Transporter und fährt zu einem anderen Kunden. Dort angekommen, beginnt er mit der Arbeit auf dem nächsten Rasen. Nach einigen Stunden Arbeit hält Felix kurz an, um eine Pause zu machen. Er trinkt etwas Wasser und setzt sich in den Schatten eines Baumes. Er genießt die Ruhe und die frische Luft. \"Hey, Felix! Wie geht es dir?\", fragt sein Chef, der gerade vorbeikommt. \"Mir geht's gut, danke\", antwortet Felix. \"Das hast du sehr gut gemacht\", sagt sein Chef. \"Der Rasen sieht toll aus.\" \"Danke, das freut mich\", sagt Felix. \"Wir haben heute noch ein paar Aufträge. Bist du bereit?\", fragt sein Chef. \"Ja, ich bin bereit\", sagt Felix und steht auf. Er erreicht den nächsten Ort, der fünf Minuten entfernt ist. Hier ist eine sehr große Wiese, auf der es weder Bäume noch sonst etwas gibt. Felix ist sehr schnell mit der Arbeit an diesem Ort fertig. Als er am Ende des Tages in sein Büro zurückkehrt, ist er müde, aber glücklich. Er weiß, dass die Kunden mit seiner Arbeit zufrieden sein werden. \"Felix, du hast heute wirklich großartige Arbeit geleistet\", sagt sein Chef, als er zurückkommt. \"Danke, das bedeutet mir sehr viel\", antwortet Felix.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "i1UnkjITsZo": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:55:51+00:00",
+  "title": "#829 Jessica als Schriftstellerin - Berufe mit Geschichten zum Lesen & Hören | #DldH #learngerman",
+  "duration": 158,
+  "published": "20241023",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 120.7,
+  "rare": 0.0327,
+  "var": 0.8565,
+  "speech_s": 136.7,
+  "tokens": 275,
+  "kw": [
+   [
+    "buch",
+    "Jessica ist gerade dabei, ihr fünftes Buch zu schreiben. Sie verkauft schon zwei alleinstehende",
+    12,
+    21,
+    5.22,
+    6
+   ],
+   [
+    "serie",
+    "Bücher und zwei Bücher einer Serie. Gerade schreibt sie das dritte Buch dieser Serie.",
+    20,
+    28,
+    4.92,
+    3
+   ],
+   [
+    "bücher",
+    "Bücher und zwei Bücher einer Serie. Gerade schreibt sie das dritte Buch dieser Serie.",
+    20,
+    28,
+    4.83,
+    3
+   ],
+   [
+    "gerade",
+    "Jessica ist gerade dabei, ihr fünftes Buch zu schreiben. Sie verkauft schon zwei alleinstehende",
+    12,
+    21,
+    5.77,
+    2
+   ],
+   [
+    "verlag",
+    "hat sie den Thriller bei einem Verlag eingereicht,",
+    51,
+    55,
+    4.75,
+    2
+   ],
+   [
+    "kapitel",
+    "sie. Doch meistens folgt darauf eine schlaflose Nacht, in der sie mehrere Kapitel schreibt.",
+    101,
+    109,
+    4.44,
+    2
+   ],
+   [
+    "handlung",
+    "Jessica wird oft gefragt, woher sie die Inspiration für die Handlung",
+    74,
+    79,
+    4.43,
+    2
+   ],
+   [
+    "jessica",
+    "Jessica als Schriftstellerin Jessica ist gerade dabei, ihr fünftes Buch zu schreiben. Sie verkauft schon zwei alleinstehende",
+    9,
+    21,
+    3.92,
+    6
+   ],
+   [
+    "thriller",
+    "Jessica ist auf Thriller spezialisiert. Sie hat selbst schon immer dieses Genre geliebt. Sie",
+    27,
+    36,
+    3.86,
+    2
+   ],
+   [
+    "schriftstellerin",
+    "Jessica als Schriftstellerin Jessica ist gerade dabei, ihr fünftes Buch zu schreiben. Sie verkauft schon zwei alleinstehende",
+    9,
+    21,
+    3.58,
+    2
+   ]
+  ],
+  "tx": "Jessica als Schriftstellerin Jessica ist gerade dabei, ihr fünftes Buch zu schreiben. Sie verkauft schon zwei alleinstehende Bücher und zwei Bücher einer Serie. Gerade schreibt sie das dritte Buch dieser Serie. Jessica ist auf Thriller spezialisiert. Sie hat selbst schon immer dieses Genre geliebt. Sie liebt die Spannung. Also hat sie eines Tages beschlossen, ihr eigenes Buch zu schreiben. Es dauerte Monate, bis es fertig war, aber dafür hat es umso mehr Spaß gemacht. Dann hat sie den Thriller bei einem Verlag eingereicht, hat jedoch eine Absage bekommen. Doch sie versuchte es wieder und hatte Erfolg. Mittlerweile kann sie sehr gut von den Einnahmen ihrer Bücher leben. Sie arbeitet nun als Schriftstellerin bei demselben Verlag, der ihr erstes Buch veröffentlicht hat. Jessica wird oft gefragt, woher sie die Inspiration für die Handlung nimmt. Sie wird in allen möglichen Situationen inspiriert. Zum Beispiel bei einem Spaziergang, von einer Serie oder einem Film, von einem Buch, von Musik oder sogar von Träumen. Manchmal hat Jessica jedoch keine Ideen und kann einige Tage nicht weiterschreiben. Das frustriert sie. Doch meistens folgt darauf eine schlaflose Nacht, in der sie mehrere Kapitel schreibt. Sie hat immer wieder Deadlines, an denen sie ein weiteres Kapitel abgeben muss. Das wird dann gelesen und Jessica bekommt Feedback. Auch Meetings finden regelmäßig statt. Hier können Vorschläge gemacht oder Fehler in der Handlung des Buches angesprochen werden. Forschung und Recherche sind ein großer Teil Jessicas Arbeit. Sie hat auch schon mit Wissenschaftlern oder Detektiven zusammengearbeitet, um ihre Geschichten möglichst real wirken zu lassen. Bevor das Buch auf den Markt kommt, muss es genau verbessert werden. Außerdem darf es auch keine Fehler in der Logik geben.",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "mOc7zAaEMaU": {
+  "channel": "Learn German by Listening (DldH)",
+  "lang": "de",
+  "checked": "2026-11-13T15:58:29+00:00",
+  "title": "#809 Jan als Schauspieler - Berufe mit Geschichten zum Lesen & Hören [Deutsch lernen durch Hören]",
+  "duration": 135,
+  "published": "20240913",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 119.3,
+  "rare": 0.042,
+  "var": 0.8921,
+  "speech_s": 119.7,
+  "tokens": 238,
+  "kw": [
+   [
+    "uhr",
+    "Jans Arbeitstag beginnt früh um 05:00 Uhr am Morgen und endet erst um 20:00 Uhr. Wenigstens",
+    10,
+    20,
+    5.67,
+    4
+   ],
+   [
+    "seinen",
+    "wird Jan auch schon vor der Kamera gebraucht. Seinen Text hat er schon auswendig gelernt,",
+    57,
+    65,
+    5.72,
+    2
+   ],
+   [
+    "ins",
+    "weg und die Anfahrt würde zu viel Zeit kosten. In der Maske bekommt er heute einige Wunden ins",
+    34,
+    44,
+    5.68,
+    2
+   ],
+   [
+    "morgen",
+    "Jans Arbeitstag beginnt früh um 05:00 Uhr am Morgen und endet erst um 20:00 Uhr. Wenigstens",
+    10,
+    20,
+    5.43,
+    2
+   ],
+   [
+    "jan",
+    "Jan als Schauspieler Jans Arbeitstag beginnt früh um 05:00 Uhr am Morgen und endet erst um 20:00 Uhr. Wenigstens",
+    8,
+    20,
+    4.66,
+    5
+   ],
+   [
+    "gebraucht",
+    "wird Jan auch schon vor der Kamera gebraucht. Seinen Text hat er schon auswendig gelernt,",
+    57,
+    65,
+    4.6,
+    2
+   ],
+   [
+    "szenen",
+    "meisten Szenen mehrere Takes aufgenommen werden, bis der Regisseur zufrieden ist.",
+    70,
+    77,
+    4.31,
+    2
+   ],
+   [
+    "maske",
+    "muss er nur ein paar Meter gehen, bis er in der Maske angekommen ist. Denn heute hat er",
+    19,
+    27,
+    4.12,
+    2
+   ]
+  ],
+  "tx": "Jan als Schauspieler Jans Arbeitstag beginnt früh um 05:00 Uhr am Morgen und endet erst um 20:00 Uhr. Wenigstens muss er nur ein paar Meter gehen, bis er in der Maske angekommen ist. Denn heute hat er in einem Trailer geschlafen, da sie zwei Tage in den Bergen drehen. Das nächste Hotel ist zu weit weg und die Anfahrt würde zu viel Zeit kosten. In der Maske bekommt er heute einige Wunden ins Gesicht geschminkt. Dann muss er sein Outfit für den heutigen Drehtag anziehen und geht zum Frühstücksbuffet. Es ist nicht viel, aber genug für alle am Set. Nach einer kurzen Besprechung wird Jan auch schon vor der Kamera gebraucht. Seinen Text hat er schon auswendig gelernt, dennoch verspricht er sich manchmal oder fängt an zu lachen. Daher müssen für die meisten Szenen mehrere Takes aufgenommen werden, bis der Regisseur zufrieden ist. Um 20:00 Uhr ist Drehschluss. Danach versammeln sich alle zum Abendessen, bevor sie spätestens um 22:00 Uhr müde ins Bett fallen. Die meisten Arbeitstage dauern mindestens 12 Stunden, auch wenn Jan davon viel Zeit mit Warten verbringt. Denn bei vielen Szenen wird er nicht gebraucht. In diesen Pausen geht Jan meistens seinen Text durch, schaut sich Filme auf Netflix auf seinem Handy an oder redet mit Kollegen. An manchen Drehtagen wird Jan gar nicht benötigt, sodass er einen oder mehrere freie Tage hat. Morgen werden sie nach Hause fahren, denn die Dreharbeiten sind hier vorbei. Sie werden im Filmstudio fortgesetzt.",
   "gist": "w",
   "status": "ok",
   "src": "cc"
