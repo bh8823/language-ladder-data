@@ -12567,7 +12567,7 @@
  "BZVRgZ5Dg68": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-06T02:59:12+00:00",
+  "checked": "2026-11-14T01:04:34+00:00",
   "title": "Putin hat plötzlich ein Problem! Warum?",
   "duration": 812,
   "published": "20260801",
@@ -12575,72 +12575,41 @@
   "spoken_v": 2,
   "pace": 176.7,
   "rare": 0.0732,
+  "var": 0.8721,
   "speech_s": 746.5,
   "tokens": 2199,
   "kw": [
    [
-    "wladimir",
-    "Probleme für Wladimir Putin. Seine Zustimmungswerte in Russland schwanken.",
-    0,
-    5,
-    3.87,
-    13
+    "russland",
+    "Seine Zustimmungswerte in Russland schwanken. Sprit wird an vielen Tankstellen im Land knapp.",
+    2,
+    7,
+    4.99,
+    25
    ],
    [
-    "tankstellen",
+    "land",
     "Sprit wird an vielen Tankstellen im Land knapp.",
     4,
     7,
-    3.49,
-    4
+    5.47,
+    10
    ],
    [
-    "1990er",
-    "in den 1990er- und Anfang der 2000er-Jahre",
-    125,
-    128,
-    2.4,
-    2
-   ],
-   [
-    "gesunkene",
-    "Drittens eine gesunkene Nachfrage wegen immer höherer Verbraucherpreise.",
-    330,
-    335,
-    2.62,
-    2
-   ],
-   [
-    "angriffskrieg",
-    "Und der Angriffskrieg in der Ukraine geht auch nicht mehr wirklich voran.",
-    9,
-    13,
-    2.69,
-    2
-   ],
-   [
-    "sprit",
-    "Sprit wird an vielen Tankstellen im Land knapp.",
-    4,
-    7,
-    3.46,
-    3
-   ],
-   [
-    "verluste",
-    "Aber die russischen Verluste übersteigen das deutlich.",
-    537,
-    540,
-    4.19,
+    "allem",
+    "Trotz Sanktionen, vor allem aus dem Westen,",
+    289,
+    292,
+    5.58,
     7
    ],
    [
-    "staatsgebiet",
-    "sondern auch auf dem Staatsgebiet des Angreifers,",
-    376,
-    380,
-    3.18,
-    2
+    "bisher",
+    "Niemand hat es bisher geschafft, Wladimir Putin ernsthaft gefährlich zu werden.",
+    168,
+    173,
+    5.26,
+    7
    ],
    [
     "putin",
@@ -12649,14 +12618,6 @@
     5,
     4.39,
     27
-   ],
-   [
-    "russland",
-    "Seine Zustimmungswerte in Russland schwanken. Sprit wird an vielen Tankstellen im Land knapp.",
-    2,
-    7,
-    4.99,
-    25
    ],
    [
     "ukraine",
@@ -12683,34 +12644,98 @@
     11
    ],
    [
-    "land",
+    "wladimir",
+    "Probleme für Wladimir Putin. Seine Zustimmungswerte in Russland schwanken.",
+    0,
+    5,
+    3.87,
+    13
+   ],
+   [
+    "verluste",
+    "Aber die russischen Verluste übersteigen das deutlich.",
+    537,
+    540,
+    4.19,
+    7
+   ],
+   [
+    "militärische",
+    "militärische Produktionsanlagen, Logistikziele, militärische Stützpunkte und ähnliche Ziele",
+    403,
+    409,
+    4.12,
+    3
+   ],
+   [
+    "spürbar",
+    "des Landes und auch der Bevölkerung spürbar verbessert.",
+    245,
+    249,
+    3.81,
+    3
+   ],
+   [
+    "tankstellen",
     "Sprit wird an vielen Tankstellen im Land knapp.",
     4,
     7,
-    5.47,
-    10
+    3.49,
+    4
    ],
    [
-    "bisher",
-    "Niemand hat es bisher geschafft, Wladimir Putin ernsthaft gefährlich zu werden.",
-    168,
-    173,
-    5.26,
-    7
+    "sprit",
+    "Sprit wird an vielen Tankstellen im Land knapp.",
+    4,
+    7,
+    3.46,
+    3
    ],
    [
-    "allem",
-    "Trotz Sanktionen, vor allem aus dem Westen,",
-    289,
-    292,
-    5.58,
-    7
+    "treibstoff",
+    "Inzwischen ist in vielen Teilen von Russland der Treibstoff knapp.",
+    346,
+    350,
+    3.58,
+    2
+   ],
+   [
+    "weiterentwickeln",
+    "Entscheidend wird sein, wie sich die Probleme für Putin weiterentwickeln.",
+    770,
+    774,
+    3.42,
+    2
+   ],
+   [
+    "angriffskrieg",
+    "Und der Angriffskrieg in der Ukraine geht auch nicht mehr wirklich voran.",
+    9,
+    13,
+    2.69,
+    2
+   ],
+   [
+    "gesunkene",
+    "Drittens eine gesunkene Nachfrage wegen immer höherer Verbraucherpreise.",
+    330,
+    335,
+    2.62,
+    2
+   ],
+   [
+    "1990er",
+    "in den 1990er- und Anfang der 2000er-Jahre",
+    125,
+    128,
+    2.4,
+    2
    ]
   ],
-  "tx": "Probleme für Wladimir Putin. Seine Zustimmungswerte in Russland schwanken. Sprit wird an vielen Tankstellen im Land knapp. Die Wirtschaft gerät in Schwierigkeiten. Und der Angriffskrieg in der Ukraine geht auch nicht mehr wirklich voran. Wird es langsam ernst für den russischen Präsidenten? Oder ist das nur ein laues Lüftchen, das er entspannt übersteht? Und was bedeutet das alles für die Ukraine? Antworten darauf gibt es jetzt. (Lockere Musik) Wladimir Putin scheint sich um seine Sicherheit so große Sorgen zu machen wie selten zuvor. Er habe Angst davor, sich mit einem gefährlichen Virus anzustecken, heißt es aus seinem Umfeld. Angst, Opfer eines Staatsstreichs zu werden von russischen Eliten oder Angst vor einem Angriff gegen ihn mit Drohnen. Als Putin Ende Mai bei einem Wirtschaftstreffen in Kasachstan ist, sind nicht nur sehr viele Sicherheitsleute an seiner Seite, sondern unter anderem auch ein Drohnenabwehrsystem. Und ein Hubschrauber überwacht permanent von oben den Bereich, in dem sich der russische Präsident gerade auffällt. Zwar werden auch andere Staats- und Regierungschefs bei öffentlichen Auftritten stark geschützt, aber bei Wladimir Putin sind die Sicherheitsvorkehrungen seit einiger Zeit noch mal auf einem anderen Level. Medien berichten darüber, dass Putin sich teilweise wochenlang in riesigen Bunkeranlagen in Russland aufhalten würde, um geschützt zu sein. Und die traditionelle Militärparade am 9. Mai zur Feier des Siegs über das Nationalsozialistische Deutschland ist 2026 deutlich kleiner ausgefallen als in den Jahren zuvor. Aus Sorge vor Drohnenattacken aus der Ukraine. Gleichzeitig tritt Wladimir Putin aber immer noch als starker Mann in der Öffentlichkeit auf. Bei der jährlichen TV-Sendung \"Direkter Draht zu Wladimir Putin\" gibt er sich Ende 2025 vo",
+  "tx": "Probleme für Wladimir Putin. Seine Zustimmungswerte in Russland schwanken. Sprit wird an vielen Tankstellen im Land knapp. Die Wirtschaft gerät in Schwierigkeiten. Und der Angriffskrieg in der Ukraine geht auch nicht mehr wirklich voran. Wird es langsam ernst für den russischen Präsidenten? Oder ist das nur ein laues Lüftchen, das er entspannt übersteht? Und was bedeutet das alles für die Ukraine? Antworten darauf gibt es jetzt. (Lockere Musik) Wladimir Putin scheint sich um seine Sicherheit so große Sorgen zu machen wie selten zuvor. Er habe Angst davor, sich mit einem gefährlichen Virus … Gleichzeitig tritt Wladimir Putin aber immer noch als starker Mann in der Öffentlichkeit auf. Bei der jährlichen TV-Sendung \"Direkter Draht zu Wladimir Putin\" gibt er sich Ende 2025 volksnah und robust. Und wenn er Gebiete im Frontbereich besucht, zeigt er sich öffentlich entschlossen, den Krieg fortführen und gewinnen zu wollen. Gerüchte bei solchen Auftritten würden teilweise Doubels antreten, weist der Kreml, Dienstsitz des russischen Präsidenten, immer wieder zurück. Putin sei fit und gesund und brauche keine Doppelgänger, heißt es. Aber trotz all der immer wieder betonten … zu werden. Aber vielleicht ändert sich das jetzt durch eine Reihe an Problemen in Russland. Und diese Probleme drohen immer größer zu werden. Darunter leidet auch Putins Beliebtheit. Es ist schwierig, die Zustimmung zu seiner Politik in Russland unabhängig zu analysieren, aber diejenigen, die es versuchen, kommen auf einen erkennbaren Rückgang in den vergangenen zwölf Monaten. Das einzige vom russischen Staat unabhängige Meinungsforschungsinstitut, das Levada-Zentrum, kommt aktuell auf Werte von über 70 Prozent. Das ist im Vergleich mit anderen Staats- und Regierungschefs weltweit ein … hatte teilweise mit Putin und seiner Politik zu tun, andererseits aber auch mit Konjunkturbewegungen, die schon vor ihm begonnen hatten. Er ist sozusagen auf den fahrenden Zug aufgesprungen, und das sehr erfolgreich. Für viele Menschen in Russland ist Putin deshalb bis heute der Mann, der sie wohlhabender gemacht hat, der das Land aufbauen konnte und der in der Lage ist, es zu alter Stärke zurückzuführen. Von diesem Ruf profitiert Putin immer wieder. Umso schwieriger ist es für ihn, wenn es in eine andere Richtung geht. Noch bis einschließlich 2024 stand die russische Wirtschaft … die Energiewirtschaft. Inzwischen ist in vielen Teilen von Russland der Treibstoff knapp. Tankstellen müssen schließen oder Benzin und Diesel rationieren. Aber die Frage ist, wie kann das denn sein? Öl sollte es in Russland doch eigentlich genug geben, oder? Das bringt uns direkt zum nächsten Punkt, nämlich zu ... Seit viereinhalb Jahren verteidigt sich die Ukraine gegen die Vollinvasion Russlands. Und seit 2014 schon generell gegen russische Aggressionen. Und das inzwischen nicht mehr nur innerhalb des eigenen Landes, sondern auch auf dem Staatsgebiet des Angreifers, also auf russischem … Teilweise musste daraufhin der Betrieb komplett eingestellt werden, teilweise laufen die Anlagen nur mit reduzierter Leistung weiter. Von den knapp 90 russischen Regionen ist bisher ungefähr die Hälfte spürbar betroffen. In Nizhny Novgorod, Astrakhan oder Orjol musste zum Beispiel der Sprit rationiert werden. In anderen Regionen gab es zeitweise für private Autofahrer an den Tankstellen gar nichts mehr. Der Umfang der täglichen Ölverarbeitung ist auf den niedrigsten Wert seit mehr als 20 Jahren in Russland. Das ist natürlich ein Problem für die Bevölkerung, aber auch für die Wirtschaft. … Zum Vergleich, bei den ukrainischen Streitkräften sollen es zwischen 125.000 und 150.000 Todesopfer sein. Auch das ist natürlich eine unglaublich hohe Zahl. Aber die russischen Verluste übersteigen das deutlich. Und auch wenn es bei Kriegen in Anführungszeichen üblich ist, dass Angreifer mehr Verluste erleiden als diejenigen, die verteidigen, ist es wichtig, sich mal die Relationen vor Augen zu führen bei diesem Krieg. Die Zahl der russischen Verluste im Ukraine-Krieg ist neunmal höher als die aller anderen russischen und sowjetischen Kriege seit 1945. Und selbst wenn euch die Zahlen … teilweise auch dazu gezwungen, in der Ukraine zu kämpfen. Im Netz tauchen Videos auf, in denen Männer sozusagen von der Straße weg gegen ihren Willen eingesammelt werden. Das gibt es am Rande erwähnt auch in der Ukraine. Gleichzeitig lockt die Armee Studenten mit Geld und Versprechungen. Und auch im Ausland wird rekrutiert. Zum Beispiel in Indonesien und Malaysia. Das bleibt natürlich auch in Russland generell nicht unbemerkt. Besonders viel Kritik gibt es dabei an den Zwangsrekrutierungen. Die Videos auf Social-Media-Plattformen sorgen bei einigen Menschen in Russland für Empörung. Und die … von einem möglichen Kipppunkt und davon, dass Putin gegen Kritiker und Widersacher Zitat, Säuberungen im Land durchführen würde. Also, auch der Verlauf des Krieges und die hohen Verluste üben Druck auf Wladimir Putin aus. Aber bedeutet das im Umkehrschluss deshalb auch, Russland ist dabei, den Krieg gegen die Ukraine zu verlieren? Bei dieser Frage sind sich die meisten Experten einig. Nein, das ist nicht der Fall. Nach wie vor hat Russland ausreichend Geld. Rund 40 Prozent des Staatshaushalts fließen in Krieg, Rüstung und Sicherheit. Waffen und anderes Kriegsmaterial gibt es ausreichend … westlicher Länder für die Ukraine anhält oder noch ausgebaut wird. Denn auch das gehört dazu. Die Ukraine leidet stark unter den russischen Angriffen. Es wird immer schwieriger, die Verteidigung aufrechtzuerhalten. Was denkt ihr, wie wird sich die Situation weiterentwickeln? Schreibt es gerne unten in die Kommentare. Bitte bleibt dabei sachlich und fair. Neben mir findet ihr ein älteres Video zu den Kriegszielen von Putin. Darunter eins über ein völlig anderes Land, in dem es gerade massive Proteste gibt, nämlich über Albanien. Schaut da auch gerne mal rein. Danke dafür, danke fürs Zuschauen.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.9088
+  "src": "cc"
  },
  "Hm67zYBzf4I": {
   "channel": "tagesschau",

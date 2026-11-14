@@ -38652,7 +38652,7 @@
  "zWKWlEKuZ1M": {
   "channel": "Fingtam English",
   "lang": "en",
-  "checked": "2026-11-06T02:31:27+00:00",
+  "checked": "2026-11-14T00:30:41+00:00",
   "title": "EASY English: Imaginary Friend",
   "duration": 308,
   "published": "20241109",
@@ -38660,65 +38660,10 @@
   "spoken_v": 2,
   "pace": 86.5,
   "rare": 0.0135,
+  "var": 0.7245,
   "speech_s": 309.3,
   "tokens": 446,
   "kw": [
-   [
-    "clown",
-    "about a girl clown he imagines what she",
-    58,
-    67,
-    3.93,
-    9
-   ],
-   [
-    "psychologist",
-    "psychologist a psychologist is a doctor who studies the",
-    156,
-    167,
-    3.8,
-    5
-   ],
-   [
-    "bob's",
-    "not like Bob's clown friend they think that guy is weird and",
-    104,
-    120,
-    3.22,
-    2
-   ],
-   [
-    "imaginary",
-    "is smiling Bob has a new imaginary",
-    79,
-    91,
-    3.79,
-    3
-   ],
-   [
-    "bubble",
-    "bubble but look all the other people do",
-    99,
-    109,
-    4.16,
-    2
-   ],
-   [
-    "bored",
-    "Bored then Bob has an idea he thinks",
-    53,
-    65,
-    4.2,
-    2
-   ],
-   [
-    "lonely",
-    "think he is crazy Bob feels lonely and",
-    252,
-    265,
-    4.25,
-    2
-   ],
    [
     "friend",
     "thinks she could be my friend you see",
@@ -38752,47 +38697,87 @@
     4
    ],
    [
-    "understand",
-    "understand English I want you to understand",
-    7,
-    20,
-    5.37,
-    3
-   ],
-   [
-    "together",
-    "together uh-oh the police are here and",
-    129,
-    141,
-    5.46,
-    3
-   ],
-   [
-    "straight",
-    "straight jacket a straight jacket is a device that is",
-    208,
-    220,
-    5.04,
-    3
-   ],
-   [
     "jacket",
     "straight jacket a straight jacket is a device that is",
     208,
     220,
     4.32,
     3
+   ],
+   [
+    "tells",
+    "psychologist tells Bob that his imaginary friend is not real the",
+    166,
+    182,
+    4.78,
+    2
+   ],
+   [
+    "thinks",
+    "Bored then Bob has an idea he thinks",
+    53,
+    65,
+    4.78,
+    2
+   ],
+   [
+    "lonely",
+    "think he is crazy Bob feels lonely and",
+    252,
+    265,
+    4.25,
+    2
+   ],
+   [
+    "clown",
+    "about a girl clown he imagines what she",
+    58,
+    67,
+    3.93,
+    9
+   ],
+   [
+    "psychologist",
+    "psychologist a psychologist is a doctor who studies the",
+    156,
+    167,
+    3.8,
+    5
+   ],
+   [
+    "imaginary",
+    "is smiling Bob has a new imaginary",
+    79,
+    91,
+    3.79,
+    3
+   ],
+   [
+    "bubble",
+    "bubble but look all the other people do",
+    99,
+    109,
+    4.16,
+    2
+   ],
+   [
+    "bob's",
+    "not like Bob's clown friend they think that guy is weird and",
+    104,
+    120,
+    3.22,
+    2
    ]
   ],
-  "tx": "hi I am Aaron and I'm here to help you understand English I want you to understand everything this is a man he is wearing a white T-shirt and for some reason he does not have a nose I don't know what his name is so I will call him Bob Bob is sitting at a table with nothing on it the table is empty and Bob has his chin in his hand Bob is Bored then Bob has an idea he thinks about a girl clown he imagines what she looks like and he thinks she could be my friend you see now Bob is not bored now Bob is happy he is smiling Bob has a new imaginary friend you see the clown girl is not real he is thinking of her or imagining her that's why she is in this thought bubble but look all the other people do not like Bob's clown friend they think that guy is weird and maybe they're right but look how happy Bob is he is holding hands with his new clown friend and they are very happy together uh-oh the police are here and they are not happy look Bob and his clown friend are scared they are afraid because they don't want the police to them in jail this man is a psychologist a psychologist is a doctor who studies the brain and the mind the psychologist tells Bob that his imaginary friend is not real the psychologist uses his hand to sweep away the thought bubble that Bob's clown friend was in Bob is very sad he is frowning because he misses his clown friend the psychologist tells Bob you are crazy and look they put him in a straight jacket a straight jacket is a device that is used to hold your arms in place it's for crazy people so that they don't hurt themselves and now Bob is alone in a room he has his straight jacket on so he cannot use his arms he has no shoes and the room is petted so that he cannot hit his head and hurt himself they put Bob in this room because they think he is cra",
+  "tx": "hi I am Aaron and I'm here to help you understand English I want you to understand everything this is a man he is wearing a white T-shirt and for some reason he does not have a nose I don't know what his name is so I will call him Bob Bob is sitting at a table with nothing on it the table is empty and Bob has his chin in his hand Bob is Bored then Bob has an idea he thinks about a girl clown he imagines what she looks like and he thinks she could be my friend you see now Bob is not bored now Bob is happy he is smiling Bob has a new imaginary friend you see the clown girl is not real he is thinking of her or imagining her that's why she is in this thought bubble but look all the other people do not like Bob's clown friend they think that guy is weird and maybe they're right but look how happy Bob is he is holding hands with his new clown friend and they are very happy together uh-oh the police are here and they are not happy look Bob and his clown friend are scared they are afraid because they don't want the police to them in jail this man is a psychologist a psychologist is a doctor who studies the brain and the mind the psychologist tells Bob that his imaginary friend is not real the psychologist uses his hand to sweep away the thought bubble that Bob's clown friend was in Bob is very sad he is frowning because he misses his clown friend the psychologist tells Bob you are crazy and look they put him in a straight jacket a straight jacket is a device that is used to hold your arms in place it's for crazy people so that they don't hurt themselves and now Bob is alone in a room he has his straight jacket on so he cannot use his arms he has no shoes and the room is petted so that he cannot hit his head and hurt himself they put Bob in this room because they think he is crazy Bob feels lonely and sad but look even in the padded room for crazy people Bob can still imagine his imaginary friend the clown and now he is not alone anymore he does not feel lonely Bob and the clown lean together and they are happy just to be with one another how much of this video did you understand leave a comment down below to tell me and we will learn English together bye",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7157
+  "src": "auto"
  },
  "UTHhW18YfPw": {
   "channel": "smile English stories",
   "lang": "en",
-  "checked": "2026-11-06T02:32:18+00:00",
+  "checked": "2026-11-14T00:33:43+00:00",
   "title": "Living in Vancouver 🍁🌎 - city, lakes and mountains // Intermediate English Conversation",
   "duration": 1123,
   "published": "20211123",
@@ -38800,73 +38785,10 @@
   "spoken_v": 2,
   "pace": 161.5,
   "rare": 0.0194,
+  "var": 0.7091,
   "speech_s": 1035.9,
   "tokens": 2789,
   "kw": [
-   [
-    "touristic",
-    "touristic famous points... but if you have more time, you can go up to Whistler and Squamish and",
-    577,
-    587,
-    2.44,
-    4
-   ],
-   [
-    "seaplanes",
-    "I remember watching seaplanes... there were a lot of seaplanes.",
-    739,
-    744,
-    2.05,
-    3
-   ],
-   [
-    "snowshoeing",
-    "going to lakes during the summer... winters, um, winter snowshoeing...",
-    529,
-    536,
-    2.15,
-    3
-   ],
-   [
-    "lakes",
-    "hurts your feet, and going into the water is like rocks…. and rocks, same with the lakes.",
-    353,
-    359,
-    4.14,
-    12
-   ],
-   [
-    "hikes",
-    "good hikes, there are so many hikes, and you hear all your friends are hiking during the weekend...",
-    522,
-    529,
-    3.34,
-    4
-   ],
-   [
-    "homesick",
-    "always happen to you when you live in the country. And do you ever get homesick? Is there",
-    916,
-    924,
-    2.93,
-    3
-   ],
-   [
-    "paddle",
-    "I go swimming in the lakes. I love paddle boarding. Paddle boarding is my, my “thing” that I",
-    428,
-    436,
-    3.49,
-    4
-   ],
-   [
-    "accent",
-    "when you're learning English, you're gonna have an accent...",
-    1008,
-    1013,
-    4.14,
-    8
-   ],
    [
     "yes",
     "Yes it's right. My Spanish is getting better!",
@@ -38884,19 +38806,19 @@
     16
    ],
    [
-    "lot",
-    "...yeah… ...give or take, yes I like it here a lot.",
-    176,
-    181,
-    5.61,
-    14
-   ],
-   [
     "feel",
     "It is so beautiful! I, I am very lucky. I feel very lucky that I live here,",
     61,
     68,
     5.67,
+    14
+   ],
+   [
+    "lot",
+    "...yeah… ...give or take, yes I like it here a lot.",
+    176,
+    181,
+    5.61,
     14
    ],
    [
@@ -38908,34 +38830,130 @@
     13
    ],
    [
-    "city",
-    "the tropical city of Canada... (it's not tropical at all)... especially you're coming from Colombia,",
-    188,
-    195,
-    5.61,
-    13
+    "snow",
+    "So while the rest of Canada is literally freezing, or meters of snow, we have like two centimetres of",
+    199,
+    209,
+    4.66,
+    6
    ],
    [
-    "cold",
-    "but I get what they say, because the winters are not that cold.",
-    194,
-    200,
-    5.02,
-    11
+    "lucky",
+    "It is so beautiful! I, I am very lucky. I feel very lucky that I live here,",
+    61,
+    68,
+    4.77,
+    5
    ],
    [
-    "live",
-    "but I do not live in Colombia… Where do you live?",
-    36,
-    42,
-    5.54,
+    "zero",
+    "So it's minus 10, but it’s…. like we can go below zero or like minus 10ish for two or three days,",
+    256,
+    265,
+    4.63,
+    4
+   ],
+   [
+    "lakes",
+    "hurts your feet, and going into the water is like rocks…. and rocks, same with the lakes.",
+    353,
+    359,
+    4.14,
+    12
+   ],
+   [
+    "accent",
+    "when you're learning English, you're gonna have an accent...",
+    1008,
+    1013,
+    4.14,
     8
+   ],
+   [
+    "hiking",
+    "and you do see a lot of people exercising... biking, hiking, walking, running... and there",
+    490,
+    499,
+    3.87,
+    5
+   ],
+   [
+    "ski",
+    "I don't know how to ski, and I'm too old to learn that... I picture myself eating a lot of snow",
+    538,
+    546,
+    4.13,
+    3
+   ],
+   [
+    "paddle",
+    "I go swimming in the lakes. I love paddle boarding. Paddle boarding is my, my “thing” that I",
+    428,
+    436,
+    3.49,
+    4
+   ],
+   [
+    "hikes",
+    "good hikes, there are so many hikes, and you hear all your friends are hiking during the weekend...",
+    522,
+    529,
+    3.34,
+    4
+   ],
+   [
+    "vitamins",
+    "drink some “Gatorade” (an energy drink)... ... get some vitamins…",
+    888,
+    892,
+    3.59,
+    2
+   ],
+   [
+    "colder",
+    "which is very warm. This is cold I mean also because we are ‘up north’ so it feels colder.",
+    331,
+    339,
+    3.54,
+    2
+   ],
+   [
+    "touristic",
+    "touristic famous points... but if you have more time, you can go up to Whistler and Squamish and",
+    577,
+    587,
+    2.44,
+    4
+   ],
+   [
+    "homesick",
+    "always happen to you when you live in the country. And do you ever get homesick? Is there",
+    916,
+    924,
+    2.93,
+    3
+   ],
+   [
+    "snowshoeing",
+    "going to lakes during the summer... winters, um, winter snowshoeing...",
+    529,
+    536,
+    2.15,
+    3
+   ],
+   [
+    "seaplanes",
+    "I remember watching seaplanes... there were a lot of seaplanes.",
+    739,
+    744,
+    2.05,
+    3
    ]
   ],
-  "tx": "Today, I'm with my friend Adriana, or I probably should be saying Adriana... is that right? Yes it's right. My Spanish is getting better! Very good, very good! Now I'm saying my Spanish, because... well, let's ask her… Adriana, where are you from? Well Rachel “Hello!” first of all, “Hello!” to you and all your viewers, and thank you for having me here... and yes, my name is Adriana, and I am originally from Colombia, but I do not live in Colombia… Where do you live? I live in Canada. I live in Vancouver in the Pacific Coast of Canada. I went to Canada a few years ago, and we thought it was a beautiful place. It is so beautiful! I, I am very lucky. I feel very lucky that I live here, especially in Vancouver… you want to know why? Well, yes of course! Because I, I love my country, Colombia, and I was born and grew up in the mountains. I am from Medellín, and to me, the mountains are our home. If I am in a place where it has mountains, I know I'm home... so when I moved to Canada, and I arrived to Vancouver, and I saw the mountains, I was like, “Oh this is good, I'm home!” Because when I go to flat places, I, I feel lost. When you grow up in the mountains, you always use the mountains as a reference… like “Where is the north?” and “Where is the south?”, and so that helps you. Every time people grow up around mountains, we use that as a reference… ... so I feel lost when I am in a flat place. But here, I saw the mountains and I was like, “Oh, I'm home!” So I feel lucky, because it's like I am, I feel home here. But when I go back to Colombia, I also feel home there. It's funny you should say that, because where I live here in France, there's a mountain I can see from my house, it's not really a mountain it's a hill, it's lower than a mountain... but it looks just like a hil",
+  "tx": "Today, I'm with my friend Adriana, or I probably should be saying Adriana... is that right? Yes it's right. My Spanish is getting better! Very good, very good! Now I'm saying my Spanish, because... well, let's ask her… Adriana, where are you from? Well Rachel “Hello!” first of all, “Hello!” to you and all your viewers, and thank you for having me here... and yes, my name is Adriana, and I am originally from Colombia, but I do not live in Colombia… Where do you live? I live in Canada. I live in Vancouver in the Pacific Coast of Canada. I went to Canada a few years ago, and we thought it was a … feel home there. It's funny you should say that, because where I live here in France, there's a mountain I can see from my house, it's not really a mountain it's a hill, it's lower than a mountain... but it looks just like a hill which isn't very far from where I grew up... and so I feel at home here, because I have my little hill like at home! You have your connection to home! Exactly, exactly, yeah! So have you been in Vancouver for a long time? I moved to Vancouver around 10 years ago… ...yeah… ...give or take, yes I like it here a lot. The weather, it's really nice compared to the … week, or a very long period… no like, it tops a week and then we go to zero five, and then we stay the whole winter between zero and ten... zero and ten the whole winter, um, while the rest of the country are like below 30. Yeah, yeah. So I'm very lucky, I know. I'm very lucky. So that's, I suppose that's because it's by the sea? I guess so, that's what people tell me, yeah. And what's, what’s the sea like in Vancouver… there’s an island isn't there? Yes, yes, Vancouver island where Victoria the capital of the province is. The sea is cold, uh, because it's the, it’s the Pacific, the Pacific … remember driving across the mountains... the, “The Rockies”... to, to see some of the lakes, and, and I remember these bright blue-coloured lakes. Yes, from Vancouver... 30 minutes, 40 minutes drive, an hours drive, two hour drive... everywhere! There are lakes everywhere. Some of them are smaller, or bigger, or colder... it depends what you want, but there is something for everyone. So when you say you like the lakes, do you go swimming in the lakes? I go swimming in the lakes. I love paddle boarding. Paddle boarding is my, my “thing” that I learned here, and it gives me a lot of pressure. … many options. I am vegan, by the way, so to me like, I'm living in heaven! People love hiking, there are so many good hikes, there are so many hikes, and you hear all your friends are hiking during the weekend... going to lakes during the summer... winters, um, winter snowshoeing... very very common snowshoeing, and skiing. I don't know how to ski, and I'm too old to learn that... I picture myself eating a lot of snow in the process of learning, and I'm not willing to do that... but I do snowshoeing, and I enjoy that. And in Vancouver itself, um, I mean if somebody wanted to come and visit … here. All the wild flowers were out on the mountains. It was absolutely magnificent! Um, but Vancouver itself, what is there to do…. because, to be honest, the only thing I remember is going over to the island and visiting the gardens! Um the city is very pretty. It's very walkable. What I find about Vancouver and Victoria, it's you know when I go to Europe a lot of the touristic part happens in museums. Like you go and visit museums or, or palaces or castles, but when you come to Canada the touristic part happens outside. So the nature, nature itself becomes your museum. You are enjoying … yes, yeah, you, yes, I'm glad you mentioned that! I always forget about that! I think you get used to some things, and then it's like, “Yeah of course!” Uh, people take the seaplanes... um, it's like a taxi, it's like a plane like a taxi kind of concept… to go from Vancouver to Victoria. There is a lot of commute from Vancouver to Victoria. We have a ferry, but the ferry takes longer, and of course the seaplane costs more money... but I mean, I guess some people really need to go for work or... so they take the plane. It takes off in Vancouver downtown, it lands in Victoria, and people … don't have energy”. But I know in English I learnt that it's, “I don't have power”, or “the power went off”. So I remember the first time we didn't have power because we had a storm, I phoned the place where you have to phone, and then I said, “I don't have energy!” Now I laugh thinking (about it), because... then the person was like... they didn't know what to do with what I was saying! Like if you tell someone, “I don't have energy”, now it sounds funny to me, because like if you don't have energy... go and have a rest... drink some “Gatorade” (an energy drink)... ... get some vitamins… .. … I have the same feeling, so I love... my, my heart is with both countries... like I, I feel if I'm here, I miss Colombia and if I am in Colombia, I miss Canada! So and, Adriana... Adriana... I got to know you partly because, because I was reading some books. Oh yes... some of the books that I wrote, yes. Yes, so um, I would love for you to come back sometime and chat to us about the books too, because they're really interesting the books you write. Of course, but before we go, you tell me when it's time to go because I do want to end the interview with a message for your viewers. Is this the … that's who you are, that's part of your culture, and bring that beautiful accent to enrich the English language. That's my motivational speech! That's a good one! Just before Adriana goes I wanted to say I now have a free mini guide, with some of the differences between North American English and British English, so if you would like a copy, then click on the link which is in the description under the video! Okay. Well it's been lovely chatting to you. Thanks ever so much for taking the time. Thank you for having me! And hopefully, I'll see you again! Yes, okay, take care, bye for now! Bye!",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.6961
+  "src": "cc"
  },
  "_i5PsKAuNds": {
   "channel": "English Comprehensible Input for ESL Beginners",
@@ -40717,7 +40735,7 @@
  "WA9gevE8qHw": {
   "channel": "Begin With English Stories",
   "lang": "en",
-  "checked": "2026-11-07T04:57:33+00:00",
+  "checked": "2026-11-14T00:40:01+00:00",
   "title": "Improve Your English with Shadowing Practice | English Conversation for Beginners | Learn English",
   "duration": 726,
   "published": "20261019",
@@ -40725,41 +40743,10 @@
   "spoken_v": 2,
   "pace": 101.1,
   "rare": 0.002,
+  "var": 0.7032,
   "speech_s": 594.3,
   "tokens": 1001,
   "kw": [
-   [
-    "phrases",
-    "Second, learn some helpful phrases. Third, practice speaking with the",
-    25,
-    33,
-    3.89,
-    6
-   ],
-   [
-    "shadowing",
-    "shadowing technique. This will help you improve your",
-    30,
-    38,
-    2.84,
-    2
-   ],
-   [
-    "knocked",
-    ">> Someone knocked on my door at midnight.",
-    71,
-    80,
-    4.24,
-    2
-   ],
-   [
-    "phrase",
-    "We use this phrase when we have the same thought as another",
-    296,
-    303,
-    4.3,
-    2
-   ],
    [
     "turn",
     "Your turn. >> I am okay, but something strange",
@@ -40785,6 +40772,14 @@
     12
    ],
    [
+    "night",
+    "happened last night. >> Really? What happened?",
+    65,
+    76,
+    5.61,
+    7
+   ],
+   [
     "conversation",
     "First, listen to the conversation. Second, learn some helpful phrases.",
     21,
@@ -40801,34 +40796,42 @@
     9
    ],
    [
-    "thought",
-    ">> I thought so, too. But then, I heard the",
-    110,
-    115,
-    5.59,
-    7
+    "midnight",
+    ">> Someone knocked on my door at midnight.",
+    71,
+    80,
+    4.31,
+    6
    ],
    [
-    "night",
-    "happened last night. >> Really? What happened?",
-    65,
-    76,
-    5.61,
-    7
+    "scared",
+    ">> Were you scared? >> Yes, a little.",
+    83,
+    92,
+    4.6,
+    4
    ],
    [
-    "glad",
-    ">> I am glad he is safe now.",
-    164,
-    171,
-    4.9,
-    7
+    "phrases",
+    "Second, learn some helpful phrases. Third, practice speaking with the",
+    25,
+    33,
+    3.89,
+    6
+   ],
+   [
+    "shadowing",
+    "shadowing technique. This will help you improve your",
+    30,
+    38,
+    2.84,
+    2
    ]
   ],
-  "tx": ">> Hello my friends. Welcome to another English learning video. In this lesson, we will follow three simple steps. First, listen to the conversation. Second, learn some helpful phrases. Third, practice speaking with the shadowing technique. This will help you improve your listening, learn new phrases, and speak English with more confidence. Are you ready? Let us start the conversation. >> >> Hey Daniel, you look tired today. Are you okay? >> I am okay, but something strange happened last night. >> Really? What happened? >> Someone knocked on my door at midnight. >> What? At midnight? Who was it? >> I do not know. I was alone at home. >> Were you scared? >> Yes, a little. >> Oh, no. What did you do? >> I looked at the clock. It was 12:00. I slowly walked to the door and looked through the window. >> Did you see anyone? >> No, there was nobody outside. >> That is strange. Maybe it was the wind. >> I thought so, too. But then, I heard the knock again. >> Again? What did you do next? >> I turned on the outside light and looked again. >> And? >> I saw a little boy standing near my door. >> A little boy? At midnight? What did he want? >> He was crying. So, I opened the door and asked him what happened. >> Oh, poor boy. What did he say? >> He said, \"I cannot find my home.\" >> That is so sad. Did you help him? >> Yes. I gave him some water and called the police. >> That was very kind of you. Did they find his family? >> Yes. His parents were looking for him. They came and took him home. >> I am glad he is safe now. >> Me, too. I was scared at first, but I am happy I opened the door. >> You did the right thing, Daniel. But, next time, be careful before opening the door at night. >> >> Now, let us learn some helpful English phrases from the conversation. These phrases will help y",
+  "tx": ">> Hello my friends. Welcome to another English learning video. In this lesson, we will follow three simple steps. First, listen to the conversation. Second, learn some helpful phrases. Third, practice speaking with the shadowing technique. This will help you improve your listening, learn new phrases, and speak English with more confidence. Are you ready? Let us start the conversation. >> >> Hey Daniel, you look tired today. Are you okay? >> I am okay, but something strange happened last night. >> Really? What happened? >> Someone knocked on my door at midnight. >> What? At midnight? Who was it? >> I do not know. I was alone at home. >> Were you scared? >> Yes, a little. >> Oh, no. What did you do? >> I looked at the clock. It was 12:00. I slowly walked to the door and looked through the window. >> Did you see anyone? >> No, there was nobody outside. >> That is strange. Maybe it was the wind. >> I thought so, too. But then, I heard the knock again. >> Again? What did you do next? >> I turned on the outside light and looked again. >> And? >> I saw a little boy standing near my door. >> A little boy? At midnight? What did he want? >> He was crying. So, I opened the door and asked him what happened. >> Oh, poor boy. What did he say? >> He said, \"I cannot find my home.\" >> That is so sad. Did you help him? >> Yes. I gave him some water and called the police. >> That was very kind of you. Did they find his family? >> Yes. His parents were looking for him. They came and took him home. >> I am glad he is safe now. >> Me, too. I was scared at first, but I am happy I opened the door. >> You did the right thing, Daniel. But, next time, be careful before opening the door at night. >> >> Now, let us learn some helpful English phrases from the conversation. These phrases will help you understand English better and use them in your daily conversations. Let us start. >> But, something strange happened last night. But, something strange happened last night. >> In the conversation, Daniel says, \"Something strange happened last night.\" We use something strange happened when we talk about an unusual event. For example, something strange happened at school. >> Really? What happened? Really? What happened? >> In the conversation, Emma asks, \"What happened?\" We use this question when we want to know about an event or situation. For example, you look sad. What happened? >> I do not know. I was alone at home. I do not know. I was alone at home. >> In the conversation, Daniel says, \"I was alone at home.\" We use I was alone when nobody else was with us. For example, I was alone in my room. >> I thought so, too. I thought so, too. >> In the conversation, Daniel says, \"I thought so, too.\" We use this phrase when we have the same thought as another person. For example, your friend says, \"Maybe it will rain today.\" You can say, \"I thought so, too.\" >> I am glad he is safe now. I am glad he is safe now. >> In the conversation, Emma says, \"I am glad he is safe now.\" We use I am glad to show that we feel happy about something. For example, I am glad you are here. >> You did the right thing, Daniel. You did the right thing, Daniel. >> Finally, Emma says, \"You did the right thing.\" We use this phrase when someone makes a good decision. For example, if your friend helps someone, you can say, \"You did the right thing.\" Very good, my friends. Now, we have learned some useful English phrases. But now, it is time for the most important part. We are going to practice the whole conversation using the shadowing technique. Do not skip this important part. Do not worry about making mistakes. Just listen and repeat after me. Are you ready? Let us go. >> >> Hey, Daniel. You look tired today. Are you okay? Your turn. >> I am okay, but something strange happened last night. >> Your turn. Really? What happened? Your turn. >> Someone knocked on my door at midnight. >> Your turn. What? At midnight? Who was it? Your turn. >> I do not know. I was alone at home. >> Your turn. Were you scared? Your turn. >> Yes, a little. >> Your turn. Oh, no. What did you do? Your turn. >> I looked at the clock. It was 12:00. >> Your turn. >> I slowly walked to the door and looked through the window. >> Your turn. Did you see anyone? Your turn. >> No, there was nobody outside. >> Your turn. That is strange. Maybe it was the wind. Your turn. >> I thought so, too. But then, I heard the knock again. >> Your turn. Again? What did you do next? Your turn. >> I turned on the outside light and looked again. >> Your turn. And? >> I saw a little boy standing near my door. >> Your turn. A little boy? At midnight? What did he want? Your turn. >> He was crying. So, I opened the door and asked him what happened. >> Your turn. Oh, poor boy. What did he say? Your turn. >> He said, \"I cannot find my home.\" >> Your turn. That is so sad. Did you help him? Your turn. >> Yes, I gave him some water and called the police. >> Your turn. That was very kind of you. Did they find his family? Your turn. >> Yes, his parents were looking for him. They came and took him home. >> Your turn. I am glad he is safe now. Your turn. >> Me, too. I was scared at first, but I am happy I opened the door. >> Your turn. You did the right thing, Daniel. But next time, be careful before opening the door at night. Your turn. >> Very good, my friends. Now, watch this video one more time. This time, you will understand the conversation better and remember more English phrases. Keep practicing and you will improve your English step-by-step. Thank you for learning with me. See you in the next lesson. Bye, my friends.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.7596
+  "src": "auto"
  },
  "52U_rJfsqpk": {
   "channel": "Sesame Street",
@@ -41261,7 +41264,7 @@
  "qMgts5PPTns": {
   "channel": "Sesame Street",
   "lang": "en",
-  "checked": "2026-11-07T05:04:18+00:00",
+  "checked": "2026-11-14T00:43:38+00:00",
   "title": "Mecha Builders' Halloween Adventure 🎃 | 45 Mins | Sesame Street Full Episodes",
   "duration": 2727,
   "published": "20261026",
@@ -41269,73 +41272,10 @@
   "spoken_v": 2,
   "pace": 123.9,
   "rare": 0.122,
+  "var": 0.7947,
   "speech_s": 2484.2,
   "tokens": 5131,
   "kw": [
-   [
-    "upbeat",
-    "(upbeat music) - Go Mecha big.",
-    190,
-    195,
-    3.53,
-    47
-   ],
-   [
-    "hayride",
-    "- MacBarm, the Halloween hayride is almost complete.",
-    56,
-    61,
-    2.17,
-    14
-   ],
-   [
-    "stomp",
-    "I stomp my feet. Stomp, stomp.",
-    745,
-    748,
-    3.25,
-    25
-   ],
-   [
-    "swoosh",
-    "- I whip my tail. Swoosh, swoosh.",
-    750,
-    754,
-    2.47,
-    12
-   ],
-   [
-    "builders",
-    "♪ The Mecha Builders ♪ - Hey. - Hello.",
-    10,
-    13,
-    3.8,
-    31
-   ],
-   [
-    "grunting",
-    "(Mecha Builders grunting) (Mecha Builders yell)",
-    372,
-    379,
-    2.71,
-    13
-   ],
-   [
-    "gasps",
-    "- Pull. (gasps) That gives me an idea.",
-    364,
-    368,
-    2.92,
-    13
-   ],
-   [
-    "hoo",
-    "- Woo-hoo! - We are ready for the Haunted Hayride.",
-    84,
-    89,
-    3.38,
-    17
-   ],
    [
     "music",
     "(bright music) ♪ If you got a problem, guess who you need to call ♪",
@@ -41369,42 +41309,138 @@
     25
    ],
    [
-    "help",
-    "can help us pull the Zee Mobile out of the tree.",
-    390,
-    393,
-    5.75,
-    22
+    "dramatic",
+    "Hello. Aha. (dramatic music) - Mecha Builders, gear up.",
+    122,
+    130,
+    4.41,
+    17
    ],
    [
-    "problem",
-    "♪ If you got a problem, guess who you need to call ♪",
-    4,
-    8,
-    5.4,
-    19
+    "continues",
+    "- Go Mecha giant! (upbeat music continues)",
+    196,
+    202,
+    4.79,
+    14
    ],
    [
-    "find",
-    "- Oh, no, no, no, no, no. - Mecha Elmo will go find it.",
-    410,
-    415,
-    5.76,
-    19
+    "solve",
+    "♪ With mechanical powers, there's nothing they cannot solve ♪",
+    7,
+    11,
+    4.42,
+    14
    ],
    [
-    "come",
-    "♪ They come to save the day and do a good thing, go ♪",
-    21,
-    25,
-    5.78,
-    18
+    "ghost",
+    "(ghost cackling) - Check. - Are you ready?",
+    73,
+    78,
+    4.42,
+    13
+   ],
+   [
+    "builders",
+    "♪ The Mecha Builders ♪ - Hey. - Hello.",
+    10,
+    13,
+    3.8,
+    31
+   ],
+   [
+    "cookie",
+    "♪ Mecha Elmo, Mecha Abby, Mecha Cookie, go ♪",
+    18,
+    22,
+    4.07,
+    25
+   ],
+   [
+    "treats",
+    "- Zee, do we have yummy treats?",
+    60,
+    63,
+    4.06,
+    20
+   ],
+   [
+    "laughs",
+    "- (laughs) It's Farmer MacBarm. Hi.",
+    153,
+    158,
+    4.08,
+    12
+   ],
+   [
+    "upbeat",
+    "(upbeat music) - Go Mecha big.",
+    190,
+    195,
+    3.53,
+    47
+   ],
+   [
+    "stomp",
+    "I stomp my feet. Stomp, stomp.",
+    745,
+    748,
+    3.25,
+    25
+   ],
+   [
+    "hoo",
+    "- Woo-hoo! - We are ready for the Haunted Hayride.",
+    84,
+    89,
+    3.38,
+    17
+   ],
+   [
+    "aha",
+    "Hello. Aha. (dramatic music) - Mecha Builders, gear up.",
+    122,
+    130,
+    3.56,
+    9
+   ],
+   [
+    "hayride",
+    "- MacBarm, the Halloween hayride is almost complete.",
+    56,
+    61,
+    2.17,
+    14
+   ],
+   [
+    "gasps",
+    "- Pull. (gasps) That gives me an idea.",
+    364,
+    368,
+    2.92,
+    13
+   ],
+   [
+    "grunting",
+    "(Mecha Builders grunting) (Mecha Builders yell)",
+    372,
+    379,
+    2.71,
+    13
+   ],
+   [
+    "pulley",
+    "(pulley whirring) (decorations rattle) (ghost cackling) - Check.",
+    71,
+    77,
+    2.92,
+    12
    ]
   ],
-  "tx": "(bright music) ♪ If you got a problem, guess who you need to call ♪ ♪ With mechanical powers, there's nothing they cannot solve ♪ ♪ The Mecha Builders ♪ - Hey. - Hello. - Hi. ♪ Go ♪ ♪ Planning, testing, solving, Mecha Builders, go ♪ ♪ Mecha Elmo, Mecha Abby, Mecha Cookie, go ♪ ♪ They come to save the day and do a good thing, go ♪ ♪ Mecha big, Mecha bigger, Mecha giant, Mecha Builders ♪ ♪ Planning, testing, solving, Mecha Builders, go ♪ ♪ Mecha Elmo, Mecha Abby, Mecha Cookie, go ♪ ♪ They come to save the day and do a good thing ♪ ♪ Mecha big, Mecha bigger, Mecha giant, Mecha builders ♪ (Mecha Builders thud) (Mecha Builders cheering) - \"The Legend of Jack O'Lantern.\" (whimsy music) - MacBarm, the Halloween hayride is almost complete. - Zee, do we have yummy treats? - Check. - Glowing pumpkins? (pumpkin lights beep) - Check. - And spooky decorations? (pulley whirring) (decorations rattle) (ghost cackling) - Check. - Are you ready? - I'll drive while you tell the story of Jack O'Lantern. - And then everybody gets treats. - Woo-hoo! - We are ready for the Haunted Hayride. - Okay. I'll start up the Zee Mobile. I mean, the Haunted Hayride. (Zee Mobile beeps) Huh? (alarm blaring) (tow bar snaps) (spring warbles) (Zee screaming) (whimsy music) - Oh, no. (portal whooshing) - Woo-hoo! - Yeah! - Whoa. Whoa! (Cookie Monster thuds) Hello. Aha. (dramatic music) - Mecha Builders, gear up. - Oh, my goodness. Delicious treats. - Glowing pumpkins. - Spooky decorations. (ghost cackles) That must mean... - It's Halloween. - Halloween is so much fun. - There might be no fun tonight. (Mecha Builders scream) - (laughs) It's Farmer MacBarm. Hi. - Oh, Mecha Builders. Everyone is gonna show up soon for the Haunted Hayride and there's no Haunted Hayride. (whimsy music) (latch thuds) - Oh, no. Why ",
+  "tx": "(bright music) ♪ If you got a problem, guess who you need to call ♪ ♪ With mechanical powers, there's nothing they cannot solve ♪ ♪ The Mecha Builders ♪ - Hey. - Hello. - Hi. ♪ Go ♪ ♪ Planning, testing, solving, Mecha Builders, go ♪ ♪ Mecha Elmo, Mecha Abby, Mecha Cookie, go ♪ ♪ They come to save the day and do a good thing, go ♪ ♪ Mecha big, Mecha bigger, Mecha giant, Mecha Builders ♪ ♪ Planning, testing, solving, Mecha Builders, go ♪ ♪ Mecha Elmo, Mecha Abby, Mecha Cookie, go ♪ ♪ They come to save the day and do a good thing ♪ ♪ Mecha big, Mecha bigger, Mecha giant, Mecha builders ♪ (Mecha … the air, glowing bright orange and giving everybody treats. Mm, yummy, yummy. - But if he doesn't see everyone having fun, he frowns and goes back in his burrow. And there... - Won't be any treats. Only tricks. (Elmo whimpers) (suspenseful music) - Oh, neat story. - Yeah. - And at the end of the Haunted Hayride, everyone will get treats. - Treats. - Hooray. - But it won't happen without the Zee Mobile to pull the hay wagon. - Oh, no, we have to get the Zee Mobile out of the trees. Mechas, we've got a problem to solve. (upbeat music) - Plan it. - Test it. (roller whoosh) - Solve it. Yeah! … Hayride is about to take off. (all cheering) (wheels screech) - Are we all having fun? - Yeah. - Every Halloween, Jack O'Lantern peeks out of his pumpkin burrow. If he sees everyone having fun, he smiles and flies through the air, glowing bright orange. (Cookie Monster laughs) (all cheering) (spooky music) (ghost cackling) - Whoa. Is that who I think it is? - It's Jack O'Lantern. - With treats for everyone. - Treats, treats, treats. - Treats. Wow. - Everybody loves our Haunted Hayride. Thanks for your help, Mecha Builders. How did you do it? - First we planned it. We thought about ways … - Test it. (rollers whooshing) - Solve it. Yeah! (hammer thuds) (upbeat music continues) - Hmm, we need to find a way to help Timmy reach and move his Mecha T-Rex arms. - Hmm. - What if instead of Timmy reaching the Mecha T. Rex arms, we move them for him? Take an arm, Mecha Elmo. Okay, Timmy. Be a Mecha T-Rex. - I stomp my feet. Stomp, stomp. I whip my tail. (Elmo and Abby yell) Swoosh, swoosh. I raise my arms. - Look, it's a Mecha T-Rex. - It works. I am a Mecha T- Rex. Even though I can't reach the arms. - And there we go. - (screams) Here come the Mecha T-Rex. (screams) - Here comes … - So we can add pulleys to Timmy's costume to help him move the arms. - Let's try it. (roars) (upbeat music) - Lloyd, can Mecha Elmo borrow some rope? - Well, sure. Take whatever you need. - Thanks, Lloyd. - First, we'll need two pieces of rope, one for each pulley. - But Elmo only has one rope. - I've got a tool for that. Aha. Ta-da! Scissors. (bright music) (upbeat music) (scissor snipping) (upbeat music continues) - Okay. I'm gonna test it. I can move the arms. It works. Yes! - Now let's test if the arms are strong enough to hold a heavy bucket full of treats. - Okay. Here goes nothing. … funny looking camera. - Oh, that's not a camera. It's my periscope. I use it to see over tall objects. Hi, Mecha Elmo. - Huh? - Hello. (laughs) (Cookie Monster laughs) - Here, try it. - Oh, aha, me see. Interesting. - All right. Here's a camera for you, you, and you. - Thanks, Ori. - Has Ori ever seen the Whatsacallit? - Berta's told me the story, and we all know Treetop Woods is full of surprises, but I've been all over these woods and I've never seen it. If anybody can get a picture of the Whatsacallit, it's the Mecha Builders. - Thanks, Ori. We're on the case. (upbeat music) (camera … Berta. - Did you get it? I came to help. - It's very close. - Come on, everybody. (Whatsacallit bellows) - Wait for me. - I think it's in here. (chicken clucks) - Uh, that not it. It just a chicken. - But it was just here, wasn't it? - Maybe the Whatsacallit was just never meant to be spotted. - We can't give up now. There must be some way to get a picture without scaring it away. - Sneezing scared it away. Camouflage didn't work. Splitting up didn't work either. - Wait a minute. Do you remember that thing Ori let me look through? - The one that was like a big tube? - That helped him … - Yeah! - Whoa. Whoa! Aha! Uh... (dramatic music) - Over here, Cookie. (laughs) - Ah. Aha! (dramatic music) - Mecha Builders, gear up. - Ranger Nat, where are you? - Ranger Nat. - Look, the Mecha Builders. - Boy, are we glad to see you. We were hiking in the woods with Ranger Nat, but when we got back, he wasn't with us anymore. - And now we don't know where he is. - Aw, poor Ranger Nat. It's going to be dark soon. And he'll be lost in the woods. - Lost in the woods? - We need to find him quick. - Mechas, we've got a problem to solve. (upbeat music) - Plan it. - Test it. (rollers … come back when it's light out to find that hat. Huh. ♪ Do-do-do-do-do-do ♪ (Elmo humming) - It's Ranger Nat. Come over. (dramatic music) - Saw your signal. Did you find something? - Yeah, down here. Mecha Elmo thinks he sees Ranger Nat. Follow Mecha Elmo. - Good job. - Yay. - Ranger Nat, it's us. Huh? That's not Ranger Nat, but that's Ranger Nat's hat. - We're on the right path. Can't be far behind him now. - Yeah. - Oh, yeah. (tummy grumbles) - Oh, I'm starting to feel hungry. Oh, it's a good thing I always keep one of my world famous adventure-approved oatmeal raisin cookies right here … back, Ranger Nat. - I made it. - We did it. We solved the problem. We used lights to communicate with each other in the dark, and we followed clues to find Ranger Nat. First, we planned it. We thought about ways to solve the problem. - Then we tested it. We tried different ideas and didn't give up. - Then we solved it. We found a solution and saved the day. (signal beeping) - Someone else needs our help. (upbeat music) (portal whooshes) - Time to bounce. - Woo-hoo. - Yeah. - Yeah. (upbeat music) (Mecha Builders cheering) (upbeat music) (upbeat music continues) (upbeat music) (bright music)",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.7533
+  "src": "cc"
  },
  "6-3A2jyt3Xs": {
   "channel": "Pokémon Kids TV",
@@ -42070,7 +42106,7 @@
  "xCXTEQmyk5k": {
   "channel": "Pokémon Kids TV",
   "lang": "en",
-  "checked": "2026-11-07T05:24:55+00:00",
+  "checked": "2026-11-14T00:45:29+00:00",
   "title": "Pokémon Brass Concert in Singapore | Classical Music Medley | Kids Music | Pokémon Kids TV",
   "duration": 1757,
   "published": "20261005",
@@ -42078,57 +42114,10 @@
   "spoken_v": 2,
   "pace": 54.3,
   "rare": 0.035,
+  "var": 0.691,
   "speech_s": 853.2,
   "tokens": 772,
   "kw": [
-   [
-    "nhk",
-    "plus ensemble of the NHK Symphony",
-    976,
-    984,
-    2.72,
-    2
-   ],
-   [
-    "medley",
-    ">> Thank you very much. That was a medley",
-    743,
-    750,
-    3.28,
-    2
-   ],
-   [
-    "melody",
-    "Next, we will play a melody of music",
-    273,
-    280,
-    3.81,
-    3
-   ],
-   [
-    "trainers",
-    "for Pokemon trainers and their Pokemons.",
-    1140,
-    1147,
-    3.72,
-    2
-   ],
-   [
-    "applause",
-    "round of applause. ",
-    205,
-    211,
-    3.83,
-    2
-   ],
-   [
-    "adventures",
-    "adventures. Now please enjoy the music.",
-    304,
-    312,
-    4.15,
-    3
-   ],
    [
     "version",
     "from the game Pokemon lead version and",
@@ -42146,14 +42135,6 @@
     11
    ],
    [
-    "thank",
-    ">> Thank you very much. The first piece you",
-    181,
-    188,
-    5.48,
-    10
-   ],
-   [
     "city",
     "the road to Vidian City followed by the",
     759,
@@ -42162,42 +42143,98 @@
     10
    ],
    [
-    "game",
-    "Pokemon game series. ",
-    187,
-    194,
-    5.72,
-    8
+    "thank",
+    ">> Thank you very much. The first piece you",
+    181,
+    188,
+    5.48,
+    10
    ],
    [
-    "please",
-    "concert. Please join me again for a big",
-    202,
-    209,
-    5.66,
-    7
-   ],
-   [
-    "enjoy",
-    "adventures. Now please enjoy the music.",
-    304,
-    312,
-    5.09,
-    7
-   ],
-   [
-    "battle",
+    "gym",
     "music moved to battle at Pokemon gym and",
     767,
     776,
-    4.94,
-    7
+    4.43,
+    4
+   ],
+   [
+    "adventure",
+    "where the adventure starts. Then we had",
+    756,
+    764,
+    4.46,
+    3
+   ],
+   [
+    "theme",
+    "The main theme was beautifully arranged",
+    195,
+    203,
+    4.62,
+    2
+   ],
+   [
+    "scenes",
+    "scenes. Casteria City, Nimbasa City, and",
+    1177,
+    1187,
+    4.58,
+    2
+   ],
+   [
+    "adventures",
+    "adventures. Now please enjoy the music.",
+    304,
+    312,
+    4.15,
+    3
+   ],
+   [
+    "melody",
+    "Next, we will play a melody of music",
+    273,
+    280,
+    3.81,
+    3
+   ],
+   [
+    "applause",
+    "round of applause. ",
+    205,
+    211,
+    3.83,
+    2
+   ],
+   [
+    "trainers",
+    "for Pokemon trainers and their Pokemons.",
+    1140,
+    1147,
+    3.72,
+    2
+   ],
+   [
+    "medley",
+    ">> Thank you very much. That was a medley",
+    743,
+    750,
+    3.28,
+    2
+   ],
+   [
+    "nhk",
+    "plus ensemble of the NHK Symphony",
+    976,
+    984,
+    2.72,
+    2
    ]
   ],
-  "tx": "Pokémon Kids TV. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. >> >> Thank you very much. The first piece you heard was Pokemon Funf Fair from the Pokemon game series. The main theme was beautifully arranged and it was a perfect opening for our concert. Please join me again for a big round of applause. Now, let's introduce the Pokemon who came to the stage tonight. This Pokemon is loved by everyone. You know him, right? Pikachu. >> >> Pikachu, welcome to Singapore and thank you so much for coming tonight. Let's have fun together. Okay. >> >> Now, let's really get a party started. Next, we will play a melody of music from the game Pokemon lead version and Pokemon Blue version. Pokemon Let Version and Pokemon Blue Version was released in 1996 and it was a first game in the Pokemon game series. The story begin in a par town where the main character receive one Pokemon from professor Oak and starts an exciting adventures. Now please enjoy the music. >> >> Heat. Heat. Heat up here. Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Thank you very much. That was a medley featuring music from Pokemon Lit version and Pokemon Blue version. The music began with the scene of Pallet Town where the adventure starts. Then we had the road to Vidian City followed by the theme of Pure City. At the end, the music moved to battle at Pokemon gym and finished with the victory scene. It was a wonderful performance that made us imagine the early adventure of Pokemon Red Version and Pokemon Blue version. And Pikachu was dancing too. Now the next p",
+  "tx": "Pokémon Kids TV. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. >> >> Thank you very much. The first piece you heard was Pokemon Funf Fair from the Pokemon game series. The main theme was beautifully arranged and it was a perfect opening for our concert. Please join me again for a big round of applause. Now, let's introduce the Pokemon who came to the stage tonight. This Pokemon is loved by everyone. You know him, right? Pikachu. >> >> Pikachu, welcome to Singapore and thank you so much for coming tonight. Let's have fun together. Okay. >> >> Now, let's really get a party started. Next, we will play a melody of music from the game Pokemon lead version and Pokemon Blue version. Pokemon Let Version and Pokemon Blue Version was released in 1996 and it was a first game in the Pokemon game series. The story begin in a par town where the main character receive one Pokemon from professor Oak and starts an exciting adventures. Now please enjoy the music. >> >> Heat. Heat. Heat up here. Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Thank you very much. That was a medley featuring music from Pokemon Lit version and Pokemon Blue version. The music began with the scene of Pallet Town where the adventure starts. Then we had the road to Vidian City followed by the theme of Pure City. At the end, the music moved to battle at Pokemon gym and finished with the victory scene. It was a wonderful performance that made us imagine the early adventure of Pokemon Red Version and Pokemon Blue version. And Pikachu was dancing too. Now the next piece is Battle Neona from Pokemon Scarlet and Violet. Pokemon Scarlet and Violet was released in 2022 and it is a nice game in the Pokemon series. The story takes place in the Paria region with great nature and colorful town. The main character and Pokemon can run freely around the wall and enjoy the adventures together. Now, please enjoy the music. >> >> Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. Thank you very much. The piece you just had was Battle Neona from Pokemon Scarlet and Violet. Neimona is the main character's friend and she loves Pokemon battles. The exciting battle with Neimona was played even more powerful and dynamic fighter plus ensemble of the NHK Symphony Orchestra. Thank you very much. Next, we'll be listening to Pokemon Center from the Pokemon game series. Please enjoy. Heat. Heat. Heat >> >> up here. >> >> Heat. Heat. >> >> Thank you very much. The piece you just heard was Pokemon Center from the Pokemon game series. Please join me another round of applause. >> >> The gentle music of Pokemon Center by the blast player of the NHK Symphony Orchestra is a place of rest and healing for Pokemon trainers and their Pokemons. And tonight, their performance here gave us a same warm and relaxing feeling, didn't it? How was it, Pikachu? Yes, thank you very much. Next, the next music come from Pokemon black version and Pokemon white version. We will enjoy a medley of three city scenes. Casteria City, Nimbasa City, and Driftville City. Pokemon Black Version and Pokemon White Version was released in 2010, and it is the fifth game in the Pokemon series. The story takes place in the Univa region where the main character goes on an adventure visiting many different cities and places and meeting many Pokémons. Now, please enjoy the music. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Heat. Heat. >> >> Heat. Heat. >> >> Thank you so so much for the touching performance. That was a melody of melody of city scenes from Pokemon Black version and Pokemon White version. Casteria City, Nimbasa City, and Draftville City. The music reminded us the adventures and it made us feel excited and happy as we listened. Pikachu seems very happy, too. Now, the last Pokemon piece of tonight's concert is Battle Gym Leader from Pokemon Scarlet and Violet. Please enjoy the music. Heat. Heat. Heat. Heat. >> >> Heat. Heat. Heat up here. Heat. Heat. >> >> Heat. Heat. Heat. Heat. >> >> Thank you so much for that amazing and moving performance. The song we just played was Battle Gym Leader from Pokemon Scarlet and Violet. That wonderful performance really brought back the intense battle between Pokemon trainers and gym leader. Thank you very much. >> >> with all our Pokemon friends. Pokemon friends will evolve with the power we share in our hearts. >> I like to eat eat apples and bananas. I like to",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.6844
+  "src": "auto"
  },
  "Tb4OllD9D1A": {
   "channel": "Begin With English Stories",

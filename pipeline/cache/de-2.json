@@ -10595,7 +10595,7 @@
  "aF3TE0acyTs": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-06T02:51:18+00:00",
+  "checked": "2026-11-14T00:20:46+00:00",
   "title": "Die Lufthansa ist \"krank\"! Das sind die Gründe",
   "duration": 906,
   "published": "20260808",
@@ -10603,73 +10603,10 @@
   "spoken_v": 2,
   "pace": 177.2,
   "rare": 0.0739,
+  "var": 0.8616,
   "speech_s": 852.4,
   "tokens": 2518,
   "kw": [
-   [
-    "lufthansa",
-    "Es läuft bei der Lufthansa Group.",
-    0,
-    2,
-    3.9,
-    65
-   ],
-   [
-    "airlines",
-    "sondern 14 Airlines in einer. Neben der Kernmarke Lufthansa gehören dazu unter anderem",
-    166,
-    172,
-    3.87,
-    15
-   ],
-   [
-    "kerosin",
-    "Das bringt uns dann auch direkt zu B: Kerosin ist momentan sehr teuer.",
-    603,
-    608,
-    2.96,
-    4
-   ],
-   [
-    "spohr",
-    "Der Vorstandsvorsitzende der Lufthansa Group, Carsten Spohr,",
-    426,
-    430,
-    2.89,
-    3
-   ],
-   [
-    "marge",
-    "Die EBIT-Marge von Lufthansa lag im Jahr 2025 bei 5,1 Prozent.",
-    312,
-    317,
-    3.33,
-    4
-   ],
-   [
-    "margen",
-    "die Margen, also das, was am Ende hängen bleibt,",
-    283,
-    286,
-    2.94,
-    3
-   ],
-   [
-    "iag",
-    "Im Vergleich mit internationalen Konkurrenten wie IAG",
-    303,
-    307,
-    2.17,
-    2
-   ],
-   [
-    "corona",
-    "und war während der Corona-Pandemie für die damalige Regierung so relevant,",
-    220,
-    225,
-    3.44,
-    4
-   ],
    [
     "dazu",
     "und dazu noch mehr Gewinn, zumindest operativ.",
@@ -10695,50 +10632,146 @@
     7
    ],
    [
-    "mitarbeiter",
-    "und die Mitarbeiter und Kunden, na ja, die haben es mit Themen zu tun wie Stellenabbau,",
-    19,
-    25,
-    5.07,
-    7
-   ],
-   [
-    "kunden",
-    "und die Mitarbeiter und Kunden, na ja, die haben es mit Themen zu tun wie Stellenabbau,",
-    19,
-    25,
-    4.95,
-    7
-   ],
-   [
-    "inzwischen",
-    "Und auch wenn Fliegen inzwischen längst nichts Besonderes mehr ist,",
-    46,
-    49,
-    4.95,
-    7
-   ],
-   [
-    "beispiel",
-    "1937 zum Beispiel, den Überflug des Pamir-Gebirges.",
-    66,
-    70,
-    5.35,
-    7
-   ],
-   [
     "allerdings",
     "Allerdings auch ein Konzern, der die dunklen Seiten der deutschen Vergangenheit",
     95,
     100,
     5.51,
     7
+   ],
+   [
+    "group",
+    "Es läuft bei der Lufthansa Group.",
+    0,
+    2,
+    4.27,
+    10
+   ],
+   [
+    "kostet",
+    "Da gehen die Kollegen von \"Was kostet die Welt\" genauer darauf ein",
+    242,
+    246,
+    4.73,
+    4
+   ],
+   [
+    "gewinn",
+    "und dazu noch mehr Gewinn, zumindest operativ.",
+    6,
+    10,
+    4.63,
+    4
+   ],
+   [
+    "generell",
+    "und auch generell um Wertschätzung. Eines der Ziele der Lufthansa-Führung ist es,",
+    496,
+    501,
+    4.48,
+    4
+   ],
+   [
+    "lufthansa",
+    "Es läuft bei der Lufthansa Group.",
+    0,
+    2,
+    3.9,
+    65
+   ],
+   [
+    "airlines",
+    "sondern 14 Airlines in einer. Neben der Kernmarke Lufthansa gehören dazu unter anderem",
+    166,
+    172,
+    3.87,
+    15
+   ],
+   [
+    "konzern",
+    "sogar mal ein staatlicher Konzern. Allerdings auch ein Konzern,",
+    92,
+    97,
+    4.15,
+    9
+   ],
+   [
+    "vergleichsweise",
+    "muss aber auch vergleichsweise viel Geld ausgeben.",
+    290,
+    293,
+    4.14,
+    4
+   ],
+   [
+    "belegschaft",
+    "Das sorgt bei der Belegschaft für Unsicherheit.",
+    471,
+    474,
+    3.59,
+    4
+   ],
+   [
+    "corona",
+    "und war während der Corona-Pandemie für die damalige Regierung so relevant,",
+    220,
+    225,
+    3.44,
+    4
+   ],
+   [
+    "marge",
+    "Die EBIT-Marge von Lufthansa lag im Jahr 2025 bei 5,1 Prozent.",
+    312,
+    317,
+    3.33,
+    4
+   ],
+   [
+    "economy",
+    "Anstatt zum Beispiel einen Tarif für die Economy Class",
+    675,
+    679,
+    3.51,
+    3
+   ],
+   [
+    "kerosin",
+    "Das bringt uns dann auch direkt zu B: Kerosin ist momentan sehr teuer.",
+    603,
+    608,
+    2.96,
+    4
+   ],
+   [
+    "margen",
+    "die Margen, also das, was am Ende hängen bleibt,",
+    283,
+    286,
+    2.94,
+    3
+   ],
+   [
+    "spohr",
+    "Der Vorstandsvorsitzende der Lufthansa Group, Carsten Spohr,",
+    426,
+    430,
+    2.89,
+    3
+   ],
+   [
+    "ebit",
+    "Die EBIT-Marge von Lufthansa lag im Jahr 2025 bei 5,1 Prozent.",
+    312,
+    317,
+    2.87,
+    2
    ]
   ],
-  "tx": "Es läuft bei der Lufthansa Group. 2025 gab es mehr Flüge als im Vorjahr, mehr Fluggäste, eine höhere Auslastung und dazu noch mehr Gewinn, zumindest operativ. Pünktlich zum 100. Jubiläum sind das gute Nachrichten. Die Aktionäre freuen sich über eine höhere Dividende als 2024, die Führungskräfte mutmaßlich über umfangreiche Boni und die Mitarbeiter und Kunden, na ja, die haben es mit Themen zu tun wie Stellenabbau, Umstrukturierung und Preisanstieg. Das passt auf den ersten Blick nicht zusammen. Auf den zweiten Blick aber schon. Die Hintergründe dazu jetzt. (Unruhige Klänge) Die Lufthansa. Es gibt wenige Unternehmen in Deutschland, die so eine Strahlkraft haben wie sie. Lufthansa, das steht für Urlaub, für ferne Länder. Und auch wenn Fliegen inzwischen längst nichts Besonderes mehr ist, auch für Abenteuer. 100 Jahre alt ist die Lufthansa 2026 geworden. Und wenn man wollte, dann könnte man ein komplettes Video nur über deren Geschichte machen. Da würde es um große Visionäre gehen, um Pionierarbeit, um einen beispiellosen Aufstieg und immer wieder auch um historische Ereignisse. 1937 zum Beispiel, den Überflug des Pamir-Gebirges. 1955, die ersten Lufthansa-Flüge nach dem Zweiten Weltkrieg. Oder 1977, die Entführung der Lufthansa-Maschine Landshut durch palästinensische Terroristen mit anschließender Befreiung sämtlicher Geiseln durch die neu gegründete Spezialeinheit GSG-9. Nur der Kapitän war zuvor von den Terroristen getötet worden. Die Lufthansa ist eng verbunden mit der Geschichte Deutschlands und war in der Bundesrepublik bis zur kompletten Privatisierung 1997 sogar mal ein staatlicher Konzern. Allerdings auch ein Konzern, der die dunklen Seiten der deutschen Vergangenheit nicht nur erlebt, sondern auch mitgestaltet hat. Im Nationalsozialismus von 1933 bis '45 hat der",
+  "tx": "Es läuft bei der Lufthansa Group. 2025 gab es mehr Flüge als im Vorjahr, mehr Fluggäste, eine höhere Auslastung und dazu noch mehr Gewinn, zumindest operativ. Pünktlich zum 100. Jubiläum sind das gute Nachrichten. Die Aktionäre freuen sich über eine höhere Dividende als 2024, die Führungskräfte mutmaßlich über umfangreiche Boni und die Mitarbeiter und Kunden, na ja, die haben es mit Themen zu tun wie Stellenabbau, Umstrukturierung und Preisanstieg. Das passt auf den ersten Blick nicht zusammen. Auf den zweiten Blick aber schon. Die Hintergründe dazu jetzt. (Unruhige Klänge) Die Lufthansa. Es … beschäftigt, war an Rüstungsprogrammen beteiligt und hat aktiv dazu beigetragen, einen Vernichtungskrieg zu führen. Und nicht nur das, einige eng in das NS-System verstrickte Lufthansa-Mitarbeiter konnten nach 1945 bei der Neugründung des Konzerns ohne Probleme mitwirken. Eine Aufarbeitung der Beteiligung an den Verbrechen der Nationalsozialisten gab es lange nicht bei der Lufthansa. Erst nach und nach hat sich das geändert. Man könnte sehr ausführlich über diese Vergangenheit sprechen. Man hätte jede Menge interessante, aber teilweise auch erschütternde und verstörende Inhalte. Hier … wichtigste Drehkreuz allerdings ist der Flughafen Frankfurt am Main. Knapp zwei Drittel der Beschäftigten der Lufthansa sind nach eigenen Angaben in Deutschland angestellt. Damit ist der Konzern ein wichtiger Arbeitgeber hier im Land und war während der Corona-Pandemie für die damalige Regierung so relevant, dass kurzfristig der Staat eingesprungen ist, um das Unternehmen zu retten. 2022 ist der deutsche Staat dann wieder ausgestiegen und hat einen Gewinn von 760 Millionen Euro mit der Lufthansa gemacht. Wenn ihr wissen wollt, wie schwierig die Corona-Zeit für die Lufthansa war, schaut … IAG und der teilstaatlichen Air France-KLM steht Lufthansa, was die Margen angeht, deutlich schlechter da. Nur mal zwei Zahlen. Die EBIT-Marge von Lufthansa lag im Jahr 2025 bei 5,1 Prozent. Die von IAG dagegen war mit 15,1 Prozent dreimal so hoch. Das ist ein enormer Unterschied. Genau so eine Entwicklung kann für ein Unternehmen gefährlich sein, dass die Größenordnung von der Lufthansa hat. Wenn das Verhältnis zwischen Einnahmen und Ausgaben in eine Schieflage kommt, wird es auf Dauer problematisch. Zum Beispiel weil Geld für wichtige Investitionen fehlt. Woran liegt es, dass die … werden. Statt vieler unterschiedlicher Bereiche soll es künftig zentrale Anlaufstellen geben. Außerdem will die Lufthansa ihre Dachmarke stärken und bei allen Airlines mehr in den Vordergrund stellen, dass sie zur Lufthansa Group dazugehören. Alles soll sozusagen aus einem Guss kommen. Die Strategie dahinter kommt von der bekannten neoliberalen Unternehmensberatung McKinsey. Am Ende will die Lufthansa deutlich profitabler sein und die Marge mehr als verdoppeln. Der Vorstandsvorsitzende der Lufthansa Group, Carsten Spohr, spricht davon, bis 2030 eine EBIT-Marge von acht bis zehn Prozent … Boden zu halten, weil dort kein Geld mit ihnen verdient werden kann. Das könnte aber nicht nur dazu führen, dass die Crews kürzere Erholungszeiten hätten und einen dichteren Schichtplan, sondern auch, dass Sicherheitsreserven stärker ausgereizt werden könnten. Darüber berichtet unter anderem der Spiegel. Mehr dazu unten in der Infobox verlinkt. Noch etwas sorgt bei der Belegschaft für Ärger. Die Mitarbeiter der Kernmarke Lufthansa, zum Beispiel die Piloten, haben vergleichsweise komfortable Verträge, was das Gehalt und Rentenzahlungen angeht. Das sorgt allerdings dafür, dass die Ausgaben in … gesperrt ist, müssen Umwege geflogen werden. Ähnliche Probleme gibt es wegen der Situation im Nahen Osten. Das dauert länger und erhöht die Kosten für Treibstoff. Das bringt uns dann auch direkt zu B: Kerosin ist momentan sehr teuer. Zeitweise hat der Liter Kerosin in den vergangenen Monaten doppelt so viel gekostet wie vor dem Irankrieg. Auch jetzt sind die Preise noch auf einem hohen Niveau. Teilweise können die Airlines die Kosten an die Kunden weitergeben. Allerdings klappt das nicht komplett. Die Lufthansa gab deshalb vor einiger Zeit bekannt, in diesem Jahr insgesamt 20.000 … Variante in der Economy Class, bei der alles inklusive ist. Das Gleiche gilt für die Stornierung. Will man flexibel sein, dann kostet es mehr. Die Lufthansa arbeitet inzwischen, wie übrigens auch viele Billigairlines, mit einem Baukastenprinzip. Fast jede Leistung kostet extra. Bucht man einen Flug mit festem Sitzplatz und regulärem Gepäck plus Handgepäck, dann ist der Preis deutlich höher als vor dieser Umstellung. Und das liegt nicht nur am Kerosin. Gleichzeitig sinkt die Qualität im Service, zumindest bei Kurzstreckenflügen. Vor Corona gab es auch bei Kurzstreckenflügen mit Lufthansa in … würde. Das ist aber noch mal ein anderes Thema, das nur am Rande. Dann gibt es noch ein Detail, an dem Kunden merken, dass die Lufthansa sparen möchte. Flüge werden zunehmend von günstigeren Konzern-Airlines durchgeführt. Da werden Verbindungen, die man eigentlich über Lufthansa gebucht hatte, teilweise von Tochtergesellschaften wie Eurowings oder Discover Airlines bedient. Das alles macht sich auch beim Image der Lufthansa bemerkbar. Nicht nur die Kundenzufriedenheit ist laut Befragungen in den vergangenen Jahren zurückgegangen, sondern die Lufthansa hat auch eine für sie wichtige … gefunden sein. Die Frage ist: Wie seht ihr das denn? Seid ihr der Meinung, der Plan kann aufgehen? Oder seht ihr das eher kritisch? Welche Erfahrungen habt ihr zuletzt mit der Lufthansa gemacht? Schreibt es in die Kommentare. Und auch gerne Erfahrungsberichte, wenn ihr für die Lufthansa arbeitet oder gearbeitet habt. Danke schon mal dafür. Hier neben mir findet ihr ein Video zur deutschen Autobranche, auch sehr interessant. Und ein Video zu den Problemen der Bundesregierung. Schaut gerne mal rein. Danke euch dafür, danke fürs Zuschauen. Und bis zum nächsten Mal. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8333
+  "src": "cc"
  },
  "68br0SiSx_c": {
   "channel": "MrWissen2go",
