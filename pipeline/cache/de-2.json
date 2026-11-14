@@ -10776,7 +10776,7 @@
  "68br0SiSx_c": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-06T03:05:43+00:00",
+  "checked": "2026-11-14T01:18:36+00:00",
   "title": "Anschlag auf CSD in Berlin! Was ist passiert?",
   "duration": 415,
   "published": "20260726",
@@ -10784,71 +10784,40 @@
   "spoken_v": 2,
   "pace": 187.4,
   "rare": 0.0417,
+  "var": 0.8431,
   "speech_s": 391.2,
   "tokens": 1222,
   "kw": [
    [
-    "abdul",
-    "Abdul B., so sieht dieser Mann aus.",
-    153,
-    157,
-    3.2,
-    5
+    "polizei",
+    "so formuliert es die Polizei in einer Pressemitteilung,",
+    52,
+    56,
+    5.39,
+    11
    ],
    [
-    "christopher",
-    "Am Rande des Christopher Street Day hat es gestern Abend,",
-    1,
-    4,
-    4.05,
-    12
-   ],
-   [
-    "csd",
-    "abgekürzt CSD. Der CSD ist eine Veranstaltung, die, vereinfacht gesagt,",
-    222,
-    227,
-    3.2,
-    4
-   ],
-   [
-    "lgbtq",
-    "auf die Rechte von LGBTQ-Menschen aufmerksam machen soll,",
-    226,
-    229,
-    2.68,
-    2
-   ],
-   [
-    "gerast",
-    "in eine Menschenmenge gerast, im großen Tierpark.",
-    43,
-    46,
-    2.83,
-    2
-   ],
-   [
-    "menschenmenge",
-    "in eine Menschenmenge gerast, im großen Tierpark.",
-    43,
-    46,
-    3.36,
-    2
-   ],
-   [
-    "kommentaren",
-    "Deshalb gibt es unten in den Kommentaren",
-    28,
-    31,
-    3.86,
-    3
-   ],
-   [
-    "anschlag",
+    "berlin",
     "Anschlag in Berlin. Am Rande des Christopher Street Day hat es gestern Abend,",
     0,
     4,
-    4.23,
+    5.68,
+    9
+   ],
+   [
+    "anderem",
+    "Unter anderem, ob es sich um einen Anschlag handelt oder einen Unfall.",
+    94,
+    98,
+    5.1,
+    7
+   ],
+   [
+    "mann",
+    "Ein Mann ist dort am Rande des Christopher Street Day",
+    40,
+    44,
+    5.73,
     6
    ],
    [
@@ -10858,14 +10827,6 @@
     4,
     4.38,
     12
-   ],
-   [
-    "polizei",
-    "so formuliert es die Polizei in einer Pressemitteilung,",
-    52,
-    56,
-    5.39,
-    11
    ],
    [
     "day",
@@ -10884,14 +10845,6 @@
     9
    ],
    [
-    "berlin",
-    "Anschlag in Berlin. Am Rande des Christopher Street Day hat es gestern Abend,",
-    0,
-    4,
-    5.68,
-    9
-   ],
-   [
     "angriff",
     "nach dem Angriff noch unklar. Unter anderem, ob es sich um einen Anschlag handelt oder einen Unfall.",
     92,
@@ -10900,26 +10853,90 @@
     8
    ],
    [
-    "anderem",
-    "Unter anderem, ob es sich um einen Anschlag handelt oder einen Unfall.",
-    94,
-    98,
-    5.1,
-    7
+    "christopher",
+    "Am Rande des Christopher Street Day hat es gestern Abend,",
+    1,
+    4,
+    4.05,
+    12
    ],
    [
-    "mann",
-    "Ein Mann ist dort am Rande des Christopher Street Day",
-    40,
-    44,
-    5.73,
-    6
+    "kommentaren",
+    "Deshalb gibt es unten in den Kommentaren",
+    28,
+    31,
+    3.86,
+    3
+   ],
+   [
+    "verletzte",
+    "Und wie gesagt, es gibt drei lebensbedrohlich Verletzte,",
+    116,
+    120,
+    4.15,
+    2
+   ],
+   [
+    "betonen",
+    "Und auch, und das ist ganz wichtig an dieser Stelle zu betonen,",
+    362,
+    365,
+    3.98,
+    2
+   ],
+   [
+    "abdul",
+    "Abdul B., so sieht dieser Mann aus.",
+    153,
+    157,
+    3.2,
+    5
+   ],
+   [
+    "csd",
+    "abgekürzt CSD. Der CSD ist eine Veranstaltung, die, vereinfacht gesagt,",
+    222,
+    227,
+    3.2,
+    4
+   ],
+   [
+    "verlinkt",
+    "und in der Infobox einen Live-Blog verlinkt,",
+    30,
+    33,
+    3.52,
+    2
+   ],
+   [
+    "menschenmenge",
+    "in eine Menschenmenge gerast, im großen Tierpark.",
+    43,
+    46,
+    3.36,
+    2
+   ],
+   [
+    "gerast",
+    "in eine Menschenmenge gerast, im großen Tierpark.",
+    43,
+    46,
+    2.83,
+    2
+   ],
+   [
+    "lgbtq",
+    "auf die Rechte von LGBTQ-Menschen aufmerksam machen soll,",
+    226,
+    229,
+    2.68,
+    2
    ]
   ],
-  "tx": "Anschlag in Berlin. Am Rande des Christopher Street Day hat es gestern Abend, am Samstag, gegen 22 Uhr, einen Anschlag gegeben. 16 Menschen wurden dabei verletzt, drei davon schwer, eine Frau wurde getötet. Der Täter ist noch auf der Flucht. Mehr Infos dazu jetzt. (Sphärische Musik) Zuerst mal, wie immer in solchen Situationen, ein Hinweis. Dieses Video drehe ich am frühen Sonntagvormittag. Alles, was bis hierhin passiert ist, kann ich in dem Video abbilden. Das, was danach passiert, nicht. Deshalb gibt es unten in den Kommentaren und in der Infobox einen Live-Blog verlinkt, in dem ihr auf dem Laufenden gehalten werdet. Und damit zur ersten Frage: Was ist passiert? Gestern Abend gegen 22 Uhr hat es in Berlin einen Anschlag gegeben. Ein Mann ist dort am Rande des Christopher Street Day in eine Menschenmenge gerast, im großen Tierpark. 16 Menschen wurden verletzt, drei davon schwer, eine Frau wurde getötet. Außerdem soll der Täter auch Menschen mit Stichwerkzeugen, so formuliert es die Polizei in einer Pressemitteilung, verletzt haben und anschließend geflüchtet sein. Der Täter befindet sich immer noch auf der Flucht. Direkt nach Bekanntwerden des Angriffs wurde der Christopher Street Day in Berlin komplett beendet. Alle Veranstaltungen wurden abgebrochen, ein Evakuierungskonzept hat gegriffen, Polizei war vor Ort, Rettungskräfte und die Feuerwehr. Und auf der Suche nach dem Täter sind Hunderte Polizeikräfte in der Stadt im Einsatz gewesen und auch immer noch im Einsatz. Teilweise verdeckt, teilweise offen. Die Polizei fahndet mit Hochdruck nach dem Täter, und das inzwischen auch mit einer offiziellen Polizeimeldung. Dazu kommen wir gleich noch etwas genauer. Wie oft in solchen Fällen war vieles in den ersten Stunden nach dem Angriff noch unklar. Unter anderem, ob es sich",
+  "tx": "Anschlag in Berlin. Am Rande des Christopher Street Day hat es gestern Abend, am Samstag, gegen 22 Uhr, einen Anschlag gegeben. 16 Menschen wurden dabei verletzt, drei davon schwer, eine Frau wurde getötet. Der Täter ist noch auf der Flucht. Mehr Infos dazu jetzt. (Sphärische Musik) Zuerst mal, wie immer in solchen Situationen, ein Hinweis. Dieses Video drehe ich am frühen Sonntagvormittag. Alles, was bis hierhin passiert ist, kann ich in dem Video abbilden. Das, was danach passiert, nicht. Deshalb gibt es unten in den Kommentaren und in der Infobox einen Live-Blog verlinkt, in dem ihr auf … gerast, im großen Tierpark. 16 Menschen wurden verletzt, drei davon schwer, eine Frau wurde getötet. Außerdem soll der Täter auch Menschen mit Stichwerkzeugen, so formuliert es die Polizei in einer Pressemitteilung, verletzt haben und anschließend geflüchtet sein. Der Täter befindet sich immer noch auf der Flucht. Direkt nach Bekanntwerden des Angriffs wurde der Christopher Street Day in Berlin komplett beendet. Alle Veranstaltungen wurden abgebrochen, ein Evakuierungskonzept hat gegriffen, Polizei war vor Ort, Rettungskräfte und die Feuerwehr. Und auf der Suche nach dem Täter sind … Polizeimeldung. Dazu kommen wir gleich noch etwas genauer. Wie oft in solchen Fällen war vieles in den ersten Stunden nach dem Angriff noch unklar. Unter anderem, ob es sich um einen Anschlag handelt oder einen Unfall. Inzwischen spricht die Polizei Berlin offiziell von einem Anschlag, Ermittler sind im Einsatz und der Generalstaatsanwalt wurde eingeschaltet. Außerdem war es wichtig, direkt nach diesem Angriff den Menschen zu helfen, die betroffen sind. Unter anderem den Verletzten, aber auch denjenigen, die das mit anschauen mussten. Die Betreuung hält natürlich bis jetzt noch an. Und … Stunden nach dem Angriff hat die Polizei bereits eine Fahndungsmeldung veröffentlicht, in der nach einem, Zitat, flüchtigen Mann gefahndet wird. Dieser Mann soll in die Menschenmenge gerast sein und soll danach mit Stichwerkzeugen, so heißt es eben in dieser Meldung, Menschen verletzt haben. Der Mann soll ungefähr 1,90 Meter groß sein, weiße Hosen tragen und einen schwarzen Hoodie. Und es wird auch ein Foto und der Vorname des Mannes veröffentlicht, Abdul B., so sieht dieser Mann aus. Weil die Polizei das Foto veröffentlicht hat, hab ich mich dazu entschlossen, es auch hier zu … war. Außerdem kursieren jede Menge Videos im Internet, unter anderem Videos, die die Festnahme eines Mannes zeigen, der Abdul B. sein könnte. Die Polizei Berlin sagt allerdings nein, er sei nicht verhaftet worden. Die Bilder würden andere polizeiliche Maßnahmen zeigen und seien aus dem Zusammenhang gerissen. Außerdem gibt es Videos, in denen man einen Mann sieht, der sich selbst Abdul nennt, er sagt, er sei aus Deutschland abgeschoben worden, er würde jetzt nach Deutschland zurückkehren. Auch hier wird behauptet, das sei Abdul B., die Polizei bestätigt das allerdings nicht. Generell weist … die getroffen worden ist. Was ist der Christopher Street Day genau? Ich denke, die meisten von euch haben etwas von Christopher Street Day gehört, abgekürzt CSD. Der CSD ist eine Veranstaltung, die, vereinfacht gesagt, auf die Rechte von LGBTQ-Menschen aufmerksam machen soll, unter anderem auf die Rechte von Homosexuellen oder von trans* Personen. Der Christopher Street Day findet jedes Jahr statt, nicht nur in Berlin, sondern auch in vielen anderen deutschen und internationalen Städten. Zum ersten Mal in Berlin hat er 1979 stattgefunden. Die erste Veranstaltung dieser Art, noch nicht als … New Yorker Polizei gegen eine bekannte Schwulenbar in der Christopher Street in New York. Die Menschen dort haben sich das nicht gefallen lassen, es gab tagelang einen Aufstand. Das war letztlich der Anlass dafür, dass Menschen gesagt haben: Wir müssen aufstehen, wir müssen künftig laut auf unsere Rechte aufmerksam machen. Seitdem findet eben der Christopher Street Day jedes Jahr überall auf der Welt statt. Zur Geschichte der LGBTQ-Bewegung findet ihr übrigens oben auf dem \"i\" verlinkt ein Video. Allerdings muss man sagen, dass der Christopher Street Day vor allem in den vergangenen Jahren … Veranstaltung an sich, die hat zugenommen. Besonders bekannt geworden ist ein Angriff im Jahr 2022 in Oslo in Norwegen. Dort gab es ein islamistisches Attentat vor einer bekannten Bar am Rande der Pride Parade. Es gab Tote und Verletzte. Und immer wieder gibt es auch Drohungen und Angriffe aus rechtsextremer Seite zum Beispiel in der Slowakei, aber auch in anderen Ländern, unter anderem auch in den USA. Teilweise mussten Veranstaltungen deshalb auch abgesagt werden. Damit sind wir bei der letzten Frage für dieses Video hier, nämlich: Die Antwort lässt sich kurz zusammenfassen: Es gibt einen … offene, auf die freie Gesellschaft in Deutschland. Der CSD in Berlin stand dieses Jahr unter dem Motto \"Haltung ist hot\". Die Menschen sind unter anderem auch für Demokratie und für Freiheit auf die Straße gegangen. Ein Angriff gegen den CSD ist damit eben auch ein Angriff auf den Wert der Vielfalt. Und auch, und das ist ganz wichtig an dieser Stelle zu betonen, wenn der Täter bisher noch nicht gefasst ist und nichts über seine Motive bekannt ist, liegt es nahe, dass es einen Zusammenhang gibt mit diesem Angriff und dem Christopher Street Day. Dass es also kein Zufall war, dass … wird. Aber, das ist an dieser Stelle ganz wichtig zu betonen: die Ermittlungen laufen noch. Unter anderem auch zu der Frage, ob der Täter Komplizen gehabt haben könnte. Auch Medienberichte darüber, dass der mutmaßliche Täter Anhänger des sogenannten Islamischen Staates sein könnte, sind bisher nicht bestätigt. Am Abend soll es eine Pressekonferenz geben. Und ihr werdet über den Link in den Kommentaren und im Beschreibungstext auf dem Laufenden gehalten. Bitte bleibt in den Kommentaren sachlich. Danke schon mal dafür, danke fürs Zuschauen und bis zum nächsten Mal. © funk - von ARD und ZDF",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8626
+  "src": "cc"
  },
  "aiAOJX4Xk7A": {
   "channel": "tagesschau",
