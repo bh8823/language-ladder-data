@@ -228052,7 +228052,2221 @@
   "lang": "es",
   "status": "error",
   "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
-  "checked": "2026-11-14T15:06:44+00:00",
-  "tries": 2
+  "checked": "2026-11-15T22:41:09+00:00",
+  "tries": 3
+ },
+ "-2lCf4tchG0": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:15:35+00:00",
+  "title": "Trump urge al Congreso aprobar más fondos para modernizar el sistema aéreo de EE. UU.",
+  "duration": 156,
+  "published": "20261115",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 155.9,
+  "rare": 0.0557,
+  "var": 0.804,
+  "speech_s": 152.0,
+  "tokens": 395,
+  "kw": [
+   [
+    "congreso",
+    "este domingo al Congreso a aprobar",
+    4,
+    9,
+    5.05,
+    6
+   ],
+   [
+    "millones",
+    "legisladores 30,100 millones de dólares para actualizar la infraestructura",
+    24,
+    32,
+    5.46,
+    4
+   ],
+   [
+    "dicho",
+    "próximo. Dicho esto, se da por",
+    62,
+    66,
+    5.41,
+    4
+   ],
+   [
+    "dólares",
+    "legisladores 30,100 millones de dólares para actualizar la infraestructura",
+    24,
+    32,
+    5.06,
+    4
+   ],
+   [
+    "fondos",
+    "fondos para modernizar el sistema de",
+    6,
+    11,
+    4.75,
+    3
+   ],
+   [
+    "fallo",
+    "control aéreo del país. El fallo del",
+    8,
+    12,
+    4.38,
+    2
+   ],
+   [
+    "demócratas",
+    "congreso dominado por los demócratas entra recién en vigor el 1 de enero",
+    58,
+    65,
+    3.88,
+    4
+   ],
+   [
+    "aprobar",
+    "este domingo al Congreso a aprobar",
+    4,
+    9,
+    4.18,
+    3
+   ],
+   [
+    "aéreo",
+    "control aéreo del país. El fallo del",
+    8,
+    12,
+    4.11,
+    3
+   ],
+   [
+    "provocó",
+    "viernes, que provocó además la suspensión total de los despegues, deja",
+    10,
+    18,
+    4.19,
+    2
+   ],
+   [
+    "modernizar",
+    "fondos para modernizar el sistema de",
+    6,
+    11,
+    3.33,
+    2
+   ]
+  ],
+  "tx": "Y lo habíamos anunciado, el presidente de Estados Unidos, Donald Trump, urgió este domingo al Congreso a aprobar fondos para modernizar el sistema de control aéreo del país. El fallo del viernes, que provocó además la suspensión total de los despegues, deja aún más de 15 cancelaciones solo este domingo. Trump culpó de la situación a la anterior administración, la de Joe Biden, y ha pedido además a los legisladores 30,100 millones de dólares para actualizar la infraestructura aérea. El fallo del viernes dejó en tierra unos 12,000 vuelos, 9,000 de ellos comerciales. Los aeropuertos más afectados este domingo son los de Chicago, Atlanta, Nueva York, Dallas y Boston. Claro, exige al Congreso probar con rapidez los fondos y vamos por las novedades con José Díaz Briseño en nuestro estudio de Washington. José, muchos saludos y recordemos que el nuevo congreso dominado por los demócratas entra recién en vigor el 1 de enero próximo. Dicho esto, se da por descontado el trámite rápido, como quiere, presidente, que en dicho sea de paso responsabilizó a Biden por la falta de mantención en el sistema. Sí, aún antes de que los demócratas tomen control el Congreso en enero, como indicas, hay una pequeña ventana de oportunidad antes del 11 de diciembre en que el Congreso, aún dominado por los republicanos, pudiera aprobar esta solicitud de entre 30,000 y 50,000 millones de dólares que quiere el presidente Trump para modernizar el sistema de tráfico aéreo. Y sin embargo, ya los demócratas han dicho que eh la negociación no será fácil. Esto de acuerdo con congresistas y senadores entrevistados este domingo por diversos medios de comunicación aquí. ¿Por qué? Porque ya previamente el Congreso en había aprobado 12,500 millones de dólares el año pasado justamente para este propósito, de los cuales la administración Trump solo ha gastado efectivamente 1000 millones de dólares, es decir, una doceava parte. Y es por eso que los demócratas antes de aprobar más fondos quieren saber en qué se va a ocupar y los propios investigadores del Capitolio han dicho, se necesita específicamente una agenda de los tiempos y en lo que se va a gastar y que no corra peligro también el acelerar la implementación, pues algunos sospechan que es justamente estas prisas en instrumentar cambios lo que pudo haber ocasionado el gran problema que provocó el cierre de los del espacio aéreo a todos los vuelos este eh viernes. Friseño, muchas gracias.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "gW-gGTD3ky4": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:15:59+00:00",
+  "title": "Miles de pasajeros siguen afectados en Estados Unidos tras caos por suspensión de vuelos",
+  "duration": 362,
+  "published": "20261114",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 146.2,
+  "rare": 0.0539,
+  "var": 0.7965,
+  "speech_s": 350.5,
+  "tokens": 854,
+  "kw": [
+   [
+    "hoy",
+    "aeropuertos del país. Eh, tan solo hoy",
+    219,
+    225,
+    5.74,
+    4
+   ],
+   [
+    "nadie",
+    "No prestan ayuda. Nadie ayuda con nada.",
+    89,
+    95,
+    5.67,
+    4
+   ],
+   [
+    "control",
+    "instalaciones de control de tráfico aéreo. Una interrupción que provocó caos",
+    18,
+    26,
+    5.22,
+    4
+   ],
+   [
+    "viernes",
+    "ordenó este viernes la suspensión de",
+    13,
+    17,
+    4.9,
+    4
+   ],
+   [
+    "fallo",
+    "todos los vuelos debido a un fallo grave",
+    14,
+    19,
+    4.38,
+    6
+   ],
+   [
+    "pasajeros",
+    "y decenas de miles de pasajeros dentro y",
+    1,
+    6,
+    4.44,
+    5
+   ],
+   [
+    "secretario",
+    "A las 4 horas de paro, el secretario de",
+    123,
+    128,
+    4.76,
+    3
+   ],
+   [
+    "tráfico",
+    "instalaciones de control de tráfico aéreo. Una interrupción que provocó caos",
+    18,
+    26,
+    4.6,
+    3
+   ],
+   [
+    "vuelos",
+    "a retrasos en sus vuelos debido a la",
+    5,
+    10,
+    4.19,
+    11
+   ],
+   [
+    "interrupción",
+    "aéreo. Una interrupción que provocó caos",
+    20,
+    26,
+    3.82,
+    5
+   ],
+   [
+    "aéreo",
+    "aéreo. Una interrupción que provocó caos",
+    20,
+    26,
+    4.11,
+    4
+   ],
+   [
+    "telecomunicaciones",
+    "interrupción en las telecomunicaciones afectara a varios centros de control.",
+    37,
+    45,
+    4.09,
+    4
+   ],
+   [
+    "varados",
+    "pasajeros varados. Se suspendieron las salidas en todos los",
+    30,
+    38,
+    3.07,
+    4
+   ],
+   [
+    "retrasos",
+    "a retrasos en sus vuelos debido a la",
+    5,
+    10,
+    3.43,
+    2
+   ],
+   [
+    "cancelados",
+    "José, 5000 vuelos cancelados solo este",
+    202,
+    207,
+    3.08,
+    2
+   ]
+  ],
+  "tx": "y decenas de miles de pasajeros dentro y fuera de los Estados Unidos se enfrentan a retrasos en sus vuelos debido a la suspensión generalizada de las operaciones aéreas en ese país. La Administración Federal de Aviación ordenó este viernes la suspensión de todos los vuelos debido a un fallo grave en los sistemas de comunicación de las instalaciones de control de tráfico aéreo. Una interrupción que provocó caos en los viajes dentro de los Estados Unidos y más allá incluso de su frontera, solo en México, para que usted se haga una idea, quedaron 18,000 pasajeros varados. Se suspendieron las salidas en todos los aeropuertos del país después de que una interrupción en las telecomunicaciones afectara a varios centros de control. Los vuelos, que ya estaban en el aire, prosiguieron su ruta, pero se anularon todos los despegues. Las autoridades subrayan que no había motivo de alarma. Para que quede claro, de momento no hay indicios de que esto representara una amenaza para Estados Unidos. Fue una interrupción en las telecomunicaciones que afectó a toda la administración federal de Aviación. Hemos suspendido todos los vuelos por precaución. Se formaron largas filas en los mostradores de las aerolíneas mientras los pasajeros buscaban información sobre sus vuelos. Más de un millón de personas se vieron afectadas. No volveré a tomar un avión en mi vida. Téngalo por seguro. No prestan ayuda. Nadie ayuda con nada. Estoy frustrado, agotado. Llevo 16 horas viajando. Nadie dice nada. Nadie sabe nada. Es un desastre. Mi hija se casa mañana, así que estamos viendo cómo llegar hasta allí. Esperamos que esto se calme un poco porque nadie quiere perderse la boda de su hija. A las 4 horas de paro, el secretario de transporte anunció la reanudación del tráfico, pero advirtió de que los retrasos eran inevitables. Hemos abierto el espacio aéreo. ¿Significa eso que todos los vuelos saldrán de inmediato? El proceso será lento. Nos llevará algún tiempo resolver todo esto. Según Dafi, el incidente destapó un sistema de control de tráfico aéreo obsoleto y pidió fondos al Congreso. Quiero 50,000 millones de dólares. ¿Qué hay más importante que un sistema de control que realmente funcione? Se necesitan nuevos equipos y programas y nuevos sistemas de telecomunicaciones. Muchas de nuestras torres tienen casi 100 años. Los controladores trabajan con goteras en el techo y aires acondicionados que no funcionan. Los ascensores no funcionan. Quiero torres nuevas. El impacto de la interrupción se extendió por todo el mundo con numerosos vuelos con destino a Estados Unidos que no despegaron. Las autoridades aeronáuticas investigarán ahora cómo un fallo en las comunicaciones pudo paralizar el espacio aéreo y si algo así podría repetirse. El periodista José Díaz Briseño está con nosotros en Washington con los detalles. José, 5000 vuelos cancelados solo este sábado, decenas de miles de varados. ¿Cuán grande sigue siendo el impacto de este fallo masivo? Así es, la histórica interrupción en los vuelos del viernes ha tenido efectos cascada alrededor de todos los aeropuertos del país. Eh, tan solo hoy las autoridades aseguran eh se verán cancelados alrededor de 5,000 vuelos de los 41,000 que normalmente un sábado como hoy están eh pues en funciones originalmente. Esto sin contar las los retras los vuelos retrasados y en adición a los ya afectados el viernes. Las autoridades han dicho que esperan que para finales del domingo esta situación quede restablecida. Y sin embargo, de acuerdo con consultoras del sector privado, se establece que los las firmas más eh afectadas de aviación fueron American Airlines, eh Delta Airlines y United Airlines. Y los aeropuertos más afectados fueron los más grandes, Estados Unidos, Atlanta, también Chicago, Dallas y también JFK en Nueva York. Y como vimos y escuchamos, las molestias de los pasajeros varados no se han hecho esperar. Hoy día también el gobierno de los Estados Unidos, José, reconocía que se podía volver a repetir un fallo incluso en el corto plazo. Por eso te pregunto, ¿qué medidas adicionales se están discutiendo para que este fallo no se vuelva a repetir? eh no solamente ahora, sino también más adelante, mediano plazo. El fallo central que señaló hoy el secretario de transporte Shan Dofi, es esta transición que se está haciendo ya desde hace años para pasar de un sistema de telecomun telecomunicaciones basado en cables de cobre a uno eh pues basado en fibra óptica. esa transición todavía no es completada y de acuerdo con el contratista que estuvo haciendo los trabajos eh ayer y que pues atribuye originalmente la falla, eh se dice que solo se han completado 70% de la renovación de cobre a fibra óptica. Es decir, todavía hay un 30% de trabajos que tienen que ocurrir. Lo que se está cuestionando es la hora y el tiempo en el que se hizo esta reparación, eh, que era originalmente un viernes que no pensaban iba a tener afectaciones y sin embargo ya se vio que no fue así. Miles de pasajeros varados y es algo que seguramente el Congreso estará investigando y ya escuchamos, el propio secretario de transporte quiere 50,000 millones de dólar para asegurar esta transición. José Díaz Brceño, muchas gracias por estas novedades en Washington.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "Vn7vAwSfQoI": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:16:50+00:00",
+  "title": "Alemania: el enfermo de Europa que encontró una nueva economía",
+  "duration": 776,
+  "published": "20261114",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 142.0,
+  "rare": 0.0456,
+  "var": 0.7997,
+  "speech_s": 750.8,
+  "tokens": 1777,
+  "kw": [
+   [
+    "industria",
+    "valores que afectan a la industria",
+    48,
+    52,
+    4.96,
+    12
+   ],
+   [
+    "millones",
+    "servicios por 170.000 millones de euros",
+    39,
+    45,
+    5.46,
+    7
+   ],
+   [
+    "energía",
+    "mantienen el costo de la energía en",
+    46,
+    51,
+    5.03,
+    7
+   ],
+   [
+    "economía",
+    "La economía alemana está en crisis.",
+    0,
+    5,
+    5.14,
+    6
+   ],
+   [
+    "alemana",
+    "La economía alemana está en crisis.",
+    0,
+    5,
+    4.21,
+    10
+   ],
+   [
+    "euros",
+    "servicios por 170.000 millones de euros",
+    39,
+    45,
+    4.63,
+    6
+   ],
+   [
+    "alemán",
+    "alemán era sinónimo de estatus y de alta",
+    95,
+    101,
+    4.55,
+    6
+   ],
+   [
+    "motor",
+    "El confiable motor alemán dejó de ser un",
+    140,
+    145,
+    4.6,
+    5
+   ],
+   [
+    "institutos",
+    "alemán. Los principales institutos económicos del país coinciden en que el",
+    353,
+    361,
+    3.88,
+    5
+   ],
+   [
+    "artificial",
+    "artificial impulsa a Alemania este año.",
+    360,
+    366,
+    4.14,
+    4
+   ],
+   [
+    "semestre",
+    "Si comparamos el primer semestre de este",
+    102,
+    107,
+    4.19,
+    3
+   ],
+   [
+    "exportaciones",
+    "exportaciones repuntando fuerte. Y lo hace en el peor contexto, cuando",
+    24,
+    33,
+    4.05,
+    3
+   ],
+   [
+    "startups",
+    "tenía, las startups, empresas tecnológicas que nacen en un garage,",
+    426,
+    432,
+    3.1,
+    6
+   ],
+   [
+    "automotriz",
+    "otrora poderosa industria automotriz alemana es el sector que por mucho más",
+    106,
+    115,
+    3.46,
+    4
+   ],
+   [
+    "alemanas",
+    "exportaciones alemanas a ese país cayeron un 9% el año pasado, cuando en",
+    32,
+    40,
+    3.58,
+    3
+   ],
+   [
+    "coyuntura",
+    "Aquí hay algo de coyuntura porque los",
+    378,
+    383,
+    3.59,
+    2
+   ],
+   [
+    "unicornios",
+    "unicornios. Alemania tiene hoy 38 unicornios, un",
+    438,
+    448,
+    2.91,
+    2
+   ]
+  ],
+  "tx": "La economía alemana está en crisis. Alemania es el enfermo de Europa. Esto lo venimos escuchando hace años, pero de repente aparece el canciller Federal y dice esto. Escucha. El gobierno ahora espera que la economía crezca 1,3% este año con las exportaciones repuntando fuerte. Y lo hace en el peor contexto, cuando Estados Unidos le puso aranceles y las exportaciones alemanas a ese país cayeron un 9% el año pasado, cuando en 2025 le compró a China bienes y servicios por 170.000 millones de euros y le vendió apenas 81.000 millones. Y las guerras en Medio Oriente y Ucrania mantienen el costo de … fabricando, entre otras cosas, automóviles. Desde China hasta Estados Unidos, un auto alemán era sinónimo de estatus y de alta calidad. Hoy la realidad es muy distinta. Si comparamos el primer semestre de este año con el último del año pasado, la otrora poderosa industria automotriz alemana es el sector que por mucho más empleados despidió. Solo Volkswagen anunció 50.000 despidos en Alemania de aquí a 2030 y su presidente, Oliver Blume, advirtió que otros 50.000 puestos en todo el mundo están en riesgo. Durante 25 años, Volkswagen fue la marca más vendida en China, un mercado que llegó a … baterías y software. Robert Sisek, CEO de Volkswagen en China, llegó a decirle a la agencia Reuters que para algunos jóvenes Volkswagen era la marca de sus padres. Es una reacción que demuestra que eh los directores de la empresa no han reaccionado, ¿no? A los eh al desdesarrollo del mercado internacional a tiempo. Están Están reaccionando ahora, pero muy muy tarde. Ya tenemos una pista de cómo se enfermó el paciente. Un paciente que cometió también otros errores, como el de la provisión de energía. En abril de 2023 Alemania pagó sus últimas tres centrales nucleares. A esto se suma la … fuerza laboral desde 2019. ¿Pero por qué ocurre esto? Se suele decir que el trabajador alemán es demasiado caro, pero esta es una verdad a medias. Si comparamos una hora de un trabajador industrial en Alemania en 2025 costaba solo 70 centavos más que en Francia, pero casi 3 menos que en Países Bajos. Las empresas alemanas tenían en cada uno de sus mercados una posición muy fuerte y esta posición muy fuerte les dio ímpetu para aumentar los precios, ¿eh? Y también para vivir con costos altos. Por ejemplo, los trabajadores de de Volkswagen en esta Alemania pertenecen bueno, a los a los mejor … también muestra que algunos órganos funcionan muy bien. Y esta es nuestra tesis. La vieja industria está en crisis, es claro. Pero están haciendo una nueva economía y es la que empuja fuerte el crecimiento alemán. Los principales institutos económicos del país coinciden en que el auge mundial de la inteligencia artificial impulsa a Alemania este año. Alemania exporta equipos para procesar datos, construye los centros de datos, venden servicios de información y de comunicación. En el primer semestre las exportaciones de la industria crecieron mucho más de lo esperado. Aquí hay algo de … con las aplicaciones industriales, la eh que tienen que ver con de negocio a negocio. Esta es una medicina para dos de los problemas de nuestro paciente, la baja productividad y la falta de trabajadores cualificados. Y aparece algo que Alemania casi no tenía, las startups, empresas tecnológicas que nacen en un garage, como fue el caso de Apple en Estados Unidos y crecen muy rápido. Cuando llegan a valer más de 1,000 millones de euros se las conoce como unicornios. Alemania tiene hoy 38 unicornios, un récord, y las 10 últimas se sumaron solo este año, la mayor cantidad desde 2021. Y fíjate … es el Estado. Este año Alemania destinará 108,200 millones de euros a defensa. La empresa de defensa Rheinmetall aumentó casi 40% sus ventas en el primer semestre. Tiene pedidos por 80,500 millones de euros que todavía tiene que fabricar. Todo esto explica el giro. En primavera los institutos esperaban un crecimiento mínimo. Ahora subieron la previsión 0,7 puntos hasta los 1,3% de crecimiento. Por eso el canciller Friedrich Merz pudo presumir y dar buenas noticias para Alemania, como vimos al comienzo. Pero cuidado. Este paciente se recupera, pero aún con varias dolencias que hay que … le cuestan a Alemania 146,000 millones de euros por año, en lo que al final se traduce en más nervios y tiempo perdido. Te pongo un ejemplo. La burocracia que implica poner en marcha un molino de viento, es decir, la energía limpia y renovable de este país. Esos molinos de viento se se montan en tres días. Hasta comienzos del año corriente las empresas que se dedicaban a eso necesitaban 8 años para conseguir todos los permisos necesarios, ¿eh? Para poder hacerlo en forma legal. Y vamos a uno de los grandes problemas de la nueva economía. No hay capital de riesgo para financiar a las … la industria automotriz. Cuando ya son los procesos más especializados, se necesita de personas con mayor eh eh calificación de ingeniería. Y esto tiene una ventaja eh para Alemania, pero también una desventaja porque para todos los profesionistas jóvenes estamos viendo que no hay una necesidad para contratarlos. Y la última dolencia, la deuda pública. El déficit del Estado llegará este año al 4,1% del producto y los institutos advierten que el gasto en intereses va a subir mucho. El Estado alemán pagará más caro por endeudarse y, por tanto, las pobres startups también. Por todo esto, las … alemana se va a concentrar en un futuro más bien en en en nichos en en nichos de autos de lujo. La receta del médico incluye inversión, energía más barata, más especialización y menos trabas burocráticas. Si toma estas medicinas, el potencial es enorme. Sin reformas, los institutos pronostican un magro crecimiento del 0,4% ya en 2028. Soy Ezequiel Daray y esto fue Plaza Frankfurt y nuestro análisis sobre la nueva Alemania. Y ahora quiero conocer tu opinión. ¿Crees que la tan necesaria reconversión llegará a tiempo? ¿Volverá Alemania a ser el motor de Europa? Te leo en los comentarios.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "Z0j3GIrXHMs": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:17:05+00:00",
+  "title": "Voluntarias limpian un humedal clave de Bolivia",
+  "duration": 416,
+  "published": "20261114",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 146.8,
+  "rare": 0.1241,
+  "var": 0.7914,
+  "speech_s": 411.6,
+  "tokens": 1007,
+  "kw": [
+   [
+    "entonces",
+    "Entonces ellos solo se tienen que",
+    38,
+    43,
+    5.65,
+    7
+   ],
+   [
+    "agua",
+    "es limpiar el agua. Sus tallos retienen plásticos y",
+    97,
+    104,
+    5.49,
+    7
+   ],
+   [
+    "equipo",
+    "Para recuperar el humedal, el equipo de",
+    138,
+    143,
+    5.49,
+    5
+   ],
+   [
+    "tema",
+    "es el tema primero de las aguas",
+    58,
+    63,
+    5.4,
+    4
+   ],
+   [
+    "lago",
+    "de Bolivia, el lago Uru-Uru lucha por",
+    4,
+    10,
+    4.48,
+    6
+   ],
+   [
+    "contaminación",
+    "sobrevivir a la contaminación y la",
+    7,
+    12,
+    4.21,
+    4
+   ],
+   [
+    "raíces",
+    "sedimentos, mientras que sus raíces actúan como filtros naturales que",
+    101,
+    108,
+    4.35,
+    3
+   ],
+   [
+    "plástico",
+    "plástico y altas concentraciones de metales pesados.",
+    51,
+    59,
+    4.24,
+    3
+   ],
+   [
+    "orilla",
+    "la orilla se transforma en un lodazal",
+    147,
+    152,
+    4.08,
+    2
+   ],
+   [
+    "bloques",
+    "bloques vivos de vegetación que trasladan a otras zonas para que se",
+    229,
+    237,
+    3.99,
+    2
+   ],
+   [
+    "metales",
+    "metales pesados. Lo que realmente afecta al lago Uru-Uru",
+    53,
+    60,
+    3.95,
+    2
+   ],
+   [
+    "pesados",
+    "metales pesados. Lo que realmente afecta al lago Uru-Uru",
+    53,
+    60,
+    3.89,
+    2
+   ],
+   [
+    "balsas",
+    "balsas flotantes con postes de 2 m",
+    153,
+    158,
+    3.05,
+    4
+   ],
+   [
+    "contaminantes",
+    "absorben contaminantes y aceleran la descomposición de los residuos.",
+    105,
+    112,
+    3.52,
+    2
+   ],
+   [
+    "ancestrales",
+    "recupera saberes ancestrales para proteger este ecosistema y las numerosas",
+    18,
+    25,
+    3.44,
+    2
+   ],
+   [
+    "altiplano",
+    "A las puertas de Oruro, en the altiplano",
+    2,
+    8,
+    3.33,
+    2
+   ],
+   [
+    "totora",
+    "Durante siglos la totora se ha utilizado",
+    90,
+    94,
+    2.5,
+    10
+   ],
+   [
+    "humedal",
+    "El humedal es sitio Ramsar por su",
+    44,
+    49,
+    2.71,
+    5
+   ],
+   [
+    "cuadradito",
+    "entre cada cuadradito de totora. Entonces, en cada cuadrícula entra un",
+    199,
+    206,
+    2.15,
+    2
+   ]
+  ],
+  "tx": "A las puertas de Oruro, en the altiplano de Bolivia, el lago Uru-Uru lucha por sobrevivir a la contaminación y la degradación ambiental. Pero hay quienes se resisten a verlo desaparecer. Como Dayana Blanco, una joven aimara que recupera saberes ancestrales para proteger este ecosistema y las numerosas especies que habitan en él. Y me gusta este trabajo de restauración es por las aves, ¿no? Porque al menos nosotros como personas, los pueblos indígenas, todos tienen como este derecho de pues hablar, pero los animales no, los flamencos no. Entonces ellos solo se tienen que adaptar a lo que el hombre está haciendo cada vez. El humedal es sitio Ramsar por su riqueza biológica y refugio de aves migratorias, pero hoy está atrapado en toneladas de plástico y altas concentraciones de metales pesados. Lo que realmente afecta al lago Uru-Uru es el tema primero de las aguas residuales que vienen de las mineras y desembocan todos en el lago Uru-Uru, ¿no? Dos es la contaminación plástica, ¿no? O sea, la gente no sabe reciclar. Lo linkeamos esto mucho lo que falta el tema de educación ambiental en la currícula educativa. El tercer problema es el cambio climático, algo que es la verdad incontrolable. Las imágenes muestran la magnitud del problema, pero también la de una respuesta que une saberes ancestrales y ciencia. Durante siglos la totora se ha utilizado para construir embarcaciones y viviendas. Sin embargo, su función más importante es limpiar el agua. Sus tallos retienen plásticos y sedimentos, mientras que sus raíces actúan como filtros naturales que absorben contaminantes y aceleran la descomposición de los residuos. Entonces ahorita lo que la totora está haciendo en este lugar es absorber los metales pesados, ¿no? Entonces cuando la totora absorbe todo esto y empieza a purificar, ese es proceso de fitorremediación. Que al alimentarse eh da otro paso a los microorganismos del agua para que degraden más rápidamente los desechos. Entonces, al degradar más rápidamente los desechos ya no se siente ese olor. Para recuperar el humedal, el equipo de Uru Uru se adaptó a las condiciones extremas del Altiplano. El momento más complicado llega con las lluvias, cuando la orilla se transforma en un lodazal inaccesible. Para seguir trabajando construyeron balsas flotantes con postes de 2 m unidos en hileras, una estructura que mantiene las plantas a flote y permite contener la contaminación. Pero para el medio ya necesitamos hacer una balsa, porque si no se va a hundir y cuando se hunde y se entra realmente la totora no está haciendo su trabajo, ¿no? Porque se está ahogando. Entonces, las balsas para qué en realidad sirven, para se para que se conecten en la superficie, ¿no? Y las totoras no se ahoguen y se unan. Sobre estas balsas crecen las totoras, al tiempo que reciben luz y humedad en la superficie. Bajo el agua filtran contaminantes recuperando el humedal hasta formar nuevos totorales. Ir, por ejemplo, cuadriculando para que entre cada cuadradito de totora. Entonces, en cada cuadrícula entra un cuadradito de totora. Ya hay 40 balsas instaladas para la temporada de lluvias, pero la sequía tampoco da tregua, por lo que el equipo de Uru Uru recurre a otra técnica ancestral, el retepeo, una práctica que aprovecha la capacidad de la totora para rebrotar y colonizar nuevos espacios. Para aplicarla identifican un totoral sano y con palas y picotas extraen bloques vivos de vegetación que trasladan a otras zonas para que se adapte y crezca. Y mientras tú le lleves un poco de lo que era la casa de la totora con ella, pues se va a adaptar fácilmente, ¿no? Porque obviamente le estamos sacando de un ambiente, tal vez limpio, de agua limpia, a un ambiente totalmente contaminado. Entonces esa adaptación, esa transición también tiene que ser ayudada, ¿no? ¿Y cómo lo ayudamos? Obviamente con el tema de su raíz, con el tema de su tierra y de esa forma se van adaptando al lugar contaminado. Los bloques se replantan en zonas degradadas de la orilla del lago. Gracias al lodo blando pueden echar raíces, crecer con fuerza y contribuir a la limpieza del agua. Así nos explican Nadir, una de las 50 integrantes del equipo Uru Uru. Se saca de cierta profundidad que unos por lo menos de unos cinco a siete centímetros con la tierra arcillosa y se procede a hacer el trasplantado a un lugar que igual tenga agua para que vuelva a despertar. Comprobar si la totora echó raíces requiere paciencia y al menos 30 días. Puede crecer hasta por lo menos un metro en un periodo de un año. Para ver que efectivamente se ha agarrado de buenas a primeras, solo se basta con que la base de la totora empiece a reverdecer. En las zonas intervenidas han logrado reducir la contaminación hasta en un 30 por ciento. Pero la naturaleza no puede hacerlo sola. Equipados con botas, guantes y sacos realizan jornadas de limpieza. Nancy y Liliana recorren las orillas retirando plásticos enterrados para devolverle espacio al humedal y permitir que la vegetación crezca. Realmente no hay lago, no hay lago, está seco. ¿Y por qué? Ahora lo entiendo, veo tanta basura, ¿no? Tanto plástico, tanto que está dañando, ¿no? Ese medio ambiente. La impresionante cantidad de bolsa de plástico, ¿no? Que hay en el agua, ¿no? Que el olor. La labor no ha pasado desapercibida. Dayana y el equipo Uru-Uru han recibido reconocimientos de la Convención Ramsar sobre humedales de Naciones Unidas y del Global Landscapes Forum. Además, esta organización la eligió como una de las ocho mujeres del mundo que forman parte de Regeneration 2026, una iniciativa que reúne a líderes con nuevas propuestas para restaurar y proteger el planeta. Creo que también los jóvenes tenemos esa actitud, ¿no? De pasar de la queja y del lamento a la acción. La recuperación de un ecosistema no ocurre de la noche a la mañana. Por eso el equipo Uru-Uru se ha propuesto plantar totoras a lo largo de 232 km y seguir devolviéndole la vida a este humedal.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "nDa6s0WrwwM": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:17:10+00:00",
+  "title": "🟢 Las principales noticias económicas de la semana",
+  "duration": 721,
+  "published": "20261114",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 146.6,
+  "rare": 0.0684,
+  "var": 0.812,
+  "speech_s": 688.3,
+  "tokens": 1682,
+  "kw": [
+   [
+    "china",
+    "del Estado de China para espiar al",
+    34,
+    39,
+    5.0,
+    9
+   ],
+   [
+    "según",
+    "Según informaciones de prensa basadas en",
+    27,
+    31,
+    5.62,
+    6
+   ],
+   [
+    "productos",
+    "No queremos solo vender productos y",
+    421,
+    426,
+    5.05,
+    6
+   ],
+   [
+    "pues",
+    "Así que pues eh yo creo que necesitamos",
+    464,
+    470,
+    5.68,
+    5
+   ],
+   [
+    "inteligencia",
+    "inteligencia artificial. Según informaciones de prensa basadas en",
+    25,
+    31,
+    4.72,
+    4
+   ],
+   [
+    "estadounidense",
+    "tecnología estadounidense puede ejecutar y operar esos modelos de IA será",
+    99,
+    106,
+    4.73,
+    3
+   ],
+   [
+    "inversión",
+    "hacer la gran inversión. Así que pues eh yo creo que necesitamos",
+    463,
+    470,
+    4.72,
+    3
+   ],
+   [
+    "ejecutivo",
+    "director ejecutivo y cofundador de Nvidia, había presentado su renuncia.",
+    15,
+    22,
+    4.7,
+    3
+   ],
+   [
+    "artificial",
+    "inteligencia artificial. Según informaciones de prensa basadas en",
+    25,
+    31,
+    4.14,
+    3
+   ],
+   [
+    "comerciantes",
+    "Hasta entonces, cientos de comerciantes recibían pagos a través de esta entidad",
+    265,
+    272,
+    4.13,
+    2
+   ],
+   [
+    "explotar",
+    "posibilidad de explotar varios yacimientos petrolíferos con reservas de",
+    208,
+    218,
+    4.13,
+    2
+   ],
+   [
+    "acusaciones",
+    "acusaciones. Solo sé que es una buena persona, pero",
+    129,
+    136,
+    4.12,
+    2
+   ],
+   [
+    "chips",
+    "del principal fabricante de chips para",
+    23,
+    27,
+    3.45,
+    4
+   ],
+   [
+    "pique",
+    "se fue al pique. Se fue al pique, no vendimos nada, no",
+    283,
+    289,
+    3.48,
+    2
+   ],
+   [
+    "cofundador",
+    "director ejecutivo y cofundador de Nvidia, había presentado su renuncia.",
+    15,
+    22,
+    3.35,
+    2
+   ],
+   [
+    "ueno",
+    "ueno bank y ordenó su liquidación.",
+    262,
+    268,
+    2.46,
+    4
+   ],
+   [
+    "memorando",
+    "había reconocido en un memorando dirigido a sus empleados que le había",
+    156,
+    162,
+    2.95,
+    2
+   ]
+  ],
+  "tx": "La sede de Nvidia en Santa Clara, California, este jueves por la mañana, hora local. Desde afuera nada parece indicar la crisis que atraviesa la empresa. Pocas horas antes, Jensen Huang, director ejecutivo y cofundador de Nvidia, había presentado su renuncia. Las relaciones extramatrimoniales le costaron el cargo al máximo responsable del principal fabricante de chips para inteligencia artificial. Según informaciones de prensa basadas en fuentes de los servicios de inteligencia estadounidenses, Alice Huang fue reclutada por el Ministerio de Seguridad del Estado de China para espiar al … personales y las redes informales pueden aprovecharse para obtener acceso a fuentes de información o ejercer influencia. Todavía a finales de octubre Jensen Huang había abogado por levantar las restricciones a la exportación de determinados chips a China. El mercado chino es grande y dinámico con numerosos desarrolladores que crean tecnología de inteligencia artificial que China exporta a todo el mundo. Por eso, en la medida en que la tecnología estadounidense puede ejecutar y operar esos modelos de IA será beneficioso para Estados Unidos y para el resto del mundo. ¿Quiere que se permita … un trabajo verdaderamente extraordinario. El Ministerio de Relaciones Exteriores de China rechazó categóricamente las acusaciones de espionaje. La supuesta acusación sobre un espía chino carece de fundamento. No es más que una difamación contra China. A principios de semana Jensen Huang había reconocido en un memorando dirigido a sus empleados que le había sido infiel a su esposa y aseguró que colaboraba con la investigación interna. Sin embargo, la presión sobre Huang terminó por volverse insostenible cuando los medios informaron sobre otra relación extramatrimonial, esta vez con una … El acuerdo abre a Exxon Mobil la posibilidad de explotar varios yacimientos petrolíferos con reservas de varios miles de millones de barriles. En Chile cientos de conductores de camiones y autobuses se manifestaron contra la subida de los precios del combustible, quedando parados en las principales autopistas del país por tres días. Las manifestaciones están provocando cortes parciales de tráfico en varias regiones del país. Desde primeras horas de la mañana los transportistas se están concentrando en varios puntos de la Ruta 5 que atraviesa Chile de norte a sur. Exigen medidas para … Eh, parecía un había una desolación, tristeza total acá en el mercado. Con mi compañera nos mirábamos, no había nada porque ya nos acostumbramos con la transferencia, a la gente se manejó a manejarse así y de repente pasó esto y todo para abajo. La misma situación afecta a los puestos de frutas y verduras. También ahí las ventas han caído. Tenemos todos miedo ya luego. Eh, es muy difícil confiar más en los bancos. Eh, algunos van a tener su credibilidad, por ejemplo, pero hay algunos que no porque este es un un jaque para todos los pueblos paraguayos. Leonardo Ojeda, presidente de la … el martes el nuevo presidente de Paraguay, Pedro Alliana, el 95% de los clientes ya lo recuperó a través del Fondo de Garantía de Depósitos del país. El resto espera recuperar su dinero esta semana. El 60% del puerto peruano de Chancay pertenece a la naviera china COSCO Shipping, que también se encarga de su gestión. Los chinos llevan la delantera en materia de inversiones y colaboraciones en toda Latinoamérica, algo que los participantes en la Conferencia del Día de América Latina de este año quieren cambiar. En este sentido, los europeos quieren asumir un papel diferente al de los … veo el desafío, que tal vez tiene que ver mucho con la mentalidad alemana, ¿verdad? Que nos gusta analizar los riesgos antes de hacer la gran inversión. Así que pues eh yo creo que necesitamos un poco más de rapidez. Según un estudio del Fondo Monetario Internacional difundido el lunes, si la región aprovechara mejor la inversión extranjera, las exportaciones de América Latina y el Caribe podrían ser más de un 20% más altas. En Latinoamérica tenemos todavía una brecha muy grande que cerrar en infraestructura, por ejemplo, si hablamos de caminos, hablamos de trenes, hablamos de puertos, … aprovechamiento según la opinión general en Hamburgo. Hay muy buenas oportunidades para ayudar a los países de América Latina a generar valor añadido en sus propios territorios. Las empresas alemanas pueden contribuir con soluciones de ingeniería mecánica y de eficiencia energética, tecnología de sensores y todo tipo de aplicaciones. De ahí pueden surgir también alianzas para garantizar a Alemania el abastecimiento de materias primas. Debemos plantearlo en ambos sentidos. La conclusión que arroja la conferencia es que, en vista de las circunstancias geopolíticas actuales, es hora de … de 2026 respecto al mismo mes del año anterior, la fabricación de bolsos y de cueros aumentó el 27,8% impulsado también por las exportaciones. Según la Asociación del sector, es el resultado de la calidad y durabilidad del producto colombiano. Pero la competencia de plataformas de importados como Temu y Shein se siente fuerte en mercados populares en productos textiles. Sí, digamos en la parte de los corsets eh que antes vendíamos muchos más, sí, porque es algo que acá nacional para sacarlo, para fabricarlo eh se necesita mucho trabajo. Eh también la mano de obra de un corset es muy … que una política proteccionista que nada más lo que hace es dilatar esta muerte de de de las empresas que se quedan atrás. En talleres como el de José piensan que la mejor manera de competir es volver al origen y vender productos de excelente calidad. Es el trabajo manual excepcional, el tejido excepcional y ese rescate cultural único. Entonces haciendo ese énfasis en lo que nosotros sabemos y en lo que nosotros desarrollamos, pues podemos llegar a hacer algo que ellos no puedan hacer, que no nos puedan imitar. ¿Sí? Productos más sostenibles que desafían la lógica de la moda rápida.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "wwm7mF94zcQ": {
+  "channel": "Andrea la Mexicana",
+  "lang": "es",
+  "checked": "2026-11-15T22:25:40+00:00",
+  "title": "The Smallest Pain That Drives You Crazy | Slow Spanish Podcast Ep#98",
+  "duration": 509,
+  "published": "20261115",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 91.7,
+  "rare": 0.0858,
+  "var": 0.8253,
+  "speech_s": 488.0,
+  "tokens": 746,
+  "kw": [
+   [
+    "historia",
+    "Y cada semana elijo una nueva historia",
+    22,
+    31,
+    5.67,
+    8
+   ],
+   [
+    "agua",
+    "con agua y jabón y me acerqué al espejo",
+    173,
+    183,
+    5.49,
+    5
+   ],
+   [
+    "estaba",
+    "no. Era un jueves por la tarde. Estaba",
+    98,
+    108,
+    5.74,
+    4
+   ],
+   [
+    "mano",
+    "Entonces, me llevé la mano al ojo de",
+    144,
+    153,
+    5.38,
+    4
+   ],
+   [
+    "ojo",
+    "pestaña rebelde dentro de mi ojo. Oh,",
+    94,
+    104,
+    4.79,
+    17
+   ],
+   [
+    "espejo",
+    "con agua y jabón y me acerqué al espejo",
+    173,
+    183,
+    4.41,
+    4
+   ],
+   [
+    "lágrimas",
+    "las lágrimas naturales del ojo lavaran",
+    216,
+    226,
+    4.37,
+    4
+   ],
+   [
+    "método",
+    "Intenté el primer método clásico, levantar el párpado superior y dejar que",
+    209,
+    221,
+    4.65,
+    3
+   ],
+   [
+    "molesto",
+    "continuar con mi vida y es muy molesto",
+    430,
+    439,
+    4.13,
+    2
+   ],
+   [
+    "rebelde",
+    "pestaña rebelde dentro de mi ojo. Oh,",
+    94,
+    104,
+    4.1,
+    2
+   ],
+   [
+    "your",
+    "Hola, hola, bienvenidos a Tell Me Your",
+    11,
+    19,
+    4.06,
+    2
+   ],
+   [
+    "story",
+    "Story. En este podcast comparto historias de personas como tú y como yo.",
+    15,
+    27,
+    3.84,
+    2
+   ],
+   [
+    "pestaña",
+    "pestaña rebelde dentro de mi ojo. Oh,",
+    94,
+    104,
+    3.25,
+    7
+   ],
+   [
+    "tell",
+    "Hola, hola, bienvenidos a Tell Me Your",
+    11,
+    19,
+    3.32,
+    2
+   ],
+   [
+    "acerqué",
+    "con agua y jabón y me acerqué al espejo",
+    173,
+    183,
+    3.24,
+    2
+   ],
+   [
+    "paralizar",
+    "medio milímetro pueda paralizar la vida",
+    330,
+    339,
+    3.18,
+    2
+   ],
+   [
+    "ciao",
+    "que contar. Hasta la próxima. Ciao.",
+    490,
+    496,
+    2.87,
+    2
+   ],
+   [
+    "párpado",
+    "levantar el párpado superior y dejar que",
+    213,
+    221,
+    2.83,
+    2
+   ],
+   [
+    "lavé",
+    "silla, fui al baño y me lavé las manos",
+    169,
+    179,
+    2.51,
+    2
+   ]
+  ],
+  "tx": "Hola, hola, bienvenidos a Tell Me Your Story. En este podcast comparto historias de personas como tú y como yo. Y cada semana elijo una nueva historia para leerla y contarla para ustedes. Estas son historias de estudiantes de mi comunidad de Patreon de la Tier Corazón Mexicano. Así que ya sabes, tell me your story y juntos la haremos. Inolvidable. Chicos, el día de hoy tenemos una historia anónima. secreta. ¿Quién escribió esta historia? Vamos a escucharla. Hay dolores físicos en la vida que son muy pequeños, pero tienen el poder absoluto de arruinarte la concentración por completo. No hablo de un golpe fuerte ni de una enfermedad. Hablo de esas cosas pequeñas. cotidianas que te vuelven loco. La semana antepasada viví una de esas torturas modernas, una pestaña rebelde dentro de mi ojo. Oh, no. Era un jueves por la tarde. Estaba sentado frente a la computadora en mi oficina trabajando muy tranquilo en unos documentos, cuando de repente sentí algo extraño en el ojo izquierdo. Al principio pensé que era solo cansancio por ver la pantalla todo el día, pero al parpadear sentí una molestia más fuerte, como si tuviera una piedra gigante o una aguja diminuta rascando mi ojo. Entonces, me llevé la mano al ojo de inmediato para frotarlo, pero recordé una regla muy importante que todos aprendemos cuando somos niños. No te talles los ojos con las manos sucias, muy importante. Así que me levanté de la silla, fui al baño y me lavé las manos con agua y jabón y me acerqué al espejo del baño para investigar la escena del crimen. Abrí el ojo izquierdo tanto como pude. Me acerqué muchísimo al espejo y traté de buscar al culpable y ahí estaba flotando en la parte baja del ojo una pestañita negra superdgada que se burlaba de mí cada vez que parpadeaba. Intenté el primer método clásico, levantar el párpado superior y dejar que las lágrimas naturales del ojo lavaran mi ojo y sacaran la pestaña. Parparé 10 veces seguidas con fuerza. Nada. La pestaña seguía exactamente en el mismo lugar, como si estuviera pegada con cemento. Mojé un dedo con agua limpia y traté de agarrarla con mucho cuidado. Mala idea. El segundo que mi dedo se acercó, mi reflejo defensivo parpadeó y mi dedo terminó picándome el ojo directamente. Ahora, además de la pestaña tenía el ojo rojo y con un ardor terrible para ese momento, la situación ya era patética. Yo estaba parpadeando frente al espejo del baño con el ojo completamente rojo, derramando lágrimas sin parar, respirando por la boca y haciendo caras rarísimas mientras intentaba voltear el párpado hacia arriba con mi mano. Parecía que estaba haciendo una escena de terror en el espejo. Pasé 15 minutos completos en esta batalla absurda. El ojo me dolía, la luz del baño me molestaba y yo solo pensaba en lo frágil que es el cuerpo humano. ¿Cómo es posible que un pedacito de cabello de medio milímetro pueda paralizar la vida de un adulto funcional? Al final, con los ojos llenos de lágrimas y la paciencia totalmente agotada, decidí rendirme. Me lavé la cara con agua fría, me senté en mi escritorio y acepté mi sufrimiento. Y por supuesto, ¿qué pasó? 2 minutos después de dejar de pensar en ese problema. Sentí un pequeño alivio. La pestaña decidió irse por su propio camino, probablemente evaporada por tantas lágrimas. Y ahí aprendí la lección. Contra una pestaña rebelde no se puede luchar con fuerza. Solo queda tener paciencia. y dejar que el ojo se defienda solo. Y colorín colorado, esta historia se ha acabado. ¡Qué increíble historia! Me encantó esta forma de narración. Superlinda historia, muy bien escrita. Gracias, anónimo. Yo también odio estas pestañitas en el ojo pueden paralizar tu día porque necesito de mis ojos para continuar con mi vida y es muy molesto tener algo en el ojo, ¿no? ¿Ustedes han vivido esta pesadilla? ¿Qué opinan? ¿Tienen algún método para sacar una pestaña? Yo normalmente tallo mi ojo con mi pelo y a veces funciona. O si no, método número dos, opción dos, es poner un poco de agua en la mano y abrir el ojo dentro de esta agua en mi mano. Bueno, ahí está. ¿Y ustedes tienen otros métodos? Gracias por escuchar esta historia. Y ustedes y yo nos escuchamos la próxima semana con una nueva historia, porque cada una tiene algo un poco doloroso y molesto que contar. Hasta la próxima. Ciao. Ciao.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "5GoCkgdVqdo": {
+  "channel": "Easy Spanish",
+  "lang": "es",
+  "checked": "2026-11-15T22:26:37+00:00",
+  "title": "Simple Pronounciation Guide for Spanish Beginners (A1)",
+  "duration": 462,
+  "published": "20261114",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 81.9,
+  "rare": 0.0549,
+  "var": 0.7538,
+  "speech_s": 427.0,
+  "tokens": 583,
+  "kw": [
+   [
+    "español",
+    "español? Hoy aprenderás todas las letras y los",
+    2,
+    14,
+    5.29,
+    9
+   ],
+   [
+    "vamos",
+    "sonidos particulares del español. Vamos. Empezamos con las vocales.",
+    7,
+    20,
+    5.49,
+    4
+   ],
+   [
+    "pasa",
+    "¿Y qué pasa con la palabra cinco?",
+    66,
+    73,
+    5.48,
+    4
+   ],
+   [
+    "palabra",
+    "¿Y qué pasa con la palabra cinco?",
+    66,
+    73,
+    5.19,
+    4
+   ],
+   [
+    "suena",
+    "La H en español no suena. Por eso,",
+    143,
+    150,
+    4.78,
+    9
+   ],
+   [
+    "letra",
+    "Cuidado con la Ñ. La Ñ es una letra que",
+    203,
+    211,
+    4.61,
+    4
+   ],
+   [
+    "dejamos",
+    "link que te dejamos en la descripción,",
+    379,
+    385,
+    4.39,
+    3
+   ],
+   [
+    "necesitas",
+    "¿qué más necesitas realmente cuando estás iniciando con tu español?",
+    358,
+    368,
+    4.77,
+    2
+   ],
+   [
+    "pronuncia",
+    "pronuncia. R.",
+    230,
+    238,
+    3.7,
+    4
+   ],
+   [
+    "sonidos",
+    "sonidos particulares del español. Vamos. Empezamos con las vocales.",
+    7,
+    20,
+    4.15,
+    3
+   ],
+   [
+    "gimnasio",
+    "general y gimnasio. Claro. Y el resto siguen como la palabra",
+    125,
+    134,
+    4.19,
+    2
+   ],
+   [
+    "guapo",
+    "Gato, gorila, guapo. H.",
+    133,
+    144,
+    4.12,
+    2
+   ],
+   [
+    "alfabeto",
+    "¿Quieres aprender el alfabeto en español?",
+    0,
+    8,
+    3.54,
+    4
+   ],
+   [
+    "yate",
+    "yema yate. Pero en Latinoamérica tenemos dos",
+    307,
+    316,
+    3.35,
+    3
+   ],
+   [
+    "yema",
+    "yema yate. Pero en Latinoamérica tenemos dos",
+    307,
+    316,
+    3.17,
+    3
+   ],
+   [
+    "yogur",
+    "yogur. Para nosotros esta letra tiene el mismo",
+    298,
+    306,
+    3.36,
+    2
+   ]
+  ],
+  "tx": "¿Quieres aprender el alfabeto en español? Hoy aprenderás todas las letras y los sonidos particulares del español. Vamos. Empezamos con las vocales. A animal o Aida. E elefante. I India. O ocho. U universidad. Las vocales en español siempre suenan igual. No importa como estén combinadas entre ellas. Qué suerte. Ahora vamos a continuar viendo el alfabeto entero. A agua. B banco. C casa. Camila. ¿Y qué pasa con la palabra cinco? Claro, depende de la vocal que hay después de la C. Por ejemplo, con la E y la I decimos ce ci. Cerveza, cielo. Claro, y por eso también decimos carta, color y cumbia. Pero recuerden que en Latinoamérica la C con la E y la C con la I es como una S. Cinco, cielo, cerveza. D diferente o David. E elefante. Y F familia. G gol gel. Atención, otra vez hay dos sonidos y depende de vocal que hay después. Por ejemplo, general. general y gimnasio. Claro. Y el resto siguen como la palabra gol. Gato, gorila, guapo. H. Hospital. La H en español no suena. Por eso, hola suena igual que hola. Pero, ¿qué pasa con la CH? Atención. Hay una cosa cuando combinamos la C y la H. ¿Qué pasa, Aida? Suena como chocolate. O chorizo. I. India. J. Jardín. K. Kilo. L. Limón. Y, ¿qué pasa con dos Ls? Suena como lluvia, ella o paella. Como la Y que vamos a ver después. M. Música. N. Natural. Y Ñ. Español. Cuidado con la Ñ. La Ñ es una letra que solo existe en español. No es un acento. No, no, no. Es una letra. O. Ocho. P. Padre. Q. Queso. La Q suena como en qué o quién. Y siempre después hay una U, pero no se pronuncia. R. Restaurante. Cuidado con la R. Si tenemos una R se pronuncia como en pero, y si tenemos dos erres, se pronuncia perro. También, si una palabra empieza por R hacemos R como rosa. S sopa T tráfico. U uno V verde. Es curioso, pero en español la V y la B suenan muy muy similares. Por ejemplo, tengo que votar en elecciones o tengo que votar la basura. Y W o W web. X taxi Y yogur. Para nosotros esta letra tiene el mismo sonido que la doble L. yo yema yate. Pero en Latinoamérica tenemos dos sonidos para esta letra. En Colombia suena muy fuerte. Yo yema yate. Y en Argentina y en Uruguay suena como un Yo yema yate. Z zapato. Como le escuchaste a Aida, la Z en España suena como la C, cielo. Pero en el resto de Latinoamérica la Z suena como una S. zapato zanahoria azul. Cuando estás iniciando con tu español, la pronunciación y el alfabeto son muy importantes, pero ¿qué más necesitas realmente cuando estás iniciando con tu español? ¿Aprender los pasados o más verbos? Quizás lo que necesitas es un paso a paso, un orden. Por eso nuestro learning path de A 0 a 1 te puede ayudar muchísimo. Si le echas un vistazo a nuestra plataforma en el link que te dejamos en la descripción, puedes registrarte y hacer ejercicios gratis para que practiques y veas cómo es. Así que te lo dejamos en la descripción y bueno, continuamos con el video. Vale, ahora vamos a practicar. Pronuncia la palabra antes que yo. Jardín. Cero. Hospital. Guapo. Gimnasio. Paella. Caro. Yogur. Ahora que ya sabes el alfabeto, te dejamos esta playlist para principiantes. Nos vemos en la próxima. Chao.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "Zibkux2Xl_s": {
+  "channel": "Sobreviviendo ando",
+  "lang": "es",
+  "checked": "2026-11-15T22:28:20+00:00",
+  "title": "Así ha quedado la reforma de la Casa | Cocina y últimos remates",
+  "duration": 3028,
+  "published": "20261115",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 129.8,
+  "rare": 0.0757,
+  "var": 0.7798,
+  "speech_s": 2430.1,
+  "tokens": 5258,
+  "kw": [
+   [
+    "aquí",
+    "por quitar todo esto de aquí. Todo estos",
+    14,
+    20,
+    5.75,
+    47
+   ],
+   [
+    "vamos",
+    "¿Cómo estamos? Vamos a seguir donde lo",
+    3,
+    10,
+    5.49,
+    32
+   ],
+   [
+    "puerta",
+    "en la puerta. Ya está. Luego se ajustan",
+    448,
+    455,
+    5.07,
+    32
+   ],
+   [
+    "bueno",
+    "remates. Bueno, a eso es a lo que vamos",
+    9,
+    15,
+    5.7,
+    31
+   ],
+   [
+    "muebles",
+    "son los muebles de la cocina. están comprados en el",
+    16,
+    26,
+    4.2,
+    22
+   ],
+   [
+    "cocina",
+    "de la cocina. están comprados en el",
+    19,
+    26,
+    4.71,
+    18
+   ],
+   [
+    "puertas",
+    "puertas y los bajos vienen con las",
+    27,
+    31,
+    4.72,
+    17
+   ],
+   [
+    "ancho",
+    "son de 60 cm de ancho. A la derecha del",
+    321,
+    330,
+    4.36,
+    10
+   ],
+   [
+    "campana",
+    "que este es el de la campana. Y luego",
+    48,
+    55,
+    3.94,
+    17
+   ],
+   [
+    "montar",
+    "resultado. Vamos a montar primero este",
+    43,
+    49,
+    4.11,
+    11
+   ],
+   [
+    "horno",
+    "es el horno. Este está comprado en el",
+    270,
+    276,
+    4.17,
+    10
+   ],
+   [
+    "colocar",
+    "colocar el mueble que tengo ahí de 60.",
+    876,
+    885,
+    4.14,
+    10
+   ],
+   [
+    "mueble",
+    "Este mueble, este mueble es especial. Lo",
+    161,
+    167,
+    3.58,
+    27
+   ],
+   [
+    "tornillos",
+    "Llevan muy poquitos tornillos y ya",
+    146,
+    152,
+    3.34,
+    19
+   ],
+   [
+    "fregadero",
+    "Ahora, el del fregadero y el del horno",
+    318,
+    326,
+    3.02,
+    11
+   ],
+   [
+    "lavadora",
+    "lavadora, de ahí no hay ningún mueble.",
+    341,
+    350,
+    3.36,
+    7
+   ],
+   [
+    "encimera",
+    "encimera dependiendo de cómo te quieras",
+    135,
+    141,
+    2.51,
+    6
+   ],
+   [
+    "corredera",
+    "corredera, me lo tuve que inventar.",
+    2195,
+    2201,
+    2.84,
+    4
+   ],
+   [
+    "bisagras",
+    "altos vienen con sus bisagras y sus",
+    25,
+    30,
+    2.73,
+    4
+   ],
+   [
+    "grabé",
+    "grabé, pero lleva una junta de goma que",
+    1370,
+    1376,
+    2.94,
+    3
+   ]
+  ],
+  "tx": "¿Cómo estamos? Vamos a seguir donde lo dejamos. Seguramente veáis que faltan remates. Bueno, a eso es a lo que vamos en este vídeo. Lo que vamos a empezar es por quitar todo esto de aquí. Todo estos son los muebles de la cocina. están comprados en el brico Depo, todo en uno. Es decir, los altos vienen con sus bisagras y sus puertas y los bajos vienen con las patas, con las bisagras y con las puertas. Lo único que no vienen son los tiradores. Genial, porque pondremos unos acorde a lo que, bueno, la idea que me ha dado la que es esta de aquí. Entonces, vamos a ver si conseguimos ese resultado. … escogieron así. Y aquí ahora lo que ves es el horno. Este está comprado en el obramat. Era una oferta en color blanco que me pareció perfecto para el diseño de la cocina. Una vez con el mueble montado, lo único que hay que hacer es sujetarlo con dos tornillos, uno a cada lado, al mueble y quedaría fijado. Esta rejilla de ventilación me gusta ponerla, aunque según las instrucciones tanto del horno como del vitro no hace falta, pero así ventila esta parte mucho mejor porque va a tener mucho calor en cuanto se use el horno. Y poco a poco empecé el trabajo de ir nivelando cada uno de los … nivelados. Lo vas a ver. Y ahí para que sepas la medida son de 40 cm de ancho. entre frigorífico, el mueble de 80 y la cajonera, el ancho total de la cocina, digamos que es de 120 y el largo total es de 2,50. Es decir, la parte larga donde está el fregadero mide 1,97 y la parte estrecha donde estoy ahora es de 1,20 m. Ya están todos los muebles montados. Ahora para hacerlo de forma fácil, este es el mueble de la campana que es más estrechito, no me sé exactamente la medida, pero bueno, es más estrecho. Y esta es la campana que voy a montar. La he comprado por Amazon. Te dejo abajo … viendo con las marcas que estoy dejando en la pared. Si hacemos eso, vamos a tener diferentes problemas. Entonces, creo que lo que voy a hacer es colocar el mueble que tengo ahí de 60. Total, el ancho me da más o menos igual, o sea, el ancho va a ser el mismo, va a ser 60. queda clavado con la cocina, pero en vez de utilizar este que nos íbamos a quedar cortos, pues vamos a utilizar el otro. Vale, y si tiene la altura suficiente, la cual tampoco tiene. Bueno, voy a ver cómo la apaña. Me vais a perdonar. La había dado al botón de grabar y como estoy con los cascos no he escuchado que se … colocar. Y sí, también quedaron unas puertas condenadas. No había armarios de estas medidas para estos tamaños. Entonces quedaron condenadas algunas puertas sin importar porque se puede acceder a las esquinas sin ningún problema. Aquí ahora la encimera la compré en Baauouse. Ahora, según estoy grabando esta voz, me estoy dando cuenta de que os he dicho antes una medida que no es el ancho de la cocina es de 1,80, ¿vale? Restando los seis los 60 cm del frigorífico se queda un ancho de 120 para este tramo de encimera, igual que donde va la placa de inducción. Y para la parte el fregadero es … centrado y si nos fijamos con la campana pues queda clavado. Así que nada, ahora quito la madera, hacemos el agujero y sií queda bien pues desmontamos todo, limpiamos, barremos, nivelamos ya bien todos los armarios, los fijamos y ya vamos poniendo todo en su sitio fijo. Mira, vamos a cortar esto. Después de haber quitado la encimera, la llevo a su sitio y compruebo que queda clavado. La conexión eléctrica igual no la grabé. La toma la tengo detrás del horno. Tuve que sacar el horno, conectar la placa y conectar el horno. Ojo y a tener en cuenta que esto lleva un automático aparte. Y lo que … algunas partes que no lo he grabado como la vidilla o el pomo de la puerta, además de algún elemento de cierre de la puerta. Una vez que quedó vinilada, los volví a poner en su sitio. Aquí, como por ejemplo la medilla. Ah. Ahora con todos los recortes de los sobrantes hechos, lo único que queda es volver a poner la puerta en su sitio. Se vuelve a poner la puerta en su sitio y bueno, ahí estás viendo el telefonillo y esa esquina que todavía no está rematada. Igual que la luz, el cuadro eléctrico viejo quedó anulado y puse el nuevo que está a la derecha. Menudo cambio de puerta, no parece … inglesa, no se nos vaya a descolgar la puerta en un futuro. Ahora simplemente lo estoy presentando, más adelante lo apreté yo. Colocamos el segundo soporte. Ya tenemos premontada la puerta. Ahora lo que hay que hacer es poner el tope de plástico. Como ves, queda en el centro de la puerta. Esto es la guía que hará que no se nos mueva lateralmente. Que se mueva, se cierre y se abra con suavidad. Va con dos tornillos, uno a cada lado. Rosca chapa. a la propia estructura de la puerta. Después de esto, poco más grabé. Ahora lo fui haciendo todo. Quería terminar rápido, aunque antes te tengo que … cortina que esa no la habíais visto puesta. Pero el resto de la habitación y bueno, el baño. Esto fue de las primeras cosas que se terminaron en la casa. Quedó de lujo. Todos los detallitos, incluso esto que esto tampoco se grabó, es una baldita más ahí puesta. Aquí ya terminado la parte del lavaculos, me gusta decirlo a mí. faltará que poner aquí pues para poner un soporte del rollo de papel. Y bueno, la ducha gigante de 30 por 30 y el plato de 140 por 70. Y la ventana que a muchos nos ha gustado. Yo con todo el mundo que hablo dice que una ventana a pesar de que de la cocina, bueno, eso no … ya solar de verdad en la casa, ya sin baterías portátiles ni historias raras. Con su inversor, paneles, instalación de 5 kW. Lo vamos a ver en el próximo vídeo, así que suscríbete para no perdértelo y además te tengo que contar lo que dije que tenías que contar, que era una noticia. Lo dije hace dos o tres vídeos y lo tengo que decir ya, pero no en este, en el próximo, porque va a ser lo siguiente ya con lo que nos metamos, que va a ser nada que ver con una reforma de un piso, os lo prometo, pero sí tiene que ver con, ya os lo contaré. Termino de recoger y nos vemos en el próximo vídeo. Ciao.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "hdo0qkZsrPI": {
+  "channel": "Diana Uribe",
+  "lang": "es",
+  "checked": "2026-11-15T22:29:47+00:00",
+  "title": "10 años del acuerdo de paz de la Habana",
+  "duration": 3436,
+  "published": "20261114",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 149.1,
+  "rare": 0.0497,
+  "var": 0.7134,
+  "speech_s": 3352.3,
+  "tokens": 8333,
+  "kw": [
+   [
+    "paz",
+    "del proceso de paz que se firmó en el país de Colombia en",
+    14,
+    24,
+    5.28,
+    116
+   ],
+   [
+    "entonces",
+    "épica y taquillera, entonces se habla de",
+    191,
+    198,
+    5.65,
+    79
+   ],
+   [
+    "guerra",
+    "guerra. Como la guerra es tan autopromocional y",
+    187,
+    196,
+    5.49,
+    55
+   ],
+   [
+    "proceso",
+    "del proceso de paz que se firmó en el país de Colombia en",
+    14,
+    24,
+    5.32,
+    48
+   ],
+   [
+    "conflicto",
+    "conflicto dolores que no comprenden",
+    289,
+    297,
+    4.71,
+    20
+   ],
+   [
+    "procesos",
+    "procesos de paz, que haya siempre un",
+    42,
+    48,
+    4.66,
+    20
+   ],
+   [
+    "madres",
+    "Y cuando las madres cambiaron, las",
+    1132,
+    1136,
+    4.54,
+    12
+   ],
+   [
+    "generación",
+    "generación a otra. Entonces no solamente lo vive quien lo",
+    299,
+    304,
+    4.78,
+    11
+   ],
+   [
+    "protestantes",
+    "católicos y protestantes, que hablaban de cómo se pusieron de acuerdo desde la",
+    604,
+    614,
+    3.77,
+    8
+   ],
+   [
+    "católicos",
+    "católicos y protestantes, que hablaban de cómo se pusieron de acuerdo desde la",
+    604,
+    614,
+    4.15,
+    5
+   ],
+   [
+    "plebiscito",
+    "Entonces eso se somete a plebiscito",
+    2191,
+    2196,
+    3.69,
+    5
+   ],
+   [
+    "dinámico",
+    "eso es un proceso dinámico. Inclusive",
+    692,
+    698,
+    3.68,
+    5
+   ],
+   [
+    "irlandeses",
+    "Por un lado, los irlandeses república,",
+    628,
+    634,
+    3.42,
+    9
+   ],
+   [
+    "dediqué",
+    "eh y me dediqué a estudiar los procesos",
+    262,
+    268,
+    3.14,
+    6
+   ],
+   [
+    "crecí",
+    "Unidos. Yo crecí con todo eso.",
+    401,
+    409,
+    3.58,
+    5
+   ],
+   [
+    "láminas",
+    "en láminas. Esas láminas fueron eh",
+    2913,
+    2920,
+    3.56,
+    4
+   ],
+   [
+    "sudafricanos",
+    "sudafricanos, precisamente para suplir todo este",
+    858,
+    865,
+    2.78,
+    4
+   ],
+   [
+    "esquimales",
+    "esquimales de que hay siete clases de",
+    1935,
+    1939,
+    2.6,
+    4
+   ],
+   [
+    "poderse",
+    "la figura del otro eh para poderse",
+    847,
+    854,
+    2.95,
+    3
+   ],
+   [
+    "mirarnos",
+    "de de mirarnos como país, como un referente histórico que se",
+    2964,
+    2974,
+    2.93,
+    3
+   ]
+  ],
+  "tx": "Buenas. Vamos a hacer hoy en los años 1006 un especial sobre los 10 años del proceso de paz que se firmó en el país de Colombia en el año 2016 con la antigua guerrilla conocida como las FARC. Ese proceso de paz se le conoce históricamente como el proceso de paz de La Habana porque tuvo lugar durante toda su duración en la ciudad de La Habana eh como digamos como gobierno garante, que es lo que se necesita con los procesos de paz, que haya siempre un garante. ¿Por qué les voy a contar de este proyecto de paz? Ehm, porque tiene que ver con lo que yo toda la vida he creído y porque es muy … años de guerra civil, en donde 17 comunidades religiosas en un país que es de un tamaño poco más grande que el departamento de Caldas, no el viejo Caldas, de Caldas. En ese país con 17 comunidades religiosas, todo el mundo se peleó con todo el mundo al punto tal que decían con un sarcasmo terrible que cuando se agarró la guerra se acabó la guerra del Líbano, no abandonaron el campo de batalla, sino que cerraron la ventana y dejaron de dispararse con el vecino porque esto era una guerra con el tendero y con el vecino. No estoy hablando de la situación actual del Líbano, estoy hablando de la … proceso de paz es una voz que en alguna parte de un pueblo ilumina un camino donde solo había sombras. Por eso es que es tan interesante, porque es un tema planetario, es un tema de especie. Es un tema de de salidas diferentes a a las guerras cuyos resultados conocemos sobradamente porque se han estudiado y sobrediagnosticado y a pesar de las muchas guerras que haga que hayan eh los resultados nunca van a ser diferentes. Eso, la gente se mata, la gente se muere, la gente se queda huérfana, viuda, los hombres van a morir, los que yo les decía, los más bonitos, los más aptos, los más fértiles … sentaron y salieron con con la posibilidad de acabar y terminaron con una guerra eh que el mundo no ha conocido de lo prolongada y de lo dolorosa. Esa sí tiene muchas miniseries. Sobre eso sí pueden haber muchas películas de cómo esto se volvió un ciclo fatal de violencias y donde cada generación venía a vengar los muertos de la generación anterior. Y cuando las madres cambiaron, las madres siempre son las protagonistas de todo proceso de paz, su idea de tener vengadores por la idea de tener nietos eh crearon una un espectro de vida muy diferente porque es que los nietos son la versión más … son las que hicieron la paz, pero la paz es de los liberianos que le pararon bolas a ellas y que la siguieron en una en un camino que ellas fijaron a partir de un sueño. Entonces, llega la paz a Colombia y no nos la esperamos, la verdad que nos tomó por sorpresa. Y empieza un proceso de paz. Los procesos de paz son sumamente difíciles porque, como diría Jerry Adams, eh la guerra es más fácil que la paz porque en la guerra toca matar al otro y en la paz toca entenderlo, comprenderlo y ponerse de acuerdo con el otro. La paz se hace con los enemigos. La paz no se hace con los amigos, con los … mujeres en la cuando mataron a todos todos todos todos todos todos los tutsis que estaban en ese vecindario y y ella pensaba en todo lo que le haría a los hutus si los tuviera enfrente. Y y el pensamiento le hacía daño. Y decía, si el pensamiento me hace daño, la el hecho no me va a liberar. Y cuando logra salir de ahí y llegar a un campamento de la ONU y va donde el hombre que ejecutó a su familia, lo perdona y se dedican los dos a llevar el perdón a la República de Ruanda. Ella viene y nos echa el cuento. Immaculée nos dice, mire, lo que yo tuve que perdonar ustedes no se lo imaginan. … nunca hemos estado de un proceso de una que que una generación tenga la paz en en en el Reino Unido. Si no lo firmamos puede pasar otra generación. ¿Estamos dispuestos a entregarle otra generación a la guerra? Y el el plebiscito el plebiscito en Irlanda se ganó por una mayoría enorme, por una abrumadora mayoría. Y nosotros pensamos que iba a pasar lo mismo en Colombia y no pasó lo mismo en Colombia. Entonces como no pasó lo mismo en Colombia tocó negociar esa paz, tocó volverse a sentar, tocó negociar esa paz y entonces dijimos, pero de todas maneras el proceso tiene que seguir y entonces … el teatro, es decir, empezaron a destinarse para otro tipo de de de cosas lo que antes se destinaba para los soldados heridos y dejaron de haber soldados heridos. Y 14,000 personas se desmovilizaron y continúan el 89% de las personas que se desmovilizaron continúan desmovilizadas 10 años después, lo cual es una cosa absolutamente increíble eh en un proceso porque hubo una continuidad de propósito y de compromiso con lo que se firmaron y decidieron hacer. Ahora, críticas al proceso de paz, como les digo, yo no conozco un solo proceso de paz perfecto, no no tengo ninguna referencia de eso ni … una ventana para mirarnos desde para mirar otros soles y para mirar otras cosas. Esto es imperfecto, muchas cosas han pasado desde ahí. Otro eh es es solo con un solo grupo, las FARC, pero este es un conflicto múltiple que tiene muchos más factores. Estamos hablando de ese en particular porque de ese en particular se cumplen 10 años eh que fue el acuerdo que se firmó en noviembre. Entonces muchas otras cosas hay para hacer, muchas para criticar, muchas para discutir, muchas para pensar, pero pensarlas, criticarlas, discutirlas, proponerlas, soñarlas es una ganancia histórica en sí misma … de paz. Entonces, desde los espacios de la paz como una voz planetaria, de especie, de otra manera de tramitar los conflictos en la humanidad, desde la paz como la nieve de los esquimales, que tiene tantos matices y colores como la vida misma. Y desde la esperanza de otras maneras de entendernos. En la narración Diana Uribe y para ustedes feliz día cualquier día que se sea. Este podcast llega a ustedes gracias al equipo de dianauribe.fm. Diana Uribe, Diana Suárez, Milena Beltrán, Alexandra Acevedo, Arturo Jiménez y Daniel Mesa. Y la edición y musicalización de Eduardo Corredor Fonseca.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "rvkr_QrL-vw": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:31:01+00:00",
+  "title": "El sacrificio de una madre que cambió dos generaciones",
+  "duration": 458,
+  "published": "20261113",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 183.8,
+  "rare": 0.0588,
+  "var": 0.8047,
+  "speech_s": 221.9,
+  "tokens": 680,
+  "kw": [
+   [
+    "madre",
+    "Mi madre no tuvo más opción que ser madre soltera Porque mi padre fue",
+    25,
+    30,
+    5.45,
+    10
+   ],
+   [
+    "ella",
+    "Tuve que aprender a quererla porque nunca en mi vida viví con ella.",
+    5,
+    10,
+    5.75,
+    9
+   ],
+   [
+    "voy",
+    "Yo le dije:“ Mira, hasta ahora no he querido trabajar pero no voy a dejar",
+    213,
+    218,
+    5.72,
+    4
+   ],
+   [
+    "amor",
+    "Solo quería su amor, su tiempo.",
+    1,
+    4,
+    5.41,
+    4
+   ],
+   [
+    "veía",
+    "niña no pudo cuidarme Así que cuando veía a Penélope me veía a mí.",
+    241,
+    247,
+    4.5,
+    2
+   ],
+   [
+    "infancia",
+    "Durante toda mi infancia Ella nunca estuvo en Singapur.",
+    80,
+    84,
+    4.49,
+    2
+   ],
+   [
+    "tradicionales",
+    "nuestros kuehs son modernos-tradicionales. tienen mucho de las recetas tradicionales, pero yo les doy un",
+    365,
+    373,
+    4.49,
+    2
+   ],
+   [
+    "sentía",
+    "Porque sentía que no tenía familia.",
+    152,
+    155,
+    4.45,
+    2
+   ],
+   [
+    "soltera",
+    "Mi madre no tuvo más opción que ser madre soltera Porque mi padre fue",
+    25,
+    30,
+    3.92,
+    2
+   ],
+   [
+    "viví",
+    "Tuve que aprender a quererla porque nunca en mi vida viví con ella.",
+    5,
+    10,
+    3.75,
+    2
+   ],
+   [
+    "cuidarme",
+    "más ingresos para poder cuidar a su madre y poder cuidarme a mí.",
+    45,
+    49,
+    2.98,
+    2
+   ],
+   [
+    "quererla",
+    "Tuve que aprender a quererla porque nunca en mi vida viví con ella.",
+    5,
+    10,
+    2.75,
+    2
+   ]
+  ],
+  "tx": "Solo quería su amor, su tiempo. Tuve que aprender a quererla porque nunca en mi vida viví con ella. Mi madre no tuvo más opción que ser madre soltera Porque mi padre fue asesinado cuando yo tenía solo un año. Así que se convirtió en el único soporte familiar. Ella optó por trabajar en ultramar para acceder a un mejor salario; a más ingresos para poder cuidar a su madre y poder cuidarme a mí. Fue muy difícil para mí, entender eso como niña, Porque lo que más quería era su amor y su tiempo. Tuve que aprender a quererla porque nunca en mi vida viví con ella. Mi nombre es Elizabeth Chan, soy de Singapur y soy la cofundadora de Kueh Ho Jiak. Durante toda mi infancia Ella nunca estuvo en Singapur. Todo lo que le pedía, si ella podía, me lo daba. Pero yo no quería eso. Sino su amor, su atención. Porque no importa lo bien que lo hiciera en la escuela, No había nadie allí para celebrar mis logros Siempre pensaba ¿Por qué tiene que estar tan lejos? Pero después de convertirme también en madre soltera entendí el por qué de sus decisiones. Ella solo quería darme una vida mejor. Me convertí en madre muy joven, porque anhelaba encontrar el amor. Me había faltado esa pieza en mi vida, y quise crear mi propia familia. Porque sentía que no tenía familia. Pero el matrimonio no funciona así. Tienes que amarte a ti misma antes que poder amar a alguien más. Nunca había trabajado mucho ni hecho demasiado. Mi madre me sostenía económicamente y seguía apoyándome. Mi mentalidad solo cambió tras dar a luz a mi hija. Ahí me sentí avergonzada, y muy culpable. Cuando te vuelves madre, sientes en ti esa necesidad de darle a tu hija una vida mejor. Siempre decía que Penélope es el ángel de la casa Asumía que mi madre no volvería nunca porque estaba bien viviendo en la lejanía. Su única motivación vino cuando tuve a Penélope. Yo le dije:“ Mira, hasta ahora no he querido trabajar pero no voy a dejar que nos mantengas así que voy a llevarla a un jardín de infancia. Eso le provocó tanta ansiedad que un día me dijo: Voy a renunciar a mi trabajo. No voy a dejar que mi nieta vaya a un kinder. Luego comprendí que mi madre me proyectaba a mí en mi hija, ya que de niña no pudo cuidarme Así que cuando veía a Penélope me veía a mí. Empecé mi primer negocio de cortinas y decoración a los 21 años. Aunque tenga mucho trabajo, cada mañana la llevo a la escuela y me tomo tiempo para estar con ella. Para hablar con ella. Le pregunto por su día. Si necesita ayuda, ahí estaré. Dando el 200 por ciento (por ella). Mi madre empezó un negocio casero de kuehs. Son unos dulces pequeños, rojizos. Un postre tradicional. Me llamaba la atención que no invirtiera nada en marketing, y que solo trabajara desde casa Así que me picó la curiosidad y me puse a indagar un poco y eso llamó aún más mi atención. Y así nació Kueh Ho Jiak. Abrimos nuestra primera tienda en 2017 en Tanjong Pagar. Nuestras personalidades chocaban mucho. Pero nos dimos cuenta de que el negocio nos necesitaba a las dos. Con los años, y a raíz del negocio, aprendimos a ceder, a querernos por encima de las emociones del momento y a hacer las cosas bien. nuestros kuehs son modernos-tradicionales. tienen mucho de las recetas tradicionales, pero yo les doy un pequeño toque para que los jóvenes también quieran probarlos. De ahí pasamos a ofrecer talleres, pensados para unir a las familias. Porque yo sentía que actualmente muchos padres no tienen tiempo para sus hijos. La condición es dejar el celular de lado. Porque quiero que les den tiempo de calidad a sus hijos. Los niños hacen los kuehs y luego se los dan a probar a sus padres, y éstos están encantados. Trato de pensar en ¿qué es lo que más me gustaría a mí?",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "Op7bnGVf2T4": {
+  "channel": "Paulina Cocina",
+  "lang": "es",
+  "checked": "2026-11-15T22:35:11+00:00",
+  "title": "Suegro italiano juzga mi pasta casera 🍝🤨🇮🇹 #AyudaPaulina Ep. 11",
+  "duration": 830,
+  "published": "20261115",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 179.3,
+  "rare": 0.0912,
+  "var": 0.7665,
+  "speech_s": 789.0,
+  "tokens": 2358,
+  "kw": [
+   [
+    "voy",
+    "necesites. Ahora te voy a contar qué es",
+    99,
+    104,
+    5.72,
+    18
+   ],
+   [
+    "importante",
+    "los tanos es re importante el producto,",
+    55,
+    61,
+    5.48,
+    16
+   ],
+   [
+    "vos",
+    "tengo una propuesta. Si vos tenés un",
+    87,
+    92,
+    5.24,
+    11
+   ],
+   [
+    "vas",
+    "qué? Porque vas a tener más control",
+    168,
+    172,
+    5.41,
+    10
+   ],
+   [
+    "pasta",
+    "manera, si no, sacrilegio. La pasta se",
+    10,
+    15,
+    4.27,
+    20
+   ],
+   [
+    "italiano",
+    "también como muy muy italiano, que no",
+    38,
+    44,
+    4.42,
+    8
+   ],
+   [
+    "poquito",
+    "salido más. Truqui truqui, un poquito,",
+    330,
+    336,
+    4.54,
+    7
+   ],
+   [
+    "huevos",
+    "los huevos no te van a llegar rotos, así",
+    103,
+    108,
+    4.65,
+    5
+   ],
+   [
+    "fideos",
+    "suegro llega a tu casa y hay fideos",
+    493,
+    498,
+    3.6,
+    9
+   ],
+   [
+    "harina",
+    "ingredientes. Dos huevos, 200 de harina,",
+    122,
+    129,
+    4.13,
+    8
+   ],
+   [
+    "casera",
+    "casera. Posdata, si salgo, tachame el",
+    20,
+    26,
+    3.63,
+    6
+   ],
+   [
+    "ingredientes",
+    "ingredientes. Dos huevos, 200 de harina,",
+    122,
+    129,
+    3.98,
+    5
+   ],
+   [
+    "suegro",
+    "seguidora. Suegro tano, muy exigente con",
+    1,
+    6,
+    3.58,
+    9
+   ],
+   [
+    "hacés",
+    "sobre lo que hacés, sobre los",
+    169,
+    174,
+    3.36,
+    7
+   ],
+   [
+    "finita",
+    "Cada vez más finita. Número cinco.",
+    364,
+    371,
+    3.0,
+    5
+   ],
+   [
+    "cocción",
+    "eh, porque después en la cocción cambia.",
+    458,
+    463,
+    3.33,
+    3
+   ],
+   [
+    "salvia",
+    "salvia. Salvia es esta hoja que estás",
+    614,
+    621,
+    2.92,
+    6
+   ],
+   [
+    "tano",
+    "seguidora. Suegro tano, muy exigente con",
+    1,
+    6,
+    2.93,
+    3
+   ],
+   [
+    "tiramisú",
+    "Dame la posta de un tiramisú o una pasta",
+    17,
+    24,
+    2.3,
+    3
+   ],
+   [
+    "chorrito",
+    "chorrito de aceite de oliva, rico aceite",
+    126,
+    131,
+    2.86,
+    2
+   ]
+  ],
+  "tx": "Ayuda a Paulina, mensaje de una seguidora. Suegro tano, muy exigente con la comida, con todo, pon entre paréntesis. Y como buen tano, la cocina es de las cosas que se hacen de una sola manera, si no, sacrilegio. La pasta se hace así, la salsa se hace asá. El año pasado los sorprendí con tus focaccias. Dame la posta de un tiramisú o una pasta casera. Posdata, si salgo, tachame el nombre porque seguimos, te seguimos todos. Acá no se dice nada. Peligrosísimo este caso, peligra la armonía familiar. Se arranca. Siento que en este caso tiene que ser algo primero muy fácil para que ella lo pueda … casera a un tano. A los italianos les gusta las cosas simples, o sea, yo no la complicaría y tengo una propuesta. Si vos tenés un suegro italiano, es como tener eh un jurado de luxe en la cocina, es difícil. Directamente me aparezco con la bolsa de pedidos de Market, te pedís todo lo que necesites. Ahora te voy a contar qué es lo que vamos a hacer. Lo más importante, los huevos no te van a llegar rotos, así que ahora se arranca a cocinar. A un italiano no lo puedes esperar con un fideo así nomás y es muy importante que entiendas algo, que es que la cocina italiana es relajada en la técnica, … que saber, eh, que yo te dije esto porque los italianos invitan a toda la parentela, pero es muy importante que en esta cena en particular sean tres, cuatro, cinco, exagerando cinco. ¿Por qué? Porque vas a tener más control sobre lo que hacés, sobre los ingredientes, es importante. ¿Cómo calculás la pasta? Yo acá es claro que estoy haciendo una pasta. 100 g de harina por persona, harina cuatro ceros y un huevo por persona, punto. Después chorrito de aceite, bla bla bla. Pero 100 g de harina, un huevo por persona. Así se calcula la pasta. Si son cuatro, vas a poner 400 g de harina y cuatro … bien lisita. ¿Ven cómo se empieza a poner más bonita? Esos puntitos igual tienen que salir, pero cada vez está más linda. Tengo muchos planes para esta seguidora. Sigan viendo. Bueno, mira esto. Mira qué preciosa que está. Está linda, linda, linda. Te voy a hacer como hacía a mi nona. Acá te la dejo. La voy a dejar descansar. Sigan viendo. Ya volvemos. Mientras esto reposa, te voy a dar una indicación. Vos lo vas a esperar con una picada, con una tabla que hable por sí sola, con una cosa así antipasto. Mucho ojo a la calidad. No compres cualquier cosa. Gástate un billete. Me dijiste que … mandás esa. Mira esto. Media hora nada más de reposo. Está preciosa. Ven como vuelve. Está relinda salió esta masa. Entonces a partir de ahora lo que vamos a hacer, cortamos en cuatro. Yo te digo que me parece que eran huevos chiquititos porque yo he hecho dos porciones de masa y me han salido más. Truqui truqui, un poquito, estiramos un poquito así con la mano, que no nos peguemos y vamos acá. Bueno, y acá es el momento en el que vos pensás, Paulina, me estás jodiendo. Yo no tengo esta máquina para hacer la pasta. Y yo te digo, número uno, averigua que alguien va a tener. La vas pasando, … tiene que pasar esto que me acaba de pasar. Mirá, mirá cómo se me pegó por tonta, porque no la abrí. A ver si la puedo recuperar, si no tengo que volver a hacer todo de nuevo. Pufi, pufi, pufi. La la la Esto pasa a veces cuando hacés pasta y lo que hay que hacer es lo siguiente, te vuelvo a estirar, ¿qué se le va a hacer? Se vuelve a hacer. ¿No es lo mejor que te puede pasar? Cada tanto, ahora te voy a mostrar, volvemos al uno. Importante entonces, cada tanto, no en todas las vueltas, pero cada tanto le mandás de nuevo esto. Chiqui, yo la veo preciosa y mirá qué finita que está. A mí me … es muy cómodo, pero si está en el respaldo de una silla no pasa nada. Y si no, hacés lo siguiente, los agarrás así, los hacés como un nidito así, les pones un poquito de harina para que no se peguen, hacés un poquito así. ¿Viste? Así los tienen en la casa de pasta. Y listo. Ahí los dejás flojitos sin tocar mucho. Yo no lo voy a hacer porque quiero que todos me queden iguales, pero te voy a mostrar. Doblás, doblás, doblás y con el cuchillo tuqui tuqui tuqui tuqui tuqui vas cortando los fideitos tratando de que te queden los más parejos posibles. Es realmente muy sencillo. Buenas, ¿cómo … esto se hace rápido. Así de sencillo esto. Cuando la manteca derritió y empezó a hacer espumita, le pones salvia. Salvia es esta hoja que estás viendo, ¿sí? Esta hojita, tuqui tuqui, y ya está. Yo esto lo voy a sacar del fuego, listo. Ya está. Es una hojita muy rica que tiene un sabor como alimonado, fresco, rico. Se llama esta pasta burra es salvia, burra es manteca, salvia es salvia. Listo, ya está. Es muy típico, muy típico italiano y no tiene mayor complicación que esto que estás viendo. Ahora viene la parte más importante. La sartén la saqué del fuego no solo para que no se queme la … para esta pasta. Así como lo ves tiene un sabor que es una locura, entonces muy importante es sacar los fideos muy al dente cuando los vas a sartenear porque se siguen cocinando. Después mirá, mirá ahí, ¿ves cómo está la salsita? Que no está el agua aparte. Meterle agua de cocción es muy importante porque ese agua tiene restitos de harina y eso hace que emulsione y que quede bien bien bien espesito. Esto ya está y lo voy a servir. Chicos, me tengo que comprar una una pinza de fideos. ¿Cómo puede ser que no tenga? ¿Y cómo puede ser que esta pasta haya quedado tan bonita? Te juro no soy … de tiramisú, pero que está muy bien, por cierto, pero yo te recomiendo más esto porque darle a de comer a tus suegros es mucho más que saber hacer un plato. Entonces también que el suegro traiga helado, ¿no? Un poquito de Tampoco te voy a chupar la media toda la vida, suegro. Ubícate, te quiero sorprender todo bien, pero tráete un heladito, colabora vos también en esta relación. Te mando un beso. Espero que todo te salga bien y a ustedes les digo nos vemos en el próximo episodio de Ayuda a Paulina. Debería tener un jingle, ¿no? Che, esto está buenísimo, ¿eh? Estoy contenta con esto. Bye.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "6DP89ndSKgw": {
+  "channel": "Topes de Gama",
+  "lang": "es",
+  "checked": "2026-11-15T22:36:51+00:00",
+  "title": "MATE 90 PRO MAX! HUAWEI vuelve a DEMOSTRAR su INNOVACIÓN! Premios XMAGE",
+  "duration": 1704,
+  "published": "20261115",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 193.3,
+  "rare": 0.0501,
+  "var": 0.7829,
+  "speech_s": 1673.0,
+  "tokens": 5389,
+  "kw": [
+   [
+    "directamente",
+    "directamente en esta fuente de la Plaza",
+    236,
+    241,
+    4.91,
+    35
+   ],
+   [
+    "aquí",
+    "estás viendo aquí es el nuevo Huawei",
+    19,
+    25,
+    5.75,
+    29
+   ],
+   [
+    "teléfono",
+    "fotografías puedes hacer con tu teléfono",
+    9,
+    14,
+    4.92,
+    27
+   ],
+   [
+    "vamos",
+    "Vamos a ver un montón de cosas, os vamos",
+    86,
+    90,
+    5.49,
+    25
+   ],
+   [
+    "fotografías",
+    "fotografías puedes hacer con tu teléfono",
+    9,
+    14,
+    4.4,
+    47
+   ],
+   [
+    "fotografía",
+    "compiten por tener la mejor fotografía",
+    41,
+    47,
+    4.58,
+    35
+   ],
+   [
+    "poquito",
+    "para poner un poquito a prueba a la",
+    130,
+    135,
+    4.54,
+    16
+   ],
+   [
+    "móvil",
+    "móvil. Y para ello me he traído",
+    11,
+    16,
+    4.68,
+    14
+   ],
+   [
+    "veis",
+    "Mate 9 Pro Plus y esto que veis es un",
+    21,
+    27,
+    3.75,
+    17
+   ],
+   [
+    "gama",
+    "innovadores y más tope de gama que",
+    15,
+    20,
+    4.17,
+    15
+   ],
+   [
+    "guay",
+    "guay. Acabo de hacer unos fotones",
+    234,
+    239,
+    3.65,
+    8
+   ],
+   [
+    "espectacular",
+    "nivel de brillo muy espectacular y en",
+    221,
+    226,
+    4.16,
+    5
+   ],
+   [
+    "topes",
+    "en Topes de Gama. Olala. ¿Qué tal, chicos? Muy buenos días. Oye,",
+    56,
+    70,
+    3.06,
+    11
+   ],
+   [
+    "sensor",
+    "un sensor principal de 50 megapíxeles",
+    138,
+    144,
+    3.46,
+    7
+   ],
+   [
+    "focal",
+    "focal 2.0 en su fase más amplia a un",
+    346,
+    352,
+    3.06,
+    4
+   ],
+   [
+    "zoom",
+    "mucho porque puedes hacer zoom en vídeo",
+    414,
+    420,
+    3.57,
+    3
+   ],
+   [
+    "teleobjetivo",
+    "porque también tenemos el teleobjetivo y",
+    116,
+    121,
+    2.05,
+    6
+   ],
+   [
+    "veáis",
+    "primera mano para que veáis un poco el",
+    145,
+    150,
+    2.99,
+    5
+   ],
+   [
+    "megapíxeles",
+    "tener un gran angular de 40 megapíxeles,",
+    136,
+    143,
+    2.44,
+    5
+   ],
+   [
+    "peta",
+    "peta la cabeza. Sobre todo con esta",
+    829,
+    834,
+    2.87,
+    3
+   ]
+  ],
+  "tx": "Si uno piensa en una de las ciudades más importantes del mundo, le viene a la cabeza París, no solo por su historia, por su cultura y sobre todo porque es uno de los lugares donde mejores fotografías puedes hacer con tu teléfono móvil. Y para ello me he traído seguramente uno de los teléfonos más innovadores y más tope de gama que existen en el mercado. Este teléfono que estás viendo aquí es el nuevo Huawei Mate 9 Pro Plus y esto que veis es un objetivo de 1 pulgada. En este vídeo vais a ver fotografías y vídeos que va a costar creer que se pueden hacer con un teléfono móvil, pero sobre todo … vídeo. Más cosillas del teléfono de este Mate, que no quiero spoilearos demasiado, pero que sepáis que tiene un selfie de 13 megapíxeles. Os voy a dejar algunos fotillos y algún vídeo grabado también con la cámara frontal, aunque las cámaras traseras y, sobre todo, este pedazo de objetivo, ya os voy a hablar de él, largo y tendido, se llevan todo el protagonismo. Y luego, por lo demás, algunos detalles importantes a nivel de hardware. Pues mira, 6800 mAh, 100 W de carga, una pantalla muy grande con un nivel de brillo muy espectacular y en este acabado verde que, sinceramente, me parece … barbaridad. Y es curioso porque tienes que medio acostumbrarte. Tú lo ves y dices, oye, esto solo es un teleobjetivo. Que no, que no, que puedes hacer una fotografía con un por uno, con un por dos, con un por tres, por cinco, por seis y no pierde calidad. Sinceramente, me parece una locura. Ojalá los fabricantes cada vez saquen más este tipo de producto e incluso, ya que estoy aquí, he querido grabar un poquito de vídeo directamente a estos perritos. Y, por otra parte, la calidad me parece una locura. Sí que es verdad que no está súper estabilizado, como te puedes imaginar con el tamaño … se tiene que notar en esas condiciones, así que te digo, permanece muy atento a Topes de Gama porque en unos ditas vamos a tener análisis a fondo de este teléfono. Bueno, pues oye, ya nos hemos puesto un poquito guapetes con la americana para la entrega de premios y estamos dando una vuelta, la verdad que está relativamente cerca del hotel y estamos seguramente en uno de los sitios más icónicos para poder hacer fotografías en la ciudad de París, la ciudad del amor. Madre mía, la Torre Eiffel, cómo está, qué bonita está. Fíjate que hace un tiempo que nos acompaña perfecto para hacer … qué quieres que te diga, el orgullo y el honor de llevarte el premio a la mejor fotografía de este año. Por cierto, ¿eh? Mención aparte a la pedazo de entrada que han hecho. Muy, pero que muy guapa, me parece como muy bonita y muy original. Y este detalle, ¿qué te parece? El pin. Toma ya. X Mate, 10 años, décimo aniversario. Este pin eh no tiene que ser fácil de conseguir, ¿eh? A ver si lo vamos a sortear. No, hombre, no. Lo vamos a poner en el despacho de Topes de Gama, en un espacio privilegiado directamente desde aquí que, por cierto, mientras vamos a entrar os quiero poner algunas … dar un poquito de contexto, hay algo de información que tenéis que saber. Son los premios XMage. Antes en los inicios se llamaban de una forma ligeramente distinta y puede que alguno de vosotros digáis eh y pero ¿por qué se llama así? Mira, este es el Mate, ¿vale? Y si veis en la parte central, directamente en medio del módulo, vemos aquí directamente XMage. Es la tecnología a nivel fotográfico del fabricante Huawei. Ya sabéis que desde hace bastante tiempo toda la tecnología a nivel fotográfico lo hacen directamente en casa. Hace unos años estaban acompañados de un fabricante de de … no había ganado este año, pero que lleva un montón de años. En particular, había un español que se llama Luis Rodríguez y que nos ha contado un poquito su experiencia, ¿no? Fuera de de cámaras, ¿no? Él empezó a hacer fotografías con un Huawei P8, ¿eh? Los que lleváis más tiempo siguiéndonos en topes de gama, es un teléfono que, sinceramente, hacía unas fotos espectaculares. Por aquel entonces no habían tres cámaras, no habían teleobjetivos, no habían sensores de tantísimo tamaño, ¿no? Pero la gente al final lo que sí que tenía es talento, es ojo y ese buen gusto por la fotografía. Y nos ha … esta composición que habían hecho. Como veis, es un pequeño collage con diferentes modelos. Como veis, hay algunas imágenes con un P 60 Pro, P 60, P 50 Pro y han hecho este pequeño montaje en los cuales las personas son protagonistas. Esta ha sido una de las fotografías que también han resultado ganadoras. Esta imagen que parece que sería como una especie de de parque de atracciones, la imagen directamente del padre con la niña a cuestas. Y a mí con todo esto hay una cosa que me gustaría que reflexionáramos y es que al final la fotografía para mí una de las ventajas que tiene es que … disfrutéis de la fotografía, que os vayáis por ahí el fin de semana, que tenemos cámaras increíbles, que afortunadamente en la época en la que vivimos con un teléfono que pesa poco más de 200 g podemos tener un resultado increíble. Y aunque no tengas lo último de lo último, yo te tengo que decir que que salgas, que hagas fotografías, que vas a mejorar con el tiempo, que encuentres tu gusto, que encuentres qué tipo de fotografía te sientes más cómodo, que te atrevas, que publiques en redes sociales, que lo compartas con tus amigos. Porque al final la fotografía creo que es un hobby muy bonito … de verdad, esperamos de corazón que os haya gustado mucho este vídeo ligeramente diferente. Vuelvo a repetirte algo que te he dicho durante todo este vídeo. Muy atentos a topes de gama. Haremos un vídeo típico y tópico con el análisis y directamente con más fotografías, con más vídeos en diferentes condiciones, pero sin lugar a dudas el nuevo Mate 90 Pro Plus la verdad que nos ha dejado muy buen sabor de boca. Así que nada, anímate a hacer fotografías, sal por ahí a hacer fotos, a grabar vídeos con tu teléfono móvil y nos vemos muy pronto. Como siempre, amigos, aquí en topes de gama. Chao.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "_y6Be9hzDoY": {
+  "channel": "Mexican Spanish here",
+  "lang": "es",
+  "checked": "2026-11-15T22:41:32+00:00",
+  "title": "What Mexicans REALLY Eat Every Day! 🥑🇲🇽 (10-Day Food Diary)",
+  "duration": 1297,
+  "published": "20261113",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 151.3,
+  "rare": 0.0832,
+  "var": 0.7827,
+  "speech_s": 1296.2,
+  "tokens": 3268,
+  "kw": [
+   [
+    "creo",
+    "creo porque no es muy popular, pero",
+    45,
+    50,
+    5.79,
+    29
+   ],
+   [
+    "comida",
+    "nuestra comida también. ",
+    247,
+    253,
+    5.15,
+    23
+   ],
+   [
+    "entonces",
+    "Pero bueno, entonces sin más que decir,",
+    29,
+    35,
+    5.65,
+    20
+   ],
+   [
+    "aquí",
+    "aquí el nombre, se llama Bandera Negra y",
+    49,
+    54,
+    5.75,
+    18
+   ],
+   [
+    "salsa",
+    "Y también salsa macha. Ya sabes que en",
+    114,
+    121,
+    4.32,
+    18
+   ],
+   [
+    "poquito",
+    "poquito. Le llamamos chile cuaresmeño o",
+    132,
+    140,
+    4.54,
+    17
+   ],
+   [
+    "queso",
+    "También le puso queso y yo preparé algunas salsitas y",
+    139,
+    147,
+    4.45,
+    15
+   ],
+   [
+    "desayuno",
+    "es el desayuno, que normalmente es entre",
+    267,
+    276,
+    4.38,
+    15
+   ],
+   [
+    "cebolla",
+    "le ponen aguacate, jitomate, cebolla, cilantro y la preparación es con salsas",
+    64,
+    73,
+    3.97,
+    14
+   ],
+   [
+    "ajo",
+    "Los preparó con vino blanco, ajo, mucho",
+    240,
+    246,
+    3.83,
+    9
+   ],
+   [
+    "limón",
+    "tener limón y chile, ¿vale? Rodrigo pidió creo que también un",
+    74,
+    82,
+    4.1,
+    8
+   ],
+   [
+    "usamos",
+    "nosotros usamos pan pita, ¿sí? Creo que",
+    562,
+    568,
+    4.03,
+    8
+   ],
+   [
+    "mole",
+    "necesito buscar un mole, una pasta de",
+    958,
+    965,
+    3.41,
+    11
+   ],
+   [
+    "comimos",
+    "comimos ceviche. Este es una preparación",
+    36,
+    43,
+    3.33,
+    5
+   ],
+   [
+    "aguacate",
+    "le ponen aguacate, jitomate, cebolla, cilantro y la preparación es con salsas",
+    64,
+    73,
+    3.55,
+    4
+   ],
+   [
+    "cocido",
+    "estrellado y yo cocido, todo el huevo",
+    446,
+    453,
+    3.54,
+    4
+   ],
+   [
+    "jitomate",
+    "le ponen aguacate, jitomate, cebolla, cilantro y la preparación es con salsas",
+    64,
+    73,
+    2.66,
+    9
+   ],
+   [
+    "chilaquiles",
+    "llamamos chilaquiles. Si no has visto mi",
+    400,
+    406,
+    2.65,
+    6
+   ],
+   [
+    "acompañamos",
+    "Lo acompañamos creo que con vino blanco",
+    254,
+    260,
+    2.98,
+    5
+   ],
+   [
+    "ceviche",
+    "comimos ceviche. Este es una preparación",
+    36,
+    43,
+    2.85,
+    5
+   ]
+  ],
+  "tx": "Hola, hola, ¿cómo estás? Hoy seguramente crees que porque vivo en México me la paso comiendo tacos, tortas, quesadillas, enchiladas. Y la verdad es que me gustaría mucho, pero la realidad es que no. A veces cuidamos nuestra alimentación, así que hoy te voy a mostrar lo que comí y desayuné los últimos 10 días, ¿vale? Son cosas muy variadas, algunas cosas sí son tradicionales de México, otras la verdad es que no. Pero bueno, entonces sin más que decir, vamos a empezar. Bueno, pues en el día uno comimos ceviche. Este es una preparación muy especial que hacen en el negocio del amigo de Rodrigo. … y yo preparé algunas salsitas y ensaladas para acompañarlo. Esto es pico de gallo. Normalmente yo le pongo jitomate, cebolla y cilantro y un poquito de limón y sal. A veces también le pongo aceite de oliva. Luego hice una pequeña salsita con era chile chipotle, un poco de mayonesa, un poquito de aceite de oliva y creo que también le puse pimienta y perejil. Muy bueno. Y esta ensaladita tiene col morada, un poquito de zanahoria, crema y también un toquecito de azúcar y sal, ¿vale? Estos son los acompañamientos para nuestros tacos o quesadillas, en este caso porque tienen queso, de camarón, … la comida de la del mediodía, de la 1 a 2 de la tarde y después la cena. No. Nosotros es como un intermedio entre el desayuno y como la comida principal del día. Entonces el almuerzo más o menos es de 11 de la mañana a 1 de la tarde, ¿sí? Más o menos. Algunos lo harán, otros no lo harán. No no digo que sea una regla, pero normalmente es lo común, ¿no? Luego a las 2 no sé, 2 de 2 a 5 de la tarde es la hora de la comida. Por eso algunas personas cuando quedan de verse o cuando se citan para verse dicen, ah, nos vemos a la hora de la comida que normalmente es de 2 a 5 de la tarde, más o menos. … A estos chila chilaquiles le pusimos huevo, otras veces los hacemos con otra proteína. Y también tienen cebolla, crema, queso y cilantro, ¿vale? Y su salsa, obviamente, su salsa verde con huevos. Estos son los de Rodrigo, normalmente a Rodrigo le gusta el huevo estrellado y yo cocido, todo el huevo cocido. Tal vez lo hago como estrellado, dejo que un poquito la yema, que es la parte amarilla, pero la rompo y la coso por el otro lado. Mi mi plato se ve más queso que otra cosa. Ah, también Ah, sí, creo que sí te dije que tiene crema. Y estos son los totopos, ¿no? Los que están a un lado de … Rodrigo mencionó que es como un platillo, no sé si árabe o algo así, obviamente al estilo mexicano porque no creo que lo hagan de esta forma, pero usamos el pan pita, hice un poquito de pico de gallo, pero nada más con jitomate y cebolla. Le pusimos col morada y yo hice un pequeño aderezo de yogur con pepino, creo, limón, sal y pimienta. La verdad es que quedó muy buena esa comida también. Ah, también le pusimos salsa macha, ya sabes. Aquí está el aderezo de pepino con yogur, limón, pimienta, sal. Ah, creo que la también le puse un poquito de aceite de oliva. Y esta es la salsa que ya te … creo que huevos shashuke, algo así. No me creas mucho. Te voy a dejar aquí el nombre para investigarlo bien, pero el punto es que cocías jitomate, cebolla, pimiento y ajo y los aplastabas un poquito y después ponías los huevos y así se cocían. La verdad es que desde ese día que los probamos, en el restaurante no me gustó mucho, pero Rodrigo quiso replicarlos en la casa y le quedó una receta increíble. Entonces también es otro de nuestros desayunos favoritos. Lo acompañamos con pedacitos de pan con queso de cabra. Delicioso. Entonces, normalmente hacemos tres huevitos para cada uno y … zanahoria, ejote, le pone apio, chayote. Chayote no es lo mismo que calabaza, ¿vale? Calabaza es como de zucchini y el chayote es como squash. Sé que en algunos países no los tienen, pero te voy a dejar una foto aquí para que veas la diferencia entre calabaza y chayote, ¿vale? Y también le pone elote. Le queda delicioso y a mí me gusta mucho ponerle salsa roja. Siempre lo hace con salsa roja. Aquí está el caldo de ella sin tanta cosa como el mío. Aquí se ve más clarito su caldo. Yo le pongo muchísimo limón y nos lo comemos con taquitos. O sea, agarramos la tortilla, ponemos un poquito de … la porque tiene muchísimos ingredientes. Pero bueno, entonces comimos en enmoladas. Esta salsa que ves aquí, café, es el mole. Hay muchísimos tipos de mole en México. Hay mole café, mole rojo, mole verde, mole blanco, mole de todos. Algunos muy picosos, otros no tanto, algunos muy dulces, otros no tanto. A mí me encanta la combinación perfecta entre picoso y dulce, como al mismo tiempo y la verdad es que es muy bueno. Te puedes comer a veces, bueno, como plato principal es mole, pollo y arroz. Eso es como lo tradicional, pero también puedes encontrarlo en enmoladas, como es esto. … pero compramos unas pequeñas giosas y esto es un huevo cocido. Nada más. El caldito Rodrigo lo preparó con otros ingredientes, pero la verdad es que no me acuerdo qué le puso. Luego de desayuno, como te dije, uno de nuestros desayunos más populares y que nos gusta muchísimo son los chilaquiles, pero esta vez si tú observas la salsa está un poquito más blanca. Aquí le dicen suizos, chilaquiles suizos porque llevan un poco más de queso y la salsa está un poco más cremosa. La salsa verde es más cremosa que la otra. La otra solo lleva tomates, chiles, cebolla y ajo. Esta salsa lleva otro … video, si ya conocías alguna de estas comidas, si no, cuál te gustaría probar. Creo que las únicas tradicionales que usamos fue enmoladas y los chilaquiles. Ah, y el ceviche que también es tradicional, no de mi ciudad, pero bueno, tal vez de México. Yo sé que el ceviche nació en Perú, pero aquí le hemos añadido otras cosas que lo hacen un poquito también más mexicano. Pero bueno, pues entonces muchas gracias por estar aquí, gracias por todo tu apoyo. Espero verte pronto, ya sabes, cualquier duda, sugerencia, pregunta puedes dejármelo en los comentarios. Y pues nos vemos. Cuídate mucho. Adiós.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "M9Iw5MJjeQQ": {
+  "channel": "DW Español",
+  "lang": "es",
+  "checked": "2026-11-15T22:43:01+00:00",
+  "title": "Valdivia: la primera Ciudad Humedal de América Latina está en Chile",
+  "duration": 406,
+  "published": "20261113",
+  "spoken": "es",
+  "spoken_v": 2,
+  "pace": 148.8,
+  "rare": 0.0669,
+  "var": 0.781,
+  "speech_s": 398.1,
+  "tokens": 987,
+  "kw": [
+   [
+    "ciudad",
+    "esta ciudad al sur de Chile.",
+    8,
+    14,
+    5.7,
+    7
+   ],
+   [
+    "protección",
+    "protección. Somos nosotros los garantes de la protección y la restauración de",
+    87,
+    93,
+    4.92,
+    6
+   ],
+   [
+    "hoy",
+    "grande de la de la historia, hoy día",
+    48,
+    53,
+    5.74,
+    5
+   ],
+   [
+    "crisis",
+    "triple crisis que enfrenta hoy en día la",
+    277,
+    282,
+    5.02,
+    4
+   ],
+   [
+    "sitios",
+    "Los sitios Ramsar son humedales de",
+    125,
+    130,
+    4.68,
+    5
+   ],
+   [
+    "clave",
+    "determinada o ser clave para la",
+    138,
+    143,
+    4.79,
+    3
+   ],
+   [
+    "proteger",
+    "Muchos valdivianos intentan proteger los humedales en su día a día, como este",
+    61,
+    69,
+    4.59,
+    3
+   ],
+   [
+    "orgullo",
+    "un estado de ánimo. Es el orgullo",
+    36,
+    41,
+    4.55,
+    3
+   ],
+   [
+    "biodiversidad",
+    "conservación de la biodiversidad. Existen más de 2500 sitios Ramsar en el",
+    140,
+    150,
+    3.72,
+    4
+   ],
+   [
+    "santuario",
+    "El Santuario de la Naturaleza Carlos",
+    154,
+    160,
+    3.95,
+    3
+   ],
+   [
+    "alberga",
+    "El complejo alberga bosques pantanosos y",
+    165,
+    170,
+    3.73,
+    3
+   ],
+   [
+    "triple",
+    "triple crisis que enfrenta hoy en día la",
+    277,
+    282,
+    4.19,
+    2
+   ],
+   [
+    "humedales",
+    "por humedales, auténticos pulmones verdes que se abren paso por las zonas",
+    13,
+    21,
+    3.22,
+    13
+   ],
+   [
+    "humedal",
+    "ciudad humedal en 2025 por la Convención",
+    22,
+    29,
+    2.71,
+    7
+   ]
+  ],
+  "tx": "Se podría decir que Valdivia flota sobre el agua. Ríos, lagos y páramos son el corazón de la identidad territorial de esta ciudad al sur de Chile. El 16 % de la zona urbana está compuesta por humedales, auténticos pulmones verdes que se abren paso por las zonas residenciales. Por eso Valdivia fue reconocida como ciudad humedal en 2025 por la Convención Ramsar, transformándose en una de las primeras ciudades de América Latina en recibir esta distinción internacional. Se ve en muchas situaciones, primero en un estado de ánimo. Es el orgullo valdiviano, es el orgullo de decir nuestra ciudad que está rodeada de humedales, que ha tenido eh eh luchas ambientales, que tuvo el cataclismo más grande de la de la historia, hoy día tiene un reconocimiento internacional en algo positivo. Yo creo que ha inyectado de optimismo, de de orgullo a a a nuestra ciudad y sus habitantes. Muchos valdivianos intentan proteger los humedales en su día a día, como este grupo de voluntarios que se reunió un domingo para recoger basura, una campaña de limpieza organizada por la fundación Plantae. Queremos formar comunidad, comunidad humedal. Estamos en ciudad humedal y las comunidades que habitan los territorios humedales tienen que estar conectados y tienen que saber lo que pasa dentro de sus propios humedales. Son parte de la protección. Somos nosotros los garantes de la protección y la restauración de nuestros propios entornos y es un trabajo colaborativo. No depende solamente del Estado, depende de las personas. Catalina se ha sumado a la campaña de limpieza. Tras un año en la ciudad, dice haber encontrado su lugar. Me parece que es una suerte. Imagínate tenerlo al lado en el barrio, se puede salir a pasear, poder escuchar a las distintas especies de pajaritos que aparecen y que viven aquí, muchas ranitas, cosas que en Santiago uno jamás hubiese pensado eh en lugares tan eh, así que hay que aprovecharlo, hay que disfrutarlo y hay que cuidarlo. Los sitios Ramsar son humedales de importancia internacional. Se identifican por dos criterios principales, albergar un ejemplo representativo raro o único de humedal natural en una región biogeográfica determinada o ser clave para la conservación de la biodiversidad. Existen más de 2500 sitios Ramsar en el mundo. Chile cuenta con 16 distribuidos de norte a sur del país. El Santuario de la Naturaleza Carlos Anwandter en Valdivia fue el primer sitio Ramsar de Chile, declarado en 1981. El complejo alberga bosques pantanosos y palustres y el Cruces, un río navegable. Actualmente el santuario está administrado por la Corporación Nacional Forestal. Y les vuelvo a saludar cuando ya estemos dentro del santuario. El origen de un terremoto que bajó en general los terrenos un como 2 m de promedio, alberga la principal eh colonia reproductiva de cisnes de cuello negro hasta la fecha. Alberga más de 100 eh especies de aves. En los monitoreos mensuales al día de hoy estamos contando cerca de 7000 5000 aves eh y también hay otro tipo de fauna como eh huillín, coipo asociado a este territorio. Pero además cierto es parte de una red de humedales de la zona de Valdivia y también en una zona que ha tenido una ocupación humana desde mucho tiempo y conviven varias culturas, la cultura mapuche, la cultura alemana, la cultura chilena, española y todo un crisol y que se mantiene todavía en los territorios aledaños y en la conectividad. Entonces este sitio Ramsar es importante por la biodiversidad que representa, por el origen que tiene y por la conectividad para eh el agua que es vida y fondo como se dice. Hoy tiene lugar el encuentro anual de sitios Ramsar de Chile. Durante dos días, diferentes representantes de sitios Ramsar, ONGs, investigadores y autoridades comparten experiencias, intercambian opiniones y desarrollan estrategias para una mejor protección de los sitios Ramsar y de los humedales en general. También participa el Ministerio de Medio Ambiente. Bueno, los humedales son un tipo de ecosistema eh que podríamos decir es clave, ¿por qué? Yo diría principalmente porque son una solución o su conservación es una solución a la a la triple crisis que enfrenta hoy en día la humanidad. ¿Cuál es la triple crisis? La pérdida de biodiversidad, el cambio climático eh o la crisis climática y también la crisis de contaminación. Sobre el papel, Chile va por buen camino en materia de protección de sus humedales y del medio ambiente. Ha firmado diversos acuerdos internacionales como el Acuerdo de París. También ha adoptado la meta tres del Marco Global de Biodiversidad que busca proteger el 30% de las áreas terrestres y marinas para 2030. Sin embargo, quedan todavía muchos retos para proteger los humedales. El desarrollo inmobiliario o el cambio de uso de suelo ha avanzado a un nivel más rápido de lo que la planificación quizás territorial ha podido lograr. Y en ese sentido, el desconocimiento o la falta de puesta en valor de estos ecosistemas hizo que muchos años se vieran como eh pantanos, zonas zonas incómodas que a nadie le gustaba, tierras de bajo valor y eso generó obras de drenaje para poder construir rellenos, basurales. Los humedales actúan como filtros naturales de agua, regulan las inundaciones y ayudan a mitigar los efectos del cambio climático. Valdivia tiene un importante historial en la defensa del medio ambiente que ha marcado la agenda nacional. Creemos que desde aquí también nacen eh discusiones que transforman la política pública. En este humedal que estamos hoy día se discutió la Ley de Protección de Humedales Urbanos. Desde acá salió, desde el conflicto con este proyecto que se que está alrededor del del humedal nació la la ley. Entonces hay historia y desde ahí también Valdivia siempre ha transmitido el ímpetu, la convicción, la conexión con sus territorios hacia afuera y ha ayudado también a la discusión política. Valdivia y sus habitantes se han ganado a pulso el título de ciudad humedal. De ellos dependerá ahora la protección de un ecosistema clave para nuestro planeta.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
  }
 }
