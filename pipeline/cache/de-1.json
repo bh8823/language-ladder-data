@@ -236,49 +236,266 @@
  "-xLT7AMY_B4": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-10-27T16:28:23+00:00",
+  "checked": "2026-11-22T06:17:03+00:00",
   "title": "How Do People Live in Germany? Berlin Apartment Tour",
   "duration": 342,
   "published": "20260917",
+  "spoken": "de",
+  "spoken_v": 2,
   "pace": 126.8,
   "rare": 0.0791,
+  "var": 0.6522,
+  "cl": null,
   "speech_s": 328.9,
   "tokens": 695,
   "kw": [
    [
-    "dachterrasse",
-    "Dachterrasse. Dach ist the roof, Dachterrasse.",
-    229
+    "wohnung",
+    "Wohnung gebucht in Berlin und diese",
+    22,
+    29,
+    5.08,
+    8
    ],
    [
-    "holzbalken",
-    "Holzbalken. Das sind Holzbalken. Und hier sind noch die alten Ziegel. Das ist",
-    39
+    "schön",
+    "schön flauschig. Flauschig. Und hier siehst du noch eine",
+    84,
+    93,
+    5.52,
+    5
    ],
    [
-    "nackig",
-    "nackig. Du könntest hier nackig duschen,",
-    287
+    "berlin",
+    "Hallo und willkommen in Berlin. Komm mal",
+    13,
+    23,
+    5.68,
+    4
+   ],
+   [
+    "kannst",
+    "Kannst du das glauben? Da kann man sich",
+    268,
+    274,
+    5.54,
+    4
+   ],
+   [
+    "unglaublich",
+    "Wohnung ist unglaublich. Wir sind total beeindruckt, total",
+    25,
+    35,
+    4.73,
+    4
+   ],
+   [
+    "schwimmen",
+    "Alle meine Entchen, schwimmen auf dem",
+    0,
+    9,
+    4.38,
+    4
+   ],
+   [
+    "mitten",
+    "Wohnung. Das Bad ist mitten in der",
+    106,
+    113,
+    4.67,
+    3
+   ],
+   [
+    "siehst",
+    "Flauschig. Und hier siehst du noch eine",
+    87,
+    93,
+    4.65,
+    3
+   ],
+   [
+    "ente",
+    "die Ente und eine kleine Ente ist ein",
+    131,
+    138,
+    3.78,
+    5
+   ],
+   [
+    "genial",
+    "was genial ist, diese Wohnung hat auch einen Kamin. Der Kamin und was",
+    63,
+    73,
+    4.15,
+    4
+   ],
+   [
+    "kamin",
+    "hat auch einen Kamin. Der Kamin und was",
+    65,
+    73,
+    3.71,
+    4
+   ],
+   [
+    "duschen",
+    "kannst du dich hier duschen. Sogar",
+    286,
+    290,
+    4.04,
+    3
    ],
    [
     "ziegel",
     "hier sind noch die alten Ziegel. Das ist",
-    42
+    42,
+    50,
+    3.4,
+    4
    ],
    [
-    "liegestühle",
-    "Hier haben wir Liegestühle zum Liegen. Stühle, Chairs, zum Liegen.",
-    241
+    "dachterrasse",
+    "Dachterrasse. Dach ist the roof, Dachterrasse.",
+    229,
+    238,
+    3.03,
+    4
    ],
    [
-    "schwänzchen",
+    "dekoration",
+    "Dekoration und da sind noch Bilder und",
+    89,
+    97,
+    3.55,
+    2
+   ],
+   [
+    "erinnerst",
+    "auch sehr schön. Erinnerst du dich, do",
+    209,
+    215,
+    3.51,
+    2
+   ],
+   [
+    "nackig",
+    "nackig. Du könntest hier nackig duschen,",
+    287,
+    293,
+    2.76,
+    3
+   ],
+   [
+    "holzbalken",
+    "Holzbalken. Das sind Holzbalken. Und hier sind noch die alten Ziegel. Das ist",
+    39,
+    50,
+    2.68,
+    3
+   ],
+   [
+    "flauschig",
+    "schön flauschig. Flauschig. Und hier siehst du noch eine",
+    84,
+    93,
+    2.94,
+    2
+   ],
+   [
+    "höh",
     "das Wasser, Schwänzchen in die Höh.",
-    8
+    8,
+    14,
+    2.87,
+    2
    ]
   ],
+  "kx": [
+   [
+    "kleine",
+    "auch eine kleine Schnapsbar oder ist das",
+    92,
+    99,
+    5.42,
+    4
+   ],
+   [
+    "bad",
+    "Wohnung. Das Bad ist mitten in der",
+    106,
+    113,
+    5.06,
+    4
+   ],
+   [
+    "nachbarn",
+    "Hey, Berlin, Berlin, Nachbarn, Nachbarn, kannst du dich hier duschen. Sogar",
+    283,
+    290,
+    4.61,
+    3
+   ],
+   [
+    "cool",
+    "total cool. Und hier ist erstmal ein",
+    49,
+    56,
+    4.79,
+    2
+   ],
+   [
+    "stühle",
+    "Stühle, sehr sehr schöne Stühle. Und",
+    142,
+    147,
+    3.79,
+    3
+   ],
+   [
+    "schlafzimmer",
+    "Schlafzimmer, schau mal, und auch mega",
+    192,
+    199,
+    4.19,
+    2
+   ],
+   [
+    "natürliches",
+    "natürliches Licht rein, natürliches Licht, weil wir ganz oben sind. Okay,",
+    184,
+    193,
+    3.5,
+    2
+   ],
+   [
+    "oval",
+    "bisschen oval, oval. Ist echt sehr",
+    146,
+    154,
+    3.44,
+    2
+   ],
+   [
+    "stylisch",
+    "stylisch, sagen wir, sehr stylisch. So",
+    150,
+    156,
+    2.8,
+    2
+   ],
+   [
+    "entchen",
+    "Alle meine Entchen, schwimmen auf dem",
+    0,
+    9,
+    2.52,
+    2
+   ]
+  ],
+  "tx": "Alle meine Entchen, schwimmen auf dem See, schwimmen auf dem See. Köpfchen in das Wasser, Schwänzchen in die Höh. Hallo und willkommen in Berlin. Komm mal rein. Wir haben für diese Nacht eine Wohnung gebucht in Berlin und diese Wohnung ist unglaublich. Wir sind total beeindruckt, total beeindruckt. Hier ist erstmal das Wohnzimmer und schau mal, das ist wunderschön. Man hat da noch die Holzbalken. Das sind Holzbalken. Und hier sind noch die alten Ziegel. Das ist die Wand und das sind echte Ziegel. Ist total cool. Und hier ist erstmal ein Esstisch, ein großer Tisch und schau mal, das ist alles alles offen, alles komplett offen. Eine super große Couch. Hier haben wir noch mehr Holzbalken und was genial ist, diese Wohnung hat auch einen Kamin. Der Kamin und was ist das? Wie nennt man das auf Deutsch? Das ist ein Sitzkissen. Ein Kissen ist eigentlich zum Schlafen, aber das ist ein Kissen zum Sitzen. Und hier ist noch ein ganz weicher Teppich. Der Teppich, der ist schön flauschig. Flauschig. Und hier siehst du noch eine Dekoration und da sind noch Bilder und auch eine kleine Schnapsbar oder ist das Bier? Ach, die Flaschen sind ja alle leer, leer, empty. Keine Ahnung. Ich glaube, die sind auch zur Dekoration. Weiter geht's. Das ist das Beste an der Wohnung. Das Bad ist mitten in der Wohnung. Siehst du das? Das Bad ist mitten in der Wohnung. Hier hat man auch einen Spiegel und so weiter und mein Highlight von der Wohnung ist dieses Quietscheentchen. Quietschen ist das Quietscheentchen, die Ente und eine kleine Ente ist ein Entchen, ein Quietscheentchen. Hier sind noch mehr Quietscheentchen und hier ist noch ein Tisch, ja und sehr schöne Stühle, sehr sehr schöne Stühle. Und siehst du, der Tisch, der ist so ein bisschen oval, oval. Ist echt sehr stylisch, sagen wir, sehr stylisch. So und jetzt, pass auf, die Küche ist auch mitten in der Wohnung. Hier ist der Kühlschrank, Kühlschrank und hier sind die ganzen Geräte, eine Mikrowelle, ein Ofen und hier noch ein Geschirrspüler, Geschirrspüler. Und hier ist das Waschbecken, der Herd und hier ist eine kleine Kücheninsel, sehr sehr schön. Und weißt du, was auch cool ist? Wir sind ganz oben, wir sind im Dachgeschoss und hier kommt natürliches Licht rein, natürliches Licht, weil wir ganz oben sind. Okay, weiter geht's. Hier ist das Schlafzimmer, schau mal, und auch mega schön und auch mit Kamin. Hier ist ein Kamin im Schlafzimmer. Und ja, wunderschön, sehr schön eingerichtet und jetzt gehen wir noch, ach, hier ist noch ein Bad. Das Bad ist auch sehr schön. Erinnerst du dich, do you remember, erinnerst du dich? Was ist das auf Deutsch? Der Ziegel. Hier hast du auch die original Ziegel noch in der Wand, echt genial, genial. Ich mach dann das Licht aus, so und jetzt gehen wir hoch auf die Dachterrasse. Dach ist the roof, Dachterrasse. Boah, die du bereit? Are you ready? Hier ist die Dachterrasse. Ist unglaublich, wirklich unglaublich. Hier haben wir Liegestühle zum Liegen. Stühle, Chairs, zum Liegen. Liegestühle. Hier ist noch so eine Kugel zum Sitzen. Klasse. Das ist einfach genial. Und schau mal, hier sind ganz viele Pflanzen. Überall auf der Dachterrasse sind schöne, schöne Pflanzen. Weißt du, was das ist? Was denkst du? Was ist das? Das ist eine Sauna. Hier ist eine Sauna auf der Terrasse. Kannst du das glauben? Da kann man sich hier reinsetzen und auf den Dächern Berlins saunieren. Ich finde das unglaublich. Und hier haben wir noch eine Außendusche. Ja, das ist eine Dusche und du kannst dich hier draußen Hey, Berlin, Berlin, Nachbarn, Nachbarn, kannst du dich hier duschen. Sogar nackig. Du könntest hier nackig duschen, weil dich sieht niemand. Ja, hier sind nicht wirklich Nachbarn. Also kannst du hier einfach dich ausziehen und nackig duschen. Und hier haben wir noch einen Tisch und ja, das war's. So und jetzt noch mal zum Abschluss. Was ist das? Das ist eine Ente. Die Ente oder das Ändchen, eine kleine Ente. So und wie geht das Lied? Alle meine Ändchen schwimmen auf dem See, schwimmen auf dem See, Köpfchen in das Wasser, Schwänzchen in die Höh. Und tschüss.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "kw_tried": 1
+  "src": "auto"
  },
  "WK3FURDApZw": {
   "channel": "Deutsch für Euch",

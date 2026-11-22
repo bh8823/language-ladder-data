@@ -577,49 +577,266 @@
  "SUeMNS7IpAc": {
   "channel": "Apprends le français",
   "lang": "fr",
-  "checked": "2026-10-27T16:27:18+00:00",
+  "checked": "2026-11-22T06:16:59+00:00",
   "title": "The Lazy Sibling । Improve your French । Learn French with this simple story ( B1-B2 )",
   "duration": 2338,
   "published": "20261013",
+  "spoken": "fr",
+  "spoken_v": 2,
   "pace": 126.5,
   "rare": 0.0382,
+  "var": 0.8329,
+  "cl": null,
   "speech_s": 2309.9,
   "tokens": 4871,
   "kw": [
    [
-    "regardée",
-    "pendant des jours et maintenant, je trouve ça. » Il m'a regardée. « Tu",
-    709
+    "avais",
+    "faisant semblant de ne pas écouter. Je me souviens que j'avais honte pour Liam.",
+    221,
+    229,
+    5.53,
+    20
    ],
    [
-    "souvenue",
-    "travaillait là-bas. Je me suis souvenue de tous les emplois que Liam prétendait avoir quittés.",
-    1301
+    "pourquoi",
+    "encore plus furieuse. « Alors, pourquoi tu ne fais rien ? » Un silence s'est installé.",
+    449,
+    459,
+    5.66,
+    19
    ],
    [
-    "murmuré",
+    "pendant",
+    "Je m'appelle Mélina et, pendant la majeure partie de ma vie, j'ai cru être l'enfant",
+    0,
+    8,
+    5.67,
+    18
+   ],
+   [
+    "mes",
+    "responsable de ma famille. Je me levais tôt. Je travaillais dur. Je payais mes factures à temps.",
+    7,
+    19,
+    5.77,
+    15
+   ],
+   [
+    "papa",
+    "c'est elle sur qui on peut compter », disait papa. Avant, j'étais fière lorsqu'il disait cela.",
+    62,
+    71,
+    4.57,
+    43
+   ],
+   [
+    "maman",
+    "Maman a travaillé pendant de nombreuses années dans une épicerie. Papa réparait des systèmes de",
+    98,
+    106,
+    4.74,
+    30
+   ],
+   [
+    "répondu",
     "murmuré. J'ai hoché la tête. « Je vais m'occuper des factures », ai-je répondu.",
-    361
+    361,
+    371,
+    4.62,
+    11
    ],
    [
-    "paresseux",
-    "et trouvait toujours une excuse. Pour toute notre famille, Liam était tout simplement paresseux.",
-    46
+    "regardé",
+    "Maman a regardé Liam. « Et toi ? » Liam a baissé les yeux. « Je",
+    370,
+    379,
+    4.48,
+    9
    ],
    [
-    "secoué",
-    "ne sais pas tout. » « Alors, explique-moi. » Il a secoué la tête. « Je ne peux pas. »",
-    716
+    "garage",
+    "Quand papa lui demandait de l'aider dans le garage, Liam disparaissait dans sa chambre.",
+    157,
+    164,
+    4.15,
+    8
+   ],
+   [
+    "enveloppe",
+    "Je fouillais dans une armoire lorsqu'une petite enveloppe marron est tombée par",
+    554,
+    559,
+    4.14,
+    8
    ],
    [
     "reçus",
     "pile de reçus. Des achats alimentaires, de l'essence, des médicaments, des courses.",
-    568
+    568,
+    578,
+    3.95,
+    8
+   ],
+   [
+    "cessé",
+    "Même mon père avait cessé d'attendre quoi que ce soit de lui. « Mélina,",
+    56,
+    63,
+    4.18,
+    7
+   ],
+   [
+    "regardée",
+    "pendant des jours et maintenant, je trouve ça. » Il m'a regardée. « Tu",
+    709,
+    717,
+    3.43,
+    12
+   ],
+   [
+    "paresseux",
+    "et trouvait toujours une excuse. Pour toute notre famille, Liam était tout simplement paresseux.",
+    46,
+    57,
+    3.51,
+    8
+   ],
+   [
+    "secoué",
+    "ne sais pas tout. » « Alors, explique-moi. » Il a secoué la tête. « Je ne peux pas. »",
+    716,
+    727,
+    3.4,
+    5
+   ],
+   [
+    "voyaient",
+    "de moi-même. » Il a esquissé un petit sourire douloureux. « Les gens me voyaient dormir.",
+    1623,
+    1633,
+    3.56,
+    3
+   ],
+   [
+    "murmuré",
+    "murmuré. J'ai hoché la tête. « Je vais m'occuper des factures », ai-je répondu.",
+    361,
+    371,
+    2.68,
+    5
+   ],
+   [
+    "souvenue",
+    "travaillait là-bas. Je me suis souvenue de tous les emplois que Liam prétendait avoir quittés.",
+    1301,
+    1309,
+    2.54,
+    5
+   ],
+   [
+    "cria",
+    "gazon. « Liam ! » cria-t-il depuis le garage. « J'ai besoin d'un coup",
+    169,
+    177,
+    2.82,
+    2
+   ],
+   [
+    "esquissé",
+    "qu'il t'en veut ? » « Je ne sais pas. » Papa a esquissé un léger sourire. « Liam",
+    1034,
+    1045,
+    2.78,
+    2
    ]
   ],
+  "kx": [
+   [
+    "chose",
+    "J'aimais gagner mon propre argent. J'aimais savoir que, si je voulais quelque chose,",
+    121,
+    129,
+    5.7,
+    14
+   ],
+   [
+    "années",
+    "Maman a travaillé pendant de nombreuses années dans une épicerie. Papa réparait des systèmes de",
+    98,
+    106,
+    5.63,
+    12
+   ],
+   [
+    "savais",
+    "Je ne savais pas que ces six mots resteraient gravés dans ma mémoire",
+    508,
+    513,
+    4.66,
+    6
+   ],
+   [
+    "colère",
+    "la colère avait envahi mon cœur. Un soir, je l'ai appelé. Il a répondu après plusieurs sonneries.",
+    422,
+    433,
+    4.65,
+    5
+   ],
+   [
+    "restée",
+    "suis restée là, les yeux fixés sur mon téléphone. J'étais furieuse.",
+    495,
+    503,
+    4.16,
+    5
+   ],
+   [
+    "baissé",
+    "Maman a regardé Liam. « Et toi ? » Liam a baissé les yeux. « Je",
+    370,
+    379,
+    3.87,
+    5
+   ],
+   [
+    "travaillais",
+    "responsable de ma famille. Je me levais tôt. Je travaillais dur. Je payais mes factures à temps.",
+    7,
+    19,
+    3.4,
+    3
+   ],
+   [
+    "souri",
+    "Puis, j'ai souri à travers mes larmes. « Je veux nous aider, nous tous. » Pour la première fois",
+    2026,
+    2035,
+    3.34,
+    3
+   ],
+   [
+    "disparais",
+    "quelques mois et tu disparais chaque fois que ta famille a besoin de toi.",
+    475,
+    481,
+    2.68,
+    2
+   ],
+   [
+    "réparait",
+    "Maman a travaillé pendant de nombreuses années dans une épicerie. Papa réparait des systèmes de",
+    98,
+    106,
+    2.2,
+    2
+   ]
+  ],
+  "tx": "Je m'appelle Mélina et, pendant la majeure partie de ma vie, j'ai cru être l'enfant responsable de ma famille. Je me levais tôt. Je travaillais dur. Je payais mes factures à temps. Et lorsque mes parents avaient besoin d'aide, j'étais généralement la première personne qu'ils appelaient. Mon petit frère, Liam, était complètement différent. Il dormait jusqu'à dix ou onze heures du matin dès qu'il le pouvait. Il gardait rarement un emploi stable. Il oubliait ses rendez-vous, ignorait les appels téléphoniques et trouvait toujours une excuse. Pour toute notre famille, Liam était tout simplement … passait d'un emploi à un autre. Livreur, employé de restaurant, ouvrier sur des chantiers, préparateur de commandes dans un entrepôt. Rien ne durait. Chaque fois qu'il quittait un emploi, il avait une raison. Mon patron était horrible. Les horaires étaient épuisants. On me traitait injustement. Il n'y avait aucun avenir là-bas. Parfois, ses raisons étaient justifiées. Mais après les avoir entendues encore et encore, j'ai cessé de poser des questions. Lorsque nous avons tous les deux atteint la trentaine, j'avais cessé de considérer Liam comme quelqu'un que je devais comprendre. Je le … toujours fait. Je ne savais pas que ces six mots resteraient gravés dans ma mémoire pendant des années, car le lendemain matin, j'ai découvert quelque chose dans le garage de nos parents qui m'a fait remettre en question tout ce que je croyais savoir sur mon petit frère. Le lendemain matin, je suis allée chez mes parents en voiture avant de partir au travail. Maman m'avait demandé de chercher de vieux papiers d'assurance dans le garage. Celui-ci était encombré de cartons, d'outils, de vieilles décorations de Noël et de toutes sortes d'objets que papa avait accumulés pendant plus de trente … passé devant moi et s'en est allé. Arrivé devant la porte du garage, il s'est arrêté. « Prends soin de papa. » Puis, il est parti. Je suis restée figée sur place, et pendant tout le reste de la journée, je n'ai pas réussi à me concentrer au travail. Le visage de Liam ne cessait de me revenir à l'esprit. Pourtant, je me répétais que je me faisais des idées. Peut-être que ces reçus ne signifiaient rien. Peut-être que Liam avait emprunté de l'argent à papa. Peut-être qu'il cherchait à cacher une nouvelle erreur. J'ai essayé de ne plus y penser. Mais ce soir-là, maman m'a appelée. « Mélina, … lorsqu'il m'a demandé : « Tu as parlé à ton frère ? » « Oui. » Papa a baissé les yeux. « Est-ce qu'il t'en veut ? » « Je ne sais pas. » Papa a esquissé un léger sourire. « Liam a toujours été plus doué pour cacher des choses que tu ne le crois. » J'ai posé ma fourchette. « Quelles choses ? » Papa m'a regardée. Pendant quelques secondes, il n'a rien dit. Puis, il a murmuré : « Tu devrais peut-être arrêter de te demander pourquoi Liam est paresseux. » Ma poitrine s'est serrée. « Alors, que devrais-je me demander ? » Les yeux de papa se sont remplis de larmes. « Demande-toi ce qui l'a … suis assise sur le banc en face des casiers. Liam aidait nos parents depuis des années. Mais comment ? C'est alors que j'ai remarqué le badge de travail. Il appartenait à une entreprise de nettoyage à domicile. Je l'ai fixé du regard. Liam ne nous avait jamais dit qu'il travaillait là-bas. Je me suis souvenue de tous les emplois que Liam prétendait avoir quittés. Et si, au lieu d'être simplement au chômage, il avait travaillé ailleurs ? J'ai continué à lire. Une note disait : « Mardi, maman a découvert la vérité. » Une autre mentionnait Mélina : « Elle en fait déjà assez. » Je me suis … petit. Il n'y avait presque aucun meuble. Sur le mur, un dessin d'enfant représentait une petite maison, un ciel bleu et trois personnes qui se tenaient par la main. Je l'ai fixé du regard. « C'est ta fille ? » Liam a hoché la tête. Ma gorge s'est nouée. « Yasmine était enceinte, a-t-il expliqué. Nous étions jeunes. Nous pensions pouvoir nous en sortir. » Il a regardé le dessin. « Clara est née avec un grave problème cardiaque. » Il s'est interrompu. « Les médecins nous ont dit qu'elle avait besoin de soins supplémentaires que nous n'avions pas les moyens de payer. » Je suis restée … à tout ça. » « Qui a signé ? » Il m'a regardée. « Oncle Théotime. » J'ai senti un frisson me parcourir le corps. Théotime était le petit frère de papa. Il nous rendait souvent visite. Il se présentait toujours comme la personne qui se souciait le plus de notre famille. Comment avait-il pu signer à la place de maman ? « Il lui a dit que ce ne serait que temporaire, a expliqué Liam. Il prétendait avoir besoin d'aide pour son entreprise. Il lui a promis qu'il rembourserait l'argent avant que qui que ce soit ne s'en aperçoive. Mais il ne l'a jamais fait. » Liam a secoué la tête. « Il a perdu … Nous avons discuté avec la banque. Nous avons rassemblé tous les documents nécessaires. Finalement, oncle Théotime a reconnu ce qu'il avait fait. Il ne pouvait pas rendre tout l'argent, mais après avoir examiné l'ensemble de la situation, la banque a accepté de réaménager une partie de la dette. Ce n'était pas facile. Mes parents ont dû vendre quelques biens. Liam a trouvé un emploi stable dans une entreprise de maintenance. Je l'ai aidé à établir un budget. Pour une fois, il n'a pas fui ses responsabilités. Il les a affrontées. Peu à peu, sa vie a commencé à changer. Non pas parce que … personne cesse de demander : « Pourquoi es-tu comme ça ? » pour commencer à demander : « Qu'est-ce qui t'est arrivé ? » Aujourd'hui, lorsqu'un membre de ma famille traverse une période difficile, je ne le juge plus en fonction de ce que je vois. Je pose des questions. J'écoute. Car mon frère, que je croyais paresseux, m'a enseigné la plus grande leçon de ma vie. On ne peut jamais savoir à quel point le cœur d'une personne est lourd simplement en regardant la lenteur avec laquelle elle avance. Et parfois, la personne qui semble ne rien faire mène en réalité le combat le plus difficile de tous.",
+  "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "kw_tried": 1
+  "src": "cc"
  },
  "X-Vcega8FQo": {
   "channel": "Frenchy Tales",
@@ -978,7 +1195,7 @@
  "F58HoAod11c": {
   "channel": "Français Plus Facile",
   "lang": "fr",
-  "checked": "2026-11-10T02:16:22+00:00",
+  "checked": "2026-11-22T06:20:37+00:00",
   "title": "Je prépare mon sac pour un long week-end 🇫🇷 (Compréhension Orale A2-B2)",
   "duration": 583,
   "published": "20260908",
@@ -987,6 +1204,7 @@
   "pace": 148.6,
   "rare": 0.0127,
   "var": 0.7646,
+  "cl": null,
   "speech_s": 570.3,
   "tokens": 1412,
   "kw": [
@@ -1093,6 +1311,120 @@
     182,
     3.48,
     4
+   ]
+  ],
+  "kx": [
+   [
+    "parce",
+    "pas ce jour-là. Donc, j'ai pris mon après-midi et j'ai fini parce qu'en fait, je pars en week-end.",
+    21,
+    30,
+    5.73,
+    9
+   ],
+   [
+    "puis",
+    "préparer et puis tu vas pratiquer la compréhension orale. D'accord.",
+    35,
+    42,
+    5.67,
+    7
+   ],
+   [
+    "dents",
+    "essentielles, hein. Brosse à dents, tu vois, j'ai une brosse à dents électrique. J'ai aussi une",
+    198,
+    204,
+    4.55,
+    3
+   ],
+   [
+    "ordinateur",
+    "c'est le chargeur de mon ordinateur. Enfin voilà, tu vois, il y a plein de choses nécessaires. Mes",
+    142,
+    149,
+    4.49,
+    3
+   ],
+   [
+    "ranger",
+    "Donc je vais déjà ranger ça dans mon sac. J'ai deux ou trois petites choses",
+    103,
+    109,
+    4.11,
+    2
+   ],
+   [
+    "soirs",
+    "que je les enlève tous les soirs. Donc voilà, je les ai remplis tout à l'heure avec du produit.",
+    217,
+    225,
+    4.08,
+    2
+   ],
+   [
+    "élastique",
+    "un porte-bagage avec un gros élastique. Voilà, comme ça mon sac, il va être bien tenu. Tu vois,",
+    470,
+    482,
+    3.59,
+    1
+   ],
+   [
+    "écouteurs",
+    "écouteurs parce que dans l'avion, je vais écouter de la musique. Ça, c'est mon argent.",
+    148,
+    156,
+    3.52,
+    1
+   ],
+   [
+    "17h",
+    "seulement le début de l'après-midi. Voilà, milieu d'après-midi, on va dire. Mais à partir de 17h,",
+    492,
+    505,
+    3.47,
+    1
+   ],
+   [
+    "jupes",
+    "jupes. Et puis ça, c'est ma pile de t-shirts. Donc pas besoin de plus ce week-end, hein.",
+    96,
+    104,
+    3.45,
+    1
+   ],
+   [
+    "férié",
+    "lundi c'est férié, c'est le premier lundi du mois, juste avant la reprise de l'école. Donc,",
+    50,
+    57,
+    3.42,
+    1
+   ],
+   [
+    "abonnée",
+    "Donc l'aéroport est tout près et comme je suis abonnée au vélo de la ville,",
+    443,
+    451,
+    2.82,
+    1
+   ],
+   [
+    "têtue",
+    "tu vois, parce que je suis têtue, je ne changerai pas de sac, donc ça va fermer.",
+    314,
+    326,
+    2.77,
+    1
+   ],
+   [
+    "étuis",
+    "Alors, très important, il faut pas que j'oublie mes étuis pour mes lentilles de contact parce",
+    210,
+    218,
+    2.68,
+    1
    ]
   ],
   "tx": "Shutdown. Bon voilà, j'éteins. J'ai fini ma journée de travail. J'ai pris mon après-midi. En fait, en français, quand on prend son après-midi, quand on prend une journée, ça veut dire qu'on ne travaille pas ce jour-là. Donc, j'ai pris mon après-midi et j'ai fini parce qu'en fait, je pars en week-end. Donc si tu veux, on va regarder ensemble ce que je fais pour me préparer et puis tu vas pratiquer la compréhension orale. D'accord. En fait, c'est le long week-end de septembre. J'habite au Canada et aux États-Unis. Au Canada, lundi c'est férié, c'est le premier lundi du mois, juste avant la … après-midi. Donc voilà, je vais préparer un sac. Je n'ai pas besoin de valise, hein. Je pars que 4 jours, c'est pas nécessaire. Donc j'ai préparé quelques affaires. Tu vois, j'ai choisi plusieurs bas, pantalons, jupe. J'ai choisi des hauts. J'ai déjà mis mes sous-vêtements dans le sac, tu vois. J'ai pris un sac comme ça. Voilà. Donc ça, c'est une pile de pantalons et jupes. Et puis ça, c'est ma pile de t-shirts. Donc pas besoin de plus ce week-end, hein. Donc je vais déjà ranger ça dans mon sac. J'ai deux ou trois petites choses mais ça devrait rentrer. On va faire en sorte que ça rentre. … de choses, sinon il faut tout mettre en soute. Alors, comme je vais sûrement filmer un peu ce week-end, je prends le matériel, on sait jamais. Mon micro, tu vois, ça c'est le boîtier pour le charger. J'ai mon chargeur de téléphone. Ça, c'est le chargeur de mon ordinateur. Enfin voilà, tu vois, il y a plein de choses nécessaires. Mes écouteurs parce que dans l'avion, je vais écouter de la musique. Ça, c'est mon argent. J'amène de l'argent américain, des dollars, parce que j'ai des dollars ici mais c'est des dollars canadiens donc c'est pas du tout la même devise. Et puis évidemment, j'ai … affaires de toilette. Alors pour la trousse de toilette, ça va être pareil, hein, ça va être rapide. Une trousse de toilette, c'est quelque chose comme ça. Alors, la mienne, elle ne se ferme pas, mais peu importe, ça sert à ranger ses affaires de toilette, une trousse. Donc dans ma trousse de toilette, je mets les choses essentielles, hein. Brosse à dents, tu vois, j'ai une brosse à dents électrique. J'ai aussi une brosse à dents classique, hein. J'aime bien avoir les deux. Voilà, j'emmène les choses importantes. Alors, très important, il faut pas que j'oublie mes étuis pour mes lentilles … Et puis il y a autre chose d'important, c'est ma gouttière. Regarde, je te montre. C'est quelque chose qu'on porte la nuit. Je la mets tous les soirs, c'est important, j'en ai besoin. Voilà. Donc une fois qu'on a toutes les choses essentielles comme ça, tu vois, ça prend pas beaucoup de place. Bah voilà, mon sac est rempli. Je peux rien mettre d'autre dedans, mais ça me suffit largement. Donc voilà. Regarde, c'est parfait. Pas besoin de plus. Je vais fermer ici comme ça. Et puis voilà, je le mets dans le sac. Parfait. Alors, il y a juste un petit problème quand même, c'est que je … vois, le problème c'est que là, j'ai l'impression que le sac il est bien rempli. Alors, je vais voir si je peux faire quelque chose. Voilà, tu vois, je force un peu. Forcer, c'est quand on pousse pour que ça fonctionne comme on le souhaite, hein. J'ai envie que ça se ferme là parce que si le sac est ouvert, ils vont pas vouloir me laisser passer. Je vais essayer de pas détruire ce que j'ai dans mon petit sac là. Tu vois, c'est un peu serré. Bah écoute, j'ai envie de te dire, c'est typiquement moi, tu vois, parce que je suis têtue, je ne changerai pas de sac, donc ça va fermer. Ça marche pas. … Voilà, regarde-moi ça. Parfait. Alors, ce qui est bien, tu vois, c'est que je pars en milieu d'après-midi, donc je n'ai pas besoin d'emmener à manger. J'ai mangé tout à l'heure. Je suis allée voir ce qui restait dans le frigo pour choisir les choses à manger tout de suite. Tu vois, j'ai fait des champignons, j'ai fait un peu de viande. Voilà, j'ai mangé, j'ai fini le raisin qui restait. Donc je peux partir tranquille, tu vois, il y a rien dans le frigo qui va s'abîmer. Il y a un truc très important quand je pars, c'est les poubelles. Je ne laisse jamais les poubelles chez moi pendant … que j'ai rien oublié. On verra bien. Je vais prendre l'ascenseur et puis je vais déposer les poubelles en bas. Bon voilà, je pousse la porte, c'est plus rapide. Hop ! Bon, le local. Facile. Hop, une poubelle et la deuxième. Bon, je me dépêche mais je suis pas vraiment en retard. C'est juste que je vais prendre un vélo. Je vais à l'aéroport à vélo. Alors, je t'ai pas dit où je vais : je vais à Boston, aux États-Unis. J'y suis allée l'année dernière déjà, ça fait pile un an. Donc j'y retourne. Voilà. Donc l'aéroport est tout près et comme je suis abonnée au vélo de la ville, je vais prendre un … Voilà, donc on va y aller. Voilà, je vais prendre celui-là de vélo. Tu vois, ce qui est bien, c'est qu'ils ont une sorte de porte-bagage devant, un porte-bagage avec un gros élastique. Voilà, comme ça mon sac, il va être bien tenu. Tu vois, j'ai pas envie qu'il tombe, il y a mon ordinateur dedans. Voilà, donc c'est pratique. Voilà, ça y est, facile. Il n'y avait pas trop de trafic parce que c'est seulement le début de l'après-midi. Voilà, milieu d'après-midi, on va dire. Mais à partir de 17h, c'est l'enfer. Voilà. Donc c'est bien, je pars à la bonne heure et je suis arrivée à … Quelqu'un m'attend sur le parking. Donc, je vais prendre un peu la route parce que je ne reste pas à Boston aujourd'hui. Je vais revenir me promener à Boston, mais pas aujourd'hui. Voilà, bon, ça y est, on a pris la route. Le trafic est dense, mais ça va, je m'attendais à pire en fait. Donc c'est correct, tu vois, on arrive à rouler là. Donc la route, on prend la route, on est sur la route, on roule, on est sur l'autoroute. Donc voilà, ça va aller, je pense, ce n'est pas très long. Donc je vais bientôt arriver à destination. Et du coup, bah je pense que je vais m'arrêter là pour aujourd'hui.",
