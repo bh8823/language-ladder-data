@@ -2029,7 +2029,7 @@
  "SlgKtxS93CA": {
   "channel": "Comprehensible Norwegian",
   "lang": "no",
-  "checked": "2026-11-12T00:26:59+00:00",
+  "checked": "2026-11-22T05:23:27+00:00",
   "title": "Lær norsk med et bilde - Beginner Norwegian Comprehensible Input (Norsk tekst)",
   "duration": 191,
   "published": "20250409",
@@ -2038,6 +2038,7 @@
   "pace": 110.3,
   "rare": 0.0413,
   "var": 0.5167,
+  "cl": 0.0127,
   "speech_s": 171.3,
   "tokens": 315,
   "kw": [
@@ -2154,16 +2155,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "hodet",
+    "Har begge på seg lue på hodet?",
+    79,
+    85,
+    5.22,
+    3
+   ],
+   [
+    "ute",
+    "De gleder seg til å tilbringe dagen ute i naturen, for de er begge.... begge er veldig glad i friluftsliv.",
+    153,
+    164,
+    5.63,
+    2
+   ],
+   [
+    "gule",
+    "Bare dama har gule sokker. Mannen har ikke gule sokker, han har blå sokker.",
+    33,
+    41,
+    4.44,
+    2
+   ],
+   [
+    "farger",
+    "De har forskjellige farger på sokkene.",
+    26,
+    34,
+    4.41,
+    2
+   ],
+   [
+    "brune",
+    "Begge har brune sko på seg. Både dama og mannen.",
+    19,
+    25,
+    4.19,
+    1
+   ],
+   [
+    "tilbringe",
+    "De gleder seg til å tilbringe dagen ute i naturen, for de er begge.... begge er veldig glad i friluftsliv.",
+    153,
+    164,
+    4.19,
+    1
+   ],
+   [
+    "lomme",
+    "Begge ryggsekkene har lomme på. Begge har med seg sovepose. Både dama og mannen har med seg sovepose.",
+    43,
+    57,
+    3.67,
+    1
+   ],
+   [
+    "shorts",
+    "Begge har shorts på seg. Både dama og mannen.",
+    14,
+    20,
+    3.63,
+    1
+   ],
+   [
+    "friluftsliv",
+    "De gleder seg til å tilbringe dagen ute i naturen, for de er begge.... begge er veldig glad i friluftsliv.",
+    153,
+    164,
+    3.51,
+    1
+   ],
+   [
+    "caps",
+    "Dama har caps på hodet. Har en av dem eller begge med seg hund? Er det noen som har med seg hund på turen?",
+    92,
+    109,
+    3.42,
+    1
+   ]
+  ],
   "tx": "På bildet ser vi to personer. Ei dame og en mann. Begge har ryggsekk på ryggen. Både dama og mannen har ryggsekk på seg. Begge har shorts på seg. Både dama og mannen. Begge har brune sko på seg. Både dama og mannen. Begge har sokker på seg. De har forskjellige farger på sokkene. Bare dama har gule sokker. Mannen har ikke gule sokker, han har blå sokker. Så de har forskjellige farger. Begge ryggsekkene har lomme på. Begge har med seg sovepose. Både dama og mannen har med seg sovepose. Har begge med seg kart? Nei. Begge har ikke med seg kart. Bare dama har med seg kart. Hun har et kart i hendene. Bare mannen har med seg kompass. Så mannen har kompass og dama har et kart. Har begge på seg lue på hodet? Nei, bare mannen har på seg lue på hodet. Dama har caps på hodet. Har en av dem eller begge med seg hund? Er det noen som har med seg hund på turen? Nei, ingen har med seg hund på turen. Ingen av dem. Verken dama eller mannen har med seg hund på turen. Er det noen som har med seg ... en bamse på turen? Nei, det er ingen av dem som har med seg en bamse. Ingen av dem har med en bamse Verken dama eller mannen har med seg bamse. Så, de to personene går på tur. Dem skal inn i skogen. Dem = de ;-) Opp i fjellet. Begge gleder seg, både dama og mannen. De gleder seg til å tilbringe dagen ute i naturen, for de er begge.... begge er veldig glad i friluftsliv. Begg er glad i friliftsliv. Begge liker å være ute Ingen av dem liker å sitte inne på en så fin dag. Da må de ut og bruke dagen. Liker du å gå ut eller foretrekker du å sitte hjemme, slappe av?",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0127
+  "src": "cc"
  },
  "WmvDkCmR5Ng": {
   "channel": "Norsk med Aria",
   "lang": "no",
-  "checked": "2026-11-12T00:27:39+00:00",
+  "checked": "2026-11-22T05:32:32+00:00",
   "title": "Lær norsk med 8 korte videoer",
   "duration": 523,
   "published": "20260804",
@@ -2172,6 +2254,7 @@
   "pace": 99.6,
   "rare": 0.0568,
   "var": 0.6435,
+  "cl": 0.0556,
   "speech_s": 509.1,
   "tokens": 845,
   "kw": [
@@ -2280,11 +2363,148 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "mens",
+    "del penger, mens lite betyr at du nesten",
+    59,
+    66,
+    5.72,
+    4
+   ],
+   [
+    "visst",
+    "visst, så må du bare forstå ordet nok",
+    331,
+    339,
+    5.05,
+    4
+   ],
+   [
+    "pakke",
+    "En pakke kommer snart. Det kommer en pakke snart.",
+    492,
+    504,
+    4.59,
+    3
+   ],
+   [
+    "ordene",
+    "beholde eh de ordene på en måte. Så vi",
+    249,
+    259,
+    4.52,
+    3
+   ],
+   [
+    "uttalelse",
+    ">> Eh, en uttalelse betyr a statement, mens",
+    148,
+    158,
+    4.18,
+    1
+   ],
+   [
+    "nøytral",
+    "er at visst er nøytral, mens nok er det",
+    357,
+    366,
+    4.09,
+    1
+   ],
+   [
+    "forsto",
+    "ene lille delen jeg ikke forsto eller",
+    130,
+    137,
+    4.08,
+    1
+   ],
+   [
+    "påstanden",
+    "jeg påstanden min. Men det handler da",
+    386,
+    394,
+    3.97,
+    1
+   ],
+   [
+    "vokal",
+    "vokal selv om vi har to konsonanter,",
+    317,
+    326,
+    3.47,
+    1
+   ],
+   [
+    "bitte",
+    "stykke, bitte lite stykke. Eh, i går så",
+    88,
+    96,
+    3.28,
+    1
+   ],
+   [
+    "demper",
+    "når jeg sier han er nok flink, så demper",
+    382,
+    390,
+    3.28,
+    1
+   ],
+   [
+    "elgen",
+    "Uttale. Fint. Men prøv å gjøre elgen din",
+    176,
+    187,
+    3.28,
+    1
+   ],
+   [
+    "statement",
+    ">> Eh, en uttalelse betyr a statement, mens",
+    148,
+    158,
+    2.93,
+    1
+   ],
+   [
+    "konsonanter",
+    "vokal selv om vi har to konsonanter,",
+    317,
+    326,
+    2.91,
+    1
+   ],
+   [
+    "skrivet",
+    "skrevet har skrivet. De går ut. Dem går ut. Har han",
+    429,
+    441,
+    2.69,
+    1
+   ],
+   [
+    "stavelse",
+    "trykket på første stavelse. Så ikke",
+    159,
+    168,
+    2.69,
+    1
+   ],
+   [
+    "gavmild",
+    "er så gavmild. Det jeg gjør her er at jeg bestiller den",
+    124,
+    134,
+    2.53,
+    1
+   ]
+  ],
   "tx": "Jeg tar buss, ikke bil. Jeg tar buss istedet for bil. Jeg er litt enig. Jeg er til en viss grad enig. Du kan gjøre alt som du vil. Du kan gjøre hva som helst. Jeg spiser nesten alltid egg. Jeg spiser som regel egg. Jeg trener noen ganger. Jeg trener av og til. Ey, skal vi bestille pizza? Nei, jeg har litt penger. Ja, så da bestiller vi pizza da. Nei, jeg har litt penger. Å ja, du har lite penger. Ja, litt penger. Nei, lite penger. Litt betyr at du faktisk har en del penger, mens lite betyr at du nesten ikke har penger. >> Hm. Ja. Så litt er på en måte positivt, mens lite er negativt. >> Ok. Ok, men skal vi bestille pizza? >> Ja, jeg har litt lyst, >> men jeg har lite penger. >> Ja, det er sant. >> Men du kan bestille og så kan jeg få et litt stykke gratis. Lite stykke? Lite stykke, bitte lite stykke. Eh, i går så kjøpte jeg en pann. Kan du gjenta? Nordmenn sier egentlig aldri, kan du gjenta? De sier heller du kjøpte en en panelovn. >> Og her er noen eksempler til. >> Du, gidder du å hente etgivass til meg? Hente vinglass. Å, liker du boss Guy om jeg liker Tom Kagai? Det er bra at du er så gak at jeg at du er så gavmild. Det jeg gjør her er at jeg bestiller den ene lille delen jeg ikke forsto eller hørte. Kan du hjelpe meg med uttalelsen min? >> Hm. >> Uttallelsen min. >> Å sånn ja. Du mener uttale. >> Hm. >> Eh, en uttalelse betyr a statement, mens uttale det betyr pronunciation. Ok. Kan du hjelpe meg med utdalen? Prøv å legg trykket på første stavelse. Så ikke uttale, men uttale. Utalle. Prøv å flytte aen litt lengre bak i munnen. Så ikke uttæle, men uttale. Uttale. Fint. Men prøv å gjøre elgen din mørk. Så ikke uttale, men uttale uttale bedre. Men siden det er to terer så må jeg bruke kort u, ikke sant? Å ja. Nei, ikke uttale, men uttale. Lang u. U uttale. Bra. Nå har du gått fra ut til uttale. Uttale. Uttale. For noen dager siden så postet jeg et innlegg der jeg viste uttalen av ordet uttale. Og så var det mange som kommenterte og spurte hvorfor det skal være lang u når det er to teer. Og det er egentlig et godt spørsmål. Det du må tenke er at ordet uttale består av to ord, nemlig ut og tale. Og derfor vil vi prøve å beholde eh de ordene på en måte. Så vi ønsker å beholde ut. Og derfor sier vi ikke uttale, men utale. Og dette skjer i andre ord også. For eksempel uttrykk, ikke uttrykk, men uttrykk eller uttak aving. Det skrives med to veer, men vi sier ikke avvending. Aving, neddempet. Vi sier ikke neddempet fordi vi ønsker å bevare ordet ned. Neddempet. faggruppe, ikke faggruppe, men faggruppe og deløsning. Så ikke døsning, men deløsning. Fterapeut. Ikke fotterapeut, men fotterapeut. Så jeg håper at det blir litt tydeligere nå at eh det er ikke alltid vi har kort vokal selv om vi har to konsonanter, men nesten alltid for disse eksemplene er ikke så vanlige. Men da vet du det. >> Hvis du skal lære deg å bruke ordet visst, så må du bare forstå ordet nok også. Han er visst flink. Han er nok flink. Begge disse setningene sier at han er flink. Kanskje de sier en ting, men signaliserer samtidig at man ikke er helt sikker. Så betyr nok og visst det samme. Ikke helt. Forskjellen er at visst er nøytral, mens nok er det vi kaller for en egemper. Det betyr at hvis signaliserer at denne usikkerheten er objektiv. Han er flink. Tror vi eller tror man det at han kanskje er flink er noe alle vet. Men når jeg sier han er nok flink, så demper jeg påstanden min. Men det handler da litt mer om at jeg er usikker. Nok handler om at usikkerheten kommer fra meg. Det er ikke sikkert at alle er enige. Kan du disse ordene her? Prøv å lage en setning. med ett av disse ordene, skriv det i kommentarfeltet. Hvordan går det? Hvordan går det å være gul gul denne helgen, denne helgen. Musikk. Musikk alle tallene. Alle tallene har skrevet har skrivet. De går ut. Dem går ut. Har han møtt henne? Har han møtt da skolen? Skolen en uke denne uka. En uke denne uka. Hva tror du da? Hva tror du da? Har du dratt? Har du dratt? En mann sitter på benken. Det sitter en mann på benken. På benken sitter det en mann. En gutt går på veien. Det går en gutt på veien. På veien går det en gutt. Mange mennesker bor i byen. Det bor mange mennesker i byen. I byen bor det mange mennesker. En pakke kommer snart. Det kommer en pakke snart. Snart kommer det en pakke. En avis ligger på bordet. Det ligger en avis på bordet. Er litt usikker ass. Kan du denne?",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0556
+  "src": "auto"
  },
  "3TKvcr6wbS8": {
   "channel": "Level Up Norge",
@@ -18160,7 +18380,7 @@
  "wLU_kjgVFgg": {
   "channel": "Simple Norwegian",
   "lang": "no",
-  "checked": "2026-11-13T03:13:38+00:00",
+  "checked": "2026-11-22T05:30:11+00:00",
   "title": "Simple Norwegian #3 - Fundamental Words & Phrases",
   "duration": 438,
   "published": "20170313",
@@ -18169,6 +18389,7 @@
   "pace": 76.9,
   "rare": 0.227,
   "var": 0.6269,
+  "cl": 0.0108,
   "speech_s": 433.1,
   "tokens": 555,
   "kw": [
@@ -18333,11 +18554,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "takk",
+    "Takk. This means thank you.",
+    197,
+    206,
+    5.71,
+    4
+   ],
+   [
+    "forstår",
+    "This means I don't know. Jeg forstår",
+    235,
+    241,
+    5.22,
+    4
+   ],
+   [
+    "from",
+    "This means maybe. This word comes from",
+    85,
+    92,
+    4.45,
+    3
+   ],
+   [
+    "what",
+    "but it's important to understand what it",
+    60,
+    66,
+    4.43,
+    3
+   ],
+   [
+    "it's",
+    "but it's important to understand what it",
+    60,
+    66,
+    3.95,
+    3
+   ],
+   [
+    "word",
+    "jo. This is a special Norwegian word,",
+    57,
+    63,
+    3.72,
+    3
+   ],
+   [
+    "where",
+    "Where do you come from? Jeg er fra",
+    339,
+    345,
+    3.52,
+    2
+   ],
+   [
+    "could",
+    "Could you speak slower? Kan du prate mer langsomt?",
+    260,
+    271,
+    3.47,
+    2
+   ],
+   [
+    "comes",
+    "This means maybe. This word comes from",
+    85,
+    92,
+    2.94,
+    1
+   ],
+   [
+    "important",
+    "but it's important to understand what it",
+    60,
+    66,
+    2.93,
+    1
+   ]
+  ],
   "tx": "Hey everyone, in this video we're gna look at some basic Norwegian phrases and words which are fundamental for speaking the language. We're also gna take a look at how you can express liking something or disliking something. Ouch. Let's start out this lesson by learning the most fundamental words of the Norwegian language. Ja. Ja. This means yes. Nei. This means no. Jo, jo. This is a special Norwegian word, but it's important to understand what it means. Basically, it means yes, but as a response to counter a negative statement. An example of this would be, du er ikke Jo, det er jeg. So, you can see the yes is a counter to what the first person said. Kanskje, kanskje. This means maybe. This word comes from putting together kan and share, which mean may happen. Men men this is but not the ass but but but the but but but ikke ikke this means not med med the d is silent in this word and this means with bare. means only kun also means only nå this means now ingen. Ingen. This means none or nobody depending on how it's used. Alle. This means all or everyone depending on how it's used. Bra. Bra. This means good. Flott. This means great. Fint. Fint. This means fine. Dårlig. This means bad as in low quality. Unnskyld. This means excuse me or sorry. Beklager. Beklager. This means sorry. Sorry. This obviously means sorry. Takk. This means thank you. Tusen takk. This means thanks a lot and literally thousand thanks. Takk skal du ha. Takk skal du ha. This means thank you and literally means thanks you shall have. Alr, let's move on to some very handy phrases that you can use when you're speaking Norwegian. Jeg vet ikke. Jeg vet ikke. This means I don't know. Jeg forstår ikke. Jeg forstår ikke. I don't understand. Jeg forstår ikke hva du sier. Jeg forstår ikke hva du sier. This means I don't understand what you're saying. Kan du snakke saktere? Could you speak slower? Kan du prate mer langsomt? Could you speak more slowly? Du prater fort. Du prater fort. You speak too quickly. Du snakker alt for raskt. Du snakker alt for raskt. This means you speak too quickly. Jeg kan snakke norsk. Jeg kan snakke norsk. I can speak Norwegian. Notice that in Norwegian we don't use a big N in front of norsk. Jeg kan norsk. Jeg kan norsk. I speak Norwegian. This literally means I can Norwegian, but it means I speak Norwegian. Snakker du engelsk? Snakker du engelsk? Do you speak English? Hvilke språk snakker du? Which languages do you speak? Hvor kommer du fra? Hvor kommer du fra? Where do you come from? Jeg er fra England. Jeg er fra England. I'm from England. Hvor bor du? Hvor bor du? Where do you live? Jeg bor i USA. Jeg liker bananer. I like bananas. Jeg elsker kake. I love cake. Jeg misliker epler. Jeg misliker epler. I dislike apples. Jeg liker ikke kaffe. I don't like coffee. Jeg hater tomater. I hate tomatoes. Okay, that was everything for this lesson. I hope you enjoyed it. I hope you learned something new. In the next video, I'll be talking about numbers and counting. So make sure to check that Ja.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0108
+  "src": "auto"
  },
  "bXFGnwJSNEU": {
   "channel": "Simple Norwegian",

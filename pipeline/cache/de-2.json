@@ -2,49 +2,266 @@
  "axcMs71-ljI": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-10-27T05:46:56+00:00",
+  "checked": "2026-11-22T05:23:00+00:00",
   "title": "Learn German While Buying a Real Train Ticket",
   "duration": 167,
   "published": "20260924",
+  "spoken": "de",
+  "spoken_v": 2,
   "pace": 165.1,
   "rare": 0.0811,
+  "var": 0.7176,
+  "cl": null,
   "speech_s": 165.8,
   "tokens": 456,
   "kw": [
    [
-    "want",
-    "want to go ja the destination das Ziel",
-    64
+    "you",
+    "And here you have all the different",
+    43,
+    48,
+    4.84,
+    20
    ],
    [
-    "basically",
-    "driving or riding basically so hier",
-    14
+    "and",
+    "And here you have all the different",
+    43,
+    48,
+    5.22,
+    7
    ],
    [
-    "means",
-    "Start und Zieleingabe das means you can",
-    59
+    "weiter",
+    "erwachsener. Weiter bedeutet auch so weiter",
+    122,
+    127,
+    5.75,
+    5
    ],
    [
-    "where",
-    "put in where you start and where you",
-    62
-   ],
-   [
-    "destination",
-    "want to go ja the destination das Ziel",
-    64
+    "klasse",
+    "Klasse bedeutet die zweite Klasse. Erste",
+    134,
+    140,
+    5.16,
+    5
    ],
    [
     "can",
     "types you can get also Bahn das ist der",
-    45
+    45,
+    51,
+    4.22,
+    8
+   ],
+   [
+    "hauptbahnhof",
+    "want to go to Hauptbahnhof ja main train",
+    100,
+    107,
+    4.2,
+    4
+   ],
+   [
+    "one",
+    "Company biggest one oder only one",
+    36,
+    41,
+    4.65,
+    3
+   ],
+   [
+    "ticket",
+    "Ticket in Germany train ticket ja eine",
+    5,
+    11,
+    4.27,
+    3
+   ],
+   [
+    "want",
+    "want to go ja the destination das Ziel",
+    64,
+    71,
+    3.72,
+    6
+   ],
+   [
+    "where",
+    "put in where you start and where you",
+    62,
+    68,
+    3.65,
+    4
+   ],
+   [
+    "now",
+    "wohin soll es gehen and now you can say",
+    96,
+    101,
+    4.04,
+    3
+   ],
+   [
+    "here",
+    "And here you have all the different",
+    43,
+    48,
+    4.0,
+    3
+   ],
+   [
+    "means",
+    "Start und Zieleingabe das means you can",
+    59,
+    65,
+    3.13,
+    3
+   ],
+   [
+    "then",
+    "to go And then you can say Einzelfahrt",
+    72,
+    80,
+    3.51,
+    2
+   ],
+   [
+    "would",
+    "learn German then you would go in here",
+    94,
+    99,
+    3.5,
+    2
+   ],
+   [
+    "train",
+    "Ticket in Germany train ticket ja eine",
+    5,
+    11,
+    3.44,
+    2
+   ],
+   [
+    "destination",
+    "want to go ja the destination das Ziel",
+    64,
+    71,
+    2.97,
+    2
+   ],
+   [
+    "basically",
+    "driving or riding basically so hier",
+    14,
+    23,
+    2.37,
+    2
    ]
   ],
+  "kx": [
+   [
+    "bedeutet",
+    "Ticket DB was ist das was bedeutet das",
+    28,
+    37,
+    5.09,
+    5
+   ],
+   [
+    "bahn",
+    "deutsche Bahn ja das ist von der German",
+    32,
+    39,
+    5.04,
+    4
+   ],
+   [
+    "bezahlen",
+    "hier können Sie dann mit Karte bezahlen.",
+    146,
+    152,
+    4.76,
+    2
+   ],
+   [
+    "verkehr",
+    "Verkehr Verkehr ist der Traffic Verkehrsverbund Berlin Brandenburg so",
+    22,
+    33,
+    4.75,
+    2
+   ],
+   [
+    "erwachsener",
+    "now you can see ein Erwachsener das ist",
+    113,
+    119,
+    3.76,
+    3
+   ],
+   [
+    "say",
+    "to go And then you can say Einzelfahrt",
+    72,
+    80,
+    3.68,
+    3
+   ],
+   [
+    "put",
+    "put in where you start and where you",
+    62,
+    68,
+    3.39,
+    2
+   ],
+   [
+    "important",
+    "important words erstmal hast du hier",
+    57,
+    63,
+    3.12,
+    2
+   ],
+   [
+    "example",
+    "where you want to go for example if you",
+    98,
+    105,
+    2.89,
+    1
+   ],
+   [
+    "driving",
+    "driving or riding basically so hier",
+    14,
+    23,
+    2.88,
+    1
+   ],
+   [
+    "riding",
+    "driving or riding basically so hier",
+    14,
+    23,
+    2.75,
+    1
+   ],
+   [
+    "types",
+    "types you can get also Bahn das ist der",
+    45,
+    51,
+    2.74,
+    1
+   ]
+  ],
+  "tx": "Wie kauft man eine Fahrkarte in Deutschland? Ticket in Germany train ticket ja eine Zugfahrkarte fahren ist zu treiben die Karte ist so ist driving or riding basically so hier haben wir Fahr Karten und VBB ist Verkehr Verkehr ist der Traffic Verkehrsverbund Berlin Brandenburg so Ticket DB was ist das was bedeutet das deutsche Bahn ja das ist von der German Company biggest one oder only one basically And here you have all the different types you can get also Bahn das ist der Zug S-Bahn U-Bahn Tram das ist die Straßenbahn Bus und das ist auch noch irgendwas F so und hier ein paar wichtige Wörter some important words erstmal hast du hier Start und Zieleingabe das means you can put in where you start and where you want to go ja the destination das Ziel kann entweder goal oder destination wohin soll es gehen so where do you want to go And then you can say Einzelfahrt Einzel means just one way 24 Stunden Karte das means you can go for 24 hours Einzelfahrt again but here you have more zones ja hier hast du mehr Zonen A B und C und hier kannst du auch das ist wichtig für dich Sprache Ändern so to change the language so you can also put everything in English but if you want to learn German then you would go in here wohin soll es gehen and now you can say where you want to go for example if you want to go to Hauptbahnhof ja main train station you would say this Hauptbahnhof hier you see Hauptbahnhof and now you can we are just at Südkreuz and you want to go to Hauptbahnhof and now you can see ein Erwachsener das ist auch so very important bedeutet erwachsener. Da ist auch so Kind, das bedeutet Kind, aber hier haben wir erwachsener. Weiter bedeutet auch so weiter fahren. Und jetzt können Sie kaufen, wo Sie weiter fahren wollen. Das ist sehr teuer, 18 Euro. Weiter, das ist auch so wichtig, das ist auch so wichtig. Zweite Klasse bedeutet die zweite Klasse. Erste Klasse ist die erste Klasse. Ja, da ist mehr Ruhe, manchmal sind da keine Kinder und so weiter. Und zweite Klasse ist die billigere und es ist für alle. Und hier können Sie dann mit Karte bezahlen. Hier können Sie mit Karte bezahlen. In meiner Akademie haben wir auch so reale Dialoge um Deutsch zu lernen, wo wir Ihnen alle diese Vokabeln in Form von Dialogen beibringen. Ja, wenn Sie eine kostenlose Lektion wollen, schauen Sie sich den Link in der Beschreibung an. Ich werde ihn für Sie da lassen, so dass Sie ihn sich anschauen können. Es ist komplett kostenlos. Danke schön und tschüss.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "kw_tried": 1
+  "src": "auto"
  },
  "Dd7vokxPYoE": {
   "channel": "Deutsch für Euch",
@@ -60,7 +277,7 @@
  "-R5nHjersDE": {
   "channel": "Get Germanized",
   "lang": "de",
-  "checked": "2026-11-09T16:11:10+00:00",
+  "checked": "2026-11-22T05:26:39+00:00",
   "title": "The Biggest Lie About Germany",
   "duration": 550,
   "published": "20261017",
@@ -69,6 +286,7 @@
   "pace": 150.3,
   "rare": 0.0635,
   "var": 0.8643,
+  "cl": null,
   "speech_s": 547.2,
   "tokens": 1371,
   "kw": [
@@ -207,6 +425,112 @@
     85,
     2.35,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "weniger",
+    "sich weniger Schritte, geringere Kosten und ein schnelleres Ergebnis vor. Das",
+    108,
+    114,
+    5.42,
+    5
+   ],
+   [
+    "fehler",
+    "ausgelegt, Fehler nachvollziehbar zu machen. Kapitel 6: Wo das Modell immer",
+    334,
+    341,
+    5.06,
+    4
+   ],
+   [
+    "echte",
+    "verteilt die Macht. Das sind echte",
+    306,
+    310,
+    4.7,
+    3
+   ],
+   [
+    "infrastruktur",
+    "Infrastruktur und Bauarbeiten. Wenn sich Störungen ausbreiten,",
+    190,
+    196,
+    4.49,
+    3
+   ],
+   [
+    "mythos",
+    "begann der Mythos. Deutsche Produkte gewannen Vertrauen, weil die Teile",
+    86,
+    92,
+    4.03,
+    3
+   ],
+   [
+    "effizient",
+    "Deutschland ist effizient, genau bis zu",
+    0,
+    3,
+    3.77,
+    3
+   ],
+   [
+    "zuständigkeiten",
+    "Zuständigkeiten. In stabilen Zeiten schafft das Ordnung. Bei Störungen",
+    205,
+    211,
+    3.31,
+    2
+   ],
+   [
+    "rechtssicherheit",
+    "Hindernis und Rechtssicherheit kein Mangel, aber Menschen zu schützen ist",
+    269,
+    275,
+    3.25,
+    2
+   ],
+   [
+    "schnelleres",
+    "und ein schnelleres Ergebnis vor. Das",
+    110,
+    114,
+    2.98,
+    1
+   ],
+   [
+    "annehmlichkeiten",
+    "gegen Annehmlichkeiten konspirieren. Die meisten Menschen im System treffen",
+    290,
+    296,
+    2.97,
+    1
+   ],
+   [
+    "analoges",
+    "4. Digitales Deutschland, analoges Denken. Dann gibt es noch das digitale",
+    221,
+    229,
+    2.95,
+    1
+   ],
+   [
+    "fahrpläne",
+    "Fahrpläne, Vorschriften und Finanzierung haben klar definierte",
+    201,
+    207,
+    2.89,
+    1
+   ],
+   [
+    "mailen",
+    "mailen, das die E-Mail ausdruckt und in",
+    250,
+    254,
+    2.86,
+    1
    ]
   ],
   "tx": "Deutschland ist effizient, genau bis zu dem Punkt, an dem man wirklich braucht, dass Deutschland etwas schnell erledigt . Dies ist das Land der Autobahn und der Präzisionsarbeit. Es ist aber auch das Land, in dem man mit 200 km/h zum Amt fahren kann, nur um festzustellen, dass das benötigte Dokument nur per Post verschickt werden kann. Wir bauen Maschinen, die auf den Millimeterbruchteil genau sind, aber eine Ummeldung erfordert immer noch einen Stift im richtigen Zimmer im zweiten Stock. Und ich bin Deutscher. Ich kann euch sagen, worin wir extrem effizient sind: zu erklären, warum die … Geschichte beginnt mit drei Wörtern: „Made in Germany“. Großbritannien führte das Label 1887 ein, um die Herkunft deutscher Importe zu kennzeichnen. Es war kein Kompliment, doch es passierte etwas Unbequemes. Die Warnung wurde zur Empfehlung. Mit der Zeit stand „Made in Germany“ für Qualität und seriöse Ingenieurskunst. Großbritannien hatte versehentlich Werbung für seinen industriellen Konkurrenten gemacht. Und genau hier begann der Mythos. Deutsche Produkte gewannen Vertrauen, weil die Teile passten und das Ergebnis tausendfach wiederholt werden konnte. Die Welt sah verlässliche … behandelt? Kann die Entscheidung einer rechtlichen Prüfung standhalten? Diese Logik ist hervorragend, wenn man eine Brücke baut. Sie wird etwas weniger charmant, wenn man versucht, seine Mitgliedschaft im Fitnessstudio zu kündigen. Deutschland wendet Brückenbau-Logik auf fast alles an. Ein Formular verlangt Informationen, die eine andere Behörde bereits hat. Ein Termin existiert nur, damit man ein Dokument persönlich abgeben kann. Der digitale Prozess sieht aus wie die Papierversion , nur dass das PDF jetzt blau ist. Das System sucht nicht nach dem schnellsten Weg. Es sucht nach dem Weg, … ist, liefert nun Verspätungsmeldungen mit außerordentlicher Präzision. Das Problem ist nicht ein Mangel an Planung . Das Netz ist dicht, stark belastet und steht unter dem Druck veralteter Infrastruktur und Bauarbeiten. Wenn sich Störungen ausbreiten, verschwinden Anschlüsse und der Fahrplan bricht zusammen. Und die Reaktion darauf offenbart das tiefere Problem. Infrastruktur, Züge, Fahrpläne, Vorschriften und Finanzierung haben klar definierte Zuständigkeiten. In stabilen Zeiten schafft das Ordnung. Bei Störungen verlangsamt jede Abhängigkeit die Wiederherstellung. Die deutsche Eisenbahn … Identifizierung und eine durch fragmentierte Zuständigkeiten behinderte Einführung. Deutsche Digitalisierung kann sich so anfühlen: Formular herunterladen, Formular ausdrucken, Formular unterschreiben, Formular scannen, Formular an das Amt mailen, das die E-Mail ausdruckt und in einen physischen Ordner abheftet. Deutschland hat die Warteschlange nicht abgeschafft. Wir haben Ihnen lediglich einen Online-Termin gegeben, um sich einzureihen. Es gibt Gründe für Zurückhaltung. In derselben Umfrage waren Privatsphäre und Online-Sicherheit für 93%der Deutschen ein Top-Thema. Das ist … rationale Entscheidungen. Die deutsche Verwaltung ist vom Rechtsstaat geprägt . Öffentliche Gewalt muss dem Gesetz folgen, nicht persönlichem Belieben. Regeln schützen die Bürger. Dokumentation macht Entscheidungen überprüfbar und der Föderalismus verteilt die Macht. Das sind echte Errungenschaften, aber sie schaffen einen mächtigen Anreiz. Wenn man eine Regel ignoriert und alles funktioniert, merkt es niemand. Wenn man sie ignoriert und etwas schiefgeht, verbringt man womöglich Jahre damit, zu erklären, warum man das Verfahren nicht befolgt hat. Daher ist die sicherste Wahl: … sind und Standards klar definiert sind. Deutschland ist in seinem natürlichen Element. Menschen sorgfältig ausbilden , Toleranzen festlegen, Komponenten testen, Ergebnisse erfassen und über Jahre hinweg verbessern. Diese Disziplin half deutschen Maschinenbauern, Chemieunternehmen, Werkzeugherstellern und Spezialanbietern, Vertrauen zu gewinnen . Deshalb bedeuten Qualifikationen etwas, zählen Sicherheitsregeln und hängt Schutz nicht allein von einem netten Chef ab. Ein guter Prozess kann Qualität von einer heroischen Einzelleistung in ein gewöhnliches Ergebnis verwandeln. Das ist wertvoll. … kann nicht Jahrzehnte warten. Bürger vergleichen jeden öffentlichen Dienst mit dem Telefon in ihrer Tasche. Ein System, das vor dem Handeln Sicherheit will, wartet nun auf eine Sicherheit, die nie eintritt. Eine Studie des Ifo-Instituts schätzt, dass übermäßige Bürokratie Deutschland jährlich bis zu 146 Milliarden Euro an Wertschöpfung kostet. Es ist eine modellierte Schätzung, keine Rechnung, aber die Warnung ist schwer zu ignorieren. Deutschlands eigenes Ministerium für Digitales sagt mittlerweile, das Land habe sich in Knoten verheddert. Das erklärte Ziel ist, dass Unternehmer … Fehler macht. Sie verlieren Vertrauen, wenn jeder die Regeln befolgt und trotzdem nichts passiert. Kapitel acht. Die echte deutsche Effizienz. Ist deutsche Effizienz also eine Lüge? Nicht vollständig. Die größere Lüge ist, dass Effizienz überall das Gleiche bedeutet. Deutschland hat eine Version aus dem 20. Jahrhundert bewahrt. Präzise, stabil, dokumentiert und zuverlässig. Das 21. Jahrhundert fordert zusätzlich Anpassungsfähigkeit, vernetzte Systeme und den Mut zur Veränderung, bevor die Unsicherheit verschwindet. Echte Effizienz muss mehr zählen, als ob das richtige Formular auf dem … jemals wieder improvisieren sollte. Wir brauchen nicht weniger deutsche Ingenieurskunst. Wir brauchen deutsche Ingenieurskunst, die auf das deutsche System selbst angewendet wird. Also, sag mir, wann ist der Mythos der deutschen Effizienz für dich gestorben ? War es die Bahn, ein Amt oder der Moment, als jemand von dir verlangte, ein Dokument zu faxen? Und wo hat Deutschland dich überrascht, indem es genau wie versprochen funktionierte? Lass es mich in den Kommentaren wissen. Und abgesehen davon, vielen Dank fürs Zuschauen. Vergiss nicht, ein germanisiertes Tschüss und auf Wiedersehen.",
@@ -880,7 +1204,7 @@
  "wvBg5LAKmWM": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-09T19:33:55+00:00",
+  "checked": "2026-11-22T05:36:34+00:00",
   "title": "Wort vergessen? Informelle Umschréibungen | Deutsch Wortschatz B2 C1 C2",
   "duration": 923,
   "published": "20261024",
@@ -889,6 +1213,7 @@
   "pace": 142.3,
   "rare": 0.0352,
   "var": 0.7579,
+  "cl": null,
   "speech_s": 923.1,
   "tokens": 2190,
   "kw": [
@@ -1043,6 +1368,96 @@
     304,
     2.05,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "gerade",
+    "muss ich ein Wort finden, das mir gerade",
+    10,
+    16,
+    5.77,
+    7
+   ],
+   [
+    "genau",
+    "Chance hat zu verstehen, was genau wir",
+    70,
+    77,
+    5.65,
+    7
+   ],
+   [
+    "brauche",
+    "Und ich sage: \"Ja, ja, ja, ich brauche",
+    188,
+    194,
+    4.76,
+    3
+   ],
+   [
+    "erinnern",
+    "das ist der Klassiker, nicht erinnern",
+    123,
+    128,
+    4.75,
+    3
+   ],
+   [
+    "orange",
+    "hat eine rundere Form und ist so orange.",
+    263,
+    270,
+    4.15,
+    3
+   ],
+   [
+    "spanisch",
+    "Spiel auf Spanisch gespielt haben, aber",
+    708,
+    713,
+    4.19,
+    2
+   ],
+   [
+    "schauspielern",
+    "Schauspielern bietet es sich an zu",
+    147,
+    153,
+    3.59,
+    1
+   ],
+   [
+    "fussboden",
+    "",
+    0,
+    0,
+    3.58,
+    1
+   ],
+   [
+    "komfortablen",
+    "komfortablen Situation, in einer entspannten Situation,",
+    6,
+    14,
+    2.95,
+    1
+   ],
+   [
+    "abfliessen",
+    "",
+    0,
+    0,
+    2.94,
+    1
+   ],
+   [
+    "dunkelrot",
+    "Farbe, das war so ein dunkelrot,",
+    338,
+    344,
+    2.93,
+    1
    ]
   ],
   "tx": "Wir sprechen jetzt erstmal über das informelle Umschreiben von Dingen. Das heißt, ich spreche in irgendeiner komfortablen Situation, in einer entspannten Situation, muss ich ein Wort finden, das mir gerade in diesem Moment nicht einfällt. Passiert ist eine völlig natürliche Situation und ich glaube, wir wissen alle, wie sich das anfühlt, wenn man plötzlich da steht und sagt: Dieser Schauspieler, hm ja, es gibt einen Witz, da ist ein Videoshop, wie man sie früher hatte, wo man Kassetten ausleihen konnte und da steht im Schaufenster so ein Schild und da steht: \"Verehrte Kunden, wir haben nicht … der Name nicht ein.\" So, das ist natürlich das erste, was wir tun. Aber dann, um unserem Gegenüber zu helfen, um oder um uns selbst auf die Sprünge zu helfen, fangen wir an, nach Anhaltspunkten zu suchen. Wie kann ich denn, äh, wie kann ich es greifen? Also, wenn ich mich an einen Schauspieler-Namen, z.B., das ist der Klassiker, nicht erinnern kann, dann sage ich: \"Ah, das ist der Schauspieler, ja, du weißt schon, das ist der und dann versuche ich vielleicht das Aussehen zu beschreiben, wenn es möglich ist, wenn es nicht einfach so ein klassisch gut gut aussehender Schauspieler ist, ähm, … mal? Dieses eine Ding, das man braucht, ähm, um, du weißt, wenn man Nudeln oder Kartoffeln kocht und dann und dann muss das Wasser weg aus den Kartoffeln, was macht man? Man tut, äh, die Kartoffeln aus dem Topf in so ein Teil mit Löchern, wie wie nennt man das noch mal? Ähm, genau, das ist ein Sieb oder sowas und und da tut man dann die Kartoffeln rein oder die Nudeln und das Wasser kann abfließen. So, so ein Ding möchte ich, äh, dass sie mir mitbringt, z.B. Das heißt, hier gehe ich nicht nicht nur über das Aussehen von diesem Gegenstand, sondern über die Funktion, also, was macht man damit? … Oder es es ist genauso wie mhm, aber es ist größer, kleiner, grüner, äh klebriger, süßer und so weiter. Das passiert uns ständig, wenn wir irgendwelche Dinge beschreiben, mit denen wir nicht so häufig zu tun haben, also z.B. ich habe neulich so eine Frucht probiert, also eine exotische und mir fällt der Name nicht ein, aber das Fruchtfleisch war weiß oder sehr hell und da waren so schwarze Punkte drin. Und außen war die Frucht, das war irgendeine sehr, sehr schöne Farbe, das war so ein dunkelrot, fast schon violett. Und ich glaube, ich habe jetzt gerade die Drachenfrucht beschrieben, aber … ich brauche entweder einen Timeframe, also einen einen zeitlichen Kontext, denn ich habe im Laufe meines Lebens mit Sicherheit mit vielen blonden Frauen zu tun gehabt, aber in dem Fall muss ich überlegen, welchen gemeinsamen Kontext könnten wir kennen? Also, die Person, mit der ich spreche, könnte sie möglicherweise z.B. die Lehrer an meinem Gymnasium kennen, dann kann ich sagen: \"Ja, kannst du dich erinnern, ähm ich hatte diese Mathematiklehrerin in der 7. Klasse und äh die hatte eine Tochter und die Tochter, weiß ich nicht, hatte einen Schimpansen und der Schimpanse hieß so und so.\" … es ist die Schauspielerin, die in dem und dem Film spielt, mitspielt und wie meine Tante Aurelia aussieht und so weiter. Das sind die Möglichkeiten. Jetzt möchte ich euch bitten an in dieser Woche eine sehr praktische Übung zu machen und ich möchte euch tatsächlich bitten, diese Übung mündlich und als Video zu machen oder Audio, wenn ihr sagt, Video geht gar nicht. Äh versucht mal drei Dinge oder drei Personen zu umschreiben. Und ihr müsst jetzt nichts äh hochwissenschaftliches nehmen, sondern ihr nehmt einfach einen Gegenstand, macht die Augen zu, dann macht sie auf und nehmt die ersten … gibt, dann sagt mein Gegenüber irgendwann: \"Ah, du meinst Lippenstift.\" Und wenn ich das Wort erkenne, dann sage ich: \"Ja, genau, Lippenstift.\" Wenn ich das Wort nicht erkenne, kann das sein, dass ich noch mal nachfragen muss: \"Wie wie heißt das noch mal? Könntest du es vielleicht für mich noch mal aufschreiben?\" Ähm genau. So, das heißt, ihr wählt bitte drei Sachen. Ihr könnt Musikbands nehmen, ihr könnt Schauspieler nehmen, ihr könnt Alltagsgegenstände nehmen, irgendwelche, also egal was, Hauptsache, dass wir eine Chance haben, es zu kennen, weil sonst macht die Umschreibung keinen … umschreibt die andere Person etwas, also, es hat ein bisschen spielerischen Charakter. Es gibt auch das Spiel in Deutschland. Ich glaube, was das Spiel gibt es nicht nur in Deutschland, aber in Deutschland heißt es \"Ich sehe was, was du nicht siehst\". Ich habe letztens eine Familie gesehen in der Straßenbahn, die das Spiel auf Spanisch gespielt haben, aber ich bin nicht sicher, wie genau die Formulierung war, aber ist auch nicht wichtig für diesen Kontext, aber seitdem weiß ich, dass es das Spiel auf Spanisch auf jeden Fall auch gibt. Man spielt es mit Kindern, wenn man irgendwo ist, wo es … nach demselben Prinzip. Nur muss man eine Sache beachten. Auch bei diesem Spiel ist es so, wenn ich Fragen stelle, wie \"Ist das das?\" Und der andere sagt: \"Nein.\" Und dann sage ich: \"Ist es das?\" \"Nein.\" Ähm man könnte äh Fragen stellen, wie ähm z.B. wenn es um einen Gegenstand geht, der in diesem diesem Room Ich habe zu viel Englisch heute. In diesem Raum ist, dann könnte ich sagen, okay, ist das ein Gegenstand, der auf dieser Seite vom Raum ist, oder ist das ein Gegenstand, der an der Wand ist, oder ist das ein Gegenstand, der auf dem Fußboden ist und so weiter. Damit sortiert … gehen. Also, ich kann mir die Gegenstände anschauen, dann kann ich fragen, ist das etwas, was aus Plastik ist, oder ist das etwas, was schwarz ist, also, keine Ahnung, es gab am Anfang irgendein Kriterium, so wie ich hatte gesagt, das ist was Grünes. Okay, ich weiß, es ist grün, dann möchte ich wissen, ist das größer als z.B. meine Faust, oder ist das kleiner? Oder solche Sachen. Also, bei bei solchen Spielen hilft das, schneller die Lösung zu finden. Genau. Nächsten Video, bzw. im Handout beschäftigen wir uns damit, wie ich etwas umschreiben kann in einem formellen Kontext. Bis gleich.",
@@ -1705,7 +2120,7 @@
  "_LruuC4PdEg": {
   "channel": "Nicos Weg (DW)",
   "lang": "de",
-  "checked": "2026-11-09T19:22:32+00:00",
+  "checked": "2026-11-22T05:20:48+00:00",
   "title": "Hotellerie 6/7 | Fakten | Deutsch im Job | B1 | DW Deutsch lernen",
   "duration": 125,
   "published": "20261030",
@@ -1714,6 +2129,7 @@
   "pace": 150.5,
   "rare": 0.0642,
   "var": 0.7924,
+  "cl": null,
   "speech_s": 118.0,
   "tokens": 296,
   "kw": [
@@ -1772,6 +2188,184 @@
     30,
     3.95,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "team",
+    "Wir sind multikulturelles Team. Wir haben äh viele Mitarbeiter aus",
+    101,
+    110,
+    5.23,
+    2
+   ],
+   [
+    "bereich",
+    "Bereich hat's mir am besten gefallen und",
+    40,
+    45,
+    5.21,
+    2
+   ],
+   [
+    "verantwortung",
+    "sehen. Und ähm die Verantwortung auch",
+    94,
+    102,
+    4.74,
+    1
+   ],
+   [
+    "büro",
+    "einer nur nur im Büro ist oder nur an",
+    52,
+    58,
+    4.73,
+    1
+   ],
+   [
+    "nett",
+    "Ja, alle Mitarbeiter sind schon nett.",
+    87,
+    92,
+    4.7,
+    1
+   ],
+   [
+    "welchem",
+    "Ausbildung erst entscheiden, in welchem Bereich hat's mir am besten gefallen und",
+    39,
+    45,
+    4.68,
+    1
+   ],
+   [
+    "beruf",
+    "Der Beruf der Hotelfachfrau des Hotelfachmanns ist eine dreijährige",
+    2,
+    9,
+    4.66,
+    1
+   ],
+   [
+    "einblick",
+    "man von jedem in einen kleinen Einblick",
+    57,
+    61,
+    4.14,
+    1
+   ],
+   [
+    "gästen",
+    "den Gästen oder nur im Backoffice, dass",
+    55,
+    60,
+    4.14,
+    1
+   ],
+   [
+    "praktischen",
+    "Schule und den praktischen Teil im äh",
+    12,
+    18,
+    4.12,
+    1
+   ],
+   [
+    "durchführen",
+    "durchführen muss. Ja, potenzielle Hotelfachleute sollten",
+    65,
+    72,
+    4.11,
+    1
+   ],
+   [
+    "fachkraft",
+    "dass sie dich als ähm richtige Fachkraft",
+    91,
+    99,
+    3.48,
+    1
+   ],
+   [
+    "duale",
+    "duale Berufsausbildung, also auch mit IHK und Berufsschule zusammen.",
+    6,
+    13,
+    3.3,
+    1
+   ],
+   [
+    "abwechslungsreich",
+    "so abwechslungsreich ist. Ähm von den",
+    46,
+    51,
+    3.27,
+    1
+   ],
+   [
+    "durchläuft",
+    "werden und man durchläuft ja alle",
+    35,
+    40,
+    3.27,
+    1
+   ],
+   [
+    "dreijährige",
+    "Hotelfachmanns ist eine dreijährige duale Berufsausbildung, also auch mit",
+    4,
+    11,
+    3.23,
+    1
+   ],
+   [
+    "leistungsbereitschaft",
+    "Leistungsbereitschaft ist natürlich sehr wichtig.",
+    84,
+    90,
+    2.76,
+    1
+   ],
+   [
+    "schichtdienst",
+    "Schichtdienst, ähm den man auch durchführen muss.",
+    63,
+    70,
+    2.75,
+    1
+   ],
+   [
+    "teamfähig",
+    "in erster Linie auch teamfähig sein und",
+    69,
+    74,
+    2.29,
+    1
+   ],
+   [
+    "hotelfachfrau",
+    "Der Beruf der Hotelfachfrau des Hotelfachmanns ist eine dreijährige",
+    2,
+    9,
+    2.23,
+    1
+   ],
+   [
+    "servicebereich",
+    "Hotel. Das heißt, im Servicebereich, Gästebedienung, im Restaurant. Dann",
+    27,
+    34,
+    2.21,
+    1
+   ],
+   [
+    "backoffice",
+    "den Gästen oder nur im Backoffice, dass",
+    55,
+    60,
+    2.18,
+    1
    ]
   ],
   "tx": "Der Beruf der Hotelfachfrau des Hotelfachmanns ist eine dreijährige duale Berufsausbildung, also auch mit IHK und Berufsschule zusammen. Man hat äh den theoretischen Teil in der Schule und den praktischen Teil im äh Betrieb. In jeder Abteilung gibt es irgendwie eine Person, die für dich so zugewiesen ist, die dich einarbeitet. Die Hotelfachleute durchlaufen in den drei Jahren äh sämtliche Abteilungen im Hotel. Das heißt, im Servicebereich, Gästebedienung, im Restaurant. Dann geht's ins Housekeeping, weil die Zimmer müssen ja auch entsprechend gemacht werden und man durchläuft ja alle Bereiche erstmal und kann sich nach der Ausbildung erst entscheiden, in welchem Bereich hat's mir am besten gefallen und wo ist so mein Bereich. Das gefällt mir hier im Hotel, dass es so abwechslungsreich ist. Ähm von den ganzen Aufgaben, von den ganzen Abteilungen, dass man halt nicht nur in einer nur nur im Büro ist oder nur an den Gästen oder nur im Backoffice, dass man von jedem in einen kleinen Einblick hat. Man muss auf jeden Fall auch flexibel sein in diesem Job, aufgrund von Schichtdienst, ähm den man auch durchführen muss. Ja, potenzielle Hotelfachleute sollten in erster Linie auch teamfähig sein und neben ihren gastgeberischen Qualitäten ist das natürlich ähm ganz ganz wichtig, weil wir hier nichts alleine auf die Reihe bringen. Jede Menge Sympathie, Empathie und ähm ja, solche Dinge und ja, ein bisschen Leistungsbereitschaft ist natürlich sehr wichtig. Ja, alle Mitarbeiter sind schon nett. Und das Ich finde auch schon wichtig, dass sie dich als ähm richtige Fachkraft sehen. Und ähm die Verantwortung auch sehr groß ist bei den Aufgaben. Wir sind multikulturelles Team. Wir haben äh viele Mitarbeiter aus viele verschiedene Länder und dann kann man als Team zusammenarbeiten und dann am Ende des Tages sagen wir, haben wir es geschafft. Ja.",
@@ -2439,7 +3033,7 @@
  "QEuCBmvvkEY": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-10T02:36:57+00:00",
+  "checked": "2026-11-22T05:57:44+00:00",
   "title": "Learn BEGINNER German naturally with our VLOG / A2 Comprehensible Input German Listening Practice",
   "duration": 578,
   "published": "20261024",
@@ -2448,6 +3042,7 @@
   "pace": 95.3,
   "rare": 0.1117,
   "var": 0.7333,
+  "cl": null,
   "speech_s": 462.0,
   "tokens": 734,
   "kw": [
@@ -2610,6 +3205,88 @@
     328,
     2.59,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "paar",
+    "Und ich habe ein paar Sachen geholt.",
+    28,
+    35,
+    5.56,
+    3
+   ],
+   [
+    "and",
+    "And just this thing? Or here?",
+    486,
+    492,
+    5.22,
+    3
+   ],
+   [
+    "what",
+    "What's there? Okay.",
+    434,
+    438,
+    4.21,
+    4
+   ],
+   [
+    "wohin",
+    "wohin. Wohin? Wohin?",
+    104,
+    112,
+    4.5,
+    3
+   ],
+   [
+    "don't",
+    "I don't have to record that.",
+    447,
+    451,
+    4.1,
+    3
+   ],
+   [
+    "but",
+    "But like I'll need help with that for sure.",
+    480,
+    486,
+    4.05,
+    3
+   ],
+   [
+    "ananas",
+    "Ananas-Weinschorle. Einen Ananas-Spritz.",
+    332,
+    340,
+    3.49,
+    2
+   ],
+   [
+    "sure",
+    "I'll need help with that for sure.",
+    481,
+    486,
+    3.46,
+    2
+   ],
+   [
+    "scared",
+    "I don't know. I'm scared of breaking.",
+    462,
+    468,
+    2.34,
+    2
+   ],
+   [
+    "weintrauben",
+    "ein paar Weintrauben. Ist das Cheddar?",
+    319,
+    327,
+    2.98,
+    1
    ]
   ],
   "tx": "Hi, und willkommen zu Chill German. Ich bin nicht Jam, ich bin Palina. Und ähm, Jam und ich haben heute ein Date. Wir haben ein Picknick-Date. Und ich muss jetzt alles vorbereiten. Und ich habe sehr, sehr wenig Zeit. Also muss ich sehr schnell sein. Ja, ich bin Ich bin einkaufen gegangen. Und ich habe ein paar Sachen geholt. Äh Salami und Käse Trauben Alles, was man braucht. Alles, was man für ein Picknick braucht. Ähm Und natürlich eine Wassermelone. Jam liebt Wassermelone. Sie spricht ständig darüber, wie sehr sie Wassermelone liebt. Also muss ich jetzt schnell die Wassermelone schneiden und alles packen. Und ich habe hier so einen kleinen Kühlschrank. Und hier kann ich alle Getränke legen. Und sie werden dann kühl. Okay. Ich kann nicht reden. Ich muss arbeiten. Gleich. Ups. Ähm hm hm hm hm Ich muss die Wassermelone auch irgendwohin packen. Und ich habe keine Ahnung wohin. Wohin? Wohin? Okay, ich mache jetzt die Kamera aus, weil sonst schaffe ich nichts. Die Die ist schlecht. Sie ist sehr sehr weich, zu weich. So, ich bin fertig. Ich habe mich schick angezogen. Ich habe den Kühlschrank dabei, ich habe den Rucksack voll mit Essen und ich bin auf dem Weg. Was ist das hier? Was ist das hier? Mhm. So ein schönes Bild, ha. Das Wetter ist wie immer wunderschön. Ich glaube, ich kenne keine andere kleine Stadt, die so schön ist. Hier ist Cem. Hier bin ich. Jetzt muss Cem den Kühlschrank tragen. Das ist eine Kühlbox, kein Kühlschrank. Oi. Hier machen wir den Picknick. Ja, ich muss ein bisschen anziehen. Cem ist immer zu kalt. Deswegen muss sie jetzt einen Pullover anziehen. Vielleicht kannst du ein bisschen von deinem Tag erzählen. Ich habe heute wieder in einem Café gearbeitet, in einem Café, dass ich ganz gerne mag hier in Nazareth. Das heißt Ushalla. Und ja, ich habe angefangen ein neues Buch zu übersetzen. Ich habe nicht ganz so viel geschafft, wie ich gerne wollte, aber manche Arbeitstage sind ebenso. Und wenn sie so enden mit einer schönen Aussicht, ein bisschen gutem Essen und einer noch schöneren Partnerin, dann ähm kann ich glaube ich nicht unzufrieden sein. Krina hat einige schöne Sachen mitgebracht. Sie hat gestern Vanillekekse gebacken. Die sind hier auf dem Teller. Ein paar Datteln, ein paar Weintrauben. Ist das Cheddar? Cheddar, Ziegenkäse, Camembert, eine Ananas-Weinschorle. Einen Ananas-Spritz. Ähm, mit Alkohol. Ja? Ja, mit Alkohol. Ähm etwas, das wir beide nicht kennen. Es heißt Kefir. Und es ist wohl fermentierte Limette. Und ein bisschen Hamann. Und ja. Das ist unser Picknick. Ich bin total in diesem Picknick Ort, in diesem Picknick Platz verliebt. Das ist hier wirklich der Hammer. Ähm. Es ist total privat. Es ist in so einer kleinen Kuhle neben dem Weg, wo die meisten Leute entlang gehen. Und es ist deswegen auch relativ windgeschützt. Deswegen ist es hier nicht so windig. Und Paulina und ich haben gerade ganz hinten in der Ferne im Wasser eine Schule Delfine gesehen. Die springen dort herum. Ähm, und das ist ja, ich weiß gar nicht genau, äh, wie ich das beschreiben soll. Das ist einfach unheimlich toll. Das sieht sehr, sehr, sehr schön aus. Ja. Äh. Und das Licht ist jetzt ein bisschen orange. Ja, die Sonne geht gerade unter. Es wird also ein Hm? Wow. Das Essen war gut. Die Kekse essen wir jetzt. Und What's there? Okay. What do you mean there? Do you see something there? What do you mean? Hahaha. I don't have to record that. What do you mean? I don't believe in anything. I don't know. I'm scared of breaking. I was so scared. If that happens, you know what? We will have a third proposal. Do you remember how? He said to just like move it to the side. But like I'll need help with that for sure. He just did it like But where? And just this thing? Or here? I was hoping you would get up. It's really cool, you know, and then turn. But you wouldn't get up. I'm sorry. I didn't want to hurt you. It's okay. I was so panicked. Like I didn't know how to I suppose. And I uh yeah, that's good. I hope it works. I love it incredibly. I just hope it doesn't hurt your ear. I mean. I'm not 100% sure how to. Maybe we can do that. It's like",
@@ -3163,7 +3840,7 @@
  "j-s2t3q4f2w": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-09T16:21:17+00:00",
+  "checked": "2026-11-22T05:36:30+00:00",
   "title": "So gehst du mit Fehlern um | Aus meinem Deutsch C1 Selbstlernkurs",
   "duration": 860,
   "published": "20261101",
@@ -3172,6 +3849,7 @@
   "pace": 136.0,
   "rare": 0.0394,
   "var": 0.7865,
+  "cl": null,
   "speech_s": 861.1,
   "tokens": 1952,
   "kw": [
@@ -3336,6 +4014,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "z.b",
+    "Endungen z.B., ich sollte mir die Deklination anschauen",
+    70,
+    77,
+    5.03,
+    11
+   ],
+   [
+    "lernen",
+    "richtige Beispiele wie möglich zu lernen",
+    218,
+    226,
+    5.14,
+    10
+   ],
+   [
+    "machst",
+    "Fehler machst. Also, ich gebe euch ein Beispiel, äh welche",
+    323,
+    332,
+    4.77,
+    3
+   ],
+   [
+    "lohnt",
+    "sich lohnt zu korrigieren, z.B. wenn du immer wieder die gleichen",
+    318,
+    327,
+    4.58,
+    3
+   ],
+   [
+    "symptome",
+    "äh man betrachtet Fehler wie Symptome",
+    56,
+    64,
+    4.19,
+    2
+   ],
+   [
+    "nachteile",
+    "man nur die die Nachteile sieht, nur die",
+    152,
+    159,
+    4.11,
+    2
+   ],
+   [
+    "fokussieren",
+    "fokussieren, dann sehen wir irgendwann auch",
+    90,
+    95,
+    3.31,
+    2
+   ],
+   [
+    "fokussiert",
+    "fokussiert sind und wenn wir nicht nur",
+    231,
+    236,
+    3.58,
+    1
+   ],
+   [
+    "immersion",
+    "ähm das auf Englisch sagt man Immersion,",
+    202,
+    208,
+    2.67,
+    2
+   ],
+   [
+    "pilates",
+    "Probestunde Yoga oder Pilates oder Leichtathletik oder Boxen oder irgendwas",
+    464,
+    472,
+    2.99,
+    1
+   ]
+  ],
   "tx": "Hallo, meine Lieben. Das Thema dieser Woche wird sein, Umgang mit Fehlern. Ich habe in über 20 Jahren, die ich Deutsch unterrichte, habe ich immer gedacht, na ja, es geht darum, dass man möglichst weniger Fehler macht mit der Zeit, dass man versteht, welche Fehler man macht, dass man versucht, sie zu reduzieren und so weiter. Das ist die Strategie, die auch tatsächlich die meisten Sprachlehrer verfolgen, die meisten Sprachlernenden verfolgen. Und ungefähr vor einem Jahr vielleicht habe ich noch einen Ansatz entwickelt, ich muss sagen, der mir deutlich besser gefällt. Wir werden in dieser … anderes. Also, stellt euch einfach das Bild vor, was ist der Unterschied, dass jemand Sport treibt und sich gesund ernährt und so weiter und äh ausreichend schläft und äh mäßig trainiert und so weiter. So all all das, also jemand pflegt einen gesunden Lebensstil, um in einer optimalen körperlichen und seelischen zu sein. Das ist der eine Ansatz. Und jemand anders stellt sich vor den Spiegel und sagt \"Mir gefällt mein Doppelkinn nicht und mir gefällt es nicht, dass z.B. hier irgendwie äh irgendwas hängt und und da ist irgendwas zu viel und hier habe ich weiß ich nicht, ich hatte ich hatte … lesen, hören, Filme anschauen und so weiter. Das heißt, wir ähm das auf Englisch sagt man Immersion, also wir benutzen diese Immersion, dieses Eintauchen in die Sprache in verschiedenen Ebenen. Ja, das heißt, wir äh ja, wir wir versuchen so viele gute und richtige Beispiele wie möglich zu lernen und das hat zur Folge, dass unsere Sprache besser und besser wird, auch wenn wir nicht nur auf auf Fehler fokussiert sind und wenn wir nicht nur schauen, okay, was könnte ich verbessern. Also, es ist eine andere Philosophie beim Lernen. Und ich möchte nicht sagen, dass die eine richtig und die … habe und dann äh muss ich irgendwas auf Deutsch sagen, Entschuldigung, und und dann habe ich das Gefühl so, ah, was habe ich jetzt gerade gesagt? Oder ich bleibe plötzlich hängen und weiß nicht, welchen Artikel ein Wort hat. Und ich meine, mein Deutsch ist äh ziemlich stabil, würde ich sagen. Und das heißt, wenn wir uns erlauben, bei den Fehlern zumindest verschiedene Kategorien auszuwählen, denn es gibt Fehler, die es sich lohnt zu korrigieren, z.B. wenn du immer wieder die gleichen Fehler machst. Also, ich gebe euch ein Beispiel, äh welche Fehler machen deutsche Kinder im … gemacht? Meine Tochter hat genau die gleichen Fehler gemacht, weil sie in Deutschland geboren und aufgewachsen ist und wenn sie sowas gesagt hat, dann habe ich gesagt: \"Ah, und dann seid ihr zu Oma gegangen.\" Und dann habt ihr Kuchen gegessen und so weiter. Das heißt, man korrigiert die Kinder ganz sanft, indem man es einfach richtig sagt. Genauso, wenn kleine Kinder sprechen lernen, am Anfang können sie noch nicht alles bezeichnen, was sie sehen und da helfen die Eltern, wenn es wenn das Kind auf irgendwas zeigt, dann sagt äh die Mama: \"Ja, das ist das.\" Oder das ist jenes. So. Das heißt, … irgendwas und dann stellen wir fest, okay, das ist meins oder das ist eher nicht so meins. Und ich kann euch sagen, in Sachen Sprache ist es genauso. Das heißt, wenn du das Gefühl hast, dass ein bestimmter Ansatz, z.B. ständig nach Fehlern zu suchen und sie diese zu verbessern und so weiter. Wenn dieser Ansatz dich frustriert und dich nicht weiterbringt, dann können wir eine hybride Strategie finden. Z.B. wir versuchen, uns auf die Fehler zu konzentrieren, die leicht zu beheben sind. Denn wenn ihr darauf achtet, wie ich Sachen erkläre, dann werdet ihr z.B. auch solche Erklärungen hören wie … Es gibt Themen, die kann man, wie Pandoras äh Box, man kann sie aufmachen, aber dann hast du für immer damit zu tun. Redewendungen, Artikel, äh Modalpartikeln und so weiter. So. Das heißt, eine Hybridtheorie zwischen zwei Arten mit Fehlern umzugehen würde bedeuten, dass wir bestimmte Fehlerkategorien formulieren, wo wir sagen, okay, das solltest du schon wissen. Also, unregelmäßige Verben muss man lernen. Verben mit Präpositionen, ja, es ist ein sehr umfangreiches Thema, deswegen vielleicht machen wir uns deswegen nicht so sehr verrückt, aber wir achten auf äh Verben mit Präpositionen … das ist dieses Prinzip, das worauf wir unseren Fokus lenken, davon bekommen wir mehr und mehr im Leben. Es hat ein bisschen was mit dem Gesetz der Anziehung zu tun, aber das soll jetzt hier nicht das Hauptthema sein, aber erinnert euch einfach, äh z.B. ähm Frauen, wenn sie mal schwanger waren, haben sie in dieser Zeit nur überall Schwangere gesehen. Äh oder wenn du als Mann äh dir einen Bart stehen lässt, z.B. ausnahmsweise, und normalerweise hast du keinen Bart, aber jetzt, und du gehst auf die Straße und du siehst unbedingt alle Männer mit Bart. Du hast diesen Fokus. Oder wenn du … lernen. Statt zu denken, \"Oh mein Gott, jetzt habe ich schon wieder einen Fehler gemacht. Was soll ich denn machen, damit diese Fehler nicht passieren?\" So. Und vielleicht noch als letztes Beispiel, ähm, wenn jemand, wenn ihr äh Autofahren könnt oder wenn ihr Fahrradfahren könnt, wenn man Fahrrad fährt, das erste, was man lernt, ist, du schaust in die Ferne, du darfst nicht auf das vordere Rad deines Fahrrads schauen oder auf den Boden, dann fällst du hin. Genauso ist es beim Sprachenlernen. Wenn wir fahren, dann schauen wir nicht, äh, nicht den nächsten Zaun an und nicht das nächste … möchte betonen, es gibt nicht die richtige Vorgehensweise. Es gibt nicht den richtigen Ansatz und ich kann euch nicht sagen, bitte macht es so, das ist richtig, aber wie beim Sport, wie beim Essen, wie bei vielen verschiedenen anderen Themen, ist es so, wir sind unterschiedlich und für den einen ist das die beste Methode und für die andere ist diese Methode furchtbar und sie braucht eine andere. Deswegen lade ich euch herzlich ein, euch selbst ein bisschen von außen zu beobachten und zu überlegen, was tut denn mir genau gut? So, was, was funktioniert für mich? Also, bis demnächst. Ciao ciao.",
   "gist": "s",
   "status": "ok",
@@ -3344,7 +4104,7 @@
  "V2p9z8WbjLQ": {
   "channel": "Sloeful German",
   "lang": "de",
-  "checked": "2026-11-03T04:44:28+00:00",
+  "checked": "2026-11-22T05:45:03+00:00",
   "title": "E.T.A. Hoffmann | Intermediate German Text (B1 / B2)",
   "duration": 322,
   "published": "20240229",
@@ -3352,73 +4112,11 @@
   "spoken_v": 2,
   "pace": 116.0,
   "rare": 0.138,
+  "var": 0.8591,
+  "cl": null,
   "speech_s": 322.2,
   "tokens": 623,
   "kw": [
-   [
-    "nussknacker",
-    "trixereien Nussknacker und Mausekönig das wohl bekannteste Werk",
-    247,
-    257,
-    2.85,
-    7
-   ],
-   [
-    "sandmann",
-    "Dickens der Sandmann der Sandmann ist",
-    80,
-    89,
-    3.13,
-    5
-   ],
-   [
-    "hoffmanns",
-    "Sammlung von Hoffmanns Erzählungen mit dem Titel nachtstücke die Nacht die für",
-    90,
-    99,
-    2.9,
-    3
-   ],
-   [
-    "lindhorst",
-    "beginnt er seine Arbeit bei Lindhorst",
-    200,
-    206,
-    2.3,
-    2
-   ],
-   [
-    "nathanael",
-    "Nathanael einem Universitätsstudenten der in einem Brief",
-    103,
-    110,
-    2.52,
-    2
-   ],
-   [
-    "kurzgeschichte",
-    "eine Kurzgeschichte aus dem Jahr 1817 sie hört zu einer berühmten",
-    84,
-    94,
-    3.33,
-    2
-   ],
-   [
-    "veronika",
-    "Veronika vorstellt als er das Angebot annimmt",
-    196,
-    203,
-    3.42,
-    2
-   ],
-   [
-    "verflucht",
-    "hatte und ihn daraufhin verflucht einige",
-    185,
-    192,
-    3.44,
-    2
-   ],
    [
     "geschichte",
     "steht die Geschichte handelt von Nathanael einem",
@@ -3426,22 +4124,6 @@
     108,
     5.45,
     4
-   ],
-   [
-    "welt",
-    "Welt des Unbekannten steht die Geschichte handelt von",
-    98,
-    106,
-    5.66,
-    3
-   ],
-   [
-    "später",
-    "Zeit später trifft Anselmus seinen Freund Paulmann der ihm einen Job",
-    188,
-    197,
-    5.5,
-    3
    ],
    [
     "seinen",
@@ -3452,19 +4134,11 @@
     3
    ],
    [
-    "nacht",
-    "dem Titel nachtstücke die Nacht die für",
-    93,
-    99,
-    5.36,
-    3
-   ],
-   [
-    "marie",
-    "Mädchen Marie zu Hause mit einem",
-    270,
-    275,
-    4.42,
+    "welt",
+    "Welt des Unbekannten steht die Geschichte handelt von",
+    98,
+    106,
+    5.66,
     3
    ],
    [
@@ -3476,25 +4150,225 @@
     3
    ],
    [
-    "darunter",
-    "zahlreicher späterer Künstler darunter Richard Wagner tikowski",
-    69,
-    80,
-    4.89,
+    "marie",
+    "Mädchen Marie zu Hause mit einem",
+    270,
+    275,
+    4.42,
     3
+   ],
+   [
+    "werke",
+    "literarischer Werke eine durchgehende Konstante in seinem",
+    23,
+    32,
+    4.75,
+    2
+   ],
+   [
+    "laufe",
+    "Schauerliteratur obwohl er im Laufe seines Lebens als Jurist Illustrator",
+    12,
+    21,
+    4.66,
+    2
+   ],
+   [
+    "wirklichkeit",
+    "namens kopelius in Wirklichkeit der Sandmann ist eines schicksalhaften",
+    127,
+    137,
+    4.4,
+    2
+   ],
+   [
+    "hoffmann",
+    "et Hoffmann ist einer der einflussreichsten deutschsprachigen",
+    0,
+    8,
+    4.17,
+    3
+   ],
+   [
+    "fantasie",
+    "Grenzen zwischen Realität und Fantasie oft zu verschwimmen",
+    52,
+    61,
+    4.06,
+    2
+   ],
+   [
+    "topf",
+    "Wahnsinns der goldene Topf der goldene",
+    159,
+    167,
+    4.06,
+    2
+   ],
+   [
+    "deutschsprachigen",
+    "einflussreichsten deutschsprachigen Schriftsteller er hat einen bedeutenden",
+    2,
+    10,
+    4.05,
+    2
+   ],
+   [
+    "sandmann",
+    "Dickens der Sandmann der Sandmann ist",
+    80,
+    89,
+    3.13,
+    5
+   ],
+   [
+    "fantastischen",
+    "fantastischen Welten in welchen die Grenzen zwischen Realität und Fantasie",
+    50,
+    58,
+    3.57,
+    2
+   ],
+   [
+    "verflucht",
+    "hatte und ihn daraufhin verflucht einige",
+    185,
+    192,
+    3.44,
+    2
+   ],
+   [
+    "veronika",
+    "Veronika vorstellt als er das Angebot annimmt",
+    196,
+    203,
+    3.42,
+    2
+   ],
+   [
+    "nussknacker",
+    "trixereien Nussknacker und Mausekönig das wohl bekannteste Werk",
+    247,
+    257,
+    2.85,
+    7
+   ],
+   [
+    "hoffmanns",
+    "Sammlung von Hoffmanns Erzählungen mit dem Titel nachtstücke die Nacht die für",
+    90,
+    99,
+    2.9,
+    3
+   ],
+   [
+    "nathanael",
+    "Nathanael einem Universitätsstudenten der in einem Brief",
+    103,
+    110,
+    2.52,
+    2
+   ],
+   [
+    "lindhorst",
+    "beginnt er seine Arbeit bei Lindhorst",
+    200,
+    206,
+    2.3,
+    2
    ]
   ],
-  "tx": "et Hoffmann ist einer der einflussreichsten deutschsprachigen Schriftsteller er hat einen bedeutenden Beitrag zur Romantik geleistet und ist ein Pionier der deutschsprachigen Schauerliteratur obwohl er im Laufe seines Lebens als Jurist Illustrator Komponist und auch als Musikkritiker tätig war blieb das Verfassen literarischer Werke eine durchgehende Konstante in seinem Leben fasie und Psychologie in seinen Texten erforschte er als erster Romantiker die dunkle Seite der menschlichen Natur und interessierte sich besonders für die psychologischen Auswirkungen von Trauma all dies verwebte Hoffmann spielerisch in die von ihm geschaffenen fantastischen Welten in welchen die Grenzen zwischen Realität und Fantasie oft zu verschwimmen Schienen mit seinen Schriften gründete Hoffmann zusammen mit einer Handvoll anderer deutscher Schriftsteller die literarische Gattung der schwarzen Romantik und beeinflusste die Werke zahlreicher späterer Künstler darunter Richard Wagner tikowski Edgar allen Po und Charles Dickens der Sandmann der Sandmann ist eine Kurzgeschichte aus dem Jahr 1817 sie hört zu einer berühmten Sammlung von Hoffmanns Erzählungen mit dem Titel nachtstücke die Nacht die für das Irrationale oder die unheimliche Welt des Unbekannten steht die Geschichte handelt von Nathanael einem Universitätsstudenten der in einem Brief an einen Freund von einer schrecklichen Kindheitserinnerung erzählt als Kind erfuhr er damals von dem unheimlichen Sandmann welcher sich nachts in die Zimmer schleicht um klein Kindern die Augen zu stehlen schon bald ist er überzeugt dass ein regelmäßiger Besucher seines Vaters namens kopelius in Wirklichkeit der Sandmann ist eines schicksalhaften abends so erinnert er sich wurde er von kopelius brutal gefoltert und verlor fast seine Augen bevor er versc",
+  "kx": [
+   [
+    "später",
+    "Zeit später trifft Anselmus seinen Freund Paulmann der ihm einen Job",
+    188,
+    197,
+    5.5,
+    3
+   ],
+   [
+    "nacht",
+    "dem Titel nachtstücke die Nacht die für",
+    93,
+    99,
+    5.36,
+    3
+   ],
+   [
+    "bösen",
+    "ihren bösen Fluch und andere magische",
+    243,
+    252,
+    4.38,
+    2
+   ],
+   [
+    "schriftsteller",
+    "Schriftsteller er hat einen bedeutenden Beitrag zur Romantik geleistet und ist",
+    4,
+    13,
+    4.35,
+    2
+   ],
+   [
+    "romantik",
+    "Beitrag zur Romantik geleistet und ist",
+    7,
+    13,
+    3.92,
+    2
+   ],
+   [
+    "korb",
+    "selmus einen Korb mit Obst umstößt",
+    177,
+    184,
+    3.87,
+    2
+   ],
+   [
+    "kurzgeschichte",
+    "eine Kurzgeschichte aus dem Jahr 1817 sie hört zu einer berühmten",
+    84,
+    94,
+    3.33,
+    2
+   ],
+   [
+    "hartnäckig",
+    "ihre Ansichten hartnäckig ab und gerät",
+    151,
+    158,
+    3.59,
+    1
+   ],
+   [
+    "archivar",
+    "einem exzentrischen Archivar in dessen Haus an selmus alle möglichen",
+    202,
+    210,
+    2.95,
+    1
+   ],
+   [
+    "verschwimmen",
+    "oft zu verschwimmen Schienen mit seinen Schriften gründete",
+    55,
+    63,
+    2.94,
+    1
+   ]
+  ],
+  "tx": "et Hoffmann ist einer der einflussreichsten deutschsprachigen Schriftsteller er hat einen bedeutenden Beitrag zur Romantik geleistet und ist ein Pionier der deutschsprachigen Schauerliteratur obwohl er im Laufe seines Lebens als Jurist Illustrator Komponist und auch als Musikkritiker tätig war blieb das Verfassen literarischer Werke eine durchgehende Konstante in seinem Leben fasie und Psychologie in seinen Texten erforschte er als erster Romantiker die dunkle Seite der menschlichen Natur und interessierte sich besonders für die psychologischen Auswirkungen von Trauma all dies verwebte Hoffmann spielerisch in die von ihm geschaffenen fantastischen Welten in welchen die Grenzen zwischen Realität und Fantasie oft zu verschwimmen Schienen mit seinen Schriften gründete Hoffmann zusammen mit einer Handvoll anderer deutscher Schriftsteller die literarische Gattung der schwarzen Romantik und beeinflusste die Werke zahlreicher späterer Künstler darunter Richard Wagner tikowski Edgar allen Po und Charles Dickens der Sandmann der Sandmann ist eine Kurzgeschichte aus dem Jahr 1817 sie hört zu einer berühmten Sammlung von Hoffmanns Erzählungen mit dem Titel nachtstücke die Nacht die für das Irrationale oder die unheimliche Welt des Unbekannten steht die Geschichte handelt von Nathanael einem Universitätsstudenten der in einem Brief an einen Freund von einer schrecklichen Kindheitserinnerung erzählt als Kind erfuhr er damals von dem unheimlichen Sandmann welcher sich nachts in die Zimmer schleicht um klein Kindern die Augen zu stehlen schon bald ist er überzeugt dass ein regelmäßiger Besucher seines Vaters namens kopelius in Wirklichkeit der Sandmann ist eines schicksalhaften abends so erinnert er sich wurde er von kopelius brutal gefoltert und verlor fast seine Augen bevor er verschwand als seine Verlobte ihn davon zu überzeugen versucht dass es den Sandmann nicht gibt und dieser nur in seinem Kopf existiert lehnt Nathanael ihre Ansichten hartnäckig ab und gerät so langsam in eine gefährliche Spirale des Wahnsinns der goldene Topf der goldene Topf erstmals 1814 veröffentlicht ist eine Geschichte voller Fantasie und gilt weithin als eines von Hoffmanns besten Werken die Geschichte spielt in Dresden und beginnt damit dass der Student an selmus einen Korb mit Obst umstößt dieser Korb gehörte jedoch einer Hexe welche sich als apfelhänder verkleidet hatte und ihn daraufhin verflucht einige Zeit später trifft Anselmus seinen Freund Paulmann der ihm einen Job anbietet und ihm seine schöne Tochter Veronika vorstellt als er das Angebot annimmt beginnt er seine Arbeit bei Lindhorst einem exzentrischen Archivar in dessen Haus an selmus alle möglichen übernatürlichen Phänomene und inspirierenden Wunder entdeckt darunter auch lindhst Zaubernde Tochter serpentina es stellt sich heraus dass Lindhorst und seine Töchter durch einen rachezauber verflucht wurden und in Wirklichkeit verzauberte Wesen aus der sagenhaften Welt Atlantis sind im Laufe der Zeit muss sich Anselmus zwischen einem praktischen Leben mit Veronika und einem fantastischen Leben mit serpentina entscheiden aber nicht bevor er noch einige Hindernisse überwunden hat darunter die sich einmischende Hexe ihren bösen Fluch und andere magische trixereien Nussknacker und Mausekönig das wohl bekannteste Werk Hoffmanns ist die Kurzgeschichte Nussknacker und Mausekönig die 1816 veröffentlicht und später von tschajkowski in das berühmte Ballettstück der Nussknacker verwandelt wurde die Geschichte beginnt an einem Weihnachtsabend an dem das kleine Mädchen Marie zu Hause mit einem Nussknacker spielt den ihre Familie als Geschenk erhalten hat später in der Nacht ist sie schockiert als sie sieht wie der Nussknacker zum Leben erwacht zusammen mit einer ganzen Reihe von anderen Puppen im Haus Marie sieht auch wie sich einige Mäuse unter den Dielen hervorwinden und unter der Führung des mäusekönigs einen erbitterten Kampf gegen den Nussknacker und die Puppen führen am nächsten Morgen erzählt sie ihren Eltern was sie gesehen hat doch niemand glaubt ihr mit der Zeit lässt sich Marie auf die neue fantastische Welt ein die Nacht zum Leben erwacht sie versucht den bösen unersätlichen Mausekönig mit Süßigkeiten und Spielzeug zu besänftigen und hilft schließlich dem Nussknacker ihn zu besiegen",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.8595,
-  "kw_tried": 1,
-  "gist_tried": 1
+  "src": "auto"
  },
  "LER7gJi5hWg": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-10T02:30:17+00:00",
+  "checked": "2026-11-22T05:48:24+00:00",
   "title": "Simple German: Fashion trends when I was in primary school│Pre-Beginner German",
   "duration": 488,
   "published": "20230520",
@@ -3503,6 +4377,7 @@
   "pace": 78.1,
   "rare": 0.1075,
   "var": 0.709,
+  "cl": null,
   "speech_s": 478.4,
   "tokens": 623,
   "kw": [
@@ -3667,6 +4542,88 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "euch",
+    "hallo meine Lieben ich hoffe euch geht",
+    0,
+    10,
+    5.71,
+    2
+   ],
+   [
+    "natürlich",
+    "kürzer und bauchfrei ist natürlich auch",
+    279,
+    290,
+    5.62,
+    2
+   ],
+   [
+    "stoff",
+    "Hosenbeine sind nicht eng der Stoff ist",
+    62,
+    75,
+    4.45,
+    3
+   ],
+   [
+    "hose",
+    "Schlaghose also eine Hose klar aber",
+    51,
+    60,
+    4.44,
+    3
+   ],
+   [
+    "aktiviert",
+    "einmal auf den Like Button und aktiviert",
+    450,
+    460,
+    3.96,
+    2
+   ],
+   [
+    "glocke",
+    "die Glocke aktiviert die Glocke damit",
+    455,
+    465,
+    3.87,
+    2
+   ],
+   [
+    "tops",
+    "Tops Modetrend Nummer 4 sind auch ein",
+    211,
+    221,
+    3.14,
+    2
+   ],
+   [
+    "dunkelblau",
+    "dunkelblau nicht hellblau aber dunkelblau",
+    314,
+    324,
+    3.08,
+    2
+   ],
+   [
+    "schlaghosen",
+    "Schlaghosen auch angesagt auch cool und jetzt jetzt in",
+    109,
+    124,
+    2.15,
+    4
+   ],
+   [
+    "modetrends",
+    "spreche ich über Modetrends aus meiner",
+    13,
+    24,
+    2.67,
+    3
+   ]
+  ],
   "tx": "hallo meine Lieben ich hoffe euch geht es gut heute werde ich über Mode sprechen also über Klamotten heute spreche ich über Modetrends aus meiner Schulzeit also als ich ein Kind war und zur Schule gegangen bin ich spreche über Modetrends aus meiner Grundschulzeit die Grundschule in Deutschland geht von der ersten bis zur vierten Klasse Modetrend Nummer eins ist die Schlaghose also eine Hose klar aber keine enge Hose die Hosenbeine sind nicht eng der Stoff ist nicht eng am Bein der Stoff ist nicht eng an der Haut die Hosenbeine waren hier unten hier unten sehr weit sehr weit hier ab dem Knie ab dem Knie werden die Hosen weiter das ist eine Schlaghose und die waren in die waren cool als ich in der Grundschule war in den 70er Jahren waren Schlaghosen auch angesagt auch cool und jetzt jetzt in 2023 kommen die Schlaghosen wieder jetzt sind die Schlaghosen wieder angesagt Modetrend Nummer 2 ist ein Halsband ein schwarzes Halsband das Halsband sah aus wie ein Tattoo ein Tattoo was man auf die Haut stechen lassen kann das Halsband hatte so ein Muster und das Halsband lag auch ganz eng am Hals Modetrend Nummer drei sind die Spaghetti Träger die Spaghettiträger an einem Top ein Top ist ein Oberteil und ein Top Hat Träger Träger die Träger liegen auf den Schultern hier und es gibt breite Träger aber es gibt auch dünne Träger wie Spaghetti Träger Spaghetti Träger sind so dünn wie Spaghettis also die Nudeln ja Spaghettiträger waren in aber klar jetzt in 2023 trägt man auch Spaghetti-Träger Tops Modetrend Nummer 4 sind auch ein paar Hosen aber keine Schlaghosen sondern Hüfthosen also das ist die Hüfte und eine Hüfthose geht nur bis zur Hüfte nicht über die Hüfte die Hüfthose sitzt auf der Hüfte und nicht hier oben die Hose geht nicht über den Bauch ja Hüfthosen waren total in Modetrend Nummer 5 ist bauchfrei tragen wisst ihr was bauchfrei bedeutet also das ist mein Bauch und bauchfrei bedeutet dass der Bauch oder ein Stück von dem Bauch nicht bedeckt ist zum Beispiel gibt es bauchfreie Tops oder bauchfreie T-Shirts also die T-Shirts sind dann ein bisschen kürzer und bauchfrei ist natürlich auch jetzt in 2023 wieder in Modetrend Nummer 6 sind die Jeansjacken also eine Jeansjacke ist natürlich eine Jacke und sie ist aus dem gleichen Stoff wie eine Jeanshose ich glaube ich hatte auch eine Jeansjacke ja meine Jeansjacke war dunkelblau nicht hellblau aber dunkelblau Modetrend Nummer 7 sind die Bauchtaschen also eine Tasche wisst ihr was eine Tasche ist das hier z.B ist eine Tasche aber das ist eine große Tasche Bauchtaschen sind viel kleiner also eine Bauchtasche bindet man sich ja eigentlich nicht um den Bauch aber um die Hüfte also es ist eine kleine Tasche ungefähr so groß mit einem Band und dann kann man sich die Tasche um die Hüfte binden aber heute in 2023 tragen viele Menschen die Bauchtasche über die Schulter oder in so einer Bauchtasche ist nicht so viel Platz da passt vielleicht der Geldbeutel rein und vielleicht ein Lippenstift und heute vielleicht noch das Handy und dann ist die Bauchtasche voll Modetrend Nummer 8 und damit auch der letzte Modetrend sind die Creolen Creolen sind Ohrringe aber größere Ohrringe in Ringform das hier sind zum Beispiel Creolen und die waren damals auch er in ich hatte damals silberne silberne Creolen und heute habe ich goldene Creolen okay das war's für heute erzählt mir erzählt mir welchen von diesen Modetrends ihr auch noch kennt schreibt es unten in die Kommentare wenn euch das Video gefallen hat dann klickt einmal auf den Like Button und aktiviert die Glocke aktiviert die Glocke damit ihr kein Beginner Video mehr verpasst also bis bald und einen schönen Tag noch tschüss",
   "gist": "w",
   "status": "ok",
@@ -3675,7 +4632,7 @@
  "EqwRp0kzwCg": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-10T02:30:21+00:00",
+  "checked": "2026-11-22T05:48:28+00:00",
   "title": "NORSE MYTHOLOGY#13: Ragnarok│Intermediate German Story",
   "duration": 1067,
   "published": "20230513",
@@ -3684,6 +4641,7 @@
   "pace": 95.7,
   "rare": 0.085,
   "var": 0.7671,
+  "cl": null,
   "speech_s": 1047.1,
   "tokens": 1670,
   "kw": [
@@ -3846,6 +4804,88 @@
     582,
     2.46,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "kommen",
+    "niemand sieht es kommen außer Heimdall",
+    83,
+    92,
+    5.71,
+    7
+   ],
+   [
+    "sehen",
+    "alles überall sehen und er sieht auch",
+    95,
+    104,
+    5.69,
+    7
+   ],
+   [
+    "übrig",
+    "wenige lebende übrig sind dann werden",
+    135,
+    147,
+    4.6,
+    4
+   ],
+   [
+    "hammer",
+    "neben ihm sein mit seinem Hammer oh den",
+    392,
+    400,
+    4.4,
+    4
+   ],
+   [
+    "reiten",
+    "über die Regenbogenbrücke reiten und alles verbrennen und alles zerstören es",
+    264,
+    278,
+    4.11,
+    3
+   ],
+   [
+    "gift",
+    "Gift zu töten es wird kein Leben mehr in",
+    233,
+    243,
+    4.02,
+    3
+   ],
+   [
+    "gigantische",
+    "gigantische große gefährliche Wolf der ein Sohn von Loki",
+    186,
+    198,
+    3.45,
+    3
+   ],
+   [
+    "kriegsschiff",
+    "Kriegsschiff Reisen dieses Kriegsschiff wird das größte Kriegsschiff sein das",
+    309,
+    321,
+    3.05,
+    3
+   ],
+   [
+    "bewaffnen",
+    "bewaffnen bewaffnen mit Waffen mit einem",
+    357,
+    366,
+    2.98,
+    2
+   ],
+   [
+    "zurückschlagen",
+    "Schwert und Loki wird zurückschlagen ",
+    7,
+    14,
+    2.76,
+    2
    ]
   ],
   "tx": "aber Heimdall wird immer noch nichts sagen aber er wird zuschlagen mit seinem Schwert und Loki wird zurückschlagen endlich ist es soweit heute werden wir die Geschichten der nordischen Mythologie zu Ende bringen die vielen vielen Geschichten von Loki und Odin und Thor finden heute ihr Ende heute erzähle ich euch die Geschichte von Ragnarok das letzte Schicksal der Götter der nordischen Mythologie alle Geschichten die ich euch bisher erzählt habe haben in der Vergangenheit gespielt das ist alles vor vielen vielen vielen vielen Jahren passiert aber die Geschichte heute ist noch nicht passiert … näher kommt es wird in einem Winter passieren aber das wird kein normaler Winter wird Winter Folgen es gibt keinen Frühling mehr keine Wärme werden überall geführt Brüder kämpfen gegen Brüder Schwestern verraten Schwestern Dunkelheit wird über die Welt einbrechen und wenn nur noch wenige lebende übrig sind dann werden Sonne und Mond verschwinden als würden sie von einem Wolf gefressen werden keiner kann mir die Sterne sehen das wird der Winter der niemals endet teilte Winde heftige Stürme so kalt und heftig dass die Tränen in deinen Augen gefrieren Winter gefolgt von Winter und dann … kann die mit ganz Schlange die einmal um die Welt geht und auch ein Kind von Loki ist wird sich erheben um mit seinem Gift zu töten es wird kein Leben mehr in den mehreren geben überall wo die Kinder von Loki hinkommen bricht tot und elend aus und das ist der Anfang des Endes die Söhne der feuerwelt werden ausbrechen angeführt von surrt der feuerriese mit seinem brennenden Schwert und Sie werden über die Regenbogenbrücke reiten und alles verbrennen und alles zerstören es wird keine Regenbogen mehr geben Luki wird sich ebenfalls aus deinem Gefängnis befreien er wird das Schiff der Toten … zur Schlacht aufstellen die schlimmsten Feinde die man sich vorstellen kann und Heimdall der Wächter der Götter wird all das gesehen haben und dann wird er das yalla Horn blasen um alle Götter aufzuwecken und zu warnen die Götter werden aufwachen und sich bewaffnen bewaffnen mit Waffen mit einem Schwert mit einer Axt alle Götter aus allen Welten und die Krieger von Walhalla machen sich bereit für den Kampf und sie reiten zum letzten Schlachtfeld angeführt von dem Gott oh den auf seinem Pferd Sleipnir auch ein Kind von Loki oh den in seiner schimmernden Rüstung und mit seinem goldenen Helm … gegen die Toten der Höllenhund kam wird aus den Tiefen hervorkommen und den Göttern die Köpfe Abreißen der Gott dir wird den hellen Hund stoppen aber das wird beiden das Leben kosten hier wird mutig kämpfen aber der Höllenhund kam wird mit tierskopf im Maul sterben Thor wird endlich die Schlange töten das wollte er schon so lange machen er wird mit seinem Hammer den Kopf der Schlange zertrümmern Tor wird zurücktreten als der gigantische Kopf der Schlange auf das Schlachtfeld fällt Tor wird einige Meter davon entfernt stehen aber nicht weit genug als der gigantische Kopf auf den Boden … und der Speer ist weg ein beißen und ein Knirschen und ein schlucken und auch der Allvater oder den ist weg und Odins Sohn muss dabei zugucken fanrede der Wolf freut sich sehr über Odins Tod aber Odins Sohn nimmt sein Schwert und reißt dem Wolf den Unterkiefer aus und so wird der Wolf fanrea sterben auf dem Schlachtfeld werden die Götter fallen als sie gegen die Eisriesen kämpfen und die Eisriesen werden fallen als sie gegen die Götter kämpfen die Armee der Toten werden neben den Göttern auf dem Boden liegen Tod zum letzten Mal Loki wird als einziger von dieser Armee übrig bleiben und Loki … ich war jahrelang gefangen wegen euch gefesselt mit den Überresten von meinem Sohn das Gift von der Schlange auf mich tropfend und meine wunderschöne Frau an meiner Seite und das einzige was mich davon abgehalten hat nicht komplett verrückt zu werden in dieser Zeit war dieser Moment ich habe es mir wieder und wieder vorgestellt wie ich und meine Kinder die Götter besiegen werde und die Welten vernichten werde aber Heimdall wird immer noch nichts sagen aber er wird zuschlagen mit seinem Schwert und Loki wird zurückschlagen mit Brutalität und Intelligenz sie werden kämpfen und Schlitzen und … können sind tot ich habe gewonnen aber Heimdall wird wieder sagen ich kann weiter als du sehen und mit seinem letzten Atemzug wird er sagen ich kann den ganzen Weg bis zum Baum der Welten sehen das Feuer von suhrt kann dem Baum nichts anhaben und dort in dem Baumstamm haben sich zwei Menschen versteckt das ist nicht das Ende es gibt kein Ende das ist nur das Ende unserer Zeit und die Geburt einer neuen Zeit du Loki hast versagt und Loki wird etwas Antworten etwas Kluges und verletzendes aber sein Leben wird vorbei sein und seine Brillanz und Grausamkeit auch und er wird nichts mehr … kommt von den grauen Meeren wird die grüne Erde noch mal entstehen die Sonne wird gefressen worden sein aber die Tochter der Sonne wird als Ersatz scheinen der Mann und die Frau werden aus ihrem Versteck kommen Odin Söhne werden dorthin gehen wo Asgard einmal war und thorst Söhne werden auch bald ankommen die Götter bald da und hat Balda und hat sind schon vor langer Zeit in einer anderen Geschichte lange vor Ragnarok gestorben und kommen aus der Unterwelt wieder sie werden reden und sich an alte Geschichten erinnern sie werden diskutieren was man hätte anders machen können und ob das Ende … Hammer oh guck mal hier ist Heimdall mit seinem Horn und hier ist Frick sie ist die Königin von dem Schachspiel und sie werden noch mehr Schachfiguren im Gras finden Loki und seine Kinder die Frostriesen bald haben sie alle Figuren für ein Schachspiel zusammen sie stellen die Figuren auf und sie ordnen die Figuren zu einem Schachspiel an auf dem Schachbrett stellen Sie die Götter gegenüber von ihren Feinden die goldenen Schachfiguren werden in der Sonne glänzen bald da wird Lächeln nach einer Schachfigur greifen und seinen ersten Schachzug machen und so fängt das Spiel wieder von vorne an",
@@ -16161,7 +17201,7 @@
  "aiFJ11GY7sE": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-09T16:12:55+00:00",
+  "checked": "2026-11-22T05:29:10+00:00",
   "title": "Everything You Need to Know About the German Drivers License",
   "duration": 983,
   "published": "20261104",
@@ -16170,6 +17210,7 @@
   "pace": 110.2,
   "rare": 0.0691,
   "var": 0.8007,
+  "cl": null,
   "speech_s": 945.0,
   "tokens": 1736,
   "kw": [
@@ -16332,6 +17373,88 @@
     279,
     2.3,
     6
+   ]
+  ],
+  "kx": [
+   [
+    "gleich",
+    "sehr teuer. Dennoch nicht immer gleich",
+    110,
+    118,
+    5.59,
+    6
+   ],
+   [
+    "lernen",
+    "jetzt lernen wir erstmal die Theorie und",
+    312,
+    319,
+    5.14,
+    6
+   ],
+   [
+    "antrag",
+    "Um diesen Antrag zu stellen, brauche ich",
+    645,
+    652,
+    4.62,
+    4
+   ],
+   [
+    "pdf",
+    "jetzt unser kostenloses PDF herunterladen.",
+    587,
+    595,
+    4.57,
+    4
+   ],
+   [
+    "heimatland",
+    "Führerschein in seinem Heimatland gemacht hat? Diese Fragen beantworten",
+    24,
+    34,
+    3.74,
+    2
+   ],
+   [
+    "kostenloses",
+    "jetzt unser kostenloses PDF herunterladen.",
+    587,
+    595,
+    3.69,
+    2
+   ],
+   [
+    "umschreiben",
+    "musst deinen umschreiben lassen auf einen deutschen Führerschein.",
+    514,
+    522,
+    3.23,
+    2
+   ],
+   [
+    "aussehenden",
+    "einen gut aussehenden Mann. Einen gut aussehenden Mann, aber auch",
+    350,
+    356,
+    3.2,
+    2
+   ],
+   [
+    "sehtest",
+    "einen Sehtest. Einen Sehtest. Die Augen, unser Sinn des",
+    354,
+    364,
+    2.48,
+    4
+   ],
+   [
+    "fahrstunde",
+    "Die Fahrstunde. Die Praxisstunde.",
+    228,
+    236,
+    2.62,
+    3
    ]
   ],
   "tx": "Wie macht man eigentlich einen Führerschein in Deutschland? Das wollen wir heute herausfinden und zwar in einer echten Fahrschule hier in Berlin. Ich freue mich da drauf. Was muss man machen, wenn man neu in Deutschland ist und keinen Führerschein hat? Und was muss man machen, wenn man neu in Deutschland ist und schon einen Führerschein in seinem Heimatland gemacht hat? Diese Fragen beantworten wir heute und ganz spannend, am Ende des Videos werden Janosch und ich noch mal die Führerscheinprüfung machen. Meine Führerscheinprüfung ist schon 20 Jahre her und deine? 40. Und jetzt gucken wir mal, … Guckt euch mal online z.B. die Rezensionen an. Worauf man heutzutage natürlich noch achten muss, ist der Preis. Der Führerschein ist heutzutage sehr teuer. Dennoch nicht immer gleich die günstigste nehmen. Man muss so ein Zwischending nehmen von sehr gut Qualität, aber auch nicht allzu teuer. Was kostet ein Führerschein ungefähr, wenn ich bei Null anfange? Ich habe noch nie einen Führerschein gemacht. Es gibt eine Statistik darüber, bundesweit ist irgendwas zwischen 3 und 4000 Euro. Das ist in Berlin etwas weniger, weil die Fahrschulen in Berlin günstiger sind als z.B. außerhalb. … Die Theorie. Die Regel. Die Theoriestunde. Die Praxis. Die Fahrstunde. Die Praxisstunde. In Deutschland besteht diese Führerscheinvorbereitung aus zwei Teilen, die Theorie und die Praxis. Was macht man da, Tolga? Also, in der Theorie befindet man sich so wie wir hier gerade in einer Einrichtung, wo dann der Fahrlehrer theoretisch den Schülern versucht alles beizubringen. Und das Praktische ist, der praktische Teil ist dann draußen im Auto, wo dann das Motorische zum Einsatz kommt, wo man Autofahren lernt mit dem hoffentlich dazu gewonnenen theoretischen Wissen. Janosch, was … lernen wir erstmal die Theorie und machen dann gleich auch eine Prüfung bei dir. Ja, ich freue mich. Herzlich willkommen zum heutigen Theorieunterricht. Mein Name ist Tolga, ich bin hier eines der Fahrlehrer. Wir haben heute Thema Nummer 1, persönliche Voraussetzungen. Gibt es erstmal Fragen? Wenn nicht, fangen wir an. Eine ganz wichtige Sache beim Führerschein, beim Autofahren generell, ist gut zu sehen. Und dafür brauchen wir nämlich einen gut aussehenden Mann. Einen gut aussehenden Mann, aber auch einen Sehtest. Einen Sehtest. Die Augen, unser Sinn des Sehens ist nämlich sehr wichtig, … Halt, Vorfahrt gewähren. Genau, an diesem Zeichen muss man stoppen und warten. Ja. Was ist das? Das ähm ähm sagt dir, pass auf, fahr hier nicht rein. Das ist eine Einbahnstraße und wenn du dahin fährst, fährst du gegen den Verkehr. Einbahnstraße heißt das nicht, aber ich glaube, man darf nicht reinfahren. Was ist das? Das heißt, äh da kann man überhaupt nicht reinfahren. Ich weiß nicht warum, aber darf man nicht. Okay. Und was ist das? Das ist eine autofreundliche äh Zone, nur für Autos. Was denn? Boah, wir werden die Prüfung gleich sowas von Er ruft Polizei an. Holen Sie sie ab, die … Vokabel, das heißt sowas wie transferieren. Ja. Genau. Okay, und wie funktioniert das in der Praxis? Es sieht so aus, auch hier musst du dir erstmal eine Fahrschule suchen. Musst nicht zum Theorieunterricht gehen, musst aber die Theorieprüfung machen und die Praxisprüfung. Auch bei der Praxis musst du nicht diese 12 x 45 Minuten machen, sondern quasi nur zur Prüfung gehen. Okay, das heißt, ich muss nicht die ganzen Stunden machen, ich kann nur die Prüfung machen, aber wenn ich noch nie in Deutschland Auto gefahren bin, ist es vielleicht ganz sinnvoll eine Fahrstunde oder auch ein paar … denn wir machen gleich die Theorieprüfung, wobei man muss sagen, wir simulieren die Prüfung, denn die Prüfungen finden nicht in der Fahrschule statt. Niemals. Die finden bei einer Prüfstelle statt, also beim TÜV oder bei der DEKRA. Was muss ich noch wissen vor der Theorieprüfung? Um da überhaupt teilnehmen zu dürfen, muss ich sie erstmal beantragen. Um diesen Antrag zu stellen, brauche ich einige Dinge und zwar einen Sehtest, ich muss einen Erste-Hilfe-Kurs absolviert haben, ich muss ein Foto, ein Passbild erstellen lassen, ich brauche meinen Ausweis oder meinen Pass und muss das Ganze … du sitzt schon am Rechner. Wann hast du denn deine Führerscheinprüfung gemacht? Vor 40 Jahren etwa und damals war alles nur Papier. Und ich habe meine Führerscheinprüfung vor 25, nee, 24 Jahren gemacht. Deswegen bin ich jetzt nervös. Würde ich überhaupt noch mal den Führerschein schaffen? Los geht's. Los geht's. Ich bin jetzt bei Frage 7. Und ich muss sagen, dass die Fragen auch sprachlich schwierig sind. Man muss sich wirklich konzentrieren, um die Frage richtig zu verstehen auf Deutsch. Die gute Nachricht ist aber, man kann so eine Theorieprüfung in Deutschland auch in anderen … bestanden. Versuche es noch mal. sehen. Okay, Tolga, hier haben wir meinen Laptop. Können wir das auch analysieren? Selbstverständlich. Wir geben die Prüfung mal ab. Nein! Wow! Nicht schlecht. 22 Fehlerpunkte, auch 12 zu viel. Okay, das heißt, ich muss meinen Führerschein abgeben oder neu machen. Warte, wir rufen die Polizei an und die sollen dich direkt abholen. Also, in Deutschland ist das so, man macht einmal den Führerschein, oft mit 17 oder 18 und behält den dann ein ganzes Leben. Ist das fair? Es gibt ein Thema im Theorieunterricht, der heißt lebenslanges Lernen. Ihr seid dazu … dich online? Auf allen Social-Media-Plattformen und ich heiße bester Fahrlehrer der Welt. Der beste Fahrlehrer der Welt und nächstes Mal, im nächsten Video, werdet ihr sehen, wie Janosch eine Praxisstunde macht. Janosch geht ins Auto und fährt mit Tolga durch Berlin. Hoffentlich falle ich da nicht durch. Danke, Tolga, fürs Mitmachen und bis zum nächsten Mal. Und vergesst nicht, es gibt das kostenlose PDF mit allen Infos hier unter dem Video. Das war peinlich, ne? Ja, du hast einen Führerschein und trotzdem hast du mehr Fehler gemacht als ich, der gar keinen Fehler hat. Das ist peinlich. Okay.",
@@ -60288,7 +61411,7 @@
  "Hin7gf6_I1w": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-15T22:27:06+00:00",
+  "checked": "2026-11-22T06:01:06+00:00",
   "title": "Paul trifft Paul aus 2026",
   "duration": 702,
   "published": "20261112",
@@ -60297,6 +61420,7 @@
   "pace": 151.0,
   "rare": 0.0348,
   "var": 0.787,
+  "cl": null,
   "speech_s": 605.7,
   "tokens": 1524,
   "kw": [
@@ -60419,6 +61543,128 @@
     292,
     2.3,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "echt",
+    "Bist du echt Paul 2021? Ja, setz dich auf das Sofa!",
+    77,
+    83,
+    5.34,
+    9
+   ],
+   [
+    "müssen",
+    "Ja, wir müssen Mama alleine retten!",
+    15,
+    18,
+    5.78,
+    8
+   ],
+   [
+    "mama",
+    "Ja, wir müssen Mama alleine retten!",
+    15,
+    18,
+    4.68,
+    4
+   ],
+   [
+    "papa",
+    "Was hast du vor, Papa? Ich hole Paul!",
+    20,
+    24,
+    4.46,
+    4
+   ],
+   [
+    "karibik",
+    "Die 1. Staffel mit Julia und der Karibik!",
+    652,
+    656,
+    3.71,
+    3
+   ],
+   [
+    "stirn",
+    "Ich kann meine Stirn nicht sehen!",
+    385,
+    387,
+    4.06,
+    2
+   ],
+   [
+    "eifersüchtig",
+    "Sei nicht eifersüchtig, Pia! Ich sehe zu gut aus!",
+    280,
+    285,
+    3.59,
+    1
+   ],
+   [
+    "hehe",
+    "Hehe! Ja, ein Witz! Pia 2021?",
+    260,
+    267,
+    3.57,
+    1
+   ],
+   [
+    "akzeptiere",
+    "Das akzeptiere ich nicht! Was hast du vor, Papa?",
+    18,
+    22,
+    3.54,
+    1
+   ],
+   [
+    "hübscher",
+    "Bist du öfters hier, Hübscher? Komm jetzt, Paul 2026!",
+    228,
+    234,
+    3.54,
+    1
+   ],
+   [
+    "pressen",
+    "Pressen Sie noch einmal! Ich kann nicht mehr!",
+    572,
+    576,
+    3.54,
+    1
+   ],
+   [
+    "period",
+    "Weil ich es kann! Period! Jetzt verstehe ich, was hier los ist!",
+    51,
+    59,
+    2.98,
+    1
+   ],
+   [
+    "boxershorts",
+    "Warum hat mein Vater nur eine Boxershorts an?",
+    147,
+    151,
+    2.86,
+    1
+   ],
+   [
+    "verlasst",
+    "Verlasst sofort dieses Krankenhaus! Kommt! Wir fahren zum Supermarkt!",
+    604,
+    610,
+    2.85,
+    1
+   ],
+   [
+    "parke",
+    "Ich parke mal! Ist hier der Ort, wo alles begonnen hat?",
+    554,
+    560,
+    2.84,
+    1
    ]
   ],
   "tx": "Wo ist dein Vater? Du bist doch mein Vater! Ich meine Paul 2026! Achso, der ist in der Kugel! Paul ist also noch in der Zukunft! Ja, er hatte Angst mitzukommen! Er hat euch also alleine gelassen? Ja, wir müssen Mama alleine retten! Das akzeptiere ich nicht! Was hast du vor, Papa? Ich hole Paul! Das habe ich nicht erwartet! Du siehst hübsch aus, Marianne! Ach, meine Süße.. Üheuheu! Bist du bescheuert, Paul? Wer bist du? Öffne deine Augen, Paul 2026! Woher kennst du meinen Namen? Ey, du siehst voll gut aus! Ich bin aus 2021! Warum sagst du alles doppelt? Weil ich es kann! Period! Jetzt verstehe … Paul! Warum redest du so komisch und langsam? Du redest komisch! Geht es Mia und Max gut in 2021? Ja, aber wir müssen Pia retten! Haha, ich liebe dich so sehr! Du liebst mich? Ach, Marianne! Lass Marianne in Ruhe! Was stimmt nicht mit diesem Paul? Oh, du bist ja immer noch hier! Du solltest mal zum Psychiater gehen! Da war ich schon! Du kommst jetzt mit mir in diese Kugel! Nein, das werde ich nicht! Willst du unsere Pia nicht retten? Wir können Pia nicht mehr retten, Paul! Liebst du sie nicht? Doch, ich liebe sie! Aber man kann DV nicht vertrauen! Wer ist DV? Ach ja, 2021 wusste ich … Wir können DV nicht vertrauen! Ist das echt mein Vater in 5 Jahren? Oh! Hallo, Schatz! Ich war auch geschockt! Kannst du mich anfurzen, damit ich wach werde? Hui, das war heftig! Ich bin gestört von mir selbst! Aber irgendwie bin ich witzig geworden! Was ist dieser Zettel an der Wand? Geht zu dem Ort, wo alles begonnen hat! Hm, das habe ich noch gar nicht gesehen! Das ist ein Hinweis von DV! Wo hat denn alles begonnen? Hattest du nicht eine Idee, Max? Ja, wir fahren in 5 Minuten los! Gut, lasst uns Pia retten! Du ziehst dir erstmal etwas an! Okay, dafür muss ich zurück nach 2026! Dafür … Komm jetzt, Paul 2026! Ich komme! Warum braucht dein Vater so lange? Keine Ahnung! Du kennst dich am besten! Paul 2026 ist aber so anders! Max fehlt auch noch! Ich kann immer noch nicht glauben, dass ich noch ein Kind bekomme! In 2026 hast du mehr Falten! Äh, danke! Ich freue mich dich zu bekommen, Max! Du bekommst sogar noch Zwillinge nach mir! Ein guter Witz, Max! Hehe! Ja, ein Witz! Pia 2021? Dir geht es gut hier! Oh je! Jetzt wird es spannend! Warum hast du meine Kleider an, Paul? Hä? Das mache ich doch oft! Das weißt du doch! Nein! Das wusste ich gar nicht! Warum tust du sowas? … Das ist mein Papa aus 2026! Jetzt verstehe ich das! Wer ist der hübschere Paul, Pia? Was ist hier los? Was ist mit mir passiert? Was hast du, Paul 2021? Was ist in den 5 Jahren passiert, Paul? Ich rasiere jetzt meine Achselhaare! Ich kann das alles nicht glauben! Und meine Beine auch manchmal! So wirst du auch in 5 Jahren sein, Paul 2021! Oh Gott! Was hat er denn? Ich finde nicht gut, was mit dir passiert ist, Paul! Also ich finde mich gut! Nein! Ich bin völlig geschockt! Komm Max! Wir retten Pia! Warum müsst ihr mich retten? Äh, das erzählen wir dir später! Komm zurück, Paul 2021! Ich … Egal! Erkläre ich dir später! Sieht Paul 2026 echt besser aus als ich? Vielleicht sollte ich wie er werden! Ich bin sauer! Warum bist du sauer? Ich kann meine Stirn nicht sehen! Äh, guck doch in den Spiegel! Ich bin ein Genie! Hä, das war doch meine Idee! Aber ich bin du, also ist es auch meine Idee! Mach, was du willst, Alter! Findest du, dass wir eine große Stirn haben? Ja, da könnte ein Flugzeug drauf landen! Warum guckst du mich so an? Es muss echt einen Grund geben, warum ich so geworden bin! Ich muss diesen Grund rausfinden! Und wir müssen Pia retten! Ich sage echt alles doppelt, … Pia! Dann lasst uns mal gehen! Das Abenteuer kann beginnen Rede normal oder du bleibst hier! Dann rede du auch normal! Ich rede doch normal! Der checkt echt nicht, dass er alles doppelt sagt! Dieses Abenteuer wird wild, Alter! Haben wir 2026 ein krasseres Auto? Nein! es ist alles voll teuer geworden! 2026 ist leider nicht mehr normal! Ich trage seit einem Jahr die gleiche Windel, Alter! Windeln sind echt teuer geworden! Lasst uns jetzt Mama retten! Ja, los geht's! Irgendwas stimmt hier nicht! Ich habe irgendwie ein schlechtes Gefühl! Wo müssen wir hin, Max? Dahin, wo alles begonnen hat! … müsstest doch 18 sein! Ich glaube DV will, dass ich 16 bleibe! Ach DV, ach.. Ich verstehe nicht, wer dieser DV ist! Der wollte mich mal umbringen! Habt ihr die Polizei gerufen? Nein! Gott hat ihn fertig gemacht! Das war lustig! Was passiert alles in der Zukunft, Alter? Wir sind jetzt da! Warum sind wir beim Krankenhaus in Düsselstadt? Hier hat alles begonnen! Stimmt! Wir wurden hier alle geboren! Du bist ein Geniem Max! Das hat er von mir! Ich parke mal! Ist hier der Ort, wo alles begonnen hat? Äh, was? Wurden wir hier alle geboren? Das kann sein! In welchem Raum werden die Babys geboren? … Da ist eine Nachricht von DV! Was steht da? Haha! DV nennt euch Idioten! Aber warum sollten wir in den Supermarkt? Das ist bestimmt eine Falle von DV! Mein Baby kommt! Verlasst sofort dieses Krankenhaus! Kommt! Wir fahren zum Supermarkt! Herzlichen Glückwunsch! Ich hoffe, es wird ein Baby! Verschwinden Sie! Schämen Sie sich, ich habe eine Frau! Warum müssen wir in den Supermarkt? Hm, also hat alles im Supermarkt begonnen! Ich bin gespannt, was DV vorhat! Und was sollen wir jetzt hier? Ich habe keine Ahnung! Wenn wir schon mal hier sind, kaufe ich Müsli! Ah, hier ist das Müsli! Hallo! … ist so legendär, Alter! Ich verstehe nicht, was hier los ist! Es tut mir leid, was jetzt passiert, Mia! Was passiert denn? Gib mir deine Nummer! Dann können wir uns treffen! Ja, gerne! Papa betrügt gerade Mama! Wir müssen ihn aufhalten! Nein, die 1. Staffel muss beginnen! Wir dürfen die Vergangenheit nicht ändern! Aber warum? Sonst können wir Mama nicht retten! Julia muss Papa entführen! DV ist so ein Genie! Das wird so heftig werden.. Wir werden die Karibik Staffel erleben! Seid ihr bereit für die Karibik Staffel? Dann abonniert und aktiviert die Glocke! Und klickt auf dieses Video von DV!",
@@ -71989,6 +73235,2382 @@
    ]
   ],
   "tx": "Okay, wo ist jetzt meine To-Do-Liste? Ihr beiden. Heute ist Peppa Wutz zum Spielen in Luisa Löffels Bauch. Aha, das nehme ich. Wie hast du das denn gemacht? Bist du eine Zauberin? Wir Hasen haben spezielle Geheimtunnel und zwar überall. Wow. Kommt ihr zwei, ich zeige es euch, während wir meine Liste abarbeiten. Ja. Oh. Wow. Oh, Mama Löffels Bauch hat wirklich einen geheimen Tunnel. Hallo. Kommt schon ihr zwei. Wir sind da. Der erste Halt ist der Supermarkt. Aber liegt der Supermarkt nicht über der Erde? Ja und nein. Hallo. Mama Löffels geheimer Tunnel hat sie zum Supermarkt geführt. Hallo … aber wir haben so lange alles durchgemischt, bis es ihnen geschmeckt hat. Manche brauchen etwas länger, bis ihnen Babynahrung schmeckt. Bist du bereit, alles zu probieren? Wir können mit dir raten, was es ist. Ja, da ist Peppa voll dabei. Alles klar, Efi. Nummer eins ist Gelb. Hier, guck mal da, Efi. Schmeckt es dir? Efi weiß nicht recht, ob's ihr schmeckt. Das hier ist cremig und lecker. Und süß. Oh, es ist Banane-Banane. Gut geraten, ihr zwei. Und los geht's. Lasst uns weiter probieren. Die nächste Babynahrung ist grün. Der ist gar nicht süß. Er ist Der Müsli. Denn das Erbsen Oder ist es … Peppa. Deswegen machen sie einem, ups, sehr viel Arbeit. Du warst genauso. Ich habe nie gekleckst, niemals, niemals, nie. George nicht. Was, oh, ist denn los mit dir, Alexander? Du isst doch gerne. Koste mal. Hier kommt das Flugzeug. Ich ziehe mir besser ein frisches Hemd an. Oh, ich hab's. Vielleicht kann Teddy helfen. Ich weiß nicht recht, Peppa. Es ist jetzt Picknickzeit, mein kleiner Teddybär Alexander. Hm, lecker, das schmeckt super. Tada! So, viel besser. Oh, natürlich. Ich finde, Rot steht dir gut. Alexander, welche willst du? Die grüne, die rote oder die gelbe Nahrung? Das grüne? … ähm äh Hat jemand von euch die Weidenkörbe gesehen? Ich seh hier drüben nach Papa Wutz. Uh, ich hab's. Fragen wir den Osterhasen doch einfach selber. Peppa und ihre Freunde denken sich einen Plan aus, um den Osterhasen zu erwischen. Der Osterhase lebt bestimmt in einer Höhle und isst Karotten, so wie Luisa. Oh, dann lasst uns ein Loch buddeln und Karotten hinlegen. Dann kommt der vielleicht und isst. Ja. Die Höhle ist bereit für die Karotten. Ja. Jetzt müssen wir uns verstecken. Oh, die Karotten sind gewachsen. Wie lustig. Ich erinnere mich gar nicht, Karotten gepflanzt Wer hat dieses Loch … dieses große schweineförmige Ei? Warte, Papa. Kein Ei. Das ist kein Ei, ist Peppa. Ach, wirklich? Du hast recht. Nun gut, lasst die Ostereiersuche beginnen. Hurra! Jetzt suchen alle nach leckeren Schokoladen-Ostereier. Ich habe eins. Habe eins. Und hier ist auch eins. Mein Cousin hat dasselbe Outfit. Mit Peppas Kinderwagen sind Peppa und George etwas langsamer als ihre Freunde. Tschuldigung. Zu langsam, tut mir leid. Hier ist noch ein Ei. Ich habe eins gefunden. Ja. Bitteschön, Peppa. In Peppas Kinderwagen kann man gut die ganzen Eier ablegen. Hier ist auch noch eins. Ah, jedoch Ähm, wo sind … Peppas Familie alles für das neue Babyzimmer vor. Heute ist Renovierungstag. Ich gehe die Vorhänge abholen. Bin bald wieder da. Habt Spaß! Haben wir. George, vielleicht fängst du mit einem kleineren Pinsel an. Wie wär's mit einem lila Prinzessinnenzimmer? Nein, Dinosaurier! Vergesst nicht, wir streichen dieses Zimmer für das neue Baby, nicht für uns. Wie wär's mit einem leuchtenden Gelb? Ja! Na gut, Wutz-Team. Auf die Plätze, fertig, weicht! Aha, da sind sie ja. Uh, fürs Babyzimmer könnten wir eine Uhr gebrauchen. Versucht es so. Pinsel hoch, Pinsel tief. Pinsel hoch. Pinsel tief. Mal ein … an unser erinnert. Wow, es ist wunderschön. Das habt ihr toll gemacht. Ich bin sicher, das Baby wird das Zimmer genauso lieben wie ihr. Das wird hier oben toll aussehen. Das neue Zimmer ist komplett geschmückt und bereit für das Baby. Mama, wo sind denn die Vorhänge? Oh je. Bis auf die Vorhänge, die fehlen noch. Sie sind da. Leg los, Peppa. Heute feiert Peppas Familie ihr Haus mit einer besonderen Hausfeier. Dann habe ich gesagt, das ist keine Schlammpfütze. Das ist Evis Oh. Papa, wieso feiern wir eigentlich das Haus? Wir wohnen ja schon eine Weile hier. Bei einer Hausfeier geht's darum, … und jetzt finde ich gar keinen. Oh, das muss sehr hart sein. Lass uns beide einmal durch den Bauch atmen. Schade, dass du niemanden gefunden hast, aber heute geht doch vor allem darum, das Haus mit Erinnerungen zu füllen. Ja. Versuch es doch einfach weiter und du wirst sehen, wie viel Spaß man im Haus haben kann. Haha, du hast mich gefunden. Ja, hab ich. Hilfst du mir dabei, die anderen zu finden? Ja. Peppa liebt ihr Haus. Ich hab dich. Und sie liebt es besonders, die vielen neuen Plätze zu erkunden und Verstecken zu spielen. Hab dich. Heute gönnt sich Peppa einen ruhigen Nachmittag … Du wirst mich nie erwischen. Doch, das werde ich. Irgendwas brennt an. Hätten wir nur mein Rezept befolgt. Ah, perfekt. Ruhe und Frieden, ganz für mich allein. Oh je, Peppas ruhiges Plätzchen wird ihr etwas zu ruhig. Ganz allein macht es ihr doch keinen Spaß. Vielleicht ist es bei den anderen lustiger, auch wenn es manchmal ziemlich laut sein kann. Das Essen ist fertig, ihr Lieben. Habt ihr das Wahnsinnsspiel gesehen? Platz da, lasst mich durch. Wartet, wo ist Peppa? Ist es normal, dass der Tisch leuchtet? Oh, ähm, hallo zusammen. Ich habe mir einen Platz zum Lesen gesucht, aber … Oh, noch mehr Kuchen. Danke, George. Ich weiß, ich esse für zwei, aber Oh, lasst mich raten. Dachte ich mir. Ist eine lustige Geschichte. Mehr. Oh, nur ein bisschen größer. Oh, das reicht schon. Ähm, nicht das Foto. Bestellung bestätigt. Ja, Juhu. Hier ist noch mehr Kuchen für noch mehr Muttertag. Danke euch. Teilen wir ihn doch mit allen, die wir kennen. Oh, ist das etwa das, was ich denke? Alles Gute zum noch mehr Muttertag. Was für eine hübsche, riesige Karte. Mama Wutz weiß, dass weniger mehr ist. Eine Sache fehlt aber noch. Aber eine Sache hätte sie noch gerne. Eine Familienumarmung.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "2mcB5cgCQQw": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T04:50:53+00:00",
+  "title": "tagesthemen 23:10 Uhr, 21.11.2026",
+  "duration": 1194,
+  "published": "20261121",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 148.4,
+  "rare": 0.103,
+  "var": 0.8765,
+  "cl": null,
+  "speech_s": 1162.7,
+  "tokens": 2875,
+  "kw": [
+   [
+    "gruppen",
+    "Gruppen äh von Staaten und sie sind in",
+    314,
+    318,
+    4.9,
+    9
+   ],
+   [
+    "sehen",
+    "festzuschreiben. Beobachter sehen den Grund für Verzögerungen auch bei der",
+    173,
+    180,
+    5.69,
+    8
+   ],
+   [
+    "gerade",
+    "ist die große Runde gerade wieder",
+    60,
+    65,
+    5.77,
+    7
+   ],
+   [
+    "allem",
+    "Kern von allem. Darum, ob die knapp 200",
+    68,
+    74,
+    5.58,
+    7
+   ],
+   [
+    "autobahn",
+    "auch die Autobahn 99. Die ist zwar",
+    365,
+    371,
+    4.43,
+    5
+   ],
+   [
+    "daniel",
+    "Gladbachs Torwart Daniel Batz mehrfach stark, schon zu Beginn beim Schuss von",
+    790,
+    798,
+    4.69,
+    4
+   ],
+   [
+    "felix",
+    "Tabellenletzten in Gladbach, wobei Felix Mitger erst kurz vor Tore erlösende",
+    756,
+    764,
+    4.4,
+    4
+   ],
+   [
+    "bvb",
+    "Bayern. Gestern hat der BVB heute seine",
+    748,
+    753,
+    4.2,
+    4
+   ],
+   [
+    "gladbach",
+    "Tabellenletzten in Gladbach, wobei Felix Mitger erst kurz vor Tore erlösende",
+    756,
+    764,
+    3.93,
+    6
+   ],
+   [
+    "bewaffneten",
+    "zahlreichen bewaffneten Organisationen angelockt oder entführt wurde. Als",
+    531,
+    540,
+    3.82,
+    5
+   ],
+   [
+    "zustimmen",
+    "keinen Fall zustimmen. Ich glaube nicht, dass das ein Weg ist,",
+    154,
+    161,
+    4.1,
+    4
+   ],
+   [
+    "nasa",
+    "NASA. Beim Unterricht hilft auch die",
+    582,
+    588,
+    3.82,
+    4
+   ],
+   [
+    "antalya",
+    "Weltklimakonferenz in Antalya kann man darauf allerdings kaum noch hoffen.",
+    43,
+    51,
+    3.02,
+    4
+   ],
+   [
+    "fossilen",
+    "den fossilen Energien, Kohle, Gas und",
+    143,
+    148,
+    3.46,
+    3
+   ],
+   [
+    "tagesthemen",
+    "mit den Tagesthemen. Heute im Studio Jörg Schönenborn und",
+    21,
+    31,
+    3.04,
+    3
+   ],
+   [
+    "atp",
+    "Bei den ATP Finals in Turin hat",
+    988,
+    993,
+    3.48,
+    2
+   ],
+   [
+    "guardia",
+    "Guardia, Guardia. Diese Kinder lernen nicht nur lesen und",
+    571,
+    581,
+    2.65,
+    4
+   ],
+   [
+    "kindersoldaten",
+    "Kindersoldaten sind Jungen und Mädchen Teil des Gerildia Kampfes, der das Land",
+    536,
+    545,
+    2.76,
+    3
+   ],
+   [
+    "batz",
+    "Gladbachs Torwart Daniel Batz mehrfach stark, schon zu Beginn beim Schuss von",
+    790,
+    798,
+    2.26,
+    3
+   ],
+   [
+    "delegationen",
+    "gleich vorgelegt und die Delegationen haben dann Zeit bis morgen früh um 6 Uhr",
+    229,
+    237,
+    2.96,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "morgen",
+    "Am Morgen das Gelände fast verweist. Die",
+    115,
+    120,
+    5.43,
+    7
+   ],
+   [
+    "eben",
+    "Umweltminister hat gerade eben hier gesagt, ein neuer Textentwurf wird jetzt",
+    226,
+    232,
+    5.39,
+    7
+   ],
+   [
+    "türkei",
+    "Türkei und die Australien noch viel",
+    183,
+    188,
+    4.78,
+    3
+   ],
+   [
+    "wetter",
+    "Wir gucken noch aufs Wetter. Pila, was",
+    1074,
+    1080,
+    4.76,
+    3
+   ],
+   [
+    "ausstieg",
+    "vereinbart ist, den Ausstieg aus dem",
+    74,
+    79,
+    3.8,
+    4
+   ],
+   [
+    "energien",
+    "den fossilen Energien, Kohle, Gas und",
+    143,
+    148,
+    4.12,
+    3
+   ],
+   [
+    "spitzenreiter",
+    "Spitzenreiter und tatsächlich steht München da ganz vorne mit dabei. Fast",
+    350,
+    358,
+    3.46,
+    2
+   ],
+   [
+    "beschädigung",
+    "Beschädigung dieses doch einzigartigen Prozess der Weltklimakonferenzen, wo",
+    291,
+    297,
+    3.39,
+    2
+   ],
+   [
+    "tagesverlauf",
+    "Tagesverlauf mit sinkender Schneefallgrenze. Im Laufe der Woche",
+    1106,
+    1112,
+    2.86,
+    2
+   ],
+   [
+    "überforderten",
+    "komplett überforderten Unioner noch tiefer in die Krise. 5:1 gewann RB,",
+    855,
+    863,
+    2.78,
+    2
+   ]
+  ],
+  "tx": "Hier ist das erste deutsche Fernsehen mit den Tagesthemen. Heute im Studio Jörg Schönenborn und Andreas Keckel. Herzlich willkommen. Schön, dass Sie dabei sind. Schönen guten Abend. Wenn sich Verhandlungen in die Länge ziehen, muss das kein schlechtes Zeichen sein. Manchmal setzen geschickte Verhandler einfach auf den Faktor Zeit, um das Beste rauszuholen. Bei der Weltklimakonferenz in Antalya kann man darauf allerdings kaum noch hoffen. Eigentlich sollte sie nach 12 Tagen Verhandlungen gestern Abend zu Ende gehen. Erst wurde sie Mangelseinigung bis heute verlängert. Dann standen die … im aktuellen Textentwurf. Dem will der Klimaminister vom Inselstaat Tvalu auf keinen Fall zustimmen. Ich glaube nicht, dass das ein Weg ist, die Wirtschaft großer Länder zu retten. Es geht um konkrete Ergebnisse und es geht ums Überleben der Menschen. Deutschland steht hinter Tuvalu. Mit weiteren Ländern fordert es am Nachmittag bei der Konferenzpräsidentschaft den Ausstieg aus fossilen Energien im Text festzuschreiben. Beobachter sehen den Grund für Verzögerungen auch bei der Konferenzpräsidentschaft. Es ist schon schade, dass wir hier wieder in die Verlängerung gehen mussten. Wir … gesagt haben, da können wir nicht zustimmen. Das war jetzt doch überraschend. Die Sitzung war kurzfristig anberommt worden, dann wurden erst ein paar kleinere Details verhandelt und dann kam Mert Kurum und hat eben diese Botschaft gerade eben verkündet. Ja, ein spannender Moment noch wissen wir offenbar nicht, was jetzt genau drin steht. Wenn es dann doch kein Kompromiss sein sollte, wenn es doch scheitern sollte, welche Folgen hätte das? Also, ich halte das auch nach wie vor für möglich, dass das auch noch scheitern kann, denn ähm viele sind da sehr entschlossen. Ein Scheiter in dieser … mit 100.000 1000 Fahrzeugen am Tag eher durchschnittlich befahren. Trotzdem herrscht immer Stillstand, wenn sie ausfällt, denn es gibt kaum Ausweichruten. Weil nun eine Brücke über die A99 abgerissen wird, ist der Abschnitt bis Montagmgen komplett gesperrt. Startschuss gestern Abend. Das Team von Helmut Meilhammer hat jetzt 56 Stunden Zeit, um diese Bundesstraßenbrücke abzureißen. Danach soll die 15 km lange Sperrung der Autobahn 99 östlich von München aufgehoben werden. Damit die Abbriten die Fahrbahn nicht beschädigen, werden 40 cm Kies als Schutzschicht darauf gekippt. Jetzt … sagen, dass wir jetzt genauso im Zeitplan drin sind, wie wir das uns vorgestellt haben, weil es war immer geplant, dass wir ab morgen früh mit LKWs wegfahren und das werden wir auch genauso machen. Noch 28 Stunden. Am Montagmorgen muss der Verkehr auf der A99 wieder rollen. Die roten Hände auf weißem Tuch sind ein Symbol und sie sind ein Schrei nach Hilfe. Jeder Hand steht für ein Kind, das in Kolumbien von einer der zahlreichen bewaffneten Organisationen angelockt oder entführt wurde. Als Kindersoldaten sind Jungen und Mädchen Teil des Gerildia Kampfes, der das Land seit Jahren prägt. … rekrutierte Jugendliche wieder freizubekommen und verhandelt mit den Kampfgruppen. So gelingt, wenn auch selten einigen der Ausstieg wie Sebastian und Gilder 15 und 18 Jahre alt. Ich habe nur den Luxus gesehen, aber es war hart, ganz anders als ich es mir vorgestellt hatte. Um 3 Uhr nachts, der Wachpost war eingeschlafen, hat uns die Armee angegriffen. Das war mein erster Kampf. Da dachte ich mir, ich will mich nicht nur verstecken, um zu überleben. Heute versuche ich andere Jugendliche davon abzuhalten, zu den Gruppen zu gehen. Ich warne sie, denn dort würden sie nur den Tod finden. … wusste, bei wem er sich zu bedanken hatte. Felix Matcher, der deutsche Nationalspieler erzielte in Gladbach in der 80. Minute das Siegtor, aber etwas Glück war auch dabei. Ich glaube, ich habe mehrmals in meiner Karriere bessere getroffen als heute, aber ja, ich freue mich und war ein sehr wichtiger Sieg für uns. Bis zu seinem Fehlgriff parierte Gladbachs Torwart Daniel Batz mehrfach stark, schon zu Beginn beim Schuss von Felix Metcher. Das Spiel in der ersten Halbzeit ausgeglichen, auch Gladbach hatte Chancen allen voran durch Joe Gelly. Mit 0:0 ging es in die Pause. Auch danach war es … mit 1:0 in Führung. Weil die Gäste in der Folge zahlreiche Chancen liegen lassen, kann Michel Ebischer kurz vor der Pause zum ein Z ein Ausgleichen. Es ist das letzte Erfolgserlebnis für Lustrinellis Team, denn nach dem Wechsel zeigt Leipzig seine Offensivqualitäten. Gruder mit feiner Vorarbeit. Romolo erzielt die 2:1 Führung. Das 3:1 macht Brian Gruder selbst. Der Nationalspieler glänzt erneut, verlässt danach das Feld. Der eingewechselte Rocco Reiz erhöht kurz im Anschluss auf 4:1. Den Schlusspunkt setzt Riedle Baku. Leipzig siegt mit 5:1 bei überforderten Unionern. Brian Gruders … beiden Spieler. Das zuvor zwar hochklassige, aber Höhepunkt Armeespiel nimmt immer mehr Fahrt auf. Die Rallyys sind jetzt deutlich länger und spektakulärer. Das unter der Woche leicht schmerzende Sprunggelenk bei Serefeld, dem aber problemlos stand. Der Schlüssel für den Hamburger bleibt der eigene Aufschlag, der im gesamten Match kein einziges Mal in Gefahr gerät. Und so kann Sverev nach einer Stunde 26 den Satz auserweren und den Finaleinzug feiern. Dort trifft der Deutsche morgen Abend auf die spanische Nummer 3 der Weltrangliste Carlos Alkeras. Wir gucken noch aufs Wetter. Pila, was … Temperaturen heute Nacht zwischen 4 und -4°, morgen tagsüber dann meist bis 7°. Ja, und in den nächsten Tagen am Montag noch mal im Osten einzelne Regen oder Schneeschauer. Ansonsten von Westen her deutlich ruhigeres Wetter. Auch am Dienstag dann viele Orts Hochdruckwetter, aber wir sehen, die Temperaturen gehen schon ein ordentliches Stück zurück. Es wird erstmal kalt. Ja, sehen wir. Danke, Pila. Das waren dann die Tagesthemen am Samstagabend. Hier folgt das Wort zum Sonntag. Ja, und die Tagesthemen sind morgen wieder für Sie da um 22:45 Uhr. Bis dahin, tschüss und lassen Sie sich gut gehen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "9tDQ0E1FUEg": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T04:52:58+00:00",
+  "title": "tagesschau 20:00 Uhr, 21.11.2026",
+  "duration": 929,
+  "published": "20261121",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 142.0,
+  "rare": 0.1051,
+  "var": 0.8665,
+  "cl": null,
+  "speech_s": 909.0,
+  "tokens": 2151,
+  "kw": [
+   [
+    "abend",
+    "Guten Abend, ich begrüße Sie zur",
+    17,
+    21,
+    5.32,
+    6
+   ],
+   [
+    "münchen",
+    "München mit dem Auto unterwegs ist, muss",
+    429,
+    435,
+    5.32,
+    6
+   ],
+   [
+    "morgen",
+    "morgen hieß es noch, der neue",
+    192,
+    197,
+    5.43,
+    5
+   ],
+   [
+    "länder",
+    "nicht alle Länder zustimmen. Streitpunkt ist unter anderem der Ausstieg aus",
+    39,
+    48,
+    4.89,
+    5
+   ],
+   [
+    "regen",
+    "Wolken mit Regen und Schnee. An den",
+    858,
+    863,
+    4.63,
+    6
+   ],
+   [
+    "minute",
+    "in der 56. Minute. Im Anschluss aber",
+    724,
+    730,
+    4.79,
+    4
+   ],
+   [
+    "dortmund",
+    "Zum Sport. Borussia Dortmund ist neuer",
+    676,
+    682,
+    4.68,
+    4
+   ],
+   [
+    "felix",
+    "gewann der BVB 1 zu 0. Felix Nmecha",
+    683,
+    691,
+    4.4,
+    4
+   ],
+   [
+    "mönchengladbach",
+    "Im Borussia-Duell in Mönchengladbach gewann der BVB 1 zu 0. Felix Nmecha",
+    681,
+    691,
+    4.02,
+    4
+   ],
+   [
+    "ähm",
+    "Saudi-Arabien. Ähm, das ist also jetzt",
+    169,
+    174,
+    4.12,
+    3
+   ],
+   [
+    "maut",
+    "über eine PKW-Maut nachgedacht. Diesmal aber nicht über die vor Gericht",
+    400,
+    408,
+    3.89,
+    3
+   ],
+   [
+    "ausstieg",
+    "ist unter anderem der Ausstieg aus",
+    42,
+    48,
+    3.8,
+    3
+   ],
+   [
+    "cop",
+    "Bei der Weltklimakonferenz COP 31 im",
+    20,
+    26,
+    3.5,
+    3
+   ],
+   [
+    "fossilen",
+    "fossilen Energien Kohle, Gas und Öl",
+    75,
+    80,
+    3.46,
+    3
+   ],
+   [
+    "bergland",
+    "oder Graupel, im Bergland auch Schneeschauer, sonst zum Teil klar,",
+    864,
+    871,
+    3.16,
+    3
+   ],
+   [
+    "antalya",
+    "türkischen Antalya zeichnet sich weiter keine Einigung ab. Auch Minister der",
+    23,
+    31,
+    3.02,
+    3
+   ],
+   [
+    "abgereist",
+    "sind bereits abgereist. Ursprünglich war das Ende des Gipfels für gestern",
+    30,
+    38,
+    2.97,
+    2
+   ],
+   [
+    "detox",
+    "Detox-Programm für Jugendliche im australischen Queensland.",
+    589,
+    595,
+    2.82,
+    2
+   ],
+   [
+    "streitpunkt",
+    "nicht alle Länder zustimmen. Streitpunkt ist unter anderem der Ausstieg aus",
+    39,
+    48,
+    2.79,
+    2
+   ],
+   [
+    "elversberg",
+    "zuletzt gegen Elversberg entscheidet der deutsche Nationalspieler die Partie für",
+    741,
+    748,
+    2.75,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "andere",
+    "Kräfte bündeln und gemeinsam auf andere",
+    120,
+    125,
+    5.75,
+    4
+   ],
+   [
+    "gestern",
+    "das Ende des Gipfels für gestern",
+    33,
+    38,
+    5.15,
+    4
+   ],
+   [
+    "brauche",
+    "helfen will, dann brauche ich ja",
+    342,
+    346,
+    4.76,
+    3
+   ],
+   [
+    "brücke",
+    "eine marode Brücke über die Autobahn",
+    434,
+    439,
+    4.61,
+    3
+   ],
+   [
+    "wolken",
+    "Wolken mit Regen und Schnee. An den",
+    858,
+    863,
+    4.17,
+    2
+   ],
+   [
+    "brücken",
+    "Man muss einfach sehen, die Brücken, die",
+    512,
+    517,
+    4.13,
+    2
+   ],
+   [
+    "verzögerungen",
+    "Grund für Verzögerungen auch bei der",
+    106,
+    111,
+    3.53,
+    2
+   ],
+   [
+    "präsidentschaft",
+    "Nachmittag bei der COP-Präsidentschaft den Ausstieg aus fossilen im Text",
+    100,
+    107,
+    3.45,
+    2
+   ],
+   [
+    "tiktok",
+    "Plattformen wie Instagram, TikTok oder YouTube.",
+    570,
+    577,
+    2.31,
+    2
+   ],
+   [
+    "batz",
+    "Torhüter Daniel Batz einmal daneben griff.",
+    699,
+    705,
+    2.26,
+    2
+   ]
+  ],
+  "tx": "Hier ist das erste Deutsche Fernsehen mit der Tagesschau. Heute im Studio Jens Riewa. Guten Abend, ich begrüße Sie zur Tagesschau. Bei der Weltklimakonferenz COP 31 im türkischen Antalya zeichnet sich weiter keine Einigung ab. Auch Minister der insgesamt fast 200 Teilnehmerstaaten sind bereits abgereist. Ursprünglich war das Ende des Gipfels für gestern geplant, doch dem vorliegenden Entwurf für eine Ausstiegserklärung wollten nicht alle Länder zustimmen. Streitpunkt ist unter anderem der Ausstieg aus Kohle, Öl und Gas. Das Gelände fast schon verwaist, die meisten Gipfelteilnehmer längst … haben aber auch gesehen, dass gerade die Türkei und die Australien noch viel Parallelverhandlungen geführt haben und das ist wichtig, dass jetzt einfach ihre Kräfte bündeln und gemeinsam auf andere Länder zugehen und da Kompromisse schließen. Der große Plenarsaal leer. Kein Zeitplan, wie und wann es hier zu einem Abschluss kommen soll. Die Weltklimakonferenz ist deutlich in der Verlängerung und ein Ergebnis nicht in Sicht. Benjamin Weber in Antalya, warum ist es so schwer, sich auf einen Abschlussdokument zu einigen? Ja, so ein Abschlussdokument auf einer Weltklimakonferenz muss einstimmig … ist ein schlechtes Zeichen. Aber auch wenn wir jetzt hier diese Klimakonferenz beenden würden mit einem äh einer Art Minimalkompromiss, wenn man sich doch noch irgendwie auf den letzten Metern einigen könnte, stellt sich ja auch die Frage, was würde das eigentlich bedeuten am Ende eines Jahres mit vielen Klimaextremen Ereignissen, wie z.B. dem Gletschersturz in Nepal oder der Hitze in Europa, wäre das für mehr Klimaschutz in der Welt sicherlich auch kein besonders starkes Zeichen. Vielen Dank, Benjamin Weber nach Antalya. Ob Mett oder Kotelett, Schweinefleisch ist nach wie vor ein fester … und wir haben ein sehr schwieriges Marktumfeld in Zusammenhang mit Schlachthöfen und äh Lebensmitteleinzelhandel. Aktuell mache er mit jedem Schwein, dass er aufzieht, 70 Euro Minus, sagt Dierauf. Die Bundesregierung will gegensteuern mit einem Nothilfeprogramm. 25 Millionen Euro zinsvergünstigte Darlehen sollen den Schweinehaltern helfen. Mir ist es wichtig, dass wir unsere Fleischproduzenten auch in unserem Land halten. Das ist einmal Ernährungssouveränität auf der einen Seite und es gibt kein anderes Land, in dem der Tierschutz gerade in der Nutztierhaltung so eine große Rolle spielt … Vertrag erst im Laufe des Jahres abschließt, bekommt noch die volle Förderung. Im Bundesverkehrsministerium wird wieder über eine PKW-Maut nachgedacht. Diesmal aber nicht über die vor Gericht gescheiterte Vignette, die unter dem Strich nur Ausländer bezahlen sollten, sondern über eine streckenbezogene Maut für alle. Vorgeschlagen wird sie in einem vertraulichen Gutachten, das dem Magazin Der Spiegel vorliegt. Darin heißt es, die LKW-Maut allein werde auf Dauer nicht ausreichen, um die Infrastruktur zu finanzieren. Wer an diesem Wochenende in und um München mit dem Auto unterwegs ist, muss … Abend. Es sind nicht so viele Fahrzeuge, wie es in normalen anderen Wochenendtagen wären. Wir haben uns eigentlich das perfekte Wochenende dazu ausgesucht. Die Bundesstraßenbrücke wurde 1973 erbaut. Im Laufe der Jahre haben vor allem die vielen LKW irreparable Schäden erzeugt. Man muss einfach sehen, die Brücken, die damals gebaut worden sind, die sind für eine völlig andere Verkehrsbelastung gedacht und damit hat kein Mensch gerechnet, dass hier so viel Verkehr drauf kommt und das setzt den Brücken einfach zu. Zurzeit fließt der Bundesstraßenverkehr mit Tempo 50 über eine Behelfsbrücke. … Alice, beide 14, wurden von ihren Eltern angemeldet. Neun Stunden täglich sind sie am Handy trotz des Social-Media-Verbots. Ich habe noch alle Apps und Accounts. Ich wurde nicht gesperrt, viele meiner Freunde auch nicht. Ein anderes Alter angeben ist der einfachste Trick, das Gesetz zu umgehen. Laut aktuellen Studien sind mehr als 80% der Jugendlichen weiterhin auf TikTok, Snapchat, Instagram und Co. Dabei müssten das die Tech-Konzerne verhindern. Knapp ein Jahr nach Inkrafttreten des Verbots erhebt die zuständige Ministerin Vorwürfe. Ich denke, sie tun nur das Nötigste. Sie wollen, dass … in Mönchengladbach, weil Felix Nmecha spät traf und Gladbach zuvor so guter Torhüter Daniel Batz einmal daneben griff. Gleich zu Beginn parierte Batz stark, Dortmund in Schwarz, Felix Nmecha mit Links nach fünf Minuten. Die erste Hälfte weitestgehend ausgeglichen. Auch Gladbach hatte Chancen, wie hier per Volleyschuss von Joe Scally. 0 zu 0 zur Pause. Auch in der zweiten Hälfte blieben die Gastgeber zunächst gleichwertig, kamen zu einigen Möglichkeiten, etwa durch Shuto Machino in der 56. Minute. Im Anschluss aber wurde der BVB immer stärker, hatte eine Reihe guter Chancen, etwa durch … RB, der auffällige Gruda mit dem 1 zu 3. Spätestens jetzt ist der Widerstand von Union gebrochen. Das 1 zu 4 vom eingewechselten Rocco Reitz fällt in der 76. Minute. Unmittelbar vor dem Schlusspfiff sogar noch das fünfte Tor durch Riegel Baku für die jetzt deutlich überlegenen Sachsen, die mit dem vierten Sieg im vierten Spiel sich auch im Meisterschaftskampf anmelden. Die weiteren Ergebnisse. Elversberg - Freiburg 0 zu 1, Leverkusen - Paderborn 4 zu 0, Frankfurt - Hoffenheim 1 zu 0. Im Spiel Schalke gegen Stuttgart steht es kurz vor Schluss 0 zu 0. Gestern spielten München und Köln … Grad oder leichter Frost. Morgen vielerorts nur niedrige einstellige Werte, im östlichen und südlichen Bergland teilweise nahe dem Gefrierpunkt. In der neuen Woche noch etwas kälter, dazu Montag im Nordosten öfter Regen oder Schneeschauer. In den folgenden Tagen ändert sich an dem ruhigen, teilweise freundlichen und recht kalten Wetter wenig. Gibt es auf der Weltklimakonferenz heute Abend doch noch einen Kompromiss? Das ist eine Frage in den Tagesthemen um 23:10 Uhr mit Jörg Schönenborn. Außerdem geht es um Kolumbiens Kampf gegen Kindersoldaten. Ich wünsche Ihnen noch einen angenehmen Abend.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "18FP3t4qt-M": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T04:53:21+00:00",
+  "title": "Jugend auf dem Land: Warum sich viele von der Politik vergessen fühlen",
+  "duration": 169,
+  "published": "20261121",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 166.3,
+  "rare": 0.0573,
+  "var": 0.8175,
+  "cl": null,
+  "speech_s": 163.8,
+  "tokens": 454,
+  "kw": [
+   [
+    "eben",
+    "und am Wochenende ist es eben nur noch",
+    12,
+    18,
+    5.39,
+    6
+   ],
+   [
+    "wichtig",
+    "wichtig. Aber hier gehe es um das Gefühl",
+    51,
+    56,
+    5.29,
+    4
+   ],
+   [
+    "themen",
+    "finden alle drei gut, auch die Themen",
+    49,
+    54,
+    4.93,
+    4
+   ],
+   [
+    "land",
+    "Jugendlichen auf dem Land eine stärkere",
+    67,
+    72,
+    5.47,
+    3
+   ],
+   [
+    "bus",
+    "Uhr nach der Schule. Ein Bus kommt dann",
+    5,
+    11,
+    4.72,
+    2
+   ],
+   [
+    "gemeinden",
+    "Kontakt zu den Gemeinden her. auch sie",
+    75,
+    80,
+    4.61,
+    2
+   ],
+   [
+    "jugendliche",
+    "Jugendliche gibt es nichts. Sowas fehlt hier einfach einfach",
+    34,
+    42,
+    4.59,
+    2
+   ],
+   [
+    "jugendlichen",
+    "Jugendlichen auf dem Land eine stärkere",
+    67,
+    72,
+    4.51,
+    2
+   ],
+   [
+    "ländlichen",
+    "ländlichen Raum. Ganz große Fragen, Zukunftsängste",
+    96,
+    102,
+    4.06,
+    2
+   ],
+   [
+    "proteste",
+    "Die Chens Proteste in den Großstädten",
+    47,
+    52,
+    4.06,
+    2
+   ],
+   [
+    "grossstädten",
+    "",
+    0,
+    0,
+    3.64,
+    2
+   ],
+   [
+    "gemeindehaus",
+    "ein Gemeindehaus. Ein Spielplatz, eine Bücherei. Nur für",
+    28,
+    38,
+    3.32,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "raum",
+    "um die Jugend würden der ländliche Raum",
+    79,
+    84,
+    5.11,
+    3
+   ],
+   [
+    "drei",
+    "Die drei sind 17 und 18 Jahre alt, leben",
+    20,
+    26,
+    5.72,
+    2
+   ],
+   [
+    "gen",
+    "Lage natürlich die landesweiten Gen Proteste, wie wir sie haben und wir",
+    142,
+    150,
+    4.2,
+    2
+   ],
+   [
+    "diskussion",
+    "findet. Im Zuge der aktuellen Diskussion",
+    77,
+    82,
+    4.78,
+    1
+   ],
+   [
+    "veranstaltet",
+    "veranstaltet Workshops und stellt den Kontakt zu den Gemeinden her. auch sie",
+    73,
+    80,
+    4.1,
+    1
+   ],
+   [
+    "demonstrieren",
+    "Die jungen Menschen, die demonstrieren und die sich auch schon engagieren in",
+    83,
+    89,
+    4.04,
+    1
+   ],
+   [
+    "beachtet",
+    "auch beachtet werden. Am Abend gibt es",
+    153,
+    158,
+    3.98,
+    1
+   ],
+   [
+    "abgehängt",
+    "abgehängt zu sein, um Mobilität, sterbende Vereine, Einsamkeit und wenige",
+    53,
+    59,
+    3.33,
+    1
+   ],
+   [
+    "thiago",
+    "Abends auf dem Dorf für Sima, Thiago und",
+    0,
+    6,
+    3.33,
+    1
+   ],
+   [
+    "anpacken",
+    "will anpacken. Es ist immer wichtig sich alle",
+    135,
+    142,
+    3.31,
+    1
+   ],
+   [
+    "landesweiten",
+    "Lage natürlich die landesweiten Gen Proteste, wie wir sie haben und wir",
+    142,
+    150,
+    3.23,
+    1
+   ],
+   [
+    "sterbende",
+    "sterbende Vereine, Einsamkeit und wenige Jobs.",
+    55,
+    61,
+    3.14,
+    1
+   ],
+   [
+    "hoffnungsschimmer",
+    "Einen Hoffnungsschimmer gibt es in Gemrichheim. Der neue Bürgermeister ist",
+    127,
+    136,
+    2.84,
+    1
+   ],
+   [
+    "geblickt",
+    "nicht so drauf geblickt und es ist eben",
+    118,
+    122,
+    2.83,
+    1
+   ],
+   [
+    "sima",
+    "Abends auf dem Dorf für Sima, Thiago und",
+    0,
+    6,
+    2.63,
+    1
+   ],
+   [
+    "kommunalpolitisch",
+    "kommunalpolitisch für die Grünen aktiv, veranstaltet Workshops und stellt den",
+    71,
+    78,
+    2.59,
+    1
+   ],
+   [
+    "zukunftsängste",
+    "Ganz große Fragen, Zukunftsängste tauchen auch hier auf. Für die aus",
+    97,
+    104,
+    2.28,
+    1
+   ],
+   [
+    "chens",
+    "Die Chens Proteste in den Großstädten",
+    47,
+    52,
+    2.09,
+    1
+   ]
+  ],
+  "tx": "Abends auf dem Dorf für Sima, Thiago und Deria beginnt die Freizeit meist um 17 Uhr nach der Schule. Ein Bus kommt dann nur noch alle halbe Stunde, aber da ist dann auch Schluss ab 21 Uhr und am Wochenende ist es eben nur noch alle zwei Stunden kommt ein Bus und die Zuverlässigkeit ist aber auch nicht gewährleistet. Die drei sind 17 und 18 Jahre alt, leben im kleinen schwäbischen Gemärichheim oder der Umgebung. Schön hier eigentlich ein Gemeindehaus. Ein Spielplatz, eine Bücherei. Nur für Jugendliche gibt es nichts. Sowas fehlt hier einfach einfach Jugendhäuser oder Jugendcafes, wo wirklich ja Jugendliche sich treffen können und da ihre Zeit verbringen können. Die Chens Proteste in den Großstädten finden alle drei gut, auch die Themen wichtig. Aber hier gehe es um das Gefühl abgehängt zu sein, um Mobilität, sterbende Vereine, Einsamkeit und wenige Jobs. Geht so mal Hand aufs Herz jetzt stand jetzt bleibst du hier, wenn du durch bist. Auf gar keinen Fall. Auf gar keinen Fall. Der Verein Jugendgost Zukunft will Jugendlichen auf dem Land eine stärkere Stimme geben. Sarah Schmalzried, selbst kommunalpolitisch für die Grünen aktiv, veranstaltet Workshops und stellt den Kontakt zu den Gemeinden her. auch sie findet. Im Zuge der aktuellen Diskussion um die Jugend würden der ländliche Raum und die Themen dort oft vergessen. Die jungen Menschen, die demonstrieren und die sich auch schon engagieren in Jugendkrämien, die brauchen wir alle und die sind wichtig. Aber die haben wir auch schon gewonnen für die Demokratie. Wir müssen es schaffen, genau die zu erreichen, die wir eben bislang noch nicht haben und davon sind viele im ländlichen Raum. Ganz große Fragen, Zukunftsängste tauchen auch hier auf. Für die aus Stadtperspektive vermeintlich kleinen Belange wünschen sie sich aber mehr Gehör. auch von der Bewegung selbst. Es gibt immer so die großen Themen, die die Jugend interessieren, aber eben wenn es um so ja um so ein um so einen ländlichen Raum geht und um so kleine Gemeinden, das ist halt eben da wird nicht so drauf geblickt und es ist eben auch sehr wichtig. Ja, ich denke es eher in den Großstädten eben und dass es wenig Vorteile dann für uns auch auf dem Land hat. Einen Hoffnungsschimmer gibt es in Gemrichheim. Der neue Bürgermeister ist selbst Geny, gerade mal 26 Jahre alt und will anpacken. Es ist immer wichtig sich alle Alterssporten anzuschauen, aber wir sehen jetzt aktuell in der aktuellen Lage natürlich die landesweiten Gen Proteste, wie wir sie haben und wir haben es hier gesagt und wir greifen das Thema direkt an, damit die Themen der Gen auf dem Land auch beachtet werden. Am Abend gibt es in Gemrichheim eine große Versammlung mit vielen Jugendlichen im Gemeindehaus. Ein Jugendzentrum gibt es ja nicht.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "fEPfomxytyI": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T04:53:43+00:00",
+  "title": "Klimakonferenz in der Verlängerung: Streit um fossile Energien",
+  "duration": 400,
+  "published": "20261121",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 181.4,
+  "rare": 0.0683,
+  "var": 0.8482,
+  "cl": null,
+  "speech_s": 397.2,
+  "tokens": 1201,
+  "kw": [
+   [
+    "eigentlich",
+    "Ja, hier warten eigentlich alle, dass er",
+    54,
+    58,
+    5.58,
+    6
+   ],
+   [
+    "staaten",
+    "oder nicht. Rund 25 Staaten, darunter",
+    16,
+    21,
+    4.95,
+    6
+   ],
+   [
+    "weiter",
+    "weiter verhandelt. Für den Morgen wird",
+    29,
+    34,
+    5.75,
+    4
+   ],
+   [
+    "sagen",
+    "Krisen jetzt nicht sofort sagen, wir",
+    157,
+    163,
+    5.68,
+    4
+   ],
+   [
+    "türkei",
+    "in der Türkei geht in die Verlängerung.",
+    3,
+    8,
+    4.78,
+    6
+   ],
+   [
+    "strom",
+    "sich dafür stark machen, Strom stärker",
+    183,
+    190,
+    4.7,
+    4
+   ],
+   [
+    "quasi",
+    "gesagt, er würde äh quasi nichts",
+    106,
+    112,
+    4.48,
+    4
+   ],
+   [
+    "entwurf",
+    "ein nachgebesserter Entwurf der Konferenzleitung erwartet.",
+    31,
+    38,
+    4.38,
+    4
+   ],
+   [
+    "energien",
+    "Energien doch noch in dem Dokument",
+    23,
+    28,
+    4.12,
+    3
+   ],
+   [
+    "ähm",
+    "Klimaschutz sozusagen ähm Stagnation äh dann deutlich macht und zeigt. Wir sind",
+    356,
+    363,
+    4.12,
+    2
+   ],
+   [
+    "gerüchte",
+    "endlich kommt. Es gibt Gerüchte darüber,",
+    55,
+    60,
+    4.07,
+    2
+   ],
+   [
+    "saudi",
+    "Dingen Saudi-Arabien, Russia, Russland und Iran nach allem, was man hört. Und",
+    140,
+    146,
+    4.07,
+    2
+   ],
+   [
+    "ärmsten",
+    "jetzt schon die ärmsten Staaten, die",
+    266,
+    270,
+    3.4,
+    2
+   ],
+   [
+    "klimawandels",
+    "Klimawandels betroffen sind. Wie weit hat sich da denn wohl was bewegt, soweit",
+    250,
+    258,
+    3.36,
+    2
+   ],
+   [
+    "antalya",
+    "Die Weltklimakonferenz COP 31 in Antalya",
+    0,
+    6,
+    3.02,
+    2
+   ],
+   [
+    "abschlusserklärung",
+    "der Abschlusserklärung auftauchen soll oder nicht. Rund 25 Staaten, darunter",
+    14,
+    21,
+    2.21,
+    4
+   ],
+   [
+    "klimakonferenz",
+    "dieser Kop, dieser Klimakonferenz der letzten zwei Wochen. Die Türkei hat ja",
+    204,
+    210,
+    2.63,
+    2
+   ],
+   [
+    "kop",
+    "dieser Kop, dieser Klimakonferenz der letzten zwei Wochen. Die Türkei hat ja",
+    204,
+    210,
+    2.58,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "ende",
+    "verbindliche Schritte zum Ende fossiler Energien doch noch in dem Dokument",
+    20,
+    28,
+    5.67,
+    4
+   ],
+   [
+    "worden",
+    "Türkei vorgelegt worden ist, das ist auf",
+    200,
+    205,
+    5.52,
+    4
+   ],
+   [
+    "sozusagen",
+    "klar, dass die jetzt sozusagen äh im im",
+    153,
+    158,
+    4.23,
+    4
+   ],
+   [
+    "bewegt",
+    "denn da vielleicht auch was bewegt?",
+    81,
+    86,
+    4.53,
+    3
+   ],
+   [
+    "vorgelegt",
+    "vorgelegt würde, dieser neue Text, aber",
+    59,
+    64,
+    4.04,
+    2
+   ],
+   [
+    "arabien",
+    "Dingen Saudi-Arabien, Russia, Russland und Iran nach allem, was man hört. Und",
+    140,
+    146,
+    4.02,
+    2
+   ],
+   [
+    "entscheidender",
+    "Ein entscheidender Punkt, wir haben es",
+    72,
+    76,
+    3.59,
+    1
+   ],
+   [
+    "panama",
+    "Umweltminister von Panama z.B. hat gesagt, er würde äh quasi nichts",
+    105,
+    112,
+    3.59,
+    1
+   ],
+   [
+    "heizen",
+    "einzusetzen, z.B. beim Heizen oder auch",
+    186,
+    192,
+    3.55,
+    1
+   ],
+   [
+    "ambitioniert",
+    "wenig ambitioniert wahrgenommen. Immerhin die Türkei gehört zu denen, die",
+    179,
+    187,
+    2.97,
+    1
+   ],
+   [
+    "delegationen",
+    "Frust zu spüren bei den Delegationen. Äh",
+    65,
+    71,
+    2.96,
+    1
+   ],
+   [
+    "durchkommt",
+    "durchkommt, wäre das tatsächlich sehr positiv.",
+    241,
+    247,
+    2.95,
+    1
+   ]
+  ],
+  "tx": "Die Weltklimakonferenz COP 31 in Antalya in der Türkei geht in die Verlängerung. Wie so oft bei den Klimakonferenzen gibt es ungelöste Fragen. Strittig ist z.B. ob der Ausstieg aus Kohle, Gas und Öl in der Abschlusserklärung auftauchen soll oder nicht. Rund 25 Staaten, darunter Deutschland wollen versuchen, verbindliche Schritte zum Ende fossiler Energien doch noch in dem Dokument unterzubringen. In der Nacht haben die Vertreter der knapp 200 Teilnehmertaaten weiter verhandelt. Für den Morgen wird ein nachgebesserter Entwurf der Konferenzleitung erwartet. Wir sprechen mit Benjamin Weber in … hier auf der Copinant. Ja, hier warten eigentlich alle, dass er endlich kommt. Es gibt Gerüchte darüber, dass er vielleicht nach dem Mittagessen vorgelegt würde, dieser neue Text, aber nichts genaues weiß hier niemand. Und wenn man sich so ein bisschen umhört, dann ist hier schon auch relativ viel Frust zu spüren bei den Delegationen. Äh denn diese Hängepartie, damit hatte man eigentlich nicht gerechnet. Ein entscheidender Punkt, wir haben es gerade schon kurz angesprochen, ist eben der Ausstieg aus Öl, Gas und Kohle, der nicht erwähnt war. Wie weit hat sich denn da vielleicht auch was … Ich denke aber schon, dass das das zentrale Thema ist und dass auch ein neuer Entwurf für eine Abschlusserklärung äh nicht auskommt, ohne dieses Thema anzusprechen. Das haben wir gestern ja noch mal ganz deutlich gesehen. Der Umweltminister von Panama z.B. hat gesagt, er würde äh quasi nichts unterschreiben, nicht sein Jah geben, wo nicht quasi die Abkehr von fossilen Energien drin steht. Also ein Text, der sagt, wir müssen aus Kohle, Öl und Gas raus. Das ist ja eigentlich im Klimaschutz auch eine Binse, aber das ist ganz klar. Und also deswegen äh gehe ich davon aus, dass sich an diesem … die Öl fördern und verkaufen, deren Geschäftsmodell das ist. Äh, das sind namentlich vor allen Dingen Saudi-Arabien, Russia, Russland und Iran nach allem, was man hört. Und auch der Bundesumweltminister Carsten Schneider von der SPD, der hier die deutsche Delegation anführt, hat das auch öffentlich immer wieder gesagt. Und das ist auch nicht überraschend, dass es diese Staaten sind. Äh denn es ist ja klar, dass die jetzt sozusagen äh im im globalen Zeitalter von Kriegen und Krisen jetzt nicht sofort sagen, wir schmeißen unser Geschäftsmodell, mit dem wir sehr viel Geld verdienen, jetzt mal … hat irgendwie abzuräumen. Äh Türkei und Australien teilen sich ja die Leitung dieser Kopräsidentschaft und werden von vielen hier als relativ wenig ambitioniert wahrgenommen. Immerhin die Türkei gehört zu denen, die sich dafür stark machen, Strom stärker einzusetzen, z.B. beim Heizen oder auch mit Blick auf Autos. Wie weit konnte sich das denn durchsetzen? Also, ich denke, diese Elektrifizierungsgeschichte, das Elektrifizierungsziel, das von der Türkei vorgelegt worden ist, das ist auf jeden Fall ein positiver Aspekt dieser dieser Kop, dieser Klimakonferenz der letzten zwei Wochen. Die … dann Strom sind. Das würde die Emissionen runterbringen, wenn dieser Strom, also der dann für E-Autos z.B. verwendet würde, wenn dieser Strom aus erneuerbaren Energien kommt, das ist ja ganz wichtig. Kohlrom würde für das Klima nichts bringen. Auch das ist in dem aktuellen Entwurf noch sehr sehr Waage gehalten. Aber äh auch sehr kritische Klima NGOs haben sich eigentlich hinter diesen Vorschlag versammelt und haben gesagt, wenn das durchkommt, wäre das tatsächlich sehr positiv. Dann gibt's einen anderen Streitpunkt. Das sind die Finanzhilfen für die Länder, die besonders … ist jetzt in den letzten Tagen in der Diskussion. Äh und das ist eigentlich ein zentrales Thema, denn es gibt ja jetzt schon die ärmsten Staaten, die jetzt schon sehr unter den Auswirkungen des Klimawandels leiden. Denen hatte man versprochen, die Zahlungen für die Klimaanpassung äh zu verdreifachen. Das ist beschlossen worden auf einer Kop in den vergangenen Jahren. Allerdings ist das Basisjahr, von dem also die Verdreifachung ausgeht, offen gehalten worden und jetzt hatten also diese Länder, diese afrikanischen Länder hauptsächlich große Hoffnung gehabt, dass sich da dieses Jahr … Textentwurf, der jetzt gerade vorliegt, der verschiebt das Ganze ins nächste Jahr. Da ist die Klimakonferenz in Äthiopien in Alisabeba. Und auch da gibt es von den ärmsten Staaten sehr viel Enttäuschung darüber. Ich kann mir aber vorstellen, dass das jetzt erstmal so bleibt, dass man das sozusagen äh quasi schon akzeptiert hat, dass ich da dieses Jahr nichts mehr tut. Und ist das dann jetzt ein gutes Zeichen, dass die Verhandlungen noch weitergehen und dass es länger dauert, bis der Textnentwo für die Abschlusserklärung auf dem Tisch liegt? Ich würde sagen, es ist völlig offen. Also, es ist … habe ich jetzt in vielen verschiedenen Hintergrundgesprächen schon gehört. Es besteht aber gleichzeitig auch die Möglichkeit, dass die Türkei vielleicht heute Nacht noch mal Druck gemacht hat auch Saudi-Arabien und die anderen ölfördernden Staaten, dass wir dann doch noch eine Überraschung erleben hier in der Abschlusserklärung. Am wahrscheinlichsten halte ich aber den Fall, dass es einen relativ schwachen Text gibt, auf den sich dann alle einigen können, der dann am Ende sehr wenig Signalwirkung hat äh und der dann quasi so eine Art weiter so ist und beim Klimaschutz sozusagen ähm … geeinigt hat, dass das gerissen wird. Äh und da sagen Umweltverbände doch, dass man eigentlich eine ambitioniertere Absterklärung braucht, als die, die in Sicht ist, aber ein Minimalkompromiss, wenn es ihn an am Ende dann gäbe, wäre eben das, mit dem man arbeiten müsste. Ähm, was auf jeden Fall klar ist, in den letzten Minuten auch noch mal, es gibt durchaus Gerüchte, dass das hier doch auch noch mal bis in die Nacht heute gehen kann. Danke schön Benjamin Weber für diese Informationen und Einschätzungen aus Istanbul. Du hast das Video bis zu Ende geschaut, dann kannst du auch ein Abo daassen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "ifV3nKLDVmw": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T04:54:23+00:00",
+  "title": "tagesthemen 21:45 Uhr, 20.11.2026",
+  "duration": 2110,
+  "published": "20261120",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 145.8,
+  "rare": 0.0908,
+  "var": 0.8669,
+  "cl": null,
+  "speech_s": 2052.8,
+  "tokens": 4989,
+  "kw": [
+   [
+    "wollen",
+    "Wir wollen nicht, dass so viel Geld in",
+    98,
+    103,
+    5.71,
+    16
+   ],
+   [
+    "deutlich",
+    "mit deutlich weniger Teilnehmenden. Mehrere Tausend sind es in Hamburg. In",
+    147,
+    154,
+    5.3,
+    12
+   ],
+   [
+    "sagen",
+    "Meinung sagen und laut sind. Deswegen",
+    161,
+    166,
+    5.68,
+    11
+   ],
+   [
+    "sehen",
+    "deutlich zu sehen und zu hören.",
+    694,
+    699,
+    5.69,
+    10
+   ],
+   [
+    "strom",
+    "Strom am Endenergieverbrauch bis 2035 auf 35% erhöhen.",
+    990,
+    1000,
+    4.7,
+    11
+   ],
+   [
+    "grossbritannien",
+    "",
+    0,
+    0,
+    4.46,
+    9
+   ],
+   [
+    "regen",
+    "Ich glaube, das liegt aber auch am Regen",
+    168,
+    172,
+    4.63,
+    7
+   ],
+   [
+    "brüssel",
+    "Burnham hat heute in Brüssel darüber",
+    286,
+    291,
+    4.31,
+    7
+   ],
+   [
+    "brexit",
+    "Wahrheit ist anders. Ohne den Brexit",
+    266,
+    271,
+    3.91,
+    8
+   ],
+   [
+    "energien",
+    "einzuschlagen mit erneuerbaren Energien. Elektrifizierung ist das große Thema auf",
+    976,
+    989,
+    4.12,
+    7
+   ],
+   [
+    "ähm",
+    "produzieren ähm ähm stellen sich dann",
+    924,
+    932,
+    4.12,
+    6
+   ],
+   [
+    "regiert",
+    "die Bewegung GenZ regiert und Schulstreik gegen Wehrpflicht. Bekommen",
+    124,
+    132,
+    4.0,
+    6
+   ],
+   [
+    "schulte",
+    "Max Schulte und Ingo Winkelmann ziehen",
+    1697,
+    1703,
+    3.58,
+    4
+   ],
+   [
+    "cop",
+    "auf Englisch COP abgekürzt. Zwei Wochen",
+    860,
+    867,
+    3.5,
+    4
+   ],
+   [
+    "antalya",
+    "strittig. Aus dem türkischen Antalya Dominik Hebestreit.",
+    890,
+    899,
+    3.02,
+    4
+   ],
+   [
+    "fossilen",
+    "allem wo die Ausstieg aus den fossilen",
+    1042,
+    1048,
+    3.46,
+    3
+   ],
+   [
+    "rechenzentren",
+    "Ausbreitung gewaltiger Rechenzentren. Sie verbrauchen weltweit deutlich mehr",
+    1217,
+    1225,
+    2.88,
+    12
+   ],
+   [
+    "ulan",
+    "der Inneren Mongolei. Dort in Ulan Kap",
+    1249,
+    1255,
+    2.57,
+    6
+   ],
+   [
+    "genz",
+    "die Bewegung GenZ regiert und Schulstreik gegen Wehrpflicht. Bekommen",
+    124,
+    132,
+    2.2,
+    6
+   ],
+   [
+    "burnham",
+    "Andy Burnham ist der erste britische",
+    277,
+    282,
+    2.29,
+    5
+   ]
+  ],
+  "kx": [
+   [
+    "gehen",
+    "Bildung gehen. Schon vor drei Wochen",
+    56,
+    61,
+    5.65,
+    10
+   ],
+   [
+    "sondern",
+    "sondern Realität, so die Botschaft, die",
+    91,
+    96,
+    5.77,
+    8
+   ],
+   [
+    "gas",
+    "irgendwann darauf verzichten, Öl, Gas und Kohle zu verbrennen?",
+    880,
+    887,
+    4.53,
+    6
+   ],
+   [
+    "bäume",
+    "gerade fällen sie 2500 Bäume an einem",
+    1704,
+    1711,
+    4.41,
+    6
+   ],
+   [
+    "erneuerbaren",
+    "Erneuerbaren. Wir leisten unseren Beitrag. Wir rufen deswegen alle Länder",
+    961,
+    968,
+    3.76,
+    6
+   ],
+   [
+    "polnischen",
+    "polnischen Luftraum ein, stürzten ab, richteten allerdings keinen Schaden an.",
+    678,
+    685,
+    4.15,
+    5
+   ],
+   [
+    "weihnachtsbaum",
+    "Weihnachtsbaum nicht halt. Der hochpreisige Premium Kunstbaum wird",
+    1641,
+    1649,
+    3.44,
+    3
+   ],
+   [
+    "mongolei",
+    "der Inneren Mongolei. Dort in Ulan Kap",
+    1249,
+    1255,
+    3.22,
+    3
+   ],
+   [
+    "weihnachtsbäume",
+    "Weihnachtsbäume im Sauerland heran, dem größten Anbaugebiet in Deutschland. Und",
+    1699,
+    1709,
+    2.65,
+    3
+   ],
+   [
+    "flugkörper",
+    "russische Flugkörper drangen in den polnischen Luftraum ein, stürzten ab,",
+    676,
+    683,
+    2.63,
+    3
+   ]
+  ],
+  "tx": "Hier ist das Erste Deutsche Fernsehen mit den Tagesthemen. Heute im Studio Jörg Schönenborn und Romy Hiller. Herzlich willkommen, schön, dass Sie dabei sind. Einen schönen guten Abend. Demonstrationen können in der Demokratie ein mächtiges Zeichen setzen, aber dazu brauchen sie ein klares Ziel und klare Forderungen. Und daran fehlte es heute beim zweiten bundesweiten Protesttag, bei dem verschiedene Veranstalter vor allem Jugendliche mobilisieren wollten, allerdings für sehr unterschiedliche Ziele. Ursprünglich sollte es mal nach französischem Vorbild um die Ausstattung der Schulen und Geld … Gewalt distanzieren, heißt es auf Nachfrage. Die Polizei hatte sich vielerorts mit einem Großaufgebot auf mögliche Krawalle vorbereitet. Bundesweit sprechen die Veranstalter von GenZ regiert von 87.000 Demoteilnehmern. Das wären deutlich weniger als bei den Protesten vor drei Wochen. Wenn etwas zerbricht, dann kann man die Teile meist nicht einfach wieder zusammenfügen. Die Bruchkanten sind scharf und bleiben sichtbar. Vor 10 Jahren haben die Briten entschieden, die Europäische Union zu verlassen. Konservative und nationalistische Kräfte hatten eine glorreiche Zukunft versprochen. Die … zu Hause erwarten dürfte. In Brüssel hat Christian Feld für uns den Tag beobachtet. Christian, wie muss man sich die Atmosphäre heute vorstellen? Wie bei geschiedenen Eheleuten, die sich wieder vertragen wollen? Na, das äh war ein durchaus feierlicher Rahmen. Da waren Musiker am roten Teppich, die die Nationalhymne gespielt haben. Ich habe mal nachgeguckt, das gab es mal bei der Präsidentin von Moldau. Also wirklich eine besondere Situation und um das aufzugreifen mit den Eheleuten. Ich glaube, vertragen müssen die sich nicht. Da ist kein großer Groll und wir erleben ja jetzt auch … nicht weit entfernt von der ukrainischen Grenze. Die Menschen in der Region werden mit Warn-SMS gewarnt. Zweimal Flugkörper und eine Drohne gehen auf polnischem Gebiet nieder. Nach dem Knall sind wir auf den Balkon gerannt, um zu sehen, was passiert. Und genau dort hinter dem Wald stieg schwarzer Rauch nach oben. Nicht nur ein wenig, sondern ein großer schwarzer Pilz aus Rauch. In dem Moment gerät man schon ein wenig in Panik, ist verängstigt. Bisher haben wir uns hier sicher aber jetzt. Hier im Südosten Polens erleben Sie immer wieder Luftalarm, wenn Russland die Westukraine angreift. … und ich hoffe, das gelingt afrikanischen, südamerikanischen Länder und auch die Inselstaaten gemeinsam mit den europäischen Ländern ähm damit wir das durchsetzen können, zumindest klare Ankerpunkte zu haben. Solche Ankerpunkte, also verbindliche Schritte wollen rund 25 Staaten noch in das Dokument rein verhandeln, darunter etwa die Niederlande, Brasilien und Deutschland. Eindringlich ihr Appell, besonders der des Umweltministers aus Panama, das selbst stark unter der Erderwärmung leidet. 70 % unseres Stroms stammen aus Erneuerbaren. Wir leisten unseren Beitrag. Wir rufen deswegen alle … Schritt. Die letzte Runde läuft ja noch. Gibt es schon eine Bewertung dieser Konferenz? Kommt der Klimaschutz voran? Also wir wussten ja jetzt, dass das 1,5 Grad Ziel, dass die Weltgemeinschaft sich äh 2015 in Paris gesetzt hat, dass das gerissen wird. Äh und um es äh gegen Ende des Jahrhunderts wieder einzuhalten, um wieder dahin zu kommen, muss die Welt im Prinzip laut Fachleuten aus den fossilen Energien raus. Dass man das jetzt hier in diesem Textentwurf nicht gesehen hat, das würde ich sagen, ist schon ein Zeichen dafür, dass der Klimaschutz auf dieser COP bislang eher stagniert, … Zentren in bestimmten Regionen sein, schreibt die Pekinger Führung vor. Bislang stammt der Strom überwiegend aus Kohle. Im ersten Halbjahr diesen Jahres hat China so viel Solar- und Windpotential verschwendet, das hätte Großbritannien für mehr als ein Jahr versorgen können. Da muss noch einiges passieren, um das effizienter zu nutzen. Die Rechenzentren-Kapazitäten in China könnten sich bis 2030 nahezu verdreifachen, so Experten. China will aufholen gegenüber den USA. Der Gründer von Envision, das Rechenzentren und Windparks verknüpft, schwärmt von den günstigen Bedingungen in Ulan Schab. … von Kindern Stärke. Es helfe ihnen, sich selbst, andere Menschen und die Welt besser zu verstehen. Der Fortschritt macht auch vor dem Weihnachtsbaum nicht halt. Der hochpreisige Premium Kunstbaum wird heute mit naturgetreuen Plastikzweigen mit einer realistischen Aststruktur und sogar mit integrierter Beleuchtung angeboten. Und er sorgt gerade in vielen Familien für Streit. Die einen wollen nämlich einen wiederverwendbaren Baum, weil er angeblich nachhaltiger ist und die anderen wollen die Nadeln riechen und den echten. Wir können das aufklären, denn nach Angaben des Umweltbundesamtes lässt … wir selber nicht. Denn auch Sie spüren hier die Folgen des Klimawandels. Das ist Trockenheit und das wird Mäuseschaden sein. Auch wenn es hier nicht ganz so heiß, nicht ganz so trocken war wie in anderen Gegenden Deutschlands, die jungen Tannen haben zum Teil in diesem Sommer gelitten. Was gegen die Trockenheit zu machen ist, von der Frühjahrspflanzung auf die Herbstpflanzung umschwenken und danach müssen wir das Beste hoffen. Später im Jahr pflanzen. Immerhin diese Möglichkeit hätten sie. Weihnachtsbäume, sie sind ein Wirtschaftsfaktor im Sauerland. Max Schulte ist überzeugt, dass die … sehen ein ruhiges einen ruhigen Sonntag, allerdings ganz im Süden Regen, an den Alpen später Schnee und am Montag nach Nebelauflösung Sonnenschein, im Osten ein paar Schneeschauer. Danke Carsten und das war's dann auch schon von uns, die Tagesthemen am Freitag. Wir starten ins Wochenende. Der und zwar mit einer Dokumentation jetzt gleich im Anschluss über den Meister der Verwandlung. So kann man ihn sicherlich nennen. Komiker Olli Dittrich jetzt gleich hier im Programm. Und wir sehen uns morgen wieder, dann erst um 23:10 Uhr. Bis dahin. Schönes Wochenende. Tschüss und lassen Sie es gut gehen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "SWMGhKZG_a8": {
+  "channel": "MrWissen2go",
+  "lang": "de",
+  "checked": "2026-11-22T04:58:02+00:00",
+  "title": "DAS ist die neue Bundespräsidentin (wahrscheinlich)! Wer ist Ilse Aigner?",
+  "duration": 954,
+  "published": "20261121",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 172.3,
+  "rare": 0.0785,
+  "var": 0.8494,
+  "cl": null,
+  "speech_s": 839.0,
+  "tokens": 2409,
+  "kw": [
+   [
+    "sagt",
+    "und Bundeskanzler Friedrich Merz von der CDU sagt:",
+    72,
+    75,
+    5.59,
+    11
+   ],
+   [
+    "ihrer",
+    "ihrer Heimatstadt Feldkirchen-Westerham in Oberbayern, wo sie übrigens bis heute wohnt,",
+    182,
+    188,
+    5.76,
+    9
+   ],
+   [
+    "afd",
+    "und der AfD sehen das laut der Umfrage genauso.",
+    544,
+    549,
+    5.16,
+    9
+   ],
+   [
+    "dabei",
+    "und eine Überraschung ist dabei eher nicht zu erwarten.",
+    16,
+    20,
+    5.8,
+    8
+   ],
+   [
+    "zitat",
+    "Zitat aus einem Interview: \"Ich weiß bis heute noch, dass ich da,",
+    284,
+    288,
+    4.35,
+    6
+   ],
+   [
+    "umfrage",
+    "Das hat eine Umfrage ergeben von Ipsos im Auftrag des Spiegel.",
+    48,
+    52,
+    4.4,
+    5
+   ],
+   [
+    "vergangenheit",
+    "waren in der Vergangenheit zum Beispiel Gesine Schwan,",
+    123,
+    127,
+    4.79,
+    4
+   ],
+   [
+    "demokratie",
+    "für die parlamentarische Demokratie.\" Die SPD hat sich dafür entschieden,",
+    84,
+    89,
+    4.75,
+    4
+   ],
+   [
+    "gruber",
+    "und das hat mit ihrer besten Freundin zu tun, Monika Gruber.",
+    725,
+    729,
+    3.6,
+    5
+   ],
+   [
+    "nominiert",
+    "Die erste Frau, die nominiert wird, ist Ilse Aigner nicht.",
+    118,
+    122,
+    4.05,
+    4
+   ],
+   [
+    "monika",
+    "und das hat mit ihrer besten Freundin zu tun, Monika Gruber.",
+    725,
+    729,
+    3.93,
+    4
+   ],
+   [
+    "nominierung",
+    "Und diese Nominierung gab es 1979.",
+    138,
+    143,
+    3.75,
+    4
+   ],
+   [
+    "aigner",
+    "Ilse Aigner wird 2027 Bundespräsidentin. Diese Behauptung ist alles andere als gewagt.",
+    0,
+    6,
+    3.26,
+    54
+   ],
+   [
+    "ilse",
+    "Ilse Aigner wird 2027 Bundespräsidentin. Diese Behauptung ist alles andere als gewagt.",
+    0,
+    6,
+    3.59,
+    38
+   ],
+   [
+    "bundesversammlung",
+    "in der Bundesversammlung, mutmaßlich. Am 30. Januar 2027 wird gewählt,",
+    11,
+    17,
+    3.15,
+    7
+   ],
+   [
+    "landtags",
+    "wo sie seit 2018 Präsidentin des Landtags ist.",
+    64,
+    68,
+    3.59,
+    2
+   ],
+   [
+    "bundespräsidentin",
+    "Ilse Aigner wird 2027 Bundespräsidentin. Diese Behauptung ist alles andere als gewagt.",
+    0,
+    6,
+    2.2,
+    11
+   ],
+   [
+    "bundesministerin",
+    "Als sie Bundesministerin unter Kanzlerin Angela Merkel ist,",
+    311,
+    315,
+    2.84,
+    3
+   ],
+   [
+    "renger",
+    "war Annemarie Renger von der SPD,",
+    132,
+    135,
+    2.35,
+    2
+   ],
+   [
+    "grubers",
+    "Wegen Grubers Äußerungen rund um Corona",
+    741,
+    745,
+    2.11,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "ihrem",
+    "Bekannt ist Ilse Aigner vor allem in ihrem Heimatbundesland Bayern,",
+    61,
+    65,
+    5.53,
+    8
+   ],
+   [
+    "damals",
+    "Gewonnen hat damals am Ende allerdings Karl Carstens",
+    142,
+    146,
+    5.29,
+    8
+   ],
+   [
+    "kritisiert",
+    "kritisiert zum Beispiel zwar das Nominierungsverfahren bei der Union,",
+    463,
+    467,
+    4.49,
+    4
+   ],
+   [
+    "interview",
+    "Zitat aus einem Interview: \"Ich weiß bis heute noch, dass ich da,",
+    284,
+    288,
+    4.76,
+    3
+   ],
+   [
+    "söder",
+    "sondern Markus Söder. Ein Parteikollege, den sie schon sehr lange kennt.",
+    363,
+    369,
+    3.71,
+    4
+   ],
+   [
+    "präsidentin",
+    "wo sie seit 2018 Präsidentin des Landtags ist.",
+    64,
+    68,
+    3.88,
+    3
+   ],
+   [
+    "gremium",
+    "sondern extra für die Wahl gibt es ein Gremium,",
+    843,
+    847,
+    3.58,
+    2
+   ],
+   [
+    "annemarie",
+    "war Annemarie Renger von der SPD,",
+    132,
+    135,
+    3.36,
+    2
+   ],
+   [
+    "komfortable",
+    "und damit eine komfortable Mehrheit in der Bundesversammlung, mutmaßlich.",
+    10,
+    14,
+    2.99,
+    1
+   ],
+   [
+    "ausgeprägtes",
+    "und durch ein ausgeprägtes Engagement für die parlamentarische Demokratie.\"",
+    82,
+    88,
+    2.98,
+    1
+   ]
+  ],
+  "tx": "Ilse Aigner wird 2027 Bundespräsidentin. Diese Behauptung ist alles andere als gewagt. Denn inzwischen ist klar: Aigner hat die Unterstützung von Union, SPD und Grünen und damit eine komfortable Mehrheit in der Bundesversammlung, mutmaßlich. Am 30. Januar 2027 wird gewählt, und eine Überraschung ist dabei eher nicht zu erwarten. Denn mit an Sicherheit grenzender Wahrscheinlichkeit wird es eben Ilse Aigner von der CSU. 61 Jahre alt, kein Studium, die meiste Zeit ihres Lebens in der Politik. Wer ist die wahrscheinlich neue Bundespräsidentin? Darum geht's jetzt. (Helle Klänge) Ilse Aigner. Was … vorher wurde damit gerechnet, dass die Union den nächsten Bundespräsidenten stellen würde. Frank-Walter Steinmeier hat zwei Amtszeiten hinter sich. Aber egal von welcher Partei, seit der Gründung der Bundesrepublik Deutschland im Jahr 1949 gab es nur männliche Bundespräsidenten. Allerdings muss man sagen: Die erste Frau, die nominiert wird, ist Ilse Aigner nicht. Nominiert für die Wahl in der Bundesversammlung waren in der Vergangenheit zum Beispiel Gesine Schwan, Beate Klarsfeld und auch Hildegard Hamm-Brücher. Die erste Frau, die jemals für dieses Amt nominiert worden ist, war Annemarie … vier Schwestern. Und sie steht mitten im Berufsleben. Ilse Aigner war zwar mal auf einem Gymnasium und hatte auch darüber nachgedacht, zu studieren. Aber dann hat sie sich doch für einen anderen Weg entschieden. Nämlich Wechsel auf die Realschule, mittlere Reife, Berufsausbildung und Handwerk. Im Betrieb ihrer Eltern wird Ilse Aigner zur Radio- und Fernsehtechnikerin ausgebildet. Später packt sie noch mal was drauf und qualifiziert sich zusätzlich als Elektrotechnikerin. Und ab 1990 ist Ilse Aigner an der Entwicklung für Hubschraubertechnik beteiligt. Und schon damals sticht sie als Frau … könnte, wenn etwas schiefgeht. Das ist eine Situation, die sie bis heute prägt, und über die sie immer wieder spricht. Und noch ein zweites Mal erkrankt Ilse Aigner schwer. Allerdings wird das damals zunächst unter Verschluss gehalten. Als sie Bundesministerin unter Kanzlerin Angela Merkel ist, hat sie Schilddrüsenkrebs und muss bestrahlt werden. Sie übersteht alles gut und gilt heute als geheilt. Trotzdem macht das natürlich etwas mit einem Menschen, sagt sie. Zu der Zeit, zu der das passiert, ist Aigner längst deutschlandweit bekannt. Von 2008 bis 2013 ist sie Bundesministerin für … dann die Wiederwahl, dieses Mal mit 163 von 200 Stimmen. Damals sagt sie in einer Rede: \"Ich werde eine Präsidentin für alle Fraktionen sein.\" \"Ich werde eine Präsidentin für jede Abgeordnete, für jeden Abgeordneten sein.\" \"Ich bin Ihnen verpflichtet und ich fühle mich Ihnen auch verpflichtet.\" \"Aber, das ist auch klar ... ich bin nicht ohne Haltung.\" \"Wir werden das tun, was auch gut ist für die Demokratie in Bayern.\" Das heißt: Von einer Politikerin, die lange parteipolitisch im Einsatz war als Abgeordnete und als Ministerin, ist Ilse Aigner in ein überparteiliches Amt gekommen und sieht … Häuser weiter von ihr gewohnt hat, Walnüsse aus ihrem Garten vorbeigebracht hat. Und genau solche Dinge hört und liest man oft über Ilse Aigner. Sie sei nahbar, würde auf die Menschen zugehen und habe eine offene Art. In der deutschen Bevölkerung ist die Begeisterung für die Nominierung von Ilse Aigner, je nach Befragung, allerdings unterschiedlich. Nur 37 Prozent der Befragten einer aktuellen Umfrage halten sie für geeignet für das Amt der Bundespräsidentin. Jeder fünfte Befragte stuft sie in dieser Umfrage als ungeeignet ein. Bei einer anderen Umfrage, nämlich einer von Forsa, sieht es … vorgestellt. Mit der AfD verbindet Aigner auch in gewisser Weise eine Art Vorgeschichte. Immer wieder hat sie die Partei in der Vergangenheit kritisiert, auch und vor allem in ihrer Zeit als Landtagspräsidentin. 2025 hat sie sogar bei einer Rede der Fraktionsvorsitzenden der AfD, Katrin Ebner-Steiner, das Mikrofon ausgestellt. Die Begründung damals war, Ebner-Steiner würde sich nicht an die Gepflogenheiten des Parlaments halten. Sie hatte die politischen Gegner scharf kritisiert und unter anderem auch über Messerangriffe von Migranten gesprochen bei ihrer Rede. Erwartet worden waren von … Positionen zur Migration, zur Klimapolitik und rund um das Thema Gendern sorgen immer wieder für kontroverse Diskussionen. Wegen Grubers Äußerungen rund um Corona wird sie im Netz unter anderem als Schwurblerin bezeichnet. Monika Gruber selbst distanziert sich deutlich davon. Dass Ilse Aigner eng mit Monika Gruber befreundet ist, nehmen ihr einige Menschen übel. Kritiker unterstellen ihr, sie könnte sich einigen von Grubers Positionen anschließen. Oder hat sich vielleicht ihnen schon angeschlossen, auch weil sie mal in einem Interview davon gesprochen hatte, Monika Gruber und sie würden von … übrigens nicht von uns allen, das wisst ihr wahrscheinlich. Der Bundespräsident oder die Bundespräsidentin werden in Deutschland nicht vom Volk direkt gewählt, sondern extra für die Wahl gibt es ein Gremium, das nur dafür zusammentritt. Sonst niemals. Und der Name dieses Gremiums ist Bundesversammlung. Dieses Gremium kommt normalerweise nur alle fünf Jahre zusammen, so lange dauert die Amtszeit eines Bundespräsidenten. Einmal kann sie maximal verlängert werden. Die Frage ist, wer ist in dieser Bundesversammlung vertreten? Wer darf wählen? Zu einer Hälfte ist das der aktuelle Bundestag. … dem i rein. Da erfahrt ihr mehr auch dazu, wie dieses Amt überhaupt entstanden ist und wie sich die Kompetenzen zusammensetzen. Wie sieht's bei euch aus? Wie zufrieden seid ihr mit der Nominierung von Ilse Aigner als Bundespräsidentin? Würdet ihr euch jemand anderen wünschen? Schreibt's gerne unten in die Kommentare. Neben mir findet ihr noch einmal das eben schon angesprochene Video. Und direkt darunter ein Video zu den Schwierigkeiten der Union, zu der ja auch die CSU von Ilse Aigner gehört. Auch da gerne mal reinschauen. Danke fürs Zuschauen, bis zum nächsten Mal. © funk - von ARD und ZDF",
+  "gist": "s",
+  "status": "ok",
+  "src": "cc"
+ },
+ "Bq21OtO9BXU": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T05:15:23+00:00",
+  "title": "Verfassungskrise in Polen: Machtkampf um das höchste Gericht I 11KM - der tagesschau-Podcast",
+  "duration": 1578,
+  "published": "20261120",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 129.7,
+  "rare": 0.1073,
+  "var": 0.8408,
+  "cl": null,
+  "speech_s": 1535.9,
+  "tokens": 3319,
+  "kw": [
+   [
+    "eben",
+    "also der, der sich eben da durchgerungen",
+    236,
+    244,
+    5.39,
+    30
+   ],
+   [
+    "regierung",
+    "Mitte-Links-Regierung von Donald Tusk, werfen ihr einen Staatsstreich vor. Eine",
+    81,
+    89,
+    5.23,
+    16
+   ],
+   [
+    "präsident",
+    "Präsident im Land sein, er kehrt zurück,",
+    189,
+    196,
+    4.97,
+    13
+   ],
+   [
+    "richter",
+    "die Richter das Gericht übernommen haben, die er nicht vereidigt hat. Also",
+    369,
+    378,
+    4.8,
+    12
+   ],
+   [
+    "polen",
+    "Polinnen und Polen bedeutet, darüber sprechen wir heute mit Paulina",
+    39,
+    46,
+    4.72,
+    15
+   ],
+   [
+    "prinzip",
+    "wurde, sieht man, wie er im Prinzip mit",
+    221,
+    227,
+    4.63,
+    9
+   ],
+   [
+    "lager",
+    "rechtskonservativen Lager nahe und dem entsprechend war es für den",
+    327,
+    336,
+    4.65,
+    8
+   ],
+   [
+    "streit",
+    "an dem dieser Streit so entbrannt ist.",
+    379,
+    384,
+    4.61,
+    8
+   ],
+   [
+    "polnischen",
+    "polnischen Verfassungsgericht, man muss es wirklich sagen, krasse Szenen",
+    71,
+    77,
+    4.15,
+    5
+   ],
+   [
+    "warschau",
+    "Milling aus dem ARD Studio Warschau.",
+    43,
+    48,
+    3.84,
+    5
+   ],
+   [
+    "organ",
+    "Verfassungsgericht, eben ein Organ, das Bürgerinnen und Bürger vor",
+    1075,
+    1085,
+    3.88,
+    4
+   ],
+   [
+    "liberalen",
+    "liberalen Regierung und Koalition von Donald Tusk, die eben um das",
+    516,
+    525,
+    4.16,
+    3
+   ],
+   [
+    "verfassungsgericht",
+    "dem Verfassungsgericht. Dieser Auftritt von vor drei Wochen ist",
+    12,
+    18,
+    3.43,
+    29
+   ],
+   [
+    "tusk",
+    "liberale Regierungschef Tusk ringen um die Macht. Ausgang offen.",
+    29,
+    37,
+    3.18,
+    14
+   ],
+   [
+    "pis",
+    "der PiS-Partei Jaroslaw Kaczynski, aber auch der Rechtsextremen Konfederacja",
+    138,
+    147,
+    3.01,
+    11
+   ],
+   [
+    "staatspräsident",
+    "Der polnische Staatspräsident verschafft sich mit vollem Körpereinsatz Zutritt",
+    6,
+    13,
+    3.47,
+    6
+   ],
+   [
+    "rechtskonservativen",
+    "rechtskonservativen Lager nahe und dem entsprechend war es für den",
+    327,
+    336,
+    2.65,
+    7
+   ],
+   [
+    "paulina",
+    "darüber sprechen wir heute mit Paulina",
+    41,
+    46,
+    2.92,
+    6
+   ],
+   [
+    "polinnen",
+    "Polinnen und Polen bedeutet, darüber sprechen wir heute mit Paulina",
+    39,
+    46,
+    2.34,
+    5
+   ],
+   [
+    "karol",
+    "Karol Nawrocki im Flieger nach Senegal,",
+    167,
+    174,
+    2.75,
+    4
+   ]
+  ],
+  "kx": [
+   [
+    "gericht",
+    "zum höchsten Gericht des Landes, dem Verfassungsgericht.",
+    10,
+    16,
+    4.82,
+    10
+   ],
+   [
+    "gewählt",
+    "gewählt worden sind, aber eben vom",
+    316,
+    322,
+    4.92,
+    9
+   ],
+   [
+    "präsidenten",
+    "man mit dem Amt des Präsidenten nicht",
+    264,
+    271,
+    4.58,
+    8
+   ],
+   [
+    "donald",
+    "Mitte-Links-Regierung von Donald Tusk, werfen ihr einen Staatsstreich vor. Eine",
+    81,
+    89,
+    4.24,
+    6
+   ],
+   [
+    "podcast",
+    "Ihr hört FKM, der Tagesschau Podcast.",
+    53,
+    58,
+    4.07,
+    3
+   ],
+   [
+    "eskalation",
+    "Eskalation in einem langen Machtkampf um",
+    86,
+    91,
+    3.7,
+    3
+   ],
+   [
+    "bürgerlich",
+    "Nawrocki und der bürgerlich liberale Regierungschef Tusk ringen um",
+    27,
+    35,
+    3.5,
+    5
+   ],
+   [
+    "staatspräsidenten",
+    "dem Staatspräsidenten und diesem Gericht einen Konflikt. Was steckt denn",
+    487,
+    496,
+    3.16,
+    4
+   ],
+   [
+    "nawalny",
+    "Okay, Nawalny setzt sich da also",
+    272,
+    279,
+    2.57,
+    4
+   ],
+   [
+    "amtseid",
+    "die haben ihm gegenüber keinen Amtseid",
+    374,
+    380,
+    2.78,
+    3
+   ]
+  ],
+  "tx": "ARD Sounds. Der polnische Staatspräsident verschafft sich mit vollem Körpereinsatz Zutritt zum höchsten Gericht des Landes, dem Verfassungsgericht. Dieser Auftritt von vor drei Wochen ist zum Symbol für Polens aktuelle Staatskrise geworden. Der rechtskonservative Staatspräsident Nawrocki und der bürgerlich liberale Regierungschef Tusk ringen um die Macht. Ausgang offen. Warum Polens Verfassungsgericht zum Zentrum dieser Auseinandersetzung geworden ist und was das für die Polinnen und Polen bedeutet, darüber sprechen wir heute mit Paulina Milling aus dem ARD Studio Warschau. Sie hat auch für … er mitbekommen, da braut sich was zusammen vor dem Verfassungsgericht und er hat in der Luft im Flieger entschieden, wir drehen um, ich kehre zurück. Er hat dann bei X geschrieben, in solchen Augenblicken muss der Präsident im Land sein, er kehrt zurück, um vor Ort zu sein, in Polen zu sein und dann ist er hier in Warschau gelandet. Das war gegen 22:23 Uhr und ist dann mitten in der Nacht noch zum Verfassungsgericht gegangen, hat sich durch die Menge den Weg gebannt und hat sich regelrecht durchgedrückt rein ins Verfassungsgericht. In dem Video, das später veröffentlicht wurde, sieht man, … und hat offenbar zeigen wollen, dass er sogar mit Körpereinsatz da reingeht, um die Verfassung zu schützen. Warum er das für nötig hält, weil eben aus seiner Sicht die Richter das Gericht übernommen haben, die er nicht vereidigt hat. Also die haben ihm gegenüber keinen Amtseid abgelegt und das ist der Punkt, an dem dieser Streit so entbrannt ist. Und der ist ja auch noch nicht vorbei, ne? Also erst diese Woche wurde diesem PiS-nahen suspendierten Gerichtspräsidenten auch noch die Immunität entzogen. Das heißt, ihm droht jetzt ein Verfahren durch die Staatsanwaltschaft und zugleich bleibt ja … entlang dieses Gerichtes wird eben der politische Konkurrenzstreit ausgetragen. Lass uns einmal noch mal kurz bei dem Staatspräsidenten bleiben. Das ist ja eine andere Rolle als jetzt Steinmeier in Deutschland, der eher repräsentative Funktion hat. Welche Rolle hat der Staatspräsident in Polen genau? Das ist in der Tat etwas anders. Natürlich hat auch hier der Präsident eine repräsentative Funktion, aber es gibt Unterschiede. Einer der Unterschiede, was auch immer wieder betont wird, der Präsident in Polen ist direkt gewählt, vom Volk gewählt. Und das ist eine Kraft, die Karol Nawalny immer … und die rechten Kräfte hinter sich zu vereinen. Also die Person zu werden, die ein starker Anführer ist für alles rechts der Mitte. Und das gelingt ihm zunehmend. Genau, das wollte ich dich gerade fragen. Verfängt diese Strategie bei den Menschen, bei den Polinnen und Polen? Überraschenderweise ja. Man muss sagen, dass der Staatspräsident grundsätzlich in Polen jemand ist, der ein Ansehen genießt, aber mit Karol Nawrocki ist es wirklich schon ein Ausnahmefall. Woran mache ich das fest? Er ist inzwischen zu einer Art popkultureller Figur geworden. Wenn man vor dem Verfassungsgericht die … das Recht wiederherstellt eben mit Rechtsmitteln. Dann zusätzlich noch den Widerstand aus dem rechtskonservativen Lager, er wird massiv ausgebremst und deswegen ist er nicht wirklich erfolgreich gewesen bisher. Das heißt, Nawroski ist ein sehr starker politischer Gegenspieler gegen das eher bürgerlich liberale Lager rund um die ja auch eher EU-freundliche Regierung von Donald Tusk. Und die beiden tragen ihre politischen Auseinandersetzungen jetzt auf dem Rücken des Verfassungsgerichts aus. Warum eigentlich? Also warum steht dieses Gericht so im Fokus? Das ist eines der wichtigsten Gerichte, … Zeit äh versucht die Regierung Tusk eben die Rechtmäßigkeit wiederherzustellen. Das wurde ja auch von den europäischen Gerichten gerügt. Es ist aber trotzdem ein Spielball der Politik, weil eben das rechtskonservative Lager großen Widerstand leistet, wie wir sehen und dass es zwischen diesen Lagern ein Machtkampf weiter andauert. Professor für Verfassungsrecht an der Universität Wroclaw, also Breslau, Ryszard Balicki sagt, es gibt in diesem Streit keinen Gewinner. Es braucht ein unabhängiges Verfassungsgericht, eben ein Organ, das Bürgerinnen und Bürger vor Machtmissbrauch schützt und … Da macht man ja Politik oder macht Vorschläge eben, die EU zu zerschlagen. Und auch hier gibt es kaum Wege, irgendwie die EU in dieser Rolle zu sehen. Und erschwerend kommt hinzu, dass natürlich wir jetzt ein Jahr vor der Parlamentswahl sind. Und das merken wir auch an dieser Entwicklung, dieser Eskalation, dass der Wahlkampf eigentlich schon begonnen hat, weil man gerade seine Positionen so stark absteckt, um sich zu positionieren, um Anhänger hinter sich zu versammeln auf beiden Seiten, dass hier eine Vermittlung ganz schwierig überhaupt möglich ist aus meiner Sicht. Die Fronten … derzeit nicht verlassen. Das ist ja jetzt erstmal die rechtliche, immer noch relativ abstrakte Ebene, die manche Einzelne konkret betrifft, aber eben die große Menge an Menschen nicht. Wie gucken die Leute, die dir so in deinem Alltag vielleicht auch begegnen, auf diesen Streit? Polen bricht nicht zusammen wegen dieses Streits, das muss man schon sagen. Also Leute, ja, immerhin Leute Nachricht. Darf man ja auch mal sagen, dass es optimistischen Blick darauf gibt. Also es gibt auch einen ganz normalen Alltag. Menschen gehen zur Arbeit, gehen einkaufen, sitzen in Cafés und Restaurants, … über Insights aus Brüssel und darüber, wie EU Politik unser aller Leben prägt. Wenn ihr euch für Europapolitik interessiert und das alles ein bisschen besser verstehen wollt, dann hört doch mal in unseren europapodcast.eu rein. Wie wichtig Entscheidungen aus Brüssel sind und was abgeht hinter den Kulissen des Europäischen Parlaments und bei den EU-Gipfeln, das besprechen wir dort. Ich bin Katrin Schmidt und ARD Korrespondentin in Brüssel. Jeden Freitag liefere ich euch von hier aus in punkt.eu die Top-Themen aus Europa, spannend und meinungsstark diskutiert. punkt.eu der Europa Podcast.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "7EJmOl8Uv4M": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T05:17:24+00:00",
+  "title": "tagesthemen 22:15 Uhr, 19.11.2026",
+  "duration": 2139,
+  "published": "20261119",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 146.6,
+  "rare": 0.0852,
+  "var": 0.857,
+  "cl": null,
+  "speech_s": 2102.7,
+  "tokens": 5139,
+  "kw": [
+   [
+    "europa",
+    "Europa noch die Ukraine erwünscht waren,",
+    250,
+    256,
+    5.26,
+    13
+   ],
+   [
+    "russland",
+    "Die Staatschefs von China, Russland und",
+    42,
+    47,
+    4.99,
+    12
+   ],
+   [
+    "sondern",
+    "um den Frieden in der Ukraine, sondern",
+    293,
+    298,
+    5.77,
+    11
+   ],
+   [
+    "wollen",
+    "Sie demonstrieren Einigkeit und wollen zeigen, dass sie der Welt mehr Frieden",
+    103,
+    111,
+    5.71,
+    11
+   ],
+   [
+    "ukraine",
+    "Ukraine. Gemeint ist wohl der russische",
+    157,
+    164,
+    4.51,
+    20
+   ],
+   [
+    "putin",
+    "Internationalen Gerichtshof und Putin gab sich unwidersprochen als Freund des",
+    77,
+    86,
+    4.39,
+    19
+   ],
+   [
+    "trump",
+    "Im Gegenteil, Trump attackierte den Internationalen Gerichtshof und Putin",
+    75,
+    84,
+    4.7,
+    18
+   ],
+   [
+    "technologie",
+    "diese Technologie Risiken birgt. Vom Missbrauch der Technologie durch",
+    1075,
+    1082,
+    4.32,
+    10
+   ],
+   [
+    "zwickau",
+    "Zwickau Autos gebaut. Mit Horch und Audi",
+    1561,
+    1568,
+    3.7,
+    8
+   ],
+   [
+    "europäer",
+    "Blaulichtern haben die Europäer heute aber noch einmal ein deutliches Signal",
+    435,
+    442,
+    4.03,
+    6
+   ],
+   [
+    "claude",
+    "KI-Assistenten Claude für Finanzen, Marketing, Verkauf und",
+    1013,
+    1019,
+    3.93,
+    6
+   ],
+   [
+    "wladimir",
+    "Herr Maas, guten Abend. Wladimir Putin",
+    455,
+    461,
+    3.87,
+    6
+   ],
+   [
+    "gipfeltreffen",
+    "heutige Gipfeltreffen sehr positiv. Die Stimmung war stärker, geeinter und",
+    378,
+    387,
+    3.07,
+    4
+   ],
+   [
+    "börsengang",
+    "um den bisher größten Börsengang aller",
+    968,
+    974,
+    3.24,
+    3
+   ],
+   [
+    "myanmar",
+    "Rohingya in Myanmar waren Völkermord. So",
+    1416,
+    1423,
+    3.23,
+    3
+   ],
+   [
+    "gebrauchtwagen",
+    "das gemacht wird. Aus Gebrauchtwagen gewinnt man hier Ersatzteile.",
+    1617,
+    1624,
+    3.2,
+    3
+   ],
+   [
+    "shenzhen",
+    "den USA haben sich heute in Shenzhen",
+    44,
+    50,
+    2.99,
+    6
+   ],
+   [
+    "aschenbrödel",
+    "aus Drei Haselnüsse für Aschenbrödel. Der Märchenfilm ist so beliebt, dass die",
+    1819,
+    1827,
+    2.74,
+    4
+   ],
+   [
+    "moritzburg",
+    "war Schloss Moritzburg Dresden. Die Dreharbeiten dort waren offenbar kein",
+    1834,
+    1843,
+    2.71,
+    4
+   ],
+   [
+    "regenschauer",
+    "Umkreis weitere Regenschauer hinterher. Aus Frankreich kommen deshalb hier im",
+    2004,
+    2011,
+    2.99,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "welt",
+    "Welt derzeit keiner für die Grundsätze",
+    71,
+    76,
+    5.66,
+    11
+   ],
+   [
+    "eben",
+    "allerdings eben nicht allein und nur auf",
+    372,
+    377,
+    5.39,
+    11
+   ],
+   [
+    "frieden",
+    "zeigen, dass sie der Welt mehr Frieden",
+    106,
+    111,
+    4.69,
+    8
+   ],
+   [
+    "norden",
+    "hinterher, sondern aus Norden, aus dem",
+    2013,
+    2018,
+    4.65,
+    6
+   ],
+   [
+    "tagsüber",
+    "Skandinavien vermehrt auch tagsüber zu uns herangeführt. Hier der 15-Tage-Trend",
+    2046,
+    2054,
+    3.99,
+    4
+   ],
+   [
+    "konzern",
+    "den Konzern getragen wird. Also in die ganze Welt?",
+    1743,
+    1748,
+    4.15,
+    3
+   ],
+   [
+    "abrüstung",
+    "Abrüstung gepocht, doch nach knapp anderthalb Stunden Gespräch gibt es nur",
+    222,
+    229,
+    3.15,
+    3
+   ],
+   [
+    "friedensverhandlungen",
+    "Kommt es zu Friedensverhandlungen, dann werden wir uns einbringen.",
+    330,
+    337,
+    3.13,
+    3
+   ],
+   [
+    "weltbühne",
+    "auf die Weltbühne. Und Xi gibt den vermeintlich neutralen",
+    120,
+    129,
+    2.87,
+    3
+   ],
+   [
+    "friedensschluss",
+    "Friedensschluss, einen verantwortbaren, einen gerechten Friedensschluss mit der",
+    525,
+    531,
+    2.84,
+    3
+   ]
+  ],
+  "tx": "Hier ist das Erste Deutsche Fernsehen mit den Tagesthemen. Heute im Studio Jörg Schönenborn und Jens Riewa. Herzlich willkommen, schön, dass Sie dabei sind. Guten Abend. Nicht alles, was zum ersten Mal passiert, ist deshalb gleich historisch. Und ob ein Ereignis dieses Etikett verdient, das weiß man oft erst sehr viel später. Die Staatschefs von China, Russland und den USA haben sich heute in Shenzhen getroffen und für knapp anderthalb Stunden saßen sie an einem sehr großen Tisch und haben sich den veröffentlichten Bildern nach zu urteilen gegenseitig Texte vorgelesen. Die verabschiedete … die die Ukraine dringend braucht, hat die Koalition der Willigen noch nicht zusammen. Demian von Osten hat das Treffen für uns beobachtet. Als die Limousinen am Abend wieder aus dem Kanzleramt rollten, da dürften viele europäische Regierungschefs zufrieden gewesen sein. 26 von ihnen waren vor Ort in Berlin, dazu weitere Delegationen, die EU und die NATO. Es ging nicht nur um den Frieden in der Ukraine, sondern auch um die Sicherheit in ganz Europa. Die Botschaft, wir stehen gemeinsam gegen Russland. So ein Signal einer stärkeren Unterstützung für die Ukraine, vor allem jetzt vor dem … hier versammelt in Deutschland ist die Strategie, Wladimir Putin zu isolieren, gescheitert? Er ist da. Donald Trump bezeichnet ihn als Freund. Er ist da. Russland ist da, das ist ein Faktum. Russland führt Krieg, aber wir müssen Russland eben davon abhalten, diesen Krieg fortzuführen und bereit zu sein, einen vernünftigen Friedensschluss, einen verantwortbaren, einen gerechten Friedensschluss mit der Ukraine einzugehen und das hat Russland heute sehr deutlich vor Augen geführt bekommen hier in Berlin, wo eben eine wirklich große Gruppe von Staaten, nicht nur Europas, sondern es sind ja … zusammenstehen. Die EU war vertreten, nicht nur die E3, also Großbritannien, Frankreich, Deutschland, sondern auch die EU 27 waren hier vertreten. Also das war ein sehr und das ist immer noch ein sehr geschlossenes Bild äh allen Unkenrufen und ich denke, das wird bei Wladimir Putin den entsprechenden Eindruck hinterlassen. Zu diesem Bild gehört, dass Europa sich jetzt verständigt hat mit sieben an den Gesprächen teilzunehmen. Das ist noch keine sehr große Klarheit. Wären Sie, wären Deutschland bereit einem der anderen sechs das Mandat zu übertragen, damit wirklich eine Stimme spricht? Es … Ablehnung der regelbasierten Ordnung, jedenfalls Trump und Putin. Zumindest diese beiden verachten das Völkerrecht und die Vereinten Nationen und ich fürchte, diesem scheinheiligen Duo müssen Deutschland und Europa künftig deutlich mehr entgegensetzen. Die Meinung von Stefan Niemann. Neben den beiden Gipfeltreffen gibt es heute noch ein drittes Ereignis, das viele als historisch bezeichnen. Es geht um den bisher größten Börsengang aller Zeiten. Das Unternehmen Anthropic hat mehr als 100 Milliarden Dollar durch die Ausgabe von Aktien eingesammelt. Anthropic entwickelt Modelle für künstliche … guckt sich an, was die KI vorschlägt, aber am Ende sagt die Unternehmerin, entscheide ich. Da wollen wir mehr drüber wissen. Fritz Espenlaub ist Gastgeber und Autor des KI-Podcasts in der ARD, einer derer, die sich richtig gut auskennen mit künstlicher Intelligenz. Fritz, Claude haben wir gerade kennengelernt, das ist der Chatbot von Anthropic. Kann der was, was die anderen Chatbots nicht können? Also im Grunde ist es dieselbe Technologie, wie Sie Leute kennen von z.B. ChatGPT oder Gemini von Google, also man stellt Fragen rein, man kriegt Antworten raus. Das sind die großen Sprachmodelle. … Dank. was sonst noch an diesem Donnerstag passiert ist, Jens, das hast du für uns. Die Verbrechen gegen die Minderheit der Rohingya in Myanmar waren Völkermord. So lautet das Urteil des Internationalen Gerichtshofs. Die Richter in Den Haag haben zum ersten Mal einen Staat dafür verantwortlich gemacht. Die etwa 2 Millionen Rohingya sind überwiegend muslimisch und lebten hauptsächlich in Myanmar. Ab 2017 wurden sie vom Militär brutal vertrieben, viele von ihnen nach Bangladesch. Die Rohingya sind die größte staatenlose Bevölkerungsgruppe der Welt. In Myanmar haben sie keinerlei … Teile kontrollieren und erfassen. Jetzt wird das Teil in die Fotobox gelegt und dann wird ein Foto gemacht und dann wenn der Kunde dann sieht, wie das Teil aussieht. Die Daten kommen auf eine Online-Plattform für VW-Händler, damit sie Kunden als günstigere Ersatzteile angeboten werden können. Janine Gressner hat ein kleines Kind. Sie ist seit 2020 bei VW. Sie wollte den Job, weil sie dachte, dass er sicher ist, sagt sie. Nun steckt ihr Arbeitgeber in der Krise. Man muss halt immer an das Gute denken, ne, und glauben und hoffen, dass es irgendwie weitergeht. Und wenn man den Kopf in Sand … erlebt mit ihrer Stiefmutter beispielsweise und sich aber einfach diese Freude am Leben gar nicht nehmen lässt. Das Aschenbrödel ist untrennbar mit Schloss Moritzburg verbunden und das liegt an diesem einen Film, dessen Magie auch mehr als 50 Jahre nach Erscheinen immer noch strahlt. Nun, wollen Sie mir nicht endlich verraten, wer Sie sind? Warum wollen Sie das wissen? Weil ich mir eben meine Braut ausgesucht habe und nicht weiß, wer sie ist. Der Prinz muss es noch rausfinden. Fans wissen es längst, schauen drei Haselnüsse für Aschenbrödel trotzdem wieder und wieder. Also 50 Mal mindestens. … im Norden -3 bis +3 Grad, im Süden bis zu 9 Grad. Tagsüber bleibt es trotz Sonnenschein im Norden kalt mit nur 3 bis 4 Grad, im Südwesten bis zu 12 Grad. Das Wochenende eher ruhiger, die Sonne kommt häufiger hervor, die Temperaturen nur noch im einstelligen Bereich, ein paar Schauer sind auch noch dabei. Danke schön, Carsten. Das waren die Tagesthemen bei uns für heute und in der ARD übernimmt die Satire. Erst kommt nur im Ersten und dann die Caroline Kebekus Show. Und morgen sehen wir uns wieder, wie immer freitags schon um 9:45 Uhr. Bis dahin Tschüss. und lassen Sie es sich gut gehen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "FyJ7S1EuMoE": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-22T05:18:36+00:00",
+  "title": "Mit einem AfD-POLITIKER und dem CHEF der GRÜNEN JUGEND an einer UNI...",
+  "duration": 1905,
+  "published": "20261119",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 204.2,
+  "rare": 0.0553,
+  "var": 0.7978,
+  "cl": null,
+  "speech_s": 1886.2,
+  "tokens": 6419,
+  "kw": [
+   [
+    "glaube",
+    "glaube, dann bekommst du das vielleicht",
+    124,
+    127,
+    5.39,
+    53
+   ],
+   [
+    "natürlich",
+    "das ist natürlich immer eine gute Sache.",
+    243,
+    247,
+    5.62,
+    39
+   ],
+   [
+    "eben",
+    "Jahr vor der Schule, damit eben alle",
+    306,
+    311,
+    5.39,
+    37
+   ],
+   [
+    "kinder",
+    "Kinder mit dem möglichst gleichen Stand",
+    308,
+    313,
+    5.6,
+    31
+   ],
+   [
+    "familien",
+    "Familien. Also ich glaube bei mir war es",
+    398,
+    401,
+    4.77,
+    9
+   ],
+   [
+    "quasi",
+    "Geld aus dem Nichts quasi. werden die",
+    104,
+    108,
+    4.48,
+    9
+   ],
+   [
+    "halte",
+    "halte ich für drafmeram. Ich habe vorhin",
+    682,
+    687,
+    4.79,
+    7
+   ],
+   [
+    "uni",
+    "sind wir heute an der Uni.",
+    3,
+    7,
+    4.55,
+    7
+   ],
+   [
+    "ähm",
+    "gesehen, dass dann abends ähm auch",
+    132,
+    138,
+    4.12,
+    18
+   ],
+   [
+    "protesten",
+    "Gehst du zu den Jen Protesten?",
+    11,
+    16,
+    3.71,
+    11
+   ],
+   [
+    "noten",
+    "Stichwort Noten halt für sehr wichtig.",
+    887,
+    893,
+    4.18,
+    7
+   ],
+   [
+    "besetzen",
+    "Universitäten auch besetzen wollen. Können Sie sich vorstellen, damit zu",
+    666,
+    673,
+    3.95,
+    5
+   ],
+   [
+    "schulsystem",
+    "bekommen, also mit wie das Schulsystem",
+    286,
+    291,
+    3.35,
+    5
+   ],
+   [
+    "unis",
+    "Jetzt werden ja auch Unis besetzt.",
+    765,
+    769,
+    3.5,
+    4
+   ],
+   [
+    "gewalttätig",
+    "Es gibt immer Leute, die gewalttätig",
+    142,
+    146,
+    3.48,
+    4
+   ],
+   [
+    "schulpflicht",
+    "solche Forderungen wie die Schulpflicht abzuschaffen oder aufzuweichen. Ich",
+    1248,
+    1253,
+    3.1,
+    4
+   ],
+   [
+    "gemeinschaftsgefühl",
+    "Gemeinschaftsgefühl zu stärken. Genau. ein Gemeinschaftsgefühl",
+    1811,
+    1817,
+    2.73,
+    3
+   ],
+   [
+    "aufzuweichen",
+    "abzuschaffen oder aufzuweichen. Ich glaube das ja auch ein Punkt, wo sie",
+    1249,
+    1254,
+    2.32,
+    3
+   ],
+   [
+    "migrantenfamilien",
+    "aus Migrantenfamilien äh dass sie auf dem Deutschlevel sind,",
+    312,
+    318,
+    2.0,
+    3
+   ],
+   [
+    "leistungsdruck",
+    "schon genug mit Leistungsdruck konfrontiert sind, also wenn wir uns",
+    908,
+    913,
+    2.99,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "gerade",
+    "international steht gerade auf gegen die",
+    49,
+    55,
+    5.77,
+    24
+   ],
+   [
+    "schule",
+    "wenn ich mit der Schule fertig bin,",
+    208,
+    212,
+    5.34,
+    24
+   ],
+   [
+    "bessere",
+    "besseres System, für bessere Bildungsbedingung, für bessere",
+    54,
+    59,
+    4.73,
+    6
+   ],
+   [
+    "generation",
+    "jüngeren Generation zu wenig gehört? Ich habe das Gefühl, man nimmt gerade so",
+    105,
+    112,
+    4.67,
+    6
+   ],
+   [
+    "mecklenburg",
+    "Mecklenburg Vorpommern für die AfD auch",
+    301,
+    306,
+    4.13,
+    3
+   ],
+   [
+    "mitbekommen",
+    "Nee, ich habe davon mitbekommen und also",
+    13,
+    16,
+    4.09,
+    3
+   ],
+   [
+    "akademiker",
+    "Mhm. Ähm, sind Ihre Eltern Akademiker?",
+    408,
+    413,
+    3.57,
+    3
+   ],
+   [
+    "mhm",
+    "Mhm. Ähm, sind Ihre Eltern Akademiker?",
+    408,
+    413,
+    3.53,
+    3
+   ],
+   [
+    "klimakrise",
+    "es die Klimakrise, sei es der Wohnung",
+    373,
+    378,
+    2.83,
+    2
+   ],
+   [
+    "schwerpunktsetzung",
+    "Schwerpunktsetzung, weil wenn wir uns Zahlen angucken, was vor allem",
+    609,
+    614,
+    2.41,
+    2
+   ]
+  ],
+  "tx": "Die Schüler protestieren und jetzt schließen sich die Studenten an. Deshalb sind wir heute an der Uni. Bist Jeny. Ja. Gehst du zu den Jen Protesten? Nee, ich habe davon mitbekommen und also ich find es auf jeden Fall unterstützenswert. Geht ihr hin zu den Protesten? Also ich bin auf jeden Fall am Start. Ja, da habe ich leider anderes zu tun. Ich muss studieren, ich muss zum Sport. Gib mein Bestes da Zeit zu finden und hinzugehen. Werden Sie bei den kommenden Protesten dabei sein? Ja. Und Sie? Ich muss arbeiten. Für was ist das? Für die ARD. ARD. WDR. Ja, WDR ist Teil von AD. Hi. Warum … ihre Zukunft auf die Straße gehen, wenn sie sich in den Parlamenten beteiligen, das ist natürlich immer eine gute Sache. Äh, man muss sich artikulieren, zumal ja die junge Generation ja auch viel kleiner ist als die vielen älteren Menschen, die wir haben. Und da muss man sich schon bemerkbar machen. Natürlich auf friedliche Weise. Das war natürlich was auch nicht überall gelungen ist jetzt bei diesen Protesten. Da hatten wir auch sehr starke Befürchtung nach den Protesten, die wir in Frankreich beispielsweise gesehen haben. Äh auch hier in Frankfurt war es ja so, dass 100 Polizisten … musste. Sie haben ja in Berlin studiert, Humold. An der Humold Uni. Wie ist das als Rechter an der Uni mit einer relativ linken Studentschaft? Ach, das äh weiß ich nicht. Also, es war gar nicht so politisch, muss ich sagen. Äh, wir haben jetzt einfach äh dort gab's unterschiedliche Weltanschauung und das finde ich eigentlich auch wichtig, dass man da trotzdem respektvoll miteinander umgeht. äh unterschiedliche Ansichten, aber am Ende hat man das gleiche Ziel, einen guten Abschluss zu machen. Äh und äh im Bereich Volkswirtschaft äh war das jetzt kein vordringliches Ziel, das dass man sich … da da lernt dann Kinder eben auch schon selber zu lernen und und vielleicht auch Spaß daran zu haben und das ist natürlich dann verbessert deutlich die Startchancen auch derer, die vielleicht aus dem Eltern rauskommen, was eher bildungsfern ist. Ich will noch einmal auf die auf die Ursprungsfrage zurück, nämlich die Gen Regelproteste, die an den sich jetzt Studenten auch beteiligen wollen, Universitäten auch besetzen wollen. Können Sie sich vorstellen, damit zu marschieren? Nein, also jedenfalls nicht bei solchen Protesten. Also für bessere Bildung äh würde ich gerne auf die Straße gehen, … erreichen. Und je früher man es lernt, umso mehr ist das natürlich auch äh in einem. Ja. Und und ich find es wichtig, das heiß fördern und was heißt Konkurrenz? Fördern und fordern, es ist ja keine Konkurrenz in der Schule. Nein, es ist einfach man lernt ja für sich und für sein Leben. Ja. Und und da ist es doch wichtig, dass man dass man auch eine Rückmeldung natürlich von der von der Schule, von der Klasse bekommt. Stichwort Noten halt für sehr wichtig. Kopfnoten übrigens auch gibt's ja mittlerweile wieder bei uns. Hat man ja mal abgeschafft zwischendurch. Das heiß das sind so sozusagen … nicht hin, indem man einfach alles bewertet, was in Schule passiert. Ich glaube, dass wir jetzt nicht von heute auf morgen Notensystem überwinden, ist mir auch klar und darum geht's mir glaube ich im Kern auch nicht, aber ich glaube, wenn wir uns anschauen, wie unser Schulsystem gerade aufgestellt ist, dann könnten wir beispielsweise damit ansetzen, dass man wir sehen ja überall auch, dass Vereine z.B. totale Schwierigkeiten haben noch genügend junge Menschen hinzubekommen. Ich habe selber als Fußballtrainer im Verein gearbeitet und wenn du da Ganztagsschulen hast, die eine gute … ich glaube das ist halt der falsche Weg. Ja, es geht nicht darum, die Schulpflicht aufzuweichen, sondern die Präsenzpflicht. Ja, das war der Plan in Sachsenanhalt, die Idee äh dass man dass man dass manche Kinder vielleicht auch zu Hause lernen können, die natürlich regelmäßig dann auch in den Schulen natürlich geprüft werden, ob sie ob sie das Leistungsniveau überhaupt bringen können. Aber die Schulpflicht sollte sollte niemand sollte niemand wollen Homchooling ermöglichen. Ist nein Mickenburg-Vern ist das kein Thema. sind ja unterschiedliche Länderideen, die es da gibt und wir in … überhaupt Flächendecken, Bundesweit Kinder auch in Kindertagesen gehen können und dann geht's auch um die Beitragsfreiheit. Ich glaube, dass man eine Verpflichtung, dass das nicht der erste Schritt sein kann, sondern zum ersten Schritt erstmal die Plätze schaffen muss und dann eben eine Breitragsfreiheit, weil würden Sie es für eine gute Idee halten, wenn Kinder dazu verpflichtet werden, vor der Schule ein Jahr lang in eine Kita zu gehen? Ich glaube, es ist gut, wenn jedes Kind die Möglichkeit hat, das ein Anspruch zu nehmen, aber keine Pflicht. Ich glaube, ich wäre eher mal, also wir sind … noch was anderes in Sachsen anheit speziell. Ich habe hier aber auch das Wahlprogramm aus Micklenburg Vorpommern, keine Angst der Häum AfD an Schulen die Deutschlandfahne hissen und bei Feierlichkeiten die Nationalhymne singen lassen. Was versprechen Sie sich davon? Ja, wir brauchen ja etwas, was uns verbindet in unserem Land und das ist aus meiner Sicht in den letzten Jahren, Jahrzehnten irgendwie ein bisschen verloren gegangen. Man sieht immer bei Fußballweltmeisterschaften beispielsweise, wie wie junge Menschen plötzlich sagen: \"Wow, das ist ein tolles Gefühl, dass wir in Gemeinschaft … Gesellschaft und es ist doch wunderbar, wenn wir ihnen das nahebringen, was was Deutschland ausmacht. Ja. was über Jahrhunderte gewachsen ist und das ist sie sind nicht die sind nicht derjenige sie sind nicht der ja, weil sie als derjenige auftreten, der definieren möchte, was Deutsch ist mit Fleiß, mit Selbstbewung mit Disziplin und das ist ähnlich das Deutschland nicht unsere Gesellschaft für die wir stehen. Also ich schon sie vielleicht, ich nicht. Bei der Analyse, dass vieles falschafft, sind sich einig, wie man da rauskommt nicht so sehr. Vielen Dank für das Gespräch. Vielen Dank. Danke.",
   "gist": "s",
   "status": "ok",
   "src": "auto"
