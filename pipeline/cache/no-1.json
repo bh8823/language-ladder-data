@@ -819,25 +819,26 @@
  "SYczZEDHGrE": {
   "channel": "Level Up Norge",
   "lang": "no",
-  "checked": "2026-11-11T22:49:48+00:00",
+  "checked": "2026-11-22T17:00:07+00:00",
   "title": "Karl anmelder Final Fantasy Resonance - Nytt spill på gamlemåten?",
   "duration": 492,
   "published": "20261111",
   "spoken": "no",
   "spoken_v": 2,
-  "pace": 172.6,
-  "rare": 0.1466,
-  "var": 0.8265,
-  "speech_s": 400.8,
-  "tokens": 1153,
+  "pace": 179.9,
+  "rare": 0.1469,
+  "var": 0.8335,
+  "cl": 0.0432,
+  "speech_s": 385.8,
+  "tokens": 1157,
   "kw": [
    [
     "spill",
-    "jeg var 14 og spilt hvert eneste spill i",
+    "jeg var 14 og spillt hvert eneste spill",
     124,
     129,
     5.26,
-    8
+    9
    ],
    [
     "gamle",
@@ -849,9 +850,9 @@
    ],
    [
     "historie",
-    "sesonger med historie fra de 10 årene",
-    51,
-    57,
+    "historie fra de 10 årene Brave Exvius",
+    52,
+    58,
     5.14,
     5
    ],
@@ -859,13 +860,13 @@
     "nytt",
     "gjort ved å lage et mobilspill på nytt.",
     37,
-    45,
+    42,
     5.5,
     4
    ],
    [
     "savner",
-    "Er du en av dem som savner da Final",
+    ">> Er du en av dem som savner da Final",
     10,
     15,
     4.7,
@@ -881,9 +882,9 @@
    ],
    [
     "stil",
-    "skikkelig pen visuell stil. I tillegg",
+    "skikkelig pen visuell stil. I tillegg vil jeg si det strekker",
     313,
-    319,
+    320,
     4.69,
     2
    ],
@@ -896,34 +897,34 @@
     2
    ],
    [
+    "kost",
+    "fra 10 og har til og med kost meg med",
+    159,
+    163,
+    4.1,
+    2
+   ],
+   [
     "spillene",
     "spillene i serien. Rain er en",
     104,
     109,
     3.83,
-    3
-   ],
-   [
-    "kost",
-    "og har til og med kost meg med det sære",
-    159,
-    164,
-    4.1,
     2
    ],
    [
     "univers",
-    "dette spillet deler historie og univers",
-    80,
-    84,
+    "og univers med opphavet sitt, så er",
+    81,
+    88,
     3.65,
     2
    ],
    [
     "visuell",
-    "skikkelig pen visuell stil. I tillegg",
+    "skikkelig pen visuell stil. I tillegg vil jeg si det strekker",
     313,
-    319,
+    320,
     3.61,
     2
    ],
@@ -936,6 +937,14 @@
     2
    ],
    [
+    "pixel",
+    "Fantasy var turbasert? Savner du pixel",
+    12,
+    18,
+    3.0,
+    2
+   ],
+   [
     "kampsystemet",
     "utgjør mye av strategien i kampsystemet.",
     258,
@@ -944,12 +953,110 @@
     3
    ],
    [
+    "remake",
+    "Resonance er en slags remake/nytolkning av det nedlagte mobilspillet Final",
+    43,
+    51,
+    2.55,
+    2
+   ],
+   [
+    "soundtracket",
+    "til soundtracket. Istedenfor å gå for",
+    330,
+    335,
+    2.44,
+    2
+   ],
+   [
     "mobilspill",
     "gjort ved å lage et mobilspill på nytt.",
     37,
-    45,
+    42,
     2.17,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "samtidig",
+    "summons og limit breaks, samtidig som",
+    184,
+    188,
+    5.42,
+    4
+   ],
+   [
+    "spillet",
+    "Så selv om dette spillet deler historie",
+    79,
+    84,
+    4.87,
+    4
+   ],
+   [
+    "oppnå",
+    "Noctis for å oppnå sånne synergier og",
+    266,
+    271,
+    4.63,
+    2
+   ],
+   [
+    "art",
+    "art og dungeons fulle av tilfeldige",
+    15,
+    20,
+    4.61,
+    2
+   ],
+   [
+    "bit",
+    "16-bit inspirerte chiptunes har de tatt",
+    332,
+    338,
+    4.19,
+    1
+   ],
+   [
+    "scener",
+    "scener og sekvenser her med en regi og",
+    319,
+    324,
+    4.17,
+    1
+   ],
+   [
+    "inspirerte",
+    "16-bit inspirerte chiptunes har de tatt",
+    332,
+    338,
+    3.59,
+    1
+   ],
+   [
+    "flotteste",
+    "et av de flotteste og mest storslagne",
+    337,
+    343,
+    3.56,
+    1
+   ],
+   [
+    "fundamentet",
+    "spill som går tilbake til fundamentet og",
+    176,
+    180,
+    3.55,
+    1
+   ],
+   [
+    "fighter",
+    "fighter, monk og dragoon og så videre,",
+    235,
+    241,
+    3.54,
+    1
    ],
    [
     "turbasert",
@@ -958,13 +1065,20 @@
     18,
     2.12,
     2
+   ],
+   [
+    "adskilte",
+    "foregår i helt adskilte univers uten",
+    215,
+    220,
+    2.97,
+    1
    ]
   ],
-  "tx": "Er du en av dem som savner da Final Fantasy var turbasert? Savner du pixel art og dungeons fulle av tilfeldige monster fights? Savner du å bromme rundt på et åpent verdenskart i et luftskip? I så fall er Final Fantasy Resonance så til de grader noe for deg. Gjengen bak Bravely Default og Octopath Traveler, to populære og veldig tradisjonsrike japanske rollespillserier, har endelig fått prøve seg på et Final Fantasy. Og det har det gjort ved å lage et mobilspill på nytt. Vent, hva da? Resonance er en slags remake/ nytolkning av det nedlagte mobilspillet Final Fantasy Brave Xvus. Det forteller … 10 årene Brave Xvus var spillbart. I rollen som Rain, en luftskipkaptein fra kongerike Grand Shelt, samler du en stadig større gjeng med venner og misfits for å reise rundt og beskytte de seks verdenskrystallene fra The Sorn Six. En gjeng med skikkelig edgy riddere i Yoshitaka Amano rustninger. Der originalspillet var fullt av mikrotransaksjoner og Gcha mekanikker, er Resonance bygd opp på nytt. Helt uten kynisk mobilspill pengedrit. Så selv om dette spillet deler historie og univers med opphavet sitt, så er resten av opplevelsen heldigvis helt ny. Helt fra start er det tydelig at Resonence … Final Fantasy. Du har et stort fokus på magiske krystaller sånn som i de første spillene i serien. Rain er en luftskipkaptein akkurat som Cecell i Final Fantasy 4. Vision systemet er sterkt inspirert av jobbsystemet fra 3 og 5. Magitech industri er tatt rett ut av 6 og så videre og så videre. Spillet er pepa med store og små referanser til Final Fantasys lange historie. Som en som har fulgt Final Fantasy siden jeg var 14 og spilt hvert eneste spill i hovedserien, bortsett fra 11, pluss en god dose med spinoffs, er jeg midt i målgruppa for alt dette spillet prøver på. Det er comfort food … klart å pusle det sammen til noe som klarer å stå på egne bein, om det er noe mer her enn bare nostalgi for gamle fans. Svaret på det er heldigvis ja. >> Jeg er ikke en av dem som har ropt høyest om at Final Fantasy skal være turbasert og fylt med flest mulige rollespillelter og sånt. Jeg er glad i jobbsystemet fra 5, sphere griden fra 10 og har til og med kost meg med det sære junction systemet fra 8. Og jeg er ganske vant til at Final Fantasy er en serie som konstant vrir og venner på seg. Så turbaserte kamper er verken en dealbreaker eller dealmaker for min del. Når det er sagt er det … nok med det til at det likevel føles friskt og moderne. Du har de tradisjonelle kampene med angrep, magi, sømmens og limitbreaks samtidig som det er et ekstra fokus på å finne svakheter hos fiender og sette dem ut av spill med et staggermeter. Litt alle av det man gjør i Persona og remakeserien. Jo og så er det en ting til. K. De aller fleste Final Fantasy spill foregår i helt adskilte univers uten koblinger mellom seg i det hele tatt. Men i Resonance får du se noen gamle travere på nytt. Ikke som en del av historien, men som høybudsjetts superangrep du kan putte på figurene dine. … er det her klassesystemet i spillene kommer inn. Istedetfor tradisjonelle jobs som fighter, monk og dragoon og så videre, har du disse her som blir kalt visions. Cloud, Terra, Sidan og klassiske Final Fantasy helter har massevis av egenskaper som former figurene dine og lærer dem nye angrep. Du har noen bestemte roller fra start. Rain er en slags damage tank og Fina er en typisk white mage, men samtidig har du friheten til å bygge dem ut akkurat som du vil. Og det er kombinasjoner av visions som utgjør mye av strategien i kampsystemet. Etter hvert kan du for eksempel bygge opp en figur … Sessle og Noctis for åpne sånne synergier og sånt. Vi gamere er glad i synergier. Jeg vet ikke hvor bra jeg klarte å forklare det, men kampsystemet er en frisk ny vri på gamle ideer. Og jeg synes det funker kjempebra. did. Resonance er et såkalt HD 2D spill som kombinerer klassisk pixelart med detaljerte HDmiljøer, lyssetting og kamerafokus for å oppnå en unik og skikkelig pen visuell stil. I tillegg vil jeg si det strekker definisjonen av 2D ganske langt. Det er scener og sekvenser her med en regi og kameraføring jeg aldri har sett i spill med svære piksler. Og det er overraskende stilig … Istedet for å gå for 16 bit inspirerte chiptunes har de tatt fram hele orkesteret og resultatet er et av de flotteste og mest storslagende spillsrackene i hele år. Så kort fortalt, jeg har kost meg skikkelig med Final Fantasy Residence, men det er en ting som for meg holder det tilbake, og det er dessverre historien. Det er helt klart et bevisst valg å fortelle en ultradisjonell JRPG historie som et callback til de fem se første Final Fantasy spillene. Og det er veldig tydelig at det gjør det med glimt i øyet. Samtidig fører det til en historie som er stappfull av tropes og … og dramatiske virkemidler som begynte å føles repetitive for 20 år siden. Det er fullt mulig å fortelle nye gode historier i denne sjangeren. Kleroppskur, Persona og Delta Run er bare noen eksempler på det. Så jeg synes det er litt synd hvor konservative de har valgt å være her. Jeg skjønner tanken om å gå back to basics, men det hadde samtidig vært en kjempegod anledning til å introdusere flere nye twister på de gamle klisjeene på samme måte som det har gjort med kampsystemet og resten av spildldesignet. >> >> Final Fantasy Resonance er et genuint fornøyelig spill å spille. Det har bra … stil. Er du ute etter et flunkende nytt RPG gjort på gamle måten, er det veldig lett å anbefale. Men i et japansk rollespill er historien også en stor del av pakka og ikke minst en viktig del av kjærligheten jeg har for Final Fantasy serien. Det trekker derfor en del ned på det som for meg kunne vært et av årets aller beste spill. På grunn av helt vanlige mennesker som backer Level Up på Patreon, har vi mulighet til å følge spillindustrien som en liten redaksjon her i Norge. En av de backerne er Vegar Borgan. Tusen takk, Vegar, du er like flott som musikken i Final Fantasy Residence. >> >> เ",
+  "tx": ">> Er du en av dem som savner da Final Fantasy var turbasert? Savner du pixel art og dungeons fulle av tilfeldige monster fights? Savner du å bromme rundt på et åpent verdenskart i et luftskip? I så fall er Final Fantasy Resonance så til de grader noe for deg. Gjengen bak Bravely Default og Octopath Traveler, to populære og veldig tradisjonsrike japanske rollespillserier, har endelig fått prøve seg på et Final Fantasy. Og det har de gjort ved å lage et mobilspill på nytt. Resonance er en slags remake/nytolkning av det nedlagte mobilspillet Final Fantasy Brave Exvius. Det forteller den første … Exvius var spillbart. I rollen som Rain, en luftskipkaptein fra kongeriket Grandshelt, samler du en stadig større gjeng med venner og misfits for å reise rundt og beskytte de seks verdens krystallene fra The Sworn Six. En gjeng med skikkelig edgy riddere i Yoshihaka Amano-rustninger. Der originalspillet var fullt av mikrotransaksjoner og gacha-mekanikker, er Resonance bygget opp på nytt. Helt uten kynisk mobilspill-pengedrit. Så selv om dette spillet deler historie og univers med opphavet sitt, så er resten av opplevelsen heldigvis helt ny. Helt fra start er det tydelig at Resonance gjør … Final Fantasy. Du har et stort fokus på magiske krystaller, sånn som i de første spillene i serien. Rain er en luftskipkaptein akkurat som Cecil i Final Fantasy IV. Vision-systemet er sterkt inspirert av jobbsystemet fra III og V. Magitek Industri er tatt rett ut av VI og så videre og så videre. Spillet er pepret med store og små referanser Final Fantasys lange historie. Som en som har fulgt Final Fantasy siden jeg var 14 og spillt hvert eneste spill i hovedserien, bortsett fra 11, pluss en god dose med spin-offs, er jeg midt i målgruppen for alt dette spillet prøver på. Det er comfort … klare å pusle det sammen til noe som klarer å stå på egne bein, om det er noe mer her enn bare nostalgi for gamle fans. Svaret på det er heldigvis ja. Jeg er ikke en av dem som har ropt høyest om at Final Fantasy skal være turbasert og fylt med flest mulige rollespillelementer og sånt. Jeg er glad i jobbsystemet fra fem, sphere-griden fra 10 og har til og med kost meg med det sære junction-systemet fra åtte, og jeg er ganske vant til at Final Fantasy er en serie som konstant vrir og vender på seg. Så turbaserte kamper er hverken en dealbreaker eller dealmaker for min del. Når det er sagt … og gjør nok med det til at det likevel føles friskt og moderne. Du har de tradisjonelle kampene med angrep, magi, summons og limit breaks, samtidig som det er et ekstra fokus på å finne svakheter hos fiender og sette dem ut av spill med et stagger meter. Litt ala det man gjør i Persona og remake-serien. Jo, også er det én ting til. De aller fleste Final Fantasy-spill foregår i helt adskilte univers uten koblinger mellom seg i det hele tatt. Men i Rebirth får du se noen gamle travere på nytt. Ikke som en del av historien, men som høybudsjetts superangrep du kan putte på figurene dine. … er det her klassesystemet i spillet kommer inn. Istedenfor tradisjonelle jobs som fighter, monk og dragoon og så videre, har du disse her som blir kalt visions. Cloud, Tifa, Cid og klassiske Final Fantasy helter har massevis av egenskaper som former figurene dine og lærer dem nye angrep. Du har noen bestemte roller fra start. Rain er en slags damage tank og Fina er en typisk white mage, men samtidig har du friheten til å bygge dem ut akkurat sånn du vil. Og det er kombinasjoner av visions som utgjør mye av strategien i kampsystemet. Etterhvert kan du for eksempel bygge opp en figur med … Cecil og Noctis for å oppnå sånne synergier og sånt. Vi gamere er glade i synergier. Jeg vet ikke hvor bra jeg klarte å forklare det, men kampsystemet er en frisk ny vri på gamle ideer, og jeg synes det funker kjempebra. Resonance er et såkalt HD 2D-spill som kombinerer klassisk pixel art med detaljerte HD-miljøer, lyssetting og kamerafokus for å oppnå en unik og skikkelig pen visuell stil. I tillegg vil jeg si det strekker definisjonen av 2D ganske langt. Det er scener og sekvenser her med en regi og kameraføring jeg aldri har sett i spill med svære pixler, og det er overraskende stilig å … Istedenfor å gå for 16-bit inspirerte chiptunes har de tatt frem hele orkesteret, og resultatet er et av de flotteste og mest storslagne spill soundtracket i hele år. Så kort fortalt, jeg har kost meg skikkelig med Final Fantasy Resonance. Men det er én ting som for meg holder det tilbake, og det er dessverre historien. Det er helt klart et bevisst valg å fortelle en ultra tradisjonell JRPG-historie som et callback til de fem-seks første Final Fantasy spillene, og det er veldig tydelig at de gjør det med glimt i øyet. Samtidig fører det til en historie som er stappfull av tropes og … og dramatiske virkemidler som begynte å føles repetitive for 20 år siden. Det er fullt mulig å fortelle nye, gode historier i denne sjangeren. Clair Obscur: Persona og Delta Rune er bare noen eksempler på det. Så jeg synes det er litt synd hvor konservative de har valgt å være her. Jeg skjønner tanken om å gå back to basics, men det hadde samtidig vært en kjempegod anledning til å introdusere flere nye twister på de gamle klisjeene, på samme måte som de har gjort med kampsystemet og resten av spilldesignet. Final Fantasy Resonance er et genuint fornøyelig spill å spille. Det har bra … stil. Er du ute etter et flunkende nytt RPG gjort på gamle måten, er det veldig lett å anbefale. Men i et japansk rollespill er historien også en stor del av pakka, og ikke minst den viktige delen av kjærligheten jeg har for Final Fantasy-serien. Det trekker derfor en del ned på det som for meg kunne vært et av årets aller beste spill. På grunn av helt vanlige mennesker som backer Level Up på Patreon, har de mulighet til å følge spillindustrien som en liten redaksjon her i Norge. Én av de backerne er Vegar Borgan. Tusen takk, Vegar. Du er like flott som musikken i Final Fantasy Resonance. >>",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0445
+  "src": "auto"
  },
  "JRaafDAwdZc": {
   "channel": "Learn Norwegian Now! (Lær Norsk Nå)",
@@ -2663,8 +2777,8 @@
  "zbrEmeLK3ts": {
   "channel": "Norwegian with Ilys",
   "lang": "no",
-  "checked": "2026-11-12T00:28:55+00:00",
-  "title": "My third year in Norway : when I started on social media",
+  "checked": "2026-11-22T16:52:40+00:00",
+  "title": "My third year in Norway : when I started on social media I Norsk podkast",
   "duration": 1259,
   "published": "20260626",
   "spoken": "no",
@@ -2672,6 +2786,7 @@
   "pace": 158.6,
   "rare": 0.0111,
   "var": 0.6807,
+  "cl": 0.0688,
   "speech_s": 1259.4,
   "tokens": 3329,
   "kw": [
@@ -2812,11 +2927,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "egentlig",
+    "Fordi jeg er egentlig fransk, har bodd i",
+    8,
+    16,
+    5.62,
+    10
+   ],
+   [
+    "boken",
+    "bøkene. Den ene boken som jeg leste var",
+    303,
+    310,
+    4.85,
+    10
+   ],
+   [
+    "youtube",
+    "mye på YouTube fordi jeg hadde lært meg",
+    757,
+    764,
+    4.65,
+    6
+   ],
+   [
+    "elever",
+    "hadde veldig lyst til å ha flere elever.",
+    253,
+    261,
+    4.78,
+    5
+   ],
+   [
+    "redigere",
+    "skulle redigere. Jeg hadde aldri gjort",
+    836,
+    843,
+    3.62,
+    3
+   ],
+   [
+    "studerte",
+    "der jeg studerte så kunne man velge å",
+    202,
+    207,
+    4.13,
+    2
+   ],
+   [
+    "inspirerte",
+    "ble veldig inspirerte av historien min",
+    1049,
+    1056,
+    3.59,
+    1
+   ],
+   [
+    "tregt",
+    "gikk det litt tregt og sånn. Og det var",
+    438,
+    445,
+    3.56,
+    1
+   ],
+   [
+    "dybden",
+    "at vi egentlig ikke skulle gå i dybden",
+    352,
+    359,
+    3.5,
+    1
+   ],
+   [
+    "views",
+    "videoer med 20 000 views som var veldig",
+    1009,
+    1015,
+    2.98,
+    1
+   ],
+   [
+    "teamene",
+    "for å satse alt på norsk teamene jeg gir",
+    1207,
+    1215,
+    2.87,
+    1
+   ],
+   [
+    "tidsplanen",
+    "organisere tidsplanen min og kunne velge",
+    535,
+    542,
+    2.86,
+    1
+   ],
+   [
+    "kreativiteten",
+    "jeg bruke all kreativiteten min og bruke",
+    904,
+    912,
+    2.63,
+    1
+   ]
+  ],
   "tx": "Hallo og velkommen tilbake til Norwegian Diaries som er en podcast hvor jeg forteller om historien min med Norge. Fordi jeg er egentlig fransk, har bodd i Norge i se år og i dag er jeg norsklærer og jeg føler meg hjemme i Norge. Og jeg hadde lyst til å fortelle litt mer om hele historien og om hvorfor jeg kom hit. Eh hvordan det er for meg å bo her. Og det er det jeg gjør i denne podcasten. Og i dag skal jeg snakke om det tredje året mitt i Norge. Så det var fra sommer 2022 til sommer 2023. Det var et år som var en overgang for meg. Jeg gikk fra å være student og ikke helt vite hva jeg skulle … år til. Og jeg hadde også mange venner. Jeg passet barn og jeg elsket å gjøre det og jeg følte meg bra der. Så jeg bestemte meg for å gi meg selv ett år til og for å bo i Trondheim ett år til for å prøve å finne ut av hva jeg ville gjøre med livet mitt. Som sagt så ville jeg fortsette å studere, men jeg ville også ha litt mer tid til å gjøre andre ting fordi jeg elsket å jobbe. Og for meg så tok det veldig mye tid å studere fordi jeg brukte mye mer tid enn alle andre på å lese artikler, bøker, på å skrive oppgaver siden jeg ikke var norsk. Og jeg følte at det begynte å ta veldig mye plass … fordi jeg visste at det ikke kom til å være for mye for meg. Og siden jeg gledet meg så mye, så begynte jeg å studere på sommeren. Så jeg hadde kjøpt pensumbene før sommeren for å kunne lese dem på stranden, for å kunne kose meg på sommeren med pensumbene, fordi jeg syntes det var veldig spennende å studere. Og jeg likte tanken på at jeg skulle begynne året og allerede ha lest bøkene. Den ene boken som jeg leste var vanskelig å lese og jeg syntes det var veldig utfordrende. Og jeg elsker når ting er litt vanskelige og når jeg må lese flere ganger for å forstå fordi jeg synes det er så … med notater. Jeg hadde skjønt alt. Og ja, det var egentlig veldig kjedelig og veldig skuffende fordi jeg gledet meg til å studere og til å lære mer. Men jeg lærte ingenting. Greia er at i studiet jeg tok så var det mange som enten ikke visste om det var det de ville studere eller som visste at de ville bytte studie. Så det var mange som ikke var motiverte. Og derfor så gikk det litt tregt og sånn. Og det var også et studie hvor man måtte velge selv hvor mye man ville jobbe. Så det var mulig å bestå uten å ha jobbet veldig mye, men da hadde man ikke veldig gode karakterer og man hadde på … veldig med jobben min. Jeg kjedet meg litt på universitetet, men jeg synes fortsatt det var fint å møte folk og å dra på universitetet og ha forelesninger og jeg hadde venner der, så det gikk fint selv om jeg synes det var litt kjedelig. Og i tillegg så fortsatte jeg å passe barn. Og jeg husker at en dag så passet jeg barn på kvelden. Foreldrene skulle spise ute, så de spurte om jeg kunne komme og passe jentene på kvelden. Så jeg gjorde det. Jeg koste meg veldig med dem. Nå kjente jeg dem veldig godt og jeg elsket å tilbringe tid med dem og leke og lage mat til dem. Så jeg var der hele … legge meg tidlig. Det er det jeg har lyst til å gjøre. Så jeg kjente mer og mer at det å studere egentlig ikke passet meg så godt. Og jeg begynte å tenke på at jeg egentlig hadde begynt å studere fordi jeg ville ha opplevd hvordan det var å være student. Men nå hadde jeg opplevd det. Nå var det nok. Nå hadde jeg vært på fest. Jeg hadde tatt eksamen. Jeg hadde lært veldig mye. Men nå var det kanskje nok for meg. Og i desember 2022 så begynte jeg å poste på sosiale medier. Det er veldig rart at det nesten er fire år siden jeg begynte på sosiale medier. Jeg føler både at jeg har gjort det hele … YouTuber, men jeg ville lage videoer på YouTube i hvert fall. Men veldig, veldig fort så innså jeg hvor mye tid det tok. Og når jeg begynte så ante jeg ikke hvordan man skulle redigere. Jeg hadde aldri gjort det før. Så det tok så lang tid for meg å redigere videoer og det var nesten ingen som visste hvem jeg var og som så på videoene mine. Så jeg brukte kanskje 40 timer på å lage en video og så var det 500 stykker som så den. Så jeg skjønte at det jeg gjorde det ikke kom til å funke. Og da tenkte jeg at jeg kunne først lage videoer for Instagram og lære å redigere ved det å lage små … var veldig komfortabel med å snakke til et kamera fordi jeg hadde gjort det før. Jeg brukte selvfølgelig det at jeg snakket engelsk og det at jeg hadde vært i Canada, ikke sant. Og jeg følte plutselig at alt ga mening. Og jeg kunne styre alt selv. Det var jeg som bestemte hvor mye jeg skulle jobbe, hvor mange videoer jeg skulle poste og hva jeg skulle forklare i hver video. Så jeg syntes at det å lage videoer var perfekt for meg. Fordi jeg kunne være kreativ. Samtidig så hjalper jeg folk som er noe som jeg elsker å gjøre. Jeg elsker å hjelpe. Og jeg kunne jobbe så mye jeg ville og styre … Han vokste opp der. Så for han så var det bare fint å flytte tilbake. Men for meg så var det litt skummelt fordi jeg kjente ingen i Oslo og jeg hadde ingen forhold til denne byen. Men jeg var samtidig veldig glad for å flytte fordi siden jeg hadde begynt på sosiale medier og siden jeg kanskje ville bli skuespiller så tenkte jeg at det skjedde mye mer i Oslo siden det er hovedstaden. Så jeg gledet meg, samtidig som jeg var litt redd. Jeg gledet meg også til å flytte med kjæresten min. Fordi i Trondheim så bodde vi ikke sammen. Vi bodde i to forskjellige leiligheter og vi bodde i kollektiv. … Og jeg synes det var veldig skummelt. Og i dag er jeg så glad for at jeg tok dette valget. Jeg har ikke angret et sekund på at jeg valgte dette. Og jeg skal gi dere alle grunnene til at jeg tok dette valget i neste episode. Så hvis du vil få beskjed når neste episode kommer ut, så kan du abonnere på denne podcasten. Jeg håper at du likte episoden. Hvis du gjorde det, så kan du like videoen hvis du ser på YouTube eller gi podcasten fem stjerner hvis du hører på Spotify. Det hadde gjort meg veldig glad. Og vi snakkes neste uke for historien om hvordan jeg bestemte meg for å bli norsklærer.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0721
+  "src": "auto"
  },
  "CCQ4FoIfLYk": {
   "channel": "Learn Norwegian Now! (Lær Norsk Nå)",
@@ -3433,7 +3653,7 @@
  "bSjI5_B3Hbg": {
   "channel": "Learn Norwegian Now! (Lær Norsk Nå)",
   "lang": "no",
-  "checked": "2026-11-12T00:32:06+00:00",
+  "checked": "2026-11-22T16:15:21+00:00",
   "title": "The Furious Opposition to Trondheim's New Name | Easy Norwegian",
   "duration": 376,
   "published": "20250527",
@@ -3442,6 +3662,7 @@
   "pace": 100.7,
   "rare": 0.0385,
   "var": 0.7567,
+  "cl": 0.0562,
   "speech_s": 371.2,
   "tokens": 623,
   "kw": [
@@ -3542,11 +3763,132 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bytte",
+    "Man gjorde det danskere ved å bytte navnet fra Trondheim til Trondhjem.",
+    88,
+    96,
+    4.89,
+    6
+   ],
+   [
+    "gjorde",
+    "Man gjorde det danskere ved å bytte navnet fra Trondheim til Trondhjem.",
+    88,
+    96,
+    5.52,
+    3
+   ],
+   [
+    "episoden",
+    "Hei der alle sammen. I denne episoden skal vi snakke om Trondheim,",
+    0,
+    7,
+    4.3,
+    2
+   ],
+   [
+    "fylke",
+    "Men Nidaros lå i det som ble kalt for Trondheim fylke.",
+    52,
+    60,
+    4.25,
+    2
+   ],
+   [
+    "hete",
+    "De begynte å protestere. \"Vi vil ikke at byen skal hete Nidaros.\"",
+    263,
+    268,
+    4.02,
+    1
+   ],
+   [
+    "brydde",
+    "hvis de ikke brydde seg uansett?",
+    232,
+    236,
+    3.88,
+    1
+   ],
+   [
+    "elv",
+    "Nidelva er ei elv som renner gjennom Trondheim",
+    38,
+    44,
+    3.86,
+    1
+   ],
+   [
+    "trøndere",
+    "Dette var kjempeviktig for trøndere. Men Stortinget, parlamentet i Norge, bestemte at",
+    192,
+    201,
+    3.58,
+    1
+   ],
+   [
+    "heim",
+    "Vi skal kalle det for \"heim\", som er mye nærmere Nordønt",
+    306,
+    311,
+    3.55,
+    1
+   ],
+   [
+    "protestere",
+    "De begynte å protestere. \"Vi vil ikke at byen skal hete Nidaros.\"",
+    263,
+    268,
+    3.54,
+    1
+   ],
+   [
+    "upopulært",
+    "Det var rett og slett så upopulært i Trondhjem",
+    275,
+    281,
+    3.37,
+    1
+   ],
+   [
+    "majoritet",
+    "Det var en stor majoritet som ville fortsette å kalle byen Trondhjem.",
+    184,
+    192,
+    3.34,
+    1
+   ],
+   [
+    "kjempeviktig",
+    "Dette var kjempeviktig for trøndere. Men Stortinget, parlamentet i Norge, bestemte at",
+    192,
+    201,
+    2.73,
+    1
+   ],
+   [
+    "navnebytte",
+    "Dette er et navnebytte som skapte mye engasjement og var kjempekontroversielt.",
+    354,
+    363,
+    2.57,
+    1
+   ],
+   [
+    "spørrende",
+    "Og de bytta navnet til Nidaros i 1929. Og det... man kan jo stille seg litt spørrende:",
+    216,
+    228,
+    2.45,
+    1
+   ]
+  ],
   "tx": "Hei der alle sammen. I denne episoden skal vi snakke om Trondheim, Norges tredje største by. Trondheim het egentlig Nidaros da den ble opprettet for ca. 1000 år siden. På slutten av 900-tallet, 996, er det det? Jeg husker ikke eksakt årstall, men ca. 1000 år siden. Det betyr rett og slett byen ved Nidelva, der Nidelva renner ut. Nidelva er ei elv som renner gjennom Trondheim og renner ut i Trondheimsfjorden. Det var derfor navnet på byen var Nidaros. Men Nidaros lå i det som ble kalt for Trondheim fylke. Det er litt som at Stavanger ligger i Rogaland. Så Nidaros lå i det som var Trondheim fylke. Men så skjedde det noe interessant etter hvert. Under unionstiden med Danmark begynte flere og flere å bruke navnet på fylket Trondheim, også om byen. Man gjorde det danskere ved å bytte navnet fra Trondheim til Trondhjem. Ca. fra 1500-tallet til 1930, 1929, så var navnet på byen Trondhjem. Det kom fra det gamle fylket Trondheim, men det ble fordanska til Trondhjem. Litt som at vi skulle ha bytta navn på Stavanger til Rogaland. Men etter 1905 ville man gjøre bynavn norskere. Det skjedde for eksempel med Chistiania, hovedstaden Chistiania, som ble til Oslo. Oslo fikk et nytt navn, fikk tilbake sitt gamle navn. Man ville gjøre det samme med Trondhjem. Trondhjem var fordanska \"Trondheim\" og ville ta tilbake det første navnet Nidaros, byen ved Nidelva. I 1928 hadde man en folkeavstemning i Trondhjem. En folkeavstemning der folk kunne stemme på om de ville ha det gamle navnet Nidaros, eller ville beholde sitt nåværende navn Trondhjem. Jeg tror 17 000 stemte for å ha Trondhjem og bare cirka 500 til 1000, stemte for å bytte navnet. Det var en stor majoritet som ville fortsette å kalle byen Trondhjem. Dette var kjempeviktig for trøndere. Men Stortinget, parlamentet i Norge, bestemte at \"Nei, vi driter i hva folk i Trondheim synes, vi vil bytte navn.\" \"For vi vil ha det originale navnet tilbake, nemlig Nidaros.\" De dreit i hva folk i Trondhjem syntes. Og de bytta navnet til Nidaros i 1929. Og det... man kan jo stille seg litt spørrende: Hvorfor i alle dager hadde de en folkeavstemning hvis de ikke brydde seg uansett? De bare håpet at dette skulle gå i favør av Nidaros. De håpet at de aller fleste ville stemme for å bytte navn til Nidaros. Men når det ikke skjedde, sa de: \"Nei, drit i det, vi vil ha Nidaros.\" Dette var en tullete folkeavstemning. Jeg synes folk gjorde helt rett når folk i Trondheim sa: \"Nei, dette vil vi ikke akseptere.\" De begynte å protestere. \"Vi vil ikke at byen skal hete Nidaros.\" \"Den heter Trondhjem.\" Stortinget måtte til slutt gi opp. Det var rett og slett så upopulært i Trondhjem å kalle byen for Nidaros at man måtte bytte navn tilbake. Men man gjorde én endring, så man kom til et kompromiss, Det var nemlig at: \"Okei greit, vi skal bytte navn tilbake til Trondhjem men vi bytter det, vi gjør det norsk igjen.\" Vi tar vekk dette her \"hjem\" som kom fra unionstiden med Danmark. Vi skal kalle det for \"heim\", som er mye nærmere Nordønt og det originale fylkesnavnet Trondheim. Det er derfor byen i dag heter Trondheim, og ikke Trondhjem. I en liten periode så var det offisielle navnet på Trondheim Nidaros. Jeg tror fortsatt det er noen grupper i Norge som ønsker at vi skal gå tilbake til det originale navnet Nidaros. Men dette er ikke populært i Trondheim. I dag kan man fortsatt høre at mange sier Trondhjem i stedet for Trondheim. Dette er et navnebytte som skapte mye engasjement og var kjempekontroversielt. Jeg syns det er kjempeinteressant å se hvor viktig slike navn er for identiteten til folk. Det var alt fra episoden. Ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0562
+  "src": "cc"
  },
  "Q_WgfYJr5SA": {
   "channel": "To Understand Norwegian",
@@ -3878,7 +4220,7 @@
  "l4f5CP1iok8": {
   "channel": "Learn Norwegian Naturally",
   "lang": "no",
-  "checked": "2026-11-12T00:32:59+00:00",
+  "checked": "2026-11-22T16:28:42+00:00",
   "title": "5 Useful Verbs in Norwegian | Speaking Norwegian #48 (With Subtitles)",
   "duration": 680,
   "published": "20210813",
@@ -3887,6 +4229,7 @@
   "pace": 89.8,
   "rare": 0.0263,
   "var": 0.6422,
+  "cl": 0.0369,
   "speech_s": 634.0,
   "tokens": 949,
   "kw": [
@@ -4019,16 +4362,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "høre",
+    "Neste verb jeg skal snakke om er \"Å høre\". Å høre.",
+    283,
+    291,
+    5.42,
+    8
+   ],
+   [
+    "lese",
+    "Siste verb vi skal snakke om i dag er \"å lese\".",
+    469,
+    474,
+    5.39,
+    8
+   ],
+   [
+    "boka",
+    "Nå leser jeg boka. Men hvilket språk er dette?",
+    480,
+    490,
+    4.69,
+    4
+   ],
+   [
+    "maten",
+    "det man bruker for å steke mat, for å varme opp maten. For å steke maten.",
+    232,
+    243,
+    4.68,
+    4
+   ],
+   [
+    "stua",
+    "også på kjøkkenet eller i stua.",
+    260,
+    266,
+    3.99,
+    2
+   ],
+   [
+    "steke",
+    "det man bruker for å steke mat, for å varme opp maten. For å steke maten.",
+    232,
+    243,
+    3.73,
+    2
+   ],
+   [
+    "mikrofonen",
+    "Jeg har sett ut av vinduet. Jeg har sett på mikrofonen.",
+    384,
+    390,
+    3.59,
+    1
+   ],
+   [
+    "rødvin",
+    "Vi har to typer vin. Det er rødvin og hvitvin.",
+    116,
+    124,
+    3.58,
+    1
+   ],
+   [
+    "vegetasjon",
+    "har mange trær og mye grønn vegetasjon.",
+    604,
+    610,
+    3.48,
+    1
+   ],
+   [
+    "plott",
+    "med en handling, det er et plott i boka, som gjør at det er en roman.",
+    536,
+    548,
+    2.82,
+    1
+   ],
+   [
+    "kollektivtransporten",
+    "morgenen eller mens du er i kollektivtransporten, for eksempel på",
+    555,
+    562,
+    2.7,
+    1
+   ],
+   [
+    "gressplen",
+    "men det er en stor gressplen i en by hvor man kan gå og slappe av, å lese,",
+    615,
+    626,
+    2.47,
+    1
+   ],
+   [
+    "spisebord",
+    "Noen har et middagsbord eller et spisebord",
+    265,
+    272,
+    2.21,
+    1
+   ]
+  ],
   "tx": "Hei alle sammen og hjertelig velkommen tilbake til Learn Norwegian Naturally. I dag skal jeg snakke om noen veldig enkle og nyttige verb å kunne. Verb nummer 1: \"Å drikke\". Jeg drikker vann. Jeg drakk vann. Nå drakk jeg vann. Nå drikker jeg vann. Jeg har drukket vann hver dag denne uka. Men, jeg drikker også andre ting enn bare vann, for eksempel kaffe. Nå drikker jeg kaffe. Nå drakk jeg nettopp kaffe. Det er mange forskjellige ting man kan drikke. Man kan for eksempel drikke brus. Brus, det er for eksempel Cola, Fanta, Sprite, 7 Up. Man kan også drikke te. Mange pleier å drikke te på morgenen eller kaffe. Liker du best å drikke te eller kaffe? For eksempel, hvis man går på en restaurant, så kan man drikke forskjellige typer alkohol. De to vanligste typene alkohol er øl og vin. Øl og vin. Vi har to typer vin. Det er rødvin og hvitvin. Jeg liker best å drikke øl, men jeg synes også at vin er godt. Hva med deg? Hva liker du best å drikke av øl eller vin? Verb nummer 2 er: \"Å spise\". Når man spiser, så drikker man også ofte vann. Man kan for eksempel spise frokost, lunsj, middag eller kveldsmat. I Norge er det veldig vanlig å spise kveldsmat på kvelden etter at du har spist middag. Man spiser kanskje middag klokka 5, klokka 6 eller klokka 7, og så vil man kanskje ta litt ekstra mat på kvelden, klokka 9, klokka 10, klokka 11, som vi da kaller for kveldsmat. Man kan spise mye forskjellig til middag, for eksempel så kan man spise en pizza, man kan spise taco, man kan spise salat, poteter, med fisk kanskje, eller pasta eller ris eller forskjellige grønnsaker som man steker i en stekepanne. En stekepanne er det man bruker for å steke mat, for å varme opp maten. For å steke maten. All matlaging foregår på kjøkkenet. Kjøkkenet er rommet i et hus hvor man lager mat. Man spiser ofte maten også på kjøkkenet eller i stua. Noen har et middagsbord eller et spisebord i stua, mens andre har et bord på kjøkkenet som de vanligvis bruker når de skal spise maten de har laget. Neste verb jeg skal snakke om er \"Å høre\". Å høre. Et eksempel er at man kan høre på musikk. Nå hører jeg på musikk. Jeg kan også si at jeg lytter til musikk, men det enkleste og kanskje det vanligste er å si \"høre på musikk\". Hvordan type musikk liker du å høre på? Jeg liker å høre på mye instrumentalmusikk, mye pop, litt jazz her og der, og generelt høre på artister som jeg liker. Neste verb er \"å se\". Jeg ser, jeg ser rundt meg, jeg ser rundt meg. Jeg ser ut av vinduet, jeg ser på kameraet, jeg ser deg og hvis du vil si \"jeg ser\" i fortid, så sier du \"jeg så ut av vinduet\". Jeg så på kameraet. Jeg så rundt meg. Eller så kan du si \"jeg har sett\". Jeg har sett. Jeg har sett ut av vinduet. Jeg har sett på mikrofonen. Jeg har sett på kameraet. Jeg har sett rundt meg. Du kan også si for eksempel: \"Jeg skal se en film i kveld.\" Jeg ser mange filmer i året. Jeg liker å gå på kino og se på forskjellige filmer eller \"å se forskjellige filmer\". Jeg liker å se på serier på Netflix. Jeg liker å se på videoer på YouTube. Jeg liker å se på nett-tv, altså TV som er på internett, tV-programmer som man kan \"streame\", på godt norsk, på internett. Det riktige verbet hvis du vil snakke helt norsk, er å si \"å strømme\". Strømme. Å strømme en film, å strømme en serie. Men jeg må innrømme at jeg vanligvis vil si \"å streame\", tror jeg. Siste verb vi skal snakke om i dag er \"å lese\". Jeg leser en bok. Dette er en bok. Nå leser jeg boka. Men hvilket språk er dette? Dette er ikke norsk. Dette er kinesisk. Denne boka er skrevet på kinesisk. Hvis jeg har lyst til å lære kinesisk, så kan jeg lese i denne boka. Hvis man leser bøker som inneholder historier, fiksjon, så kaller man det for romaner. \"Jeg leser en roman\" betyr at jeg leser en bok med en historie, med en handling, det er et plott i boka, som gjør at det er en roman. Liker du å lese? Leser du hver dag? Pleier du å lese på kvelden eller på morgenen eller mens du er i kollektivtransporten, for eksempel på t-banen, på bussen, i taxien, på toget eller hvor som helst? Her er noen flere eksempler på noen setninger med verbet \"å lese\". Jeg leser mange bøker. Jeg er veldig glad i å lese. Jeg pleier å lese på kafeer eller ute i forskjellige parker. En park, det er et område, ofte i en by, som har mange trær og mye grønn vegetasjon. Mange blomster, nei, ikke nødvendigvis mange blomster, men det er en stor gressplen i en by hvor man kan gå og slappe av, å lese, kanskje du vil spise i parken, du kan drikke i parken, for eksempel drikke en kaffe eller drikke vann, eller så kan man høre på musikk i parken, ellers kan du snakke med venner, eller så kan du sitte og se på naturen rundt deg og se på fuglene og se på himmelen, se på menneskene som er rundt deg i parken, eller rett og slett lukke øynene og ikke se på noen ting. Kanskje du kun har lyst til å slappe av og sove litt? Det var alt for i dag. Vi snakkes i morgen! Ha det bra, alle sammen!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0369
+  "src": "cc"
  },
  "lPPoT7WLL2M": {
   "channel": "Norsklærer Karense",
   "lang": "no",
-  "checked": "2026-11-12T00:33:07+00:00",
+  "checked": "2026-11-22T16:31:18+00:00",
   "title": "Video 1247 Refleksive verb A1",
   "duration": 164,
   "published": "20251209",
@@ -4037,6 +4485,7 @@
   "pace": 60.4,
   "rare": 0.1043,
   "var": 0.6461,
+  "cl": 0.0491,
   "speech_s": 162.0,
   "tokens": 163,
   "kw": [
@@ -4105,11 +4554,132 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "viktig",
+    "Dere vasker dere. Og det som er viktig er at refleksive",
+    58,
+    69,
+    5.67,
+    1
+   ],
+   [
+    "bruker",
+    "fordi vi bruker verbene ofte. Ok.",
+    131,
+    139,
+    5.65,
+    1
+   ],
+   [
+    "ofte",
+    "fordi vi bruker verbene ofte. Ok.",
+    131,
+    139,
+    5.61,
+    1
+   ],
+   [
+    "håper",
+    "Så håper at du forsto denne forklaringen om refleksive verb.",
+    138,
+    148,
+    5.49,
+    1
+   ],
+   [
+    "eksempel",
+    "kombinert med verbet. Et eksempel på et refleksivt verb",
+    17,
+    28,
+    5.46,
+    1
+   ],
+   [
+    "hunden",
+    "og så vil jeg bare si at nå skal jeg gå fordi jeg skal kle på meg jakka og gå tur med hunden min. Ha det godt.",
+    147,
+    167,
+    4.66,
+    1
+   ],
+   [
+    "kle",
+    "og så vil jeg bare si at nå skal jeg gå fordi jeg skal kle på meg jakka og gå tur med hunden min. Ha det godt.",
+    147,
+    167,
+    4.45,
+    1
+   ],
+   [
+    "kombinasjon",
+    "kombinasjon av pronomen. Og det er en helt bestemt gruppe med refleksive verb. Det er ikke alle verb.",
+    109,
+    125,
+    4.43,
+    1
+   ],
+   [
+    "spesifikke",
+    "verb må ha den spesifikke kombinasjonen. Så jeg kombinert med meg, jeg vasker",
+    68,
+    82,
+    4.2,
+    1
+   ],
+   [
+    "forsto",
+    "Så håper at du forsto denne forklaringen om refleksive verb.",
+    138,
+    148,
+    4.08,
+    1
+   ],
+   [
+    "forklaringen",
+    "Så håper at du forsto denne forklaringen om refleksive verb.",
+    138,
+    148,
+    4.07,
+    1
+   ],
+   [
+    "kombinasjonen",
+    "kombinasjonen. Så jeg kombinert med meg, jeg vasker",
+    73,
+    82,
+    3.94,
+    1
+   ],
+   [
+    "verbet",
+    "kombinert med verbet. Et eksempel på et refleksivt verb",
+    17,
+    28,
+    3.47,
+    1
+   ],
+   [
+    "jakka",
+    "og så vil jeg bare si at nå skal jeg gå fordi jeg skal kle på meg jakka og gå tur med hunden min. Ha det godt.",
+    147,
+    167,
+    3.11,
+    1
+   ],
+   [
+    "verbene",
+    "fordi vi bruker verbene ofte. Ok.",
+    131,
+    139,
+    2.48,
+    1
+   ]
+  ],
   "tx": "På norsk har vi en gruppe verb som heter refleksive verb. Det er verb der vi også har pronomen kombinert med verbet. Et eksempel på et refleksivt verb er jeg vasker meg. Du vasker deg. Han vasker seg. Hun vasker seg. Vi vasker oss. De vasker seg. Dere vasker dere. Og det som er viktig er at refleksive verb må ha den spesifikke kombinasjonen. Så jeg kombinert med meg, jeg vasker meg, jeg sminker meg, jeg steller meg, eller du vasker deg, du og deg, du sminker deg, du steller deg. Så refleksive verbesifikk kombinasjon av pronomen. Og det er en helt bestemt gruppe med refleksive verb. Det er ikke alle verb. Så du kan lære deg vanlige refleksive verb fordi vi bruker verbene ofte. Ok. Så håper at du forsto denne forklaringen om refleksive verb. og så vil jeg bare si at nå skal jeg gå fordi jeg skal kle på meg jakka og gå tur med hunden min. Ha det godt.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0491
+  "src": "cc"
  },
  "n0wadNSY8SI": {
   "channel": "NRK Super",
@@ -4389,7 +4959,7 @@
  "IOHMlSVg5UA": {
   "channel": "Simply Norsk",
   "lang": "no",
-  "checked": "2026-11-12T00:33:45+00:00",
+  "checked": "2026-11-22T16:46:48+00:00",
   "title": "Cross Country Skiing with Brom | Dual Subtitles (Nor/Eng)",
   "duration": 896,
   "published": "20260521",
@@ -4398,6 +4968,7 @@
   "pace": 120.9,
   "rare": 0.0594,
   "var": 0.7681,
+  "cl": 0.0508,
   "speech_s": 811.2,
   "tokens": 1634,
   "kw": [
@@ -4546,11 +5117,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "tilbake",
+    "rundt så tilbake fra parkeringsplassen",
+    225,
+    235,
+    5.78,
+    5
+   ],
+   [
+    "gått",
+    "Da har vi gått 4 km så langt",
+    309,
+    315,
+    5.42,
+    5
+   ],
+   [
+    "sint",
+    "drikkeflask min gjør en sint mummi på",
+    375,
+    382,
+    4.56,
+    3
+   ],
+   [
+    "hund",
+    "liten hund som deg. Der skal det vel være cirka 2 og en5",
+    714,
+    724,
+    4.71,
+    2
+   ],
+   [
+    "koser",
+    "Har du det bra? Koser du deg på tur?",
+    210,
+    220,
+    4.04,
+    3
+   ],
+   [
+    "løypa",
+    "løypa. Det er ikke en veldig god kvalitet på",
+    185,
+    196,
+    3.93,
+    3
+   ],
+   [
+    "balkongen",
+    "sofaen som vi har på balkongen.",
+    816,
+    825,
+    3.3,
+    2
+   ],
+   [
+    "bed",
+    "En kjøttbit til. Bed du forkjent nå.",
+    792,
+    797,
+    3.55,
+    1
+   ],
+   [
+    "prikken",
+    "prikken. Løypa som jeg har lyst til å ta. Den tar",
+    219,
+    226,
+    2.95,
+    1
+   ],
+   [
+    "kondisjon",
+    "kondisjon på vinteren. Og dette skisenteret som jeg bruker i",
+    172,
+    180,
+    2.86,
+    1
+   ],
+   [
+    "innspurt",
+    "Er du klar? Siste innspurt nå. Kom",
+    734,
+    742,
+    2.76,
+    1
+   ],
+   [
+    "svakest",
+    "en skidisiplinen jeg er aller svakest i.",
+    146,
+    154,
+    2.73,
+    1
+   ]
+  ],
   "tx": "Er du på vaktbom? Passer du på? Hallo. Og takk for sist. Det er en nydelig dag. Solen skinner og jeg er på tur med min beste venn. Jeg og Brom, vi er på vei til et sted som heter Voss Ski og Tursenter og håper er at vi skal få oss en skitur. Og Voss ski og tsenter det ligger opp til venstre inn her. Rom er litt dramatisk. Hater å kjøre bil, men vi skal ikke så langt. Vi skal ikke så langt, så jeg tror den overlever dette. >> Her var en som ikke kunne vente med å komme seg ut av pilen. Ja, nå er du fri. Brom. Langergiene mine de er ganske enkle og basic. Det er bare noen billige ski fra XXL. … Så dafor det være greit. Da er vi klare for tur. Fått på skisko. Brom har fått på seg snøsokker. Skiene er klare og solskinnet. Så da får vi se om vi får oss en fin skitur. Selv om snøen er noe råten og sesongen egentlig er ganske på hell. Sporten jeg skal utøve nå er definitivt en skidisiplinen jeg er aller svakest i. Dette heter langren. Og skiene jeg bruker kaller vi for langrenski. Dette er en sport mange nordmenn har kjennskap til, men personlig har jeg aldri vært spesielt flink i dette. Men jeg finner fortsatt mye glede i å drive med dette. Jeg synes langren er en veldig fin sport … god kvalitet på snøen i dag. Det er fordi sommeren er like rundt hjørnet. Men det viktigste er ikke kvaliteten på snøen. Det viktigste er at man kommer seg ut. Ut på tur. Aldri sur. Har du det bra? Koser du deg på tur? Så akkurat nå så er vi der med den røde prikken. Løypa som jeg har lyst til å ta. Den tar og stå langs hele den blå streken her rundt så tilbake fra parkeringsplassen og hele den runden. Så er det vel cirka 15 km tror jeg. Så jeg får følge litt med på formen til Brom. Han klarte den runden her om dagen. Hele runden. Men snøen var litt dårligere da. Så da gikk det litt treigere … er ikke krise. Det er ikke krise hvis han blir for sliten når vi må tilbake til bilen. Her på dette partiet kunne jeg holde et overraskende høyt tempo til tross for den dårlige snøen. Min lille firbeinte venn er heller ikke langt unna. Det er nok ikke mange hunder av denne størrelsen som klarer å holde et så høyt tempo i skiløypa. Kapasiteten til brom er imponerende som alltid og humøret hans er alltid på topp så lenge han får en kjøttbolle når vi kommer hjem selvsagt. Da har vi gått 4 km så langt og det er 8 og en5 kilometer tilbake til parkeringsplassen. Vi parkerte, vi parkerte ved … er flere plasser hvor det er enkelt å bare ta raskeste vei tilbake dersom Brom vise tegn på at han har fått nok. Vær så god. Så en liten drikkepause. Bare drikkeflask min gjør en sint mummi på tur. Det er ikke sånn jeg ser ut. på tur. Kanskje hvis jeg sover i telt og blir vekk klokken på morgenen. Da ser jeg kanskje sånn ut på tur. Men stort sett, stort sett er det ut på tur. Aldri i sur. Brom fikk seg en liten kjøttbit. Han drikker vann litt her og der. Vi kom av og til sølepytta hvor han kan få seg en liten slurk. Så han er ganske selvbejent når det kommer til drikkepauser. Enkelte … går oppover. Sånn når vi er slitne i oppover bakke, så pleier vi å si at det er en god ting. Vi beveger oss i hvert fall oppover. Og det er jo oppover vi skal. Jeg har et spørsmål til dere som dere kan prøve å svare på i kommentarfeltet. Tror dere at Norge som land har flest oppover bakken eller nedover bakken? Den som kan svare riktig vinner en hjemmelaget ventebolle. Det er ikke akkurat et klæb og kliv, men det får være godt nok. Jeg gjør så godt jeg kan. Da har vi kommet så langt og gått 5,5 km og du er fortsatt ved gått mot. Halen går jo alle veier da er det vel ingen grunn til å ikke … store bakken vi nettopp å komme opp, den skal vi nå ned. Er du klar? Første mann ned. Kom igjen. Ja, så flink brom. Å så flink du er. Har du det så gøy? Du er det så gøy å være med på skitur? Så rask du er. Den raskeste lille hunden jeg vet om. Så tar vi oss en liten pause, litt energi påfyll. Jeg parkerte bare skiene på siden av løypen. Jeg blir veldig overrasket hvis det kommer noen flere folk nå, så derfor gadde ikke jeg å sette de litt mer ute siden. Du trenger ikke peise. Du har jo energi som aldri før. Som alltid. Skal vi se om vi har en liten kjøttbit da til Brom der vet du. Vær så … vokabularet. Det her er peak norsk bakekultur. Med litt mer mat i magen var det enkelt å sette i gang igjen. Solen har jobbet litt med snøen, så nå er det faktisk ganske brukbar glipen. Men Brom forsvant plutselig inn i skogen for å jag ekkoren. Og han ble så fokusert på det at han glemte at han var på tur med meg. Nå tror jeg du ble gående i skogen og snus litt for lenge før du innså at jeg var ganske langt foran deg. Se på den halen. Ja, jeg tror du koser deg. 4,7 km igjen nå. Så vi er vi er over halvveis. Det er rett og slett det vi kaller påskestemning på norsk. Det er ikke påskehelt … parkeringsplassen. Ok, brom. Det her er siste bakken. Aller siste bakken. Og så er vi nede med parkeringsplassen. Er du klar? Siste innspurt nå. Kom igjen. >> Hvordan er det in? >> Det går fint. Vi har gått hele runden. >> Du har det? >> Ja. >> Å ja. Det var det var snø og alt ikke. >> Det er gjennomslag noen plasser, men ingen problem med å gå. >> Nei. >> Vi har hatt en kjempefin tur. >> Ok. >> Så >> da satser vi på. >> Ja. Kom. Kom igjen. Å så flink. Så flink liten hund. En kjøttbit til. Bed du forkjent nå. Vær så god. Vær så god. >> Da er vi kommet hjem igjen etter en herlig dag. … jeg reagerte litt for sakte når jeg fikk grønt lys. Så han ble litt sint og så skrek han til meg at jeg skulle ta meg en bolle. Jeg er veldig glad i bolle. Så jeg gjorde som han sa. Jeg gikk og kjøpte meg en bolle. Så da koser jeg meg på balkongen i solen med kaffe og en bolle. Er jo kjekt å få sånne budskap fra en person som egentlig er sint på deg. Har du noe du vil si brom eller vil du bare ha fred? Dagens video er slutt for i dag. Takk for at du har sett på så langt. Så ses vi snart i en ny video. Og trykk gjerne på subscribe hvis du synes de her videoene er interessante. Ha det bra.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0492
+  "src": "auto"
  },
  "9TyHdEHlN4w": {
   "channel": "Simply Norsk",
@@ -4993,7 +5661,7 @@
  "7AhITUMhJWg": {
   "channel": "Norwegian Teacher - Karin",
   "lang": "no",
-  "checked": "2026-11-12T00:34:01+00:00",
+  "checked": "2026-11-22T16:49:58+00:00",
   "title": "Norwegian Vlog: Bli med meg på tur!",
   "duration": 134,
   "published": "20240411",
@@ -5002,6 +5670,7 @@
   "pace": 111.2,
   "rare": 0.0744,
   "var": 0.7108,
+  "cl": 0.0331,
   "speech_s": 130.6,
   "tokens": 242,
   "kw": [
@@ -5078,11 +5747,180 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "tilbake",
+    "Og nå nyter jeg og mamma kaffe og litt ved siden av i solveggen. Vi har gått ca 1 time og har en halvtime igjen tilbake til bilen.",
+    111,
+    114,
+    5.78,
+    1
+   ],
+   [
+    "takk",
+    "Takk for turen!",
+    125,
+    131,
+    5.71,
+    1
+   ],
+   [
+    "viktig",
+    "Se på dette farlige veikrysset, det er viktig å få med seg!",
+    52,
+    64,
+    5.67,
+    1
+   ],
+   [
+    "beina",
+    "Det skiltet \"Farlig veikryss\" det er beregna på folk med ski på beina.",
+    71,
+    75,
+    4.72,
+    1
+   ],
+   [
+    "halv",
+    "Tenkte jeg skulle vise dere hva jeg har pakket med på en sånn en og en halv times tur.",
+    74,
+    85,
+    4.71,
+    1
+   ],
+   [
+    "kilometer",
+    "Vi skal gå en tur rett i nabolaget. Som er på ca 6 kilometer. Som vi kan følge med på kartet i appen UT.no",
+    2,
+    4,
+    4.58,
+    1
+   ],
+   [
+    "pakket",
+    "Tenkte jeg skulle vise dere hva jeg har pakket med på en sånn en og en halv times tur.",
+    74,
+    85,
+    4.17,
+    1
+   ],
+   [
+    "markert",
+    "Hele turen er markert med skilt og striper på trærne for at vi skal vite at vi går riktig vei.",
+    23,
+    28,
+    4.11,
+    1
+   ],
+   [
+    "våt",
+    "Det regna i natt, så benken vi sitter på er litt våt. Da lønner det seg med to lag.",
+    92,
+    105,
+    4.0,
+    1
+   ],
+   [
+    "skiltet",
+    "Det skiltet \"Farlig veikryss\" det er beregna på folk med ski på beina.",
+    71,
+    75,
+    3.97,
+    1
+   ],
+   [
+    "halvtime",
+    "Og nå nyter jeg og mamma kaffe og litt ved siden av i solveggen. Vi har gått ca 1 time og har en halvtime igjen tilbake til bilen.",
+    111,
+    114,
+    3.96,
+    1
+   ],
+   [
+    "vanntett",
+    "To sitteunderlag, et vanntett og et varmt. Litt kjeks. Vannflaske. og selvfølgelig kaffe. Det er det.",
+    84,
+    93,
+    3.52,
+    1
+   ],
+   [
+    "nærområdet",
+    "Vi har hatt en biltur på 4 minutter, parkert ved en blindvei og går i nærområdet.",
+    3,
+    15,
+    3.44,
+    1
+   ],
+   [
+    "blindvei",
+    "Vi har hatt en biltur på 4 minutter, parkert ved en blindvei og går i nærområdet.",
+    3,
+    15,
+    3.14,
+    1
+   ],
+   [
+    "regna",
+    "Det regna i natt, så benken vi sitter på er litt våt. Da lønner det seg med to lag.",
+    92,
+    105,
+    3.14,
+    1
+   ],
+   [
+    "biltur",
+    "Vi har hatt en biltur på 4 minutter, parkert ved en blindvei og går i nærområdet.",
+    3,
+    15,
+    3.0,
+    1
+   ],
+   [
+    "vårtegn",
+    "Vårtegn! Hele turen er markert med skilt og striper på trærne for at vi skal vite at vi går riktig vei.",
+    14,
+    28,
+    2.69,
+    1
+   ],
+   [
+    "allemannsretten",
+    "Mye av denne turen går rett igjennom gårder og det er det som er allemannsretten. Så her kan vi gå!",
+    43,
+    53,
+    2.61,
+    1
+   ],
+   [
+    "veikrysset",
+    "Se på dette farlige veikrysset, det er viktig å få med seg!",
+    52,
+    64,
+    2.56,
+    1
+   ],
+   [
+    "vannflaske",
+    "To sitteunderlag, et vanntett og et varmt. Litt kjeks. Vannflaske. og selvfølgelig kaffe. Det er det.",
+    84,
+    93,
+    2.49,
+    1
+   ],
+   [
+    "ut.no",
+    "Vi skal gå en tur rett i nabolaget. Som er på ca 6 kilometer. Som vi kan følge med på kartet i appen UT.no",
+    2,
+    4,
+    2.3,
+    1
+   ]
+  ],
   "tx": "Hei! Bli med meg og mamma på tur! Vi skal gå en tur rett i nabolaget. Som er på ca 6 kilometer. Som vi kan følge med på kartet i appen UT.no Vi har hatt en biltur på 4 minutter, parkert ved en blindvei og går i nærområdet. Vårtegn! Hele turen er markert med skilt og striper på trærne for at vi skal vite at vi går riktig vei. Og der er en stripe, og her er en stripe og her er et skilt, og der er en stripe. \"Og nå kommer sola, tittende frem!\" Er ikke det en sang? Mye av denne turen går rett igjennom gårder og det er det som er allemannsretten. Så her kan vi gå! Se på dette farlige veikrysset, det er viktig å få med seg! Det er farlig veikryss Det skiltet \"Farlig veikryss\" det er beregna på folk med ski på beina. Tenkte jeg skulle vise dere hva jeg har pakket med på en sånn en og en halv times tur. To sitteunderlag, et vanntett og et varmt. Litt kjeks. Vannflaske. og selvfølgelig kaffe. Det er det. Det regna i natt, så benken vi sitter på er litt våt. Da lønner det seg med to lag. Deilig! Og nå nyter jeg og mamma kaffe og litt ved siden av i solveggen. Vi har gått ca 1 time og har en halvtime igjen tilbake til bilen. Dette er en tur som er rett i nabolaget vårt. Takk for turen!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0331
+  "src": "cc"
  },
  "dfo7YcLXzwg": {
   "channel": "Dr Wasim Zahid",
@@ -19910,7 +20748,7 @@
  "2AYLCR21U_U": {
   "channel": "Mikael's Norwegian Lessons",
   "lang": "no",
-  "checked": "2026-11-16T22:59:52+00:00",
+  "checked": "2026-11-22T17:06:35+00:00",
   "title": "52 Videos Before I Leave for Japan? | Norwegian Comprehensible Input",
   "duration": 485,
   "published": "20261018",
@@ -19919,6 +20757,7 @@
   "pace": 116.9,
   "rare": 0.0151,
   "var": 0.7359,
+  "cl": 0.044,
   "speech_s": 373.2,
   "tokens": 727,
   "kw": [
@@ -19995,11 +20834,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ønsker",
+    "så ønsker jeg egentlig å bruke",
+    240,
+    244,
+    5.7,
+    3
+   ],
+   [
+    "faktisk",
+    "mange dager før jeg faktisk forstår",
+    70,
+    76,
+    5.64,
+    3
+   ],
+   [
+    "kanalen",
+    "det med YouTube-kanalen min og Patreon og ...",
+    213,
+    221,
+    4.22,
+    2
+   ],
+   [
+    "hånd",
+    "Jeg bytter hånd. Kan du se sånn, kanskje?",
+    78,
+    84,
+    4.79,
+    1
+   ],
+   [
+    "lagd",
+    "fordi det er 52 uker, lagd klar i forveien",
+    314,
+    320,
+    4.15,
+    1
+   ],
+   [
+    "kameraet",
+    "Snur kameraet litt. Veldig straks Jeg går ved hus, så jeg bare skrur det av og på",
+    171,
+    177,
+    4.14,
+    1
+   ],
+   [
+    "klipp",
+    "Sånn. Måtte bare dele det i to klipp",
+    177,
+    181,
+    4.0,
+    1
+   ],
+   [
+    "skrur",
+    "Jeg går ved hus, så jeg bare skrur det av og på",
+    174,
+    177,
+    3.91,
+    1
+   ],
+   [
+    "skoleåret",
+    "med det igjen etter skoleåret Så ... Jeg tenker å prøve å lage",
+    351,
+    364,
+    3.89,
+    1
+   ],
+   [
+    "torsdager",
+    "så opplaster jeg de på torsdager",
+    387,
+    391,
+    3.06,
+    1
+   ],
+   [
+    "fulltidsjobb",
+    "spesielt ved siden av fulltidsjobb Men det er noe jeg har lyst til å faktisk prøve å gjøre",
+    323,
+    335,
+    2.79,
+    1
+   ],
+   [
+    "spillutvikling",
+    "Tidligere så holdt jeg på med spillutvikling,",
+    452,
+    456,
+    2.5,
+    1
+   ]
+  ],
   "tx": "Hallo og velkommen Så i dag skal vi gjøre noe litt annerledes I dag skal vi gå en tur sammen i skogen Jeg tenkte det kunne vært litt gøy å bare gå veldig rolig og snakke med dere og fortelle litt om hva jeg har holdt på med i det siste Så for dere som har sett Community ... Posten. Det jeg skrev Så har jeg da kommet meg inn på studiet i Japan Det er ... Det er ... Det har ikke kommet helt inn i hodet mitt ennå Fordi ... Vel, det er bare noen dager siden Og jeg tipper det kommer til å gå mange, mange dager før jeg faktisk forstår at det kommer til å skje Jeg bytter hånd. Kan du se sånn, kanskje? Vi kan se litt framover òg, vi. Så ... Da er det altså Kyoto i Japan jeg skal studere i Og det blir ... i starten av neste april Så det er jo fortsatt fem måneder til Skal se litt rundt her også. Veldig fin sti Snur den sånn igjen jeg, så kan dere se meg litt også Så fem måneder er jo egentlig ganske lenge, på en måte Men samtidig så ... så går jo tiden fort Så ... Det er så rart å si - innen Innen et halvt år så ... så går jeg rundt i Japan isteden Og det er jo veldig spennende Her var det veldig lyst. Ser du? Veldig hvit Så ... jeg tenker det kan bli et veldig spennende år Snur kameraet litt. Veldig straks Jeg går ved hus, så jeg bare skrur det av og på Sånn. Måtte bare dele det i to klipp fordi jeg gikk forbi en del hus Og nå er vi litt lenger inn i naturen her Skal vise deg rundt her nå Veldig fint her nå Så siden jeg kom inn på studiet, og jeg kommer til å være der i ett år, så har jeg tenkt på hvordan jeg skal gjøre det med YouTube-kanalen min og Patreon og ... Hvis jeg har tenkt å lage noen små kurs og lignende, så må jeg også planlegge det Fordi når jeg studerer så ... Nei, når jeg skal studere neste år, så ønsker jeg egentlig å bruke så mye tid som mulig på studiet Det er lov å søke på muligheten til å ha arbeidsvisa og kunne jobbe i Japan Og det er mulig jeg burde gjøre det uansett Men jeg ønsker å bruke mye av tiden på å faktisk studere der Snur vi litt mens vi går ... Så ... Jeg er litt usikker på hva jeg egentlig skal gjøre Jeg planlegger egentlig å lage videoer klar for hele året jeg studerer Så hvis jeg lager én video i uka, så betyr det at mens jeg er borte, så må jeg da ha 52 videoer, fordi det er 52 uker, lagd klar i forveien Det er ganske mye jobb, spesielt ved siden av fulltidsjobb Men det er noe jeg har lyst til å faktisk prøve å gjøre fordi jeg liker veldig godt å lage videoer for dere Jeg liker å hjelpe dere å lære norsk, og ... Jeg ønsker å fortsette aktivt med det igjen etter skoleåret Så ... Jeg tenker å prøve å lage én Comprehensible Input-video hver uke, på mandag, sånn som jeg holdt på fram til nå I det siste så har jeg også tenkt på om jeg kanskje skal lese litt fortellinger Så dere kan ha mer lyttetrening Og kanskje, hvis jeg klarer å gjøre det, så opplaster jeg de på torsdager Det er ... Det er en mulighet. Så ... Jeg skal holde dere oppdatert om hva jeg gjør Og ... Jeg ... Jeg har uansett lyst til å fortsette med YouTube-kanalen Selvfølgelig. Fordi det er morsomt, det er kreativt, og ... veldig mye sol Og ... Det er jo egentlig ... Jeg har så mange ideer om hvordan jeg kan lage interessante måter å lære på Noen av de vil ... Vil bli videoer, som normalt Jeg kunne tenkt meg å skrive litt historier og eventyr som dere kan lese Tidligere så holdt jeg på med spillutvikling, og det kunne jeg tenkt meg å egentlig begynne med å lage litt norske spill å lære med Og generelt leke meg med forskjellige ting å lage Nå er vi kommet opp på toppen her Jeg håper du syns det var gøy å gå en liten tur sammen Så ses vi i neste video. Ha det bra",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.044
+  "src": "cc"
  },
  "XrQKz0BL0Ys": {
   "channel": "Norsk Tolk | NTN Skole",
@@ -20796,7 +21732,7 @@
  "31JZa7r054w": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-16T23:00:47+00:00",
+  "checked": "2026-11-22T17:14:00+00:00",
   "title": "Feriepenger i Norge: Derfor ser junilønnen så rar ut | Norsk B1-B2",
   "duration": 235,
   "published": "20261112",
@@ -20805,6 +21741,7 @@
   "pace": 150.4,
   "rare": 0.0708,
   "var": 0.8127,
+  "cl": 0.059,
   "speech_s": 236.5,
   "tokens": 593,
   "kw": [
@@ -20945,16 +21882,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "både",
+    "Det forklarer både juni og desember. Men",
+    146,
+    153,
+    5.76,
+    2
+   ],
+   [
+    "står",
+    "Det står feriepenger på den, et stort",
+    13,
+    17,
+    5.71,
+    2
+   ],
+   [
+    "halv",
+    "over 10 og en halv måned, så du betaler",
+    105,
+    111,
+    4.71,
+    2
+   ],
+   [
+    "dagene",
+    "de dagene du skal ha ferie, ellers ville",
+    60,
+    65,
+    4.68,
+    2
+   ],
+   [
+    "lytt",
+    "Les et kapittel først og lytt til det",
+    178,
+    184,
+    3.69,
+    2
+   ],
+   [
+    "dagers",
+    "Få 30 dagers gratis tilgang via lenken i",
+    203,
+    209,
+    4.16,
+    1
+   ],
+   [
+    "uttales",
+    "uttales. Og det gjør mer for forståelsen",
+    185,
+    190,
+    3.57,
+    1
+   ],
+   [
+    "selvtilliten",
+    "kommer til å utvikle selvtilliten din",
+    199,
+    204,
+    3.52,
+    1
+   ],
+   [
+    "arbeidsdager",
+    "det er arbeidsdager i en måned.",
+    81,
+    87,
+    3.43,
+    1
+   ],
+   [
+    "kjempestort",
+    "norske bøker er kjempestort. Et tips fra meg som norsklærer er å",
+    168,
+    178,
+    2.61,
+    1
+   ],
+   [
+    "lytting",
+    "og lytting, og tilbudet gjelder for nye",
+    211,
+    216,
+    2.47,
+    1
+   ],
+   [
+    "norsklærer",
+    "Et tips fra meg som norsklærer er å",
+    171,
+    178,
+    2.45,
+    1
+   ],
+   [
+    "skattefri",
+    "Uttrykket trekkfri og ikke skattefri er",
+    142,
+    147,
+    2.38,
+    1
+   ]
+  ],
   "tx": "Sommerjobben gir også noe annet, feriepenger. Men feriepenger får du ikke før året etter. Så det kan være juni og lønnsslippen ser helt annerledes ut enn vanlig. Det står feriepenger på den, et stort minusbeløp som heter trekk i lønn for ferie og nesten ingen skatt. Mange som er nye i Norge tror at noe har gått galt og det har det ikke. Feriepenger er lønnen din for ferien og du tjener dem opp året før. Det kalles opptjeningsåret. Det du tjener i år i 2026 blir grunnlaget for feriepengene du får neste år, 2027. Og det er dette som står som feriepengegrunnlag på lønnsslippen din. Etter ferieloven er satsen 10,2 %. Mange har avtaler som gir fem uker ferie og da er satsen 12 %. Er du over 60 år gammel, får du litt ekstra. De fleste får feriepengene utbetalt i juni. Samtidig trekker arbeidsgiveren deg for de dagene du skal ha ferie, ellers ville du fått betalt to ganger for de samme dagene. Skatteetaten har et eksempel. Du kan ha en månedslønn på 30 000 kr og får 48 000 i feriepenger. Så trekkes det 34 000 for ferien. Trekket er større enn én månedslønn fordi fem uker ferie er flere dager enn det er arbeidsdager i en måned. Til sammen sitter du igjen med 44 000 kr. Og så skatten. I juni trekkes det vanligvis ikke skatt av feriepenger og vanlig lønn. Overtid og bonus blir likevel trukket som normalt, men feriepengene er ikke skattefrie, de er trekkfrie. Skatten for hele året fordeles i stedet over 10 og en halv måned, så du betaler litt mer de andre månedene. Den siste halve måneden er grunn til at mange får halv skatt i november eller desember. For deg som er ny, er det én ting til som er viktig. Det første året i Norge eller i jobb har du ofte lite eller ingen feriepenger, fordi du ikke jobbet der året før. Bytter du jobb, skal den gamle arbeidsgiveren betale ut feriepengene du har tjent opp når du slutter. Og jeg synes det er litt morsomt at juni føles som en bonus for så mange. Egentlig er det bare lønn du allerede har tjent som kommer på et annet tidspunkt. Uttrykket trekkfri og ikke skattefri er verdt å huske. Det forklarer både juni og desember. Men stemmer det som er trukket gjennom året med skatten du faktisk skal betale? Fordi det svaret kommer om våren. Jeg vil bare kjapt fortelle deg litt om Nextory som er min betalte partner i denne episoden. Nextory er en app der du kan lytte til lydbøker og lese e-bøker, og utvalget av norske bøker er kjempestort. Et tips fra meg som norsklærer er å finne en bok som finnes både som e-bok og lydbok. Les et kapittel først og lytt til det samme kapittelet etterpå. Da ser du ordene og hører hvordan de faktisk uttales. Og det gjør mer for forståelsen enn veldig mange tror. I Nextory kan du bytte mellom tekst og lyd når som helst, så det er lett å få til. Er du usikker på nivået, er bøker for barn og ungdom en perfekt start, og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lytting, og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn seks måneder siden. Samtidig støtter du meg og Way to Norway, og aller viktigst, din egen norsk. Sjekk ut Nextory nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen, det er bra for deg og for norsken din.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.059
+  "src": "auto"
  },
  "B8CpZnN2bPA": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-16T23:00:51+00:00",
+  "checked": "2026-11-22T17:14:04+00:00",
   "title": "Nei, du betaler ikke 50 % skatt i Norge | Norsk B1-B2",
   "duration": 203,
   "published": "20261111",
@@ -20963,6 +22005,7 @@
   "pace": 147.7,
   "rare": 0.0795,
   "var": 0.8101,
+  "cl": 0.0517,
   "speech_s": 204.3,
   "tokens": 503,
   "kw": [
@@ -21063,16 +22106,161 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "allerede",
+    "De andre misforståelsene har vi allerede",
+    52,
+    56,
+    5.54,
+    2
+   ],
+   [
+    "året",
+    "lønn du har tjent opp året før.",
+    57,
+    63,
+    5.39,
+    2
+   ],
+   [
+    "tjent",
+    "lønn du har tjent opp året før.",
+    57,
+    63,
+    4.21,
+    2
+   ],
+   [
+    "usikker",
+    "Er du usikker på nivået, er bøker for",
+    163,
+    168,
+    4.76,
+    1
+   ],
+   [
+    "netto",
+    "netto. Skattekortet er et overslag, og",
+    102,
+    108,
+    4.17,
+    1
+   ],
+   [
+    "dagers",
+    "Få 30 dagers gratis tilgang via lenken i",
+    171,
+    177,
+    4.16,
+    1
+   ],
+   [
+    "viktigst",
+    "Norway, og aller viktigst, din egen",
+    188,
+    194,
+    4.16,
+    1
+   ],
+   [
+    "lesing",
+    "Prøveperioden inkluderer 20 timer lesing og lytting, og tilbudet gjelder for nye",
+    176,
+    184,
+    4.06,
+    1
+   ],
+   [
+    "brutto",
+    "Lønnsslippen viser veien fra brutto til",
+    99,
+    104,
+    3.59,
+    1
+   ],
+   [
+    "uttales",
+    "uttales, og det gjør mer for forståelsen",
+    152,
+    158,
+    3.57,
+    1
+   ],
+   [
+    "selvtilliten",
+    "kommer til å utvikle selvtilliten din",
+    167,
+    172,
+    3.52,
+    1
+   ],
+   [
+    "lydbok",
+    "og lydbok. Les et kapittel først og lytt til det",
+    144,
+    152,
+    3.39,
+    1
+   ],
+   [
+    "norsken",
+    "norsken din.",
+    201,
+    205,
+    3.32,
+    1
+   ],
+   [
+    "kapittelet",
+    "samme kapittelet etterpå. Da ser du",
+    148,
+    153,
+    3.28,
+    1
+   ],
+   [
+    "misforståelsen",
+    "misforståelsen av alle. Den henger sammen med to ord,",
+    19,
+    28,
+    2.96,
+    1
+   ],
+   [
+    "skattelistene",
+    "skattelistene. Og likevel er det noen ting folk",
+    3,
+    11,
+    2.91,
+    1
+   ],
+   [
+    "overslag",
+    "Skattekortet er et overslag, og frikortet gjør at mange unge slipper",
+    103,
+    109,
+    2.89,
+    1
+   ],
+   [
+    "feriepengene",
+    "Feriepengene er lønn du allerede har",
+    108,
+    112,
+    2.84,
+    1
+   ]
+  ],
   "tx": "Nå har vi fulgt pengene gjennom et helt år, fra den første lønnsslippen til skattelistene. Og likevel er det noen ting folk misforstår år etter år. En venn som nettopp har flyttet til Norge, sier det med et sukk. I Norge betaler man jo 50% skatt. Og det er kanskje den vanligste misforståelsen av alle. Den henger sammen med to ord, marginalskatt og gjennomsnittsskatt. Marginalskatt er hvor mye skatt du betaler av den neste kronen du tjener. Gjennomsnittsskatt er hvor mye du betaler av hele inntekten. Har du 500 000 kr i lønn i 2026, er gjennomsnittsskatten rundt 22%, mens marginalskatten er litt over 33%. Og selv for dem som tjener aller mest, er marginalskatten på lønn under 50%. De andre misforståelsene har vi allerede vært innom. Feriepenger er ikke en bonus. Det er lønn du har tjent opp året før. Juni er ikke skattefri, bare trekkfri. Og skatten tas igjen i resten av året. Penger til gode er ikke en gave fra staten. Det er dine egne penger som du har betalt for mye. Og du får litt rente på dem. Og en forhåndsutfylt skattemelding er ikke det samme som en riktig skattemelding. Jeg har selv fått lønn i Norge, Sverige, Danmark, Nederland, Italia og Storbritannia. Og jeg tror mange av misforståelsene kommer av at vi tar med oss systemet fra landet vi kommer fra. Vi leser den norske lønnsslippen med briller fra et annet land. Hvis jeg skal samle alt i noen få setninger, blir det omtrent sånn her. Lønnsslippen viser veien fra brutto til netto. Skattekortet er et overslag, og frikortet gjør at mange unge slipper trekk. Feriepengene er lønn du allerede har tjent. Skattemeldingen er ditt ansvar å sjekke. Skatteoppgjøret retter opp det som ble feil. Og skatten er ditt bidrag til Når du kjenner disse ordene, blir dette systemet mye mindre skummelt. Jeg vil bare kjapt fortelle deg litt om Nextory, som er min betalte partner i denne episoden. Nextory er en app der du kan lytte til lydbøker og lese e-bøker, og utvalget av norske bøker er kjempestort. Et tips fra meg som norsklærer er å finne en bok som finnes både som e-bok og lydbok. Les et kapittel først og lytt til det samme kapittelet etterpå. Da ser du ordene og hører hvordan de faktisk uttales, og det gjør mer for forståelsen enn veldig mange tror. I Nextory kan du bytte mellom tekst og lyd når som helst, så det er lett å få til. Er du usikker på nivået, er bøker for barn og ungdom en perfekt start, og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lytting, og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn seks måneder siden. Samtidig støtter du meg og Way to Norway, og aller viktigst, din egen norsk. Sjekk ut Nextory nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen, det er bra for deg og for norsken din.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0517
+  "src": "auto"
  },
  "vTlejLB7fnc": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-16T23:00:55+00:00",
+  "checked": "2026-11-22T17:14:08+00:00",
   "title": "Betaler man virkelig 50 % skatt i Norge? | B1-B2 Ep. 86",
   "duration": 1403,
   "published": "20261111",
@@ -21081,6 +22269,7 @@
   "pace": 152.3,
   "rare": 0.0629,
   "var": 0.8039,
+  "cl": 0.0603,
   "speech_s": 1403.9,
   "tokens": 3564,
   "kw": [
@@ -21245,11 +22434,92 @@
     7
    ]
   ],
+  "kx": [
+   [
+    "penger",
+    "I dag skal vi snakke om penger,",
+    27,
+    33,
+    5.57,
+    12
+   ],
+   [
+    "prosent",
+    "prosent nå i 2026. Den går til folketrygden, og den kommer",
+    244,
+    251,
+    5.12,
+    12
+   ],
+   [
+    "inntekt",
+    "heter alminnelig inntekt. Det er inntekten din etter at noen fradrag er",
+    207,
+    214,
+    4.38,
+    7
+   ],
+   [
+    "tjent",
+    "Så kommer det du har tjent, fastlønn",
+    94,
+    99,
+    4.21,
+    6
+   ],
+   [
+    "trekkes",
+    "Hvor mye skatt som trekkes av akkurat",
+    302,
+    308,
+    4.17,
+    9
+   ],
+   [
+    "netto",
+    "bruker, brutto og netto. To venner sitter på en kafé og snakker",
+    159,
+    166,
+    4.17,
+    7
+   ],
+   [
+    "trekket",
+    "Da finner arbeidsgiveren trekket i en",
+    357,
+    362,
+    3.4,
+    2
+   ],
+   [
+    "lydbok",
+    "Og en lydbok kan du ha på ørene nesten",
+    470,
+    476,
+    3.39,
+    2
+   ],
+   [
+    "restskatt",
+    "restskatt. Og en stor restskatt har et eget",
+    941,
+    949,
+    2.41,
+    7
+   ],
+   [
+    "baksmell",
+    "baksmell. For eksempel to kolleger sitter ved",
+    909,
+    916,
+    2.55,
+    5
+   ]
+  ],
   "tx": "Det er din første lønnsdag i Norge. I kontrakten står det at du skal tjene 45.000 kroner i måneden. Du logger inn i nettbanken og beløpet som har kommet inn er mye lavere. Du åpner lønnsslippen og møter ord som skattetrekk, feriepengegrunnlag og hittil år. Hei alle sammen og hjertelig velkommen til Way to Norway. Jeg heter Erlend og jeg jobber som norsklærer. I dag skal vi snakke om penger, lønnsslippen, skatten og feriepengene. Det er noe nesten alle som flytter til Norge må forholde seg til, men som få får forklart ordentlig. Jeg er ikke økonomisk rådgiver, så dette er ikke råd om hva du … skal se på én kolonne, er det hittil år. Avstanden mellom tallet øverst og tallet nederst har to navn som alle i Norge bruker, brutto og netto. To venner sitter på en kafé og snakker om jobb. Den ene sier hun tjener 600 000 i året. Den andre sier at han får 40 000 i måneden. Hvem tjener mest? Det er faktisk umulig å si, for den ene snakker om brutto og den andre snakker om netto. Brutto er lønnen før noe er trukket fra. Netto er det som faktisk kommer inn på kontoen. Når nordmenn snakker om lønn, mener de nesten alltid brutto, og ofte for et helt år. Det er også brutto årslønn du ser i for … ikke arbeidsgiveren selv. Det står på et eget kort. Så første dag i ny jobb, du har fått nøkkelkort, passord og en kaffekopp med firmalogo. Så kommer det en e-post fra lønnsavdelingen. Har du skattekort? Og dette ordet har du kanskje aldri hørt før. Et skattekort er egentlig ikke et kort. Et skattekort er en beskjed fra skatteetaten til arbeidsgiveren din om hvor mye skatt som skal trekkes av lønnen. Arbeidsgiveren henter den elektronisk, så du trenger ikke å levere noe selv. Skattekortet bygger på et overslag over hva du kommer til å tjene i løpet av året. Ut fra det regner … inneholder reklame i et betalt partnerskap med Nextory. Nextory er en app med lydbøker, e-bøker, tegneserier og magasiner. Der finner du over én million titler og mange av dem er på norsk. Jo mer norsk du hører, jo lettere blir det å forstå. Og en lydbok kan du ha på ørene nesten hvor som helst. På bussen, mens du lager middag eller når du er ute på tur. Du hører nye ord og naturlige setninger uten at det føles som lekser. Via lenken i beskrivelsen får du 30 dager gratis lesing og lytting. En veldig viktig del av å bli god i norsk er å lytte masse og variert, og Nextory er en perfekt måte å … enormt mye penger for meg. I dag ligger det langt under frikortgrensen. Og jeg tror det er noe av det fine med frikortet. Når du er ung og får din første lønn, får du beholde alt du har jobbet for. Hvis du skal huske et tall fra denne delen, er det 100000 kroner. Under grensen trekkes det ingenting med frikort. Over grensen trekkes det halvparten av alt du tjener i tillegg. Sommerjobben gir også noe annet, feriepenger. Men feriepenger får du ikke før året etter. Så det kan være juni og lønnsslippen ser helt annerledes ut enn vanlig. Det står feriepenger på den, et stort minusbeløp som … den gamle arbeidsgiveren betale ut feriepengene du har tjent opp når du slutter. Og jeg synes det er litt morsomt at juni føles som en bonus for så mange. Egentlig er det bare lønn du allerede har tjent som kommer på et annet tidspunkt. Uttrykket trekkfri og ikke skattefri er verdt å huske. Det forklarer både juni og desember. Men stemmer det som er trukket gjennom året med skatten du faktisk skal betale? Fordi det svaret kommer om våren. Det er mars. Telefonen plinger og det er en SMS fra Skatteetaten. Skattemeldingen din er klar. Du logger inn og ser at nesten alt allerede er fylt ut. … For eksempel to kolleger sitter ved siden av hverandre i lunsjen og får den samme meldingen på telefonen. Skatteoppgjøret ditt er klart. Den ene smiler bredt, den andre blir helt stille. Skatteoppgjøret er det endelige svaret. Nå regner Skatteetaten ut hvor mye skatt du egentlig skulle ha betalt for året og sammenligner det med det som er trukket av lønnen din. Er det trukket for mye, får du penger tilbake. Det kalles skatt til gode. Er du trukket for lite, får du restskatt. Og en stor restskatt har et eget uformelt ord, baksmell. De fleste får oppgjøret mellom april og juni. Og … opp en kjendis, og én har søkt opp sjefen sin. Skattelistene er en offentlig oversikt over hva folk i Norge har hatt i inntekt og formue, og hvor mye skatt de har betalt. De kommer én gang i året, og forrige gang var i desember i fjor. Lønnen din står ikke der. Det som står er netto inntekt, altså inntekt minus fradrag, netto formue, altså det du eier minus gjelden din, og hvor mye skatt du skal betale. Folk som er 17 år eller yngre er ikke med. For å søke må du logge inn, og søkene er ikke anonyme. Den du søker opp kan se at akkurat du har søkt. Mediene lager lister over de rikeste i landet, … og gjennomsnittsskatt. Marginalskatt er hvor mye skatt du betaler av den neste kronen du tjener. Gjennomsnittsskatt er hvor mye du betaler av hele inntekten. Har du 500 000 kr i lønn i 2026, er gjennomsnittsskatten rundt 22 prosent, mens marginalskatten er litt over 33 prosent. Og selv for dem som tjener aller mest, er marginalskatten på lønn under 50 prosent. De andre misforståelsene har vi allerede vært innom. Feriepenger er ikke en bonus. Det er lønn du har tjent opp året før. Juni er ikke skattefri, bare trekkfri, og skatten tas igjen i resten av året. Penger til gode er ikke en gave … bytte mellom tekst og lyd når som helst, så det er lett å få til. Er du usikker på nivået, er bøker for barn og ungdom en perfekt start og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lytting og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn seks måneder siden. Samtidig støtter du meg og Way to Norway og aller viktigst din egen norsk. Sjekk ut Nextory nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen, det er bra for deg og for norsken din.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0556
+  "src": "auto"
  },
  "67_laZJO4qk": {
   "channel": "Ola Norwegian",
@@ -21777,7 +23047,7 @@
  "bhm5ggZx4WM": {
   "channel": "Mikael's Norwegian Lessons",
   "lang": "no",
-  "checked": "2026-11-16T23:23:02+00:00",
+  "checked": "2026-11-22T17:06:50+00:00",
   "title": "I Wake Up at 5 AM | My Daily Routine in Norwegian",
   "duration": 622,
   "published": "20260927",
@@ -21786,6 +23056,7 @@
   "pace": 122.5,
   "rare": 0.0095,
   "var": 0.7098,
+  "cl": 0.0665,
   "speech_s": 464.0,
   "tokens": 947,
   "kw": [
@@ -21886,16 +23157,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "mat",
+    "Men hva med for eksempel det å spise mat? Når jeg gjør det?",
+    298,
+    304,
+    5.4,
+    6
+   ],
+   [
+    "bil",
+    "Hvis jeg jobber likt som samboeren min, så pleier vi å kjøre bil sammen.",
+    122,
+    130,
+    5.26,
+    6
+   ],
+   [
+    "uka",
+    "Bare to ganger i uka, cirka.",
+    151,
+    155,
+    4.71,
+    4
+   ],
+   [
+    "onsdag",
+    "Mandag, tirsdag, onsdag, torsdag, fredag, lørdag, søndag.",
+    166,
+    175,
+    4.6,
+    4
+   ],
+   [
+    "lagd",
+    "Noen ganger så har jeg lagd en boks mat ekstra.",
+    382,
+    386,
+    4.15,
+    1
+   ],
+   [
+    "plage",
+    "uten å plage henne. Hvis jeg skulle filmet mens ho er her, så måtte ho kanskje vært stille i sofaen",
+    485,
+    496,
+    3.94,
+    1
+   ],
+   [
+    "sene",
+    "Det sene skiftet. Og da pleier jeg ikke å ta bil til jobb.",
+    251,
+    261,
+    3.92,
+    1
+   ],
+   [
+    "rutinene",
+    "Så, det her var litt om rutinene og litt om hvordan jeg strukturerer dagen.",
+    609,
+    617,
+    3.39,
+    1
+   ],
+   [
+    "gta",
+    "Jeg vet at om cirka to måneder, så kommer GTA ut.",
+    590,
+    596,
+    3.16,
+    1
+   ],
+   [
+    "rutinen",
+    "Så det er litt om den vanlige rutinen i livet mitt.",
+    293,
+    298,
+    3.15,
+    1
+   ],
+   [
+    "ukedager",
+    "Skal jeg begynne å filme på ukedager, tro?",
+    526,
+    531,
+    2.57,
+    1
+   ]
+  ],
   "tx": "Så i dag så skal vi snakke litt om rutiner i løpet av dagen. Jeg kommer også til å snakke litt om mine rutiner og hva jeg gjør både før jeg kjører til jobb, og etter og litt på kvelden når jeg legger meg og lignende. Når vi snakker om rutiner, så må vi tenke ganske mye på klokka. Klokka er veldig viktig når det kommer til rutiner. Så her er da klokka 12, 3, 6 og 9. Så det jeg vil tenke på først da, er: Når er det jeg legger meg? Vanligvis så legger jeg meg rundt klokka 10, kanskje. Så klokka er 10, da legger jeg meg for å sove. Jeg sover egentlig litt dårlig på en måte. Jeg kan våkne litt ofte, og i hvert fall våkne veldig tidlig. Dette er da å våkne når øynene går opp. Da våkner vi. Vanligvis så våkner jeg rundt klokka 5. Fem på morgen. Og da... er jeg ganske trøtt. Men jeg liker også å våkne tidlig fordi da kan jeg gjøre slikt som... studere japansk eller kanskje jobbe på noen små, egne prosjekter før jeg drar til jobb. Når det kommer til å dra til jobb, så pleier jeg å gjøre det rundt mellom syv til åtte. Pleier jeg å dra til jobb. Hvis jeg jobber likt som samboeren min, så pleier vi å kjøre bil sammen. Kjøre bil til jobb. Noen ganger så jobber ho på kvelden. Da jobber ho fra cirka fire på dagen til kvelden. Cirka da jeg legger meg. Ho har ikke ofte kveldsskift. Bare to ganger i uka, cirka. Så har vi jo 1, 2, 3, 4, 5, 6, 7. Det er jo en hel uke. Mandag, tirsdag, onsdag, torsdag, fredag, lørdag, søndag. Jeg jobber mandag, tirsdag, onsdag, torsdag, fredag. Og samboeren min jobber enten... Skal vi se, syv uker. Ho har skift på jobb som er annenhver uke. Så uke 1 så jobber hun 1, 2, mandag, tirsdag, ikke onsdag. Så jobber hun torsdag, fredag, lørdag. Og da pleier torsdag og fredag å være sent. Og på den andre uka, nummer 2, så pleier hun å jobbe mandag, tirsdag, onsdag, torsdag, fredag. Og da er bare torsdag sen. Så det blir to dager på den ene uka og en dag på den andre som samboeren min jobber sent. Det sene skiftet. Og da pleier jeg ikke å ta bil til jobb. Jeg jobber bare ti minutter unna her jeg bor. Og været er litt ok. Noen ganger så regner det. Men det er fortsatt veldig fint å gå til jobb. Så i stedet for å kjøre bil, så går jeg. Det tar cirka 25 minutter å gå. 25 å gå. Men bil tar 5. Så det er litt om den vanlige rutinen i livet mitt. Men hva med for eksempel det å spise mat? Når jeg gjør det? Vel, jeg spiser to ganger om dagen. Jeg spiser klokka 12. Og så spiser jeg noe sted mellom 6 og 4. 4 til 6. Så klokka 12 så spiser jeg lunsj. Og da pleier jeg å ta med en boks med mat. Noe mat inne i boks. Tar jeg med til jobb. Og det pleier å være noe enkel og grei mat. Når jeg kommer hjem igjen, som er ca. klokka 4. Så etter jobb kommer jeg hjem til leiligheten min. Det er ca. rundt klokka 4. Slik... klokka 4. Og da, enten så spiser jeg da... Spise mat. Men da lager jeg noe vanligvis litt... Litt mer... Lager maten da, når jeg kommer hjem. Noen ganger så har jeg lagd en boks mat ekstra. Så jeg kan bare spise med en gang jeg kommer hjem. Og ikke trenger å tenke på det. Og basert på hvor sulten jeg er... så pleier jeg da å enten spise 4 eller nærmere klokka 6. Men nå lurer du sikkert på: Når filmer jeg YouTube-videoer? Vel, YouTube-videoer filmer jeg vanligvis på lørdag og søndag. For da har jeg veldig masse mer tid. Spesielt på lørdagene som samboeren min jobber. Så passer det veldig fint at jeg filmer. For lørdag klokka 6 på morgen. 12 på dagen. 3, 9. Ho jobber fra 7 til... 8 jobber ho faktisk. 8. 8 til 4. Så hele den her... tiden, så har jeg veldig stille i leiligheten. Og jeg vet at jeg kan filme slik som denne videoen uten å plage henne. Hvis jeg skulle filmet mens ho er her, så måtte ho kanskje vært stille i sofaen eller inn på soverommet. Og det vil jeg ikke. Så på disse lørdagene så passer det veldig fint å filme YouTube-videoer. Noen ganger så liker ho å reise bort på søndager og besøke familie eller kjøre bil. Og da kan jeg også filme. Så det passer veldig fint. Jeg har lurt på litt til meg selv: Skal jeg begynne å filme på ukedager, tro? Prøve å få inn litt mer videoer på alle disse dagene, slik at jeg kan filme flere i uka og kanskje legge ut flere? Men jeg pleier å være ganske sliten. Veldig trøtt og sliten etter jobb. Når jeg kommer hjem da, så vil jeg bare slappe av. Ikke sove, men slappe av i sofaen og se på noe film. Se på TV, for eksempel. Se på TV. Jeg har lurt litt på om jeg skal spille litt mer. Skaffe meg noe spill jeg har lyst til å spille. Det er noen jeg spiller nå, men ikke sånn veldig mye. Men det hadde vært gøy å gjøre litt mer av det også. Jeg vet at om cirka to måneder, så kommer GTA ut. Jeg har ikke tid til å spille det, dessverre, for jeg har japanskeksamen i desember. Så jeg må være flink. Så, det her var litt om rutinene og litt om hvordan jeg strukturerer dagen. Og jeg håper du synes det var gøy. Og så sees vi i neste. Ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0665
+  "src": "cc"
  },
  "PR8l205sfwU": {
   "channel": "Mikael's Norwegian Lessons",
   "lang": "no",
-  "checked": "2026-11-16T23:23:17+00:00",
+  "checked": "2026-11-22T17:07:04+00:00",
   "title": "Essential Norwegian Vocabulary: Colors and Positions",
   "duration": 691,
   "published": "20260831",
@@ -21904,6 +23264,7 @@
   "pace": 52.3,
   "rare": 0.1347,
   "var": 0.4696,
+  "cl": 0.0044,
   "speech_s": 519.4,
   "tokens": 453,
   "kw": [
@@ -22020,11 +23381,60 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "hvite",
+    "Nå ligger den røde tusjen i den hvite koppen.",
+    252,
+    263,
+    5.03,
+    8
+   ],
+   [
+    "bok",
+    "bok en bok",
+    18,
+    28,
+    4.99,
+    7
+   ],
+   [
+    "rød",
+    "en gul tusj, en grønn tusj, og en rød",
+    201,
+    209,
+    4.69,
+    3
+   ],
+   [
+    "grønne",
+    "Nå skal jeg legge den grønne tusjen i den blå koppen.",
+    263,
+    275,
+    4.68,
+    3
+   ],
+   [
+    "fargene",
+    "Av disse fargene så har jeg bare blå kopp.",
+    227,
+    239,
+    3.88,
+    1
+   ],
+   [
+    "kopper",
+    "To kopper. En tusj",
+    40,
+    52,
+    3.74,
+    1
+   ]
+  ],
   "tx": "Kopp kopp tusj bok en bok To bøker. En kopp. To kopper. En tusj to tusjer. Tusjen er i koppen. Nå er det to tusjer i koppen. Det er to tusjer i den koppen. Det er en tusj i den koppen. Nå er det to tusjer i den koppen og i den koppen. Nå er det tre tusjer i den koppen og en tusj i den koppen Denne koppen er blå. Dette er en blå tusj. Blå. Denne boka er også blå. Alle tre er blå. Denne koppen er hvit. Har jeg en hvit hvit tusj? Nei, det har jeg ikke. Jeg har en blå tusj, en gul tusj, en grønn tusj, og en rød tusj. Har jeg en grønn, en gul eller en rød kopp? Nei, det har jeg ikke. Av disse fargene så har jeg bare blå kopp. Nå ligger den blå tusjen i den blå koppen. Nå ligger den røde tusjen i den hvite koppen. Nå skal jeg legge den grønne tusjen i den blå koppen. Kan du tenke hva det blir? Grønn tusj... i den blå koppen. Tror du det er den, eller den? Svaret er den... Jeg skal legge den grønne tusjen i den blå koppen. Nå holder jeg bare den gule tusjen igjen. Jeg har også en gul bok. Så... hvis vi gjør slik. Her ligger den gule boka. Ligger ikke står. Boka... står ligger står tusjen står tusjen ligger den gule tusjen ligger på den gule boka. Den gule tusjen ligger på den grønne boka. En, to, tre. Tre bøker. Koppen står på bøkene. Koppen... ligger på bøkene. Hva skjedde nå? Kan du tenke... boka ligger på koppen Den den røde boka ligger på koppene. Koppene. Nå skal vi prøve noe vanskelig. Det går kanskje ikke. Hva er det her? Den røde boka står... står på den hvite koppen. Den røde og den gule boka står på den hvite koppen. Den røde og den gule boka står på den hvite koppen. Det står ikke noen bøker på den blå koppen. Det ligger bøker på begge koppene. På den blå koppen så ligger det en gul bok. På den hvite koppen så ligger det en rød bok. På den blå koppen så ligger det nå to bøker. Veldig bra. En bok. To bøker. Tre... bøker! Likt. En bok. To bøker. Tre bøker. Fire bøker. Fem bøker... Masse bøker. Det ligger ingen bøker i den hvite koppen. Det ligger heller ikke noen bøker på den hvite koppen i på i... inni på Ligger bøkene i koppen? Nei, bøkene ligger på koppen. Det er fire tusjer i den hvite koppen. Og det er fire bøker på den blå koppen. Da er vi ferdig for i dag. Ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0044
+  "src": "cc"
  },
  "diarl-Y6KuE": {
   "channel": "Mikael's Norwegian Lessons",
@@ -22195,7 +23605,7 @@
  "U8XMbIttfcw": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:23:36+00:00",
+  "checked": "2026-11-22T17:10:17+00:00",
   "title": "De tre bukkene Bruse | Norsk eventyr | Lær norsk gjennom eventyr",
   "duration": 205,
   "published": "20251221",
@@ -22204,6 +23614,7 @@
   "pace": 98.9,
   "rare": 0.1957,
   "var": 0.7393,
+  "cl": 0.028,
   "speech_s": 195.4,
   "tokens": 322,
   "kw": [
@@ -22344,16 +23755,121 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "stemme",
+    "tynn stemme. Nå kommer jeg og tar deg, sa trollet.",
+    74,
+    84,
+    4.98,
+    2
+   ],
+   [
+    "minste",
+    "Først kom den minste bukken bruse.",
+    43,
+    51,
+    4.81,
+    2
+   ],
+   [
+    "het",
+    "Det var en gang tre bukker. Alle tre het",
+    18,
+    25,
+    4.61,
+    1
+   ],
+   [
+    "spiste",
+    "Der spiste de mye gress og ble veldig",
+    187,
+    193,
+    4.51,
+    1
+   ],
+   [
+    "stemmen",
+    "Stemmen hans var litt kraftigere. Nå kommer jeg og tar deg, skrek trollet.",
+    114,
+    126,
+    4.42,
+    1
+   ],
+   [
+    "eventyret",
+    "I dag skal vi høre eventyret om de tre",
+    0,
+    8,
+    3.78,
+    2
+   ],
+   [
+    "fete",
+    "skal til Seters for å gjøre seg fete.",
+    11,
+    18,
+    3.73,
+    2
+   ],
+   [
+    "sultne",
+    "De var sultne og ville spise gress i",
+    36,
+    43,
+    3.5,
+    1
+   ],
+   [
+    "geiter",
+    "Dette er en historie om tre geiter som",
+    7,
+    18,
+    3.32,
+    1
+   ],
+   [
+    "knakk",
+    "Broen nesten knakk. Hvem er det som tramper på min bro?",
+    144,
+    154,
+    3.29,
+    1
+   ],
+   [
+    "bukker",
+    "Det var en gang tre bukker. Alle tre het",
+    18,
+    25,
+    3.13,
+    1
+   ],
+   [
+    "snute",
+    "Og snipp snapp snute så er eventyret",
+    192,
+    200,
+    2.98,
+    1
+   ],
+   [
+    "bukkene",
+    "Så gikk alle de tre bukkene til fjellet.",
+    182,
+    191,
+    2.86,
+    1
+   ]
+  ],
   "tx": "I dag skal vi høre eventyret om de tre bukkende bruse. Dette er en historie om tre geiter som skal til Seters for å gjøre seg fete. Det var en gang tre bukker. Alle tre het bruse. Det var den lille bukken Bruse. Det var den mellomste bukken Bruse. Og det var den største bukken Bruse. De var sultne og ville spise gress i fjellet. Først kom den minste bukken bruse. Han skulle gå over en bro. Under broen både et stort og fæt troll. Tripp trapp tripp trapp sa det i broen. Hvem er det som tramper på min bro? skrek trollet. Det er bare den minste bukken bruse. Jeg skal til for å bli fet, sa bukken med en tynn stemme. Nå kommer jeg og tar deg, sa trollet. Å nei, ikke ta meg. Vent på den mellomste. Han er mye, mye større, sa den lille bukken. Gå da, sa trollet. Litt etter kom den mellomste bukken bruse. Tripp trapp tripp trapp sa det i broen. Hvem er det som tramper på min bro? skrek trollet. Det er den mellomste bukken, bruse, sa bukken. Stemmen hans var litt kraftigere. Nå kommer jeg og tar deg, skrek trollet. Å nei, ikke ta meg. Vent på den største. Han er mye, mye større, sa den mellomste bukken. Gå da, sa trollet. Til slutt kom den største bukken bruse. Tripp trapp tripp trapp sa det i broen. Broen nesten knakk. Hvem er det som tramper på min bro? skrek trollet. Det er den store bukken, Bruse! Ropte bukken med en veldig dyp stemme. Nå kommer jeg og tar deg, skrek trollet og hoppet opp på broen. Men den største bukken var ikke redd. Han stanget trollet med de store hornene sine. Trollet falt ned i fossen. Plask! Så gikk alle de tre bukkene til fjellet. Der spiste de mye gress og ble veldig fete. Og snipp snapp snute så er eventyret ute. Det",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.028
+  "src": "auto"
  },
  "hWzSq0yyhFc": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:23:40+00:00",
+  "checked": "2026-11-22T17:10:21+00:00",
   "title": "Lær norsk med eventyr | Pannekaka",
   "duration": 216,
   "published": "20251221",
@@ -22362,6 +23878,7 @@
   "pace": 101.8,
   "rare": 0.117,
   "var": 0.7984,
+  "cl": 0.0306,
   "speech_s": 211.6,
   "tokens": 359,
   "kw": [
@@ -22470,16 +23987,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "barn",
+    "kjøkkenet. Hun hadde syv barn. Alle",
+    11,
+    20,
+    5.74,
+    2
+   ],
+   [
+    "mann",
+    "Etter en stund møtte pannekaka en mann.",
+    89,
+    97,
+    5.62,
+    2
+   ],
+   [
+    "elva",
+    "deg over elva.\" Pannekaka hoppet opp på",
+    178,
+    187,
+    4.36,
+    2
+   ],
+   [
+    "gulvet",
+    "gulvet. Den trillet over gulvet som et",
+    65,
+    72,
+    4.35,
+    2
+   ],
+   [
+    "hjul",
+    "hjul. Den trillet ut døra og nedover",
+    68,
+    75,
+    4.13,
+    1
+   ],
+   [
+    "gris",
+    "Til slutt møtte pannekaka en gris.",
+    147,
+    155,
+    4.06,
+    1
+   ],
+   [
+    "mel",
+    "Hun blandet mel, melk og egg til en god",
+    23,
+    31,
+    4.04,
+    1
+   ],
+   [
+    "røre",
+    "røre. Pannekaka lå i panna. Den ble tykk og",
+    27,
+    37,
+    4.04,
+    1
+   ],
+   [
+    "sultne",
+    "barna var veldig sultne. Kona skulle steke pannekaker til dem.",
+    15,
+    28,
+    3.5,
+    1
+   ],
+   [
+    "pannekaker",
+    "Kona skulle steke pannekaker til dem.",
+    19,
+    28,
+    3.18,
+    1
+   ],
+   [
+    "trill",
+    "\"Ikke trill så fort. Vent litt, jeg vil",
+    96,
+    104,
+    3.07,
+    1
+   ],
+   [
+    "jafs",
+    "Grisen spiste hele pannekaka i en jafs.",
+    190,
+    199,
+    2.5,
+    1
+   ],
+   [
+    "stekepanna",
+    "ut av stekepanna. Den falt ned på",
+    62,
+    69,
+    2.32,
+    1
+   ],
+   [
+    "grisens",
+    "grisens nese. Akkurat da de var midt i",
+    182,
+    191,
+    2.05,
+    1
+   ]
+  ],
   "tx": "I dag skal vi høre eventyret om pannekaka. Det var en gang en kone. Hun sto på kjøkkenet. Hun hadde syv barn. Alle barna var veldig sultne. Kona skulle steke pannekaker til dem. Hun blandet mel, melk og egg til en god røre. Pannekaka lå i panna. Den ble tykk og god. Barna sto rundt panna og ventet. \"Vær så snill, mor, gi meg litt pannekake\", sa det første barnet. \"Jeg er så sulten,\" sa det andre barnet. Alle barna spurte pent, men pannekaka ville ikke bli spist. Plutselig ble pannekaka redd. Den hoppet ut av stekepanna. Den falt ned på gulvet. Den trillet over gulvet som et hjul. Den trillet ut døra og nedover veien. Kona løp etter med sleiva i hånda. Barna løp etter. Bestefaren løp etter. \"Sto! Ta den!\" skrek de. Men de klarte ikke å fange den. Etter en stund møtte pannekaka en mann. \"God dag pannekake\", sa mannen. \"Ikke trill så fort. Vent litt, jeg vil spise deg.\" Men pannekaka svarte: \"Jeg har løpt fra kona, syv barn og en gammel mann. Da kan jeg løpe fra deg også, mannbrann.\" Og så trillet den videre. Pannekaka trillet inn i skogen. Der møtte den mange dyr. Den møtte Høne Pøne, den møtte Hane Pane. Den møtte Ande Vande og den møtte Gåse Våse. Alle dyrene sa: \"Stopp, jeg vil spise deg.\" Men pannekaka svarte alltid det samme. Jeg har løpt fra alle de andre. Da kan jeg løpe fra deg også. Til slutt møtte pannekaka en gris. Grisen var veldig smart. Hei, sa grisen. Du trenger ikke å løpe så fort. Vi kan gå sammen. Det er tryggere. Pannekaka stolte på grisen. De gikk sammen gjennom skogen helt til de kom til en stor elv. Pannekaka kunne ikke svømme. \"Sitt på trynet mitt\", sa grisen. \"Jeg skal bære deg over elva.\" Pannekaka hoppet opp på grisens nese. Akkurat da de var midt i elva, sa grisen. \"Nøff!\" Grisen spiste hele pannekaka i en jafs. Og siden pannekaka var borte er historien slutt. Takk for at du lyttet. Lærte du noen nye ord? Gå gjerne tilbake og hør historien en gang til. Vi ses i neste",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0306
+  "src": "auto"
  },
  "HCzOfQ0lNSw": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:23:44+00:00",
+  "checked": "2026-11-22T17:10:24+00:00",
   "title": "Rolig norsk – Livet i Norge  En rolig samtale om hverdagen, følelser og språk",
   "duration": 1417,
   "published": "20251218",
@@ -22488,6 +24118,7 @@
   "pace": 133.5,
   "rare": 0.0204,
   "var": 0.7985,
+  "cl": 0.0672,
   "speech_s": 1410.6,
   "tokens": 3138,
   "kw": [
@@ -22620,16 +24251,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "viktig",
+    "Ja, pauser er veldig vanlig. Det er viktig for mange som lærer norsk.",
+    324,
+    331,
+    5.67,
+    9
+   ],
+   [
+    "hvert",
+    "Det gjør man. Og det kan være uvant. Men etter hvert kan det også bli litt",
+    83,
+    90,
+    5.49,
+    9
+   ],
+   [
+    "middag",
+    "tidlig, fordi mange spiser middag rundt fire",
+    487,
+    492,
+    4.73,
+    5
+   ],
+   [
+    "merker",
+    "Og hvis noen går foran, da merker man det med en gang. Selv om ikke noen sier",
+    230,
+    237,
+    4.66,
+    5
+   ],
+   [
+    "ubehagelig",
+    "mye stillhet, men den var ikke ubehagelig.",
+    1023,
+    1027,
+    4.16,
+    2
+   ],
+   [
+    "streng",
+    "hjemme. Og da kan man bli litt streng mot seg",
+    744,
+    747,
+    4.14,
+    2
+   ],
+   [
+    "hast",
+    "Ingen hast, ingen press. bare å sitte sammen.",
+    1014,
+    1020,
+    3.37,
+    2
+   ],
+   [
+    "forsinkelse",
+    "forsinkelse. Og det gjør at dagen føles litt ryddig.",
+    428,
+    434,
+    3.57,
+    1
+   ],
+   [
+    "reserverte",
+    "Hvordan opplever du nordmenn i starten? Mange virker litt reserverte, ikke så",
+    152,
+    160,
+    2.97,
+    1
+   ],
+   [
+    "uferdig",
+    "få være litt uferdig en stund. Akkurat. Og vite at det er helt normalt.",
+    822,
+    829,
+    2.92,
+    1
+   ],
+   [
+    "invaderende",
+    "Mhm. Hvis man ikke kjenner hverandre så godt, kan det føles litt invaderende.",
+    1199,
+    1206,
+    2.71,
+    1
+   ],
+   [
+    "småprat",
+    "kjent først. Mer småprat. Flere møter.",
+    1244,
+    1250,
+    2.59,
+    1
+   ],
+   [
+    "byggeklosser",
+    "Som små byggeklosser. Ja. Ikke med en gang, men gradvis. Det",
+    1037,
+    1045,
+    2.35,
+    1
+   ],
+   [
+    "buste",
+    "Det tror jeg er viktig. Hvis man gir seg selv litt rom, blir det lettere å buste",
+    1329,
+    1335,
+    2.12,
+    1
+   ]
+  ],
   "tx": "Hei og velkommen. Jeg heter Jonas. Og jeg heter Anne. Du lytter til Rolig norsk. Bare lytt i ditt tempo. Det er en ting mange legger merke til ganske fort når de kommer til Norge. Det er ofte veldig stille. Ja, det er sant. Det er noe av det første man kjenner på egentlig. Mhm. Spesielt hvis man er vant til mer action og liv rundt seg. Ja. Da kan stillheten føles ganske stor. Jeg har hørt flere si at de blir litt urolige i starten. De tenker, \"Er dette normalt?\" Det gir mening. For hvis man ikke er vant til det, kan stillhet føles litt tom. Ja. eller litt ensom. Mhm. Det kan den spesielt i … de er bare litt forsiktige. Akkurat når bruker litt tid, men når man først blir kjent, da er de ofte veldig stabile. Ja, jeg har hørt mange si det samme. Det tar tid, men det varer. Det er et fint bilde på vennskap her egentlig. Og i starten når man er ny i et land og ikke kjenner så mange, begynner man ofte å legge merke til små ting. Mhm. Man observerer og sammenligner mer. Ja. Man følger ekstra godt med på hvordan folk oppfører seg, hva som er normalt, hva som ikke er det. Og da er det ofte sånne hveraglige situasjoner som plutselig betyr mye. For eksempel det å stå i kø. Mhm. Ja. Man … man lærer spiller vel en stor rolle. Ja, det kaller vi morsmålet. Det blir ofte en viktig del av identiteten. Hvis du skulle si noe til noen som akkurat har kommet til Norge, da ville jeg sagt gi det litt tid. Tid til å bli vant. Ja. Tid til å lytte. Tid til å se hvordan ting fungerer. Og tid til å bli komfortabel med stillheten. Mhm. Stilheten er ikke tom. Den er bare annerledes. Og etter hvert etter hvert kan den føles ganske trygg. Ja, det kan den. Når man har vært i Norge en stund, begynner hverdagen å ta form. Mhm. Det er ikke så dramatisk lenger. Nei. Dagene blir mer like. Og på en … land er det kanskje annerledes. Absolutt. Noen steder spiser man hovedmåltid midt på dagen, rundt 12 eller ett Ja. som en stor lunsj. Nettopp. Og andre steder spiser man sent. Kanskje svte på kvelden. Så ordet middag kan bety ulike ting. Ja, faktisk. Opprinnelig betydde middag midt på dagen. Derfor sier vi formiddag og ettermiddag. Aha. Før middag og ettermiddag. Ja. Men i dag bruker vi middag mest om dagens hovedmåltid. Et varmt måltid. Det kan være litt forvirrende i starten. Veldig, men etter hvert blir det normalt. Mhm. Kroppen vender seg også til det. Ja. Og man begynner å tenke på … synes hverdagen føles tung? At det er helt normalt. At det ikke betyr at noe er galt, bare at man er i en overgang og at det blir lettere med tiden. Små rutiner kan hjelpe. Veldig små faste ting som lytte til norsk hver dag. Mhm. Akkurat som dette. Jeg liker at hverdagen i Norge ikke alltid krever så mye. Ja. Man får lov til å være litt stille og litt i fred. Det kan være fint. Spesielt når man lærer noe nytt. Absolutt. Noe jeg ofte tenker på er hvordan det faktisk kan føles å bo i et nytt land. Ikke det praktiske, men det som skjer inni oss. Ja. Det er kanskje det som tar lengst tid å … dag merket jeg at alt bare føltes litt enklere. Det gir mening. Da visste jeg at jeg var på rett vei. Jeg tror også det er viktig å si at det er helt greit å bruke lang tid. Veldig greit. Det betyr ikke at man gjør noe feil. Nei. Det betyr bare at man er i en prosess som ikke kan stresses frem. For meg har det hjulpet å være litt snillere mot meg selv. Ikke analysere alle følelser. Men heller la dem komme og gå. Ja, det tror jeg er viktig. Og la ting få være litt uferdig en stund. Akkurat. Og vite at det er helt normalt. Vi kommer til å snakke mer om dette senere. Det finnes mange måter å … ingenting selv. Var det fordi språket var vanskelig? delvis, men mest fordi jeg var redd for å avbryte, redd for å si noe rart og redd for å få mye oppmerksomhet. Mm. Den følelsen er veldig vanlig. Jeg kunne ha en tanke i hodet, men det tok litt tid å si den på norsk, og da var samtalen allerede videre. Ja, tempoet kan være utfordrende. Veldig. Så jeg ble ofte stille og etter hvert ble stillheten en vane. Hvordan kom det deg ut av det? Det skjedde sakte. Jeg begynte med veldig små ting. Bare korte kommentarer eller et spørsmål. Så ikke hele setninger og lange forklaringer. Nei, bare nok til … ikke merke til med en gang. Nei. Men plutselig merker man at noe har endret seg. At man føler seg litt mer hjemme. Ja. Litt mer på plass. Vi kan snakke mer om slike opplevelser videre. Det finnes mange flere små historier. Ja. Noe jeg selv brukte litt tid på å forstå var at det finnes ting man sier helt naturlig i noen kulturer som kan føles ganske privat for nordmenn. Ja, det er en viktig ting å være klar over. Ikke fordi folk er sensitive, men fordi grensene er litt annerledes her. Mhm. For eksempel kommentarer om utseende. Ja. Ja. Noe man sier for å være snill kan høres annerledes ut for … tjener du? I Norge er det et veldig privat spørsmål. Selv mellom venner kan det være følsomt. Ja. Så er det dette med å være veldig direkte når man liker noen. Mhm. Som å spørre om telefonnummer med en gang. Ja. For noen kan det føles litt for raskt. Nordmenn bruker ofte litt tid på å bli kjent først. Mer småprat. Flere møter. Ja. Man bygger tillit gradvis. Jeg tror det viktigste å huske på er at det ikke handler om rett eller feil. Nei, det er bare om forskjellige vaner. Hvis man merker at noen trekker seg litt unna, kan det være et tegn på at man er kommet litt for nære. Og da kan man bare … det er helt greit å ta pauser. Ja. Man trenger ikke alltid gjøre noe aktivt. Noen ganger er det nok å bare lytte. Mhm. Bare høre språket uten å analysere. Akkurat som nå. Ja. Vi kommer til å fortsette å snakke rolig sammen videre om flere sider av livet i Norge. Ja. Små temaer, vanlige ting. Og vi tar oss god tid. Ingen hast. Hvis du lytter nå og kjenner deg litt igjen, så er det helt fint. Og hvis du bare lytter i bakgrunn, er det også helt greit. Språket kan bare være der. Mhm. Da tror jeg vi lar denne samtalen roe seg litt her. Ja. Vi fortsetter senere en annen gang i samme rolige tempo.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0649
+  "src": "cc"
  },
  "VRsJKN-uaU0": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:23:47+00:00",
+  "checked": "2026-11-22T17:10:38+00:00",
   "title": "Rolig Norsk – lytt og lær norsk i rolig tempo",
   "duration": 680,
   "published": "20251215",
@@ -22638,6 +24382,7 @@
   "pace": 146.1,
   "rare": 0.021,
   "var": 0.7724,
+  "cl": 0.0625,
   "speech_s": 644.4,
   "tokens": 1569,
   "kw": [
@@ -22754,16 +24499,145 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "lærer",
+    "Når du lærer norsk uten stress blir språket mer naturlig.",
+    64,
+    70,
+    5.06,
+    6
+   ],
+   [
+    "viktig",
+    "Og det er viktig for å kunne snakke naturlig senere.",
+    257,
+    262,
+    5.67,
+    5
+   ],
+   [
+    "munnen",
+    "men de kommer ikke ut av munnen når man skal snakke.",
+    298,
+    302,
+    4.45,
+    4
+   ],
+   [
+    "skritt",
+    "Det er sant, men jeg skjønner at mange synes det er et stort skritt å snakke.",
+    173,
+    180,
+    4.31,
+    4
+   ],
+   [
+    "frykten",
+    "Og hva med frykten for å bli rettet på?",
+    367,
+    371,
+    4.09,
+    3
+   ],
+   [
+    "dialekter",
+    "Men det med dialekter, norsk har jo så mange. Hvordan takler man det?",
+    330,
+    337,
+    3.84,
+    3
+   ],
+   [
+    "skjerf",
+    "i stedet for å bare si hei, kan du si så fint skjerf du har?",
+    601,
+    606,
+    3.57,
+    1
+   ],
+   [
+    "konsentrerer",
+    "Mange konsentrerer seg for mye om grammatikk",
+    218,
+    222,
+    3.55,
+    1
+   ],
+   [
+    "pauser",
+    "Vi snakker rolig. Vi bruker enkelt norsk. Vi tar pauser.",
+    90,
+    96,
+    3.55,
+    1
+   ],
+   [
+    "oppsummere",
+    "Hvis du skulle oppsummere med ett viktig råd til lytterne våre, hva ville det vært?",
+    410,
+    417,
+    3.42,
+    1
+   ],
+   [
+    "tallerken",
+    "Hvis du vasker opp, si, \"Nå vasker jeg en tallerken.\"",
+    575,
+    580,
+    3.28,
+    1
+   ],
+   [
+    "flaue",
+    "Noen blir flaue når andre retter feilene deres.",
+    370,
+    375,
+    2.96,
+    1
+   ],
+   [
+    "redselen",
+    "Redselen for å si noe feil gjør at man ikke tør å åpne munnen.",
+    491,
+    497,
+    2.93,
+    1
+   ],
+   [
+    "seirene",
+    "Feir de små seirene. Hver gang du sier noe riktig, har du vunnet litt.",
+    636,
+    643,
+    2.71,
+    1
+   ],
+   [
+    "grunnmur",
+    "Så først bygge en sterk grunnmur.",
+    363,
+    368,
+    2.7,
+    1
+   ],
+   [
+    "læringen",
+    "Det er veldig vanlig, men feil er en del av læringen.",
+    164,
+    170,
+    2.68,
+    1
+   ]
+  ],
   "tx": "Velkommen til Norsk Tolk. Dette er Rolig Norsk. Her kan du lytte til norsk i rolig tempo. Du trenger ikke å gjøre noe. Du trenger bare å lytte. Dette programmet er laget for deg som vil lære norsk på en rolig og trygg måte. Du kan lytte når du er våken, men du kan også lytte mens du hviler eller mens du sover. Du trenger ikke å forstå alt. Du trenger ikke å konsentrere deg. Du trenger ikke å stoppe videoen. Bare lytt til norsk. Hjernen din jobber selv om du ikke merker det. Mange lytter til norsk når de er slitne. Noen lytter før de sovner. Noen lytter mens de hviler. Det er helt greit. Du … serien hører du rolige samtaler mellom to personer. Jeg heter Jonas og jeg heter Anne. Vi snakker rolig. Vi bruker enkelt norsk. Vi tar pauser. Dette programmet passer best for deg som er på nivå A2. til B2, men den passer også for deg som bare vil høre norsk i rolig tempo. I de neste episodene skal vi snakke om hverdagen i Norge. Vi skal snakke om å lære norsk, å bo i Norge, jobb og fritid og familie og venner. Alt i rolig tempo. La oss hoppe rett i det viktigste temaet som alle er interessert i å høre om. Og det er å lære norsk. 'Ja, det er mange som vil lære norsk og de er usikre på om de … bruke det selv om man gjør feil. Ja. Mange er redde for å gjøre feil når de snakker norsk. Det er veldig vanlig, men feil er en del av læringen. Hvis man ikke gjør feil, lærer man heller ikke så mye. Det er sant, men jeg skjønner at mange synes det er et stort skritt å snakke. Hva er den største utfordringen du ser hos de som lærer norsk? Jeg tror den største utfordringen er å holde motivasjonen oppe over tid og det å få trent på språket.' I begynnelsen er alt nytt og gøy, men etter noen måneder I begynnelsen er alt nytt og gøy, men etter noen måneder kan det bli tungt. Da må man finne gode … mye om grammatikk og lesing, men lytting er ofte det vanskeligste. Den beste rutinen er å fylle dagen med språket. Se på Norsk TV, hør på Norsk Radio eller lytt til podcaster som denne. Så mer passiv lytning som vi snakker om i starten, selv om man ikke forstår alt. Akkurat, hjernen din blir vant til lyden, rytmen og tonene. Det er som musikk. Du lærer ikke alle ordene med en gang, men du lærer melodien. Og det er viktig for å kunne snakke naturlig senere. Men hva med det å snakke selv? Hvor finner man noen å snakke med? Ikke alle har norske venner. Det er en annen stor utfordring. Du må … tips. Bruk det du kan. Noen ganger føles det som at ordene er der, men de kommer ikke ut av munnen når man skal snakke. Hva kan man gjøre da? Det er fordi du er redd for feil. Du tenker for mye på reglene. Mitt tips er å prøve å snakke høyt for deg selv. Fortell om dagen din på norsk når du går tur. Eller si til deg selv hva du skal gjøre i morgen. Det trener munnen og hjernen til å bruke språket uten stress. Å snakke med seg selv, det er en fin og trygg måte å øve på. Men det med dialekter, norsk har jo så mange. Hvordan takler man det? Dialekter er en del av Norge. Ja, men tenk på det … folk snakker forskjellig ved å lytte til forskjellige folk. Så først bygge en sterk grunnmur. Og hva med frykten for å bli rettet på? Noen blir flaue når andre retter feilene deres. Det er et vanskelig tema. Noen retter på feil for å hjelpe, men det kan føles som kritikk. Mitt råd er si klart ifra til folk. Si vær så snill og rett meg hvis jeg gjør store feil, men ikke hele tiden. Eller jeg vil bare snakke fritt nå. Du kan rette meg senere. Du har lov til å bestemme hvordan du vil lære. Det er veldig betryggende. Vi har snakket om lytning. snakking, rutiner, dialekter og feil. Hvis du … og start friskt i morgen. Små skritt hver dag er bedre enn store skritt en gang i måneden. Veldig bra sagt. Små skritt er månet. Jeg har en nabo som er veldig hyggelig. Hun kommer fra Ukraina. Hun forstår norsk kjempegodt når vi snakker, men når hun skal snakke selv, da stopper det vidt opp. Hun snakker ikke flytende. Ja, det er en situasjon jeg kjenner igjen hos mange. Det er en stor forskjell på å forstå og snakke. Hvorfor tror du det er slik? Jeg lurer på det samme. Hvorfor er det så stor forskjell? Det er ofte flere grunner. Den første er mangel på trening i å snakke. Mange er … logisk. Jeg tenker også at når jeg hører henne snakke, virker det som hun oversetter i hodet først. Helt riktig. Vi kaller det mental oversettelse. Man tenker på morsmålet sitt og så oversetter man til norsk. Det gjør at talen blir veldig treg. Løsningen er å trene hjernen til å tenke på norsk. Og det tar tid og trening. Så hvordan kan man bryte den frykten? Hvordan kan hun begynne å snakke uten å være så redd? Først må man akseptere at det er normalt å være litt redd, men du må ikke la frykten stoppe deg. Du kan starte med veldig små ting. Prøv å snakk foran speilet i 10 minutter eller ta … på? Ja, alene trening er veldig effektivt. Du kan øve på å lese høyt. Det hjelper på uttalen. Du kan også beskrive det du gjør som i en dokumentar. Hvis du vasker opp, si, \"Nå vasker jeg en tallerken.\" Snakk til katten, planten eller bare deg selv. Poenget er å gjøre det gøy og lett uten stress. Og når man skal snakke med andre, hvordan starter man en samtale uten at det blir kleint? Du må finne lette samtaletemaer. Du kan spørre om noe personlig uten at det er for vanskelig. For eksempel i stedet for å bare si hei, kan du si så fint skjerf du har? Hvor har du kjøpt det? Eller har du sett … viktig. Måten du føler deg på påvirker hvor lett du snakker. Bygg selvtillit ved å fokusere på det som går bra, ikke på det som er feil. Feir de små seirene. Hver gang du sier noe riktig, har du vunnet litt. Jo mer du snakker, jo mer naturlig blir språket. Veldig bra oppsummert. Vi har snakket om at læring tar tid, at man må være snill mot seg selv og at det er viktig å tørre å snakke selv om man gjør feil. Nå kan du bare fortsette å lytte, eller du kan hvile litt. Du trenger ikke å gjøre noe. Bare la norsk være i bakgrunnen. Vi snakker videre i rolig tempo i neste video. Ta vare på deg selv.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0674
+  "src": "cc"
  },
  "tayenUstPIw": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:23:59+00:00",
+  "checked": "2026-11-22T17:10:42+00:00",
   "title": "Tenk og Bli Rik på enkelt norsk | Hele boken samlet (A2–B1–B2)",
   "duration": 2302,
   "published": "20251208",
@@ -22772,6 +24646,7 @@
   "pace": 112.6,
   "rare": 0.0125,
   "var": 0.7528,
+  "cl": 0.0624,
   "speech_s": 2007.2,
   "tokens": 3768,
   "kw": [
@@ -22920,16 +24795,113 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "betyr",
+    "Og tankesett betyr måten de tenker på.",
+    13,
+    20,
+    5.54,
+    16
+   ],
+   [
+    "redd",
+    "Den sjette sansen virker best når du ikke er redd, ikke er stresset, ikke sint.",
+    1951,
+    1962,
+    5.08,
+    16
+   ],
+   [
+    "sterkere",
+    "Og jo sterkere tro du har på deg selv, jo større er sjansen for at du når målene dine.",
+    338,
+    346,
+    4.71,
+    7
+   ],
+   [
+    "handling",
+    "Ønske uten handling gir ingenting, men ønske med handling kan forandre alt.",
+    121,
+    130,
+    4.58,
+    7
+   ],
+   [
+    "utholdenhet",
+    "Kapittel 8. Utholdenhet. Å starte er lett og fortsette er vanskeligere.",
+    1100,
+    1110,
+    3.71,
+    5
+   ],
+   [
+    "sansen",
+    "Kapittel 13. Den sjette sansen. Hva er den sjette sansen?",
+    1890,
+    1899,
+    3.6,
+    5
+   ],
+   [
+    "fokuser",
+    "Fokuser på det du vil oppnå i livet.\"",
+    1886,
+    1890,
+    3.58,
+    1
+   ],
+   [
+    "beskjeder",
+    "Du kan sende gode beskjeder til deg selv.",
+    1675,
+    1680,
+    3.51,
+    1
+   ],
+   [
+    "tålmodig",
+    "Når du har tenkt mye, jobbet ærlig, vært tålmodig, lært å lytte, da blir du roligere inni deg.",
+    1932,
+    1940,
+    3.49,
+    1
+   ],
+   [
+    "bestem",
+    "1. Bestem deg raskere. Ikke tenk for lenge på små ting. Mange små valg tar mye energi.",
+    1015,
+    1025,
+    2.97,
+    1
+   ],
+   [
+    "gjentakelse",
+    "Du kan bygge tro på samme måte som muskler gjennom gjentakelse.",
+    277,
+    284,
+    2.85,
+    1
+   ],
+   [
+    "omforme",
+    "Svaret er å omforme energien til positiv handling.",
+    1425,
+    1432,
+    2.8,
+    1
+   ]
+  ],
   "tx": "Vet du hva alle rike mennesker har til felles? Det er ikke flaks. Det er ikke bare utdanning. Det er tankesett. Og tankesett betyr måten de tenker på. Og det er akkurat dette denne boken handler om. På norsk \"Tenk å bli rik\". Av Napoleon Hill. Denne boken ble skrevet for nesten 100 år siden, men ideene er fortsatt veldig viktige i dag. Den handler ikke bare om penger. Den handler om hvordan tanker kan forandre fremtiden din. I denne videoen skal vi gå gjennom hele boken kapittel for kapittel på enkelt norsk. Du skal både lære norsk og lære ideene i boken. Mot slutten vil du forstå hvorfor … hver dag betyr mer enn hva andre sier. Hvis du hele tiden tenker \" jeg er ikke smart nok\" eller \"dette er for vanskelig\". vil du ofte slutte å prøve. Tro er som en indre stemme. Den kan løfte deg eller den kan holde deg nede. Du kan bygge tro på samme måte som muskler gjennom gjentakelse. Når du gjentar gode tanker hver dag, begynner du å tro på dem. For eksempel, jeg lærer hver dag. Jeg blir bedre. Jeg gir ikke opp. Slike setninger kan virke enkle, men de påvirker tankene dine mye. Napoleon Hill sier, \"Hvis du gjentar noe ofte nok, begynner hjernen din å tro på det.\" Og når du tror på noe, … om kunnskap. men ikke all kunnskap. Det handler om riktig kunnskap. Mange tror at det er best å vite litt om alt, men boken sier det er bedre å vite mye om en ting som er viktig. Du trenger ikke være ekspert i alt. Det er bedre å samle kunnskap som du trenger. Spør deg selv, hvilke ferdigheter trenger jeg? Hva må jeg lære mer om? Når du vet dette, blir læring lettere. Du slutter å lære for skolen. Du begynner å lære for deg selv. Napoleon Hills sier også: \"Du trenger ikke gjøre alt alene. Du kan lære av andre og bruke deres erfaring. Snakk med folk. Les bøker. Se videoer, lær litt hver … Hva jobber du med? Hvordan føler du deg? 2. Still nye spørsmål I stedet for å si dette går ikke. Si \"hvordan kan jeg få det til?\" Spørsmål åpner hjernen. 3. Skriv ideer ned. Ikke vent på perfekt id. Skriv alt som kommer. Små tanker kan bli store. Bokens budskap i dette kapittelet. Fantasi er ikke tull. Fantasi er noe du kan bruke hver dag i livet ditt. Den hjelper deg å se muligheter stedet for problemer. Den hjelper deg å finne en vei når du tror det ikke finnes noen. Napoleon Hill sier: Det du kan se i tankene kan du også skape i livet. Kanskje ikke i morgen, men steg for steg. Kapittel … andre ville tenke om meg. Frykt for å angre. Men venting skaper ofte mer frykt. Jo lenger du venter, jo vanskeligere blir det. Hvordan kan man bestemme seg? Her er tre enkle råd. 1. Bestem deg raskere. Ikke tenk for lenge på små ting. Mange små valg tar mye energi. Bruk energien din på det som betyr mest. 2. Stol på deg selv. Du trenger ikke være sikker før du velger. Du blir mer sikker etter at du begynner. 3. Stå for det du velger. Alle kan være i tvil noen ganger. Hold fast og juster senere. Når du tar en beslutning får du mer ro og mer styrke. Du slutter å gå rundt i ring og begynner å … sammen, kan de komme lenger enn alene.\" Samarbeid betyr å tenke sammen og støtte hverandre og dele ideer. Når du snakker med andre, får du nye tanker. Du ser ting på en annen måte. Hvorfor er samarbeid viktig? For andre kan se noe du ikke ser selv. De kan hjelpe deg når du er usikker. De kan minne deg på hva du kan. Hvordan bruker samarbeid i hverdagen? Du trenger ikke en stor gruppe. To personer er nok. Her er tre enkle måter. 1. snakk med noen du stoler på. Del planer og tanker. Få råd og still spørsmål. 2. lytt like mye som du snakker. Du lærer mye av å høre andres tanker. 3. Vær … kanalen og nettskolen tusenvis av elever med å lære norsk og bestå Norskprøven. Jeg kan gi et annet eksempel. Jeg kjenner en mann som ble forlatt av kjæresten sin. Hun sa at hun forlot ham fordi han hadde dårlig jobb og lite penger. Dette gjorde vondt. Han ble trist. Han ble skuffet. Han ble sint. Men i stedet for å gi opp, bestemte han seg for å bli rik. Han begynte å studere. Han tok videre utdanning. og han startet egen bedrift. I dag har han veldig god økonomi, bedre enn mange andre. Ikke fordi han var heldig, men fordi han snudde smerten til handling. Han brukte opplevelsen som … \"Det du tenker ofte blir en del av deg. Derfor snakk godt til deg selv. Tenk litt bedre om deg selv. Ikke perfekt, men litt bedre hver dag. Kapittel 12. Hjernen din er radiostasjon. Hjernen er ikke bare et organ, men den kan både sende og ta imot tanker. Napoleon Hill sier: \"Hjernen er som en radiostasjon. Den sender tanker ut og den kan ta imot tanker. Når du tenker en tanke er det ikke bare ord. Boken sier tanker har energi. Når du tenker på et mål og føler det sterkt inni deg, kan tanken bli kraftigere. For eksempel hvis du tenker på noe og samtidig føler håp og tro, blir tanken … 14. De seks fryktene Napoleon Hill sier: \"Mange mennesker stoppes i livet av frykt. Ikke en, men flere. Han snakker om seks vanlige frykter. 1. frykt for fattigdom. Det er når du er redd for å miste penger. Redd for å ikke klare deg. Redd for fremtiden. Denne frykten kan gjøre deg stresset og redd for å prøve noe nytt. 2. Frykt for å bli kritisert. Det er når du er redd for hva andre vil tenke om deg. Redd for å gjøre feil. Redd for å være annerledes. Denne frykten kan gjøre deg stille selv når du har noe viktig å si. 3. Frykt for sykdom. Og det er når du er redd for å bli syk, redd for å … budskap. Frykt skal ikke stire livet ditt. Du kan kjenne frykt, men du trenger ikke følge den. Napoleon Hill sier: \"Når du forstår frykten din, mister den litt av makten sin, og da får du mer ro til å leve livet ditt. Nå har du hørt hele serien \"Tenk å bli rik.\" Kanskje har du lært noe nytt. Kanskje har du tenkt annerledes. Du trenger ikke forandre alt i livet ditt i dag. Bare en tanke, bare et lite valg. Det er nok. Finn det som gir deg kraft. Et minne, et ønske, et mål. Tenk på det når det er tungt. Minn deg selv på det når du er sliten. Dette er hvordan forandring begynner. Vi sees i neste",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0536
+  "src": "cc"
  },
  "NiYZe1mZz28": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-16T23:24:07+00:00",
+  "checked": "2026-11-22T17:14:16+00:00",
   "title": "Hvem ler mest – kvinner eller menn? | Norsk B1-B2",
   "duration": 240,
   "published": "20261110",
@@ -22938,6 +24910,7 @@
   "pace": 159.6,
   "rare": 0.028,
   "var": 0.8116,
+  "cl": 0.0592,
   "speech_s": 241.4,
   "tokens": 642,
   "kw": [
@@ -23030,16 +25003,169 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "menn",
+    "også forskjeller mellom kvinner og menn.",
+    19,
+    24,
+    5.65,
+    2
+   ],
+   [
+    "faktisk",
+    "dette? Og kan sans for humor faktisk",
+    159,
+    165,
+    5.64,
+    2
+   ],
+   [
+    "mennene",
+    "lo kvinnene 126% mer enn mennene, mens",
+    23,
+    30,
+    4.46,
+    3
+   ],
+   [
+    "status",
+    "tilpasser seg en som har høyere status.",
+    65,
+    71,
+    4.78,
+    2
+   ],
+   [
+    "kvinnelig",
+    "situasjonen. En ung kvinnelig leder ler",
+    70,
+    76,
+    4.19,
+    1
+   ],
+   [
+    "dagers",
+    "Få 30 dagers gratis tilgang via linken i",
+    209,
+    216,
+    4.16,
+    1
+   ],
+   [
+    "forskerne",
+    "har forskerne flere forklaringer. Vi lærer også av det uventede og gjerne når",
+    109,
+    119,
+    4.16,
+    1
+   ],
+   [
+    "uttales",
+    "uttales. Og det gjør mer for forståelsen",
+    190,
+    197,
+    3.57,
+    1
+   ],
+   [
+    "filosof",
+    "filosof at latter er en plutselig",
+    103,
+    110,
+    3.56,
+    1
+   ],
+   [
+    "selvtilliten",
+    "å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via linken i",
+    205,
+    216,
+    3.52,
+    1
+   ],
+   [
+    "lydbok",
+    "og lydbok. Les kapittel først og lytt",
+    182,
+    189,
+    3.39,
+    1
+   ],
+   [
+    "uventede",
+    "lærer også av det uventede og gjerne når",
+    111,
+    119,
+    3.34,
+    1
+   ],
+   [
+    "hersketeknikk",
+    "er en kjent hersketeknikk. Allerede på 1600-tallet skrev en engelsk",
+    97,
+    106,
+    3.33,
+    1
+   ],
+   [
+    "latterliggjøre",
+    "narr av noen er å latterliggjøre dem. Og",
+    151,
+    157,
+    2.88,
+    1
+   ],
+   [
+    "erte",
+    "erte kan være vennlig, men det kan også",
+    154,
+    160,
+    2.87,
+    1
+   ],
+   [
+    "latterliggjøring",
+    "til å stenge noen ute. Latterliggjøring",
+    94,
+    100,
+    2.81,
+    1
+   ],
+   [
+    "kjempestort",
+    "kjempestort. Et tips fra meg som norsklærer er å",
+    175,
+    183,
+    2.61,
+    1
+   ],
+   [
+    "norsklærer",
+    "Et tips fra meg som norsklærer er å",
+    176,
+    183,
+    2.45,
+    1
+   ],
+   [
+    "prøveperioden",
+    "beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lyting og tilbudet",
+    212,
+    221,
+    2.11,
+    1
+   ]
+  ],
   "tx": "Du sitter rundt et bord med noen norske venner og forteller om helgen. Så sier du et ord litt feil og alle begynner å le. Du kjenner at du blir varm i kinnene. Ler de med deg eller ler de av deg? Før vi svarer på det skal vi se på hvem som ler mest. Den amerikanske forskeren fra forrige del fant nemlig også forskjeller mellom kvinner og menn. I samtaler mellom en kvinne og en mann lo kvinnene 126% mer enn mennene, mens mennene oftere var de som fikk andre til å le. Han så også på nesten 3800 kontaktannonser i amerikanske aviser. Der nevnte kvinner latter 62% oftere enn menn. Kvinnene var oftere ute etter en med sans for humor, mens mennene oftere skrev at de selv hadde det. Og i en tysk studie av unge voksne som møttes for første gang, gjaldt det at jo mer kvinnen lo, jo mer interessert sa hun at hun var i mannen. Hvorfor er det sånn? Forskeren mener at latter også kan være et signal om samhold eller om at man tilpasser seg en som har høyere status. og han tror mønsteret endrer seg med situasjonen. En ung kvinnelig leder ler kanskje mindre på jobben jo høyere opp hun kommer, men ikke sammen med gamle venner. Samtidig er det viktig å huske at tallene kommer fra USA og Tyskland og at noen er fra 1990-tallet. Forskjellene mellom enkeltpersoner er store og alder, personlighet og bakgrunn betyr også veldig mye. Latter kan altså også handle om status. Og den kan brukes til å stenge noen ute. Latterliggjøring er en kjent hersketeknikk. Allerede på 1600-tallet skrev en engelsk filosof at latter er en plutselig følelse av å være bedre enn andre. I dag har forskerne flere forklaringer. Vi lærer også av det uventede og gjerne når en regel blir brutt på en ufarlig måte. Jeg tror ikke at et land eller en kultur har en spesifikk humor. Humor er noe som er individuelt og noe vi deler med andre. Og når det gjelder feil på norsk synes jeg det er fint å le med seg selv. I de aller fleste situasjoner er språk ikke så alvorlig at du ikke kan gjøre feil. Her er det også viktig å kunne preposisjonene. Du kan le av noe eller noen og du kan le med noen. Å le til noen betyr å le vennlig mot dem. Å gjøre narr av noen er å latterliggjøre dem. Og erte kan være vennlig, men det kan også gå for langt. Så hva gjør vi med alt dette? Og kan sans for humor faktisk henge sammen med et lengre liv? Jeg vil bare kjapt fortelle deg litt om Next Story som er min betalte partner i denne episoden. Next Story er en app der du kan lytte til lydbøker og lese e-bøker. Og utvalget av norske bøker er kjempestort. Et tips fra meg som norsklærer er å finne en bok som finnes både som e-bok og lydbok. Les kapittel først og lytt til det samme kapittelet etterpå. Da ser du ordene og hører hvordan de faktisk uttales. Og det gjør mer for forståelsen enn veldig mange tror. I Next Story kan du bytte mellom tekst og lyd når som helst, så det er lett å få til. Er du usikker på nivået, er bøker for barn og ungdom en perfekt start og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via linken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lyting og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn 6 måneder siden. Samtidig støtter du meg og Way to Norway og aller viktigst din egen norsk. Sjekk ut Next Story nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen. Det er bra for deg og for norsken din.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0592
+  "src": "auto"
  },
  "B7vD_ltDWWQ": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-16T23:24:44+00:00",
+  "checked": "2026-11-22T17:17:29+00:00",
   "title": "10 vanlige kollokasjoner! 🇳🇴 & Kollokasjoner vs. faste uttrykk, ordtak, idiomer",
   "duration": 522,
   "published": "20260410",
@@ -23048,6 +25174,7 @@
   "pace": 168.6,
   "rare": 0.062,
   "var": 0.7151,
+  "cl": 0.0545,
   "speech_s": 522.3,
   "tokens": 1468,
   "kw": [
@@ -23212,16 +25339,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "lage",
+    "så kanskje jeg skal lage det. Hvis du",
+    91,
+    95,
+    5.39,
+    7
+   ],
+   [
+    "sant",
+    "ord som ofte står sammen, ikke sant?",
+    97,
+    102,
+    5.17,
+    7
+   ],
+   [
+    "imponert",
+    "er mektig imponert. Vi har mange adverb som bare passer med",
+    420,
+    428,
+    4.38,
+    5
+   ],
+   [
+    "rolig",
+    "neste er stille og rolig som egentlig",
+    257,
+    263,
+    4.78,
+    4
+   ],
+   [
+    "mette",
+    "gode og mette. Det betyr we're all full",
+    379,
+    387,
+    4.15,
+    2
+   ],
+   [
+    "måltid",
+    "du har et måltid da sammen med eh, noen,",
+    304,
+    310,
+    3.94,
+    2
+   ],
+   [
+    "skyr",
+    "skyr ilden. Brent barn skyr ilden som",
+    195,
+    202,
+    3.26,
+    2
+   ],
+   [
+    "dyd",
+    "en dyd, kan man si. Det er ikke en en",
+    189,
+    196,
+    3.15,
+    2
+   ],
+   [
+    "throat",
+    "throat. You have the knife on the",
+    160,
+    166,
+    2.71,
+    2
+   ],
+   [
+    "knife",
+    "engelsk, you have the knife on the",
+    159,
+    163,
+    2.51,
+    2
+   ]
+  ],
   "tx": "kolokasjoner. Hva er det? Jo, det skal jeg fortelle deg i denne videoen. Og jeg skal også fortelle deg hva som er forskjellen mellom kollokasjoner, faste uttrykk, idiomer og ordtak. Det er litt overlapp mellom kolokasjoner da spesielt og faste uttrykk. De to kan det være litt overlapp mellom. Og her skal jeg også lære deg 10 vanlige kollokasjoner som vi finner på norsk. Og det å bruke kollokasjoner slik nordmenn bruker dem, det kan være en viktig nøkkel til å høres mer norsk ut når du snakker eller skriver. Så hva er kolokasjoner? Jo, kolokasjoner det er ord som ofte står sammen. Ord som ofte … er mange navn på det samme eller partikkelverb eh som da er meningsbærende enheter som må stå sammen. For eksempel komme an på som betyr depend on eller avhenge av. Her er det obligatorisk å bruke alle komponentene i uttrykket og ikke bare si det kommer an. Eh du må si det kommer an på. Så du må inkludere på. Og jeg har forresten et nettkurs om faste uttrykk eh hvor du vil lære over 230 sånne fraseverb da i kontekst. Lenke under videoen her. Men jeg har ikke noe kurs som kolokasjoner ennå, så kanskje jeg skal lage det. Hvis du synes jeg bør lage det, skriv i kommentarene. Eh, men … dem fra engelsk, ikke sant? På engelsk sier man jo lose your job, lose one's job, men ikke miste din jobb. Nei, så de kan ofte være litt idiomatiske disse kolokasjonene, altså at de ikke kan oversettes direkte fra et språk til et annet, men ofte kan de oversettes til andre språk, så vi kan kalle dem semiidiomatiske på en måte. Men før jeg gir deg lista over kollokasjoner, så vil jeg også nevne idiomer og ordtak hva det betyr. For idiomer, det er billige metaforer som kommuniserer noe helt spesifikt på et bestemt språk. for eksempel kniven på strupen. Altså kniven her. Eh, og det betyr … You have the knife on the throat. No, det høres jo veldig rart ut. Eh, fordi det idiomet eksisterer ikke på engelsk. Det er et norsk idiom. Og så har vi ordtak. Hva er det? Jo, det er hele komplette setninger som kommuniserer en type visdom. Så mitt favorittordtak det er kun dø fisk følger strømmen. Som på en måte kommuniserer at det å følge konsensus hele tiden, det er ikke en dyd, kan man si. Det er ikke en en virtue, ikke en dyd. eh eller brent barn skyr ilden. Brent barn skyr ilden som betyr at man ikke bør overbeskytte barn fordi du må la dem erfare verden på egen ånd og du må la … Og den andre er stifte familie eller stifte bekjentskap kan vi også si. Eh, han ønsker å stifte familie. Det vi ikke sier på norsk, det er starte familie. Mm. Det er ikke feil å si det, men det er ikke så vanlig å si starte familie hvis si stifte eller lage familie. Det er jo logisk. Det er ikke direktefeil, men ingen sier det. Så med veldig mange av disse kolokasjonene så betyr ikke eh betyr det ikke at du har gjort en feil hvis du ikke bruker dem, men det betyr bare at du har valgt en ordkombinasjon som ikke er så naturlig for eh oss som kommer fra Norge. Eh den neste er stille og … som kommer sammen i og det er ofte to synonymer som kommer sammen, men vi sier ikke eh men det skal være en bestemt rekkefølge, kan man si. Eh så han gikk stille og rolig gjennom huset for eksempel. Sitte pent, det er en annen veldig vanlig kolokasjon. Vi sier ikke sitte bra, vi sier ikke sitte fint. Vi sier sitte pent. Moren ba barna om å sitte pent ved bordet. Og hva betyr det? Jo, sitte pent, det betyr at du sitter rett opp og ned på stolen, og du sitter ikke med beina på bordet for eksempel eh mens du har et måltid da sammen med eh, noen, ikke sant? Da sitter man pent. Jeg sitter … sier vi verden rundt og disse sykkelryttene T Frans, Welta, Spania for eksempel eh på norsk kan oversettes til Frankrike rundt, Spania rundt, Italia rundt. Ikke omvendt. Vi skal reise verden rundt neste år. Og så har vi spise middag. Eh vi sier ikke å ha middag som regel, bare i noen få kontekster kan vi si ha foran måltid. Men vi sier veldig ofte spise middag. vil si spise frokost, spise lunsj, spise middag. Eh, det samme med lage. Vi sier lage frokost, lage lunsj, lage middag. Så eh det er ikke vanlig å bruke andre verb foran middag faktisk. Og så har vi god og mett. Og det er jo den … og mette. Det betyr we're all full eh en satisfactory manner. Vi er alle mette på en god måte, ikke sant. Husk at vi sier mett, ikke eh full på norsk når man har spist, ikke sant. Eh den nest er å skifte bleie. Skifte bleie. Vi sier ikke å bytte bleie. Vi må skifte bleie på babyen før vi går. Så det er et annet eksempel. Eh et annet et her også. Hente inspirasjon. Det er ikke feil å få inspirasjon på norsk. Det det sier vi av og til absolutt. Men på norsk bruker vi som oftest å hente. Så jeg for eksempel, jeg har hentet mye inspirasjon både fra andre norsklærere og lærere i andre språk … Det er et sånt ord som du bare finner foran importert. Du finner ikke mektig som et adverb, et gradsadverb foran andre adjektiver. Fordi mektig er jo vanligvis et adjektiv i seg selv, ikke sant? Powerful. Men akkurat her så er det et gradsadverb. Og du kan absolutt si veldig imponert. Mange sier det. Det er helt helt ok. Eh, men hvis du for eksempel da skal gjøre sensor på norskprøven eh mektig imponert, så kan du prøve å variere språkbruken din på akkurat denne måten. Så det var 10 vanlige kolokasjoner. Har du noen kollokasjoner du har lagt merke til på norsk? Skriv i kommentarene hvis du … å studere eh de kolokasjonene som ikke er 100% intuitive og de som ikke nødvendigvis kan oversettes direkte fra andre språk. Eh og uansett kanskje burde jeg utvikle et lite minikurs om dette for det kan være et aspekt ved språket som er nyttig å lære hvis man ønsker å gå fra B2 til C1, fra mellomnivå til virkelig avansert nivå. Men som sagt, du bør først fokusere på faste uttrykk og fraseverb som er enda mer grunnleggende. Og hvis du vil forstå og skjønne hvor mange fraseverb vi faktisk har på norsk, så bør du sjekke ut denne videoen her hvor jeg genererer 10 fraseverb helt tilfeldig. Ja.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0535
+  "src": "auto"
  },
  "kjG6H8S7Lo4": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-16T23:25:00+00:00",
+  "checked": "2026-11-22T17:17:45+00:00",
   "title": "To do-listen til en GTD®-coach | Business Listening: 30-Day Challenge COURSE PREVIEW",
   "duration": 406,
   "published": "20260320",
@@ -23230,6 +25438,7 @@
   "pace": 195.8,
   "rare": 0.0408,
   "var": 0.7184,
+  "cl": 0.0868,
   "speech_s": 406.0,
   "tokens": 1325,
   "kw": [
@@ -23346,11 +25555,140 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "egentlig",
+    "egentlig liste over neste handlinger som er",
+    34,
+    37,
+    5.62,
+    5
+   ],
+   [
+    "alltid",
+    "og så eksperimenterer egentlig alltid med",
+    99,
+    103,
+    5.78,
+    4
+   ],
+   [
+    "lister",
+    "Mm. Så du har fem forskjellige to do-lister",
+    80,
+    85,
+    4.21,
+    3
+   ],
+   [
+    "delt",
+    "er delt inn etter kontekster. Da er det delt inn etter kontekster. Da er det da",
+    36,
+    39,
+    4.74,
+    2
+   ],
+   [
+    "punkter",
+    "på nytt når jeg gjorde en revisjon. Mhm. Hvor hvor hvor mange punkter er det",
+    130,
+    137,
+    4.18,
+    1
+   ],
+   [
+    "beslutning",
+    "gjøre med det? Mhm. Og da bare ta en beslutning på det",
+    196,
+    201,
+    4.17,
+    1
+   ],
+   [
+    "rekkefølge",
+    "jeg gjøre i dag eh rekkefølge første andre tredje fjerde femte ting jeg skal",
+    222,
+    228,
+    4.14,
+    1
+   ],
+   [
+    "produktiv",
+    "seg på en produktiv måte da til listene sine igjen.",
+    205,
+    209,
+    3.57,
+    1
+   ],
+   [
+    "revisjonen",
+    "Så da er det litt den der revisjonen igjen. Gå gjennom listen og se ok hva er",
+    188,
+    193,
+    3.5,
+    1
+   ],
+   [
+    "morgendagen",
+    "kommer vi morgendagen og så er det kanskje noen ting som jeg ønsker å gjøre",
+    241,
+    244,
+    3.47,
+    1
+   ],
+   [
+    "sortert",
+    "er jo sortert etter kontekst, men er ellers usortert eh for det aller meste.",
+    301,
+    307,
+    3.43,
+    1
+   ],
+   [
+    "ærend",
+    "da er det æren, da er det PC jobb som er er det ærend, da er det PC jobb som er en",
+    38,
+    43,
+    3.41,
+    1
+   ],
+   [
+    "gjennomfør",
+    "oversikten foran seg, se alle tingene, gjør et valg og så bare gjennomfør.",
+    359,
+    365,
+    2.88,
+    1
+   ],
+   [
+    "regneark",
+    "liksom ha mange lister på et eh regneark da og liksom flytte liksom ok hva skal",
+    217,
+    223,
+    2.87,
+    1
+   ],
+   [
+    "eksperimenterer",
+    "og så eksperimenterer egentlig alltid med",
+    99,
+    103,
+    2.84,
+    1
+   ],
+   [
+    "juleferie",
+    "visste det her skal jeg ikke prioritere før jeg tar juleferie. Eh men jeg ville",
+    113,
+    120,
+    2.78,
+    1
+   ]
+  ],
   "tx": "Og hvordan ser din egen liste med gjøremål ut, din To-Do liste? Ja, jeg har jo Todoist, da, som er en sånn digital app som finnes både på iPhone og Android og iOS ogog PC og og web. Så da har jeg jo som nevnt tidligere muligheten til å få tilgang til listene mine uansett hvor jeg er hen i verden. Jeg trenger bare å koble meg opp på internett. Ehm og der har jeg jo da en sånn innboks. Eh jeg har en eller mange da egentlig liste over neste handlinger som er er delt inn etter kontekster. Da er det delt inn etter kontekster. Da er det da da er det æren, da er det PC jobb som er er det ærend, da … som en liste. Jeg har en liste for folk som jeg skal snakke med som jeg har kalt agenda. Ehm og der har jeg jo da en sånn sånn at jeg skriver ned ting som jeg skal ta opp med folk jeg møter jevnlig. Ehm, jeg har laget meg en liste også som heter hvor som helst som er som jeg bruker til når jeg skal på sitte på bussen for eksempel. Mhm. At jeg har tilgang til smarttelefonen min, men ikke PC. Så så ligger det en ting der som jeg da kan få gjort. Mhm. Selv om jeg ikke har har tilgang til alt. Mm. Så du har fem forskjellige to do-lister rett og slett. Mhm. Eller flere også kanskje har jeg … jo den delen av systemet som endrer seg mest at det er litt sånn ah nei, nå bruker jeg ikke den listen mer, men da sletter jeg den. Eh og så eksperimenterer egentlig alltid med ok hva er det som passer best for meg. Mhm. Ehm for eksempel nå rett før jul så hadde jeg en liste som het \"Etter jul\". Eller altså så det var ting som dukket opp som jeg visste det her skal jeg ikke prioritere før jeg tar juleferie. Eh men jeg ville jo ikke liksom glem det eller at det skulle bli helt borte heller. Så da havnet det midlertidig på en liste som var liksom etter jul. Og så i januar da så tok jeg opp … jeg på nytt når jeg gjorde en revisjon. Mhm. Hvor hvor hvor mange punkter er det på disse listene og hva hva er den hva er det eldste punktet du har? Nei, altså på den eh jeg har jo en sånn jeg har en sånn en gang kanskje liste og den der Ruge på lista der der blir jo ting gammelt for det der er det jo ikke noe handling akkurat nå. Jeg vil bare se på det jevnlig. Så der er ting som jeg skrev for mange år siden som jeg fortsatt synes er gode ideer. Eh det har bare ikke liksom blitt noen ting av det enå. Eh på eh på neste handlingslistene mine så er det jo sjelden at ting blir eldre. En … det eldre enn se måneder så har jeg liksom da har jeg må jo ta en vurdering. Det her prioriterer jeg åpenbart ikke. Eh kanskje heller skal slette det bestemme meg for å ikke gjøre det for det da blir det bare dårlig samvittighet hvis det blir liggende alt for lenge. Mhm. Så da er det litt den der revisjonen igjen. Gå gjennom listen og se ok hva er reelt her? Eh det realismen er at det her får jeg ikke gjort. Ok. Hva skal jeg gjøre med det? Mhm. Og da bare ta en beslutning på det og få den løsetråden ut av ut av systemet og så kan man liksom forholde seg på en produktiv måte da til listene … (spreadsheets) fordi det er så lett å flytte på sånne flytte på selger og jeg kan liksom ha mange lister på et eh regneark da og liksom flytte liksom ok hva skal jeg gjøre i dag eh rekkefølge første andre tredje fjerde femte ting jeg skal gjøre på en måte kanskje problemet jeg finner er at det eh det går ofte litt inflasjon da i disse listene at det blir de blir større og større og så er det ting jeg skal gjøre i dag som på en måte jeg ikke fikk gjort i dag da og så kommer vi morgendagen og så er det kanskje noen ting som jeg ønsker å gjøre hver dag. Og så kommer de inn sammen med den lista. … kommer gjennom da. Eh, så er det er det noe du du hører fra dine klienter noe lignende problem og hvordan kan man eh komme rundt det tror du? Ja, jeg jeg tror det er et veldig vanlig problem at listen blir for lange og det som ligger i bunnen der er jo at vi vi er tidsoptimister, ikke sant? Vi tenker at vi får gjort mer eh enn det vi har tid til. Eh og det har vel forsket på det og mener at vi vi har en som mennesker en tendens til å overvurdere hva hva vi kan få gjort på kort sikt og samtidig undervurdere hva vi kan få gjort på lang sikt. Eh sånn at til en viss grad så har alle med … hvis man begynner å prioritere veldig da på listene. Så at mine lister ligger de de er jo sortert etter kontekst, men er ellers usortert eh for det aller meste. Altså alt det ting jeg skal gjøre så fort som mulig, jeg må bare prioritere det oppimot alt annet. Eh og da hender jeg til å gjøre sånn som du og kanskje stjernemarkere da de som er det de her 2 3 f må jeg få gjort i dag. Men jeg prøver alltid å å la det være igjen nok tid da til at jeg kan gå tilbake igjen til de her hovedlistene og velge ut, ok, nå har jeg en time igjen. Eh, hva er det mest fornuftig å bruke tiden på da? … og det blir mange sånn der må jeg gjøre i dag og så er det ikke realistisk, da skaper man jo egentlig bare dårlig samvittet. Mhm. Eh, og så og prioriterer man 1 2 3 4 så er det alltid noen ting som dukker opp sånn, men det her er mer viktig enn prioritet 1, skal jeg da lage prioritet 0 eller 0,5 eller altså du må liksom alltid utvide systemet da. Ja. Så det hjerne var egentlig ganske god på å prioritere. Så da er det bedre å ha oversikten foran seg, se alle tingene, gjør et valg og så bare gjennomfør. Mhm. Ikke dvele for mye det. Ja. Fordi at du har jo i utgangspunktet gjort hele … nå skal du egentlig bare se på det. Velg noen ting. Mm. Så utføre. Ja. Så det forutsetter litt at du har gjort de tidligere stegene da for at dette skal funke på en måte. Ja. Altså har du veldig vage oppgaver på listene dine så må du jo tenke på nytt og da tar det jo lenger tid. Men hvis det står sendpost til spen om sånn og sånn og slik så er det sånn ja ok jeg vet hva jeg skal gjøre det står der det er bare å gjøre det. Ja, så det er jo å være superkonkret da på det. Så når vi i den tydeliggjøringsprosessen så handler det om å bryte det ned i enkelt oppgaver, ikke sant? Mhm. Det gjør det.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0885
+  "src": "cc"
  },
  "pYeIG3MWExE": {
   "channel": "Norwegian Connect",
@@ -24145,7 +26483,7 @@
  "71a1Kowf63c": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:46:50+00:00",
+  "checked": "2026-11-22T17:10:50+00:00",
   "title": "Tenk og bli rik på enkelt norsk  Lær norsk gjennom bok – Del 2",
   "duration": 757,
   "published": "20251203",
@@ -24154,6 +26492,7 @@
   "pace": 99.8,
   "rare": 0.0084,
   "var": 0.7417,
+  "cl": 0.0538,
   "speech_s": 715.5,
   "tokens": 1190,
   "kw": [
@@ -24262,11 +26601,100 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "tenke",
+    "I forrige video begynte du en ny måte å tenke på.",
+    5,
+    10,
+    5.41,
+    6
+   ],
+   [
+    "perfekt",
+    "Ikke vent på \"perfekt\" id. Skriv alt som kommer.",
+    234,
+    241,
+    5.06,
+    6
+   ],
+   [
+    "skriv",
+    "3. Skriv ideer ned. Ikke vent på \"perfekt\" id.",
+    229,
+    239,
+    4.44,
+    4
+   ],
+   [
+    "kapittel",
+    "Kapittel 5. Fantasi. Fantasi betyr å se noe i hodet før det skjer i virkeligheten.",
+    32,
+    43,
+    4.32,
+    4
+   ],
+   [
+    "stol",
+    "2. Stol på deg selv. Du trenger ikke være sikker før du velger.",
+    508,
+    517,
+    4.18,
+    1
+   ],
+   [
+    "svarene",
+    "Du trenger ikke vite svarene nå.",
+    319,
+    323,
+    4.16,
+    1
+   ],
+   [
+    "venting",
+    "Men venting skaper ofte mer frykt.",
+    478,
+    483,
+    3.42,
+    1
+   ],
+   [
+    "minn",
+    "2. Minn deg selv på hvorfor du startet.",
+    666,
+    672,
+    3.37,
+    1
+   ],
+   [
+    "kapittelet",
+    "Bokens budskap i dette kapittelet. Fantasi er ikke tull.",
+    244,
+    251,
+    3.28,
+    1
+   ],
+   [
+    "juster",
+    "Hold fast og juster senere. Når du tar en beslutning får du mer ro og mer styrke.",
+    528,
+    538,
+    3.08,
+    1
+   ],
+   [
+    "bestem",
+    "1. Bestem deg raskere. Ikke tenk for lenge på små ting.",
+    493,
+    501,
+    2.97,
+    1
+   ]
+  ],
   "tx": "Velkommen til del 2 av \"TENK OG BLI RIK\". I forrige video begynte du en ny måte å tenke på. Kanskje merket du noe var annerledes i tankene dine og i følelsene dine. I denne delen går vi videre. Denne delen handler om små tanker som kan gjøre en stor forskjell. Ta deg tid og lytt rolig. Kapittel 5. Fantasi. Fantasi betyr å se noe i hodet før det skjer i virkeligheten. Alt som er laget i verden var først en id. Et hus, en telefon, en butikk, et firma. Noen så det først i tankene. Deretter gjorde de det virkelig. Boken sier: \"Fantasi er starten på nye muligheter. Det er ikke bare for barn, det … fantasi kan du finne nye løsninger. Du kan tenke, hva kan jeg gjøre på en annen måte? Hva hvis jeg prøver noe nytt? Hva hvis jeg ikke gir opp? Fantasi hjelper deg når du sitter fast. Hvis du alltid gjør det samme, får du ofte det samme resultatet. Men hvis du tør å tenke nytt, kan du få noe nytt? Boken snakker om to typer fantasi. Første type: \"Kreativ fantasi\". Dette er når du får en id plutselig. Kanskje mens du går en tur. kanskje når du ikke prøver å tenke. Plutselig får du en tanke. Hva om jeg gjør det på denne måten? Dette er kreativ fantasi. Den kommer ofte når du er rolig. Andre type … når du bruker hjernen bevisst. Du tenker med vilje. Du spør deg selv, hvordan kan jeg gjøre dette bedre? Hvordan kan jeg nå målet mitt? Hva kan jeg endre? Dette er fantasi som du trener. Du bruker den som et verkøy. Hvordan kan du bruke fantasi i hverdagen? Du trenger ikke være kunstner. Du trenger ikke være rik. Du trenger bare å tørre å tenke. Her er tre enkle øvelser. 1. Se deg selv der du vil være. Lukk øynene i ett minutt. Se for deg livet du ønsker. Hvordan er det? Hva jobber du med? Hvordan føler du deg? 2. Still nye spørsmål I stedet for å si: \"dette går ikke\". Si: hvordan kan jeg … 3. Skriv ideer ned. Ikke vent på \"perfekt\" id. Skriv alt som kommer. Små tanker kan bli store. Bokens budskap i dette kapittelet. Fantasi er ikke tull. Fantasi er noe du kan bruke hver dag i livet ditt. Den hjelper deg å se muligheter i stedet for problemer. Den hjelper deg å finne en vei når du tror det ikke finnes noen. Napoleon Hill sier det du kan se i tankene kan du også skape i livet. Kanskje ikke i morgen, men steg for steg. Kapittel 6. Planlegging. En drøm uten plan blir ofte bare en drøm. Boken sier: \"Hvis du vil forandre noe i livet, må du lage en plan. En plan betyr ikke at alt … du vet hva du vil og du tar et steg. Mange venter på \"riktig tid\". Men den kommer nesten aldri. Du trenger ikke vite svarene nå. Du trenger bare å begynne. Hvordan lage en enkel plan? Du kan bruke tre enkle spørsmål. 1. hva vil jeg? Skriv målet ditt. Ikke stort, ikke perfekt, bare ekte. 2. Hva kan jeg gjøre nå? Hva kan jeg begynne med i dag? En liten ting er nok. 3. Hvem kan hjelpe meg? Du trenger ikke klare alt alene. Du trenger kanskje en venn, kanskje et kurs, kanskje en bok. Det er lov å be om hjelp. Noen ganger går det ikke som du håpet. Og det er normalt. Hvis planen ikke fungerer, … planen. Det er lov å feile, men du bør ikke slutte å prøve. Bokens budskap. Du trenger ikke en perfekt plan. Du trenger en start og du trenger vilje til å fortsette.7 Napoleon Hill sier Napoleon Hill sier det er bedre å begynne med en enkel plan enn å vente på en perfekt plan. Livet forandrer seg ikke av tanker alene. Det forandrer seg av handling. Kapittel 7. Beslutning. Mange mennesker tenker lenge, men bestemmer seg aldri. De venter. De er usikre. De er redde for å velge feil. Men boken sier: Å ikke velge er også et valg. De som kommer videre i livet er ofte de som tør å bestemme seg. … de handler. Hvorfor er det vanskelig å ta beslutninger? Frykt spiller en stor rolle. Frykt for å gjøre feil. Frykt for hva andre ville tenke om meg. Frykt for å angre. Men venting skaper ofte mer frykt. Jo lenger du venter, jo vanskeligere blir det. Hvordan kan man bestemme seg? Her er tre enkle råd. 1. Bestem deg raskere. Ikke tenk for lenge på små ting. Mange små valg tar mye energi. Bruk energien din på det som betyr mest. 2. Stol på deg selv. Du trenger ikke være sikker før du velger. Du blir mer sikker etter at du begynner. 3. Stå for det du velger. Alle kan være i tvil noen ganger. … tar en beslutning får du mer ro og mer styrke. Du slutter å gå rundt i ring og begynner å gå frem. Selv et lite valg. kan skape bevegelse. Bokens budskap. De som alltid venter kommer sjelden dit de vil. De som velger kommer et sted. Ikke alltid riktig sted, men et nytt sted. Og et nytt sted gir nye muligheter. Napoleon Hill sier: En fast beslutning. kan forandre hele livet. Kapittel 8. Utholdenhet. Å starte er lett og fortsette er vanskeligere. Mange begynner med motivasjon, men når det blir tungt slutter de. Boken sier: Forskjellen på de som kommer videre og de som gir opp er utholdenhet. … å fortsette selv når du er sliten. Selv når du tviler. Selv når du føler at ingenting skjer. Du fortsetter fordi du må oppnå målet ditt. Men hvorfor noen ganger gir vi oss? Ofte er det ikke fordi vi ikke kan, men fordi vi mister troen. Vi tenker: \"det lønner ikke seg\". Eller \"jeg er ikke god nok.\" Og da stopper vi. Hvordan kan jeg trene utholdenhet? 7 Her er tre enkle måter. 1. Del målet opp. Ikke se på hele veien. Se på neste skritt. Små steg er lettere å ta. 2. Minn deg selv på hvorfor du startet. Hva ønsket du å forandre? Skriv det ned. Les det ofte. 3. Fortsett selv på dårlige dager. Du … bare å ikke gi opp. Noen dager gjør du mye, andre dager gjør du litt, men du gjør noe. Bokens budskap. Utholdenhet betyr ikke at du aldri blir sliten. Det betyr at du ikke stopper fordi du er sliten. Napoleon Hill sier: \"Mange stopper like før det begynner å skje noe. Derfor fortsett litt til\". Nå har du hørt denne delen av \"Tenk å bli rik.\" Kanskje du merker at noe er litt annerledes i tankene dine eller i følelsene dine. Du trenger ikke forstå alt med en gang. Bare la tankene jobbe litt. Håper denne delen ga deg noe fint. Neste del tar deg videre på en rolig måte. Vi sees i neste video",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0529
+  "src": "cc"
  },
  "88pl0e0wYUg": {
   "channel": "Norsk Tolk | NTN Skole",
