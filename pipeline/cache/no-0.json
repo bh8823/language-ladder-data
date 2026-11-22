@@ -2,7 +2,7 @@
  "JNgVBHlxYyQ": {
   "channel": "Norwegian Input",
   "lang": "no",
-  "checked": "2026-11-11T22:39:28+00:00",
+  "checked": "2026-11-22T03:05:42+00:00",
   "title": "How many trains does it take to get home? | Learn Norwegian | Intermediate Norwegian",
   "duration": 468,
   "published": "20261105",
@@ -11,6 +11,7 @@
   "pace": 109.8,
   "rare": 0.0166,
   "var": 0.7023,
+  "cl": 0.0402,
   "speech_s": 461.8,
   "tokens": 845,
   "kw": [
@@ -119,16 +120,137 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kjøre",
+    "toget skulle kjøre, men toget kjørte",
+    97,
+    104,
+    5.23,
+    8
+   ],
+   [
+    "bor",
+    "en litt annen vei enn der jeg bor.",
+    257,
+    265,
+    5.18,
+    8
+   ],
+   [
+    "hørte",
+    "hørte jeg på høytaleren oppi taket på",
+    200,
+    209,
+    4.72,
+    2
+   ],
+   [
+    "stasjon",
+    "Og jeg gikk av på en stasjon som var",
+    271,
+    280,
+    4.6,
+    2
+   ],
+   [
+    "halvtime",
+    "eh mer eller kanskje en halvtime. Jeg",
+    233,
+    239,
+    3.96,
+    1
+   ],
+   [
+    "stasjoner",
+    "bort til en to stasjoner eh bortenfor",
+    164,
+    171,
+    3.92,
+    1
+   ],
+   [
+    "fryse",
+    "å fryse. Men heldigvis denne gangen så",
+    348,
+    358,
+    3.9,
+    1
+   ],
+   [
+    "setet",
+    "Jeg satte meg ned i setet på toget og",
+    245,
+    253,
+    3.78,
+    1
+   ],
+   [
+    "venting",
+    "Det var ikke veldig gøy. Mye venting og",
+    404,
+    414,
+    3.42,
+    1
+   ],
+   [
+    "bortenfor",
+    "bort til en to stasjoner eh bortenfor",
+    164,
+    171,
+    3.34,
+    1
+   ],
+   [
+    "pendler",
+    "Sånn er det å være pendler, som det",
+    429,
+    438,
+    3.12,
+    1
+   ],
+   [
+    "pendle",
+    "heter, og pendle fra der man bor til",
+    433,
+    442,
+    2.92,
+    1
+   ],
+   [
+    "konduktøren",
+    "Så konduktøren sa til meg at jeg må",
+    143,
+    153,
+    2.79,
+    1
+   ],
+   [
+    "letet",
+    "Og jeg var letet fordi da kom jeg meg",
+    385,
+    390,
+    2.66,
+    1
+   ],
+   [
+    "konduktør",
+    "Og da kom en konduktør eh bort og sa,",
+    119,
+    128,
+    2.58,
+    1
+   ]
+  ],
   "tx": "Har du opplevd å ikke komme hjem nesten etter jobb på grunn av togproblemer at toget ikke kjører? Jeg kjører eh tog på vei til og fra jobb. Og noen ganger er det problemer med tog. Eh, ikke bare noen ganger, men ganske ofte er det problemer med tog som gjør at toget er forsinket, at det er for sent, ikke kommer tidsnak. Eller noen ganger enda verre at toget er innstilt, at det toget ikke går. Må bare vente. Det er det verste. Og i går da jeg skulle hjem fra jobb så var det ikke så gøy. Det tok lang tid å komme seg hjem fra jobb i går. Jeg skulle ta toget klok. Litt over klok på kvelden. Det var litt forsinket, litt for sent. Eh, men greit nok. Det er ganske vanlig. Jeg eh gikk og satt meg ned, satt meg ned i toget og ventet på at toget skulle kjøre, men toget kjørte ikke. Jeg ventet og jeg ventet og h tenkte han, det må jo kjøre etter hvert. Men det gjorde det ikke. Jeg ventet til klokka var nesten 7. Og da kom en konduktør eh bort og sa, \"Beklager, toget er innstilt og det kommer ikke til å kjøre, så du må gå av toget.\" Ok, da har jeg sittet nesten en time på toget og ventet. Reiser meg opp og går av toget fordi jeg må. Så konduktøren sa til meg at jeg må komme meg til en annen togstasjon. Ikke denne stasjonen, men en togstasjon lengre bort på andre siden av byen. Det er så mye forsinkelser og innstillinger på tog. I kveld så går jeg bort til en to stasjoner eh bortenfor den stasjonen som jeg var på. Det tok eh nesten en time å gå til den andre stasjonen. Eh og da jeg kom til den neste stasjonen som det skulle gått tog fra, så måtte jeg vente og vente og vente igjen. Eh, endelig kom det et tog og jeg gikk på toget. Jeg ventet i 5 minutter og så hørte jeg på høytaleren oppi taket på toget. Toget er innstilt. Toget kjører ikke. Dere må gå av toget. Ok. Så må jeg gå av toget igjen. Reiser meg opp og går av toget igjen. Og står på stasjonen og venter og venter og venter. Og det var litt kaldt ute, så måtte jeg vente kanskje 20 eh minutter eh mer eller kanskje en halvtime. Jeg husker ikke helt. Så kom det et nytt tag. Jeg gikk på det nye toget. Jeg satte meg ned i setet på toget og toget kjørte endelig. Men dette var et tog som kunne kjøre eh en litt annen vei enn der jeg bor. Så jeg tenkte det var bedre å ta dette toget for å komme litt nærmere hjem, selv om jeg ikke kommer helt hjem. Og jeg gikk av på en stasjon som var litt nærmere der jeg bor, men fortsatt for langt unna til å gå hjem. Så jeg måtte vente på et annet tog som skulle kjøre hjem til der jeg bor. Og jeg måtte vel vente 20 minutter kanskje. Ja. 25 minutter så kom det et tog som skulle kjøre dit jeg bor. Og jeg gikk på toget, satte meg ned på toget og jeg tenkte, \"Ah, endelig, endelig er det tog som skal kjøre hjem til der jeg bor.\" Og så hørte jeg på høytaleren i toget i taket. Neste stopp er siste stopp. Ah nei. Det betyr at jeg ikke kommer hjem med dette toget heller. Så måtte jeg gå av toget på neste stasjon. måtte jeg reise meg opp og gå av toget igjen. Og så måtte jeg stå ute og vente å fryse. Men heldigvis denne gangen så måtte jeg ikke vente lenge. Jeg måtte vente i 10 minutter. Så kom det et nytt tag som skulle kjøre hjem til den stasjonen der jeg bor. Og jeg gikk og satte meg på toget og tenkte endelig nå skal jeg komme meg hjem i kveld. Og heldigvis dette toget kjørte helt til den stasjonen eh som er nærmest der jeg bor. Og jeg var letet fordi da kom jeg meg endelig hjem. Men istedenfor å bruke den vanlige tiden på en og en halv time cirka, så brukte jeg vel over 4 timer over 4 timer på å komme hjem i går kveld. Det var ikke veldig gøy. Mye venting og mye gå inn på tog, sette seg ned, vente, reise seg opp, gå ut, vente og bytte tog igjen. Så jeg var på fire tog i går for å komme meg hjem. Vanligvis så holder det med ett tog for å komme hjem. Sånn er det å være pendler, som det heter, og pendle fra der man bor til jobben med tog. Det kan skje ting som det her som gjør at det kan bli veldig sent ibant å komme seg hjem. Men jeg kom hjem til slutt og bra var det. Har du hatt problemer med tog? eh i Norge eller i andre land. Fortell meg gjerne din historie i kommentarfeltet under. Ha det bra. あ 。",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0402
+  "src": "auto"
  },
  "yrWbThMoGS8": {
   "channel": "To Understand Norwegian",
   "lang": "no",
-  "checked": "2026-11-11T22:39:55+00:00",
+  "checked": "2026-11-22T03:08:26+00:00",
   "title": "Illegal Names In Norway - Easy Norwegian",
   "duration": 591,
   "published": "20260222",
@@ -137,6 +259,7 @@
   "pace": 84.0,
   "rare": 0.0429,
   "var": 0.7082,
+  "cl": 0.0675,
   "speech_s": 582.5,
   "tokens": 815,
   "kw": [
@@ -269,16 +392,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kalle",
+    "Så det er ikke lov å kalle ungen sin for",
+    130,
+    141,
+    4.84,
+    9
+   ],
+   [
+    "heller",
+    "Det er heller ikke lov å kalle opp ungen",
+    155,
+    163,
+    5.66,
+    6
+   ],
+   [
+    "konge",
+    "tittelen konge, prinsesse,",
+    122,
+    131,
+    4.64,
+    2
+   ],
+   [
+    "tittelen",
+    "tittelen konge, prinsesse,",
+    122,
+    131,
+    4.59,
+    2
+   ],
+   [
+    "etternavn",
+    "etternavn i Norge. Johansen. Olsen. M det går ikke. Andre",
+    101,
+    117,
+    4.1,
+    3
+   ],
+   [
+    "titler",
+    "titler. Og med titler så mener jeg for eksempel",
+    116,
+    126,
+    4.02,
+    3
+   ],
+   [
+    "etternavnet",
+    "etternavnet. Hvis du har et navn som du vil gi til",
+    278,
+    291,
+    3.58,
+    1
+   ],
+   [
+    "kommandant",
+    "kommandant. Så det er ikke lov å kalle ungen sin for",
+    127,
+    141,
+    3.48,
+    1
+   ],
+   [
+    "mhm",
+    "navn etter det som passer skjønnet. Mhm.",
+    344,
+    356,
+    3.26,
+    1
+   ],
+   [
+    "morfin",
+    "For eksempel er morfin en type medisin,",
+    223,
+    232,
+    3.23,
+    1
+   ],
+   [
+    "assosieres",
+    "assosieres med andre verdenskrig. Man tenker på andre verdenskrig når man",
+    510,
+    523,
+    3.16,
+    1
+   ],
+   [
+    "understand",
+    "To understand Norwegian. I dag tenkte jeg at vi skulle snakke",
+    7,
+    23,
+    2.89,
+    1
+   ],
+   [
+    "tablett",
+    "tablett, drikke vann og svelle tabletten",
+    173,
+    185,
+    2.67,
+    1
+   ]
+  ],
   "tx": "Hei og velkommen til en ny video her på To understand Norwegian. I dag tenkte jeg at vi skulle snakke litt om navn som er ulovlige i Norge om navn som ikke er lov å gi til barnet sitt, til babyen sin her i Norge. Så navn er jo for eksempel mitt navn som er Marlen. Vi har vanlige norske navn som Ola, Lise, Lukas og så videre. Dette er lovlige navn. Slike navn er lov her i Norge. Det som ikke er lov her i Norge er for eksempel å bruke banneord og skjellsord som navn. Banneord og skjellsord er stygge ord. Ord som betyr dumme ting, vonde ting. Noen norske baneord er for eksempel eller Så det er for eksempel ikke lov å hete Fen Johansen. Johansen er et vanlig etternavn i Norge. Johansen. Olsen. M det går ikke. Andre type navn som er ulovlige i Norge er titler. Og med titler så mener jeg for eksempel tittelen konge, prinsesse, kommandant. Så det er ikke lov å kalle ungen sin for konge Johansen eller prinsesse Olsen. Dette er titler som gis til personer som passer under denne tittelen. Det er ikke navn som gis til vanlige personer. Det er heller ikke lov å kalle opp ungen sin etter en sykdom eller en medisin. Så når man blir syke så må man kanskje ta medisin, en tablett, drikke vann og svelle tabletten for å bli frisk igjen. Medisin. Vi har ikke lov å gi navn til barn på medisiner og sykdommer. Så forskjølelse, elveblest, parasett. Dette er ikke lovlige navn, så man kan ikke hete Parasett Johansen, Elveblest Olsen. Mm. Det er heller ikke lov å gi navn som minner om sykdommer eller medisiner. For eksempel er morfin en type medisin, men det er ikke lov å kalle ungen sin for morfiner, for det ordene ligner for mye på hverandre. Å bruke etternavn som fornavn er heller ikke lov. Så et etternavn er jo for eksempel Johansen og Olsen. Det er ikke lov å kalle barnet sitt for Johansen Olsen eller Olsen Johansen. Det er lov å kalle ungen sin for Johan Johansen eller Ole Olsen, men ikke selve etternavnet. Hvis du har et navn som du vil gi til barnet ditt som er til ulempe for barnet og for alle rundt, så kan det bli eh ikke godkjent. Det kan være ulovlig. Med dette så mener jeg kanskje navn som har mange konsanter etter hverandre som er vanskelige å uttale og vanskelige å huske og skrive. For eksempel er navnet som Elon Musk har gitt til den ene ungen sin. Det hadde ikke blitt godkjent i Norge. X er A bind XI noe sånt. Ikke godkjent. Det er også en regel at man må gi barnet navn etter det som passer skjønnet. Mhm. Så har man født en jente, så må man gi et jentenavn. Har man født en gutt, må man gi et guttenavn. Så eh navn som Ole og Marius er typiske guttenavn. Og prøver man å gi disse navnene til en jente, vil det ikke bli godkjent. Og motsatt, prøver man å gi en gutt navnene Sofie eller Ingun, så blir heller ikke dette godkjent. Det finnes likevel en god del navn som kan brukes som både guttenavn og jentenavn. Og disse er helt lovlige. Dette er navn som Kim eller Iben. Og så skal man heller ikke kalle barnet sitt for ting som ikke gir mening. Som ikke gir mening som navn. For eksempel banan eller lof. Vi har ikke lov å kalle ungen vår for banan Johansen eller LF Olsen. Dette er til ulempe for barnet og vil ikke bli godkjent om du prøver å kalle ungen etter disse ordene. Så har vi noen navn som var ulovlige før, men som nå er lovlige. Et av disse navnene er Jesus. Jesus var ulovlig å hete i Norge fram til 2000-tallet cirka. Da ble det lovlig å hete Jesus. Det er ikke mange i Norge som gir barnet sitt navnet Jesus, men siden Jesus er et helt vanlig navn i mange andre land, så er det nå også godkjent som et navn i Norge. Andre navn som var ulovlige før, men som er lovlige nå, er navn som Adolf og Vidkun. Adolf og Vidkun er to navn som assosieres med andre verdenskrig. Man tenker på andre verdenskrig når man hører disse navnene. Fordi disse navnene blir forbundet med onde handlinger, så var det heller ikke lov å kalle barna sine opp etter disse navnene. Så kort oppsummert, navnene man har lov å gi til barna må gi mening. Det kan ikke være meningsløst. Det skal være et navn som passer til barnet for barnets beste. Og det skal ikke være tull eller bli oppfattet på feil måte. Og fortell meg, har dere noen lignende regler i deres hjemland når det gjelder navn? skriv det i kommentarfeltet nedenfor. Vi snakkes. >>",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0675
+  "src": "auto"
  },
  "PZdvSH73vB4": {
   "channel": "Norsk med Aria",
   "lang": "no",
-  "checked": "2026-11-11T22:41:58+00:00",
+  "checked": "2026-11-22T03:13:01+00:00",
   "title": "Hva må du gjøre for å bli god i norsk? (feat. Ilys)",
   "duration": 1886,
   "published": "20260926",
@@ -287,6 +515,7 @@
   "pace": 183.9,
   "rare": 0.0291,
   "var": 0.7073,
+  "cl": 0.0623,
   "speech_s": 2043.8,
   "tokens": 6265,
   "kw": [
@@ -451,16 +680,97 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "føler",
+    "Fordi jeg føler at det er noe som kommer som er enda bedre.",
+    104,
+    108,
+    5.46,
+    19
+   ],
+   [
+    "ord",
+    "Nei, eller han plukker ord som han synes er interessante,",
+    161,
+    165,
+    5.39,
+    19
+   ],
+   [
+    "hund",
+    "Å få seg hund og snakke norsk med den",
+    775,
+    780,
+    4.71,
+    6
+   ],
+   [
+    "enkle",
+    "Lese enkle barnebøker? Jeg liker ikke det.",
+    1230,
+    1235,
+    4.59,
+    6
+   ],
+   [
+    "scener",
+    "Imitere scener fra film eller TV.",
+    201,
+    205,
+    4.17,
+    5
+   ],
+   [
+    "indisk",
+    "indisk eller",
+    2180,
+    2182,
+    3.88,
+    4
+   ],
+   [
+    "stressende",
+    "og det var veldig stressende. Så husk å prøve å lære deg noen ord for å ikke bli i en sånn situasjon.",
+    643,
+    651,
+    3.45,
+    2
+   ],
+   [
+    "tier",
+    "Vi skal bruke en tier-list der S er det aller beste.",
+    47,
+    54,
+    3.41,
+    2
+   ],
+   [
+    "imitere",
+    "Imitere scener fra film eller TV.",
+    201,
+    205,
+    2.83,
+    3
+   ],
+   [
+    "banneord",
+    "Å lære seg norske banneord For meg?",
+    377,
+    383,
+    2.73,
+    3
+   ]
+  ],
   "tx": "Hør på podcast. Lær grammatikk. Se på... Peppa Gris? Det finnes så mange tips, men hva er egentlig den beste måten å bli god i norsk på? For å få svar på dette møtte jeg godeste Ilys I 2023 ble Ilys kjent for å ha lært seg norsk opp til et native level-nivå, helt på egenhånd. Er det en som vet hva som funker og hva som ikke funker, så er det henne. Ilys, velkommen Takk. I dag skal vi rangere ting man kan gjøre for å bli bedre i norsk. Jeg leser opp teknikker, aktiviteter og så skal du fortelle oss om det er bra eller ikke. Ja. Vi skal bruke en tier-list der S er det aller beste. Og så går vi … Jeg synes det er bra fordi at... man hører mange ord, man prøver å... Kanskje man blir bedre på å forstå. Men jeg føler også at man blir veldig opptatt av historien, og kanskje litt mer opptatt av historien enn av de ordene som blir sagt føler jeg kanskje. Så hvis man bare ser på en serie uten å prøve å jobbe videre, så er det kanskje ikke det beste for å lære nye ord og sånn. -Fordi man er ikke så aktiv i læringa? - Ja Og så blir du... Du har veldig lyst til å vite hva som kommer til å skje, så da blir du på en måte mer opptatt av det som skjer, enn av ordene som blir brukt. Så … hjelpe. fordi da åpner de seg. Ja, det er sant. Da tør de å snakke med deg og du også tør å snakke med dem. Så alt blir bare bedre. Sånn er det i Norge. Alt blir bedre når du er full. Sånn er det ofte i Norge. Det å dra på byen kan altså være veldig nyttig, og derfor suser den inn på A øve på enkeltlyder, for eksempel Kj-lyden og vanskelige lyder. Ja, det tror jeg er veldig bra. Men jeg er kanskje ikke sånn... Det er ikke så gøy å bare øve på en lyd. Jeg synes det er bedre å gjøre det sånn.. når du for eksempel lærer en scene, da. fra en film. Da kan du liksom... øve med enkelte lyder … det er ganske dumt, fordi de snakker jo ikke. Jeg tipper at det her er D. Det er sikkert veldig gøy å snakke med hunden sin, Men hvis du kan snakke med deg selv, så tror jeg det er enda bedre, eller hva? Da kan vi ta den som neste, altså... gjøre opptak av at man snakker høyt. Ja, jeg tror det er både veldig bra og veldig deprimerende Hvis.. fordi det er alltid veldig skummelt å høre på sin egen stemme Selv når man bare snakker helt vanlig. Ikke på norsk en gang. Så jeg tror det kan være både fint Å liksom høre hvordan man faktisk høres ut. Og veldig trist hvis du ikke høres ut som du … å bli bedre. Gjøre det bevisst. Ja. jeg vet ikke. Hvilket språk tenker du på? Kommer an på. Kommer an på hva jeg har hørt om eller hørt rett før jeg tenker. Men nå tenker du ofte på norsk eller? Ja, hvis jeg... Jeg har perioder hvor jeg ser mye på youtube på fransk, da kan jeg tenke på fransk fordi jeg ser mye på... Jeg ser på mange videoer på fransk, men hvis jeg leser på norsk, så tenker jeg på norsk den timen etter at jeg har lest. Så det er litt sånn. Kommer litt an på. Jeg kan tenke på engelsk òg. Men ja, jeg tenker jo ofte på norsk, så jeg tror sånn... Jeg tror C Fordi det er ikke... … det er sånn... Jeg har aldri brukt dette ordet før, så jeg føler at jeg synes ikke det er spennende fordi det er for lett. Så da føler du deg litt dum. Og så er det noen ganger ord som er helt unødvendig å kunne. Så jeg føler at det å lese bok er veldig bra, men kanskje ikke veldig, veldig, veldig enkle barnebøker. Jeg vet at det hjelper sikkert mange men jeg syntes ikke det var så spennende. Så kanskje sånn.. D, da. Det å lese enkle barnebøker er et tips som du kanskje har hørt, og derfor er det kanskje litt overraskende at Ilys plasserer den på D. Den neste tingen har du garantert hørt. … da. Så sier de sånn “om” for å si “in a month”, “om en måned”. Og så når de skal snakke så er det “i en måned”. Så det er litt sånn... Deg er vanskelig å overføre fra den eksplisitte grammatikken til.. Ja, og noen ganger er det motsatt. Det er sånn at siden du har så mange setninger som du skal prøve å oversette som er samme som samlet i en oppgave, så blir det helt umulig fordi alt er der og det er utydelig og du vet ikke. Men hvis du hadde snakket så hadde du kanskje sagt riktig ord. Så jeg synes det er litt sånn... Ja, men hvordan skal man lære seg grammatikk da? Ja. ja, det er … til siste. Ja. og det er å skrive dagbok. Ja, jeg tror... jeg tror det er veldig bra fordi man kan. Det var det jeg gjorde. Det var en av de første tingene jeg gjorde når jeg lærte meg norsk, fordi jeg synes det er... man kan prøve å lære nye ord for å beskrive sitt eget liv, som er ord som man kommer til å trenge hvis man prøver å forklare hvem de er til en annen person eller hva de gjorde. Så jeg synes det er den beste måten å lære ting som du vet du kommer til å bruke Og det er også veldig spennende å tenke på hvordan dagen har vært, å tenke på hvordan man føler seg. Og ja, så jeg … Brunost eller gulost. Of. Gulost. Say Stram ferie eller tur til fjellet. Tur til fjellet. Kaffe eller te. TF Favoritt dialekt? Trondsk eller nordnorsk? Sånn ja, men Trond er skal jeg liksom. Ja, okay. Mmmmmmm. Okay, det er date night. Ut å spise heller. Rolig filmkveld. Rolig filmkveld okay. Mmmmm. Favoritt godteri de der kirsebærene. Ja, okay, skjønner du hva? Ja, jeg vet ikke det. Stå opp tidlig eller sove lenge. Begge deler. Det går. Legge seg. Ja, men jeg kan jo legge meg tidlig og stå tidlig. Ja og sånn ja. Okay. Du liker å sove lenge, men sove lenge ut på dagen eller stå opp … å lære grammatikk gjennom andre aktiviteter. Så det å gjøre grammatikkoppgaver går inn på en. Dette var. Dette var kanskje litt overraskende for meg. Dette var kanskje litt overraskende for meg i hvert fall. Det å lese bøker med en for voksne går helt opp til s. Ja, i stad plasserte vi grammatikk oppgaver på E. Det å lese om grammatikk går inn på det. Det er mange ting du kan gjøre for å bli bedre i norsk, men er det en person som vet hva som fungerer og hva som ikke fungerer, så er det denne dama her i lys. Velkommen. Takk. I dag skal vi rangere ting man kan gjøre for å bli bedre i norsk.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0653
+  "src": "cc"
  },
  "zAtmOCQIboQ": {
   "channel": "Norsk med Aria",
   "lang": "no",
-  "checked": "2026-11-11T22:42:02+00:00",
+  "checked": "2026-11-22T03:13:05+00:00",
   "title": "Lær norsk med en romantisk historie",
   "duration": 672,
   "published": "20260806",
@@ -469,6 +779,7 @@
   "pace": 133.0,
   "rare": 0.0136,
   "var": 0.7655,
+  "cl": 0.0508,
   "speech_s": 665.4,
   "tokens": 1475,
   "kw": [
@@ -585,11 +896,132 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "morgen",
+    "I morgen skal jeg spørre han om han vil",
+    274,
+    281,
+    5.33,
+    6
+   ],
+   [
+    "uker",
+    "ikke på to uker. I morges hadde jeg litt",
+    344,
+    352,
+    5.16,
+    6
+   ],
+   [
+    "tør",
+    "Kvinner, tør dere å spørre fremmede menn",
+    160,
+    167,
+    4.62,
+    4
+   ],
+   [
+    "koselig",
+    "var koselig å møte meg og prate med meg.",
+    118,
+    127,
+    4.49,
+    4
+   ],
+   [
+    "risikere",
+    "spørre ham og risikere rare bussturer",
+    154,
+    161,
+    4.18,
+    1
+   ],
+   [
+    "busser",
+    "flere busser. Nå går det en buss nesten",
+    542,
+    551,
+    4.17,
+    1
+   ],
+   [
+    "tålmodig",
+    "Vel vel, jeg får bare være tålmodig og",
+    312,
+    320,
+    3.49,
+    1
+   ],
+   [
+    "utålmodig",
+    "begynner å bli litt utålmodig nå, merker",
+    469,
+    477,
+    3.47,
+    1
+   ],
+   [
+    "turt",
+    "ikke turt det. Jeg tror jeg ville ha",
+    226,
+    233,
+    3.45,
+    1
+   ],
+   [
+    "titter",
+    "Jeg merker at jeg titter ekstra mye",
+    385,
+    391,
+    3.26,
+    1
+   ],
+   [
+    "hilste",
+    "sett på meg. Og selv om jeg hilste og",
+    20,
+    28,
+    3.23,
+    1
+   ],
+   [
+    "nikket",
+    "Vi smilte alltid til hverandre, nikket",
+    193,
+    204,
+    2.75,
+    1
+   ],
+   [
+    "tenårings",
+    "men jeg vet at han har en tenårings",
+    95,
+    104,
+    2.52,
+    1
+   ],
+   [
+    "pysete",
+    "men jeg er veldig pysete. Jeg synes du",
+    232,
+    239,
+    2.47,
+    1
+   ],
+   [
+    "giftering",
+    "ikke å spørre. Han har ingen giftering,",
+    91,
+    98,
+    2.31,
+    1
+   ]
+  ],
   "tx": "Hei alle sammen. Jeg møter ofte en mann på bussen på vei til jobb. Jeg la fort merke til han og jeg syntes han var flott. En dag han kom litt brått på smilte jeg og sa hei. Fram til nå hadde han aldri sett på meg. Og selv om jeg hilste og smilte, så reagerte han ikke så mye. Han bare ga meg et lite hei tilbake. Neste dag kom han litt sent inn på bussen, men han smilte stort og satte seg ned ved siden av meg og begynte å snakke. Vi snakket om vanlige ting. Hvem er du? Hva jobber du med? Jeg ser at du går av bussen her. Jobber du der? og så videre. Han hadde visst lagt merke til meg før, for … og prater om alt og ingenting. Nå kjenner jeg at jeg har lyst til å invitere ham med på kaffe. Jeg har lyst til å treffe ham og prate med ham uten at vi er på bussen. Jeg har lyst til å se hvem han er. Første inntrykket er så godt. Forrige gang jeg møtte ham turte jeg ikke å spørre. Han har ingen giftering, men jeg vet at han har en tenårings sønn. Han er ikke egentlig norsk. Jeg vet ikke hvor lenge han har bodd her. Kanskje det er vanlig å snakke med fremmede på bussen der han kommer fra. Det er ikke sikkert han vil møte meg ellers. Men i dag pratet vi mye og han sa det var koselig å møte … dag. Men hvis jeg spør og han sier ja, så ville det vært veldig koselig. Jeg er ikke vant til å møte menn utenfor det vanlige miljøet mitt. Nå føler jeg meg litt sjenert, selv om jeg ikke egentlig pleier å være det. Skal jeg tørre å spørre ham og risikere rare bussturer framover? Kvinner, tør dere å spørre fremmede menn om å møtes uten at dere vet om de egentlig liker dere? Og men hva synes dere? Bør jeg invitere ham på kaffe? Hey girl, go for it. Jeg synes du skal be han på kaffe. Jeg hadde også en mann som jeg møtte på av og til på bussen og t-banen og så videre. Vi smilte alltid til … date, smilte til hverandre, men ikke noe mer. Dette er flere år siden. Angrer veldig på at jeg aldri turte å gå bort til han. Så ta sjansen neste gang du ser ham. Jeg hadde ikke turt det. Jeg tror jeg ville ha blitt litt bedre kjent med ham først, men jeg er veldig pysete. Jeg synes du er tøff hvis du gjør det. Det blir spennende å høre hvordan dette går. Ja. Hva har du å tape på? Det egentlig bare det at eh hvis han sier nei så blir det veldig rart å møtes. Så det er kanskje ikke så farlig. Og uansett, hvis han svarer nei, så reiser han uansett snart bort. Det sa han til meg. Jeg kan også … kaffe med meg. Hei alle sammen. I går skrev jeg at jeg skulle invitere mannen på bussen på en kaffe, men i dag var han ikke på bussen. Jeg som var så klar. Jeg er så feig som ikke gjorde det i går. Og nå husker jeg ikke om han sa at han skulle reise nå eller senere. Jeg vet at han snart tar ferie, og da ser jeg han ikke på lenge. Vel vel, jeg får bare være tålmodig og vente til neste gang jeg ser ham. Takk for at dere pusher meg. Å, det er så typisk. Håper han kommer på bussen i morgen. Du må spørre ham. Det er så fint når damer tar initiativet de også. Han var ikke der i dag heller. Jeg … Eller gjør det meg til Psych? Dette kan bli interessante to uker. He he. Jeg har lest hele tråden. Dette er så romantisk. Det kunne nesten ha vært en film. Dette er så spennende. Ah, jeg klarer ikke å vente i to uker til. Det er meg igjen. Jeg har heldigvis ikke ringt der han jobber. Jeg tror det ville ha blitt litt rart. Jeg merker at jeg titter ekstra mye etter ham hver morgen nå. Ja, det er litt romantisk, er det ikke? Og i romantiske filmer får de alltid hverandre. Så jeg synes absolutt vi bør få til en kaffekopp. Og tusen takk for at dere støtter meg. Jeg tror ikke jeg hadde klart … går. Nå har det gått en uke og jeg krysser fingrene for at jeg ser ham igjen neste uke. Jeg håper jeg tør. Jeg håper han vil og jeg håper han ikke er opptatt. Det hadde vært så koselig å bli kjent med ham og finne ut hvem han er. Du får ha masse lykke til. En kaffekopp er uansett ganske uskyldig, så dette skal du klare. Det er kult når damer tør å spørre. Jeg var litt spent i morges, men jeg så ham ikke på bussen. Krysser fingrene for i morgen. Flere damer burde tørre å spørre menn om å dra på date. Han var ikke på bussen i dag heller. Jeg begynner å bli litt utålmodig nå, merker jeg. Ja, … ærlig innrømme at jeg synes det hadde vært deilig om han hadde kommet meg i forkjøpet. Ikke fordi jeg ikke skal klare å gjøre det, men fordi det ville vist at han også vil. Jeg synes ikke norske menn er veldig mye flinkere enn norske kvinner når det gjelder å ta initiativ. Og jeg tror begge kjønn ønsker seg mer av det. Drit de om man er mann eller kvinne. Vil man bli bedre kjent med noen, så gjør noe med det. Bare spør. Det verste som kan skje er egentlig bare at man gjør noen glad. Ja. Ja. Håper han kommer på bussen i løpet av uka. Hvordan gikk det? Kom han på bussen? Jeg er så spent. … Men jeg fortsetter å krysse fingrene og jeg håper jeg ser ham i løpet av uka. Jeg har tenkt så mye på dette nå at jeg begynner å få et litt avslappet forhold til det. Men jeg er litt spent på hvordan det blir å se ham igjen. Jeg gleder meg uansett om jeg tør første gangen eller ikke. Jeg følger fremdeles med. Håper du kommer på rett buss en gang. Men da må du ta sjansen å spørre selv om det kan virke skummelt. Det kan ta lang tid før du treffer han igjen. Ja, jeg syker meg opp hver morgen jeg. Men nå har jeg ikke sett ham på tre uker. Savner å se ham. Håper vi kommer på samme buss snart. … så mye. Det var ikke naturlig å be ham ut på kaffedate. Han sa at han ikke hadde vært på ferie, men at han hadde jobbet mer enn vanlig. Han hadde tatt en mye tidligere buss. Derfor hadde vi ikke sett hverandre de siste ukene. Han fortalte meg at han reiser på en to uker lang ferie på lørdag som kommer. Vi fikk altså ikke snakket så mye i dag, men helt slutt spurte han: \"Tar du samme bussen i morgen også?\" Og jeg svarte: \"Jeg skal prøve det.\" Og da sa han, \"Da skal jeg også ta denne bussen med et stort smil. Så da skal jeg spørre ham om han vil ta en kaffe med meg. Tror dere jeg klarer det?",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0512
+  "src": "auto"
  },
  "6LxhZJ1qBck": {
   "channel": "NRK",
@@ -605,7 +1037,7 @@
  "1GQpuhJebnM": {
   "channel": "Ett Lite Bildeglimt",
   "lang": "no",
-  "checked": "2026-11-11T22:45:54+00:00",
+  "checked": "2026-11-22T03:29:58+00:00",
   "title": "#29: Å møte veggen (Norwegian Idioms)",
   "duration": 593,
   "published": "20231117",
@@ -614,6 +1046,7 @@
   "pace": 157.7,
   "rare": 0.0295,
   "var": 0.677,
+  "cl": 0.0623,
   "speech_s": 580.2,
   "tokens": 1525,
   "kw": [
@@ -762,16 +1195,113 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "gjerne",
+    "Ja, og da snakker vi gjerne om for en person som møter veggen.",
+    97,
+    103,
+    5.57,
+    7
+   ],
+   [
+    "jobb",
+    "Altså profesjonelt at det er en jobb du får betalt for.",
+    153,
+    157,
+    5.56,
+    6
+   ],
+   [
+    "situasjoner",
+    "så blir det masse urettferdige situasjoner.",
+    474,
+    477,
+    4.62,
+    2
+   ],
+   [
+    "treffe",
+    "og treffe mange nye mennesker hele tiden, det var veldig, veldig definerende.",
+    504,
+    509,
+    4.6,
+    2
+   ],
+   [
+    "mentalt",
+    "Og kanskje mental kapasitet, men det er ofte det er mentalt.",
+    82,
+    90,
+    4.04,
+    2
+   ],
+   [
+    "profesjonelt",
+    "Altså profesjonelt at det er en jobb du får betalt for.",
+    153,
+    157,
+    3.8,
+    2
+   ],
+   [
+    "utbrent",
+    "Da er de utbrent rett og slett.",
+    229,
+    232,
+    3.27,
+    2
+   ],
+   [
+    "kollisjon",
+    "Du møter veggen i fysisk forstand at det er en kollisjon.",
+    51,
+    56,
+    3.58,
+    1
+   ],
+   [
+    "atletisk",
+    "som har det som jobb og å være atletisk og at de møter veggen.",
+    215,
+    223,
+    2.82,
+    1
+   ],
+   [
+    "introvert",
+    "Jeg er ekstremt introvert og jeg blir fryktelig sliten av å treffe masse folk.",
+    508,
+    515,
+    2.7,
+    1
+   ],
+   [
+    "definerende",
+    "og treffe mange nye mennesker hele tiden, det var veldig, veldig definerende.",
+    504,
+    509,
+    2.67,
+    1
+   ],
+   [
+    "livssituasjonen",
+    "Og det er ikke bare den dagen, men det er hele livssituasjonen over lengre tid.",
+    138,
+    148,
+    2.63,
+    1
+   ]
+  ],
   "tx": "Har du hørt uttrykket å møte veggen? Ja, det er ganske vanlig der. Det er veldig vanlig uttrykk, og det er et vann. Det var veldig vanlig å at det skjer at det skjer. Ja. Her har vi uttrykket å møte. Man kan møte nå en person man kan avtale å møtes på en kafé. Det snakker vi om en annen gang, og en vegg i en vegg kan man hektar vindu for å se ut. Eller dør for å gå inn og ut? Men veggen. Det er den som som gjør at man får et rom. Så å møte veggen. Man kan tro at det å møte veggen er at man holder på å gå. Og så krasjer man inn i veggen. Ja, ja. For det tredje treffer du veggen. Du møter … en situasjon som er veldig vanskelig. Men man må finne en vei for å komme ut av den situasjonen. Det er heller ikke det, nei. Nei, det er ikke å møte veggen. Så hva er å møte veggen? Så møte veggen er at man har ikke energien som man trenger. Og kanskje mental kapasitet, men det er ofte det er mentalt. Men det kan vises fysisk som møter veggen at man ikke har nok energi til å takle livet akkurat da. Ja, og da snakker vi gjerne om for en person som møter veggen. Det er ikke typisk at man da prøver å ta livet av seg, at man prøver å ta selvmord fordi man ikke takler livet. Det er ikke den … om det i gjerne profesjonell forstand, at man har møtt veggen, man man har bare ikke kapasitet til å gjøre den jobben som man har. Og det er ikke bare den dagen, men det er hele livssituasjonen over lengre tid. Så det kan vare i ukesvis eller månedsvis eller åresvis. Ja, og det trenger ikke å være en proff. Altså profesjonelt at det er en jobb du får betalt for. Kanskje det er en hjemmeværende mor eller far som er hjemme med barna og alt det. Alt blir bare for vanskelig, det er for slitsomt og og de har ikke noe mer å gå på. Og det og så kan det være Det trenger ikke å bare være … jeg barn, og så har jeg. Hjemme og så har jeg andre verv. Kanskje er en trener eller noe annet. Det er så mye. Så det er helhetsbildet som gjør at man møter veggen? Ja. Så og så. Selv om ikke man bruker det uttrykket å møte veggen hvis en person løper maraton for eksempel, så kan du hektar en person som har det som jobb og å være atletisk og at de møter veggen. Og da er det sånn at ikke i en maraton, men generelt i livet så så har ikke de. Da er de utbrent rett og slett. Ja, det er ikke ja, ikke sant. Det er utbrenthet. Så de har ikke det? Ja, emosjonelle, mentale, fysiske, ja, energien … møtt veggen. Ja. Ja, heldigvis. Så hvis man har en jobb i Norge, så er det det som er veldig flott at man kan bli sykmeldt. Man kan bli 100 procent sykmeldt eller delvis sykmeldt, og da skal man liksom kunne hektar tid til å få det som er at når du er utbrent så. Og hvis du har familie og andre ting, så har du ikke overskudd. Kanskje du klarer såvidt jobben, og så må du bare ligge i et mørkt rom resten av dagen, så du får ikke vært mor eller far, og du får ikke gjort alle de andre tingene som trengs, så du kan bli sykmeldt sånn at du har overskudd til å være. Mor og far. Så ja, Norge … og klarer å kanskje avslutte noen av disse prosjektene i livet som som gjør at ting blir vanskelig, Forenkle litt, Slutte å være trener hvis det var det som det var med på det. Kanskje justere på jobbsituasjonen som man har færre oppgaver og kan fokusere mer. Ja. For jeg tror at ofte så det å. Hvis det å være trener er noe som gir deg livsgnist, at det er viktig for deg, så så er det viktig å holde på den. Men kanskje det er det med jobben at man har jobbet for mye? Eller kanskje man er sekretær i et eller annet forbund? Så har det bare blitt slitsomt og folk krangler. Og så har du ikke … jeg har lyst til å fortsette med. Så kan du kutte de ut og så finne ut hvordan skal du balansere livet? Få tilbake energien og fokuset. Og så ja, kanskje endre litt på jobbsituasjonen og noen av rollene du har på jobben og så videre, og komme tilbake i jobb. Fordi du må gjøre noe. Du må gjøre. Noe. Når du kommer til veggen, så må du gjøre endringer i hverdagen. Når du begynner å komme deg igjen og har energi til å tenke på det. Ja, ja. Jeg møtte veggen, og da bodde jeg ikke i Norge nei. Så jeg hadde en jobb hvor jeg jobba fryktelig mye, mange timer og jeg hadde et kjempestort prosjekt som … å møte veggen fordi. Du jobber mye og mange timer og hardt. Og negativt. Du kan trives veldig med det du gjør, men fortsatt møter veggen. Ja. Så det som skjedde for min del var at det prosjektet jeg hadde utenfor jobben, det var kaotisk og det var kjempemange involvert og det var mye krangling og kiving, og folk var bare vanskelige å håndtere og det ble mye drama og det ble fryktelig slitsomt. Og på jobben så var det masse politikk. Det var masse sånn derre at nå altså folk tråkker på hverandre for å oppnå ting, og så blir det masse urettferdige situasjoner. Og så det ble ikke. Det ble … det likte jeg egentlig å holde holde presentasjoner. Jeg likte veldig godt å forberede de og å holde de, og det var det. Jeg fikk masse ut av det, men det å reise og treffe mange nye mennesker hele tiden, det var veldig, veldig definerende. Jeg er ekstremt introvert og jeg blir fryktelig sliten av å treffe masse folk. Og til slutt så bare takler jeg det ikke lenger. Og jeg ble ikke sykmeldt. Jeg fikk ikke noe sånn derre sykemeldt med lønn. Jeg sluttet i jobben og tok mer enn ett år fri uten å jobbe, og i det året så hadde jeg ikke lyst til å gjøre noen ting. Jeg var jo det eneste jeg gjør, … som noe kreativt å gjøre, som ikke hadde noe politikk og ikke noe drama eller noen ting. Bare en liten koselig ting å gjøre. Ja, for det å lære et språk, det har det vært interessert i lenge. Ja, det liker jeg veldig godt å holde på med. Så det å møte veggen, det utbrenthet. Og vi har jo sett etter covid at det er mange som møter veggen, og det er vanskelig å vite liksom. Lang covid er veldig lik utbrenthet, så man vet ikke liksom hva man har. Nei, men man har møtt veggen. Ja, man har møtt veggen, og pandemien var nok med på å skape situasjoner for folk hvor det ble lettere å møte veggen.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0614
+  "src": "cc"
  },
  "V83ItsckKhI": {
   "channel": "Simply Norsk",
   "lang": "no",
-  "checked": "2026-11-11T22:46:14+00:00",
+  "checked": "2026-11-22T03:33:09+00:00",
   "title": "Autumn in Norway 🇳🇴 | Norwegian Vlog for Beginners (A1–B1) | Dual Subtitles",
   "duration": 2175,
   "published": "20261028",
@@ -780,6 +1310,7 @@
   "pace": 120.7,
   "rare": 0.0389,
   "var": 0.7725,
+  "cl": 0.0535,
   "speech_s": 1944.3,
   "tokens": 3910,
   "kw": [
@@ -920,16 +1451,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "akkurat",
+    "ikke mye diesel på tanken akkurat nå.",
+    133,
+    138,
+    5.72,
+    9
+   ],
+   [
+    "kommet",
+    "før jeg er kommet helt hjem. Jeg har",
+    131,
+    138,
+    5.33,
+    9
+   ],
+   [
+    "klage",
+    "Selvfølgelig man kan klage på at isen er",
+    339,
+    345,
+    4.58,
+    5
+   ],
+   [
+    "snø",
+    "snø på toppen av fjellet allerede selv",
+    635,
+    642,
+    4.58,
+    5
+   ],
+   [
+    "bratt",
+    "å bli bratt. Blir det også fort veldig",
+    1154,
+    1160,
+    3.99,
+    3
+   ],
+   [
+    "please",
+    "vi se. Please, please, please vær snill.",
+    211,
+    217,
+    3.9,
+    3
+   ],
+   [
+    "sim",
+    "Sim, sala. Bim. Smart.",
+    1371,
+    1381,
+    3.53,
+    1
+   ],
+   [
+    "reparasjoner",
+    "noe veldig dyre reparasjoner på den.",
+    95,
+    101,
+    3.52,
+    1
+   ],
+   [
+    "agendaen",
+    "er bra forel 1 som står på agendaen.",
+    968,
+    976,
+    3.51,
+    1
+   ],
+   [
+    "videoene",
+    "er ved å se videoene mine om igjen og om",
+    318,
+    325,
+    3.51,
+    1
+   ],
+   [
+    "mysterium",
+    "Og enn så lenge så er det et mysterium",
+    119,
+    125,
+    3.5,
+    1
+   ],
+   [
+    "årstid",
+    "Høsten er virkelig en nydelig årstid",
+    335,
+    340,
+    2.98,
+    2
+   ],
+   [
+    "demontert",
+    "demontert dørra og kommet til på",
+    1936,
+    1942,
+    2.91,
+    2
+   ]
+  ],
   "tx": "I dag er det en veldig veldig vakker dag. Der stikker ferger som jeg jobber på. Og det betyr jo selvfølgelig at jeg har vært på jobb i to uker. Og nå skal jeg ha fire uker med fri. Hvilken fantastisk dag å gå på fri på, det må man si. Vi har veldig god kaffe på ferg. Så jeg nyter en kopp kaffe, den siste kopp kaffe fra Ferg før jeg stikker hjem igjen. Her har vi bilen min. Min fantastiske gamle bil. Min gamle Volkswagen Passat fra 2003 som har kjent meg trofast. I sv år er det vel nå. Sv år jeg har hatt bilen. Det er jo helt rått. Når jeg kjøpte den bilen for sviden, så tenkte jeg at dersom … gjennom den lange lange lørdalstunnelen. Ja, jeg håper det ikke er så alt for dyrt i dag. Jeg håper dieselprisene er litt snill i dag. Det er tross alt søndag. Krysser fingrene. Skal vi se. Skal vi se. Skal vi se. Skal vi se. Please, please, please vær snill. Hm. Det der kan jeg jo kanskje leve med. 27 kroner for en liter diesel. Det får jeg vel nesten bare leve med. Prisen var 32 kroner per liter diesel for to uker siden rett før jeg dro på jobb. Så 27 kroner, det får vi vel nesten bare akseptere. Opp med tanklokket. betale. Velge riktig type drivstoff. Det gjør vondt å se hvor fort prisen … må jeg bare oppføre meg i 20 minutter fra nå av. Men det er kanskje like greit. Dersom jeg kjører fort så bruker jeg bare veldig mye diesel. Og bruker jeg veldig mye diesel så blir jeg fattig. Og hvis jeg blir fattig, da kan ikke jeg kjøpe ski. Og hvis man ikke kan kjøpe nye ski, hva er da meningen med livet? I tunnelen her så har de seksjoner som den rett foran oss hvor lyset forandrer seg. Så nå går vi fra en mørk tunnel til å plutselig befinne oss i et veldig fancy blått og fargerikt rom. Og så var vi plutselig i en mørk tunnel igjen. Hensikt med det er å forhindre at du skal sovne. Er … Det her er nemlig muligens siste gang jeg kjører den her bilen hjem igjen fra jobb. I morgen så skal bilen på EU-kontroll, så da vil det bli bestemt om den får lov til å leve to år til eller om det er på tide at den pensjonerer seg. Jeg håper virkelig at den får to år til. Jeg har veldig lite lyst til å kjøpe ny bil akkurat nå, men jeg har fått mye mer ut av denne bilen enn det som jeg opprinnelig hadde regnet med. Så dersom den ikke blir godkjent i morgen på økontroll, så er det rett og slett sånn livet er. Men hadde den fått to år til, det hadde vært veldig, veldig fint det altså. Nei, … hjem. Skikkelig fin høstdag da, om ikke annet. Fint å sykle i dag, men det var litt surt, litt kaldt, men men det er virkelig begynt å komme mye snø på fjellene allerede. Jeg tror det lov godt for en lang, lang og fin vintersesong. Jeg håper det i hvert fall. Hangurstoppen ser fin ut i dag da. Kanskje man skulle tatt seg en tur opp dit. Først må jeg ha litt mat i magen. Da trenger vi avokado. Vi trenger tunfisk og vi trenger et brød. Det går for det. Se på det her. Nå lager vi oss en skikkelig kraftfrokost. Det her er midt i blinken mens man står og gruer seg til å få høre resultatet om … en del gamle historiske hus. Det er nok noe som er tatt vare på fra gamle dager. Jeg får ta en tur opp hit en dag. Se hva som finnes her. Lage en egen episode om det. Men nå så skal jeg fortsette opp her i retning hangusstoppen. Skulle gjerne gått helt opp til Løna Horgi, men med tanke på at det er begynt å snø der oppe og vi nå befinner oss mellom høst og vinter, så er det nok best å gi deg litt tid. Venter til det har kommet litt mer snø der oppe, sånn at man kan gå opp dit på ski. Før jeg fortsetter oppover så tenker jeg at jeg tar av med jakk. Nå begynner det å bli bratt. Blir det også … gå ned og se på det. Tror det kan gå greit. Jeg tror det skal gå fint. Hm. Vanskelig å si. Jeg tror det er best å vente litt. Se om vinden eventuelt forandrer seg litt. Og siden vi nå står helt i ro, så tar det nok ikke lang tid før vi blir kald igjen. Så da må man egentlig bare få på seg litt klær før man blir kald. Husker dere den her smarte stilen? Sim, sala. Bim. Smart. Og med det så holder man kulen ute. Må selvfølgelig ha en liten jakke også. Begynter å regne igjen. Da er jo den saken. Biff. Da må vi bare vente å se. Nei, er nok best å bare gi opp. Det her viste seg å være faktisk … ned. Men det er gøyere å gjøre det på den måten. Kom, kom, kom. Her har vi den flotteste utsiktet på vas. Elektrisk sau på landing. >> >> Kameralin sier jo kis blaut. Ja ja samme det. Man skal egentlig ikke fly i regn, men når man bor på Vestlandet så skjer det av og til. Det er ikke farlig, er bare litt unødvendig. Men ja, jeg ble litt overrasket over den regnskuren der, så den var ikke så kraftig. Så det var derfor den overrasket meg og. Men men nå er jeg nede igjen, så da er det vel egentlig bare å grue seg til versteinge. Nå har jeg faktisk fått SMS i fra verstøyet. Og her står det … for så lenge bilen startet å virket og ta meg dit jeg skal, så har jeg vært fornøyd. Eh, bruker aldri bakdøren her uansett. I tillegg så ville de at jeg skulle bytte hengerkontakten. Og det og er jo noe som jeg tenker er unødvendig å bruke mye penger på. For jeg kjører jo aldri med tilhenger uansett. Så det som jeg har gjort nå, det er at jeg har demontert dørra og kommet til på baksiden her. Og så har jeg rett og slett demontert hele dørlåsen. Så nå går vi fra at bakdørra alltid var låst til at den alltid står åpen. Så kanskje ikke en veldig god løsning, men nå skal jeg bare bruke bilen … og tilbake, så jeg kjenner at jeg har behov for å koble av litt. Dessuten så er været her ganske deprimerende akkurat nå. Så jeg trenger nok å dra til en plass hvor det være litt bedre og hvor det er mulig å tenke på noe annet enn den der bilen. Sånn. Det var bedre. Mye bedre. Her kan man koble av litt og glemme det dårlige været og alt man har. og skulle ordne hjemme. Her kan man bare nyte nyte sola og nyte livet. Så får vi ta alt det andre en annen gang. Vi får se hvordan det går med bilen. Men akkurat nå skal vi bare nyte ferien. Så takk for at du har sett på. Så ses vi snart. Ha det bra.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0476
+  "src": "auto"
  },
  "gXLdoTwk6WI": {
   "channel": "Norwegian Teacher - Karin",
   "lang": "no",
-  "checked": "2026-11-11T22:47:06+00:00",
+  "checked": "2026-11-22T03:36:39+00:00",
   "title": "Unique Norwegian Words - FLINK (på norsk!)",
   "duration": 227,
   "published": "20251023",
@@ -938,6 +1574,7 @@
   "pace": 94.5,
   "rare": 0.0254,
   "var": 0.7342,
+  "cl": 0.0451,
   "speech_s": 225.3,
   "tokens": 355,
   "kw": [
@@ -1006,16 +1643,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bruker",
+    "dette er et ord nordmenn bruker mye i flere situasjoner.",
+    21,
+    29,
+    5.65,
+    3
+   ],
+   [
+    "gjorde",
+    "betyr det både at du gjorde det bra og at du gjorde det på en ordentlig måte.",
+    191,
+    197,
+    5.52,
+    3
+   ],
+   [
+    "oppføre",
+    "Samtidig betyr det å oppføre seg bra. I Norge har det også en liten kulturell",
+    37,
+    46,
+    4.37,
+    2
+   ],
+   [
+    "dyktig",
+    "ordet betyr å være dyktig og å være god til noe.",
+    28,
+    38,
+    4.34,
+    2
+   ],
+   [
+    "faglige",
+    "oppføre deg bra. Vi bruker ordet flink til både faglige ting, men også det å",
+    168,
+    179,
+    4.09,
+    1
+   ],
+   [
+    "great",
+    "engelsk oversatt. You did great, good job. Du er flink. Det kan også brukes",
+    109,
+    117,
+    4.02,
+    1
+   ],
+   [
+    "setninger",
+    "bruke det i noen setninger. Hun er flink til å lage mat.",
+    73,
+    82,
+    4.02,
+    1
+   ],
+   [
+    "plikter",
+    "gjøre plikter, oppførsel, å være arbeidssom. Så hvis noen sier du er flink, så",
+    178,
+    192,
+    3.98,
+    1
+   ],
+   [
+    "oppsummert",
+    "sånn, oppsummert, flink betyr ikke bare smart, men det betyr også du prøvde, du gjorde ditt",
+    196,
+    211,
+    3.97,
+    1
+   ],
+   [
+    "kulturell",
+    "Samtidig betyr det å oppføre seg bra. I Norge har det også en liten kulturell",
+    37,
+    46,
+    3.94,
+    1
+   ],
+   [
+    "bean",
+    "Hallo fra meg og Bjørnen til Mr. Bean",
+    0,
+    7,
+    3.07,
+    1
+   ],
+   [
+    "pliktoppfyllende",
+    "dyktig, men også det å gjøre sitt beste å være pliktoppfyllende",
+    52,
+    60,
+    2.95,
+    1
+   ],
+   [
+    "oppfør",
+    "Vær flink nå. Det betyr på en måte oppfør deg",
+    159,
+    169,
+    2.57,
+    1
+   ],
+   [
+    "cooking",
+    "Her bruker man jo ordet god til noe eh skilled at cooking. Så hun er",
+    81,
+    91,
+    2.54,
+    1
+   ]
+  ],
   "tx": "Hallo fra meg og Bjørnen til Mr. Bean i dag skal jeg gå gjennom en et ord som jeg fikk foreslått av en følger som har lært norsk med meg på YouTube. Ordet er flink. dette er et ord nordmenn bruker mye i flere situasjoner. ordet betyr å være dyktig og å være god til noe. Samtidig betyr det å oppføre seg bra. I Norge har det også en liten kulturell betydning hvor det ikke bare er å være smart eller dyktig, men også det å gjøre sitt beste å være pliktoppfyllende og ordentlig. For å ha noen engelske eksempler så er det kan man bruke clever, smart, good, men det det sier ikke nok, så la oss bruke det i noen setninger. Hun er flink til å lage mat. Her bruker man jo ordet god til noe eh skilled at cooking. Så hun er flink på å gjøre noe. Du er flink. På norsk betyr det eh at noen gjør noe som er bra. engelsk oversatt. You did great, good job. Du er flink. Det kan også brukes for eksempel om et barn som rydder rommet sitt. Han er flink på skolen. Betyr jo bare at han gjør det bra på skolen. at han jobber hardt, han gjør leksene sine,, han kommer når han skal, han rekker opp hånda. Det betyr ikke bare at han er veldig smart og får til alle fag, men at han får til det å være på skolen og det skole forventer av noen. Siste eksempel. Vær flink nå. Det betyr på en måte oppfør deg oppføre deg bra. Vi bruker ordet flink til både faglige ting, men også det å gjøre plikter, oppførsel, å være arbeidssom. Så hvis noen sier du er flink, så betyr det både at du gjorde det bra og at du gjorde det på en ordentlig måte. sånn, oppsummert, flink betyr ikke bare smart, men det betyr også du prøvde, du gjorde ditt beste, og det la vi merke til. Prøv å lage en setning med ordet flink. Liker du ordet flink? Det var Maggie sitt favorittord. Jeg liker det. Jeg liker ordet flink.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0451
+  "src": "cc"
  },
  "QiSgdJfRRIo": {
   "channel": "June Gabrielsen",
   "lang": "no",
-  "checked": "2026-11-11T22:49:13+00:00",
+  "checked": "2026-11-22T03:45:34+00:00",
   "title": "Tur i landlinge vinteromgivelser og et nytt år 🤍",
   "duration": 423,
   "published": "20250216",
@@ -1024,6 +1774,7 @@
   "pace": 146.5,
   "rare": 0.0586,
   "var": 0.7703,
+  "cl": 0.0364,
   "speech_s": 405.1,
   "tokens": 989,
   "kw": [
@@ -1140,11 +1891,140 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "lille",
+    "lille jenta mi ",
+    63,
+    70,
+    5.11,
+    5
+   ],
+   [
+    "sånn",
+    "sånn der koseklær litt varmere koseklær",
+    295,
+    300,
+    5.6,
+    4
+   ],
+   [
+    "uka",
+    "ting til uka begynner synes det er litt",
+    317,
+    322,
+    4.71,
+    3
+   ],
+   [
+    "turen",
+    "hvert fall turen med å si hei til",
+    110,
+    116,
+    4.62,
+    3
+   ],
+   [
+    "middagen",
+    "vi skal ikke forstyrre de middagen Kos",
+    180,
+    185,
+    3.86,
+    2
+   ],
+   [
+    "prosjektene",
+    "på de prosjektene Jeg har begynt på Jeg",
+    330,
+    334,
+    3.78,
+    2
+   ],
+   [
+    "iskald",
+    "lite granne og den vinden er iskald så",
+    191,
+    196,
+    3.47,
+    1
+   ],
+   [
+    "lillesøsteren",
+    "stallen til lillesøsteren mi hvor hun",
+    103,
+    107,
+    3.29,
+    1
+   ],
+   [
+    "bitte",
+    "ordentlig votter og legge kamera bitte",
+    195,
+    201,
+    3.28,
+    1
+   ],
+   [
+    "jun",
+    "Hæ Hva er det du gjør men jun fryste",
+    65,
+    72,
+    3.28,
+    1
+   ],
+   [
+    "barbert",
+    "barbert Wow da er fuglemat på",
+    48,
+    58,
+    3.26,
+    1
+   ],
+   [
+    "søndagene",
+    "søndagene på det og bare få en litt sånn",
+    333,
+    338,
+    2.92,
+    1
+   ],
+   [
+    "bløtt",
+    "stivt kanje ble bløtt men Turen er",
+    275,
+    283,
+    2.89,
+    1
+   ],
+   [
+    "window",
+    "window og det er en bokserie med to",
+    378,
+    384,
+    2.74,
+    1
+   ],
+   [
+    "heri",
+    "så heri Shakira var det Lise som endelig",
+    220,
+    230,
+    2.66,
+    1
+   ],
+   [
+    "juge",
+    "juge Ja du og si ",
+    71,
+    81,
+    2.56,
+    1
+   ]
+  ],
   "tx": "Å så flink hest Du er så flink Herregud Kom da Ja hun kommer Skal vi gå og henge opp fuglemat så henger vi opp lite grann fuglemat sammen tenkte at jeg skulle henge opp fuglematen som tante og onkel og de har ordnet som jeg vant på gavelen på tide å få hengt opp det Oi Oi det var helt gærn jo helt sprø var det rart å være ute katen kan ikke være så lenge ute da siden du er barbert Wow da er fuglemat på plass å Var det godt å være ute katt igjen var det litt godt å være ute godt igjen lille jenta mi Hæ Hva er det du gjør men jun fryste litt i her Jeg skal ikke juge Ja du og si jeg God morgen alle sammen og ikke minst godt nytt år da har det blitt 20225 og det er på tide å ta fram kameraet litt igjen så dere skal få lov å bli med meg ut i dag Det er så sinnsykt fint vær Så strålende sol og skikkelig blå og fin himmel så jeg har beveget meg til stallen til lillesøsteren mi hvor hun har hesten sin og skal gå en tur i området her sammen med en god venn så det blir veldig koselig Men vi starter i hvert fall turen med å si hei til Shakira hesten til Elise Det er jo så fint vinterlandskap nå det kom jo så mye snø i begynnelsen av januar Se på dette Se så kel der så herlig å komme ut blant masse jord og trær og natur og ikke minst hester så fint herregud det var så pent Wow Jeg vet ikke om dere klarer å se det ordentlig men det var skikkelig akkurat som det er sånne krystaller i trærne Se så fint det ser ut Herregud helt nydelig hei Shakira Hei jenta Hallo og hei på deg og jeg husker dessverre ikke hvem du er men du var jo så søt å Hallo lille venn å Koser du deg Elise kommer snart da får du sikkert mer å kose deg med Herregud ser det gjeret og helt ned for oss ut det der støt gjeret skul vi si hva heter det strømgjerde godt du h på deg nok klær i hvert fall for det er kaldt Fy søren se på det fine landskapet Herregud vi skal ikke forstyrre de middagen Kos deg videre da fortsetter hvert fall turen bortover i det nydelige landskapet som er her Jeg bestemt meg for å pakke meg godt inn i heta fordi det blåser lite granne og den vinden er iskald så tror jeg jeg skal ta på meg litt ordentlig votter og legge kamera bitte litt bort og bare kose oss litt på en tur fordi det er så fint ute så heri Shakira var det Lise som endelig kom så koselig skeg Ja det er jeg og hvis det er en trø se her da se på håret mitt H er så flink søte Shakira uh den er så søt var så rar Yes Å så flink hest Du er så flink Herregud Hun er så søt du er så søt hun bare Hæ Ikke noe Mega TR å ha det Shakira se deg senere søte lille venn by Lise sees hjemme h Er sakir Å du er så søt å ha det lille venn bye bye bye bye herregud se på håret mitt Det er helt stivt kanje ble bløtt men Turen er ferdig Vi kjører hjem og rett i dusjen tror jeg fordi BR Det var kaldt men så fint altså koselig å si hei til sakir da har jeg vært i dusjen fått vasket håret og fått i meg varmen igjen for det var sinnsykt kaldt og bare tatt på meg litt sånn der koseklær litt varmere koseklær denne gangen siden jeg ble så frysen Så nå skal håret bare få lov å lufttørke skal ikke gidde å bry meg noe om det det er jo ikke noe problem jeg skal bare inn resten av dagen for å si det forsiktig Så nå tenker jeg rett og slett at jeg skal bare gi Lucy middagen sin og så skal jeg sette meg ned og begynne med to-do listen min fordi det er tross alt søndag så jeg liker å bare få gjort unna ting til uka begynner synes det er litt sånn deilig spesielt nå som har vært ute en tur først Nyt lite grann frisk luft Hils litt på Shakira veldig hyggelig med sånne søndagsaktivitet så skal jeg sette meg ned med den lille min og fortsette på de prosjektene Jeg har begynt på Jeg synes det er veldig deilig å kunne bruke søndagene på det og bare få en litt sånn avslutning på uka og en god start på den neste Så nå blir det deilig å bare slappe av i koseklær ikke gjø noe spesielt men bare slå seg ned ved pulten og fortsette på prosjektene mine Ja er du Sul som katt så Sul som katt Herregud du har hvert på deg selv igjen Hæ Det er så søt Hvis noen skulle lure så er dette den boka Jeg tenker at jeg skal begynne å lese på nå i januar Det er one Dark window og det er en bokserie med to bøker som er en slags sånn romany det også sån som jeg er veldig glad i å lese Jeg har jo ikke begynt på den enda Men jeg tenker at jeg kanskje skal begynne på i kveld eller til uka som kommer jeg er nødt til å fortsette å være flink å lese minst en bok i måneden er målet i år også i fjor klarte jeg jo mye mer enn det Så da Er dere oppdatert på det også blir spennende Oh Var det spennende love I love you I love love you I love you I",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0364
+  "src": "auto"
  },
  "SlgKtxS93CA": {
   "channel": "Comprehensible Norwegian",
@@ -18454,7 +19334,7 @@
  "duMeiPp2vkE": {
   "channel": "Norwegian Input",
   "lang": "no",
-  "checked": "2026-11-15T22:24:22+00:00",
+  "checked": "2026-11-22T03:05:39+00:00",
   "title": "Is Christmas starting too early in Norway? | Beginner Norwegian",
   "duration": 487,
   "published": "20261114",
@@ -18463,6 +19343,7 @@
   "pace": 107.0,
   "rare": 0.0926,
   "var": 0.7236,
+  "cl": 0.0574,
   "speech_s": 478.5,
   "tokens": 853,
   "kw": [
@@ -18627,16 +19508,97 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "tidligere",
+    "personer pynter tidligere og tidligere til jul.",
+    39,
+    49,
+    5.68,
+    7
+   ],
+   [
+    "lille",
+    "23. desember, lille julaften, eller julaften, 24. desember?",
+    15,
+    24,
+    5.11,
+    7
+   ],
+   [
+    "forskjellig",
+    "og forskjellig julepynt tidligere og tidligere.",
+    68,
+    78,
+    4.68,
+    2
+   ],
+   [
+    "typisk",
+    "eh som er typisk julemiddag i Norge,",
+    169,
+    174,
+    4.76,
+    1
+   ],
+   [
+    "nyttårsaften",
+    "eh julaften og nyttårsaften ei uke.",
+    403,
+    412,
+    3.67,
+    2
+   ],
+   [
+    "feirer",
+    "Hvis du feirer jul, skriv gjerne i kommentarfeltet når du",
+    464,
+    473,
+    4.18,
+    1
+   ],
+   [
+    "koselige",
+    "november, sånn at vi kan ha den koselige",
+    434,
+    440,
+    3.46,
+    1
+   ],
+   [
+    "rekkverk",
+    "rundt taket på huset, rundt rekkverk på",
+    48,
+    55,
+    3.41,
+    1
+   ],
+   [
+    "pepperkaker",
+    "som julebrus, pepperkaker, ribbe",
+    163,
+    172,
+    2.78,
+    2
+   ],
+   [
+    "juleøl",
+    "eh og mange andre juleting. Juleøl for",
+    175,
+    183,
+    2.69,
+    1
+   ]
+  ],
   "tx": "Når er det på tide å pynte til jul? Er det riktig å pynte til jul i oktober, november, starten av desember eller 23. desember, lille julaften, eller julaften, 24. desember? Hva tenker du? I de siste årene ser jeg at flere og flere personer pynter tidligere og tidligere til jul. De pynter med julelys rundt taket på huset, rundt rekkverk på verandaene, juletre på trappa, juletre i hagen, julelys på hekken og julestjerner som henger i vinduet og forskjellig julepynt tidligere og tidligere. Før så var det bare i desember. Nå er det flere og flere som pynter til med julepynt i november og til og med noen i oktober. Har du merket det samme? Eller er det bare noe som jeg merker og ser? Kanskje jeg ikke tenkte på det like mye før da jeg var yngre. Vet ikke. Men jeg synes i hvert fall at det blir mer og mer julepynt og julelys tidligere og tidligere år for år. Nå er det november, starten av november, og jeg ser mange hus eh som har julelys på på kvelden og noen julestjerner også. Ikke så veldig mange julestjerner enda, men ganske mange hus med julelys rundt huset og noen juletrær. Og butikkene starter også veldig tidlig med julepynt og juletrær. Det har jeg sett flere ganger allerede tidlig i november. Mange butikker som har juletrær, julepynt og har begynt å selge juleting. Ikke bare i november, til og med noen butikker har begynt å selge julevarer i oktober som julebrus, pepperkaker, ribbe eh som er typisk julemiddag i Norge, ribbe og pinnekjøtt som også er vanlig å spise på julaften eh og mange andre juleting. Juleøl for eksempel og julegodteri, julesjokolade og andre typer godteri. Det er lett å kjøpe i butikken også i eh november, men også i oktober. Og til og med noen butikker starter allerede i september med å selge juleting. IKEA for eksempel hadde juleutstilling allerede i slutten av september. Det var ekstremt tidlig synes jeg da, men det er kanskje bare sånn det har blitt at folk liker å være tidlig ute med jul. Jeg vet ikke. For meg er det litt rart. Jeg synes det blir alt for tidlig med julenisser og julesanger og julebrus og pepperkaker i september og oktober. Men det er kanskje bare meg. Men jeg synes det er alt for tidlig. Hva er poenget med en adventskalender som vi teller ned dagene til jul. Eh, vi sier da starter allerede i oktober eller november. Adventskalenderen starter jo 1. desember og teller ned dag for dag helt til 24. desember til julaften med en luke fordi man teller ned til jul som starter på julaften egentlig fra de gamle dager. Så det er litt rart at man skal allerede ha juletre og julebrus og julegodteri og julepynt før man åpner første luke i adventskalenderen 1. desember. Jeg husker da jeg var barn at vi pleide å hogge juletre på lille julaften eller kjøpe et juletre på lille julaften og så tok vi med juletre inn lille julaften, 23. desember og pyntet juletre. Så det var klart til kvelden på lille julaften og klart for julaften som var dagen etter, 24. desember da vi har julefeiring. Men nå har det jo blitt vanlig med trær laget av plast, ikke ekte grantrær lengre ofte. Og da er det enklere å starte å pynte juletre tidligere siden barnålene ikke faller av fordi det er av plast. Så da kan man ha juletre oppe lengre i stua uansett og at juletreet er like fint i mange mange uker. Og til og med jeg og familien min har begynt også pynte juletre som er av plast eh i starten av desember. Så vi venter ikke lenger til lille julaften, så jeg er blitt raskere til å sette opp juletre jeg også enn jeg var før. Men noen setter opp juletre tidlig i november også. Så det er litt forskjellig. Og fortsatt noen som venter til lille julaften eller julaften. Og noen har jo fortsatt ekte juletre, og da kan man ikke sette opp juletre i november, for da er jo juletre uten barnåler i jula på julaften. Da er det jo et stygt juletre på julaften, så det går jo ikke. Så jula ser ut til å være veldig mye lengre nå enn før. Før så var det jo jul mellom eh julaften og nyttårsaften ei uke. Men nå er det jo julestemning helt fra november til nyttårsaften i to måneder. Ikke én uke, men to måneder. Og det er ganske lenge. Hva tenker du er det best å starte å pynte jula så tidlig som mulig i oktober november, sånn at vi kan ha den koselige julestemninga mye lengre, lengre periode? Eller blir julestemninga litt eh svakere eller mindre ekte når ma den varer så lenge? Når julestemninga skal fordeles utover mange mange uker i stedet for ei uke. Hva tenker du? Hvis du feirer jul, skriv gjerne i kommentarfeltet når du pynter juletre eller når du setter opp julepynt som julelys eh på huset eller julestjerne i huset ditt. Når starter du å pynte til jul? God jul og ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0574
+  "src": "auto"
  },
  "SJEmvNg4E2s": {
   "channel": "NRK",
   "lang": "no",
-  "checked": "2026-11-15T22:26:06+00:00",
+  "checked": "2026-11-22T03:26:43+00:00",
   "title": "A-laget - Sjösala Vals + Änglamark, medley (Evert Taube)",
   "duration": 158,
   "published": "20261115",
@@ -18645,6 +19607,7 @@
   "pace": 74.1,
   "rare": 0.4475,
   "var": 0.857,
+  "cl": 0.0331,
   "speech_s": 146.5,
   "tokens": 181,
   "kw": [
@@ -18721,16 +19684,169 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "vår",
+    "i vår natur. Brusar",
+    113,
+    123,
+    5.75,
+    1
+   ],
+   [
+    "står",
+    "Solen står på fjellet sund av",
+    10,
+    18,
+    5.71,
+    1
+   ],
+   [
+    "vise",
+    "Hør mi vakre vise, kom syng min refreng.",
+    20,
+    25,
+    5.35,
+    1
+   ],
+   [
+    "flott",
+    ">> Er ikke det flott? >> Kalla",
+    47,
+    56,
+    5.27,
+    1
+   ],
+   [
+    "musikk",
+    "musikk. Og se så mange blommor",
+    32,
+    40,
+    5.18,
+    1
+   ],
+   [
+    "lønn",
+    "englar kring lønn og alm. Leka",
+    78,
+    86,
+    4.79,
+    1
+   ],
+   [
+    "grønne",
+    "Ura grønne dungar hørs finkarnas musikk. Og se så mange blommor",
+    29,
+    40,
+    4.68,
+    1
+   ],
+   [
+    "vakre",
+    "Hør mi vakre vise, kom syng min refreng.",
+    20,
+    25,
+    4.64,
+    1
+   ],
+   [
+    "sjø",
+    "sjø saleng. Hør mi vakre vise, kom syng min refreng.",
+    17,
+    25,
+    4.17,
+    1
+   ],
+   [
+    "kall",
+    "Kall den englamarken eller himla jorda",
+    122,
+    128,
+    4.06,
+    1
+   ],
+   [
+    "vik",
+    "Tar ned av fottunger og dyker i min vik.",
+    25,
+    33,
+    3.74,
+    1
+   ],
+   [
+    "sund",
+    "Solen står på fjellet sund av",
+    10,
+    18,
+    3.67,
+    1
+   ],
+   [
+    "alla",
+    "Sluta at utrota skogarnas alla jur.",
+    98,
+    105,
+    3.41,
+    1
+   ],
+   [
+    "syng",
+    "Hør mi vakre vise, kom syng min refreng.",
+    20,
+    25,
+    3.35,
+    1
+   ],
+   [
+    "engen",
+    "som redan slagget ut på engen. Gullviva,",
+    36,
+    40,
+    3.24,
+    1
+   ],
+   [
+    "leka",
+    "Leka tittut mellan blomman med",
+    81,
+    88,
+    3.0,
+    1
+   ],
+   [
+    "alm",
+    "englar kring lønn og alm. Leka",
+    78,
+    86,
+    2.97,
+    1
+   ],
+   [
+    "jur",
+    "jur. Lat",
+    102,
+    110,
+    2.76,
+    1
+   ],
+   [
+    "fur",
+    "jemt mellan fjellar og og fur.",
+    116,
+    127,
+    2.64,
+    1
+   ]
+  ],
   "tx": ">> Rønnedal, han guttar med skratt ut sin seng. Solen står på fjellet sund av vind bruser. Rønnedal, han valsar over sjø saleng. Hør mi vakre vise, kom syng min refreng. Tar ned av fottunger og dyker i min vik. Ura grønne dungar hørs finkarnas musikk. Og se så mange blommor som redan slagget ut på engen. Gullviva, mandelblom, kattfot og blåfiol. >> Er ikke det flott? >> Kalla den englamarken eller himla jorden om du vil. Jorden vi arvde, lunden, den grønna. Villrosor, blåklokkor, linblommor og kamomill. Lat dom få leva dom er jus og skjøna. Lat barnen dansa som englar kring lønn og alm. Leka tittut mellan blomman med grenar. Lat fåglar leva og sunga for oss sin salm. Lat fiskar simma kring bryggjord og stenar. Sluta at utrota skogarnas alla jur. Lat örnen flyga, lat rovjuren løpa. Lat sista elven som brusar i vår natur. Brusar jemt mellan fjellar og og fur. Kall den englamarken eller himla jorda om du vil. Jorda vi arva, lunden, den grøna, villrosor, blåklokkor, lindeblomor og kamomill. Lat dom få leva, dom er jus og skjøna. >>",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0331
+  "src": "auto"
  },
  "E6kM_cskrDU": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-16T22:58:52+00:00",
+  "checked": "2026-11-22T03:50:53+00:00",
   "title": "Lær norsk gjennom dialoger om Oslo! | A1– A2 | Kapittel 4 — En smak av Norge",
   "duration": 2011,
   "published": "20261114",
@@ -18739,6 +19855,7 @@
   "pace": 44.5,
   "rare": 0.0634,
   "var": 0.8108,
+  "cl": 0.0355,
   "speech_s": 1975.7,
   "tokens": 1466,
   "kw": [
@@ -18903,16 +20020,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "lager",
+    "Så spennende. Hva lager du? Japansk frokost.",
+    70,
+    84,
+    5.07,
+    7
+   ],
+   [
+    "ofte",
+    "Ofte grønnsakssuppe eller fiskesuppe. Lager du fiskesuppe selv?",
+    297,
+    313,
+    5.61,
+    6
+   ],
+   [
+    "frokost",
+    "Japansk frokost Ingrid? Er du våken?",
+    28,
+    39,
+    4.4,
+    5
+   ],
+   [
+    "japansk",
+    "Japansk frokost Ingrid? Er du våken?",
+    28,
+    39,
+    4.32,
+    5
+   ],
+   [
+    "frokosten",
+    "Bra. Frokosten er nesten klar. Allerede? Du har stått opp tidlig igjen.",
+    46,
+    64,
+    3.75,
+    3
+   ],
+   [
+    "bolle",
+    "Hva er en bolle? Det er et søtt bakverk laget av gjærdeig.",
+    1270,
+    1287,
+    3.74,
+    3
+   ],
+   [
+    "bakeriet",
+    "En tur på bakeriet Ingrid, hva er det som lukter så godt?",
+    1218,
+    1232,
+    3.05,
+    3
+   ],
+   [
+    "syltetøy",
+    "Mange liker brunost, syltetøy eller rømme.",
+    888,
+    898,
+    3.48,
+    2
+   ],
+   [
+    "fiskesuppe",
+    "Ofte grønnsakssuppe eller fiskesuppe. Lager du fiskesuppe selv?",
+    297,
+    313,
+    2.17,
+    2
+   ],
+   [
+    "klumper",
+    "Da kan det bli klumper. Jeg skal prøve.",
+    835,
+    847,
+    2.98,
+    1
+   ]
+  ],
   "tx": "Hei, og velkommen til kapittel 4! I dag skal Ingrid og Kenji utforske norsk matkultur. De skal smake på tradisjonelle retter, lage norske vafler, besøke et bakeri og lære om norske mattradisjoner. Bli med på en smakfull reise gjennom Norge! La oss begynne! Japansk frokost Ingrid? Er du våken? Ja! Jeg er på kjøkkenet. Bra. Frokosten er nesten klar. Allerede? Du har stått opp tidlig igjen. I dag var det med vilje. Så spennende. Hva lager du? Japansk frokost. Å, endelig! Jeg har gledet meg til dette. Jeg håper du liker det. Hva har du laget? Ris, misosuppe, stekt egg og litt fisk. Fisk til … suppe. Greit. Jeg er klar. Vær forsiktig. Suppen er varm. Takk. Dette lukter faktisk veldig godt. Da håper jeg smaken er like god. Jeg gleder meg til å prøve! En ny smak Så... hva synes du om frokosten min? Jeg liker den veldig godt. Virkelig? Ja. Spesielt suppen. Hva er det i den? Misopasta, vann, tofu og litt vårløk. Den smaker ganske annerledes enn suppene jeg er vant til. Hva slags suppe spiser du vanligvis? Ofte grønnsakssuppe eller fiskesuppe. Lager du fiskesuppe selv? Ja, noen ganger. Det er faktisk ganske enkelt. Da må du lage det til meg en dag. Gjerne. Men nå vil jeg spørre deg … en brødskive og en kopp kaffe. Selvfølgelig. Brød og kaffe. Du kommer aldri til å glemme det, gjør du? Nei. Det er en viktig del av norsk kultur! Haha. Kanskje du har rett. Hva spiser nordmenn til lunsj? Ingrid, hva pleier du å spise til lunsj? Som regel har jeg med meg matpakke på jobb. Matpakke? Ja. Ofte noen brødskiver med ost eller pålegg. Spiser du det hver dag? Ikke hver eneste dag, men ganske ofte. Lager du matpakken om morgenen? Noen ganger. Andre ganger lager jeg den kvelden før. Det virker praktisk. Det er det. Da slipper jeg å kjøpe lunsj hver dag. Spiser folk vanligvis … men det holder som regel. I Japan kan folk også ha med seg mat hjemmefra. Lager du matpakke når du jobber? Ja. Noen ganger har jeg med meg en bento. En bento? Ja, en matboks med ris, grønnsaker og forskjellige små retter. Det høres mye mer spennende ut enn brødskivene mine. Vi kan bytte matpakker en dag. Det hadde vært morsomt. Men jeg vil fortsatt ha kaffe etter lunsj. Nå begynner du å bli norsk. Norske vafler Kenji, har du lyst på noe godt? Selvfølgelig. Hva tenker du på? Jeg tenkte vi kunne lage norske vafler. Vafler? Som pannekaker? Litt, men ikke helt det samme. Hva er forskjellen? … det. Hvor mye mel skal jeg bruke? Rundt tre desiliter. Tre desiliter. Greit. Ikke bland for fort. Hvorfor? Da kan det bli klumper. Jeg skal prøve. Flott. Røren ser bra ut. Hva gjør vi nå? Nå lar vi den hvile litt. Og så steker vi dem? Nettopp. Hva spiser man vanligvis på vafler i Norge? Mange liker brunost, syltetøy eller rømme. Brunost igjen! Du begynner å kjenne de norske favorittene. Jeg vil prøve med brunost. Selvfølgelig. Og kanskje litt syltetøy også. Nå snakker vi. Jeg håper jeg ikke spiser alle sammen. Det kan bli et problem. Fisk på norsk vis Ingrid, jeg har lagt merke til noe. Hva … makrell er også populære. Jeg kjenner godt til laks. Det er ikke så rart. Japan har også mye sjømat. Ja. Vi bruker fisk på mange forskjellige måter. Hvordan da? Vi spiser den rå, grillet, stekt eller i supper. Sushi er selvfølgelig kjent over hele verden. Ja, men vi spiser mye mer enn sushi. Det vet jeg. Jeg har prøvd flere japanske retter. Hva likte du best? Kanskje ramen. Virkelig? Hvilken type? Jeg husker ikke navnet, men suppen var veldig god. Da skal jeg lage ramen til deg en dag. Det hadde vært fantastisk. Men hvordan lager du vanligvis laks? Jeg steker den i pannen eller baker den i … lukter så godt? Det kommer fra bakeriet der borte. Bakeriet? Ja. Skal vi gå inn? Gjerne. Jeg vil se hva de har. De har ferskt brød, boller, kaker og mye annet. Hva er en bolle? Det er et søtt bakverk laget av gjærdeig. Er det som en japansk søt bolle? Kanskje litt, men smaken og konsistensen er annerledes. Hvilken anbefaler du? Du burde prøve en skolebolle. Hva er det? En søt bolle med vaniljekrem i midten og kokos på toppen. Det høres veldig godt ut. Det er det også. Da tar jeg en sånn. Jeg tror jeg tar en kanelbolle. Hva er forskjellen? Den har kanel og sukker i fyllet. To boller, altså? … i. Mattradisjoner i Norge Ingrid, har Norge noen spesielle mattradisjoner? Ja, ganske mange faktisk. Som hva? Vi har for eksempel pinnekjøtt og ribbe til jul. Spiser alle det? Nei, det varierer fra familie til familie og fra region til region. Hva er forskjellen på dem? Pinnekjøtt er saltet og tørket eller røkt lammekjøtt. Ribbe er svinekjøtt med sprø svor. Det høres interessant ut. Mange familier har også sine egne tradisjoner. Hva med påsken? Da drar mange på hytta, går på ski og spiser appelsiner og sjokolade. Appelsiner på fjellet? Ja! Det er nesten en tradisjon i seg selv. Og hva … forskjellige tradisjoner gjennom året. For eksempel spiser mange spesielle retter på nyttår. Hva slags retter? Det varierer, men vi har en tradisjonell samling av forskjellige retter som kalles osechi. Det har jeg aldri smakt. Da har vi noe å prøve neste gang. Jeg liker denne planen. Vi kan lære hverandre mer om mattradisjonene våre. Avtale. En smak av Norge Kenji, jeg har en liten overraskelse til deg. Hva nå? Jeg har kjøpt noen norske matvarer vi ikke har prøvd ennå. Hva slags matvarer? Du får se. Her har vi flatbrød, brunost og litt multer. Multer? Ja. Det er et bær som vokser i naturen … Jeg har lært mye om norsk mat denne uken. Hva har overrasket deg mest? At dere spiser så mye brød. Det kommer du aldri til å glemme. Og at brunost er søt. Det var en viktig oppdagelse. Men jeg har også lært noe annet. Hva da? At mat handler om mer enn bare smaken. Hva mener du? Det handler om tradisjoner, familie og å spise sammen. Det var fint sagt. Nå vil jeg vise deg mer japansk mat også. Det gleder jeg meg til. Kanskje vi kan lage en japansk middag neste helg? Gjerne. Men da lager vi norsk dessert. Brunost? Kanskje ikke. Haha! Greit. Vi finner på noe. Da har vi en avtale. En avtale!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0326
+  "src": "cc"
  },
  "6x1DaIX5QA8": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-16T22:58:57+00:00",
+  "checked": "2026-11-22T03:50:57+00:00",
   "title": "Lær norsk gjennom dialoger om norsk natur! 🌲| A1–A2 | Kapittel 3 — Ut på tur",
   "duration": 1855,
   "published": "20261113",
@@ -18921,6 +20119,7 @@
   "pace": 38.9,
   "rare": 0.0093,
   "var": 0.7542,
+  "cl": 0.0365,
   "speech_s": 1818.0,
   "tokens": 1179,
   "kw": [
@@ -19021,16 +20220,105 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "liten",
+    "Ja. Du sa at det bare var en liten tur.",
+    38,
+    49,
+    5.54,
+    6
+   ],
+   [
+    "ofte",
+    "Ja. Da jeg var liten, gikk jeg ofte tur med familien.",
+    336,
+    348,
+    5.61,
+    4
+   ],
+   [
+    "bjørn",
+    "Jeg vet ikke... bjørn? Bjørn?",
+    663,
+    676,
+    4.69,
+    3
+   ],
+   [
+    "vent",
+    "Vent til du begynner å gå på ski.",
+    166,
+    175,
+    4.66,
+    3
+   ],
+   [
+    "setningen",
+    "Du bruker fortsatt den setningen. Fordi den er sann.",
+    752,
+    766,
+    4.19,
+    1
+   ],
+   [
+    "still",
+    "Ja. Still deg der. Her?",
+    1460,
+    1470,
+    4.11,
+    1
+   ],
+   [
+    "nabolaget",
+    "Først gjennom nabolaget. Så går vi inn i skogen.",
+    224,
+    237,
+    4.06,
+    1
+   ],
+   [
+    "stillhet",
+    "Du liker stillhet, altså? Jeg begynner å gjøre det.",
+    278,
+    291,
+    4.03,
+    1
+   ],
+   [
+    "opplev",
+    "Bli med dem gjennom skogen, opplev den vakre utsikten og lær mer om norsk friluftsliv.",
+    9,
+    19,
+    3.33,
+    1
+   ],
+   [
+    "mhm",
+    "Mhm. Nå skjønner jeg hvorfor du liker turer.",
+    1428,
+    1441,
+    3.26,
+    1
+   ],
+   [
+    "skiene",
+    "Der kommer skiene igjen. Selvfølgelig.",
+    379,
+    391,
+    3.16,
+    1
+   ]
+  ],
   "tx": "Hei, og velkommen til kapittel 3! I dag skal Ingrid og Kenji ut på tur og utforske norsk natur. Bli med dem gjennom skogen, opplev den vakre utsikten og lær mer om norsk friluftsliv. La oss begynne! Klar for tur Er du klar? Jeg tror det. \"Tror\"? Ja. Du sa at det bare var en liten tur. Det er en liten tur. Du sa det i går også. Og vi gikk til butikken. Nettopp. Det tok fem minutter. Fem minutter hver vei. Greit. Men i dag blir det ikke langt. Hvor langt er \"ikke langt\"? Kanskje en time. En time?! Slapp av. Vi går rolig. Okei... Jeg stoler på deg. Bra. Har du gode sko? Ja. Jakke? Ja. Vann? Vann også. Perfekt. Jeg føler meg som en ekte nordmann nå. Vent til du begynner å gå på ski. Nei, takk. Du har ikke prøvd ennå. Jeg har sett folk på ski. Og? De går altfor fort. Da begynner vi sakte. Vi får se. Kom igjen. Hvor skal vi egentlig? Først gjennom nabolaget. Så går vi inn i skogen. Skogen? Ja. Okei. Nå begynner turen. På vei mot skogen Jeg liker dette området. Ja? Hva liker du? Det er så grønt. Og så stille. Du liker stillhet, altså? Jeg begynner å gjøre det. Det er bra. Du kommer til å like skogen. Har du alltid bodd så nær naturen? Ikke her, men jeg vokste opp litt utenfor Oslo. Var det mye natur der? Ja, masse. Så du gikk mye på tur? Ja. Da jeg var liten, gikk jeg ofte tur med familien. Hver helg? Nei, ikke hver helg. Men ganske ofte. Hva gjorde dere? Vi gikk i skogen. Om vinteren gikk vi på ski. Der kommer skiene igjen. Selvfølgelig. Jeg kan ikke gå på ski. Det kan vi lære deg. Nei. Hvorfor sier du nei så fort? Fordi jeg kjenner meg selv. Og? Jeg kommer til å falle. Alle faller i starten. Det hjelper ikke. Jo da. Vi tar det senere. Greit. I dag går vi bare. Det liker jeg. Inne i skogen Wow. Hva? Det ble plutselig veldig stille. Ja. Nei, virkelig. Hør. Hva hører du? Ingenting. Du hører fuglene. Å ja. Og vinden. Ja... Liker du det? Veldig. Jeg visste det. Hvordan? Du har snakket om hvor stille Norge er siden du kom. Det er sant. I byen hjemme er det mye mer lyd? Ja. Biler, tog, mennesker... Hele tiden? Nesten. Da skjønner jeg at dette føles annerledes. Ja. Det føles nesten litt rart. Rart på en dårlig måte? Nei, nei. På en god måte. Bra. Du går ofte her alene? Noen ganger. Er du ikke redd? For hva da? Dyr. Hvilke dyr? Jeg vet ikke... bjørn? Bjørn? Ja. Du trenger ikke være redd for bjørn her. \"Her\"? Slapp av, Kenji. Greit. Jeg slapper av. Kom. Vi går litt videre. Jeg følger etter deg. En liten pause Skal vi ta en liten pause? Ja, takk. Sliten? Litt. Jeg sa jo at det var en liten tur. Du bruker fortsatt den setningen. Fordi den er sann. Kanskje. Sett deg her. Har du vann? Ja. Vær så god. Takk. Og jeg har litt mat. Selvfølgelig har du det. Hva mener du? Du har alltid mat. Det er smart. Hva har du med? Brød, ost og epler. Brød igjen. Ja. Norge har mye brød. Det gjør vi. Jeg begynner å forstå det. Vil du ha litt ost? Ja. Brunost? Ja, selvfølgelig. Du liker den nå? Ja. Jeg trodde ikke jeg skulle like den. Men? Men den er faktisk veldig god. Jeg sa jo det. Ikke bli for stolt nå. For sent. Haha. Hvorfor går nordmenn på tur? Ingrid? Ja? Jeg har et spørsmål. Hva da? Hvorfor går nordmenn så mye på tur? Det spørsmålet måtte komme. Hvorfor? Fordi du har spurt om det flere ganger. Ja, men jeg forstår det fortsatt ikke helt. Jeg tror mange bare liker å være ute. Selv når det er kaldt? Ja. Selv når det regner? Ja. Det er litt vanskelig å forstå. For meg er det ganske normalt. Så du går ut for å slappe av? Ja. Man kommer litt bort fra jobb, skole og alt annet. Bare gå og være i naturen? Ja. Akkurat. Har det et navn? Ja. Vi kaller det ofte \"friluftsliv\". Fri... luft... liv? Friluftsliv. Det er vanskelig. Du trenger ikke si det perfekt. Hva betyr det helt enkelt? Å være ute i naturen og nyte det. Så dette er friluftsliv? Ja. Da liker jeg friluftsliv. Allerede? Ja. Spesielt med brunost. Selvfølgelig. Brunost gjør alt bedre. Nå begynner du å bli norsk. På vei videre Skal vi gå videre? Ja. Det er en fin utsikt litt lenger oppe. Hvor langt? Kanskje femten minutter. Bare femten? Ja. Okei. Da går jeg. Flink gutt. Ikke snakk til meg som et barn. Greit, greit. Men jeg liker ideen om en utsikt. Vent til du ser den. Er det veldig fint? Jeg synes det. Du sier det som om du har sett den mange ganger. Det har jeg. Med familien? Med venner også. Så dette er vanlig for deg? Ja. Jeg tror jeg begynner å forstå noe. Hva da? At naturen ikke bare er et sted man besøker. Nei. Den er en del av hverdagen. Akkurat. Det er ganske fint. Ja. Okei. Nå vil jeg se utsikten. Da må vi gå litt til. Jeg kommer. Utsikten Wow... Ikke verst, hva? Ikke verst? Hva? Ingrid, dette er utrolig fint. Haha. Greit. Det er veldig fint. Man kan se hele området. Ja. Og skogen. Mhm. Nå skjønner jeg hvorfor du liker turer. Endelig. Jeg vil ta et bilde. Klart. Kan du ta et bilde av meg? Ja. Still deg der. Her? Litt til venstre. Sånn? Perfekt. Tok du det? Ja. Får jeg se? Vent. Ser jeg norsk ut? Du står i en skog med brunost i hånden. Så... ja? Veldig norsk. Da sender jeg det til familien min. Hva skal du skrive? \"Jeg er i Norge.\" Bare det? \"Jeg går på tur.\" Bedre. Og \"jeg spiser brunost.\" Der har du det. På vei hjem Jeg er sliten nå. Men? Men det var verdt det. Bra. Jeg tror jeg forstår Norge litt bedre nå. Hva tenker du? Før trodde jeg at Norge bare var rolig. Og nå? Nå skjønner jeg at naturen er en stor del av livet her. Ja. Og den er veldig nær. Det er det fine. Jeg vil se mer. Det skal du få. Fjorder? Kanskje. Der er det ordet igjen. Hvilket ord? \"Kanskje.\" Jeg vil ikke fortelle deg alt på én gang. Greit. Men vi har en plan for i morgen. Har vi? Ja. Hva skal vi gjøre? Du skal lage japansk frokost. Endelig! Jeg er spent. Du kommer til å like det. Hva skal vi lage? Det får du se i morgen. Nå er det du som sier det! Haha. Nå skjønner du hvordan jeg har det. Greit. Men én ting vet jeg allerede. Hva? Du kommer til å trenge mer brunost. Ja. La oss gå hjem, da. Ja. Men Ingrid? Ja? Neste gang vil jeg se en fjord. Det kan jeg love deg.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0365
+  "src": "cc"
  },
  "Td8wcZ_hpqw": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-16T22:59:00+00:00",
+  "checked": "2026-11-22T03:51:01+00:00",
   "title": "Lær norsk gjennom naturlige samtaler om vennskap | A2–B1 | Norwegian Connect",
   "duration": 2980,
   "published": "20261111",
@@ -19039,6 +20327,7 @@
   "pace": 68.9,
   "rare": 0.0112,
   "var": 0.7954,
+  "cl": 0.0475,
   "speech_s": 2949.0,
   "tokens": 3386,
   "kw": [
@@ -19179,11 +20468,116 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "synes",
+    "Jeg prøver ikke å lage en stor sak ut av det. Jeg synes bare det er hyggelig å høre fra deg innimellom. Vi har jo ikke sett hverandre ordent",
+    301,
+    318,
+    5.54,
+    12
+   ],
+   [
+    "ganske",
+    "Slapp av, da! Jeg har hatt ganske mye å gjøre i det siste. Jobben har vært helt kaotisk.",
+    161,
+    179,
+    5.52,
+    11
+   ],
+   [
+    "vennskap",
+    "I dag skal vi lære norsk gjennom fem naturlige og morsomme samtaler om vennskap, relasjoner og hverdagsliv.",
+    6,
+    19,
+    4.21,
+    6
+   ],
+   [
+    "forventer",
+    "Det hadde vært fint. Jeg forventer ikke at du alltid skal ha tid til å møtes. Jeg vil bare at du skal være ærlig.",
+    855,
+    874,
+    4.7,
+    5
+   ],
+   [
+    "beregne",
+    "Jeg prøver bare å forstå hvordan du klarer å være så dårlig til å beregne tiden.",
+    794,
+    806,
+    3.83,
+    2
+   ],
+   [
+    "billettene",
+    "Nei, selvfølgelig ikke! Jeg prøvde å selge billettene videre, men ingen ville ha dem.",
+    558,
+    574,
+    3.81,
+    2
+   ],
+   [
+    "rutinen",
+    "Jeg kjenner meg faktisk litt igjen. Det er så lett å havne i den samme rutinen hver dag. Man tenker at man skal gjøre noe hyggelig etter job",
+    1370,
+    1395,
+    3.15,
+    2
+   ],
+   [
+    "transporten",
+    "Takk! Men du, hva med transporten? Skal vi ta bilen eller bussen?",
+    2706,
+    2720,
+    3.57,
+    1
+   ],
+   [
+    "bursdager",
+    "Jo, noen ganger. Vi sender hverandre meldinger til bursdager og sånt, men det er ikke som før. Det er litt trist, egentlig.",
+    2077,
+    2098,
+    2.91,
+    1
+   ],
+   [
+    "invitasjoner",
+    "Ja, litt. Jeg har takket nei til flere invitasjoner. Når folk spør om jeg vil bli med ut, finner jeg alltid på en unnskyldning. Jeg sier at ",
+    1301,
+    1335,
+    2.91,
+    1
+   ],
+   [
+    "værmeldingen",
+    "Jeg har faktisk sjekket værmeldingen. Det skal visst bli sol på lørdag, men litt kjølig om morgenen.",
+    2466,
+    2484,
+    2.9,
+    1
+   ],
+   [
+    "arbeidsmengden",
+    "Nei, egentlig ikke. Jeg føler at det ikke nytter. Han hører liksom ikke på noen. Hvis vi sier at arbeidsmengden er for stor, får vi bare bes",
+    1085,
+    1118,
+    2.78,
+    1
+   ],
+   [
+    "turstier",
+    "Hva sier du til en liten fjelltur på lørdag? Jeg har sett noen fine turstier ikke så langt fra Oslo.",
+    2397,
+    2415,
+    2.78,
+    1
+   ]
+  ],
   "tx": "Hei, og velkommen til Norwegian Connect! I dag skal vi lære norsk gjennom fem naturlige og morsomme samtaler om vennskap, relasjoner og hverdagsliv. Du lærer nyttige ord, uttrykk og fraser som du kan bruke i virkelige situasjoner. Videoen passer for A2–B1-nivå. Lytt, lær og øv sammen med oss. La oss begynne! Hvorfor svarer du aldri? Der er du jo! Jeg har prøvd å få tak i deg hele uka. Hvor har du vært? Hei! Hva skjer? Jeg har da ikke forsvunnet helt. Nei, men det føles nesten sånn. Jeg har sendt deg sikkert ti meldinger, og du har ikke svart på én eneste. Ti meldinger? Er du sikker på at du … mye arbeid. Okei, nå høres jeg faktisk ganske dårlig ut. Jeg prøver ikke å lage en stor sak ut av det. Jeg synes bare det er hyggelig å høre fra deg innimellom. Vi har jo ikke sett hverandre ordentlig på flere uker. Det er sant. Jeg har vært litt fraværende i det siste. Det har ikke vært meningen å ignorere deg. Greit. Jeg ville bare vite om alt var i orden. Det setter jeg faktisk pris på. Beklager at jeg ikke har svart. Jeg skal prøve å bli flinkere til det. Bra. For neste gang du ignorerer meg, sender jeg et brev med posten. Gjør det! Men da lover jeg å svare innen tre til fem virkedager. … på alvor. Hva mener du med det? Jeg mener at det alltid er jeg som tar initiativ. Jeg foreslår at vi skal finne på noe, jeg sjekker tidspunkt, og jeg ordner alt mulig. Så avlyser du i siste liten. Jeg har ikke tenkt på det på den måten. Jeg trodde egentlig at vi bare tok ting litt som de kom. Det er greit å være spontan, men det er forskjell på å være spontan og å ikke holde det man lover. Ja, det har du kanskje rett i. Men du må også forstå at jeg ikke alltid har overskudd til å være sosial etter jobb. Det forstår jeg faktisk godt. Men da kan du jo bare si det med en gang. Du trenger ikke å … vi en avtale. Jeg spanderer middag neste gang vi møtes. Å, nå begynner det å høres interessant ut! Men du må velge et sted som ikke koster en formue. Slapp av! Jeg skal ikke ruinere deg. Det sier du nå, men jeg kjenner deg. Du kommer sikkert til å foreslå den dyreste restauranten i hele Oslo. Haha! Vi får se. Denne gangen er det i hvert fall du som planlegger. Greit! Jeg skal sende deg en melding med både tidspunkt og sted. Flott. Og husk å svare når jeg skriver tilbake! Nå begynner du igjen! Du vet ikke hva jeg går gjennom Du, Emil, jeg har tenkt litt på det du sa sist. Du virker ikke helt … er ikke alltid så lett å snakke om sånne ting. Noen ganger vet jeg ikke engang selv hva jeg føler. Det forstår jeg. Men du trenger heller ikke å ha alle svarene med en gang. Noen ganger hjelper det bare å snakke med noen. Kanskje du har rett. Jeg har faktisk følt meg ganske alene i det siste, selv om jeg har folk rundt meg. Det må være en vanskelig følelse. Har du sluttet å møte andre også? Ja, litt. Jeg har takket nei til flere invitasjoner. Når folk spør om jeg vil bli med ut, finner jeg alltid på en unnskyldning. Jeg sier at jeg er opptatt, eller at jeg er sliten. Men egentlig har du … si ifra. Det skal jeg. Jeg tror faktisk jeg trengte denne samtalen mer enn jeg trodde. Bra. Og du, hva sier du til at vi finner på noe i helga? Litt frisk luft hadde kanskje gjort godt. Ja, hvorfor ikke? Jeg har ingen planer foreløpig. Flott! Da har vi i hvert fall én avtale som du ikke får lov til å avlyse. Haha! Jeg skal prøve å holde den. Men ikke forvent at jeg står opp klokka sju på en lørdag. Slapp av. Jeg er ikke gal heller! Vi må snakke litt om vennskap Du, Emil, jeg har tenkt litt på det vi snakket om sist. Det fikk meg faktisk til å tenke på hva vennskap egentlig betyr. Å ja? … så hyggelig å høre. Helt enig. Men det finnes en grense mellom å være ærlig og å være frekk. Noen bruker ærlighet som en unnskyldning for å si akkurat hva de vil. Det har du faktisk et poeng i. Man må kunne si fra uten å såre den andre personen unødvendig. Nettopp! Og jeg synes det er viktig at man respekterer hverandres grenser. Bare fordi vi er gode venner, betyr ikke det at vi må være enige om alt eller gjøre alt sammen. Absolutt. Jeg har faktisk hatt en venn tidligere som ble sur hver gang jeg gjorde noe med andre venner. Han forventet at jeg alltid skulle være tilgjengelig. Det høres … forvente at alle vennskap skal vare livet ut. Nei, men jeg synes det er verdt å ta vare på de menneskene som faktisk betyr noe for deg. Enig. Og det gjelder kanskje spesielt de vennene som kjenner deg godt nok til å si ifra når du gjør noe dumt. Haha! Snakker du om meg nå? Kanskje litt. Noen må jo passe på deg. Greit, jeg skal ikke klage. Men du er heller ikke akkurat feilfri, vet du. Det har jeg aldri påstått! Nei, men du har en tendens til å tro at du alltid har rett. Jeg tror ikke det. Jeg vet det. Der har vi problemet! Haha! Men helt seriøst, jeg synes det er fint at vi kan snakke om … litt kjølig om morgenen. Da er det jo perfekt! Vi kan starte tidlig, så slipper vi å bruke hele dagen på turen. Tidlig? Hvor tidlig snakker vi om? Hva med å dra hjemmefra klokka åtte? Klokka åtte på en lørdag? Er du helt seriøs? Hva er problemet? Det er jo deilig å komme seg opp tidlig og få mest mulig ut av dagen. Jeg er enig, men jeg trenger litt tid på å våkne. Hva med halv ti? Greit, halv ti. Men da må du love å ikke komme for sent. Det er jo du som pleier å komme for sent! Ja, men jeg har faktisk forbedret meg. Jeg har begynt å stille alarmen tidligere. Haha! Vi får se om det fungerer i … Det er lett å havne i den samme rutinen hver uke. Absolutt. Og vi burde egentlig gjøre sånne ting oftere. Det trenger ikke alltid å være en stor plan. Helt enig. Noen ganger er det nok å komme seg ut, møte en venn og oppleve noe nytt. Da har vi en avtale! Lørdag klokka halv ti. Ikke glem det! Slapp av, jeg skal sette en påminnelse på telefonen. Bra. Og denne gangen skal jeg faktisk svare på alle meldingene dine. Det vil jeg gjerne se før jeg tror på det! Haha! Greit, men nå må jeg stikke. Vi snakkes på fredag! Vi snakkes! Og husk å ta med godt humør! Det skal jeg. Men du må ta med kaffen!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0481
+  "src": "cc"
  },
  "yxMmkSqM3eA": {
   "channel": "Norwegian Connect",
@@ -19544,7 +20938,7 @@
  "hP51-PQMnJs": {
   "channel": "Mikael's Norwegian Lessons",
   "lang": "no",
-  "checked": "2026-11-16T22:59:23+00:00",
+  "checked": "2026-11-22T03:54:23+00:00",
   "title": "What's in My Box? Guess It in Norwegian (A2)",
   "duration": 632,
   "published": "20261116",
@@ -19553,6 +20947,7 @@
   "pace": 106.1,
   "rare": 0.0213,
   "var": 0.6942,
+  "cl": 0.0613,
   "speech_s": 423.9,
   "tokens": 750,
   "kw": [
@@ -19693,11 +21088,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "nesten",
+    "Nesten hver dag. Disse liker jeg å ha med når jeg går tur.",
+    401,
+    410,
+    5.58,
+    3
+   ],
+   [
+    "ganske",
+    "Så denne tingen er ganske liten.",
+    49,
+    55,
+    5.52,
+    3
+   ],
+   [
+    "morgenen",
+    "Og på morgenen, når jeg strekker meg ...",
+    182,
+    189,
+    4.52,
+    2
+   ],
+   [
+    "tynn",
+    "De er ganske tynne. Veldig tynn.",
+    204,
+    209,
+    4.21,
+    2
+   ],
+   [
+    "dusjen",
+    "Den kan også brukes i dusjen.",
+    413,
+    417,
+    4.08,
+    2
+   ],
+   [
+    "hatten",
+    "så tar man på hatten. Da har man hatten på seg.",
+    285,
+    291,
+    4.06,
+    2
+   ],
+   [
+    "tannbørste",
+    "en tannbørste. Så når jeg våkner på morgenen,",
+    225,
+    232,
+    3.27,
+    2
+   ],
+   [
+    "dusjer",
+    "Eller når jeg dusjer. Den kan også brukes i dusjen.",
+    410,
+    417,
+    3.55,
+    1
+   ],
+   [
+    "springen",
+    "Så kan du ta denne under springen",
+    97,
+    101,
+    2.79,
+    1
+   ],
+   [
+    "ovenifra",
+    "Den er rund hvis du ser ovenifra.",
+    64,
+    69,
+    2.41,
+    1
+   ],
+   [
+    "øretelefonene",
+    "øretelefonene mine. Jeg har de her, og de er vanntette.",
+    468,
+    477,
+    2.04,
+    1
+   ]
+  ],
   "tx": "Boks. Svart boks I boksen er det fem ting. Fem ting er i boksen. Jeg vil at du skal gjette hva som er i boksen. Skal vi begynne? Da ser vi på ting én. Så denne tingen er ganske liten. Cirka... denne størrelsen. Og den er rund. Den er rund hvis du ser ovenifra. Men hvis du ser fra siden ... Så har den ikke en rund form. På siden av denne tingen så er det et håndtak. Du kan holde i den. Vi bruker denne for å drikke. Hvis du er tørst. Så kan du ta denne under springen og tømme i vann. Og siden det fins et lite håndtak ... Så er det i boksen en kopp. Så dette er en kopp. Fra siden så er den ikke rund. Hvis du ser fra toppen, så er den rund. Og på siden så er det et håndtak. Dette er en kopp. Da ser vi i boksen ... Og velger nummer to. Så denne ... Bruker jeg to ganger om dagen. Rett før jeg skal legge meg, når jeg skal sove, bruker jeg denne tingen. Og på morgenen, når jeg strekker meg ... Akkurat har våknet, så bruker jeg denne tingen. Min er grønn. Men disse kommer i mange farger. De er ganske tynne. Veldig tynn. Liten. Men den er lang. Og mange folk. De fleste folk bruker denne. Kan du tenke på hva det er? Det er ... en tannbørste. Så når jeg våkner på morgenen, går jeg og bruker tannbørsten. Og rett før jeg skal sove, så bruker jeg tannbørsten. Som du ser, så er min ... Og den er veldig tynn og lang. Så dette er en tannbørste. Da ser vi i boksen ... Oi ... Og velger nummer tre. Så disse er noe vi kan ha på oss. Dette er en T-skjorte. Jeg har på meg T-skjorta. Hvis man har en hatt, så tar man på hatten. Da har man hatten på seg. Dette er ikke en T-skjorte, ikke T-skjorte, og det er ikke en hatt. Men det er noe vi kan ha på oss. Den er ganske liten, og man må være forsiktig med den. Fordi den kan knuse. Er du nysgjerrig på hva det er? Mange mennesker bruker disse. Jeg må også bruke disse. Og disse hjelper deg å se langt eller nærme hvis du sliter med å lese ting som er nært deg. For min del så sliter jeg med å se langt bort. Så da vet du kanskje hva det her er. Det er ... briller. Dette er briller. Og de kan man ha på seg. Nå har jeg på meg brillene. De er laget av glass, så man må være veldig forsiktig. Da ser vi i boksen etter neste ting. Så denne ... Denne bruker jeg hver dag. Nesten hver dag. Disse liker jeg å ha med når jeg går tur. Eller når jeg dusjer. Den kan også brukes i dusjen. Og før jeg skal sove. Når jeg rydder i leiligheten. Og går til og fra jobb. Den kommer i en liten boks, og det er to ting inni. Disse har med lyd å gjøre. Kanskje du vet hva vi snakker om nå? Disse kan gjøre at du kan høre på musikk. Og podcast og lydbok, f.eks. Og da tror jeg du vet akkurat hva det her er. Så det er øretelefonene mine. Jeg har de her, og de er vanntette. Derfor nevnte jeg dusjen. Da skal vi se på siste ting. Av alle fem så er denne den største. Den tar opp nesten hele boksen. Og den er blå. Denne ... Tar jeg ikke med meg på jobb og ikke ut vanligvis. Den pleier å være i stua eller soverommet. Den er ikke hard. Alle disse fire tingene ... Er veldig harde. Mens denne er veldig myk. Nesten som en pute. Når man sover, så bruker man en pute. Veldig myk. Denne er også veldig myk. Den ser ut som et dyr. Et lite og fint dyr som har nebb og to føtter. Så nebb og to føtter. Men selvfølgelig, det er ikke et dyr. Det er noe som ser ut som et dyr. Tror du at du vet hva det er for noe? Det er ... En bamse. En veldig myk og fin bamse. Så ... Jeg har mange av de liggende i stua. Og de er veldig søte og koselige å ha her. Så. Det var alle fem tingene vi skulle se på i dag. Håper du syntes det var gøy. Så ses vi i neste. Ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0613
+  "src": "cc"
  },
  "hUPvnBRiTqA": {
   "channel": "Norsk Tolk | NTN Skole",
@@ -19713,7 +21197,7 @@
  "HTqxV48Jmj4": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:00:07+00:00",
+  "checked": "2026-11-22T03:57:58+00:00",
   "title": "200 norske setninger du trenger i Norge | Lær norsk A2–B1",
   "duration": 1921,
   "published": "20260819",
@@ -19722,6 +21206,7 @@
   "pace": 61.5,
   "rare": 0.0296,
   "var": 0.7646,
+  "cl": 0.0364,
   "speech_s": 1285.9,
   "tokens": 1319,
   "kw": [
@@ -19846,16 +21331,137 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "hjemme",
+    "Vi har tenkt å være hjemme.",
+    338,
+    346,
+    5.36,
+    6
+   ],
+   [
+    "omtrent",
+    "Jeg blir omtrent 10 minutter forsinket.",
+    277,
+    289,
+    5.05,
+    6
+   ],
+   [
+    "trives",
+    "Jeg trives veldig godt på jobben.",
+    1204,
+    1213,
+    4.4,
+    3
+   ],
+   [
+    "aktiv",
+    "Jeg synes er viktig å holde seg aktiv.",
+    1769,
+    1774,
+    4.77,
+    2
+   ],
+   [
+    "kjøleskapet",
+    "Jeg setter maten i kjøleskapet. Restene kan vi spise i morgen.",
+    738,
+    754,
+    4.18,
+    1
+   ],
+   [
+    "pose",
+    "Jeg trenger ikke pose. Takk. Kan jeg få kvitteringen?",
+    456,
+    470,
+    4.18,
+    1
+   ],
+   [
+    "øvd",
+    "Nå har du øvd på 200 norske setninger fra A2 til B1.",
+    1890,
+    1894,
+    3.51,
+    1
+   ],
+   [
+    "forkjølet",
+    "Han har vært litt forkjølet. Hvordan har dagen gått?",
+    1360,
+    1373,
+    3.48,
+    1
+   ],
+   [
+    "hal",
+    "Klokka er snart hal:30. Når passer det for deg?",
+    208,
+    223,
+    3.48,
+    1
+   ],
+   [
+    "leggen",
+    "Leggen anbefalte meg å hvile. Ta kontakt igjen hvis det blir verre.",
+    1127,
+    1142,
+    3.44,
+    1
+   ],
+   [
+    "saktere",
+    "Kan du snakke litt saktere? Hva betyr dette ordet?",
+    170,
+    187,
+    3.4,
+    1
+   ],
+   [
+    "holdeplass",
+    "Er dette riktig holdeplass? Når går neste buss?",
+    796,
+    805,
+    2.98,
+    1
+   ],
+   [
+    "vifta",
+    "Det kommer en merkelig lyd fra vifta.",
+    1637,
+    1642,
+    2.79,
+    1
+   ],
+   [
+    "lesingen",
+    "Hun trenger litt hjelp med lesingen.",
+    1437,
+    1442,
+    2.67,
+    1
+   ],
+   [
+    "foreldremøte",
+    "Når er det foreldremøte? Jeg har et spørsmål om leksene.",
+    1420,
+    1433,
+    2.65,
+    1
+   ]
+  ],
   "tx": "Velkommen til NTN SKOLE. I denne videoen lærer du 200 norske setninger fra A2 til B1. Lytt, gjenta og lær. La oss begynne. Vanlige setninger i hverdagen. Går det bra? Det går bra. Takk. Hyggelig å se deg igjen. Det var lenge siden sist. Hva skal du gjøre i dag? Jeg har ikke bestemt meg ennå. Jeg skal bare ta en liten tur. Jeg kommer tilbake om en stund. Har du tid til å hjelpe meg? Ja, selvfølgelig. Hva trenger du hjelp med? Vent litt. Jeg kommer snart. Jeg er klar om 5 minutter. Beklager at jeg er litt sen. Det går helt fint. Jeg skjønner hva du mener. Jeg er ikke helt sikker. Kan du si det … og avtaler. Hva er klokka? Klokka er snart hal:30. Når passer det for deg? Det passer best klok 4. Skal vi møtes i morgen? Ja, det passer bra for meg. Jeg har dessverre ikke tid i dag. Kan vi ta det en annen dag? Jeg kommer så fort jeg kan. Jeg blir omtrent 10 minutter forsinket. Jeg må gå litt tidligere i dag. Jeg har en avtale klok. Jeg skal være der om en halvtime. Vi sees utenfor kloka seks. Har du noen planer for helgen? Vi har tenkt å være hjemme. Jeg skal besøke noen venner. Jeg vet ikke hva jeg skal gjøre enå. Vi kan avtale det senere. Gi meg beskjed når du vet mer. På butikken. … mye koster denne? Er denne på tilbud? Jeg synes den er litt for dyr. Kan jeg betale med kort? Tar dere vips? Jeg trenger ikke pose. Takk. Kan jeg få kvitteringen? Jeg tror prisen er feil. Det sto en annen pris på hylle. Kan jeg bytte denne? Jeg kjøpte den i går. Jeg har dessverre ikke kvitteringen. Er det mulig å få pengene tilbake? Jeg skal bare se litt. Takk for hjelpen. Det var alt. Takk. Ha en fin dag videre. Mat og restaurant. Har dere et ledig bord? Vi er fire personer. Kan vi få se menyen? Hva anbefaler du? Jeg vil gjerne bestille. Jeg tar det samme som henne. Kan jeg få denne uten … jeg bestilte. Kan vi få regningen? Kan vi betale hver for oss? Er service inkludert i prisen? Jeg lager vanligvis middag hjemme. Hva skal vi ha til middag i dag? Vi må kjøpe noen matvarer på vei hjem. Det er ikke mer melk igjen. Jeg setter maten i kjøleskapet. Restene kan vi spise i morgen. Buss, tog og transport. Unnskyld, går denne bussen til sentrum? Hvor skal jeg gå av? Hvor lang tid tar det? Er dette riktig holdepass? Er dette riktig holdeplass? Når går neste buss? Bussen er 5 minutter forsinket. Jeg må bytte buss i sentrum. Vet du hvilket spor toget går fra? Toget er dessverre … i dag. Kan du slippe meg av her? Jeg finner ikke veien. Kan du vise meg hvor det er? Det ligger rett rundt hjørnet. Fortsett rett fram. Ta til venstre i neste kryds. Ta til venstre i neste krys. Det tar omtrent 5 minutter å gå. Det tar omtrent 5 minutter å gå Hos legen og på apoteket. Jeg vil gjerne bestille en legime. Jeg vil gjerne bestille en legime. Har dere en ledig time i dag? Jeg har vært syk i noen dager. Jeg har vondt i halsen. Jeg har hatt febersiden i går. Det gjør vondt når jeg beveger meg. Jeg føler meg veldig sliten. Jeg har ikke sovet godt i det siste. Når begynte … Hvor ofte skal jeg ta medisinen? Skal jeg ta den sammen med mat? Trenger jeg resept på denne medisinen? Er det noen bivirkninger? Jeg føler meg mye bedre nå. Jeg må være hjemme fra jobb i dag. Leggen anbefalte meg å hvile. Ta kontakt igjen hvis det blir verre. På jobb. Når begynner du på jobb? Jeg begynner klok 8:00. Når er du ferdig på jobb? Jeg jobber til halvtre. 14:30 Hva jobber du med? Jeg jobber på et sykehjem. Jeg har jobbet her i nesten to år. Jeg trives veldig godt på jobben. Kan du hjelpe meg med denne oppgaven? Jeg er ikke helt ferdig ennå. Hva skal jeg gjøre etterpå? Vi må … min. Jeg kan dessverre ikke komme på jobb i dag. Barnet mitt er sykt, så jeg må være hjemme. Jeg ønsker å bytte vakt på fredag. Kan du sende meg informasjon på e-post? Gi meg beskjed hvis det er noe du lurer på. Barnehage og skole. Når åpner barnehagen? Når stenger barnehagen? Barnet mitt blir hentet litt tidligere i dag. Hun kommer ikke i barnehagen i morgen. Han har vært litt forkjølet. Hvordan har dagen gått? Har hun spist godt i dag? Han sov dårlig i natt. Husk å ta med ekstra klær. Vi trenger å kjøpe nye regnklær. Når begynner skolen? Når er det foreldremøte? Jeg har et spørsmål om … Hun synes matematikk er litt vanskelig. Vi øver på norsk hjemme hver dag. Kan vi avtale en samtale med læren? Takk for at du ga beskjed. Bolig og hjem. Jeg leter etter en leilighet. Hvor mye er husleien i måneden? Er strøm inkludert i husleien? Hvor stort er det posit? Hvor stort er det positive? Når kan jeg flytte inn? Jeg vil gjerne komme på visning. Leiligheten ligger i et rolig område. Det er kort vei til skole og barnehage. Det tar omtrent 10 minutter å gå til butikken. Vi trives veldig godt her. Det er noe galt med vaskemaskin. Varmen fungerer ikke som den skal. Kan noen komme og se … Når kan dere komme? Passer det i morgen formiddag? Jeg er hjemme etter klok 3. Ring meg gjerne før dere kommer. Sosialt liv og naturlige B1 setninger. Det høres hyggelig ut. Jeg skulle gjerne blitt med, men jeg har andre planer. Kanskje vi kan gjøre det neste helg i stedet. Hva pleier du å gjøre i fritiden? Jeg liker å være sammen med familie og venner. Jeg prøver å komme meg ut så ofte jeg kan. Jeg har begynt å trene et par ganger i uka. Jeg synes er viktig å holde seg aktiv. Jeg synes det er viktig å holde seg aktiv. Det kommer an på å være. Jeg er enig med deg. Jeg er ikke helt enig. … Jeg har ikke tenkt så mye på det før. Det er vanskelig å svare på uten å vite mer. Hvis jeg får tid skal jeg gjøre det i løpet av uka. Selv om det var vanskelig i starten, har det blitt mye lettere nå. Jo mer norsk jeg bruker i hverdagen, desto lettere blir å snakke. Bra jobbet. Nå har du øvd på 200 norske setninger fra A2 til B1. Vil du lære mer norsk? På NTN SKOLE finner du både gratis norsk kurs og komplette kurs for Norskprøven. Klikk på kortet du ser på skjermen nå for å gå til NTN skole. Takk for at du så på videoen. Husk å like og abonnere på kanalen. Lykke til videre med norsken.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0341
+  "src": "cc"
  },
  "YVdc2rZYY_M": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:00:16+00:00",
+  "checked": "2026-11-22T03:58:06+00:00",
   "title": "Lær norsk på 30 minutter | A1–A2 vanlige setninger for hverdagen i Norge",
   "duration": 2114,
   "published": "20251230",
@@ -19864,6 +21470,7 @@
   "pace": 50.1,
   "rare": 0.0221,
   "var": 0.6088,
+  "cl": 0.0221,
   "speech_s": 1193.4,
   "tokens": 997,
   "kw": [
@@ -19972,16 +21579,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bor",
+    "Hvor bor du? Jeg bor i Oslo.",
+    59,
+    70,
+    5.18,
+    6
+   ],
+   [
+    "står",
+    "Når står du opp? Når står du opp?",
+    337,
+    345,
+    5.71,
+    5
+   ],
+   [
+    "kurs",
+    "Jeg skal på norsk kurs. Når begynner du på jobb?",
+    368,
+    382,
+    4.67,
+    3
+   ],
+   [
+    "slutter",
+    "Når slutter du på jobb? Jeg slutter klok 4.",
+    771,
+    788,
+    4.79,
+    2
+   ],
+   [
+    "stresset",
+    "Jeg er litt stresset. Jeg er rolig.",
+    146,
+    160,
+    3.95,
+    2
+   ],
+   [
+    "deltid",
+    "Jobber du helid eller deltid? Jeg jobber heltid.",
+    728,
+    748,
+    3.9,
+    2
+   ],
+   [
+    "håndkle",
+    "Jeg tørker meg med håndkle. Hun rydder huset.",
+    1728,
+    1742,
+    3.58,
+    1
+   ],
+   [
+    "stryker",
+    "Jeg stryker klær. Hun vasker vinduene.",
+    1789,
+    1806,
+    3.56,
+    1
+   ],
+   [
+    "dusjer",
+    "Jeg dusjer. Jeg pustser tennene.",
+    1687,
+    1698,
+    3.55,
+    1
+   ],
+   [
+    "skrivebordet",
+    "Han sitter ved skrivebordet. Han bruker PC.",
+    1832,
+    1847,
+    3.51,
+    1
+   ],
+   [
+    "melken",
+    "Hvor står melken? Har dere mer brød på lager?",
+    474,
+    488,
+    3.49,
+    1
+   ],
+   [
+    "kollegaene",
+    "Ja, kollegaene mine er hyggelige. Hvilken utdanning har du?",
+    844,
+    865,
+    3.48,
+    1
+   ],
+   [
+    "bretter",
+    "Jeg bretter klær. Jeg stryker klær.",
+    1781,
+    1797,
+    2.97,
+    1
+   ],
+   [
+    "tallerkner",
+    "Jeg setter tallerkner i oppvaskmaskinen. Jeg rydder kjøkkenet.",
+    1538,
+    1557,
+    2.14,
+    1
+   ]
+  ],
   "tx": "Hei. God dag. Hvordan går det? Det går bra, takk. Og med deg? Hva heter du? Jeg heter Thomas. Hvor kommer du fra? Jeg kommer fra Ukraina. Hvor bor du? Jeg bor i Oslo. Snakker du norsk? Jeg snakker bare litt norsk. Unnskyld, kan du gjenta det? Hyggelig å møte deg. Ha det bra. Jeg er fornøyd. Jeg er trøtt. Jeg er sliten. Jeg er litt stresset. Jeg er rolig. Jeg er syk i dag. Jeg har det bra. Jeg har det ikke så bra i dag. I dag. I morgen. I går. Hver dag. Hver uke. Det er lett. Det er vanskelig. Det er litt vanskelig. Det er ikke vanskelig. Det er ikke vanskelig. Jeg er klar. Jeg er ferdig. Jeg er ikke ferdig ennå. Vi kan prøve igjen. Bare hyggelig. Vær så snill. Vær så snill. Kan du hjelpe meg? Kan du hjelpe meg? Kan du vente litt? Ett øyeblikk. Et øyeblikk. Hva er klokka? Klokka er 10. Når står du opp? Når står du opp? Jeg står opp klok 7 hver dag. Hva skal du gjøre i dag? Jeg skal på norsk kurs. Når begynner du på jobb? Jeg begynner på jobb klok 8:00. Er du sulten? Ja, jeg vil gjerne spise lunsj. Hva liker du å gjøre i fritiden? Jeg liker å gå på tur. Skal vi møtes i morgen? Ja, det passer bra. Unnskyld, hvor finner jeg smør? Hvor står melken? Har dere mer brød på lager? Hva koster denne? Er denne på tilbud? Jeg finner ikke kaffe. Trenger du pose? Nei takk, jeg har med selv. Vil du ha kvitteringen? Nei takk, det er greit. Har du familie i Norge? Ja, jeg bor her med familien min. Har du barn? Jeg har to barn, en gutt og en jente. Har du søsken? Jeg har en bror og en søster. Hvor stor er leiligheten din? Jeg har en treromsleilighet. Trives du der du bor? Ja, det er et rolig nabolag. Hvem bor du sammen med? Jeg bor alene. Hva jobber du med? Jeg jobber som lærer. Hvor jobber du? Jeg jobber på en skole. Leter du etter jobb? Ja, jeg søker jobb nå. Har du jobb nå? Nei, jeg er arbeidsledig. Jobber du helid eller deltid? Jeg jobber heltid. Jeg jobber deltid. Når begynner du på jobb? Jeg begynner klok. Når slutter du på jobb? Jeg slutter klok 4. Trives du på jobben? Ja, jeg trives godt. Nei, jeg trives ikke så godt. Hvordan er jobben din? Jobben er interessant. Jobben er stressende. Har du gode kollegaer? Ja, kollegaene mine er hyggelige. Hvilken utdanning har du? Jeg har videregående skole. Jeg har utdanning fra universitetet. Jeg går på norsk kurs. Jeg går på norsk kurs hver dag. Jeg vil lære norsk for å få jobb. Jeg vil ha en bedre jobb. Norsk er viktig i jobben. Hva liker du å gjøre i helgene? Jeg liker å gå tur i skogen. Er du glad i å gå på ski? Ja. Jeg elsker å gå på ski om vinteren. Ja, jeg elsker å gå på ski om vinteren. Har du lyst til å bli med på kino? Ja, det vil jeg gjerne. Beklager, jeg er opptatt i kveld. Hva skal vi gjøre på lørdag? Skal vi ta en kaffe sammen? Jeg liker å lese bøker og høre på musikk. Hvor ofte trener du? Jeg trener to ganger i uka. Hvordan kom jeg meg til sentrum? Du kan ta buss nummer 10. Hvor er nærmeste bussholdet plass? Hvor er nærmeste buset plass? Den er rett ved siden av skolen. Må jeg bytte tog? Nei, det er et direkte tog. Hvor kan jeg kjøpe billett? Du kan kjøpe billett i appen. God tur. Hva betyr dette ordet? Kan du gjenta det? Kan du snakke litt saktere? Jeg forstår ikke. Jeg forstår litt. Jeg forstår nå. Hvordan staver man det? Kan du forklare en gang til? Kan du si det på en enklere måte? Hvilken side er vi på? Hvilken oppgave er dette? Hva er leksa til i morgen? Har vi lekser i dag? Kan du skrive det på tavla? Kan du skrive det igjen? Kan jeg ta et bilde av tavla? Er det noen spørsmål? Jeg har et spørsmål. Jeg har ikke et spørsmål. Åpne boka på side 10. Lukk boka. Les teksten høyt. Jobb 2 og 2. Hør og hjemta. Skriv setningen. Har alle gjort oppgavene? Jeg er inne. Jeg er i stua. Jeg er på kjøkkenet. Jeg er på badet. Jeg er på soverommet. Jeg lager mat. Jeg lager frokost. Jeg lager middag. Jeg spiser frokost. Jeg drikker kaffe. Jeg koker kaffe. Jeg vasker opp. Jeg setter tallerkner i oppvaskmaskinen. Jeg rydder kjøkkenet. Jeg tar ut søpla. Jeg setter mat i kjøleskapet. Jeg ser på TV. Jeg sitter i sofaen. Jeg slapper av. Jeg leser bok. Jeg hører på musikk. Jeg snakker med familien. Jeg bruker mobilen. Jeg sover. Jeg legger meg. Jeg står opp. Jeg rer opp senga. Jeg reer opp senga. Jeg hviler. Jeg skifter klær. Jeg dusjer. Jeg pustser tennene. Jeg vasker hendene. Jeg vasker ansiktet. Jeg går på toalettet. Jeg tørker meg med håndkle. Hun rydder huset. Han støvsuger. Hun vasker gulvet. Mamma vasker klær. Jeg henger opp klær. Jeg bretter klær. Jeg stryker klær. Hun vasker vinduene. Hun jobber hjemme. Broren studerer hjemme. Han gjør lekser. Han sitter ved skrivebordet. Han bruker PC. Han har møte på nett. Moren min lager kveldsmat. Hun slår av lyset. Jeg låser døra. Jeg ser litt på TV før jeg legger meg. Jeg legger meg tidlig. Jeg legger meg sent. Jeg er fornøyd. Jeg er trøtt. Jeg er sliten. Jeg er litt stresset. Jeg er rolig. Jeg er syk i dag. Jeg har det bra. Jeg har det ikke så bra i dag. I dag. I morgen. I går. Hver dag. Hver uke. Det er lett. Det er vanskelig. Det er litt vanskelig. Det er ikke vanskelig. Jeg er klar. Jeg er ferdig. Jeg er ikke ferdig ennå. Vi kan prøve igjen. Bare hyggelig. Vær så snill. Kan du hjelpe meg?",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0221
+  "src": "cc"
  },
  "Lydk9OipsQU": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:00:20+00:00",
+  "checked": "2026-11-22T03:58:13+00:00",
   "title": "Dating i Norge | Rolig Norsk",
   "duration": 1036,
   "published": "20251228",
@@ -19990,6 +21710,7 @@
   "pace": 140.2,
   "rare": 0.0223,
   "var": 0.7938,
+  "cl": 0.0662,
   "speech_s": 1015.4,
   "tokens": 2372,
   "kw": [
@@ -20130,64 +21851,170 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "skjer",
+    "skjer på en annen måte. >> Mm. Hva mener du?",
+    122,
+    130,
+    5.66,
+    7
+   ],
+   [
+    "først",
+    "for dating. Først spør man, vil du gå ut",
+    81,
+    89,
+    5.65,
+    7
+   ],
+   [
+    "personen",
+    "en date, men den andre personen bare",
+    347,
+    355,
+    4.77,
+    3
+   ],
+   [
+    "følte",
+    "følte seg nesten litt redd fordi det ble",
+    560,
+    567,
+    4.75,
+    3
+   ],
+   [
+    "romantisk",
+    "Men det er jo romantisk. Hva gjør",
+    147,
+    152,
+    4.18,
+    3
+   ],
+   [
+    "stillhet",
+    "I mange land betyr stillhet nei. Men i",
+    392,
+    399,
+    4.03,
+    2
+   ],
+   [
+    "nysgjerrige",
+    "ikke være nysgjerrige eller trenge oss",
+    436,
+    442,
+    3.58,
+    1
+   ],
+   [
+    "bestevenn",
+    "Du får ofte en bestevenn og en hel",
+    976,
+    982,
+    3.57,
+    1
+   ],
+   [
+    "dytt",
+    "Nordmenn trenger ofte bare en liten dytt",
+    942,
+    948,
+    2.92,
+    1
+   ],
+   [
+    "nøkkelordet",
+    ">> Tålmodighet. Ja, det er vel nøkkelordet",
+    846,
+    854,
+    2.86,
+    1
+   ],
+   [
+    "ullundertøy",
+    "på ullundertøy hvis dere skal på date i",
+    1005,
+    1010,
+    2.76,
+    1
+   ],
+   [
+    "følgte",
+    "hun følgte. Hun tenkte, \"Hvorfor spør",
+    448,
+    455,
+    2.42,
+    1
+   ],
+   [
+    "tvertimot",
+    ">> Nei, tvertimot. Hvis ting går sakte,",
+    897,
+    904,
+    2.38,
+    1
+   ]
+  ],
   "tx": "Hei alle sammen og velkommen til Rolig Norsk. >> Jeg heter Anne. >> Og jeg heter Jonas. >> Hei Jonas. Hvordan har du det i dag? >> Jeg har det bra. Hva med deg? >> Jeg har det også bra. Og jeg er litt spent i dag. >> Å ja. >> Ja. For i dag skal vi snakke om dating i Norge. >> Mhm. Det er et tema mange tenker på, >> spesielt når man er ny i landet. >> Ja. >> Jeg har hørt noe mange sier om dating i Norge. >> Mhm. >> At i Norge går man ikke på tre dater før man sover sammen. >> Nei. >> Man sover sammen tre ganger før man går på sin første date. >> Ja, det er det mange som sier. >> Stemmer … først. >> Ja, det er det mange forventer. >> Men i Norge kan noen oppleve at det skjer på en annen måte. >> Mm. Hva mener du? >> At man ikke alltid snakker så mye først, at de møtes og at de sover sammen ganske tidlig. at de liker ikke ting som er for formelle eller stive. >> En middag med levende lys kan føles som et jobbintervju for en nordmann. Det gir oss stress. >> Et jobbintervju? Men det er jo romantisk. Hva gjør nordmenn i stedet da? >> I Norge liker folk å henge. Det betyr å bare være sammen uten en plan. Ofte starter et forhold på en fest hos venner eller etter en kveld på byen. … vil ikke spørre for mye. >> Så man sier heller ingenting. >> Ofte ja. >> Men da kan den andre sitte igjen med mange spørsmål. Tror du det også handler om å være redd for å vise følelser? >> Ja, det tror jeg. >> På hvilken måte? Hvis man spør hva betyr dette, viser man at man bryr seg og det kan føles sårbart. Så ieden holder man litt avstand. >> Ja. Man venter og ser hva som skjer. >> Men ventingen kan være tung. >> Mhm. Spesielt hvis man ikke er vant til det. >> Og hvis språket ikke er helt på plass. >> Ja. Da er det enda vanskeligere å finne de riktige ordene. >> Men hvis de har sex med … man ikke forstår disse usynlige reglene. >> Ja, ærlighet er viktig her, men kommunikasjon i Norge er ikke alltid så lett, spesielt når man ikke snakker samme språk. >> Ja, vi kommer til å snakke mer om språk her, men jeg må spørre deg om noe viktig først. >> Mhm. M >> H skjer når to personer forventer helt forskjellige ting hvis jeg tror vi er på en date, men den andre personen bare tenker at vi henger hva gjør jeg da? >> Det er et veldig vanlig problem. Fordi nordmenn ofter ikke bruker ordet date blir alt uklart. Utlendinger er ofte flinke til å si hva de vil. De sier jeg liker deg. Jeg … med en gang. >> Stemmer. Vi er veldig opptat av å respektere privatlivet til folk. Vi vil ikke være nysgjerrige eller trenge oss på. Vi venter til den andre personen forteller ting selv. For noen utlendinger kan dette virke som om vi ikke bryr oss. Ja, det var akkurat det hun følgte. Hun tenkte, \"Hvorfor spør han ikke om moren min eller barndommen min?\" Men han prøvde kanskje bare å være høflig. >> Ja, nøyaktig. Og det samme gjelder tempoet. >> Nordmenn liker kanskje at ting sakte og naturlig. >> Ja. Vi hater å føle oss presset. Hvis du prøver å planlegge hele fremtiden etter to uker, … bordet og sa: \"Oi, har du feiret noe i dag?\" Nei, sa han virkelig det? Hun må ha blitt så utrolig skuffet. >> Ja, hun ble veldig lei seg. >> Hun trodde han ikke brydde seg. >> Ja, men for ham var det motsatt. Han tenkte, vi har jo bare møttes tre ganger. Hvorfor er det så formelt? Han følte seg nesten litt redd fordi det ble så mye for tidlig. I hans hode var de fortsatt i hengefasen. >> Det er akkurat det vi snakket om. For henne var det romantikk, for ham var det press. Det er utrolig hvordan vi kan se den samme kvelden på to helt forskjellige måter. >> Men det er viktig å si at det ikke … hytta hesten. Det har jeg hørt om. Hvis du blir invitert til en hytte uten strøm og vann, da er det alvorlig. >> Ja. Hvis en nordmann vil dele et lite trehus i fjellet med deg i tre dager, da er de virkelig interessert. Da føler de seg trygge på deg. I Norge er trygghet ofte viktigere enn lidenskap i starten. Når det føles lett og man kan være stille sammen uten at det er flaut, da vet du at du er på god vei. >> Det er en veldig fin tanke. Men vi må være ærlige Jonas. Noen ganger går det jo ikke bra. Og i Norge kan avvisning føles veldig rar hvis en person ikke vil møtes mer. Sier de det … å lese mellom linjene, men det fører oss til noe dypere. For man kan føle seg ganske ensom og liten i denne prosessen. >> Ja, det er sant. Og her kommer kanskje det viktigste poenget i dag. Hvem er man egentlig når man dater i et nytt land? >> Det har jeg tenkt mye på. Da jeg myttet hit følte jeg at jeg mistet litt av meg selv. Jeg er vanligvis en person som tar mye plass, snakker høyt og ler mye. Men her i Norge følte jeg at jeg måtte dempe meg selv for å passe inn. Jeg lurte på, liker de meg for den jeg er, eller liker de bare denne stille versjonen av meg. Det er en veldig vanlig følelse. … i mange år før man vet om det er seriøst? >> Kanskje ikke mange år, men man trenger mer tålmodighet her. enn i mange andre land. Et norskt forhold bygges stein for stein. Vi hopper ikke inn i store følelser med en gang. Vi vil være helt sikre på at vi passer sammen i hverdagen, i butikken, på tur og foran TV-en på en helt vanlig tirsdag. >> Så man må ikke miste håp selv om det ikke skjer noe dramatisk eller romantisk hver uke. >> Nei, tvertimot. Hvis ting går sakte, betyr det ofte at det er solid. I Norge sier vi gjerne at ting. Det gjelder også for å få en nordmann til å åpne hjertet … enn de er selv. >> Nettopp. Og når du først finner en norsk kjæreste, får du ikke bare en partner. Du får ofte en bestevenn og en hel familie. som tar deg med på hytta og lærer deg å elske brunost. >> Kanskje jeg hopper over brunosten, men hytta blir jeg gjerne med på. Takk for praten i dag, Jonas. Jeg har lært mye, selv om jeg har bodd her en stund. >> Takker Ligådde, Anne. Og til alle dere som lytter, lykke til med datingen. Vær tålmodige. Vær dere selv. Og husk å ta på ullundertøy hvis dere skal på date i marka. >> >> Veldig godt råd. Vi snakkes i neste episode. Ha det bra. >> Ha det bra.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0673
+  "src": "auto"
  },
  "_l6asQtvFZ8": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-16T23:00:31+00:00",
+  "checked": "2026-11-22T04:02:03+00:00",
   "title": "«Bare ta en Paracet»: Slik fungerer norsk helsevesen | B1-B2 Ep. 88",
   "duration": 1874,
   "published": "20261116",
   "spoken": "no",
   "spoken_v": 2,
-  "pace": 155.3,
-  "rare": 0.0552,
-  "var": 0.803,
-  "speech_s": 1874.7,
-  "tokens": 4852,
+  "pace": 155.0,
+  "rare": 0.051,
+  "var": 0.802,
+  "cl": 0.0611,
+  "speech_s": 1874.5,
+  "tokens": 4844,
   "kw": [
    [
     "hos",
-    "får du time hos fastlegen. Hun hører på",
-    10,
-    16,
+    "Endelig får du time hos fastlegen.",
+    9,
+    15,
     5.74,
     13
    ],
    [
     "land",
-    "andre land? Et ord som er viktig å kunne",
-    184,
-    190,
+    "kommer fra andre land? Et ord som er viktig å kunne her er",
+    183,
+    189,
     5.55,
     12
    ],
    [
-    "finnes",
-    "finnes en gammel vits om at nesten",
-    100,
-    106,
-    5.76,
-    10
-   ],
-   [
     "ofte",
-    "ofte syk og jeg tar sjelden noe",
-    158,
-    164,
+    "Jeg er heldigvis ikke ofte syk, og jeg",
+    157,
+    163,
     5.61,
     10
    ],
    [
+    "ord",
+    "helt vanlig ord, slik som Alvedon i",
+    88,
+    93,
+    5.39,
+    10
+   ],
+   [
     "lege",
-    "blir frustrerte når de skal til lege. På",
-    59,
-    66,
+    "lege. På nettsiden min waytonorway.com finner",
+    61,
+    69,
     4.76,
     13
    ],
@@ -20197,11 +22024,11 @@
     200,
     205,
     4.64,
-    11
+    13
    ],
    [
     "episoden",
-    "arbeidshfte til denne episoden. Der finner du også flere arbeidsfter og",
+    "et arbeidshefte til denne episoden. Der finner du også flere arbeidshefter",
     68,
     78,
     4.3,
@@ -20209,75 +22036,83 @@
    ],
    [
     "medisiner",
-    "medisiner eller smertestillende med mindre jeg er skikkelig dårlig. Men",
-    161,
-    168,
+    "tar sjelden noen medisiner eller smertestillende med mindre jeg er",
+    159,
+    166,
     4.25,
     6
    ],
    [
     "fastlegen",
-    "får du time hos fastlegen. Hun hører på",
-    10,
-    16,
+    "Endelig får du time hos fastlegen.",
+    9,
+    15,
     3.83,
-    14
+    29
    ],
    [
     "antibiotika",
-    "av dem må du ha resept på. Antibiotika",
-    852,
-    858,
+    "Antibiotika og P-piller for eksempel får",
+    855,
+    860,
     3.82,
     11
    ],
    [
+    "fastlege",
+    "deg fastlege? Du nikker, men du er ikke helt sikker på",
+    211,
+    217,
+    3.76,
+    8
+   ],
+   [
     "resept",
-    "andre responsen er en resept. I Norge er",
+    "Den andre responsen er en resept.",
     467,
-    474,
+    473,
     3.73,
     8
    ],
    [
-    "spesialist",
-    "til en spesialist eller på sykehus,",
-    308,
-    314,
-    3.85,
-    7
-   ],
-   [
     "legevakten",
-    "helsevesenet. om fastlegen, legevakten og egenandelen.",
+    "helsevesenet, om fastlegen, legevakten og egenandelen.",
     45,
     54,
     3.57,
     13
    ],
    [
+    "egenandel",
+    "Det du betaler selv kalles en egenandel.",
+    497,
+    504,
+    3.22,
+    5
+   ],
+   [
+    "fastleger",
+    "altså hos fastleger og på legevakter.",
+    1317,
+    1323,
+    3.52,
+    4
+   ],
+   [
     "svangerskapet",
-    "svangerskapet og autisme hos barn og sa",
-    1075,
-    1081,
+    "paracetamol i svangerskapet og autisme hos barn og sa at gravide bør gjøre alt",
+    1074,
+    1083,
     3.19,
     4
    ],
    [
-    "logikken",
-    "logikken bak dette? Og hvorfor føles det",
-    179,
-    185,
-    3.57,
-    3
-   ],
-   [
-    "frustrerte",
-    "blir frustrerte når de skal til lege. På",
-    59,
-    66,
-    3.51,
-    3
+    "paracetamol",
+    "Virkestoffet heter paracetamol, men i Norge har merkenavnet blitt et",
+    83,
+    92,
+    2.5,
+    12
    ],
    [
     "legekontoret",
@@ -20288,40 +22123,113 @@
     6
    ],
    [
-    "paracetamol",
-    "avhengig av paracetamol. Og det er",
-    149,
-    155,
-    2.5,
-    6
-   ],
-   [
     "frikort",
-    "202, får du frikort. Frikort betyr at du",
+    "av 2026 får du frikort. Frikort betyr at du slipper å betale",
     519,
-    526,
+    527,
     2.82,
-    3
+    4
    ],
    [
     "virkestoffet",
-    "Virkestoffet heter paraascetamol, men i Norge har merkenavnet blitt et helt",
+    "Virkestoffet heter paracetamol, men i Norge har merkenavnet blitt et",
     83,
-    93,
+    92,
     2.82,
     3
    ]
   ],
-  "tx": "Du har hatt feber og vondt i halsen i fem dager. Du har knapt sovet og du har vært borte fra jobben hele uka. Endelig får du time hos fastlegen. Hun hører på deg, kikker i halsen din og lytter på lungene dine. Så lener hun seg tilbake og sier, \"Dette er nok et virus. Hvil, drikk mye vann og ta parasett hvis du trenger det.\" Etter et kvarter står du ute på fortauet igjen med en kvittering på 179 kroner i hånda og en følelse av at du ikke ble tatt helt på alvor. Hei alle sammen og hjertelig velkommen til Way to Norway. Jeg heter og jeg jobber som norsk lærer. I dag skal vi snakke om det norske … fått deg fastlege? Du nikker, men du er ikke helt sikker på hva hun mener. Om kvelden logger du inn på Helsenorge og ser en lang liste med navn. Noen leger har ledige plasser. Veldig mange har fulle lister. I Norge går nesten alt gjennom fastleen. Ordningen ble innført i 2001 og tanken er veldig enkel. Alle skal ha en lege som kjenner dem over tid. En lege som vet hvilke sykdommer du har, hvilke medisiner du bruker og hvordan du har det generelt. Ikke en ny lege hver gang, men din lege. Alle som er registrert som bosatt i folkeregisteret har rett på en fast lege. Du kan velge legen selv og … blar i gamle blader. De fleste ser nok ned i telefonen. Så stikker legen hodet ut av døra og roper opp navnet ditt. Et vanlig legebesøk i Norge er ganske kort og ganske nøktern. En vanlig konsultasjon hos fastlegen varte i gjennomsnitt i 18 minutter i 2021. Og en fastlege har gjerne 15 til 16 slike konsultasjoner på en vanlig dag. Det er ikke mye tid. Derfor går legen ofte rett på sak. Hva feiler der? Hvor lenge har du hatt det sånn? Hvor gjør det vondt? Blir det verre når du gjør noe spesielt? kanskje lytter legen din på lungene dine, kjenne på magen din eller tar en rask blodprøve fra … får du 30 dager gratis lesing og lytting. En veldig viktig del av å bli god i norsk er å lytte masse og variert. Og Next Story er en perfekt måte å gjøre det på. Registrer deg nå få 30 dager gratis og se norsken din vokse kjempefort. Klokka er 2: natt til søndag. Du har kuttet deg skikkelig i hånda mens du skjærte opp brød og blodet vil ikke slutte å renne. Eller kanskje du har hatt høy feber hele kvelden og den bare stiger. Fastleggen har stengt til mandag. Hva gjør du da? er tre telefonnummeret det er lurt å kjenne til. Det første er 113. Det er nødnmeret for medisinsk hjelp. Og det bruker … og batteriene henger det små pakker med parasett og ebooks. Du tar en pakke og legger den på båndet. Ingen spør deg om noe. Ingen resept, ingen farmaseut. Det er like enkelt som å kjøpe sjokolade. I Norge kan du kjøpe noen få medisiner utenfor apoteket. Smertestillene som parasett og ibuks og noen typer allergimedisiner. De selges i matbutikker, kiosker og på bensinstasjoner. Alt annet må du kjøpe på apoteket og mye av dem må du ha resept på. Antibiotika og p-piller for eksempel får du ikke uten en lege. En som skulle flytte til Oslo fikk det forklart på en ganske treffende måte. … år siden. En gravid kvinne i Bergen har hatt hodepine i to dager. Hun har en pakkeparasett i skapet slik nesten alle i Norge har. Men så ser hun nyhetene. Den amerikanske presidenten står foran kameraene og sier at gravide bør holde seg unna paracetamol. Hun blir stående med pakken i hånda. Tør hun å ta en tablett? Og dette refererer til at den 22. I september 2025 sa Donald Trump at han trodde de hadde funnet et svar på autisme. Han pekte på en mulig sammenheng mellom paracetamol i svangerskapet og autisme hos barn og sa at gravide burde gjøre alt de kunne for å unngå medisinen. I USA heter … du sover dårlig og du har bestemt deg. Nå må du ha medisin. Du må ha antibiotika. Hjemme ville du ha fått det med en gang. Du forklarer fast legen hvordan du har det og ber om en kur. Leggen lytter på lungene og tar kanskje en rask blodprøve og sier så: \"Dette ser ut som et virus. Antibiotika virker ikke mot virus. Vi venter og ser. Kom tilbake hvis det ikke er bedre om noen dager. For mange som kommer fra andre land er dette øyeblikket der frustrasjonen virkelig tar fyr. Men det er også her logikken i det norske systemet er tydeligst. Antibiotika virker mot bakterier, ikke mot virus. … samme uke. Nå sitter hun hos fastleggen i Norge og ber om en henvisning. Leggen stiller spørsmål, kjenner på magen og sier at de skal se det an litt til. Hun går hjem med en følelse av at døren ble lukket foran henne. Forskeren Odne Åsland ved Oslo Met som jobber med prosjektet Exit Norway som vi snakket om har et ord for dette. Han kaller det kulturkrasj. To systemer, to forventninger og to ulike måter å tenke på helse møtes på det samme legekontoret. Mange av dem han har intervjuet opplever fastlegen som et portfokter som stenger veien til spesialister og medisiner de mener at de … ligger. For det er ikke bare utlendinger som klager på det norske helsevesenet. Nordmenn gjør det også. Vi klager på ventetid, på at det er vanskelig å få time og på at det har vært for få fastleger. Rundt 110 000 personer var uten fastlegge i mai 2026. Og forskerne bak Exit Norway peker på noe annet også. Mange nordmenn venter for lenge før de går til lege i det hele tatt. Så den høye terskelen er ikke bare noe legene har. Den sitter også i oss nordmenn. Samtidig er det mye som faktisk fungerer. Alle som bor i Norge har rett på en fastlege. Det du betaler selv har et tak. Og når du har … bytte mellom tekst og lyd når som helst, så det er lett å få til. Er du usikker på nivået, er bøker for barn og ungdom en perfekt start, og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenkene i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lyting og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn se måneder siden. Samtidig støtter du meg og Way to Norway og aller viktigst din egen norsk. Sjekk ut Next Story nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen. Det er bra for deg og for norsken din.",
+  "kx": [
+   [
+    "systemet",
+    "begge sider. Hvorfor fungerer systemet i",
+    174,
+    180,
+    4.89,
+    10
+   ],
+   [
+    "barn",
+    "Der hadde antallet barn og unge som ble",
+    906,
+    913,
+    5.74,
+    9
+   ],
+   [
+    "sammenheng",
+    "Han pekte på en mulig sammenheng mellom",
+    1072,
+    1078,
+    4.79,
+    5
+   ],
+   [
+    "medisin",
+    "Det er det stoffet i en medisin som",
+    188,
+    193,
+    4.66,
+    5
+   ],
+   [
+    "spesialist",
+    "Skal du til en spesialist eller på",
+    308,
+    312,
+    3.85,
+    7
+   ],
+   [
+    "helsevesenet",
+    "helsevesenet, om fastlegen, legevakten og egenandelen.",
+    45,
+    54,
+    4.12,
+    6
+   ],
+   [
+    "logikken",
+    "Hva er logikken bak dette? Og hvorfor",
+    179,
+    184,
+    3.57,
+    3
+   ],
+   [
+    "frustrerte",
+    "Norge blir frustrerte når de skal til",
+    58,
+    63,
+    3.51,
+    3
+   ],
+   [
+    "egenandeler",
+    "kroner i godkjente egenandeler i løpet",
+    517,
+    523,
+    2.2,
+    3
+   ],
+   [
+    "antibiotikaresistens",
+    "antibiotikaresistens. Hvis bakteriene blir resistente, slutter",
+    1300,
+    1308,
+    2.09,
+    3
+   ]
+  ],
+  "tx": "Du har hatt feber og vond i halsen i fem dager. Du har knapt sovet og du har vært borte fra jobben hele uka. Endelig får du time hos fastlegen. Hun hører på deg, sjekker i halsen din og lytter på lungene dine. Så lener hun seg tilbake og sier, dette er nok et virus. Hvil, drikk mye vann og ta Paracet hvis du trenger det. Etter et kvarter står du ute på Fortau igjen med en kvittering på 179 kroner i hånda og en følelse av å tygge ble tatt helt på alvor. Hei alle sammen og hjertelig velkommen til Way to Norway. Jeg heter Erlend og jeg jobber som norsklærer. I dag skal vi snakke om det norske … fått deg fastlege? Du nikker, men du er ikke helt sikker på hva hun mener. Om kvelden logger du inn på Helsenorge og ser en lang liste med navn. Noen leger har ledige plasser, veldig mange har fulle lister. I Norge går nesten alt gjennom fastlegen. Ordningen ble innført i 2001, og tanken er veldig enkel. Alle skal ha én lege som kjenner dem over tid. En lege som vet hvilke sykdommer du har, hvilke medisiner du bruker, og hvordan du har det generelt. Ikke en ny lege hver gang, men din lege. Alle som er registrert som bosatt i folkeregisteret har rett på en fastlege. Du kan velge legen selv og … blader, de fleste ser nok ned i telefonen. Så stikker legen hodet ut av døra og roper opp navnet ditt. Et vanlig legebesøk i Norge er ganske kort og ganske nøkternt. En vanlig konsultasjon hos fastlegen varte i gjennomsnitt i 18 minutter i 2021. Og en fastlege har gjerne 15 til 16 slike konsultasjoner på en vanlig dag. Det er ikke mye tid. Derfor går legen ofte rett på sak. Hva feiler det deg? Hvor lenge har du hatt det sånn? Hvor gjør det vondt? Blir det verre når du gjør noe spesielt? Kanskje lytter legen din på lungene dine, kjenner på magen din eller tar en rask blodprøve fra fingeren. … 30 dager gratis lesing og lytting. En veldig viktig del av å bli god i norsk er å lytte masse og variert, og Nextory er en perfekt måte å gjøre det på. Registrer deg nå og få 30 dager gratis og se norsken din vokse kjempefort. Klokken er 2 natt til søndag. Du har kuttet deg skikkelig i hånden mens du skar opp brød, og blodet vil ikke slutte å renne. Eller kanskje du har hatt høy feber hele kvelden, og den bare stiger. Fastlegen har stengt til mandag. Hva gjør du? Da er det tre telefonnumre det er lurt å kjenne til. Det første er 1 1 3. Det er nødnummeret for medisinsk hjelp, og det bruker … Rett ved siden av tyggegummien og batteriene henger det små pakker med Paracet og Ibux. Du tar en pakke og legger den på båndet. Ingen spør deg om noe, ingen resept, ingen farmasøyt. Det er like enkelt som å kjøpe sjokolade. I Norge kan du kjøpe noen få medisiner utenfor apoteket. Smertestillende som Paracet og Ibux og noen typer allergimedisiner. De selges i matbutikker, kiosker og på bensinstasjoner. Alt annet må du kjøpe på apotek, og mye av det må du ha resept på. Antibiotika og P-piller for eksempel får du ikke uten en lege. En som skulle flytte til Oslo, fikk det forklart på en ganske … er september 2025, bare et år siden. En gravid kvinne i Bergen har hatt hodepine i to dager. Hun har en pakke Paracet i skapet slik nesten alle i Norge har. Men så ser hun nyhetene. Den amerikanske presidenten står foran kameraene og sier at gravide bør holde seg unna paracetamol. Hun blir stående med pakken i hånda. Tør hun å ta en tablett? Og dette refererer til at den 22. september 2025 sa Donald Trump at han trodde de hadde funnet et svar på autisme. Han pekte på en mulig sammenheng mellom paracetamol i svangerskapet og autisme hos barn og sa at gravide bør gjøre alt de kunne for å … er sliten, du sover dårlig og du har bestemt deg. Nå må du ha medisin, du må ha antibiotika. Hjemme ville du ha fått det med én gang. Du forklarer fastlegen hvordan du har det og ber om en kur. Legen lytter på lungene og tar kanskje en rask blodprøve og sier så, dette ser ut som et virus. Antibiotika virker ikke mot virus, vi venter og ser. Kom tilbake hvis det ikke er bedre om noen dager. For mange som kommer fra andre land, er dette øyeblikket der frustrasjon virkelig tar fyr. Men det er også her logikken i det norske systemet er tydeligst. Antibiotika virker mot bakterier, ikke mot virus. … samme uke. Nå sitter hun hos fastlegen i Norge og ber om en henvisning. Legen stiller spørsmål, kjenner på magen og sier at de skal se det an litt til. Hun går hjem med en følelse av at døra blir lukket foran henne. Forskeren Oddne Åsland ved Oslo Met som jobber med prosjektet Exit Norway som vi snakket om har et ord for dette. Han kaller det et kulturkræsj. To systemer, to forventninger og to ulike måter å tenke på helse møtes på det samme legekontoret. Mange av dem han har intervjuet opplever fastlegen som et portvokter som stenger veien til spesialister og medisiner de mener at de … for det er ikke bare utlendinger som klager på det norske helsevesenet. Nordmenn gjør det også. Vi klager på ventetid, på at det er vanskelig å få time, og på at det har vært for få fastleger. Rundt 110 000 personer var uten fastlege i mai 2026. Og forskerne bak Exit Norway peker på noe annet også. Mange nordmenn venter for lenge før de går til lege i det hele tatt. Så den høye terskelen er ikke bare noe legene har. Den sitter også i oss nordmenn. Samtidig er det mye som faktisk fungerer. Alle som bor i Norge, har rett på en fastlege. Det du betaler selv, har et tak. Og når du har … mellom tekst og lyd når som helst, så det er lett å få til. Er Er usikker på nivået, er bøker for barn og ungdom en perfekt start, og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lytting, og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn seks måneder siden. Samtidig støtter du meg og Way to Norway, og aller viktigst din egen norsk. Sjekk ut Nextory nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen, det er bra for deg og for norsken din.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0468
+  "src": "auto"
  },
  "7iv1onRKMKM": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-16T23:01:06+00:00",
+  "checked": "2026-11-22T04:05:54+00:00",
   "title": "Playing football with my son (5) | Norwegian listening practice 🇳🇴 (with Norwegian subtitles)",
   "duration": 675,
   "published": "20261108",
@@ -20330,6 +22238,7 @@
   "pace": 109.7,
   "rare": 0.0465,
   "var": 0.6569,
+  "cl": 0.0376,
   "speech_s": 611.7,
   "tokens": 1118,
   "kw": [
@@ -20494,16 +22403,97 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "minutter",
+    "89 ... 88 minutter allerede. 88 minutter. Å, så triller den inn den",
+    531,
+    539,
+    5.28,
+    5
+   ],
+   [
+    "spille",
+    "Hei. Ok. Hei. Nå skal vi spille fotball her.",
+    6,
+    11,
+    5.24,
+    5
+   ],
+   [
+    "skudd",
+    "Og så skyter han. Det var bra skudd.",
+    506,
+    513,
+    4.46,
+    3
+   ],
+   [
+    "hel",
+    "Og så setter du den på hel volley med kneet. Eller var det",
+    455,
+    461,
+    4.78,
+    2
+   ],
+   [
+    "knuser",
+    "Se den feiringen! Det var bra mål! 3-0. Du knuser meg jo!",
+    151,
+    159,
+    3.91,
+    2
+   ],
+   [
+    "scoring",
+    "skyte. Han kan skyte og det er scoring! 1-0 til Fulham.",
+    67,
+    74,
+    3.73,
+    2
+   ],
+   [
+    "treninger",
+    "eller fire treninger og fem eller fire fotballtreninger?",
+    631,
+    637,
+    3.55,
+    1
+   ],
+   [
+    "bomme",
+    "ganger har han gjort det? Oi, oi, oi. Er det mulig å bomme der da? Er det mulig?",
+    170,
+    180,
+    3.46,
+    1
+   ],
+   [
+    "redusering",
+    "Å så er det et trøstemål. Trøstemål. Redusering",
+    223,
+    228,
+    2.74,
+    2
+   ],
+   [
+    "barbeint",
+    "Nei. Skal vi prøve barbeint eller?",
+    430,
+    438,
+    2.72,
+    2
+   ]
+  ],
   "tx": "Hei. Ok. Hei. Nå skal vi spille fotball her. Eh, vi skal ha en kamp. Hvilket lag er du? Hvem skal du være? Du er Fulham. Fulham. Det er der Oscar Bobb og Sander Berge spiller. To norske som spiller der. Hvilket lag skal jeg være, da? De som de spilte mot i går. De som Fullham spilte mot i går. West Ham var det. Skal jeg være West Ham? Ok, da er det Fulham - West Ham. Johannes her er Fulham. Jeg er West Ham. Kjør på. Du begynner med ballen. Her er Her kommer Fulham. Her kommer Oscar Bobb. Kan han prøve å gå? Kan han prøve å gå? Kom igjen. Prøv å drible meg. Prøv å drible. Klarer nesten å komme forbi der. Og så kommer han rundt, og så kan han skyte. Han kan skyte og det er scoring! 1-0 til Fulham. Var det Oscar Bobb som scorte? Ja. Så bra. Da er det avspark for West Ham. Gått selv! Gått selv. West Ham har jo også en norsk spiller, vet du. Edvin Austbø. skyter utenfor der. Så kommer han. Nå kan han komme. Kan han skyte? Kan han gjøre 2-0? Det er 2-0. Var veldig bra scoring. Uff. 2-0 til Fulham, da? Var det Oscar Bobb igjen eller? Hvem scorte? Nei, det var Sander Berge. Sander Berge som scorte var bra mål. Ok, avspark. Å, den går ut til innkast. Ut til innkast for Fulham Berge tar innkastet for Fulham. Og så går han, så går han rundt igjen. Han dribler og han setter 3-0. Se den feiringen! Se den feiringen! Det var bra mål! 3-0. Du knuser meg jo! Fulham knuser West Ham! Her da!? her da?! Å, så går han rundt igjen. Hvor mange ganger har han gjort det? Oi, oi, oi. Er det mulig å bomme der da? Er det mulig? Nei! Og så er det stang ut! Det er så nære! Å, nydelig mål! Rett i krysset fra langt hold! Langskudd i krysset. Hva er det? Hva er det? Hva er stillingen nå? 4-0 4-0 til Fulham? Ja. Redning! Og her da?! Kan han komme?! Setter den enkelt! Han setter den enkelt. Og det er 5-0. Nei. Eller drikkepause. Er det drikkepause? Det er etter den ballen her. Snart eller? Å så er det et trøstemål. Trøstemål. Redusering 5-1. 5-1 til pause da. Ja, Johannes. 5-1 til pause. Mye fine mål. Hvordan synes du første omgang var? bra Bra for dere. Hva er planen etter pausen? Skal dere prøve å score flere mål eller tette igjen bak? Jeg skal prøve å score mål og prøve å drible. og redde baller redde baller som keeper? Ja, god plan det fra Johannes her som leder 5-1 til pause. Du begynner med ballen. Ok, velkommen til denne andre omgangen mellom Fulham og West Ham. Er det jeg som begynner? Ja. Hva er stillingen? 5-1. 5-1 til Fulham? Jeg begynner derfra? Fulham er stor favoritt, for de leder 5-1. Hva sa du? Fulham er stor favoritt fordi de leder 5-1. Ja, det er derfor du la meg starte med ballen? Ja. Ok. Nei, fordi det var bare ... jeg begynner første omgang og du begynner andre. Ja. Ok. Mhm. Nei, og så er den også utenfor. Er det mulig? Han har jo bommet på så mange sjanser. Vil heller kontrollere dette. Ikke ta unødvendig risiko. Prøver å skyte der. Her da? Kan han skyte nå, da? Kan han skyte? Han gjør det. Stang inn. Stang inn. Og da er det 7-1. Nei, 61. 6-1. Og så går han rundt. Han finter seg rundt. Da må han sette denne, da! Han gjør det! Han gjør det! Det er 7-1! Se den feiringen. Se den feiringen. Kløner det bare til med ballen. Kløner det til for seg selv. Og nå kan han komme her. Å, det er bra. Det er bra gjort. Bra mål. Bra avslutning. Ah, så setter han den. Men du må være litt bedre! Hva sa du? Du vil at Være litt bedre! Du vil at jeg spiller bedre. Ja. Ok, jeg skal prøve å gjøre... Nå blir det veldig lett for meg! Jeg skal prøve å spille litt bedre. Å, jeg synes det er vanskelig å spille mot meg. Det er vanskelig å spille mot deg, så er det vanskelig å spille med sånn liten ball med de skoene her. Jeg kjenner ikke ballen. Deilig. Redusering. Hva er stillinga nå? 8-2. 8-2? Nei, 9-2! Nå blir det opphenting. Nei. Skal vi prøve barbeint eller? Skal vi prøve barbeint? Det tror jeg er lettere. Sånn. Så får vi litt frie elektroner som strømmer gjennom kroppen også. Ikke sant? Og så setter du den på hel volley med kneet. Eller var det med leggen? Var det på kneet? Du skjøt med kneet? Her. Med leggen? Ja. Det var bra gjort. Det var volley! Hæ? Det var volley. Ja. Volley. Hel volley. Å nei, det er jo en perfekt pasning da. Det skulle jo ikke være pasning, men så ble det perfekt pasning til deg. Perfekt løpeball. Ah, hva er det nå? Hva er det nå da? Eh, 10-2. 10-2. Ja. Og så skyter han. Det var bra skudd. Har du scoret derfra før? Nei. Nei. Jeg tror tror det er det lengste holdet du har skutt fra. Det var veldig bra skudd. Veldig bra. Ja da! 89 ... 88 minutter allerede. 88 minutter. Å, så triller den inn den også. Ok. 88 minutter. Hvor mye ... vet du hvor mye overtid det blir eller? Eh det blir pluss 6 minutter. Pluss 6 minutter. Og det er en veldig viktig kamp. Jeg vil prøve et skudd. Å så går han rundt nå og så skal Vil han skyte derfra. Han kan ikke skyte derfra?! Og så gjør han det. Du scorte derfra igjen. Du er god på langskudd ass. Du er god på langskudd. Du er ikke så god på langskudd. Jeg? Nei, i hvert fall ikke i dag. Siste aksjon nå. Dette blir det siste som skjer i kampen. Siste kan det bli nytt mål til Fulham. Eller blir det trøstemål ... og så kommer han rundt! Og så kommer han rundt og så setter han 14-3! 14-3! Det var bra kamp av deg. Veldig bra. Og vi må ha intervju etter kampen. Ta deg noe å drikke. Ja. Johannes. Fulham vant. Hva ble det til slutt? 14-3. 14-3 til Fulham. Ja. Hvordan er det mulig å vinne så mye? Jeg er veldig god. Ja, du er veldig god. Jeg har gått på mye. Jeg gått på fire-fem eller fire treninger og fem eller fire fotballtreninger? Ja. Og jeg trener veldig mye hjemme. Det gjør du. Og det er bare lett for meg. Lett for Johannes. Er det noe mer du vil si? Det var mange sjanser, og det var det var... alt i alt en bra match. Bra kamp. Ja. Ja. Bra. Vi takker for oss. Ha det. Ha det. Ha det.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0376
+  "src": "cc"
  },
  "nHyplvd70Do": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-16T23:01:34+00:00",
+  "checked": "2026-11-22T04:06:21+00:00",
   "title": "Mikroplast, PFAS og kjemikalier | Intermediate Norwegian listening practice 🇳🇴",
   "duration": 1953,
   "published": "20260422",
@@ -20512,6 +22502,7 @@
   "pace": 148.8,
   "rare": 0.0857,
   "var": 0.7611,
+  "cl": 0.0661,
   "speech_s": 1953.0,
   "tokens": 4844,
   "kw": [
@@ -20676,11 +22667,92 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "bruker",
+    "dessuten også i produkter som vi bruker",
+    123,
+    129,
+    5.65,
+    15
+   ],
+   [
+    "altså",
+    "oppstår når vanlig plastavfall. Altså plast som vi da kaster i søpla eller i",
+    98,
+    106,
+    5.52,
+    15
+   ],
+   [
+    "stoffer",
+    "helseskadelige stoffer. Og det er her",
+    256,
+    264,
+    4.39,
+    9
+   ],
+   [
+    "huden",
+    "inntil huden, ikke sant, 8 timer hver",
+    522,
+    527,
+    4.28,
+    9
+   ],
+   [
+    "materialer",
+    "oss med mye syntetiske materialer for",
+    229,
+    234,
+    4.02,
+    4
+   ],
+   [
+    "kaffen",
+    "eh inni, altså kaffen for eksempel ikke",
+    783,
+    789,
+    4.0,
+    4
+   ],
+   [
+    "kvitteringen",
+    "på kvitteringen, eh, de er ikke det",
+    1116,
+    1123,
+    3.08,
+    6
+   ],
+   [
+    "kvitteringer",
+    "å gjøre. Eh, og det er kvitteringer.",
+    1105,
+    1111,
+    3.14,
+    5
+   ],
+   [
+    "panner",
+    "denne typen panner helt, fordi sånne",
+    601,
+    606,
+    2.59,
+    4
+   ],
+   [
+    "absorberes",
+    "stoffene herfra kan absorberes gjennom huden. Spesielt hvis hendene dine er",
+    1151,
+    1159,
+    2.78,
+    3
+   ]
+  ],
   "tx": "Konsumerer du plast hver dag? Nei, tenker du kanskje. Men da vil jeg si at det tror jeg faktisk at du gjør. Jeg gjør også det. Jeg konsumerer også plast uten å vite det. Eh, men jeg prøver så godt jeg kan å minimere hvor mye plast jeg spiser og får i meg. Hvordan? Jo, det skal jeg fortelle deg i denne videoen. For i dag har jeg med meg 17 eksempler som jeg skal vise eh 17 kategorier på en måte eh på ting jeg har kuttet ut eller innført eller på en måte implementert i mitt liv for å redusere eksponeringen mot plast og generelt også eh potensielt helseskadelige kjemikalier generelt. Og jeg skal … studier der man har funnet mikroplast i blodet vårt, i lungene våre, i leveren og til og med i hjernen, så har man funnet mikroplastpartikler. Og det er fordi vi trolig får i oss tusenvis av sånne små partikler hvert år uten å merke det, uten å være klar over det. Og hva er problemet med det? Jo, det er at plast ofte inneholder helseskadelige stoffer. Og det er her forkortelsen PF S kommer inn. i bildet. PFAS, det er en stor gruppe med menneskeskapte kjemikalier. Eh, og PFS står for per og polyfluoralkylstoffer, vanskelig ord, men vi sier bare pfas. Ja, og det er da som sagt en gruppe … og og kjemikalier generelt. Jeg skal fortelle om hver eneste ting, men bare for å ha sagt det først som sist, jeg har masse å gå på. Eh, og hva betyr det? Jo, det betyr at jeg kan bli mye, mye bedre. Eh, jeg har masse å gå på. Eh, men kanskje jeg kan gi deg noen øyeåpnere i denne videoen og at du kanskje kan hente litt inspirasjon fra meg til hvordan det er mulig å leve da med litt mindre plast i hverdagen. Og selvfølgelig vil jeg at du skriver i kommentarene hvilke ting du personlig gjør på akkurat dette området. For jeg er også interessert i å få ideer fra deg hvis du har noen. Jeg … sånne bokser til oppbevare og opp og varme opp mat. Men det er viktig fordi før i tiden så pleide jeg faktisk å ta med mat i da jeg studerte på universitetet. Jeg pleide å ta det med i sånne plastbokser. Dette her er plast sånn tupperwar. Ehm og så prøvde jeg og så pleide jeg å eh varme det i mikrobølgoven i kantina. Men å varme opp mat i plast, som jeg nevnte, det gjør jeg absolutt aldri lenger. Ehm, fordi plast pluss varme, det er ikke bra eh hvis du skal spise noe derfra. Så jeg oppbevarer av og til mat i kjøleskapet i plast. Jeg tenker det er mindre problematisk, men eh hvis jeg skal … naturlig materiale som eh gute er det noe som heter. Og det er kanskje ikke like mykt som ull og bomull, men det er i hvert fall ikke helseskadelig eller miljøskadelig. Eh og det er budsjettvennlig for å si det sånn. Billig. Så jeg tror at tepper som man ofte går på, det kan være lurt å ha i naturlige materialer. Sjekk hvilke tepper du har hjemme. Videre har vi klær av polyester. Eh, en annen ting jeg har eh vært bevisst på i mange år allerede, det er jo nettopp det med klær. Eh at jeg da unngår å kjøpe nye klær. Det betyr ikke at jeg kaster de klærne jeg allerede har av polyester. Jeg har … Eh, som er akkurat den typen fisk mange av oss spiser, som for eksempel laks eller tunfisk eller torsk. Så tenk på det at når du putter flisgenseren din i vaskemaskinen, så putter du putter du flere kjemikalier i fisken i kjøleskapet ditt på den måten. Og så er det en annen ting som du kanskje ikke har tenkt på eh, men som du helt sikkert er i bef uka. Være i befyr at du på en måte gjør noe med det eller du tar på det eller snakker om det eller du har noe med det å gjøre. Eh, og det er kvitteringer. Kvitteringer. Nå skal jeg være veldig forsiktig her. Kvitteringer. Ehm, for de svarte … da regelmessig. Og derfor har jeg kuttet ut alle sånne syntetiske dufter eh hjemme. Og man kan jo da erstatte det med mer sånn naturlige eh alternativer som for eksempel sånne etiske oljer, essensielle oljer, eller bare ikke ha det i det hele tatt. Og hva med hvitt dopapir? Det er noe vi bruker hver eneste dag, de fleste av oss, uten å tenke så mye over det. Men det hvite toalettpapiret er ofte bleket med type blekemiddel for å få den rene hvite fargen som også kan være kilde til pfs. Eh og noen typer bleking. Det kan danne andre skadelige stoffer som heter dioksider. Og derfor så prøver … har eh, for eksempel da PFS for å gjøre dem vann og svetteav støttene. I tillegg til kjemiske UV-filter som noe som heter oksbenson eh ostinksat som absorberes gjennom huden og og som kan forstyrre hormonsystemet. Og noen solkremer inneholder også nanopartikler eller mikroplast som kan havne i havet og skade korallrev for eksempel og marine dyr når vi bader. Eh, jeg skal ikke gå inn i den solkremdebatten. Jeg skal være forsiktig med det i denne videoen, for jeg mener jo også det at det er veldig viktig å ikke bli solbrent. Det er jo det viktigste. Eh, men jeg tenker at det kanskje også … av plast. Så jeg vet ikke eh er det en er det et problem? Hvor mye hvor stort er dette problemet? Jeg vet ikke. Ehm jeg kan ikke si jeg har funnet en god erstatning med noen termo som ikke har plastkork. Jeg vet ikke. Men si ifra hvis du vet om noe alternativ dersom dette faktisk er problematisk. Og til slutt vil jeg nevne såper, vaskemidler og oppvaskmidler. Spesielt til oppvaskmaskin for eksempel. For i min familie pleier vi å velge eh sånn skånsomme eller økologiske varianter som er tilpasset allergikere. Men det kan jo også i disse være helseskadelige kjemikalier som vi ender opp med å … man kanskje har brukt i fortiden og ieden se framover og tenke på at i fremtiden så skal jeg være mer bevisst på alt jeg kjøper. Ehm, og da å ha den innstillingen eh det er på en måte noe jeg anser som en slags livsstil. Så nå håper jeg du har fått øynene opp for noen elementer i din hverdag og at du har lært noen nye ord og uttrykk knyttet til vår kjemiske hverdag. Abonner på kanalen hvis du likte denne videoen. Og så kan du trykke på denne spillelisten her eh hvis du vil ha mer lyttetrening på norsk om temaer som jeg synes er veldig interessante og kanskje du synes er interessante også.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0624
+  "src": "auto"
  },
  "DfsrvXWf5m4": {
   "channel": "Norwegian Connect",
@@ -38233,8 +40305,8 @@
  "zQse_tDOmww": {
   "channel": "Norwegian with Ilys",
   "lang": "no",
-  "checked": "2026-11-19T03:29:54+00:00",
-  "title": "How moving to Norway changed my work-life balance (as a French freelancer)",
+  "checked": "2026-11-22T03:39:51+00:00",
+  "title": "How moving to Norway changed my work-life balance I Norsk podkast",
   "duration": 1299,
   "published": "20261116",
   "spoken": "no",
@@ -38242,6 +40314,7 @@
   "pace": 147.6,
   "rare": 0.0069,
   "var": 0.6916,
+  "cl": 0.0832,
   "speech_s": 1299.7,
   "tokens": 3198,
   "kw": [
@@ -38382,16 +40455,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "tenke",
+    "Jeg kan tenke på jobb fordi jeg synes",
+    627,
+    634,
+    5.41,
+    15
+   ],
+   [
+    "jobb",
+    "Jeg skal snakke om balansen mellom jobb",
+    71,
+    78,
+    5.56,
+    13
+   ],
+   [
+    "halvparten",
+    "Og når jeg plutselig må jobbe halvparten",
+    735,
+    740,
+    4.72,
+    3
+   ],
+   [
+    "vinteren",
+    "elsker vinteren. Fordi det er en årstid",
+    1272,
+    1279,
+    4.58,
+    3
+   ],
+   [
+    "episodene",
+    "interessant i disse episodene nå i den",
+    1169,
+    1177,
+    3.84,
+    3
+   ],
+   [
+    "viktigst",
+    "viktigst i livet. Og jeg tror at det er ganske annerledes",
+    95,
+    104,
+    4.16,
+    2
+   ],
+   [
+    "konsepter",
+    "konsepter som jeg tenker på, men jeg får",
+    674,
+    681,
+    3.54,
+    1
+   ],
+   [
+    "videoene",
+    "som liker videoene jeg lager. Så i teorien så kunne jeg ansette noen",
+    908,
+    916,
+    3.51,
+    1
+   ],
+   [
+    "rytme",
+    "ikke bygge et helt liv og en rytme og en",
+    762,
+    771,
+    3.5,
+    1
+   ],
+   [
+    "jackpot",
+    "så er det bare jackpot, hold på å si.",
+    28,
+    34,
+    3.48,
+    1
+   ],
+   [
+    "grenseløst",
+    "være grenseløst og veldig fort så kan",
+    57,
+    64,
+    2.87,
+    1
+   ],
+   [
+    "vibes",
+    "og dele positive vibes for å hjelpe dere",
+    1285,
+    1294,
+    2.63,
+    1
+   ],
+   [
+    "podcaster",
+    "Fordi jeg liker å høre på podcaster hvor",
+    1211,
+    1216,
+    2.62,
+    1
+   ]
+  ],
   "tx": "Jobben min er også en hobby for meg. Jeg elsker jobben min med hele mitt hjerte. Jeg synes det er fascinerende å jobbe med språk. Jeg synes det er så interessant. Jeg elsker å se og å vite at jeg hjelper folk. Det er den beste følelsen, og når jeg hjelper folk ved å gjøre noe som jeg elsker, så er det bare jackpot, hold på å si. Det er bare det er så bra det kan bli. Og det er eller kan være et problem. Fordi når man elsker å jobbe og når man har sin egen bedrift, når man er sin egen sjef og bestemmer selv hvor mye man skal jobbe og hvor mye man kan jobbe, så kan det veldig fort være … at til og med når barna går på skolen, så viser vi dem at skole er viktig, men det er ikke det viktigste. Det er mange andre ting som er viktige, typ å gå på tur og bygge et forhold til naturen eller å bruke tid med familien og dra på ferie. Alle disse tingene her er like viktige, hvis ikke viktigere enn skole og det man lærer på skolen. Mens i Frankrike så var skolen det som var viktigst i hele livet, og hvis du viste at du brukte mye tid på andre ting enn skole, så kunne lærerne være litt skeptiske og si til deg at du må fokusere litt mer på skolearbeid, at det er det som er viktig. Og … alle. Altså alle var borte. 16:30 var det ingen som satt på universitetet. Bortsett fra når det var ja, eksamensperioden, og da satt folk lengre fordi det var eksamen, men selv når vi måtte levere oppgaver og sånn, så sluttet folk å jobbe rundt fire. Og for meg så var det veldig rart. Jeg skjønte ikke hvorfor folk ikke satt nesten hele døgnet rundt, for det var det jeg hadde blitt vant til. At du viser at du sitter på universitetet uansett hva du gjør, så sitter du der for å vise at du jobber. Og jeg husker at når jeg spurte dem, når jeg spurte kjæresten min for eksempel hvorfor han dro hjem … gjøre fordi jeg syntes det var koselig. Og han har alltid prøvd å få meg til å forstå at det er viktig å ha et balansert liv. Jeg har en sånn kreativ hjerne og jeg er ikke så glad i struktur, eller var ikke så glad i struktur. Nå har jeg begynt å elske det, men før så likte jeg ikke å ha en ramme. Jeg måtte bare gjøre hva jeg ville. Eh jeg handlet basert på hvordan jeg følte meg, og når jeg følte meg dårlig, så gjorde jeg ingenting. Når jeg følte meg bra, så gjorde jeg masse. Og det var sånn jeg trodde livet mitt kom til å være, fordi jeg følte at det var sånn jeg var. Og jeg hadde ikke … og jeg jobber der jeg bor. Og det kan være litt forvirrende for hjernen. Men det som har hjulpet meg har vært å bo sammen med noen som ikke er som meg. Jeg er som sagt veldig ivrig og pasjonert og jeg liker å jobbe veldig hardt og jeg kan synes det er vanskelig å begrense hvor mye jeg jobber eller hvor mye jeg er interessert i en ting, mens kjæresten min, han er ikke sånn. Han er veldig balansert. Han er norsk og han er veldig sånn typisk norsk. Og det har hjulpet meg å ha han, fordi nå bor jeg med han. Så på kvelden så har han lyst til at vi skal kunne finne på ting sammen og jeg har jo … lov. En annen ting som hjelper meg er å tenke på at en dag så kommer jeg til å få en familie, forhåpentligvis. Så kommer jeg en dag til å ha barn og til å ha et liv hvor det er andre ting som er veldig viktige for meg. Og når den tiden kommer, så må jeg kunne jobbe mindre. Og hvis jeg har blitt vant til å jobbe så mye, hvis jeg har blitt vant til å jobbe 50 timer hver uke og hvis lønnen min er basert på at jeg jobber 50 timer, så kommer jeg aldri til å klare å jobbe mindre, eller det kommer til å være vanskelig fordi jeg kommer til å ha blitt vant til å tjene pengene jeg trenger for å på … i livet mitt enn jobb, selv om jeg elsker jobben min. Jeg vil kunne være der for vennene mine, for familien min. Hvis det er noen som er syk i familien min, så vil jeg kunne være der for dem. Jeg vet at det er vanskelig. Det er vanskelige situasjoner. Alle vi som ikke bor i hjemlandet vårt, må ta valg. Og det er ikke lett for alle å der for familien sin, spesielt når vi ikke bor i samme land. Men jeg har en jobb som gjør at jeg kan dra tilbake, jeg kan være der, jeg kan jobbe derfra. Og hvis jobben min tar all energien min og hele livet mitt, så kan jeg ikke lenger ta disse beslutningene. … Hvis jeg jobber veldig mye og hvis jeg jobber i helgen og på kvelden, så kommer det til et punkt hvor jeg trenger en pause. Jeg orker ikke å jobbe mer. Jeg har null energi igjen og jeg må ja, ta en lang pause. Jeg klarer ikke å tenke og det er veldig ubehagelig. Mens når jeg prøver å begrense hvor mye jeg jobber og jeg prøver å ta det rolig og å si til meg selv, nei, det her kan du ikke gjøre i dag. Du har gjort nok. Nå er du ferdig. Når jeg begrenser meg selv på den måten, så får jeg mer lyst til å jobbe. Fordi jeg føler meg litt frustrert og jeg har lyst til å gjøre mer. Da gleder … være litt frustrerende å se hvordan folk er i Norge. Så jeg vil gjerne vite hva ehm dere synes om balansen mellom jobb og privatliv i Norge og hvordan det er for dere. Hvis dere ikke bor i Norge, så kan dere også gjerne fortelle meg eller fortelle oss hvordan det er der dere bor. Så ja, hvis dere ikke vil skrive det i kommentarfeltet, så kan dere tenke på det selv, altså hjemme, kanskje skrive det ned i en notatbok eller snakke om det med venner eller med dere selv. Det er veldig fint å snakke med seg selv for å bli bedre i språk. Så gjør hva du vil, skriv i kommentarfeltet, send meg en … Så jeg tror at podcasten kommer til å fortsette i veldig mange måneder og sikkert år. Så gjerne abonner hvis du har lyst til å høre på de neste episodene. Du kan like videoen, gi podcasten fem stjerner om du hører på Spotify. Og vi snakkes om to uker og om to uker skal jeg fortelle dere hvorfor jeg elsker vinteren. Fordi det er en årstid som veldig mange gruer seg til, men jeg elsker vinteren. Det er min favoritt årstid og jeg skal fortelle dere hvorfor og dele positive vibes for å hjelpe dere som ikke liker vinteren så godt. Så takk for at du hørte på og vi snakkes eller høres om to uker.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0805
+  "src": "auto"
  },
  "fnyzlHnxt6Y": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-20T05:37:07+00:00",
+  "checked": "2026-11-22T04:01:42+00:00",
   "title": "Hvorfor er det så vanskelig å bli kjent med nordmenn? | Norsk B1-B2",
   "duration": 481,
   "published": "20261119",
@@ -38515,6 +40693,136 @@
     268,
     2.59,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "handler",
+    "Det harde skallet handler ikke om at",
+    281,
+    286,
+    5.26,
+    4
+   ],
+   [
+    "lenge",
+    "De nordiske landene har lenge ligget",
+    95,
+    100,
+    5.69,
+    3
+   ],
+   [
+    "starten",
+    "tilliten i starten, men den steg opp",
+    155,
+    161,
+    4.75,
+    2
+   ],
+   [
+    "stole",
+    "likt, at man kan stole på hverandre",
+    202,
+    208,
+    4.65,
+    2
+   ],
+   [
+    "lytt",
+    "Les et kapittel først og lytt til det",
+    423,
+    429,
+    3.69,
+    2
+   ],
+   [
+    "stabil",
+    "men at den over tid er stabil og",
+    148,
+    154,
+    4.18,
+    1
+   ],
+   [
+    "velferdsstaten",
+    "velferdsstaten. Nordmenn betaler mye skatt og i bytte",
+    163,
+    171,
+    3.59,
+    1
+   ],
+   [
+    "lunsjen",
+    "smiler, de sier hei, og i lunsjen prater",
+    225,
+    230,
+    3.57,
+    1
+   ],
+   [
+    "rettsvesenet",
+    "politiet og deretter til rettsvesenet. Og folk som stoler på andre deltar også",
+    107,
+    116,
+    3.57,
+    1
+   ],
+   [
+    "korps",
+    "Et idrettslag, et kor, et korps, en",
+    333,
+    338,
+    3.56,
+    1
+   ],
+   [
+    "kriser",
+    "tilliten i Norge svinger med kriser,",
+    144,
+    151,
+    3.55,
+    1
+   ],
+   [
+    "sikkerhetsnett",
+    "og et sikkerhetsnett hvis man blir syk",
+    170,
+    175,
+    2.9,
+    1
+   ],
+   [
+    "motstandsdyktig",
+    "motstandsdyktig. Den kommer tilbake. Under pandemien for eksempel falt",
+    150,
+    159,
+    2.82,
+    1
+   ],
+   [
+    "tolerante",
+    "tolerante. Men tillit er ikke noe som helt stille.",
+    115,
+    124,
+    2.8,
+    1
+   ],
+   [
+    "sirklene",
+    "dine sosiale sirklene og at mange føler",
+    365,
+    372,
+    2.76,
+    1
+   ],
+   [
+    "fordom",
+    "er bare en fordom at vi er kalde.",
+    361,
+    366,
+    2.74,
+    1
    ]
   ],
   "tx": "Men selv i et land med så mye mangfold finnes det noen verdier som mange deler. Du har vært på et møte med den på den nye jobben din. Sjefen din sitter ved det samme bordet som alle andre, spiser den samme matpakken og blir kalt ved fornavn. Etter møtet ser du at noen har satt fra seg en lommebok på et bord i kantina. Ingen tar den. Neste morgen ligger den der fortsatt eller den er levert i resepsjonen. Og disse små øyeblikkene de sier mye av eller sier mye om to av de viktigste verdiene i Norge, likhet og tillit. Så la oss starte med likhet. I norske eh eller i på norske arbeidsplasser er … at alle får si sin mening før det tas en beslutning. Det henger sammen med en gammel tanke om at ingen skal sette seg over andre. Og den tanken har til og med fått et eget navn, Janteloven. Og det var forfatteren Aksel Sandemose som skrev om den i en roman fra 1933. Den første regelen av Janteloven er du skal ikke tro at du er noe. Mange mener at Janteloven har gjort nordmenn beskjedne og lite glade i å skryte. Andre mener at den gjør det vanskelig å skille seg ut og mange unge sier at den ikke betyr så mye lenger. Debatten om Janteloven er nesten like norsk som Janteloven selv. Også er … folk stoler på hverandre og på myndighetene. Den europeiske samfunnsundersøkelsen viser at nordmenn har størst tillit til politiet og deretter til rettsvesenet. Og folk som stoler på andre deltar også mer i samfunnet og er generelt mer tolerante. Men tillit er ikke noe som helt stille. Ifølge OECD falt tilliten til myndighetene i Norge fra 64 % i 2021 til 48 % i 2023 blant annet på grunn av høyere priser, renter og politiske skandaler. Likevel har en forsker ved Universitetet i Stavanger, Lisbet Fjæran, sett på data over 20 år. Hun fant at tilliten i Norge svinger med kriser, men at den over … i starten, men den steg opp igjen med én gang myndighetene satte inn tiltak. Så tilliten henger tett sammen med velferdsstaten. Nordmenn betaler mye skatt og i bytte får alle tilgang til skole, helsevesen og et sikkerhetsnett hvis man blir syk eller mister jobben. Mange kaller det et spleiselag der alle bidrar til noe felles. Og en stor del av grunnlaget for den rikdommen kom etter 1969 da det ble funnet olje i Nordsjøen. Mye av inntektene er satt av i et eget fond, oljefondet, for fremtidige generasjoner. Og for meg er dette mye av grunnen til at jeg er så glad i Norge. Landet står for … fellesskapet skal ta vare på de som trenger det. Et ord som er viktig å kunne her, er ordet tillit. Og tillit betyr å stole på noen eller noe. Men hvordan er nordmenn egentlig å bli kjent med? For eksempel, du har bodd i Norge i et halvt år. Kollegaene dine er veldig hyggelige. De smiler, de sier hei, og i lunsjen prater dere om været og om helgen. Men når fredagen kommer, går alle hjem til sine egne. Ingen inviterer deg med, og én dag tenker du, har jeg egentlig noen venner her? Og dette er kanskje den vanligste utfordringen for folk som flytter til Ikke klimaet, ikke språket, men følelsen … selv om alle de møter er høflige. En måte å forstå dette på er et bilde som mange kulturfolkere bruker, fersken og kokosnøtt. I noen kulturer er folk som en fersken. De er myke utenpå, åpne og vennlige med fremmede med en gang, men det kan være vanskeligere å komme helt inn til kjernen. Nordmenn er med som en kokosnøtt. Skallet er hardt, det tar tid å komme gjennom, men når du først er inne er det mykt og vennskapene varer ofte veldig lenge. Det harde skallet handler ikke om at nordmenn er kalde. Det handler mer om at mange ikke vil trenge seg på. Nordmenn småprater seldom med fremmede og … ment som hensyn. Samtidig er nordmenn ganske direkte når de først snakker og de sier gjerne det de mener uten så mye pynt. Et annet poeng er at mange nordmenn har hatt de samme vennene lenge, ofte fra skolen, fra idretten eller fra studietiden. Vennekretsene er etablerte og det er ikke alltid så lett å komme inn i dem som voksen. Det gjelder for resten ikke bare utlendinger. Mange nordmenn som flytter til en ny by opplever det samme og derfor er det ofte gjennom faste aktiviteter at det løsner. I Norge skjer mye av det sosiale livet i lag og foreninger. Et idrettslag, et kor, et korps, en … Samtalen kommer av seg selv og det føles mindre som om man trenger seg på. Selv tror jeg at mange blir litt stresset når de kommer hit. De har hørt at nordmenn er kalde og lukket det og de første månedene ser ut til å bekrefte det. Men etter en stund oppdager de fleste at nordmenn faktisk er ganske sosiale. Det er bare en fordom at vi er kalde. Utfordringen er at det tar tid å inn i dine sosiale sirklene og at mange føler seg ensomme mens de venter. Hvis du kjenner deg igjen i dette er det verdt å vite at du ikke er alene og at det som regel absolutt ikke handler om deg. Det handler om tid … å komme for nær eller ta for mye plass hos noen som ikke er bedt om å få det. Mange nordmenn er redde for nettopp dette. Og når vi nordmenn først samles er det ofte rundt noen ganske bestemte tradisjoner. Det er 17. mai. Jeg vil bare kjapt fortelle deg litt om Nextory som er min betalte partner i denne episoden. Nextory er en app der du kan lytte til lydbøker og lese e-bøker og utvalget av norske bøker er kjempestort. Et tips fra meg som norsklærer er å finne en bok som finnes både som e-bok og lydbok. Les et kapittel først og lytt til det samme kapittelet etterpå. Da ser du ordene og hører … du bytte mellom tekst og lyd når som helst så det er lett å få til. Er du usikker på nivået er bøker for barn og ungdom en perfekt start og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lytting og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn seks måneder siden. Samtidig støtter du meg og Way to Norway og aller viktigst din egen norsk. Sjekk ut Nextory nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen. Det er bra for deg og for norsken din.",

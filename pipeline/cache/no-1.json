@@ -2,7 +2,7 @@
  "Cywe5xSX0oM": {
   "channel": "Comprehensible Norwegian",
   "lang": "no",
-  "checked": "2026-11-11T22:39:10+00:00",
+  "checked": "2026-11-22T03:03:48+00:00",
   "title": "Norwegian listening comprehension (with a quiz)- på stranda - Enkel norsk - lær ord med bilder",
   "duration": 215,
   "published": "20250626",
@@ -11,6 +11,7 @@
   "pace": 105.9,
   "rare": 0.0691,
   "var": 0.7121,
+  "cl": 0.0249,
   "speech_s": 205.0,
   "tokens": 362,
   "kw": [
@@ -111,11 +112,148 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "land",
+    "jeg tror ikke det er i Norge jeg tror det er i et annet land et lang lenger sør",
+    168,
+    177,
+    5.55,
+    2
+   ],
+   [
+    "holder",
+    "De holder hverandre i hendene, eller 'holder hender' kan vi si. Begge spiser is.",
+    108,
+    117,
+    5.42,
+    2
+   ],
+   [
+    "dama",
+    "Dama har en litt annen type is.",
+    134,
+    140,
+    4.46,
+    2
+   ],
+   [
+    "sola",
+    "Hun har også med seg solkrem, veldig viktig for å beskytte seg mot sola.",
+    47,
+    55,
+    4.46,
+    2
+   ],
+   [
+    "sjø",
+    "Vi ser en strand på bildet. Vi ser sjø og personer som bader i sjøen og så ser",
+    7,
+    18,
+    4.17,
+    1
+   ],
+   [
+    "skinner",
+    "Det ser ut som det er en varm dag Sola skinner, det er noen palmetrær her så",
+    162,
+    169,
+    4.12,
+    1
+   ],
+   [
+    "mora",
+    "Kanskje det er gutten sin. Kanskje det er mora til gutten som",
+    65,
+    72,
+    4.08,
+    1
+   ],
+   [
+    "stranda",
+    "vi ei sandstrand. Det er sand på stranda. Mye sand.",
+    17,
+    24,
+    3.95,
+    1
+   ],
+   [
+    "bader",
+    "Vi ser en strand på bildet. Vi ser sjø og personer som bader i sjøen og så ser",
+    7,
+    18,
+    3.51,
+    1
+   ],
+   [
+    "bikini",
+    "Den ene jenta har på seg badedrakt, rød badedrakt, den andre har bikini.",
+    86,
+    99,
+    3.51,
+    1
+   ],
+   [
+    "sitron",
+    "Han har sjokolade og jordbær og kanskje sitron eller vanilje, og han har en iskjeks",
+    123,
+    134,
+    3.39,
+    1
+   ],
+   [
+    "volleyball",
+    "badeball eller kanskje det en volleyball eller noe sånt",
+    59,
+    66,
+    3.37,
+    1
+   ],
+   [
+    "seilbåt",
+    "seilbåt ute på sjøen Skal du reise i sommer skal du reise",
+    195,
+    205,
+    3.27,
+    1
+   ],
+   [
+    "sandstrand",
+    "vi ei sandstrand. Det er sand på stranda. Mye sand.",
+    17,
+    24,
+    2.89,
+    1
+   ],
+   [
+    "hestehale",
+    "Denne jenta har håret i hestehale. Den andre har løst hår. På stranden ser vi to personer som går en tur.",
+    98,
+    109,
+    2.64,
+    1
+   ],
+   [
+    "øreringer",
+    "kjole, en sommerkjole eller strandkjole. Hun har også store øreringer i ørene sine",
+    154,
+    163,
+    2.45,
+    1
+   ],
+   [
+    "palmetrær",
+    "Det ser ut som det er en varm dag Sola skinner, det er noen palmetrær her så",
+    162,
+    169,
+    2.19,
+    1
+   ]
+  ],
   "tx": "hei, her kommer et sommerbilde. Hva ser vi på bildet? Vi ser en strand på bildet. Vi ser sjø og personer som bader i sjøen og så ser vi ei sandstrand. Det er sand på stranda. Mye sand. vi ser en liten gutt som leker i sanden han lager et sandslott. Han har ei bøtte og en liten sandhaug, en haug med sand. Han har på seg badeshorts. Vi ser også ei dame som sitter i en solseng. Hun leser en bok. Hun har også med seg solkrem, veldig viktig for å beskytte seg mot sola. Hun har en solkrem som står der. Her ligger også en ball. badeball eller kanskje det en volleyball eller noe sånt Kanskje det er gutten sin. Kanskje det er mora til gutten som sitter i solsenga og gutten sitter på sanden. Vi ser to personer i sjøen. Det er to damer. De kaster ball til hverandre. Den ene jenta har på seg badedrakt, rød badedrakt, den andre har bikini. Denne jenta har håret i hestehale. Den andre har løst hår. På stranden ser vi to personer som går en tur. De holder hverandre i hendene, eller 'holder hender' kan vi si. Begge spiser is. Jeg tror at han har tre forskjellige smaker på isen. Han har sjokolade og jordbær og kanskje sitron eller vanilje, og han har en iskjeks Dama har en litt annen type is. har også tre forskjellige smaker på isen hun har på seg en hatt og solbriller. Mannen har også solbriller. Mannen har grønn badeshorts og dama har en kjole, en sommerkjole eller strandkjole. Hun har også store øreringer i ørene sine Det ser ut som det er en varm dag Sola skinner, det er noen palmetrær her så jeg tror ikke det er i Norge jeg tror det er i et annet land et lang lenger sør Typisk ferieland som nordmenn liker å reise til, kaller vi 'Syden' for eksempel Spania eller Hellas eller Tyrkia Noen av personene her har reist til Syden på feria vi ser også en liten seilbåt ute på sjøen Skal du reise i sommer skal du reise til et annet land eller skal du være hjemme?",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0249
+  "src": "cc"
  },
  "sg94RAyAMUE": {
   "channel": "Norwegian Input",
@@ -303,7 +441,7 @@
  "9vorGV03a5s": {
   "channel": "Simply Norsk",
   "lang": "no",
-  "checked": "2026-11-11T22:46:17+00:00",
+  "checked": "2026-11-22T03:33:12+00:00",
   "title": "Autumn hike in Norway | Dual Subtitles (Nor/Eng)",
   "duration": 1992,
   "published": "20261009",
@@ -312,6 +450,7 @@
   "pace": 119.5,
   "rare": 0.0596,
   "var": 0.7421,
+  "cl": 0.0423,
   "speech_s": 1828.2,
   "tokens": 3640,
   "kw": [
@@ -476,11 +615,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "fint",
+    "Det er utrolig fint her. Og høsten er",
+    187,
+    194,
+    5.5,
+    8
+   ],
+   [
+    "hjem",
+    "hjem og så kan vi bade litt.",
+    353,
+    359,
+    5.49,
+    8
+   ],
+   [
+    "løpe",
+    ">> Skal jeg løpe? >> Skal du springe?",
+    50,
+    55,
+    4.74,
+    4
+   ],
+   [
+    "bestille",
+    ">> Kan vi bestille helikopteret? ",
+    1654,
+    1663,
+    4.44,
+    4
+   ],
+   [
+    "kopp",
+    "kopp. Har du med en kopp?",
+    1072,
+    1079,
+    4.04,
+    3
+   ],
+   [
+    "bratt",
+    "300 kroner. Og det er bratt også.",
+    1794,
+    1801,
+    3.99,
+    3
+   ],
+   [
+    "springe",
+    ">> Skal du springe? >> Skal vi løpe hele turen?",
+    51,
+    57,
+    3.49,
+    2
+   ],
+   [
+    "stigning",
+    "Så nå er det ikke mye stigning igjen før",
+    317,
+    325,
+    3.42,
+    2
+   ],
+   [
+    "teltene",
+    "Så de teltene der, de går an å leie. Ja,",
+    573,
+    580,
+    2.86,
+    2
+   ],
+   [
+    "herifra",
+    "herifra? >> Nei,",
+    1460,
+    1463,
+    2.83,
+    2
+   ]
+  ],
   "tx": "Er du klar for å gå på tur da? God morgen. I dag så skinner solen. I hvert fall bak skyene en plass så skinnern solen. I dag så har vi kjørt hit og tanken er å gå den velkjente norske turen Trolltunga. >> Det er veldig sent på sesongen. I dag er vel siste dag hvor det er mulig å gå turen uten at man må ha med seg guide. Er du klar for tur si? Nesten. >> Nesten. Har du sovet godt i natt? >> Nei, kanskje 5 timer. >> 5 timer bare. >> Ja. Ja. >> Er det gå Er det nok det for å kunne gå trolltunger? >> Ja, det skal >> vi får se. >> Det skal holde. Hvor er du her? >> Skal jeg løpe? >> Skal du … bak. Så da hadde vi valget. Skal vi fortsette uten hanskene eller skal hun løpe tilbake og se om hun finner de? Så hun bestemte seg for å løpe tilbake og se om hun finner de. Skal vi se om vi ser hun her nede. Der er hun i hvert fall på vei opp igjen. Så jeg håper det betyr at hun har funnet hanskene sine. Jeg tror ikke at hun trenger de, men eh h skal jo være litt førv på fjellet. Hvert fall nå på høsten. Vejret kan skifte veldig fort. Fant du vottene? >> Ja. Tosi hiv >> der var en kaostytte >> kaos >> at kaostytte mutte en eh kaos paik >> skal vi fortsette på turen da >> ja >> fortsette å … ikke sant? >> Ja. >> Beste tursjokoladen er ikke kvikklunsj. Det er fruktnøtt. Melkesjokolade med nøtter og rosin. Den beste tursjokoladen som finnes. Da har vi litt sjokolade i magen og utsikten den blir jo bare bedre og bedre og bedre. Fantastisk. Godt nok få en finne. >> Ja, >> der titter solen fram. Endelig. >> Kjempebehagelig. Har du tatt på det solbrillet allerede du? Selvfølgelig. Raske brillene er på plass. >> I Norge så må man ha raske briller. Noe annet er ikke sosialt akseptabelt. Andreas. >> Ja. >> Må vi ta litt hjem? Vil >> du ta stein med hjem? >> Ja. >> Hvor skal vi ha den? … du ta bilde av meg? >> Ja. Ja. Ja. >> Da må jeg stille meg opp og smile. Fint. SM. Utsikten blir bare bedre og bedre jo lengre inn og hver vi kommer. Nå forsvant tåken også. Så da må man selvfølgelig ta den obligatoriske selfien. >> Slut. >> Vi nærmer oss nå cirka to ja og en halv kilometer igjen cirka. Nå er det ikke så lenge til vi burde kunne se den. En ting som er positivt når man er på Trolltunger, det er at det er rennende vann nesten overalt. Så når man skal gå trolltunger så er det ikke nødvendig å ta med alt for mye vann, for man har flere muligheter til å fylle flasken sin … >> Veldig fint. Er du sliten i beina? >> Nei. >> Nei, det er ikke så tungt å gå. Det er ganske overkommelig. Vanligvis på travlige dager så kan det være en time og vel så er det kø hvor det å komme seg ut på spissen der og ta bilde. Men jeg tror i dag så er det nok ikke nødvendig å vente så lenge. Tror nok i dag skal det være ganske overkommelig. Og vi må jo selvsagt ut og ta i hvert fall et bilde. Vi har jo gått hele veien hit, så da må vi være litt turister. Selv om jeg og er kanskje kvalifiserer som lokale. Det er lov å være turist i egen by av og til. S er på vei ut for å ta det berømte … Nå har vi en kopp. Da får vi bare dele dele på den ene koppen vi har med. Nå koker det endelig. Da får vi stenge gassen. Så får vi hellerle litt vann oppi koppen. Sånn. Gir det et lite minutt nå så er det der veldig god kakao. Vær så god. >> Varm kakao rett fra primussen. Smakte det godt? >> Kjempegodt. >> Kan jeg få en slurk? >> Slurk. >> Tusen takk. Ja, kjempegodt. Oi, det så ut som en god kombinasjon. Er det godt? >> Mhm. >> Skal jeg få smake? M kjempegodt. Da er vi fornøyd. Vi har spist lunsj, vi har drukket kakao, vi har fått tatt litt bilder. Og vi har my sett på utsikt >> og vi … vanskeligste, men det er ikke alltid de er helt nøyaktige. Jeg si. Vi må ta en pause snart. Jeg må ta av litt klær om et par minutter kanskje. >> Det er ofte ganske kaldt når man kommer frem og man har stått i ro litt. Så det er veldig viktig å ha med seg mye ekstra klær når man er på tur og heller litt mer enn man gjerne har behov for. Det er bedre å ha litt for mye klær med seg enn å ha med seg litt for lite. Men så fort man begynner å gå tilbake så får man veldig fort varmen tilbake i kroppen. Så nå har vi gått kanskje 500 meter. Det var ikke mer enn det skulle til før kroppen var så … er så veldig luksuriøse. Skal vi se hvordan det ser ut her da. Ne, det er ganske beskjedent. Det er ikke mer enn jeg må være. Jeg vet ikke hva det der er for noe. Swift. >> Hæ? >> Mhm. >> Ja. Her står det Taylor Swift med hjertet. >> Hun har vært der. >> Hæ? Hun har vært her. >> Jeg tror ikke Taylors har vært her. Mid >> kanskje. Jeg vet ikke hva det her er for noe. >> Hjelpeselte. >> Det var en gigantisk hjertestart her da. Lurer på hvem som har så stort hjerte. >> Mobilader. >> Det er veldig norsk. >> Det er jo praktisk da. Så kommer man hit og kan eh eh lade mobilen og ringe til hjelp. >> … så fort før. Så vi parkerte bilen her oppe. P3gely litt opp etterplassen. Og dersom du skal gå trolltung selv en dag, så vil jeg veldig sterkt anbefale at du parkerer her oppe. Det er selvfølgelig mulig å spare litt penger på å parkere lenger nede, men da er turen fra start til slutt 28 km lang og ikke 20. Og for noen så er det sikkert lett å tenke, ja ekstra, det blir en dagstur uansett. Men de 8 kilometerene ekstra, det er ikke 8 km i vakker norsk natur. Det er 8 km langs den asfalterte bilveien som vi ser der. 4 km opp, deretter 4 km tilbake. Så totalt så blir det 8 km lenger dersom … å heller betale litt mer og parkere helt oppe og spare 8 km og gå. Er du klar? >> Ja. >> Skal vi stikke hjem? Stikke hjem og bestille sushi og sauna? Det høres ut som en god ide. >> Perfekt. >> Nå kjører vi >> da. Stikker vi hjem. Da er det sushitid. Og vi bestiller selvfølgelig fra den lokale sushijappen. Det her skal bli utrolig digg. >> Dører åpnes. >> Så nå skal vi spise sushi og så skal vi ta turen til den lokale saunaen som vi går til. Og i morgen så er det en ny dag i Paradis. Så det var rett og slett alt for i dag. Takk for at du har sett på. Så ses vi i en ny video snart. Ha det bra.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0425
+  "src": "auto"
  },
  "SYczZEDHGrE": {
   "channel": "Level Up Norge",
@@ -17938,7 +18158,7 @@
  "yoUBwe2K1zc": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-16T22:59:07+00:00",
+  "checked": "2026-11-22T03:51:07+00:00",
   "title": "Lær norsk gjennom Halloween-dialoger! 👻 A2 B1 B2 | Norwegian Connect",
   "duration": 1490,
   "published": "20261102",
@@ -17947,6 +18167,7 @@
   "pace": 63.8,
   "rare": 0.0343,
   "var": 0.7961,
+  "cl": 0.0284,
   "speech_s": 1454.7,
   "tokens": 1547,
   "kw": [
@@ -18087,16 +18308,121 @@
     8
    ]
   ],
+  "kx": [
+   [
+    "pappa",
+    "Pappa, kan vi gå knask eller knep i kveld?",
+    28,
+    37,
+    4.97,
+    7
+   ],
+   [
+    "selvfølgelig",
+    "Ja, selvfølgelig! Men har dere gjort ferdig leksene først?",
+    36,
+    49,
+    5.29,
+    6
+   ],
+   [
+    "regner",
+    "Greit! Jeg håper bare at det ikke regner i morgen kveld.",
+    545,
+    556,
+    4.76,
+    3
+   ],
+   [
+    "rydde",
+    "Selvfølgelig. Men først må vi rydde litt på rommet ditt. Det ligger klær overalt!",
+    453,
+    468,
+    4.43,
+    3
+   ],
+   [
+    "tegne",
+    "Jeg kan hjelpe deg. Vi kan bruke litt hvit ansiktsmaling og tegne mørke ringer rundt øynene.",
+    172,
+    187,
+    4.17,
+    2
+   ],
+   [
+    "bestemor",
+    "Halloween-fest med bestemor Så fint at du kom på besøk! Hvorfor har du på deg den morsomme hatten?",
+    947,
+    964,
+    4.13,
+    2
+   ],
+   [
+    "kostymet",
+    "Men pappa, jakken passer ikke til kostymet mitt!",
+    74,
+    84,
+    3.29,
+    3
+   ],
+   [
+    "godteriet",
+    "Mamma, se på alt godteriet jeg har fått! Jeg har nesten en hel pose full!",
+    253,
+    266,
+    3.05,
+    3
+   ],
+   [
+    "godbiter",
+    "Ja, og de skal servere Halloween-kaker og andre godbiter.",
+    214,
+    226,
+    2.67,
+    1
+   ],
+   [
+    "spindelvev",
+    "Ja! Alle var så snille. Noen hadde til og med pyntet husene sine med spindelvev og skjeletter.",
+    278,
+    295,
+    2.48,
+    1
+   ],
+   [
+    "batteridrevet",
+    "Ja, vi bruker et batteridrevet lys. Det er tryggere enn et ekte stearinlys.",
+    636,
+    658,
+    2.44,
+    1
+   ],
+   [
+    "dekorasjonen",
+    "Da har vi lykkes med Halloween-dekorasjonen vår!",
+    692,
+    703,
+    2.37,
+    1
+   ],
+   [
+    "gresskaret",
+    "Greit! Kan vi sette et lys inni gresskaret etterpå?",
+    626,
+    637,
+    2.23,
+    1
+   ]
+  ],
   "tx": "God Halloween! Ha en skremmende fin kveld! I dag skal vi dykke inn i hyggelige og spennende Halloween-samtaler fra hverdagen, fulle av naturlige uttrykk og nyttige ord. Bli med og lær norsk på en morsom og engasjerende måte. La oss begynne! Kan vi gå knask eller knep? Pappa, kan vi gå knask eller knep i kveld? Ja, selvfølgelig! Men har dere gjort ferdig leksene først? Ja! Jeg gjorde dem ferdig etter skolen. Kan jeg ta på meg vampyrkostymet nå? Klart det. Men husk å ta på deg en varm jakke også. Det er ganske kaldt ute. Men pappa, jakken passer ikke til kostymet mitt! Haha! Du kan være en … noensinne! Halloween-festen på skolen Gleder du deg til Halloween-festen på skolen i morgen? Ja! Jeg har allerede bestemt meg for hva jeg skal kle meg ut som. Hva med deg? Jeg skal være et spøkelse! Men jeg vet ikke hvordan jeg skal sminke meg. Jeg kan hjelpe deg. Vi kan bruke litt hvit ansiktsmaling og tegne mørke ringer rundt øynene. Det høres perfekt ut! Tror du at jeg kan vinne kostymekonkurransen? Kanskje! Men det viktigste er at du har det gøy. Skal det være musikk og dans på festen også? Ja, og de skal servere Halloween-kaker og andre godbiter. Jeg gleder meg allerede! Jeg kommer … gøy mens du gikk knask eller knep? Ja! Alle var så snille. Noen hadde til og med pyntet husene sine med spindelvev og skjeletter. Det høres veldig spennende ut. Men tror du at du kan spise alt dette godteriet i kveld? Nei, det er altfor mye. Kan jeg spare litt til i morgen? Selvfølgelig. Du kan legge det i en boks og spise litt av det senere. Det er en god idé! Da har jeg noe å glede meg til i morgen også. Nettopp. Nå bør du skifte klær og gjøre deg klar for senga. God natt, mamma! Dette var en fantastisk Halloween! God natt, vennen min. Sov godt! Vi må gjøre oss klare til Halloween Mamma, … sett den? Jeg tror jeg la den i skapet på rommet ditt forrige uke. Har du sjekket der? Ja, jeg har lett overalt, men jeg finner den ikke. Kan du hjelpe meg med å lete? Selvfølgelig. Men først må vi rydde litt på rommet ditt. Det ligger klær overalt! Å, mamma! Jeg skulle rydde det i går, men jeg glemte det helt. Det går bra. Hvis vi rydder sammen, blir vi ferdige ganske fort. Se! Her er hatten! Den lå under alle klærne mine! Der ser du. Nå mangler vi bare kostymet og litt sminke. Kan vi lage sminken sammen i morgen? Jeg vil ha et grønt ansikt og svarte øyne. Det kan vi. Men nå må du rydde … skummelt gresskar i dag? Ja, det hadde vært kjempegøy! Vi må bare finne et stort og fint gresskar først. Jeg vil lage store øyne og en skummel munn. Kan jeg bruke kniven? Du kan tegne ansiktet, men jeg skal skjære ut delene. Kniven er veldig skarp. Greit! Kan vi sette et lys inni gresskaret etterpå? Ja, vi bruker et batteridrevet lys. Det er tryggere enn et ekte stearinlys. Se på det! Det ser jo kjempebra ut! Nesten som et ekte monster! Det ble veldig fint. Vi kan sette det utenfor døren når det blir mørkt. Jeg håper naboene våre blir redde når de ser det! Da har vi lykkes med … liten. Vi skal gå rundt i nabolaget med vennene mine. Jeg kan gå fort! Og jeg er ikke redd for monstre eller spøkelser. Er du sikker? Sist gang vi så en skummel film, sov du på rommet til mamma og pappa. Det var fordi filmen var veldig skummel! Men Halloween er annerledes. Jeg skal være en modig ninja. Haha, greit. Men du må høre på meg når vi er ute. Vi skal ikke gå for langt. Ja! Kan vi ta med hver vår godtepose? Selvfølgelig. Men du må love meg én ting. Hva da? Du må ikke spise alt godteriet før vi kommer hjem. Det lover jeg! Men kan jeg spise litt på veien? Vi får se. Nå må vi spørre … faktisk litt redd. Slapp av. Det er Halloween. Det er sikkert bare noen barn som vil ha godteri. Kan du åpne døren? Jeg vil ikke gå alene. Selvfølgelig. Bli med meg, så ser vi hvem det er. Å! Det er bare barna fra nabolaget! Nettopp! Og nå skal vi gi dem litt godteri. Knask eller knep! Haha! Nå er jeg ikke redd lenger! Halloween-fest med bestemor Så fint at du kom på besøk! Hvorfor har du på deg den morsomme hatten? Bestemor, det er Halloween! Vi skal ha en liten fest hjemme i kveld. Å ja, det hadde jeg nesten glemt. Feirer dere Halloween hvert år? Ja, nesten alltid. Vi pynter huset, lager … mat. Vi hadde ikke så mange kostymer. Det høres også veldig koselig ut. Vil du hjelpe oss med å lage Halloween-kaker? Gjerne! Men du må vise meg hvordan dere lager dem. Det kan jeg. Vi skal lage små kaker med sjokolade og pynte dem som spøkelser. Så morsomt! Kanskje jeg også skal kle meg ut i kveld. Ja! Du kan være en snill heks. Jeg skal finne et kostyme til deg. Da gleder jeg meg allerede. Dette blir en kveld jeg sent kommer til å glemme! Halloween ble ikke som planlagt Mamma, det regner så mye ute! Betyr det at vi ikke kan gå knask eller knep i kveld? Det ser dessverre sånn ut. … med kostymet mitt nå? Jeg ville vise det til alle vennene mine. Vi kan ringe noen av vennene dine og invitere dem hit. Da kan dere feire sammen hjemme. Kan vi virkelig det? Kan vi pynte stua og lage en liten fest? Selvfølgelig! Vi kan lage popcorn, sette på Halloween-musikk og leke noen morsomme leker. Det høres faktisk ganske gøy ut! Kanskje Halloween hjemme blir enda bedre. Nettopp. Noen ganger blir ting annerledes enn vi hadde planlagt, men det betyr ikke at vi ikke kan ha det hyggelig. Du har rett, mamma. Jeg skal ringe vennene mine med en gang! Flott! Og mens du gjør det, skal jeg … Høres spennende ut. Men er du sikker på at den ikke er altfor skummel? Ja, jeg tror det går bra. Jeg vil bare ikke se den alene. Det forstår jeg. Skal vi lage popcorn og finne noen tepper før vi begynner? Ja! Kan vi også slå av lyset? Da blir det mye mer spennende. Greit, men ikke klag hvis du blir redd etterpå. Haha, det skal jeg ikke! Men du må love å ikke skremme meg mens vi ser filmen. Jeg lover ingenting. Det er Halloween, vet du! Pappa! Nå angrer jeg nesten på at jeg spurte deg. Slapp av. Jeg skal oppføre meg pent. Skal vi begynne? Ja! Men vent litt. Jeg må hente puten min først.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0272
+  "src": "cc"
  },
  "h3slmsEeTGU": {
   "channel": "Mikael's Norwegian Lessons",
   "lang": "no",
-  "checked": "2026-11-16T22:59:26+00:00",
+  "checked": "2026-11-22T03:54:26+00:00",
   "title": "This Flower Lied to Me | Undertale in Norwegian #1",
   "duration": 905,
   "published": "20261114",
@@ -18105,6 +18431,7 @@
   "pace": 129.1,
   "rare": 0.0686,
   "var": 0.8123,
+  "cl": 0.0424,
   "speech_s": 569.3,
   "tokens": 1225,
   "kw": [
@@ -18253,11 +18580,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "vær",
+    "Ikke vær redd, jeg deler gjerne med deg",
+    249,
+    253,
+    5.28,
+    4
+   ],
+   [
+    "løse",
+    "Man må løse dem for å komme seg fra rom til rom",
+    395,
+    399,
+    4.87,
+    4
+   ],
+   [
+    "slåss",
+    "Du støtte på dukken. Så da kan vi slåss",
+    517,
+    524,
+    4.26,
+    3
+   ],
+   [
+    "hjertet",
+    "Ser du det hjertet? Det er sjelen din",
+    213,
+    217,
+    4.77,
+    2
+   ],
+   [
+    "monster",
+    "Når du møter et monster, havner du i en fight",
+    490,
+    495,
+    3.9,
+    2
+   ],
+   [
+    "stien",
+    "Hva er dette? 'Hold deg på stien'",
+    440,
+    443,
+    3.84,
+    2
+   ],
+   [
+    "gåter",
+    "Ruinene er fulle av gåter Eldgamle blandinger av distraksjoner og dørnøkler",
+    386,
+    395,
+    3.19,
+    3
+   ],
+   [
+    "mercy",
+    "Vi har ingenting. Mercy, Skån eller Flykt",
+    529,
+    536,
+    3.45,
+    2
+   ],
+   [
+    "søylen",
+    "Jeg sto bare bak denne søylen hele tiden",
+    765,
+    769,
+    2.88,
+    1
+   ],
+   [
+    "monstrene",
+    "De forseglet monstrene under jorden med en trylleformel",
+    18,
+    24,
+    2.86,
+    1
+   ],
+   [
+    "sagnet",
+    "Mount Ebbot 201X. Sagnet forteller at de som bestiger fjellet, aldri vender tilbake",
+    29,
+    40,
+    2.85,
+    1
+   ],
+   [
+    "blandinger",
+    "Eldgamle blandinger av distraksjoner og dørnøkler",
+    390,
+    395,
+    2.82,
+    1
+   ]
+  ],
   "tx": "For lenge siden styrte to raser over jorden, mennesker og monstre En dag brøt det ut krig mellom de to rasene Etter en lang kamp gikk menneskene seirende ut De forseglet monstrene under jorden med en trylleformel Mange år senere Mount Ebbot 201X. Sagnet forteller at de som bestiger fjellet, aldri vender tilbake Ja, hallo, alle sammen I dag skal vi spille litt Undertale Som du ser, så er all teksten på norsk Så det har vi klart å fikse Jeg har aldri spilt Undertale før Jeg har sett karakterene, og jeg har hørt om spillet Men jeg har ikke spilt selv, så det her kan bli morsomt Da klikker vi … det falne mennesket Så da må vi sette mitt navn M-I-K-A ... Ser ut som jeg tok en feil Slett. K A-E-L. Der er det korrekt Er dette navnet riktig? Ja! Så da lurer jeg på ... Har dere spilt Undertale før? Oi ... Vi ligger på noen gule blomster, ser det ut som Skal vi se ... Da går vi til høyre, ser det ut som Der er det enda en gul blomst Hei sann! Jeg er Flowey. Blomsten Flowey Hm ... Du er ny i undergrunnen, ikke sant? Jøss, du må være helt forvirret Noen burde lære deg hvordan ting fungerer her nede Da får vel lille meg ta meg av det Klar? Da kjører vi Ser du det hjertet? Det er sjelen din … hele ditt vesen Og vi kan styre hjertet. Flott! Sjelen din er svak til å begynne med Men den kan bli sterk hvis du får mye LV Level, tror jeg det står for Hva står LV for? Jo, LOVE, så klart. Ok ... Du vil vel ha litt LOVE, ikke? Ikke vær redd, jeg deler gjerne med deg Her nede deles LOVE gjennom små, hvite vennlighetskuler Er du klar? Beveg deg, så fang så mange ... Åh? Ok, han løy til oss. Din idiot I denne verden er det drep eller bli drept Hvorfor skulle noen la en slik mulighet gå fra seg? OK ... Det ... Nei For et fryktelig vesen, som plager en stakkars, uskyldig ungdom Å... ikke vær … er Toriel, vokter av ruinene Jeg går gjennom dette stedet hver dag for å se om noen har falt ned hit Du er det første mennesket som har kommet hit på lenge Kom, jeg skal lede deg gjennom katakombene Denne veien. Ok? Skal vi følge etter henne? Ser det ut som vi skal gå opp på høyre? Men hva er dette for noe? Det er noe som blinker foran meg Skyggen av ruinene ruver over deg og fyller deg med besluttsomhet HP - fylt helt opp. Ok, så kan vi velge å lagre Kanskje litt greit Skal vi følge etter her... Velkommen til ditt nye hjem, du uskyldige Tillat meg å lære deg hvordan ruinene fungerer … Eldgamle blandinger av distraksjoner og dørnøkler Man må løse dem for å komme seg fra rom til rom Prøv å venne deg til synet av dem Ok, jeg forstår. Hva skjer hvis jeg går og tråkker på de nå? Ingenting ... For å komme videre her, må du trykke på flere brytere Ikke bekymre deg, jeg har merket dem du må trykke på Men jeg har lyst til å lese det skiltet Trykk for å lese skilt. OK. Flott Hva er dette? 'Hold deg på stien' OK, så dette er en sti Og de ønsker at vi skal gå på stien Da fortsetter vi videre Som du ser på veggen der, så er det markert med mange piler Sånn, trykk på denne OK ... … Jeg er stolt av deg, lille venn La oss gå videre til neste rom Som menneske i undergrunnen kan du bli angrepet av monstre Du må være forberedt på en slik situasjon Men frykt ikke. Fremgangsmåten er enkel Når du møter et monster, havner du i en fight Altså fight er slåsskamp Mens du er i en fight, bør du innlede en vennlig samtale Prøv å vinne tid Jeg kommer for å løse konflikten Øv deg på å snakke med dukken. OK ... Du støtte på dukken. Så da kan vi slåss Kanskje snakke, tror jeg. Ting Vi har ingenting. Mercy, Skån eller Flykt OK, tror jeg vi kan prøve Skån Dukken ser ut som om den skal … ... gå tilbake? Flykt? Du løp din vei. Ærlig talt, det var ikke et dårlig valg Det er bedre å unngå konflikter når det er mulig Den der er derimot bare en dukke Den er helt ufarlig Den er laget av bomull Den har ikke noe ønske om hevn. Uansett Hold deg nær meg, så skal jeg passe på deg Ok, da følger vi henne Det er en gåte til i dette rommet Jeg lurer på om du klarer å løse den I dette rommet, i dette rommet, så er det en gåte. Hm ... Gåte i dette rommet? Klarer ikke se Mener de i neste rom? Oi! Froggit angriper deg? Så en faktisk kamp? Nei... kompliment Vi kan prøve å gi henne et … ikke hva du sa, men ble smigret likevel Du vant. Du fikk null XP og null gull. OK ... Rommet i vest er malen for rommet i øst. OK ... Så dette rommet skal se ut som et annet rom? Eller omvendt? Kan jeg ... Her er gåten Men her ... Ta hånden min et øyeblikk Skjønner... må gå samme vei Så ... Da er det ikke så lett å huske, kanskje Gåter virker litt for farlige foreløpig Du har klart deg utmerket så langt, mitt barn Men jeg må be deg om noe vanskelig Jeg vil gjerne at du går til enden av rommet på egen hånd Tilgi meg for dette Så, litt skummel musikk ... Jeg antar vi bare fortsetter til høyre … Er det evighetsrom? Nei Hallo, mitt barn. Ikke bekymre deg Jeg har ikke forlatt deg Jeg sto bare bak denne søylen hele tiden Takk for at du stolte på meg Men det var en viktig grunn til denne øvelsen Å teste hvor selvstendig du er Jeg har noen ærender å ta meg av Og du må være alene en stund Vennligst bli her Det er farlig å utforske på egen hånd Jeg har en idé. Jeg skal gi deg en mobil Hvis du trenger noe, er det bare å ringe Oppfør deg pent, ja? Så har vi fått en telefon, så vi kan ringe Rrring ... Hallo, det er Toriel Du har ikke forlatt rommet, har du? Det er noen gåter lenger fremme … ennå Det ville vært farlig å prøve å løse dem på egen hånd Vær flink, greit? Så her er det en frosk Kvekk, kvekk. Unnskyld, menneske Jeg har noen råd til deg om å kjempe mot monstre Hvis du bruker act, på en viss måte, eller fight, til de nesten er beseiret, vil de kanskje ikke slåss mot deg lenger Vil et monster ikke slåss, så vær så snill, bruk mercy, menneske. Kvekk Å knase lekent gjennom løvet fyller deg med besluttsomhet HP fylt helt opp. Lagre Flott. Da tenker jeg det var en veldig fin plass også stoppe episode én på Jeg håper du syns det her er gøy. Så ses vi i neste Ha det bra",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0421
+  "src": "cc"
  },
  "2AYLCR21U_U": {
   "channel": "Mikael's Norwegian Lessons",
@@ -18356,7 +18780,7 @@
  "XrQKz0BL0Ys": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T22:59:56+00:00",
+  "checked": "2026-11-22T03:57:50+00:00",
   "title": "500 norske setninger du trenger | Lær norsk A2–B1",
   "duration": 3720,
   "published": "20261103",
@@ -18365,6 +18789,7 @@
   "pace": 76.2,
   "rare": 0.0218,
   "var": 0.7397,
+  "cl": 0.0492,
   "speech_s": 2163.3,
   "tokens": 2746,
   "kw": [
@@ -18497,16 +18922,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "lenge",
+    "Vet du hvor lenge vi må vente?",
+    593,
+    603,
+    5.69,
+    9
+   ],
+   [
+    "lage",
+    "Hva skal du lage? Jeg tenkte å lage kylling med ris og grønnsaker.",
+    1221,
+    1240,
+    5.39,
+    9
+   ],
+   [
+    "lunsj",
+    "Kaffepause og lunsj. Vi er endelig ferdig med møte.",
+    1026,
+    1035,
+    4.53,
+    5
+   ],
+   [
+    "forresten",
+    "Har du forresten noen planer etter jobb i dag?",
+    1182,
+    1188,
+    4.78,
+    4
+   ],
+   [
+    "halvtime",
+    "Nei, jeg må være ute av døra omtrent en halvtime.",
+    137,
+    144,
+    3.96,
+    3
+   ],
+   [
+    "feber",
+    "Har du hatt feber? Ja, jeg hadde litt feber i går kveld.",
+    2093,
+    2108,
+    4.04,
+    2
+   ],
+   [
+    "kyllingen",
+    "Jeg mangler bare kyllingen. Den finner du i kjøledisken på den andre siden.",
+    1901,
+    1916,
+    3.59,
+    1
+   ],
+   [
+    "paprika",
+    "Jeg tenkte å kjøpe paprika, løk og brokkoli.",
+    1879,
+    1885,
+    3.52,
+    1
+   ],
+   [
+    "videoene",
+    "Du kan også se flere av videoene våre og øve videre.",
+    3708,
+    3713,
+    3.51,
+    1
+   ],
+   [
+    "hal",
+    "Flott. Da bestiller jeg bord til klok hal:30.",
+    3087,
+    3093,
+    3.48,
+    1
+   ],
+   [
+    "holdeplass",
+    "Da skal vi faktisk ha på samme holdeplass.",
+    732,
+    738,
+    2.98,
+    1
+   ],
+   [
+    "værmeldingen",
+    "Jeg sjekket værmeldingen tidligere i dag.",
+    3282,
+    3288,
+    2.9,
+    1
+   ],
+   [
+    "brødskiver",
+    "Jeg har et par brødskiver med ost og skinke.",
+    1328,
+    1334,
+    2.87,
+    1
+   ],
+   [
+    "holdeplassen",
+    "Det tar jo 5 minutter å gå til holdeplassen.",
+    502,
+    508,
+    2.85,
+    1
+   ]
+  ],
   "tx": "Lær norsk med 500 nyttige setninger. Hjemme, på jobb, med venner, i butikken, hos legen og i mange andre situasjoner. La oss begynne. Morgen hjemme. God morgen. Har du sovet godt? Ja. ganske godt. Men jeg er fortsatt litt trøtt. Ja, ganske godt. Men jeg er fortsatt litt trøtt. Når la du deg i går? Jeg la meg rundt 10:30. Det var jo ikke så sent. Nei, men jeg våknet flere ganger i løpet av natta. Skal du stå opp nå eller vil du sove litt til? Jeg må stå opp nå. Jeg skal på jobb. Når begynner du på jobb? Jeg begynner klok 8:00. Da har du ikke så god tid. Nei, jeg må være ute av døra omtrent en … ligger ved siden av døra. Jeg må bli flinkere til å legge ting på samme sted. Jeg leter etter mobilen eller nøklene nesten hver dag. Har du husket matpakken? Nei, den holdt jeg på å glemme. Den ligger i kjøleskapet. Takk. Er det noe mer jeg har glemt nå? Har du med deg laderen? Den trenger jeg ikke. Jeg ladet mobilen i natt. Da tror jeg du har med deg alt. Kan du sjekke når bussen går? Ja, den går om 8 minutter. 8 minutter. Da må jeg gå nå. 8 minutter. Da må jeg gå nå. Det tar jo 5 minutter å gå til holdeplassen. Jeg rekker det hvis jeg går med en gang. Pass på, det er glatt utenfor. Ja, … Det tar omtrent 20 minutter med buss. Da er vi snart framme. på jobb. God morgen, du kom akkurat i tide. Ja, bussen var litt forsinket i dag. Det skjer ganske ofte når det regner. Det skjer ganske ofte når det regner. Det er mye trafikk på veien. Det er mye trafikk på veien. Har du mye å gjøre i dag? Ja, jeg har ganske mange oppgaver som må bli ferdige. Hva skal du begynne med? Først skal jeg svare på noen e-poster. Etterpå må jeg forberede meg til et møte. Når begynner møtet? Det begynner klok 10. Vet du hvor lenge det varer? Jeg tror det varer omtrent en time. Hvem skal være med på … Nei, etter klok 4 prøver jeg å unngå det. Har du forresten noen planer etter jobb i dag? Jeg må innom butikken på vei hjem. Skal du handle mye? Nei, jeg trenger bare noen få ting til middagen. Hva skal du lage? Jeg tenkte å lage kylling med ris og grønnsaker. Det høres godt ut. Lager du ofte middag hjemme? Ja, nesten hver dag. Men i dag må det gå litt fort. Da håper jeg du slipper å stå lenge i kø i butikken. Lunsj. Skal du spise lunsj nå? Ja, jeg begynner å bli ganske sulten. Har du med deg mat hjemmefra? Ja, jeg tok meg en matpakke i dag. Ja, jeg tok meg en matpakke i dag. Hva har du med … gjelder det? Jeg ringer angående avtalen vår i morgen. Ja, vi skulle møtes klokka 3, ikke sant? Jo, men jeg lurer på om vi kan møtes litt senere. Det går sikkert bra. Når passer det for deg? Det går sikkert bra. Når passer det for deg? Kunne vi møttes klok 4 i stedet? Kunne vi møttes klokken 4 i stedet? La meg sjekke kalenderen min. Ja, klokka 4 passer fint. Flott. Beklager at jeg måtte endre tidspunktet. Det går helt fint. Skal vi møtes på samme sted som sist? Ja, det synes jeg er enklest. Husker du adressen? Jeg tror det, men kan du sende den til meg? Selvfølgelig. Jeg sender deg en … Ja, det går som regel raskere. Vil du ha kvitteringen? Nei takk, jeg trenger den ikke. Da er handelen ferdig og jeg kan endelig dra hjem. Da er handelen ferdig og jeg kan endelig dra hjem Hos legen. Hei, jeg har en time hos legen klok. Ja, hva heter du? Jeg heter Martin Hansen. Du kan sette deg på venterommet. Vet du om det er lang ventetid i dag? Nei, legen kommer nok om noen få minutter. Du kan komme inn nå. Du kan komme inn nå. Hei, hva kan jeg hjelpe deg med i dag? Jeg har ikke følt meg helt bra de siste dagene. Hva slags symptomer har du? Jeg har vondt i halsen og … kjøpte kylling og grønnsaker i går. Da kan vi lage kylling med ris. God ide. Det tar heller ikke så lang tid. Kan du sette på risen mens jeg kutter grønnsakene? Ja, det kan jeg gjøre. Hvor mye ris skal jeg lage? To kopper bør være nok. Skal vi lage litt ekstra til i morgen også? Ja, da slipper vi å lage middag på nytt. Ja. Da slipper vi å lage middag på nytt. Kan du dekke på bordet når du er ferdig? Selvfølgelig. Hvor ligger tallerken henne? Selvfølgelig. Hvor ligger tallerkene henne? De står i skapet over oppvaskmaskin. Skal jeg sette fram glass også? Ja. Og kan du hente vann fra … nummer 12. Ja, jeg har plass nummer 12. Det står ofte en annen bil på plassen min. Det er irriterende. Det står ofte en annen bil på plassen min. Det er irriterende. Vet du hvem bilen tilhører? Nei. Men jeg vurderer å legge en lapp på bilen. Nei, men jeg vurderer å legge en lapp på bilen. Det kan være lurt å prøve det først. Kanskje eien ikke vet at plassen er privat. Bare si fra hvis du trenger hjelp. Takk, det skal jeg gjøre. Venner og fritid. Hei, har du lyst til å finne på noen dag? Ja, gjerne. Det er lenge siden vi har gjort noe sammen. Hva har du lyst til å gjøre? Kanskje vi kan … gå en tur på lørdag. Det høres hyggelig ut. Hvor skal du gå? Jeg tenkte å gå en tur rundt vannet. Har du vært der før? Ja, flere ganger. Det er veldig fint der. Hvor lang tid tar hun? Hvor lang tid tar turen? Rundt to timer hvis vi går i rolig tempo. Det passer bra. Jeg blir gjerne med. Så hyggelig. Når passer det for deg? Jeg kan når som helst etter klok 11. Skal vi møtes klokka 12? Ja, det passer fint. Hvordan blir være på lørdag? Jeg sjekket værmeldingen tidligere i dag. Det skal være oppholdsvær, men litt kjølig. Da tar jeg med en varm jakke. Det er nok lurt. Det kan blåse en del ved … å laste opp kopier. Hva gjør jeg hvis jeg mangler et dokument? Da kan du sende inn det du har først. Kan jeg ettersne resten senere? Ja, men husk å sende det inn fristen. Når er fristen? Søknaden må være sendt inn neste fredag. Hvor lang tid tar det å behandle søknaden? Vanligvis tar det mellom to og 4 uker. Får jeg beskjed når søknaden er behandlet? Ja, du får beskjed så snart søknaden er ferdig behandlet. Bra jobbet. Hvis du likte videoen, abonner på kanalen for å lære mer norsk. Du kan også se flere av videoene våre og øve videre. Takk for at du så på og lykke til med norsken. NTN SKOLE ❤️",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.05
+  "src": "cc"
  },
  "fjYNsw1eKuE": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-16T23:00:11+00:00",
+  "checked": "2026-11-22T03:58:02+00:00",
   "title": "B2 setninger – Alle temaer samlet | Norskprøven B1–B2 (lytteøvelse)",
   "duration": 3687,
   "published": "20260114",
@@ -18515,6 +19053,7 @@
   "pace": 94.7,
   "rare": 0.036,
   "var": 0.8025,
+  "cl": 0.0911,
   "speech_s": 2058.6,
   "tokens": 3249,
   "kw": [
@@ -18679,16 +19218,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bør",
+    "Jeg mener at sunt kosthold bør læres tidlig i livet.",
+    885,
+    891,
+    5.8,
+    18
+   ],
+   [
+    "gir",
+    "Familien gir oss både støtte og ansvar.",
+    152,
+    163,
+    5.8,
+    17
+   ],
+   [
+    "internasjonalt",
+    "Jeg synes det er positivt at Norge deltar i internasjonalt samarbeid.",
+    474,
+    481,
+    4.71,
+    7
+   ],
+   [
+    "utfordringer",
+    "Hverdagen i en familie består av både utfordringer og gleder.",
+    368,
+    375,
+    4.56,
+    7
+   ],
+   [
+    "balanse",
+    "Selv om mange føler seg stresset, kan planlegging gi bedre balanse.",
+    1000,
+    1007,
+    4.12,
+    4
+   ],
+   [
+    "bærekraft",
+    "Mange er opptatt av miljø og bærekraft i hverdagen.",
+    574,
+    580,
+    3.65,
+    4
+   ],
+   [
+    "rettssikkerhet",
+    "Jeg synes at rettssikkerhet er grunnleggende i et demokrati.",
+    2988,
+    2995,
+    3.56,
+    2
+   ],
+   [
+    "naturressurser",
+    "Norge er rikt på naturressurser som olje, gass og fisk.",
+    538,
+    545,
+    3.51,
+    2
+   ],
+   [
+    "hverdagsliv",
+    "Tema 1, familie og hverdagsliv. Familien er en viktig del av livet vårt.",
+    16,
+    32,
+    2.75,
+    2
+   ],
+   [
+    "arbeidstagere",
+    "Mange arbeidstagere ønsker medbestemmelse på jobben.",
+    1948,
+    1955,
+    2.54,
+    2
+   ]
+  ],
   "tx": "I denne videoen får du B2 setninger knyttet til alle viktige temaer til Norskprøven B1 B2. Setningene blir lest to ganger og passer perfekt for lytteøvelse og repetisjon. Tema 1, familie og hverdagsliv. Familien er en viktig del av livet vårt. Selv om mange bor alene er familien fortsatt viktig i Norge. Hverdagen kan være travel når man kombinerer jobb og familie. Mange prøver å balansere arbeid, fritid og familieliv. Jeg mener at gode rutiner skaper trygghet for barnet. Jeg mener at gode rutiner skaper trygghet for barna. Det er krevende å oppdra barn i et samfunn med mange påvirkninger. … levestandard sammenlignet med mange andre land. Selv om vi har mye velstand finnes det også sosiale forskjeller. Jeg mener at velferdsstaten gir trygghet til innbyggerne. Mange setter pris på naturen som en viktig del av norsk identitet. Norge er kjent for demokrati og politisk stabilitet. Norge er kjent for demokrati og politisk stabilitet. Innvandring har forandret samfunnet og gjort det mer mangfoldig. Selv om vi har ytringsfrihet finnes det grenser for hva man kan si. Jeg synes det er positivt at Norge deltar i internasjonalt samarbeid. Mange opplever at likestilling er en viktig … med livsstil. Jeg mener at fysisk aktivitet er avgjørende for god helse. Stress kan gi både psykiske og fysiske problemer. Mange unge opplever press fra skole og sosiale medier. Jeg synes det er viktig å snakke åpent om psykiske problemer. Søvn er like viktig for helsen som mat og trening. Selv om vi har tilgang til helsetjenester, er ikke alle fornøyde. Jeg tror at forebygging er billigere og bedre enn behandling. Mange mennesker sliter med livsstilsykdommer som diabetes og høyt blodtrykk. Jeg mener at sunt kosthold bør læres tidlig i livet. Selv små endringer i hverdagen kan gi … for lite i praksis. Selv små handlinger kan ha stor betydning hvis mange bidrar. Jeg tror at utdanning er nøkkelen til mer miljøbevissthet. Vi bør spise mindre kjøtt for å redusere klimagassutslipp. Mange unge deltar i klimastreiker for å bli hørt. Selv om teknologi kan hjelpe, må vi også endre livsstilen vår. Jeg mener at politikerne må ta mer ansvar for miljøet. Forbruket i rike land skaper store problemer globalt. Jeg tror at samarbeid mellom land er nødvendig for å redde klima. Jeg tror at samarbeid mellom land er nødvendig for å redde klimaet. Jeg synes at bærekraft handler om balanse … voksne tar utdanning på nytt for å få bedre jobb. Jeg synes livslang læring er nødvendig i dagens arbeidsmarked. Skolen bør også lære elevene om samarbeid og empati. Selv om vi har mange fag, mangler det ofte tid til fordypning. Jeg mener at utdanning er en menneskerettighet. Mange innvandrere opplever utfordringer med språk i skolen. Jeg tror at god opplæring i norsk gir trygghet i samfunnet. Skolen bør gi elever verktøy til å mestre livet, ikke bare fag. Jeg synes at eksamen tester for mye kunnskap og for lite ferdigheter. Mange elever lærer mer av prosjekter enn av tradisjonelle … Jeg tror at mangfold på arbeidsplassen gir bedre resultater. Mange unge ønsker jobber som gir både lønn og mening. Jeg synes fagforeningene spiller en viktig rolle i Norge. Selv om noen vil ha høyere lønn, er arbeidsmiljø ofte viktigere. Mange arbeidsgivere ser etter erfaring, ikke bare utdanning. Jeg mener at likestilling på arbeidsplassen må tas på alvor. Mange kvinner opplever fortsatt forskjeller i lønn. Jeg tror fleksibilitet blir viktigere i fremtidens arbeidsliv. Selv om hjemmekontor gir frihet, kan det også skape ensomhet. Mange arbeidstakere ønsker mer tid til familien. Jeg … føler mange seg ensomme. Jeg tror at sosiale medier kan påvirke selvbildet negativt. Mange opplever press til å være tilgjengelige hele tiden. Jeg mener at skolen bør undervise mer om digital kompetanse. Selv om teknologien utvikler seg raskt, må vi bruke den ansvarlig. Jeg tror roboter vil ta over noen jobber i fremtiden. Mange unge får nyheter fra TikTok og Instagram. Jeg synes det er skremmende at algoritmer styrer hva vi ser. Selv om vi har tilgang til alt, er det lett å bli overveldet. Jeg mener at teknologi bør brukes til å løse klimaproblemer. Mange voksne synes det er vanskelig å … for lover og regler. Mange innvandrere opplever demokrati som noe nytt. Jeg mener at inkludering er en forutsetning for et sterkt samfunn. Selv om vi har like rettigheter, opplever ikke alle like muligheter. Jeg tror dialog er nødvendig for å løse konflikter. Mange opplever at politikere ikke lytter nok til folket. Jeg synes at engasjement i lokalsamfunnet gir fellesskap. Selv om vi lever i fred må vi væne om demokratiet. Selv om vi lever i fred, må vi værne om demokratiet. Jeg mener at alle bør lære om demokratiske prosesser på skolen. Mange tar friheten sin for gitt. Mange tar friheten … uenige om hvor mye maktpolitiet bør ha. Jeg tror rettssystemet må tilpasse seg en mer digital verden. Selv små lovbrudd kan få store konsekvenser for enkeltpersoner. Jeg synes at rettferdighet bør være høyeste prioritet i rettsstaten. Mange land ser på Norge som et forbilde når det gjelder rettssikkerhet. Jeg mener at lover må gjelde likt for alle uansett status. Jeg mener at loveet må gjelde likt for alle uansett status. Selv om rettssystemet er dyrt, er det nødvendig for demokratiet. Jeg tror at respekt for lover gir et tryggere samfunn. Mange opplever at det tar for lang tid å behandle … blir vi påvirket av konflikter ute i verden. Jeg mener at historien kan lære oss å unngå gamle feil. Mange opplever at Norge har et godt rikte i utlandet. Mange opplever at Norge har et godt rykte i utlandet. Jeg synes det er interessant at norsk kultur sprer seg internasjonalt. Selv små hendelser kan få store konsekvenser i en global verden. Jeg tror samarbeidet i FN er viktig for Norges framtid. Mange diskuterer hvilken rolle Norge bør ha i internasjonal politikk. Jeg mener at internasjonalt samarbeid gjør Norge sterkere. Norge i nyere tid viser hvordan et lite land kan få stor betydning.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0883
+  "src": "cc"
  },
  "P6s87qFF8Bo": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-16T23:00:35+00:00",
+  "checked": "2026-11-22T04:02:07+00:00",
   "title": "Er nordmenn arrogante? Debatten som fikk over 1 300 kommentarer | Norsk B1-B2",
   "duration": 279,
   "published": "20261113",
@@ -18697,6 +19317,7 @@
   "pace": 158.0,
   "rare": 0.0639,
   "var": 0.819,
+  "cl": 0.0612,
   "speech_s": 279.2,
   "tokens": 735,
   "kw": [
@@ -18805,11 +19426,148 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "finnes",
+    "Kanskje finnes det et ord som ikke er",
+    196,
+    202,
+    5.76,
+    2
+   ],
+   [
+    "først",
+    "endret seg først. En kommentar forteller en historie som",
+    144,
+    152,
+    5.65,
+    2
+   ],
+   [
+    "amerikansk",
+    "norsk og amerikansk bakgrunn bor i",
+    13,
+    18,
+    4.7,
+    2
+   ],
+   [
+    "bussen",
+    "ved siden av henne på bussen, vennene",
+    22,
+    27,
+    4.64,
+    2
+   ],
+   [
+    "irritert",
+    "En person skrev ganske irritert at hvis",
+    111,
+    116,
+    4.17,
+    1
+   ],
+   [
+    "dagers",
+    "Få 30 dagers gratis tilgang via lenken i",
+    246,
+    252,
+    4.16,
+    1
+   ],
+   [
+    "viktigst",
+    "Norway, og aller viktigst, din egen",
+    263,
+    269,
+    4.16,
+    1
+   ],
+   [
+    "smiler",
+    "snakker med eller smiler til andre",
+    135,
+    140,
+    4.14,
+    1
+   ],
+   [
+    "uttales",
+    "uttales. Og det gjør mer for forståelsen",
+    228,
+    234,
+    3.57,
+    1
+   ],
+   [
+    "selvtilliten",
+    "kommer til å utvikle selvtilliten din",
+    242,
+    247,
+    3.52,
+    1
+   ],
+   [
+    "fasade",
+    "kalt tomt prat, en polert fasade og",
+    72,
+    78,
+    3.49,
+    1
+   ],
+   [
+    "fraser",
+    "viste seg at det bare var fraser uten",
+    162,
+    168,
+    3.43,
+    1
+   ],
+   [
+    "kokte",
+    "I 2013 kokte akkurat denne diskusjonen",
+    6,
+    11,
+    3.39,
+    1
+   ],
+   [
+    "syrer",
+    "Og jeg synes det syrer veldig mye om",
+    167,
+    173,
+    2.99,
+    1
+   ],
+   [
+    "polert",
+    "kalt tomt prat, en polert fasade og",
+    72,
+    78,
+    2.93,
+    1
+   ],
+   [
+    "utadvendt",
+    "utadvendt eller ekstrovert hele tiden. En annen skrev jeg er ikke sur. Jeg har",
+    85,
+    95,
+    2.93,
+    1
+   ],
+   [
+    "forsvarerne",
+    "Og forsvarerne brukte sterke ord. Amerikansk småprat og vennlighet ble",
+    68,
+    76,
+    2.9,
+    1
+   ]
+  ],
   "tx": "Så hvis normen er så opptatt av å mene det vi sier, hvorfor sier vi da vi må ta en kaffe en gang? I 2013 kokte akkurat denne diskusjonen over. Så det er 2013 en 16 år gammel jente med norsk og amerikansk bakgrunn bor i Norge. Hun er vant til å si hei til alle hun møter. Personen ved siden av henne på bussen, vennene til vennene hennes, lærerne og de som jobber i butikken. Ikke fordi hun vil noe spesielt, men fordi det er en vane for henne. Det er en måte å være vennlig på. Men i Norge opplever hun at folk sjelden hilser tilbake. Så hun skriver et leserinnlegg i en avis i Bergen. Tittelen er arrogante normen. Innlegget ble plukket opp av flere aviser, blogger og debattsider og snart hadde kommet hadde det kommet over 1300 kommentarer. Den norske språkforskeren Kristin Rygg gikk senere gjennom disse kommentarene og det hun fant er ganske avslørende. Litt flere forsvarte de norske normene enn de som støttet jenta. Og forsvarerne brukte sterke ord. Amerikansk småprat og vennlighet ble kalt tomt prat, en polert fasade og uærlig svada. Vennligheten ble kalt påklistret og falsk. En person skrev at det var fantastisk å komme hjem fra USA og slippe å være utadvendt eller ekstrovert hele tiden. En annen skrev jeg er ikke sur. Jeg har bare ikke lyst til å smile uten grunn. Og en skrev det samme som vi var inne på i forrige del. Hvis vi spør hvordan det går med deg, så mener vi det. Vi bryr oss faktisk. De som støttet jenta prøvde å forklare noe helt annet. Småprat er ikke et løfte. Hele poenget er at det er uforpliktende. En person skrev ganske irritert at hvis man sier noe tilfeldig til jenta ved siden av seg på bussen, så er det ikke fordi man vil bli med henne hjem eller fortelle henne man gjorde i 1983. Det handler om å se folk her og nå, ikke om å bygge et forhold for fremtiden. Men her kommer det jeg synes er morsomst. Av de 275 nordmennene som støttet jenta, var det bare 13 som skrev at de selv snakker med eller smiler til andre fremmede i Norge. Forskeren konstaterer litt tørt at det åpenbart er de andre nordmennene som har endret seg først. En kommentar forteller en historie som passet perfekt i dette tema. En norsk klassekamerat bodde en stund i Florida, og der ble han overrasket med så hyggelig å se deg kom innom en dag. Så han kom innom og vertskapet ble svært overrasket. Det viste seg at det bare var fraser uten mening eller intensjon. Og jeg synes det syrer veldig mye om begge sider eh eller at begge sider var så sikre på at de hadde rett. Og det viser at mange nordmenn tar en imitasjon helt bokstavelig. Ordet uforpliktende er verdt å legge merke til også. Noe som er uforpliktende, binder deg ikke til noe. Du hører det ofte i butikken også, et uforpliktende tilbud. Men hvis vi tar imitasjoner så bokstavelig, hvorfor sier vi selv vi må ta en kaffe en gang? Kanskje finnes det et ord som ikke er ment å bety det de sier også på norsk. Jeg vil bare kjapt fortelle deg litt om Nextory, som er min betalte partner i denne episoden. Nextory er en app der du kan lytte til lydbøker og lese e-bøker, og utvalget av norske bøker er kjempestort. Et tips fra meg som norsklærer er å finne en bok som finnes både som e-bok og lydbok. Les et kapittel først og lytt til det samme kapittelet etterpå. Da ser du ordene og hører hvordan de faktisk uttales. Og det gjør mer for forståelsen enn veldig mange tror. I Nextory kan du bytte mellom tekst og lyd når som helst, så det er lett å få til. Er du usikker på nivået, er bøker for barn og ungdom en perfekt start, og du kommer til å utvikle selvtilliten din superraskt. Få 30 dagers gratis tilgang via lenken i beskrivelsen. Prøveperioden inkluderer 20 timer lesing og lytting, og tilbudet gjelder for nye kunder og for deg som sa opp abonnementet ditt for mer enn seks måneder siden. Samtidig støtter du meg og Way to Norway, og aller viktigst, din egen norsk. Sjekk ut Nextory nå i dag for 30 dager gratis og begynn å lytt nå. Kom igjen, det er bra for deg og for norsken din.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0612
+  "src": "auto"
  },
  "31JZa7r054w": {
   "channel": "Erlend - Way 2 Norway",
@@ -19272,7 +20030,7 @@
  "67_laZJO4qk": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-16T23:01:13+00:00",
+  "checked": "2026-11-22T04:05:57+00:00",
   "title": "Playing cards with my kids (7 & 5) | Norwegian listening practice 🇳🇴 (with Norwegian subtitles)",
   "duration": 630,
   "published": "20261022",
@@ -19281,6 +20039,7 @@
   "pace": 141.0,
   "rare": 0.026,
   "var": 0.6882,
+  "cl": 0.0728,
   "speech_s": 590.1,
   "tokens": 1387,
   "kw": [
@@ -19421,16 +20180,105 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "sjanse",
+    "Å ... tar en sjanse Johannes kunne ikke. Men da kan man ta en sjanse der. Og da, hvis",
+    125,
+    131,
+    4.81,
+    8
+   ],
+   [
+    "uansett",
+    "Ja, måtte du det, egentlig? Jeg har jo konge uansett. Det blir",
+    431,
+    437,
+    5.5,
+    7
+   ],
+   [
+    "hånda",
+    "Og nå får alle tre kort på hånda.",
+    50,
+    56,
+    4.26,
+    4
+   ],
+   [
+    "kongen",
+    "Men! Når Johannes legger på den kongen, så vet",
+    442,
+    446,
+    4.78,
+    3
+   ],
+   [
+    "laveste",
+    "laveste man har, ikke sant? Ja.",
+    212,
+    214,
+    4.15,
+    1
+   ],
+   [
+    "hjerter",
+    "Ja. Hjerter 10. Yes. Jeg hadde enda en 10-er.",
+    321,
+    339,
+    4.06,
+    1
+   ],
+   [
+    "mhm",
+    "Mhm. 10. Og da når vi er ferdig med kortene",
+    361,
+    366,
+    3.26,
+    1
+   ],
+   [
+    "andreplassen",
+    "Da spiller dere om andreplassen. Jeg nå.",
+    541,
+    545,
+    3.1,
+    1
+   ],
+   [
+    "briste",
+    "og så får det briste eller bære. Ohh!",
+    401,
+    406,
+    2.6,
+    1
+   ],
+   [
+    "sorterte",
+    "legge ut her. Ja. Du sorterte fordi du fikk så mange.",
+    305,
+    311,
+    2.58,
+    1
+   ],
+   [
+    "esset",
+    "Johannes. Ja, jeg får bare legge på esset mitt, jeg da.",
+    213,
+    221,
+    2.54,
+    1
+   ]
+  ],
   "tx": "Hei. I dag skal vi vise dere hvordan man spiller \"idiot\". Idiot. Er dere klare? En runde med idiot. Ja. Ok. Bra. Da er det tre kort til hver. Disse kan dere ikke se på, ikke sant? Dere kan jo reglene, da, men for de som ikke kan spillet fra før. Disse kan vi ikke se på, ikke sant? Det er ikke lov å se på disse. Ja. Ja. Ja. Ja. 2, det var bra. Disse her kan dere se på. Og nå får alle tre kort på hånda. Konge. Og nå er det lov å bytte sånn at man har de beste kortene på bordet. Eller nå er det gulvet, da. Nå er det gulvet. Og det beste kortet. Hva er det beste kortet i idiot, da? Ess! Ess... … 10. 10, ja! Pappa, jeg har ikke byttet ferdig. Er dere klare? Pappa, er det best med to knekter? Ja, det er best med to knekter fordi da får du ... altså, dame er bedre enn knekt, men det er bedre å ha to knekter, for da er det en runde hvor du kan legge på to kort Det er lurt å ha to like. Ok, jeg har 3, så da kan jeg begynne. Eller hadde du 3 også? Du har ikke 3. Nei, da er det Sandra sin tur. Vi går med klokka, Da er det bare å legge på noe som er høyere enn det forrige kortet som ligger på. Ja, det er sant. Din tur. Din tur, Santra. SANTra. Sandra. Sandra var det. Johannes? Å ... … det, så er det neste runde. Da er det neste spiller. Jeg kan også for jeg har ess. Men hvem er det som kan legge på her nå? Ops, det er det høyeste. Da må du ta en sjanse. Sandra, ta en sjanse. Nei, da må Og så er det tre 3-ere... Da må du trekke alle de kortene. Og det er om å gjøre i spillet... hva er om å gjøre i spillet? Å blir ferdig med kortene ... å ikke ha noen flere kort igjen. Ja. Og da... Ja, men nå har jeg ess. Ok. Da er det ... siden Sandra måtte trekke, da er det Johannes sin tur. Ja. Ok. 4. Det kan jeg. Dame. Ok. Sandra dame. Jeg må ta en sjanse. Hva skjedde nå? Klarte du … bunken ut. Ja, det her... fire 3-ere. Da går bunken ut. Akkurat som når det er en 10-er. Og da er det Sandra sin tur igjen. Bra for deg. 5. Det er lurt å starte med det laveste man har, ikke sant? Ja. Johannes. Ja, jeg får bare legge på esset mitt, jeg da. Sandra. Ess. To ess. Du legger på begge, ja. Ok. Johannes. Da har Johannes et problem. Du må trekke, for du har allerede mer enn tre kort. Da kan du ikke ta sjanse. Sandra. Man kan ta en sjanse Ikke når man har mer enn tre kort. Eh, ja, mine to 8-ere. Johannes. Nå ser jeg noe... Fire like! Bra, da er det din tur igjen. Da går bunken ut. … Og 10-eren slår alt, og da går bunken alltid ut når man får 10-er .. eller: Når man legger på 10. Men det nest beste kortet i idiot er konge. Ja. Etter ess, ja. Det er sant. Etter eller 2, kanskje. 2 er også bra, men det får vi se. Vi skal forklare hvordan 2 virker. Din tur, Sandra. Du har to nye, du skulle hatt tre kort, du. Der er det en 2-er. Men du hadde bare to kort, da skulle du trekke et kort. Sånn. Egentlig så skal man jo ikke vise kortene man spiller med, så det er... Man skal jo egentlig ha dem på hånda. Ja. Ja. Ja. Ja. Men når jeg startet å legge ut her. Ja. Du sorterte … ut. Jeg har også en 10-er. Har du det. Ja. Hjerter 10. Yes. Jeg hadde enda en 10-er. Bunken går ut. Da er det min tur igjen. Legg på ess hvis du har. 6-er fra Sandra her. Og Johannes hadde ess. Jeg kan ikke ta noen sjanse. Da må jeg bare trekke kortene. Det var synd for meg. Sandra Ess. Jeg har også ess. Ingenting for meg. Mhm. 10. Og da når vi er ferdig med kortene på hånda, da kan vi begynne å spille med de tre som man ser. Ok. To knekter. Kan du, Johannes? Det kunne du ikke. Hvem er det sin tur da? Kunne han ikke ha brukt det kortet der? Nei, ikke før man har spilt ferdig de kortene … Så er det min tur igjen. Flaks for meg. Og da ... nå har man ikke lov til å se. Nå må man velge et av kortene, og så får det briste eller bære. Ohh! Konge! Kan du da, Johannes? Ok, du kunne. Nå har jeg to konger. Men 2, det er et veldig spesielt kort fordi det starter ... det resetter liksom hele bunken. Så 2 kan man legge på alt. Og man kan legge alt på 2. Det var bra for deg, Sandra. Da klarer du... Nå må jeg legge på knekt. Ja, måtte du det, egentlig? Jeg har jo konge uansett. Det blir vanskelig for Sandra å klare dette. Oh, det gjør hun ikke! Nesten at du vant der! Men! Når Johannes … Ja. Får se om jeg klarer det, da. Å! flaks, flaks, flaks, flaks! Sandra, din tur. Jeg vil ikke at Pappa skal vinne. Jeg vil at jeg skal vinne. Du vil at du skal vinne? Ja. Du får prøve, da. Da er det bedre nå å... Men det er jo ... nå er det jo Johannes etter deg. Så hvis han må trekke, så er jo det.... da får jeg bare legge på et nytt kort uansett. Kom igjen. Konge. Ja, da måtte du han trekke, og da kan... Da er det min tur. Ja, du prøvde å sabotere for meg. Det var ikke så lurt. Jeg vil ikke at Pappa skal vinne. Jo, men Johannes har jo konge uansett, som han må legge på. Ja, men da kan jo … knektene dine. Da må Johannes legge på kongen sin. Og så er det min tur, ikke sant? Ja. Det er ikke så lett å sabotere i \"idiot\", skjønner du. Jeg skjønner at du prøver å sabotere. Kan du si \"sabotere\"? Sabotere. Sabotere betyr at man prøver å ødelegge for en annen. Klarer jeg det, eller klarer jeg det ikke? Spenningen er til å ta og føle på. Ja! Pappa klarte det uansett hvis det blir ess... Da spiller dere om andreplassen. Jeg nå. 4-eren. 4-er. Der Er det 5? Det er 5. Nei, er det 4? Ok. Jeg har ikke 5-er der, men jeg har ess. Ja, da kan jeg legge på. Da går Johannes... Da måtte du trekke, … har ess, så er det hvert fall vanskelig veldig. Det er veldig vanskelig når man har et ess i hvert fall. Ok. 2-eren nå? Du velger. Jeg tror du vinner uansett. Du klarer det uansett. Og så legger jeg den på denne kongen. Så legger jeg på der. Men uansett: Du vant... Ja. Og Sandra kommer på andre plass. Gratulerer. Skal vi se hva du hadde under... 2, dame og dame. Det var ikke så dårlig det heller, men jeg hadde litt flaks med mine kort. Spesielt at jeg hadde den 5-eren på det første kortet. Så la jeg det, og så var det 5-er der fra før. Det var flaks. Veldig flaks for meg. Ok. Det var idiot.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.071
+  "src": "cc"
  },
  "DickkWpPfAM": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-16T23:01:30+00:00",
+  "checked": "2026-11-22T04:06:17+00:00",
   "title": "7 fraser du trenger i business-norsk 🇳🇴",
   "duration": 412,
   "published": "20260506",
@@ -19439,6 +20287,7 @@
   "pace": 173.1,
   "rare": 0.0327,
   "var": 0.7315,
+  "cl": 0.0672,
   "speech_s": 412.8,
   "tokens": 1191,
   "kw": [
@@ -19579,11 +20428,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bruke",
+    "så er det fint å da bruke hvis du må",
+    179,
+    185,
+    5.68,
+    4
+   ],
+   [
+    "sant",
+    "ikke sant sen det er for mennesker",
+    61,
+    67,
+    5.17,
+    4
+   ],
+   [
+    "møtet",
+    "møtet går litt over eh eller at det går",
+    113,
+    120,
+    4.53,
+    3
+   ],
+   [
+    "tema",
+    "at man har samme forståelse for et tema.",
+    238,
+    245,
+    4.78,
+    2
+   ],
+   [
+    "page",
+    "Be on the same page på norsk. Det betyr",
+    236,
+    242,
+    3.91,
+    2
+   ],
+   [
+    "look",
+    "Were you able to have a look at? Det er",
+    206,
+    212,
+    3.87,
+    2
+   ],
+   [
+    "ambisiøs",
+    "med 50% i år hvis man er litt ambisiøs.",
+    331,
+    338,
+    3.55,
+    1
+   ],
+   [
+    "instrukser",
+    "vi gir vennlige instrukser på norsk. Jeg",
+    339,
+    346,
+    3.52,
+    1
+   ],
+   [
+    "legitime",
+    "mange legitime grunner til å være sen.",
+    106,
+    112,
+    3.47,
+    1
+   ],
+   [
+    "fraser",
+    "Nå skal du lære sju fraser som vil være",
+    0,
+    8,
+    3.43,
+    1
+   ],
+   [
+    "distansert",
+    "nøytral eller distansert tone til det",
+    284,
+    289,
+    2.78,
+    1
+   ],
+   [
+    "gjen",
+    "Og husk gjen å sjekke ut PDF-en eh hvor",
+    386,
+    393,
+    2.71,
+    1
+   ],
+   [
+    "navigerer",
+    "navigerer denne litt merkelige norske jobburen.",
+    407,
+    413,
+    2.5,
+    1
+   ]
+  ],
   "tx": "Nå skal du lære sju fraser som vil være veldig nyttige for deg på arbeidsplassen hvis du jobber i Norge eller bruker norsk på jobben. Men først, hvis du vil ha min gratis PDF med 50 ord og uttrykk i business norsk, forretningsnorsk, så kan du finne len til den PDF-en rett under videoen her. Klikk deg inn og så får du PDF-en rett til din innboks. Og nummer en det er jeg blir litt sen. Jeg blir litt sen. Eh her hører jeg faktisk ganske mange studenter som gjør litt sånn feil. Eh hvis de for eksempel da skal eh fortelle på SMS at de kommer 5 minutter for sent, for eksempel til en norsk time med meg. Da hører jeg for eksempel eh at de skriver eller jeg ser jeg leser at de skriver jeg blir sent. For eksempel jeg kommer sen. Mm. Men riktig er jeg blir sen eller jeg blir litt sen fordi blir det er litt det samme som å være jeg er og da er det jeg ikke sant sen det er for mennesker maskulin en eller feminin. Vi kan ikke si sent her eh du kan si jeg kommer sent. Jeg kommer litt sent men det passer ikke så godt i den konteksten. Men eh, hvis vi sier blir så må vi si sen. Ok. Eh jeg blir litt sen. Du kan også si jeg blir litt forsinket. Eh, og la meg også nevne hva du kan si i det du går inn døra til et møte eller et klasserom eh når de allerede har startet. Jo, da kan du si, \"Blager, jeg er sen.\" Og da hvis du sier det litt fort, beklager, jeg er sen. Beklager, jeg er sen. Beklager, jeg er sen hvis du vil si det fort. Det er jo lurt å si det litt fort og effektivt, så det ikke blir så mye oppmerksomhet på at du kommer sent. Ok, så nummer to, for det er jo mange legitime grunner til å være sen. Og det ene er hvis et møte varer litt lenger enn planlagt, da kan vi si at møtet går litt over eh eller at det går litt over tiden. Og da sier vi det går litt over. Så det du kan si da er møtet gikk litt over. Så da kan du kombinere altså nummer 1 og 2. Hvis du har to møter på rad for eksempel, eh beklager jeg sen møtet gikk litt over i det du går inn døra. Nummer tre er fikk du sett på for eksempel fikk du sett på det? Fikk du sett på rapporten? Fikk du sett på er et eksempel på konstruksjonen få pluss partisipp som kommuniserer: \"Hadde du muligheten til å se på noe som er en veldig elegant og ikke for direkte måte å følge opp ting på jobben fordi du med denne formen åpner for at den andre personen kanskje har blitt hindret i å gjøre en oppgave, en arbeidsoppgave hindret av eksterne faktorer. Og man viser da respekt for at den andre personen har ting som må prioriteres. Og hvis den andre personen svarer eh nei, så er det fint å da bruke hvis du må svare nei, så er det fint å si jeg fikk ikke sett på det fordi det kommuniserer at jeg hadde ikke mulighet. Det var noe som hindret meg. Altså jeg hadde en legitim grunn til å ikke gjøre det. Så få plitt partisipp, det er en veldig viktig konstruksjon å bruke med kolleger og folk du samarbeider med. Og det samme gjelder jo da den engelske ekvivalenten, be able to, som kommuniserer det samme. Were you able to have a look at? Det er mye mer direkte, mye mer indirekte, mye mer vennlig og mindre rekommanderende enn Did you look at? Ikke sant? Eh, og jeg har ganske mye materiale faktisk om denne konstruksjonen, både i mitt kurs Praktisk norsk og i kurset Business Listening 30 Day Challenge. Så du finner link til begge disse kursene under videoen. Nummer 4, det er å være på linje. Eh, det er sånn vi kommuniserer. Be on the same page på norsk. Det betyr at man har samme forståelse for et tema. Ofte er det da et tema som man jobber sammen med eh i en jobbekst. Eh for eksempel før vi går videre med prosjektet må vi gå gjennom alle kravene og sørge for at alle er på linje. Så man kan si at det betyr at alle forstår det samme og at man da unngår misforståelser senere. Eh, et annet eksempel. Er vi på linje med hensyn til dette prosjektet? Eller vi kan også si, er vi på samme linje? Det er to be on the same page. Nummer 5em, det er for min del eller for vår del. Og det betyr egentlig bare det samme som for meg eller for oss, men det gir en litt mer formell og skal vi si objektiv, nøytral eller distansert tone til det man snakker om. Så da kan man for eksempel si, for min del passer det best å møtes fredag klok. Eller for vår del er det viktigste at prosessen er åpen og transparant. Så enda mer elegant å bruke dette og litt mer formelt enn må bare si for meg eller for oss. Nummer 6 det er å ta sikte på. Som betyr at man har som ambisjon veldig ofte om å bli ferdig med noe på et bestemt tidspunkt. For eksempel vi tar sikte på å lansere appen 1. november. Det betyr at dette er i vår kalender. Det er planen vi jobber ut fra. Eller det kan være at man tar sikte på å øke omsetningen i en bedrift, for eksempel fra ett år til et annet. Selskapet tar sikte på å øke omsetningen med 50% i år hvis man er litt ambisiøs. Og den siste nummer S det er du kan godt. Som er en vanlig formulering når vi gir vennlige instrukser på norsk. Jeg husker da i mine første år som student så jobbet jeg også på siden i en klesebutikk deltid. Og da var det ofte at jeg spurte, er det noe jeg skal gjøre? Hva skal jeg gjøre? Ikke sant? Og min sjef sa da til meg, \"Ja, du kan godt pakke ut disse skjortene for eksempel.\" Eller ja, du kan godt skifte klær på den manengen. Så dette er en veldig vanlig måte å gi en instruks på norsk. Eh, en kommando, men det er mye vennligere enn å si pakk ut disse skjortene eller skift klær på den manekengen, ikke sant? Så det er en vennlig instruks. Ok. Skjønner du? Du kan godt skrive en setning med et av disse uttrykkene i kommentarfeltet under eller skrive spørsmål hvis du har noen. Og husk gjen å sjekke ut PDF-en eh hvor du kan lære masse som du kan bruke med dine norske kolleger. Og hvis du har lyst til å få en dypere innsikt i denne norske arbeidslivskulturen, så kan jeg anbefale dette intervjuet som du kan klikke på her med Karin Ellis, for der kan du lære masse om hvordan du navigerer denne litt merkelige norske jobburen.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0672
+  "src": "auto"
  },
  "Cd8jPyXMsuA": {
   "channel": "Norwegian Connect",
@@ -37265,7 +38219,7 @@
  "hVODbgSueMs": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-20T05:36:58+00:00",
+  "checked": "2026-11-22T03:50:45+00:00",
   "title": "Lær norsk gjennom naturlige samtaler om penger og hverdagsliv | A2–B1",
   "duration": 4290,
   "published": "20261117",
@@ -37383,7 +38337,409 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kveld",
+    "Bli med på en hyggelig kveld, og lær nyttige uttrykk fra norsk hverdagsliv.",
+    17,
+    25,
+    5.46,
+    9
+   ],
+   [
+    "ofte",
+    "Ikke alltid, men ganske ofte. Hva pleier dere å servere sammen med kaffen?",
+    644,
+    662,
+    5.61,
+    6
+   ],
+   [
+    "haha",
+    "Haha! Jeg tror jeg begynner å forstå kaffekulturen deres.",
+    763,
+    774,
+    4.76,
+    3
+   ],
+   [
+    "maten",
+    "Ja, maten er nesten klar. Alt ser veldig godt ut.",
+    1108,
+    1122,
+    4.68,
+    3
+   ],
+   [
+    "kaffen",
+    "Hva pleier dere å servere sammen med kaffen?",
+    654,
+    662,
+    4.0,
+    2
+   ],
+   [
+    "ingeniør",
+    "Emma er lærer, og Jonas jobber som ingeniør.",
+    126,
+    138,
+    4.13,
+    1
+   ],
+   [
+    "sausen",
+    "Den er veldig god. Jeg liker spesielt sausen.",
+    1169,
+    1180,
+    3.53,
+    1
+   ],
+   [
+    "privatlivet",
+    "Det kommer an på personen. Mange liker å holde privatlivet sitt litt for seg selv.",
+    930,
+    945,
+    3.46,
+    1
+   ],
+   [
+    "førsteinntrykk",
+    "Jeg vil gjerne gjøre et godt førsteinntrykk.",
+    299,
+    308,
+    3.4,
+    1
+   ],
+   [
+    "kjempefin",
+    "Tusen takk for en kjempefin kveld, Emma og Jonas.",
+    1299,
+    1310,
+    3.38,
+    1
+   ],
+   [
+    "desserten",
+    "Vi kan også ta med noe til desserten.",
+    342,
+    352,
+    3.34,
+    1
+   ],
+   [
+    "norsken",
+    "Kenji, hvordan går det med norsken din?",
+    787,
+    799,
+    3.32,
+    1
+   ],
+   [
+    "sjokoladekake",
+    "Kanskje en liten sjokoladekake? Det høres perfekt ut.",
+    351,
+    365,
+    2.85,
+    1
+   ],
+   [
+    "hverdagsliv",
+    "Bli med på en hyggelig kveld, og lær nyttige uttrykk fra norsk hverdagsliv.",
+    17,
+    25,
+    2.75,
+    1
+   ],
+   [
+    "småprat",
+    "Typisk norsk småprat Kenji, hvordan går det med norsken din?",
+    783,
+    799,
+    2.59,
+    1
+   ],
+   [
+    "samtaleemne",
+    "Hvorfor er været så populært som samtaleemne?",
+    859,
+    869,
+    2.56,
+    1
+   ],
+   [
+    "ovnsbakt",
+    "Jeg tror han lager ovnsbakt laks med poteter og grønnsaker.",
+    1018,
+    1036,
+    2.33,
+    1
+   ]
+  ],
   "tx": "Hei, og velkommen til kapittel 6! I dag skal Ingrid og Kenji besøke vennene Emma og Jonas. De skal spise middag, drikke kaffe og oppleve norsk gjestfrihet. Bli med på en hyggelig kveld, og lær nyttige uttrykk fra norsk hverdagsliv. La oss begynne! En invitasjon Ingrid, har vi noen planer for i kveld? Ja, faktisk. Jeg tenkte vi kunne besøke noen venner av meg. Venner av deg? Det høres hyggelig ut. De heter Emma og Jonas. Jeg har kjent dem i flere år. Bor de også i Oslo? Ja, de bor ikke så langt unna sentrum. Har de invitert oss på middag? Ja, vi skal spise sammen hos dem i kveld. Så spennende! … lærer, og Jonas jobber som ingeniør. Hva pleier dere å gjøre når dere møtes? Vi snakker sammen, lager mat eller drikker kaffe. Det høres ganske avslappet ut. Det er det også. Vi trenger ikke å planlegge så mye. Når skal vi dra? Rundt klokka seks. Det passer best for dem. Skal vi ta med noe? Godt spørsmål. Vi kan snakke om det før vi drar. Flott! Jeg gleder meg til å møte dem. Det blir sikkert en hyggelig kveld. Hva skal vi ta med? Ingrid, hva synes du vi skal ta med til Emma og Jonas? Kanskje vi kan kjøpe med oss noe godt. Som hva da? Vi kan ta med en liten sjokoladeeske eller noen blomster. … med en gave? Nei, absolutt ikke. Det er ikke nødvendig hver gang. Jeg vil gjerne gjøre et godt førsteinntrykk. Det skjønner jeg. Da kan vi kjøpe noen fine blomster. Hva slags blomster liker de? Emma liker tulipaner, tror jeg. Da kjøper vi tulipaner. Vi kan også ta med noe til desserten. Kanskje en liten sjokoladekake? Det høres perfekt ut. Skal vi gå innom butikken før vi drar? Ja, den ligger rett rundt hjørnet. Flott. Nå føler jeg meg litt bedre forberedt. Du trenger ikke å bekymre deg så mye. De kommer til å bli glade for at du kommer. Når vi kommer på besøk Er dette huset til Emma og … å se deg! Hei! Jeg heter Kenji. Hyggelig å møte deg. Hyggelig å møte deg også, Kenji! Kom inn! Takk for at dere inviterte oss. Bare hyggelig! Jonas er på kjøkkenet. Skal vi ta av oss skoene? Ja, det gjør vi vanligvis når vi kommer inn i norske hjem. Det er ganske vanlig i Japan også. Da kjenner du allerede til den regelen! Her har vi med noen blomster og litt sjokolade. Å, så hyggelig! Det var ikke nødvendig. Vi håper dere liker det. Tusen takk! Kom inn i stua, så kan dere sette dere. Huset deres er veldig fint. Takk! Vi har bodd her i omtrent tre år. En kopp kaffe Det er veldig koselig her. … dere får besøk? Ikke alltid, men ganske ofte. Hva pleier dere å servere sammen med kaffen? Vanligvis noe søtt, som kake eller boller. Det høres kjent ut. Hva mener du? I Japan serverer vi også ofte noe lite sammen med te. Så hyggelig! Hva slags ting? Det kan være små kaker eller tradisjonelle japanske søtsaker. Det hadde vært spennende å prøve. Kanskje jeg kan ta med noe neste gang. Det hadde vært veldig hyggelig. Her kommer kaffen! Vil du ha litt melk i? Nei takk, jeg drikker den svart. Da begynner du virkelig å bli vant til norsk kaffe. Haha! Jeg tror jeg begynner å forstå kaffekulturen … bra. Jeg forstår mer nå enn da jeg kom hit. Så flott! Bruker du norsk hver dag? Jeg prøver, men noen ganger snakker folk veldig fort. Det skjønner jeg. Det kan være vanskelig i begynnelsen. Jeg har også lagt merke til at folk ofte snakker om været. Haha! Ja, det gjør vi ganske ofte. Hvorfor er været så populært som samtaleemne? Kanskje fordi været forandrer seg så mye her. Det gir mening. Hva snakker dere ellers om? Vi snakker ofte om jobb, helgeplaner og hva vi har gjort i det siste. Er det vanlig å spørre folk om jobben deres? Ja, det er ganske vanlig, spesielt når man møter noen for … I Japan kan vi også være ganske forsiktige med personlige spørsmål. Det er kanskje en likhet mellom kulturene våre. Jeg synes det er fint å lære slike små ting. Ja, det hjelper deg å forstå hvordan folk snakker sammen her. Middag sammen Det lukter veldig godt fra kjøkkenet. Ja, Jonas lager middag til oss. Hva skal vi spise? Jeg tror han lager ovnsbakt laks med poteter og grønnsaker. Det høres veldig norsk ut. Det er ganske vanlig middag her. Kan jeg hjelpe til med noe? Du kan spørre Jonas om han trenger hjelp. Hei, Jonas! Kan jeg hjelpe deg på kjøkkenet? Hei, Kenji! Du kan gjerne … klar. Alt ser veldig godt ut. Takk! Håper dere liker maten. Jeg gleder meg til å smake. Vær så god, alle sammen! Tusen takk for maten! Bare hyggelig. Vil du ha litt mer laks? Ja takk, gjerne litt til. Så bra at du liker den. Den er veldig god. Jeg liker spesielt sausen. Når er det på tide å gå? Ingrid, hva er klokka nå? Den er snart halv elleve. Oj, vi har vært her ganske lenge. Ja, tiden går fort når man har det hyggelig. Tror du det er på tide å dra hjem? Kanskje snart. De skal sikkert stå opp tidlig i morgen. Hvordan sier man vanligvis at man skal gå? Du kan for eksempel si at det … for en hyggelig kveld? Det er helt perfekt. Da tror jeg vi skal begynne å gjøre oss klare. Ja, vi kan ta på oss skoene. Tusen takk for en kjempefin kveld, Emma og Jonas. Bare hyggelig! Det var så koselig å ha dere her. Vi må gjerne møtes igjen. Det må vi absolutt! Kanskje dere kan besøke oss neste gang? Det hadde vært veldig hyggelig. En hyggelig kveld Det var en veldig fin kveld. Ja, jeg er glad for at du likte det. Emma og Jonas var utrolig hyggelige. Jeg visste at du kom til å like dem. Jeg lærte også mye om norsk sosial kultur i dag. Som hva da? For eksempel at man ofte tar av seg … Jeg likte også at middagen var så avslappet. Vi trenger ikke alltid å gjøre så mye ut av det når vi får besøk. I Japan kan noen besøk være litt mer formelle. Det er interessant. Hva er den største forskjellen du har lagt merke til? Kanskje at folk her virker ganske uformelle når de besøker venner. Ja, mange liker at det føles naturlig og avslappet. Jeg tror jeg begynner å forstå hvordan nordmenn er sammen med venner. Du lærer litt mer for hver dag. Takk for at du tok meg med i kveld. Bare hyggelig, Kenji. Nå gleder jeg meg til neste opplevelse i Norge. Da skal vi finne på noe spennende igjen!",
+  "gist": "s",
+  "status": "ok",
+  "src": "cc"
+ },
+ "n7YadKEt6yY": {
+  "channel": "Norsk med Aria",
+  "lang": "no",
+  "checked": "2026-11-22T02:59:04+00:00",
+  "title": "Si dette for å få B2 på norskprøven",
+  "duration": 1428,
+  "published": "20261120",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 110.1,
+  "rare": 0.0256,
+  "var": 0.7496,
+  "cl": 0.055,
+  "speech_s": 1299.0,
+  "tokens": 2383,
+  "kw": [
+   [
+    "ord",
+    "I denne videoen har jeg plukket ut 30 vanskelige ord og fraser",
+    0,
+    6,
+    5.39,
+    22
+   ],
+   [
+    "betyr",
+    "Det betyr gradvis, eller etter en stund.",
+    213,
+    219,
+    5.54,
+    14
+   ],
+   [
+    "mindre",
+    "Med andre ord har mange mindre penger igjen hver måned.",
+    185,
+    190,
+    5.61,
+    12
+   ],
+   [
+    "neste",
+    "Neste uttrykk er \"med andre ord\".",
+    161,
+    165,
+    5.58,
+    11
+   ],
+   [
+    "utgangspunktet",
+    "Så kommer vi til \"i utgangspunktet\".",
+    381,
+    387,
+    4.7,
+    7
+   ],
+   [
+    "takket",
+    "Neste uttrykk er \"takket være\". Takket være.",
+    606,
+    612,
+    4.59,
+    7
+   ],
+   [
+    "tanke",
+    "Uttrykk nummer tolv er \"med tanke på\".",
+    577,
+    582,
+    4.78,
+    6
+   ],
+   [
+    "rimelig",
+    "\"Rimelig\" og \"urimelig\". Rimelig.",
+    938,
+    943,
+    4.69,
+    6
+   ],
+   [
+    "forutsetning",
+    "Og det siste ordet i denne gruppa er \"en forutsetning\".",
+    788,
+    794,
+    4.05,
+    6
+   ],
+   [
+    "konsekvens",
+    "Neste ord er \"en konsekvens\". En konsekvens.",
+    737,
+    744,
+    4.15,
+    5
+   ],
+   [
+    "integrering",
+    "Ord nummer 26 er \"integrering\". Integrering.",
+    1205,
+    1213,
+    3.97,
+    5
+   ],
+   [
+    "tilrettelegge",
+    "Og så har vi \"å tilrettelegge\".",
+    1132,
+    1136,
+    3.89,
+    5
+   ],
+   [
+    "hjemmekontor",
+    "Etter hvert har det blitt vanlig med hjemmekontor.",
+    244,
+    249,
+    3.03,
+    4
+   ],
+   [
+    "muntlige",
+    "Dette passer perfekt til samtaleoppgaven på den muntlige prøven, blant annet.",
+    349,
+    355,
+    3.44,
+    2
+   ],
+   [
+    "helsehjelp",
+    "I utgangspunktet er helsehjelp gratis i Norge,",
+    409,
+    415,
+    3.34,
+    2
+   ],
+   [
+    "synonym",
+    "som synonym til ordet \"miljøvennlig\". Men egentlig så betyr det \"sustainable\",",
+    1001,
+    1010,
+    3.32,
+    2
+   ],
+   [
+    "ressurssterke",
+    "Barn fra ressurssterke familier får ofte mer hjelp med leksene.",
+    1344,
+    1351,
+    2.91,
+    3
+   ],
+   [
+    "ressurssterk",
+    "Og så har vi kommet til ordet \"ressurssterk\".",
+    1327,
+    1332,
+    2.77,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "nummer",
+    "Nummer to er \"blant annet\". Blant annet.",
+    77,
+    83,
+    4.95,
+    11
+   ],
+   [
+    "bruker",
+    "Denne frasen bruker du når du vil introdusere et tema.",
+    54,
+    60,
+    5.65,
+    10
+   ],
+   [
+    "tillit",
+    "Og så har vi ordet \"tillit\".",
+    1270,
+    1274,
+    4.64,
+    6
+   ],
+   [
+    "ordene",
+    "Det fine med det du skal lære nå, er at du kan bruke disse ordene",
+    10,
+    16,
+    4.52,
+    6
+   ],
+   [
+    "livskvalitet",
+    "Neste ord er \"livskvalitet\". Livskvalitet.",
+    1300,
+    1306,
+    3.86,
+    5
+   ],
+   [
+    "urimelig",
+    "\"Rimelig\" og \"urimelig\". Rimelig.",
+    938,
+    943,
+    4.0,
+    4
+   ],
+   [
+    "integreringen",
+    "Frivillig arbeid kan gjøre integreringen lettere.",
+    1226,
+    1231,
+    3.56,
+    1
+   ],
+   [
+    "småbarn",
+    "Det er en utfordring å kombinere jobb og småbarn.",
+    928,
+    934,
+    3.56,
+    1
+   ],
+   [
+    "allergiske",
+    "de er allergiske mot denne feilen.",
+    1417,
+    1421,
+    2.89,
+    1
+   ],
+   [
+    "jobbmuligheter",
+    "flere jobbmuligheter og ikke minst mer selvtillit.",
+    146,
+    153,
+    2.85,
+    1
+   ],
+   [
+    "luftkvaliteten",
+    "Jo mer vi kjører bil, desto dårligere blir luftkvaliteten.",
+    731,
+    738,
+    2.82,
+    1
+   ],
+   [
+    "foreldrepermisjon",
+    "Foreldrepermisjon for fedre er viktig for likestillingen.",
+    1258,
+    1264,
+    2.77,
+    1
+   ]
+  ],
+  "tx": "I denne videoen har jeg plukket ut 30 vanskelige ord og fraser som hjelper deg med å imponere på norskprøven. Det fine med det du skal lære nå, er at du kan bruke disse ordene på alle typer oppgaver på norskprøven. Så la oss sette i gang. De første ordene du skal lære handler om oppbygging og struktur. Når du skriver en tekst eller snakker om et tema, så må den som hører på, kunne følge med. De må vite hvordan det du sier, henger sammen. Det første uttrykket er når det gjelder \"når det gjelder\". Når det gjelder. Denne frasen bruker du når du vil introdusere et tema. Når det gjelder helse, er … Kollektivtransport er billig, praktisk og ikke minst bra for miljøet. Neste uttrykk er \"med andre ord\". Med andre ord. Denne bruker du når du vil si det samme en gang til, kanskje på en litt enklere måte. Den passer perfekt når du skal oppsummere eller avslutte en logisk rekke med tanker. Prisene har økt mye. Med andre ord har mange mindre penger igjen hver måned. Han jobber nesten aldri hjemmefra. Med andre ord liker han å være på kontoret. Mange unge sitter mye foran skjermen. Med andre ord beveger de seg for lite. Det siste uttrykket i denne gruppa er \"etter hvert\". Etter hvert. … for unge. Til en viss grad er det foreldrenes ansvar at barna spiser sunt. Hjemmekontor er til en viss grad praktisk, men mange blir ensomme. Og forresten, hvis du har prøvd å ta norskprøven mange ganger, uten å klare det på det nivået du trenger, så bør du vurdere coaching programmet mitt. Bare sjekk lenken under denne videoen for mer info. Uansett: nummer syv er \"for så vidt\". For så vidt. Denne bruker du når du gir den andre litt rett, før du kommer med et \"men\". Dette passer perfekt til samtaleoppgaven på den muntlige prøven, blant annet. Det er for så vidt riktig at bil er praktisk, … an på\". Det kommer an på. Hvis du ikke helt vet hva du mener, så er dette et godt sted å starte. Og så forklarer du hva det kommer an på. Om det er lurt å kjøpe bolig, kommer an på hvor mye du tjener. Det kommer an på alderen til barnet om det bør ha mobiltelefon. Om hjemmekontor er bra, kommer an på hva slags jobb du har. Et lite hemmelig triks hvis du absolutt ikke vet hva du skal si, det er å bare si \"det kommer an på\". \"Det kommer an på ...\" Og så kan du tenke. På den måten, så kan du fort vinne tre, fire sekunder for å samle tankene. Nummer ti er \"selv om\". Selv om. Den bruker du når … prisene er det lurt å lage matpakke. Med tanke på helsa er det bedre å sykle til jobben enn å kjøre bil. Neste uttrykk er \"takket være\". Takket være. Denne bruker du når noe positivt er grunnen til noe annet. Takket være teknologien kan mange jobbe hjemmefra. Takket være gratis skole har alle barn i Norge mulighet til å lære. Takket være oljen har Norge blitt et rikt land. Vi kan faktisk også bruke den negativt, som for eksempel: \"Takket være ekstremvær så har vi dessverre fått lavere produksjon av mat.\" Men det er litt sjelden å bruke det negativt. Det er litt vanskelig også, så jeg vil … skrive om fordeler og ulemper. En konsekvens av høye boligpriser er at unge bor lenger hjemme. Mange er ikke klar over konsekvensene av å sitte stille hele dagen. Hvis vi ikke gjør noe, kan konsekvensene for miljøet bli store. Og det siste ordet i denne gruppa er \"en forutsetning\". En forutsetning. En forutsetning er noe som må være på plass for at noe annet skal fungere. God søvn er en forutsetning for å kunne lære godt. Å kunne norsk er ofte en forutsetning for å få jobb. Tydelige grenser og regler er en forutsetning for en god skole. De neste ordene bruker du når du skal vurdere noe. På … er at befolkningen blir eldre. Mange skoler har utfordringer med mobbing. Det er en utfordring å kombinere jobb og småbarn. Nummer 20 er egentlig to ord: \"Rimelig\" og \"urimelig\". Rimelig. Urimelig. Rimelig betyr rettferdig eller fornuftig, og urimelig er det motsatte. Rimelig kan også bety billig, men i en argumenterende tekst så handler det oftest om hva som er riktig eller rettferdig. Det er rimelig at de som tjener mest, betaler mest skatt. Jeg synes det er urimelig at studenter må betale så mye for å bo. Er det rimelig at foreldre skal betale for skoleturer? Og så har vi ordet … når du skal foreslå løsninger. Kanskje mot slutten av det du sier eller skriver på norskprøven. Et godt tiltak mot ensomhet er flere møteplasser for eldre. Regjeringen har satt i gang flere tiltak for å redusere utslippene. Gratis skolemat kan være et viktig tiltak for bedre helse blant barn. Neste ord er \"å bidra\". Å bidra. Det betyr å hjelpe til med noe, eller å gi noe til fellesskapet. Alle kan bidra til et bedre miljø ved å kaste mindre mat. Frivillige organisasjoner bidrar mye i lokalsamfunnet. Innvandrere bidrar mye til det norske arbeidslivet. Og så har vi \"å tilrettelegge\". Å … arbeid kan gjøre integreringen lettere. Integrering handler om at både innvandrere og nordmenn gjør en innsats. Neste ord er \"likestilling\". Likestilling. Likestilling betyr at alle har de samme rettighetene og mulighetene, for eksempel kvinner og menn. Norge er kjent for likestilling mellom kvinner og menn. Foreldrepermisjon for fedre er viktig for likestillingen. Det er fortsatt ikke full likestilling når det gjelder lønn. Og så har vi ordet \"tillit\". Tillit. Å ha tillit til noen betyr å stole på dem, å tro på at noen vil det beste for deg. Nordmenn har generelt høy tillit til … samme tekst. Da høres det fort kunstig ut. Velg heller fem eller seks ord som passer til temaet, og bruk dem riktig. Det er mye bedre. Og så er det en ting du må passe på. For det er faktisk ikke noe vits å kunne alle disse ordene hvis du sier sånn her: \"Med tanke på klimaet vi bør fly mindre.\" \"Etter hvert jeg ble vant til.\" \"I utgangspunktet helsehjelp er gratis.\" Hørte du feilen? Se denne filmen, hvis du vil repetere denne grammatikkregelen. De som bestemmer karakteren på norskprøven, de er allergiske mot denne feilen. Så dette må du ha kontroll på, i hvert fall hvis målet ditt er å få B2.",
   "gist": "s",
   "status": "ok",
   "src": "cc"

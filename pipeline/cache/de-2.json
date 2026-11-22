@@ -616,7 +616,7 @@
  "y-CCdP5D9Ok": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-09T16:18:54+00:00",
+  "checked": "2026-11-22T03:14:27+00:00",
   "title": "Vier deutsche Sätze für Denkpausen in Meetings und Gesprächen",
   "duration": 1416,
   "published": "20251104",
@@ -625,6 +625,7 @@
   "pace": 149.0,
   "rare": 0.0773,
   "var": 0.7735,
+  "cl": null,
   "speech_s": 1411.3,
   "tokens": 3504,
   "kw": [
@@ -786,6 +787,88 @@
     1184,
     1188,
     2.35,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "sondern",
+    "sondern überlegen. Der Vokal hier in der betonten Silbe ist ein gespanntes",
+    115,
+    121,
+    5.77,
+    20
+   ],
+   [
+    "gemacht",
+    "keine Gedanken gemacht. Und dieser Satz",
+    782,
+    786,
+    5.65,
+    20
+   ],
+   [
+    "zweimal",
+    "als ich den Satz gerade zweimal gesagt habe, dass ich",
+    59,
+    63,
+    4.6,
+    5
+   ],
+   [
+    "wörter",
+    "Hier achte darauf, dass du die Wörter miteinander verbindest,",
+    203,
+    207,
+    4.35,
+    5
+   ],
+   [
+    "aussprache",
+    "deine Aussprache verbessern möchtest, deine Sprechwirkung",
+    334,
+    339,
+    3.88,
+    5
+   ],
+   [
+    "laute",
+    "Assimilation. Also Assimilation, die Laute gleichen sich aneinander an. Ja, t,",
+    513,
+    520,
+    4.01,
+    4
+   ],
+   [
+    "fliessenden",
+    "",
+    0,
+    0,
+    3.38,
+    3
+   ],
+   [
+    "tilgung",
+    "Achte im Verb drauf, dass wir hier die e-Schwa-Tilgung",
+    101,
+    105,
+    3.29,
+    3
+   ],
+   [
+    "akzentfrei",
+    "akzentfrei auf Deutsch sagst, dann natürlich",
+    35,
+    39,
+    2.29,
+    3
+   ],
+   [
+    "chunk",
+    "Satz, zum dritten Chunk. Und der lautet, dazu hab ich mir ehrlich gesagt noch gar",
+    776,
+    783,
+    2.13,
     3
    ]
   ],
@@ -11609,7 +11692,7 @@
  "83mj8OfdHGU": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-07T04:48:20+00:00",
+  "checked": "2026-11-22T04:04:17+00:00",
   "title": "Slow German For Beginners | Anna Falls Off Her First Bike! | A1 german Listening Story",
   "duration": 168,
   "published": "20261013",
@@ -11617,15 +11700,41 @@
   "spoken_v": 2,
   "pace": 95.8,
   "rare": 0.04,
+  "var": 0.8013,
+  "cl": null,
   "speech_s": 125.3,
   "tokens": 200,
   "kw": [
    [
-    "kartons",
-    "Die Kartons greifen mich an! Die Kartons bewegen sich nicht.",
-    57,
-    63,
-    3.46,
+    "wirklich",
+    "Wirklich? Ja, wirklich.",
+    72,
+    76,
+    5.75,
+    2
+   ],
+   [
+    "kinder",
+    "Schöne Ferien, Kinder! Ich will fahren! Darf ich?",
+    21,
+    29,
+    5.6,
+    2
+   ],
+   [
+    "nein",
+    "Nein, kein Eis. Schaut!",
+    9,
+    13,
+    5.52,
+    2
+   ],
+   [
+    "allein",
+    "Was? Ich fahre allein! Ich kann das!",
+    115,
+    119,
+    5.34,
     2
    ],
    [
@@ -11653,20 +11762,38 @@
     4
    ],
    [
-    "papa",
-    "Was ist das, Papa? Eine Überraschung?",
-    3,
-    7,
-    4.46,
-    3
-   ],
-   [
     "halte",
     "Keine Panik! Halte das Gleichgewicht! Alles gut?",
     45,
     57,
     4.79,
     3
+   ],
+   [
+    "kartons",
+    "Die Kartons greifen mich an! Die Kartons bewegen sich nicht.",
+    57,
+    63,
+    3.46,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "langsam",
+    "Fahr langsam. Schau nach vorne.",
+    91,
+    95,
+    5.06,
+    2
+   ],
+   [
+    "schau",
+    "Schau nach vorne! Ich fahre! Ben, warum tanzt das Fahrrad?",
+    39,
+    46,
+    4.95,
+    2
    ],
    [
     "fahrrad",
@@ -11677,31 +11804,119 @@
     3
    ],
    [
-    "wirklich",
-    "Wirklich? Ja, wirklich.",
-    72,
-    76,
-    5.75,
-    2
+    "papa",
+    "Was ist das, Papa? Eine Überraschung?",
+    3,
+    7,
+    4.46,
+    3
    ],
    [
-    "vorsichtig",
-    "Ja, aber sei vorsichtig. Ich bin ganz vorsichtig.",
-    28,
-    35,
-    4.44,
-    2
+    "ferien",
+    "Schöne Ferien, Kinder! Ich will fahren! Darf ich?",
+    21,
+    29,
+    4.18,
+    1
+   ],
+   [
+    "fahr",
+    "Fahr langsam. Schau nach vorne.",
+    91,
+    95,
+    4.14,
+    1
+   ],
+   [
+    "bremsen",
+    "Zieh die Bremsen! Das wollte ich so machen!",
+    125,
+    134,
+    4.04,
+    1
+   ],
+   [
+    "zieh",
+    "Zieh die Bremsen! Das wollte ich so machen!",
+    125,
+    134,
+    4.03,
+    1
+   ],
+   [
+    "tschüss",
+    "Tschüss!",
+    160,
+    168,
+    3.96,
+    1
+   ],
+   [
+    "gleichgewicht",
+    "Keine Panik! Halte das Gleichgewicht! Alles gut?",
+    45,
+    57,
+    3.94,
+    1
+   ],
+   [
+    "mutige",
+    "Meine mutige Tochter! Ich habe Eis für alle.",
+    140,
+    145,
+    3.54,
+    1
+   ],
+   [
+    "verspreche",
+    "Ich verspreche es. Fahr langsam.",
+    90,
+    94,
+    3.41,
+    1
+   ],
+   [
+    "juhu",
+    "Eis! Juhu! Und Papa? Er ist zu langsam!",
+    144,
+    152,
+    3.38,
+    1
+   ],
+   [
+    "fällst",
+    "Du fällst. Mein Knie tut weh.",
+    62,
+    67,
+    3.13,
+    1
+   ],
+   [
+    "versprich",
+    "Versprich es mir: Du lässt nicht los!",
+    87,
+    91,
+    2.6,
+    1
+   ],
+   [
+    "abonniere",
+    "und abonniere den Kanal. Tschüss!",
+    159,
+    168,
+    2.56,
+    1
    ]
   ],
   "tx": "Anna! Ben! Schaut mal! Was ist das, Papa? Eine Überraschung? Ich hoffe, es ist Eis! Nein, kein Eis. Schaut! Ein Fahrrad! Es ist so schön! Cool! Danke, Papa! Schöne Ferien, Kinder! Ich will fahren! Darf ich? Ja, aber sei vorsichtig. Ich bin ganz vorsichtig. Schau nach vorne! Ich fahre! Ben, warum tanzt das Fahrrad? Keine Panik! Halte das Gleichgewicht! Alles gut? Die Kartons greifen mich an! Die Kartons bewegen sich nicht. Du fällst. Mein Knie tut weh. Ich fahre nie wieder! Gib nicht auf! Ich falle auch oft. Wirklich? Ja, wirklich. Jeder Fall ist eine Lektion. Okay. Noch ein Versuch. Ich halte den Sattel. Keine Angst! Versprich es mir: Du lässt nicht los! Ich verspreche es. Fahr langsam. Schau nach vorne. Ich fahre! Ich fahre! Super, Anna! Ben, wie halte ich an? Ben, hältst du das Fahrrad noch? Nein! Was? Ich fahre allein! Ich kann das! Zieh die Bremsen! Das wollte ich so machen! Hallo, Kinder! Wie war die Fahrradstunde? Toll! Ich fahre allein! Meine mutige Tochter! Ich habe Eis für alle. Eis! Juhu! Und Papa? Er ist zu langsam! Ich brauche Übung! Hat dir die Geschichte gefallen? Dann gib ein Like, teile das Video und abonniere den Kanal. Tschüss!",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8013
+  "src": "cc"
  },
  "E-lzrRF9vUI": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-10T03:01:22+00:00",
+  "checked": "2026-11-22T04:04:21+00:00",
   "title": "LEARN A1 GERMAN | My life in Hamburg | Easy German Story with English Translation",
   "duration": 1237,
   "published": "20260928",
@@ -11710,6 +11925,7 @@
   "pace": 74.8,
   "rare": 0.0487,
   "var": 0.6188,
+  "cl": null,
   "speech_s": 905.7,
   "tokens": 1129,
   "kw": [
@@ -11874,6 +12090,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "mag",
+    "mag Hamburg sehr. I like Hamburg very much.",
+    102,
+    113,
+    5.32,
+    12
+   ],
+   [
+    "kaffee",
+    "Im Café mache ich Kaffee. In the Cafe I make coffee.",
+    354,
+    367,
+    4.84,
+    12
+   ],
+   [
+    "fahre",
+    "Ich fahre mit dem Bus zur Arbeit.",
+    341,
+    350,
+    4.46,
+    6
+   ],
+   [
+    "arbeite",
+    "Ich arbeite in einem Cafée. Ich arbeite in einem Café.",
+    305,
+    317,
+    4.44,
+    6
+   ],
+   [
+    "badezimmer",
+    "Ich habe auch ein Badezimmer. I also have a bathroom.",
+    169,
+    181,
+    3.9,
+    6
+   ],
+   [
+    "lea",
+    "I heiße Lea. My name is Lea.",
+    34,
+    44,
+    3.77,
+    5
+   ],
+   [
+    "together",
+    "We eat together. Wir essen zusammen.",
+    283,
+    294,
+    3.43,
+    2
+   ],
+   [
+    "practice",
+    "will help you practice your absolute",
+    3,
+    9,
+    3.41,
+    2
+   ],
+   [
+    "evening",
+    "In the evening, I cook. Am Abend koche ich.",
+    402,
+    415,
+    2.89,
+    1
+   ],
+   [
+    "understanding",
+    "fun test understanding. Hallo.",
+    25,
+    35,
+    2.87,
+    1
+   ]
+  ],
   "tx": "This is a simple slow German story that will help you practice your absolute beginner German skills. On our channel you will also get the A2 level version of the same story. First you hear the story with English translation. Then you hear the story with subtitles. After that, you hear the story again with only German subtitles. Finally, conclude with fun test understanding. Hallo. Hello. I heiße Lea. My name is Lea. Ich heiße Lea. Ich bin 22 Jahre alt. I am 22 years old. Ich bin 22 Jahre alt. Ich komme aus Deutschland. I come from Germany. Ich komme aus Deutschland. Ich wohne in Hamburg. I … große Stadt. Hamburg is a big city. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Hamburg is very beautiful. Hamburg ist sehr schön. Ich mag Hamburg sehr. I like Hamburg very much. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. I apartment. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. My apartment is small and beautiful. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. I have a bedroom. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. I living room. Ich habe ein Wohnzimmer. Ich habe eine Küche. I have a kitchen. Ich habe eine … Ich habe auch ein Badezimmer. Meine Familie. My family. Meine Familie ist klein. My family small. Meine Familie ist klein. Ich habe einen Bruder. I have a brother. Ich habe einen Bruder. Er heißt Tim. His name Tim. Er heißt Tim. Tim ist 19 Jahre alt. Tim is 19 years old. Tim ist 19 Jahre alt. Er geht zur Schule. He goes to school. Er geht zur Schule. Ich habe auch eine Mutter und einen Vater. I also have a mother and a father. Ich habe auch eine Mutter und einen Vater. Meine Eltern wohnen in Hamburg. My parents live in Hamburg. Meine Eltern wohnen in Hamburg. Am Wochenende besuche ich … Wochenende besuche ich meine Eltern. Wir essen zusammen. We eat together. Wir essen zusammen. Wir sprechen zusammen. We talk together. Wir sprechen zusammen. Mein Tag. My day. Ich arbeite in einem Cafée. Ich arbeite in einem Café. Jeden Morgen stehe ich um 7 Uhr auf. Morning up Jeden Morgen stehe ich um 7 Uhr auf, dann frühstücke ich. Then I have breakfast. Dann frühstücke ich. Ich fahre mit dem Bus zur Arbeit. I take the bus to work. Ich fahre mit dem Bus zur Arbeit. Im Café mache ich Kaffee. In the Cafe I make coffee. Im Cafe mache ich Kaffee. Ich helfe den Kunden. I help the customers. … work. Ich mag meine Arbeit. Nach der Arbeit gehe ich nach Hause. After work, I go home. Nach der Arbeit gehe ich nach Hause. Am Abend koche ich. In the evening, I cook. Am Abend koche ich. Manchmal höre ich Musik. Sometimes listen to music. Manchmal höre ich Musik. Manchmal sehe ich einen Film. Sometimes I watch a movie. Manchmal sehe ich einen Film. Meine Hobbys. My hobbies. Ich lese gerne Bücher. I like to read books. Ich lese gerne Bücher. Ich gehe gerne spazieren. I like to go for walks. Ich gehe gerne spazieren. Am Wochenende treffe ich meine Freunde. Wir gehen zusammen in ein Café. … den Park oder wir gehen in den Park. Ich bin glücklich. I am happy. Ich bin glücklich. Ich mag mein Leben in Hamburg. I like my life in Hamburg. Ich mag mein Leben in Hamburg. Listen to the story again slowly without the English voice translation. Hallo, ich heiße Lea. Ich bin 22 Jahre alt. Ich komme aus Deutschland. Ich wohne in Hamburg. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. Ich habe eine Küche. Ich habe auch ein Badezimmer. Meine … Er heißt Tim. Tim ist 19 Jahre alt. Er geht zur Schule. Ich habe auch eine Mutter und einen Vater. Meine Eltern wohnen in Hamburg. Am Wochenende besuche ich meine Eltern. Wir essen zusammen. Wir sprechen zusammen. Mein Tag. Ich arbeite in einem Kaffee. Jeden Morgen stehe ich um 7 Uhr auf. Dann frühstücke ich. Ich fahre mit dem Bus zur Arbeit. Im Kaffee mache ich Kaffee. Ich helfe den Kunden. Ich mag meine Arbeit. Nach der Arbeit gehe ich nach Hause. Am Abend koche ich. Manchmal höre ich Musik. Manchmal sehe ich einen Film. meine Hobbys. Ich lese gerne Bücher. Ich gehe gerne spazieren. … in ein Caffee oder wir gehen in den Park. Ich bin glücklich. Ich mag mein Leben in Hamburg. Listen to the story again at a normal pace with only German subtitles. Hallo, ich heiße Lea. Ich bin 22 Jahre alt. Ich komme aus Deutschland. Ich wohne in Hamburg. Hamburg ist eine große Stadt. Hamburg ist sehr schön. Ich mag Hamburg sehr. Ich wohne in einer kleinen Wohnung. Meine Wohnung ist klein und schön. Ich habe ein Schlafzimmer. Ich habe ein Wohnzimmer. Ich habe eine Küche. Ich habe auch ein Badezimmer. Meine Familie. Meine Familie ist klein. Ich habe einen Bruder. Er heißt Tim. Tim ist … Mutter und einen Vater. Meine Eltern wohnen in Hamburg. Am Wochenende besuche ich meine Eltern. Wir essen zusammen. Wir sprechen zusammen. Mein Tag. Ich arbeite in einem Kaffee. Jeden Morgen stehe ich um 7 Uhr auf. Dann frühstücke ich. Ich fahre mit dem Bus zur Arbeit. Im Kaffee mache ich Kaffee. Ich helfe den Kunden. Ich mag meine Arbeit. Nach der Arbeit gehe ich nach Hause. Am Abend koche ich. Manchmal höre ich Musik. Manchmal sehe ich einen Film. meine Hobbys. Ich lese gerne Bücher, ich gehe gerne spazieren. Am Wochenende treffe ich meine Freunde. Wir gehen zusammen in ein Kaffee oder … Leben in Hamburg. Repeat the following simple sentences after the narrator to practice your pronunciation. Wohnen. Ich wohne in Hamburg. Das Schlafzimmer. Das Schlafzimmer ist klein. Das Wohnzimmer. Ich bin im Wohnzimmer. Die Küche. Die Küche ist schön. Das Badezimmer. Das Badezimmer ist klein. Besuchen. Ich besuche meine Eltern. Ich besuche meine Eltern. Aufstehen. Ich stehe um 7 Uhr auf. arbeiten. Ich arbeite in einem Kaffee. Ich arbeite in einem Kaffee machen. Ich mache Kaffee. Fahren. Ich fahre mit dem Bus. Ich fahre mit dem Bus. เฮ How did you score? Share your results in the comments.",
   "gist": "s",
   "status": "ok",
@@ -11882,7 +12180,7 @@
  "Bc_TbVo--7c": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-10T03:06:40+00:00",
+  "checked": "2026-11-22T04:11:52+00:00",
   "title": "Learn German Naturally 🇩🇪 After Work in Germany, Supermarket and Cooking (Comprehensible Input)",
   "duration": 1245,
   "published": "20251101",
@@ -11891,6 +12189,7 @@
   "pace": 75.3,
   "rare": 0.1288,
   "var": 0.7449,
+  "cl": null,
   "speech_s": 1169.0,
   "tokens": 1467,
   "kw": [
@@ -12055,6 +12354,88 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "gerade",
+    "Ich komme gerade vom Supermarkt. Ich bin ganz schön hungrig.",
+    236,
+    247,
+    5.77,
+    4
+   ],
+   [
+    "gern",
+    "Meine Freizeit verbringe ich gern draußen in der Natur.",
+    54,
+    62,
+    5.15,
+    4
+   ],
+   [
+    "möchtest",
+    "Möchtest du Wasser? Ich salze die Suppe nach.",
+    992,
+    1008,
+    4.53,
+    3
+   ],
+   [
+    "schmeckt",
+    "etwas schmeckt mir gut oder etwas schmeckt mir nicht.",
+    1034,
+    1039,
+    4.47,
+    3
+   ],
+   [
+    "schale",
+    "Ich schäle die Karotte. Und das hier ist die Schale,",
+    612,
+    618,
+    3.91,
+    3
+   ],
+   [
+    "orange",
+    "Der linke Kürbis ist orange. Der orange Kürbis,",
+    374,
+    383,
+    4.15,
+    2
+   ],
+   [
+    "ingwer",
+    "und ein Stück Ingwer, der Ingwer.",
+    441,
+    448,
+    3.37,
+    3
+   ],
+   [
+    "karotte",
+    "die Karotte oder die Möhre. Und jetzt kommt der Schäler zum Einsatz.",
+    604,
+    613,
+    3.01,
+    3
+   ],
+   [
+    "kürbisse",
+    "und guck mal, hier gibt es viele verschiedene Kürbisse.",
+    201,
+    209,
+    2.9,
+    2
+   ],
+   [
+    "kochtopf",
+    "Ich gebe das Kürbisfleisch in den Kochtopf.",
+    893,
+    900,
+    2.82,
+    2
+   ]
+  ],
   "tx": "Hallo. Ich habe Feierabend. Ich bin also fertig mit der Arbeit für heute und wir Tako und ich machen einen Feierabendspaziergang. Komm mit. Der Feierabend. Feierabend ist der restliche Tag nach der Arbeit, also wenn man mit der Arbeit für den Tag fertig ist. Und die Freizeit startet. Meine Freizeit verbringe ich gern draußen in der Natur. Am liebsten im Wald oder guck mal an einem Gewässer wie z.B. an einem See, der See. Abends lass ich gern den Tag Revue passieren. Ich denke also über meinen Tag nach was lief gut, was lief solala, was möchte ich morgen vielleicht besser machen? Nachdenken … wird dunkler, also schalte ich Takos Licht ein. Auf geht's. Wir fahren zum Supermarkt. Ich überquere den Zabrastreifen und gehe in den Supermarkt. Die Schiebetüren öffnen sich. Ich stehe in der Obst und Gemüseabteilung und guck mal, hier gibt es viele verschiedene Kürbisse. Der Kürbis ist in Aktion, der Preis ist reduziert. Die Selbstbedienungskasse. Vor mir steht eine Frau mit Einkaufswagen und ich halte den Einkaufskorb in der Hand. Ich komme gerade vom Supermarkt. Ich bin ganz schön hungrig. Doch zuerst muss ich meinen Schal, meine Jacke, meine Stiefel ausziehen. Ich hänge die Tasche … und das hier ist ein Muskatkürbis. Dann gab es einen Spaghettikürbis. Wie die Pasta Spaghetti, so heißt dieser Kürbis Spaghettikürbis und einen Hokkaido Kürbis. Der Hokkaido Kürbis. Und guck mal, ich habe hier drei 1 2 3 verschiedene Kürbisarten, den Muskatkürbis, Spaghettikürbis und Hokkaido-Kürbis. Tako liebt Kürbis, aber dieser Kürbis ist nicht für Tako, sondern für uns. Und guck mal, links, Mitte, rechts. Ich schreibe mit der rechten Hand und du? Der linke Kürbis ist orange. Der orange Kürbis, der rechte Kürbis ist grün. Der grüne Kürbis und der Kürbis in der Mitte ist gelb und … die Knolle, der Knoblauch und ein Stück Ingwer, der Ingwer. Und rate mal, was wir heute kochen werden, was wir heute zu Abend essen. Na, hast du es erraten? Wir werden heute eine Kürbissuppe kochen und für den ersten Schritt brauchen wir ein Schneidebrett, ein großes Messer und einen Schäler. Mir ist es gerade zu dunkel. Ich möchte mir nicht in die Finger schneiden, also brauche ich mehr Licht. Zuerst halbiere ich den Kürbis. So, ich habe den Kürbis halbiert und guck mal, das hier ist das Kürbisfleisch und in der Mitte siehst du die weißen Kürbiskererne. Wir rösten den Kürbis zuerst. Also … ist der letzte Kürbis an der Reihe. Weil auf diesem Blech kein Platz mehr ist, gebe ich den restlichen Kürbis auf ein zweites Backblech. Und nun sind die Karotten dran. die Karotte oder die Möhre. Und jetzt kommt der Schäler zum Einsatz. Ich schäle die Karotte. Und das hier ist die Schale, also die äußere Haut von Gemüse oder Obst. Die Schale. Ich schäle die Karotte von oben nach unten. Von oben nach unten. Ich schneide die Enden ab und gebe die Karotten auch aufs Backblech. Und jetzt besprühe ich den Kürbis und die Karotten mit Olivenöl. Ich würze das Gemüse mit Salz und Pfeffer. Würzen. … Also habe ich jetzt ungefähr 30 Minuten für mich und anstatt einfach so auf Social Media zu scrollen, nutze ich die Zeit ein bisschen produktiver. heute mit Busuu. Ungefähr vor 4 Jahren habe ich Busuu entdeckt und ich freue mich dir diese App heute zu zeigen. Busuu Sprachlernapp, die von Sprachexpertinnen entwickelt wurde. Was mir besonders gut gefällt, sind die abwechslungsreichen Lektionen. In der Regel startet man die Lektion mit Videos, wo es in erster Linie darum geht, das Video den Inhalt zu sehen, zu hören und zu verstehen. Genauso wie Sprache im Alltag wirklich klingt. Und das Beste … Art und Weise. Und gerade dieser Austausch mit Muttersprachlern, das regelmäßige Schreiben und Sprechen in der Zielsprache ist beim Sprachenlernen so wichtig. Es riecht hier in der Wohnung schon so lecker nach Kürbis. Mal gucken, ob denn der Kürbis schon fertig ist. Oh ja, das Kürbisfleisch ist schon weich. Also nehme ich den Kürbis aus dem Ofen. Ich schalte den Ofen aus. Ich öffne den Ofen und nehme ein Blech aus dem Ofen. Huiuii. Und guck mal, wie schön sich das Kürbisfleisch von der Schale löst. Ich gebe das Kürbisfleisch in den Kochtopf. Ich gebe die gerösteten Karotten in den Topf … den gebe ich jetzt auch noch in die Suppe. Du siehst, dass die Suppe bereits kocht. Also drehe ich die Temperatur etwas herunter. Ich gebe den Deckel nun auf den Kochtopf und lasse die Suppe bei geringer Temperatur noch ein bisschen köcheln. So, die Suppe ist nahezu fertig, also fast fertig. Also decke ich den Tisch. Möchtest du Wasser? Ich salze die Suppe nach. Die Suppe benötigt noch ein bisschen mehr Salz. nachsalzen und noch ein bisschen Muskatnuss. Das hier ist die ganze Nuss und diese reibe ich in die Suppe. Noch einmal abschmecken, also der Geschmack und ich schmecke etwas schmeckt … Kürbiskernöl ist eine Spezialität aus meinem Heimatbundesland aus der Steiermark. Immer wenn ich nach Hause fahre nach Graz in meine Heimatstadt oder Besuch kommt - aus Graz, bitte ich meine Besucher Kürbiskernöl mitzubringen, denn das heimische Kürbiskernöl ist das Beste. Ich gebe also ein bisschen Kürbiskernöl auf die Suppe und auch noch ein paar geröstete Kürbiskerne und getoastetes Sauerteigbrot. Bist du hungrig? Na, dann ab an den Tisch. Das Essen ist angerichtet. Komm, setz dich. Mahlzeit. Guten Appetit. Lass es dir schmecken. Die Suppe besteht nur aus wenigen Zutaten und schmeckt … Wenn du Busu testen möchtest, dann kannst du das jederzeit kostenlos machen oder auch 7 Tage lang Busuu Premium testen. Den Link dazu findest du in der Videobeschreibung. Die Teller sind leer, wir haben alles aufgegessen. Ich muss jetzt noch die Küche machen und deshalb verabschiede ich mich jetzt von dir. Ich hoffe, dass du in diesem Video wieder viele neue Wörter gelernt hast und vielleicht auch nicht nur Lust auf Kürbissuppe, sondern auch auf Busuu bekommen hast. Guck dir doch gern Busuu an. Ich wünsche dir viel Spaß und viel Erfolg beim Deutschlernen und bis zum nächsten Mal. Tschüss.",
   "gist": "s",
   "status": "ok",
@@ -12063,7 +12444,7 @@
  "DSXJnFktVAw": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-10T03:12:14+00:00",
+  "checked": "2026-11-22T04:17:42+00:00",
   "title": "1 STUNDE Familienspiele | Willkommen im Bandit’s Cafe 🍽️💙 | Bluey – Deutsch Offizieller Kanal",
   "duration": 4184,
   "published": "20261106",
@@ -12072,6 +12453,7 @@
   "pace": 134.7,
   "rare": 0.0686,
   "var": 0.8072,
+  "cl": null,
   "speech_s": 3758.3,
   "tokens": 8436,
   "kw": [
@@ -12234,6 +12616,88 @@
     22,
     2.8,
     6
+   ]
+  ],
+  "kx": [
+   [
+    "kinder",
+    "Kinder, Kinder, was habt ihr mit Dad",
+    754,
+    757,
+    5.6,
+    28
+   ],
+   [
+    "hey",
+    "dauern. Hey. Oh, entschuldigen Sie bitte.",
+    16,
+    21,
+    4.93,
+    28
+   ],
+   [
+    "warte",
+    "Warte, nein, wir dürfen doch heute",
+    435,
+    439,
+    4.62,
+    7
+   ],
+   [
+    "hör",
+    "Bingo, was? Hör bitte auf, du machst mir",
+    1458,
+    1464,
+    4.5,
+    6
+   ],
+   [
+    "tina",
+    "Hey, Tina, ich hab sie, ich hab sie.",
+    3343,
+    3348,
+    3.93,
+    11
+   ],
+   [
+    "mom",
+    "Hey, Muffin ist da. Mom, du weißt noch,",
+    368,
+    373,
+    3.78,
+    11
+   ],
+   [
+    "verrücktes",
+    "Brauchen Sie ein verrücktes Ges? Nein, braucht er nicht. Das ist wirklich",
+    2030,
+    2037,
+    3.16,
+    6
+   ],
+   [
+    "polizistin",
+    "Natürlich, Polizistin. Entschuldigung, Polizistin.",
+    631,
+    638,
+    3.53,
+    5
+   ],
+   [
+    "flamingo",
+    "Reite los, Flamingo, reite los.",
+    611,
+    620,
+    2.93,
+    4
+   ],
+   [
+    "schubkarre",
+    "Schubkarre bringen? Ja, Vater.",
+    1291,
+    1296,
+    2.73,
+    4
    ]
   ],
   "tx": "Hallo. Möchten Sie vielleicht gerne in meinen Kaffee kommen? Aber ja, sehr gerne. Bitte sehen Sie sich unsere Karte an und bestellen dann. H Plit. Sehr gern. Es wird auch gar nicht lange dauern. Hey. Oh, entschuldigen Sie bitte. Bonjour. Hä? Bonjour. Ich glaube, er will unser Koch sein. Nein, Dad, wir brauchen dich nicht als Koch. Du kannst wieder rausgehen und das Spiel mit den kleinen Figuren spielen. Okay, na schön, du kannst hier arbeiten. Super. Sie müssen jetzt ein Stück Pavlova aus dem Kühlschrank holen. Pavlova? Ja. Pavlova aus dem Kühlschrank. Pavlov? Nein, das ist ein Magnet. Gucken … Okay, ein Spiel, dann ins Bett. Klasse. Also, welches Spiel? Restaurant. So, mein Ehemann und Schiler, wie wäre es mit einem ganz entspannten Abendessen im Restaurant? Klar doch, Spatz. Guten Abend, willkommen in unserem Restaurant. Wir sind bekannt für unseren schnellen Service. Wie viel Personen sind Sie? Drei. Sehr gut. Ein Z. Und wo ist der dritte Gast? Mach doch auf. Sch. Mein Name ist BB Babu. BuBu Babu. Muss ganz dringend ins Bett. Alles gut? Sie kuschelt nur gern mit Pflanzen. Wow. Ich hasse Pflanzen. Doch zusammen. Wir sind soweit. Brum Ding. Nächster Halt, das Museum. Sheila, … na ja, dann schreibe ich die Adresse auf meine Hand. Schwer. Oh, jetzt ist der Stift ganz schwer. Okay, die Straße heißt Nach Road. Was ist denn los, Bendit? Du hebst doch sonst auch jeden Löffel. Und was machst du denn da? Gar nichts. Ist einfach deine Fruchtkringel. Okay. Ham, ham, ham, das ist der beste Morgen aller Zeiten. Ham, ham, h, hier geht irgendwas komisches vor sich. Ach, was du nicht sagst. Es liegt an Bingo. Sie hat ein Zauberfederstab. Hab sie. Sie will uns davon abhalten, zu Chloes Party zu gehen. Schwer. Achtung. Uh, was ist denn hier los? Oh nein, ihr bleibt hier. Wer … sollten wir es einsammeln und in die Schubkarre packen? Das gehört uns doch gar nicht. Tja, weißt du, das ganze Essen im Kühlschrank, das gehört euch auch nicht. Aber wenn ihr es weiter essen wollt, macht euch lieber an die Arbeit. Er meinte Super ernst. Schubkarre. Mini Blui, du bist ganz schön laut. Ja, Mini Blue, wenn ich Aufgaben erledige, singe ich auch nicht. Normalerweise meckere ich und ich arbeite natürlich viel langsamer, als du es gerade tust. Pass auf. Oh, warum müssen wir denn das immer alles machen? Oh, es ist so heiß. Okay, wisst ihr was? Ich hätte jetzt gern zwei Bingos. … Mom lässt mich immer auf die Toilette gehen. Oh, okay. Die Luft ist rein. Okay, mach was du machen musst, aber bitte mach es schnell. Ja, Boss. Und es ist nur Pipi gestattet. Klar, ich bleibe hier stehen. Bingo, du passt draußen auf. Okay. Ah, ist das schön. Halt bitte weiter ausschau nach Mom. Für ein Knuti würde sie glaube ich alles tun. Ich hätte eher nichts dagegen. Bist du jetzt langsam mal fertig? Ja, gleich. Ah, so ein Mist. Was ist passiert? Gar nichts. Wieso hüpfst du? Hab mir auf den Fuß gepieselt. Ah, warum hast du die auf den Fuß gepieselt? Ich habe nicht richtig aufgepasst. … und hole euch zurück. Halt, stopp. Ich dachte, dass du hier eigentlich aufräumen wolltest. Dad, stimmt es, dass du morgen mit einem Flugzeug wegfliegst? Oh ja, so ist es. Und wie lange wirst du dann weg sein? Nur sechs Wochen. Wie lang sind sechs Wochen? Das sind sechs Wochenenden. Oh, das ist eine Ewigkeit. In dem Moment wurde die wahre Herausforderung dieser Mission enthüllt. Wir müssen jetzt nach Hause gehen, Bingo. Das geht nicht. Ich will nicht noch mal an der Elster vorbei und ich will nicht, dass du wegfliegst. Tut mir leid, Spatz. Ich will auch nicht weg, aber ich muss leider. … Nein, nicht mehr. Das ist jetzt sein Zimmer. Wir sehen uns. Das ist ungeheuerlich. Ich mache es an der Taille enger. Hey, das ist Chucky Chips Anzug. Ja, genau. Und voll ein Glitzerhunds Hut. Hey, er wollte alles haben. Aber du kannst ihm die Sachen nicht geben, nur weil er sagt, dass er sie haben will. Hört mal, ich bin nur der Butler. Wenn ihr ein Problem habt, wendet euch an den Affen. Oh, na, das werde ich. Hör zu, Kumpel. Für einen gewissen jemand hier ist es an der Zeit, endlich woanders zu wohnen. Ich meinte doch nicht uns. Das war hart, aber auch fair. Bist du nicht ein bisschen zu … wir mit dem Stumpf hier fertig sind. Okay. Okay. Weil danach kommen wir und dann ist der da dran. Ja. Also ist bei dir angekommen, dass wir nachher kommen werden und dann auch den Baumstumpf da wegmachen werden? Ja, ist doch ganz klar, denn es heißt Stumpf weg und das ist ein Stumpf. Ja, klar, Stumpf weg. Okay, dann können wir endlich eröffnen. Hurra. Ach, das ist ganz wunderhübsch. Vielen Dank, ihr Lieben. Ich sag doch, der Laden ist genau der Richtige. Kommt bald wieder. Wir brauchen noch viel mehr Kunden. Dad, kannst du mal kurz unser Kunde sein? Nee, st Oh, du hast ihn gleich los. Du … und einer fiel raus. Es waren drei im Bett und der kleine Hund sagt: \"Rutsch drüber, rutsch drüber.\" Also rutschen sie rüber und einer fiel raus. Entschuldigen Sie mich bitte für einen Augenblick, Nachbar. Es ist an der Zeit dem ein Ende zu setzen. Ein für alle mal. Wie wollen Sie das tun? Ich werde einfach ganz freundlich fragen. Entschuldigen Sie bitte. Nachbar. Sie haben mein Dach zerstört. Also wäre es sehr schön, wenn Sie ein guter Nachbar sind und etwas für mich tun. Was denn? Bitte reparieren Sie es. Nein, wird nicht passieren. Meine Liebe. Reparieren Sie es. Äh, okay. Ich glaube, … Nein, ich habe acht Kinder. Warte. Nein. Neun. Das wusste ich ja gar nicht. Wow. Du musst dich ja ziemlich gut auskennen. Ja, schon. Und du musst eine Sache unbedingt wissen. Was? Du machst das ganz toll. Sind das Freudentränen? M Ja, Freudentränen, Schätzchen. Ab diesem Tag habe ich mein eigenes Wettrennen gemacht. Wow. Wow. Ja, Blum gewinnt. Gut. gemacht, Judo. Du kleines schlaues Kind. Und hat Blue denn jemals laufen gelernt? Ja, Schätzchen, es war in der Küche. Warum wollte ich denn in der Küche loslaufen? Ich habe keine Ahnung, Schätzchen. Vielleicht wolltest du irgendwo unbedingt hin.",
@@ -17740,7 +18204,7 @@
  "fQRwCC6tEbw": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-09T17:29:11+00:00",
+  "checked": "2026-11-22T03:56:34+00:00",
   "title": "Miffy und die Blätter 🍂 | Miffy | Ganze Folge",
   "duration": 1081,
   "published": "20261108",
@@ -17749,6 +18213,7 @@
   "pace": 104.7,
   "rare": 0.1269,
   "var": 0.7678,
+  "cl": null,
   "speech_s": 965.8,
   "tokens": 1686,
   "kw": [
@@ -17911,6 +18376,88 @@
     406,
     2.73,
     5
+   ]
+  ],
+  "kx": [
+   [
+    "okay",
+    "Okay, ich komme nach dem Essen zurück.",
+    104,
+    110,
+    4.97,
+    7
+   ],
+   [
+    "gehe",
+    "Raschel, raschel, raschel. Ich gehe nach",
+    70,
+    75,
+    4.95,
+    7
+   ],
+   [
+    "echten",
+    "Wie wäre es, wenn wir es mit echten",
+    283,
+    288,
+    4.51,
+    4
+   ],
+   [
+    "singen",
+    "Wir werden singen und spielen und es",
+    440,
+    446,
+    4.56,
+    3
+   ],
+   [
+    "kakao",
+    "Schaut mal, hier habe ich Kakao für",
+    683,
+    687,
+    3.66,
+    3
+   ],
+   [
+    "tante",
+    "Hallo Tante Alice. Hallo Miffy, mein Liebes.",
+    80,
+    84,
+    4.18,
+    2
+   ],
+   [
+    "granny",
+    "Oh, wach auf, Granny. Ich hab was",
+    593,
+    598,
+    3.0,
+    3
+   ],
+   [
+    "schneit",
+    "Es schneit! Ich liebe Schnee. Oh, natürlich.",
+    895,
+    908,
+    3.34,
+    2
+   ],
+   [
+    "beeil",
+    "Beeil dich, Granti. Es ist eisekalt.",
+    785,
+    790,
+    2.7,
+    2
+   ],
+   [
+    "abwechseln",
+    "Super Idee. Wir können uns abwechseln.",
+    763,
+    769,
+    2.99,
+    1
    ]
   ],
   "tx": "Komm Schnuffi. Oh, Schnuffi. Komm her, Schnuffi. Hallo Miffy, spielst du ein Spiel mit Schnuffi? Ja, wir spielen Stöckchen holen. Das spielt Schnuffi am liebsten. Wo ist der Stock, Schnuffi? Schnuffi. Es sieht aus, als hätte Schnuffi ein neues Lieblingsspiel gefunden. Oh. Heute sind überall Blätter. Hör mal. Ich glaube, man hört Blättern nicht fallen, Miffy. Das weiß ich doch, aber man kann es hören, wenn Schnuffi durchläuft. Hör zu. Oh, jetzt höre ich es auch, dieses Rascheln. Raschel, raschel, raschel. Puh. Jetzt muss ich nach Hause, Schnuffi. Es ist Mittagszeit. Raschel, raschel, raschel. … das wird noch etwas dauern. Okay, ich komme nach dem Essen zurück. Raschel, raschel, raschel. Ich gehe nach Haus was naschen. Raschel, raschel, raschel. Ich gehe nach Haus was naschen. Das Essen ist noch nicht ganz fertig, Miffy. Geh doch noch ein bisschen im Garten spielen. Okay. Oh, wow. Was wirst du mit den Blättern tun, Miffy? Du weißt doch, was ich tun werde. Ich habe auf dem ganzen Weg nach Hause geraschelt. Pass mal auf, wie ich jetzt im Garten weiter rascheln werde. Raschel, raschel. Oh, Miffy. Hm? Die habe ich gerade zusammengeharkt. Irgendjemand muss den Garten ja sauber und … ist Blättertag. Ich hark, hark, hark. Heute ist Blättertag. Ich hark, hark, hark. Heute ist Blättertag. Oh, sehr gut, Miffy. Sehr sauber und Schnuffi. Wir spielen jetzt nicht in den Blättern, Schnuffi. Wir halten den Garten sauber und ordentlich. So. Danke. Ah. Gut. Alles fertig. Noch nicht ganz. Das lass ich nicht entkommen. Oh. Zu spät. Oh, fast. Jetzt ist es Zeit für deine wunderschönen orangeroten Blätter. Oh nein, ich habe kein Orange mehr. Da ist es ja. Wir haben versucht, dieses freche Blatt zu fangen und jetzt ist es auf deinem Bild gelandet. Tut mir leid, Tante Alice. Ach, das … ich gehe nach Haus was naschen. Rascheln, rascheln, rascheln, ich gehe nach Haus was naschen. Oh, hallo Alice. Du kommst genau richtig zum Essen. Guck mal, was wir gemacht haben. Oh. Wie schön. Ich möchte, dass du es behältst, Miffy. Schließlich hat deine Idee mein Bild gerettet oder sollte ich sagen unsere Collage? Kann ich es hier für dich aufhängen? Oh, danke. Das wäre sehr schön. So. Jetzt fühlt sich das Mittagessen wie ein Picknick im Wald an. Schnuffi, nicht schon wieder. Hallo Miffy, wohin du? Zu Granti. Wir zelten in ihrem Garten. Ich kann es kaum erwarten. Oh, wie aufregend. … Zeltabenteuer vor. Ja. Wir werden so viel Spaß haben. Aber müssen wir die ganze Nacht draußen zelten? Du musst keine Angst haben. Das ist leicht, Miffy. Ich habe schon ganz oft draußen gezeltet. Okay, wenn ihr das sagt. Alles wird gut, Miffy. Melanie und Granti liegen gleich neben dir und ich bin gleich hier im Haus. Wir werden singen und spielen und es gibt sogar einen Mitternachtsschmaus. Einen Mitternachtsschmaus? Ja. Guck. Oh, lecker. Oh. Schnuffi, der ist für unseren Mitternachtsschmaus. Ich glaube, Schnuffi will auch zelten. Schnuffi, das ist mein Apfel. Komm zurück. Aus. Oh. … hier im Garten, wir schlafen hier. Wir zelten hier im Garten und dieses Lied singen wir. Zelten macht Spaß. Du bist Kinder, Schlafenszeit. Ich komme. Kannst du nicht noch etwas bei uns bleiben, Poppy? Oh, im Zelt ist kein Platz für mich. Aber die hilft euch vielleicht. Oh. Oh, wie schön. So, die wird die ganze Nacht leuchten. Jetzt aber ab ins Zelt. Wir sehen uns morgen früh. Gute Nacht, Poppy. Schlaf gut. Gute Nacht, Kinder. Zeit für unseren Mitternachtssnack. Ah, ja. Oh, wach auf, Granny. Ich hab was gehört. Was ist denn los? Hast du das gehört? Das ist nur eine Eule, nichts, wovor … ihr hattet wirklich ein Zeltabenteuer, oder? Wir hatten so viel Spaß, aber jetzt ist das Zelt kaputt. Also ist wohl alles vorbei. glaube nicht. Noch nicht. Ich habe eine sehr gute Idee. Schaut mal, hier habe ich Kakao für euch. Danke, Poppy. Danke. Danke, Poppy. Wir wollen nicht, dass Schnuffi unser neues Zelt kaputt macht. Sie schläft schon. Und das solltet ihr auch. Gute Nacht, Kinder. Gute Nacht. Ich kann es nicht erwarten, wieder draußen zu zelten. Können wir das morgen machen, Granny? Granny? Melanie? Gute Nacht, Schlafmützen. Hallo, Miffy. Du stampfst aber viel. Bist du wütend? Nein. … Okay, aber du bist als Nächste dran, Granti. Ich bin dran. Beeil dich, Granti. Es ist eisekalt. Ich gehe ja so schnell ich kann. Aber dieser Handwagen ist so schwer. Und ich glaube, ich weiß auch, warum. Schnuffi, wusch! Schau mal. Das ist der neue Junge aus der Schule. Weißt du noch, wie er heißt? Komm mal her, Schlappohr. Granti, das ist gemein. Aber er hat nun mal ein Schlappohr und ich erinnere mich nicht an seinen echten Namen. Hallo, ich heiße Miffy. Und das ist Schnuffi. Hallo, Miffy. Hallo, Schnuffi. Ich heiße Dan. Hallo, Dan. Und das ist Granti. Hallo, Schlappohr. Granti, Dan hat … grau der Himmel ist? Oh, ja. Was für eine witzige Farbe. Warum ist das so? Miffy, beeil dich! Ich muss jetzt gehen. Bis später, Dan. Bis bald, Miffy. Es schneit! Ich liebe Schnee. Oh, natürlich. Deswegen ist der Himmel so grau. Deshalb wusste Dan, dass es schneien würde. Komm, Miffy, fahren wir. Warte, wir können Dan doch nicht alleine lassen, wenn es schneit. Wir sollten zurück, um ihm zu helfen. Okay. Das macht Spaß! Sieh mal, da ist er. Hallo, Dan. Miffy, Granti, ihr seid zurückgekommen. Natürlich. Wir dachten, dass du etwas Hilfe gebrauchen könntest. Beeilt euch! Wenn wir wieder nach … fährt. Juhu. Ziemlich cool, oder? Wow, dein Schlitten ist großartig. Darf ich auch mal, Schlafohr? Granti, so heißt er nicht. Das habe ich dir doch gesagt. Oh, tut mir leid. Ich habe nicht nachgedacht. Darf ich auch mal, Den? Liebend gern. Von mir aus können wir es gerne zusammen versuchen. 3 2 1 Los. Juhu. Hui. Juhu. Ja. Juhu. Juhu. Ja. Juhu. Ja. Du steuerst super, Granti. Juhu. Das macht Spaß. Juhu. Hui. Das hat wirklich Spaß gemacht. Danke, Den. Ja. Können wir noch mal Schlitten fahren? Bitte. Aber natürlich. Aber lass uns zuerst reingehen und einen Kakao trinken. Kakao. Ja, bitte. Lecker.",
@@ -21703,7 +22250,7 @@
  "ItM55gJbxxA": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-12T00:55:13+00:00",
+  "checked": "2026-11-22T03:22:05+00:00",
   "title": "Adjektive auf -sam: Was bedeuten sie? (Deutsch B2/C1)",
   "duration": 672,
   "published": "20261108",
@@ -21712,6 +22259,7 @@
   "pace": 126.4,
   "rare": 0.0697,
   "var": 0.8237,
+  "cl": null,
   "speech_s": 668.0,
   "tokens": 1407,
   "kw": [
@@ -21873,6 +22421,88 @@
     445,
     452,
     2.72,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "euch",
+    "euch mit vielen Beispielen. Los geht’s! Ich habe neulich eine Freundin besucht,",
+    11,
+    18,
+    5.71,
+    5
+   ],
+   [
+    "oft",
+    "was jemand oft und gerne tut. Hier ist noch ein Beispiel für „mitteilsam“:",
+    69,
+    75,
+    5.48,
+    5
+   ],
+   [
+    "mühe",
+    "In „mühsam“ steckt das Substantiv „die Mühe“. Die Mühe ist die Kraft und die Anstrengung,",
+    514,
+    521,
+    4.55,
+    3
+   ],
+   [
+    "reagiert",
+    "und er hat sehr einfühlsam reagiert. Ich soll mir nächste Woche einfach freinehmen.“",
+    413,
+    421,
+    4.43,
+    3
+   ],
+   [
+    "sam",
+    "„Ratsam“, „sparsam“, „wirksam“: Im Deutschen gibt es viele Adjektive mit der Endung „-sam“.",
+    0,
+    7,
+    4.18,
+    3
+   ],
+   [
+    "sanft",
+    "Das Adjektiv „behutsam“ bedeutet so viel wie: sehr vorsichtig, sanft und sorgfältig.",
+    318,
+    326,
+    4.01,
+    3
+   ],
+   [
+    "einfühlsam",
+    "und er hat sehr einfühlsam reagiert. Ich soll mir nächste Woche einfach freinehmen.“",
+    413,
+    421,
+    3.07,
+    3
+   ],
+   [
+    "gefäss",
+    "",
+    0,
+    0,
+    3.47,
+    2
+   ],
+   [
+    "vorangekommen",
+    "- „Der Weg auf den Berg war sehr steil. Wir sind nur mühsam vorangekommen.“",
+    502,
+    510,
+    2.67,
+    2
+   ],
+   [
+    "fahrradhelm",
+    "ihn. Es hat ihn viel Kraft gekostet. - „Ein Fahrradhelm ist ein wirksamer",
+    555,
+    562,
+    2.66,
     2
    ]
   ],
@@ -59799,7 +60429,7 @@
  "9vH6H3PtCko": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-15T22:27:39+00:00",
+  "checked": "2026-11-22T04:00:10+00:00",
   "title": "Caillou reinigt das Auto | Caillou auf Deutsch | Cartoons voor kinderen",
   "duration": 3599,
   "published": "20261114",
@@ -59808,6 +60438,7 @@
   "pace": 79.0,
   "rare": 0.0917,
   "var": 0.836,
+  "cl": null,
   "speech_s": 2120.8,
   "tokens": 2793,
   "kw": [
@@ -59972,6 +60603,88 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "los",
+    "Los geht's. Oh.",
+    93,
+    127,
+    5.26,
+    9
+   ],
+   [
+    "sieht",
+    "sieht so aus, als würde er bald sogar",
+    894,
+    901,
+    5.57,
+    8
+   ],
+   [
+    "ball",
+    "hat den Ball. Er ist nah am Tor. Er",
+    2325,
+    2333,
+    4.64,
+    7
+   ],
+   [
+    "guck",
+    "Hey Cu, guck mal, was hier ist.",
+    1466,
+    1473,
+    4.37,
+    6
+   ],
+   [
+    "karate",
+    "Mama, Mama, ich will Karate lernen.",
+    1229,
+    1236,
+    3.61,
+    4
+   ],
+   [
+    "miss",
+    "Miss Rosi, wir sind dann soweit.",
+    3341,
+    3349,
+    4.17,
+    3
+   ],
+   [
+    "geschenken",
+    "nun zu den Geschenken. Oh, ich will ich will. Darf ich, Mama?",
+    481,
+    495,
+    3.35,
+    3
+   ],
+   [
+    "limonade",
+    "Kommt alle her und holt euch Limonade.",
+    2062,
+    2068,
+    3.1,
+    3
+   ],
+   [
+    "meisterdieb",
+    "Papa, der Meisterdieb. Oh nein, wo finden wir den Meisterdieb?",
+    2722,
+    2733,
+    2.29,
+    3
+   ],
+   [
+    "eiscreme",
+    "dem Schlafen gehen Eiscreme essen. Und das war mein Wochenende. Ich hatte",
+    831,
+    841,
+    2.91,
+    2
+   ]
+  ],
   "tx": "Hey, habt ihr schon Buddeln und Bauen 2 gespielt? Noch nicht. Gibt's ein neues? Worum geht's? Ja, man buddelt Dinosaurierknochen aus. Dann musste sie zu einem Dinosaurierskelett zusammensetzen. Macht echt Spaß. Mama und ich kaufen es nachher von meinem Taschengeld. Freue mich schon so. Wir auch. Vielleicht gehen wir zusammen. Ku, ich kann glaube ich nicht. Ich habe leider kein Geld. Nun beeil dich lieber Kaju, sonst ist ausverkauft. Mama, Papa, ich brauche Geld für ein Videospiel. Nun, Ku, du weißt, dass Geld nicht auf Bäumen wächst. Du musst dir dein Geld erst verdienen. Was meinst du denn? … auf. Es gab schließlich noch andere Beschäftigungen. Hey, spielen wir doch. Steck dem Esel den Schwanz an. K und seine Freunde spielten steckt dem Esel den Schwanz an. Es wurde ihnen sehr schwindelig. Leo, da kommt der nicht hin. Okay, jetzt du Kaju. Oh nein, da gehört ihr auch nicht hin. Hey, seht, sie bringen den Kuchen raus. Kommt her, Kinder. Kuchenzeit. Rosi, jetzt kannst du dir was wünschen. Rosi wünschte sich etwas und bließ alle Kerzen auf einmal aus. Und dann nun zu den Geschenken. Oh, ich will ich will. Darf ich, Mama? Okay, Ku, was hast du denn? Bitte schön, Rosi. Alles Gute. … beste Grillparty überhaupt. Als die Schlacht vorbei war, waren wir alle sehr hungrig. Also durften wir vor dem Schlafen gehen Eiscreme essen. Und das war mein Wochenende. Ich hatte viel Essen bei der Grillparty in meinem Gesicht. ู้ Habt ihr den Fisch gesehen? Ja. Und auch das Seekras. Das ist so cool. Wow, klingt ja ganz so, als hättet ihr drei viel Spaß beim Schnorkeln. Haben wir. Das ist der beste Geburtstag. Hey, sieht so aus, als würde er bald sogar noch besser. Strandbagies. Auf die Plätze, fertig. Los. Yeah. Ja, Clementine. Wow, du warst so schnell. Gut gefahren, Clementine. Du auch, … Ich nie s Oh, ich nie. Hey, alles okay? Ich kann das nicht. Du gehst von hier nach hier, siehst du? Wow, toll gemacht. Super. Nun kommt mal zusammen. Ich will euch was zeigen. Ich werde euch jetzt mal zeigen, wie man ein Stück Holz in zwei bricht und nur mit der rechten Hand. Karate Wow, cool. Dürfen wir? Na klar. Ja. Hi. Ja, ich hab's geschafft. Juhu. Hast du das gesehen? Und das ist für dich, Kaju. Wo du anfangs Probleme hattest, hast du hart gearbeitet und es geschafft. Aha. Hey Cu, guck mal, was hier ist. Ein Paket? Was ist das? Ist das für mich? Es ist für uns alle. Kau, komm mit in … Spaghetti gemalt. Sehr gut, Rosi. Zeigen wir das Papa. Papa, schau, was wir gemacht haben. Wow, das sieht super aus. Die Bilder sehen zum Anbeißen aus. Okay, Kaju, ich halte den Teig und du drehst die Kurbel. Wow, schau, ich mache Spaghetti. Die sehen lecker aus. Jetzt zu den Pizzen. Hier ist der Belag. Zuerstreichst du die Tomatensoße auf die Pizza. Dann streust du Käse darauf. Schaut, es schneit Käse. Jetzt kommt das Beste. Mach ein Gesicht. Schau, Opa, eine Speisekarte. Sieht toll aus. Ich hätte gerne Pizza und Spaghetti. Beides sieht sehr lecker aus. Ich auch. Schaut mal hierher. Meine … Sieht voll aus. Brauchst du etwas Hilfe? Nein, danke, Mama. Ich habe das alles fest im Griff. Okay, sag uns einfach Bescheid, wenn du was brauchst. Wir sind gleich hier drüben. 1 2 3 4 Fünf insgesamt. Oh wow, ein Hundi. Oh, er ist ein Lausbffer, stopp. Komm hierher. Das tut mir leid, junger Mann. Ich hoffe, er hat nicht gestört. Oh nein, ich mag Hunde. Darf ich bitte noch etwas mit ihm spielen? Was möchtest du, Pfeffer? Und wie heißt du denn, junger Mann? Ich bin Kaju. Nun Ku, geh du mal schön spielen und ich trinke ein Glas von der lecker aussehenden Limonade. Los geht's, Pfeffer. Hey, Mama, … Ich will gewinnen. Das wirst du auch, Kaju. Aber dafür müsst ihr als Mannschaft zusammenarbeiten. Los geht's. Kaju. Y Kaju. Komm schon. Sarah, du schaffst das. Faulspiel, bist du okay? Au, ich glaube, ich kann den Freistoß nicht machen. Sara, spring für mich ein. Aber wenn er wieder vorbeigeht. Kaju, du schaffst das, Sarah. H du hast geschafft, Sarah. Und der Meisterschaftspokal geht nach Greenwood. K. Kaju Leo und Clementine hatten viel Spaß dabei im Garten zu spielen. Sie spielten um die Wette, wer den Ball am höchsten werfen konnte. Okay, jetzt bin ich Das war wirklich hoch. Das war fast … wenn ihr ihn wieder haben wollt. Gezeichnet Papa, der Meisterdieb. Oh nein, wo finden wir den Meisterdieb? Gerüchte besagen, sein Versteck sei im Wohnzimmer. Ich meine im Schattenland. Wie unheimlich. Alles gut, Captain Clem. Deine Superkraft ist doch Nachtsicht. Oh ja. Los geht's. Lasst uns unseren Ball zurückholen. Da ist er. Warte, vielleicht ist das ein Trick. Alles gut, Klem. Mit deiner Superkraft sehen wir im Dunkeln da. Viel besser. Passt auf, der Meisterdieb. So, ihr habt wohl den Code geknackt. Schnell, Captain Leo, wessel ihn mit einem Supertempo. Oh nein, ich bin gefangen. Ku, … müssen Geschenke ausliefern. Das wird bestimmt super toll. Frohe Weihnachten. Du bist ein tolles Rhentier, Gilbert. Dank deinem Einsatz können wir alle Geschenke pünktlich abliefern. Wir sind so weit oben. Okay, K, jetzt liefern wir das erste Geschenk. Was mache ich? Ich zeig's dir. Nimm meine Hand, Kaju. Bereit? Bereit. Wow, das war magisch. Weihnachtsmagie. Das macht Spaß. Auf zum nächsten Haus. Danke für deine Hilfe mit den Geschenken, Kaju. Ich hätte es ohne Gilbert und dich nicht geschafft. Das hier ist mein bestes. Weihnachten. Rudolf sagt, dass es ihm dank deines Wärmenschals schon … sie mit ihren Kopoten reden können. Hören Sie mich, Captain Rosi? Guck, Masken helfen bei der Arbeit. Aber Geist. Oh, sorry, Rosi, ich wollte nicht lachen. Das sieht recht gruselig aus, ist aber nur ein Kittel, eine Zahnarztuniform. Du hast hier sehr schöne Zähne, Miss Rosi. Ich denke, wenn alles gut. Kaju K. Lustig. Doch nicht gruselig. Aber weißt du auch was das Beste am Zahnarzt ist? Was? Zahnärzte lassen deine Zähne scheinen. Scheinen wie Sterne. Na, hallo Rosi. Ich glaube, es hilft, wenn Sie sie Hiptenrosi nennen. Guter Tipp. Nun, Captain Rosi, bereit zum Abheben? Ja, scheinen. Wow.",
   "gist": "s",
   "status": "ok",
@@ -60073,7 +60786,7 @@
  "1EBI7nngJ6s": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-16T23:01:38+00:00",
+  "checked": "2026-11-22T04:24:00+00:00",
   "title": "Leistungsdruck im Beruf: Ursachen, Folgen, Lösungen | Deutsch Podcast B2–C1",
   "duration": 2386,
   "published": "20261109",
@@ -60082,6 +60795,7 @@
   "pace": 137.2,
   "rare": 0.0672,
   "var": 0.8729,
+  "cl": null,
   "speech_s": 2277.9,
   "tokens": 5207,
   "kw": [
@@ -60246,6 +60960,88 @@
     6
    ]
   ],
+  "kx": [
+   [
+    "arbeit",
+    "den Zustand, in dem wir auch nach Feierabend gedanklich noch mit der Arbeit verbunden bleiben.",
+    128,
+    135,
+    5.57,
+    16
+   ],
+   [
+    "sondern",
+    "nicht jeden Tag als einen einzigen großen Berg zu betrachten, sondern ihn in überschaubare",
+    805,
+    812,
+    5.77,
+    15
+   ],
+   [
+    "aufgaben",
+    "Mit der Beschleunigung meine ich, dass alles immer schneller vonstattengehen muss. Aufgaben,",
+    82,
+    89,
+    4.79,
+    7
+   ],
+   [
+    "wunsch",
+    "dass gerade der Wunsch, alles perfekt zu machen, uns mitunter lähmen kann?",
+    221,
+    227,
+    4.74,
+    7
+   ],
+   [
+    "beschleunigung",
+    "Ein wesentlicher Faktor ist die Beschleunigung unseres Arbeitslebens.",
+    78,
+    83,
+    3.61,
+    6
+   ],
+   [
+    "mitunter",
+    "dass gerade der Wunsch, alles perfekt zu machen, uns mitunter lähmen kann?",
+    221,
+    227,
+    4.19,
+    5
+   ],
+   [
+    "gegenpol",
+    "Der Ausgleich bezeichnet eine Tätigkeit, die einen bewussten Gegenpol zur Arbeit bildet.",
+    948,
+    955,
+    3.04,
+    5
+   ],
+   [
+    "unentwegt",
+    "unentwegt zu verbessern, sei es im Beruf, beim Sport oder sogar in der Freizeit.",
+    249,
+    256,
+    3.02,
+    5
+   ],
+   [
+    "königsdisziplin",
+    "Das ist gewissermaßen die Königsdisziplin, nicht wahr?",
+    1030,
+    1034,
+    2.59,
+    5
+   ],
+   [
+    "verinnerlichen",
+    "verinnerlichen, verliert der Leistungsdruck einen großen Teil seiner Macht über uns.",
+    1103,
+    1109,
+    2.75,
+    4
+   ]
+  ],
   "tx": "Herzlich willkommen zu einer neuen Folge unseres Podcasts, in der wir uns wieder einem Thema widmen, das die meisten von uns im Alltag begleitet. Ich bin Paul, und an meiner Seite sitzt wie immer Lena. Heute sprechen wir über den Leistungsdruck im modernen Berufsleben, einen Begriff, der in den vergangenen Jahren geradezu allgegenwärtig geworden ist. Lena, ich habe den Eindruck, dass kaum jemand mehr von diesem Phänomen verschont bleibt. Das sehe ich genauso, Paul. Und bevor wir tiefer einsteigen, möchte ich gleich das zentrale Wort erklären, um das sich heute alles dreht. Der Leistungsdruck … nämlich die Selbstoptimierung. Die Selbstoptimierung beschreibt das Bestreben, sich in allen Lebensbereichen unentwegt zu verbessern, sei es im Beruf, beim Sport oder sogar in der Freizeit. An sich ist der Wunsch, sich weiterzuentwickeln, doch etwas Positives. Wo liegt deiner Meinung nach die Grenze zwischen einer gesunden und einer ungesunden Form? Das ist ein feiner, aber sehr wichtiger Unterschied. Problematisch wird es erst dann, wenn man sich selbst keine Ruhe mehr gönnt und aus dem Wunsch ein Zwang wird. Wenn die Selbstverbesserung zum Selbstzweck wird, verlieren wir leicht das gesunde … Eine schwere Last, meist im psychologischen Sinne als große Verantwortung oder Sorge. Beispielsätze: Die Bürde der Verantwortung lastet nun ganz allein auf ihren Schultern. Die Pflege der kranken Angehörigen war eine enorme Bürde, die sie jahrelang schweigend ertrug. Ausdruck-4: vonstattengehen Bedeutung: Die Art und Weise, wie ein Prozess oder ein Ereignis abläuft oder geschieht. Beispielsätze: Der Umbau des Büros ist reibungslos und ohne große Störungen vonstattengegangen. Wir hoffen, dass die Verhandlungen schnell und friedlich vonstattengehen. Ausdruck-5: mitunter Bedeutung: … Entschleunigung. Die Entschleunigung ist das Gegenteil der Beschleunigung, über die wir im ersten Teil gesprochen haben. Sie beschreibt das bewusste Verlangsamen des eigenen Tempos. Manchmal ist es klüger, einen Schritt langsamer zu gehen, um am Ende nicht völlig stehenzubleiben. Das ist ein schönes Bild. Es erinnert mich an das Sprichwort, dass man mit Eile und Weile am weitesten kommt. Manchmal ist weniger eben mehr. Lena, ein Begriff, der in diesem Zusammenhang oft fällt, ist die Resilienz. Könntest du uns erklären, was sich dahinter verbirgt? Sehr gern. Die Resilienz bezeichnet die … Ziele, eine wertschätzende Rückmeldung und das Recht, nach Feierabend tatsächlich unerreichbar zu sein. Eine gute Führungskraft erkennt, dass ausgeruhte Mitarbeitende langfristig die besseren Ergebnisse erzielen. Das ist ein wichtiger Gedanke, der oft zu kurz kommt. Es liegt also nicht allein an uns, sondern auch an den Rahmenbedingungen, in denen wir arbeiten. Gibt es einen letzten Rat, den du unseren Zuhörerinnen und Zuhörern mit auf den Weg geben möchtest? Mein letzter Gedanke wäre dieser: Der eigene Wert hängt nicht allein von der erbrachten Leistung ab. Wir sind weitaus mehr als … Betrieb hat ihn für einige Monate völlig aus der Bahn geworfen. Lass dich von kleinen Rückschlägen nicht sofort aus der Bahn werfen, wenn du dabei bist, ein eigenes Unternehmen zu gründen. Ausdruck-sieben: die Königsdisziplin Bedeutung: Die schwierigste, anspruchsvollste oder angesehenste Aufgabe in einem bestimmten Bereich, Sport oder Fachgebiet. Beispielsätze: Das Schreiben eines authentischen und spannenden Dialogs gilt unter Autoren oft als die absolute Königsdisziplin. Im Zehnkampf der Leichtathletik ist der abschließende und kräftezehrende 1500-Meter-Lauf für viele Athleten die wahre … uns jederzeit erreichen können, etwa über das Telefon oder über digitale Nachrichten. Die ständige Erreichbarkeit beschreibt also den Zustand, in dem wir auch nach Feierabend gedanklich noch mit der Arbeit verbunden bleiben. Das ist ein wunder Punkt, nicht wahr? Früher ließ man die Arbeit im Büro zurück, wenn man nach Hause ging. Heute tragen wir sie buchstäblich in der Hosentasche mit uns herum. Würdest du sagen, dass diese Entwicklung uns das Abschalten erschwert? Ohne Zweifel. Und genau hier kommt ein weiteres Wort ins Spiel, das ich gern erklären möchte, nämlich das Abschalten. Im … zweiten Teil noch ausführlich zurückkommen werden. Das stimmt mich tatsächlich zuversichtlich. Und welche Folgen hat dieser anhaltende Druck eigentlich, wenn er über längere Zeit auf uns lastet? Die Folgen können vielfältig sein. Häufig zeigen sich zunächst eine innere Anspannung und eine wachsende Gereiztheit. Wer dauerhaft unter Druck steht, dem fällt es schwer, zur Ruhe zu kommen. Manche Menschen klagen über Schlafstörungen, andere über eine zunehmende Erschöpfung. Es ist daher überaus wichtig, die Warnsignale des eigenen Körpers ernst zu nehmen. Das kann man gar nicht oft genug betonen. … kann. Das ist eine überaus ermutigende Vorstellung. Welche Rolle spielt dabei die Erholung? Eine ganz zentrale. Die Erholung ist kein Luxus, sondern eine Notwendigkeit. Wer dauerhaft über seine Grenzen geht, riskiert einen Zustand völliger Erschöpfung. Damit ist gemeint, dass die Kräfte vollständig aufgebraucht sind, sowohl körperlich als auch seelisch. Regelmäßige Pausen und ausreichender Schlaf sind daher keine vergeudete Zeit, sondern eine kluge Investition in die eigene Gesundheit. Das kann man gar nicht oft genug wiederholen. Ich glaube, viele von uns tragen die irrige … nun seid ihr an der Reihe. Wie geht ihr selbst mit dem Leistungsdruck in eurem Berufsleben um? Welche Erfahrungen habt ihr gesammelt, und welche Strategien haben sich für euch bewährt? Teilt eure Gedanken und Ansichten gern mit uns in den Kommentaren. Wir sind sehr gespannt darauf, von euch zu lesen. Wir hoffen, dass euch diese Folge gefallen hat und dass ihr die eine oder andere Anregung für euren Alltag mitnehmen konntet. Bleibt gesund und achtet gut auf euch. Damit verabschieden wir uns für heute von euch. Bis zum nächsten Mal, und passt gut auf euch auf. Auf Wiederhören und bis bald.",
   "gist": "s",
   "status": "ok",
@@ -60254,7 +61050,7 @@
  "iQguGmdWIeY": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:02:14+00:00",
+  "checked": "2026-11-22T04:27:40+00:00",
   "title": "Verstehe 95% von Deutsch – mit nur 3000 Wörtern",
   "duration": 847,
   "published": "20260901",
@@ -60263,6 +61059,7 @@
   "pace": 76.2,
   "rare": 0.1955,
   "var": 0.652,
+  "cl": null,
   "speech_s": 798.0,
   "tokens": 1013,
   "kw": [
@@ -60427,6 +61224,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kannst",
+    "In ein Klemmbrett kannst du Papier",
+    109,
+    115,
+    5.54,
+    3
+   ],
+   [
+    "kleine",
+    "Kleine Pfannen und das hier unten nennt",
+    672,
+    677,
+    5.42,
+    3
+   ],
+   [
+    "garten",
+    "Garten brauchen könnte z.B.",
+    454,
+    461,
+    4.73,
+    2
+   ],
+   [
+    "bezug",
+    "Er ist ein Bezug für die Kissen und ein",
+    813,
+    819,
+    4.72,
+    2
+   ],
+   [
+    "ordner",
+    "Das hier ist ein Ordner. Hier kann man",
+    114,
+    121,
+    3.83,
+    2
+   ],
+   [
+    "lampen",
+    "Und hier sind Lampen. Die Lampe, die Lampen.",
+    214,
+    224,
+    3.76,
+    2
+   ],
+   [
+    "deko",
+    "Deko, Gartenartikel,",
+    30,
+    36,
+    3.59,
+    2
+   ],
+   [
+    "aquarium",
+    "Hier gibt es alles fürs Aquarium, für",
+    336,
+    342,
+    3.48,
+    2
+   ],
+   [
+    "gartenmöbel",
+    "Und ganz viele Gartenmöbel. Die Gartenmöbel.",
+    735,
+    745,
+    2.78,
+    2
+   ],
+   [
+    "mistgabel",
+    "Das hier nennen wir eine Mistgabel.",
+    476,
+    483,
+    2.49,
+    2
+   ]
+  ],
   "tx": "Auf meinem Kanal spreche ich langsames Deutsch und du lernst die 3000 wichtigsten deutschen Wörter. Ich zeige euch heute ein Einzelhandelsgeschäft. Hier gibt es Möbel, Küchen- und Haushaltsartikel, Deko, Gartenartikel, Bastelartikel und vieles mehr. Hier gibt es z.B. ganz viele verschiedene Bilder in Bilderrahmen. Das Bild und der Bilderrahmen. Hier kann man personalisierte Tassen kaufen. Hier steht also ein Name auf der Tasse. Und hier gibt es ganz viele verschiedene Spiegel. Der Spiegel, die Spiegel. Und das hier ist alles für den Bastelbedarf. Verschiedene Farben, das hier sind Acrylfarben. … Der Pinsel, die Pinsel. Hier sind die verschiedenen Stifte. Das hier sind Holzstifte. Das hier nennt man Filzstifte. Das ist ein Klemmbrett. Das Klemmbrett. In ein Klemmbrett kannst du Papier einklemmen. Das hier ist ein Ordner. Hier kann man verschiedene Sachen abheften. Und das hier ist auch ein großer Ordner, mit dem man viele Dinge abheften kann. Und hier gibt es ganz viel Klebeband. Das Klebeband. Wir sagen auch oft das Tesa dazu. Das hier sind Post-its. Und hier gibt es die Notizbücher, das Notizbuch. Das hier sind Bleistifte. Das hier ist ein Lineal. Das ist ein Spitzer, der Spitzer. … Und hier gibt es allerhand Bastelartikel. Zum Basteln. Und das hier ist Wolle, die Wolle. Das Geschenkpapier. Hier gibt es buntes Papier. Das Papier in allen verschiedenen Farben. Guck mal, ein Nähkästchen. Und jetzt sind wir in der Spielzeugabteilung. Das Spielzeug oder die Spielsachen. Und hier sind Lampen. Die Lampe, die Lampen. Und hier ist der Teppich. Hier gibt es einen ganz flauschigen Teppich zu kaufen. Der Teppich ist ausgerollt. Und das hier nennen wir Fell. Das ist ein Kunstfell, also kein echtes Tierfell. Das ist künstlich, das Kunstfell. Hier gibt es Glühbirnen, die … hinter mir sind z.B. die Handtücher, das Handtuch, die Handtücher. Hier gibt es die Duschvorhänge. Der Duschvorhang. Das ist der Klodeckel. Badezimmermöbel. Die Klobürsten. Seifenspender. Guck mal, das ist die Duschbrause und ein Schlauch. Duschschlauch. Und hier ist die Tapete. Verschiedene Tapete. Das hier ist Farbe zum Streichen. Die Leiter. Hier sind die Lichtschalter. Und Steckdosen. Das hier nennt man Verlängerungskabel. Ein Verlängerungskabel. Und das hier ist eine Klingel. Und hier gibt es alles für Haustiere. Futter. Hier ist Katzenfutter. Hier gibt es alles fürs Aquarium, für … und hier gibt es die Hundeleine wenn man mit seinem Hund Gassi geht und verschiedene Halsbänder, das Halsband und hier sind die Bürsten Hundebürsten und hier gibt es Vogelfutter, das Vogelfutter ganz viel Hunde- und Katzenfutter das hier ist Autozubehör hier sind z.B. die Fußraummatten Gloss und verschiedene Sprays und Lacke hier gibt es allerhand Dinge wenn man sein Auto waschen möchte oder putzen möchte Rückspiegel Motoröl hier gibt es Werkzeug, das Werkzeug das hier ist ein Schraubenzieher und die Zange die Säge das hier ist die Bohrmaschine das hier sind Blumensamen die Samen und … seinen Garten brauchen könnte z.B. Gartenhandschuhe Gartenscheren hier ist eine Heckenschere. Ganz viele verschiedene Heckenscheren. Und hier hinter mir gibt es einen Rechen. Der Rechen. Das hier nennen wir eine Mistgabel. Die Mistgabel. Das hier ist ein Spaten. Der Spaten. Ein Besen. Der Besen. Zum Kehren. Und das sind die Blumentöpfe. Der Blumentopf. Und das hier ist ein Rasenmäher. Der Rasenmäher. Und das ist ein Gewächshaus. Das Gewächshaus. Und hier gibt es einen Gartenschlauch. Der Gartenschlauch. Und der Sprühaufsatz für den Gartenschlauch. Und hier gibt es die verschiedenen Pflanzen … Hier gibt es allerhand Haarprodukte, Shampoo, Conditioner und so weiter. Und die Haarbürsten. Haarklammern. Haargummis. Das die Schleife. Hier gibt es allerhand Putzzubehör. Hier gibt es verschiedene Schwämme und Lappen. Guck mal her, Hausschuhe. Die moppen können. Ein kleiner Besen mit Kehrblech. Verschiedene andere Besen und hier sind auch die Wischmops. Der Wischmop. Das hier nennen wir auf Deutsch der Staubwedel. Zum Staubputzen, Staubwischen. Ein Staubwedel. Das hier ist ein Bügelbrett. Zum Bügeln. Das Bügelbrett. Das hier ist das Bügeleisen. Hier ist die Küchenabteilung. Hier … du noch mehr Küchenvokabular lernen willst, kannst du dieses Video später schauen. Da zeige ich dir alles aus meiner Küche. Die Mülleimer, Geschirrtücher. Ofenhandschuhe. Die Untersetzer. Platzteller. Verschiedene Bleche. Ofenbleche. Und Tischdecken. Die Tischdecke. Hier gibt es verschiedene Staubsauger. Und die Pfannen. Eine große Pfanne. Kleine Pfannen und das hier unten nennt man einen Wok. Der Wok. Noch mehr Pfannen. Und verschiedene Töpfe. Hier gibt es Besteck. Das Besteck. Die Tassen. Der Wasserkocher, der Toaster. Guck mal, ganz viele Dekoartikel. Hier gibt es z.B. Vasen. Eine … gut. Jetzt gehen wir zur Rolltreppe. Und ich fahre die Rolltreppe hoch. Und hier oben gibt es allerhand für den Garten. Guck mal, ein Swimmingpool. Und ganz viele Gartenmöbel. Die Gartenmöbel. Zubeh- zum Grillen. Hier ist ein großer Grill. Da unten ist die Grillkohle. Und hier gibt es allerhand Gartenspielsachen. Hier ist eine Truhe, um Dinge aufzubewahren. Hier kleine Hocker mit Stauraum. Und hier auch kleine Tische. Hier gibt es noch Möbel. Verschiedene Regale. Eine Garderobe. Und das hier ist ein Nachtkästchen. Das stellt man neben das Bett. Hier gibt es Decken und Kissen. Und guck mal, … Das ist eine Sonnenliege. Und verschiedene Gartenstühle gibt es hier. Und hier gibt es noch Bettwäsche. Das nennen wir ein Spannbetttuch. Das Spannbetttuch. Hier gibt es die Decken. Und das hier ist der Bettbezug. Er ist ein Bezug für die Kissen und ein Bezug für die Decke. Der Bettbezug. Und falls dir meine Alltags Vlogs beim Deutschlernen helfen und du mich und meinen Kanal unterstützen möchtest, kannst du das auf bei mir coffee.com Schrägstrich easybreezygerman machen. Vielen Dank. Vergiss nicht zu liken und meinen Kanal zu abonnieren. Und bis bald im nächsten Alltags Vlog. Tschüss.",
   "gist": "s",
   "status": "ok",
@@ -60435,7 +61314,7 @@
  "GNozQK7fc_g": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:02:18+00:00",
+  "checked": "2026-11-22T04:27:44+00:00",
   "title": "Verstehe 95% von Deutsch – Mein Geheimnis 🤫",
   "duration": 515,
   "published": "20260801",
@@ -60444,6 +61323,7 @@
   "pace": 85.1,
   "rare": 0.1019,
   "var": 0.755,
+  "cl": null,
   "speech_s": 470.3,
   "tokens": 667,
   "kw": [
@@ -60608,6 +61488,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "gerade",
+    "Hebamme. Ich habe gerade gepackt und",
+    46,
+    55,
+    5.77,
+    2
+   ],
+   [
+    "dazu",
+    "gerade dazu entschieden, einen Eiskaffee zu machen. Also brauchen wir Eiswürfel.",
+    380,
+    391,
+    5.71,
+    2
+   ],
+   [
+    "viertel",
+    "Das ist ein Viertel. Das Viertel.",
+    306,
+    316,
+    4.46,
+    2
+   ],
+   [
+    "guck",
+    "Guck mal her. An meinem Arm.",
+    68,
+    77,
+    4.37,
+    2
+   ],
+   [
+    "schwanger",
+    "Ich bin schwanger. Schau mal.",
+    33,
+    40,
+    4.15,
+    2
+   ],
+   [
+    "mittagessen",
+    "Jetzt machen wir was zum Mittagessen.",
+    272,
+    278,
+    4.14,
+    2
+   ],
+   [
+    "hummel",
+    "Das ist eine Hummel. Die Hummel.",
+    119,
+    126,
+    3.49,
+    2
+   ],
+   [
+    "schmilzt",
+    "Mhm, guck mal, die Butter schmilzt, weil",
+    362,
+    368,
+    3.36,
+    2
+   ],
+   [
+    "reiniger",
+    "also der Reiniger, um den Nagellack",
+    151,
+    157,
+    2.95,
+    1
+   ],
+   [
+    "bröckelt",
+    "mal näher. Der Nagellack bröckelt ab",
+    143,
+    152,
+    2.91,
+    1
+   ]
+  ],
   "tx": "In diesem Video spreche ich langsames Deutsch, damit du dein Hörverstehen üben kannst. Ich habe große Neuigkeiten. Bist du bereit? Trommelwirbel. Ich bin schwanger. Schau mal. Heute habe ich einen Termin bei meiner Hebamme. Ich habe gerade gepackt und jetzt laufen wir zur Hebamme. Ich bin wieder zurück. Alles war gut bei der Hebamme. Mir wurde Blutdruck gemessen. Es wurde Blut abgenommen. Guck mal her. An meinem Arm. Es wurde der Bauch gemessen. Ähm und er ist gewachsen. Ähm und wir durften Babys Herztöne hören. Schau mal. Es ist zum Glück alles genauso, wie es sein soll. Ich freue mich sehr. Jetzt laufen wir noch zur Bücherei. Das ist eine Hummel. Die Hummel. Jetzt, bevor wir nach Hause fahren, fahren wir noch kurz Nagellackentferner kaufen. Meine Nägel, ich mag sie eigentlich gar nicht zeigen, sehen furchtbar aus. Moment, ich zeig dir das mal näher. Der Nagellack bröckelt ab und mein Nagellackentferner, also der Reiniger, um den Nagellack abzubekommen, ist leer. Ich bin auch noch schnell in den Supermarkt reingegangen. Hier habe ich ein Sauerteigbrot, Pistazien, eine Kokosnuss und Apfelchips gekauft. Da ich vorhin keinen Nagellackentferner bekommen habe, habe ich jetzt mit einer Feile meine Nägel abgefeilt. Also, ich habe den Nagellack abgefeilt. Jetzt ist der Nagellack ab und heute Abend mache ich dann einen neuen Nagellack drauf. Also, der Nagellack und die Feile. Der Nagel, die Nägel. Letzte Woche habe ich Elterngeld beantragt. Und da ich in England lebe, war das für mich ziemlich kompliziert, das auf einer anderen Sprache zu machen. Ich saß viele Stunden an meinem Laptop, habe viel über das Thema gelesen und recherchiert. Aber jetzt ist der Antrag fertig und ich bringe ihn zur Post. Und dich nehme ich mit. Als erstes muss ich mich umziehen. Ich bin umgezogen. Ich trage ein schwarzes T-Shirt, eine Jeans und einen Cardigan. Ab zur Post. Alles erledigt, der Brief ist weg. Ab nach Hause. Jetzt machen wir was zum Mittagessen. Ich habe hier eine Scheibe körniges Sauerteigbrot und eine Scheibe Vollkorntoast. Das mache ich jetzt beides in den Toaster. Und hier habe ich zwei Tomaten. Die Tomate werde ich jetzt halbieren, also in der Hälfte durchschneiden und dann vierteln, also jede Hälfte noch einmal durchschneiden. Das ist ein Viertel. Das Viertel. Die Tomate ist jetzt geviertelt. Das ist eine Hälfte. Dann habe ich ein hartgekochtes Ei, das Ei. Und das Ei muss ich jetzt noch schälen, also die Schale abmachen. Das Ei ist geschält und jetzt schneide ich das Ei. Ah, das ist übrigens das Eigelb und das Eiweiß. Eigelb, Eiweiß. Das Toast ist fertig. Jetzt machen wir noch Salz und Pfeffer auf das Ei und die Tomate. So, als nächstes kommt Butter auf das Brot. Mhm, guck mal, die Butter schmilzt, weil das Brot noch heiß ist, schmilzt die Butter. So, jetzt noch Käse. Ich habe Edamer Käsescheiben. Das ist mein Mittagessen. Jetzt machen wir noch einen Kaffee. Und ich habe mich gerade dazu entschieden, einen Eiskaffee zu machen. Also brauchen wir Eiswürfel. Kaffeemaschine an. Das hier ist ein Toffee- und Karamellsirup. Es ist nur noch ein ganz kleines bisschen drin. Das war's. Das Sirup ist leer. Dann der Espresso, Hafermilch und einen Löffel zum Umrühren. Hier kommt der Espresso. Und auch hier schmelzen die Eiswürfel von dem heißen Espresso. Jetzt noch die kalte Milch dazu. Ich liebe dieses Geräusch. Einmal umrühren. Und Eiskaffee ist fertig. Wir stellen alles auf ein Tablett. Das Tablett. Und ich mag auch noch ein Glas Wasser. Seit ich schwanger bin, esse ich am liebsten auf der Couch, weil ich da meine Beine hochlegen kann. Also, da gehen wir jetzt hin. Ab zur Couch. Ich esse jetzt, lege meine Beine hoch und arbeite ein bisschen am Laptop. Ach ja, die Frage aller Fragen, wird das Baby ein Mädchen oder ein Junge? Was glaubst du? Schreibe mir in die Kommentare. Heute werde ich noch nicht verraten, was das Baby wird. Ich mache es noch ein bisschen spannend. Vielen Dank fürs Zuschauen und wir zwei sehen euch dann im nächsten Video.",
   "gist": "w",
   "status": "ok",
@@ -60616,7 +61578,7 @@
  "53VrVqfvVPY": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:02:34+00:00",
+  "checked": "2026-11-22T04:28:01+00:00",
   "title": "Learn German Naturally: Living room Tour 🏡 | Comprehensible Input",
   "duration": 418,
   "published": "20260404",
@@ -60625,6 +61587,7 @@
   "pace": 75.7,
   "rare": 0.1206,
   "var": 0.7004,
+  "cl": null,
   "speech_s": 400.9,
   "tokens": 506,
   "kw": [
@@ -60789,6 +61752,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "zimmer",
+    "Aus dem Wort wohnen und aus dem Wort Zimmer.",
+    27,
+    33,
+    4.97,
+    3
+   ],
+   [
+    "dort",
+    "komm in meine Community, denn dort sprechen wir jeden",
+    71,
+    78,
+    5.78,
+    2
+   ],
+   [
+    "pflanzen",
+    "Auf meinem Wohnzimmerschrank steht eine Tischlampe, zwei Pflanzen, ein Raumduftdiffuser",
+    229,
+    243,
+    4.59,
+    2
+   ],
+   [
+    "möchtest",
+    "Wenn du dein Deutsch sprechen verbessern möchtest,",
+    66,
+    72,
+    4.53,
+    2
+   ],
+   [
+    "regal",
+    "Hinter mir siehst du ein Regal. Das Regal. Auf dem Regal stehen",
+    319,
+    329,
+    3.88,
+    4
+   ],
+   [
+    "korb",
+    "und ein kleiner Korb. Der Korb. In meinem Korb befinden sich viele verschiedene Dinge. Lass",
+    242,
+    253,
+    3.87,
+    4
+   ],
+   [
+    "staubsauger",
+    "Und hier vorne siehst du noch meinen Staubsauger und viel Elektronik.",
+    390,
+    399,
+    3.57,
+    1
+   ],
+   [
+    "stifte",
+    "meine Fernbedienungen für den Fernseher, der Fernseher, Stifte zum Schreiben,",
+    263,
+    276,
+    3.51,
+    1
+   ],
+   [
+    "abstellkammer",
+    "In meinem Wohnzimmer gibt es auch eine kleine Abstellkammer.",
+    351,
+    358,
+    2.63,
+    2
+   ],
+   [
+    "stehlampe",
+    "Hier in der Ecke steht eine Lampe. Das ist eine Stehlampe,",
+    105,
+    114,
+    2.34,
+    2
+   ]
+  ],
   "tx": "Da euch dieses Video so gut gefallen hat, zeige ich euch heute mein Wohnzimmer in mehr Detail. Ihr lernt also viele, viele neue Wörter rund um das Thema Haus. Los geht's. Das Wohnzimmer ist aus zwei Wörtern zusammengesetzt. Aus dem Wort wohnen und aus dem Wort Zimmer. Wohnzimmer. Im Wohnzimmer darf natürlich eine Couch nicht fehlen. Die Couch oder das Sofa. Auf dem Sofa habe ich Kissen. Das Kissen. Die Kissen. Die Kissen machen das Sofa. Sehr gemütlich und sehr bequem. Das Sofa ist sehr bequem. Wenn du dein Deutsch sprechen verbessern möchtest, komm in meine Community, denn dort sprechen wir jeden Dienstag eine Stunde lang Deutsch. Wir sehen uns dort am Dienstag. Das ist der Vorhang. Der Vorhang ist mit einer Schnur zusammengebunden. Die Schnur, der Vorhang. Und hier oben ist die Vorhangsstange. Die Stange, der Vorhang. Hier in der Ecke steht eine Lampe. Das ist eine Stehlampe, denn sie steht auf dem Boden. Unter der Stehlampe ist eine Pflanze. Die Pflanze, das ist das Blatt. Die Pflanze hat ein großes Blatt. Und das heißt auf Deutsch Heizung. Die Heizung. Oder du kannst auch der Heizkörper sagen. Die Heizung heizt den Raum, also das Zimmer auf. Vor der Heizung steht eine Truhe. Die Truhe. In der Truhe bewahre ich alle Spielsachen auf. Die Spielsachen sind in der Truhe Und das ist der Teppich. In meinem Wohnzimmer habe ich Teppichboden. Der Teppich. Und auf meinem Teppichboden habe ich noch einen zweiten Teppich liegen. Der Teppich. In meinem Wohnzimmer gibt es eine Terrassentür. Die Terrassentür führt auf die Terrasse und in meinen Garten. Nicht jedes Wohnzimmer hat eine Terrassentür. Manchmal gibt es nur ein Fenster. Hier siehst du meinen Wohnzimmerschrank. Der Wohnzimmerschrank ist aus Holz. Der Wohnzimmerschrank hat Schubladen. Die Schublade, die Schubladen. Auf meinem Wohnzimmerschrank steht eine Tischlampe, zwei Pflanzen, ein Raumduftdiffuser und ein kleiner Korb. Der Korb. In meinem Korb befinden sich viele verschiedene Dinge. Lass uns mal reinschauen. In meinem Korb habe ich Taschentücher, zum Naseputzen, eine Bürste, meine Fernbedienungen für den Fernseher, der Fernseher, Stifte zum Schreiben, Sonnencreme, Labello, Nagelscheren, Kämme, der Kamm, die Kämme, eine Taschenlampe und eine Haarklammer. die Haarklammer und auch viele lose Gegenstände, die kein anderes zu Hause haben. Guck mal, der Raumduft Diffuser. Er macht, dass der Raum oder das Zimmer gut riecht. Das hier oben ist der Dampf, Wasserdampf. Hinter mir siehst du ein Regal. Das Regal. Auf dem Regal stehen viele Pflanzen und ein Bilderrahmen. Das Regal ist aus vielen Sechsecken gemacht. Das Sechseck hat sechs Ecken. Und hier noch mal der Fernseher oder der Fernseher. Manchmal schaue ich abends ein bisschen fern. In meinem Wohnzimmer gibt es auch eine kleine Abstellkammer. Die Abstellkammer oder der Abstellraum. Im Abstellraum hängen Jacken, Taschen. Im Abstellraum gibt es auch meinen Wischmob, Cappies, Wintermützen und Schals und Handschuhe. Ein Schachspiel, noch einen Raumdiffuser, ein Schuhregal mit Schuhen und ein paar Rucksäcke. Und hier vorne siehst du noch meinen Staubsauger und viel Elektronik. Und wenn du meine Arbeit hier auf dem Kanal unterstützen möchtest, freue ich mich sehr über Kaffee",
   "gist": "w",
   "status": "ok",
@@ -60797,7 +61842,7 @@
  "qGBJYuCoamg": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:02:41+00:00",
+  "checked": "2026-11-22T04:28:04+00:00",
   "title": "Verstehe 95% von Deutsch – mit nur 3000 Wörtern 🍌",
   "duration": 805,
   "published": "20260221",
@@ -60806,6 +61851,7 @@
   "pace": 82.1,
   "rare": 0.1034,
   "var": 0.7515,
+  "cl": null,
   "speech_s": 756.1,
   "tokens": 1035,
   "kw": [
@@ -60970,6 +62016,88 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "deutschen",
+    "der gesprochenen deutschen Sprache. Und wie immer gibt's natürlich die",
+    59,
+    68,
+    5.67,
+    3
+   ],
+   [
+    "genau",
+    "backen. Und genau das machen wir heute.",
+    34,
+    41,
+    5.65,
+    3
+   ],
+   [
+    "wörter",
+    "wichtigsten 3000 Wörter auf Deutsch. Und",
+    48,
+    59,
+    4.35,
+    3
+   ],
+   [
+    "salz",
+    "und eine Prise Salz. Das ist eine Prise.",
+    293,
+    306,
+    4.33,
+    3
+   ],
+   [
+    "waage",
+    "brauchen wir eine Waage, die Waage.",
+    197,
+    206,
+    3.77,
+    4
+   ],
+   [
+    "banane",
+    "Diese Banane sieht nicht mehr appetitlich aus. Sie ist sehr, sehr",
+    0,
+    11,
+    3.66,
+    4
+   ],
+   [
+    "schalte",
+    "Ich schalte die Waage ein. Einschalten und wir brauchen nun 150 g",
+    207,
+    220,
+    3.59,
+    2
+   ],
+   [
+    "leckeres",
+    "leckeres Bananenbrot backen. Und genau das machen wir heute.",
+    31,
+    41,
+    3.55,
+    2
+   ],
+   [
+    "messerspitze",
+    "dann mit einer Messerspitze testen, ob",
+    494,
+    503,
+    2.34,
+    3
+   ],
+   [
+    "zerkleinern",
+    "Also ein bisschen zerkleinern. Dafür benutze ich ein großes Messer. Das",
+    395,
+    407,
+    2.75,
+    2
+   ]
+  ],
   "tx": "Diese Banane sieht nicht mehr appetitlich aus. Sie ist sehr, sehr reif. Sie hat viele schwarze und braune Stellen, aber ich möchte die Banane nicht wegschmeißen, denn mit reifen Bananen kann man sehr leckeres Bananenbrot backen. Und genau das machen wir heute. Los geht's. Doch zuerst, hi, ich bin Sonja und auf meinem Kanal lernen wir zusammen die wichtigsten 3000 Wörter auf Deutsch. Und mit 3000 Wörtern verstehst du 95% der gesprochenen deutschen Sprache. Und wie immer gibt's natürlich die kostenlose PDF mit allen wichtigen Wörtern zum Video. Den Link findest du in der Infobox und jetzt ran … Zutaten, die wir für das Bananenbrot brauchen. Das ist eine große Glasschüssel. Die Schüssel ist aus Glas. Zuerst schälen wir die Bananen. Das hier ist die Bananenschale. Die Schale. Und ich schäle die Banane. Die Bananenschalen werfe ich in den Müll. Das hier ist eine Gabel, die Gabel. Und mit der Gabel zerdrücken wir jetzt die Bananen. Ich zerdrücke die Bananen. Da die Bananen sehr weich sind, ist es sehr einfach, die Bananen zu zerdrücken. Es ist nicht schwer, es geht sehr leicht. Die Bananen sind jetzt zerdrückt. Umgangssprachlich sagt man auch oft vermatscht. Die Bananen sind jetzt … brauchen wir 80 ml Öl. Ich gieße das Öl in den Messbecher und ich gebe es zu den Bananen dazu, das Ei. Als nächstes gebe ich ein Ei hinzu. Ich schlage das Ei auf und gebe es in die Schüssel. Das ist die Eierschale, die kommt auch in den Müll. Jetzt brauchen wir eine Waage, die Waage. Und mit der Waage kann man Zutaten abwiegen. Ich schalte die Waage ein. Einschalten und wir brauchen nun 150 g braunen Zucker. Und außerdem geben wir noch ein Päckchen Vanillezucker dazu. Das hier ist die Vanille. Das ist der Schneebesen und mit dem Schneebesen werden wir jetzt alles gut verrühren. Ich rühre. … mit dem Sieb werden wir jetzt das Mehl einsieben. Wir brauchen 190 g Mehl. Das Mehl. Perfekt. Genau 190 g. Ich siebe das Mehl in die Schüssel ein. Weiter geht's mit 4 g Natron und 4 g Backpulver und eine Prise Salz. Das ist eine Prise. Eine Prise Salz. Ach ja, da fällt mir ja ein, ich habe vergessen, den Backofen einzuschalten und vorzuheizen, denn wenn der Bananenbroteig fertig ist, soll er direkt in den heißen Ofen rein. Ich schalte den Backofen ein und wir stellen 170° ein und hier benutzen wir Umluft. Weiter mit dem Rühren. Jetzt rühre ich die trockenen Zutaten unter. Unterrühren. Man … Kreis, die Kreise. So, das reicht. Man möchte den Teig nicht zu sehr vermischen. Jetzt sind die Nüsse an der Reihe. Diese Nüsse nennen wir auf Deutsch Walnüsse. Die Wahnuss. Wir brauchen eine Tasse mal Nüsse. Die Tasse ist voll mit Wallnüssen und jetzt werden wir die Wallnüsse zerhacken. Grob zerhacken. Also ein bisschen zerkleinern. Dafür benutze ich ein großes Messer. Das Messer. So, ich denke, das passt. Jetzt geben wir die Wallnüsse zu unserem Teig hinzu und wir verrühren noch einmal alles. Das sieht doch schon mal sehr gut aus. Das hier nennen wir auf Deutsch eine Kastenform. Die … Kastenform mit einem Backpapier aus, dass der Kuchen später nicht an der Kastenform klebt. Ich fülle den Teig in die Kastenform. Ich streiche den Teig glatt. glatt streichen. Die Oberfläche ist jetzt glatt und jetzt streuen wir noch ein paar Wallnüsse oben drauf. Und jetzt kommt unser Kuchen in den Ofen. Und jetzt lassen wir den Kuchen ungefähr eine halbe Stunde backen. Wir werden dann mit einer Messerspitze testen, ob der Kuchen schon fertig ist oder ob er noch ein bisschen länger braucht. Die 35 Minuten sind jetzt vorbei und wir werden mal schauen, ob der Kuchen fertig ist. Hier habe ich … machen jetzt den Messerspitzentest. Die Messerspitze ist sauber, das heißt, der Kuchen ist fertig. Wir schalten den Backofen aus. Und wir nehmen den Kuchen raus zum Abkühlen. Und hier ist nun das fertige Bananenwalnussbrot. Es duftet köstlich. Leider ist das Bananenbrot ein bisschen dunkler geworden, als ich gehofft habe, aber ich bin mir sicher, es schmeckt trotzdem. Und jetzt lassen wir das Bananenwalnussbrot abkühlen. Und hier ist das abgekühlte Bananenwalnussbrot. Wir nehmen das Brot jetzt aus der Form raus und werden es anschneiden. Jetzt schneide ich das Bananenbrot an. Etwas … So. sieht es innen aus. Zu meiner Scheibe Bananenbrot mache ich mir jetzt noch einen Kaffee. Und falls du sehen möchtest, wie ich meinen Kaffee mache, schaue als nächstes dieses Video hier oben. Und jetzt der Geschmackstest. Lecker. Und wenn du die 3000 wichtigsten deutschen Wörter mit mir lernen möchtest, komm in meine Easy Breasy German School Community, denn dort haben wir wöchentliche Speaking Clubs, wo wir die wichtigsten 3000 deutschen Wörter üben. Oder du kannst auch eine Privatstunde mit mir buchen. Vergiss nicht das Video zu liken und meinen Kanal zu abonnieren und bis ganz bald. … nicht mehr appetitlich aus. Sie ist sehr, sehr reif. Sie hat viele schwarze und braune Stellen, denn mit reifen Bananen kann man sehr leckeres Bananenbrot backen. Eine große Glasschüssel. Da die Bananen sehr weich sind, ist es sehr einfach, die Bananen zu zerdrücken. Es ist nicht schwer, es geht sehr leicht. das Öl, das Ei und wir brauchen nun 150 g braunen Zucker. Und mit dem Schneebesen werden wir jetzt alles gut verrühren. Und mit dem Sieb werden wir jetzt das Mehl einsieben. Perfekt. Genau. 190 g. Und eine Prise Salz. Ach ja, da fällt mir ja ein, ich habe vergessen, den Backofen … fertig ist, soll er direkt in den heißen Ofen rein. So, das reicht. Man möchte den Teig nicht zu sehr vermischen, also ein bisschen zerkleinern. So, ich denke, das passt. Und jetzt streuen wir noch ein paar Wallnüsse oben drauf. Wir werden dann mit einer Messerspitze testen, ob der Kuchen schon fertig ist oder ob er noch ein bisschen länger braucht. Heißt, der Kuchen ist fertig. Wir schalten den Backofen aus und wir nehmen den Kuchen raus zum Abkühlen. Leider ist das Bananenbrot ein bisschen dunkler geworden, als ich gehofft habe, aber ich bin mir sicher, es schmeckt trotzdem. Yeah.",
   "gist": "s",
   "status": "ok",
@@ -60978,7 +62106,7 @@
  "2dkN6VLZH00": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:02:45+00:00",
+  "checked": "2026-11-22T04:28:08+00:00",
   "title": "Learn German Naturally: Everyday EASY German at the Shoe Store 👢",
   "duration": 482,
   "published": "20260209",
@@ -60987,6 +62115,7 @@
   "pace": 85.4,
   "rare": 0.0709,
   "var": 0.7975,
+  "cl": null,
   "speech_s": 446.3,
   "tokens": 635,
   "kw": [
@@ -61148,6 +62277,88 @@
     111,
     119,
     2.84,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "allerdings",
+    "sehr gut. Allerdings suche ich flache Schuhe und der Absatz ist mir zu",
+    83,
+    96,
+    5.51,
+    4
+   ],
+   [
+    "deutsch",
+    "wir auf Deutsch Crocs. Die Crocs.",
+    287,
+    297,
+    5.24,
+    4
+   ],
+   [
+    "kasse",
+    "werde später an der Kasse fragen, ob man",
+    248,
+    255,
+    4.28,
+    3
+   ],
+   [
+    "grösser",
+    "",
+    0,
+    0,
+    4.74,
+    2
+   ],
+   [
+    "paare",
+    "bequem und warm wie die anderen Paare.",
+    270,
+    279,
+    4.09,
+    2
+   ],
+   [
+    "warme",
+    "Das hier sind Hausschuhe. Schöne, warme,",
+    291,
+    301,
+    4.01,
+    2
+   ],
+   [
+    "gummistiefel",
+    "auf Deutsch. Das sind Gummistiefel. Die Gummistiefel.",
+    308,
+    319,
+    3.09,
+    2
+   ],
+   [
+    "glänzt",
+    "Dieser Stiefel glänzt. Ich habe vier Paar Stiefel gefunden, die",
+    101,
+    112,
+    3.57,
+    1
+   ],
+   [
+    "schlappen",
+    "Schlappen. Die Schlappen. Und diese Schuhe nennen",
+    281,
+    290,
+    2.83,
+    2
+   ],
+   [
+    "schuhkarton",
+    "Ich öffne den Schuhkarton. Diese Stiefel",
+    113,
+    121,
+    2.71,
     2
    ]
   ],
@@ -69594,7 +70805,7 @@
  "ANHPEZ5v4Qw": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-17T23:44:41+00:00",
+  "checked": "2026-11-22T04:00:06+00:00",
   "title": "Mit Opa die Sterne beobachten | Caillou auf Deutsch | Cartoons voor kinderen",
   "duration": 2462,
   "published": "20261115",
@@ -69603,6 +70814,7 @@
   "pace": 114.3,
   "rare": 0.0795,
   "var": 0.847,
+  "cl": null,
   "speech_s": 2020.2,
   "tokens": 3849,
   "kw": [
@@ -69767,6 +70979,88 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "gern",
+    "möchte gern den Mond sehen. Oh, der Mond ist aber",
+    134,
+    146,
+    5.15,
+    14
+   ],
+   [
+    "bist",
+    "Gilbert, wo bist du, du böser Kater?",
+    205,
+    214,
+    5.61,
+    12
+   ],
+   [
+    "möchtest",
+    "Rosi, warte. Möchtest du gern wie Mami",
+    492,
+    498,
+    4.53,
+    8
+   ],
+   [
+    "sterne",
+    "Siehst du diese Sterne da? Dieses",
+    146,
+    153,
+    4.44,
+    8
+   ],
+   [
+    "tierarzt",
+    "Tierarzt. Gilbert, wo bist du, du böser Kater?",
+    204,
+    214,
+    3.66,
+    6
+   ],
+   [
+    "käfig",
+    "Papi, Gelbert ist aus dem Käfig raus.",
+    260,
+    267,
+    3.61,
+    6
+   ],
+   [
+    "rosi",
+    "Rosi, warte. Möchtest du gern wie Mami",
+    492,
+    498,
+    3.09,
+    7
+   ],
+   [
+    "officer",
+    "Hier ist Officer Ku. Alles in Ordnung.",
+    737,
+    745,
+    3.57,
+    6
+   ],
+   [
+    "briefträger",
+    "Siehst du, Kayu? Ein Briefträger arbeitet jeden Tag.",
+    636,
+    644,
+    2.94,
+    4
+   ],
+   [
+    "sternschnuppen",
+    "Sei nicht traurig. Sternschnuppen sind sehr schnell und deshalb schwer zu",
+    116,
+    123,
+    2.84,
+    4
+   ]
+  ],
   "tx": "KP bitte, ich will auch grillen. Tut mir leid, Ku, aber der Grill ist viel zu heiß. Spiel ein bisschen mit Rosy, bis das Essen fertig ist. Guck mal, Mama da. Oh nein, Ameisen. I Kaju, geh doch in die Küche und frag Großmutter, ob du ihr helfen kannst. Ich versuche inzwischen uns von den Ameisen zu befreien. Ist gut, Mama. Umi, sag mal, was machst du da? Meinem berühmten leckeren Kartoffelsalat nach einem Geheimrezept. Geheimrezept? Du darfst mein Testesser sein. M lecker. Was für eine wundervolle Nacht. Ich glaube, ich kann den Abendstern sehen. Oh, ist der aber schön. Das erinnert mich daran, … glaube, Gilbert mag nicht gern zum Tierarzt gehen. Ich weiß, aber es hilft nichts. Er muss zur Untersuchung. Zur Untersuchung? So wie ich, wenn ich zum Onkel Doktor gehe. Ja, ganz genau. Der Tierarzt ist der Onkel Doktor für Gilbert. Bleib ganz ruhig, Gilbert. Ich passe schon auf dich auf. Papi, Gelbert ist aus dem Käfig raus. Na schön, keine Aufregung. Ich habe alles unter Kontrolle. Hoffentlich. Da, ich sehe seinen Schwanz. Du bist ein böser Kater, Gilbert. Er ist ganz bestimmt kein böser Kater. Er hat nur Angst. Er mag nicht gern Autofahren. Du dover Gilbert, ich finde Autofahren ganz … Na ja, ich wollte, dass Rosie so hübsch aussieht wie du. Du weißt doch, dass du mit meinem Make-up nicht rumspielen darfst. Dann wollen wir dich mal wieder sauber machen. Rosy, hier, zieh dich an. Du und Rosy, ihr müsst doch gleich zu eurer Spielgruppe. Ich will aber heute nicht zur Spielgruppe gehen. Kaju, was braucht der Junge nur so lang? Lass schon mal den Wagen an, Liebling. Papi, ich stecke fest. K, Mama wartet schon draußen auf dich. Knte diese wilde Hetzerei überhaupt nicht vertragen und fühlte sich plötzlich ganz schrecklich. Nein, ich will jetzt nicht mit Mami wegfahren. … in Durchsage machen? Hier ist Officer Ku. Alles in Ordnung. Okay, Officer K. Aber jetzt müssen die Polizisten wieder arbeiten. Papi, wenn ich mal groß bin, dann werde ich Polizist. Das kannst du natürlich werden, wenn du möchtest, Kayu? Aber jetzt bringe ich dich zur Spielgruppe. Ja, ich muss jetzt zur Arbeit gehen, wie all die anderen Menschen, die wir heute morgen haben, arbeiten sehen. Einverstanden? Einverstanden. Da bist du ja, Kayu. Ich habe mich schon gefragt, wann du wohl kommen würdest. M, ich habe in einem Polizeiauto gesessen. Wirklich? Das hat bestimmt Spaß gemacht. Ich … Geht in Ordnung, Papi. Na, mach schon. Trink deine Milch aus. Du musst jetzt ins Bett. Du hast ja einen Milchschnurbart. Warum lachst du denn? Hm. Oh, ich habe wohl auch einen. Ihr zwei seht aus, als ob ihr auf der Milchstraße wart. Was ist denn die Milchstraße? Mal überlegen, das ist eine Galaxie, in der sich unser Sonnensystem befindet. Ein riesiges Gebilde im Weltraum mit Millionen und abermlionen von Sternen. Das ist genau das Richtige. Wofür brauchst du die denn? Das ist ein Geheimnis. Kaju hätte zu gern gewusst, was das für ein Geheimnis ist, aber er und sein Vater konnten nicht ahnen, … geflogen, aber sie ist weg. Ich bin sicher, da gibt's noch mehr. Komm, wir sehen mal nach. Da Ku, da kommt schon wieder eine. Wo denn? Ich will sie auch sehen. Sei nicht traurig. Sternschnuppen sind sehr schnell und deshalb schwer zu beobachten. K wollte unbedingt eine Sternschnuppe sehen. Deshalb beschloss er so lange zu warten, bis wieder eine kam. Tut mir leid, dass du die Sternschnuppe nicht gesehen hast. Wollen wir stattdessen den Mond betrachten? Ja, ich möchte gern den Mond sehen. Oh, der Mond ist aber riesig. Siehst du diese Sterne da? Dieses Sternbild heißt großer Bär. Ich … denn hier? Gilbert muss zu seiner Untersuchung. Olis Zähne müssen gereinigt werden. Deshalb muss er über Nacht hier bleiben. Hast du ihm seine Zahnbürste mitgebracht? Nein, Quatsch. Er hat doch keine eigene Zahnbürste. Dr. Orangeevill reinigt ihm seine Zähne. Gut, das wär es. Alles in Ordnung. Und jetzt bekommt Gilbert noch seine Impfung. Die tut doch sicher sehr weh. Das ist nicht so schlimm. Aber sie bewirkt, dass er ein Jahr lang gesund bleibt. Würdest du mir bitte dabei helfen, Kaju? Du musst Gilbert streicheln, damit er ruhig bleibt. Hab keine Angst, Gilbert. So, wir sind fertig. Das … Kaju, ich muss heute wirklich zur Arbeit gehen. Aber erst einmal ziehen wir deine Schuhe an. Ich will dir etwas zeigen. Was willst du mir denn zeigen, Papi? Eine ganze Menge Menschen, die jeden Tag zur Arbeit gehen müssen. Ganz genauso wie Mama und ich. Guten Morgen, Kaju. Sag mal, arbeitest du auch? Aber ja, ich trage die Post aus. Willst du mir dabei vielleicht helfen? Kann ich das? Hier, würdest du diesen Brief nehmen und ihn in Mr. Hinkels Briefkasten legen? Siehst du, Cou? Ein Briefträger arbeitet jeden Tag. Warum? Damit Mr. Hinkel pünktlich seine Post bekommt und dein Vater seine … du denn da? Das ist meine neue Rakete. Boah, toll. Na, spielt ihr schön? Wir sind Weltraumfahrer. Das habe ich mir schon gedacht. Wir fliegen gerade zum Mond. Aber versprecht mir, dass ihr zum Mittagessen wieder hier seid. soll mit Teddy spielen. Das will ich aber nicht. Auf zum Mond. Hoppla, ihr Astronauten, nicht ganz so wild. Rosy wollte zu gern mit Cayu und Leo spielen. Oh, das ist ja hoch interessant. Morgen wird hier in der Stadt ein Planetarium eröffnet. Ich glaube, das würde unsere beiden Weltraumfahrer interessieren. Mich auch. Und hier, sie veranstalten einen Wettbewerb für das … Ich habe mir ein besonderes Spiel für euch ausgedacht. Seht mal, ich spaziere auf dem Mond. Könnt ihr das auch? Das ist sehr gut. Und genau über uns sehen wir die Milchstraße. Und nun kommen wir zu unserem Höhepunkt, der Mondspaziergang. Das ist der Mond und hier kommen unsere Mondspaziergänger. Oh Mann, wir sind wirklich auf dem Mond. Damit ist die Vorführung zu Ende. Aber zum Schluss kommen wir noch zum wichtigsten, dem Wettbewerb für das beste Weltraumkostüm. Und der Preis geht an. Rosy und Ros Mutter. Jetzt weiß ich, wofür Mami die Küchenhandschuhe gebraucht hat. Ich gratuliere. Shit.",
   "gist": "s",
   "status": "ok",
@@ -69775,17 +71069,18 @@
  "bRlV8x4s2kI": {
   "channel": "tagesschau",
   "lang": "de",
-  "checked": "2026-11-19T03:20:27+00:00",
+  "checked": "2026-11-22T03:19:22+00:00",
   "title": "tagesthemen 22:15 Uhr, 18.11.2026",
-  "duration": 2098,
+  "duration": 2097,
   "published": "20261118",
   "spoken": "de",
   "spoken_v": 2,
-  "pace": 141.5,
-  "rare": 0.0904,
-  "var": 0.8613,
-  "speech_s": 2064.0,
-  "tokens": 4866,
+  "pace": 142.6,
+  "rare": 0.0876,
+  "var": 0.8597,
+  "cl": null,
+  "speech_s": 2045.3,
+  "tokens": 4862,
   "kw": [
    [
     "russland",
@@ -69797,9 +71092,9 @@
    ],
    [
     "sehen",
-    "sehen. Natürlich hat äh der Bundestag",
+    "sehen. Natürlich hat der Bundestag jedes Jahr aufs Neue das",
     297,
-    303,
+    304,
     5.69,
     10
    ],
@@ -69812,11 +71107,11 @@
     10
    ],
    [
-    "weiter",
-    "weiß nicht einmal, ob er weiter SPDF",
-    628,
-    634,
-    5.75,
+    "morgen",
+    "Geredet wird morgen am Rande des",
+    699,
+    704,
+    5.43,
     9
    ],
    [
@@ -69829,8 +71124,8 @@
    ],
    [
     "milliarden",
-    "22 Milliarden Euro im Haushalt für 2028.",
-    168,
+    "Milliarden Euro im Haushalt für 2028.",
+    169,
     176,
     4.69,
     6
@@ -69844,11 +71139,11 @@
     5
    ],
    [
-    "gemeinsame",
-    "gemeinsame Antwort. Und das macht mir",
-    670,
-    676,
-    4.61,
+    "regen",
+    "Regen heute. Am meisten gab es in",
+    1975,
+    1979,
+    4.63,
     5
    ],
    [
@@ -69869,15 +71164,15 @@
    ],
    [
     "entlastung",
-    "Familie eine mögliche Entlastung von monatlich knapp 8 € errechnet. 8 Stunden",
+    "Familie eine mögliche Entlastung von monatlich knapp 8 Euro errechnet. Acht",
     71,
-    81,
+    80,
     3.76,
     5
    ],
    [
     "senkung",
-    "Senkung der Stromsteuer, die kommt nächstes Jahr, wie vom Kanzler",
+    "Senkung der Stromsteuer. Die kommt nächstes Jahr, wie vom Kanzler",
     61,
     68,
     3.7,
@@ -69909,7 +71204,7 @@
    ],
    [
     "alaska",
-    "Bundesstaat Alaska fest. Die Demokratin Peltole konnte sich den letzten noch",
+    "Bundesstaat Alaska fest. Die Demokratin Peltola konnte sich den letzten noch",
     1371,
     1380,
     3.54,
@@ -69917,7 +71212,7 @@
    ],
    [
     "stromsteuer",
-    "Senkung der Stromsteuer, die kommt nächstes Jahr, wie vom Kanzler",
+    "Senkung der Stromsteuer. Die kommt nächstes Jahr, wie vom Kanzler",
     61,
     68,
     2.25,
@@ -69925,30 +71220,112 @@
    ],
    [
     "flexibilisierung",
-    "Also Flexibilisierung ist immer gut. Auch die Tatsache, dass man die",
+    "Also Flexibilisierung ist immer gut, auch die Tatsache, dass man die",
     515,
     522,
     2.77,
     4
    ],
    [
+    "klingbeil",
+    "Klingbeil und die SPD eine dauerhafte",
+    134,
+    139,
+    2.69,
+    4
+   ],
+   [
+    "shenzhen",
+    "Shenzhen. Für den Rest der Welt klang schon die",
+    705,
+    712,
+    2.99,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "usa",
+    "den USA, der mächtigsten Atommächte der",
+    687,
+    693,
+    5.33,
+    9
+   ],
+   [
+    "weiter",
+    "ob er weiter SPD-Chef bleibt. Friedrich",
+    629,
+    635,
+    5.75,
+    8
+   ],
+   [
+    "gemeinsame",
+    "gibt es bislang keine gemeinsame Antwort",
+    668,
+    675,
+    4.61,
+    5
+   ],
+   [
+    "ukraine",
+    "Angriffskrieg in der Ukraine. Er will",
+    837,
+    842,
+    4.51,
+    5
+   ],
+   [
+    "estland",
+    "gegen andere Nachbarn. Estland ist ein",
+    922,
+    928,
+    3.6,
+    5
+   ],
+   [
+    "ähm",
+    "First Husband ist eine Kategorie, ähm",
+    1828,
+    1835,
+    4.12,
+    4
+   ],
+   [
+    "kanzleramt",
+    "Kanzleramt trifft. Auf jede Veränderung muss man sich einigen und wenn das nicht",
+    46,
+    53,
+    3.5,
+    2
+   ],
+   [
+    "tankstellen",
+    "Ölkonzerne an den Tankstellen verhindern.",
+    203,
+    209,
+    3.49,
+    2
+   ],
+   [
     "wadern",
-    "war einen Tag mittendrin in Wadern im",
-    1506,
-    1512,
+    "mittendrin in Wadern im Saarland auf",
+    1507,
+    1513,
     2.54,
     3
    ],
    [
     "narva",
-    "Grenzort Narva, Russlands Ivangorot ist nur durch den Fluss getrennt. Von dort",
-    946,
-    955,
+    "die Menschen im Grenzort Narva. Russlands Iwangorod ist nur durch den",
+    945,
+    953,
     2.14,
     3
    ]
   ],
-  "tx": "Hier ist das erste deutsche Fernsehen mit den Tagesthemen. Heute im Studio Jörg Schönenborn und Susanne Daubner. Herzlich willkommen. Schön, dass Sie dabei sind. Guten Abend. Unsere Bundesregierung besteht aus drei Parteien, die viele gegensätzliche politische Positionen vertreten und im Wahlkampf unterschiedliche Dinge versprochen haben. Deshalb ist es so mühsam, wenn sich der Koalitionsausschuss nächtens im Kanzleramt trifft. Auf jede Veränderung muss man sich einigen und wenn das nicht gelingt, bleibt alles wie es ist. Vergangenen Nacht wurden nach Teilnehmerangaben fast die gesamten 8 … über Wahlrecht, Rentenreform und die Einkommenssteuer. Ob sie sich dabei angenähert haben, darüber wurde nichts bekannt. Monika Schnitzer leitet die Runde der fünf Wirtschaftsweisen. Das ist der Sachverständigen Rat für die gesamtwirtschaftliche Entwicklung, der der Bundesregierung regelmäßig Empfehlungen schreibt. Guten Abend, Frau Schnitzer. Guten Abend. 5 Milliarden Entlastung bedeutet die Senkung der Stromsteuer. Der Kanzler sagt, das werden kleinere Betriebe und Familien nächstes Jahr spüren. Hat er recht? Ja, da hat er schon recht. Das werden die spüren. Das große Problem für die wird … sehen, an der Stelle ist erstmal noch gar nicht klar, wie es genau ausgestaltet werden soll. Äh, es wird sehr viel Bürokratie verursachen. Da werden einige Beamte in den Ministerien jetzt sehr viele Extrastunden arbeiten müssen, um das so schnell alles umzusetzen. Und äh das Problem an der Stelle ist doch, wie setzt man genau diesen diesen Preisdeckel fest? Wenn man ihn zu hoch ansetzt, dann kann es bedeuten, dass manche Tankstellen jetzt sogar ihre Preise extra erhöhen, wenn die bisher drunter lagen. Und wenn man ihn zu niedrig ansetzt, dann kann es wiederum passieren, dass es eine … geklärt. Sie sprechen nicht miteinander in dieser Koalition oder zu spät und am Ende knallt es. Die große Frage ist, wer bezahlt künftig die Versprechen dieser Koalition? Darauf gibt es bislang keine gemeinsame Antwort. Und das macht mir dann wieder schlaflose Nächte als Bürgerin dieses Landes. Die Meinung von KTIN Palzer. Auch in der eingespielten Welt der Diplomatie gibt es noch Innovationen. Die Staatschefs aus China, Russland und den USA, der mächtigsten Atommächte der Welt, haben sich noch nie zu einem Dreiergipfel verabredet. Shin Ping, Wladimir Putin und Donald Trump begrüßten … kann nur aus den verschiedenen Äußerungen der Beteiligten schließen, worum es gehen soll. Also z.B. um den Ukrainekrieg. Es gibt keine gemeinsame Pressekonferenz. Ja, und selbst ob es eine gemeinsame Erklärung geben soll, ist unklar. Also, man sieht, so groß sind die Gemeinsamkeiten offenbar nicht. Was am Ende dabei rauskommt, aber das wissen wir dann morgen Abend und werden es dann gemeinsam weiter betrachten für heute. Danke, Jörg und alles Gute nach Chenenjen. Sehr gerne. Russland führt seinen Kampf gegen den Westen nicht nur in der Ukraine, sondern auch mit sogenannten hybriden Mitteln … reagieren und das Ziel ganz nach eigener Berechnung neu wählen. In Genf beraten diese Woche Vertreter aus 128 Ländern über die Grenzen einer Technologie, die in Kriegsgebieten längst tag für Tag entscheiden kann, ob und wer getötet wird. Stefanie Dott. Russische Drohnen nähern sich Saporia in der Ukraine, gefilmt von Abwehrdrohnen des ukrainischen Militärs, unweit der Frontlinie. Drohnen, die sich offenbar selbst steuern und ihre Ziele wählen, wie hier am 6. Juli. Eine Drohne soll laut Auswertungen ukrainischer Expertengruppen Propantanks angreifen, detoniert jedoch schon vorher und tötet … Neuauszählung erreichen. Das Verfassungsgericht sah aber keine konkreten Hinweise auf Wahlfehler. Zwei Wochen nach den Zwischenwahlen in den USA steht jetzt auch das Ergebnis im Bundesstaat Alaska fest. Die Demokratin Peltole konnte sich den letzten noch offenen Sitz im Senat sichern. Sie setzte sich gegen den amtierenden Senator Sullivan von den Republikanern durch. Peltole ist die erste indigene Senatorin aus Alaska. Mit ihr haben die Demokraten ab Januar eine Mehrheit von 56 der 100 Sitze im Senat. Die Raumsonde Voyager 1 hat bei ihrer Reise durch das Weltall einen neuen Rekord … auch herausfund Verhaltensweisen zeigen, ne? Und das äh Thema Herausfordert ist, dass jemand auch beispielsweise und das gehört auch dazu rückfällig wird, dann vielleicht auch verbal aggressiv wird. In den vergangenen Jahren, seit Ralf Sutter dem Bauernhof leitet, habe es keine körperlichen Angriffe gegeben. Aber auch für solche Fälle wären die Betreuerinnen und Betreuer entsprechend geschult. Die Versorgung der Tiere auf dem Hof ist nicht nur eine Aufgabe, sondern ein wichtiger Teil der Therapie. Da beispielsweise sehen wir es da dran, dass äh Bewohnerbewohneren, die bei uns leben, … und mit Freude getan. Das Vereinigte Deutschland liegt mir am Herzen und in dieser Rolle konnte ich zeigen äh was das für ein tolles Land ist und konnte den Partnerinnen und Partner gab es zum Schluss auch ähm zeigen, was mir wichtig ist und wie wir leben. Mein richtiges Leben hat Sauer seine Autobiografie genannt, aber ging das richtig aufrichtig leben als aufstrebender Wissenschaftler in der DDR. Die Anpassung äh wollte ich soweit vornehmen, äh, dass ich meine Bildungschancen bewahre. Ich wollte eigentur machen, ich wollte studieren, ich wollte promovieren und ich wollte weiter in … dann gibt's wieder mehr Sonnenschein und wunderbare Farben in der Atmosphäre. Ja, ich merke schon, du möchtest, dass wir deine Begeisterung für den November teilen? Das Wort Regenkringel. Ja, das Wort Regenkringel merke ich mir. Danke, Carsten. Und das war's auch schon von uns. Sandra Meisberger ist jetzt dran und die spricht mit ihren Gästen weiter über das Thema Energiepreise. Zu Gast sind unter anderen Sachsens Ministerpräsident Kretschmer und die Grünen Parteivorsitzende Brandner und wir sehen uns morgen Abend wieder pünktlich :10 Uhr. Bis dahin, tschüss und lassen Sie sich gut gehen. M.",
+  "tx": "Hier ist das Erste Deutsche Fernsehen mit den Tagesthemen. Heute im Studio Jörg Schönenborn und Susanne Daubner. Herzlich willkommen. Schön, dass Sie dabei sind. Guten Abend. Unsere Bundesregierung besteht aus drei Parteien, die viele gegensätzliche politische Positionen vertreten und im Wahlkampf unterschiedliche Dinge versprochen haben. Deshalb ist es so mühsam, wenn sich der Koalitionsausschuss nächtens im Kanzleramt trifft. Auf jede Veränderung muss man sich einigen und wenn das nicht gelingt, bleibt alles wie es ist. Vergangene Nacht wurden nach Teilnehmerangaben fast die gesamten acht … letzte Nacht auch über Wahlrecht, Rentenreform und die Einkommensteuer. Ob sie sich dabei angenähert haben, darüber wurde nichts bekannt. Monika Schnitzer leitet die Runde der fünf Wirtschaftsweisen, das ist der Sachverständigenrat für die gesamtwirtschaftliche Entwicklung, der der Bundesregierung regelmäßig Empfehlungen schreibt. Guten Abend, Frau Schnitzer. Guten Abend. Fünf Milliarden Entlastung bedeutet die Senkung der Stromsteuer. Der Kanzler sagt, das werden kleinere Betriebe und Familien nächstes Jahr spüren. Hat er recht? Ja, da hat er schon recht, das werden die spüren. Das große … müssen sehen, an der Stelle ist erstmal noch gar nicht klar, wie es genau ausgestaltet werden soll. Es wird sehr viel Bürokratie verursachen. Da werden einige Beamte in den Ministerien jetzt sehr viele extra Stunden arbeiten müssen, um das so schnell alles umzusetzen. Und das Problem an der Stelle ist doch, wie setzt man genau diesen diesen Preisdeckel fest? Wenn man ihn zu hoch ansetzt, dann kann es bedeuten, dass manche Tankstellen jetzt sogar ihre Preise extra erhöhen, wenn die bisher drunter lagen. Und wenn man ihn zu niedrig ansetzt, dann kann es wiederum passieren, dass es eine … Sie sprechen nicht miteinander in dieser Koalition oder zu spät. Und am Ende knallt es. Die große Frage ist, wer bezahlt künftig die Versprechen dieser Koalition? Darauf gibt es bislang keine gemeinsame Antwort und das macht mir dann wieder schlaflose Nächte als Bürgerin dieses Landes. Die Meinung von Kerstin Palzer. Auch in der eingespielten Welt der Diplomatie gibt es noch Innovationen. Die Staatschefs aus China, Russland und den USA, der mächtigsten Atommächte der Welt, haben sich noch nie zu einem Dreiergipfel verabredet. Xi Jinping, Wladimir Putin und Donald Trump begrüßten sich … nur aus den verschiedenen Äußerungen der Beteiligten schließen, worum es gehen soll, also z.B. um den Ukraine-Krieg. Es gibt keine gemeinsame Pressekonferenz ja und auch selbst, ob es eine gemeinsame Erklärung geben soll ist unklar. Also man sieht, so groß sind die Gemeinsamkeiten offenbar nicht, was am Ende dabei rauskommt, aber das wissen wir dann morgen Abend. Und werden es dann gemeinsam weiter betrachten. Für heute danke Jörg und alles Gute nach Shenzhen. Sehr gerne. Russland führt seinen Kampf gegen den Westen nicht nur in der Ukraine, sondern auch mit sogenannten hybriden Mitteln … ihre Umgebung wahrnehmen, reagieren und das Ziel ganz nach eigener Berechnung neu wählen. In Genf beraten diese Woche Vertreter aus 128 Ländern über die Grenzen einer Technologie, die in Kriegsgebieten längst Tag für Tag entscheiden kann, ob und wer getötet wird. Stephanie Dott. Russische Drohnen nähern sich Saporischschja in der Ukraine, gefilmt von Abwehrdrohnen des ukrainischen Militärs, unweit der Frontlinie. Drohnen, die sich offenbar selbst steuern und ihre Ziele wählen, wie hier am 6. Juli. Eine Drohne soll laut Auswertungen ukrainischer Expertengruppen Propantanks angreifen, … nach den Zwischenwahlen in den USA steht jetzt auch das Ergebnis im Bundesstaat Alaska fest. Die Demokratin Peltola konnte sich den letzten noch offenen Sitz im Senat sichern. Sie setzte sich gegen den amtierenden Senator Sullivan von den Republikanern durch. Peltola ist die erste indigene Senatorin aus Alaska. Mit ihr haben die Demokraten ab Januar eine Mehrheit von 56 der 100 Sitze im Senat. Die Raumsonde Voyager 1 hat bei ihrer Reise durch das Weltall einen neuen Rekord aufgestellt. Sie war laut NASA einen Lichttag von der Erde entfernt als erstes von Menschen geschaffenes Objekt. Das … Verhaltensweisen ist, dass jemand auch beispielsweise, und das gehört auch dazu, rückfällig wird, dann vielleicht auch verbal aggressiv wird. In den vergangenen Jahren, seit Ralph Sutter den Bauernhof leitet, habe es keine körperlichen Angriffe gegeben. Aber auch für solche Fälle wären die Betreuerinnen und Betreuer entsprechend geschult. Die Versorgung der Tiere auf dem Hof ist nicht nur eine Aufgabe, sondern ein wichtiger Teil der Therapie. Beispielsweise sehen wir es daran, dass äh Bewohner, Bewohnerinnen, die bei uns leben, Verantwortung über ein Tier oder zu den Tieren … Das vereinigte Deutschland liegt mir am Herzen und in dieser Rolle konnte ich zeigen ähm was das für ein tolles Land ist und konnte den Partnerinnen und Partner gab es zum Schluss auch ähm zeigen, was mir wichtig ist und wie wir leben. Mein richtiges Leben hat Sauer seine Autobiografie genannt. Aber ging das richtig aufrichtig leben als aufstrebender Wissenschaftler in der DDR? Die Anpassung äh wollte ich soweit vornehmen äh, dass ich meine Bildungschancen bewahre. Ich wollte ein Abitur machen. Ich wollte studieren. Ich wollte promovieren und ich wollte weiter in der Forschung tätig … wieder mehr Sonnenschein und wunderbare Farben in der Atmosphäre. Ja, ich merke schon, du möchtest, dass wir deine Begeisterung für den November teilen. Das Wort Regenkringel, ja, das Wort Regenkringel merke ich mir. Danke Carsten. Und das war's auch schon von uns. Sandra Maißberger ist jetzt dran und die spricht mit ihren Gästen weiter über das Thema Energiepreise. Zu Gast sind unter anderem Sachsens Ministerpräsident Kretschmer und die Grünen-Parteivorsitzende Brandner. Und wir sehen uns morgen Abend wieder, pünktlich Viertel nach zehn. Bis dahin Tschüss. und lassen Sie sich's gut gehen.",
   "gist": "s",
   "status": "ok",
   "src": "auto"
@@ -70355,7 +71732,7 @@
  "Qle47Yz00w4": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-20T05:37:33+00:00",
+  "checked": "2026-11-22T04:14:57+00:00",
   "title": "Peppa Wutz entdeckt einen GEHEIMEN TUNNEL! 🤫 Unterirdisches Abenteuer | Zeichentrick für Kinder",
   "duration": 1620,
   "published": "20261118",
@@ -70527,6 +71904,88 @@
     19,
     2.39,
     11
+   ]
+  ],
+  "kx": [
+   [
+    "gar",
+    "Peppa, du bist doch gar kein Hase. Woher",
+    71,
+    77,
+    5.64,
+    8
+   ],
+   [
+    "spielen",
+    "Heute ist Peppa Wutz zum Spielen in",
+    13,
+    19,
+    5.42,
+    8
+   ],
+   [
+    "verstecken",
+    "Jetzt müssen wir uns verstecken. ",
+    604,
+    613,
+    4.23,
+    8
+   ],
+   [
+    "lasst",
+    "Lasst uns weiter probieren. Die nächste Babynahrung ist grün.",
+    242,
+    253,
+    4.63,
+    7
+   ],
+   [
+    "streich",
+    "tropf, drei, vier, ich streich gern mit",
+    960,
+    965,
+    3.8,
+    4
+   ],
+   [
+    "joghurt",
+    "Tja, sie kann jede Menge Joghurt",
+    191,
+    196,
+    3.69,
+    4
+   ],
+   [
+    "pinsel",
+    "kleineren Pinsel an. Wie wär's mit einem lila",
+    919,
+    923,
+    3.54,
+    5
+   ],
+   [
+    "geschmeckt",
+    "durchgemischt, bis es ihnen geschmeckt hat.",
+    198,
+    204,
+    3.57,
+    4
+   ],
+   [
+    "osterhasen",
+    "Schmeckt dem Osterhasen Schokolade? Na klar.",
+    558,
+    565,
+    2.93,
+    8
+   ],
+   [
+    "ostereiersuche",
+    "lasst die Ostereiersuche beginnen. Hurra!",
+    739,
+    748,
+    2.14,
+    6
    ]
   ],
   "tx": "Okay, wo ist jetzt meine To-Do-Liste? Ihr beiden. Heute ist Peppa Wutz zum Spielen in Luisa Löffels Bauch. Aha, das nehme ich. Wie hast du das denn gemacht? Bist du eine Zauberin? Wir Hasen haben spezielle Geheimtunnel und zwar überall. Wow. Kommt ihr zwei, ich zeige es euch, während wir meine Liste abarbeiten. Ja. Oh. Wow. Oh, Mama Löffels Bauch hat wirklich einen geheimen Tunnel. Hallo. Kommt schon ihr zwei. Wir sind da. Der erste Halt ist der Supermarkt. Aber liegt der Supermarkt nicht über der Erde? Ja und nein. Hallo. Mama Löffels geheimer Tunnel hat sie zum Supermarkt geführt. Hallo … aber wir haben so lange alles durchgemischt, bis es ihnen geschmeckt hat. Manche brauchen etwas länger, bis ihnen Babynahrung schmeckt. Bist du bereit, alles zu probieren? Wir können mit dir raten, was es ist. Ja, da ist Peppa voll dabei. Alles klar, Efi. Nummer eins ist Gelb. Hier, guck mal da, Efi. Schmeckt es dir? Efi weiß nicht recht, ob's ihr schmeckt. Das hier ist cremig und lecker. Und süß. Oh, es ist Banane-Banane. Gut geraten, ihr zwei. Und los geht's. Lasst uns weiter probieren. Die nächste Babynahrung ist grün. Der ist gar nicht süß. Er ist Der Müsli. Denn das Erbsen Oder ist es … Peppa. Deswegen machen sie einem, ups, sehr viel Arbeit. Du warst genauso. Ich habe nie gekleckst, niemals, niemals, nie. George nicht. Was, oh, ist denn los mit dir, Alexander? Du isst doch gerne. Koste mal. Hier kommt das Flugzeug. Ich ziehe mir besser ein frisches Hemd an. Oh, ich hab's. Vielleicht kann Teddy helfen. Ich weiß nicht recht, Peppa. Es ist jetzt Picknickzeit, mein kleiner Teddybär Alexander. Hm, lecker, das schmeckt super. Tada! So, viel besser. Oh, natürlich. Ich finde, Rot steht dir gut. Alexander, welche willst du? Die grüne, die rote oder die gelbe Nahrung? Das grüne? … ähm äh Hat jemand von euch die Weidenkörbe gesehen? Ich seh hier drüben nach Papa Wutz. Uh, ich hab's. Fragen wir den Osterhasen doch einfach selber. Peppa und ihre Freunde denken sich einen Plan aus, um den Osterhasen zu erwischen. Der Osterhase lebt bestimmt in einer Höhle und isst Karotten, so wie Luisa. Oh, dann lasst uns ein Loch buddeln und Karotten hinlegen. Dann kommt der vielleicht und isst. Ja. Die Höhle ist bereit für die Karotten. Ja. Jetzt müssen wir uns verstecken. Oh, die Karotten sind gewachsen. Wie lustig. Ich erinnere mich gar nicht, Karotten gepflanzt Wer hat dieses Loch … dieses große schweineförmige Ei? Warte, Papa. Kein Ei. Das ist kein Ei, ist Peppa. Ach, wirklich? Du hast recht. Nun gut, lasst die Ostereiersuche beginnen. Hurra! Jetzt suchen alle nach leckeren Schokoladen-Ostereier. Ich habe eins. Habe eins. Und hier ist auch eins. Mein Cousin hat dasselbe Outfit. Mit Peppas Kinderwagen sind Peppa und George etwas langsamer als ihre Freunde. Tschuldigung. Zu langsam, tut mir leid. Hier ist noch ein Ei. Ich habe eins gefunden. Ja. Bitteschön, Peppa. In Peppas Kinderwagen kann man gut die ganzen Eier ablegen. Hier ist auch noch eins. Ah, jedoch Ähm, wo sind … Peppas Familie alles für das neue Babyzimmer vor. Heute ist Renovierungstag. Ich gehe die Vorhänge abholen. Bin bald wieder da. Habt Spaß! Haben wir. George, vielleicht fängst du mit einem kleineren Pinsel an. Wie wär's mit einem lila Prinzessinnenzimmer? Nein, Dinosaurier! Vergesst nicht, wir streichen dieses Zimmer für das neue Baby, nicht für uns. Wie wär's mit einem leuchtenden Gelb? Ja! Na gut, Wutz-Team. Auf die Plätze, fertig, weicht! Aha, da sind sie ja. Uh, fürs Babyzimmer könnten wir eine Uhr gebrauchen. Versucht es so. Pinsel hoch, Pinsel tief. Pinsel hoch. Pinsel tief. Mal ein … an unser erinnert. Wow, es ist wunderschön. Das habt ihr toll gemacht. Ich bin sicher, das Baby wird das Zimmer genauso lieben wie ihr. Das wird hier oben toll aussehen. Das neue Zimmer ist komplett geschmückt und bereit für das Baby. Mama, wo sind denn die Vorhänge? Oh je. Bis auf die Vorhänge, die fehlen noch. Sie sind da. Leg los, Peppa. Heute feiert Peppas Familie ihr Haus mit einer besonderen Hausfeier. Dann habe ich gesagt, das ist keine Schlammpfütze. Das ist Evis Oh. Papa, wieso feiern wir eigentlich das Haus? Wir wohnen ja schon eine Weile hier. Bei einer Hausfeier geht's darum, … und jetzt finde ich gar keinen. Oh, das muss sehr hart sein. Lass uns beide einmal durch den Bauch atmen. Schade, dass du niemanden gefunden hast, aber heute geht doch vor allem darum, das Haus mit Erinnerungen zu füllen. Ja. Versuch es doch einfach weiter und du wirst sehen, wie viel Spaß man im Haus haben kann. Haha, du hast mich gefunden. Ja, hab ich. Hilfst du mir dabei, die anderen zu finden? Ja. Peppa liebt ihr Haus. Ich hab dich. Und sie liebt es besonders, die vielen neuen Plätze zu erkunden und Verstecken zu spielen. Hab dich. Heute gönnt sich Peppa einen ruhigen Nachmittag … Du wirst mich nie erwischen. Doch, das werde ich. Irgendwas brennt an. Hätten wir nur mein Rezept befolgt. Ah, perfekt. Ruhe und Frieden, ganz für mich allein. Oh je, Peppas ruhiges Plätzchen wird ihr etwas zu ruhig. Ganz allein macht es ihr doch keinen Spaß. Vielleicht ist es bei den anderen lustiger, auch wenn es manchmal ziemlich laut sein kann. Das Essen ist fertig, ihr Lieben. Habt ihr das Wahnsinnsspiel gesehen? Platz da, lasst mich durch. Wartet, wo ist Peppa? Ist es normal, dass der Tisch leuchtet? Oh, ähm, hallo zusammen. Ich habe mir einen Platz zum Lesen gesucht, aber … Oh, noch mehr Kuchen. Danke, George. Ich weiß, ich esse für zwei, aber Oh, lasst mich raten. Dachte ich mir. Ist eine lustige Geschichte. Mehr. Oh, nur ein bisschen größer. Oh, das reicht schon. Ähm, nicht das Foto. Bestellung bestätigt. Ja, Juhu. Hier ist noch mehr Kuchen für noch mehr Muttertag. Danke euch. Teilen wir ihn doch mit allen, die wir kennen. Oh, ist das etwa das, was ich denke? Alles Gute zum noch mehr Muttertag. Was für eine hübsche, riesige Karte. Mama Wutz weiß, dass weniger mehr ist. Eine Sache fehlt aber noch. Aber eine Sache hätte sie noch gerne. Eine Familienumarmung.",
