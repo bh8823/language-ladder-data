@@ -530,49 +530,266 @@
  "b-k2yDRx6yw": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-10-27T06:04:49+00:00",
+  "checked": "2026-11-23T04:19:03+00:00",
   "title": "Learn German with Me in Klagenfurt",
   "duration": 967,
   "published": "20261021",
+  "spoken": "de",
+  "spoken_v": 2,
   "pace": 153.1,
   "rare": 0.1128,
+  "var": 0.7739,
+  "cl": null,
   "speech_s": 847.9,
   "tokens": 2163,
   "kw": [
    [
-    "wörthersee",
-    "Süden, Sonne, Wörthersee. Voll schön. Hallo, grüß dich und habe",
-    13
+    "wirklich",
+    "Keutschacher Seental ist wirklich sehenswert, das sind eben vier Seen, die",
+    224,
+    231,
+    5.75,
+    10
+   ],
+   [
+    "natürlich",
+    "Ja, wir haben natürlich den Pyramidenkogel, natürlich muss ich muss",
+    219,
+    225,
+    5.62,
+    9
+   ],
+   [
+    "gibt's",
+    "noch nicht reicht, gibt's auch noch auf",
+    379,
+    384,
+    4.93,
+    9
+   ],
+   [
+    "sagen",
+    "Ich würd sagen Kommode, oder? Auf jeden Fall.",
+    9,
+    12,
+    5.68,
+    7
+   ],
+   [
+    "zucker",
+    "mindestens Zimt und Zucker, noch besser",
+    474,
+    481,
+    4.43,
+    5
+   ],
+   [
+    "altstadt",
+    "Abstecher in die Altstadt machen, die",
+    66,
+    70,
+    4.25,
+    5
+   ],
+   [
+    "richard",
+    "auf jeden Fall eben das Richard, das",
+    414,
+    419,
+    4.59,
+    4
+   ],
+   [
+    "üben",
+    "üben, aber wenn ihr Deutsch sprechen",
+    363,
+    367,
+    4.34,
+    4
    ],
    [
     "klagenfurt",
     "Klagenfurt ist Traum.",
-    0
+    0,
+    3,
+    3.82,
+    19
    ],
    [
-    "lindwurm",
-    "Wahrzeichen der Stadt, dem Lindwurm im",
-    45
+    "ähm",
+    "ist ähm Klagenfurt die sechstgrößte Landeshauptstadt von den neun in",
+    32,
+    38,
+    4.12,
+    6
    ],
    [
-    "topfen",
-    "gewordener Topfen. Ah, wirklich?",
-    542
+    "kärnten",
+    "Landeshauptstadt von Kärnten und Kärnten ist das südlichste Bundesland von",
+    23,
+    30,
+    4.04,
+    5
    ],
    [
-    "lei",
-    "Vielleicht sagt man LEI. Und nicht",
-    749
+    "kärntner",
+    "Sitz der Kärntner Landesregierung, weil Österreich hat ja wieder neun",
+    155,
+    161,
+    3.6,
+    5
+   ],
+   [
+    "mhm",
+    "Mhm. Boah, schaut geil aus.",
+    522,
+    531,
+    3.53,
+    4
+   ],
+   [
+    "gell",
+    "Mit leichtem Alkohol glaube ich, gell?",
+    587,
+    592,
+    3.42,
+    4
    ],
    [
     "zimt",
     "mindestens Zimt und Zucker, noch besser",
-    474
+    474,
+    481,
+    3.35,
+    4
+   ],
+   [
+    "lei",
+    "Vielleicht sagt man LEI. Und nicht",
+    749,
+    753,
+    3.27,
+    4
+   ],
+   [
+    "wörthersee",
+    "Süden, Sonne, Wörthersee. Voll schön. Hallo, grüß dich und habe",
+    13,
+    19,
+    2.98,
+    16
+   ],
+   [
+    "strandbad",
+    "Strandbad. Süden, Sonne, Wörthersee.",
+    12,
+    17,
+    2.94,
+    3
+   ],
+   [
+    "topfen",
+    "gewordener Topfen. Ah, wirklich?",
+    542,
+    547,
+    2.51,
+    3
+   ],
+   [
+    "lindwurm",
+    "Wahrzeichen der Stadt, dem Lindwurm im",
+    45,
+    52,
+    2.4,
+    3
    ]
   ],
+  "kx": [
+   [
+    "bisschen",
+    "Topfen. Der wird so bisschen flüssig,",
+    546,
+    551,
+    5.23,
+    7
+   ],
+   [
+    "unbedingt",
+    "rausfinden, was man da unbedingt gemacht",
+    37,
+    42,
+    4.98,
+    7
+   ],
+   [
+    "geil",
+    "Boah, schaut geil aus. Mhm.",
+    526,
+    531,
+    4.69,
+    3
+   ],
+   [
+    "schaut",
+    "interessiert, dann schaut es einfach einmal auf",
+    398,
+    404,
+    4.67,
+    3
+   ],
+   [
+    "drinnen",
+    "drinnen Alter Platz, Neuer Platz. Wie viele österreichische Innenstädte",
+    107,
+    113,
+    4.13,
+    4
+   ],
+   [
+    "dialekt",
+    "gegessen haben muss, wie der Dialekt ist",
+    41,
+    46,
+    3.89,
+    4
+   ],
+   [
+    "tourist",
+    "Du, wenn man als Tourist nach Klagenfurt",
+    61,
+    64,
+    3.59,
+    2
+   ],
+   [
+    "hefe",
+    "Germ ist Hefe sozusagen. Entschuldigung, ja, Hefe mit Zucker und",
+    505,
+    510,
+    3.44,
+    2
+   ],
+   [
+    "gewordener",
+    "gewordener Topfen. Ah, wirklich?",
+    542,
+    547,
+    2.83,
+    2
+   ],
+   [
+    "kas",
+    "Ein Glundner Kas. Ein Glundner Kas, was ist das?",
+    537,
+    542,
+    2.81,
+    2
+   ]
+  ],
+  "tx": "Klagenfurt ist Traum. Einfach schön. Altmodisch. Wundervoll. Ah, gute Buschenschank. Aussterben. Ich würd sagen Kommode, oder? Auf jeden Fall. Ja. Strandbad. Süden, Sonne, Wörthersee. Voll schön. Hallo, grüß dich und habe die Ehre zu einer neuen Easy German Ausgabe aus Österreich. Heute aus Klagenfurt. Klagenfurt ist die Landeshauptstadt von Kärnten und Kärnten ist das südlichste Bundesland von Österreich und grenzt an Italien und Slowenien. Mit 103.000 Einwohnerinnen ist ähm Klagenfurt die sechstgrößte Landeshauptstadt von den neun in Österreich und heute wollen wir rausfinden, was man da … alten Renaissance-Innenhöfe. Also unbedingt den Lindwurm, den Wörthersee, dann ähm das Wörtherseemännchen. Ja, die Altstadt, sagen wir mal so, drinnen Alter Platz, Neuer Platz. Wie viele österreichische Innenstädte hat auch Klagenfurt eine wunderschöne Altstadt und die schauen wir uns jetzt an und der Start ist beim Rathaus. Und außerdem gibt nur eine Statue von Kaiserin Maria Theresia, die in Österreich das Schulsystem reformiert hat, die Fußgängerzunge in der Kramergasse, das Wörtherseemandel und der Sage nach entsteht genau wegen diesem Mandel der Wörthersee und es bringt Glück, … man sich unbedingt angeschaut haben? Ähm, ich würd sagen den See. Der See so schön, kann man nicht vergleichen. Hm, den Wörthersee. Also definitiv den Wörthersee und da Wunderboot fahren geht immer. Ja. Sehr gut. Ja, wir haben natürlich den Pyramidenkogel, natürlich muss ich muss ich fast sagen. Äh, natürlich das Keutschacher Seental ist wirklich sehenswert, das sind eben vier Seen, die sind wunderschön, jeder für sich. Äh, der Wörthersee natürlich auch ganz klar, die türkise Farbe des Anzugs ist, glaube ich, legendär und über die Landesgrenzen bekannt. Den Lindwurm, bitte schön, in der … der wichtigsten Gebäude der Welt und mit dem Eintritt unterstützt man auch noch eine gute Sache. Bei mir im Hintergrund jetzt das erste, das Wiener Riesenrad, das Taj Mahal, Indien, das Sydney Opera House, Australien, Galataturm und Süleymaniye Moschee, Türkei, Brandenburger Tor, Deutschland und servus zu Kari und dem Easy German Office in Berlin. Mit unseren Videos auf YouTube am könnt ihr gratis Deutsch lernen und auch mit unserem Podcast könnt ihr das Zuhören üben, aber wenn ihr Deutsch sprechen üben wollt, können wir euch ganz herzlich unsere Easy German Conversation Membership … ganz ganz super so Outdoor-Küchen, also das wird dir auf jeden Fall gut tun essen. Was ist ein Richard? Ein Richard ist das in so Selchfleisch drinnen, ganz viele Gewürze, so Wurzelgemüse, ähm dann Gerste, also so Rollgersten halt, äh Blutstock und so richtige Sachen, die man halt äh in Kärnten am Bauernhof gehabt hat und das ist ja echt traditionelles Essen, sehr gut. Also, da fallen mir natürlich sofort mal die Kasnudeln ein oder gefüllte Nudeln in jeglicher Form, das hat Tradition bei uns oder ein guten Osterreindling und Osterjausen, das gibt's ja, glaube ich, sonst auch in keinem … Walnussstücke drinnen. Wir haben uns jetzt so eine kleine Version vom Reindling geholt und den probieren wir jetzt. Sehr gut, wieder da. Mhm. Boah, schaut geil aus. Mhm. Geil, Butter, Zimt, Zucker, voll gut. Gibt es noch irgendwas in der Region, was man unbedingt probiert haben muss? Ein Glundner Kas. Ein Glundner Kas, was ist das? Eine Käsesorte. gewordener Topfen. Ah, wirklich? Ein kontrolliert schlecht gewordener Topfen. Der wird so bisschen flüssig, genau es wird das an Bauerntopfen gemacht, ganz super, wenn er noch so bisschen Topfen drinnen hat, so weil wir wir haben in Kärnten den … Speck, ja, gell? Genau. Ist im Endeffekt wie ein Speckbrot nur als Aufstrich. Das ist wirklich sehr Geil, super. Ich bin jetzt am Benediktinermarkt da in Klagenfurt und das ist einer der kulinarischen Hotspots. Es gibt einerseits den Markt zweimal in der Woche, aber auch Gastronomie und wir haben lauter gute Kärntner Spezialitäten, wie z.B. die traditionellen Kasnudeln. Wir haben da ein Richard, das haben wir in einem Interview schon gehört, was das ist. Wir haben Fleischlaberl, die da Fleisch Reinklinge genannt werden, aber ein alter Ausdruck und am Markt Salat und ich würde sagen, … macht vor allem aus, das Ü z.B. wird zu I oder zu IA. Z.B. die Türe wird zu Tier. Okay, cool. Oder auch das CH, also das dieser Zischlaut wird eigentlich ohne irgendwie wirklich zu betonen betont zu werden eigentlich ausgesprochen. Z.B. sicherlich ist SIER. Es ist ohne ohne dass man das das CH wirklich hört, dieses äh wird ausgesprochen, ja. Es gibt z.B. dieses LEILOSSEN. Das LEILOSSEN, das heißt regt dich nicht auf. LEILOSSEN. Vergiss es. Das fällt mir spontan ein, aber es gibt sicherlich noch vieles andere. Ja. Hm, ich glaube das Kärntnerische ist ähm sehr flüssig. Also wir haben wenig … WARN ist der Wald. Und das GEISTBROCK. Lustig. Das habe ich noch nie gehört. Dann z.B. mal gerade gestern geredet mit einem Bekannten, haben wir gesagt, \"Wöllaner.\" Kennst du das, Wöllaner? Wöllaner. Welcher, welcher, das ist welcher, ja. Und da gibt's einen Berg, der heißt Wöllaner Nock. Und dann ist das so ein Scherz, da sagt man, \"Kennst du den Wöllaner Nock? Wöllaner?\" Welcher? Wenn man von Klagenfurt auf den Wörthersee auf schaut, sieht man im Hintergrund auf dem Berg schon den Pyramidenkogel. Und der Pyramidenkogel ist eigentlich eines der Ausflugsziele. Es ist die größte … zu fahren oder mit einem Tretboot. Also, auf jeden Fall Burg Landskron. Also, da gibt's echt wirklich sehr gute Weine oben und das kennt fast keiner noch. Wo wo ist das ca. oder? Richtung St. Veit auf. Ja. Das war unsere Episode aus Klagenfurt. Wir sehen das wieder sehr spezielles Ende. Haben wir irgendwelche Geheimtipps vergessen von der Wörthersee Region, dann schreibt das uns in die Kommentare, wie immer lese ich es genau durch. Und ja, diese Episode gibt es ähnlich aus alle Bundesländer und Landeshauptstädte. Wir freuen uns, wenn wir uns wieder sehen und die Flieger zahlen. Bitte schön.",
+  "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "kw_tried": 1
+  "src": "auto"
  },
  "6gr5wvJpxCU": {
   "channel": "Easy German",
@@ -2470,7 +2687,7 @@
  "8ax4Vlwk388": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-10T04:25:24+00:00",
+  "checked": "2026-11-23T04:26:50+00:00",
   "title": "So bleibt Wortschatz im Kopf - [Lektion aus meiner Verbchallenge 2019] Deutsch B1 B2 C1 C2",
   "duration": 625,
   "published": "20261008",
@@ -2479,6 +2696,7 @@
   "pace": 131.1,
   "rare": 0.0425,
   "var": 0.7714,
+  "cl": null,
   "speech_s": 624.8,
   "tokens": 1365,
   "kw": [
@@ -2617,6 +2835,112 @@
     609,
     2.37,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "habt",
+    "zwischen B1 und B2, dann habt ihr",
+    81,
+    87,
+    5.09,
+    8
+   ],
+   [
+    "okay",
+    "ein reflexives Verb, okay? Also diese",
+    259,
+    264,
+    4.97,
+    8
+   ],
+   [
+    "verwenden",
+    "Alltag nicht unbedingt Passiv verwenden, Aber es ist ein korrekter Satz. Ihr übt",
+    230,
+    239,
+    4.63,
+    4
+   ],
+   [
+    "stufe",
+    "drei Stufen. Die erste Stufe ist, ihr",
+    354,
+    359,
+    4.44,
+    4
+   ],
+   [
+    "formuliert",
+    "nehmt einen Satz und formuliert den",
+    484,
+    489,
+    4.19,
+    3
+   ],
+   [
+    "empfehle",
+    "Was ich jetzt sehr, sehr empfehle zu",
+    165,
+    172,
+    4.06,
+    3
+   ],
+   [
+    "lest",
+    "irgendwo hört oder lest, ihr versteht es",
+    358,
+    363,
+    3.47,
+    1
+   ],
+   [
+    "konstruieren",
+    "braucht, nicht komplett neu konstruieren müsst, sondern ihr könnt euch an",
+    143,
+    151,
+    3.45,
+    1
+   ],
+   [
+    "jonglieren",
+    "jonglieren. Okay? Also, ich wünsche euch",
+    608,
+    614,
+    2.96,
+    1
+   ],
+   [
+    "schlüsselwort",
+    "Schlüsselwort hier sind Synonyme. Ich sage immer,",
+    19,
+    28,
+    2.79,
+    1
+   ],
+   [
+    "präteritum",
+    "Präteritum? Und",
+    238,
+    245,
+    2.74,
+    1
+   ],
+   [
+    "grammatischen",
+    "verschiedenen grammatischen äh Themen spielen.",
+    205,
+    212,
+    2.59,
+    1
+   ],
+   [
+    "formeller",
+    "formeller. Vielleicht würde ich im im",
+    227,
+    233,
+    2.49,
+    1
    ]
   ],
   "tx": "Hallo meine Lieben, da bin ich wieder und heute möchte ich euch eine Universalaufgabe vorstellen, wie ihr eigentlich mit beliebigem Wortschatz arbeiten könnt, aber da wir uns in diesem Kurs mit Verben beschäftigen, zeige ich euch ein paar Beispiele, wie ich mit Verben arbeiten würde. Das Schlüsselwort hier sind Synonyme. Ich sage immer, auf Niveau B2 solltet ihr in der Lage sein, jeden Satz mindestens einmal mit anderen Worten zu sagen. Auf Niveau C1 solltet ihr zwei oder drei Möglichkeiten im Kopf haben und wenn ihr z.B. auf Niveau B1 seid, ist es überhaupt nicht schädlich, es ist sehr … Neues, man wiederholt, dann kommt man in B2 und merkt, oha, hier gibt es schon einiges mehr zu wissen und zu lernen und wenn man die Inhalte aus B1 noch nicht, also noch nicht mehr hundertprozentig präsent hat, vielleicht gab es eine Pause zwischen B1 und B2, dann habt ihr Schwierigkeiten und dann, wenn ihr in den C1 Kurs kommt oder wenn ihr euch mit C1 Inhalten beschäftigt, dann merkt ihr, der Wortschatz ist nicht nur doppelt so groß wie B2, er ist, ich kann es auch nur schätzen, aber er könnte locker zehnmal so groß sein, vielleicht zwanzigmal so groß. So, der Unterschied zwischen B1 … äh ich schlage euch jetzt eine Sache vor, was ihr machen könnt. Also, erstens könnt ihr natürlich einfach eine Liste nehmen, z.B. verschiedene Sätze mit lassen und dann lernt ihr Sätze. Also, ihr müsst für jede Verwendung von lassen einen guten Satz wissen, damit ihr ihn lernt, damit ihr den Satz, wenn ihr mal einen braucht, nicht komplett neu konstruieren müsst, sondern ihr könnt euch an fertigen Beispielen orientieren, die ihr schon im Kopf habt. Z.B. Ich habe gestern meine Haare schneiden lassen. schneiden lassen. So. Was ich jetzt sehr, sehr empfehle zu tun. Erstens, lernt diesen Satz … \" Das ist jetzt ein relativ einfacher Satz, aber er trägt dieselbe Bedeutung und das ist ganz wichtig, dass wir in der Lage sind, jeden Satz mindestens einmal umzuformulieren. Z.B. könnt ihr auch mit verschiedenen grammatischen äh Themen spielen. Ähm meine Haare wurden gestern geschnitten, z.B. So, also. Ähm meine Haare wurden gestern geschnitten. Das ist derselbe Inhalt, äh vielleicht ist das ein bisschen formeller. Vielleicht würde ich im im Alltag nicht unbedingt Passiv verwenden, Aber es ist ein korrekter Satz. Ihr übt gleichzeitig passiv, was ist das Präteritum? Und ja. Genau. Das heißt, … Also diese Übung kann man wirklich mit jeder Gruppe von Verben machen. Nehmen wir mal das Verb sich beschäftigen. Meine Tochter kann sich nicht selbst beschäftigen und langweilt sich, z.B. Ja? Sich sich selbst beschäftigen bedeutet etwas tun, also nicht dass sie z.B. alleine spielen kann oder alleine ein Buch lesen oder irgendwas machen, dass sie nicht alle 3 Minuten kommt und und sagt, \"Mama, spiel mit mir.\" Das bedeutet, sie kann sich selbst beschäftigen. So. Und sie langweilt sich. Wie könnte man das anders formulieren? Meine Tochter hat keine Ahnung, was sie tun könnte und langweilt … Das heißt, ihr könnt natürlich, wenn ihr sagt, \"Hm, dieses sich beschäftigen, ich kann das noch, also ich würde es noch nicht sicher benutzen können. Es gibt immer zwei Stufen. Die eine ist drei Stufen. Die erste Stufe ist, ihr kennt das Wort nicht, wenn ihr es irgendwo hört oder lest, ihr versteht es nicht. Die zweite Stufe ist, wenn ihr es hört, z.B. in meinem Video, sagt ihr, ah, okay, das kenne ich, das habe ich schon mal gehört. Die dritte Stufe ist, ihr könnt dieses Wort oder diesen Ausdruck sicher verwenden. Diese Stufe ist unser Ziel. So, das bedeutet, ihr überlegt einfach, ihr … Er wurde entlassen. Äh Jürgen hat gestern seinen Job verloren. Okay? Also nicht okay für Jürgen, aber für uns ist das okay. Äh, seit gestern hat Jürgen keinen Job mehr. Hm. So, aber ihr seht, wir spielen mit denselben Inhalten, wir ändern einfach nur die Formulierung. Und ich weiß, am Anfang ist das schwierig, aber bitte, wenn ihr neue Wörter lernt, wenn ihr neue Verben lernt, nehmt die raus, die ihr nicht aktiv verwenden würdet. Also, ganz wichtig, noch mal, wenn ihr eine Liste von Verben vor euch habt und ihr wollt sie lernen, dann lernt ihr bitte nicht nur die, die ihr z.B. nicht … wenn ihr das habt, dann habt ihr auch keine Schwierigkeiten, verschiedene Synonyme zu verwenden. Diese Übung empfehle ich euch wirklich sehr. Nehmt einfach die Aufgaben der früheren Lektionen aus diesem Kurs und spielt damit ein bisschen rum. Also, nehmt einen Satz und formuliert den anders, formuliert den mit Passiv, formuliert den mit Konjunktiv zwei. Seid ein bisschen kreativ. Äh, wir können jetzt sagen, ähm, Jürgens Frau hat heute die Scheidung eingereicht. Und ähm, er hat keine Arbeit mehr. Z.B. Also, das das ist einfach ein bisschen kreativ Sachen dazudenken. Z.B. Da geht es darum, … deswegen, äh, sobald er den Job verloren hat, hat sie die Scheidung eingereicht. So, so ist die traurige Realität manchmal. Probiert es mal aus. Schreibt so viele Sätze, wie ihr Geduld habt, aber nehmt nicht sehr viele, vielleicht einen Satz und dann drei, vier, fünf verschiedene Variationen davon. Ihr könnt euch gerne mit anderen Kursteilnehmern austauschen, das ist auf jeden Fall eine super Sache. Und ja, das empfehle ich euch auf jeden Fall zu tun. Schickt es an uns zur Korrektur oder schreibt es in die Facebook-Gruppe. Äh, längere Texte schickt zu zu uns, schickt an uns, damit wir sie … Wenn ihr nämlich diese Wörter benutzen wollt, dann müssen sie auf der Spitze von eurer Zunge liegen. Die müssen wirklich so nah sein, dass wenn ihr ein Wort braucht, dann kommt es, zack, und ihr habt das richtige Wort. Und das geht nur mit Üben. Das geht mit Umformulieren, Umformulieren, Umformulieren, bis ihr das Gefühl habt, ihr könnt mit den neuen Wörtern wirklich jonglieren. Okay? Also, ich wünsche euch viel Spaß damit und ein schönes Wochenende. Und ich bin schon eigentlich mit einem Fuß aus der Tür. Ich fahre heute nach Salzburg. So, also, wir sehen uns im nächsten Video. Ciao, ciao.",
@@ -3075,7 +3399,7 @@
  "efVfbKQFs0Q": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-10T04:23:59+00:00",
+  "checked": "2026-11-23T04:24:04+00:00",
   "title": "Die E-Laute im Deutschen: langes E [eː] vs. Schwa-Laut [ə] | Aussprache verbessern",
   "duration": 494,
   "published": "20250604",
@@ -3084,6 +3408,7 @@
   "pace": 113.0,
   "rare": 0.1222,
   "var": 0.7981,
+  "cl": null,
   "speech_s": 477.9,
   "tokens": 900,
   "kw": [
@@ -3232,6 +3557,104 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "eigentlich",
+    "E und was bedeutet gespannt eigentlich",
+    22,
+    29,
+    5.58,
+    4
+   ],
+   [
+    "wollte",
+    "ich kann die dann noch kaufen ich wollte",
+    198,
+    204,
+    5.5,
+    4
+   ],
+   [
+    "klang",
+    "Muttersprache deren gesamten Klang deren gesamten Klang Charakter deren gesamte",
+    357,
+    365,
+    4.32,
+    3
+   ],
+   [
+    "gesprochen",
+    "Umlaut wenn er lang gesprochen werden",
+    132,
+    138,
+    4.74,
+    2
+   ],
+   [
+    "bogen",
+    "ist sie ein bisschen nach oben Bogen",
+    387,
+    395,
+    4.19,
+    1
+   ],
+   [
+    "zweitens",
+    "gibt zweitens dieser Vokal kommt nur in",
+    272,
+    281,
+    4.19,
+    1
+   ],
+   [
+    "hebt",
+    "der vordere Teil des Zungenrückens hebt",
+    25,
+    31,
+    4.14,
+    1
+   ],
+   [
+    "gebt",
+    "wenn ihr das Video nützlich findet gebt",
+    210,
+    214,
+    4.13,
+    1
+   ],
+   [
+    "drittens",
+    "unbetonter Position vor drittens es handelt sich um einen schwachtonigen",
+    276,
+    285,
+    3.59,
+    1
+   ],
+   [
+    "überleg",
+    "wenn wir sprechen und kurz überleg",
+    327,
+    333,
+    3.55,
+    1
+   ],
+   [
+    "gespannte",
+    "lernt ihr das gespannte e und das echwar",
+    12,
+    23,
+    2.86,
+    2
+   ],
+   [
+    "muttersprachler",
+    "Muttersprachler des deutschen sagen okay okay e mit dem gespannten e und in mer",
+    232,
+    242,
+    2.82,
+    2
+   ]
+  ],
   "tx": "bet ä dieser Vokal ist kurz und er ist ungespannt bet e dieser Vokal ist lang und er ist gespannt in diesem Aussprachetraining lernt ihr das gespannte e und das echwar E und was bedeutet gespannt eigentlich der vordere Teil des Zungenrückens hebt sich weit hoch zum vorderen muss also relativ stark beansprucht werden die Zungenspitze liegt hinter den unteren schneidezehnen gespannter eokal e ungespannter evokal gespannter e-vokal e die Zunge ist nah am gaum der Unterkiefer ist nicht abgesenkt ungespannter e-vokal e die Zunge hängt locker im Mund der Unterkiefer ist abgesenkt beim gespannten e ist die Zunge nur ein klein wenig weiter vom Gaumen entfernt als beim gespannten i so kommen wir vom i zum e I e I e an meiner lippenposition sieht man keinen Unterschied nur die Zunge geht ich weiß nicht vielleicht 3 mm weiter runter wenn wir vom i zum e gehen Minimalpaare sind lieben leben ich liebe dich ich lebe in Brünn der See sie siehst du den See siehst du den See viel feh er macht viele Fehler viele Fehler er macht viele Fehler lange Vokale sind im deutschen tendenziell gespannter als kurze Vokale und das hat zur Folge dass der eigentlich ungespannt gesprochene a Umlaut wenn er lang gesprochen werden muss auch gespannt wird nehmen wir mal das Wort Mädchen Mädchen hier spreche ich jetzt bewusst ein gespanntes e ich könnte auch sagen Mädchen mit dem ungespannten laut das ist also die Aussprache die eher der Schreibweise entspricht aber die meisten Menschen in Deutschland würden heutzutage eher Mädchen sagen ein anderes Beispiel Käse es ist heutzutage viel üblicher statt Käse wenn wir allerdings buchstabieren dann müssen wir unbedingt den Unterschied beachten zwischen diesem Buchstaben E und diesen Buchstaben ä es gibt im Deutschen auch ein Wort das nur aus diesem gespannten evokal besteht keine anderen laute hat e man schreibt es so eh und es bedeutet sowieso ohnehin z.B ach ist doch kein Problem dass du die Zigaretten vergessen hast ich kann die dann noch kaufen ich wollte eh noch mal los ich wollte sowieso noch mal los ich wollte ohnehin noch mal los dieses Wort ist im Satz auch in der Regel betont ich wollte noch mal los wenn ihr das Video nützlich findet gebt doch bitte einen Daumen hoch das würde mir sehr helfen und abonniert auch gerne meinen Kanal am besten mit Benachrichtigung und der gespannte e-vokal ist auch so eine Art substitutionsvokal für Fremdwörter aus dem Englischen in den a gesprochen werden würde z.B okay kann man so Englisch aussprechen aber viele Muttersprachler des deutschen sagen okay okay e mit dem gespannten e und in mer oder weniger informellen Situationen sagen wir statt nein oft auch nee z.B wenn mich jemand fragt ob ich noch Hunger habe dann kann ich sagen nee danke ich bin satt der häufigste deutsche Vokal ist der Vokal heißt echwar wird mit unter aber auch als schwallaut zentralvokal oder reduktionsvokal bezeichnet und die Besonderheiten sind erstens es ist einer der häufigsten Vokale in der deutschen Sprache und viele wissen noch nicht einmal dass es diesen Vokal überhaupt gibt zweitens dieser Vokal kommt nur in unbetonter Position vor drittens es handelt sich um einen schwachtonigen Vokal das heißt der ist noch kürzer als eigentlich ein kurzer Vokal viertens der Vokal wird oft weggelassen man spricht dann von der eschwar Tilgung oder eschw ellision und fünftens man kann den eschwa sozusagen als den Standard der deutschen Sprache betrachten was meine ich damit jede Sprache hat so einen Vokal den man so standardmäßig benutzt das ist dann so also der gesamte Sprechapparat nimmt sozusagen die Standardposition ein für diese Sprache im Deutschen ist das der eh schwar und wir benutzen den bzw man kann das ganz einfach rausfinden welcher Vokal eigentlich der standardvokal in der eigenen Muttersprache ist indem man einfach mal überlegt oder zögert also wenn wir sprechen und kurz überleg müssen kurz zögern im deutschen wir Muttersprachler des Deutschen in Deutschland wir machen dann und das ist genau das EW und das ist deshalb so relevant weil dieser sogenannte standardvokal im Prinzip die gesamte Klangfarbe des deutschen ausmacht bzw wenn ihr mal rausfindet welcher Vokal der standardvokal in eurer Muttersprache ist dann macht ja eben dort in eurer Muttersprache deren gesamten Klang deren gesamten Klang Charakter deren gesamte Klangfarbe aus deren gesamten Klang Charakter deren gesamte Klangfarbe aus beim echwar ist der gesamte Sprechapparat entspannt die Lippen sind nicht beteiligt die Zunge ist locker im Mund die Zungenspitze ist hinter den unteren schneidezehn kann aber auch ganz leicht zurückgezogen sein in der Mitte ist sie ein bisschen nach oben Bogen Summe Summe hier ist gut erkennbar dass die Lippen bei der Aussprache des eschwar nicht beteiligt und somit entspannt sind der Mund ist ganz leicht geöffnet im deutschen kommt der e-chwaraut nur in unbetonter Position vor typischerweise z.B in den Präfixen b und G also im Partizip zwei beispielsweise gemacht oder bei eben Verben mit diesem Präfix B beschreiben beispielsweise typisch ist es auch für Endung ich hatte ich mache ich warte und so weiter lasst uns noch mit ein paar beispielwörtern Üben der Mädchenname Anne Anne Gefühle g fühl Gefühle ich warte ich warte eine gute Frage eine gute Frage eine gute Frage für umfangreiche Materialien zur deutschen Aussprache und Prosodie sowie gezieltes Training besucht doch ger meine onlineakademie unter deutschmitbenjamin.com oder klickt auf den Link unter dem Video",
   "gist": "w",
   "status": "ok",
@@ -3240,7 +3663,7 @@
  "yvVxztTyxns": {
   "channel": "Nicos Weg (DW)",
   "lang": "de",
-  "checked": "2026-11-10T02:12:15+00:00",
+  "checked": "2026-11-23T04:11:29+00:00",
   "title": "Hotellerie 1/7 | Einstieg | Deutsch im Job | B1 | DW Deutsch lernen",
   "duration": 154,
   "published": "20261030",
@@ -3249,6 +3672,7 @@
   "pace": 144.4,
   "rare": 0.1185,
   "var": 0.8339,
+  "cl": null,
   "speech_s": 136.7,
   "tokens": 329,
   "kw": [
@@ -3339,6 +3763,160 @@
     55,
     2.02,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "wollte",
+    "Ich wollte schon immer Hotelfachfrau werden. Ich wollte immer in der",
+    75,
+    81,
+    5.5,
+    2
+   ],
+   [
+    "haus",
+    "Gegensatz zu einem großen Haus sind die",
+    32,
+    39,
+    5.41,
+    2
+   ],
+   [
+    "kontrolle",
+    "mit Planung, Organisation und Kontrolle zu tun. Wenn man im Hotellerie arbeitet,",
+    101,
+    115,
+    4.79,
+    1
+   ],
+   [
+    "entschieden",
+    "für den Hotelfach entschieden und bin",
+    85,
+    90,
+    4.78,
+    1
+   ],
+   [
+    "organisation",
+    "mit Planung, Organisation und Kontrolle zu tun. Wenn man im Hotellerie arbeitet,",
+    101,
+    115,
+    4.78,
+    1
+   ],
+   [
+    "check",
+    "Check-in Automat, das ist nicht unser",
+    141,
+    146,
+    4.16,
+    1
+   ],
+   [
+    "fleissig",
+    "",
+    0,
+    0,
+    4.13,
+    1
+   ],
+   [
+    "individuell",
+    "sehr individuell um jeden kümmern. Im",
+    30,
+    35,
+    4.05,
+    1
+   ],
+   [
+    "persönlichkeiten",
+    "Azubis hier halt ja Persönlichkeiten und",
+    34,
+    41,
+    4.02,
+    1
+   ],
+   [
+    "ruth",
+    "Mein Name ist Ruth Winter wer von den",
+    124,
+    130,
+    3.93,
+    1
+   ],
+   [
+    "cocktails",
+    "man auch irgendwie Cocktails lernen oder",
+    60,
+    67,
+    3.52,
+    1
+   ],
+   [
+    "auszubildenden",
+    "Betreuung von unseren Auszubildenden. Also, man kann sich da natürlich auch",
+    27,
+    33,
+    3.41,
+    1
+   ],
+   [
+    "kollegium",
+    "im Kollegium Leoninum. Für uns ist sehr",
+    129,
+    134,
+    3.36,
+    1
+   ],
+   [
+    "reservierung",
+    "Die Reservierung im Hotel Collegium Leoninum, Sie sprechen mit Jasmina",
+    68,
+    74,
+    3.36,
+    1
+   ],
+   [
+    "automat",
+    "Check-in Automat, das ist nicht unser",
+    141,
+    146,
+    3.32,
+    1
+   ],
+   [
+    "lehrjahr",
+    "zweiten Lehrjahr. Ich mache eine Ausbildung zur Hotelfachfrau hier im",
+    41,
+    48,
+    2.95,
+    1
+   ],
+   [
+    "tourismusbranche",
+    "Tourismusbranche arbeiten und ich hatte damals die Wahl zwischen Reisebüro oder",
+    78,
+    86,
+    2.7,
+    1
+   ],
+   [
+    "elsen",
+    "Elsen, ich bin Hoteldirektorin im Kollegium Leoninum. Für uns ist sehr",
+    126,
+    134,
+    2.42,
+    1
+   ],
+   [
+    "ausbildungsleiter",
+    "hier Service- und Ausbildungsleiter im Hotel Collegium Leoninum und für alles,",
+    15,
+    22,
+    2.41,
+    1
    ]
   ],
   "tx": "Markus Taschinger mein Name, ich bin hier Service- und Ausbildungsleiter im Hotel Collegium Leoninum und für alles, was mit Ausbildung zu tun hat von A bis Z verantwortlich. Wir sind ja ein relativ kleiner Betrieb und das heißt, wir haben eine sehr engmaschige Betreuung von unseren Auszubildenden. Also, man kann sich da natürlich auch sehr individuell um jeden kümmern. Im Gegensatz zu einem großen Haus sind die Azubis hier halt ja Persönlichkeiten und keine Personalnummern. Mein Name ist Habibe Rücher, ich bin im zweiten Lehrjahr. Ich mache eine Ausbildung zur Hotelfachfrau hier im Hotel Collegium Leoninum. Hier lernt man halt vieles fürs Leben. Von jeder Abteilung gab es im Housekeeping ist so Zimmerreinigung oder so oder halt in der Küche so oder halt auch im Service mit den verschiedenen Menschen. Da kann man auch irgendwie Cocktails lernen oder die Gläser und ich finde schon, dass man vieles fürs Leben lernt. Die Reservierung im Hotel Collegium Leoninum, Sie sprechen mit Jasmina Akinci, guten Tag. Ich bin hier im Haus stellvertretende Reservierungsleitung. Ich wollte schon immer Hotelfachfrau werden. Ich wollte immer in der Tourismusbranche arbeiten und ich hatte damals die Wahl zwischen Reisebüro oder Hotelfach und dafür dann habe ich mich für den Hotelfach entschieden und bin auch immer noch sehr glücklich in meinem Job. Mein Name ist Reise, ich bin stellvertretender Hausdame im Collegium Leoninum Bonn. Ich arbeite in Deutschland seit fünf Jahre. Housekeeping, das ist mit Planung, Organisation und Kontrolle zu tun. Wenn man im Hotellerie arbeitet, ist man fleißig, flexibel, diszipliniert und ordentlich und dann muss man auch früh morgen aufstehen und dann immer mit die Wochenende flexibel zu sein. Mein Name ist Ruth Winter wer von den Elsen, ich bin Hoteldirektorin im Kollegium Leoninum. Für uns ist sehr sehr wichtig, dass wir mit dem Gast im direkten Kontakt sind und dass wir ihn wirklich auch beraten und Gastgebertum auch leben. Bei uns gibt es keinen Check-in Automat, das ist nicht unser Verständnis von Dienstleistung und Gastgebertum.",
@@ -6846,7 +7424,7 @@
  "OttSEVvzdR8": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-10T02:39:52+00:00",
+  "checked": "2026-11-23T04:50:55+00:00",
   "title": "Mia hat ihre TAGE in der Schule!",
   "duration": 620,
   "published": "20261026",
@@ -6855,6 +7433,7 @@
   "pace": 179.9,
   "rare": 0.0384,
   "var": 0.813,
+  "cl": null,
   "speech_s": 555.3,
   "tokens": 1665,
   "kw": [
@@ -7017,6 +7596,88 @@
     538,
     2.91,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "frau",
+    "Ich liebe diese Frau! So, ihr holt jetzt alle ein Blatt raus und rechnet diese Aufgabe!",
+    72,
+    78,
+    5.66,
+    10
+   ],
+   [
+    "deine",
+    "So, Fatima! Wenn du noch einmal störst, rufe ich deine Eltern an!",
+    21,
+    26,
+    5.56,
+    9
+   ],
+   [
+    "bus",
+    "Und wie soll ich so mit dem Bus fahren?",
+    320,
+    323,
+    4.72,
+    4
+   ],
+   [
+    "mama",
+    "Ruft meine Mama an! Da ist doch auch Blut auf dem Boden!",
+    293,
+    297,
+    4.68,
+    4
+   ],
+   [
+    "niklas",
+    "Du hast Recht, Niklas! Das ist sehr interessant!",
+    296,
+    300,
+    3.85,
+    5
+   ],
+   [
+    "hole",
+    "Ja, und wenn Sie das vorlesen, hole ich meinen Vater!",
+    120,
+    123,
+    3.97,
+    3
+   ],
+   [
+    "blute",
+    "Warum blute ich dann immer da unten?",
+    361,
+    363,
+    3.09,
+    2
+   ],
+   [
+    "schulhof",
+    "Sollen wir gleich auf dem Schulhof Squishies tauschen, Emre?",
+    471,
+    475,
+    3.46,
+    1
+   ],
+   [
+    "emre",
+    "Wir sollten Mia nicht noch mehr verwirren, Emre!",
+    216,
+    220,
+    2.85,
+    2
+   ],
+   [
+    "stör",
+    "Dann stör meinen Unterricht nicht mehr!",
+    481,
+    483,
+    2.9,
+    1
    ]
   ],
   "tx": "Mia! Was ist? Du hast.. Hört sofort auf zu reden! Aber ich muss Mia etwas sagen! Nein, du musst die Klappe halten! Es ist aber sehr wichtig! Okay, du hast 10 Sekunden! Wir wollen alle wissen, was du Mia sagen willst, Fatima! Ich bin auch neugierig! Was ist denn, Fatima? Äh.. Niemand darf wissen, dass Mia ihre Tage hat! So, Fatima! Wenn du noch einmal störst, rufe ich deine Eltern an! Nein, ich bin leise! Du verhältst dich komisch, Fatima! Ich muss Mia irgendwie leise sagen, dass sie ihre Tage hat! So, ich schreibe jetzt eine Aufgabe an die Tafel! Guck mal zu mir, Mia! Was ist X? Uh, ich weiß … muss Mia irgendwie warnen, bevor es jemand sieht! Was ist jetzt X? Ich mag Deutschunterricht! Das ist Mathe! Ich liebe diese Frau! So, ihr holt jetzt alle ein Blatt raus und rechnet diese Aufgabe! Ein Blatt? Das ist meine Chance! Ihr habt noch 1 Minute! Mia muss diesen Zettel bekommen! Ich liebe dieses Ding! Noch 10 Sekunden! MEIN AUGE! Wer hat den Papierflieger geworfen? 10/10 Wurf! Du warst das also, Mia! Nein, dieses Mal nicht! Na gut! Dann lesen wir mal den Zettel! Nein, das dürfen Sie nicht! Ich bin der Lehrer und darf alles! Nein, es gibt Datenschutz! Okay, wir stimmen ab! Wer will, … du, dass ich dich verprügel? Nein, Bruder! Dann darfst du keine Menschen mehr anrülpsen! Ja, Osman abi! Was ist jetzt mit dem Zettel? Äh, nein! Osman abi tötet mich! Mich wollte Osman auch mal töten! Schade! Okay, nur du darfst den Zettel lesen, Mia! Danke, beste Freundin! Ich will doch einfach nur Unterricht machen! Aber du liest den Zettel später! Hallo, Papa? Lies jetzt, Mia! Jetzt erfährt es Mia! Jetzt lies schon, Mia! Dann können wir weitermachen! Oh Gott! Die Jungs dürfen mich so nicht sehen! So, wer kommt nach vorne und rechnet die Aufgabe an der Tafel? Komm nach vorne, Mia! Was? … Fatima! Ähm, X ist.. Mia hat ihre Tage! Maria hat es auch bemerkt! Jetzt mach schon, Mia! Fertig! Äh, warum ist da ein M? Ich habe jetzt gelernt, dass es Buchstaben in Mathe gibt! Danke, dass Sie so ein guter Lehrer sind, Herr Schmidt! Gut gemacht, Mia! Aber X ist 3! Wir sollten Mia nicht noch mehr verwirren, Emre! Bitte verdiene genug Geld alleine, wenn ihr verheiratet seid! Warum? Ich habe Angst, dass Mia obdachlos wird! Öh, okay! Ich bin auch echt stolz auf mich! Bekomme ich eine 1 auf dem Zeugnis? Kann es nicht endlich klingeln? Hä? Was ist das denn? Ah, das ist Fatimas Zettel! Oh nein! … gerade! Ich nehme jetzt mein Spielzeug und gehe! Wo ist mein Spielzeug? Hinter ihnen! Da bist du ja, mein Süßer! Was ist? Äh, nichts! Komm, wir gehen zur Schulleitung und kündigen! Warum lachst du, Lukas? Sie haben rote Kreide auf Ihrem Popo! Rote Kreide? Oh nein! Hm.. Das ist keine Kreide! Das ist Blut! Oh, kommt das aus Ihrem Popo? Ich weiß es nicht! Ruft meine Mama an! Da ist doch auch Blut auf dem Boden! Du hast Recht, Niklas! Das ist sehr interessant! Gibt es hier noch mehr Blut? Können wir bitte in die Pause gehen? Nein, ich mache gerade Unterricht! Hier ist noch mehr Blut! … blutet doch und dann braucht man ein Pflaster! Mia hat ihre Tage, Sie Idiot! Heute ist Montag, Fatima! Nein, Mia hat die Periode! Ich hole Frau Sommer! Wo bist du, Matilda? Tut die Periode weh, Mia? Ja, etwas! Das ist so peinlich gerade! Also meine Mama hatte noch nie Tage! Hä? Jede Frau bekommt das! Echt? Ich habe das noch nicht! Also ich habe meine Tage seit 2 Jahren! Jungs bekommen keine Tage, Niklas! Warum blute ich dann immer da unten? Äh, keine Ahnung! Kann uns denn niemand diese Periode erklären? Matilda ist bestimmt in ihrer Klasse! Ihr seid so tolle Schüler! Was willst du, Marcel … weg bist? Ach nein, die lesen ihre Bücher! Das ist doch krank! Los, wir müssen schnell in deine Klasse! Du hast keine Tage, Niklas! Doch, habe ich! Ich bin so verwirrt! Warum muss ich diese Tage haben? Es hört nicht auf, zu bluten! Weißt du, was ich machen kann, Maria? Nein, ich habe meine Tage auch noch nicht! Ich hasse das! Ist das normal in deiner Klasse? Ja, aber ich kann sie sofort leise machen! Seid sofort leise, ihr schrecklichen Schüler! Das scheint ja nicht zu funktionieren! Ich hasse meinen Job! Ihr seid jetzt sofort leise! Wie hast du das gemacht? Ich bin eine gute Lehrerin! … Aber warum blute ich dann manchmal da unten? Keine Ahnung! Du solltest dringend zum Arzt gehen! Warum muss ich diese Periode haben, Frau Sommer? Das ist eine gute Frage, Mia! Das liegt daran, dass.. Sollen wir gleich auf dem Schulhof Squishies tauschen, Emre? Öh.. Halt deine Klappe oder ich rufe deine Eltern an, Marcel! Nein, die geben mir wieder Hausarrest! Dann stör meinen Unterricht nicht mehr! Es tut mir leid, Frau Sommer! Warum bekommen Frauen denn jetzt die Periode? Eine Frau hat ihre Tage, wenn sie nicht schwanger geworden ist! Das heiß, ich bin gerade nicht schwanger? Genau, nach … Alter? Wir reden viel miteinander! Gibt es noch Fragen zur Periode? Wie hört das Bluten auf? Das ist mir peinlich! Das muss dir nicht peinlich sein! Ich will aber nicht, dass überall Blut ist! Kein Problem! Weiß jemand, was man da benutzen kann? Ein Pflaster? Ein Taschentuch? Einen Squishy! Nein, ein Tampon, Leute! Dadurch fließt kein Blut mehr raus! Haben Sie so einen Tampon dabei? Nein, leider nicht! Ich habe gerade keine Tage! Aber wie soll ich denn gleich mit dem Bus fahren? Die ganzen Leute werden mich angucken! Du kannst mit mir fahren, Mia! Fährst du nicht mit dem Bus? Nein, mein … Osman abi! Hast du deine Tage, Mia? Äh, ja? So kann ich dich nicht mitnehmen! Warum nicht, Papa? Mein Auto wird voller Blut! Dann fahre ich halt mit dem Bus! Ja! Besser, Mia! Warte, Mia! Was machst du, Fatima? Du hast dein Kopftuch ausgezogen! Fatima? Mia braucht das Kopftuch gerade mehr als ich! Aber man kann deine Haare sehen! Das ist haram! Nein! Es ist haram, wenn man seiner Freundin nicht hilft! Hm, na gut! Steigt ein! Ich liebe dich, Fatima! Ich dich auch! Beste Freunde für immer, Mia! Ist Fatima meine Ehrenfrau? Schreib es in die Kommentare und like! Und klick dann auf diese Folge!",
@@ -7192,7 +7853,7 @@
  "wxXoWyQFS2w": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-10T02:55:50+00:00",
+  "checked": "2026-11-23T05:05:28+00:00",
   "title": "Miffys Handwagen | Miffy | Ganze Folge",
   "duration": 1081,
   "published": "20261018",
@@ -7201,6 +7862,7 @@
   "pace": 108.9,
   "rare": 0.0677,
   "var": 0.7952,
+  "cl": null,
   "speech_s": 984.3,
   "tokens": 1787,
   "kw": [
@@ -7347,6 +8009,104 @@
     115,
     2.06,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "komm",
+    "Komm mal her, Schlabohr Granti, das ist gemein.",
+    92,
+    101,
+    4.91,
+    8
+   ],
+   [
+    "bist",
+    "Hallo Miffi, du stampfst aber viel. Bist",
+    2,
+    8,
+    5.61,
+    7
+   ],
+   [
+    "überraschung",
+    "Überraschung für uns. Oh, wie schön. Eine Überraschung.",
+    752,
+    759,
+    4.44,
+    8
+   ],
+   [
+    "oma",
+    "Wir müssten schon fast bei Oma und Opa",
+    734,
+    738,
+    4.49,
+    6
+   ],
+   [
+    "riechen",
+    "wie gut die riechen. Tut mir leid, Miffi. Deshalb wusste ich",
+    481,
+    493,
+    3.86,
+    3
+   ],
+   [
+    "wellen",
+    "schwer. Segeln, segeln über Wellen und",
+    818,
+    827,
+    4.09,
+    2
+   ],
+   [
+    "niesen",
+    "Blumen muss ich immer niesen. Oh, wirklich? Auch nur von einer?",
+    492,
+    501,
+    3.19,
+    2
+   ],
+   [
+    "ahoi",
+    "Ahoi, Miffi, Überraschung. Ahoi Oma,",
+    1037,
+    1046,
+    3.17,
+    2
+   ],
+   [
+    "abwechseln",
+    "Super Idee. Wir können uns abwechseln.",
+    41,
+    47,
+    2.99,
+    1
+   ],
+   [
+    "schenkst",
+    "die du mir schenkst. Ich wollte immer, aber ich muss von",
+    659,
+    666,
+    2.98,
+    1
+   ],
+   [
+    "schneien",
+    "Deshalb wusste den, dass es schneien",
+    186,
+    191,
+    2.96,
+    1
+   ],
+   [
+    "riechst",
+    "mehr riechst. Bereit, Boris?",
+    524,
+    540,
+    2.95,
+    1
    ]
   ],
   "tx": "Hallo Miffi, du stampfst aber viel. Bist du wütend? Nein, ich halte mich warm. Heute ist es sehr kalt. Ah, deswegen hast du deinen Mantel an. Aber was ist mit dem Helm? Soll er dich auch warm halten? Nein, den trage ich zur Sicherheit. Ich fahre mit Grant den Abhang hinab. Entschuldige die Verspätung, Miffi. Los, gehen wir. Es ist so schwer ihn den Hügel hochzuschieben. Oh, schau mal, der Griff. Wir können ihn einfach den Hügel hochziehen. Super Idee. Wir können uns abwechseln. Du zuerst. Okay, aber du bist als nächste dran. Granti, ich bin dran. Beeil dich, Granti. Es ist eise kalt. Ich gehe … seinen echten Namen gesagt. Schon okay. So nennen mich die anderen häufig wegen meinem Ohr. Warum trägst du deinen Wagen? Jeder weiß doch, dass es einfacher ist, ihn zu ziehen. Ich kann ihn nicht ziehen. Meiner hat keine Räder. Siehst du? Schlafers Wagen ist kaputt. Grantti. Sein Name ist Dan. Okay, aber er verschwendet seine Zeit, wenn er einen kaputten Wagen trägt. Hm, vielleicht. Wir werden sehen. Aber habt ihr bemerkt, wie grau der Himmel ist? Oh ja. Was für eine witzige Farbe. Warum ist das so? Miffi, be dich. Ich muss jetzt gehen. Bis später denn. Bis bald Miffi. Es schneit. Ich … Hier liegt zu viel Schnee. Die Räder stecken fest. Oh, jetzt können wir nicht mehr runterfahren. Das verdirbt uns alles. Nun, vielleicht können wir etwas anderes spielen. Schaut mal. Oh, also ist dein Wagen überhaupt nicht kaputt? Nein, nur weil etwas anders aussieht, heißt das nicht, dass es kaputt ist. Deshalb ist es auch kein Wagen. Es ist ein Schlitten. Wow. Schau mal, wie er fährt. Juhu! Ziemlich cool, oder? Wow, dein Schlitten ist großartig. Darf ich auch mal Schlapohr? Granti, so heißt er nicht. Das habe ich dir doch gesagt. Oh, tut mir leid, ich habe nicht nachgedacht. Darf ich … Boris. Das musst du nicht machen. H Wo ist mein Poliertuch? Hallo Barbara. Hallo Miffi. Hallo Boris. Oh, hallo Barbara. Hast du nicht etwas vergessen, Boris? Woher weißt du das? Ich habe vergessen, wo ich mein Poliertuch hingelegt habe. Nein, du hast wohl vergessen, welcher Tag heute ist. M Donnerstag, Boris. Heute ist Freitag. Freitag. Heute ist mein Geburtstag. Herzlichen Glückwunsch, Barbara. Danke, Miffi. Wir wollten heute picknicken gehen, weißt du noch? Das habe ich total vergessen. Ich habe an Miffysis Fahrrad gearbeitet und alles um mich herum vergessen. Das passiert immer, wenn … Barbara auch. Lalalala. Du hättest sie wirklich nicht pflücken sollen. Mama findet es nicht schlimm, wenn sie für Barbaras Geburtstag sind. Riech mal, wie gut die riechen. Tut mir leid, Miffi. Deshalb wusste ich nicht, ob die Idee so gut ist. Von Blumen muss ich immer niesen. Oh, wirklich? Auch nur von einer? Auch nur von einer. Aber jetzt du ja gar nicht. Ich kann mir Blumen ansehen, aber wenn ich an ihnen rieche, niese ich. Das ist schade. Barbara liebt Blumen. Wir müssen uns etwas anderes ausdenken. Wenn wir doch nur Blumen finden, könnten, die nicht riechen. Oder eine Möglichkeit, wie … schon eine Idee. Ich hämmer hier, ich hämmer dort. Ich baue euch alles hier vor Ort. In meiner Werkstatt bastel ich. Manchmal klappt auch etwas nicht. Toll ist Basteln auch zu zweit. Komm schon Boris, es wird Zeit. Wow. Ich hoffe sie gefallen. Barbara, lass es uns herausfinden. Bereit? Oh, hallo Miffi. Hallo Boris. Ähm, Boris möchte dir etwas Wichtiges sagen. Es tut mir leid, dass ich deinen Geburtstag vergessen habe. Er hat ihn nur vergessen, weil er mein Fahrrad repariert hat. Boris ist der Beste. Und als Wiedergutmachung habe ich ein Geschenk für dich. Oh, Boris, wie schön. Herzlichen … Picknick? Warte, du hast doch noch was vergessen. H, mein Fahrrad. Kann ich es bitte wieder haben? Ah, danke Boris, du bist der Beste. Bis bald. Bis bald, Miffi. Bis bald. Miffi hat recht. Du bist der Beste. Guck mal, Papa, ich kann den Fluss sehen. Oh, gut entdeckt, Mii. Zum Glück habe ich eine Copilotin mit so guten Augen. Wir müssten schon fast bei Oma und Opa sein. Das stimmt. Guck mal, ob du es siehst, bevor Oh, da ist es ja. Oh. Meine Güte, du hast gute Augen. Ich kann es nicht erwarten anzukommen. Opa hat gesagt, er hat eine große Überraschung für uns. Oh, wie schön. Eine … oder? Aber sei vorsichtig, es sieht sehr alt aus. Segeln, segeln, ich segle übers Meer. Segeln, segeln, das ist ja gar nicht schwer. Segeln, segeln über Wellen und durch Wind. Segeln, segeln, wo wale zu Hause sind. So, ich frage mich, was da noch so drin ist. Oh, was ist das für ein Mantel? Der sieht aus, als könnte er einem kleinen Häschen passen. Wem der wohl gehört? Oh, dann muss hier irgendwo noch ein kleines Häschen sein. Oma, Opa, wo ist das andere kleine Häschen? Oma, ich will mit ihm spielen. Welches andere kleine Häschen, Miffi? Das mit dem schönen Spielzeugboot. Das kleine … Häschen. Das stimmt. Oder zumindest war ich das mal. Er hat ständig mit diesem Boot gespielt und es ist noch hier. Ich hatte es ganz vergessen. Komm, Miifi, zeig es mir. Oh. Oh, ich bin wirklich gewachsen. Oh, sieh dir das an. Und das. Oh, sie haben alle meine Spielsachen aufgehoben. Das Boot ist am besten. Oh ja, ich habe so viele Abenteuer mit diesem Boot erlebt. Segeln, segeln, segele mein Boot. Segeln, segeln des semns täglich Brot. Segeln, segeln über Wellen und durch Wind. Segeln, Segeln fahren wir Geschwind. Hier, Miifi, für dich. Wirklich? Danke, Papa. Gern geschehen. Opa hat es … gefällt. Segeln, Segeln. Segle bis zum segeln, segeln, das ist ja gar nicht schwer. Ich liebe dein Boot, Opa. Oh, danke, Miffi. Aber bist du jetzt bereit für deine Überraschung? Guck mal, Papa. Guck da. Ahoi, Miffi, Überraschung. Ahoi Oma, ich mag dein neues Boot sogar noch mehr als dein altes Boot. Nun, ich habe immer gesagt, dass ich ein echtes Boot will, wenn ich groß bin. Und jetzt hast du eins. Das ist fantastisch. Können wir fahren? Worauf wartest du? Setzt die Segel Segeln, Segeln in die weite Welt. Segel, segeln wir seuten gefällt. Segeln, segeln wir segeln bis zum Meer. Regen Sie.",
@@ -8569,7 +9329,7 @@
  "p0aJuplT72M": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-10T04:52:02+00:00",
+  "checked": "2026-11-23T05:01:47+00:00",
   "title": "10 Deutsche, die die Wissenschaft revolutionierten 🔬🧪🚀",
   "duration": 350,
   "published": "20250314",
@@ -8578,6 +9338,7 @@
   "pace": 75.8,
   "rare": 0.1167,
   "var": 0.8264,
+  "cl": null,
   "speech_s": 346.1,
   "tokens": 437,
   "kw": [
@@ -8732,6 +9493,96 @@
     116,
     2.41,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "deutschen",
+    "Wir beginnen mit dem vielleicht bekanntesten aller deutschen Wissenschaftler, Albert Einstein. Sein",
+    30,
+    41,
+    5.67,
+    2
+   ],
+   [
+    "deutsche",
+    "der Welt maßgeblich beeinflusst hat. Wenn du mehr über diese und andere deutsche Denker erfahren",
+    306,
+    315,
+    5.57,
+    2
+   ],
+   [
+    "medizin",
+    "die Medizin grundlegend verändert. Gottfried Wilhelm Leibniz",
+    127,
+    136,
+    4.56,
+    3
+   ],
+   [
+    "physik",
+    "Werk an der theoretischen Physik, insbesondere die Relativitätstheorie, hat unser Verständnis",
+    40,
+    51,
+    4.33,
+    3
+   ],
+   [
+    "humboldt",
+    "tiefgreifend beeinflusst. Alexander von Humboldt Alexander von Humboldt war ein wahrer Universalgelehrter, der die Geografie",
+    182,
+    197,
+    3.81,
+    2
+   ],
+   [
+    "leibniz",
+    "die Medizin grundlegend verändert. Gottfried Wilhelm Leibniz",
+    127,
+    136,
+    3.63,
+    2
+   ],
+   [
+    "röntgen",
+    "Wilhelm Röntgen Wilhelm Röntgen hat die Röntgenstrahlen",
+    232,
+    240,
+    3.41,
+    2
+   ],
+   [
+    "identifizierung",
+    "Tuberkulosebakterium entdeckt. Seine Methoden zur Isolierung und Identifizierung von Bakterien haben",
+    115,
+    128,
+    3.59,
+    1
+   ],
+   [
+    "geografie",
+    "Alexander von Humboldt war ein wahrer Universalgelehrter, der die Geografie",
+    188,
+    197,
+    2.99,
+    1
+   ],
+   [
+    "diskreten",
+    "Physik hat uns gezeigt, dass Energie in diskreten Mengen, oder Quanten, auftritt, was die Grundlage",
+    65,
+    77,
+    2.97,
+    1
+   ],
+   [
+    "bahnbrechende",
+    "entdeckt, was eine bahnbrechende Entdeckung in der Physik war. Diese Strahlen ermöglichen es uns,",
+    239,
+    250,
+    2.89,
+    1
    ]
   ],
   "tx": "Hey, Deutschlerner! Mark hier. Lerne automatisch Deutsch mit diesem Video! Heute tauchen wir in die faszinierende Welt deutscher Wissenschaftler ein, die mit ihren Entdeckungen und Erfindungen die Welt verändert haben. Bereit für eine Reise durch die Geschichte der Wissenschaft? Albert Einstein Wir beginnen mit dem vielleicht bekanntesten aller deutschen Wissenschaftler, Albert Einstein. Sein Werk an der theoretischen Physik, insbesondere die Relativitätstheorie, hat unser Verständnis des Universums revolutioniert. Max Planck Max Planck wird oft als der Vater der Quantentheorie bezeichnet. Sein Beitrag zur Physik hat uns gezeigt, dass Energie in diskreten Mengen, oder Quanten, auftritt, was die Grundlage für die moderne Quantenphysik legte. Werner Heisenberg Werner Heisenberg ist bekannt für das Heisenbergsche Unschärfeprinzip in der Quantenmechanik. Er zeigte, dass man nicht gleichzeitig sowohl den Ort als auch den Impuls eines Teilchens genau bestimmen kann. Robert Koch Robert Koch, ein Pionier der Bakteriologie, hat viele Krankheitserreger wie den Tuberkulosebakterium entdeckt. Seine Methoden zur Isolierung und Identifizierung von Bakterien haben die Medizin grundlegend verändert. Gottfried Wilhelm Leibniz Gottfried Wilhelm Leibniz war nicht nur in der Mathematik tätig, wo er unabhängig von Newton die Infinitesimalrechnung entwickelte, sondern auch in Philosophie und Logik, was ihn zu einem der vielseitigsten Geister seiner Zeit machte. Er war ein Universalgelehrter im wahrsten Sinne des Wortes. Otto Hahn Otto Hahn war einer der Entdecker der Kernspaltung. Diese Entdeckung hat nicht nur die Atomphysik, sondern auch unsere Energieversorgung und militärische Technologien tiefgreifend beeinflusst. Alexander von Humboldt Alexander von Humboldt war ein wahrer Universalgelehrter, der die Geografie und Naturwissenschaften vorantrieb. Seine Reisen und Forschungen haben das Verständnis des globalen ökologischen Systems geprägt. Johannes Kepler Johannes Kepler hat mit seinen Gesetzen der Planetenbewegung, den Kepler-Gesetzen, die Astronomie revolutioniert. Diese Gesetze legten den Grundstein für die moderne Astronomie. Wilhelm Röntgen Wilhelm Röntgen hat die Röntgenstrahlen entdeckt, was eine bahnbrechende Entdeckung in der Physik war. Diese Strahlen ermöglichen es uns, den menschlichen Körper und andere Materialien zu durchleuchten, was die Medizin und viele andere Bereiche verändert hat. Paul Ehrlich Paul Ehrlich, ein weiterer Pionier in der Medizin, hat bedeutende Beiträge zur Bakteriologie und Immunologie geleistet. Er entwickelte das erste Chemotherapeutikum gegen Syphilis, was einen großen Durchbruch in der Behandlung von Krankheiten darstellte. Das Fazit Das war ein kurzer Blick auf einige der bedeutendsten deutschen Wissenschaftler, deren Arbeit unser Leben und unser Verständnis der Welt maßgeblich beeinflusst hat. Wenn du mehr über diese und andere deutsche Denker erfahren möchtest, abonniere meinen Newsletter unter AuthenticGermanLearning.com/free. Lass uns im Kommentarbereich wissen, welcher Wissenschaftler dich am meisten beeindruckt hat oder ob du mehr über andere deutsche Wissenschaftler erfahren möchtest! Danke fürs Zuschauen! Klicke auf das nächste Video, um weiter zu lernen. Bis bald!",
@@ -10911,7 +11762,7 @@
  "RoHoM_FIwb4": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-10T15:26:16+00:00",
+  "checked": "2026-11-23T04:53:13+00:00",
   "title": "Experiment 2: Blumen",
   "duration": 1039,
   "published": "20200510",
@@ -10920,6 +11771,7 @@
   "pace": 59.4,
   "rare": 0.0314,
   "var": 0.6258,
+  "cl": null,
   "speech_s": 932.9,
   "tokens": 923,
   "kw": [
@@ -11050,6 +11902,104 @@
     203,
     2.37,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "kleine",
+    "kleine gläser du brauchst vier kleine",
+    31,
+    45,
+    5.42,
+    6
+   ],
+   [
+    "passiert",
+    "passiert ist mit den drei blumen",
+    660,
+    671,
+    5.2,
+    6
+   ],
+   [
+    "rose",
+    "habe drei rosen meine erste rose in",
+    670,
+    682,
+    4.35,
+    11
+   ],
+   [
+    "grün",
+    "grün du kannst auch eine andere farbe",
+    209,
+    218,
+    4.75,
+    10
+   ],
+   [
+    "experiment",
+    "hallo wir machen heute ein experiment",
+    0,
+    19,
+    4.13,
+    4
+   ],
+   [
+    "blättern",
+    "was ist mit den blättern passiert das",
+    798,
+    809,
+    3.84,
+    4
+   ],
+   [
+    "blaues",
+    "grünes gelbes rotes und blaues wasser",
+    675,
+    683,
+    3.56,
+    1
+   ],
+   [
+    "rotem",
+    "wasser und der zweite teil ist in rotem",
+    735,
+    750,
+    3.55,
+    1
+   ],
+   [
+    "gläsern",
+    "vier gläsern über nacht warte bis morgen",
+    620,
+    641,
+    3.31,
+    1
+   ],
+   [
+    "gelbem",
+    "in gelbem wasser was ist passiert was ist mit der blüte",
+    769,
+    799,
+    2.94,
+    1
+   ],
+   [
+    "stängel",
+    "das ist der stängel da sind die blätter",
+    487,
+    498,
+    2.79,
+    1
+   ],
+   [
+    "raptor",
+    "die rote farbe in das wasser raptor ups",
+    349,
+    358,
+    2.7,
+    1
    ]
   ],
   "tx": "hallo wir machen heute ein experiment wir machen ein experiment du brauchst für das experiment als erstes vier kleine gläser du brauchst vier kleine gläser mit wasser in dem glas ist wasser und indem es ist wasser das ist das was du brauchst vier kleine gläser mit wasser als zweites brauchst du ein scharfes ein scharfes messer du brauchst als drittes brauchst du weiße blumen eine blume oder zwei oder drei das ist egal ich habe drei weiße weiß weiße blume du brauchst drei weiße blumen ich habe drei weiße rosen nur eine blume hast das ist auch okay das ist auch okay ja hier so ist die weiße blume so da ist eine weiße blume keine blaue blume ok eine blaue blume ist nicht richtig das ist falsch eine blaue blume ist nicht gut für das experiment eine weiße blume ist richtig das ist falsch das geht nicht und du brauchst lebensmittelfarben lebensmittelfarben sind farben für essen du kannst lebensmittelfarben in essen schützen ja zum beispiel in einen kuchen oder in plätzchen macht man lebensmittelfarbe und du brauchst vier lebensmittelfarbe schreibe das auf menden und ich habe grün du kannst auch eine andere farbe nehmen das ist egal ich habe grün rot blau und als letzte farbe als vierte farbe gelb gelb mal ich hier aber ich schreibe gelb mit schwarz-gelb ist so hell ja ich habe blau grün gelb und rot wenn du vier kleine gläser mit wasser ein scharfes messer drei oder eine weiße blume und viel lebensmittelfarben hast dann geht's los jetzt fangen wir an als erstes als erstes machen wir die farbe in das wasser wir haben vier lebensmittelfarben und vier kleine gläser mit wasser in jedes glas kommt eine farbe ja vielleicht drei vier tropfen ja schreibe das hier hin ich bin zwei gläser in jedes glas in alle gläser in das erste glas mache ich gut hier ist meine rote farbe und ich mache die rote farbe in das wasser raptor ups da fällt mit plastik ins glas das ist nicht so schön otto 1234 das ist genug in das zweite glas mache ich die blaue farbe das sieht aus wie hier sie das für blaue farbe ja die blaue farbe will nicht auf kommt in das zweite glas 13 jetzt sieht cool aus oder sehr cool und in das dritte glas machen grüne farbe in das dritte class 12 34 und in das vierte glas kommt geld so 1234 jetzt haben wir vier gläser vier kleine gläser mit wasser und lebensmittelfarbe als zweites schneiden wir die blume mit dem messer als zweites schneide ein kreuz in den blumen stengel das ist das hier der blumen stände ist es grüne an der blume das ist der stängel da sind die blätter das hier das ist der blumen stengel als drittes als drittes nehmen wir die blume die geschnittene blume und stellen die blume in vier gläser nicht in ein glas in alle vier kleinen gläser und als viertes als letztes das ist das allerschwerste als viertes das allerschwerste warten die blume bleibt im kleinen glas in den vier gläsern über nacht warte bis morgen wartete eine nacht bis morgen bis morgen hallo willkommen zum zweiten tag des experiments heute schauen wir was passiert ist mit den drei blumen gestern habe ich die erste blume ich habe drei rosen meine erste rose in grünes gelbes rotes und blaues wasser gestellt ich habe den blumen stengel das ist der blumen stengel in vier teile geschnitten in vier teile und jeder teil ist in einer anderen farbe aber ich hatte drei rosen nicht eine die zweite rose habe ich nicht in vier teile geschnitten nur in zwei der eine teil ist im blauen wasser und der zweite teil ist in rotem wasser und für die dritte blume die dritte rose habe ich auch nur zwei teile geschnitten der blumen stengel ist auch in zwei teilen und ein teil steht im grünen wasser und der andere teil steht in gelbem wasser was ist passiert was ist mit der blüte der rose passiert das ist die blüte und was ist mit den blättern passiert das ist ein blatt oder zwei drei vier blätter was ist mit den blättern über nacht passiert schauen wir was passiert ist aus meiner weißen rose ist meiner schönen weißen rose sind drei wunderschöne bunte bund sind viele farben wenn ich viele farben habe rot gelb grün blau das ist zusammen bund und ich habe schöne bunte großen das ist die rose 3 mit grün und gelb die rose 3 das ist die rose 2 mit blau und rot und ihr seht an den blättern ist die rose auch blau und rot in der blüte und an den blättern ist sie blau und rot und sie ist auch lila sie hat auch lila an der blüte ja denn blau und rot macht lila und die erste rose mit den vier teilen hier unten sieht man das blau grün gelb und rot es ist sehr bunt ja sie ist auch rot und grün und gelb ein bisschen blau aber sie ist auch lila sie hat viele farben die blüte ist grün gelb rot blau und auch lila ja denn die farben mischen sich und sie ist sehr sehr bunt und auch die blätter sind rot und blau weil der erst bei der dritten blume ist es auch ein bisschen grün und gelb aber die blätter einer blume sind grün man sieht das nicht so gut aber hier sind meine drei wunderschönen großen schick mehr per e mail oder in sessa ein foto von deinen blumen",
@@ -15607,7 +16557,7 @@
  "wUXc0ZLG2hk": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-10T03:03:45+00:00",
+  "checked": "2026-11-23T05:16:03+00:00",
   "title": "Learn German with a Day at the Lake 🌊 | A1 Story for Beginners",
   "duration": 756,
   "published": "20261103",
@@ -15616,6 +16566,7 @@
   "pace": 81.4,
   "rare": 0.0799,
   "var": 0.7526,
+  "cl": null,
   "speech_s": 562.4,
   "tokens": 763,
   "kw": [
@@ -15780,6 +16731,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "and",
+    "words, listen carefully and repeat after",
+    5,
+    11,
+    5.22,
+    6
+   ],
+   [
+    "glücklich",
+    "Am Nachmittag fährt sie glücklich nach",
+    265,
+    271,
+    4.89,
+    6
+   ],
+   [
+    "decke",
+    "Sie legt ihre Decke auf das Gras.",
+    170,
+    176,
+    4.36,
+    5
+   ],
+   [
+    "bus",
+    "Dann fährt sie mit dem Bus zum See.",
+    91,
+    100,
+    4.72,
+    4
+   ],
+   [
+    "wunderschönen",
+    "Lena hatte einen wunderschönen Tag am",
+    279,
+    287,
+    3.99,
+    4
+   ],
+   [
+    "packt",
+    "Sie packt eine Tasche. She packs a bag.",
+    67,
+    77,
+    3.95,
+    4
+   ],
+   [
+    "len",
+    "What happens when Len spends a beautiful",
+    0,
+    6,
+    3.27,
+    2
+   ],
+   [
+    "pick",
+    "Now, let's pick words from the story and",
+    506,
+    513,
+    3.59,
+    1
+   ],
+   [
+    "blanket",
+    "Blanket. Im Winter brauche ich eine warme Decke.",
+    573,
+    582,
+    2.3,
+    2
+   ],
+   [
+    "few",
+    "Lena takes a few pictures. Lena macht ein paar schöne Fotos.",
+    256,
+    269,
+    2.98,
+    1
+   ]
+  ],
   "tx": "What happens when Len spends a beautiful day at the lake? Learn useful German words, listen carefully and repeat after the narrator. Let's enjoy this beautiful A1 story together. Welcome to German stories for beginners. Ein Tag am See. Lake. Lena hat heute freien. Lena is free today. Lena hatute frei. Das Wetter ist sehr schön. Die Sonne scheint und der Himmel ist blau. Sun shining blue. Die Sonne scheint und der Himmel ist blau. Lena möchte heute an den See fahren. Len the l. Lena möchte heute an den See fahren. Sie packt eine Tasche. She packs a bag. Sie packt eine Tasche. Sie nimmt Wasser, Brot und Äpfel mit. She takes water, bread and apples with her. Sie nimmt Wasser, Brot und Äpfel mit. Dann fährt sie mit dem Bus zum See. Then she takes the buse. Dann fährt sie mit dem Bus zum See. Nach 30 Minuten kommt sie an. After minutes arrives. Nach 30 Minuten kommt sie an. Der See ist groß und wunderschön. Lake big. Der See ist groß und wunderschön. Viele Menschen sitzen am Wasser. Einige Kinder spielen im Sand. Lena sucht einen schönen Platz unter einem Baum. Lena sucht einen schönen Platz unter einem Baum. Sie legt ihre Decke auf das Gras. Dann setzt sie sich und trinkt etwas Wasser. Dann setzt sie sich und trinkt etwas Wasser. Ein kleiner Vogel sitzt auf einem Ast. Lena ist ein Brot und einen Apfel. Lena ist bread and Lena ist ein Brot und einen Apfel. Danach geht sie langsam am See spazieren. Danach geht sie langsam am See spazieren. Das Wasser ist klar und ruhig. Lena macht ein paar schöne Fotos. Lena takes a few pictures. Lena macht ein paar schöne Fotos. Am Nachmittag fährt sie glücklich nach Hause. In the afternoon happily goes home. Am Nachmittag fährt sie glücklich nach Hause. Lena hatte einen wunderschönen Tag am See. Lake. Lena hatte einen wunderschönen Tag am See. Geritles ein Tag am See. Lena hat heute frei. Das Wetter ist sehr schön. Die Sonne scheint und der Himmel ist blau. Lena möchte heute an den See fahren. Sie packt eine Tasche. Sie nimmt Wasser, Brot und Äpfel mit. Dann fährt sie mit dem Bus zum See. Nach 30 Minuten kommt sie an. Der See ist groß und wunderschön. Viele Menschen sitzen am Wasser. Einige Kinder spielen im Sand. Lena sucht einen schönen Platz unter einem Baum. Sie legt ihre Decke auf das Gras. Dann setzt sie sich und trinkt etwas Wasser. Ein kleiner Vogel sitzt auf einem Ast. Lena istst ein Brot und einen Apfel. Danach geht sie langsam am See spazieren. Das Wasser ist klar und ruhig. Lena macht ein paar schöne Fotos. Am Nachmittag fährt sie glücklich nach Hause. Lena hatte einen wunderschönen Tag am See. Gerit available ein Tag am See. Lena hat heute frei. Das Wetter ist sehr schön, die Sonne scheint und der Himmel ist blau. Lena möchte heute an den See fahren. Sie packt eine Tasche. Sie nimmt Wasser, Brot und Äpfel mit. Dann fährt sie mit dem Bus zum See. Nach 30 Minuten kommt sie an. Der See ist groß und wunderschön. Viele Menschen sitzen am Wasser. Einige Kinder spielen im Sand. Lena sucht einen schönen Platz unter einem Baum. Sie legt ihre Decke auf das Gras. Dann setzt sie sich und trinkt etwas Wasser. Ein kleiner Vogel sitzt auf einem Ast. Lena istst ein Brot und einen Apfel. Danach geht sie langsam am See spazieren. Das Wasser ist klar und ruhig. Lena macht ein paar schöne Fotos am Nachmittag. fährt sie glücklich nach Hause. Lena hatte einen wunderschönen Tag am See. Now, let's pick words from the story and build sentences to practice. Schön. Beautiful. Mein neues Kleid ist sehr schön. Scheinen. Die Sonne scheint heute sehr hell. The sun is shining very brightly today. Mitnehmen. Ich möchte einen Regenschirm mitnehmen. Umbrella with ankommen. Wir kommen um 8 Uhr am Bahnhof an. Traination. Wunderschön. Wonderful. Der Garten meiner Oma ist wunderschön. My grandmother's garden is wonderful. Suchen to. Ich suche meine Schlüssel. Die Decke. Blanket. Im Winter brauche ich eine warme Decke. Winter warm blanket. Ruhig. Am Sonntag ist die Stadt sehr ruhig. Onay spazieren gehen. Meine Eltern gehen jeden Abend spazieren. Glücklich. Happy. Meine Schwester ist heute sehr glücklich. sister is very happy today. Now it's time for the go style German exam. This test will check your understanding of the story and what you have learned. It will also help you prepare for your go exam. Listen carefully, choose the correct answer, and take your time. Let's see how much you remember. Good luck.",
   "gist": "w",
   "status": "ok",
@@ -15788,7 +16821,7 @@
  "qTa15QwhBiM": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-10T03:09:36+00:00",
+  "checked": "2026-11-23T05:22:57+00:00",
   "title": "Peppa Wutz bringt Schorsch das TÖPFCHENTRAINING bei! 🚽⭐ | Neue Ganze Folgen | Cartoons für Kinder",
   "duration": 3776,
   "published": "20261105",
@@ -15797,6 +16830,7 @@
   "pace": 108.1,
   "rare": 0.1164,
   "var": 0.8016,
+  "cl": null,
   "speech_s": 3657.1,
   "tokens": 6587,
   "kw": [
@@ -15961,6 +16995,88 @@
     15
    ]
   ],
+  "kx": [
+   [
+    "lieben",
+    "George liebt sein Töpfchen. Alle lieben",
+    264,
+    271,
+    4.87,
+    19
+   ],
+   [
+    "tag",
+    "wie ein Pirat Tag. Polizeiboot, bitte kommen. Verkehrsstau",
+    494,
+    502,
+    5.69,
+    18
+   ],
+   [
+    "oma",
+    "Peppa und George besuchen Oma und Opa",
+    542,
+    547,
+    4.49,
+    15
+   ],
+   [
+    "liebt",
+    "Ja, gern. Teddy liebt Tee. Bitte schön, Teddy. Danke schön für den",
+    14,
+    25,
+    4.55,
+    14
+   ],
+   [
+    "drohne",
+    "Es ist eine Drohne. Ich mag das Wort Drohne nicht so sehr.",
+    3342,
+    3349,
+    3.66,
+    7
+   ],
+   [
+    "flaschen",
+    "Flaschen und Gummibänder, ",
+    1937,
+    1943,
+    4.16,
+    6
+   ],
+   [
+    "locke",
+    "Luzi Locke ist zum Spielen vorbeigekommen.",
+    3,
+    8,
+    3.41,
+    6
+   ],
+   [
+    "maxi",
+    "\"Hallo, ich bin der kleine Maxi Mümmel.",
+    2539,
+    2547,
+    3.58,
+    5
+   ],
+   [
+    "opi",
+    "Da ist Opi Mümmel auf seinem sinkenden",
+    378,
+    382,
+    2.92,
+    14
+   ],
+   [
+    "gazelle",
+    "Gazelle? Hier ist mein liebstes, selbstgemachtes",
+    2082,
+    2088,
+    2.88,
+    4
+   ]
+  ],
   "tx": "Chan Töpfchen. Luzi Locke ist zum Spielen vorbeigekommen. Peppa und Luzi spielen Tee trinken. Möchte Taddy ein Schluck Tee? Ja, gern. Teddy liebt Tee. Bitte schön, Teddy. Danke schön für den Tee. George spielt mit Herrn Dinosaurier. Sausia. George liebt es mit ein Dinosaurier zu spielen. Oh, was riecht hier so? Kaka, Mama, in Georgesh Hose ist Kaka. Brauchst du das Töpfchen, George? Dafür ist es zu spät. Ja, stimmt. Dann machen wir dich mal sauber. Schon besser. Also, wo waren wir? Tee. Ach ja, will Teddy noch mehr Tee? Natürlich. Taddy trinkt gerne viel Tee. Das hätten wir alles wieder … gerettet. Hurra! Tschüss dann, Oki Mümmel. Tschüss. Das macht richtig Spaß. Polizeiboot, bitte kommen. Schon wieder ein Notfall. Piratenschiff auf dem Fluss. Wiederhole, Piratenschiff auf dem Fluss. Sind schon unterwegs. Oh, sieht so aus, als hätten wir hier mal einen richtigen Piraten. Küstenschiffer, entschuldigen Sie die Störung. Wir müssen kurz prüfen, ob Sie ein echter Pirat sind. Wir dachten vorher schon, wir hätten Piraten gefangen, aber die haben bloß Pirat gespielt. Das waren wir. Oh ja. Genau, ich spiele auch. Wow, famosle und ihr Schiff sieht auch richtig echt aus. Ja, ich habe … was im Laden kaufen. Frau Mümmel, schauen Sie mal, wie viele Erdbeeren wir gepflückt haben. Gut gemacht, Peppa und George. Daraus kochen wir Erdbeermelade. Peppa und George lieben Erdbeeren. Alle lieben Erdbeeren. Der streichelt so. Mama und Papa Wutz fahren mit Peppa, George und Luisa Löffel in einen Streichelzoo. Mama, was ist dann ein Streichel? Das ist ein Zoo, in dem viele kleine niedliche Tiere leben. Ihr könnt sie füttern und ihr könnt sie streicheln. Oh, ich liebe kleine niedliche Tiere. Aber es gibt da eine ganz wichtige Regel. Vor und nach dem Streicheln müssen sich immer alle … Würdet ihr gerne mal wissen, wie Fernsehen gemacht wird? Ja, bitte. Okay, dann fahren wir ins Fernsehland. Das ist Fernsehland. Halt. Arbeiten Sie hier? Nein. Dann haben Sie leider keinen Zutritt. Aber wir sind Kinder und wir wollen sehen, wie Fernsehen gemacht wird. Oh, in diesem Fall herzlich willkommen. Danke schön. Wow. Hallo ihr. Das ist Frau Mümmel. Möchtet ihr gerne mal sehen, wie wir hier Fernsehen machen? Ja. Das ist gut. Kommt mal mit. Kartoffel. Kartoffel schaut mal, da ist super Kartoffel. Hallo zusammen. Hallo. Seht ihr, er ist gar nicht klein, er ist groß. Wir können jetzt … Mama, hattest du einen perfekten Tag? Ja, danke schön. Den hatte ich. Und du? Ja, wir sind die Zaubertreppen rauf und runtergefahren und wir haben Luzi getroffen und lustige Fotos gemacht. Klingt wirklich perfekt. Ab nach Hause. Papa Wutz, hattest du einen perfekten Tag? Mein perfekter Tag beginnt gleich zu Hause. Papa, wie geht denn dein perfekter Tag? Ho, ich zeig's dir. Papa Wutz liebt es in Matschepfützen zu springen. Jeder liebt es in Matschepfützen zu springen. Das ist das perfekte Ende für einen perfekten Tag. Im botanischen Garten. Peppa und George machen heute einen Ausflug in … Ich schlag mit einem Stock drauf. Ich puste rein. Ganz einfach. Oder man schüttelt es. Ja, jetzt probiert mal, was der Grimsrams hier für Töne macht. Die Kinder basteln Musikinstrumente. Das hört sich an wie eine Trommel. Oh, das hier ist keine gute Trommel. Ah, und was passiert, wenn du Gummis dazu nimmst? Nein, immer noch nicht. Probier es doch mal mit Züpfen, anstatt oben drauf zu hauen. Oh, das ist gar keine Trommel, das ist ein Zupfer. Luzi hat ein paar Flaschen, die machen Töne, wenn man mit dem Stift dran klopft. Ja, und jetzt fülle ich unterschiedlich viel Wasser in die Flaschen. … hilft nur eins. Packen Sie es einfach aus. Na dann. Oh, es ist bezaubernd. Äh, aber was ist das jetzt genau? Ich muss es nur noch richtig anbringen. Einsteigen und joggen. Also gut. Das ist fantastisch. Es ist ein Hamsterrad. Ja, jeder Hamster sollte eins haben. Dr. Hamster liebt Hamsterräder. Alle Hamster lieben Hamsterräder. Meeresschätze. Peppa und George sind mit Oma und Opa Wutz zum Campen am Meer. Ich liebe Cen in eurem Zelt und wir lieben es auch. In all den Jahren waren wir damit schon in den Bergen, im Dschungel und wir haben sogar schon auf einem Eisberg gekämpt. Oh, Campin geht … ihr auch nicht zusammenstoßen. Hallo Papa. Hallo Peppa. ist. Hallo Mama. Hallo Mandy. Hallo Papa. Hallo Emily. Hallo Papa. Hallo Mia. Hallo Mama. Hallo noch mal Peppa. Hallo noch mal Papa. Hallo noch mal Emily. Was für eine Überraschung, die hier zu sehen. Tag. Endlich ist diese Babymusik zu Ende und jetzt spielen wir was cooles. Hier habe ich genau das Richtige. Könnt ihr jetzt bitte eine Kartoffel zwei Kartoffeln spielen? Eine Kartoffel, zwei Kartoffeln, drei Kartoffel vi fün Kartoffel, sechs Kartoffel, alle sch Beim nächsten Mal müssen wir mit unserer Musik aber schneller sein. Ja, ich … Wer ist das? Ho ho ho, es ist Weihnachtsmann. Meine letzte Zustellung. Oh, warum machen die nur immer diese Schornsteine so eng? Der Weihnachtsmann legt die Geschenke unter den Weihnachtsbaum. Es ist sehr früh am Morgen. Steh auf, George. Mama, Papa, aufwachen. Es ist Weihnachten. Einmachen. Was ist jetzt? Oma, Opa. Was? Heute ist Weihnachten. Uh. Ich vermute, das war's wohl mit der Nachtruhe. Pep und George sind aufgeregt, weil Weihnachten ist. Alle sind aufgeregt, weil Weihnachten ist. Schaut mal, der Weihnachtsmann hat uns allen lauter tolle Geschenke gebracht. George bekommt ein … Ich dachte, sie haben Höhenangst. Papa Wutz kann nicht erkennen, wo er ist. Was machst du denn da oben, Papa Wutz? Wie bitte? Ich höre dich nicht. Papa Wutz kann sie nicht hören, weil er so weit oben ist. Setzen Sie sich und genießen Sie die Rutschfahrt. Okay, dann mal los. Jipi! Wow! Papa Wutz, du warst auf der riesigen Gigantorutsche. Du bist einfach super toll. Hier ist noch ihre Brille, Papa Wutz. Danke schön, Frau Mümmel. Das war ehrlich gesagt der größte Spaß aller Zeiten. Ich glaube, es war ganz gut, dass ich nicht sehen konnte. Papa Wutz liebt das Spaßbad. Alle lieben das Spaßbad.",
   "gist": "s",
   "status": "ok",
@@ -15969,7 +17085,7 @@
  "YXOk3Lisb84": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-10T05:01:35+00:00",
+  "checked": "2026-11-23T05:16:11+00:00",
   "title": "Learn German with an Emergency Story 🚑 | A1–A2 German for Beginners",
   "duration": 650,
   "published": "20261030",
@@ -15978,6 +17094,7 @@
   "pace": 78.1,
   "rare": 0.1289,
   "var": 0.7297,
+  "cl": null,
   "speech_s": 447.2,
   "tokens": 582,
   "kw": [
@@ -16132,6 +17249,96 @@
     130,
     2.99,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "fällt",
+    "Ein Radfahrer fällt hin. A cyclist falls down.",
+    107,
+    117,
+    5.08,
+    5
+   ],
+   [
+    "mann",
+    "Ein Mann ruft den Rettungsdienst. Bald kommt ein Rettungswagen.",
+    155,
+    172,
+    5.73,
+    4
+   ],
+   [
+    "wartet",
+    "Anna wartet an der Ampel. Anna waits at the traffic light.",
+    86,
+    97,
+    4.55,
+    5
+   ],
+   [
+    "ruft",
+    "Ein Mann ruft den Rettungsdienst. Bald kommt ein Rettungswagen.",
+    155,
+    172,
+    4.56,
+    4
+   ],
+   [
+    "bremsen",
+    "Bremsen, to break. Sich bedanken, to thank. Ein Unfall auf",
+    46,
+    55,
+    4.04,
+    3
+   ],
+   [
+    "services",
+    "Der Rettungsdienst, Emergency Services. Der Rettungswagen, Ambulance.",
+    18,
+    30,
+    3.9,
+    3
+   ],
+   [
+    "before",
+    "Before the story, here are some",
+    14,
+    19,
+    3.51,
+    2
+   ],
+   [
+    "thank",
+    "Sich bedanken, to thank. Ein Unfall auf",
+    48,
+    55,
+    3.28,
+    2
+   ],
+   [
+    "missing",
+    "Guess the missing words before the time",
+    563,
+    569,
+    2.94,
+    1
+   ],
+   [
+    "calls",
+    "A man calls the emergency services.",
+    508,
+    515,
+    2.92,
+    1
+   ],
+   [
+    "repeat",
+    "exciting story. Listen, repeat and learn",
+    7,
+    15,
+    2.77,
+    1
    ]
   ],
   "tx": "What would you do, if you saw a terrible accident? Today, learn important German words and simple sentences through an exciting story. Listen, repeat and learn with German Stories for Beginners. Before the story, here are some important words that you should know. Der Rettungsdienst, Emergency Services. Der Rettungswagen, Ambulance. Der Radfahrer, Cyclist. Der Unfallort, Accident Scene. Die Verletzung, Injury. Der Sanitäter, Paramedic. Der Verband, Bandage. Der Zeuge, Witness. Bremsen, to break. Sich bedanken, to thank. Ein Unfall auf der Straße. An accident on the road. Anna geht zur Arbeit. Anna walks to work. Anna geht zur Arbeit. Die Straße ist voll. The street is busy. Die Straße ist voll. Viele Autos fahren vorbei. Many cars pass by. Viele Autos fahren vorbei. Anna wartet an der Ampel. Anna waits at the traffic light. Anna wartet an der Ampel. Plötzlich bremst ein Auto. Suddenly, a car brakes. Plötzlich bremst ein Auto. Ein Radfahrer fällt hin. A cyclist falls down. Ein Radfahrer fällt hin. Anna läuft zu ihm. Anna runs to him. Anna läuft zu ihm. Der Radfahrer ist verletzt. Sein Bein tut weh. Anna fragt: \"Brauchst du Hilfe?\" Ein Mann ruft den Rettungsdienst. Bald kommt ein Rettungswagen. Die Sanitäter helfen dem Radfahrer. The paramedics help the cyclist. Die Sanitäter helfen dem Radfahrer. Sie verbinden sein Bein. Dann kommt die Polizei. Ein Polizist spricht mit dem Fahrer. Anna erzählt, was passiert ist. Der Rettungswagen fährt zum Krankenhaus. Der Arzt untersucht sein Bein. Zum Glück ist er nicht schwer verletzt. Der Radfahrer bedankt sich bei Anna. Ein Unfall auf der Straße. Anna geht zur Arbeit. Die Straße ist voll. Viele Autos fahren vorbei. Anna wartet an der Ampel. Plötzlich bremst ein Auto. Ein Radfahrer fällt hin. Anna läuft zu ihm. Der Radfahrer ist verletzt. Sein Bein tut weh. Anna fragt: \"Brauchst du Hilfe?\" Ein Mann ruft den Rettungsdienst. Bald kommt ein Rettungswagen. Die Sanitäter helfen dem Radfahrer. Sie verbinden sein Bein. Dann kommt die Polizei. Ein Polizist spricht mit dem Fahrer. Anna erzählt, was passiert ist. Der Rettungswagen fährt zum Krankenhaus. Der Arzt untersucht sein Bein. Zum Glück ist er nicht schwer verletzt. Der Radfahrer bedankt sich bei Anna. Ein Unfall auf der Straße. Anna geht zur Arbeit. Die Straße ist voll. Viele Autos fahren vorbei. Anna wartet an der Ampel. Plötzlich bremst ein Auto. Ein Radfahrer fällt hin. Anna läuft zu ihm. Der Radfahrer ist verletzt. Sein Bein tut weh. Anna fragt: \"Brauchst du Hilfe?\" Ein Mann ruft den Rettungsdienst. Bald kommt ein Rettungswagen. Die Sanitäter helfen dem Radfahrer. Sie verbinden sein Bein. Dann kommt die Polizei. Ein Polizist spricht mit dem Fahrer. Anna erzählt, was passiert ist. Der Rettungswagen fährt zum Krankenhaus. Der Arzt untersucht sein Bein. Zum Glück ist er nicht schwer verletzt. Der Radfahrer bedankt sich bei Anna. Der Unfall. Anna sieht einen Unfall auf der Straße. Der Radfahrer. Der Radfahrer fällt auf die Straße. Die Ampel. Anna wartet an der Ampel. Bremsen. Das Auto muss schnell bremsen. Verletzt. injured Der Radfahrer ist verletzt. The cyclist is injured. Der Rettungsdienst emergency services Ein Mann ruft den Rettungsdienst. A man calls the emergency services. Der Rettungswagen ambulance Der Rettungswagen kommt schnell. The ambulance arrives quickly. Der Sanitäter paramedic Der Sanitäter hilft dem Radfahrer. The paramedic helps the cyclist. Das Krankenhaus hospital Der Radfahrer kommt ins Krankenhaus. The cyclist goes to the hospital. sich bedanken to thank Der Radfahrer bedankt sich bei Anna. The cyclist thanks Anna. Now, let's practice fill-in-the-blanks. Guess the missing words before the time runs out.",
@@ -17115,7 +18322,7 @@
  "itKq_zinlgs": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-10T05:11:04+00:00",
+  "checked": "2026-11-23T05:25:33+00:00",
   "title": "Feenzauber 🧚🏻💙 | 1 Stunde | Bluey – Deutsch Offizieller Kanal",
   "duration": 4015,
   "published": "20261014",
@@ -17124,6 +18331,7 @@
   "pace": 127.5,
   "rare": 0.0766,
   "var": 0.8109,
+  "cl": null,
   "speech_s": 3710.5,
   "tokens": 7887,
   "kw": [
@@ -17286,6 +18494,88 @@
     1164,
     2.71,
     6
+   ]
+  ],
+  "kx": [
+   [
+    "komm",
+    "Es ist zu weit. Komm schon, Blui. Es ist",
+    212,
+    218,
+    4.91,
+    34
+   ],
+   [
+    "los",
+    "Los. Oh. Oh ja,",
+    79,
+    89,
+    5.26,
+    33
+   ],
+   [
+    "ring",
+    "ring, ring. Oh nein, Judo ruft gerade an.",
+    2950,
+    2956,
+    4.54,
+    8
+   ],
+   [
+    "louis",
+    "Louis Bingo,",
+    455,
+    459,
+    4.34,
+    8
+   ],
+   [
+    "mia",
+    "Miau Mia Mia Mia Mia Mia Mia Mia Mia",
+    1702,
+    1713,
+    3.98,
+    9
+   ],
+   [
+    "statue",
+    "Oh, hallo. Wollen Sie gerne eine Statue",
+    3884,
+    3889,
+    3.82,
+    9
+   ],
+   [
+    "schnapp",
+    "Schnapp dein Arm. Oh ja, eine Taimassage. Oh,",
+    1193,
+    1201,
+    3.43,
+    5
+   ],
+   [
+    "chloe",
+    "Hey Chloe, komm zu uns und hilf uns",
+    1216,
+    1221,
+    3.19,
+    5
+   ],
+   [
+    "buttermilch",
+    "Buttermilch. Oh. Ich möchte ganz ganz unbedingt auf",
+    2375,
+    2381,
+    2.87,
+    5
+   ],
+   [
+    "mckenzie",
+    "Gut gesprungen, McKenzie. Bist du bereit, Bingo?",
+    198,
+    204,
+    2.77,
+    4
    ]
   ],
   "tx": "Seht doch, G Feen. Das ist ein Bild von Dad, wie er um unseren Briefkasten rumtanzt. Hey, warum haben sie da grüne Stinkestriche rangemalt? Die Feehen sind wohl der Meinung, dass du stinkst. Was? Sie wollen sicher, dass du einen Feehentanz um unseren Briefkasten machst. Was? Das mache ich auf keinen Fall. Dad, doch, das musst du niemals. Macht doch was ihr wollt, ihr Feehen. Ich habe keine Angst vor euch. Seht ihr? Keine Reaktion. Bingo! Die Feehen haben Bingo versteinert. Das ist nur deine Schuld. Ich verfluche euch, ihr Feehen. Tja, du weißt ja, was du machen musst. Oh nein, ich hole den … nur das Wort sagen. Danke, Dad. Okay, drei Eintrittskarten und Popcorn und noch ein Popcorn. Spatz, mach deine Augen auf. Ist jetzt das große Gewitter schon zu sehen? Der Film hat noch gar nicht angefangen. Das sind Trailer für andere Filme. Diesen Sommer müssen sie sich auf etwas gefasst machen. Du sitzt hier, Bingo. Oh, der Sitz schaukelt. Ja, du musst ein Stück weiter vorne sitzen. Okay. Sagst du mir, wenn die Trailer vorbei sind? Louis Bingo, das wird Summe. Oh, endlich vorbei. Erleben Sie den besten Sound. Laut. Dunkel. Okay, jetzt hat der Film angefangen. Das ist langweilig. Bingo, … und der Pirat rutschte direkt durch den Mund in den Magen zu den anderen Piraten. Unglaublich, dieser Mut. Und welche Inspiration für all diejenigen unter uns, die sich ihren Ängsten noch stellen müssen. Was hast du für eine Idee, Miss? Wir kitzeln ihn. Oh ja. Kitze, kitze, kitze, kitze, kitzel. Ich bin eine Meerjüfrau und ich habe Beine. Da ist ja ein altes Schloss. Wer hier wohl gewohnt hat? Vielleicht gehört das Schloss den anderen Meerjungfrauen. Hallo. Ähm, wäre es okay, wenn du weggehst? Ich will die Muschel so gerne meiner Mom zeigen. Ah, vielleicht gehe ich auch lieber wieder zurück. … ja. Gut, komm mit. Coco macht auch mit. Hurra! Oh, es funktioniert. Kokoswuschelfell ist echt schwer genug. Hurra! Es geht nicht weiter. Wir sind leider doch noch nicht schwer genug. Tut mir leid. Ist doch nicht deine Schuld, Koko, sondern seine. Oh, ich glaube, wir brauchen noch ein Kind. Sneakers, wir brauchen dich. Aber ich spiele auf dem Ah, jetzt komm schon. Oh, jetzt wirst du aber was erleben. Wir haben einen Hund mit Wurstbeinchen. Louis, guck mal, was er da hat. Oh, Rodney, mein Schätzchen, du bist so weich. Es ist ein Haustierstein. Was? Er hat es gerade eben dort aufgehoben. … hast du recht. Wir sagen einfach, die Runden sind Geld und die eingeditschten die Katzen leckerliben. Oki doi. Nimm die hier mit. Kennt sie? Das sind unsere Talerscheine. Okay, dann fangen wir mal an. Da Ding. Hallo. Warte. Du willst einen Katzengeburtstagskuchen kaufen, aber ich sage dann tut mir leid, wir haben keinen mehr und dann musst du traurig sein. Geburtstagskuchen? Louis, ich möchte aber spielen, dass noch Katzengeburtstagskuchen da ist. Okay, wir haben einen Katzengeburtstagskuchen da, aber du bist traurig, weil du einen anderen willst. Ich habe keine Ahnung, was du da redest. … Bitte, bitte. Polly will. Ach nein, Polly will gerne einen Hund. Behalt deine Hände bei dir, Riesenwalross. Jetzt mach schon, Vogelbingo. Polly will gerne einen Hund. Nun mach schon, Vogelbingo. Das ist schwerst Arbeit. Das Wros will nicht am Tisch sitzen bleiben. Holly will gerne ein. Ja. Ja. Dinosaurier Bingo. Nein. Einen Hund. Einen Hund. Ah, der Manieren Lehrer wird nicht gefressen. Oli gerne will ger h Hurra, du hast es geschafft, Vogelbingo. Was ist denn hier los? Oh wir essen gerade Abendbrot. Weißt du nicht mehr? Oh ja, wir essen. Okay, na ja, es wäre schön, wenn Ich habe mein … Ähm, nein, weil das wäre dann wirklich brenzlich. Weg mit dir. Oh, ich glaube, sie ist fertig. Sie dürfen gehen. Wunderbar, Doktor. Den Verband sollten Sie mindestens 11 Jahre dran lassen. Wer Sie einen Lutscher, bitte. Wir sehen uns. Okay, wer ist der nächste? Das bin ich. Oh ja, das Knie tut weh. Hier entlang, bitte. Hilfe, ich umarme einen Kaktus. Oh nein. Ah, und ein Krokodil ist vom Himmel gefallen und beiß mir den Popo. Meine Güte. Das ist ja wirklich brenslich. Keine Sorge, das kriegen wir ganz schnell wieder hin. Au, au, au, au, au. Na, kümmer dich um die Patientin. Au, au, au, au, … ich die mal haben, Dad? Ich muss Wasserhinmädchens Bestellung aufschreiben. So, meine Liebe, was möchten Sie? Ich gehe mal nach den Frühlingsrollen gucken. Ich möchte etwas ganz super Scharfes, bitte. Na sicher doch. Ich gehe es ihn sofort holen. Nasse Speisekarte. Oh, wie lecker. Wasserharnmädchen, ich weiß nicht, ob du das in echt essen kannst, aber ich habe so d Hunger. Schach, sie sind immer noch nicht fertig. Hey, mein Abendessen. Bitte Schaf, bitte Schaf. Okay. Okay. Pass auf, mein Spatz. Ist das wieder gut, kleines? Ist es. Aber jetzt muss ich mal fieseln. Echt ganz dringend. Oh Mann. … Muffin. Ja, richtig gut, Muffin. Ja, ich hab's gleich. Ja, geschafft. Ja, Klassey. Ja, das war Spitze. Ja, richtig toll. Ich möchte jetzt wieder runter. Und wie schlägt sich Bingo? Oh, Bingo. Oh, Bingo, das ist total eklig. Es ist nicht unbedingt toll, aber sie hat es geschafft. Ich bin stolz auf dich, Bingo. Ich bin stolz auf dich, Blui. Oh, Bingo, wir haben einen Gast. Ich will das verrückte Kissen sein. Nein, du bist doch der verrückte Hotelhelfer. Oh, hallo. Nein, Dad, du musst auf die Klingel drücken. Oh, okay. Ah, ich versuche, die Lautstärke dieser Klingel zu optimieren. Gut, das … Was ist hier los? Wo ist meine Statue? Hey, wie bist du denn nach draußen gekommen? Hier geht irgendetwas Merkwürdiges vor sich. Was? Ah, das ist doch eine magische Statue. Ich wusste es. Hier haben wir eine magische Statue verkauft. Kommen Sie zurück. Wo haben Sie sich versteckt? Sie Fiesling. Oh, da ist jemand an der Tür. Hallo. Oh, was? Das ist verrückt. Ich dachte, da hätte jemand geklingelt. Ach egal, dann gehe ich eben einfach wieder rein und widme mich meinen Aufgaben. Hallo? Was? Es hat zum zweiten Mal geklingelt und wieder ist niemand da. Das ist doch ein unglaubliches Vorkommnis.",
@@ -17839,7 +19129,7 @@
  "fNhPHw2E2TA": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-10T04:58:50+00:00",
+  "checked": "2026-11-23T05:12:35+00:00",
   "title": "German B1 Listening Practice | Meine erste eigene Wohnung | Deutsch Hörverstehen Story",
   "duration": 655,
   "published": "20260914",
@@ -17848,6 +19138,7 @@
   "pace": 123.0,
   "rare": 0.0319,
   "var": 0.8435,
+  "cl": null,
   "speech_s": 275.6,
   "tokens": 565,
   "kw": [
@@ -17954,6 +19245,144 @@
     174,
     3.0,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "fenster",
+    "Die hellen Wände und die großen Fenster machen die Räume freundlich und gemütlich.",
+    46,
+    54,
+    4.88,
+    4
+   ],
+   [
+    "wirklich",
+    "In diesem Moment fühle ich mich zum ersten Mal wirklich zu Hause.",
+    90,
+    96,
+    5.75,
+    3
+   ],
+   [
+    "kochen",
+    "Obwohl die Küche klein ist, bietet sie genug Platz zum Kochen.",
+    74,
+    80,
+    4.52,
+    2
+   ],
+   [
+    "blumen",
+    "Ich kaufe einen Stuhl, eine schöne Lampe und bunte Blumen.",
+    103,
+    109,
+    4.43,
+    2
+   ],
+   [
+    "putzen",
+    "Am Nachmittag beginnen wir mit dem Putzen.",
+    125,
+    130,
+    3.99,
+    2
+   ],
+   [
+    "öffne",
+    "Ich öffne die Tür und betrete meine neue Wohnung.",
+    37,
+    42,
+    3.67,
+    2
+   ],
+   [
+    "koche",
+    "Ich koche mir Nudeln und esse gemütlich im Wohnzimmer.",
+    209,
+    215,
+    3.56,
+    1
+   ],
+   [
+    "lächelnd",
+    "Meine Mutter schaut sich lächelnd um und sagt:",
+    154,
+    159,
+    3.51,
+    1
+   ],
+   [
+    "ungewohnt",
+    "Zuerst ist es ungewohnt still, doch schon nach wenigen Minuten genieße ich die Ruhe.",
+    202,
+    210,
+    3.49,
+    1
+   ],
+   [
+    "schränke",
+    "Ich wische den Boden, räume die Schränke ein",
+    129,
+    133,
+    3.44,
+    1
+   ],
+   [
+    "handtücher",
+    "Außerdem nehme ich Teller, Tassen, Gläser, Besteck, Töpfe und Handtücher mit.",
+    108,
+    116,
+    3.37,
+    1
+   ],
+   [
+    "bequemes",
+    "Im Wohnzimmer gibt es einen Tisch und ein bequemes Sofa.",
+    69,
+    75,
+    2.88,
+    1
+   ],
+   [
+    "betrete",
+    "Ich öffne die Tür und betrete meine neue Wohnung.",
+    37,
+    42,
+    2.86,
+    1
+   ],
+   [
+    "umarme",
+    "Ich umarme sie und sage: „Vielen Dank.",
+    185,
+    190,
+    2.78,
+    1
+   ],
+   [
+    "wische",
+    "Ich wische den Boden, räume die Schränke ein",
+    129,
+    133,
+    2.56,
+    1
+   ],
+   [
+    "sparens",
+    "Nach vielen Monaten des Sparens und Planens",
+    10,
+    14,
+    2.24,
+    1
+   ],
+   [
+    "möbelgeschäft",
+    "Danach fahren meine Mutter und ich in ein Möbelgeschäft.",
+    95,
+    101,
+    2.06,
+    1
    ]
   ],
   "tx": "Meine erste eigene Wohnung. Ich heiße Sara und bin 20 Jahre alt. Heute ist ein Tag, den ich nie vergessen werde. Nach vielen Monaten des Sparens und Planens bekomme ich endlich meine erste eigene Wohnung. Schon am Morgen bin ich sehr aufgeregt. Gleichzeitig bin ich auch ein bisschen nervös, weil ich zum ersten Mal ganz allein wohnen werde. Nach dem Frühstück fahre ich zusammen mit meiner Mutter zur Wohnungsübergabe. Als wir ankommen, bekomme ich den Schlüssel vom Vermieter. Ich öffne die Tür und betrete meine neue Wohnung. Sie ist zwar nicht besonders groß, aber sie gefällt mir sofort. Die hellen Wände und die großen Fenster machen die Räume freundlich und gemütlich. Es gibt ein Schlafzimmer, ein kleines Wohnzimmer, eine Küche und ein Badezimmer. Langsam gehe ich durch alle Zimmer und stelle mir vor, wie ich hier bald leben werde. Im Schlafzimmer steht bereits ein Bett. Im Wohnzimmer gibt es einen Tisch und ein bequemes Sofa. Obwohl die Küche klein ist, bietet sie genug Platz zum Kochen. Besonders gefällt mir das große Fenster im Wohnzimmer. Als ich es öffne, scheint die warme Sonne hinein und die frische Luft erfüllt den Raum. In diesem Moment fühle ich mich zum ersten Mal wirklich zu Hause. Danach fahren meine Mutter und ich in ein Möbelgeschäft. Ich brauche noch einige Dinge für die Wohnung. Ich kaufe einen Stuhl, eine schöne Lampe und bunte Blumen. Außerdem nehme ich Teller, Tassen, Gläser, Besteck, Töpfe und Handtücher mit. Obwohl ich auf mein Geld achten muss, freue ich mich über jeden einzelnen Einkauf. Nach und nach wird die Wohnung immer persönlicher. Am Nachmittag beginnen wir mit dem Putzen. Ich wische den Boden, räume die Schränke ein und stelle die Möbel an ihren Platz. Meine Mutter putzt die Fenster und hilft mir dabei, alles zu organisieren. Gemeinsam hängen wir die Lampe auf und stellen die Blumen auf den Tisch. Als wir fertig sind, sieht die Wohnung sauber, ordentlich und einladend aus. Meine Mutter schaut sich lächelnd um und sagt: „Die Wohnung sieht wirklich wunderschön aus. Ich bin stolz auf dich.“ Ich lächle zurück und antworte: „Danke, Mama. Ohne deine Hilfe hätte ich das heute nicht geschafft.“ Sie legt ihre Hand auf meine Schulter und sagt: „Herzlichen Glückwunsch zu deiner ersten eigenen Wohnung. Ich wünsche dir viele glückliche Momente hier.“ Ich umarme sie und sage: „Vielen Dank. Ich werde immer an diesen Tag denken.“ Am Abend verabschiedet sich meine Mutter und fährt nach Hause. Zum ersten Mal bin ich allein in meiner eigenen Wohnung. Zuerst ist es ungewohnt still, doch schon nach wenigen Minuten genieße ich die Ruhe. Ich koche mir Nudeln und esse gemütlich im Wohnzimmer. Danach mache ich mir eine Tasse Tee und setze mich auf das Sofa. Ich schaue aus dem Fenster und denke darüber nach, wie viel sich in meinem Leben verändert hat. Früher habe ich noch bei meinen Eltern gewohnt. Jetzt muss ich selbst einkaufen, kochen, putzen und mich um alles kümmern. Das bedeutet mehr Verantwortung, aber auch mehr Freiheit. Ich freue mich darauf, neue Erfahrungen zu sammeln und mein Leben selbst zu gestalten. Bevor ich schlafen gehe, gehe ich noch einmal langsam durch alle Zimmer. Ich lächle und denke: Das ist wirklich mein Zuhause. Ich bin zwar müde, aber auch unglaublich glücklich. Mit meiner ersten eigenen Wohnung beginnt ein neuer Lebensabschnitt. Ich weiß, dass nicht immer alles einfach sein wird, aber ich freue mich auf alles, was noch vor mir liegt.",
@@ -25870,7 +27299,7 @@
  "TPiWjxjJzzA": {
   "channel": "Deutsch für Euch",
   "lang": "de",
-  "checked": "2026-11-12T00:49:00+00:00",
+  "checked": "2026-11-23T04:15:45+00:00",
   "title": "Redemittel: Stating Opinions in German (B1) | Vocabulary || Deutsch Für Euch 134",
   "duration": 851,
   "published": "20210821",
@@ -25879,6 +27308,7 @@
   "pace": 150.2,
   "rare": 0.2026,
   "var": 0.7466,
+  "cl": null,
   "speech_s": 784.4,
   "tokens": 1964,
   "kw": [
@@ -26041,6 +27471,88 @@
     167,
     2.38,
     6
+   ]
+  ],
+  "kx": [
+   [
+    "finde",
+    "Ich finde I find.",
+    170,
+    179,
+    5.3,
+    11
+   ],
+   [
+    "for",
+    "discount code bu that's good for me and",
+    150,
+    156,
+    4.88,
+    11
+   ],
+   [
+    "one",
+    "one is I think it would be really great",
+    54,
+    59,
+    4.65,
+    14
+   ],
+   [
+    "german",
+    "to express opinions in German in Germany",
+    18,
+    24,
+    4.49,
+    11
+   ],
+   [
+    "have",
+    "don't lie. I do sometimes have opinions.",
+    7,
+    13,
+    4.14,
+    8
+   ],
+   [
+    "get",
+    "Now before we get into it today, I have",
+    50,
+    55,
+    4.11,
+    8
+   ],
+   [
+    "different",
+    "different place in a sentence than at",
+    400,
+    407,
+    3.27,
+    5
+   ],
+   [
+    "them",
+    "not able to express them in a language",
+    13,
+    19,
+    3.56,
+    4
+   ],
+   [
+    "phrases",
+    "following phrases that can be used with",
+    212,
+    218,
+    2.07,
+    6
+   ],
+   [
+    "actually",
+    "actually see the videos pop up in your",
+    60,
+    65,
+    2.93,
+    5
    ]
   ],
   "tx": "Do you ever find yourself having opinions? Do they sometimes make you want to do this? Well, I think come on, don't lie. I do sometimes have opinions. It even says so in my Twitter bio. And I find it really frustrating when I'm then not able to express them in a language that I am not fluent in. And being able to express opinions in German in Germany is very important because how else are you going to participate in the favorite German pastime of complaining about things? So if you don't know how to do that yet, then I am here to save your day because today we are learning the appropriate … lessons. Secondly, they offered these classes 20 for7. No matter when you are available, you can book your classes whenever you need them. Three, they provide you with materials before and after class so you can study up any time that you need and you can make sure that you are prepared to ask questions and also that you can actually review things. This also includes tests and homework by the way. And if you are off the opinion that homework sucks, you don't even need to do it but you should. In my opinion, there's group classes and private classes available. The group classes are never … not sure about it yet, you can also alternatively try their 7day free trial during which time you can take up to three free group classes or one private class. Don't forget to use my link below to get to that and to get all the information and writing if you needed and also don't forget to use my discount code bu that's good for me and good for you. Now I think that's a pretty nice deal and I also think we can start now. Now a lot of stating your opinion in German just like in English is starting a sentence with I. Ich finde I find. Ich finde das gut. I think that's good. Ich finde, … object phrases, Objektsätze. So, we can say ich finde das, but we can also say ich denke das. I think that ich denke, dass das richtig ist. Or alternatively ich denke das ist richtig. I think that's correct. First one is simply bit longer. The first one is I think that that is correct. The second one is literally I think that is correct. Ich denke, dass das richtig ist. Ich denke, das ist richtig. Both work. The same is true for. Ich glaube, I believe. Ich glaube, dass das funktioniert. I think that will work. Ich glaube, das funktioniert. I think that works or that will work. And then on … actually contain the word opinion which are first off meiner Meinung nach. According to my opinion, meiner Meinung nach. This phrase is then directly followed by a verb. So meiner Meinung nach ist das falsch. In my opinion, according to my opinion, that is wrong. start sent before section of a sentence. If not familiar with my syntax episodes, you won know what the before section is, you can check those out here. Basically, meiner Meinung nach is a phrase that belongs together. So it goes before the meaning verb or the conjugated verb in the sentence, but we don't have a Nebensatz word order. … these phrases that you can use to express an opinion you can also put in a different place in a sentence than at the very beginning. So while here we always used stuff like ich finde das, ich denke das, ich meine das and meiner Meinung nach kann man etc. Of course you can also use it in a different place in a sentence because German can do that. So for example instead of saying, ich finde das gut, you could also say das finde ich gut. meiner Meinung nach usually conjug verbrase das ist meiner Meinung nach falsch. There it's kind of a throwing but it also works in a different place the … bin da geteilter Meinung. I have a split opinion on this context. Na ja, einerseits, aber andererseits literally on one side, on the other side, we don't use hands in German, we use sides. So einerseits, andererseits, also einerseits ist das zwar ganz schön kompliziert, aber andererseits ist es wichtig. English auf der einen Seite, auf der anderen Seite. auf der einen Hand or auf der anderen Hand translation English whatever the idium is in native tongue in German we say side and side auf der einen Seite auf der anderen Seite or einerseits andererseits. Try putting a sentence in the … people say that a lot as like a throw when they doing active listening. Ja voll. Ja. Totally. Total. Ganz genau. Don't use ja voll in like an official context or an examination. It's veryal ss very like you know spoken German will s off in examination. You could instead say absolute. Absolutely. Absolut or absolut richtig. Absolutely right. Absolut richtig. Or a bit more formal. Ich bin ganz deiner Meinung. Ich bin ganz deiner Meinung or ich bin ganz ihrer Meinung. I am completely of your opinion literally. You don't say that in English, but that's what it means. I bin ganz deiner Meinung. … bin ich anderer Meinung. Da bin ich anderer Meinung. I of a different opinion. Da muss ich widersprechen. I have to disagree on that one. Da muss ich widersprechen. Relativ formal. Da muss ich widersprechen. You can also use the verb zustimmen to make allowances. So be cooperative diplomatic someone even though disagree with you might still agree with the word word zustimmen. Ich stimme zu das aber also use the word zwar ich stimme zwar zu, dass das schwer ist, aber ich finde mit der Zeit versteht man es. Zwar acts like while here although it's in a different position but zw means while. … to thank everyone on this list who are already doing it and who I think deserve to be thanked every episode. So if you wan also appear on this list and get additional resources then you can go check out my Patreon if it's something for you. Thank you for considering and thank you everyone for supporting who's already doing it with a special thanks to those of you pledging $10 up. random word it's actually that differentiate long and short viral sounds in German. One is die robe the robe and one is die robe the seal. Don't confuse those die robe and die Robbe. Bis zum nächsten Mal. Tschüss.",
@@ -27300,7 +28812,7 @@
  "DJLULKGG07c": {
   "channel": "Deutsch für Euch",
   "lang": "de",
-  "checked": "2026-11-12T02:19:42+00:00",
+  "checked": "2026-11-23T04:15:49+00:00",
   "title": "DASSELBE = DAS GLEICHE? Eher nicht, ist doch klar. || Klugscheißen mit Katja",
   "duration": 254,
   "published": "20210727",
@@ -27309,6 +28821,7 @@
   "pace": 175.9,
   "rare": 0.0473,
   "var": 0.7698,
+  "cl": null,
   "speech_s": 230.9,
   "tokens": 677,
   "kw": [
@@ -27439,6 +28952,120 @@
     50,
     2.85,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "z.b",
+    "wird's eher bei so Dingen wie z.B. Namen. Also wenn jemand anderes jetzt auch Katja heißt, ist das",
+    80,
+    86,
+    5.03,
+    4
+   ],
+   [
+    "ähnlich",
+    "ähnlich sind, aber eben nicht dasselbe. Also, das gleiche - auch verbunden mit dem Verb",
+    17,
+    23,
+    4.92,
+    4
+   ],
+   [
+    "wörter",
+    "Also, nochmal: Beide Wörter haben in etwa die gleiche Bedeutung, aber-",
+    0,
+    5,
+    4.35,
+    3
+   ],
+   [
+    "seht",
+    "Da unterstützen mich auch schon die ganzen Leute, die ihr hier vorbeifahren seht, und sorgen dafür, dass",
+    206,
+    212,
+    4.32,
+    3
+   ],
+   [
+    "gegenstand",
+    "ein und derselbe Gegenstand, ein und dieselbe Aussage, et cetera et cetera. Wenn ich also sage: Ich habe",
+    44,
+    50,
+    4.18,
+    1
+   ],
+   [
+    "seltener",
+    "Orange bedeutet dasselbe wie Apfelsine, denn das ist ein seltener Fall von einem perfekten Synonym.",
+    112,
+    119,
+    4.17,
+    1
+   ],
+   [
+    "küken",
+    "insofern, dass das da ist, wo sich das tatsächliche Küken eben formt. Es wird sogar interessant bei Wörtern",
+    143,
+    149,
+    3.55,
+    1
+   ],
+   [
+    "abstrakte",
+    "ist gehobener als das andere. Aber das ist so ein bisschen die abstrakte Ebene des Ganzen.",
+    158,
+    165,
+    3.53,
+    1
+   ],
+   [
+    "verlinkt",
+    "in dem Video verlinkt ist. Ich danke allen, die es bereits machen und ein besonderes Dankeschön an",
+    223,
+    229,
+    3.52,
+    1
+   ],
+   [
+    "abonniert",
+    "Ansonsten abonniert gerne den Kanal und klickt auch auf die Glocke - und schaut mal auf meinem Patreon vorbei.",
+    202,
+    207,
+    3.46,
+    1
+   ],
+   [
+    "deins",
+    "das gleiche Fahrrad wie du, dann habe ich ein Fahrrad, das genauso aussieht wie deins, aber ein",
+    49,
+    56,
+    3.42,
+    1
+   ],
+   [
+    "skripte",
+    "Das heißt: Skripte und ähnliches - ihr seht das alles auf der Seite, geht auf den Link in der Beschreibung, der auch gerade",
+    217,
+    224,
+    2.87,
+    1
+   ],
+   [
+    "gehobener",
+    "ist gehobener als das andere. Aber das ist so ein bisschen die abstrakte Ebene des Ganzen.",
+    158,
+    165,
+    2.85,
+    1
+   ],
+   [
+    "implizieren",
+    "wie \"andeuten\" und \"implizieren\", denn beide Verben bedeuten so ziemlich dasselbe, aber eigentlich",
+    148,
+    155,
+    2.78,
+    1
    ]
   ],
   "tx": "Also, nochmal: Beide Wörter haben in etwa die gleiche Bedeutung, aber- Ja, das ist dasselbe. - Nein, ist es nicht! Hallo, ihr Lieben! Willkommen zu Klugscheißen mit Katja. Dasselbe - das gleiche: Zwei Wörter, die sehr ähnlich sind, aber eben nicht dasselbe. Also, das gleiche - auch verbunden mit dem Verb sich gleichen - bedeutet, dass zwei Dinge sehr ähnlich sind. Vielleicht sind sie sogar gleich, soll heißen: Sie sind ins allem exakt einander entsprechend, aber es sind immer noch zwei verschiedene Dinge. Während \"dasselbe\", verwandt mit \"selbst\", das exakt selbe ist; das soll heißen, es ist ein und dieselbe Sache, ein und derselbe Gegenstand, ein und dieselbe Aussage, et cetera et cetera. Wenn ich also sage: Ich habe das gleiche Fahrrad wie du, dann habe ich ein Fahrrad, das genauso aussieht wie deins, aber ein anderes Fahrrad ist. Wenn ich aber sage: Ich habe dasselbe Fahrrad wie du, dann wird's vielleicht ein bisschen schwieriger, weil das heißt, dass ich exakt das gleiche-- sorry. Jetzt hab ich's selber gemacht. Dass ich exakt dasselbe Fahrrad besitze wie du, also dieses eine Fahrrad. Wir sind zwei Leute, aber es gibt ein Fahrrad, das wir uns teilen - dasselbe. In solchen Dingen, wo es um Objekte geht, ist das ganz easy, weil wenn es nicht ein und dasselbe ist, dann ist es das gleiche. Interessant wird's eher bei so Dingen wie z.B. Namen. Also wenn jemand anderes jetzt auch Katja heißt, ist das dann derselbe oder der gleiche Name? Derselbe. Denn einen Namen kann man sich problemlos teilen. Also, wenn jemand auch Katja heißt, dann ist es derselbe Name - angenommen, es wird gleich geschrieben. Wenn jemand Katya heißt, mit einem y z.B., dann wäre es der gleiche Name, denn es ist ja letztendlich immer noch der gleiche Name, aber er wird anders geschrieben, deswegen ist es nicht derselbe. Kann man noch so auf Wörter anwenden. Also wenn ich z.B. Synonyme habe, dann kann ich sagen: Orange bedeutet dasselbe wie Apfelsine, denn das ist ein seltener Fall von einem perfekten Synonym. Apfelsine und Orange bedeutet exakt, buchstäblich dasselbe. Während z.B. der Dotter und das Eigelb dasselbe Ding bezeichnen, nämlich den gelben Teil vom Ei, haben sie trotzdem nur eine ähnliche Bedeutung, denn im Dotter steckt mehr Bedeutung als im Eigelb. Das Eigelb benutzt man normalerweise nur im Kontext vom Kochen, während der Dotter eben auch ein biologischer Begriff ist, insofern, dass das da ist, wo sich das tatsächliche Küken eben formt. Es wird sogar interessant bei Wörtern wie \"andeuten\" und \"implizieren\", denn beide Verben bedeuten so ziemlich dasselbe, aber eigentlich bedeuten sie nur das gleiche - denn sie werden in unterschiedlichen Kontexten benutzt. Das eine ist gehobener als das andere. Aber das ist so ein bisschen die abstrakte Ebene des Ganzen. Meistens ist das relevant in Kontexten, wo man sagt: \"Ich habe dasselbe!\" und eigentlich meint: \"Ich habe das gleiche.\" Das gleiche heißt: es gleicht sich, es ist sich ähnlich, vielleicht bis hin zu dem Punkt, dass es identisch ist, aber es sind eben zwei verschiedene Dinge, die gleich sind. Und dasselbe geht zurück auf selbst, das heißt ist exakt dasselbe Ding. Warum ist das wichtig? Eigentlich gar nicht, weil: Sie bedeuten ja etwas, was ähnlich genug ist, dass man es so oder so versteht. Außer natürlich in manchen Kontexten, wo es tatsächlich wichtig sein kann. Aber vor allem ist es Klugscheißer-Wissen. Wenn auch ihr gerne klugscheißert, schickt das Video doch jemandem, der den Unterschied noch nicht kennt. Ansonsten abonniert gerne den Kanal und klickt auch auf die Glocke - und schaut mal auf meinem Patreon vorbei. Da unterstützen mich auch schon die ganzen Leute, die ihr hier vorbeifahren seht, und sorgen dafür, dass ich weiter DFE machen kann. Wenn wir auf die Seite geht, seht ihr, was ihr dort für Belohnungen bekommt. Das heißt: Skripte und ähnliches - ihr seht das alles auf der Seite, geht auf den Link in der Beschreibung, der auch gerade in dem Video verlinkt ist. Ich danke allen, die es bereits machen und ein besonderes Dankeschön an diejenigen, die 10 Dollar und mehr pro Episode pledgen! Vielen Dank. Bis zum nächsten Mal - tschüss!",
@@ -69499,7 +71126,7 @@
  "1TTO8eWdE9U": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-16T23:48:57+00:00",
+  "checked": "2026-11-23T05:32:37+00:00",
   "title": "Deutsch lernen mit Podcast: Generation Z und die Arbeitswelt | C1 Deutsch",
   "duration": 2549,
   "published": "20260328",
@@ -69508,6 +71135,7 @@
   "pace": 136.0,
   "rare": 0.0778,
   "var": 0.8775,
+  "cl": null,
   "speech_s": 2528.9,
   "tokens": 5733,
   "kw": [
@@ -69672,6 +71300,88 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "junge",
+    "dass eine Tätigkeit als sinnvoll und wertvoll empfunden wird. Junge Menschen",
+    94,
+    100,
+    5.31,
+    17
+   ],
+   [
+    "begriff",
+    "In der deutschen Sprache beschreibt dieser Begriff das Gleichgewicht zwischen",
+    76,
+    80,
+    4.88,
+    15
+   ],
+   [
+    "arbeitgeber",
+    "wie ökologisch und ethisch ein potenzieller Arbeitgeber handelt. Ein Unternehmen, das",
+    362,
+    368,
+    4.49,
+    9
+   ],
+   [
+    "verantwortung",
+    "lernen, Verantwortung abzugeben und ihren Mitarbeitern mehr Autonomie zuzugestehen.",
+    312,
+    318,
+    4.74,
+    8
+   ],
+   [
+    "augenhöhe",
+    "Führungsebenen. Die Kommunikation findet eher auf Augenhöhe statt. Das ist ein wichtiger Begriff für",
+    272,
+    279,
+    3.7,
+    7
+   ],
+   [
+    "erfordert",
+    "Das erfordert natürlich Offenheit von allen Seiten. Es geht darum, Vorurteile abzubauen. Wir",
+    1031,
+    1037,
+    4.17,
+    6
+   ],
+   [
+    "selbstverwirklichung",
+    "ist die Selbstverwirklichung. Das ist das Bestreben eines Menschen,",
+    148,
+    153,
+    3.05,
+    5
+   ],
+   [
+    "podcasts",
+    "Willkommen zu einer neuen Folge unseres Podcasts. Heute widmen wir uns einem Thema,",
+    0,
+    5,
+    3.41,
+    4
+   ],
+   [
+    "entgrenzung",
+    "Das ist eine berechtigte Sorge. Wir sprechen hier von der Entgrenzung der Arbeit. Das bedeutet, dass",
+    194,
+    201,
+    2.31,
+    5
+   ],
+   [
+    "mentoring",
+    "Coachings oder Mentoring-Programme. Ein Mentor ist eine erfahrene Person,",
+    961,
+    966,
+    2.71,
+    4
+   ]
+  ],
   "tx": "Willkommen zu einer neuen Folge unseres Podcasts. Heute widmen wir uns einem Thema, das in den Medien und in den Büros weltweit für hitzige Debatten sorgt. Es geht um die Generation Z und ihre ganz eigene Sicht auf die Arbeitswelt. Lena, ich freue mich sehr, dass du wieder dabei bist. Gemeinsam wollen wir herausfinden, ob die jungen Talente wirklich so anders ticken als ihre Vorgänger. Hallo Paul. Ich freue mich ebenfalls auf unser Gespräch. Es ist ein faszinierendes Thema, weil es nicht nur um berufliche Aspekte geht, sondern auch viel über den gesellschaftlichen Wandel verrät. Für unsere … effizient arbeiten, aber eben nicht um jeden Preis. Richtig. Das Wort reflektiert ist hier sehr passend. Es bedeutet, dass man über sein eigenes Handeln und seine Einstellungen intensiv nachdenkt. Ein weiterer Aspekt ist die Forderung nach flachen Hierarchien. In einem Unternehmen mit flachen Hierarchien gibt es weniger Führungsebenen. Die Kommunikation findet eher auf Augenhöhe statt. Das ist ein wichtiger Begriff für unsere Lernenden. Auf Augenhöhe zu kommunizieren bedeutet, dass man sich gegenseitig respektiert und als gleichwertige Partner betrachtet, unabhängig von der Position … bei dem sich beide Partner respektvoll und als absolut gleichwertig behandeln, unabhängig von Rang oder Position. Beispielsätze: Ein guter Chef sollte in der Lage sein, auch mit seinen Praktikanten jederzeit auf Augenhöhe zu kommunizieren. In einer gesunden Partnerschaft ist es essenziell, Probleme und Konflikte stets auf Augenhöhe zu kommunizieren. Ausdruck-4: leistungsbereit Bedeutung: Die Eigenschaft einer Person, die motiviert ist, viel zu arbeiten und gute Ergebnisse oder Erfolge zu erzielen. Beispielsätze: Das Unternehmen sucht junge und leistungsbereite Mitarbeiter für das neue … Gehalt vor allem die Unternehmenskultur. Ich höre oft, dass Transparenz und eine offene Feedbackkultur besonders geschätzt werden. Niemand möchte mehr ein ganzes Jahr auf ein Mitarbeitergespräch warten, um zu erfahren, ob die Leistung stimmt. Du hast recht. Kontinuierliches Feedback ist essenziell. Unter Feedback verstehen wir eine Rückmeldung oder eine Beurteilung über das Verhalten oder die Leistung einer Person. Die Generation Z möchte zeitnah wissen, wo sie steht. Sie schätzen konstruktive Kritik, solange sie wertschätzend kommuniziert wird. Ein weiterer Begriff, den unsere Zuhörer … können dies durch klare Zielvereinbarungen und regelmäßigen Austausch unterstützen. Wir sehen auch einen Trend zum Jobsharing. Dabei teilen sich zwei Personen eine Stelle. Das ermöglicht noch mehr Flexibilität, erfordert aber eine exzellente Abstimmung zwischen den Partnern. Jobsharing klingt nach einem zukunftsweisenden Modell, besonders für Menschen mit Familie oder für diejenigen, die nebenbei noch andere Projekte verfolgen möchten. Es zeigt, dass Arbeit individueller wird. Es gibt keine Einheitslösung mehr, die für alle passt. Unternehmen, die individuelle Lösungen anbieten, werden im … wertschätzend aufgenommen. Ausdruck-6: das Schlagwort Bedeutung: Ein Begriff, der eine Idee oder ein Thema sehr prägnant zusammenfasst und deshalb in Diskussionen oft wiederholt wird. Beispielsätze: Digitalisierung ist in der heutigen Wirtschaftspolitik zu einem allgegenwärtigen Schlagwort geworden. Hinter dem Schlagwort \"Flexibilität\" verbergen sich oft sehr unterschiedliche Erwartungen von Chefs und Angestellten. Ausdruck-7: die Mitarbeiterbindung Bedeutung: Die Summe aller Maßnahmen eines Arbeitgebers, um qualifizierte Angestellte langfristig an das Unternehmen zu binden. … hier unterschiedliche Erwartungshaltungen aufeinander. Ein weiterer relevanter Begriff ist die Selbstverwirklichung. Das ist das Bestreben eines Menschen, seine eigenen Talente und Potenziale voll auszuschöpfen. Während frühere Generationen oft Sicherheit und Beständigkeit suchten, strebt die Generation Z nach Flexibilität und persönlicher Entfaltung. Sie möchten ihre Arbeit um ihr Leben herum organisieren, nicht umgekehrt. Flexibilität ist ein gutes Stichwort. Wir sehen das ja auch an der Zunahme von Homeoffice und flexiblen Arbeitszeitmodellen. Die physische Anwesenheit im Büro … Werten verknüpft ist. Man möchte sich mit dem Produkt oder der Dienstleistung identifizieren können. Wir haben nun schon viele Aspekte beleuchtet. Wir haben über die Work-Life-Balance, die Sinnsuche, flache Hierarchien und die Bedeutung von Werten gesprochen. Es ist deutlich geworden, dass die Generation Z die Arbeitswelt nicht ablehnt, sondern sie aktiv mitgestalten und nach ihren Bedürfnissen umformen möchte. Das ist ein spannender Prozess, der uns alle betrifft. Damit sind wir am Ende des ersten Teils unseres Gesprächs angekommen. Bevor wir gleich weitermachen, ist es an der Zeit, … der Älteren lernen. Das ist eine klassische Win-win-Situation. Dennoch gibt es oft Reibungspunkte. Wie kann man diese am besten moderieren? Kommunikation scheint auch hier der Schlüssel zum Erfolg zu sein. Kommunikation ist die Basis von allem. Ein wichtiges Konzept in der modernen Arbeitswelt ist die Diversität oder Vielfalt. Das bezieht sich nicht nur auf das Alter, sondern auch auf das Geschlecht, die Herkunft und unterschiedliche Denkweisen. Ein diverses Team ist oft innovativer. Um Konflikte zu vermeiden, ist die Entwicklung von interkultureller Kompetenz und Empathie wichtig. Empathie … angelangt. Es gibt sicherlich noch viel mehr zu diesem Thema zu sagen. Wie denkt ihr darüber? Gehört ihr selbst zur Generation Z oder arbeitet ihr mit ihr zusammen? Welche Erfahrungen habt ihr im Berufsalltag gemacht? Teilt eure Gedanken und Erlebnisse sehr gerne in den Kommentaren unter diesem Video mit uns. Es ist immer spannend zu sehen, wie unterschiedlich die Perspektiven sein können. Vielen Dank fürs Zuhören und bis zum nächsten Mal. Auf Wiedersehen. Auch von mir ein herzliches Dankeschön für eure Aufmerksamkeit. Wir freuen uns schon auf die nächste Folge mit euch. Auf Wiedersehen.",
   "gist": "s",
   "status": "ok",
@@ -69680,7 +71390,7 @@
  "bTkImYtXAyI": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-16T23:49:02+00:00",
+  "checked": "2026-11-23T05:32:41+00:00",
   "title": "Business German C1 | Dialoge & Fachbegriffe erklärt | Wirtschaftsdeutsch | c1 Deutsch lernen",
   "duration": 1597,
   "published": "20260315",
@@ -69689,6 +71399,7 @@
   "pace": 107.5,
   "rare": 0.1546,
   "var": 0.879,
+  "cl": null,
   "speech_s": 1577.2,
   "tokens": 2826,
   "kw": [
@@ -69853,6 +71564,88 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "unsere",
+    "bringen. Wir müssen unsere Ressourcen auf messbare Leistungsindikatoren konzentrieren.",
+    68,
+    75,
+    5.63,
+    11
+   ],
+   [
+    "diesen",
+    "Ansätze mit diesen quantitativen Anforderungen in Einklang bringen?",
+    85,
+    91,
+    5.71,
+    10
+   ],
+   [
+    "bisherigen",
+    "Die bisherigen Kennzahlen zeigen deutlich, dass rein imagebasierte Werbemaßnahmen nicht den gewünschten kurzfristigen Umsatzanstieg",
+    60,
+    69,
+    4.56,
+    6
+   ],
+   [
+    "kampagne",
+    "Herr Müller hat einen wichtigen Punkt angesprochen. Die Rentabilität der Kampagne",
+    74,
+    80,
+    4.34,
+    6
+   ],
+   [
+    "zielgruppe",
+    "Werbemittel integrieren. So erhalten wir direkte Rückmeldungen der Zielgruppe.",
+    101,
+    108,
+    4.03,
+    5
+   ],
+   [
+    "akzeptanz",
+    "der Akzeptanz der Anwender ab. Ich schlage vor, dass wir am Freitagnachmittag eine zusätzliche,",
+    463,
+    470,
+    3.95,
+    5
+   ],
+   [
+    "anspruchsvolle",
+    "Video präsentieren wir Ihnen drei anspruchsvolle Geschäftsbesprechungen, die Ihnen helfen werden,",
+    11,
+    17,
+    3.53,
+    3
+   ],
+   [
+    "anwender",
+    "der Akzeptanz der Anwender ab. Ich schlage vor, dass wir am Freitagnachmittag eine zusätzliche,",
+    463,
+    470,
+    3.46,
+    3
+   ],
+   [
+    "kundenbindung",
+    "die Werte unserer Produkte authentisch vermittelt und eine langfristige Kundenbindung aufbaut.",
+    55,
+    61,
+    2.91,
+    5
+   ],
+   [
+    "kreislaufwirtschaft",
+    "unterstütze ich diesen Ansatz. Wir müssen die Kreislaufwirtschaft fördern und dürfen",
+    850,
+    856,
+    2.56,
+    5
+   ]
+  ],
   "tx": "Möchten Sie in der deutschen Geschäftswelt souverän und professionell auftreten? Verbessern Sie Ihr Wirtschaftsdeutsch auf C1-Niveau mit unseren realistischen Dialogen. In diesem Video präsentieren wir Ihnen drei anspruchsvolle Geschäftsbesprechungen, die Ihnen helfen werden, komplexe Sachverhalte präzise und überzeugend zu formulieren. Lassen Sie uns direkt beginnen. Im ersten Szenario diskutieren ein Vertriebsleiter, eine Leiterin der Konzeptgestaltung und ein Datenanalyst über die strategische Ausrichtung einer neuen Werbekampagne. Achten Sie auf die Argumentation und die verwendeten … Ergänzend zu den Kaufdaten sollten wir auch die Verweildauer der Kunden auf unseren digitalen Vertriebswegen analysieren. Diese Informationen geben Aufschluss darüber, welche Botschaften tatsächlich wahrgenommen werden. Das ist ein hervorragender Vorschlag. Wenn wir verstehen, welche Inhalte die Aufmerksamkeit der Nutzer fesseln, können wir die neuen Werbemittel wesentlich zielgerichteter konzipieren. Die textliche Ausarbeitung muss die visuelle Ebene perfekt ergänzen. Wir müssen sicherstellen, dass die gesamte Kommunikationsstrategie einheitlich ist. Jede Maßnahme muss auf unser … niedrige Konversionsrate deutet auf Probleme im Verkaufsprozess hin. Im zweiten Dialog geht es um die Einführung eines neuen elektronischen Verwaltungssystems. Eine Leiterin der Datenverarbeitung, ein Betriebsleiter und eine externe Beraterin besprechen die technischen und organisatorischen Herausforderungen der bevorstehenden Umstellung. Die Implementierung des neuen Verwaltungssystems ist für das kommende Wochenende geplant. Wir haben alle vorbereitenden Tests erfolgreich abgeschlossen und die Kapazitäten unserer Zentralrechner entsprechend erweitert. Meine Abteilung hat große Bedenken … wird physisch in Ihrer Abteilung anwesend sein, Herr Wagner. Wir lassen Ihre Mitarbeiter bei der Umstellung nicht allein. Unter diesen Voraussetzungen stimme ich dem Zeitplan für das Wochenende zu. Wir müssen sicherstellen, dass die Produktivität ab Montagmittag wieder das normale Niveau erreicht. Das ist ein realistisches Ziel. Wir werden die Systemleistung und die Rückmeldungen der Nutzer kontinuierlich überwachen und am Montagnachmittag eine erste Auswertung vornehmen. Dieser Dialog zeigt eine professionelle Herangehensweise an Veränderungsprozesse. Durch klare Planung und … abgeschlossen. Die Prototypen bestehen zu einhundert Prozent aus biologisch abbaubaren Polymeren. Die Materialfestigkeit entspricht exakt unseren technischen Anforderungen. Das ist ein hervorragender Fortschritt für unsere Umweltbilanz. Wir müssen jedoch sicherstellen, dass die Lieferkette für diese Polymere unseren strengen ethischen Richtlinien entspricht. Die Rohstoffe dürfen nicht aus Gebieten stammen, in denen wertvolle Lebensräume zerstört werden. Die Beschaffung dieser speziellen Polymere stellt uns vor große Herausforderungen. Die aktuellen Marktpreise für diese … Umständen werde ich die Verhandlungen mit den drei bevorzugten Lieferanten noch diese Woche aufnehmen. Wir benötigen eine verlässliche Kostenbasis für die finale Freigabe der Produktlinie. Diese Diskussion verdeutlicht die komplexe Balance zwischen Innovation, Umweltschutz und Wirtschaftlichkeit. Die gefundene Lösung ist ein hervorragendes Beispiel für konstruktive abteilungsübergreifende Zusammenarbeit. Lassen Sie uns abschließend fünf Fachbegriffe aus diesem Gespräch betrachten. Ausdruck-eins: die Umweltbilanz Bedeutung: Eine systematische Gegenüberstellung der positiven und negativen … Aufmerksamkeit und bis zum nächsten Mal. Auf Wiedersehen! Dialog 1: Wir müssen die Ausrichtung unserer nächsten Werbekampagne festlegen. Unser Hauptziel ist die signifikante Steigerung der Marktanteile im kommenden Quartal. Die visuelle Identität der Marke muss dabei im Vordergrund stehen. Wir benötigen ein Konzept, das die Werte unserer Produkte authentisch vermittelt und eine langfristige Kundenbindung aufbaut. Die bisherigen Kennzahlen zeigen deutlich, dass rein imagebasierte Werbemaßnahmen nicht den gewünschten kurzfristigen Umsatzanstieg bringen. Wir müssen unsere Ressourcen auf … einheitlich ist. Jede Maßnahme muss auf unser zentrales Verkaufsversprechen einzahlen. Lassen Sie uns die ersten Entwürfe in unserer nächsten Sitzung am kommenden Dienstag besprechen. Dialog 2: Die Implementierung des neuen Verwaltungssystems ist für das kommende Wochenende geplant. Wir haben alle vorbereitenden Tests erfolgreich abgeschlossen und die Kapazitäten unserer Zentralrechner entsprechend erweitert. Meine Abteilung hat große Bedenken bezüglich der Systemumstellung. Eine Unterbrechung der Arbeitsabläufe am Montagvormittag würde zu erheblichen Verzögerungen in der … Voraussetzungen stimme ich dem Zeitplan für das Wochenende zu. Wir müssen sicherstellen, dass die Produktivität ab Montagmittag wieder das normale Niveau erreicht. Das ist ein realistisches Ziel. Wir werden die Systemleistung und die Rückmeldungen der Nutzer kontinuierlich überwachen und am Montagnachmittag eine erste Auswertung vornehmen. Dialog 3: Wir haben die Entwicklungsphase für die neuen Gehäusebauteile abgeschlossen. Die Prototypen bestehen zu einhundert Prozent aus biologisch abbaubaren Polymeren. Die Materialfestigkeit entspricht exakt unseren technischen Anforderungen. Das ist … Wände nicht negativ beeinflusst wird, unterstütze ich diesen Ansatz. Wir müssen die Kreislaufwirtschaft fördern und dürfen auf keinen Fall kurzlebige Wegwerfartikel produzieren. Die Lebensdauer bleibt durch die hohe Qualität der biologisch abbaubaren Polymere unverändert. Wir werden eine umfassende Testreihe zur Alterungsbeständigkeit durchführen und Ihnen die Ergebnisse detailliert vorlegen. Unter diesen Umständen werde ich die Verhandlungen mit den drei bevorzugten Lieferanten noch diese Woche aufnehmen. Wir benötigen eine verlässliche Kostenbasis für die finale Freigabe der Produktlinie.",
   "gist": "s",
   "status": "ok",
@@ -69861,7 +71654,7 @@
  "vz9uFk66gPY": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:49:12+00:00",
+  "checked": "2026-11-23T05:35:20+00:00",
   "title": "Learn German Naturally: Walk Through Town 🚶‍♀️| Comprehensible Input",
   "duration": 728,
   "published": "20250829",
@@ -69870,6 +71663,7 @@
   "pace": 82.9,
   "rare": 0.1207,
   "var": 0.806,
+  "cl": null,
   "speech_s": 677.4,
   "tokens": 936,
   "kw": [
@@ -70034,6 +71828,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sieht",
+    "sieht ihr eine Surfschule. Ihr findet gerade ein Surfunterricht",
+    338,
+    349,
+    5.57,
+    4
+   ],
+   [
+    "haus",
+    "Und auf der Insel ist ein Haus.",
+    361,
+    368,
+    5.41,
+    4
+   ],
+   [
+    "seht",
+    "ein Eisladen. Hier seht ihr die",
+    238,
+    248,
+    4.32,
+    4
+   ],
+   [
+    "laufe",
+    "Los geht's. Ich laufe in die Stadt.",
+    24,
+    33,
+    4.66,
+    3
+   ],
+   [
+    "sorten",
+    "verschiedenen Sorten und die Waffeln. Die Waffel und die Waffeln.",
+    241,
+    254,
+    4.02,
+    2
+   ],
+   [
+    "allee",
+    "Das eine süße Allee mit Fänchen.",
+    136,
+    144,
+    3.84,
+    2
+   ],
+   [
+    "möwen",
+    "Eine Kirche. Kannst du die Möwen hören?",
+    267,
+    280,
+    3.07,
+    2
+   ],
+   [
+    "möwe",
+    "Eine Möwe sitzt auf dem Verkehrsschild.",
+    511,
+    520,
+    3.04,
+    2
+   ],
+   [
+    "fischerboot",
+    "Hier fährt gerade ein Fischerboot aus",
+    415,
+    423,
+    2.53,
+    2
+   ],
+   [
+    "hagebutten",
+    "Das hier sind Hagebutten Hagebutten",
+    45,
+    52,
+    2.24,
+    2
+   ]
+  ],
   "tx": "Ich bringe dir die 3000 wichtigsten deutschen Wörter bei, denn mit 3000 deutschen Wörtern verstehst du 95% der gesprochenen deutschen Sprache. Aber wie mit Comprehensible Imput. In jedem Blog zeige ich dir 20 neue deutsche Wörter. Los geht's. Ich laufe in die Stadt. Das ist eine Telefonzelle. Die Telefonzelle. Das hier sind Hagebutten Hagebutten mit denen kann man leckeren Hagebuttenentee machen. Und hier ist ein Brombeerbusch. Die Brombeeren. Die schwarzen Brombeen sind reis und die roten Brombeären noch nicht. Lecker, lecker. Hier fährt ein Doppeldeckerbus. Der Bus und das hier ist ein Surfgeschäft. Wir sind in der Stadt angekommen. Es ist recht viel Luux heute. In dem Namen hinter mir kann man sich eine Süßigkeit intuitive selber zusammenstellen. Inladen gibt es allerhand Dinge für den Strand. Das hier sind die Bodyboards. So einen Windschutz. Sonnenbrillen, Sweatchirts, Eimer, Strandbälle, Strandspielsachen, Sparten, Schwimmflügel und vieles mehr. Taucherbrellen, Schwimmringe, Fischernetze, Fahrzeuge, Wasserschuhe. Das eine süße Allee mit Fänchen. Die Fännchen, die Fänchen wehen im Welt. Ein Schmuckgeschäft. Das Schmuckgeschäft. Der Schmuck. Ketten, Hohringe, Ringe. Eine Brillenladen. Trägst du eine Brille, das Gerüst, die Bäckerei, Straßenmusiker. Hier hängen wunderschöne Blumenkörbe, ein Kaffee, da ist ein Outdoorladen. Da gibt es allerhand Campingzubehör, total süße Kindercampingstühle, Kühltaschen, Neoprenanzüge und vieles mehr. Passt dieses wie überall in Kornw. Lecker. In England gibt es ganz viele Steinhäuser, Tische und Stühle, die Seifenglasen, ein Eisladen. Hier seht ihr die verschiedenen Sorten und die Waffeln. Die Waffel und die Waffeln. Noch mehr Pasties. Habt ihr schon mal ein Pasti gegessen? Wenn ja, was ist eure Lieblingssorte? Das Bütchen. Eine Kirche. Kannst du die Möwen hören? Das heißt, das Meer ist nicht weit. Tada! Und hier ist eine große Wiese. Und hier hinten siehst du das Meer. Die Linie, wo das Meer den Himmel ähm berührt, ist der Horizont. Heute ist es bewölkt und auch etwas regnerisch. Ich glaube, deswegen sind auf diesem großen Platz fast keine Menschen. Die Böwen, das hier ist wahrscheinlich die Utter und das hier sind die zwei kleinen Babymen. Hier am Strand gibt es viel zu sehen. Hier unten in dieser Gruppe sieht ihr eine Surfschule. Ihr findet gerade ein Surfunterricht statt und gleich wird diese Gruppe ins Wasser zu den Wellen gehen und probieren, ob sie surfen können. Und schau mal hier. Hier siehst du eine Insel. Die Insel. Und auf der Insel ist ein Haus. ein Privathaus und um auf dieses Haus zu kommen, müssen die Leute, die da wohne über diese besondere Brücke gehen. Das ist ein mega Haus, oder was meint ihr? Und hier könnt ihr den Hafen sehen. Im Moment ist Eppe. Das heißt, das Meer ist im Moment ziemlich weit draußen, ziemlich weit weg und deswegen ist hier ein sehr langer großer Sandstrand zu sehen. Wenn die Flut kommt, kommt das Wasser bis fast ganz nach vorne hier, wo wo ihr diesen Zaun seht. Und dann ist der komplette Hafen mit Wasser gefüllt. Hier fährt gerade ein Fischerboot aus dem Hafen raus. Im Hafen ist zum Glück noch genug Wasser, dass man gerade so mit dem Boot rausfahren kann. Das Fischerboot. Und hier noch mal in Nahaufnahme die Surfschule, wo die Jungs und Mädels ihren Surfunterricht haben. Im Moment balancieren sie auf dem Surfbard und üben die richtige Schrittstellung. Und hier siehst du die Rettungsschwimmer. Sie haben ein Rettungsfahrzeug, ein Jetski und sie stellen die Fahnen auf, um den sicheren Badeereich zu markieren. Es sieht ganz danach aus, als kommt jetzt die Flut und deswegen müssen sie die Fahnen etwas weiter nach hinten rücken. So, die Surfschule geht jetzt ins Wasser. Jetzt wird's ernst. Hier ist ein richtig süßes Kaffee. Das muss ich unbedingt mal ausprobieren. Sieht richtig toll aus und ist direkt mit Merberkette. Eine Möwe sitzt auf dem Verkehrsschild. Wuh, die Möwe fliegt weg. Wir laufen jetzt zum Meer. Ich überquere gerade die Straße und laufe auf dem Gehweg weiter. Hinter mir sind die Mülltonnen. Das hier ist ein Zau. Der Zaun. Die Mauer wird ihr das Higgehre wieder die Straße. He, ich gehe über die Straße. Wir sind am Strand, das Meer, der Strand. Jetzt fehlt nur noch die Sonne und das gute Wetter. Ah, und hier seht ihr die Serpschule, die gerade ihren Unterricht haben. Hier hat jemand etwas in den Sand geschrieben. Ein Hund spielt mit Al. Ich habe meinen Regenschirm aufgemacht. Es hat ziemlich stark angefangen zu regeln und jetzt gehe ich auch so langsam wieder zurück, denn das Wetter ist einfach nicht so wie erhaupt. Und hier noch mal die Wortzusammenfassung von den nächsten 20 Wörtern, die du heute gelernt hast. Ich laufe in die Stadt. Das ist eine Telefonzelle. Mit denen kann man leckeren Hagebuttenentee machen. Der Innen hinter mir kann man sich eine Süßigkeit in Treelbe zusammenstellen. Das eine süße Allee mit Fchen, ein Schmuckgeschäft und vieles mehr. Hier seht ihr die verschiedenen Sorten. Kannst du die Möwen hören? Und hier ist eine große Wiese. Ich glaube, deswegen sind auf diesem großen Platz fast keine Menschen. Und das hier sind die zwei kleinen Babymen. Und auf der Insel ist ein Haus und deswegen ist hier ein sehr langer großer Sandstrand zu sehen. Im Moment balancieren sie auf dem Surfp. Das muss ich unbedingt mal ausprobieren. Sieht richtig toll aus. Ich überquere gerade die Straße. Wrt ihr das Hey? Es hat ziemlich stark angefangen zu regeln. Falls du das Video mit den ersten 20 Wörtern verpasst hast, kannst du das hier als nächstes schauen. Und wenn dir dieses Video gefallen hat, vergiss nicht einen Daumen hoch zu geben und meinen Kanal zu abonnieren, damit du das nächste Video nicht verpasst und die wichtigsten 3000 Wörter auf Deutsch mit mir in meinen Vlogs lernst. Bis bald.",
   "gist": "w",
   "status": "ok",
@@ -70042,7 +71918,7 @@
  "Kx2uBK-2mMI": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-16T23:49:15+00:00",
+  "checked": "2026-11-23T05:35:24+00:00",
   "title": "Learn German Naturally: Catch a Mouse & Learn German 🐭 | Comprehensible Input",
   "duration": 914,
   "published": "20250804",
@@ -70051,6 +71927,7 @@
   "pace": 73.9,
   "rare": 0.0951,
   "var": 0.7517,
+  "cl": null,
   "speech_s": 871.5,
   "tokens": 1073,
   "kw": [
@@ -70213,6 +72090,88 @@
     567,
     2.13,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "los",
+    "Los geht's. Ich habe gerade etwas rascheln hören.",
+    44,
+    60,
+    5.26,
+    4
+   ],
+   [
+    "gehe",
+    "Ich gehe ins Internet. Ich",
+    131,
+    141,
+    4.95,
+    4
+   ],
+   [
+    "zuhause",
+    "Dein neues Zuhause, Micha. Der Moment ist gekommen.",
+    761,
+    771,
+    4.77,
+    3
+   ],
+   [
+    "garten",
+    "Eine Maus lebt bei uns im Garten.",
+    62,
+    75,
+    4.73,
+    3
+   ],
+   [
+    "abwarten",
+    "jetzt heißt es abwarten. Auf Deutsch sagen wir oft abwarten und",
+    416,
+    426,
+    4.14,
+    2
+   ],
+   [
+    "ziehe",
+    "Ich ziehe meine Schuhe an. bzw. ich",
+    502,
+    511,
+    4.09,
+    2
+   ],
+   [
+    "rampe",
+    "und das rote hier ist eine Rampe.",
+    327,
+    341,
+    3.47,
+    3
+   ],
+   [
+    "köter",
+    "reinlegen. Das nennt man Köter. Der",
+    317,
+    325,
+    3.11,
+    3
+   ],
+   [
+    "angeschnallt",
+    "bin angeschnallt. Das ist der Gurt.",
+    679,
+    689,
+    2.93,
+    2
+   ],
+   [
+    "reinlegen",
+    "reinlegen. Das nennt man Köter. Der",
+    317,
+    325,
+    2.77,
+    2
    ]
   ],
   "tx": "Mit 3000 deutschen Wörtern verstehst du 95% der gesprochenen deutschen Sprache. Keine Sorge, ich bringe dir die 3000 wichtigsten deutschen Wörter bei. Wie mit Comprehensible Input. Ein 10 Minuten Vlog ist viermal so effektiv wie eine Stunde langweiliger Deutschunterricht. Also schaue dieses Video bis zum Ende. Ich zeige dir heute 20 wichtige Wörter. Los geht's. Ich habe gerade etwas rascheln hören. Ich glaube, es war eine Maus. Hm. Eine Maus lebt bei uns im Garten. Direkt neben unserem Garten ist unsere Garage. Die Garage. Ich möchte nicht, dass eine Maus in meine Garage kommt, denn in meiner … viele Boxen mit Kleidung, Deko und vieles mehr. Ich möchte nicht, dass eine Maus meine Dinge zerstört. Also müssen wir die Maus fangen. Aber wie? Ich öffne meinen Laptop. Ich starte meinen Laptop. Ich gehe ins Internet. Ich suche nach einer Mausefalle. Mausefalle. Ich schaue mir die Ergebnisse an. Ich scrolle. Scrollen. Das ist die Maus und ich scrolle. Mit der Maus scrollen und klicken. Klicken und scrollen. Es gibt viele verschiedene Mausefallen. Manche Mausen fallen, schnappen die Maus und die Maus ist tot. Ich möchte das nicht. Ich möchte eine humane Mausefalle, wo die Maus am Leben … kann. Hier habe ich eine gute Mausefalle gefunden. Sie hat Luftlöcher. Die Maus wird also gefangen, aber lebt noch. Und dann kann ich die Maus freilassen. Ich bestelle diese Mausefalle. Ich warte. Ich drehe Däumchen. Däumchen drehen. Es hat geklingelt. Ein Paket ist da. Das Paket. Ich öffne das Paket. Die Mausefalle. Die Maus und die Mausefalle. Ich öffne die Box. Hier ist eine Klapptür. Die Klapptür klappt man nach oben und sie bleibt an diesem Plastik hängen. Auf dieser Seite ist eine andere Tür zum Hochziehen, eine Schiebetür. Und hier kann man das Essen für die Maus reinlegen. … Man macht die Schiebetür zu und das rote hier ist eine Rampe. Die Rampe. Die Maus läuft auf die Rampe und die Klapptür fällt zu, dann ist die Maus gefangen. Die Maus kann nicht mehr raus. Die Schiebetür ist zu und die Klapptür ist zu, aber die Maus lebt, sie ist nicht tot. Und jetzt machen wir den Köter, also das Futter für die Maus hier rein. Hier habe ich Erdnussbutter. Die Erdnussbutter riecht sehr stark und schmeckt Mäusen sehr gut. Ich schmiere die Erdnussbutter hier drauf. So. Und ich schließe die Schiebetür. Und jetzt bringen wir die Mausefalle raus. Die Mausefalle ist jetzt … Auf Deutsch sagen wir oft abwarten und Tee trinken. Ich werde die Falle alle paar Stunden einmal checken und schauen, ob eine Maus drinne ist. Mittlerweile ist es Mittag und schon sehr heiß geworden, aber in der Falle ist noch nichts. Mittlerweile ist es Abend und es war immer noch nichts in der Mausefalle. Ich frage mich, ob es vielleicht gar keine Maus war, dass ich rascheln gehört habe, aber wir werden sehen. Ich gehe jetzt schlafen und morgen schauen wir noch einmal. Gute Nacht. So, guten Morgen. Es ist jetzt der nächste Tag und wir gehen jetzt schauen, ob in der Falle eine Maus … Los geht's. Ich öffne die Terrassentür. Ich ziehe meine Schuhe an. bzw. ich ziehe meine Schlappen an und jetzt werden wir leise sein, damit wir die Maus nicht erschrecken, falls sie da ist. Tür zu. Oh mein Gott, da ist tatsächlich eine Maus. Kannst du sie sehen? Hi, kleine Maus. Ist die süß? Die putzt sich. Dann werden wir die Maus jetzt vorsichtig mit dem Käfig rausholen. Ich kann es nicht fassen. Es hat tatsächlich geklappt. Chat GPT hat gesagt, Erdnussbutter wäre das perfekte Lebensmittel, um eine Maus zu fangen. Und tja, GPT hatte recht. Okay, los geht's, bevor die Maus zu … see. Hi. Oh mein Gott, wie Mat. Oh, ich glaube, wir müssen ihr einen Namen geben. Wie wäre es mit Micha? Micha. Okay, ich versuch sie euch noch mal zu zeigen. Kennt ihr das glauben? Wir haben tatsächlich eine Maus gefangen und jetzt bringen wir die Maus an neuen Ort. Come? Ich schließe die Tür mit meinem Schlüssel ab. So, wir fahren jetzt Auto. Ich habe GT gefragt, wie weit man eine Maus von zu Hause aussetzen muss, damit sie nicht mehr nach Hause findet. Und Jack GPT hat gesagt, zwischen 3 bis 5 km. Deswegen fahren wir jetzt weit weit vor zu Hause weg, damit die Maus auf keinen Fall mehr … schon eine gute Idee, wo wir die Maus am besten aussetzen können, denn dort gibt es ein schönes großes Feld und da wird es in der Maus bestimmt gut gehen. Ich bin angeschnallt. Das ist der Gurt. Der Gurt. Ich schnalle mich an. Ich habe mich angeschnallt oder ich werde mich anschnallen. Wir fahren auf einen Parkplatz. Der Parkplatz. Wir sind da. Wir stehen auf einem Hüg und mein Auto ist sehr schief. Hier siehst du jetzt ein wunderschönes großes Feld und in diesem Feld werden wir jetzt Micha freilassen. Los geht's. Ich öffne die Autotür. Ich steige aus. Die Tür fällt zu. Oh, es ist sehr … und schaue mal nach Micha. Dein neues Zuhause, Micha. Der Moment ist gekommen. Ciao. Ciao, Micha, schön warst, dass du bei uns warst. Hab ein schönes Leben. Okay, die Tür ist auf. Micha ist jetzt frei. Mach's gut, Micha. Oh, Micha istst schon was. Oh, lecker. Und weg ist er. Oh. Oh, viel Spaß in deinem neuen Zuhause. Micha hat sein neues Zuhause und jetzt fahren wir wieder zurück. Und hier sind noch mal alle 20 Wörter, die du heute gelernt hast. Ich habe gerade etwas Rascheln hören. Direkt neben unserem Garten ist unsere Garage. Ich möchte nicht, dass eine Maus meine Dinge zerstört. Ich … Internet. Ich suche nach einer Mausefalle. Scrollen und klicken. Sie hat Luftlöcher. Ich bestelle diese Mausefalle. Ein Paket ist da und hier kann man das Essen für die Maus reinlegen. Das Futter für die Maus. Ich gehe jetzt schlafen. Ich schließe die Tür mit meinem Schlüssel ab. Wir fahren jetzt Auto, denn dort gibt es ein schönes großes Feld. Wir fahren auf einen Parkplatz. Micha ist jetzt frei und jetzt fahren wir wieder zurück. Und wie immer, vergiss nicht zu liken und abonnieren, damit du kein Video verpasst und die 3000 wichtigsten Wörter in meinen Vlogs lernst. Bis bald. Ciao. Ciao.",
