@@ -21306,7 +21306,7 @@
  "8W1TiPjMQSs": {
   "channel": "Norwegian Input",
   "lang": "no",
-  "checked": "2026-11-12T04:42:57+00:00",
+  "checked": "2026-11-24T19:32:48+00:00",
   "title": "Typical Norwegian illustrated by AI - Intermediate Norwegian",
   "duration": 402,
   "published": "20250402",
@@ -21315,6 +21315,7 @@
   "pace": 80.0,
   "rare": 0.0358,
   "var": 0.6668,
+  "cl": 0.0472,
   "speech_s": 397.3,
   "tokens": 530,
   "kw": [
@@ -21415,16 +21416,137 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "alene",
+    "sitte på bussen alene og ikke bli",
+    288,
+    298,
+    5.25,
+    5
+   ],
+   [
+    "sitte",
+    "sitte på bussen alene og ikke bli",
+    288,
+    298,
+    5.09,
+    5
+   ],
+   [
+    "prate",
+    "ikke prate så mye heller sitte og høre",
+    308,
+    318,
+    4.61,
+    2
+   ],
+   [
+    "kunstig",
+    "lage bilder med kunstig intelligens a i",
+    17,
+    29,
+    4.2,
+    2
+   ],
+   [
+    "hjelm",
+    "en mann med hjelm hjelm og",
+    192,
+    203,
+    3.84,
+    2
+   ],
+   [
+    "forstyrret",
+    "forstyrret nordmen liker å sitte på bussen eller",
+    294,
+    303,
+    3.77,
+    2
+   ],
+   [
+    "input",
+    "meg Erik i Norwegian input I dag skal",
+    5,
+    16,
+    3.13,
+    1
+   ],
+   [
+    "passasjeren",
+    "passasjeren blir ikke forstyrret av andre som prater på denne bussen her Hun",
+    385,
+    399,
+    3.11,
+    1
+   ],
+   [
+    "intelligensen",
+    "med så er det den kunstige intelligensen",
+    78,
+    88,
+    3.04,
+    1
+   ],
+   [
+    "bussjåfør",
+    "bussen en bussjåfør og en passasjer som",
+    377,
+    386,
+    2.99,
+    1
+   ],
+   [
+    "hopping",
+    "hopping det er typisk norsk en laks som hopper på",
+    158,
+    174,
+    2.88,
+    1
+   ],
+   [
+    "rarere",
+    "ord Det var et enda rarere bilde det var",
+    234,
+    241,
+    2.55,
+    1
+   ],
+   [
+    "skihopping",
+    "skihopping Ski hopping det er typisk",
+    155,
+    169,
+    2.35,
+    1
+   ],
+   [
+    "forstyrr",
+    "IG alene eh uten å bli forstyrr av andre",
+    304,
+    315,
+    2.34,
+    1
+   ],
+   [
+    "skia",
+    "Ski skia er borte Hm og det er",
+    246,
+    257,
+    2.03,
+    1
+   ]
+  ],
   "tx": "Hallo velkommen til en ny episode med meg Erik i Norwegian input I dag skal jeg prøve noe nytt Jeg skal lage bilder med kunstig intelligens a i eh om ting som er typisk norsk eller typisk i Norge Det vil si det som er vanlig i Norge det man pleier å gjøre eller kan forvente å se når man er i Norge Er du klar Jeg er i hvert fall GL La oss se for å få kunstig intelligens til å lage bilder som er typisk norsk Må jeg skrive hva jeg vil at den skal ha med i bildene hva som skal være med så er det den kunstige intelligensen som tolker eller bestemmer hva som skal være med i bildet og lager et bilde som passer med det jeg har skrevet inn første bildet har jeg bare skriver norsk flagg og det ser sånn ut enkelt og greit Skal vi prøve noe litt eh mer spennende Jeg prøver å skrive noe som er typisk norsk hm Hva er typisk norsk jo Laks er typisk norsk mange kjenner norsk laks og spise laks fisken laks jeg skriver laks Er det noe annet som er typisk norsk som kan passe i det bildet m jo skihopping Ski hopping det er typisk norsk en laks som hopper på ski Det høres rart ut og morsomt ut det prøver vi laks som hopper på ski det prøver vi nå så får vi se hva det blir Oi det var et rart bilde Det er en mann med hjelm hjelm og skibriller han har på seg ski og det er en stor en stor laks Hm Det er ikke akkurat Laksen som hopper på ski men en mann som hopper på ski med en stor laks Vi prøver en gang til det var et litt rart bilde med samme ord Det var et enda rarere bilde det var rart fisken Laksen er stor og så har den ingen Ski skia er borte Hm og det er en mann opp oppå fisken oppå Laksen Ok det var ikke så lett for kuns intelligens å lage et bilde med en laks som hopper på ski Vi prøver noe annet noe annet som er typisk norsk hm Hva kan det være ja å sitte på bussen alene og ikke bli forstyrret nordmen liker å sitte på bussen eller toget eh alene IG alene eh uten å bli forstyrr av andre ikke prate så mye heller sitte og høre på musikk eller lese en bok og ikke sitte å prate med Naboene ved siden av OK vi prøver det eh sitte alene på bussen Skal vi se Ja det er bilde av en buss som er nesten tom Det sitter ingen på det setet her Det sitter ingen på det setet her Det sitter ingen på dette setet der Der sitter det en person og der sitter det en person og det er Bussjåføren han som kjører bussen så det er bare to personer på bussen en bussjåfør og en passasjer som sitter på passasjeren blir ikke forstyrret av andre som prater på denne bussen her Hun er nesten helt alene bare Bussjåføren som kjører bussen",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0472
+  "src": "auto"
  },
  "l_4SipBgl54": {
   "channel": "To Understand Norwegian",
   "lang": "no",
-  "checked": "2026-11-12T04:43:29+00:00",
+  "checked": "2026-11-24T19:33:25+00:00",
   "title": "Mikkel Gets Lost, Part 2 - Supereasy Norwegian",
   "duration": 386,
   "published": "20251101",
@@ -21433,6 +21555,7 @@
   "pace": 88.4,
   "rare": 0.0654,
   "var": 0.8163,
+  "cl": 0.0283,
   "speech_s": 384.2,
   "tokens": 566,
   "kw": [
@@ -21581,11 +21704,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kjenner",
+    "plutselig kjenner Mikkel en kjent lukt.",
+    63,
+    73,
+    5.49,
+    4
+   ],
+   [
+    "bort",
+    "Mikkel går seg bort. Del to.",
+    25,
+    35,
+    5.46,
+    4
+   ],
+   [
+    "onsdag",
+    "hjemsel med i parken på onsdag.",
+    72,
+    80,
+    4.6,
+    2
+   ],
+   [
+    "lukter",
+    "Det var mange lukter og lyder. Men",
+    59,
+    69,
+    4.59,
+    2
+   ],
+   [
+    "lukt",
+    "plutselig kjenner Mikkel en kjent lukt.",
+    63,
+    73,
+    3.95,
+    2
+   ],
+   [
+    "maske",
+    "og en gutt med kappe og maske som satt i",
+    140,
+    147,
+    3.89,
+    2
+   ],
+   [
+    "bakeriet",
+    "Han satt utenfor bakeriet og så seg",
+    36,
+    45,
+    3.05,
+    2
+   ],
+   [
+    "these",
+    "watching these videos right here. Mikkel går seg bort. Del to.",
+    17,
+    35,
+    3.58,
+    1
+   ],
+   [
+    "videos",
+    "watching these videos right here. Mikkel går seg bort. Del to.",
+    17,
+    35,
+    2.87,
+    1
+   ],
+   [
+    "watching",
+    "watching these videos right here. Mikkel går seg bort. Del to.",
+    17,
+    35,
+    2.51,
+    1
+   ]
+  ],
   "tx": "Hei and welcome to this video series called Easy Stories in Easy Norwegian. If you a complete beginner to the Norwegian language, start out by watching these videos right here. Mikkel går seg bort. Del to. Mikkel har gått seg bort og finner ikke veien hjem. Han satt utenfor bakeriet og så seg rundt. Han visste ikke hvilken vei han skulle gå. Stakker Lukas, tenkte Mikkel. Han er nok kjempelei seg for at jeg er borte. Tenk om han gråter. Det var mange lukter og lyder. Men plutselig kjenner Mikkel en kjent lukt. Det var Leon, katten han hadde lekt hjemsel med i parken på onsdag. Leon hadde sittet på en mur og sett Mikkel gå forbi. \"Hei Mikkel\", sa Leon. og hoppet ned foran han. Hva gjør du her alene? Jeg gikk ut gjennom porten i hagen, men nå vet jeg ikke hvordan jeg skal komme meg hjem igjen, svarte Mikkel og logret. Leon strakte seg og tenkte. Så sa han, \"Ikke noe problem. Jeg kjenner nabolaget godt. Jeg kan vise deg veien. Mikkel ble glad og loggret enda mer. De begynte å gå. Leon gikk foran, mens Mikkel fulgte etter med nesa i bakken. På veien møtte de en due, et par barn på sparkesykkel og en gutt med kappe og maske som satt i et tre. \"Nå er vi nærme\", sa Leon og pekte mot et hus. Mikkel kjente igjen lukta. Han var hjemme. Men hvor er Lukas? Stakker Lukas som sitter inne og gråter. Mikkel sa takk til Leon og gikk inn porten til hagen og døren til huset. Lukas var på vei ned trappene. Han sa: \"God morgen, Mikkel. Jeg våknet nå. Har du også akkurat stått opp? La oss høre fortellingen en gang til uten bilder denne gangen. Hvor mye forstår du? Mikkel går seg bort. Del to. Mikkel har gått seg bort og finner ikke veien hjem. Han satt utenfor bakeriet og så seg rundt. Han visste ikke hvilken vei han skulle gå. Stakker Lukas, tenkte Mikkel. Han er nok kjempelei seg for at jeg er borte. Tenk om han gråter. Det var mange lukter og lyder. Men plutselig kjenner Mikkel en kjent lukt. Det var Leon, katten han hadde lekt hjemsel med i parken på onsdag. Leon hadde sittet på en mur og sett Mikkel gå forbi. \"Hei, Mikkel\", sa Leon og hoppet ned foran ham. \"Hva gjør du her alene?\" Jeg gikk ut gjennom porten i hagen, men nå vet jeg ikke hvordan jeg skal komme meg hjem igjen svarte Mikkel og loggret. Leon strakte seg og tenkte. Så sa han, \"Ikke noe problem. Jeg kjenner nabolaget godt. Jeg kan vise deg veien.\" Mikkel ble glad og loggeret enda mer. De begynte å gå. Leon gikk foran, mens Mikkel fulgte etter med nesa i bakken. På veien møtte de en due, et par barn på sparkesykkel og en gutt med kappe og maske som satt i et tre. Nå er vi nærme, sa Leon, og pekte mot et hus. Mikkel kjente igjen lukta. Han var hjemme. Men hvor er Lukas? Stakker Lukas som sitter inne og gråter. Mikkel sa takk til Leon og gikk inn porten til hagen og døren til huset. Lukas var på vei ned trappene. Han sa: \"God morgen, Mikkel. Jeg våknet nå. Har du også akkurat stått opp? Sjekk ut kanalen for enda flere videoer slik at du kan få masse norsk innput.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0283
+  "src": "auto"
  },
  "XWwZiF3rDsU": {
   "channel": "To Understand Norwegian",
@@ -22785,7 +22989,7 @@
  "g_RtZR7jt8M": {
   "channel": "Learn Norwegian Now! (Lær Norsk Nå)",
   "lang": "no",
-  "checked": "2026-11-12T06:00:14+00:00",
+  "checked": "2026-11-24T19:30:40+00:00",
   "title": "News in Slow Norwegian: Chinese or Russian Sabotage in the Baltic Sea?",
   "duration": 363,
   "published": "20241122",
@@ -22794,6 +22998,7 @@
   "pace": 115.8,
   "rare": 0.0478,
   "var": 0.7499,
+  "cl": 0.0695,
   "speech_s": 358.0,
   "tokens": 691,
   "kw": [
@@ -22926,11 +23131,124 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "land",
+    "Nemlig i Østersjøen, altså sjøen som ligger mellom land som Sverige,",
+    10,
+    19,
+    5.55,
+    4
+   ],
+   [
+    "krig",
+    "Det er ofte noe man gjør i krig. Men i hybridkrig gjør man sånne ting,",
+    251,
+    259,
+    5.01,
+    4
+   ],
+   [
+    "bevis",
+    "Hvis man ikke finner noen bevis, noen tydelige bevis, så kan man faktisk ikke vite sikkert hvem som står bak.",
+    290,
+    301,
+    4.77,
+    2
+   ],
+   [
+    "sånne",
+    "å kutte infrastruktur, å kutte sånne kabler eller annen infrastruktur, å ødelegge det er en krigshandling.",
+    242,
+    252,
+    4.74,
+    2
+   ],
+   [
+    "uhell",
+    "Det er sjelden at man vet uhell kutter to slike kabler.",
+    74,
+    81,
+    4.14,
+    2
+   ],
+   [
+    "oppsiktsvekkende",
+    "Det er faktisk oppsiktsvekkende, som man sier. Altså at det vekker oppmerksomheten vår.",
+    145,
+    152,
+    3.94,
+    2
+   ],
+   [
+    "kabelen",
+    "De ligger på havbunnen, og så graver du 1,5-3 m og legger kabelen",
+    88,
+    96,
+    3.56,
+    1
+   ],
+   [
+    "kystvakten",
+    "Og dette skipet tok den danske kystvakten, altså danske båter, tok inn i land for å etterforske mer hva som har skjedd.",
+    178,
+    193,
+    3.53,
+    1
+   ],
+   [
+    "missiler",
+    "Joe Biden godkjente nettopp at Ukraina kan bruke missiler inn på russisk territorium.",
+    204,
+    212,
+    3.43,
+    1
+   ],
+   [
+    "lasteskip",
+    "Noe annet som er oppsiktsvekkende er at et kinesisk skip, et kinesisk lasteskip, ble sett i området der kablene ble kappet.",
+    156,
+    170,
+    2.95,
+    1
+   ],
+   [
+    "kutta",
+    "Nemlig at det er to kabler som har blitt kutta. Ikke bare én, men to.",
+    69,
+    75,
+    2.78,
+    1
+   ],
+   [
+    "fastland",
+    "For eksempel ble en kabel kuttet mellom Norges fastland og Svalbard oppi nord.",
+    311,
+    318,
+    2.59,
+    1
+   ],
+   [
+    "hevnaksjon",
+    "Så, kan det være en hevnaksjon? Det er mange spekulasjoner.",
+    211,
+    217,
+    2.48,
+    1
+   ],
+   [
+    "fremtida",
+    "Men det er en etterforskning som er på gang nå, så kanskje vi får vite det i fremtida? Hvem vet.",
+    339,
+    348,
+    2.47,
+    1
+   ]
+  ],
   "tx": "Hei og velkommen til en ny episode. I denne episoden skal vi snakke om noe som skjedde sist søndag. Nemlig i Østersjøen, altså sjøen som ligger mellom land som Sverige, de baltiske landene, Russland, Tyskland, Danmark. Så, en veldig sjø for mange europeiske land. på søndag ble to underjordiske kabler kuttet, to internettkabler, en som gikk mellom Sverige og Litauen. Og en internettkabel som gikk mellom Tyskland og Finland. Greit. To kabler har blitt kuttet. Hva skyldes dette? Hvem har gjort det? Eller har noen gjort det i det hele tatt? Har det vært en ulykke? Vi vet ikke. Men det er mye som tyder på, altså som viser at det kan ha vært sabotasje. Nemlig at det er to kabler som har blitt kutta. Ikke bare én, men to. Det er sjelden at man vet uhell kutter to slike kabler. Disse kablene, de blir ofte gravd ned under bakken. De ligger på havbunnen, og så graver du 1,5-3 m og legger kabelen under, på en måte, jorda på bunnen av sjøen. Det kan skje ulykker, for eksempel at et anker, altså båten har et anker som den tar ned for å ligge stille, det er et anker som slippes ned. Er man uheldig, kan det kutte en kabel. Det skjer av og til. Det kan også være trålere, altså fiskeaktivitet, som har store, store nett som går på bunnen av sjøen, som ved et uhell kutter en kabel. Det kan også skje. Men det som er så rart, er at her er to kabler kuttet på to forskjellige steder på samme tid. Det er ikke veldig normalt. Det er veldig unormalt. Det er faktisk oppsiktsvekkende, som man sier. Altså at det vekker oppmerksomheten vår. Oi, dette kan ikke være tilfeldig. Noe annet som er oppsiktsvekkende er at et kinesisk skip, et kinesisk lasteskip, ble sett i området der kablene ble kappet. Så rett etter at man oppdaget at kablene var kappet, så så man et kinesisk skip. Og dette skipet tok den danske kystvakten, altså danske båter, tok inn i land for å etterforske mer hva som har skjedd. Hvem står bak? Står Kina bak? Noen peker på Russland, selvfølgelig, siden europeiske land har sanksjoner mot Russland. Joe Biden godkjente nettopp at Ukraina kan bruke missiler inn på russisk territorium. Så, kan det være en hevnaksjon? Det er mange spekulasjoner. Men til syvende og sist så vet vi ikke. Vi vet ikke hva som har skjedd. Vi kan ikke si med sikkerhet. Men at det har vært sabotasje, er ganske sannsynlig. Greit. Dette kalles ofte for hybridkrigføring. Altså at du utfører sabotasje, som er en krigshandling, å kutte infrastruktur, å kutte sånne kabler eller annen infrastruktur, å ødelegge det er en krigshandling. Det er ofte noe man gjør i krig. Men i hybridkrig gjør man sånne ting, man gjør sabotasje, man gjør ting som er vanlig i krig, men uten at landet er offisielt i krig, uten at man egentlig er i en krig mot hverandre. Dette har blitt vanligere. Russland driver mye med det. Og det er jo derfor man nå tenker at Russland kan stå bak dette. Men det som også er typisk for hybridkrigføring er at ingen sier noe. Hvis man ikke finner noen bevis, noen tydelige bevis, så kan man faktisk ikke vite sikkert hvem som står bak. Vi lever i ei spennende tid. Dette kan selvsagt skje med Norge også. Det har kanskje skjedd med Norge flere ganger. For eksempel ble en kabel kuttet mellom Norges fastland og Svalbard oppi nord. Da tenkte man også: Er dette en ulykke, eller er det sabotasje fra Russland, for eksempel? Man vet ikke. Jeg tror aldri vi fant ut hvem det var. Det kan også være at vi aldri vil finne ut med sikkerhet hvem som kappet av disse to kablene i Østersjøen. Men det er en etterforskning som er på gang nå, så kanskje vi får vite det i fremtida? Hvem vet. Men mange av disse sakene blir aldri oppklart. Altså, man finner aldri ut hvem som egentlig står bak. Greit. Det var alt for denne videoen. Jeg håper å se dere i neste video. Ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0695
+  "src": "cc"
  },
  "euG2PwNXsgY": {
   "channel": "To Understand Norwegian",
@@ -23109,7 +23427,7 @@
  "Kaq3bdUUp7k": {
   "channel": "Ett Lite Bildeglimt",
   "lang": "no",
-  "checked": "2026-11-12T06:13:13+00:00",
+  "checked": "2026-11-24T20:31:37+00:00",
   "title": "#9: Å mele sin egen kake (Norwegian Idioms)",
   "duration": 166,
   "published": "20230701",
@@ -23118,6 +23436,7 @@
   "pace": 160.4,
   "rare": 0.0231,
   "var": 0.6803,
+  "cl": 0.0624,
   "speech_s": 162.0,
   "tokens": 433,
   "kw": [
@@ -23234,11 +23553,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "høres",
+    "Når jeg først hører det så høres det",
+    9,
+    12,
+    5.19,
+    2
+   ],
+   [
+    "viktig",
+    "gjorde kanskje mer av dette selv, så er det jo viktig å ikke bare lage ting for",
+    90,
+    97,
+    5.67,
+    1
+   ],
+   [
+    "regner",
+    "Så jeg regner med at det er mye som blir importert, så mele sin egen kake.",
+    155,
+    161,
+    4.76,
+    1
+   ],
+   [
+    "usikker",
+    "Denne. Er litt mer usikker på.",
+    7,
+    10,
+    4.76,
+    1
+   ],
+   [
+    "korn",
+    "var det de hadde et eller annet slags korn, men den var ikke så god.",
+    140,
+    145,
+    4.0,
+    1
+   ],
+   [
+    "varmere",
+    "Det er jo varmere og det er mer sånn forskjellig hvete og havre og sånn.",
+    131,
+    137,
+    3.96,
+    1
+   ],
+   [
+    "bursdagen",
+    "bursdagen til noen man spiser kake til dessert.",
+    53,
+    56,
+    3.95,
+    1
+   ],
+   [
+    "kaker",
+    "igjen, sånn at de andre også kan lage sine egne kaker når man mener noe.",
+    79,
+    87,
+    3.85,
+    1
+   ],
+   [
+    "havre",
+    "Det er jo varmere og det er mer sånn forskjellig hvete og havre og sånn.",
+    131,
+    137,
+    3.58,
+    1
+   ],
+   [
+    "høstet",
+    "Så om man har hvete som man har høstet,",
+    32,
+    36,
+    3.43,
+    1
+   ],
+   [
+    "bygdene",
+    "Men her i bygdene på vestlandet så",
+    136,
+    141,
+    3.28,
+    1
+   ],
+   [
+    "melet",
+    "og ta melet selv til sin egen kake først, og ikke la de andre ikke la det være",
+    73,
+    80,
+    2.83,
+    1
+   ],
+   [
+    "stråene",
+    "og så har man fjernet de hvete kornene fra de stråene som de har vokst på.",
+    35,
+    42,
+    2.04,
+    1
+   ]
+  ],
   "tx": "Har du hørt uttrykket å mele sin egen kake? Denne. Er litt mer usikker på. Når jeg først hører det så høres det nesten positivt ut, for man skal jo lage alt fra bunnen av og man skal gjøre alt selv og liksom Så det høres positivt ut, men jeg vet at det ikke er det da, men å male det jo, og at du tar kornet, og så tar du to steiner eller det mellom to steiner og gjør det om til mel. Så om man har hvete som man har høstet, og så har man fjernet de hvete kornene fra de stråene som de har vokst på. Og så tar du bare kornene og lager mel så det er mel mele sin egen kake og kake. Det er kanskje enkelt, det er en kake Man baker kake til bursdagen til noen man spiser kake til dessert. En kake er en god ting så og så trenger man mel og sukker og egg og forskjellig for å lage en kake. Så å mele sin egen kake. Det er ikke en god ting. Det er å være egoistisk og ta melet selv til sin egen kake først, og ikke la de andre ikke la det være igjen, sånn at de andre også kan lage sine egne kaker når man mener noe. Så. I gamle dager holdt jeg på å si Når man gjorde kanskje mer av dette selv, så er det jo viktig å ikke bare lage ting for seg selv, men for hele familien eller for andre. Og og sannsynligvis så kommer uttrykket fra en tid hvor det var vanskeligere å få tak i mel. Kanskje at for det var jo altså Norge er ikke et land hvor det gror veldig lett, nei, så jordbruk i Norge var ofte mye mer basert på på dyr. Ja enn på ja, hvertfall det. Ja, det kommer kanskje litt an på hvor i Norge man var på mer Østlandet, så var det. Det er jo varmere og det er mer sånn forskjellig hvete og havre og sånn. Men her i bygdene på vestlandet så var det de hadde et eller annet slags korn, men den var ikke så god. De dyrker ikke det kornet nå lenger fordi det det er ikke. Det er ikke verdt det når man får mye bedre kvalitet på Østlandet, ja, eller ved å importere. Så jeg regner med at det er mye som blir importert, så mele sin egen kake. Da er man. Da tenker man bare på seg selv og gjør ting for seg selv og ikke for andre.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0624
+  "src": "cc"
  },
  "oI9Z5BD8tps": {
   "channel": "Norwegian Teacher - Karin",
@@ -24942,7 +25366,7 @@
  "8gI6UmauAxs": {
   "channel": "Norwegian Teacher - Karin",
   "lang": "no",
-  "checked": "2026-11-12T15:52:38+00:00",
+  "checked": "2026-11-24T20:34:22+00:00",
   "title": "Julevlogg 2 - Juletre og Ribbe",
   "duration": 425,
   "published": "20171218",
@@ -24951,6 +25375,7 @@
   "pace": 140.3,
   "rare": 0.0736,
   "var": 0.7559,
+  "cl": 0.0541,
   "speech_s": 197.6,
   "tokens": 462,
   "kw": [
@@ -25043,11 +25468,164 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "verdens",
+    "Verdens minste leilighet, og verdens største tre.",
+    184,
+    189,
+    5.24,
+    2
+   ],
+   [
+    "borte",
+    "Så jeg måtte lage noe julekos mens Robert var borte.",
+    96,
+    103,
+    5.11,
+    2
+   ],
+   [
+    "kanalen",
+    "Og han som serverte meg i kassa han har fulgt med på kanalen. Lært norsk fra kanalen. Så det var jo veldig morsomt da!",
+    409,
+    417,
+    4.22,
+    2
+   ],
+   [
+    "stoppet",
+    "Da er vi på vei hjem fra min søster. Og vi har stoppet på McDonalds.",
+    403,
+    410,
+    4.75,
+    1
+   ],
+   [
+    "gran",
+    "Og med første øyekast så ser det ikke ut som en gran.",
+    123,
+    129,
+    4.15,
+    1
+   ],
+   [
+    "smør",
+    "De er så gode. Det er bare sånn havregryn, kakao, smør, sukker..",
+    87,
+    95,
+    4.09,
+    1
+   ],
+   [
+    "gråt",
+    "Jeg har sett på \"The Notebook\", og da gråt jeg. Fordi den er så fin.",
+    69,
+    78,
+    4.04,
+    1
+   ],
+   [
+    "jevn",
+    "Jo jevnere den er jo lettere å få den jevn. Bygge litt opp på den siden her..Og bakerst der borte.",
+    361,
+    369,
+    3.97,
+    1
+   ],
+   [
+    "kakao",
+    "De er så gode. Det er bare sånn havregryn, kakao, smør, sukker..",
+    87,
+    95,
+    3.58,
+    1
+   ],
+   [
+    "sugar",
+    "også er det \"No added sugar\".",
+    10,
+    12,
+    3.56,
+    1
+   ],
+   [
+    "bobler",
+    "Nå bobler det veit du. Dette er julemiddag, da.",
+    375,
+    396,
+    3.55,
+    1
+   ],
+   [
+    "sjokoladen",
+    "Jeg brente sjokoladen første gang. Denne uka har jeg vært en del alene hjemme. For Robert er på jobbferie. Jobbtur i Danmark.",
+    39,
+    70,
+    3.53,
+    1
+   ],
+   [
+    "mcdonalds",
+    "Da er vi på vei hjem fra min søster. Og vi har stoppet på McDonalds.",
+    403,
+    410,
+    3.35,
+    1
+   ],
+   [
+    "svor",
+    "Der har vi \"svorvakt\". Fordi det er veldig viktig å få sprø svor på ribba.",
+    339,
+    345,
+    2.98,
+    1
+   ],
+   [
+    "ribba",
+    "Der har vi \"svorvakt\". Fordi det er veldig viktig å få sprø svor på ribba.",
+    339,
+    345,
+    2.68,
+    1
+   ],
+   [
+    "juletrær",
+    "Dette er veldig upraktisk: skjørt og strømebukser når man skal kappe juletrær.",
+    304,
+    311,
+    2.64,
+    1
+   ],
+   [
+    "julepynt",
+    "Nå er jeg på besøk hos min søster. Litt julepynt. Nå skal vi... Nå skal vi hogge juletre.",
+    240,
+    252,
+    2.59,
+    1
+   ],
+   [
+    "julemiddag",
+    "Dette er julemiddag, da. Dette er det de fleste spiser på julaften. Men vi har kalkun på julaften så da har vi ribbe før jul.",
+    394,
+    404,
+    2.56,
+    1
+   ],
+   [
+    "stillinga",
+    "Det er mest stillinga som er hard.",
+    300,
+    305,
+    2.42,
+    1
+   ]
+  ],
   "tx": "Hva er det? Jeg har fått to julesokker igjen. Også har du de og. også er det \"No added sugar\". Nå lager vi en av mine favorittkaker. Riboller! Var det gøy å lage det, Owen? Ja! SKal vi fortelle hva mamma klarte å gjøre i sta? Den brente også kjøpte vi ny. Ja. Den brente også kjøpte vi ny. Jeg brente sjokoladen første gang. Denne uka har jeg vært en del alene hjemme. For Robert er på jobbferie. Jobbtur i Danmark. Jeg har sett på \"The Notebook\", og da gråt jeg. Fordi den er så fin. Men jeg har også baket. Jeg vet ikke om det heter bake når du ikke egentlig steker noe... De er så gode. Det er bare sånn havregryn, kakao, smør, sukker.. Og det blir så godt. Så jeg måtte lage noe julekos mens Robert var borte. Så det var hittil denne uka. Da har Robert vært å kjøpt juletre! Det blir spennende å se om vi får plass i vår lille leilighet. Og med første øyekast så ser det ikke ut som en gran. Han har kjøpt en edelgran. Fordi det drysser mindre. Det er litt greit. Så planen er at det skal stå her. I hjørnet der. Men jeg klarer ikke helt å se at det blir plass. Der liksom. Er det ikke fint? Verdens minste leilighet, og verdens største tre. Det er fint da. Var det fint? Da har vi hvert fall fått pynta juletre denne uka. Nå er jeg på besøk hos min søster. Litt julepynt. Nå skal vi... Nå skal vi hogge juletre. Det er LITT snø her. OK, det er litt dypt. Se her: Hvilket tre skal vi velge? Neste år blir det de! Er det hardt? Det er mest stillinga som er hard. Dette er veldig upraktisk: skjørt og strømebukser når man skal kappe juletrær. Det var litt mye snø her. Der har vi \"svorvakt\". Fordi det er veldig viktig å få sprø svor på ribba. Blodig alvor. Skal du si noe til kamera, Owen? Hva da? Gleder du deg til mat? Nei... Her ser du at den begynner å \"poppe\" litt. Jo jevnere den er jo lettere å få den jevn. Bygge litt opp på den siden her..Og bakerst der borte. Også er det inn igjen. Nå bobler det veit du. Dette er julemiddag, da. Dette er det de fleste spiser på julaften. Men vi har kalkun på julaften så da har vi ribbe før jul. Da er vi på vei hjem fra min søster. Og vi har stoppet på McDonalds. Og han som serverte meg i kassa han har fulgt med på kanalen. Lært norsk fra kanalen. Så det var jo veldig morsomt da! Det var koselig. Og jeg ønsker deg en god jul og et godt nyttår!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0541
+  "src": "cc"
  },
  "ppqCilvho64": {
   "channel": "Norwegian with Ilys",
@@ -50749,7 +51327,7 @@
  "pTlnFUZCiio": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-17T02:39:17+00:00",
+  "checked": "2026-11-24T20:49:03+00:00",
   "title": "How To Learn Norwegian #5 When Can You Start Speaking?",
   "duration": 770,
   "published": "20260107",
@@ -50758,6 +51336,7 @@
   "pace": 149.1,
   "rare": 0.0383,
   "var": 0.779,
+  "cl": 0.0682,
   "speech_s": 767.6,
   "tokens": 1907,
   "kw": [
@@ -50914,16 +51493,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "snakker",
+    "snakker bruker du bare det du allerede",
+    34,
+    42,
+    5.48,
+    9
+   ],
+   [
+    "feil",
+    "bygge opp en feil versjon av språket i",
+    103,
+    109,
+    5.68,
+    8
+   ],
+   [
+    "samtale",
+    "føre en samtale, uttrykke seg og fungere",
+    7,
+    13,
+    4.5,
+    4
+   ],
+   [
+    "personen",
+    "den andre personen. Hvis du ikke",
+    237,
+    244,
+    4.77,
+    3
+   ],
+   [
+    "uttrykke",
+    "føre en samtale, uttrykke seg og fungere",
+    7,
+    13,
+    4.13,
+    2
+   ],
+   [
+    "strukturer",
+    "strukturer, riktig ordbruk og riktige lyder. Når du da prøver å snakke, må",
+    110,
+    119,
+    3.73,
+    2
+   ],
+   [
+    "tålmodige",
+    "snakke med personer som er tålmodige,",
+    329,
+    336,
+    3.0,
+    2
+   ],
+   [
+    "strategier",
+    "strategier for hvordan du kan bruke",
+    695,
+    700,
+    3.57,
+    1
+   ],
+   [
+    "unyttig",
+    "Det betyr ikke at snakking er unyttig,",
+    44,
+    51,
+    2.97,
+    1
+   ],
+   [
+    "improvisere",
+    "hjernen improvisere. Du bruker grammatikk fra morsmålet ditt.",
+    116,
+    125,
+    2.96,
+    1
+   ],
+   [
+    "repetisjon",
+    "repetisjon, pauser og mange, mange møter",
+    570,
+    577,
+    2.9,
+    1
+   ]
+  ],
   "tx": "Mange som lærer norsk har det samme målet. De vil kunne snakke. De vil kunne føre en samtale, uttrykke seg og fungere i hverdagen. Derfor er et av de vanligste spørsmålene: Når kan jeg begynne å snakke norsk? Det første som er viktig å forstå er dette. Vi lærer ikke et språk av å snakke. Vi lærer språk gjennom innput, altså ved å høre og lese ting vi forstår. Det er slik hjernen bygger opp en indre forståelse av hvordan språket fungerer. Når du snakker bruker du bare det du allerede har i hodet. Du får ikke ny informasjon. Snakking er output, ikke innput. Det betyr ikke at snakking er unyttig, … de. Da får du innput som er direkte relevant for deg og situasjonen du er i. Så spørsmålet er ikke om du skal snakke eller ikke. Spørsmålet er når det hjelper og når det kan gjøre læringen vanskeligere. Det største problemet med å begynne å snakke for tidlig er at du risikerer å bygge opp en feil versjon av språket i hodet ditt. Hvis du ikke har hørt nok norsk ennå, mangler du både riktige strukturer, riktig ordbruk og riktige lyder. Når du da prøver å snakke, må hjernen improvisere. Du bruker grammatikk fra morsmålet ditt. Du bruker ord litt feil. Du uttaler lyder slik det passer deg. Og … mange sier jeg forstår mye, men jeg tør ikke å snakke. Problemet er ikke manglende evne. Problemet er press og forventninger. Hvis du venter litt med å snakke og heller fokuserer på å høre masse norsk først, får du et mye bedre grunnlag. Når du senere begynner å snakke, vil ordene komme lettere. Utalen vil være klarere og du vil føle deg tryggere. I denne delen nå skal vi snakke om hvordan du faktisk kan begynne å snakke på en smart måte uten stress og uten å sabotere læringen din. Så når er det egentlig lurt å begynne å snakke norsk? Det korte svaret er når du forstår mye av det du hører. … har hørt mange timer med norsk, har hjernen allerede lagret masse informasjon. Selv om du ikke føler deg klar, finnes strukturer, setningsmønstre og lyder der. Da blir snakking mer naturlig. Også selv om du gjør feil. Du trenger heller ikke å snakke perfekt. Målet er ikke korrekthet. Målet er kommunikasjon. Så lenge den andre personen forstår deg, fungerer språket. Og husk, du trenger ikke å snakke mye i starten. Det er helt greit å være den som lytter mest. Still enkle spørsmål. Bruk faste uttrykk. La den andre personen snakke. Slik får du både trygghet og mer innput, samtidig som du … at du må produsere mye selv. Det er også lurt å snakke med personer som er tålmodige, folk som ikke retter deg hele tiden. Retting hjelper sjelden i øyeblikket. Det skaper bare stress. Når du snakker bør fokuset ditt være på mening, ikke på form. Ikke stopp midt i en setning for å tenke på riktig kjønn på et substantiv eller bøyning av et verb. Si det du kan. Hjernen justerer over tid. Og viktigst av alt, ikke bruk snakking som en erstatning for input. Snakking skal komme i tillegg, ikke for. Hvis du slutter å høre og lese norsk fordi du øver på å snakke, mister du det viktigste. Vi skal nå … standard. Du kan ikke forvente å uttrykke deg like presist på et nytt språk. Når du snakker norsk vil du høres enklere ut. Det er helt greit. Det betyr ikke at du er dum og det betyr ikke at norsken din er dårlig. Det betyr bare at språket er nytt for deg. En annen grunn til at frykt er at mange har lært språk gjennom retning og tester. Da blir feil noe farlig. Men i ekte kommunikasjon er feil helt normalt. Nordmenn er vant til akanger, dialekter og feil, og de fleste er tålmodige. Hvis du venter til du føler deg klar, kommer du til å måtte vente lenge. Klarhet kommer ikke før handling. … større blir det passive ordforrådet ditt. Og jo større det blir, jo lettere blir det å hente frem ord i en samtale. Når du snakker og mangler et ord, er det ikke et nederlag, det er informasjon. Hjernen registrerer dette gapet. Neste gang du hører ordet i en inputsituasjon, legger du merke til det på en ny måte. Derfor er det viktig å kombinere snakking med masse innput. Ikke bruk tid på å pugge ord for å si dem riktig. Bruk tid på å møte dem igjen og igjen og igjen i ekte sammenhenger. Over tid vil du merke noe viktig. Du begynner å si ting uten å tenke. Ord og setninger kommer av seg … Den trenger repetisjon, pauser og mange, mange møter med det samme språket. Ofte skjer gjennombruddet først etter en periode hvor det føles som at ingenting skjer. Derfor er tålmodighet en ferdighet i seg selv. Hvis du bytter metode hele tiden fordi du ikke føler fremgang, risikerer du å avbryte prosessen før den får virke. Det viktigste du kan gjøre er å fortsette. Fortsette å lytte, fortsette å lese, fortsette å være i kontakt med norsk også når det føles kjedelig eller vanskelig. Ikke mål progresjonen bare i hva du kan si. Mål den i hva du forstår. Hvis du forstår mer enn før, bra … er mye bedre enn mye norsk av og til. Snakking er en del av reisen, men ikke målet i seg selv. Målet er å forstå, og bli forstått og å føle deg trygg i språket over tid. Du er ikke dum. Norsk er ikke umulig. Det er bare nytt. Ikke hold deg til samme standard som du gjør på morsmålet ditt. Vær tålmodig. Hvis du fortsetter å gi hjernen din norsk, norsk, norsk gjennom lyting, lesing og ekte møter med språket, vil snakkingen komme ikke fordi du presset den frem, men fordi språket til slutt er klart til å komme ut. Vi skal fortsette å snakke om konkrete strategier for hvordan du kan bruke … og forslag til hvordan du kan jobbe videre med input uten stress og uten unødvendig grammatikk fokus. Alt er laget for å hjelpe deg med å holde kontinuitet og faktisk bruke tiden din smart. Å lære norsk tar tid. Det krever innsats, tålmodighet og vilje til å møte språket igjen og igjen. Men hvis du legger ned arbeidet, hvis du møter opp hver dag og gir hjernen din norsk, vil resultatene kommer. Ikke gi opp fordi det føles tregt. Fortsett fordi det fungerer. Hvis du vil ha støtte på veien, finner du meg på Patreon. Tusen takk for at du så på denne videoen og hørte på denne videoen.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0635
+  "src": "auto"
  },
  "VZKPsJXJ3l4": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-17T02:39:55+00:00",
+  "checked": "2026-11-24T20:51:49+00:00",
   "title": "8 faste uttrykk i kontekst (penger og shopping 2) | Phrasal verbs: 30-day challenge COURSE PREVIEW",
   "duration": 425,
   "published": "20241117",
@@ -50932,6 +51600,7 @@
   "pace": 175.1,
   "rare": 0.024,
   "var": 0.7256,
+  "cl": 0.0562,
   "speech_s": 414.7,
   "tokens": 1210,
   "kw": [
@@ -51064,16 +51733,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "klarer",
+    "og båt ting jeg egentlig klarer meg fint",
+    34,
+    40,
+    5.48,
+    5
+   ],
+   [
+    "gir",
+    "selv det gir seg selv eh be obvious være",
+    103,
+    109,
+    5.8,
+    4
+   ],
+   [
+    "faste",
+    "shopping Jeg har i dag fem nye faste",
+    10,
+    18,
+    4.42,
+    3
+   ],
+   [
+    "uttrykket",
+    "også Yes det første uttrykket herfra det",
+    49,
+    57,
+    4.39,
+    3
+   ],
+   [
+    "care",
+    "care of Naboene våre Naboene våre må ta",
+    375,
+    381,
+    3.83,
+    2
+   ],
+   [
+    "take",
+    "eller beskytte noen eller noe som take",
+    372,
+    379,
+    3.78,
+    2
+   ],
+   [
+    "unødvendige",
+    "hun kvittet seg med alle unødvendige",
+    190,
+    195,
+    3.57,
+    1
+   ],
+   [
+    "foretok",
+    "selv om problemene vokste foretok de seg",
+    160,
+    169,
+    3.53,
+    1
+   ],
+   [
+    "oppbevare",
+    "men i teksten betyr det å oppbevare",
+    223,
+    229,
+    3.53,
+    1
+   ],
+   [
+    "vedvarer",
+    "garasje så hvis situasjonen vedvarer skal jeg nok få til å bli kvitt noe",
+    42,
+    50,
+    2.99,
+    1
+   ],
+   [
+    "slide",
+    "siste slide men i teksten betyr det å oppbevare",
+    221,
+    229,
+    2.95,
+    1
+   ],
+   [
+    "grads",
+    "grads adverb eh Det er ganske vanlig",
+    398,
+    404,
+    2.8,
+    1
+   ],
+   [
+    "adverb",
+    "grads adverb eh Det er ganske vanlig",
+    398,
+    404,
+    2.73,
+    1
+   ],
+   [
+    "verbene",
+    "flere betydninger av disse verbene som",
+    346,
+    351,
+    2.48,
+    1
+   ]
+  ],
   "tx": "det er dag 17 og tema er igjen penger og shopping Jeg har i dag fem nye faste uttrykk til deg og tre som du allerede har fått presentert Så la oss begynne det var innmari tøft å miste jobben Jeg hadde heldigvis en del sparepenger men da Se måneder hadde gått hadde jeg ikke lenger noe å gå på økonomisk og da ga det seg selv at jeg måtte foreta meg noe nå har jeg kvittet meg med motorsykkel og båt ting jeg egentlig klarer meg fint uten de siste årene har jeg også tatt vare på enormt mange ting i en nå full garasje så hvis situasjonen vedvarer skal jeg nok få til å bli kvitt noe derfra også Yes det første uttrykket herfra det er å ha noe å gå på ha noe å gå på det er å ha rom for justeringer eller mulighet til å gjøre End Rer Vi har ikke noe mer å gå på i vårt budsjett ikke sant Da er du strukket til til liksom maksimum av det du klarer du har ikke noe fleksibilitet etter den dyre ferien hadde vi absolutt ingenting å gå på altså kontoen gikk ned i null liksom absolutt ingenting ekstra til ting som ikke er nødvendig Eh Jeg har ikke så mye å gå på for tiden så jeg kan ikke kjøpe dyre klær ikke så mye å gå på eh til slutt I denne presentasjonen skal jeg også vise en annen måte Vi også kan bruke dette faste uttrykket fordi vi har flere betydninger så vi kommer til det nummer to er å gi seg selv gi seg selv det gir seg selv eh be obvious være åpenbart Det gir seg selv at jeg ikke kan reise på ferie nå Etter å ha kjøpt en så dyr bil Det er selvfølgelig Det er åpenbart det ga seg selv at vi måtte selge huset etter vi ble skilt du kan ikke beholde et hus et stort hus hvis det blir skilt ikke sant Det er for mye det koster for mye penger for mye plass og så videre når du velger å bli sykepleie Så gir det seg selv at du må jobbe mye skift du kan ikke jobbe 8 til 4 som sykepleier eh Det er hvert fall ikke så mange sykepleiere som kan forvente det Det gir seg selv at man velger et yrke som har mye skiftarbeid nummer tre er å foreta seg noe foreta seg noe det er å ta initiativ til å handle eller utføre en aktivitet Han må foreta seg noe for å forbedre situasjonen eller hva skal vi foreta oss no som John har sagt opp eller Jon John selv om problemene vokste foretok de seg ingenting de gjorde ingenting ikke sant Det er bare å gjøre noe ikke sant gjøre noe eller å ta grep kan man også si eh ofte da n for å eh møte en eller annen type utfordring eller situasjon nummer 4 er å kvitte seg med kvitte seg med det er å bli fri for noe ofte noe uønsket Jeg må kvitte meg med gamle klær hun kvittet seg med alle unødvendige ting før flyttingen Eller de prøver å kvitte seg med sine dårlige vaner du har allerede i denne teksten og tidligere i kurset eh sett eh det faste uttrykket bli kvitt Her har vi den andre varianten kvitte seg med her må vi ha med ikke sant kvitte seg med hvis Det er refleksivt så må vi ha med men bli kvitt da er det uten preposisjon Vi kommer til det nummer fem er å ta vare på det kan også bety to ting jeg kommer tilbake til den andre betydningen av dette verbet i siste slide men i teksten betyr det å oppbevare eller beskytte noe for fremtiden ofte i form av ting eller minner som keep Hold on to Eh Jeg tar vare på gamle bilder som minner om barndommen altså Jeg kaster det ikke når man ikke kaster noe så er det å ta vare på noe han tar Hun tar vare på bøkene sine i tilfelle Hun vil trenge dem igjen Hun selger ikke bøkene sine ikke sant eller Hun kaster dem ikke det er viktig at vi tar vare på tradisjonene våre at vi ikke glemmer dem ok og så har vi noen verb som noen Fras verb som dere har sett før også få til få til et av de aller viktigste du lærer i dette kurset hvis du ikke kunne det fra før det er å oppnå noe eller få noe til å skje Jeg klarte ikke å få til H jeg klarte å få til en avtale med dem altså jeg greide det jeg greide det Jeg klarte det hun fikk ikke til å fullføre oppgaven i tide hun klarte ikke å fullføre oppgaven i tiden eller jeg prøvde å overtale han til å komme på festen men jeg fikk det ikke til jeg klarte det ikke bli kvitt som vi allerede har sett på Husk at vi ikke har preposisjon sammen med bli kvitt så vi sier bare jeg må bli kvitt de gamle bøkene eller han vil bli kvitt sin gjeld så raskt som mulig eller min bestemor Ble dessverre ikke kvitt helseplagene etter trafikkulykken det er feil å si bli kvitt med fordi vi bare sier bli kvitt noe ok og så har vi å klare seg som Da er eh å manage get by kan man kanskje si også på engelsk eh å klare å håndtere en situasjon eller utfordring jeg klarer meg fint uten hjelp eller klarte seg gjennom vanskelige tider eller her på landet klarer vi oss ikke uten bil Det betyr Vi må ha bil hvis ikke så klarer vi for eksempel ikke å komme til butikken effektivt og gjøre andre ting effektivt og så har vi noen flere betydninger av disse verbene som jeg nevnte å ha noe å gå på det kan også bety å ha potensial ofte brukt i sport for eksempel Manchester United spiller ikke bra for tiden de har veldig mye å gå på veldig mye å gå på altså de underpresterer de kan gjøre det mye bedre fordi de har så gode spillere og sånn men de de fungerer ikke som lag kanskje men det er mye potensial eh å ta vare på det kan også bety å passe på eller beskytte noen eller noe som take care of Naboene våre Naboene våre må ta vare på hunden vår mens vi er på ferie take care of så det betyr da det samme som ta seg av som vi har sett eh som vi har studert tidligere i kurset allerede ta seg av ta vare på er ofte synonym hvis det er å passe på og så har vi en ekstra kommentar også om dette ordet innmari Det er et litt interessant grads adverb eh Det er ganske vanlig ganske vanlig å bruke det er ikke så mange studenter som bruker det men det betyr det samme som veldig Det var innmari gøy på den festen for eksempel Ok da håper jeg du vil ha det innmari gøy med oppgavene for i dag og så ses vi igjen i morgen Ha det bra ja",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0562
+  "src": "auto"
  },
  "tjcouIYIEIs": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-17T02:40:03+00:00",
+  "checked": "2026-11-24T20:51:56+00:00",
   "title": "9 faste uttrykk i kontekst (reise og transport) | Phrasal verbs: 30-day challenge COURSE PREVIEW",
   "duration": 515,
   "published": "20241113",
@@ -51082,6 +51864,7 @@
   "pace": 164.6,
   "rare": 0.039,
   "var": 0.6986,
+  "cl": 0.0542,
   "speech_s": 505.0,
   "tokens": 1385,
   "kw": [
@@ -51222,16 +52005,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sted",
+    "funnet sted og jeg sitter fortsatt her",
+    61,
+    66,
+    5.48,
+    7
+   ],
+   [
+    "driver",
+    "driver med dette er altså et direkte tog",
+    49,
+    55,
+    5.18,
+    7
+   ],
+   [
+    "bussen",
+    "på Skal vi gå på denne bussen Eh det er",
+    170,
+    175,
+    4.64,
+    4
+   ],
+   [
+    "glemmer",
+    "jeg liksom glemmer kanskje noen detaljer",
+    476,
+    482,
+    4.59,
+    4
+   ],
+   [
+    "fatte",
+    "fatte det er da å forstå eller begripe",
+    437,
+    442,
+    4.08,
+    2
+   ],
+   [
+    "skaden",
+    "komma skaden kommer av igjen skaden",
+    415,
+    422,
+    4.08,
+    2
+   ],
+   [
+    "krasjer",
+    "fordi den krasjer med neste konsonant så",
+    408,
+    414,
+    3.53,
+    1
+   ],
+   [
+    "verbet",
+    "bare kutte ut verbet og gå Så vi kan si",
+    296,
+    303,
+    3.47,
+    1
+   ],
+   [
+    "solnedgang",
+    "solnedgang få øye på noe nummer tre er å",
+    160,
+    167,
+    3.46,
+    1
+   ],
+   [
+    "perrongen",
+    "øye på Lillehammer på perrongen tenker",
+    35,
+    42,
+    2.96,
+    1
+   ],
+   [
+    "sløvt",
+    "sant det er sløvt å gå på feil tog eller",
+    462,
+    467,
+    2.81,
+    1
+   ],
+   [
+    "prosessere",
+    "prosessere det eh Jeg måtte jobbe hardt",
+    116,
+    122,
+    2.76,
+    1
+   ],
+   [
+    "parkeringshuset",
+    "parkeringshuset når man leter etter noe",
+    151,
+    156,
+    2.62,
+    1
+   ]
+  ],
   "tx": "dag 10 i dag og vi har et nytt tema nemlig reise og transport jeg har ni nye faste uttrykk til deg i dag Jeg kommer virkelig ikke over det som skjedde i dag jeg skulle ta toget til Oslo fra gardemon for å rekke et bryllup Men så er jeg så sløv og distre at jeg går til feil Plattform jeg vet at toget kommer fra lille fra Lillehammer og når jeg får øye på Lillehammer på perrongen tenker jeg der kommer mitt tog Jeg går på og finner meg et deilig sete men etter 10 minutter går det opp for meg at dette toget kjører feil vei Hva er det jeg driver med dette er altså et direkte tog og jeg kan ikke gå … funnet sted og jeg sitter fortsatt her på lillehamer og venter på toget tilbake Jeg fatter ikke at det kan gå an og jeg forstår virkelig ikke hva det kommer av at jeg er så sløv hvis det finnes en medisin mot å være DIS tre så trenger jeg den Ok Har det skjedd med deg før at du har gått på feil tog Skriv i kommentarene i videoen i så fall ehm Det kan være irriterende så vi har her ni faste uttrykk det første er å komme over Jeg kommer ikke over det som skjedde det er å klare å håndtere Elemental bearbeide noe ofte en vanskelig situasjon så i teksten finner vi det At vi eh forstår noe ikke … eksempel at man kommer over det Man må liksom emosjonelt prosessere det eh Jeg måtte jobbe hardt for å komme over sjokket etter ulykken i en så emosjonell Prosess eller han klarte ikke å komme over skuffelsen etter å ha mistet jobben i en emosjonell Prosess fra teksten så er det kanskje litt mer en sånn ehm noe man kommer over noe man trenger tid på å forstå ikke sant for det er noe som er liksom sjokkerende komme over nummer to er å få øye på det er å se noe plutselig eller oppdage noe med øynene jeg fikk øye på en hjort i skogen da jeg gikk på tur plutselig så jeg noe ikke sant … Der fant jeg noe eller vi fikk øye på stjernen på himmelen rett før solnedgang få øye på noe nummer tre er å gå på gå på ehm Hører du tonem 2 her Vi sier ofte gå på Skal vi gå på denne bussen Eh det er da å stige på eller gå inn i et transportmiddel så det må ikke være buss Det kan være gå på et tog gå på et fly gå på en båt ehm Vi gikk på gikk på bussen i siste liten før den kjørte De gikk på toget på hovedstasjonen og hun gikk på flyet til Paris tidlig om morgen get on ikke sant Og så har vi gå opp for eh ofte er det gå opp for meg gå opp for noen det er da Å plutselig forstå eller innse … plutselig å Det gikk opp for meg eller han innså etter hvert at det gikk opp for ham Hvor viktig prosjektet var kanskje den her er litt smør på flesk denne her Ehm så det gikk opp for han etter en stund Hvor viktig prosjektet var kanskje det er en bedre setning eller Det gikk opp for henne at hun hadde lest feil kapittel til eksamen Tenk at hun kommer på eksamen og så Oi dette var jo ikke det jeg burde ha lest jeg lest jo noe annet Det gikk opp for meg da går det opp for deg at Oi jeg har lest på feil materiale nummer fem er å drive med det er å være aktivt involvert i eller arbeide med noe … forskning på universitetet Hva gjør hun Hva er liksom hennes profesjon Hun driver med forskning Eller de driver med å planlegge en stor fest til helgen så ofte bruker vi driver med når vi snakker om hva vi gjør i denne perioden akkurat akkurat eh akkurat nå som en type pågående prosjekt Husker du vi hadde å gå på Vi har også gå av som er det motsatte det er å stige av et transportmiddel buss tog fly hva som helst jeg gikk av toget på den siste stasjonen eller vi må gå av bussen på neste stopp han gikk av gikk av flyet etter en lang reise eh Av og til når vi har modalverb så kan vi også … to her da For eksempel Vi må av bussen Kan vi Også si OK så veldig ofte kutter vi ut gå nummer s er å finne sted på engelsk har vi take place men på norsk er det finne place find place Eh det er å skje eller foregå på et bestemt tidspunkt eller sted møte finner sted i konferanserommet klok 10 festivalen finner sted hvert år i august seremonien vil finne sted i kirken på lørdag hvor skjer det hvor finner det sted nummer 8 er å gå an gå an Eh det er å være mulig eller akseptabelt Tror du det går an å bytte bordreservasjon går det an Går det an det betyr Er det mulig Er det mulig å bytte … mulig etter klok 6 det går an spør om det går spør om det går an å utsette fristen til neste uke spør om det er mulig nummer 9 komme av den her er veldig fin det er da å være årsaken til eller resultatet av noe feilen kom av en misforståelse i kommunikasjonen Så hvorfor var det en feil jo fordi det var en misforståelse i kommunikasjonen det var det feilen kom av problemet kom av mangel på ressurser hør hvordan jeg sier av Jeg sier ikke v spesielt Ikke hvis det kommer foran en konsonant som her problemet komma problemet komma mangel på ressurser eh når vi sier preposisjonen av er det veldig … komma mangel på ressurser komma skaden kommer av igjen skaden kommer av dårlig vedlikehold av utstyret eller av utstyret av blir ofte bare a da vet du det Så det var nummer 9 Eh vi har også noen litt interessante ting jeg har tre kommentarer til deg fra teksten Eh Jeg fatter ikke hvordan det er mulig fatte det er da å forstå eller begripe som engelsk comprehend Jeg fatter ikke Eh Hvordan hvordan det er mulig vi sier ofte fatte når vi har sånn veldig empatiske setninger når du vil understreke noe eller si noe veldig intenst sløv det er å være uskarp eller uoppmerksom som i denne teksten en … det som går i andre retningen ehm da sier vi at noen kan være en sløv person den personen fra teksten kan kanskje være en sløv person jeg kan av og til være en litt sløv person med at jeg liksom glemmer kanskje noen detaljer jeg glemmer ting Ehm så det er en sånn personlig egenskap som ikke er så bra ehm kan man si distre Det er litt det samme Det er en som lett glemmer ting å være distre forgetful av og til er jeg distre og glemmer viktige oppgaver Ok det var dagens oppgaver og nå kan du kose deg med Nei det var dagens video nå kan du kose deg med oppgavene sånn var det Og vi ses i morgen ja",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0519
+  "src": "auto"
  },
  "fqfxye-OwG0": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-17T02:47:11+00:00",
+  "checked": "2026-11-24T20:42:02+00:00",
   "title": "Enkle norske samtaler for hverdagsbruk A1-A2 nivå | Norwegian connect",
   "duration": 712,
   "published": "20251121",
@@ -51240,6 +52128,7 @@
   "pace": 68.5,
   "rare": 0.0211,
   "var": 0.7261,
+  "cl": 0.0236,
   "speech_s": 704.5,
   "tokens": 804,
   "kw": [
@@ -51340,16 +52229,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "jobber",
+    "Jobber du her? Ja, jeg jobber på kontor.",
+    117,
+    125,
+    5.41,
+    7
+   ],
+   [
+    "vanskelig",
+    "Nei, det er vanskelig, men jeg prøver.",
+    145,
+    151,
+    5.54,
+    4
+   ],
+   [
+    "bodd",
+    "Hvor lenge har du bodd her?",
+    83,
+    88,
+    4.44,
+    3
+   ],
+   [
+    "flink",
+    "Å wow, du er flink. Hehe, takk. Hva med deg?",
+    237,
+    249,
+    4.78,
+    2
+   ],
+   [
+    "hilse",
+    "å hilse på noen, å være på treningssenteret,",
+    17,
+    22,
+    4.18,
+    1
+   ],
+   [
+    "hjelpen",
+    "Takk! Og takk for hjelpen. Bare hyggelig.",
+    691,
+    701,
+    4.12,
+    1
+   ],
+   [
+    "treningen",
+    "Har du et mål med treningen?",
+    329,
+    334,
+    4.03,
+    1
+   ],
+   [
+    "nervøs",
+    "Takk! Jeg er litt nervøs. Det går bra. Alle er nye en gang.",
+    257,
+    270,
+    4.02,
+    1
+   ],
+   [
+    "snilt",
+    "Å, så snilt! Bare si fra.",
+    316,
+    324,
+    3.46,
+    1
+   ],
+   [
+    "praten",
+    "Takk for praten, Tom. Bare hyggelig, Mia.",
+    364,
+    373,
+    3.33,
+    1
+   ],
+   [
+    "skranken",
+    "Ja, skranken er der borte. Perfekt, takk.",
+    657,
+    666,
+    3.06,
+    1
+   ],
+   [
+    "bussholdeplassen",
+    "På bussholdeplassen. Hei! Venter du på bussen?",
+    389,
+    398,
+    2.6,
+    1
+   ],
+   [
+    "tredemølle",
+    "Jeg liker å løpe på tredemølle.",
+    273,
+    278,
+    2.39,
+    1
+   ],
+   [
+    "lånekort",
+    "Trenger jeg lånekort for å ta med bok?",
+    645,
+    651,
+    2.22,
+    1
+   ]
+  ],
   "tx": "Hei, og velkommen til Norwegian Connect! I denne videoen får du høre fire enkle A1-dialoger fra hverdagen. Du møter norske samtaler i vanlige situasjoner: å hilse på noen, å være på treningssenteret, å vente på bussen og å spørre om hjelp på biblioteket. Dette er korte og nyttige dialoger som hjelper deg å lære norsk på en naturlig måte. La oss begynne!” Introduksjon Hei! Jeg heter Anna. Hva heter du? Jeg heter Lars. Hyggelig å møte deg. Hyggelig å møte deg også. Hvor kommer du fra? Jeg kommer fra Italia. Og du? Jeg kommer fra Norge. Jeg bor i Oslo. Å, så fint! Jeg bor også i Oslo. Hvor lenge har du bodd her? Jeg har bodd her i tre måneder. Liker du byen? Ja, den er veldig fin. Litt kald, men fin. Hehe, ja, Norge er kaldt. Jeg vet! Jeg må kjøpe en varm jakke. Ja, det er viktig her. Jobber du her? Ja, jeg jobber på kontor. Å ja. Jobber du mye? Ikke så mye. Hva med deg? Jeg studerer norsk nå. Bra! Norsk er ikke lett. Nei, det er vanskelig, men jeg prøver. Du snakker bra. Takk, det er hyggelig å høre. Hva liker du å gjøre i fritiden? Jeg liker å gå tur og høre på musikk. Det liker jeg også. Oi, vi har noe felles! Ja! Liker du kaffe? Ja, jeg elsker kaffe. Vil du ta en kaffe en dag? Ja, gjerne! Det hadde vært hyggelig. Supert! Vi kan bytte nummer? Ja, her er mitt. Takk! Jeg sender en melding senere. Flott. Da snakkes vi. Ja, ha en fin dag! Du også! På treningssenteret. Hei! Trener du her ofte? Hei! Ja, nesten hver dag. Å wow, du er flink. Hehe, takk. Hva med deg? Jeg er ny her. Første dag i dag. Velkommen da! Takk! Jeg er litt nervøs. Det går bra. Alle er nye en gang. Hva liker du å trene? Jeg liker å løpe på tredemølle. Å, jeg liker å gå sakte først. Bra idé. Start rolig. Trener du styrke også? Ja, litt. Hva med deg? Ikke så mye. Jeg er litt redd for vekter. Hehe, det er helt normalt. Jeg må lære det litt etter litt. Jeg kan vise deg noe enkelt hvis du vil. Å, så snilt! Bare si fra. Takk. Jeg vil prøve senere. Har du et mål med treningen? Jeg vil bare bli litt sterkere og sunnere. Det er et bra mål. Ja, og jeg vil få mer energi. Trening hjelper mye med det. Jeg håper det. Skal du trene lenge i dag? Nei, kanskje tretti minutter. Perfekt for første dag. Takk for praten, Tom. Bare hyggelig, Mia. Vi sees kanskje her igjen! Ja, det gjør vi. Ha en fin trening! Takk, du også! På bussholdeplassen. Hei! Venter du på bussen? Hei! Ja, jeg venter på buss 31. Å, jeg også. Bra. Da venter vi sammen. Vet du når den kommer? Om fem minutter, tror jeg. Okei, fint. Jeg er litt kald. Ja, det blåser mye i dag. Jeg skulle tatt en varm jakke. Hehe, jeg også. Tar du ofte denne bussen? Ja, hver dag. Jeg skal til jobb. Å ja. Hvor jobber du? Jeg jobber på et kontor. Og du? Jeg studerer norsk på en skole. Oi, så bra! Det er nyttig. Ja, men norsk er vanskelig. Du snakker bra. Takk, jeg prøver. Hvor lenge har du bodd her? I to måneder. Liker du byen? Ja, den er rolig og fin. Der kommer bussen! Endelig! Jeg fryser. Jeg går på først. Okei, jeg kommer etter. (De går på bussen.) Skal du langt? Bare tre stopp. Jeg skal fem. Hyggelig å snakke med deg. Hyggelig å snakke med deg også. Ha en fin dag! Takk, du også! På biblioteket. Hei! Unnskyld, jobber du her? Hei! Nei, jeg jobber ikke her. Men jeg kan prøve å hjelpe. Å, takk! Jeg leter etter norskbøker. Norskbøker? De er der borte, til venstre. Å ja, jeg ser dem. Takk! Lærer du norsk? Ja, jeg begynte for to måneder siden. Så bra! Det er en fin språk. Hehe, ja, men det er vanskelig. Ja, litt. Men du snakker bra. Takk! Det betyr mye. Hva slags bok leter du etter? En enkel bok, A1 eller A2. Da er disse bøkene gode. Les du mye? Ja, jeg liker å lese hver kveld. Oi, så flink! Hva liker du å lese? Jeg liker korte historier. Jeg også! Korte bøker er fine. Trenger jeg lånekort for å ta med bok? Ja, men det er gratis. Vet du hvor jeg lager et kort? Ja, skranken er der borte. Perfekt, takk. Ingen problem. Har du en favorittbok? Ja, men den er litt vanskelig. Hehe, jeg må starte med lett bok. Det er smart. Ja, steg for steg. Lykke til med norsk! Takk! Og takk for hjelpen. Bare hyggelig. Ha en fin dag! Du også! ;)",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0236
+  "src": "cc"
  },
  "6HbZIA6RJWk": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-17T02:47:36+00:00",
+  "checked": "2026-11-24T20:46:05+00:00",
   "title": "Lær norsk med \"Hvordan vinne venner og påvirke mennesker\" av Dale Carnegie",
   "duration": 1212,
   "published": "20241221",
@@ -51358,6 +52360,7 @@
   "pace": 121.0,
   "rare": 0.027,
   "var": 0.8216,
+  "cl": 0.0569,
   "speech_s": 1210.5,
   "tokens": 2442,
   "kw": [
@@ -51498,16 +52501,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "tenk",
+    "tenk på Dale og hva han gjorde i stedet.",
+    143,
+    147,
+    5.21,
+    8
+   ],
+   [
+    "føle",
+    "Folk elsker å føle seg verdsatt.",
+    248,
+    251,
+    4.99,
+    8
+   ],
+   [
+    "lytte",
+    "Folk elsker å snakke om seg selv, men få tar seg tid til å lytte.",
+    319,
+    325,
+    4.39,
+    4
+   ],
+   [
+    "naboen",
+    "om en mann som hadde et problem med naboen sin.",
+    687,
+    691,
+    4.26,
+    4
+   ],
+   [
+    "rot",
+    "og grenene laget rot på plenen hans.",
+    695,
+    699,
+    4.18,
+    2
+   ],
+   [
+    "irritert",
+    "I stedet for å bli irritert, smilte han mens han snakket.",
+    372,
+    377,
+    4.17,
+    2
+   ],
+   [
+    "naboens",
+    "I stedet for å kritisere naboens holdning,",
+    160,
+    164,
+    3.06,
+    2
+   ],
+   [
+    "magien",
+    "Da skjer magien. Gutten begynner å spise, ikke fordi du ba ham, men fordi han vil bli sterk.",
+    224,
+    235,
+    3.59,
+    1
+   ],
+   [
+    "servitøren",
+    "Servitøren ser stresset ut, men du smiler og sier:",
+    515,
+    520,
+    2.93,
+    1
+   ],
+   [
+    "kommuniserte",
+    "og det endret måten han kommuniserte på.",
+    837,
+    841,
+    2.91,
+    1
+   ],
+   [
+    "sjefens",
+    "Dale foreslo at han skulle prøve å se situasjonen fra sjefens perspektiv.",
+    826,
+    833,
+    2.91,
+    1
+   ],
+   [
+    "nikket",
+    "Nikket, stilte spørsmål og viste ekte interesse.",
+    447,
+    452,
+    2.75,
+    1
+   ],
+   [
+    "resepsjonist",
+    "Dale Carnegie møtte en dag en resepsjonist som virket travel og irritert.",
+    409,
+    415,
+    2.72,
+    1
+   ]
+  ],
   "tx": "Hei og velkommen tilbake. I dag skal jeg oppsummere en utrolig bok. Den beste om kunsten å mestre menneskelige relasjoner. Dette er en av historiens mest solgte bøker i sin sjanger. Hvordan vinne venner og påvirke mennesker av Dale Carnegie. Har du noen gang ønsket at folk skulle like deg mer? Eller kanskje du har prøvd å få noen til å høre på deg, men det ender bare i misforståelser. I dag skal vi lære 3 magiske prinsipper fra Dale Carnegies tidløse bok, Hvordan påvirke andre og få venner. Len deg tilbake, for denne historien kan forandre livet ditt. Det er grunnleggende teknikker for å … seg. De endrer seg ikke. Derfor sier Dale: Ikke kritiser, ikke døm, og ikke klag. Prøv heller å forstå hvorfor folk gjør det de gjør. Neste gang du har lyst til å kritisere noen, tenk på Dale og hva han gjorde i stedet. Han ga ros. Ikke falsk ros, men ekte, oppriktig ros. Han møtte en nabo en gang, en mann som var kjent for å være litt gretten. I stedet for å kritisere naboens holdning, sa Dale: \"For en flott hage du har.\" \"Jeg skulle ønske jeg kunne få mine blomster til å blomstre slik.\" Vet du hva som skjedde? Mannen lyste opp. For første gang begynte de å snakke, og etter det ble de … snakker med andre på. Prøv dem i dag, og du vil se forskjellen. Del 2: Seks måter å få folk til å like deg. Nå som du har lært hvordan du kan håndtere mennesker, er det på tide å ta det et skritt videre. Hvordan får du folk til å like deg? Det er enklere enn du tror. La meg fortelle deg noen hemmeligheter. 1. Vis oppriktig interesse for andre. Jeg kjenner en mann som hadde en fantastisk evne til å få folk til å føle seg spesielle. Når han møtte noen, stilte han spørsmål, lyttet nøye og så dem rett i øynene. Han kunne snakke med en fremmed i 5 minutter, og personen ville føle at de hadde … du?\" Og så: \"Hei, .\" Hva føles best? Navnet vårt er det vakreste ordet vi kjenner, og når noen bruker det, føler vi oss viktige. Dale Carnegie møtte en dag en resepsjonist som virket travel og irritert. Han brukte navnet hennes flere ganger, og plutselig ble hun hjelpsom og smilende. Lær deg navn. Bruk dem. Folk vil huske deg for det. 4. Vær en god lytter. Jeg hadde en venn som alle elsket å snakke med. Det var ikke fordi han var den mest interessante personen i rommet, men fordi han var den beste til å lytte. Han lot folk snakke om seg selv. Nikket, stilte spørsmål og viste ekte … oss i dag.\" \"Du gjør en fantastisk jobb.\" Hva tror du skjer? Plutselig blir hele servicen bedre. Alle ønsker å føle seg viktige. Gi dem den følelsen, og de vil huske deg for alltid. Del 3: Hvordan vinne folk over til ditt synspunkt? Nå som du vet hvordan du får folk til å like deg, skal vi se på noe enda mer spennende. Hvordan kan du få folk til å være enige med deg uten å krangle eller diskutere? Her er noen enkle og effektive måter å gjøre det på. 1. Unngå diskusjoner. Tenk deg dette: Du er midt i en opphetet diskusjon. Du er sikker på at du har rett, og den andre er like sikker på at de … kjørte for fort.\" \"Det var dumt av meg.\" Politimannen ble så overrasket at han bare ga ham en advarsel. Når vi sier unnskyld og innrømmer feil, blir folk mindre sinte. Det viser at vi er ærlige, og det gjør det lettere for andre å forstå oss. 4. Begynn vennlig. Dale Carnegie forteller en historie om en mann som hadde et problem med naboen sin. Et stort tre i naboens hage vokste over gjerdet, og grenene laget rot på plenen hans. Mannen kunne ha gått bort og klaget, men han valgte en annen løsning. Han gikk til naboen med et smil og sa: \"Hagen din er så fin.\" \"Jeg liker spesielt de flotte … at dette er viktig?\" Jo flere \"ja\" du får, desto lettere er det å nå enighet. 6. La den andre føle at ideen er deres. Tenk deg at du foreslår en løsning, men i stedet for å si: \"Dette er min idé,\" sier du: \"Hva synes du om dette?\" \"Jeg tror du kan gjøre det til noe bra.\" Når folk føler at de eier ideen, er de mer motiverte for å gjennomføre den. 7. Se ting fra den andres synspunkt. En gang hadde Dale Carnegie en venn som slet med å forstå hvorfor sjefen hans var så streng. Dale foreslo at han skulle prøve å se situasjonen fra sjefens perspektiv. Etter litt refleksjon skjønte vennen at … tålmodige og bruke en vennlig tone. 1. Start med ros og ærlig påskjønnelse. Tenk deg at du er en sjef som trenger å fortelle en ansatt at de har gjort en feil. Hva gjør du? Du starter ikke med kritikk. Det vil bare få dem til å føle seg angrepet. I stedet starter du med noe positivt. For eksempel: \"Du har gjort en fantastisk jobb med prosjektet ditt, og jeg er virkelig imponert over innsatsen din.\" Når du så nevner forbedringspunktet, er det lettere for dem å ta det til seg. Dale Carnegie sier: \" Å starte med ros er som å slippe sukker i bitter medisin.\" Det blir lettere å svelge. 2. … jeg skulle få det riktig.\" Dette skaper en forbindelse og viser at du ikke er der for å dømme. 4. Still spørsmål i stedet for å gi ordre. Hvem liker å bli beordret rundt? I stedet for å si: \"Gjør dette nå.\" Kan du spørre: \"Hva tenker du om å prøve dette på en annen måte?\" Spørsmål inviterer til samarbeid, mens ordre skaper motstand. 5. La personen redde ansiktet. Hvis noen gjør en feil, er det lett å ydmyke dem uten å mene det. For eksempel, hvis en kollega kommer for sent til et viktig møte, kan du si noe som: \"Jeg vet det sikkert var mye trafikk i dag.\" Dette lar dem beholde verdigheten. 6. … Det samme gjelder voksne. Vi alle trenger litt oppmuntring. 9. Få personen til å føle at feilen kan fikses. Når noen gjør en feil, er det viktig å vise at det ikke er verdens undergang. Si noe som: \"Dette er en enkel feil å rette opp.\" \"Jeg vet, du kan håndtere det.\" Dette gir trygghet og selvtillit. Jeg håper du har lært noe nytt om hvordan du kan kommunisere bedre med andre og hjelpe dem på en positiv måte. Husk, små ord og handlinger kan gjøre en stor forskjell. Ikke glem å gi meg en tommel opp! Har du noen tanker eller spørsmål? Legg igjen en kommentar nedenfor. Vi sees i neste video.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0455
+  "src": "cc"
  },
  "tKWcTD8-Z40": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-17T02:48:15+00:00",
+  "checked": "2026-11-24T20:49:28+00:00",
   "title": "Learn Norwegian - Beginner Story A0 Part 24",
   "duration": 135,
   "published": "20250617",
@@ -51516,6 +52624,7 @@
   "pace": 113.9,
   "rare": 0.0317,
   "var": 0.7141,
+  "cl": 0.004,
   "speech_s": 132.8,
   "tokens": 252,
   "kw": [
@@ -51624,11 +52733,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "tok",
+    "slips. Han tok på seg dress og pene sko.",
+    65,
+    74,
+    5.67,
+    2
+   ],
+   [
+    "viktig",
+    "på et viktig møte. Han dusjer og barberer seg. Han finner",
+    26,
+    37,
+    5.67,
+    2
+   ],
+   [
+    "kontoret",
+    "mappe. Han tar bussen til kontoret. Han",
+    47,
+    55,
+    4.41,
+    3
+   ],
+   [
+    "frokost",
+    "og smiler. Han spiser frokost og drikker",
+    40,
+    48,
+    4.4,
+    3
+   ],
+   [
+    "dokumentene",
+    "kaffe. Han pakker dokumentene sine i en",
+    43,
+    52,
+    3.82,
+    2
+   ],
+   [
+    "slips",
+    "en skjorte og et slips. Han tar på seg",
+    32,
+    41,
+    3.73,
+    2
+   ],
+   [
+    "dusjer",
+    "Han dusjer og barberer seg. Han finner",
+    29,
+    37,
+    3.55,
+    1
+   ],
+   [
+    "barberer",
+    "Han dusjer og barberer seg. Han finner",
+    29,
+    37,
+    3.49,
+    1
+   ],
+   [
+    "jeans",
+    "Har han på seg jeans? Nei, han har på",
+    95,
+    103,
+    3.45,
+    1
+   ],
+   [
+    "dusjet",
+    "på et viktig møte. Han dusjet og",
+    59,
+    66,
+    3.35,
+    1
+   ],
+   [
+    "barberte",
+    "barberte seg. Han fant en skjorte og et",
+    62,
+    71,
+    3.04,
+    1
+   ]
+  ],
   "tx": "Hei, jeg heter en. Velkommen til Way to Norway. I denne videoen skal vi lese en enkel historie på norsk. Du lærer nye ord og vanlige setninger. Jobb aktivt, lytt, snakk høyt og skriv ned det du lærer. Gjenta videoen flere ganger for å lære raskere. Del 1. Gunnar står opp tidlig. Han skal på et viktig møte. Han dusjer og barberer seg. Han finner en skjorte og et slips. Han tar på seg dress og pene sko. Han ser seg i speilet og smiler. Han spiser frokost og drikker kaffe. Han pakker dokumentene sine i en mappe. Han tar bussen til kontoret. Han føler seg klar og profesjonell. Del 2. Gunnar sto opp tidlig. Han skulle på et viktig møte. Han dusjet og barberte seg. Han fant en skjorte og et slips. Han tok på seg dress og pene sko. Han så seg i speilet og smilte. Han spiste frokost og drakk kaffe. Han pakket dokumentene sine i en mappe. Han tok bussen til kontoret. Han følte seg klar og profesjonell. Kontrollspørsmål. Står Gunnar opp sent? Nei, han står opp tidlig. Har han på seg jeans? Nei, han har på seg dress og pene sko. Hva gjør han etter han kler på seg? Han spiser frokost og drikker kaffe. Hvordan drar han til kontoret? Han tar bussen. Føler han seg profesjonell? Ja, han føler seg klar og profesjonell. Bra jobbet. Du har trent mange ord og vanlige setninger. Vil du lære mer, gå til Way to Norway på Patreon. Linken er i beskrivelsen.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.004
+  "src": "auto"
  },
  "uMy7iDi3hqo": {
   "channel": "Erlend - Way 2 Norway",
@@ -52115,7 +53313,7 @@
  "zouv3upXAGU": {
   "channel": "Norsk Tolk | NTN Skole",
   "lang": "no",
-  "checked": "2026-11-17T02:55:44+00:00",
+  "checked": "2026-11-24T20:46:30+00:00",
   "title": "Lær Norsk Gjennom Historier || Livet til Pi 🔥|| (Kapittel 1-10)",
   "duration": 2954,
   "published": "20241119",
@@ -52124,6 +53322,7 @@
   "pace": 103.4,
   "rare": 0.0899,
   "var": 0.8161,
+  "cl": 0.0488,
   "speech_s": 2949.0,
   "tokens": 5081,
   "kw": [
@@ -52288,11 +53487,92 @@
     6
    ]
   ],
+  "kx": [
+   [
+    "kjenner",
+    "Det er en stor forandring å forlate alt han kjenner – byen Pondicherry, skolen, vennene, og selvfølgelig dyrene.",
+    300,
+    312,
+    5.49,
+    14
+   ],
+   [
+    "tro",
+    "Pi sier: \"Jeg vil tro på Gud uansett hvilken form han har.\"",
+    180,
+    187,
+    5.51,
+    13
+   ],
+   [
+    "øya",
+    "Kapittel 7: Den forræderske flytende øya.",
+    1957,
+    1963,
+    4.67,
+    14
+   ],
+   [
+    "kapittel",
+    "Kapittel én: gutten med et merkelig navn.",
+    2,
+    8,
+    4.32,
+    13
+   ],
+   [
+    "overlevd",
+    "Det er flere dyr som også har overlevd skipsforliset.",
+    708,
+    712,
+    4.04,
+    6
+   ],
+   [
+    "smiler",
+    "Han ser på Richard Parker og smiler litt.",
+    1933,
+    1938,
+    4.14,
+    4
+   ],
+   [
+    "følgesvenn",
+    "\"Hvordan skal jeg overleve med en tiger som følgesvenn?\"",
+    989,
+    995,
+    3.17,
+    3
+   ],
+   [
+    "etterforskerne",
+    "Etterforskerne tviler på historien. \"En tiger? På en livbåt?\" spør de skeptisk.",
+    2619,
+    2626,
+    3.11,
+    3
+   ],
+   [
+    "livbåt",
+    "Pi ser en livbåt som holder på å bli senket ned i vannet, og han hopper inn i den i siste øyeblikk.",
+    566,
+    575,
+    2.87,
+    4
+   ],
+   [
+    "lasteskip",
+    "De selger dyrehagen og planlegger å reise over Stillehavet med et lasteskip som heter Tsimtsum.",
+    239,
+    249,
+    2.95,
+    3
+   ]
+  ],
   "tx": "Livet til Pi. Kapittel én: gutten med et merkelig navn. Pi er en gutt som vokste opp i den fargerike byen Pondicherry i India. Pi er smart, nysgjerrig, og elsker å lære om verden rundt seg. Hans egentlige navn er Piscine Molitor Patel, oppkalt etter et berømt svømmebasseng i Paris. Men som barn oppdaget Pi at navnet hans kunne misforstås og bli til et mobbenavn: \"Pissing\". Derfor bestemte han seg for å forkorte navnet sitt til bare Pi. Pi kommer fra en spennende familie. Faren hans, Mister Patel, eier en dyrehage i Pondicherry. Pi og broren Ravi tilbringer mye tid blant dyrene, og de lærer … selvfølgelig dyrene. Pi tenker for seg selv: \"Hva venter oss i Canada?\" \"Vil jeg like det nye landet?\" \"Hvordan skal jeg klare meg uten dyrene?\" Familien går om bord på skipet sammen med mannskapet og dyrene. Tsimtsum er et stort lasteskip fylt med bur, kasser og containere. Mange av dyrene fra dyrehagen er med på reisen. Sebraer, aper, fugler, og til og med tigeren Richard Parker. Pi og Ravi utforsker skipet. De møter kapteinen, som er en vennlig mann, men han advarer dem. \"Husk at dette er et arbeidsskip,\" sier kapteinen. \"Det kan bli røft vær på havet, så vær forsiktige.\" Faren minner … frykten ta tak i ham, men han vet at han må holde seg rolig. Kapittel 3: Stormen og skipsforliset. Pi er alene i livbåten, omgitt av mørket og lyden av stormen. Skipet Tsimtsum er borte, sunket i det endeløse havet. Pi kjenner at hjertet banker hardt i brystet. Det tar noen sekunder før han forstår hva som har skjedd. I båten ser han en stor skikkelse i skyggen. Det er tigeren Richard Parker. Pi føler frykten griper ham. Han vet at tigeren er et farlig rovdyr og at han må holde seg unna. \"Hvis jeg beveger meg, vil han angripe,\" tenker Pi. Mens stormen raser, ser Pi noe annet i båten. Det er … Parker. Han sitter der alene på flåten og ser tilbake på livbåten. Han er utslitt, men han er i live for nå. \"Hvordan skal jeg overleve dette?\" spør han seg selv. \"Hvordan skal jeg overleve med en tiger som følgesvenn?\" Kapittel 4: Ansikt til ansikt med tigeren. Pi sitter på den lille flåten med tauet som forbinder ham til livbåten hvor Richard Parker befinner seg. Han føler seg utmattet og skremt, men han vet at han har gjort det eneste han kunne for å overleve. Flåten er liten og ustabil, og Pi må holde balansen for å unngå å falle i det kalde havet. Solen begynner å stige, og Pi ser rundt. … like redd som meg,\" tenker Pi. \"Vi er begge fanget her, og vi må finne en måte å overleve sammen på.\" Neste morgen bestemmer Pi seg for å ta et risikabelt steg. Han klatrer forsiktig om bord i livbåten igjen, bevæpnet med en liten åre og en fisk som han har fanget. Han slår åren mot siden av båten og roper høyt: \"Dette er mitt territorium, Richard Parker!\" \"Jeg er kapteinen her.\" Richard Parker stirrer på Pi, men han angriper ikke. I stedet trekker han seg litt unna, og Pi kjenner en sterk følelse av å ha lykkes. \"Det fungerer,\" sier han til seg selv. Pi vet at dette bare er begynnelsen. … men han er alltid forsiktig. Han lager en liten soveplass til seg selv på flåten og bruker tauet som en barriere mellom ham og tigeren. \"Dette er mitt område,\" sier Pi. \"Og det er ditt område.\" Tigeren ser ut til å akseptere dette, og de finner en slags balanse. Pi begynner å føle at de har funnet en slags rytme. Hver dag fisker han, blåser i fløyten og gir tigeren mat. Han ser etter tegn på land, men dag etter dag er det bare hav så langt øyet kan se. Han snakker med tigeren som om han var en venn: \"Richard Parker,\" \"Vi er to små prikker i et stort, stort hav.\" \"Kanskje vi kommer til … \" sier han til seg selv. \"Jeg må fortsette. For min egen skyld, for familien min, for livet.\" En kveld ser Pi på solnedgangen. Fargene blander seg sammen: rødt, oransje, rosa og lilla. Han kjenner en uventet følelse av takknemlighet. \"Jeg er fortsatt her,\" sier Pi høyt. \"Jeg er fortsatt i live.\" Han ser på Richard Parker og smiler litt. \"Og du er her med meg.\" \"Vi er to overlevende.\" For første gang føler de seg ikke helt alene. Selv om det er en tiger, har han en følgesvenn. Det er noe å holde fast i. Kapittel 7: Den forræderske flytende øya. Pi ligger utmattet på flåten. Solen steker, … at dette bare vil vare i noen få dager. Han føler seg sliten, både fysisk og psykisk. \"Jeg må fokusere,\" sier Pi til seg selv. \"Jeg kan ikke gi opp nå.\" Dagene går, og forsyningene minker. Han fisker hver dag, men fangsten blir dårligere. Han har bare litt vann igjen, og solen steker nådeløst. Han ser på Richard Parker, som ser utsultet ut. \"Vi trenger begge mat,\" tenker Pi. \"Vi må overleve sammen.\" Pi ser mørke skyer i horisonten og kjenner vinden ta seg opp. Han forbereder båten før stormen som nærmer seg. Når stormen treffer, er den kraftig. Bølgene er høye som hus, og båten blir kastet … \"Han sa ikke farvel,\" tenker Pi. \"Han bare dro.\" \"Det er som å miste en venn.\" Pi blir løftet opp av mannskapet fra redningsbåten. De pakker ham inn i et teppe, gir ham vann, men Pi kan knapt snakke. Han ser tilbake på livbåten som driver bortover vannet. Det er som å se på et gammelt kapittel som forsvinner. \"Jeg er i live,\" hvisker Pi. \"Jeg er reddet.\" I Mexico blir Pi tatt til sykehus. Etter noen dager kommer to etterforskere for å spørre om hva som skjedde med Tsimtsum. Pi forteller dem historien om skipsforliset og reisen med Richard Parker. Etterforskerne tviler på historien. \"En … glemme deg.\" Han legger tegningen tilbake i skuffen, men minnene vil alltid være med ham. Historien om Pi Patel, en reise mot redningen. Den fortsetter i hver person som hører den, og som velger hvilken versjon de vil tro på. \"Livet er en fortelling,\" sier Pi til seg selv. \"Du må velge historien som gir deg mening.\" Han ser opp på stjernene og smiler. \"Og jeg valgte troen.\" Gi oss en tommel opp og abonner på kanalen for flere spennende fortellinger. Del gjerne videoen med venner som vil lære norsk gjennom historier. Din støtte hjelper oss med å lage enda mer innhold. Vi sees i neste video.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0552
+  "src": "cc"
  },
  "jVGkXNn0Y_E": {
   "channel": "Norsk Tolk | NTN Skole",
