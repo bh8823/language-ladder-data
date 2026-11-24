@@ -9067,7 +9067,7 @@
  "tnD6uU7VkQ8": {
   "channel": "Norwegian Input",
   "lang": "no",
-  "checked": "2026-11-12T00:39:48+00:00",
+  "checked": "2026-11-24T00:31:23+00:00",
   "title": "Speaking Norwegian in my apple garden | Beginner Norwegian input",
   "duration": 476,
   "published": "20250803",
@@ -9076,6 +9076,7 @@
   "pace": 63.5,
   "rare": 0.0852,
   "var": 0.5536,
+  "cl": 0.0208,
   "speech_s": 454.5,
   "tokens": 481,
   "kw": [
@@ -9216,11 +9217,84 @@
     7
    ]
   ],
+  "kx": [
+   [
+    "fortsatt",
+    "Eplene er fortsatt litt eh litt grønn her. Litt grønne, litt rød.",
+    114,
+    132,
+    5.65,
+    2
+   ],
+   [
+    "ute",
+    "I dag er jeg i hagen ute og jeg skal",
+    17,
+    31,
+    5.63,
+    2
+   ],
+   [
+    "gule",
+    "Dette er epletre med gule epler. Farven",
+    84,
+    95,
+    4.44,
+    4
+   ],
+   [
+    "hagen",
+    "I dag er jeg i hagen ute og jeg skal",
+    17,
+    31,
+    4.71,
+    3
+   ],
+   [
+    "gult",
+    "Dette er et gult eple. Ikke helt modent.",
+    202,
+    213,
+    4.18,
+    4
+   ],
+   [
+    "fargen",
+    "Dette epletreet er epler med fargen rød.",
+    95,
+    107,
+    4.16,
+    4
+   ],
+   [
+    "epletrær",
+    "Jeg har to epletrær i hagen.",
+    78,
+    85,
+    2.3,
+    1
+   ],
+   [
+    "epletreet",
+    "Dette epletreet er epler med fargen rød.",
+    95,
+    107,
+    2.26,
+    1
+   ],
+   [
+    "epletrærne",
+    "se på epletrærne mine ute.",
+    26,
+    41,
+    2.01,
+    1
+   ]
+  ],
   "tx": "Hei, jeg heter Erik. Jeg er fra Norge. I dag er jeg i hagen ute og jeg skal se på epletrærne mine ute. Liker du å m spise eple? Jeg liker å spise eple. Her er et epletre. Og her er et annet epletre. Jeg har to epletr i hagen. Ett epletre her og et epletre her. Her er det et epletre og her er det et annet epletre. Jeg har to epletrær i hagen. Dette er epletre med gule epler. Farven gul her. Dette epletreet er epler med fargen rød. Røde epler. Rød. Eplene er ikke helt eh modne enå. Eplene er fortsatt litt eh litt grønn her. Litt grønne, litt rød. Litt rød, men også grønn. Eple ikke modent. Den er >> Mhm. >> smaker sur. Surt. Smaker surt å spise eple når det ikke er modent. Eple som ikke er modent heter eplekart. Dette er et eplekart for eple er ikke modent. Oh. Eple er surt. Eple er ikke modent. Det er eplekart. Det smaker surt. Eplekart er ikke godt å spise. Det er bedre å spise modne epler. Her er gule epler. Skal vi se. Vi finner et her. Et eple her. Her har vi et eple som er ja nesten modent. Og et blad. Det kaster jeg. Dette er et gult eple. Ikke helt modent. Kanskje er det eplekart. Jeg kan eh smake. Jeg spiser litt av eple smaker om det er modent eller om det er m surt og er eplekart. Mm. Ja, det er ikke helt modent, men det smaker ganske godt. Smaker ganske godt. Ikke helt modent. Bare litt surt. Litt surt. Sult. Litt surt. Eple er litt grønt. Det skal egentlig være gult når det er modent. Skal egentlig være fargen gul når det er modent. Dette eple er fortsatt grønt. Her er et brunt eple. Fargen brun. Jeg spiser ikke brune epler. Æsj. Brune epler er ødelagte. Brune epler er vondt. Dette er et brunt eple. Et brunt eple som ikke ser godt ut. Æsj, det epet vil jeg ikke spise. Brune epler, det kaster jeg. Jeg liker ikke brune epler. Det er et eple som er mer gult. Eple her er mer gult. Farven gul. Så den smaker kanskje bedre her. Det er noen prikker, prikker, flekker der. 1 2 3. Flekker på eple. Prikker. Det kan være mark inni eple. Jeg pleier å se om det er mark i eple. Jeg liker ikke å spise mark. Nei. Mm. Ingen mark i eple her. Ingen merk. Ingen merk i eple. Det er bra. Dette eple er ganske modent. Det smaker godt. Mm. Dette eple smaker veldig godt. Eple er modent. Liker du eple? Og hvilken farge på eple liker du best? Liker du best røde epler, gule epler eller grønne epler? Jeg liker best gule epler. Fargen gul. Fortell meg i kommentarfeltet under hva du liker best. Rød, gul eller grønne epler. Ha det. Ja.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0208
+  "src": "auto"
  },
  "K-b6EbDWU0w": {
   "channel": "Norwegian Input",
@@ -9769,7 +9843,7 @@
  "sh6htSOguYY": {
   "channel": "Learn Norwegian Naturally",
   "lang": "no",
-  "checked": "2026-11-12T00:42:22+00:00",
+  "checked": "2026-11-24T00:38:35+00:00",
   "title": "How To Sound More Norwegian | Speaking Norwegian #28 (Norwegian & English Subtitles)",
   "duration": 236,
   "published": "20210724",
@@ -9778,6 +9852,7 @@
   "pace": 128.9,
   "rare": 0.0257,
   "var": 0.6717,
+  "cl": 0.0578,
   "speech_s": 217.4,
   "tokens": 467,
   "kw": [
@@ -9862,11 +9937,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sånn",
+    "Det kommer inn en sånn SJ-lyd når du har R og S.",
+    81,
+    89,
+    5.6,
+    4
+   ],
+   [
+    "fort",
+    "Første setning er, nå skal jeg først lese den sakte og så skal jeg lese den fort.",
+    41,
+    50,
+    5.4,
+    4
+   ],
+   [
+    "haha",
+    "Oj, haha, nå gjorde jeg faktisk en annen ting også, som",
+    119,
+    124,
+    4.76,
+    1
+   ],
+   [
+    "sannsynligvis",
+    "den uttalen fordi du sannsynligvis kommer til å høre den varianten veldig ofte,",
+    213,
+    219,
+    4.75,
+    1
+   ],
+   [
+    "punkter",
+    "I dag så tenkte jeg å snakke om et par punkter som kan være litt forvirrende",
+    4,
+    15,
+    4.18,
+    1
+   ],
+   [
+    "hjertelig",
+    "Hei hei og hjertelig velkommen til en ny video.",
+    0,
+    4,
+    3.9,
+    1
+   ],
+   [
+    "punktene",
+    "disse punktene jeg nevnte eller at du burde uttale det på den måten.",
+    199,
+    205,
+    3.9,
+    1
+   ],
+   [
+    "forvirrende",
+    "I dag så tenkte jeg å snakke om et par punkter som kan være litt forvirrende",
+    4,
+    15,
+    3.75,
+    1
+   ],
+   [
+    "varianten",
+    "den uttalen fordi du sannsynligvis kommer til å høre den varianten veldig ofte,",
+    213,
+    219,
+    3.73,
+    1
+   ],
+   [
+    "uttalen",
+    "den uttalen fordi du sannsynligvis kommer til å høre den varianten veldig ofte,",
+    213,
+    219,
+    3.17,
+    1
+   ],
+   [
+    "østlendinger",
+    "hvis du flytter til Oslo eller til Norge eller snakker med østlendinger da.",
+    219,
+    226,
+    3.17,
+    1
+   ]
+  ],
   "tx": "Hei hei og hjertelig velkommen til en ny video. I dag så tenkte jeg å snakke om et par punkter som kan være litt forvirrende hvis du snakker med noen som kommer fra østlandet i Norge, fordi det er et par ting som i alle fall mange folk på østlandet gjør når de snakker norsk som kanskje kan være litt nytt for noen av dere. Så la oss begynne med første setning. Første setning er, nå skal jeg først lese den sakte og så skal jeg lese den fort. \"Det er så mange ting jeg har lyst til å gjøre.\" Og hvis jeg skal lese denne setningen fort, så ville jeg da sagt \"Det er SJå\". \"Det er så mange ting jeg har lyst til å gjøre.\" Hørte dere forskjellen? Man kan enten si: \"Det er så\", eller så kan man si: \"Det er SJå\" Det kommer inn en sånn SJ-lyd når du har R og S. Og det er ikke alltid sånn, men det er ofte sånn, særlig når du har for eksempel \"er\" pluss et annet ord som starter på S, så er det i hvert fall ofte at det blir SJ-lyd i mellom da, så det er en ting som er verdt å legge merke til. \"Det er så mange ting jeg har lyst til å gjøre i dag.\" Neste setning, det er: \"Jeg har ikke tid.\" \"Jeg har ikke tid så jeg får ikke vært med i dag.\" Oj, haha, nå gjorde jeg faktisk en annen ting også, som jeg hadde tenkt å nevne, men jeg sa: \"Så jeg FÅ'KKE vært med.\" Det riktige er jo da: \"Så jeg får ikke vært med.\", men når jeg snakker fort, når folk fra Oslo eller østlandet snakker fort så sier man ofte: \"Jeg FÅ'KKE vært med\", og det er det samme her. \"Jeg HA'KKE tid.\" \"Jeg har ikke tid.\" \"Jeg HA'KKE tid.\" \"Jeg vil ikke være med.\" \"Jeg VI'KKE være med.\" Og siste setning jeg tenkte å nevne for dere i dag, er denne her: \"Har han kommet enda?\" Hvordan tror dere jeg sier den setningen? \"Har han kommet enda?\" \"HaR'N kommet enda?\" Jeg sier ikke: \"Har han kommet enda?\" -> \"HaR'N kommet enda?\" \"Hei, har'n kommet enda?\" Ja, men det er ikke sånn at hvis du lærer norsk at du burde bruke disse punktene jeg nevnte eller at du burde uttale det på den måten. Det er så, jeg har ikke, jeg vil ikke, har han? Men det er veldig lurt å bli vant til den uttalen fordi du sannsynligvis kommer til å høre den varianten veldig ofte, hvis du flytter til Oslo eller til Norge eller snakker med østlendinger da. Ja, det var alt jeg tenkte å nevne i dag. Men vi snakkes i neste video! Ha det bra! Stå på, folkens!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0578
+  "src": "cc"
  },
  "Ai_sSbdQYjU": {
   "channel": "Norwegian Teacher - Karin",
@@ -10809,7 +10973,7 @@
  "UKqkWeDHCDk": {
   "channel": "Learn Norwegian Now! (Lær Norsk Nå)",
   "lang": "no",
-  "checked": "2026-11-12T00:48:01+00:00",
+  "checked": "2026-11-24T00:27:51+00:00",
   "title": "What actually is a language? [EASY NORWEGIAN]",
   "duration": 1008,
   "published": "20250401",
@@ -10818,6 +10982,7 @@
   "pace": 103.9,
   "rare": 0.0597,
   "var": 0.7304,
+  "cl": 0.0515,
   "speech_s": 987.1,
   "tokens": 1709,
   "kw": [
@@ -10982,11 +11147,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "engelsk",
+    "– norsk, kinesisk, engelsk, russisk, svensk, islandsk, albansk, serbisk –",
+    24,
+    33,
+    5.07,
+    9
+   ],
+   [
+    "ulike",
+    "Norsk, et språk som norsk og kinesisk, er veldig ulike hverandre.",
+    426,
+    435,
+    5.27,
+    8
+   ],
+   [
+    "himmelen",
+    "Så for eksempel kan et barn plutselig se opp mot himmelen og bare si:",
+    223,
+    230,
+    4.45,
+    4
+   ],
+   [
+    "samisk",
+    "mens samisk, som også ligger innenfor Norge, der er det gode grunner.",
+    913,
+    920,
+    4.23,
+    4
+   ],
+   [
+    "setninger",
+    "Vi kan lage nye setninger på grunn av at vi har grammatikk.",
+    124,
+    131,
+    4.02,
+    3
+   ],
+   [
+    "dialekter",
+    "Kan ikke de være dialekter av hverandre?",
+    853,
+    859,
+    3.84,
+    3
+   ],
+   [
+    "sapiens",
+    "Sannsynligvis, men vi vet ikke om det var på samme måte som oss, Homo sapiens.",
+    358,
+    368,
+    3.02,
+    2
+   ],
+   [
+    "nysgjerrige",
+    "så barn, for eksempel, er mer kreative, mer interesserte og nysgjerrige på språk.",
+    212,
+    224,
+    3.58,
+    1
+   ],
+   [
+    "apekatter",
+    "Altså at apekatter ikke kan lære språk.",
+    173,
+    180,
+    2.85,
+    3
+   ],
+   [
+    "østnorsk",
+    "altså, nå snakker jeg ikke jærsk, østnorsk,",
+    936,
+    940,
+    2.84,
+    3
+   ]
+  ],
   "tx": "Hei, alle sammen. I denne videoen tenkte jeg å snakke litt om språk. For dere som ser på denne videoen lærer norsk. Men hva betyr det egentlig å lære norsk? Hva er et språk? Hva er det som gjør menneskespråk – norsk, kinesisk, engelsk, russisk, svensk, islandsk, albansk, serbisk – hva det enn måtte være. Hva er det som gjør det annerledes enn når dyr kommuniserer, når aper brøler til hverandre, eller når hunnhjorten lager lyder for å tiltrekke seg hannhjorter, hva er det som gjør at det jeg snakker nå, er et språk? Og når bier kommuniserer med hverandre - det er ikke et språk. Det har med … måter å kommunisere på, og bare det i løpet av hele livet. De vil aldri få flere måter å kommunisere på. Mens vi mennesker, derimot ... Vi kan lage nye setninger på grunn av at vi har grammatikk. Så grammatikk: adjektiver, substantiver, adverb, gjør at vi kan lage helt nye meninger med de ordene vi har. Men kan dyr lære seg menneskespråk? Kan for eksempel en apekatt, som er et ganske komplekst dyr, kan de lære å snakke som et menneske? Eller kan de lære noe av et menneskespråk? Kan de lære å lage setninger?Kan de lære grammatikk slik vi kan? Det har blitt gjort forsøk på dette. Alt tyder på … er mer kreative, mer interesserte og nysgjerrige på språk. Så for eksempel kan et barn plutselig se opp mot himmelen og bare si: \"Oi, himmel!\" til foreldrene sine – ikke fordi de vil ha himmelen. Det går ikke an å spise himmelen. Barnet kan ikke gjøre noe med himmelen. Men barnet vil bare ... ... dele en erfaring med foreldrene. Det er forskjellen på mennesker (barn) og apekatter. Barn vil prøve å lære nye ting. De vil prøve å si nye ting. De lærer seg grammatikk, de lærer seg å bruke språket på nye måter. Noe en ape aldri vil gjøre. En apekatt kan lære seg \"banan\", kan lære seg enkle … aldri glemme ordet for \"jeg\". Eller for \"du\" eller \"banan\". OK. Det virker altså som at vi mennesker er de eneste på jorda, i hvert fall nå, som kan språk. De er veldig usikre på om tidligere menneskearter har kunnet språk. For eksempel: Snakket neandertalerne med hverandre? Sannsynligvis, men vi vet ikke om det var på samme måte som oss, Homo sapiens. Det får vi vel heller aldri vite. Sannsynligvis var det kontakt mellom Homo sapiens og Homo neandertalensis. Vi kan nok anta at de hadde en form for kompleks... ... En eller annen form for komplekst språk også. Men de lever ikke. Det gjør vi. … De fungerer på veldig annerledes måter. De har helt andre ord for å beskrive ting. Men så har vi for eksempel tysk, et språk som er mye nærmere norsk, som deler mer med norsk enn kinesisk. Derfor har vi delt inn språk i språkfamilier. Språkgrupper med språk som er nær hverandre, som ligner hverandre. De har ofte med geografisk nærhet å gjøre. Hvis du er nærme et annet land, ei annen gruppe mennesker, er det også større sannsynlighet... Da er det mer kontakt og større sannsynlighet for at man snakker et mer likt språk. Men dette er ikke alltid tilfellet. For eksempel bor det samer og … ligner, i hvert fall hvis vi ser i et større historisk perspektiv. Indoeuropeiske språk kan være norsk og tysk. Engelsk – germanske språk, alle sammen. Det kan også være spansk, fransk, rumensk – som er romanske språk. Det kan være slaviske språk som russisk, serbisk og polsk. Det kan være albansk, som ikke er direkte knyttet i en grein med noen andre. Men det er et indoeuropeisk språk. Det kan være gresk. Det kan også være iransk eller noen enkelte språk i India. Og faktisk helt til Vest-Kina... Det er ganske stort geografisk spenn. Og selfølgelig har vi også indoeuropeiske språk andre … vest- og øst-germanske språk. Så vest- og østgermanske språk. Så vestgermanske språk er tysk. Her kommer jeg ikke lenger. Vestgermanske språk er tysk, engelsk eller nordgermanske språk. De skandinaviske språkene og nordiske språkene. For eksempel så engelsk... Engelsk er vel for så vidt også i en subgruppe innenfor vest-germanske. For eksempel er tysk og nederlandsk nærmere hverandre enn tysk og engelsk. Men du har f.eks. frisisk, som er et språk i Nederland, tror jeg. Som er ganske nær engelsk og nederlandsk, for så vidt en slags mellomting. Men uansett har vi også en lignende situasjon i … og dansk, men som er nærmere norsk, svensk og dansk enn de er tysk eller engelsk. Ja, Er det noe mer å si om språk? Ja, vi kan snakke litt om dialekt. Når blir et språk eget språk? Når er det en dialekt innenfor et språk? Og når er det et eget språk? Her kan vi dele inn i lingvistiske grunner og mer sosiale og politiske grunner. For eksempel... En god lingvistisk grunn er tysk og norsk. De er nær hverandre, men jeg kan ikke forstå tysk. Jeg må lære meg tysk. En tysker vil ikke forstå norsk uten å ha studert norsk. Uten å ha lært norsk. Vi kan forstå enkelte ord. Vi kan forstå bitte … Sverige er en stat, Danmark er en stat. De har statlig støtte, altså sterke, de støtter bruken av språk. De har en standardisert versjon. I Norge har vi bokmål og nynorsk. I Sverige har de rikssvensk, Danmark, kanskje Riksdansk eller hva de kaller det. Men hvorfor er ikke da norske dialekter ulike språk? Dette har nok mye med at de ligger innenfor Norge. Selv om det kan være lingvistiske grunner, så er det ikke sosiopolitiske grunner. Det er heller ikke sterk nok lingvistiske grunner til å kalle dem et eget språk, mens samisk, som også ligger innenfor Norge, der er det gode grunner. Det … går fint an å kommunisere. Jeg, på jærsk og en annen person på østnorsk uten at det er noe problem. Vi kan også se til andre land. F.eks. er serbisk, kroatisk og bosnisk tre ulike språk, men de er nesten helt like hverandre. Det er også et godt eksempel på at det ikke er gode lingvistiske grunner. Men det er sosio politiske grunner til å definere dem som ulike språk. Men selvsagt av og til er det bedre grunner enn andre til å skille mellom språk. Nå har dere sikkert hørt nok om meg snakke om språk, men jeg går her. Vi får heller snakkes i neste video. Jeg håper dere likte videoen. Ha det bra.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0504
+  "src": "cc"
  },
  "sVRSH1ye3qc": {
   "channel": "To Understand Norwegian",
