@@ -14208,7 +14208,7 @@
  "L_r6Gtb-_Os": {
   "channel": "Vox",
   "lang": "en",
-  "checked": "2026-11-10T05:25:02+00:00",
+  "checked": "2026-11-24T17:38:08+00:00",
   "title": "Your world, explained by Vox: Download our new app",
   "duration": 159,
   "published": "20261028",
@@ -14217,6 +14217,7 @@
   "pace": 153.9,
   "rare": 0.0284,
   "var": 0.8703,
+  "cl": 0.0387,
   "speech_s": 151.2,
   "tokens": 388,
   "kw": [
@@ -14285,11 +14286,132 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "sense",
+    ">> That helps you make sense of the world.",
+    66,
+    71,
+    5.19,
+    3
+   ],
+   [
+    "questions",
+    ">> And it's full of questions.",
+    20,
+    24,
+    5.15,
+    3
+   ],
+   [
+    "videos",
+    "videos in one place. >> Whether it's the big politics story of",
+    130,
+    138,
+    4.79,
+    1
+   ],
+   [
+    "labor",
+    "transformed from labor management to law",
+    12,
+    16,
+    4.77,
+    1
+   ],
+   [
+    "changing",
+    ">> The world is constantly changing.",
+    89,
+    93,
+    4.76,
+    1
+   ],
+   [
+    "america's",
+    "America's next gold rush. >> Where do you go to find news that's",
+    58,
+    64,
+    4.19,
+    1
+   ],
+   [
+    "invested",
+    "invested in building a better future?",
+    61,
+    66,
+    4.19,
+    1
+   ],
+   [
+    "liberals",
+    "liberals in Poland won power back from a",
+    32,
+    37,
+    4.13,
+    1
+   ],
+   [
+    "obsessed",
+    "white house behind me, is obsessed with",
+    40,
+    45,
+    4.08,
+    1
+   ],
+   [
+    "tastes",
+    ">> It tastes like a pool party.",
+    85,
+    92,
+    4.08,
+    1
+   ],
+   [
+    "authoritarian",
+    "to be authoritarian. >> Donald Trump, the president of the",
+    36,
+    41,
+    3.59,
+    1
+   ],
+   [
+    "crater",
+    "volcanic crater might be the site of",
+    56,
+    60,
+    3.55,
+    1
+   ],
+   [
+    "podcasts",
+    "find all of our stories, podcasts, and",
+    128,
+    133,
+    3.48,
+    1
+   ],
+   [
+    "flashpoint",
+    "flashpoint of the regional conflict in",
+    7,
+    11,
+    2.84,
+    1
+   ],
+   [
+    "extraterrestrials",
+    "in how we think about extraterrestrials?",
+    77,
+    81,
+    2.4,
+    1
+   ]
+  ],
   "tx": "Life feels like it's moving faster than ever right now. >> The Strait of Hormuz has become the flashpoint of the regional conflict in the Middle East. >> Showing how immigration policy slowly transformed from labor management to law enforcement. >> What is particularly scary about this El Nino? >> And it's full of questions. >> Are data centers really a necessary evil? Let's find out. >> 2023, liberals in Poland won power back from a government that many people believe to be authoritarian. >> Donald Trump, the president of the United States who lives in that big white house behind me, is obsessed with the 2020 election. >> Who do you trust to find the answers you need? >> And to surface the questions you didn't even know you had. >> Something I discovered on my last reporting trip in Nevada is that inside this 16 million-year-old volcanic crater might be the site of America's next gold rush. >> Where do you go to find news that's invested in building a better future? >> >> That helps you make sense of the world. That surprises you. >> What do you think has caused this shift in how we think about extraterrestrials? >> Vox explains things to you in a way you can understand. That's also fun. >> It tastes like a pool party. >> The world is constantly changing. >> We'll help you make sense of what matters, whether you're reading, watching, or listening. >> I once got into an argument about tennis balls. >> Whether you're short on time or just killing time. >> >> Donald Trump's approval rating in his second term has completely collapsed. >> Ask questions, follow the answers to wherever they lead, understand how things connect and why they matter. That's Vox journalism. >> Behind every story is a person who actually cares about getting it right. >> Vox always helped to make sense of the news that's shaping our world, and now all of that journalism is easier to access. With the new Vox app, you can find all of our stories, podcasts, and videos in one place. >> Whether it's the big politics story of the day, climate solutions that might actually work, or hopeful news about cancer or Alzheimer's research, >> >> Vox's new app brings it all into one place. >> We believe that journalism made for everyday curious people can make a difference in building a better world. Stay curious, understand what matters, download the Vox app.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0387
+  "src": "auto"
  },
  "W3Zn_sjdHxM": {
   "channel": "Vox",
@@ -32468,7 +32590,7 @@
  "UV9OzrlurNc": {
   "channel": "First We Feast",
   "lang": "en",
-  "checked": "2026-11-10T05:28:26+00:00",
+  "checked": "2026-11-24T17:41:10+00:00",
   "title": "Mikey Madison Reckons with Spicy Wings | Hot Ones",
   "duration": 1145,
   "published": "20261001",
@@ -32477,6 +32599,7 @@
   "pace": 169.8,
   "rare": 0.0405,
   "var": 0.8094,
+  "cl": 0.0496,
   "speech_s": 1047.5,
   "tokens": 2964,
   "kw": [
@@ -32625,16 +32748,113 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bit",
+    "I already feel a little bit warm,",
+    53,
+    56,
+    5.37,
+    11
+   ],
+   [
+    "things",
+    "on FX's \"Better Things.\" Now you can catch her playing whistleblower Francis Haugen",
+    24,
+    30,
+    5.74,
+    10
+   ],
+   [
+    "actor",
+    "What's the homework like for an actor",
+    101,
+    104,
+    4.65,
+    5
+   ],
+   [
+    "valley",
+    "of the Valley on film? - Oh, my gosh.",
+    284,
+    288,
+    4.72,
+    4
+   ],
+   [
+    "tense",
+    "(tense orchestral music) I am feeling, like, quite dewy at the moment.",
+    527,
+    533,
+    3.95,
+    3
+   ],
+   [
+    "vegan",
+    "What's the key to a perfect batch of vegan cookies?",
+    696,
+    699,
+    3.95,
+    3
+   ],
+   [
+    "clicked",
+    "but at a certain point, something kind of just clicked",
+    610,
+    614,
+    3.56,
+    1
+   ],
+   [
+    "sweaty",
+    "I'm kind of, like, a bit sweaty, but I'm okay otherwise.",
+    723,
+    729,
+    3.56,
+    1
+   ],
+   [
+    "thoroughbred",
+    "Every thoroughbred alive today traces back to how many foundational stallions?",
+    864,
+    870,
+    2.98,
+    1
+   ],
+   [
+    "heady",
+    "I realize that this is kind of a heady question to ask",
+    1002,
+    1006,
+    2.93,
+    1
+   ],
+   [
+    "applauding",
+    "(people applauding) (uplifting guitar music)",
+    1096,
+    1104,
+    2.91,
+    1
+   ],
+   [
+    "steeper",
+    "Which was a steeper learning curve for you,",
+    581,
+    584,
+    2.91,
+    1
+   ]
+  ],
   "tx": "- It really just hit me. (laughs) (relaxed orchestral music) - Hey, what's going on everybody? For First We Feast, I'm Sean Evans and you're watching \"Hot Ones,\" it's the show with hot questions and even hotter wings, and today, we're joined by Mikey Madison. She's an Academy Award-winning actress who broke through as the title character in Sean Baker's \"Anora,\" as well as a memorable five-season run on FX's \"Better Things.\" Now you can catch her playing whistleblower Francis Haugen in Aaron Sorkin's \"The Social Reckoning,\" which is set to hit theaters on October 9th, Mikey Madison, welcome … play the character from his script, even when I told him I read her memoir, he was a little bit like, \"Oh, okay,\" and I was like, \"Okay, so do you want this to be a big transformation? Like, I'm really willing to go there because there's so many differences between me and Francis, you know, physically and vocally and in so many different ways,\" and he was like, \"No.\" You know, she's the most incredible inspiration for this script, but really the story and what she did is most important, and so, he wanted me to take lots of liberties with those things. (gentle guitar music) I feel warm, … with it. (gentle guitar music) Cool name. - Beach Bonnet. (Mikey laughing) (gentle guitar music) - It's nice, it's kind of sweet. - But like the first one, I think it's a little bit of a trick, you know? Kinda Trojan horses in that heat. - Yeah, it has, like, a bit of, like, a spicy kick, yeah. - Second act. Story checks out. (people laughing) So you're a rare thing in this business, an actual LA native hailing from Woodland Hills. From \"Magnolia\" to \"Boogie Nights\" to \"Fast Times at Ridgemont High,\" what do you think is the best depiction of the Valley on film? - Oh, my gosh. I think … between drama and humor? - Well, thank you, first of all, I mean, I... When I started \"Better Things,\" I think we shot the pilot when I was 15, so I really knew nothing at all about acting, about, like, being a professional person, and so, I think I kinda started from zero, but I was able to watch some really incredible comedians and dramatic actors as well, so I think I just learned from there, and then, intuitively, like, picked little things up. - I'm catching, like, a little lip burn. - (laughs) Yeah, I think maybe it's lip liner and, like, a little bit of that, but I also... I'm... … one, I think that's a really incredible character that she played, and then, Julianne Moore, you said? Yeah, she's one of my all-time favorites. Maybe one of the films she did with Todd Haynes. - Off the top of your head, without thinking about it too much, what's the best John Hughes movie in your opinion? - \"Pretty in Pink.\" Molly Ringwald, she's so amazing in that, and I think I remember seeing that movie and I felt so inspired by it, but I didn't quite know why, and I was like, \"Well, maybe I want to be a seamstress or a fashion designer,\" and so, I took, like, sewing lessons, and … confidence of like, \"Oh, yeah, I definitely can do that,\" and it took a lot, and then, the Russian, it was a challenge, but at a certain point, something kind of just clicked and I was able to pick it up. - That home invasion sequence, you know, in parts of it, it's genuinely slapstick, and then, in other parts, it's terrifying, like, as an actor, what's your approach to calibrating a scene that's calling for both of those things at once? - As an actor, I was really just trying to be focused on my character's perception of what's happening and how she's feeling, but then as an audience … over-mixing, I always do, like, three times the amount of vanilla than you need, and just, like, a really high-quality vegan butter. I'm kind of, like, a bit sweaty, but I'm okay otherwise. - I wouldn't notice a problem if you asked me. If you're ready, we can move on to Da' Bomb Beyond Insanity. - Okay. Cheers. - Cheers. (dramatic orchestral music) - Yeah, this one was really aggressive. I feel... I was gonna say, I feel like something bad's gonna happen, but yeah, it definitely gets, like, a lot hotter. - As you were about to say, \"I feel like something's about...\" I feel like something … of those ponies out there. Got a couple more for you. How long is a horse typically pregnant? Seven months, 11 months or 16 months? - 16? - It's actually 11 months. - Oh, okay. - But it is a little long. - I know that it's longer than humans. (laughs) - One more for you. Every thoroughbred alive today traces back to how many foundational stallions? A, 3, B, 12, C, 40? (dramatic orchestral music) - 12? - It's actually shocking, it's three, so all of these thoroughbreds that are racing are all distant cousins, and you are thankfully on the other side of the pub quiz and on the other side of … orchestral music) And with that bite, the wings of death are behind us, and to close things out, as I understand it, you began taking acting classes at 14 years old because riding, horseback riding... (Sean clearing throat) Excuse me. (Mikey laughing) Because riding... Horseback riding was too isolating a sport and you wanted a deeper connection with people. I realize that this is kind of a heady question to ask with your brain on fire, but 12 years and an Oscar in, has your acting journey given you that thing that you were searching for? - Yeah, and so much more as well. I... Someone … - Thank you. (Mikey exclaiming in exhaustion) Definitely am very warm, appreciate it. (laughs) (dramatic booming) - When you're sick and tired of the same old game day snacks, then it's time to spice up the menu. Bring the excitement of \"Hot Ones\" to game day with our \"Hot Ones\" hot sauces. Whether it's iconic buffalo wings for a football watch party, a slam dunk of spreads to watch the big basketball tournament, or a spicy taco bar that'll have you and your friends yelling, \"Goal!\" Bring the heat to game day, head to hotones.com to order or find a \"Hot Ones\" hot sauce retailer near you.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0361
+  "src": "cc"
  },
  "Z5OX-o3ytWc": {
   "channel": "First We Feast",
   "lang": "en",
-  "checked": "2026-11-10T05:28:40+00:00",
+  "checked": "2026-11-24T17:41:14+00:00",
   "title": "Doctor Mike | Hot Ones Game Night",
   "duration": 1793,
   "published": "20260930",
@@ -32643,6 +32863,7 @@
   "pace": 197.1,
   "rare": 0.0551,
   "var": 0.7883,
+  "cl": 0.0326,
   "speech_s": 1734.4,
   "tokens": 5697,
   "kw": [
@@ -32807,11 +33028,92 @@
     11
    ]
   ],
+  "kx": [
+   [
+    "we're",
+    "- We're good, we're good. - Wait, wait, wait, wait. - Whoa, buddy!",
+    8,
+    11,
+    5.4,
+    24
+   ],
+   [
+    "eat",
+    "So I can actually eat this whole plate right now",
+    61,
+    64,
+    5.13,
+    22
+   ],
+   [
+    "roll",
+    "First roll's gonna go to you.",
+    117,
+    120,
+    4.75,
+    15
+   ],
+   [
+    "continues",
+    "(Joe sputtering) (suspenseful music continues) I've studied psychology,",
+    598,
+    606,
+    4.79,
+    13
+   ],
+   [
+    "cookies",
+    "- You got me cookies from Levain? - Yeah, dawg, yeah.",
+    1092,
+    1096,
+    4.12,
+    6
+   ],
+   [
+    "horny",
+    "it's just a very horny environment.",
+    231,
+    234,
+    3.79,
+    5
+   ],
+   [
+    "ticking",
+    "(clock ticking) Fucking, a rock.",
+    755,
+    760,
+    3.46,
+    4
+   ],
+   [
+    "grey's",
+    "- \"Grey's Anatomy,\" \"ER,\" \"Scrubs,\" and \"The Pitt.\"",
+    147,
+    152,
+    3.07,
+    4
+   ],
+   [
+    "applauding",
+    "(crew cheering and applauding) - I'm ready to get to the top of this mountain.",
+    44,
+    50,
+    2.91,
+    10
+   ],
+   [
+    "cymbals",
+    "(cymbals ringing) I'm gonna take a smaller bite of this one.",
+    336,
+    340,
+    2.75,
+    6
+   ]
+  ],
   "tx": "- How is it cheating? - Bro, you have so much Botox, I won't be able to read anything. - Botox? (Mike laughing) (dramatic music) (Mike coughing) - I hate the rules in here. - No! - We're good, we're good. - Wait, wait, wait, wait. - Whoa, buddy! Oh my God! - Whoa! - Yeah, I'm the chosen one. (dramatic music intensifies) (lava whooshing) What's up, everyone, I'm Joe Santagato, and welcome to the first ever episode of \"Hot Ones: Game Night.\" We're going to be playing a hot sauce-fueled board game where we'll be answering questions, eating spicy wings, and trying to get to the top of Mount … for the other one. - These are good, though. - So rank these medical dramas from most to least realistic. - Bro, \"The Pitt\" is number one. - Ooh. - There's a reason why they're getting 20+ Emmys every season. They show the ups and downs of being a healthcare worker. It's one day shift, one episode is one hour. That makes it so realistic. Right then and there, boom. (fingers snapping) \"ER\" number two. - Whoa. - \"ER\" prior to \"The Pitt\" was my number one. - Wow. - So Noah Wyle is continually killing you with accuracy. Then we're going \"Scrubs.\" \"Scrubs\" is hilariously realistic. So like, … gives you the ick and move forward two spaces. Refuse to answer and you must eat a Death Wing-\" - No. - \"And go back two spaces.\" - That gives me the ick? I have it. - Oh, you're gonna say it? - I have it. (Joe and crew laughing) - Like, someone comes in, and you're like, \"Oh God.\" - I have it. Yeah, it's three letters. - What is it? What is it? - S.B.O. - S.B.O.? - Small. - Small balls. (Mike and crew laughing) - Bowel. - Small bowel obstruction? - Yes, good job, that's good. - So like, a little blockage in their little- - Yeah, I'll explain why it's a problem. I have a terrible gag … How is it cheating? - Bro, you have so much Botox, I won't be able to read anything. - Botox? (crew laughing) I have never gotten an injection. You probably have Botox. You get them for free, you get little coupons with your doctor friends. (crew laughing) I don't like this. I don't want to do it. I'm not gonna have a poker face for barf, I'm just letting you know right now. - Okay. (soft suspenseful music) - Or I could be faking it. - Mm. (Mike and crew laughing) (Joe sputtering) - Okay. (coughs) (crew laughing) - That was good, see? That's high level. (Joe sputtering) (suspenseful music … voted for because I swear I'd let that man nut in my eyes.\" (clock ticking) (crew laughing) My mother's not gonna like that when she watches this. Last one here we have, \"Dr. Mike could literally use those thick thighs to chest compressions, chest compressions, chest compressions the air out of my lungs and I'd use my last bit of air to apologize to him.\" (clock ticking) (crew chuckling) (cymbals ringing) Technically, you did it. You did it, technically. You did, you saved it. (crew applauding) You're good, that was it. That was a roll. - Oh, I thought you said I broke it. - No, no, no, no, … and what's the lamest kind of doctor?\" (Mike exhaling) \"If you'd rather not throw your colleagues under the bus, eat a Death Wing and move back one space.\" - No, I'm throwing someone under. - Definitely. (laughs) That's real, yeah. (crew laughing) - Someone's getting stuck under the bus. - All right, the coolest, by far, family medicine. - Is that what do you do? (everyone laughing) You're a doctor, right? Are you still a doctor? Are you still a doc? - Yeah, still a doc. - You do family? - Yeah, I do family. - Okay, so that's why they're the coolest? - No, but check this out. I delivered a … it so that I don't have to- - Wait, I've never had one of these, this is- - You just eat a straight-up dough ball. (crew laughing) - (chuckles) Cheers. I wasn't gonna feed it to you, bro. - No, no, no. - Did you lean in for a bite? (crew laughing) You sicko. (Joe chuckling) - No, no. Did I? I didn't even know you. I thought we were gonna \"Lady and the Tramp\" that thing. (crew laughing) - Cheers. - Cheers. (Mike and crew laughing) I have to unhinge my jaw like a cobra. (crew laughing) - But it's also... (gasps) - When's the last time you've dunked cookies in milk? - Bro, I don't think … folks. I know more body parts (Mike laughing) than Dr. Mike, and I have better reflexes than F1 drivers. (crew laughing) - How sweaty is your glove? - You have disgusting hands. (both laughing) That is insane. (fire whooshing) All right, so it's my roll. This is our 10th roll, so we have three more left to get to the end. (dice clattering) It's eight. (crew laughing) One, two, three, four, five, six, seven, eight, and we got a black card! - We got a black card! - Let's go! (triumphant music) (flames whooshing) (whistle screaming) - Oh! - We got a! (babbles) - Oh? (everyone laughing) I … one space. Refuse, and you must need a Death Wing and go back one space.\" (suspenseful music thudding) We hate money stuff. - (coughs) I'm not worried about money stuff, 'cause I don't have any more. I spent it all on the car. - Right. (everyone laughing) I've crashed it twice already, which was more, actually, not more expensive, but close to the price of the car. How much do you think it was? - I'm gonna say it was- - And I'll do under/over. - I'll say, well, we're gonna get the price out of you. - Yeah. (everyone laughing) - I'm gonna say 550? - Under. - It was under 550? - Yeah. - Oh. … of \"Hot Ones: Game Night,\" a championship ring. (flames whooshing) (triumphant music) (crew applauding) - Oh my God. Why didn't you get one? - I want one, too, what do you mean? I'm suffering, I'm suffering. (crew laughing) It's okay, Dr. Mike, thanks so much for playing this today. You are a champion in our eyes. You're crying a lot. (triumphant music) - Yeah. - The floor is yours. Tell people where they can find you and what you got going on. - Don't find me. (sniffles) Go \"Hot Ones.\" (Joe chuckling) (crew cheering and applauding) - Yes. - Yeah! (screen thudding) - Oh, it got so much worse.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.03
+  "src": "cc"
  },
  "t-WFvGbYyK8": {
   "channel": "Jimmy Kimmel Live",
@@ -68379,7 +68681,7 @@
  "PDsye3fxcZA": {
   "channel": "Speak English With Vanessa",
   "lang": "en",
-  "checked": "2026-11-11T22:41:50+00:00",
+  "checked": "2026-11-24T16:24:57+00:00",
   "title": "Listen and Repeat: SPEAK with me in English",
   "duration": 1191,
   "published": "20260619",
@@ -68388,6 +68690,7 @@
   "pace": 138.3,
   "rare": 0.0274,
   "var": 0.6924,
+  "cl": 0.0294,
   "speech_s": 886.0,
   "tokens": 2042,
   "kw": [
@@ -68552,16 +68855,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "usually",
+    "I'm a big reader. I usually read 30 or",
+    168,
+    175,
+    5.15,
+    9
+   ],
+   [
+    "i've",
+    "I've recently developed a love for old",
+    362,
+    368,
+    5.72,
+    8
+   ],
+   [
+    "bonus",
+    "in this worksheet, there is a bonus",
+    54,
+    60,
+    4.45,
+    6
+   ],
+   [
+    "loud",
+    "repeat out loud after me. This type of",
+    14,
+    20,
+    4.53,
+    5
+   ],
+   [
+    "vocabulary",
+    "your vocabulary, your grammar skills, your speaking skills, and your",
+    22,
+    30,
+    3.82,
+    4
+   ],
+   [
+    "diy",
+    "I'm really into DIY projects. I just",
+    548,
+    557,
+    3.8,
+    4
+   ],
+   [
+    "stroll",
+    "I love to take a stroll around the",
+    1007,
+    1013,
+    3.54,
+    2
+   ],
+   [
+    "experimenting",
+    "experimenting with some new recipes. Lately, I've been experimenting with",
+    700,
+    716,
+    3.53,
+    2
+   ],
+   [
+    "jot",
+    "jot down my ideas first to get the",
+    487,
+    495,
+    2.86,
+    2
+   ],
+   [
+    "intonation",
+    "to use the same type of intonation, the",
+    99,
+    107,
+    2.84,
+    2
+   ]
+  ],
   "tx": "In today's English lesson, you are going to practice the number one technique to help you with your English speaking skills. What's that? Well, it's pretty simple. I'm going to say a commonly used English phrase, and you are going to repeat out loud after me. This type of repetition practice or shadowing practice is an excellent way to grow your vocabulary, your grammar skills, your speaking skills, and your pronunciation skills. So, let's do it. If you're new here, hi, I'm Vanessa from speakenglishwithvanessa.com. And for over the past 10 years, I have been teaching real-life English here on … like that, this will land in your email inbox. It is my gift to you so that you can actually go out into the real world and use everything that you're about to learn today. How today's lesson is going to work is I'm going to say a complete full wonderful sentence, and then I will pause. I want you to speak out loud during that pause. It is essential for you to not only hear your own voice, but to use the same type of intonation, the same vocabulary, and the same structure that I'm using in the sentence. Today's topic is a really common one. It is hobbies and activities. So, all of our … to this question, \"What are you into?\" And I want to know in the comments which one of these answers was true for you. What are you into? I'm a big reader. I usually read 30 or 40 books a year. I'm a big reader. I usually read 30 or 40 books a year. Great work. Did you speak out loud during that pause? And did you notice this great phrase, \"a big reader\"? Each of the sentences that we're going to repeat together have a key vocabulary phrase. This is going to be included in the PDF worksheet so that you can review it and use it yourself. All right, let's say this sentence one more time, … kind of a foodie, so I'm always checking out new places to eat. I'm kind of a foodie, so I'm always checking out new places to eat. I enjoy going on little adventures in the city. I enjoy going on little adventures in the city. I enjoy refurbishing old furniture to give it a new look. I enjoy refurbishing old furniture to give it a new look. I'm a movie buff. I'm always browsing Netflix to see what's new. >> I'm a movie buff. I'm always browsing Netflix to see what's new. I've recently developed a love for old movies. I've recently developed a love for old movies. I've been really drawn … an outdoorsy person, so taking walks in nature and hiking are kind of my thing. I love writing stories, but I have to jot down my ideas first to get the creative juices flowing. I love writing stories, but I have to jot down my ideas first to get the creative juices flowing. I tend to gravitate toward outdoor activities. I'll do anything such as hiking, biking, or skateboarding just to get out of the house. I tend to gravitate toward outdoor activities. I'll do anything such as hiking, biking, or skateboarding just to get out of the house. I'm really into DIY projects. I just love making … free time? Can you say that with me? What do you like to do in your free time? I'm going to pause and you'll say it. Go ahead. Great. All right, let's go to the second half of these sentences. I live near the ocean, so I just love taking long walks down the beach. I live near the ocean, so I just love taking long walks down the beach. I'm into competitive chess, and every week I practice my moves with other players online. I'm into competitive chess, and every week I practice my moves with other players online. Just to let you know, you could use this phrase practice my moves with a physical … sessions at sunrise. With the little free time that I have, I love giving back to my community by volunteering. With the little free time that I have, I love giving back to my community by volunteering. First thing in the morning, I like to hike a trail and take pictures of the wildlife with my camera. First thing in the morning, I like to hike a trail and take pictures of the wildlife with my camera. I try to attend live jazz performances at local venues throughout the month. I try to attend live jazz performances at local venues throughout the month. All right, before we practice … throughout the month. I'm training for a marathon and I'm trying to follow a strict training schedule. I'm training for a marathon and I'm trying to follow a strict training schedule. I typically spend my weekends learning digital art. Notice the pronunciation of this. Digital. That t changes to a d in American English. Digital art. Try to say it one more time with me. I typically spend my weekends learning digital art. I typically spend my weekends learning digital art. I usually catch up on shows and movies that I've been meaning to watch. I usually catch up on shows and movies that … usually just stay at home and do things around the house. And for our final sentence, right now I'm dabbling in video editing, and I'm making videos for my social media page. Right now I'm dabbling in video editing, and I'm making videos for my social media page. Well, great work practicing listening and repeating out loud after me. Your speaking skills have grown today, and the best way to level them up even more is to download today's free PDF worksheet, which includes all of today's important sentences, key vocabulary phrases, plus there is a bonus speaking practice that you will have … shirt? I think it's pretty cool. Let me know in the comments what is an activity that you do in your free time. I can't wait to learn more about you, and I hope to see you again next Friday for a new lesson here on my YouTube channel. Bye. But wait, do you want more? I recommend watching this video next where you will learn to listen and repeat to answer the question, \"What are you going to do this weekend?\" An important essential conversation question, and I will give you all the tools you need to be able to answer this easily in your real life English conversations. I'll see you there.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0274
+  "src": "auto"
  },
  "K0xYMBmdUsI": {
   "channel": "English with Lucy",
   "lang": "en",
-  "checked": "2026-11-11T15:15:06+00:00",
+  "checked": "2026-11-24T16:25:44+00:00",
   "title": "DON'T pronounce this letter in British English ✋",
   "duration": 770,
   "published": "20260712",
@@ -68570,6 +68954,7 @@
   "pace": 121.7,
   "rare": 0.0344,
   "var": 0.7788,
+  "cl": 0.0331,
   "speech_s": 745.2,
   "tokens": 1512,
   "kw": [
@@ -68718,11 +69103,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "words",
+    "warmth, garden. In these words, the",
+    165,
+    172,
+    5.25,
+    11
+   ],
+   [
+    "end",
+    "before a consonant sound or at the end",
+    139,
+    146,
+    5.68,
+    8
+   ],
+   [
+    "repeat",
+    "just listen and repeat. Now, the silent",
+    62,
+    68,
+    4.49,
+    5
+   ],
+   [
+    "examples",
+    "it, including some examples of where you",
+    28,
+    35,
+    4.63,
+    4
+   ],
+   [
+    "warmth",
+    "warmth garden",
+    155,
+    166,
+    3.8,
+    3
+   ],
+   [
+    "boot",
+    "British accent boot camp. It's 5 days of",
+    87,
+    95,
+    4.19,
+    2
+   ],
+   [
+    "soaring",
+    "example, drawing and soaring. You can pronounce them drawing and",
+    711,
+    723,
+    3.44,
+    3
+   ],
+   [
+    "syllables",
+    "silent. In stressed syllables like this,",
+    174,
+    181,
+    3.24,
+    3
+   ],
+   [
+    "pronouncing",
+    "Stop pronouncing this letter in English. Yep, the letter",
+    0,
+    10,
+    2.9,
+    1
+   ],
+   [
+    "rustling",
+    "leaves rustling in the warm afternoon",
+    587,
+    595,
+    2.85,
+    1
+   ],
+   [
+    "restful",
+    "as in restful, relax, and reflect. It is",
+    336,
+    346,
+    2.75,
+    1
+   ],
+   [
+    "unstressed",
+    "Notice how it appears in the unstressed",
+    214,
+    221,
+    2.32,
+    1
+   ]
+  ],
   "tx": "Stop pronouncing this letter in English. Yep, the letter R. The way you pronounce this letter here can tell me so much about your accent. In British English, we hardly ever pronounce it. Today, I'm going to teach you when we never pronounce the letter R, and I will also show you when and why we do pronounce it, including some examples of where you may least expect it. Sometimes it's not even written, but we still pronounce the R. Now, this is a complex topic, but it's going to have a big impact on your speaking and pronunciation. To help you, we will go through lots of examples and shadowing … that can make a huge difference in how natural your British accent sounds. But this is just one piece of the puzzle. There are a few other key sounds and habits that can make or break your British accent. You can learn and perfect them in my 5-day British accent boot camp. It's 5 days of focused, practical training on vowel sounds, the crisp t sound, British vocabulary. It's all focused on modern RP, which is my accent. My students say they feel more confident and sound more natural from the very first lesson. So, imagine what you can achieve in 5 days. Right now, I'm offering lifetime … when it comes before a vowel sound. So, when you see an R before a consonant sound or at the end of a word with no sounds after it, simply don't try to pronounce it. Here are some examples. Repeat after me. earth warmth garden There is no r sound in them. earth, warmth, garden. In these words, the letter R is followed by a consonant sound, so it isn't pronounced. It's silent. In stressed syllables like this, we just pronounce the long vowel sounds uh as in earth, or as in warmth, and ar as in garden. The letter R is completely silent. In the words water, nature, and together, there is no … after me. water nature together Let's practice the silent R now. Shadow me if you can, or listen and repeat after me. I'll put the silent R's in red to help you. My garden has a quiet corner. I go there to clear my mind when I'm tense, tired, or nervous. A lot of my students try to pronounce the R in tired and say something like tired. Forget the R, just say tired. Tired. Hear how much smoother that sounds? Tired. Accents that follow this silent R rule are called non-rhotic accents. My modern RP accent and most, but not all, British accents are non-rhotic. This is not the case in North … >> My garden has a quiet corner. I go there to clear my mind when I'm tense, tired, or nervous. >> There's a pretty big difference, right? The silent R is one of the main features that distinguishes British pronunciation from American pronunciation. Now, in both rhotic and non-rhotic accents, the letter R is always pronounced before vowel sounds at the beginning of words, as in restful, relax, and reflect. It is also pronounced within words, like breathe, serene, and grounded. Let's practice now with a mixture of silent and pronounced r's. Shadow me if you can. The silent r's are red and … r before vowel sounds, but this is a very dangerous thing to say because in English there are always exceptions. One very common exception is this word here. How do you pronounce it? If we follow the rules, they state that it should be pronounced iron because the letter r is followed by the vowel sound uh. But, the letter r is never pronounced in this word. It's an exception. It always catches my students out. It should be pronounced iron. Iron. Some examples are I love Iron Maiden or I'm competing in an Iron Man next month. Not Iron Maiden, not Iron Man. Iron. Remember, I'm modeling my … of words, and when we do, the letter R can sometimes disappear. Even when technically it should be pronounced. For example, the first R in this word, February, often disappears and we tend to say February. I favor February. That's how I was taught to say it. The first R in this word, library, library, often disappears, too, and we say library. Again, I favor the dropped version, library. So, to recap, never pronounce the letter R when it comes before a consonant sound or at the end of a word. Only pronounce the letter R when it's followed by a vowel sound. This rule is true in connected … Better atmosphere. Here. Here now. Here and now. Your. Your peace. Your inner peace. This is called a linking R. Adding a linking R sound before vowel sounds isn't obligatory, but it can help us to glide between the vowel sounds more easily. Think of it as a little bridge between vowel sounds. Okay, let's practice everything we've learned so far. Shadow me now. I've marked the silent, pronounced, and linking R's to help. I wander slowly through the garden listening to the tree leaves rustling in the warm afternoon breeze. I focus on the here and now and appreciate the simpler approach to … Listen and repeat these phrases with me. What do you notice? Idea of calm. Law of nature. Spa experience. That's right. I added an er sound even though there is no written R at all. We can add an er sound in phrases like this when a word ends in a or and a and the next word begins with a vowel sound. This is called the intrusive R and is a really common feature of British English. Not everyone does it, but I do it sometimes. Let's practice together. Shadow me now. I was halfway through our cinema evening when I saw it clearly. I needed to go on a yoga and meditation retreat surrounded by … within words, too. So, you might hear an er sound in words with no written r. For example, drawing and soaring. You can pronounce them drawing and soaring or drawing and soaring. Right, that brings us to the end of today's video lesson. I really hope you've enjoyed practicing with me. And if you want to keep on improving your British accent, don't forget to check out my 5-day British accent boot camp. It is packed with focused lessons to help you sound more natural and confident. The link is in the description box or you can scan the QR code there. I will see you in the next video. Bye.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0319
+  "src": "auto"
  },
  "0oMzDxZP3Q0": {
   "channel": "English with Lucy",
@@ -68909,7 +69391,7 @@
  "r48EkZoSFmQ": {
   "channel": "Easy British English",
   "lang": "en",
-  "checked": "2026-11-11T22:43:11+00:00",
+  "checked": "2026-11-24T16:27:58+00:00",
   "title": "The Easy English Podcast #86 - 5 Ways to SURVIVE a British Pub | Easy English 221",
   "duration": 955,
   "published": "20260225",
@@ -68918,6 +69400,7 @@
   "pace": 172.1,
   "rare": 0.0206,
   "var": 0.7426,
+  "cl": 0.0409,
   "speech_s": 946.4,
   "tokens": 2714,
   "kw": [
@@ -69074,11 +69557,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "food",
+    "will check if they offer food.",
+    297,
+    302,
+    5.4,
+    11
+   ],
+   [
+    "bar",
+    ">> Uh, and you both walk up to the bar and",
+    111,
+    118,
+    4.94,
+    11
+   ],
+   [
+    "friendly",
+    "realizing that that's not very friendly",
+    471,
+    477,
+    4.64,
+    4
+   ],
+   [
+    "faces",
+    ">> You don't need to see our faces.",
+    40,
+    44,
+    4.59,
+    4
+   ],
+   [
+    "combine",
+    ">> little like things that you can combine",
+    342,
+    346,
+    4.13,
+    2
+   ],
+   [
+    "blonde",
+    ">> Do you have a blonde ale?",
+    710,
+    718,
+    4.04,
+    2
+   ],
+   [
+    "there'll",
+    ">> Uh, and then there'll be",
+    869,
+    874,
+    3.42,
+    2
+   ],
+   [
+    "ipa",
+    "um it's a IPA. >> Oh, that might be too fruity to me for",
+    703,
+    710,
+    3.31,
+    2
+   ],
+   [
+    "winded",
+    "winded answer, but the idea is that that",
+    749,
+    755,
+    2.87,
+    1
+   ],
+   [
+    "ales",
+    "in England, there's a lot of ales, a lot",
+    769,
+    775,
+    2.86,
+    1
+   ],
+   [
+    "overdo",
+    ">> Don't overdo it, though. >> Yeah.",
+    784,
+    789,
+    2.84,
+    1
+   ]
+  ],
   "tx": "Excuse me. Sorry. Um, do you speak English? >> No, I don't. Sorry. >> English. Do you speak it? Yes. English. English. Do you English? English. Do you speak it? >> Okay. Hello. Welcome to the Easy English podcast. >> Hi. Hi. I just want to let you guys know that if you're currently listening to this, then you should know that you can also watch it on our YouTube channel. >> But you don't need to. >> You don't need to for this one. >> You don't need to see our faces. >> No, there shouldn't be many pictures or images that you should have to see for this. Uh, but if you want to see our reactions … get you? >> Thousands of options here. >> What can I get you? >> I say, \"Hi, how are you?\" >> Oh, good, thank you. How's your day going? >> Not bad. Not too bad. >> Not too bad. Is very British. >> Up for a drink now, for sure. Um, let me see. I first, um, I might just check which beers you have on tap. >> Very good. Very good. >> Beers on tap is the ones that you can get out of the barrel. Is that what you wanted to explain? >> I'm thinking more like let's say you figured out what you want to get. Where do you go from now? >> I ask my acquaintance, what do you fancy? >> Yeah, very good. >> … last scent. Um >> would it ever be that you would >> there's like 70 cents on the do anyone have an extra Mario? So I didn't I'm not having that. >> We're paying 33.6666 reoccurring forever for our bill. >> >> But would it ever be that someone would say like, \"Oh, these are all on me.\" I get this whole thing at the end. >> Rarely. >> Okay. >> You must be really good friends or family, I think. >> But isn't it nice that in UK that we have this big sharing culture? The pub is all about, \"Hey, look, I cover you for this.\" And then in turn then you next go up and you say, \"I got this one now. … also often vegetarian alternatives. >> That's true. >> Um >> yeah, beer and chips is always there. Really, isn't it? >> Fish and chips sometimes. >> Um sometimes pies. >> Yeah, pie. Yeah, good point. >> Um >> little like things that you can combine often like bar snacks. Mh. >> So you can say like I want these like sides that you can combine. >> Yeah. >> Uh sometimes desserts as well. >> So it's more like often in a smaller pub is more fast foodish. >> Mhm. And so let's say you go up um something that the bartender might ask you is be like when you say do you do food? Yeah. And you … You don't like Well, you did have a wine for the last round. >> Might be£73. >> Chicken dippers there. >> Can I have one and a half points that next round? >> One and a half points. >> That would add up to the wine, you know. >> Oh, yeah. True. Yeah. One glass of wine is one and a half pounds. >> You see my German mind already? >> Yeah, I never thought about that actually. That's quite clever. One and a half points. Okay, E is taking a little break. And while she's on that break, she's not gone to the pub. Um, I just want to quickly ask any of you who are looking to improve their … membership by going to easyenglish.vide/membership. Now back to the episode. We start again. You walk up to a busy pub. Everyone's around the bar. Lots of people around the bar. Some are drinking. Some look like they're waiting to be served, but you don't really know. They're strangers. And the barman is working, facing away from people. And he turns around and he sees you first and says, \"Hi, what would you like? What can >> often they say, hi, are you served already? Are you being served already? >> Are you being served?\" Yeah. >> Then you obviously say no. But you would make sure … People Everyone is doing this. So, it's like kind of easy. >> Yeah. You can do it with like eye contact. >> Yeah. You do you want to go first? You were here first. You were before me. Are you waiting if you don't really know if they are? Are you >> Some people say I'm still choosing so you go first. >> Yeah. Because some people will just be standing at the bar waiting for a friend or just standing there just chitchatting with people that people don't always won't always be sort of waiting for a drink. >> Yeah. >> Yeah. That's very good. Let's say again you turn up to the pub. Might … a blonde ale? >> Uh yeah, we have the old so and so. >> Is it fizzy a bit? >> Yeah, it's bit fizzy. Got some fruier numbers. >> Not as fruity as the IBA. >> Uh the IPA is a bit more mangoy, a bit more mellow and softer. >> Okay. The the blonde ale, please. >> What would you like? pint. >> No, it's just Can I try it again? Okay. >> Pint. A shot glass. >> Yeah, that's good. Yeah, I'll take a pint of this. >> Okay, great. >> Cheers. >> Perfect. That that is a bit of a long- winded answer, but the idea is that that when you come to a pub, especially some like very traditional pubs, there will … which is like, wow, that's really my cup of tea. Good job. And now, last one. >> Last one. >> End of the night. You're sat with your acquaintance that you've been with the whole night >> and 10 other acquaintances >> and uh you're sat there and you're having you're in really good chat midflow. You've still got a tiny bit of beer left and then a ling a bell sounds >> okay explain what's what's going on cuz this happens in every pub. They just want to tell you this is now your last chance in the next 5 to 10 minutes to order a drink because we do close a pub within probably half an hour, 40 … the UK, then you can write it in the comments below. And also don't forget if you are watching from Japan, Korea, anywhere in Asia and you want to start improving your conversational English, then write to me mitch@ easyenglish.vide video and say, \"I'm in. >> I'm in.\" >> And once you get to 10 people who write, \"I'm in,\" we'll start our Asia friendly conversation call on Z. >> And please only write, \"I'm in if you're really in.\" >> If you're really in, in capital letters, I'm in. So, I really know. Uh, yeah. Thanks for watching, listening, and we'll see you next time. Ta. >> Hello. I am in.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0445
+  "src": "auto"
  },
  "-61qDRPG3to": {
   "channel": "TED-Ed",
@@ -76910,7 +77482,7 @@
  "wrelotZoMP8": {
   "channel": "Vox",
   "lang": "en",
-  "checked": "2026-11-10T03:26:22+00:00",
+  "checked": "2026-11-24T17:37:41+00:00",
   "title": "How Silicon Valley conquered the business of war | The Gray Area",
   "duration": 2895,
   "published": "20261102",
@@ -76919,6 +77491,7 @@
   "pace": 181.5,
   "rare": 0.0342,
   "var": 0.7729,
+  "cl": 0.0551,
   "speech_s": 2879.3,
   "tokens": 8710,
   "kw": [
@@ -77083,11 +77656,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "sort",
+    "that is is the Silicon Valley sort of",
+    12,
+    17,
+    5.0,
+    27
+   ],
+   [
+    "they're",
+    "they're better people, but there are",
+    431,
+    437,
+    5.47,
+    24
+   ],
+   [
+    "launch",
+    "launch armed naval drones against the Russian",
+    294,
+    301,
+    4.69,
+    9
+   ],
+   [
+    "develop",
+    "or what be it was going to develop a",
+    147,
+    151,
+    4.75,
+    7
+   ],
+   [
+    "believing",
+    ">> Starting a business means believing in",
+    1092,
+    1097,
+    4.15,
+    4
+   ],
+   [
+    "sells",
+    "sells TVs, you know, by the piece.",
+    197,
+    202,
+    4.09,
+    4
+   ],
+   [
+    "tweeting",
+    "same time tweeting these things. He",
+    331,
+    336,
+    3.54,
+    2
+   ],
+   [
+    "pivot",
+    "that pivot. The pivot point was",
+    1028,
+    1035,
+    3.5,
+    2
+   ],
+   [
+    "shopify",
+    ">> Support for the show comes from Shopify.",
+    1089,
+    1093,
+    2.61,
+    3
+   ],
+   [
+    "80s",
+    "common 70s, 80s. And then uh a friend of",
+    574,
+    582,
+    2.53,
+    3
+   ]
+  ],
   "tx": "The argument for working with Silicon Valley is that, you know, they These are companies that can innovate faster, uh produce uh faster, that have advantages. The flip side of that is is the Silicon Valley sort of hucksterism that is in the DNA of the Valley. Sometimes to the good of we're going to fake it till we make it. In defense, when you have lives on the line, um that is really, really problematic. And so, it is true that working with Silicon Valley could lead to innovative products. It could lead to lower prices. But, if you're not careful, which is I think what we're seeing now, it … or Z. There's a lot of, I would say, purposeful ambiguity about it. >> Whatever problems, and I I know there were many in you document in this book, with the old procurement weapons development system um, we've had in the United States, at least it was kind of clear who who was at fault, right? Or who was in charge, who who was making the decisions. >> Yeah, the analogy I made, um, or I often make when I talk about this is can you imagine a situation where we're going to launch a military operation and the Secretary of Defense or War, as he calls himself at the moment, has to call Lockheed … because I get ideas for other reporting. And he asked me, he said, \"Did I ever tell you the story about how I saved Steve Jobs and Apple?\" And I'm like, \"No.\" So he started to tell this story about how when he was director of DARPA in the early 1990s, Steve Jobs had stopped by his office to pitch him on his computers. So at the time in the mid-80s, Steve Jobs had been exiled from Apple and he had started his own computer company, NeXT, that sold these very beautiful, very expensive workstations and the company was not doing well. >> or obsidian? You have this great quote >> Graphite or … technology. We know him for the computers in our pocket and the computer that I'm talking you through through we know him through consumer technology. That's where the company went. Um When did Silicon Valley grow apart from the military? How did that happen? Why was it strange that that's that Steve Jobs was in this situation? >> So, at the time that um he went back to Apple was exactly coincided with, you know, the end of the Cold War, the fall of the Soviet Union, the the peace dividend, military budgets were going down. Um and the the personal computer industry was taking off. … it correctly, it was ripe for disruption. So you had, you know, you had the computer industry and personal computing taking off at this time and then you had clunky, cludgy government systems that couldn't speak to each other, that were not user-friendly. I mean the very idea of like point and click. When Palantir was first pitched, it had no back end. It wasn't that they had some fancy algorithms. They were literally pitching an interface. And that was what was unique about it. Like, oh, you could just develop a system that is easy to use and that was >> being like a like an operating … of him speaking directly to the investors and he loves speaking directly to retail investors, is they're targeting investors who are I mean, I don't want to say that they're not they don't look at things the way institutional investors do. They don't necessarily understand or want to understand the Pentagon procurement system or, you know, the the the revenue or revenue potential of Palantir. They're much more into the message. This we're going to save Western civilization. The fundamentals of enterprise software and what contracts are available, they they don't doesn't interest them … and then things that they say are not failures. So they have um one of the things that they make are sort of these um unmanned submarines, unmanned underwater drones. And one was captured by Iran. It was rather sort of inglorious because the government's explanation was what it was malfunctioning. Like it wasn't that they, you know, Iran did something magical to capture, but that's also not what happened. >> captured it. It It just It just It just It just It just >> was malfunctioning. And so Anduril tried to spin this like it had done what it was supposed to do. I was like, \"Well, I … he was being serious. Yes. >> Yeah, like I think I don't I think they would like it to be good for national security, but they want to make money. That is the thesis for venture capital. Um and as much as a lot of these people may wrap themselves in the flag, that is not their primary motivator. >> And we should be clear, and you note this in the book, you know, the the traditional defense contractors, they want to make money, too. But but the process is different. There's more oversight. There's more um updates along the way, right? >> Yeah, I don't want to be in the position of … Journal has described as a de facto monopoly on rocket launch, on space launch. It's a pretty scary situation. >> Yeah. >> Um, you know, there was the time when, you know, he and Trump had were in the middle of a tiff and he's like, \"Okay, well, I'm decommissioning the the spacecraft that takes astronauts to the International Space Station.\" Like, he's the only one who who does it. Um, so that's a pretty frightening situation. So, I think if >> Yeah, if you want to talk about solutions, part of it is is competition. Um, and I think that is actually what the Pentagon is trying to do in … area. >> Thanks Miles. Thanks for having me. >> Thanks for watching. Each week we'll be in your audio and video feeds with great interviews and a philosophy-minded look at tech, culture, politics, and much more. Episodes of the gray area drop on Mondays and Fridays on YouTube, Apple Podcast, Spotify, or wherever you get your podcast. As always, we want to know what you thought of the episode. So, drop us a line at the gray area@vox.com. And if you enjoy our reporting and want to hear more from Vox journalist, then consider becoming a member of the Vox community on Patreon at patreon.com/vox.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0559
+  "src": "auto"
  },
  "Cv9ftqQTN0Y": {
   "channel": "First We Feast",
@@ -77549,7 +78203,7 @@
  "aDbtrdfYqBc": {
   "channel": "Johnny Harris",
   "lang": "en",
-  "checked": "2026-11-10T16:06:53+00:00",
+  "checked": "2026-11-24T17:44:45+00:00",
   "title": "Why the US is deporting so many people",
   "duration": 2726,
   "published": "20251031",
@@ -77558,6 +78212,7 @@
   "pace": 170.0,
   "rare": 0.0269,
   "var": 0.8169,
+  "cl": 0.0446,
   "speech_s": 2637.2,
   "tokens": 7470,
   "kw": [
@@ -77722,16 +78377,97 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "there's",
+    "There's so much more to the immigration system than ICE.",
+    201,
+    206,
+    5.54,
+    21
+   ],
+   [
+    "country",
+    "that are happening right now in this country,",
+    380,
+    383,
+    5.48,
+    19
+   ],
+   [
+    "illegal",
+    "some 1,600 illegal migrants on Tuesday.",
+    20,
+    24,
+    4.68,
+    12
+   ],
+   [
+    "labor",
+    "That need for seasonal temporary labor",
+    570,
+    574,
+    4.77,
+    11
+   ],
+   [
+    "migrant",
+    "This flow of seasonal migrant labor,",
+    594,
+    598,
+    3.75,
+    9
+   ],
+   [
+    "trump's",
+    "to carry out President Trump's deportation agenda.",
+    147,
+    150,
+    4.01,
+    8
+   ],
+   [
+    "deport",
+    "to deport everyone they possibly could.",
+    45,
+    49,
+    3.18,
+    8
+   ],
+   [
+    "crackdown",
+    "people up here also have a place in this new crackdown.",
+    517,
+    522,
+    3.35,
+    5
+   ],
+   [
+    "deportations",
+    "has sold this surge in deportations is crime.",
+    88,
+    93,
+    2.96,
+    2
+   ],
+   [
+    "synthesize",
+    "and synthesize them all in one place.",
+    232,
+    235,
+    2.94,
+    2
+   ]
+  ],
   "tx": "(police siren wailing) - I think we should look at this chart. This chart shows the budget of the US Government agency called Immigration and Customs Enforcement, or ICE. You can see that they're pretty well funded, around $10 billion a year. I looked up this chart because ICE has been in the news recently. - ICE agents detained some 1,600 illegal migrants on Tuesday. - Raided this meat-packing plant- - Rounding up workers. 20 to about- - Over 100 people detained without explanation. - Put into handcuffs- - And taken to detention centers. - ICE is a kind of immigration police. And long before … that NBC News, which tends to lean left, frames this recruiting campaign as poaching local officers, and how it's provoking anger among sheriffs of local police departments. Both of these headlines are true, they're just framed differently. And oftentimes, the framing of a controversial issue can have more impact than the facts themselves. Ground News allows me to get this kind of transparency into coverage unlike anywhere else. There's no corporate influence on Ground News, it's completely funded by subscribers, like you and me. There's a bunch of other features and tools in Ground News. … to help them harvest and process a huge amount of food that's grown here. That need for seasonal temporary labor is filled by Mexican workers, for a lot of decades. Laborers who come up just to work for the season and then return back home after their work is done. And for a lot of the 20th century, this is actually legal. The U.S. encourages it with a specific program because they know that the U.S. economy needs it. This flow of seasonal migrant labor, mostly from Mexico fuels entire industries in the United States, who rely on workers coming from Mexico to do this essential low wage … the legal system provides and what seems to be what the economy needs to function at a high level. - I once worked at a restaurant as a line cook here in DC, it was my first job when I got out of college actually. And every single person in that kitchen was an unauthorized immigrant who worked usually two jobs, cooking food for restaurants. Now, I want to dwell on one point that I kind of mentioned, but is incredibly important, which is that normally policy would recognize this, oh, there's a need for low wage work in the United States. Let's make a legal pathway so people can come in and … goal. And thanks to everyone who contributed your thoughts and questions to this story to make it better. Alright, it's after 9/11, what happens next? - So, ICE is created after 9/11, and this is when we start to expand the use of detention centers, like immigration jails. Wait, but I thought ICE just deported people. If someone is found to be here illegally, unauthorized, why not just deport them? And the answer is the U.S. Constitution. The Fifth Amendment, which says that every person here is entitled to due process of the law. Every person, not every citizen, every person gets a trial. … who are in police custody already or who have a criminal record, ICE is now authorized to pick up anyone who they find along the way who might be here illegally. This is called collateral enforcement - Where you have officers going after people, not because they are a high priority, but because there are more of them than the people that are high priorities. - This is kind of, I think when a lot of us learned what ICE even was. ICE raids become much more visible under the first Trump presidency. - Nearly two dozen law enforcement agents surrounded this suburban Texas home, raided … if you look at the data, not the news stories that are sensational and horrible, but the actual data, you will see something like this. Lots of studies that show that undocumented immigrants are far less likely to commit crimes than native born Americans. They're half as likely to be in jail. They commit violent crime at a meaningfully lower rate. In fact, there's even pretty robust studies that show that an increase in the foreign born population is associated with less property and violent crime in a community. I'm gonna put the link to the studies here and some of the stats in our sources … people to countries that they're not even from. They're deporting people who are following the rules and going to their hearings, who are entitled to due process by the constitution - ICE detained 20-year-old Dylan Contreras, a high school student on May 21st, after attending a mandatory immigration court hearing. - This is the chart of ICE arrests. Here's where Trump takes office. You can see how things spike. And this gets us back to Daniel. - Before him being elected, he was talking about sending all of the illegal criminals back to whatever country they were from. But in my mind, I … facility. - They broke his car window right there. Pepper sprayed him in the car. - Ayudame... - Let's go back to this graph that we started the video with. Remember our three colors, convicted criminals, people charged but not convicted, and then no criminal charges. That's this bottom line. Trump takes office here. All of the lines go up. Stephen Miller gives ICE their new quota here. And look which line goes up. To meet these quotas, ICE is leaning further and further, into finding anyone they can justify deporting. And just recently these lines crossed. (bright music) Okay, but here … a key part of our economy and our country. - Every immigrant by embracing these ideals, makes our country more, not less American. - (speaking in foreign language) - Mm-hmm. - (speaking in foreign language) - The only way to really stop migration is to make the United States no longer a desirable destination for migrants. And as Trump pushes this message of Fortress America, you know, a world in which if you cross illegally, we might send you to be imprisoned in El Salvador on false claims of gag membership. People are not viewing the United States as the beacon of freedom that they once did.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.045
+  "src": "cc"
  },
  "23owsv-R0fs": {
   "channel": "Johnny Harris",
   "lang": "en",
-  "checked": "2026-11-10T16:07:06+00:00",
+  "checked": "2026-11-24T17:44:57+00:00",
   "title": "How the Mormon Church Made $293 Billion",
   "duration": 4206,
   "published": "20250913",
@@ -77740,6 +78476,7 @@
   "pace": 179.3,
   "rare": 0.0421,
   "var": 0.7743,
+  "cl": 0.0404,
   "speech_s": 4040.4,
   "tokens": 12075,
   "kw": [
@@ -77904,11 +78641,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "thing",
+    "the first thing I should do is pay 10% to the Lord.",
+    93,
+    97,
+    5.72,
+    24
+   ],
+   [
+    "lot",
+    "And for a lot of us, that doesn't feel great,",
+    650,
+    654,
+    5.61,
+    23
+   ],
+   [
+    "paying",
+    "And I start paying 10% of my income.",
+    87,
+    90,
+    4.75,
+    7
+   ],
+   [
+    "corporate",
+    "- That kind of corporate representation",
+    1612,
+    1616,
+    4.64,
+    7
+   ],
+   [
+    "literal",
+    "And because it was so literal and specific,",
+    952,
+    955,
+    3.77,
+    6
+   ],
+   [
+    "teachings",
+    "would quote, \"strike at the heart of our LDS teachings.\"",
+    1133,
+    1138,
+    3.76,
+    6
+   ],
+   [
+    "baptized",
+    "- I'm eight and I'm getting baptized.",
+    66,
+    70,
+    3.46,
+    9
+   ],
+   [
+    "church's",
+    "the core evidence of the Church's veracity.",
+    1100,
+    1104,
+    3.48,
+    7
+   ],
+   [
+    "doctrinal",
+    "is a sort of doctrinal consolidation,",
+    1904,
+    1908,
+    2.93,
+    3
+   ],
+   [
+    "rebranding",
+    "The Mormons are rebranding. They're becoming more mainstream.",
+    913,
+    917,
+    2.88,
+    3
+   ]
+  ],
   "tx": "- I've applied, and I intend on serving, a full-time two-year mission for the Church of Jesus Christ of Latter-day Saints. Now that might sound ridiculous, that might sound absurd. Why would you do that for two years? Well, let me tell you why. (dramatic music) - I am born and then blessed. I learn songs, rhymes, motions, all teaching me where I came from, why I am here, where I'm going. ♪ I am a child of God ♪ - I'm five years old. I learned to study a book, the most perfect book. ♪ Book of Mormon stories that my teacher tells to me ♪ ♪ Are about the Lamanites in ancient history ♪ - I … graduation with a beautiful newborn baby in our arms. At this point, I'm ready, I'm trained. The Church has invested so much in me and many of us go from here to have high paying jobs, to volunteer as leaders in the Church, to be deeply devoted, to running it effectively, to growing it, to faithfully paying tithing, all while living productive, industrious, family centered lives. But I don't follow the rest of this path. And eventually I find that the answers are not there for me and I begin to leave. And since then, I've been trying to understand it, to understand how the Church of Jesus … and anthropology are progressing and those who look at Joseph's translations and claims see them as a fantasy, as an invention of Smith himself. And soon it wasn't just non-believers. The dissent was coming from within. (light ethereal music) Brigham Young University, that's where I went to college. It was a university that started out as kind of like a religious school for Mormons. But as a part of this big Mormon rebrand, they were trying to make BYU a legit accredited academic university. The Harvard of the West is one president of BYU's exact language of how they were trying to … changing about the Mormon's look. (gentle light quirky music) So this rebrand away from polygamy and towards hyper-American ideals continues and it soon affects these beards. After decades of donning long wild west frontier beards, this quote expression of non-conformity with the rest of the United States, the newly hyper-American Mormons did away with the facial hair. This is David O. McKay. He's one of the prophets leaders of the Church. He's the first prophet to go totally clean shaven. He gets up in front of the members. He starts to talk to them more about the way you look to others … standardized manuals and direction from the top with specific verbiage and words and phrases on how to talk about Joseph Smith's revelations and how to teach the Book of Mormon, how to teach the Bible, what to say and what not to say. It would all need to be developed by these men in Salt Lake who were grappling with this tension of trying to modernize and mainstream their Church while also making sure that the very bold set of beliefs doesn't get watered down. Because the devotion of the members relied on them buying into that central message, one that was under threat by different … and you carry it around with you and you like read it often, it's called a patriarchal blessing. And you watch as your life unfolds and hopefully is as blessed as your patriarchal blessing says it will be. Man, I hadn't thought about that for years until I started doing this story and I was like, that felt so normal. It felt so normal. It doesn't feel like voodoo magic doesn't feel like fortune telling. It feels awesome. It feels like I have access to a guy with the priesthood who is going to see my future and give me guidance about my future. Like that's an amazing thing if you believe … Saints. - I mean these commercials, which are highly nostalgic for me, are great messages like universal messages. There's no weird beliefs about God living on a star or like you getting your own planet. It's just straight up family values. - Families grow closer, one conversation at a time. - And yes, it's totally PR but it's also real from the inside. Like Mormons live these values, very, very family focused. Now there's some caveats to that and then I have some critiques, but that's like, I will talk about that with other ex-Mormons. It's not really like worth going into here. This … where you don't take the bread and water on Sunday and your whole community sees you and you feel shame and you feel embarrassment and you feel hopefully sorrow and repentance for your sin. And with time, the bishop then says, \"Okay, you're worthy again. You've repented.\" I got my temple recommend taken away once and it was horrific. It was a bad, bad six weeks. I felt horrible. I felt shame, and I was supposed to be getting married in the temple. It was coming up, my marriage date was coming up and I didn't have my temple recommend. And in the same way that it feels so good to be in it … know this growing up and I don't think many did. I don't know, I thought my money was like going to grow the Church, build temples and you know, humanitarian stuff. I was just like, you know, like aren't they doing humanitarian projects? They are, but it's just not that much. And listen, that's actually really rational. The Church never said that their mission was to be humanitarian. Their mission is to fulfill the mandate given to Joseph Smith, which is to prepare the world for the second coming of Jesus Christ by spreading the good news of the restoration and giving people the … now. I'm still working on it. Our team is hard at work, but if you want early access on this to sort of help us shape it, be a part of the community early on. There's a link in the description where you can sign up for the wait list. You'll be the first to know when we have updates, which will be pretty soon. I'm really excited to take this to a whole new level and excited to connect with all of you in a deeper way to make better and deeper stories. That's kind of the whole thing. Talk to you soon. Thank you so much for being here and I will see you in the next one. (gentle dramatic music)",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0368
+  "src": "cc"
  },
  "xPksDeGoh4E": {
   "channel": "Practical Engineering",
@@ -84215,7 +85033,7 @@
  "g-z5iQWluhA": {
   "channel": "Cambridge English Walking Podcast",
   "lang": "en",
-  "checked": "2026-11-11T15:23:06+00:00",
+  "checked": "2026-11-24T16:38:38+00:00",
   "title": "Street Food vs Restaurants: Real English Conversation in London's Chinatown 🍜",
   "duration": 1016,
   "published": "20260629",
@@ -84224,6 +85042,7 @@
   "pace": 151.9,
   "rare": 0.0227,
   "var": 0.8052,
+  "cl": 0.0246,
   "speech_s": 1010.7,
   "tokens": 2559,
   "kw": [
@@ -84372,16 +85191,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sweet",
+    "I can smell fried rice, garlic, and sweet sauce.",
+    109,
+    115,
+    4.91,
+    11
+   ],
+   [
+    "yes",
+    "train, so yes, I am completely ready to walk around Chinatown, peek into the restaurant",
+    49,
+    57,
+    5.5,
+    10
+   ],
+   [
+    "mess",
+    "a terrible mess. My kitchen looks like a food explosion.",
+    670,
+    675,
+    4.57,
+    6
+   ],
+   [
+    "cooking",
+    "You can watch the chef cooking your food right in front of your eyes.",
+    582,
+    587,
+    4.45,
+    5
+   ],
+   [
+    "soup",
+    "of soup. Exactly. Then you have the main course, which is the biggest and most important part of",
+    219,
+    228,
+    4.15,
+    4
+   ],
+   [
+    "beans",
+    "I love that one. Okay. Idiom number two. Spill the beans. Beans are a type of food,",
+    841,
+    848,
+    4.14,
+    4
+   ],
+   [
+    "smelling",
+    "smelling all this amazing food. It reminds me of something very important.",
+    761,
+    768,
+    3.58,
+    1
+   ],
+   [
+    "craving",
+    "And sometimes you just have a craving.",
+    437,
+    441,
+    3.56,
+    1
+   ],
+   [
+    "parkour",
+    "Combo parkour. Garlic. Always garlic. It makes absolutely everything taste better.",
+    705,
+    714,
+    2.79,
+    1
+   ],
+   [
+    "untidy",
+    "kitchen is very untidy and dirty. So if you like cooking, you can say, \"I love cooking,",
+    680,
+    688,
+    2.61,
+    1
+   ]
+  ],
   "tx": "Hello everyone, and welcome back to the Cambridge English Walking Podcast. Today is a very special episode. I finally traveled to London, and I am walking right now with a wonderful guest. Hi friends, I am Victoria, and I am so happy you are here with us today. It is great to finally record a podcast together in person. Slava, you just had a very long train journey from Cambridge to London. Tell me honestly, are you feeling hungry right now? Oh Victoria, I am absolutely starving. Starving is a fantastic B1 word for our listeners. It means I'm extremely hungry. I only had a tiny cup of coffee … let's start simple. Let's talk about morning routines first. What do you usually eat for breakfast? Oh, breakfast! To be honest, when I was a student, I used to skip breakfast almost every day. I was always late for my classes. But now, I usually eat toast with butter and a cup of hot black coffee. That sounds classic. By the way, listeners, \"I usually eat\" is a great phrase for your daily habits. Try saying it with us out loud. I usually eat bread. Or I usually drink coffee. It's simple and natural English. What about you, Victoria? What do you usually eat? I usually eat oatmeal with … best part, dessert, which is something sweet at the end. Yes, looking at menus is fun. But for many English learners, ordering food in a restaurant can be very stressful, right? You sit there, looking at the waiter, thinking, \"How do I say this politely without making a grammar mistake?\" Totally. But please remember, you do not need perfect grammar to order food. You just need a few polite phrases. When you want to order, always use the phrase \"I'd like.\" For example, \"I'd like a salad, please.\" Exactly. Or you can say, \"Can I have the fried noodles, please?\" It is very natural. And if you … And notice that I asked, \"Would you like anything to drink?\" Yes, would you like is much softer and more polite than saying, \"Do you want?\" It is the perfect phrase for restaurants or any formal situations. But you know, Slava, sometimes menus in foreign countries are very confusing. I remember my first time in an Asian restaurant. I did not understand the English menu at all. Oh no! What did you do? Did you order randomly? I just opened the menu, pointed my finger at a beautiful picture of food and said, \"I'd like this one, please.\" Sometimes, pictures save us. And that is totally fine. … need to eat something specific right now and you can't stop thinking about it. Yes, for example, sometimes I crave chocolate late at night. I have a massive sweet tooth. A sweet tooth? Let's explain that idiom. If you have a sweet tooth, it means you really love sweet food, like desserts, chocolate cakes and candy. What about you, Slava? Do you have a sweet tooth, or do you prefer something different? Look at these Chinese restaurants around us. They have so many spicy dishes. I definitely prefer spicy food. I love dishes with a kick. With a kick is a fantastic English idiom. It means the … think street food is the absolute best way to taste real authentic culture. But Slava, eating on the street is so uncomfortable. You have to hold your hot paper box in one hand, your fork in the other hand, and people are pushing you. I prefer a sit-down restaurant. That is a great phrase, listeners. A sit-down restaurant is a place where a waiter brings you a menu and real plates. Yes, restaurants are comfortable, but street food has a special energy. You can watch the chef cooking your food right in front of your eyes. You hear the fire, you see the smoke, and the best part? You … best. The absolute best food in the world is cooked at home. Oh, absolutely. Home cooking is my happy place. Do you actually cook at home, Slava? I do. I really enjoy making food at home. pasta. It's easy and colorful. But there's one big problem. When I cook, I always make a terrible mess. My kitchen looks like a food explosion. That is a brilliant phrase for our listeners. To make a mess. It means your room or your kitchen is very untidy and dirty. So if you like cooking, you can say, \"I love cooking, but I always make a mess.\" Don't worry, Slava. Making a mess is part of the fun. And … food. It reminds me of something very important. Food is not just about eating. It is about stories. Every single meal has a memory. Oh yes. Like the soup your mother made when you were sick, or the smell of fresh bread from your local bakery. Exactly. When I was a kid, my grandmother made a big pot of soup every Sunday. The smell filled the whole house. It was so cozy. That is beautiful! You can say, \"This dish reminds me of my childhood.\" Let's repeat it together, everyone. \"This dish reminds me of my childhood.\" Excellent! Or if you want to sound even more natural, you can say, \"This … of cake in a conversation, native speakers will be very impressed. We are almost at the end of Chinatown now, Slava. You know, another thing I love about sit-down restaurants and home cooking is how people share food. Food can teach us a lot about culture. That is so true. In some countries, people share big dishes in the middle of the table. In others, everyone has their own private plate. Sharing food is how people show love, respect, and friendship. Exactly. And sharing food connects people. Just like learning English connects hearts across the world. Let's teach a few nice English … Yes, tonight take a beautiful picture of your dinner and write one single sentence in English in the comments below. What did you eat today? Is it crunchy, spicy, or sweet? Did you eat on the go or make a mess in the kitchen? We'll read your sentences, put a big like on them, and reply to you. Remember, you don't have to be perfect. Even one phrase a day makes your English stronger. Thank you for walking with us through London today, friends. Keep practicing, stay confident, and we'll see you in the next episode. Eat well, smile often and speak bravely. See you next time everyone, bye!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.023
+  "src": "cc"
  },
  "qRJotvniaP4": {
   "channel": "Cambridge English Walking Podcast",
   "lang": "en",
-  "checked": "2026-11-11T15:23:10+00:00",
+  "checked": "2026-11-24T16:38:42+00:00",
   "title": "Solo Travel in English: Slow English Conversation for Beginners",
   "duration": 1342,
   "published": "20260627",
@@ -84390,6 +85290,7 @@
   "pace": 137.8,
   "rare": 0.0157,
   "var": 0.8117,
+  "cl": 0.027,
   "speech_s": 1275.0,
   "tokens": 2929,
   "kw": [
@@ -84522,16 +85423,113 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "completely",
+    "Prepare to be completely shocked! Cambridge is the cycling capital of the United Kingdom.",
+    62,
+    70,
+    5.0,
+    15
+   ],
+   [
+    "alone",
+    "When you face a difficult situation alone, and you successfully solve the problem,",
+    262,
+    269,
+    5.16,
+    14
+   ],
+   [
+    "nervous",
+    "It means something that makes you feel really nervous, anxious, or a little bit stressed.",
+    231,
+    238,
+    4.42,
+    6
+   ],
+   [
+    "quiet",
+    "feeling can hit you, especially when it gets quiet.",
+    553,
+    559,
+    4.65,
+    5
+   ],
+   [
+    "podcast",
+    "Hello everyone, and welcome back to the Cambridge English Walking Podcast,",
+    0,
+    7,
+    4.15,
+    3
+   ],
+   [
+    "uncomfortable",
+    "God means uncomfortable or clumsy, like you don't know what to do with your hands or",
+    306,
+    313,
+    4.19,
+    2
+   ],
+   [
+    "announcer",
+    "Listen carefully to what the announcer is saying right now.",
+    345,
+    350,
+    3.58,
+    1
+   ],
+   [
+    "scanner",
+    "Let's tap the phone against the electronic scanner.",
+    152,
+    157,
+    3.56,
+    1
+   ],
+   [
+    "fluent",
+    "conversations, you will sound very natural, fluent, and confident.",
+    1251,
+    1257,
+    3.52,
+    1
+   ],
+   [
+    "pronunciation",
+    "But people absolutely love it when you try to speak their language, even if your pronunciation",
+    805,
+    812,
+    3.51,
+    1
+   ],
+   [
+    "stressing",
+    "without stressing out. If you see a beautiful little street, you just stop and wander around.",
+    428,
+    436,
+    3.48,
+    1
+   ],
+   [
+    "phrasal",
+    "In English, we have a great conversational phrasal verb for this.",
+    271,
+    276,
+    2.03,
+    1
+   ]
+  ],
   "tx": "Hello everyone, and welcome back to the Cambridge English Walking Podcast, where learning English is always a real-life adventure. I'm Slava. Before I show you where I am, I have a very special listening challenge for you today. Later in this video, when I am on the train, you will hear a real announcement. Your task is to catch a famous safety rule of the British Railways. It consists of three short words, and they all start with the letter S. If you hear it, write it in the comments below. I will personally read your answer, leave a big like and reply with warm supporting words. So, keep … and here is my digital ticket with a QR code. Let's tap the phone against the electronic scanner. 1, 2, 3. Perfect! The green light is on, the gates are opening, and we are officially through. Let's look up at the large departure screens. Today I'm taking a direct train to London Liverpool Street Station. My train is leaving from platform number 3 in just 10 minutes. Let's walk over there and find a comfortable seat. Wow, I'm finally sitting down on the train. It is nice and warm inside. The train is starting to move now, and we are leaving Cambridge behind. This means our actual podcast … alone, but I pulled it off.\" It gives you an incredible feeling of confidence. But what about the daily simple things? Many people tell me, \"Slava, I could never travel alone because I would feel so awkward eating alone at a restaurant.\" God means uncomfortable or clumsy, like you don't know what to do with your hands or where to look. Personally, I completely disagree. I think eating alone is fantastic. Nobody's rushing you. To rush means to make you move faster or hurry up. When you're solo, you can sit with your coffee for an hour, look out the window, and nobody tells you to hurry. … hot summer day. You leave your boring daily routine behind. Another amazing surprise is that when you travel solo, you actually meet more people, not less. When you're with a group of friends, you only talk to your friends. But when you're alone, you naturally branch out. To branch out means to try new things or to connect with new people outside your usual comfort zone. You start making small talk with strangers at a cafe or at the train station. Talk is just light, casual conversation about everyday things, like the weather or your journey. And for everyone learning English, solo travel is … together. We will be calling at Ensignum, Stansteadman Fitchett, Bishop Stortford, Sawbridgeworth, Harlow Mill, Harlow Town, Brocksbrorn, Chessent, Tottenham Hale, and London Liverpool Street. All right, the train is moving fast again. Let's continue our thoughts about travel and language learning while we look at the changing view outside. If you were listening to this and thinking, \"Okay, Slava, maybe I want to try a solo trip in the future, what is the best practical advice?\" First, start small. You do not need to fly to the other side of the planet for your first solo … you book the ticket, and you just do it. It's the ultimate way to grow and change your life. Well, the houses out the window are slowly becoming bigger and closer together. The empty fields are disappearing, which means London is getting closer and closer. Let's continue talking about the secrets of solo travel. One of the biggest fears people have when travelling alone is the language barrier. Imagine you are in a country where nobody speaks your native language. You do not have a travel buddy to translate for you. You are completely on your own. But here's a fantastic tip that … without a map, you find the most amazing hidden places. You find tiny cafes that are not on the internet. You find quiet, beautiful streets without any tourists. You just go with the flow and let the city surprise you. Of course, as I mentioned before, you must always use your common sense. If you're wandering around a new city, do it during the day, be aware of your surroundings, and enjoy the adventure safely. You know, the more I talk about this, the more I realize what solo travel is really about. It's not just about taking photos of famous monuments, and it's not just about eating … outside the window now. The scenery has completely changed. There are no more green fields or quiet little stations. Instead, I see tall brick buildings, concrete bridges and lots of graffiti. The train is slowing down significantly. We are finally entering the heart of the capital. We are arriving at London Liverpool Street Station. But wait, please be very, very quiet. I hear the main station announcement starting on the speaker. This is the moment you have been waiting for since the beginning of the video. closely and try to catch our secret rule. If you see something that doesn't look … everywhere around me. Everyone is rushing, carrying big suitcases, drinking coffee, and looking up at the giant electronic departure screens. If this was my very first time traveling solo, walking into this huge, loud crowd would be quite nerve-wracking. I would definitely feel a little bit lost. But remember what we talked about today. You just need to go with the flow. As we walk through this beautiful busy station towards the main exit, let's do a quick review of the amazing English words we learned today. \"Repetition\" is the absolute best way to remember new vocabulary. Listen … love to visit completely alone? And why? For example, you can write, \"I would love to visit Japan solo because I want to go with the flow.\" Or maybe, \"I would love to wander around Paris alone because I want to branch out.\" Please write your answers in the comments below. Do not forget to use the new words we learned today. Thank you so much for traveling with me from Cambridge to London. Keep practicing your English, keep learning new things, and maybe start planning your very first solo adventure. Stay curious, stay brave, and I will see you in the next episode with Victoria. Bye everyone!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0269
+  "src": "cc"
  },
  "kXVWoJTowg4": {
   "channel": "Cambridge English Walking Podcast",
   "lang": "en",
-  "checked": "2026-11-11T15:23:14+00:00",
+  "checked": "2026-11-24T16:38:46+00:00",
   "title": "How to Talk About Money in English  Budgeting, Saving & Idioms. English Listening Practice A2-B1",
   "duration": 1171,
   "published": "20260624",
@@ -84540,6 +85538,7 @@
   "pace": 158.3,
   "rare": 0.0112,
   "var": 0.7933,
+  "cl": 0.0307,
   "speech_s": 1147.6,
   "tokens": 3028,
   "kw": [
@@ -84680,16 +85679,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "save",
+    "to make a budget and save up.",
+    90,
+    93,
+    5.14,
+    12
+   ],
+   [
+    "let's",
+    "Alright Vika, I'm ready. Let's try to navigate through this shopping crowd and talk about",
+    123,
+    129,
+    5.16,
+    11
+   ],
+   [
+    "shopping",
+    "People are everywhere, and almost everyone here is carrying huge shopping bags, which",
+    49,
+    56,
+    4.68,
+    6
+   ],
+   [
+    "pounds",
+    "For example, I had to fork out five pounds for that coffee.",
+    158,
+    163,
+    4.53,
+    6
+   ],
+   [
+    "logical",
+    "It's very logical. A budget helps you see your money in and your money out.",
+    451,
+    459,
+    4.14,
+    3
+   ],
+   [
+    "invisible",
+    "When you just tap your phone, it feels like invisible money.",
+    206,
+    212,
+    4.09,
+    3
+   ],
+   [
+    "earns",
+    "If you are the person who earns the main money for your family, in English, we have a funny",
+    470,
+    475,
+    3.56,
+    1
+   ],
+   [
+    "mmm",
+    "Mmm, yes. Let's do the math again. If I buy a coffee for three pounds every single day,",
+    580,
+    588,
+    3.55,
+    1
+   ],
+   [
+    "subscriptions",
+    "Digital subscriptions are very clever. They take a small amount of money from your bank account every single month, because it",
+    373,
+    382,
+    3.49,
+    1
+   ],
+   [
+    "caramel",
+    "and buying an expensive caramel latte with extra syrup five times a day, that is definitely",
+    351,
+    359,
+    3.48,
+    1
+   ],
+   [
+    "contactless",
+    "Oh yes, contactless payment. It is incredibly convenient, but there is a big psychological danger there.",
+    197,
+    207,
+    2.73,
+    1
+   ]
+  ],
   "tx": "English Walking Podcast, where learning English is always a real life adventure. I'm Slava. And I'm Victoria. Hello to all our wonderful learners out there. It's so good to be walking with you again today. As you can see from the background, we are not in our usual Cambridge today. That's right. We are currently on a short two-day business trip in London. The The weather is absolutely fantastic today. It's sunny, the sky is perfectly clear, but wow, just look at the crowds around us here on Oxford Street. It is packed like sardines today. Packed like sardines. That's a fantastic English idiom … channel grow and reach more learners. And please don't forget to subscribe so you never miss our new walks. Alright Vika, I'm ready. Let's try to navigate through this shopping crowd and talk about money. Let's do it. So Slava, we all interact with money every single day. We buy things constantly. Yes we do. Just this morning I bought us some coffee, I paid for our transport to get here, I bought a quick sandwich. Right. In everyday English, this action is simply called \"spending money.\" When you give money to get goods or services, you spend it. You can also use a great conversational … needs and wants. Hmm, needs and wants. I hear these words quite often, but what is the exact difference, Vika? Let's explain it clearly to our learners. It's a very important question. A need is something you absolutely must have to survive. It is essential. You simply cannot live without it. Something I must have? Give me some everyday examples. Like basic food. You need food, you need water, you need to pay rent for your apartment so you have a roof over your head. You need basic clothes to stay warm. These are your needs. In English, the money you spend on these things is called your … That is a fantastic question. Digital subscriptions are very clever. They take a small amount of money from your bank account every single month, because it happens automatically, you forget about them. But let's be honest, you do not need Netflix to survive. It is a want. Entertainment is a want. Wow, you're right. I probably pay for three different movie services, and I only watch one of them. That is a lot of invisible money going out every month. Yes, and understanding the difference between your needs and your wants is the very first step to managing your money well. Needs are essential. … bus tickets, this is all money out. I understand. A budget is just a simple way to look at those two things together, your income and your expenses. So, how do I make a budget? Do I need a complicated computer program or some expensive mobile app? Not at all. You can start with something incredibly simple. a notebook and a pen. A notebook? That's easy. I like traditional old school methods. It is very easy. You open a page and draw a line down the middle to make two columns. On one side, you write \"Money In.\" On the other side, you write \"Money Out.\" Okay, I can do that. Under \"Money In,\" I … your budget shows you exactly where you can cut back. Cut back is a phrasal verb that means to reduce your spending. For example, you can cut back on eating at expensive restaurants. I admit, sometimes after a long day of filming and walking, I'm tired and I just want to order a pizza. But it does cost a lot more than just cooking some pasta at home. It does. If you cook your meals at home, you save a fortune. Here's a great trick. Cook extra food for dinner and take the leftovers to work for lunch the next day. In English, we call this a packed lunch. A packed lunch? That's a super idea. … words. Price and cost. They are similar but slightly different. The price is the amount of money written on that tag. It is what the shop asks you to pay. So the price is 150 pounds, but what is the cost? The cost is the total amount of money you actually lose. For example, if you buy that jacket with a credit card and you have to pay extra interest to the bank later, the final cost is much higher than the price. Plus, there's a cost to clean and maintain the jacket. Wow, that is a very smart way to look at it. The price is what you see, but the cost is what you really pay in the end. So, … a saving goal. A goal is something you want to achieve in the future. A saving goal gives you a strong reason to save. For example, many people have a goal to go on a nice vacation next year, maybe to Spain or Italy. A vacation is a fantastic saving goal. But if I think about my daily life, I would really love to buy a brand new bicycle. My old one is practically falling apart. Perfect! A new bicycle is also a fantastic goal. Let's say you are standing in a cafe. look at a huge, expensive slice of chocolate cake. You can think to yourself, \"Do I buy this cake now, or do I put this five … the day I just drop my heavy coins inside, but it's only a little bit of money each day. Does it really make a difference? You will be absolutely amazed. You don't miss those small coins day by day, but after six months or a year, when that jar is full and you finally open it, there will be a lot of money inside. It's almost like finding buried treasure. I am definitely getting a big glass jar today. I will stick a picture of a bike on it and call it my bicycle jar. You know, Vika, talking about money in English is not as difficult as I thought. The vocabulary is actually very logical. It … you in the comments below. Please tell us, what is your saving goal? What are you currently saving up for? Is it a trip, a new phone, maybe a car, or your own bicycle? We're so excited to read your answers. Remember, writing comments in English is fantastic practice. And if you enjoyed this London Walk, don't forget to subscribe to the Cambridge English Walking Podcast and share this video with your friends. Thank you so much for walking with us today. Enjoy the rest of your day, manage your money wisely, and keep practicing your English. Bye for now everyone! See you in the next episode!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0233
+  "src": "cc"
  },
  "e6M9VURdD2g": {
   "channel": "Cambridge English Walking Podcast",
   "lang": "en",
-  "checked": "2026-11-11T15:23:17+00:00",
+  "checked": "2026-11-24T16:38:49+00:00",
   "title": "Struggling to Focus on English? Try This Simple Habit Hack",
   "duration": 1219,
   "published": "20260620",
@@ -84698,6 +85786,7 @@
   "pace": 156.7,
   "rare": 0.0134,
   "var": 0.8149,
+  "cl": 0.03,
   "speech_s": 1201.6,
   "tokens": 3138,
   "kw": [
@@ -84846,11 +85935,84 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "start",
+    "their busy offices to start their day. It is a very energetic, very powerful atmosphere.",
+    151,
+    159,
+    5.56,
+    11
+   ],
+   [
+    "single",
+    "Oh, please. Do not feel bad about that at all. I think every single normal person listening",
+    283,
+    290,
+    5.41,
+    11
+   ],
+   [
+    "tired",
+    "But on other days, the sky is grey, it's raining heavily, you are very tired from work, and",
+    422,
+    428,
+    4.71,
+    5
+   ],
+   [
+    "guilty",
+    "people holding their coffee makes me feel a little bit guilty today. I look at them,",
+    175,
+    182,
+    4.61,
+    5
+   ],
+   [
+    "bounce",
+    "very quickly. Do not sit there feeling guilty and sad for a whole week. You need to bounce back.",
+    1097,
+    1105,
+    4.02,
+    4
+   ],
+   [
+    "consistency",
+    "And that brings us to two very important words, consistency and intensity.",
+    451,
+    458,
+    3.99,
+    4
+   ],
+   [
+    "learners",
+    "important for our English learners. Today we are talking about discipline.",
+    303,
+    309,
+    3.48,
+    2
+   ],
+   [
+    "confidently",
+    "they're wearing very nice elegant winter coats, and they're walking quickly and confidently to",
+    146,
+    152,
+    3.41,
+    2
+   ],
+   [
+    "recharges",
+    "Resting is what actually recharges your internal battery.",
+    1014,
+    1018,
+    2.24,
+    1
+   ]
+  ],
   "tx": "Hello everyone! Welcome back to the Cambridge English Walking Podcast! Whether you are listening to us while drinking your very first cup of coffee, traveling on a crowded train to work, or simply relaxing on your sofa at the end of a long, tiring day, we are incredibly happy that you are here. If you are trying to learn English but you always find it difficult to stick to your study plan, please do not stop listening. To stick to something is a great B1 phrasal verb that means to continue doing something you promise to do without giving up. This episode is exactly what you need today to keep … hundreds of bicycles parked neatly everywhere you look. It is absolutely incredible to see. You can see hundreds of smart, professional people walking around us right now. They are holding their warm morning coffee cups, they're wearing very nice elegant winter coats, and they're walking quickly and confidently to their busy offices to start their day. It is a very energetic, very powerful atmosphere. You can truly feel that the people working here are incredibly focused. They have clear goals for the day. They have strict morning routines. They know exactly what they are doing and where … soft, and so incredibly comfortable, so I decided to put off my run. To put off is another excellent phrasal verb. It means to delay doing something until later. I just reached out my hand, quickly turned off the annoying alarm, stayed quietly under my warm blanket and watched funny cat videos on my phone for 45 minutes straight. Oh, please. Do not feel bad about that at all. I think every single normal person listening to this podcast right now understands that exact feeling perfectly. We've all been there. We all put things off sometimes. And that's exactly why today's main topic is so … sit patiently and wait to feel excited and energized before they finally open their English books to start studying. They think motivation must always come first. Yes, but we must understand that motivation is just an emotion. It is just a temporary feeling inside your body, and human feelings change every single day. Sometimes you wake up, the sun is shining brightly, and you feel amazing. You want to conquer the whole world. But on other days, the sky is grey, it's raining heavily, you are very tired from work, and you just want to sleep on the sofa all evening. Exactly, and you cannot … every single day, from Monday to Sunday without stopping. Consistency is always, always more powerful than intensity. 15 minutes a day gently builds a strong, permanent new neural pathway in your brain. But let us be completely honest with our listeners right now. Even 15 minutes can feel very difficult when you come home from a long, stressful day at the office, and you're absolutely exhausted. What can our listeners actually do when they want to practice, but they just can't find the energy to start? I have a fantastic psychological trick for this exact problem. It's a famous idea called … But let's go even deeper into the psychology for a moment. Let's talk about the science of how human habits actually work inside our busy brains. Every single habit we have is made of three important parts. A cue, a routine, and a reward. Let's break those down. A cue is simply a signal. It is a trigger that instantly tells your brain to start doing an action completely automatically. For example, imagine you just finished eating your warm evening dinner. Finishing the dinner is the cue. And then your brain automatically says, \"Dinner is finished. Now it is time for something sweet.\" So you … it means you wait passively for bad things or problems to happen first and then you panic. You just react to the chaotic world around you. If you are reactive, you will always fall behind in your work. Fall behind is another great phrasal verb. It means to fail to do something fast enough or on time. Yes, if you wake up late, suddenly realize you have no clean clothes and run to the station without eating, you are falling behind. Life is controlling you. You are completely reactive. But when you are proactive, you take full confident control of your future. You prepare everything … in the evening? Is it just because they run out of steam? To run out of steam is a perfect idiom here It means to suddenly lose your energy or your motivation to do something Yes, they run out of steam, but the real reason is fascinating Famous psychologists say that your human self-control is exactly like the digital battery inside your smartphone. Think about it like this. In the fresh morning you wake up after a good long sleep, your self-control battery is at a perfect 100%. You easily eat a healthy breakfast. You focus hard on your difficult work, but every single decision you make, … you can chew. To bite off more than you can chew, that is a brilliant idiom. It means trying to do a task that is simply too big or too difficult for you. If you start five new hobbies at once, you will definitely spread yourself too thin. That's another idiom that means trying to do too many things at the same time, so you have absolutely no energy left for any of them. Exactly. If you have only a tiny small piece of butter and a giant piece of bread, the butter has absolutely no taste. You must learn to focus. Pick one small habit first. But let's be totally honest with our listeners. … your turn to be proactive. Write a short comment below this video right now. Tell us what is one small habit you will start this week using the two-minute rule. And while you are writing, please let us know what topic you would like us to talk about in our next videos. We want to make episodes that are truly helpful for you. We've promised to read every single comment you write. Thank you so much for walking with us. If this podcast helped you, please subscribe and leave a like. Be very kind to yourself. Remember to bounce back when you fail and we will see you on our next walk. Bye everyone!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.031
+  "src": "cc"
  },
  "Ekac4MWT9TY": {
   "channel": "Easy Stories in English",
@@ -86111,7 +87273,7 @@
  "ELfm27LgTcY": {
   "channel": "Rachel's English",
   "lang": "en",
-  "checked": "2026-11-11T04:23:25+00:00",
+  "checked": "2026-11-24T16:47:41+00:00",
   "title": "Diphthongs┃Learn American English Pronunciation On the Go",
   "duration": 1911,
   "published": "20250118",
@@ -86120,6 +87282,7 @@
   "pace": 172.4,
   "rare": 0.0433,
   "var": 0.7546,
+  "cl": 0.0455,
   "speech_s": 1904.4,
   "tokens": 5473,
   "kw": [
@@ -86284,11 +87447,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "mouth",
+    "Rachel: Okay. So, look at my mouth as I say it “A”,",
+    84,
+    88,
+    4.83,
+    34
+   ],
+   [
+    "sounds",
+    "Rachel: Okay. Well, basically a diphthong is two vowel sounds",
+    56,
+    58,
+    4.97,
+    22
+   ],
+   [
+    "native",
+    "these two up and then I’m going to talk about one of the big problems that non-native speakers have.",
+    340,
+    345,
+    4.69,
+    5
+   ],
+   [
+    "helpful",
+    "first to what’s written, when really I think what’s so helpful, is breaking out of that.",
+    494,
+    501,
+    4.43,
+    5
+   ],
+   [
+    "pronounced",
+    "Rachel: How’s it pronounced? David: “I”.",
+    257,
+    262,
+    4.06,
+    7
+   ],
+   [
+    "cluster",
+    "there were two, so you took away the cluster. And then—",
+    1493,
+    1497,
+    3.99,
+    7
+   ],
+   [
+    "vowels",
+    "of what we did a couple of weeks ago, David, when we were studying the vowels, do you remember that?",
+    30,
+    36,
+    3.21,
+    4
+   ],
+   [
+    "foe",
+    "like in go. It can be spelled ow, like in row. It can be spelled oe, like in foe.",
+    1200,
+    1210,
+    3.51,
+    3
+   ],
+   [
+    "applauding",
+    "are applauding you. Bow. So, there, it's spelled just like cow, except for the first consonant,",
+    1268,
+    1275,
+    2.91,
+    2
+   ],
+   [
+    "rachel's",
+    "Rachel: Welcome to the Rachel's English podcast,",
+    1,
+    5,
+    2.91,
+    2
+   ]
+  ],
   "tx": "Rachel: Welcome to the Rachel's English podcast, where it’s my goal to help you speak better American English and to understand Americans more easily. I’m here with my husband David. David: Hey everybody. Rachel: And today we’re going to discuss diphthongs. If you would like a free copy of the transcript of this podcast, just visit rachelsenglish.com/podcast and search for this episode. So, this is a continuation of what we did a couple of weeks ago, David, when we were studying the vowels, do you remember that? David: I do. Rachel: And, when I asked you what vowels you could think of at the … “That’s not a diphthong.” I’m talking about you the diphthong you and we will get into that during this discussion. So, David, there’s one sentence that I found on the internet, it’s not even a sentence, it’s like a three-word phrase that contains each one of these five diphthongs. I’m going to say the sentence, No highway cowboys. David: Okay. Rachel: So, let’s think about that. “O” “No”. The word no has the “O” diphthong. Highway. Can you identify the two diphthongs there? Highway. David: No. Rachel: Well, think--let’s just take the word high. David: High. Rachel: What’s the consonant? … My mouth is not moving at all for that sound - Noooo ooo ooo and it doesn’t sound right does it? David: No. Rachel: Mm-mm. No, it needs the jaw drop and then the lip rounding, it needs both parts. Another, um, common mix up is with the “A” diphthong. People will say something like “Eh eh’’ Highweh” David: Okay. Rachel: Weh. Now, it’s similar, right? You almost think, wait that is it. David: Mm-hmm. Rachel: But then when you hear it in a word, it’s not really it. “Weh” “ehhh” mouth isn’t moving at all, so it’s not diphthong. David: It’s such a great little example actually of why your … for the sounds and understanding the changes you have to make based on your native language. Watching the mouth movements of a native speaker is, I think, really helpful. And, actually, I have a whole set of videos that go over each of the sounds of American English where there is some footage that is a very up-close snapshot of my mouth moving in slow motion. David: Right. Rachel: So, I will put a link to that playlist in the show notes for this podcast. Be sure to check those videos if you haven’t already. David: Yeah, that’s interesting. Right before you said that, I was thinking … “EI” like in the word veil, or “IEG” like in the word reign. Or, wait. Did I say, “IEG”? David: You said IE by accident I think. Rachel: Okay, thank you for catching me. The word reign, it’s spelled e-i-g, reign, that’s different than rain, which is also pronounced rain. Those two words are homophones. Reign would be a reign, like for example you could say, the reign of Queen Elizabeth as she’s been ruling. David: Or, the reins to control a horse. Rachel: Right, that’s also spelled R-E-I-G-N. But rain, spelled R-A-I-N, is that which comes from the sky. Wet drops from the sky. Okay, it … Bye. Okay, -ow. I was only able to find three spellings of this diphthong. Ow, like in cow. Now. Wow. Ou, like in round. Loud. Hour. Or ough, like in bough, like a Christmas tree. Bough. Branch. David: Mm-hmm. Rachel: Yes, okay. Ow. So, here's another one where I'm going from more jaw drop to less, but my lips are doing something different here. David, what is it? Ow. David: They, they come to a really tight rounded position at the end. Rachel: Yeah. They're rounding. David: Relaxed at first, and then tensed and rounded. Rachel: Jaw drop, relaxed lips, tongue lifts in the back, and then lip … David: I can be your boo, but not your beau. Rachel: My boo. You said boo, but, and it sounded like boob because of the way B connected to the word. Oh, man. Linking in American English. That's a whole other episode. So, I wanted to talk for a second about the words B-O-W and C-O-W. So, we have bow, like B-O-W. You might tie a bow in your hair. So, there, ow is pronounced O, but it can also be bow. Like at the end of a show, you might take a bow. People are applauding you. Bow. So, there, it's spelled just like cow, except for the first consonant, and they sound the same. But bow, spelled … vowel sounds together, but here we're talking about the Y consonant, yih. Yih. With the -ooh diphthong. I'm sorry, with the -ooh vowel, U, to make that diphthong. And sometimes those two sounds together are this diphthong, and sometimes they're just a consonant and a vowel. I think that's how I would change my definition of it. These two sounds together aren't always being a diphthong. Sometimes they're being a consonant and a vowel. But David, do you remember at the beginning of the podcast when we were talking about cowboys, and I was saying cow? Break out the consonant. And you said, K, … sounds, smoothly going together, and it, it always makes sense in these cases where the Y is feeling like part of a diphthong, rather than a cluster. Rather than a consonant as part of a cluster or beginning a word. Okay, so, anyway, that's my argument for why I've classified as a diphthong, because when you break down words, it, it often just feels like it makes sense as part of a diphthong unit. The why makes sense with a vowel more than it does with the consonant, like the word music. You would say, m-u-z-ik. You wouldn't say m-yih-ooh. Right? David: Right. Rachel: Yeah. So, there, the … transcript at rachelsenglish.com/podcast. Just look for this episode. And guys, I would love it if you would share this podcast with your friends and family. It's still new, and I'm just really trying to reach people out there. So, if you enjoy this podcast, please pass it on. Also, be sure that you subscribe. You can do so in the iTunes store or on Stitcher, and please leave a review. I read all of them, and I love hearing what people think of the Rachel's English podcast. So, that's it for this week, everybody. We'll see you next week. Looking forward to it. David: See you later, everybody.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0417
+  "src": "cc"
  },
  "9H1QAzYnkHw": {
   "channel": "Essential Craftsman",
@@ -97642,7 +98886,7 @@
  "ikrTNUvEDbw": {
   "channel": "Miss Jean Teaches",
   "lang": "en",
-  "checked": "2026-11-12T00:56:48+00:00",
+  "checked": "2026-11-24T16:32:10+00:00",
   "title": "👋🏻 Introduce Yourself Like a Native Speaker | SLOW ENGLISH lesson",
   "duration": 751,
   "published": "20250627",
@@ -97651,6 +98895,7 @@
   "pace": 85.6,
   "rare": 0.0039,
   "var": 0.6719,
+  "cl": 0.0329,
   "speech_s": 724.1,
   "tokens": 1033,
   "kw": [
@@ -97735,16 +98980,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "since",
+    "This question is a great opportunity to practice a common mistake: for vs since.",
+    337,
+    348,
+    5.75,
+    10
+   ],
+   [
+    "name",
+    "If I say, “What’s your name?”",
+    18,
+    24,
+    5.61,
+    10
+   ],
+   [
+    "specifically",
+    "You can say, “I’m from {country}, specifically {state/city}.”",
+    174,
+    181,
+    4.65,
+    3
+   ],
+   [
+    "prefer",
+    "You can choose “My name is” or “I’m” or switch between them—whichever you prefer.",
+    57,
+    69,
+    4.57,
+    3
+   ],
+   [
+    "sentences",
+    "Here’s an example of using all of these sentences together.",
+    660,
+    665,
+    4.13,
+    1
+   ],
+   [
+    "o’clock",
+    "since two o’clock since last week",
+    409,
+    415,
+    4.04,
+    1
+   ],
+   [
+    "confusing",
+    "But “from” can be a little confusing—does it mean where you live or where you were born?",
+    189,
+    200,
+    4.02,
+    1
+   ],
+   [
+    "nickname",
+    "Or what if your name is really long and you want people to call you by a nickname?",
+    76,
+    87,
+    3.91,
+    1
+   ],
+   [
+    "unemployed",
+    "“I’m currently unemployed” or “I’m currently looking for work.”",
+    322,
+    332,
+    3.9,
+    1
+   ],
+   [
+    "gimme",
+    "If you learned one new thing in this video, make sure to gimme a “Like.”",
+    715,
+    724,
+    3.57,
+    1
+   ],
+   [
+    "fluent",
+    "“I’m fluent in {language}.” For example, My native language is English, but I can have simple conversations in",
+    525,
+    541,
+    3.52,
+    1
+   ],
+   [
+    "twenties",
+    "“I’m in my early/mid/late twenties, thirties, forties, etc.”",
+    602,
+    613,
+    3.48,
+    1
+   ],
+   [
+    "forties",
+    "“I’m in my early/mid/late twenties, thirties, forties, etc.”",
+    602,
+    613,
+    3.04,
+    1
+   ]
+  ],
   "tx": "Hello, hello! Welcome or welcome back! I’m Jean, and today I’m going to teach you how to introduce yourself. You can probably already introduce yourself a little bit. If I say, “What’s your name?” What do you say? You probably said, “My name is…” or “I’m…” These two phrases are all you need to give your name. The only difference between them is that “My name is” can be a little bit more formal, but that’s not a rule. You can choose “My name is” or “I’m” or switch between them—whichever you prefer. But what if your full name isn’t what you prefer? Or what if your name is really long and you want people to call you by a nickname? Here are a few ways you can tell someone your preferred name. “I go by…” “I prefer…” “You can call me…” So, let’s say you have a really long first name, like Alexander or Alexandra. Maybe you want everyone to call you “Alex” instead. So here’s one way that conversation can go: “Hi! How are you? What’s your name?” “I’m Alexandra, but you can call me Alex.” “Nice to meet you, Alex.” Now let’s go over the top 5 most common questions someone can ask you and ways you can answer them. Number 1: Where are you from? Here are some options you can use to answer this question. You can say, “I’m from {country}.” For example, I’m from the United States. Or, I could also say, I’m from America. You can say, “I’m from {country}, specifically {state/city}.” For example, I’m from the United States, specifically Florida. But “from” can be a little confusing—does it mean where you live or where you were born? It can mean either. If you want to tell this to someone, you can say something like this: “I live in {current city/country}, but I’m originally from {birth city/country}.” OR “I live in {current city/country}, but I was born in {birth city/country}.” OR you can switch the order of these phrases. You can say, “I was born in {birth city/country} but right now I’m living in {current city/country}.” For example, I was born in Kentucky, but right now I’m living in Florida. Number 2: What do you do? This question is asking what your current job is. Here are some ways to answer this question: You can say, “I’m a {job title}.” For example, I’m a teacher. If you are the only person who does your job in your company or organization, then you can probably say, “I’m the {job title}.” For example, I’m the principal of this school or I’m the CEO of this company. If you don’t currently have a job, you can say, “I’m currently unemployed” or “I’m currently looking for work.” Number 3: How long have you been learning English? This question is a great opportunity to practice a common mistake: for vs since. Here are some ways to answer this question: You can say, “I have been learning English for {an amount of time}.” For example, I have been learning English for three years. OR You can say, “I have been learning English since {a specific date}.” For example, I have been learning English since 2022. We use “for” with an amount of time, like for two seconds for five minutes for six hours for two weeks for a month etc. We use “since” with a specific time, like since two o’clock since last week since then since January since I was eight years old Number 4: Why are you learning English? Of course, why you are learning English is personal to you, but here are a few options: You can say, “I’m learning English for school/work.” Or, you can say, “I’m learning English just for fun.” For example, I’m learning Spanish because a lot of people speak Spanish in my city. Number 5: What other languages do you speak? If you speak your native language and you’re only learning English, you can say: “Just {native language.}” Of course, if you speak a lot of languages, you can say: “My native language is {language} but I also speak {other languages}.” If you want to say how well you can speak another language, here’s how you can say that: “I can understand a little {language}.” “I can speak a little {language}.” “I can have a conversation in {language}.” “I’m fluent in {language}.” For example, My native language is English, but I can have simple conversations in French and Mandarin Chinese and I can understand and speak a little Spanish. Here’s a bonus question: how old are you? In American society in general, it’s usually not a good idea to ask a woman how old she is, but here are some options. You can say, “{number}.” For example, 31. You can say, “I’m {number}.” For example, I’m 31. You can say, “I’m {number} years old.” For example, I’m 31 years old. Or, if you don’t want to use a specific number, you can say: “I’m in my early/mid/late twenties, thirties, forties, etc.” For example, I’m in my early thirties. Here are two common mistakes I often hear: “I’m {number} years.” and “I have {number} years.” These are mistakes in standard English. You can say “I’m {number}” or “I’m {number} years old” but not “I’m {number} years.” And we don’t use “have” in English to talk about age. Congratulations! You now have the tools to introduce yourself. Here’s an example of using all of these sentences together. Hi! I’m Jean. You can call me Miss Jean. I’m from the United States, specifically Florida. I live in Florida, but I was born in Kentucky. I’m an English teacher. I’ve been teaching English since 2019. I’m teaching English because I love languages and helping people. English is my native language, but I can have simple conversations in French and Mandarin Chinese and I can understand and speak a little Spanish. If you learned one new thing in this video, make sure to gimme a “Like.” If you learned two new things in this video, you might want to also hit the “Subscribe” button so you can continue learning more. Thanks for watching, friends! Until next time! Bye!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0329
+  "src": "cc"
  },
  "DhnPNXjR-8M": {
   "channel": "Easy English",
   "lang": "en",
-  "checked": "2026-11-12T00:59:53+00:00",
+  "checked": "2026-11-24T16:36:50+00:00",
   "title": "English Phrases in Everyday Conversation",
   "duration": 990,
   "published": "20240417",
@@ -97753,6 +99103,7 @@
   "pace": 134.9,
   "rare": 0.0098,
   "var": 0.8292,
+  "cl": 0.0267,
   "speech_s": 949.7,
   "tokens": 2136,
   "kw": [
@@ -97861,16 +99212,153 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "help",
+    "juice that would be a big help not a",
+    573,
+    579,
+    5.75,
+    8
+   ],
+   [
+    "thanks",
+    "hey Monica thanks for stopping by your Cafe seems to be booming lately",
+    388,
+    397,
+    5.43,
+    8
+   ],
+   [
+    "manage",
+    "how did you manage to turn things around",
+    394,
+    399,
+    4.54,
+    3
+   ],
+   [
+    "drinks",
+    "drinks hey Bill I hope you're doing well",
+    532,
+    537,
+    4.43,
+    3
+   ],
+   [
+    "spill",
+    "spill the beans so what do you think of the new",
+    126,
+    137,
+    3.84,
+    2
+   ],
+   [
+    "invested",
+    "I also invested in the Ambiance of the",
+    450,
+    457,
+    4.19,
+    1
+   ],
+   [
+    "clicked",
+    "love love Sean and I clicked so well it",
+    90,
+    97,
+    3.56,
+    1
+   ],
+   [
+    "arranging",
+    "started arranging more play dates for",
+    73,
+    77,
+    3.55,
+    1
+   ],
+   [
+    "partnered",
+    "programs partnered with local businesses for",
+    477,
+    483,
+    3.53,
+    1
+   ],
+   [
+    "upfront",
+    "appreciate you being upfront with me I",
+    326,
+    332,
+    3.48,
+    1
+   ],
+   [
+    "booming",
+    "by your Cafe seems to be booming lately",
+    390,
+    397,
+    3.43,
+    1
+   ],
+   [
+    "fiddling",
+    "watch or fiddling with his phone that's not a good sign a good",
+    208,
+    217,
+    2.94,
+    1
+   ],
+   [
+    "lifesaver",
+    "lifesaver let's plan on you arriving",
+    623,
+    628,
+    2.88,
+    1
+   ],
+   [
+    "doggies",
+    "while our doggies were having a",
+    56,
+    61,
+    2.53,
+    1
+   ],
+   [
+    "mids",
+    "mids sentence was really annoying it felt like he was just",
+    222,
+    230,
+    2.53,
+    1
+   ],
+   [
+    "redecorated",
+    "redecorated added some cozy seating areas and created a welcoming",
+    456,
+    465,
+    2.36,
+    1
+   ],
+   [
+    "shawn's",
+    "suddenly ran over to Shawn's dog",
+    42,
+    48,
+    2.29,
+    1
+   ]
+  ],
   "tx": "I feel like I've hit the jackpot Lily I have some big news to share with you really what is it I have a new boyfriend his name is Shawn oh wow that's wonderful news Kate how did you two meet it's it's quite a story actually we met in the park while walking our dogs really tell me more so one day my dog Max was playing in the park and suddenly ran over to Shawn's dog Bella they hit it off instantly and started playing together that's adorable and then what happened well sea and I started talking while our doggies were having a blast we realized we had a lot in common and enjoyed each other's … me laugh every day I feel like I've hit the jackpot with him I can't wait to meet him I can't wait for you to meet him either spill the beans so what do you think of the new manager well he's definitely something oh come on Spill the Beans Pam H where do I even begin he seems nice but there's something off about him I know what you mean he's a bit too polished don't you think almost like he's trying too hard exactly and did you notice how he kept using all that corporate jargon during the meeting it was like he was speaking a different language oh I know I couldn't keep track of it all and … looking at his watch or fiddling with his phone that's not a good sign a good manager should be attentive and engaged with their team exactly and his habit of interrupting us mids sentence was really annoying it felt like he was just waiting for his turn to talk I felt the same way it's like he's more interested in hearing himself speak than in understanding our perspectives I guess time will tell how things pan out with him let's hope he proves us wrong and turns out to be a great manager after all fingers crossed I don't want to lead you on Ryan I really appreciate you taking me out … looking for in a relationship I appreciate your honesty Melanie I'd rather know the truth than continue on if it's not going to work out I'm glad you understand I really didn't want to hurt your feelings you didn't hurt me Melanie I appreciate you being upfront with me I still think you're an amazing person thank you Ryan I value your friendship and I hope we can still remain friends absolutely I think we can have a great friendship without the pressure of a romantic relationship that's a relief I was worried about how you would take this don't worry Melanie I respect your feelings and I'm … was a challenge but I knew I could make it work that's amazing you must have some secret recipe for Success then care to share with me yeah sure when I took over I worked on improving the overall customer experience I trained my staff to provide excellent service and always go the extra mile for our guests I wanted people to feel welcomed and valued when they walk through the door that's a great tip what else did you do I also invested in the Ambiance of the cafe I redecorated added some cozy seating areas and created a welcoming atmosphere I can see that the place looks fantastic but how … you pick up some drinks hey Bill I hope you're doing well hi Michelle I wanted to officially invite you you to my birthday party next Saturday are you free to come thank you for inviting me I'd love to come to your party yay I'm glad you can make it what should I expect it's going to be a casual gathering at my place with some close friends oh and feel free to bring a plus one if you'd like sounds great should I bring anything to the party you're so thoughtful bill if you don't mind could you pick up some drinks like soda or juice that would be a big help not a problem at all I'll make … Bill you're a lifesaver let's plan on you arriving around 300 p.m. on Saturday so we can get everything ready before the party starts at 600 p.m. sounds like a plan I'm looking forward to celebrating your special day with you Michelle likewise Bill thanks again for being so willing to help out see you on Saturday I'll make it up to you hey Brian I wanted to let you know that I'm having my graduation party next Saturday and I'd really love for you to be there hey Paul congratulations on graduating I appreciate the invitation but I actually have another event to attend that day oh that's … of pictures so you can see what you missed out on sounds good I'll be looking forward to seeing those pictures and then we can plan our Hangout to make up for my absence absolutely Brian looking forward to it thanks for the well wishes and for being such a good friend no problem Paul you deserve all the success in the world talk to you soon bye Brian take care how are you holding up Stella hey there what a surprise to bump into you here oh Kate it's so good to see a friendly face I've had quite a rough day I lost my job and with two kids to care for it's been a real strg I'm so sorry to … at the job I am truly grateful for your kindness Kate thank you for being such a wonderful friend of course Stella we'll get through this together and remember if there's anything else you need I'm just a phone call away thank you Kate I really appreciate your offer of help you've lifted a huge weight off my shoulders take care Stella we'll catch up soon you too Kate thank you again for everything I'll make sure to step up John I wanted to talk to you about your performance lately you seem to always be behind on your projects what's going on I'm sorry boss things have been really busy … John I need to be able to count on you you can count on me boss I'll make sure to improve my performance and meet all deadlines good I expect to see a change I want to see Improvement in the next project you work on you got it boss I won't let you down I hope not John your performance reflects on the team as a whole and I need everyone to be on top of their game I understand and I'll make sure to step up thank you for the feedback boss good now get back to work and show me what you're capable of John thanks for watching and be sure to subscribe to our YouTube channel for more videos like this",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.019
+  "src": "auto"
  },
  "isjU0Q-sQ4Q": {
   "channel": "Easy English",
   "lang": "en",
-  "checked": "2026-11-12T00:59:57+00:00",
+  "checked": "2026-11-24T16:36:54+00:00",
   "title": "Talking about Yourself",
   "duration": 1088,
   "published": "20240320",
@@ -97879,6 +99367,7 @@
   "pace": 126.0,
   "rare": 0.0251,
   "var": 0.823,
+  "cl": 0.0193,
   "speech_s": 1060.9,
   "tokens": 2228,
   "kw": [
@@ -98011,16 +99500,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "together",
+    "us and we all sit down together to eat",
+    188,
+    193,
+    5.46,
+    8
+   ],
+   [
+    "room",
+    "a living room a kitchen a garage a",
+    259,
+    266,
+    5.39,
+    8
+   ],
+   [
+    "delicious",
+    "delicious but sometimes I'll buy a slice of pizza",
+    118,
+    126,
+    4.34,
+    4
+   ],
+   [
+    "helping",
+    "snacks I love helping my mom cook dinner",
+    316,
+    322,
+    4.78,
+    3
+   ],
+   [
+    "basement",
+    "basement a laundry room and a huge",
+    262,
+    268,
+    4.18,
+    2
+   ],
+   [
+    "climbing",
+    "climbing whether I'm climbing with friends or going solo it's an experience",
+    912,
+    919,
+    4.12,
+    2
+   ],
+   [
+    "experimenting",
+    "cityscape I love experimenting with different angles and compositions to",
+    970,
+    978,
+    3.53,
+    2
+   ],
+   [
+    "surgeries",
+    "operating room conducting surgeries or Consulting with",
+    611,
+    618,
+    3.51,
+    2
+   ],
+   [
+    "granola",
+    "granola it's the perfect way to recharge",
+    141,
+    147,
+    2.98,
+    1
+   ],
+   [
+    "lounging",
+    "lounging it's my favorite place to hang",
+    340,
+    347,
+    2.88,
+    1
+   ],
+   [
+    "freshen",
+    "freshen up brush my teeth wash my",
+    35,
+    44,
+    2.85,
+    1
+   ],
+   [
+    "ramble",
+    "ramble about the things I love I hope you find your own passions",
+    1062,
+    1071,
+    2.85,
+    1
+   ],
+   [
+    "refuel",
+    "refuel for the afternoon School finishes at 300",
+    129,
+    140,
+    2.84,
+    1
+   ],
+   [
+    "rainforests",
+    "rainforests the outdoor activ ities here",
+    777,
+    782,
+    2.74,
+    1
+   ]
+  ],
   "tx": "my day my name is Edith I'm 16 years old and I study at Jefferson High School a typical day for me starts with the sound of my alarm beeping at 6:30 a.m. I drag myself out of bed and get ready for the day first I head to the bathroom to freshen up brush my teeth wash my face then I put on my favorite playlist to get me moving it's a mix of popping indie songs to get me pumped for the day ahead then I pick out my outfit for the day and get dressed after that I head downstairs to grab some breakfast for breakfast I always go for a bowl of cereal with some fresh fruit and a glass of orange juice … buy a slice of pizza or a sandwich from the cafeteria lunchtime is always a great chance to catch up with my friends and refuel for the afternoon School finishes at 300 p.m. after school I usually enjoy having a snack of yogurt and granola it's the perfect way to recharge before diving into my next activities I'm part of the student council so I often have meetings or events to attend I also play on the school's basketball team so I have practices a few times a week on days when I don't have a meeting or practice I like to hang out with my friends at the park or go shopping at the mall when … to read or listen to music finally as the night winds down I follow my evening routine shower skin care getting into bed with a book by 10: p.m. it's lights out for me my home welcome to my house come on in let me show you around it's a big one with four bedrooms a living room a kitchen a garage a basement a laundry room and a huge backyard I live here with my parents and two siblings let me tell you all about about it let's start with the living room it's my favorite place to hang out with my family we have a big cozy couch a flat screen TV and a fireplace the walls are painted a calming … is right next to mine she loves all things pink and girly so her room is decorated with fairy lights stuffed animals and posters of unicorns my little brother's room is filled with toys action figures and a race car bed we all have our own unique spaces that reflect our personalities my favorite part of the house overall is definitely the basement it's like a whole other world down there we have a home theater with a huge screen for movie Nights a game room with a pool table and foosball and a mini kitchenet for snacks it's where we host sleepovers and hang out with friends I'm really … times but we all know it's just her artistic side and then there's Ryan he is 17 tall and sporty with a charming smile that makes all the girl Swoon he's the responsible one in the family always looking out for us Ryan has short black hair and a kind calm demeanor he loves playing basketball and is always practicing to improve his game he's like a mentor to Leo and always sets a good example for us as for our parents they own a bakery in town mom is the creative Baker with a flare for making Delicious Cakes and Pastries dad is the business mind behind the operation always coming up with new … our bond overall I feel so grateful to have such a loving and supportive family we may have our disagreements and arguments at times but at the end of the day we always have each other's backs I wouldn't trade them for anything in the world my job hey there I'm Thomas a general surgeon at this big hospital my job is pretty intense but I love it I spend most of my time in the operating room conducting surgeries or Consulting with patients as a general surgeon my responsibilities are varied I perform a wide range of surgeries from routine procedures to complex operations I work closely with … I love the thrill of successfully completing a challenging surgery the Gratitude of my patience and the comaraderie of my team all of that makes it worthwhile but there are also things I dislike the stress can be overwhelming at times especially when dealing with life or death situations and the emotional toll of losing a patient despite my best efforts is something that never gets easier overall though I wouldn't trade this job for anything it's challenging fulfilling and pushes me to be the best version of myself every day anyway that's a glimpse into my life as a general surgeon my … which is the most famous landmark in Hawaii when it comes to food Honolulu has a rich culinary scene you have to try local favorites like poke bowls Lo Moco and of course shave I the flavors are out of this world holidays and festivals in Honolulu are nothing short of spectacular whether it's the vibrant colors of the annual Aloha festivals or the excitement of New Year's Eve fireworks there's always something fun going on one of my favorite things about Honolulu is the vibrant culture from theor colorful Street Markets to the diverse art scene there's always something new and exciting … the feeling of reaching the top of a rock wall it's simply exhilarating I also enjoy cycling I often go cycling with my friends on the weekends and it's always a blast we explore new routes and discover hidden gems along the way now when I want to unwind and relax I head to the beach I love spending hours just lying on the sand soaking up the Sun and occasionally taking a dip in the ocean to cool off another hobby I have is photography whether it's a stunning sunset at the beach or the vibrant colors of a cityscape I love experimenting with different angles and compositions to create that … for music I play the guitar it's my way of expressing myself and unwinding after a long day sometimes I even jam with my friends creating our own little musical Symphony so as you can see my hobbies are a big part of who I am they bring me joy fulfillment and a sense of adventure whether I'm out in nature in the kitchen or playing music I'm always in my element thanks for listening to me ramble about the things I love I hope you find your own passions that light up your life just like mine do for me thanks for watching and be sure to subscribe to our YouTube channel for more videos like this",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0212
+  "src": "auto"
  },
  "teoPto-xmQs": {
   "channel": "Cambridge English Walking Podcast",
   "lang": "en",
-  "checked": "2026-11-12T01:02:08+00:00",
+  "checked": "2026-11-24T16:39:03+00:00",
   "title": "Cold Shower Challenge & More: 10 Morning Habits | English Listening Practice",
   "duration": 1859,
   "published": "20260610",
@@ -98029,6 +99631,7 @@
   "pace": 151.4,
   "rare": 0.0181,
   "var": 0.8037,
+  "cl": 0.027,
   "speech_s": 1837.2,
   "tokens": 4636,
   "kw": [
@@ -98169,11 +99772,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "feel",
+    "doctor. He said that how you spend your morning decides how you will feel for the rest of",
+    98,
+    104,
+    5.67,
+    19
+   ],
+   [
+    "walk",
+    "of Cambridge are quiet, the air is fresh, and we are doing a beautiful morning walk.",
+    33,
+    40,
+    5.08,
+    17
+   ],
+   [
+    "shower",
+    "or simply taking a cold shower.",
+    373,
+    377,
+    4.5,
+    10
+   ],
+   [
+    "protein",
+    "Speaking of sugar, this leads us perfectly to habit number six, a high protein breakfast.",
+    574,
+    583,
+    4.53,
+    9
+   ],
+   [
+    "pills",
+    "the magic pills.\" What do we mean by magic pills? Well, if you go on the internet or open Instagram, you",
+    1544,
+    1554,
+    4.05,
+    4
+   ],
+   [
+    "stressed",
+    "Your heart rate shoots up and you instantly feel stressed and angry.",
+    1266,
+    1272,
+    4.18,
+    3
+   ],
+   [
+    "fats",
+    "We eat protein and healthy fats.",
+    641,
+    645,
+    3.58,
+    2
+   ],
+   [
+    "caramel",
+    "Yes, please, do not go to a famous coffee shop and order a giant caramel latte with vanilla",
+    556,
+    564,
+    3.48,
+    2
+   ],
+   [
+    "granola",
+    "They eat bowls of sweet cereal, toast with jam, or sugary granola.",
+    595,
+    601,
+    2.98,
+    1
+   ],
+   [
+    "breakfasts",
+    "In the UK and America, many people eat terrible breakfasts.",
+    590,
+    596,
+    2.96,
+    1
+   ],
+   [
+    "sprinkles",
+    "syrup, whipped cream, and chocolate sprinkles.",
+    563,
+    568,
+    2.95,
+    1
+   ],
+   [
+    "adapts",
+    "Yes, you start breathing really fast, but after a week or two, your body adapts.",
+    425,
+    432,
+    2.88,
+    1
+   ],
+   [
+    "roleplay",
+    "Listen carefully to the phrases we use to order healthy options. Let's start the roleplay.",
+    874,
+    881,
+    2.82,
+    1
+   ]
+  ],
   "tx": "Hello everyone! Good morning and welcome back to another episode of the Cambridge English Walking Podcast. I am Slava. And good morning from me too! I am Victoria. We are absolutely thrilled that you are walking with us today. Grab your headphones, put your phone in your pocket, and let's start our day together. Usually we record our podcasts in the middle of the day or in the evening, but today is different. If you look at the video, you can see that the sun is just coming up. The streets of Cambridge are quiet, the air is fresh, and we are doing a beautiful morning walk. Yes, it is so … the next morning, Slava? Oh, I felt absolutely terrible. I felt like a zombie. I couldn't focus, my head hurt, and I was in a bad mood. The doctor in the article explained why. When you change your sleep time by just one or two hours, you give your body jet lag. Jet lag is that horrible, tired feeling you get when you fly on a plane across different time zones. Imagine giving yourself jet lag every weekend just because you watched three extra episodes of a TV show. It is so bad for your health. Listeners, we want to know about you. Think about your life right now. Do you wake up at the … wash ourselves, but at the very end of the shower For the last 30 to 60 seconds, we turn the water temperature all the way down to freezing cold. And we stand under it. When you first start doing this, it is a massive shock. You can only survive for about 5 or 10 seconds. You want to scream! Yes, you start breathing really fast, but after a week or two, your body adapts. You get used to it. Now I can stand under the cold water for a full minute. And the feeling you get when you step out of the shower is incredible. It is impossible to describe unless you try it. Your skin is tingling, your … Your blood sugar spikes instantly. You feel great for about 30 minutes, but then your body produces a hormone called insulin to deal with the sugar, and suddenly your blood sugar drops like a roller coaster. The crash, the terrible mid-morning crash. When your blood sugar crashes, your brain panics. It tells you, \"I need more energy. Eat a cookie, eat a chocolate bar. You become hungry, tired, and unfocused. So how do we fix this? We eat protein and healthy fats. Protein keeps you full. It gives you slow, steady energy for hours. Let's give our listeners some real life examples. … from gaining weight, it reduces inflammation, and it protects you from serious diseases as you get older. So you don't need an expensive gym membership to be healthy. You don't need to run a marathon every morning. You just need to walk outside for 30 minutes after you eat. It is the best medicine in the world and it is completely free. Victoria, look over there. We are walking past my favorite little cafe in Cambridge and honestly, talking about all this coffee and breakfast is making me a little bit hungry again. Me too! Since we're doing a podcast about morning routines, why don't we do a … me. \"I would like a black coffee, please.\" Pause for three seconds. Great. Now say, \"Can I have the yogurt bowl, please?\" Pause for three seconds. Perfect! Another important question the barista asked was, \"Is that for here or to go?\" For here means you want to sit at a table inside the cafe. To go means you want your food in a paper cup or a bag so you can walk outside. Since we are doing a walking podcast, we always choose to go. Now, before we continue with our beautiful walk along the River Cam, Let's take a moment to answer some questions from you, our amazing subscribers. Yes, we … force yourself to eat a huge meal. Maybe just have a small handful of almonds, or a boiled egg. whatever you do, do not replace real food with sugary snacks later in the day. Our final question today is from Anna in Poland. Anna asks, \"I am always in a terrible mood when I wake up. I feel angry at the world. How can I wake up happier?\" Anna, I completely understand you. I used to be the exact same way. I was a monster before 9 a.m. You really were, but you changed. How did you fix it? The secret is the alarm clock. Anna, what sound does your alarm make? If you use a loud, aggressive, … dog on my walk and thought of you. a great day. That's it. It takes almost no time. But that tiny habit repeated every day keeps your friendships alive. It stops you from feeling isolated. It makes you smile, and it makes the other person smile. It is a win-win situation. That is lovely. Now let's talk about habit number nine. This is for the time when you finally get back home and sit at your desk to work. It is called \"protecting your cognitive focus.\" Cognitive means related to your brain, your thinking, and your learning. When you follow all the healthy habits we just talked about, you … every day. They spend time with their friends and family. They have a purpose in life. So our advice is save your money. Do not buy expensive magic pills. your money on high quality real food. Buy good extra virgin olive oil. Buy fresh vegetables. Buy good quality meat or fish. Real food is the best medicine. Wow, we have covered so much information today. Let's do a quick summary for our listeners so they can remember the vocabulary and the concepts. Victoria, run through the perfect morning routine. Okay, here is the golden routine in a nutshell. Number one, wake up at the same time every … single comment and I will reply to you. It is a fantastic way to practice. If you found this B1 listening practice helpful and you enjoyed learning about health and routines, please subscribe to the Cambridge English Walking Podcast. hitting the like button and subscribing really helps our channel grow, and it allows us to make more free English lessons for you. Thank you so much for spending your morning with us. Keep practicing your English, try to build some healthy habits, and take care of yourselves. Have a beautiful, energetic day, everyone! See you in the next video! Goodbye! Bye!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0273
+  "src": "cc"
  },
  "z0BGdkr69yI": {
   "channel": "Cambridge English Walking Podcast",
@@ -99368,7 +101076,7 @@
  "QwaLcZDsjcg": {
   "channel": "Learn English with Papa Teach Me",
   "lang": "en",
-  "checked": "2026-11-12T01:06:06+00:00",
+  "checked": "2026-11-24T16:44:55+00:00",
   "title": "Can These Teachers Guess British Slang? 🇬🇧 Modern Phrases You Only Learn in the UK!",
   "duration": 560,
   "published": "20230415",
@@ -99377,6 +101085,7 @@
   "pace": 162.1,
   "rare": 0.0714,
   "var": 0.712,
+  "cl": 0.0329,
   "speech_s": 528.5,
   "tokens": 1428,
   "kw": [
@@ -99541,16 +101250,97 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "what's",
+    "- What's up, shaggers? Have you ever heard that before?",
+    28,
+    31,
+    5.2,
+    8
+   ],
+   [
+    "gonna",
+    "- Today I'm gonna see if Japanese and Aussies",
+    9,
+    12,
+    5.29,
+    7
+   ],
+   [
+    "nah",
+    "- Nah, nah, nah, no. But you can say \"grab some grub\".",
+    114,
+    118,
+    4.4,
+    4
+   ],
+   [
+    "regional",
+    "understand British regional slang. With me today are the very sexy,",
+    11,
+    16,
+    4.72,
+    3
+   ],
+   [
+    "cheat",
+    "- Oh, you're talking about a cheat day.",
+    441,
+    443,
+    4.06,
+    3
+   ],
+   [
+    "it'd",
+    "- Oh no, it'd be anything. It's just-",
+    3,
+    5,
+    4.19,
+    2
+   ],
+   [
+    "shag",
+    "- To shag means to have sex.",
+    38,
+    41,
+    3.02,
+    4
+   ],
+   [
+    "bloke",
+    "- We say \"top bloke\". - Top block?",
+    174,
+    177,
+    3.55,
+    2
+   ],
+   [
+    "mutters",
+    "(mutters in Japanese)(laughs) - Today I'm gonna see if Japanese and Aussies",
+    7,
+    12,
+    2.53,
+    2
+   ],
+   [
+    "bungee",
+    "For example, if you do like bungee jump or something,",
+    253,
+    257,
+    2.84,
+    1
+   ]
+  ],
   "tx": "- When you have a cheeky beer, it would most likely be a draft beer, right? - Oh no, it'd be anything. It's just- - Yeah, yeah It could be anything. Could be out of the can. Could be out of a shoe! (mutters in Japanese)(laughs) - Today I'm gonna see if Japanese and Aussies understand British regional slang. With me today are the very sexy, - Rupa. Rupasensei. - Suna - What slang do you know? Like, British English? - I'm chuffed. Chuffed means like I'm happy. - I'm dead chuffed. - How do you say this? - What's up, shaggers? Have you ever heard that before? - No, I've never actually heard. - So … they often (clicks tongue) get it done. - Do you have like a Japanese equivalent of saying \"sup, shaggers?\" - No, we wouldn't say that. It's, I don't know. It's too sexual (laughs) for a Japanese. - What do you say when you meet a really really good friend? - Yes. - We just called their names but we don't usually put, like, something after the, like, greetings. (speaking Japanese) - Alright, the next one is scran. Rupa, do you even know what scran is? - No idea. - Any idea what... Have a guess. What do you think scran is? (speaking Japanese) - When you play rugby, like scrum is like, scram. … an Aussie slang for food? - Grub. Grub. - What? Grub. Get some Grub. - Grab? - Grub. \"G-R-U-B\". \"U-B\" - Grab? Grab? - Grub. - Yeah, grub. - Not grab. - Nah, nah, nah, no. But you can say \"grab some grub\". - What's like Japanese slang for food? - Meshi. - Meshi? (speaking Japanese) - Let's grab, let's grab food. (speaking Japanese) - I like that. What's your favorite meshi? - Uh (speaking Japanese) Japanese barbecue. - I love that! - How do you say business card? - Oh yeah! - Business card? What do you mean, like \"meishi\"? - Meishi! (speaking Japanese) - And food is? - Meshi. So you don't … - \"L-A-D\"? Lad? Ladder or something? (laughs) - It's a shit guess (laughing) but lad, you say the same in Australia. - We say \"top bloke\". - Top block? - Top bloke. - Top block? - Yeah. It means madlad. We also say mad lad or top lad. - So, what's the meaning? - So, a \"lad\" is just another word for a guy. So again, it's kind of a masculine thing to say, but if, let's say you're going down an escalator but instead of going down the stairs, you jump on the the railing and you slide down the escalator. You're doing something dangerous, but really fun. Absolute madlad. - Madlad. - Ah, Madlad. … - Can you use iketeru for both guys and girls? - Iketeru? Yeah, it sounds a little bit masculine but like we both use actually. - And would you use it like, if someone did something crazy? - Uh. I think that's a kind of like, cultural difference. We wouldn't say like (speaking Japanese) (laughing) - Very Japanese. Humble. Polite. - Yeah, yeah. For example, if you do like bungee jump or something, like we say, (speaking Japanese) but you guys react like, whoa! - Bro! Madlad! Yeah, yeah, yeah, but Japanese like, oh... (soft clapping) - You can use Mad lad as a noun. Like, absolute madlad. … Japanese) - I, I think when it comes to Japanese they use like, one word for a lot of stuff, so maybe- (speaking Japanese) - So there's not much- - Yabai can be like anything. - Yeah, yeah, yeah. - I like that. - Happy. Crazy. Stupid. - Yeah. If I say like, ah man, (speaking Japanese) what would you say? - Madlad! - Yeah. Yaba! (laughing) Yeah. There you go! - Nice. Well done! Thanks Mike. - Yaba! Yaba! - Next one. A cheeky blank. I actually kind of hate this one because Everyone uses it, but like, - Cheeky blank. - Really? - Yeah. So if, if we were like, we're working, I'm like \"do you … - You say \"no, no, no. \"After work I have to go home to feed my cat.\" I'm like, \"nah, let's go for a cheeky pint.\" A cheeky pint. - Ah, go easy? Something like? - You should go home. But then today you had a really rough day. - Ah, cheeky pint. - Yeah. So how would you say that in Japanese? - Uh... - Something you shouldn't do but you're gonna do it. You're gonna be cheeky, you're gonna be naughty. - Ah, cheeky! The cheating, (speaking Japanese) - Kind of. - Yeah. I think there is a word. (speaking Japanese) - Did \"cheeky something\" make its way to Australia? - Oh, yeah, yeah. Hell … ago. - Too long. - No cheeky Nandos here. - I wish! (speaking Japanese) I wish there was some- - Cheeky Yakitori. - Yeah! Cheeky Yakitori. - Cheeky Yakitori! Do you wanna go for a cheeky Yakitori later? - Yeah, for sure. But let me think, I'm thinking hard. - When you have a cheeky beer, it would most likely be a draft beer, right? - Oh no, it'd be anything. It's just- - Yeah, yeah It could be anything. Could be out of the can. Could be out of a shoe! (mutters in Japanese)(laughs) (Mike speaking Japanese) - For example, like, when you are like, you know go on a diet, then you have a like, … two, you can have a cheeky shag. - Cheeky shag. Wow. - Wow. - What does it mean \"cheeky shag\"? (speaking Japanese) - Or to do it where you're not supposed to. - Ah, we would say, (speaking Japanese) (speaking Japanese) - Ay - Noice, noice. - Like, I got a lady last night. (speaking Japanese) - You did? Madlad. (laughing) - Madlad, madlad. (speaking Japanese) - Okay, this one is a very, very regional, This is like from the northern parts of England. You can say \"owt\" or \"nowt\". Let me give you a clue what it means. I haven't done owt all day. - Gone out? Gone outside? - Nothing? - … you do have like an Australian nothing, right? - Bugger all. I did bugger all today. - Bugger all. - Yeah, it means I did nothing, did bugger all today. - That sounds Australian. - Yeah, - It really does. - That's really Australian, bugger all. (speaking Japanese) - So, thanks for watching. I hope you learned some new words. Do you think that you are gonna incorporate some regional British slang into your- - I feel like I'm totally British now. - Nice. Noice! - Noice. - Check out their YouTube channels in the description below and I'll see you next time. Bye. - Peace. - Peace. (mellow music)",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0323
+  "src": "cc"
  },
  "IOkEde-XUL4": {
   "channel": "Learn English with Papa Teach Me",
   "lang": "en",
-  "checked": "2026-11-12T01:06:27+00:00",
+  "checked": "2026-11-24T16:45:12+00:00",
   "title": "How to Use \"Bloody\" Like a British Person! | Sound Like James Bond with British Slang",
   "duration": 676,
   "published": "20230114",
@@ -99559,6 +101349,7 @@
   "pace": 151.3,
   "rare": 0.0246,
   "var": 0.7825,
+  "cl": 0.0442,
   "speech_s": 628.0,
   "tokens": 1584,
   "kw": [
@@ -99699,16 +101490,121 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "sounds",
+    "or in a way that just sounds weird.",
+    59,
+    63,
+    4.97,
+    11
+   ],
+   [
+    "car",
+    "For example, your friend buys a car",
+    211,
+    215,
+    5.45,
+    8
+   ],
+   [
+    "expensive",
+    "for her, but he thinks that is too expensive.",
+    117,
+    123,
+    4.69,
+    4
+   ],
+   [
+    "expression",
+    "Everyone's heard the expression, bloody hell.",
+    45,
+    49,
+    4.55,
+    4
+   ],
+   [
+    "literal",
+    "You'll sound more like the literal sense of bloody",
+    285,
+    289,
+    3.77,
+    3
+   ],
+   [
+    "raining",
+    "(raining pattering) It's raining again, that's a normal sentence",
+    566,
+    571,
+    3.72,
+    3
+   ],
+   [
+    "adjectives",
+    "Let's start with adjectives. For example, she wants her boyfriend to buy this dress",
+    109,
+    118,
+    3.18,
+    3
+   ],
+   [
+    "emphasizing",
+    "You're just emphasizing that sentence. That's it.",
+    586,
+    592,
+    3.36,
+    2
+   ],
+   [
+    "idiom",
+    "in any idiom or expression in English,",
+    299,
+    303,
+    2.97,
+    1
+   ],
+   [
+    "gasps",
+    "(gasps) That's so bloody expensive. 700 pounds? What?",
+    142,
+    148,
+    2.92,
+    1
+   ],
+   [
+    "outro",
+    "(dramatic outro music)",
+    665,
+    670,
+    2.8,
+    1
+   ],
+   [
+    "bluffing",
+    "- So that will be what you call bluffing.",
+    343,
+    346,
+    2.76,
+    1
+   ],
+   [
+    "r's",
+    "So we have what I think are perfectly formed R's.",
+    371,
+    377,
+    2.72,
+    1
+   ]
+  ],
   "tx": "♪ Dun nuh, dun, duh nuh, dun ♪ ♪ Duh nuh, duh nuh nuh ♪ - I'll have a martini. Wait, no. Can you bring me a milkshake, actually? With fries, also a banana. Peel it, so I can dip the banana in the milkshake. Eat it. It's like a healthy snack. It's really good. - Yes sir. - My friend. Bring me one as well. Keep the fruit. - That's it. Hmm. Anyone want to play poker now? - Someone's in a hurry. - I know, right? Oh, what? It's just your world and we are all lucky enough to live in it. It's bloody selfish behavior, mate. Sorry, can you guys just excuse me? Two minutes, I need to poo. I'll be back. … how to use it, how not to use it, and some interesting ways that we use this word every day. (upbeat guitar music) (computer beeping) First of all, this is a very British word. We use it all the time but when Americans use it, oh my God, it's adorable. It's so cute. Basically, basically we use this word to emphasize things to make them sound stronger to make people know that we feel strongly about something. Maybe we are surprised, shocked, or maybe we really, really love something. But yes, great question. How does it work? Let's start with adjectives. For example, she wants her … he's surprised. (gasps) That's so bloody expensive. 700 pounds? What? Or maybe to show that we are annoyed. Oh my God, you're so bloody annoying. Just buy it for me. It's pretty much just a more slang way of saying very with adjectives. Yeah, that drink is bloody delicious. Now we need to talk about word stress. It doesn't matter which word you stress but remember this is emphasis. It sounds good to stress one of the words at least. It is too bloody expensive. You can stress that word. That sounds good. That sounds like you're shocked. But if you stress the adjective, you are so bloody … example, your friend buys a car but you know they don't have any money to buy the car. You might be surprised, right? Wait, you bought a car, emphasize your surprise with bloody. You bought a bloody car. Notice the word stress. I stressed the noun. You bought a bloody car. You usually stress the noun when you want to show surprise. Wait, you bought a bloody car. But what if you just stress the word bloody? Ugh, I hate him and his bloody car. Yeah, if you stress the word bloody it sounds like you're more annoyed. But that isn't a solid rule. Of course you could say I hate him and his … you won't sound happy. You'll sound more like the literal sense of bloody which we'll come to later. But like I said this just adds emphasis to what you want to say. So if you put bloody before a noun in any idiom or expression in English, that just makes this sound much stronger. Yeah, yeah, yeah. I love you, Becky. You love me? Then show it. Actions speak louder than bloody words. If you don't have the word bloody there, this doesn't sound as strong or emotional. Let's look at examples using all of this. (guitar twanging) I've never done a lesson on a train before but first time for … about just not worrying about all the tiny grammatical mistakes all the bloody time when you speak. I know it can be annoying. - All right? - So what's your opinion on the British accent compared to the American accent? - Beautiful. - Yeah. So pronunciation then. So British English is usually non-rhotic. So we have what I think are perfectly formed R's. So in American English, they're like water, better. Whereas British English, usually it's more like water, better, if we're being totally honest, British English is just way more bloody charming. You know what I mean? - Charming as you are Mr. … the literal meaning of bloody which means something has blood on it or is covered in blood like. (Aly sneenzing) You want this? A bloody tissue? Ew, no I don't want your bloody tissue. So yet the literal meaning of bloody means something has blood on it or it's covered in blood. Which brings us to the main part of this lesson. The expression bloody hell. Now yet, originally this just meant hell covered in blood. Yeah, sounds bad. However, now we just use it as a cute British expression to say I'm surprised at something like, oh, bloody hell, that cat is cute. But this is where it gets fun. … putting fancy clothes on the cat. Again, just put the bloody hell before an auxiliary verb do/be/have or a modal verb. Would, will, could, should. You know the modal verbs. Those verbs. I'm sure I've seen an example of this in a movie. Okay, I've got a joke for you. You're gonna like this one. What kind of shoes do spies wear? Sneakers. (women laughing) Yeah, that's a good one. Wait, you're the woman who sells the protein drinks - Perhaps? - Yeah, I've heard that they are bloody delicious. Do you deliver? Could you deliver them to my place? - Your place? Is it close? - Oh yeah, yeah, I'm … we've done adjectives, we've done nouns, we've done bloody hell, and the bloody hell put in questions. How about verbs? (raining pattering) It's raining again, that's a normal sentence but add bloody. Bloody raining again. That verb doesn't have to be in continuous or any specific tense. Bloody hate the rain. So yeah, don't worry about the tense of the verb. Simple, continuous, it doesn't matter. You're just emphasizing that sentence. That's it. This doesn't always mean that you are angry or annoyed, remember, this just means you are emphasizing the verb making it sound stronger. So … I don't see it as a swear word. It feels kind of old fashioned to think of it as a swear word. It's very tame in my opinion. At work you could probably use this with younger people and no one would care. Maybe. Definitely check first. Don't get fired because of me. So practice this in the comments, use bloody in three different ways. I'll reply and give correction and give little hearts to my favorite comments. And if you're not subscribed already make sure you subscribe, like this video, share it with anyone who studies English, and I'll see you in the next class. Bye. (dramatic outro music)",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0435
+  "src": "cc"
  },
  "CW9SEkHZl_c": {
   "channel": "Rachel's English",
   "lang": "en",
-  "checked": "2026-11-12T01:08:05+00:00",
+  "checked": "2026-11-24T16:47:54+00:00",
   "title": "Teaching ESL Teachers┃Learn American English Pronunciation On the Go",
   "duration": 1874,
   "published": "20250104",
@@ -99717,6 +101613,7 @@
   "pace": 176.1,
   "rare": 0.0268,
   "var": 0.7828,
+  "cl": 0.063,
   "speech_s": 1844.9,
   "tokens": 5416,
   "kw": [
@@ -99881,11 +101778,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "student",
+    "want students to graduate and be prepared to teach every single student in their classroom.",
+    207,
+    213,
+    5.02,
+    17
+   ],
+   [
+    "content",
+    "content area if you're a middle or secondary teacher, so biology or chemistry or math or",
+    234,
+    240,
+    5.0,
+    17
+   ],
+   [
+    "native",
+    "ways that the native speakers actually sound, but your content area has so often been real life,",
+    475,
+    482,
+    4.69,
+    12
+   ],
+   [
+    "license",
+    "who are already classroom teachers and they're pursuing an ESL license. So they are learning",
+    131,
+    138,
+    4.52,
+    9
+   ],
+   [
+    "licensed",
+    "being licensed as an ESL teacher, can you say what does the state of Indiana sort of require,",
+    214,
+    223,
+    4.17,
+    3
+   ],
+   [
+    "meaningful",
+    "so understanding how to teach language in a way that is meaningful for k-12 students and so for",
+    351,
+    359,
+    4.14,
+    3
+   ],
+   [
+    "invitations",
+    "students in our program is, we teach them using critical literacy invitations, and those were",
+    600,
+    608,
+    3.41,
+    4
+   ],
+   [
+    "oftentimes",
+    "oftentimes we get folks like Rachel perhaps who love language, who are very obsessed with like",
+    335,
+    342,
+    3.09,
+    4
+   ],
+   [
+    "setter",
+    "Rachel: Wow, trend setter. Brooke: Definitely. So and the other domains within",
+    500,
+    506,
+    2.99,
+    1
+   ],
+   [
+    "disservice",
+    "members, you're really doing a disservice to your students. So some of the greatest teachers",
+    1343,
+    1348,
+    2.92,
+    1
+   ]
+  ],
   "tx": "Rachel: On today's podcast we are welcoming a professor from Butler University who teaches English teachers. We do get pretty technical here but there's also some interesting conversation about what makes a good teacher and I know that a lot of people out there listening to Rachel's English are ESL teachers. So there's going to be some interesting stuff here. We also discuss strategies for teaching someone how to help new students from foreign countries understand American culture. For a free transcript of the episode just visit RachelsEnglish.com/podcast and search for this episode. Here we … state of Indiana sort of require, what does that process look like for people who are pursuing that? Brooke: So in Indiana in each state is different. In Indiana you have to have an initial teaching license in a content area if you're a middle or secondary teacher, so biology or chemistry or math or English and then only once you have that initial license can you add an ESL license. So any ESL license is considered an add-on license that you you have to already be licensed to get a second license and it includes required coursework as well as taking an exam connected to the TESOL standards … way. Rachel: Not real life. Brooke: Right. Not real life, not what they actually need. So there are certain cases where it might be appropriate to do that with a student. For example, maybe a student who has just arrived in eighth grade and doesn't speak one word of English, just putting them in a content class, even with an excellent content teacher who knows how to teach ESL, is still going to be pretty difficult for that student. So there are some cases where it's appropriate, but in general, TESOL and, really, ESL professionals advocate for the ESL teacher to push into the … who works out of Chicago. Basically, using questions about issues that are affecting students’ lives, issues that relate to race inequity and really push students and we use those with our undergraduates to show them how to use them with their future students. And so I had one student, he was already a licensed teacher but he came back for his ESL license and he was teaching in a school environment that was very quickly gentrifying, and he had eighth graders, so they were kind of on the tail end of the group of students who had lived there their entire lives and whose grandparents lives … invitations is Katie Van Sluys and she is a researcher out of Chicago. Rachel: Cool. Brooke: The fourth domain in the TESOL standards is assessment, and that is really looking at all of the issues around assessment for English-language learners, for students who are learning English as a Second Language in our schools and some of that has to do with assessing their language level. So when an English as a Second Language teacher receives a new student, they always have to assess their English proficiency level. Rachel: Is there a standard test that they use for that? Brooke: It's … you were in the classroom setting. I'd love to hear a little bit about your work experience in the classroom and maybe even before that, maybe you can talk about how you got interested in this field in the first place? Brooke: Sure. Well I was a psychology and Spanish major in college, and once I graduated I wasn't really sure what I wanted to do, but I knew that I really wanted to learn Spanish, that was my number one, kind of, goal at that point in my life. And so I moved to the southern border of Texas and I worked as a volunteer something similar to the AmeriCorps program where … of the population was learning English. It just wasn't right, there were so many places where, I guess I can give you an example. So they were in a bilingual program they were being taught in Spanish but very often the assessments that I had to give them were either in English or they were very poorly translated Spanish. So we were giving them the benefit of teaching them in their native language, but yet they couldn't show it on the standardized test, because the tests were poorly made, they were biased against them linguistically and culturally, socioeconomically, and so that's really what … at all. Do you think at any point it would be fair, I mean, if someone comes over at 16 without ever having had a native teacher and without ever having really spoken English, can that person pick up a native or a close to native accent without ever having that being specifically addressed? I mean, obviously as a young kid, their, their brains are such that they don't need to be taught pronunciation, they just need to hear native pronunciation. But the older you get, the harder that is. Do you think that truly nowhere between K through age 18 is there a need to specifically address … who they are and what they want and what's next for them in life that, for me, it seems like that's a better fit for adults to kind of seek that out. Rachel: It does seem like, for a lot of my adult students, it is the final piece of what they need to make happen for themselves. Brooke: I think it's an interesting kind of line of inquiry is to think about how pronunciation and identity fit together for students for immigrant students, and oftentimes especially middle and high school students develop an identity of resistance to what they perceive as, like, school culture, which, kind of, … you for having me. Rachel: Yeah. Thank you Dr. Kandel-Cisco for coming on this podcast and sharing all your insight, we really appreciate it. And again if you need some help with the words, you couldn't understand everything, no problem at all visit Rachelsenglish.com/podcast and you can find a free copy of the transcript for this episode. If you're not subscribed to this podcast, please be sure to do that at iTunes or Stitcher and if you're inclined please feel free to leave a review. I do read them all and it's great for me to get feedback on what you like or don't like about this podcast.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0587
+  "src": "cc"
  },
  "Pzq6O31u8fY": {
   "channel": "Rachel's English",
@@ -103844,7 +105822,7 @@
  "HG117s9Gc1M": {
   "channel": "Miss Jean Teaches",
   "lang": "en",
-  "checked": "2026-11-12T02:25:40+00:00",
+  "checked": "2026-11-24T16:32:20+00:00",
   "title": "✊🏿✊🏾✊🏼✊🏻 Juneteenth: A Beginner’s Guide feat. Tee | B2-C2 English Lesson Podcast",
   "duration": 1144,
   "published": "20250617",
@@ -103853,6 +105831,7 @@
   "pace": 115.1,
   "rare": 0.0424,
   "var": 0.7829,
+  "cl": 0.0645,
   "speech_s": 1131.6,
   "tokens": 2171,
   "kw": [
@@ -104009,11 +105988,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "country",
+    "state or the area of the country that you live in, but in general,",
+    132,
+    137,
+    5.48,
+    7
+   ],
+   [
+    "during",
+    "There were abolitionists during that time, and for our listeners,",
+    268,
+    273,
+    5.72,
+    6
+   ],
+   [
+    "celebration",
+    "So what's important to know is that Juneteenth is a joyous celebration.",
+    110,
+    119,
+    4.29,
+    5
+   ],
+   [
+    "hello",
+    "Hello, hello, welcome or welcome back to English Extras.",
+    0,
+    6,
+    4.72,
+    4
+   ],
+   [
+    "reconstruction",
+    "So from emancipation, and then you have reconstruction.",
+    760,
+    768,
+    3.96,
+    2
+   ],
+   [
+    "workforce",
+    "at war with people who rely on a free repopulating workforce,",
+    293,
+    303,
+    3.94,
+    2
+   ],
+   [
+    "forefront",
+    "One, I think that at the forefront of that conversation is noting that",
+    257,
+    265,
+    3.52,
+    2
+   ],
+   [
+    "harmed",
+    "that were harmed and are harmed by certain systems, certain practices, things like that.",
+    728,
+    736,
+    3.48,
+    2
+   ],
+   [
+    "regionally",
+    "Regionally, there are different freedom days depending on the",
+    128,
+    133,
+    2.99,
+    1
+   ],
+   [
+    "crumb",
+    "One thing Black people are going to do is find a crumb of joy, hold on to it,",
+    972,
+    980,
+    2.97,
+    1
+   ],
+   [
+    "sundown",
+    "From Jim Crow South, if you're familiar with other things, that's where we get sundown towns,",
+    805,
+    813,
+    2.96,
+    1
+   ]
+  ],
   "tx": "Hello, hello, welcome or welcome back to English Extras. I'm Jean and this is the podcast that takes you beyond textbook English. Today I would like to present to you a very special guest who is here to talk to us about an important American holiday. I'd like to introduce Tee, who is currently a social worker in the health equity space and has been one of my dearest friends for over 10 years. Tee has two bachelor's degrees, one in sociology and the other in psychology. She is an avid reader, a plant mom, and a lover of gemstones and cozy sweaters. She's here today to talk to us about … days depending on the state or the area of the country that you live in, but in general, Juneteenth is often regarded as the day to celebrate emancipation. Something that has always stuck out to me about the date, specifically June 19th, 1865, is that it was more than 2 years after the Emancipation Proclamation. And for context for our listeners, the Emancipation Proclamation was an order given by then-President Abraham Lincoln that is historically seen as the end of slavery in the United States. This is oversimplifying it, the reality of it, but demonstrating the actual effects of the … news, that emancipation, I think that there were a couple of factors that contributed to that. One, I think that at the forefront of that conversation is noting that Abraham Lincoln was not an abolitionist. There were abolitionists during that time, and for our listeners, an abolitionist is someone who believed in the swift, right now abolishment of slavery—releasing everyone and having them then become full citizens. Abraham Lincoln was a strategist, and as you can imagine, if you're at war with people who rely on a free repopulating workforce, saying that that workforce is no longer … not become a federal holiday until 2021, and when it did, it gained a lot of national attention. What are your thoughts on the official recognition? Did you see it as progress, and what opportunities or challenges does this mainstream attention bring? I think mainstream attention is important, but the more mainstream something is, the easier it is for the concept to get away from its original purpose. 2020 to 2022 was a really critical time in our country in which I think a lot of people for the first time were learning on a deeper detail about the racial history in this country. And I … context to the holiday. So it's wonderful that you now get to understand a cultural celebration, maybe learn more about an experience that's very foreign to you, whether you're American or new to the country. If you understand that the holiday exists but have no context for why the holiday is important, I think that that balance really shifted. And especially now with what we're seeing—a lot of turning away from history, shying away from difficult truths about history—at the end of the day, Juneteenth is a celebration of freedom. It's a celebration that enslaved peoples learned that they … were still getting married. Just as a sidebar to the sidebar, there is an enslaved people's practice known as \"jumping the broom.\" Jumping the broom is a marriage ritual, essentially. Most enslaved people were not considered citizens, which means that they were denied the legal practice of marriage. People still fall in love, people still want to get married. So something that they would do would be at the end of their ceremonies, of their marriage ceremonies, a husband and wife would hold hands and they would jump over a broom, and then you would hang the broom in your home as a symbol of … is so jam-packed that we gloss over some of the complex experiences, the different American experiences of people that were harmed and are harmed by certain systems, certain practices, things like that. I feel like to truly understand the importance and significance of Juneteenth, you have to understand the horrors of chattel slavery, and I don't use that word lightly—chattel slavery—and the systemic impact that was created from that system. That system did not stop; it just transformed itself. So from emancipation, and then you have reconstruction. Reconstruction served as the foundation … of the conversations and legislation reform that was happening during that time, the culture didn't necessarily change and continue to change until the 80s and 90s. It's a really upsetting dissonance to have to connect all of those instances in history. So for example, I'm a 30-year-old millennial woman. My grandmother was about 13 or 14 during Jim Crow South, and she's still alive. So she still vividly remembers what—my tiny town that I'm originally from—she still remembers, \"Oh yeah, people who look like us were not allowed on this side of town unless you were cooking, cleaning, nannying, … where one thing Black people are going to do is have fun in times of triumph. I truly believe that my Black American heritage is having fun in the face of like mind-shattering tragedy. One thing Black people are going to do is find a crumb of joy, hold on to it, spread it around, ensure that everyone feels seen, heard, loved—those things. I think what I would most want people to take away from this holiday is that it's not just about us, although we are the focus, although the freeing of enslaved Black American people is at the epicenter. Community is what saves us. So joining in, feeling … And by recognizing Juneteenth, it's an opportunity to have an authentic and sincere conversation about the racial history in this country, and from there make a plan to ensure that the culture, the hatred, the vitriol surrounding race and ethnicity in this country can stop. Thank you so much for joining us today. Thank you for taking your time and sharing with us. Happy to be here. Is this how the kids do it? Is this how it's supposed to be done? Perfect. I was about to say I'm still a millennial, so I do it this way, but I feel like that's wrong as well. But thank you so much for having me.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0598
+  "src": "cc"
  },
  "75rTkoJ8a6g": {
   "channel": "Miss Jean Teaches",
@@ -104752,7 +106820,7 @@
  "7ZdYJO9FlI0": {
   "channel": "Easy Stories in English",
   "lang": "en",
-  "checked": "2026-11-12T02:32:15+00:00",
+  "checked": "2026-11-24T16:41:54+00:00",
   "title": "How autistic catatonia feels for me",
   "duration": 2334,
   "published": "20230322",
@@ -104761,6 +106829,7 @@
   "pace": 144.1,
   "rare": 0.0262,
   "var": 0.7586,
+  "cl": 0.0529,
   "speech_s": 2237.0,
   "tokens": 5372,
   "kw": [
@@ -104925,16 +106994,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "move",
+    "to move you struggle to speak so you find it hard to move you find it hard to speak maybe",
+    279,
+    286,
+    5.35,
+    19
+   ],
+   [
+    "level",
+    "of speech and loss of movement and there are like five levels for both so for loss of speech level",
+    549,
+    558,
+    5.41,
+    18
+   ],
+   [
+    "traveling",
+    "the moment I was traveling for three weeks until recently I spent two weeks in Slovakia visiting",
+    162,
+    171,
+    4.27,
+    7
+   ],
+   [
+    "slowly",
+    "that means I am not going to edit this video so I will probably talk very slowly I will probably",
+    140,
+    148,
+    4.63,
+    5
+   ],
+   [
+    "stressful",
+    "restful right and then on the other end you've got things that are stressful and the thing is",
+    1032,
+    1041,
+    3.88,
+    5
+   ],
+   [
+    "muscles",
+    "and what this feels like is like my brain is sending the message to my muscles to move but",
+    801,
+    810,
+    4.14,
+    4
+   ],
+   [
+    "ticks",
+    "ticks and so I sometimes make ticks with my hands or I might make facial tics like",
+    767,
+    774,
+    3.38,
+    2
+   ],
+   [
+    "strenuous",
+    "do things like jump or do strenuous exercise so strenuous exercises like exercise that requires",
+    695,
+    706,
+    3.12,
+    2
+   ],
+   [
+    "twitching",
+    "contact maybe I'm not moving like I'm stuck in one position but I'm like twitching a part of my body",
+    1478,
+    1486,
+    2.99,
+    1
+   ],
+   [
+    "socializing",
+    "at an eight might be going to a social event I love going to social events I love socializing",
+    1157,
+    1164,
+    2.97,
+    1
+   ]
+  ],
   "tx": "hello my name is Ariel Goodbody and today I'm going to do something a bit different I'm going to talk about my experience with autistic catatonia. So you might know that last year in 2022 I took a six month break from the podcast and this was because of this health problem autistic Catatonia. I'm going to explain what that means how I experience it and basically give some updates compared to last year. So autism hopefully you've heard of it because it's a lot to explain as well as Catatonia but autism is basically uh a different way of thinking I guess um it's traditionally treated as a … you believe things that aren't true um schizophrenia is very complicated there's there's lots of different types but basically um in the past Catatonia was only associated with schizophrenia and Catatonia is when you struggle to move you struggle to speak so you find it hard to move you find it hard to speak maybe you make weird movements like you twitch or you move your body in weird ways you get trapped in certain positions if someone moves your arm up here let's say your arm stays there these are different elements of Catatonia but they do not always happen um some catatonic people … of their body so mine is not too extreme but it does seem to be a form of catatonia so um I kind of now that I have more experience with it um both from last year and then these recent episodes I've been having I decided I would kind of break down what happens because it's not really clear Cuts clear-cut means you know there's a strict difference it's not like that it's not like there's on and off there are levels so for me the two things are loss of speech and loss of movement and there are like five levels for both so for loss of speech level zero is fluent performance so this is when … or stereotypes depending on the pronunciation or ticks and so I sometimes make ticks with my hands or I might make facial tics like obviously if I'm in public if I'm outside and I'm doing this people will probably think I'm crazy or I'm taking drugs so it can be dangerous I haven't had any problems with this so far but it could be a problem in the future level four is when I completely freeze and I cannot move and what this feels like is like my brain is sending the message to my muscles to move but my muscles aren't getting the message and I might be trapped in a weird position like I … the balance so I kind of in my head while I was planning this video I came up with a scale and on um one end of the scale you've got things that are fully restful right and then on the other end you've got things that are stressful and the thing is things that are stressful there are lots of things that are stressful but they do fulfill me they do like they are very important to me but the active rest things tend to be a bit more in the middle or more on this end right so for example zero is sleep that's that's just rest right and that can be literally just lying down with your eyes … the most tiring things I can do is record a podcast because I have to use a lot of energy and speak really clearly so I try saying welcome to easy stories in English the podcast that will take your English and so on but as you can see I'm not saying it today with my full energy I can't say it the way I normally do therefore I don't have the energy to record an episode of easy stories in English today so these past few weeks while I was traveling that was the first time I've experienced like serious Catatonia while traveling the other times it's happened I've been very close to home and that … I'm actually thinking about getting up and trying to move my muscles and when I get the order it's like it cuts my thoughts and I can't think it's like it it interrupts the processing of my own movement I don't want people to assume that I want to be left alone sometimes when I'm catatonic people think I just need some alone time and sometimes that is the case but often it's like my water bottle is over there and I need a drink of water or I need to eat food or I need to go to the toilet and I need help to be able to do that and if you leave me alone I'm gonna sit here in an uncomfortable … I can move sometimes I need help getting up like I need you to pull my arms up and then I can get up myself um obviously you do ask before you help someone with this kind of thing it's not nice to just be pulled I find often people are very very gentle with these things like that like and actually sometimes it's like no be firm another example when I'm not footy catatonic but I'm like walking really slowly if you link arms with me then I can walk at your speed if you're not walking too fast so that's another example and finally do help me move to a better sensory space so if we're if we … interesting so I'm thinking maybe uh this Catatonia is somehow linked to trauma and I want to try some of these alternative therapies like acupuncture I acupuncture is when they put needles in you it's like that a traditional Chinese Therapy EMDR I don't remember what EMDR is short for it's a therapy where um new think through traumatic experiences while moving your eyes in a certain way and the rapid eye movement puts you in Estates like when you're dreaming at night and allows you to creatively imagine a solution to the trauma like a a world where the traumatizing thing didn't happen and … that it's something bad and I should be ashamed and I don't feel shame right I know some people will find it strange or not to understand it but I don't feel shame I don't so in a way making this video is quite an important step I guess I'm just kind of showing the world also because there are very few resources online about autistic Catatonia there are very few people on YouTube who can talk about this experience and how it feels for them so I think it's important to put this out there anyway thank you for watching if you do have any questions leave a comment and yeah I'll see you soon bye",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0598
+  "src": "cc"
  },
  "i7VcVKYQRKI": {
   "channel": "Easy Stories in English",
   "lang": "en",
-  "checked": "2026-11-12T02:32:24+00:00",
+  "checked": "2026-11-24T16:42:06+00:00",
   "title": "How to Make Mince Pies, a Traditional British Christmas Dessert",
   "duration": 1360,
   "published": "20230109",
@@ -104943,6 +107093,7 @@
   "pace": 125.4,
   "rare": 0.0495,
   "var": 0.7734,
+  "cl": 0.0455,
   "speech_s": 1189.8,
   "tokens": 2486,
   "kw": [
@@ -105107,11 +107258,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "i've",
+    "I've ever made them myself using this",
+    138,
+    146,
+    5.72,
+    7
+   ],
+   [
+    "probably",
+    "probably enough so I'm going to show you",
+    169,
+    176,
+    5.37,
+    7
+   ],
+   [
+    "alcohol",
+    "vehicle for alcohol and if that isn't",
+    113,
+    119,
+    4.61,
+    4
+   ],
+   [
+    "adds",
+    "currants are a bit smaller it just adds",
+    348,
+    355,
+    4.38,
+    4
+   ],
+   [
+    "cinnamon",
+    "cinnamon and allspice um I can't really describe what these",
+    447,
+    457,
+    3.7,
+    6
+   ],
+   [
+    "tray",
+    "this is a baking tray this is what we'll",
+    993,
+    999,
+    3.75,
+    5
+   ],
+   [
+    "teaspoon",
+    "teaspoon each of nutmeg mace cinnamon and allspice",
+    442,
+    454,
+    3.3,
+    7
+   ],
+   [
+    "spices",
+    "spices are if you haven't seen them",
+    453,
+    459,
+    3.55,
+    5
+   ],
+   [
+    "rind",
+    "um grating these to get some of the Rind",
+    426,
+    433,
+    2.76,
+    3
+   ],
+   [
+    "airtight",
+    "airtight jar like this one for example",
+    697,
+    705,
+    2.95,
+    2
+   ]
+  ],
   "tx": "hello and welcome to a very special Christmas edition of the easy stories in English I'm Ariel Goodbody your host for this video and today I'm going to show you how to make a traditional British Christmas dessert the mince pie now there's a lot to be said about British cooking mostly that it's very bad but we do have some good dishes and in my opinion the mince pie is one of the best mince pies as you can see are pies pastries and they have a sweet fruit filling inside all right there you go you can see inside of this mince pie maybe you can't see look mince pie Mmm delicious it's got fruits … isn't the best thing about Christmas I don't know what is I'm saying this is someone who doesn't really drink anymore and I'm currently on medication which I shouldn't drink alcohol with but look Christmas alcohol classic combination so today I'm going to show you how to make mince pies with my family recipe this is the first time I've ever made them myself using this recipe so it might go horribly wrong but we'll have fun hopefully now this recipe originally makes a lot of mince pies it makes about 48 so I've halved it because that's too many right I live with one other person sure we can … embarrassing minutes tying a knot is what I'm doing here by the way I'm Tire knots and making a bow oh okay did it on the first try I've got my apron on I've tied the knot and we're ready to go so what do you need to make mince pies we'll do the mince meat first and then I'll give the ingredients for the pastry so like I said I've halved the original recipe I'll put both recipes the original recipe and the halved recipe in the description I didn't have the ingredients for the pastry because if we have extra pastry we can just make something else with it but if we have loads of mince meat … see how this goes you'll need 115 grams each of currants raisins and sultanas as you can see these are kind of all the same thing that all forms of dried grapes but they use maybe different grapes and they dry them in different ways sultanas are a bit more golden or yellow in color and currants are a bit smaller it just adds some nice variety you can probably just use raisins if you don't have currents and sultanas 115 grams of chopped apples foreign 58 grams of dried figs I couldn't find dry figs so I have a wet figs no normal figs um hopefully this is okay it's probably fine so yeah 58 … whole ones but I don't know we'll see a quarter of a teaspoon each of nutmeg mace cinnamon and allspice um I can't really describe what these spices are if you haven't seen them before because trying to describe what a spice smells like it smells like a spice but nutmeg we have um in its raw form you can see here it's like a little nut and you grate it um so fresh nutmeg wonderful I love nutmeg these are all very Christmassy spices you know they're really nice Christmas flavors you've got to love cinnamon so you can probably do with slightly different spices I think you should be able to … and metric measurements but the difference tends to be a generational one so for me I'm much more comfortable using metric measurements but my aunt who wrote the recipe in 1990 I think wrote it using Imperial measurements so I guess it depends on what scales you buy scales are foreign this is a set of scales you put things on the scales and it tells you how much it weighs but these ones do grams and ounces and pounds so you can switch between them because it's it's all very chaotic here I'm sorry we're not as bad as America but we're still pretty bad with our Imperial measurements okay … and then I might do things slightly differently so you put the dried fruits apples almonds and candied peel into a food processor I don't have a food processor so I'm going to have to chop them by hand which will take a long time then you mix well in a large bowl with the suet and the brandy or whiskey you add the grated rind of the lemon and orange so the Rind is the outside you grate the outside and you add the juice of both you add the spices nutmeg mace cinnamon and allspice and then you mix it all together and you're done now you can store mince meat for a really long time if you … next is the pastry so I'll just read out the instructions and then I'll show you me doing it rub butter into flour like this stir in the sugar and cinnamon and bind together with the eggs so bind means to stick together right because until you put the eggs in it's going to be very powdery use largest pastry cutter these are the pastry Cutters uh for the base of the pies and the second largest for the lids the tops add about one heaped teaspoon so this is a teaspoon it's the smallest kind of spoon it's the kind of spoon you use to stir your tea a heaped teaspoon means it's got lots on the … you um so I messed up so I realized after I put these in the oven that I was supposed to use one of these pans what do you call this um a cupcake tray or yeah I guess a cupcake tray or a muffin tray because then they would actually be the right shape oh well to be honest I usually make some kind of stupid mistake when I cook or bake because I'm not the most experienced Chef as mistakes go this isn't the worst I think the problem is because they weren't you know hugging the side of these I couldn't get a lot of the mince meat in them so even though I said I wouldn't I put the rest of the … them usually microwave then you take the lid off and you pour on some brandy or put on some Brandy butter Brandy butter is really easy to make so I really recommend doing it because it just adds a bit of to your food anyway Merry Christmas thank you for watching this video thank you for supporting the patreon if you do so if you do support the patreon then you will have got this video one month early that everyone else on YouTube people on YouTube watching Christmas has already happened sorry but you can still make these thank you for listening to the podcast and I'll see you all in 2023 bye",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0424
+  "src": "auto"
  },
  "aUrReqZ2D0A": {
   "channel": "Learn English with Papa Teach Me",
@@ -107586,7 +109818,7 @@
  "WL-7DUKzwd8": {
   "channel": "Easy Stories in English",
   "lang": "en",
-  "checked": "2026-11-12T03:19:05+00:00",
+  "checked": "2026-11-24T16:42:09+00:00",
   "title": "My 2022 in Books",
   "duration": 1628,
   "published": "20221216",
@@ -107595,6 +109827,7 @@
   "pace": 160.0,
   "rare": 0.0189,
   "var": 0.8024,
+  "cl": 0.0455,
   "speech_s": 1624.2,
   "tokens": 4330,
   "kw": [
@@ -107735,11 +109968,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "quite",
+    "long time but it did take me quite a",
+    139,
+    145,
+    5.29,
+    18
+   ],
+   [
+    "lot",
+    "a lot of descriptive language and in",
+    285,
+    292,
+    5.61,
+    16
+   ],
+   [
+    "recommend",
+    "still really recommend this book it's a",
+    161,
+    168,
+    4.61,
+    7
+   ],
+   [
+    "fantasy",
+    "fantasy author right now he finished The",
+    465,
+    471,
+    4.52,
+    5
+   ],
+   [
+    "obsessed",
+    "obsessed with this woman in her",
+    1055,
+    1060,
+    4.08,
+    3
+   ],
+   [
+    "skirt",
+    "in the purple skirt by natsuko imamura",
+    1009,
+    1016,
+    3.96,
+    3
+   ],
+   [
+    "ambiguous",
+    "it's very ambiguous whether the woman in",
+    1079,
+    1084,
+    3.57,
+    2
+   ],
+   [
+    "quotation",
+    "thing is she doesn't use quotation marks",
+    1557,
+    1563,
+    3.51,
+    2
+   ],
+   [
+    "panty",
+    "my panty I hear her just behind me that",
+    103,
+    109,
+    2.97,
+    1
+   ],
+   [
+    "cautionary",
+    "realize it's more of a cautionary tale",
+    230,
+    236,
+    2.95,
+    1
+   ],
+   [
+    "audiobooks",
+    "audiobooks the series is mistborn by",
+    436,
+    443,
+    2.87,
+    1
+   ],
+   [
+    "rooney's",
+    "love Sally Rooney's style language wise",
+    1440,
+    1447,
+    2.56,
+    1
+   ],
+   [
+    "o'dell",
+    "attention economy by Jenny O'Dell and as",
+    1160,
+    1167,
+    2.55,
+    1
+   ]
+  ],
   "tx": "foreign this year I've read more books than I've read in any previous year 102 so far and we aren't even finished obviously this is something that's very important to me but reading is a fantastic way to improve your English skills and also just a great way to learn new things relax and broaden your horizons since it's getting to that point in the year where you just want to cuddle up by a warm fire and read a book I decided to share some of my favorite books that I've read so far this year which I think might also be interesting for you for each of the books I'm going to talk about my … they live so the whole time the main character is trying to live up to Rebecca to be as good a wife as she was and it turns out there are some dark secrets related to Rebecca what I find really interesting about this book is that at first you think it's a romance you think it's about you know the deep love between the main character and her husband but as The Story Goes On you realize it's more of a cautionary tale it's really showing why their relationship doesn't work and how successful Rebecca is at pulling them apart although I would argue that the husband does as much of the work … stories so it may not be to everyone's taste in terms of language like I said it's pretty action-packed so there's not loads of descriptions but there is some difficult vocabulary for describing scientific terms or specific objects so I give it a three out of five for difficulty also you may be familiar with the Will Smith film I've never seen the film I think it's not a great adaptation from what I've heard whereas this book is considered possibly the best horror novel of all time so definitely skip the film go straight to the book the third book I want to talk about is actually a series … going to be 10 books in the series so if you're not like a big fantasy reader already definitely start with mistborn and if you like the books maybe consider reading The Stormlight Archive my personal rating for these books is three out of five and my difficulty rating is 2.5 out of 5. fourth book I want to talk about is oranges are not the only Fruit by Jeanette winterson this is a classic lesbian novel it's the story of a young girl growing up in a poor Northern mining town in the UK and she has this crazy super religious mother who wants her to become a missionary as she grows up she … they get these powers where they can transform into different animals hi my name is Jake I thought I knew who I was kid who liked to do normal things you know go to school play video games hang out with my friends but the other night my whole life changed when my friends and I were given the power to morph you know change shapes become animals so now Marco Cassie Tobias my cousin Rachel and I can become dogs cats tigers Hawks anything pretty cool right not when you're the only thing between a bunch of mind-controlling alien jerks in the end of the world you can't tell anybody because you … authors he writes really sweet stories with lots of lgbtq plus characters some of them are romances this one is not a romance directly but it does have a romance as a strong element of the story basically it's set in a world where some children grow up with magical powers but these children are sent to orphanages for the safety of society the main character is an inspector so he goes to these orphanages to inspect them and to make sure everything's okay and he's sent to a very special orphanage that has particularly unusual magical children for example one of them is the son of the devil … important or if the main character is just obsessed with her in an unhealthy way it's quite a short book it has just over 200 pages but the font is pretty big so it's probably really shorter than that and I guess I would say it's a thriller what I really love about it is it has a very ambiguous ending you're not really sure who's correct who's wrong who's Crazy who's normal and that was something I appreciated because it didn't feel like it was judging anyone for being really crazy you can really interpret this ending how you want so it's another short and sweet one and for my personal … it's about a Jewish woman who lives in Los Angeles who is suffering from an eating disorder she's really obsessed with staying thin so do be careful if this is a topic that's difficult for you but she talks a lot about the ways she you know plans her food and obsesses over food but then one day she goes to the frozen yogurt shop the froyo shop that she goes to every day and there's a new person serving there who is an Orthodox Jewish woman this woman serves her much more yogurt than usual and the main character at first is really stressed out because she doesn't want all this yogurt but … like I should relate to it because you know that's my age group and it's quite close culturally but I have to say I don't love Sally Rooney's style language wise she uses very simple straightforward language which actually makes it great for Learners I don't love that style personally but the most frustrating thing about her writing that many people complain about is all her characters are very emotionally repressed none of them are good at talking about their feelings and there are definitely many points in the story where you feel like oh my God if these people just said how they felt … difficulty rating is a 1.5 out of 5. so yeah those are all my recommendations I will write the books down in the description so you can easily access them if you have any book recommendations from this year I would absolutely love to hear them and I'm sure other Learners would also like to know what books are easy to read in English or worth reading so definitely do leave a comment below if you're not already a member of the easy stories in English patreon you can join for five dollars a month to get these videos one month early thank you so much for watching and I'll see you next month bye",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0483
+  "src": "auto"
  },
  "d_73_jfvbNE": {
   "channel": "Easy Stories in English",

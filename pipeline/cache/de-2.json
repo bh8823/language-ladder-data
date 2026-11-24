@@ -15293,7 +15293,7 @@
  "qH3-OATRwog": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-05T16:08:54+00:00",
+  "checked": "2026-11-24T16:44:37+00:00",
   "title": "#928 Spargel | Lese- und Hörtexte zum Deutschlernen [Deutsch lernen durch Hören] A2-B1 @DldH #dldh",
   "duration": 124,
   "published": "20260702",
@@ -15301,33 +15301,11 @@
   "spoken_v": 2,
   "pace": 117.7,
   "rare": 0.0968,
+  "var": 0.8359,
+  "cl": null,
   "speech_s": 110.6,
   "tokens": 217,
   "kw": [
-   [
-    "spargel",
-    "Spargel Spargel ist ein sehr gesundes Gemüse, weil er wenig Fett, viel Wasser und viele Vitamine",
-    10,
-    22,
-    3.56,
-    12
-   ],
-   [
-    "geschält",
-    "oft noch Sand. Weißer Spargel muss immer großzügig von oben nach unten geschält werden, und zwar,",
-    84,
-    93,
-    2.77,
-    2
-   ],
-   [
-    "geerntet",
-    "unter der Erde und werden direkt geerntet, wenn sie aus der Erde kommen. Der grüne",
-    32,
-    39,
-    3.49,
-    2
-   ],
    [
     "erde",
     "unter der Erde und werden direkt geerntet, wenn sie aus der Erde kommen. Der grüne",
@@ -15337,11 +15315,11 @@
     4
    ],
    [
-    "wächst",
-    "Spargel wächst über der Erde und wird durch die Sonne grün. Es gibt nur eine kurze Zeit,",
-    38,
-    46,
-    4.48,
+    "grün",
+    "enthält. Es gibt Spargel in Weiß und in Grün. Es sind ca. 20 cm lange Stangen. Die Weißen wachsen",
+    21,
+    33,
+    4.75,
     2
    ],
    [
@@ -15353,18 +15331,228 @@
     2
    ],
    [
-    "grün",
-    "enthält. Es gibt Spargel in Weiß und in Grün. Es sind ca. 20 cm lange Stangen. Die Weißen wachsen",
-    21,
-    33,
-    4.75,
+    "wächst",
+    "Spargel wächst über der Erde und wird durch die Sonne grün. Es gibt nur eine kurze Zeit,",
+    38,
+    46,
+    4.48,
+    2
+   ],
+   [
+    "spargel",
+    "Spargel Spargel ist ein sehr gesundes Gemüse, weil er wenig Fett, viel Wasser und viele Vitamine",
+    10,
+    22,
+    3.56,
+    12
+   ],
+   [
+    "geerntet",
+    "unter der Erde und werden direkt geerntet, wenn sie aus der Erde kommen. Der grüne",
+    32,
+    39,
+    3.49,
+    2
+   ],
+   [
+    "geschält",
+    "oft noch Sand. Weißer Spargel muss immer großzügig von oben nach unten geschält werden, und zwar,",
+    84,
+    93,
+    2.77,
     2
    ]
   ],
+  "kx": [
+   [
+    "sollte",
+    "sollte er vor dem Garen immer gut gewaschen werden. Vor allem in den Spargelköpfen steckt",
+    78,
+    85,
+    5.76,
+    1
+   ],
+   [
+    "hast",
+    "passen Kartoffeln sehr gut. Hast du schon einmal Spargel gegessen? Wenn ja, wie schmeckt der dir?",
+    112,
+    122,
+    5.75,
+    1
+   ],
+   [
+    "weiss",
+    "",
+    0,
+    0,
+    5.75,
+    1
+   ],
+   [
+    "ihren",
+    "ihren Spargel am liebsten mit gekochtem Schinken oder der Sauce hollandaise. Dazu",
+    105,
+    113,
+    5.74,
+    1
+   ],
+   [
+    "dazu",
+    "ihren Spargel am liebsten mit gekochtem Schinken oder der Sauce hollandaise. Dazu",
+    105,
+    113,
+    5.71,
+    1
+   ],
+   [
+    "kurze",
+    "Spargel wächst über der Erde und wird durch die Sonne grün. Es gibt nur eine kurze Zeit,",
+    38,
+    46,
+    4.79,
+    1
+   ],
+   [
+    "enthält",
+    "enthält. Es gibt Spargel in Weiß und in Grün. Es sind ca. 20 cm lange Stangen. Die Weißen wachsen",
+    21,
+    33,
+    4.76,
+    1
+   ],
+   [
+    "grüne",
+    "unter der Erde und werden direkt geerntet, wenn sie aus der Erde kommen. Der grüne",
+    32,
+    39,
+    4.76,
+    1
+   ],
+   [
+    "weisser",
+    "",
+    0,
+    0,
+    4.18,
+    1
+   ],
+   [
+    "kartoffeln",
+    "passen Kartoffeln sehr gut. Hast du schon einmal Spargel gegessen? Wenn ja, wie schmeckt der dir?",
+    112,
+    122,
+    4.12,
+    1
+   ],
+   [
+    "fingern",
+    "Der weiße Spargel wird mit den Fingern von der Erde freigelegt und dann so tief wie möglich mit",
+    63,
+    71,
+    4.02,
+    1
+   ],
+   [
+    "grüner",
+    "indem man mit dem Messer – besser noch mit einem speziellen Spargelschäler schält. Grüner Spargel",
+    92,
+    100,
+    3.98,
+    1
+   ],
+   [
+    "grosszügig",
+    "",
+    0,
+    0,
+    3.91,
+    1
+   ],
+   [
+    "abgeschnitten",
+    "einem scharfen Messer abgeschnitten. Da Spargel am besten in lockerem, sandigem Boden wächst,",
+    70,
+    79,
+    3.88,
+    1
+   ],
+   [
+    "schalen",
+    "wird nur geschält, wenn die Schalen holzig sind. Die Deutschen lieben den Spargel so sehr und essen",
+    99,
+    106,
+    3.48,
+    1
+   ],
+   [
+    "vitamine",
+    "Spargel ist ein sehr gesundes Gemüse, weil er wenig Fett, viel Wasser und viele Vitamine",
+    14,
+    22,
+    3.46,
+    1
+   ],
+   [
+    "stangen",
+    "enthält. Es gibt Spargel in Weiß und in Grün. Es sind ca. 20 cm lange Stangen. Die Weißen wachsen",
+    21,
+    33,
+    3.37,
+    1
+   ],
+   [
+    "freigelegt",
+    "Der weiße Spargel wird mit den Fingern von der Erde freigelegt und dann so tief wie möglich mit",
+    63,
+    71,
+    3.2,
+    1
+   ],
+   [
+    "garen",
+    "sollte er vor dem Garen immer gut gewaschen werden. Vor allem in den Spargelköpfen steckt",
+    78,
+    85,
+    2.82,
+    1
+   ],
+   [
+    "schält",
+    "indem man mit dem Messer – besser noch mit einem speziellen Spargelschäler schält. Grüner Spargel",
+    92,
+    100,
+    2.6,
+    1
+   ],
+   [
+    "hollandaise",
+    "ihren Spargel am liebsten mit gekochtem Schinken oder der Sauce hollandaise. Dazu",
+    105,
+    113,
+    2.5,
+    1
+   ],
+   [
+    "lockerem",
+    "einem scharfen Messer abgeschnitten. Da Spargel am besten in lockerem, sandigem Boden wächst,",
+    70,
+    79,
+    2.42,
+    1
+   ],
+   [
+    "holzig",
+    "wird nur geschält, wenn die Schalen holzig sind. Die Deutschen lieben den Spargel so sehr und essen",
+    99,
+    106,
+    2.39,
+    1
+   ]
+  ],
   "tx": "Spargel Spargel ist ein sehr gesundes Gemüse, weil er wenig Fett, viel Wasser und viele Vitamine enthält. Es gibt Spargel in Weiß und in Grün. Es sind ca. 20 cm lange Stangen. Die Weißen wachsen unter der Erde und werden direkt geerntet, wenn sie aus der Erde kommen. Der grüne Spargel wächst über der Erde und wird durch die Sonne grün. Es gibt nur eine kurze Zeit, in der der Spargel geerntet wird. Dies ist die Spargelzeit. Sie beginnt je nach Wetterlage Mitte bis Ende April und endet am 24. Juni. Das Ernten des Spargels nennt man Spargelstechen. Der weiße Spargel wird mit den Fingern von der Erde freigelegt und dann so tief wie möglich mit einem scharfen Messer abgeschnitten. Da Spargel am besten in lockerem, sandigem Boden wächst, sollte er vor dem Garen immer gut gewaschen werden. Vor allem in den Spargelköpfen steckt oft noch Sand. Weißer Spargel muss immer großzügig von oben nach unten geschält werden, und zwar, indem man mit dem Messer – besser noch mit einem speziellen Spargelschäler schält. Grüner Spargel wird nur geschält, wenn die Schalen holzig sind. Die Deutschen lieben den Spargel so sehr und essen ihren Spargel am liebsten mit gekochtem Schinken oder der Sauce hollandaise. Dazu passen Kartoffeln sehr gut. Hast du schon einmal Spargel gegessen? Wenn ja, wie schmeckt der dir?",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "var": 0.8359
+  "src": "cc"
  },
  "xNXtskzQKPY": {
   "channel": "Authentic German Learning",
@@ -15625,7 +15813,7 @@
  "-W8-7yl0yDY": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-11T15:28:12+00:00",
+  "checked": "2026-11-24T17:09:47+00:00",
   "title": "Boris’ Wettrennen | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260803",
@@ -15634,6 +15822,7 @@
   "pace": 120.8,
   "rare": 0.1073,
   "var": 0.8162,
+  "cl": null,
   "speech_s": 935.0,
   "tokens": 1883,
   "kw": [
@@ -15798,6 +15987,88 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "fuss",
+    "",
+    0,
+    0,
+    4.81,
+    8
+   ],
+   [
+    "bild",
+    "das Bild auf den Lieblingsstuhl ihrer Mutter.",
+    360,
+    366,
+    5.4,
+    7
+   ],
+   [
+    "geschenk",
+    "\"Ich verstecke das Geschenk unter meinem",
+    320,
+    326,
+    4.55,
+    5
+   ],
+   [
+    "rief",
+    "Als erstes rief Miffy ihren Freund Boris",
+    38,
+    43,
+    4.47,
+    5
+   ],
+   [
+    "bravo",
+    "Bravo, bravo, bravo. Dann kam Melanie und machte ihre tollen",
+    695,
+    706,
+    3.95,
+    5
+   ],
+   [
+    "schüssel",
+    "Zuerst malte sie eine Schüssel und legte",
+    358,
+    363,
+    3.81,
+    5
+   ],
+   [
+    "karotte",
+    "Karotte mehr.\" \"Ich weiß, wer Karotten in ihrem Garten",
+    769,
+    779,
+    3.01,
+    3
+   ],
+   [
+    "sprünge",
+    "schöne Sprünge machen konnte. Der Vorhang öffnete sich und die Musik",
+    678,
+    688,
+    3.57,
+    2
+   ],
+   [
+    "wedelte",
+    "\"Achtung, fertig, los!\" und wedelte mit",
+    100,
+    108,
+    2.19,
+    3
+   ],
+   [
+    "pig",
+    "hat\", sagte Miffy, \"Poppy Pig. Poppy hat",
+    774,
+    781,
+    2.87,
+    2
+   ]
+  ],
   "tx": "Eines Tages lief Miffy sehr schnell von der Schule nach Hause. Auf einmal kam Schnuffi an ihr vorbei gerannt und war vor ihr an der Haustür. \"Schnuffi, du kannst viel schneller laufen als ich\", sagte Miffy. \"Bei einem Wettrennen würde ich immer verlieren.\" Sie ging ins Haus und hatte plötzlich eine Idee. \"Wir könnten mit all unseren Freunden ein Wettrennen veranstalten\", sagte sie zu ihrer Mutter. \"Und Vater und du, ihr könnt zugucken.\" Als erstes rief Miffy ihren Freund Boris Bär an. \"Boris\", sagte sie, \"ich möchte ein Wettrennen organisieren. Dafür brauchen wir Schilder, damit wir wissen, … los!\" und wedelte mit der Flagge. Und los ging's. Alle liefen so schnell sie konnten. Wer würde gewinnen? Zuerst kamen sie am blauen Schild vorbei. Aggie war vorne. Boris versuchte mitzuhalten, aber er konnte wirklich nicht gut laufen und fiel immer weiter zurück. Als sie am gelben Schild vorbei liefen, war Granti die erste. Als nächstes kam das rote Schild. An dem lief Melanie als erste vorbei. Und dann kam das grüne Schild und die erste, die daran vorbei lief, war Miffy. Inzwischen waren Miffys Eltern angekommen. Sie hielten mit ihrem Auto genau vor dem weißen Schild an. Plötzlich blieben … sie konnten. Miffy kam als erste über die Ziellinie. Aber natürlich viel, viel später als Boris. \"Wie hast du den Weg zum Ziel so schnell gefunden, Boris?\", fragte Granti. \"Wir wussten nicht, wo wir hinlaufen sollten.\" \"Tja, ich wusste ja, wo das Schild war, denn ich habe es ja selbst dahin gesteckt\", sagte Boris. \"Aber Boris\", sagte Barbara, \"das ist den anderen gegenüber nicht gerecht. Ich bin ja gar nicht gelaufen, um zu gewinnen, sagte Boris. Ich bin ja schon froh, dass ich die Strecke überhaupt geschafft habe. Miffy hat den Wettlauf gewonnen. Sie waren alle Gewinner, denn das … leuchtend rotes Papier und schnitt ein Herz aus. Das Herz klebte sie auf den Deckel der Schachtel. Auf dem Heimweg blieb Miffy stehen und packte die blaue Schachtel in ihre Frühstücksdose, damit ihre Mutter sie nicht finden konnte. Es sollte ja eine Überraschung sein. \"Ich verstecke das Geschenk unter meinem Bett\", dachte sie. \"Und ich male Bilder, auf denen sie sehen kann, wo sie suchen muss.\" Als Miffy die blaue Schachtel aus der Frühstücksdose nahm, merkte sie, dass die Schachtel nach der Wurst roch, die sie in der Pause gegessen hatte. Auch Schnuffi roch die Wurst und kam angelaufen. … Möchtest du dich nicht auf deinen Lieblingsstuhl setzen?\" Als die Mutter das Bild von der Schüssel auf dem Stuhl sah, musste sie lachen. \"Ich weiß, was das bedeutet\", sagte sie. \"Das heißt, ich soll in der Schüssel nachsehen.\" Als sie in die Schüssel guckte, sah sie das Bild von der Spielkiste. Sie sah in der Spielkiste nach und fand das Bild von Miffys Bett. Die Mutter guckte unter Miffys Bett und Miffy konnte es kaum erwarten zu sehen, wie ihre Mutter sich freuen würde, wenn sie die schöne blaue Schachtel sah. Aber unter Miffys Bett war nichts. Noch nicht mal ein Bild. \"Wo soll ich jetzt … sie mit ihrer Tanzgruppe in der Tanzstunde bei Tante Alice ihren neuen Tanz üben. Als der Unterricht zu Ende war, trafen sich die Mädchen aus der Tanzgruppe draußen vor der Schule. Als erste kam Winnie. Sie konnte sehr gut auf einem Bein tanzen. Dann kam Melanie, die sich wunderschön drehen konnte. \"Wo ist Grunty?\", fragte Miffy. \"Sie kann am allerbesten springen.\" Da kam Grunty schon. Aber Grunty sprang nicht, sie humpelte. \"Oh nein\", sagte Miffy, \"was ist mit dir los, Grunty? Warum humpelst du?\" \"Es ist auf dem Spielplatz passiert\", sagte Grunty. \"Ich bin von der Schaukel gefallen und … dass Grantie ihren Fuß verstaucht hatte, wusste sie sofort, was zu tun war. \"Ich hole einen kalten, nassen Umschlag und lege den um deinen Fuß, Grantie\", sagte Tante Alice. \"Davon geht die Schwellung zurück.\" Grantie saß auf einem Stuhl und ihr Fuß lag auf einem Kissen. Der Fuß tat nicht mehr weh, aber sie war enttäuscht, dass sie nicht mittanzen konnte. Mephi, Winnie und Melanie übten ihre Schritte, aber es machte keinen Spaß ohne Grantie. \"Seid nicht traurig, Kinder\", sagte Tante Alice, \"es ist nicht so schlimm. Ich habe eine besondere Salbe für Granties Fuß und ich glaube, sie wird … Sprünge quer über die Bühne. Es gab großen Beifall. Bravo, bravo. Granty sagte: \"Es hat überhaupt nicht weh getan. Das habe ich Tante Alice zu verdanken.\" Eines Morgens wollte Miffys Mutter das Frühstück machen, als sie sah, dass sie keine Karotten mehr hatte. Miffy liebte Karotten zum Frühstück. \"Ich war schon ganz früh auf dem Markt\", sagte die Mutter, \"aber die Karotten waren ausverkauft. Es gab keine einzige Karotte mehr.\" \"Ich weiß, wer Karotten in ihrem Garten hat\", sagte Miffy, \"Poppy Pig. Poppy hat einen schönen Garten, in dem viele Karotten wachsen. Ich bin sicher, sie wird dir … es viele Wochen, bis es richtige Karotten sind. Da kam Tante Alice. Sie trug zwei schwere Körbe. Hallo, Miffy, hallo, Poppy. Ich habe heute Morgen auf dem Markt alle Karotten gekauft. Ich möchte etwas Besonderes daraus machen. Ihr seid beide zum Abendessen eingeladen und ihr könnt auch eure Freunde mitbringen, sagte sie. Dann ging Tante Alice nach Hause. Miffy und Poppy konnten kaum erwarten, dass es Abend wurde. Da kamen Boris und Barbara Bär vorbei. Ihr seid heute Abend bei Tante Alice zu einem Karottenessen eingeladen, sagte Miffy. Wir essen nicht so gerne Karotten, sagte Boris. Aber … Das riecht wundervoll, sagte Barbara. Das sind bestimmt keine Karotten, sagte Boris. Vielleicht kocht sie etwas anderes. Als alle am Tisch waren, brachte Tante Alice ihnen Karottensuppe, Karottenbrot, Karottenpastete und Karottensaft. Ihr solltet es mal probieren, sagte Tante Alice. Boris und Barbara schmeckte es wirklich sehr gut. Hier habe ich noch einen Karottennachtisch für euch, sagte Tante Alice. Hurra, freute sich Boris, ein richtiges Karottenfest. Als sie nach Hause gingen, sagte Boris zu Barbara, das hat so gut geschmeckt. Wir werden jetzt auch Karotten in unserem Garten pflanzen.",
   "gist": "s",
   "status": "ok",
@@ -15806,7 +16077,7 @@
  "J5XzwxKPYCo": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-11T15:22:49+00:00",
+  "checked": "2026-11-24T16:38:31+00:00",
   "title": "BEGINNER German Listening Practice - describing everything I see / Easy German comprehensible Input",
   "duration": 857,
   "published": "20260725",
@@ -15815,6 +16086,7 @@
   "pace": 62.5,
   "rare": 0.0877,
   "var": 0.6769,
+  "cl": null,
   "speech_s": 798.2,
   "tokens": 832,
   "kw": [
@@ -15977,6 +16249,88 @@
     237,
     2.4,
     4
+   ]
+  ],
+  "kx": [
+   [
+    "finde",
+    "Ich finde, sie sind schön. Ich finde, die Bäume sind schön.",
+    86,
+    99,
+    5.3,
+    5
+   ],
+   [
+    "sehe",
+    "Und ich sage, was ich sehe.",
+    28,
+    43,
+    5.18,
+    5
+   ],
+   [
+    "stehe",
+    "Ich stehe auf dem Baum. Dieser Baum ist nicht senkrecht.",
+    729,
+    746,
+    4.59,
+    3
+   ],
+   [
+    "hunde",
+    "In Portugal gibt es viele Hunde",
+    420,
+    432,
+    4.55,
+    3
+   ],
+   [
+    "zuschauen",
+    "Vielen, vielen Dank fürs Zuschauen. Und nochmal",
+    805,
+    813,
+    3.79,
+    2
+   ],
+   [
+    "wurzel",
+    "das ist die Wurzel, die Wurzel ist nicht im Boden.",
+    704,
+    717,
+    3.76,
+    2
+   ],
+   [
+    "jam",
+    "Mein Name ist Jam. Ich spreche langsam",
+    13,
+    27,
+    3.4,
+    2
+   ],
+   [
+    "snack",
+    "als Snack. Wenn ich in den Supermarkt gehe, bringe",
+    515,
+    526,
+    3.39,
+    2
+   ],
+   [
+    "baumstumpf",
+    "Das ist ein Baumstumpf. Dieser Baumstumpf",
+    681,
+    695,
+    2.57,
+    3
+   ],
+   [
+    "waagerecht",
+    "Dieser Baum ist waagerecht. Weil der Baum",
+    739,
+    751,
+    2.98,
+    2
    ]
   ],
   "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Ich gehe zum Supermarkt. Und ich sage, was ich sehe. Ich zeige euch alles, was ich sehe. Ich sehe ein silbernes Auto. Das Auto parkt. Parken bedeutet nicht fahren. Das Auto fährt nicht. Es parkt. Das Auto parkt auf der Straße. Und neben der Straße stehen Bäume. Ich mag diese Bäume sehr. Ich finde, sie sind schön. Ich finde, die Bäume sind schön. Der Himmel ist ganz weiß. Überall sind Wolken. Ich kann kein Blau und keine Sonne sehen. Im Himmel sind nur weiße Wolken. Keine Sonne und kein blauer Himmel. Ich sehe einen großen Hund. Das ist ein besonders freundlicher Hund. Der Hund ist sehr niedlich. Dieses Auto parkt auch. Aber dieses Auto ist nicht silber. Dieses Auto ist beige. Ich gehe auf der Straße. Das Material ist Asphalt. Ich gehe auf der Asphaltstraße. Es gibt keine Autos. Die Straße ist leer. Niemand fährt mit dem Auto. Ich bin allein. Hier parkt ein grauer Motorroller. Ich fahre sehr gerne mit dem Motorroller. Aber ich habe keine Übung. Ich traue mich nicht. Ich brauche mehr Erfahrung. Ich muss mehr üben. Aber ich fahre gerne mit Palina. Hier ist ein Zebrastreifen. Das ist ein Zebrastreifen. Der Name kommt von dem Tier. Das Zebra. Hier ist noch ein Zebrastreifen. Man kann auch Fußgängerüberweg sagen. Aber Zebrastreifen ist einfacher. Der Zebrastreifen ist neben einem Kreisverkehr. Hier fahren die Autos im Kreis. In Portugal gibt es ganz, ganz viele Kreisverkehre. Sie sind sehr häufig. In Deutschland gibt es auch Kreisverkehre, aber nicht so oft wie in Portugal. In Portugal sind sie häufiger. Jetzt gehe ich kurz in den Supermarkt und dann gehen wir zurück nach Hause. Ich schneide das Brot in der Brotschneidemaschine. Das Brot wird geschnitten. Ich nehme die Milch und lege die Milch in den Korb. Jetzt nehme ich den Essig und lege den Essig auch in den Korb. Und dann scanne ich die Lebensmittel an der Kasse. Hinter mir sind drei Müllcontainer. Ein blauer Müllcontainer, ein grüner Müllcontainer und ein gelber Müllcontainer. Genau wie in Deutschland wird in Portugal der Müll auch getrennt. Wir haben einen Müllcontainer für Glas, einen Müllcontainer für Papier und einen Müllcontainer für Plastik. Ich freue mich immer sehr, wenn ich so etwas finde. In Portugal gibt es viele Hunde und viele Hunde laufen frei herum. Es gibt viele freilaufende Hunde. Und manchmal kann man im Boden Pfotenabdrücke finden. Pfoten sind die Füße von Hunden. Und hier ist ein Pfotenabdruck im Boden. Ich bin immer sehr fröhlich, wenn ich sie finde. Ich finde das total niedlich. Jetzt bin ich aus dem Supermarkt raus. Ich bin auf dem Weg nach Hause und ich zeige euch, was ich gekauft habe. Immer, wenn ich einkaufen gehe, jedes Mal, kaufe ich ein bisschen Milch. Palina und ich, wir trinken sehr viel Kaffee. Wir haben nie zu viel Milch. Zu viel Milch gibt es nicht. Ich habe für Palina einen kleinen Donut gekauft als Snack. Wenn ich in den Supermarkt gehe, bringe ich Palina einen Snack mit. Das ist ein Muss. Immer. Jedes Mal. Ich habe Maisbrot gekauft. Maisbrot ist mein Lieblingsbrot. Das esse ich am liebsten. Leider gibt es in Deutschland kein Maisbrot. Das kenne ich nur hier in Portugal. Ich weiß nicht, warum Deutschland kein Maisbrot mag, aber ich vermisse es sehr, wenn ich in Deutschland bin. Ich möchte Maisbrot in Deutschland essen. Ein kleiner Kakao, den benutze ich heute für Palinas Kaffee. Ich mache ihr einen Mokaccino, also einen Cappuccino mit Kakao. Und als letztes, weil wir es brauchen, habe ich Essig gekauft. Wir benutzen Essig für Zwiebeln und unser Essig ist leer. Also habe ich neuen Essig gekauft. Und das war's. Das war alles. Mehr habe ich nicht gekauft. Nur diese fünf Sachen. Unsere Patreon Subscriber sind super. Unsere Patreon Subscriber unterstützen uns. Unsere Patreon Subscriber bekommen einmal pro Monat ein extra Video. Und sie bekommen Transkripte für alle Videos. Und wir laden alle Videos ohne Untertitel hoch. Also nochmal, unsere Patreon Subscriber sind super. Vielen, vielen Dank. Das ist ein Baumstumpf. Dieser Baumstumpf ist entwurzelt. Er ist nicht mehr im Boden. Die Wurzeln, das ist die Wurzel, die Wurzel ist nicht im Boden. Der Baumstumpf wurde entwurzelt. Ich stehe auf dem Baum. Dieser Baum ist nicht senkrecht. Dieser Baum ist waagerecht. Weil der Baum waagerecht ist, kann ich darauf stehen. Ich stehe auf dem waagerechten Baum. Dieser Baum ist senkrecht. Ich kann nicht auf dem Baum stehen. Der Baum ist senkrecht. Ich kann nur neben dem Baum stehen. Ich stehe neben dem Baum. Der Baum ist senkrecht. Jetzt bin ich wieder zu Hause. Und ich beende das Video. Das Video ist vorbei. Vielen, vielen Dank fürs Zuschauen. Und nochmal das Licht ist ausgegangen. Einen Moment. Okay. Dann machen wir hier weiter. Vielen, vielen Dank fürs Zuschauen. Und nochmal vielen Dank an unsere Patreon Subscriber. Und ich hoffe, ich sehe euch im nächsten Video. Bis dahin, Jam out.",
@@ -21906,7 +22260,7 @@
  "78q9ero7mTQ": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-11T02:26:00+00:00",
+  "checked": "2026-11-24T17:25:42+00:00",
   "title": "Peppa Wutz geht auf eine SUPERHELDENPARTY! 🦸 Pedro Ponys Geburtstag | Neue ganze Folgen",
   "duration": 3774,
   "published": "20261015",
@@ -21915,6 +22269,7 @@
   "pace": 108.6,
   "rare": 0.106,
   "var": 0.8004,
+  "cl": null,
   "speech_s": 3647.8,
   "tokens": 6603,
   "kw": [
@@ -22077,6 +22432,88 @@
     1095,
     2.88,
     17
+   ]
+  ],
+  "kx": [
+   [
+    "frau",
+    "Superkartoffel hat Frau Mümmel gerettet. Danke schön.",
+    244,
+    254,
+    5.66,
+    19
+   ],
+   [
+    "okay",
+    "Luftballons. Okay, ich bleibe. Hurra!",
+    90,
+    99,
+    4.97,
+    18
+   ],
+   [
+    "opa",
+    "Peppa und George spielen Golf mit Opa",
+    1888,
+    1893,
+    4.21,
+    14
+   ],
+   [
+    "wow",
+    "kann. Wow, das ist der größte Ballon der Welt.",
+    183,
+    193,
+    4.71,
+    12
+   ],
+   [
+    "hurra",
+    "Hurra! Dieses Spiel heißt Das Päckchen geht um.",
+    93,
+    101,
+    3.69,
+    8
+   ],
+   [
+    "rückwärts",
+    "Skitrick? Können Sie auch rückwärts? Rückwärts?",
+    925,
+    933,
+    3.95,
+    7
+   ],
+   [
+    "luisa",
+    "Luisa Löffel ist Ich bin ein Fischstäppchen, denn ich",
+    711,
+    719,
+    3.45,
+    7
+   ],
+   [
+    "locke",
+    "Peppa übernachtet heute bei Luzi Locke.",
+    273,
+    279,
+    3.41,
+    7
+   ],
+   [
+    "opi",
+    "Opi Mümmels Düsentrieb. Es ist ein schöner Wintertag. Peppa und",
+    3235,
+    3243,
+    2.92,
+    10
+   ],
+   [
+    "spielgruppe",
+    "Bis vors Haus der Spielgruppe. Oh,",
+    1046,
+    1055,
+    2.35,
+    8
    ]
   ],
   "tx": "Die Superheldenparty. Pedro Pony hat heute Geburtstag. Er feiert eine Superheldenparty. Bin ich ein Vogel? Bin ich ein Flugzeug? Nein, ich bin eine Kartoffel. Hallo, da kommen Peppa und George. Oh, ihr seid ja auch als Super Kartoffel verkleidet. Ja, Super Kartoffel. Hallo. Alle Kinder sind als Superktoffel verkleidet. Nicht schlecht. Schließlich kann es gar nicht genug Superkartoffeln geben. Warum zwinkerst du denn so mit deinen Augen? Ich benutze meinen Rögenblick und ich gucke nach, was du gefrühstückt hast. Was? Es ist nur ein Spiel. Klausi. Bin ich ein Vogel? Bin ich ein Flugzeug? Nein, … essen Pizza. Ja. Und sind Babysitter und gehen ins Kino und bleiben die ganze Nacht wach. Wenn wir groß sind, haben wir ein gelbes Auto. Nein, blau. Gelb und blau. Ich fahre. Und ich auch. KF ist ein Astronaut. Ja, ich fliege ins Weltall. Und George ist dann ein Dinosaurier. Sausia, komm. Und Freddy Fuchs ist dann Polizist. Hallo, hallo, hallo. Was soll das denn sein? Unser Erwachsenen Auto. Könnt ihr beide einmal bitte für mich hupen? Wunderbar. Und weiterfahren. Tschüss. Was arbeitest du denn dann? Na, Krankenschwester. Aber in der Mittagspause bin ich Pilot. Willkommen, liebe Fluggäste. … klein. Er ist ja auch für einen winzig kleinen Fisch. Ah, das hier ist für dich, Goldi. Herzlichen Glückwunsch. Herzlichen Glückwunsch, Goldi. Goldi liebt Unterwasserpartys. Alle lieben Unterwasserpartys. Die Winterspiele. Heute fahren Peppa und ihre Familie auf dem Winterberg Ski. Wo wollen wir runtersausen? Auf der einen Seite geht es sanft hinab. Der andere Abhang ist sehr, sehr steil. Ich werde ganz sicher nicht den steilen Abhang nehmen wie bei meiner letzten Abfahrt. Ja, das war in der Tat ziemlich beeindruckend. Letztes Jahr raste Mamawutz den Steilenberg hinab. Die Einkaufsstraße … z.B. mit ihren alten Freunden? War sie nicht mal in einer Popgruppe? Ja, das stimmt. Sie hat Gitarre gespielt bei den Groovy Gazells. Hallo Grufi Gazells. Hallo, Madame Gazelle hört im Kindergarten auf. Sie hört auf? Wie traurig. Wir machen eine Party. Eine Party? Wie schön, dann kommen wir auch. Gut, alle haben zugesagt. Dann bereiten wir jetzt die Partyhäppchen zu. Das ist die Kindergartenküche. Alle helfen beim Essen zubereiten. Emily Elefant und Wendy Wolf verzieren Törtchen. Ich mach den Zuckerguss und ich streue die Zuckerstreusel drauf. Peppa und George machen Wackelpudding. … ist vorbei. Vielen Dank, meine Helfer. Ihr habt wirklich alle fleißig gearbeitet. Ja, es ist gar nicht so einfach, sich um kleine Kinder zu kümmern. Ich bin total fertig. Ich brauche erstmal Urlaub. Kostümparty. Peppa und George geben eine Kostümparty. Sie haben alle ihre Freunde eingeladen. Peppa hat sich als Zauberfee verkleidet und George geht als Dinosaurier. Hier sind Wendys Freunde. Luzi Locke, Klaus Klef, Molly Mieze, Luisa Löffel und Pedro Pony. Luzi geht als Krankenschwester. Hallo Luzi. Hallöchen Herr Wutz. Gut, dass Sie da sind Schwester Luzi, kommen Sie aus dem … Fee. Da ist eine Windmühle und ein Dinosaurier. Das ist Kitty Golf Peppa. Das ist extra für kleine Kinder. Aber Opa, wir sind doch kleine Kinder. Oh, das stimmt. Das seid ihr wohl. Na gut, dann spielt ihr mal Kittyf. Das ist der Kitty Golfplatz. Wie spielt man das? Also, ich glaube, das könnte Spaß machen. Der Ball muss erst durch die Windmühle dadurch über den Dinosaurier drüber, hinauf auf das Feehenschloss und in das Loch. Ich will zuerst. Du bist dran, George. Das macht Spaß. Na, Opa Wutz, spielen Sie da etwa Kittyf? Äh ja, Peppa und George sind noch klein, wissen Sie. Sie haben es gut. … Linda Bär ist schon fast 10 Jahre alt. Was wollt ihr als nächstes hören? Die Räder vom Bus, bitte. Oh, ich kann die Räder vom Bus leider nicht finden. Schau, hier ist es. Ah, danke schön, Madame Gazell. Räder v Oh. Diese Musik ist so babyhaft. Hallo Mama und Papa. Hallo Peppa. Hallo George. Hallo Papa. Hallo Emily. Macht wohl Spaß. Ich bin zum ersten Mal in so einem Ding. Wie oft waren die Kinder hier denn so im Kreis herum? Hunderte und aber hunderte Male. Oh, die Kinder lieben es. und aberhunderte Male im Kreis zu fahren. Hallo Papa. Hallo Peppa. Hallo George. Da fährt Lut die Locke. … Arbeit. Es bereitet aber auch viel Freude. Madame Gazell, mein Kürbis ist immer noch nicht größer. Nun ja, manche Leute sagen, es ist gut mit Pflanzen zu sprechen, damit sie wachsen. Wirklich? Ja. Eure Pflanzen mögen es, wenn ihr mit ihnen spricht. Hallo, du Sonnenblume. Ich hoffe, du bist ganz glücklich heute. Ich liebe euch, Karotten. Werd groß, groß, groß. Fein. Die Pflanzen mögen es sicher auch, wenn wir ihnen ein Lied singen. Wie wär es mit dem Bingbong Song? Warum nicht? Unsere Pflanzen kriegen Wasser und ein Lied noch dazu mit einem Bing und einem Bong und einem Bong Bing Bing bong … Hammer und klopft das Ding zusammen. Faszinierend. Ja. Pure Mömel Handwerkskunst. Kann es fliegen? Tja, das habe ich noch nicht getestet. Probieren wir es aus. Sicherheitsgurte check. Benzin check. Käsetoastbrot check. Könntest du bitte mal mein Brot für mich halten? Ist das sicher? Ja, das ist nur Brot und Käse. Nein, ich meine den Düsentrieb. Und ob der sicher ist, ich habe ihn selbst gebaut. Nur noch ein Augenblick und ich erhebe mich in die Lüfte. Über mir nur noch die Wolken und der Himmel. Die Wolken der Himmel. Die Wolken der Himmel. Wie funktioniert der? Ganz einfach. Ich muss … Ah. Aber echte Raketen brauchen Raketentreibstoff, um abzuheben. Wer möchte mal mit dieser Rakete fliegen? Ich. Ich. Ich. Es muss jemand kleines sein. In der Rakete ist nicht viel Platz. Ich bin klein. Perfekt. Dann rein mit dir, Edmund. Und äh das ist auch ganz bestimmt sicher für Kinder. Ja, die Rakete fliegt von allein. Nein, ich mein ab mit dir, du meine Güte. Juhu. Wow. Zum Glück hat das Museum sehr hohe Decken und so funktioniert ein Raketenantrieb. Das war toll. Es war genial. Es war einfach unglaublich. Peppa liebt das Wissenschaftsmuseum. Alle lieben das Wissenschaftsmuseum. Ah.",
@@ -22975,7 +23412,7 @@
  "Z2zf8LgiiUk": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-11T15:31:13+00:00",
+  "checked": "2026-11-24T17:23:24+00:00",
   "title": "Learn German the Natural Way | Riding a Bike & Talk (Comprehensible Input for Beginners)",
   "duration": 763,
   "published": "20250720",
@@ -22984,6 +23421,7 @@
   "pace": 72.0,
   "rare": 0.1003,
   "var": 0.7309,
+  "cl": null,
   "speech_s": 747.4,
   "tokens": 897,
   "kw": [
@@ -23146,6 +23584,88 @@
     679,
     2.57,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "musst",
+    "die Pedale treten oder du musst ein",
+    331,
+    340,
+    5.06,
+    4
+   ],
+   [
+    "licht",
+    "Licht. Dieses Licht befindet sich vorne,",
+    105,
+    115,
+    4.99,
+    4
+   ],
+   [
+    "vorne",
+    "sollen. Vorne vorne am Fahrrad. befindet sich das",
+    98,
+    111,
+    4.73,
+    4
+   ],
+   [
+    "fahre",
+    "Mir geht es gut. Ich fahre gerade ins",
+    12,
+    22,
+    4.46,
+    4
+   ],
+   [
+    "akku",
+    "also ein Fahrrad, das mit Akku fährt,",
+    386,
+    394,
+    4.14,
+    2
+   ],
+   [
+    "hintern",
+    "hintern. Hinten und Hintern. Das ist",
+    244,
+    252,
+    4.08,
+    2
+   ],
+   [
+    "bremst",
+    "Mit der Bremse bremst man und hier die",
+    121,
+    133,
+    3.4,
+    2
+   ],
+   [
+    "halskette",
+    "Ich trage heute keine Halskette. Die Kette, die Halskette und die",
+    305,
+    318,
+    3.25,
+    2
+   ],
+   [
+    "fahrradkette",
+    "Fahrradkette. Die Fahrradkette.",
+    300,
+    312,
+    2.53,
+    3
+   ],
+   [
+    "reflektoren",
+    "Und die Reflektoren. Dieses Fahrrad hat viele Reflektoren.",
+    260,
+    274,
+    2.84,
+    2
    ]
   ],
   "tx": "Hallo, wie geht es dir? Mir geht es gut. Ich fahre gerade ins Stadtzentrum. Ich fahre mit einem Fahrrad und deshalb möchte ich dir in diesem Deutschlernvog Teile des Fahrrads zeigen. Währst du gerne Fahrrad? Ich nehme den Helm ab. Der Helm. Ich hänge den Helm an den Lenker, der Fahrradlenker. Mit dem Lenker kann man nach links oder nach rechts fahren. Man lenkt das Fahrrad, also der Lenker. Natürlich gibt es auf dem Lenker auch eine Klingel. Die Fahrradklingel, die ist sehr wichtig, um anderen Spaziergängern oder Fahrradfahrern zu sagen, dass sie bitte ausweichen sollen. Vorne vorne am Fahrrad. befindet sich das Licht. Dieses Licht befindet sich vorne, also nennt man es auch Vorderlicht. Das Vorderlicht gleich wie die Vorderbremse. Mit der Bremse bremst man und hier die linke Bremse ist die Vorderbremse. Guck mal. Mit der Vorderbremse wird das Vorderrad gebremst. Das Rad und das Vorderrad. Was glaubst du, wie nennt man das hintere Rad Fahrrads? Natürlich das Hinterrad, das Vorderrad und das Hinterrad. Und mit der rechten Bremse bremst man also das Hinterrad. Über dem Hinterrad gibt es einen Gepäckträger. Das Gepäck, meine Tasche ist mein Gepäck oder natürlich auch das Handgepäck beim Reisen am Flughafen und der Gepäckträger. Hier kann man z.B. seine Tasche einklen und somit auf dem Rad transportieren am Gepäckträger. Hinten gibt es auch das Rücklicht. Wir haben also das Vorderlicht, das Licht für vorne und das hintere Licht, das Rücklicht. Wie der Rücken, der Rücken, der Rücken ist hinten und unter dem Rücken der hintern. Hinten und Hintern. Das ist eine lustige Eselsbrücke. Die Eselsbrücke, also ein Wortspiel, um dir bestimmte Wörter vielleicht einfacher zu merken. Und die Reflektoren. Dieses Fahrrad hat viele Reflektoren. den mal hier diesen Reflektor und an den Speichen, die Speichen des Rades, an den Speichen habe ich auch Speichoren. Diese kann man einfach abnehmen und ganz einfach auch wieder auf die Speichen. Ein weiteres wichtiges Wort ist die Fahrradkette. Die Fahrradkette. Ich trage heute keine Halskette. Die Kette, die Halskette und die Fahrradkette. Das Fahrrad hat nicht nur eine Pedale, sondern zwei Pedalen. Man muss also in die Pedale treten. In die Pedale treten oder du musst ein bisschen in die Pedale treten. Ist ein Sprichwort, um zu sagen, dass du dich ein bisschen beeilen musst. Du musst also schneller treten, um schneller voranzukommen. Und der Sattel, der Sattel ist höhenverstellbar. So ist mir der Sattel zu nieder. So ist mir der Sattel zu hoch und so. ist der Sattel für mich richtig eingestellt. Dieses Fahrrad ist ein E-Bike. Es ist also ein Fahrrad, das mit Akku fährt, also ein Akkufahrad. Dieses Fahrrad wird auch Stadtfahrrad genannt. Und guck mal, hier hinten haben wir einen Anhänger. Was glaubst du, wozu brauchen wir diesen Anhänger? Na klar, für Taco. Wir versuchen gerade Taco an den Anhänger zu gewöhnen. Das hier ist ein Mountain Bike. Der Mountain, der Berg und Bike, das Fahrrad. Also ein Bergfahrrad. Im Deutschen nennen wir ein Bergfahrrad, aber auch Mountainbike. Das Mountainbike hat keinen Gebäckträger, es hat aber eine Trinkflaschenhalterung, die Trinkflasche und die Halterung. Also die Trinkflaschenhalterung. Diese Halterung ist super praktisch, weil man während des Fahrens auch trinken kann. Dieses Fahrrad hat keinen Akku. Dieses Fahrrad ist kein E-Bike. Seitdem es aber E-Bikes gibt, gibt es auch für normale Fahrräder besondere Namen. So nennt man ein solches Fahrrad auch mechanisches Fahrrad oder auch Ökofahrad. Mir persönlich gefällt dieser Begriff Ökofahrad. Super gut, weil dieses Fahrrad natürlich viel umweltfreundlicher ist und zudem auch gesünder für den Menschen, für den Körper. Hast du ein Ökofahrad oder ein E-Bike und wie oft nutzt du das Fahrrad? In Deutschland und in Österreich wachsen Kinder mit dem Fahrrad auf. In Österreich und in Deutschland macht man schon in der vierten Klasse einen Fahrradführerschein. Schülerinnen und Schüler in der Grundschule oder in Österreich in der Volksschule müssen eine theoretische und eine praktische Prüfung bestehen, um dann einen Fahrradpass, einen Fahrradführerschein zu erhalten. Und auf diese Dinge musst du beim Fahrradfahren in Deutschland und in Österreich achten. Und jetzt fahre ich los. Los geht's. Stimmt, du hast recht. Ich sollte einen Helm aufsetzen. Wirfst du ihn mir rüber? Ich habe den Helm gefangen. Ich setze den Helm auf. Und jetzt geht's los. Im Straßenverkehr gibt es für Fahrradfahrer Regeln. Z.B. ist es wichtig, immer darauf zu achten, dass man auf der rechten Seite fährt. Wenn man abbiegen möchte, also nach links oder nach rechts fahren möchte, ist es wichtig, immer ein Handzeichen zu geben. Ich fahre auf der rechten Seite und biege rechts ab. Und eine wichtige Sache, die Gangschaltung. Dieses Fahrrad hat eine Gangschaltung. Mit der Gangschaltung kann man den Kraftaufwand anpassen. Berg auf. Im dritten Gang ist es ganz schön hart, aber im ersten Gang geht es einfacher, aber natürlich muss ich öfter treten. So, wir wollen jetzt aber los. Wir möchten die Stadt erkunden. Wir werden durch die Straßen fahren und dir ein kleines bisschen von München zeigen. Wenn du also Lust hast auf das nächste Video, dann abonniere den Kanal, denn gemeinsam lernt es sich für gewöhnlich viel schöner und einfacher. Schreib mir also noch einmal in die Kommentare, ob du gerne Fahrrad fährst, welche Art von Fahrrad du hast, wie oft du fährst und tausch dich dann gerne mit unserer Deutschlern Community in den Kommentaren aus. Viel Erfolg beim Deutsch lernen und bis zum nächsten Video. Tschüss.",
@@ -24057,7 +24577,7 @@
  "CLIBhaicQ2k": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-11T22:45:39+00:00",
+  "checked": "2026-11-24T16:34:24+00:00",
   "title": "Grimms': The Wolf and the Seven Young Goats│Beginner German Story",
   "duration": 1004,
   "published": "20220402",
@@ -24066,6 +24586,7 @@
   "pace": 80.5,
   "rare": 0.0446,
   "var": 0.6907,
+  "cl": null,
   "speech_s": 987.3,
   "tokens": 1324,
   "kw": [
@@ -24228,6 +24749,88 @@
     915,
     2.99,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "kinder",
+    "aufwacht auf ihr lieben kinder eure",
+    208,
+    217,
+    5.6,
+    7
+   ],
+   [
+    "zurück",
+    "hallo und willkommen zurück ich bin anna",
+    0,
+    10,
+    5.57,
+    6
+   ],
+   [
+    "trinken",
+    "durst er wollte etwas trinken er wollte",
+    864,
+    872,
+    4.76,
+    4
+   ],
+   [
+    "schwarze",
+    "schwarze seine schwarze pfote",
+    313,
+    325,
+    4.73,
+    3
+   ],
+   [
+    "jüngsten",
+    "jüngsten siege hat er nicht gefunden",
+    560,
+    572,
+    4.15,
+    3
+   ],
+   [
+    "siege",
+    "sechste siege versteckte sich unter der spüle und die siebte ziege",
+    519,
+    534,
+    4.15,
+    3
+   ],
+   [
+    "guys",
+    "geißlein geißlein oder guys sind die",
+    33,
+    41,
+    3.26,
+    2
+   ],
+   [
+    "klopfte",
+    "dauerte nicht lange da klopfte es an die",
+    192,
+    205,
+    3.1,
+    2
+   ],
+   [
+    "losging",
+    "trinken aber als der wolf losging da",
+    883,
+    895,
+    2.95,
+    1
+   ],
+   [
+    "aufgeschnitten",
+    "aufgeschnitten sie schneidet den bauch vom wolf auf und da kamen alle sechs",
+    753,
+    768,
+    2.94,
+    1
    ]
   ],
   "tx": "hallo und willkommen zurück ich bin anna und heute gibt es wieder eine neue geschichte von den brüdern grimm und die heutige geschichte heißt der wolf und die sieben jungen geißlein viel spaß also der wolf und die sieben jungen geißlein geißlein oder guys sind die ziegen ja also fangen wir an es war einmal eine alte geist also eine alte ziege und diese alte guys oder diese alte ziege hatte sieben jungen geißlein und so weiter und dann eines tages wollte mama ziege in den wald gehen mama ziege wollte in den wald gehen und futter am rand auch nach futter holen mama ziege ruft nach ihren kindern … holen aber meine lieben seid vorsichtig passt auf ihr dürft den wolf nicht reinlassen wenn ihr den wolf rein lasst dann wird er euch seid vorsichtig der wolf verkleidet sich oft aber passt auf denn seine stimme ist rau und tief und seine füße sind schwarz passt gut auf an der stimme und an den füßen könnt ihr den wolf erkennen und die sieben kleinen geißlein sagen keine sorge mama du kannst in den wald gehen kein problem und mama ziege ging in den weit es dauerte nicht lange da klopfte es an die haustür und jemand also eine person oder ein wolf sagte macht aufwacht auf ihr lieben … machen nicht auf du bist nicht unsere mutter unsere mutter hat eine weiche liebliche stimme aber deine stimme ist rau und da lief der wolf weg und ging zu einem verkäufer und der wolf kaufte sich ein großes stück kreide erst die kreide er hat die kreide aufgegessen und hat damit seine stimme weicher und lieblicher gemacht dann ging er zurück zu dem haus von den sieben geißlein und klopft wieder an die tür macht auf ihr lieben kinder ich habe jedem von euch etwas mitgebracht aber der wolf hatte seine schwarze seine schwarze pfote in das fenster in das fenster gelegt und die ziegen zahlen … lief der wolf weg und er ging zu einem bäcker der wolf sagte zum bäcker becker schütte schütte mir weißes klar weißes mehl auf die pfoten schütte mir weißes mehl auf meine pfoten alle vier der bäcker dachte was will der wolf machen das kann nichts gutes sein und der bäcker sagte nein mache ich nicht ich helfe dir nicht aber der wolf sagte wenn du das nicht für mich machst dann fresse ich steh ich da hat der bäcker angst bekommen und er machte was der wolf sagte er schüttete das mehl auf die pfoten und die pfoten vom wolf waren ganz weiß ganz weiße pfoten und dann ging der wolf zum dritten … hat jedem von euch etwas aus dem wald mitgebracht die ziegen sagten zeigt zeigt uns zeigt uns zuerst zuerst deine tote und da legte der wolf seine pfote in das fenster und als die ziegen die weiße pfote sahen dachten sie es wäre ihre mutter und sie machten die tür auf aber dann kam der wolf herein und die sieben ziegen erschraken und sie wollten sich verstecken die eine ziege sprang unter den tisch unter den tisch die zweite ziege sprang unter die decke ins bett unter die decke ins bett die dritte ziege versteckte sich im ofen die vierte ziege versteckte sich in der küche die fünfte ziege … in dem kasten von der wanduhr von der wanduhr aber der wolf hat sie alle gefunden und der wolf hat sie einer nach dem anderen runtergeschluckt er schluckt sie alle runter nur die jüngsten siege hat er nicht gefunden nein die ziege in der wanduhr im kasten von der wanduhr hat er nicht gefunden der wolf hatte sechs ziegen geschluckt und dann war er sehr sehr sehr voll dann ist er nach draußen gegangen er ist in den wald gegangen und hat sich unter einen baum gelegt und dann fing er an zu schlafen und dann kam mama ziege zurück nach hause und die tür stand offen nein was ist passiert mama … aus dem bett geholt und mama ziege konnte ihre kinder nirgendwo finden sie rief hallo sie rief nach ihren kindern klaus-peter rosalinde aber nichts und dann endlich als die mutter nach der jüngsten siege nach dem jüngsten kind rief isabel da kam die jüngste ziege aus der wand hervor und dann erzählte die jüngste ziege mama ziege was passiert und dass der wolf alle ihre geschwister gefressen hat und mama ziege hat angefangen zu hub zu weinen dann ging mama ziege in den wald und suchte nach dem wolf da lag der wolf und schnarcht und mama ziege sei dass sich etwas etwas in dem bauch in dem … schnell nach hause mama ziege holte eine schere und nadel und faden und dann gingen sie zurück in den wald und dann hat sie den bauch vom wolf aufgeschnitten sie schneidet den bauch vom wolf auf und da kamen alle sechs siegen aus dem bauch aus dem bauch geklettert alle sechs ziegen sind aus dem bauch raus gekommen sie waren alle am leben denn der wolf hatte nicht gekauft er hat alle sechs ziegen einfach so runtergeschluckt mama ziege war sehr sehr glücklich dass sie ihre kinder wieder hatte und dann sagte sie zu ihren kindern nun geht geht in den wald hinein und holt steine große steine und … legte die steine in den bauch von von dem wolf und dann nahm mama ziege nadel und faden und nähte den bauch vom wolf wieder zu und dann gingen alle alle schnell zurück nach hause und als der wolf aufwachte stand er auf der wolf stand auf und er hatte sehr sehr großen durst er hatte er hatte durst er wollte etwas trinken er wollte wasser trinken mit diesen steinen im bauch hatte er großen durst und dann ging der wolf zu einem brunnen der wolf ging los zu einem brunnen um wasser zu trinken aber als der wolf losging da oder tat ihm der bauch weh aber der wolf dachte hoch was ist denn nur … und die steine in seinem bauch waren sehr sehr schwer nicht acht leicht nein sehr schwer und als er sich über den bohnen gebeugt hat da haben die steine in seinem bauch in den brunnen gezogen die steine haben ihn runter gezogen und dann musste der wolf in dem wasser dann musste der wolf in dem wasser im brunnen er trinke er musste er trinken der wolf ist im wasser ertrunken und dann war der wolf tot also das war die geschichte der wolf und die sieben jungen geißlein von den brüdern grimm wenn es euch gefallen hat dann neigt das video und kommentiert unten alles klar dann bis zum nächsten mal",
@@ -24947,7 +25550,7 @@
  "kXXQcG1alpQ": {
   "channel": "Deutsch mit Benjamin",
   "lang": "de",
-  "checked": "2026-11-11T22:42:09+00:00",
+  "checked": "2026-11-24T16:25:33+00:00",
   "title": "Ich-Laut /ç/ - Deutsche Aussprache lernen & üben",
   "duration": 444,
   "published": "20221005",
@@ -24956,6 +25559,7 @@
   "pace": 153.6,
   "rare": 0.0758,
   "var": 0.8091,
+  "cl": null,
   "speech_s": 381.2,
   "tokens": 976,
   "kw": [
@@ -25104,6 +25708,104 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "video",
+    "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache.",
+    0,
+    6,
+    5.13,
+    5
+   ],
+   [
+    "weiter",
+    "entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch",
+    52,
+    59,
+    5.75,
+    4
+   ],
+   [
+    "hinten",
+    "entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch",
+    52,
+    59,
+    4.79,
+    3
+   ],
+   [
+    "mund",
+    "entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch",
+    52,
+    59,
+    4.75,
+    3
+   ],
+   [
+    "übergang",
+    "dem Übergang vom kurzen E-Vokal zum Ich-Laut aber nicht. Man hebt einfach den Unterkiefer",
+    144,
+    151,
+    4.18,
+    1
+   ],
+   [
+    "mitgliedschaft",
+    "es geht reduzieren wollen, den empfehle ich eine Mitgliedschaft in meiner Online-Akademie, schaut",
+    298,
+    304,
+    4.15,
+    1
+   ],
+   [
+    "lautes",
+    "und wichtig ist dieses Reibe-Geräusch. Der Ich-Laut ist die stimmlose Variante des J-Lautes",
+    58,
+    69,
+    3.5,
+    2
+   ],
+   [
+    "köchin",
+    "zum Beispiel auch: der Koch, mit Ach-Laut, aber im Gegensatz dazu: die Köchin, mit Ich-Laut.",
+    247,
+    256,
+    3.36,
+    2
+   ],
+   [
+    "slawische",
+    "Das klingt aber ganz anders als . Der für slawische Sprachen typischer Laut",
+    45,
+    53,
+    2.95,
+    1
+   ],
+   [
+    "reibe",
+    "und wichtig ist dieses Reibe-Geräusch. Der Ich-Laut ist die stimmlose Variante des J-Lautes",
+    58,
+    69,
+    2.91,
+    1
+   ],
+   [
+    "wegfällt",
+    "CH als Ich-Laut, wobei dann aber das e-Schwa in der Regel wegfällt. Also man sagt",
+    344,
+    351,
+    2.87,
+    1
+   ],
+   [
+    "entweicht",
+    "Luft nach außen entweicht. Schauen wir uns doch mal einige Wörter mit dem Ich-Laut in Zeitlupe an.",
+    81,
+    88,
+    2.84,
+    1
+   ]
+  ],
   "tx": "In diesem Video sprechen wir über den Ich-Laut im Deutschen und lernen dessen richtige Aussprache. Der Ich-Laut ist eine von mehreren möglichen Realisierungen der Aussprache der Buchstabenkombination CH. Und zwar genau die, wie in dem Wort ich. Deswegen heißt er auch so, ja. Das CH in dem Wort ich wird so ausgesprochen. Das ist der Ich-Laut. In vielen Sprachen gibt es diesen Laut nicht, bzw. CH wird ganz anders ausgesprochen. In den slawischen Sprachen zum Beispiel wird CH mit einem härteren Konsonanten ausgesprochen. Das klingt aber ganz anders als . Der für slawische Sprachen typischer Laut entsteht weiter hinten im Mund. Der Ich-Laut im Deutschen entsteht weiter vorn. Charakteristisch und wichtig ist dieses Reibe-Geräusch. Der Ich-Laut ist die stimmlose Variante des J-Lautes Die Zungenspitze ist hinter den unteren Schneidezähnen. Der vordere Zungenrücken hebt sich zum harten Gaumen. Zwischen der Zunge und dem harten Gaumen entsteht so eine Enge, durch die die Luft nach außen entweicht. Schauen wir uns doch mal einige Wörter mit dem Ich-Laut in Zeitlupe an. Der Mund öffnet sich nur wenig, die Lippen sind ein bisschen breit, relativ locker. Die Zungen- und Lippen-Position des kurzen I-Vokals ist genau wie beim Ich-Laut. Deshalb empfiehlt es sich auch mit diesem Wort anzufangen zu üben, bzw. mit anderen Wörtern, bei denen der Ich-Laut nach einem I-Vokal gesprochen wird. Was man hier aber auch gut sieht ist, dass die Zähne beim Ich-Laut wesentlich näher zusammen sind, als beim I-Vokal. Sie liegen allerdings nicht aufeinander. Der Mund ist hier beim kurzen E-Vokal etwas weiter geöffnet, so dass man hier noch deutlicher sehen kann, wie er sich für den Ich-Laut fast schließt, so dass also die oberen und unteren Zähne wieder nah beieinander sind. Die Zungenposition ändert sich bei dem Übergang vom kurzen E-Vokal zum Ich-Laut aber nicht. Man hebt einfach den Unterkiefer wieder an, damit sich eben die Zähne näher kommen. Richtig aufeinander liegen sie dann erst beim T-Laut. Das muss aber nicht sein, denn T-Laut kann man auch mit einem kleinen Abstand zwischen den oberen und unteren Zähnen aussprechen. Das ist sprecherabhängig. Hier ist deutlich zu sehen, dass die Lippen beim Ich-Laut in diesem Fall gerundet sind. Das liegt an dem mit gerundeten Lippen auszusprechenden Ü-Vokal in diesem Wort. Diese Lippenrundung bleibt beim Ich-Laut eben erhalten. Der vordere Zungenrücken ist beim Ü-Vokal noch nicht ganz weit oben am harten Gaumen. Für den Ich-Laut muss man ihn also noch ein Stückchen anheben. Die oberen und unteren Zähne sind natürlich wieder nah beieinander. Auch hier sind die Lippen beim Ich-Laut noch leicht gerundet wegen des vorangegangenen EU-Diphthongs. Und man sieht auch hier wieder, dass die Zähne natürlich wieder nah beieinander sind. Weil der Ich-Laut eben vorn entsteht, spricht man CH als Ich-Laut auch immer dann, wenn es nach einem Vorderzungenvokal kommt. Also nach einem Vokal, der auch vorne entsteht. Das betrifft also die e-, ö-, i- und ü-Vokale, aber auch die Diphthonge eu und ei. Nach Vokalen, die weiter hinten entstehen, also nach a-, o- und u- Vokalen, sowie auch nach dem au-Diphthonge, spricht man keinen Ich-Laut, sondern einen Ach-Laut, der ja auch hinten entsteht. Deswegen sagt man zum Beispiel auch: der Koch, mit Ach-Laut, aber im Gegensatz dazu: die Köchin, mit Ich-Laut. Nach einem O-Vokal, wie in Koch, spricht man einen Ach-Laut, aber nach einem Ö-Vokal, wie in Köchin, spricht man eben einen Ich-Laut. Oder auch im Plural: die Köche oder köcheln. Und vergesst bitte nicht, jedes Wort, das ihr hier seht und hört auch nachzusprechen, sonst macht die Übung keinen Sinn. Also noch ein Wortpaar. Singular und Plural, nämlich das Buch mit Ach-Laut. Und der Plural: die Bücher. Hier ist also wieder ein Ich-Laut zu sprechen. Allen von euch, die intensiv an ihrer deutschen Aussprache arbeiten möchten und ihren fremden Akzent so gut es geht reduzieren wollen, den empfehle ich eine Mitgliedschaft in meiner Online-Akademie, schaut einfach mal vorbei. Der Link ist unter dem Video oder ihr könnt auch einfach Deutsch mit benjamin.com besuchen. Das ist eine umfassende Online-Lernplattform mit ganz ganz vielen Audio- und Videomaterialien, Übungsmaterialien zum Verbessern der Aussprache, zum Verbessern des Hörverstehens und auch zum Erweitern des aktiven Wortschatzes. Also wie gesagt, schaut einfach mal vorbei, ich würde mich freuen, euch in meiner Online-Akademie begrüßen zu dürfen. Die Buchstabenkombination CH spricht man außerdem nach Konsonanten als Ich-Laut aus. Zum Beispiel: Aber auch in der Diminutivendung <chen>, also in dieser Verkleinerungsform spricht man CH als Ich-Laut, wobei dann aber das e-Schwa in der Regel wegfällt. Also man sagt eigentlich nur: . Man geht direkt vom Ich-Laut zum über. Zudem spricht man Wörter mit der Endung <ig> in der Regel auch mit einem Ich-Laut. Aber nur wenn der Buchstabe <g> auch wirklich am Ende bleibt. Zum Beispiel: Man kann auch sagen wenig, das ist vor allem in Süddeutschland üblich, aber in den meisten Regionen oberhalb von Süddeutschland sagt man wenig. Wenn dann aber das <g> nicht mehr am Wortende ist, dann spricht man auf jeden Fall . Also wenige. Weitere Beispiele sind: Zum Beispiel: dein Sohn ist aber wirklich ein sehr artiges Kind. Wörter, die mit dem Ich-Laut beginnen, gibt es nur wenige. Zwei Beispiele: Vor allem im Süden Deutschlands spricht man hier aber ein . Chemie und China. Wenn euch das Video geholfen hat, eure Aussprache des Ich-Lautes zu verbessern, dann gebt ihm doch bitte einen Daumen nach oben und abonniert meinen Kanal mit Benachrichtigungen. Damit unterstützt ihr nicht nur meinen Kanal und mich, sondern auch andere Deutschlernende, da Youtube dann diesen anderen Deutschlernenden auch das Video vorschlägt. Danke fürs Zuschauen. Ihr lernt Deutsch mit Benjamin auf Youtube und ich freue mich auf Euch im nächsten Video!",
   "gist": "w",
   "status": "ok",
@@ -25112,7 +25814,7 @@
  "-Jm4g0u8z6w": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-11T15:16:03+00:00",
+  "checked": "2026-11-24T16:27:34+00:00",
   "title": "Formelles oder informelles Deutsch? Es geht um Register!",
   "duration": 1740,
   "published": "20260426",
@@ -25121,6 +25823,7 @@
   "pace": 129.9,
   "rare": 0.065,
   "var": 0.7704,
+  "cl": null,
   "speech_s": 1739.7,
   "tokens": 3767,
   "kw": [
@@ -25285,6 +25988,88 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "genau",
+    "ganz genau weiß, wo kann ich das denn",
+    147,
+    153,
+    5.65,
+    16
+   ],
+   [
+    "sprache",
+    "Sprache benutzen, deren Ziel, wie ich",
+    103,
+    109,
+    5.07,
+    16
+   ],
+   [
+    "veranstaltung",
+    "Veranstaltung durchführen. Äh eine Veranstaltung kann stattfinden. Genau.",
+    681,
+    689,
+    4.65,
+    7
+   ],
+   [
+    "niveau",
+    "Niveau beschäftigen, äh sich möglichst früh ein Bild machen können. Was kommt",
+    237,
+    246,
+    4.57,
+    7
+   ],
+   [
+    "formulierung",
+    "Formulierung antreffen. Es geschah an einem frühen Morgen. Daada, es",
+    1067,
+    1078,
+    4.02,
+    5
+   ],
+   [
+    "gekriegt",
+    "Brief gekriegt, z.B. ihr kennt bestimmt",
+    1264,
+    1271,
+    3.78,
+    5
+   ],
+   [
+    "mündlich",
+    "bin und wenn ich mündlich über etwas",
+    1103,
+    1110,
+    3.47,
+    3
+   ],
+   [
+    "umgangssprache",
+    "wieder zu sehr auf Umgangssprache hin,",
+    428,
+    435,
+    3.27,
+    3
+   ],
+   [
+    "informell",
+    "Informell sagst du letzte Woche, nächsten Monat. Das heißt, du benutzt",
+    1201,
+    1212,
+    2.72,
+    3
+   ],
+   [
+    "stiefmütterlich",
+    "komischerweise absolut stiefmütterlich behandelt werden. Ihr kennt den",
+    15,
+    23,
+    2.71,
+    3
+   ]
+  ],
   "tx": "Hallo meine Lieben, heute möchte ich mit euch über Register sprechen. Ein Register ist meines Erachtens eines der wichtigsten Themen beim Sprachenlernen überhaupt und eines der Themen, die komischerweise absolut stiefmütterlich behandelt werden. Ihr kennt den Ausdruck, oder? stiefmütterlich behandeln. Das bedeutet wenig Aufmerksamkeit schenken. Äh man denke da an das Märchen Aschenputtel z.B. wo Aschenputtel von der Stiefmutter schlecht behandelt wurde oder alle anderen Märchen, wo auch irgendwelche Stiefmütter im Spiel waren. So, das heißt, etwas oder jemanden stiefmütterlich behandeln … kann. Und beim Sprache lernen passiert es leider oft, äh, dass Menschen irgendwelche Wörter lernen, ohne zu verstehen, wo sie sie benutzen können. Und das ist aus meiner Sicht ein gravierender Fehler, weil etwas, was du gelernt hast, aber nicht klar einsortiert hast. Also, du kennst das Wort, aber du weißt nicht genau, wo und wann du es verwenden kannst. Äh, das führt eigentlich nur dazu, dass du es falsch verwendest, weil du es nämlich in in unpassenden Situationen verwendest. Und das führt zu Frust und das führt dazu, dass du das Gefühl hast, okay, ich habe umsonst gelernt und so weiter. … äh z.B. äh wir haben darüber gehört, dass gestern in der Stadt etwas los war, egal was. Wenn ich eine Freundin frage, die dabei war, dann kann ich sagen, also über etwas, was jetzt gerade passiert, würde ich sagen, was ist los? Über etwas, was schon vergangen ist, würde ich fragen, was war los? Was war denn gestern in der Stadt los? Das ist die einfachste Art. Das ist mündliches Umgangssprachliches Deutsch. Das würde ich äh schriftlich wahrscheinlich okay, schriftlich in einer WhatsAppnachricht vielleicht, aber ich würde das nicht in einem Aufsatz schreiben oder in einem Zeitungsartikel … und es ist wie gesagt ein Problem, dass sowohl die Muttersprachler haben, als auch Menschen, die die Sprache zwar als Fremdsprache lernen, aber schon auf einem hohen Niveau sind. Das kommt nicht automatisch. Also, wenn du äh das Niveau C2 anstrebst, dann musst du bewusst an deiner Sprache arbeiten. Und äh das sind, denke ich, Methoden, die Muttersprachler genauso verwenden wie äh Nichtmuttersprachler. Genau. Also, meine Freundin, kann ich eben fragen, was war los gestern in der Stadt? Was ist denn passiert? Übrigens, äh die Besonderheit vom Verb passieren ist äh man benutzt es nicht, wenn … Polizist würde, wenn er einen Bericht erstellt, würde so etwas fragen. Was ist vorgefallen? Er würde höchstwahrscheinlich die Zeugen, die anwesenden nicht fragen, was ist passiert? Er würde sagen, was ist vorgefallen? So, und es gibt auch das Nomen dazu und zwar der Vorfall. Und ihr wisst, wenn wir wollen, dass eine Erzählung formeller wird und sachlicher wird und trockener wird, dann machen wir was genau? Wir benutzen möglichst viele Substantive. Das heißt, wir würden, also, wenn wir ein Verb aussuchen, würden wir eher sagen, was ist vorgefallen. Aber noch formeller wäre zu sagen, ähm äh … aus meiner Kindheit äh berichten. Z.B. Also etwas, was geschehen ist oder nee, geschehen hatten wir noch nicht, etwas ist passiert, etwas hat sich ereignet. sich etwas hat sich ereignet und etwas äh was hatten wir noch? Etwas ist vorgefallen. Genau. Etwas ist vorgefallen. Klingt negativ. Wird auch, glaube ich, in den allermeisten Fällen äh in einem negativen Kontext benutzt. Ein Ereignis ist nicht per se negativ. Also, ich möchte über ein wundervolles Ereignis äh aus meiner Kindheit berichten. Das ist auf jeden Fall etwas Positives. So, dann gibt es noch das literarische Wort geschehen. Und … liest, dann weißt du, okay, wir sind in einem formellen Kontext am vergangenen Samstag oder wenn wir gleich dazu noch die Zukunft nehmen, am kommenden Dienstag. So, achte mal darauf, je nachdem natürlich, wie wie gut die Sprache der Nachrichten ist, aber sowas wie Tagesschau wird höchstwahrscheinlich nicht sagen letzten Dienstag, nächsten Mittwoch und so weiter. In den Nachrichten hörst du eher Formulierungen wie am vergangenen Samstag, am kommenden Dienstag und so weiter. Das ist ein nicht offizieller Unterschied, aber ist mir immer wieder aufgefallen. Zeitangaben mit Reposition und Dativ … Kontext bist. Wenn du mit Behörden kommunizierst, z.B. solltest du das Wort nicht benutzen bzw. Also, du kannst es benutzen, aber dann musst dir bewusst sein, welchen Eindruck du hinterlässt bei der Person, die das liest. Also, ich habe ihren Brief gekriegt, ist sehr informell. Ich habe ihr Schreiben erhalten, ist formell. Und ich kann es nur damit vergleichen, dass wir ja auch unsere Kleidung entsprechend der Veranstaltung aussuchen, zu der wir hingehen. Das heißt, es gibt Veranstaltungen, da gehst du mit, ich weiß nicht, Shorts und T-Shirt und Flipflops hin und das sind meistens … und deswegen, falls jetzt irgendeins von den Wörtern, die ich erwähnt habe, für euch neu war, kann ich euch nicht fragen, habt ihr es schon gelernt? Das müsste ich in einer Woche, in drei Wochen, in sechs Wochen fragen und so weiter. Genau. Also, wir hatten die sehr informelle Formulierung, was ist los bzw. was war los? Dann hatten wir die etwas immer noch umgangssprachliche Formulierung. Was ist passiert? Was ist denn gestern passiert? Was ist denn? Und du merkst was, ich sage nicht, was ist denn? Ich sage, was ist denn? Was ist denn letzten Dienstag? passiert. Das ist Umgangssprache, … habe ihren Brief gekriegt. Das ist ein Satz, den du eigentlich nicht schreiben solltest. Kriegen bitte nur mündlich und nicht schriftlich. So, ich hoffe, ihr habt ziemlich viel verinnerlicht aus diesem Video. Es sollte ein sehr kurzes Video sein. Daraus haben wir mal wieder bestätigt bekommen, dass ich nicht in der Lage zu sein scheine kurze Videos aufzunehmen, aber ich kann damit leben. Ich hoffe ihr auch. Wenn euch noch andere Wörter oder Redewendungen oder sonstige Themen einfallen, die ich erklären soll, schreibt es bitte in die Kommentare. Ansonsten sehen wir uns im nächsten Video. จจช",
   "gist": "s",
   "status": "ok",
@@ -25441,7 +26226,7 @@
  "MonJYV-570c": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-11T22:46:54+00:00",
+  "checked": "2026-11-24T16:36:47+00:00",
   "title": "A1/A2 Akkusativ und Dativ verstehen | easy and comprehensible German",
   "duration": 804,
   "published": "20260215",
@@ -25450,6 +26235,7 @@
   "pace": 84.0,
   "rare": 0.0361,
   "var": 0.4357,
+  "cl": null,
   "speech_s": 792.1,
   "tokens": 1109,
   "kw": [
@@ -25606,6 +26392,96 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "the",
+    "that's okay. Just listen to the video a",
+    743,
+    750,
+    5.62,
+    8
+   ],
+   [
+    "and",
+    "when to use den and when to use dem. But",
+    738,
+    747,
+    5.22,
+    5
+   ],
+   [
+    "kleid",
+    "Wir haben ein lila Kleid und wir haben",
+    335,
+    344,
+    4.3,
+    7
+   ],
+   [
+    "katze",
+    "eine Katze. Die Katze. Das ist ein Igel.",
+    514,
+    525,
+    4.49,
+    6
+   ],
+   [
+    "schwein",
+    "Das ist ein Schwein, das Schwein. Und",
+    525,
+    536,
+    4.11,
+    9
+   ],
+   [
+    "teller",
+    "eine Tasse, einen Teller, ein Messer und",
+    63,
+    75,
+    4.09,
+    8
+   ],
+   [
+    "you're",
+    "you like. And comment on what you're",
+    765,
+    775,
+    3.59,
+    1
+   ],
+   [
+    "that's",
+    "that's okay. Just listen to the video a",
+    743,
+    750,
+    3.55,
+    1
+   ],
+   [
+    "input",
+    "Input. Hier haben wir den Tisch.",
+    50,
+    59,
+    3.5,
+    1
+   ],
+   [
+    "few",
+    "few times and for example make your own",
+    746,
+    753,
+    2.98,
+    1
+   ],
+   [
+    "covers",
+    "which covers this topic and you can also",
+    779,
+    786,
+    2.85,
+    1
+   ]
+  ],
   "tx": "Wir haben vor einigen Videos diese Bilder angemalt. Ich habe den Tisch braun angemalt und ich habe die Gabel grau angemalt. Heute spielen wir mit diesen Bildern. Wir lernen den Akkusativ und den Dativ. Hallo, herzlich willkommen. Ich bin Katrin und wir lernen natürlich Deutsch. Wir lernen Akkusativ und wir lernen Dativ. Das ist Grammatik, aber wir haben tolle Bilder und ich gebe dir guten Input. Hier haben wir den Tisch. Der Tisch. Wir haben einen Tisch und wir haben ein Glas, eine Gabel, eine Tasse, einen Teller, ein Messer und einen Löffel. Und ich lege diese Sachen auf den Tisch, ich lege sie unter den Tisch. Ich lege sie neben den Tisch. Ich lege das Glas auf den Tisch. Ich lege das Glas auf den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Gabel unter den Tisch. Ich lege die Tasse neben den Tisch. Das Glas ist auf dem Tisch. Die Gabel ist unter dem Tisch. Die Tasse ist neben dem Tisch. Ich lege den Teller auf den Tisch. Ich lege den Teller auf den Tisch. Der Teller ist auf dem Tisch. Ups. Ich lege das Messer unter den Tisch. Ich lege das Messer unter den Tisch. Das Messer ist unter dem Tisch. Ich lege den Löffel neben den Tisch. Ich lege den Löffel neben den Tisch. Der Löffel ist neben dem Tisch. Was ist auf dem Tisch? Auf dem Tisch ist das Glas und der Teller. Was ist unter dem Tisch? Unter dem Tisch ist die Gabel und das Messer. Was ist neben dem Tisch? Neben dem Tisch ist der Löffel und die Tasse. Noch einmal. Wohin lege ich den Teller? Ich lege den Teller unter den Tisch. Der Teller liegt unter dem Tisch. Wohin lege ich das Glas? Ich lege das Glas neben den Tisch. Ich lege das Glas neben den Tisch. Wo ist das Glas? Das Glas ist neben dem Tisch. Wohin lege ich den Löffel? Den Löffel lege ich auf den Tisch. Wo ist der Löffel? Auf dem Tisch. Wohin lege ich das Messer? Ich lege das Messer unter den Tisch. Das Messer liegt unter dem Tisch. Die Gabel. Wohin lege ich die Gabel? Ich lege die Gabel auf den Tisch. Wo liegt die Gabel? Die Gabel liegt auf dem Tisch. Wohin lege ich die Tasse? Ich lege die Tasse neben den Tisch. Wo ist die Tasse? neben dem Tisch. Wunderbar. Sehr gut. Jetzt haben wir keinen Tisch. Wir haben einen Schrank. Der Schrank. Und wir haben Kleider. Wir haben Kleidung. Was haben wir? Wir haben eine grüne Jacke. Wir haben einen roten Pullover. Wir haben eine blaue Hose, wir haben eine rosa Bluse. Wir haben ein lila Kleid und wir haben einen braunen Kleiderbügel. Der Kleiderbügel. Was ist im Schrank? Was ist im Schrank? Die Jacke ist im Schrank. Ich lege die Jacke in den Schrank. In den Schrank. Im Schrank. Ich lege die Hose in den Schrank. Die Hose ist im Schrank. Der Pullover. Ich lege den Pullover in den Schrank. Der Pullover ist im Schrank. Die Bluse. Ich lege die Bluse in den Schrank. Die Bluse ist im Schrank. Das Kleid. Ich lege das Kleid in den Schrank. Ich lege das Kleid in den Schrank. Das Kleid ist im Schrank. Genau. Und der Kleiderbügel. Ich lege den Kleiderbügel in den Schrank. Der Kleiderbügel ist im Schrank. Was ist im Schrank? Der Kleiderbügel ist im Schrank. Das Kleid ist im Schrank. Die Bluse ist im Schrank. Der Pullover ist im Schrank. Die Hose ist im Schrank und die Jacke ist im Schrank. Was lege ich in den Schrank? Ich lege den Kleiderbügel in den Schrank. Ich lege das Kleid in den Schrank. Ich lege die Bluse in den Schrank. Ich lege den Pullover in den Schrank. Ich lege die Jacke in den Schrank und ich lege die Hose in den Schrank. Wunderbar. Alles ist im Schrank. Kommen wir zum Baum. Der Baum und viele Tiere. Wie heißen die Tiere? Das ist ein Schaf. Das Schaf. Das ist eine Katze. Die Katze. Das ist ein Igel. Der Igel. Das ist ein Hund. Der Hund. Das ist ein Schwein, das Schwein. Und das ist ein Frosch, der Frosch. Hinter dem Baum und vor dem Baum. Okay, hinter dem Baum, vor dem Baum. Wo ist das Schaf? Das Schaf ist hinter dem Baum. Das Schaf ist hinter dem Baum. Das Schaf geht vor den Baum. Es ist hinter dem Baum und es geht vor den Baum. Weißt du was? Alle Tiere sind hinter dem Baum. Alle Tiere sind hinter dem Baum. Das Schaf ist auch hinter dem Baum. Jetzt gehen die Sch Jetzt gehen die Tiere. Das Schaf geht vor den Baum. Der Frosch geht vor den Baum. Die Katze geht vor den Baum. Jetzt ist sie vor dem Baum. Der Hund ist hinter dem Baum. Der Hund geht vor den Baum. Der Hund ist vor dem Baum. Der Igel ist hinter dem Baum. Er geht vor den Baum und er ist vor dem Baum. Das Schwein ist hinter dem Baum. Das Schwein geht vor den Baum. Das Schwein ist vor dem Baum. Wo ist der Frosch? Der Frosch ist vor dem Baum. Wohin geht der Frosch? Er geht hinter den Baum. Wo ist das Schaf? Das Schaf ist vor dem Baum. Wohin geht das Schaf? Das Schaf geht hinter den Baum. Wo ist der Hund? Der Hund ist vor dem Baum. Wohin geht der Hund? Der Hund geht hinter den Baum. Genau. Wo ist der Igel? Der Igel ist vor dem Baum. Wohin geht der Igel? Er geht hinter den Baum. Wo ist die Katze? Die Katze ist vor dem Baum. Wohin geht die Katze? Sie geht hinter den Baum. Jetzt bist du dran. Wo ist das Schwein? Das Schwein ist vor dem Baum. Wohin geht das Schwein? Das Schwein geht hinter den Baum. Sehr, sehr gut. I know that it's not easy to remember when to use den and when to use dem. But that's okay. Just listen to the video a few times and for example make your own little cards. You can also just write down the words that works as well. Take the actual stuff for example in the kitchen and put the things on the table, on the floor, in the cupboard, wherever you like. And comment on what you're doing. Ich lege es auf den Tisch. Es ist auf dem Tisch. I have another video which covers this topic and you can also check out my selfstudy courses on my platform. I wünsche dir ganz viel Spaß und Erfolg beim Deutsch lernen und wir sehen uns dann wieder in meinem nächsten Video. Mach's gut. Tschüss.",
   "gist": "w",
   "status": "ok",
@@ -25614,7 +26490,7 @@
  "t7RFvCK7Pm4": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-11T15:27:25+00:00",
+  "checked": "2026-11-24T16:47:38+00:00",
   "title": "👉 10 Tipps für flüssiges Deutsch – So sprichst du selbstbewusst! 🗣️💪",
   "duration": 697,
   "published": "20250217",
@@ -25623,6 +26499,7 @@
   "pace": 80.6,
   "rare": 0.0822,
   "var": 0.8416,
+  "cl": null,
   "speech_s": 689.0,
   "tokens": 925,
   "kw": [
@@ -25769,6 +26646,104 @@
     252,
     2.78,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "wirst",
+    "Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto sicherer wirst",
+    63,
+    72,
+    4.95,
+    6
+   ],
+   [
+    "deine",
+    "bremsen und deine Sprechgeschwindigkeit verlangsamen. Versuche stattdessen,",
+    327,
+    335,
+    5.56,
+    5
+   ],
+   [
+    "konzentrieren",
+    "du. Viele Deutschlerner machen den Fehler, sich zu sehr darauf zu konzentrieren, alles",
+    71,
+    81,
+    4.31,
+    3
+   ],
+   [
+    "normal",
+    "Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto sicherer wirst",
+    63,
+    72,
+    4.77,
+    2
+   ],
+   [
+    "selbstbewusst",
+    "kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen?",
+    18,
+    31,
+    3.62,
+    3
+   ],
+   [
+    "ausprobieren",
+    "wie iTalki oder HelloTalk ausprobieren. 4. Höre viel authentisches Deutsch",
+    240,
+    252,
+    4.16,
+    2
+   ],
+   [
+    "lernenden",
+    "oder fortgeschrittenen Lernenden Einer der besten Wege, flüssig und",
+    186,
+    196,
+    3.19,
+    2
+   ],
+   [
+    "selbstbewusster",
+    "auf Deutsch zu besprechen. Du wirst merken, dass du dich immer wohler und selbstbewusster fühlst.",
+    409,
+    420,
+    3.07,
+    2
+   ],
+   [
+    "selbstzweifel",
+    "Sprechen ist oft der Selbstzweifel. Denk immer daran, dass du auf dem richtigen Weg bist,",
+    429,
+    439,
+    2.91,
+    1
+   ],
+   [
+    "intonation",
+    "auf die Ausdrucksweise und Intonation. Tipp: Versuche, einfache Gespräche und",
+    278,
+    289,
+    2.9,
+    1
+   ],
+   [
+    "bin’s",
+    "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning.",
+    0,
+    9,
+    2.82,
+    1
+   ],
+   [
+    "muttersprachler",
+    "Muttersprachler in deiner Nähe hast, kannst du auch Online-Sprachaustausch-Plattformen",
+    232,
+    241,
+    2.82,
+    1
    ]
   ],
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um ein Thema, das viele Deutschlerner betrifft: freies Sprechen. Wie kannst du also flüssig und selbstbewusst sprechen, ohne ständig nach den richtigen Wörtern zu suchen? Ich werde dir heute einige sehr hilfreiche Tipps geben, mit denen du dein Sprechen auf das nächste Level heben kannst. Lass uns gleich loslegen! 1. Keine Angst vor Fehlern! Der erste und wichtigste Tipp: Mach dir keine Sorgen, Fehler zu machen! Fehler gehören zum Lernprozess dazu und sind vollkommen normal. Je mehr du sprichst, desto … machen den Fehler, sich zu sehr darauf zu konzentrieren, alles perfekt zu sagen. Aber in echten Gesprächen geht es nicht um Perfektion, sondern um Kommunikation. Sei also nicht zu streng mit dir selbst. Tipp: Wenn dir ein Wort nicht einfällt, versuche es mit einem Synonym zu umschreiben. Du wirst sehen, dass du schnell kreativer wirst und dich besser ausdrücken kannst! 2. Übe regelmäßig, auch wenn es nur kurz ist! Das Geheimnis des flüssigen Sprechens ist regelmäßige Übung. Es hilft dir, die Sprache in deinem Alltag zu integrieren. Und du musst nicht immer Stunden investieren – … können große Fortschritte bringen. Tipp: Setze dir ein tägliches Ziel, zum Beispiel 5-10 Minuten Sprechen pro Tag. Du kannst zu Hause laut vor dich hin sprechen, ein Tagebuch auf Deutsch führen oder mit einem Tandempartner üben. 3. Spreche mit Muttersprachlern oder fortgeschrittenen Lernenden Einer der besten Wege, flüssig und selbstbewusst zu sprechen, ist der Austausch mit Muttersprachlern oder anderen fortgeschrittenen Deutschlernern. Sie können dir sofort Feedback geben, dich korrigieren, wenn es nötig ist, und du bekommst auch einen Einblick in die echte Sprache, wie sie im … Tipp: Nutze Sprach-Tandem-Apps oder Plattformen, um Partner zum Sprechen zu finden. Wenn du keine Muttersprachler in deiner Nähe hast, kannst du auch Online-Sprachaustausch-Plattformen wie iTalki oder HelloTalk ausprobieren. 4. Höre viel authentisches Deutsch Um flüssiger zu sprechen, ist es wichtig, ein gutes Sprachgefühl zu entwickeln. Du musst die Sprache hören, um sie richtig sprechen zu können. Höre Podcasts, schaue Filme oder YouTube-Videos auf Deutsch – und achte dabei nicht nur auf den Inhalt, sondern auch auf die Ausdrucksweise und Intonation. Tipp: Versuche, einfache Gespräche und … Du kannst auch die Shadowing-Technik ausprobieren, bei der du einen Satz direkt nachsprichst, sobald du ihn hörst. Das hilft dir, deinen Sprechfluss zu verbessern. 5. Denke in der Zielsprache Ein weiterer Tipp: Denke direkt in Deutsch, anstatt in deiner Muttersprache zu denken und dann zu übersetzen. Das Übersetzen kann dich bremsen und deine Sprechgeschwindigkeit verlangsamen. Versuche stattdessen, deine Gedanken sofort auf Deutsch zu formulieren. Tipp: Wenn du über alltägliche Dinge nachdenkst, versuche, in Deutsch zu denken – zum Beispiel, wenn du zur Arbeit gehst oder einkaufen gehst. … und flüssiger zu sprechen. 6. Finde dein „Thema“ oder Interesse Es ist viel einfacher, flüssig zu sprechen, wenn du ein Thema findest, das du wirklich interessant findest. Wenn du dich über ein Thema gerne unterhältst, kommen die Worte viel leichter. Je mehr du darüber sprichst, desto mehr Vokabeln und Ausdrücke wirst du kennen lernen. Tipp: Überlege dir ein Thema, das dich begeistert – sei es Reisen, Filme, Musik oder Sport. Übe regelmäßig, dieses Thema auf Deutsch zu besprechen. Du wirst merken, dass du dich immer wohler und selbstbewusster fühlst. 7. Baue eine positive Einstellung … beim freien Sprechen ist oft der Selbstzweifel. Denk immer daran, dass du auf dem richtigen Weg bist, und erlaube dir, Fehler zu machen. Das gehört zum Lernprozess dazu und ist völlig normal. Eine positive Einstellung wird dir helfen, deine Ängste abzubauen und dich auf das Wesentliche zu konzentrieren: das Gespräch! Tipp: Visualisiere deinen Erfolg. Stelle dir vor, wie du ein tolles Gespräch auf Deutsch führst und dich dabei selbstbewusst fühlst. 8. Vermeide zu viel Grammatikfokus Natürlich ist Grammatik wichtig, aber beim freien Sprechen solltest du dich nicht zu sehr auf die Grammatik … besser, zuerst zu sprechen und deine Ideen zu äußern, als perfekt über jeden Satz nachzudenken. Grammatik kannst du später verbessern. Tipp: Wenn dir eine grammatikalische Regel nicht einfällt, sprich einfach weiter. Die Zuhörer werden eher darauf achten, wie du dich ausdrückst, als darauf, ob du die Grammatik perfekt beherrschst. 9. Verwende visuelle Hilfsmittel Manchmal kann es helfen, visuelle Hilfsmittel wie Bilder, Diagramme oder sogar Notizen zu verwenden, um deine Gedanken zu organisieren. Du kannst beispielsweise vor einem Gespräch Notizen zu den wichtigsten Punkten machen, die du … Wenn du über ein bestimmtes Thema sprichst, erstelle eine kleine Liste oder ein Mindmap, um dich zu orientieren. Das wird dir helfen, den Gesprächsfaden nicht zu verlieren. 10. Bleib geduldig mit dir selbst! Zu guter Letzt: Geduld ist der Schlüssel! Freies Sprechen braucht Zeit und Übung. Sei nicht zu hart zu dir selbst, wenn es mal nicht so gut klappt. Mit jeder Übungseinheit wirst du sicherer und flüssiger werden. Tipp: Feiere kleine Erfolge! Jede noch so kleine Verbesserung ist ein Schritt in die richtige Richtung. Zusammenfassung: Mache dir keine Sorgen vor Fehlern. Übe regelmäßig, auch … mit Muttersprachlern oder fortgeschrittenen Lernenden. Höre viel authentisches Deutsch. Denke in Deutsch. Finde ein Thema, das du liebst. Baue eine positive Einstellung auf. Vermeide zu viel Grammatikfokus. Nutze visuelle Hilfsmittel. Sei geduldig mit dir selbst. Wenn du noch mehr zu diesem Thema lernen möchtest, schau dir auch meine anderen Videos an! Melde dich auch für den Newsletter an, um immer auf dem neuesten Stand zu bleiben: AuthenticGermanLearning.com/free Ich hoffe, diese Tipps helfen dir, selbstbewusster und flüssiger zu sprechen! Viel Erfolg beim Üben! Bis zum nächsten Mal!",
@@ -59014,7 +59989,7 @@
  "klqyQaZgQ5Y": {
   "channel": "Get Germanized",
   "lang": "de",
-  "checked": "2026-11-13T04:06:23+00:00",
+  "checked": "2026-11-24T16:21:57+00:00",
   "title": "Is Oktoberfest REALLY Worth It? | Get Germanized",
   "duration": 739,
   "published": "20181010",
@@ -59023,6 +59998,7 @@
   "pace": 156.0,
   "rare": 0.0527,
   "var": 0.8121,
+  "cl": null,
   "speech_s": 721.9,
   "tokens": 1877,
   "kw": [
@@ -59185,6 +60161,88 @@
     304,
     2.45,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "gesehen",
+    "Oktoberfest gesehen, ich meine diejenigen von uns, die gerne in der",
+    58,
+    64,
+    5.42,
+    7
+   ],
+   [
+    "spass",
+    "",
+    0,
+    0,
+    5.22,
+    7
+   ],
+   [
+    "grunde",
+    ". Und das Oktoberfest ist im Grunde",
+    118,
+    124,
+    4.5,
+    4
+   ],
+   [
+    "trinken",
+    "trinken oder generell große Mengen Alkohol konsumieren. Ich war nicht so",
+    64,
+    71,
+    4.76,
+    3
+   ],
+   [
+    "kennengelernt",
+    "dort so viele coole Leute kennengelernt",
+    420,
+    424,
+    4.18,
+    2
+   ],
+   [
+    "arnold",
+    "beginnt. Also ja, ich meine, Arnold",
+    628,
+    632,
+    4.16,
+    2
+   ],
+   [
+    "hingeht",
+    "mit Freunden hingeht, wird man einfach",
+    416,
+    420,
+    3.34,
+    2
+   ],
+   [
+    "jahrmarkt",
+    "es wie ein großer Jahrmarkt mit",
+    343,
+    347,
+    3.24,
+    2
+   ],
+   [
+    "videobeschreibung",
+    "der Videobeschreibung Links zu separaten Videos. Aber ja, diese",
+    153,
+    158,
+    2.19,
+    2
+   ],
+   [
+    "einzufügen",
+    "Oktoberfest einzufügen, während ich darüber spreche. Ich",
+    141,
+    145,
+    2.97,
+    1
    ]
   ],
   "tx": "Hallo zusammen und ihr seht gerade Get Germanized. Lohnt sich das Oktoberfest wirklich? Mir ist langweilig. Was soll ich tun? Nun, das ist eine Frage, die mir schon oft gestellt wurde und die ich mir tatsächlich auch selbst gestellt habe, denn ich erinnere mich noch genau, als ich das erste Mal dort war, alles war so zauberhaft. Alles war so toll, es war einfach großartig. Ähm, so neu, nun ja, ich sage neu. Für einen Deutschen sind diese Dinge mäßig neu, nicht 100%neu, denn Bierfeste und Schändchenfeste, wie wir sie nennen ( Jägerfeste), gibt es so ziemlich überall in Deutschland. Man findet … nichts dafür. Ich hatte kein Interesse. Alle meine Freunde haben getrunken, oder zumindest viele meiner Freunde haben bereits getrunken. Und ich dachte mir nur: Hm, nee, der Geschmack gefällt mir nicht. Und dann sagten sie: „Es geht nicht um den Geschmack. Man gewöhnt sich daran.“ Ich dachte mir: „Aber wozu soll man es dann?“ Und nun ja, in diesem Video geht es natürlich nicht darum, dass ich Alkohol entdecke. Aber wie auch immer, die Leute, die Alkohol und Bier und so mögen, haben als Deutsche höchstwahrscheinlich schon mal ein Bierfest in Deutschland gesehen . Und das Oktoberfest ist … einfach immer wieder wiederholen. Wenn ihr noch keins persönlich gesehen habt, dann solltet ihr das tun. Allein dafür lohnt es sich, zum Oktoberfest zu gehen . Sie sind hübsch, es spielt eine Band darin. Viele Biergarnituren, ich meine Bierbankgarnituren oder Bierfestgarnituren, wie auch immer man sie nennt. Beer said Ghani tour. Man nennt sie Ganour, das ist nicht wie Garnature. Ist das überhaupt ein englisches Wort? Ich weiß es nicht. Es handelt sich einfach um eine Reihe von Bänken und einen Tisch mit einer Tischdecke, die meistens aus, ich würde sagen, Plastik besteht, damit man sie … sehr gut aus. Sie haben manchmal diese kürzeren Arten von Laternenlöchern, nicht wirklich wie Hotpants, aber ähnlich, denke ich. Nein, sehr schön. Und ja, das ist definitiv interessant für mich, und es hat Spaß gemacht, besonders mit Freunden, die reservierte Plätze am Tisch hatten, weil sie ihre Tickets für das Oktoberfest über eine ihrer Firmen bekommen hatten. Und so hatte ich das Glück, mit ihrer Gruppe gehen zu können, und sie hatten reservierte Plätze. Sie mussten also nicht kämpfen und andere Leute umbringen, um Plätze zu bekommen, denn das kann beim Oktoberfest manchmal … Ich weiß, aber nur der Einfachheit halber sagen wir, es ist deutsche Makkaroni mit Käse. Und wir haben Sauerkraut dazu. Wir haben Eisbein und alles, was mit Fleisch zu tun hat, was man sich vorstellen kann. Natürlich gibt es, wie gesagt, auch Vegetarier und andere Gerichte, die man genießen kann. Oh, ein schönes Auto, das man genießen kann. Und ja, ansonsten gibt es überall Fahrgeschäfte. Im Grunde ist es wie ein großer Jahrmarkt mit Bierzelten und viel Alkohol. Ich meine, ein Jahrmarkt ist wahrscheinlich ein Ort, an dem sowieso viel getrunken wird . Ich vermute, in anderen Ländern ist … ähneln. Ihr habt wahrscheinlich meine Videos gesehen. Wenn man das erste Mal dort ist, würde ich sagen, dass sich das Oktoberfest auf jeden Fall lohnt, weil es einfach viel Spaß macht. Vor allem, wenn man mit Freunden hingeht, wird man einfach die Zeit seines Lebens haben. Ich habe dort so viele coole Leute kennengelernt . Ich meine, ich sage cool, sie waren einfach nur betrunken und freundlich. Ich bin mir nicht sicher, ob sie im echten Leben auch cool waren, denn das Oktoberfest ist ja nicht das echte Leben. Es ist eine sehr seltsame Erfahrung. Die Deutschen sind nicht jeden Tag … Gleiche wie letztes Jahr. Ich zeige niemandem etwas Neues. H. Denkt also daran. Ich meine, wenn ihr das erste Mal dort seid, werdet ihr so viel Spaß haben. Es wird sich anfühlen, als wärt ihr wie ein Kind im Süßwarenladen. Wenn ihr solche gesellschaftlichen Zusammenkünfte mögt, wird es großartig. Beim zweiten Mal ist es immer noch cool, aber nicht mehr so cool. Und ihr seht die Risse, all das Erbrochene und die betrunkenen Leute in einigen Bereichen. Und manche Leute, das habe ich gehört, ich habe das selbst nicht erlebt, pinkeln sogar unter die Biertische in den Zelten, weil sie ihren … viel Spaß. Es hat natürlich auch negative Seiten. Ich meine, manche Leute vertragen einfach keinen Alkohol. Sie werden aggressiv und verrückt, wenn sie trinken. Ich habe das nicht erlebt, weil alle freundlich waren, als ich da war, aber es passiert. Behaltet das also im Hinterkopf und seid generell darauf vorbereitet. Ich meine, egal wo ihr hingeht, um zu trinken, solltet ihr auf ein paar Arschlöcher gefasst sein, die Arschloch-Sachen machen. Ihr wisst schon, sie sind Arschlöcher. Was habt ihr denn auch von Arschlöchern erwartet? Ich meine, Arschlöcher für diejenigen, die das nicht tun. Ja. … ersten Woche des Oktoberfests hin und bleiben dann für den Rest fern, denn dann kommen alle Touristen und der wahre Wahnsinn beginnt. Also ja, ich meine, Arnold Schwarzenegger geht auch jedes Jahr dorthin. Ich glaube, Arnold Schwarzenegger hat am 22. September Geburtstag oder so und er feiert ihn auf dem Oktoberfest. Wenn du also ein paar Prominente sehen willst, ist das wahrscheinlich möglich. Sie haben sogar ihr eigenes Zelt auf dem Oktoberfest. Äh, es heißt „Kay the Bug“-Zelt, glaube ich, wie ein kleiner krabbelnder Käfer. Ich bin mir nicht sicher, ob das das richtige ist. Ich glaube, … ich denke, hoffentlich hast du jetzt die Höhen und Tiefen des Oktoberfests ein bisschen besser kennengelernt und kannst eine Entscheidung treffen, eine fundierte Entscheidung, sollte ich sagen, eine Entscheidung treffen, abonniert, folgt mir auf meinen Social-Media-Links in der Videobeschreibung und überlegt, mich auf Patreon zu unterstützen, denn ihr unterstützt diese Videos. Ihr seid im Grunde die Sponsoren von jedem einzelnen meiner Videos. Ja, nochmals vielen Dank dafür. Und ansonsten vielen Dank fürs Zuschauen. Vergesst nicht, euch germanisieren zu lassen. Auf Wiedersehen. Und al vas in",
@@ -75676,7 +76734,7 @@
  "TARCPrNlRx8": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-17T01:51:31+00:00",
+  "checked": "2026-11-24T17:33:22+00:00",
   "title": "LAUNDRY DAY | GERMAN Learning VLOG for Beginners | COMPREHENSIBLE INPUT",
   "duration": 392,
   "published": "20250105",
@@ -75685,6 +76743,7 @@
   "pace": 59.2,
   "rare": 0.0856,
   "var": 0.6756,
+  "cl": null,
   "speech_s": 367.0,
   "tokens": 362,
   "kw": [
@@ -75809,6 +76868,128 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "drei",
+    "drei Haufen einen mit weißer Wäsche einen",
+    51,
+    64,
+    5.72,
+    1
+   ],
+   [
+    "euch",
+    "Wäsche ich hoffe das Video hat Euch",
+    381,
+    390,
+    5.71,
+    1
+   ],
+   [
+    "minute",
+    "Minute drehen soll ich habe",
+    261,
+    272,
+    4.79,
+    1
+   ],
+   [
+    "weissen",
+    "",
+    0,
+    0,
+    4.76,
+    1
+   ],
+   [
+    "dauert",
+    "los es dauert 2 Minuten bis meine Waschmaschine fertig",
+    281,
+    295,
+    4.68,
+    1
+   ],
+   [
+    "lasse",
+    "ausspült ich lasse sie viermal ausspülen und mit diesem Knopf kann ich",
+    244,
+    258,
+    4.58,
+    1
+   ],
+   [
+    "schublade",
+    "Waschpulver Schublade und fülle das Waschpulver in die Schublade rein",
+    165,
+    179,
+    3.88,
+    3
+   ],
+   [
+    "öffne",
+    "öffne die waschmaschinentür und fülle die",
+    129,
+    142,
+    3.67,
+    3
+   ],
+   [
+    "bunter",
+    "einen mit bunter Wäsche hier habe ich noch einen",
+    63,
+    85,
+    3.56,
+    1
+   ],
+   [
+    "nasse",
+    "gut jetzt bringe ich die nasse Wäsche",
+    323,
+    333,
+    3.54,
+    1
+   ],
+   [
+    "schleudern",
+    "schleudern soll wie schnell sie sich pro",
+    257,
+    265,
+    3.3,
+    1
+   ],
+   [
+    "umdrehungen",
+    "1200 Umdrehungen aus ausgewählt jetzt drücke ich den",
+    267,
+    275,
+    3.11,
+    1
+   ],
+   [
+    "taschentücher",
+    "noch Taschentücher drin sind so meine Wäsche ist",
+    95,
+    110,
+    3.04,
+    1
+   ],
+   [
+    "checke",
+    "wasche checke ich immer die Taschen ob",
+    91,
+    101,
+    2.99,
+    1
+   ],
+   [
+    "weichspüler",
+    "Weichspüler in die Schublade ich schließe die",
+    184,
+    200,
+    2.71,
+    1
+   ]
+  ],
   "tx": "hallo und herzlich Willkommen zu easy brezy German heute ist bei mir Waschtag ich wasche meine Wäsche hier ist mein Wäschekorb er ist komplett v von oben bis unten bevor ich meine Wäsche in der Waschmaschine waschen kann muss ich die Wäsche sortieren ich mache drei Haufen einen mit weißer Wäsche einen mit schwarzer Wäsche und einen mit bunter Wäsche hier habe ich noch einen Wäschekorb der Wäschekorb ist von oben bevor vor ich wasche checke ich immer die Taschen ob noch Taschentücher drin sind so meine Wäsche ist sortiert hier habe ich meine dunkle Wäsche meine helle Wäsche und meine bunte Wäsche jetzt gehen wir zur Waschmaschine hier ist meine Waschmaschine ich öffne die waschmaschinentür und fülle die Waschmaschine mit meiner weißen Wäsche die Waschmaschine ist voll ich schließe die die Tür und werde mein Waschpulver holen hier ist mein Waschpulver ich öffne die Waschpulver Schublade und fülle das Waschpulver in die Schublade rein jetzt fülle ich noch etwas Weichspüler in die Schublade ich schließe die schulade und drücke den Startknopf jetzt muss ich ein Programm auswählen meine Wäsche ist nicht sehr schmutzig deswegen wähle ich ein schnellwaschprogramm aus hier kann ich die Temperatur auswählen ich wasche gerne bei 40° hier kann ich auswählen wie oft die Waschmaschine meine Wäsche ausspült ich lasse sie viermal ausspülen und mit diesem Knopf kann ich auswählen wie schnell die Waschmaschine schleudern soll wie schnell sie sich pro Minute drehen soll ich habe 1200 Umdrehungen aus ausgewählt jetzt drücke ich den Startknopf es geht los es dauert 2 Minuten bis meine Waschmaschine fertig gewaschen hat die Waschmaschine ist jetzt fertig hier habe ich ein Wäschekorb ich öffne die waschmaschinentür und fülle die Wäsche in meinen Wäschekorb die Wäsche ist sauber und riecht sehr gut jetzt bringe ich die nasse Wäsche nach oben und hänge sie auf hier habe ich einen Wäscheständer ich stelle den Wäscheständer auf damit ich meine Wäsche aufhängen kann zum Wäsche aufhängen kann man Kleiderbügel benutzen oder man kann auch Wäsche Klammern benutzen so meine Wäsche ist aufgehängt ich bin fertig für heute morgen wasche ich dann meine dunkle Wäsche ich hoffe das Video hat Euch gefallen klickt hier für mehr bis ganz bald tschüss",
   "gist": "w",
   "status": "ok",
@@ -75817,7 +76998,7 @@
  "TQ9tRec49bE": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-17T02:15:22+00:00",
+  "checked": "2026-11-24T17:31:23+00:00",
   "title": "Vorstellungsgespräch auf Deutsch | Business Deutsch lernen | Deutsch C1 | German C1",
   "duration": 2298,
   "published": "20250921",
@@ -75826,6 +77007,7 @@
   "pace": 116.4,
   "rare": 0.0856,
   "var": 0.8606,
+  "cl": null,
   "speech_s": 2282.3,
   "tokens": 4428,
   "kw": [
@@ -75990,6 +77172,88 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "projekt",
+    "Gerne. In meiner letzten Position war ich für ein Projekt mit einem sehr ambitionierten Zeitplan und",
+    134,
+    142,
+    4.97,
+    15
+   ],
+   [
+    "ihnen",
+    "Das ist erfreulich zu hören. Ich möchte Ihnen auch",
+    26,
+    30,
+    5.74,
+    14
+   ],
+   [
+    "freue",
+    "die Leiterin der Personalabteilung. Ich freue mich, dass Sie den Weg gut hierher gefunden haben.",
+    8,
+    15,
+    4.61,
+    6
+   ],
+   [
+    "software",
+    "Wir brauchen eine bessere technische Schnittstelle zwischen den beiden Software-Programmen.",
+    578,
+    586,
+    4.57,
+    6
+   ],
+   [
+    "erläutern",
+    "ein intern durchaus umstrittenes Vorhaben. Können Sie uns bitte die genauen Umstände erläutern,",
+    456,
+    463,
+    3.81,
+    7
+   ],
+   [
+    "beruflichen",
+    "Kundenbetreuung, die ich in meiner beruflichen Weiterentwicklung suche. Ich bin überzeugt,",
+    93,
+    100,
+    4.07,
+    6
+   ],
+   [
+    "mentor",
+    "Mentor agiert, erreichbar ist für Rückfragen und regelmäßiges, ehrliches Feedback gibt,",
+    859,
+    867,
+    3.48,
+    4
+   ],
+   [
+    "vertiefen",
+    "nicht nur einbringen, sondern auch entscheidend vertiefen kann. Insbesondere die Möglichkeit,",
+    104,
+    112,
+    3.46,
+    4
+   ],
+   [
+    "agilen",
+    "vertraut sind Sie mit agilen Methoden wie Scrum oder Kanban? Beschreiben Sie bitte",
+    256,
+    262,
+    2.73,
+    4
+   ],
+   [
+    "kanban",
+    "vertraut sind Sie mit agilen Methoden wie Scrum oder Kanban? Beschreiben Sie bitte",
+    256,
+    262,
+    2.42,
+    4
+   ]
+  ],
   "tx": "“Deutsch Lernen Haus” präsentiert. Guten Morgen, Herr Lehmann. Herzlich willkommen in unserem Hause. Ich bin Katarina Weiss, die Leiterin der Personalabteilung. Ich freue mich, dass Sie den Weg gut hierher gefunden haben. Guten Morgen, Frau Weiss. Vielen Dank für die Einladung. Die Anfahrt war problemlos, Ihre Wegbeschreibung war sehr hilfreich. Ich freue mich ebenfalls sehr, heute hier zu sein. Das ist erfreulich zu hören. Ich möchte Ihnen auch Herrn Klaus Richter vorstellen. Er leitet die Fachabteilung, für die wir eine neue Besetzung suchen, und wäre somit Ihr zukünftiger Vorgesetzter. … Austausch und gegenseitige Unterstützung sind für mich die Basis für den Erfolg. Ich schaffe gerne ein Umfeld, in dem jeder seine Ideen einbringen kann und sich wertgeschätzt fühlt. Das ist ein wichtiger Punkt. In unserer Abteilung arbeiten wir sehr agil. Wie vertraut sind Sie mit agilen Methoden wie Scrum oder Kanban? Beschreiben Sie bitte Ihre praktischen Erfahrungen in diesem Bereich. Mit agilen Methoden bin ich bestens vertraut. In den letzten vier Jahren habe ich fast ausschließlich in Scrum-Frameworks gearbeitet. Ich war in meiner letzten Rolle nicht nur Teil eines Entwicklungsteams, … die für alle Themen rund um die Mitarbeiter zuständig ist, z.B. für Einstellungen, Verträge und Gehälter. Beispielsätze: Bitte reichen Sie Ihre Reisekostenabrechnung bei der Personalabteilung ein. Die Personalabteilung hat den neuen Arbeitsvertrag bereits vorbereitet. Ausdruck 2: der Vorgesetzte Bedeutung: Die Person in der Hierarchie eines Unternehmens, die über einem steht und einem Anweisungen geben kann; der direkte Chef. Beispielsätze: In meinem jährlichen Gespräch mit meiner Vorgesetzten besprechen wir meine Ziele. Bei Problemen sollten Sie sich immer zuerst an Ihren direkten … war in der Tat sehr ambitioniert und an eine neue strategische Ausrichtung des damaligen Unternehmens gekoppelt. Meine Rolle war die des verantwortlichen Projektleiters für die technische Umsetzung. Das Projektteam und ich haben in den ersten sechs Monaten alle Meilensteine termingerecht erreicht und einen funktionsfähigen Prototyp entwickelt. Der Abbruch erfolgte nicht aufgrund technischer oder projektbezogener Probleme, sondern war eine rein strategische Entscheidung der neuen Geschäftsführung. Nach einer Fusion wurden die Prioritäten des Gesamtkonzerns neu geordnet, und das Budget für … den Abteilungen etablieren, die als erste Ansprechpartner dienen und die Akzeptanz fördern. Das ist ein sehr durchdachter Ansatz. Wir haben nun viele Fragen gestellt. Welche Fragen haben Sie denn an uns? Was möchten Sie über die Position, das Team oder unser Unternehmen noch wissen? Vielen Dank. Ich habe in der Tat einige Fragen. Zunächst würde mich interessieren, wie das Team, in dem ich arbeiten würde, genau strukturiert ist. Wie viele Personen umfasst es und welche Rollen sind vertreten? Meine zweite Frage bezieht sich auf die Einarbeitung: Gibt es einen strukturierten Einarbeitungsplan … ich mein volles Potenzial entfalten kann. Ausdruck 5: jemanden anspornen Bedeutung: Jemanden stark motivieren, eine besondere Leistung zu erbringen. Beispielsätze: Der Wettbewerb mit anderen Firmen spornt uns an, noch besser zu werden. Ein gutes Gehalt und interessante Aufgaben spornen die Mitarbeiter an. Ausdruck 6: sich nachhaltig einbringen Bedeutung: Sich auf eine Weise engagieren, die langfristig positive und dauerhafte Ergebnisse bringt. Beispielsätze: Wir suchen Mitarbeiter, die sich nachhaltig in die Entwicklung des Unternehmens einbringen wollen. Sie hat sich mit ihren Ideen … zukunftsweisenden Technologien mitzuwirken, ist für mich ein zentraler Anreiz. Das klingt überzeugend. Sie sprechen Ihre Erfahrung in komplexen Projekten an. Können Sie uns ein konkretes Beispiel aus Ihrer bisherigen Laufbahn schildern, bei dem Sie mit unerwarteten Schwierigkeiten konfrontiert waren? Wie sind Sie damit umgegangen und was war das Ergebnis? Gerne. In meiner letzten Position war ich für ein Projekt mit einem sehr ambitionierten Zeitplan und einem knappen Budget verantwortlich. Mitten in der Entwicklungsphase stellte sich heraus, dass eine Kernkomponente eines Zulieferers … Im Anschluss würde ich dem Kunden transparent die Konsequenzen aufzeigen: die zusätzliche Zeit, die zusätzlichen Kosten und mögliche technische Implikationen. Ich würde ihm dann verschiedene Optionen vorschlagen, zum Beispiel eine Umsetzung in einer späteren Projektphase oder eine Priorisierung der neuen Wünsche unter Verzicht auf andere, weniger kritische Funktionen. Das Ziel wäre eine gemeinsame, für beide Seiten tragfähige Lösung. Ihre Antworten sind sehr durchdacht, Herr Lehmann. Wir legen in unserem Unternehmen großen Wert auf eine offene Feedbackkultur. Wie gehen Sie persönlich … Führungsphilosophie. Lassen Sie uns über die Zukunft sprechen. Wo sehen Sie sich beruflich in den nächsten fünf Jahren, und wie passt diese Position in Ihre langfristigen Pläne? In fünf Jahren möchte ich mich als anerkannter Experte im Management strategisch wichtiger Projekte etabliert haben. Ich strebe an, mehr Verantwortung zu übernehmen, möglicherweise in der Leitung eines kleinen Teams oder in der Entwicklung neuer Geschäftsfelder. Diese Position sehe ich als idealen nächsten Schritt, da sie mir die Möglichkeit bietet, meine Fähigkeiten im Umgang mit anspruchsvollen Projekten und … Vielen Dank für die umfassenden Antworten. Wir haben zu danken, Herr Lehmann. Das war ein sehr aufschlussreiches Gespräch. Wir werden uns in den kommenden Tagen mit den anderen Kandidaten unterhalten und uns dann bis Ende nächster Woche bei Ihnen mit einer Rückmeldung melden. Auch von meiner Seite vielen Dank für Ihre Zeit und das angenehme Gespräch. Es war sehr interessant, Ihre Perspektiven zu hören. Ich danke Ihnen ebenfalls, Frau Weiss, Herr Richter, für die Gelegenheit, mich persönlich vorzustellen. Ich wünsche Ihnen noch einen schönen Tag und freue mich darauf, von Ihnen zu hören.",
   "gist": "s",
   "status": "ok",
@@ -75998,7 +77262,7 @@
  "2alrYKqn_mE": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-17T02:15:26+00:00",
+  "checked": "2026-11-24T17:31:30+00:00",
   "title": "Emotionale Intelligenz im Beruf |  Deutsch C1 | Deutsch lernen | Deutsch Podcast | German C1",
   "duration": 2178,
   "published": "20250918",
@@ -76007,6 +77271,7 @@
   "pace": 128.3,
   "rare": 0.0672,
   "var": 0.8406,
+  "cl": null,
   "speech_s": 2151.4,
   "tokens": 4599,
   "kw": [
@@ -76171,6 +77436,88 @@
     6
    ]
   ],
+  "kx": [
+   [
+    "genau",
+    "Ganz genau. Die Basis für alles Weitere ist die sogenannte Selbstwahrnehmung. Das ist",
+    67,
+    73,
+    5.65,
+    16
+   ],
+   [
+    "verstehen",
+    "zu verstehen und positiv zu beeinflussen. Es geht also um den klugen Umgang mit Emotionen.",
+    42,
+    50,
+    5.17,
+    16
+   ],
+   [
+    "anstatt",
+    "Kollegen ärgere, hilft es, kurz durchzuatmen, anstatt sofort eine wütende Antwort zu tippen.",
+    182,
+    188,
+    4.52,
+    9
+   ],
+   [
+    "reaktion",
+    "zwischen dem Ereignis und der eigenen Reaktion. Das verhindert wahrscheinlich,",
+    174,
+    179,
+    4.65,
+    7
+   ],
+   [
+    "lena",
+    "unseres Podcasts! Ich bin Paul und an meiner Seite ist die wunderbare Lena.",
+    2,
+    8,
+    4.1,
+    10
+   ],
+   [
+    "zuhören",
+    "verstehen. Eine sehr wirksame Methode, um Empathie zu zeigen und zu fördern, ist das aktive Zuhören.",
+    814,
+    823,
+    4.02,
+    8
+   ],
+   [
+    "konstruktiv",
+    "mit diesen Emotionen konstruktiv umzugehen, anstatt uns von ihnen leiten zu lassen – das",
+    309,
+    315,
+    3.55,
+    4
+   ],
+   [
+    "wahrzunehmen",
+    "sich selbst wahrzunehmen. Aber was genau nehme ich da wahr?",
+    84,
+    89,
+    3.55,
+    4
+   ],
+   [
+    "impulskontrolle",
+    "Richtig. Ein zentraler Aspekt der Selbstregulierung ist die Impulskontrolle.",
+    217,
+    223,
+    2.23,
+    6
+   ],
+   [
+    "impulsiv",
+    "dass man impulsiv handelt. Wenn ich also merke, dass ich mich über die E-Mail eines",
+    178,
+    183,
+    2.78,
+    5
+   ]
+  ],
   "tx": "Hallo und herzlich willkommen zu einer neuen Folge unseres Podcasts! Ich bin Paul und an meiner Seite ist die wunderbare Lena. Hallo zusammen! Ich freue mich, wieder hier zu sein. Lena, heute haben wir ein Thema, das, wie ich finde, im Berufsleben absolut entscheidend ist, aber manchmal etwas zu kurz kommt. Wir sprechen über \"Emotionale Intelligenz am Arbeitsplatz\". Das klingt erstmal sehr akademisch, aber ich vermute, dahinter verbirgt sich etwas, das wir alle täglich erleben. Das hast du sehr gut auf den Punkt gebracht, Paul. Emotionale Intelligenz ist alles andere als trockene Theorie. Es … auch wenn es mal turbulent wird. Das ist am Arbeitsplatz ja Gold wert. Es geht also darum, die eigenen Impulse zu kontrollieren. Richtig. Ein zentraler Aspekt der Selbstregulierung ist die Impulskontrolle. Das ist die Fähigkeit, auf einen Reiz nicht sofort zu reagieren, sondern abzuwägen und eine durchdachte Entscheidung zu treffen. Wenn ein Projekt fehlschlägt, ist die impulsive Reaktion vielleicht, jemandem die Schuld zuzuweisen. Eine regulierte Reaktion wäre, die Situation sachlich zu analysieren und nach Lösungen zu suchen. Das Wort \"abwägen\" bedeutet, die Vor- und Nachteile einer … die Problematik in nur einem Satz perfekt auf den Punkt gebracht. Lass uns nicht um den heißen Brei reden, bring es einfach auf den Punkt. Ausdruck 5: die Selbstwahrnehmung Bedeutung: die Fähigkeit, die eigenen Gedanken, Gefühle und Verhaltensweisen bewusst zu erkennen und zu verstehen. Beispielsätze: Eine gute Selbstwahrnehmung ist der erste Schritt zur persönlichen Weiterentwicklung. Durch Meditation kann man seine Selbstwahrnehmung deutlich verbessern. Ausdruck 6: etwas realistisch einschätzen Bedeutung: eine Situation, eine Person oder die eigenen Fähigkeiten objektiv und ohne … Lena, im ersten Teil haben wir die Grundlagen besprochen: Sich selbst wahrzunehmen und die eigenen Emotionen zu regulieren. Jetzt wollen wir den Blick nach außen richten. Wie geht es weiter? Nachdem wir das Fundament bei uns selbst gelegt haben, kommt die dritte Säule: die Empathie. Empathie ist die Fähigkeit, die Emotionen, Bedürfnisse und Perspektiven anderer Menschen zu erkennen und zu verstehen. Es geht darum, sich in die Lage einer anderen Person hineinversetzen zu können. Sich in jemanden hineinversetzen. Das ist eine sehr bildliche Beschreibung. Es bedeutet, die Welt für einen Moment … wichtig, die Leistung und den Beitrag von Kolleginnen und Kollegen anzuerkennen und dies auch zu äußern. Ein einfaches \"Danke für deine schnelle Hilfe\" oder \"Das hast du wirklich gut gemacht\" kann die Motivation und die Arbeitsmoral enorm steigern. Das Substantiv Wertschätzung drückt aus, dass man den Wert von etwas oder jemandem erkennt und achtet. Das stimmt. Oft konzentrieren wir uns zu sehr auf die Dinge, die nicht gut laufen, und vergessen dabei, das Positive zu erwähnen. Wertschätzung ist sozusagen der soziale Klebstoff, der ein Team zusammenhält. Das hast du schön formuliert. … sein Verhalten in dieser Situation wirklich nicht gutheißen. Die neue Regelung wurde von der Mehrheit der Mitarbeiter gutgeheißen. Ausdruck 6: etwas im Keim ersticken Bedeutung: ein Problem, einen Konflikt oder eine negative Entwicklung sofort am Anfang beenden, bevor es größer werden kann. Beispielsätze: Durch ein offenes Gespräch konnten wir das Missverständnis im Keim ersticken. Es ist wichtig, Gerüchte sofort im Keim zu ersticken. Ausdruck 7: etwas deuten Bedeutung: die Bedeutung von etwas, zum Beispiel von Zeichen, Symbolen oder nonverbalen Signalen, interpretieren. Beispielsätze: … ist alles andere als trockene Theorie. Es ist eine ganz praktische Fähigkeit. Man könnte sie als die Fähigkeit beschreiben, die eigenen Gefühle und die Gefühle anderer zu erkennen, zu verstehen und positiv zu beeinflussen. Es geht also um den klugen Umgang mit Emotionen. Ein kluger Umgang mit Emotionen. Das gefällt mir. Das bedeutet also, nicht nur den eigenen Kopf, den Intellekt, zu benutzen, sondern auch ein Gespür für die emotionale Ebene zu entwickeln. Wo fängt man denn da am besten an? Wahrscheinlich bei sich selbst, oder? Ganz genau. Die Basis für alles Weitere ist die sogenannte … bedeutet, die Vor- und Nachteile einer Sache sorgfältig zu prüfen, bevor man eine Entscheidung trifft. Das leuchtet mir ein. Es geht also darum, proaktiv statt nur reaktiv zu sein. Aber zur Selbstregulierung gehört doch bestimmt mehr als nur Impulskontrolle, oder? Was ist zum Beispiel, wenn sich Prioritäten im Job ständig ändern? Ein ausgezeichneter Punkt. Ein weiterer wichtiger Bestandteil der Selbstregulierung ist die Anpassungsfähigkeit. Das beschreibt die Fähigkeit, flexibel auf Veränderungen zu reagieren und sich neuen Gegebenheiten anzupassen. In der heutigen Arbeitswelt, die sich … um sicherzustellen, dass man alles richtig verstanden hat. Der Ausdruck \"jemandem die volle Aufmerksamkeit schenken\" ist hier sehr passend. Man gibt seine Aufmerksamkeit wie ein Geschenk. Das ist ein starkes Bild. Das verändert die Qualität eines Gesprächs fundamental. Wenn sich mein Gegenüber wirklich gehört und verstanden fühlt, schafft das Vertrauen und eine positive Gesprächsatmosphäre. Das ist also der Weg, um die emotionale Landschaft um uns herum zu verstehen. Und was ist der letzte Schritt? Der letzte Schritt, die vierte Säule, ist das Beziehungsmanagement, oft auch als … Ein wunderbares Schlusswort. Und damit sind wir auch schon am Ende unserer heutigen Folge. Wir hoffen, ihr konntet einige wertvolle Impulse für euren eigenen Arbeitsalltag mitnehmen. Uns würde jetzt natürlich brennend interessieren: Welche Strategien nutzt ihr, um eure emotionale Intelligenz im Beruf zu stärken? Habt ihr vielleicht eine besondere Technik für aktives Zuhören oder einen Tipp für mehr Selbstwahrnehmung? Schreibt uns eure Ideen und Erfahrungen gerne in die Kommentare. Wir freuen uns darauf, von euch zu lesen. Bis zum nächsten Mal! Macht es gut und bleibt neugierig! Tschüss!",
   "gist": "s",
   "status": "ok",
@@ -76179,7 +77526,7 @@
  "pMKYF2f2BMs": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-17T02:15:29+00:00",
+  "checked": "2026-11-24T17:31:33+00:00",
   "title": "Business Deutsch | Kundenbeschwerde professionell bearbeiten | Deutsch B2 | German B2",
   "duration": 2110,
   "published": "20250914",
@@ -76188,6 +77535,7 @@
   "pace": 114.8,
   "rare": 0.0891,
   "var": 0.8735,
+  "cl": null,
   "speech_s": 2092.6,
   "tokens": 4005,
   "kw": [
@@ -76352,6 +77700,88 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "unserer",
+    "Richter, der Leiter unserer Produktionsabteilung. Wir nehmen Ihr Anliegen außerordentlich",
+    19,
+    26,
+    5.3,
+    13
+   ],
+   [
+    "ihrer",
+    "Guten Morgen auch von meiner Seite, Herr Huber. Ich habe mir den Bericht zu Ihrer",
+    63,
+    68,
+    5.76,
+    12
+   ],
+   [
+    "schritte",
+    "aufzubauen ist, aber wir sind bereit, die notwendigen Schritte dafür zu unternehmen.",
+    292,
+    299,
+    4.47,
+    10
+   ],
+   [
+    "rechtliche",
+    "Qualitätsstandards gibt. Wir prüfen derzeit rechtliche Schritte wegen Vertragsbruchs.",
+    407,
+    419,
+    4.23,
+    8
+   ],
+   [
+    "skepsis",
+    "dass Sie die Schwere der Lage endlich erkannt haben. Dennoch bleibt eine gewisse Skepsis.",
+    861,
+    869,
+    3.67,
+    7
+   ],
+   [
+    "becker",
+    "Ein Zeitplan? Frau Becker, das ist nicht das erste Problem. In den letzten sechs Monaten",
+    208,
+    217,
+    4.17,
+    6
+   ],
+   [
+    "grundvoraussetzung",
+    "der Tat eine Grundvoraussetzung. Das gibt mir eine rechtliche Handhabe,",
+    936,
+    943,
+    3.12,
+    5
+   ],
+   [
+    "vertraglich",
+    "Wir haben festgestellt, dass es eine systematische Abweichung von den vertraglich zugesicherten",
+    401,
+    408,
+    3.56,
+    4
+   ],
+   [
+    "bereinigen",
+    "wie wir die Situation schnellstmöglich bereinigen. Wir haben bereits die",
+    194,
+    200,
+    2.94,
+    4
+   ],
+   [
+    "andeutung",
+    "Das ist eine sehr ernste Aussage, Herr Huber. Die Andeutung rechtlicher Schritte überrascht",
+    692,
+    698,
+    2.91,
+    4
+   ]
+  ],
   "tx": "“Deutsch Lernen Haus” präsentieren Eine große Kundenbeschwerde bearbeiten Teil 1 Guten Morgen, Herr Huber. Herzlich willkommen. Ich möchte mich im Voraus bei Ihnen bedanken, dass Sie sich die Zeit für dieses persönliche Gespräch genommen haben. Das ist mein Kollege, Herr Richter, der Leiter unserer Produktionsabteilung. Wir nehmen Ihr Anliegen außerordentlich ernst und möchten die Angelegenheit heute umfassend klären. Bitte, nehmen Sie Platz. Guten Morgen. Um ehrlich zu sein, bin ich nicht für Höflichkeiten hier. Ich bin hier, weil ich extrem verärgert bin. Unsere Geschäftsbeziehung besteht … hier, leichte Kratzer auf den Oberflächen dort. Ich habe diese Dinge toleriert, weil wir langjährige Partner sind. Aber dieser Vorfall sprengt jeden Rahmen. Es zeigt mir, dass Ihre internen Prozesse grundlegend fehlerhaft sind. Wie kann ich darauf vertrauen, dass eine neue Lieferung fehlerfrei sein wird? Ich kann Ihre Bedenken nachvollziehen. Deshalb haben wir für Ihre neue Charge zusätzliche Kontrollschleifen eingerichtet. Jede einzelne Komponente wird nicht nur maschinell, sondern auch manuell von zwei verschiedenen leitenden Mitarbeitern geprüft, bevor sie verpackt wird. Ich werde … Bedeutung: Sehr ausführlich, vollständig und viele verschiedene Aspekte berücksichtigend. Beispielsätze: Wir müssen die Marktsituation umfassend analysieren, bevor wir investieren. Das Handbuch bietet eine umfassende Erklärung aller Funktionen der Software. Ausdruck 3: zustellen Bedeutung: Etwas, meist eine Ware oder ein offizielles Dokument, an einen Empfänger liefern oder überbringen. Beispielsätze: Das Paket konnte nicht zugestellt werden, weil niemand zu Hause war. Die Vertragsunterlagen werden Ihnen morgen per Kurier zugestellt. Ausdruck 4: Sofortmaßnahmen einleiten Bedeutung: … zu bereinigen. Wir möchten eine Eskalation vermeiden und die Partnerschaft erhalten. Rechtliche Schritte sind ein drastischer Schritt. Lassen Sie uns bitte auf der operativen Ebene bleiben und eine Lösung finden. Ich möchte Ihnen ganz konkret darlegen, was wir tun werden. Die Ersatzlieferung wird unser Werk spätestens am Dienstagabend verlassen. Das bedeutet, sie wird am Mittwochmorgen bei Ihnen eintreffen. Ich gebe Ihnen mein persönliches Wort darauf. Zweitens werden wir einen dedizierten Qualitätsmanager ausschließlich für Ihr Konto abstellen. Ein dedizierter Manager? Was genau soll das … finanzielles Angebot vertraglich als Zusatz zu unserem bestehenden Liefervertrag festzuhalten. Eine vertragliche Fixierung der neuen Qualitätssicherungsmaßnahmen wäre in der Tat eine Grundvoraussetzung. Das gibt mir eine rechtliche Handhabe, falls es erneut zu Problemen kommen sollte. Ich muss das intern mit meiner Geschäftsführung und der Rechtsabteilung besprechen. Aber unter diesen Bedingungen bin ich bereit, den Gedanken an sofortige rechtliche Schritte vorerst zurückzustellen. Das ist eine gute Nachricht. Ich bin zuversichtlich, dass wir Sie mit der kommenden Lieferung und den … Bedeutung: Eine Person, Abteilung oder Organisation, die die Aufgabe hat, etwas zu überwachen und zu kontrollieren. Beispielsätze: Das Finanzamt ist die wichtigste Kontrollinstanz für die Steuerehrlichkeit der Bürger. Wir führen eine zusätzliche, unabhängige Kontrollinstanz in unserem Produktionsprozess ein. Ausdruck 6: ergänzend Bedeutung: Als eine Hinzufügung oder Erweiterung zu etwas, das bereits gesagt oder getan wurde. Beispielsätze: Ergänzend zu meinen schriftlichen Ausführungen möchte ich noch einige Punkte mündlich erläutern. Ich habe noch eine ergänzende Frage zu diesem Thema. … unsere aufrichtige Entschuldigung aussprechen. Es gibt keine Entschuldigung für die fehlerhafte Ware, die Sie erhalten haben. Ihre Verärgerung ist absolut nachvollziehbar. Könnten Sie uns bitte noch einmal aus Ihrer Sicht schildern, welche konkreten Auswirkungen dieser Fehler auf Ihren Betrieb hat? Die Auswirkungen sind gravierend. Wir haben 500 Einheiten der Komponente bestellt. Was wir erhielten, entsprach weder den vereinbarten Materialspezifikationen noch den korrekten Maßen. Die Abweichungen sind so erheblich, dass die Teile komplett unbrauchbar sind. Unsere gesamte … und vor allem nicht den finanziellen Schaden, der bereits entstanden ist. Es geht hier nicht nur um eine neue Lieferung. Es geht um die Zuverlässigkeit unserer Partnerschaft. Ich muss mich darauf verlassen können, dass Ihre Lieferungen vertragsgemäß sind. Immer. Ohne Ausnahme. Sie haben vollkommen recht. Zuverlässigkeit ist die Basis unserer Branche. Wir haben versagt. Intern werden wir unsere Prozesse von Grund auf neu bewerten müssen. Das reicht von der Auftragseingabe über die Produktion bis hin zur finalen Qualitätskontrolle. Es wird organisatorische Konsequenzen geben. Wir nehmen … zusätzliche, persönliche Kontrollinstanz, die nur Ihnen gegenüber verantwortlich ist. Ergänzend zu den operativen Maßnahmen von Herrn Richter möchte ich unser finanzielles Angebot konkretisieren. Neben der vollständigen Gutschrift der letzten Lieferung bieten wir Ihnen auf die nächsten drei Bestellungen einen Preisnachlass von 25 Prozent. Damit möchten wir einen Teil des entstandenen Schadens kompensieren und gleichzeitig unser Engagement für die zukünftige Zusammenarbeit unterstreichen. Wir sind auch bereit, die nachweisbaren Kosten für Ihren Produktionsstillstand zu übernehmen. Das ist ein … bis morgen Mittag. Und ich erwarte die Ersatzlieferung am Mittwochmorgen. Sollte eine dieser beiden Fristen nicht eingehalten werden, ist dieses Gespräch hinfällig. Ich hoffe, wir haben uns da klar verstanden. Das haben wir, Herr Huber. Absolut. Sie können sich darauf verlassen. Wir danken Ihnen nochmals für dieses offene und direkte Gespräch. Es war notwendig, um den Weg für eine bessere Zukunft zu ebnen. Auch ich bedanke mich. Wir werden jetzt alles daransetzen, Ihr Vertrauen zurückzugewinnen und die Partnerschaft auf eine solidere Basis zu stellen. Sie werden die Veränderung bemerken.",
   "gist": "s",
   "status": "ok",
@@ -76360,7 +77790,7 @@
  "7f3v0nKNNE8": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-17T02:15:37+00:00",
+  "checked": "2026-11-24T17:31:40+00:00",
   "title": "Empathie vs Sympathie: Der klare Unterschied erklärt | Deutsch lernen | Deutsch B2 | Deutsch Podcast",
   "duration": 1403,
   "published": "20250905",
@@ -76369,6 +77799,7 @@
   "pace": 135.2,
   "rare": 0.0469,
   "var": 0.8467,
+  "cl": null,
   "speech_s": 1401.5,
   "tokens": 3159,
   "kw": [
@@ -76533,6 +77964,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "genau",
+    "mit der Definition anfangen. Was genau",
+    53,
+    58,
+    5.65,
+    14
+   ],
+   [
+    "bedeutung",
+    "Bedeutung: Es handelt sich um kleine,",
+    517,
+    523,
+    4.98,
+    14
+   ],
+   [
+    "bewusst",
+    "bewusst zu machen, dass es diese",
+    243,
+    248,
+    4.78,
+    8
+   ],
+   [
+    "tipps",
+    "Tipps zu geben, wie ihr eure",
+    47,
+    52,
+    4.6,
+    8
+   ],
+   [
+    "zuhören",
+    "Zuhören und die Bereitschaft, die Perspektive des anderen einzunehmen. Es",
+    160,
+    168,
+    4.02,
+    8
+   ],
+   [
+    "zuhörer",
+    "und euch, liebe Zuhörer, auch praktische",
+    45,
+    50,
+    3.79,
+    8
+   ],
+   [
+    "aktives",
+    "Exakt. Empathie erfordert aktives Zuhören und die Bereitschaft, die",
+    158,
+    166,
+    3.55,
+    4
+   ],
+   [
+    "nachzuvollziehen",
+    "verstehen und nachzuvollziehen, ohne unbedingt die gleichen Gefühle selbst zu",
+    104,
+    112,
+    3.21,
+    4
+   ],
+   [
+    "oberflächlicher",
+    "Paul. Sympathie ist oft oberflächlicher und basiert auf unseren eigenen Gefühlen",
+    87,
+    95,
+    2.79,
+    2
+   ],
+   [
+    "beweggrund",
+    "Ausdruck 6, der Beweggrund. Bedeutung: Der Grund oder das Motiv, das jemanden",
+    643,
+    654,
+    2.77,
+    2
+   ]
+  ],
   "tx": "Herzlich willkommen zu unserem Podcast. Ich bin Paul und habe die wunderbare Lena an meiner Seite. Hallo zusammen. Ich freue mich sehr, dass ihr dabei seid. Lena, heute haben wir ein wirklich spannendes und wie ich finde sehr wichtiges Thema auf dem Programm. Es geht um Empathie und Sympathie. Oft werden diese beiden Begriffe ja synonym verwendet, aber sie bedeuten doch etwas unterschiedliches, oder? Absolut, Paul, das ist ein ganz wichtiger Punkt. Viele Leute werfen Empathie und Sympathie in einen Topf, aber es gibt feine, aber entscheidende Unterschiede. Unser Ziel heute ist es, diese … ihre Situation hineinzudenken, auch wenn du selbst noch nie arbeitslos warst. Verstehe. Es geht also nicht nur darum, Mitgefühl zu zeigen, sondern wirklich zu versuchen, die Welt aus den Augen des anderen zu sehen. Exakt. Empathie erfordert aktives Zuhören und die Bereitschaft, die Perspektive des anderen einzunehmen. Es ist ein kognitiver und emotionaler Prozess. Das ist ein wichtiger Unterschied. Sympathie ist eher ein Gefühl, das in uns entsteht, während Empathie eine bewusste Anstrengung erfordert, sich in eine andere Person hineinzuversetzen. Richtig. Und genau diese Fähigkeit, sich … ja schon mit unseren eigenen Gedanken beschäftigt, während der andere noch redet. Genau. Aktives Zuhören bedeutet präsent zu sein und dem Sprecher die volle Aufmerksamkeit zu schenken. Man kann auch Rückfragen stellen, um sicherzugehen, dass man alles richtig verstanden hat. Z.B. Wenn ich dich richtig verstehe, fühlst du dich also, das hilft sicher Missverständnisse zu vermeiden und zeigt dem anderen, dass man wirklich zuhört und sich für seine Gefühle interessiert. Ein weiterer wichtiger Aspekt ist die eigenen Vorurteile und Annahmen zu hinterfragen. Oft interpretieren wir das Verhalten … es schwer fällt, empathisch zu sein? Ja, natürlich. Es gibt Situationen, die uns emotional sehr stark involvieren oder in denen wir uns vielleicht sogar bedroht fühlen. In solchen Momenten kann es schwierig sein, die Perspektive des anderen einzunehmen. Auch wenn wir starke Vorurteile gegenüber einer Person oder einer Gruppe haben, kann Empathie eine Herausforderung sein. Das ist verständlich. Es ist sicher nicht immer einfach empathisch zu sein, besonders wenn die eigenen Emotionen hochkochen. Genau. Empathie ist keine einfache ein Ausschaltfläche. Es ist ein Prozess, der Übung und … in einen Topf werfen. Empathie und Sympathie darf man nicht einfach in einen Topf werfen. Ausdruck 4. Die Ausstrahlung. Bedeutung: Die Wirkung oder Atmosphäre, die eine Person auf andere hat. Ihr Charisma. Beispielsätze: Sie hat eine sehr positive Ausstrahlung und wirkt auf alle anziehend. Sein Erfolg liegt nicht nur in seiner Leistung, sondern auch in seiner charismatischen Ausstrahlung. Ausdruck 5: sich in die Lage des anderen hineinversetzen. Bedeutung: Versuchen die Situation und Gefühle einer anderen Person zu verstehen, indem man sich vorstellt, an ihrer Stelle zu sein. … Frage stellen. Bedeutung: Zweifel an etwas haben oder etwas kritisch hinterfragen. Beispielsätze: Die neuen Daten haben die bisherigen Theorien in Frage gestellt. Man sollte nicht davor zurückschrecken, seine eigenen Überzeugungen in Frage zu stellen. Ausdruck 12, die eigene Brille. Bedeutung: Die eigene subjektive Sichtweise, die durch persönliche Erfahrungen, Vorurteile und Meinungen geprägt ist. Beispielsätze: Er beurteilt die Situation immer nur durch seine eigene Brille. Man muss versuchen, die Situation nicht nur durch die eigene Brille zu sehen. Ausdruck 13: Mit etwas zu tun haben. … auf eine andere Person. Wenn wir jemanden sympathisch finden, mögen wir ihn oder sie. Das kann aufgrund verschiedener Faktoren sein, wie z.B. ähnliche Interessen, eine angenehme Ausstrahlung oder einfach ein gutes Gefühl im Umgang miteinander. Es ist oft eine spontane Zuneigung. Ah, okay. Also, wenn ich jemanden treffe und denke, Mensch, der oder die ist ja echt nett, dann ist das Sympathie. Genau, das trifft es sehr gut, Paul. Sympathie ist oft oberflächlicher und basiert auf unseren eigenen Gefühlen und Eindrücken. Wir fühlen uns zu jemandem hingezogen. Und wie unterscheidet sich davon … auch wenn man anderer Meinung ist. Das erfordert doch eine Menge Empathie, oder? Ohne Zweifel. Empathie ermöglicht es uns über unsere eigenen Vorstellungen und Meinungen hinauszuschauen und die Welt aus einem anderen Blickwinkel zu betrachten. Das kann sehr bereichernd sein. Jetzt hast du schon ein paar mal das Wort Perspektive benutzt. Könntest du das vielleicht für unsere Zuhörer noch ein bisschen genauer erklären? Sehr gerne Paul. Die Perspektive bedeutet die Art und Weise, wie jemand eine Situation oder ein Problem sieht und interpretiert. Jeder Mensch hat aufgrund seiner eigenen … Offenheit und die Bereitschaft, die eigenen Überzeugungen auch mal in Frage zu stellen. Gibt es noch andere Übungen, die wir ausprobieren können? Ja, eine weitere Übung ist sich bewusst in die Lage anderer Menschen zu versetzen. Wenn du z.B. eine Person siehst, die traurig aussieht. Versuche dir vorzustellen, was sie gerade durchmacht und wie sie sich fühlen könnte. Das ist eine Art Gedankenexperiment, das helfen kann, die eigene Empathiefähigkeit zu trainieren. Das ist eine interessante Idee. Einfach mal versuchen, sich in fremde Situationen hineinzudenken. Genau. Und das kann man … stärken können. Vielen Dank dafür. Sehr gerne, Paul. Es hat mich gefreut. Ich hoffe, unsere Zuhörer konnten einiges mitnehmen. Ich bin mir sicher. Und liebe Zuhörerinnen und Zuhörer, wir sind natürlich sehr gespannt auf eure Gedanken zu diesem Thema. Habt ihr schon einmal bewusst versucht, empathischer zu sein? Welche Erfahrungen habt ihr damit gemacht? Teilt eure Ideen und Erfahrungen gerne in den Kommentaren unter dieser Episode. Ja, wir freuen uns auf eure Kommentare und einen Regenaustausch. Das war es für heute von uns. Vielen Dank fürs Zuhören und bis zum nächsten Mal. Bis bald.",
   "gist": "s",
   "status": "ok",
@@ -76541,7 +78054,7 @@
  "W2KLFAQGaX8": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-17T02:15:41+00:00",
+  "checked": "2026-11-24T17:33:39+00:00",
   "title": "Hairdresser Vocabulary | GERMAN Learning VLOG for Beginners | COMPREHENSIBLE INPUT",
   "duration": 226,
   "published": "20241214",
@@ -76550,6 +78063,7 @@
   "pace": 62.2,
   "rare": 0.0855,
   "var": 0.8119,
+  "cl": null,
   "speech_s": 225.6,
   "tokens": 234,
   "kw": [
@@ -76642,6 +78156,144 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "erzählt",
+    "erzählt heute haben alle über Weihnachten erzählt denn bis Weihnachten",
+    106,
+    118,
+    4.97,
+    2
+   ],
+   [
+    "wirklich",
+    "wirklich kürzer geworden denn es wurde",
+    164,
+    176,
+    5.75,
+    1
+   ],
+   [
+    "gesetzt",
+    "gesetzt als nächstes habe ich eine Tasse Tee mit Milch",
+    56,
+    70,
+    4.79,
+    1
+   ],
+   [
+    "ecke",
+    "Ecke er ist nicht weit weg",
+    19,
+    32,
+    4.67,
+    1
+   ],
+   [
+    "nächstes",
+    "gesetzt als nächstes habe ich eine Tasse Tee mit Milch",
+    56,
+    70,
+    4.62,
+    1
+   ],
+   [
+    "schreib",
+    "schreib mir in die Kommentare jetzt habe ich richtig Hunger",
+    205,
+    216,
+    4.16,
+    1
+   ],
+   [
+    "schützt",
+    "Umhang schützt meine Kleidung und dann",
+    73,
+    87,
+    4.16,
+    1
+   ],
+   [
+    "tasse",
+    "habe ich eine Tasse Tee mit Milch",
+    60,
+    70,
+    4.06,
+    1
+   ],
+   [
+    "abgenommen",
+    "abgenommen und aufgehängt dann habe ich mich auf meinen",
+    46,
+    57,
+    4.05,
+    1
+   ],
+   [
+    "folien",
+    "Folien benutzt und in meine Haare",
+    93,
+    104,
+    3.39,
+    1
+   ],
+   [
+    "klicke",
+    "klicke dieses Video bis bald tschüss",
+    219,
+    228,
+    3.37,
+    1
+   ],
+   [
+    "massiert",
+    "massiert und die Farbe ausgespült danach wurden meine Haare mit",
+    135,
+    151,
+    3.08,
+    1
+   ],
+   [
+    "gekämmt",
+    "gekämmt außerdem habe ich meine Spitzen",
+    153,
+    165,
+    2.66,
+    1
+   ],
+   [
+    "wellig",
+    "wellig geföhnt das gefällt mir gut wie styst du",
+    188,
+    200,
+    2.55,
+    1
+   ],
+   [
+    "kartoffelpuffer",
+    "Kartoffelpuffer wenn du sehen willst wie",
+    215,
+    228,
+    2.49,
+    1
+   ],
+   [
+    "ausgespült",
+    "ausgespült danach wurden meine Haare mit",
+    141,
+    151,
+    2.4,
+    1
+   ],
+   [
+    "eingewirkt",
+    "eingewirkt hat wurden meine Haare",
+    122,
+    132,
+    2.36,
+    1
+   ]
+  ],
   "tx": "hallo herzlich willkommen zu easy brezy German ich war heute morgen beim Friseur mein Friseur ist hier um die Ecke er ist nicht weit weg deswegen bin ich zum Friseur gelauf es war ziemlich kalt heute Morgen es war nur 4° zuerst wurde mir mein Mantel abgenommen und aufgehängt dann habe ich mich auf meinen Platz gesetzt als nächstes habe ich eine Tasse Tee mit Milch bekommen dann habe ich einen Umhang bekommen der Umhang schützt meine Kleidung und dann ging es los ich habe heute Strähnchen machen lassen die Friseurin hat Folien benutzt und in meine Haare gemacht beim Friseur wird normalerweise viel erzählt heute haben alle über Weihnachten erzählt denn bis Weihnachten ist es nicht mehr lange nachdem die Farbe eingewirkt hat wurden meine Haare gewaschen die Friseurin hat meinen Kopf massiert und die Farbe ausgespült danach wurden meine Haare mit einem Handtuch abgetrocknet und gekämmt außerdem habe ich meine Spitzen schneiden lassen meine Haare sind nicht wirklich kürzer geworden denn es wurde nur ein ganz kleines bisschen von den Spitzen abgeschnitten zum l wurden meine Haare geföhnt die Friseurin hat sie etwas wellig geföhnt das gefällt mir gut wie styst du am liebsten deine Haare gehst du manchmal zum Friseur was lässt du beim Friseur machen schreib mir in die Kommentare jetzt habe ich richtig Hunger bekommen ich mache jetzt Kartoffelpuffer wenn du sehen willst wie klicke dieses Video bis bald tschüss",
   "gist": "w",
   "status": "ok",
@@ -76650,7 +78302,7 @@
  "oFH4CaMKNUg": {
   "channel": "Easy Breezy German",
   "lang": "de",
-  "checked": "2026-11-17T02:15:48+00:00",
+  "checked": "2026-11-24T17:33:45+00:00",
   "title": "LEARN GERMAN with EASY DELICIOUS KARTOFFELPUFFER COOKING",
   "duration": 850,
   "published": "20241209",
@@ -76659,6 +78311,7 @@
   "pace": 62.5,
   "rare": 0.1151,
   "var": 0.7356,
+  "cl": null,
   "speech_s": 767.3,
   "tokens": 799,
   "kw": [
@@ -76820,6 +78473,88 @@
     777,
     787,
     2.64,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "müssen",
+    "müssen die Zwiebel schälle und dann",
+    303,
+    316,
+    5.78,
+    3
+   ],
+   [
+    "sehen",
+    "juhu ich habe es geschafft mal sehen ob",
+    276,
+    286,
+    5.69,
+    3
+   ],
+   [
+    "arm",
+    "aufpassen das ist ein ganz schönes Arm",
+    261,
+    269,
+    4.74,
+    2
+   ],
+   [
+    "nehme",
+    "Küchenpapier und gleich nehme ich die",
+    770,
+    778,
+    4.71,
+    2
+   ],
+   [
+    "benutze",
+    "wiegen dazu benutze ich meine Küchenwaage die",
+    100,
+    117,
+    4.01,
+    5
+   ],
+   [
+    "pfanne",
+    "Pfanne in die Pfanne habe ich Öl gegeben",
+    581,
+    591,
+    3.79,
+    5
+   ],
+   [
+    "schmeisse",
+    "",
+    0,
+    0,
+    3.04,
+    2
+   ],
+   [
+    "anzeigt",
+    "anzeigt hier auf der Anzeige ist nun die",
+    135,
+    144,
+    3.52,
+    1
+   ],
+   [
+    "eierschale",
+    "Eierschale die Eierschale kommt in den Müll jetzt",
+    475,
+    487,
+    2.17,
+    2
+   ],
+   [
+    "schäle",
+    "schälen ich schäle die",
+    44,
+    52,
+    2.06,
     2
    ]
   ],
