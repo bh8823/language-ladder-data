@@ -40164,7 +40164,7 @@
  "j2WCwLrnheA": {
   "channel": "German Stories for Beginners",
   "lang": "de",
-  "checked": "2026-11-12T03:26:53+00:00",
+  "checked": "2026-11-25T17:16:35+00:00",
   "title": "How to Negotiate Prices in German | Simple A1 Flea Market Story",
   "duration": 899,
   "published": "20260626",
@@ -40173,6 +40173,7 @@
   "pace": 93.7,
   "rare": 0.1087,
   "var": 0.6028,
+  "cl": null,
   "speech_s": 730.7,
   "tokens": 1141,
   "kw": [
@@ -40334,6 +40335,88 @@
     251,
     261,
     2.93,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "buch",
+    "nehme ein Buch in die Hand.",
+    83,
+    88,
+    5.22,
+    9
+   ],
+   [
+    "preis",
+    "Preis. The seller tells the price.",
+    195,
+    203,
+    5.16,
+    9
+   ],
+   [
+    "kleidung",
+    "Ich entdecke einen Stand mit Kleidung. I",
+    144,
+    150,
+    4.46,
+    6
+   ],
+   [
+    "freundlich",
+    "lächelt freundlich. The seller smiles kindly.",
+    244,
+    252,
+    4.44,
+    6
+   ],
+   [
+    "betrachte",
+    "Ich betrachte die Schallplatten auf dem",
+    130,
+    135,
+    3.7,
+    6
+   ],
+   [
+    "look",
+    "I look at the records on the table.",
+    134,
+    143,
+    4.06,
+    4
+   ],
+   [
+    "hemden",
+    "Ich sehe Jacken, Hemden, Hosen und",
+    154,
+    158,
+    3.57,
+    3
+   ],
+   [
+    "einkäufe",
+    "lächle zufrieden über meine Einkäufe. Ich lächle zufrieden über meine",
+    427,
+    441,
+    3.51,
+    3
+   ],
+   [
+    "erinnerungsfoto",
+    "Tasche. Ich mache ein Erinnerungsfoto vom Flohmarkt.",
+    451,
+    458,
+    2.24,
+    3
+   ],
+   [
+    "blättere",
+    "blättere durch die Seiten des Buches.",
+    92,
+    98,
+    2.16,
     3
    ]
   ],
@@ -40823,7 +40906,7 @@
  "y4FvsGRduAM": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-12T03:42:58+00:00",
+  "checked": "2026-11-25T17:05:29+00:00",
   "title": "We Want to Meet German Learners Around the World",
   "duration": 146,
   "published": "20260715",
@@ -40832,6 +40915,7 @@
   "pace": 153.0,
   "rare": 0.048,
   "var": 0.7836,
+  "cl": null,
   "speech_s": 147.0,
   "tokens": 375,
   "kw": [
@@ -40946,6 +41030,128 @@
     6,
     2.81,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "zwar",
+    "euch zu besuchen und zwar bei euch zu",
+    12,
+    18,
+    5.52,
+    3
+   ],
+   [
+    "vielleicht",
+    "euch zu essen, vielleicht bei euch zu",
+    22,
+    27,
+    5.72,
+    2
+   ],
+   [
+    "dauert",
+    "ob das vier Wochen dauert, ob das vier",
+    112,
+    118,
+    4.68,
+    2
+   ],
+   [
+    "eurer",
+    "Das alles könnte passieren mit eurer",
+    50,
+    57,
+    4.32,
+    2
+   ],
+   [
+    "kulturellen",
+    "könnt uns auch zu einem kulturellen",
+    72,
+    77,
+    4.19,
+    1
+   ],
+   [
+    "bewerben",
+    "könnt ihr euch bewerben, um uns",
+    134,
+    139,
+    4.18,
+    1
+   ],
+   [
+    "irgendein",
+    "du irgendein Land, wo du unbedingt noch",
+    37,
+    41,
+    4.17,
+    1
+   ],
+   [
+    "leuchtturm",
+    "einem Leuchtturm übernachten, z.B. ",
+    97,
+    102,
+    3.56,
+    1
+   ],
+   [
+    "verrückter",
+    "interessante Geschichten, je verrückter, desto besser.",
+    92,
+    98,
+    3.42,
+    1
+   ],
+   [
+    "ciao",
+    "Bis bald in eurem Land. Ciao.",
+    142,
+    148,
+    3.39,
+    1
+   ],
+   [
+    "auffordern",
+    "Hilfe. Wir möchten euch auffordern, uns",
+    53,
+    59,
+    3.38,
+    1
+   ],
+   [
+    "uneigennützig",
+    "einzuladen, ganz uneigennützig. ",
+    56,
+    62,
+    2.73,
+    1
+   ],
+   [
+    "iglu",
+    "Iglu wär auch nett. Es kann wirklich alles sein. Wir würden",
+    101,
+    109,
+    2.63,
+    1
+   ],
+   [
+    "übernachtungsmöglichkeit",
+    "uns eine Übernachtungsmöglichkeit bieten. Ihr könnt sagen, ich lade euch",
+    66,
+    73,
+    2.39,
+    1
+   ],
+   [
+    "videoreihe",
+    "oder eine Videoreihe, die nur von eurem",
+    121,
+    128,
+    2.07,
+    1
    ]
   ],
   "tx": "Hallo, ich bin Kari. Und ich bin Matthias. Und wir beide, wir haben eine verrückte Idee, denn Matthias, wir lieben Reisen. Sehr sogar. Und wir wollen um die Welt reisen, um euch zu besuchen und zwar bei euch zu Hause. Was wollen wir bei den Leuten machen, Matthias? Also die verrückte Idee wäre ja, um alle in alle Kontinente zu reisen, um bei euch zu essen, vielleicht bei euch zu übernachten und in Wirklichkeit die besten Geschichten von unserer Community zu finden. Richtig, wir wollen die Welt kennenlernen und zwar mit euch, mit der Deutschlern-Community hier bei Easy German. Und Matthias, hast du irgendein Land, wo du unbedingt noch mal hin möchtest? Also zum ersten Mal voll gern nach Korea, z.B. Warst du noch nie? War ich noch nie. Ich würde sehr gerne mal nach Brasilien oder Kolumbien. Schön, sehr schön. Das alles könnte passieren mit eurer Hilfe. Wir möchten euch auffordern, uns einzuladen, ganz uneigennützig. Please. Bitte ladet uns ein. Und zwar könnt ihr verschiedene Anlässe wählen. Ihr könnt uns eine Übernachtungsmöglichkeit bieten. Ihr könnt sagen, ich lade euch zu einem typischen Abendessen ein. Ihr könnt uns auch zu einem kulturellen Event einladen. vielleicht. Wir kommen auch zu eurer Hochzeit. Und das Tolle ist, alles, was ihr machen müsst, ist einfach nur ihr sein, denn wir wollen eure echten Geschichten hören und es gibt keine Grenzen. Die Welt ist steht uns offen. Wir wollen einfach nur interessante Geschichten, je verrückter, desto besser. Ich würd voll gerne mal mit Kari in einem Leuchtturm übernachten, z.B. Sonst noch Wünsche, Matthias? Iglu wär auch nett. Es kann wirklich alles sein. Wir würden uns freuen, wenn ihr uns einladet. Alles ist noch offen. Wir wissen noch nicht, wann wir fahren, wie lange wir fahren, ob das vier Wochen dauert, ob das vier Monate dauert, denn alles hängt ab von euch. Das ist mal ein echtes Community-Projekt. Das ist ein Video oder eine Videoreihe, die nur von eurem Engagement und eurem Interesse abhängt. Deshalb ladet uns jetzt ein. Und ich kann es kaum erwarten, diese Geschichten zu lesen. Wir haben hier unten ein Formular, da könnt ihr euch bewerben, um uns einzuladen. Jetzt wird's windig, Matthias. Wir müssen los. Los geht's. Bis bald in eurem Land. Ciao.",
@@ -41980,7 +42186,7 @@
  "IWfznDk-rLc": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-12T04:44:16+00:00",
+  "checked": "2026-11-25T17:05:33+00:00",
   "title": "Learn German from the Streets of Cologne",
   "duration": 881,
   "published": "20260712",
@@ -41989,6 +42195,7 @@
   "pace": 163.5,
   "rare": 0.0473,
   "var": 0.8027,
+  "cl": null,
   "speech_s": 854.3,
   "tokens": 2328,
   "kw": [
@@ -42153,6 +42360,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "morgen",
+    "Äh, die hat morgen Geburtstag und äh wir",
+    174,
+    180,
+    5.43,
+    11
+   ],
+   [
+    "gerade",
+    "Ich gehe gerade zur Post, danach",
+    25,
+    30,
+    5.77,
+    10
+   ],
+   [
+    "süd",
+    "Ich bin jetzt morgen auf dem Süd Süd",
+    827,
+    833,
+    4.43,
+    4
+   ],
+   [
+    "cool",
+    "Sehr cool. Also, du kochst heute auch",
+    335,
+    338,
+    4.79,
+    3
+   ],
+   [
+    "spazieren",
+    "spazieren und sonst noch arbeiten, Homeoffice.",
+    27,
+    33,
+    3.99,
+    3
+   ],
+   [
+    "second",
+    "Second Dash hier nebenan und habe mir",
+    596,
+    601,
+    3.77,
+    3
+   ],
+   [
+    "kommunion",
+    "Kommunion. Und am Samstag muss ich dafür",
+    759,
+    764,
+    3.18,
+    2
+   ],
+   [
+    "kaufst",
+    "Warum kaufst du die Blumen? Ja, einfach so, Freitag für meine",
+    38,
+    43,
+    3.59,
+    1
+   ],
+   [
+    "rostet",
+    "rostet. Wer rastet, rostet. Sehr schön.",
+    824,
+    832,
+    2.73,
+    2
+   ],
+   [
+    "retreat",
+    "auf ein Retreat, um dort mich persönlich",
+    696,
+    701,
+    2.4,
+    2
+   ]
+  ],
   "tx": "Wir sind heute in Köln und Janosch, was wollen wir von den Leuten wissen? Wir wollen von den Leuten wissen, was sie heute noch vorhaben. Los geht's. Was haben Sie heute noch vor? Oh, ich muss zur Physio, einkaufen und kochen. Was kochen Sie heute? Äh, heute gibt es Schnitzel mit Pommes Frites und Salat. Ah, lecker. Ich gehe gerade zur Post, danach spazieren und sonst noch arbeiten, Homeoffice. Musst du bei der Post was abholen oder falls du was verschicken? Ich will was verschicken. Äh, ich treffe mich mit meiner Freundin noch. Wir wollen Wohnungsbesichtigung machen. Genau. Warum kaufst du … ist ein Kompliment. Vielen Dank. Bin ein polnischer Gentleman. Ah, aus Polen, schön. Äh, ich fahre jetzt mit dem Fahrrad nach Königswinter und dann wieder zurück. Wow, das ist äh eine ganz schöne Strecke, oder? Fahre ich äh jede Woche ein, zweimal. Und wie viel Kilometer sind das? 90. Insgesamt dann? Ja. Wow, sportlich. Wollte noch ein paar Geschenke kaufen und noch was essen gehen gleich. Was für Geschenke? Ähm, für seine Mutter, zum Muttertag in Luxemburg ist der jetzt diesen Sonntag, anders als in Deutschland. Und du wolltest noch paar so Mitbringsel, ne? Ja. Bist du schon eine Idee, was … Füße hochlegen. Ah, ja, das ist eine gute Zeit, um paar Bücher zu lesen, ja. Ich gehe gleich arbeiten. Wo arbeitest du? Bei RTL. Ah, deshalb. Und ähm, wie lange arbeitest du dann heute noch? Heute Nacht bis um 1. Okay, und was machst du da? Wir machen äh noch um 0 Uhr die Spätnachrichten, das Nachtjournal. Da bin ich äh Regieoperator und wir hoffen, dass es heute gute Nachrichten gibt und beenden damit die Arbeitswoche. Noch langer, langer Tag dann. Es geht. Äh, was habe ich denn noch vor? Ich feiere heute Geburtstag mit meiner Tochter. Ah, wie schön. Wie alt wird sie? Die ist gestern 12 … Pilates auch gerne. Gut. Und ich mache gerade einen relativ großen Einkauf für ein Event am Samstag, weil ich organisiere. Und warte jetzt gerade hier noch auf einen Freund, um hier jetzt das gleich das Fleisch abzuholen, irgendwie Geflügelwürstchen für den Grill. War gerade noch bei Kaufland, habe irgendwie 4 kg eingekauft. Du bereitest dich für das Wochenende vor. Genau. Ich habe irgendwie irgendwie auch heute dann so ein bisschen Aufbau von so so einer kleinen Bühne und für und Musikboxen und so ein Kram heute alles so ein bisschen vorbereiten. Hört sich gut an. Was habt ihr heute … ihr Übungen zu diesem und allen anderen Videos. Und ich weiß, als Anfänger kann das manchmal ein bisschen schwer sein und man weiß nicht so ganz, wo man anfangen soll, aber genau dafür können wir euch unsere Easy German Membership Plattform empfehlen. Denn bei uns findet ihr auch eine Struktur zum Lernen. Ihr könnt euer Niveau angeben oder auch nach einem bestimmten Thema suchen und wir schlagen euch dann Videos und Übungen passend dazu vor und ihr könnt wirklich Schritt für Schritt euer Deutsch verbessern. Probiert das doch einfach mal aus, geht auf easygerman.org/membership oder auch … Regen genießt. Sonst ist es oft so, ah, dieses Wetter schon wieder. man kann es ja eh nicht ändern, das Wetter, oder? Ja, das stimmt. Ich habe heute Morgen ganz schön eine Freundin getroffen, mit ihr gefrühstückt. Gerade habe ich mit einem Investor mich unterhalten und jetzt gehe ich ins nächste Meeting mit dem nächsten Investor. Wow, schon sehr produktiver Tag. Ja, die Zeit vor 9 Uhr habe ich jetzt nicht erzählt. Ich habe ähm unsere Katze zum Tierarzt gebracht. Und wieder abgeholt. Und? Alles so in Ordnung? Das werden wir sehen. Okay. Genau, das habe ich gemacht. Wäsche gewaschen. Ja. … ich gar nicht arbeiten, von daher ist es mein Chill-Tag. Voll schön. Wie wie meditierst du regelmäßig? Ich versuch's. Ja, also wenn ich Zeit habe, dann versuche ich das. Und was hast du bis jetzt schon gemacht heute? Ähm, heute wir waren eben ein Matcha trinken tatsächlich im Starbucks und ähm sonst ich habe ehrlicherweise echt lange geschlafen und äh jetzt sind wir seit kurzem erst unterwegs. Bis wann hast du geschlafen? Eigentlich ist mein Wecker um 9:30 Uhr angegangen, aber danach habe ich noch so bis 11:30 Uhr oder so weiter geschlafen. Ah, sehr gut, aber bist du ausgeschlafen oder? … was für mich zu tun und nicht für die Baustelle. Was denn für eine Baustelle, wenn ich fragen darf? Da ist ein undichter Abfluss, was dazu führt, dass der Dielenboden von der Terrasse rausgenommen werden muss und der Dachdecker muss nächste Woche kommen und den Abfluss sanieren. Oje, aber da läuft, also wird jetzt repariert. Ja. Hoffe ich. Und es ist ja heute Freitag. Was haben Sie am Wochenende vor? Also wir wollen jetzt sind wir noch am überlegen. Das Wetter ist ja nicht so besonders, aber morgen soll es schöner werden, dann gehen wir auch ein bisschen spazieren oder fahren ein bisschen … bin ich da mit Freunden unterwegs. Wir wollten in Köln bisschen ins Belgische Viertel gehen, wahrscheinlich in eine Bar. Das war so ein bisschen unsere Planung. Ist das so auch, was man typischerweise macht am Wochenende in Köln? Ah, ich würd schon sagen, dass viele erstmal in eine Bar gehen. Ein paar Leute gehen danach noch feiern oder nach Hause. Ja. Am Wochenende hat mein ältester Enkel Kommunion. Und am Samstag muss ich dafür mit vorbereiten. Wow, das heißt, jetzt sind Sie ganz schön hier. Jetzt erst Kindergartenfest, dann Kommunion. sieben Enkel von drei Kindern. Sieben? Sieben, … in Mannheim. Süd Süd Fest, was ist das? Das von Kimo, das ist ein Deutsch Rapper, der hat ein Festival in Mannheim. Von da bin ich. Cool. Ich werde kochen. Das Restaurant ist das ganze Wochenende offen, das heißt, ich werde auch morgen wieder Knollensellerie Spieße machen und abends dann kochen, genau. Okay, und jetzt schnell rein. Danke euch. Janosch, wie war dein Tag in Köln heute? Fantastisch, einfach fantastisch, gemütlich und interessant und farbvoll und toll. Jetzt wollen wir von euch wissen, was habt ihr heute noch vor? Schreibt uns unten einen Kommentar. Bis zum nächsten Mal. Ciao.",
   "gist": "s",
   "status": "ok",
@@ -42161,7 +42450,7 @@
  "OSdTfSCZxMc": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-12T04:58:00+00:00",
+  "checked": "2026-11-25T17:10:43+00:00",
   "title": "Mia FLIEHT nach Deutschland!",
   "duration": 588,
   "published": "20260806",
@@ -42170,6 +42459,7 @@
   "pace": 171.1,
   "rare": 0.0564,
   "var": 0.8011,
+  "cl": null,
   "speech_s": 510.1,
   "tokens": 1455,
   "kw": [
@@ -42332,6 +42622,88 @@
     496,
     2.49,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "euch",
+    "Doch, ich bin euch egal! Und ich dachte, wir wären wie eine Familie!",
+    123,
+    129,
+    5.71,
+    8
+   ],
+   [
+    "vater",
+    "Dein Vater hat uns Geld versprochen, Mia!",
+    62,
+    65,
+    5.21,
+    7
+   ],
+   [
+    "mama",
+    "Da passt sogar deine Mama durch!",
+    157,
+    160,
+    4.68,
+    3
+   ],
+   [
+    "brauche",
+    "Aber dafür brauche ich mein Handy!",
+    242,
+    245,
+    4.76,
+    2
+   ],
+   [
+    "aufhalten",
+    "Das wird mich nicht aufhalten! Beeil dich, Ali!",
+    108,
+    112,
+    4.11,
+    3
+   ],
+   [
+    "steh",
+    "Steh sofort auf, Ali! Ich habe es echt geschafft!",
+    405,
+    410,
+    4.1,
+    3
+   ],
+   [
+    "wolltet",
+    "Ihr wolltet nur Geld mit mir verdienen!",
+    119,
+    123,
+    3.3,
+    2
+   ],
+   [
+    "verlasse",
+    "Nein! Ich verlasse dieses Dorf! Aber dann bekommen Hatice und Ali das Geld nicht!",
+    519,
+    526,
+    3.52,
+    1
+   ],
+   [
+    "mias",
+    "Leg Mias Handy weg! Sie ist ein 16 jähriges Mädchen!",
+    249,
+    254,
+    2.37,
+    2
+   ],
+   [
+    "änderst",
+    "Wir bekommen 2000 Euro von Paul, wenn du dein Verhalten änderst!",
+    65,
+    70,
+    2.93,
+    1
    ]
   ],
   "tx": "Ich werde nach Deutschland abhauen! Mia, was war das? Oh nein! Ich komme rein! Was machst du hier, Mia? Äh, ich wollte jetzt schlafen! Ich werde gleich abhauen! Gut, wir haben schon 18 Uhr! Boah, schon so spät! Gute Nacht, Hatice! Was hast du mit dem Koffer vor? Äh, gar nichts! Al! Wir brauchen Bretter! Bretter? Du willst nach Deutschland abhauen! Das stimmt doch gar nicht! Lüg nicht, Mia! Du hast deinen Koffer versteckt! Äh, er wollte nur kuscheln! Ich lasse dich nicht nach Deutschland! Ich hasse es hier, Hatice! Was? Ich habe die Bretter! Warte mal, Ali! Du hasst es hier, Mia? Ja! Ich will … Dein Vater hat uns Geld versprochen, Mia! Was? Wir bekommen 2000 Euro von Paul, wenn du dein Verhalten änderst! Ihr macht das nur für Geld? Wir sind arm, Mia! Wir brauchen das Geld! Ich kann es nicht glauben! Du musst also dein Verhalten ändern! Ja, sonst bekommen wir kein Geld! Wo ist mein Vater gerade? Ist er hier in der Türkei? Paul ist in der Nähe! Was ist hier los, Alter? Du hättest es nicht sagen sollen, Hatice! Sag mir, wo genau mein Vater ist, Hatice! Er macht Urlaub am Strand! Ich verstehe.. Bist du okay, Mia? Ja, mir geht es sehr gut! Na warte, Vater! Mach die Bretter dran, Ali! … bitte? Ihr wolltet nur Geld mit mir verdienen! Das stimmt nicht, Mia! Doch, ich bin euch egal! Und ich dachte, wir wären wie eine Familie! Aber wir sind eine Familie, Mia.. Verschwinde, Hatice! Was willst du, Ali? Ich muss die Bretter vor das Fenster machen! Dann kannst du nicht abhauen! Ich habe doch gesagt, dass die Bretter mich nicht aufhalten werden! Wir brauchen das Geld, Mia! Das juckt mich nicht, Ali! Ihr geht mir alle am Popo vorbei! Du wirst dieses Haus nicht verlassen! Lass los! Bist du endlich fertig? So, hier kommst du nicht mehr raus! Da passt sogar deine Mama durch! Du gibst … du, dass mein Vater euch Geld geben will? Also wenn ich mein Verhalten verbessere.. Mia.. Also wusstest du davon! Es tut mir leid, Mia! Ich dachte, ihr wollt mir helfen, weil ihr mich mögt! Hm.. Aber ihr wolltet nur das Geld! Wir sind arm Mia! Wir brauchen Geld! Das ist mir doch egal! Ich weiß nicht, was ich sagen soll! Redest du noch mit mir, Mia? Nö! Was schreibst du da? Einen Brief! Und an wen schreibst du den? Das geht dich gar nichts an! Und was schreibst du in den Brief? Das geht dich auch nichts an! Ich verstehe.. So, ich bin fertig! Kannst du mir jemals verzeihen? Du solltest … du den Brief sehen, Elif! Mach es gut! Das habe ich mir schon gedacht! Hier ist auch alles versperrt! Das wird schwierig werden! Ich habe eine Idee! Aber dafür brauche ich mein Handy! Ich muss es zurückholen! Mia hat interessante Bilder auf ihrem Handy! Leg Mias Handy weg! Sie ist ein 16 jähriges Mädchen! Nein, du verstehst das nicht! Ich bin verstört von den Bildern! Hä? Was sind das denn für Bilder? Mia steht in der Toilette! Oh mein Gott! Es gibt auch ein Video! Ich liebe dich, Gustav! Leg jetzt das Handy weg! Dieses Bild ist auch krank! Welches? Das ist das Schlafzimmer von Ali und … euch reden! Das ist Mia! Sie hat uns Mama und Papa genannt! Was willst du, Mia! Darf ich reinkommen? Ich muss dringend mit euch reden! Äh, ja! Komm rein! Leg schnell Mias Handy weg, Ali! Danke, ich komme jetzt rein! Alles läuft nach Plan! Da ist mein Handy! Was willst du, Mia? Ich möchte mich entschuldigen! Und für was? Weil ich euch hasse! Ähm, weil ich mich sehr schlecht benommen habe! Ja, das hast du wirklich! Bekomme ich mein Handy zurück? Hm, ich weiß nicht! Was denkst du, Ali? Wirst du dein Verhalten jetzt ändern? Ja, dann bekommt ihr euer Geld! Ich hasse euch so sehr! Gut, du kannst … Ja, warum? Geh schnell ins Badezimmer! Aber was soll ich da? Jetzt tu, was ich sage! Äh ja! Vielleicht waren wir zu streng zu Mia! Sie ist eigentlich ein nettes Mädchen! Ja, und ich mache das nicht nur wegen des Geldes! Du magst sie wirklich, oder? Ja, sie ist wie meine Tochter geworden! Morgen gehe ich mit ihr shoppen! Ich bin jetzt im Badezimmer! Sind Bretter auf der Toilette? Äh, nein! Was ist dein Plan, Chatti? Hehehe! Na was wohl.. Ich geh jetzt zu Mia! Warum? Ich will mich auch bei ihr entschuldigen! Okay, gute Idee! Ich hasse dich, Chatti! Aber die Idee ist gut! Deutschland, … Mädchen ist doch krank! Steh auf! Wir müssen Mia aufhalten! Das war echt eklig, Alter! Aber jetzt bin ich frei! Moment Mal! Ich habe meinen Koffer vergessen! Soll ich zurückgehen? Nein, das geht jetzt nicht mehr! Ich muss meinen Vater finden! Wir müssen sie finden! Ja, sonst bekommen wir kein Geld! Mia könnte auch etwas passieren! Äh, ja! Das auch.. Komm, wir müssen sie finden! Ich werde dieses Dorf nicht vermissen! Was machst du hier, Mia? Ich haue ab, Burak! Du verlässt das Dorf? Ja, ich wurde von allen angelogen! Mein Herz tut so weh! Aber was ist mit uns, Mia? Was soll mit uns sein? … Lebe wohl, mein Engel! Mia muss hier gewesen sein! In diesen Teich fließt das Abewasser! Echt? Ich bade hier manchmal! Lauf weiter, du Ekliger! Da ist der Ausgang des Dorfes! Kannst du mich durchlassen, Merve? Oh! Hallo, Mia! Wohin willst du denn? Äh, ich will spazieren gehen! Es ist schon spät! Das ist gefährlich! Wir haben erst 19 Uhr, Alter! Was? Ich bringe dich sofort nach Hause! Was mache ich denn jetzt? Steh sofort wieder auf! Warum ist hier Wasser? Das war bestimmt Mia! Komm schnell! Geh aus dem Weg Merve!, Nein! Weiß Hatice, dass du hier bist? Nein! Ich verlasse dieses Dorf! Aber … Ich bin nicht eure Gefangene! Was? Ich bin ein freier Mensch! Was tue ich gerade? Wir machen das Richtige, Hatice! Ihr dürft mich nicht zwingen, hier zu bleiben! Geh, Mia! Was? Nein, Hatice! Denk an das Geld! Wir sind gute Menschen, Ali! Dein Vater ist im Hotel \"DV Sun\"! Danke, Hatice! Wach sofort auf! Salatpudding! Mia, was machst du hier? Ich habe mein Verhalten geändert! Echt? Ja, lass uns nach Hause fliegen! Hä? Was ist passiert? Wo ist Mia? Oh, das ist ein Brief von ihr! Ich liebe dich, Mia! Schreibt in die Kommentare, ob ihr es schön fandet und klickt gerne auf dieses Video von mir!",
@@ -42606,7 +42978,7 @@
  "J-ug8m3HJz4": {
   "channel": "Caillou Deutsch",
   "lang": "de",
-  "checked": "2026-11-12T05:05:15+00:00",
+  "checked": "2026-11-25T17:14:11+00:00",
   "title": "Caillou in der Autowaschanlage 🚗🫧| Cartoons voor kinderen | Caillou auf Deutsch",
   "duration": 1356,
   "published": "20260524",
@@ -42615,6 +42987,7 @@
   "pace": 121.3,
   "rare": 0.0848,
   "var": 0.8343,
+  "cl": null,
   "speech_s": 1061.0,
   "tokens": 2145,
   "kw": [
@@ -42777,6 +43150,88 @@
     686,
     2.79,
     4
+   ]
+  ],
+  "kx": [
+   [
+    "ins",
+    "gehen. Komm, Rosy, du musst ins Bett.",
+    464,
+    470,
+    5.68,
+    8
+   ],
+   [
+    "gute",
+    "wir haben ein paar gute Freunde zum",
+    972,
+    976,
+    5.61,
+    8
+   ],
+   [
+    "waschen",
+    "ihr müsst euch beide waschen. Kou,",
+    82,
+    89,
+    4.2,
+    5
+   ],
+   [
+    "hunger",
+    "Sonst hast du keinen Hunger mehr, wenn",
+    728,
+    733,
+    4.46,
+    4
+   ],
+   [
+    "hase",
+    "Nein, mein Hase, nicht heute Abend.",
+    901,
+    906,
+    3.8,
+    3
+   ],
+   [
+    "atlas",
+    "Ja, und zwar ein Atlas mit vielen",
+    278,
+    284,
+    3.73,
+    3
+   ],
+   [
+    "eichhörnchen",
+    "hungrige Eichhörnchen zu unserem Picknick.",
+    810,
+    816,
+    3.57,
+    3
+   ],
+   [
+    "palme",
+    "ist eine Palme. Und da ist auch eine Palme.",
+    306,
+    315,
+    3.51,
+    3
+   ],
+   [
+    "höcker",
+    "nämlich zwei Höcker. Stimmt genau, Kill. Und das da hinten",
+    301,
+    310,
+    2.96,
+    3
+   ],
+   [
+    "aufbleiben",
+    "aufbleiben und runter zur Party gehen.",
+    1049,
+    1055,
+    2.57,
+    3
    ]
   ],
   "tx": "Du wirst langsam ein großer Junge. Ich bin schon groß und vier. Komm doch und spiel mit mir. Ich lade dich ein. Ich bin Kaju. Groß ist die Welt und schön. Es gibt so viel zu sehen, viel zu entdecken mit Ku. Was ihr hier seht, ist spannend und neu und Mami und Papi sind immer dabei. Wir spielen jeden Tag und was ich mal nicht mag, ist schnell vergessen bei ku. Spiel doch mit. Kaju in der Waschstraße. Siehst du, Ros? Ich habe ein lustiges Gesicht gemalt. Was treibt ihr beide da? Rosy, du bist ja ganz dreckig. Und Kaju, du solltest das doch wissen. Ich bin aber nicht dreckig, Papi. Siehst du nur … Waschstraße zu fahren. Aber die Waschstraße für Autos fand Kaju natürlich am allerbesten. Also gut, dann aber Dalli, Dalli, auf zur Waschstraße. Ja, Rosi, auch. Du siehst aus, als solltest du auch in eine Waschanlage. Komm hier, ich ziehe dir schnell was sauberes an. So, fertig. Das Autowaschen wird dir gefallen, Rosy. Rosy war noch nie in einer Autowaschstraße. Darum wusste sie auch nicht, was dort passiert. Rosy, beil dich. K mit seinem Vater schon ein paar mal durch eine Waschstraße gefahren. Deshalb wusste er auch, wie spannend das ist. Das wird lustig. Da gibt es ganz viel Schaum und … waren heute Abend ausgegangen und Rosie und Cayu freuten sich sehr, dass Julie als Babysitterin da war und auf sie aufpasste. Hat euch die Geschichte gefallen? Ja. Und jetzt spielen wir was. Mach das auf und sieh nach. Ich habe nämlich noch etwas ganz besonderes mitgebracht. Was denn, Julie? Da ist ja noch ein Buch. Ja, und zwar ein Atlas mit vielen Bildern von weit entfernten Ländern. Was ist das? Das ist eine Wüste und diese riesigen Sandhaufen nennt man Sanddühnen. Sand, Sand, Sand. Da würde ich gerne mal hingehen. Das da, das ist ein Kamel. Siehst du, das hat nämlich zwei Höcker. … Forscher durch die Wüste zu führen. Er kam sich sehr tapfer vor, wie ein Abenteurer. Die Sonne ist aber furchtbar heiß in dieser Wüste. Folg mir. Hier ist eine Palme. Ist ja klasse. Komm schnell, Rosy, wir setzen uns in den Schatten. Ich glaube, nach dieser langen Reise wird es langsam Zeit, dass die hungrigen Forscher etwas essen. Eine Oase ist ein kühler, schattiger Ort in der Wüste. Forscher finden dort Palmen und Wasser und Nahrung. Guck mal, hier stehen noch mehr Palmen. Ja, und was für schöne! Du hast einen perfekten Platz für unsere Wüstenoase ausgesucht, Kai. Oh, ich glaube, für … Gipfel gestürmt. Das muss gefeiert werden. Ja, hier haben wir eine Fahne, genauso wie auf dem Bild. H, ich glaube, jetzt hat sich Kaju, der müde Forscher, ein warmes Bart verdient. Oh, ich möchte noch etwas anderes spielen. K wollte jetzt noch nicht ins Bett gehen. Es gab doch noch so viele fremde Orte zu entdecken. Ach, jetzt komm, Ku. Aber ich will jetzt noch nicht in die Badewanne. Was? Du hast keine Lust, diesen dampfenden tropischen Dschungel zu erforschen? Ein Dschungel? Sieh mal da, da ist ein Fluss. Willst du eine Flussfahrt machen, Kau? Ja. Wow. Was ist denn das da drüben? Das … Das extra Spezialsandwich. Cou half seiner Mutter dabei, ein Picknick vorzubereiten. Lecker. Sie wollten nämlich heute mit Clementine und ihrer Mami ein Picknick veranstalten. Ich glaube, jetzt haben wir genug. Selleri Kaju, hast du Lust, die Fruchttörtchen zu dekorieren? Ja, gern, Mami. Guck mal, Mami. Ich mache das hier besonders schön für Clementine. Ich mache ein Gesicht. Kajo, du verdirbst dir dein Appetit, wenn du so viel naschst. Nein, tue ich nicht. Ups. Geh weit. Jetzt ist aber wirklich Schluss, Kaju. Sonst hast du keinen Hunger mehr, wenn wir picknicken. Clementine, guck mal, … wir. Ich glaube, nachher kommen noch zwei hungrige Eichhörnchen zu unserem Picknick. Mami, da jetzt seht euch das an. Das Eichhörnchen sammelt Nüsse für den Winter. Warum hat es so dicke Backen? Es sammelt die Nüsse in seinen Backen und dann bringt es die Nüsse nach Hause und hebt sie für den Winter auf. Ist jemand zu Hause? Wollt ihr mal das Eichhörnchenhaus sehen? Schnell, die Luft ist rein. Ja. Kayu war erstaunt, als er sah, wie viele Nüsse und Eicheln die Eichhörnchen schon gesammelt hatten. Ich habe Hunger, Mami. Ich habe auch Hunger. Das schmeckt lecker. Und das habe ich für dich … sein. K fühlte sich ausgeschlossen. Die Erwachsenen feiern eine Party und er darf nicht dabei sein. So, ich glaube, jetzt haben wir alles, was wir für die Party brauchen. Was meinst du? Ja, Papi, aber irgendwie habe ich das Gefühl, dass wir etwas Wichtiges vergessen haben. H Was könnte das nur sein? Ich weiß, Mami wollte noch Blumen haben. Das war's. Möchtest du die Blumen aussuchen, Kaju? Wie wä es mit diesem hier? Ja, die wird Mami mögen. Ja, glaube ich auch. Sie möchte, dass heute Abend alles schön aussieht, wenn die Gäste kommen. Und wer kommt alles, Papi, wir haben ein paar gute … Na, mach schon, Kaju. Zieh dein Pyjama an, bitte. Ich will aber nicht. Na, wie geht's euch denn? Kayu will sein Pyjama nicht anziehen. Er möchte lieber aufbleiben und runter zur Party gehen. Kand es unmöglich, dass er von der Party ausgeschlossen war. Ich mach dir einen Vorschlag. Wenn du dein Pyjama anziehst, dann darfst du mit runterkommen und den Gästen gute Nacht sagen. Okay. Okay. Mami, Kaju möchte euch allen gute Nacht sagen. Hast du gehört, du sollst Gute Nacht sagen? Gute Nacht. So, und jetzt gehst du brav ins Bett, K. Also, und du schläfst jetzt ganz schnell ein Kaju ein. … doch meinen kleinen Dino vergessen. Mami, spielt ihr auch schöne Spiele auf eurer Party? Was für Spiele könnten wir denn spielen? Gesichter anmalen. Das wäre lustig. Meinst du nicht auch? Also Kaju, jetzt musst du aber wirklich endlich schlafen. Ich meine es ernst. Ist gut, Mami. Also dann bis morgen früh, mein Hase. Gute Nacht. Du siehst ganz verschlafen aus, Kaju. Das hast du nun davon, wenn du so lange aufbleibst. Guck mal, jetzt bin ich gar nicht mehr verschlafen. Kann ich heute Abend wieder so lange aufbleiben? Nein, Hase, ich glaube heute Abend gehen wir alle sehr früh ins Bett. du duту",
@@ -44727,7 +45182,7 @@
  "cvmFZe-LdOY": {
   "channel": "Deutsch mit Marija",
   "lang": "de",
-  "checked": "2026-11-12T06:08:29+00:00",
+  "checked": "2026-11-25T17:07:29+00:00",
   "title": "Warum TEKAMOLO nicht hilfreich ist [Video aus dem Archiv]",
   "duration": 577,
   "published": "20251102",
@@ -44736,6 +45191,7 @@
   "pace": 140.1,
   "rare": 0.0645,
   "var": 0.7965,
+  "cl": null,
   "speech_s": 577.9,
   "tokens": 1349,
   "kw": [
@@ -44898,6 +45354,88 @@
     38,
     2.77,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "gehe",
+    "sagen ich gehe in die Stadt wir sagen",
+    49,
+    58,
+    4.95,
+    9
+   ],
+   [
+    "sagen",
+    "sagen ich gehe in die Stadt wir sagen",
+    49,
+    58,
+    5.68,
+    8
+   ],
+   [
+    "sage",
+    "tekamolo dabei zu entscheiden was sage",
+    153,
+    160,
+    4.78,
+    3
+   ],
+   [
+    "brauche",
+    "Winterjacke brauche okay dann hörst du",
+    338,
+    344,
+    4.76,
+    3
+   ],
+   [
+    "übersetzer",
+    "Übersetzer nutzen so wiee diepel.com z.B",
+    500,
+    509,
+    4.02,
+    2
+   ],
+   [
+    "benutze",
+    "einen Satz packen möchte dann benutze",
+    122,
+    128,
+    4.01,
+    2
+   ],
+   [
+    "rumänisch",
+    "war rumänisch und da habe ich das",
+    435,
+    440,
+    3.01,
+    2
+   ],
+   [
+    "gesprächspartner",
+    "wahrscheinlich dein Gesprächspartner eingeschlafen",
+    189,
+    195,
+    3.59,
+    1
+   ],
+   [
+    "translate",
+    "Google Translate falls ihr mein allererstes Video auf diesem Kanal nicht",
+    514,
+    522,
+    2.83,
+    2
+   ],
+   [
+    "allererstes",
+    "allererstes Video auf diesem Kanal nicht",
+    516,
+    522,
+    2.82,
+    2
    ]
   ],
   "tx": "hallo meine Lieben da bin ich wieder heute geht es weiter um die typischen Fehler die die meisten Deutschlernenden machen egal auf welchem Niveau sie sind ich arbeite meistens mit B2 C1 und C2 in unseren Kursen deswegen habe ich viele Beispiele aus diesen Niveaus aber es kann sein dass du auf Niveau B1 bist und die Fehler dir trotzdem bekannt vorkommen also letztes Mal hatten wir über Deklination gesprochen heute sprechen wir über Satzbau was bedeutet Satzbau es bedeutet die Reihenfolge der Wörter im Satz jeder der Deutsch gelernt hat in einem Kurs hat wahrscheinlich gelernt das Verb ist auf … Wortfolge da ist es nicht so wichtig da ist es egal ob du sagst ich gehe ich gehe in die Stadt oder ich in die Stadt gehe aber in Deutsch ist es leider relativ fix also relativ stabil sind die Konstruktionen wir müssen uns merken z.B dass wir das WB an die erste Position stellen wenn wir eine Frage formulieren gehst du mit mir ins Kino außer wir haben ein Fragewort dann sagen wir sowas wie wann gehst du mit mir ins Kino und so weiter genau es wird natürlich also am Anfang ist es schön und einfach man merkt sich das Verb ist in der zweiten Position und dann kommen Sachen dazu wie tekamolo was … es ist nämlich die Reihenfolge wann benutze ich z.B tcamolo t ist Tempos also oder temporale Ergänzungen temporal bedeutet mit Zeit und das ist etwas wie gestern oder vor zwei Wochen K ist kausal also bedeutet das der Grund warum etwas passiert ist und so weiter das heißt wenn ich einen super langen Satz habe dann hilft mir tekamolo dabei zu entscheiden was sage ich zuerst sage ich zuerst vor zwei Wochen oder sage ich zuerst mit meiner Freundin oder was was kommt wohin das Problem mit tekamolo ist in den allermeisten Fällen haben wir keine Zeit vor allem wenn wir sprechen wir wir können … dann ist wahrscheinlich dein Gesprächspartner eingeschlafen oder hat keine Geduld gehabt und ist nach Hause gegangen was also kann man machen ich empfehle was den Satzbau angeht tatsächlich möglichst viel zu lesen zu hören und zu üben es ist nämlich so wenn du alle Regeln auswendig kannst du weißt wann das WB an welcher Stelle ist dann brauchst Du immer diese zusätzliche Zeit um in deinem Geiste also im im Kopf diese Tabellen hervorzurufen und nachzudenken okay es ist ein Aussagesatz also Werb an zweiter Stelle und so weiter beim Schreiben kann das noch klappen aber beim Sprechen hast … wenn Du sicher bist es ist ein richtiger Satz und du bist noch auf Niveau weiß ich nicht A2 z.B oder B1 lerne ganze Sätze du wirst später viel weniger Probleme mit dem Satzbau haben weil du vielleicht die Regel nicht unbedingt parat hast du wirst denken oh wie war das wie macht man das richtig aber du wirst fertige Sätze im Kopf haben z.B sowas wie ich gehe morgen Abend ins Kino wenn du diesen Satz in deinem Gedächtnis gespeichert hast ich weiß nicht wieso ich heute die ganze Zeit so mache ja dann kannst du analog zu diesem Satz also ähnlich wie diesen Satz kannst du viele andere … Sätze zu bauen und dann vielleicht wenn du viel Zeit hast und große Lust hast Grammatik zu lernen kannst du auch die Strukturen anschauen und dir typische Wortfolgen merken die meisten machen das so weil es in den Kursen so unterrichtet wird dass du z.B lernst okay je nachdem welche Konjunktion das ist z.B weil nach weil haben wir die umgekehrte Wortfolge also ich gehe in die Stadt weil ich eine neue Winterjacke brauche okay dann hörst du Muttersprachler die sagen ich gehe in die Stadt weil ich brauche eine neue Winterjacke und du denkst ha was ist hier passiert es ist falsch aber Die … dass du Zeitungen liest Zeitschriften dass du irgendwelche Dokumentarfilme anschaust sei vorsichtig bei z.B muttersprachlichen Youtubern die ich empfehle euch ja immer wieder schaut fitnessvos schaut Kochvideos ja damit lernt ihr die Umgangssprache gut aber es gibt durchus Sachen wie z.B die Wortfolge ist nicht richtig weil sie so sprechen wie Muttersprachler sprchen und nicht ich gehe in die Stadt weil ich eine Winterjacke brauche so ist es also Satzbau ist tatsächlich leichter zu lernen mit Analogien also dass du dir komplette Sätze merkst und nicht die Regeln wie man einen Satz baut … danch lerne komplette Sätze und bilde dann neue Sätze analog zu dem was du gelernt hast ich habe das muss überlegen von den Sprachen die ich gelernt habe das was ich eher so nicht systematisch und intuitiv gelernt habe war rumänisch und da habe ich das genauso gemacht ich habe zuerst die ganzen Sätze gelernt und dann später wenn ich tiefer in die Grammatik eingestiegen bin habe ich angefangen zu analysieren und zu überlegen aha okay dieser Satz ist jetzt so aufgebaut weil zuerst das Werb kommt und dann irgendwas und so weiter ich hatte euch glaube ich mehrmals die Geschichte erzählt es … sammle gerne Pilze im platch collect und jedes Mal wenn ich mit meinen exschwiegereltern gesprochen habe also jetzt Ex damals nicht dann haben sie gesagt ach schön du sammelst gerne Pilze und ich so nein ich habe das nur gesagt um me rumänisch zu üben also es war lustig deswegen versucht Sätze zu lernen die für euch tatsächlich relevant sind ihr könnt notfalls meinetwegen auch die Übersetzer nutzen so wiee diepel.com z.B Diebel sowie Dieb auf Englisch d l.com ist ein guter Übersetzer ist auf jeden Fall besser als Google Translate falls ihr mein allererstes Video auf diesem Kanal nicht … Jahren gesagt ich bin immer noch der Meinung sorry Google ja aber es ist so und nächstes mal sprechen wir über die dritte Kategorie von Fehlern die man vermeiden könnte wenn man sich konzentriert und wenn man ein paar Tricks anwendet von denen ich dir gerade erzählt habe was den Satzbau betrifft wenn du mein Video zu Deklination nicht gesehen hast also typische Fehler die Deklination betreffen findest du es irgendwo hier verlinkt und nächstes Mal geht es um Kohärenz und nein es ist keine Krankheit es ist auch was sehr sinnvolles darüber erzähle ich nächstes Mal also bis dann ciao ciao",
@@ -45172,7 +45710,7 @@
  "zMxN6Mk6Lws": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-12T06:15:14+00:00",
+  "checked": "2026-11-25T17:09:59+00:00",
   "title": "Kaffeeklatsch: YouTube Journey / Advanced German Comprehensible B2-C1 Input with subtitles",
   "duration": 851,
   "published": "20260412",
@@ -45181,6 +45719,7 @@
   "pace": 101.4,
   "rare": 0.0461,
   "var": 0.8327,
+  "cl": null,
   "speech_s": 834.7,
   "tokens": 1411,
   "kw": [
@@ -45321,6 +45860,112 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "natürlich",
+    "Lernerinnen gedacht. Natürlich könnt ihr auch gerne versuchen, dieses Video zu",
+    78,
+    88,
+    5.62,
+    7
+   ],
+   [
+    "könnten",
+    "Kanal verdienen könnten. Die Wahrheit liegt ungefähr in der Mitte zwischen",
+    416,
+    426,
+    5.18,
+    7
+   ],
+   [
+    "publikum",
+    "Publikum wächst, wie gut das hier zu",
+    281,
+    289,
+    4.61,
+    3
+   ],
+   [
+    "german",
+    "Chill German. ",
+    7,
+    13,
+    4.49,
+    3
+   ],
+   [
+    "ausgegangen",
+    "ausgegangen, dass wir ganz ganz lange",
+    394,
+    400,
+    4.19,
+    1
+   ],
+   [
+    "kennengelernt",
+    "wann ihr uns kennengelernt habt oder ob",
+    616,
+    626,
+    4.18,
+    1
+   ],
+   [
+    "aufpassen",
+    "aufpassen und mit meinem Fuß den",
+    208,
+    217,
+    4.15,
+    1
+   ],
+   [
+    "monatlich",
+    "und geben uns insgesamt monatlich noch",
+    454,
+    465,
+    4.15,
+    1
+   ],
+   [
+    "herunterladen",
+    "herunterladen mit Fragen über dieses Video und",
+    109,
+    120,
+    3.55,
+    1
+   ],
+   [
+    "equipment",
+    "irgendwann neues Equipment zu kaufen. So haben wir z.B. diese Kamera bezahlt,",
+    479,
+    490,
+    3.53,
+    1
+   ],
+   [
+    "durchgemacht",
+    "alle durchgemacht haben? Findet ihr sie",
+    748,
+    753,
+    3.52,
+    1
+   ],
+   [
+    "kaffeeklatsch",
+    "Ein Kaffeeklatsch ist ein deutsches Wort für ein Treffen",
+    42,
+    53,
+    2.46,
+    3
+   ],
+   [
+    "monatliches",
+    "liegt unser monatliches Einkommen auf diesem Kanal hier auf YouTube bei",
+    432,
+    446,
+    2.86,
+    1
+   ]
+  ],
   "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam und in diesem Video spreche ich nicht langsam, aber ihr lernt trotzdem schnell. Willkommen zum Kaffee Clutch mit Jam. Das ist eine neue Serie von Videos, die wir hier auf diesem Kanal machen möchten. Ein Kaffeeklatsch ist ein deutsches Wort für ein Treffen unter Freunden oder Familie zu einem Kaffee, einem Tee oder einem Stück Kuchen, wo man sich über das Leben und was so letztens passiert ist unterhält. In diesem Video spreche ich fast normal, also deutlich natürlicher. Das heißt, dieses Video ist für … klicken und dort könnt ihr einen Fragebogen herunterladen mit Fragen über dieses Video und Antworten für diese Fragen. So könnt ihr also testen, wie viel ihr tatsächlich verstanden habt, aber macht euch keinen Druck. Es ist völlig in Ordnung, wenn man nicht alles perfekt versteht. Für den Kaffeeklatsch heute trinken wir einen weißen Tee mit Pirsig. Wir haben nicht mehr viel davon. Das heißt, Palina und ich müssen jetzt bald wieder in die Stadt fahren und neuen Tee kaufen. Mal gucken, was wir für interessante Teesorten für diese Serie finden können. Unser Thema heute ist ein ganz ganz … Sonnenschutz ist ständig in Gefahr umzufallen. Ich muss also ein bisschen aufpassen und mit meinem Fuß den Sonnenschirm festhalten. Der Sonnenschirm ist für mich ganz ganz wichtig. Ich bin nämlich total bleich und wenn ich nicht ganz dollle aufpasse, dann werde ich sofort knallrot und dann sehe ich aus wie ein gekochter Hummer. Dann habe ich ungefähr die Farbe von Palinas Hut und ich glaube als Hautfarbe steht mir das nicht so unheimlich gut. Für die Kleidung sicher, aber auf der Haut bleibe ich lieber unverbrannt. Mit diesem Video haben wir inzwischen 126 Chill German Videos hochgeladen … Videos genießt. Palina hatte ursprünglich gedacht, dass das Ganze deutlich schneller gehen würde. Sie hätte gedacht, dass wir nach zwei Jahren schon deutlich weiter wären. Aber meiner Erfahrung nach gibt es ganz ganz viele YouTube-Kanäle, die jahrelang Videos hochladen, ohne groß weiterzukommen oder ein Publikum zu bekommen. Insofern bin ich einfach unheimlich dankbar für die Leute, die jetzt schon dabei sind. Also vielen, vielen Dank an euch, dass ihr uns diesen Meilenstein ermöglicht habt. Wir hatten auch deutlich andere Vorstellungen, was die finanzielle Situation hier auf YouTube angeht. … draußen hören oder zumindest kann ich das. Ich glaube nicht, dass das Mikrofon das auch mitbekommt. Ich war bei den Finanzen. Ich bin, als wir angefangen haben, ganz stark davon ausgegangen, dass wir ganz ganz lange überhaupt kein Geld mit diesem YouTube-Kanal verdienen werden. Genauso wie ich dachte, dass wir ganz ganz lange brauchen würden, um ein Publikum aufzubauen. Palina dachte, dass wir zu diesem Zeitpunkt bereits deutlich mehr mit dem Kanal verdienen könnten. Die Wahrheit liegt ungefähr in der Mitte zwischen unseren beiden Erwartungen. Wir verdienen inzwischen Geld mit diesem … also ungefähr 140 € im Monat mit diesem Kanal. Das ist natürlich nicht genug, um davon zu leben. Das ist gerade mal genug, um das Geld ein bisschen zur Seite zu legen und dann vielleicht irgendwann neues Equipment zu kaufen. So haben wir z.B. diese Kamera bezahlt, die wir hier benutzen oder zumindest einen Teil davon. Mit der Menge an Zeit und Arbeit, die wir in diesen Kanal investieren, ist das immer noch sowohl für Palina als auch für mich der deutlich am schlechtesten bezahlte Job, den wir jemals hatten. Wenn wir nicht beide auch noch arbeiten würden und einen anderen Job hätten, dann … wir könnten deutlich mehr Zeit in unsere Videos investieren und wir könnten auch Leute engagieren, um die Videos zu bearbeiten. Das nimmt momentan wirklich sehr viel Zeit ein und das wäre einfach Zeit, die wir anders besser nutzen könnten. Das sind also Pläne für eine Zukunft, die hoffentlich bald eintritt. Natürlich würden wir dann wahrscheinlich auch deutlich mehr auf Patreon machen. Wir geben uns momentan Mühe, extra Dinge auf Patreon zu bieten, aber wir merken schon, dass wir sehr stark ausgelastet sind. Sowohl Palina als auch ich sind meistens am Ende des Tages total platt. Wir … Video ist. Unsere Videos haben sich in diesen zwei Jahren, glaube ich, sehr verändert. Hi, ich bin Timo und das ist Chill German. Here we embrace the power of comprehensible input. ist Zeit Deutsch zu lernen. Heute war ich einkaufen. Das ist Kaffee aus Berlin. Ich wohne in Berlin. Wir haben in letzter Zeit deutlich mehr Vlog Style Videos gemacht, die wir anfangs eigentlich nie gemacht haben. Wir sind ständig im Überlegen, wie wir unseren Content anpassen könnten, was euch vielleicht besser gefallen würde und was für uns vielleicht besser funktioniert. Dazu kommt natürlich auch, dass sich für … genau nachverfolgen. Wenn ich jetzt noch mal zurückgehe und die alten Videos vom Anfang angucke, dann habe ich schon das Gefühl, dass eine völlig andere Person dort vor der Kamera steht oder sitzt. Und ich glaube, dass ich diese Änderung auch sehr auf den Stil und auf meine Haltung ausgewirkt haben. Wie habt ihr das empfunden? Erinnert ihr euch noch an die alten Videos? Und wie empfindet ihr die Änderung, die wir alle durchgemacht haben? Findet ihr sie gut? Findet ihr sie schlecht? Findet ihr sie interessant? Und wenn ja, wieso und warum? Jetzt, wo wir 20.000 Subscriber erreicht haben, … sehen wir uns in einem Jahr wieder und wir freuen uns bereits über 100.000 Subscriber. Man kann ja nie wissen. Oder eine Million, wer weiß. Wenn ihr uns dabei helfen möchtet, dann könnt ihr das natürlich tun, indem ihr dieses Video teilt, indem ihr kommentiert oder auf Patreon geht. Ich glaube, dass wir jetzt am Ende vom Video angekommen sind. Ich habe einige Dinge erzählt. Bitte denkt daran, unten in der Beschreibung von dem Video nach dem Arbeitsblatt zu suchen und es auszufüllen. Vielen Dank, dass ihr heute bei meinem Kaffeeklatsch dabei wart und wir sehen uns im nächsten Video. Bis dahin.",
   "gist": "s",
   "status": "ok",
@@ -45329,7 +45974,7 @@
  "vVZEygN3lc8": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-12T06:18:00+00:00",
+  "checked": "2026-11-25T17:11:57+00:00",
   "title": "Nachrichten für Deutschlernende vom 29. Januar 2026 | Nachrichten in Einfacher Sprache",
   "duration": 206,
   "published": "20260130",
@@ -45338,6 +45983,7 @@
   "pace": 94.8,
   "rare": 0.0667,
   "var": 0.8631,
+  "cl": null,
   "speech_s": 189.8,
   "tokens": 300,
   "kw": [
@@ -45444,6 +46090,136 @@
     164,
     3.31,
     2
+   ]
+  ],
+  "kx": [
+   [
+    "polizei",
+    "Polizei durchsucht die Deutsche Bank Die Polizei hat die Gebäude der Deutschen Bank in",
+    59,
+    69,
+    5.39,
+    2
+   ],
+   [
+    "zeigen",
+    "und mussten in der Kälte warten. Neue Recherchen zeigen nun, wie verwundbar das deutsche Stromnetz",
+    35,
+    45,
+    5.29,
+    2
+   ],
+   [
+    "gekauft",
+    "gekauft. Diese waren eigentlich als Geschenke gedacht. Doch bisher wurden nur vier Flaschen",
+    116,
+    125,
+    4.77,
+    1
+   ],
+   [
+    "dienst",
+    "In den USA wurden zwei Beamte vom Dienst freigestellt. Sie waren an den tödlichen",
+    156,
+    164,
+    4.76,
+    1
+   ],
+   [
+    "ausland",
+    "Bundeskriminalamt suchen nach Beweisen für verbotene Geschäfte mit Firmen im Ausland.",
+    76,
+    84,
+    4.74,
+    1
+   ],
+   [
+    "tödlichen",
+    "Suspendierungen nach tödlichen Schüssen In den USA wurden zwei Beamte vom Dienst freigestellt. Sie waren an den tödlichen",
+    152,
+    164,
+    3.75,
+    2
+   ],
+   [
+    "rücktritt",
+    "für sich behalten hat. Viele Mitglieder im Rat fordern bereits seinen Rücktritt.",
+    140,
+    150,
+    4.19,
+    1
+   ],
+   [
+    "verbotene",
+    "Bundeskriminalamt suchen nach Beweisen für verbotene Geschäfte mit Firmen im Ausland.",
+    76,
+    84,
+    3.59,
+    1
+   ],
+   [
+    "notwehr",
+    "eine Waffe hatte und sie aus Notwehr geschossen haben. Videos von Zeugen zeigen aber ein anderes",
+    171,
+    179,
+    3.5,
+    1
+   ],
+   [
+    "geldwäsche",
+    "Frankfurt und Berlin durchsucht. Es geht um den Verdacht auf Geldwäsche. Ermittler vom",
+    68,
+    77,
+    3.4,
+    1
+   ],
+   [
+    "stromausfall",
+    "Eine Million Euro Belohnung nach Stromausfall",
+    10,
+    17,
+    3.4,
+    1
+   ],
+   [
+    "minneapolis",
+    "Schüssen auf einen Krankenpfleger in Minneapolis beteiligt. Die Behörden behaupten, dass der Mann",
+    163,
+    171,
+    2.85,
+    1
+   ],
+   [
+    "verwundbar",
+    "und mussten in der Kälte warten. Neue Recherchen zeigen nun, wie verwundbar das deutsche Stromnetz",
+    35,
+    45,
+    2.71,
+    1
+   ],
+   [
+    "geschäftszahlen",
+    "Bank wollte eigentlich morgen ihre neuen Geschäftszahlen präsentieren.",
+    89,
+    102,
+    2.58,
+    1
+   ],
+   [
+    "appenweier",
+    "In der Gemeinde Appenweier gibt es Ärger um teuren Whisky.",
+    105,
+    111,
+    2.22,
+    1
+   ],
+   [
+    "grenzschützer",
+    "Vorfall geschah während einer Demonstration gegen das harte Vorgehen der Grenzschützer.",
+    188,
+    196,
+    2.18,
+    1
    ]
   ],
   "tx": "Guten Tag! Hier sind die Nachrichten für Deutschlernende vom 29. Januar 2026. Eine Million Euro Belohnung nach Stromausfall Der Bund bietet jetzt eine Belohnung von einer Million Euro an. Das Geld bekommt, wer Hinweise zum Brandanschlag auf das Berliner Stromnetz geben kann. Anfang Januar waren wegen dieser Tat einhunderttausend Menschen ohne Strom und mussten in der Kälte warten. Neue Recherchen zeigen nun, wie verwundbar das deutsche Stromnetz ist. Viele wichtige Leitungen sind anscheinend kaum geschützt und für jeden frei zugänglich. Polizei durchsucht die Deutsche Bank Die Polizei hat die Gebäude der Deutschen Bank in Frankfurt und Berlin durchsucht. Es geht um den Verdacht auf Geldwäsche. Ermittler vom Bundeskriminalamt suchen nach Beweisen für verbotene Geschäfte mit Firmen im Ausland. Besonders unangenehm für die Bank ist der Zeitpunkt der Durchsuchung. Die Bank wollte eigentlich morgen ihre neuen Geschäftszahlen präsentieren. Streit um 46 Flaschen Whisky In der Gemeinde Appenweier gibt es Ärger um teuren Whisky. Der Bürgermeister hatte vor einem Jahr 50 Flaschen Whisky auf Kosten der Gemeinde gekauft. Diese waren eigentlich als Geschenke gedacht. Doch bisher wurden nur vier Flaschen verschenkt. Der Gemeinderat will nun wissen, wo der Rest ist. Der Bürgermeister möchte das aber nicht verraten. Jetzt muss das Landratsamt prüfen, ob der Bürgermeister den Whisky heimlich für sich behalten hat. Viele Mitglieder im Rat fordern bereits seinen Rücktritt. Suspendierungen nach tödlichen Schüssen In den USA wurden zwei Beamte vom Dienst freigestellt. Sie waren an den tödlichen Schüssen auf einen Krankenpfleger in Minneapolis beteiligt. Die Behörden behaupten, dass der Mann eine Waffe hatte und sie aus Notwehr geschossen haben. Videos von Zeugen zeigen aber ein anderes Bild. Auf den Aufnahmen ist keine Waffe zu sehen, sondern nur ein Handy in der Hand des Mannes. Der Vorfall geschah während einer Demonstration gegen das harte Vorgehen der Grenzschützer. Das waren die Nachrichten für heute. Danke fürs Zuhören.",
@@ -45718,7 +46494,7 @@
  "a7dMN5g-F0o": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-12T06:19:50+00:00",
+  "checked": "2026-11-25T17:13:08+00:00",
   "title": "Vokabeln meistern: So merkst du dir deutsche Wörter besser! 🧠📚",
   "duration": 440,
   "published": "20250118",
@@ -45727,6 +46503,7 @@
   "pace": 82.2,
   "rare": 0.0635,
   "var": 0.8567,
+  "cl": null,
   "speech_s": 436.3,
   "tokens": 598,
   "kw": [
@@ -45835,6 +46612,144 @@
     8
    ]
   ],
+  "kx": [
+   [
+    "wort",
+    "gehe nach Hause\" zu verwenden. So wirst du nicht nur das Wort behalten, sondern auch",
+    128,
+    137,
+    5.22,
+    4
+   ],
+   [
+    "erfolg",
+    "zu lernen. Das ist okay für den Anfang, aber für den langfristigen Erfolg musst",
+    112,
+    121,
+    5.17,
+    3
+   ],
+   [
+    "umgebung",
+    "Wort verbinden, um es dir leichter zu merken. 4. Die richtige Umgebung schaffen Lerne die",
+    186,
+    199,
+    4.78,
+    2
+   ],
+   [
+    "leichter",
+    "Wort verbinden, um es dir leichter zu merken. 4. Die richtige Umgebung schaffen Lerne die",
+    186,
+    199,
+    4.66,
+    2
+   ],
+   [
+    "wiederholung",
+    "1. Wiederholung ist der Schlüssel Die erste und vielleicht wichtigste Methode",
+    47,
+    57,
+    3.99,
+    2
+   ],
+   [
+    "auswendig",
+    "wenn wir sie immer wieder wiederholen. Aber nicht einfach stumpf auswendig lernen! Nutze die spaced",
+    65,
+    78,
+    3.8,
+    2
+   ],
+   [
+    "letzt",
+    "besser, und sie bleiben länger im Gedächtnis. 7. Motivation hochhalten Zu guter Letzt – halte",
+    311,
+    324,
+    3.58,
+    1
+   ],
+   [
+    "wiederhole",
+    "repetition-Technik – also wiederhole die Wörter in immer größeren Abständen. Dafür kannst du eine",
+    77,
+    88,
+    3.57,
+    1
+   ],
+   [
+    "visuelle",
+    "visuelle Vorstellung hilft deinem Gehirn, das Wort schneller zu speichern. Du kannst auch mnemonische",
+    169,
+    181,
+    3.53,
+    1
+   ],
+   [
+    "zufällige",
+    "6. Wörter in Themenblöcken lernen Anstatt völlig zufällige Wörter zu lernen, versuche,",
+    268,
+    281,
+    3.45,
+    1
+   ],
+   [
+    "verben",
+    "Käse, Obst, Gemüse. Oder alle Verben für die tägliche Routine – aufstehen, arbeiten, essen,",
+    290,
+    303,
+    3.41,
+    1
+   ],
+   [
+    "gruppieren",
+    "sie nach Themen zu gruppieren. Zum Beispiel: Lerne alle Lebensmittel zusammen – Brot,",
+    280,
+    291,
+    2.96,
+    1
+   ],
+   [
+    "hochhalten",
+    "besser, und sie bleiben länger im Gedächtnis. 7. Motivation hochhalten Zu guter Letzt – halte",
+    311,
+    324,
+    2.94,
+    1
+   ],
+   [
+    "hilfreichen",
+    "doch auf den Daumen und abonnier den Kanal, damit du keine weiteren hilfreichen Videos verpasst!",
+    422,
+    433,
+    2.83,
+    1
+   ],
+   [
+    "bin’s",
+    "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning.",
+    0,
+    9,
+    2.82,
+    1
+   ],
+   [
+    "langzeitgedächtnis",
+    "App wie Anki oder Memrise nutzen. So werden die Wörter in deinem Langzeitgedächtnis gespeichert!",
+    87,
+    99,
+    2.44,
+    1
+   ],
+   [
+    "deutschlernen",
+    "ist. Wenn du noch mehr Tipps und Strategien zum Deutschlernen willst, dann schau dir unbedingt",
+    374,
+    386,
+    2.39,
+    1
+   ]
+  ],
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Lass uns darüber sprechen, wie du effektiv Vokabeln lernen und vor allem behalten kannst. Jeder, der eine neue Sprache lernt, kennt das Problem: Du lernst Vokabeln, aber irgendwie bleiben sie nicht im Gedächtnis. Kein Stress – das ist ganz normal! Heute zeige ich dir Methoden, die dir helfen, dir deutsche Wörter langfristig zu merken. Los geht's! 1. Wiederholung ist der Schlüssel Die erste und vielleicht wichtigste Methode ist Wiederholung. Studien zeigen, dass wir neue Informationen besser behalten, wenn wir sie immer wieder wiederholen. Aber nicht einfach stumpf auswendig lernen! Nutze die spaced repetition-Technik – also wiederhole die Wörter in immer größeren Abständen. Dafür kannst du eine App wie Anki oder Memrise nutzen. So werden die Wörter in deinem Langzeitgedächtnis gespeichert! 2. Wörter in Kontext lernen Ein häufiger Fehler beim Vokabellernen ist, Wörter isoliert auswendig zu lernen. Das ist okay für den Anfang, aber für den langfristigen Erfolg musst du die Wörter im Kontext lernen. Statt einfach nur \"Haus\" zu lernen, versuche Sätze wie \"Ich gehe nach Hause\" zu verwenden. So wirst du nicht nur das Wort behalten, sondern auch die richtige Verwendung und Grammatik! 3. Bilder und Assoziationen nutzen Eine großartige Methode, um Wörter zu merken, ist, sie mit Bildern oder Geschichten zu verbinden. Wenn du das Wort „Apfel“ lernst, stelle dir vor, wie du einen saftigen Apfel isst. Deine visuelle Vorstellung hilft deinem Gehirn, das Wort schneller zu speichern. Du kannst auch mnemonische Techniken nutzen, also eine kleine Geschichte oder ein Bild mit dem Wort verbinden, um es dir leichter zu merken. 4. Die richtige Umgebung schaffen Lerne die Vokabeln nicht nur zu Hause – versuche, sie auch in deiner Umgebung zu integrieren. Hänge Post-Its mit den Wörtern an deine Wände, benutze sie in deinen Notizen oder sprich sie laut vor dich hin. Indem du die Vokabeln in deinem Alltag immer wieder siehst und hörst, wird es dir viel leichter fallen, sie zu behalten. 5. Spreche so viel wie möglich Die beste Methode, um Vokabeln zu behalten, ist, sie auch aktiv zu verwenden. Such dir einen Sprachpartner, oder nimm an einer Sprachgruppe teil. Du kannst auch mit dir selbst sprechen! Sprich laut, auch wenn du nur zu Hause bist. Wenn du die Vokabeln im Gespräch benutzt, prägen sie sich viel schneller ein. 6. Wörter in Themenblöcken lernen Anstatt völlig zufällige Wörter zu lernen, versuche, sie nach Themen zu gruppieren. Zum Beispiel: Lerne alle Lebensmittel zusammen – Brot, Käse, Obst, Gemüse. Oder alle Verben für die tägliche Routine – aufstehen, arbeiten, essen, schlafen. Wenn du Wörter in Themen lernst, verstehst du deren Bedeutung und Zusammenhang besser, und sie bleiben länger im Gedächtnis. 7. Motivation hochhalten Zu guter Letzt – halte deine Motivation hoch! Vokabeln zu lernen kann manchmal anstrengend sein, aber es lohnt sich. Belohne dich nach einer gewissen Zeit des Lernens oder mache dir eine kleine Challenge daraus. Wenn du regelmäßig und motiviert bleibst, wirst du die Wörter viel schneller und besser lernen. Ich hoffe, diese Methoden helfen dir dabei, deine Vokabeln besser zu lernen und langfristig zu behalten! Denk daran, dass der Schlüssel zu Erfolg regelmäßiges Üben und Wiederholen ist. Wenn du noch mehr Tipps und Strategien zum Deutschlernen willst, dann schau dir unbedingt auch die anderen Videos auf meinem Kanal an. Und bevor du gehst: Wenn du richtig durchstarten möchtest, melde dich zu meinem kostenlosen Deutschlern-Strategie-Gespräch an! Wir schauen zusammen, wie du dein Deutsch auf das nächste Level bringen kannst. AuthenticGermanLearning.com/call Wenn dir das Video gefallen hat, dann klicke doch auf den Daumen und abonnier den Kanal, damit du keine weiteren hilfreichen Videos verpasst! Viel Erfolg beim Vokabellernen und bis zum nächsten Mal!",
   "gist": "w",
   "status": "ok",
@@ -45843,7 +46758,7 @@
  "0KhX1xiAdhk": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-12T06:20:59+00:00",
+  "checked": "2026-11-25T17:13:28+00:00",
   "title": "Miffys Eiscreme 🍦 | Miffy | Ganze Folge",
   "duration": 1082,
   "published": "20260426",
@@ -45852,6 +46767,7 @@
   "pace": 96.9,
   "rare": 0.0797,
   "var": 0.7988,
+  "cl": null,
   "speech_s": 987.3,
   "tokens": 1594,
   "kw": [
@@ -46016,6 +46932,88 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "hallo",
+    "Hallo Miffi. Hallo. Hast du gesehen, wie Schnuffi",
+    5,
+    11,
+    5.06,
+    10
+   ],
+   [
+    "besser",
+    "damit ich dich besser sehen kann,",
+    453,
+    460,
+    5.66,
+    9
+   ],
+   [
+    "sorge",
+    "Keine Sorge, Boris. Oh,",
+    263,
+    271,
+    4.64,
+    5
+   ],
+   [
+    "papa",
+    "und Papa ein Stück aufführen. Das ist eine tolle Idee.",
+    394,
+    401,
+    4.46,
+    4
+   ],
+   [
+    "ups",
+    "Ups, das hörte sich an wie ein",
+    32,
+    36,
+    4.01,
+    4
+   ],
+   [
+    "melanie",
+    "Ein Eis für Melanie. Kommt sofort.",
+    126,
+    132,
+    3.85,
+    4
+   ],
+   [
+    "picknick",
+    "Picknick? Ich habe den Picknickkorb mitgebracht",
+    379,
+    386,
+    3.48,
+    2
+   ],
+   [
+    "aufführen",
+    "und Papa ein Stück aufführen. Das ist eine tolle Idee.",
+    394,
+    401,
+    3.44,
+    2
+   ],
+   [
+    "picknickkorb",
+    "Picknick? Ich habe den Picknickkorb mitgebracht",
+    379,
+    386,
+    2.2,
+    2
+   ],
+   [
+    "bellt",
+    "neue Freunde bellt man nicht an.",
+    883,
+    889,
+    2.93,
+    1
+   ]
+  ],
   "tx": "Schnuffi, fang! Hallo Miffi. Hallo. Hast du gesehen, wie Schnuffi meinen Ball gefangen hat? Ja, im Fangen ist sie sehr gut. Ich glaube, sie will noch einmal. Bereit, Schnuffi? Fang! Leckeres Eis. Leckeres Eis! Wer möchte kaltes leckeres Eis? Ich bitte. Hallo Miffi, du bist heute meine erste Kundin. Ups, das hörte sich an wie ein Schluck auf. Genau das wollte ich sagen. Nun, ein Eis für Mifi. Kommt sofort da, bitte. Oh, Schnuffi. Na schön, die Kugel war wohl für Schnuffi. Versuchen wir es noch einmal. Entschuldige, Miffi. Schon gut, Boris. Ups. Oh, geh weg, du doofer Schluck auf. So kann ich … und entspann dich. Und ich kümmere mich um das Eis. Gut. Wer möchte Eis? Kalt und lecker? Oh, ich viele. Ein Eis für Melanie. Kommt sofort. Hi Boris. Hallo Melanie. Er hat Schluck auf. Ich helfe ihm bis er weg ist. Danke. Ich weiß, wie du den Schluck auf los wirst, Boris. Du musst auf einem Bein stehen. Ungefähr so. Ja, gut. Und nun reibt ihr den Bauch. Genauso, Boris. Ups. Bei mir funktioniert das immer. Es war ein Versuch wert. Danke trotzdem, Melanie. Bis dann. Bis dann, Melanie. Hallo den. Uff. Ah. Ah. Ah. Uff. Ein leckeres Eis für dich, denn. Oh wow. Danke, Mi. H, das sieht gut aus. … Oh, das hat auch nicht funktioniert. Ich werde immer und ewig weiterhicken. Armer Boris. Oh, wenn der Schluck of doch nur so lange aufhören würde, dass ich ein Eis essen könnte. Keine Sorge, Boris. Oh, leckeres Eis. Ups. Miffi, du hast mir aber einen Schrecken eingejagt. Ich kümmere mich um den Eiswagen von Boris. Verstehe. Aber wo ist Boris? Er hat Schluck auf. Wir werden ihn einfach nicht los, egal was wir probieren. Habt ihr versucht. Ein Eis für Tante Alice kommt sofort. Oh, hallo Boris. Ich komme nicht dran. Kannst du mir helfen, Boris? Oh, ja, könntest du? Es ist ganz unten. Natürlich … viel Eis gegessen. Jetzt hast du Schluck auf. Oh nein, Schnuffi. Hallo Miffi. Was hast du denn da? Eine Picknickdecke. Siehst du, ich mache mit Danicknick. Das muss er sein. Er ist früh dran. Hi den. Hi Miffi. Bist du bereit für das Picknick? Ich habe den Picknickkorb mitgebracht und Mama schmiert uns Brote, aber sie sind noch nicht fertig. Oh, okay. Was machen wir, bis sie fertig sind? Hm, ich weiß was. Wir können für Mama und Papa ein Stück aufführen. Das ist eine tolle Idee. Komm mit. Gut. Äh, wir können Rotkäppchen und der große böse Wolführen. Wir haben bereits einen Picknickkopf. den … Erinnerst du dich? Ja. Rotkäppchen sagt: \"Warum hast du denn so große Augen?\" Und der Wolf sagt dann: \"Äh, damit ich dich besser sehen kann, müssen wir es mit Text aufführen?\" Das ist das Beste an der Geschichte, wenn der Wolf sagt äh damit ich dich besser fressen kann. Aber was ist, wenn ich mich nicht an den Text erinnern kann, wenn mir jemand zusieht? Du kriegst ein Kostüm, damit du dich mehr wie der Wolf fühlst und die Leute vergisst, die zusehen. Okay, Mama. Oh, hallo, Dan. und ich wollen ein Stück auffüllen. Rotkäppchen, hast du etwas, dass wir als Wolfskostüm nutzen können? Hm, wie … Damit ich dich besser riechen kann. Oh nein, das stimmt nicht. Keine Sorge, versuch es noch mal. Warum hast du denn so große Augen? Damit ich dich besser sehen kann. Genauso. Du bist ein toller Wolf. Oh, sogar mit besonderen Sitzen. Nehmen Sie bitte Platz. Das Stück beginnt gleich. Damit ich dich besser sehen kann. Damit ich dich besser sehen kann. Was, wenn ich vor deinen Eltern den Text vergesse? Hol einfach tief Luft und tu so, als würde niemand zu sichen. Okay, es beginnt. Ich bin Rotkäppchen und ich bin der Wolf. Wohin gehst du, kleines Mädchen? Ich gehe mit diesem Picknickkorb zu … Augen? Damit ich dich besser sehen kann. Ja, und warum hast du so ein großes Maul? ich dich besser fressen kann. Oh nein, ein Wolf. La mit denn wir haben niemand, der den Jäger spielt. Der Rotkäppchen rettet. Ich bin der Jäger? Keine Sorge, Rotkäppchen, ich rette dich. Verschwinde, Wolf. Danke, Herr Jäger. Sie haben mich gerettet. Ende. Gut gemacht. Was für ein schönes Stück. Sehr gut, ihr zwei. Dann, du warst großartig. Hast du gemacht, was ich gesagt habe und so getan, als würde niemand zusehen? Das musste ich nicht. Es hat ja niemand zugesehen. Alle haben mitgespielt. Du hast recht. … Hilfe. Komm her. Oh. Oh. Okay, wir haben es jetzt ganz vorsichtig. Oh. Nein. Guten Morgen, Mama. Guten Morgen, Papa. Habt ihr uns Schafe gekauft? Nein, die waren hier, als wir aufgewacht sind. Sie müssen vom Bauernhof weggelaufen sein. Oh, das hier ist süß. Lasst uns noch mal versuchen, sie zusammenzutreiben. Okay, wir sind fast da. Fast. geschafft. Ja, dank dir, Miffi. Ihr passt auf, dass sie hier bleiben. Ich rufe den Bauern an, damit er sie abholen kommt. Okay, bleibst du hier? Keine Sorge, Papa. Ich hole es zurück. Ich passe auf die zwei auf. Selber me. Oh, passt. Lächen, komm. Komm her, … komm her, lauf langsam, sei doch fein. Bittte schön, komm her. Oh, Schnuffi, neue Freunde bellt man nicht an. Hey, kleines Lam, ich möchte dir meine Freundin Schnuffi vorstellen. Komm her. Oh, Schnuffi, ist alles in Ordnung? Miffi, ich muss dieses Lamm nach Hause bringen, aber Schnuffi erschreckt es immer mit ihren Bällen. H, also wenn Schnuffi bt, läuft das Lamm in die andere Richtung. Genau. Oh, also wenn Schnuffi dort bät, läuft das Lamm wieder in diese Richtung. Schnuffi, lauf auf die andere Seite. Vielleicht kannst du ihr noch besser erklären, was sie tun soll. Oh, vielleicht … kannst du Schnuffi damit trainieren. Ich zeig's dir. Sehr gut. Brave, Schnuffi. Genau, Miifi. Juhu. Guck mal, wie sie läuft. hierher. Brave, Schnuffi. Sehr gut, Miffi. Gut gemacht. Bis bald. Viel Glück. So ist es richtig. Sie ist so schlau. Los, Schnuffi, gleich sind sie wieder auf dem Bauernhof. Ah, das erklärt alles. Ich muss das Tor offenelassen haben, als ich sie heute morgen gefüttert habe. Keine Sorge, Schnuffi weiß, was sie zu tun hat. Brave, Schnuffi. Gut gemacht. Fertig. Hier ist deine Pfeife. Behalte sie ruhig, Miifi. Du und Schnuffi, ihr seid ein gutes Team. Das sind wirklich.",
   "gist": "s",
   "status": "ok",
@@ -46024,7 +47022,7 @@
  "oh-ABCUZDTw": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-12T06:21:03+00:00",
+  "checked": "2026-11-25T17:13:32+00:00",
   "title": "Miffy im Wind  💨 | Miffy | Ganze Folge",
   "duration": 1002,
   "published": "20260419",
@@ -46033,6 +47031,7 @@
   "pace": 114.1,
   "rare": 0.1123,
   "var": 0.8177,
+  "cl": null,
   "speech_s": 884.9,
   "tokens": 1683,
   "kw": [
@@ -46194,6 +47193,88 @@
     8,
     15,
     2.91,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "kam",
+    "Da kam ein starker Windstoß und der",
+    124,
+    130,
+    5.53,
+    8
+   ],
+   [
+    "spass",
+    "",
+    0,
+    0,
+    5.22,
+    7
+   ],
+   [
+    "blätter",
+    "Blätter. Poppys nichte Gruny saß vor dem Haus und",
+    764,
+    773,
+    4.24,
+    8
+   ],
+   [
+    "rief",
+    "\"Oh nein!\", rief Mii. Der Wind bläst",
+    77,
+    83,
+    4.47,
+    7
+   ],
+   [
+    "roller",
+    "Roller, aber da kam plötzlich ihre Mutter mit",
+    439,
+    455,
+    3.89,
+    5
+   ],
+   [
+    "lachte",
+    "Miffi lachte und lachte. Siehst du, sagte die Mutter, wenn man",
+    468,
+    478,
+    3.64,
+    4
+   ],
+   [
+    "leckeren",
+    "jetzt diesen leckeren roten Apfel essen",
+    480,
+    486,
+    3.58,
+    1
+   ],
+   [
+    "kleiderschrank",
+    "Miffi lief zum Kleiderschrank. \"Was soll ich anziehen, Mutter?\", fragte",
+    279,
+    288,
+    3.45,
+    1
+   ],
+   [
+    "guckte",
+    "sich auf und guckte auf ihre Uhr. Es war",
+    273,
+    280,
+    2.87,
+    2
+   ],
+   [
+    "mii",
+    "\"Oh nein!\", rief Mii. Der Wind bläst",
+    77,
+    83,
+    2.54,
     2
    ]
   ],
@@ -47147,7 +48228,7 @@
  "RSAn1vYlT_c": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-12T15:24:15+00:00",
+  "checked": "2026-11-25T17:12:03+00:00",
   "title": "Nachrichten für Deutschlernende vom 28. Januar 2026 | Nachrichten in Einfacher Sprache",
   "duration": 267,
   "published": "20260129",
@@ -47156,6 +48237,7 @@
   "pace": 98.2,
   "rare": 0.0562,
   "var": 0.8733,
+  "cl": null,
   "speech_s": 249.8,
   "tokens": 409,
   "kw": [
@@ -47288,6 +48370,104 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "möchte",
+    "es immer mehr Elektroautos gibt, möchte die Firma ihre starken Benzinmotoren noch lange",
+    177,
+    185,
+    5.49,
+    2
+   ],
+   [
+    "oft",
+    "Die Polizei in Nordrhein-Westfalen meldet immer wieder solche Taten. Oft werden auch",
+    99,
+    108,
+    5.48,
+    2
+   ],
+   [
+    "app",
+    "sind. Viele Menschen haben Wero schon direkt in ihrer Bank-App auf dem Handy.",
+    154,
+    167,
+    4.79,
+    1
+   ],
+   [
+    "vergangenheit",
+    "der Vergangenheit gab es oft Ärger wegen respektlosem Verhalten oder betrunkenen",
+    243,
+    250,
+    4.79,
+    1
+   ],
+   [
+    "unbekannten",
+    "In Dortmund haben Diebe den Bahnverkehr gestoppt. Die Unbekannten haben wichtige Kabel gestohlen,",
+    66,
+    75,
+    4.19,
+    1
+   ],
+   [
+    "rekord",
+    "teuer. Ein Kilo Kupfer kostet aktuell etwa elf Euro. Das ist ein neuer Rekord.",
+    81,
+    91,
+    4.14,
+    1
+   ],
+   [
+    "betrunkenen",
+    "der Vergangenheit gab es oft Ärger wegen respektlosem Verhalten oder betrunkenen",
+    243,
+    250,
+    3.37,
+    1
+   ],
+   [
+    "autohersteller",
+    "Der Autohersteller BMW setzt weiterhin auf große Motoren mit viel Kraft. Obwohl",
+    170,
+    178,
+    3.33,
+    1
+   ],
+   [
+    "kontoauszüge",
+    "zum Beispiel Kontoauszüge und ein Rückflugticket vorzeigen. Damit will die Insel prüfen,",
+    228,
+    236,
+    2.92,
+    1
+   ],
+   [
+    "verbrenner",
+    "BMW hält am Verbrenner fest Der Autohersteller BMW setzt weiterhin auf große Motoren mit viel Kraft. Obwohl",
+    166,
+    178,
+    2.82,
+    1
+   ],
+   [
+    "ladesäulen",
+    "Kabel an Ladesäulen für E-Autos abgeschnitten. Der Schaden für die Bahn und die Betreiber ist riesig.",
+    107,
+    118,
+    2.69,
+    1
+   ],
+   [
+    "benzinmotoren",
+    "es immer mehr Elektroautos gibt, möchte die Firma ihre starken Benzinmotoren noch lange",
+    177,
+    185,
+    2.4,
+    1
+   ]
+  ],
   "tx": "Guten Tag! Hier sind die Nachrichten für Deutschlernende vom 28. Januar 2026. Mehr Kindergeld geht ins Ausland Deutschland hat im letzten Jahr so viel Kindergeld ins Ausland überwiesen wie noch nie zuvor. Insgesamt waren es über 500 Millionen Euro. Ein Grund dafür ist, dass das Kindergeld insgesamt erhöht wurde. Die meisten Zahlungen sind in Länder innerhalb der Europa-Union wie zum Beispiel Polen oder Rumänien gegangen. Experten betonen aber, dass ein Konto im Ausland nicht automatisch bedeutet, dass die Kinder auch dort leben. Manche Familien nutzen einfach ein ausländisches Konto, obwohl sie in Deutschland wohnen. Kupferdiebe stören Bahnverkehr In Dortmund haben Diebe den Bahnverkehr gestoppt. Die Unbekannten haben wichtige Kabel gestohlen, weil das Kupfer darin sehr wertvoll ist. Dieses Metall ist im Moment besonders teuer. Ein Kilo Kupfer kostet aktuell etwa elf Euro. Das ist ein neuer Rekord. Grund für den hohen Preis ist der große Bedarf für die Energiewende und für Künstliche Intelligenz. Die Polizei in Nordrhein-Westfalen meldet immer wieder solche Taten. Oft werden auch Kabel an Ladesäulen für E-Autos abgeschnitten. Der Schaden für die Bahn und die Betreiber ist riesig. Wero als Alternative zu PayPal In Berlin soll das Bezahlen bei Ämtern einfacher werden. Der Digitalausschuss hat beschlossen, dass die Verwaltung bald den Dienst Wero nutzt. Wero ist eine europäische Antwort auf PayPal. Das Projekt wird von großen Banken wie der Sparkasse oder der Deutschen Bank unterstützt. Der Vorteil ist, dass die Daten in Europa bleiben und sicher sind. Viele Menschen haben Wero schon direkt in ihrer Bank-App auf dem Handy. BMW hält am Verbrenner fest Der Autohersteller BMW setzt weiterhin auf große Motoren mit viel Kraft. Obwohl es immer mehr Elektroautos gibt, möchte die Firma ihre starken Benzinmotoren noch lange verkaufen. Vor allem in den USA ist die Nachfrage nach diesen Motoren sehr hoch. Ein Sprecher erklärte, dass diese Technik fest zur Strategie von BMW gehört. Die großen Motoren werden zurzeit in einem Werk in England gebaut. Strengere Regeln für Bali-Urlauber Wer Urlaub auf Bali machen möchte, muss sich bald auf strengere Kontrollen einstellen. Die Regierung fordert von Reisenden in Zukunft einen Nachweis über ihr Geld. Urlauber müssen zum Beispiel Kontoauszüge und ein Rückflugticket vorzeigen. Damit will die Insel prüfen, ob die Gäste genug Geld für ihren Aufenthalt haben. Ziel ist ein besserer Tourismus. In der Vergangenheit gab es oft Ärger wegen respektlosem Verhalten oder betrunkenen Touristen. Die neuen Regeln gelten auch für Urlauber aus Deutschland. Das waren die Nachrichten für heute. Danke fürs Zuhören.",
   "gist": "w",
   "status": "ok",
@@ -47296,7 +48476,7 @@
  "nYtTnb4q-tE": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-12T15:26:08+00:00",
+  "checked": "2026-11-25T17:13:11+00:00",
   "title": "7 Fehler, die jeder Deutschlerner macht – Vermeide sie! ❌🇩🇪",
   "duration": 598,
   "published": "20250116",
@@ -47305,6 +48485,7 @@
   "pace": 75.5,
   "rare": 0.0811,
   "var": 0.82,
+  "cl": null,
   "speech_s": 588.4,
   "tokens": 740,
   "kw": [
@@ -47451,6 +48632,104 @@
     61,
     2.32,
     3
+   ]
+  ],
+  "kx": [
+   [
+    "kannst",
+    "wie du diese Fehler vermeiden kannst. Wenn du Deutsch lernst, gibt es einige Stolpersteine,",
+    17,
+    28,
+    5.54,
+    6
+   ],
+   [
+    "falsch",
+    "Falsch: Leider, ich kann dir nicht helfen. Richtig: Leider kann ich dir nicht helfen.",
+    76,
+    88,
+    5.02,
+    6
+   ],
+   [
+    "sicherer",
+    "kannst, damit du noch flüssiger und sicherer sprechen kannst. Also, lass uns direkt loslegen!",
+    38,
+    51,
+    4.22,
+    3
+   ],
+   [
+    "sorge",
+    "die fast jeder irgendwann mal tritt. Aber keine Sorge, ich werde dir zeigen, wie du sie umgehen",
+    27,
+    39,
+    4.64,
+    2
+   ],
+   [
+    "muttersprache",
+    "5. Direktes Übersetzen aus der Muttersprache: Ein häufiger Fehler, den viele Deutschlerner",
+    282,
+    294,
+    3.76,
+    2
+   ],
+   [
+    "verb",
+    "Achte immer darauf, dass das konjugierte Verb im Hauptsatz an der zweiten Stelle steht!",
+    100,
+    113,
+    3.72,
+    2
+   ],
+   [
+    "beeren",
+    "Mütze (cap) vs. Mitte (middle) Bär (bear) vs. Beeren (berries)",
+    378,
+    391,
+    3.55,
+    1
+   ],
+   [
+    "wortwahl",
+    "ins Deutsche. Dabei kommt es oft zu unnatürlichen Konstruktionen oder Wortwahl.",
+    300,
+    312,
+    3.5,
+    1
+   ],
+   [
+    "join",
+    "die dir beim Lernen helfen werden. Leg jetzt los: AuthenticGermanLearning.com/join",
+    550,
+    561,
+    2.97,
+    1
+   ],
+   [
+    "bin’s",
+    "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning.",
+    0,
+    9,
+    2.82,
+    1
+   ],
+   [
+    "muttersprachler",
+    "Ein guter Tipp: Hör dir oft deutsche Muttersprachler an und versuche, deren Aussprache",
+    390,
+    402,
+    2.82,
+    1
+   ],
+   [
+    "hauptsatz",
+    "Achte immer darauf, dass das konjugierte Verb im Hauptsatz an der zweiten Stelle steht!",
+    100,
+    113,
+    2.78,
+    1
    ]
   ],
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. In diesem Video geht es um typische Fehler, die viele Deutschlerner machen, und vor allem darum, wie du diese Fehler vermeiden kannst. Wenn du Deutsch lernst, gibt es einige Stolpersteine, die fast jeder irgendwann mal tritt. Aber keine Sorge, ich werde dir zeigen, wie du sie umgehen kannst, damit du noch flüssiger und sicherer sprechen kannst. Also, lass uns direkt loslegen! 1. Fehler bei der Wortstellung: Ein häufiger Fehler, den viele Deutschlerner machen, ist die falsche Wortstellung. Im Deutschen ist die Wortstellung oft anders als im Englischen oder in anderen Sprachen. Beispiel: Falsch: Leider, ich kann dir nicht helfen. Richtig: Leider kann ich dir nicht helfen. Das klingt jetzt nicht so schlimm, aber wenn du Fehler machst, kann es schnell unklar werden, was du genau sagen möchtest. Ein Tipp: Achte immer darauf, dass das konjugierte Verb im Hauptsatz an der zweiten Stelle steht! 2. Falsche Präpositionen: Präpositionen sind ein weiteres großes Thema. In vielen Fällen ist es im Deutschen einfach eine Frage des „Wissens“, welche Präposition zu welchem Verb gehört. Beispiel: Falsch: Ich interessiere mich in das Thema. Richtig: Ich interessiere mich für das Thema. Die Präpositionen „für“, „an“, „mit“ oder „über“ sind oft schwer zu lernen, weil sie in anderen Sprachen manchmal anders verwendet werden. Deshalb ist es wichtig, immer wieder neue Ausdrücke und deren passende Präpositionen zu lernen. 3. Die falsche Verwendung von „sein“ und „haben“: Im Deutschen benutzt man die Hilfsverben „sein“ und „haben“. Beispiel: Falsch: Ich habe nach Hause gegangen. Richtig: Ich bin nach Hause gegangen. Der Trick ist, dass man „sein“ verwendet, wenn die Bewegung oder Veränderung im Mittelpunkt steht, z.B. bei „gehen“, „fahren“, „laufen“ und ähnlichen Verben. 4. Falsche Artikel und Geschlecht: Die richtige Verwendung von „der“, „die“ und „das“ ist für viele Deutschlerner schwierig, da es keine klare Logik gibt, warum ein Substantiv maskulin, feminin oder neutral ist. Beispiel: Falsch: Die Tisch ist groß. Richtig: Der Tisch ist groß. Mein Tipp: Lerne nicht nur das Nomen, sondern auch den Artikel zusammen. Also statt nur „Tisch“ zu lernen, immer „der Tisch“. Das hilft dir, dir das Geschlecht der Nomen besser zu merken! 5. Direktes Übersetzen aus der Muttersprache: Ein häufiger Fehler, den viele Deutschlerner machen, ist das direkte Übersetzen von Sätzen aus der Muttersprache ins Deutsche. Dabei kommt es oft zu unnatürlichen Konstruktionen oder Wortwahl. Beispiel: Falsch: Es war viel Spaß. Richtig: Es hat viel Spaß gemacht. Im Deutschen benutzen wir die Form „Spaß machen“ im Gegensatz zum englischen „to be fun“. Es ist also wichtig, sich nicht nur auf die Wörter, sondern auch auf die richtigen Ausdrücke und Phrasen zu konzentrieren. 6. Die richtige Aussprache von Umlauten: Die Umlaute ä, ö und ü bereiten vielen Deutschlernern Schwierigkeiten. Die Aussprache dieser Laute kann die Bedeutung eines Wortes völlig verändern. Beispiel: Mütze (cap) vs. Mitte (middle) Bär (bear) vs. Beeren (berries) Ein guter Tipp: Hör dir oft deutsche Muttersprachler an und versuche, deren Aussprache nachzuahmen. Es kann auch hilfreich sein, sich selbst aufzunehmen und zu hören, wie du sprichst! 7. „Du“ und „Sie“ – Die Höflichkeitsform: Ein weiterer Fehler ist die falsche Verwendung von „du“ und „Sie“. In Deutschland wird „Sie“ in formellen Situationen oder mit Personen, die du nicht gut kennst, verwendet, während „du“ in informellen Gesprächen unter Freunden und Familie genutzt wird. Beispiel: Falsch: Kannst du mir bitte den Weg zeigen, Herr Müller? Richtig: Könnten Sie mir bitte den Weg zeigen, Herr Müller? Achte immer darauf, wer die Person ist, mit der du sprichst, und benutze entsprechend „du“ oder „Sie“. Das Fazit Das waren einige der häufigsten Fehler, die Deutschlerner machen. Es gibt noch viele mehr, aber keine Sorge! Du wirst besser, je mehr du übst und dich mit der Sprache umgibst. Fehler gehören zum Lernen dazu, aber mit diesen Tipps kannst du viele Fallstricke vermeiden und immer sicherer werden. Und denk daran: Deutsch zu lernen ist ein Prozess, und es ist vollkommen in Ordnung, Fehler zu machen! Mit der Zeit wirst du immer sicherer und flüssiger sprechen. Wenn du mehr darüber lernen möchtest, wie du Deutsch noch schneller und effektiver lernen kannst, dann abonniere meinen YouTube-Kanal und besuche meine Deutschlern-Akademie. Hier findest du viele hilfreiche Kurse und Ressourcen, die dir beim Lernen helfen werden. Leg jetzt los: AuthenticGermanLearning.com/join Buche auch dein kostenloses Deutschlern-Strategie-Gespräch, um mit mir die beste Lernstrategie für dich zu entwickeln! AuthenticGermanLearning.com/call Ich hoffe, das Video hilft dir, diese typischen Fehler zu vermeiden. Viel Erfolg beim Deutschlernen, und bis zum nächsten Mal!",
@@ -85646,7 +86925,7 @@
  "XPYl-xIJBos": {
   "channel": "Deutsch Lernen Haus",
   "lang": "de",
-  "checked": "2026-11-17T03:05:08+00:00",
+  "checked": "2026-11-25T17:21:46+00:00",
   "title": "Internationaler Frauentag | Deutsch B2 | German B2 | Deutsch lernen mit wichtigen Tagen",
   "duration": 950,
   "published": "20250308",
@@ -85655,6 +86934,7 @@
   "pace": 120.7,
   "rare": 0.1148,
   "var": 0.8487,
+  "cl": null,
   "speech_s": 930.9,
   "tokens": 1873,
   "kw": [
@@ -85816,6 +87096,88 @@
     352,
     360,
     2.96,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "oft",
+    "es bedeutet sich mit der oft übersehenen",
+    108,
+    113,
+    5.48,
+    7
+   ],
+   [
+    "müssen",
+    "müssen wir auch die Herausforderungen anerkennen die weiterhin bestehen der",
+    45,
+    52,
+    5.78,
+    6
+   ],
+   [
+    "weltweit",
+    "Befassen mit denen Frauen weltweit konfrontiert sind erweist sich Bildung",
+    242,
+    250,
+    4.78,
+    4
+   ],
+   [
+    "erinnerung",
+    "Erinnerung daran dass die Stimmen von",
+    222,
+    227,
+    4.65,
+    4
+   ],
+   [
+    "zukünftige",
+    "zukünftige Generation zu ebenen trotz des Fortschritts gibt es noch Berge zu",
+    28,
+    37,
+    4.0,
+    4
+   ],
+   [
+    "normen",
+    "gesellschaftlichen Normen in Frage zu stellen die sie auf begrenzte Rollen",
+    141,
+    149,
+    3.97,
+    4
+   ],
+   [
+    "geschlechtern",
+    "zwischen den Geschlechtern bis hin zum",
+    70,
+    76,
+    3.46,
+    2
+   ],
+   [
+    "unvermeidlich",
+    "sondern unvermeidlich war ",
+    233,
+    241,
+    3.35,
+    2
+   ],
+   [
+    "gleichberechtigten",
+    "einer gerechten und gleichberechtigten Welt anerkannt zu",
+    124,
+    132,
+    2.88,
+    2
+   ],
+   [
+    "auszuschöpfen",
+    "auszuschöpfen in vielen Teilen der Welt",
+    271,
+    276,
+    2.86,
     2
    ]
   ],
@@ -90579,6 +91941,1854 @@
    ]
   ],
   "tx": "Ah! Hey! Opa! Womit spielst du denn da? Na, Murmelbahn. Sieht kompliziert aus. Die macht echt Spaß. Was ist da drin? Ein Spielzeug, mit dem ich mal gespielt habe. So wie dein Papa auch. Oh, eine Eisenbahn. Wow, die ist so cool. Opa. In deinem Alter habe ich die durchs ganze Haus sausen lassen. Von der Kirche ins Wohnzimmer bis in den Garten. Na ja, ich hätte sie nicht durchs Haus und in den Garten sausen lassen. Ich will sie durch unser Haus fahren lassen. Nicht alle Züge fahren schnell, Ku. Manchmal sind sie langsam und man genießt die Ausricht. H, wir bauen eine ruhige Strecke in einem … Etwas fehlt jedoch. Papa kam mit einem lustigen unechten Bart und einem gruselig aussehenden Buch herein. Dein Bart und dein Zauberspruchbuch. Oh ja. Bist du bereit etwas zu zaubern, Kaju? Beiner Papa Kadabra. Ja, Rosi, ich habe dein Clowns Kostüm hier drüben. Als Rosi Clowns Kostüm sah, wollte sie sich plötzlich nicht mehr verkleiden und rausgehen. Nein. Willst du nicht Süßes sammeln? Nein. Kaju war sehr überrascht. Er dachte zwar nicht, dass das Clowns Kostüm gruselig war, Rosi jedoch schon. Rusi hat Angst, Süßigkeiten sammeln zu gehen. Ich bleibe hier. Du kannst mit Papa raus. Ich … oder saures? Wen haben wir da? Einen Zauberer, Monster und eine Fee. Rosi hatte immer noch etwas Angst. Ros, ich bin's. Rosi fing an zu kichern. Sie hatte vom Verkleiden keine Angst mehr. Super Halloween. K zieht schnell seine schönen Sachen an. Heute Abend geht er mit Mami und Papi aus wie ein großer Junge. Rosi bleibt mit einem Babysitter zu Hause. Das Restaurant ist voller Menschen. Kai hält die Hand seines Papas und schaut sich um. Hier ist es ein bisschen dunkel. Kaju sieht keine anderen Kinder. Er ist sehr stolz unter Erwachsenen zu sein. Schau mal, Kaju, ein Aquarium. Kayu läuft … will nach Hause. Genau da kommt der Kellner mit einer fabelhaften Nachspeise zum Tisch. Kaju vergisst sofort, dass er heimgehen wollte. Ich habe Hunger. Kajo ist glücklich mit Mami und Papi, im Restaurant zu essen. Er fühlt sich wie ein richtig großer Junge. Was möchtest du machen, Rosi? Wollen wir Achtebahn fahren gehen oder schwimmen? Platsch! Oder in die Spielhalle? Quck. Nein, kommen später. Ich glaube, wir sollten. Was war das? Das ist lauf. Schnell verstecken wir uns hier. Hier sind wir vor Gilbit sicher. Aber jemand muss uns beschützen. Wer könnte das sein? Ah, Teddy. Ich weiß, Teddy. … Sandburg jeher bauen. Vergiss aber nicht die Eiscreme. K liebte Eis. Er konnte es gar nicht abwarten, alle Geschmacksorten auszuprobieren. M, lecker, lecker. Da ist es. Ich kann das Meer sehen. Als sie endlich angekommen waren, hüpfte Cou sofort aus dem Auto. Er rannte hinunter zum Strand. Der Sand ist so heiß. Bloß keine Sorge, Kaju. Die Sonne hat einfach nur den Sand aufgeheizt. Das macht gar nichts. K war überrascht, dass der Sand heiß war, aber ihm gefiel darin, seine Zähnen zu vergraben. Wow, das Meer. Das Meer war endlos weit. Es war größer als alles, was Kayi gesehen hat. Kaju, es … Ich möchte alle Sorten. Entscheide dich heute für eine Sorte und nächstes Mal für was anderes. Okay, aber wie kann man bei so vielen wählen? Der Eisverkäufer ließ KU verschiedene Sorten probieren, damit er sich entscheiden konnte. Die mag ich gern. Papa kaufte vier Eisbecher und machte sich auf den Rückweg zu Mama und Rosi. Zeig Rosi, wie man Sandburen baut. K war sehr aufgeregt und nahm einen Eimer und eine Schaufel. Schau Rosi, du nimmst den Eimer und machst dann das. Rosi kicherte und klatschte in die Hände. Sandburgen machen großen Spaß. Wow, das sieht toll aus. Aber keine Burg kann … allen. Plus keiner könnte etwas perfektes für deinen Papa machen. Das kannst nur du allein. Aber die Scheibe ist so schnell, ich kann den Ton nicht stillten. Nun, wir können eine Skulptur auch ganz anders machen. So ganz ohne eine Scheibe. Wie kannst du mir das nachmachen? Ich weiß nicht. Oha. Jetzt kannst du die Rolle hier drauf legen und wenn du das mehrmals wiederholst, wird eine Tasse daraus. Oh, das ist toll, Kaju. Und egal, was du auch machst, Papa wird es bestimmt lieben. Aber was, wenn es nicht so aussieht? Das muss es doch nicht. Es wird von dir kommen und darauf kommt es an. Ja, es … ein sehr weiter Weg zum Laden. Denkst du, du könntest mich mitnehmen? Der Dinosaurier rannte so schnell er konnte und Mama musste sich festhalten. Oh, dann sah Mama den Laden. Nein, was? Kein Laden. Okay. Oh, der Laden war von diesen Kobolden umzingelt. Aber Mama wusste, was zu tun war. Attacke. Wie Mama stark. Hallo. Oh nein, Rosi, gleich ist Zeit zu essen. Wie soll Mama nur rechtzeitig zu Hause sein? Oh, guter Plan, Rosi. Oh. H. Mama flug durch die Wolen. Sie war super schnell und hatte Pizza. Und dann kam sie. Ich bin zu Hause. Oh, rechtzeitig. Hallo, ihr zwei. Ich habe Pizza. Wo ist … aber. Und jetzt die Ringe. Hey, du dummes Kleid. Clem, liebe es, die Ringe. Oh ja, ich habe sie hier. Ding. Oh. Oh. Danke. K. Ich erkläre euch als verheiratet. ist der Tag aller Zeiten. Oh, bittte schön, Rosi. Guck her. Ups. Konfettikus. Lasst uns Fotos machen. Oh, Fotozeit. Kommt mit, ich will den guten Platz. Los geht's. Stopp, stopp, ich suche noch den perfekten Platz. Ups, Entschuldigung. Tada, hier ist perfekt. Alle sagen Hochzeit. Hochzeit. Oh nein. Ja, der beste Ausblick. Der beste Tag. Schnell, es ist jetzt Kuchenzeit. Das klingt super. Kuchen. Oh. Oh! Oh, nein! Kuchen im Gesicht … für den König. Was denn für Dinge? Nun, ich kümmere mich darum, dass es genug Essen für alle im Königreich gibt. Sie her. Wow, Ku, das war wirk Oh nein, schnell hier lang. Ups, ich muss wohl noch an dem Zauberspruch arbeiten. Oh! Oh! Wir werden angegriffen. Schnell Kaju, du musst etwas machen. Ich hab's, Leo. Ja, er ist weg. Kaj? Oh. Oh. Was geht denn hier vor sich? Ku, hallo. Entschuldige, Papi, du warst da in deiner eigenen Welt. Das stimmt. Ich war ein Zauberer und habe gezaubert und da war ein Riese und die magischen Spaghetti sind immer größer geworden und haben angefangen Leo zu jagen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "Xfgph1uBIlo": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-25T16:28:02+00:00",
+  "title": "Künstliche Intelligenz: China baut riesige Rechenzentren – betrieben mit erneuerbaren Energien",
+  "duration": 226,
+  "published": "20261125",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 128.1,
+  "rare": 0.134,
+  "var": 0.895,
+  "cl": null,
+  "speech_s": 227.1,
+  "tokens": 485,
+  "kw": [
+   [
+    "usa",
+    "gegenüber den USA ins Hintertreffen zu",
+    61,
+    65,
+    5.33,
+    3
+   ],
+   [
+    "china",
+    "Halbjahr diesen Jahres hat China so viel",
+    141,
+    147,
+    4.9,
+    3
+   ],
+   [
+    "diesen",
+    "Wer durch diesen Ort in der inneren",
+    0,
+    5,
+    5.71,
+    2
+   ],
+   [
+    "hätte",
+    "das hätte Großbritannien für mehr als",
+    146,
+    150,
+    5.7,
+    2
+   ],
+   [
+    "strom",
+    "braucht also weniger Strom und Wasser,",
+    34,
+    39,
+    4.7,
+    5
+   ],
+   [
+    "entstehen",
+    "nördlich von Peking entstehen gerade dutzende Rechenzentren. Viele Menschen",
+    11,
+    19,
+    4.76,
+    2
+   ],
+   [
+    "inneren",
+    "Wer durch diesen Ort in der inneren",
+    0,
+    5,
+    4.52,
+    2
+   ],
+   [
+    "regionen",
+    "anderen Regionen. Der Obstverkäufer ist ein Einheimischer.",
+    18,
+    25,
+    4.46,
+    2
+   ],
+   [
+    "energien",
+    "erneuerbare Energien, aber auch Kohle. Und die Zentralregierung, die pusht",
+    52,
+    60,
+    4.12,
+    3
+   ],
+   [
+    "erneuerbaren",
+    "erneuerbaren Energien. Das Besondere hier über dieses",
+    100,
+    110,
+    3.76,
+    2
+   ],
+   [
+    "mongolei",
+    "Mongolei fährt, kriegt die Ausmaße von",
+    2,
+    8,
+    3.22,
+    2
+   ],
+   [
+    "windparks",
+    "liegt am Rand der Wüste Gobi. Windparks",
+    116,
+    122,
+    3.13,
+    2
+   ],
+   [
+    "rechenzentren",
+    "dutzende Rechenzentren. Viele Menschen hier sind Wanderarbeiter, kommen aus",
+    13,
+    21,
+    2.88,
+    7
+   ],
+   [
+    "ulan",
+    "geführt. Hier in Ulan Chap, rund 300 km",
+    7,
+    14,
+    2.57,
+    3
+   ],
+   [
+    "chap",
+    "geführt. Hier in Ulan Chap, rund 300 km",
+    7,
+    14,
+    2.25,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "liegt",
+    "liegt in Uland Chapp bei rund 5°. Es",
+    32,
+    37,
+    5.55,
+    2
+   ],
+   [
+    "sollen",
+    "zu 3 Gwatt sollen hier an Leistung",
+    76,
+    80,
+    5.51,
+    2
+   ],
+   [
+    "kohle",
+    "erneuerbare Energien, aber auch Kohle. Und die Zentralregierung, die pusht",
+    52,
+    60,
+    4.37,
+    2
+   ],
+   [
+    "günstiger",
+    "Standortvorteil: Günstiger Strom. In der inneren Mongolei gibt es sehr viel",
+    47,
+    56,
+    4.24,
+    2
+   ],
+   [
+    "berechnet",
+    "Ein Forschungsinstitut hat's berechnet. Die Kosten für den Aufbau unserer KI",
+    171,
+    179,
+    4.17,
+    1
+   ],
+   [
+    "geschaut",
+    "Du hast das Video bis zu Ende geschaut,",
+    221,
+    229,
+    4.14,
+    1
+   ],
+   [
+    "wüste",
+    "liegt am Rand der Wüste Gobi. Windparks",
+    116,
+    122,
+    4.13,
+    1
+   ],
+   [
+    "nördlich",
+    "nördlich von Peking entstehen gerade dutzende Rechenzentren. Viele Menschen",
+    11,
+    19,
+    4.12,
+    1
+   ],
+   [
+    "anreize",
+    "uns herum. Der Staat schafft Anreize für",
+    84,
+    89,
+    3.54,
+    1
+   ],
+   [
+    "huawei",
+    "bekannte Bigtech Firmen wie Huawei und",
+    38,
+    43,
+    3.51,
+    1
+   ],
+   [
+    "ambitionen",
+    "Chinas KI Ambitionen deutlich vor Augen",
+    4,
+    12,
+    3.49,
+    1
+   ],
+   [
+    "ausmasse",
+    "",
+    0,
+    0,
+    3.46,
+    1
+   ],
+   [
+    "landschaftsbild",
+    "Landschaftsbild. Die Verknüpfung von erneuerbaren",
+    121,
+    129,
+    2.99,
+    1
+   ],
+   [
+    "steppen",
+    "Die Stadt ist umgeben von Steppen und",
+    113,
+    119,
+    2.99,
+    1
+   ],
+   [
+    "rechenleistung",
+    "Alibaba, die hier Rechenleistung ansiedeln, z.B. fürs Training und den",
+    40,
+    48,
+    2.93,
+    1
+   ]
+  ],
+  "tx": "Wer durch diesen Ort in der inneren Mongolei fährt, kriegt die Ausmaße von Chinas KI Ambitionen deutlich vor Augen geführt. Hier in Ulan Chap, rund 300 km nördlich von Peking entstehen gerade dutzende Rechenzentren. Viele Menschen hier sind Wanderarbeiter, kommen aus anderen Regionen. Der Obstverkäufer ist ein Einheimischer. Es bringt mir auf jeden Fall mehr Geschäft. Es ist so viel Verkehr hier jetzt, alle Produkte verkaufen sich besser. Die Jahresdurchschnittstemperatur liegt in Uland Chapp bei rund 5°. Es braucht also weniger Strom und Wasser, um die Server zu kühlen. Es sind bekannte Bigtech Firmen wie Huawei und Alibaba, die hier Rechenleistung ansiedeln, z.B. fürs Training und den Betrieb ihrer KI Modelle. Der Standortvorteil: Günstiger Strom. In der inneren Mongolei gibt es sehr viel erneuerbare Energien, aber auch Kohle. Und die Zentralregierung, die pusht diese Entwicklung auch aus Sorge im künstlichen Intelligenzwettlauf gegenüber den USA ins Hintertreffen zu geraten. Wir besuchen das chinesische Energietech Unternehmen Envision, einer der weltweit größten Windkraftanlagenbauer. Inzwischen baut und vermietet das Unternehmen aber auch Rechenzentren. Bis zu 3 Gwatt sollen hier an Leistung entstehen. Das entspricht dem Strombedarf von 8 Millionen deutschen Haushalten. Ein örtlicher Manager führt uns herum. Der Staat schafft Anreize für neue Rechenzentren, finanzielle Unterstützung, Vorrang beim Landkauf, günstiger Strom. Zunächst einmal fördert der Staat diese Entwicklung und der zweite Vorteil sind schlicht die riesigen Mengen an erneuerbaren Energien. Das Besondere hier über dieses Umspannwerk soll in Zukunft Strom per Direktleitung aus dem eigenen Windpark in die Rechenzentren fließen. Die Stadt ist umgeben von Steppen und liegt am Rand der Wüste Gobi. Windparks und Solarpaneele gehören längst mit zum Landschaftsbild. Die Verknüpfung von erneuerbaren Energien mit Drechenzentren ist Staatsmaxime. 80% des Stroms sollen es für die neuen Zentren in bestimmten Regionen sein, schreibt die Pekinger Führung vor. Bislang stammt der Strom überwiegend aus Kohle. Im ersten Halbjahr diesen Jahres hat China so viel Solar und Windpotenzial verschwendet, das hätte Großbritannien für mehr als ein Jahr versorgen können. Da muss noch einiges passieren, um das effizienter zu nutzen. Die Rechenzentren Kapazitäten in China könnten sich bis 2030 nahezu verdreifachen. So Experten China will aufholen gegenüber den USA. Der Gründer von Invision, das Rechenzentren und Windparks verknüpft, schwärmt von den günstigen Bedingungen in UANP. Ein Forschungsinstitut hat's berechnet. Die Kosten für den Aufbau unserer KI Rechenzentren in Ulan Chap sind ein Fünftel der Kosten eines vergleichbaren Projekts in den USA. In Ulan Chap wird gebaut, wo früher vor allem brachliegende Fläche war. Das betrifft auch Land von Bauern. Er hat knapp 4000 € für ein kleines Feld bekommen. Noch lieber hätte er vom Boom langfristig profitiert. Ich konnte dort keine Arbeit finden. Viele Subunternehmer bringen ihre eigenen Leute mit. Ansonsten sagt er, stören ihn die Rechenzentre nicht. Es gäbe ausreichend Wasser für seine Felder. Und die Qualität des Wassers, die sei schon seit 10 Jahren schlecht. Da gab es den Baubo noch gar nicht. Du hast das Video bis zu Ende geschaut, dann kannst du auch ein Abo daassen.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "G99skq4Ak0c": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-25T16:30:49+00:00",
+  "title": "Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
+  "duration": 1553,
+  "published": "20261125",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 165.2,
+  "rare": 0.0682,
+  "var": 0.8435,
+  "cl": null,
+  "speech_s": 1523.0,
+  "tokens": 4193,
+  "kw": [
+   [
+    "wirklich",
+    "also nehmen. Und man hat wirklich auch",
+    148,
+    153,
+    5.75,
+    17
+   ],
+   [
+    "sagen",
+    "sagen, als Beobachterin, weil ganz lange",
+    152,
+    159,
+    5.68,
+    16
+   ],
+   [
+    "kommen",
+    "Länder kommen denn da in Frage? Und man",
+    175,
+    180,
+    5.71,
+    15
+   ],
+   [
+    "sollen",
+    "Asylanträgen sollen Deutschland verlassen. So will es die Regierung. Und",
+    19,
+    25,
+    5.51,
+    14
+   ],
+   [
+    "grossbritannien",
+    "",
+    0,
+    0,
+    4.46,
+    9
+   ],
+   [
+    "quasi",
+    "unser Mann. Ruanda ist quasi bereit.",
+    136,
+    142,
+    4.48,
+    6
+   ],
+   [
+    "prinzip",
+    "du musst im Prinzip die EU verlassen.",
+    258,
+    263,
+    4.63,
+    5
+   ],
+   [
+    "griechenland",
+    "Niederlanden, Dänemark und Griechenland zusammengetan für einen Abkommen mit",
+    91,
+    97,
+    4.54,
+    5
+   ],
+   [
+    "innenminister",
+    "durch ihre Innenminister, also wie Deutschland mit Alexander Dobrin. Für",
+    115,
+    121,
+    4.07,
+    8
+   ],
+   [
+    "migration",
+    "seit Jahren über das Thema Migration.",
+    48,
+    54,
+    4.09,
+    5
+   ],
+   [
+    "katrin",
+    "wir heute mit Katrin Schmidt. Sie ist",
+    43,
+    46,
+    3.76,
+    5
+   ],
+   [
+    "gerichten",
+    "Der wurde aber auch von Gerichten",
+    626,
+    631,
+    3.78,
+    4
+   ],
+   [
+    "ruanda",
+    "sie ab 2027 nach Ruanda geflogen werden,",
+    25,
+    31,
+    3.32,
+    28
+   ],
+   [
+    "geflüchtete",
+    "Geflüchtete, die in der EU sind, die",
+    139,
+    144,
+    3.38,
+    5
+   ],
+   [
+    "symbolik",
+    "und in der Symbolik, na absolut ins",
+    1088,
+    1092,
+    3.55,
+    4
+   ],
+   [
+    "asylpolitik",
+    "EU-Asylpolitik. Das sind große Worte. Ich sag mal so, es könnte sich auch als",
+    211,
+    217,
+    3.24,
+    4
+   ],
+   [
+    "abzuschieben",
+    "abzuschieben. Die würde Ruanda jetzt also nehmen. Und man hat wirklich auch",
+    146,
+    153,
+    2.72,
+    4
+   ],
+   [
+    "rwanda",
+    "Rwanda abschieben. Menschen mit abgelehnten",
+    14,
+    21,
+    2.3,
+    4
+   ],
+   [
+    "randa",
+    "Randa hat ja ein ganz gutes",
+    850,
+    854,
+    2.29,
+    3
+   ],
+   [
+    "rechtspopulistischen",
+    "rechtspopulistischen Seite argumentieren, Futter in der Debatte.",
+    1138,
+    1145,
+    2.96,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "bleiben",
+    "hier bleiben wollten, aber nicht bleiben",
+    141,
+    146,
+    5.37,
+    14
+   ],
+   [
+    "europa",
+    "wichtig in Europa schon sämtliche Verfahren durchlaufen haben, also die",
+    246,
+    254,
+    5.26,
+    13
+   ],
+   [
+    "sozusagen",
+    "Biruta. Und die anderen haben sozusagen",
+    132,
+    137,
+    4.23,
+    5
+   ],
+   [
+    "pläne",
+    "und was die Pläne grundsätzlich über die",
+    38,
+    44,
+    4.53,
+    4
+   ],
+   [
+    "elena",
+    "Name ist Elena Kuch und heute",
+    56,
+    63,
+    3.75,
+    4
+   ],
+   [
+    "standards",
+    "auch nach den Standards stattfinden, die",
+    645,
+    651,
+    4.18,
+    3
+   ],
+   [
+    "asylverfahren",
+    "Asylverfahren im Zweifel. Also, sie wollten auch die Asylanträge gar nicht",
+    619,
+    627,
+    3.17,
+    4
+   ],
+   [
+    "migrationspolitik",
+    "europäische Migrationspolitik beobachtet, dann weiß man schon so ein",
+    452,
+    460,
+    3.03,
+    4
+   ],
+   [
+    "korrespondentin",
+    "AfD Korrespondentin in Brüssel und berichtet von dort aus",
+    44,
+    52,
+    2.69,
+    2
+   ],
+   [
+    "irreguläre",
+    "ein nicht nur ein Kampf gegen irreguläre",
+    1146,
+    1151,
+    2.43,
+    2
+   ]
+  ],
+  "tx": "ARD Sounds. Großbritannien hat es vergeblich versucht. Jetzt wollen Deutschland und vier andere EU-Länder es besser machen. Abgelehnte Asylbewerber nach Rwanda abschieben. Menschen mit abgelehnten Asylanträgen sollen Deutschland verlassen. So will es die Regierung. Und wenn ihre Heimatländer sie nicht aufnehmen wollen, dann sollen sie ab 2027 nach Ruanda geflogen werden, auch wenn sie gar nichts mit dem afrikanischen Land zu tun haben. Soweit die Idee. Wie genau das funktionieren soll, welchen Effekt sich die europäischen Länder erhoffen und was die Pläne grundsätzlich über die EU-Aylpolitik … da kann man noch leider nichts sagen, das wird dann Richtung Ende des Jahres soweit sein. Da zumindest haben also die Beteiligten da Wortgehalten, aber wir sind feste dran und wir das meinte eben immer schon eine Gruppe aus diesen fünf Staaten Deutschland, Dänemark, Griechenland, Niederlande, Österreich, die gesagt haben: \"Pass auf, wir setzen uns quasi an die Spitze der europäischen Bewegung, was das angeht, was diese Returnhubs angeht. Wir werden Länder finden. Und jetzt haben sie dann einen gefunden und Fredriksen und Stocker, die beiden äh Regierungschefs, haben sogar von einem … von ziemlich wenigen. Also, es ist jetzt so grob gesagt worden, so ein paar hundert aus der EU, ne? Also wahrscheinlich erstmal aus diesen fünf Ländern, wenn man das auf Deutschland runterbrechen, das werden wahrscheinlich nächstes Jahr keine 100 sein, die da jetzt planmäßig oder wovorgesehen ist, dass die diesen Weg nach Rwanda da machen sollten. Also, da kann man wirklich fragen, wozu? Aber es gibt eine klare Antwort auf wozu und ich würde sagen, die liegt eben auf keinen Fall in der Menge, dass man sagt, das bringt wirklich was. Ja, für ja, das eigentliche Ziel, dass man wirklich … mehr, der schutzbedürftig ist und das ist bei diesen Menschen verneint worden. Ist Bangladesch Beispiel, also könnte z.B. sein, ne? Könnte aber auch könnten viele andere Länder sein. Genau. Lass uns mal bei Bangladesch bleiben. Was soll denn ein junger Mann, der nach Deutschland wollte, hier nicht bleiben darf? Was soll er denn jetzt in Ruanda machen? Ruanda sagt jetzt: \"Ja, gut, die Leute sind herzlich willkommen, ne? Wir helfen da auch unterstützen am Anfang integrieren. Aber natürlich nimmt man auch in Kauf, dass die Leute haben ja darauf gesetzt nach Europa zu kommen und Europa zu … das ganze Ding auch erstmal abgemeldet und sozusagen auf Eis gelegt. Wenn wir jetzt wieder auf Ruanda gucken, also der Deal zwischen Großbritannien und Ruanda ist gescheitert, aber warum sollte es denn jetzt diesmal klappen mit dem Abkommen zwischen Deutschland und den vier anderen Ländern und Ruanda? Diese fünf europäischen Staaten, die machen es jetzt ja wirklich anders. Also der wichtigste Punkt, es sollen keine Asylverfahren dort, sondern wir reden über Leute, die kein Asyl in Europa bekommen, die alle Verfahren durchhaben, die ein nein schwarz auf weiß haben, die keinen … Auswahl ist da jetzt nicht die beste und da ist wahrscheinlich Ruanda jetzt noch der Staat, der den besten Eindruck dahinterlassen hat. Die EU verlässt sich ja auch auf Tunesien, Marokko, Algerien bis hin zu Libyen, wo ja auch nach unserer Definition zum Teil Warlords am Werk sind und gibt auch dorthin Geld, damit diese Länder in einer Kooperationsvereinbarung, wie es dann immer so schön heißt, die Menschen aufhalten, die eigentlich übers Mittelmeer sich bewegen wollten, um nach Europa zu kommen. Randa hat ja ein ganz gutes Wirtschaftswachstum und ich habe mal nachgeschaut, das ist ein … Trend, den man wirklich seit Jahren beobachten kann. spätestens auch seit, ich sag mal so, 2024 das EU-Parlament auch neu gewählt wurde und seitdem auch deutlich mehr Mitte Richtung rechts besetzt ist als noch vorher, wo natürlich auch gleichzeitig in vielen europäischen Staaten es auch eine ganz große ja Macht der konservativen Politiker gibt. Also, da gab's ja wirklich auch einen Trend, der sich so verschoben hat und damit auch eine Debatte in der Migrationspolitik, die eigentlich viele Bedenken, die man noch vor 3 Jahren ins Feld geführt hat. Darf man es wirklich zulassen, dass wenn … würde ich sagen. Wenn die EU hier ein Zeichen setzen will in der Asylpolitik, warum machen denn da nicht alle Länder mit? Das sind ja nur fünf Länder. Warum wird das nicht auf EU-Ebene beschlossen? Also, man muss sagen, auf EU-Ebene wurde vor wenigen Monaten die sogenannte Rückführungsverordnung beschlossen. Die EU-Mgliedstaaten haben die rechtliche Grundlage für Abschiebezentren in Drittstaaten geschaffen. Nach dem Parlament haben heute auch die Innenminister bei einem Treffen in Luxemburg zugestimmt. In die geplanten Zentren sollen ausreisepflichtige Menschen gebracht werden, die … von Hilfsorganisationen und Kirchen warnen hingegen davor, die Rechte Schutzsuchender zu beschneiden. Konkret sind Asylverfahren direkt an den EU-Außengrenzen vorgesehen. Dadurch sollen Abschiebungen schneller erfolgen. Mit besseren Kontrollen, auch besser abgestimmten Kontrollen an den Grenzen, ne? Wer ist schon mal woanders eingereist? Dann darf er da nicht erneuten Asylantrag stellen. Also wirklich auch sinnvolle Sachen, weil da war die Ordnung nicht drin. Ja, also du beschreibst eine EU, die in der Asylpolitik immer härter wird. Wohin steuert die EU da gerade? Ja, das wird … Nototes. Und wir schauen morgen bei FKM auf die Wohnungskrise in Deutschland. Mieten ist ja in vielen deutschen Städten längst zum Luxus geworden. Wie das passieren konnte und wie manche Kommunen das Problem lösen wollen, das hört ihr morgen bei 11 km. Autor dieser Folge ist Jonas Helm. Mitgearbeitet haben Nicole Diemann und Lukas Waschbüsch. Produktion: Emilian Grim, Jonas Teichmann, Lisa Krumme und Marino Elweler. Redaktionsleitung Jasin Jüel und Fumi Colip. 11 km ist eine Produktion von BR24 und von NDL Info. Und mein Name ist Elena Kuch und ich freue mich, wenn wir uns morgen wiederhören.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "kKcayJwCpP0": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-25T16:31:19+00:00",
+  "title": "Mehr Gewalt gegen Frauen / Retouren-Flut wegen Black Week und Weihnachten / P+R-Angebote im Test",
+  "duration": 930,
+  "published": "20261125",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 181.4,
+  "rare": 0.0736,
+  "var": 0.8468,
+  "cl": null,
+  "speech_s": 925.6,
+  "tokens": 2799,
+  "kw": [
+   [
+    "frauen",
+    "Beseitigung von Gewalt gegen Frauen, auch als Orange Day bekannt. Gestern",
+    38,
+    45,
+    5.53,
+    15
+   ],
+   [
+    "gewalt",
+    "steigende Zahlen von häuslicher Gewalt, was die Bundesregierung dagegen",
+    8,
+    14,
+    4.9,
+    13
+   ],
+   [
+    "gibt's",
+    "Täterarbeit. Also, da gibt's auch Beratungsangebote für Männer, die",
+    238,
+    244,
+    4.93,
+    9
+   ],
+   [
+    "gerade",
+    "Julia sagt übrigens, gerade auf dem Land",
+    194,
+    199,
+    5.77,
+    8
+   ],
+   [
+    "park",
+    "und vom Auto in Bus oder Bahn. Park and",
+    18,
+    24,
+    4.72,
+    8
+   ],
+   [
+    "parkplatz",
+    "sauberen Parkplatz oder hier.",
+    600,
+    606,
+    4.29,
+    6
+   ],
+   [
+    "düsseldorf",
+    "Düsseldorf. Schöne Grüße. Muss man mal hin.",
+    624,
+    630,
+    4.77,
+    5
+   ],
+   [
+    "bus",
+    "und vom Auto in Bus oder Bahn. Park and",
+    18,
+    24,
+    4.72,
+    5
+   ],
+   [
+    "pakete",
+    "Millionen Pakete durchs Land und da sind",
+    406,
+    410,
+    3.88,
+    6
+   ],
+   [
+    "parkplätze",
+    "Zustand der Park and Ride Parkplätze in",
+    630,
+    635,
+    3.85,
+    6
+   ],
+   [
+    "marokko",
+    "Titel wieder zugesprochen. Heißt Marokko verliert den Pokal. Auslöser waren",
+    353,
+    361,
+    3.85,
+    4
+   ],
+   [
+    "adac",
+    "Deutschland ist, hat sich der ADAC 72",
+    632,
+    637,
+    3.81,
+    3
+   ],
+   [
+    "stollen",
+    "Chris Stollen machen, ne? Aber das finde",
+    858,
+    864,
+    3.5,
+    8
+   ],
+   [
+    "ride",
+    "Ride Angebote sind praktisch, aber sind sie auch gut?",
+    21,
+    27,
+    3.46,
+    7
+   ],
+   [
+    "angeguckt",
+    "davon angeguckt, unter anderem eben auch",
+    634,
+    639,
+    3.49,
+    3
+   ],
+   [
+    "durchgefallen",
+    "Düsseldorf und ist durchgefallen. Vielleicht wohnt ihr in der Region, wo",
+    643,
+    649,
+    3.18,
+    3
+   ],
+   [
+    "retouren",
+    "auch Retouren dabei. Ja und aufs ganze Jahr gesehen waren",
+    408,
+    416,
+    2.57,
+    4
+   ],
+   [
+    "beratungsangebote",
+    "Schutz und Beratungsangebote sorgen und Betroffene sollen noch ein Recht auf",
+    184,
+    190,
+    2.44,
+    3
+   ],
+   [
+    "emde",
+    "Vanessa Emde diskutiert. Und jetzt steht",
+    307,
+    312,
+    2.26,
+    3
+   ],
+   [
+    "umkleidekabine",
+    "virtuelle Umkleidekabine gehabt mit so 3D Darstellung.",
+    523,
+    529,
+    2.86,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "sagen",
+    "An dieser Stelle ist wichtig zu sagen,",
+    130,
+    134,
+    5.68,
+    8
+   ],
+   [
+    "and",
+    "und vom Auto in Bus oder Bahn. Park and",
+    18,
+    24,
+    5.22,
+    8
+   ],
+   [
+    "otto",
+    "zweitgrößter Versandhändler Otto geht einen anderen Weg und setzt auf einen KI",
+    558,
+    565,
+    4.59,
+    4
+   ],
+   [
+    "julia",
+    "Julia erlebt, die mit 20 einen Mann",
+    78,
+    82,
+    4.37,
+    4
+   ],
+   [
+    "betroffene",
+    "Was können betroffene Frauen und Mädchen",
+    155,
+    160,
+    4.15,
+    2
+   ],
+   [
+    "nutze",
+    "gibt's davon auch einige und ich nutze",
+    659,
+    662,
+    4.09,
+    2
+   ],
+   [
+    "häuslicher",
+    "steigende Zahlen von häuslicher Gewalt, was die Bundesregierung dagegen",
+    8,
+    14,
+    3.16,
+    3
+   ],
+   [
+    "zugesprochen",
+    "Titel wieder zugesprochen. Heißt Marokko verliert den Pokal. Auslöser waren",
+    353,
+    361,
+    3.59,
+    2
+   ],
+   [
+    "winterjacke",
+    "eine Winterjacke bestellt. Die gefällt mir klar, aber ich weiß noch nicht, ob",
+    388,
+    395,
+    2.84,
+    2
+   ],
+   [
+    "weihnachtsgeschäft",
+    "Retourenflut im Weihnachtsgeschäft und bei der Blackweek, was Versandhändler",
+    13,
+    19,
+    2.77,
+    2
+   ]
+  ],
+  "tx": "ARD Sounds steigende Zahlen von häuslicher Gewalt, was die Bundesregierung dagegen unternehmen will. Retourenflut im Weihnachtsgeschäft und bei der Blackweek, was Versandhändler gegen Rücksendungen machen und vom Auto in Bus oder Bahn. Park and Ride Angebote sind praktisch, aber sind sie auch gut? 15 Minuten der Tagesschaupcast am Morgen. Schönen guten Morgen. Heute ist Mittwoch, der 25. November. Wir sind Moritz und Annika. Moin. Heute ist der internationale Tag zur Beseitigung von Gewalt gegen Frauen, auch als Orange Day bekannt. Gestern kamen neue Zahlen zur Gewalt gegen Frauen raus und es … in ähnlichen Situationen. Leider sind aber nicht nur die Zahlen in Sachen häuslicher Gewalt gegen Frauen und Mädchen gestiegen, sondern es gibt auch mehr Sexualstraftaten und mehr digitale Gewalt gegen Frauen. Und es sind auch mehr Frauen und Mädchen durch Tötungsgelegte gestorben, sagt die Statistik. Mehr als 200 Frauen und Mädchen haben vergangenes Jahr durch Gewalt in der Partnerschaft oder Familie ihr Leben verloren. An dieser Stelle ist wichtig zu sagen, ja, all diese Zahlen zur Gewalt sind heftig und viel zu hoch, aber wir müssen uns klar machen, das sind ja nur die Fälle, von … ein Auto oder eine Bus und Bahnanbindung, die sind da ja auch nicht immer gut. Also wir sagen, die Frauen, die kommen einfach nicht so gut weg auf dem Land und dazu kommt noch was anderes. In so dörflichen Strukturen haben wir dann natürlich das zweite Problem, dass die sich oft untereinander kennen und dass es da vielleicht auch noch schwieriger ist rauszukommen oder zu sagen, ich frage jetzt meine Nachbarin oder ich frage meine Schwester oder mein Bruder, die gegenüber wohnen, als in so Großstädten, wo das Ganze ein bisschen anonymer ist. Auch präventive Arbeit z.B. an Schulen äh … braucht, wir haben euch in der folgenden Beschreibung Beratungsangebote verlinkt. Unsere Kurznachrichten. Wochenlang haben Grüne, SPD und Linke in Berlin über die linken Politikerin Vanessa Emde diskutiert. Und jetzt steht fest, die Berliner Linke schließt Emde aus der Fraktion aus. Sie ist also künftig eine fraktionslose Abgeordnete. Steht wegen ihrer Position zu Israel in der Kritik. SPD Landeschef Steffen Krach hatte gesagt, nur wenn Emde ausgeschlossen wird, könnte eine rotgrün Koalition in Berlin zustande kommen. In Belgien ist die größte Satellitenfabrik Europas eröffnet worden. In der … fahren fleißige Zustellerinnen und Zusteller ja Millionen Pakete durchs Land und da sind auch Retouren dabei. Ja und aufs ganze Jahr gesehen waren sogar 4,5 Milliarden Pakete. Alter, das sind Schätzung. Aber was für eine Schätzung. Wahnsinn. Wahnsinn. Interessant ist ja beher auch man denkt, dass die Retouren kostenlos sind, weil die Händler das ja so auf ihre Website schreiben, aber die Wahrheit ist, das ist alles eingepreist und im Endeffekt zahlen alle, die ihre Produkte am Ende behalten, die Retourkosten der anderen gleich mit, weil gerade für große Händler sind Retouren finanziell … die zahlen wir alle bei unseren Bestellungen mit. Die sind eingepresst. Kostenlose Retour hin oder her. Umweltfreundlich ist das natürlich alles nicht. Also ich würde dich schon bitten, deine Winterjacke zu behalten, ne? Vielleicht siehst du sie demnächst. Ja, wenn sie gut passt, behalte ich die natürlich auf jeden Fall. Ähm und bei dem Händler, bei dem ich bestellt habe, bei dem ist auch so, der hat so eine virtuelle Umkleidekabine gehabt mit so 3D Darstellung. Da ist dann so, man muss Fotos hochladen von sich, ne, und das System, das checkt die dann macht einem dann Größenvorschläge. … beleuchteten, gerade gepflasterten, sauberen Parkplatz oder hier. Ja, der Zustand ist ziemlich ziemlich schlecht. Überall Gras, Erde, Hügel, Fützen, sowas halt nicht so gut. Also bis hier vorne geht, wo man diesen halbwegs normalen gepflasterten Weg hat, aber da hinten sind halt super viele Schlaglöcher drin. Die würde ich sagen, so 50 m ist alles gut, aber danach gibt's viele Löcher. Die Rede ist hier vom Park and Ride Parkplatz am Simon Gatzweiler Platz in Düsseldorf. Schöne Grüße. Muss man mal hin. Anscheinend nicht. Um mal zu gucken, wieso der allgemeine Zustand der Park and Ride … ist das Ding beleuchtet und auch da hat der Parkplatz in Düsseldorf jetzt nicht geglänzt. Wenn man dann hier abends allein ist, ist es doch relativ dunkel. Ja, also gerade wenn man dann weiter hinten durchsteht, dann ist ja auch nicht wirklich Straße in der Nähe. Es ist schon etwas ungünstig. Nachts ist es dann schon düster. Also bin schon froh, wenn ich mein Auto erreicht habe und dann wegfahren kann. Insgesamt ist der Parken Ride in Düsseldorf wie gesagt krachend durchgefallen mit einem Ergebnis von sehr mangelhaft. Liebe Landeshauptstadt, bitte mal nachsitzen da an dem Platz, ne? … runter Berlin sowie hier vier in den Regionen Leipzig und Frankfurt am Main sind auch unter den Schlusslichtern. Aber die Mattefüchse unter euch, die haben bemerkt, Moment mal, wenn ein Drittel durchgefallen ist, dann sind zwei Drittel mindestens mal okay. Und das ist gar nicht so ein schlechter Schnitt, finde ich. Ja, die beste Anlage im Test ist übrigens in München, Neupalach Süd. Ein großes modernes Parkhaus, genügend freie Stellplätze, Videoüberwachung, durchgehende Beleuchtung, Lademöglichkeiten für E-Fahrzeuge, eigene Stellplätze für Frauen bzw. Familien, durchgängig markierte Wege … in Frage. Ist natürlich alles viel zu zerbrechlich, ne? Ja. Und zwar nicht nur das Porzellan. \"Wenn ein Stollen zerbricht, ist das ein schlechtes Omen, sagt der sächsische Glaube.\" Ja. Und was hat der ganze Dienstwagen Stollenspaß gekostet? 923,51 Cent. Hoffentlich war wenigstens der Park and Ride Parkplatz und Rom dafür kostenlos. Das hoffe ich auch. Also gönnt euch heute ein Stollen, denkt dabei an den Papst und hört uns morgen wieder zu. Tschü bis morgen. 15 Minuten. Der Tagesschau Podcast am Morgen kommt vom westdeutschen Rundfunk heute zusammen mit dem Norddeutschen Rundfunk. Угу.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "lqjnC0c-bmk": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-25T16:32:04+00:00",
+  "title": "Erneut Anstieg bei häuslicher Gewalt | tagesthemen-Interview",
+  "duration": 375,
+  "published": "20261124",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 160.1,
+  "rare": 0.0568,
+  "var": 0.8162,
+  "cl": null,
+  "speech_s": 375.8,
+  "tokens": 1003,
+  "kw": [
+   [
+    "frauen",
+    "Opfer Frauen bzw. 70% je nach ähm äh Um",
+    27,
+    34,
+    5.53,
+    7
+   ],
+   [
+    "gewalt",
+    "Gewalt sind männlich und bei Gewalt in",
+    2,
+    7,
+    4.9,
+    7
+   ],
+   [
+    "sehen",
+    "legen wollen, weil wir sehen, vor allen",
+    35,
+    40,
+    5.69,
+    6
+   ],
+   [
+    "gehen",
+    "gehen und Anzeige erstatten. Das heißt,",
+    57,
+    64,
+    5.65,
+    6
+   ],
+   [
+    "gründe",
+    "geschlechtsspezifische Gründe in den Mordparagraphen mit aufgenommen werden,",
+    174,
+    181,
+    4.73,
+    4
+   ],
+   [
+    "anzeige",
+    "trauen, Anzeige zu erstatten? Es wird ja",
+    42,
+    47,
+    4.56,
+    4
+   ],
+   [
+    "mord",
+    "denen ein Femizid, also der Mord an",
+    155,
+    161,
+    4.53,
+    4
+   ],
+   [
+    "fälle",
+    "einige Fälle gibt, die tatsächlich lange",
+    110,
+    116,
+    4.7,
+    3
+   ],
+   [
+    "ähm",
+    "Das ist für uns auch eine hohe Zahl. Ähm",
+    11,
+    15,
+    4.12,
+    28
+   ],
+   [
+    "trauen",
+    "trauen, Anzeige zu erstatten? Es wird ja",
+    42,
+    47,
+    4.12,
+    2
+   ],
+   [
+    "kommunen",
+    "Kommunen, die ja für die Frauenhäuser",
+    338,
+    342,
+    4.11,
+    2
+   ],
+   [
+    "merkmal",
+    "Merkmal Geschlecht anknüpfen, sondern, wenn das richtig",
+    255,
+    261,
+    3.82,
+    2
+   ],
+   [
+    "mhm",
+    "Mhm. Andererseits, Frau Hubig, man kann",
+    76,
+    81,
+    3.53,
+    3
+   ],
+   [
+    "beweggründe",
+    "Mordmerkmal niedere Beweggründe. Können Sie uns einen Fall nennen, in dem das",
+    206,
+    216,
+    3.36,
+    3
+   ],
+   [
+    "geschlechtsspezifische",
+    "geschlechtsspezifische Gründe in den Mordparagraphen mit aufgenommen werden,",
+    174,
+    181,
+    2.68,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "wollen",
+    "legen wollen, weil wir sehen, vor allen",
+    35,
+    40,
+    5.71,
+    5
+   ],
+   [
+    "sagen",
+    "sagen, gleichzeitig sind eben 80% der",
+    23,
+    32,
+    5.68,
+    5
+   ],
+   [
+    "erklärung",
+    "gibt einmal die Erklärung, dass insgesamt die Gewalt weiter ansteigt.",
+    91,
+    98,
+    4.69,
+    3
+   ],
+   [
+    "dringend",
+    "zu viel und wir müssen dringend alles",
+    65,
+    70,
+    4.6,
+    3
+   ],
+   [
+    "erstatten",
+    "trauen, Anzeige zu erstatten? Es wird ja",
+    42,
+    47,
+    3.7,
+    2
+   ],
+   [
+    "zuflucht",
+    "keine Zuflucht finden. In fünf Jahren",
+    310,
+    315,
+    3.65,
+    2
+   ],
+   [
+    "männlicher",
+    "Dunkelziffer weiblicher und männlicher Opfer?",
+    47,
+    54,
+    3.59,
+    1
+   ],
+   [
+    "differenzierung",
+    "der näheren Differenzierung, mit der Erklärung geschlechtsspezifische Gründe",
+    231,
+    238,
+    3.57,
+    1
+   ],
+   [
+    "anknüpfen",
+    "Merkmal Geschlecht anknüpfen, sondern, wenn das richtig",
+    255,
+    261,
+    3.54,
+    1
+   ],
+   [
+    "befund",
+    "unterstützt durch den Befund, dass es",
+    107,
+    113,
+    3.51,
+    1
+   ],
+   [
+    "unterlegenen",
+    "unterlegenen äh Position zu machen, die",
+    276,
+    280,
+    2.96,
+    1
+   ],
+   [
+    "urteilsbegründung",
+    "wie würde eine Urteilsbegründung da konkret aussehen?",
+    148,
+    156,
+    2.88,
+    1
+   ],
+   [
+    "ahnden",
+    "lebenslangen Freiheitsstrafe zu ahnden. Würde das auch männliche Opfer",
+    197,
+    202,
+    2.87,
+    1
+   ],
+   [
+    "prien",
+    "bei der Kollegin Karin Prien im",
+    332,
+    337,
+    2.71,
+    1
+   ],
+   [
+    "strafverfahrens",
+    "und des Strafverfahrens dann. Mhm. Andererseits, Frau Hubig, man kann",
+    74,
+    81,
+    2.68,
+    1
+   ]
+  ],
+  "tx": "Fast 30% der Betroffenen häuslicher Gewalt sind männlich und bei Gewalt in der Partnerschaft sind es immer noch rund 20% Das ist für viele eine überraschend hohe Zahl. Für Sie auch? Das ist für uns auch eine hohe Zahl. Ähm wir wissen natürlich, dass partnerschaftliche Gewalt, Gewalt in Haushalten auch Männer trifft, dass es auch diese umgekehrte ähm äh Situation gibt, aber mir ist eines wichtig zu sagen, gleichzeitig sind eben 80% der Opfer Frauen bzw. 70% je nach ähm äh Um Umgebung und das ist der Schwerpunkt, den wir auch beim Kampf gegen Gewalt legen wollen, weil wir sehen, vor allen … sind es, die sich nicht trauen, Anzeige zu erstatten? Es wird ja auch eine Dunkelfeldstudie durchgeführt. Wie hoch äh schätzen Sie die Dunkelziffer weiblicher und männlicher Opfer? Also wir sehen, dass im Bereich der häuslichen Gewalt nur ungefähr 5% der Betroffenen tatsächlich zur Polizei gehen und Anzeige erstatten. Das heißt, 95% der Taten liegen ähm im Dunkelfeld und das bedeutet natürlich, dass es viel zu viel und wir müssen dringend alles dafür tun, dass wir Menschen ähm animieren, dass wir ihnen zeigen, es gibt Hilfe, es gibt Unterstützung, damit sie diesen Weg auch der Anzeige … Frau Hubig, man kann ja auch sagen, ähm der Anstieg von Fällen ähm begründet sich auch auf dem Anstieg von Anzeigen, ja? Gehen einfach mehr Menschen zur Polizei? Was wissen Sie darüber? Also es gibt beide ähm Erklärungen. Es gibt einmal die Erklärung, dass insgesamt die Gewalt weiter ansteigt. Wir sehen das auch in anderen Bereichen. Es gibt auch die Erklärung, dass mehr Menschen jetzt auch durch die Öffentlichkeitsarbeit, durch alles das, was wir in der Öffentlichkeit diskutieren, sich trauen, zur Polizei zu gehen. Diese ähm diese Mischung wird unterstützt durch den Befund, … lange vor der Anzeige lagen. Das heißt, ähm es wird dann später angezeigt ähm und erst jetzt angezeigt und das ist, ich ähm ein, wäre ein positives Signal. Mhm. Es ging es in den Beiträgen auch schon darum, wie Betroffenen geholfen werden soll oder geholfen werden kann. Ähm, es gibt ähm Kritik an ihrem Plan, den Mordparagraphen zu ergänzen, um Frauen besser zu schützen. Sie wollen die Strafen für sogenannte Femizide verschärfen. Landläufig wird das ja so verstanden, Morde an Frauen, weil sie Frauen sind. Ist das so gemeint? Erklären Sie uns doch bitte noch mal, wie würde eine … heute schon Fälle, in denen ein Femizid, also der Mord an einer Frau aus Besitzdenken heraus, ähm weil sie sich trennen will und der Täter das nicht will, dass es zum Teil als Mord bestraft wird. Wir sehen aber immer noch nach wie vor auch in einer Studie, dass rund 50 % der Fälle als Totschlag bestraft werden. Wir wollen jetzt künftig, dass diese Motivation, geschlechtsspezifische Gründe in den Mordparagraphen mit aufgenommen werden, damit die Gerichte in jedem Falle noch mal überprüfen, was war die Motivation und damit es eben nicht heißt, es ist ein Eifersuchtsdrama, eine … wird. Und wenn diese Gründe geschlechtsspezifische waren, dann ähm ist es auch richtig, als Mord zu verurteilen und eben auch mit einer lebenslangen Freiheitsstrafe zu ahnden. Würde das auch männliche Opfer betreffen? Das betrifft Männer genauso wie Frauen. Mhm. Nun gibt es ja schon das Mordmerkmal niedere Beweggründe. Können Sie uns einen Fall nennen, in dem das nicht schon damit abgedeckt ist? Also die niedrigen Beweggründe ähm es gibt es heute schon, deshalb gibt es auch schon Verurteilungen äh wegen eines Femizids als Mord, aber wir sehen eben auch, dass trotz dieser Formulierung … und mit der mit dem äh mit der näheren Differenzierung, mit der Erklärung geschlechtsspezifische Gründe äh gehen wir davon aus, dass die Gerichte dann tatsächlich die Motivation hinter äh hinterforschen. Also dass sie nicht einfach sagen ähm na ja gut, das war auch schwierig für den Täter, sondern ähm anerkennen, dass diese Gründe ähm niedrige Beweggründe sind. In der Koalition ist das ja noch nicht abgestimmt. Die Union will nicht ans Merkmal Geschlecht anknüpfen, sondern, wenn das richtig zu verstehen ist, an das Merkmal körperliche Unterlegenheit. Wer hat da die besseren Chancen, sich … froh, dass ähm auch die Kolleginnen und Kollegen aus vom Koalitionspartner auch sagen, sie wollen diesen Tatbestand haben eines Femizides. Ähm die Idee, ähm das mit der unterlegenen äh Position zu machen, die gab es schon in der letzten Legislaturperiode. Die ist in der Anhörung ähm kritisiert worden, weil sie sehr weit ist und möglicherweise auch Fallgestaltungen äh ähm trifft, die nicht erfasst werden sollen. Der Mordparagraph ist, ich sage immer, was wenn man daran was ändert, das ist schon eine Operation am am offenen Herzen und deshalb wollen wir minimalinvasiv, aber eben genau … Frau Hubig, in Deutschland fehlen 12.000 Frauenhausplätze. Das vergrößert für viele Bedürftige die Not, die einfach keine Zuflucht finden. In fünf Jahren soll es einen Rechtsanspruch auf einen Platz geben. Würden Sie irgendwas darauf wetten, dass das gelingt in fünf Jahren? Also zunächst mal, wir brauchen dringend mehr Frauenhausplätze. Das ist die Zuflucht der Zufluchtsort für viele Menschen, die gerade keine familiäre Bindung haben, für viele Frauen mit ihren Kindern. Deshalb ist es gut, dass es das Gewalthilfegesetz gibt. Das ist bei der Kollegin Karin Prien im Ministerium. 2,6 … die Länder und Kommunen, die ja für die Frauenhäuser verantwortlich sind. Und wir brauchen da dringend mehr Aufbau der Bundestag hat hat nach einem Aber. Nein, ich wollte gerade noch sagen, der Bundestag hat zusätzlich noch 150 Millionen in der letzten äh im letzten Jahr zur Verfügung gestellt für die Sanierung von Frauenhäusern, aber das Geld muss auch verbaut werden und es muss zusätzlich sein und nicht quasi äh Geld der Kommunen ersetzen. Bundesjustizministerin Stephanie vielen Dank. Sehr gerne, Frau Felmer. Du hast das Video bis zu Ende geschaut, dann kannst du auch ein Abo da lassen.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "xb5nA9oiITk": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-25T16:32:50+00:00",
+  "title": "Häusliche Gewalt nimmt zu: Warum steigen die Zahlen der Delikte?",
+  "duration": 310,
+  "published": "20261124",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 157.1,
+  "rare": 0.067,
+  "var": 0.8251,
+  "cl": null,
+  "speech_s": 296.3,
+  "tokens": 776,
+  "kw": [
+   [
+    "gewalt",
+    "der Opfer bei häuslicher Gewalt ist um",
+    5,
+    10,
+    4.9,
+    6
+   ],
+   [
+    "frauen",
+    "Frauen. Worum geht es da? Also da geht es zum einen um Taten, die",
+    168,
+    177,
+    5.53,
+    4
+   ],
+   [
+    "worden",
+    "Jahr auch noch Taten angezeigt worden",
+    33,
+    38,
+    5.52,
+    4
+   ],
+   [
+    "eben",
+    "dann eben in diesem Bericht auch",
+    23,
+    28,
+    5.39,
+    4
+   ],
+   [
+    "häufiger",
+    "Einmal, dass die Betroffenen häufiger zur Polizei gehen, also häufiger Anzeige",
+    15,
+    22,
+    4.44,
+    4
+   ],
+   [
+    "taten",
+    "Jahr auch noch Taten angezeigt worden",
+    33,
+    38,
+    4.46,
+    3
+   ],
+   [
+    "gestiegen",
+    "2,8 % gestiegen. Wie bewertet das",
+    7,
+    13,
+    4.23,
+    3
+   ],
+   [
+    "vergangenen",
+    "liest das daraus, dass im vergangenen",
+    31,
+    36,
+    4.67,
+    2
+   ],
+   [
+    "ähm",
+    "ähm zivilgesellschaftliche Beratungsstellen und auch, das ist",
+    141,
+    148,
+    4.12,
+    5
+   ],
+   [
+    "claudia",
+    "Fragen wir nach bei Claudia Kornmeier im",
+    0,
+    6,
+    4.16,
+    3
+   ],
+   [
+    "innenminister",
+    "Innenminister heute angekündigt. Es ist noch ein anderes Lagebild",
+    160,
+    167,
+    4.07,
+    2
+   ],
+   [
+    "bestrafen",
+    "Geschlechts als Mord zu bestrafen. Wie steht das politische Berlin dazu?",
+    253,
+    262,
+    3.82,
+    2
+   ],
+   [
+    "häuslicher",
+    "der Opfer bei häuslicher Gewalt ist um",
+    5,
+    10,
+    3.16,
+    3
+   ],
+   [
+    "delikte",
+    "bestimmte Delikte, denen häufiger oder überwiegend Frauen zum Opfer fallen und",
+    181,
+    190,
+    3.35,
+    2
+   ],
+   [
+    "bundeskriminalamt",
+    "Bundeskriminalamt diese Zahl? Also da gibt es zwei Erklärungsversuche.",
+    10,
+    18,
+    3.02,
+    2
+   ],
+   [
+    "tötungsdelikte",
+    "auch dazu und auch Tötungsdelikte. Dann schauen wir noch mal genau auf die",
+    195,
+    202,
+    2.5,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "tatsächlich",
+    "ausgehen, dass die Taten tatsächlich die",
+    39,
+    44,
+    5.11,
+    4
+   ],
+   [
+    "dazu",
+    "dazu sagen, das hier ist jetzt das",
+    67,
+    71,
+    5.71,
+    3
+   ],
+   [
+    "bund",
+    "Bund in den Bundesländern seit einer",
+    114,
+    119,
+    4.65,
+    2
+   ],
+   [
+    "ansonsten",
+    "umgesetzt werden kann. Ansonsten gibt es",
+    138,
+    143,
+    4.62,
+    2
+   ],
+   [
+    "bka",
+    "Themen enttabuisiert werden. Das BKA liest das daraus, dass im vergangenen",
+    28,
+    36,
+    3.7,
+    2
+   ],
+   [
+    "bedrohung",
+    "Feminismus als Bedrohung angesehen wird. In bestimmten Sphären online sich die",
+    53,
+    60,
+    4.16,
+    1
+   ],
+   [
+    "vorstoss",
+    "",
+    0,
+    0,
+    3.59,
+    1
+   ],
+   [
+    "bahnhöfen",
+    "den Bahnhöfen in an einem Bahnhof in",
+    147,
+    153,
+    3.55,
+    1
+   ],
+   [
+    "häusliche",
+    "häusliche Gewalt, Sexualstraftaten, sowas wie Menschenhandel gehört dann",
+    191,
+    199,
+    3.43,
+    1
+   ],
+   [
+    "präventive",
+    "eine präventive Wirkung haben, also eine",
+    232,
+    239,
+    2.94,
+    1
+   ],
+   [
+    "zurückhaltende",
+    "zurückhaltende Stimmungen. Man wolle stimmen, man wolle das kritisch prüfen.",
+    268,
+    276,
+    2.93,
+    1
+   ],
+   [
+    "anzuknüpfen",
+    "an das Merkmal Geschlecht anzuknüpfen, sondern an die körperliche",
+    278,
+    284,
+    2.92,
+    1
+   ],
+   [
+    "frauenhaus",
+    "Frauenhaus, den es bis 2032 geben soll,",
+    132,
+    138,
+    2.76,
+    1
+   ],
+   [
+    "radikalisieren",
+    "radikalisieren, häufig Männer in der sogenannten Manosphere oder in",
+    59,
+    65,
+    2.74,
+    1
+   ]
+  ],
+  "tx": "Fragen wir nach bei Claudia Kornmeier im ARD-Hauptstadtstudio in Berlin. Die Zahl der Opfer bei häuslicher Gewalt ist um 2,8 % gestiegen. Wie bewertet das Bundeskriminalamt diese Zahl? Also da gibt es zwei Erklärungsversuche. Einmal, dass die Betroffenen häufiger zur Polizei gehen, also häufiger Anzeige erstatten und so die Polizei davon auch überhaupt Erkenntnis hat, so dass das dann eben in diesem Bericht auch erscheinen kann, einfach weil häufiger über solche Themen gesprochen wird, die Themen enttabuisiert werden. Das BKA liest das daraus, dass im vergangenen Jahr auch noch Taten angezeigt worden sind, die schon ein Jahr zurücklagen. Man muss aber auch davon ausgehen, dass die Taten tatsächlich die gestiegen sind, die Zahlen tatsächlich gestiegen sind. Und da ist ein Grund, den das BKA sieht, dass es in Teilen der Gesellschaft zunehmen, darum geht, dass Gleichberechtigung abgelehnt wird, das Feminismus als Bedrohung angesehen wird. In bestimmten Sphären online sich die Menschen radikalisieren, häufig Männer in der sogenannten Manosphere oder in Incel-Bewegungen. Und dann muss man aber auch bei all dem dazu sagen, das hier ist jetzt das Hellfeld, das wurde heute wirklich mehrfach betont. Das heißt nur das, was wirklich auch bekannt ist, das Dunkelfeld, also all die Fälle, die nicht angezeigt werden, sind unbekannt. Und da gibt es aber seit einer Weile schon eine länger angelegte Studie, eine sogenannte Dunkelfeldstudie, da wurden schon erste Ergebnisse präsentiert und im Frühjahr soll es da dann auch noch mal weitere geben. Claudia, das Problem bei häuslicher Gewalt ist ja, dass Täter und Opfer unter einem Dach leben. Welche Anlaufstellen gibt es denn für Menschen, die von häuslicher Gewalt betroffen sind? Also z.B. Frauenhäuser, da ist aber schon seit Jahren das Problem, dass es nicht genug Plätze gibt. Das ist ja gerade eben in den Beitrag auch schon angeklungen. Und da gibt es jetzt zumindest eine Einigung zwischen dem Bund in den Bundesländern seit einer Weile, dass der Bund mehr Geld zusätzlich zur Verfügung stellt für Ausbau von weiteren Plätzen oder auch die Sanierung von Frauenhäusern. Die Länder sind aber in der Verantwortung, das tatsächlich auch zu tun und das muss jetzt umgesetzt werden, damit dann eben dieser Anspruch auf einen Platz im Frauenhaus, den es bis 2032 geben soll, dann tatsächlich nicht nur auf dem Papier steht, sondern auch in der Praxis umgesetzt werden kann. Ansonsten gibt es ähm zivilgesellschaftliche Beratungsstellen und auch, das ist relativ neu, von der Bundespolizei an den Bahnhöfen in an einem Bahnhof in Berlin und ähm Hauptbahnhof in Köln. Ähm das sind Stellen, die sind den ganzen Tag offen, da können sich Betroffene auch hinwenden und das ist etwas, was auch ausgebaut werden soll, hat der Innenminister heute angekündigt. Es ist noch ein anderes Lagebild vorgestellt worden, geschlechtsspezifische Gewalt gegen Frauen. Worum geht es da? Also da geht es zum einen um Taten, die begangen worden sind aus Hass gegenüber von Frauen. Also da spielt das Tatmotiv eine Rolle. Zum anderen geht es um bestimmte Delikte, denen häufiger oder überwiegend Frauen zum Opfer fallen und das äh sind dann ähm aus Bereichen wie äh digitale Gewalt, aber eben auch häusliche Gewalt, Sexualstraftaten, sowas wie Menschenhandel gehört dann auch dazu und auch Tötungsdelikte. Dann schauen wir noch mal genau auf die Zahlen und die Delikte. Im Schnitt ist im vergangenen Jahr in Deutschland fast jeden Tag eine Frau oder ein Mädchen getötet worden. Was sind die Gründe und wie will das Bundeskriminalamt gegen diese hohe Zahl vorgehen? Also da ist in erster Linie die Politik gefragt. Es braucht mehr Prävention, möglichst äh früh muss die ansetzen, also bei Kindern und Jugendlichen. Da ist dann in erster Linie die Familienministerin gefragt. Na der Innenminister, der hat heute auch betont, dass er außerdem auch auf das Strafrecht setzt, dass er überzeugt davon sei, dass härtere Strafen da auch eine präventive Wirkung haben, also eine höhere Strafandrohung auch helfen könne, um die Zahlen nach unten zu bewegen. Claudia, bei dem Thema tut sich ja auch was. Am Wochenende war Bundesjustizministerin Hubig von der SPD mit dem Vorstoß an die Öffentlichkeit gegangen, Femizide, also Tötungsdelikte zum Nachteil von Frauen aufgrund ihres Geschlechts als Mord zu bestrafen. Wie steht das politische Berlin dazu? Also das ist ein Gesetzesvorschlag, ein Entwurf, der innerhalb der Bundesregierung noch nicht abgestimmt ist. Ähm bei CDU und CSU gibt es da eher zurückhaltende Stimmungen. Man wolle stimmen, man wolle das kritisch prüfen. Es gibt einen früheren Vorschlag von CDU und CSU, der zielt eher darauf ab, nicht an das Merkmal Geschlecht anzuknüpfen, sondern an die körperliche Unterlegenheit. Ansonsten gibt es Kritik daran, dass das reine Symbolpolitik sei, weil es schon heute möglich sei, über das Mordmerkmal niedere Beweggründe solche Femizide auch als Mord zu bestrafen.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "k5hSuMKaQ6s": {
+  "channel": "Deutsch mit Rieke",
+  "lang": "de",
+  "checked": "2026-11-25T16:35:06+00:00",
+  "title": "Kennst du alle Bedeutungen von „schon“? (Deutsch für Fortgeschrittene)",
+  "duration": 1024,
+  "published": "20261122",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 138.0,
+  "rare": 0.0329,
+  "var": 0.7876,
+  "cl": null,
+  "speech_s": 1016.7,
+  "tokens": 2338,
+  "kw": [
+   [
+    "person",
+    "Die zweite Person glaubt, dass die erste Person die Prüfung bestehen wird. Sie sagt deshalb:",
+    216,
+    223,
+    5.29,
+    12
+   ],
+   [
+    "euch",
+    "Video zeige ich euch, was „schon“ in ganz verschiedenen Alltagssituationen ausdrückt. Ihr",
+    20,
+    27,
+    5.71,
+    10
+   ],
+   [
+    "beispiel",
+    "der Zweifel hat. Hier ist noch ein Beispiel. Stellt euch vor,",
+    228,
+    233,
+    5.35,
+    9
+   ],
+   [
+    "sagt",
+    "Die zweite Person glaubt, dass die erste Person die Prüfung bestehen wird. Sie sagt deshalb:",
+    216,
+    223,
+    5.59,
+    8
+   ],
+   [
+    "sage",
+    "Ohne „schon“ sage ich nur, wie lange sie Spanisch lernt: ein Jahr. Mit „schon“ zeige ich:",
+    74,
+    82,
+    4.78,
+    13
+   ],
+   [
+    "ausdruck",
+    "Ein ganz typischer Ausdruck ist auch „Das wird schon“. Zum Beispiel:",
+    272,
+    279,
+    4.53,
+    7
+   ],
+   [
+    "fahre",
+    "- „Wenn ich schon in die Stadt fahre, kann ich",
+    932,
+    935,
+    4.46,
+    5
+   ],
+   [
+    "brauche",
+    "brauche nicht mehr als den Gedanken an das Gespräch, damit ich nervös werde. Oder:",
+    172,
+    180,
+    4.76,
+    4
+   ],
+   [
+    "nervös",
+    "glaube schon ... Aber ich bin schon nervös!“ – „Ach, du schaffst das schon!“",
+    8,
+    15,
+    4.06,
+    5
+   ],
+   [
+    "schaffst",
+    "glaube schon ... Aber ich bin schon nervös!“ – „Ach, du schaffst das schon!“",
+    8,
+    15,
+    4.13,
+    4
+   ],
+   [
+    "lena",
+    "zwei Personen sitzen im Kino und warten auf ihre Freundin Lena:",
+    232,
+    238,
+    4.1,
+    4
+   ],
+   [
+    "sofa",
+    "- „Wenn ich mir schon ein neues Sofa kaufe,",
+    969,
+    972,
+    4.15,
+    3
+   ],
+   [
+    "ungeduldig",
+    "Hier ist die zweite Person ungeduldig. Sie möchte nicht länger warten, sondern es jetzt",
+    415,
+    420,
+    3.54,
+    2
+   ],
+   [
+    "unfreundlich",
+    "- „Es tut mir leid, dass ich heute Morgen so unfreundlich zu",
+    313,
+    317,
+    3.41,
+    2
+   ],
+   [
+    "louvre",
+    "- „Wenn ich schon nach Paris fahre, dann will ich auch in den Louvre!“",
+    987,
+    992,
+    3.37,
+    2
+   ],
+   [
+    "sechzig",
+    "- „Gute Sportschuhe bekommt man schon für sechzig Euro.“",
+    132,
+    138,
+    3.35,
+    2
+   ],
+   [
+    "beeil",
+    "Also: Los, beeil dich, zieh dir die Schuhe an. Ein Ausdruck, der auch Ungeduld ausdrücken kann,",
+    436,
+    445,
+    2.7,
+    3
+   ],
+   [
+    "sportschuhe",
+    "- „Gute Sportschuhe bekommt man schon für sechzig Euro.“",
+    132,
+    138,
+    2.96,
+    2
+   ],
+   [
+    "betone",
+    "Hier betone ich mit „schon“, wie schnell sie die Prüfung bestanden hat: Ein Jahr hat dafür bereits",
+    98,
+    105,
+    2.87,
+    2
+   ],
+   [
+    "sojasauce",
+    "- „Gibt’s im Supermarkt an der Ecke Sojasauce?“ – „Ich denke schon.“",
+    590,
+    597,
+    2.66,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "möchte",
+    "Mit diesem „schon“ drückt man so ein bisschen Ungeduld aus. Ich sage hier: Ich möchte jetzt",
+    394,
+    401,
+    5.49,
+    8
+   ],
+   [
+    "gleich",
+    "- „Wo ist Lena denn? Der Film fängt gleich an!“ – „Keine Sorge, sie wird schon kommen.“",
+    237,
+    245,
+    5.59,
+    7
+   ],
+   [
+    "drückt",
+    "„Schon“ steht in dieser Funktion übrigens nicht nur bei Zahlen. Es drückt ganz allgemein aus,",
+    151,
+    157,
+    4.22,
+    4
+   ],
+   [
+    "aufgaben",
+    "Das kleine Wort „schon“ kann im Deutschen ganz viele Aufgaben übernehmen. In diesem",
+    15,
+    21,
+    4.79,
+    3
+   ],
+   [
+    "motivieren",
+    "Aber mit „Komm schon“ können wir auch eine andere Person motivieren und ermutigen. Stellt euch vor,",
+    466,
+    474,
+    3.71,
+    3
+   ],
+   [
+    "spanisch",
+    "- „Sie lernt schon seit einem Jahr Spanisch.“",
+    70,
+    75,
+    4.19,
+    2
+   ],
+   [
+    "geklickt",
+    "- „Ich habe aus Versehen auf dieses Symbol geklickt, und schon war die ganze Nachricht weg.“",
+    530,
+    538,
+    3.28,
+    2
+   ],
+   [
+    "weihnachtsgeschenk",
+    "dass ich auch noch ein Weihnachtsgeschenk für meine Mutter kaufen muss. Ich sage:",
+    927,
+    933,
+    3.26,
+    2
+   ],
+   [
+    "zwanzigtausend",
+    "da ich davon ausgehe, dass ihr sie „schon“ gut kennt. - „Wir haben schon zwanzigtausend",
+    39,
+    46,
+    2.25,
+    2
+   ],
+   [
+    "aufforderungen",
+    "obwohl es nicht ideal ist. „Schon“ steht manchmal auch in Aufforderungen. So zum Beispiel:",
+    378,
+    387,
+    2.93,
+    1
+   ]
+  ],
+  "tx": "„Morgen ist meine Deutschprüfung.“ – „Morgen schon? Bist du gut vorbereitet?“ – „Ich glaube schon ... Aber ich bin schon nervös!“ – „Ach, du schaffst das schon!“ Das kleine Wort „schon“ kann im Deutschen ganz viele Aufgaben übernehmen. In diesem Video zeige ich euch, was „schon“ in ganz verschiedenen Alltagssituationen ausdrückt. Ihr kennt „schon“ bestimmt aus Sätzen wie „Ich habe schon gegessen“ oder „Warst du schon beim Arzt?“. Diese grundlegende zeitliche Bedeutung von „schon“ erkläre ich in diesem Video nicht im Detail, da ich davon ausgehe, dass ihr sie „schon“ gut kennt. - „Wir haben … dass ich ein Jahr lang finde – und im zweiten sage ich, dass ich ein Jahr kurz finde für das, was sie erreicht hat. Derselbe Zeitraum kann uns lang oder kurz vorkommen, je nachdem, worum es geht. Diese Bedeutung von „schon“ im Sinne von „man braucht weniger als erwartet“ sehen wir auch hier: - „Gute Sportschuhe bekommt man schon für sechzig Euro.“ Sechzig Euro reichen meiner Meinung nach bereits aus, wenn man sich gute Sportschuhe kaufen will. Ich stelle den Preis als günstig dar: Man muss weniger ausgeben, als man vielleicht erwartet. „Schon“ steht in dieser Funktion übrigens nicht nur … glaubt, dass die erste Person die Prüfung bestehen wird. Sie sagt deshalb: Mach dir keine Sorgen, du schaffst das. Mit diesem „schon“ will man jemanden beruhigen, der Zweifel hat. Hier ist noch ein Beispiel. Stellt euch vor, zwei Personen sitzen im Kino und warten auf ihre Freundin Lena: - „Wo ist Lena denn? Der Film fängt gleich an!“ – „Keine Sorge, sie wird schon kommen.“ Die erste Person macht sich Sorgen: Der Film fängt gleich an, wir sind verabredet, aber Lena ist noch nicht da. Die zweite Person beruhigt die erste Person und sagt: Keine Sorge, ich bin mir sicher, dass Lena noch kommt. … Es ist nicht so schlimm. Ein sehr praktischer Ausdruck, den man ständig hört. Noch ein weiterer nützlicher Ausdruck, den ihr auf jeden Fall kennen solltet, ist „Das geht schon“. Zum Beispiel: - „Soll ich deinen Koffer tragen?“ – „Nein danke, das geht schon.“ „Das geht schon“ bedeutet: Ich schaffe das allein. Ich brauche deine Hilfe nicht. Hier ist noch ein Beispiel: - „Ist es dir hier am Fenster zu kalt? Soll ich es zumachen?“ – „Nein danke, das geht schon.“ Hier bedeutet „Das geht schon“: Ich komme mit der Situation zurecht. Es ist vielleicht nicht besonders angenehm am Fenster, aber du … dir die Schuhe an. Ein Ausdruck, der auch Ungeduld ausdrücken kann, ist „Komm schon!“. Hier müssen wir aber ein bisschen genauer hinschauen, denn „Komm schon!“ kann auch eine andere Bedeutung haben. Ich könnte also sagen: - „Komm schon, die U-Bahn fährt gleich!“ Das heißt: Los, beeil dich. Wir müssen zur U-Bahn-Station laufen. Ich bin ungeduldig, und wir haben nicht viel Zeit. Aber mit „Komm schon“ können wir auch eine andere Person motivieren und ermutigen. Stellt euch vor, ein Freund von mir nimmt zum ersten Mal an einem Zehn-Kilometer-Lauf teil. Ich stehe am Rand der Straße und wenn er … ging. Oder wenn ich jemandem erklären will, wie man mit dem Handy im Laden bezahlen kann, kann ich sagen: - „Du hältst dein Handy einfach vor das Lesegerät, und schon ist dein Einkauf bezahlt.“ Hier sage ich: Du hältst das Handy vor das Gerät und bist direkt fertig. Es geht ganz schnell und einfach. Ein Satz, in dem man „schon“ ganz oft hört, ist: „Ich glaube schon“. Kennt ihr bestimmt: - „Kommt dein Bruder heute Abend auch?“ – „Ich glaube schon.“ Ich glaube schon heißt hier: Ich glaube, dass er kommt. Ich bin mir aber nicht ganz sicher. Genauso funktioniert „Ich denke schon“: - „Gibt’s … sie. Ich antworte: - „Ja, das ist schon beeindruckend, wie schnell Kinder eine neue Sprache lernen.“ Dieses „schon“ ist ein verstärkendes „schon“. Ich sage hier: Es ist wirklich beeindruckend, wie schnell Kinder lernen. Oder: - „Der Eintritt ins Museum kostet 50 Euro! Das ist schon viel.“ Also: Dieser Eintrittspreis ist wirklich hoch. Das ist echt viel Geld. Hier ist noch ein Beispiel: - „Bei mir kommt bei dieser Matheaufgabe immer etwas anderes heraus als im Lösungsbuch. Ist meine Rechnung wirklich falsch?“ – „Nein, die stimmt schon. Da ist ein Fehler im Lösungsbuch.“ Die erste Person … dir der neue Job Spaß?“ – „Ja, schon, aber die lange Fahrt mit der U-Bahn nervt mich.“ Also: Ja, der Job macht mir Spaß. Das ist meine grundsätzliche Aussage. Es gibt aber etwas, das den Spaß etwas kleiner macht. Das deute ich mit dem „schon“ an. Und dann sage ich im zweiten Teil des Satzes, was es ist. Die lange Fahrt mit der U-Bahn ist nicht so toll. Wir sehen „schon“ in dieser Funktion nicht nur in Verbindung mit „aber“, sondern auch mit anderen einschränkenden Wörtern. Hier, schaut mal: - „Freust du dich auf die Party am Samstag?“ – „Ja, schon … Nur leider kenne ich da fast niemanden.“ … “ – „Ach, was bringt das schon? Der antwortet nie auf meine E-Mails.“ „Was bringt das schon?“ Damit sage ich: Das bringt nichts. Es nützt nichts. Das kann ich mir sparen. Oder: - „Ich werde nächsten Monat an der Schulter operiert.“ – „Hast du keine Angst vor der OP?“ – „Nein. Was soll schon passieren? Ich vertraue meinem Arzt.“ „Was soll schon passieren?“ bedeutet: Es wird nichts Schlimmes passieren. Davon bin ich überzeugt. Daher habe ich keine Angst vor der OP. Schauen wir uns noch eine Verbindung an: „Wenn … schon, dann …“. Stellt euch vor, ich muss in die Stadt fahren, weil ich … gutes Sofa kaufen, nicht irgendeins. Oder: - „Wenn ich schon nach Paris fahre, dann will ich auch in den Louvre!“ Ich sage hier: Wenn ich nach Paris fahre, möchte ich die Reise auch nutzen, um etwas zu sehen, das mich besonders interessiert: den Louvre. Wenn euch dieses Video gefallen hat, dann freue ich mich sehr, wenn ihr mir einen Daumen nach oben gebt, und schreibt mir gerne in die Kommentare, zu welchem Thema ihr als Nächstes ein Video sehen möchtet. Zum Weiterschauen empfehle ich euch diese Videos von mir über „mal“ und „halt“. Danke fürs Zuschauen und bis nächste Woche! Macht's gut!",
+  "gist": "s",
+  "status": "ok",
+  "src": "cc"
+ },
+ "yaPOGFkbneY": {
+  "channel": "tagesschau",
+  "lang": "de",
+  "checked": "2026-11-25T17:01:26+00:00",
+  "title": "Machtmissbrauch an Musikhochschulen: Zwischen Traum und Trauma",
+  "duration": 1791,
+  "published": "20261124",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 158.3,
+  "rare": 0.066,
+  "var": 0.8147,
+  "cl": null,
+  "speech_s": 1750.5,
+  "tokens": 4618,
+  "kw": [
+   [
+    "natürlich",
+    "Natürlich als schauspielerische Unterricht und als Befreiung des",
+    113,
+    121,
+    5.62,
+    19
+   ],
+   [
+    "gesagt",
+    "Ich hab ehrlich gesagt gar keine Ahnung",
+    174,
+    179,
+    5.43,
+    19
+   ],
+   [
+    "lehrer",
+    "der Lehrer aus, wie weit kann ich gehen,",
+    321,
+    326,
+    4.92,
+    14
+   ],
+   [
+    "wirklich",
+    "alt und ich bin dann auch wirklich in",
+    242,
+    247,
+    5.75,
+    13
+   ],
+   [
+    "hochschule",
+    "die Hochschule liegt auf dem Berg und",
+    83,
+    87,
+    4.49,
+    12
+   ],
+   [
+    "karriere",
+    "eine ganz lange Karriere hinter sich im",
+    190,
+    194,
+    4.7,
+    6
+   ],
+   [
+    "studiert",
+    "Jahre Gesang studiert. Und wir steigen da aus dem Auto aus und",
+    79,
+    85,
+    4.22,
+    6
+   ],
+   [
+    "erlebt",
+    "was sie da so erlebt hatte an dem alten",
+    894,
+    900,
+    4.65,
+    5
+   ],
+   [
+    "rita",
+    "Wir sind mit Rita Becker an ihrer",
+    72,
+    77,
+    3.9,
+    29
+   ],
+   [
+    "ähm",
+    "außen auch so eine Stange sehen. Ähm,",
+    102,
+    107,
+    4.12,
+    14
+   ],
+   [
+    "studierenden",
+    "Macht über die Studierenden dort, die",
+    12,
+    16,
+    3.93,
+    11
+   ],
+   [
+    "hochschulen",
+    "können an den Hochschulen selbst? Christine Schonsheim hat da diesen",
+    1303,
+    1310,
+    4.12,
+    7
+   ],
+   [
+    "musikhochschule",
+    "ehemaligen Musikhochschule in Eisenstadt bei Wien und dort hat Rita Becker einige",
+    74,
+    82,
+    3.16,
+    8
+   ],
+   [
+    "belastend",
+    "belastend. Ich kann mir vorstellen, dass das in der Situation für die",
+    467,
+    473,
+    3.28,
+    5
+   ],
+   [
+    "professorin",
+    "sondern selbst Professorin. Christine Schornsheim, Professorin an",
+    1122,
+    1129,
+    3.44,
+    4
+   ],
+   [
+    "gell",
+    "Du musst Lust daran empfinden, gell,",
+    404,
+    409,
+    3.42,
+    4
+   ],
+   [
+    "musikhochschulen",
+    "An Musikhochschulen da unterrichten ",
+    6,
+    11,
+    2.52,
+    19
+   ],
+   [
+    "machtmissbrauch",
+    "Musikhochschulen zu Machtmissbrauch und sexuellen Übergriffen.",
+    21,
+    29,
+    2.83,
+    8
+   ],
+   [
+    "vorsingen",
+    "nach dem Vorsingen und das geht",
+    339,
+    345,
+    2.7,
+    4
+   ],
+   [
+    "11km",
+    "gesprochen und in dieser 11KM Folge",
+    30,
+    36,
+    2.24,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "gab",
+    "gab und gibt, die es total schwer",
+    705,
+    711,
+    5.54,
+    13
+   ],
+   [
+    "erzählt",
+    "erzählt sie uns über deren mühsamen",
+    33,
+    37,
+    4.97,
+    12
+   ],
+   [
+    "unterricht",
+    "Unterricht und als Befreiung des Singens.",
+    116,
+    121,
+    4.57,
+    5
+   ],
+   [
+    "gesprochen",
+    "gesprochen und in dieser 11KM Folge",
+    30,
+    36,
+    4.74,
+    4
+   ],
+   [
+    "claudia",
+    "SWR Journalistin Claudia Kafanke hat für Report Mainz mit Betroffenen",
+    25,
+    34,
+    4.16,
+    6
+   ],
+   [
+    "christine",
+    "Christine Schornsheim, Professorin an der Hochschule in München,",
+    1125,
+    1131,
+    4.13,
+    6
+   ],
+   [
+    "kommilitonen",
+    "Kommilitonen gedacht natürlich, ja das ist ja ganz normal, da kann ja",
+    358,
+    365,
+    3.21,
+    4
+   ],
+   [
+    "eisenstadt",
+    "ehemaligen Musikhochschule in Eisenstadt bei Wien und dort hat Rita Becker einige",
+    74,
+    82,
+    3.19,
+    4
+   ],
+   [
+    "lehrende",
+    "Lehrende. 14 haben auch angegeben, dass",
+    1352,
+    1357,
+    2.98,
+    2
+   ],
+   [
+    "kinderchor",
+    "einen Kinderchor gesehen in der Oper und",
+    237,
+    242,
+    2.9,
+    2
+   ]
+  ],
+  "tx": "ARD Sounds. An Musikhochschulen da unterrichten die Besten der Branche. Und damit haben sie eine unglaubliche Macht über die Studierenden dort, die ihren Traum verwirklichen wollen. Immer wieder kommt es an Musikhochschulen zu Machtmissbrauch und sexuellen Übergriffen. SWR Journalistin Claudia Kafanke hat für Report Mainz mit Betroffenen gesprochen und in dieser 11KM Folge erzählt sie uns über deren mühsamen Kampf um Anerkennung und Gerechtigkeit und von einem ganz eigenen Kosmos, in dem Opfer ausgegrenzt und Täter geschützt werden, bis heute. Eine Warnung vorweg. In dieser Folge erzählen wir … das ist ein internationaler äh Wettbewerb um diese Plätze und das heißt, die hatten keine normale Kindheit. Die haben schon mit zwei, drei Jahren angefangen, ihr Instrument zu spielen. Die haben geübt täglich an Musikschulen mit privaten Lehrern und haben da schon super viel investiert. Das heißt aber auch, diese Menschen haben extrem viel zu verlieren. Also weil wenn die dann an der Hochschule sind, dann das ist ja kein austauschbarer Berufswunsch, das ist ein Lebenstraum und das macht diese Menschen auch so verletzlich. Und bei Rita Becker war das ähnlich. Sie hat als kleines Kind mal … noch nicht gescheit. Und was macht man beim Pferd? Ja, man gibt ihm die Sporen. Und geht schon. Sehr cool. Sehr cool. Du musst Lust daran empfinden, gell, dass du richtig so sprichst. Man hört ja auch, wie er sagt so, ja, du musst das jetzt hier und da spüren und warte mal, ich mache mal dies und jenes. Ganz war du nicht wirklich in deine Ich darf dort nicht hingreifen, aber als würde ich dorthin greifen. Ja? Verstehst? Ja. Das brauche ich noch zum Schluss hin, gell? Diese Freude danach, gell? Richtig so. Du wartest drauf, dass der kommt, gell? Also das war aber nicht so, hat mir Rita … zahlreiche Lehrer an einer Hochschule, sondern eventuell nur einen Hauptfachlehrer, nennt man die. Und wenn ich mich beschwere, das ist ja auch noch mal das Ding, äh ist auch immer durch die kleinen Klassen sehr leicht rückverfolgbar, wer hat sich denn da beschwert? Und dann weiß natürlich der Lehrer, der Dozent, der Professor, ach, das muss ja die und die gewesen sein. Und das ist dann unter Umständen sehr schlecht für meine weitere Karriere. Wenn man sozusagen in Lebenslauf guckt von Musikerinnen oder Sängerinnen, da steht nicht, ich habe in Hamburg studiert, ich habe in Stuttgart studiert, … ganz neutral, ne? Also sie hat eigentlich gedacht, ich rufe den jetzt mal an und sage dem, hör mal, ähm meiner Tochter geht's echt schlecht, äh so wie du mit ihr umgehst und wollte eigentlich ganz offen und auch noch zugewandt mit ihm darüber sprechen, ist da aber sehr auf Ablehnung gestoßen. Der äh sagt dann, ja, er könne irgendwie nicht auf die äh ganzen äh Mädchen eingehen, hat sie mir erzählt und die Mädchen hätten halt immer irgendwas, mal hätten sie ihre Tage oder äh irgendwas wäre immer und da könne er nicht äh drauf eingehen. So hat sie mir das erzählt. Und dann hat sie ihm … Ich hatte ähm so einen kleinen Aufruf gemacht bei einer berühmten Sopranistin, die hat so eine Plattform und hat gesagt, Frau Kafanke, ich kann Ihnen anbieten, dass ich mal meine Community frage, ob sie da Gesprächspartnerinnen äh finden. Ich war da erstmal so ein bisschen skeptisch, weil normalerweise kommt bei diesen Aufrufen selten was bei rum und in dem Fall war es aber genau andersrum. Das hat mich total überrollt regelrecht. Ich habe wirklich mit Dutzenden Betroffenen gesprochen, das ist geht in den dreistelligen Bereich und egal, mit wem ich gesprochen habe, fast jeder hat gesagt, … nichts, weil ich habe gegen den mächtigen Siegfried Mauser sowieso keine Chance. Mhm. Dann hat sie aber schließlich dann doch irgendwann den Mut gefasst und eine Anzeige gemacht und dann haben sich tatsächlich daraufhin mehrere Frauen angeschlossen, denen offenbar Ähnliches passiert ist. Und die haben ihn dann auch angezeigt. Zwei Jahre und neun Monate Freiheitsstrafe, so lautet das Urteil gegen den ehemaligen Präsidenten der Musikhochschule München. Das Gericht befand ihn für schuldig, eine Frau dreimal bei Bewerbungsgesprächen sexuell genötigt zu haben. Ganz neu sind die Vorwürfe … der Hamburger Musikhochschule Professor Jan-Philipp Strick sprechen. Wir sind jetzt mittlerweile z.B. auch dazu übergegangen, dass wir in Berufungsvereinbarungen beispielsweise Workshops und Coachings im Bereich Antidiskriminierung, Sensibilisierung gegen Machtmissbrauch und diesen Themen als verpflichtende Dinge festschreiben. Der Aktionstag an sich wurde an den verschiedenen Hochschulen auch ganz verschieden ausgerichtet. Ich habe gehört, dass manche Hochschulen gesagt haben, ihr habt alle frei an dem Tag, damit ihr am Aktionstag teilnehmen könnt. Es gab aber auch … alle eint ist, dass im Prinzip gekuscht wird vor den Mächtigen, sage ich mal. Na, in der Bundeswehr ist das ganz klar, wir haben eine Hierarchie, die auch gelebt wird. In Kliniken haben wir Chefärzte, Oberärzte, die das Sagen haben und äh an Musikhochschulen eben die Koryphäen, äh die Lehrenden. Also so eine klare Machtkonzentration. Ganz genau und auch so ein ganz klares Machtgefälle auch. Ich glaube, dass es an den Institutionen ist, zu schauen, dass diese Machtkonzentration aufgelöst wird, dass es nicht sein kann, dass ein Oberarzt darüber entscheidet, wer welche OP machen darf von … was könnten pragmatische Lösungen sein, wo in Deutschland könnten wir uns vielleicht was abschauen? Das wissen die beiden Hosts besonders gut, die kommen nämlich aus ganz unterschiedlichen Regionen Deutschlands und sind ganz nah dran an den Themen der Menschen. Und wenn was Wichtiges auf der großen ganzen Welt passiert, dann verpasst ihr es da auch nicht. 15 Minuten der Tagesschau Podcast am Morgen ist eine gut investierte Viertelstunde, die euch informiert und mit neuen Perspektiven in den Tag schickt. Den Link zu unseren Kolleginnen und Kollegen, den packen wir euch in die Shownotes.",
   "gist": "s",
   "status": "ok",
   "src": "auto"
