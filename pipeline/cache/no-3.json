@@ -15385,7 +15385,7 @@
  "5_7uWWyVqO0": {
   "channel": "NRK",
   "lang": "no",
-  "checked": "2026-11-12T03:48:15+00:00",
+  "checked": "2026-11-25T02:46:37+00:00",
   "title": "Nissene i skjul│ TRAILER │ NRK TV",
   "duration": 136,
   "published": "20251030",
@@ -15394,6 +15394,7 @@
   "pace": 124.7,
   "rare": 0.0886,
   "var": 0.7963,
+  "cl": 0.0295,
   "speech_s": 114.1,
   "tokens": 237,
   "kw": [
@@ -15438,11 +15439,188 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "spill",
+    ">> Siden dette er et spill, så kan man",
+    75,
+    80,
+    5.26,
+    2
+   ],
+   [
+    "gratis",
+    "her er ikke gratis. >> Jeg heter Mona.",
+    61,
+    65,
+    5.16,
+    2
+   ],
+   [
+    "snill",
+    "snill nisse som står igjen på julaften",
+    40,
+    47,
+    4.79,
+    1
+   ],
+   [
+    "lure",
+    "rundt og prøve å lure de andre",
+    110,
+    113,
+    4.69,
+    1
+   ],
+   [
+    "rød",
+    "strikkegenser, rød lue og skjegg og",
+    17,
+    24,
+    4.69,
+    1
+   ],
+   [
+    "stole",
+    "aldri helt vite hvem man kan stole på.",
+    76,
+    82,
+    4.65,
+    1
+   ],
+   [
+    "million",
+    "og vinner premien på 1 million. kroner.",
+    42,
+    52,
+    4.64,
+    1
+   ],
+   [
+    "ubehagelig",
+    "ubehagelig jeg at en av oss skal gå",
+    108,
+    113,
+    4.16,
+    1
+   ],
+   [
+    "julaften",
+    "snill nisse som står igjen på julaften",
+    40,
+    47,
+    4.07,
+    1
+   ],
+   [
+    "skjuler",
+    "dem skjuler det seg en rampenisse.",
+    25,
+    31,
+    4.06,
+    1
+   ],
+   [
+    "sviktet",
+    ">> Du kan bli sviktet bakfra.",
+    82,
+    86,
+    4.01,
+    1
+   ],
+   [
+    "deltakerne",
+    "Hver kveld må deltakerne stemme ut den",
+    32,
+    39,
+    4.0,
+    1
+   ],
+   [
+    "iblant",
+    "høres kanskje hyggelig ut, men iblant",
+    23,
+    31,
+    3.94,
+    1
+   ],
+   [
+    "grøt",
+    "livnære seg på grøt i 24 dager. Dette",
+    20,
+    26,
+    3.57,
+    1
+   ],
+   [
+    "premien",
+    "og vinner premien på 1 million. kroner.",
+    42,
+    52,
+    3.45,
+    1
+   ],
+   [
+    "nisse",
+    "snill nisse som står igjen på julaften",
+    40,
+    47,
+    3.42,
+    1
+   ],
+   [
+    "jun",
+    "jun. På denne nedlagte grissegården skal nå",
+    8,
+    16,
+    3.28,
+    1
+   ],
+   [
+    "nedlagte",
+    "På denne nedlagte grissegården skal nå",
+    9,
+    16,
+    3.12,
+    1
+   ],
+   [
+    "livnære",
+    "livnære seg på grøt i 24 dager. Dette",
+    20,
+    26,
+    3.03,
+    1
+   ],
+   [
+    "nissene",
+    "Velkommen til nissene i >> Ja. Er det noen snille barn her? Ja.",
+    46,
+    62,
+    2.92,
+    1
+   ],
+   [
+    "profilene",
+    "TV-profilene skal iføre seg strikkegenser, rød lue og skjegg og",
+    15,
+    24,
+    2.77,
+    1
+   ],
+   [
+    "iføre",
+    "TV-profilene skal iføre seg strikkegenser, rød lue og skjegg og",
+    15,
+    24,
+    2.02,
+    1
+   ]
+  ],
   "tx": "Det er 1. desember og 24 dager igjen til jun. På denne nedlagte grissegården skal nå 24 kjendiser leve sammen som fjøsnisser. TV-profilene skal iføre seg strikkegenser, rød lue og skjegg og livnære seg på grøt i 24 dager. Dette høres kanskje hyggelig ut, men iblant dem skjuler det seg en rampenisse. Hver kveld må deltakerne stemme ut den de tror er rampenissen. Dette for å være sikker på at det er en snill nisse som står igjen på julaften og vinner premien på 1 million. kroner. Velkommen til nissene i >> Ja. Er det noen snille barn her? Ja. >> For å vinne pengene fordi dette ansiktet her er ikke gratis. >> Jeg heter Mona. >> Ja. >> Og det ansiktet er gratis. >> Den produksjonen her har jo som mål å skru litt opp i hjernen vår. Er du rampenissen? >> Siden dette er et spill, så kan man aldri helt vite hvem man kan stole på. >> Hvem er Rampenissen egentlig? Kan du vise deg til kjenner? >> Du kan bli sviktet bakfra. >> Penger er alt folkens. >> Penger er alt. Må du kutte ut. >> Fokuser på oppgaven. Du skal Jeg snakker engelsk, spansk, yurdig og høstsk. >> Miken, er det fjøsoppgave? >> Nei, jeg vil være med hest. Jeg synes egentlig det er litt ubehagelig jeg at en av oss skal gå rundt og prøve å lure de andre liksom. >> Hvem tror du rampnesten er? >> Det kan jo være deg. >> Nei. >> Velkommen til skrotkjelleren. >> Fy Nå snakker vi spill.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0295
+  "src": "auto"
  },
  "m4J5PRPtDSc": {
   "channel": "Simple Norwegian",
@@ -17256,7 +17434,7 @@
  "JkfWl6lzzlc": {
   "channel": "Norsklærer Karense",
   "lang": "no",
-  "checked": "2026-11-12T15:49:28+00:00",
+  "checked": "2026-11-25T02:42:30+00:00",
   "title": "Video 1218 KILDESORTERING: Ombruksteltet",
   "duration": 169,
   "published": "20250331",
@@ -17265,6 +17443,7 @@
   "pace": 134.4,
   "rare": 0.0702,
   "var": 0.7494,
+  "cl": 0.0225,
   "speech_s": 159.0,
   "tokens": 356,
   "kw": [
@@ -17317,11 +17496,188 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "finner",
+    "inn og se litt hva slags ting vi finner",
+    19,
+    25,
+    5.58,
+    2
+   ],
+   [
+    "fint",
+    "ombrukstelt Kan du finne mye fint og",
+    133,
+    140,
+    5.5,
+    2
+   ],
+   [
+    "hit",
+    "hit",
+    162,
+    166,
+    4.76,
+    1
+   ],
+   [
+    "leke",
+    "skap og her er det jo leke for",
+    95,
+    102,
+    4.65,
+    1
+   ],
+   [
+    "leker",
+    "fine leker til barna Her har du rammer til bilder og malerier",
+    118,
+    130,
+    4.62,
+    1
+   ],
+   [
+    "farge",
+    "kanskje male din en fin farge og så blir",
+    33,
+    40,
+    4.61,
+    1
+   ],
+   [
+    "glass",
+    "glass kan kanskje pynte litt med se på disse stolene her",
+    48,
+    60,
+    4.59,
+    1
+   ],
+   [
+    "søte",
+    "inne her er det jo veldig søte",
+    27,
+    32,
+    4.5,
+    1
+   ],
+   [
+    "skap",
+    "skap og her er det jo leke for",
+    95,
+    102,
+    4.17,
+    1
+   ],
+   [
+    "ramme",
+    "20 kroner for en stor ramme og så er det",
+    125,
+    132,
+    4.06,
+    1
+   ],
+   [
+    "maler",
+    "du pusser den og maler den så blir den",
+    79,
+    85,
+    4.05,
+    1
+   ],
+   [
+    "billigste",
+    "bok til 2 kroner kanskje Oslos billigste",
+    142,
+    149,
+    3.92,
+    1
+   ],
+   [
+    "pynte",
+    "glass kan kanskje pynte litt med se på disse stolene her",
+    48,
+    60,
+    3.88,
+    1
+   ],
+   [
+    "pusser",
+    "du pusser den og maler den så blir den",
+    79,
+    85,
+    3.47,
+    1
+   ],
+   [
+    "penge",
+    "en veldig billig penge Så nå skal vi gå",
+    16,
+    23,
+    3.44,
+    1
+   ],
+   [
+    "kjempefin",
+    "kjempefin det koster egentlig veldig mye",
+    81,
+    90,
+    3.38,
+    1
+   ],
+   [
+    "stolene",
+    "med se på disse stolene her",
+    54,
+    60,
+    3.24,
+    1
+   ],
+   [
+    "åpningstidene",
+    "åpningstidene i linken under her Og så",
+    150,
+    157,
+    2.73,
+    1
+   ],
+   [
+    "kommoden",
+    "l kommoden her med skuffer og",
+    89,
+    100,
+    2.59,
+    1
+   ],
+   [
+    "lenestol",
+    "lenestol til 50 kroner og her har jeg en",
+    140,
+    147,
+    2.41,
+    1
+   ],
+   [
+    "nattbord",
+    "kr for en stol nattbord 50 kroner Her",
+    60,
+    69,
+    2.25,
+    1
+   ],
+   [
+    "dukkehus",
+    "en en bil eller et dukkehus her koster",
+    101,
+    110,
+    2.19,
+    1
+   ]
+  ],
   "tx": "nå så jeg utenfor ombrukstelt her på Haraldrud det finnes også et ombrukstelt på Grønmo et ombrukstelt Det er et sted der du kan få kjøpt ting som har blitt gitt bort på gjenvinningsstasjonene Og her kan du kjøpe mange forskjellige fine ting til en veldig billig penge Så nå skal vi gå inn og se litt hva slags ting vi finner her inne her er det jo veldig søte barnestoler 20 kroner for en stol da kan jeg jo kanskje male din en fin farge og så blir de som nye var billig og bra Og her er jo vannglass for eksempel 5 kroner for et vannglass har man jo også mange fine glass kan kanskje pynte litt med se på disse stolene her kr for en stol nattbord 50 kroner Her kan du gjøre et kup det betyr at du får kjøpt noe som er bra for en veldig lav liten pris og Her har du en tripptrapp stol den ser jo kanskje litt møk ut men hvis du pusser den og maler den så blir den kjempefin det koster egentlig veldig mye så det er en veldig fin ting se på denne l kommoden her med skuffer og skap og her er det jo leke for barn for eksempel en en bil eller et dukkehus her koster det jo mellom 5 til 20 kroner Det er ikke mye penger Her har du en en hoppeku så Her kan du også finne mye fine leker til barna Her har du rammer til bilder og malerier 20 kroner for en stor ramme og så er det 10 kroner for de mindre rammene det er jo også veldig billig ja dere her i ombrukstelt Kan du finne mye fint og gjøre mange gode kup Nå sitter jeg i en lenestol til 50 kroner og her har jeg en bok til 2 kroner kanskje Oslos billigste bok eh du kan ta deg en tur til ombrukstelt du og også sjekk åpningstidene i linken under her Og så kan du se om du finner noe fint som du kan ta med deg hjem og så kan tingen få et nytt liv hjemme hos deg så Velkommen hit",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0225
+  "src": "auto"
  },
  "Tq7_6p3k4Pg": {
   "channel": "Ett Lite Bildeglimt",
@@ -19321,7 +19677,7 @@
  "52jHFHVXL_M": {
   "channel": "Ett Lite Bildeglimt",
   "lang": "no",
-  "checked": "2026-11-12T23:48:29+00:00",
+  "checked": "2026-11-25T02:47:03+00:00",
   "title": "#4: Dritings (Norwegian Idioms)",
   "duration": 155,
   "published": "20230527",
@@ -19330,6 +19686,7 @@
   "pace": 159.1,
   "rare": 0.0274,
   "var": 0.6603,
+  "cl": 0.0898,
   "speech_s": 151.2,
   "tokens": 401,
   "kw": [
@@ -19430,11 +19787,100 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "snakker",
+    "Så snakker vi om et uttrykk som heter å drite på draget og dritings ligner veldig på det.",
+    24,
+    32,
+    5.48,
+    2
+   ],
+   [
+    "dagen",
+    "Dagen etter var kanskje litt bakfull dagen etter.",
+    139,
+    145,
+    5.47,
+    2
+   ],
+   [
+    "alkohol",
+    "brennevin, alkohol, alkohol og så har du mistet kontrollen.",
+    46,
+    52,
+    4.66,
+    2
+   ],
+   [
+    "ligner",
+    "Det ligner jo litt forrige gang.",
+    22,
+    24,
+    4.53,
+    2
+   ],
+   [
+    "drukket",
+    "Ja, så du har drukket altfor mye øl, vin,",
+    43,
+    47,
+    4.05,
+    1
+   ],
+   [
+    "brennevin",
+    "brennevin, alkohol, alkohol og så har du mistet kontrollen.",
+    46,
+    52,
+    3.51,
+    1
+   ],
+   [
+    "farta",
+    "Du henger ikke så mye med ungdommer i farta.",
+    13,
+    16,
+    3.49,
+    1
+   ],
+   [
+    "anatomien",
+    "på den delen av anatomien som gjør at man holder igjen og ikke passer seg.",
+    104,
+    111,
+    2.28,
+    1
+   ],
+   [
+    "bakfull",
+    "Dagen etter var kanskje litt bakfull dagen etter.",
+    139,
+    145,
+    2.14,
+    1
+   ],
+   [
+    "ungdomsmiljøet",
+    "Ja, det brukes veldig mye, tror jeg i ungdomsmiljøet.",
+    3,
+    9,
+    2.12,
+    1
+   ],
+   [
+    "bruktes",
+    "Nei, men det bruktes veldig mye når jeg var ungdom så dritings.",
+    15,
+    23,
+    2.01,
+    1
+   ]
+  ],
   "tx": "Har du hørt uttrykket dritings? Ja, det brukes veldig mye, tror jeg i ungdomsmiljøet. Eller det gjorde det før når jeg var ungdom. Ja, jeg vet ikke om de bruker det lenger. Du henger ikke så mye med ungdommer i farta. Nei, men det bruktes veldig mye når jeg var ungdom så dritings. Det ligner jo litt forrige gang. Så snakker vi om et uttrykk som heter å drite på draget og dritings ligner veldig på det. Betyr det litt av det samme? Nei, på en måte så kan man nesten si det da, når man tenker etter for de dritings, da er du kjempefull. Ja, så du har drukket altfor mye øl, vin, brennevin, alkohol, alkohol og så har du mistet kontrollen. Du har du. Du er så full at du ikke vet hva du sier. Ikke vet. Kanskje du ikke klarer å stå en gang og kanskje kaster opp på det. Så du gjør jo mye som er flaut? Ja, men det det er det fortsatt ikke. Du driter aldri på draget når du er dritings? Nei, fordi da er du så full at du ikke at det er liksom det er akseptabelt at du gjør sånne dumme ting da. Ja, eller det er det er forventet, i hvert fall om ikke akseptabelt. Ja, det er forventet. Men men, det man kan, ja, man kan sikkert fortsatt drite på draget, for man bør ikke bli så dritings at man driter på draget. Ja, men men, ordet kommer faktisk fra det samme. Så når man er dritings så er man så full at man kan miste kontrollen på den delen av anatomien som gjør at man holder igjen og ikke passer seg. Så det er utgangspunktet for uttrykket. Det kommer fra mye av det samme, det samme, men det brukes. Jeg antar at det fortsatt brukes ja rundt omkring, og at det er noe man kan lett høre hvis man snakker om etter en helg. Og de ble dritings. Jeg ble dritings, han ble dritings og det men man bruker. Når man sier det så mener man aldri at det var flaut. Man mener bare at man var full og at det kanskje var litt tungt. Dagen etter var kanskje litt bakfull dagen etter. Så det det er det. Det har ingenting med å drite på draget å gjøre, men utgangspunktet for uttrykket, det kommer fra det samme og drite.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0898
+  "src": "cc"
  },
  "0Vlk7UG1POA": {
   "channel": "Simply Norsk",
@@ -52232,7 +52678,7 @@
  "cLHOUYz_KVI": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-17T02:56:46+00:00",
+  "checked": "2026-11-25T03:01:17+00:00",
   "title": "Learn Norwegian - Beginner Story A0 Part 12",
   "duration": 144,
   "published": "20250604",
@@ -52241,6 +52687,7 @@
   "pace": 111.3,
   "rare": 0.0377,
   "var": 0.7577,
+  "cl": 0.0264,
   "speech_s": 142.8,
   "tokens": 265,
   "kw": [
@@ -52357,16 +52804,89 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "skriver",
+    "Hun skriver ofte litt i dagboken sin.",
+    46,
+    53,
+    5.3,
+    3
+   ],
+   [
+    "vanligvis",
+    "vanligvis før klokka 10. Del 2. Historien i",
+    55,
+    66,
+    4.86,
+    3
+   ],
+   [
+    "leste",
+    "i sofaen og leste en bok.",
+    76,
+    83,
+    4.78,
+    1
+   ],
+   [
+    "enkel",
+    "to Norway. I dag skal vi lese en enkel",
+    3,
+    10,
+    4.71,
+    1
+   ],
+   [
+    "fortid",
+    "fortid. Lisa likte rolige kvelder. Etter jobb gikk hun en liten",
+    62,
+    74,
+    4.13,
+    2
+   ],
+   [
+    "kopp",
+    "skifter klær. Så lager hun seg en kopp",
+    35,
+    43,
+    4.04,
+    2
+   ],
+   [
+    "bio",
+    "to Norway på Patreon. Linken er i bio.",
+    138,
+    144,
+    3.58,
+    1
+   ],
+   [
+    "travle",
+    "Kontrollspørsmål: Liker Lisa travle kvelder? Nei, hun liker rolige",
+    96,
+    108,
+    3.51,
+    1
+   ],
+   [
+    "pusser",
+    "Før hun legger seg pusser hun tennene.",
+    49,
+    56,
+    3.47,
+    1
+   ]
+  ],
   "tx": "Hei, jeg heter Elen. Velkommen til Way to Norway. I dag skal vi lese en enkel historie på norsk. Du lærer nye ord, verb og vanlige setninger. Jobb aktivt. Lytt, snakk høyt og skriv ned det du lærer. Gjenta videoen flere ganger for å lære raskere. Del 1. Historien i presens. Lisa liker rolige kvelder. Etter jobb går hun en liten tur. Hun tar en dusj og skifter klær. Så lager hun seg en kopp te. Hun setter seg i sofaen og leser en bok. Noen ganger ser hun på en serie. Hun skriver ofte litt i dagboken sin. Før hun legger seg pusser hun tennene. Hun slår av mobilen. Lisa sovner vanligvis før klokka 10. Del 2. Historien i fortid. Lisa likte rolige kvelder. Etter jobb gikk hun en liten tur. Hun tok en dusj og skiftet klær. Så lagde hun seg en kopp te. Hun satte seg i sofaen og leste en bok. Noen ganger så hun på en serie. Hun skrev ofte litt i dagboken sin. Før hun la seg pusset hun tennene. Hun slo av mobilen. Lisa sovnet vanligvis før klok 10. Kontrollspørsmål: Liker Lisa travle kvelder? Nei, hun liker rolige kveller. Tar hun et bad hver kveld? Nei, hun tar en dusj. Ser hun alltid på TV? Nei, noen ganger ser hun på en serie. Skriver hun i en dagbok? Ja, hun skriver ofte litt i dagboken sin. Sovner hun sent? Nei, hun sovner vanligvis før klok 10. Veldig bra jobbet. Du har trent på presens fortid og vanlige setninger. Vil du lære mer, gå til Way to Norway på Patreon. Linken er i bio.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0264
+  "src": "auto"
  },
  "h3YPLAAlMD8": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-17T02:56:50+00:00",
+  "checked": "2026-11-25T03:01:21+00:00",
   "title": "Learn Norwegian - Beginner Story A0 Part 11",
   "duration": 145,
   "published": "20250604",
@@ -52375,6 +52895,7 @@
   "pace": 100.3,
   "rare": 0.0377,
   "var": 0.7705,
+  "cl": 0.0,
   "speech_s": 143.0,
   "tokens": 239,
   "kw": [
@@ -52491,16 +53012,73 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kveld",
+    "tannlegen. Hun lager middag hver kveld.",
+    44,
+    52,
+    5.46,
+    2
+   ],
+   [
+    "hjemme",
+    "avtaler. På mandag rydder hun hjemme. På",
+    33,
+    42,
+    5.36,
+    2
+   ],
+   [
+    "mandag",
+    "avtaler. På mandag rydder hun hjemme. På",
+    33,
+    42,
+    4.74,
+    2
+   ],
+   [
+    "middag",
+    "tannlegen. Hun lager middag hver kveld.",
+    44,
+    52,
+    4.73,
+    2
+   ],
+   [
+    "setninger",
+    "verb og vanlige setninger. Jobb aktivt,",
+    10,
+    19,
+    4.02,
+    2
+   ],
+   [
+    "ryddet",
+    "avtaler. På mandag ryddet hun hjemme. På",
+    69,
+    77,
+    4.09,
+    1
+   ],
+   [
+    "bio",
+    "er i bio.",
+    140,
+    144,
+    3.58,
+    1
+   ]
+  ],
   "tx": "Hei, jeg heter Erlen. Velkommen til Way to Norway. I dag skal vi lese en enkel historie på norsk. Du lærer nye ord, verb og vanlige setninger. Jobb aktivt, lytt, snakk høyt og skriv ned det du lærer. Gjenta videoen flere ganger for å lære raskere. Del 1. Historien i presens. Sofia har en travel uke. Hun har mange avtaler. På mandag rydder hun hjemme. På tirsdag hjelper hun søsteren sin. På onsdag har hun time hos tannlegen. Hun lager middag hver kveld. Hun vasker klær og tørker dem. Hun skriver handleliste for helgen. Hun glemmer ofte å slappe av. Sofia trenger en pause. Del 2. Historien i fortid. Sofia hadde en travel uke. Hun hadde mange avtaler. På mandag ryddet hun hjemme. På tirsdag hjalp hun søsteren sin. På onsdag hadde hun time hos tannlegen. Hun lagde middag hver kveld. Hun vasket klær og tørket dem. Hun skrev handleliste for helgen. Hun glemte ofte å slappe av. Sofia trengte en pause. Kontrollspørsmål: Var Sofia rolig og avslappet? Nei, hun var travel og stresset. Hadde hun fri hele uken? Nei, hun hadde mange avtaler. Hjalp hun broren sin? Nei, hun hjalp søsteren sin. Gikk hun til legen på onsdag? Nei, hun gikk til tannlegen. Skrev hun en handleliste? Ja, hun skrev en handleliste for helgen. Bra jobbet. Du har trent på presens fortid og vanlige setninger. Vil du lære mer, gå til Way to Norway på Patreon. Linken er i bio.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0
+  "src": "auto"
  },
  "okYkwQY4LQ0": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-17T02:56:54+00:00",
+  "checked": "2026-11-25T03:03:05+00:00",
   "title": "Faste uttrykk + S/V inversjon = KOMPLISERTE setninger!",
   "duration": 738,
   "published": "20240904",
@@ -52509,6 +53087,7 @@
   "pace": 145.4,
   "rare": 0.0743,
   "var": 0.7501,
+  "cl": 0.0512,
   "speech_s": 733.0,
   "tokens": 1776,
   "kw": [
@@ -52673,16 +53252,97 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "holdt",
+    "to Jeg holdt presentasjon i over en time",
+    472,
+    479,
+    5.23,
+    6
+   ],
+   [
+    "betyr",
+    "Hva betyr å ligge an ligge an betyr eh å",
+    213,
+    222,
+    5.54,
+    5
+   ],
+   [
+    "sjefen",
+    "sykehus tok sjefen i selskapet hun",
+    308,
+    314,
+    4.74,
+    3
+   ],
+   [
+    "sånne",
+    "da kan vi av og til få sånne litt sprøe",
+    90,
+    96,
+    4.74,
+    3
+   ],
+   [
+    "konteksten",
+    "eller hva det betyr i denne konteksten",
+    454,
+    460,
+    3.6,
+    3
+   ],
+   [
+    "våpenet",
+    "holdt mannen som eide våpenet til i et",
+    529,
+    536,
+    4.13,
+    2
+   ],
+   [
+    "muntlige",
+    "Fras verbet spesielt i muntlige kontekster og spesielt når subjektet",
+    46,
+    57,
+    3.44,
+    2
+   ],
+   [
+    "kameraten",
+    "det sørger Petter og kameraten Hans for",
+    461,
+    467,
+    3.29,
+    2
+   ],
+   [
+    "hodepinen",
+    "ikke den forferdelige hodepinen jeg hadde over selv etter flere paraset gikk",
+    519,
+    526,
+    2.8,
+    2
+   ],
+   [
+    "posisjonert",
+    "være posisjonert på en måte altså eh",
+    217,
+    224,
+    2.65,
+    2
+   ]
+  ],
   "tx": "i mitt kurs praktisk norsk hjelper jeg studenter med å få bedre Automatikk når det gjelder subjekt verb inversjon altså at vi setter verbet i norske setninger på plass nummer to og at vi gjør dette automatisk og i kurset øver vi også på å lytte til å lese en veldig komplisert type setningsstruktur vi har på norsk nemlig de setningene hvor vi har subjekt verb inversjon i kombinasjon med faste uttrykk partikkel verb eller Fras verb eh dette prinsippet gjør at vi noen ganger får veldig kompliserte setninger der det er vanskelig for de som lærer norsk Å identifisere hele verbet hele Fras verbet … fordi subjektet i denne denne setningen ikke sant Det er jo alle løperne i det klassiske maratonet New York Marathon av og til har vi veldig lange subjekter på norsk og da kan vi av og til få sånne litt sprøe setninger som dette og det det skjer i virkeligheten eh dette fenomenet her er det lurt å være bevisst på og derfor må vi jo studere eksempler på det for å bli flinkere til å forstå dem og identifisere dem når vi hører det eh nylig hadde jeg en student i dette kurset praktisk norsk som spurte meg om dette faktisk var et reelt fenomen eller om disse eksemplene jeg ga bare var kunstige … eksempler eh der vi har korte subjekter først varmer vi opp ser du her er subjektet vi Det kommer altså før opp men rett etter verbet nå kommer det an på deg Her har vi det faste uttrykket komme an på Depend an det er subjektet som da må stå rett etter verbet Det har jeg lyst til Her har vi å ha lyst til som er det faste uttrykket Eh jeg er subjektet disse oppgavene får jeg ikke til får jeg ikke til få til å få til noe altså klare noe Er det faste uttrykket og jeg er subjektet La oss også la oss også se på noen eh enkle eksempler to enkle eksempler med avisoverskrifter fra virkeligheten … Hun ligger an det er det som er på en måte status mot det målet som er valget i i November den andre her Derfor slo de ikke til før derfor slo de ikke til før Dette er en cannabis cfe i Oslo hvor politiet ventet med å slå til altså strike på engelsk slå til det er da det politiet gjør når de går inn arresterer kanskje eller stenger en kafe i dette tilfellet Kanskje de har en rassia Jeg vet ikke derfor slo de ikke til de er subjekt videre La oss se nå på noen eksempler der vi har setninger med lange subjekter lengere subjekter Jeg skal gi noen eksempler nå først Og etterpå så skal du få et … av take care of Vi har mange måter å si take care of på norsk eh av og til kan vi bruke ta vare på og subjektet er da sjefen i selskapet hun jobbet for et ganske langt subjekt det neste til tross for at mannen fikk problemer bare 20 meter fra land La ingen av badegjestene som var på stranden den dagen merke til at han var i ferd med å drukne sånn nyhets Tone der nyhetsoppleser Tone nyhetsanker ehm legge merke til er det faste uttrykket notice eh ingen av badegjestene som var på strandet den dagen er subjektet neste først var det bare Jeg og kona mi som danset men etter en stund ble alle de … mente subjekt hvis jeg sa objekt den siste ha råd til ser vi her Jeg skjønner at du vil ha en Lamborghini Tenk at du snakker til en liten gutt femåring som sier Jeg vil ha Lamborghini så kan du si jeg skjønner at du vil ha en Lamborghini men det har verken mamma eller pappa eller noen som helst i vår familie råd til har råd til subjektet er verken mamma eller pappa HV eller noen som helst i vår familie veldig langt subjekt stor avstand mellom ha pluss rå til nå skal du få eh Nå skal du få en oppgave av meg for nå skal jeg lese s setninger for deg Jeg skal lese dem litt fort fordi det er jo … skal si det igjen repetere alle en gang vi trenger et stereoanlegg til festen men det sørger Petter og kameraten Hans for nummer to Jeg holdt presentasjon i over en time men at mikrofonen min ikke virket sa ingen av student i auditori frra om jeg holdt presentasjonen i over en time men at mikrofonen min ikke virket sa ingen av Studentene i auditoriet ifra han nummer 3 etter at de begynte å ta d-vitamin holdt alle i Annes familie seg friske etter at de begynte å ta d-vitamin holdt alle i Annes familie seg friske nummer 4 ifølge Legen min kommer alle helseplagene jeg har av mangel på trening … hus like ved stedet der drapet skjedde Og den siste nummer s når jeg ikke sier ting to ganger får ikke elevene som sitter baker i klasserommet med seg instruksene mine når jeg ikke sier ting to ganger så får ikke elevene som sitter bakerst i klasserommet med seg instruksene mine hører du partikkelen Du skal få en oppgave til av meg her får du fire eksempler fra virkeligheten som du kan lese her eh på skjermen eh og dette er da virkelige nyhet artikler Skriv i kommentarfeltet hvilket partikkel verb du kan se i disse setningene Jeg skal vise deg nå Og hva partikkel verbene betyr så det første … du hva Det er det neste eksempelet er i konteksten håndball og det var en håndballkamp fra OL se på denne der satte han danskenes første mål i kvartfinalen til 1-2 så dro de regjerende mesterne fra og fortsatte storspillet de har hatt til nå i OL Jeg tror Danmark vant eh eh håndball for herrer i OL og Dette var da om en kamp som de spilte og så har vi to eksempler til fra samme kontekst Det er to forskjellige artikler men dette handler om sønnen til krom prinsesse metem Marit som heter Marius Borg høyby Det er mange skandaler rundt han akkurat nå se på den setningen i La dukket 20-åringen … og knuste ting i leiligheten ser du det faste uttrykket Her ser du de faste uttrykkene i disse setningene Skriv i kommentarfeltet hva du Legger merke til OK OK så det var alt for i dag en video for deg som kanskje vil gå fra mellomnivå i norsk til et mer avansert nivå Da må du ha God kontroll på sånne ting ikke bare å høre og lytte men også kanskje bruke mer sånne avanserte setningsstruktur Jeg setter pris på om du abonnerer på kanalen min og likes setter jeg også veldig pris på OK så Lykke til med oppgavene og Lykke til med å ekspandere din forståelse og bruk av faste uttrykk på norsk",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0573
+  "src": "auto"
  },
  "6FDoH7cNFCE": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-17T02:57:11+00:00",
+  "checked": "2026-11-25T03:03:23+00:00",
   "title": "Alias A2 | Norwegian Comprehension Practice Game",
   "duration": 505,
   "published": "20240807",
@@ -52691,6 +53351,7 @@
   "pace": 87.4,
   "rare": 0.0426,
   "var": 0.7582,
+  "cl": 0.1014,
   "speech_s": 338.3,
   "tokens": 493,
   "kw": [
@@ -52799,11 +53460,148 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ordet",
+    "uten å si ordet direkte og at den andre",
+    10,
+    20,
+    5.01,
+    4
+   ],
+   [
+    "gir",
+    "Så det er da 0,5 poeng Ok gir det mening",
+    97,
+    105,
+    5.8,
+    2
+   ],
+   [
+    "beskytte",
+    "beskytte dem når du går noe vi spiser for å få energi eller",
+    372,
+    393,
+    4.75,
+    1
+   ],
+   [
+    "beskriver",
+    "den ene personen eh beskriver et ord",
+    5,
+    16,
+    4.69,
+    1
+   ],
+   [
+    "vokser",
+    "vokser i Hager noe du kan sitte på på ofte med",
+    345,
+    364,
+    4.68,
+    1
+   ],
+   [
+    "passasjerer",
+    "frakter mange passasjerer en søt bakst som vi ofte spiser til",
+    289,
+    307,
+    4.18,
+    1
+   ],
+   [
+    "stjernen",
+    "dessert stjernen som gir oss Lys og",
+    313,
+    322,
+    4.18,
+    1
+   ],
+   [
+    "næring",
+    "næring et møbel som du kan sette ting på",
+    398,
+    405,
+    4.17,
+    1
+   ],
+   [
+    "håndtak",
+    "håndtak hvis du sa kopp så får du et",
+    80,
+    88,
+    3.56,
+    1
+   ],
+   [
+    "pauser",
+    "min video en gang uten pauser og at du",
+    30,
+    41,
+    3.55,
+    1
+   ],
+   [
+    "keramikk",
+    "drikker fra ofte laget av keramikk eller",
+    70,
+    80,
+    3.44,
+    1
+   ],
+   [
+    "pattedyr",
+    "pattedyr som vi drikker en del av ansiktet som vi bruker",
+    455,
+    475,
+    3.44,
+    1
+   ],
+   [
+    "veske",
+    "bor en veske som vi drikker og bruker",
+    206,
+    217,
+    3.44,
+    1
+   ],
+   [
+    "bjeffer",
+    "venn og som bjeffer et sted hvor barn går for å",
+    229,
+    249,
+    2.69,
+    1
+   ],
+   [
+    "bakst",
+    "en søt bakst som vi ofte spiser til",
+    300,
+    307,
+    2.62,
+    1
+   ],
+   [
+    "rotor",
+    "rotor som roterer en hvit vese som kommer fra",
+    441,
+    460,
+    2.58,
+    1
+   ],
+   [
+    "grafitt",
+    "grafitt et Bygg hvor folk bor en veske som vi drikker og bruker",
+    196,
+    217,
+    2.5,
+    1
+   ]
+  ],
   "tx": "alias er et spill som går ut på at jeg den ene personen eh beskriver et ord uten å si ordet direkte og at den andre personen altså du skal si Hvilket ord jeg snakker om alias er et spill så det er viktig her at man teller poeng Ok min utfordring til deg er at du nå skal se min video en gang uten pauser og at du skal Telle Hvor mange poeng Du greier å få du får ett poeng hvis du greier å si ordet før ordet kommer opp på skjermen her og Du får 0,5 poeng Hvis du forstår hvilket ord jeg mener men du husker ikke ordet på norsk Jeg vil at du skriver Hvor mange poeng du får i kommentarene etter du har sett videoen OK vi starter med en liten test testen er noe du drikker fra ofte laget av keramikk eller plast med et håndtak hvis du sa kopp så får du et poeng og hvis du sa for eksempel tasa eller tasa da får du du 0,5 poeng fordi det er jo riktig ord på et annet språk men du har ikke riktig ord på norsk men du har hvert fall forstått hva jeg mener Så det er da 0,5 poeng Ok gir det mening Jeg håper det La oss begynne eh og vi har da 25 ord og her kommer alle fra nummer 1 et fremkomstmiddel med to jul som du tråkker på for å bevege deg et lite husdyr som liker å fange mus og som kan male en samling av Sider med tekst som man leser et kjøretøy med fire hjul og motor som Folk bruker for å kjøre til steder noe du skriver eller tegner med laget av tre og grafitt et Bygg hvor folk bor en veske som vi drikker og bruker til å vaske oss med et husdyr som er menneskets beste venn og som bjeffer et sted hvor barn går for å lære en enhet som du bruker for å ringe eller sende meldinger til andre et instrument som viser tid et stort kjøretøy med hjul som frakter mange passasjerer en søt bakst som vi ofte spiser til dessert stjernen som gir oss Lys og Varme om dagen vann som faller fra skyene en fargerik plante som ofte vokser i Hager noe du kan sitte på på ofte med fire bein noe du har på føttene for å beskytte dem når du går noe vi spiser for å få energi eller energi og og næring et møbel som du kan sette ting på som mat eller bøker et langt kjøretøy som kjører på skinner over lange avstander et fremkomstmiddel som kan fly vertikalt Den har ikke vinger men en rotor som roterer en hvit vese som kommer fra pattedyr som vi drikker en del av ansiktet som vi bruker til å lukte med et møbel som vi sover i det var alt så skriv i kommentarene Hvor mange poeng som du fikk",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.1014
+  "src": "auto"
  },
  "DfwWSblcbEs": {
   "channel": "Norwegian Connect",
