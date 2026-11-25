@@ -67265,7 +67265,7 @@
  "KFObd7aG8gE": {
   "channel": "Fingtam English",
   "lang": "en",
-  "checked": "2026-11-05T16:16:06+00:00",
+  "checked": "2026-11-25T18:25:40+00:00",
   "title": "Comprehensible English AI Story",
   "duration": 168,
   "published": "20250313",
@@ -67273,49 +67273,11 @@
   "spoken_v": 2,
   "pace": 129.7,
   "rare": 0.1079,
+  "var": 0.801,
+  "cl": 0.0292,
   "speech_s": 158.7,
   "tokens": 343,
   "kw": [
-   [
-    "crocodile",
-    "big crocodile named razu he was strong",
-    16,
-    24,
-    3.49,
-    2
-   ],
-   [
-    "underwater",
-    "underwater even though they were so",
-    96,
-    103,
-    3.92,
-    2
-   ],
-   [
-    "scales",
-    "and powerful with rough green scales and",
-    20,
-    28,
-    3.98,
-    2
-   ],
-   [
-    "sang",
-    "morning she sang cheerful songs about",
-    77,
-    84,
-    4.1,
-    2
-   ],
-   [
-    "sky",
-    "in the sky a little bluebird no bigger",
-    43,
-    51,
-    4.72,
-    4
-   ],
    [
     "every",
     "day on Luma came to visit him every",
@@ -67333,14 +67295,6 @@
     4
    ],
    [
-    "river",
-    "deep in the jungle Where the River",
-    10,
-    17,
-    5.03,
-    3
-   ],
-   [
     "big",
     "big crocodile named razu he was strong",
     16,
@@ -67349,35 +67303,228 @@
     3
    ],
    [
-    "though",
-    "underwater even though they were so",
-    96,
-    103,
-    5.5,
+    "river",
+    "deep in the jungle Where the River",
+    10,
+    17,
+    5.03,
+    3
+   ],
+   [
+    "sky",
+    "in the sky a little bluebird no bigger",
+    43,
+    51,
+    4.72,
+    4
+   ],
+   [
+    "bird",
+    "you little bird but they knew love",
+    125,
+    131,
+    4.63,
     2
    ],
    [
-    "sun",
+    "bright",
     "sparkled under the bright Sun lived a",
     12,
     21,
-    4.97,
+    4.61,
     2
    ],
    [
-    "seen",
-    "prettiest feathers razu had ever seen",
-    54,
-    62,
-    5.52,
+    "sang",
+    "morning she sang cheerful songs about",
+    77,
+    84,
+    4.1,
+    2
+   ],
+   [
+    "scales",
+    "and powerful with rough green scales and",
+    20,
+    28,
+    3.98,
+    2
+   ],
+   [
+    "underwater",
+    "underwater even though they were so",
+    96,
+    103,
+    3.92,
+    2
+   ],
+   [
+    "crocodile",
+    "big crocodile named razu he was strong",
+    16,
+    24,
+    3.49,
     2
    ]
   ],
+  "kx": [
+   [
+    "little",
+    "in the sky a little bluebird no bigger",
+    43,
+    51,
+    5.75,
+    2
+   ],
+   [
+    "name",
+    "her name was Luma and she had the",
+    50,
+    58,
+    5.61,
+    2
+   ],
+   [
+    "tough",
+    "she whispered his big heart tough like",
+    117,
+    126,
+    4.77,
+    1
+   ],
+   [
+    "fly",
+    "and razu couldn't fly they were from",
+    134,
+    141,
+    4.75,
+    1
+   ],
+   [
+    "bigger",
+    "in the sky a little bluebird no bigger",
+    43,
+    51,
+    4.74,
+    1
+   ],
+   [
+    "flew",
+    "sky orange and pink Luma flew close to",
+    109,
+    118,
+    4.16,
+    1
+   ],
+   [
+    "jungle",
+    "deep in the jungle Where the River",
+    10,
+    17,
+    4.12,
+    1
+   ],
+   [
+    "nest",
+    "be together Luma built her nest in the",
+    140,
+    148,
+    4.07,
+    1
+   ],
+   [
+    "mattered",
+    "mattered",
+    166,
+    170,
+    3.53,
+    1
+   ],
+   [
+    "tallest",
+    "tallest tree by the river and razu",
+    144,
+    150,
+    3.5,
+    1
+   ],
+   [
+    "whispered",
+    "she whispered his big heart tough like",
+    117,
+    126,
+    3.44,
+    1
+   ],
+   [
+    "tilted",
+    "tilted her head then why do you stare at",
+    65,
+    72,
+    3.33,
+    1
+   ],
+   [
+    "prettiest",
+    "prettiest feathers razu had ever seen",
+    54,
+    62,
+    3.29,
+    1
+   ],
+   [
+    "bluebird",
+    "in the sky a little bluebird no bigger",
+    43,
+    51,
+    2.91,
+    1
+   ],
+   [
+    "chirp",
+    "you always look so sad Luma chirp",
+    57,
+    66,
+    2.79,
+    1
+   ],
+   [
+    "riverbank",
+    "riverbank he saw a flash of bright blue",
+    40,
+    47,
+    2.77,
+    1
+   ],
+   [
+    "tree's",
+    "stayed below where the tree's roots",
+    147,
+    154,
+    2.64,
+    1
+   ],
+   [
+    "hummed",
+    "sang to him and every night razu hummed",
+    153,
+    159,
+    2.37,
+    1
+   ],
+   [
+    "sparkled",
+    "sparkled under the bright Sun lived a",
+    12,
+    21,
+    2.37,
+    1
+   ]
+  ],
   "tx": "deep in the jungle Where the River sparkled under the bright Sun lived a big crocodile named razu he was strong and powerful with rough green scales and sharp white teeth all the animals were afraid of him but razu felt something was missing in his heart he didn't know what it was he just knew he was lonely one afternoon as razu lay on the riverbank he saw a flash of bright blue in the sky a little bluebird no bigger than a leaf landed on a branch above him her name was Luma and she had the prettiest feathers razu had ever seen you always look so sad Luma chirp crocodiles don't get sad razu said Luma tilted her head then why do you stare at the sky like you wish you were up here razu didn't know what to say from that day on Luma came to visit him every morning she sang cheerful songs about the sky the wind and the places she had seen razu listened carefully enjoying every word in return he told her about the Deep River the hidden caves and the secret places underwater even though they were so different they became best friends Luma made razu laugh and razu made Luma feel safe one evening as the sun turned the sky orange and pink Luma flew close to ru's Big snout I think I love you razu she whispered his big heart tough like his scales felt warm inside and I love you little bird but they knew love between a crocodile and a bird wouldn't be easy Luma couldn't swim underwater and razu couldn't fly they were from different worlds so they found a way to be together Luma built her nest in the tallest tree by the river and razu stayed below where the tree's roots touched the water every morning Luma sang to him and every night razu hummed her name softly even though others didn't understand their love they didn't care they were happy and that was all that mattered",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "var": 0.801,
-  "cl": 0.0292
+  "src": "auto"
  },
  "H1hweGULtMY": {
   "channel": "EnglishSponge",
@@ -67872,7 +68019,7 @@
  "yvkTlG8_sNM": {
   "channel": "Alex Bondoc",
   "lang": "en",
-  "checked": "2026-11-13T22:51:45+00:00",
+  "checked": "2026-11-25T18:35:33+00:00",
   "title": "autumn self care vlog ⏾",
   "duration": 491,
   "published": "20261010",
@@ -67881,6 +68028,7 @@
   "pace": 144.2,
   "rare": 0.0106,
   "var": 0.7617,
+  "cl": 0.0408,
   "speech_s": 234.7,
   "tokens": 564,
   "kw": [
@@ -67949,11 +68097,132 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "night",
+    "self-care night. I need to I just need a",
+    223,
+    229,
+    5.61,
+    3
+   ],
+   [
+    "actually",
+    "I'm actually quite a bit of a slow",
+    72,
+    77,
+    5.49,
+    3
+   ],
+   [
+    "bag",
+    ">> Man, my bag is so heavy.",
+    381,
+    387,
+    4.79,
+    1
+   ],
+   [
+    "liked",
+    "I really liked this.",
+    257,
+    263,
+    4.76,
+    1
+   ],
+   [
+    "breaking",
+    "I think I'm breaking out from it. It's",
+    297,
+    302,
+    4.74,
+    1
+   ],
+   [
+    "dry",
+    "so my face isn't really that dry.",
+    279,
+    284,
+    4.74,
+    1
+   ],
+   [
+    "excited",
+    ">> My lunch for today, ooh, I'm so excited.",
+    374,
+    380,
+    4.74,
+    1
+   ],
+   [
+    "colored",
+    "just a satin uh white champagne colored",
+    37,
+    42,
+    4.19,
+    1
+   ],
+   [
+    "overnight",
+    "I mean, how often do I finish overnight",
+    361,
+    367,
+    4.19,
+    1
+   ],
+   [
+    "spray",
+    "Normal white socks. I like this spray.",
+    41,
+    48,
+    4.18,
+    1
+   ],
+   [
+    "lip",
+    "lip masks? That's just that rarely happens.",
+    364,
+    372,
+    4.13,
+    1
+   ],
+   [
+    "woah",
+    ">> It's so random, but woah.",
+    97,
+    102,
+    3.58,
+    1
+   ],
+   [
+    "shortest",
+    "This is probably the shortest video I've",
+    430,
+    434,
+    3.57,
+    1
+   ],
+   [
+    "satin",
+    "just a satin uh white champagne colored",
+    37,
+    42,
+    3.39,
+    1
+   ],
+   [
+    "matcha",
+    "have my matcha from earlier. Look at this log.",
+    76,
+    98,
+    2.67,
+    1
+   ]
+  ],
   "tx": "Pretty simple outfit today. This top is from Uniqlo. I think I got it when I was in Japan. And then this is just a satin uh white champagne colored skirt. Normal white socks. I like this spray. The one I use the most is this one. I feel like this look perfect. It's not too much in your face, but subtle enough and smells the most. Skinny smells really good. I'm going to go outside for a bit. Self-care really for me is just making sure that I'm still leaving time for all the things I like to do. I love to write. I could spend hours just writing. I'm actually quite a bit of a slow reader, so it takes me a bit to read. I have my matcha from earlier. Look at this log. >> >> It's so random, but woah. It's actually a little chilly, but I want to hang outside. >> >> It's actually chilly. It's so fall. I love it. >> >> This is the perfect way to spend a day off. >> >> It's so fall. >> >> I want to see the hawks. >> >> I'm moving in my winter clothing. I don't know if you can see it from there. It's a bit Look at this. I just felt like doing a self-care night. I need to I just need a self-care night. Also, I want to get a face mask cuz I feel like my skin is also getting upset, too. So, I'll clean and then we'll do face mask. >> >> Tada. I really liked this. I like this. These are my favorite hair clips. I'm stuck. Stupid. I already put a little bit of serum just so my face isn't really that dry. >> >> My skin is just so sensitive that I'm just I don't really like trying new skin care. I was trying this some type of pad. It just I think I'm breaking out from it. It's not that's not fun. You've probably seen this before, but I get my It's essentially the same thing, right? So, I just get this, put the rest in here cuz there's so much essence in here. I'm still reading Tolkien. I like to read before I go to sleep now because I would watch like maybe a TV show or something to help me go to sleep, but then like I won't be able to pause it. But, what this I like to do is like drop it and then you can go to sleep. So, >> >> Can you believe it? I'm almost done with this. I don't know how long I've had this, but I mean, how often do I finish overnight lip masks? That's just that rarely happens. Good night. >> >> My lunch for today, ooh, I'm so excited. >> >> Man, my bag is so heavy. It's okay. Bear. Hello. This is probably the shortest video I've put out in a really long time, but I wanted to get one out for this week. I just I didn't really do much. I did my best though. So, if you have anything you want to see, let me know. And then, I'll try my best to put it in a video. Have a good day. Bye. >> >> My gosh, we got like a whole Snoopy thing. You might see this a lot. I just wear this t-shirt so often. >> >> Who's going to get it? Oh, child child.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0408
+  "src": "auto"
  },
  "2cx5JHNPkLU": {
   "channel": "EnglishSponge",
@@ -70331,7 +70600,7 @@
  "VZGKPhHR2GU": {
   "channel": "English From the Ground Up",
   "lang": "en",
-  "checked": "2026-11-13T22:53:34+00:00",
+  "checked": "2026-11-25T18:37:13+00:00",
   "title": "Outlast Gameplay in Slow, Clear English | Can I Survive?",
   "duration": 1637,
   "published": "20261024",
@@ -70340,6 +70609,7 @@
   "pace": 97.6,
   "rare": 0.0185,
   "var": 0.7353,
+  "cl": 0.0169,
   "speech_s": 1492.3,
   "tokens": 2428,
   "kw": [
@@ -70480,16 +70750,113 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "let's",
+    "Let's go inside. Oh.",
+    288,
+    297,
+    5.16,
+    27
+   ],
+   [
+    "room",
+    "room. There's a couch",
+    453,
+    461,
+    5.39,
+    22
+   ],
+   [
+    "vision",
+    "Okay, I turned on night vision, so now I",
+    437,
+    443,
+    4.63,
+    7
+   ],
+   [
+    "locked",
+    "the gate is locked. The gate is locked. I can't open it. Can",
+    217,
+    229,
+    4.43,
+    6
+   ],
+   [
+    "peek",
+    ">> I'll peek around this corner.",
+    747,
+    753,
+    3.7,
+    5
+   ],
+   [
+    "ladder",
+    "There's a ladder right here, so I'll",
+    371,
+    378,
+    4.03,
+    4
+   ],
+   [
+    "webs",
+    "Oh, spider webs. I can see some spider webs.",
+    718,
+    726,
+    3.08,
+    3
+   ],
+   [
+    "aha",
+    "Aha. I can see a little hole",
+    312,
+    322,
+    3.56,
+    2
+   ],
+   [
+    "highlighter",
+    "and a highlighter. Oh, look.",
+    193,
+    200,
+    2.83,
+    1
+   ],
+   [
+    "crouched",
+    "I'm crouched. I'm going to peek around this corner.",
+    1476,
+    1484,
+    2.76,
+    1
+   ],
+   [
+    "beeping",
+    "Okay, the phone is beeping. Beep beep beep.",
+    603,
+    612,
+    2.69,
+    1
+   ],
+   [
+    "bookshelves",
+    "bookshelves. There are some curtains",
+    479,
+    488,
+    2.69,
+    1
+   ]
+  ],
   "tx": "Hello. My name is Kenzo and in this video, I will play Outlast while speaking slow and simple English to help you practice your English listening skills. This video is part of a special series of videos that I'm making to celebrate Halloween time. Last week, I played a scary mod in Minecraft. This week, I'm playing Outlast. >> >> I'll start a new game and I'll play on normal difficulty. Normal. Ah. This reminds me that Outlast is rated M for people 17 years old or more. So, if you are younger than 17, don't watch this video. Ooh. I'm driving a car. I'm listening to the radio. I'm listening to … going to happen here. Oh, there's a camera up there. Oh, and this camera's working. I can see the camera moving, which means that it's working. Okay. In here, there's a computer. There are two computer monitors. It looks like there's Is this a phone? There's a phone here. There's a keyboard, a cup, some papers on the table, and on the papers, I can see This looks like a pen and a highlighter. Oh, look. There are some drawings on the wall over here. This looks kind of like a witch. Maybe this is a cat witch. There's a carved pumpkin and some bats flying around. There's a gate here, and it … this hole. I'll crawl. I'm crawling through the hole. By the way, if you are enjoying these videos and if you'd like to practice speaking English with me directly, you could book a call with me on Google Meet or Tencent Meetings by clicking up here. I can see another door over here. Let's try opening this door. Locked. Well, that door is locked. I can see a fountain over here. Ah. I can see an open window up there. There's a ladder right here, so I'll climb up the ladder. Up the ladder. Climb, climb, climb. Okay, I climbed up the ladder. >> >> Uh-oh. I'm hearing scary music. Oh. There's a … I can see some light shining through the window over here. Um I'll turn on my night vision. Oh. What was that sound? The TV turned on. Now there's static on the TV. Whoa. Okay, I'll open this door. I don't see anything. I think it's safe. Let's continue. Whoa. Uh-oh. I can see some blood on the floor over here. That's a bad sign. Let's go. I'll squeeze past this shelf. Okay. I can see a fan that's on. I'll turn on my night vision. Whoa. There's another computer over here and a light that's on. A battery? How do I get the battery? There we go. I picked up the battery. Awesome. Now I … the vents. Uh-oh. Please avoid contamination and wash your hands. Always remember to wash your hands, guys. Wash your hands in the sink. Oh, no. There's some blood dripping from the ceiling here. It's dripping onto this ramp. It looks like I need to jump up there into the vent and crawl through the vents. Here we go. I'll walk up here. I'll jump. All right. I'll turn on my night vision. Oh, spider webs. I can see some spider webs. I'm going to walk through these spider webs. >> >> I saw someone down there. Let's keep going. Okay. Woah, I can see someone. >> >> I'll peek around this corner. … battery. I'll reload it. I'll put in some new batteries. There we go. Here's a restroom. Can I go in the restroom? There's some blood. There's an arm in the toilet. I saw that monster walk into this room. So, I kind of don't want to go in here. This is room A205. Maybe I can walk through this way. >> Little pig. >> Uh-oh. Uh-oh. He threw me. He threw me through a window. And I fell. >> And who are you then? >> What is happening? >> I I see >> Is he looking at my camera? >> Guard your life, son. You have a calling. >> >> I'm waking up. And I'm standing up. Woah. New objective, escape the … on the TV. These two guys. I'll walk past these guys. I'll walk around. Oh, there's another one here. Okay. I'm walking around these guys. Here I'll crouch. I'll crawl underneath these wooden boards. Woah. Room A114. Let's open the door. I can see another dead person over there. Oh. This guy has a card. An access card. I bet I need this card to open a door somewhere. I'll take the card. Okay. Uh-oh. My battery is running out. And I'll walk through the door. And I'll run. Uh-oh. He did attack me. Uh-oh. Okay, he stopped attacking me. I have an access card. Now, where do I need to take … See? I'm hiding in the locker. I can kind of peek through these little gaps. Okay, let's get out. They lie. Can I use the keyboard? It's loading. Woah. He pulled the lever. New objective, restart the generator in the basement. He turned off the power. >> >> Hide, hide, hide, hide, hide. Hiding in the locker. >> Uh-oh. Uh-oh. Uh-oh. >> He opened the locker to the right. But he didn't open the locker that I am hiding in. Okay. He's walking away. I'm going to wait for just a second. I can still hear the chains rattling. Okay. I think he's gone. I'll exit and I'll run to the right. I'm … is where I can turn back on the power. Oh. So, first I need to turn on two gas pumps. Gas pump one and gas pump two. I'll walk up these stairs. And oh, pump room. Let's open this door. Aha. Okay, I think this is one of the pumps. I'll press the button to start the pump. Okay. Oh, a battery. Pick up the battery. I'll close the door. Under the bed. He's breaking through the door. He broke down the door. Oh, he's holding a bat. Uh-oh. I can see his feet. >> >> Oh, I need to reload my batteries, too. I'll put new batteries in my camera. And I think he left the room. Okay. I'm crouched. I'm … I'm hiding under a bed. Uh-oh. Okay, I'm safe. I'm safe. Now I think I can turn on this generator. It's green. The light is now green. Let's turn on the generator. And there we go. We have power. I turned on the power. Now the lights are back on. And I think I'm going to end this video right here. If these videos are being helpful to you, the best way to support this channel is by going over to my Ko-fi page and making a donation or by going to my shop and buying some of my artwork. You can check it out by clicking up here. Like and subscribe and I will see you in the next video. See you. >>",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0174
+  "src": "auto"
  },
  "xQbk--MgDCA": {
   "channel": "Begin With English Stories",
   "lang": "en",
-  "checked": "2026-11-13T22:55:19+00:00",
+  "checked": "2026-11-25T18:38:50+00:00",
   "title": "Improve Your English with 2 Interesting Conversations | English Listening & Shadowing Practice",
   "duration": 775,
   "published": "20261102",
@@ -70498,6 +70865,7 @@
   "pace": 120.5,
   "rare": 0.0014,
   "var": 0.7381,
+  "cl": 0.0373,
   "speech_s": 733.7,
   "tokens": 1473,
   "kw": [
@@ -70590,16 +70958,89 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "stop",
+    ">> Yes, I noticed him near the bus stop.",
+    75,
+    82,
+    5.52,
+    8
+   ],
+   [
+    "message",
+    "my girlfriend sent me a strange message.",
+    11,
+    19,
+    5.0,
+    8
+   ],
+   [
+    "afraid",
+    ">> Were you afraid? >> Of course. My heart was beating so fast.",
+    104,
+    114,
+    4.7,
+    3
+   ],
+   [
+    "girlfriend",
+    "my girlfriend sent me a strange message.",
+    11,
+    19,
+    4.68,
+    3
+   ],
+   [
+    "goodness",
+    ">> Oh my goodness. So, he was not trying to hurt you?",
+    185,
+    195,
+    4.13,
+    1
+   ],
+   [
+    "understands",
+    "understands a situation in the wrong",
+    749,
+    754,
+    4.13,
+    1
+   ],
+   [
+    "openly",
+    "openly, even when something is difficult.",
+    568,
+    575,
+    4.11,
+    1
+   ],
+   [
+    "strangest",
+    ">> It was, but that was not the strangest",
+    446,
+    451,
+    3.25,
+    1
+   ],
+   [
+    "daniel's",
+    "He was only trying to return Daniel's",
+    743,
+    748,
+    3.09,
+    1
+   ]
+  ],
   "tx": ">> Today's conversations. >> >> Story one, someone was following me. Story two, my girlfriend sent me a strange message. Listen carefully to both conversations. Are you ready? Let us start. This video has two parts. First, listen to both conversations. Then, I will teach you some important phrases that you can use in your daily English conversations. Are you ready? Let us begin. >> Emma, you will not believe what happened to me last night. >> What happened, Daniel? You look really scared. >> Someone was following me on my way home. >> What? Someone was following you? Are you serious? >> Yes, … I walked faster, but he also walked faster. >> Were you afraid? >> Of course. My heart was beating so fast. I did not know what to do. >> Did you call anyone? >> Yes, I called my brother, but he did not answer. >> Oh, no. Then what happened? >> I saw a small coffee shop nearby. So, I went inside. >> Good idea. Was the man still outside? >> Yes. He stopped near the door and looked inside. >> That sounds scary. Did you tell anyone? >> I told the man at the counter. He said I should stay inside until the stranger left. >> Did he leave? >> After a few minutes, he came inside. >> What? He … wallet? >> Yes. He found it near the bus stop. He saw me walking away, so he followed me to return it. >> Oh my goodness. So, he was not trying to hurt you? >> No. He was just trying to help me. >> That is such a big misunderstanding. >> I felt so embarrassed. I even told the coffee shop worker that the man was following me. >> Oh, Daniel. What did you say to him? >> I thanked him and apologized. He just smiled and said, \"No problem. I am happy I found you.\" >> That is so kind of him. >> Yes. And there was something else inside my wallet. >> Something else? What was it? >> A small … is true, Daniel. But, always stay careful and keep yourself safe. >> Absolutely. Next time, I will be more careful with my wallet. >> That is a good idea. >> >> Hey, Emma. Can I talk to you for a minute? >> Sure, Daniel. What is wrong? You look worried. >> Something strange happened last night. >> What happened? >> My girlfriend, Lily, sent me a strange message at midnight. >> A strange message? What did she say? >> She said, \"Please do not call me. I need to tell you something.\" >> What? That sounds serious. Did you ask her what was wrong? >> Yes, I sent her a message. I asked if she was … her what was wrong, but she said everything was fine. >> Maybe she is hiding something from you. >> That is exactly what I'm afraid of. We have been together for 2 years. She usually tells me everything. >> Maybe you should meet her and talk face-to-face. >> I sent her a message this morning. She agreed to meet me at the park this afternoon. >> Good. Try to stay calm. Do not jump to conclusions before you hear her side of the story. >> You are right, but I cannot stop thinking about it. >> I understand. I hope everything is okay. >> Thanks, Emma. I really need someone to talk to right now. … held my hand and started crying. >> Oh, no. What happened? >> She told me that she was moving away. >> Moving away? Where? >> Her family is moving to another city next week. Her father got a new job there. >> Oh, Daniel. That must have been difficult for both of you. >> It was, but that was not the strangest part. >> What do you mean? >> She told me she had been hiding another secret from me for 3 months. >> Another secret? Daniel, you are making me nervous. What was it? >> She showed me a small envelope. Inside was a letter from a university. >> A university? What did the letter say? >> … me and her dream. >> Now I understand why she was so worried. >> At first, I was hurt because she did not tell me. But then, I realized something. >> What did you realize? >> I love her. And if I really love her, I should support her dreams, even if we have to live far apart. >> That is a beautiful way to think, Daniel. >> Before we left the park, she gave me one more thing. >> What was it? >> A plane ticket. >> A plane ticket? For what? >> She bought a ticket for me to visit her during the holidays. >> Wait. So, you are going to visit her? >> Yes. I was so surprised. I thought I was going … is very important in a relationship. >> I agree. I told Lily that we should always talk openly, even when something is difficult. >> That is good advice, Daniel. >> Thanks, Emma. I feel much better now. >> I am glad to hear that. >> >> Good job, my friends. Did you listen to both conversations? Now, let us look at four important phrases from the conversations. >> Hey, Emma. Can I talk to you for a minute? Hey, Emma. Can I talk to you for a minute? >> The first phrase is, \"Can I talk to you for a minute?\" In the conversation, Daniel says, \"Can I talk to you for a minute?\" when he … stop thinking about it. >> The second phrase is, \"I cannot stop thinking about it.\" In the conversation, Daniel says, \"I cannot stop thinking about it.\" because he is worried about the strange message from his girlfriend. We use this phrase when something stays in our mind and we keep thinking about it again and again. For example, when you have an important exam tomorrow, you can say, \"I cannot stop thinking about it.\" Someone was following you? Are you serious? Someone was following you? Are you serious? The third phrase is, \"Are you serious?\" In the conversation, Emma says, \"Are you … The fourth phrase is, \"That is a big misunderstanding.\" In the conversation, Emma says, \"That is a big misunderstanding.\" When she finds out that the stranger was not trying to hurt Daniel. He was only trying to return Daniel's wallet. We use this phrase when someone understands a situation in the wrong way. It means something happened because people did not understand each other correctly. Great job, my friends. Remember, watching English conversations helps train your brain to think in English. Keep learning and keep practicing. See you in another English learning video. Bye, my friends.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0381
+  "src": "auto"
  },
  "ijGce5XnYNM": {
   "channel": "English From the Ground Up",
   "lang": "en",
-  "checked": "2026-11-14T00:38:08+00:00",
+  "checked": "2026-11-25T18:37:17+00:00",
   "title": "SCARY Minecraft Mods 😱 English Listening Practice for Beginners",
   "duration": 1168,
   "published": "20261017",
@@ -70608,6 +71049,7 @@
   "pace": 111.4,
   "rare": 0.0496,
   "var": 0.6985,
+  "cl": 0.0211,
   "speech_s": 1096.9,
   "tokens": 2036,
   "kw": [
@@ -70772,11 +71214,92 @@
     7
    ]
   ],
+  "kx": [
+   [
+    "place",
+    "crafting table. I'll place it here on",
+    132,
+    137,
+    5.71,
+    14
+   ],
+   [
+    "okay",
+    "and six logs. Okay, let's turn these",
+    119,
+    126,
+    5.06,
+    14
+   ],
+   [
+    "shield",
+    "Okay. I really need a shield before I go",
+    684,
+    692,
+    4.3,
+    7
+   ],
+   [
+    "beef",
+    "I need some food. I got three raw beef",
+    155,
+    161,
+    4.29,
+    6
+   ],
+   [
+    "logs",
+    "I'm punching these logs with a log. I",
+    112,
+    120,
+    3.81,
+    8
+   ],
+   [
+    "furnace",
+    "I need to make a furnace so I can cook",
+    457,
+    463,
+    3.62,
+    8
+   ],
+   [
+    "staircase",
+    "spiral staircase here. I'll go up this",
+    842,
+    849,
+    3.58,
+    3
+   ],
+   [
+    "sun's",
+    "Oh, I think the sun's coming up.",
+    499,
+    507,
+    3.43,
+    3
+   ],
+   [
+    "creepers",
+    "Oh no. Creepers. Creepers. Ah, so many creepers. Oh, so many. Ah,",
+    390,
+    403,
+    2.73,
+    4
+   ],
+   [
+    "cobblestone",
+    "collected 16 cobblestone. Now I can upgrade to stone tools. So",
+    203,
+    212,
+    2.7,
+    4
+   ]
+  ],
   "tx": "It is a village. Uhoh. Hello, my name is Kenzo and in this video I will play Minecraft while speaking slow and simple English to help you improve your English comprehension. And this is my Halloween special. Today I'm going to be playing Minecraft, but not normal Minecraft. No, today I'm going to be playing Minecraft with some scary mods installed for Halloween time. All right, here we are. A new world. I'm on the beach. It looks like there's an ocean over here and a forest on this side. I have a cassette. Cassette one. Safety instructions. Can I listen to this cassette? Oops. I threw the … with a log. I have five logs and six logs. Okay, let's turn these logs into planks. And I'll craft my first crafting table. There it is. All right, my first crafting table. I'll place it here on the sand. And I'll make some sticks using these oak planks. And I'll make a wooden pickaxe. There we go. A wooden pickaxe. I'm going to kill this cow with my wooden pickaxe. Sorry, cow. Die. Die cow. I need some food. I got three raw beef from that cow. I'll kill this cow as well. Sorry, cow. Sorry, cow. I need the food. Now I have five raw beef. Die. Die. Seven raw beef. Die. And 10 raw beef. … sword. I'll make a stone axe. Cool. And I'll use my stone axe to break the crafting table. Nice. Now I have some stone tools. The next thing I need is some coal so I can craft some torches. Here's a pig. I'll kill this pig. Die pig. Okay, I got three raw pork chops here. I'll swim across this river. Swim, swim, swim. Whoa. Oh, it's just a sheep. Any caves around here? Any caves? H. Oh, hey, there's some coal. I'll go mine that coal with my stone pickaxe. All right, I'll mine this coal so I can make some torches. There's a bunch of coal here. Let's see. I got 12 coal. I'll craft some more … 49 49 planks, I'll build a little shelter. I'll build fast. Uh-oh, it's getting really dark. I'll use cobblestone for the roof. I hope I What is that? Uhoh. What is that? What? WHAT? NO. NO. NO. NO. Oh no. Oh no. Where did I die? I'm going to search for my things. Oh no. Creepers. Creepers. Ah, so many creepers. Oh, so many. Ah, so many creepers. There's my house. I found my house. Oh, but that monster is still close by. I'm going to quickly craft a door. Okay, I'll turn these logs into planks. I'll make a crafting table real quick. I'll place it and I'll use my planks to make a door. … So, I can make my furnace. All right, I picked up 18 cobblestone. So, now I can craft a furnace. Here's my furnace. And I'll place it. And in this furnace, I'll cook my raw beef. There we go. Now I'm cooking some beef. Oh, I think the sun's coming up. Pretty soon it'll be morning. Lots of chickens around here. Chickens. Tons of chickens. And lots of eggs, of course. What is that? Whoa. Whoa. There's some kind of huge house over here. What is that? And is that a village? That might be a village over there. Let's go check out this huge house. It is a village. Uh-oh. What's going on? … Anything in this house? No. Anything in this house? There are some yellow carpets on the floor here, but no chests. There's the iron golem. Hello, iron gollum. I'll pick up these hay bales. I can turn these hay bales into a bunch of bread. So, I'll pick these up. Uh-oh. Whoa. This house is on fire. This pool of lava is lighting these houses on fire. Uh-oh. Anything in this house? Get out of the bed, villager. I need to sleep. It's morning. I slept through the night and I think I'm going to move in to this house. This house that has the chest. This is my house now. I'm going to live here. … smelt this raw iron into iron ingots and then I'll craft a shield. Let's go back to the village. Here's my house. I'll go inside. All right. And now I'll put this raw iron in the furnace and I'll place three oak planks. And I'll smelt this iron. The sun's going down. I'll go to sleep. I'm going to sleep in my bed. My bed, villager, my bed. All right, my iron's finished smelting. Oh, I can't make a shield yet. I need more oak planks. I'll go chop down one more tree with my stone axe. Here we go. One tree. All right, I got six oak logs. I'll turn all these logs into planks. Cool. Now I can … I hear a villager. H. It looks like there's a spiral staircase here. I'll go up this staircase slowly. Whoa. A villager. Hello, villager. And there's an enchanting table up here. A cassette recorder. He wants eight emeralds for this cassette recorder. Okay, I should do this. But first, let's check out this chest. Cobwebs. A potion of healing. Tear of the man. What is this? I have no idea what to do with this again. That whistling. I think I need to get this cassette recorder. So, I need to bring eight emeralds to this villager. Let's go back to the village. Wow. That villager has a … Now I just need three more emeralds. There it is. I'm hiding in this house. I'm going to peek out the window. Is the monster out there? I don't see it. I don't see it anywhere. I think it's safe to go outside. Oh, here are some more hay bales. I'll pick up these hay bales and then I can trade more wheat to the farmer. I'll turn all these hay bales into wheat. And now with this wheat, I can get more emeralds from that farmer. Let's go find the farmer. There are a bunch of farmers over here. This farmer wants potatoes. Here we go. This farmer wants wheat. All right, I got eight emeralds. … recorder. I'll place it here. And now I think I can finally listen to my cassette one. Uh, play. >> Welcome to the safety instructions. In this video, you will learn the necessary safety precautions to prevent you from going insane. >> And I think I'm going to end this video right here. If these videos are being helpful to you, the best way to support this channel is by going over to my Kofi page and making a donation or by going over to my shop and buying some of my artwork. You can check it out by clicking up here. Like and subscribe and I will see you in the next video. See you. >>",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0218
+  "src": "auto"
  },
  "nWdlVuL_xRg": {
   "channel": "English From the Ground Up",
@@ -119820,7 +120343,7 @@
  "iWWWyG5ZwG8": {
   "channel": "Mark Rober",
   "lang": "en",
-  "checked": "2026-11-12T01:32:26+00:00",
+  "checked": "2026-11-25T18:21:14+00:00",
   "title": "Car Thief Gets Instant Karma (the FINAL Glitterbomb 6.0)",
   "duration": 1226,
   "published": "20231209",
@@ -119829,6 +120352,7 @@
   "pace": 210.3,
   "rare": 0.0305,
   "var": 0.8523,
+  "cl": 0.0472,
   "speech_s": 907.4,
   "tokens": 3180,
   "kw": [
@@ -119961,16 +120485,129 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "window",
+    "I'm missing a window. Not cool San Francisco, not cool",
+    109,
+    114,
+    4.8,
+    8
+   ],
+   [
+    "whole",
+    "And as this video is the conclusive finale to the whole Glitter bomb series (this time for real),",
+    50,
+    57,
+    5.46,
+    6
+   ],
+   [
+    "videos",
+    "Now, if you haven't seen any of my other glitter bomb videos, the 15 second recap is that five",
+    69,
+    74,
+    4.79,
+    4
+   ],
+   [
+    "windows",
+    "But what he doesn't realize is those are bulletproof windows because that's just funny.",
+    14,
+    20,
+    4.72,
+    4
+   ],
+   [
+    "investigative",
+    "call centers in India, I'm happy to report that having teamed up with a veteran investigative",
+    37,
+    42,
+    3.68,
+    5
+   ],
+   [
+    "trunk",
+    "trunk that also plugs into the backpack with two barrel jacks.",
+    223,
+    228,
+    4.03,
+    4
+   ],
+   [
+    "tempered",
+    "are made from tempered glass. Which by the way, as far as inventions go is an incredible feat of engineering because it not only",
+    731,
+    738,
+    3.53,
+    2
+   ],
+   [
+    "backpacks",
+    "And once these backpacks are stolen, they'll of course be on the move all over the place.",
+    183,
+    187,
+    3.07,
+    2
+   ],
+   [
+    "abhorrent",
+    "yet wretchedly abhorrent fart spray. Including one that's not too far off from Macaulay Culkin's here.",
+    61,
+    67,
+    2.97,
+    1
+   ],
+   [
+    "centrifugal",
+    "For starters instead of using centrifugal force to fire the glitter,",
+    131,
+    135,
+    2.97,
+    1
+   ],
+   [
+    "unlocks",
+    "Because if you think like an engineer, you think differently and that unlocks creative new ways to",
+    341,
+    349,
+    2.97,
+    1
+   ],
+   [
+    "gratuitous",
+    "But before I subject you to gratuitous amounts of broken glass, I'm gonna start off with a little",
+    294,
+    300,
+    2.94,
+    1
+   ],
+   [
+    "thefts",
+    "thefts to occur in the first place.",
+    1002,
+    1005,
+    2.94,
+    1
+   ],
+   [
+    "infiltrating",
+    "But it eventually led us over to India where we ended up infiltrating, then shutting down five of",
+    88,
+    94,
+    2.87,
+    1
+   ]
+  ],
   "tx": "These guys just broke into my car in San Francisco and stole my backpack. What they'll soon find out is that thanks to some high tech glitter and fart spray delivery mechanisms, that's no ordinary backpack.. - Nobody's back there right? - And this guy's also trying to break into my car. But what he doesn't realize is those are bulletproof windows because that's just funny. Every year, 20,000 cars are broken into in the city of San Francisco. But who's behind all these break ins? Like, is it organized crime or gangs or just random individuals? And then what happens to all the stuff that they … true until earlier this year. I had the unfortunate realization that glitter and fart spray hadn't solved all forms of crime worldwide when my own car was broken into. I'm missing a window. Not cool San Francisco, not cool That also made me realize our 11th hour cobbled together car package last year never got enough footage to uncover who was actually behind all the San Francisco car break-ins. So 10 months ago, for one final time, we completely redesigned the glitter bomb from the ground up, only this time it would be custom built just for cars. For starters instead of using centrifugal … sure no matter what we get the footage from the cloud given the complete coverage and crazy speeds of their network that I've actually gone out and benchmarked myself before. Finally, we lock up the bottom compartment to prevent tampering. Then use a rubber stopper glued to a patch to plug and conceal the outlets. Then as a decoy to divert suspicion, we got some clothes and a bunch of old nonfunctional laptops to place in each bag. We also created a second version with a suitcase form factor and identical guts in case word got out about the backpacks. Then the car itself has eight hidden … footsteps to try and get some answers. So after a couple of months of designing, testing and building, we put them out in a few different cars and we waited. And we didn't have to wait long. But before I subject you to gratuitous amounts of broken glass, I'm gonna start off with a little broken glass of my own. Three. Two. One. Nice shot Eloise. I'm Mark Rober. And for over a decade, I've been making YouTube videos to showcase what it means to think like an engineer. But what exactly does that mean? You ready? Whoa, thoughts. - Probably less catalyst. - Good call. It means, you know, … why they'd removed their license plate. Thankfully, on our third break in our luck can improved. And this time we struck pay dirt because once Dan ran the license plate, he made a shocking discovery. Turns out this car belonged to a long time SF State college professor who also sits on the board of a prestigious Oakland charter school. And so like any good investigative journalist, Dan found his home address and showed up to confront him except he turned out to be a really nice guy who informed us that his license plate was stolen from his car a few weeks prior. And what Dan would … but that still leads them to developing their own strategies. For example, this guy here has already scoped out and wants to seal our backpack. The problem is all these people over here would see him. That is unless he just waits for the perfectly timed obstruction. This guy not only has an official construction worker type vest on, but his technique is to break it on foot, then walk his new found treasures back to his car where he can now discreetly lean in through the window to see what he got, which probably works out really well, 99% of the time, but it's hilariously the worst … activate because of a dead battery issue, it was still really heartwarming to see them deal with our bulletproof window, when a juicy piece of luggage was just sitting right in plain sight. Only to eventually leave in frustration, totally empty handed. And to be fair, quite a few of the break ins were from individuals it would be a stretch to classify as seasoned professionals. For example, this guy tried to use a blowtorch to break the window, which definitely isn't a thing. He eventually finds a screwdriver to snap the edge of the glass, but then realizes he broke the wrong window and the … it was stolen, it came to this location for about a half a day. But then after that, it made its way over to this neighborhood and that's where it's been ever since. But the thing is Dan recognized that first spot because he did a news report more than a month and a half earlier when he told the story of a video producer who tracked his stolen gear there because the thieves knew it was a fencing operation where they could quickly exchange the gear for money. - He's on the phone with the San Francisco police officer when he sees his camera gear arrive at this location in the 300th block of … sold. It certainly feels like more could be done here to remove the incentive for the break ins in store thefts to occur in the first place. And so with that, I'll leave you with this. And I feel it's very important to point out here that this fart spray is perfectly harmless to breathe. It just truly smells really, really bad Because after breaking, not one but two of our windows, he yells out a racial slur ostensibly at an innocent bystander and in the most perfect definition of instant karma ever. Two minutes later, the dry heaving ensues. So that's it. My official final wrap on the … 10. But also more than three out of four parents said their child gained a new passion around STEM and engineering after getting the Build Box. On top of that, each month, your box has a chance to contain the platinum ticket and if yours has it, well, then you're coming out to CrunchLabs to build with me and my team for a day. So if you want to embark on this monthly journey with me and get a Christmas morning reaction like this. - Oh my gosh. - just go to crunchlabs.com or use the link in the video description where we're giving away two months free as a holiday special. Thanks for watching.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0408
+  "src": "cc"
  },
  "9c2NqlUWZfo": {
   "channel": "Mark Rober",
   "lang": "en",
-  "checked": "2026-11-12T01:32:43+00:00",
+  "checked": "2026-11-25T18:21:32+00:00",
   "title": "World’s Smallest Nerf Gun Shoots an Ant",
   "duration": 1310,
   "published": "20230930",
@@ -119979,6 +120616,7 @@
   "pace": 202.8,
   "rare": 0.0511,
   "var": 0.8246,
+  "cl": 0.0532,
   "speech_s": 1278.4,
   "tokens": 4322,
   "kw": [
@@ -120143,16 +120781,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "actually",
+    "where you can actually cock it back and fire a dart.",
+    12,
+    16,
+    5.49,
+    11
+   ],
+   [
+    "design",
+    "with a template design that was full size,",
+    183,
+    186,
+    5.17,
+    11
+   ],
+   [
+    "springs",
+    "which quickly springs forward, forcing all the air in the chamber out.",
+    62,
+    67,
+    4.24,
+    7
+   ],
+   [
+    "shape",
+    "that exact shape down. But what should that look like?",
+    188,
+    191,
+    4.72,
+    6
+   ],
+   [
+    "shrink",
+    "if you're trying to shrink that down to human hair scale, is",
+    78,
+    82,
+    3.73,
+    4
+   ],
+   [
+    "template",
+    "with a template design that was full size,",
+    183,
+    186,
+    3.71,
+    4
+   ],
+   [
+    "microscope",
+    "And at this size we had to use a microscope",
+    548,
+    551,
+    3.5,
+    5
+   ],
+   [
+    "blueprint",
+    "you first need a blueprint that has all the specific instructions",
+    898,
+    903,
+    3.48,
+    4
+   ],
+   [
+    "minuscule",
+    "Wow, that is minuscule. And at this size we had to use a microscope",
+    545,
+    551,
+    2.99,
+    1
+   ],
+   [
+    "lubrication",
+    "and no need for lubrication. And finally, number six,",
+    279,
+    283,
+    2.97,
+    1
+   ]
+  ],
   "tx": "This is the world's largest Nerf gun. This is a normal Nerf gun. And for the past year, I've been making good use of my time by working on this the world's smallest Nerf gun where you can actually cock it back and fire a dart. And while this is now the current world's smallest Nerf gun, our goal for today is to break that record not once, not twice, but three times, shrinking it by a factor of ten each time we move down. And if I'm math’s correct, that means by the time we get here, you'll be able to fit five of them across the width of a single human hair. But before we can start breaking … he was also able to locate my student ID and the only thing more aggressive than those eyebrows was the decision to rock the double puka shell necklace for picture day. Our first stop was to finally meet in person with the group of BYU students, I'd been working pretty closely with on this project for about a year. So today was all about a final meet up to see if this was a mission accomplished situation for us and Jacob, who led the student team, summarized the second major issue we faced here. The physics of scaling down is huge here friction and surface forces are multiplied … applications. Five: No friction between parts. That means no wear, between moving parts and no need for lubrication. And finally, number six, you got built in springs. Every material has a built in springiness so the shape we choose can cleverly take advantage of that. He then proceeded to show me some other mind bending examples of compliant mechanisms, like this single part light switch, or this single piece of metal bending in ways it feels metal shouldn't be allowed to bend, or this single sheet of plastic cut in such a way where it's really flexible in one direction, but really … it right there in the chamber. No way. Okay, Ready? When you cock it back, you see, the flexures are, in fact, bending, storing the energy, just like at the full scale template. Ahhhh, that’s so satisfying. OK loading. Yesss okay here we go. Pchewww That was amazing. It fires the dart around three feet, which is really interesting because that's also a factor of ten scaled down from how far a normal Nerf dart fires. Alright Bethany, it's only appropriate we have a Nerf blaster accuracy contest. There's a penny out here closest to the penny wins. Are you ready? Pchewww like six inches. Three … it up with tweezers. So we used a micro manipulator instead where each turn of these knobs will move the needle probe fractions of a millimeter in any one of three directions. All right, now continue going down. oh my gosh. And it feels a little bit like defusing a bomb, because you have to be so incredibly careful since the slightest turn of a knob in the wrong direction-- no. oh no. Can immediately destroy the delicate carbon nanotubes. Which reminds me, I forgot to mention this version of the Nerf gun is actually grown from carbon nanotubes because there just aren't many other ways to … run. And if you want to experience this toy for yourself, then you're going to have to get a CrunchLab build box subscription where you get a super fun toy every month, which comes with a video where I teach you all the juicy physics that make the toy work. So if you want to have a ton of fun while learning to think and to prank like an engineer visit crunchlabs dot com. To learn more back to breaking world records, it was once again time to shrink down by a factor of ten, which makes this spec right here 1000 times smaller than a normal Nerf gun. Whoaaa And so in order to truly … Jonas Salk. My favorite thing about him is not necessarily that he discovered the cure for polio, but that after doing so, he decided to forego the $3 billion he would have made by patenting the vaccine and instead made the cure available for free to everyone. And that attitude of altruistic scientific curiosity permeates the institute still today, creating an environment for discoveries like the helical structure of the DNA molecule, which just so happens to be the exact reason we were here. The technology we work with is DNA origami, which uses DNA slightly differently from how it's used … on a computer they design out the shape they want. Now, as it stands here, there's nothing attached to the other side, so it would just lose its shape. But if you add in a bunch of what they call staple strands of DNA that are specifically designed to match the corresponding sections on the scaffold strand, they effectively lock it into the desired shape. So in theory, if you just put a random scaffold strand and then all the corresponding custom made staple strands in a solution together at the right temperature and then let it sit for a while, it would automatically self-assemble into … can't be seen. So after a little while, Jocelyn returned, allowing me to now present to you a small sampling of the world's officially smallest Nerf guns made entirely just of DNA. Are you kidding me? Pretty frickin good. And what blows my mind is that each of these is made from just a few thousand atoms to comprehend just how small that is. If you laid them end to end, it would take 2000 to fit across a single human hair. Your move, Mr. Beast. So as I closed out my visit, Pallev let me know about how this project had sparked some ideas for his team. If we can make specific Nerf Blasters … than an investment in the future of the favorite young person in your life. As you watch their confidence and resilience grow And possibly the coolest part of all is each month we randomly select one box to slip in a platinum ticket. And if it happens to be yours- then you're coming out right here to CrunchLabs to design with me and my team for a day. So if you want to unlock the superpower of learning how to create and build whatever you can dream up, even if it's really, really small just head to CrunchLabs.com or use the the link in the video description to learn more Thanks for watching.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0531
+  "src": "cc"
  },
  "AJiGaXRsFNU": {
   "channel": "Joshua Weissman",
   "lang": "en",
-  "checked": "2026-11-12T01:33:32+00:00",
+  "checked": "2026-11-25T18:22:08+00:00",
   "title": "I Tried Every Viral Street Food in Japan",
   "duration": 1370,
   "published": "20251130",
@@ -120161,6 +120880,7 @@
   "pace": 235.6,
   "rare": 0.0431,
   "var": 0.8074,
+  "cl": 0.033,
   "speech_s": 1359.5,
   "tokens": 5339,
   "kw": [
@@ -120325,16 +121045,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "actually",
+    "flavor stacked on top of each other until it gets actually this big, which was concerning for my",
+    94,
+    100,
+    5.49,
+    16
+   ],
+   [
+    "street",
+    "So today that changes. I'm finally here to eat every single possible legendary Japanese street",
+    14,
+    21,
+    5.28,
+    16
+   ],
+   [
+    "honestly",
+    "comparing this to the greatest Texas barbecue I've had, honestly, I'd give it just barely",
+    395,
+    401,
+    4.69,
+    8
+   ],
+   [
+    "milk",
+    "to stop real quick and get a snack kind of bite. Next up, Hokkaido milk soft serve. I have been",
+    582,
+    588,
+    4.66,
+    8
+   ],
+   [
+    "texture",
+    "US. This is like a bodega sandwich on crack. The texture of the egg is just so nice. The salty ham.",
+    209,
+    216,
+    3.93,
+    10
+   ],
+   [
+    "phenomenal",
+    "can barely contain it. Phenomenal. Immediately better than 80% of breakfast sandwiches in the",
+    203,
+    210,
+    3.76,
+    7
+   ],
+   [
+    "fluffy",
+    "bread itself is actually so nice. It's so moist. It's not dry at all. It's super fluffy, super",
+    666,
+    671,
+    3.59,
+    3
+   ],
+   [
+    "cheesy",
+    "And you still taste the cheddar cheese in it, too. It's cheesy. It's rich. It's creamy. I'm",
+    215,
+    220,
+    3.58,
+    3
+   ],
+   [
+    "meringue",
+    "be any good. That's meringue. That's also mering. Very nice. Yappy is going into",
+    299,
+    308,
+    2.79,
+    2
+   ],
+   [
+    "beefy",
+    "the meat, but you know, whatever. Smells beefy, smells good. Cheers. It's slightly overcooked,",
+    185,
+    190,
+    2.74,
+    2
+   ]
+  ],
   "tx": "I've been obsessed with Japanese food since I was a little kid. I loved it so much that I worked at one of the best Japanese restaurants in the US for almost three years. But here's the crazy part. I've never been to Japan. So today that changes. I'm finally here to eat every single possible legendary Japanese street food that I can find. From the stuff that we already know to maybe some hidden gems that only the locals know about. And everything will be getting placed on an S tier list. And at the end of the video, we will give you our very best item. And we're starting at Harajuku Tokyo. … for me because they didn't trust me with it, which I thought was funny, but they did let me add a little bit of their seasoning to it. We take out some toasted buns, added some butter, and a good helping of honey mustard. Once they finished cooking the meat, they handed me the pan and I had to carefully layer it on top. I thought even coverage was the goal, but it turns out they just wanted me to make this pyramid shaped thing, which I guess made it look more substantial. Then they wrap it up a couple times in plastic wrap, slice, add some garnish, and I personally thought it was … So, we have me. Hello. Here's Nami. uncanny. I feel like all cats kind of look the same unless they're ugly. And my cat is not ugly. Don't you dare. Don't you dare say anything. I'll find you. Straight through mering. RIP. Give it a little taste. I mean, funny enough, the the foam has like no flavor whatsoever, but it's fun. The coffee itself isn't half bad for the novelty and the fun of it. You know what? I'll give it a solid Btier. I'm enjoying it, and I'm going to drink it. And this is just a happy fun time. And I love Japan. Thank you so much. Moving on. I could not believe my eyes at … There's no seasoning on it at all. There's no like sugar or anything. It's completely unsweetened whipped cream. And there's way too much match in there. It's like borderline bitter. Honestly, I really don't like this one. I'm so sorry. I'm going to give this an F. I'm not going to get this again. I feel like there's so many great foods in Japan and this is crazy overhyped. And I mean that with love. I'm loving my time here. I'm coming back, just not to this place. You know, it can't all be bangers. We have to be honest here. That's the whole point of this video. We're We're serious. … out of a machine in like the US. It's milk plus like a powdered base and then they soft serve it. This actually tastes like rich, fresh, creamy milk. Out of all the things we've had so far, so much of it has been kind of like just a blasting your taste buds with sugar. And I love that this is balanced and they're actually focusing on the flavor and the quality of the milk. They're basically saying, \"Our milk is the greatest milk on earth. That's what you're going to taste and it's the finest you're going to get.\" S tier easy. I wish more soft serve was like this. Moving on. Before we … going to build up to the traditional sauce and mayo version. Cheers. Very hot. Oh my god. Okay, I'm okay now. Wo. You guys know I have a salt heavy palette. You know I like things seasoned properly and I'll tell you right now, the bang of salt when you take that first bite is so incredible. It's so seasoned, so salty. You taste that seaweed, the nori, it's oceanic. The temporal crunch adds incredible texture and the nice chew from the octopus custardy inside. Really nice. Now the question is which is better, the salt or the mayonnaise sauce. I'm scared to take another bite. It's so hot. … and tuna, right? It's like literally falls apart in your mouth. There's no intramuscular tendon in it whatsoever. This, on the other hand, has a lot of density. It's very chewy, but in a nice way. It's got a nice bounciness to it. Flavor-wise, it's pretty mellow, actually. Not fishy. There's like a coldness to it. There's some sort of an aftertaste. And I'm hoping that's not poison. That would be awesome if it wasn't. But all things considered, out of all the sushimi, I honestly wouldn't I wouldn't seek this out. There's so many other pieces of fish I would eat before this. I would … up. Oh, it's the greatest thing I've ever had. Out of here. There's not much going on. Honestly, I'm going to put this at a D. I'm sorry. I just I don't think it's that great. If I waited in line for this and I ate this, I would be pissed. This is a country full of some of the greatest food in the world. Don't waste your time with this. Go somewhere and find something maybe a little bit more local. Wow. Honestly, this might have been one of the most disappointing bites in the last 5 years of my life. I'm just going to be flat out with you guys. And we only have four more items remaining … other items? We'll decide in a bit. But now we are on to two of the most viral items I've seen on all of the internet. I'm sure you've seen this guy before, but if you haven't, he literally torches bluefin tuna with his bare hands. He dunks his hands in ice water in order to increase the endurance he has against the heat. It's a pretty incredible show. Unfortunately, we got cut off right before we got to taste it. And thankfully, we had an audience member that was already in line that was kind enough to let us have a bite of his dish. Big shout out to you. You saved our beehind on that one. … here. What was the best S tier item? We got this list. Here's all the S tiers. Looks great. But for me, the best one I had and the one I think I'm going to seek out the next time I come to Japan is the okonomiyaki curry pond. That one was crazy. I've always wondered why everyone, including myself, is so obsessed with Japanese food. And it's because this country perfects everything. It's a true commitment to making food delicious. And only a place with people with big hearts and attention to detail can do that. And it's earned them a place in the food hall of fame. Subscribe. Love you. Bye.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.036
+  "src": "cc"
  },
  "ED1sREyLHSM": {
   "channel": "Joshua Weissman",
   "lang": "en",
-  "checked": "2026-11-12T01:33:39+00:00",
+  "checked": "2026-11-25T18:22:15+00:00",
   "title": "I Tried The Best Steak in America",
   "duration": 1417,
   "published": "20251026",
@@ -120343,6 +121144,7 @@
   "pace": 234.1,
   "rare": 0.0431,
   "var": 0.8021,
+  "cl": 0.0366,
   "speech_s": 1407.9,
   "tokens": 5494,
   "kw": [
@@ -120507,11 +121309,92 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "they're",
+    "happy camper. Now, who is better, Jose or Gordon? Honestly, I love them both, and they're special in",
+    334,
+    339,
+    5.47,
+    14
+   ],
+   [
+    "actually",
+    "in the USA to find out what is not only the best experience, but a meal that's actually worth our",
+    20,
+    26,
+    5.49,
+    13
+   ],
+   [
+    "bite",
+    "this in one bite. Cut off a small strip. Oh man, that cut like butter. This is phenomenal. For A5,",
+    254,
+    263,
+    4.31,
+    10
+   ],
+   [
+    "flat",
+    "great texture. Let's be real, we're here for the main event, the steak. We have the flat iron here,",
+    691,
+    696,
+    4.72,
+    8
+   ],
+   [
+    "tender",
+    "because it's simple, there's not a lot to hide. The question is, how good is it? Super tender.",
+    382,
+    388,
+    4.09,
+    8
+   ],
+   [
+    "texture",
+    "less aggressively rich. The last one, prime beef. I like the texture of it. You know, it felt like",
+    100,
+    105,
+    3.93,
+    7
+   ],
+   [
+    "sliced",
+    "than I thought. It's sort of like an inflated bread and then sliced A5 Wagu on top. Holy,",
+    212,
+    220,
+    3.57,
+    2
+   ],
+   [
+    "char",
+    "I'll say. It has a nice char to it. It's a little chewy. How much was this? I think it was like",
+    68,
+    73,
+    3.47,
+    2
+   ],
+   [
+    "chewy",
+    "I'll say. It has a nice char to it. It's a little chewy. How much was this? I think it was like",
+    68,
+    73,
+    2.94,
+    3
+   ],
+   [
+    "gordon's",
+    "bottom. One we've all been waiting for, the one that Gordon's entire brand has been leaning on,",
+    121,
+    127,
+    2.97,
+    2
+   ]
+  ],
   "tx": "Is a great steak really worth the price? You're spending the most amount of money for the simplest thing, steak, salt, pepper. So, today we're going to answer that question by going on a journey trying the best steaks in the United States. From the oldest steakhouse in American history to this giant 72 oz steak that anyone can get for free, all the way to the number one voted steakhouse in the USA to find out what is not only the best experience, but a meal that's actually worth our money. And we're starting our journey off in Las Vegas. Ah, Vegas. Slot machines, bright lights, and a million … mouth and the pastry is cooked beautifully. A 10 out of 10. This is perfect. 11 out of 10. That was first time ever having beef Wellington. Phenomenal. So, my first Gord meal is complete. We had the New York strip for $109, the Trio beef for $165, and the famous beef Wellington for $85 each. The New York strip is a classic and the Trio Beef luxurious, but the Wellington had the most hype. And I got to say, it delivered. And at the cheapest price tag, clearly the best value. But this is just our first spot. Nice work, Gordon. Happy to say I still love you. Now moving on to Bizarre Meat by … it overall for how special it was. Now let's talk about prices. We had the 85 Waggy for $60 an ounce, beef tenderloin dish with raw for 110, and the 2.5 lb ribeye for a whopping 2.8750, over $100 a pound. And finally, the cheese steak blew us away. And at $17 each, it might have been one of our most memorable bites of the year. You could just get a few of these and be a happy camper. Now, who is better, Jose or Gordon? Honestly, I love them both, and they're special in their own right. I couldn't pick one. Now, moving on. We're now entering a spot that isn't just famous. It is the … only 12% of people finishing this challenge, the odds are definitely against us. But it's just some big fat steak. Is it even good? Honestly, the steak is seasoned really nicely. Salt levels are perfect. Got a garlicky, peppery kind of rub on it. I feel great. Honestly, I don't think I could do this without Martines next to me. I feel like I'm protected by a guardian angel. Enjoying the food. It's delicious. I'm curious at which point will this go from totally delicious to this is work. I feel like I'm not making a dent. I thought I was done with half the steak, but I still have all this. … bad deal cuz you still got to eat. But how can you talk right now? You're the same guy that you were when you first came in here. It was a fair play. I think it's a good deal. We did our fight, but this is not the end. We're moving on. When you think of some of the greatest beef in the world, I'm sure your mind goes immediately to Wagyu. Turns out some of the best Wagyu might not even be coming from Japan. And I think Texas is producing some of the best Wagyu beef in the world. Full-blood Japanese Wagyu cattle being born and raised in Texas. It's done locally here in the restaurant Isidor, … up. I think it's time we learn how to cook this thing. So, these are all the meat you've seen butchered. That's all now brought up. This is our meat fridge. They season their steak with only salt. It gets broiled for a few minutes, flipped, broiled a little longer. Then it lands on a plate of clarified butter where it's then sliced, and then placed back in the broiler to finish. I've never seen someone slice a steak, and then finish it again. Why not cook it all the way through? Is this really going to make the steak better? When they cut it, put it back on the platter, go back in, it … to keep eating. Whatever the value is of it, I think it's worth it. The check, they were very sweet. They comped our whole thing, which was very nice of them. That said, if we did have to pay for this, I'd say it's a pretty decent deal at a steak for two for about $135 total. That's 6750 a person. I was coming in with the wrong attitude, thinking they're stuck in their ways. These guys, they're a household name. That's why they're still running. And after tasting this, I'm now realizing that they're still running because they're holding on to the practices that got them successful in the … to pick a ribeye over a filetman. Let's be honest. All in all, these are both great steaks. It's kind of an OG establishment. I mean, like we're talking old school served simply. They're not trying to reinvent the wheel the way that they've always been served. So, like all the young kids out there, if you want to go and find an old school steak experience, this is the place to go. Moving on, we're at the number one Cherascaria in New York City, Cherasaria Platform. And joining me today is Henry aka the sandwich king, Salt Hank. If you don't know how Cherasaria works, it's very simple, … we have the American Wagu flat iron, which so far is my favorite. Onto the next USDA Prime is up again, but this time dry-aged ribeye. Big flavor out the gate and then immediately lost. American Wagu, New York strip. Yeah. Yeah. Yeah. I agree with you. I've said this before. I really believe American Wagyu is the best cut of beef more than A5. A5 is like all the way on the extreme spectrum. Prime is over here. I want something in the middle where I can eat a lot of it, but it's not so fatty that I'm eating butter. This is kind of hitting that. It's so tender, so juicy, so fatty, a really … pound? Actually, Big Texans 72 oz steak for $72. Clearly a winner. But in terms of a full meal plus flavor plus experience, it's nice, fancy, meat is incredibly high quality. If you just get the butcher feast, then Coat ends up being the best value. Where was the best experience overall? Personally, I'd say Josie Andre's Bizaarre Meat tops the list for me, and Coat was a close second. So, you clearly don't have to empty your entire wallet just to find some value at America's most famous steakouses. Subscribe. Love you. I love you, too. I love you. Well, I was talking to them. I love you, too.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0322
+  "src": "cc"
  },
  "l-3nlozweSM": {
   "channel": "Joshua Weissman",
@@ -131062,7 +131945,7 @@
  "HHLfkHkUc14": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-12T03:43:05+00:00",
+  "checked": "2026-11-25T17:56:04+00:00",
   "title": "Neil's difficult summer job in Canada 🫛 | Practise your listening with Real Easy English",
   "duration": 326,
   "published": "20260921",
@@ -131071,6 +131954,7 @@
   "pace": 146.0,
   "rare": 0.0066,
   "var": 0.7594,
+  "cl": 0.0531,
   "speech_s": 309.9,
   "tokens": 754,
   "kw": [
@@ -131171,11 +132055,84 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "difficult",
+    "Good. Neil, have you ever had a bad or difficult job?",
+    4,
+    10,
+    5.07,
+    5
+   ],
+   [
+    "bad",
+    "Good. Neil, have you ever had a bad or difficult job?",
+    4,
+    10,
+    5.53,
+    4
+   ],
+   [
+    "describe",
+    "We had a few adjectives to describe work.",
+    251,
+    256,
+    4.56,
+    2
+   ],
+   [
+    "expression",
+    "Yes, that's right. I also used the expression 'take something personally',",
+    288,
+    293,
+    4.55,
+    2
+   ],
+   [
+    "unhappy",
+    "who were needing help or were unhappy about the service they had.",
+    115,
+    121,
+    4.06,
+    2
+   ],
+   [
+    "emotion",
+    "and the emotion that you feel is 'stressed'.",
+    262,
+    267,
+    4.19,
+    1
+   ],
+   [
+    "recap",
+    "OK. So, let's recap the vocabulary that we used in the conversation.",
+    246,
+    251,
+    3.45,
+    1
+   ],
+   [
+    "adjectives",
+    "We had a few adjectives to describe work.",
+    251,
+    256,
+    3.18,
+    1
+   ],
+   [
+    "worksheet",
+    "Yes, and people should remember that they can get a free worksheet",
+    24,
+    29,
+    2.93,
+    1
+   ]
+  ],
   "tx": "Hello Neil. Hi Georgie. How are you? I'm very well, thank you. How are you? I'm excellent, thank you. Good. Neil, have you ever had a bad or difficult job? Oh yes. There's one in particular that I remember. Ooh, that's intriguing. I'm sure we're going to hear about it a bit later because that's what we're talking about today in Real Easy English – bad or difficult jobs we've had. Yes, and people should remember that they can get a free worksheet for this podcast at bbclearningenglish.com. That's right. So Neil, tell us all about your bad or difficult job. Well, what happened was I found a job picking beans on a student holiday while I was in Canada. Ooh. On a farm? Yeah, but we had to travel a long way. And when we got there, we discovered that you got paid by the amount that you picked. OK. And it cost $10 to get to this place on the coach and we worked really hard all day. And then I got my beans and weighed them. And I got paid $8. Oh wow. Was it a full day's work? Oh yeah. Hard, hard work in the heat, in a field. Was it fun, at least? Were you with friends? It's a good story now... OK. ...but at the time, it was very annoying. Exhausting, it sounds. It was exhausting. All day in the heat. I had quite a difficult job – it was just a temporary one. I was working in customer service, so I had to pick up calls from customers who were needing help or were unhappy about the service they had. OK. That sounds interesting. What didn't you like about this job? Well, the company was having a difficult time, so many or most of the customers that were calling were unhappy about the service, and so I had to talk to people who were very angry, and it felt like they were angry with me, even though it wasn't my fault. The company changed the warehouse where they kept the products and the delivery company at the same time, so it was just all a big mess and I found it really stressful. Yeah, you say stressful. How else did it make you feel? It made me feel very anxious because I took it too personally. Like I said, it felt like they were angry with me, even though I had nothing to do with it. If you heard somebody else talking about this kind of job, what advice would you give them? Ooh, I would say, don't take it to heart. As I said, I was taking it too personally, but you need to realise that you can only do your best. And at the end of the day, you can go home and enjoy yourself, relax, and tomorrow is a new day. That's a very positive attitude. Yes. What advice would you give to people doing the job that you had in Canada? I think it's really important to do some research before you say yes to a job, if you're lucky to be able to choose. So, probably find out how much you're going to get paid, what it means, and how much you have to pay to get to the place to do the job. Yeah, that's very important. And that's some good advice. OK. So, let's recap the vocabulary that we used in the conversation. Good idea. We had a few adjectives to describe work. You said that your job was stressful. I did. So, you can describe something as 'stressful', and the emotion that you feel is 'stressed'. You said that your job was exhausting, so it was very hard work, so you got very tired doing it. That's 'exhausting' and the feeling is 'exhausted'. Yeah. And I think I also said my job was annoying. Yes. And if something is annoying, it makes you feel annoyed. Yes, that's right. I also used the expression 'take something personally', which is when you feel that someone is angry with you when they're actually angry at the situation. Yeah. And you used another expression with a similar meaning – 'take something to heart'. If you take something to heart, just as you explained, you feel bad. You feel someone is attacking you, but it's just the job. OK. Well, that is the end of this episode of Real Easy English, but Neil we'll be back next week, won't we? We will. Thank you for listening and goodbye. Goodbye!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0531
+  "src": "cc"
  },
  "5QE76OkYA4k": {
   "channel": "English with Lucy",
@@ -140211,7 +141168,7 @@
  "FlAyCnxwEEQ": {
   "channel": "Speak English With Vanessa",
   "lang": "en",
-  "checked": "2026-11-12T15:10:30+00:00",
+  "checked": "2026-11-25T17:56:57+00:00",
   "title": "Speak With Me in English: Intermediate Speaking Lesson",
   "duration": 1649,
   "published": "20260306",
@@ -140220,6 +141177,7 @@
   "pace": 161.1,
   "rare": 0.0367,
   "var": 0.7787,
+  "cl": 0.0394,
   "speech_s": 1645.0,
   "tokens": 4416,
   "kw": [
@@ -140384,11 +141342,92 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "eat",
+    "so we'll eat that later. I have some",
+    230,
+    236,
+    5.13,
+    19
+   ],
+   [
+    "maybe",
+    "can listen to it wherever you go. Maybe",
+    73,
+    79,
+    5.45,
+    17
+   ],
+   [
+    "sauce",
+    "pasta sauce. This is Italian tomato",
+    427,
+    433,
+    4.3,
+    10
+   ],
+   [
+    "nuts",
+    "nuts and dried fruit because we eat that",
+    287,
+    292,
+    4.3,
+    9
+   ],
+   [
+    "garlic",
+    "these garlic. I got two heads of garlic.",
+    853,
+    858,
+    3.92,
+    7
+   ],
+   [
+    "soup",
+    "miso soup, usually some edetamame, usually some kind of fish like these",
+    510,
+    519,
+    4.15,
+    6
+   ],
+   [
+    "smoothies",
+    "smoothies. Smoothies are one of my",
+    1187,
+    1194,
+    3.05,
+    4
+   ],
+   [
+    "hummus",
+    "have some hummus in the fridge and we",
+    1081,
+    1087,
+    3.0,
+    4
+   ],
+   [
+    "miso",
+    "Um, every Monday we have miso Monday at",
+    503,
+    511,
+    2.77,
+    3
+   ],
+   [
+    "cashews",
+    "think, are these cashews. Now, vegans,",
+    408,
+    414,
+    2.52,
+    3
+   ]
+  ],
   "tx": "Are you ready to immerse yourself in real life English? Today you're going on a lovely English journey. I just went on the biggest grocery shop I have been on in a long time. And I have some good news. You are going to learn the names of everything that I purchased. And at the end, I will show you how much it cost. Plus, you'll see a couple items that I purchased just for fun because I couldn't help myself. If you're new here, hi. I'm Vanessa from speakenglishwithvanessa.com. And for over the past 10 years, I have been teaching real life English here on my YouTube channel. And now there are … month. I try to purchase almost everything we need for an entire month. Now, each week I do need to purchase a few new things like fresh things, some extra bananas, some extra greens, maybe some milk, things like that. But mostly all of the food we need for our family of five, two adults, an 8-year-old, a 5-year-old, and a 2-year-old is all of this. There might be a few things we're missing, but in general, that's why it's a lot of food. So, let's get started. I bought us some apples. These are organic Pink Lady apples. I got us a big thing of mandarin oranges. You can also call these … almonds. Brazil nuts. These are the most expensive ones. I think this bag is $10, but this bag of walnuts is like $5 maybe. But Brazil nuts are really hard to open. It's very labor intensive. Um, so this small bag is very expensive, but they're really healthy for you. Um, I heard there's a couple minerals you need in order to help your immune system especially. And selenium, I'm not a doctor. This is just what I read. Selenium is one of the most important um immune boosting minerals. And Brazil nuts have it a lot. So, if you eat like two or three Brazil nuts every day, which we usually do, … a little omelette, like a Japanese style omelette with soy sauce. It's really good. Very healthy, I think. And we love to eat the seaweed with rice. Okay. There's a bunch of random stuff in here. Valentine's Day pasta. Yeah. The thing I like about Trader Joe's is um this these are little hearts. I don't know if you can tell for Valentine's Day. Um, but they don't use any food dyes. So, this red is from tomato and beet powder. Very cool. Um, when possible, I try to avoid food dye. Not all the time, but usually. Oh, this is another trail mix thing. Dried banana chips. So good. I love them. … treat. It's way too expensive for what you get. I think this 10 packets of tea was like $4 or something. I think that's kind of expensive because you can buy a whole box of tea for $4 and have 25 tea pack tea bags in there. So, this is my little afternoon treat sometimes. All right, we're running out of space, but we're still going. All right, we have pasta. So, pasta is very cheap in the US. This bag was like a $150. Pretty cheap. Oh, there's more pasta in here, but it's buried. All right, we got more seaweed. Usually we buy a big package of them online um because we can get a better … garlic and we have a ton of it, but last year my garlic didn't do very well, so we have to buy it, which is okay. All right. Now, we have some cold Oh, let's do this bag first before we get to cold items. We have one loaf of bread. Usually, I we will buy some bread and then I'll make bread if we need more bread cuz it's very easy to make. If you would like to immerse yourself, continue to immerse yourself in English. Um, I made a video while I was making bread and that video you can see up here or here, wherever it is, and you can immerse yourself as well. I also made a special drink, … a week. Um, I got a big thing of lettuce because tonight we are going to have Korean barbecue lettuce wraps. So, usually I don't buy this lettuce. I don't think it's very tasty, but it's good with beef and rice and some samjang dipping sauce. So good. All right. Then we have some uh these are some fresh sugar snap peas. I have some hummus in the fridge and we like to dip fruit or dip vegetables in hummus. So we have some peas. We have some carrots. The only carrots they had left were these many colored carrots. So you can see they're purple kind of yellowish white and then the regular … it's drinkable and my kids can drink it too. But some people like a very thick smoothie. But we eat a smoothie every other day maybe if we have the ingredients. All right, we have bacon because we are going to be making breakfast tacos, which means eggs, bacon, maybe potatoes. Cook it all together, put it in a tortilla with a little bit of salsa. So good. All right, we got some bacon in here. I have this is usually how you buy meat in the US. It will be prepackaged. You can buy it in different packaging, but often times we'll buy meat like this in a little oneb package. That's what like 2 … save a little bit of money by going to different grocery stores, but I like this grocery store and I can get almost everything there. I want you to guess what was the most expensive item. Everything here, every individual item was less than $10, but one thing was more than $10. What was it? The olive oil. The olive oil was $12.99. Okay, so that's fine. This is high quality. It will last us for a little while. Um, the next most expensive thing maybe the the bacon was $7, but everything else is pretty cheap. Um each of the nuts, the nut bags are individually expensive and bec or less expensive … real life English today. Well, thank you so much for learning English with me here and all of my groceries. It's time for me to do a big task. Put them all away, especially before they melt. And I will see you again next Friday for a new lesson here on my YouTube channel. Bye. But wait, do you want more? I recommend watching this video next where you will see me make homemade bread plus a bonus special drink. Immerse yourself in real life English. see how English is really used in the real world, in the kitchen, somewhere that we all are probably multiple times a day. I'll see you there.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0334
+  "src": "auto"
  },
  "oIKHXT2cy6g": {
   "channel": "English with Lucy",
@@ -140551,7 +141590,7 @@
  "7PBmMmEt1Nc": {
   "channel": "Easy British English",
   "lang": "en",
-  "checked": "2026-11-12T15:14:23+00:00",
+  "checked": "2026-11-25T17:58:00+00:00",
   "title": "The Easy English Podcast #72 - 5 British Things That Annoy Germans | Easy English 207",
   "duration": 1283,
   "published": "20250716",
@@ -140560,6 +141599,7 @@
   "pace": 159.1,
   "rare": 0.0221,
   "var": 0.7697,
+  "cl": 0.046,
   "speech_s": 1278.8,
   "tokens": 3392,
   "kw": [
@@ -140708,11 +141748,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "maybe",
+    "this like easers, you could maybe even",
+    249,
+    253,
+    5.45,
+    12
+   ],
+   [
+    "hate",
+    "so that people can hate me afterwards.",
+    40,
+    46,
+    5.11,
+    12
+   ],
+   [
+    "improve",
+    "member. Maybe you want to improve your",
+    319,
+    324,
+    4.79,
+    5
+   ],
+   [
+    "listening",
+    "you're listening to this podcast, you",
+    57,
+    63,
+    4.66,
+    5
+   ],
+   [
+    "pie",
+    ">> because of what? The ale and pie or the",
+    599,
+    604,
+    4.19,
+    2
+   ],
+   [
+    "washing",
+    "better than not washing your hands.",
+    196,
+    201,
+    4.13,
+    2
+   ],
+   [
+    "taps",
+    "is they've now got um taps which are a",
+    156,
+    164,
+    3.56,
+    2
+   ],
+   [
+    "annoyance",
+    "mean, what the annoyance will be. And if",
+    54,
+    61,
+    3.33,
+    2
+   ],
+   [
+    "underwhelming",
+    "whereas this is underwhelming. But we",
+    542,
+    548,
+    2.94,
+    1
+   ],
+   [
+    "politeness",
+    "politeness and out of like, oh, let's",
+    1186,
+    1192,
+    2.93,
+    1
+   ],
+   [
+    "bakeries",
+    "there are some good bakeries. I have not find found my um favorite one",
+    566,
+    576,
+    2.9,
+    1
+   ],
+   [
+    "vomited",
+    "someone just vomited or so. >> What? Who vomits in a sink?",
+    230,
+    239,
+    2.88,
+    1
+   ]
+  ],
   "tx": "Excuse me. Sorry. Um, do you speak English? >> No, I don't. Sorry. >> English. Do you speak it? Yes. English. English. Do you English? English. Do you speak it? >> Hia. Welcome to the Easy English podcast. Today we're going to be discussing five things that annoy you that I know annoy you as a German who is experiencing the UK so that people can hate me afterwards. No, but these are things which I think all Germans will be annoyed about. And I'm going to leave it up to you to decide what the pictures are that I'm going to show you, what they really mean, what the annoyance will be. And if … pubs >> also on the other quite often in pubs. And let me tell you, the water is either ice cold or piping hot. Really? Piping hot. And it makes no sense at all. Uh, and on top, this sink is tiny as hell. >> Yeah. >> So, in the end, of course, you choose the ice cold water because you don't want to burn your fingers. And if it's winter and you're in a pub and you go to the bathroom and then you wash your hands with ice cold water, it's just Well, it's better than nothing. It's better than not washing your hands. >> That's true. You should always wash your hands. >> Always wash your hands. … uh love it a lot and it would mean a lot to us if you would subscribe to our channel. That way, uh you can help support Easy English for free and you can also be notified of further and future videos that we'll be making. So there you go. That's your first call to action. The second thing is if you want to go one step further and really help support us or learn with us then you can become an easy English member. Maybe you want to improve your listening skills and for that we offer something for our podcast which is called the interactive transcript. You can read along while listening to … >> Stress recently. Very important topic. It's always nice. It's just basically going to the pub, a conversation with friends about life and everything while doing that, improving your English, learning new words, but also just having it. It really is always a good time. >> Exactly. It's a relaxed and inclusive atmosphere where you can only speak if you really want to. You'll be sharing stories and you'll be comparing cultures with all the other people that are trying to improve their speaking skills. >> I have learned a lot. >> Me too. >> Mhm. >> If you want to join one of those … this is underwhelming. But we have to say our little supermarket around the corner has quite good bread rolls. They are white but like with like some seeds and quite nice. And that's about it. In Brighton though because Brighton is so artisani >> individual individual there are some good bakeries. I have not find found my um favorite one yet. You just yesterday brought a bread from from town. >> I did, >> which is okay. >> But you know what you said when I brought him? You said, \"I'm gonna text my parents and let them know like celebrate.\" >> It looked so good, but then I ate it and it … have to beg the bouncer. >> Okay. Anyway, um I actually don't that's that's well other Germans might or even from not even Germans I think from a lot of countries might be confused by that and don't like it if they do like long nights out for me I actually love this. So it's the opposite. I love this. This is one reason that I one reason not early. No but um no I actually absolutely love this. I think if you want to go out, meet people in a pub or so. I like the idea of doing it like late afternoonish >> and go home early, a really good night's sleep and the next morning is not like this … some jumps, especially jumps who don't know and think, \"Oh, let's go out for a drinking session and go at like 10 p.m. Let's start our night.\" And it's like, \"Huh?\" >> Oh, yeah. >> Okay. Next one. What do you think this represents two? Actually, again, >> even a good one >> again. Yeah. Oh, come on. That's deep. And also, this is one picture with two points. >> Rain. >> No. >> Potholes. >> Potholes is one. >> Yeah. >> Or the quality of British roads. >> We already smashed a tire in a pothole. >> And the second point is the width of this road. Actually, there are lots of narrow roads with … you know, when you're thinking you're going maybe what, like 70 kilometers an hour. >> Oh, yeah. Always look on the street. Always keep your eye on the streets. That's what we do when we know we are really off now in a foresty area or so where the light is not so good. We both are like this. >> Yeah. Yeah. It's usually on the side. And I think it usually comes from the fact that >> I know they're in the middle. >> Okay. They're everywhere. I guess that's something to bear in mind when you're driving. If your Google Maps maybe says, \"Oh, we found a quicker route through a B- route.\" >> Might … often that maybe because people don't want to pay for the coat room, but very often you'll see people going out on a night out and you'll think, \"Oh my god, it is 10° and you are wearing basically a bathing suit.\" >> I would always be ill. It doesn't annoy me though. It's it's it makes me wonder. >> Ah, nice one. Thank you, Mitch. That's the end of this week's episode. Did you enjoy it that easy? >> I did enjoy that. That was a nice little talk. Thank you. >> And can you think of any more that you could add to that which annoy you? >> You mentioned one thing actually about the directness … it's fine. I don't mind how loud the noise is and I can sleep just fine with you banging all night long. >> Yeah, we had this in the last podcast, didn't we? >> Yeah. >> Or one of the last podcasts. Yeah. >> But anyway, that's a great addition. And also let us know in the comments below what things annoy you about the UK if you've been. Let everyone else know the weird, specific, obtuse, obscure things that we're doing in the UK which annoy you. And as always, we'll see you next time. >> Or in Germany, you can also tell me now what you hate about Germany. That's also fine. >> Bye. Hello, I am",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0523
+  "src": "auto"
  },
  "wqLAKI7WFdI": {
   "channel": "Miss Jean Teaches",
