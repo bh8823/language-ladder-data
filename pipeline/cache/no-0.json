@@ -21666,7 +21666,7 @@
  "9EYoBtsQceg": {
   "channel": "Learn Norwegian Now! (Lær Norsk Nå)",
   "lang": "no",
-  "checked": "2026-11-12T16:43:30+00:00",
+  "checked": "2026-11-25T04:14:20+00:00",
   "title": "Speed Limit on Small Road | Easy Norwegian",
   "duration": 174,
   "published": "20241106",
@@ -21675,6 +21675,7 @@
   "pace": 145.1,
   "rare": 0.0288,
   "var": 0.6397,
+  "cl": 0.0769,
   "speech_s": 172.1,
   "tokens": 416,
   "kw": [
@@ -21775,11 +21776,116 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "biler",
+    "Det er ganske smalt. Så hvis ... to biler kan ikke kjøre her, det er bare plass til én bil som kan kjøre framover her sånn.",
+    66,
+    75,
+    4.94,
+    3
+   ],
+   [
+    "står",
+    "Her ser vi at det står 20. Det står 20 på skiltet.",
+    12,
+    20,
+    5.71,
+    2
+   ],
+   [
+    "skilt",
+    "Hei alle sammen! I denne videoen tenkte jeg at vi kunne snakke kjapt om skilt.",
+    0,
+    8,
+    4.49,
+    2
+   ],
+   [
+    "kjapt",
+    "Hei alle sammen! I denne videoen tenkte jeg at vi kunne snakke kjapt om skilt.",
+    0,
+    8,
+    4.29,
+    2
+   ],
+   [
+    "framfor",
+    "Det er ikke så god sikt. Så hvis jeg skifter kamera her så ser dere at det er ganske hvitt framfor her.",
+    122,
+    129,
+    4.19,
+    1
+   ],
+   [
+    "gress",
+    "Så det vil si at det er en litt dårligere vei. Vi kan se at her i midten så er det masse gress.",
+    60,
+    67,
+    4.17,
+    1
+   ],
+   [
+    "seinere",
+    "Det betyr ikke at man må kjøre 20 km/t. Man kan også kjøre seinere.",
+    98,
+    106,
+    4.17,
+    1
+   ],
+   [
+    "fartsgrense",
+    "Da må man selvfølgelig være mer forsiktig. Og da er det også lavere fartsgrense.",
+    165,
+    172,
+    3.07,
+    1
+   ],
+   [
+    "grusvei",
+    "Så hvis vi går tilbake her så ser vi at det er maksimalt lov å kjøre 20 km/t. Og det er siden det er en grusvei.",
+    37,
+    49,
+    2.82,
+    1
+   ],
+   [
+    "asfaltert",
+    "det er asfaltert, det er en motorvei, så er det selvfølgelig ikke 20 km/t.",
+    147,
+    153,
+    2.78,
+    1
+   ],
+   [
+    "grusen",
+    "Balto ser også på grusen. Det er grus. Det er ikke asfalt. Det er grus.",
+    55,
+    61,
+    2.69,
+    1
+   ],
+   [
+    "skodde",
+    "man kjører slik kjøreforholdene tillater. Så for eksempel i dag kan dere se at det er litt skodde, det er litt tåke, det er hvitt.",
+    111,
+    123,
+    2.41,
+    1
+   ],
+   [
+    "balto",
+    "Balto ser også på grusen. Det er grus. Det er ikke asfalt. Det er grus.",
+    55,
+    61,
+    2.16,
+    1
+   ]
+  ],
   "tx": "Hei alle sammen! I denne videoen tenkte jeg at vi kunne snakke kjapt om skilt. At vi kan snakke litt om skilt, og da tenkte jeg dette her skiltet her. Her ser vi at det står 20. Det står 20 på skiltet. Skal vi se. Oppe der. Nå ser vi (jeg) det feil vei. Det vi ser der er et fartsgrenseskilt. Altså fartsgrensa. Det viser fartsgrensa, altså hvor kjapt det maksimalt er lov å kjøre. Så hvis vi går tilbake her så ser vi at det er maksimalt lov å kjøre 20 km/t. Og det er siden det er en grusvei. Altså, hvis vi ser her nede, så er det grus. Balto ser også på grusen. Det er grus. Det er ikke asfalt. Det er grus. Så det vil si at det er en litt dårligere vei. Vi kan se at her i midten så er det masse gress. Det er ganske smalt. Så hvis ... to biler kan ikke kjøre her, det er bare plass til én bil som kan kjøre framover her sånn. Så hvis en bil kommer her og den andre kjører sånn, så må en av dem bakke. En av dem må gå bakover. De må finne et sted hvor de kan møtes. Det er nok grunnen til at det er maksimalt lov å kjøre 20 km/t. Det er fartsgrensa. Grensa for hvor fort det er lov å kjøre. Det betyr ikke at man må kjøre 20 km/t. Man kan også kjøre seinere. Det går an på kjøreforholdene. Man må passe på at man kjører slik kjøreforholdene tillater. Så for eksempel i dag kan dere se at det er litt skodde, det er litt tåke, det er hvitt. Det er ikke så god sikt. Så hvis jeg skifter kamera her så ser dere at det er ganske hvitt framfor her. Man ser ikke så veldig langt. Man ser bare det som er nærme. Så, det gjør at man må være mer forsiktig, og kanskje til og med kjøre mindre enn 20 km/t. Men hvis det er en veldig god vei, hvis det er en god og bred vei, det er plasser to biler, det er asfaltert, det er en motorvei, så er det selvfølgelig ikke 20 km/t. Så 20 km/t er bare på sånne veldig smale, veldig små veier, som dere ser bak meg her. Som man ikke kan møtes to biler. Da må man selvfølgelig være mer forsiktig. Og da er det også lavere fartsgrense. Det var alt for denne videoen. Ha det bra.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0769
+  "src": "cc"
  },
  "Mwo1ZJ2cUic": {
   "channel": "Simple Norwegian",
@@ -21795,7 +21901,7 @@
  "kjlZ_-G1HxQ": {
   "channel": "Norsk med Aria",
   "lang": "no",
-  "checked": "2026-11-12T16:47:05+00:00",
+  "checked": "2026-11-25T04:18:11+00:00",
   "title": "Norsk uttale: Øv på \"Y\" sammen med meg",
   "duration": 481,
   "published": "20240731",
@@ -21804,6 +21910,7 @@
   "pace": 116.9,
   "rare": 0.0491,
   "var": 0.6655,
+  "cl": 0.0634,
   "speech_s": 251.1,
   "tokens": 489,
   "kw": [
@@ -21936,11 +22043,84 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "både",
+    "Forresten: Denne videoen har undertekster både på norsk og på engelsk.",
+    2,
+    8,
+    5.76,
+    3
+   ],
+   [
+    "videre",
+    "Og så går vi videre til en del ord og setninger som jeg har forberedt.",
+    44,
+    49,
+    5.52,
+    3
+   ],
+   [
+    "vanskeligere",
+    "litt vanskeligere, men med trening så får man det til.",
+    60,
+    64,
+    4.67,
+    2
+   ],
+   [
+    "rad",
+    "Og så tar vi det én siste gang, men nå tar vi det tre ganger på rad.",
+    84,
+    88,
+    4.53,
+    2
+   ],
+   [
+    "øver",
+    "Og når du øver, så se",
+    142,
+    145,
+    3.87,
+    2
+   ],
+   [
+    "leppene",
+    "Vi skal si “i” også runde leppene sånn at det blir en “y”.",
+    10,
+    17,
+    3.76,
+    2
+   ],
+   [
+    "øvd",
+    "Da har vi øvd på “y”.",
+    458,
+    461,
+    3.51,
+    1
+   ],
+   [
+    "undertekster",
+    "Forresten: Denne videoen har undertekster både på norsk og på engelsk.",
+    2,
+    8,
+    2.82,
+    1
+   ],
+   [
+    "vokalen",
+    "I dag skal vi øve på vokalen y.",
+    0,
+    3,
+    2.73,
+    1
+   ]
+  ],
   "tx": "I dag skal vi øve på vokalen y. Forresten: Denne videoen har undertekster både på norsk og på engelsk. Da begynner vi med en liten oppvarming. Vi skal si “i” også runde leppene sånn at det blir en “y”. Så vi gjør sånn: iii-yyy. Gjenta etter meg: iii-yyy. iiii-yyyy iiii-yyyy. Siste. iiii-yyyy. Og så går vi videre til en del ord og setninger som jeg har forberedt. Vi begynner med ordpar som har både i og y seg. Dette er ord som ligner litt, men for nordmenn så er det lett å høre forskjell. De som prøver å lære norsk, synes kanskje det er litt vanskeligere, men med trening så får man det til. Okay, gjenta etter meg. Si sy. Og så tar vi det én siste gang, men nå tar vi det tre ganger på rad. Si sy, si sy, si sy. Jeg tror vi tar det en gang til. Si sy, si sy, si sy. Neste to ord er “litt” og “lytt”. Gjenta etter meg: Litt lytt. Litt lytt. Og når du øver, så se også på leppene mine og prøv å få med deg den leppebevegelsen som jeg har. Altså, forskjellen på “i” er at “i” er sånn og “y” er sånn. Så prøv å få med det også. Én siste gang: Litt lytt. Så tar vi den igjen nå tre ganger på rad. Sånn som i stad. Litt, lytt, litt, lytt, litt, lytt. Vi går videre. Tigge og tygge. Tigge, tygge. Tygge, tygge. Og så tre ganger fort gjenta etter meg, tigge, tygge, tigge, tygge, tigge, tygge. Tigge, tygge, tigge, tygge, tigge, tygge. Så tar vi “stikke, stykke”. Gjenta etter meg: stikke stykke. Stikke, stykke. Og så tre ganger, litt fort. Gjenta etter meg: Stikke, stykke, stikke, stykke, stikke, stykke. En gang til. Stikke, stykke, stikke, stykke, stikke, stykke. Siste to ord er “siden syden”. Gjenta nå etter meg: siden syden. Siden syden. Siden syden siden syden siden syden. Da skal vi avslutte med noen setninger som består av ord med både i og y i seg. Første setning er denne. Så gjenta etter meg: Det er dine dyner. Legg merke til at mellom R-en og D-en så sier jeg ikke eR-dine. Jeg sier er-dine. -Rd. Det er en retrofleks. Få med deg den. Okay, prøv: Det er dine dyner. Og så går videre til denne setningen. Det kom ni nye dyr. Se på munnen min når jeg sier: “ni” og “nye”. Få med den bevegelsen. Siste gang: Det kom ni nye dyr. Da har vi øvd på “y”. Nå må du se denne videoen og øve på “Ø”, For jeg tror egentlig at Ø er litt vanskeligere. Så i denne videoen får du litt mer veiledning, altså hjelp til å lære deg å uttale den lyden. Og så øver vi sammen, akkurat som i denne filmen. Så se denne filmen og lær deg Ø også.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0634
+  "src": "cc"
  },
  "Zuoy0OzU-18": {
   "channel": "Ett Lite Bildeglimt",
@@ -55041,7 +55221,7 @@
  "omcudu-lLus": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-17T03:04:19+00:00",
+  "checked": "2026-11-25T04:34:46+00:00",
   "title": "Learn Norwegian - Beginner Story A0 Part 4",
   "duration": 365,
   "published": "20250429",
@@ -55050,6 +55230,7 @@
   "pace": 111.3,
   "rare": 0.1528,
   "var": 0.7659,
+  "cl": 0.0163,
   "speech_s": 363.5,
   "tokens": 674,
   "kw": [
@@ -55214,16 +55395,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "vondt",
+    "Han har vondt i hodet. He has a",
+    75,
+    84,
+    5.0,
+    5
+   ],
+   [
+    "you",
+    "setninger. You will learn new words,",
+    19,
+    25,
+    4.91,
+    5
+   ],
+   [
+    "drikker",
+    "eats a small breakfast. Han drikker et",
+    97,
+    105,
+    4.59,
+    4
+   ],
+   [
+    "frokost",
+    "clothes. Han spiser en liten frokost. He",
+    93,
+    101,
+    4.4,
+    4
+   ],
+   [
+    "fortid",
+    "help. Del 2. Historien i fortid. Part",
+    141,
+    150,
+    4.13,
+    3
+   ],
+   [
+    "nervøs",
+    "Han er nervøs, men glad for å få hjelp.",
+    134,
+    142,
+    4.02,
+    3
+   ],
+   [
+    "bio",
+    "Patreon. Linken er i bio. Go to way to",
+    353,
+    359,
+    3.58,
+    2
+   ],
+   [
+    "help",
+    "help. Del 2. Historien i fortid. Part",
+    141,
+    150,
+    3.52,
+    2
+   ],
+   [
+    "clothes",
+    "clothes. Han spiser en liten frokost. He",
+    93,
+    101,
+    2.37,
+    2
+   ],
+   [
+    "sentences",
+    "verbs, and common sentences. Jobb aktivt, lytt, snakk høyt og skriv",
+    21,
+    32,
+    2.02,
+    2
+   ]
+  ],
   "tx": "Hei, jeg heter Elen. Velkommen til Way to Norway. Hi, my name is enen. Welcome to Way to Norway. I dag skal vi lese en enkel historie på norsk. Today we will read a simple story in Norwegian. Du lærer nye ord, verb og vanlige setninger. You will learn new words, verbs, and common sentences. Jobb aktivt, lytt, snakk høyt og skriv ned det du lærer. Work actively. Listen, speak out loud and write down what you learn. Gjenta videoen flere ganger for å lære raskere. Repeat the video several times to learn faster. Del 1, historien i presens nåtid. Part one, the story in present tense. Now presens bruker vi for noe som skjer nå eller ofte. We use present tense for things happening now or regularly. Jakob våkner klok 7. Jakob wakes up 700. Han føler seg syk. He feels sick. Han har vondt i hodet. He has a headache. Han ringer legen. He calls the doctor. Leggen sier han kan komme klok 9. The doctor says he can come at 9:00. Jakob tar på seg klær. Jakob puts on clothes. Han spiser en liten frokost. He eats a small breakfast. Han drikker et glass vann. He drinks a glass of water. Han finner helsekortet sitt. He finds his health card. Han går ut av huset. He walks out of the house. Han venter på bussen. He waits for the bus. Bussen kommer etter 10 minutter. The bus arrives after 10 minutes. Jakob setter seg på bussen. Jacob sits on the bus. Han ser på telefonen sin. He looks at his phone. Han er nervøs, men glad for å få hjelp. He is nervous but help. Del 2. Historien i fortid. Part two, the story in past tense. Fortid bruker vi for å fortelle om noe som har skjedd. We use past tense to talk about something that has happened. Jakob våknet klok 7. Jakob woke up at 700. Han følte seg syk. He felt sick. Han hadde vondt i hodet. He had a herike. Han ringte legen. He called the doctor. Leggen sa han kunne komme klok 9. The doctor said he could come at 9:00. Jakob tok på seg klær. Jakob put on clothes. Han spiste en liten frokost. He ate a small breakfast. Han drakk et glass vann. He drank a glass of water. Han fant helsekortet sitt. He found his health card. Han gikk ut av huset. He went out of the house. Han ventet på bussen. He waited for the bus. Bussen kom etter 10 minutter. The bus came after ten minutes. Jakob satte seg på bussen. Jakob sat on the bus. Han så på telefonen sin. He looked at his phone. Han var nervøs, men glad for å få hjelp. He was nervous but help. Del 3. Spørsmål og svar. Part three questions and answers. Du hører en setning, et spørsmål og et svar. a sentence, a question and an answer. Prøv å svare før du hører mitt svar. Try to answer before you hear mine. Jakob våkner klok 7. Hva gjør Jakob klok 7? Han våkner. Han føler seg syk. Er Jakob frisk? Nei, han er syk. Han har vondt i hodet. Hva har Jakob vondt i? Han har vondt i hodet. Han ringer legen. Hvem ringer Jakob? Han ringer legen. Leggen sier han kan komme klok 9. Kan Jakob komme klok 2? Nei, han kan komme klok. Jakob tar på seg klær. Hva gjør Jakob? etterpå. Han tar på seg klær. Han spiser en liten frokost. Hva spiser Jakob? Han spiser en liten frokost. Han drikker et glass vann. Drikker Jakob melk? Nei, han drikker vann. Han venter på bussen. Hva venter Jakob på? på bussen. Han er nervøs, men glad for å få hjelp. Er Jakob glad? Ja, han er glad. Bra jobbet. Good job. Du har trent på presens, fortid og vanlige setninger. You have practiced present, past and common sentences. Vil du lære mer? Do you want to learn more? Gå til Way to Norway på Patreon. Linken er i bio. Go to way to Norway on Patreon. The link is in the bio. Vi sees i neste video.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0163
+  "src": "auto"
  },
  "vSowRklB0qM": {
   "channel": "Ola Norwegian",
   "lang": "no",
-  "checked": "2026-11-17T03:04:59+00:00",
+  "checked": "2026-11-25T04:36:54+00:00",
   "title": "Faste uttrykk med verbet SLÅ A2/B1",
   "duration": 709,
   "published": "20240501",
@@ -55232,6 +55494,7 @@
   "pace": 157.3,
   "rare": 0.0475,
   "var": 0.6875,
+  "cl": 0.0448,
   "speech_s": 698.7,
   "tokens": 1832,
   "kw": [
@@ -55396,11 +55659,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "slo",
+    "eh verb formene er da slå slår slo har",
+    60,
+    69,
+    4.99,
+    12
+   ],
+   [
+    "ofte",
+    "fordi det er ofte Liverpool som slår",
+    114,
+    120,
+    5.61,
+    6
+   ],
+   [
+    "skru",
+    "Vi kan også bruke skru av Skru på men",
+    131,
+    139,
+    4.5,
+    4
+   ],
+   [
+    "uttrykk",
+    "faste uttrykk med verbet å slå eller",
+    3,
+    11,
+    4.77,
+    3
+   ],
+   [
+    "romantisk",
+    "Det kan være romantisk eller Det er ikke",
+    277,
+    282,
+    4.18,
+    2
+   ],
+   [
+    "bestiller",
+    "verdi av 100 kroner hvis du bestiller",
+    677,
+    683,
+    4.04,
+    2
+   ],
+   [
+    "evakuere",
+    "eksempel Vi måtte evakuere da orkanen",
+    157,
+    164,
+    3.59,
+    1
+   ],
+   [
+    "formene",
+    "eh verb formene er da slå slår slo har",
+    60,
+    69,
+    3.54,
+    1
+   ],
+   [
+    "inntreffe",
+    "inntreffe noe som plutselig skjer for",
+    154,
+    160,
+    2.99,
+    1
+   ],
+   [
+    "ordboka",
+    "opp infinitiv formen i ordboka du kan",
+    255,
+    261,
+    2.92,
+    1
+   ]
+  ],
   "tx": "i denne videoen får du fem forskjellige faste uttrykk med verbet å slå eller partikkel verb med verbet å slå og disse bør du kunne på B nivå eh og i min neste video får du også enda flere faste uttrykk eller partikkel verb med dette verbet og disse er da på mer avansert nivå så kanskje B2 C1 eh hvis du vil ha min gratis PDF med 100 faste uttrykk eller partikkel verb så kan du trykke på lenken under videoen her Og så kommer den filen til din innboks men i dag skal vi altså snakke om verbet å slå eh og vi kan jo starte med å snakke om hva verbet slå betyr alene hvis det ikke er et partikkel … Jeg slår ikke barna mine ikke sant Det er viktig eh å være fredelig mot barn så ikke slå barn er viktig eh eller mannen ble slått ned utenfor pubben og blir slått ned det er da å bli slått og så faller man på bakken da blir man slått ned Vi kommer tilbake til det senere også Eh vi kan også bruke slå i sport akkurat som på engelsk ehm the one team beat the other team ikke sant Så for eksempel Everton slår sjelden Liverpool Det er synd for meg at Everton slår eh at Everton sjelden slår Liverpool fordi er Everton supporter Ehm så det er litt deprimerende å tenke på fordi det er ofte … på det er turn on og så har vi Eh Jeg sa vi hadde fem partikkel verb og nå skal jeg vise deg slå til det er det neste men eh slå til kan bety to forskjellige ting eh så jeg skal vise deg nå slå til nummer en det er å inntreffe noe som plutselig skjer for eksempel Vi måtte evakuere da orkanen slo til det er som strike på engelsk eh eller ranerne slo til mot gullsme klok 3 Natt til mandag de slo til the Struck ikke sant på engelsk og så har vi slå til nummer to det er å slå til noen så jeg sa vi kan si eh å slå noen jeg slår deg for eksempel eller vi kan si slå til da er det enda mer konkret … det er ofte to ord som blir eh koblet sammen så da blir det ofte jeg slo til Vi har også et synonym her og dra til det Det er det samme så da kan vi også si jeg drar Tin eller jeg dro til i h him er jeg dro til eller Jeg slo til Ok det neste faste uttrykket det er å slå opp og Her har vi også to forskjellige betydninger så den Første Det er eh i en bok Så å slå opp i en bok Det betyr å åpne en bok det er å slå opp en bok eh du slår den opp på en måte slå boka opp ofte sier vi at for eksempel Du må slå opp infinitiv formen i ordboka du kan ikke slå opp presens eller du kan ikke slå opp et … forhold for eksempel Helene slo opp med Martin Vi kan også si at de har slått opp nå det er som breakup på engelsk det neste uttrykket det er å slå seg til det betyr å etablere seg for eksempel etter noen år i utlandet slo vi oss til i Oslo Vi slår oss hvor skal vi slå oss til Skal vi slå oss til her eller Skal vi slå oss til her ehm Det er også veldig vanlig å bruke og så har vi et annet partikkel verb som som også har to betydninger Eh det er å slå seg ned så det betyr også det samme som slå seg til eh Slå seg ned betyr også å etablere seg etter noen år i utlandet slo vi oss ned i Oslo Så … besøk hos noen eh kanskje ikke en fest eller noe sånn men du er på besøk hos noen og så er det Det er ikke så mange stoler ledige kanskje det er en seng kanskje det er på rommet til en person og så er det ingen Stoler du ser hvor du kan sitte og så tenker du H Kanskje jeg skal sitte på den senga og så sier du eh Jeg slår meg ned her jeg hvis det er greit eh Det betyr jeg setter meg ned her jeg og det er en måte å spørre Er det greit at jeg setter meg ned her Jeg slår meg ned her jeg Ehm så det er en måte å spørre da med dobbelt subjekt om det er greit det er da dobbelt subjekt fordi du er … før jeg slår deg ned så hvis du skjønner hvorfor det er morsomt Eh ja skjønner du hvorfor det er morsomt ehm de sier det Av og til så det er å slå seg ned så det var alle partikkel verbene med å slå på B1 nivå som jeg hadde eh neste video er altså enda mer avanserte ut trykk med verbet å slå på B2 C1 nivå Så nå kan du slå av videoen eller så kan du se min outro som kommer nå hvis du liker det jeg gjør her på YouTube og har lyst til å støtte meg på noen måte så blir jeg veldig takknemlig eh Nå skal jeg vise deg fem måter du kan gjøre det nummer en Det er egentlig bare å like kommentere og … her på preply.com Hvis du klikker på min lenke under videoen så får du 30% rabatt på din første norsktime og jeg får 20% av prisen du betaler for hver norsktime du tar på den plattformen den tredje måten du kan støtte meg er ved å registrere deg på link.com eller link.com link er en fantastisk Plattform for å jobbe med vokabular så i tillegg til massevis av innebygde leksjoner så kan du på Link med ett klikk eh importere nyhetsartikler bøker lydfiler eller Netflix episoder hvis du vil og de vil da integreres automatisk i plattformen eh så kan du for eksempel fra en artikkel markere ord … du dette ordet jeg kan har hørt det f familiar eh var å bli disket ehm kan sjekke det så kan du da øve Ja det er ikke disqualified endre det da disqualified så det er noen ting man må fikse selv eh og så genererer den da flashcards for deg Skal vi prøve her hører jeg et ord og det ordet jeg hørte var vunnet og så får jeg sånne flashcards hører ord for eksempel meg Hva betyr det og det betyr meg eh Det betyr mi eh først Det betyr first og så videre har vunnet klarte jeg det Nei jeg klarte ikke det da Er det denne da vil den registrere at du ikke klarte det og den vil da gi deg flashcards i … nettbutikker Så la oss si du skal bestille hotell på Expedia for eksempel eh og du booker et hotell for 4500 kroner så får du her 4,5% cashback eh i form av Bitcoin og det betyr da at du mottar Bitcoin til en verdi av 100 kroner hvis du bestiller hotell til 4500 kroner her ganske kult system og hvis du bruker lenken min nedenfor så får jeg også bytte litt Bitcoin når du bestiller hotell Så det er vin vin den femte og siste måten å støtte meg Det er her på YouTube hvor du kan trykke på den super thanks knappen Hvis du har lyst til å gi meg tips det vil jeg også sette veldig stor pris på",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0459
+  "src": "auto"
  },
  "uFeA4bLwvn0": {
   "channel": "Norwegian Connect",
@@ -55669,7 +56013,7 @@
  "hBFGvHsoZRU": {
   "channel": "Erlend - Way 2 Norway",
   "lang": "no",
-  "checked": "2026-11-17T03:10:41+00:00",
+  "checked": "2026-11-25T04:35:00+00:00",
   "title": "A0 Intro Video - For Norwegian Beginners!",
   "duration": 261,
   "published": "20250424",
@@ -55678,6 +56022,7 @@
   "pace": 118.7,
   "rare": 0.2038,
   "var": 0.7865,
+  "cl": 0.0115,
   "speech_s": 262.8,
   "tokens": 520,
   "kw": [
@@ -55842,11 +56187,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "best",
+    "Du lærer best når du ser og hører de",
+    57,
+    66,
+    5.38,
+    3
+   ],
+   [
+    "start",
+    "can start speaking and start using and",
+    251,
+    256,
+    4.89,
+    3
+   ],
+   [
+    "just",
+    "You learn patterns, not just rules. You",
+    222,
+    231,
+    4.22,
+    3
+   ],
+   [
+    "with",
+    "med studeringen. Just keep going with",
+    237,
+    242,
+    4.73,
+    2
+   ],
+   [
+    "here",
+    "lists. Thank you so much for being here.",
+    230,
+    238,
+    4.16,
+    2
+   ],
+   [
+    "now",
+    "everything now in Norwegian and then I",
+    15,
+    23,
+    4.05,
+    2
+   ],
+   [
+    "language",
+    "Norwegian language works. Why does it",
+    155,
+    163,
+    3.34,
+    2
+   ],
+   [
+    "words",
+    "words, basic grammar and how the",
+    153,
+    160,
+    3.28,
+    2
+   ],
+   [
+    "write",
+    "you read, write, listen, and speak a",
+    166,
+    173,
+    2.97,
+    1
+   ],
+   [
+    "using",
+    "can start speaking and start using and",
+    251,
+    256,
+    2.94,
+    1
+   ]
+  ],
   "tx": "Hei, velkommen til denne videoen. Eh, jeg skal først forklare alt om A0ullset på norsk og så skal jeg forklare det på engelsk. Welcome. I will explain everything now in Norwegian and then I will explain this in English what the Aero course is, why it works and how you use it and what you're going to learn. Ok, så introduksjon norsk. Hva er dette? Dette er en samling av historier og oppgaver laget for deg som vil lære simpel og direkte norsk. I A0ullset lærer du viktige ord grammatikk og hvordan norsk språk er bygd opp. Hvorfor virker det? Du lærer best når du ser og hører de samme mønstrene. Mange ganger når du leser, skriver, lytter og snakker litt hver dag, blir norsk lettere og lettere. Hvordan bruker jeg dette? Les historiene flere ganger. Studer de små delene, verb, ordstilling og nye ord. Gjør oppgavene og gjenta dem ofte. Les høyt og snakk med deg selv eller andre. Ikke stress. Litt hver dag er nok. Hva lærer jeg? Du lærer personlige pronomen. Jeg, meg, du, deg. Vanlige verb og hjelpeverb skal, vil, må. Substantiv. En bok. Boka bøker. Ordstilling. Jeg leser en bok. Ikke leserbok jeg. Hvordan si hva du gjør, vil gjøre eller gjorde. Dette er den beste og mest naturlige måten å lære norsk. Du lærer mønstre, ikke bare regler. Du lærer ekte språk, ikke bare lister med gloser. So I will now explain exactly what I explained in English. So the introduction English. What is this? This is a collection of stories and exercises made for complete beginners in Norwegian. You will learn important words, basic grammar and how the Norwegian language works. Why does it work? You learn best when you see and hear the same patterns many times. If you read, write, listen, and speak a little every day. Norwegian becomes easier and easier. How do I use this? Read the stories many times. Studies the small parts, verbs, word order and new words. Do the exercises and repeat often. Read out loud and talk to yourself or others. Don't stress. A little every day is enough. What will I learn? You will learn personal pronouns. I, me, me, you, him. Common verbs and helpful verbs will, must, can. Nouns and forms. A book, the book, books. Word, I read a book, not readbook I. How to say what you do, what you're going to do, and what you did. This is the best and most natural way to learn our region. You learn patterns, not just rules. You learn real language, not just word lists. Thank you so much for being here. Tusen takk for at dere er her og stå på med studeringen. Just keep going with your studying. You're going to learn very quickly. I'm quite sure of it. If you're able to get here, you're able to go anywhere. You're a good student. Keep studying, learn it quickly so that you can start speaking and start using and listening to Norwegian. Ok, start with lesson one, text one, and then move on to the rest of them. Perfect. M.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0115
+  "src": "auto"
  },
  "xau5gZz_Xkg": {
   "channel": "Ola Norwegian",
@@ -56199,7 +56625,7 @@
  "RfHam5LejGQ": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-17T03:16:11+00:00",
+  "checked": "2026-11-25T04:28:58+00:00",
   "title": "Lise, den usynlige kvinnen |Short Norwegian story | B1-B2+ NIVÅ | Norwegian Connect",
   "duration": 2093,
   "published": "20241126",
@@ -56208,6 +56634,7 @@
   "pace": 103.7,
   "rare": 0.0329,
   "var": 0.7906,
+  "cl": 0.0248,
   "speech_s": 2077.1,
   "tokens": 3591,
   "kw": [
@@ -56372,16 +56799,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bort",
+    "Lise går bort til noen trær i nærheten. Det er kveld og det begynner å bli mørkt. Trærne er veldig høye.",
+    238,
+    250,
+    5.46,
+    12
+   ],
+   [
+    "tilbake",
+    "‘Hei folkens,’ sier hun. ‘Jeg er straks tilbake. Jeg må ta en jobbsamtale.’",
+    204,
+    215,
+    5.78,
+    11
+   ],
+   [
+    "sjefen",
+    "Hun har fått en melding fra sjefen på jobben. Hun har glemt å levere noe til produksjonsavdelingen.",
+    173,
+    184,
+    4.74,
+    6
+   ],
+   [
+    "løper",
+    "Lise løper i full fart til kontoret. Hun går inn i bygningen. Hun ser på sikkerhetsdisplayet.",
+    815,
+    827,
+    4.71,
+    6
+   ],
+   [
+    "engstelig",
+    "‘Hun har vært på telefonen lenge. Jeg begynner å bli engstelig.’",
+    415,
+    423,
+    3.64,
+    4
+   ],
+   [
+    "merkelige",
+    "Plutselig husker Lise den merkelige gjenstanden i skogen. ‘Er det på grunn av lyset?’ tenker hun.",
+    459,
+    469,
+    4.0,
+    3
+   ],
+   [
+    "fortjenesten",
+    "Men de fleste medarbeiderne får bare en prosent av fortjenesten.",
+    882,
+    889,
+    3.29,
+    2
+   ],
+   [
+    "lønnsøkning",
+    "Hun legger ned mange timer på jobben. Hun har aldri spurt om lønnsøkning.",
+    929,
+    938,
+    3.1,
+    2
+   ],
+   [
+    "jasså",
+    "Jasså du! Plutselig hører Lise en annen stemme i flokken.",
+    1892,
+    1899,
+    2.97,
+    1
+   ],
+   [
+    "målløs",
+    "Lise er målløs. ‘Jeg var i… i… i …’",
+    1912,
+    1919,
+    2.95,
+    1
+   ]
+  ],
   "tx": "Lise, den usynlige kvinnen. Kapittel 1 – Hendelsen. Lise er en vanlig kvinne. Hun er en kvinne av vanlig høyde. Hun er av vanlig vekt. Hun har en vanlig jobb med vanlig inntekt. Hun bor i et mellomstort hus. Hun kjører en mellomstor bil. Hun har til og med en mellomstor hund! Lise har et helt vanlig liv. Lise har også et enkelt liv – et liv uten store hendelser. Hun har universitetsutdannelse. Hun bor i Bergen. Hun er administrasjonsassistent for en salgsavdeling. Hun drar ofte veldig sent fra jobb. Hun snakker aldri stygt om firmaet hun jobber for. Hun er en ideell medarbeider og veldig … melding fra sjefen. Og hun er ikke fornøyd.’ Lise går bort til noen trær i nærheten. Det er kveld og det begynner å bli mørkt. Trærne er veldig høye. Hun kan nesten ikke se noe. Lise ringer kontoret. Hun snakker med en annen assistent. Assistenten ber henne vente på sjefen. Lise ser seg omkring mens hun venter og plutselig legger hun merke til noe. Det er et merkelig lys blant trærne! Lise legger bort mobilen sin. Hun går mot lyset. Lyset kommer fra en vakker metallball. Lise har aldri sett noe lignende! Ballen er dekket av mønster. Hun strekker ut hånden for å ta på den. Metallet er kaldt. … Lise den merkelige gjenstanden i skogen. ‘Er det på grunn av lyset?’ tenker hun. ‘Er jeg usynlig fordi jeg tok på det?’ Hun er ikke sikker. Lise vet ikke hva hun skal gjøre. Til slutt bestemmer hun seg. ‘Jeg vet ikke hvor lenge dette vil vare…’ sier hun. ‘Jeg er usynlig! Det må jeg ha det gøy med!’ Lise ser på vennene sine. Per tar maten av grillen. Ellen setter kalde drikkevarer på bordet. Lise hører på samtalen deres. ‘Joda, Per,’ sier Ellen. ‘Lise jobber mye, men det er normalt. Og, du vet, dette er den store sjansen hennes. Hun blir kanskje sjef en dag!’ ‘Jo, men hun tjener ikke nok,’ … hun kjører tar vennene hennes en viktig telefon til politiet! Kapittel 2 – Løgnen. Lise kommer frem til Bergen. Hun parkerer i nærheten av Olav Kyrres gate. Hun går gjennom byen. Det er ingen som ser henne. Hun kan ikke tro det. Hun ler stille for seg selv. ‘Dette er helt fantastisk!’ Lise lurer på hva hun kan gjøre. Hun lager en liste over alt det som kunne vært gøy i tankene. Hun begynner å le. For første gang i livet er hun ikke vanlig! Lise fortsetter turen sin ned Olav Kyrres gate. Det er mange små butikker der. Det er mange kunder og butikkansatte ute i kveld. Lise går inn i en … ’ tenker hun. ‘Jeg hadde aldri trodd det skulle skje!’ ‘For eksempel,’ fortsetter Larsen. ‘Jeg har en medarbeider. Hun heter Lise. Hun har jobbet her i fem år. Hun legger ned mange timer på jobben. Hun har aldri spurt om lønnsøkning. Hun er en flink medarbeider. Men jeg kan ikke gi Lise mer penger nå. Hvorfor det? Fordi firmafortjenesten er for lav i dette kvartalet. Vi trenger pengene for å holde firmaet åpent. Vi kan ikke fortsette slik!’ ‘Jøss!’ sier Lise til seg selv. ‘Prosjektlederen min sier at jeg er en god medarbeider! Foran alle sammen! Det kommer helt sikkert til å hjelpe … akkurat nå. Teknologien er ikke så avansert. Hun ser på papirene igjen. Anton lyver. Prosjektet er veldig lønnsomt. ‘Hvorfor vil ikke Anton gjennomføre prosjektet?’ tenker hun. ‘Det er et veldig godt prosjekt! Hvorfor lyver han?’ Da ser hun noe. Det er en annen mappe. Inne i den er det et brev. Det er skrevet på brevpapiret til en konkurrent! Lise leser brevet raskt. Anton har solgt idéen til konkurrenten. Han planlegger å si opp jobben for å jobbe for konkurrenten! ‘Hvordan kan han gjøre det?’ tenker hun. ‘Hvis vi ikke gjør dette prosjektet, får ikke jeg lønnsøkning!’ Lise bestemmer … Metallballen!’ tenker hun. Hun må ta på den igjen. Kanskje den kan gjøre henne synlig igjen. Hun må dra tilbake til skogen! Lise kommer seg inn i bilen. Hun kjører gjennom Bergens gater. Det er sent. Det er ikke mange biler ute. Allikevel kjører Lise gjennom rolige strøk. Det ville vært vanskelig å forklare en usynlig kvinne i en synlig bil. Ellen og Per er der fremdeles. Det er også flere andre mennesker der, til og med politiet! ‘Hva skjer?’ tenker hun. Kapittel 3 – Gjenstanden. Lise er tilbake ved rasteplassen. Det er en hel flokk mennesker der. Politiet er der også. ‘Hva gjør alle … vet aldri…’ Ellen rister på hodet. ‘Du og dine teorier, Per…’ Så stopper hun opp. Det finnes ingen annen forklaring. Kanskje… ‘Bare tenk på det. Lise forsvant i nærheten av den,’ legger Per til. De ser på hverandre. Da sier Per, ‘Kom igjen! La oss gå å se.’ Endelig er Ellen enig. ‘Javel. La oss gå.’ De to vennene begynner å gå mot trærne. ‘Å nei!’ tenker Lise. ‘Hva om de tar ballen? Eller gir den til politiet?’ Lise løper forbi vennene sine. Hun må finne den ballen først! Lise kommer først frem til trærne. Metallballen er borte! ‘Hvor er den?’ tenker hun. ‘Den må være her et sted! Den kan … igjen. ‘Endelig skjer det noe!’ tenker hun. Plutselig stopper skjelvingen. Metallballen lyser fremdeles. ‘Var det alt? Virket det?’ lurer Lise på. Hun får svaret sitt ganske raskt. ‘Lise! Lise!’ hører hun. ‘Er det deg?’ Det er Ellen og Per. De kan se henne! Hun er blitt synlig! Vennene hennes løper mot henne. Hun har fremdeles lyset i hånden. ‘Å nei!’ tenker hun. Hun slipper raskt taket på ballen. Den beveger seg sakte inn mellom trærne. Snart kan hun ikke se den mer. ‘Lise, hvor har du vært?’ roper Per. Lise snur seg. Så legger Ellen til, ‘Og hva var det lyset? Det var så sterkt! Det … dra hjem. De går forbi Per og Ellen. ‘Men hva med bilen din?’ roper ut. ‘Den forsvant! Vi så det!’ ‘Og hva med det lyset?’ spør Ellen. ‘Hva var det? Og vet du hva, vi så noe der borte. Det var en metallball og…’ Lise fortsetter å gå. Hun blir kanskje nødt til å forklare ting senere, men ikke nå. Erfaringen med å være usynlig har vært fantastisk! Hun har fått vite at hun har snille venner, en god sjef og en fabelaktig mann. Hun fikk også vite noe annet; det er flott å ha et helt vanlig liv! Takk for at du fulgte med hele veien! Abonner på Norwegian Connect for flere lærerike videoer om norsk.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0187
+  "src": "cc"
  },
  "wda8-V5duB4": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-17T03:16:15+00:00",
+  "checked": "2026-11-25T04:29:01+00:00",
   "title": "Simple Story | En familiegjenforening [A Family Reunion] | Norwegian Connect.",
   "duration": 1696,
   "published": "20241120",
@@ -56390,6 +56898,7 @@
   "pace": 125.0,
   "rare": 0.0271,
   "var": 0.7729,
+  "cl": 0.0248,
   "speech_s": 1681.0,
   "tokens": 3503,
   "kw": [
@@ -56546,16 +57055,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "huset",
+    "De var fort fremme hos David. Huset var lite og ryddig.",
+    376,
+    382,
+    5.02,
+    11
+   ],
+   [
+    "svarte",
+    "‘God dag,’ sa Andreas. ‘Hei…’ svarte mannen.",
+    112,
+    119,
+    4.98,
+    10
+   ],
+   [
+    "rolig",
+    "Han så veldig rolig ut. Andreas satte seg ned ved siden av mannen.",
+    106,
+    113,
+    4.78,
+    6
+   ],
+   [
+    "brev",
+    "Han ga David et brev. Og så gikk han sin vei.",
+    493,
+    499,
+    4.73,
+    6
+   ],
+   [
+    "banket",
+    "Så banket han på døren. Han banket på en gang til og ventet på at noen skulle svare.",
+    576,
+    583,
+    4.04,
+    4
+   ],
+   [
+    "ropte",
+    "‘Vent! Kom tilbake! Vil du ha kjedet?’ ropte David.",
+    498,
+    505,
+    3.88,
+    4
+   ],
+   [
+    "drosje",
+    "Han visste akkurat hvor han skulle. Andreas tok en drosje.",
+    536,
+    542,
+    3.51,
+    2
+   ],
+   [
+    "utålmodig",
+    "Det var vanskelig å finne bildet. Det tok tid. Nina ble utålmodig.",
+    923,
+    931,
+    3.47,
+    2
+   ],
+   [
+    "samtidskunst",
+    "På veien inn kjørte drosjen forbi Museet for samtidskunst.",
+    1111,
+    1117,
+    2.98,
+    1
+   ],
+   [
+    "gamledager",
+    "David tok Andreas med til garasjen. Der hadde David bevart mange ting fra gamledager.",
+    381,
+    390,
+    2.96,
+    1
+   ],
+   [
+    "lokalavis",
+    "Han leste en lokalavis. Han satt og lente seg mot et tre.",
+    101,
+    107,
+    2.92,
+    1
+   ]
+  ],
   "tx": "Kisten. Kapittel 1 – Bergen. Det var en gang en mann som bodde på Vestlandet. Mannen var ganske gammel. Han het Andreas. Andreas hadde aldri giftet seg. Han hadde hverken barn eller familie i nærheten. Han hadde bodd alene i mange år, men han var veldig snill. Han behandlet alltid alle pent. Andreas hadde aldri reist langt. Han hadde reist rundt der hvor han bodde på Vestlandet. Men han hadde ikke vært lengre. Nå var det på tide å gjøre noe. Han hadde et oppdrag. Andreas hadde ikke veldig god råd, men han var ikke fattig. Han hadde spart litt penger i sine yngre dager. Han planla å bruke … deg. Jeg er her for å fortelle deg om noe.’ ‘Sett i gang.’ Andreas tok et bilde ut av lommen sin. På bildet var det en kiste. Den så veldig gammel ut. Det så også ut som om det kunne være noe inni den. Noe av verdi. ‘Hva er det for noe?’ spurte David. ‘Vet du ikke hva det er?’ ‘Det ser ut som en kiste. Jeg har aldri sett den noen gang.’ Andreas så nærmere på David og pekte på bildet. ‘Se på dette.’ David så på bildet. Kisten hadde en lås. På låsen sto det tre nulltall. ‘Det er en lås.’ ‘Nettopp, og…?’ fortsatte Andreas. ‘Tallene mangler?’ spurte David. ‘Akkurat!’ sa Andreas. ‘De tre tallene … Det er ikke lenge.’ ‘Nei, men jeg liker meg godt! Det er mange hyggelige mennesker og fine steder her.’ ‘Ja, det er det.’ De to mennene fortsatte å prate sammen. De var fort fremme hos David. Huset var lite og ryddig. David tok Andreas med til garasjen. Der hadde David bevart mange ting fra gamledager. Han hadde ting fra da han var liten gutt. Han hadde noen gamle bilder. Han hadde til og med gamle karakterkort. ‘Hva er det vi leter etter her?’ spurte Andreas. ‘Jeg kom på noe jeg har. Det kan være den gjenstanden du ser etter.’ ‘En gammel gjenstand? Med et tall på?’ ‘Ja, en gammel gjenstand … Andreas tok en drosje. Han ga sjåføren en adresse i området. De ble enige om en pris. Det var i utkanten av Trondheim. Etter en stund kom han til et stort hus. Huset så veldig dyrt ut. Eieren tok godt vare på det. Det tilhørte sannsynligvis en som var rik. Huset hadde en veldig stor hage. Det var flere hunder som løp omkring der. Huset hadde til og med en tennisbane! Andreas sto utenfor. Han bare så på huset en stund. Så banket han på døren. Han banket på en gang til og ventet på at noen skulle svare. ‘Hallo?’ ropte han. Det kom ingen. Det så ikke ut til å være noen hjemme. Den gamle … ‘Er alt dette ditt?’ spurte Andreas. ‘Ja,’ svarte hun. ‘Jeg jobber som designer. Da jeg var 19 startet jeg en bedrift.’ Hun stoppet og så seg rundt. ‘Hva skal jeg si? Jeg har gjort det veldig bra.’ ‘Jeg ser det. Wow! Du må ha arbeidet mye.’ ‘Ja. Jeg har jobbet hardt.’ Hun begynte å gå igjen. ‘Kom denne veien, er du snill.’ Andreas og Nina gikk opp noen trappetrinn. De kom til en stor dør. Det var en veldig pen tredør av gammelt design. ‘Er huset ditt veldig gammelt?’ spurte Andreas. Nina smilte. ‘Nei, det er det ikke. Men det ble bygd etter en gammel tegning. Jeg har veldig klassisk smak.’ … Morten gikk ut. Noen sekunder senere kom han tilbake med jakken til Andreas. Andreas lette i lommene på jakken sin. Den hadde mange lommer. Det var vanskelig å finne bildet. Det tok tid. Nina ble utålmodig. Endelig fant han det. ‘Her er det!’ Andreas lo. ‘Jeg fant det! Det er denne vi trenger det tallet til.’ Han la bildet av kisten på bordet. Nina tok opp bildet. Hun så nøye på det. Plutselig husket hun noe! ‘Jeg vet ikke hvorfor… men jeg tror jeg husker noe,’ sa hun. ‘Tenk, Nina, tenk hardt,’ sa Andreas. Nina reiste seg. ‘Bli med meg, Andreas,’ sa hun. ‘Jeg vet ikke hvem du er eller hva du … sitt. Det var bare en person igjen å møte. Så var oppdraget fullført! Andreas gikk ombord på flyet. Kort tid etterpå var han i Oslo. Som vanlig, tok han en drosje inn til byen. På veien inn kjørte drosjen forbi Museet for samtidskunst. Andreas så hvor stort det var. Han spurte sjåføren, ‘Har du vært på det museet noen gang?’ ‘Ja. Det er fint, men kunsten er veldig merkelig. Det er veldig moderne. Alt for mange merkelige former og farger… jeg foretrekker klassisk kunst.’ ‘Det gjør jeg også,’ sa Andreas. ‘Jeg har alltid foretrukket klassiske ting.’ Han så ut av vinduet mens drosjen … og ryddig. ‘Vel?’ sa Arne. ‘Du ville snakke med meg?’ Andreas begynte å snakke. Men så la han merke til noe. Arne hadde på seg en ring. Det var et tall på ringen. Andreas begynte å le. ‘Hva er det?’ spurte Arne, bekymret. ‘Jeg trodde det skulle bli vanskeligere!’ ‘Unnskyld meg?’ sa Arne. ‘Den ringen din… hvem fikk du den av?’ ‘En gave jeg fikk for lenge siden. Da jeg var en liten gutt. Jeg husker ikke hvem som ga den til meg. Jeg tror det var et kjede før.’ Andreas så på tallet. Han hadde funnet alle de tre tallene. Oppdraget hans var fullført… nesten fullført. Det var bare et par ting til … og Arne. Alle tre stoppet opp et øyeblikk. Endelig spurte David, ‘Hva gjør vi her?’ ‘Har dere lest brevet?’ spurte Nina ivrig. ‘Ja,’ svarte begge mennene. ‘Men jeg har ikke peiling på hva dette gjelder,’ la David til. ‘Vel, la oss gå og finne ut av det,’ sa Nina. Hun banket på døren. Andreas åpnet døren for dem. Han var pent kledd. Tross alt var dette en veldig spesiell begivenhet. ‘Hallo,’ sa han rolig. Så inviterte han dem inn og sa: ‘Takk for at dere kom.’ Huset var enkelt og ryddig. Det var veldig klassisk. Andreas foreslo en kopp te, men ingen av dem ville ha. De var altfor spente. … skulle ha det beste mulige livet det gikk an å få. Jeg ba et adopsjonsbyrå om hjelp. Nå som dere alle er voksne er tiden inne. Jeg måtte fortelle dere dette. Dere har flere familiemedlemmer enn de dere allerede er glad i. Se dere rundt. Jeg oppmuntrer dere til å møte hverandre, og til å møte meg, onkelen deres! Kjærlig hilsen Andreas. David, Nina og Arne så på hverandre og snudde seg. Der sto Andreas — onkelen deres. Han så på dem og smilte. ‘Jeg har så mye å fortelle dere!’ sa han rolig. Takk for at du fulgte med hele veien! Abonner på Norwegian Connect for flere lærerike videoer om norsk.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0261
+  "src": "cc"
  },
  "eMVVFV3zOT4": {
   "channel": "Norwegian Connect",
   "lang": "no",
-  "checked": "2026-11-17T03:16:28+00:00",
+  "checked": "2026-11-25T04:29:13+00:00",
   "title": "Simple Story - Språk og Vennskap 01 | Lær Norsk Med Daniel og Julia (del -1)",
   "duration": 916,
   "published": "20241102",
@@ -56564,6 +57162,7 @@
   "pace": 133.3,
   "rare": 0.0316,
   "var": 0.7639,
+  "cl": 0.0187,
   "speech_s": 867.7,
   "tokens": 1928,
   "kw": [
@@ -56704,11 +57303,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "henne",
+    "Han vil snakke med henne. Julia ser på ham idet han kommer inn.",
+    157,
+    162,
+    5.39,
+    8
+   ],
+   [
+    "begge",
+    "Julia er søsteren min. Hun er 23. Vi går begge to på universitetet.",
+    36,
+    43,
+    5.5,
+    7
+   ],
+   [
+    "mobilen",
+    "Jeg ringer mobilen din senere,’ sier hun mens hun går sin vei.",
+    576,
+    581,
+    4.57,
+    4
+   ],
+   [
+    "peker",
+    "Far peker på pengene. ‘Disse pengene er til dere begge to.",
+    219,
+    225,
+    4.44,
+    4
+   ],
+   [
+    "nummeret",
+    "Jeg har funnet en telefonkiosk men har ikke nummeret til søsteren min.",
+    797,
+    803,
+    3.96,
+    3
+   ],
+   [
+    "sjenert",
+    "Søsteren min er veldig sjenert. Hun er spesielt sjenert når hun møter nye mennesker.",
+    380,
+    388,
+    3.91,
+    3
+   ],
+   [
+    "sedler",
+    "Her.’ Far gir Julia en pakke med sedler.",
+    172,
+    177,
+    3.56,
+    1
+   ],
+   [
+    "støter",
+    "Hun støter nesten på meg. Hun og far hadde ikke lagt merke til at jeg var på vei inn.",
+    203,
+    210,
+    3.54,
+    1
+   ],
+   [
+    "drosje",
+    "Vi tar en drosje. En time senere er vi i Oslo sentrum.",
+    411,
+    417,
+    3.51,
+    1
+   ],
+   [
+    "fiction",
+    "Der selger de science fiction-bøker. Foreldrene mine er virkelig flotte. De hjelper oss alltid med å nå målene våre.",
+    98,
+    106,
+    3.5,
+    1
+   ],
+   [
+    "sultne",
+    "Søsteren min og jeg er veldig sultne.",
+    440,
+    444,
+    3.5,
+    1
+   ],
+   [
+    "stappfull",
+    "‘Den bussen er vanligvis stappfull på denne tiden av døgnet.’",
+    530,
+    535,
+    2.86,
+    2
+   ],
+   [
+    "drosjen",
+    "Drosjen koster 610 kroner. Henrik sier det er den vanlige prisen til denne delen av byen.",
+    416,
+    425,
+    2.74,
+    2
+   ]
+  ],
   "tx": "\"Hei, alle sammen! I denne videoen skal vi lære norsk med en historie!\" En sprø fiskegryte Kapittel 1 – Gjøre seg klar ‘Her er jeg, Daniel,’ roper Julia. Hun er ved inngangsdøren til huset. ‘Hva er det, Julia?’ svarer jeg. ‘Vi skal til Norge i dag. Du husker det, ikke sant?’ ‘Selvsagt gjør jeg det. Jeg pakker.’ svarer jeg. Jeg heter Daniel. Jeg er 24 år gammel. Julia er søsteren min. Hun er 23. Vi går begge to på universitetet. Vi deler et hus i London. Foreldrene våre er Arthur og Sarah Bell. Julia og jeg gjør oss klare til å reise. Vi skal til Oslo i Norge. Vi studerer norsk begge to. Vi … Begge foreldrene mine arbeider. Faren min er elektriker. Han jobber for et stort elektrofirma. Moren min er forfatter. Hun eier også en forretning. Der selger de science fiction-bøker. Foreldrene mine er virkelig flotte. De hjelper oss alltid med å nå målene våre. Begge snakker godt norsk. De snakker ofte norsk til oss. Det hjelper oss med å øve. De oppmuntret oss virkelig til å bli utvekslingsstudenter. Vi reiser til Norge i dag. Far kommer inn på rommet mitt. Han ser forbauset på meg. Hvorfor det? Fordi jeg ikke er påkledd. ‘Daniel! Hvorfor er du ikke påkledd?’ spør far. ‘Påkledd? Jeg … ‘Jeg vil at dere skal ha dette, begge to.’ Julia blir overrasket. ‘Far! Det er mye penger her,’ sier hun. ‘Mor og jeg har spart disse pengene. Vi vil gjerne betale for en del av turen til Norge.’ ‘Tusen takk, far,’ sier søsteren min. ‘Det blir veldig nyttig. Jeg skal fortelle det til Daniel.’ Julia snur seg for å gå. Hun støter nesten på meg. Hun og far hadde ikke lagt merke til at jeg var på vei inn. Faren min ser meg. ‘Der er du, Daniel,’ sier han. ‘Og du er påkledd! Flott!’ Far peker på pengene. ‘Disse pengene er til dere begge to. Det er for å hjelpe til med turen.’ ‘Tusen takk, far. … venn, Henrik.’ ‘Ja, mamma. Du har sikkert rett. Men jeg er engstelig allikevel. Hva om det skjer noe?’ ‘Det går bra,’ sier far. På flyplassen er det mange mennesker som sjekker inn. Mange av dem reiser på grunn av jobben. Noen reiser for gledens skyld. Jeg går bort til Julia og spør henne ‘Er du mer avslappet nå?’ ‘Ja, Daniel. Men jeg var veldig engstelig da vi var i bilen.’ ‘Ja, jeg vet det. Men alt kommer til å gå bra. Vennen min, Henrik, er veldig grei. Han hjelper ofte slike utvekslingsstudenter som oss.’ Vi får en stor klem av foreldrene våre. Vi vinker alle sammen til hverandre … vender seg mot henne og gir henne en klem. ‘Hei, Julia. Hyggelig å møte deg!’ Søsteren min er veldig sjenert. Hun er spesielt sjenert når hun møter nye mennesker. ‘Hei… Henrik,’ sier hun. Så rødmer hun og blir stille. ‘Søsteren din er veldig sjenert, ikke sant?’ sier Henrik til meg og smiler. ‘Ja, det er hun. Men hun er snill,’ sier jeg. Kort tid etterpå drar vi til Henriks leilighet. Det er der vi skal bo dette semesteret. Vi tar en drosje. En time senere er vi i Oslo sentrum. Drosjen koster 610 kroner. Henrik sier det er den vanlige prisen til denne delen av byen. Vi betaler for … av leiligheten.’ ‘Julia, vil du ha fiskegryte?’ spør jeg søsteren min. ‘Ja! Jeg er så sulten!’ svarer hun. Henrik kan ikke bli med oss. Han er lærer og har en time. Julia og jeg drar av gårde til fiskerestauranten. Det er en kort tur til busstasjonen. ‘Hmm… Nå, hvilken buss er det som går til fiskerestauranten?’ spør jeg Julia. ‘Det vet jeg ikke…’ svarer hun. ‘La oss spørre.’ Hun peker på en mann i hvit skjorte. Vi går bort til mannen. Han smiler. ‘Hei! Hva kan jeg hjelpe med?’ ‘Hei! Hvordan kommer man seg til Rorbua-restauranten?’ spør jeg. ‘Det er lett! 35-bussen går i den retningen. … på den med godt kjøtt.’ ‘Hvorfor det?’ ‘Da kan vi sammenligne de to restaurantene.’ ‘For en god idé. Fint! Kos deg! Jeg ringer mobilen din senere,’ sier hun mens hun går sin vei. Jeg tar den neste bussen og setter meg ned. Jeg er veldig trøtt. Jeg sovner raskt. Busrutene i Oslo er veldig bra. Jeg vet at det ikke er noe å bekymre seg for. Jeg våkner en stund senere. Bussen har stoppet. Det er ingen andre på den bortsett fra meg og sjåføren. ‘Unnskyld meg,’ sier jeg. ‘Hvor er vi?’ ‘Vi er fremme i Kristiansand,’ svarer han. ‘Hva? Er vi i Kristiansand? Hvordan kan det ha seg?’ spør jeg. ‘Vel, … en dame på gaten om det er en telefonkiosk i nærheten. ‘Det er det,’ sier hun og peker. ‘Den ligger rett der borte.’ Jeg takker henne og går mot kiosken. Men når jeg er kommet så langt, blir jeg klar over noe. Julias telefonnummer er lagret på mobilen min. Jeg kan ikke slå den på. Jeg har endelig funnet en telefon, men jeg har ikke noe nummer. Hva nå? Jeg tenker meg om en stund. Så blir jeg klar over noe. Jeg har ikke spist siden frokost! Jeg bestemmer meg for å finne en restaurant. Jeg kan tenke på problemene mine senere. Jeg finner en restaurant lenger opp i gaten. Kelneren kommer til … er ny her og norsken min er ikke så god.’ Jeg begynner å le høyt. Folk på restauranten snur seg for å se på meg. Det blir jeg flau av. Jeg skulle ikke ha ledd så høyt. Men det får heller være. Det blir litt mye, det hele. Hele situasjonen er så merkelig! Søsteren min og jeg skulle spise fiskegryte sammen. Og nå sitter jeg her og spiser fiskegryte - men alene, og i Kristiansand! Og søsteren min vet ikke hvor det har blitt av meg. Det er så ironisk! Jeg spiser ferdig middagen og betaler regningen. Så synker virkeligheten inn. Hva gjør jeg nå? Mobilen min virker ikke. Jeg har funnet en … opp til Julia er du snill? Fortell henne at jeg er i Kristiansand. Og fortell henne at batteriet mitt er tomt.' 'I Kristiansand? Hva gjør du i Kristiansand?' 'Det er en lang historie, mor. Jeg gir deg detaljene senere.' Vi sier farvel. Jeg bestemmer meg for å finne meg et hotellrom. Det er et ledig lengre oppe i gaten. Jeg kan dra tilbake til Oslo i morgen. Akkurat nå trenger jeg søvn. Jeg betaler for én natt med kontanter, siden jeg ikke har noen kredittkort med meg. Jeg går inn på rommet mitt, kler av meg og legger meg. Jeg slår av lyset og sovner. Jeg er veldig trøtt. For en sprø dag!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0191
+  "src": "cc"
  },
  "bBgigohoDv0": {
   "channel": "Ola Norwegian",
