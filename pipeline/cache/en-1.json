@@ -89702,7 +89702,7 @@
  "0W6PymVdXVw": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-11T22:40:49+00:00",
+  "checked": "2026-11-25T00:56:42+00:00",
   "title": "I enjoy flying ✈️ but airports are stressful 🛄 | Improve your listening with Real Easy English",
   "duration": 340,
   "published": "20261005",
@@ -89711,6 +89711,7 @@
   "pace": 153.0,
   "rare": 0.0133,
   "var": 0.7133,
+  "cl": 0.0556,
   "speech_s": 324.7,
   "tokens": 828,
   "kw": [
@@ -89819,11 +89820,76 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "missed",
+    "and almost missed a flight? Yes, I have missed a flight once and it was very stressful.",
+    164,
+    174,
+    4.83,
+    6
+   ],
+   [
+    "episode",
+    "But we're talking about airports today in this episode of Real Easy English.",
+    17,
+    22,
+    4.97,
+    5
+   ],
+   [
+    "gate",
+    "Well, they didn't call my name, so I was really stressed trying to find the gate,",
+    214,
+    223,
+    4.47,
+    2
+   ],
+   [
+    "desk",
+    "And at the airport you do this at the check-in desk.",
+    271,
+    277,
+    4.43,
+    2
+   ],
+   [
+    "stressful",
+    "yeah, airports can be a bit stressful for me.",
+    126,
+    131,
+    3.88,
+    2
+   ],
+   [
+    "travelling",
+    "I was travelling in Ireland and I had a flight in Dublin,",
+    173,
+    179,
+    4.16,
+    1
+   ],
+   [
+    "recap",
+    "OK. Becca, it's time to recap the vocabulary that we used in this episode,",
+    255,
+    261,
+    3.45,
+    1
+   ],
+   [
+    "loudspeaker",
+    "I think if you get your name read out on the loudspeaker in an airport,",
+    231,
+    237,
+    2.95,
+    1
+   ]
+  ],
   "tx": "Hi Becca. Hi Neil. How are you? Have you got any trips coming up soon? I have. I'm going to Montenegro, which is exciting. I've never been there before, but it means that I have to go to an airport and I have to fly. I don't like flying. But we're talking about airports today in this episode of Real Easy English. We are. But people need to know that to get a transcript and a worksheet for this episode, they need to go to our website, bbclearningenglish.com. Absolutely. So, you'll be going to an airport for your holiday, but what happens at an airport, Neil? One of the most important things is check in. Now, 'to check in' is to officially tell the airline that you're going to fly. Normally, now, we do this online, but you can still check in at the airport, I think. Yes, you can. Yeah. So, there will be check-in gates. It is very important. It is, because they give you a boarding pass then, don't they? They do. The boarding pass is the document that lets you get on the plane and also tells you what seat that you have on the plane as well. So, you've checked in and you've got your boarding pass. What happens next? Well, then you need to go through security, and that's when they check you to make sure you haven't got anything that you shouldn't have on a plane. I hate airport security. Even though I know that I'm not carrying anything that I'm not supposed to have, it still makes me feel a bit stressed. Yeah, I know what you mean. You feel guilty even if you haven't done anything. Exactly! Yeah, airport security is one of the reasons I don't really enjoy airports. Really? You don't like airports? I don't like airports. I enjoy flying but... yeah, airports can be a bit stressful for me. Well, I'm the exact opposite of you because I quite like airports, but I really don't like flying. What do you like about airports? I think because when you finally get to the airport, it's somebody else's problem for you to travel. So, it's my responsibility to get to the airport but once I'm there, I can relax. OK. And have you ever been in a situation where you relaxed a bit too much and almost missed a flight? Yes, I have missed a flight once and it was very stressful. I was travelling in Ireland and I had a flight in Dublin, and I was in a different city – in Cork. And I missed the train from Cork to Dublin and so I couldn't get to the airport on time. So, you did miss that flight? I missed it. Oh no! So, Becca, have you ever missed a flight? Thankfully, no, I haven't missed a flight. I was very close to missing a flight... I was just relaxing. I had travelled from Vietnam and I was really tired, so I wasn't really listening carefully. Well, they didn't call my name, so I was really stressed trying to find the gate, but luckily I caught it. I think I was the last person to board the plane, and that's always a little bit embarrassing as well. You know what, Becca? I think if you get your name read out on the loudspeaker in an airport, that's really embarrassing because everyone in the airport is thinking, Who's that person? That person who's going to miss their flight! And you don't want to be that person. OK. Becca, it's time to recap the vocabulary that we used in this episode, starting with 'check in'. 'Check in' is the verb, which means you officially tell the plane company that you plan to get on the plane, and you give them your bags as well. And at the airport you do this at the check-in desk. Yes. And at the check-in desk, that's where you get your boarding pass, and that's the ticket that you need to get on the plane. And then we heard the expression 'go through security'. If you go through security, you go through that area where they check and make sure you have nothing with you that should not be on a plane. Yes. Going through security – my least favourite thing about airports. After security, you wait at the boarding gate and this is the area that you wait at before you get on the plane. If you catch a flight, it means you successfully get on the plane and fly somewhere, but if you miss a flight, like I did in Ireland, it means that you were too late to get on the plane. Well, Neil, that's it for this week's episode of Real Easy English, but we'll be back next week with another episode. Don't forget that you can download a free worksheet on our website, bbclearningenglish.com. Goodbye for now. Bye!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0556
+  "src": "cc"
  },
  "HDt_rTPPh70": {
   "channel": "TED-Ed",
@@ -119465,7 +119531,7 @@
  "lAexO7HxQeo": {
   "channel": "Adept English",
   "lang": "en",
-  "checked": "2026-11-12T03:09:15+00:00",
+  "checked": "2026-11-25T00:55:39+00:00",
   "title": "This is not a 'hack', it's DESPERATE. [Real English Listening]",
   "duration": 773,
   "published": "20260427",
@@ -119474,6 +119540,7 @@
   "pace": 145.0,
   "rare": 0.0236,
   "var": 0.8006,
+  "cl": 0.0455,
   "speech_s": 736.8,
   "tokens": 1781,
   "kw": [
@@ -119630,11 +119697,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "called",
+    "Welcome to an idea called 'property guardianship',",
+    47,
+    51,
+    5.59,
+    7
+   ],
+   [
+    "month",
+    "eight extra episodes per month. Have a look at",
+    419,
+    424,
+    5.25,
+    7
+   ],
+   [
+    "apartment",
+    "Manhattan-style loft apartment in East London.",
+    8,
+    14,
+    4.65,
+    5
+   ],
+   [
+    "housing",
+    "housing market, professional people are signing legal",
+    82,
+    87,
+    4.77,
+    4
+   ],
+   [
+    "apartments",
+    "normal houses and apartments? So the number of people wanting",
+    211,
+    216,
+    4.01,
+    2
+   ],
+   [
+    "occupy",
+    "occupy'. That's like a driving license, but a",
+    694,
+    698,
+    3.93,
+    2
+   ],
+   [
+    "month's",
+    "month's notice if they want you",
+    652,
+    654,
+    3.54,
+    2
+   ],
+   [
+    "podcasts",
+    "Apple Podcasts, Spotify, YouTube - wherever you listen.",
+    436,
+    439,
+    3.48,
+    2
+   ],
+   [
+    "disused",
+    "pubs, disused hospitals or office buildings.",
+    284,
+    289,
+    2.89,
+    1
+   ],
+   [
+    "sofas",
+    "furniture, plants and sofas, and his place looks very",
+    373,
+    378,
+    2.86,
+    1
+   ],
+   [
+    "40s",
+    "in their 40s and 50s who simply cannot afford the",
+    499,
+    504,
+    2.81,
+    1
+   ]
+  ],
   "tx": "Imagine this. You're a 45-year-old professional person with a good job and you're living in a lovely Manhattan-style loft apartment in East London. You have high ceilings, it's open plan. That means big rooms and lots of light in your apartment, lots of space. Brilliant! What a lovely place to live and many people's dream. But imagine also that your loft apartment still has fire escape signs on the walls and electric plug sockets from when it used to be an office building. And imagine that you could be asked to leave this lovely loft apartment in just 28 days. Welcome to an idea called … housing market, professional people are signing legal documents that give up their rights just to live cheaply, as guardians in old buildings, fire stations, offices that are no longer used, old pubs that are no longer operating, all to protect these buildings from illegal squatters. We'll come back to those words. In this podcast you will pick up some great vocabulary about housing, housing law and renting a home. Very important English vocabulary to learn. And also that very British thing of 'making the best of a situation'. That's what this is. Some words? 'Guardian', G-U-A-R-D-I-A-N. It … What's a squatter? Well, it's a person that takes over a building and lives there without permission, without paying any rent. No money changes hands. So squatters live in buildings illegally, outside of the law. What I'm going to talk about today - it's all happening because the owners of buildings that are not houses, not flats, not residential - owners want people to live in these buildings to protect them from squatters. Who could imagine this would be a thing? Let's get into it. Let's understand it some more. First of all, a question. Why would over 50,000 people a year choose … them. And the noun 'guardianship' just means 'the action of being a guardian'. So basically property guardians get to live in a particular building and they are like a free security guard for the owner of the building. For the property guardian, it's cheap accommodation. It's a less expensive place to live. So everyone wins, in theory. And the buildings? Well, they can be lots of different types of buildings with different previous uses, like old schools, old churches, former pubs, disused hospitals or office buildings. But, and sometimes this is important, sometimes they are derelict or on … may live in all kinds of conditions. Some lovely, some terrible. One such person, Luke Williams, age 45, was interviewed by The Guardian newspaper. Luke Williams has been living as a property guardian in East London for more than 18 months. He says he likes 'weird and offbeat'. That means unusual. And Luke Williams is very pleased with where he lives. As usual, the link to that Guardian article is in the transcript on our website at adeptenglish.com, if you want to have a look at his place. It looks really nice! He's in a big old office building, but he's got nice furniture, plants and … if you want to keep building your English, topic by topic like this, it will be really helpful to you to subscribe to Adept English for eight extra episodes per month. Have a look at adeptenglish.com. And while you're there, check out our courses. They will take your level of English up. But if you don't want to do that, instead please subscribe for free on Apple Podcasts, Spotify, YouTube - wherever you listen. Give us a thumbs up, a positive review, or simply subscribe so you don't miss any podcasts. So if we help you with your English, please help us by subscribing or reviewing us. We'd … jobs, who are just looking to save money\". Apparently, now one in five property guardians works in medicine, law or accounting. These are professional people in their 40s and 50s who simply cannot afford the rent in London. That's crazy. And some figures may help explain. The average monthly private rent in the UK - figures from late 2025, so recent - the average is £1,366 per month. That's according to the Office for National Statistics, the ONS. And if you thought £1,366 per month was a lot, the average in London is £2,200 a month to rent a property. And unlike buying a house and … 10 years, and he's having not such a good experience. Where he lives, ceilings are falling down, he lives with unsafe electrics, and a shower that leaks water over electrical fittings, making it dangerous. Charlie Huller paid £400 a month for a tiny room with bars at the windows. Now his fee is rising to £858 a month to live in a pretty grim place. He says, \"I've never managed to have a stable home. It's horrible, but it's the only option I've got\". It's not that Charlie Huller is being quirky. It's truly his only choice. Normally when you rent in the UK, you become a 'tenant'. That's … first place to secure your home, well, that's protected. And you get it back at the end of the tenancy. Also, the owner of the building, the owner of the home, cannot just walk in any time. They have to tell you when they're coming. But property guardians don't have any of these protections. The building owner can walk into their home any time they like. Legally, property guardians don't have a tenancy agreement. They have only something called a 'license to occupy'. That's like a driving license, but a 'license to occupy a building'. Owners of the building need only give a month's notice … to be property guardians. Apparently, applications to do this are up by 60%. So what do I think? I think property guardianship is a creative response to a system that's not really working anymore. The fact that around 50,000 people a year apply to live in buildings where there may be bad conditions tells you quite a lot about housing in the UK. Something has gone a bit wrong, hasn't it? And if you're thinking of coming to the UK, this podcast perhaps contains quite a lot of useful information. And the next time you walk past an empty building in London, look up. Someone might be living there!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0376
+  "src": "cc"
  },
  "M6gAF_YCzGY": {
   "channel": "BBC Learning English",
@@ -119797,7 +119953,7 @@
  "N_hNCnh1dxs": {
   "channel": "Speak English With Vanessa",
   "lang": "en",
-  "checked": "2026-11-12T03:10:19+00:00",
+  "checked": "2026-11-25T00:57:40+00:00",
   "title": "My Morning Routine: English Vocabulary Lesson",
   "duration": 1085,
   "published": "20260501",
@@ -119806,6 +119962,7 @@
   "pace": 164.4,
   "rare": 0.0296,
   "var": 0.7534,
+  "cl": 0.0425,
   "speech_s": 1022.5,
   "tokens": 2801,
   "kw": [
@@ -119970,16 +120127,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "word",
+    "This is a bread tie. It's pretty cool because you can use that word tie in a",
+    180,
+    186,
+    5.26,
+    10
+   ],
+   [
+    "things",
+    "about your morning routine while I show you my morning routine. Come on. First things first,",
+    7,
+    14,
+    5.74,
+    9
+   ],
+   [
+    "milk",
+    "to pour some milk into the tea. Maybe you make tea in a different way. This is how I make tea.",
+    599,
+    608,
+    4.66,
+    9
+   ],
+   [
+    "butter",
+    "butter and jam on the bread. I forgot a butter knife. So, I'm going to grab that.",
+    413,
+    419,
+    4.4,
+    7
+   ],
+   [
+    "vocabulary",
+    "PDF worksheet for you. this worksheet today. Here you can see it. It includes all of the vocabulary",
+    319,
+    328,
+    3.82,
+    5
+   ],
+   [
+    "container",
+    "They don't belong in this container, but my friend from England gave me this container full of tea.",
+    558,
+    566,
+    4.03,
+    4
+   ],
+   [
+    "scrambled",
+    "and we're going to make some scrambled eggs this morning. This is something that I make",
+    36,
+    41,
+    3.45,
+    3
+   ],
+   [
+    "kettle",
+    "electric tea kettle, so I'm just going to push start. Let that go. And I am going to put some",
+    134,
+    144,
+    3.54,
+    2
+   ],
+   [
+    "refrigerate",
+    "we don't have to refrigerate our eggs. And that's the word that I would use. Refrigerate our eggs.",
+    932,
+    939,
+    2.68,
+    2
+   ],
+   [
+    "runny",
+    "like scrambled eggs to be very runny, but I don't. I like them when they're a little more cooked.",
+    269,
+    277,
+    2.94,
+    1
+   ]
+  ],
   "tx": "Welcome to my American home where you are invited to learn real daily life English about your morning routine while I show you my morning routine. Come on. First things first, we have to turn on the oven. I have turned on the oven already so that my pan can preheat. It has to get warm before I put the eggs on or else the eggs are going to stick. Nobody likes that. So, now that the pan is slightly warm, a little bit preheated, I'm going to pour in some olive oil and we're going to make some scrambled eggs this morning. This is something that I make quite often. Usually, I'm making it for five … do part two of my morning routine, which is my favorite part. Just a moment. All right, let's set these for just a minute. It is tea. I am always excited to drink tea in the morning. There's already some water in this electric tea kettle, so I'm just going to push start. Let that go. And I am going to put some bread in our toaster so that I can have bread with my eggs. This is something that I really like to have together, especially with a little jam. The little bit of sweetness with the bread is great with eggs. I love it. So, I'm going to put this in the toaster. This bread is really big. … I like to add it while it's still in the pan. So, I'm grating the cheese. Notice that when I say this word grading, there's a t in it, but we're going to make it sound like a d. Grading. Grading the cheese. Because in American English, we love for T's surrounded by vowels to sound like a D sound. All right, I'm going to let this just sit here for a moment. Some people like scrambled eggs to be very runny, but I don't. I like them when they're a little more cooked. All right, so we have the salt, we have the cheese, the toast is going. I hear the water is boiling. I'm going to get my plate … download it. So, you can use these two bonuses in the free PDF worksheet. All you have to do is click on the link in the description, enter your name and email address. I'm going to put this on my plate. Enter your name and email address, and voila, just like that, the P free PDF worksheet plus the two bonuses will land in your email inbox. This is my gift to you. All right. I just heard our toast pop. That is the lovely word that we use when the toast comes out of the toaster. The toast pops. Has it popped yet? Yes, it has popped. All right. I am going to now scrape all the little bits and … already so sweet. Um, so I I like to have jam that actually tastes like fruit, not just sugar. Right. All right, we got the jam on the toast. We have the eggs that are ready. And now it is time for my favorite part, tea. So, I'm going to put my tea bag in my mug. This is my favorite mug. I use it every day. It says best mom ever. And it has ginko leaves on it. I love it. My kids gave this to me for uh Mother's Day many years ago. And it has not broken yet. I'm so glad. Someday when it breaks, because I know it will someday due to the nature of using something every day that's breakable with … small things in life, right? All right, I'm going to let this steep for a few minutes. And while after I let it steep, I'm going to pour some milk into the tea. Maybe you make tea in a different way. This is how I make tea. Not saying it's the correct way, but while we're waiting, normally I would sit at the table, but while we're waiting, I'm going to try my eggs. Take my hair off of it and see how they are. Light, fluffy, slightly garlicky. Now, you might be thinking, Vanessa, why would you put garlic powder with jam? Don't ask. Just try it. So sometimes what my family likes to do is we … to have weak coffee. Everyone wants strong tea, right? Strong coffee. Um I do not put sugar in my tea on a regular basis. I just like it pure with milk. If I have chai, so a more seasoned spiced tea, I do like to put a little bit of honey in it, but on a regular basis, I just have it with milk. And this is the morning routine. All right, I'm going to pause for a moment, let this steep, and I'll get back to you and show you pouring in the milk. Actually, while we are waiting for my tea to steep, I want to tell you about a couple other morning routine, breakfast drink type of words. Um, I … bread. But when you put it in the toaster, what does it become? It becomes toast. So this is not toast, but this is toast. because it is crispy. It has been in the toaster for a bit. It's not burnt. It's just toasted. So, we can use the word toasted to talk about other things as well. You might put some uh something in the oven like some almonds. You could toast almonds. You can toast bread. You could toast other things, I guess. Um, and this pan, I wanted to talk about this pan for a moment. It's pretty hot, so I'm not going to pick it up for you. Actually, I will I will sacrifice. … in the US, usually we keep our eggs in the fridge, but because we have chickens, we don't have to refrigerate our eggs. And that's the word that I would use. Refrigerate our eggs. They don't need to be refrigerated. Notice at the end of this word, too, the T becomes a D. Refrigerated. These do not need to be refrigerated because they came right from the chickens outside. Um, but when you buy eggs in the US, you will find them in the refrigerated section and you have to keep them in your fridge. Okay. Okay, I think my tea is probably ready. I'm going to take out my tea bag and pour in some … So, all you have to do is click on the link in the description, enter your name and email address, and voila, just like that, you will get this free PDF worksheet and bonuses in your email inbox. My gift to you. Well, thank you so much for learning English with me. I'll see you again next Friday for a new lesson here on my YouTube channel. Bye. But wait, do you want more? I recommend watching this video next where you will be able to see how to talk about the laundry in English, including some items of clothing that maybe you've never heard of before, but you need to. I'll see you there.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0469
+  "src": "cc"
  },
  "e5tF-_ssSQg": {
   "channel": "English with Lucy",
   "lang": "en",
-  "checked": "2026-11-12T03:10:50+00:00",
+  "checked": "2026-11-25T00:58:17+00:00",
   "title": "Get my British Accent (MODERN RP)",
   "duration": 4242,
   "published": "20260509",
@@ -119988,6 +120226,7 @@
   "pace": 125.6,
   "rare": 0.0415,
   "var": 0.7761,
+  "cl": 0.0261,
   "speech_s": 4134.6,
   "tokens": 8652,
   "kw": [
@@ -120152,11 +120391,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "word",
+    "In word. O in more.",
+    666,
+    677,
+    5.26,
+    45
+   ],
+   [
+    "okay",
+    "Modern RP pronunciation masterass. Okay, let's get started with technique number",
+    78,
+    89,
+    5.06,
+    31
+   ],
+   [
+    "lesson",
+    "Today is not a pronunciation lesson.",
+    0,
+    7,
+    4.47,
+    11
+   ],
+   [
+    "stress",
+    "brocher. Brocher with the main stress on",
+    2069,
+    2076,
+    4.73,
+    10
+   ],
+   [
+    "rhythm",
+    "connected speech and natural rhythm. This is a longer video but it will be",
+    41,
+    49,
+    4.05,
+    16
+   ],
+   [
+    "voiced",
+    "line is the voiced version of the one",
+    1055,
+    1061,
+    3.76,
+    13
+   ],
+   [
+    "consonant",
+    "together to make the vowel and consonant",
+    102,
+    109,
+    3.09,
+    19
+   ],
+   [
+    "accents",
+    "amazing variety of accents and I love",
+    1284,
+    1291,
+    3.57,
+    12
+   ],
+   [
+    "chimpanzee",
+    "Chimpanzee has three syllables but is stressed on",
+    3702,
+    3712,
+    2.96,
+    2
+   ],
+   [
+    "pronouncing",
+    "students make is pronouncing the letters",
+    823,
+    828,
+    2.9,
+    2
+   ]
+  ],
   "tx": "Today is not a pronunciation lesson. It's a pronunciation master class and the focus is on one thing and one thing only, the modern RP accent, my accent. I will teach you important techniques and useful insights to help you speak more clearly and confidently with natural British pronunciation. We will cover everything from how to move and position your mouth to how to pronounce common endings like e d and e s as well as suffixes connected speech and natural rhythm. This is a longer video but it will be hugely impactful. To help you even further offering you my modern RP ebook for free just in … Round the lips and push them forward. Repeat after me. Who do you usually include? Now, let's switch between e and ooh. Smile and tense those facial muscles to make the e sound. >> >> He needs deep sleep and you do too. Now moving from relaxed to rounded. ED Ned and Fred bought four more forks. Now bring the lips together tightly for BP and M. Bill picked me but Peter picked Mary. Right, your muscles and articuls should be nice and warm by now. Now let's work on fine-tuning some of those phonemes. Are there some words or maybe even individual sounds that you still find challenging to … native speakers saying fear appear beard. This is very normal. And if you find it easier to pronounce it that way, then please do. But for me it's fear appear beer. Beard. Now a super difficult sound for so many students. H the sound. It's like an extended long schwa sound. The lips, tongue, and jaw are relaxed. H. This sound is found in words like word. world. Notice that the R is not pronounced there. World. Word. Try it in this sentence. It's certainly a learning journey. It's certainly a learning journey. Okay, let's move on to consonants. Let's bring this chart up again and go through … of modern receive pronunciation is the use of a long a sound here. Afternoon. It's that sound you make when you go to the dentist. A a hopefully you say ah and not talk about that another time. Now, many people in the north of England and in North America use a short a sound here like the a in apple. Afternoon. Afternoon. Listen to them together. Afternoon. Afternoon in northern English. Afternoon in American English. There were two other words in the text that are pronounced with the long R in modern RP. And a short a in many other accents. I say pass and faster, not pass and faster. … sound. Uh uh. We make this sound with the lips relaxed, not rounded. And my mouth opens wider. My jaw opens wider. H. A. Look. Luck. Look. Luck. In my accent, there is a clear difference between these two words. But many people from the north of England don't use the H sound much, if at all. And these two words often sound exactly the same. Look. Look. My wonderful pronunciation teacher Jane has a northern accent. I wonder if she will give me a little recording of her version of these two words. >> Look. Look. >> See, fairly similar. For some people, they are exactly the same. Here are … recipe. Try it yourself first and then you can compare it with my version. Pause the video now. Now speak along with me. Take the dough from the bowl and roll it on a lightly fled pizza stone. Open a jar of homemade tomato sauce and mix in some oregano or pesto if that floats your boat. Okay, now it's time for our third key ingredient, the O vowel sound as in topping. Now, in my accent, modern RP, this vowel sound is short and is made with an open mouth and rounded lips. O Let's practice. Listen and repeat. Olive. Orange stock chocolate sausage popcorn. Okay, ready for the next stage of the … So, I'm going to tell you about a trip I took to Bangkok last year. Listen and shadow me to practice if you like doing that. Pay special attention to words ending in ed. Last year, I visited Bangkok for the first time. I'd always wanted to visit Thailand and was delighted when the opportunity finally occurred. I asked friends who'd traveled there what I needed to take. I went totally over the top, and Will watched in horror as I packed half my wardrobe. We laughed out loud when Diego jumped in my suitcase, too, adding to the chaos. I continued getting ready and then we carried our cases … massage massages. Okay, so that covers when we add is. But how do we choose between the remaining two sounds s or z? Well, it's the same rule that we saw with the ed endings. We match voiced with voiced and unvoiced with unvoiced. Here are the words from my story which end with voiced sounds. So need to be matched with Z. Remember there is no extra syllable. We just blend the sounds together. Repeat the plural forms after me now to practice. Ready? Hundreds. ourselves, clothes, styles, days, and rose. The remaining unvoiced consonant sounds p- f and f add s. What about connected speech for … is on the first syllable. And finally, we have gorilla with three syllables stressed on the second syllable. Got it? Okay. So, now we know the difference between stressed and unstressed syllables. Let's get back to rhythm. Rhythm in music is the regular repetition of a pattern over a period of time. In language, rhythm is the regular repetition of stressed syllables. What does that sound like? Repeat after me as I read these sentences. I want to have a drink. She went to see her friend. We need to call our boss. They liked the gift I bought. Okay, not too difficult, I hope. In a … grammar was slick, her accent did click, and her lessons were simply a beauty. I would love to see your very own examples of limmericks in the comments. Bonus points if the last words in lines one, two, and five rhyme. Have a go. I really look forward to reading through them. Okay, that brings us to the end of today's lesson. I hope you enjoyed it. And remember, the rhythm of speech is the key to sounding more fluid. You see, with stress and the schwah, you'll go very far. Now use it to sound more RP. I very much enjoyed that lesson. I hope you did too. I will see you soon for another one. >>",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0272
+  "src": "auto"
  },
  "y0h3bgc7jZc": {
   "channel": "English with Lucy",
@@ -120327,7 +120647,7 @@
  "1sTNgmmL06Y": {
   "channel": "Easy British English",
   "lang": "en",
-  "checked": "2026-11-12T03:11:29+00:00",
+  "checked": "2026-11-25T00:59:16+00:00",
   "title": "Everyday Conversations with Strangers | Easy English 214",
   "duration": 1089,
   "published": "20251112",
@@ -120336,6 +120656,7 @@
   "pace": 185.8,
   "rare": 0.0207,
   "var": 0.7461,
+  "cl": 0.0341,
   "speech_s": 1061.7,
   "tokens": 3287,
   "kw": [
@@ -120492,16 +120813,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "little",
+    "Attitude-wise, probably a little bit different.",
+    154,
+    159,
+    5.75,
+    11
+   ],
+   [
+    "thank",
+    ">> I'm very good, thank you. How's it going",
+    38,
+    41,
+    5.48,
+    11
+   ],
+   [
+    "improve",
+    "practice or improve their English conversation skills to our online Zoom",
+    373,
+    382,
+    4.79,
+    5
+   ],
+   [
+    "snow",
+    "specifically would be snow leopards. I",
+    649,
+    653,
+    4.66,
+    4
+   ],
+   [
+    "hairs",
+    "who just is normally has like hairs in",
+    697,
+    701,
+    3.77,
+    3
+   ],
+   [
+    "pile",
+    "a pile of wood that you set fire to,",
+    865,
+    869,
+    4.14,
+    2
+   ],
+   [
+    "brutally",
+    "brutally executed. >> Wow, English culture is very strange.",
+    917,
+    926,
+    3.59,
+    1
+   ],
+   [
+    "passions",
+    ">> Oh, I have many passions, but I think",
+    724,
+    730,
+    3.58,
+    1
+   ],
+   [
+    "seaside",
+    "walking near the seaside because we just",
+    225,
+    231,
+    3.58,
+    1
+   ],
+   [
+    "wind's",
+    "is why I've got this bag, but the wind's",
+    75,
+    81,
+    2.14,
+    2
+   ],
+   [
+    "salami",
+    "get some salami and Italian pizza and",
+    992,
+    998,
+    2.88,
+    1
+   ]
+  ],
   "tx": "Hi everybody, welcome to a new episode of Easy English. So today we wanted to try something a bit new. Instead of talking about one subject specifically, we wanted to go out and just make general conversation with strangers on the streets. Hopefully, you'll get a really good sense of what it's like making genuine and real conversations in English. If this is a style that you personally would like to see more from us in the future, or you're a regular Easy English viewer that's not yet a subscriber, then quickly hit the button below and we'll get going with this week's subject. This is real … So, how you doing today? >> Good. I'm on holiday, so I'm excited about it. >> Oh wow, cool. >> Yeah. >> Uh how long is your holiday, and how long into your holiday are you? >> Uh this is my first day, and I'm actually here for like 3 days. >> Oh, great. In Brighton or the UK? >> In Brighton. Just visiting Brighton to just visit a friend. >> Right. Have you been to Brighton before? >> Years ago, yeah. I had a friend who lives was at university here, but I haven't been in I think 10 years. >> Okay. And what are you making of Brighton so far? >> So far, it's good. >> Okay. >> It's not raining. … 6 hours. >> Yeah, I remember. >> And they walking and just have the walking near the seaside because we just moving to Brighton. >> And how old are your kids? >> Uh 6 and 9. >> Well done. Hi. >> Hello. >> How are you doing? >> I'm good. How are you? >> Good, thank you. How's your day going so far? >> Uh good. I just left Sea Life Brighton and it was really nice. I got to see all the fishies and the sharks. It was really cool walking through the uh the sea tunnel and watching all the sharks fly like fly over even though they're not flying, they're swimming, but it was uh yeah, it was really … and it's very colorful. >> You know, because Zurich can be very uh how do you say that? It's a small people. Yeah, so they're a little bit >> We are really >> Before we carry on with this week's episode, I would personally just like to invite any of you that are looking to practice or improve their English conversation skills to our online Zoom conversation classes. Our conversation calls are for anyone who's looking to regularly practice speaking in English with me, Easy, and other conversation members. Our calls happen every Tuesday night on Zoom in our online themed pub. It's a relaxed … good in this pack. No. >> But that's not the point, right? >> No, it's not the it's not the point. It would have been nice if I could have got my favorite Pokémon, which is Greninja. Don't know if you've ever heard of it. >> Is that what you're on the hunt for? >> Yeah, or anything to do with that Pokémon, really. It's like It's like a frog. Kind of like a frog. Um it's like a blue frog. It looks awesome. But um do you have a favorite Pokémon? >> Uh you just made me think of Squirtle. >> Squirtle, yeah, yeah, yeah. Everyone Everyone loves the original Pokémon. >> Are you a fan of … care. I'm retiring by 40. No, I'm 43. >> Yeah. >> It didn't happen. >> What would >> Yet. >> Okay. >> Yet. Let's be positive. >> Yeah, yeah. >> Are you from Brighton? >> Uh no, we are from Ukraine. But before we live in London and it's we just moving this a first three days. >> Oh, wow. Okay, tell me which place is better, London or Brighton you think? >> Oh, I can't tell the same. It's It's so different place. It London it's a too much gallery and people and some I don't know. It's like a so expressive energy, but in Brighton is more slow living and the ocean is so different. It's like a … who just is normally has like hairs in your coffee every morning and stuff anyway. >> There's hairs everywhere. It's to the point where I just kind of like blur it out. I can't even see the hairs anymore. But like they'll pop back up in my vision right before I leave the house and I see like my leggings or my tights will be covered in cat hair and I'm like oops. Oh well. >> Yeah, I understand. I have a dog and I'm exactly the same. Like I'm constantly dusting myself now. >> So what would be the dream scenario then would you have retired at 40? What would you going to do then? Do you have a … And are you going to have some English food or you going to dine out somewhere else? >> We will see, I guess. >> Do you like English food? Have you tried English food? >> We haven't tried English food yet. >> Okay. >> But we we have we ate a lot of Asian food. >> Yes. >> Yeah. >> good Chinese and >> Yeah, have you tried any Indian food here? Like in England is obviously quite well known for its Indian cuisine. >> Yeah, we actually just >> So, yeah. >> restaurant around the corner and they serve Indian food. >> Yeah. >> Yeah, maybe try it in the evening. >> How long are you working for … in Italy. >> Oh, really? Wow. >> And unusually, they've got a midweek game this week, so I'll be tuning into that at 5:00. >> Wow, is that who got you into basketball then? >> No, no. Me and his mother were muckers when we were both playing for Sheffield 30, 35 years ago. >> Wow. >> And it's my friend's son, so he's been brought up very much in the heart of the basketball family. But he's >> But he's in Italy now. >> He went over as a 16-year-old um as a as a professional. So, he has Italian papers and plays as an Italian in the Italian league. But still gets to play for GB … evening. Nice speaking to you. >> Thank you. >> Enjoy your time in Brighton. >> Thank you. Thank you. You too. >> Hope you have a nice evening. >> You too. >> Nice to meet you. >> Yeah, it was really nice talking to you. >> Have a lovely one, yeah. >> Thank you. >> Thank you for watching this week's episode. How did you like it? Please let us know in the comments below. Were people speaking too quickly? Were people making too many mistakes? Would you like to see more specific based topics that I'm asking them? Let us know in the comments below. And as always, we'll see you next time. Ta-ta.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0334
+  "src": "auto"
  },
  "9iLcj6kfn_0": {
   "channel": "Easy British English",
   "lang": "en",
-  "checked": "2026-11-12T03:11:33+00:00",
+  "checked": "2026-11-25T00:59:20+00:00",
   "title": "Learn 50 English Words and Their Opposites | Super Easy English 30",
   "duration": 631,
   "published": "20251030",
@@ -120510,6 +120920,7 @@
   "pace": 123.1,
   "rare": 0.0506,
   "var": 0.7582,
+  "cl": 0.0324,
   "speech_s": 616.1,
   "tokens": 1264,
   "kw": [
@@ -120658,11 +121069,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "easy",
+    "Hi everybody. Welcome to Easy English.",
+    0,
+    5,
+    5.29,
+    10
+   ],
+   [
+    "words",
+    "antonyms or the opposites of words. Even",
+    5,
+    11,
+    5.25,
+    8
+   ],
+   [
+    "fiction",
+    "Fiction. Typical.",
+    46,
+    53,
+    4.44,
+    3
+   ],
+   [
+    "pleased",
+    "Happy, meaning feeling good or pleased,",
+    85,
+    92,
+    4.44,
+    3
+   ],
+   [
+    "verbal",
+    "Verbal, using words, becomes non-verbal, without words, only gestures, like what",
+    496,
+    506,
+    3.91,
+    2
+   ],
+   [
+    "quiz",
+    "quiz. Not sure if this video is for you,",
+    31,
+    37,
+    3.82,
+    2
+   ],
+   [
+    "uneven",
+    "usual, becomes irregular, uneven or unusual.",
+    200,
+    210,
+    3.55,
+    2
+   ],
+   [
+    "existent",
+    "Existent, meaning real or present, becomes non-existent, which is something",
+    458,
+    466,
+    3.51,
+    2
+   ],
+   [
+    "unkind",
+    "unkind, rude or harsh. Known, meaning",
+    94,
+    103,
+    2.99,
+    1
+   ],
+   [
+    "autumnal",
+    "to get going again in these autumnal",
+    286,
+    292,
+    2.76,
+    1
+   ],
+   [
+    "disagreeable",
+    "disagreeable, they are unpleasant. Satisfied, being content or pleased,",
+    423,
+    432,
+    2.73,
+    1
+   ],
+   [
+    "prefixes",
+    "prefixes can actually help you make",
+    64,
+    69,
+    2.7,
+    1
+   ]
+  ],
   "tx": "Hi everybody. Welcome to Easy English. So, today we're going to be discussing antonyms or the opposites of words. Even people with professional English skills sometimes get confused about which prefix to insert at the beginning to make a word the opposite. Easy, for example, loves complicated English words, but even she isn't sure about which prefix fits. But don't worry. Today we'll focus on easy, everyday words to get you started. Quick quiz. Not sure if this video is for you, then let's see if you know the antonyms or opposites for the following words. Happy. Correct. Honest. Fiction. … episode, if you're a regular viewer of Easy English, but you're not yet a subscriber, then it would really mean the world for us if you would just quickly click the subscribe button below and we'll get started on everyday antonyms. The prefix un. Happy, meaning feeling good or pleased, becomes unhappy, not happy or sad. Kind, meaning nice and caring, becomes unkind, rude or harsh. Known, meaning familiar or recognized, becomes unknown, not known or unfamiliar. Safe, meaning free from danger, becomes unsafe, dangerous or risky. Tidy, meaning neat and organized, becomes untidy, messy or … awkward or not relaxed. Clear, meaning easy to understand, hopefully like me, becomes unclear, confusing or hard to understand. Certain, meaning sure or definite, becomes uncertain, meaning not sure or doubtful. Friendly, meaning kind and pleasant, I hope like me, becomes unfriendly, not friendly or even hostile. And willing, meaning ready or happy to do something, becomes unwilling, which is not willing or reluctant. The next section is the prefix in. Now, there are some variations depending on the first letter of the word. For example, correct, meaning right or accurate, … meaning even or stable, becomes imbalanced, uneven or unstable. Responsible, meaning reliable or accountable, becomes irresponsible, meaning careless. Legal, meaning something allowed by law, becomes illegal, which is against the law. Possible, meaning something is able to happen, can become impossible, which can't happen. Patient, meaning able to wait calmly, becomes impatient, not calm, restless. Uh polite, showing good manners, can become impolite, meaning rude. Uh relevant, connected to the matter, uh can become irrelevant, not connected or off-topic. Credible, meaning believable or … I just want to quickly ask you that if you're someone who's looking to improve their English and take their English to the next level, or maybe you've even hit a wall with your English, and you need the extra impetus to get going again in these autumnal cold months, then I would personally love to ask you to check out our Easy English membership. There are three tiers of our Easy English membership, and if you're someone who's looking to learn with this episode, for example, then you should check out our learner membership. It's a place where we supply you with learning material for all of … video downloads, audio downloads, or what I have here, our worksheets. Our worksheets take from the transcripts for each episode and apply it into small vocabulary tests, asking you to fill in the blanks. We also have a British slang vocabulary section, also asking you to fill in the blanks with various phrases and slang words that are commonly used in the English language. And then at the end, we have a fun odd ones out game testing your cultural knowledge of the UK and the British Isles. So, if you're someone who's looking to take their English to that next level and really feel like you … is dis. For example, agree to have the same opinion can become disagree, to have a completely different opinion. Like, to enjoy or find pleasant can become dislike, to not enjoy. Honest, meaning truthful, becomes dishonest, which is not truthful. Appear, to be seen, becomes disappear, to vanish. Connect, to join or link, becomes disconnect, to separate. Approve, to accept or agree, becomes disapprove, to say no to something. Order, arrangement or command, becomes disorder, a mess or a confusion. Uh agreeable is someone who's pleasant and easy to accept. If someone is then disagreeable, … or gain, can become disadvantage, not beneficial at all or negative. So, the prefix of non, for example, fiction, a made-up story, becomes non-fiction, a factual writing. Existent, meaning real or present, becomes non-existent, which is something that does not exist. Smoker, someone who smokes cigarettes, becomes a non-smoker, someone who doesn't smoke. Violent, using physical force on something, becomes non-violent, peaceful. Stop, to end an action, is non-stop, which is something which is continuously doing something. Uh sense, uh meaning or perception, becomes nonsense, no meaning, … gain. Toxic, meaning poisonous, becomes non-toxic, safe, not poisonous. Essential, meaning necessary, becomes non-essential, not necessary. Compliant, meaning something or someone that follows rules, becomes non-compliant, not following the rules. Are you still with me? So, the prefix of A or AN, for example, moral, someone who has concerns about what is right and what is wrong, becomes amoral, someone who has no concept of right or wrong. Typical, something that is usual or expected, becomes atypical, not typical or not normal. Theist, someone who believes in God, becomes an atheist, … unbalanced. There you go, there's a rundown of all 50. So, why don't you try to go back to the beginning of the video and see if you can now say the correct opposite of all 10 quiz words correctly. And if you can, you've officially mastered prefix antonyms. Lastly, thank you for watching this video. We hope you enjoyed this uh return of Super Easy English. Please don't forget to like the video and subscribe below. And if you're interested in learning and improving your English with us, then perhaps you'd take a look at our membership. And as always, we'll see you next time. Ta-ta.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.038
+  "src": "auto"
  },
  "lKgAs7DXe9o": {
   "channel": "Miss Jean Teaches",
@@ -125737,7 +126245,7 @@
  "51eFaLOX1vY": {
   "channel": "Miss Jean Teaches",
   "lang": "en",
-  "checked": "2026-11-12T04:53:13+00:00",
+  "checked": "2026-11-25T01:02:59+00:00",
   "title": "🙏🏻 Are you saying \"thank you\" like a native speaker? | B2-C2 English Podcast",
   "duration": 774,
   "published": "20250218",
@@ -125746,6 +126254,7 @@
   "pace": 95.2,
   "rare": 0.0141,
   "var": 0.748,
+  "cl": 0.0343,
   "speech_s": 717.4,
   "tokens": 1138,
   "kw": [
@@ -125870,11 +126379,100 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "nice",
+    "“Have a nice day!” or “Enjoy your meal” or “Here’s your change.”",
+    227,
+    237,
+    5.37,
+    5
+   ],
+   [
+    "example",
+    "It’s full of key vocabulary, definitions, example sentences,",
+    47,
+    53,
+    5.27,
+    5
+   ],
+   [
+    "casual",
+    "Let’s start with the basic progression: from casual to formal. And",
+    107,
+    117,
+    4.23,
+    7
+   ],
+   [
+    "express",
+    "so you can express yourself with confidence. If you want to follow along with today’s episode,",
+    35,
+    43,
+    4.68,
+    6
+   ],
+   [
+    "expressions",
+    "native speakers very often chain multiple expressions.",
+    689,
+    696,
+    3.92,
+    2
+   ],
+   [
+    "gosh",
+    "It’s not a favor; it’s just nice, so I would say, “Oh my gosh, this is great! I appreciate you.”",
+    507,
+    518,
+    3.9,
+    2
+   ],
+   [
+    "thanking",
+    "(Appreciate is a good word to use when you’re thanking someone in general.)",
+    553,
+    560,
+    3.52,
+    1
+   ],
+   [
+    "learners",
+    "helping intermediate and advanced learners move beyond textbook phrases",
+    30,
+    36,
+    3.48,
+    1
+   ],
+   [
+    "barista",
+    "To the barista, you can say, “Thanks!” before you pick up your drink",
+    210,
+    219,
+    3.02,
+    1
+   ],
+   [
+    "chaining",
+    "try chaining multiple expressions of thanks together.",
+    720,
+    726,
+    2.6,
+    1
+   ],
+   [
+    "tiktok",
+    "you might have seen videos on YouTube or TikTok or Instagram saying something like",
+    71,
+    81,
+    2.46,
+    1
+   ]
+  ],
   "tx": "Hello, hello! Welcome to English Extras! I’m Jean, your guide to making your English sound natural and authentic. This podcast is all about helping intermediate and advanced learners move beyond textbook phrases so you can express yourself with confidence. If you want to follow along with today’s episode, I put a link to the transcript in the description for you. It’s full of key vocabulary, definitions, example sentences, as well as additional resources to help you take your learning to the next level. The best part? It’s totally free. Ready? Let’s learn some English. If you have been … you might have seen videos on YouTube or TikTok or Instagram saying something like “Don’t say ‘thank you’ in English!” or “Native speakers don’t say ‘thank you’!” I’m here to tell you a few things: yes, you should say ‘thank you’ in English; yes, native speakers do say ‘thank you’; and yes, there are different ways to say it. Let’s start with the basic progression: from casual to formal. And after I introduce these, I’ll tell you when to use them. If we take “thank you” as a standard, then to the more casual side, we have “thanks.” Thanks. Returning to “thank you” as a standard, to the … “Thank you very much” or “Thank you so much.” And then on the formal side, we have “I appreciate your help.” The thing to remember is: the longer the phrase is, the more formal or sincere it usually is. The shorter the phrase is, the more casual it is. But when can we use these different phrases? Let’s start with more casual. Casual situations would be: ordering at a cafe or coffee shop. You place an order for a coffee, they call your name, your order is ready, you go pick it up. To the barista, you can say, “Thanks!” before you pick up your drink and move on with your day. You can also … to you, “Have a nice day!” or “Enjoy your meal” or “Here’s your change.” In casual situations, you can also say “Thank you.” That is absolutely acceptable. Now let’s say you’re at work and your coworker just helped you in some way. Maybe they helped you finish a presentation or they gave you notes on a project you’re working on. You can say, “I appreciate this” or “I really appreciate this” or even “You’re a lifesaver.” “You’re a lifesaver” is a good expression to use when someone does you a favor: this can be a coworker or a friend. “You’re a lifesaver.” But let’s say one of your … favor for you. For example, they took care of your dog while you were traveling. In a situation like that, you can say, “Thank you so much for taking care of my dog.” Or, because it’s a favor, you might want to then return the favor one day. In that case, you can say, “I owe you one.” “I owe you one” means you want to do a favor in return one day. This, of course, is not required, but if someone did you a big favor and you want to return it, it’s a good expression to use. “I owe you one.” If it’s a big favor, then you can say “I owe you big time.” You can also add, “You’re the best!” This is … I’m going to tell you my favorite one to use: “I appreciate you.” Apparently, this phrase is becoming more common in the US in general. But I grew up in the southern part of the US, and the expression we used was a variation of this expression: “‘preciate it.” Notice what’s happening here. The first “a” sound from “appreciate” is dropped, so it’s just “preciate.” The “I” is dropped entirely, like it never existed. So the phrase becomes “‘preciate it.” In the South, it’s common to use this like “thanks.” It’s more casual, friendly, and warm. But the core phrase–I appreciate you–is also … to use with friends when they do something nice for you, either a favor or just say something nice. For example, if one of my friends brings a little sweet treat to our regular game night, that’s a nice thing to do. It’s not a favor; it’s just nice, so I would say, “Oh my gosh, this is great! I appreciate you.” Now let’s say you’re in a very formal situation or you want to be formal, even if the situation doesn’t call for it. For example, you did an interview for a new job and you want to send a follow-up email. You could use a phrase like, “I sincerely appreciate you taking the time to … is a good word to use when you’re thanking someone in general.) Here, the “sincerely” is what makes it more formal. But what if you need to give a speech in English? And in the speech, you want to thank some people or an organization? In that case, you could try a phrase like, “I would like to express my heartfelt gratitude.” Remember what I said about the longer it is, the more formal it is? Well, this is a long sentence, so that combined with the “I would like” and “heartfelt gratitude” and “express”? Very formal. Now, before we finish, I want to share with you the secret sauce … like a native speaker. If you’ve listened to my podcast for a while, you know I say this often: tone matters. Tone matters more than words. Tone is an extra layer of very important information that cannot be ignored. You can say the most formal sentence and sound awful if you’re using a flat, bored tone, like this: “I would like to express my heartfelt gratitude.” See what I mean? So be aware of your tone. Be aware of your face. Are you smiling? Smiling is important. A Americans smile a lot–I’ve heard other countries think this about Americans. One final tip before we go: native speakers … expressions. Think of chains–a series of links connecting together. So taking myself as an example, I very often say things like, “Oh my gosh, you’re a lifesaver. I appreciate you” or “This is amazing! Thank you so much. I owe you one.” So, depending on the conversation, try chaining multiple expressions of thanks together. So there you have it! Various ways native speakers express their thanks to friends, family, strangers, and colleagues. What about you? What are the different ways you can express thanks in your language? As always, thank you so much for watching! Until next time! Bye!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0338
+  "src": "cc"
  },
  "7GiTGdcshms": {
   "channel": "Easy English",
@@ -128711,7 +129309,7 @@
  "b0oxCf178HI": {
   "channel": "Rachel's English",
   "lang": "en",
-  "checked": "2026-11-12T05:02:56+00:00",
+  "checked": "2026-11-25T01:14:18+00:00",
   "title": "REAL English Conversation | FAST English!",
   "duration": 682,
   "published": "20240730",
@@ -128720,6 +129318,7 @@
   "pace": 169.4,
   "rare": 0.0323,
   "var": 0.7693,
+  "cl": 0.0301,
   "speech_s": 647.9,
   "tokens": 1829,
   "kw": [
@@ -128876,11 +129475,100 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "million",
+    "I took everything I brought, and I woke up today feeling like a million bucks.",
+    393,
+    399,
+    5.33,
+    7
+   ],
+   [
+    "yeah",
+    "Rainy day for this lunch and just it was kind of random that we got him there but yeah,",
+    68,
+    74,
+    5.37,
+    6
+   ],
+   [
+    "stomach",
+    "stomach ache. I had told my friend I would go to the gym with her and I wanted to go. So we went,",
+    204,
+    210,
+    4.42,
+    4
+   ],
+   [
+    "terrible",
+    "I throw up, I felt terrible.",
+    18,
+    22,
+    4.71,
+    3
+   ],
+   [
+    "yelled",
+    "who works there was about 20 feet away from me and I said, ‘Por favor!’ I just yelled at him.",
+    252,
+    259,
+    3.76,
+    4
+   ],
+   [
+    "bust",
+    "this did some but the rest of the day was kind of a bust for me. If something's a bust that",
+    568,
+    574,
+    4.04,
+    2
+   ],
+   [
+    "cardio",
+    "I felt terrible. So my friend at this point was on a machine doing some cardio. Cardio is short for",
+    223,
+    231,
+    3.44,
+    2
+   ],
+   [
+    "ache",
+    "stomach ache. I had told my friend I would go to the gym with her and I wanted to go. So we went,",
+    204,
+    210,
+    3.43,
+    2
+   ],
+   [
+    "idiom",
+    "We now use the phrase ‘to put someone through the wringer’ as an idiom to mean to put someone",
+    380,
+    387,
+    2.97,
+    1
+   ],
+   [
+    "rachel's",
+    "I just love being your English teacher that's it and thanks so much for using Rachel's English.",
+    674,
+    682,
+    2.91,
+    1
+   ],
+   [
+    "chorizo",
+    "meat is going into your meat version? Chicken, chorizo, shrimp, that's it.",
+    606,
+    612,
+    2.77,
+    1
+   ]
+  ],
   "tx": "I'm the worst right now. Sometimes life does that. Let's study real English conversation on a trip to Spain. As with any trip, not everything went well. I throw up, I felt terrible. But overall, I had a great time traveling with my husband. I feel like I have this energy that I need to get out and I don't know how to do it and it might be like punching you. During our trip to Valencia. Just going to go walk up the tower, is that what, Torres? Yes. Yes. This trip is a good opportunity for me to practice some Spanish. Got them. Them and him sound the same when they're reduced. Got them could … one person offered me three cents and I got them up to three and a half. I even knew at a seven-year-old age that I could actually get a fractional percent of a cent. Climbed into this little tire like on like a cattle guard grate and was like hiding from the wind. And he was still nursing when I got him and so when I first got him I was like trying to like I was like I just didn't know what to do and we didn't obviously have dog food with us or anything. Okay, let's test your listening comprehension. I'm speaking pretty quickly here what kind of a building is it? So the one with the … ‘mas o menos’. More or less in English. Steve answered roughly. Roughly in this case means approximately. Roughly an hour for example or that's roughly the idea or you could just describe something to someone and then say, ‘this should give you a rough idea.’ Roughly an hour, roughly the idea. Maybe not exactly the same idea that I had but close to it. This surface is pretty rough. Also, Steve said it's roughly $10 a day to rent a bike. Rough is the opposite of smooth. We already saw how roughly means approximately. It can also mean to do something with harshness. He roughly threw the dog … like plank, in Spanish is ‘plancha’. The whole time I had a stomach ache but I didn't feel terrible. Then after the workout, I felt terrible. So my friend at this point was on a machine doing some cardio. Cardio is short for cardiovascular exercise like running, biking and so on. Anything that gets your heart rate up and isn't about strength training specifically. And I I wasn't sure what to do. I couldn't tell what direction this was heading. So I just sat down on the gym floor, and then it became pretty clear that it was heading not in a good direction. So the guy who works there was … I need to leave. So he went and got Christa, and Christa said she came up to me, I'm sitting on the floor and she said I was white as a sheet. White as a sheet is what we say when someone looks very pale like from being sick or from being shocked or scared about something. She was like, ‘Oh wow okay we're here.’ So they helped me up they get me out of the gym, I sit down on the sidewalk and within about 5 seconds I puked. I throw up, I vomit. Puke, throw up, vomit, all mean the same thing. Barf would be another way to say this or upchuck. Um, yeah, that was embarrassing. The guy from … lay down. I'm thinking maybe I'm past it. Maybe I'm through the worst of it but no. I didn't leave this bed until noon today. I was not done being sick. I had cold sweats, hot flashes, I had goosebumps and then like dripping sweat. At one point, I felt like every muscle and bone in my body was aching. I felt like I'd been put through a wringer. A wringer is an old tool used in doing laundry to dry clothes. Very old-fashioned, not used anymore. But this is what my body felt like. Like it had been crushed, put through the wringer. We now use the phrase ‘to put someone through the wringer’ as … hear is I feel like a million bucks. You can also compliment someone by saying they look like a million bucks. You look like a million bucks today. Okay, not quite a million but I feel much better. So, I've lost a day of vacation, no big deal it's sunny here in Valencia, I have no idea what we're going to do today but I'm ready for it. Let me show you the view from the window. Perfect temperature 70 degrees, full sun. It's going to be a great day. Well, it was an okay day, but that night wasn't great. The next day I went on a walk with David to try to improve my mood. How are you enjoying … asleep, I was like, I'll take another one and then I'll definitely be asleep in like a half hour. Another. I never slept. I never slept. I honestly don't know if there have been any nights in my life like that where I've slept zero minutes. And I'm going to be honest I'm starting to get a little annoyed with everything. So anyway I'm just annoyed at everything right now. It's true she's annoyed. Okay, what's a good way to get un annoyed? Think about things that are exciting and that I should be lucky for. There's a lot of that I just don't feel excited or lucky for any of it right now, even … my mood and this did some but the rest of the day was kind of a bust for me. If something's a bust that means it didn't go well, didn't turn out as planned. Luckily, I did get a normal night of sleep that night. The next day, we went to Central Market to get some groceries for dinner. Ahora mi esposo va preparer la cena. Yo bebo un poquito de cava. In English it's more common to say make dinner than cook dinner. David is making dinner he's making paella, a vegetarian version and a meaty version. What meat is going into your meat version? Chicken, chorizo, shrimp, that's it. Okay. And … one. I said I went for the vegetarian paella. ‘I went for’ is just another way to say ‘I chose’. I chose the vegetarian paella. David you did an excellent job with this meal. At the very end of the trip, we did maybe my favorite thing which was a bike ride along the . We had a great time in Spain visiting friends and I want to thank you so much for watching this video and learning English with me. Keep your learning going now with this video and don't forget to subscribe with notifications on, I just love being your English teacher that's it and thanks so much for using Rachel's English.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0312
+  "src": "cc"
  },
  "vgpkSmgHUI8": {
   "channel": "EnglishSponge",
@@ -129899,7 +130587,7 @@
  "J9yXJIFsz6A": {
   "channel": "Miss Jean Teaches",
   "lang": "en",
-  "checked": "2026-11-12T06:11:42+00:00",
+  "checked": "2026-11-25T01:03:11+00:00",
   "title": "What is my favorite game? | Everyday English B1 SLOW ENGLISH listening practice",
   "duration": 484,
   "published": "20250206",
@@ -129908,6 +130596,7 @@
   "pace": 85.5,
   "rare": 0.0257,
   "var": 0.7088,
+  "cl": 0.0347,
   "speech_s": 464.6,
   "tokens": 662,
   "kw": [
@@ -130016,16 +130705,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "five",
+    "Five One set of 1 thru 5",
+    181,
+    185,
+    5.45,
+    5
+   ],
+   [
+    "worst",
+    "This game is called First to Worst.",
+    40,
+    45,
+    4.93,
+    5
+   ],
+   [
+    "answers",
+    "The number of perfect answers, everyone gets one point.",
+    287,
+    297,
+    4.6,
+    3
+   ],
+   [
+    "anime",
+    "Anime Birthdays for pets",
+    309,
+    313,
+    4.26,
+    3
+   ],
+   [
+    "soda",
+    "this one says “soda” Then there are two sets of cards that read 1 through 5",
+    165,
+    176,
+    4.04,
+    1
+   ],
+   [
+    "pad",
+    "We also have a score sheet or score pad.",
+    137,
+    147,
+    4.01,
+    1
+   ],
+   [
+    "roller",
+    "I prefer walking or maybe roller skating.",
+    373,
+    380,
+    3.99,
+    1
+   ],
+   [
+    "puzzles",
+    "But games that are more like puzzles…",
+    19,
+    25,
+    3.55,
+    1
+   ],
+   [
+    "podcasts",
+    "podcasts How would you rank these?",
+    456,
+    461,
+    3.48,
+    1
+   ],
+   [
+    "cat’s",
+    "or my cat’s birthday, I always say “happy birthday”",
+    397,
+    403,
+    3.35,
+    1
+   ],
+   [
+    "guesses",
+    "Then everyone puts their guesses face up next to each topic.",
+    271,
+    279,
+    3.21,
+    1
+   ]
+  ],
   "tx": "I love games! I especially love games that make me think— But not too much! Games like Risk that are super long and have lots of strategy… I don’t like that much. But games that are more like puzzles… Those I like! Let me show you one of them. This game is called First to Worst. “The party game about how your friends and family rank things.” The purpose of this game is to discover how well you know your friends, if you know them very well or not at all. How would they rank things? To rank something means to put something in an order, usually from best to worst. “First” means “number one” and “worst” means bad bad bad. Let’s take a look. Here is the box. On one side, we can see “ages 8+” and we would usually read this as 8 and up. 8 and up. This we would read as two or more players. And about 30 minutes of game time. I open the box and inside we have instructions about how to play the game. We also have a score sheet or score pad. This is where we can keep track of how many points people have. Then we have the cards. All of these cards have topics on them. So this one says “french fries” this one says “soda” Then there are two sets of cards that read 1 through 5 One Two Three Four Five One set of 1 thru 5 Another set of 1 thru 5 Two sets of 1 thru 5 cards What do we do with all these cards? Well. I’ll explain. At the beginning of the game, five cards are put on the table. One person is the ranker, meaning the person who ranks. The ranker reads the cards and thinks about how they would rank these topics, from best to worst. So they think, which one is number one? Which one is number five? And where are the ones in the middle? The ranker decides, then puts the numbers face down next to the correct topic. Everyone else can’t see the number. Everyone else needs to guess: Which one is the ranker’s number one? Which one is the ranker's number two? Etc. etc. Everyone decides together. The ranker says nothing. Then everyone puts their guesses face up next to each topic. Then the ranker shows each correct answer. The number of perfect answers, everyone gets one point. The number of incorrect answers, the game gets a point. Do you wanna try it? Let’s look at five topics. Money Anime Birthdays for pets Running Chihuahuas I'm going to rank these topics Hmm... Okay. Which one do you think is my number 1? Which one do you think is my number 5? Which ones do you think are my number 2, 3, and 4? Here are my answers. Number 5: chihuahuas. I just don’t like small dogs! You see my dog—he’s huge! I don’t like really small dogs. Sorry. Number 4: running. Running is not my thing. I do not enjoy it at all. I prefer walking or maybe roller skating. Number 3: birthdays for pets. I don’t hate this. I don’t celebrate my pets’ birthdays in a big way but I do know my pets’ birthdays and when it is my dog’s birthday or my cat’s birthday, I always say “happy birthday” And maybe they get a treat. But that’s it. Number 2: anime. I really like anime! I don’t watch it a lot but I think it’s a really beautiful art style. And Avatar: The Last Airbender is my favorite TV show. So my number 1: money. I like money, obviously. Everyone needs money to survive in today’s world. If I don’t have money, I can’t live. So money is definitely number 1. So that’s the game First to Worst. Before we go, let’s draw five more topics. We have... chocolate public transportation cats funny t-shirts, and podcasts How would you rank these? What’s your number 1, 2, 3, 4, and 5? Let me know in the comments. Thanks for watching. Until next time! Bye!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0347
+  "src": "cc"
  },
  "gTxCRjUaXo0": {
   "channel": "Miss Jean Teaches",
   "lang": "en",
-  "checked": "2026-11-12T06:11:45+00:00",
+  "checked": "2026-11-25T01:03:15+00:00",
   "title": "💕 Babe, Bro, Buddy: Explaining Affectionate Terms | B2-C2 English Podcast",
   "duration": 739,
   "published": "20250204",
@@ -130034,6 +130812,7 @@
   "pace": 106.2,
   "rare": 0.0142,
   "var": 0.7761,
+  "cl": 0.0403,
   "speech_s": 715.6,
   "tokens": 1267,
   "kw": [
@@ -130158,11 +130937,100 @@
     10
    ]
   ],
+  "kx": [
+   [
+    "baby",
+    "Or, if she’s Black, she might call you baby. So, if you’re ordering at a restaurant",
+    270,
+    279,
+    5.26,
+    8
+   ],
+   [
+    "friend",
+    "If you’re a man and talking to an American friend who is also a man,",
+    426,
+    433,
+    5.37,
+    7
+   ],
+   [
+    "honey",
+    "Hon is short for honey, and it’s very common in situations",
+    245,
+    254,
+    4.37,
+    4
+   ],
+   [
+    "teachers",
+    "like with your colleagues, boss, or even your teachers.",
+    144,
+    151,
+    4.74,
+    3
+   ],
+   [
+    "transcript",
+    "I put a link to the transcript in the description for you.",
+    41,
+    46,
+    3.7,
+    2
+   ],
+   [
+    "podcast",
+    "English sound natural and authentic. This podcast is all about helping",
+    24,
+    32,
+    4.15,
+    1
+   ],
+   [
+    "contexts",
+    "and you’re not really going to hear them outside of romantic contexts",
+    618,
+    624,
+    3.58,
+    1
+   ],
+   [
+    "learners",
+    "intermediate and advanced learners move beyond textbook phrases so",
+    31,
+    37,
+    3.48,
+    1
+   ],
+   [
+    "affectionate",
+    "endearment among couples is babe or baby. These are casual and affectionate,",
+    608,
+    619,
+    3.35,
+    1
+   ],
+   [
+    "stepfather",
+    "stepfather-in-law call each other my love, for example.",
+    672,
+    679,
+    3.24,
+    1
+   ],
+   [
+    "darlin",
+    "Because I am from Kentucky, I call all my friends–men and women–darlin’",
+    513,
+    523,
+    2.88,
+    1
+   ]
+  ],
   "tx": "Hello, hello! Welcome to English Extras! I’m Jean, your guide to making your English sound natural and authentic. This podcast is all about helping intermediate and advanced learners move beyond textbook phrases so you can express yourself with confidence. If you want to follow along with today’s episode, I put a link to the transcript in the description for you. It’s full of key vocabulary, definitions, example sentences, as well as additional resources to help you take your learning to the next level. Ready? Let’s get started! Today, we’re talking about terms of endearment. Term means word, … show someone you care about them. The correct terms to use depends on the situation: the terms you use with your family are probably not okay with strangers or your boss. So, in this episode, I’m going to focus on three categories: service interactions, friends, and romantic relationships. I will also note which terms are appropriate for which situations and whether they are considered outdated. Let’s start with service interactions. What I mean by “service interactions” is people you would talk to in a restaurant or a store–because they provide a service to you–or in other professional … or a company where English is the common language. Generally speaking, for professional relationships–with your boss or colleagues– you shouldn’t use terms of endearment. This is also true for your teachers. Your boss or teachers may use a term of endearment with you, but it’s probably best not to return that endearment to them. Think about the power dynamic in that situation: there are certain things your boss or teacher can say to you, but you can’t say to your boss or teacher. Specifically in situations like restaurants, there are some differences. Let’s say you’re in a restaurant … we call it “the South.”) In this practice example, your server is a white, middle-aged woman. Because she’s older, because she’s a white woman, and because she’s from the South, she will likely call you hon. Hon is short for honey, and it’s very common in situations like the one I just described. It’s a very casual way to be warm and friendly toward customers; it doesn’t have a meaning deeper than that. There’s a possibility she might call you sweetie. Or, if she’s Black, she might call you baby. So, if you’re ordering at a restaurant in the South, you might hear this: “What can I get for … to be very common for older people talking to younger people. Hon, honey, sweetie, and baby are all terms you might hear from women in the service industry, especially in places like restaurants. I’m not sure why this is: it’s a common part of the Southern culture in America, so in places like Georgia, Alabama, Louisiana, Mississippi, North and South Carolina, Tennessee, and my home state, Kentucky. These won’t be the only places you hear these terms, but the chances are higher in these states. There are regional differences, of course. For example, I live in South Florida. When I moved … you hon or baby in a restaurant. Does that mean you say hon or baby back to them? No. I do not recommend that at all. If you’re talking to a woman, call her ma’am; if you’re talking to a man, call him sir, especially if they are older than you. You don't have to call them anything if they are younger or around the same age. Why is it like this? That’s just how it is. But these rules are different if you’re talking to your friends. The rules are relaxed, more flexible, and less strict. Let’s say you make some American friends. What can you call them? If you’re a man and talking to an American … can say, “Dude, wanna grab lunch tomorrow?” or “Wanna grab lunch tomorrow, bro?” I think dude is more casual, and bro is for closer friendships. But that’s just my opinion. If you’re a woman and you’re talking to an American friend who is also a woman, and you’re close friends, I recommend trying fam. For example, if you do your close friend a favor and she says, “Oh my gosh, thank you, you’re the best,” you can answer, “Anything for you, fam.” In my close friend group, which is mostly women, we simply use the term friend. For example, texting each other with, “Hey friend! Wanna chat … dropping the final g sound is a very Southern thing to do. Between men and women, dude is acceptable. Even though dude technically means a man, women use it with other women, and men can use it with women. Remember, it is very casual, so use it in a very casual situation. But what about children? Are there different words to use with children? Yes, there are. It depends on how well you know the child. If you know the child well, and he’s a young boy, you can use buddy. Pal is also an option, but I don’t really recommend that one, to be honest. It’s old-fashioned. If you know the child well … boyfriend or girlfriend, what do you call them? Probably the most common term of endearment among couples is babe or baby. These are casual and affectionate, and you’re not really going to hear them outside of romantic contexts –except baby, which you might hear from some older women. Babe seems pretty solidly in the romantic category most of the time. You might also use honey. In my opinion, this is especially common with married couples, especially if they’re a little older, but it depends. At the end of the day, the terms of endearment you use with your romantic partner will depend on … mother-in-law and stepfather-in-law call each other my love, for example. So, if you start a relationship with an American man or woman, just ask what they prefer to be called. Everyone has a preference. I know terms of endearment in some other languages, like mi amor in Spanish and mon cœur in French, but I don’t really know many others, so let me know in the comments what some common terms of endearment are in your native language. As always, thanks for listening, and don’t forget to check out the transcript in the description to help you make the most of this episode! Until next time! Bye!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0387
+  "src": "cc"
  },
  "iGtqrMv-B_g": {
   "channel": "Miss Jean Teaches",
@@ -130427,7 +131295,7 @@
  "DMxTPcFCvIQ": {
   "channel": "Easy English",
   "lang": "en",
-  "checked": "2026-11-12T06:14:37+00:00",
+  "checked": "2026-11-25T01:06:42+00:00",
   "title": "Popular English Conversation Topics",
   "duration": 1557,
   "published": "20221219",
@@ -130436,6 +131304,7 @@
   "pace": 113.6,
   "rare": 0.0171,
   "var": 0.7921,
+  "cl": 0.0234,
   "speech_s": 1514.7,
   "tokens": 2869,
   "kw": [
@@ -130592,16 +131461,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "i'd",
+    "oversized I think I'd prefer a smaller",
+    415,
+    420,
+    5.36,
+    12
+   ],
+   [
+    "sure",
+    "I see I'm sure your sister would love",
+    395,
+    402,
+    5.67,
+    11
+   ],
+   [
+    "museum",
+    "I'm looking for the Museum of Fine Art",
+    894,
+    901,
+    4.71,
+    4
+   ],
+   [
+    "loan",
+    "hello I would like to apply for a loan",
+    1483,
+    1491,
+    4.68,
+    4
+   ],
+   [
+    "potatoes",
+    "beans and mashed potatoes and side salad",
+    709,
+    716,
+    4.09,
+    3
+   ],
+   [
+    "o'clock",
+    "at 11 o'clock but each bed has a bedside",
+    119,
+    126,
+    4.04,
+    3
+   ],
+   [
+    "drip",
+    "your medication into the IV drip",
+    103,
+    108,
+    3.58,
+    1
+   ],
+   [
+    "ons",
+    "maybe we can stash our carry-ons in a",
+    1439,
+    1444,
+    3.56,
+    1
+   ],
+   [
+    "granola",
+    "have yogurt with a granola bar or a",
+    1092,
+    1096,
+    2.98,
+    1
+   ],
+   [
+    "mushy",
+    "because I don't like mushy and soft",
+    1018,
+    1025,
+    2.94,
+    1
+   ],
+   [
+    "drowsy",
+    "drowsy I see",
+    114,
+    120,
+    2.82,
+    1
+   ]
+  ],
   "tx": "foreign doctor doctor we need you over here immediately what happened nurse this man struck his head on a tree while falling from a ladder and lost consciousness he's bleeding from the head and face okay quick take him to cubicle 2. his pulse is very weak because he's lost a lot of blood and his blood pressure is low yeah he's barely breathing we'll need to make an injection is he allergic to anything did you check his medical card yes I did and he doesn't seem to have any allergies good first we'll stop the bleeding and then take him quickly to x-ray to see if anything's broken after that … visiting hours are from 10 a.m to 8 P.M okay thanks a lot for your help making an appointment with the doctor can I make an appointment with Dr Brown please I'm sorry but Dr Brown is away on holiday at the moment oh dear when will he be back he will be back in a couple of weeks oh I'm afraid I can't wait that long can I make an appointment with another doctor certainly I can give you an appointment with Dr Gasper on Wednesday Dr Gasper that'll be fine I know him I can fit you in just before lunch at 12 20. that would be difficult for me do you have a later time how about 3 30 3 30 would be … get one free great hello do you have a loyalty card you'll get a 10 off with this purchase yes I do here it is all right it comes to a hundred and ten dollars and twenty five cents how would you like to pay I'll pay by card and here's your receipts have a nice day thanks you too shopping for clothes hello can I help you hello I would like to buy this black leather jacket do you have it in the medium yes just a moment here you go would you like to try it on yes this is for my sister actually but we are the same size I see I'm sure your sister would love this jacket can you please tell me … a little smaller but equally fine then I'll take the second pair the earrings look gorgeous I like that bracelet too how much does it cost you're in luck we're having a sale on bracelets originally this one was three hundred dollars but it's on sale for 265 dollars I like it I'll take it wonderful that's 257 dollars for the earrings and 265 dollars for the bracelet so that comes to 522 dollars great I'd like to pay by card sure no problem shall I wrap it please at the cafe hi there what can I get you hi I'd like a regular coffee to go please sure what size would you like medium please would … about it I just got here myself are you ready to order now sure do you have any specials yes today there's roast beef with green beans and mashed potatoes and side salad sounds delicious I'll have that and for you sir um is there anything else you'd recommend I recommend the fried chicken with cream gravy and Fries it's very popular here sounds good I'd like that please all right can I get you anything else I'd also like a tomato salad sure I'll have those out shortly thank you that was delicious are you ready to go sure let's get the bill excuse me could we have our bill please yes I'll … goodbye giving directions excuse me sir could you help me I I think I'm lost that's the problem I'm looking for the Museum of Fine Art but I've been walking for half an hour and I still haven't found it well you're in the right direction continue down this street and cross the bridge go past the library turn left on Third Avenue and walk for about 50 meters you'll see the museum on your right it seems pretty far from here well it's about 20 minutes from here on foot 20 minutes um is there a bus that stops there yes there is bus 52 stops in front of the museum the bus stop is right there … they're just a great snack and they're healthy an apple a day keeps the doctor away right yes that's right and what's your favorite snack or dessert crackers are my favorite snack I eat them pretty often yeah they're delicious can you cook yes I can I love cooking for large groups of people nice what can you make I can make anything you want I can make pies steaks soups wow good for you what do you usually have for breakfast I usually have oatmeal with honey and a glass of orange juice but sometimes I'll have yogurt with a granola bar or a smoothie when I have time I'll make eggs with … on when it's hot there's nothing you can do about it when it's like that I don't want to do anything not me I think it's great to go swimming on hot days are you looking forward to winter break of course I can't wait to go skiing neither can I at the bus station excuse me which bus goes to the theater the number 10 bus oh good and when does it come if you don't mind it runs on the half hour you're lucky the next one should be here in about 10 minutes wonderful I won't have to wait long once I get to the theater I need to take the express bus to Manhattan do you know where to catch that … I'm sorry ma'am all flights to Los Angeles are full today but you could fly stand by standby what's that flying standby means buying a ticket for a flight with empty seats standby is never guaranteed though today's Airlines work hard to fill every seat so empty ones for standby Travelers are pretty hard to come by well then I prefer to book a flight for tomorrow okay do you need a round trip no only one way the flight's been delayed okay here are the departures what's our flight number again it's b61685 the boarding passes it leaves from gate B7 let's see b61685 gate B7 there it is oh … capital loan how much do you want to borrow from the bank I need six thousand dollars okay we need to know what your income is per month I earn about two thousand dollars a month I will have to ask you to fill in this form first then once we have checked your credit we can look at what kind of terms are agreeable what information do you need the first section is for your personal details such as name and address please take this form with you fill in your personal details and then bring it back to me thanks for watching and be sure to subscribe to our YouTube channel for more videos like this",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0223
+  "src": "auto"
  },
  "m2ESk_nifJE": {
   "channel": "Easy English",
   "lang": "en",
-  "checked": "2026-11-12T06:14:45+00:00",
+  "checked": "2026-11-25T01:06:53+00:00",
   "title": "English Conversations on Home Life",
   "duration": 903,
   "published": "20221109",
@@ -130610,6 +131568,7 @@
   "pace": 124.9,
   "rare": 0.0153,
   "var": 0.8046,
+  "cl": 0.0294,
   "speech_s": 882.1,
   "tokens": 1836,
   "kw": [
@@ -130742,16 +131701,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "please",
+    "it's time for dinner please come to the",
+    13,
+    20,
+    5.66,
+    6
+   ],
+   [
+    "put",
+    "where should I put the new plant",
+    410,
+    416,
+    5.66,
+    6
+   ],
+   [
+    "dinner",
+    "it's dinner time it's time for dinner please come to the",
+    8,
+    20,
+    4.78,
+    3
+   ],
+   [
+    "painted",
+    "can stained cabinets be painted sure they can be painted with basically",
+    346,
+    355,
+    4.35,
+    3
+   ],
+   [
+    "dining",
+    "dining room and take your seats I'm",
+    16,
+    22,
+    4.14,
+    2
+   ],
+   [
+    "washing",
+    "do you want some help with the washing",
+    157,
+    161,
+    4.13,
+    2
+   ],
+   [
+    "yummy",
+    "sounds yummy just tell me what's in it",
+    672,
+    682,
+    3.54,
+    1
+   ],
+   [
+    "sneakers",
+    "dirty muddy sneakers whoops sorry I didn't realize they were",
+    756,
+    764,
+    3.53,
+    1
+   ],
+   [
+    "bookshelf",
+    "bookshelf and the armchair what do you",
+    441,
+    446,
+    2.92,
+    1
+   ],
+   [
+    "keypad",
+    "open with either remote the keypad or",
+    382,
+    389,
+    2.84,
+    1
+   ],
+   [
+    "beeps",
+    "days ago it beeps three times but won't",
+    379,
+    387,
+    2.73,
+    1
+   ],
+   [
+    "tidying",
+    "I spent hours tidying up my room and you",
+    788,
+    793,
+    2.69,
+    1
+   ],
+   [
+    "reattach",
+    "it can you reattach it let me see",
+    271,
+    278,
+    2.32,
+    1
+   ],
+   [
+    "appetit",
+    "food gets cold bon appetit ",
+    51,
+    65,
+    2.24,
+    1
+   ]
+  ],
   "tx": "it's dinner time it's time for dinner please come to the dining room and take your seats I'm going to the kitchen to bring the food to the dining room table here is the bread and the rice we also have fried chicken and glazed ham corn on the cob and vegetable salad um everything looks and smells terrific you cooked an awesome meal this evening Stella thanks Emily now let's eat before the food gets cold bon appetit would you like some more rice lamb no thanks but could I have another piece of bread of course do you want white or brown White please here you go could you pass the salt Jason sure … here is some fresh fruit there are bananas apples grapes and strawberries for you the cake looks fantastic and it tastes even better did you make it yourself I did it's my grandma's recipe and our family's favorite cake my grandma used to make this cake for all family gatherings is it easy to make yes it's very easy I can give you the recipe if you like yes I'd love that thanks would anybody likes some more ice cream no but I'd love some more fruit is there any left yes there are some grapes and strawberries on the plate please help yourself do you want some help with the washing up Stella … everywhere I finished cleaning the backyard how about you are you ready my parents will be here in a few hours yeah everything looks good I'm sure we'll be able to make a good impression listen can you hear something dripping yes where is it coming from I'm not sure I need to locate the source oh no there's water everywhere there's a leak coming through here but what happened I don't know if there's just a really old pipe that's just given in or something yeah there must be a burst pipe up there somewhere it's flooding the house it's a stained ceiling now and a little bit smelly isn't it … is ringing that can't be your parents they're too early typical they couldn't have chosen a worse moment to show up house repairs Clydesdale Construction good morning is that Mr Davidson speaking how can I help you I have quite a few things which need fixing in my house and I wonder whether you'd be able to do the work I'm sure I'd be able to help but let me take down a few details first what's your name please it's Sarah Benson okay and what's your address it's 432 Woodward Avenue and what's your phone number zero eight one one two two five five now what would you like me to do we have … breadboard okay noted anything else that you need done yes my garage door stopped working three days ago it beeps three times but won't open with either remote the keypad or the button on the wall and also I need a garage window removed and replaced is it okay if I come to your place around 4 pm to look over things with you of course it's perfect I'll be waiting for you thank you very much my pleasure have a nice day where should I put the new plant where should I put the new plant put it on the plant stand on that empty spot it doesn't fit there it's too big don't you see oh you're right … how about on the right side of the TV stand no better put it in the corner by the window that place actually gets the perfect amount of sunlight it'll grow well over there you're right that's the perfect spot I've been married for 50 years how long have you two been married we've been married for 50 years 50 years wow that's such a long time I just don't know where it's all gone 50 years have just flown by how did you two meet we met on a bus I went out with a few friends and was on my way back home we immediately exchanged looks when I entered the bus and we both felt that something was … have loved her since day one I love her personality she is just fantastic how romantic and where did you live right here in this house we bought it soon after we got married wow so you've never lived anywhere else no we've always lived around here time goes so fast when you're first married a year seems a long time but then you have kids the kids grow up and suddenly they've left home was that difficult when it was just the two of you only in the beginning but we got used to it we always find lots of things to do together do you ever argue about anything sure we have arguments but then we … sounds yummy just tell me what's in it well there are onions and garlic I love all dishes with garlic there is also soy sauce wine and mixed vegetables they are all cut into small pieces and fried together it seems like a very healthy dish with all those vegetables what are you doing now I'm adding some chili powder to make it a little spicy great I love spicy food okay now I'm frying the meat and then I'm going to add the vegetables and the sauce now we cook it for a little while okay and now the very very special extra thing the black bean sauce it will give everything a … left on my carpet it was an accident I only came to ask you if you wanted to play a very cool game with me well I don't I have to study for my English test tomorrow and next time I'd sooner you took your shoes off before you walked into my room will do no worries so why are you in such a bad mood then I spent hours tidying up my room and you spoiled it in a few seconds am I supposed to be happy about this look I'm going to clean all this mess I promise just give me a few minutes chill out your carpet is going to look brand new I surely hope so don't take my laptop without asking my laptop … it's so precious and if you don't want anyone to use it stop talking nonsense why aren't you using your own laptop anyway because I lost it I left it in a cafe yesterday and haven't been able to find it since then I think somebody stole it and I'm the one who's not careful Look Who's Talking yes you're right I wasn't careful enough well sorry about your loss I guess you can use my laptop whenever you need to but please be careful not to change or delete anything thanks David I promise to be careful thanks for watching and be sure to subscribe to our YouTube channel for more videos like this",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0274
+  "src": "auto"
  },
  "dTfLWLrxj4c": {
   "channel": "Learn English with Papa Teach Me",
   "lang": "en",
-  "checked": "2026-11-12T06:18:21+00:00",
+  "checked": "2026-11-25T01:11:34+00:00",
   "title": "Top 3 MOST COMMON English Mistakes YOU Make!",
   "duration": 349,
   "published": "20220716",
@@ -130760,6 +131832,7 @@
   "pace": 134.3,
   "rare": 0.0053,
   "var": 0.7077,
+  "cl": 0.0488,
   "speech_s": 338.7,
   "tokens": 758,
   "kw": [
@@ -130852,16 +131925,113 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ways",
+    "i don't agree um other ways that you",
+    167,
+    173,
+    5.06,
+    4
+   ],
+   [
+    "write",
+    "or how to write blah blah in english see",
+    41,
+    48,
+    5.03,
+    4
+   ],
+   [
+    "formal",
+    "however that sounds very formal and not",
+    283,
+    288,
+    4.45,
+    2
+   ],
+   [
+    "mistakes",
+    "these are the three most common mistakes",
+    0,
+    6,
+    4.45,
+    2
+   ],
+   [
+    "hmm",
+    "hmm this one's very common i often hear this",
+    191,
+    200,
+    4.11,
+    1
+   ],
+   [
+    "alternatives",
+    "alternatives could be you want to say that you like something",
+    257,
+    270,
+    4.04,
+    1
+   ],
+   [
+    "needing",
+    "needing that third person s i'm not",
+    8,
+    14,
+    4.02,
+    1
+   ],
+   [
+    "pronunciation",
+    "pronunciation we squeeze do you into one sound",
+    83,
+    93,
+    3.51,
+    1
+   ],
+   [
+    "verbs",
+    "including irregular verbs and which one",
+    11,
+    16,
+    3.44,
+    1
+   ],
+   [
+    "how'd",
+    "how'd you say how to spell",
+    92,
+    102,
+    3.41,
+    1
+   ],
+   [
+    "disagrees",
+    "i'm sure everyone else disagrees with",
+    226,
+    231,
+    3.25,
+    1
+   ],
+   [
+    "grammatically",
+    "it's fine grammatically it's great but it does sound very formal and not as",
+    299,
+    308,
+    2.7,
+    1
+   ]
+  ],
   "tx": "these are the three most common mistakes that i correct in classes i'm not including common errors like he she it needing that third person s i'm not including irregular verbs and which one you need they will come with time practice and correction from a teacher you're in class and i know this word in my language but in english nope so you want to know this word in english so you ask your friend hey how to say blah blah in english or how to write blah blah in english see the mistake yeah we don't say how to say how to write blah blah blah in english when you want to know how something is done not just saying or writing anything in general we always say how do you say how do you blah blah blah you is not specifically you it's in general it's how does everyone do this thing also also we don't say how do you write blah blah in english we say spell how do you spell blah blah blah in english pronunciation we squeeze do you into one sound say it with me how'd you say how to spell and it's not just for these two it's in general you want to know how the question is how do you how do you pronounce your name how do you cook pasta how do you make a baby everything so this mistake is so so common that i included it in today's video so don't feel bad if you have made this mistake because now you know how to correct it but this next mistake is one of the most common especially in debates you have an opinion like ali is the best teacher and someone thinks the same as you they say this i am agree can you see the mistake here okay i think in some languages this translates exactly to this but no in english that's a verb so for the same reason that we don't say i am go home when you say this you only need i agree or in the negative i don't agree um other ways that you could agree with someone could be definitely 100 yeah i'm with you there or i'm with you on that remember though those are ways to agree ways to disagree of course i disagree but that's boring you want to know different ways right hmm this one's very common i often hear this one with my friends i can't say i agree i think that means they disagree with me a lot because i often hear this or you know a really fun one to disagree with someone a really fun thing to say could be this is an amazing sentence to use i think you're on your own on that one this is a really fun way to not only say i disagree but i'm sure everyone else disagrees with you you're on your own on that one let's practice some of these in the comments in the comments write your unpopular opinion or a controversial opinion see if people agree or disagree with your thoughts just nothing too crazy like don't get me banned on youtube please and finally this one is very common so let's find out how to fix it and what alternatives could be you want to say that you like something but a lot how can you say that do you want pizza yes i very like pizza see the mistake same thing as agree like is a verb so you could say i like pizza very much however that sounds very formal and not really that natural so how can we make this sound more natural very easy i really like pizza if you say i like pizza very much it's fine grammatically it's great but it does sound very formal and not as natural as i really like pizza other options you could use i love pizza pizza is everything to me i would give my right arm for a pizza i like pizza more than i like you now remember if this is an offer and do you want some pizza that sounds like an offer it's more natural to just say i'd love some easy it doesn't need to be more difficult so did i miss any are there any mistakes that you often make or that your teacher has to correct let me know in the comments and i'll see you in the next class bye",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0488
+  "src": "auto"
  },
  "Yal0m9ZmRnk": {
   "channel": "Learn English with Papa Teach Me",
   "lang": "en",
-  "checked": "2026-11-12T06:18:24+00:00",
+  "checked": "2026-11-25T01:11:38+00:00",
   "title": "LIE BETTER in English!",
   "duration": 712,
   "published": "20220709",
@@ -130870,6 +132040,7 @@
   "pace": 144.9,
   "rare": 0.0296,
   "var": 0.7734,
+  "cl": 0.0485,
   "speech_s": 657.9,
   "tokens": 1589,
   "kw": [
@@ -131034,16 +132205,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bad",
+    "This morning I had to pee so bad.",
+    65,
+    67,
+    5.53,
+    7
+   ],
+   [
+    "word",
+    "Think of the word, blow, like lose.",
+    243,
+    247,
+    5.26,
+    7
+   ],
+   [
+    "doors",
+    "what happens behind closed doors when I'm not there.",
+    12,
+    16,
+    4.54,
+    4
+   ],
+   [
+    "spy",
+    "If you're a spy, your cover is your fake identity,",
+    183,
+    188,
+    4.24,
+    4
+   ],
+   [
+    "noun",
+    "He told on him, and we have a noun for this guy.",
+    458,
+    464,
+    3.61,
+    3
+   ],
+   [
+    "penis",
+    "So, having a penis, that's weird huh?",
+    59,
+    64,
+    4.05,
+    2
+   ],
+   [
+    "vulgar",
+    "we have a fun, definitely more vulgar word for that.",
+    594,
+    599,
+    3.53,
+    1
+   ],
+   [
+    "narcotics",
+    "a narc, that is short for narcotics agent.",
+    561,
+    566,
+    3.5,
+    1
+   ],
+   [
+    "eavesdropping",
+    "He is eavesdropping, or he is listening in.",
+    373,
+    380,
+    2.86,
+    2
+   ],
+   [
+    "vlog",
+    "Okay, before we find out what happened to Becky in that vlog",
+    130,
+    134,
+    2.76,
+    2
+   ]
+  ],
   "tx": "- Welcome back to 'Spying with Becky'. I am in the dark about my boyfriend, Kyle's feelings for me. Is he cheating on me? Does he really love me? That kind of thing. So I need to go undercover to find out what happens behind closed doors when I'm not there. I have a genius disguise. I'm going to pretend to just be one of the guys and eavesdrop on their conversations, but like, how do you even make friends with guys? Like how do you infiltrate a group and just hang out? This might take some time. (door clicks) Hey guys. I'm Barry. - Barry. Do you like fortnight? Come play with us. - Okay. Yeah. … man. - Ha, yeah. - What do you do, Barry? - Damn it. I didn't make a backstory. Who am I? Where did I come from? What do I do? I, ummm, I fix cars. That was so stupid. I don't know anything about cars. What if they ask a follow up question? - Nice. - Cool. - Phew. That was close. - Oh yeah, how's everything with Becky? - Yeah good. - Becky is batshit. - Whoa! - What? - Oh really? Because I think she's sexy as hell. - Dude! - No, I mean like I would have sex with her. - Oh what's this? - Did I just blow it? Did I just blow my cover? - You know Barry, I feel like I've seen you before. - … does cheating mean? For example, they are a couple, but he kisses someone else. This is cheating. How can we use this in a sentence? He cheated on her, his girlfriend, with her, the other girl; so make sure you get your prepositions right. You cheat on the girlfriend or boyfriend with the other person. That's what Becky's worried about, so what does she do? She goes undercover. If you're a spy, your cover is your fake identity, it's your disguise. And in movies and TV shows with spies, when they start to hide their real identity, they go undercover. That's the collocation. You go … passive voice, my cover is blown. So you notice this is an irregular verb. He blew his cover. So blow, blew, blown. Think of the word, blow, like lose. This also works in casinos. You go in a casino, you gamble and you lose all of your money. You could say, \"Oh my God I blew all my money in like 10 minutes\". So think of it more like lose carelessly. But also also it's like spend carelessly. Let's practice that right now. Question for you: When was the last time you blew your money on something stupid? For example, for me, once I blew like 80 pounds on a shirt. It looked great in the shop, … on something stupid. When you do something or say something in private, not for other people to hear, not for other people to see, we have an expression and that's \"behind closed doors\". You often see this expression in movies and TV and in real life people often use this expression to explain that they aren't interested in other people's private lives. So a common thing you might hear is - I don't give too much of a shit what people do behind closed doors with consenting adults. - And again, it just means your private life is private. But not for Becky. She wants to find out what happens … casual phrasal verb we could use which is 'to listen in'. Let's use a full sentence so we know how to use this. He is eavesdropping, or he is listening in. Whoever the people behind the door are, he's eavesdropping on them; He's listening in on them. The preposition is on. Also. Have you ever tried this? You have a glass against a wall or a door to try and eavesdrop what's happening next door. Yeah, it doesn't work. I tried. I mean, I've never tried it. I would never try it. Okay. This next word kind of slang, but now yeah, it's slang. Remember when you were in school, in class, and there … \" When you tell the teacher who did something bad and what they did, we have a word for that. Well we have a few words, actually. So as a phrasal verb, you could say \"To tell on someone\". Full sentence: He, past, told on him. He told on him, and we have a noun for this guy. Do you have this in your language? In English we say he is a snitch. Now a snitch. Yes, it's that thing from Harry Potter. But in slang terms, a snitch is this person who tells on the bad person; what they did, how they did it, that kind of thing. A snitch can be a noun, or a verb. So it's like a slang version of this: … to say, \"If you tell on me something bad is gonna happen to you\" because a stitch is when you get a cut, and the doctor (man whistles) sews up that cut, those are called stitches. So snitches get stitches. If you tell on me something bad will happen to you. Do you have an expression like this in your country? And is it, I imagine it's more terrifying than in English. In English, it kind of sounds funny. Not cute, just funny. You might also hear the verb to narc on someone or again as a noun, a narc, that is short for narcotics agent. So like a detective, someone in the police who … want to say that someone is crazy, we have a fun, definitely more vulgar word for that. (soft playful music) If you meet someone who's like, \"yeah the moon landing wasn't real\", you might think this person is crazy. But, maybe there is someone more crazy. The moon, that doesn't exist. When the word crazy isn't enough, you could say, \"These guys are batshit crazy\" but actually you don't need that word because it's, they both mean the same thing. Usually we just say, \"Mate, you are batshit\". Tell me in the comments, which spy things have you ever done? I hope you've enjoyed today's lesson. … Barry, I feel like I've seen you before. You're not secretly sent here by Becky? You're not one of her friends, are you? You a double agent? You gonna snitch on us? You know, snitches get stitches right? - No, no. I would never, I wouldn't want to lose my penis, am I right? - Nice. - Nice. - How did that work? Do guys really talk like that? Or do guys just talk so much shit that nothing makes sense. Follow my updates on Instagram and next time I'll show you what happens when guys think farts are funny. Until next time, don't tell Kyle I'm spying on him. See you next time. (soft playful music)",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0488
+  "src": "cc"
  },
  "8P59NcmMC2E": {
   "channel": "Learn English with Papa Teach Me",
   "lang": "en",
-  "checked": "2026-11-12T06:18:28+00:00",
+  "checked": "2026-11-25T01:11:41+00:00",
   "title": "Direct Speech vs. Reported Speech | Improve Your English Storytelling",
   "duration": 412,
   "published": "20220707",
@@ -131052,6 +132304,7 @@
   "pace": 141.6,
   "rare": 0.0176,
   "var": 0.7532,
+  "cl": 0.0434,
   "speech_s": 361.1,
   "tokens": 852,
   "kw": [
@@ -131160,11 +132413,140 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "looks",
+    "\"Your hair looks bad.\" (whimpers) And then,",
+    121,
+    127,
+    5.36,
+    5
+   ],
+   [
+    "same",
+    "Did you know that this and this mean the same thing?",
+    51,
+    55,
+    5.8,
+    4
+   ],
+   [
+    "context",
+    "So in this case, in this context, both mean said.",
+    131,
+    137,
+    4.63,
+    2
+   ],
+   [
+    "formal",
+    "Okay, is this formal, no. Is it rude, also no.",
+    195,
+    202,
+    4.45,
+    2
+   ],
+   [
+    "sleepy",
+    "But when I'm in class, I go all sleepy.",
+    342,
+    347,
+    3.68,
+    2
+   ],
+   [
+    "emphasis",
+    "Again, this adds emphasis to the way you are acting,",
+    300,
+    304,
+    4.19,
+    1
+   ],
+   [
+    "gestures",
+    "you probably copy their hand gestures,",
+    104,
+    109,
+    3.59,
+    1
+   ],
+   [
+    "behaving",
+    "the way you are behaving. So you don't really even need a word after this.",
+    303,
+    308,
+    3.51,
+    1
+   ],
+   [
+    "repetition",
+    "You could, to avoid repetition, use both of them",
+    331,
+    337,
+    3.48,
+    1
+   ],
+   [
+    "verbs",
+    "but did you notice, present verbs.",
+    269,
+    273,
+    3.44,
+    1
+   ],
+   [
+    "sighs",
+    "I'm all like. (sighs) (bells chiming)",
+    310,
+    314,
+    3.38,
+    1
+   ],
+   [
+    "emojis",
+    "Use emojis in your answer, that's fine too.",
+    384,
+    388,
+    2.96,
+    1
+   ],
+   [
+    "mannerisms",
+    "We also use go and be like to copy the mannerisms,",
+    217,
+    223,
+    2.82,
+    1
+   ],
+   [
+    "chiming",
+    "I'm all like. (sighs) (bells chiming)",
+    310,
+    314,
+    2.73,
+    1
+   ],
+   [
+    "mwah",
+    "To add some extra, mwah, flavor,",
+    288,
+    291,
+    2.54,
+    1
+   ],
+   [
+    "whimpers",
+    "\"Your hair looks bad.\" (whimpers) And then,",
+    121,
+    127,
+    2.22,
+    1
+   ]
+  ],
   "tx": "- How do we change this boring conversation? He said, \"Your dress is ugly.\" Wow. I said, \"Your face is ugly.\" Ah. He said, \"This is why you have no friends.\" Wow that's crazy. Then he had a very stupid look on his face and walked away. Hmm Hmm. And make it more interesting, more engaging, more exciting. So he goes, \"Tour dress is ugly.\" Whoa, whoa. So I'm all like, \"Yeah well your face is ugly.\" Wow. So he's all like, \"Well this is why you don't have friends.\" And then what happened? And then he just went all like, \"Eugh.\" What, what? These two birds. Did you know that this and this mean the same thing? Whoa, whoa. Okay, not in every situation. Go can mean leave, and like can mean, mm, this makes me happy, I like this. But, when we tell one person what another person said, they can mean the same thing. For example. He wants to tell his friend exactly what he said. But more importantly, he wants to say how he said that. Yeah, he could say, \"Oh, he told me \"that my hair looked bad.\" Grammatically, that's fine. But to explain exactly how someone said something, you probably copy their hand gestures, their face movements and exactly how they said it, right? To achieve this in English, we do this. Oh my God, we were talking, and he was like, \"Your hair looks bad.\" (whimpers) And then, so I went, \"Well, your face looks bad.\" So in this case, in this context, both mean said. They're both direct speech and they both copy not just the exact words, but you are copying how they said this and how you said this, and grammar stuff, notice with like, you need a version of be. He was like, was because he, she, it, and it's past. This happened in the past. Same with the verb go, I went. Again, they both just mean said. So if the verb say is perfectly fine, why do we use be like and go? Well, it sounds more emphatic, more dramatic. You are making the listener experience what you experienced in that conversation. You are making that conversation seem alive. It just makes it more relatable. Okay, is this formal, no. Is it rude, also no. It just sounds very casual, so be careful using it in business work situations because yeah, it doesn't sound very professional, but with friends this is how we really speak. We also use go and be like to copy the mannerisms, the behavior, everything the face is doing, everything the body is doing, again because it makes it more engaging and interesting for the listener. So I was talking to Maria and you know how she gets, you know, well, I was just like, and she just went, like I understood, very weird. Look at this conversation. Yesterday, right, my parents are like, \"Go to your room.\" So I go, \"Make me.\" Yeah, I can't play PlayStation anymore. So because this isn't very formal grammar, we can be more relaxed with the rules. Yes, this conversation happened in the past, but did you notice, present verbs. You can totally do that, because English is stupid and nothing makes sense. So while we are learning, I want you to think about your last conversation that you had. Make a mental note of it. You'll need that at the end of this video. To add some extra, mwah, flavor, you can include the word all after the verb be, or after the verb go, like this. Again, this adds emphasis to the way you are acting, the way you are behaving. So you don't really even need a word after this. You could just say, every time she looks at me, I'm all like. (sighs) (bells chiming) Or, you could use a word, like, \"Every time she looks at me, \"I'm all like heart eye emoji.\" You know, if you're texting or emailing that to someone, you could, and yet, of course you could say, \"Every time she looks at me I go all stupid.\" So romantic. You could, to avoid repetition, use both of them in the same sentence, like this. When I watch Allie's videos, I'm like, \"Yay.\" But when I'm in class, I go all sleepy. Also also, the verb go in this context works like the verb get, meaning become, I become all sleepy. Let's practice this in the comments right now. When you see a certain person, think about a special person, how do you behave, how do you act? Try to use this in your answer. Also, think of that last person that you had a conversation, an argument with. What happened, what did they say? What did you say, what were your facial expressions like? Use emojis in your answer, that's fine too. Practice all those ways that we use be like and go in your answers. And today, start using this new English structure in your writing and speaking. I'll see you in the next class, bye. (gentle music)",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0434
+  "src": "cc"
  },
  "aXB3isDeOHE": {
   "channel": "Rachel's English",
@@ -133119,7 +134501,7 @@
  "WqgFMO3BhS0": {
   "channel": "Learn English with Papa Teach Me",
   "lang": "en",
-  "checked": "2026-11-12T15:24:23+00:00",
+  "checked": "2026-11-25T01:11:49+00:00",
   "title": "Learn 4 Common English Idioms with \"Give\" | Common English Phrases You Need to Know!",
   "duration": 558,
   "published": "20220625",
@@ -133128,6 +134510,7 @@
   "pace": 151.8,
   "rare": 0.0268,
   "var": 0.739,
+  "cl": 0.0375,
   "speech_s": 515.8,
   "tokens": 1305,
   "kw": [
@@ -133276,11 +134659,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "yeah",
+    "- Yeah. Is this mango good?",
+    9,
+    12,
+    5.37,
+    7
+   ],
+   [
+    "example",
+    "For example, to talk about the impression that you get",
+    87,
+    92,
+    5.27,
+    7
+   ],
+   [
+    "fly",
+    "What would you give to be able to fly?",
+    338,
+    344,
+    4.75,
+    2
+   ],
+   [
+    "useful",
+    "But it's very useful and very common",
+    145,
+    148,
+    4.72,
+    2
+   ],
+   [
+    "squeeze",
+    "Squeeze it. Nah, it's rubbish.",
+    16,
+    19,
+    3.94,
+    4
+   ],
+   [
+    "blah",
+    "- Or given that blah, blah, blah.",
+    429,
+    433,
+    3.88,
+    3
+   ],
+   [
+    "vibes",
+    "to be honest, he gave off really creepy vibes.",
+    118,
+    122,
+    3.55,
+    1
+   ],
+   [
+    "raspberry",
+    "(Aly blowing a raspberry) It's a given.",
+    419,
+    421,
+    3.5,
+    1
+   ],
+   [
+    "ticking",
+    "(clock ticking) The answer is no.",
+    66,
+    70,
+    3.46,
+    1
+   ],
+   [
+    "name's",
+    "My name's Thomas, by the way.",
+    485,
+    488,
+    2.98,
+    1
+   ],
+   [
+    "munching",
+    "(Aly munching) The verb give has way more meanings than you think.",
+    27,
+    37,
+    2.88,
+    1
+   ],
+   [
+    "honking",
+    "(mango honking) You squeeze it, of course.",
+    164,
+    168,
+    2.84,
+    1
+   ]
+  ],
   "tx": "(soft music) - Do you think Maria's gonna get me a birthday present this year? - Well, given that you didn't give her a gift last year, it's a given. She ain't gonna give you anything. - Yeah. Is this mango good? - Dunno, does it have any give? - Any what? - Any give. Squeeze it. Nah, it's rubbish. You ought to give this one away. Excuse me, sir, do you want a...? Here you are, lovely mango for you sir. - Whoa, whoa, whoa, whoa, whoa, give it back. It's my mango. (Aly munching) The verb give has way more meanings than you think. And to improve your English today you are gonna learn some weird … I gave her a donut and now we're married. I'm pretty sure this is how love works. Quick test. Is there something missing from this sentence? How about to? I gave to her a donut? Yes or no. Quick, decide. (clock ticking) The answer is no. I gave someone something. I gave a something to someone. That's when you use to. But don't worry, this is a very common mistake. And now you know how to fix it. But of course, there are so many other meanings. For example, to talk about the impression that you get when meeting someone. Not necessarily the first time, but just their energy, their vibe. Use … asked you \"What did you think of Thomas?\" You could reply to be honest, he gave off really creepy vibes. It doesn't have to be bad like creepy. It could be good. He's so nice, he gave off such positive energy. Have you ever met someone like Thomas? Practice this in the comments. Think about the last person you met. What kind of impression did you get? What kind of energy? What kind of vibe did they give off? This next way to use give, you definitely don't know. But it's very useful and very common especially if you eat mangoes. You go to the shop, you get a mango. You want to check if … ultimate test? (mango honking) You squeeze it, of course. So when you squeeze something or put pressure on something and the shape changes, we use the word give. You can use it like a verb. Mm, yeah, that's giving. But more commonly, more naturally we use it like a noun. Mm, yeah, it's got some give. Should be nice and juicy. If you put pressure on something, squeeze it and it doesn't move, it doesn't have any give. Of course not just for mangoes. Your bed, for example. If your bed is too hard, it doesn't have enough give. This next phrasal verb is very useful. To give up. It means to quit, … could be something bad like a weakness. (Aly crying) I give up. English is too hard. (Aly speaking in Spanish) Similar to quitting. Are you the younger brother or sister in your family? I am. I have an older sister. And when we were younger, we fought a lot. But she was like twice the size of me. So every time we had a fight, I would quit, or more accurately, it's a fight, I would surrender. When you want to say surrender, use the phrasal verb give up. - Can I play Fortnite? (hand punching) Can I play Fortnite now? - Ow! All right. Stop punching me, I give up. Have it. Or give in. Yeah, if … older sister. Bastards. Whoa, I just realized we do something in English that I'm not sure you do in your language. Let me know in the comments. So if I see something that I really, really want, we talk about something we would surrender to get that thing. So a PS5, what would I give up of my own to get that PS5? But we don't say give up, we just say give. Like this. For example, if you see someone really hot and you're like \"Whoa. I would give my... Both hands to date her.\" What would you surrender? What would you be willing to lose in order to get something? I'd give my what? Let's … fly. I'd give my legs. Okay, this next way we use give is the weirdest way. When you wanna say something is understood, it's obvious, you don't need to say it because everyone understands it. You say it's a given. This is a fixed expression. Here's how to use it. Do you think he's gonna show up? - Oh yeah, he'll come, but he'll arrive late. - Oh, for sure. I mean, that's a given. - Yeah. - That's a given. It's like, yeah, we all understand this. But you also hear this in this structure. This guy is in trouble with his boss because he's always late. So his boss might say this. - Well, given … is now gonna happen. Okay, practice time. Use one of those in the comments. Pause the video and use either. (Aly blowing a raspberry) It's a given. Remember it means this is obvious, everyone knows this. - It's a given that Aly is the best teacher on YouTube. Everyone knows that, duh. - Or given that blah, blah, blah. Remember you're saying \"Well, we all understand that this happened. Therefore, this is gonna happen.\" Or \"This happened.\" - Well, given that Aly is the best teacher on YouTube, I'm gonna subscribe and get the eBook. - The next one is for all Red Hot Chili Peppers fans. Give it … Anyone. It doesn't matter. When you want to give something to someone else, anyone else, it doesn't matter, you give it away. So usually with giving things to charity, you give it away. Just no specific person. For example. Here, take my favorite lighter. I don't need it. - Thank you. I love this lighter. My name's Thomas, by the way. Let's be best friends. - Meeting new people is too stressful. You know what? No, I don't give up smoking. I'm gonna... I'm gonna take up smoking again. Give me back my lighter. Thank you. Remember, the preposition is what's important with phrasal verbs. So … are you borrowing anything from a friend right now? Do you need to give it back? Let me know in the comments. Practice this. All of the examples from today, practice them in the comments. I'll give you correction when necessary. If you wanna learn more about phrasal verbs, maybe with get, that one's weird, try this video. If you want to learn how prepositions are everything to master phrasal verbs, use this video. And if you want to practice all my lessons in the most amazing ultimate English eBook ever, click this guy. Don't forget to subscribe and I'll see you in the next lesson. Bye.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0369
+  "src": "cc"
  },
  "I2NDfbZoHuQ": {
   "channel": "Learn English with Papa Teach Me",
