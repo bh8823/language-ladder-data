@@ -258931,5 +258931,278 @@
   "status": "ok",
   "src": "auto",
   "voc": 0.08756218905472637
+ },
+ "rJdXZef5YIw": {
+  "channel": "French Comprehensible Input",
+  "lang": "fr",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:47:18+00:00",
+  "tries": 1
+ },
+ "Dla3hGHIkAk": {
+  "channel": "French Comprehensible Input",
+  "lang": "fr",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:49:38+00:00",
+  "tries": 1
+ },
+ "Zy2OUgv_fVk": {
+  "channel": "Masha et Michka",
+  "lang": "fr",
+  "checked": "2026-11-26T06:53:01+00:00",
+  "title": "Masha et Michka 🏛 Les Chansons de Masha 🌿 C'EST DE L'HISTOIRE ANTIQUE (Épisode 12) 😊NOUVELLE SAISON😊",
+  "duration": 787,
+  "published": "20210122",
+  "spoken": "fr",
+  "spoken_v": 2,
+  "pace": 56.3,
+  "rare": 0.0664,
+  "var": 0.8019,
+  "cl": null,
+  "speech_s": 625.1,
+  "tokens": 587,
+  "kw": [
+   [
+    "simple",
+    "famille c'est aussi simple que d'uré",
+    702,
+    713,
+    5.25,
+    6
+   ],
+   [
+    "jouer",
+    "et il savait jouer du violon comme",
+    400,
+    410,
+    5.23,
+    5
+   ],
+   [
+    "oui",
+    "mange oui de délicieuses olives et des",
+    213,
+    221,
+    5.8,
+    3
+   ],
+   [
+    "mis",
+    "mis aussi simple que d'uré mis",
+    707,
+    718,
+    5.4,
+    3
+   ],
+   [
+    "gentil",
+    "amis toujours gentil et surtout qui",
+    717,
+    728,
+    4.56,
+    2
+   ],
+   [
+    "bravo",
+    "amélioré bravo bravo génial bonjour je suis tellement",
+    373,
+    383,
+    4.54,
+    2
+   ],
+   [
+    "fantastique",
+    "fantastique pays elle nous accueille avec ses douces vague et sa légère brise",
+    191,
+    200,
+    4.28,
+    2
+   ],
+   [
+    "quartet",
+    "un quartet ",
+    360,
+    378,
+    2.79,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "amis",
+    "amis n'arrivent même pas à s'accorder",
+    683,
+    695,
+    5.26,
+    3
+   ],
+   [
+    "tiens",
+    "tiens tiens tiens mais où sont donc",
+    762,
+    768,
+    4.88,
+    3
+   ],
+   [
+    "rencontrer",
+    "rencontrer merci 1000 fois pour votre",
+    383,
+    388,
+    4.79,
+    1
+   ],
+   [
+    "faudrait",
+    "il faudrait que vous changiez un peu",
+    547,
+    553,
+    4.76,
+    1
+   ],
+   [
+    "remettre",
+    "remettre l' plus tard mais le déjeuner",
+    346,
+    355,
+    4.76,
+    1
+   ],
+   [
+    "inventé",
+    "on sait ce qu'ils ont inventé on le",
+    258,
+    263,
+    4.19,
+    1
+   ],
+   [
+    "musiciens",
+    "si les musiciens ne s'écoutent pas",
+    689,
+    699,
+    4.19,
+    1
+   ],
+   [
+    "racines",
+    "il faut revenir à vos racines et",
+    602,
+    609,
+    4.18,
+    1
+   ],
+   [
+    "laver",
+    "les garçons vous devriez vous laver les",
+    337,
+    343,
+    4.16,
+    1
+   ],
+   [
+    "brise",
+    "avec ses douces vague et sa légère brise",
+    194,
+    200,
+    4.12,
+    1
+   ],
+   [
+    "antique",
+    "antique où allez-vous comme ça revenz",
+    132,
+    139,
+    4.1,
+    1
+   ],
+   [
+    "pépin",
+    "pépin en Grèce il y a la mythologie les",
+    238,
+    250,
+    3.52,
+    1
+   ],
+   [
+    "oranges",
+    "oranges sont sans ",
+    226,
+    242,
+    3.49,
+    1
+   ],
+   [
+    "revenez",
+    "revenez ",
+    328,
+    343,
+    3.42,
+    1
+   ],
+   [
+    "olives",
+    "mange oui de délicieuses olives et des",
+    213,
+    221,
+    3.37,
+    1
+   ],
+   [
+    "transportent",
+    "les bateaux et les marins transportent",
+    220,
+    227,
+    3.21,
+    1
+   ],
+   [
+    "waouh",
+    "ça ah waouh tu savais aussi jouer de",
+    404,
+    412,
+    3.19,
+    1
+   ],
+   [
+    "croqué",
+    "croqué et il savait jouer du violon comme",
+    398,
+    410,
+    2.55,
+    1
+   ],
+   [
+    "taillant",
+    "des chedœuvres sculptant et taillant jour et nuit toute l'année",
+    202,
+    211,
+    2.43,
+    1
+   ],
+   [
+    "masa",
+    "de dire masa et Michka c'est simple",
+    779,
+    786,
+    2.37,
+    1
+   ],
+   [
+    "ure",
+    "c'est une ure d'art elle devra être",
+    136,
+    142,
+    2.27,
+    1
+   ]
+  ],
+  "voc": 0.09482758620689655,
+  "tx": "la la la la où avez-vous trouvé ça c'est un chefdœuvre qui devrait être dans un musée c'est une œuvre d'art extrêmement précieuse qui remonte à la grisse antique où allez-vous comme ça revenz c'est une ure d'art elle devra être exposée aux yeux du monde entier allez rendez moi vous voulez pas faire un échange ah cette terre nous met la Grèce est un fantastique pays elle nous accueille avec ses douces vague et sa légère brise des artistes sur des pierres de marbre ont travaillé toute leur vie pour créer des chedœuvres sculptant et taillant jour et nuit toute l'année ainsi ceux qui vivent ici chantent dans et mange oui de délicieuses olives et des fromagesquis depuis la nuit des temps les bateaux et les marins transportent de délicieux mais c'est divin et les oranges sont sans pépin en Grèce il y a la mythologie les histoires des dieux des héros et les héraacles et aussi de C oùulis a voyager Pythagore et puis Archimède vivait ici dans le passé partout à travers le monde on sait ce qu'ils ont inventé on le sait la grisse la Grce est une terre magique tant de chédav et de de légende c'est fantastique le soleil en graiss BR si fort dans le bleu d'azur c'est pour cela qu'on aime la graisse C vous deviez me donner le vase e c'est pas juste revenez les garçons vous devriez vous laver les papates et voilà on peut toujours remettre l' plus tard mais le déjeuner jamais un quartet amélioré bravo bravo génial bonjour je suis tellement contente de vous rencontrer merci 1000 fois pour votre fils incroyablement merveilleux il était comment quand il était petit oh il est mignon ACC croqué et il savait jouer du violon comme ça ah waouh tu savais aussi jouer de ça oh tu faisais partie d'un quartê j'ai posé la question qui Fage peut-être quoi vous n'avez jamais joué ensemble mais puis est-ce que vous êtes tous là pourquoi ne pas en profiter pour jouer dans un quartet et moi je serai votre meilleur public votre meilleur public vous demande de jouer en quartet oh mais c'est pas possible c'est ça que vous appelez du classique il faudrait que vous changiez un peu votre style et ce serait absolument fabuleux il faut revenir à vos racines et retrouver la source de votre inspiration ah al alors on commence par le commencement et suivez mes indications professionnelles le soleil se cache derrière un nuage gris même les oiseaux préfèrent s'en aller la musique n'est plus qu'un cri si les amis n'arrivent même pas à s'accorder si les musiciens ne s'écoutent pas l'harmonie ne viendra pas mais quand c'est la même famille c'est aussi simple que d'uré mis aussi simple que d'uré mis seulement quelques amis toujours gentil et surtout qui disent oui aussi simple que taurais m aussi simple que d'urisi seulement quelques amis toujours gentil et surtout qui disent oui aussi simple que taurais mis tiens tiens tiens mais où sont donc passés tous les dessins animés h je dois absolument résoudre ce mystère si tu veux mener l'enquête il n'y a rien de plus bête il suffit de cliquer là et de dire masa et Michka c'est simple comme bonjour et maintenant à toi de jouer",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
  }
 }

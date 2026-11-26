@@ -105473,5 +105473,800 @@
   "status": "ok",
   "src": "auto",
   "voc": 0.07296849087893864
+ },
+ "h_b1926ReAk": {
+  "channel": "Mascha und der Bär",
+  "lang": "de",
+  "checked": "2026-11-26T06:48:48+00:00",
+  "title": "Mascha und der Bär 💥NEUE FOLGE 2023💥 Karneval aus Brasilien 💃🎉 (Folge 4) 🎵 Maschas Lieder",
+  "duration": 765,
+  "published": "20230630",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 57.7,
+  "rare": 0.0981,
+  "var": 0.8125,
+  "cl": null,
+  "speech_s": 657.6,
+  "tokens": 632,
+  "kw": [
+   [
+    "gern",
+    "Italien würd ich gern immer sing",
+    519,
+    527,
+    5.15,
+    6
+   ],
+   [
+    "keinen",
+    "endet hier auf keinen Fall er bleibt für",
+    266,
+    272,
+    5.59,
+    3
+   ],
+   [
+    "schön",
+    "gut das Leben tot be schön Karneval",
+    247,
+    253,
+    5.52,
+    3
+   ],
+   [
+    "sonne",
+    "ganze freche affenkan die Sonne scheint",
+    152,
+    158,
+    4.85,
+    3
+   ],
+   [
+    "singen",
+    "singen gern alle singen gern",
+    574,
+    586,
+    4.56,
+    8
+   ],
+   [
+    "achtung",
+    "eigentlich achtung Achtung planmäßige Ankunft des Zuges",
+    100,
+    145,
+    4.52,
+    4
+   ],
+   [
+    "brasilien",
+    "Brasilien ein Telegramm aus Brasilien ich komme vorbei weil ich bei",
+    50,
+    61,
+    4.42,
+    4
+   ],
+   [
+    "pizza",
+    "und Pizza das macht der Sänger auch",
+    563,
+    571,
+    4.3,
+    4
+   ],
+   [
+    "karneval",
+    "Karneval wir liegen hier am Deck unter",
+    168,
+    174,
+    3.94,
+    4
+   ],
+   [
+    "stopp",
+    "Stopp kannst du mich abholen noch mal",
+    60,
+    67,
+    3.87,
+    3
+   ],
+   [
+    "gesungen",
+    "was gesungen habe ",
+    476,
+    495,
+    4.04,
+    2
+   ],
+   [
+    "santa",
+    "Santa lcia",
+    524,
+    530,
+    4.0,
+    2
+   ],
+   [
+    "telegramm",
+    "la ein Telegramm ein Telegramm ein Telegramm si mal ein",
+    23,
+    34,
+    3.36,
+    7
+   ],
+   [
+    "gastspiel",
+    "euch gerade ein Gastspiel habe da steht",
+    57,
+    64,
+    3.22,
+    2
+   ],
+   [
+    "rosita",
+    "Stopp liebe Grüße Rosita ",
+    63,
+    77,
+    2.47,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "warum",
+    "Suppe warum hast du denn keine Pizza",
+    653,
+    662,
+    5.75,
+    2
+   ],
+   [
+    "wohl",
+    "UI dann ist ist jetzt wohl vorbei mit",
+    447,
+    452,
+    5.73,
+    2
+   ],
+   [
+    "tanzen",
+    "wneudauda wir tanzen fröhlich bis zum",
+    176,
+    180,
+    4.4,
+    3
+   ],
+   [
+    "endet",
+    "endet hier auf keinen Fall er bleibt für",
+    266,
+    272,
+    4.55,
+    2
+   ],
+   [
+    "gelacht",
+    "wird so viel gelacht drum Augen",
+    164,
+    169,
+    3.98,
+    2
+   ],
+   [
+    "ich's",
+    "wenn ich's doch machen könnt ach könnt",
+    509,
+    517,
+    3.96,
+    2
+   ],
+   [
+    "gitarren",
+    "Strahlen glitzern auf dem Ozean Gitarren",
+    157,
+    163,
+    3.59,
+    1
+   ],
+   [
+    "spaghetti",
+    "den Spaghetti wird schön gesungen und in",
+    621,
+    631,
+    3.58,
+    1
+   ],
+   [
+    "pasta",
+    "gut speisen in ganz Italien gibt's Pasta",
+    559,
+    567,
+    3.51,
+    1
+   ],
+   [
+    "zuges",
+    "Ankunft des Zuges ",
+    103,
+    148,
+    3.5,
+    1
+   ],
+   [
+    "artisten",
+    "die Statistin Fußball Artisten alle singen",
+    570,
+    581,
+    2.95,
+    1
+   ],
+   [
+    "wonne",
+    "Wonne es wird so viel gelacht und da",
+    254,
+    260,
+    2.95,
+    1
+   ],
+   [
+    "stat",
+    "da stat ihr meinen zauberhaften klang so seh",
+    711,
+    722,
+    2.88,
+    1
+   ],
+   [
+    "sonnenstrahl",
+    "man Zuversicht bei jedem Sonnenstrahl man hat hier immer Mut es ist doch alles",
+    242,
+    250,
+    2.84,
+    1
+   ],
+   [
+    "glitzern",
+    "Strahlen glitzern auf dem Ozean Gitarren",
+    157,
+    163,
+    2.83,
+    1
+   ]
+  ],
+  "voc": 0.10227272727272728,
+  "tx": "la la ein Telegramm ein Telegramm ein Telegramm si mal ein Telegramm ein Telegramm ein Telegramm ein hier es ist für dich aus Brasilien ein Telegramm aus Brasilien ich komme vorbei weil ich bei euch gerade ein Gastspiel habe da steht Stopp kannst du mich abholen noch mal Stopp liebe Grüße Rosita Stopp liebe Grüße Rosita wer ist das eigentlich achtung Achtung planmäßige Ankunft des Zuges hier ist der Himmel ist blau und auch die Luft ist warm im Dschungel tanzt der ganze freche affenkan die Sonne scheint hier immer in Brasilien und ihre Strahlen glitzern auf dem Ozean Gitarren klingen und verzaubern jede Nacht der Strand in Rio erfreut uns jedes Mal hier wird so viel gelacht drum Augen aufgemacht man Tanz hier Samba auf dem Karneval wir liegen hier am Deck unter der Sonne den Amazonas runterchippern ist eine wneudauda wir tanzen fröhlich bis zum morgenraun nächsten Tag begrüßen uns die Aken und auch das Wellen reizen kann man schaffen wir träumen glücklich und seelig durch den Tag bei bunten kneal gibt alles was ich mag und alle Leute sind an Fußball interessiert das Maracana wird von Jubel übermn die Leute sind veros und auch das Spiel geht los Brasilien ist so ein wunderschönes Land hier tanzen Jung und Alt hier tanzen Frau und Mann hier hat man Zuversicht bei jedem Sonnenstrahl man hat hier immer Mut es ist doch alles gut das Leben tot be schön Karneval kakabana erstrahlt unter der Sonne die wilden Affen springen munter welche Wonne es wird so viel gelacht und da Spaß gemacht für alle ist es das reenze Paradies und bei einem Kaffee gibt es eine Pause denn bei der großen Sause will niemand nach Hause das große Glück endet hier auf keinen Fall er bleibt für immer bei uns der tolle Karneval das große Glück endet hier auf keinen Fall er bleibt immer bei uns der schöne Karneval achtung Achtung die Eisenbahn fährt in 5 Minuten pünktlich vom Bahnsteig ab hurra hurra der karnebal geht schon wieder los ا TA t UI dann ist ist jetzt wohl vorbei mit unserem Gastspiel ich soll Gießen noch bevor ich was gesungen habe für berärchens pflanzenwohl gieß ich den weikohl ich bin verzweifelt meine Kunst wird vereitelt als Italienerin wollt ich das Lied Beginn wenn ich's doch machen könnt ach könnt ich's doch machen in Italien würd ich gern immer sing Santa lcia s luciacia ich bin schon ganz schön schwach geworden ich habe Hunger willst du mit OP klang etwas beweisen dann muss man vorher richtig gut speisen in ganz Italien gibt's Pasta und Pizza das macht der Sänger auch keinen Schnitzer sogar der Künstler und die Statistin Fußball Artisten alle singen gern alle singen gern l alle singen gern das mögen alte und auch die Jungen nach den Spaghetti wird schön gesungen und in wenedig wä es sehr schade g nach der Pizza keine seelennagel sogar frisere und journalisttin selbst die Touristen alle singen gern alle singen gern alle was ist das Suppe warum hast du denn keine Pizza gemacht ich muss doch noch singen hier ist nicht Sizilien auch nicht die tosane bei uns gibt statt Pizza bchm viel Sahne mein Teller ist jetzt leer so kann ich nicht singen dann muss ich mir wohl erst not bei bringen Soal s fer lne ich noch alles klar dann sing ich von der Bühne Santa luciaa ihr hatört dann den Gesang oh ja da stat ihr meinen zauberhaften klang so seh B hier und so singen wir hier ja ja so so so so warum sind dann alle meine Videos verschwunden dann beginnen wir mal mit der 1 2 3 4 5 und 6 vielleicht finde ich sie hier oben rechts das Mikrofon klicke ich jetzt an und sage mas unter dran das war einfach und jetzt probiert ihr es mal",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "W-VK74OgP_k": {
+  "channel": "Mascha und der Bär",
+  "lang": "de",
+  "checked": "2026-11-26T06:51:05+00:00",
+  "title": "Mascha und der Bär 💥NEUE FOLGE 2022 💥 Hitzeschwitzen in Mexiko 🌵🌺 (Folge 8) 🎵 Maschas Lieder",
+  "duration": 711,
+  "published": "20221202",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 59.2,
+  "rare": 0.0626,
+  "var": 0.8421,
+  "cl": null,
+  "speech_s": 485.9,
+  "tokens": 479,
+  "kw": [
+   [
+    "tag",
+    "das liegt an ihrem Geheimnis leckere Tag",
+    212,
+    219,
+    5.69,
+    4
+   ],
+   [
+    "sonne",
+    "Pfeffer und Schokolade die Sonne scheint",
+    142,
+    152,
+    4.85,
+    4
+   ],
+   [
+    "vielleicht",
+    "oh wir könnten vielleicht handeln ",
+    477,
+    520,
+    5.72,
+    3
+   ],
+   [
+    "nie",
+    "der Winter hört wohl nie auf",
+    12,
+    19,
+    5.67,
+    3
+   ],
+   [
+    "griechenland",
+    "ist aus dem alten Griechenland wo wollt ihr damit hin das ist ein",
+    460,
+    471,
+    4.54,
+    4
+   ],
+   [
+    "frühling",
+    "kann es denn nicht endlich Frühling",
+    16,
+    21,
+    4.25,
+    4
+   ],
+   [
+    "wollt",
+    "wo wollt ihr damit hin das ist ein",
+    465,
+    471,
+    4.7,
+    2
+   ],
+   [
+    "kalt",
+    "hier ist es nie kalt hier gibt's keinen",
+    178,
+    185,
+    4.56,
+    2
+   ],
+   [
+    "schmecken",
+    "brotkringel schmecken mit Honig ja auch",
+    339,
+    344,
+    4.17,
+    2
+   ],
+   [
+    "griechen",
+    "Griechen brachten uns die Walnuss die",
+    555,
+    559,
+    4.02,
+    2
+   ],
+   [
+    "bär",
+    "wach auf Bär sonst verschläfst du noch",
+    52,
+    58,
+    4.0,
+    2
+   ],
+   [
+    "kunstwerk",
+    "das ist ein Kunstwerk aus dem Museum",
+    451,
+    458,
+    3.84,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "alten",
+    "ist aus dem alten Griechenland wo wollt ihr damit hin das ist ein",
+    460,
+    471,
+    5.31,
+    3
+   ],
+   [
+    "komm",
+    "wer komm schon guck dir das an",
+    77,
+    83,
+    4.91,
+    3
+   ],
+   [
+    "singen",
+    "wir singen und freuen uns denn hier ist",
+    165,
+    174,
+    4.56,
+    2
+   ],
+   [
+    "käse",
+    "es in Mexiko und Käse ",
+    229,
+    238,
+    4.33,
+    2
+   ],
+   [
+    "götter",
+    "alten Griechen schrieben über Götter viele Mythen auf Herkules der große Zeus",
+    578,
+    587,
+    4.16,
+    1
+   ],
+   [
+    "mittagessen",
+    "aber das Mittagessen sicher nicht ",
+    679,
+    688,
+    4.14,
+    1
+   ],
+   [
+    "fröhlichen",
+    "sind immer fröhlichen ",
+    207,
+    218,
+    3.58,
+    1
+   ],
+   [
+    "bunter",
+    "Kakteen sind voll bunter Blüten und hohe",
+    199,
+    207,
+    3.56,
+    1
+   ],
+   [
+    "zitrone",
+    "Saft und einer Zitrone ",
+    155,
+    165,
+    3.56,
+    1
+   ],
+   [
+    "zeus",
+    "viele Mythen auf Herkules der große Zeus",
+    580,
+    587,
+    3.53,
+    1
+   ],
+   [
+    "orangen",
+    "macht auch was her auch Orangen",
+    556,
+    561,
+    3.49,
+    1
+   ],
+   [
+    "schmücken",
+    "Palmen schmücken die Strände die Leute",
+    203,
+    211,
+    3.49,
+    1
+   ],
+   [
+    "kakteen",
+    "Kakteen sind voll bunter Blüten und hohe",
+    199,
+    207,
+    2.99,
+    1
+   ],
+   [
+    "mascha",
+    "jetzt an und sage Mascha und der Bär",
+    702,
+    710,
+    2.94,
+    1
+   ],
+   [
+    "walnuss",
+    "Griechen brachten uns die Walnuss die",
+    555,
+    559,
+    2.87,
+    1
+   ],
+   [
+    "verschmäht",
+    "ich weiß dass ihr die Kunst verschmäht",
+    677,
+    684,
+    2.75,
+    1
+   ],
+   [
+    "archimedes",
+    "und Archimedes lebten hier vor langer",
+    586,
+    591,
+    2.68,
+    1
+   ],
+   [
+    "kunstobjekte",
+    "Kunstobjekte immer zum Tag auch Tag ein",
+    536,
+    541,
+    2.49,
+    1
+   ]
+  ],
+  "voc": 0.05141388174807198,
+  "tx": "der Winter hört wohl nie auf kann es denn nicht endlich Frühling werden oh wow ist es möglich dass der Frühling schon da ist wach auf Bär sonst verschläfst du noch den Frühling niemals Sie mal was ich habe wer komm schon guck dir das an komm mit ins Land der sombrer zu jeder Zeit immer alles perfekt ist der heiße windricht gar nicht Bade sondern nach Pfeffer und Schokolade die Sonne scheint immer zu es gibt keinen Winter in dieser Zone wie findest du nur im Glas mit etwas Saft und einer Zitrone wir singen und freuen uns denn hier ist es warm in Mexiko unter der Sonne hier ist es nie kalt hier gibt's keinen Schnee Blütenduft in der Luft es riecht nach Akazien hier ohne Ende Kakteen sind voll bunter Blüten und hohe Palmen schmücken die Strände die Leute sind immer fröhlichen das liegt an ihrem Geheimnis leckere Tag kurz mit klare Soße wir singen und freuen uns denn hier ist es in Mexiko und Käse hier ist es nie kalt ühling gekommen komm schon wir gehen raus in die Sonne bitte sei mir nicht böse ich wollte uns nur ein bisschen Frühling verschaffen brotkringel schmecken mit Honig ja auch viel besser wo habt ihr das denn her das ist ein Kunstwerk aus dem Museum ist ein bedeutendes Meisterwerk und es ist aus dem alten Griechenland wo wollt ihr damit hin das ist ein echtes Kunstwerk und es sollte für wirklich jeden auf dieser Welt da sein gibt es wieder Leute oh wir könnten vielleicht handeln an diesem schönen Fleckchen auch Griechenland genannt begrüßt man uns mit Wärme und mit Wellen am schönen Strand die alten Meister arbeiteten dort am harten Marmorstein sie schufen wahre Kunstobjekte immer zum Tag auch Tag ein jeder der hier lebt der singt und tanzt dazu Käse und Oliven die sind ein echter Clou im Verlauf der Weltgeschichte fuhren Schiffe durch das Meer die Griechen brachten uns die Walnuss die macht auch was her auch Orangen schmecken sehr alten Griechen schrieben über Götter viele Mythen auf Herkules der große Zeus und und das Zeugnis drauf die Tage das und Archimedes lebten hier vor langer Zeit sie entdeckten viele Sachen für die Menschheit weit von großer Wichtigkeit wir lieben Griechenland die konzentige Geschichten sind uns allen sehr bekannt die Sonne hier in Griechenland sich seit dem ganzen Tag das ist bestimmt der Grund weshalb ich hier so und was ist mit der Amphore hey das ist nicht nett hey Jungs wollt ihr zwei euch vielleicht mal die Pfoten waschen ich weiß dass ihr die Kunst verschmäht aber das Mittagessen sicher nicht warum sind denn alle meine Videos verschwunden dann beginnen wir mal mit der Suche 1 2 3 4 5 und 6 vielleicht finde ich sie hier oben rechts das Mikrofon klicke ich jetzt an und sage Mascha und der Bär dran das war einfach und jetzt probier",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "QjwjP1kezZ8": {
+  "channel": "Mascha und der Bär",
+  "lang": "de",
+  "checked": "2026-11-26T06:53:18+00:00",
+  "title": "Mascha und der Bär 🎆 NEUE FOLGE 2022 🎆 Wie einst im alten Griechenland (Folge 12) 🌿 Maschas Lieder",
+  "duration": 720,
+  "published": "20220624",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 59.8,
+  "rare": 0.0893,
+  "var": 0.8112,
+  "cl": null,
+  "speech_s": 550.4,
+  "tokens": 549,
+  "kw": [
+   [
+    "gern",
+    "Italien würd ich gern immer sing Centa",
+    474,
+    484,
+    5.15,
+    6
+   ],
+   [
+    "tag",
+    "Kunstobjekte immer zu Tag aus Tag ein",
+    194,
+    201,
+    5.69,
+    5
+   ],
+   [
+    "wohl",
+    "UI dann ist es jetzt wohl vorbei mit",
+    403,
+    410,
+    5.73,
+    3
+   ],
+   [
+    "vielleicht",
+    "Leute oh wir könnten vielleicht handeln",
+    134,
+    141,
+    5.72,
+    3
+   ],
+   [
+    "singen",
+    "Fußball Artisten alle singen gern alle singen",
+    527,
+    536,
+    4.56,
+    8
+   ],
+   [
+    "pizza",
+    "ganz Italien gibt's Pasta und Pizza das",
+    516,
+    524,
+    4.3,
+    4
+   ],
+   [
+    "griechenland",
+    "Griechenland genannt begrüßt man uns mit",
+    182,
+    189,
+    4.54,
+    3
+   ],
+   [
+    "wollt",
+    "Land wo wollt ihr damit hin das ist ein",
+    123,
+    129,
+    4.7,
+    2
+   ],
+   [
+    "griechen",
+    "Griechen Land wo wollt ihr damit hin das ist ein",
+    119,
+    129,
+    4.02,
+    3
+   ],
+   [
+    "gesungen",
+    "gesungen habe für berärchens plänzen wohl gieß",
+    431,
+    453,
+    4.04,
+    2
+   ],
+   [
+    "ich's",
+    "wenn ich's doch machen könnt ach könnte",
+    464,
+    473,
+    3.96,
+    2
+   ],
+   [
+    "kunstwerk",
+    "Kunstwerk aus dem Museum das ist ein bedeutendes",
+    111,
+    120,
+    3.84,
+    2
+   ],
+   [
+    "lucia",
+    "Lucia Centa",
+    481,
+    492,
+    3.49,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "alten",
+    "Meisterwerk und es ist aus dem alten",
+    117,
+    122,
+    5.31,
+    3
+   ],
+   [
+    "her",
+    "wo habt ihr das denn her das ist ein",
+    107,
+    115,
+    5.25,
+    3
+   ],
+   [
+    "cool",
+    "ich den weiß cool ich bin",
+    447,
+    457,
+    4.79,
+    1
+   ],
+   [
+    "künstler",
+    "sogar der Künstler und die statistink",
+    523,
+    533,
+    4.78,
+    1
+   ],
+   [
+    "sing",
+    "Italien würd ich gern immer sing Centa",
+    474,
+    484,
+    3.82,
+    2
+   ],
+   [
+    "noten",
+    "Noten bei bringen so se",
+    644,
+    655,
+    4.18,
+    1
+   ],
+   [
+    "spaghetti",
+    "den Spaghetti wird schön gesungen und in",
+    577,
+    586,
+    3.58,
+    1
+   ],
+   [
+    "zeus",
+    "Zeus und Odyseus hatten es drauf",
+    241,
+    247,
+    3.53,
+    1
+   ],
+   [
+    "pasta",
+    "ganz Italien gibt's Pasta und Pizza das",
+    516,
+    524,
+    3.51,
+    1
+   ],
+   [
+    "orangen",
+    "macht auch was her auch Orangen",
+    215,
+    220,
+    3.49,
+    1
+   ],
+   [
+    "pfoten",
+    "mal die Pfoten waschen grei zu ich weiß dass ihr die",
+    331,
+    340,
+    3.48,
+    1
+   ],
+   [
+    "artisten",
+    "Fußball Artisten alle singen gern alle singen",
+    527,
+    536,
+    2.95,
+    1
+   ],
+   [
+    "toscana",
+    "Toscana bei uns gibt stad Pizza",
+    624,
+    632,
+    2.89,
+    1
+   ],
+   [
+    "pythagoras",
+    "Pythagoras und Archimedes lebten hier vor langer Zeit sie entdeckten viele",
+    244,
+    251,
+    2.84,
+    1
+   ],
+   [
+    "stad",
+    "Toscana bei uns gibt stad Pizza",
+    624,
+    632,
+    2.69,
+    1
+   ],
+   [
+    "archimedes",
+    "Pythagoras und Archimedes lebten hier vor langer Zeit sie entdeckten viele",
+    244,
+    251,
+    2.68,
+    1
+   ],
+   [
+    "kunstobjekte",
+    "Kunstobjekte immer zu Tag aus Tag ein",
+    194,
+    201,
+    2.49,
+    1
+   ]
+  ],
+  "voc": 0.08078602620087336,
+  "tx": "ля-ля ля-ля Sch wo habt ihr das denn her das ist ein Kunstwerk aus dem Museum das ist ein bedeutendes Meisterwerk und es ist aus dem alten Griechen Land wo wollt ihr damit hin das ist ein echtes Kunstwerk und es sollte für wirklich jeden auf dieser Welt da sein gibt es wieder zurück Leute oh wir könnten vielleicht handeln อ an diesem schönen Fleckchen auch Griechenland genannt begrüßt man uns mit Wärme und mit Wellen am schönen Strand die alten Meister arbeiteten dort am harten Morstein sie schufen Ware Kunstobjekte immer zu Tag aus Tag ein jawohl Tag aus Tag ein jeder der hier lebt der singt und tanzt dazu Käse und Oliven die sind ein echter Kue im Verlauf der Weltgeschichte fuhren Schiffe durch das Meer die Griechen brachten uns die weinos die macht auch was her auch Orangen schmecken sehr die alten Griechen schrieben über Götter viele myen auf Herkules der große Zeus und Odyseus hatten es drauf Pythagoras und Archimedes lebten hier vor langer Zeit sie entdeckten viele Sachen für die Menschheit weit und breit von großer wichtigkeitauber die Schönheit wir lieben Griechenland die Kunst und die Geschichten sind uns allen sehr bekannt die Sonne hier in Griechenland sie scheint den ganzen Tag das ist bestimmt der Grund weshalb ich hier so mag und was ist mit der Amphore hey das ist nicht nett hey Jungs wollt ihr zwei euch vielleicht mal die Pfoten waschen grei zu ich weiß dass ihr die Kunst verschmätt aber das Mittagessen sicher nicht t UI dann ist es jetzt wohl vorbei mit unserem Gastspiel ich soll Gießen noch bevor ich was gesungen habe für berärchens plänzen wohl gieß ich den weiß cool ich bin verzweifelt meine Kunst wird vereitelt als Italienerin wollte ich das Lied Beginn wenn ich's doch machen könnt ach könnte ich's doch machenchen wie in Italien würd ich gern immer sing Centa Lucia Centa Lucia ich bin schon ganz schön schwach geworden ich habe Hunger du mit operklang etwas beweisen dann muss man vorher richtig gut speisen in ganz Italien gibt's Pasta und Pizza das macht der Sänger auch keinen Schnitzer sogar der Künstler und die statistink Fußball Artisten alle singen gern alle singen gern alle singen gern das mögen alte und auch die Jungen nach den Spaghetti wird schön gesungen und in wenedigch wä es sehr schade geh nach der Pizza kein serelennagel sogar Friseure und journalisttin selbst die Touristen alle singen gern alle singen gern alle was ist das Suppe warum hast du denn keine Pizza gemacht ich muss doch noch singen hier ist nicht Sizilien auch nicht die Toscana bei uns gibt stad Pizza burchmit viel zah mein Teller ist jetzt leer so kann ich nicht singen dann muss ich mir wohl erst Noten bei bringen so se fertig lern ich noch alles klar dann sing ich von der Bühne son ihr hatör an den Gesang oh ja der ST und her meinen zauhaften klang so se hier und so singen wir hier ja ja so so so so warum sind denn alle meine Videos verschwunden h dann beginnen wir mal mit der Suche 1 2 3 4 5 und se vielleicht finde ich sie ja hier oben rechts das Mikrofon klicke ich jetzt an und sage Masa undter Bär ist dran das war einfach und jetzt probiert ihr es mal",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
  }
 }

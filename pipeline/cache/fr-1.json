@@ -251667,5 +251667,37 @@
   "status": "ok",
   "src": "auto",
   "voc": 0.10338983050847457
+ },
+ "JC06Ut-RY-A": {
+  "channel": "French Comprehensible Input",
+  "lang": "fr",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:48:06+00:00",
+  "tries": 1
+ },
+ "MYMQMDGJh3I": {
+  "channel": "French Comprehensible Input",
+  "lang": "fr",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:50:25+00:00",
+  "tries": 1
+ },
+ "-kCutdcHo04": {
+  "channel": "French Comprehensible Input",
+  "lang": "fr",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:51:55+00:00",
+  "tries": 1
+ },
+ "SoCZom2_094": {
+  "channel": "French Comprehensible Input",
+  "lang": "fr",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:52:42+00:00",
+  "tries": 1
  }
 }

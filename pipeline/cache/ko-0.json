@@ -98061,5 +98061,13 @@
   "status": "ok",
   "src": "cc",
   "voc": 0.16774193548387098
+ },
+ "mWii3JMKrXs": {
+  "channel": "Tayo Korean Official",
+  "lang": "ko",
+  "status": "error",
+  "error": "빈 응답 (YouTube가 영상 정보를 주지 않음)",
+  "checked": "2026-11-26T06:46:27+00:00",
+  "tries": 1
  }
 }
