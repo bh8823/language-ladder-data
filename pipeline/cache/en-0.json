@@ -55809,7 +55809,7 @@
  "qJGAC40hG5M": {
   "channel": "smile English stories",
   "lang": "en",
-  "checked": "2026-11-14T00:33:39+00:00",
+  "checked": "2026-11-25T23:29:17+00:00",
   "title": "You NEED Sweet Pastry... if you have a SWEET TOOTH 😆 / EASY English",
   "duration": 417,
   "published": "20211129",
@@ -55818,6 +55818,7 @@
   "pace": 84.8,
   "rare": 0.037,
   "var": 0.693,
+  "cl": 0.0416,
   "speech_s": 306.2,
   "tokens": 433,
   "kw": [
@@ -55942,16 +55943,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "food",
+    "I am going to use my food processor... very practical…",
+    119,
+    128,
+    5.4,
+    4
+   ],
+   [
+    "under",
+    "Look at the links under this video.",
+    86,
+    89,
+    5.73,
+    3
+   ],
+   [
+    "butter",
+    "So now we are ready for the butter cold butter from the fridge.",
+    201,
+    212,
+    4.4,
+    3
+   ],
+   [
+    "recipe",
+    "In this video, I am going to share my Gran’s recipe for sweet pastry with you.",
+    89,
+    100,
+    4.23,
+    3
+   ],
+   [
+    "recipes",
+    "And you can find some of these recipes in my videos.",
+    80,
+    86,
+    3.99,
+    2
+   ],
+   [
+    "snack",
+    "We often eat something sweet for a snack,",
+    17,
+    24,
+    3.9,
+    2
+   ],
+   [
+    "contexts",
+    "Welcome to smile English stories where you can listen to English in lots of different contexts.",
+    107,
+    116,
+    3.58,
+    1
+   ],
+   [
+    "cling",
+    "so I need to wrap it in cling film and put it in the fridge for about 30 minutes.",
+    356,
+    367,
+    3.49,
+    1
+   ],
+   [
+    "almonds",
+    "Next we need 25 grams of ground almonds.",
+    164,
+    171,
+    3.28,
+    1
+   ],
+   [
+    "custard",
+    "For example, for a snack, we might use sweet pastry to make a delicious custard tart,",
+    41,
+    53,
+    3.17,
+    1
+   ],
+   [
+    "rhubarb",
+    "or a rhubarb pie, or perhaps a lemon meringue pie…",
+    69,
+    77,
+    2.97,
+    1
+   ],
+   [
+    "meringue",
+    "or a rhubarb pie, or perhaps a lemon meringue pie…",
+    69,
+    77,
+    2.79,
+    1
+   ],
+   [
+    "breadcrumbs",
+    "So now it should look like breadcrumbs.",
+    256,
+    263,
+    2.75,
+    1
+   ]
+  ],
   "tx": "In the United Kingdom, and in England, where I come from, we have a lot of sweet specialities (sweet things to eat). We often eat something sweet for a snack, or after a meal for the dessert. To make these specialities, we often need, we often use pastry, sweet pastry. For example, for a snack, we might use sweet pastry to make a delicious custard tart, or a Bakewell tart, or at Christmas... a mince pie. And for a dessert we might need pastry to make an apple pie, or a rhubarb pie, or perhaps a lemon meringue pie… ...or a Banoffee pie! And you can find some of these recipes in my videos. Look at the links under this video. In this video, I am going to share my Gran’s recipe for sweet pastry with you. By the way, if you are new to my channel, I'm Rachel. Welcome to smile English stories where you can listen to English in lots of different contexts. I am going to use my food processor... very practical… ...so if I switch my food processor on, we can start! First we need to put 165 grams of plain flour in the food processor. 165 ! Next we need 25 grams of ground almonds. 25 ! And next we need 50 grams of sugar, caster sugar (that's fine sugar) 40 (I don't like my pastry too sweet, so I only put 40 grams in) So now we are ready for the butter cold butter from the fridge. You put the butter in the bowl in little pieces. 145… 150! Okay, so now I can put the lid on the machine and mix it together. So now it should look like breadcrumbs. So, to mix the pastry together, we need an egg. So if I break my egg in a bowl, I can mix it a little with a fork... oops... ...and… ...put the lid back on the food processor… ...and mix the egg in till it makes a ball. So... little by little... It's starting to make a ball... Okay, so now I have my bowl of pastry, not too wet and not too dry, so I need to wrap it in cling film and put it in the fridge for about 30 minutes. So perhaps you can try my Gran’s sweet pastry recipe and make one of the recipes under the video. If you enjoyed this video, give me a thumbs up, and share it with a friend. Oh and if you would like a free pdf of the sweet pastry recipe, click on the link under the video, and I'll see you next time. Bye for now!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0416
+  "src": "cc"
  },
  "8AIWsI9AXI4": {
   "channel": "Alex Bondoc",
   "lang": "en",
-  "checked": "2026-11-14T00:36:19+00:00",
+  "checked": "2026-11-25T23:33:22+00:00",
   "title": "Introvert's uni week in autumn (cozy, studying & baking)",
   "duration": 652,
   "published": "20261003",
@@ -55960,6 +56066,7 @@
   "pace": 127.4,
   "rare": 0.0236,
   "var": 0.7761,
+  "cl": 0.0405,
   "speech_s": 279.4,
   "tokens": 593,
   "kw": [
@@ -56060,16 +56167,153 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bit",
+    "I just like I put down for a bit. But",
+    103,
+    107,
+    5.37,
+    4
+   ],
+   [
+    "doing",
+    "Yeah, I'm not doing much today. Today",
+    243,
+    247,
+    5.6,
+    3
+   ],
+   [
+    "busy",
+    ">> Hello. It's been a really busy week and",
+    522,
+    527,
+    4.75,
+    1
+   ],
+   [
+    "responsibility",
+    ">> We take responsibility. I even stopped. I wonder.",
+    595,
+    632,
+    4.75,
+    1
+   ],
+   [
+    "appreciate",
+    "get to appreciate them. I'm so sorry.",
+    399,
+    407,
+    4.74,
+    1
+   ],
+   [
+    "filming",
+    "the 1st, well, when I'm filming this.",
+    541,
+    547,
+    4.19,
+    1
+   ],
+   [
+    "harsh",
+    "Harsh. It's such a beautiful day.",
+    170,
+    175,
+    4.14,
+    1
+   ],
+   [
+    "nowadays",
+    "quickly nowadays. >>",
+    433,
+    448,
+    4.11,
+    1
+   ],
+   [
+    "grocery",
+    "little bit of grocery shopping cuz",
+    331,
+    335,
+    4.06,
+    1
+   ],
+   [
+    "oven",
+    "Okay, into the oven. >>",
+    512,
+    526,
+    4.05,
+    1
+   ],
+   [
+    "ouch",
+    "Ouch. I feel like these went out pretty fast.",
+    390,
+    396,
+    3.56,
+    1
+   ],
+   [
+    "humid",
+    "humid air. I'm going to do a little review before I",
+    319,
+    326,
+    3.5,
+    1
+   ],
+   [
+    "sun's",
+    "I feel like the sun's going down so",
+    432,
+    437,
+    3.43,
+    1
+   ],
+   [
+    "muffin",
+    ">> Mini muffin. Okay, into the oven.",
+    510,
+    516,
+    3.35,
+    1
+   ],
+   [
+    "muffins",
+    "Going to bake some muffins after this. I",
+    369,
+    374,
+    3.24,
+    1
+   ],
+   [
+    "rereading",
+    "I'm rereading it, and I really like how",
+    105,
+    109,
+    2.67,
+    1
+   ],
+   [
+    "pseudoscience",
+    ">> It's It's just a pseudoscience, but I",
+    412,
+    418,
+    2.56,
+    1
+   ]
+  ],
   "tx": ">> I'm going to try my moon cake. I'll see if it's still good. >> >> I'm actually not sure if if this is still okay to eat. I should probably stop eating it. >> >> Hello. Hello. So earlier this year, I tried reading this. But it was just it was really wordy, so I just like I put down for a bit. But I'm rereading it, and I really like how it's going. I think Tolkien is known for being a bit more on the wordy side, but that's actually kind of nice. I'm going to go outside. I want to read. >> So cute. What's on menu? Harsh. It's such a beautiful day. >> >> Good afternoon. It's me and my mochi today. It's such a beautiful day. Mochi is so good. >> >> Good morning. I'm at the lab. I was going to say earlier, but I I I just on time, so I got to go. Goodbye. Hello. Let's spend the whole day on campus. Yeah, I'm not doing much today. Today I'm just getting lots of work done ahead of time. That's really the plan. This we found here. Is that a four or five? Woah! I think I found a five. Woah! This is so cool. It's my second time. So cute. >> >> Okay, let's go. Going to the lab again. I will see you soon. >> >> Hello. This is what happens when I'm out in the humid air. I'm going to do a little review before I study for the exam. Or what what? I'll do a little before I take the exam. I'm going to go back home. All right, I'll do a little bit of grocery shopping cuz believe it or not, I'm actually spending the weekend out. >> >> Let's give this a little trim. Going to bake some muffins after this. I don't know why I feel so tired. Oh, it's coming off this one now. I should have done this a long time ago. I just, you know, I really did not have much time and it's just so sad. But at least I'm doing it now, right? Let's try to not prick ourselves. Ouch. I feel like these went out pretty fast. Usually I can keep them for at least a week. Oops. Sorry, guys. Like I didn't even get to appreciate them. I'm so sorry. Someone was asking for my MBTI. I would like someone to guess. >> >> I'm just curious what people might think. MBTI is so interesting because it's not even real. >> >> It's It's just a pseudoscience, but I understand that it Yeah, it is like even for me I think it's fun, but like I also know that like we're all too complicated to just put into 16 different categories. Was that all of them? I feel like the sun's going down so quickly nowadays. >> >> We're going to do some cozy baking. I don't usually do night baking, but I feel like it's perfect timing. We have Nala as our audience. >> >> When I'm >> >> Let's add the blueberries. >> >> Mini muffin. Okay, into the oven. >> >> Hello. It's been a really busy week and I still feel like I did not get enough of the baking portion to help me out. But anyway, I hope you enjoyed this video. I feel like it might be a little bit laid-back because I don't have to get this out early. You're all doing great. I'll see Oh, happy October. It's October the 1st, well, when I'm filming this. I will see you next week. I'm good. Bye. >> >> We take responsibility. I even stopped. I wonder. >>",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0405
+  "src": "auto"
  },
  "_5PPbnE7IW4": {
   "channel": "Fingtam English",
   "lang": "en",
-  "checked": "2026-11-13T22:42:54+00:00",
+  "checked": "2026-11-25T23:25:40+00:00",
   "title": "❤️Love and Romance 💕",
   "duration": 498,
   "published": "20241124",
@@ -56078,6 +56322,7 @@
   "pace": 140.4,
   "rare": 0.006,
   "var": 0.6416,
+  "cl": 0.024,
   "speech_s": 498.8,
   "tokens": 1167,
   "kw": [
@@ -56194,16 +56439,89 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "might",
+    "like someone you might go on a date a",
+    81,
+    89,
+    5.66,
+    10
+   ],
+   [
+    "friends",
+    "friends friends can talk with each other",
+    15,
+    22,
+    5.43,
+    9
+   ],
+   [
+    "anniversary",
+    "anniversary every year the day you got",
+    458,
+    466,
+    4.53,
+    5
+   ],
+   [
+    "dinner",
+    "can go on a dinner date a dinner date is",
+    159,
+    167,
+    4.78,
+    4
+   ],
+   [
+    "cheek",
+    "woman are kissing on the cheek the",
+    336,
+    342,
+    3.96,
+    2
+   ],
+   [
+    "15th",
+    "15th every year you could celebrate your",
+    467,
+    476,
+    3.89,
+    2
+   ],
+   [
+    "salsa",
+    "swing dancing you could go salsa dancing",
+    248,
+    256,
+    3.53,
+    1
+   ],
+   [
+    "sentimental",
+    "sentimental they are leaning into each",
+    229,
+    237,
+    3.53,
+    1
+   ],
+   [
+    "leaned",
+    "and shocked they are leaned into each",
+    211,
+    218,
+    3.41,
+    1
+   ]
+  ],
   "tx": "have you ever been in love hi I'm teacher Tara and today we are going to talk about love and romance here is a woman and a man they are friends friends can talk with each other they can joke with each other they can laugh with each other they can hang out together here is a group of friends they are just friends they laugh together they joke together they talk to each other and they have fun together here is a woman and a man the woman is playing with the man's hair she is flirting with him flirting is the start of liking someone it's when you act like you are attracted to someone you want to have a relationship with them the man and the woman are sitting close to each other they are looking into each other's eyes they like each other they are interested in each other they want to be romantic together they want to be in a relationship they are not just friends friends do not sit that close friends do not look into each other's eyes when you like someone you might go on a date a date is the same as going out this couple when went on a date to a restaurant the man and the woman are smiling and looking at each other they're looking at each other's eyes the man and the woman are making eye contact they seem interested in each other they like each other they are on a date when you go on many dates with the same person you are dating that person you were going out with that person dating and going out mean the same thing after you've gone on many dates you might become a couple a couple is when two people only go on dates and like each other they do not go on dates with other people they do not like other people here in the picture you have a boyfriend the man and you have a girlfriend the woman they are each other's Partners a partner can be a male or a female a partner can be a woman or a man whether you are just dating or have been in a relationship for a long time you can go on a dinner date a dinner date is when a couple goes to a restaurant together it's usually a formal or nice restaurant if you take your date to McDonald's you might not have a second date this couple is sitting at a fancy restaurant there's a candle that has good lighting they're drinking wine they are on a fancy dinner date this couple went on a date to the movies they are sitting close to each other they are sharing popcorn after the movie date they might talk about the movie in the first picture you can tell that the couples are at a scary movie you can see that their faces look scared and shocked they are leaned into each other their muscles are tense they are both scared of what they are watching in the second picture the couple is on a date to a romantic movie their faces look calm maybe sentimental they are leaning into each other they are at a romantic movie when you go on a movie date what type of movie do you like to watch scary or romantic another type of date you can go on is to go out dancing you could go swing dancing you could go salsa dancing in this photo the couples are swing dancing dancing is romantic and it is a good exercise you can be close to your partner and have fun you can laugh with your partner while you are dancing another type of date you could go on is a walk outside if you live near an ocean you can go on a walk at the beach this couple is walking at Sunset the Sun is going down it is not too hot they are looking into each other's eyes they are holding hands it is very romantic the man and the woman are holding hands when a couple wants to show affection or wants to show that they like each other they might hold hands in public they might hold hands at the park they might hold hands at a store they might hold hands at a restaurant the man and the woman are hugging he is hugging the woman the woman is hugging the man the man and the woman are cuddling they are cuddling in bed the man has his arm wrapped around his girlfriend she is cuddling into him another thing that couples do is kiss the first picture the man and the woman are kissing on the cheek the second picture the man and the woman are kissing on the lips in the last picture the man and the woman are making out their mouths are open and they kiss for a long time you do not make out with your family you do not make out with a stranger or a friend you might kiss your mom on the cheek you might kiss your grandma on the lips but you do not make out with your mom you do not make out with your grandma that would be gross fall in love in these pictures the couples are falling in love in the first picture they are starting to like each other it is the beginning maybe they are friends and they are flirting in the next picture they are a couple they are at a dinner date and they are falling in love in the last picture it is an older couple and they are in love this is how we fall in love first we start as friends then we become a couple last we spend our life together as a couple we are in love in this photo you see a man and a woman getting married this is their wedding when a couple likes each other and wants to be together for the rest of their lives they get married their families both came to watch them get married they got married during the fall time here is a wife and her husband sitting in the back of a car they just got married the wife is looking at the husband they are very happy every year you can celebrate your wedding by having an anniversary every year the day you got married will be your anniversary so if you got married October 15th every year you could celebrate your wedding and your marriage on October 15th this is called your anniversary it's like a birthday a birthday celebrates the day you were born couples can celebrate the day that they started dating that is their anniversary married couples can celebrate the day that they got married the day of their wedding that is their wedding anniversary",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.024
+  "src": "auto"
  },
  "jh3W6Y5jUhQ": {
   "channel": "English Comprehensible Input for ESL Beginners",
   "lang": "en",
-  "checked": "2026-11-14T01:23:06+00:00",
+  "checked": "2026-11-25T23:26:36+00:00",
   "title": "WRITE ✍ Learn English Verbs | English Comprehensible Input Easy Beginner Lesson | Natural Approach",
   "duration": 224,
   "published": "20240611",
@@ -56212,6 +56530,7 @@
   "pace": 115.0,
   "rare": 0.0122,
   "var": 0.5389,
+  "cl": 0.0244,
   "speech_s": 213.4,
   "tokens": 409,
   "kw": [
@@ -56296,16 +56615,81 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "using",
+    "with uh what is he using to",
+    41,
+    51,
+    5.47,
+    5
+   ],
+   [
+    "boy",
+    "or a boy a boy yeah yeah this is a boy",
+    22,
+    30,
+    5.17,
+    5
+   ],
+   [
+    "today's",
+    "before before I wrote uh today's",
+    88,
+    97,
+    4.53,
+    1
+   ],
+   [
+    "printed",
+    "letters so I've uh written or printed",
+    111,
+    121,
+    4.4,
+    1
+   ],
+   [
+    "hurts",
+    "hand tired my hands tired my hand hurts",
+    180,
+    189,
+    4.3,
+    1
+   ],
+   [
+    "keyboard",
+    "tiring but typing typing on a keyboard",
+    193,
+    201,
+    4.11,
+    1
+   ],
+   [
+    "marker",
+    "use I use this marker to write so for",
+    81,
+    89,
+    3.87,
+    1
+   ],
+   [
+    "comprehensible",
+    "comprehensible English",
+    215,
+    220,
+    2.71,
+    1
+   ]
+  ],
   "tx": "watch listen understand learn watch and listen to understand and learn English comible English comible English in this picture is there a girl or a boy a boy yeah yeah this is a boy and what is the boy doing what is he doing he's writing yeah he is he is writing so he is he is writing um what oh what is he writing with uh what is he using to write pencil or pen uh I think I think he is using a pencil this is a pencil I think the boy is using a pencil to write so I think he is writing with a pencil like this this is a pencil oh Luke can you write yes I can a b c d yeah yeah we can write we can write letters um usually I use I use this marker to write so for example I've I've written the date or before before I wrote uh today's date uh 2023 so there um I've just written the date again so I just wrote the date and so I can write numbers those are numbers um I can write letters these are letters so I've uh written or printed these letters here and um Luke do you like to write um sometimes sometimes not all the time yeah um actually um I like to write but I don't I don't really like to write by hand with my hands oh you like typing on the computer yeah yeah so I like I like to write things I like to write by typing I like to write with a computer it's very it's very fast to type like this but writing like this writing with a pencil writing a lot writing with a pencil or writing uh writing with writing with a pen like this it's very slow I find it very slow to write to write by hand I find writing by hand very slow and very tiring it makes my hand tired my hands tired my hand hurts if I have to write a lot with my hands using a pencil or using a pen that's tiring but typing typing on a keyboard on the computer here that's very fast so I like writing this way but I don't I don't really like uh writing a lot by hand with my hands watch listen understand learn watch and listen to understand and learn English comprehensible English",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0244
+  "src": "auto"
  },
  "BTwZm5bF9Yw": {
   "channel": "smile English stories",
   "lang": "en",
-  "checked": "2026-11-14T01:23:55+00:00",
+  "checked": "2026-11-26T00:29:13+00:00",
   "title": "😌 To England and back : twice !  //  EASY English",
   "duration": 686,
   "published": "20211115",
@@ -56314,6 +56698,7 @@
   "pace": 100.5,
   "rare": 0.0345,
   "var": 0.7327,
+  "cl": 0.0368,
   "speech_s": 518.7,
   "tokens": 869,
   "kw": [
@@ -56446,11 +56831,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "needed",
+    "But then we needed to get to England. We needed to go to England, because",
+    115,
+    124,
+    5.18,
+    4
+   ],
+   [
+    "guess",
+    "I took one pair of jeans and two T-shirts... but guess how much luggage my daughter took?",
+    205,
+    217,
+    5.17,
+    4
+   ],
+   [
+    "videos",
+    "we were invited out to lunch by one of the people who watches my YouTube videos….",
+    104,
+    113,
+    4.79,
+    2
+   ],
+   [
+    "garden",
+    "...back to my garden and my weeds…",
+    32,
+    37,
+    4.77,
+    2
+   ],
+   [
+    "daughter's",
+    "with all my daughter's luggage (all her baggage, all her suitcases).",
+    413,
+    423,
+    3.78,
+    2
+   ],
+   [
+    "baggage",
+    "luggage (of baggage)... poor plane! We had to self-isolate. That means we needed to stay in one room for… not two weeks...",
+    236,
+    268,
+    3.74,
+    2
+   ],
+   [
+    "aha",
+    "So where was I all summer?... aha!",
+    53,
+    60,
+    3.56,
+    1
+   ],
+   [
+    "colder",
+    "Here it's getting colder, and autumn is coming.",
+    646,
+    653,
+    3.54,
+    1
+   ],
+   [
+    "pecking",
+    "They come all around you, and they start pecking your feet!",
+    390,
+    395,
+    2.88,
+    1
+   ],
+   [
+    "rucksack",
+    "And in here, in my rucksack, I have a little roll… ...a little roll of plastic bags…",
+    522,
+    538,
+    2.64,
+    1
+   ],
+   [
+    "granny's",
+    "“Granny's going to get attacked! I don't want to see a sheep being killed…",
+    323,
+    339,
+    2.39,
+    1
+   ],
+   [
+    "baguettes",
+    "...back to the land of garlic and baguettes…",
+    5,
+    10,
+    2.35,
+    1
+   ],
+   [
+    "hoovering",
+    "...back to the hoovering and the ironing, and the dusting…",
+    23,
+    30,
+    2.18,
+    1
+   ]
+  ],
   "tx": "Hello I'm back back to France… ...back to the land of garlic and baguettes… (I even look like a French woman!)… ...back to my kitchen and my washing up… ...back to the house work… ...back to the hoovering and the ironing, and the dusting… ...back to my garden and my weeds… ...what a disaster! But back with my husband, and back with Mendy! So where was I all summer?... aha! ...in the land of the “Bobbies”... (I saw some policemen, but I didn't see the Queen) If you follow my channel, you probably remember that in July, at the end of July, I was going to Agen with my daughter, and we were going to participate in the language labs in Agen... which we did... and one day we were invited out to lunch by one of the people who watches my YouTube videos…. Hello! But then we needed to get to England. We needed to go to England, because my daughter was going to start school in England, and of course it was a little complicated, because of all the Covid regulations. First, we wanted to stay with my parents up in the north of England, so we booked a flight to Manchester in the middle of August, but then that flight was cancelled, so we were a little bit worried that France would go into the red zone for England, and that it would be difficult to get to England, and so we changed the date, and we flew at the beginning of August. So my poor husband stayed at home for his holidays with Mendy for two weeks, and we went to stay with my parents. I took one pair of jeans and two T-shirts... but guess how much luggage my daughter took? Guess how much she took? Go on... guess! 20…. ...no, more! 30... no, a lot more! 90 kilograms! 90 kilograms of luggage (of baggage)... poor plane! We had to self-isolate. That means we needed to stay in one room for… not two weeks... 10 days. 10 days... but look at the beautiful view we had! That's my mum's garden. But then after 10 days, we could come out of self-isolation, and we could do some nice walks around where my parents live. It's quite hilly near where they live, so it's very pretty... and do you remember the story about Pendle Hill and the witches? Well, we drove over Pendle Hill, and we didn't see any witches, but we did see a lot of sheep! “Granny's going to get attacked! I don't want to see a sheep being killed… ...oh my God! They just really don't care!” And then guess what? We visited Samlesbury Hall where my parents had their wedding reception. Do you remember the story about the White Lady? Samlesbury Hall is really developing and they have a beautiful little restaurant on a terrace outside now… ...but when you arrive, you are greeted... not by sheep... but by hens. They come all around you, and they start pecking your feet! “Where's the other one?” “Behind you!” At the end of August, we drove down to my sister's house with all my daughter's luggage (all her baggage, all her suitcases). We needed to go in the camper van. So then at the beginning of September, I dropped my daughter off at school and said, “Bye bye”. So I'm not sure when I'm going to see her again! I hope in the October holidays. That was in September… ...and now I am preparing to go back to England… ...to go back to England to see my daughter! So I am packing bags again. I have packed a big bag for me and my husband. I have packed clothes and towels and socks... socks! I think it might be cold in England. And this time we are not flying. We are taking Mendy, so we are going to go on the boat, on the ferry. So here I have my travel documents… ...our tickets and Mendy's passport. And in here, in my rucksack, I have a little roll… ...a little roll of plastic bags… ...plastic bags to pick up Mendy's poop! And here, I have… ...wow, it’s heavy!… I have a bag of food for Mendy. And yesterday, we made, I think, a very comfortable bed for our “princess”. Ah, and this is very important too, this box. But why is it important? Well in England, we are going to celebrate a lot of birthdays… ...my sister's birthday… ...my daughter's birthday… ...my husband's birthday… ...and my mum's birthday! So to celebrate a lot of birthdays, I have made a lot of cakes... and I'm going to put the cakes in the box! So now here I am back in France. I hope you had a good summer. Let me know in the comments. Here it's getting colder, and autumn is coming. Look, the leaves are changing colour. So next week I have a very special interview for you, a special guest, one of my friends from Vancouver! So come back and listen next week! And I have put the links to the videos I mentioned in this video… ...under the video! See you next week! Bye for now!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0368
+  "src": "cc"
  },
  "P5CRXKG_4Tw": {
   "channel": "Dreaming English",
@@ -56573,7 +57063,7 @@
  "8x1inMgDh-A": {
   "channel": "English Comprehensible Input for ESL Beginners",
   "lang": "en",
-  "checked": "2026-11-14T03:00:23+00:00",
+  "checked": "2026-11-26T00:27:31+00:00",
   "title": "CUT ✂ Learn English Verbs | English Comprehensible Input Easy Beginner Lesson | Natural Approach",
   "duration": 322,
   "published": "20240405",
@@ -56582,6 +57072,7 @@
   "pace": 119.0,
   "rare": 0.0032,
   "var": 0.5143,
+  "cl": 0.0256,
   "speech_s": 315.0,
   "tokens": 625,
   "kw": [
@@ -56674,11 +57165,52 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "he's",
+    "doing he's cutting a piece of paper yeah",
+    51,
+    61,
+    5.6,
+    10
+   ],
+   [
+    "money",
+    "what about this would you cut money no",
+    0,
+    8,
+    5.64,
+    8
+   ],
+   [
+    "handle",
+    "longer handle yeah something like like that there's an axe yeah you",
+    270,
+    281,
+    4.79,
+    1
+   ],
+   [
+    "drawing",
+    "yeah that's not a very good drawing um",
+    255,
+    263,
+    4.58,
+    1
+   ],
+   [
+    "sheet",
+    "of paper or a sheet of paper and what do",
+    105,
+    113,
+    4.4,
+    1
+   ]
+  ],
   "tx": "what about this would you cut money no don't cut the money no should I should I cut the money no don't do it should I don't do it cut the money no watch listen understand learn listen to understand and learn English comprehensible English in this picture is there a man or a woman a man yeah yeah there's a man here and what what is he doing what is this man doing what is he doing he's cutting a piece of paper yeah yeah so he's cutting or is yeah he's cutting or he's he's going to cut he's going to cut a piece of paper here yeah yeah um what oh what is he going to cut this paper with he's going to use scissors yeah he's going to use uh scissors he's going to use a pair of scissors so this is a pair of scissors and he's going to use these scissors to cut this piece of paper yeah yeah and here oh here I have I have some paper here so this is paper and here's a piece of paper or a sheet of paper and what do I have here scissors yeah I have scissors I have a pair of scissors so I am going to cut this paper I'm going to cut this paper in half so I'm cutting it and cutting it there I have cut it in half so I've cut this piece of paper into two pieces of paper one two two pieces of paper I cut it in half or cut it in two with these scissors Luke do you like uh cutting things with scissors H it's fun yeah uh what do you like to cut with uh scissors paper paper so do you cut uh paper like this yes okay and you like to cut paper with scissors yeah it's fun good what about oh what about this uh would you cut uh money no don't cut the money no should I should I cut don't do it no no I no I won't I won't cut this money with scissors yeah so um I can cut paper but I I won't I won't uh cut money with scissors or with anything yeah so we can cut uh we can cut things or we can cut we can cut paper with uh scissors um what else what's something else you used to cut to cut things with like a saw oh right right yeah yeah a saw actually for a tree there you can use a saw there's a saw saw has so you can use a saw and you can saw and cut down the tree like that Timber cut down you can cut down a tree with a saw or something like that right or an axe you can use an axe to cut down a tree there's an axe uh something like that yeah that's not a very good drawing um yeah so you can you can cut down a tree with a saw or with an axe trying to draw a better axe what does an axe look like it's just got a longer handle yeah something like like that there's an axe yeah you can chop chop chop and then cut down you can cut down a tree with an axe or with a saw right yeah yeah can you can you cut down a tree with h scissors no no no no yeah you need something like a saw or an axe to cut down a tree right yeah yeah so scissors scissors are good for cutting paper things like paper watch listen understand learn watch and listen to understand and learn English comprehensible English",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0256
+  "src": "auto"
  },
  "tV7-8BGfcHs": {
   "channel": "smile English stories",
@@ -125514,7 +126046,7 @@
  "JriTpFSQvyQ": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-12T06:03:37+00:00",
+  "checked": "2026-11-25T23:06:52+00:00",
   "title": "BOX SET: 6 Minute English - 'Language 4' English mega-class! 30 minutes of new vocab!",
   "duration": 1831,
   "published": "20260915",
@@ -125523,6 +126055,7 @@
   "pace": 154.4,
   "rare": 0.0454,
   "var": 0.8203,
+  "cl": 0.0349,
   "speech_s": 1738.0,
   "tokens": 4472,
   "kw": [
@@ -125687,11 +126220,92 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "words",
+    "Julie 'had faith' — in other words, 'trust or confidence' —",
+    169,
+    174,
+    5.25,
+    14
+   ],
+   [
+    "answer",
+    "I'll reveal the answer later in the programme, Rob.",
+    85,
+    89,
+    5.17,
+    14
+   ],
+   [
+    "native",
+    "the loss of their first, native language, or 'mother tongue',",
+    18,
+    23,
+    4.69,
+    8
+   ],
+   [
+    "marks",
+    "The school gets high marks for integration.",
+    461,
+    465,
+    4.49,
+    8
+   ],
+   [
+    "minded",
+    "It taps into that ancient human impulse to belong to a group of like-minded people,",
+    1549,
+    1557,
+    4.15,
+    3
+   ],
+   [
+    "dishes",
+    "They would definitely avoid the dishes,",
+    1316,
+    1319,
+    4.13,
+    3
+   ],
+   [
+    "quotation",
+    "because he wanted to Christianise the, in quotation marks, \"heathens\".",
+    921,
+    928,
+    3.51,
+    4
+   ],
+   [
+    "recap",
+    "Now it's time to recap the vocabulary we've learned",
+    310,
+    314,
+    3.45,
+    4
+   ],
+   [
+    "turvy",
+    "So, it's a topsy-turvy righting the wrong of the past,",
+    927,
+    932,
+    2.49,
+    3
+   ],
+   [
+    "unkind",
+    "To 'mock' somebody means 'to insult them by laughing at them in an unkind way'.",
+    1610,
+    1617,
+    2.99,
+    2
+   ]
+  ],
   "tx": "6 Minute English. From BBC Learning English. Hello. This is 6 Minute English from BBC Learning English. I'm Sam. And I'm Rob. In this programme, we'll be hearing about an issue experienced by many child refugees who are forced to leave their home — the loss of their first, native language, or 'mother tongue', as they start a new life, learning to speak a new language, in a new country. Julie Sedivy and her family left their home in what was then Czechoslovakia and is now the Czech Republic, during the Cold War, when Julie was a small child. After several years travelling through Europe, they … her parents as they struggled in the English-speaking world, and grieving for her native language, which she slowly forgot, and with it, the chance to speak Czech with her dad before he passed away. Julie shares her thoughts on losing and refinding her mother tongue in her book, Memory Speaks. Through it all, Julie kept alive her belief that by speaking two, three or even more languages, we don't forget who we are, but instead gain a sense of tolerance, an idea which she talked about with BBC Radio 4's Word of Mouth. The idea that you can be both of Mexican ancestry, for example, and … — Ah, nǐ hǎo. — Nǐ hǎo! Where did you learn to speak Chinese? At university. Though I must say I'm a bit 'rusty' now! — Rusty? You look OK! — Mm. But what you really mean is you're 'not as fluent as you were before'. That's right. Learning and practising a language requires effort. But the children of the school in London that we're going to be hearing about today had no choice. They're from different countries and no less than 42 languages are spoken in the playground. It's incredible! In the 'playground' — that's 'the area in the schoolyard where children play 'during their break … averages when they are assessed at seven years old. But by the time they're 11, they've caught up with national standards, and at 16 they're flying. He says they are 'assessed' — which means 'tested and given scores' — when they are seven years old. At that time, they have worse results than children in other British schools. But by the time they celebrate their 11th birthday, they've 'caught up' — they've 'become equal' with pupils of their age elsewhere in the country. And by 16, he says, \"they are flying\", which is a nice way to describe these children's progress. It's good for them … 7,000 existing languages, half are under threat. But what can be done to save languages from dying out? That's what we'll be discussing in this programme, and, as usual, we'll be learning some useful new vocabulary as well. But first, I have a question for you, Phil, and it's about a country which used to be one of the most linguistically rich places on Earth — Australia. Before European settlers arrived in the 1800s, Australia had over 200 languages spoken by the native Aboriginal people who had lived there for thousands of years. Many Aboriginal languages were destroyed by the brutal … all, a bit like adding a wink at the end of a sentence, so people know you're not serious. What's ironic is that Professor Zuckermann used the missionary's dictionary not to spread Christianity and English, but to save an Aboriginal language from extinction, so he calls it 'topsy-turvy', meaning 'upside down'. Professor Zuckermann also says he is 'righting the wrongs of the past', a phrase which means 'doing something 'to correct a historical injustice from the past', in this case, the destruction of Aboriginal language and culture. Speaking your own language is about more than … chef takes months as a full-time apprentice, but what is the name of the most famous cooking school teaching French haute cuisine? Is it a) Le Cordon Bleu? b) Le Cordon Rouge? Or c) Le Cordon Noir? Well, I think it's Le Cordon Bleu. OK, Neil, I'll reveal the correct answer later. It's important for restaurants to describe items on the menu so diners know what to expect, and many chefs think foreign words sound more exciting. But according to linguist Dr Keri Matwick, the use of French is decreasing. Here, Keri explains why to Ruth Alexander, presenter of BBC World Service programme The … Hmm, all this talk of food is making me hungry, Neil. Anyway, it's time to reveal the answer to my question. What's the name of the famous French cooking school that teaches haute cuisine? I said it was Le Cordon Bleu. Was I right? Le Cordon Bleu was the correct answer! The famous culinary arts school, Le Cordon Bleu, first opened its doors in Paris in 1895. OK, let's recap the vocabulary we've learned from this programme, starting with 'gourmet food', 'food which is better quality 'and more sophisticated than usual, and is often more expensive'. The adjective 'fancy' means 'special, … no problem. Fans are groups of 'like-minded' people — they 'share similar opinions, ideas or interests'. They do all kinds of weird and wonderful things together — such as dressing up as Harry Potter characters — behaviour which might be called 'quirky', an adjective meaning 'odd or unusual, but in an interesting way'. Unfortunately, this quirky behaviour also means fans sometimes get mocked. To 'mock' somebody means 'to insult them by laughing at them in an unkind way'. But this hasn't discouraged fans who have started using new words and phrases to show they belong to a particular … good about yourself when the team you support wins'. The opposite of this is 'CORFing', an acronym of 'Cutting Off Reflected Failure', which means distancing yourself from your favourite team when they lose. And finally, if you want 'a piece' or 'a slice of the action', you 'want to take part in a celebration or other exciting group activity, 'to include yourself in a collective success'. Once again, our six minutes are up. Join us again next time for more trending topics and useful vocabulary, here at 6 Minute English. — Bye for now! — Bye! 6 Minute English. From BBC Learning English.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0309
+  "src": "cc"
  },
  "N_FFrgEioFM": {
   "channel": "Speak English With Vanessa",
@@ -128720,7 +129334,7 @@
  "ScyumiPXca8": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-12T15:09:56+00:00",
+  "checked": "2026-11-26T00:11:17+00:00",
   "title": "Transplanted pig kidney works inside patient for record nine months | Learning English from the News",
   "duration": 506,
   "published": "20260909",
@@ -128729,6 +129343,7 @@
   "pace": 151.5,
   "rare": 0.0303,
   "var": 0.7869,
+  "cl": 0.0361,
   "speech_s": 483.2,
   "tokens": 1220,
   "kw": [
@@ -128853,11 +129468,116 @@
     6
    ]
   ],
+  "kx": [
+   [
+    "example",
+    "For example, an author could try to transplant certain themes from horror",
+    177,
+    182,
+    5.27,
+    7
+   ],
+   [
+    "again",
+    "That headline again from the Financial Times.",
+    101,
+    105,
+    5.7,
+    5
+   ],
+   [
+    "organisation",
+    "This headline is from Türkiye Today, a Turkish news organisation.",
+    279,
+    284,
+    4.36,
+    3
+   ],
+   [
+    "acted",
+    "So this headline says the pig kidney acted as a 'bridge'",
+    407,
+    412,
+    4.28,
+    3
+   ],
+   [
+    "organ",
+    "However, the pig organ eventually failed and was removed,",
+    78,
+    83,
+    4.14,
+    4
+   ],
+   [
+    "headlines",
+    "This is Learning English from the News, our podcast about the news headlines.",
+    2,
+    7,
+    3.91,
+    4
+   ],
+   [
+    "transplantation",
+    "the transplantation of organs between species.",
+    222,
+    226,
+    3.23,
+    1
+   ],
+   [
+    "uniqueness",
+    "And another popular phrase is one of a kind which emphasises its uniqueness.",
+    345,
+    353,
+    3.21,
+    1
+   ],
+   [
+    "adjectives",
+    "You might also hear it with other adjectives.",
+    330,
+    334,
+    3.18,
+    1
+   ],
+   [
+    "metaphorically",
+    "Less commonly, we use transplant metaphorically.",
+    167,
+    172,
+    2.96,
+    1
+   ],
+   [
+    "worksheet",
+    "as well as a worksheet on our website, bbclearninenglish.com.",
+    29,
+    35,
+    2.93,
+    1
+   ],
+   [
+    "emphasises",
+    "And another popular phrase is one of a kind which emphasises its uniqueness.",
+    345,
+    353,
+    2.82,
+    1
+   ],
+   [
+    "pig's",
+    "a man lived with a pig's kidney for a record of 271 days.",
+    7,
+    14,
+    2.7,
+    1
+   ]
+  ],
   "tx": "From BBC Learning English. This is Learning English from the News, our podcast about the news headlines. In this programme, a man lived with a pig's kidney for a record of 271 days. Hello, I'm Becca. And I'm Phil. In this program, we'll look at one big news story and the vocabulary in the headlines that will help you understand it. You can find all the vocabulary and headlines from this episode, as well as a worksheet on our website, bbclearninenglish.com. So, let's hear more about this story. Tim Andrews from New Hampshire in the United States was aged 66 when he found out that he had … in the final, most severe phase. Not much can be done at this stage, and many people in this situation are waiting for a replacement human kidney. There is a shortage of human donor kidneys. Andrews received a pig kidney, and it worked inside him for 271 days, the longest on record, US doctors say. However, the pig organ eventually failed and was removed, so Andrews needed some dialysis, a medical treatment where a machine functions like a kidney. He then received a human kidney transplant 82 days later. Let's have our first headline. Pig kidneys successfully transplanted into humans. And … transplanted into humans. So, this headline talks about kidney transplants from pigs and we're going to look at the word transplant. What can you tell us about this word, Becca? Well, this word could be both a noun and a verb. You can have a transplant or you can transplant something, and it means to move or be moved from one place to another. Yes. So, notice there that the stress is different in the verb and the noun. So, the verb is transplant and the noun is transplant. Yes, it's often used in a medical context, and it means to take an organ or tissue from one body and put it into … into him again. And you might also hear transplant when talking about moving plants, so a plant can be grown indoors and later transplanted outside when it's the right season. Less commonly, we use transplant metaphorically. You can move an idea, habit, culture, or structure forward or into something new. For example, an author could try to transplant certain themes from horror into a science fiction setting, or a board of directors could try to transplant a business model into their retail stores. We've had transplant, which means move or be moved from one place to another. For example, … headlines. Today we're talking about a man's record-breaking pig organ transplant. Tim Andrews is a case of xenotransplantation, the transplantation of organs between species. Doctors are saying that xenotransplantation could be a way to address the shortage of human donor organs. Pig kidneys are similar to those of humans' in size, general structure, and the way they function. However, human bodies will usually reject organs from pigs, but in this case, the pig was genetically modified to make it suitable for human donation. People usually only live for a limited time on dialysis, … people need to spend on dialysis before receiving a human kidney. In a CNN documentary, Andrews said that the transplant helped him become strong enough to be independent again. He's now able to cook, clean his home and take his dog Cupcake on long walks. Let's have another headline. This headline is from Türkiye Today, a Turkish news organisation. First-of-it-kind pig kidney keeps US man off dialysis for 271 days. And that headline again from Türkiye Today, a Turkish news organisation. First-of-its-kind pig kidney keeps US man off dialysis for 271 days. This headline highlights how this … original, unique, and never done or created before. So, because this is the first example of someone surviving long enough on a pig kidney to then receive a human kidney, it's the first of its kind. The part 'of its kind' means belonging to the same category, class, or type as something else. You might also hear it with other adjectives. For example, if something is the last of its kind, there aren't many left. Yes, and if something is the best of its kind, it's, well, better than all the other things in its category. And another popular phrase is one of a kind which emphasises its … launched a first-of-its-kind electric bus network that runs entirely on solar power. This is Learning English from the News from BBC Learning English. We're talking about a xenotransplantation. Yes, doctors hope that xenotransplantation of genetically modified pig kidneys could help keep people alive until they can receive a human kidney transplant. And this is what our next headline is about. Man lived with pig kidney as 'bridge' before human transplant And that's from Euro News, a European news organisation. That headline again from Euro News, Man lived with pig kidney as 'bridge' before … what does that mean here, a bridge? Well, if you think about an actual bridge that you walk across, it supports your weight and gets you from one side to the other. In this medical context, a bridge is a temporary solution that helps someone get from one stage to another. It's something that supports a patient until a more permanent treatment becomes available. In this case, the pig kidney kept the man alive and reduced the amount of time he had to spend on dialysis while he waited for a human kidney transplant. So, the pig kidney acted as a bridge to the next stage of his treatment. Yes, … it receives longer term funding. We also have this useful expression 'bridge the gap', which means to help connect two things. We've had bridge, a temporary solution that helps someone get from one stage to another. For example, her internship acted as a bridge between university and her dream career. That's it for this episode of Learning English from the News. We'll be back next week with another news story. And if you found this story interesting, we have a health page over on our website, bbclearningengish.com, which you can also find in the notes for this programme. Bye for now. Bye.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0351
+  "src": "cc"
  },
  "y2_BbVC5CBc": {
   "channel": "Speak English With Vanessa",
@@ -136058,7 +136778,7 @@
  "9KZF5FPFZC8": {
   "channel": "Adept English",
   "lang": "en",
-  "checked": "2026-11-12T16:31:31+00:00",
+  "checked": "2026-11-26T00:10:19+00:00",
   "title": "English Listening Practice B2/C1 |How To Vary Your Workouts & Get Fit The Right Way! 🤍 Ep 846",
   "duration": 856,
   "published": "20260126",
@@ -136067,6 +136787,7 @@
   "pace": 155.3,
   "rare": 0.0284,
   "var": 0.7973,
+  "cl": 0.0538,
   "speech_s": 760.8,
   "tokens": 1969,
   "kw": [
@@ -136215,11 +136936,108 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "week",
+    "If you run three times a week",
+    150,
+    153,
+    5.56,
+    9
+   ],
+   [
+    "body",
+    "your body moving. And your English",
+    81,
+    84,
+    5.4,
+    9
+   ],
+   [
+    "breath",
+    "you out of breath. I like this simple test.",
+    247,
+    251,
+    4.52,
+    6
+   ],
+   [
+    "swimming",
+    "swimming or walking. We might even like running.",
+    362,
+    367,
+    4.43,
+    4
+   ],
+   [
+    "intensity",
+    "means 'average in intensity'. It's an adjective that you can",
+    234,
+    238,
+    4.14,
+    2
+   ],
+   [
+    "flexible",
+    "become more flexible. This keeps our heart and the",
+    540,
+    545,
+    4.13,
+    2
+   ],
+   [
+    "steamed",
+    "steamed broccoli. Just broccoli.",
+    3,
+    7,
+    3.34,
+    2
+   ],
+   [
+    "sedentary",
+    "sedentary all week. 'Sedentary' means you spend a lot",
+    724,
+    729,
+    3.14,
+    2
+   ],
+   [
+    "panting",
+    "breath and panting - that means",
+    813,
+    816,
+    2.99,
+    1
+   ],
+   [
+    "relaxes",
+    "also relaxes and widens our blood vessels,",
+    619,
+    624,
+    2.92,
+    1
+   ],
+   [
+    "cardiologist",
+    "cardiologist or heart doctor. He says that the 'runners high'",
+    496,
+    502,
+    2.9,
+    1
+   ],
+   [
+    "widens",
+    "widens our blood vessels, which helps maintain normal",
+    621,
+    626,
+    2.84,
+    1
+   ]
+  ],
   "tx": "So imagine for your dinner tonight you decide to eat steamed broccoli. Just broccoli. And then tomorrow night, broccoli again. And the next night and the next night, steamed broccoli. Now you probably know that broccoli is very good for you. It's full of vitamins. It's green. It's healthy. But if broccoli is all that you eat, eventually you're going to miss out on some really important nutrients - the things in our food that are good for us. Protein, fat, iron. Well it turns out that we often treat our exercise in this way. We have one type of exercise that we do. It may be a run round the … only do exercise at the weekend, only exercise on a Saturday and Sunday. For years experts thought this was a bad idea, but I've got some surprising news for you on that today. First of all, more on that variety that you need in your exercise. So 'variety', that's V-A-R-I-E-T-Y. 'Variety' means having a number of different things. It's the opposite of 'monotony', That's M-O-N-O-T-O-N-Y, monotony. That means having the same thing over and over again. Like the broccoli for your dinner. And there's an English saying 'Variety is the spice of life'. Lots of things are better if we have variety. … to subscribe. That's either to our paid subscription service, where you get eight more quality episodes like this per month. Or if you like this free podcast, please help Adept English by subscribing. And if you don't like this podcast, give us a comment. Let us know why! So what does the dear old NHS, the National Health Service in the UK, say about exercise? Well, it says that 'Adults should aim for 150 minutes of exercise per week'. So that's 150 minutes of moderate exercise. Or if you're young or feeling energetic, 75 minutes of moderate exercise and 75 minutes of vigorous exercise. … you won't be able to say more than a few words. Your heart will race. You'll be out of breath and probably quite hot and sweaty. That makes me think of the state I'm in when I come back from a run! For me, it's time to collapse on the sofa, puff and pant, and just recover. I can't really speak for about five minutes. That's vigorous exercise. But here's where the variety in exercise comes in too. It turns out that we also need a third type of exercise. Exercise that strengthens our muscles, builds our muscles. And we need to do this at least two days a week. The verb 'to strengthen', … But lifting things, pushing heavy weights as our exercise - people aren't as keen on that. So this mix is important. We can't just run and walk. But why? Well, the Harvard Health website talks about 'a triad of exercise'. That's 'triad', T-R-I-A-D. And a 'triad' means 'made up of three things'. So moderate exercise like walking or gentle running, vigorous exercise like running uphill, cycling uphill - things that make you out of breath. And thirdly, strength training. The sort of exercise that builds muscle. So the third one, as we get older, apparently we naturally lose muscle. We lose … exercise, it's things like swimming as fast as you can, walking as fast as you can, racing or sprinting when you run. Putting quite a bit of effort into it, in other words, so that you get out of breath. So why does the Harvard Health website say that we need three types of exercise? Well, it says people who run or do similar types of vigorous exercise may experience 'runners high' either during or after their exercise, their workout. This is according to Dr Tim Churchill of Harvard Health. He's a cardiologist or heart doctor. He says that the 'runners high' \"is because your body releases … whether it's moderate or vigorous, it all helps reduce our body's fight or flight response. So if you're suffering from chronic stress or anxiety, exercise is very good for you. We're less stressed if we move our bodies more, if we exercise more. And on the Harvard Health website, the benefits of weight training, pushing weights, exercise that increases our muscle strength. This is probably what I need to work on most! Strength training can make your body much better at burning fat for energy. It also improves how your body responds to insulin, I-N-S-U-L-I-N, that's the chemical in our … means you've got everything covered. You get all the benefits to health. Your resting heart rate, your blood pressure, your weight, your body fat percentage, and your psychology, your mind, all benefit from doing all three types of exercise rather than just one. And the health benefits are amazing. The British Heart Foundation, which is an important charity in the UK, tells people that exercise improves heart health and the risk of heart disease by 35%. That's huge. And that's just that one system of the body. If there was a pill to do that, we'd all be queuing up outside the pharmacy. … probably at your desk, probably at your computer, for your work, and not moving very much. So some people in this situation only have time to exercise on a Saturday and a Sunday. Weekend Warriors. And for years and years, this was thought of as a bad thing. But some recent data suggests that if you hit your targets for exercise, albeit on two days of the week only, the benefits for your heart are broadly similar. There are some downsides. Doing all your exercise on two days does increase the risk of injury. And there are some of the other benefits I've talked about that you're not getting. … that means breathing quickly - you might not like being in that state, but that is where some of the magic of exercise and its health benefits really happen. Don't forget our Adept English courses, like the 'Most Common 500 Words' and 'Activate Your Listening', really will make a difference to your English. Available on our website at adeptenglish.com. Just like exercise, listening to a variety of topics in English makes sure that your language learning is thorough and flexible. Variety is best for your English conversation. Enough for now. Have a lovely day. Speak to you again soon. Goodbye.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0555
+  "src": "cc"
  },
  "FuExlxdoTcY": {
   "channel": "BBC Learning English",
@@ -159356,7 +160174,7 @@
  "aIrvLGnQCuc": {
   "channel": "Vlasta English with Evelyn",
   "lang": "en",
-  "checked": "2026-11-16T23:08:12+00:00",
+  "checked": "2026-11-25T23:43:26+00:00",
   "title": "How to use Comprehensible Input to LEARN ENGLISH + 4 minute listening practice (EASY) DAY 2 PART 4",
   "duration": 335,
   "published": "20261005",
@@ -159365,6 +160183,7 @@
   "pace": 121.6,
   "rare": 0.018,
   "var": 0.6977,
+  "cl": 0.0811,
   "speech_s": 328.5,
   "tokens": 666,
   "kw": [
@@ -159449,16 +160268,129 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "means",
+    "it means tomorrow you'll be better if",
+    37,
+    43,
+    5.44,
+    5
+   ],
+   [
+    "phone",
+    "like this phone this phone is so much",
+    250,
+    260,
+    5.3,
+    5
+   ],
+   [
+    "comparison",
+    "comparison word. So, it means that something",
+    189,
+    198,
+    4.51,
+    2
+   ],
+   [
+    "volume",
+    "more volume of water. So, that's what",
+    238,
+    246,
+    4.76,
+    1
+   ],
+   [
+    "awake",
+    "and then you feel awake and energized",
+    277,
+    285,
+    4.14,
+    1
+   ],
+   [
+    "comparing",
+    "comparing two things like like",
+    245,
+    256,
+    4.13,
+    1
+   ],
+   [
+    "cuz",
+    "Like it lasts way longer cuz it holds",
+    236,
+    243,
+    3.89,
+    1
+   ],
+   [
+    "spoon",
+    "coffee spoon sugar",
+    317,
+    325,
+    3.88,
+    1
+   ],
+   [
+    "beginner",
+    "beginner, listen to the words. I like to",
+    78,
+    86,
+    3.52,
+    1
+   ],
+   [
+    "repetition",
+    "use repetition to really really remember. So, the best way to watch my",
+    5,
+    14,
+    3.48,
+    1
+   ],
+   [
+    "oats",
+    "oats milk hot water",
+    322,
+    329,
+    3.4,
+    1
+   ],
+   [
+    "midday",
+    "midday, which is 12:00 p.m. or 1:00. I",
+    145,
+    151,
+    3.37,
+    1
+   ],
+   [
+    "misunderstand",
+    "Like, don't misunderstand me. I like",
+    216,
+    225,
+    3.15,
+    1
+   ],
+   [
+    "energized",
+    "and then you feel awake and energized",
+    277,
+    285,
+    3.06,
+    1
+   ]
+  ],
   "tx": "Comprehensible input is one of the best ways to learn English, but you need to use repetition to really really remember. So, the best way to watch my videos I'm so serious. Is to find the words, listen to the meaning, listen to how I use them in a sentence, and then write it down. Then tomorrow, read. And reading will remind you of what you learned when you watch my videos. But, it means tomorrow you'll be better if you use the right English learning practices. So, pick a few words and let me know what words you pick. And then, once you read over it, you practice using it in a sentence, using it in a sentence written, and using it in a sentence spoken. You know what I mean? Now, I try to teach you guys mostly A1 and A2, B1 B2, and a tiny bit of C1 C2. So, hopefully you listen, if you're more advanced, to how I'm speaking. But, if you're a beginner, listen to the words. I like to put the new words that you might not know on the screen so that you can know what the word is, know how to spell it, and remember it. Okay. So, I'm just chilling in my room right now because um I'm kind of tired. I might have a nap which is like a mini sleep. It's a small amount of sleep. So, when you sleep for 8 hours, that's a normal sleep that you have at night. But, if you sleep during the day for a short amount of time, like an hour or 20 minutes, that's called a nap. So, I'm going to take a little nap and um I'll be back. And I'm going to have a 20-minute nap because I've been getting up early lately. So, I'm getting up at 6:00 a.m. I have a nap around like uh midday, which is 12:00 p.m. or 1:00. I try not to have a nap by 3:00 because that's too late. But, it's only 2:30, so I'm going to have a nap. I'm going to fall asleep for like 20 minutes and then I'm going to get up. Um And I'll be back when I wake up from my nap. Okay, so I have like 5 minutes left of my of my nap, but I'm going to get up and I'm just going to have another coffee because I'm I'm a little bit tired, but I feel so much better after having that teeny tiny little nap. And so much better means it's like a comparison word. So, it means that something has improved. And it normally like references something. So, in my opinion, I think this cup is so much better than this cup. I think this cup is really good. Now, don't get me wrong. Like, don't misunderstand me. I like this cup, but I like this cup more. So, I think it's better because it can hold more liquid. It means that if I put water in here, it like lasts like it lasts a long time. Like it lasts way longer cuz it holds more volume of water. So, that's what better means. It's a comparison. I'm comparing two things like like like this phone this phone is so much better than my old phone because my old phone had like a massive crack where the camera was. Like the camera that you take photos with. It was broken. So, this one is so much better than my old phone. So, you can also feel better like if you feel tired and then you feel awake and energized you feel better. If you are sick when you overcome the sickness a few days later you feel better. So, I feel a little bit better after having that nap. So, I'm going to make a little coffee though. >> Hey. >> Want to watch me pretend to walk downstairs? cup coffee spoon sugar oats milk hot water mix sip >> >> So good. That's exactly what I needed.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0811
+  "src": "auto"
  },
  "dsGGck68pwg": {
   "channel": "Vlasta English with Evelyn",
   "lang": "en",
-  "checked": "2026-11-16T23:08:27+00:00",
+  "checked": "2026-11-25T23:43:36+00:00",
   "title": "LEARN ENGLISH NATURALLY with REAL Life (Comprehensible input) English Practice A1 - C2 DAY 2 PART 1",
   "duration": 1686,
   "published": "20260926",
@@ -159467,6 +160399,7 @@
   "pace": 123.6,
   "rare": 0.0194,
   "var": 0.6914,
+  "cl": 0.0514,
   "speech_s": 1625.5,
   "tokens": 3349,
   "kw": [
@@ -159607,16 +160540,121 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "put",
+    "has water in it. I'm going to put the",
+    435,
+    441,
+    5.66,
+    12
+   ],
+   [
+    "bed",
+    "curtain. It's just a bed sheet because I",
+    53,
+    58,
+    5.07,
+    12
+   ],
+   [
+    "eggs",
+    "These are eggs. Little egg. Actually,",
+    390,
+    398,
+    4.5,
+    11
+   ],
+   [
+    "dry",
+    "You dry it. You absorb the water. Now,",
+    625,
+    634,
+    4.74,
+    9
+   ],
+   [
+    "filming",
+    "going to say, \"I'm filming right now.\"",
+    1012,
+    1018,
+    4.19,
+    5
+   ],
+   [
+    "artwork",
+    "going on here. We have the artwork, the",
+    139,
+    147,
+    4.11,
+    5
+   ],
+   [
+    "dryer",
+    "Hair dryer. Hair dryer. This say yes.",
+    1462,
+    1478,
+    3.54,
+    2
+   ],
+   [
+    "imitation",
+    "not real, imitation of something. Okay, I hope that",
+    108,
+    118,
+    3.47,
+    2
+   ],
+   [
+    "messaged",
+    "messaged me so much. Oh my gosh, I have",
+    900,
+    906,
+    2.94,
+    1
+   ],
+   [
+    "nao",
+    "Ali. Nao Sheli, she said, \"We need",
+    1001,
+    1008,
+    2.93,
+    1
+   ],
+   [
+    "omelette",
+    "made the omelette. Okay, so I have my breakfast eggs,",
+    869,
+    880,
+    2.85,
+    1
+   ],
+   [
+    "manmade",
+    "from an animal. It's manmade. It's an",
+    211,
+    219,
+    2.72,
+    1
+   ],
+   [
+    "comprehensible",
+    "comprehensible input. I'm going to go",
+    1630,
+    1637,
+    2.71,
+    1
+   ]
+  ],
   "tx": "It makes it so much easier to learn real life English with long pants or short pants. Listen and repeat. Please keep making videos like this. I will absolutely do that. I just sat up laying down. Sitting up. Laying down. H waking up. Getting up. I'm getting up. And how am I getting up? I'm sitting up. You can't see it very well, but I am sitting. Okay, let's go. First, I want to show you guys this little corner of my room. So, I have some art pieces, some drawings. I have this sheet that I'm using as a curtain, but it's not a curtain. It's just a bed sheet because I don't know. I haven't like … decoration. But if I look right right I'm looking back at the curtain. If I go up I'm looking up. I can see the plants. Then if I keep going up I'm looking up. I can see the ceiling. And that right there is the corner of the room. This is a fluffy soft blanket. See how it looks like fur? It looks like real fur, but it's not. It's actually fake fur. It's faux fur. It means it's not actually from an animal. It's manmade. It's an imitation of a fur blanket. It's a faux blanket. Here's an example from the other day. This is a faux fur blanket. They call it a throw cuz you throw it on your bed … more of my room in more videos. So, let's get up. Let's start the day for day two, part one, learning English naturally. Okay. So, can you tell me what I am wearing? I am wearing pajamas. Pjama. Pajamas. These are clothes you wear to bed and I am going to take them off after I have a shower. Okay. So, I'm going to eat something. I'm going to have some food with protein. Now, can you tell me what food has protein? I spoke about it in the last video. What are these called? What are these called? These are eggs. Little egg. Actually, it's like a mediumsiz egg. It's like not big. Wait, hold on. … of it cooks when it boils. And in 3 2 1, it's going to be boiling. 3 2 1. Wow, it's boiling. Boiling. Boiling. So, after you boil eggs, you have to put them in icy cold water. So, I'm going to grab a bowl and fill it with water. I'm turning the tap on, putting the bowl on the bench, opening up the freezer, and I'm going to grab the ice cube tray with my hand. This has ice in it. And now I'm going to transfer transfer the ice into the bowl that's full of water. When this very very cold ice goes into the water, it's going to make it very cold. So, I'm peeling peel and pushing push pushing … >> Coffee and a cigarette. >> Okay. >> Dishes. >> Yes, I did the dishes. Can you do those dishes? cuz I did the dishes. >> Yeah, well, I will cuz these are my dishes for my room. >> This gremlin person woke up this morning out of their room, grabbed their dishes, and put them in the kitchen sink right after I cleaned the kitchen. >> What you going to do about it? >> So, these are done boiling because it's been 10 minutes. That's it. >> Okay. So, let's peel the egg. So, first I'm going to hit the egg on the bowl and that's called crack. Cracking the shell. The shell has been cracked. … simple breakfast because it's very quick to eat. Like it's good because if you're in a rush, you can just boil these. It takes 10 minutes and then literally look how quick this is to eat. While I eat my breakfast, I'm going to reply to some of you guys cuz you guys have been so cool. You guys have messaged me so much. Oh my gosh, I have so many questions to answer and I'm so excited to answer all of them to help you learn English. It is actually really cool. So yeah, thank you to everyone who subscribed. Honestly, it's amazing. Yeah. Okay, so a lot of you guys are saying that you want … want everyday videos. I'm going to reply to your comment right now. I'm going to say, \"I'm filming right now.\" And in the video, we just discussed your comment. That's so cool. Should I do an emoji? Hm. What emoji should I use? Okay, so emoji. And I want to put an emoji right here. I'm filming day two series right now. Do I sound aggressive? Do I sound nice? I hope I sound nice. Okay, right now. Oh, maybe this one. Oh, why did it pop up there? That's so strange. Okay, drag that. Drag it. Oh, yeah. Then I should let her know that I appreciate her watching my videos. I'm filming right now and … much makes sense anyways. You're telling me you love me. Thank you. And you love my way. You love the videos. You love the way I'm doing the videos, right? I get what you mean. So, that's good. That's really good. And you said thank you. So, I will say you're welcome. That's how a conversation in English works. Someone else said that they love how I use short and simple sentences. It makes it so much easier to learn real life English. Please keep making videos like this. I will absolutely do that and I have already replied to you. Now when I'm writing a sentence, even though I speak … to have a shower because I am actually really dirty and gross and stinky and I need to wash my hair which sucks but yeah. Okay, so this is my bathroom. I'm opening the door with my finger. I pushed it open and now I'm going to wash my hair and have a shower. So, this is the shower. It is kind of gross and I swear there's mold on the roof, but wow. Okay, so I have showered and I am going to get dressed. So, I wonder what I'm going to wear. Hm. I could wear a dress. I could wear a shirt. I could wear a singlet, a t-shirt. But if I wear a t-shirt, will it go with long pants or short pants? … hands up. Now say dance. Why are you making me do this? Okay, so that's the game. I hope you enjoyed this comprehensible input. I'm going to go put on some makeup and then film day one part two and we're going to wash my clothes. So, we're going to take my clothes out of the dirty hamper, the dirty laundry, put it in the washing machine, and yeah, learn a lot of new words. Keep on learning with words from A1 to C2. If you wanted to know how to make breakfast in English, watch day one part two. Tonight when you go to bed, listen to some English with my learn English while you sleep video. >>",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0486
+  "src": "auto"
  },
  "5rpP9B9iXck": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-16T23:08:31+00:00",
+  "checked": "2026-11-25T23:45:26+00:00",
   "title": "One Day Without Electricity – How Would You Manage Your Day? | Fun English Conversation Podcast",
   "duration": 1110,
   "published": "20261116",
@@ -159625,7 +160663,8 @@
   "pace": 150.7,
   "rare": 0.0051,
   "var": 0.8481,
-  "speech_s": 1097.0,
+  "cl": 0.029,
+  "speech_s": 1097.2,
   "tokens": 2755,
   "kw": [
    [
@@ -159749,11 +160788,116 @@
     2
    ]
   ],
-  "tx": "Welcome back to our channel, my dear friends. This is Emma, and I am so happy to have you here today. Imagine waking up tomorrow morning and discovering that there is no electricity, no television, no Wi-Fi, no air conditioning, and no way to charge your phone. What would you do? >> Oh, Emma, that sounds like a nightmare. Hello everyone. My name is Daniel, and I have to admit something. I don't think I could survive a whole day without electricity. >> Really, Daniel? Just one day? >> Emma, you don't understand. My phone is my alarm clock. My coffee machine needs electricity. My laptop needs … when the electricity suddenly stops working. >> But Emma, my biggest problem is still waiting for me in the kitchen. >> What's that? >> My morning coffee. >> Daniel, you really love your coffee, don't you? >> Absolutely. Every morning I make a fresh cup of coffee. It's my favorite part of the day. >> But today your coffee machine isn't working. What are you going to do? >> Well, I could make coffee using hot water from a gas stove if it's safe and available. >> That's a good idea. But what if you don't have a gas stove? >> Then I'll drink water and pretend it's coffee. >> That's one way to … >> Of course. You could practice speaking aloud, describe the things around you, or write a short story in English. >> even without electricity, we can still have a productive morning. >> Exactly. Sometimes we just need to be creative. Daniel, let's imagine it's 10:00 in the morning. You decide to call your friend, but your phone battery is now only 5%. >> 5%? Oh no. I need to save my battery. >> That's another useful expression. I need to save my battery. It means you want your phone to use less power. >> I need to save my battery. My phone is running low on battery. >> Excellent. What … >> We can wear warm layers, use blankets, and stay in a safe, warm place. But we should never use outdoor grills or unsafe fuel-burning devices inside the house for heating. >> That's important. A power cut can be inconvenient, but sometimes it can also become a safety problem. >> Exactly. Preparing for these situations can make a big difference. >> Now let's move to lunchtime. Daniel, it's 1:00 and the electricity still hasn't returned. >> Emma, I'm hungry again. This is becoming a serious problem. >> You were hungry 3 hours ago. >> Well, worrying about electricity makes me hungry. … reach for my phone. >> Many people do that. But today, your phone battery is low, so you have an opportunity to try something different. >> Like what? >> You could read a book, draw something, write in a journal, or spend time talking with your family. >> I could also go outside for a walk if the weather is safe. >> Absolutely. You could visit a nearby park, enjoy some fresh air, or simply sit outside and observe the world around you. >> You know, Emma, I think I spend so much time looking at screens that I sometimes forget how enjoyable simple activities can be. >> And that's a … there's a power cut in my area. My internet isn't working right now. >> That's clear and polite. >> You could also say, I 'll get back to you as soon as my connection is restored. >> And if I can use mobile data? >> You might say, my Wi-Fi is down, but I can try joining the meeting using my mobile data. >> These are great expressions for professional English. >> Exactly. Unexpected problems happen. Being able to explain them calmly is an important communication skill. >> Now Daniel, imagine it's 5:00 in the evening. The electricity has been out for almost 10 hours. >> 10 hours, Emma? I … Technology helps us stay connected with people far away, but we can sometimes forget to connect with the people sitting beside us. >> So one evening without electricity might give us an opportunity to spend more time together. >> Yes. Although we should remember that not everyone the same experience. For some people, losing electricity can create serious problems. >> That's an important point. But if we're safe and comfortable, we can try to make the best of the situation. >> Exactly. We can't always control what happens, but we can sometimes choose how to respond. Daniel, let's imagine … >> And you learned how to adapt when your normal routine changed. >> Emma, do you think we should sometimes take a break from technology even when the electricity is working? >> If it suits our needs, yes. We can choose to put our phones away for a while, spend time outdoors, or enjoy a quiet conversation. >> So we don't have to wait for a power cut to discover the value of spending time away from screens. >> Exactly. We can create a healthy balance between technology and other parts of life. Daniel, it's now 10:00 at night. You're getting ready to sleep when suddenly something happens. >> … for a while. >> The power has been out all day. >> The electricity is finally back. >> Excellent. These expressions can help you describe a power cut and talk about unexpected problems in everyday English. >> Emma, before we finish, can we give our listeners a small speaking challenge? >> Of course. My dear friends, imagine that tomorrow you have no electricity for 24 hours. How would you spend your day? >> Would you read books, spend time with your family, go outside, or find a new hobby. >> Try speaking about your plan in English for one minute. You can begin with, if I had no … whole day without electricity? And what would you miss the most? >> Would it be your phone, television, air conditioner, video games, or something else? We'd love to hear your answers. >> And if you enjoyed today's podcast, please like this video, share it with your friends, and subscribe to our channel for more interesting English conversations. >> Thank you for listening, everyone. Keep practicing your English, stay curious, and enjoy the little things in life. >> Happy. This is Emma, wishing you a wonderful day. Take care, my dear friends, and we'll see you in our next podcast. >> Goodbye,",
+  "kx": [
+   [
+    "important",
+    "battery for important calls or emergencies.",
+    303,
+    309,
+    5.44,
+    10
+   ],
+   [
+    "food",
+    ">> Actually, I could eat some food, bread,",
+    177,
+    182,
+    5.4,
+    10
+   ],
+   [
+    "dear",
+    "Welcome back to our channel, my dear",
+    0,
+    6,
+    4.77,
+    6
+   ],
+   [
+    "suddenly",
+    "electricity suddenly disappeared for 24 hours? How would we manage our day?",
+    50,
+    58,
+    4.69,
+    5
+   ],
+   [
+    "sentences",
+    ">> These sentences are simple, but they're",
+    572,
+    578,
+    4.13,
+    3
+   ],
+   [
+    "candles",
+    ">> What about candles? >> Battery powered lights are generally",
+    667,
+    675,
+    3.82,
+    3
+   ],
+   [
+    "brightness",
+    "I'd lower the screen brightness, turn on",
+    291,
+    297,
+    3.57,
+    1
+   ],
+   [
+    "calmly",
+    "Being able to explain them calmly is an",
+    624,
+    629,
+    3.56,
+    1
+   ],
+   [
+    "emergencies",
+    "emergencies. >> What if I need to charge my phone?",
+    305,
+    311,
+    3.56,
+    1
+   ],
+   [
+    "unopened",
+    "about. An unopened refrigerator generally keeps food cold for about 4",
+    435,
+    444,
+    2.94,
+    1
+   ],
+   [
+    "grills",
+    "should never use outdoor grills or",
+    374,
+    379,
+    2.91,
+    1
+   ],
+   [
+    "walkways",
+    "walkways clear so nobody trips in the",
+    664,
+    668,
+    2.84,
+    1
+   ],
+   [
+    "perishable",
+    ">> Yes. And if perishable food has become",
+    448,
+    454,
+    2.8,
+    1
+   ]
+  ],
+  "tx": "Welcome back to our channel, my dear friends. This is Emma, and I am so happy to have you here today. Imagine waking up tomorrow morning and discovering that there is no electricity, no television, no Wi-Fi, no air conditioning, and no way to charge your phone. What would you do? >> Oh, Emma, that sounds like a nightmare. Hello everyone. My name is Daniel, and I have to admit something. I don't think I could survive a whole day without electricity. >> Really, Daniel? Just one day? >> Emma, you don't understand. My phone is my alarm clock. My coffee machine needs electricity. My laptop needs … when the electricity suddenly stops working. >> But Emma, my biggest problem is still waiting for me in the kitchen. >> What's that? >> My morning coffee. >> >> Daniel, you really love your coffee, don't you? >> Absolutely. Every morning I make a fresh cup of coffee. It's my favorite part of the day. >> But today your coffee machine isn't working. What are you going to do? >> Well, I could make coffee using hot water from a gas stove if it's safe and available. >> That's a good idea. But what if you don't have a gas stove? >> Then I'll drink water and pretend it's coffee. >> That's one way … >> Of course. You could practice speaking aloud, describe the things around you, or write a short story in English. >> even without electricity, we can still have a productive morning. >> Exactly. Sometimes we just need to be creative. Daniel, let's imagine it's 10:00 in the morning. You decide to call your friend, but your phone battery is now only 5%. >> 5%? Oh no. I need to save my battery. >> That's another useful expression. I need to save my battery. It means you want your phone to use less power. >> I need to save my battery. My phone is running low on battery. >> Excellent. What … stops working? >> We can wear warm layers, use blankets, and stay in a safe, warm place. But we should never use outdoor grills or unsafe fuel-burning devices inside the house for heating. >> That's important. A power cut can be inconvenient, but sometimes it can also become a safety problem. >> Exactly. Preparing for these situations can make a big difference. >> Now let's move to lunchtime. Daniel, it's 1:00 and the electricity still hasn't returned. >> Emma, I'm hungry again. This is becoming a serious problem. >> You were hungry 3 hours ago. >> Well, worrying about electricity makes me … reach for my phone. >> Many people do that. But today, your phone battery is low, so you have an opportunity to try something different. >> Like what? >> You could read a book, draw something, write in a journal, or spend time talking with your family. >> I could also go outside for a walk if the weather is safe. >> Absolutely. You could visit a nearby park, enjoy some fresh air, or simply sit outside and observe the world around you. >> You know, Emma, I think I spend so much time looking at screens that I sometimes forget how enjoyable simple activities can be. >> And that's a … but there's a power cut in my area. My internet isn't working right now. >> That's clear and polite. >> You could also say, I 'll get back to you as soon as my connection is restored. >> And if I can use mobile data? >> You might say, my Wi-Fi is down, but I can try joining the meeting using my mobile data. >> These are great expressions for professional English. >> Exactly. Unexpected problems happen. Being able to explain them calmly is an important communication skill. >> Now Daniel, imagine it's 5:00 in the evening. The electricity has been out for almost 10 hours. >> 10 hours, Emma? I … Technology helps us stay connected with people far away, but we can sometimes forget to connect with the people sitting beside us. >> So one evening without electricity might give us an opportunity to spend more time together. >> Yes. Although we should remember that not everyone the same experience. For some people, losing electricity can create serious problems. >> That's an important point. But if we're safe and comfortable, we can try to make the best of the situation. >> Exactly. We can't always control what happens, but we can sometimes choose how to respond. Daniel, let's imagine … >> And you learned how to adapt when your normal routine changed. >> Emma, do you think we should sometimes take a break from technology even when the electricity is working? >> If it suits our needs, yes. We can choose to put our phones away for a while, spend time outdoors, or enjoy a quiet conversation. >> So we don't have to wait for a power cut to discover the value of spending time away from screens. >> Exactly. We can create a healthy balance between technology and other parts of life. Daniel, it's now 10:00 at night. You're getting ready to sleep when suddenly something happens. >> … for a while. >> The power has been out all day. >> The electricity is finally back. >> Excellent. These expressions can help you describe a power cut and talk about unexpected problems in everyday English. >> Emma, before we finish, can we give our listeners a small speaking challenge? >> Of course. My dear friends, imagine that tomorrow you have no electricity for 24 hours. How would you spend your day? >> Would you read books, spend time with your family, go outside, or find a new hobby. >> Try speaking about your plan in English for one minute. You can begin with, if I had no … whole day without electricity? And what would you miss the most? >> Would it be your phone, television, air conditioner, video games, or something else? We'd love to hear your answers. >> And if you enjoyed today's podcast, please like this video, share it with your friends, and subscribe to our channel for more interesting English conversations. >> Thank you for listening, everyone. Keep practicing your English, stay curious, and enjoy the little things in life. >> Happy. This is Emma, wishing you a wonderful day. Take care, my dear friends, and we'll see you in our next podcast. >> Goodbye,",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.027
+  "src": "auto"
  },
  "a_kQ3-Ap9P4": {
   "channel": "English Avenue",
@@ -159940,7 +161084,7 @@
  "L0J1DcDy04Y": {
   "channel": "English Parlor",
   "lang": "en",
-  "checked": "2026-11-16T23:09:06+00:00",
+  "checked": "2026-11-25T23:46:53+00:00",
   "title": "The Freezing Baby Rescue || Learn English With Story 🔥 || Level 4 English Listening Practice 📚",
   "duration": 1764,
   "published": "20260506",
@@ -159949,6 +161093,7 @@
   "pace": 131.7,
   "rare": 0.0171,
   "var": 0.8444,
+  "cl": 0.0142,
   "speech_s": 1762.6,
   "tokens": 3869,
   "kw": [
@@ -160105,16 +161250,105 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "felt",
+    "The world felt quiet but heavy, like",
+    86,
+    92,
+    5.13,
+    15
+   ],
+   [
+    "moment",
+    "The moment I touched her, I felt how",
+    218,
+    223,
+    5.24,
+    14
+   ],
+   [
+    "closer",
+    "I quickly walked closer. \"Hey, are you okay?\" I asked looking",
+    145,
+    153,
+    4.73,
+    6
+   ],
+   [
+    "warm",
+    "\"I tried to keep her warm. I really",
+    195,
+    200,
+    4.71,
+    6
+   ],
+   [
+    "baby's",
+    "I touched the baby's cheek again.",
+    341,
+    347,
+    3.71,
+    5
+   ],
+   [
+    "beside",
+    "Ethan stood beside me, shaking. I touched the baby's cheek again.",
+    338,
+    347,
+    4.19,
+    4
+   ],
+   [
+    "learners",
+    "spoken English and help learners sound",
+    1606,
+    1612,
+    3.48,
+    3
+   ],
+   [
+    "tightened",
+    "My chest tightened. We reached the glass doors of my office",
+    307,
+    313,
+    3.29,
+    3
+   ],
+   [
+    "grainy",
+    "On the screen, grainy footage showed the",
+    977,
+    982,
+    2.84,
+    1
+   ],
+   [
+    "knelt",
+    "I knelt down quickly. \"No,\" I said firmly.",
+    1374,
+    1381,
+    2.8,
+    1
+   ],
+   [
+    "endangerment",
+    "endangerment and possible abduction. You will come with us now.\"",
+    1316,
+    1325,
+    2.67,
+    1
+   ]
+  ],
   "tx": "I never thought a single winter night could change everything I believed about life, success, and what truly matters. I was walking home alone, thinking only about numbers, deals, and empty silence waiting at my apartment, when a small voice broke through the cold air and stopped my world completely. My name is Adrian Cole, and I am a 38-year-old CEO of a supply chain technology company in Seattle. I build systems that help goods move faster across cities and countries. People call me successful. People call me busy, but I often call myself alone. That night, the city was buried in heavy snow. … whispered. \"I tried to keep her warm. I really tried. But she is getting quieter now. I think something is wrong.\" I did not think anymore. I took off my thick winter coat immediately. \"Give her to me.\" I said gently. The boy hesitated for only 1 second. Then he placed the baby into my arms. The moment I touched her, I felt how cold she was. My breath stopped for a second. This was dangerous, very dangerous. I wrapped my coat around both of them quickly pulling them close to my chest. \"You are safe now,\" I said, even though I was not sure yet. Ethan looked at me with fear in his eyes. … where you found that child.\" The moment the police officer stepped into the lobby, the air changed. >> >> It felt colder even inside the warm building. My heart was still racing as I held the baby close, trying to keep her stable and warm. The officer who spoke first looked serious. \"Sir, we need to know exactly where you found this child.\" I stood up slowly, still holding the baby in my arms. My hands were shaking a little, but I tried to stay calm. \"Outside the bus terminal on 8th Street,\" I said. \"A little boy was holding her. He said they were waiting for their mother.\" Ethan moved … my eyes for a moment, feeling relief mixed with fear. But then the doctor added something that changed everything. \"She has an identification tag from a hospital, but this does not match her current name records. We are trying to confirm her identity. One of the police officers immediately looked at me. Sir, we may have a bigger situation here. My stomach tightened. Ethan stepped closer. Can I see my sister now? The doctor hesitated. Not yet, but she is safe. Ethan looked at me, and I could see panic rising again. He whispered, Please don't leave us. I placed my hand on his shoulder. I'm not … taken her. The message on my phone made my hand go cold. You should not have taken her. For a moment, I could not move. The hospital noise around me faded. The voices of nurses, the footsteps in the hallway, even Ethan's breathing beside me, all felt far away. Ethan looked up at me. Sir, what is wrong? I quickly turned my phone off and forced a calm face. Nothing. Just work message, I said. But my voice did not sound normal even to myself. Detective Morgan noticed my reaction. She stepped closer. Mr. Cole, can I see your phone? I hesitated, then handed it over. She read the message and her … I believe you cared for her. Detective Morgan said gently. But we are not sure who placed you there. At that moment, everything I thought I understood started breaking apart. The hospital door opened suddenly. A nurse rushed in. Detective, we found something in the security footage. We all moved quickly to the monitoring room. On the screen, grainy footage showed the bus terminal. I saw it clearly now. A woman appeared briefly in the video. She placed the baby on the bench, looked around nervously, then walked away fast. But what shocked me was what happened next. A man stepped into … The door opened slowly, and for a second, nobody moved. The hallway light spilled into the room, stretching a long shadow across the floor. My body went completely still. Ethan grabbed my arm so tightly it hurt. Detective Morgan immediately raised her voice. Stop right there. Police. A man stood in the doorway. He looked calm, too calm. Dark coat, wet from snow, eyes fixed directly on Ethan. I'm not here to cause trouble. He said softly. But something in his voice made my stomach twist. It was controlled, careful, like he had practiced every word. Ethan stepped behind me. That's him. He … over,\" he said quietly. \"There are others involved.\" Before anyone could react, he stepped backward into the hallway. Security rushed in. \"Stop him!\" someone shouted. But he disappeared into the crowd. The room fell into chaos. Detective Morgan immediately turned to her radio. \"All units suspect fleeing east wing. Lockdown exits.\" Nurses checked Ethan and the baby again. I stayed frozen for a second, my mind spinning. Then I turned to Ethan. He was shaking badly now. \"I did something wrong,\" he whispered. \"Did I do something wrong?\" I knelt down quickly. \"No,\" I said firmly. \"You protected … snow was finally stopping. But inside my life, something had completely changed. I had not just found two children in the cold. They had found me. And from that moment, I knew I could never walk away. Sometimes life gives us moments where we are not prepared, where we do not have answers, and where fear is stronger than clarity. But kindness does not wait for perfect conditions. Real kindness is choosing to protect someone even when everything is uncertain. One small act of courage can change not only another person's life, but also your own heart forever. In storytelling English, short … prove something is true. Investigation means careful searching to find the truth. Trust means believing someone is honest and safe. Fear means a strong feeling of being afraid. Repeat after me slowly. I was not prepared for this. I need to keep you safe. I will not leave you alone. Something was wrong. I felt my heart drop. Thank you for listening to this story in English Parlor. What would you have done in this situation? Do you think Ethan did the right thing by trusting a stranger? And how important is kindness in moments of danger? Write your answers in the comments. See you next time.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0161
+  "src": "auto"
  },
  "UB7Yzv7dz5c": {
   "channel": "English Parlor",
   "lang": "en",
-  "checked": "2026-11-16T23:09:19+00:00",
+  "checked": "2026-11-25T23:47:04+00:00",
   "title": "He Lied About His Wife 💔 || Learn English With Story 🔥 || English Listening Practice Level 4",
   "duration": 1545,
   "published": "20260502",
@@ -160123,6 +161357,7 @@
   "pace": 141.5,
   "rare": 0.0072,
   "var": 0.7563,
+  "cl": 0.0174,
   "speech_s": 1538.3,
   "tokens": 3627,
   "kw": [
@@ -160247,16 +161482,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "heart",
+    "that stayed in my heart. You chose these flowers carefully, like",
+    246,
+    253,
+    5.31,
+    19
+   ],
+   [
+    "again",
+    "again and again, \"Love is not for me.\"",
+    129,
+    137,
+    5.7,
+    14
+   ],
+   [
+    "smile",
+    "They smile, they laugh, and they choose",
+    59,
+    65,
+    4.64,
+    9
+   ],
+   [
+    "feelings",
+    "feelings. Please listen carefully and feel each",
+    25,
+    30,
+    4.71,
+    8
+   ],
+   [
+    "cried",
+    "That night, I cried for the first time",
+    692,
+    697,
+    4.19,
+    3
+   ],
+   [
+    "gently",
+    "\"Hello.\" I said gently. \"Hello.\" She replied.",
+    807,
+    815,
+    4.08,
+    3
+   ],
+   [
+    "calmly",
+    "\"Yes.\" She said calmly. \"But, he said",
+    894,
+    902,
+    3.56,
+    1
+   ],
+   [
+    "arranging",
+    "I was arranging flowers near the window.",
+    541,
+    547,
+    3.55,
+    1
+   ],
+   [
+    "birthdays",
+    "I make bouquets for weddings, birthdays,",
+    49,
+    54,
+    3.48,
+    1
+   ],
+   [
+    "bouquets",
+    "I make bouquets for weddings, birthdays,",
+    49,
+    54,
+    2.87,
+    1
+   ]
+  ],
   "tx": "I used to believe love was not for someone like me. Not because I hated love, but because I thought love would never choose me. Hello and welcome to English Parlor. Today, I will tell you a deep and emotional story about love, truth, and self-respect. This story will help you improve your English with simple words and real feelings. Please listen carefully and feel each moment. Sometimes, love feels warm and safe, but sometimes, it brings pain and confusion. Now, let me share my story with you. My name is Clara. I am 34 years old, and I work as a florist in a small flower shop. Every day, I … Not many people came to my shop that day. I was cleaning the table and fixing the flowers slowly. The shop was quiet. I could hear the sound of rain outside. Then the door opened. A man walked in. He was tall and calm. His hair was light brown, and his eyes looked tired. He looked around the shop slowly. He did not look happy like other customers. He looked sad. I felt it immediately. \"Hello?\" I said softly. \"Hello.\" He replied in a low voice. \"I need flowers.\" He said. \"For what occasion?\" I asked. He stopped for a moment and looked down. \"Just something simple.\" He said. I nodded and … the shop. The air smelled like flowers. Everything felt calm. Then, he looked at me seriously. Clara, I need to tell you something important. He said. My heart started beating fast. I did not know why, but I suddenly felt nervous. \"What is it?\" I asked quietly. He took a deep breath. And then he said something I was not ready to hear. He looked at me for a long moment before he spoke again. His eyes were not calm now. They looked heavy, like he was carrying something inside. I felt nervous. I felt confused. The quiet shop suddenly felt too small. \"I come here every day,\" he said slowly, … you understand more than you think.\" After that night, things started to change between us. He still came every day. He still bought flowers. But now, we talked more. Not just simple questions. We talked about feelings, about memories, about life. Sometimes he talked about Olivia. He told me how she laughed, how she liked music, how she loved small things. I listened quietly. I felt like I was walking into his past. At the same time, I felt something strange inside me. I felt close to him. Too close. One afternoon, he came earlier than usual. I was arranging flowers near the window. \"You … my heart was moving in two directions. One evening, I could not stop myself. Ethan, I said, what am I to you? He looked surprised. I mean, what is this? I asked again. He did not answer quickly. I don't know, he said finally. That answer hurt. It hurt more than silence. I care about you, he said quickly. But is that enough? I asked. He did not reply. That night, I cried for the first time in many years. I cried quietly in my room. I cried because I felt something real. But I also felt something wrong. I was falling for someone who was still holding on to someone else. And I did not know … he used to like.\" She added. \"Used to?\" That word felt strange. I nodded slowly and started to make a bouquet. White flowers, soft colors. My hands were shaking a little. She watched me carefully. \"You choose flowers with care.\" She said. My breath stopped for a second. Those words, I heard them before. \"Yes.\" I said quietly. \"They matter.\" She smiled, but her smile was weak. \"Yes.\" She said. \"They do.\" There was silence between us. Then she looked at me and asked, \"Do you know a man named Ethan?\" My heart dropped. I felt cold. \"Yes.\" I said slowly. \"He comes here.\" She nodded. \"I … \" she said. Her words felt like a knife. \"I wanted to understand why,\" she added. Silence filled the room. I felt guilty. I felt small. \"I didn't know,\" I said. \"He told me you were gone.\" She nodded slowly. \"He says that because it is easier,\" she said, \"easier than telling the truth.\" I could not look at her. \"I'm sorry,\" I said again. She gave a small, sad smile. \"It's not your fault,\" she said, \"but it is not right, either.\" Those words stayed in the air, heavy, real. She took the bouquet from my hands. \"Thank you,\" she said softly. Then she turned and walked to the door. Before she … truth. No more lies. He took a deep breath. His hands were shaking a little. She is my wife, he said. We are still married, but we are not really together. Why did you tell me she was dead? I asked. He looked down. Because it was easier, he said. Easier than telling you everything. Easier than losing you. His words hurt. I felt tears in my eyes, but I stayed strong. You did lose me, I said quietly. The moment you lied. He stepped closer. Clara, please. I care about you. What I feel for you is real. I shook my head. Maybe your feelings are real, I said. But your actions are not. He looked … she said. \"Hello.\" I replied. We stood there for a moment. \"I just wanted to say thank you.\" she said. \"For what?\" I asked. \"For being honest.\" she said. \"For not staying in something wrong.\" I looked at her and felt something new, respect. \"I hope you find peace.\" I said. She nodded. \"You too.\" She bought a small bouquet and left. This time the silence felt soft again. That night, I looked at myself in the mirror. The same face, the same life, but a different heart. \"I am enough.\" I said quietly. And this time, I truly believed it. This story teaches us something very important. Love is not … you do now? I will choose myself. I need peace. Try to repeat this conversation slowly. Feel the emotion in each sentence. Now think about these questions. Have you ever trusted someone who was not honest? How did you feel? Do you think Clara made the right decision? Why? What is more important, love or self-respect? Can love be real without honesty? Thank you so much for listening to this story. I hope it helped you learn English and also understand something important about life. Please write your answers in the comments. I would love to read your thoughts. Take care and see you next time.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0144
+  "src": "auto"
  },
  "0y0_n3P2TSU": {
   "channel": "English Parlor",
   "lang": "en",
-  "checked": "2026-11-16T23:09:27+00:00",
+  "checked": "2026-11-25T23:47:11+00:00",
   "title": "The Son Who Left | He Walked Away Forever…|| Learn English With Story🔥|| Level 4  Listening Practice",
   "duration": 2027,
   "published": "20260430",
@@ -160265,6 +161581,7 @@
   "pace": 141.7,
   "rare": 0.0107,
   "var": 0.7997,
+  "cl": 0.0309,
   "speech_s": 2026.1,
   "tokens": 4785,
   "kw": [
@@ -160405,16 +161722,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "needed",
+    "The kind of boy who once needed me for",
+    161,
+    166,
+    5.18,
+    25
+   ],
+   [
+    "everything",
+    "like the end of everything. I remember standing at the front door,",
+    34,
+    43,
+    5.54,
+    19
+   ],
+   [
+    "tired",
+    "tired. Tired of the tension, tired of the",
+    292,
+    299,
+    4.71,
+    6
+   ],
+   [
+    "sat",
+    "I sat back in my chair, feeling the",
+    660,
+    667,
+    4.64,
+    6
+   ],
+   [
+    "quietly",
+    "Then quietly, he spoke. \"You're not a",
+    374,
+    381,
+    4.15,
+    4
+   ],
+   [
+    "staring",
+    "staring at the walls, the photos on the",
+    495,
+    501,
+    4.14,
+    4
+   ],
+   [
+    "quieter",
+    "argument. It was quieter than that.",
+    245,
+    252,
+    3.34,
+    3
+   ],
+   [
+    "undo",
+    "undo the past. But I wasn't giving up on him, not yet,",
+    864,
+    871,
+    3.57,
+    2
+   ],
+   [
+    "tugging",
+    "tugging at his lips. \"Yeah. I think I can do that.\"",
+    1614,
+    1622,
+    2.88,
+    1
+   ],
+   [
+    "slung",
+    "He was standing there, his bag slung",
+    1050,
+    1056,
+    2.85,
+    1
+   ],
+   [
+    "storybook",
+    "It wasn't perfect. It wasn't a storybook",
+    1793,
+    1798,
+    2.79,
+    1
+   ],
+   [
+    "replaying",
+    "kept replaying the moment Michael walked",
+    441,
+    447,
+    2.75,
+    1
+   ],
+   [
+    "floorboards",
+    "single creak of the floorboards, every tick of the clock, every breath I",
+    458,
+    466,
+    2.71,
+    1
+   ]
+  ],
   "tx": "Hello and welcome to English Parlor. I'm so glad you've joined me today. Today's story is deeply emotional and I hope it will not only engage you, but also help you improve your English in a meaningful way. By listening carefully to this story, you'll learn new vocabulary, common expressions, and the beauty of storytelling through simple, clear English. Let's dive right into it. It was a simple goodbye, but it felt like the end of everything. I remember standing at the front door, the cool air of early autumn brushing against my face, and watching my son, Michael, walk away. He didn't turn … when I tried to spend time with him, I could feel the distance, like we were living in different worlds. Then one evening, the world as I knew it shifted completely. It wasn't a huge fight, no shouting or angry words thrown back and forth. It wasn't some dramatic, tear-filled argument. It was quieter than that. It was just a simple statement, but it felt like a bomb went off in the middle of our living room. \"Mom, Dad,\" Michael said, sitting on the couch, his voice small and hesitant. \"I think it's time for me to go. I want to move out.\" Sarah and I froze. We didn't know what to say. What … his back seemed to grow smaller and smaller as he left the house, like he was slipping away from me for good. The silence in our home grew louder and it felt as though I was hearing every single creak of the floorboards, every tick of the clock, every breath I took. Sarah was distant, too. She didn't speak much about Michael's departure. It was clear she was hurting, but she kept it inside. We both did. We just existed in the same space, but it felt like we were living in different worlds. I didn't know how to talk to her anymore. I didn't know if she blamed me, or if she was just as lost … weight of her words pressing down on me. She was right. I had tried to be a good father in my own way, but I had overlooked the most important thing. My son needed me, and I had failed to give him what he truly needed. I had taken him for granted, assuming that he would always be there, waiting for me to come around. A few days later, I drove to Michael's school. I didn't tell Sarah where I was going. I wasn't sure what I was hoping for, but something inside me told me that I needed to do this. I needed to see him. I needed to apologize. I needed to tell him that I wasn't giving up on him, … turned and walked away, leaving me standing there, unsure of what would happen next. But one thing was clear. I had to keep trying. I couldn't give up. Not now. The days went by, and I couldn't shake the feeling that something was changing between us. I knew it wouldn't be easy. I knew it might take time, but I had to keep believing that we could rebuild what we had lost. Even if it took years, I wasn't going to stop trying. And deep down, I knew Michael needed me, just as much as I needed him. The time for regrets was over. Now, it was about doing the hard work of reconnecting, of proving … chest tightened. I didn't know how to respond. It felt like a dream, like I was waiting to wake up and find out that this wasn't real. Michael was here. He was standing in front of me, and for the first time in a long time, I felt a glimmer of hope. \"I know I hurt you.\" I said softly, my voice thick with emotion. \"I know I wasn't there when you needed me. I can't change the past, but I want to try to make things right.\" He looked at me for a long moment, his face unreadable. Then, finally, he spoke. \"I don't know if things can go back to the way they were.\" he said quietly, \"but I think we … show up in the future. Michael didn't come home one day, and I thought I would go crazy with worry. I tried calling him, but his phone was off. My thoughts went straight to the worst places, imagining everything that could go wrong. But then, late that night, he called me. He was safe. He just needed some space. He was trying to figure things out, and I understood. I wasn't angry. I was just glad he was okay. \"I'm here, Dad.\" he said softly on the phone. \"I'll come home soon.\" It wasn't a promise, but it was something. It was enough. I didn't know when everything would be okay again, but … different at home. I didn't know how to deal with all the changes.\" His words hit me harder than I expected. I didn't know what to say at first. Michael wasn't just talking about what happened between us. He was talking about everything, the years of tension, the missed moments, the things we both neglected. He was acknowledging it, and in a way, that was the first real conversation we'd had in a long time. \"I don't know if I'll ever be able to forget everything.\" Michael continued, his eyes fixed on the table. \"But maybe we can still try to fix it, not make it perfect, but just try.\" I … peace I had felt in years. \"I think I'm ready to come home for good.\" Michael said quietly, breaking the silence. I turned to him, surprised. \"You are?\" He nodded. \"Yeah. I think I've figured out what I need, and I'm ready to be here again, for good.\" I smiled, my chest full. I couldn't express how much hearing those words meant. It wasn't the end of our journey. It was just the beginning. But it was beginning that felt more like hope than anything else. \"Whenever you're ready, Michael.\" I said, my voice steady, we'll be here. And so, Michael came home. It wasn't perfect. It wasn't a … Repeat after me. I regret not being there for you. We can start over together. It's never too late to try again. The hardest part is showing up. Thank you so much for listening to today's story. If you enjoyed this story, don't forget to like, share, and subscribe to our channel for more emotional stories and English learning content. Before you go, I have a few questions for you. What do you think is the most important part of rebuilding a relationship? Do you think it's possible to fix things after they've been broken? See you next time, and thank you for being a part of English Parlor.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0219
+  "src": "auto"
  },
  "D3sNYOuvGd4": {
   "channel": "English Parlor",
   "lang": "en",
-  "checked": "2026-11-16T23:09:31+00:00",
+  "checked": "2026-11-25T23:47:14+00:00",
   "title": "The Christmas I Said No || Learn English With Story🔥 || Level 3 English Listening Practice 📚",
   "duration": 1618,
   "published": "20260429",
@@ -160423,6 +161845,7 @@
   "pace": 140.1,
   "rare": 0.0095,
   "var": 0.7714,
+  "cl": 0.0215,
   "speech_s": 1617.3,
   "tokens": 3776,
   "kw": [
@@ -160555,16 +161978,121 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "words",
+    "words, and follow the story step by step",
+    22,
+    29,
+    5.25,
+    15
+   ],
+   [
+    "inside",
+    "But inside, it felt empty. Cold, but not because of winter.",
+    208,
+    217,
+    5.19,
+    15
+   ],
+   [
+    "calm",
+    "I felt calm. I felt safe.",
+    323,
+    329,
+    4.54,
+    10
+   ],
+   [
+    "silence",
+    "left. He got praise. I got silence. He",
+    183,
+    191,
+    4.46,
+    9
+   ],
+   [
+    "invisible",
+    "For most of my life, I felt invisible in",
+    65,
+    71,
+    4.09,
+    4
+   ],
+   [
+    "grandmother",
+    "That night, my grandmother called me.",
+    156,
+    163,
+    4.14,
+    3
+   ],
+   [
+    "buzzed",
+    "My phone buzzed again. Another message from my mother.",
+    509,
+    516,
+    3.02,
+    2
+   ],
+   [
+    "tighter",
+    "The house felt smaller now, tighter,",
+    871,
+    877,
+    3.58,
+    1
+   ],
+   [
+    "shadowing",
+    "Now, it is time for shadowing practice.",
+    1558,
+    1565,
+    2.84,
+    1
+   ],
+   [
+    "keychain",
+    "a keychain, three simple words, my own home. I held it in my hand and",
+    1288,
+    1296,
+    2.76,
+    1
+   ],
+   [
+    "21st",
+    "On December 21st, I finished everything.",
+    352,
+    359,
+    2.69,
+    1
+   ],
+   [
+    "groomer",
+    "groomer in a small animal salon.",
+    48,
+    55,
+    2.41,
+    1
+   ],
+   [
+    "23rd",
+    "Family dinner, December 23rd, 7:00 p.m.",
+    415,
+    422,
+    2.25,
+    1
+   ]
+  ],
   "tx": "Hello and welcome to English Parlor. Today, I have a story that may feel quiet at first, but slowly it will touch your heart. This story will help you learn English in a simple and natural way with real emotions and clear sentences. So, please listen carefully, feel the words, and follow the story step by step because this is not just a story, this is a life experience. I counted them three times just to be sure. 43 missed calls. 43. They all came in one night. One single night. And everything started with a simple photo. My name is Alora Vance. I am 31 years old. I work as a pet groomer in a … Because no one else ever said them. Years passed, but nothing changed. Soren got everything. I got what was left. He got praise. I got silence. He got big gifts. I got small smiles. When I finished school with good grades, my parents sent me a short message. \"Good job.\" That was all. No call. No hug. Just two simple words. Our house looked beautiful from the outside. Big windows. Clean garden. Bright lights at Christmas. But inside, it felt empty. Cold, but not because of winter. Cold, because no one really cared. Every Christmas was the same. A big tree. Perfect decorations. Nice photos. … And the answer was yes. On December 21st, I finished everything. The house was ready. Snow was falling softly outside. The air smelled like winter and wood. I stood near the window and looked at the trees. Everything felt quiet. Everything felt peaceful. I took a photo, then another, then one more, and I posted them online. Best Christmas gift I could ask for. 10 minutes later, my phone started ringing. One call, then another, then many. My screen filled with messages. My mother, my father, my brother, all at once, all suddenly, after years of silence. I stared at the screen. My heart felt … clean shoes, no bright colors. I did not want to impress them. I just wanted to feel steady. I looked at myself in the mirror. I took a deep breath. \"You are not the same person,\" I said softly. The drive to my old house felt long. The road was familiar, but it felt different now. Before, I drove there with hope. Now, I drove there with clarity. The big house came into view. Lights everywhere. Decorations perfect as always. From the outside, it looked warm. It always looked warm. I parked my car and sat for a moment. My hands were still on the wheel. I felt my heart beat slowly. Not fast. … about family.\" Family. That word again. I felt tired when I heard it. Family. I repeated softly. \"You remember that word now?\" My mother looked hurt. Or maybe she wanted to look hurt. \"Don't speak like that,\" she said. \"We are trying to include you.\" Include me? I almost laughed. \"For 10 years I was not included,\" I said. \"For 10 years I spent Christmas alone.\" My father's face became hard. \"We were busy,\" he said. \"You understand that.\" I shook my head slowly. \"No. I don't understand that anymore.\" The room felt tight, like the walls were closing in. My brother stood up now. His voice was … The house felt smaller now, tighter, like it was closing in on me. I owe this family, I repeated quietly. My brother crossed his arms. Yes, he said. We supported you. We gave you a home. I felt something shift inside me. Not pain, not fear, something stronger. Something that had been growing for years. A home, I said. Is that what you call it? My voice was calm, but my heart was loud. I could hear it. I could feel it. But I did not stop. A home is a place where people see you, I continued. A home is where people listen to you. A home is where you matter. No one interrupted me. This … My mother whispered, \"Free from what?\" I took a deep breath. \"From waiting,\" I said, \"from hoping, from trying to be enough for people who never saw me.\" My voice was soft, but it filled the room. \"I waited for years,\" I continued. \"I waited for a call, for an invite, for a simple 'We miss you,' but it never came.\" My eyes felt warm, but I did not cry. \"So, I stopped waiting,\" I said. My father looked at me, confused now. \"And now?\" he asked. \"And now I choose myself,\" I said. The words felt strong, real. My brother laughed a little, but it was not a happy laugh. \"That sounds selfish,\" he … and stepped inside. The air felt warm, safe, real. I took off my coat and sat down on the soft chair. I looked around. This place was simple, no perfect design, no pressure, no acting, just peace. I whispered, \"I'm home.\" For a long time, I sat in silence. No phone calls, no loud voices, no cold looks, just me and my thoughts. Then my phone buzzed. I looked at it. It was my mother. One message, \"Please come back. We can fix this.\" I stared at the words. For a moment, old feelings came back, pain, hope, confusion. I felt tired. I felt weak. But then I remembered everything, the silence, the … at my present. Warm, simple, real. I understood something important. Sometimes we wait for people to change. Sometimes we hope they will see us. But not everyone will. And that is okay. Because we can choose ourselves. We can build our own life. We can find our own peace. I did not lose my family. I lost the idea that they would change. And in that loss, I found freedom. That is the moral of this story. Sometimes the best thing you can do is walk away. Not with anger, not with hate, but with calm strength, with self-respect, with peace. And sometimes the best gift you can give yourself is … I felt invisible. I waited for years. They did not see me. I chose myself. I found peace. My life is mine. Say these sentences slowly, then say them again. Feel the emotion. This will help your speaking. Thank you so much for listening to this story. I hope you learned something new today, and I hope this story touched your heart. Now, I have a few questions for you. Have you ever felt invisible? What would you choose, family or peace? Do you think it is okay to walk away? Please share your thoughts in the comments. I would love to read them. Take care, keep learning, and see you next time.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0252
+  "src": "auto"
  },
  "lSGl1Ykoq0s": {
   "channel": "English Parlor",
   "lang": "en",
-  "checked": "2026-11-16T23:09:35+00:00",
+  "checked": "2026-11-25T23:47:17+00:00",
   "title": "The Angry Wife | Level 3 English Listening Practice || Learn English With Story 💔",
   "duration": 1884,
   "published": "20260428",
@@ -160573,6 +162101,7 @@
   "pace": 140.2,
   "rare": 0.0223,
   "var": 0.7961,
+  "cl": 0.03,
   "speech_s": 1882.7,
   "tokens": 4399,
   "kw": [
@@ -160737,16 +162266,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "each",
+    "stop seeing each other. As you listen, you will not only story,",
+    27,
+    36,
+    5.69,
+    15
+   ],
+   [
+    "small",
+    "My wife, Mara, and I lived in a small",
+    66,
+    74,
+    5.51,
+    13
+   ],
+   [
+    "realized",
+    "my hands, I realized how deep the",
+    340,
+    346,
+    4.59,
+    8
+   ],
+   [
+    "willing",
+    "It's about being willing to face the",
+    891,
+    897,
+    4.72,
+    6
+   ],
+   [
+    "distant",
+    "Her eyes were distant, her smile forced.",
+    537,
+    544,
+    4.19,
+    2
+   ],
+   [
+    "emotion",
+    "No emotion. I felt confused. Was I doing",
+    186,
+    192,
+    4.19,
+    2
+   ],
+   [
+    "disconnected",
+    "distant, frustrated, disconnected, and figure out how to rebuild.",
+    938,
+    947,
+    3.52,
+    2
+   ],
+   [
+    "disconnect",
+    "Disconnect means to lose the connection",
+    1812,
+    1819,
+    3.46,
+    2
+   ],
+   [
+    "flatly",
+    "flatly, as if I were just another person",
+    156,
+    161,
+    2.91,
+    1
+   ],
+   [
+    "overthinking",
+    "I thought maybe I was just overthinking",
+    265,
+    272,
+    2.85,
+    1
+   ]
+  ],
   "tx": "Hello and welcome to English Parlor. Have you ever lived with someone and still felt completely alone? Have you ever looked at the person you love and felt like they were slowly becoming a stranger? Today's story is about an angry wife. But the truth is deeper than anger. It is about silence, distance, and the quiet pain that grows when two people stop seeing each other. As you listen, you will not only story, you will also learn simple, real English used in everyday life. Now, let's begin. My name is Callan and I'm 35 years old. I work as a freelance graphic designer. My life is a bit quiet. … and try again. \"Mara, I feel like we haven't talked in a while. What's going on?\" She put her fork down and looked at me. For a second, I saw a flicker of something in her eyes, but it quickly faded. \"I'm tired, Callan. Tired of pretending everything's okay.\" I didn't know what to say. I wasn't sure how we went from laughing together to this silence. I felt it deep inside. Something was broken. But I didn't know what it was or how to fix it. I couldn't stop thinking about our conversation as I lay in bed that night. The apartment felt cold. I kept looking over at Mara, who had her back … was fine. But what if she didn't want to talk to me? What if it was too late? I stood in front of her that evening. She was sitting on the couch, just like before. This time, she looked up at me, her eyes tired. She didn't speak, but I could see the sadness in them. \"Mara.\" I started. \"We need to talk. I need to know what's going on. Why are you so angry? Why are you shutting me out?\" She didn't say anything for a moment. Then finally, she spoke. Her voice was quiet, but full of emotion. \"I don't feel seen anymore, Callan. I don't feel like I matter to you.\" And just like that, … for a brief second, and then she looked away. I don't know if you can fix this, Callan. I don't know if I can fix this. Her voice cracked at the end, and I saw a tear slip down her cheek. That one tear felt like a weight crashing down on me. Mara, I said, reaching across the table to hold her hand. Please, let me try. Let me show you that I'm still here. That I still care. She pulled her hand away gently and stood up. I don't know if it's enough anymore. She whispered, almost to herself. Then, with a shaky breath, she turned and walked away. I sat there, alone in the kitchen, the … have to do all of this. I know, I replied, standing up to face her. But, I wanted to. I needed to. I need you to know that I'm here, and I'm not giving up on us. For a moment, she didn't say anything. She just stood there, staring at me. And then, to my surprise, she stepped forward and wrapped her arms around me. The weight I had been carrying for days seemed to lift in that one embrace. It wasn't a perfect solution. It wasn't the end of our problems, but it was a beginning. And sometimes, beginnings are all we need. Later that night, as we ate dinner together, we talked. Not about the past … to talk to someone. I felt a small knot in my stomach. Jessica was Mara's best friend, and they had always shared everything with each other. But, I couldn't help but feel a little jealous. For so long, Mara and I had been the ones to share everything. Now, it felt like she was turning to someone else, and it stung more than I expected. I just don't understand, I said softly. Why couldn't you talk to me? Mara took a deep breath, sitting down next to me. Because, Callan, I don't know if I can talk to you anymore. Not like before. I felt the air in the room grow heavier. Her words felt like … We had both been afraid to be vulnerable. We had both built walls, and those walls had grown too high. But talking about our feelings, our needs, our pain, it started to break down those walls piece by piece. I began to see Mara differently that day. She wasn't just the woman I loved, she was someone struggling with her own fears, her own insecurities. She wasn't angry at me. She was angry at the distance that had grown between us. She wanted to be heard, and I had failed to listen. And just as importantly, I realized I had my own anger. I was angry at myself for not noticing how far we had … know if we'll ever be the way we were before, but I do know that I don't want to give up.\" I took a deep breath, not realizing how tightly I had been holding my feelings in. \"I don't want to give up either.\" I replied, feeling my chest loosen with relief. \"We can't just go back, but we can go forward, and I'm willing to try.\" Her eyes softened as she reached out and took my hand. For a moment, we sat there, both silently acknowledging the space between us. It wasn't gone, but it was smaller now. We had learned to share it instead of letting it pull us apart. The real breakthrough came a … was the most important thing. The lesson from all of this was simple, yet profound. Love isn't about perfection. It isn't about never having problems or never making mistakes. Love is about understanding, listening, and growing together. It's about choosing each other every day, even when it's difficult. And sometimes, the hardest part of love is not just staying, but staying aware, noticing each other, noticing the small things that make a relationship real. Through this journey, I learned that relationships require constant effort, understanding, and communication. Love isn't a … in a relationship. Miscommunication means a failure to understand each other clearly. Example, our problems started with miscommunication. By learning these words, you can talk about emotions and relationships more easily. Thank you for listening to this emotional story. If you liked it, please like, share, and subscribe to English Parlor. Here are a few questions for you to think about. Have you ever experienced a time when you felt disconnected from someone close to you? What do you think is the most important thing in a relationship? I'll see you next time with another story. Take care.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0278
+  "src": "auto"
  },
  "0M0vdaAvFuI": {
   "channel": "English by Jay - Sprout",
   "lang": "en",
-  "checked": "2026-11-16T23:09:50+00:00",
+  "checked": "2026-11-25T23:48:33+00:00",
   "title": "travel & learn English to fix your memory problem",
   "duration": 1213,
   "published": "20261102",
@@ -160755,6 +162365,7 @@
   "pace": 123.7,
   "rare": 0.0417,
   "var": 0.7326,
+  "cl": 0.037,
   "speech_s": 1139.5,
   "tokens": 2349,
   "kw": [
@@ -160919,34 +162530,116 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "today",
+    "Today, I brought you guys with me to",
+    30,
+    36,
+    5.55,
+    8
+   ],
+   [
+    "beautiful",
+    "beautiful gardens, and ancient city walls.",
+    46,
+    55,
+    5.22,
+    8
+   ],
+   [
+    "trees",
+    "with the trees behind. And far in the distance, in the",
+    722,
+    731,
+    4.69,
+    6
+   ],
+   [
+    "forest",
+    "space, like skyscrapers next to forest.",
+    312,
+    321,
+    4.7,
+    5
+   ],
+   [
+    "dragons",
+    "dragons and they are like roof",
+    325,
+    331,
+    4.1,
+    3
+   ],
+   [
+    "statue",
+    "we have a statue. And these statues are over",
+    1129,
+    1137,
+    4.09,
+    3
+   ],
+   [
+    "ribbons",
+    "ribbons hanging. These are called ribbons.",
+    279,
+    288,
+    3.36,
+    3
+   ],
+   [
+    "scaffolding",
+    "distance, you can see the scaffolding.",
+    287,
+    293,
+    3.1,
+    3
+   ],
+   [
+    "tusks",
+    "These are the elephant's tusks. The",
+    1155,
+    1160,
+    2.8,
+    2
+   ],
+   [
+    "tassels",
+    "you have tassels. These",
+    374,
+    381,
+    2.57,
+    2
+   ]
+  ],
   "tx": "They say that traveling, while learning English, helps you remember words 78% better. I don't know who says it, but >> >> I think they're right. So, travel with me across China while we collect new English words. And I have some very exciting news. Something I've been working on for a long time. More to come on that later. Today, I brought you guys with me to learn English in Nanjing, which is the capital city of the Jiangsu province in eastern China. The city has a long history. It's known for its old temples, beautiful gardens, and ancient city walls. I wonder what we'll find today. Hello, … to climb. These are steps. When they are outside, they are steps. When they are inside, they are stairs. So, let's climb the steps. Let's go up the steps. Guys, I am very excited to tell you something. We have officially launched Sprout in China. On the App Store and on our website, sproutlanguage.com. If you're from China, you can now use Sprout. If you're someone who can understand English, but you struggle to speak, then you need an English-speaking environment. You need a way to speak in a fun and stress-free way. On Sprout, we built an English immersion system. You watch native English … some red ribbons hanging. These are called ribbons. A juxtaposition of these ribbons in the distance, you can see the scaffolding. All of these blue poles and building equipment in order to build a building is called a scaffolding. And there is a juxtaposition between the old ancient temple and the new construction. The scaffolding over there. I've taught this word before, but um that word is juxtaposition. When two contrasting elements are in the same space, like skyscrapers next to forest. Juxtaposition. They juxtapose each other. So, cool fact about these, these are the dragons and they … longer after the sound has been made. So, after I struck the bell, it made a very resonant sound. A deep male voice could also be described as resonant. So, here you can see the smoke rising from the big pots. And people are throwing incense sticks into a giant pot, a big fire, and they're all burning. That produces smoke, and the smoke rises into the air. I'm lighting the incense sticks with the flame from the candle. You can see the orange flame blowing in the wind. So, we're just leaving the temple and look what we have found. We found a police car with flashing lights. These are the … couple holding hands, swinging their arms. So, now we're walking by a huge lake. In the distance, you can see the mountains. This is a willow tree. The one that was in Harry Potter when it was smashing Ron Weasley and Harry's car. Behind the willow tree, we have a lake. Down there, we have all the boats on the lake. And that's is where we are going, my friends. Now we are walking along the wooden pier. The pier is this thing that sticks out into the lake. >> >> Inside here, guys, these are all the life jackets or life vests. >> >> Well, guys, we are on a boat on a lake. And it's beautiful … want to learn from you and improve your experience learning English. So, thank you so much for joining us on this journey to our growing Sprout community and we hope you're enjoying this video, this beautiful weather as much as we are. >> >> So, this is the steering wheel, a nice red steering wheel. So, on the lake you can see the movements of the water and we call that a ripple. The water is rippling. The sunlight is shining on the lake and it's almost sparkling like a dress. We say that is glistening. The sunlight is glistening on the water. Two words to describe this beautiful view, guys. … it's going to pull key vocabulary from that photo, and I will speak about it, and it will give me personalized feedback on my speaking. You can do the same with your phone, take any photo, upload it into Sprout, and talk about it for 1 minute to get your AI feedback. It's a wonderful practice that I do with all of my students in the Infinity class, and super useful for improving your vocabulary and becoming a better, more confident English speaker. >> >> Good morning, guys. It is Monday morning, and about half 10. The sun is shining. We are walking through a national park in Nanjing. I'm … core. The core of the apple. Just like the core of your body or the core in the center of the earth. Now this apple goes in the bin. Nope, not that side, this side. There we go. And Blake is from America, so in America they say >> the trash can. >> Trash can. >> Trash can. Okay, in England we say the rubbish bin or for short the bin. And we You said >> trash shot. >> I'd say the trash. >> The trash, yeah. To throw the apple in the trash. I throw the apple in the bin. You, as an English learner, can say whichever one that you please. Whichever one you like. This is a bridge. We are walking … light is flashing orange or in the UK, we say amber. Red, amber, green. This is flashing amber. This is a pavilion with a nice roof and red columns. There are some people taking a rest in the shade from the sun. So, one of the most famous things in China is you think the palaces, the kings, what did they eat? What did the royalty of China eat back in the day? Well, let me tell you. Kentucky Fried Chicken. >> >> Look at that, with a traditional roof. So, guys, the sun is beating down. We have made it to the top. Let's go check it out. >> >> There's one really cool concept I wanted to talk … these things are called? These are the elephant's tusks. The tusks. And this long nose is the elephant's trunk. We have walked around 16,000 steps today and that leads me on to the final word of the day, which is knackered. Knackered is a British slang word that we love to use in England and it means you are very tired. You can say this with your friends or people that you are close with. I am knackered. Right now, I'm knackered. The next stop is Shanghai. I'm super excited for that next vlog. Stay tuned. Thank you for watching. I hope you found this video useful and I'll see you next time.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0401
+  "src": "auto"
  },
  "ABJMp1n8TfE": {
   "channel": "English by Jay - Sprout",
   "lang": "en",
-  "checked": "2026-11-16T23:10:07+00:00",
+  "checked": "2026-11-25T23:48:50+00:00",
   "title": "Listen and Speak English at Native Speed (ft. Volka)",
   "duration": 837,
   "published": "20260914",
   "spoken": "en",
   "spoken_v": 2,
-  "pace": 151.2,
-  "rare": 0.0427,
-  "var": 0.7487,
-  "speech_s": 798.4,
-  "tokens": 2012,
+  "pace": 150.5,
+  "rare": 0.0381,
+  "var": 0.7503,
+  "cl": 0.0391,
+  "speech_s": 795.0,
+  "tokens": 1994,
   "kw": [
    [
     "yeah",
-    ">> We're a year later, yeah. Let's go get",
+    ">> We're a year later, yeah.",
     66,
     70,
     5.37,
-    23
+    22
    ],
    [
     "guys",
@@ -160958,7 +162651,7 @@
    ],
    [
     "call",
-    "But can you tell me, what do you call",
+    "But can you tell me what do you call",
     163,
     167,
     5.51,
@@ -160966,24 +162659,16 @@
    ],
    [
     "little",
-    "around, everything is a little bit like",
-    119,
-    125,
+    "you look around, everything is a little",
+    118,
+    124,
     5.75,
     10
    ],
    [
-    "flat",
-    "I don't live in a flat. I live in a",
-    729,
-    735,
-    4.72,
-    6
-   ],
-   [
     "videos",
-    "input videos on YouTube for people",
-    47,
+    "info videos on YouTube for people",
+    48,
     51,
     4.79,
     5
@@ -160998,10 +162683,18 @@
    ],
    [
     "taste",
-    "And now taste test. I wish you could taste this.",
+    "And now taste test. I I you could taste this.",
     234,
     247,
     4.73,
+    4
+   ],
+   [
+    "flat",
+    ">> I don't live in a flat. I live in a",
+    729,
+    736,
+    4.72,
     4
    ],
    [
@@ -161014,23 +162707,23 @@
    ],
    [
     "fridge",
-    ">> So in this little fridge we have",
+    "So in this little fridge we have",
     404,
-    409,
+    410,
     4.02,
     4
    ],
    [
     "thirsty",
-    "thirsty to not thirsty by drinking. I've",
+    "thirsty to not thirsty by drinking.",
     248,
-    254,
+    255,
     3.74,
     4
    ],
    [
     "accent",
-    "we have a Scouse accent. It's not very",
+    "we have a a Scouse accent. Not very good",
     340,
     345,
     4.14,
@@ -161054,23 +162747,23 @@
    ],
    [
     "lanterns",
-    "At nights the lanterns turn on.",
+    "At night the lanterns turn on.",
     452,
-    457,
+    458,
     3.2,
     3
    ],
    [
-    "crisps",
-    "These are crisps and in American English",
-    422,
-    431,
-    3.09,
+    "mot",
+    "So guys, we're going to get some uh mot",
+    144,
+    149,
+    3.1,
     3
    ],
    [
     "mannequins",
-    "But these are like mannequins >> Yeah.",
+    "These are like mannequins with their",
     107,
     111,
     2.84,
@@ -161094,23 +162787,104 @@
    ],
    [
     "collab",
-    "can do another collab. Let us know what",
+    "can do another collab. Let us know",
     824,
     829,
     2.97,
     2
    ]
   ],
-  "tx": "Hello world. Today we are exploring the lovely old town of Hoi An, learning lots of English using the world around us. And we'll also be talking about the differences between North American English, which I speak, and British English, which Jay speaks. So start the word count, and let's go. By the way guys, I'm walking on the pavement. That's the road. This is the pavement. And this is Volker. >> Hey guys. My name is Volker. You may or may not recognize me from Volker English, but I just make comprehensible input videos on YouTube for people learning English. >> You do wonderful videos as … a small, narrow street. And uh can you describe what these are? >> Maybe a scarf that you put across your body, like some sort of dress. >> Yeah, nice. >> sure. How would you describe it? >> Well, I was thinking this it probably is like a silk garment, I might say. But these are like mannequins >> Yeah. >> with their heads chopped off. >> Yeah, there's just a knob. It looks like I could put my toilet paper there. Honestly. But yeah, I really do like the aesthetic of Hoi An. Like if you look around, everything is a little bit like old Yeah. Eroded a little bit. Like the bricks are showing. … But can you tell me, what do you call this? >> Okay, so these are trousers. >> Trousers? >> Yeah. What would you say? >> Trousers is a word I don't think I've ever used in my vocabulary. We call those pants. We call those pants. >> Funny thing is, we call what's underneath these pants. >> Really? >> Or boxers. >> Really? >> Yeah. >> That is something I actually didn't know, because we just call them boxers. >> What would you call these? >> We would call those sneakers. Sneakers. What would you call them? >> We don't say sneakers, we say trainers. >> Trainers? >> Trainers. Yeah. In … going to go buy a little snack. And a little sweet treat. In the road here, these are pedicabs. In Vietnam, they call them cyclo. But, we would say pedicab. >> And I show your videos to my English classes all the time. And your videos are great. >> Thank you so much. What's your name? >> Ava. >> Nice to meet you, Ava. >> Nice to meet you. >> Thank you for what you do. >> Come on. Thank you. Just met the lovely Ava. If you're watching this, Ava, in the future, thanks for coming to say hi. And if anyone else ever sees me in the street, please come say hi. I don't bite. Speaking of biting, … Scouse accent. It's not very good, though. >> Oh. >> It's a Scouse This bit in the back of the throat. It's like that. Sorry to anyone Liverpool friend watching >> Honestly that sounds that sounds convincing to me. It really reminded me of that movie with that red that red hair archer. >> Oh yeah. >> Brave? >> Yes it is brave. Yeah yeah. That was like a Scottish. >> Yeah okay. Okay yeah. >> I used to live in Edinburgh in Scotland I can do a I can do a bit of a Scottish accent. That's quite stuck Scottish. This is in British English a shop. >> And we call this in North American English a … English is fries in American English. They say fries we say chips. They say chips we say crisps. Got it? Good. It's kind of confusing. If you have ever been to Poyang then you will know how beautiful this place is. At nights the lanterns turn on. Outside the shop front of here you have two red lanterns. Now the light is fading. And when the light's fading, the sky turns blue. We call this twilight or dusk. The time just after the sun sets. And it's very beautiful. Isn't it, Chang? Above Chang's head, we have pink flowers. That is the bougainvillea. Here we have the gold mannequins in the … see the light down here reflecting off the surface of the water. So this is a night market, guys. A night market. The Yaowarat area is called a night market. And these are stalls. When someone has a small shop that's temporary, we call it a stall. So this stall is selling various things, and the lights are very bright. They are dazzling, very bright. Up here, we have a very pretty street lamp. A street lamp. And some lanterns attached to a string or a cable. The sun has set and right now this cloud in the distance looks ominous. When I say a cloud looks ominous, it means it looks … videos. There's the beautiful cameraman Leon. And beautiful man behind the camera, Volka. If you follow me and you don't follow him, then something's wrong. So, go follow him. Thank you. Love you, guys. So, these are bracelets. And this is a pack of cards. Here we have lots of different cards with beautiful decorations on them. And these are coasters. Coaster. And that's a small stool. Hello. >> Nice to meet you, Nicola. >> No, thank you. If I stop for too long, then they grab me and they want to they want me to buy something. So, I have to keep moving. That's a little dog. Hey, pooch. Rule … and then Jay will say the British version. So, I currently live in an apartment in Da Nang. >> Mhm. I don't live in a flat. I live in a house. But the opposite to apartment is flat in the UK. >> So, apartment >> flat. >> But flat also means >> level. >> Flat. The ground is flat. >> Uh-huh. >> The next word is guys. Hey, you guys want to go get something to eat? Like dessert? >> And I would say in the UK to my friends, lads. All right, lads. Or now then, lads. Hey up, lads. Just as like a group of male friends. >> That is something I might adopt into my vocabulary, lads. I think that is … >> No, what is that? >> To chat is to talk rubbish. >> Oh, talk trash. >> Yeah, talk trash kind of thing. To chat >> Chat >> Just chat >> Yeah. I didn't know that word until today. >> All right, nice. >> So, I also learned some British words today. >> We're all learning. >> So, that's all for today's video. I hope you guys enjoyed everything. Make sure to let us know in the comments what was your favorite part of the video and we can do another collab. Let us know what you would like us to do in our next collab. And remember, guys, you will become fluent in English. >> Bye, guys. >> Peace.",
+  "kx": [
+   [
+    "we're",
+    ">> We're a year later, yeah.",
+    66,
+    70,
+    5.4,
+    8
+   ],
+   [
+    "looks",
+    "It looks like I could put my toilet",
+    111,
+    115,
+    5.36,
+    8
+   ],
+   [
+    "chips",
+    "chips, but we say crisps. Chips in English is fries in American",
+    429,
+    437,
+    4.21,
+    4
+   ],
+   [
+    "suit",
+    "And this mannequin is wearing a suit.",
+    488,
+    493,
+    4.7,
+    3
+   ],
+   [
+    "stuffed",
+    "personally I'm stuffed. What about you?",
+    708,
+    713,
+    3.96,
+    3
+   ],
+   [
+    "stall",
+    "temporary, we call it a stall.",
+    555,
+    561,
+    3.79,
+    3
+   ],
+   [
+    "crisps",
+    "These are crisps. And in American English",
+    422,
+    430,
+    3.09,
+    3
+   ],
+   [
+    "chemist",
+    ">> I fill my prescription at the chemist in",
+    778,
+    782,
+    3.51,
+    2
+   ],
+   [
+    "scoot",
+    "Scoot up. Thank you. I just scoot up. That means",
+    697,
+    704,
+    2.79,
+    2
+   ],
+   [
+    "quenched",
+    "So, now I've quenched my thirst. To",
+    243,
+    249,
+    2.47,
+    2
+   ]
+  ],
+  "tx": "Hello, world. Today we are exploring the lovely old town of Hoi An, learning lots of English using the world around us. >> And we'll also be talking about the differences between North American English, which I speak, and British English, which Jay speaks. So start the word count. >> And let's go. By the way guys, I'm walking on the pavements. That's the road. This is the pavement. And this is Wolter. >> Hey guys, my name is Wolter. You may or may not recognize me from Wolter English, but I just make comprehensible info videos on YouTube for people learning English. >> You do. Wonderful … alley or an alleyway, which is like a small narrow street. And can you describe what these are? >> Maybe a scarf that you put across your body like some sort of dress. >> Yeah, nice. >> not sure. How would you describe it? >> Well, I was thinking this probably has like a silk garment, I might say. These are like mannequins with their heads chopped off. >> Yeah, there's just a knob. It looks like I could put my toilet paper there, honestly. But yeah, I really do like the aesthetic of Hoi An. Like if you look around, everything is a little bit like old, eroded a little bit. Like, the bricks … our outfits. But can you tell me what do you call this? >> Okay, so these are trousers. >> Trousers. >> Yeah. What would you say? >> Trousers is a word I don't think I've ever used in my vocabulary. We call those pants. We call those pants. >> To be funny thing is we call what's underneath these pants >> Really? >> or boxers. >> Really? >> Yeah. >> That is something I actually didn't know because we just call them boxers. >> What would you call these? >> We would call those sneakers. Sneakers. What would you call them? >> We don't say sneakers. We say trainers. >> Trainers. >> Trainers. … my thirst. But I'm still hungry. So, I'm going to go buy a little snack, a little sweet treat. In the road here, these are petty caps. In Vietnam they call them But we would say petty cap. >> I show your videos to my English classes all the time and your videos are great. >> Thank you so much. What's your name? >> Ava. >> Nice to meet you, Ava. >> Nice to meet you. Thank you for what you do. >> Come on. Thank you. Just met the lovely Ava. If you're watching this Ava in the future, thanks for coming to say hi. And if anyone else ever sees me in the street, please come say hi. I don't bite. … actually. Yeah, we have a a Scouse accent. Not very good though. >> Oh. >> It's a Scouse is a bit in the back of the throat. >> Yeah. >> A bit like that. Sorry to anyone Liverpool fan watching this. >> that sounds that sounds It really reminded me of that movie with that red that red hair Archer. >> Oh, yeah. Yes, it is Brave. Yeah, yeah. That was like a Scottish. >> Yeah, okay. Okay. Yeah. >> Oh, yeah. used to live in Edinburgh in Scotland. I can do a I can do a bit of a Scottish accent. >> Okay, that's really good. >> quite thick Scottish. This is in British English a shop. >> And we … these chips, but we say crisps. Chips in English is fries in American English. They say fries, we say chips. They say chips, we say crisps. Got it? Good. >> Goodbye. >> It's kind of confusing. If you have ever been to then you will know how beautiful this place is. At night the lanterns turn on. Outside the shop from here you have two red lanterns. Now the light is fading. And when the light's fading the sky turns blue. We call this twilight or the dusk. The time just after the sun sets. And it's very beautiful, isn't it, Shang? Above Shang's head we have pink flowers. That is the … the river. And if I flip you around, we have the lantern boats. You can see the light down here reflecting off the surface of the water. So this is a night market, guys. A night market. The overall area is called a night market and these are stalls. When someone has a small shop that's temporary, we call it a stall. So this stall is selling selling various things and the lights are very bright. They are dazzling. Very bright. Up here, we have a very pretty street lamp. A street lamp. And some lanterns attached to a string or a cable. The sun has set and right now this cloud in the distance … know our lovely These guys work really hard. They make wonderful videos. There's the beautiful cameraman, Leon. And beautiful man behind the camera, If you follow me and you don't follow him, then something's wrong. So go follow him. Thank you. Love you guys. So these are bracelets. And this is a pack of cards. Here we have lots of different cards with beautiful decorations on. And these are coasters. Coaster. And that's a small stall. Hello. No, thank you. If I stop for too long, then they grab me and they want to they want me to buy something. So I have to keep moving. Nice a little dog. … of the word and then Jay will say the British version. So I currently live in an apartment in Da Nang. >> I don't live in a flat. I live in a But the opposite to apartment is flats in the UK. >> So, apartment? >> Flats. >> But flat also means >> Levels. >> Flat. The ground is flat. >> Uh-huh. >> The next word is guys. Hey, you guys want to go get something to eat like dessert? >> And I would say in the UK to my friends, lads. All right, lads. Or now then, lads. Hey up, lads. Just as like a group of male friends. >> That is something I might adopt into my vocabulary, lads. I think that is … that phrase? >> No, what is that? >> To chat is to talk rubbish. Like to talk garbage. Yeah, talk trash kind of thing. To chat Yeah. Just chat >> I didn't know that word until today. >> All right, nice. >> So, I also learned some British words today. >> We're all learning. >> So, that's all for today's video. I hope you guys enjoyed everything. Make sure to let us know in the comments, what was your favorite part of the video? And we can do another collab. Let us know what you would like us to do in our next collab. And remember, guys, you will become fluent in English. Bye, guys. >> Peace.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0359
+  "src": "auto"
  },
  "SfGINvkZz0M": {
   "channel": "English by Jay - Sprout",
   "lang": "en",
-  "checked": "2026-11-16T23:10:11+00:00",
+  "checked": "2026-11-25T23:48:53+00:00",
   "title": "How to talk to anyone without feeling AWKWARD | English Small Talk 2",
   "duration": 654,
   "published": "20260809",
@@ -161119,6 +162893,7 @@
   "pace": 132.3,
   "rare": 0.0094,
   "var": 0.7969,
+  "cl": 0.0355,
   "speech_s": 625.7,
   "tokens": 1380,
   "kw": [
@@ -161227,16 +163002,129 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ask",
+    "But, we do ask questions, and then",
+    228,
+    233,
+    5.34,
+    7
+   ],
+   [
+    "learned",
+    ">> Now let's recap what we learned in this",
+    573,
+    579,
+    4.85,
+    7
+   ],
+   [
+    "fake",
+    "small talk fake?\" I want to tell you a little story. So, I",
+    59,
+    69,
+    4.65,
+    3
+   ],
+   [
+    "respond",
+    "respond? The best small talkers do that by",
+    241,
+    249,
+    4.53,
+    3
+   ],
+   [
+    "novels",
+    "novels. And I love to read them when I go on",
+    461,
+    467,
+    4.1,
+    2
+   ],
+   [
+    "expressions",
+    "expressions. You smile and nod to",
+    293,
+    301,
+    3.92,
+    2
+   ],
+   [
+    "learners",
+    ">> A lot of English learners don't know",
+    383,
+    388,
+    3.48,
+    1
+   ],
+   [
+    "recap",
+    ">> Now let's recap what we learned in this",
+    573,
+    579,
+    3.45,
+    1
+   ],
+   [
+    "thirdly",
+    "Thirdly, we learned that small talk is",
+    601,
+    608,
+    3.06,
+    1
+   ],
+   [
+    "shh",
+    "Even if you're feeling shh we don't mention our problems at this",
+    45,
+    54,
+    3.01,
+    1
+   ],
+   [
+    "lucy's",
+    ">> Did you notice the problem with Lucy's",
+    418,
+    423,
+    2.76,
+    1
+   ],
+   [
+    "talkers",
+    "The best small talkers do that by",
+    243,
+    249,
+    2.67,
+    1
+   ],
+   [
+    "attentively",
+    "listening attentively, looking at the speaker, keeping eye",
+    246,
+    253,
+    2.51,
+    1
+   ],
+   [
+    "hitchhiker's",
+    "Hitchhiker's Guide to the Galaxy. Have",
+    408,
+    412,
+    2.43,
+    1
+   ]
+  ],
   "tx": "If you're learning English and you suck at small talk, you're not alone. Today, I want to help you improve your English small talk so you can talk to strangers without feeling nervous or awkward. Firstly, we're going to learn what is the point of small talk. After that, how to start a conversation and keep it going. Then, some common small talk mistakes. And finally, how to leave without seeming rude. First and foremost, most small talk conversations begin with \"Hey, how's it going?\" or \"How are you doing?\" And the answer is usually >> \"I'm good. How are you?\" >> \"Not bad.\" Even if you're … fake?\" I want to tell you a little story. So, I used to work at an Asian company and my colleagues hardly ever made small talk with me. They were much more direct and they got straight to work. But, after working together with them for a while, I got to know them better. And that made me realize it's just a cultural difference. You see, in England and in other English-speaking countries, we like to get to know each other a little bit before getting down to business. And once you understand that, then small talk won't feel fake anymore. Small talk isn't about sharing important information or … So, the goal is comfort, not perfect English. People aren't judging your English as much as you think they are. They're mainly asking themselves, \"Do I feel comfortable enough talking to this person?\" A small grammar mistake is much less important than showing warmth, curiosity, and attention. >> But, Jay, what if I don't know how to start a conversation? >> >> So, after saying, \"Hi, how are you?\" or \"How's it going?\" where do you go? Well, you can use what is already around you. So, for example, if you're at a cafe, you can say, \"Do you come here often?\" \"What's your favorite thing on … many people here?\" \"I love your outfit, by the way. Where did you buy that?\" >> Okay. So, now we know how to start a conversation. What to say after that? >> It's useful to think of small talk like a game of tennis. In tennis, you hit the ball back and forth to keep the rally going. In small talk, we don't have a ball. But, we do ask questions, and then answer those questions. And this keeps the conversation flowing. Right, you ask a question and someone is answering. How do you respond? The best small talkers do that by listening attentively, looking at the speaker, keeping eye contact, … or in your pockets. Try not to cross your arms. This is closed body language. A really useful tip is to grab a drink. Have a bottle of water with you. This will help your hands feel less awkward, and it will help you feel less rushed to respond. You can pause and take a sip before you speak. Beyond body language is our facial expressions. You smile and nod to encourage them to keep speaking. You can say things like, \"Oh, nice.\" \"Mhm.\" \"All right, cool.\" \"Oh, me too.\" And then you take your turn to speak. Let's look at a few examples. Hey, how's it going? >> Hey, it's going well, thanks. How … each other from work. I started working with her a year ago. How about you? >> I met her at our tennis club. We play doubles together. Are you into any sports? Just like anything, we learn by doing. So, the best way to get better at small talk is to practice having conversations daily. You will naturally get better at it. If you don't have anyone to practice with, you can chat with Jay AI on Sprout on any role-play situation. He will ask you questions, keep the conversation going, so you can get your daily English practice. >> But Jay, what's a common small talk mistake? >> >> A lot of … like fiction. >> Nice. Me, too. I usually read non-fiction, but recently I have been reading some fiction books. I've been reading a book called The Hitchhiker's Guide to the Galaxy. Have you read it? >> No, I haven't. >> Did you notice the problem with Lucy's answers there? They were too short. The problem with short answers is that it gives less detail for the other person to ask you questions and to keep the conversation going. The solution to that is to share more. Give more detail in your answers. Share your personality. And remember to ask questions back. When you share more, you can … crime novels. And I love to read them when I go on holiday. Are you into crime novels? >> I don't tend to read crime fiction. I usually read non-fiction books, but I'm curious. Have you got any recommendations for crime fiction books? >> Yeah, I just finished the book Thursday Murder Club by Richard Osman. I would highly recommend it. >> Nice. I think I'll check it out. What's it about? What a game of tennis that was. >> >> Why did that conversation between Lucy and I flow so smoothly? Simple. We asked questions and then we gave details in our answers. In small talk, if you want to be … deep talk and I'll share more about that in a future video. But what if the conversation is a little dry or what if it's come to its natural end? How do you leave without seeming rude? Well, the solution is some simple exit lines. It was really nice chatting with you, Lucy. I'm going to grab another drink now, but I'll see you around. I'm just going to say hi to a few more people before I leave, but it was nice to chat. I'm going to get back to my friends now, but it was nice chatting. >> >> Now let's recap what we learned in this video to help it stick in here. Firstly, we learned that … we can simply use the environment and the context around us. Thirdly, we learned that small talk is like a game of tennis. We ask questions and then we respond. We also learned the importance of open body language, smiling, and positive facial expressions. We learned that giving very short answers doesn't give enough information for the other person to ask us questions and keep the conversation going. And finally, we learned how to end a conversation using simple exit lines. So guys, it was lovely chatting with you. I'm just going to grab a drink, so I'll catch you in a bit. Yeah.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.035
+  "src": "auto"
  },
  "05IUkrkRkfs": {
   "channel": "Sergii Speaks",
   "lang": "en",
-  "checked": "2026-11-16T23:10:55+00:00",
+  "checked": "2026-11-25T23:50:51+00:00",
   "title": "Comprehensible Input English Conversation B1 B2 C1 London",
   "duration": 1291,
   "published": "20261114",
@@ -161245,6 +163133,7 @@
   "pace": 166.0,
   "rare": 0.0225,
   "var": 0.7832,
+  "cl": 0.0439,
   "speech_s": 1285.4,
   "tokens": 3556,
   "kw": [
@@ -161409,16 +163298,97 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "maybe",
+    ">> I used to work here, I don't know, maybe",
+    96,
+    102,
+    5.45,
+    9
+   ],
+   [
+    "i've",
+    ">> Yeah, I've never been here before.",
+    95,
+    100,
+    5.72,
+    8
+   ],
+   [
+    "bench",
+    ">> see two men on a bench. So yo guys since",
+    940,
+    946,
+    4.39,
+    4
+   ],
+   [
+    "improve",
+    "If you want to improve your English,",
+    0,
+    7,
+    4.79,
+    3
+   ],
+   [
+    "sci",
+    ">> Wow. It's a really sci-fi place, I would",
+    234,
+    238,
+    3.94,
+    4
+   ],
+   [
+    "bucks",
+    "a random one and I send 100 bucks to a",
+    545,
+    551,
+    4.19,
+    3
+   ],
+   [
+    "foggy",
+    "foggy and miserable just so that we have",
+    69,
+    74,
+    3.19,
+    2
+   ],
+   [
+    "congratulate",
+    "congratulate you. >> you so much. Oh Jesus Christ. I posted",
+    341,
+    347,
+    3.59,
+    1
+   ],
+   [
+    "ravishing",
+    "outstanding ravishing extra no extraordinary is a little",
+    862,
+    872,
+    2.69,
+    2
+   ],
+   [
+    "kuku",
+    "Completely kuku. >>",
+    1148,
+    1155,
+    2.22,
+    2
+   ]
+  ],
   "tx": "If you want to improve your English, travel all around the world, or get an international job, you have to do two things. Number one, listen. Listen to those who already travel and work for international companies. And number two, speak or shadow, which means pause this video every five seconds and repeat everything we say in exactly the same way. Now, hit the like button below and let's get started cuz that beautiful girl is right there. Good to see you, girl. It's been a while. Oh my gosh. >> It's been around almost three years? >> Yeah. >> It's been a while, Otto. >> No one's called me by … they opened it I don't know, maybe even some time ago, but now it's just fantastic. They keep changing the palms and trees there, and it's just a really >> in London? >> Oh, we have so many. >> Holy fox. >> Didn't you know UK pretty much has a tropical climate? >> What do you mean? >> >> Every park has some palms. >> I don't care if your idiotic Florida trip gets wrecked or not. Who wants to spend Christmas in a tropical climate anyway? >> Like when I moved here, I lived next to Battersea, Chelsea, and I would go to Battersea Park, and I was like, what is this palm doing here? And that … most insane dreams. >> No way. >> Like different planets, different time zones. >> it's insane. >> I know. >> You want to go there tonight? >> No, I can't tonight. >> This girl >> it out. >> this gorgeous Ukrainian born girl is actually quite crazy about sci-fi. She's very radical and super interested. I love spending time with her and that's my second interview with this young lady. >> our second encounter. >> Ah. Galahad, you're late. We were wondering if you'd had a second encounter with Charlie. >> A wish. >> And I heard some fantastic news from you. So congrats on on you on soon … people like, hey, I want to I want to practice English. I want to improve my English. I want to speak like you. I want to be fluent. How can I do that? I I have no one to talk to. I was like, you know what? Let me create a platform so you I could connect you with people from all around the world. You could talk to Brazilians, Colombians, Japanese, Ukrainians, Polish, people from all around the world. >> to share experiences and and connect with people. >> Absolutely. >> now we have people from 140 countries. >> Following the channel. >> Speaking to each other, practicing on our platform. … comments, I choose a random one and I send 100 bucks to a random person. How about this? You guys leave a word or a list of words right below this video, the words that you have just learned. So you could use them and you could also win 100 bucks. How about that? >> I think we can make it even more interesting. Your subscribers can write down five very interesting words that they'd love you to use in the next video. >> Ooh. >> And you will pick the winner and try to insert five of the words of choosing and just, you know, see how it goes. >> I love it. So drop a comment with three to five … a little bit. So they built it in a way that I think it imitates like the shipping containers they used till several centuries ago to move plants from continents to continent. So we have still some rain here, but it's also a little bit preserved, making a microclimate, which is good for >> Whoa. I love it. >> It's nice. >> A warmer microclimate and well-watered gardens create perfect conditions for London's most bizarre courtship. >> It's just such a good walk here. It's never too hot or too cold because of this microclimate. So definitely check it out when you're in Canary Wharf. >> Oh … in a Jacuzzi in that thing right there and cruise around the river. Oh my gosh. She'll take the lift. >> Yeah. >> I was going to say the elevator, but it's lift. >> Yeah, I use lift actually. >> In we're in the UK. >> In US you use elevator, right? >> Because we call it elevator. It's it's funny here it's called lift. It's still it lifts you up or it elevates you. Doesn't really matter. Same thing. >> Well, go on. Go on. It's merely a lift. Or perhaps I should say elevator. >> It's so many What I love about the English, it has so many synonyms. Like especially if you're into writing or … a bench? >> She's gone mate. >> I think in in England we are quite straightforward you can see two men two men on a bench I love that no unnecessary sophistication just clear as you see stuff. >> Yeah. move somewhere remote keep it simple and date the only option in town. >> Yeah. >> Oh here it is that's I think it was open actually just this year and there are even people swimming here well pretty cool. I want I want to I want to check the water. Can we dip our toes? >> Yeah, we can probably ask them. >> Dip my toes in the sand, breathe the ocean air. >> It should be the same temperature as … She said the same to me. >> I like I really love Spanish. It's just so beautiful, romantic, and just flowing really nice. Very And it's very useful. >> Yeah. So you like English, you like Spanish. Country wise, give me a list of three countries you would love to visit. >> Should they be new countries I haven't been to? >> Yeah. >> It's an opportunity to rethink things. Career wise you mean? >> Yeah. Yeah. I really want to go to South Africa. >> South Africa. >> I think it would be fantastic. This combination of you know, it's really warm climate, but also like the the end of the world, … often so bugged up in the past. Like whatever was happening in the past is interesting and useful to know, but I think as as a species, as humanity, we really need to look forward and make life better for ourselves and our children. >> What did you do? >> Doesn't matter. I will look forward, not back. >> And I hope you use the cool five words that I'm really looking forward to. >> Yeah. Oh, by the way, guys, did you forget to leave the comment right below this video with those five cool words? If you haven't, make sure to leave them right now. All right. Thank you. I'll see you >> next time.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0352
+  "src": "auto"
  },
  "Ucq3xPRrKW0": {
   "channel": "Sergii Speaks",
   "lang": "en",
-  "checked": "2026-11-16T23:11:00+00:00",
+  "checked": "2026-11-25T23:50:55+00:00",
   "title": "Comprehensible Input English Native Speaker Conversation B1 B2 C1 South African Girl Istanbul",
   "duration": 1044,
   "published": "20261109",
@@ -161427,6 +163397,7 @@
   "pace": 177.2,
   "rare": 0.0241,
   "var": 0.7645,
+  "cl": 0.0377,
   "speech_s": 1040.3,
   "tokens": 3073,
   "kw": [
@@ -161591,11 +163562,92 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "okay",
+    "then I was like, okay, someone told me",
+    262,
+    268,
+    5.06,
+    7
+   ],
+   [
+    "let",
+    "like button below and let's get started.",
+    39,
+    44,
+    5.6,
+    6
+   ],
+   [
+    "honest",
+    "honest, say it how it is.",
+    482,
+    489,
+    4.73,
+    3
+   ],
+   [
+    "clothes",
+    "with my prom clothes. So like I got like",
+    965,
+    970,
+    4.72,
+    3
+   ],
+   [
+    "matching",
+    "and looks perfectly matching you and",
+    758,
+    765,
+    4.1,
+    2
+   ],
+   [
+    "tourists",
+    "much so fabricated towards tourists, and",
+    167,
+    173,
+    4.06,
+    2
+   ],
+   [
+    "sdf",
+    "connection at ORD into SDF. >> Oh, sorry.",
+    947,
+    954,
+    3.0,
+    2
+   ],
+   [
+    "traveler",
+    "just I'm a traveler. I've mentoring",
+    240,
+    247,
+    3.57,
+    1
+   ],
+   [
+    "ord",
+    "connection at ORD into SDF. >> Oh, sorry.",
+    947,
+    954,
+    2.96,
+    1
+   ],
+   [
+    "layla",
+    "Layla, good to see you. Oh my gosh,",
+    44,
+    49,
+    2.93,
+    1
+   ]
+  ],
   "tx": "If you want to improve your English and travel all around the world, or to get an international job, you need to speak English fluently, or at least at B1 B2 levels. And the best way to become fluent is to listen to and shadow native speakers. So I'm inviting you for a walk through one of the oldest cities in the world, Istanbul, with a native English speaker that I randomly met at a cafe. Want to improve your English? Hit the like button below and let's get started. Layla, good to see you. Oh my gosh, amazing. >> How are you? >> In Turkey, you guys go for two kisses, right? Not for one. >> … on my own. I needed to see on my own. No handouts. C1, that's cool. What's your level now? Between C1? >> say I'm C1 if I'm confident. >> C1-ish, that's pretty cool. Wow. Where are we heading to? >> You tell me. >> I tell you. You're a local, I'm not local. You show me the city. Show me the best part of it. >> The best part, little controversial, but I think uh Asia Of course. >> >> Let's go to Asia. >> Exactly. >> She was a big sex symbol, and this movie was a little controversial. >> I think that the Asian side is more beautiful because it's more calm. It has more greenery. Uh … >> Well, I'm not an English teacher. I'm just I'm a traveler. I've mentoring people for the last nine years how to become a tech professional. >> Mhm. >> How to become a software quality assurance engineer. I have a an online boot camp located in Los Angeles and we teach people all around the world. And I've been running the YouTube channel of mine for the last six or seven years. And then I was like, okay, someone told me during the public speech that I was public spiel that I was giving that, Sergi, it's awesome that you know tech, but your voice sounds very professional and sounds Yeah, … the first couple of days. Yeah, it got some attention. And then I was like, hm, okay. But then I quit doing YouTube and this channel for like two months. But then one day I started getting comments like every hour like, dude, where are the videos? We want to see more and more. And I saw that that video picked up. It got like five, 10,000 views. I'm like, you know what? Let me try it again. And I did a couple of videos and the New York City one got like 300,000 views in a couple of weeks. I'm like, huh? I kind of like it. Let me continue doing that. >> So would you say that you've had an … right here and I talked to people from Brazil, Colombia, and Japan. And by the way, if you want to practice English just like I do on a daily basis, simply go to foxu.com f o x just f y i. >> >> Thank you very much. >> Have you ever felt like you're local? >> Um >> Or do you still feel like you're a foreigner? >> The first four, five, four years I would say that I felt very foreign here just because, you know, there are a lot of cultural differences and uh very much different types of communication styles because in South Africa people tend to be a little bit more blunt, uh more honest, … their music or understanding the internet culture as well because I think that a lot of textbooks usually tend to teach more formal >> Yeah. >> of speaking, whereas in real life nobody speaks as such. >> Whereas now you do imagine it, but then it was all natural. >> So true. You got to learn real English. That's why you have to hit the like button right below this video. And you have to subscribe to this channel so you would not miss out on useful content like this. >> Huge risk. >> Of course it was a risk, Ronnie, but if you don't take any risks, you miss out on so many good things in life. … you pretty much you can read the >> Fal bakmak, we call it in Turkish. >> Yeah. >> Uh I was just about to mention that now we leave the grinds at the bottom after we drink it. You swirl it and you turn it upside down. >> Craig, you were supposed to turn the cup upside down before you give it back to me. >> If you wanted to be more accurate, you can leave something. >> If you wanted to be more accurate, tell me. Keep going. >> leave something that belongs to you on top of the the mug while it starts cooling down. It could be an earring, a necklace, a bracelet, something that belongs to you … world would look at you from the other side of this sea or from this camera right here, >> Mhm. >> what would you share with them? >> I think maybe it's a little random, but I think that taking other people's perspective into account is very important when making decisions, evaluating somebody, or maybe even making your own decisions and seeing the world >> blood on top of her blood. >> Yes, which is my cue to admit that I got it wrong because I didn't take into account postmortem bleeding or doing an internship at NASA. >> Because the world in your eyes is just what you have seen, your … we met on Hinge, but you know, we have such parallel lives. >> Just saying, I was kind of joking about the separate island thing, but doesn't that seem like we've been kind of leading parallel lives recently without a ton of intersection? >> Yeah, it does. >> She's lived there for 12 years. I've lived in South Africa for 12 years. >> Yeah. >> Uh we both met here in Istanbul, which is also kind of strange. >> Yeah. >> Very similar experiences. >> Stan was describing very similar experiences. >> Yeah. >> experiences. >> For example, I've had a very odd, funny story of a layover that I've … that was the case, I never would have taken the boy in the first place. >> Maybe the superstitions are real. >> Well, and now I'm going to ask you the last question for today. If the whole world could see you right now through this camera right here, what would you share with them? >> >> I would say patience are virtue. Being patient is one of the greatest things in life, you know? >> Yeah. >> Uh I guess. >> Absolutely. Thank you for your wisdom. And hopefully I'll see you someday in Ethiopia. >> Yeah. >> >> I'm just kidding. >> When you measure your life in centuries, patience is a virtue.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.041
+  "src": "auto"
  },
  "8z3vuIeHPqk": {
   "channel": "Vlasta English with Evelyn",
