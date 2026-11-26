@@ -102351,23 +102351,24 @@
  "uMzriID81qA": {
   "channel": "Bluey - Official Channel",
   "lang": "en",
-  "checked": "2026-11-09T03:56:12+00:00",
+  "checked": "2026-11-26T20:56:59+00:00",
   "title": "Let's Play…Relax ☺️ 🫧 | Bluey and Bingo Playtime | Bluey",
   "duration": 146,
   "published": "20261005",
   "spoken": "en",
   "spoken_v": 2,
-  "pace": 118.1,
+  "pace": 118.0,
   "rare": 0.0112,
-  "var": 0.7045,
-  "speech_s": 136.6,
+  "var": 0.7105,
+  "cl": 0.0037,
+  "speech_s": 136.7,
   "tokens": 269,
   "kw": [
    [
     "beach",
     "We're going to the beach. We're going to",
     2,
-    6,
+    7,
     4.92,
     7
    ],
@@ -102380,16 +102381,16 @@
     5
    ],
    [
-    "read",
-    ">> Let's read a book called Mom.",
-    23,
-    28,
-    5.54,
+    "can't",
+    ">> We can't relax. We have to go to the",
+    47,
+    54,
+    5.8,
     3
    ],
    [
     "book",
-    ">> Let's read a book called Mom.",
+    ">> Let's do a book called Mom.",
     23,
     28,
     5.43,
@@ -102429,7 +102430,7 @@
    ],
    [
     "spa",
-    ">> Oh, wow. There's a big spa. Can we have",
+    ">> Oh wow, there's a big spa. Can we have a",
     59,
     65,
     3.96,
@@ -102437,23 +102438,105 @@
    ],
    [
     "bunk",
-    ">> BUNK BEDS. WE CAN TAKE TURNS on the top bunk.",
+    ">> BUNK BEDS. >> We can take turns on the top bunk.",
     35,
     44,
     3.45,
     2
    ]
   ],
-  "tx": "We're going to the beach. We're going to the beach. >> Okay, kids. Let the holiday begin. >> Yay, holiday. I want to go to the beach. I want to find some shells. >> Let's get everything upstairs, kids. Let's play relax. Come on, Lift. We don't have all day. >> Let's read a book called Mom. >> It's called How to Be Happy. >> That's easy. Just do this. >> >> Now they're inside the house. >> Quick, let's go. >> BUNK BEDS. WE CAN TAKE TURNS on the top bunk. >> Come on, girls. Let's go to the beach. You have your sunscreen on yet? >> No. >> We have to relax. We have to go to the beach. Go put it on in the bathroom now. >> Look, look. The toilet won a prize. >> Congratulations, toilet. >> Oh, wow. There's a big spa. Can we have a bubble bath? >> Please. >> You can't have a spa, kids. We're going down to the beach. Uh, let them have a spa. They're on holidays. You go down to the beach and we'll meet you there. >> Okay. >> >> Ah, finally I can relax. I should read my book. No, I should look at the view. No, no. Read my book. Or maybe I should just I don't know how to relax. >> What's everything useful? >> To make bubbles. >> Bubbles. Bubbles. Yay. >> Bubbles, bubbles, bubbles, bubbles. >> >> I don't know how to relax. >> Olivia, don't you just love this spa day? >> Oh, yes. We certainly deserve it. Why are you here? >> I just can't relax. >> Aw, have a hug. If you want to relax, go to the Masters. Check them out. Three, two, one. They know how to relax. >>",
+  "kx": [
+   [
+    "we're",
+    "We're going to the beach. We're going to",
+    2,
+    7,
+    5.4,
+    3
+   ],
+   [
+    "kids",
+    ">> Okay, kids. Let the holiday begin.",
+    6,
+    13,
+    5.28,
+    3
+   ],
+   [
+    "turns",
+    ">> We can take turns on the top bunk.",
+    38,
+    44,
+    4.76,
+    1
+   ],
+   [
+    "deserve",
+    ">> Oh yes, we certainly deserve it.",
+    115,
+    121,
+    4.59,
+    1
+   ],
+   [
+    "prize",
+    ">> Look, look. The toilet won a prize.",
+    53,
+    58,
+    4.59,
+    1
+   ],
+   [
+    "beds",
+    ">> BUNK BEDS. >> We can take turns on the top bunk.",
+    35,
+    44,
+    4.17,
+    1
+   ],
+   [
+    "bubble",
+    "bubble bath? >> Please.",
+    62,
+    69,
+    4.16,
+    1
+   ],
+   [
+    "hug",
+    ">> Aw, have a hug. >> If you want to relax, go to the Masters.",
+    122,
+    133,
+    4.09,
+    1
+   ],
+   [
+    "shells",
+    "I want to find some shells.",
+    12,
+    18,
+    3.93,
+    1
+   ],
+   [
+    "sunscreen",
+    "You have your sunscreen on yet?",
+    43,
+    48,
+    3.29,
+    1
+   ]
+  ],
+  "voc": 0.06324110671936758,
+  "tx": "We're going to the beach. We're going to the beach. >> Okay, kids. Let the holiday begin. >> Yay, holiday. I want to go to the beach. I want to find some shells. >> Let's get everything upstairs, kids. Let's play relax. Come on, Lift. We don't have all day. >> Let's do a book called Mom. >> It's called How to be Happy. >> That's easy. Just do this. Now they're inside the house. >> Quick, let's go. >> BUNK BEDS. >> We can take turns on the top bunk. >> Come on, girls. Let's go to the beach. You have your sunscreen on yet? >> No. >> We can't relax. We have to go to the beach. Go put it on in the bathroom now. >> Look, look. The toilet won a prize. >> Congratulations, toilet. >> Oh wow, there's a big spa. Can we have a bubble bath? >> Please. >> You can't have a spa, kids. We're going down to the beach. Uh let them have a spa. They're on holidays. You go down to the beach and we'll meet you there. >> Okay. >> >> Ah, finally I can relax. I should read my book. No, I should look at the view. No, no. Read my book. Or maybe I should just I don't know how to relax. >> What's everything holes for? >> To make bubbles. >> Bubbles. Bubbles. Yay. >> Bubbles, bubbles, bubbles, bubbles. I don't know how to relax. >> Olivia, don't you just love this spa day? >> Oh yes, we certainly deserve it. >> Why are you here? >> I just can't relax. >> Aw, have a hug. >> If you want to relax, go to the Masters. >> Check them out. Three, two, one. They know how to relax. >>",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0037,
-  "voc": 0.06274509803921569
+  "src": "auto"
  },
  "0WBlqvBQeOk": {
   "channel": "Sesame Street",
   "lang": "en",
-  "checked": "2026-11-09T03:57:12+00:00",
+  "checked": "2026-11-26T20:57:10+00:00",
   "title": "School Talent Show with Elmo, Abby, and Cookie Monster! ⭐ | Sesame Street",
   "duration": 319,
   "published": "20260913",
@@ -102462,6 +102545,7 @@
   "pace": 60.8,
   "rare": 0.2409,
   "var": 0.5103,
+  "cl": 0.0045,
   "speech_s": 217.0,
   "tokens": 220,
   "kw": [
@@ -102610,11 +102694,109 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "playing",
+    "(xylophone playing) (tambourine playing)",
+    174,
+    182,
+    5.37,
+    2
+   ],
+   [
+    "low",
+    "(low buzzing) (upbeat music)",
+    131,
+    136,
+    5.33,
+    2
+   ],
+   [
+    "exciting",
+    "(exciting music) (audience cheering)",
+    3,
+    12,
+    4.54,
+    1
+   ],
+   [
+    "rapid",
+    "(rapid music) (low buzzing)",
+    124,
+    134,
+    4.38,
+    1
+   ],
+   [
+    "piano",
+    "(off-key piano music) - Huh?",
+    24,
+    29,
+    4.31,
+    1
+   ],
+   [
+    "ringing",
+    "(bell ringing) (Elmo coloring)",
+    157,
+    162,
+    3.68,
+    2
+   ],
+   [
+    "buzzing",
+    "(low buzzing) (upbeat music)",
+    131,
+    136,
+    3.65,
+    2
+   ],
+   [
+    "coloring",
+    "(Elmo coloring) (harp music)",
+    159,
+    165,
+    3.59,
+    1
+   ],
+   [
+    "ahhh",
+    "Ahhh. (upbeat music)",
+    219,
+    223,
+    3.47,
+    1
+   ],
+   [
+    "hoop",
+    "(hula hoop whipping) (upbeat music)",
+    201,
+    210,
+    3.41,
+    1
+   ],
+   [
+    "trombone",
+    "(trombone music) (triumphant music)",
+    250,
+    255,
+    2.97,
+    1
+   ],
+   [
+    "applauding",
+    "(audience applauding) (jaunty music)",
+    254,
+    259,
+    2.91,
+    1
+   ]
+  ],
+  "voc": 0.49206349206349204,
   "tx": "(upbeat music) (exciting music) (audience cheering) (upbeat music) (audience laughing) (upbeat music) (off-key piano music) - Huh? (upbeat music) (audience cheering) (upbeat music) (audience cheering) (upbeat music) (audience gasping) (upbeat music) Ohhh. (upbeat music) Wow! (upbeat music) Wow. (Cookie Monster chewing) (audience laughing) (audience cheering) (upbeat music) (footsteps thumping) (upbeat music) (lion roaring) (upbeat tribal-like music) (monkey hooting) (elephant trumpeting) (upbeat music) (footsteps thudding) (saxophone music) (dinosaur roaring) (Cookie Monster chattering) (rapid music) (low buzzing) (upbeat music) (bee buzzing) (Cookie Monster chewing) (upbeat music) (Cookie Monster chewing) (upbeat music) (jaunty music) (bell ringing) (Elmo coloring) (harp music) (jaunty music) (Cookie Monster eating paper) (xylophone playing) (tambourine playing) (triangle chiming) (Cookie Monster chewing) - Shh. (low bass music) (upbeat music) (comical bonging) (children chattering) (upbeat music) (hula hoop whipping) (upbeat music) (Cookie Monster chewing) (ball whizzing through air) (audience cheering) (ball whizzing though air) (ball bouncing off basket) (audience cheering) - Elmo, Elmo, Elmo, Elmo, Elmo! Ahhh. (upbeat music) (ball whizzing through air) (audience cheering) Elmo, Elmo, Elmo, Elmo! (upbeat music) (bell ringing) (jaunty music) (camera clicking) (jaunty music) (whimsical chiming) (jaunty music) (trombone music) (triumphant music) (audience applauding) (jaunty music) (camera clicking) (jaunty music) (camera clicking) (jaunty music) (angelic music) (audience gasping) (jaunty music) (camera clicking) (jaunty music) (Cookie Monster chewing) (jaunty music) (camera clicking) (downtrodden music) (jaunty music) (camera clicking)",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0045,
-  "voc": 0.49206349206349204
+  "src": "cc"
  },
  "00iWUnhjm8o": {
   "channel": "Peppa Pig - Official Channel",
@@ -118525,7 +118707,7 @@
  "t7Oq2925CSM": {
   "channel": "Sesame Street",
   "lang": "en",
-  "checked": "2026-11-12T02:54:25+00:00",
+  "checked": "2026-11-26T21:09:21+00:00",
   "title": "The Monster at the End of This Story with Grover and Elmo! | Sesame Street",
   "duration": 1804,
   "published": "20260907",
@@ -118534,6 +118716,7 @@
   "pace": 143.7,
   "rare": 0.061,
   "var": 0.7251,
+  "cl": 0.0371,
   "speech_s": 1575.4,
   "tokens": 3772,
   "kw": [
@@ -118698,12 +118881,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "yes",
+    "Oh, yes! I cannot wait to find out what happens to me",
+    48,
+    53,
+    5.5,
+    17
+   ],
+   [
+    "stop",
+    "♪ If I hide behind this stop sign, you cannot see me ♪",
+    181,
+    185,
+    5.52,
+    15
+   ],
+   [
+    "friendly",
+    "and furry and friendly monsters. It is the other monsters that worry me.",
+    763,
+    770,
+    4.64,
+    9
+   ],
+   [
+    "bright",
+    "(bright music) (Grover hums)",
+    0,
+    6,
+    4.61,
+    9
+   ],
+   [
+    "gentle",
+    "(gentle music) Thank you, hand.",
+    408,
+    414,
+    4.17,
+    4
+   ],
+   [
+    "bricks",
+    "(bricks clatter) I shall stop you from watching once and for all",
+    377,
+    382,
+    3.81,
+    3
+   ],
+   [
+    "furry",
+    "\"Starring lovable, furry, old Grover.\" Me? Oh, how exciting!",
+    36,
+    44,
+    3.56,
+    3
+   ],
+   [
+    "chuckles",
+    "to block your view. (Grover chuckles)",
+    324,
+    327,
+    3.09,
+    3
+   ],
+   [
+    "inhales",
+    "(Rosita inhales) (Rosita exhales) ♪ It calmed me down ♪",
+    950,
+    959,
+    2.54,
+    3
+   ],
+   [
+    "grunts",
+    "(Grover grunts) No, no, no, no, no! (boards clatter)",
+    347,
+    352,
+    2.92,
+    2
+   ]
+  ],
+  "voc": 0.037006121313299944,
   "tx": "(bright music) (Grover hums) - Oh. Hello, everybody. (Grover gasps) What is this? Oh! A big hand? Hello, hand! Excuse me, hand, but what is this you are writing? \"The Monster at the End of this Story\". A story? Oh, I love stories! I wonder who is in this story. \"Starring lovable, furry, old Grover.\" Me? Oh, how exciting! I have always wanted to be the star of my very own story. Oh, yes! I cannot wait to find out what happens to me in \"The Monster at the End of the Story\". (Grover gasps) Wait a minute. Did that say there will be a monster at the end of this story? (Grover gasps) It did? Oh, … end ♪ ♪ Can you please stop watching ♪ ♪ So we do not get to the end? ♪ ♪ I'm not going to stay ♪ ♪ No how, no way ♪ ♪ 'Cause there's a monster at the end ♪ (inquisitive music) - You are still watching! Perhaps you do not understand. If you keep watching, we will eventually get to the end of the story and there is a monster at the end of this story! (Grover gasps) A-ha! I have an idea. Be right back. This will stop you from watching. I am going to tie up the screen so the story cannot go any further. Then, we will never even get to the end. It is a good thing I am such an expert knot-maker. … Okay, I give up. Why a door? (inquisitive music) (marker squeaks) Okay, I still do not get it. (loud knocking) (Grover shouts) Did you hear that? Oh! What if it is the monster? I do not want to see the monster! - Grover? - Elmo? - Grover! Hello! - Oh, Elmo! I am so happy that you are here in this story with me. - Wait a minute. This is a story? - Yes, Elmo, we are in a story right now and you will not believe what is about to- - Boy! Elmo loves stories! Oh. What kind of a story is it, Grover? No, let Elmo guess. Is it a pirate story? - What is... What in the world? Whoa! - Yar! Shiver … Lots of people do. - Ah, but have you ever felt like this? ♪ When I feel afraid, my legs begin to shake ♪ ♪ I get all wibbly-wobbly ♪ ♪ Oh, I quiver and I quake ♪ ♪ Yes! We just want to scream ♪ ♪ The loudest scream that can be made ♪ ♪ A-A-A-A-Ah! ♪ ♪ That is how it feels when we feel afraid ♪ - Oh, yeah. Elmo's felt all of those ways, Grover. - Really? - Yeah. And here's another way Elmo feels when he's afraid. ♪ Here in Elmo's chest, his heart goes boom-di-boom-di-boom ♪ ♪ Yes! ♪ ♪ You want to run and hide under the covers in your room ♪ ♪ We just want to scream the loudest scream that … (uptempo music) - Elmo? Elmo, no, no, no, no, wait! Do not leave me here all alone with the monster at the end. Wait for me! - Grover? (Elmo laughs) Where'd he go? - Elmo, that you? - Elmo? - Cookie! - Hey, Elmo! - Elmo! - That sound like Grover. - This way! - Elmo? - Oh! Hi, Rosita! - Hola! - Hello, Rosita. We looking for Grover. - Elmo! Elmo! - Grover! - Grover? - Hi, everyone! - Hiya, Abby. - Elmo? - Grover! - Grover! - Elmo! - Grover! - Grover! - Elmo! Here you are. - See, Grover? It's Rosita, Cookie Monster, and Abby! - We heard you were looking for some friendly monsters. - Yeah, so … ♪ ♪ It's okay, Cookie Monster, you can do this ♪ ♪ Me talked to me-self ♪ ♪ Me can do this, yes, me can ♪ ♪ Me talked to me-self ♪ ♪ And then me knew that me could have courage ♪ ♪ Me had courage, me gave it a go ♪ ♪ Me had courage and now me know ♪ ♪ That me like new foods, me felt so sure ♪ ♪ That me wanted to eat them more and more ♪ - So you both did things even though you were afraid? ♪ So try not to worry if you feel afraid ♪ ♪ It's always helpful to know ♪ ♪ If you have courage and you try anyway ♪ ♪ You'll find that you can give it a go ♪ ♪ We had courage, it made us proud ♪ ♪ If … - All right, all right. Enough of all this yucky friendliness. I haven't got all day, you know. (Rosita speaks foreign language) - Meet you at the end! - We'll see you at the end of the story! - Bye bye! (inquisitive music) Thank you, hand. They are so kind. But I really do not want to meet them at the end of the story. - Because that's where the monster is? - Yes! And we keep getting closer and closer to the end of the story with every word we say! (Grover gasps) Those words just got us closer! And those words! I have to stop saying words! - That still won't stop the story. - Well, then … what to do. - Well, if it is something you really want, then why let fear stop you? - My mommy is so wise. I suppose that is where I get it from. - Grover, look! Little Grover is afraid but he's getting on the bike anyway! - I can do this. I can do this. I can do this. I am doing this! (bright music) Look! - Hooray! You did it! Oh, Grovey, you had so much courage. - I did have courage, didn't I? And I look so proud of myself. We have to go back even more. - More? Grover, are you sure? - Yes. There is something I want to see. Rewind! And play. (Grover snores) Aww, look at me. - Whoa! … - This is the end of the story, Grover. - What? Oh, no. No, no, no, no, no! We went forward too far! This is your last chance to stop watching. Please! Please, please, please! - It's okay, Grover. All stories have to end sometime, you know. - Yep, and this is it. The dramatic conclusion. - Oh, Grover, it's so exciting. - Are we already on the way to the end of the story? I think that is a yes. - Don't worry, Grover. You've got us. - We'll be with you right 'til the very end. - Yeah, we got your back. - I know. Thank you, my friends. - Elmo knows Grover's still afraid so remember, slow, … knew it would be a friendly monster! - And you all were right. I did have courage. I do have courage! And I am so glad. (Grover laughs) - Hey, wait. The monster at the end is me. - It's me! I'm the monster at the end. (Rosita laughs) - No! The monster is Elmo! Elmo's lookin' good. (Grover laughs) Well, it seems we are all the monster at the end of the story. - Still not a monster, but I'm here at the end too. (group laughs) - And you were so scared. I told you and told you there was nothing to be afraid of. (Grover chuckles) Oh, I am so embarrassed. (bright upbeat music) (bright gentle music)",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.04,
-  "voc": 0.03671497584541063
+  "src": "cc"
  },
  "GjFs4BlzK5s": {
   "channel": "Learn English with Bob the Canadian",
@@ -129630,7 +129894,7 @@
  "X_u-eRIUXAU": {
   "channel": "Dreaming English",
   "lang": "en",
-  "checked": "2026-11-12T05:16:41+00:00",
+  "checked": "2026-11-26T20:56:05+00:00",
   "title": "Forrest Gump - Movie 🍿 review - American Culture and History @LaurelsLearningLab",
   "duration": 1903,
   "published": "20221022",
@@ -129639,6 +129903,7 @@
   "pace": 192.4,
   "rare": 0.0179,
   "var": 0.7424,
+  "cl": 0.0546,
   "speech_s": 1860.8,
   "tokens": 5967,
   "kw": [
@@ -129803,12 +130068,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "says",
+    "well it says here that he serves in the",
+    101,
+    108,
+    5.49,
+    18
+   ],
+   [
+    "movie",
+    "about the movie Forrest Gump yay",
+    31,
+    39,
+    5.16,
+    18
+   ],
+   [
+    "marry",
+    "you I want will you marry me but she was",
+    505,
+    511,
+    4.4,
+    5
+   ],
+   [
+    "tells",
+    "who's crippled and he tells him about",
+    917,
+    923,
+    4.78,
+    4
+   ],
+   [
+    "fried",
+    "creole shrimp gumbo pan fried deep fried",
+    676,
+    683,
+    4.06,
+    3
+   ],
+   [
+    "cried",
+    "know that I cried during that and I was",
+    1733,
+    1737,
+    4.19,
+    2
+   ],
+   [
+    "pineapple",
+    "stir-fried there's pineapple shrimp lemon shrimp coconut shrimp pepper",
+    680,
+    687,
+    3.58,
+    1
+   ],
+   [
+    "brightest",
+    "he's he's not he's not the brightest",
+    236,
+    242,
+    3.55,
+    1
+   ],
+   [
+    "name's",
+    "name's Forest Forrest Gump and she's",
+    1669,
+    1674,
+    2.98,
+    1
+   ],
+   [
+    "chimp",
+    "his idea to be a chimp and goat Captain",
+    920,
+    926,
+    2.95,
+    1
+   ]
+  ],
+  "voc": 0.030203089741364347,
   "tx": "and so they become like best friends peas and carrots Forrest Gump from that day on we was always together Jenny and me was like peas and carrots yeah I love that quote my mom always said life was like a box of chocolates you never know what you're going to get all right well thank you Laurel for joining So today we're going to talk about the movie Forrest Gump yay yeah we've been talking about that for a while I think in the summertime we decided and here we're in October takes a while for us to get to anything these days it is worth waiting for and the movie that I I first saw in 1994 when … so yeah I mean it's amazing like he you know we we meet him and we we learn that he's I guess the definition of how to describe him that he's like a little bit slow-witted he has a IQ of 75 you need 80 to go to public school so he's he's not he's not the brightest Ball but he's just this and he he goes through life and all these things are happening around him all this racism he's witnessing integration of the University of Alabama and Wallace standing at the door he's there they actually superimpose him and he's basically doesn't understand what's the problem in fact he picks up the … can't sit here because why because he had braces on his legs yeah so he was physically impaired as well as mentally impaired you know with his IQ because he's going into public school because his mom demands that he get to be with the other kids and he doesn't want him labeled as special or anything like that so that's why he grows up with all the rest of the kids but he does have a little bit of an issue with being popular and so on which I in my opinion makes you more compassionate mm-hmm and so he never had he always accepted everybody because he was glad to be accepted himself and he … friend so first you hit Baba and Baba of course accepted him because you know Bubba had some problem with his teeth is like this all the time when he talked I don't know how he did that the whole time it's crazy but he was just accepting a Bubba and Bubba was accepting of him and so they just did everything together and understood each other and of course he listened to him and that was another time too when he first got on the bus no one would let him have a seat at first it seemed like I made a mistake seeing how it was only my induction day and I was already getting yelled at sit … about this for years yeah but he you know he wasn't able to save Baba they had their you know he picked him up and and pulled him out of that Ambush but he wasn't able to save Bubba but he wanted to keep that promise to start that that um shrimping business right so he went back to Bubba's Hometown and talked to his parent his mom who had a bunch of kids are you crazy are just playing stupid as stupid does Miss blue you know and then he started it from there right yeah he he ended up actually getting the money because oh he he became a ping-pong Champion right that's right that's right … is this forced after that shrimping was easy yeah because if you're the only one you do great and then later on there's a quote here that says Lieutenant Dan got me invested in some kind of fruit company Apple computer so then I got a call from him saying we don't have to worry about money no more and I said that's good one last thing and so like one thing we didn't mention that all this time he's sitting on a bench and he's telling his life story to various people in Savannah Georgia he's sitting on this bench buses are stopping and and going and so at this point there's a man that says … turn around just keep on going when I got to another ocean I figured since I'd gone this far I might as well just turn back keep right on going like things are no big deal for him yeah it's just crazy how how nonchalant he is and that's a good word for not caring about what people think not caring about how you know if you're tired or hungry he's not he grows a beard he has the same clothes on I don't know how he has like money because I don't think he'd bring anything with him and where did he said when he was tired he slept when he was hungry eight so he must have had a credit card with … he said father daddy his daddy's name Forrest too he's like you're his daddy then he like steps back and like she thinks like oh my he's like really like like upset like I'm trying to trap him but actually he's just really worried that maybe the boy is not smart and so he says with tears in his eyes he's like is he smart not like me right and then she's like yes he's smart he's the smartest in his class and he's such a cute little boy and he's got this little bowl haircut and he sits in front of the TV all or sits next to him and they both kind of sit together like this do we have the … on the bus and he's like the woman's like you know it's the best of school I can't um get on if I don't like you know my mother told me not to I can't talk to strangers right yeah so she's like you know this is a bus to school and he's like well my name's Forest Forrest Gump and she's like my name is her name is Dolores something yeah Dolores and so yeah Dolores or you know anyway she says her name and that point she spoke a cigarette and cheese and and when little Forest gets on the bus stand was bus to the school now don't you of course the new one Dorothy here is nine four stump yeah so … one do you want anything about the future we could yeah I mean yeah we could do that I think that's a great one to do okay then then that's it because that that one you know again that might be like you know another kind of like American culture like you have you have um what was he who's living in the 80s and then he goes back to the 60s and there's the whole or the 50s actually because I think they had like the poodle story parents were young when his parents were young all right well thank you Rochelle Lewis was a lot of fun all right thank you all right see you next time see you next time",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0591,
-  "voc": 0.030120481927710843
+  "src": "auto"
  },
  "Ox4PRWCCT6E": {
   "channel": "Dreaming English",
@@ -129824,7 +130170,7 @@
  "Ia8jk7HqtiY": {
   "channel": "English From the Ground Up",
   "lang": "en",
-  "checked": "2026-11-12T05:17:02+00:00",
+  "checked": "2026-11-26T20:56:18+00:00",
   "title": "Learn English with Minecraft Hardcore #13 - XP Farm",
   "duration": 1151,
   "published": "20260411",
@@ -129833,6 +130179,7 @@
   "pace": 110.4,
   "rare": 0.0408,
   "var": 0.6984,
+  "cl": 0.0143,
   "speech_s": 1105.5,
   "tokens": 2035,
   "kw": [
@@ -129997,12 +130344,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "build",
+    "build more bookshelves",
+    24,
+    31,
+    5.04,
+    12
+   ],
+   [
+    "start",
+    "second thing that I want to do is start",
+    43,
+    50,
+    5.56,
+    8
+   ],
+   [
+    "fill",
+    "Let's fill these buckets with water.",
+    374,
+    380,
+    4.64,
+    4
+   ],
+   [
+    "mining",
+    "Let's keep mining this direction. Let's",
+    303,
+    308,
+    4.56,
+    4
+   ],
+   [
+    "wheat",
+    "wheat. We'll breed more cows.",
+    186,
+    193,
+    4.01,
+    5
+   ],
+   [
+    "stairs",
+    "need some stairs. Let's craft some",
+    634,
+    639,
+    4.14,
+    4
+   ],
+   [
+    "stacks",
+    "I need two full stacks of trapdoors. So,",
+    398,
+    406,
+    3.49,
+    3
+   ],
+   [
+    "slabs",
+    "I need some slabs, but I don't have any.",
+    602,
+    609,
+    3.2,
+    3
+   ],
+   [
+    "cobble",
+    "much cobble deepslate have I found.",
+    844,
+    852,
+    2.72,
+    2
+   ],
+   [
+    "pickaxe",
+    "wait until I have a fortune pickaxe.",
+    885,
+    892,
+    2.35,
+    2
+   ]
+  ],
+  "voc": 0.08308308308308308,
   "tx": "Hello. My name is Kenzo and in this video, you will acquire English naturally by watching, listening, and following along as I play Minecraft hardcore. So far in this series, we've survived 76 days and there are two things that I want to do in this video. The first thing that I want to do is build more bookshelves for the enchanting table so we can get stronger enchantments. Right now, the most we can do is level 18. We want to get this up to 30. So we need more bookshelves and the second thing that I want to do is start building an XP farm. I want to start enchanting some really powerful … just a head. My body is invisible. What? What's happening with my spear? Um I'm going to exit and for me to drink some lemonade. Did it fix it? Yes. Okay. Okay, it's normal again. Let's go over to the wall and here I'll place some scaffolding like this. Now, we can go up the scaffolding and I'll place another sign. Okay. There we go. Big thank you to these supporters of my channel. I'll destroy this scaffolding. And now we have two signs on our supporter wall. Two signs. Big thank you to my supporters. To build more bookshelves, we're going to need a lot of leather. So, let's breed some cows … into polished deepslate. Like this. There we go. Now I have a bunch of polished deep slate. What else do I need? Let's see. I need four signs. I have six signs. I need Ooh. I need four hoppers. I don't think I have enough iron. I only have five iron. How do you make a hopper? Let's see. h o p p e r a hopper So, to make a hopper, you need five iron and one chest. Right now, I can only make one hopper. I only have five iron. Let's go underground and let's search for more iron. Let's go down to level 16. Here we are, level 16. This is the tunnel that leads to the lush cave. I'm going to mine … practice speaking English with me directly, you could book a call with me on Google Meet or Tencent Meetings by clicking up here. Let's keep going up. It's night time up there. Let's go to sleep. Sleep. Okay. And now let's put our iron in the furnace. Okay. What else will I need to build the XP farm? Let's see. I need some buckets of water. I think I have a bucket up here. Here's one bucket. Do I have another? Yes. I have two buckets. Let's fill these buckets with water. Water. Okay. Oh, no. Jeb was trying to escape. He was trying to go out the door. Ooh, I'll need a bunch of trapdoors. … Oh, wait. First, let's breed more cows. More cows. I'll get my wheat. Let's breed more cows. We're going to need a lot of cows. I'll turn these logs into planks. And now, let's make more trapdoors. There we go. There's the trapdoors. >> >> What else do we need? Let's see. We need two chests. One, two. Okay, and now we need to make the hoppers. Let's take our iron. Oh, I need more chests. Now, we can craft four hoppers. H O P P E R. Let's make four hoppers. And I think we have everything that we'll need to build the XP farm. Let's go start working on the XP farm. I'm going to build it in the … a platform. And I'll fill it in like this. Now, I'll get my chests. And I'll place them right here. And now, I need to take the hoppers. And I'll place the hoppers to be connected to the chest like this. There we go. Now, if I throw something into these hoppers like this, they'll go into the chest. See? There's my wheat. I need some slabs, but I don't have any. I'll make a crafting table and I'll place it here in the corner. Now, I'll make some slabs. There we go. I made some deepslate slabs. And now, I'll place these on top of the hoppers. And now, I'll get more polished deepslate and … right here. Okay. Now, I need to go up four more blocks. 1 2 3 4 Okay. Now, I need to build seven blocks in this direction. 1 2 And I have to make this two blocks wide. So, I'll place blocks here. I have to crouch so I don't fall off. And I have to do this three more times. One on this side, one on this side, and one on this side. There we go. I did it. Let's look at the next step. Now, I'm going to build a wall around this that's two blocks high. 1 2 Oh, I ran out of polished deepslate. I need to go back underground to collect more deepslate. I'm going to get my bucket of water. And now, … All right, let's keep mining this way. Oh, some iron. I'll place another torch. Let's continue mining. Let's see how much cobble deepslate have I found. One, two, three full stacks and one stack that's almost full. Oh, I can't pick this up. I'll throw away some andesite. Okay, I can't pick up any more cobble deepslate. Let's go back up to the surface. I think I have enough deepslate. Let's run down the long tunnel. Woah. Some diamonds. I missed these diamonds. Two diamonds. I'm not going to mine these diamonds right now. I'm going to wait until I have a fortune pickaxe. With a fortune … working on the XP farm. There's my carrot farm. It doesn't look like my carrots have grown much. Here's the waterfall. I'll get out of the boat and let's swim upward. >> >> I'm swimming up the waterfall. Almost to the top. All right, let's continue building this wall. I'll get my deepslate. And there we go. I finished the wall. Now, I need more water buckets. Let's go like this. Okay. Now, I'm going to jump down. Jump. I'm diving. I dove into the water. Let's get out of the water here. And right here, I'm going to pour out my lava. And now, I'll get two buckets of water. One, two. … Now, I need to fill in this area like this. Now, I need to do this on the three other sides. I'm going to place some torches so monsters don't spawn. There we go. That's two sides complete. We're halfway. Okay. Just one side left. All right. I did it. And I think I'm going to end this video right here and I'll finish building this XP farm in my next live stream. If these videos are being helpful to you, the best way to support this channel is by making a donation or buying some of my art on my Kofi page by clicking up here. Like and subscribe and I will see you in the next video. See you. >>",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0129,
-  "voc": 0.07801418439716312
+  "src": "auto"
  },
  "mIXu9K24g30": {
   "channel": "Sesame Street",
@@ -130118,7 +130546,7 @@
  "8XCI06nhQqE": {
   "channel": "Pokémon Kids TV",
   "lang": "en",
-  "checked": "2026-11-12T05:17:27+00:00",
+  "checked": "2026-11-26T20:57:18+00:00",
   "title": "Pikachu's Desert Run! | Pokémon Song | Original Kids Song | Pokémon Kids TV",
   "duration": 200,
   "published": "20260804",
@@ -130127,6 +130555,7 @@
   "pace": 120.0,
   "rare": 0.0792,
   "var": 0.6939,
+  "cl": 0.0205,
   "speech_s": 170.6,
   "tokens": 341,
   "kw": [
@@ -130259,12 +130688,69 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "wind",
+    "sand, and sandstorm. Fastest wind can",
+    46,
+    52,
+    4.84,
+    6
+   ],
+   [
+    "fun",
+    "fun fun. Ooh, a sandstorm. I can hardly",
+    27,
+    36,
+    5.3,
+    5
+   ],
+   [
+    "blow",
+    "blow. Pikachu and my prey to the end",
+    48,
+    54,
+    4.59,
+    2
+   ],
+   [
+    "partners",
+    "go, go, go. Partners in a stampede,",
+    41,
+    47,
+    4.56,
+    2
+   ],
+   [
+    "excitement",
+    "Full of excitement. It's so much",
+    25,
+    33,
+    4.19,
+    1
+   ],
+   [
+    "apples",
+    "apples and bananas. I like to",
+    186,
+    194,
+    3.96,
+    1
+   ],
+   [
+    "pikachu",
+    "blow. Pikachu and my prey to the end",
+    48,
+    54,
+    3.18,
+    1
+   ]
+  ],
+  "voc": 0.1317365269461078,
   "tx": "Pokemon Kids TV. Sun, sun, shining sun, sparkling sun on a sea of sand. I run. Wonder what great adventure has begun. Full of excitement. It's so much fun fun. Ooh, a sandstorm. I can hardly see. Who will come to help me? Who will it be? My prey. Sun, sand, and sandstorm. It's time to go, go, go. Partners in a stampede, stepping high and low. Sun, sand, and sandstorm. Fastest wind can blow. Pikachu and my prey to the end will go. Clippity clop and clippity clop. Got to keep stepping. Never can stop. One big adventure, two good friends. Sun, sand, and sandtorm. Faster than the wind. Run, run, run, run, run, run together to the end. Sun, sun, shining sun, sparkling sun. On a sea of sand, we run, run, run, run, run. Who will we meet? This adventure's just begun. My heart is racing. So much fun fun fun. Woo! Just sandstorm. We can hardly see. Who will come to help us? Who will it be? Mud tail. Sun, sand, and sandstorm. It's time to go, go, go. Partners in a stampede. Stepping high and low. Sun, sand, and sandstorm. Fastest wind can blow. With mud stales, powerful kick to the end will go. Clippity clop and clippity pop. Got to keep stepping. Never can stop. One big adventure, many friends. Sun, sand, and sandstorm. Faster than the wind. Run, run, run, run, run, run together to the end. Sun, sand, and sandtorm. Now we go, go, go. Everyone together, stepping high and low. Sun, sand, and sandtorm. Fastest wind can flow. With a lot of friends, right to the end we'll go clippity clop and clippity clop. Got to keep stepping. Never can stop. One big adventure, many friends. Sun, sand, and sandstorm. Faster than the wind. Run, run, run, run, run, run together to the end. with all our Pokemon friends. Pokemon friends will evolve with the power we share in our hearts. >> I like to eat eat apples and bananas. I like to",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0205,
-  "voc": 0.13056379821958458
+  "src": "auto"
  },
  "FjVxlQjkKOQ": {
   "channel": "Learn English with Bob the Canadian",
@@ -137637,7 +138123,7 @@
  "cXuqqNXDx0o": {
   "channel": "smile English stories",
   "lang": "en",
-  "checked": "2026-11-12T15:40:36+00:00",
+  "checked": "2026-11-26T20:56:00+00:00",
   "title": "Two funny SkIING stories about me in English (my real life experiences!)",
   "duration": 735,
   "published": "20210204",
@@ -137646,6 +138132,7 @@
   "pace": 100.1,
   "rare": 0.0215,
   "var": 0.686,
+  "cl": 0.0419,
   "speech_s": 586.5,
   "tokens": 978,
   "kw": [
@@ -137762,17 +138249,130 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "family",
+    "I went to France to stay with a French family,",
+    188,
+    194,
+    5.66,
+    5
+   ],
+   [
+    "went",
+    "The first time I went skiing, I was about 14.",
+    180,
+    187,
+    5.5,
+    5
+   ],
+   [
+    "impossible",
+    "...and the black slope... impossible! But my friends wanted me to go down, they wanted me to try the red slope!",
+    478,
+    494,
+    4.78,
+    2
+   ],
+   [
+    "snow",
+    "Mendy loves the snow. In Europe, in the winter (in January, February and in March),",
+    0,
+    10,
+    4.66,
+    2
+   ],
+   [
+    "bum",
+    "They take a bum lift, or a chair lift, or perhaps a gondola or a big cable car,",
+    35,
+    45,
+    3.75,
+    4
+   ],
+   [
+    "ambulance",
+    "so they called the ambulance, not the helicopter,",
+    580,
+    585,
+    4.06,
+    3
+   ],
+   [
+    "contexts",
+    "...welcome to smile English stories where you can listen to English in lots of different contexts.",
+    65,
+    73,
+    3.58,
+    1
+   ],
+   [
+    "stitches",
+    "and I had to have three stitches in my head!",
+    616,
+    625,
+    3.58,
+    1
+   ],
+   [
+    "plough",
+    "I'm very good at crossing my skis and doing a snow plough,",
+    144,
+    151,
+    3.09,
+    1
+   ],
+   [
+    "sledge",
+    "they called the red sledge ambulance!",
+    586,
+    590,
+    3.07,
+    1
+   ],
+   [
+    "gondola",
+    "They take a bum lift, or a chair lift, or perhaps a gondola or a big cable car,",
+    35,
+    45,
+    2.91,
+    1
+   ],
+   [
+    "beetroot",
+    "Your face is as red as a beetroot!\"",
+    343,
+    349,
+    2.76,
+    1
+   ],
+   [
+    "mulled",
+    "I'm going to go and drink a mulled wine,",
+    714,
+    719,
+    2.53,
+    1
+   ],
+   [
+    "headbands",
+    "They put their masks and their headbands on their heads.",
+    20,
+    26,
+    2.46,
+    1
+   ]
+  ],
+  "voc": 0.07886435331230283,
   "tx": "Mendy loves the snow. In Europe, in the winter (in January, February and in March), a lot of people go skiing. They put their ski jackets on. They put their gloves on. They put their masks and their headbands on their heads. They put their skis on their shoulders. They put their ski poles on their shoulders. They take a bum lift, or a chair lift, or perhaps a gondola or a big cable car, and they go off into the mountains! I'm ready and Mendy's ready. Are you ready? Okay, so let's go! Hello, I'm Rachel. If you're new to my channel... ...welcome to smile English stories where you can listen to English in lots of different contexts. If I speak too slowly, or too quickly, you can change the speed in YouTube. So I think you might have guessed, I think you might have realized that I'm not really going skiing. I'm not going skiing because in France, where I live... ...all the ski resorts are closed at the moment because of Covid. But you know I'm not going skiing because I'm not good at skiing... ...I'm even a little scared of skiing. Look! Look at my dusty boots! I haven't been skiing for a long time. I'm very good at crossing my skis and doing a snow plough, and I'm really... I'm really not good at parallel skiing. Skis are really heavy! So I thought you might like to hear some of my skiing stories. The first time I went skiing, I was about 14. I went to France to stay with a French family, and the French family lived in Toulouse in the south west of France, not far from the Pyrenees, so near the Pyrenees mountains. And one day they decided they should take me skiing, this poor English girl who had never skied! And so we went cross-country skiing in the countryside, not downhill skiing (not alpine skiing). So we put all the equipment in the car. We got out of the car. We put our hats on etc. etc. And then it was really strange, because I had never skied and I thought that skiing was down hill not up hill... ...and the family wanted me to ski up hill! So we skied we skied up through a forest and then we got to the top of a little hill. And on the top of the little hill, the family said, \"Okay, so now it's easy, no problème, you ski down!\" I was so scared... I didn't know what to do! So I didn't ski down, I walked down! The next day at breakfast, the family looked at my face and said, \"Oh no! Oh là là! Your face is as red as a beetroot!\" You know a lot of English people have very white skin, and they had forgotten to put sun cream on my face, so my face was really red! When I was at university, with some university friends we decided to go skiing for one week in the French Alps. And then I had real (I had proper) skiing lessons. And so it was a little bit better a little easier. But then when I started to work in France, one weekend I went skiing in the Alps again with some work colleagues. Now when you go skiing, there are different slopes, different colours of slopes. the green slopes are the easiest, the blue slopes are a little bit more difficult... ...so when I go down a blue slope, and it's not narrow, it's wide, I can go from side to side... not too difficult. But for me a red slope, a little more difficult, is too scary... ...and the black slope... impossible! But my friends wanted me to go down, they wanted me to try the red slope! But I was so tired. It was the end of the afternoon and I was so tired, but I went slowly down the red slope. But to get back to the ski station, we needed to go back up a bum lift and then ski down a blue slope to the ski station. But because I was so tired, I didn't see the poles, I didn't see the poles of the bum lift coming back round and a bum lift pole hit me on my head! I fell down and I saw stars! It was impossible for me to ski back down to the ski resort. Luckily somebody had a mobile phone, so they called the ambulance, not the helicopter, they called the red sledge ambulance! So I was happy. I didn't have to ski back down to the ski resort. I just had a ride in the ambulance! And then my friends drove me down to a nearby village, a little village not far from the resort, and I had to have three stitches in my head! So I think you can understand why I haven't been skiing for a long time! Do you like skiing? Do you have your own skiing equipment? Do you have long thin socks or do you have thicker socks in your ski boots? Do you find it difficult to put your ski boots on too? And difficult to walk in your ski boots? Skiing can be complicated! Anyway let me know in the comments if you like skiing... ...and if you do like skiing, I hope you will be able to go skiing again soon! So I hope you enjoyed my little ski stories. If you did, give me a thumbs up, and share them with a friend who likes listening to English. I'm going to go and drink a mulled wine, but I will be back next time... ...I hope with a little series about carnival, and maybe a little bit about Brazil. So I'll see you then. Take care!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0419,
-  "voc": 0.07886435331230283
+  "src": "cc"
  },
  "lP2Kd4BPz7Y": {
   "channel": "Dreaming English",
   "lang": "en",
-  "checked": "2026-11-12T15:40:44+00:00",
+  "checked": "2026-11-26T21:08:14+00:00",
   "title": "How to make an Upside Down Fire 🔥🙃 - Best way to use a Wood Stove",
   "duration": 1107,
   "published": "20221015",
@@ -137781,6 +138381,7 @@
   "pace": 175.3,
   "rare": 0.012,
   "var": 0.7118,
+  "cl": 0.0503,
   "speech_s": 1054.4,
   "tokens": 3081,
   "kw": [
@@ -137929,12 +138530,101 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "little",
+    "they're starting to burn a little bit",
+    13,
+    18,
+    5.75,
+    10
+   ],
+   [
+    "light",
+    "light this part when it gets to here",
+    332,
+    338,
+    5.33,
+    10
+   ],
+   [
+    "burning",
+    "burning and as you can see it's really",
+    0,
+    5,
+    4.5,
+    7
+   ],
+   [
+    "burns",
+    "this Burns a lot hotter so I will put",
+    334,
+    340,
+    4.24,
+    6
+   ],
+   [
+    "nicely",
+    "burn very nicely it hasn't yet burned it",
+    7,
+    14,
+    4.07,
+    4
+   ],
+   [
+    "stack",
+    "tall once you stack it all you get it a",
+    512,
+    517,
+    4.05,
+    4
+   ],
+   [
+    "blower",
+    "blower you'll you will be able to hear",
+    1039,
+    1044,
+    3.27,
+    2
+   ],
+   [
+    "quart",
+    "it's gonna be a quart of wood",
+    525,
+    530,
+    3.01,
+    2
+   ],
+   [
+    "voila",
+    "and light it light this paper and voila",
+    886,
+    893,
+    2.93,
+    1
+   ],
+   [
+    "creosote",
+    "creosote buildup in the chimney okay so basically the critical which is",
+    712,
+    720,
+    2.43,
+    1
+   ],
+   [
+    "doorstop",
+    "doorstop to make sure that it stays shut",
+    423,
+    430,
+    2.16,
+    1
+   ]
+  ],
+  "voc": 0.03579563944028637,
   "tx": "burning and as you can see it's really starting to go this upside down fire is starting to go and really starting to burn very nicely it hasn't yet burned it hasn't yet caught those bottom logs but they're starting to burn a little bit today I am going to show you how to make an upside down fire so this is my new wood stove and I want to give a shout out to on duty chimney sweeps who um I bought this from they installed it and I love it they came and showed me how to do this and they taught me how to make an upside down fire so right now there are coals from the last time I had a fire so I'm … your fire really burning for a while you're gonna add a whole bunch more logs I could get started and I could make my fire with these things these are Duraflame logs they're artificial logs I could use one of these to start it but these are kind of expensive so I really don't want to use these very often sometimes I use them if I'm in a rush if I don't have a lot of if I don't have a lot of time I might use this but if I have some time I'm going to make myself an upside down fire so how do I make an upside down fire so we're gonna start with the big pieces of wood first and I'm going to take … use an ax or a hatchet and I would make some kindling by taking those big pieces of wood and really going against the grain and chopping them up right so I'm going to take and put the pieces like so so that's my first layer and then I'm going to take these are some longer pieces they're going to go the long way of the fire and I'm going to lay them across and make the second layer I have watched a video on YouTube and they said four levels is ideal so let's see what we can fit in here all right there's my second layer and now I'm going to make a third layer put this piece on this piece on … it will start catching this first layer or the top layer and then that will catch the next layer and the next layer and eventually it will catch the bottom layer these big logs and so that's the whole idea is that you catch the top layer and it works its way down and that's the idea of the upside down fire I'm going to light the fire now you can use matches but I don't have any so I'm going to use this lighter and I am going to light the fire so I'm gonna light a couple places especially I guess I'm told after watching videos that lighting stuff in the back is better so I'm going to reach … 30 minutes so 30 minutes is until we're almost at 9 30 so I'll be leaving it there until 10 o'clock I'm also this is a draft this is all the way open over here now again I will leave this open just for one half hour until we get to 10 o'clock for to leave it all the way open to get a lot of air in so I'm letting air in here and letting in air in here but only one half hour because if I do that for too long this fire will get too hot and it could actually damage the fireplace so after that I'm gonna move it somewhere in the middle and once a good fire gets going and I have some coals I'll … wood which means that it wasn't just cut down and you're going to burn it because it would have too much moisture in it so I bought seasoned wood and I stacked it all and I have this little measurement thing that I can measure how much moisture is in my wood so it's got these little sharp things that I it has these little protective things so I don't poke myself and so I can measure the wood I'll turn it on and I'll press the button and once it comes on I will poke it into not this part but I'll poke it into the part where you can see the grain and nine percent moisture so it needs to be … buildup in the chimney okay so basically the critical which is like the the stuff that's going to come out of this stuff if the wood is not seasoned the wood will give off this criticol which would get all in the glass but it would also get into the chimney and could cause a chimney fire which is very dangerous and it also doesn't burn as efficiently so this particular stove I believe Burns at 73 efficiency apparently if it was at 76 I would have got a tax credit but oh well now when I'm going to when this burns down and there's coals I'm going to I'm going to then open it up and I'm … about 10 minutes have passed and the bottom logs are burning almost all the kindling is now like hot coals and the bottom logs are burning quite nicely so the upside down fire does work I am I actually watched eight I watched a video on YouTube and this does actually work for an outside fire too so this is something you can try I've always been told to start with a little bit of like a little bit of newspaper and then to put like small little kindling and sticks and speaker kindling on top and get that going first and then put on your bigger pieces of wood but this is turning that upside … about one hour-ish the fan will turn on so I'm going to close this up in 15 minutes when we get to 10 o'clock I'm also going to turn that draft to the middle I don't want to get it too hot in there so I'll turn it to the middle and really like lower the amount of air that's going in and I'll close the door at that point buyer so a half hour has gone by or 30 minutes and I am going to basically what I'm going to do is I'm going to open this up and add some more wood and then I'm going to close it completely I'll close the door completely I will close up the draft a bit more or bring it to the … to hear the blower kick on and it will go for a good eight to ten hours I started this fire at 9 30 one and a half hours ago and the fan has just come on I'm not sure if you can hear it but the fan has just come on it's getting very very warm here I would like to know what you use to heat your house do you use wood do you use oil do you use electricity let me know in the comments and if you like this video please hit the like please hit the bell and please tell other people about my channel because I want to help people around the world to learn English thanks so much for watching foreign",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0527,
-  "voc": 0.032467532467532464
+  "src": "auto"
  },
  "g-tMR8Ei7rM": {
   "channel": "Alex Bondoc",
@@ -138257,7 +138947,7 @@
  "sr5RXQlFrjo": {
   "channel": "Pokémon Kids TV",
   "lang": "en",
-  "checked": "2026-11-12T15:41:33+00:00",
+  "checked": "2026-11-26T21:09:28+00:00",
   "title": "She'll Be Coming 'Round the Mountain | Nursery Rhyme | Kids Song | Pokémon Kids TV​",
   "duration": 156,
   "published": "20260728",
@@ -138266,6 +138956,7 @@
   "pace": 101.9,
   "rare": 0.0958,
   "var": 0.3292,
+  "cl": 0.0359,
   "speech_s": 98.3,
   "tokens": 167,
   "kw": [
@@ -138334,12 +139025,61 @@
     16
    ]
   ],
+  "kx": [
+   [
+    "round",
+    ">> SHE'LL BE coming round the mountain when",
+    26,
+    31,
+    5.14,
+    5
+   ],
+   [
+    "eat",
+    "I like to eat eat eat apples and",
+    137,
+    146,
+    5.13,
+    3
+   ],
+   [
+    "hearts",
+    "hearts. I like to eat eat eat apples and",
+    135,
+    146,
+    4.44,
+    1
+   ],
+   [
+    "apples",
+    "I like to eat eat eat apples and",
+    137,
+    146,
+    3.96,
+    1
+   ],
+   [
+    "evolve",
+    "evolve with the power we share in our",
+    132,
+    138,
+    3.8,
+    1
+   ],
+   [
+    "bananas",
+    "bananas. I like to",
+    142,
+    150,
+    3.7,
+    1
+   ]
+  ],
+  "voc": 0.11585365853658537,
   "tx": "POKéMON KIDS TV >> >> SHE'LL BE coming round the mountain when she comes. She'll be coming round the mountain when she comes. She'll be coming round the mountain, she'll be coming round the mountain, she'll be coming round the mountain when she comes. Singing I I yippee yippee I. Singing I I yippee yippee I. Singing I >> >> I yippee. I I yippee. I I yippee yippee I. >> >> Oh, we'll all go out to meet her when she comes. Oh, we'll all go out to meet her when she comes. Oh, we'll all go out to meet her. Oh, we'll all go out to meet her. Yes, we'll all go out to meet her when she comes. Singing I I yippee yippee I. Singing I I yippee yippee I. Singing I I yippee. I I yippee. I >> >> I yippee yippee I. >> >> We're the Pokémon friends. Pokémon friends, we'll evolve with the power we share in our hearts. I like to eat eat eat apples and bananas. I like to",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0359,
-  "voc": 0.11585365853658537
+  "src": "auto"
  },
  "vHgmhvXYE8w": {
   "channel": "Learn English with Bob the Canadian",
@@ -140994,7 +141734,7 @@
  "_7P1U0lZmDU": {
   "channel": "Fingtam English",
   "lang": "en",
-  "checked": "2026-11-12T16:24:25+00:00",
+  "checked": "2026-11-26T21:07:43+00:00",
   "title": "Harry Potter English Lesson ( Comprehensible Input)",
   "duration": 342,
   "published": "20210712",
@@ -141003,6 +141743,7 @@
   "pace": 80.7,
   "rare": 0.1236,
   "var": 0.6393,
+  "cl": 0.0152,
   "speech_s": 342.7,
   "tokens": 461,
   "kw": [
@@ -141159,17 +141900,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "friends",
+    "friends are named hermione hermione and ron",
+    30,
+    42,
+    5.43,
+    4
+   ],
+   [
+    "does",
+    "does not like malfoy they are not friends harry potter",
+    200,
+    213,
+    5.74,
+    3
+   ],
+   [
+    "pet",
+    "pet he is the pet owl of harry potter",
+    329,
+    340,
+    4.45,
+    3
+   ],
+   [
+    "evil",
+    "voldemort is evil or very bad voldemort",
+    255,
+    268,
+    4.74,
+    2
+   ],
+   [
+    "casting",
+    "because he is casting a spell",
+    162,
+    170,
+    4.15,
+    1
+   ],
+   [
+    "selfish",
+    "and he is selfish and then last of all we have hedwig",
+    298,
+    310,
+    4.11,
+    1
+   ],
+   [
+    "villain",
+    "is the villain or the bad guy",
+    262,
+    271,
+    3.88,
+    1
+   ],
+   [
+    "wand",
+    "a magic wand okay a magic wand wizards",
+    82,
+    94,
+    3.47,
+    3
+   ],
+   [
+    "broom",
+    "is a broom this is a broom",
+    223,
+    232,
+    3.42,
+    3
+   ],
+   [
+    "brooms",
+    "have brooms okay this is a broom this is a broom",
+    220,
+    232,
+    2.71,
+    2
+   ],
+   [
+    "potter's",
+    "and hedwig is harry potter's pet he is the pet",
+    325,
+    336,
+    2.86,
+    1
+   ]
+  ],
+  "voc": 0.1475054229934924,
   "tx": "hello my name is teacher aaron and today i want to talk about harry potter and other characters in the harry potter books and harry potter movies so this boy is harry potter his name is harry potter and his friends are named hermione hermione and ron harry and ron are both boys or men hermione is a girl or a woman and they are very good friends okay they go to school together at hogwarts this castle is called hogwarts and it is a school for wizards harry ron and hermione learn how to use magic this stick is called a magic wand okay a magic wand wizards and witches use their magic wands to cast spells so harry potter ron weasley and hermione granger go to school at hogwarts to learn how to use magic with their magic wands this guy is named hagrid hagrid hagrid is a giant which means he's very big he's very big hagrid is a teacher and a caretaker at hogwarts school okay and he is one of harry's very good friends hagrid is a very good friend of harry potter this guy is named dumbledore his name is albus dumbledore you can see his magic wand right here because he is casting a spell a magic spell dumbledore is the principal or the headmaster of hogwarts school so dumbledore used to be a teacher but now he is the leader of the whole school of hogwarts he is a very important character this guy is malfoy draco malfoy harry potter does not like malfoy they are not friends harry potter and draco malfoy are enemies enemies they hate each other and in this picture harry and malfoy have brooms okay this is a broom this is a broom and in the harry potter books and in the harry potter movies wizards can ride on a broom to fly and they play a sport or a game called quidditch while they are flying on their magic brooms and this guy is named voldemort voldemort is evil or very bad voldemort is the villain or the bad guy in the movies of harry potter and the harry potter books see he's very ugly he does not have a nose voldemort does not have a nose his teeth are very ugly and he is a very bad guy voldemort uses magic to kill people because he is evil and he is selfish and then last of all we have hedwig hedwig this animal or this bird is named hedwig hedwig is a white owl hedwig is an owl okay an owl is a type of bird and hedwig is harry potter's pet he is the pet owl of harry potter harry loves his pet owl hedwig",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0152,
-  "voc": 0.1475054229934924
+  "src": "auto"
  },
  "KN7yGRT0w7k": {
   "channel": "English Comprehensible Input for ESL Beginners",
   "lang": "en",
-  "checked": "2026-11-12T16:24:32+00:00",
+  "checked": "2026-11-26T20:55:45+00:00",
   "title": "Easy Beginner English Listening Course Lesson: How Old Are You? Asking Age 👦❓👴 Comprehensible Input",
   "duration": 2213,
   "published": "20230210",
@@ -141178,6 +142008,7 @@
   "pace": 110.4,
   "rare": 0.0035,
   "var": 0.5525,
+  "cl": 0.0566,
   "speech_s": 2178.9,
   "tokens": 4009,
   "kw": [
@@ -141302,17 +142133,106 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "students",
+    "we have our our students here our",
+    507,
+    513,
+    5.25,
+    27
+   ],
+   [
+    "older",
+    "and oh um so is Maria is Maria older",
+    1385,
+    1395,
+    4.92,
+    27
+   ],
+   [
+    "angry",
+    "hey Cindy how are you oh she's angry",
+    756,
+    763,
+    4.66,
+    7
+   ],
+   [
+    "7th",
+    "on September 7th of 1992. September",
+    1131,
+    1138,
+    4.27,
+    7
+   ],
+   [
+    "farther",
+    "farther away yeah yeah she's farther",
+    1484,
+    1489,
+    3.85,
+    2
+   ],
+   [
+    "answering",
+    "answering how old are you what is your",
+    1352,
+    1357,
+    4.07,
+    1
+   ],
+   [
+    "goldfish",
+    "said her her goldfish died",
+    709,
+    719,
+    3.28,
+    1
+   ],
+   [
+    "sixes",
+    "think uh six or three sixes six six six",
+    242,
+    252,
+    2.91,
+    1
+   ],
+   [
+    "laura's",
+    "Laura's crying oh is Laura sad she's really sad she",
+    704,
+    713,
+    2.74,
+    1
+   ],
+   [
+    "comprehensible",
+    "comprehensible English",
+    2204,
+    2208,
+    2.71,
+    1
+   ],
+   [
+    "90s",
+    "and the 90s okay so you were born",
+    1152,
+    1161,
+    2.48,
+    1
+   ]
+  ],
+  "voc": 0.012540021344717182,
   "tx": "hi everyone my name is Christian everybody I'm Luke hi Luke how are you today hey I'm good man how you doing I'm not too bad not too bad I'm okay all right yeah and uh what what day is it today what is the day today it's Saturday it's yeah today it is uh this day Saturday and what uh what day of the month is it it is the 14th yeah it is uh Saturday the 14th Saturday the 14th so yesterday it was uh Friday the 13th Friday the 13th many people um and countries like Canada and the United States many people here uh in my country in Canada and in your country in the United States right uh many … 6664 very good really so in places like China people think numbers like uh six or even six six six are good numbers that's a good number um people think in in China that that's a good number yes in China they say 666 like yeah good job awesome that's that's very interesting yeah because uh many people in Canada and the United States if they think of the number 666 they think that's uh very bad or very yeah evil even it's it's like a number of evil or they think of something very bad very evil even when they think of that number but in other places uh people think people think different … have seven yeah yeah we have seven students one two three four five six seven seven students yeah we have seven students um how many how many teachers do we have here how many teachers one yeah one two two yeah so me and you one two so yeah we we are the two teachers and we have one two three four five six seven we have seven students right yep yeah um how many how many male students do we have male students Muhammad Mike and Lucas we have four four male students yes we have four male students so we have four men and how many female students how many female students Maria Laura and Cindy so … Laura yeah I hope you're feeling better soon but yeah that's that's sad when you lose a pet yeah um Lucas how about Lucas how is Lucas doing hey Lucas how are you doing how are you doing Lucas he's fine he's fine okay fine good and finally Cindy Cindy how are you doing how is Cindy doing hey Cindy how are you oh she's angry angry well why is Cindy angry why is Cindy angry Cindy well she's angry because she was almost late for class because when when she was driving here somebody cut her off so she had her she had to break and then she almost got into a crash and then she was she was … or things like that so this this is unsafe driving this is not uh safe driving this this kind of driving driving and looking at the road looking around you um looking at what's around you paying attention that's safe driving yeah yeah this is safe driving right so drive the important thing is to drive safely drive safely so yeah it's it's better to drive safely even if you're not on time than driving you know unsafely very fast to try to get somewhere uh on time yep yeah so yeah so um is everyone I I have another question another question is everyone feeling is everyone feeling healthy … you get 31 yeah so right right right so so this year uh later this year on when it is when it is September the seventh uh September the 7th 2023 then you will turn right now you are 30 years old right on September the 7th 2023 you will turn 31 years old right yeah yeah but right now it's not uh remember it's January the 14th it's not September the 7th yet so right now you are still uh 30 years old yeah okay so that's your age so I asked uh how old are you Luke and how old are you I'm 30. yeah so that's your age so right now you are 30 years old yep yeah so that's what we mean when we talk … Albert Albert how old are you how old are you Albert he said he's 38 38 38. so Albert is 38 years old Albert is 38 years old and um oh it's Albert Luke is Albert uh older than you or younger than you are Albert is older than me yeah yeah Albert is older than you so Maria is younger than you Albert is older than you yeah yeah and uh Albert actually Albert is also younger than me or not also but Albert Albert Maria Maria is younger than me and Albert is also younger than I am oh we're playing we're playing hot and cold or right now and how old you are all right yeah yeah so Albert is is … asked all the students their ages we've asked all the students how how old they are and who is oh who is the uh the oldest student uh Albert Albert is 38. yeah yeah so Albert is 38 so that makes him the oldest of all the students he is the oldest student he's the oldest the oldest and Luke who is the youngest student the youngest who's the youngest Maria 25 can you say it again Maria is Maria 25 Maria is 25 yes is she is she the youngest yes yes yes you're right so Maria is 25 years old so that that makes her the youngest Maria is the youngest of all the students so she's the youngest … you said yeah that you are older than Albert yeah yeah so before I said that I am older I'm older than Albert and Albert is 38. so yeah so how old am I how old am I let's see you said that Albert is really close in aged to you so I think you are 39. um close close so but I'm older than 39. you don't look older than 39. oh thank you thank you yeah so I'm older than 39 but uh not by much 41 41 uh close close so it's I'm not 39 anymore and I'm not oops I'm not I am not 41 yet so yeah how old does that make me yeah well you're not 41 yet okay yeah I'm not 40. you're 40. yeah I am 40. I am 40 … than that or are you younger than that or how old are you so if you like type a comment below or if you don't want to if you don't want to say how old you are that's okay too and also also uh remember to go to Luke's Channel so below below there's a link to Luke's Channel so just like I have this channel uh Luke has a channel so remember to click on the link below and take a look check out Luke's Channel all right thank you thank you we'll see you guys next time bye guys see you next time watch listen understand learn watch and listen to understand and learn English comprehensible English",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.06,
-  "voc": 0.011818181818181818
+  "src": "auto"
  },
  "cuQykDcdC8M": {
   "channel": "English Comprehensible Input for ESL Beginners",
   "lang": "en",
-  "checked": "2026-11-12T16:24:36+00:00",
+  "checked": "2026-11-26T21:07:54+00:00",
   "title": "Easy Beginner English Listening Course Lesson: Canadian & American Money 💲💵💲 Comprehensible Input",
   "duration": 4405,
   "published": "20230206",
@@ -141321,6 +142241,7 @@
   "pace": 121.6,
   "rare": 0.0182,
   "var": 0.5625,
+  "cl": 0.0571,
   "speech_s": 4344.5,
   "tokens": 8805,
   "kw": [
@@ -141485,12 +142406,93 @@
     8
    ]
   ],
+  "kx": [
+   [
+    "okay",
+    "Oh, okay. Oh, so that's a coin. That's a",
+    564,
+    569,
+    5.06,
+    49
+   ],
+   [
+    "worth",
+    "that coin is worth 500 South Korean won.",
+    588,
+    595,
+    5.16,
+    44
+   ],
+   [
+    "currency",
+    "currency. So, you have you have bank",
+    309,
+    316,
+    4.37,
+    27
+   ],
+   [
+    "coins",
+    "some coins. Yeah, yeah. So, there's um different",
+    303,
+    310,
+    4.26,
+    18
+   ],
+   [
+    "dime",
+    "A dime. A dime. Yeah, there's a dime.",
+    2363,
+    2371,
+    3.66,
+    9
+   ],
+   [
+    "polar",
+    "There's a a polar bear. Ooh. Yeah, it's",
+    3270,
+    3278,
+    3.96,
+    6
+   ],
+   [
+    "luke's",
+    "Luke's channel. There's a link I will",
+    4365,
+    4370,
+    3.36,
+    3
+   ],
+   [
+    "swipe",
+    "a credit card to pay. They they'd swipe",
+    3973,
+    3979,
+    3.58,
+    2
+   ],
+   [
+    "caribou",
+    "But it has a caribou on it.",
+    3496,
+    3504,
+    2.97,
+    6
+   ],
+   [
+    "loonie",
+    "it the loonie. This is the loonie.",
+    3411,
+    3421,
+    2.06,
+    5
+   ]
+  ],
+  "voc": 0.027716727716727715,
   "tx": "Hi everyone. My name is Christian. Everybody, I'm Luke. Oh, hey again Luke. How are you doing? I'm good. I'm good. How are you? Uh not too bad. I'm doing pretty good. Uh just a little bit tired, but I've got I've got my water here. I've got my uh coffee here. I've got my other cup of coffee here. I've got uh I've got uh two mugs of coffee here. So, I've got I've got lots lots and lots to drink. And yeah, so yeah, we're back. We're back. Um what what day is it today? What day is it? It's the same day. It's Saturday. Yeah, yeah. Yeah, yeah. So, before we were doing a uh a video like this. And … what Where is Cindy from first of all? Cindy is from uh South Korea. Yeah, so Cindy is from South Korea. Where is South Korea? Here is South Korea. There's South Korea. So, Cindy is from South Korea. And what currency do they use in South Korea? What kind of money do they use in South Korea? What kind of money do you use in South Korea, Cindy? Yeah, what kind of money do She said they use the won. The won. So, the won uh the won is I think I think one symbol is like this for the won. Yeah. Yeah, there's like a W there. Like this. Two lines through it. Yeah. Yeah, so just like the … the Egyptian pound. Yeah. a pound sign and E. So that's the Egyptian currency, the Egyptian pound. Yeah. And what other countries? How about um Oh, Maria. Um Where's Maria from? Maria is from Mexico. Mexico, yeah. Here is Mexico. So Maria is from Mexico and what currency do they use in Mexico? Uh they use the peso. The peso, yeah. The Mexican peso. So Maria is from uh Mexico. And in Mexico they use the the Mexican peso. So it's called it's called the peso. It's called the peso, but they use a dollar sign like this. I think it's only one line. Oh, is there only one? Yeah, I think there's … So there's 10. This is uh 10 US dollars and you have but you have a $10 bill. I have one $5 bill. There's one $5 bill and five five $1 bills. And you have one $10 bill. Yeah. Yeah, and so so you you showed a $1 bill, a $5 bill, a $10 bill. Do you have anything bigger than a $10 bill? Yes, I do. I have a $20 bill. Nice, there's a $20 bill. Yeah. Yeah, there's a $20 bill. And oh, what's what's on the back of the $20 bill? This is the White House. Oh, okay. That's where the president lives. Yeah, yeah, that's the White House. So the president lives in the White House. Right now, who is … the money. Yeah, I think I think so Hamilton some something like 1789. No, he never served as president. Oh. Oh, I'm sorry. I'm He was not a president. Okay, so I was wrong. So, Hamilton was not a president. Yeah. He was he was in the government. The United States government. Yeah, he was very he was very important, but he wasn't a president. Okay, okay. So, he was not Yeah, he was not president, but still very very important, very very famous. Yeah. So, Alexander Hamilton is on the US $10 bill. What about the uh US $5 bill? I think there's there's a very famous president. Very famous. … make $1, but just like the $2 bill, so the $2 bill uh like this, where's my $2 bill? Where's my There. Just like the $2 bill the uh the half dollar, the 50-cent coin, you don't really uh see that every day normally, right? Yeah. Yeah. So, those those are the coins. So, there are coins uh 1 cent, the penny, 5 cents, the nickel uh the dime worth 10 cents, the quarter worth 25 cents and half dollar worth 50 cents, but you don't really see those every day. And so, those are the coins and then the banknotes. What about your Canadian money? Yeah, so in Canada, um do you know what uh the … I mean you're you're right. You're right. Um so, I'm just checking here. She died Yeah. You You were right. I was wrong. I was wrong. So, actually she did die at the age of 96. Okay. Yeah. So, yeah. So, Queen Elizabeth um last year last year in 2022 she died at the age of 96. So, that's still That was a very long life though. She lived Yeah. to be 96. That's a long time. Yeah. So, now um now now the monarch is King Charles. So, now we have King Charles III. So, maybe again, maybe um soon maybe um King Charles III will be on the $20 bill. So, I have That's the $20 bill. I also have a bigger … we call the $1 coin the $1 coin we call it the loonie. This is the loonie. Because it has a loon. So, um yeah, I guess so someone called this the toonie. So, it's like it's like two loonies. So, here's two loonies. Two loonies Two loonies make a toonie. Yeah, there you go. That makes sense. We could have called it We could have called it the berry, I guess. The berry. But yeah, we don't call it the berry. There's a bear. Maybe maybe you should start that. You should start calling it the berry. It's too late. I think that's too late. So, we call it the toonie, toonie. So, two loonies It's … Tim Hortons, a coffee shop and I try to buy a coffee uh someone might look at these dollar bills and be like, \"Oh, what's this? What's this?\" So they might not even take them. They might They might not take them. Uh Luke do you use cash like this? This is cash uh coins, so coins um banknotes um paper money, banknotes like this. This is all cash. This is cash, right? Yeah, cash. Yeah. So do you use when you go somewhere like when you go to uh to buy something do you pay in cash like this? Do you pay in cash? Not usually. Usually I'll use a credit card or I'll take my phone and I'll beep … videos. Yeah, where you talk about TV shows, you talk about movies to help people learn English. So, everyone go and check out go and take a look at Luke's channel. There's a link I will put a link below. So, click on the link. Yeah, and go to Luke's channel. Go and see Luke's channel. So, thank you again, Luke. All right, thanks Christian. Yeah, anytime. I'll see you next time. See you next time, everyone. All right, bye everybody. Have a good night, Christian. Bye for now. See you. Watch, listen, understand, learn. Watch and listen to understand and learn English. Comprehensible English.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0518,
-  "voc": 0.03195488721804511
+  "src": "auto"
  },
  "I35jOwas3K8": {
   "channel": "Alex Bondoc",
@@ -157237,7 +158239,7 @@
  "54c0LuikMCY": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-13T03:50:13+00:00",
+  "checked": "2026-11-26T20:52:37+00:00",
   "title": "Death comes to you: Frankenstein episode 6",
   "duration": 485,
   "published": "20241015",
@@ -157246,6 +158248,7 @@
   "pace": 83.5,
   "rare": 0.0199,
   "var": 0.7834,
+  "cl": 0.0315,
   "speech_s": 433.1,
   "tokens": 603,
   "kw": [
@@ -157338,12 +158341,117 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "name",
+    "I'll tell my daddy! He's a powerful man! He'll beat you! His name is Frankenstein!",
+    268,
+    278,
+    5.61,
+    3
+   ],
+   [
+    "let",
+    "Let me go, horrible monster! Let me go or",
+    263,
+    269,
+    5.6,
+    3
+   ],
+   [
+    "ugly",
+    "was kind to me... Well, he was blind and couldn't see my ugly face. But I hoped he might help me",
+    53,
+    68,
+    4.42,
+    2
+   ],
+   [
+    "creator",
+    "Hello, I'm the Creature. And I've been telling you and my creator, Viktor Frankenstein,",
+    28,
+    40,
+    4.21,
+    2
+   ],
+   [
+    "podcast",
+    "This is a podcast from BBC Learning English dot com. For more information, visit our website.",
+    0,
+    8,
+    4.15,
+    1
+   ],
+   [
+    "dot",
+    "This is a podcast from BBC Learning English dot com. For more information, visit our website.",
+    0,
+    8,
+    4.05,
+    1
+   ],
+   [
+    "waking",
+    "I found this lovely woman sleeping in a hut. I thought about waking",
+    343,
+    353,
+    3.95,
+    1
+   ],
+   [
+    "feared",
+    "about my experience meeting people. Some feared me, some hated me and finally I found a man who",
+    39,
+    54,
+    3.94,
+    1
+   ],
+   [
+    "nanny",
+    "And what happened to Justine, William's nanny, who was executed as his murderer?",
+    338,
+    344,
+    3.59,
+    1
+   ],
+   [
+    "fainted",
+    "Sister? She's fainted! Get away from my father you monster! Don't be frightened, Dad! Get out",
+    92,
+    101,
+    3.12,
+    1
+   ],
+   [
+    "william's",
+    "And what happened to Justine, William's nanny, who was executed as his murderer?",
+    338,
+    344,
+    2.98,
+    1
+   ],
+   [
+    "locket",
+    "I put a locket with the picture of",
+    365,
+    370,
+    2.88,
+    1
+   ],
+   [
+    "ohhhhhh",
+    "Oh! What is that? Ohhhhhh... Sister? She's fainted! Get away from my father you monster! Don't be frightened, Dad! Get out",
+    88,
+    101,
+    2.14,
+    1
+   ]
+  ],
+  "voc": 0.025597269624573378,
   "tx": "This is a podcast from BBC Learning English dot com. For more information, visit our website. Frankenstein, episode six. The Creature declares war against man. Hello, I'm the Creature. And I've been telling you and my creator, Viktor Frankenstein, about my experience meeting people. Some feared me, some hated me and finally I found a man who was kind to me... Well, he was blind and couldn't see my ugly face. But I hoped he might help me persuade others I'm good and loving... There I was, in his house, when his children arrived. What would they do when they saw me? Oh! What is that? Ohhhhhh... Sister? She's fainted! Get away from my father you monster! Don't be frightened, Dad! Get out of here, ugly monster! This will show you! Ouch! Ouch! Please, please don't hurt me! Out! Out! Son, what's going on? Oh that boy beat me with a stick! And he beat me and beat me! I could have killed him but... I just ran away. I was really angry! I wanted to be their best friend... But it was not going to happen. That's when I decided life is a war against man! Then I thought you, Dr Frankenstein, might be the only person to give me some answers. You, my creator! How did you know where I lived? Papers I took from your laboratory in Germany said you came from Geneva and that's where I was going! It took me two months to reach the place. One night I was ready to go to sleep when I heard the voice of a child... The beautiful boy looked innocent and I thought he might accept my appearance. I decided that I would take him with me to be my friend. I wouldn't be lonely any more. But when I caught him... well, I tried to tell him I wouldn't harm him. Let me go, horrible monster! Let me go or I'll tell my daddy! He's a powerful man! He'll beat you! His name is Frankenstein! That name took me by surprise! The name of my enemy! I felt so much hate... I put my hands around his neck and I held it. Yes, I held it tight and... suddenly I realised he went silent. My brother William! My father is called Alphonse. Alphonse Frankenstein. And he doesn't even know about you! I knew this would make you suffer! You made me suffer and now I realised I could make you suffer too. And what happened to Justine, William's nanny, who was executed as his murderer? I found this lovely woman sleeping in a hut. I thought about waking her up but... I was sure she wouldn't be nice to me! She should suffer for that! And what did you do? I put a locket with the picture of a woman I took from the boy's body in her pocket. My life is very sad and I made her pay for it! Horrible creature! You're responsible for the deaths of two good and innocent people! I told you, I was good too. But now I'm sad and alone! Nobody will ever love me... unless you create a woman - a monster like me - whom I can share my life with. Another monster like you? No! What I ask you is fair. If you give me another creature that looks like me, I could go and take it far away to South America. I'll make sure nobody will ever see us again. No more contact with people? No. Never again. Let me think about it. I'll tell you my decision next time.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0315,
-  "voc": 0.025597269624573378
+  "src": "cc"
  },
  "bxLNWFVoUrk": {
   "channel": "Alex Bondoc",
@@ -188645,7 +189753,7 @@
  "68Z_wXR779A": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:42:08+00:00",
+  "checked": "2026-11-26T20:57:21+00:00",
   "title": "Disappear For 90 Days | Learn English Through Story | Speak English Fluently | Learn English Podcast",
   "duration": 3270,
   "published": "20260901",
@@ -188654,6 +189762,7 @@
   "pace": 132.0,
   "rare": 0.0116,
   "var": 0.7655,
+  "cl": 0.0252,
   "speech_s": 3261.8,
   "tokens": 7178,
   "kw": [
@@ -188802,17 +189911,114 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "again",
+    "promises again and again. And slowly",
+    88,
+    96,
+    5.7,
+    28
+   ],
+   [
+    "small",
+    "failure. They are destroyed by small",
+    127,
+    133,
+    5.51,
+    28
+   ],
+   [
+    "sat",
+    "That day, Marcus sat near the window",
+    521,
+    526,
+    4.64,
+    11
+   ],
+   [
+    "edit",
+    "\"Tonight I will edit. Tonight I will",
+    323,
+    330,
+    4.3,
+    11
+   ],
+   [
+    "deleted",
+    "audio, deleted mistakes. But he was rushing. And rushed work",
+    788,
+    799,
+    4.18,
+    6
+   ],
+   [
+    "reminded",
+    "portfolio again. Each video reminded him",
+    3050,
+    3057,
+    4.17,
+    6
+   ],
+   [
+    "calmer",
+    "You seem calmer.\" That word stayed with",
+    2533,
+    2541,
+    3.05,
+    4
+   ],
+   [
+    "packets",
+    "empty food packets, the messy bed, the",
+    952,
+    959,
+    3.52,
+    3
+   ],
+   [
+    "tiredness",
+    "happened. Work tiredness phone delay guilt promise. Repeat. This is how",
+    728,
+    739,
+    2.92,
+    1
+   ],
+   [
+    "carelessly",
+    "money carelessly. Small snacks, random orders, late night",
+    1584,
+    1593,
+    2.9,
+    1
+   ],
+   [
+    "calmness",
+    "And for Noah, calmness was a sign that",
+    2543,
+    2551,
+    2.89,
+    1
+   ],
+   [
+    "rudely",
+    "spoken rudely to him. His manager had",
+    2202,
+    2208,
+    2.89,
+    1
+   ]
+  ],
+  "voc": 0.03558718861209965,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today I want to tell you a powerful and deeply meaningful story on the topic disappear for 90 days. But listen carefully. This story is not about running away from life. It is not about ignoring your responsibilities. It is not about becoming rich in 3 months. It is not about proving people wrong with fake success. This story is about something deeper. It is about disappearing from distractions, disappearing from excuses, disappearing from fake promises, disappearing from late night scrolling, disappearing from useless attention, … video. Someone announced a new project. Someone looked confident. Someone looked ahead in life. And Noah would feel a strange pain in his chest. He wanted what they had. Not only money, not only attention. He wanted progress. He wanted movement. He wanted proof that his life was going somewhere. But instead of working, he kept watching. Instead of building, he kept comparing. Instead of improving, he kept consuming. Consuming means taking in content again and again without creating anything of your own. And this is where many people lose themselves. They are not lazy in their dreams. They … A message from a friend. Then another message. Then one random video. Then scrolling again. At midnight he had done almost nothing. He felt ashamed but he again told himself tomorrow I will seriously focus. Tomorrow came and the same thing happened. Work tiredness phone delay guilt promise. Repeat. This is how failure is created. Not always by one big mistake. Sometimes by a small delay repeated every day. Friday arrived the deadline day. Noah woke up with panic. His stomach felt tight. His mind was running. He had to finish the sample before night. At the coffee shop, he could not focus. … because the world ignored him. He was invisible because he kept disappearing from his own life. That last sentence broke him. I keep disappearing from my own life. He thought about all the nights he wasted, all the promises he made, all the mornings he woke up tired, all the times he said, \"I will start tomorrow.\" All the chances he did not prepare for. All the skills he could have built. All the money he could have saved, all the projects he could have finished, all the respect he wanted from others while he was not even respecting his own time. And suddenly he understood something that … looked empty. And for the first time, silence entered his phone. Then he wrote, \"Rule three, sleep by 10:30 p.m. Wake up at 5:30 a.m.\" He almost laughed at himself. He had not woken up at 5:30 in years, but he wrote it anyway, not because he wanted to become perfect, but because he needed structure. Structure means a clear system that holds your life together. A weak life is usually full of random habits, random sleep, random food, random work, random emotions, random plans, random motivation. Noah was tired of random living. Then he wrote, \"Rule four, train the body every morning. Not … clothes. He cleared the desk. He removed old papers. He put his notebooks in one place. He wiped the laptop screen. He changed his bed sheet. The room still looked small, but now it had space. And sometimes when you create space outside, you also create space inside. At 8:00 p.m., the first real test began. His phone was quiet. His room was quiet. No music, no videos, no scrolling, only silence. And silence felt uncomfortable. Very uncomfortable. Noah realized something strange. He had always said he did not have time. But now, without distractions, he had too much time. And that time … becomes smaller. The routine becomes plain. Wake up, train, work, come home, edit, read, sleep again and again and again. No applause, no praise, no visible result, no sudden success, no one saying, \"Wow, you are changing.\" Just the same small room, the same coffee shop, the same tired body, the same laptop, the same rules on the wall. This is where Noah began to understand something deep. Real change is not dramatic most of the time. Real change is boring. It is repeating the right thing when nobody cares. It is choosing discipline when no one is watching. It is doing the work after the … it becomes a friend. At the coffee shop, people began to notice small things, not dramatic things. Small things. Noah came on time. He looked less tired. He made fewer mistakes. He moved faster. He complained less. He did not check his phone every few minutes. One coworker, Maya, said, \"You look different these days.\" Noah smiled and said, \"I'm trying to be more serious with my life.\" She said, \"That's good. You seem calmer.\" That word stayed with him. Calmer. He was not rich, not famous, not successful yet, but calmer. And for Noah, calmness was a sign that he was returning to himself. … and said, \"Good. Most people want the opportunity before they build the character to carry it.\" That sentence stayed with Noah. He realized something deep. Sometimes life does not give you what you want because your habits are not ready to protect it. Noah had wanted a big chance. But he had not built discipline for even a small chance. Now he was building it. By day 60, he had four finished projects. His editing was sharper. His body was stronger, his sleep was better, his mind was quieter, and his self-rust was returning. Self-rust returns when you keep promises. Every morning he woke up … transformation. Sometimes you do not need to disappear from people because you hate them. Sometimes you need to disappear from noise because you have ignored yourself for too long. Disappear from distractions. Disappear from excuses. Disappear from fake promises. Disappear from the version of you that keeps delaying your life. Build in silence. Heal in silence. Learn in silence. Work in silence. and return as someone your future can finally trust. Because the greatest victory is not when people notice your change. The greatest victory is when you no longer need their attention to keep going.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0255,
-  "voc": 0.037037037037037035
+  "src": "auto"
  },
  "VlO8_6y6WoU": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:42:16+00:00",
+  "checked": "2026-11-26T20:57:27+00:00",
   "title": "Socialism vs Capitalism | Explained In The Simplest Way | Improve Your English Fluency ✅️",
   "duration": 4351,
   "published": "20260830",
@@ -188821,6 +190027,7 @@
   "pace": 118.0,
   "rare": 0.0054,
   "var": 0.7658,
+  "cl": 0.0329,
   "speech_s": 4342.2,
   "tokens": 8539,
   "kw": [
@@ -188969,12 +190176,101 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "freedom",
+    "government, freedom, and equality. But many people hear these words and feel",
+    30,
+    37,
+    4.86,
+    53
+   ],
+   [
+    "private",
+    "be private or public? Should the market",
+    107,
+    113,
+    5.19,
+    50
+   ],
+   [
+    "customers",
+    "they want customers. Competition is another important part of",
+    296,
+    304,
+    4.78,
+    23
+   ],
+   [
+    "welfare",
+    "on public welfare. Some focus on worker",
+    905,
+    912,
+    4.43,
+    21
+   ],
+   [
+    "dignity",
+    "should have dignity, fair wages, safety,",
+    828,
+    835,
+    4.02,
+    16
+   ],
+   [
+    "capitalist",
+    "capitalist idea of private business and",
+    475,
+    480,
+    3.79,
+    16
+   ],
+   [
+    "blindly",
+    "emotionally, not blindly, not with hate,",
+    67,
+    75,
+    3.32,
+    3
+   ],
+   [
+    "authoritarian",
+    "corrupt, weak or authoritarian, people can suffer. Authoritarian means",
+    3460,
+    3470,
+    3.59,
+    2
+   ],
+   [
+    "frustrate",
+    "Too much bureaucracy can frustrate people. The fifth weakness is corruption",
+    3559,
+    3568,
+    2.99,
+    1
+   ],
+   [
+    "memorizing",
+    "not about memorizing difficult words. This topic is about understanding how",
+    163,
+    173,
+    2.81,
+    1
+   ],
+   [
+    "cooperatively",
+    "cooperatively. In others, there's a mix of public",
+    1811,
+    1819,
+    2.61,
+    1
+   ]
+  ],
+  "voc": 0.04991212653778559,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to talk about one of the most important and powerful topics in the modern world. Socialism versus capitalism. These two words are used everywhere. In politics, in economics, in news, in debates, in schools, in universities, in social media, and in conversations about money, jobs, business, poverty, government, freedom, and equality. But many people hear these words and feel confused. Some people think capitalism means only rich people. Some people think socialism means only government control. Some people think … someone starts a small shop. All these people are using the capitalist idea of private business and profit. Capitalism can create innovation. Innovation means new ideas, new inventions, and better ways of doing things. Because companies want to win customers, they try to improve. They make faster phones, better cars, cheaper services, stronger machines, more useful apps, new medicines, better delivery systems. This competition can create progress. But capitalism also has problems. Capitalism can create inequality. Inequality means unfair difference between rich and poor. Some people … people from extreme hardship. Hardship means serious difficulty. Socialism says people should not be left alone when life becomes difficult. If someone loses a job, society should help. If someone gets sick, society should help. If a child needs education, society should help. If old people cannot work, society should help. This idea is based on shared responsibility. Shared responsibility means we all carry some responsibility for one another. But socialism also has problems. If the government controls too much, freedom can become weak. If there is no competition, quality can fall. If … but also on fairness. So, capitalism and socialism are different answers to the same question. How should society organize wealth, work, and resources? Capitalism says, \"Let private individuals and markets lead.\" Socialism says, \"Let society and public responsibility play a larger role.\" But here is the important truth. In the real world, most countries are not purely capitalist or purely socialist. Most countries use a mixed system. A mixed system means there are both private businesses and public services. For example, a country may have private shops, private companies, and private banks. … free or lowcost healthcare and education, it needs money. That money usually comes from taxes. Supporters say this is fair because everyone contributes and everyone receives basic protection. Critics say high taxes can reduce motivation, investment and business growth. Again, this is the debate. How much should be private? How much should be public? How much should people keep for themselves? How much should society share? There is no simple answer for every country. Different countries choose different balances. A poor country may need one kind of system. A rich country may use … to the poor, the sick, the old, the unemployed, the disabled, the children born into poverty, the workers who are paid too little, the families who cannot afford education or health care. Socialism says society should not ignore these people. A society is not strong only because some people become rich. A society is strong when ordinary people can live with dignity. Dignity means basic respect and human value. Socialism focuses on reducing extreme inequality. It asks society to think about fairness, not only profit, not only business growth, not only private success, but also human … many strengths. It can create wealth. It can encourage creativity. It can build industries. It can reward effort. It can give people freedom. It can create progress. But again, capitalism must have ethics and rules because power without responsibility becomes dangerous. A good capitalist system should not only ask how can we make profit. It should also ask how can we create value without harming people. That is the real challenge. Chapter 8, weaknesses of capitalism. Now let us understand the weaknesses of capitalism. Because no system is perfect. Capitalism can create wealth but it can … become sick, health care may exist. If they grow old, pensions may exist. This security can help people live with less stress. The seventh strength is public control of essential services. Essential means very necessary. Some things are too important for life. Water, electricity, healthcare, education, roads, public transport. Socialism says these should not be controlled only by profit. They should be managed for public benefit. The eighth strength is moral focus. Socialism asks a powerful moral question. What kind of society do we want? A society where only the strongest survive or a … is not always capitalism or socialism. The better question is what balance works best? How much freedom should business have? How much support should the government provide? How high should taxes be? Which services should be public? Which industries should stay private? How can we protect workers without killing business? How can we support poor people without creating dependency? How can we encourage wealth creation and also reduce extreme inequality? These are the real questions modern countries face. A mixed economy tries to combine freedom and fairness. It says, \"Let private … with dignity. A society with justice, a society with responsibility, a society where hard work is rewarded but humanity is not forgotten. So when you hear people arguing about capitalism and socialism, do not follow slogans blindly. Ask better questions. Who owns the resources? Who benefits? Who suffers? Who has freedom? Who has protection? Who has opportunity? Who is left behind? Because an educated person does not only choose sides. An educated person understands the system. And when you understand the system, you understand the world more clearly. That is the real power of learning.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0388,
-  "voc": 0.05952380952380952
+  "src": "auto"
  },
  "1PIhgykfxf8": {
   "channel": "English by Jay - Sprout",
@@ -189236,7 +190532,7 @@
  "gPgtN5RlRK8": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:17+00:00",
+  "checked": "2026-11-26T21:09:32+00:00",
   "title": "Everything Happens For A Reason | Graded Reader | Learn English Through Story Level 2 🔥",
   "duration": 3244,
   "published": "20260824",
@@ -189245,6 +190541,7 @@
   "pace": 133.2,
   "rare": 0.0116,
   "var": 0.7684,
+  "cl": 0.0305,
   "speech_s": 3236.1,
   "tokens": 7183,
   "kw": [
@@ -189409,17 +190706,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "story",
+    "powerful and motivational story on the",
+    8,
+    15,
+    5.45,
+    33
+   ],
+   [
+    "small",
+    "Her town was small. The streets were",
+    181,
+    188,
+    5.51,
+    30
+   ],
+   [
+    "path",
+    "toward a better path. A path you did not",
+    126,
+    134,
+    4.71,
+    11
+   ],
+   [
+    "delay",
+    "us. Sometimes a delay is not rejection.",
+    61,
+    68,
+    4.4,
+    11
+   ],
+   [
+    "notebook",
+    "notebook in her lap. She wrote about lonely stars, lost",
+    226,
+    236,
+    3.74,
+    9
+   ],
+   [
+    "beside",
+    "yellow lamp stood beside her. The window",
+    332,
+    338,
+    4.19,
+    5
+   ],
+   [
+    "aloud",
+    "words aloud. Her hands would shake. Her",
+    1307,
+    1314,
+    3.51,
+    2
+   ],
+   [
+    "smelled",
+    "smelled of salt, rain, and fresh bread",
+    187,
+    194,
+    3.5,
+    2
+   ],
+   [
+    "braver",
+    "story. She had become braver. Now the",
+    2218,
+    2225,
+    2.87,
+    1
+   ],
+   [
+    "recreates",
+    "sometimes the story recreates you. One",
+    2024,
+    2030,
+    2.63,
+    1
+   ]
+  ],
+  "voc": 0.031660011409013124,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to listen to a very powerful and motivational story on the topic. Everything happens for a reason. This is one of the deepest truths of life. Because sometimes life does not happen the way we planned. Sometimes the door we prayed for does not open. Sometimes the person we trusted walks away. Sometimes the opportunity we waited for disappears. Sometimes we give our best. But still things go wrong. And in that moment it feels unfair. It feels painful. It feels like life is against us. We ask why did this happen to me? … only one page. Sometimes only one paragraph. Sometimes only one sentence. But she wrote because her dream was not loud. It was quiet. But it was alive. Her first novel took almost three years to finish. Three years of hope, three years of doubt, three years of rewriting, three years of deleting lines and writing them again. Three years of wondering if the story was good enough. The novel was about a girl who lived near the sea and waited for a letter that could change her life. In some ways, the story was not only fiction. It carried pieces of Elena's own heart. Her loneliness, her hope, … with a real editor, a real chance. Elena covered her mouth with her hand. Tears filled her eyes. But then she looked at the date. The meeting date had already passed. It was yesterday. The letter had arrived too late. For a long moment, Elena did not understand what she was seeing. She read the date again and again and again. But the truth did not change. The biggest opportunity of her life had come. And she had missed it. Not because she refused, not because she was lazy, not because she did not care, but because the letter arrived too late. She sat there in complete silence. Outside, the … Mara entered Elena's room, she saw the letter on the desk. She saw Elena's face, and she understood that something painful had happened. Elena gave her the letter. Mara read it slowly. For a moment, she said nothing. Then she sat beside Elena. Elena finally spoke. It came too late. Her voice was almost empty. I waited for months. I checked every day. And when the answer came, I had already missed it. Mara looked at her with sadness. I know it hurts. Elena laughed softly, but there was no happiness in it. No, it does not only hurt. It feels cruel. Mara stayed silent. Elena continued, \"Why … room was quiet. The cafe owner smiled gently. Elena slowly raised her hand. \"I can read something,\" she said. Her voice was small, but it was there. She walked to the front. Her fingers trembled as she unfolded the paper. She looked at the people in the room. Strangers, quiet faces, waiting eyes. For a moment, she almost ran away. Then she remembered Mara's words. Do not decide the meaning of your whole life while your heart is broken. Elena took a breath and she began to read. At first, her voice was weak. But as the words came out, something changed. The story that had been trapped inside … she read small pieces, not from her novel only, sometimes from her journal, sometimes from memories, sometimes from thoughts she had never spoken before. Slowly, she discovered something important. Writing was not only about being published. Writing was also about connection. A sentence could make someone feel less alone. A story could give someone courage. A memory could open another person's heart. Elena had always wanted her book to reach the world. But now she understood that even one listening heart mattered. A week later, Thomas called her. He had finished reading. Elena went to his … have given because now she understood. Writing was not about being admired. It was about reaching the truth inside people. One day Thomas told Elena about an independent literary festival in another city. It was smaller than the world she had dreamed of. No big publishing house, no famous editor waiting in a glass office, no perfect golden opportunity. But there would be readers, small publishers, book lovers, editors, writers, people who cared about honest stories. Thomas said, \"You should submit your revised manuscript.\" Elena felt fear rise again. The old fear. What if they reject it? … name was called, Elena walked to the stage. The lights were warm. The room became quiet. Her hands trembled slightly as she opened her pages. For one second, she saw the old version of herself. The girl sitting alone with the late letter. The girl who thought everything was finished. The girl who had closed her notebook and believed life had betrayed her. Then she looked at the audience and began to read. This time her voice did not hide. It was soft but clear, simple but alive. She read about waiting, about loss, about a letter that arrived too late, about a dream that almost died, about … have. But now she saw the hidden truth. If that first letter had arrived on time, maybe they would have taken her manuscript too early. Maybe they would have changed her story into something safer. Maybe her book would have been published before it was ready. Maybe her true voice would have stayed buried. Maybe she would have entered the wrong room just because it looked famous. The late letter had hurt her, but it had also protected her. It had pushed her away from the wrong timing. It had led her to the cafe, to Thomas, to the rewriting, to Clara, to the readers who needed the real version … because one road ended. A closed road is not the same as a closed life. A missed chance is not the same as a missed destiny. A late answer is not the same as no answer. Keep going. Keep learning. Keep healing. Keep trusting. Keep becoming. One day you may look back at the thing that broke your heart and finally understand. It was not the end of my story. It was the turn that led me to where I was meant to be. Everything happens for a reason. Maybe you cannot see the reason today. But keep walking because life may still be writing something beautiful through the pain you do not understand yet.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.029,
-  "voc": 0.025911708253358926
+  "src": "auto"
  },
  "SwfuLa2GgQA": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:24+00:00",
+  "checked": "2026-11-26T21:09:35+00:00",
   "title": "Truth About Toxic Parents | Graded Reader | Improve Your English Fluency ✅",
   "duration": 3198,
   "published": "20260823",
@@ -189428,6 +190806,7 @@
   "pace": 129.9,
   "rare": 0.0107,
   "var": 0.7319,
+  "cl": 0.0356,
   "speech_s": 3189.2,
   "tokens": 6906,
   "kw": [
@@ -189568,17 +190947,122 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "does",
+    "matter. And unhealthy behavior does not",
+    79,
+    85,
+    5.74,
+    37
+   ],
+   [
+    "learn",
+    "correct my behavior. I need to learn. I",
+    298,
+    305,
+    5.17,
+    36
+   ],
+   [
+    "shame",
+    "who grew up with control, shame, fear,",
+    196,
+    204,
+    4.55,
+    21
+   ],
+   [
+    "boundaries",
+    "feels guilty for having boundaries. A child who is physically abused may",
+    117,
+    125,
+    4.25,
+    20
+   ],
+   [
+    "disrespect",
+    "to disrespect family. This video is made",
+    52,
+    59,
+    3.63,
+    9
+   ],
+   [
+    "trauma",
+    "trauma, respect, and peace. If you enjoy honest, meaningful and",
+    257,
+    266,
+    4.14,
+    7
+   ],
+   [
+    "silently",
+    "You do not have to suffer silently.",
+    282,
+    290,
+    3.58,
+    2
+   ],
+   [
+    "grieving",
+    "peace. The sixth technique is grieving",
+    2751,
+    2758,
+    3.45,
+    2
+   ],
+   [
+    "narcissist",
+    "a narcissist. A real diagnosis should be done by a",
+    1130,
+    1138,
+    2.99,
+    1
+   ],
+   [
+    "numbness",
+    "restlessness, numbness. You may react strongly to shouting, footsteps,",
+    2716,
+    2725,
+    2.89,
+    1
+   ],
+   [
+    "blackmailed",
+    "blackmailed may grow into an adult who",
+    114,
+    121,
+    2.87,
+    1
+   ],
+   [
+    "silences",
+    "you, silences you, and calls it love, it",
+    743,
+    749,
+    2.86,
+    1
+   ],
+   [
+    "restlessness",
+    "restlessness, numbness. You may react strongly to shouting, footsteps,",
+    2716,
+    2725,
+    2.8,
+    1
+   ]
+  ],
+  "voc": 0.03738046942915097,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to talk about a very serious, emotional and important topic. Truth about toxic parents. This topic is not easy because when we hear the word parents, we usually think about love, safety, care, protection and home. But the truth is not every home feels safe. Not every parent knows how to love in a healthy way. Not every family gives peace. Sometimes the same people who should protect a child's heart become the reason that child feels afraid, ashamed, confused and broken inside. This video is not made to spread hate … who hears these words again and again may begin to believe them. They may grow up thinking, \"I am not good enough. I am difficult to love. I am always wrong. My feelings do not matter.\" This is how toxic shame enters the heart. It becomes an inner voice. Even after the parent is not speaking, the child may still hear that voice inside. This is why toxic shame is dangerous. It makes a person hate themselves for simply existing. A healthy parent corrects behavior with love. A toxic parent destroys self-worth through shame. There is a big difference. Correction says, \"What you did was wrong, … love means pressure. Love means fear. Love means losing freedom. Love means obeying even when the heart is suffering. But healthy love does not destroy individuality. Healthy love says I will guide you but I will not own you. I will protect you but I will also respect you. I will advise you but I will not force your whole life. Control creates fear. Love creates safety. Control creates silence. Love creates honest communication. Control creates rebellion or weakness. Love creates responsibility. So remember this. If someone controls you, threatens you, silences you, and calls it love, … not healthy parenting. It is abuse. And if you experience this, please understand it was not your fault. You did not deserve violence. You deserved safety. You deserved patience. You deserved guidance without fear. This does not mean you must live with hate forever. Healing may include forgiveness for some people. But forgiveness does not mean denying the truth. Forgiveness does not mean calling abuse normal. Forgiveness does not mean allowing the same harm again. The truth must be named before healing can begin. If someone is still facing physical abuse, they should not stay silent. They … explode. And later as adults, they may struggle to know who they really are. So remember this truth. If a parent always needs to be right, never accepts mistakes, attacks your feelings, protects image more than truth, and makes you feel guilty for having your own mind, that is not healthy parenting. That is a pattern you need to recognize. Recognition is the beginning of freedom because once you see the pattern, you stop blaming yourself for everything. Truth seven, ways families influence children to choose bad partners. This is a painful truth that many people do not understand. A child's … family breaking? Did I do something wrong? Will one parent leave? Can I trust love? This is why affairs can affect children emotionally. A child needs stability. A child needs safety. A child needs to feel that home is not a battlefield. But when betrayal enters the family, the child may feel insecure. They may become anxious. They may become silent. They may become angry. They may become over responsible. They may try to become the emotional support for one parent. And that is too much weight for a child. A child should not become the therapist of the family. A child should not be forced … between protection and invasion. Protection means I care about your safety. Invasion means I must control every part of your life. Protection gives guidance. Invasion creates fear. Protection builds trust. Invasion destroys trust. A child needs space to understand themselves. They need space to think about their dreams. They need space to make small choices. They need space to make mistakes and learn. They need space to rest without being called lazy. They need space to feel emotions without being mocked. They need space to become themselves without being punished for it. This is … of hate. Boundaries are doors with locks. They allow love to enter safely, but they stop disrespect from walking in freely. Healthy people may not always like your boundary at first, but they can learn to respect it. Toxic people often attack the boundary because they benefited from you not having one. So remember this, a boundary is not a weapon. It is a line of self-respect. And self-respect is not disrespect. Truth 11. Techniques to heal your trauma. Healing from toxic parents is not simple. It is not one quote. It is not one video. It is not one good day. Healing is a journey. Because … who needed safety. The child who needed someone to say, \"I see you. I hear you. You matter. You are not a burden.\" This grief is painful, but it is also freeing because when you grieve honestly, you stop pretending you were not hurt. The seventh technique is building a new life slowly. Healing is not only looking back. Healing is also moving forward. Build routines that support you. Practice selfrespect. Choose better relationships. Learn emotional regulation. Set small boundaries. Take care of your body. Learn skills. Create goals. Become financially and emotionally stronger where … The fear can end with you. The silence can end with you. The violence can end with you. The emotional blackmail can end with you. The unhealthy love can end with you. And one day, someone may feel safe because you chose to heal. Someone may feel loved because you chose to become different. Someone may grow up peacefully because you refused to pass forward what broke you. That is real strength. Not revenge, not hate, not bitterness, but healing so deeply that the pain does not continue through you. You do not have to become the pain that raised you. You can become the peace that was missing.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0373,
-  "voc": 0.041379310344827586
+  "src": "auto"
  },
  "sOD7r5NnEK4": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:59:12+00:00",
+  "checked": "2026-11-26T21:09:49+00:00",
   "title": "Kill Your Excuses | Learn English Through Motivation | Graded Reader | Improve Your English Fluency",
   "duration": 2402,
   "published": "20260820",
@@ -189587,6 +191071,7 @@
   "pace": 133.8,
   "rare": 0.0066,
   "var": 0.6681,
+  "cl": 0.0466,
   "speech_s": 2393.6,
   "tokens": 5338,
   "kw": [
@@ -189719,17 +191204,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "dream",
+    "One decision to fight for your dream",
+    93,
+    100,
+    4.91,
+    26
+   ],
+   [
+    "person",
+    "keep grinding. Because the person who",
+    302,
+    308,
+    5.55,
+    24
+   ],
+   [
+    "lion",
+    "Lesson four, lion mentality. Lion mentality does not mean making",
+    784,
+    794,
+    4.25,
+    13
+   ],
+   [
+    "temporary",
+    "Lesson eight. Pain is temporary. This lesson is powerful because many",
+    1761,
+    1771,
+    4.48,
+    12
+   ],
+   [
+    "louder",
+    "excuses become louder. But the moment",
+    557,
+    563,
+    3.82,
+    6
+   ],
+   [
+    "quitting",
+    "because quitting does not only end the",
+    1102,
+    1107,
+    3.7,
+    5
+   ],
+   [
+    "corrects",
+    "corrects. He works when he is tired. He",
+    1335,
+    1342,
+    3.02,
+    2
+   ],
+   [
+    "tomorrow's",
+    "tomorrow's dream. At some point you must",
+    1264,
+    1272,
+    3.59,
+    1
+   ],
+   [
+    "roars",
+    "not roar loudly. His discipline roars",
+    932,
+    939,
+    2.91,
+    1
+   ],
+   [
+    "revises",
+    "revises. He practices. He corrects mistakes. He wakes up with a plan. He",
+    1611,
+    1622,
+    2.35,
+    1
+   ],
+   [
+    "doubter",
+    "sometimes the loudest doubter is not",
+    717,
+    722,
+    2.07,
+    1
+   ]
+  ],
+  "voc": 0.035391566265060244,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to talk about a topic that can wake up something powerful inside you. Kill your excuses. This is not just a motivational topic. This is a lifechanging topic because many people are not losing because they have no talent. They are not losing because they have no chance. They are not losing because they are weak. They are losing because they keep giving power to excuses. I will start tomorrow. I am too tired. I do not have time. I am not ready. People do not support me. My situation is difficult. I tried before and … Because excuses love comfort. Excuses love delay. Excuses love easy life. But the grind destroys excuses. When you grind, you are telling your excuses. You are not in control anymore. Maybe you do not feel ready. Grind. Maybe people do not believe in you. Grind. Maybe progress is slow. Grind. Maybe your first attempt failed. Grind again. Because every serious dream demands a price. And a price is not paid in words. It is paid in effort. Day after day, step after step. You do not need to be perfect. You do not need to be the most talented. You do not need to have everything figured out. But … when nobody is coming to save you. So stop saying impossible so quickly. Many things look impossible only because you have not given them enough effort yet. Many doors look closed only because you have not knocked long enough. Many dreams look far away only because you are still standing still. Believe in yourself, not in a weak way, not in an empty way. Believe in the power God has placed inside you. Believe in your ability to learn. Believe in your ability to change. Believe in your ability to fight back. Because the moment you stop believing in yourself, excuses become louder. But the … journey. But remember, the greatest revenge is not hate. The greatest revenge is becoming so strong, so focused, and so successful that your old excuses cannot even recognize you. Lesson four, lion mentality. Lion mentality does not mean making noise. It does not mean showing attitude. It does not mean thinking you are better than everyone. Real lion mentality means having a fearless mindset. It means you stop acting like a victim. It means you stop running from pressure. It means you face life with courage, hunger, and discipline. A lion does not wait for the jungle to become easy. A … far by accident. You came this far because something inside you refused to die. Maybe your progress is slow. But you are not at the starting point anymore. Maybe you are not where you want to be. But you are also not where you used to be. That matters. Do not disrespect your journey just because the result has not fully arrived yet. Many people quit just before the breakthrough. They stop because they are tired. They stop because they cannot see the result. They stop because the process is longer than they expected. But sometimes the seed is growing underground before the plant appears. … give in focus. You give it discipline. You give it your best. Not once, not for one emotional day, daily. Because the world does not reward the person who only dreams. The world rewards the person who works for the dream when nobody is watching. Imagine two people with the same goal. One person talks about success every day. He posts quotes. He tells everyone his plan. He waits for motivation but his actions are weak. The second person talks less. He wakes up early. He practices. He learns. He fails. He corrects. He works when he is tired. He improves when nobody sees him. After one year, … few people are ready to pay the price. That is where you must separate yourself. You must become serious. You must become focused. You must become disciplined. You must stop living like your dream is optional. Because your future is not built by your feelings. Your future is built by your effort. Imagine two students preparing for the same exam. One student studies only when he feels motivated. He says, \"I will do it later.\" He checks his phone again and again. He wastes time and then complains that the exam is hard. The other student also feels tired. He also has distractions. He also feels … You will not remember every uncomfortable step. But you will remember whether you gave up or continued. You will remember whether you respected your dream or betrayed it. You will remember whether you fought for your future or surrendered to excuses. That is why you must learn to handle pain. Not harmful pain. Not pain that destroys your health, but the pain of growth, the pain of discipline, the pain of change, the pain of becoming stronger. Every transformation has discomfort. A weak body feels pain when it starts training. A weak mind feels pain when it starts focusing. A lazy … You can do it. Not because it will be easy. Not because life will suddenly become perfect. Not because every person will support you. Not because you will never fall. You can do it because you are still here. You can do it because you can learn. You can do it because you can change. You can do it because you can start again. You can do it because one disciplined day can become two. Two can become 10. 10 can become a habit. And one strong habit can change the direction of your life. Many people underestimate themselves because they only look at who they are today. They forget that today's … do it because I will rise again. I can do it because excuses will not control my life anymore. And from today, prove it. Prove it with your actions. Prove it with your discipline. Prove it with your focus. Prove it with your consistency. Prove it with your comeback. Because the world does not need another person with excuses. The world needs the real you. The brave you, the disciplined you, the focused you, the powerful you, the version of you that finally stops running from your own potential. So stand up, wake up, move forward. You can do it and your future is waiting for you to prove Ite.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0592,
-  "voc": 0.0453257790368272
+  "src": "auto"
  },
  "Dk7wpCzDh2I": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:59:24+00:00",
+  "checked": "2026-11-26T21:09:59+00:00",
   "title": "Learn English While Shopping | Real-Life English Practice For Daily Confidence | Speak English ✅️",
   "duration": 2158,
   "published": "20260817",
@@ -189738,6 +191312,7 @@
   "pace": 130.4,
   "rare": 0.0137,
   "var": 0.7521,
+  "cl": 0.0302,
   "speech_s": 2148.6,
   "tokens": 4669,
   "kw": [
@@ -189886,12 +191461,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "means",
+    "Price means the cost of something.",
+    364,
+    372,
+    5.44,
+    30
+   ],
+   [
+    "price",
+    "about price. You can describe what you want. You can",
+    59,
+    67,
+    5.23,
+    30
+   ],
+   [
+    "bag",
+    "This bag is too small. This color is",
+    271,
+    275,
+    4.79,
+    15
+   ],
+   [
+    "discount",
+    "color, quality, discount, bill, payment, and delivery.",
+    66,
+    74,
+    4.35,
+    14
+   ],
+   [
+    "classroom",
+    "English classroom. The shop can become your practice place.",
+    97,
+    107,
+    4.15,
+    8
+   ],
+   [
+    "vegetables",
+    "vegetables, fruits, biscuits, juice, soap, shampoo, toothpaste.\"",
+    195,
+    203,
+    4.15,
+    7
+   ],
+   [
+    "malls",
+    "malls, supermarkets, and online shopping conversations.",
+    464,
+    474,
+    3.44,
+    4
+   ],
+   [
+    "upi",
+    "UPI means digital payment. Change means",
+    1428,
+    1434,
+    3.0,
+    4
+   ],
+   [
+    "calmness",
+    "you speak with calmness and respect.",
+    1831,
+    1838,
+    2.89,
+    1
+   ],
+   [
+    "braver",
+    "better, braver, and more natural English",
+    2142,
+    2149,
+    2.87,
+    1
+   ]
+  ],
+  "voc": 0.04226282192383887,
   "tx": "Learn English while shopping. Introduction. Hello everyone. Welcome back to this video. Today, we are going to learn a very useful and practical topic. Learn English while shopping. This topic is important because shopping is not only about buying things. Shopping is also a real-life situation where you can practice English naturally. Many English learners study grammar. They learn vocabulary. They watch many videos. But when they go outside, they still feel nervous to speak. Why? Because they do not practice English in real situations. And shopping is one of the best real situations for … remember them in real life. Why? Because they do not connect English with real situations. When you see a real object and say it's English name, your brain creates a stronger memory. The word becomes real. It is not just a word in a notebook anymore. It becomes part of your daily life. After naming things, make small sentences. Do not stop at one word. Say simple sentences like, \"This is rice. I need sugar. This shirt is blue. These shoes are expensive. This phone looks good. I want fresh vegetables. This bag is too small. This color is nice.\" These sentences are easy, but they build … conversations. Many English learners make one mistake. They learn many random words, but they do not learn situation-based words. Situation-based vocabulary means words connected to one real situation. For example, shopping words for shopping, travel words for travel, cooking words for cooking, office words for office. This is a smart way to learn English. Because your brain remembers better when words are connected to a situation. So, make a small shopping vocabulary list. Write words like price, discount, bill, cash, card, size, color, quality, quantity, offer, return, exchange, … Can I try this? Is there any discount? Can I pay by card? Repeat them many times. So, when you go to a real shop, your mouth will remember the sentences. This is how English speaking becomes natural. First, practice alone. Then use it in real life. So, the next time you go shopping, try to ask at least one question in English. Only one. That is enough for the beginning. Because one small question can build confidence. And confidence grows when you use English in real life. Tip four. Talk about price and quantity. This is one of the most useful parts of shopping English. Because when you … shops. Do not try to speak difficult English in the beginning. Use useful English because useful English gives you confidence. And confidence makes you speak more. Tip five, describe what you want to buy. This is a very important shopping skill. Sometimes you do not know the exact name of an item. Or sometimes the shopkeeper asks, \"What kind do you want?\" Then you need to describe it. Description means explaining something using simple details. You can describe size, color, shape, quality, material, price, purpose, or style. For example, instead of only saying, \"I want a bag.\" You can say, … is one of the best ways to improve your real speaking confidence. Because when you talk to a shopkeeper, you are not practicing imaginary English. You are practicing real English, real situation, real person, real response, real confidence. Many learners are afraid to speak English with strangers. They think, \"What if I make a mistake? What if my pronunciation is not perfect? What if the shopkeeper replies fast?\" But do not worry. You do not need to speak perfect English. You only need to start with simple sentences. A shop is a good place to practice because the conversation is usually … to understand payment words. You need to know how to speak at the billing counter. Many English learners feel nervous at this moment because they do not know what to say. But payment English is actually simple. You only need a few useful sentences. First, learn these words. Bill means the total amount you need to pay. Receipt means proof that you paid. Cash means paper money or coins. Card means debit card or credit card. UPI means digital payment. Change means the money you get back after paying extra. Total means the final amount. Counter means the place where you pay. Payment means the … read the description. battery camera storage, display, warranty, features, reviews, rating This builds vocabulary naturally. You can also practice comparing products. Say, this phone is cheaper. This one has a better camera. This one has more storage. This product has better reviews. This item is too expensive. This offer looks good. This is a very smart way to learn English because you are learning while doing something useful. Imagine you want to buy headphones online. You can say, I am looking for wireless headphones. This product has a good rating. The price is reasonable. The … Tip 10. Make shopping your daily English classroom. Do not think English practice happens only with books, notebooks, or classrooms. Real English practice happens in daily life. And shopping gives you many chances to practice. You can practice before shopping. You can practice during shopping. And you can practice after shopping. Before shopping, make a short English list. For example, I need rice, I need milk, I need vegetables, I need toothpaste, I need a notebook. This improves vocabulary and sentence making. During shopping, speak small sentences. For example, I am buying … not only buy things. Practice English. Name the products. Ask the price. Say the quantity. Describe what you want. Speak politely. Read online shopping words. Talk at the billing counter. And after shopping, describe your experience in English. Small daily practice can create big improvement. Your English does not grow only by watching videos. Your English grows when you use it. So turn every shopping trip into English practice. Turn every shop into a classroom. Turn every small conversation into confidence. And step by step you will become a better, braver, and more natural English speaker.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0333,
-  "voc": 0.037815126050420166
+  "src": "auto"
  },
  "J4ETWADIFYk": {
   "channel": "English Avenue",
@@ -201334,5 +202990,503 @@
   "status": "ok",
   "src": "cc",
   "voc": 0.047666335650446874
+ },
+ "gWb2HshluCw": {
+  "channel": "Bluey - Official Channel",
+  "lang": "en",
+  "checked": "2026-11-26T20:39:36+00:00",
+  "title": "1 HOUR 🎊 | Bluey Games at Nana's ☺️ 💙 | Charades + MORE 🩰 | Bluey",
+  "duration": 4016,
+  "published": "20261125",
+  "spoken": "en",
+  "spoken_v": 2,
+  "pace": 123.3,
+  "rare": 0.0544,
+  "var": 0.7891,
+  "cl": 0.0198,
+  "speech_s": 3343.2,
+  "tokens": 6872,
+  "kw": [
+   [
+    "okay",
+    ">> Okay, off you go. >> I need a tutu.",
+    19,
+    27,
+    5.06,
+    82
+   ],
+   [
+    "yeah",
+    ">> Yeah, it is. >> A car's like this.",
+    3,
+    8,
+    5.37,
+    77
+   ],
+   [
+    "yes",
+    ">> Well, yes, I guess we do.",
+    101,
+    107,
+    5.5,
+    30
+   ],
+   [
+    "come",
+    "oh, I know. Bluey bingo, come with me.",
+    81,
+    87,
+    5.78,
+    29
+   ],
+   [
+    "mate",
+    ">> Well done, mate. >> Is this Australia?",
+    1434,
+    1440,
+    4.55,
+    15
+   ],
+   [
+    "pretend",
+    ">> Ooh, pretend this is water. Yeah, and",
+    480,
+    486,
+    4.33,
+    14
+   ],
+   [
+    "horse",
+    "I'M THE LUCKIEST HORSE IN THE WORLD.",
+    719,
+    726,
+    4.76,
+    12
+   ],
+   [
+    "hang",
+    ">> Hang on. We all know that Muffin is",
+    97,
+    102,
+    4.6,
+    11
+   ],
+   [
+    "bingo",
+    "oh, I know. Bluey bingo, come with me.",
+    81,
+    87,
+    3.71,
+    50
+   ],
+   [
+    "turtle",
+    ">> Well done, Turtle Boy. >> Looks like it might rain.",
+    616,
+    624,
+    3.91,
+    9
+   ],
+   [
+    "tomato",
+    "can I have some tomato sauce, please?",
+    3932,
+    3936,
+    3.85,
+    9
+   ],
+   [
+    "monkey",
+    ">> Big blue monkey. >> Well, I rather thought we'd see more",
+    2193,
+    2202,
+    4.07,
+    8
+   ],
+   [
+    "bobo",
+    "HELP US, Nana and Bobo? >> Sure thing, Bingo. Bobo and I are good",
+    260,
+    270,
+    3.01,
+    8
+   ],
+   [
+    "ballerina",
+    ">> Ballerina. >> Hooray.",
+    13,
+    18,
+    3.1,
+    7
+   ],
+   [
+    "fluffy",
+    ">> Bingo, what's the fluffy level on this?",
+    966,
+    974,
+    3.59,
+    6
+   ],
+   [
+    "fairies",
+    ">> Look, it's a message from the fairies.",
+    3288,
+    3294,
+    3.31,
+    6
+   ],
+   [
+    "playroom",
+    "playroom. >> Yes, Small Star.",
+    369,
+    377,
+    2.55,
+    7
+   ],
+   [
+    "nippers",
+    "Nippers. Be right with you, Madam.",
+    909,
+    917,
+    2.1,
+    5
+   ],
+   [
+    "sherbet",
+    ">> WINNER GETS SHERBET. >> EAT SHERBET.",
+    3227,
+    3232,
+    2.5,
+    4
+   ],
+   [
+    "nomads",
+    ">> Grey nomads. Come on.",
+    3421,
+    3426,
+    2.98,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "thanks",
+    ">> Thanks, Nana. >>",
+    17,
+    23,
+    5.43,
+    24
+   ],
+   [
+    "dad",
+    ">> Dad, can I ever take Turtle Boy home? I",
+    677,
+    685,
+    4.95,
+    22
+   ],
+   [
+    "mum",
+    ">> Mum. >> Thanks, Nana. We'll see you next Sunday.",
+    137,
+    144,
+    4.41,
+    10
+   ],
+   [
+    "sauce",
+    "can I have some tomato sauce, please?",
+    3932,
+    3936,
+    4.3,
+    9
+   ],
+   [
+    "blah",
+    "blah blah blah skeleton blah blah blah",
+    3924,
+    3931,
+    3.88,
+    8
+   ],
+   [
+    "mud",
+    ">> I swallowed mud. What can happen?",
+    1876,
+    1881,
+    4.13,
+    6
+   ],
+   [
+    "jing",
+    "Jing jing. No one to tickle his toes. Jing jing.",
+    1119,
+    1132,
+    3.03,
+    6
+   ],
+   [
+    "sweetie",
+    ">> Oh oh, no, sweetie. We don't look at it.",
+    1216,
+    1224,
+    3.57,
+    4
+   ],
+   [
+    "wheelie",
+    ">> To the wheelie bin. >> What?",
+    438,
+    442,
+    2.69,
+    3
+   ],
+   [
+    "woop",
+    "games. Just use your fingers. Woop,",
+    3483,
+    3489,
+    2.46,
+    3
+   ]
+  ],
+  "voc": 0.06983496332518338,
+  "tx": "Give me those cards, Bluey. >> That's not a car. >> Yeah, it is. >> A car's like this. >> That's a steering wheel. >> It must be in here somewhere. >> I don't want to be a car. I want to be a >> Ballerina. >> Hooray. >> There you go, Muffin. >> Thanks, Nana. >> >> Okay, off you go. >> I need a tutu. >> Oh, um, Bluey, go and check Nana's dress-up box for a tutu. >> Okay. >> Quickly, she's going to blow a top. >> Ooh, confetti. Pirate? Princess? >> Tutu. Here's the tutu, Muffin. >> Thanks, Bluey. >> Oh, good one, girls. >> Put your leg through, Muffin. >> I'm trying. >> That's your arm. Push. … then you will never have to tidy playroom ever again. >> What? >> It's a solid plan, Small Star. >> Daddy Robot is going to throw us in the wheelie bin. >> Oh no. >> Quick, Mom, we need the sprayer. >> Catch. Syntax error. Please press play on tape. >> He's malfunctioning. >> >> Can we play with that? >> Knock yourself out. >> Ooh, pretend this is water. Yeah, and we're fish. Pretend I'm the mama fish and you're my baby fish. >> Okay. >> The cartoon dog says to put some cardboard down underneath first. >> I'm not taking advice from a cartoon dog. >> Oh, pretend this is land. >> Yeah, and … but if you talk for her, she won't find it either. >> Oh. So what should I do? >> You have to find your ears. >> They're on my head. >> Bluey. >> Okay. Is this what you had for breakfast yesterday? Baked beans on wheat toast? >> Yep. >> Bingo, what's the fluffy level on this? Hi. Thank you. And then what did you have for lunch, Mr. Heeler? >> Ah just um sour kraut. >> Excuse me? >> Sour kraut. >> Bingo, >> Fluffy Level. Now, we had dinner at Indy's house, didn't we? >> Yep. >> Can you tell us what you ate? >> Uh, I'm not sure I ate much. >> Mr. Heeler. >> Okay. I had a vegan nut roast. >> … is. This is the shortcut. >> What does this sign say? >> It says the road is only for cars that are four-wheel drives. >> Is our car four-wheel drive? >> No, it's an all-wheel drives. >> Oh. How >> many wheels have we got? >> Four. Bluey, hold on to your strawberries. >> Day 102 all crew gone. No sign of land. Supplies have run out. We're not going to make it. >> You right, Jack? >> Yes, Calypso. >> >> Cockatoos. >> >> Yeah. >> >> Kangaroo. >> Huh? Cockatoos? Cockatoos. >> Come on, come on. >> The car is definitely getting dirty. >> How good was that? >> Yeah. >> But the map has strawberry … call him? >> Major Tom? >> Hi Major Tom. Yeah, Major Tom. >> >> And they both lived happily ever after. The end. >> Much better. >> >> The ground here is more uneven than in the playground. >> Oh. >> You're right, Bluey. >> My knee. >> Give us a look. Ah yeah, okay. I'll just have to chop the leg off. >> What? You don't need two. >> The creek. >> Ooh, the creek is beautiful. >> There's a nicer bit just up this way. We used to play there when I was a kid. Let's rock hop it up. >> Yes, some of these stones are pointy. >> Just take your time and watch out for wobbly ones. >> Ah, this is a … He's a big, stinky baboon. >> Uh-huh. >> Big blue monkey. >> Well, I rather thought we'd see more movement from the animals. What a brute. Stay back, Snowdrop. >> Oi, get out, you big ape. Our businesses don't want to see you lying around all day. >> What? Monkey sweet, monkey sweet. That's it. Yes, you lazy, YOU LAZY APE. >> OH MY. >> Monkey fat butt butt. I'll scare this guy. Come on, let's go see the kookaburras. >> Come along, Snowdrop. >> Big old monkey. These kookaburras think everything is funny. >> Ooh, look at these little darlings, Snowdrop. Snowdrop? >> Snowdrop want hug. >> … >> Everyone keeps running away from me. >> Aw, no they don't. >> They do. >> Winton, well, why don't you come and see Calypso with us? Maybe she can help. >> Okay, let's keep going. >> I'll follow you. >> Oh no, the English are approaching. Archers, ready. >> Ready. >> Hold and fire. >> Sling. >> And fire. >> Sling. >> Hey, we're shooting bows and arrows at you. >> Not real ones. >> They're pretend, Will. >> We're not playing your game. We're going to see Calypso. I'm looking for the real typewriter. >> Aw. >> Please, can you pretend that they're pretend wheel? >> Oh, okay. Arrows, get … the Hey, what? Did you clean this up? >> Oh, um, yeah. >> Thanks, Bluey. Okay, let's give this another go. >> >> GO BINGO. GO BLUEY. GO GO GO. OFF THE ROPE. OFF the rope. And >> touch. >> Hey, have you kids seen my green ball? >> Look, dad. We set up an obstacle course. >> Do you want to have a go? >> Right oh. I'll race you. Where's the finish line? >> No one's racing anyone. This is just for having fun. >> Yes. >> Oh, I see. What are you doing? >> I'm doing chicken. >> Why is dad acting like a chicken? >> He's saying you're scared. >> Of chickens? >> No, racing me. Don't you kids know what … hard to run in all this stuff. >> Well, at least you didn't get dirty. >> Yeah, this doesn't really work. >> Who wants mud? >> YEAH, MUD. >> Come in the mud, Judo. >> Uh, I'm not sure this will keep mud out. >> Oh, yeah, probably not. I might just go home. >> Oh my goodness. >> Morning, Wendy. Got some dirt. >> Yes, I can see. >> Wendy, can Judo play in the dirt with us? >> Oh, well, I'm not sure. >> Please. >> Kids, don't pester. >> No, it's it's fine. Yes, Judo can play. >> What? Really? But you said I can't get dirty. >> Yes, I did, but I want you to have fun, sweetie. >> So Judo can … one. End of. >> THIS IS BEAUTIFUL. WHY DO YOU GET THE GOOD one and we get the disgusting one? >> Uh >> Looks like dad's good at telling but not good at showing. >> Please. >> No. >> That's it. I'm going to count all the times you boss us around. >> Great. Do it while you eat your sausage. >> Ah, eat your sausage. Bossing around number one. Number one. >> Don't talk with your mouth full. >> That's two. >> Oh, man. >> Oh, this is the good stuff. >> Hey. >> All right, squirts. Let's get going. >> Let's get going. That's three. >> Let's get going. That's not bossing you around. >> Yes, it is. >>",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "9vellxmJqyo": {
+  "channel": "Bluey - Official Channel",
+  "lang": "en",
+  "checked": "2026-11-26T20:39:40+00:00",
+  "title": "Every Bluey Appearance at Macy's Parade 🎈 💙 | Highlights + MORE | Bluey",
+  "duration": 524,
+  "published": "20261124",
+  "spoken": "en",
+  "spoken_v": 2,
+  "pace": 132.5,
+  "rare": 0.0569,
+  "var": 0.7948,
+  "cl": 0.0233,
+  "speech_s": 310.6,
+  "tokens": 686,
+  "kw": [
+   [
+    "happy",
+    ">> Happy Day Kevin! >>",
+    79,
+    92,
+    5.35,
+    5
+   ],
+   [
+    "everybody",
+    "liquid sunshine. Enjoy everybody and happy Thanksgiving.",
+    122,
+    128,
+    4.84,
+    5
+   ],
+   [
+    "sure",
+    ">> Make sure you pick up some beans for",
+    227,
+    233,
+    5.67,
+    4
+   ],
+   [
+    "ready",
+    ">> ARE YOU READY? >> YES.",
+    61,
+    67,
+    5.28,
+    4
+   ],
+   [
+    "fly",
+    "watching them fly it it everybody is",
+    344,
+    348,
+    4.75,
+    3
+   ],
+   [
+    "excited",
+    ">> I just couldn't be more excited doing",
+    105,
+    108,
+    4.74,
+    2
+   ],
+   [
+    "volunteers",
+    "volunteers that work throughout the day",
+    275,
+    280,
+    4.29,
+    2
+   ],
+   [
+    "parade",
+    "to take Bluey down MACY'S DAY PARADE.",
+    51,
+    58,
+    4.16,
+    10
+   ],
+   [
+    "balloon",
+    ">> Look at that balloon right there.",
+    308,
+    313,
+    3.9,
+    10
+   ],
+   [
+    "balloons",
+    ">> We are inflating all of our balloons.",
+    261,
+    266,
+    3.66,
+    6
+   ],
+   [
+    "beans",
+    ">> Make sure you pick up some beans for",
+    227,
+    233,
+    4.14,
+    2
+   ],
+   [
+    "helium",
+    "helium is flowing so that they can",
+    288,
+    292,
+    3.42,
+    3
+   ],
+   [
+    "inflate",
+    "inflate all of these balloons and make",
+    279,
+    285,
+    3.01,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "lot",
+    ">> There's a lot of pride and it's bringing",
+    340,
+    345,
+    5.61,
+    3
+   ],
+   [
+    "we're",
+    ">> We are in New York City and we're about",
+    49,
+    56,
+    5.4,
+    3
+   ],
+   [
+    "dinner",
+    "dinner, Rita. >> Where are the beans?",
+    229,
+    239,
+    4.78,
+    1
+   ],
+   [
+    "they've",
+    "think what they've done with this is",
+    154,
+    158,
+    4.76,
+    1
+   ],
+   [
+    "responsibility",
+    ">> Our responsibility is to bring the Ford",
+    285,
+    289,
+    4.75,
+    1
+   ],
+   [
+    "participating",
+    "just participating in it. >> As we learned many ago, it's not rain,",
+    112,
+    125,
+    4.19,
+    1
+   ],
+   [
+    "mixture",
+    "mixture for all the compartments. >> All right, standby.",
+    333,
+    340,
+    4.18,
+    1
+   ],
+   [
+    "34th",
+    "her way down to 34th Street.",
+    411,
+    415,
+    3.5,
+    1
+   ],
+   [
+    "mayhem",
+    ">> This is all coordinated mayhem and fun.",
+    169,
+    179,
+    3.45,
+    1
+   ],
+   [
+    "standby",
+    ">> All right, standby. Uncut.",
+    335,
+    340,
+    3.42,
+    1
+   ],
+   [
+    "uncut",
+    "Uncut. >> There's a lot of pride and it's bringing",
+    337,
+    345,
+    3.25,
+    1
+   ],
+   [
+    "inflating",
+    ">> We are inflating all of our balloons.",
+    261,
+    266,
+    2.79,
+    1
+   ],
+   [
+    "woohoo",
+    ">> WOOHOO! >> HAPPY THANKSGIVING, EVERYBODY.",
+    512,
+    518,
+    2.78,
+    1
+   ]
+  ],
+  "voc": 0.061224489795918366,
+  "tx": "From BBC Studios and Ludo Studios, LET'S HEAR IT FOR BLUEY! >> >> BLUEY! BLUEY! >> I love Bluey more than the kids. >> We love Bluey! >> >> We are in New York City and we're about to take Bluey down MACY'S DAY PARADE. >> >> ARE YOU READY? >> YES. >> OKAY, GO! >> I love Bluey. Watch it all the time. >> Happy Day Kevin! >> >> I just couldn't be more excited doing this in one of the most incredible cities in the world. >> The reaction of the kids is something that makes this day even better than just participating in it. >> As we learned many ago, it's not rain, liquid sunshine. Enjoy everybody and happy Thanksgiving. >> >> It's just amazing. I think Bluey's such an iconic character to have an Australian representation here today and chasing the Keepy Uppies is brilliant. I think what they've done with this is fantastic. >> >> This is all coordinated mayhem and fun. >> I've seen it from the curb for 60 years. This is my first year and I'm loving it. >> Awesome. >> I can't wait to start it. >> >> Make sure you pick up some beans for dinner, Rita. >> Where are the beans? >> This is my bucket list I didn't EVEN KNOW WAS ON IT. THIS IS THE BEST. HAPPY THANKSGIVING EVERYBODY. >> We are inflating all of our balloons. There are 42 balloons in this year's parade lineup. Bluey is right behind us. We're so excited that she's back in the parade. >> 1 2 3 >> It takes us about 100 inflation team volunteers that work throughout the day today, the day before the parade to inflate all of these balloons and make sure they're ready for tomorrow morning. >> Our responsibility is to bring the Ford trucks in to help make sure that helium is flowing so that they can complete their job and make this parade successful. >> Red is on. >> On site I've got approximately 600,000 standard cubic feet which is enough to fill half a million Mylar party balloons. >> You are good to go. >> Look at that balloon right there. >> Yeah, it's Bluey. >> eyes over there and then there's going to be the tail. >> Stretch out the leg. >> We are getting ready to inflate Keepy Uppy. >> Quarter. >> It is a balloon balloon a balloon balloon. >> It'll take about 45 minutes to inflate Bluey. They're going to make sure that they have the proper air and helium mixture for all the compartments. >> All right, standby. Uncut. >> There's a lot of pride and it's bringing joy to everybody and and watching them fly it it everybody is just in awe. >> Our balloons are the best in the world. Takes a lot of precision, a lot of engineering to get them to fly just how they want them to fly. >> 2 minutes and 45 seconds of air into body continue bubbles helium into body. >> What do you think of Bluey? >> Bluey is such a fan favorite. I'm so happy that we were able to get Keepy Uppy balloon in with Bluey as well. People go crazy whenever they see Bluey on the parade route. I can't wait to see her make her way down Central Park West and enjoy the entire parade. >> Well, I got up at 4:00. I pilot this balloon. I have to walk 2 and 1/2 miles backwards. They have to walk 2 and 1/2 miles forward. >> The Bluey balloon is one of our giant character balloons in the parade and that takes about 90 balloon handlers to march down the street with Bluey and get her way down to 34th Street. >> Being on the ground gives you a completely different perspective of the parade and just how much goes on to make this happen and just to be a part of it is just awesome. >> All of those people are volunteers that join us just for Thanksgiving morning, just to spend their holidays with us and help us march to make Thanksgiving Day Parade so special for everyone who's tuning in to watch. >> We're going to do some warm-ups to get us ready to rock and roll. As you can start with rolling your arms >> >> She's an icon. Couldn't ask for a better balloon. >> Best Thursday ever. >> THIS IS THE BEST. >> WOOHOO! >> HAPPY THANKSGIVING, EVERYBODY. >> >> BOEING! >>",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
  }
 }

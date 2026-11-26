@@ -115222,41 +115222,42 @@
  "nWC1TulOPJ4": {
   "channel": "Bluey - Official Channel",
   "lang": "en",
-  "checked": "2026-11-09T03:56:15+00:00",
+  "checked": "2026-11-26T20:57:02+00:00",
   "title": "Let's Play…Seesaw 💙 | Bluey and Bingo Playtime | Bluey",
   "duration": 135,
   "published": "20261002",
   "spoken": "en",
   "spoken_v": 2,
-  "pace": 103.7,
-  "rare": 0.1076,
-  "var": 0.748,
-  "speech_s": 129.0,
-  "tokens": 223,
+  "pace": 104.4,
+  "rare": 0.1096,
+  "var": 0.7335,
+  "cl": 0.0091,
+  "speech_s": 125.9,
+  "tokens": 219,
   "kw": [
    [
     "come",
-    ">> Come on, Bingo. Let's get this big",
+    "Come on, Bingo. Let's get this big",
     24,
-    31,
+    30,
     5.78,
     6
    ],
    [
-    "let's",
-    ">> Let's play seesaw. Do do do do do do Here comes Dad.",
-    5,
-    14,
-    5.16,
-    5
-   ],
-   [
     "heavy",
-    ">> She's so heavy. >> She's heavy as a whale.",
+    "He's so heavy. >> He's just heavy as a whale.",
     30,
     39,
     4.96,
     5
+   ],
+   [
+    "let's",
+    ">> Let's play seesaw. >> Here comes Dad.",
+    5,
+    16,
+    5.16,
+    4
    ],
    [
     "spot",
@@ -115268,9 +115269,9 @@
    ],
    [
     "pet",
-    ">> Oh, no. Let's go pet rock.",
+    ">> Oh no, Dad's got a pet rock.",
     87,
-    92,
+    93,
     4.45,
     3
    ],
@@ -115278,16 +115279,98 @@
     "seesaw",
     "seesaw today? >> Let's play seesaw.",
     4,
-    14,
+    10,
     2.47,
     7
    ]
   ],
-  "tx": "Bluey! >> Hey Bluey, do you want to play on the seesaw today? >> Let's play seesaw. Do do do do do do Here comes Dad. >> That's not your spot. That's Bingo's spot. >> Yeah, Dad. That's my spot. >> No. This is my spot now. >> Get off, Dad. >> Come on, Bingo. Let's get this big meanie off. >> She's so heavy. >> She's heavy as a whale. >> Ooh, that tickles. >> Come sit with me, Bingo. >> Okay. >> Let's seesaw Dad off the seesaw. We'll show him. It's still not moving. We're not heavy enough. >> Bluey, we need your help. >> Let's seesaw him off the seesaw. One up. It's still not moving. We're still not heavy enough. >> I'm a big fella. >> What's happening over here? >> Coco, we need your help. >> Climb up here and sit with us. >> Here I come, Bluey. We're still not heavy enough. >> Haha, you'll never get me off this seesaw. >> Oh, no. Let's go pet rock. >> Yeah, she's in the imaginary world, isn't >> We need another kid. >> My pet rock has another pet rock. >> >> This is outrageous. >> What are we going to do? >> We've run out of kids. >> I got idea. Here I come. >> Come on, Pom Pom. >> Come on, Arriane. Have a small but hearty breeze. >> Do it, Pom Pom. >> Okay. >> Hooray! >> What's going on here? >> It's working. >> It's going TO WORK. >> HOORAY! >> >> OH. >> >> KIDS.",
+  "kx": [
+   [
+    "enough",
+    "We're not heavy enough. Bluey, we need your help. Let's seesaw",
+    50,
+    62,
+    5.54,
+    3
+   ],
+   [
+    "we're",
+    "We're not heavy enough. Bluey, we need your help. Let's seesaw",
+    50,
+    62,
+    5.4,
+    3
+   ],
+   [
+    "breathe",
+    "ready to have a small but hardy breathe.",
+    110,
+    116,
+    4.26,
+    1
+   ],
+   [
+    "whale",
+    ">> He's just heavy as a whale.",
+    32,
+    39,
+    3.98,
+    1
+   ],
+   [
+    "hardy",
+    "ready to have a small but hardy breathe.",
+    110,
+    116,
+    3.86,
+    1
+   ],
+   [
+    "dad's",
+    ">> Oh no, Dad's got a pet rock.",
+    87,
+    93,
+    3.8,
+    1
+   ],
+   [
+    "outrageous",
+    ">> This is outrageous. >> What are we going to do?",
+    98,
+    104,
+    3.77,
+    1
+   ],
+   [
+    "fella",
+    "I'm a big fella. >> What's happening over here?",
+    67,
+    75,
+    3.49,
+    1
+   ],
+   [
+    "tickles",
+    ">> Ooh, that tickles. Come sit with me, Bingo.",
+    35,
+    41,
+    2.86,
+    1
+   ],
+   [
+    "meanie",
+    "meanie off. He's so heavy.",
+    27,
+    36,
+    2.47,
+    1
+   ]
+  ],
+  "voc": 0.07894736842105263,
+  "tx": "Hey Bluey, do you want to play on the seesaw today? >> Let's play seesaw. >> Here comes Dad. >> That's not your spot. That's Bingo's spot. >> Yeah, Dad. That's my spot. >> Not. This is my spot now. Get off, Dad. Come on, Bingo. Let's get this big meanie off. He's so heavy. >> He's just heavy as a whale. >> Ooh, that tickles. Come sit with me, Bingo. >> Okay. >> Let's seesaw Dad off the seesaw. We'll show him. It's still not moving. We're not heavy enough. Bluey, we need your help. Let's seesaw him off the seesaw. Come on up. >> It's still not moving. We're still not heavy enough. I'm a big fella. >> What's happening over here? >> Coco, we need your help. >> Climb up here and sit with us. >> Here I come, Bluey. We're still not heavy enough. >> Ha ha. You'll never get me off this seesaw. >> Oh no, Dad's got a pet rock. >> Yeah, his name is Ronnie. >> We need another kid. >> My pet rock has another pet rock. >> >> This is outrageous. >> What are we going to do? >> Run out of kid. >> I got idea. Pom Pom. >> Here I come. Come on, Pom Pom. Pom are ready to have a small but hardy breathe. >> Do it, Pom Pom. >> Okay. >> Hooray. >> What's going on here? >> It's working. IT'S GOING TO WORK. >> HOORAY. >> >> KIDS.",
+  "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.009,
-  "voc": 0.08163265306122448
+  "src": "auto"
  },
  "miQD4ZYOXUs": {
   "channel": "VOA Learning English",
@@ -136324,7 +136407,7 @@
  "mYNQ40vUsvU": {
   "channel": "EnglishSponge",
   "lang": "en",
-  "checked": "2026-11-12T03:35:59+00:00",
+  "checked": "2026-11-26T20:55:49+00:00",
   "title": "Learn British English With This Podcast - British Gameshows (With: @FinTeachesEnglish)",
   "duration": 1686,
   "published": "20260817",
@@ -136333,6 +136416,7 @@
   "pace": 165.3,
   "rare": 0.0157,
   "var": 0.7258,
+  "cl": 0.0455,
   "speech_s": 1684.8,
   "tokens": 4641,
   "kw": [
@@ -136497,12 +136581,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "kind",
+    "British like these kind of game shows",
+    83,
+    90,
+    5.45,
+    19
+   ],
+   [
+    "watch",
+    "things that British people watch probably are game shows. Game shows,",
+    70,
+    79,
+    5.34,
+    19
+   ],
+   [
+    "comedy",
+    "it's like a a comedy version where",
+    382,
+    389,
+    4.51,
+    6
+   ],
+   [
+    "correct",
+    "not that was not correct at all.",
+    546,
+    550,
+    4.79,
+    5
+   ],
+   [
+    "millionaire",
+    "millionaire. And it's it's quite funny.",
+    584,
+    592,
+    3.73,
+    5
+   ],
+   [
+    "newer",
+    "intelligence than like the newer ones.",
+    1482,
+    1487,
+    3.94,
+    3
+   ],
+   [
+    "buzzer",
+    "guess. They have to press the buzzer and",
+    189,
+    196,
+    3.4,
+    4
+   ],
+   [
+    "brow",
+    "high brow show, right? Like it's kind of",
+    1073,
+    1079,
+    3.55,
+    3
+   ],
+   [
+    "classically",
+    "game shows which are really classically",
+    81,
+    87,
+    2.99,
+    2
+   ],
+   [
+    "idiom",
+    "uh, a catchphrase or an idiom, something",
+    183,
+    190,
+    2.97,
+    1
+   ]
+  ],
+  "voc": 0.03143418467583497,
   "tx": "Hello and welcome to yet another episode of the British Culture Podcast where we talk about all things British basically. Today I'm joined by a very special guest. This is Finn. Finn, if you would like to just introduce yourself quickly to everybody. Hi everyone. Hi James. Yeah, thank you for having me on on the show. It's quite nice being called a special guest, but yeah, I'm Finn. I'm an English teacher, also from the UK. I was just saying to James before we started how I'm from Cornwall and right now we're having a heat wave, so it's quite crazy down here. There's a lot of chaos going on, … the buzzer so that they can guess the catchphrase. So, it might be something for for some reason this one always stays in my memory, but it was a pub crawl and the animation was literally a a building that was obviously a pub crawling along the ground. So, things like that. But James, did you say you weren't too familiar with that one? Like, >> like I vaguely remember this show um like when I was a kid. I think it was still on. I don't I don't Is it still running now or is it just an old game show? >> I'm not sure. I remember it was still running. Oh, to be fair, that was probably like 10 … I guess it's like a spin-off in a way, but it's like a a comedy version where comedians and um other celebrities go on and it's it's all about comedy. Uh they they still do everything, but the focus is on comedy rather than um actually trying to be serious and and and winning it. So, I don't think I've ever watched the the real or the original Countdown. Um, >> you've you've never ever watched you've never watched the original countdown. Is that right? >> I've I've it's been on in the background, but I've never sat down in order to watch it, if that makes sense. So, I have seen it, but I I … thank you so much. Um, can you think of any other game shows which are typically British? What else comes to mind for you? >> So, so one that I saw yesterday, I wasn't watching it. I was waiting for the football to uh to to be played. >> Um we were in the pub and on the screen they were showing who Wants to be a millionaire. And it's it's quite funny. The modern one has Jeremy Clarkson as the host who I I would have never thought in a million years would be the host of Who Wants to be a Millionaire. Um but it was him and the contestant was Joe Mara. the ex rugby player who has a very unique … remove the other two answers, the ones B and C, the ones they knew were not the correct answer. Now they're left with the only two they weren't sure about. And um and of course sometimes people use the phone a friend lifeline and they call up their friend and their friend tells them what they think is the answer and then it turns out to be the wrong answer. And you can always imagine that must be like really uh it must be really awkward when they return home and see their friend again and their friend gave the wrong answer on the phone. And the last one is usually the best lifeline in … in that show. And the funny thing is is that the contestants will always have like these little superstitions, these little theories about what they think is in each box. They'll be like, \"I think that box has a has 10 p in it, and I think that box has 100,000 in it because that's the number 22, and 22 is my lucky number, so I'm going to choose 22.\" And they all have these little theories about like which box they should choose. And really, it's just a game of luck, basically. Um, moving on, Finn, because obviously you haven't watched Deal or No Deal. Have you ever watched University … when I watch University Challenge out of like 60 or 70 questions I may know the answer to like two or three like three would be a good day for me. Uh it's very high brow I would say about University Challenge. Yeah. Um I guess I will ask you then as you may not have watched some of these shows, what which show which game shows do you watch? Like what is a game show that you actually watch um fairly regularly would you say? >> Um well there is the chase as well. That's one that I haven't mentioned yet. That is one that I've seen a few times where they have different oh I forget what they … You don't look forward to it in your day. It's just if it's on you'll you'll get distracted by it and you'll happily kind of follow along and participate. >> It's really we are discovering with this podcast that we don't people I don't know if people really love game shows. It's just the kind of thing that's just like mildly mildly interesting and if it's on you might watch like 10 minutes of it and that's it. That actually reminds me of another game show that's on. Have you ever watched Tipping Point before or No. >> Oh. Um, is that the one where they have the the coins that are like … maybe nowadays it's not as popular and I think some of the comedy spin-offs and kind of comedy panel shows are a little bit more popular. >> Yeah, I think the older game shows definitely required a bit more intelligence than like the newer ones. Like University Challenge has been around for a long time and Countdown is also quite old and like these game shows required they were genuinely like a test of people intell people's intelligence and you're right that it was very civilized you know like the entire atmosphere of the show would be like welcome to University Challenge. Um here we have … seem to be in different parts of the country nearly every week. So, um if you like to see the countryside a lot, then yeah, I would recommend uh recommend my channel. >> Nice. Yeah, I'll I'll put the link to Finn's channel in the description and I'll put a comment under the video with the link as well. Um, guys, thank you very much for watching the British Culture Podcast. We do have a lot more episodes of this podcast on Englishsponge.com where you can watch them all. There's lots of extra episodes that you can watch. And thank you for watching, guys. I will see you in the next one. Bye-bye.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0512,
-  "voc": 0.025500910746812388
+  "src": "auto"
  },
  "48koH0rtk_Y": {
   "channel": "Dreaming English",
@@ -142525,7 +142690,7 @@
  "vgpkSmgHUI8": {
   "channel": "EnglishSponge",
   "lang": "en",
-  "checked": "2026-11-12T05:16:29+00:00",
+  "checked": "2026-11-26T21:08:01+00:00",
   "title": "Learn The Past Tense In English With This Easy Story | Comprehensible Input A2 Beginner",
   "duration": 603,
   "published": "20260810",
@@ -142534,6 +142699,7 @@
   "pace": 72.1,
   "rare": 0.0465,
   "var": 0.5232,
+  "cl": 0.0155,
   "speech_s": 590.3,
   "tokens": 709,
   "kw": [
@@ -142634,12 +142800,85 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "queen",
+    "the queen. Princess Rose lived with the queen.",
+    200,
+    211,
+    4.86,
+    5
+   ],
+   [
+    "smart",
+    "smart. Princess Rose was very, very smart.",
+    151,
+    165,
+    4.83,
+    5
+   ],
+   [
+    "hide",
+    "\"Let's play hide and seek.\" Snowflake jumped",
+    388,
+    397,
+    4.54,
+    3
+   ],
+   [
+    "guitar",
+    "Next, she played the guitar. She played the guitar.",
+    327,
+    336,
+    4.48,
+    3
+   ],
+   [
+    "witches",
+    "Princess Rose was scared of witches.",
+    128,
+    140,
+    3.61,
+    2
+   ],
+   [
+    "hug",
+    "The princess gave Snowflake a big hug",
+    370,
+    377,
+    4.09,
+    1
+   ],
+   [
+    "paw",
+    "Outside, small paw prints were on the",
+    563,
+    571,
+    3.48,
+    1
+   ],
+   [
+    "nodded",
+    "Snowflake nodded. The princess",
+    415,
+    424,
+    3.41,
+    1
+   ],
+   [
+    "paintbrush",
+    "threw her paintbrush on the floor.",
+    322,
+    332,
+    2.62,
+    1
+   ]
+  ],
+  "voc": 0.020440251572327043,
   "tx": "Hello everybody. My name is Sam. If you want to learn the past tense in English, then this is the video for you. This is the start of my new series, Once Upon a Time. >> >> Once Upon a Time, there was a princess called Rose. Rose was 10 years old. Rose had long blonde hair, and Rose had nice blue eyes. She had long blonde hair, and nice blue eyes. Rose was a princess. Rose was very short. She was not tall. Rose was very short. And Rose was not strong. Rose was not strong. Rose was scared, >> >> was scared of many things. Rose was scared of the dark. She was scared of the dark. Rose was scared of loud noises. Rose was scared of loud noises. Rose was scared of the forest. Rose was scared of the forest. But, Princess Rose was scared of one thing more than anything else. Princess Rose was scared of witches. She was scared of witches. So, Princess Rose was scared of many, many things. But, Princess Rose was also very, very smart. Princess Rose was very, very smart. Princess Rose lived in a big castle. She lived in a big castle. Princess Rose lived with her dad, the king. The king was big. The king was big. The king was strong. The king was handsome. The king was big. He was strong. And he was very handsome. Princess Rose also lived with her mom, the queen. Princess Rose lived with the queen. The queen was smart. The queen was very smart. She was kind. She was very kind. And she was also very beautiful. The queen was smart, kind, and beautiful. The princess also lived with her best friend, Snowflake. Snowflake was a cute white cat. Snowflake was funny. >> >> Snowflake was very funny. Snowflake was brave. Snowflake was very brave. And Snowflake was naughty. Snowflake was naughty. The princess loved Snowflake. And Snowflake loved the princess. One day, the princess was in her room. >> >> \"I'm bored.\" she thought. So, the princess picked up a book. She picked up a book and she started to read. >> >> \"This is boring.\" she said. And she threw the book on the floor. Next, she painted. >> >> \"This is boring.\" she said. And she threw her paintbrush on the floor. Next, she played the guitar. She played the guitar. \"This is boring.\" she said. And she threw the guitar away. >> >> \"I am bored, I don't know what to do.\" said the princess. \"Hmm, I know. Snowflake, where are you?\" she shouted. Snowflake ran into the room and jumped on the princess. The princess gave Snowflake a big hug and said, \"I I love you, Snowflake.\" \"Snowflake, I am bored.\" she said. \"Let's play hide and seek.\" Snowflake jumped up and down. Snowflake loved to play hide and seek. \"I will count to 10.\" said the princess. \"You need to hide and I will seek.\" Snowflake nodded. The princess turned around and she counted to 10. \"1 2 3 4 5 6 7 8 9 10. Ready or not, here I come.\" The princess started looking. First, she looked in the bedroom. \"Where are you, Snowflake?\" she said. She looked behind the bed. Snowflake was not there. She looked in the wardrobe. Snowflake was not there. Then she looked in the bathroom. Hmm. Where are you, Snowflake? She said. She looked in the clothes basket. Snowflake was not there. She looked in the shower. She looked in the shower. Snowflake was not there. Hmm. Next, she looked in the kitchen. Hmm. Where are you, Snowflake? She said. She looked under the table. Snowflake was not there. She looked in the pot. Snowflake was not there. Wow, you picked a really good spot, Snowflake. Hmm, I wonder where you are. This is hard. Where are you, Snowflake? shouted the princess. She felt >> >> worried. She walked into the main hall of the house. The big front doors were open. Outside, small paw prints were on the ground. Oh, no, said the princess. Snowflake was gone. Thank you so much for watching part one of my new series Once Upon a Time. If you want to watch part two, it is available right now for free on the English Sponge website. Thank you for watching, and I will see you in the next video. Bye.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0155,
-  "voc": 0.020440251572327043
+  "src": "auto"
  },
  "751y03NGCK8": {
   "channel": "Bluey - Official Channel",
@@ -150817,7 +151056,7 @@
  "xBp8mByTDDw": {
   "channel": "smile English stories",
   "lang": "en",
-  "checked": "2026-11-12T15:40:40+00:00",
+  "checked": "2026-11-26T21:08:08+00:00",
   "title": "An object?  No!  You should know this famous British _____?",
   "duration": 693,
   "published": "20210130",
@@ -150826,6 +151065,7 @@
   "pace": 104.6,
   "rare": 0.0235,
   "var": 0.6639,
+  "cl": 0.0541,
   "speech_s": 562.0,
   "tokens": 980,
   "kw": [
@@ -150950,12 +151190,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "number",
+    "...Hedgie question number one is... ...is it a bird?",
+    103,
+    110,
+    5.62,
+    8
+   ],
+   [
+    "another",
+    "he wanted to do another game... ...and this time he wants to win!",
+    20,
+    27,
+    5.74,
+    5
+   ],
+   [
+    "hello",
+    "Hello. So this is the second guessing game video.",
+    0,
+    7,
+    4.72,
+    2
+   ],
+   [
+    "bird",
+    "...is it a bird? Okay, so it's not another bird.",
+    107,
+    114,
+    4.63,
+    2
+   ],
+   [
+    "skilled",
+    "Is he a skilled archer, like my husband?",
+    409,
+    415,
+    4.13,
+    2
+   ],
+   [
+    "legends",
+    "And if you like legends, you could try one",
+    680,
+    686,
+    4.07,
+    2
+   ],
+   [
+    "contexts",
+    "where you can listen to English in lots of different contexts.",
+    34,
+    40,
+    3.58,
+    1
+   ],
+   [
+    "folklore",
+    "He was a character from English folklore, a long time ago.",
+    479,
+    486,
+    3.49,
+    1
+   ],
+   [
+    "robin's",
+    "the sheriff, the famous bad Sheriff of Nottingham had taken all Robin's land away,",
+    533,
+    546,
+    2.8,
+    1
+   ],
+   [
+    "bagpipes",
+    "...is this person from Scotland, does he play the bagpipes?!",
+    318,
+    327,
+    2.74,
+    1
+   ]
+  ],
+  "voc": 0.028169014084507043,
   "tx": "Hello. So this is the second guessing game video. If you missed the first one, you can find it here. In fact because Hedgie lost the first game, (he didn't win), he wanted to do another game... ...and this time he wants to win! If you're new to my channel, hello, I'm Rachel and welcome to smile English stories where you can listen to English in lots of different contexts. If I speak too quickly, or too slowly, you can change the speed in YouTube. So remember... ...Hedgie is thinking of someone, or somewhere, or something. We have a maximum of 20 questions we can ask Hedgie, and our objective, our aim, our target, is to guess who or what Hedgie is thinking about. If we guess in more than 20 questions, then Hedgie wins. If we guess in less than 20 questions then we win! Okay, so let's do another one. So my first question... ...Hedgie question number one is... ...is it a bird? Okay, so it's not another bird. Is it a person? Aha! It's a person. So my third question (because that was my second question), number three is... Is it a real person? Er... did the person, or is the person living today, or in the past? Ah, so it's not a real person, it's an imaginary person. Okay... and question number four, my fourth question... Hedgie is the imaginary person a woman, you know a lady, a female? Ah. No, it's not a woman, it's not a female, so it's probably a man, a male. Okay, so my fifth question is... ...number five is... Is this character, this imaginary person, in an animated film? (you know like a Disney or a cartoon) Ah cool! Okay, so my sixth question is... ...is this imaginary person only in an animated film? Ah so not only in an animated film? So it could be in a book? Okay, so question number seven, my seventh question... ...is this character in a book tOO? Ah so the character is in a book too. And question number eight... ...is this character in a film, with real people? Ah that's interesting... ...but it's complicated, it's quite difficult! I wonder where this person is from? Hedgie, question number nine... (can you just hold this thank you!) Um, is this person from America? Ah, not from America. Okay (if you could just hold this!) Is this person from the United Kingdom (so that's England Scotland Northern Ireland or Wales)? Yes. Okay. And my next question is... ...is this person from Great Britain (so that's all of that but not Northern Ireland). Yes. Okay, so the person must be from Scotland, from England or from Wales! So Hedgie, my next question... ...is this person from Scotland, does he play the bagpipes?! No okay. 12 questions already. Er... so question number 13, the 13th question... ...is this person from England, like me? Ah okay. This person is from England. Is this person a detective? It's not a detective so it's not Sherlock Holmes? No, okay. Er... ...does this person live in a city, like London or Manchester or Liverpool? No, not in a city. Okay, does this person live in a forest, like the robin? Aha! Like the robin in the forest... ...ah wait a minute... robin... robin... robin... I have an idea! Is this person rich? (does this person have a lot of money?) No? No. Okay, so this person is poor. And Hedgie, is this person good at archery? Is he a skilled archer, like my husband? Yeah... and Hedgie, in a Disney film is this person represented by a fox? And is this person in love... ...what? Stop? You think that's more than 20 questions? Ah okay, you won this one! But can I finish? Okay so is this person in love with a beautiful young woman? Okay, I think it's Robin Hood! So, who was Robin Hood? (Robin Hood not Robin Wood) Well I think you know. He was a character from English folklore, a long time ago. But there are different stories. ALL the stories say he took money. He took money from the rich people to give to the poor people. And ALL the stories say he was good at archery, he was a skilled archer. But NOT all the stories say that he fought in the crusades. SOME stories say he fought abroad (in another country) in the crusades, and when he came back to England, the sheriff, the famous bad Sheriff of Nottingham had taken all Robin's land away, so Robin got a little angry and went to live in the forest near Nottingham (Sherwood Forest). And today, there is a statue of Robin Hood in front of the castle in Nottingham. And NOT all the stories, but some of the stories say that Robin was in love with a young lady whose name was Marian, Maid Marian. And why is it Robin Hood, and not Robin Wood? Why is it Hood like the Little Red Riding Hood? Is it because Robin Hood traditionally puts a hood over his head? Or is it because the word \"hood\" in English is always associated with a thief, or a villain? That's a different story! When I got married, the theme of our wedding was Robin Hood... ...not because my husband is a thief, but because he's quite good at archery... ...and because me of course, I was the maid, Maid Marian from England! And we even had a Robin Hood wedding cake with a Robin Hood Castle. Did he have a castle? Maybe that was the Sheriff of Nottingham?! So I hope you enjoyed these two video games. If you did, let me know because I could make another one! And if you like legends, you could try one of the other videos in my Stories and Legends playlist. Take care and see you next time!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0541,
-  "voc": 0.028169014084507043
+  "src": "cc"
  },
  "en3jSxXwPpE": {
   "channel": "Sesame Street",
@@ -151047,7 +151368,7 @@
  "Xgm7Nv9vEv8": {
   "channel": "Pokémon Kids TV",
   "lang": "en",
-  "checked": "2026-11-12T15:41:27+00:00",
+  "checked": "2026-11-26T21:09:25+00:00",
   "title": "Gengar's Mischeivous Shadow Game | Pokémon Fun Video | Pokémon Kids TV​",
   "duration": 296,
   "published": "20260731",
@@ -151056,6 +151377,7 @@
   "pace": 67.0,
   "rare": 0.0642,
   "var": 0.8068,
+  "cl": 0.0528,
   "speech_s": 237.4,
   "tokens": 265,
   "kw": [
@@ -151172,12 +151494,53 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "play",
+    "come to play. Let's peek outside",
+    38,
+    44,
+    5.61,
+    5
+   ],
+   [
+    "everyone",
+    "everyone. Look oh look, who is there? Someone has",
+    32,
+    42,
+    5.47,
+    5
+   ],
+   [
+    "hearts",
+    "our hearts. >> I like to eat eat eat",
+    274,
+    282,
+    4.44,
+    1
+   ],
+   [
+    "zoom",
+    "mysterious shadows go zoom, zoom. >>",
+    177,
+    187,
+    3.83,
+    2
+   ],
+   [
+    "shadows",
+    "mysterious shadows go zoom, zoom. >>",
+    177,
+    187,
+    4.06,
+    1
+   ]
+  ],
+  "voc": 0.11646586345381527,
   "tx": "POKéMON KIDS TV >> >> All alone again today in the forest manor. Gengar is waiting for everyone. Look oh look, who is there? Someone has come to play. Let's peek outside the window. >> >> A mysterious shadow goes whoosh whoosh whoosh. >> >> Can you guess who? >> Three, two, one. >> >> It's Pikachu. >> >> So lively today in the forest manor. Gengar is waiting for everyone. Look oh look, who is there? Someone has come to play. Let's peek outside the window. >> >> A mysterious shadow goes wiggle wiggle. Who is it this time? >> >> Three, two, one. >> >> It's Eevee. >> So lively today in the forest manner. Gengar is waiting for everyone. Look, oh look, who is there? Someone has come to play. Let's peek outside the window. A mysterious shadow goes swing, >> >> swing. >> >> Guess who's here. Three, >> >> two, one. >> >> It's Mimikyu. >> >> So lively today in the forest manner. Gengar is waiting for everyone. Look, oh look, who is there? Someone has come to play. Let's peek outside the window. Two mysterious shadows go zoom, zoom. >> >> Who's coming next, I wonder. Three, two, >> >> one. It's Gastly and Chandelure. So lively today in the forest manner. Gengar is waiting for everyone. Look, oh look, who is there? Someone has come to play. Let's peek outside the window. A mysterious shadow goes Huh? Who's that? >> >> Do you know who? Three, two, >> >> one. 2 1 >> >> It's Ditto. >> So lively today in the forest manor. Gengar is waiting for you. >> >> With all our Pokémon friends, Pokémon friends, we'll evolve with the power we share in our hearts. >> I like to eat eat eat >> >> apples and bananas. I like to",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0528,
-  "voc": 0.11646586345381527
+  "src": "auto"
  },
  "qG23u6_W98Y": {
   "channel": "Learn English with Bob the Canadian",
@@ -171773,7 +172136,7 @@
  "I81WiH9STmE": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-13T03:59:06+00:00",
+  "checked": "2026-11-26T20:52:40+00:00",
   "title": "A monster bride: Frankenstein episode 7",
   "duration": 452,
   "published": "20241019",
@@ -171782,6 +172145,7 @@
   "pace": 120.0,
   "rare": 0.0067,
   "var": 0.7969,
+  "cl": 0.0295,
   "speech_s": 372.4,
   "tokens": 745,
   "kw": [
@@ -171882,17 +172246,74 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "come",
+    "long ago before I had to come after it and arrived here in the Arctic. The monster I built...",
+    38,
+    47,
+    5.78,
+    3
+   ],
+   [
+    "away",
+    "me he would go away and harm nobody else if I built him a bride. Should I do it?",
+    72,
+    85,
+    5.62,
+    3
+   ],
+   [
+    "arrived",
+    "long ago before I had to come after it and arrived here in the Arctic. The monster I built...",
+    38,
+    47,
+    4.79,
+    1
+   ],
+   [
+    "dangerous",
+    "allow this to happen! It was too dangerous. I hadn't finished the work yet but I couldn't",
+    392,
+    402,
+    4.79,
+    1
+   ],
+   [
+    "hut",
+    "He wanted to have his answer when we sat by the fire in his hut in the mountains.",
+    84,
+    90,
+    3.84,
+    2
+   ],
+   [
+    "collecting",
+    "Well, I promised Henry a good time and the Creature a bride. I started collecting",
+    351,
+    359,
+    4.18,
+    1
+   ],
+   [
+    "nanny",
+    "his nanny was executed for the crime. During that conversation years ago, the monster told",
+    64,
+    73,
+    3.59,
+    1
+   ]
+  ],
+  "voc": 0.008333333333333333,
   "tx": "This is a podcast from BBC Learning English dot com. For more information, visit our website. Frankenstein, episode seven. Scientist Viktor Frankenstein is to build a bride for the Creature. Hello. I'm scientist Viktor Frankenstein. You've been listening to the story the Creature told me long ago before I had to come after it and arrived here in the Arctic. The monster I built... I used to care about my science more than anything and I thought I could control nature. I've paid a high price for that. The Creature murdered my young brother and his nanny was executed for the crime. During that conversation years ago, the monster told me he would go away and harm nobody else if I built him a bride. Should I do it? He wanted to have his answer when we sat by the fire in his hut in the mountains. So, what do you say? If you give me a bride, you'll never see or hear from me again. Alright. I'll do it. I'll watch your progress and when my bride is ready to come to life, I'll be there. For some reason I didn't want to start my work. I didn't want to do it in my father's house in Geneva, for sure. I didn't want him to find out about the monster. I was worried... and adding to that, the monster had warned me he would watch me at a distance... My love, Elizabeth, noticed I wasn't happy. You've been so quiet lately. We used to talk a lot. What's happening? Don't you like me any more? Don't be silly! Of course I like you. I... I'll even keep the promise I made to my mother before she died, who was very fond of you. How about marriage? Will you marry me? Marriage?! Mr Frankenstein, did you hear what your son Viktor has just said? He asked me to marry him! That's fantastic news! My late wife and I used to watch you both playing together as children and we thought you were made for each other. You'll make a wonderful couple! Indeed, father. But first... well... I need to spend some time in England. England, my son?! Yes, father... there are some new scientific discoveries there which I must see for myself. And, well... this could be my last chance to travel and see the world before I settle down. We can have our wedding as soon as I come back, my dear Elizabeth. We understand, son. But well... you'll need a good friend to take care of you, won't you? I'll ask Henry, your best friend, to go with you. Henry? Yes. That's a great idea. Henry loves travelling and will surely agree to go! My plan was to go to England and build a bride for the Creature. How could I keep my work a secret from Henry? We used to have fun travelling together but this time it was different. We stopped in many cities, and when we reached Edinburgh I had to leave him behind... That's a great restaurant, don't you think so? Yes. I suppose so. What's going on with you, Viktor? I'm not used to seeing you this sad. What's the problem? I think I need some time alone to think... To think? Yes. I need to think about my life. Let's make a deal: I'll go away for a month or two on my own and when I'm back everything will be what it used to be: we'll have a lot of fun together! I promise! OK. I'll be waiting for you. Well, I promised Henry a good time and the Creature a bride. I started collecting material and rented a hut far away in the Orkney Islands. But I had mixed feelings. It had been three years since I built the Creature - and what a big mistake that was. What if the monsters didn't like each other? And if the female creature started killing people too? And... and if... if they had babies and there were hundreds of monsters! I couldn't allow this to happen! It was too dangerous. I hadn't finished the work yet but I couldn't give life to another monster. So I just destroyed it! It was over! No more bride. But what about the Creature? Was I going to pay a heavy price for destroying the female monster - the friend the monster was expecting to be happy with? I'll tell you next time.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0295,
-  "voc": 0.008333333333333333
+  "src": "cc"
  },
  "NATpJSabALo": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-13T03:59:10+00:00",
+  "checked": "2026-11-26T21:05:21+00:00",
   "title": "Jail time: Frankenstein episode 8",
   "duration": 414,
   "published": "20241022",
@@ -171901,6 +172322,7 @@
   "pace": 119.0,
   "rare": 0.0191,
   "var": 0.7871,
+  "cl": 0.0206,
   "speech_s": 342.8,
   "tokens": 680,
   "kw": [
@@ -171993,12 +172415,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "he's",
+    "him there. Take good care of this young man. He's been saying he's murdered someone called William, and Justine…",
+    321,
+    329,
+    5.6,
+    3
+   ],
+   [
+    "let",
+    "What a crowd! Come on, let me through, let me through. Go home! Aren't you fishermen? Go",
+    226,
+    233,
+    5.6,
+    3
+   ],
+   [
+    "destroyed",
+    "and destroyed it! But the monster saw me doing it through a window. It was angry! Yes, very angry!",
+    79,
+    90,
+    4.61,
+    2
+   ],
+   [
+    "upset",
+    "Was he going to kill me? Elizabeth would be very upset! A dead husband on her wedding",
+    150,
+    157,
+    4.61,
+    2
+   ],
+   [
+    "nightmare",
+    "this nightmare would end? Sometimes I thought I should tell my father about the Creature,",
+    354,
+    362,
+    4.19,
+    1
+   ],
+   [
+    "chemicals",
+    "mixing chemicals, sewing flesh and bone together. Then I thought it was madness",
+    71,
+    80,
+    4.17,
+    1
+   ],
+   [
+    "podcast",
+    "This is a podcast from BBC Learning English dot com. For more information, visit our website.",
+    0,
+    8,
+    4.15,
+    1
+   ],
+   [
+    "happily",
+    "think you'll get married and live happily with a wife while I am all alone and sad?",
+    114,
+    124,
+    4.11,
+    1
+   ],
+   [
+    "morgue",
+    "of the morgue. I had a fever and started saying that I was the murderer of William,",
+    288,
+    295,
+    3.08,
+    1
+   ],
+   [
+    "creature's",
+    "body parts of what would be the Creature's bride and put them in a basket. I dragged",
+    163,
+    172,
+    2.53,
+    1
+   ]
+  ],
+  "voc": 0.015527950310559006,
   "tx": "This is a podcast from BBC Learning English dot com. For more information, visit our website. Frankenstein, episode eight. Scientist Viktor Frankenstein is accused of murder. Hello. I'm scientist Viktor Frankenstein, here in the Arctic trying to find a monster I've created. I've been having all this trouble with one monster. And to think that I was about to create another one! The Creature threatened me and my family if I didn't make it a bride. Well, it said it felt lonely. There I was on a Scottish island far away working on it: mixing chemicals, sewing flesh and bone together. Then I thought it was madness and destroyed it! But the monster saw me doing it through a window. It was angry! Yes, very angry! How could you break your promise? You have just destroyed my only hope of happiness! Do you think you'll get married and live happily with a wife while I am all alone and sad? Go to hell, you horrible Creature! I'll have my revenge. I'll be with you on your wedding night! The threat kept ringing in my ears. Was he going to kill me? Elizabeth would be very upset! A dead husband on her wedding night! These thoughts were going round and round in my head when I collected the body parts of what would be the Creature's bride and put them in a basket. I dragged the heavy basket to my boat and I left the island. I threw the basket into the sea. All of a sudden I felt better. I thought I had done the right thing. And I found myself thinking of my bright future with Elizabeth, my love, and my father, and my good friend Henry. \"He must be having fun at this very moment\", I thought. I really wanted to join him. But the strong winds took me to a small village on the Irish coast and something strange happened… What a crowd! Come on, let me through, let me through. Go home! Aren't you fishermen? Go fishing! Let the police do their duty! What's going on? You come with me, sir. You have to explain what happened to the man whose body we found. A body? Whose body? A body was found on the beach. The man had been killed. A fisherman says he saw a boat with a single man in it at a short distance from the beach. That boat looked like yours… We'll take you to see the body, Sir. And so they did. Who lost their life? It was Henry! My best friend was killed! I was very upset and I can't remember much of what happened next. I'm told I had to be carried out of the morgue. I had a fever and started saying that I was the murderer of William, Justine and Henry. I was arrested. When they found a letter from home in my pocket, they got in touch with my father in Geneva. He came to help me until I was allowed to go back home. Well, Mr Alphonse Frankenstein, an important piece of information was brought to me. Your son was at the Orkney Islands at the hour the body of Mr Henry Clerval was found. Another fisherman saw him there. Take good care of this young man. He's been saying he's murdered someone called William, and Justine… He's sick. But we'll go back to Geneva where Elizabeth, his bride, is waiting for him. He'll get better. My father was very happy but I was not. Henry was certainly killed by the monster and who knew where this nightmare would end? Sometimes I thought I should tell my father about the Creature, but he might think I was mad. Who'd believe a Creature can be brought back from the dead? Would you? Nobody knew my life was under threat. The Creature could be watching me… I'll tell you about my arrival to Geneva and my meeting with Elizabeth next time. Would we really get married or would the monster kill again? I was afraid, very afraid…",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0206,
-  "voc": 0.015527950310559006
+  "src": "cc"
  },
  "jGu_Fc72jRU": {
   "channel": "Dreaming English",
@@ -172186,7 +172689,7 @@
  "hpVAlmHqxto": {
   "channel": "BBC Learning English",
   "lang": "en",
-  "checked": "2026-11-13T04:06:28+00:00",
+  "checked": "2026-11-26T21:05:24+00:00",
   "title": "The wedding night: Frankenstein episode 9",
   "duration": 423,
   "published": "20241026",
@@ -172195,6 +172698,7 @@
   "pace": 107.8,
   "rare": 0.0144,
   "var": 0.7889,
+  "cl": 0.0225,
   "speech_s": 346.8,
   "tokens": 623,
   "kw": [
@@ -172287,12 +172791,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "didn't",
+    "I didn't give the monster a bride, so it said it would destroy my life. It killed",
+    153,
+    161,
+    5.68,
+    3
+   ],
+   [
+    "put",
+    "I'll put a bullet in your head! I hate you! I hate you with all",
+    303,
+    313,
+    5.66,
+    3
+   ],
+   [
+    "guests",
+    "Let me check the guest list again… How many guests have we planned earlier, Mr Frankenstein?",
+    58,
+    66,
+    4.42,
+    2
+   ],
+   [
+    "scientist",
+    "Frankenstein, episode nine. Scientist Viktor Frankenstein gets married.",
+    8,
+    15,
+    4.21,
+    2
+   ],
+   [
+    "bottles",
+    "How much wine shall we order? Are two hundred bottles too many?",
+    77,
+    83,
+    4.19,
+    1
+   ],
+   [
+    "beloved",
+    "My dear Elizabeth! My beloved wife… is dead!!",
+    284,
+    300,
+    4.17,
+    1
+   ],
+   [
+    "podcast",
+    "This is a podcast from BBC Learning English dot com. For more information, visit our website.",
+    0,
+    9,
+    4.15,
+    1
+   ],
+   [
+    "banquet",
+    "Let's have a banquet and plenty of good wine!",
+    75,
+    78,
+    3.59,
+    1
+   ],
+   [
+    "nanny",
+    "my best friend Henry, my brother William and his nanny Justine was blamed for the",
+    160,
+    166,
+    3.59,
+    1
+   ],
+   [
+    "heartbroken",
+    "my wife was killed on our wedding night, he fell ill and died heartbroken. And all because of me!",
+    347,
+    360,
+    3.41,
+    1
+   ]
+  ],
+  "voc": 0.01877133105802048,
   "tx": "This is a podcast from BBC Learning English dot com. For more information, visit our website. Frankenstein, episode nine. Scientist Viktor Frankenstein gets married. Hello, I'm scientist Viktor Frankenstein. And I'm here in the Arctic, the end of the Earth, because I'm looking for the Creature which destroyed my happiness. The last time I was happy was… with Elizabeth. Our wedding day was coming… Let me check the guest list again… How many guests have we planned earlier, Mr Frankenstein? There were 60, the last time I counted, dear Elizabeth. Is the house big enough for all our guests? Yes, it is, my darling. Invite more people. Let's have a banquet and plenty of good wine! How much wine shall we order? Are two hundred bottles too many? No. I'll pay for it all gladly. Nothing is too expensive for my dear son and his bride. Let's all drink and be merry! It will be a wedding nobody will ever forget! Are you happy, my dear? Oh, I'm very happy! It's very cold here! Well, Elizabeth and I got married on a warm day. There was a lot of catching up with friends. Elizabeth looked so pretty. But I was worried. I got used to walking around with a gun in my pocket. The threat by the Creature was very much alive in my mind… I'll have my revenge. I'll be with you on your wedding night! I didn't give the monster a bride, so it said it would destroy my life. It killed my best friend Henry, my brother William and his nanny Justine was blamed for the boy's murder… and now it was coming after me. This was in my thoughts when we arrived for our honeymoon at the house we rented by the side of Lake Como in Italy. It was raining heavily… It's a pity we have to close the windows. The view of the lake is fantastic! Yes. But I'm sure the rain won't last. Why don't you go to the bedroom, my darling? Aren't you coming? What are you looking for, dear Viktor? I just want to make sure that everything is alright and we are safe. I'll go as soon as I do that, my sweet Elizabeth. Are you expecting someone? No, darling wife. Go, and I'll join you as soon as I can. I don't want anything to worry you. I was indeed expecting something to happen: a battle to the death between me and the Creature. I didn't care if it was too strong for me. I had enough hate in my heart to defeat the monster. I just didn't want Elizabeth to see the fight. I left the house with my gun and decided to walk around to check if it was there. But all of a sudden, a scream… Ahhhhhhh! Elizabeth! Elizabeth! My dear Elizabeth! My beloved wife… is dead!! You horrible Creature! I'll kill you! I'll put a bullet in your head! I hate you! I hate you with all my heart! My Elizabeth! William, Justine, Henry and now Elizabeth. There was nothing else for me and… for my father. As soon as he heard that my wife was killed on our wedding night, he fell ill and died heartbroken. And all because of me! I'd thought about telling Elizabeth that I had created a monster. But there wasn't enough time… After her death I tried to warn others and I was put in a hospital for a while. Nobody believed me… So I decided to put an end to the problem I had created and find the creature at once. The world is not big enough for both of us. I'm still looking for it. I might find it next time.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0225,
-  "voc": 0.01877133105802048
+  "src": "cc"
  },
  "bZ8G_ZrKehw": {
   "channel": "English Comprehensible Input for ESL Beginners",
@@ -198852,7 +199437,7 @@
  "1fnME_AKOQo": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:01+00:00",
+  "checked": "2026-11-26T20:57:38+00:00",
   "title": "How to Defeat Your Enemy Without Fighting | Graded Reader | Learn English Through Motivation ✅️",
   "duration": 2941,
   "published": "20260828",
@@ -198861,6 +199446,7 @@
   "pace": 129.0,
   "rare": 0.0092,
   "var": 0.6998,
+  "cl": 0.0442,
   "speech_s": 2933.0,
   "tokens": 6307,
   "kw": [
@@ -199001,17 +199587,122 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "peace",
+    "Real strength is choosing peace when",
+    38,
+    45,
+    5.02,
+    35
+   ],
+   [
+    "person",
+    "enemy is to become a person they can no",
+    148,
+    153,
+    5.55,
+    31
+   ],
+   [
+    "revenge",
+    "is not about revenge. This video is not",
+    19,
+    26,
+    4.28,
+    17
+   ],
+   [
+    "allies",
+    "forgiveness, motivation, allies, self-care, and personal growth. Because",
+    217,
+    226,
+    4.27,
+    16
+   ],
+   [
+    "ally",
+    "with allies. An ally is a person who",
+    1999,
+    2006,
+    4.1,
+    8
+   ],
+   [
+    "ego",
+    "because someone hurt their ego. They",
+    169,
+    175,
+    4.02,
+    7
+   ],
+   [
+    "hateful",
+    "will not become hateful. You betrayed",
+    1617,
+    1624,
+    3.52,
+    3
+   ],
+   [
+    "bitterness",
+    "Set boundaries before bitterness grows. Bitterness means deep anger that stays",
+    920,
+    931,
+    3.45,
+    3
+   ],
+   [
+    "foolishly",
+    "avoid reacting foolishly. If the enemy",
+    2202,
+    2208,
+    2.96,
+    1
+   ],
+   [
+    "disrespected",
+    "disrespected me, but I will not destroy",
+    1624,
+    1631,
+    2.93,
+    1
+   ],
+   [
+    "gossiping",
+    "It does not mean gossiping. It does not",
+    2167,
+    2173,
+    2.79,
+    1
+   ],
+   [
+    "replaying",
+    "When you keep replaying what someone",
+    1534,
+    1540,
+    2.75,
+    1
+   ],
+   [
+    "outgrow",
+    "not hurt them. You simply outgrow them.",
+    2720,
+    2728,
+    2.67,
+    1
+   ]
+  ],
+  "voc": 0.03794253056040641,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to talk about a very powerful and life-changing topic. How to defeat your enemy without fighting. But first understand this clearly. This video is not about violence. This video is not about revenge. This video is not about hurting someone, insulting someone, or destroying someone's life. That is not real strength. Real strength is different. Real strength is staying calm when someone wants to make you angry. Real strength is choosing peace when someone wants to pull you into drama. Real strength is protecting your … blindly, you protect your dignity. When someone wants drama and you choose silence, you show maturity. Calmness is not weakness. Calmness is power under control. Think of fire. Fire can burn everything when it is uncontrolled. But when fire is controlled, it can cook food, give warmth, and create energy. Your anger is the same. Uncontrolled anger can destroy your peace. Controlled anger can become discipline, focus, and motivation. So when your enemy tries to disturb you, pause. Take a breath. Do not answer immediately. Do not type a message in anger. Do not shout just because they shouted. … Sometimes the best proof is your result. Do not waste your sword on every shadow. A shadow can look scary, but it cannot stop you. In the same way, many people look powerful because they make noise. But noise is not power. Real power is direction. Real power is focus. Real power is self-control. Real power is knowing where your energy should go. If you spend all your energy fighting enemies, what energy will you have left for your dreams? If you spend every day replying to negativity, when will you build your future? If your mind is always busy with enemies, how will you hear your own … want to defeat your enemy without fighting, protect your space. Do not give them free access to your mind. Do not let them enter your peace without permission. Do not allow disrespect to become normal. Set the line, hold the line, respect yourself because the person who protects their peace becomes very difficult to defeat. Way four, look them into their eyes. This does not mean stare with anger. This does not mean threaten them. This does not mean show attitude. It means stand with confidence. It means do not look weak in front of people who want to scare you. It means do not hide your … are better than this kind of behavior. Instead of saying you only want to hurt me, you can say I believe we can handle this with more respect. Instead of saying you are a bad person, you can say this situation does not need to become ugly. We can choose maturity. These sentences are powerful because they do not attack the person's identity. They challenge the behavior. There is a big difference. When you attack someone's identity, they become defensive. Defensive means ready to protect themselves. They may say, \"No, I am not wrong. You are the problem. You started it.\" But when you speak to … want you to become like them. They want their hate to enter your heart. They want their cruelty to change your character. They want their negativity to make you negative. But forgiveness protects you from becoming the thing that hurt you. Forgiveness says, \"You hurt me, but I will not become hateful. You betrayed me, but I will not lose my goodness. You disrespected me, but I will not destroy my soul for revenge.\" This is powerful, but forgiveness takes time. Do not force yourself to forgive in one day. Do not pretend you are healed when you are not. Do not say I forgive you only … not be your destination. Destination means the place you want to reach. If you make revenge your destination, you may reach success but still feel empty. But if you make growth your destination, success will come with peace. So when they hate you, let it teach you. Let it push you. Let it wake you up. Let it remind you. I cannot waste my life. I cannot remain weak. I cannot stay stuck. I must grow. I must become better. Use pain as power. Use criticism as correction. Use rejection as redirection. Use disrespect as discipline. But do not become cruel. Do not become arrogant. Do not become the … more bitter. Because sometimes you do not defeat your enemy by standing alone. Sometimes you defeat them by standing with the right people. Way nine, offer empathy. Empathy means the ability to understand another person's feelings. Now, this may sound strange. You may ask, why should I show empathy to my enemy? Because empathy gives you power, not power over them, power over yourself. When you understand why someone behaves badly, you stop taking everything personally. You begin to see that many people attack others because they are broken inside. Some people are jealous. Some people are … becomes your freedom. Many people spend too much time watching their enemies. What are they saying? What are they doing? Who are they with? Are they talking about me? Do they regret hurting me? Do they see my progress? But my friend, this is still giving them power. Stop watching them. Start building yourself. Build your mind, build your body, build your skills, build your confidence, build your character, build your finances, build your peace, build your future, build a life. so meaningful that their name no longer controls your emotions. That is real freedom. Living your best life does … to see it. Sometimes your silence is the answer. Sometimes your growth is the answer. Sometimes your peace is the answer. Sometimes your success is the answer. And sometimes your best life is the loudest reply. So do not waste your life in revenge. Do not let hate live inside your heart. Do not become the same as the people who hurt you. Rise above them. grow beyond them, heal from them, learn from them, and become so strong, peaceful, and focused that their negativity cannot touch you anymore. That is real victory. That is real power. That is how you defeat your enemy without fighting.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0414,
-  "voc": 0.03861003861003861
+  "src": "auto"
  },
  "gyXgGr2Dm78": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:59:16+00:00",
+  "checked": "2026-11-26T21:09:52+00:00",
   "title": "The Magic Book Summary | The Power Of Gratitude To Change Your Life | Learn English Every Day",
   "duration": 4275,
   "published": "20260819",
@@ -199020,6 +199711,7 @@
   "pace": 128.0,
   "rare": 0.0084,
   "var": 0.7266,
+  "cl": 0.0353,
   "speech_s": 4266.0,
   "tokens": 9100,
   "kw": [
@@ -199168,12 +199860,109 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "money",
+    "about stress. They think about money.",
+    50,
+    57,
+    5.64,
+    50
+   ],
+   [
+    "mind",
+    "their mind becomes negative. Their life",
+    65,
+    72,
+    5.41,
+    46
+   ],
+   [
+    "peaceful",
+    "begin to feel more peaceful. You begin",
+    102,
+    109,
+    4.28,
+    18
+   ],
+   [
+    "appreciate",
+    "to appreciate small things. You begin to",
+    105,
+    112,
+    4.74,
+    15
+   ],
+   [
+    "blessing",
+    "gratitude, blessing, thankfulness, relationship, health, money, positivity,",
+    207,
+    217,
+    4.06,
+    12
+   ],
+   [
+    "meaningful",
+    "meaningful book summaries like this, please like this video, subscribe to the",
+    219,
+    228,
+    4.14,
+    10
+   ],
+   [
+    "magically",
+    "magically heal your relationships. The 15th lesson is magically heal your",
+    2052,
+    2061,
+    3.36,
+    3
+   ],
+   [
+    "appreciating",
+    "moment worth appreciating. A peaceful cup of tea. A message from someone, a",
+    436,
+    446,
+    3.23,
+    3
+   ],
+   [
+    "calms",
+    "Then take one step. Gratitude calms the",
+    2577,
+    2584,
+    2.98,
+    1
+   ],
+   [
+    "relaxes",
+    "becomes warm, your body relaxes, your mind becomes softer, your energy",
+    2735,
+    2747,
+    2.92,
+    1
+   ],
+   [
+    "tiredness",
+    "tiredness. They complain about small problems.",
+    631,
+    638,
+    2.92,
+    1
+   ],
+   [
+    "carelessly",
+    "stop wasting it carelessly. You start",
+    1287,
+    1294,
+    2.9,
+    1
+   ]
+  ],
+  "voc": 0.05256790938084241,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to learn a very powerful and life-changing book summary, The Magic by Rhonda Barn. This book is about the power of gratitude. Gratitude means thankfulness. But in this book, gratitude is not just a polite word. It is not only saying thank you. It is a way of seeing life. It is a way of changing your thoughts. It is a way of changing your feelings. It is a way of changing your energy. And slowly it becomes a way of changing your life. Many people wake up every day and immediately focus on what is missing. They think … The magic rock is really about reflection. It teaches you not to sleep only with stress. It teaches you to close the day with thankfulness because when gratitude becomes your last thought, your heart sleeps with more peace. Lesson three, magical relationships. This lesson teaches that gratitude can heal the way we see people. Relationships are one of the most important parts of life. But relationships also become heavy when we focus only on mistakes. We remember what people did wrong. We remember what they did not give. We remember their weaknesses. We remember their bad words. And … need rest. But even while moving towards something better, gratitude helps you use your current season wisely. Instead of saying only I hate this, you can ask what is this teaching me? What skill am I building here? How can I become better through this? What opportunity do I have today? This mindset is powerful because when you work with gratitude, your energy becomes different. You become more focused. You complain less. You learn more. You notice opportunities faster. Work becomes more than survival. It becomes training. So whatever work is in your life right now, find one thing to … your own happiness. Gratitude can also bless others. When you appreciate someone, you remind them that their effort matters. Many people are tired. Many people feel invisible. Many people work hard but rarely hear kind words. Your gratitude can become light for them. This practice also changes you. You become less selfish. You become more aware. You stop thinking only about yourself. You begin to notice how connected life is. No one lives completely alone. Every day we receive help from people, nature, society, and life itself. So say thank you more often. Thank the person who helps you. … thankful and do nothing. Gratitude gives you energy. But action gives your dream direction. If you want a better life, be thankful for the vision. Then work for it, prepare for it, learn for it, grow for it, become ready for it. A dream becomes stronger when your heart believes and your actions support that belief. So use gratitude to keep your dream alive. Do not only worry about your future. Thank God, life or the universe for the possibility of growth. Then take the next honest step. Lesson 14. Have a magical day. This lesson teaches us to plan the day with gratitude before the day … In the book, the magic check is used as a practice to imagine receiving money for something you need or want. The deeper meaning is not only about writing an amount. The deeper meaning is about changing your mindset from fear to possibility. Many people think about money only with stress. They feel blocked. They feel unlucky. They feel like nothing can improve. But this practice asks you to open your mind and feel grateful for financial improvement before it fully arrives. This can motivate you. It can make you more hopeful. It can help you think creatively. It can help you notice … in their heads thinking, planning, worrying, comparing, judging. But gratitude brings you back to the heart. And the heart is where peace begins. So do not only say thank you, feel thank you. Let gratitude move from your words into your heart. Because when gratitude reaches the heart, life begins to feel more beautiful from inside. Lesson 21, magnificent outcomes. This lesson teaches us to expect good results with gratitude. Many people start something with fear. Before a meeting, they worry. Before an exam, they panic. Before a conversation, they imagine problems. Before a new opportunity, … less selfish. It reminds you that life is not only about your problems, your dreams, and your needs. Other people are also fighting silent battles. Other people also need kindness. Other people also need blessings. The magic wand teaches compassion. And compassion is one of the most beautiful forms of gratitude. Because when you are grateful, you do not only want good things for yourself, you also want goodness for others. This lesson is powerful because it changes the heart. Instead of becoming jealous, you bless. Instead of becoming bitter, you pray. Instead of becoming cold, you care. And … 28. Remember the magic. This is the final main practice of the book. It teaches us that gratitude should not be practiced only for 28 days and then forgotten. Gratitude should become a way of life. Many people start good habits with excitement. They do something for a few days, they feel better, then they stop. And slowly the old mindset comes back. The book reminds us, do not forget the magic. Do not forget gratitude. Do not forget the power of thankfulness. Do not forget how your heart feels when you appreciate life. Remember the magic when life is good. Remember the magic when life is … for what you have. Thank people while they are still with you. Thank your body while it is still working. Thank your breath while it is still flowing. Thank your lessons even when they were painful. Thank your journey even when it was not easy because a grateful heart is never truly poor. A grateful heart can find beauty in simple things. A grateful heart can turn ordinary days into meaningful days. And a grateful heart can create a peaceful, positive and powerful life. So remember the magic, practice gratitude, live with thankfulness, and let your life become a daily prayer of appreciation.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0343,
-  "voc": 0.04926108374384237
+  "src": "auto"
  },
  "knZDWpPUP5k": {
   "channel": "English Avenue",
@@ -213168,5 +213957,479 @@
   "status": "ok",
   "src": "auto",
   "voc": 0.06384976525821597
+ },
+ "Ri-FuFz0Nes": {
+  "channel": "Sesame Street",
+  "lang": "en",
+  "checked": "2026-11-26T20:39:44+00:00",
+  "title": "Abby’s Magical Beasties ✨ | Sesame Street Full Episode",
+  "duration": 1604,
+  "published": "20261125",
+  "spoken": "",
+  "spoken_v": 2,
+  "pace": 127.1,
+  "rare": 0.1424,
+  "var": 0.7515,
+  "cl": 0.0189,
+  "speech_s": 1524.7,
+  "tokens": 3231,
+  "kw": [
+   [
+    "yeah",
+    "- Mm-hmm. - Yeah. - You know what? I think I'm gonna call you Bunberry.",
+    129,
+    135,
+    5.37,
+    37
+   ],
+   [
+    "music",
+    "(playful music) (Elmo laughing)",
+    0,
+    6,
+    5.52,
+    34
+   ],
+   [
+    "okay",
+    "Okay. (clears throat) Zippity-zap! (wand zapping)",
+    87,
+    92,
+    5.06,
+    23
+   ],
+   [
+    "come",
+    "Come on, you. - Bubble Bug must have left the garden by mistake.",
+    219,
+    224,
+    5.78,
+    16
+   ],
+   [
+    "bug",
+    "(Bubble Bug burbling) Whoa. I guess Bubble Bug likes your bright light, too.",
+    141,
+    149,
+    4.2,
+    30
+   ],
+   [
+    "laughing",
+    "(Elmo laughing) (bright music) (Tango barks)",
+    4,
+    8,
+    4.61,
+    17
+   ],
+   [
+    "letters",
+    "(laughs) All the letters of the alphabet!",
+    1300,
+    1306,
+    4.66,
+    16
+   ],
+   [
+    "bright",
+    "(bright music) (Tango barks) (Tango yelps) - Huh?",
+    5,
+    9,
+    4.61,
+    14
+   ],
+   [
+    "bubble",
+    "(Bubble Bug burbling) Whoa. I guess Bubble Bug likes your bright light, too.",
+    141,
+    149,
+    4.16,
+    29
+   ],
+   [
+    "whoa",
+    "(laughs) Whoa! (Grover, Abby laughing)",
+    78,
+    82,
+    3.82,
+    27
+   ],
+   [
+    "alphabet",
+    "(laughs) All the letters of the alphabet!",
+    1300,
+    1306,
+    3.7,
+    17
+   ],
+   [
+    "cookie",
+    "Grover, Cookie Monster, um, can you stay here",
+    250,
+    254,
+    4.07,
+    11
+   ],
+   [
+    "chuckles",
+    "- Ah. (Elmo chuckles) ♪ On my way to where the air is sweet ♪",
+    12,
+    19,
+    3.09,
+    22
+   ],
+   [
+    "barks",
+    "(bright music) (Tango barks) (Tango yelps) - Huh?",
+    5,
+    9,
+    3.01,
+    15
+   ],
+   [
+    "wiggle",
+    "I could do a Wand Wiggle to wiggle out my big feelings.",
+    563,
+    567,
+    3.26,
+    13
+   ],
+   [
+    "upbeat",
+    "(Bubble Bug burbling) (upbeat music) - (gasps) Whoa!",
+    319,
+    332,
+    3.53,
+    10
+   ],
+   [
+    "gasps",
+    "(magical music) - (gasps) Hello, there!",
+    34,
+    37,
+    2.92,
+    13
+   ],
+   [
+    "chuckling",
+    "(Bunberry chuckling) (Abby gasps) (Abby gasps)",
+    603,
+    608,
+    2.83,
+    13
+   ],
+   [
+    "cranberries",
+    "Oh. - Out of cranberries? Well, uh, where we get more cranberries?",
+    1049,
+    1055,
+    2.79,
+    11
+   ],
+   [
+    "panting",
+    "(both panting) (bright music) - And now we are near.",
+    747,
+    753,
+    2.99,
+    8
+   ]
+  ],
+  "kx": [
+   [
+    "find",
+    "I gotta find out what you eat, what you like to do,",
+    97,
+    101,
+    5.76,
+    15
+   ],
+   [
+    "hey",
+    "(unicorn grunting) Hey! Hey! (Abby yelps, then chuckles)",
+    108,
+    117,
+    5.12,
+    15
+   ],
+   [
+    "magic",
+    "♪ Magic friends, Beasties ♪ ♪ Magic friends ♪",
+    161,
+    165,
+    4.76,
+    8
+   ],
+   [
+    "garden",
+    "I'm taking care of my magical Fairy Garden",
+    38,
+    42,
+    4.77,
+    7
+   ],
+   [
+    "laughs",
+    "(laughs) Whoa! (Grover, Abby laughing)",
+    78,
+    82,
+    4.08,
+    6
+   ],
+   [
+    "hmm",
+    "(energy pulsing) - Hmm? (gasps) I've never seen anything like that",
+    72,
+    77,
+    4.11,
+    5
+   ],
+   [
+    "barking",
+    "(Tango barking) - (chuckles) Come on, Tango.",
+    694,
+    698,
+    3.51,
+    7
+   ],
+   [
+    "muffin",
+    "I'd like a cranberry muffin with breakfast.",
+    1001,
+    1005,
+    3.35,
+    7
+   ],
+   [
+    "chiming",
+    "(Tango howls) (Megaphone chiming) - Whoa! Elmo's getting a call on the...",
+    720,
+    726,
+    2.73,
+    7
+   ],
+   [
+    "elmo's",
+    "Elmo's meeting Grover for a playdate.",
+    703,
+    707,
+    2.16,
+    7
+   ]
+  ],
+  "voc": 0.14349011588275393,
+  "tx": "(playful music) (Elmo laughing) (bright music) (Tango barks) (Tango yelps) - Huh? ♪ Sunny day, sweeping the clouds away ♪ - Ah. (Elmo chuckles) ♪ On my way to where the air is sweet ♪ ♪ Can you tell me how to get ♪ ♪ How to get to Sesame Street? ♪ ♪ How to get to Sesame Street? ♪ (Grover yells) ♪ How to get to Sesame Street? ♪ - Sesame Street! (Tango howls) (magical music) - (gasps) Hello, there! You're just in time. I'm taking care of my magical Fairy Garden here on Sesame Street with the help of my Magical Beasties! (Abby laughing) - Wow. (laughing) - My Fairy Garden is home to lots of … sparkly slime ♪ ♪ They are magical ♪ ♪ Mysterious ♪ ♪ Some fluffy ♪ ♪ Oh, how glorious ♪ (Abby exclaims) ♪ But the fun is always double ♪ ♪ With a Bubble Bug who bubbles ♪ Yeah! ♪ Meet my Beasties, Beasties ♪ ♪ Magic friends, Beasties, Beasties ♪ ♪ Magic friends, Beasties ♪ Magic friends! Magic Beastie roll call! Zeeplings! Sparkly Snail! Your turn, Bunberry! (rock guitar riff playing) Bring us home, Bubble Bug! (Bubble Bug burbling) (music ends suddenly) Uh, where's Bubble Bug? (sanitation worker humming) - Hey, this doesn't belong here. Come on, you. - Bubble Bug must have left the … - Oh yeah. (Oscar chuckles) - Uh- Hold on. What are all these bubbles doing here? This isn't a bubble bath, it's a smelly cheese bath. - Oh dear. - Hey, hey! (Bubble Bug yelps) - Come on, Bubble Bug might be near the streetlamp. - It's a bright light. - Yeah. (all yelping, laughing) - Whoa! What- What's the big idea, huh? - Oh, I'm sorry, Oscar, that's Bunberry. He loves surprises. - Yeah. (chuckles) - Well, surprise! You're interrupting a stinky cheese bath. - Yeah, that is not a surprise. - Ooh! - Whew! But we need your help. Have you seen a magic bug fly by? - Yeah, there was a bug … gone and it's totally dark. There's no way Bubble Bug's gonna be able to find its way home. (groans) I give up. Maybe helping Beasties is a fairy job that's just too hard for me. Oh. - Come on. (sad music) Mm, what's going on, Abby? - Oh, Bubble Bug is out there somewhere, lost and alone. (sniffles) Oh. And I'm supposed to help the Beasties and keep them safe. And I couldn't do it. (sniffles) I feel so discouraged. - Elmo understands, but- - Yeah? - You want to know what Elmo thinks? - Mm-hmm. - Well, Elmo thinks that Abby's trying really hard to help all the Beasties, and she's doing a … Thanks for reminding me to help myself. - Oh. - I love you, Elmo. (Elmo clicks tongue) (Abby giggles) - Elmo loves you, too, Abby. - Oh, Abby! Oh. - Abby! Oh, you're back. - These Zeeplings have eaten the fridge, our spaghetti, my forklift, and they are still hungry! - Ah. I think they just need some dessert. - (chuckling) Ah. - Oh, dessert! - Here you go. - (sighs) Why didn't me think of that? (Abby laughing) (Cookie Monster sighing) (upbeat music) - Hi, everyone. - Zippity-zap! - Om nom, nom. Nommy, nom. - Super Grover! (Bert groaning) - Ding! - Hey. - Oh yeah! (all giggling) (Tango … music) (Tango sniffing) - Oh. Elmo and Tango are never gonna find Grover for our playdate. (door clicks open) (Tango barking) - Hey, puppy. Whoa! Where are we going? (Tango barks) - (laughing) Elmo gets it. Tango wants Elmo and Grover to stop running. (Tango barks) 'Cause everything stops on red. See? - Elmo, I am coming! I see you! - Grover! - Whoa-oh! - No happy crowds in the hallway. - Oof! Oh! (chuckles) Green means \"go.\" (all laughing) Whoa! Whoa! - Grover! - Elmo! (groaning) Oh. - Sorry. (all panting) - Coming through! - Right this way, everyone. Down the stairs! Coming through! … - Already done? - Yeah. - Wow, that fast. (Gonger grunts, gasps) - Cookie, did you eat the cranbaberry muffin? - Is tall, fluffy cookie called a muffin? - Yes! Oh. - Then me eat cranberry muffin. (Gonger groans) Learn something new every day, huh? - Okay, let's see a minute. Egg, we need milk, we need cranbaberry. (gasps) Uh-oh! (grunts) We're all out of cranbaberries! Oh. - Out of cranberries? Well, uh, where we get more cranberries? - Oh! I'll show you! Come on! - Oh. Okay. Oh, yeah. Okay. (upbeat music) (seatbelt clicks) - To the cranberries! - To the cranbaberries! (zany music) (engine … (Gonger giggling) Me did it. Oh! - Yay! - Wow, cooking hard work. - Mm. Okay, stir 'em! (grunts) Ooh! (chuckles) ♪ Stir 'em, stir 'em ♪ Spoon into the muffin tin. Okay, put them into the oven. - Okey-dokey. Yeah! Ooh! (bell dings) Yeah! - Oh! - Cranbaberry muffins done cooking! Oh. - Mm! (smacking lips) (gong clangs) - It's ready! - Order up! - Toodle-oo! (order whizzing) - Bye-bye, muffins! - Yeah. Oh, Cookie Monster... - Yeah? - This nice for you. (Cookie Monster gasps) - Oh, thank you, Gonger! (Gonger chuckles) Mm. (chomping) (Gonger laughs) (tablet chiming) - Oh. - Thank you, … letter S. When you put letters together, you can sound them out and make all sorts of wonderful words. - C-A-T. - That spells \"cat!\" - (chuckling) Wow! Elmo loves seeing the letters of the alphabet make words. - Yeah, it's pretty A-mazing! Well, I got a word search waiting for me. I'll Z you later! - Oh! Z you later! Thank you, Smartie! (chuckling) Hey! That gives Elmo an idea! (chuckles) Let's play a game together. Yeah! Come on, come on. (Elmo chuckling) (playful music) (chalk scraping) (Elmo chuckling) Let's see how many letters we can find in this picture. Are you ready? Let's play! … it makes him want to dance! Come on! (fun, upbeat music) ♪ Happy, happy, dance, dance ♪ ♪ When we learn something new ♪ ♪ We do the Happy Dance dance ♪ Let's see your happy dance! (laughing) Yeah, cool! See you next time! Keep learning! Elmo loves you. ♪ Happy, happy, dance, dance ♪ ♪ When we learn something new ♪ ♪ We do the Happy Dance dance ♪ (laughing) Yay! (upbeat closing theme music) (Tango yelps) (Tango barks) (Grover humming) (Tango howls) (upbeat music continues) - Nom, nom. Om nommy, nom. (Elmo chuckles) - Yay! (Grover chuckling) (Abby exclaiming) (Elmo giggling) (chiming toes)",
+  "gist": "s",
+  "status": "ok",
+  "src": "cc"
+ },
+ "uUudukv3bEI": {
+  "channel": "Sesame Street",
+  "lang": "en",
+  "checked": "2026-11-26T20:39:48+00:00",
+  "title": "The Thankful Song with Elmo and Chris Pratt 🧡 🍂  | Sesame Street Songs",
+  "duration": 120,
+  "published": "20261124",
+  "spoken": "",
+  "spoken_v": 2,
+  "pace": 128.8,
+  "rare": 0.0632,
+  "var": 0.7644,
+  "cl": 0.0316,
+  "speech_s": 117.9,
+  "tokens": 253,
+  "kw": [
+   [
+    "yeah",
+    "- I think we got this, Elmo. - Yeah!",
+    16,
+    19,
+    5.37,
+    10
+   ],
+   [
+    "we're",
+    "that we're most thankful for, right?",
+    82,
+    85,
+    5.4,
+    4
+   ],
+   [
+    "ever",
+    "thankful song ever. - You know, Mr. Pratt should sing",
+    10,
+    14,
+    5.66,
+    3
+   ],
+   [
+    "wait",
+    "- Wait, you know them too?",
+    37,
+    40,
+    5.35,
+    3
+   ],
+   [
+    "greatest",
+    "I just, I really want this to be the greatest",
+    8,
+    11,
+    4.79,
+    2
+   ],
+   [
+    "thankful",
+    "thankful song ever. - You know, Mr. Pratt should sing",
+    10,
+    14,
+    3.93,
+    11
+   ],
+   [
+    "laughs",
+    "(Elmo laughs) - Wow, that's really good.",
+    3,
+    7,
+    4.08,
+    3
+   ],
+   [
+    "giggles",
+    "- Yeah. (giggles) ♪ I'm thankful for fish and fall ♪",
+    47,
+    52,
+    3.36,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "stuff",
+    "about all the stuff he's thankful for.",
+    13,
+    17,
+    5.14,
+    3
+   ],
+   [
+    "big",
+    "- Hey Chris, big fan here.",
+    39,
+    42,
+    5.67,
+    2
+   ],
+   [
+    "horse",
+    "(horse blubbers) - Aw, he's so little.",
+    31,
+    35,
+    4.76,
+    1
+   ],
+   [
+    "arts",
+    "♪ Karate and martial arts ♪",
+    67,
+    71,
+    4.7,
+    1
+   ],
+   [
+    "trees",
+    "♪ And raccoons that talk and trees that walk ♪",
+    34,
+    38,
+    4.69,
+    1
+   ],
+   [
+    "sharing",
+    "♪ And friends sharing what's inside their hearts ♪",
+    72,
+    77,
+    4.66,
+    1
+   ],
+   [
+    "serving",
+    "♪ For reading books and serving looks ♪",
+    62,
+    67,
+    4.62,
+    1
+   ],
+   [
+    "distant",
+    "Must be distant cousins. - Yeah. (giggles)",
+    45,
+    49,
+    4.19,
+    1
+   ],
+   [
+    "sunny",
+    "♪ I'm thankful for sunny skies and butterflies ♪",
+    58,
+    63,
+    4.07,
+    1
+   ],
+   [
+    "martial",
+    "♪ Karate and martial arts ♪",
+    67,
+    71,
+    4.06,
+    1
+   ],
+   [
+    "cousins",
+    "Must be distant cousins. - Yeah. (giggles)",
+    45,
+    49,
+    3.95,
+    1
+   ],
+   [
+    "pratt",
+    "- You know, Mr. Pratt should sing",
+    12,
+    14,
+    3.59,
+    1
+   ],
+   [
+    "sweetest",
+    "- Now that has got to be the sweetest thing",
+    76,
+    80,
+    3.41,
+    1
+   ],
+   [
+    "raccoons",
+    "♪ And raccoons that talk and trees that walk ♪",
+    34,
+    38,
+    2.92,
+    1
+   ],
+   [
+    "dinos",
+    "♪ Prehistoric dinos, big and small ♪",
+    51,
+    55,
+    2.52,
+    1
+   ]
+  ],
+  "voc": 0.09482758620689655,
+  "tx": "♪ Turkey ♪ (Elmo laughs) - Wow, that's really good. - You think so? I don't know. I just, I really want this to be the greatest thankful song ever. - You know, Mr. Pratt should sing about all the stuff he's thankful for. - I think we got this, Elmo. - Yeah! (guitar music) ♪ I'm thankful for lots of stuff ♪ ♪ I'm sure the same for you ♪ - Oh yeah. ♪ I'm thankful for public parks and tiny horses too ♪ (horse blubbers) - Aw, he's so little. ♪ And raccoons that talk and trees that walk ♪ - Wait, you know them too? - Hey Chris, big fan here. - Wow. - I am tree! - Ah. Must be distant cousins. - Yeah. (giggles) ♪ I'm thankful for fish and fall ♪ ♪ Prehistoric dinos, big and small ♪ - Roar! - Easy blue, easy. ♪ I'm thankful for sunny skies and butterflies ♪ ♪ For reading books and serving looks ♪ (Elmo giggles) ♪ Karate and martial arts ♪ - Yeah! - Yeah! (giggles) ♪ And friends sharing what's inside their hearts ♪ - Now that has got to be the sweetest thing I've ever heard. - Aww. - Because it's the people that we're most thankful for, right? - Yeah. ♪ We're thankful for lots of stuff ♪ ♪ Most of all, we're thankful for you ♪ - It's true. ♪ You're kind and smart ♪ ♪ You got courage and heart ♪ ♪ We're thankful that you are you ♪ (Elmo laughs) What? That's the greatest thankful song ever. - Yeah. Elmo can't wait for everybody to hear it. - Wait, maybe we should take it on the road! - Oh yeah! - We'll go from Sesame Street to the Sesame Road. - Yeah, baby. Let's go. (Elmo laughs) - Now? Okay! - Yeah, let's go!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
  }
 }

@@ -77454,7 +77454,7 @@
  "3GYmgLwtnYg": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-13T03:42:30+00:00",
+  "checked": "2026-11-26T20:54:15+00:00",
   "title": "Lasst uns Cricket spielen! 🏏 | Brandneu – Staffel 3 💫 | Bluey - Deutsch Offizieller Kanal",
   "duration": 122,
   "published": "20260310",
@@ -77463,6 +77463,7 @@
   "pace": 130.7,
   "rare": 0.098,
   "var": 0.889,
+  "cl": null,
   "speech_s": 112.5,
   "tokens": 245,
   "kw": [
@@ -77555,16 +77556,170 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "müssen",
+    "wir beide müssen uns seitlich positionieren. Du wirst den Ball schön",
+    31,
+    38,
+    5.78,
+    1
+   ],
+   [
+    "gerade",
+    "gerade richtig gut. Ja,",
+    11,
+    15,
+    5.77,
+    1
+   ],
+   [
+    "lassen",
+    "einfallen lassen. Gib mal her, deine Würfe sind ja wie",
+    69,
+    75,
+    5.76,
+    1
+   ],
+   [
+    "fangen",
+    "Kann ich den Ball jetzt mal fangen?",
+    7,
+    11,
+    4.26,
+    2
+   ],
+   [
+    "schwester",
+    "mit seinem Bruder und seiner Schwester",
+    4,
+    8,
+    4.77,
+    1
+   ],
+   [
+    "einfallen",
+    "einfallen lassen. Gib mal her, deine Würfe sind ja wie",
+    69,
+    75,
+    4.06,
+    1
+   ],
+   [
+    "untergrund",
+    "Untergrund zu spielen. Ja,",
+    107,
+    114,
+    3.95,
+    1
+   ],
+   [
+    "schräg",
+    "schräg, dann kann ich ihn fangen.",
+    35,
+    40,
+    3.88,
+    1
+   ],
+   [
+    "seitlich",
+    "wir beide müssen uns seitlich positionieren. Du wirst den Ball schön",
+    31,
+    38,
+    3.86,
+    1
+   ],
+   [
+    "liebte",
+    "Rusty Cricket liebte und den ganzen Tag",
+    1,
+    6,
+    3.83,
+    1
+   ],
+   [
+    "übte",
+    "Cut so viel übte. Ich",
+    49,
+    58,
+    3.55,
+    1
+   ],
+   [
+    "positionieren",
+    "positionieren. Du wirst den Ball schön",
+    32,
+    38,
+    3.53,
+    1
+   ],
+   [
+    "wirf",
+    "Stripe, wirf so, dass auf die Ritze",
+    77,
+    81,
+    3.35,
+    1
+   ],
+   [
+    "vorgarten",
+    "Und da war sein Vorgarten. Ja, geschafft. Oh, das ist nicht fair.",
+    94,
+    104,
+    3.23,
+    1
+   ],
+   [
+    "würfe",
+    "Gib mal her, deine Würfe sind ja wie",
+    71,
+    75,
+    3.08,
+    1
+   ],
+   [
+    "watte",
+    "Watte. Ist ein bisschen mehr drall.",
+    72,
+    76,
+    3.01,
+    1
+   ],
+   [
+    "cricket",
+    "Rusty Cricket liebte und den ganzen Tag",
+    1,
+    6,
+    2.99,
+    1
+   ],
+   [
+    "snickers",
+    "Ganz klasse, Snickers. Mann, der kleine ist aber gut. Er",
+    26,
+    32,
+    2.85,
+    1
+   ],
+   [
+    "rauskriegen",
+    "rauskriegen, aber wenn der Ball auf der",
+    83,
+    88,
+    2.45,
+    1
+   ]
+  ],
+  "voc": 0.059113300492610835,
   "tx": "Wir wussten leider alle nicht, dass Rusty Cricket liebte und den ganzen Tag mit seinem Bruder und seiner Schwester spielte. Kann ich den Ball jetzt mal fangen? Nein, noch nicht. DTY, ich bin nämlich gerade richtig gut. Ja, und wenn die beiden nicht da waren, spielte er allein. Ja. Ja. E krass. Ganz klasse, Snickers. Mann, der kleine ist aber gut. Er schlägt dauernd ein Square Card. Stripe, wir beide müssen uns seitlich positionieren. Du wirst den Ball schön schräg, dann kann ich ihn fangen. Es war ein guter Plan, aber da wussten wir noch nichts von Rustys Küche. Oh oh, lauf. Komm sofort zurück. Das war der Grund, warum er den Square Cut so viel übte. Ich hatte keine Chance. Ja, Rusty, wir mussten uns etwas Besseres einfallen lassen. Gib mal her, deine Würfe sind ja wie Watte. Ist ein bisschen mehr drall. Okay, Rusty, kein Ding, Mr. Healer Stripe, wirf so, dass auf die Ritze fällt. Okay. Oh ja, sehr gute Idee. Mit einem Wurf konnte Stripe ihn nicht rauskriegen, aber wenn der Ball auf der Ritze landen würde, hätte Rusty keine Chance. Aber was wir nicht wussten, war, dass Rusty ab und zu mit seinem Freund Jack nach Hause fuhr. Und da war sein Vorgarten. Ja, geschafft. Oh, das ist nicht fair. Rusty hat sehr oft bei Jack gespielt. Er wurde gut darin auf unebenem Untergrund zu spielen. Ja, also kam er mit Stripeswurf locker klar. Wie hat er den gekriegt? He.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.059113300492610835
+  "src": "auto"
  },
  "EbpXhxXsuLM": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-13T03:43:19+00:00",
+  "checked": "2026-11-26T20:54:29+00:00",
   "title": "Mascha und der Bär 👧🐻 Überraschung für Freunde 👯‍♀️🎁 Masha and the Bear",
   "duration": 2888,
   "published": "20260616",
@@ -77573,6 +77728,7 @@
   "pace": 81.9,
   "rare": 0.0734,
   "var": 0.8097,
+  "cl": null,
   "speech_s": 1147.7,
   "tokens": 1567,
   "kw": [
@@ -77737,11 +77893,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "ding",
+    "Ding ding dong, Ding, Ding, Dong. Das",
+    2687,
+    2695,
+    4.8,
+    6
+   ],
+   [
+    "schnell",
+    "Schnell wieder Wind auf Matrosen. Oh.",
+    167,
+    182,
+    5.51,
+    5
+   ],
+   [
+    "guck",
+    "Guck mal, Bär, sind wir nicht Spitzen",
+    1427,
+    1434,
+    4.37,
+    4
+   ],
+   [
+    "wow",
+    "ว้าว Wow. Hey hey hey",
+    348,
+    378,
+    4.71,
+    3
+   ],
+   [
+    "ernte",
+    "Ernte Dankfest. Ich will auch. Ich will auch. Ich möchte",
+    476,
+    488,
+    3.98,
+    2
+   ],
+   [
+    "magie",
+    "Magie. Ich muss Magie benutzen. ",
+    528,
+    537,
+    3.98,
+    2
+   ],
+   [
+    "leckeres",
+    "leckeres Brechen. Was ist? Mami hat für dich gekocht.",
+    1319,
+    1330,
+    3.55,
+    2
+   ],
+   [
+    "leckeren",
+    "leckeren und frischen Speisen. Nein, so etwas wollen Kinder nicht.",
+    2320,
+    2332,
+    3.58,
+    1
+   ],
+   [
+    "bärchen",
+    "Bärchen, dürfen wir? Juhu! Wir dürfen alles. Wir dürfen",
+    1352,
+    1364,
+    2.84,
+    2
+   ],
+   [
+    "glöckchen",
+    "Glöckchen klingelt. Ding, Ding, dong. Vielleicht hat sich der Tiger verirrt.",
+    2690,
+    2699,
+    2.97,
+    1
+   ]
+  ],
+  "voc": 0.06259097525473072,
   "tx": "เฮ Ah, endlich Frühling. Los geht's. Ah. Das Schiff verlass der Flasche raus und frei. Ach, nicht schlimm. Komm mit. Auf See. Gute Fahrt ins Abenteuer. Schnell wieder Wind auf Matrosen. Oh. Schreibt uns eine Postkarte aus Indien. H. Hey, war doch nur Spaß. Halt an, halt an. Oh je, also das war eindeutig nicht vorgesehen. Oliver Bär. Oh, ich bin in Seut. เ ว้าว Wow. Hey hey hey hey hey hey Wow! Bravo, bravo. Weiter! Es ist alles wieder gut. Meine Freunde kennen die beste Medizin. Ernte Dankfest. Ich will auch. Ich will auch. Ich möchte auch Erntefest Spaß haben. Hurra! Wir feiern eine Party. … Oh. Oh. Ja, was machen wohl all die anderen? อ Nein, nein, nein, nein, nein. Und was? Oh. Hallo zusammen. Was ist das Problem? H dafür bin ich zuständig. Und wenn ihr noch Hilfe braucht, ich bin da. Ach, das ist kein Problem. Das regel ich im Handumdrehen. Bär, was würdest du denn nur machen ohne mich? Aber Mitternacht ist doch noch weit entfernt. Jetzt ist es an der Zeit, dich anzuziehen. อ嗯 Hm. Ah! Ach! Zeig! Warum kannst du nicht stehen bleiben? Okay, die Feier verlief nicht ganz wie geplant, aber schaut doch, was für eine tolle Ernte wir haben. Nein, nein, ich sollte nicht an Wunder … etwa? Ja. Nein, nein, ich mache uns ein Maspeale. Aha. Ja. Und rein. Oh wow, wie das Hochkoch. Ням ням ням. Oh. Да. Oh nein. Nein. Bär. Sauber ist jetzt alles. Ich habe Hunger. Was schon wieder? Das hast du nicht was anderes für mich? Das Masha Spechale werden wir noch ewig essen müssen. Und ich sage dir, dass du dein Kindlein viel zu sehr verwöhnst. Und ich sage dir, das ist mein Kindlein und ich erziehe es, wie es mir gefällt. Und ich sage dir, dass du es vollkommen falsch ernährst. Und ich sage dir, was meinem Kind dein schmeckt. Das soll es ruhig essen. Hey, wo ist er denn hin, mein … ist, lernt es alles andere wie von allein. Aha, da siehst du es. Mein Kindlein ist schön dick und rund und liest für sein Leben gern. So, kleines, genug gelesen. Nun setzt dein hübsches Häubchen auf, ist bravin Brechen, dann wird fein geschlafen und dann gibt's wieder leckeres Brechen. Was ist? Mami hat für dich gekocht. Feine rote Rüben. Und du willst sie nicht essen? Aber was willst du denn dann? Alles klar. Wir spielen alle Musketiere. Bärchen, dürfen wir? Juhu! Wir dürfen alles. Wir dürfen Musketiere spielen. Zeig her. Federn Hose, Hut und Stiefel für uns. Vier. Ist es nicht ganz … hin fort. Hey, treibt eure Pferde an. Es eilt. Folgt eurer Anführerin. Wie bitte? Warum darfst du hier die Befehle geben? Weil ich die Anführerin bin. Außerdem bin ich nämlich Datan der große Held. Was? Wer willst du sein? Das Obermusketier. Also werd nicht frech. Und was bist du für einer? Ach, ich verstehe. Du hast uns gar nichts zu sagen. Klar. Die Anführerin hat das sagen und wir sagen was anderes. Von wegen ihr habt hier nichts zu sagen. Sei still. Sei selber still. Gehorcht mir. Ich sag was ich will. Hey, Schubsen ist verboten. Das darf nur dat trotzdem bin ich Datan. Wir sind dumm. … wahre Daton, siehst du, was für ein Held er ist? Das ist meine Erziehung. Ach nein, stimmt ja, wir streiten nicht mehr. Streiten ist dumm. Hey Schurke, Hände weg vom Musketier, sonst gibt's Erde. Ganz besonders wichtig für ein Musketier. Auch die größten Gegner überlistet ihr. Wenn ihr Freunde seid und das zusammen meistert, sind am Ende alle von euch sehr begeistert und ihr werdet immer sehen. Eins zählt für euch viel. Einer für alle und alle für einen. Das ist ein Muskettier. Hey, Gnier, guck mal hier. Oh, toll. Gibt es irgendeinen Anlass dafür? Ah, du feierst heute deinen Geburtstag, … habe ich heute nur für ausgezeichnete Manieren? Hey Bär, Bär, ich will, ich will, ich will, ich will, ich will, ich will, ich will dir auch herzlich zum Geburtstag gratulieren. Alles Gute zum Geburtstag, lieber Bär. Ui, ich bin hoch erfreut, dich wiederzusehen. Nur, damit du es weißt, ich zeige heute nur meine allerbesten Manieren. Dürfte ich dir kurz behilflich sein? Du siehst wirklich aus wie ein richtig süßer Fratz. Habe ich nicht recht? Bär? Dürfte ich dich vielleicht um diesen Tanz bitten? Pardon, es tut mir unendlich leid. Wollen wir einfach weitert tanzen? Sei bitte nicht traurig. Den … hätte ich mir denken können, dass ich hier die einzige mit guten Manieren sein würde. อ Hey, was ist das? He, hör mal, du. Ich muss dich jetzt zum Bären kullern. Bär, das Ei hier habe ich auf deinem Gartenweg gefunden. Zoor! Oh, dem drin gefällt, wenn du spielst. Ah, das muss es sein, oder? Genau. Und das Männchen brütet. Ah. So, Ba, du brütest jetzt also stillsitzen und du da im Ei, du beeilst dich mit dem Groß werden. Ich gehe schnell nach Hause, lauf dann wieder her und warte. nennst du das etwa ausbrüten? Setz dich sofort in deinen Sessel, nicht bewegen. So machst du das richtig. Spiel … Pinguine. Ist das heute heiß? Bär, es ist viel zu heiß für den kleinen Pinguin. Bring schnell was, das ihn abkühlt. Vielleicht ist es doch etwas zu kalt für uns hier drin. Äh startklar. Abflug bereit und los. Nicht traurig sein, er kommt uns doch wieder besuchen. Bär, guck mal, was ich genau vor deiner Haustür gefunden habe. Hab อ Hat gut geschmeckt und jetzt können wir zwei Freunde werden. Oh, was für hübsche Fotos. Mal sehen, wie es bei euch im Zirkus so gewesen ist. Du bist gemein. Man darf Kinder nichts wegnehmen. Ja. Und wie heißt du nun? เ Ding ding dong, Ding, Ding, Dong. Das … fahr nicht den falschen Weg. Jetzt kann ich den Sägentrick nicht zu Ende führen. Wollen wir ihn zusammen üben? Juhu! Ich werde zum Zirkus gehen. Juhu! Juhu! Ich schreibe dir von meiner ersten Tournee, aber vergiss nicht mir auch zu schreiben. Pack zusammen, du musst mitkommen. Der Zirkus braucht einen Clown. So. So. So. So. Warum sind denn alle meine Videos verschwunden? H, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amin.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.06002143622722401
+  "src": "auto"
  },
  "uPKf4sBmF-0": {
   "channel": "comprehensible GERMANi",
@@ -79221,7 +79459,7 @@
  "Z45coyEQ9I0": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T03:59:58+00:00",
+  "checked": "2026-11-26T20:53:16+00:00",
   "title": "Bei der Arbeit | Vocabulary workplace | special part Accusative series",
   "duration": 383,
   "published": "20230128",
@@ -79230,6 +79468,7 @@
   "pace": 86.5,
   "rare": 0.0455,
   "var": 0.6928,
+  "cl": null,
   "speech_s": 350.2,
   "tokens": 505,
   "kw": [
@@ -79362,16 +79601,106 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "deutsch",
+    "und wir lernen natürlich Deutsch heute geht es um die Arbeit es gibt",
+    36,
+    51,
+    5.24,
+    4
+   ],
+   [
+    "kollegen",
+    "Kollegen also sie sind alle Kollegen der",
+    101,
+    115,
+    4.83,
+    4
+   ],
+   [
+    "räume",
+    "wir sagen der Raum die Räume in einem",
+    172,
+    183,
+    4.4,
+    2
+   ],
+   [
+    "miteinander",
+    "sprechen alle können miteinander reden und Kaffee trinken und Pause machen",
+    336,
+    348,
+    4.78,
+    1
+   ],
+   [
+    "schreibtisch",
+    "meinen einen Schreibtisch der Name von",
+    150,
+    159,
+    4.18,
+    2
+   ],
+   [
+    "boss",
+    "aber der deutsche Chef ist ein Boss oder",
+    78,
+    88,
+    4.16,
+    1
+   ],
+   [
+    "kinderzimmer",
+    "einem Haus Wohnzimmer Kinderzimmer oder wir sagen der Raum die Räume in einem",
+    168,
+    183,
+    3.52,
+    1
+   ],
+   [
+    "going",
+    "Office we are going to learn lot to for",
+    20,
+    27,
+    3.44,
+    1
+   ],
+   [
+    "vorgesetzter",
+    "Vorgesetzter das ist das sind verschiedene Worte für einen Chef im",
+    87,
+    102,
+    3.26,
+    1
+   ],
+   [
+    "akkusativ",
+    "about Akkusativ so das Video will teach",
+    8,
+    17,
+    2.91,
+    1
+   ],
+   [
+    "teach",
+    "about Akkusativ so das Video will teach",
+    8,
+    17,
+    2.75,
+    1
+   ]
+  ],
+  "voc": 0.04071246819338423,
   "tx": "about Akkusativ so das Video will teach you the will capitalery of the stories and because that story is set innen Office we are going to learn lot to for capulary that you might have in your place hallo herzlich willkommen ich bin Katrin und wir lernen natürlich Deutsch heute geht es um die Arbeit es gibt viele Worte in deinem Büro oder andere Menschen ja in deinem Bürogebäude und wir lernen diese Worte das erste Wort ist sehr wichtig und ein bisschen komisch am Anfang das englische Chef ist nämlich nicht das deutsche Chef ein englischer Chef ist in Deutsch ein Koch aber der deutsche Chef ist ein Boss oder ein Leiter oder ein Vorgesetzter das ist das sind verschiedene Worte für einen Chef im Deutsch das zweite Wort sind die Kollegen also sie sind alle Kollegen der Kollege die Kollegin und viele Kollegen das dritte Wort ist auch wichtig aber nicht jedes Büro hat eine Sekretärin die Sekretärin sie telefoniert und macht Termine sie schreibt ja sie beantwortet Fragen das ist die Sekretärin wir können auch sagen der Sekretär wenn es ein Mann ist aber manchmal sagen wir der Sekretär und meinen einen Schreibtisch der Name von einem Schreibtisch kann auch Sekretär sein in einem Büro gibt es auch viele Zimmer wir können Zimmer sagen wie zu Hause in einem Haus Wohnzimmer Kinderzimmer oder wir sagen der Raum die Räume in einem Bürogebäude gibt es viele Räume zum Beispiel ein Büro das ist ein Raum oder wir können auch einen Meetingraum haben oder einen Kopierraum wo wir kopieren können also es gibt ein Zimmer oder einen Raum das ist genau das gleiche jetzt der Kopierer oft ist es ein Drucker und ein Kopierer ein eine Maschine ein Gerät und zwei Dinge drucken es ist auf dem Computer dann ist es auf dem Papier oder kopieren es ist auf dem Papier dann ist es noch mal auf dem Papier also ein Papier kopieren zwei Papiere das ist der Kopierer dann gibt es noch den Praktikant der Praktikant oder die Praktikantin das sind Menschen die auch Arbeiten im Büro aber nicht sehr lange manchmal bekommen sie Geld manchmal bekommen sie kein Geld und sie sind nur für vier Wochen für sechs Monate und Arbeiten im Büro oft sind sie jung oft sind Praktikanten junge Leute manchmal sind sie noch in der Schule manchmal studieren Sie also Praktikanten arbeiten noch nicht richtig sie versuchen verschiedene Sachen sie probieren etwas aus und zum Schluss ganz wichtig die Kaffeeecke oder die Küche viele Büros ich weiß nicht vielleicht alle Büros viele Büros haben eine kleine Küche oder eine Kaffeeecke dort kannst du dir Kaffee holen oder Tee vielleicht gibt es Kekse und du kannst mit deinen Kollegen sprechen oder mit deinem Chef oder du kannst mit der Sekretärin sprechen du kannst mit den Praktikanten sprechen alle können miteinander reden und Kaffee trinken und Pause machen ich wünsche dir viel Erfolg mit Deutsch und hoffentlich sehen wir uns wieder in meinem nächsten Video viel Spaß und bis dann tschüss",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.04071246819338423
+  "src": "auto"
  },
  "ESHedtBbX20": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:00:34+00:00",
+  "checked": "2026-11-26T20:53:25+00:00",
   "title": "#869 MARCO - Deutsch lernen mit Geschichten [Deutsch lernen durch Hören]  @DldH #learngerman #DldH",
   "duration": 375,
   "published": "20250211",
@@ -79380,6 +79709,7 @@
   "pace": 119.6,
   "rare": 0.0397,
   "var": 0.8355,
+  "cl": null,
   "speech_s": 354.1,
   "tokens": 706,
   "kw": [
@@ -79504,11 +79834,117 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "stadt",
+    "Marco kennt sich mit Currywurst aus. Er hat schon alle Imbissstände der Stadt getestet.",
+    183,
+    191,
+    5.66,
+    3
+   ],
+   [
+    "essen",
+    "sollten wir das mit einem typisch deutschen Essen feiern. Lass uns eine Currywurst essen gehen!“",
+    151,
+    163,
+    5.33,
+    3
+   ],
+   [
+    "lacht",
+    "wir heute Abend feiern. Ich mache uns eine schöne Lasagne mit viel Käse.“ Marco lacht: „Eigentlich",
+    143,
+    152,
+    4.32,
+    3
+   ],
+   [
+    "fuchs",
+    "Schlau wie ein Fuchs sein Man findet den Fuchs als kluges Tier - natürlich nicht nur in Märchen. Er kann überall überleben,",
+    318,
+    331,
+    4.21,
+    3
+   ],
+   [
+    "bewerben",
+    "lebe seit 15 Jahren hier. Ich habe hier studiert und möchte mich als Richter bewerben. Dazu brauche",
+    57,
+    64,
+    4.18,
+    2
+   ],
+   [
+    "schlau",
+    "Schlau wie ein Fuchs sein Man findet den Fuchs als kluges Tier - natürlich nicht nur in Märchen. Er kann überall überleben,",
+    318,
+    331,
+    4.15,
+    2
+   ],
+   [
+    "curry",
+    "langen Schlange an? Gegenüber bei Curry-King geht es viel schneller. Ist dieser Imbiss wirklich so",
+    222,
+    230,
+    3.58,
+    1
+   ],
+   [
+    "ungeduldig",
+    "„Es wird noch eine Weile dauern, bis wir an der Reihe sind.“ Tina hat Hunger. Sie ist ungeduldig.",
+    199,
+    208,
+    3.54,
+    1
+   ],
+   [
+    "füchse",
+    "sowohl in Sibirien als auch in Nordafrika. Das ist kein Problem für diese Tiere. Füchse,",
+    330,
+    341,
+    3.5,
+    1
+   ],
+   [
+    "kluges",
+    "Man findet den Fuchs als kluges Tier - natürlich nicht nur in Märchen. Er kann überall überleben,",
+    321,
+    331,
+    2.99,
+    1
+   ],
+   [
+    "bürgeramt",
+    "er die deutsche Staatsangehörigkeit. Er hat heute einen Termin im Bürgeramt. Dort möchte",
+    27,
+    36,
+    2.85,
+    1
+   ],
+   [
+    "goethestrasse",
+    "",
+    0,
+    0,
+    2.71,
+    1
+   ],
+   [
+    "mitbestellen",
+    "mitbestellen. Wir sind ja gleich dran. Was möchten Sie denn haben?“ Der Mann lächelt. „Das ist aber",
+    259,
+    268,
+    2.1,
+    1
+   ]
+  ],
+  "voc": 0.037037037037037035,
   "tx": "Der deutsche Pass Marco ist in Italien geboren. Aber er lebt seit vielen Jahren in Deutschland. Er hat hier Jura studiert und sein Examen gemacht. Marco würde gerne Richter werden. Dafür braucht er die deutsche Staatsangehörigkeit. Er hat heute einen Termin im Bürgeramt. Dort möchte er die Einbürgerung beantragen. „Guten Tag, ich bin Marco Torriani. Ich habe einen Termin bei Ihnen.“ Frau Herbst nickt. „Ja, genau. Es geht um die Einbürgerung, nicht wahr? Warum möchten Sie denn die deutsche Staatsangehörigkeit haben?“ Marco erklärt: „Ich lebe seit 15 Jahren hier. Ich habe hier studiert und möchte mich als Richter bewerben. Dazu brauche ich die deutsche Staatsangehörigkeit.“ Frau Herbst schaut in ihren Computer. „Sie haben ja bereits den Antrag auf Einbürgerung online ausgefüllt. Haben Sie den Nachweis über die Sprachprüfung dabei?“ Marco gibt ihr die Bescheinigung. Frau Herbst hat noch einige Fragen, die Marco beantworten muss. „Sie wissen, dass Sie Ihre italienische Staatsangehörigkeit damit aufgeben?“ - „Ja, das weiß ich. Ich habe keine Verwandten mehr in Italien. Alle leben in Deutschland. Ich fühle mich als Deutscher.“ Frau Herbst füllt alle notwendigen Unterlagen aus. „So, Herr Torriani. Die Einbürgerung kostet 250 Euro. Dazu kommen noch 60 Euro für den Pass. Die Gebühren müssen Sie im Voraus bezahlen. Die Dokumente können Sie dann in zwei Wochen bei uns abholen. Bitte geben Sie mir noch das Foto für den Pass.“ Marco bezahlt die Gebühren und verlässt das Büro. Er ruft seine Freundin Tina an: „Hallo Tina, es hat alles geklappt. Ich bekomme bald den deutschen Pass!“ Tina freut sich. „Das ist ja wunderbar! Dann kannst du dich endlich auf die Stelle als Richter bewerben! Das müssen wir heute Abend feiern. Ich mache uns eine schöne Lasagne mit viel Käse.“ Marco lacht: „Eigentlich sollten wir das mit einem typisch deutschen Essen feiern. Lass uns eine Currywurst essen gehen!“ Nur eine kurze Frage Marco und Tina treffen sich in der Innenstadt. Sie wollen gemeinsam eine Currywurst essen gehen. „Die beste Currywurst gibt es bei Wurst-Max in der Goethestraße!“ Marco kennt sich mit Currywurst aus. Er hat schon alle Imbissstände der Stadt getestet. Der Imbiss ist wie immer gut besucht. Marco und Tina stellen sich an der langen Schlange an. „Es wird noch eine Weile dauern, bis wir an der Reihe sind.“ Tina hat Hunger. Sie ist ungeduldig. „Entschuldigung. Ich habe nur eine kurze Frage.“ Ein Mann spricht Marco an. Marco dreht sich um. „Ja, bitte? Wie kann ich helfen?“ Der Mann zögert. Dann fragt er: „Warum stellen Sie sich hier an der langen Schlange an? Gegenüber bei Curry-King geht es viel schneller. Ist dieser Imbiss wirklich so gut?“ Marco lacht. „Ja. Das Warten lohnt sich. Wurst-Max ist der beste Imbiss in der Stadt. Sie sollten es ausprobieren.“ Der Mann schaut auf seine Armbanduhr. „Ich habe nicht viel Zeit. Die Schlange ist mir viel zu lang. Schauen Sie mal hinter sich. Da sind noch mindestens 20 Leute. Die wären dann noch vor mir dran.“ Tina schaltet sich ein: „Wir können für Sie mitbestellen. Wir sind ja gleich dran. Was möchten Sie denn haben?“ Der Mann lächelt. „Das ist aber nett! Eine Currywurst mit Pommes hätte ich gerne.“ Als Marco und Tina an der Reihe sind, bestellen sie dreimal Currywurst und Pommes frites. Der Verkäufer lacht, als er den Mann sieht. „Hallo Walter! Hat dein Trick heute wieder funktioniert?“ Walter lächelt. Der Verkäufer erklärt: „Walter ist unser bester Kunde. Er kommt alle zwei Tage. Er hat nur keine Geduld, sich an der Schlange anzustellen. Aber er findet immer jemanden, der auf seinen Trick hereinfällt.“ Jetzt lachen Marco und Tina auch. „Aber bezahlen müssen Sie die Wurst schon selbst“, sagt Tina. Walter ist heute großzügig: „Ich zahle für uns alle. Nicht jeder ist so nett wie Sie. Schlau wie ein Fuchs sein Man findet den Fuchs als kluges Tier - natürlich nicht nur in Märchen. Er kann überall überleben, sowohl in Sibirien als auch in Nordafrika. Das ist kein Problem für diese Tiere. Füchse, die in der Stadt leben, haben es sogar gelernt, die Straßen sicher zu überqueren. Wenn wir also zu jemandem sagen: „Du bist schlau wie ein Fuchs“, dann heißt das, er ist ein schlauer Mensch. Tobias hat zum Beispiel in Mathe eine schwierige Aufgabe, die er nicht lösen kann. Er ruft seinen Bruder: „Leon … komm mal",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.037037037037037035
+  "src": "cc"
  },
  "RhiZh-I_P20": {
   "channel": "Authentic German Learning",
@@ -79778,7 +80214,7 @@
  "ak3qd9ypUao": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T04:01:02+00:00",
+  "checked": "2026-11-26T20:53:48+00:00",
   "title": "Miffys Strand-Picknick 🏖️ | Miffy | Ganze Folge",
   "duration": 1503,
   "published": "20250907",
@@ -79787,6 +80223,7 @@
   "pace": 95.7,
   "rare": 0.0993,
   "var": 0.8021,
+  "cl": null,
   "speech_s": 1395.2,
   "tokens": 2226,
   "kw": [
@@ -79951,11 +80388,93 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "nein",
+    "die Mutter. Miffi lachte. \"Nein, nein,",
+    31,
+    38,
+    5.52,
+    11
+   ],
+   [
+    "zimmer",
+    "sie ist in deinem Zimmer. Sie gingen zusammen in Meifis Zimmer.",
+    16,
+    25,
+    4.97,
+    9
+   ],
+   [
+    "gingen",
+    "Sie gingen zusammen in Meifis Zimmer.",
+    19,
+    25,
+    4.69,
+    6
+   ],
+   [
+    "hammer",
+    "\"Bara, wo ist mein Hammer?\" \"Dein Hammer ist da, wo du ihn hingelegt",
+    1060,
+    1069,
+    4.4,
+    6
+   ],
+   [
+    "tante",
+    "waren und Tante Alice und Eggy.",
+    869,
+    876,
+    4.18,
+    4
+   ],
+   [
+    "durcheinander",
+    "durcheinander. Du hast alle deine Kleider und",
+    1033,
+    1041,
+    4.03,
+    4
+   ],
+   [
+    "leckeren",
+    "die leckeren Sachen darauf stellen. ",
+    899,
+    912,
+    3.58,
+    2
+   ],
+   [
+    "sonnigen",
+    "An einem sonnigen Nachmittag war Miffi",
+    252,
+    258,
+    3.57,
+    2
+   ],
+   [
+    "mii",
+    "Mii fand einen schattigen Platz neben",
+    291,
+    297,
+    2.54,
+    3
+   ],
+   [
+    "buntstifte",
+    "Buntstifte haben könnte. Gruny nahm die Buntstifte und malte",
+    1454,
+    1467,
+    2.53,
+    2
+   ]
+  ],
+  "voc": 0.05885714285714286,
   "tx": "Ich habe eine Überraschung, Mutter\", sagte Miffi. \"Eine ganz tolle Überraschung. Möchtest du raten, wo meine Überraschung versteckt ist?\" \"Å ja.\" Ähm, ich glaube, sie ist in deinem Zimmer. Sie gingen zusammen in Meifis Zimmer. Ist deine Überraschung hier drin?\", fragte die Mutter. Miffi lachte. \"Nein, nein, nein\", sagte sie. \"Na gut\", sagte die Mutter. \"Vielleicht ist sie ja hier.\" \"Nein, nein, nein\", sagte Miffi. \"Meine Überraschung ist überhaupt nicht in meinem Zimmer.\" \"Dann ist sie vielleicht in der Küche\", sagte Miifis Mutter. \"Komm, wir sehen mal nach. Miis Mutter guckte in den … sagte Miffi. \"In meiner Schultasche ist ein Bild, dass ich für Vater gemalt habe. Ich wollte ihn überraschen und ihm das Bild unter sein Kopfkissen legen und jetzt ist es weg.\" Da fing Schnuffi an zu bellen. Schnuffi hatte Miffis Schultasche gefunden. \"Ach, Miffi,\" sagte die Mutter. Du musst sie auf dem Heimweg verloren haben. Aber jetzt wollen wir uns das Bild einmal ansehen. \"Es ist ein ganz besonders schönes Bild\", sagte die Mutter. \"Dein Vater wird sehr überrascht sein, wenn er es findet.\" \"Es macht Spaß, jemanden zu überraschen,\" sagte Miffi. \"Danke, Schnuffi, dass du mir geholfen … sitzen. Miffi las weiter in ihrem Buch. Nachdem sie ein paar Seiten gelesen hatte, klappte der Sonnenschirm plötzlich zu. Miffis Vater versuchte den Schirm wieder aufzuspannen. Ich glaube, der Schirm ist kaputt, Miffi, sagte der Vater. Da zog eine große Wolke am Himmel auf und verdeckte die Sonne. Miffi lachte. Jetzt ist der ganze Strand im Schatten, sagte sie. Aber die Wolke zog weiter und Miifi stand wieder in der heißen Sonne. Jetzt hatte sie nur noch ihr schönes blaues Badetuch, mit dem sie sich bedecken konnte, aber plötzlich wurde es sehr windig und ihr Tuch flog davon. Oh nein\", … mir einen Blumentopf gibt und den werde ich dann hübsch bemalen. Gut, sagte Melanie und ich mache ein paar Papierblumen. Die können wir dann in den Topf stecken. Ja, sagte Miffi. Dann wird daraus ein Geschenk von uns beiden. Die beiden Mädchen gingen nach Hause. Jeder wollte ihren Teil für das gemeinsame Geschenk machen. Miffi malte ein schönes Herz auf ihren Blumentopf und Melanie bastelte ein paar bunte Papierblumen. Am nächsten Tag gingen die Mädchen mit ihren hübsch verpackten Geschenken zur Schule. Als der Unterricht begann, sagte die Lehrerin: \"Liebe Kinder, heute ist der letzte Tag … letzten Schultag. Miffi und Melanie saßen auf der Wippe und die ging auf und ab, auf und ab. Plötzlich zeigte Melanie auf das Fenster, an dem richtige Blumen in Blumentöpfen standen. Wenn die großen Ferien anfangen, muss jede von uns einen Blumentopf mit nach Hause nehmen und sich um die Blume kümmern, bis die Schule wieder anfängt\", sagte Melanie. \"Welche Töpfe wir wohl bekommen\", sagte Mihi. Als sie alle wieder im Klassenzimmer waren, sagte die Lehrerin: \"Und jetzt, Kinder, gebe ich jedem von euch einen Blumentopf mit nach Hause.\" Dann verteilte die Lehrerin die Töpfe an die Kinder. … kriegen,\" sagte sie. Ja, sagte Miffi. Und vielleicht sind ja meine Freunde auch da, dann können wir zusammen spielen. Sie hatten sich einen warmen sonnigen Tag für ihr Picknick ausgesucht. Der Himmel war strahlend blau. Meifis Mutter machte einen frischen Salat aus Karotten und Kohl und grünen und roten Paprikaschoten. Er sah köstlich aus. Sie füllte eine Flasche mit Karottensaft und eine Flasche mit Petersiliensaft. Miffis Vater sagte, ich hole das Auto und dann können wir die Sachen einpacken. Als sie am Strand ankamen, sahen sie, dass Boris und Barbara Bär auch schon da waren und … und dann kam das Wasser so nah, dass es fast die Handtücher weggeschwemmt hätte. Oh je! rief Miffis Mutter erschrocken. \"Alle unsere Sachen werden nass.\" Schnell lief Tante Alice ans Wasser und holte die Handtücher. \"Wie gut, dass wir alle unsere leckeren Sachen aufgegessen haben\", sagte die Mutter und alle lachten. \"Das war ein tolles Picknick\", sagte Miffi. Jetzt können wir spielen gehen. \"Wo ist meine Schultasche?\", fragte Meffi eines Morgens ihre Mutter. \"Deine Schultasche ist da, wo du sie hingestellt hast, Miffi\", sagte ihre Mutter. \"Aber ich habe sie schon überall gesucht\", … du bestimmt auch deinen Hammer finden, sagte Barbara. Und vergiss nicht, du wolltest heute ein paar neue Tische für die Schule bauen. Boris fing an aufzuräumen. Und endlich fand er auch seinen Hammer. Er packte den Hammer, seine Säge und zwei kleine Kästchen mit Nägeln und Schrauben in seinen Wagen. Dann legte er ein paar Holzbretter hinein. Jetzt waren alle Werkzeuge, die er brauchen würde, schön ordentlich an ihrem Platz. Er machte sich auf den Weg zur Schule. Als er dort ankam, sagte die Lehrerin: \"Es hat sich jemand zwei von unseren Tischen geliehen und sie nicht zurückgebracht und jetzt … schön sein, fliegen zu können,\" dachte Miffi. \"Obhl könnte? Ich weiß es nicht. Ich habe es noch nie versucht. Ich habe auch keine Flügel wie die Vögel oder die Schmetterlinge, dachte sie. Vielleicht kann ich fliegen, wenn ich meine Arme wie Flügel auf und abbewege. Sie ging hinaus und lief so schnell sie konnte. Und dabei bewegte sie ihre Arme auf und ab. Aber sie flog nicht, sie fiel nur hin. Miffi war traurig, dass sie nicht fliegen konnte. Sie guckte nach oben und sah hoch am Himmel einen bunten Drachen fliegen. Am Ende der Drachenschnur stand Gruny. Miffi lief zu Gruny und sagte: … der Schnur, aber so sehr sie auch zog, der Drachen konnte Miffi nicht in die Luft heben. Miffi ärgerte sich. Sie war traurig und enttäuscht, dass sie nicht fliegen konnte. Sie ging in ihr Zimmer. Da hatte Gruny eine Idee. Sie fragte Miffis Mutter, ob sie ein paar dicke Buntstifte haben könnte. Gruny nahm die Buntstifte und malte etwas auf den Drachen. Miffi guckte aus dem Fenster und was sah sie da? Einen großen Drachen, der hoch am Himmel flog und auf dem Drachen war ein Bild von Miffi. \"Siehst du, Miffi?\", sagte die Mutter. Du kannst doch fliegen. Und jetzt konnte Miffi auch wieder lachen.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.06193548387096774
+  "src": "auto"
  },
  "Jtlo8lNQgf8": {
   "channel": "Get Germanized",
@@ -79971,7 +80490,7 @@
  "0oE8PYtlu9g": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-13T04:06:57+00:00",
+  "checked": "2026-11-26T21:05:47+00:00",
   "title": "NORSE MYTHOLOGY#6: The Children Of Loki│Intermediate German",
   "duration": 1256,
   "published": "20210716",
@@ -79980,6 +80499,7 @@
   "pace": 90.1,
   "rare": 0.0637,
   "var": 0.7455,
+  "cl": null,
   "speech_s": 1243.8,
   "tokens": 1868,
   "kw": [
@@ -80144,16 +80664,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "zurück",
+    "hallo und willkommen zurück heute gibt",
+    0,
+    7,
+    5.57,
+    7
+   ],
+   [
+    "nummer",
+    "nummer eins die fußstapfen von einer",
+    896,
+    908,
+    4.9,
+    7
+   ],
+   [
+    "henry",
+    "henry und jeden tag wurde er mit rohem",
+    630,
+    639,
+    4.37,
+    4
+   ],
+   [
+    "traum",
+    "und odin sagt ich träumte einen traum",
+    84,
+    96,
+    4.72,
+    3
+   ],
+   [
+    "welten",
+    "welten leben und so lang wachsen bis",
+    446,
+    459,
+    4.06,
+    4
+   ],
+   [
+    "anlegen",
+    "nicht selbst anlegen der wolf war",
+    676,
+    684,
+    4.13,
+    3
+   ],
+   [
+    "spucken",
+    "sei vorsichtig es kann mit gift spucken",
+    399,
+    409,
+    3.39,
+    3
+   ],
+   [
+    "gefüttert",
+    "fleisch gefüttert und jeden tag dass er",
+    634,
+    643,
+    3.59,
+    2
+   ],
+   [
+    "wali",
+    "vater aber wali wali ist gehorsam",
+    108,
+    116,
+    2.24,
+    2
+   ],
+   [
+    "amboss",
+    "verbringen und amboss hat dir drei",
+    142,
+    155,
+    2.96,
+    1
+   ]
+  ],
+  "voc": 0.12044967880085652,
   "tx": "hallo und willkommen zurück heute gibt es die nächste geschichte der nordischen mythologie und diese geschichte heißt lokis kinder das heißt wir werden drei weitere kinder von loki kennenlernen viel spaß loki war tatsächlich verheiratet er war verheiratet mit siegen und zusammen hatten sie zwei söhne und vali aber sie gehen war immer sehr besorgt um loki denn loki ging öfter mal weg für längere zeit und sie gehen machte sich immer sehr sorgen sie hat sich immer gewundert ob loki wieder zurück kommt und wann er wieder zurückkommt aber loki kam immer wieder zurück zu ihr insgesamt verließ loki … dich weg geschlichen um deine tage mit der riesenairbus a zu verbringen und amboss hat dir drei kinder geboren und meine visionen haben mir erzählt dass diese drei kinder die größten feinde von uns göttern werden loki versuchte beschämt zu gucken aber das funktionierte nicht so er war zu stolz auf sich und dann sah er einfach nur zufrieden mit sich selbst aus wegen seinen visionen schickte ihn eine gruppe angetan los und diese gruppe soll nach jugenheim gehen ins land der riesen und die drei kinder von loki mit zurück nach ausgabe bringen und die gruppe wird angeführt von einmal tor der … gebunden festgebunden das andere kind das zweite kind haben sie an einer leine genommen eine leine wie bei einem hund damit man mit dem hund spazieren kann und das zweite kind ist also an eine leine gekommen das dritte kind war ein mädchen ein mädchen das sehr verstörend aussah und sie sie lief einfach neben den göttern her auf dem weg zurück nach asgard die reise war schon fast am ende da sagte tour ist das nicht irgendwie komisch dass uns niemand gefolgt ist es ist fast so als wollten sie die kinder loswerden aber tier sagt ach quatsch dass es doch absurd aber wären er das sagte und … sagt jungk und ist immer noch nur ein kind es wird noch weiter wachsen wir bringen es lieber dorthin wo es niemandem etwas anhaben kann wo es niemandem wehtun kann und sie brachte newmont und zu mehr volumen und wegschwimmen in die tiefen des meeres und würde in den tiefen gewässern der welten leben und so lang wachsen bis einmal die ganze welt umschlingt erstes kind abgehakt und zurück in der halle berlin und den anderen kindern da ort mit odin das mädchen an hervorzutreten und das mädchen tritt hervor aber es war kein normales mädchen die eine hälfte war hübsch ein hübsches mädchen … krankheit oder durch einen unfall sterben aber die die leute die tapfer in einer schlacht im krieg sterben die werden weiterhin zu mir nach walhalla kommen das mädchen grinst sie grinst und odin bringt sie in die licht lose dunkle welt und zeigt ihr die halle wo sie die toten in empfang nehmen wird damit war auch das zweite kind erledigt abgehakt aber was sollten sie mit dem dritten kind machen das dritte kind war ein wolf junge und sas sein fleisch roh ja also nicht gekocht aber gleichzeitig redete er sowie die götter und die menschen eher hieß fenrir der wolfs henry und jeden tag wurde er … gott sei dank ist in einer der lustigsten götter und er geht zudem wolf mit den ketten und er sagt hör mal glaubst du du bist stark genug diese ketten zu zerbrechen und fenrir sagte ja ich glaube schon dass ich stark genug bin loslegt mir die ketten an und sie sie legten ihm die ketten an und fenrir der holte einmal tief luft und die ketten zersprangen ja ich bin der stärkste ich habe die ketten zerbrochen und der wolf wuchs und wuchs und wuchs weiter die götter fertigen neue ketten an noch viel stärkere ketten sie suchten das stärkste metall dass es in allen neuen welten gab und fertigten … dass die teile der ketten überall flogen und noch jahre später würde man einzelne teile der kette immer mal wieder irgendwo um asgard herum finden okay die götter können das nicht allein schaffen sie brauchen hilfe von den zweigen klar die zwerge können alles bauen und die zwerge sind sehr gut darin schätze zu bauen sie haben zum beispiel thors hammer gebaut und odin beauftragt einen gott in das land der zwerge zu reisen und die zwerge aufzusuchen die zwerge sollen die ketten anfertigen so stark dass niemand in allen neun welten sie zerbrechen kann aber die zwerge verlangen einen hohen … die spucke die spucke von einem vogel dieser gott besorgt all diese zutaten für die zwerge und als die zwerge die ketten fertig gebaut haben nimmt der gott die ketten und sagt aber die sind ja total leicht und und fast durchsichtig aber egal sie bringen die neuen ketten zu fenrir und fenrir sagt was ist das denn damit kann ich doch nicht meine stärke beweisen geht weg und odin sagt du hast doch nur angst aber fenrir sagt nein ich habe keine angst ich will nur dass ihr mir richtige ketten bringt das ist doch ein witz und odin sagt schon gut ich sehe dass du angst hast aber fenrir ist auch … sagt irgendwas und dann hört man ein seufzen tier seufzt und tritt hervor und sagt gut ich mache es sie fesselten den wolf mit den ketten von den zwergen und der wolf tobte und streckte sich wie verrückt aber die ketten die hielten irgendwann gab fenrir auf er sagt okay ich schaffe es nicht aber die götter haben die ketten natürlich nicht wieder abgenommen und tier der immer noch die hand in dem maul von dem wolf hat der guckt dem wolf tief in die augen und tier und henry sind über die zeit freunde geworden tier war immer derjenige der venner gefüttert hat mit dem rohen fleisch aber … mich verraten hast werde ich mich irgendwann an dir raus ich werde das nicht vergessen am ende am ende aller tage werde ich es genießen dich zu töten die götter verankerten das ende der kette tief tief tief in der erde und dann gingen sie nach hause und feierte und das waren die kinder von loki das war geschichte nummer 6 der nordischen mythologie in der nächsten geschichte werde ich euch davon erzählen was passiert als thor seinen hammer verliert wenn euch diese geschichte gefallen hat dann lasst ein leichter und abonniert damit die die nächste geschichte nicht verpasst alles klar bis dann",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.12830188679245283
+  "src": "auto"
  },
  "WpdCyhb6tX4": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:07:44+00:00",
+  "checked": "2026-11-26T20:53:29+00:00",
   "title": "#866 MELI - Deutsch lernen mit Geschichten [Deutsch lernen durch Hören]  @DldH #dldh #learngerman",
   "duration": 657,
   "published": "20250127",
@@ -80162,6 +80764,7 @@
   "pace": 117.5,
   "rare": 0.0733,
   "var": 0.8532,
+  "cl": null,
   "speech_s": 606.2,
   "tokens": 1187,
   "kw": [
@@ -80318,16 +80921,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "möchte",
+    "Realschulabschluss machen. Danach möchte sie auf ein Gymnasium gehen. Dort will sie Abitur",
+    18,
+    26,
+    5.49,
+    4
+   ],
+   [
+    "ruhe",
+    "ganz in Ruhe um das Kind kümmern. Ich helfe dir dabei. Und danach machst du die Schule weiter wie",
+    144,
+    153,
+    4.89,
+    4
+   ],
+   [
+    "ansehen",
+    "im Monat 50 Euro. Möchten Sie sie mal ansehen?“ Meli freut sich. „50 Euro Miete ist gut. Ich",
+    516,
+    527,
+    4.68,
+    2
+   ],
+   [
+    "brauchst",
+    "können. Du brauchst auf jeden Fall ein Kinderbett und eine Wickelkommode.“ - „Was ist denn eine",
+    249,
+    257,
+    4.59,
+    2
+   ],
+   [
+    "weint",
+    "hat der Arzt gesagt?“ Doch sie hört nur, dass Meli weint. Vorsichtig öffnet die Mutter die Tür.",
+    69,
+    78,
+    3.89,
+    2
+   ],
+   [
+    "vermietet",
+    "Manche Menschen haben kein Auto und brauchen ihre Garage nicht. Vielleicht vermietet jemand in der",
+    484,
+    492,
+    3.63,
+    2
+   ],
+   [
+    "vormittags",
+    "geplant. Ich arbeite nur vormittags. Wir finden einen Platz in einer Krabbelgruppe. Da werden",
+    152,
+    161,
+    3.58,
+    1
+   ],
+   [
+    "blaues",
+    "ein kleines blaues Heftchen. Auf dem Umschlag steht: „Mutterpass“. Melis Mutter weiß Bescheid:",
+    87,
+    97,
+    3.56,
+    1
+   ],
+   [
+    "kinderzimmer",
+    "Kinderzimmer einrichten Meli ist schwanger. Sie ist jetzt im 6. Monat. Gestern hatte sie die letzte",
+    217,
+    230,
+    3.52,
+    1
+   ],
+   [
+    "bettchen",
+    "in einem Zimmer leben, in dem so viele Babymöbel sind. „Und ein Bettchen brauchen wir auch nicht.",
+    348,
+    356,
+    2.97,
+    1
+   ],
+   [
+    "nageln",
+    "nageln wir noch ein paar Leisten. Ich messe das mal aus. Nachher fahren wir zum Baumarkt.",
+    332,
+    341,
+    2.89,
+    1
+   ]
+  ],
+  "voc": 0.03777544596012592,
   "tx": "Junge Mutter Meli ist 17 Jahre alt. Sie geht in die 10. Klasse. Im Sommer wird sie ihren Realschulabschluss machen. Danach möchte sie auf ein Gymnasium gehen. Dort will sie Abitur machen. Anschließend kann sie studieren oder eine Ausbildung beginnen. Das weiß Meli noch nicht genau. Sie hat noch drei Jahre Zeit zum Überlegen. Heute geht es Meli nicht gut. Sie ist seit Tagen sehr müde. Und jetzt ist ihr auch noch übel. Ihre Mutter macht sich große Sorgen. „Meli, bitte geh heute zum Arzt. Du musst dich untersuchen lassen!“ Als Meli vom Arzt zurückkommt, redet sie kein Wort. Sie geht gleich auf … dass Meli weint. Vorsichtig öffnet die Mutter die Tür. Meli liegt auf ihrem Bett. „Was ist denn los?“ Meli sagt nichts. Aber sie gibt ihrer Mutter ein kleines blaues Heftchen. Auf dem Umschlag steht: „Mutterpass“. Melis Mutter weiß Bescheid: Meli ist schwanger. Sie bekommt ein Kind. „Ach Meli! Der Zeitpunkt ist aber sehr ungünstig!“ Sie möchte ihrer Tochter keine Vorwürfe machen. Aber die Planung für Melis Zukunft muss jetzt ganz neu überlegt werden. Meli weint immer noch: „Jetzt ist alles aus!“ Die Mutter setzt sich zu Meli auf das Bett. Sie nimmt ihre Tochter in die Arme. „Nein, Meli, … kommt ja erst im September. Du kannst dich dann ein Jahr ganz in Ruhe um das Kind kümmern. Ich helfe dir dabei. Und danach machst du die Schule weiter wie geplant. Ich arbeite nur vormittags. Wir finden einen Platz in einer Krabbelgruppe. Da werden kleine Kinder betreut. Andere schaffen das doch auch! Was sagt denn dein Tom dazu?“ „Ach, der Tom! Mit dem habe ich letzte Woche Schluss gemacht. Ich bin jetzt ganz alleine.“ „Nein, Meli, du bist gar nicht alleine! Ich bin für dich da. Und es gibt vom Staat ganz viele Angebote für junge Mütter. Wir trinken jetzt erstmal einen Tee. Und dann … ist doch eigentlich auch ein Grund zum Freuen!“ Kinderzimmer einrichten Meli ist schwanger. Sie ist jetzt im 6. Monat. Gestern hatte sie die letzte Prüfung für den Realschulabschluss. Es ist alles gut gelaufen. Meli ist froh, den Stress hinter sich zu haben. Jetzt kann sie sich erst richtig auf das Baby freuen. Ihre Mutter kommt in Melis Zimmer. „Meli, wir müssen überlegen, wie wir dein Zimmer umräumen können. Du brauchst auf jeden Fall ein Kinderbett und eine Wickelkommode.“ - „Was ist denn eine Wickelkommode?“ Meli hat über Kindermöbel noch nicht nachgedacht. „Darauf kannst du das Baby … “ Meli überlegt. „Kann ich das nicht einfach auf einer Decke auf dem Boden machen?“ Die Mutter lacht: „Das wäre natürlich die sicherste Methode. Aber dann musst du dich ständig auf den Boden knien. Glaube mir: so eine Kommode ist sehr praktisch. In die Schubladen kannst du alles legen, was du zum Wickeln brauchst. Dann sieht das Zimmer auch ordentlicher aus.“ Meli ist noch nicht überzeugt. „Dann wird mein Zimmer zu klein. Man kann sich gar nicht mehr gut darin bewegen. Können wir so eine Kommode nicht ins Badezimmer stellen?“ Melis Mutter nickt. „Ja, das ist eine gute Idee. Ich könnte … schrauben wir darauf. Und an die Ränder nageln wir noch ein paar Leisten. Ich messe das mal aus. Nachher fahren wir zum Baumarkt. Dort kann man Holz passend sägen lassen.“ Meli ist froh über diese Lösung. Sie möchte nicht in einem Zimmer leben, in dem so viele Babymöbel sind. „Und ein Bettchen brauchen wir auch nicht. Ich kann das Baby mit in mein Bett nehmen. Das ist sowieso besser für das Kind.“ Die Mutter lacht: „Ja, das ist am Anfang auch viel praktischer. Aber irgendwann möchtest du nachts auch wieder alleine schlafen. Dann können wir ja immer noch ein Kinderbettchen kaufen.“ - „Hier in … nickt. Sie will jetzt nichts weiter dazu sagen. Aber sie weiß aus Erfahrung: wenn das Kind erst einmal da ist, bekommt man viel geschenkt. Das muss alles irgendwo verstaut werden. Und dann wird auch Meli weitere Möbel haben wollen. Ein Kind verändert alles. Meli mietet eine Garage Meli hat ihr Baby bekommen. Es ist ein Mädchen und heißt Isa. Ihre Freundinnen kommen oft zu Besuch. Jede bringt Geschenke mit. Bald hat Meli Kinderkleidung in jeder Größe. Auch Spielzeug, Kuscheltiere und kleine Möbelstücke. Sogar ein Dreirad steht schon in Melis Zimmer. „Es ist mir hier alles viel zu eng! Die … Fahrrad mitbringen will. Wo soll denn das alles hin?“ Die Mutter überlegt. „Unser Keller ist voll. Da passt nichts mehr hinein. Ich fürchte, wir müssen eine Garage mieten.“ Meli fragt: „Aber ist das nicht viel zu teuer?“ - „Das werden wir sehen. Schau doch mal in die Kleinanzeigen. Manche Menschen haben kein Auto und brauchen ihre Garage nicht. Vielleicht vermietet jemand in der Nähe seine Garage. Das wäre die beste Lösung.“ Isa schläft gerade. Daher kann Meli in Ruhe im Internet nach Vermietungen suchen. Sie hat Glück. In der Nebenstraße ist eine Garage frei. Sie ruft den Besitzer an. Er … “ Meli freut sich. „50 Euro Miete ist gut. Ich komme gleich vorbei!“ Melis Mutter passt auf Isa auf. Sie wollen die Kleine nicht wecken. So kann Meli sich in Ruhe die Garage ansehen. Die Garage ist groß und sauber. Hier kann Meli alle Dinge lagern, die sie im Moment nicht benötigt. Und sie möchte auch noch ein Sofa hineinstellen. Da könnte sie sich gelegentlich eine Auszeit gönnen. Denn sie merkt jetzt schon: das Leben mit einem Baby ist nicht immer einfach. Ab und zu hätte man gerne mal seine Ruhe. Auch wenn es nur in einer Garage ist. „Abgemacht! Ich nehme die Garage!“ Der nette Mann ist … auch bar geben. Ich wohne ja gleich um die Ecke.“ Meli ist einverstanden. Jetzt hat sie Platz für die vielen Geschenke und sogar einen kleinen Ruheraum für sich gefunden. Möbel hat sie genug. Sie wird es sich hier gemütlich machen! blaumachen Ich verrate euch, was \"Blau machen\" bedeutet. Wenn jemand ohne Grund nicht zur Schule oder zur Arbeit geht, macht er “Blau“. Zum Beispiel: Der Wecker klingelt um 6 Uhr. Florian wacht auf, aber er ist noch sehr müde und hat so gar keine Lust aufzustehen und in die Schule oder zur Arbeit zu gehen. Er sagt: „Ich glaube, ich mache heute einfach mal blau.“ Er",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.038318912237330034
+  "src": "cc"
  },
  "ODsE6yXl2JY": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:07:48+00:00",
+  "checked": "2026-11-26T21:06:04+00:00",
   "title": "#862 MARIA - Deutsch lernen mit Geschichten [Deutsch lernen durch Hören]  @DldH #dldh #learngerman",
   "duration": 498,
   "published": "20250113",
@@ -80336,6 +81029,7 @@
   "pace": 102.5,
   "rare": 0.0273,
   "var": 0.8629,
+  "cl": null,
   "speech_s": 472.6,
   "tokens": 807,
   "kw": [
@@ -80468,16 +81162,122 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "endlich",
+    "Endlich wieder Single Maria hat sich gerade von ihrem Mann getrennt. „Nach 40 Jahren endlich wieder Single!“ Sie",
+    9,
+    23,
+    5.29,
+    4
+   ],
+   [
+    "herr",
+    "denkt sie. Dann steigt sie aufs Rad und fährt los. Herr Schmidt schaut zufällig aus seinem Fenster.",
+    269,
+    278,
+    5.24,
+    4
+   ],
+   [
+    "einkaufen",
+    "Die Busverbindung zur Kleinstadt ist nicht gut. Zum Einkaufen muss sie ihr Rad benutzen. „Das",
+    77,
+    87,
+    4.33,
+    4
+   ],
+   [
+    "schnee",
+    "den Schnee fahren. Bald hat er Maria erreicht. Sie ist abgestiegen. Sie schiebt ihr Fahrrad.",
+    309,
+    319,
+    4.45,
+    3
+   ],
+   [
+    "ausprobieren",
+    "den neuen Backofen ausprobieren. Apfelkuchen?“ Anna lacht jetzt auch. Sie hatte sich Sorgen um",
+    173,
+    182,
+    4.16,
+    1
+   ],
+   [
+    "geniesst",
+    "",
+    0,
+    0,
+    4.12,
+    1
+   ],
+   [
+    "auspacken",
+    "erst alle Kisten auspacken, bevor sie ins Bett geht. „Dann wache ich morgen früh nicht im Chaos",
+    113,
+    121,
+    3.52,
+    1
+   ],
+   [
+    "einkäufe",
+    "ihre Einkäufe mit dem Fahrrad. Der Weg zum Einkaufszentrum ist nicht weit. Maria ist in",
+    220,
+    229,
+    3.51,
+    1
+   ],
+   [
+    "steig",
+    "steig ein! Das Rad kann in den Kofferraum. Ich fahre dich zum Supermarkt.“ Jetzt ist",
+    325,
+    333,
+    3.5,
+    1
+   ],
+   [
+    "kaffeetrinken",
+    "aber nicht einsam. Ich fühle mich wunderbar. Morgen kommt ihr zum Kaffeetrinken. Ich muss",
+    165,
+    174,
+    2.85,
+    1
+   ],
+   [
+    "busverbindung",
+    "Die Busverbindung zur Kleinstadt ist nicht gut. Zum Einkaufen muss sie ihr Rad benutzen. „Das",
+    77,
+    87,
+    2.63,
+    1
+   ],
+   [
+    "hinfallen",
+    "das gar nicht gut. „Sie wird hinfallen und sich verletzen! Du musst ihr unbedingt mit dem Auto",
+    293,
+    301,
+    2.63,
+    1
+   ],
+   [
+    "waschpulver",
+    "Heute schneit es. Aber Maria braucht dringend Waschpulver, Brot, Nudeln und etwas Gemüse. Sie",
+    243,
+    254,
+    2.42,
+    1
+   ]
+  ],
+  "voc": 0.027950310559006212,
   "tx": "Endlich wieder Single Maria hat sich gerade von ihrem Mann getrennt. „Nach 40 Jahren endlich wieder Single!“ Sie freut sich auf ihre eigene Wohnung. „Es ist nicht ganz einfach. In meinem Alter riskieren viele keinen Neuanfang mehr.“ Ihre Freundin Anna nickt. „Aber du hast ja uns. Wir helfen dir!“ Maria hat eine Wohnung in einem kleinen Dorf gefunden. In diesem Ort wohnen auch Anna und ihr Mann Josef. Sie helfen ihr beim Umzug. Josef hat ein großes Auto. Hier passt viel hinein. Sie müssen nur dreimal hin und her fahren, dann sind Marias Möbel in der neuen Wohnung. Maria ist sehr glücklich. Endlich hat sie ihre Freiheit wieder! Der einzige Nachteil ist: Maria hat kein Auto. Die Busverbindung zur Kleinstadt ist nicht gut. Zum Einkaufen muss sie ihr Rad benutzen. „Das wird mich fit halten!“ Maria ist zuversichtlich. „Die Hauptsache ist: Ich habe meine Ruhe. Ich kann wieder alles selbst entscheiden. Und ich kann spontan das tun, was ich möchte.“ Heute ist Marias erste Nacht in der neuen Wohnung. Es ist schon spät. Maria wollte erst alle Kisten auspacken, bevor sie ins Bett geht. „Dann wache ich morgen früh nicht im Chaos auf.“ Maria legt sich ins Bett. Sie nimmt ihr Buch mit. „Endlich kann ich so lange lesen, wie ich möchte“, denkt sie. „Niemand beschwert sich, dass das Licht an ist.“ Maria genießt ihre neue Freiheit. Sie kann morgen früh in aller Ruhe Kaffee trinken. Keiner stört sie. „Es ist nie zu spät, ein neues Leben zu beginnen!“ Ihr Telefon klingelt. Anna ruft an. „Geht es dir gut? Bist du nicht einsam?“ Maria lacht: „Nein, wirklich nicht. Ich bin alleine, aber nicht einsam. Ich fühle mich wunderbar. Morgen kommt ihr zum Kaffeetrinken. Ich muss den neuen Backofen ausprobieren. Apfelkuchen?“ Anna lacht jetzt auch. Sie hatte sich Sorgen um Maria gemacht. Aber wenn Maria Kuchen backen will, ist alles in Ordnung! Nachbarschaftshilfe Maria wohnt in einem Dorf. Sie hat kein eigenes Auto. Der Bus fährt nur selten. Maria erledigt ihre Einkäufe mit dem Fahrrad. Der Weg zum Einkaufszentrum ist nicht weit. Maria ist in 20 Minuten im Supermarkt. „Das Radfahren hält mich fit“, sagt sie zu ihrer Tochter. Diese macht sich oft Sorgen um ihre Mutter. Aber sie wird ihre Mutter jetzt öfter besuchen. Heute schneit es. Aber Maria braucht dringend Waschpulver, Brot, Nudeln und etwas Gemüse. Sie überlegt: „Soll ich bei diesem Wetter mit dem Rad fahren? Es wird glatt auf der Straße sein. Hoffentlich falle ich nicht hin.“ Sie holt ihr Fahrrad aus dem Keller. „Es wird schon gut gehen“, denkt sie. Dann steigt sie aufs Rad und fährt los. Herr Schmidt schaut zufällig aus seinem Fenster. Er sieht Maria die Straße entlang radeln. „Schau mal, Anna, da ist die Maria! Die will doch tatsächlich bei diesem Wetter einkaufen fahren“, sagt er zu seiner Frau. Anna findet das gar nicht gut. „Sie wird hinfallen und sich verletzen! Du musst ihr unbedingt mit dem Auto folgen!“ Herr Schmidt ist schon unterwegs. Er hat ein großes Auto. Damit kann er sicher durch den Schnee fahren. Bald hat er Maria erreicht. Sie ist abgestiegen. Sie schiebt ihr Fahrrad. Der Schnee ist zu tief zum Radfahren. „He, Maria“, ruft Herr Schmidt. „Komm, steig ein! Das Rad kann in den Kofferraum. Ich fahre dich zum Supermarkt.“ Jetzt ist Maria sehr froh. Es war doch keine gute Idee, mit dem Fahrrad im Schnee zu fahren. „Danke, das ist sehr nett! Ich brauche unbedingt ein paar Sachen aus dem Supermarkt.“ Herr Schmidt lacht: „Das ist doch kein Problem. Ruf uns doch nächstes Mal einfach an. Dann nehmen wir dich im Auto mit. Wir müssen ja auch oft einkaufen. Unter Nachbarn hilft man sich! Das nennt man Nachbarschaftshilfe.“ Maria überlegt. Wie kann sie sich am besten bedanken? Dann fällt ihr ein: Die Schmidts essen gerne Apfelkuchen. Den kann Maria am besten backen. Sie hat sogar schon einmal einen Preis dafür bekommen. Sie wird die Zutaten dafür heute gleich mit einkaufen. Und dann wird sie die beiden morgen Nachmittag zum Kaffee und Kuchen einladen. Das ist dann auch Nachbarschaftshilfe. Jemandem auf der Zunge liegen“ Ihr habt bestimmt diese Sätze schon sehr oft gehört: „Wie hieß der noch mal?“ oder: „Wie nennt man das gleich?“. Jemand möchte euch etwas sagen, kann sich aber nicht richtig ausdrücken, weil er es vergessen hat. Leonie war gestern im Kino und hat einen guten Film gesehen. Diesen Film will sie ihrem Freund weiterempfehlen. Er fragt sie: „Wer spielt denn die Hauptrolle?“ Leonie weiß es eigentlich. Aber genau in diesem Moment fällt ihr der Name nicht ein. Sie denkt nach und versucht intensiv, sich an den Namen zu erinnern. „Weißt du, er hat auch in „Sherlock Holmes“ als Detektiv mitgespielt“, sagt sie zu ihrem Freund. Dann überlegt sie weiter: „Ähm, …wie heißt er noch mal? … Sein Name fängt mit \"B\" an, Bernd, ...Bernhard? Warte, sag nichts!“ „Es liegt mir auf der Zunge.“",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.027950310559006212
+  "src": "cc"
  },
  "qIqqh4_d9xI": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T04:07:59+00:00",
+  "checked": "2026-11-26T20:53:38+00:00",
   "title": "🎄 Weihnachten in Deutschland: So feiern die Deutschen! 🎅",
   "duration": 391,
   "published": "20241208",
@@ -80486,6 +81286,7 @@
   "pace": 79.2,
   "rare": 0.1024,
   "var": 0.8228,
+  "cl": null,
   "speech_s": 384.8,
   "tokens": 508,
   "kw": [
@@ -80618,11 +81419,125 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "jeden",
+    "hat einen Adventskranz, einen Kranz aus Tannenzweigen mit vier Kerzen. Jeden",
+    52,
+    63,
+    5.5,
+    3
+   ],
+   [
+    "kleine",
+    "für Kinder, aber auch für Erwachsene ist das eine tägliche kleine Freude.",
+    90,
+    97,
+    5.42,
+    3
+   ],
+   [
+    "solltest",
+    "Traditionen besonders wichtig sind und was du über das deutsche Weihnachtsfest wissen solltest.",
+    16,
+    25,
+    4.73,
+    1
+   ],
+   [
+    "mark",
+    "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning.",
+    0,
+    8,
+    4.7,
+    1
+   ],
+   [
+    "verwandten",
+    "Weihnachtsfeiertage. Die Deutschen nutzen diese Zeit, um ihre Verwandten zu besuchen und weitere",
+    280,
+    290,
+    4.19,
+    1
+   ],
+   [
+    "kurse",
+    "erwarten dich tolle Kurse und eine unterstützende Gemeinschaft:",
+    360,
+    368,
+    4.17,
+    1
+   ],
+   [
+    "melde",
+    "Wenn du mehr über deutsche Traditionen erfahren möchtet, melde dich für meinen Newsletter an und",
+    327,
+    336,
+    4.12,
+    1
+   ],
+   [
+    "adventskalender",
+    "2. Der Adventskalender Dann gibt es den Adventskalender! Gerade",
+    81,
+    91,
+    3.28,
+    2
+   ],
+   [
+    "knecht",
+    "vielleicht eine Rute vom Knecht Ruprecht! 5. Heiligabend und die Festtage",
+    188,
+    201,
+    3.53,
+    1
+   ],
+   [
+    "unterstützende",
+    "erwarten dich tolle Kurse und eine unterstützende Gemeinschaft:",
+    360,
+    368,
+    2.95,
+    1
+   ],
+   [
+    "weihnachtstag",
+    "7. Der erste und zweite Weihnachtstag Am 25. und 26. Dezember folgen die",
+    270,
+    281,
+    2.9,
+    1
+   ],
+   [
+    "türchen",
+    "ein Türchen öffnen. So kann man sich jeden Tag über eine kleine Überraschung freuen!",
+    117,
+    127,
+    2.87,
+    1
+   ],
+   [
+    "bin’s",
+    "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning.",
+    0,
+    8,
+    2.82,
+    1
+   ],
+   [
+    "weihnachtlichen",
+    "Stollen und Lebkuchen – diese weihnachtlichen Leckereien machen die Zeit noch gemütlicher.",
+    258,
+    270,
+    2.8,
+    1
+   ]
+  ],
+  "voc": 0.0636604774535809,
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um das Thema Weihnachten in Deutschland – wie die Deutschen feiern, welche Traditionen besonders wichtig sind und was du über das deutsche Weihnachtsfest wissen solltest. Es gibt zahlreiche Traditionen, die diese Zeit so besonders machen. Also, lasst uns direkt eintauchen! 1. Der Advent: Die Vorfreude beginnt früh Schon Ende November beginnt die Weihnachtszeit hier mit dem ersten Advent. Fast jede Familie hat einen Adventskranz, einen Kranz aus Tannenzweigen mit vier Kerzen. Jeden Sonntag wird eine Kerze angezündet, und es wird bis Weihnachten hin immer heller. Das Anzünden der Kerzen ist eine schöne Tradition, um sich langsam auf das Fest einzustimmen. 2. Der Adventskalender Dann gibt es den Adventskalender! Gerade für Kinder, aber auch für Erwachsene ist das eine tägliche kleine Freude. Es gibt ihn in allen möglichen Formen – vom einfachen Schokoladenkalender bis hin zu individuell befüllten Kalendern. Vom 1. Dezember bis zum 24. darf man jeden Tag ein Türchen öffnen. So kann man sich jeden Tag über eine kleine Überraschung freuen! 3. Die Weihnachtsmärkte Die Weihnachtsmärkte gehören einfach zur Weihnachtszeit in Deutschland dazu! Fast jede Stadt hat einen eigenen Weihnachtsmarkt, auf dem es Glühwein, gebrannte Mandeln, Bratwürste und handgefertigte Geschenke gibt. Die Märkte sind wunderschön geschmückt und bringen eine magische Atmosphäre in die Städte. 4. Der Nikolaustag Am 6. Dezember kommt der Nikolaus. Vor allem Kinder stellen am Abend des 5. Dezember ihre Schuhe vor die Tür. Wenn sie brav waren, finden sie am Morgen Süßigkeiten und kleine Geschenke darin – wenn nicht, gibt’s vielleicht eine Rute vom Knecht Ruprecht! 5. Heiligabend und die Festtage Der 24. Dezember, also der Heiligabend, ist für viele das wichtigste Fest. Die Familien kommen zusammen, es wird ein Weihnachtsbaum aufgestellt und geschmückt. Am Abend gibt es oft ein festliches Essen – und dann kommt das Christkind oder der Weihnachtsmann und bringt die Geschenke! In Deutschland ist es üblich, die Geschenke am Heiligabend zu überreichen. 6. Typische Weihnachtsgerichte Zu Weihnachten gibt es auch spezielle Gerichte. Viele essen Gans mit Rotkohl und Klößen oder Würstchen mit Kartoffelsalat. Und für die süße Seite gibt es Plätzchen, Stollen und Lebkuchen – diese weihnachtlichen Leckereien machen die Zeit noch gemütlicher. 7. Der erste und zweite Weihnachtstag Am 25. und 26. Dezember folgen die Weihnachtsfeiertage. Die Deutschen nutzen diese Zeit, um ihre Verwandten zu besuchen und weitere Feste zu feiern. Für viele ist es eine Zeit, zur Ruhe zu kommen und den Winter zu genießen. 8. Die Weihnachtsbotschaft Weihnachten ist nicht nur ein Fest des Schenkens, sondern vor allem ein Fest des Zusammenkommens und des Friedens. In vielen deutschen Familien ist es eine Zeit, innezuhalten und das Jahr gemeinsam ausklingen zu lassen. Wenn du mehr über deutsche Traditionen erfahren möchtet, melde dich für meinen Newsletter an und erhalte regelmäßig Infos über Sprache und Kultur: Und wenn du wirklich tief in die deutsche Sprache und Kultur eintauchen möchtest, dann ist die Deutschlern-Akademie genau das Richtige für dich. Dort erwarten dich tolle Kurse und eine unterstützende Gemeinschaft: Schreibe mir in die Kommentare: Wie feierst du Weihnachten? Gibt es ähnliche Traditionen in deiner Kultur? Ich bin gespannt! Danke fürs Zuschauen! Bis zum nächsten Mal — bis morgen!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.0633245382585752
+  "src": "cc"
  },
  "_DMebjT8M0o": {
   "channel": "Mascha und der Bär",
@@ -81391,7 +82306,7 @@
  "O7CSaBcSXTw": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-13T04:16:41+00:00",
+  "checked": "2026-11-26T21:06:48+00:00",
   "title": "Mascha und der Bär 💥 NEUE FOLGE 2026 💥 Ein wilder Trip 😵‍💫🐐📺 (Folge 146)",
   "duration": 1305,
   "published": "20260424",
@@ -81400,6 +82315,7 @@
   "pace": 94.9,
   "rare": 0.0671,
   "var": 0.8467,
+  "cl": null,
   "speech_s": 584.4,
   "tokens": 924,
   "kw": [
@@ -81532,11 +82448,125 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "wirklich",
+    "Oh ja, diese Tiere sind wirklich",
+    206,
+    211,
+    5.75,
+    3
+   ],
+   [
+    "vielleicht",
+    "Habt ihr vielleicht meine Ziege gesehen?",
+    480,
+    486,
+    5.72,
+    3
+   ],
+   [
+    "siehst",
+    "Siehst du jetzt, wie nützlich dieser Hut",
+    1156,
+    1162,
+    4.65,
+    2
+   ],
+   [
+    "berichten",
+    "Heute berichten wir von einem der",
+    76,
+    81,
+    4.61,
+    2
+   ],
+   [
+    "bär",
+    "Hallo Bär. Sieh mal, was ich im Wald",
+    1025,
+    1030,
+    4.0,
+    2
+   ],
+   [
+    "höhen",
+    "bezwingt sie die höchsten Höhen. In den",
+    163,
+    170,
+    3.99,
+    2
+   ],
+   [
+    "ängstlich",
+    "Wilde hungrige Jäger ängstlich. Nein, sie kennt keine Angst. Die Ziege",
+    190,
+    203,
+    3.59,
+    1
+   ],
+   [
+    "schlucht",
+    "über die tiefste Schlucht. Da draußen",
+    161,
+    167,
+    3.57,
+    1
+   ],
+   [
+    "verlorenes",
+    "verlorenes Ticklein wieder gefunden. Gibt es denn bei uns nicht genug zu",
+    739,
+    748,
+    2.98,
+    1
+   ],
+   [
+    "anmutig",
+    "wie anmutig sie die Hufe setzen,",
+    124,
+    131,
+    2.96,
+    1
+   ],
+   [
+    "eiscreme",
+    "ganze Eiscreme aus dem Kühlschrank aufgegessen?",
+    391,
+    398,
+    2.91,
+    1
+   ],
+   [
+    "quellwasser",
+    "Quellwasser und eine Vielzahl von natürlichen Futtermitteln. Die",
+    351,
+    358,
+    2.87,
+    1
+   ],
+   [
+    "furchtlos",
+    "furchtlos. Sie zögern nicht, sich auf",
+    208,
+    213,
+    2.85,
+    1
+   ],
+   [
+    "aufgehenden",
+    "Strahlen der aufgehenden Sonne sieht sie",
+    166,
+    172,
+    2.81,
+    1
+   ]
+  ],
+  "voc": 0.08091024020227561,
   "tx": "Ein wilder Trip. Meine kleinen Babys, ich bin morgen wieder da mit ganz vielen Geschenken. Erstens, kein Eis. Zweitens, nicht in den Wald gehen, dort gibt's Wölfe. Oh, und absolut niemals, niemals Fernsehen. Ich will in einem Traum. Ich kann schrein und tum. Ich steig auf jeden Baum. Wo ich bin ist um. Ich mache was ich will. Springerum und sitz nicht. Ich lerne mich auch keine Tag de tren. Heute berichten wir von einem der schönsten und idyllischsten Orte in unserer wunderbaren Region. Schauen Sie sich diese saftigen Wiesen und Weiden an. Unser heute. Beitrag handelt von diesen unglaublichen Bergziegen. Schauen Sie, wie mühelos Sie steil empor klettern, wie anmutig sie die Hufe setzen, wie tapfer sie den Gefahren strzen gegen alle Gesetze der Schwerkraft und wie sie nach Freiheit streben. Geh weiter, kleine Ziege, immer weiter. Kein Hindernis kann sie aufhalten, wenn sie sich auf den Weg macht. Sehen Sie, sie fliegt mit einem riesigen Sprung über die tiefste Schlucht. Da draußen bezwingt sie die höchsten Höhen. In den Strahlen der aufgehenden Sonne sieht sie so kühn und schön aus. Auf dem Gipfel der Welt nur Berg, Sonnenaufgang und Ziege. Und wer sonst würde einen Sturz aus solchen Höhen überleben? Und nun stellt die Natur für noch größere Herausforderungen. Wilde hungrige Jäger ängstlich. Nein, sie kennt keine Angst. Die Ziege nimmt alle Herausforderungen an und stellt sich ihm. Oh ja, diese Tiere sind wirklich furchtlos. Sie zögern nicht, sich auf alles zu stürzen, was sie auch nur entfertesten in Schwierigkeiten bringen könnte. Die Jäger suchen nach einem sicheren Ausweg. Meine kleinen Babys, ich bin morgen wieder da mit ganz vielen Geschäften. H Wenn Sie einer Bergziege in freier Wildbahn begegnen, machen Sie keine plötzlichen Bewegungen. Seien Sie extrem vorsichtig. Sie kann sie angreifen, mit ihren Hufen stampfen, auf sie springen und sogar verfolgen. Und sie versteckt sich im Gewüsch. Heute berichten wir von einem der schönsten und idyllischsten Orte in unserer wunderbaren Region. Schauen Sie sich diese saftigen Wiesen und Weiden an. Klares Quellwasser und eine Vielzahl von natürlichen Futtermitteln. Die Voraussetzung für ein glückliches und wohlgenährtes Leben und es steigert die Milchleistung der Kühe enorm. Ach, was für großartige Kinder ihr seid. Ihr seid alle gekommen, um mich zu begrüßen. Habt ihr euch dann, während ich weg war, auch gut genommen? Ihr seid nicht in den Wald gegangen und habt auch überhaupt keinen Fern gesehen. Das habt ihr gut gemacht, Kinder. Und welches Schweinchen hat dann die ganze Eiscreme aus dem Kühlschrank aufgegessen? Ah. Wir kommen in Ziegen. Merkwürdig. Das verstehe ich nicht. Wo ist denn meine Ziege hin? Hier riech und such. Aus! Ruhig! Lasst das Jungs. Wo ist meine Ziege? Dann lass uns weitersuchen. Habt ihr vielleicht meine Ziege gesehen? Diese Außerirdischen können nichts als Quatsch machen. Besser, sie hätten mal nach der Ziege gesucht. ah Hü. Oh, seht man, wer da gelandet ist. Sei herzlich gegrüßt an das planetiger Bruder. Hast du von da oben zufällig meine Ziege gesehen? Und ihr habt gedacht, das wäre ein Außerirdischer. Ganz ruhig. Hab keine Angst, Jungs. Der will doch nur spielen. Aus beim Fuß. Halt. Komm zurück. Hierher sage ich. Komm zurück. Aus. Hurra, du bist wieder da. Wir haben ein verlorenes Ticklein wieder gefunden. Gibt es denn bei uns nicht genug zu futtern für dich? Musstest du denn wirklich weglaufen und dich auch noch am Feld unseres Nachbarn bedienen? Na prima. Wo ist sie denn jetzt schon wieder hinverschwunden? Hallo Rosi, wo bist du? Mein kleines Baby Rosilein, wo bist du? Wie kann das sein? Wohin ist sie nur verschwunden? Aha. H, niemand ist runter. Hoppla. Also, Sachen gibt's. Wow, das ist ja echt ganz schön cool. Dieser Hut ist wirklich super. Entschuldige bitte, hast du vielleicht irgendwo meinen Hut gesehen? Ich habe ihn irgendwo verlegt. Hast du was bemerkt? Dennoch vielen Dank. เฮ Hey Leute, wollt ihr mal sehen, was ich Neues drauf habe? Seht euch nur diesen Gruselwagen an. Was? Was habt ihr denn bloß? Bleib doch hier. Lauf doch nicht weg. Wem könnte ich das denn noch zeigen? Wer natürlich? Entschuldigt bitte. Habt ihr irgendwo meinen Hut gesehen? Er ist schwarz und hat eine Spitze. Merci. Hallo Bär. Sieh mal, was ich im Wald gefunden habe. Einen Hut mit unglaublichen Zauberkräften. Ja. Ja, ich habe magische Kräfte wie ein echter Zauberer. Ach, das ist doch kein Problem. Das bringen wir in Ull nichts wieder in Ordnung. schon fertig. Alles zauberhaft aufgeräumt. Hör auf ihn so anzuschreien. Er ist lebendig. Du verletzt deine Gefühle und außerdem ist er praktisch. Cool. Siehst du jetzt, wie nützlich dieser Hut ist? Er ist fantastisch. Also sei lieb und nett zu dem Hut. nicht schreien. Entschuldigt bitte, dieser schwarze Hut gehört mir. Da bist du wieder. Ich habe die ganze Zeit nach dir gesucht, mein liebes Hütchen. Er gehört mir. Gib ihn mir wieder. Nein, es ist meiner. Ich habe ihn vorhin verloren und ich habe ihn gefunden. Ah! Na ja, ich vermisse auch schon seit einiger Zeit meine kleine Rosi. H Hurra! Du bist wieder da. Leute, Rosi ist zurück. Verzeihung, aber du siehst irgendwie verwirrt aus. Kann ich dir behilflich sein? Merc. Macht's gut, meine Freunde. Auf Wiedersehen. Komm uns bald mal wieder besuchen und bring deinen Hut mit. So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amen.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.08135168961201501
+  "src": "auto"
  },
  "wHZsNh1AioQ": {
   "channel": "comprehensible GERMANi",
@@ -107476,5 +108506,535 @@
   "spoken": "en",
   "spoken_v": 2,
   "status": "wronglang"
+ },
+ "DCV2s8Nn01M": {
+  "channel": "German Stories for Beginners",
+  "lang": "de",
+  "checked": "2026-11-26T20:35:21+00:00",
+  "title": "Learn German Fast: A Simple Story About My Mother (A1)",
+  "duration": 871,
+  "published": "20261125",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 85.3,
+  "rare": 0.0424,
+  "var": 0.6507,
+  "cl": null,
+  "speech_s": 597.7,
+  "tokens": 850,
+  "kw": [
+   [
+    "mutter",
+    "Meine Mutter meine Mutter heißt Maria.",
+    57,
+    65,
+    5.26,
+    49
+   ],
+   [
+    "jeden",
+    "Sie steht jeden Morgen früh auf.",
+    106,
+    114,
+    5.5,
+    13
+   ],
+   [
+    "manchmal",
+    "Ich gehe manchmal mit ihr zum",
+    203,
+    209,
+    5.19,
+    12
+   ],
+   [
+    "zusammen",
+    "Wir gehen zusammen durch die Geschäfte.",
+    216,
+    221,
+    5.55,
+    10
+   ],
+   [
+    "blumen",
+    "Meine Mutter liebt Blumen. Meine Mutter liebt Blumen. Deshalb",
+    340,
+    355,
+    4.43,
+    8
+   ],
+   [
+    "kauft",
+    "Meine Mutter kauft jeden Montag Lebensmittel.",
+    172,
+    179,
+    4.36,
+    8
+   ],
+   [
+    "tee",
+    "Familie. Sie macht gerne Kaffee und Tee.",
+    127,
+    135,
+    4.45,
+    7
+   ],
+   [
+    "lebensmittel",
+    "Lebensmittel groceries",
+    25,
+    31,
+    4.34,
+    7
+   ],
+   [
+    "braune",
+    "Sie hat braune Haare und braune Augen.",
+    91,
+    102,
+    4.0,
+    8
+   ],
+   [
+    "schwierige",
+    "schwierige Aufgabe difficult task",
+    21,
+    28,
+    4.06,
+    6
+   ],
+   [
+    "ratschläge",
+    "mir gute Ratschläge. Sie gibt mir gute Ratschläge.",
+    298,
+    312,
+    3.81,
+    6
+   ],
+   [
+    "geduldig",
+    "geduldig understanding",
+    52,
+    62,
+    3.73,
+    6
+   ],
+   [
+    "ganzem",
+    "von ganzem Herzen with all my heart",
+    48,
+    55,
+    3.57,
+    7
+   ],
+   [
+    "schenke",
+    "schenke ich ihr manchmal Blumen. Deshalb schenke ich ihr manchmal Blumen.",
+    350,
+    367,
+    3.49,
+    4
+   ],
+   [
+    "mother",
+    "My mother's name is Maria. Meine Mutter heißt Maria. Sie ist 45",
+    61,
+    71,
+    3.36,
+    4
+   ],
+   [
+    "someone",
+    "to be there for someone von ganzem Herzen",
+    45,
+    53,
+    3.02,
+    2
+   ],
+   [
+    "lieblingsessen",
+    "Mein Lieblingsessen ist Reis mit Gemüse.",
+    159,
+    166,
+    2.87,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "liebe",
+    "Meine Mutter ist eine liebe Frau.",
+    79,
+    87,
+    5.48,
+    9
+   ],
+   [
+    "tag",
+    "Meine Mutter kocht jeden Tag für uns.",
+    140,
+    146,
+    5.69,
+    8
+   ],
+   [
+    "dankbar",
+    "dankbar grateful",
+    40,
+    46,
+    4.44,
+    6
+   ],
+   [
+    "gemüse",
+    "Mein Lieblingsessen ist Reis mit Gemüse.",
+    159,
+    166,
+    4.33,
+    6
+   ],
+   [
+    "supermarkt",
+    "Supermarkt. Ich gehe manchmal mit ihr zum",
+    205,
+    217,
+    4.17,
+    4
+   ],
+   [
+    "reis",
+    "Mein Lieblingsessen ist Reis mit Gemüse.",
+    159,
+    166,
+    4.14,
+    3
+   ],
+   [
+    "early",
+    "She gets up early every morning.",
+    109,
+    117,
+    3.59,
+    1
+   ],
+   [
+    "woman",
+    "My mother is a kind woman.",
+    83,
+    92,
+    3.57,
+    1
+   ],
+   [
+    "runs",
+    "runs out.",
+    767,
+    771,
+    2.99,
+    1
+   ],
+   [
+    "missing",
+    "Guess the missing words before the time",
+    765,
+    771,
+    2.94,
+    1
+   ],
+   [
+    "understanding",
+    "understanding Meine Mutter meine Mutter heißt Maria.",
+    54,
+    65,
+    2.87,
+    1
+   ],
+   [
+    "advice",
+    "advice zuhören",
+    32,
+    37,
+    2.64,
+    1
+   ],
+   [
+    "fill",
+    "Now let's practice fill in the blanks.",
+    762,
+    768,
+    2.64,
+    1
+   ]
+  ],
+  "voc": 0.08433734939759036,
+  "tx": "erklären to explain schwierige Aufgabe difficult task Lebensmittel groceries food Ratschlag advice zuhören to listen sich freuen to be happy pleased dankbar grateful für jemanden da sein to be there for someone von ganzem Herzen with all my heart geduldig understanding Meine Mutter meine Mutter heißt Maria. My mother's name is Maria. Meine Mutter heißt Maria. Sie ist 45 Jahre alt. She is 45 years old. Sie ist 45 Jahre alt. Meine Mutter ist eine liebe Frau. My mother is a kind woman. Meine Mutter ist eine liebe Frau. Sie hat braune Haare und braune Augen. She has brown hair and brown eyes. Sie hat braune Haare und braune Augen. Sie steht jeden Morgen früh auf. She gets up early every morning. Sie steht jeden Morgen früh auf. Sie macht morgens Frühstück die Familie. Sie macht morgens Frühstück für die Familie. Sie macht gerne Kaffee und Tee. Sie macht gerne Kaffee und Tee. Meine Mutter kocht jeden Tag für uns. Sie kann sehr gut kochen. Mein Lieblingsessen ist Reis mit Gemüse. Meine Mutter kauft jeden Montag Lebensmittel. Meine Mutter kauft jeden Montag Lebensmittel. Sie kauft Obst, Gemüse, Milch und Brot. Ich gehe manchmal mit ihr zum Supermarkt. Ich gehe manchmal mit ihr zum Supermarkt. Wir gehen zusammen durch die Geschäfte. Meine Mutter hilft mir beim Lernen. Sie erklärt mir schwierige Aufgaben. Sie ist sehr geduldig mit mir. Wenn ich traurig bin, spricht sie mit mir. Wenn ich traurig bin, spricht sie mit mir. Wenn ich glücklich bin, freut sie sich mit mir. Wenn ich glücklich bin, freut sie sich mit mir. Meine Mutter hört mir immer zu. Meine Mutter hört mir immer zu. Sie gibt mir gute Ratschläge. Sie gibt mir gute Ratschläge. Am Abend trinken wir oft zusammen Tee. Wir sprechen über unseren Tag. Wir sprechen über unseren Tag. Manchmal sehen wir zusammen einen Film. Manchmal sehen wir zusammen einen Film. Meine Mutter liebt Blumen. Meine Mutter liebt Blumen. Deshalb schenke ich ihr manchmal Blumen. Deshalb schenke ich ihr manchmal Blumen. Meine Mutter ist immer für mich da. Sie macht mich jeden Tag glücklich. Ich bin sehr dankbar für meine Mutter. Ich liebe meine Mutter von ganzem Herzen. Ich liebe meine Mutter von ganzem Herzen. Meine Mutter meine Mutter heißt Maria. Sie ist 45 Jahre alt. Meine Mutter ist eine liebe Frau. Sie hat braune Haare und braune Augen. Sie steht jeden Morgen früh auf. Sie macht morgens Frühstück für die Familie. Sie macht gerne Kaffee und Tee. Meine Mutter kocht jeden Tag für uns. Sie kann sehr gut kochen. Mein Lieblingsessen ist Reis mit Gemüse. Meine Mutter kauft jeden Montag Lebensmittel. Sie kauft Obst, Gemüse, Milch und Brot. Ich gehe manchmal mit ihr zum Supermarkt. Wir gehen zusammen durch die Geschäfte. Meine Mutter hilft mir beim Lernen. Sie erklärt mir schwierige Aufgaben. Sie ist sehr geduldig mit mir. Wenn ich traurig bin, spricht sie mit mir. Wenn ich glücklich bin, freut sie sich mit mir. Meine Mutter hört mir immer zu. Sie gibt mir gute Ratschläge. Am Abend trinken wir oft zusammen Tee. Wir sprechen über unseren Tag. Manchmal sehen wir zusammen einen Film. Meine Mutter liebt Blumen. Deshalb schenke ich ihr manchmal Blumen. Meine Mutter ist immer für mich da. Ich bin sehr dankbar für meine Mutter. Ich liebe meine Mutter von ganzem Herzen. Meine Mutter Meine Mutter heißt Maria. Sie ist 45 Jahre alt. Meine Mutter ist eine liebe Frau. Sie hat braune Haare und braune Augen. Sie steht jeden Morgen früh auf. Sie macht morgens Frühstück für die Familie. Sie macht gerne Kaffee und Tee. Meine Mutter kocht jeden Tag für uns. Sie kann sehr gut kochen. Mein Lieblingsessen ist Reis mit Gemüse. Meine Mutter kauft jeden Montag Lebensmittel. Sie kauft Obst, Gemüse, Milch und Brot. Ich gehe manchmal mit ihr zum Supermarkt. Wir gehen zusammen durch die Geschäfte. Meine Mutter hilft mir beim Lernen. Sie erklärt mir schwierige Aufgaben. Sie ist sehr geduldig mit mir. Wenn ich traurig bin, spricht sie mit mir. Wenn ich glücklich bin, freut sie sich mit mir. Meine Mutter hört mir immer zu. Sie gibt mir gute Ratschläge. Am Abend trinken wir oft zusammen Tee. Wir sprechen über unseren Tag. Manchmal sehen wir zusammen einen Film. Meine Mutter liebt Blumen. Deshalb schenke ich ihr manchmal Blumen. Meine Mutter ist immer für mich da. Ich bin sehr dankbar für meine Mutter. Ich liebe meine Mutter von ganzem Herzen. Geduldig. Meine Mutter ist sehr geduldig. Erklären. Meine Mutter erklärt mir schwierige Aufgaben. Lebensmittel. Meine Mutter kauft jeden Montag Lebensmittel. Ratschläge. Meine Mutter gibt mir gute Ratschläge. Zuhören. Meine Mutter hört mir immer zu. Dankbar. Ich bin sehr dankbar für meine Mutter. Schwierig. Meine Mutter erklärt mir schwierige Aufgaben. Sich freuen. Meine Mutter freut sich mit mir. To be happy. My mother is happy with me. Für jemanden da sein. Meine Mutter ist immer für mich da. To be there for someone. My mother is always there for me. Von ganzem Herzen. Ich liebe meine Mutter von ganzem Herzen. With all my heart. I love my mother with all my heart. Now let's practice fill in the blanks. Guess the missing words before the time runs out.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "73_mqgn6UZw": {
+  "channel": "Mascha und der Bär",
+  "lang": "de",
+  "checked": "2026-11-26T20:35:34+00:00",
+  "title": "Mascha und der Bär 👧🐻 Zeitvertreib mit Mascha 💁‍♀️🤸‍♂️ Masha and the Bear",
+  "duration": 2807,
+  "published": "20261124",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 84.4,
+  "rare": 0.0885,
+  "var": 0.8118,
+  "cl": null,
+  "speech_s": 899.3,
+  "tokens": 1265,
+  "kw": [
+   [
+    "euch",
+    "Gefällt euch mein Mascha-Mobil? Merkt euch eins.",
+    552,
+    561,
+    5.71,
+    7
+   ],
+   [
+    "lesen",
+    "Ich hoffe, ihr könnt lesen. An die Arbeit, Freunde.",
+    562,
+    580,
+    5.23,
+    6
+   ],
+   [
+    "hey",
+    "Hey. Kapitän, wir sind auf der Stelle bereit,",
+    116,
+    155,
+    4.93,
+    6
+   ],
+   [
+    "bitte",
+    "Motorrad rumfahren. Bitte. Unsere hungrige Seele verlangt nach großer",
+    22,
+    30,
+    5.7,
+    5
+   ],
+   [
+    "kapitän",
+    "Kapitän, wir sind auf der Stelle bereit,",
+    149,
+    155,
+    4.39,
+    5
+   ],
+   [
+    "ohren",
+    "Aua, meine Ohren, meine Ohren. Ich glaube, meine Ohren sind noch dran.",
+    934,
+    944,
+    4.47,
+    4
+   ],
+   [
+    "guck",
+    "Guck mal, ich kann was Tolles.",
+    864,
+    869,
+    4.37,
+    4
+   ],
+   [
+    "runter",
+    "Komm schnell runter. Ich sag's nicht",
+    1419,
+    1425,
+    4.64,
+    3
+   ],
+   [
+    "bär",
+    "Bär, lass uns Kinder sofort mit dem",
+    20,
+    25,
+    4.0,
+    13
+   ],
+   [
+    "süsses",
+    "",
+    0,
+    0,
+    3.93,
+    7
+   ],
+   [
+    "dreh",
+    "Dreh das Steuerrad und segle mit.",
+    313,
+    320,
+    4.01,
+    4
+   ],
+   [
+    "anleitung",
+    "Ihr müsst euch genau an die Anleitung",
+    558,
+    563,
+    4.11,
+    3
+   ],
+   [
+    "reue",
+    "Kinder, wollt ihr naschen ohne Reue? Wir",
+    2730,
+    2736,
+    3.59,
+    2
+   ],
+   [
+    "marmelade",
+    "Marmelade und zwar viel. Das Gemüse aus den Beeten,",
+    996,
+    1008,
+    3.57,
+    2
+   ],
+   [
+    "astronaut",
+    "guck mal, ich bin ein Astronaut.",
+    897,
+    904,
+    3.31,
+    2
+   ],
+   [
+    "naschen",
+    "Kinder, wollt ihr naschen ohne Reue? Wir",
+    2730,
+    2736,
+    3.05,
+    2
+   ],
+   [
+    "steuerrad",
+    "Dreh das Steuerrad und segle mit.",
+    313,
+    320,
+    2.41,
+    4
+   ],
+   [
+    "spür",
+    "Spür die Freiheit dieser Wellen auch.",
+    316,
+    323,
+    2.83,
+    3
+   ],
+   [
+    "lutscher",
+    "guck mal die vielen Lutscher, die ich",
+    2581,
+    2585,
+    2.95,
+    2
+   ],
+   [
+    "mascha",
+    "Gefällt euch mein Mascha-Mobil? Merkt euch eins.",
+    552,
+    561,
+    2.94,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "bist",
+    "Du bist das, süßes Kartoffelchen. Mein süßes kleines Stachelbaby.",
+    1230,
+    1249,
+    5.61,
+    5
+   ],
+   [
+    "kinder",
+    "Bär, lass uns Kinder sofort mit dem",
+    20,
+    25,
+    5.6,
+    5
+   ],
+   [
+    "achtung",
+    "Achtung, ganz wichtig, ihr müsst lächeln",
+    692,
+    702,
+    4.52,
+    3
+   ],
+   [
+    "aha",
+    "Aha. Putz die Pfanne und die Töpfe",
+    981,
+    989,
+    4.2,
+    3
+   ],
+   [
+    "süsser",
+    "",
+    0,
+    0,
+    3.99,
+    3
+   ],
+   [
+    "hierher",
+    "Bring alle Werkzeuge hierher, den ganzen",
+    2124,
+    2132,
+    4.15,
+    2
+   ],
+   [
+    "zähneputzen",
+    "Zähneputzen hinterher. Kinder, wollt ihr naschen ohne",
+    2738,
+    2747,
+    3.03,
+    2
+   ],
+   [
+    "umarmen",
+    "umarmen die Angst und wandeln sie in",
+    310,
+    314,
+    3.59,
+    1
+   ],
+   [
+    "steuerbord",
+    "Richtung Steuerbord. Jetzt Backbord.",
+    159,
+    169,
+    2.62,
+    2
+   ],
+   [
+    "yummy",
+    "Yummy, yummy. Aber irgendwas fehlt noch. Vielleicht",
+    880,
+    887,
+    2.34,
+    2
+   ]
+  ],
+  "voc": 0.09073359073359073,
+  "tx": "Alle an Bord. Bär, lass uns Kinder sofort mit dem Motorrad rumfahren. Bitte. Unsere hungrige Seele verlangt nach großer Action. War das aber mal eine Runde. Hurra, ein Hausboot. Lasst uns eine Runde fahren. Hurra, alle an Bord. Lichtet die Anker. Hey. Kapitän, wir sind auf der Stelle bereit, loszusegeln. Jetzt bin ich der Kapitän. Jetzt mal zugehört, Schiffsjunge. Ab Richtung Steuerbord. Jetzt Backbord. Steuerbord. Kapitän, die Crew steht bereit. Alles fertig zum Lossegeln. Volle Kraft voraus. Wir sind die Wölfe des Wassers. Nicht wahr, Kapitän? Wir sehnen uns zu reisen, die Welt zu erkunden. … auch mal fehlt oder die gute Tanz vor Angst sich nicht mehr rührt, dann werden wir ganz schnell zu mutigen Piraten, umarmen die Angst und wandeln sie in Licht. Dreh das Steuerrad und segle mit. Spür die Freiheit dieser Wellen auch. Und nichts kann uns zur Freude stören. Dreh das Steuerrad und segle mit. Spür die Freiheit dieser Wellen auch. Und nichts kann uns zur Freude stören. Dreh das Steuerrad und segle mit. Frei fliegen wie ein Vogel wird jetzt real. Das Leben ist ein Traum, kannst du es spüren? Dreh das Steuerrad und segle mit. Nein, das ist bloß noch ein Haufen Schrott. Ihr … Klasse. Guten Morgen, ihr Faulpelze. Aufgestanden. Und an die Arbeit. Tada. Was ist los? Gefällt euch mein Mascha-Mobil? Merkt euch eins. Ihr müsst euch genau an die Anleitung halten. Ich hoffe, ihr könnt lesen. An die Arbeit, Freunde. Als allererstes Gut, gut, gut, gut, gut. Aufmerksam lesen. Lest ganz genau, was da steht. Spinnt ihr? So könnt ihr das nicht machen. In der Anleitung steht was anderes. Und ihr macht genau das Gegenteil. Der Knopf startet den Motor. Und das ist die Gangschaltung. Und das da, das ist ganz besonders schick. Und das da sind eure ersten Fahrgäste. Achtung, … faulen Schulschwänzer, nichts als Schwänzen. Wenn ich euch einhole, dann zwinge ich euch alle Buchstaben zu lernen. Sei nicht böse. Das ist nur passiert, weil sie nicht lesen können. Hallo, liebe Schüler. Aufwachen und lesen lernen. A M P Y Guck mal, ich kann was Tolles. Na? Oh, wow! Gleich fertig. Yummy, yummy. Aber irgendwas fehlt noch. Vielleicht etwas Salz? Bär, guck mal, ich bin ein Astronaut. System überprüft. Start gelungen. Wir fliegen. Ups. Houston, wir haben ein Problem. Houston, wir haben ein Problem. Aua, meine Ohren, meine Ohren. Ich glaube, meine Ohren sind noch dran. Warte, … Das Gemüse aus den Beeten, die Früchte über deinen Kopf. Mix sie alle gut zusammen, wirf sie alle in den Topf. Du brauchst saftige Karotten, Pilze aber das ist neu. Nur mit feinster Pfanne zapfen gibt ein leckeres Gebräu. In den Topf und kräftig rühren und schon ist es fast verbacht. Marmelade, süß und lecker, ist im Handumdrehen gemacht. Bär, wo warst du denn so lange? Hier ist alles fix und fertig. Bitte sehr. Und jetzt das. Guck mal, so läuft ein Astronaut auf dem Mond herum. Systeme überprüft. Achtung, wir starten. Mein süßer Schatz. Na, na, na, wer ist denn da? Aha! Du bist das, … du, dass du hingehst? Ich frag nur. Hä? Lauf mal nicht weg. Du bist noch zu grün hinter den Ohren dafür. Komm schnell runter. Ich sag's nicht noch mal. Komm jetzt runter. Runter. Hörst du nicht? Ah! Ha? Hä? Was haben wir denn hier, das so stachelig ist? Willst du ein paar Erdbeeren essen, mein süßes Kartoffelchen? Aha! Da bist du ja, mein kleiner Klopfer. Und jetzt Schluss mit dem Versteckspiel. Aber mir sind die Erdbeeren ausgegangen. Jetzt verlassen sie also ihr Nest. Stachelige kleine Wesen. Wie schnell die Kinder anderer erwachsen werden, nicht wahr? Du, mein süßes Kartoffelchen. … Klasse. Oh, lecker. Hey, ich will mitfahren. Ja. Wir geben jetzt Gas, haben dabei Spaß. Minu. Schon wieder? Oh ja! Achtung, pass auf! Igel-Familie! Entspann dich. Deine Fahrerin ist hier. Zündung aus, bitte. Motoren abstellen. War das alles langweilig, bevor du dieses heiße Teil hattest, Bär? Tolles Wetter, für einen Ausritt. Nehmen alle Kurven zu dritt. Entspannt gleiten wir durchs Land. Angst macht den Wolf größer. Hey Bär, schau wie gut ich lenken kann. Hey Bär, wir können den Krankenwagen nicht so stehen lassen. Es dauert auch nur 5 Minuten. Wir besorgen einen Schraubschlüssel, den … gewählt? Und was sitzt ihr denn hier so rum? Papa, Papa! Hey Bär, fang mich auf! Oh, du bist ja schon auf. Ich bin hierher gerollert, um mit dir zu frühstücken. Von mir aus kannst du ja gern Fische jagen. Doch ich brauche erst was für den Magen. Will Will ich nicht. Ich will irgendwas schön Süßes essen. Ich kann gar nichts dafür. Alle Kinder essen am liebsten was richtig Süßes. Zucker. Nein. Wenn ich was Süßes haben will, dann werde ich es auch kriegen. Ja, wenn mir keiner hilft, dann helfe ich mir eben selbst. Toll. Am besten schmeckt das, was zuckersüß ist. Kosten. Oh wow. Klasse. Oh … Bonbons, Kekse, süße Brause, Kuchen, Eis und lila Pause. Zur Not tuns ein paar Gummibärchen auch. Nougat, Lollis, Mandelsplitter, Schoko, Vollmilch, Nuss bitter. Damit fülle ich täglich meinen Bauch. Und jeder warnt mich zu jeder Tagesstund. Pass auf, dir fallen bald die Zähne aus dem Mund. Die ticken ja nicht rund. Meine Zähne sind gesund. Zucker, mein Lutscher und und frech dich knusprig in meinem Mund. Ganz mächtig ein Witz, der zuckt vom Kopf bis in den Zeh. Ich weiß es nicht und spür es doch. Wo eben noch ein Zahn war, klafft ein Loch. Herr Doktor, warum tut das denn so weh? Darf ich … sagen euch ja stets aufs Neue, ist die Lösung gar nicht schwer. Zähneputzen hinterher. Kinder, wollt ihr naschen ohne Reue? Wir sagen euch ja stets aufs Neue, ist die Lösung gar nicht schwer. Zähneputzen hinterher. Jep, ich bin extra zum Frühstück hergerollert. Einmal Schleckermaul, immer Schleckermaul. Ähm. So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm. Dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage, Mascha und der Bär ist dran. Das war einfach und jetzt probiert ihr es mal.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
  }
 }

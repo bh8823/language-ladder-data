@@ -79844,7 +79844,7 @@
  "j1q2CMxKj90": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T03:52:54+00:00",
+  "checked": "2026-11-26T20:53:56+00:00",
   "title": "Learn German | A2 german listening practice | Das Internet in meinem Alltag",
   "duration": 530,
   "published": "20260609",
@@ -79853,6 +79853,7 @@
   "pace": 104.0,
   "rare": 0.0066,
   "var": 0.822,
+  "cl": null,
   "speech_s": 173.7,
   "tokens": 301,
   "kw": [
@@ -79929,11 +79930,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "dinge",
+    "Das Internet macht viele Dinge sehr einfach und schnell.",
+    43,
+    48,
+    5.22,
+    3
+   ],
+   [
+    "sehe",
+    "Ich lese Nachrichten oder sehe mir Videos an.",
+    33,
+    38,
+    5.18,
+    3
+   ],
+   [
+    "verbringen",
+    "Viele Menschen verbringen zu viel Zeit am Handy oder Computer.",
+    134,
+    141,
+    4.42,
+    2
+   ],
+   [
+    "bewusst",
+    "aber man muss es bewusst benutzen.",
+    185,
+    191,
+    4.78,
+    1
+   ],
+   [
+    "nachteile",
+    "Aber das Internet hat auch Nachteile.",
+    130,
+    135,
+    4.11,
+    1
+   ],
+   [
+    "buchen",
+    "Viele Menschen buchen auch Reisen online.",
+    124,
+    129,
+    4.07,
+    1
+   ],
+   [
+    "lerne",
+    "Ich suche Informationen und lerne neue Dinge online.",
+    54,
+    61,
+    4.07,
+    1
+   ],
+   [
+    "lege",
+    "Am Abend lege ich mein Handy manchmal weg und lese ein Buch.",
+    169,
+    175,
+    4.06,
+    1
+   ],
+   [
+    "spazieren",
+    "Ich gehe auch spazieren, treffe Freunde oder mache Sport.",
+    164,
+    170,
+    3.99,
+    1
+   ],
+   [
+    "lernvideos",
+    "Sie machen Hausaufgaben im Internet oder schauen Lernvideos.",
+    66,
+    73,
+    2.03,
+    1
+   ]
+  ],
+  "voc": 0.00851063829787234,
   "tx": "Das Internet in meinem Alltag Heute benutzen viele Menschen das Internet jeden Tag, auch ich. Das Internet ist ein großer Teil meines Lebens geworden. Am Morgen schaue ich oft zuerst auf mein Handy. Ich lese Nachrichten oder sehe mir Videos an. Manchmal höre ich Musik, während ich mich fertig mache. Das Internet macht viele Dinge sehr einfach und schnell. Ich benutze das Internet auch für die Arbeit oder die Schule. Ich suche Informationen und lerne neue Dinge online. Viele Schüler lernen heute mit dem Computer oder mit dem Handy. Sie machen Hausaufgaben im Internet oder schauen Lernvideos. Das Internet ist sehr praktisch. Man kann viele Informationen finden. Wenn ich etwas nicht weiß, suche ich es sofort online. Es gibt Informationen aus vielen Ländern und in vielen Sprachen. Ich benutze das Internet auch für soziale Medien. Dort spreche ich mit Freunden oder sehe ihre Bilder und Videos. Manchmal schreibe ich Nachrichten oder mache einen Videoanruf mit meiner Familie. Das ist sehr schön, besonders wenn man weit weg ist. Auch Einkaufen ist heute im Internet möglich. Man kann Kleidung, Essen oder andere Dinge bestellen. Viele Menschen buchen auch Reisen online. Das ist schnell und bequem. Aber das Internet hat auch Nachteile. Viele Menschen verbringen zu viel Zeit am Handy oder Computer. Manchmal vergessen sie die echte Welt. Ich sehe oft Menschen, die im Café sitzen und nur auf ihr Handy schauen. Dann sprechen sie nicht miteinander. Das finde ich schade. Deshalb ist es wichtig, eine Balance zu haben. Ich versuche, nicht zu viel Zeit online zu verbringen. Ich gehe auch spazieren, treffe Freunde oder mache Sport. Am Abend lege ich mein Handy manchmal weg und lese ein Buch. Oder höre Musik ohne Internet. Das fühlt sich ruhig und gut an. Ich denke, das Internet ist sehr hilfreich, aber man muss es bewusst benutzen.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.00851063829787234
+  "src": "cc"
  },
  "Ps_8hiVfEWI": {
   "channel": "Deutsch mit Lari",
@@ -80661,7 +80744,7 @@
  "J4Mr4wP8j40": {
   "channel": "Miffy - Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T04:00:55+00:00",
+  "checked": "2026-11-26T20:53:41+00:00",
   "title": "Miffys Vogelhaus | Miffy | Ganze Folge",
   "duration": 1253,
   "published": "20250914",
@@ -80670,6 +80753,7 @@
   "pace": 100.9,
   "rare": 0.1092,
   "var": 0.7988,
+  "cl": null,
   "speech_s": 1170.3,
   "tokens": 1968,
   "kw": [
@@ -80834,11 +80918,93 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "haus",
+    "ins Haus und zeigte ihn ihrer Mutter.",
+    343,
+    349,
+    5.41,
+    12
+   ],
+   [
+    "sah",
+    "Miffi ging in ihr Zimmer und sah sich",
+    79,
+    87,
+    5.07,
+    8
+   ],
+   [
+    "vögel",
+    "kauft man im Laden. Die Vögel legen",
+    593,
+    599,
+    4.31,
+    5
+   ],
+   [
+    "blaue",
+    "betrachtete sie das kleine blaue Ei.",
+    558,
+    565,
+    4.3,
+    5
+   ],
+   [
+    "melanie",
+    "Miffi und Melanie spielten im Garten vor",
+    502,
+    509,
+    3.85,
+    7
+   ],
+   [
+    "brett",
+    "Wände, ein dickeres Brett für den Boden",
+    806,
+    813,
+    3.95,
+    5
+   ],
+   [
+    "geschüttelt",
+    "geschüttelt. Es konnte noch nicht einmal fliegen.",
+    322,
+    329,
+    3.31,
+    2
+   ],
+   [
+    "spielsachen",
+    "ihre schönen Spielsachen an. ",
+    82,
+    95,
+    3.25,
+    2
+   ],
+   [
+    "pig",
+    "Miffi. In dem Moment kam Poppy Pig",
+    564,
+    570,
+    2.87,
+    2
+   ],
+   [
+    "teddybär",
+    "mein Teddybär. Guck mal! Die beiden Teddybeären sahen genau",
+    1083,
+    1096,
+    2.8,
+    2
+   ]
+  ],
+  "voc": 0.056847545219638244,
   "tx": "In Miffis Zimmer hängt ein ganz besonderer Kalender. Darauf sind die Geburtstage von ihrer Familie und all ihren Freunden eingetragen. Sie will keinen einzigen Geburtstag vergessen. Da ist ein Zeichen für Boris Bärs Geburtstag und für Barbara Bärsgeburtstag. Ein Zeichen für Poppy Pigs Geburtstag, ein Zeichen für Mutters Geburtstag und ein Zeichen für Vatersgeburtstag. Und da ist sogar ein Zeichen für Schnuffis Geburtstag und der ist heute. Es ist gut, dass ich meinen Geburtstagskalender habe, dachte Miffi. Es wäre schrecklich, wenn ich den Geburtstag eines lieben Freundes vergessen würde. … für Schnuffi machen?\" \"Ich habe eine hübsche Schüssel\", sagte die Mutter. \"Du kannst ein Bild von Schnuffi darauf malen, dann hat sie eine schöne Wasserschüssel.\" Die Mutter holte die Schüssel aus dem Schrank und gab sie Miffi. \"Das ist eine gute Idee\", freute sich Miffi. \"Ich nehme meinen Malkasten und male ein schönes Bild von Schnuffi auf die Schüssel. Bald war die Schüssel fertig. Und sie war wirklich wunderschön. Miffi lief nach draußen und rief: \"Schn! Schn, du hast Geburtstag. Hol dir dein Geschenk. Als Schnuffi die schöne kleine Schüssel mit ihrem Bild darauf sah, wedelte sie mit … herunterkam, rollte er bis zu einem Baum. Mii lief, um den Ball zu holen. Und was fand sie da? Ein Vogelbaby. Der Wind hatte es aus seinem Nest geschüttelt. Es konnte noch nicht einmal fliegen. Oh je, sagte Miffi. Das arme kleine Vogelbaby braucht Hilfe. Aber was kann ich tun? Miffi trug den kleinen Vogel vorsichtig ins Haus und zeigte ihn ihrer Mutter. Wie kann ich dem armen Vogelbaby helfen? Ich glaube, der Wind hat es aus einem Nest geschüttelt. Es muss verletzt sein. Die Mutter sah sich den kleinen Vogel an. Ich glaube, es geht ihm gut, Miffi. Oh, wie schön, sagte Miffi. Darf ich ihn … und zwei kleine Hüpfer. Er versuchte zhaft mit seinen Flügeln zu schlagen. Dann machte er wieder und schlug wieder mit seinen kleinen Flügeln. Miffi und ihre Mutter kamen mit der Leiter zurück und lehnten sie an den Baum. Da machte der kleine Vogel wieder. Er bewegte seine Flügel immer schneller und begann zu fliegen. Er flog rundherum und immer höher bis in sein Nest. Der kleine Vogel ist ganz alleine in sein Nest geflogen, sagte Miffi. Guck mal, die Mutter ist auch wieder da und ihr Baby ist gesund und munter. Miffi und ihre Mutter trugen die Leiter wieder ins Haus zurück und die … Eiern? Das glaube ich nicht. Karotten kommen nicht aus Eiern.\" \"Meine Großmutter hat mir erzählt, in blauen Eiern stecken blaue Socken,\" sagte Melanie. Das ist nicht wahr\", sagte Miffi. Socken kauft man im Laden. Die Vögel legen Eier. In einem von diesen Bäumen muss ein Vogelnest sein. Melanie sah nach oben und sah ein Vogelnest, in dem dicker roter Vogel saß. Miffi überlegte, kann ein blaues Ei von einem roten Vogel kommen? Poppy sagte, ich bin rosa und meine Mutter und mein Vater sind auch rosa. Melanie sagte, ich bin braun und meine Mutter und mein Vater sind auch braun. Vielleicht ist … nicht aus Eiern kommen, Miffi sagte Poppy Pig. Und blaue Karotten gibt es gar nicht. Ich habe nur Spaß gemacht. Ich auch, sagte Melanie. Ich weiß, dass in blauen Eiern keine Socken stecken, aber wir wissen jetzt, dass kleine rote Vögel aus blauen Eiern schlüpfen können, sagte Miffi. Und das ist wirklich eine Überraschung. Boris und Barbara dachten über Miifis Geburtstag nach. Was können wir ihr schenken? fragte Barbara. Nun, sagte Boris, es wird bald Frühling und Miffi freut sich immer, wenn die Vogelbabys ausschlüpfen. Ich kann ihr ein Vogelhaus bauen, dann kann sie die kleinen Vögel … einen Strich, wo er das Brett durchsägen musste. Er spannte das Brett fest in seine Werkbank ein, sodass es nicht wackeln konnte. Dann nahm er eine scharfe Säge. An der Stelle, an der er den Strich auf das Brett gemacht hatte, sägte er jetzt hin und her, hin und her, bis er das Brett durchgesägt hatte. So machte er es mit allen Brettern, die er für das Vogelhaus brauchte. Jetzt musste er die Bretter nur noch zusammenhämmern. Dann war es fertig. Ein richtiges kleines Haus. Ich werde mit meinem Bohrer noch ein Loch in die Vorderseite von dem Haus bohren, groß genug, damit eine … begeistert von ihrem Vogelhaus. Es sieht genauso aus wie mein Haus, sagte sie. Aber etwas ist doch anders. Es hat keine Tür, sondern nur das kleine Loch da vorne. Das ist der Eingang für die Vögel. Die brauchen keine Tür, sagte Boris. Sie lachten. Boris hatte recht. Was für ein Glück, dass ich Freunde habe, die so schöne Dinge bauen können. Ich freue mich sehr und die Vogelmütter werden sich bestimmt auch freuen. Jetzt haben wir alle etwas, worüber wir uns freuen können. Eines Tages dachte Miffi, es wäre schön, wenn ihre Freundin Egy bei ihr übernachten würde. Sie fragte ihrer Mutter, … mitgebracht. \"Das ist aber eine Überraschung\", sagte Mihi. \"Er sieht fast genauso aus wie mein Teddybär. Guck mal! Die beiden Teddybeären sahen genau gleich aus. Dann rief die Mutter sie zum Essen und natürlich waren ihre Teddybeären auch hungrig. Passt auf, dass ihr sie nicht verwechselt, Kinder. Eure Teddybeären sehen fast gleich aus. Sie haben sogar dieselbe Farbe. Aber ich weiß, welcher meiner ist\", sagte Miffi. \"Und ich weiß, welcher meiner ist\", sagte Eggy. \"Das ist gut\", sagte die Mutter. Dann gab es etwas Leckeres zu essen. Es gab Karotten, Lauch und vier köstliche Tomaten. Es … \"Jetzt weiß ich, warum du nicht schlafen kannst\", sagte Miffi. \"Das ist nicht dein Teddybär.\" Ich wusste, dass etwas nicht stimmt\", sagte Eggy. \"Uns Teddybeären sehen gleich aus, aber jeder hat seinen eigenen besonderen Geruch.\" \"Natürlich\", sagte Miffi. \"Mein Bär riecht so wie ich.\" Und mein Bär riecht so wie ich\", sagte Eggy. \"Daran können wir unsere Teddybeären erkennen\", sagte Miffi. Als jedes der kleinen Hasenmädchen den eigenen Teddybeär mit seinem eigenen besonderen Teddybärduft im Arm hatte, schliefen sie beide ein und hatten wunderschöne Teddybärträume. Bis zum nächsten Morgen.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.043478260869565216
+  "src": "auto"
  },
  "xeUJ4UTIbVU": {
   "channel": "Caillou Deutsch",
@@ -81108,7 +81274,7 @@
  "uFGmKR74A5Y": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T04:01:15+00:00",
+  "checked": "2026-11-26T20:53:59+00:00",
   "title": "LEARN GERMAN | A1 German Story with English Translation| Leben in Deutschland",
   "duration": 1121,
   "published": "20260608",
@@ -81117,6 +81283,7 @@
   "pace": 70.7,
   "rare": 0.0153,
   "var": 0.7477,
+  "cl": null,
   "speech_s": 555.5,
   "tokens": 655,
   "kw": [
@@ -81233,16 +81400,98 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "jeden",
+    "Ich lerne jeden Tag. Das macht Spaß.",
+    170,
+    185,
+    5.5,
+    6
+   ],
+   [
+    "möchte",
+    "Ich möchte besser Deutsch sprechen. Ich möchte viel lernen.",
+    416,
+    432,
+    5.49,
+    6
+   ],
+   [
+    "trinken",
+    "Wir trinken Kaffee. Wir sprechen miteinander.",
+    334,
+    348,
+    4.76,
+    3
+   ],
+   [
+    "nett",
+    "Die Kollegen sind nett. Ich Ich von Montag bis Freitag.",
+    219,
+    235,
+    4.7,
+    3
+   ],
+   [
+    "vermisse",
+    "Ich vermisse meine Familie manchmal. Wir telefonieren oft.",
+    373,
+    390,
+    4.09,
+    3
+   ],
+   [
+    "lerne",
+    "Ich lerne jeden Tag. Das macht Spaß.",
+    170,
+    185,
+    4.07,
+    3
+   ],
+   [
+    "did",
+    "How did you score? Share your results in",
+    1116,
+    1121,
+    3.48,
+    1
+   ],
+   [
+    "score",
+    "How did you score? Share your results in",
+    1116,
+    1121,
+    3.48,
+    1
+   ],
+   [
+    "share",
+    "How did you score? Share your results in",
+    1116,
+    1121,
+    3.36,
+    1
+   ],
+   [
+    "comments",
+    "the comments. We'd love to hear from",
+    1118,
+    1123,
+    3.15,
+    1
+   ]
+  ],
+  "voc": 0.041916167664670656,
   "tx": "Mein Leben in Deutschland. Hallo, ich heiße Maria. Ich komme aus Brasilien. Ich bin 26 Jahre alt. Jetzt lebe ich in Deutschland. Ich wohne in Berlin. Deutschland gefällt mir. Die Stadt ist groß. Es gibt viele Menschen. Am Anfang war alles neu. Die Sprache war schwer. Ich konnte nicht viel Deutsch sprechen. Heute spreche ich ein bisschen Deutsch. Ich lerne jeden Tag. Das macht Spaß. Ich arbeite in einem Restaurant. Ich bin Kellnerin. Mein Job ist gut. Die Kollegen sind nett. Ich Ich von Montag bis Freitag. Ich arbeite von Montag bis Freitag. Ich verdiene genug Geld. Nach der Arbeit gehe ich nach Hause. Manchmal kaufe ich ein. Ich koche gern. Oft mache ich Reis und Gemüse. In meiner Freizeit lese ich Bücher. Ich höre auch Musik. Am Wochenende treffe ich Freunde. Wir trinken Kaffee. Wir sprechen miteinander. Das gefällt mir. Meine Familie lebt in Brasilien. Ich vermisse meine Familie manchmal. Wir telefonieren oft. Das macht mich glücklich. Ich habe viele Pläne. Ich möchte besser Deutsch sprechen. Ich möchte viel lernen. Jeden Tag arbeite ich für meine Ziele. Ich bin stolz auf mich. Ich bin glücklich in Deutschland. Mein Leben in Deutschland. Hallo, ich heiße Maria. Ich komme aus Brasilien. Ich bin 26 Jahre alt. Jetzt lebe ich in Deutschland. Ich wohne in Berlin. Deutschland gefällt mir. Die Stadt ist groß. Es gibt viele Menschen. Am Anfang war alles neu. Die Sprache war schwer. Ich konnte nicht viel Deutsch sprechen. Heute spreche ich ein bisschen Deutsch. Ich lerne jeden Tag. Das macht Spaß. Ich arbeite in einem Restaurant. Ich bin Kellnerin. Mein Job ist gut. Die Kollegen sind nett. Ich arbeite von Montag bis Freitag. Ich verdiene genug Geld. Nach der Arbeit gehe ich nach Hause. Manchmal kaufe ich ein. Ich koche gern. Oft mache ich Reis und Gemüse. In meiner Freizeit lese ich Bücher. Ich höre auch Musik. Am Wochenende treffe ich Freunde. Wir trinken Kaffee. Wir sprechen miteinander. Das gefällt mir. Meine Familie lebt in Brasilien. Ich vermisse meine Familie manchmal. Wir telefonieren oft. Das macht mich glücklich. Ich habe viele Pläne. Ich möchte besser Deutsch sprechen. Ich möchte viel lernen. Jeden Tag arbeite ich für meine Ziele. Ich bin stolz auf mich. Ich bin glücklich in Deutschland. Mein Leben in Deutschland. Hallo. Ich heiße Maria. Ich komme aus Brasilien. Ich bin 26 Jahre alt. Jetzt lebe ich in Deutschland. Ich wohne in Berlin. Deutschland gefällt mir. Die Stadt ist groß. Es gibt viele Menschen. Am Anfang war alles neu. Die Sprache war schwer. Ich konnte nicht viel Deutsch sprechen. Heute spreche ich ein bisschen Deutsch. Ich lerne jeden Tag. Das macht Spaß. Ich arbeite in einem Restaurant. Ich bin Kellnerin. Mein Job ist gut. Die Kollegen sind nett. Ich arbeite von Montag bis Freitag. Ich verdiene genug Geld. Nach der Arbeit gehe ich nach Hause. Manchmal kaufe ich ein. Ich koche gern. Oft mache ich Reis und Gemüse. In meiner Freizeit lese ich Bücher. Ich höre auch Musik. Am Wochenende treffe ich Freunde. Wir trinken Kaffee. Wir sprechen miteinander. Das gefällt mir. Meine Familie lebt in Brasilien. Ich vermisse meine Familie manchmal. Wir telefonieren oft. Das macht mich glücklich. Ich habe viele Pläne. Ich möchte besser Deutsch sprechen. Ich möchte viel lernen. Jeden Tag arbeite ich für meine Ziele. Ich bin stolz auf mich. Ich bin glücklich in Deutschland. Wohnen. Ich wohne in einer kleinen Wohnung. Arbeiten. Meine Mutter arbeitet in einem Restaurant. Meine Mutter arbeitet in einem Restaurant. Lernen. Wir lernen neue Wörter im Unterricht. Freunde treffen. Nach der Arbeit treffe ich meine Freunde. Nach der Arbeit treffe ich meine Freunde. Einkaufen. Am Wochenende gehe ich einkaufen. Die Familie. Ich liebe meine Familie sehr. Das Ziel. Mein Ziel ist, Deutsch zu lernen. Die Wohnung. Die Wohnung ist sauber und schön. Das Restaurant. Das Restaurant heute voll. Das Restaurant ist heute voll. Die Sprache. Die deutsche Sprache ist interessant. How did you score? Share your results in the comments. We'd love to hear from you.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.041916167664670656
+  "src": "auto"
  },
  "sTHRKAffeME": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T04:01:19+00:00",
+  "checked": "2026-11-26T21:06:24+00:00",
   "title": "Learn German A1 | Slow German Story: At the Bakery (With English Subtitles)",
   "duration": 813,
   "published": "20260531",
@@ -81251,6 +81500,7 @@
   "pace": 76.2,
   "rare": 0.1378,
   "var": 0.6978,
+  "cl": null,
   "speech_s": 468.5,
   "tokens": 595,
   "kw": [
@@ -81415,16 +81665,98 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "sagt",
+    "Die Verkäuferin sagt: \"Guten Morgen.\" The saleswoman says, \"Good morning.\"",
+    73,
+    89,
+    5.59,
+    4
+   ],
+   [
+    "meinen",
+    "Ich esse langsam und trinke meinen",
+    263,
+    269,
+    5.52,
+    4
+   ],
+   [
+    "kuchen",
+    "Der Kuchen hat viel Schokolade. Ein kleines Kind möchte einen Keks.",
+    173,
+    191,
+    4.48,
+    5
+   ],
+   [
+    "with",
+    "the story with English translation. Then, you'll hear the story with",
+    13,
+    21,
+    4.58,
+    4
+   ],
+   [
+    "keks",
+    "Ein kleines Kind möchte einen Keks.",
+    185,
+    191,
+    3.65,
+    5
+   ],
+   [
+    "riecht",
+    "Es riecht nach frischem Brot. It smells like fresh bread.",
+    61,
+    74,
+    4.13,
+    4
+   ],
+   [
+    "marmelade",
+    "Die Marmelade. Die Marmelade ist süß.",
+    617,
+    625,
+    3.57,
+    2
+   ],
+   [
+    "morning",
+    "I go to the bakery in the morning.",
+    39,
+    48,
+    3.48,
+    2
+   ],
+   [
+    "bread",
+    "It smells like fresh bread. Es riecht nach frischem Brot.",
+    65,
+    79,
+    2.87,
+    3
+   ],
+   [
+    "schokoladenkuchen",
+    "Ich sehe einen Schokoladenkuchen. Der Kuchen hat viel Schokolade.",
+    161,
+    178,
+    2.49,
+    3
+   ]
+  ],
+  "voc": 0.15434782608695652,
   "tx": "This is a simple, slow German story that will help you practice your absolute beginner German skills. On our channel, you will also get the A2 level version of the same story. First, you'll hear the story with English translation. Then, you'll hear the story with subtitles. After that, you'll hear the story again with only German subtitles. Finally, we'll conclude with fun questions to test your understanding. In der Bäckerei. At the bakery. Ich gehe am Morgen zur Bäckerei. I go to the bakery in the morning. Ich gehe am Morgen zur Bäckerei. Die Bäckerei ist klein und schön. The bakery is small and beautiful. Die Bäckerei ist klein und schön. Es riecht nach frischem Brot. It smells like fresh bread. Es riecht nach frischem Brot. Die Verkäuferin sagt: \"Guten Morgen.\" The saleswoman says, \"Good morning.\" Die Verkäuferin sagt: \"Guten Morgen.\" Ich sehe viele Brötchen. I see many bread rolls. Ich sehe viele Brötchen. Die Brötchen sind warm. The bread rolls are warm. Die Brötchen sind warm. Es gibt auch Croissants. There are also croissants. Es gibt auch Croissants. Die Croissants sehen lecker aus. Neben dem Brot liegen Brezeln. Die Brezeln sind groß und salzig. Ich sehe einen Schokoladenkuchen. Der Kuchen hat viel Schokolade. Ein kleines Kind möchte einen Keks. Die Mutter kauft zwei Kekse. Ich kaufe ein Brötchen und ein Croissant. Ich kaufe ein Brötchen und ein Croissant. Dann kaufe ich einen Kaffee. Ich setze mich ans Fenster. Draußen fahren viele Fahrräder vorbei. Ich esse langsam und trinke meinen Kaffee. Ich esse langsam und trinke meinen Kaffee. Die Bäckerei ist ruhig und gemütlich. Ich mag die kleine Bäckerei sehr. In der Bäckerei. Ich gehe am Morgen zur Bäckerei. Die Bäckerei ist klein und schön. Es riecht nach frischem Brot. Die Verkäuferin sagt: \"Guten Morgen.\" Ich sehe viele Brötchen. Die Brötchen sind warm. Es gibt auch Croissants. Die Croissants sehen lecker aus. Neben dem Brot liegen Brezeln. Die Brezeln sind groß und salzig. Ich sehe einen Schokoladenkuchen. Der Kuchen hat viel Schokolade. Ein kleines Kind möchte einen Keks. Die Mutter kauft zwei Kekse. Ich kaufe ein Brötchen und ein Croissant. Dann kaufe ich einen Kaffee. Ich setze mich ans Fenster. Draußen fahren viele Fahrräder vorbei. Ich esse langsam und trinke meinen Kaffee. Die Bäckerei ist ruhig und gemütlich. Ich mag die kleine Bäckerei sehr. In der Bäckerei. Ich gehe am Morgen zur Bäckerei. Die Bäckerei ist klein und schön. Es riecht nach frischem Brot. Die Verkäuferin sagt: \"Guten Morgen.\" Ich sehe viele Brötchen. Die Brötchen sind warm. Es gibt auch Croissants. Die Croissants sehen lecker aus. Neben dem Brot liegen Brezeln. Die Brezeln sind groß und salzig. Ich sehe einen Schokoladenkuchen. Der Kuchen hat viel Schokolade. Ein kleines Kind möchte einen Keks. Die Mutter kauft zwei Kekse. Ich kaufe ein Brötchen und ein Croissant. Dann kaufe ich einen Kaffee. Ich setze mich ans Fenster. Draußen fahren viele Fahrräder vorbei. Ich esse langsam und trinke meinen Kaffee. Die Bäckerei ist ruhig und gemütlich. Ich mag die kleine Bäckerei sehr. Repeat the following simple sentences after the narrator to practice your pronunciation. Das Brot. Ich kaufe frisches Brot. Die Brötchen. Das Brötchen ist warm. Das Croissant. Ich esse ein Croissant zum Frühstück. Die Brezel. Die Brezel ist salzig. Der Kuchen. Der Kuchen schmeckt sehr gut. Der Kaffee. Ich trinke Kaffee am Morgen. Der Keks. Das Kind möchte einen Keks. Die Butter. Ich esse Brot mit Butter. Die Marmelade. Die Marmelade ist süß. Die Bäckerei. Die Bäckerei öffnet früh am Morgen. How did you score? Share your results in the comments. We'd love to hear from you.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.1540130151843818
+  "src": "auto"
  },
  "QHUd-SDg5h8": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-13T04:01:23+00:00",
+  "checked": "2026-11-26T20:54:02+00:00",
   "title": "Easy German Story for Absolute Beginners | COMPREHENSIBLE GERMAN INPUT (Annas Story Part 1)",
   "duration": 522,
   "published": "20240215",
@@ -81433,6 +81765,7 @@
   "pace": 57.4,
   "rare": 0.0744,
   "var": 0.5216,
+  "cl": null,
   "speech_s": 519.4,
   "tokens": 497,
   "kw": [
@@ -81597,11 +81930,85 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sonne",
+    "Sonntag heute scheint die Sonne heute scheint die Sonne die Sonne scheint und der Wecker der",
+    84,
+    105,
+    4.85,
+    4
+   ],
+   [
+    "geschichte",
+    "Hallo schön dass du da bist heute erzähle ich dir eine Geschichte die Geschichte",
+    0,
+    16,
+    5.45,
+    3
+   ],
+   [
+    "rock",
+    "ist warm oder es ist heiß es ist sehr warm deshalb sieht Anna heute einen Rock an einen Rock und ein",
+    316,
+    337,
+    4.58,
+    2
+   ],
+   [
+    "warm",
+    "ist warm oder es ist heiß es ist sehr warm deshalb sieht Anna heute einen Rock an einen Rock und ein",
+    316,
+    337,
+    4.51,
+    2
+   ],
+   [
+    "apfel",
+    "eine Sonnenbrille in die Tasche sie gibt auch ein Handtuch in die Tasche sie gibt einen Apfel in die",
+    426,
+    449,
+    4.03,
+    2
+   ],
+   [
+    "kopfhörer",
+    "Tasche und sie gibt Kopfhörer in die Tasche Anna packt in ihre Tasche ein Buch eine Sonnenbrille",
+    448,
+    467,
+    3.88,
+    2
+   ],
+   [
+    "paste",
+    "ihre Zähne Anna nimmt die Zahnbürste die Zahnbürste und die Zahnpaste die Paste die",
+    180,
+    195,
+    3.31,
+    2
+   ],
+   [
+    "trocknet",
+    "sie trocknet sich mit dem Handtuch ab abtrocknen mit dem Handtuch abtrocknen sie trocknet sich ab",
+    282,
+    300,
+    3.25,
+    2
+   ],
+   [
+    "bürstet",
+    "bürstet ihre Haare Anna bürstet ihre Haare sie nimmt ein Haarband das Haar das Haarband und",
+    354,
+    374,
+    2.08,
+    2
+   ]
+  ],
+  "voc": 0.08659217877094973,
   "tx": "Hallo schön dass du da bist heute erzähle ich dir eine Geschichte die Geschichte heißt Annas Sonntag Annas Sonntag das ist der Titel der Titel der Geschichte Anna ist eine junge Frau eine junge Dame Anna ist nicht alt jung alt heute ist Sonntag es ist Sonntag der siebte Tag der Woche es ist nicht Montag nicht Dienstag nicht Mittwoch nicht Donnerstag nicht Freitag nicht Samstag heute ist der siebte Tag der Woche es ist Sonntag Sonntag heute scheint die Sonne heute scheint die Sonne die Sonne scheint und der Wecker der Wecker er klingelt er klingelt der Wecker läutet um 7 Uhr am Morgen es ist 7 Uhr morgens Anna hat heute keine Pläne Anna hat nichts vor sie weiß nicht was sie heute machen soll also steht sie auf sie steht aber nicht vom Stuhl auf sie sitzt nicht auf einem Stuhl Anna steht aus dem Bett auf sie steht aus dem Bett auf dann geht sie ins Badezimmer das Badezimmer im Badezimmer putzt sie ihre Zähne Anna nimmt die Zahnbürste die Zahnbürste und die Zahnpaste die Paste die Zahnpaste die Paste für die Zähne und putzt sich mit der Zahnbürste und Zahnpaste die Zähne sie putzt sich die Zähne der Zahn und die Zähne die Lippen der Mund aber Anna putzt sich nicht die Lippen sondern die Zähne Anna putzt sich die Zähne danach als sie fertig ist geht Anna in die Dusche die Dusche Anna duscht sich aber Anna wäscht nicht ihre Haare Anna duscht sich Anna nimmt die Seife und wäscht sich dann nimmt sie sich ein Handtuch die Hand die Hand und das Tuch sie trocknet sich mit dem Handtuch ab abtrocknen mit dem Handtuch abtrocknen sie trocknet sich ab danach zieht sie sich an die Kleidung Anna zieht sich ihre Kleidung an heute scheint die Sonne es ist warm oder es ist heiß es ist sehr warm deshalb sieht Anna heute einen Rock an einen Rock und ein T-Shirt ein kurz-ärmliges ein kurzarm T-Shirt dann nimmt sie sich die Bürste die Bürste und bürstet ihre Haare Anna bürstet ihre Haare sie nimmt ein Haarband das Haar das Haarband und bindet sich einen Zopf sie bindet sich einen Zopf und zum Schluss schminkt sich Anna ein bisschen sie schminkt sich nicht viel Anna schminkt sich ein wenig ein bisschen dann nimmt sie sich ihre Tasche die Tasche sie gibt folgende Sachen in die Tasche sie gibt ein Buch in die Tasche sie gibt eine Sonnenbrille in die Tasche sie gibt auch ein Handtuch in die Tasche sie gibt einen Apfel in die Tasche und sie gibt Kopfhörer in die Tasche Anna packt in ihre Tasche ein Buch eine Sonnenbrille ein Handtuch einen Apfel und Kopfhörer Anna packt in ihre Tasche fünf Sachen fünf Sachen packt Anna in ihre Tasche nun was glaubst du wohin geht Anna heute was meinst du fährt sie in den Urlaub geht sie arbeiten oder geht sie in den Park schreibe deine Antwort in die Kommentare",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.08659217877094973
+  "src": "cc"
  },
  "SB90CNTF_8I": {
   "channel": "Mascha und der Bär",
@@ -81772,7 +82179,7 @@
  "2vzYpf6fMIs": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-13T04:06:53+00:00",
+  "checked": "2026-11-26T20:53:12+00:00",
   "title": "NORSE MYTHOLOGY#5: When Loki Got Pregnant And The Construction Of Asgard's Wall│Intermediate German",
   "duration": 1402,
   "published": "20210708",
@@ -81781,6 +82188,7 @@
   "pace": 104.2,
   "rare": 0.0655,
   "var": 0.7288,
+  "cl": null,
   "speech_s": 1388.8,
   "tokens": 2411,
   "kw": [
@@ -81945,11 +82353,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "zurück",
+    "hallo und willkommen zurück heute gibt",
+    0,
+    6,
+    5.57,
+    10
+   ],
+   [
+    "fertig",
+    "er nicht fertig wir müssen ihn nicht",
+    425,
+    430,
+    5.02,
+    7
+   ],
+   [
+    "fremden",
+    "fremden nach draußen um sich zu beraten",
+    255,
+    263,
+    4.43,
+    9
+   ],
+   [
+    "hammer",
+    "hammer der hammer der von allen",
+    44,
+    53,
+    4.4,
+    7
+   ],
+   [
+    "schlamm",
+    "steinen durch den schlamm zu ziehen",
+    833,
+    841,
+    3.66,
+    4
+   ],
+   [
+    "lob",
+    "er es das lob von den göttern zu",
+    1221,
+    1227,
+    4.19,
+    2
+   ],
+   [
+    "stute",
+    "dass das zweite pferd eine stute ist",
+    1018,
+    1028,
+    3.49,
+    6
+   ],
+   [
+    "riese",
+    "kann kein riese und kein troll nach",
+    63,
+    72,
+    3.57,
+    5
+   ],
+   [
+    "räuspern",
+    "räuspern ein räuspern wie bei professor",
+    300,
+    312,
+    2.51,
+    2
+   ],
+   [
+    "donners",
+    "tor tor ist der gott des donners des",
+    36,
+    45,
+    2.47,
+    2
+   ]
+  ],
+  "voc": 0.10203235172127748,
   "tx": "hallo und willkommen zurück heute gibt es wieder eine geschichte aus der nordischen mythologie und heute erzähle ich euch wie die götter wie odin und thor und loki ihre mauer bekommen haben die mauer die einmal um asgard herumgeht und us-gaap beschützt und wie loki wieder seine finger im spiel hatte viel spaß tor tor ist der gott des donners des donners und tor hat seinen berühmten hammer der hammer der von allen gefürchtet wird und tor und sein hammer die die sind der schutz der schutz für assad wenn tor da ist mit seinem hammer dann fühlen die götter sich sicher dann kann kein riese und … sagt ich kann euch eine mauer bauen ich kann euch eine mauer bauen die so hoch ist dass kein riese drüber kann und die so dick ist das kein troll sie zerschlagen kann und die so dicht ist dicht dicht undicht die so dicht ist dass keine ameise durch kann loki unser schlagergott der sagt solch eine mauer zu bauen das würde ewig dauern wir brauchen den schutz jetzt und der fremde sagt nein ich werde nur einen winter einen sommer und nochmal einen winter dafür brauchen nur drei jahreszeiten und odin der weise der sagt was willst du im gegenzug haben wie sollen wir dich bezahlen dafür und der … götter drehen sich um und wer steht da loki natürlich und luki der schlaue gerissene gott der sagt meine lieben götter er übersieht eine wichtige sache und das wäre loki solch eine mauer zu bauen wie der fremde sie beschrieben hat das ist unmöglich die aufgabe ist unmöglich was wir machen können hier ist wir machen die bedingungen die bedingungen für den fremden die mauer zu bauen einfach noch schwieriger so dass die aufgabe noch unmöglicher ist und wenn er es also nicht schafft die mauer zu bauen dann müssen wir ihn nicht bezahlen die schwierigeren bedingungen sollen sein er hat nur eine … willigt ein der sagt ja mach ich aber unter einer bedingung ja ich nehme keine hilfe von außen an aber bitte lasst mir doch mein pferd ich möchte mein pferd benutzen um die mauer zu bauen braucht der fremde steine große große granitsteine und er sagt ich kann diese granitsteine nicht selbst schleppen ja ich muss weit weit laufen jeden tag um diese granitsteine zu holen und ich kann die nicht alleine tragen bitte lasst mir doch mein pferd mein pferd soll diese steine ziehen ja in einem wagen ja die steine die granitsteine sollen auf einen wagen und das pferd das pferd soll den wagen … dass es unmöglich die steine die sind viel zu schwer und der weg um die steine zu holen der ist viel zu weit er muss ganz weit gehen über einen großen berg um diese granitsteine zu holen das ist unmöglich das schafft er nicht keine sorge der fremde ist fertig mit graben und entnimmt sein pferd und sie machen sich auf den weg die steine zu holen und loki sagt passt auf der iss in einer woche wieder da die götter die haben ein fest sie trinken und essen das machen die götter so die brauchen keinen grund dazu wie wir deutsche und dann dann gehen sie schlafen aber ruhig dann gehen sie schlafen … pferd über den berg um die steine zu holen und jeden morgen kommt er zurück mit 20 granitsteinen jeder stein ist größer als der größte mensch jeden tag wird die mauer größer und imposanter und odin ruft wieder seine götter zusammen die götter müssen sich wieder beraten und quasi der weise sagt das dass es kein sterblicher das ist kein normalsterblicher das kann kein mensch sein der arbeitet viel viel zu hart als dass es ein mensch sein kann und looki looki sagt keine sorge auch wenn der fremde eine riesen ist die aufgabe ist immer noch unmöglich solch eine mauer zu bauen unmöglich und heiner … freier sagt okay ich werde diesen riesen wohl heiraten müssen ich werde ihn heiraten aber ich möchte euch nur um eine sache fragen ich möchte dass der verantwortliche der verantwortliche für dieses ganze schlamassel bestraft wird ich möchte dass loki getötet wird der findet das nur sehr sagt okay okay wenn die mauer morgen fertig gestellt wird dann wirst du einen um ehe vollen und qualvollen tod sterben loki muss also die fertigstellung der mauer verhindern die mauer ist jetzt schon fast fertig es fehlen nur noch 20 granitsteine dann ist die mauer fertig und der fremde der will sich wir … den hals von dem pferd und dann dann brennt die stute weg in den wald hinein und das pferd das rentier natürlich nach der fremde der versucht noch die pferde einzuholen aber er schafft es nicht die pferde sind weg er ist wütend er muss jetzt alleine los gehen und die granitsteine holen freier freier erwartet den fremden schon hier und als er zurückkommen da sagt freier nur zehn granitsteine h weißt du wer heute aus dem land der riesen zurückkommt tor tor kommt heute zurück und dann kommen auch alle anderen götter und machen sich über den fremden lustig der fremde der schmeißt die steine hin … am ende haben sie eine richtig gute starke mauer nur looki looki war nicht da und der fremde ist loki war nicht da und das war etwas merkwürdig die götter wissen dass loki es geschafft hat das pferd wegzulocken ja loki ist ein gestalten wandler er hat sich in die stute verwandelt um das pferd wegzulocken und die götter wissen das aber loki kommt nicht zurück und das war merkwürdig denn normalerweise liebt er es das lob von den göttern zu bekommen aber er kam nicht zurück um sich das lob von den göttern anzuhören es wurde nur immer gesagt dass hinter den hügeln hinter den hügeln von asgard … es jemals wagen die eltern von dem pferd zu erwähnen denn wenn irgendjemand davon erzählt wie loki das pferd weggelockt hat und asgard vor seiner eigenen dummen idee gerettet hat dann dann würde loki dieser person die das erzählen das leben zur hölle machen aber so haben die götter ihre mauer bekommen lasst mich wissen was ihr von dieser geschichte haltet ich bin gespannt auf eure reaktionen ich hoffe es hat euch gefallen wenn ja dann drückt gefällt mir und guckt euch die anderen geschichten der nordischen mythologie an wer jetzt nicht zu abonnieren und wir sehen uns beim nächsten mal tschüss",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.08646616541353383
+  "src": "auto"
  },
  "CkF8Tn_EkiI": {
   "channel": "Kathrin Shechtman (Story Listening)",
@@ -82219,7 +82709,7 @@
  "MySzI5_RAIM": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T04:08:26+00:00",
+  "checked": "2026-11-26T21:06:28+00:00",
   "title": "Learn German | German Bakery Vocabulary for Beginners | German Listening Practice (A1-A2)",
   "duration": 763,
   "published": "20260529",
@@ -82228,6 +82718,7 @@
   "pace": 101.5,
   "rare": 0.0623,
   "var": 0.8302,
+  "cl": null,
   "speech_s": 161.4,
   "tokens": 273,
   "kw": [
@@ -82328,11 +82819,149 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "frau",
+    "Vor mir stand eine Frau mit einem kleinen Kind.",
+    118,
+    124,
+    5.66,
+    2
+   ],
+   [
+    "meiner",
+    "Die Bäckerei in meiner Straße In meiner Straße gibt es eine kleine Bäckerei.",
+    17,
+    27,
+    5.57,
+    2
+   ],
+   [
+    "ans",
+    "Ich setze mich ans Fenster und frühstücke langsam.",
+    157,
+    163,
+    4.76,
+    1
+   ],
+   [
+    "diesmal",
+    "Diesmal habe ich Glück. Ich bekomme ein großes Stück Schokoladentorte",
+    149,
+    155,
+    4.74,
+    1
+   ],
+   [
+    "mama",
+    "„Mama, die sieht lecker aus!\" Die Frau kaufte das letzte Stück.",
+    127,
+    136,
+    4.68,
+    1
+   ],
+   [
+    "frisch",
+    "Jeden Morgen gehe ich dorthin, weil das Brot immer frisch ist.",
+    26,
+    33,
+    4.58,
+    1
+   ],
+   [
+    "butter",
+    "Manchmal kaufe ich auch ein Croissant mit Butter und Marmelade.",
+    68,
+    75,
+    4.18,
+    1
+   ],
+   [
+    "setze",
+    "Ich setze mich ans Fenster und frühstücke langsam.",
+    157,
+    163,
+    4.15,
+    1
+   ],
+   [
+    "riecht",
+    "Wenn ich in die Bäckerei komme, riecht es nach frischem Brot,",
+    39,
+    44,
+    4.13,
+    1
+   ],
+   [
+    "marmelade",
+    "Manchmal kaufe ich auch ein Croissant mit Butter und Marmelade.",
+    68,
+    75,
+    3.57,
+    1
+   ],
+   [
+    "leckeres",
+    "Dort gibt es nicht nur gutes Brot und leckeres Gebäck,",
+    172,
+    178,
+    3.55,
+    1
+   ],
+   [
+    "lächelte",
+    "aber die Verkäuferin lächelte und sagte:",
+    138,
+    142,
+    3.5,
+    1
+   ],
+   [
+    "frischem",
+    "Wenn ich in die Bäckerei komme, riecht es nach frischem Brot,",
+    39,
+    44,
+    3.43,
+    1
+   ],
+   [
+    "süssem",
+    "",
+    0,
+    0,
+    2.97,
+    1
+   ],
+   [
+    "croissant",
+    "Manchmal kaufe ich auch ein Croissant mit Butter und Marmelade.",
+    68,
+    75,
+    2.87,
+    1
+   ],
+   [
+    "croissants",
+    "warmen Croissants und süßem Kuchen. Die Verkäuferin kennt mich schon.",
+    43,
+    52,
+    2.85,
+    1
+   ],
+   [
+    "frühstücke",
+    "Ich setze mich ans Fenster und frühstücke langsam.",
+    157,
+    163,
+    2.7,
+    1
+   ]
+  ],
+  "voc": 0.037914691943127965,
   "tx": "Die Bäckerei in meiner Straße In meiner Straße gibt es eine kleine Bäckerei. Jeden Morgen gehe ich dorthin, weil das Brot immer frisch ist. Die Bäckerei öffnet sehr früh und oft stehen schon Menschen vor der Tür. Wenn ich in die Bäckerei komme, riecht es nach frischem Brot, warmen Croissants und süßem Kuchen. Die Verkäuferin kennt mich schon. Sie sagt immer freundlich: „Guten Morgen! Wie geht es dir heute?\" Ich kaufe oft zwei Brötchen zum Frühstück. Die Brötchen sind klein, rund und noch warm. Manchmal kaufe ich auch ein Croissant mit Butter und Marmelade. Neben den Brötchen liegen große Brezeln. Viele Leute kaufen sie am Morgen für die Arbeit oder die Schule. Die Brezeln sind salzig und haben eine lustige Form. In der Bäckerei gibt es auch viele Kuchen und Torten. Meine Lieblingstorte ist die Schokoladentorte mit Sahne. Am Wochenende ist sie sehr beliebt. Letzten Samstag wollte ich ein Stück Schokoladentorte kaufen. Aber als ich in die Bäckerei kam, war nur noch ein Stück da. Vor mir stand eine Frau mit einem kleinen Kind. Das Kind schaute lange auf die Torte und sagte: „Mama, die sieht lecker aus!\" Die Frau kaufte das letzte Stück. Ich war ein bisschen enttäuscht, aber die Verkäuferin lächelte und sagte: „Morgen machen wir neue Torten.\" Also komme ich am nächsten Morgen wieder sehr früh. Diesmal habe ich Glück. Ich bekomme ein großes Stück Schokoladentorte und einen heißen Kaffee. Ich setze mich ans Fenster und frühstücke langsam. Draußen fahren Fahrräder vorbei und die Straße wird langsam voll. Ich mag diese kleine Bäckerei sehr. Dort gibt es nicht nur gutes Brot und leckeres Gebäck, dort beginnt mein Morgen immer schön.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.037914691943127965
+  "src": "cc"
  },
  "l6TjJeVl-18": {
   "channel": "Daily Deutsch",
@@ -82447,7 +83076,7 @@
  "H65hULs9AqM": {
   "channel": "Deutsch mit Lari",
   "lang": "de",
-  "checked": "2026-11-13T04:08:34+00:00",
+  "checked": "2026-11-26T21:06:34+00:00",
   "title": "Easy German Grammar Lesson: Negative Articles 1 (German Grammar | Deutsche Grammatik)",
   "duration": 223,
   "published": "20240110",
@@ -82456,6 +83085,7 @@
   "pace": 60.4,
   "rare": 0.0529,
   "var": 0.5613,
+  "cl": null,
   "speech_s": 206.7,
   "tokens": 208,
   "kw": [
@@ -82548,16 +83178,138 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "artikel",
+    "bestimmte und unbestimmte Artikel gesprochen. In diesem Video sprechen wir über Negativartikel.",
+    6,
+    20,
+    5.24,
+    2
+   ],
+   [
+    "video",
+    "Im letzten Video haben wir über",
+    0,
+    7,
+    5.13,
+    2
+   ],
+   [
+    "machst",
+    "Damit du diesen Fehler nie wieder machst!",
+    19,
+    27,
+    4.77,
+    1
+   ],
+   [
+    "bestimmte",
+    "bestimmte und unbestimmte Artikel gesprochen. In diesem Video sprechen wir über Negativartikel.",
+    6,
+    20,
+    4.75,
+    1
+   ],
+   [
+    "gesprochen",
+    "bestimmte und unbestimmte Artikel gesprochen. In diesem Video sprechen wir über Negativartikel.",
+    6,
+    20,
+    4.74,
+    1
+   ],
+   [
+    "siehst",
+    "Du siehst, dass bei Negativartikeln ein k vor den unbestimmten Artikel kommt.",
+    112,
+    125,
+    4.65,
+    1
+   ],
+   [
+    "sätzen",
+    "Antworte mir in ganzen Sätzen. Hier ein Beispiel:",
+    136,
+    146,
+    4.02,
+    1
+   ],
+   [
+    "tschüss",
+    "Tschüss!",
+    222,
+    223,
+    3.96,
+    1
+   ],
+   [
+    "plural",
+    "und der Plural wird zu keine Tiere.",
+    132,
+    137,
+    3.59,
+    1
+   ],
+   [
+    "unbestimmte",
+    "bestimmte und unbestimmte Artikel gesprochen. In diesem Video sprechen wir über Negativartikel.",
+    6,
+    20,
+    3.42,
+    1
+   ],
+   [
+    "kugelschreiber",
+    "Das ist ein Kugelschreiber. Oh, Entschuldigung!",
+    45,
+    52,
+    3.41,
+    1
+   ],
+   [
+    "nomen",
+    "Der Negativartikel von maskulinen Nomen (der) ist kein.",
+    67,
+    76,
+    3.33,
+    1
+   ],
+   [
+    "unbestimmten",
+    "ein k vor den unbestimmten Artikel kommt.",
+    118,
+    125,
+    3.02,
+    1
+   ],
+   [
+    "maskulinen",
+    "Der Negativartikel von maskulinen Nomen (der) ist kein.",
+    67,
+    76,
+    2.5,
+    1
+   ],
+   [
+    "ausborgen",
+    "Kann ich einen Bleistift ausborgen? Klar!",
+    26,
+    30,
+    2.38,
+    1
+   ]
+  ],
+  "voc": 0.043478260869565216,
   "tx": "Im letzten Video haben wir über bestimmte und unbestimmte Artikel gesprochen. In diesem Video sprechen wir über Negativartikel. Damit du diesen Fehler nie wieder machst! Kann ich einen Bleistift ausborgen? Klar! Danke aber das ist nicht ein Bleistift Danke aber das ist kein Bleistift. Das ist ein Kugelschreiber. Oh, Entschuldigung! Und jetzt schauen wir uns die Negativartikel an. Das ist ein Hund. Aber das ist kein Hund. Der Negativartikel von maskulinen Nomen (der) ist kein. Kein Hund. Das ist eine Katze. Die Katze. Das ist eine Katze. Aber das ist keine Katze. Das ist ein Pferd. Aber das ist kein Pferd. Das sind Tiere. Aber das sind keine Tiere. Du siehst, dass bei Negativartikeln ein k vor den unbestimmten Artikel kommt. Also: Kein Hund, keine Katze, kein Pferd und der Plural wird zu keine Tiere. Antworte mir in ganzen Sätzen. Hier ein Beispiel: Ist das ein Hund? Nein, das ist keinHund. Oder: Ist das eine Katze? Ja, das ist eine Katze. Und jetzt du! Ist das ein Hai? Nein, das ist kein Hai. Ist das ein Löwe? Nein, das ist kein Löwe. Ist das ein Schwein? Ja, das ist ein Schwein. Ist das eine Blume? Nein, das ist keine Blume. Super! Gut gemacht! Bis zum nächsten Mal! Tschüss!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.043478260869565216
+  "src": "cc"
  },
  "uxVh1OWA3Gk": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-13T04:13:49+00:00",
+  "checked": "2026-11-26T21:05:50+00:00",
   "title": "NORSE MYTHOLOGY#7: Freya's (AKA Thor) Unusual Wedding │Intermediate German",
   "duration": 797,
   "published": "20210728",
@@ -82566,6 +83318,7 @@
   "pace": 100.7,
   "rare": 0.0851,
   "var": 0.7532,
+  "cl": null,
   "speech_s": 783.9,
   "tokens": 1316,
   "kw": [
@@ -82730,11 +83483,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "natürlich",
+    "ungewöhnliche hochzeit und natürlich steht loki wieder im zentrum der",
+    11,
+    28,
+    5.62,
+    7
+   ],
+   [
+    "acht",
+    "in acht tagen in acht tagen treffen wir",
+    199,
+    208,
+    4.98,
+    7
+   ],
+   [
+    "kuchen",
+    "kuchen gott es gibt so viel kuchen",
+    488,
+    496,
+    4.48,
+    4
+   ],
+   [
+    "riesen",
+    "also fliegt er ins land der riesen um",
+    105,
+    113,
+    4.33,
+    4
+   ],
+   [
+    "verkleidet",
+    "gut vor sagt ja also verkleidet sich als",
+    401,
+    416,
+    3.79,
+    3
+   ],
+   [
+    "gefreut",
+    "hochzeit gefreut und sie hat sich so",
+    587,
+    595,
+    4.16,
+    2
+   ],
+   [
+    "grinst",
+    "grinst schon so so der grinst und er",
+    135,
+    142,
+    3.38,
+    3
+   ],
+   [
+    "verkleiden",
+    "tor als braut verkleiden ja tor als",
+    354,
+    365,
+    3.34,
+    3
+   ],
+   [
+    "literweise",
+    "literweise bier literweise wie er hört",
+    558,
+    568,
+    2.67,
+    2
+   ],
+   [
+    "uga",
+    "und der uga sagt ja ich verstehe ich",
+    602,
+    613,
+    2.31,
+    2
+   ]
+  ],
+  "voc": 0.11398176291793313,
   "tx": "hallo und willkommen zurück zu einer weiteren geschichte der nordischen mythologie heute heißt die geschichte flyers ungewöhnliche hochzeit und natürlich steht loki wieder im zentrum der geschichte viel spaß also tor tor der gott des donners tor mit seinem magischen hammer der wacht auf der wacht auf ohne seinen hammer er wacht auf und der hammer der ist weg und tor denkt so dumm kann selbst loki nicht sein normalerweise wenn etwas schlimmes in asker passiert steckt loki dahinter aber tor denkt meinen hammer zu stehlen das würde sich selbst loki nicht trauen tor tour geht trotzdem zu loki … hammer ist weg also er bittet loki um hilfe und loki will natürlich tor helfen ja er ist doch so nett und looki looki macht sich auf die suche nach thors hammer loki kann fliegen er hat schuhe magische schuhe mit denen er fliegen kann also fliegt er ins land der riesen um herauszufinden wer thors hammer gestohlen hat loki fliegt also ins land der riesen und dort findet er einen oger der liegt hier und entspannt sich und loki landet er landet da und der oga der grinst schon so so der grinst und er sagt wie läuft's in asgard alles klar und weil er so grinst hat loki natürlich verdacht … ich habe ihn so gut versteckt dass niemand ihn finden wird ich bin der einzige der den hammer wiederholen kann und ich bringe ihn nur zurück wenn du mir gibst was ich verlange aha und was ist das ich will die wunderschöne göttin freya heiraten in acht tagen in acht tagen treffen wir uns wieder hier und dann hast du freier dabei loki geht also zurück nach asgard und er erzählt tor was passiert ist und dass der oger den hammer gestohlen hat und ihn nur zurück bringt wenn er freie heiraten kann und tor sagt gut alles klar dann gehen wir jetzt zu freier und überbringen ihr die neuigkeiten aber … und frecher ist außer sich was denkst du eigentlich wer ich bin mich einfach so einen dreckigen widerlichen oder zu versprechen ich heirate keine no go also freier sagt nein sie ist angewidert sie ist angewidert von der idee einen oger zu heiraten buch aber der hammer muss zurück und alle götter kommen wieder zusammen yao den boden und heimdall und andere götter die kommen zusammen um sich zu beraten nur freier ist nicht dabei die ist immer noch vereidigt die götter beraten sich also was können wir machen um thors hammer wieder zurück zu bekommen der ist wichtig den brauchen wir der … habe eine idee aber tor du wirst sie nicht mögen doch doch ich werde die idee mögen sack schon du wirst sie nicht mögen nun wirklich nicht das ist doch egal es geht hier um einen hammer nun sag schon was deine idee ist und heim da sagt na ja wir können dich tor als braut verkleiden ja tor als braut verkleiden die braut ist die die frau die heiratet und tor soll ein brautkleid anziehen ja und heim da sagte wir können dich als braut verkleiden und zudem oder schicken und wir tun so als wärst du freier unter dem brautkleid und tor sagt die idee mag ich nicht loki ist natürlich der vernünftige … sich als braut er zieht ein brautkleid an und hat einen schleier vor dem gesicht und der schleier geht hier runter ja ein schleier der zum brautkleid gehört und nach acht tagen gehen sie wieder zurück genau hier und treffen sich mit dem oger tor tor hat nun ein ein kleid an und looki looki kann seine gestalt verändern erst ein gestalten wandler und er hat sich in eine frau verwandelt also tor als braut verkleidet und loki als frau gehen zurück zum og und dort ist schon ein hochzeitsfest im gange mit super super viel essen mit ochsen die so groß sind größer als jeder mensch und mit lachs … so viel kuchen sie kommen also zu dem hochzeitsfest und tor sagte loki mensch hör mal ich kann mich doch nicht neben den oder sitzen was wenn er mir in die augen guckt dann erkennt er doch dass ich nicht freier bin und loki sagt kein problem ich setze mich dazwischen also hier sitzt der dicke fette oger und dann sitzt loki hier und tor als braut verkleidet der sitzt hier dran und als tor das ganze essen sie da wird er aufgeregt tor keiner kann so viel essen und trinken wie tor tor liebt essen wer nicht und er fängt an zu essen und er ist ein ganzen ochs braten nur für sich allein und ein … und der oger der oger sagt ich habe noch nie eine frau gesehen die so viel essen kann der oder ist sehr beeindruckt und looki looki sagt na ja weißt du es freier hat sich so auf die hochzeit gefreut und sie hat sich so nach dir gesehen dass sie acht tage und acht nächte nichts essen konnte und jetzt muss sie natürlich alles aufholen und der uga sagt ja ich verstehe ich glaube ich sollte sie küssen und der oga lehnt sich rüber ihr habt über den tisch zu tor damit er sie küssen kann und loki versuchte noch ihn aufzuhalten aber da war es zu spät der oger blickt in tours augen und er sagt … abwarten dich endlich zu heiraten dass sie acht tage und acht nächte nicht schlafen konnte klar sehen ihre augen jetzt ein bisschen furchteinflößend aus und bevor noch irgendetwas weiteres schlimmes passieren konnte sagte loki lasst uns doch mit der mit der trauung beginnen und der uga sagt ja ja lasst bringt den hammer reinbringt thors hammer rein und dann dann heiraten wir endlich also da kommen riesen und die riesen bringen thors hammer rein der hammer ist jetzt da und der oga der sagt zu tun afra meine liebe jetzt werden wir verheiratet ich möchte doch so sehr seine liebliche stimme … und der nimmt den hammer und haut den oder um und der opa war tot dann zieht tor das brautkleid aus erzieht das brautkleid aus wirft es weg und sagt das war gar nicht so schlimm ich habe meinen hammer wieder und ich habe viel gutes essen bekommen com loki wir gehen nach hause das war's das war die geschichte von frei aus ungewöhnlicher hochzeit ich hoffe es hat euch gefallen wenn ja drücken mit mir und abonniert für mehr videos und mehr geschichten von der nordischen mythologie lasst mich wissen was ihr von dieser geschichte haltet unten in den kommentaren und wir sehen uns beim nächsten mal",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.10978956999085086
+  "src": "auto"
  },
  "KxMxXHSVJI0": {
   "channel": "Learn German by Listening (DldH)",
@@ -109075,5 +109910,270 @@
   "spoken": "en",
   "spoken_v": 2,
   "status": "wronglang"
+ },
+ "eJxRjOBbnL4": {
+  "channel": "Peppa Pig Deutsch - Offizieller Kanal",
+  "lang": "de",
+  "checked": "2026-11-26T20:35:24+00:00",
+  "title": "Peppa Wutz kommt ins WEIHNACHTSGEFÄNGNIS! 😢 | Peppa-Wutz-Geschichten Ganze Folgen |",
+  "duration": 1442,
+  "published": "20261126",
+  "spoken": "de",
+  "spoken_v": 2,
+  "pace": 108.0,
+  "rare": 0.1024,
+  "var": 0.8092,
+  "cl": null,
+  "speech_s": 1319.0,
+  "tokens": 2374,
+  "kw": [
+   [
+    "zusammen",
+    "sondern dass wir es zusammen gemacht",
+    481,
+    485,
+    5.55,
+    13
+   ],
+   [
+    "spass",
+    "",
+    0,
+    0,
+    5.22,
+    12
+   ],
+   [
+    "lieben",
+    "Wer auf der Liste der Lieben steht,",
+    34,
+    40,
+    4.87,
+    10
+   ],
+   [
+    "nein",
+    "Oh nein, ich habe Mist gebaut und das",
+    96,
+    104,
+    5.52,
+    9
+   ],
+   [
+    "weihnachten",
+    "Frohe Weihnachten. Heute feiert Peppas Spielgruppe eine",
+    2,
+    10,
+    4.63,
+    34
+   ],
+   [
+    "lieb",
+    "alles lieb war und wer unartig.",
+    15,
+    21,
+    4.47,
+    16
+   ],
+   [
+    "george",
+    "und George wollen unbedingt das Lichter",
+    586,
+    590,
+    4.58,
+    10
+   ],
+   [
+    "alexander",
+    "Baby Alexander und seine Familie sind",
+    189,
+    195,
+    4.71,
+    9
+   ],
+   [
+    "lichter",
+    "große Lichter Spektakel ist erst ganz am",
+    567,
+    572,
+    3.89,
+    12
+   ],
+   [
+    "frohe",
+    "Frohe Weihnachten. Heute feiert Peppas Spielgruppe eine",
+    2,
+    10,
+    3.89,
+    7
+   ],
+   [
+    "ähm",
+    "Ihr müsst euch etwas gedulden. Das ähm",
+    564,
+    570,
+    4.12,
+    6
+   ],
+   [
+    "stehst",
+    "Mal sehen. Luisa Löffel, du stehst auf",
+    63,
+    71,
+    4.12,
+    4
+   ],
+   [
+    "molly",
+    "Luzi Molly Mietze, du stehst auf der",
+    81,
+    86,
+    3.4,
+    8
+   ],
+   [
+    "spektakel",
+    "große Lichter Spektakel ist erst ganz am",
+    567,
+    572,
+    3.54,
+    7
+   ],
+   [
+    "heiligabend",
+    "Es ist Heiligabend und Peppa und ihre",
+    371,
+    376,
+    3.39,
+    7
+   ],
+   [
+    "toast",
+    "Zeit für einen Toast. Ähm, aber Toast isst man doch nicht zum",
+    1359,
+    1366,
+    3.57,
+    3
+   ],
+   [
+    "peppa",
+    "Und Peppa Wutz, du stehst auf der Liste",
+    86,
+    93,
+    2.17,
+    29
+   ],
+   [
+    "weihnachtsessen",
+    "Weihnachtsessen. Es gibt Karotten, Kartoffeln, Rosenkohl.",
+    218,
+    226,
+    2.61,
+    9
+   ],
+   [
+    "elfi",
+    "Ja, Elfi Lucy, hier bitte. Es ist Zeit herauszufinden, wer alles",
+    55,
+    64,
+    2.79,
+    8
+   ],
+   [
+    "efi",
+    "Vielleicht ist es Efi auch am",
+    527,
+    531,
+    2.56,
+    8
+   ]
+  ],
+  "kx": [
+   [
+    "liste",
+    "denn wir haben die Liste des",
+    29,
+    35,
+    4.96,
+    9
+   ],
+   [
+    "besonders",
+    "Dann muss es besonders toll werden.",
+    208,
+    215,
+    5.45,
+    8
+   ],
+   [
+    "baby",
+    "Baby Alexander und seine Familie sind",
+    189,
+    195,
+    4.71,
+    9
+   ],
+   [
+    "wow",
+    "Wow! Danke schön. Guck Efi, es ist ein neues",
+    540,
+    549,
+    4.71,
+    8
+   ],
+   [
+    "kartoffeln",
+    "Kartoffeln, Rosenkohl. Nein, das musst du essen, nicht werfen.",
+    221,
+    239,
+    4.12,
+    3
+   ],
+   [
+    "tische",
+    "Tische für alle. Dann bis nächste",
+    1275,
+    1280,
+    3.86,
+    3
+   ],
+   [
+    "erbsen",
+    "Das sind genug Erbsen, George. Man muss viel Essen vorbereiten.",
+    1311,
+    1320,
+    3.45,
+    2
+   ],
+   [
+    "weihnachtsbaum",
+    "neuen Weihnachtsbaum nach Hause. Und schon ist er fertig geschmückt.",
+    1205,
+    1215,
+    3.44,
+    2
+   ],
+   [
+    "effi",
+    "Effi. Peppa und ihre Familie gehen weiter den",
+    613,
+    619,
+    2.76,
+    7
+   ],
+   [
+    "unartig",
+    "alles lieb war und wer unartig.",
+    15,
+    21,
+    2.5,
+    7
+   ]
+  ],
+  "voc": 0.051508844953173774,
+  "tx": "Frohe Weihnachten. Heute feiert Peppas Spielgruppe eine Weihnachtsfeier. Frohe Weihnachten. Der Weihnachtsmann will wissen, wer alles lieb war und wer unartig. Ich bin lieb. Ich auch. Ich bin so lieb. Ich bin super duper mega lieb. Wir wissen schon, wie lieb ihr wart, denn wir haben die Liste des Weihnachtsmanns. Wer auf der Liste der Lieben steht, kriegt einen Aufkleber. Doch wer von euch unartig war, kommt sofort ins Gefängnis für Unartige. Ein Gefängnis für Unartige, das hatten wir nicht. Krieg ich bitte die Liste des Weihnachtsmanns? Ja, Elfi Lucy, hier bitte. Es ist Zeit herauszufinden, … Aber ich bin unartig. Nein, bist du nicht. Du hast deine Banane mit mir geteilt. Das war nicht unartig, sondern lieb. Oh. Und mir hast du gezeigt, wie man Schafe malt. Du warst ein wunderbarer Weihnachtself. Und du bist die liebste, beste Freundin auf der ganzen weiten Welt, Luzie. Aber wenn ich lieb bin, muss ich nicht mehr im Gefängnis bleiben. Und du kannst wieder eine Weihnachtselfe sein. Frohe Weihnachten. Luzie Locke steht auf der Liste der lieben Kinder, sowie alle anderen Kinder der Spielgruppe auch. Baby Alexander und seine Familie sind hier, um frohe Weihnachten zu wünschen. … Oh, ich habe eine Idee. Baby Alexander macht es Spaß die Weihnachtsgeschenke auszuteilen. Danke Alexander. Das hier ist für Mama. Und er liebt es an Weihnachten zu basteln. Bravo Alexander. Und zu singen. Weihnachten, Weihnachten, jetzt ist es soweit. Der Christbaum ist nun schön geschmückt, es ist jetzt höchste Zeit. Aber am meisten liebt er es Weihnachten mit Peppa zu verbringen. So werden wir Alexanders erstes Weihnachten nie vergessen. Es ist Heiligabend und Peppa und ihre Familie sind bei Oma und Opa Wutz zu Hause. Oh, was ist denn los, Liebling? Genau wie früher. Mit Babys im Haus … ich habe Heiligabend auch als Baby schon gemocht. Gemeinsam die Strümpfe aufhängen, die Rentiere füttern und Oh, Peppa. Das Besondere an all diesen Weihnachtsfesten war nicht, was wir gemacht haben, sondern dass wir es zusammen gemacht haben. Oh, daran erinnere ich mich. Ich habe nur einen Wunsch zu Weihnachten und den gibt es nicht mit Band. Der liegt doch nicht unterm Tannenbaum und schon gar nicht im Schnee Land. Ich habe nur einen Wunsch zur Weihnachten. Ist die ganze Familie da und hat eine schöne Zeit zusammen, dann wird mein einziger Weihnachtswunsch wahr. Siehst du? Wir haben … Aber alle finden den magischen Lichtertunnel richtig toll. Ganz besonders Efi. Das sieht wirklich ganz zauberhaft aus, Effi. Peppa und ihre Familie gehen weiter den weihnachtlichen Lichterpfad entlang. Sie bestaunen die leuchtenden Blumen. Ist wohl mein Heuschnupfen. Die schimmernden Lianen. Und die Lichtwand gefällt ihnen ganz besonders gut. Hier, guck, das bist du, Effi. Also meine Lieben, wer will alles heiße Schokolade und Marshmallow? Ist das nicht wunderbar, Effi? Und wir sind schon fast beim Lichter-Spektakel. Achtung Durchsage, das große Lichter-Spektakel beginnt in einer Minute. Wir … braucht Badespielzeug. Viel Spaß da mit Gemüse. Das hatte ich nicht gemeint, als ich sagte, was das Gemüse. Ich habe die Kartoffeln fertig gekocht. Willst du sie zusammen mit George stampfen? Ja, ja. Nicht mit euren Händen, sondern damit. Okay, Papa. Nun, was ist jetzt dran, Mama Wutz? Oh, das war flott. Ihr habt aus den Kartoffeln ein Iglu gemacht. Wie lustig. Wollt ihr mir mit der Kuchenglasur helfen? Ja, bitte. Geben wir etwas grüne Glasur darauf und machen ein paar Kleckse mit weißer Glasur, sieht es aus wie ein Mistelzweig. Hurra, wir sind dran, wir sind dran. Bitte sehr, Peppa. Du … und Molly wissen nicht weiter. Ich hab's. Spielen wir einfach ein Spiel im Schnee und dann ein Spiel im Haus. Dann sehen wir ja, was besser ist. Okay. Das klingt wie eine sehr gute Idee. Peppa und Molly bauen einen Schneemann. Er ist sehr groß. Das macht Spaß. Fehlt nur noch eine schöne Wollmütze. Ich denke, wir gehen jetzt besser rein und wärmen uns auf. Peppa und Molly haben eine Kissenburg gebaut. Sie ist sehr gemütlich und warm. So, sie ist fertig. Sie ist perfekt. Das war eine tolle Idee. Huh, es ist sehr warm hier drin. Warum spielen wir nicht etwas im Schnee, um abzukühlen? Peppa und … wen es ist oder von wem. Lasst es uns erst einmal ins Haus bringen. Es ist ziemlich schwer. Schwer, jetzt wo du es sagst. Das riesige Geschenk ist wirklich ähm riesig. Wow, es ist riesig! Dürfen wir es aufmachen? Bitte, bitte, bitte! Wir dürfen es noch nicht aufmachen, erst an Weihnachten. Oh! Wir müssen geduldig sein. Wir können also noch nicht nachsehen, was drin ist. Aber vielleicht kann man es hören. Hm. Nein, nichts. Alle versuchen rauszufinden, was sich im Paket befindet, ohne es zu öffnen. Wisst ihr, es wäre echt toll, zu wissen, was da drin ist. Es ist zu schwer. Geduldig sein ist … zwei Christbäume. Heute sind Peppa und ihre Familie bei einem festlichen Weihnachtsbuffet. Achtung, Verzeihung. Oh, hallo. Wir nur noch ein paar Leute unterbringen. Tja, aber das Restaurant ist voll. Oh, tut mir leid, es gibt nicht genug Tische für alle. Dann bis nächste Weihnachten. Es ist Weihnachten. Können wir nicht irgendwie alle zusammensetzen? Zusammen ist Weihnachten schöner, aber wir sind zu viele. Wir können ja nicht alle Tische umstellen. Das geht doch ruckzuck. Oh, Herr Bulle stellt jetzt alle Tische um. Wow, Rosenkohl schmeckt wie Schokolade. Jetzt können alle zusammen das … sagen, danke für eure Hilfe dieses Jahr. Mit drei Kindern zu Hause ist es oft abenteuerlich, besonders zu Weihnachten. Also danke, dass ihr alle mit uns zusammen feiert. Ja, genau wie Papa gesagt hat. Zusammen ist Weihnachten schöner. Wunderschön. Ich liebe gute Weihnachtstoasts. Wollen Sie mit mir an einem Knallbonbon ziehen, Herr Bulle? Ich liebe Weihnachtsknallbonbons. Oh. Und ich liebe Weihnachtshüte. Juchu, danke. Ja. Was mögen Enten an Weihnachten am liebsten, Efi? Den Weihnachtsquark. Peppa liebt es, Weihnachten zu feiern. Weihnachten. Und zusammen ist Weihnachten wirklich schöner.",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
  }
 }

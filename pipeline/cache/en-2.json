@@ -64818,7 +64818,7 @@
  "YDZ4uRzE77c": {
   "channel": "Sesame Street",
   "lang": "en",
-  "checked": "2026-11-14T03:25:39+00:00",
+  "checked": "2026-11-26T20:57:06+00:00",
   "title": "GOT TO GO! Potty Song 🧻 🚽 (HOT TO GO! Parody) | Sesame Street Songs",
   "duration": 145,
   "published": "20260916",
@@ -64827,6 +64827,7 @@
   "pace": 155.4,
   "rare": 0.0428,
   "var": 0.6603,
+  "cl": 0.0428,
   "speech_s": 144.4,
   "tokens": 374,
   "kw": [
@@ -64951,12 +64952,109 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "gotta",
+    "- I gotta run! ♪ Me telling a joke when me start to wiggle ♪",
+    6,
+    11,
+    4.95,
+    5
+   ],
+   [
+    "song",
+    "♪ Sing a song and do-si-do ♪",
+    39,
+    42,
+    5.26,
+    3
+   ],
+   [
+    "ends",
+    "(song ends) - What that, body?",
+    137,
+    141,
+    4.75,
+    1
+   ],
+   [
+    "joke",
+    "♪ Me telling a joke when me start to wiggle ♪",
+    7,
+    11,
+    4.68,
+    1
+   ],
+   [
+    "mess",
+    "♪ There might be a mess if me don't get moving ♪",
+    75,
+    80,
+    4.57,
+    1
+   ],
+   [
+    "motorcycle",
+    "♪ P-O-T-T-Y, whoa-oh ♪ (motorcycle revs)",
+    123,
+    128,
+    4.07,
+    1
+   ],
+   [
+    "chorus",
+    "- Ah, just in time for the chorus.",
+    108,
+    111,
+    3.9,
+    1
+   ],
+   [
+    "playful",
+    "(playful music) - One!",
+    0,
+    5,
+    3.53,
+    1
+   ],
+   [
+    "giggle",
+    "♪ A funny feeling, but me dare not giggle ♪",
+    10,
+    14,
+    3.35,
+    1
+   ],
+   [
+    "revs",
+    "♪ P-O-T-T-Y, whoa-oh ♪ (motorcycle revs)",
+    123,
+    128,
+    2.85,
+    1
+   ],
+   [
+    "grooving",
+    "♪ There they go again, now me legs are grooving ♪",
+    72,
+    76,
+    2.45,
+    1
+   ],
+   [
+    "reprises",
+    "(guitar hook reprises)",
+    143,
+    145,
+    2.15,
+    1
+   ]
+  ],
+  "voc": 0.09550561797752809,
   "tx": "(playful music) - One! - Two! - One! - Two! - I gotta run! ♪ Me telling a joke when me start to wiggle ♪ ♪ A funny feeling, but me dare not giggle ♪ ♪ Me tummy feel tight, now me doing a dance ♪ ♪ Got to cross me legs like ants in the pants ♪ ♪ Stop and listen to me body ♪ ♪ It's saying that it's time for potty ♪ ♪ There's a growing feeling in me tummy ♪ ♪ That me gotta go pee ♪ ♪ Me gotta go pee ♪ - I know that feeling. ♪ P-O-T-T-Y, uh-oh ♪ ♪ Wiggle your pants to your toes ♪ ♪ Take a seat, now nice and slow ♪ ♪ Sing a song and do-si-do ♪ ♪ P-O-T-T-Y, uh-oh ♪ (toilet flushing) ♪ Wash your hands until they glow ♪ ♪ Dry them off and off you go ♪ ♪ P-O-T-T-Y, uh-oh ♪ - Ah, much better. ♪ P-O-T-T-Y, whoa-oh ♪ ♪ Your body knows when you've got to go ♪ ♪ P-O-T-T-Y, whoa-oh ♪ ♪ Your body knows when you've got to go ♪ ♪ Now it time for snack, but me not feeling hungry ♪ ♪ How could that be true when me tummy's all grumbly ♪ ♪ There they go again, now me legs are grooving ♪ ♪ There might be a mess if me don't get moving ♪ ♪ Stop and listen to me body ♪ ♪ It's saying that it's time for potty ♪ ♪ There's a growing feeling in me tummy ♪ ♪ That me gotta go pee ♪ ♪ Me gotta go pee ♪ ♪ P-O-T-T-Y, uh-oh ♪ ♪ Wiggle your pants to your toes ♪ ♪ Take a seat, now nice and slow ♪ ♪ Sing a song and do-si-do ♪ ♪ P-O-T-T-Y, uh-oh ♪ (toilet flushing) ♪ Wash your hands until they glow ♪ ♪ Dry them off and off you go ♪ ♪ P-O-T-T-Y, uh-oh ♪ - Ah, just in time for the chorus. ♪ P-O-T-T-Y, whoa-oh ♪ ♪ Your body knows when you've got to go ♪ ♪ P-O-T-T-Y, whoa-oh ♪ ♪ Your body knows when you've got to go ♪ ♪ P-O-T-T-Y, whoa-oh ♪ (motorcycle revs) ♪ Your body knows when you've got to go ♪ ♪ P-O-T-T-Y, whoa-oh ♪ ♪ Your body knows when you've got to go ♪ (song ends) - What that, body? Uh-oh. Me got to go. (guitar hook reprises)",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0428,
-  "voc": 0.09550561797752809
+  "src": "cc"
  },
  "_1DJ2Q4HZSI": {
   "channel": "Pokémon Kids TV",
@@ -111645,7 +111743,7 @@
  "4AIl54tH89U": {
   "channel": "Bluey - Official Channel",
   "lang": "en",
-  "checked": "2026-11-12T02:53:54+00:00",
+  "checked": "2026-11-26T21:09:10+00:00",
   "title": "Reading A Childhood Letter 💌💙 | 40 Minutes of Family Time | Bluey",
   "duration": 2527,
   "published": "20261001",
@@ -111654,6 +111752,7 @@
   "pace": 131.3,
   "rare": 0.0501,
   "var": 0.7877,
+  "cl": 0.0243,
   "speech_s": 2106.4,
   "tokens": 4611,
   "kw": [
@@ -111818,12 +111917,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "i've",
+    ">> I've saved it all these years. Would you",
+    15,
+    19,
+    5.72,
+    13
+   ],
+   [
+    "let's",
+    ">> Let's do it on my back. That's a tough",
+    179,
+    183,
+    5.16,
+    13
+   ],
+   [
+    "shoulder",
+    ">> You just tapped me on the shoulder.",
+    1726,
+    1730,
+    4.5,
+    5
+   ],
+   [
+    "bath",
+    "bath? >> Tina's never had a bath, and we don't",
+    665,
+    671,
+    4.44,
+    5
+   ],
+   [
+    "fairy",
+    ">> I think they want you to fairy dance",
+    365,
+    369,
+    4.08,
+    4
+   ],
+   [
+    "crab",
+    ">> It's a crab claw. >> Oh, yeah, look. It's from a blue coral",
+    914,
+    919,
+    3.76,
+    4
+   ],
+   [
+    "skateboard",
+    "me a skateboard. The flower of my skateboard is green.\"",
+    40,
+    50,
+    3.21,
+    4
+   ],
+   [
+    "woah",
+    ">> Woah! >> I've got her. I've got her.",
+    605,
+    609,
+    3.58,
+    3
+   ],
+   [
+    "mine's",
+    ">> Hey, mine's too small. >> And mine's too big.",
+    1267,
+    1273,
+    2.97,
+    2
+   ],
+   [
+    "intonation",
+    "intonation that suggests I'm doing something annoying?",
+    1720,
+    1726,
+    2.84,
+    2
+   ]
+  ],
+  "voc": 0.06890257814282455,
   "tx": ">> Look at this, girls. >> What is it? >> It's a letter. It was written by your daddy for school when he was just a little boy. >> Ooh. >> I've saved it all these years. Would you like me to read it? >> Yes, please. >> Okay, here we go. \"My name is Bandit Heeler.\" Oh, he spelled Heeler wrong. \"I am five years old.\" I think he means five years old. >> >> Your daddy wasn't a very good speller, was he? \"For my birthday, my mum bought me a skateboard. The flower of my skateboard is green.\" I think he means the color of his skateboard was green. \"I ride my skateboard on the driveway after school.\" … go get MY MUM. >> BAA. >> OH, LET'S GO. RIBBON. >> UH I'LL COME back another time. >> I know what you're doing. You don't want me to see Mum. WELL, IT'S NOT GOING TO WORK. THERE. >> BAA. >> Where you going now, sheepy? Mum. Are you in there? >> Yes, Bluey. I'm in here. >> >> I'm sorry for whatever I did to upset you. >> You didn't do anything to upset me, sweetheart. >> Then why don't you want to see us? >> I do want to see you, but it can be hard work looking after kids. Sometimes mums just need 20 minutes. >> I don't understand. >> You will one day, sweetheart. >> Ah, no, sheepy, no. >> … stall this weekend. >> Why? >> Because I'm not very good at it, am I? McKenzie's meant to be a cheetah. Am I? >> But then no one will be able to get their faces painted. >> No, I guess not. >> Well, I think you have to do it. >> >> Even though I don't want to? >> Yes, even though that. >> Yeah, you're probably right. >> >> WHAT DO YOU THINK? >> >> I THINK I'M GETTING BETTER. >> SEE YOU LATER, COLLIES. Enjoy the curry. >> See you. Good luck with the magpies. >> Now, every good hero learns a few things on their quest. >> McKenzie's mom, can you face paint one more thing? >> Ready? >> … Jen and Luke, see you tomorrow. >> Turn right here. >> No. >> >> Continue straight for >> No, I don't think so, love. >> Do a U-turn. >> No, I'm good. >> Proceed to the route. >> Statue World, is your surfboard here? >> No, I think we're lost. >> WE TOLD YOU. >> >> HOW AM I GOING TO FIND MY SURFBOARD? >> YOU JUST have to do what Satnav says. >> Really? >> Yes. >> Even though she's bossing me around? >> Yes, she's doing it for a good reason. >> Okay, let's give it a go. >> Bye Statue World. >> In 50 m, turn right. >> Now turn right like she says. >> This better work. >> Turn left here. >> … you too. >> Kids, this is your Auntie Brandy. You've grown so much. Bluey, you look just like your father. >> Oh, what? Who do I look like? >> You look just like you. >> I brought you some presents. >> Really? >> Oh, Brandy, you shouldn't have. >> What's these? >> Oh, you really shouldn't have. >> Do they not like onesies? >> They do. It's just Bingo has this thing, um don't worry. I'm sure she's grown out of it. I hope they fit. I wasn't sure how much they'd grown in um 4 years. >> Hey, mine's too small. >> And mine's too big. >> Well, then swap them around. >> Can you make my cheetah … that's some sad howling. >> Calypso, can you make Indy play with me and not Chloe? >> Indy is in charge of Indy, sweetheart. >> Aw, but I want to play wild girls. >> What do you love about playing wild girls? >> Uh the broom, and Indy bringing food, and I love dancing with Indy. I just like playing with Indy. >> Okay. Do you think you could scare a scarecrow? What is it? >> It's the pink witch of the woods. >> Hey, Coco's not a pink witch. >> Yes, she is. She's got a broom. No, she uses that to Wait. Oh, no. Look, this corn is shriveled up. They all are. >> It must be the work of the … What? Yes? Huh? >> Dad. >> Why is everyone saying my name with that intonation that suggests I'm doing something annoying? >> What do you want? >> What? Nothing. >> You just tapped me on the shoulder. >> No, I didn't. >> Yes, you did. >> But I'm standing over this side of you. Which shoulder was tapped? >> Head it. >> There's that intonation again. >> Looks like we have a mystery tapper on our hands. >> Ah, I know who can help us solve this. It was a Tuesday when this dame walked into my life. >> Evening, Mr. Brownie Bear. I have a case for you. >> I'm all ears. She spoke, but I drifted off … mama who got her legs only for a day. Thanks for moving, Mr. Pelican. Wowee! Mama! Did you come all this way by yourself? Yes! I'm a mama who got her legs. Pops, the jellyfish? Yes, and the pelican, and I saw a whole herd of crabs. You little star. Listen to this. Oh. >> >> Bluey and Bingo, Bluey and Bingo, they are the best. >> Bluey and Bingo's dream house, how may I help you? >> Oh, uh, my name is Barnsley. I'm here for the new butler's job. >> Oh, yes, Barnsley, good to meet you. My name is Monty, I'm head butler, do come in. >> >> Oh, yeah, watch out for that. The children set up traps … LOUNGE. >> >> DING ding a ding ding ding burp burp burp burp. Insert coin for awesome prizes. >> Cha-ching. This machine doesn't take imaginary coins. Go and get a job and earn real ones. >> >> Mom, can we have some real coins? >> I said go and get a job. >> Well, if you kids make Mom and Dad's bed, I'll give you 20 cents. >> Ooh, come on, Bingo. >> I'm watching you, Magic Claw. >> Here you go, one coin. >> You have one turn. Best of luck. >> Ooh, I want gray dancer. Okay. YEAH, BINGO. WHAT? >> NO. >> YOU LOSE. You lose. You lose. >> Gray dancer. >> Magic Claw. >> Insert more coins. … Black a blackberry. >> Got it. What about you? >> What fruit do you love? >> banana >> I'm a banana. >> >> Banana and blueberries, perfect. >> blackberry >> Oh, blackberries. Blackberries, perfect. Okay, let's just get them in the juicer. >> Wait, what fruit do you hate? >> Ooh, rockmelon. >> I'm a rockmelon. Yeah, and I'm a fly. >> Oh, no. Okay, let's get the lid on. Clank. Now, switch the juicer on. >> >> OKAY, THERE WE GO. LID OFF. Let's have a taste. >> >> Rockmelon and flies. Now kids, that's it for me. I got to get to work. >> No. You need to have some eggs. >> Well, I am off the carbs.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0197,
-  "voc": 0.08559919436052367
+  "src": "auto"
  },
  "_lPxawG9hF0": {
   "channel": "Pokémon Kids TV",
@@ -114769,7 +114949,7 @@
  "qpmyNccdFQU": {
   "channel": "Alex Bondoc",
   "lang": "en",
-  "checked": "2026-11-12T03:36:23+00:00",
+  "checked": "2026-11-26T20:56:09+00:00",
   "title": "Morning & Night Routines ☾ : My Routine to Feel Calm, GRWM & Mornings on Campus",
   "duration": 677,
   "published": "20260418",
@@ -114778,6 +114958,7 @@
   "pace": 149.4,
   "rare": 0.0316,
   "var": 0.7832,
+  "cl": 0.0356,
   "speech_s": 406.5,
   "tokens": 1012,
   "kw": [
@@ -114910,12 +115091,125 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bit",
+    "little bit and then we'll put on soft",
+    89,
+    93,
+    5.37,
+    6
+   ],
+   [
+    "does",
+    "I'm just wearing it. No, this does not",
+    79,
+    84,
+    5.74,
+    5
+   ],
+   [
+    "teeth",
+    "doing like brushing your teeth and",
+    458,
+    463,
+    4.58,
+    2
+   ],
+   [
+    "bag",
+    "bag. Plus, oil cleanse. This one's my",
+    478,
+    484,
+    4.79,
+    1
+   ],
+   [
+    "bottles",
+    "favorite. I don't know how many bottles",
+    482,
+    486,
+    4.19,
+    1
+   ],
+   [
+    "lasted",
+    "finished it and it lasted so long cuz a",
+    496,
+    500,
+    4.09,
+    1
+   ],
+   [
+    "pajamas",
+    ">> I feel like I'm wearing pajamas. I might",
+    71,
+    76,
+    3.31,
+    2
+   ],
+   [
+    "floss",
+    "I'm out of floss. I thought I still had",
+    466,
+    472,
+    3.18,
+    2
+   ],
+   [
+    "moisturizer",
+    "of my moisturizer. I'm also running out",
+    104,
+    108,
+    2.99,
+    1
+   ],
+   [
+    "prepped",
+    "prepped. What?",
+    184,
+    198,
+    2.91,
+    1
+   ],
+   [
+    "empties",
+    "through lots of empties of these two so if that says anything,",
+    109,
+    116,
+    2.9,
+    1
+   ],
+   [
+    "hinders",
+    "hinders me. This does not feel right.",
+    474,
+    479,
+    2.84,
+    1
+   ],
+   [
+    "hairspray",
+    ">> Wow, and then hairspray. I'll dry it like this.",
+    273,
+    281,
+    2.8,
+    1
+   ],
+   [
+    "straighter",
+    "like a straighter curl at the bottom.",
+    292,
+    296,
+    2.68,
+    1
+   ]
+  ],
+  "voc": 0.0572289156626506,
   "tx": ">> Good morning. I take my supplements right now. I just went upstairs and did laundry. I don't really show that cuz it's not really part of my routine. >> >> I feel like I'm wearing pajamas. I might just change. I think it's the pants that make it like pajamas cuz these are my house clothes. I'm just wearing it. No, this does not feel right. Mini get ready with me. Yay. I'm going to wait for my hair to dry a little bit and then we'll put on soft curls. I've been doing that every morning and it's been turning out pretty well. I've been testing this out. It does make my makeup stay but I think I got a reaction or something cuz it feels like weird. I don't know. Just be careful when you use this. I like these. I'm running out of my moisturizer. I'm also running out of >> >> These are like oh my goodness. I've gone through lots of empties of these two so if that says anything, um Mom? Hi Mom. Well, I bought this camera just to test it out because when I do my solo travels, I thought it was nice for that. And to be honest, it's like it's really not worth it. I don't think like the pros outweigh the cons. Like the cons definitely like this quality is honestly just like okay. It's not you know like wow. I want to say this just because I see so many people get gifted and stuff and I don't want people to use their money on stuff that are really just not that good. I don't see lots of like real reviews. These are not the same socks. These are from my hair only. Turned out to be magic. >> I'm not super fashionable. I want to show my favorite combo lately. Juicy 525 and Sugar Glaze Lip Potion in Nudie. Oh. Just need a little bit. >> >> I think it's perfect for my skin tone. Okay, can you see? I use this to put on the outline. >> >> Oh. Let's make lunch. A quick lunch since I already meal prepped. What? What? Scary. Bean rice. Honey salmon. I'll heat these two up. Ah! Wow! My super delicious lunch. Wow, I'm excited. It's broken. So, I feel like I should add a little snack, but I don't know what. >> Yeah, so cute. Headphones. Go start her. I got my snack. Oh my. >> >> Wow, and then hairspray. I'll dry it like this. Oh. >> >> I'll just brush the bottom cuz I don't like how curly the bottom is. That's the thing with sock curls, it's hard to get like a like a straighter curl at the bottom. But usually I just wet it and then it's back to normal. Today I'll be on campus for basically the whole day. I like to make sure I feel my best so I can make it throughout the day. Okay. I hope that Now, if this hair stays is the real question. So, I got this, right? I don't even know if it works. I add it in hopes that it will work. Does it work? I don't think so. I really don't mind my hair being frizzy. I just want it to stay in place. >> >> Actually, it's getting a bit late. When I last looked at the time, it was fine and then all of a sudden, you know, it's fine. >> >> Seat belts. >> >> I'm late to being early, but it's okay. Okay, let's go. >> >> I'm going to drink. It's nice outside. It's so nice. It's so pretty. >> >> Oh, it's sliding. Look. Done. My night routine is pretty simple, but I feel I'm so tired. Let's get ready for bed. I really should be doing this earlier, but I was watching I need to wash this. It looks like he's crying. Even though today was super busy, it was still a lot of fun. Like it wasn't I didn't feel overwhelming. As I always say, I don't know what they do with this. It's just too suspicious, but I love it. Leave it on while you're doing like brushing your teeth and flossing. >> >> No. I'm out of floss. I thought I still had more. I would usually floss my teeth. However, my lack of foresight hinders me. This does not feel right. So, this is my travel. I have a whole bag. Plus, oil cleanse. This one's my favorite. I don't know how many bottles I've gone through this. Only one that does not break me out. I don't want to try other ones. >> >> So, my cleanser. I think any is fine as long as I double cleanse. The one I really like is the blueberry one. I think it's Innisfree. But, I just finished it and it lasted so long cuz a little bit lasts forever. I'll go take a very quick shower. >> >> Okay? That's usually like the only light I have on. Nighttime skincare. Tonight is a retinol night, so it's very simple. Yeah, my nighttime routine is only like I try to get to like 30 minutes. I really try to go as fast as I can, but at the same time I don't want to make myself feel rushed, but at the same time I just want to sleep. Lip. I'm going to let the skincare dry a little bit or soak. And I'll write a little bit. Lately, I've been doing it not lately. It's probably been for a few months in the morning and at nighttime or before I go to sleep. In the morning, I write whatever and then at nighttime I just try to finish up the page, so it's not really a certain amount. What time is it? It's kind of late right now. Okay, it's almost 10. >> >> Forest theme. Voice over. I found the most perfect four-leaf clover. Oh my goodness. >> >> I just filmed this and it disappeared, but anyway. I hope you Oh, what? What what? Question mark. Thank you for watching and I'll see you next week. Have a good Bye. All right.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0356,
-  "voc": 0.05717151454363089
+  "src": "auto"
  },
  "hKlhp2NcdCY": {
   "channel": "English From the Ground Up",
@@ -121686,7 +121980,7 @@
  "JGlLyCUDsZc": {
   "channel": "EnglishSponge",
   "lang": "en",
-  "checked": "2026-11-12T05:16:25+00:00",
+  "checked": "2026-11-26T20:55:52+00:00",
   "title": "How To Stop Translating In Your Head In English 🇬🇧",
   "duration": 901,
   "published": "20260814",
@@ -121695,6 +121989,7 @@
   "pace": 105.4,
   "rare": 0.0169,
   "var": 0.7571,
+  "cl": 0.0331,
   "speech_s": 876.4,
   "tokens": 1540,
   "kw": [
@@ -121843,12 +122138,101 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "speaking",
+    ">> and start speaking fluently in English.",
+    59,
+    69,
+    4.91,
+    8
+   ],
+   [
+    "video",
+    "My name is Sam, and in today's video, we",
+    33,
+    41,
+    5.43,
+    7
+   ],
+   [
+    "stronger",
+    ">> gets stronger and stronger and stronger.",
+    474,
+    482,
+    4.55,
+    5
+   ],
+   [
+    "comfortable",
+    "and I am comfortable in just about any",
+    83,
+    90,
+    4.66,
+    4
+   ],
+   [
+    "naming",
+    "I want you to start naming objects.",
+    716,
+    727,
+    3.88,
+    2
+   ],
+   [
+    "vocabulary",
+    "lists of vocabulary with the French word",
+    300,
+    309,
+    3.82,
+    2
+   ],
+   [
+    "verbs",
+    "verbs, usually from the first-person perspective.",
+    777,
+    788,
+    3.44,
+    1
+   ],
+   [
+    "teacher's",
+    "An English teacher's guide on how to",
+    827,
+    835,
+    3.42,
+    1
+   ],
+   [
+    "slows",
+    "world. Translation slows down everything and languages, especially speaking and",
+    135,
+    145,
+    3.39,
+    1
+   ],
+   [
+    "usages",
+    "It has its own usages and it has its own",
+    227,
+    234,
+    2.67,
+    1
+   ],
+   [
+    "tiktok",
+    "If you are bored, you watch TikTok.",
+    424,
+    431,
+    2.46,
+    1
+   ]
+  ],
+  "voc": 0.03420523138832998,
   "tx": "Do you find it difficult to keep up with native speakers whilst listening? Maybe you feel like you speak really, really slowly. And you have to think really hard how to create a sentence in English. Well, I don't think you are bad at English. I think you might have a problem with translation. My name is Sam, and in today's video, we are going to talk about why translation is stopping your English progress. We are also going to discuss why you are still translating. And make sure you stick around until the end of the video cuz I am going to give you some different tips on how to start thinking … things from Spanish to English, I really start to struggle. Translation is a very difficult skill, especially in languages that are very different from each other. If we want to be fluent and confident English speakers, we need to separate English and our native language in our head. We cannot treat them like they are connected. English isn't just another version of your language. English is a completely different way of understanding the world. Translation slows down everything and languages, especially speaking and understanding. In real-life conversations, you need to understand fast, … step for our brain. What we want is a connection between English word and meaning. When we translate, we add an extra step in the middle. It goes English word, translation, meaning. What we want to do is to just have English word and meaning. This is where your understanding becomes automatic and your speaking becomes much quicker. It is also really useful to remember that words are not direct translations of each other. Each word in English is its own thing. It has its own usages and it has its own definition. Just because you have a word that is similar in your native language does not … to change something, it's very important to understand why we do it in the first place. Well, I don't really think it's your fault. From the moment we start learning a foreign language, we are taught to translate. I remember learning French in secondary school. And I remember being given very long lists of vocabulary with the French word and the English word directly next to each other. As soon as I started learning a language, they immediately got us to translate everything. >> >> They taught us that every French word had a perfect English word in its place. I also remember doing lots and … world. But, I think some of it might be down to you as well. So, >> >> why are you translating? Well, the honest truth is translation is easy, >> >> right? Learning a foreign language is a really difficult thing to do. So, it's not surprising that we look to take a few shortcuts. I get it. >> >> Not understanding something is frustrating, especially when you keep seeing the same word over and over again, and you still don't understand it. It is so, so easy to pick up your phone, quickly search the word, and find out the answer immediately. But, you need to fight that feeling. We live in a … patience. If you don't understand a word, that is okay. Because every single time you see it, >> >> and you don't understand it, you get a little bit closer. You get a little bit closer to it finally clicking. Every time you see a word in its contact, the connection >> >> gets stronger and stronger and stronger. Then, when the word finally clicks in your mind, it the connection is very strong. Much stronger than a connection formed through translation. The real reason why you still translate words in English is because you do not have a strong enough connection between the word in … not understanding every word in a sentence, but still understanding the meaning of the sentence. Comprehensible input trains you to do that. Comprehensible input teaches you new vocabulary and new grammar entirely through context. If you don't understand a video, it's just too hard for you. And that is okay. Just select an easier video. When your brain understands most of what it's hearing, it can work out the words it doesn't know very quickly. Your brain gets enough information from what you do know to work out what you don't know. I recommend not looking up most words. But, if … for you. And it's very simple. Stop trying so hard. I know it sounds crazy, but it really works. When we watch videos at the top of our current level, we need to focus really hard to understand it. When the difficulty is easier, our understanding is automatic. What I suggest is watching some videos at a lower level than your normal listening practice. Just watch the videos, allow your ears to listen, and your brain to understand. This really strengthens your ability to understand English fluently. It really really works on the connection between the word and the meaning. And finally, … in English. Orange juice. >> >> Bottle. Cable. Speaker. Once you get comfortable doing this, I want you to start adding descriptions. Big green bottle. Big green metal bottle. Open door. Closed door. Once you start getting comfortable adding descriptions, I want you to add verbs, usually from the first-person perspective. I am holding my cup and I am drinking my drink. Wow, that was very delicious. What this does is it starts you thinking entirely in English. This trains your brain to start thinking and then start speaking in English. No translations at all. The most important thing is … from translations. If you enjoyed today's video and wanted to start practicing some of the things I spoke about, a great place to start would be the English Sponge website. On the English Sponge website, you can choose a videos based on difficulty, which means you can start watching videos and training your brain for fluency. Once you start watching the videos, you will start building stronger connections. And hopefully, soon you might be a fluent English speaker. Well, my name is Sam. Once again, thank you very, very much for watching today's video, and I will see you in the next one. Bye.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.03,
-  "voc": 0.030876494023904383
+  "src": "auto"
  },
  "vHKgb3WHbOY": {
   "channel": "smile English stories",
@@ -122102,7 +122486,7 @@
  "tHhGOKU3Dfo": {
   "channel": "smile English stories",
   "lang": "en",
-  "checked": "2026-11-12T05:16:37+00:00",
+  "checked": "2026-11-26T20:55:56+00:00",
   "title": "Do you prefer thin ENGLISH or thick AMERICAN ones on Pancake Tuesday (Shrove Tuesday)?",
   "duration": 836,
   "published": "20210212",
@@ -122111,6 +122495,7 @@
   "pace": 104.2,
   "rare": 0.0451,
   "var": 0.7459,
+  "cl": 0.0326,
   "speech_s": 689.1,
   "tokens": 1197,
   "kw": [
@@ -122259,12 +122644,85 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "okay",
+    "Okay. What ingredients do you use?",
+    174,
+    179,
+    5.06,
+    5
+   ],
+   [
+    "next",
+    "Next Tuesday it's Pancake Tuesday in the UK (in the United Kingdom).",
+    4,
+    13,
+    5.7,
+    4
+   ],
+   [
+    "cook",
+    "in the fridge for a few hours to rest before I cook it.",
+    393,
+    399,
+    4.65,
+    3
+   ],
+   [
+    "slowly",
+    "...and if I speak too quickly, or too slowly you can change the speed in YouTube.",
+    71,
+    81,
+    4.63,
+    3
+   ],
+   [
+    "ingredients",
+    "Well I mix all my ingredients in my liquidizer.",
+    170,
+    175,
+    4.14,
+    2
+   ],
+   [
+    "lemon",
+    "...some with sugar and lemon and others",
+    427,
+    430,
+    4.1,
+    2
+   ],
+   [
+    "lumps",
+    "or you'll get lumps in your batter!",
+    256,
+    259,
+    3.19,
+    2
+   ],
+   [
+    "contexts",
+    "where you can listen to English in lots of different contexts.",
+    60,
+    66,
+    3.58,
+    1
+   ],
+   [
+    "savoury",
+    "and you can eat savoury pancakes with no sugar... ...with mushrooms or ham or cheese.",
+    351,
+    362,
+    2.81,
+    1
+   ]
+  ],
+  "voc": 0.1044504995458674,
   "tx": "Can you toss a pancake? Next Tuesday it's Pancake Tuesday in the UK (in the United Kingdom). I remember Pancake Tuesday was a very special day when I was a child, because I love pancakes! But we don't only have pancakes in England, we have pancakes in a lot of countries in the world. So what do we call pancakes in England? Well if you keep watching the video, and you don't stop watching the video... ...you will see! It's snowing... well, a little! Hello, I'm Rachel. If you're new to my channel, welcome to smile English stories where you can listen to English in lots of different contexts. So … I speak too quickly, or too slowly you can change the speed in YouTube. I think you know that the UK (the United Kingdom) is very complicated. The United Kingdom consists of Great Britain and Northern Ireland. The Republic of Ireland is a separate country, completely independent from the United Kingdom. If you see GB on a car, the car could come from Great Britain or Northern Ireland. But the people from the Republic of Ireland put IRL on their cars... ...and they are still in the European Union! So Great Britain consists of Scotland, Wales and England. It's complicated! Of course I remember … Hi mum! Hi granny! How do you make your pancakes? Well I mix all my ingredients in my liquidizer. Okay. What ingredients do you use? Well first I mix one egg with half a pint of milk together in the liquidizer. Okay, so one egg and half a pint of milk. Half a pint... that's about 280 millilitres. So if I plug my liquidizer in, put the milk and the egg in the liquidizer and mix... With the liquidizer still running, I then add four ounces of plain flour and half a teaspoon of salt. Okay so four ounces, that's about 115 grams, because 1 ounce in England is about 28 grams. Be careful! Add … get lumps in your batter! Lumps are when the flour and the liquid don't mix together correctly. So I need to add this slowly. Hello! Hello! We're having pancakes! French or English pancakes? French pancakes! I live in France and my husband is French. If you live in France, or if you have been to France, you will know that pancakes are a big French tradition too, but not only on one day of the year... all year! In France you can go to a little pancake restaurant called a \"creperie\", and you can eat sweet pancakes with chocolate sauce or fruit or ice cream... or maybe a little alcohol (!) and … or cheese. They're really good! But on Pancake Tuesday a lot of French people don't eat pancakes. They eat beignets. So the pancake mixture (or the pancake batter) is ready and I'm just going to pour it into a bowl... ...and put it in the fridge, in the fridge for a few hours to rest before I cook it. Okay mum, so how do you cook the pancakes? Well I cook them with a small amount of oil in my frying pan. Your dad tosses them to turn them over. One, two, three... you're better than me! So what do you put on your pancakes? Well on Shrove Tuesday, we normally have sweet pancakes... ...some … spread. Okay thanks mum! You're welcome! Speak to you soon! Speak to you soon. I'm sure you know that Pancake Tuesday is a very important day in the Christian Calendar. In fact it's the day before the period of Lent. Lent is the name of the 40 days before Easter Sunday, and during these 40 days traditionally Christians would fast, that means they would not eat rich food. And so Pancake Tuesday is the last opportunity to eat richer, fattier, perhaps sweeter food. The real name for Pancake Tuesday is Shrove Tuesday. Now \"shrove\" comes from \"shrive\" which is a very old English word meaning … all your sins all the things you have done wrong, then God will forgive you... ...which sounds like a good plan to me! In England, there are a lot of traditions on Pancake Tuesday, and one tradition is the Pancake Race. People have to run whilst tossing a pancake... ...and the quickest is the winner! And there is a school in London called Westminster School. I'm sure you know Big Ben and the Houses of Parliament, and Westminster Abbey... ...well it's just nearby! And in the school, every year the chef makes a big pancake and he takes the pancake to the hall of the school... ...and he … each class fight for pieces of pancake... ...and the heaviest piece of pancake is the winner! The student wins a gold coin... ...but it's only symbolic. He has to give it back to the school for the next year! So what about the other countries of the United Kingdom and of Ireland? Well the Irish seem to have pancakes a little bit like the English... ...the bigger flatter pancakes. But I remember buying Scotch pancakes in the supermarket in England. They were really good too.. and they were thicker than the English pancakes. And do you remember my Welsh Dragon? Well in Wales, they have a … .. well something like that! So what about other English-speaking countries? Well I know Australia and Canada celebrate Shrove Tuesday too, and I think they have pancakes. But America is a little different. They have pancakes every day like in France! I remember going to diners in America and having a big pile of pancakes for breakfast... ...but the thicker pancakes. My daughter loves making American pancakes. She mixes 125 grams of self-raising flour with a little salt and three tablespoons of sugar. And then she adds two eggs... ...and 15 centilitres, that's 150 millilitres of milk, … America maple syrup seems to be very popular on pancakes so that's what we are going to do! Let's pour some on... lots... Let it run down the sides! At this time of year they have a festival called \"carnival\" like in a lot of other countries in the world. And we'll talk about that a little next week. I have my American pancakes with maple syrup, and my English pancakes with lemon juice! If you enjoyed the video, give me a thumbs up and share it with a friend who likes listening to English too... ...and enjoy making your pancakes... ...and enjoy eating them too, of course! See you next time!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0326,
-  "voc": 0.10295616717635066
+  "src": "cc"
  },
  "4qYXqdCiOkQ": {
   "channel": "English From the Ground Up",
@@ -128421,7 +128879,7 @@
  "iCQOE0hahZw": {
   "channel": "EnglishSponge",
   "lang": "en",
-  "checked": "2026-11-12T15:40:25+00:00",
+  "checked": "2026-11-26T21:08:04+00:00",
   "title": "Learn Real-Life British English - In Cornwall! | Comprehensible Input B1",
   "duration": 1173,
   "published": "20260807",
@@ -128430,6 +128888,7 @@
   "pace": 144.0,
   "rare": 0.0325,
   "var": 0.7106,
+  "cl": 0.0509,
   "speech_s": 1065.2,
   "tokens": 2556,
   "kw": [
@@ -128586,12 +129045,77 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "place",
+    "And I'm at a place called St. Michael's",
+    25,
+    33,
+    5.71,
+    10
+   ],
+   [
+    "pretty",
+    "it's pretty common with German people.",
+    230,
+    236,
+    5.38,
+    10
+   ],
+   [
+    "videos",
+    "to B2 upper intermediate videos with",
+    1051,
+    1058,
+    4.79,
+    6
+   ],
+   [
+    "holiday",
+    "popular holiday destination, not only for Brits,",
+    213,
+    222,
+    4.66,
+    6
+   ],
+   [
+    "wrapped",
+    "wrapped. It's wrapped in tin foil,",
+    436,
+    443,
+    4.15,
+    5
+   ],
+   [
+    "ham",
+    "lunch, right? So, I've got in here a ham",
+    429,
+    435,
+    4.12,
+    5
+   ],
+   [
+    "pronunciation",
+    "the correct pronunciation, the correct sounds, right? Without being misled by",
+    966,
+    975,
+    3.51,
+    5
+   ],
+   [
+    "misled",
+    "sounds, right? Without being misled by",
+    968,
+    975,
+    3.28,
+    4
+   ]
+  ],
+  "voc": 0.05178643115214773,
   "tx": "Do you want to learn English the natural way? Well, in this video, you're going to learn English with the comprehensible input method. All you need to do is just watch, listen, and you will learn new English vocabulary. Today, I'm in the county of Cornwall in the southwest of England. And I'm at a place called St. Michael's Mount. So, that there is St. Michael's Mount, and that is where I'm going to visit today. For this video, I'm going to turn off the subtitles. So, try to use your ear to listen and understand without subtitles. Actually, as always, if you do want subtitles, then just click … not possible because the path is covered with water. The path is underwater during high tide. So, you can only go out there during low tide, like right now. So, I think I have about 3 hours to go over there and come back because in about 3 hours, the tide will come in. The tide will come in and the water will cover the path, right? So, I will have to make this video quickly because I've only got 3 hours before the tide comes in. So, let's go. I need to go and check out St. Michael's Mount quickly. By the way, you can see down here, there's all this moss around here. You see all this … even take the train. In fact, I actually took the train to come down to Cornwall. It took about 5 and 1/2 hours, 6 hours, something like that. But this is why Cornwall is such a good place to go on holiday because it's like it's not too difficult to come here. It's everything is in English. You don't need another language or anything. And it's a good place, a cheaper place for families to come on holiday. You don't have to spend a lot of money. Right? And that's why it's um it's a more popular place to come on holiday. The other thing with Cornwall that's pretty good is that you kind of … It's also not quite as much as it used to be because actually there are loads of people here now and lots of tourists. But yeah, Cornwall is nice. I would say if you live in the UK, if you are somebody who's living here, you may want to consider Cornwall as a place for your next holiday. It's pretty nice, pretty relaxing, you know. It's It's pretty chill. It's pretty chill. It's a pretty chill place, Cornwall, I would say. So, I'm just chilling here on some rocks. And before I go and climb St. Michael's Mount, I've got a packed lunch here. So, I've got a sandwich and a packet of crisps. … good for a packed lunch. Okay, I have just finished eating my packed lunch. So, now it's time to cross over the path over the causeway, as it's called, and go to St. Michael's Mount. A causeway is basically a path that will go underwater during high tide. That kind of path has a special name. It's called a causeway. So, now I'm going to walk across the causeway to St. Michael's Mount. You can see that it's very rocky on either side of the causeway. See, it's very rocky on that side. It's also very rocky on the other side. So, it's it's rocky on either side. And you can see down here … Up and down the country, there are different National Trust sites, and you can get one of these cards, and this will allow you to get into all of the sites for free. Actually, the truth is this is not actually my card. This is the card of a family member, but don't tell anyone about that. Let's pretend this is my card. Okay? So, this is not actually my card. So, yeah, if you have a National Trust card, you can get into all these places for free. So, it's a pretty good thing to have. >> No. >> And you were right. >> We're at the top of the castle on St. Michael's Mount. I think it's … I can just walk on the sand. When I came into the when I came across the path the first time, there was water on both sides, and you needed to use the path. But now, the tide has gone out even more. So, I can just use the sand. I'm just going to walk on the sand now. You can see that you need to watch your step. You need to watch your step because it's rocky. It's a rocky ground here. So, you need to watch your step to make sure that you you don't trip over or twist your ankle. I don't want to twist my ankle on these rocks. So, I'm just going to I'm going to watch my step here. Look, some … are. And your brain in many cases will still try to interpret the letters in the word and decide how to pronounce the word. So, without realizing it, your brain can kind of try to interpret the way the word is spelled into how it's pronounced, right? When you listen to English with no subtitles, all you're getting is sounds. There are no letters. There's no writing. It's just sounds. And when you only have sounds to listen to, you are more likely to actually understand and copy, eventually copy the correct pronunciation, the correct sounds, right? Without being misled by the letters that … is that you just don't get misled by the spelling and that you focus on the actual sounds that native speakers are using, okay? When you do listen to comprehensible input without subtitles, you may find that you need to reduce the level a little bit. If you're normally listening to B2 upper intermediate videos with subtitles, you may find that you may have to bring down the level to B1 intermediate to be able to understand without subtitles. But, you want to get into the habit of listening without subtitles. Firstly, cuz because of what I said about pronunciation, but also for your … Um but on englishsponge.com, we have more than 700 videos, um comprehensible input videos at each level, and almost none of them have subtitles. Probably only 5% or 3% of our videos have any subtitles. So, yeah, on English If If you prefer to listen without subtitles like this, on englishsponge.com, we have more than 700 videos without them. Anyway, guys, I hope you've enjoyed watching me take a look around St. Michael's Mount today. Here is a playlist of me traveling around the UK and teaching English at the same time. But, thank you for watching, guys, and I will see you in the next video.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.05,
-  "voc": 0.048534798534798536
+  "src": "auto"
  },
  "48QyEWeHN-M": {
   "channel": "EnglishSponge",
@@ -128779,7 +129303,7 @@
  "BZUEq-thx4c": {
   "channel": "Dreaming English",
   "lang": "en",
-  "checked": "2026-11-12T15:40:49+00:00",
+  "checked": "2026-11-26T21:08:17+00:00",
   "title": "Learn English in the Kitchen - Making Challah bread 🥖",
   "duration": 1546,
   "published": "20221008",
@@ -128788,6 +129312,7 @@
   "pace": 149.1,
   "rare": 0.0258,
   "var": 0.6939,
+  "cl": 0.0511,
   "speech_s": 1402.7,
   "tokens": 3485,
   "kw": [
@@ -128936,17 +129461,114 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "four",
+    "good four plus hours with the double",
+    211,
+    215,
+    5.53,
+    13
+   ],
+   [
+    "kind",
+    "spoon in there and kind of shaking it so",
+    46,
+    52,
+    5.45,
+    12
+   ],
+   [
+    "brush",
+    "is we are going to brush with this",
+    1126,
+    1131,
+    4.23,
+    8
+   ],
+   [
+    "onto",
+    "onto the",
+    421,
+    428,
+    4.77,
+    6
+   ],
+   [
+    "flour",
+    "be eight cups of white flour",
+    357,
+    363,
+    4.0,
+    10
+   ],
+   [
+    "cups",
+    "cups of lukewarm water so basically you",
+    15,
+    22,
+    4.11,
+    9
+   ],
+   [
+    "tuck",
+    "you're going to tuck everything underneath",
+    1092,
+    1097,
+    3.55,
+    3
+   ],
+   [
+    "strands",
+    "three three strands we're going to do",
+    813,
+    818,
+    3.4,
+    3
+   ],
+   [
+    "teaspoons",
+    "to take three teaspoons and three-fourths of a teaspoon and we're",
+    25,
+    32,
+    2.93,
+    1
+   ],
+   [
+    "voila",
+    "and voila we're again going to take the second",
+    1101,
+    1110,
+    2.93,
+    1
+   ],
+   [
+    "greased",
+    "your greased bowl and you will let it",
+    687,
+    694,
+    2.88,
+    1
+   ],
+   [
+    "serrated",
+    "serrated knife to cut the bread",
+    1426,
+    1431,
+    2.82,
+    1
+   ]
+  ],
+  "voc": 0.05669655770899624,
   "tx": "hello today I am going to show you how to make challah bread all right so the first step in making challah bread is to take one and a half cups of lukewarm water so basically you want to run the tap maybe 30 seconds you want to have it not so hot that you burned you so lukewarm water we're going to take three teaspoons and three-fourths of a teaspoon and we're going to measure that into the lukewarm water we're going to measure the yeast you also want to make sure the yeast is level so you don't want it to be heaping you can see that it's somewhat level there and you can do that by just … please put on a 10 minute timer for me 10 minutes starting now Okay Google that's enough all right so you can see the difference here you can see that there's a film on top there's some bubbles here and just to show you what it looks like up close it's very there's a foam on top of it that's what you want it to look like you're basically making sure that your yeast is good so this yeast is brand new I just bought it from the store yesterday but if you had so if my yeast was in my refrigerator more then six months open I would want to definitely do this I bought this yesterday I didn't … the next ingredient that you're going to want to whisk is four eggs so I'll be putting four eggs I'm going to be cracking them and whisking these four eggs thank you now I'm going to whisk those eggs in there so next I'm going to take one cup of sugar and I'm going to whisk that in next I'm going to take one tablespoon of salt all right so the next thing is going to be eight cups of white flour so they will we're going to be using these solid measurement cups and this is a one cup measurement and you'll put one cup at a time and mix it because you don't want to put too much it might take … want to have a bread maker with a very large capacity or maybe split this up into two different batches because most bread makers can only handle four cups of flour at a time so this would be eight cups and it would be too big I have a bread maker at home and it handles four cups all right so it wants you want to have a ball a ball of dough like this that's not really sticky you'll take a clean bowl and you're going to take some oil and you're going to oil this bowl so that way when you put this bread dough in to rise it will not stick when you take it out so you'll oil it you can take … it rise again for 30 minutes so we're gonna punch it down and put it onto the board with some flour and punch it down folding to the need dough you want to kind of punch it down and fold it over punch it down or knead it punch it down and fold it over so so then form it into a ball again after you punched it down and you're going to put it back into your greased bowl and you will let it rise again it's summertime so I'm going to let it rise there in the window so I'll put it back in the bowl and then I will say Okay Google please set a timer for 30 minutes 30 minutes starting now hi there … exact and then what I'm going to do I'm a little bit more flour and I'm going to start to roll my dough and I can roll it like this and I can also roll it on the board so here's one strand that's ready I'm gonna put that aside and I'll start rolling next I'm not a total expert on rolling my aunts are very good at this but I just kind of stretch it and I use my hands and try to just do the best to get it to be the same length as the other one and again it does not have to be perfect unless you are on the British baking show and then you better have it perfect but this is not the British … basically I'm going to cut it into four so first cut it into two and then I'll cut those again each in half and I have four balls and I am again going to roll those out flour because they're a little sticky and I'll have some links in the description for the five strand braid or six strand braid I'll put some links for some other videos that if you are interested if you are interested in making a five strand you can do that all the more power to you it all tastes it all tastes the same all of this bread tastes the same so I say why make it more complicated and you'll see that this one that's … bread with the pastry brush this has risen and we are going to take the pastry or the baking brush the the food brush I guess it would be a food brush not exactly sure the correct the correct terminology in English but it is made from Silicon you can see really close it's silicon and we're going to take and put it into the egg mixture the egg beaten egg and we're going to brush it I've made this bread a lot at a camp that I would go to every year called Beckett Family Camp and we would usually make it starting at 9am we would start making it we'd mix it all up and make our dough and then we … just fall out of the dough so I like to kind of just tuck them in and you should put the raisins in before you do the egg wash so now I'm going to wash it with the egg wash or spread the egg wash all over and I have the oven preheating to 375. thank you this is now ready to go in the oven and what I'm going to do to know when it's ready is I'm going to put in this this thermometer so that way I'll know when this has reached a 190 degrees Fahrenheit so I'm going to stick it in here like so so that way I'll be able to look and see if it has reached 190 degrees internal temperature so inside … called a finished Pula bread but it's much sweeter it says a lot more sugar pretty much a similar bread but it's made with milk and more sugar so this one is made with water and the a lot of eggs but it's less it's not as sweet as the Pula bread so although I am finished I prefer the challah bread do you make any bread let me know in the comments and if you like this Channel Please Subscribe and please hit the Bell please hit the Bell if you know of people who want to learn English please share this channel because I want to help people around the world learn English thanks for watching",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0544,
-  "voc": 0.05024711696869852
+  "src": "auto"
  },
  "F5ERu3sF66g": {
   "channel": "Alex Bondoc",
   "lang": "en",
-  "checked": "2026-11-12T15:40:53+00:00",
+  "checked": "2026-11-26T21:08:28+00:00",
   "title": "Pinterest Self Care 🫧: Reset Routine, Spring Cleaning & Realistic Ways to Take Care of Yourself",
   "duration": 537,
   "published": "20260315",
@@ -128955,6 +129577,7 @@
   "pace": 235.8,
   "rare": 0.0302,
   "var": 0.812,
+  "cl": 0.0402,
   "speech_s": 177.1,
   "tokens": 696,
   "kw": [
@@ -129055,12 +129678,157 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bit",
+    "Usually broken up bit by bit each day.",
+    14,
+    17,
+    5.37,
+    4
+   ],
+   [
+    "gonna",
+    "I'm gonna write some papers right now 👍",
+    81,
+    84,
+    5.29,
+    4
+   ],
+   [
+    "dry",
+    "My skin has been really dry and flakey.",
+    350,
+    352,
+    4.74,
+    1
+   ],
+   [
+    "helps",
+    "It just helps with, like, anxiety",
+    75,
+    78,
+    4.74,
+    1
+   ],
+   [
+    "prepared",
+    "Turns out, it wasn't fully prepared yet and I was still left with a lot of time.",
+    447,
+    451,
+    4.74,
+    1
+   ],
+   [
+    "arriving",
+    "I like arriving early so I can get some tasks done.",
+    198,
+    201,
+    4.16,
+    1
+   ],
+   [
+    "deadline",
+    "- I turn in anything 3 days before the deadline (or at least not on the date due haha)",
+    73,
+    76,
+    4.12,
+    1
+   ],
+   [
+    "reminder",
+    "- it's like a little reminder to check up on myself :]",
+    40,
+    43,
+    4.12,
+    1
+   ],
+   [
+    "grandma",
+    "That channel's gonna be, like, more of my grandma activities.",
+    375,
+    380,
+    4.11,
+    1
+   ],
+   [
+    "leftover",
+    "This is leftover banh mi that I had for lunch.",
+    108,
+    112,
+    3.4,
+    1
+   ],
+   [
+    "clover",
+    "Ignore the clover, but look at these grapes :o",
+    238,
+    241,
+    3.36,
+    1
+   ],
+   [
+    "allocate",
+    "- so I make sure to allocate as much down time as I need :)",
+    257,
+    260,
+    3.31,
+    1
+   ],
+   [
+    "hehe",
+    "It's alright since I was able to meet up with a friend hehe",
+    211,
+    215,
+    3.25,
+    1
+   ],
+   [
+    "clutter",
+    "I notice that when I start seeing clutter,",
+    37,
+    41,
+    3.21,
+    1
+   ],
+   [
+    "cluttered",
+    "I actually noticed that my room doesn't get as cluttered like before.",
+    55,
+    58,
+    2.94,
+    1
+   ],
+   [
+    "channel's",
+    "That channel's gonna be, like, more of my grandma activities.",
+    375,
+    380,
+    2.9,
+    1
+   ],
+   [
+    "pajama",
+    "This is actually my pajama top.",
+    145,
+    147,
+    2.81,
+    1
+   ],
+   [
+    "rewatching",
+    "I've been rewatching Strong Woman Do Bong Soon.",
+    248,
+    252,
+    2.81,
+    1
+   ]
+  ],
+  "voc": 0.04838709677419355,
   "tx": "I want to show you how I do my self care. Usually broken up bit by bit each day. Um… do you want to see my room ^^; I just did the laundry! Hello! ^^ Not being productive if not listening to music. I notice that when I start seeing clutter, - it's like a little reminder to check up on myself :] Once I clean my room, everything else will feel fresh :) Heated blankets are the best. I put that under, and then I'll put another blanket. I also feel a lot better when everything looks nice. I actually noticed that my room doesn't get as cluttered like before. I wanted to show my empty pens. Tada ♡ Another thing I like to do, - I turn in anything 3 days before the deadline (or at least not on the date due haha) It just helps with, like, anxiety - because if I do it on the day of, - I feel this huge rush trying to finish it. I'm gonna write some papers right now 👍 This is leftover banh mi that I had for lunch. I uh... already took a bite... Doesn't it look like a heart ^^♡ Let's eat! :D I love banh mi. Let's go on a walk after this! This is their chicken one. Thanks for the food 😌 I just spilled my water. Anyway, I wear whatever outfit I’ve been wearing the day. This is actually my pajama top. 'Kay. Let's go! See any four-leaf clovers? Walks are my favourite way of getting some light exercise. Let's get some good rest now :) I like arriving early so I can get some tasks done. That includes journaling as well. It's like talking to a best friend--I write down whatever I like :] They just canceled class... (2 hours prior) It's alright since I was able to meet up with a friend hehe I just got back from my walk. It's my favourite part of the day. I feel like eating something sweet, - I'm going to show you what I have. Ignore the clover, but look at these grapes :o These are actually- I'm going to make a cake for my friend. There too many grapes, - and these are too good to not snack on ^^; Usually, Publix fruits are really good. I've been rewatching Strong Woman Do Bong Soon. It was my favourite drama a long time ago. Speaking of self care! I'm a pretty low-energy person, - so I make sure to allocate as much down time as I need :) Being able to understand yourself is the foundation of taking care properly. Big grape! *Crunch* Debating whether I should buy more grapes or eat hers LOL So good. And they're huge. Do you want a grape? I'll watch for a little while, and we'll do some skincare. I wish I had more... Night time hygiene is not my favourite part of self care, - but I suppose it's because I still do it is what makes it self care. My watch is still on. A little bit. I don't think that does anything... This is the usual skincare I wear after my shower, or my night time routine. My skin has been really dry and flakey. I just really like this one. Oh, the problem is that I can't see my face. How does this look. I gonna do my journaling while my mask does its work. I have a journaling video on my other channel. That channel's gonna be, like, more of my grandma activities. If anything, this is one of the biggest parts of my self care. If you're tired, take a break, even if it's just a deep breath :) If you keep on pushing yourself, it's going to eventually get to the point - where you just can't go on. So, yeah. I'm just going to write a little bit. I'm gonna go on a hike. Good bye! For the first time ever, I lost track of time for a hangout. Turns out, it wasn't fully prepared yet and I was still left with a lot of time. It's interesting how when I relax, everything still turns out okay. I found the exact dish I got in Japan haha Cute plates!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "cl": 0.0402,
-  "voc": 0.04838709677419355
+  "src": "cc"
  },
  "blFd2pZ_eEc": {
   "channel": "Bluey - Official Channel",
@@ -131569,7 +132337,7 @@
  "L8utOKRfyFo": {
   "channel": "Fingtam English",
   "lang": "en",
-  "checked": "2026-11-12T16:24:16+00:00",
+  "checked": "2026-11-26T20:55:35+00:00",
   "title": "The 4 Seasons | EASY English lesson (Comprehensible Input)",
   "duration": 477,
   "published": "20210717",
@@ -131578,6 +132346,7 @@
   "pace": 87.9,
   "rare": 0.0185,
   "var": 0.6124,
+  "cl": 0.0185,
   "speech_s": 478.4,
   "tokens": 701,
   "kw": [
@@ -131694,12 +132463,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "cold",
+    "is very cold and the trees",
+    40,
+    49,
+    5.02,
+    7
+   ],
+   [
+    "wearing",
+    "this woman is wearing a sweater",
+    270,
+    278,
+    4.85,
+    7
+   ],
+   [
+    "snow",
+    "but some countries have snow spring time is when the leaves",
+    48,
+    62,
+    4.66,
+    6
+   ],
+   [
+    "autumn",
+    "or autumn fall and autumn are the same we have",
+    22,
+    34,
+    4.26,
+    6
+   ],
+   [
+    "antonio",
+    "written by antonio vivaldi so thanks for watching this video bye",
+    469,
+    480,
+    4.17,
+    1
+   ],
+   [
+    "hats",
+    "hats for the winter time and the father",
+    420,
+    429,
+    4.01,
+    1
+   ],
+   [
+    "snowman",
+    "family is building a snowman a snow man in the winter",
+    395,
+    407,
+    3.16,
+    1
+   ],
+   [
+    "vivaldi",
+    "written by antonio vivaldi so thanks for watching this video bye",
+    469,
+    480,
+    2.58,
+    1
+   ],
+   [
+    "muffs",
+    "and ear muffs oops earmuffs to keep her ears warm",
+    382,
+    393,
+    2.18,
+    1
+   ],
+   [
+    "earmuffs",
+    "earmuffs to keep her ears warm",
+    385,
+    393,
+    2.17,
+    1
+   ]
+  ],
+  "voc": 0.02710413694721826,
   "tx": "hello this video is about the four seasons one two three four four seasons winter spring summer and fall or autumn fall and autumn are the same we have four seasons in america and in europe and in other parts of the world winter is very cold and the trees do not have any leaves in the winter but some countries have snow spring time is when the leaves start to come out and the grass starts to grow summertime is very hot and the trees are full of leaves fall time or autumn time in the fall time trees have orange leaves or yellow leaves so the leaves begin to change colors they are not green they are yellow orange red or brown in the fall time in the springtime trees and plants begin to grow this is a small plant and this plant is growing the plant is growing in the springtime many trees have flowers beautiful flowers and the grass starts to turn green this woman is walking through a field of flowers in the springtime look the trees are just beginning to have leaves and they have lots of pretty flowers in the summertime the leaves on the trees are all green the grass turns green and the trees are full of leaves it gets very hot in the summertime very very hot and the trees they are all very green they all of the plants grow very quickly and we like to go swimming because it is very hot in summer time many people like to go to the beach in summer time they go to the ocean or the sea or a lake in the summertime these friends are going swimming at the beach because it is hot in the summer in fall time the leaves start to change colors the leaves turn orange or red or yellow and then the leaves fall the leaves fall to the ground that's why we call it fall time because the leaves on the trees fall to the ground in the fall time or in the autumn time it's very cold so you might drink some warm coffee to stay warm and you can see here the leaves are not green they are not green they are orange or yellow or brown and they fall to the ground this woman is wearing a sweater in the fall time she is wearing a green sweater because fall time is kind of cold it is not very very very very cold it's just a little bit cold in the fall time and you can see these leaves are falling to the ground this leaf is falling oops falling to the ground after fall time or autumn time we have winter winter okay winter comes after fall or after autumn and in the winter time trees do not have leaves these trees do not have leaves all of the leaves fell to the ground during the fall time so the trees do not have leaves in the fall i'm sorry in the winter but we do get snow sometimes in the winter the snow comes when it is very cold and winter time is very cold we like to play in the snow but if you play in the snow during winter time you have to wear clothes that is very warm see this woman is wearing mittens mittens and ear muffs oops earmuffs to keep her ears warm and a very warm winter jacket this family is building a snowman a snow man in the winter and they are wearing very warm clothes the mother is wearing a green winter jacket the children are wearing warm hats for the winter time and the father is wearing a long warm scarf an orange and blue scarf to stay warm there is also a famous band called the four seasons the name of the band is the four seasons because there are four men one two three four four men just like the four seasons and there is also a famous concert called the four seasons it is a concert written by antonio vivaldi so thanks for watching this video bye bye",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0185,
-  "voc": 0.02710413694721826
+  "src": "auto"
  },
  "hVInedpNEgM": {
   "channel": "EnglishSponge",
@@ -139997,7 +140847,7 @@
  "1MR5upBxgVw": {
   "channel": "English Comprehensible Input for ESL Beginners",
   "lang": "en",
-  "checked": "2026-11-13T00:13:21+00:00",
+  "checked": "2026-11-26T21:07:58+00:00",
   "title": "Easy Beginner English Listening Course Lesson: What Time Did You Go To Bed? 🛌 Comprehensible Input",
   "duration": 2317,
   "published": "20230203",
@@ -140006,6 +140856,7 @@
   "pace": 111.9,
   "rare": 0.0052,
   "var": 0.5672,
+  "cl": 0.0593,
   "speech_s": 2267.9,
   "tokens": 4230,
   "kw": [
@@ -140146,12 +140997,109 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "okay",
+    "okay and three two one",
+    0,
+    9,
+    5.06,
+    66
+   ],
+   [
+    "night",
+    "okay yeah uh last night last night so",
+    245,
+    254,
+    5.61,
+    55
+   ],
+   [
+    "midnight",
+    "um midnight I think so somewhere around 12 A.M",
+    556,
+    571,
+    4.31,
+    13
+   ],
+   [
+    "sleeping",
+    "just drawing there's someone sleeping eyes closed and",
+    353,
+    364,
+    4.56,
+    8
+   ],
+   [
+    "hmm",
+    "um last night well hmm I'm trying to",
+    534,
+    542,
+    4.11,
+    3
+   ],
+   [
+    "nap",
+    "um I also slept I had a nap",
+    791,
+    800,
+    3.82,
+    3
+   ],
+   [
+    "9am",
+    "at 9am so how many hours did he sleep",
+    1745,
+    1751,
+    3.42,
+    1
+   ],
+   [
+    "9pm",
+    "and Laura went to sleep at 9pm and she",
+    1809,
+    1817,
+    3.4,
+    1
+   ],
+   [
+    "drowsy",
+    "feel uh tired drowsy yeah if I did that",
+    857,
+    865,
+    2.82,
+    1
+   ],
+   [
+    "maria's",
+    "Maria wake up wait oh it's Maria's is",
+    2198,
+    2204,
+    2.8,
+    1
+   ],
+   [
+    "laura's",
+    "uh Laura's still earlier but Cindy went",
+    1253,
+    1261,
+    2.74,
+    1
+   ],
+   [
+    "comprehensible",
+    "English comprehensible English",
+    2307,
+    2312,
+    2.71,
+    1
+   ]
+  ],
+  "voc": 0.007524454477050414,
   "tx": "okay and three two one hi everyone my name is Christian hey everybody I'm Luke hey Luke how are you doing I'm good man how are you I'm okay I'm doing good uh and happy New Year Luke happy New Year man happy new what what year is it 20 23. right right it is the year is 20 twenty three right oh no that's 20 22. right right that's this is 2022. that was last year last year so last year it was 2022. now it is not 2022 anymore so it's not 2022 it is 20 20. three yeah it is a new year so happy New Year happy new 2023. happy New Year man happy New Year and oh what uh what month is it what is the … it was great good so you were dancing and then so you went to bed uh a bit later right a little bit later I went to bed at 10 47. yeah okay so last night so Friday uh January the 6th you went to bed what what time did you say again 10 47 10 47 okay so 10 at night 47 yeah 10 47 at night or 10 47. PM so last night uh Friday night at 10 47 pm you went to bed just drawing there's someone sleeping eyes closed and and sleeping and maybe snoring a little bit do you snore at all when you yeah you snore like people tell me that I snort when I'm sleeping I I think sometimes maybe sometimes I snore … so I was trying to sleep I was trying to relax and fall asleep so I was in bed there's my bed I was in bed yeah kind of like that I was maybe turning trying to sleep uh turning from side to side from side to side to side like that and trying trying to relax and try trying to sleep so I think um I think I got to sleep at uh about uh 1am yeah so I think I fell asleep I think I fell asleep at around 1 a.m one o'clock in the morning so you were in bed not sleeping for one hour yeah yeah I think so because first I was reading on my phone uh reading different things then I was trying to relax … that's good so I think most people uh most people so we uh many people uh most people need at least at least uh seven hours of sleep and usually eight hours of sleep and sometimes people need even nine hours of sleep some some people I think yeah some people yeah but usually I think most people I think for most people around eight hours of sleep is uh good enough yeah yeah I think so too and oh how about oh how about our students let's see let's ask them yeah let's let's ask our students um so what times uh last night last night so Friday night uh what time what time did they go to bed or … than Albert Muhammad when did you go to sleep oh he said he went to sleep at the same time as Lucas he went to sleep at midnight okay so we went to bed at the same time okay so just like Lucas went to sleep at midnight um at 12 a.m Muhammad also went to sleep at 12 a.m so Mohammad also went to sleep at midnight 12 am okay and how about let's see Mike um can you ask Mike when did uh Mike when did you go to sleep uh let's see he said he went to sleep at 11 at 11 11 11 p.m yeah okay so last night at 11 pm at 11 PM uh that's when Mike went to sleep yeah Mike went to sleep at 11 last night … yeah many people uh sleep in on Saturday and Sunday on the weekend yeah people sleep in people often sleep longer longer than uh longer than on the weekdays right these are the weekdays Monday Tuesday Wednesday Thursday and Friday yeah they might get up earlier yeah get up earlier to go to to work yeah yeah work some kind of work and um so okay so Lucas went to sleep at midnight 12 a.m and then today this morning he woke up at nine o'clock in the morning and how about let's ask uh Cindy next all right Cindy Cindy Cindy Cindy okay Cindy when did you when did you wake up when did you wake up … so okay so Albert woke up at 9 00 a.m this morning and finally um Muhammad what time did Muhammad uh wake up this morning what time Muhammad what time did you wake up this morning eight eight o'clock eight okay eight a.m eight o'clock this morning eight a 8 A.M 8 o'clock just writing it down here just writing it down uh eight o'clock in the morning 8 A.M 8 A.M this morning so okay so Mohammed went to bed at midnight 12 a.m and he woke up woke up at uh eight o'clock in the morning yeah okay wow so that's that's all of our students so how about um now so now we know we know what times … until 7 A.M and Laura went to sleep at 9pm and she woke up at 5am so uh how many hours did Laura sleep how many hours seven seven is that seven nine ten eleven twelve eight yeah so wait nine ten yeah eight hours so nine ten eleven twelve uh one five three four five yeah five five plus three is eight yeah so that's that's eight hours so Laura slept for eight hours last night yeah and how about Lucas oh this is also easy uh just like Muhammad went to sleep at midnight Lucas went to sleep at midnight and he woke up at 9 00 am so how many hours did he sleep nine nine yeah yeah so Lucas slept … it was not Maria ah um Maria did wake up early but not the earliest so Maria woke up at 5 30 a.m so yeah 5 30 was the earliest 5 30 a.m that's that's early but it's not the earliest it's not the earliest who woke up the earliest somebody woke up before somebody woke up yeah somebody woke up before 5 30 a.m who who woke up before 5 30 A.M Laura the earliest and she woke up the earliest right right so Laura so Laura both went to bed the earliest and she woke up the earliest yeah now I remember yeah and okay a couple more questions here I think uh two more questions all right um who um okay … and also just like I have uh this YouTube channel Luke you also have a YouTube channel so there is a link below to Luke's Channel uh click on the link and go and see Luke's Channel where he uh talks about TV shows he talks about movies and other things so click the link uh click the link below and go and take a look check out Luke's Channel so thank you everyone see you next time see you next time everyone all right thanks Christian see you guys later bye yeah thanks Luke see you everyone watch listen understand learn watch and listen to understand and learn English comprehensible English",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0563,
-  "voc": 0.01235657546337158
+  "src": "auto"
  },
  "IeqlFAPrJwU": {
   "channel": "EnglishSponge",
@@ -179979,7 +180927,7 @@
  "NYnhlEu3XYA": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:42:12+00:00",
+  "checked": "2026-11-26T20:57:24+00:00",
   "title": "Let Go Of The Past | Graded Reader | Learn English With Motivation 🔥 | Learn English Podcast 🎧",
   "duration": 3468,
   "published": "20260831",
@@ -179988,6 +180936,7 @@
   "pace": 135.7,
   "rare": 0.0055,
   "var": 0.6883,
+  "cl": 0.0348,
   "speech_s": 3460.0,
   "tokens": 7823,
   "kw": [
@@ -180128,17 +181077,122 @@
     10
    ]
   ],
+  "kx": [
+   [
+    "sometimes",
+    "But sometimes you do not get the",
+    436,
+    441,
+    5.28,
+    46
+   ],
+   [
+    "cannot",
+    "trapped in the past, you cannot fully",
+    48,
+    54,
+    5.11,
+    45
+   ],
+   [
+    "mistake",
+    "cannot undo the mistake. You cannot",
+    343,
+    350,
+    4.67,
+    15
+   ],
+   [
+    "chapter",
+    "One chapter may have hurt you, but that",
+    189,
+    196,
+    4.65,
+    14
+   ],
+   [
+    "closure",
+    "waiting for closure. They are waiting",
+    427,
+    433,
+    4.11,
+    7
+   ],
+   [
+    "betrayal",
+    "relationships, old betrayal, old failure, old guilt, old shame, old",
+    27,
+    39,
+    3.68,
+    7
+   ],
+   [
+    "rewrite",
+    "it, you cannot go back and rewrite that",
+    335,
+    344,
+    3.47,
+    2
+   ],
+   [
+    "silently",
+    "silently. You know what it cost you.",
+    2170,
+    2178,
+    3.58,
+    1
+   ],
+   [
+    "overthinking",
+    "sometimes overthinking does not give answers. It only gives more pain.",
+    796,
+    805,
+    2.85,
+    1
+   ],
+   [
+    "worshiping",
+    "worshiping the old pain. Worshipping means giving too much",
+    2658,
+    2667,
+    2.8,
+    1
+   ],
+   [
+    "reconnecting",
+    "go without reconnecting. That is mature forgiveness. Also,",
+    1161,
+    1169,
+    2.6,
+    1
+   ],
+   [
+    "rebuilds",
+    "promise you keep rebuilds trust inside",
+    1847,
+    1853,
+    2.49,
+    1
+   ],
+   [
+    "romanticize",
+    "Do not romanticize your pain. Do not",
+    1400,
+    1408,
+    2.3,
+    1
+   ]
+  ],
+  "voc": 0.02213408393039918,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to talk about a very deep, emotional and life-changing topic. Let go of the past. This topic is important because many people are not tired because of today. They are tired because they are still carrying yesterday. They are carrying old pain, old mistakes, old relationships, old betrayal, old failure, old guilt, old shame, old memories, old words that someone said years ago, but the heart still remembers. Their body is living in the present, but their mind is still trapped in the past. And when your mind is … a broken glass in your hand. The glass is already broken, but instead of putting it down, you keep holding it tightly. The longer you hold it, the more it cuts your hand. The glass is the past. Your tight grip is resistance. Acceptance is when you finally say, \"Yes, it broke. Yes, it hurt. Yes, I wish it had been different, but I cannot keep bleeding because of something I cannot change.\" That is acceptance. It is honest. It is painful but it is powerful. Many people cannot heal because they are still waiting for the past to become different. They are waiting for a perfect apology. They … Write one sentence. Call someone safe. Do something simple that brings you back to now. Because the past lives in memory, but peace lives in the present. You cannot heal if your mind is always traveling backward. You need to teach your mind that moment is over. I am here now. I am not there anymore. I am not the same person anymore. Another reason we replay old pain is because we want to understand it. We think if we think about it enough, we will finally get the perfect answer. But sometimes overthinking does not give answers. It only gives more pain. You may never fully understand why … important because forgiveness without boundaries can become self-damage. If someone repeatedly hurts you, forgiveness does not mean giving them unlimited access. It means releasing hate while keeping wisdom. You can wish someone healing from far away. You can release anger without returning to the same pain. You can let go without reconnecting. That is mature forgiveness. Also, sometimes the person you need to forgive is yourself. Maybe you made a mistake. Maybe you trusted the wrong person. Maybe you stayed too long. Maybe you spoke harshly. Maybe you missed an opportunity. Maybe you failed. … again. You may accept the same disrespect again. You may ignore the same red flags again. You may give your energy to the same kind of situation again. And then you will not only suffer from the past, you will create a new version of the same pain. That is why learning the lesson is so important. The lesson is the bridge between your old pain and your new life. But do not build a house in the wound. Do not keep saying, \"I was hurt. I was betrayed. I was rejected. I was used. I was broken.\" Yes, it happened. But do not make it your permanent identity. You were hurt, but you are not only hurt. … you were trying your best in a situation that was already damaging you. Say that to yourself. I was trying my best with what I knew. I am allowed to learn. I am allowed to forgive myself. I am allowed to move forward. Self-lame feels like control. The mind thinks if I blame myself enough, maybe I can prevent pain forever. But life does not work like that. Blame does not protect you. Wisdom protects you. Boundaries protect you. Self-respect protects you. Healing protects you. So stop blaming yourself forever. Take the lesson. Take responsibility where needed. But put down the whip. You … Let yourself feel it. But do not go back only because release feels painful. A familiar prison can feel safer than unknown freedom. But it is still a prison. Do not return to what destroyed you just because healing feels lonely. Do not reopen a door just because silence feels heavy. Do not run back to pain just because peace feels unfamiliar. Release takes courage. But once you release, your energy returns. Your mind becomes lighter. Your heart slowly opens again. Your life begins to have space for better people, better thoughts, better habits, and better peace. So release people who hurt … trust slowly and wisely. An old mindset says I lost everything. A new mindset says I still have myself and that is enough to begin. A new life begins when you stop worshiping the old pain. Worshipping means giving too much attention and power. Some people worship their pain without knowing it. They talk about it every day. They think about it every night. They use it as proof that life will never change. They protect the wound more than they protect their future. But my friend, pain is not a temple. Do not live there forever. Visit it only to learn. Then leave. Build new routines. Build … else. And if you keep staring at that closed door, you may miss the open road behind you. Moving forward does not mean you forget everything. It means you stop walking backward. It means you understand that the past had its time, but now your future needs your attention. Many people say they want to move forward, but they keep one hand on the past. They leave, but they keep checking. They forgive, but they keep feeding anger. They heal, but they keep telling the same old story every day. They say, \"I want peace.\" But they keep returning to the thing that destroyed their peace. My friend, … free. Because one day the past will no longer feel like a chain. It will become a teacher. One day the memory will no longer control your heart. It will become a reminder of how strong you became. One day you will understand that letting go was not losing. Letting go was finally choosing yourself. So walk forward with tears if you must. With fear if you must, with a shaking heart if you must, but walk forward because your life is not over. Your story is not finished. Your future is still waiting. And the peace you are looking for begins the moment you stop living in a past you cannot change.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0439,
-  "voc": 0.026365348399246705
+  "src": "auto"
  },
  "95WB30oEnzE": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:42:20+00:00",
+  "checked": "2026-11-26T20:57:34+00:00",
   "title": "Communicate With Confidence In English | Speak Clearly Without Fear | Graded Reader ✅️",
   "duration": 2897,
   "published": "20260829",
@@ -180147,6 +181201,7 @@
   "pace": 122.2,
   "rare": 0.0107,
   "var": 0.7476,
+  "cl": 0.0338,
   "speech_s": 2888.8,
   "tokens": 5883,
   "kw": [
@@ -180295,12 +181350,109 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "understand",
+    "books. They understand English when they",
+    24,
+    31,
+    5.37,
+    35
+   ],
+   [
+    "ask",
+    "can ask questions. You can explain your",
+    138,
+    145,
+    5.34,
+    33
+   ],
+   [
+    "listening",
+    "good listening, and regular practice. This topic is very important because",
+    108,
+    119,
+    4.66,
+    20
+   ],
+   [
+    "conversation",
+    "stay confident during conversation. Now let us talk about pronunciation.",
+    529,
+    539,
+    4.75,
+    19
+   ],
+   [
+    "accent",
+    "perfect accent. You do not need",
+    99,
+    104,
+    4.14,
+    5
+   ],
+   [
+    "builds",
+    "Simple English builds speaking speed. Speaking builds comfort. Comfort builds",
+    372,
+    383,
+    3.95,
+    5
+   ],
+   [
+    "clarification",
+    "asking clarification questions. Clarification means making something",
+    770,
+    780,
+    3.54,
+    4
+   ],
+   [
+    "politely",
+    "If you want to disagree politely, you",
+    329,
+    336,
+    3.47,
+    4
+   ],
+   [
+    "braver",
+    "question you ask makes you braver. Every",
+    2843,
+    2851,
+    2.87,
+    1
+   ],
+   [
+    "overdo",
+    "not overdo it. Just be natural. Body",
+    2012,
+    2019,
+    2.84,
+    1
+   ],
+   [
+    "communicators",
+    "people ask questions. Good communicators ask questions. If you do not ask, you",
+    1464,
+    1474,
+    2.64,
+    1
+   ],
+   [
+    "readymade",
+    "Readymade sentences are sentences you can use directly in real life. They help",
+    984,
+    994,
+    2.18,
+    1
+   ]
+  ],
+  "voc": 0.03139635732870772,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to talk about a very useful and important topic for every English learner. How to communicate with confidence in English. Many people study English for years. They learn grammar. They learn vocabulary. They watch videos. They read books. They understand English when they listen. But when it is time to speak, they feel nervous. Their mind becomes blank. Their heart beats fast. They know the answer, but the words do not come out. They think, \"What if I make a mistake? What if people laugh at me? What if my … If someone asks your opinion, you can say, \"I think this is a good idea. If you do not understand something, you can say, can you explain it again, please?\" If you want time to think, you can say, \"Give me a moment, please.\" If you want to disagree politely, you can say, \"I understand your point, but I think differently.\" These simple sentences can help you communicate with confidence. Do not wait until you know every word. Use the words you already know. Do not wait until your grammar is perfect. Make simple sentences and speak. I went to the market. I bought some food. The place was … you easily. Also, breathe. Breathing is important. When you are nervous, you may forget to breathe properly. Then your voice shakes. Your mind becomes blank. So before speaking, take one slow breath. This can calm your body. A calm body helps a calm voice. A calm voice helps confident communication. So remember, do not speak fast to look fluent. Speak clearly to be understood. Confidence is not in speed. Confidence is in clarity. Tip three. Listen first then respond. Communication is not only speaking. Communication is also listening. Many English learners focus only on speaking practice. … first. Understand the meaning. Ask if you are confused, then respond clearly. That is real communication. Tip four, learn useful daily sentences. Many English learners try to learn many random words. But when they speak, they still feel stuck. Why? Because communication does not happen with single words only. Communication happens with sentences. If you know many words but you do not know how to use them in sentences, speaking becomes difficult. That is why you should learn ready-made sentences. Readymade sentences are sentences you can use directly in real life. They help you speak … If you know how to ask questions, you will never feel completely stuck at a conversation. For example, if you meet someone new, you can ask, \"What do you do? Where are you from? What are your hobbies? How was your day? What kind of work do you do? These questions are simple, but they can start a real conversation. If someone says, \"I work in marketing,\" you can ask, \"Oh, that sounds interesting. What do you do exactly?\" If someone says, \"I like reading,\" you can ask, \"What kind of books do you like?\" If someone says, \"I watched a movie yesterday.\" You can ask, \"Was it good?\" This is how … mistakes. You cannot improve speaking without making mistakes. A child learns to walk by falling many times. A person learns to ride a bicycle by losing balance many times. A singer improves by practicing wrong notes. A speaker improves by speaking imperfect sentences. So why do you expect perfect English from the beginning? That pressure is unfair. You are learning. You are improving. You are growing. Mistakes mean you are trying. Silence does not improve English. Speaking improves English. Even imperfect speaking improves English. Let us understand this clearly. If you say she go to … the person while speaking or listening. Eye contact shows confidence. It shows respect. It shows that you are present in the conversation. But remember, eye contact does not mean staring without blinking. That can look strange or aggressive. Good eye contact is natural. Look at the person, then look away for a moment, then look back again. This feels comfortable and respectful. If you're nervous, start small. Look at the person for two or 3 seconds, then look away, then continue slowly. Your confidence will improve. Now, let us talk about posture. Posture means how you sit or stand. If your … My name is I have experience in I am a hardworking person. I want to improve and learn more.\" Role-play builds confidence because it prepares your mind before real situations happen. When the real situation comes, your brain says, \"I have practiced this before.\" And you feel less afraid. You can also practice with a friend. Choose one topic every day. Speak for 5 minutes. Do not judge each other. Do not laugh at mistakes. Only practice. You can talk about food, movies, travel, family, goals, study, work, books, health, or daily life. If you do not have a speaking partner, practice alone. … So remember, do not wait for big confidence. Create small confidence every day. One sentence, one question, one conversation, one recording, one correction, one small win at a time. Tip 10. Build a daily communication routine. If you want to communicate with confidence in English, practice must become part of your daily life. You cannot practice once a week and expect strong confidence. You need regular practice. A routine means something you do again and again. A daily English routine trains your brain. It makes English normal. It removes fear slowly. It builds speaking speed. It improves … Because every sentence you speak makes you stronger. Every question you ask makes you braver. Every mistake you correct makes you better. And every day you practice brings you closer to confident communication. Your English journey is not about becoming perfect. It is about becoming clear, confident and brave enough to express yourself. So start today. Speak one sentence. Ask one question. Record one minute. Practice one conversation. Do not hide your voice. Your voice matters. Your ideas matter. Your progress matters. And with daily practice, you can communicate with confidence in English.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0399,
-  "voc": 0.03391572456320658
+  "src": "auto"
  },
  "3yz_eoPcMlE": {
   "channel": "English by Jay - Sprout",
@@ -180835,7 +181987,7 @@
  "8cyFhiiTduc": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:10+00:00",
+  "checked": "2026-11-26T20:57:44+00:00",
   "title": "Don’t Take Life Too Seriously | Learn To Live Lightly And Peacefully | Learn English With Motivation",
   "duration": 2314,
   "published": "20260826",
@@ -180844,6 +181996,7 @@
   "pace": 133.2,
   "rare": 0.0025,
   "var": 0.6816,
+  "cl": 0.0381,
   "speech_s": 2305.8,
   "tokens": 5119,
   "kw": [
@@ -180968,17 +182121,114 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "learn",
+    "every day. You are here to learn. You",
+    112,
+    120,
+    5.17,
+    24
+   ],
+   [
+    "seriously",
+    "too seriously. Now this does not mean you should become",
+    11,
+    18,
+    4.94,
+    23
+   ],
+   [
+    "failure",
+    "about failure. Their body is here, but",
+    60,
+    68,
+    4.72,
+    20
+   ],
+   [
+    "lesson",
+    "important life lesson. Don't take life",
+    7,
+    14,
+    4.47,
+    14
+   ],
+   [
+    "responsibilities",
+    "your responsibilities. It simply means",
+    22,
+    30,
+    4.15,
+    3
+   ],
+   [
+    "chasing",
+    "chasing success. They lose health while chasing money.",
+    1324,
+    1332,
+    4.12,
+    3
+   ],
+   [
+    "tomorrow's",
+    "yesterday's pain and tomorrow's fear at",
+    210,
+    216,
+    3.59,
+    1
+   ],
+   [
+    "fearful",
+    "faster than a fearful mind. Lesson four,",
+    814,
+    822,
+    3.58,
+    1
+   ],
+   [
+    "disciplined",
+    "Yes, become disciplined. But do it with respect. Talk to yourself",
+    2083,
+    2092,
+    3.51,
+    1
+   ],
+   [
+    "calmness",
+    "calmness, your mind slowly becomes calm,",
+    1969,
+    1974,
+    2.89,
+    1
+   ],
+   [
+    "overthinking",
+    "clearer. You stop overthinking every small thing. You stop fighting with",
+    1861,
+    1871,
+    2.85,
+    1
+   ],
+   [
+    "overthink",
+    "you overthink. Pause before you blame",
+    475,
+    482,
+    2.7,
+    1
+   ]
+  ],
+  "voc": 0.01350822239624119,
   "tx": "Hello everyone, welcome back to our channel Avenue. Today we are going to talk about a very important life lesson. Don't take life too seriously. Now this does not mean you should become lazy. This does not mean you should stop working hard. This does not mean you should ignore your responsibilities. It simply means do not carry every small problem like the end of the world. Do not destroy your peace for every mistake. Do not lose your smile because of people's opinions. Do not make life so heavy that you forget how to live. Many people are alive but they are not really living. They are … a walk under the sky, a good conversation, a funny mistake, a peaceful evening, a kind word, a deep breath. These small things are not small. They are life. But when you take life too seriously, you stop noticing them. You think happiness will come only after a big success. You think peace will come only after all problems disappear. But problems never fully disappear. One problem goes, another problem comes, one worry ends, another worry starts. So if you wait for a perfect life before you smile, you may wait forever. That is why you must learn to live lightly. Living lightly does not … is not the end of the world. A failed plan is not the end of the world. An embarrassing moment is not the end of the world. Life is bigger than one moment. Your future is bigger than one mistake. Your value is bigger than one opinion. Your story is bigger than one bad chapter. So stop carrying every problem like a mountain. Learn to ask what can I learn? What can I change? What can I let go? Some problems need action. Some problems need patience. Some problems need time. And some problems need nothing except your decision to stop feeding them with attention. Not everything deserves … as guidance, you will grow. So change your mindset. Instead of saying I failed, say I learned. Instead of saying I looked stupid, say I tried. Instead of saying people will judge me, say people are busy with their own life. Most people forget your small mistake faster than you think. But you keep repeating it in your mind again and again. You become your own prison guard. Stop doing that. Be gentle with yourself. Laugh, learn, continue. Life is too short to hate yourself for small human mistakes. The people who enjoy life are not the people who never make mistakes. They are the people who … matters. Your dreams matter. Your character matters. Your time matters. But a random comment, a small embarrassment, a person who does not understand you, a plan that changed, a mistake you can correct. These things do not deserve your whole peace. Take life seriously where it matters. But do not take every small thing seriously. This is wisdom. This is emotional maturity. This is how you become lighter. Lesson five, people's opinions are not your life. One of the biggest reasons people take life too seriously is fear of other people's opinions. They ask themselves, \"What will people say? … not a performance for people. Your life is a responsibility given to you. Do not hand it over to the crowd. Lesson six, enjoy small moments before life passes. Many people wait for a big reason to be happy. They say, \"I will be happy when I become successful. I will be happy when I earn more money. I will be happy when I buy a house. I will be happy when people respect me. I will be happy when everything becomes perfect. But life does not wait. Days pass, months pass, years pass. And while we wait for big happiness, we miss small happiness. A quiet morning, a simple meal, a good laugh, a … failure is not the end of the world. Failure is a teacher. Failure shows you what does not work. Failure gives you experience. Failure makes you stronger, wiser, and more careful. If you never fail, you may never learn deeply. A person who has never failed may look safe. But a person who has failed and continued becomes powerful because that person knows how to fall and stand again. That is real strength. Think about any successful person. They did not reach success without mistakes. They tried, they failed, they learned, they changed, they tried again. That is the process. But many people … because they do not waste energy on unnecessary drama. They do not panic over every delay. They do not collapse after every mistake. They do not run behind every opinion. They act with a clear mind. That is real strength. So every day ask yourself what is in my control. Then do that. Ask yourself what is not in my control. Then release that. Your effort is in your control. Your attitude is in your control. Your habits are in your control. Your words are in your control. Your reaction is in your control. But other people's opinions are not fully in your control. The past is not in your … be grateful while still having dreams. That is a beautiful life. Not perfect but beautiful. Lesson 10. Be serious about growth but gentle with yourself. This is the final lesson and it is very important. Do not take life too seriously but take your growth seriously. Take your character seriously. Take your health seriously. Take your dreams seriously. Take your peace seriously. Take your time seriously. Take your habits seriously. But while doing all this, be gentle with yourself. Gentle means kind, soft and patient. Many people are serious about growth, but they are cruel to themselves. … in your control. Focus on what truly matters. Protect your peace. Enjoy small moments and keep becoming better without being cruel to yourself. Because life becomes beautiful when you stop treating it like a punishment. You are not here only to survive. You are here to live. You are here to grow. You are here to love. You are here to laugh. You are here to experience this journey with a lighter heart. So take your growth seriously. Take your peace seriously. Take your dreams seriously. But do not take every little thing in life so seriously that you forget to enjoy the gift of being alive.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0397,
-  "voc": 0.007575757575757576
+  "src": "auto"
  },
  "pWLZ_7u89tQ": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:14+00:00",
+  "checked": "2026-11-26T20:57:47+00:00",
   "title": "Climate Change Explained Simply | English Podcast For Learning English | Improve Your English ✅",
   "duration": 3554,
   "published": "20260825",
@@ -180987,6 +182237,7 @@
   "pace": 124.6,
   "rare": 0.0121,
   "var": 0.7678,
+  "cl": 0.027,
   "speech_s": 3545.5,
   "tokens": 7362,
   "kw": [
@@ -181151,17 +182402,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "heat",
+    "are facing stronger heat. Some places",
+    177,
+    184,
+    4.86,
+    49
+   ],
+   [
+    "let",
+    "climate. Let us understand this slowly.",
+    123,
+    131,
+    5.6,
+    47
+   ],
+   [
+    "suffer",
+    "also faces problems. Forests suffer, oceans suffer, animals suffer, people",
+    362,
+    373,
+    4.45,
+    22
+   ],
+   [
+    "homes",
+    "eat, the homes we live in, the health of",
+    30,
+    37,
+    4.69,
+    20
+   ],
+   [
+    "warmer",
+    "The earth is getting warmer. Many places",
+    174,
+    181,
+    3.76,
+    17
+   ],
+   [
+    "sentences",
+    "sentences, and important ideas. You do not need difficult English to",
+    88,
+    97,
+    4.13,
+    16
+   ],
+   [
+    "earns",
+    "farmer earns less money. And food prices",
+    1844,
+    1852,
+    3.56,
+    4
+   ],
+   [
+    "reuse",
+    "three simple words. Reduce, reuse, recycle.",
+    3223,
+    3233,
+    3.37,
+    4
+   ],
+   [
+    "tiredness",
+    "heat can cause tiredness, dehydration, headaches, and serious health problems.",
+    877,
+    886,
+    2.92,
+    1
+   ],
+   [
+    "disturbs",
+    "Climate change disturbs the balance of",
+    1711,
+    1717,
+    2.83,
+    1
+   ]
+  ],
+  "voc": 0.05563130624488683,
   "tx": "Welcome to our channel English Avenue. Today we are going to talk about one of the most important topics in the world. Climate change. Climate change is one of the most important topics in the world today. It is not only about science. It is not only about weather. It is not only about the future. It is about the air we breathe, the water we drink, the food we eat, the homes we live in, the health of our families, and the kind of world the next generation will receive. Many people hear the words climate change, but they do not fully understand what they mean. Some people think climate change … talk about it. When we can talk about it, we can teach others. When we teach others, awareness grows. And when awareness grows, change can begin. So the first lesson is this. Climate change means long-term changes in Earth's climate. Especially because the planet is becoming warmer. It affects weather, nature, animals, oceans, food, health, and human life. And now you know how to explain it in simple English. Episode two. Why is the earth getting warmer? To understand this, we need to learn about greenhouse gases. Do not worry. The word sounds difficult, but the meaning is simple. A … activities release greenhouse gases. These gases trap heat in the atmosphere. As a result, the climate changes. This is a strong and simple English explanation. You can use it in school, conversation, speaking practice, or a podcast. The second lesson is this. Climate change is mainly caused by too many greenhouse gases in the atmosphere. These gases trap extra heat and make the Earth warmer. Episode three. How climate change affects our daily life. Some people think climate change is far away. They think it is only about polar bears, ice, or future generations. But climate change is not far … A worker standing under extreme heat. A fisherman finding fewer fish. A mother worrying about clean water. These are real human stories. When we understand climate change like this, the topic becomes more personal. It becomes easier to care. And when people care, they are more ready to act. Now, let us make a simple English explanation. You can say climate change affects daily life by causing stronger heat waves, floods, droughts, storms, food problems, water problems, and health problems. This is a clear sentence. You can also say climate change is not only an environmental problem, it is … of an animal or plant. Forest means a large area covered with trees. Ocean means a very large body of salt water. Coral reef means an underwater structure where many sea animals live. Pollination means the process that helps many plants produce fruits and seeds. Species means a type of animal, plant or living thing. Now let us use these words in simple sentences. Nature is connected. Many animals are losing their habitat. Forests help clean the air. The ocean is becoming warmer. Coral reefs are important for sea life. Bees help with pollination. Some species are in danger. These sentences … fish live. Some fish move to cooler waters. Some fish become fewer in certain areas. This affects fishermen. If fishermen catch fewer fish, they earn less money. Families who depend on fish also suffer. This is another way climate change affects food. Now let us learn useful English words from this episode. Food supply means the amount of food available. Crop means a plant grown for food. Farmer means a person who grows food or raises animals. Agriculture means farming. Harvest means collecting crops from the field. Food security means having enough safe and healthy food. Drought means … water is. Floods can mix dirty water with drinking water. This can spread diseases. After heavy rain or floods, people may face stomach infections and other health problems. In some places, drought can reduce clean water supply. When people do not have enough clean water, health problems increase. Clean water is not a luxury. It is a basic human need. Fourth, climate change can increase the spread of some diseases. Some insects like mosquitoes can carry diseases. When temperature and rain patterns change, mosquitoes may spread to new areas. This can increase the risk of mosquito-born … Farmers lose crops, families lose money. The government has to spend money to repair everything. This is not only an environmental problem. This is an economic problem. Now imagine a long drought. Farmers cannot grow enough food. Food becomes less available. Prices may rise. When food prices rise, families spend more money on basic needs. Poor families suffer first. Small businesses also suffer because people have less money to spend. So one climate problem can create many money problems. This is why climate change affects the economy. Now let us talk about jobs. Some jobs are directly … means power we use for light fans, machines, phones, computers, cooking, heating, cooling and transport. When we waste energy, more energy must be produced. In many places, energy still comes from fossil fuels like coal, oil, and gas. So, saving energy can reduce pollution. You can switch off lights when you do not need them. You can turn off fans and appliances when you leave a room. You can use natural light during the day. You can use energyefficient products if possible. Efficient means using less energy to do the same job. The second action is to use transport wisely. Transport means … trees, saving water, and spreading awareness. You can also say, \"Small actions become powerful when many people do them together.\" The eighth lesson is this. You may be one person, but your choices still matter. A better planet begins with better habits, better awareness, and better responsibility. Climate change is serious, but the future is not hopeless. Every small action matters. Save energy, respect food, protect water, reduce waste, and care for nature. Earth is our home. And when we protect the planet, we protect ourselves. Let us learn, act, and build a better future together.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0239,
-  "voc": 0.04627766599597585
+  "src": "auto"
  },
  "4_X03oaBGGQ": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:28+00:00",
+  "checked": "2026-11-26T21:09:39+00:00",
   "title": "Romeo And Juliet Story | Shakespeare’s Most Beautiful Love Tragedy | Learn English Through Story 🔥",
   "duration": 3505,
   "published": "20260822",
@@ -181170,6 +182502,7 @@
   "pace": 131.9,
   "rare": 0.0352,
   "var": 0.7622,
+  "cl": 0.0256,
   "speech_s": 3496.8,
   "tokens": 7690,
   "kw": [
@@ -181334,17 +182667,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "heart",
+    "heart. This shows us something about",
+    583,
+    589,
+    5.31,
+    30
+   ],
+   [
+    "becomes",
+    "becomes stronger than love, innocent people suffer.",
+    66,
+    74,
+    4.83,
+    30
+   ],
+   [
+    "thinks",
+    "He thinks Roselyn is the only one.",
+    510,
+    518,
+    4.78,
+    14
+   ],
+   [
+    "dangerous",
+    "hatred can become more dangerous than",
+    58,
+    64,
+    4.79,
+    13
+   ],
+   [
+    "beside",
+    "decides to die beside Juliet. Romeo goes",
+    2296,
+    2303,
+    4.19,
+    7
+   ],
+   [
+    "teaches",
+    "any weapon. And it also teaches one",
+    60,
+    67,
+    3.95,
+    6
+   ],
+   [
+    "forgets",
+    "forgets that he is in the house of his",
+    809,
+    815,
+    3.41,
+    3
+   ],
+   [
+    "heartbroken",
+    "Romeo feels heartbroken. He believes his pain is very deep. He",
+    461,
+    471,
+    3.41,
+    3
+   ],
+   [
+    "talkative",
+    "She is funny, emotional, talkative, and",
+    1371,
+    1379,
+    2.97,
+    1
+   ],
+   [
+    "dishonor",
+    "dishonor the dead because Romeo is a",
+    2380,
+    2386,
+    2.88,
+    1
+   ]
+  ],
+  "voc": 0.0380859375,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to learn one of the most famous love stories in the world. Romeo and Juliet by William Shakespeare. This is not just a love story. This is a story about young hearts, family hatred, secret love, destiny, misunderstanding, and tragedy. For hundreds of years, people have read this story, watched it on stage, studied it in schools, and remembered its beautiful but painful message. Romeo and Juliet became famous because it shows something very human. It shows how love can be pure, but the world around it can be cruel. … the Montigus encapulates are disturbing the peace of Verona. So he gives a serious warning. He says that if they fight again in the streets, they will pay with their lives. This means the prince is no longer ready to tolerate their hatred. The message is clear. If this violence continues, death will come. This warning is very important because it creates danger for the rest of the story. Now, any fight between the two families can bring terrible punishment. After the fight ends, the story slowly moves toward Romeo. Romeo is the son of the Montigue family. But Romeo is not thinking … beautiful and full of life. Romeo enters with his friends. He is still thinking about Rosalin. But then he sees Juliet and everything changes. The world around him becomes silent in his heart. His old sadness disappears. His love for Rosalyn suddenly looks weak and empty. When Romeo sees Juliet, he feels something different, something pure, something powerful, something unforgettable. He is amazed by her beauty. But it is not only physical beauty. The moment feels spiritual, like his soul has recognized something. Romeo forgets that he is in the house of his enemy. He forgets the danger. … but they also know the danger. Their love feels sweet, but the world around them is bitter. Juliet is careful. She is young, but she is not foolish. She worries that Romeo may be speaking from sudden emotion. She does not want empty words. She does not want a love that disappears tomorrow. She wants truth. This makes Juliet very powerful. She's not only innocent. She's also honest. She tells Romeo not to swear fake love. She wants something real. She wants commitment. Romeo is ready. His heart is full. He tells her that his love is serious. In this moment, they are not talking like two … the story. Marushio curses both families. He understands the truth. This fight is not only between two men. It is the result of the old hatred between the Montigus and Capulates. Marushio dies. Romeo is shattered. His friend is dead. And now his heart changes. The peaceful Romeo becomes angry. Love tried to stop violence. But violence has taken his friend. Romeo's pain turns into revenge. He fights Tibultt and Romeo kills him. This is the moment where everything begins to fall apart. Romeo has killed Juliet's cousin. Juliet has just married Romeo. Now her husband has killed her family … for attention. She truly feels there is no way out. Her world has become too small. Every door seems closed. Frier Lawrence listens. He wants to help. But the plan he creates is very risky. He gives Juliet a sleeping potion. This potion will make her look dead for a certain time. Her body will become cold. Her breathing will become almost impossible to notice. Her family will believe she has died. They will place her in the Capulate tomb. Then when she wakes up, Romeo will come. Frier Lawrence will send a message to Romeo in Manua. Romeo will know the truth. He will come to the tomb. … beside Juliet. Romeo goes to buy poison. This shows how deeply he has fallen into despair. He does not think of another way. He does not think that maybe there is a misunderstanding. He does not think to first speak to Frier Lawrence. Pain pushes him toward a final decision. This is one of the tragic lessons of the story. When emotion becomes too powerful, people can make irreversible choices. Romeo buys the poison and travels back to Verona. His heart is broken. He believes he is going to Juliet's grave. He believes love has ended. But we know the painful truth. Juliet is still alive. … died because hatred was stronger than wisdom. Romeo and Juliet wanted love, but their families gave them war. Romeo and Juliet wanted peace, but their families gave them pride. Romeo and Juliet wanted a future, but their families gave them fear. This is the most painful moment in the story because now the Montigus encapulates understand everything. But they understand too late. This is one of the deepest tragedies of life. Sometimes people realize the value of love only after they lose it. Lord Capulet looks at Juliet. His daughter, once full of life, now lies silent. The same Juliet … powerful than family pride. Peace is more important than ego. Life is more precious than revenge. And hatred always asks for payment. Sometimes the payment is paid by innocent people. The story also teaches us about communication. If the families had spoken honestly, maybe the tragedy could have been avoided. If Romeo had received the letter, maybe he would have waited. If Juliet had been able to tell her parents the truth, maybe there could have been another way. If people had listened before judging, maybe the ending would have been different. But nobody listened early enough. That is … but their love still lives in books, on stages, in films, in classrooms, in hearts, and in every person who believes that love should be stronger than hate. That is why the world still remembers them. Not because their love was easy, but because their love was brave. Not because their ending was happy, but because their story was unforgettable. Romeo and Juliet lost their lives. But their love gave Verona a truth. Hatred can destroy families. Pride can destroy futures. But love, even when it is broken by death, can still leave a light behind. And that light can shine for hundreds of years.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.0301,
-  "voc": 0.0395010395010395
+  "src": "auto"
  },
  "izq6DO-pTE0": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:51:31+00:00",
+  "checked": "2026-11-26T21:09:46+00:00",
   "title": "Speak English With Confidence In Any Situation | Stop Fear And Start Speaking | Speak English Daily",
   "duration": 2034,
   "published": "20260821",
@@ -181353,6 +182767,7 @@
   "pace": 125.8,
   "rare": 0.0104,
   "var": 0.7407,
+  "cl": 0.0377,
   "speech_s": 2025.2,
   "tokens": 4246,
   "kw": [
@@ -181501,17 +182916,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "real",
+    "to speak English in daily life, in real",
+    111,
+    117,
+    5.6,
+    29
+   ],
+   [
+    "become",
+    "but when it is time to speak they become",
+    30,
+    37,
+    5.4,
+    28
+   ],
+   [
+    "useful",
+    "important and useful topic for every",
+    8,
+    13,
+    4.72,
+    14
+   ],
+   [
+    "slowly",
+    "then you can slowly make them longer.",
+    257,
+    265,
+    4.63,
+    14
+   ],
+   [
+    "improves",
+    "But speaking improves by speaking. Confidence grows by action.",
+    94,
+    103,
+    3.75,
+    6
+   ],
+   [
+    "rhythm",
+    "sound, sentence rhythm, voice clarity. Word sound means how each word is",
+    1229,
+    1238,
+    4.05,
+    4
+   ],
+   [
+    "learner",
+    "English learner. Speak English with confidence in any",
+    10,
+    17,
+    3.35,
+    4
+   ],
+   [
+    "fluent",
+    "But native speakers and fluent speakers",
+    774,
+    781,
+    3.52,
+    2
+   ],
+   [
+    "rehearse",
+    "before the stage. Speakers rehearse before the speech. English learners must",
+    1076,
+    1086,
+    2.94,
+    1
+   ],
+   [
+    "claps",
+    "But even if nobody claps, keep speaking",
+    1710,
+    1717,
+    2.89,
+    1
+   ],
+   [
+    "discourages",
+    "someone discourages you, keep going. If",
+    1647,
+    1654,
+    2.83,
+    1
+   ]
+  ],
+  "voc": 0.027656477438136828,
   "tx": "Hello everyone, welcome back to our channel English Avenue. Today we are going to learn a very important and useful topic for every English learner. Speak English with confidence in any situation. This topic is very important because many English learners have the same problem. They know English words. They understand grammar. They watch English videos. They read English sentences but when it is time to speak they become silent. Their mind becomes blank. Their heart beats fast. They start thinking what if I make a mistake? What if people laugh at me? What if my pronunciation is wrong? What if … is not always the person who uses big words. A confident speaker is the person who can explain ideas clearly. So start with short sentences. Speak about your daily life. Say what you are doing. Say what you like. Say what you need. Say what you think. For example, I am going to work. I am eating breakfast. I like this movie. I need some help. I think this is a good idea. Today was a busy day. When you can speak simple sentences easily then you can slowly make them longer. For example, I am learning English. Then say I am learning English because I want to speak with confidence. Then say … not only in your mind, not only while watching videos. You must use English in real situations. But do not start with big conversations. Start small. Small conversations are easy. Small conversations reduce pressure. Small conversations build confidence slowly. You can practice simple questions and answers every day. For example, how are you? I am fine. What are you doing? I am studying. Where are you going? I'm going to the market. What did you eat today? I ate rice and vegetables. How was your day? My day was good but a little busy. These small conversations are very useful … powerful because they train your brain to connect daily life directly with English. When you think in English, you reduce translation. When you reduce translation, your speaking becomes faster. And when your speaking becomes faster, your confidence becomes stronger. You can practice this anywhere. When you wake up, think I am starting my day. When you eat, think I am eating breakfast. When you travel, think I am going to the market. When you study, think I am learning something useful. When you sleep, think. Today I practiced English. This habit is small, but it changes your English from … I believe practice is necessary. This method is very powerful because it makes speaking easier. You do not need to memorize hundreds of grammar rules before speaking. First, collect useful sentences. Repeat them. Use them. Make them natural. Then slowly change them according to your need. For example, I think this is good. You can change it to I think this movie is good. I think this idea is good. I think this method is good. I think this book is good. One sentence can become many sentences. That is smart learning. So make a small notebook of ready-made sentences. Learn five sentences … 5 to 10 minutes. Do not wait for perfect English. Do not wait for a speaking partner. Do not wait for the right situation. Start with yourself because the person who practices alone becomes stronger when speaking with others. Step seven, improve pronunciation by listening and repeating. Pronunciation is very important for English speaking. But pronunciation does not mean you must sound like a native speaker. No, pronunciation means people can understand you clearly. That is the real goal. Many English learners feel ashamed because their accent is different. But remember this, accent is … improves slowly. But if you listen and repeat every day, your speech will become clearer. And when your speech becomes clearer, your confidence becomes stronger. So remember, you do not need a perfect accent. You need clear pronunciation. And clear pronunciation comes from listening, repeating, and practicing daily. Step eight, build confidence through real situations. This is one of the most important steps because English is not only for your room. English is for real life. Many learners practice alone, but they feel afraid when they meet real people. Why? Because real situations have … stopped by grammar. They are stopped by fear of people. They think what will people say? What if they laugh? What if they judge my accent? What if they think my English is poor? Because of this fear, they stay silent. But listen carefully. If you want to improve, you cannot give your confidence to other people's opinions. People may judge you when you speak, but people may also judge you when you stay silent. So do not build your life around people's judgment. Build your life around your growth. Every good speaker was once a learner. Every fluent person once made mistakes. Every confident … every day, English slowly becomes natural. A daily routine does not need to be difficult. It can be simple, but it must be consistent. Here is a powerful daily speaking routine for English learners. First, listen for 5 minutes. Choose a short English video, podcast, or sentence practice. Listen carefully. Do not just hear the words. Pay attention to pronunciation, rhythm, and useful sentences. Second, repeat for five minutes. Pause the video and repeat sentences loudly. Copy the sound. Copy the flow. Train your mouth. Third, speak with yourself for five minutes. Talk about your day. Talk … will become deeper, and your speaking will become more natural. Remember this, you do not need perfect English to start speaking. You need courage. You need practice. You need consistency. Start today. Speak one sentence. Ask one question. Record one minute. Practice one topic. Learn one useful phrase. Small steps will build big confidence. And one day the English that feels difficult today will become the English you speak naturally. So keep practicing, keep speaking, keep improving because your confident English speaker version is already inside you. You just need to train it every day.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.047,
-  "voc": 0.027835051546391754
+  "src": "auto"
  },
  "DmwsJDciLaU": {
   "channel": "English Avenue",
   "lang": "en",
-  "checked": "2026-11-17T02:59:20+00:00",
+  "checked": "2026-11-26T21:09:55+00:00",
   "title": "Put God First | When God Leads, Your Heart Finds Peace | Graded Reader | Speak English Every Day",
   "duration": 2591,
   "published": "20260818",
@@ -181520,6 +183024,7 @@
   "pace": 132.7,
   "rare": 0.0026,
   "var": 0.6944,
+  "cl": 0.0389,
   "speech_s": 2582.1,
   "tokens": 5712,
   "kw": [
@@ -181652,12 +183157,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "become",
+    "not become perfect. But your heart becomes stronger.",
+    79,
+    86,
+    5.4,
+    31
+   ],
+   [
+    "becomes",
+    "And then, when their heart becomes",
+    48,
+    54,
+    4.83,
+    28
+   ],
+   [
+    "god's",
+    "Your plan may be limited, but God's",
+    208,
+    213,
+    4.37,
+    11
+   ],
+   [
+    "guide",
+    "guide my steps.\" Many people think surrender is weakness,",
+    248,
+    257,
+    4.75,
+    10
+   ],
+   [
+    "guided",
+    "but as a journey guided by divine",
+    660,
+    665,
+    4.06,
+    4
+   ],
+   [
+    "kindness",
+    "truth, kindness, and purpose? Living for God does not mean you must",
+    1259,
+    1268,
+    4.0,
+    4
+   ],
+   [
+    "humility",
+    "Live with humility. Live with gratitude. Live with love.",
+    2477,
+    2485,
+    3.59,
+    1
+   ],
+   [
+    "fearful",
+    "A fearful mind can stop your growth.",
+    704,
+    710,
+    3.58,
+    1
+   ],
+   [
+    "carelessly",
+    "carelessly. You walk with awareness. You walk with",
+    904,
+    911,
+    2.9,
+    1
+   ],
+   [
+    "heaviness",
+    "heaviness in their heart. But instead of giving up, they kneel",
+    1047,
+    1054,
+    2.59,
+    1
+   ]
+  ],
+  "voc": 0.016161249319048485,
   "tx": "Hello everyone. Welcome back to our channel English Avenue. Today, we are going to talk about a very spiritual, peaceful, and heart-touching topic. Put God first. This topic is not only about religion. This topic is about the way we live. It is about the way we think. It is about the way we make decisions. It is about the way we handle fear, pain, confusion, success, failure, and the unknown future. Many people put everything first before God. They put stress first. They put money first. They put people's opinions first. They put fear first. They put their own plans first. They put the world … Sometimes God removes someone because that person cannot walk with your purpose. Sometimes God takes you through a difficult road because that road will make you stronger. At that time, you may not understand, but later you may look back and say, \"God was saving me. God was teaching me. God was preparing me. God was guiding me.\" Imagine a person praying for one specific job. They want it so badly. They think, \"If I do not get this job, my life will not move forward.\" But the job does not come. At first, they feel disappointed. They feel rejected. They feel confused. But after some time, … mean you will understand everything instantly. Sometimes you understand later. Sometimes much later. And sometimes you may not understand fully in this life. But faith says, \"God, even when I do not understand, I believe you are still good. This kind of faith gives strength. Because if you believe your pain has no meaning, you become hopeless. But if you believe God can bring purpose from pain, you can continue. You can heal. You can grow. You can rise again. Do not judge your whole life by one difficult chapter. God may still be writing the story. The chapter you are crying in today may … when something does not feel right. Do not ignore every warning inside your heart. God can guide you through peace. And sometimes God can guide you through discomfort. Pray before you begin your day. Pray before making decisions. Pray before entering new relationships. Pray before choosing a direction. Pray when you feel confused. Pray when you feel weak. Prayer is not a small thing. Prayer connects your limited heart with unlimited God. A simple prayer can bring deep peace. You can say God protect me today. Protect my mind. Protect my heart. Protect my family. Protect my steps. Protect … me.\" Say, \"God is teaching me to depend on him more deeply.\" Do not say, \"This challenge will finish me.\" Say, \"God will give me strength to pass through this.\" Do not say, \"I cannot do this.\" Say, \"With God, I can take the next step.\" Putting God first means you do not let your problems become bigger than your faith. You may have problems, but you also have God. You may have fear, but you also have prayer. You may have weakness, but you also have divine strength. And sometimes, the challenge that you wanted God to remove becomes the same challenge that brings you closer to him. Lesson … money did I collect? How famous did I become? The deeper question will be did I live with God? Did I love? Did I forgive? Did I use my life for something meaningful? Did I keep my soul close to God? Life is short. So do not wait too long to return to God. Do not wait until you are broken. Do not wait until you are old. Do not wait until everything fails. Put God first now. Live for God now. Walk with God now. Because a life with God is not wasted. Lesson six. Talk to God. You can talk to God. Not only in perfect words. Not only in special places. Not only when life is terrible. Not only … the world only gives pressure. A person who talks to God daily does not walk through life empty. They walk with a hidden strength. A quiet peace. A deeper hope. And a heart that knows, \"I am heard. I am seen. I am not alone.\" Lesson seven. Let God lead your day. Many people wake up and immediately give their mind to the world. They check their phone. They think about problems. They remember yesterday's pain. They worry about tomorrow. They start the day with pressure before they even speak to God. And because the day begins with stress, the heart becomes heavy. But when you put God first, … your God, failure will destroy you. When people become your God, rejection will break you. When money becomes your God, fear will control you. When attention becomes your God, silence will hurt you. But when God is first, everything else finds its right place. You can work hard without worshipping success. You can love people without losing yourself. You can earn money without becoming greedy. You can build dreams without forgetting your soul. Example. Imagine someone who wants success so badly that they forget peace, prayer, family, honesty, and health. They may achieve many things, but … can give light for the next step. And sometimes that is enough. Just the next step. Just today's strength. Just one more prayer. Just one more breath. Just one more moment of faith. A life with God teaches you that you do not need to control everything to be at peace. You do not need to understand everything to trust. You do not need everyone to stay in your life to feel loved. You do not need the world to approve you to know your worth. Because your peace is not coming from perfect situations. Your peace is coming from God. So when problems come, do not run away from God. Run toward him. … And when you live like that, your life becomes different. Your heart becomes softer. Your spirit becomes stronger. Your decisions become wiser. Your peace becomes deeper. Because a life with God is never empty. A life with God is never meaningless. A life with God is never truly alone. Put God first, not only in your words, but in your choices, in your habits, in your thoughts, in your dreams, in your pain, in your success, and in every new day he gives you. Because when God leads your life, your heart finds peace. And when your heart finds peace in God, the world cannot easily take it away.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "cl": 0.038,
-  "voc": 0.015670910871694418
+  "src": "auto"
  },
  "11sTf2cniYQ": {
   "channel": "English Avenue",
@@ -194968,5 +196554,190 @@
   "status": "ok",
   "src": "cc",
   "voc": 0.06221408966148216
+ },
+ "T4d6zWQTNcc": {
+  "channel": "Pokémon Kids TV",
+  "lang": "en",
+  "checked": "2026-11-26T20:39:55+00:00",
+  "title": "Hide-and-Seek with Ditto | Learn & Play with Pokémon | Pokémon Kids TV​",
+  "duration": 247,
+  "published": "20261124",
+  "spoken": "en",
+  "spoken_v": 2,
+  "pace": 83.9,
+  "rare": 0.0641,
+  "var": 0.8092,
+  "cl": 0.0256,
+  "speech_s": 167.2,
+  "tokens": 234,
+  "kw": [
+   [
+    "found",
+    "Aha, Ditto, found you. The next Ditto has transformed into a",
+    86,
+    101,
+    5.68,
+    4
+   ],
+   [
+    "find",
+    "Dragonite doll. Let's see if we can find",
+    97,
+    103,
+    5.76,
+    3
+   ],
+   [
+    "let's",
+    "All right, let's look around. Hmm.",
+    62,
+    69,
+    5.16,
+    3
+   ],
+   [
+    "eat",
+    ">> I like to eat, eat, eat apples and",
+    228,
+    236,
+    5.13,
+    3
+   ],
+   [
+    "somewhere",
+    "Somewhere in this scene, there are other",
+    41,
+    46,
+    4.74,
+    3
+   ],
+   [
+    "seek",
+    "game of hide and seek. ",
+    25,
+    34,
+    4.61,
+    2
+   ],
+   [
+    "hide",
+    "game of hide and seek. ",
+    25,
+    34,
+    4.54,
+    2
+   ],
+   [
+    "cake",
+    "transformed into a ribbon cake. This",
+    143,
+    150,
+    4.53,
+    2
+   ],
+   [
+    "transformed",
+    ">> This is Ditto, the transformed Pokémon.",
+    11,
+    18,
+    4.08,
+    5
+   ],
+   [
+    "ribbon",
+    "transformed into a ribbon cake. This",
+    143,
+    150,
+    3.81,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "play",
+    "Today, they're going to play a",
+    22,
+    30,
+    5.61,
+    2
+   ],
+   [
+    "everyone",
+    "Look closely, everyone. ",
+    72,
+    80,
+    5.47,
+    2
+   ],
+   [
+    "hiding",
+    "One last Ditto is hiding somewhere,",
+    141,
+    147,
+    4.32,
+    2
+   ],
+   [
+    "tough",
+    "might be tough to find. Now,",
+    146,
+    164,
+    4.77,
+    1
+   ],
+   [
+    "sometime",
+    "Let's play again sometime. >>",
+    206,
+    219,
+    4.16,
+    1
+   ],
+   [
+    "suspicious",
+    "That area looks suspicious. Look closely, everyone.",
+    69,
+    77,
+    4.09,
+    1
+   ],
+   [
+    "doll",
+    "Dragonite doll. Let's see if we can find",
+    97,
+    103,
+    4.06,
+    1
+   ],
+   [
+    "apples",
+    ">> I like to eat, eat, eat apples and",
+    228,
+    236,
+    3.96,
+    1
+   ],
+   [
+    "hopping",
+    "There's something hopping up and down",
+    165,
+    171,
+    3.43,
+    1
+   ],
+   [
+    "camouflaged",
+    "Ditto that have camouflaged into their",
+    43,
+    48,
+    2.77,
+    1
+   ]
+  ],
+  "voc": 0.04784688995215311,
+  "tx": "POKéMON KIDS TV >> This is Ditto, the transformed Pokémon. In this world, a Ditto transformed to look like a human, and it plays all sorts of games with other Pokémon. Today, they're going to play a game of hide and seek. Come on, join the fun. Somewhere in this scene, there are other Ditto that have camouflaged into their surroundings by transforming into objects. We'll look for them one at a time. It seems the first Ditto has transformed into a Chansey plant. Now, where in this scene is there a Chansey plant? All right, let's look around. Hmm. That area looks suspicious. Look closely, everyone. Aha, Ditto, found you. The next Ditto has transformed into a Dragonite doll. Let's see if we can find it. Where is it? Hmm, that's not it. Maybe it's somewhere over here. Aha, Ditto. Found you. One last Ditto is hiding somewhere, transformed into a ribbon cake. This might be tough to find. Now, where could we find a ribbon cake? There's something hopping up and down over there. Have you found it? Yay, found you, Ditto. Ditto sure are good at hiding. Did you all enjoy playing hide and seek? Now, everyone say cheese. Let's play again sometime. >> >> With all our Pokémon friends, Pokémon friends, we'll evolve with the power we share in our hearts. >> I like to eat, eat, eat apples and bananas. I like to",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
  }
 }
