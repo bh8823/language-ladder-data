@@ -119005,7 +119005,7 @@
  "a4FsK4aZ-MI": {
   "channel": "Sensoba Chinese",
   "lang": "zh",
-  "checked": "2026-11-14T03:39:58+00:00",
+  "checked": "2026-11-26T16:37:47+00:00",
   "title": "Learn Chinese While I Cook Thai Food 🍚 (Beginner Mandarin Comprehensible Input With HSK)",
   "duration": 1046,
   "published": "20260330",
@@ -119014,20 +119014,21 @@
   "pace": 86.3,
   "rare": 0.0712,
   "var": 0.5636,
+  "cl": null,
   "speech_s": 854.8,
   "tokens": 857,
   "kw": [
    [
     "打开",
-    "打开水龙头。 dǎ kāi shuǐ lóng tóu。",
+    "打开水龙头。洗一下小米辣。",
     61,
-    67,
+    74,
     5.0,
     14
    ],
    [
     "进去",
-    "接下来，我们要把蒜末和小米辣末加进去。 jiē xià lái， wǒ men yào bǎ suàn mò hé xiǎo mǐ là mò jiā jìn qù。",
+    "接下来，我们要把蒜末和小米辣末加进去。",
     427,
     435,
     4.81,
@@ -119035,7 +119036,7 @@
    ],
    [
     "继续",
-    "接着，我们继续炒肉末。 jiē zháo， wǒ men jì xù chǎo ròu mò。",
+    "接着，我们继续炒肉末。",
     477,
     483,
     5.64,
@@ -119043,15 +119044,15 @@
    ],
    [
     "颜色",
-    "颜色更深。 yán sè gēng shēn。",
+    "颜色更深。只需要一点点。",
     703,
-    706,
+    711,
     4.84,
     6
    ],
    [
     "接下来",
-    "接下来，我们要切小米辣。 jiē xià lái， wǒ men yào qiē xiǎo mǐ là。",
+    "接下来，我们要切小米辣。",
     86,
     93,
     4.63,
@@ -119059,15 +119060,15 @@
    ],
    [
     "回去",
-    "橄榄油放回去。 gǎn lǎn yóu fàng huí qù。",
+    "橄榄油放回去。接着，我们要把肉末打开。",
     241,
-    245,
+    253,
     4.72,
     9
    ],
    [
     "接着",
-    "接着，我们要把小米辣切碎。 jiē zháo， wǒ men yào bǎ xiǎo mǐ là qiē suì。",
+    "接着，我们要把小米辣切碎。",
     116,
     126,
     4.73,
@@ -119075,31 +119076,31 @@
    ],
    [
     "午餐",
-    "这是我今天的午餐。 zhè shì wǒ jīn tiān de wǔ cān。",
+    "这是我今天的午餐。午餐。",
     947,
-    952,
+    954,
     4.22,
     3
    ],
    [
     "米饭",
-    "接下来我们盛米饭。 jiē xià lái wǒ men shèng mǐ fàn。",
+    "接下来我们盛米饭。这个是饭勺。",
     857,
-    860,
+    864,
     3.68,
     9
    ],
    [
     "丢掉",
-    "丢掉。 diū diào。",
+    "丢掉。不要。",
     107,
-    110,
+    113,
     3.93,
     6
    ],
    [
     "盘子",
-    "接下来我们拿一个盘子。 jiē xià lái wǒ men ná yí gè pán zǐ。",
+    "接下来我们拿一个盘子。",
     843,
     849,
     3.82,
@@ -119107,7 +119108,7 @@
    ],
    [
     "酱油",
-    "接下来我们要加酱油。 jiē xià lái wǒ men yào jiā jiàng yóu。",
+    "接下来我们要加酱油。",
     542,
     546,
     3.61,
@@ -119115,7 +119116,7 @@
    ],
    [
     "盖子",
-    "好,现在把盖子关上。 hǎo, xiàn zài bǎ gài zi guān shàng。",
+    "好,现在把盖子关上。",
     532,
     538,
     3.26,
@@ -119123,34 +119124,100 @@
    ],
    [
     "味精",
-    "最后我们放味精。 zuì hòu wǒ men fàng wèi jīng。",
+    "最后我们放味精。味精，味精，味精。",
     793,
-    797,
+    805,
     3.1,
     5
    ],
    [
     "海盐",
-    "这是海盐。 zhè shì hǎi yán。",
+    "这是海盐。海盐。",
     505,
-    508,
+    510,
     3.29,
     4
    ],
    [
     "炒菜",
-    "接下来我们开始炒菜。 jiē xià lái wǒ men kāi shǐ chǎo cài。",
+    "接下来我们开始炒菜。",
     144,
     151,
     3.07,
     3
    ]
   ],
+  "kx": [
+   [
+    "一下",
+    "首先，我们要把小米辣洗一下。",
+    48,
+    58,
+    5.46,
+    5
+   ],
+   [
+    "喜欢",
+    "这是我喜欢的午饭,叫打抛饭。",
+    987,
+    993,
+    5.73,
+    3
+   ],
+   [
+    "美食",
+    "打抛饭是一种泰国美食。",
+    995,
+    999,
+    4.5,
+    2
+   ],
+   [
+    "包装",
+    "剪开包装。剪开。",
+    278,
+    285,
+    4.47,
+    2
+   ],
+   [
+    "午饭",
+    "大家今天跟我一起学做午饭。",
+    2,
+    8,
+    3.85,
+    3
+   ],
+   [
+    "抽屉",
+    "打开抽屉。这个是抽屉。",
+    269,
+    273,
+    3.69,
+    3
+   ],
+   [
+    "解锁",
+    "现在我们解锁。解锁。",
+    875,
+    880,
+    3.53,
+    2
+   ],
+   [
+    "橄榄油",
+    "这是橄榄油。现在我要倒油。",
+    220,
+    231,
+    3.36,
+    2
+   ]
+  ],
+  "voc": 0.14469078179696615,
   "tx": "Hello,大家好呀! Hello, dà jiā hǎo yā! 大家今天跟我一起学做午饭。 dà jiā jīn tiān gēn wǒ yī qǐ xué zuò wǔ fàn。 今天我们要吃的是泰式打拋饭。 jīn tiān wǒ men yào chī de shì tài shì dǎ pāo fàn。 泰式打拋饭。 tài shì dǎ pāo fàn。 泰式打拋饭是什么呢? tài shì dǎ pāo fàn shì shén me ne? 它就是用猪肉、牛肉末以及蒜末。 tā jiù shì yòng zhū ròu、 niú ròu mò yǐ jí suàn mò。 蒜末，还有小米辣。 suàn mò， huán yǒu xiǎo mǐ là。 小米辣，一起炒出来的肉末。 xiǎo mǐ là， yī qǐ chǎo chū lái de ròu mò。 炒出来的肉末。 chǎo chū lái de ròu mò。 那我们现在开始吧! nà wǒ men xiàn zài kāi shǐ bā! 首先，我们要把小米辣洗一下。 shǒu xiān， wǒ men yào bǎ xiǎo mǐ là xǐ yī xià。 洗一下。 xǐ yī xià。 打开水龙头。 dǎ kāi shuǐ lóng tóu。 洗一下小米辣。 xǐ yī xià xiǎo … mǐ là。 接下来，我们要切小米辣。 jiē xià lái， wǒ men yào qiē xiǎo mǐ là。 我们把小米辣的头部切掉。 wǒ men bǎ xiǎo mǐ là de tóu bù qiē diào。 丢掉。 diū diào。 不要。 bú yào。 丢掉。 diū diào。 接着，我们要把小米辣切碎。 jiē zháo， wǒ men yào bǎ xiǎo mǐ là qiē suì。 切碎。 qiē suì。 丢掉。 diū diào。 这个是厨房纸。 zhè gè shì chú fáng zhǐ。 可以擦手。 kě yǐ cā shǒu。 接下来我们开始炒菜。 jiē xià lái wǒ men kāi shǐ chǎo cài。 这个是猪肉和牛肉的肉末。 zhè gè shì zhū ròu hé niú ròu de ròu mò。 肉末。 ròu mò。 肉末是切碎的肉。 ròu mò shì qiē suì de ròu。 这里是蒜末。 zhè lǐ shì suàn mò。 这里是小米辣末。 zhè lǐ shì xiǎo mǐ là mò。 好,接下来我们一起炒菜吧! hǎo, jiē xià lái wǒ men yī qǐ chǎo cài bā! 现在我们开始炒菜。 xiàn zài wǒ men kāi shǐ … 点火器点火。 diǎn huǒ qì diǎn huǒ。 然后，我们倒油。 rán hòu， wǒ men dǎo yóu。 这是橄榄油。 zhè shì gǎn lǎn yóu。 现在我要倒油。 xiàn zài wǒ yào dǎo yóu。 这个是瓶盖。 zhè gè shì píng gài。 把瓶盖盖上。 bǎ píng gài gài shàng。 橄榄油放回去。 gǎn lǎn yóu fàng huí qù。 接着，我们要把肉末打开。 jiē zháo， wǒ men yào bǎ ròu mò dǎ kāi。 打开肉末。 dǎ kāi ròu mò。 现在我要拿剪刀。 xiàn zài wǒ yào ná jiǎn dāo。 打开抽屉。 dǎ kāi chōu tì。 这个是抽屉。 zhè gè shì chōu tì。 拿出剪刀。 ná chū jiǎn dāo。 剪开包装。 jiǎn kāi bāo zhuāng。 剪开。 jiǎn kāi。 把剪刀放回去。 bǎ jiǎn dāo fàng huí qù。 把抽屉关上。 bǎ chōu tì guān shàng。 现在打开肉末。 xiàn zài dǎ kāi ròu mò。 接着，我们把肉末放到锅里。 jiē zháo， wǒ men bǎ ròu mò fàng dào guō lǐ。 … sháo bǎ ròu mò fàng jìn guō lǐ。 这个是吸油纸。 zhè gè shì xī yóu zhǐ。 不要这个,丢掉。 bú yào zhè gè, diū diào。 丢掉。 diū diào。 接下来，我们炒肉末。 jiē xià lái， wǒ men chǎo ròu mò。 炒肉末。 chǎo ròu mò。 现在我们开的是大火。 xiàn zài wǒ men kāi de shì dà huǒ。 大火。 dà huǒ。 现在我们要把肉末炒熟。 xiàn zài wǒ men yào bǎ ròu mò chǎo shú。 肉末现在是红色的。 ròu mò xiàn zài shì hóng sè de。 红色的肉末。 hóng sè de ròu mò。 炒熟的肉末是肉色的。 chǎo shú de ròu mò shì ròu sè de。 肉色的肉末是炒熟的肉末。 ròu sè de ròu mò shì chǎo shú de ròu mò。 我们把所有肉末炒熟。 wǒ men bǎ suǒ yǒu ròu mò chǎo shú。 我们要不停地炒它。 wǒ men yào bù tíng dì chǎo tā。 接下来，我们要把蒜末和小米辣末加进去。 jiē xià lái， wǒ men yào bǎ suàn mò hé … 我们把蒜末倒进去。 wǒ men bǎ suàn mò dǎo jìn qù。 倒进去。 dǎo jìn qù。 关上蒜末。 guān shàng suàn mò。 这是小米辣末。 zhè shì xiǎo mǐ là mò。 小米辣末。 xiǎo mǐ là mò。 加进去。 jiā jìn qù。 这是厨房纸。 zhè shì chú fáng zhǐ。 擦手。 cā shǒu。 接着，我们继续炒肉末。 jiē zháo， wǒ men jì xù chǎo ròu mò。 我们闻一下。 wǒ men wén yī xià。 闻一下,很香。 wén yī xià, hěn xiāng。 接下来，我们要加调味料。 jiē xià lái， wǒ men yào jiā tiáo wèi liào。 调味料。 tiáo wèi liào。 这是海盐。 zhè shì hǎi yán。 海盐。 hǎi yán。 我们现在要加海盐。 wǒ men xiàn zài yào jiā hǎi yán。 海盐不咸。 hǎi yán bù xián。 不咸。 bù xián。 所以要加多一点。 suǒ yǐ yào jiā duō yī diǎn。 多一点。 duō yī diǎn。 好,现在把盖子关上。 hǎo, xiàn zài bǎ gài zi guān shàng。 盖子关上。 … yóu。 酱油。 jiàng yóu。 把盖子打开。 bǎ gài zi dǎ kāi。 酱油倒进去。 jiàng yóu dǎo jìn qù。 盖子盖上。 gài zi gài shàng。 把酱油放回去。 bǎ jiàng yóu fàng huí qù。 我们继续炒它。 wǒ men jì xù chǎo tā。 现在我们要把火关小。 xiàn zài wǒ men yào bǎ huǒ guān xiǎo。 关小。 guān xiǎo。 这个是鱼露。 zhè gè shì yú lòu。 鱼露。 yú lòu。 没打开过。 méi dǎ kāi guò。 现在我们把鱼露包装。 xiàn zài wǒ men bǎ yú lòu bāo zhuāng。 撕掉。 sī diào。 丢掉。 diū diào。 把盖子打开。 bǎ gài zi dǎ kāi。 把鱼露倒进去。 bǎ yú lòu dǎo jìn qù。 鱼露是打抛饭的灵魂。 yú lòu shì dǎ pāo fàn de líng hún。 我们把鱼露放回去。 wǒ men bǎ yú lòu fàng huí qù。 接下来，我们继续炒。 jiē xià lái， wǒ men jì xù chǎo。 接下来，我们放 jiē xià lái， wǒ men fàng 花雕酒。 huā diāo … 花雕酒是去腥的。 huā diāo jiǔ shì qù xīng de。 去腥的。 qù xīng de。 让肉更好吃。 ràng ròu gēng hǎo chī。 把花雕酒放回去。 bǎ huā diāo jiǔ fàng huí qù。 继续翻炒。 jì xù fān chǎo。 接下来我们加老抽。 jiē xià lái wǒ men jiā lǎo chōu。 老抽。 lǎo chōu。 老抽是老的生抽。 lǎo chōu shì lǎo de shēng chōu。 颜色更深。 yán sè gēng shēn。 只需要一点点。 zhī xū yào yī diǎn diǎn。 把盖子盖上。 bǎ gài zi gài shàng。 放回去。 fàng huí qù。 我们继续翻炒。 wǒ men jì xù fān chǎo。 老抽是为了让肉末的颜色更好看。 lǎo chōu shì wèi le ràng ròu mò de yán sè gēng hǎo kàn。 接下来我们放一点点糖。 jiē xià lái wǒ men fàng yī diǎn diǎn táng。 白糖，白糖。 bái táng， bái táng。 关上盖子。 guān shàng gài zi。 放回去。 fàng huí qù。 最后我们放罗勒叶。 zuì hòu wǒ … lè yè。 放进锅里。 fàng jìn guō lǐ。 继续翻炒。 jì xù fān chǎo。 罗勒叶是一种香料。 luó lè yè shì yī zhǒng xiāng liào。 它的味道很香。 tā de wèi dào hěn xiāng。 最后我们放味精。 zuì hòu wǒ men fàng wèi jīng。 味精，味精，味精。 wèi jīng， wèi jīng， wèi jīng。 打开盖子。 dǎ kāi gài zi。 倒进去。 dǎo jìn qù。 味精只需要一点点，一点点。 wèi jīng zhī xū yào yī diǎn diǎn， yī diǎn diǎn。 放回去。 fàng huí qù。 翻炒均匀。 fān chǎo jūn yún。 现在我们关火。 xiàn zài wǒ men guān huǒ。 关火。 guān huǒ。 打抛肉饭就好了。 dǎ pāo ròu fàn jiù hǎo le。 这就是打抛饭的肉末。 zhè jiù shì dǎ pāo fàn de ròu mò。 接下来我们拿一个盘子。 jiē xià lái wǒ men ná yí gè pán zǐ。 盘子。 pán zǐ。 接下来我们盛米饭。 jiē xià lái wǒ men shèng mǐ fàn。 这个是饭勺。 zhè gè … bāo。 电饭煲。 diàn fàn bāo。 现在我们解锁。 xiàn zài wǒ men jiě suǒ。 解锁。 jiě suǒ。 打开电饭煲。 dǎ kāi diàn fàn bāo。 米饭在里面。 mǐ fàn zài lǐ miàn。 米饭。 mǐ fàn。 这是米饭。 zhè shì mǐ fàn。 这是蒸好的米饭。 zhè shì zhēng hǎo de mǐ fàn。 把米饭放到盘子里。 bǎ mǐ fàn fàng dào pán zǐ lǐ。 这是南瓜。 zhè shì nán guā。 这是蒸好的南瓜。 zhè shì zhēng hǎo de nán guā。 我们再挖一勺。 wǒ men zài wā yī sháo。 再挖一勺。 zài wā yī sháo。 我们把米饭放好。 wǒ men bǎ mǐ fàn fàng hǎo。 把勺子放到电饭煲。 bǎ sháo zǐ fàng dào diàn fàn bāo。 接下来我们把打抛肉末。 jiē xià lái wǒ men bǎ dǎ pāo ròu mò。 打抛肉末放到盘子里。 dǎ pāo ròu mò fàng dào pán zǐ lǐ。 这就是一份打抛饭。 zhè jiù shì yī fèn dǎ pāo fàn。 这是我今天的午餐。 zhè shì wǒ jīn … wǒ ná yí gè sháo。 这是一个勺。 zhè shì yí gè sháo。 肉末和米饭。 ròu mò hé mǐ fàn。 吃一口。 chī yī kǒu。 很好吃。 hěn hǎo chī。 这是我喜欢的午饭,叫打抛饭。 zhè shì wǒ xǐ huān de wǔ fàn, jiào dǎ pāo fàn。 打抛饭。 dǎ pāo fàn。 打抛饭是一种泰国美食。 dǎ pāo fàn shì yī zhǒng tài guó měi shí。 泰国美食。 tài guó měi shí。 那么你喜欢什么样的午饭呢? nà me nǐ xǐ huān shén me yàng de wǔ fàn ne? 如果你喜欢打抛饭的话,在下面告诉我。 rú guǒ nǐ xǐ huān dǎ pāo fàn de huà, zài xià miàn gào sù wǒ。 我们下次再见,拜拜。 wǒ men xià cì zài jiàn, bài bài。 老抽就是，老的生抽 lǎo chōu jiù shì， lǎo de shēng chōu 老抽 lǎo chōu 它的颜色更深，颜色更深 tā de yán sè gēng shēn， yán sè gēng shēn 颜色更生，颜色…sorry yán sè gēng shēng， yán sè …sorry",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.134640522875817
+  "src": "cc"
  },
  "sU1kbaj0RnE": {
   "channel": "Unconventional Chinese",
@@ -119389,7 +119456,7 @@
  "Wp9SvGdwwD8": {
   "channel": "EazyMandarin",
   "lang": "zh",
-  "checked": "2026-11-14T03:40:42+00:00",
+  "checked": "2026-11-26T16:58:07+00:00",
   "title": "都高级中文了，中文说的还是那么差？| 以终为始 | Advanced Chinese",
   "duration": 612,
   "published": "20260126",
@@ -119398,6 +119465,7 @@
   "pace": 283.1,
   "rare": 0.0242,
   "var": 0.7288,
+  "cl": null,
   "speech_s": 576.7,
   "tokens": 1734,
   "kw": [
@@ -119530,11 +119598,77 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "东西",
+    "想得到的东西太多了啊",
+    25,
+    28,
+    5.63,
+    11
+   ],
+   [
+    "学习",
+    "今天咱们继续聊聊学习中文的事情",
+    5,
+    10,
+    5.48,
+    10
+   ],
+   [
+    "输入",
+    "不断不断的输入输入输入输入",
+    143,
+    146,
+    4.64,
+    5
+   ],
+   [
+    "聚焦",
+    "其实也更为聚焦了就是我这条路反倒更为清晰了",
+    19,
+    24,
+    4.21,
+    5
+   ],
+   [
+    "心理学",
+    "我应该是心理学方面的吧",
+    383,
+    386,
+    4.08,
+    2
+   ],
+   [
+    "不服",
+    "你还别不服气啊其实这个我觉得也没什么好不服气的",
+    129,
+    136,
+    3.99,
+    2
+   ],
+   [
+    "一堵",
+    "或者说一堵墙一堵透明的墙在你眼前",
+    80,
+    86,
+    3.18,
+    2
+   ],
+   [
+    "表达方式",
+    "以及一些具体的表达方式呀",
+    417,
+    420,
+    3.02,
+    2
+   ]
+  ],
+  "voc": 0.05190311418685121,
   "tx": "大家好我是李璨 欢迎来到一点儿都不easy的Eazy Mandarin 今天咱们继续聊聊学习中文的事情 哈哈自从我把我的频道 定位为高级中文的学习频道之后啊 我发现啊 我的眼前突然开阔了 其实也更为聚焦了 就是我这条路反倒更为清晰了 之前我可能想 想得到的东西太多了啊 想服务的人群太多了 所以反倒不够聚焦 不够具体啊 我最近一直在思索 就是对于高级中文学习者而言 最重要的东西是什么 最有用的东西是什么 是我每个星期就是发布一期 类似于话题性质的东西吗 我觉得非也非也 就是不是不是哈哈 我觉得最重要还是 我能深入到中文学习的内核 背后的原因 把它吃透来 吃透来啊 然后剖开来 告诉大家应该怎么去做 因为我觉得但凡已经学习到高级的水平 你们都是非常自觉的学习者 但是为什么到这个阶段 还是会触碰到一个 好像有点难以逾越的障碍呢 或者说一堵墙 一堵透明的墙在你眼前 你分明能透过这堵墙 看到墙背后美丽的风景 但是你就是没法穿透这堵墙 你找不到一个门 找不到一个窗口 确实非常的郁闷 对不对 最近我在上一些中文私教课的时候 因为我现在把我的中文私教课 聚焦在高级中文学习者啊 就大部分是啊 其实中级还是有一些 高级中文学习者比较多啊 就像我其实在前几集吧 我做过一个判断 就是就算你是高级中文学习者 其实你远远没有达到中文母语者的水平啊 你的水平可能是中国的小学生 五六年级的水平吧 甚至还不如啊 你还别不服气啊 其实这个我觉得也没什么好不服气的 母语者每天都在接受 或者说从小就在接受天量的语言材料 不断不断的输入输入输入输入 输出输出输出输出 这其实是没法比拟的 所以我们作为学习者 其实要找到一个比较好的定位啊 我觉得比较重要 通过我对我的学生进行的一些判断啊 就是通过我判断他们的问题的成因之后 我就大概总结出来 最重要的地方 就是最关键 最难以逾越的障碍在哪里呢 其实还是在运用 就是不知道 如何把自己已经学来的东西 真正的运用出来 而且就算在运用的时候 老感觉捉襟见肘 老感觉自己的话怎么这么简单 老感觉自己说出来的话 怎么这么没有文化 哈哈哈 真的好像是一个中国的小学生的 而且是那种成绩不怎么好的小学生的中文啊 非常的贫乏 贫瘠 平淡 平淡如水啊 这个其实就是我觉得我能帮助大家的地方 而且我在这里应该给大家 真正展示出来的地方 就是我觉得中文里头有一句话非常有意思 就是以终为始啊 这个是什么意思呢 听起来有点玄乎啊 有点绕啊 其实很简单 就是以结果作为导向去学习 其实我知道大家都有一个结果导向 这个结果导向其实很明显 就是说地道的中文嘛对不对 和中国人能哎正常的交流啊 说一些话啊 但是这个结果可能不够清晰 不够清晰导致你在每一个阶段 其实你的前进速度会比较慢 因为你并不是循着一条路 直直的往前走的 一步一步的往前走的 而是你不断被沿途的风景所吸引 东看看西看看 你明明知道你要往前走 你明明知道应该循着一条路往前走 但这条路可能杂草丛生 让你看不怎么清楚 这个时候你仿佛觉得哎 那边好像有条路 哎那边好像也有一条路 所以你很容易就分心了 你的心没有真正聚焦在这一条路上 这一条路你没有真正把它的草给清除干净 然后让自己心里非常的清楚 就是应该走这条路 所以你其实会花费非常多的时间 也总是没法到达路的尽头 或者说中间的一个点吧 我觉得语言学习可能没有一个真正的尽头 但起码它有一个一个的节点吧 在这条路上应该有一个一个的节点吧 不然的话学习起来多么的没有意思 对不对 所以我觉得就是以结果为导向 以结果为导向 其实需要更清楚更具体一点 比如说我有个学生 她是在中企上班的 她其实日常生活中 当然会和中国人有接触 日常的中文也没有问题 但是她发现自己有一个问题 就是她在和中国人交流的时候 只能用最简单的中文 而且没法聊一些比较深入的话题 每每聊一些比较深入的话题的时候 这些话题其实她说不下去 她脑子里永远只有那么固定的几个词语 这个情况让她非常的苦恼 我就说你和你的这个同事聊天的时候 聊一些什么东西 她说我聊的是 就是关于中国的一些事情 一些时事新闻呐等等 他们在聊的时候 我想加入和他们聊这些东西 但是我发现我聊不来 那么我现在再分析一下 我说你平常会看什么样的材料 她说我可能会看你的视频呐 看大叔中文呐 还有现在YouTube上确实有很多中文老师 对不对 那我再问她 你平常会看什么样的书 她是我最喜欢看的 我应该是心理学方面的吧 我也会看一些 而且我的朋友给我买过一些文学性的书 像什么《活着》 很多人都知道《活着》 对不对 啊我就知道了她的问题在哪里了 因为她并不是以结果为导向去学习的 大家发现没有 很散 学文学 学心理学 还有看YouTube上这些访谈类的 你没法真正转换为你日常生活能用的 你日常生活需要用的 其实是和中国人聊天的 一些具体的话题 以及一些具体的表达方式呀 她就说其实我好像之前参加了一个俱乐部 但是他们给我的材料太难了 好像也没法用 我就说你把那些材料给我看一下 我打开看一下 天呐我看了我都头大 那种新闻的 不只是新闻的 而且是特别的专的 特别的细的 对我们日常生活中没有任何意义的 我觉得你学这些东西其实在浪费时间 后来我给她推荐 就是说其实我儿子因为现在九岁啊 马上十岁了 我们会给他引入一些听力材料啊 听中文的 其实不是为了锻炼他的听力 而是而是让他吸收更多的知识 比如说日常的这些生活里头一些时事 我们就给他找到一个 专门给孩子做新闻的一个频道 对每天早上把他叫醒的时候 让他听一段 这样他很有兴趣 因为都是发生在中国的一些事情 而且他用的语言 相对而言是小学生也能懂的 我就把这个推荐给我的学生 哎这个其实在微信公众号上面有啊 有兴趣的话啊 可以在底下留言哦 我告诉大家是什么 同时它还有文章啊 我觉得这个其实就非常非常的好 刚好符合我学生的要求 所以这个其实就是以结果为导向 就是你要明白 你的中文真正最后是用来干什么的 纯粹只是说说一些日常的话题 那你就专门去看这种话题 看电视剧其实就可以 对不对那假如你要更深入一些 和中国人聊一些时事的方面的东西 你就需要找这些 适合你现阶段能力的一些语言材料 对吧比如说你就因为有伴侣 你可能想和他聊一些更深入的 这种关于关系啊这种话题的话 你可能确实需要去看一些这方面的 其实这方面的播客挺多的 中国人现在也做很多播客 当然也可以看一些这种类型的书籍 都可以那种相对比较流行的 写的比较简单的一些书籍 我觉得你肯定能吸收大把的 这些语言表达方式 真正在日常生活中能用起来 以结果为导向的意思 就是你必须明白 现在这个阶段了 你必须让自己聚焦在一条路上 这条路上必须是有回馈有反馈的 就是你输入的东西 你吸收的东西必须是能拿来用的才行 不然你漫无目的的看这个看那个 其实就是浪费你的时间 对你中文学习没有任何用处 对你中文的这个提高也没有任何帮助 好的如果你想更快地 提高自己的高级中文的话啊 可以报我的中文私教课啊 当然我现在其实呢 在我的Patreon频道也推出了一个项目 就中国历史播客 有这个文本有音频同时呢 我还准备出一个视频啊 就真正帮助喜欢通过中国历史 来学习中文的人啊 就是你对中国历史特别感兴趣 对中国人特别感兴趣 对中国的文化特别感兴趣啊 你可以来成为我的Patreon会员啊 其实第一个星期是免费的啊 有个试用期啊 那么咱们下星期再见",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.05190311418685121
+  "src": "cc"
  },
  "vaWmywKOlH0": {
   "channel": "Bubble Chinese",
@@ -123497,7 +123631,7 @@
  "iJyJ7MLSOEY": {
   "channel": "Sensoba Chinese",
   "lang": "zh",
-  "checked": "2026-11-14T03:40:02+00:00",
+  "checked": "2026-11-26T16:37:50+00:00",
   "title": "Learn Chinese Painlessly at the Train Station 🚉 Travel Vlog Comprehensible Input",
   "duration": 738,
   "published": "20260323",
@@ -123506,20 +123640,21 @@
   "pace": 108.1,
   "rare": 0.0275,
   "var": 0.5856,
+  "cl": null,
   "speech_s": 590.9,
   "tokens": 727,
   "kw": [
    [
     "这里",
-    "这里是火车站 zhè lǐ shì huǒ chē zhàn",
+    "这里是火车站有很多人来这里搭火车",
     14,
-    19,
+    28,
     5.67,
     19
    ],
    [
     "进去",
-    "那我现在要进去候车厅。 nà wǒ xiàn zài yào jìn qù hòu chē tīng。",
+    "那我现在要进去候车厅。",
     212,
     220,
     4.81,
@@ -123527,7 +123662,7 @@
    ],
    [
     "不同",
-    "这是另一个检票口，它们有不同的数字 zhè shì lìng yí gè jiǎn piào kǒu， tā men yǒu bù tóng de shù zì",
+    "这是另一个检票口，它们有不同的数字",
     469,
     478,
     5.71,
@@ -123535,23 +123670,23 @@
    ],
    [
     "所以",
-    "所以我不用搭电梯 suǒ yǐ wǒ bù yòng dā diàn tī",
+    "所以我不用搭电梯我可以搭手扶梯",
     72,
-    79,
+    84,
     5.78,
     4
    ],
    [
     "电梯",
-    "我可以搭电梯 wǒ kě yǐ dā diàn tī",
+    "我可以搭电梯电梯上三楼",
     51,
-    55,
+    58,
     4.26,
     12
    ],
    [
     "屏幕",
-    "这里你可以看到屏幕。 zhè lǐ nǐ kě yǐ kàn dào píng mù。",
+    "这里你可以看到屏幕。",
     168,
     173,
     4.25,
@@ -123559,7 +123694,7 @@
    ],
    [
     "火车",
-    "我今天要搭火车去深圳 wǒ jīn tiān yào dā huǒ chē qù shēn zhèn",
+    "我今天要搭火车去深圳",
     3,
     10,
     4.67,
@@ -123567,15 +123702,15 @@
    ],
    [
     "座位",
-    "这里有很多座位 zhè lǐ yǒu hěn duō zuò wèi",
+    "这里有很多座位这些是座位，你可以坐在这里，很多人坐在这里等车",
     375,
-    383,
+    390,
     4.26,
     8
    ],
    [
     "证件",
-    "进去候车厅要准备证件 jìn qù hòu chē tīng yào zhǔn bèi zhèng jiàn",
+    "进去候车厅要准备证件",
     238,
     244,
     4.16,
@@ -123583,7 +123718,7 @@
    ],
    [
     "楼梯",
-    "我走楼梯,走楼梯,这是楼梯。 wǒ zǒu lóu tī, zǒu lóu tī, zhè shì lóu tī。",
+    "我走楼梯,走楼梯,这是楼梯。",
     652,
     660,
     4.1,
@@ -123591,7 +123726,7 @@
    ],
    [
     "车厢",
-    "3号车厢就是我的车厢,3号车厢,我现在上火车,上火车。 3 hào chē xiāng jiù shì wǒ de chē xiāng,3 hào chē xiāng, wǒ xiàn zài shàng huǒ chē, shàng huǒ chē。",
+    "3号车厢就是我的车厢,3号车厢,我现在上火车,上火车。",
     689,
     700,
     4.12,
@@ -123599,26 +123734,116 @@
    ],
    [
     "楼上",
-    "电梯从一楼上到三楼 diàn tī cóng yī lóu shàng dào sān lóu",
+    "电梯从一楼上到三楼电梯",
     121,
-    130,
+    134,
     4.06,
     2
    ],
    [
     "安检",
-    "我现在要排队,排队安检 wǒ xiàn zài yào pái duì, pái duì ān jiǎn",
+    "我现在要排队,排队安检",
     280,
     287,
     3.5,
     8
    ]
   ],
+  "kx": [
+   [
+    "东西",
+    "和拿着很多的东西你可以搭电梯",
+    112,
+    121,
+    5.63,
+    4
+   ],
+   [
+    "信息",
+    "屏幕上有很多信息。这些是车次的信息。",
+    177,
+    187,
+    5.48,
+    4
+   ],
+   [
+    "排队",
+    "我现在要排队,排队安检",
+    280,
+    287,
+    4.26,
+    7
+   ],
+   [
+    "餐厅",
+    "楼上，二楼。这是一楼，二楼也有一些餐厅",
+    528,
+    537,
+    4.67,
+    5
+   ],
+   [
+    "箱子",
+    "如果你拖着箱子、行李箱",
+    106,
+    112,
+    3.78,
+    2
+   ],
+   [
+    "行李",
+    "但是我今天没有太多的行李",
+    57,
+    66,
+    4.19,
+    1
+   ],
+   [
+    "袋子",
+    "把你的东西、你的包包、袋子、箱子",
+    328,
+    334,
+    3.54,
+    1
+   ],
+   [
+    "行李箱",
+    "如果你拖着箱子、行李箱",
+    106,
+    112,
+    3.49,
+    1
+   ],
+   [
+    "你们好",
+    "你们好我今天要搭火车去深圳",
+    0,
+    10,
+    3.46,
+    1
+   ],
+   [
+    "有太多",
+    "但是我今天没有太多的行李",
+    57,
+    66,
+    3.44,
+    1
+   ],
+   [
+    "大屏幕",
+    "候车厅里面也有屏幕，屏幕，大屏幕",
+    402,
+    409,
+    3.12,
+    1
+   ]
+  ],
+  "voc": 0.11279229711141678,
   "tx": "你们好 nǐ men hǎo 我今天要搭火车去深圳 wǒ jīn tiān yào dā huǒ chē qù shēn zhèn 我现在在火车站 wǒ xiàn zài zài huǒ chē zhàn 这里是火车站 zhè lǐ shì huǒ chē zhàn 有很多人来这里搭火车 yǒu hěn duō rén lái zhè lǐ dā huǒ chē 这里就是广州的一个火车站 zhè lǐ jiù shì guǎng zhōu de yí gè huǒ chē zhàn 我现在在一楼 wǒ xiàn zài zài yī lóu 我要去三楼 wǒ yào qù sān lóu 我可以搭电梯 wǒ kě yǐ dā diàn tī 电梯上三楼 diàn tī shàng sān lóu 但是我今天没有太多的行李 dàn shì wǒ jīn tiān méi yǒu tài duō de xíng lǐ 我只有一个包包 wǒ zhǐ yǒu yí gè bāo bāo 小包包 xiǎo bāo bāo 所以我不用搭电梯 suǒ yǐ wǒ bù yòng dā diàn tī 我可以搭手扶梯 wǒ kě yǐ dā shǒu fú tī 我现在去搭手扶梯 wǒ xiàn zài qù dā shǒu fú tī 这个就是电梯 zhè gè jiù shì diàn tī 电梯,可以把你带到其他楼层的电梯 diàn tī, kě yǐ bǎ nǐ dài dào qí tā lóu céng de diàn tī 电梯 diàn tī 如果你拖着箱子、行李箱 rú guǒ nǐ tuō zháo xiāng zǐ 、 háng lǐ xiāng 和拿着很多的东西 hé ná zháo hěn duō de dōng xī 你可以搭电梯 nǐ kě yǐ dā diàn tī 电梯从一楼上到三楼 diàn tī cóng yī lóu shàng dào sān lóu 电梯 diàn tī 我就要去这个三层候车区,所以我要去到三楼。 wǒ jiù yào qù zhè gè sān céng hòu chē qū, suǒ yǐ wǒ yào qù dào sān lóu。 我现在搭手扶梯上三楼。 wǒ xiàn zài dā shǒu fú tī shàng sān lóu。 手扶梯也可以把你从一楼带到三楼。 shǒu fú tī yě kě yǐ bǎ nǐ cóng yī lóu dài dào sān lóu。 我现在到了三楼的候车大厅。 wǒ xiàn zài dào le sān lóu de hòu chē dà tīng。 这里你可以看到屏幕。 zhè lǐ nǐ kě yǐ kàn dào píng mù。 这个是屏幕,很大的屏幕。 zhè gè shì píng mù, hěn dà de píng mù。 屏幕上有很多信息。 píng mù shàng yǒu hěn duō xìn xī。 这些是车次的信息。 zhèi xiē shì chē cì de xìn xī。 你可以看你要坐哪一趟车, nǐ kě yǐ kàn nǐ yào zuò nǎ yī tàng chē, 有时间,和在哪里检票,还有现在车的状态。 yǒu shí jiān, hé zài nǎ lǐ jiǎn piào, huán yǒu xiàn zài chē de zhuàng tài。 这个是屏幕。 zhè gè shì píng mù。 屏幕。 píng mù。 可以在屏幕上看你的车的信息。 kě yǐ zài píng mù shàng kàn nǐ de chē de xìn xī。 那我现在要进去候车厅。 nà wǒ xiàn zài yào jìn qù hòu chē tīng。 我现在在外面。 wǒ xiàn zài zài wài miàn。 我要到里面去,里面才能候车。 wǒ yào dào lǐ miàn qù, lǐ miàn cái néng hòu chē。 我现在准备进去候车厅 wǒ xiàn zài zhǔn bèi jìn qù hòu chē tīng 进去候车厅要准备证件 jìn qù hòu chē tīng yào zhǔn bèi zhèng jiàn 这是我的证件 zhè shì wǒ de zhèng jiàn 你需要证件才能进去候车厅 nǐ xū yào zhèng jiàn cái néng jìn qù hòu chē tīng 身份证就是你的证件 shēn fèn zhèng jiù shì nǐ de zhèng jiàn 或者护照和其他证件 huò zhě hù zhào hé qí tā zhèng jiàn 这里就是需要用到证件进去的地方 zhè lǐ jiù shì xū yào yòng dào zhèng jiàn jìn qù de dì fāng 我现在要排队,排队安检 wǒ xiàn zài yào pái duì, pái duì ān jiǎn 我前面有很多人,所以我要排队,我要等 wǒ qián miàn yǒu hěn duō rén, suǒ yǐ wǒ yào pái duì, wǒ yào děng 排队跟着其他人安检 pái duì gēn zhe qí tā rén ān jiǎn 我刚刚通过了安检 wǒ gāng gāng tōng guò le ān jiǎn 安检就是安全检查 ān jiǎn jiù shì ān quán jiǎn chá 每个人进到候车厅 měi gè rén jìn dào hòu chē tīng 都需要通过安检 dū xū yào tōng guò ān jiǎn 把你的东西、你的包包、袋子、箱子 bǎ nǐ de dōng xī 、 nǐ de bāo bāo 、 dài zǐ 、 xiāng zǐ 经过机器的检查 jīng guò jī qì de jiǎn chá 这就是安检 zhè jiù shì ān jiǎn 安检 ān jiǎn 每个车站都有安检 měi gè chē zhàn dū yǒu ān jiǎn 这里就是候车厅 zhè lǐ jiù shì hòu chē tīng 候车大厅是给大家等车的地方 hòu chē dà tīng shì gěi dà jiā děng chē de dì fāng 你在这里等你的火车到 nǐ zài zhè lǐ děng nǐ de huǒ chē dào 在这里等，很多人都在这里等车 zài zhè lǐ děng， hěn duō rén dū zài zhè lǐ děng chē 这里有很多座位 zhè lǐ yǒu hěn duō zuò wèi 这些是座位，你可以坐在这里，很多人坐在这里等车 zhèi xiē shì zuò wèi， nǐ kě yǐ zuò zài zhè lǐ， hěn duō rén zuò zài zhè lǐ děng chē 座位可以坐下，给人坐着等车，很多人坐在这里等车 zuò wèi kě yǐ zuò xià， gěi rén zuò zháo děng chē， hěn duō rén zuò zài zhè lǐ děng chē 候车厅里面也有屏幕，屏幕，大屏幕 hòu chē tīng lǐ miàn yě yǒu píng mù， píng mù， dà píng mù 让你看你的车到了没有，有时间、检票口和状态 ràng nǐ kàn nǐ de chē dào le méi yǒu， yǒu shí jiān 、 jiǎn piào kǒu hé zhuàng tài 屏幕可以让你看车的信息 píng mù kě yǐ ràng nǐ kàn chē de xìn xī 这个就是检票口，检票口，这里是检票口 zhè gè jiù shì jiǎn piào kǒu， jiǎn piào kǒu， zhè lǐ shì jiǎn piào kǒu 检票口就是当你的车来了、到了，人们就在这里检票 jiǎn piào kǒu jiù shì dāng nǐ de chē lái le 、 dào le， rén mén jiù zài zhè lǐ jiǎn piào 用你的证件，用证件检票进去坐车 yòng nǐ de zhèng jiàn， yòng zhèng jiàn jiǎn piào jìn qù zuò chē 检票口，这里是检票口 jiǎn piào kǒu， zhè lǐ shì jiǎn piào kǒu 这是另一个检票口，它们有不同的数字 zhè shì lìng yí gè jiǎn piào kǒu， tā men yǒu bù tóng de shù zì 这里是8，B8、B9检票口 zhè lǐ shì 8，B8、B9 jiǎn piào kǒu 这边是10、11，B10、B11检票口 zhè biān shì 10、11，B10、B11 jiǎn piào kǒu 不同的车，不同的车在不同的检票口 bù tóng de chē， bù tóng de chē zài bù tóng de jiǎn piào kǒu 你要看你的车在哪里，就去哪个检票口 nǐ yào kàn nǐ de chē zài nǎ lǐ， jiù qù něi gè jiǎn piào kǒu 在候车厅还有很多商店，这些是商店 zài hòu chē tīng huán yǒu hěn duō shāng diàn， zhèi xiē shì shāng diàn 不同的商店，可以买东西 bù tóng de shāng diàn， kě yǐ mǎi dōng xī 楼上，二楼。这是一楼，二楼也有一些餐厅 lóu shàng， èr lóu。 zhè shì yī lóu， èr lóu yě yǒu yī xiē cān tīng 这些是餐厅，让你吃东西的地方 zhèi xiē shì cān tīng， ràng nǐ chī dōng xī de dì fāng 一楼有商店，二楼有餐厅，餐厅 yī lóu yǒu shāng diàn， èr lóu yǒu cān tīng， cān tīng 很多餐厅和商店，因为坐车的人很多 hěn duō cān tīng hé shāng diàn， yīn wèi zuò chē de rén hěn duō 我们又看到了电梯，把你从一楼带上二楼，电梯 wǒ men yòu kàn dào le diàn tī， bǎ nǐ cóng yī lóu dài shàng èr lóu， diàn tī 我现在去检票口,这个也是检票口,但是A6、A7不是我的检票口。 wǒ xiàn zài qù jiǎn piào kǒu, zhè gè yě shì jiǎn piào kǒu, dàn shì A6、A7 bú shì wǒ de jiǎn piào kǒu。 我的检票口是A5,这里是我要去的检票口,检票口A4、A5。 wǒ de jiǎn piào kǒu shì A5, zhè lǐ shì wǒ yào qù de jiǎn piào kǒu, jiǎn piào kǒu A4、A5。 我现在要检票,我先拿好我的证件,然后检票。 wǒ xiàn zài yào jiǎn piào, wǒ xiān ná hǎo wǒ de zhèng jiàn, rán hòu jiǎn piào。 有其他人,其他人,所以我要排队,排队,等在他们的后面排队检票。 yǒu qí tā rén, qí tā rén, suǒ yǐ wǒ yào pái duì, pái duì, děng zài tā men de hòu miàn pái duì jiǎn piào。 检票进来之后,我要去站台,站台要下去。 jiǎn piào jìn lái zhī hòu, wǒ yào qù zhàn tái, zhàn tái yào xià qù。 我走楼梯,走楼梯,这是楼梯。 wǒ zǒu lóu tī, zǒu lóu tī, zhè shì lóu tī。 我走楼梯,下到,下去,下去到站台。 wǒ zǒu lóu tī, xià dào, xià qù, xià qù dào zhàn tái。 火车停的地方就是站台,这里是站台,旁边是火车,火车停在站台。 huǒ chē tíng de dì fāng jiù shì zhàn tái, zhè lǐ shì zhàn tái, páng biān shì huǒ chē, huǒ chē tíng zài zhàn tái。 3号车厢就是我的车厢,3号车厢,我现在上火车,上火车。 3 hào chē xiāng jiù shì wǒ de chē xiāng,3 hào chē xiāng, wǒ xiàn zài shàng huǒ chē, shàng huǒ chē。 然后我要找我的座位,找我的座位。 rán hòu wǒ yào zhǎo wǒ de zuò wèi, zhǎo wǒ de zuò wèi。 我的座位在4号,4号,座位,座位。 wǒ de zuò wèi zài 4 hào,4 hào, zuò wèi, zuò wèi。",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.11279229711141678
+  "src": "cc"
  },
  "QvklR9b3cQE": {
   "channel": "Jiayun Mandarin",
@@ -127260,7 +127485,7 @@
  "d0KU5rifUnk": {
   "channel": "Unconventional Chinese",
   "lang": "zh",
-  "checked": "2026-11-08T05:22:02+00:00",
+  "checked": "2026-11-26T16:57:32+00:00",
   "title": "What Makes a GOOD Café? ☕🪑 My 3 Simple Standars | Learn Chinese with CI | Beginner CI  | TPRS",
   "duration": 445,
   "published": "20250605",
@@ -127269,6 +127494,7 @@
   "pace": 106.8,
   "rare": 0.0129,
   "var": 0.6378,
+  "cl": null,
   "speech_s": 208.4,
   "tokens": 232,
   "kw": [
@@ -127279,6 +127505,14 @@
     62,
     5.73,
     9
+   ],
+   [
+    "一点",
+    "我更喜欢酸一点的咖啡",
+    67,
+    74,
+    5.51,
+    5
    ],
    [
     "标准",
@@ -127305,6 +127539,14 @@
     7
    ],
    [
+    "座位",
+    "座位要舒服有的咖啡店座位很小",
+    102,
+    113,
+    4.26,
+    5
+   ],
+   [
     "舒服",
     "座位要舒服有的咖啡店座位很小",
     102,
@@ -127319,14 +127561,6 @@
     167,
     4.4,
     3
-   ],
-   [
-    "什么样",
-    "你呢？你喜欢什么样的座位",
-    147,
-    153,
-    4.67,
-    2
    ],
    [
     "咖啡店",
@@ -127345,10 +127579,69 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "还是",
+    "你喜欢甜一点的还是酸一点的",
+    86,
+    94,
+    5.76,
+    2
+   ],
+   [
+    "大家",
+    "大家好 欢迎来到Unconventional Chinese",
+    0,
+    5,
+    5.6,
+    2
+   ],
+   [
+    "什么样",
+    "你呢？你喜欢什么样的座位",
+    147,
+    153,
+    4.67,
+    2
+   ],
+   [
+    "星期",
+    "我每个星期都会去咖啡店喝咖啡",
+    7,
+    16,
+    4.77,
+    1
+   ],
+   [
+    "桌子",
+    "桌子很高看起来很漂亮",
+    113,
+    121,
+    4.1,
+    1
+   ],
+   [
+    "椅子",
+    "我坐在椅子上坐了10分钟就想要走了",
+    128,
+    137,
+    4.09,
+    1
+   ],
+   [
+    "拜拜",
+    "i will see you next week拜拜",
+    439,
+    443,
+    3.43,
+    1
+   ]
+  ],
+  "voc": 0.08620689655172414,
   "tx": "大家好 欢迎来到Unconventional Chinese 我是Juno老师 我每个星期都会去咖啡店喝咖啡 可是有的咖啡店 我去一次，就不想要再去了 为什么？因为我觉得不好 什么是好的咖啡店呢 我有三个标准 请打开字幕 我的第一个标准是咖啡要好喝 嗯..我不喜欢太甜的咖啡 也不喜欢太苦的咖啡 我更喜欢酸一点的咖啡 如果这个咖啡店有酸一点的咖啡 我觉得是好的咖啡店 你呢 你喜欢甜一点的还是酸一点的 还是苦一点的咖啡 第二个标准 座位要舒服 有的咖啡店座位很小 桌子很高 看起来很漂亮 可是坐起来不舒服 我坐在椅子上坐了10分钟就想要走了 舒服的座位 我可以坐一个小时 两个小时 一天 你呢？你喜欢什么样的座位 第三个标准是：安静 吵的咖啡店 我不可以享受我的咖啡 我也不可以工作 也不可以想事情 我觉得好的咖啡店 大家说话很小声 你呢？你喜欢安静的咖啡店吗 这就是我喜欢的咖啡店的三个标准 好喝 座位舒服 安静 你喜欢什么样的咖啡店 你喜欢的咖啡店在哪儿 下次 我们可以一起去新的咖啡店喝咖啡 comment down below if you really like this story give us a thumbs up check our website for more free material at uncommercialchinese com 我是Juno i will see you next week拜拜",
+  "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.08620689655172414
+  "src": "cc"
  },
  "NHDTHEeq1-U": {
   "channel": "You Can Chinese 语感中文",
