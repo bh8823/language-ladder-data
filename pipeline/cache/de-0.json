@@ -46359,7 +46359,7 @@
  "PUg-020Isng": {
   "channel": "MrWissen2go",
   "lang": "de",
-  "checked": "2026-11-12T15:10:26+00:00",
+  "checked": "2026-11-26T05:26:54+00:00",
   "title": "Darum hat die deutsche Autoindustrie ein Problem | MrWissen2go",
   "duration": 1023,
   "published": "20260523",
@@ -46368,6 +46368,7 @@
   "pace": 180.2,
   "rare": 0.0656,
   "var": 0.8689,
+  "cl": null,
   "speech_s": 960.1,
   "tokens": 2883,
   "kw": [
@@ -46532,11 +46533,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "dabei",
+    "aus dem großen Markenkosmos von VW sind dabei.",
+    89,
+    92,
+    5.8,
+    9
+   ],
+   [
+    "sondern",
+    "sondern auch in China mit einem Marktanteil von fast 50 Prozent.",
+    114,
+    118,
+    5.77,
+    9
+   ],
+   [
+    "hersteller",
+    "einerseits müssen die Hersteller die komplette Produktion umstellen,",
+    390,
+    394,
+    4.57,
+    5
+   ],
+   [
+    "letztlich",
+    "Gestartet als ein letztlich gescheitertes Prestigeprojekt",
+    99,
+    102,
+    4.53,
+    5
+   ],
+   [
+    "regierungen",
+    "durch die Regierungen vor Ort geschaffen worden sind,",
+    430,
+    433,
+    4.14,
+    2
+   ],
+   [
+    "vergleichsweise",
+    "aber auch vergleichsweise neue Firmen wie NIO.",
+    638,
+    641,
+    4.14,
+    2
+   ],
+   [
+    "chinesischer",
+    "Der Marktanteil chinesischer Hersteller im Land",
+    702,
+    705,
+    3.51,
+    3
+   ],
+   [
+    "herstellern",
+    "was einen klaren Nachteil gegenüber Herstellern bedeutet,",
+    400,
+    403,
+    3.59,
+    2
+   ],
+   [
+    "absatzmarkt",
+    "für die Europa ein bedeutender Absatzmarkt ist,",
+    372,
+    375,
+    2.77,
+    2
+   ],
+   [
+    "umrüsten",
+    "Die Autohersteller mussten also alles auf E-Mobilität umrüsten.",
+    422,
+    426,
+    2.61,
+    2
+   ]
+  ],
+  "voc": 0.05265448215839861,
   "tx": "Die Automobilindustrie, sie ist für Deutschland fast so wie für uns der Sauerstoff zum Atmen. Ohne sie geht es einfach nicht. Die drei großen Konzerne, Volkswagen, Mercedes und BMW und deren Zulieferer sind sozusagen Teil der DNA der Bundesrepublik. Nur mal ein paar Zahlen. Ein Gesamtumsatz von knapp 534 Milliarden Euro. Fast jeder fünfte Euro im verarbeitenden Gewerbe wird damit in dieser Branche verdient. Kein anderer Zweig investiert so viel Geld in Forschung und Entwicklung. Und ganz zentral ist außerdem, mehr als 700.000 Beschäftigte gibt es in der Autoindustrie und noch mal mindestens … USA riesigen Erfolg, sondern auch in China mit einem Marktanteil von fast 50 Prozent. Ganze Städte in Deutschland gibt es in dieser Form, weil es VW gibt. Wolfsburg natürlich, aber auch Baunatal in Hessen würde ohne VW vermutlich gar nicht existieren. Jahr für Jahr spült der Erfolg von Volkswagen Milliarden von Euro in die öffentlichen Kassen, aber auch in die Taschen von Anlegern. Entsprechend mächtig ist das Unternehmen auch, mit vielen Verbindungen in die Politik. Unter anderem auch, weil das Land Niedersachsen an VW beteiligt ist. Und diese Macht hat Volkswagen nicht allein. Zwar etwas … gesprochen, sondern von Lohnkürzungen, von Stellenabbau. Und sogar Werksschließungen sind im Gespräch, erstmals. Bis 2030 will VW 50.000 Stellen abbauen. Bei Mercedes sollen 40.000 Mitarbeiter ein Abfindungsangebot bekommen haben. Rund 5.500 haben demnach bisher angenommen. Und auch BMW möchte in den kommenden Jahren tausende Stellen streichen. Massiv betroffen sind auch die Zulieferer. Sie erhalten weniger Aufträge und haben gleichzeitig hohe Kosten. Zum ersten Mal seit 2009 hat Bosch im Jahr 2025 Verluste gemacht. Und auch ZF fährt einen Rekordverlust ein. Kleinere Unternehmen stehen … von neuen Pkw und leichten Nutzfahrzeugen auf null reduziert werden. Das heißt, ab diesem Zeitpunkt dürfen keine neuen Autos mehr verkauft werden, die CO2 ausstoßen. Das große Ziel dabei ist, das Klima soll geschützt werden. Umgangssprachlich wurde das als Verbrenner-Aus bezeichnet. Allerdings dieser Begriff ist ein bisschen irreführend, denn gemeint war nicht, dass ab 2035 keine Autos mit Verbrennermotoren mehr auf den Straßen fahren dürfen. Es sollten nur, in Anführungszeichen, keine Neuwagen mehr mit Verbrennermotoren verkauft werden. Autos, die schon da sind, sollte man weiterfahren … Regierungen in Deutschland, aber auch in anderen Ländern, haben es für die Menschen nicht gerade attraktiv gemacht, vom Verbrenner auf ein E-Auto umzusteigen. Statt auf umfangreiche Infrastrukturmaßnahmen und Förderprogramme hat man auf negative Motivation gesetzt. Höhere Spritpreise durch einen steigenden CO2-Preis ohne finanziellen Ausgleich zum Beispiel. Die Folge ist, die Autokonzerne mussten zwar auf E-Mobilität umrüsten, gleichzeitig gab es aber zu wenig Nachfrage, weil es nicht die entsprechenden Bedingungen gab. Statt einem gesamtheitlichen Plan gab es von der Politik eine Vorgabe, … ist und lange hält, stehen jetzt zusätzlich andere Dinge im Mittelpunkt. Bei den deutschen Autobauern kam das offenbar ziemlich spät erst an. Vielleicht auch wegen so einer gewissen Arroganz. \"Wir sind der Platzhirsch, wir setzen Standards!\" Das galt lange, hat sich aber inzwischen ein Stück weit geändert. Was das Know-how und die Fähigkeiten angeht, könnten die deutschen Autobauer durchaus mit den innovativen Konzernen mithalten. Die klugen Köpfe sind da. Aber trotzdem hängt man jetzt in einigen Bereichen hinterher. Und damit sind wir bei: Die Volksrepublik China ist der mit Abstand … als noch vor einiger Zeit geht es dabei aber nicht mehr darum, einfach billig zu kopieren, sondern solide selbst neu zu machen. Made in China soll nicht mehr Ramsch bedeuten, sondern Qualität. Und das gilt eben auch für die Autoindustrie. Und zentral dort ist für die chinesische Staats- und Parteiführung die Elektromobilität. Nicht unbedingt nur, weil die chinesische Regierung viel fürs Klima machen möchte, weil ihr das so wichtig ist, sondern vor allem, weil man schon vor längerer Zeit festgestellt hat: Das ist ein Bereich, in dem etwas zu holen ist, weil die anderen schlafen. 2025 war … zu Recht undenkbar. Man kann sagen, es ist ein ungleicher, ein unfairer Kampf, der da geführt wird. Dementsprechend wenig begeistert ist die Europäische Union deshalb auch, dass die Marktanteile chinesischer Autobauer auch in Europa steigen. 2024 wurden deshalb Zölle von bis zu 35 Prozent auf chinesische Autos eingeführt. Inzwischen haben sich die EU und China auf eine abgeschwächtere Form geeinigt. Aber das Grundproblem bleibt. Deutsche Autobauer verlieren auf dem wichtigen Absatzmarkt China Jahr für Jahr Marktanteile. Und es sieht nicht danach aus, dass sich daran insgesamt sehr viel … Dazu kommt der vorhin schon kurz erwähnte internationale Wettbewerb. Die Produktionskosten in Deutschland sind vergleichsweise hoch. Wenn hier hergestellt wird, dann wirkt sich das auch auf die Preise aus. Deutsche Autos werden deshalb in Ländern wie China zunehmend unattraktiv. Das heißt, dass die Autoindustrie in Deutschland in der Krise ist, hat unterschiedliche Gründe. Es hängt mit falschen politischen Entscheidungen zusammen, mit mangelhafter Vorausplanung bei den Konzernen, mit veränderten Rahmenbedingungen auf dem Weltmarkt und mit der allgemeinen wirtschaftlichen Lage. Kommt man … in große Schwierigkeiten geraten. Leider muss man sagen: Die ersten Dominosteine dabei sind schon längst gefallen. Wie sieht es denn bei euch aus? Glaubt ihr daran, dass die deutsche Autoindustrie den U-Turn schafft, also die Wende? Oder seid ihr eher pessimistisch? Schreibt es gerne unten in die Kommentare. Und hier neben mir findet ihr noch mal das vorhin schon erwähnte Video. Und direkt darunter ein Video zu VW und auch zur Geschichte von Volkswagen, die alles andere als rühmlich ist. Klickt da gerne mal drauf. Danke euch fürs Zuschauen und bis zum nächsten Mal. © funk - von ARD und ZDF",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.0465444287729196
+  "src": "cc"
  },
  "Eev2Ku_TjVk": {
   "channel": "Deutsch mit Rieke",
@@ -61268,7 +61351,7 @@
  "IChcogLkMrs": {
   "channel": "Easy German",
   "lang": "de",
-  "checked": "2026-11-13T00:25:21+00:00",
+  "checked": "2026-11-26T05:53:09+00:00",
   "title": "Jobcenter in Slow German | Super Easy German 305",
   "duration": 1222,
   "published": "20260429",
@@ -61277,6 +61360,7 @@
   "pace": 129.7,
   "rare": 0.049,
   "var": 0.8091,
+  "cl": null,
   "speech_s": 1122.9,
   "tokens": 2427,
   "kw": [
@@ -61441,11 +61525,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "gerne",
+    "Hallo. Ich möchte gerne Grundsicherung beantragen. Der einfachste und",
+    138,
+    147,
+    5.49,
+    9
+   ],
+   [
+    "danke",
+    "danke sehr. Okay, ich bräuchte einmal",
+    468,
+    473,
+    5.64,
+    7
+   ],
+   [
+    "unterstützen",
+    "unterstützen, sodass sie ihren Lebensunterhalt bestreiten können.",
+    687,
+    695,
+    4.76,
+    4
+   ],
+   [
+    "traum",
+    "hattest den Traum, Youtuber zu werden.",
+    757,
+    764,
+    4.72,
+    4
+   ],
+   [
+    "arbeitslos",
+    "zwei Anlaufstellen, wenn man arbeitslos ist. Die Agentur für Arbeit hilft einem,",
+    79,
+    88,
+    3.85,
+    4
+   ],
+   [
+    "self",
+    "Das Self-Service-Center. Guten Tag.",
+    132,
+    142,
+    3.72,
+    4
+   ],
+   [
+    "selbstständigkeit",
+    "der Selbstständigkeit, wie realistisch ist das Ganze oder würden wir auch über",
+    992,
+    999,
+    3.58,
+    1
+   ],
+   [
+    "visum",
+    "Aufenthaltstitel, ein Visum haben, das zum Arbeiten, das das Arbeiten erlaubt.",
+    736,
+    745,
+    3.55,
+    1
+   ],
+   [
+    "bedarfsgemeinschaft",
+    "Der Bescheid. Die Bedarfsgemeinschaft. Die Bearbeitungszeit.",
+    449,
+    459,
+    2.31,
+    2
+   ],
+   [
+    "arbeitsvermittler",
+    "Der Arbeitsvermittler, die Arbeitsvermittlerin.",
+    456,
+    462,
+    2.13,
+    2
+   ]
+  ],
+  "voc": 0.052083333333333336,
   "tx": "Janosch hat heute einen Termin im Jobcenter. Auf langsamen Deutsch. Das Jobcenter hilft Menschen in Deutschland, die keinen Job haben. Das Jobcenter hilft einen neuen Job zu finden und es unterstützt Menschen mit Geld. Heute schauen wir mal, wie das funktioniert. Los geht's. Janosch, du hast aktuell einen Traumjob als YouTuber, aber gab es auch mal Zeiten, in denen du keinen Job hattest in Deutschland? Ja, die gab es natürlich. Und wie war das damals? Ähm, besonders am Anfang, als ich nach Deutschland kam als politischer Flüchtling, ähm, musste ich am nächsten Tag direkt zum Sozialamt, Mhm. … Deutsch ist noch nicht gut genug. Ich würde mich freuen, wenn jemand mir dabei helfen kann. Okay, das ist überhaupt kein Problem. Wir haben hier im Jobcenter das sogenannte Self-Service-Center. Dort können Ihnen die Kollegen beim Hauptantrag helfen, wenn Sie das möchten. Ich möchte das sehr gerne, ja. Die Flyer gebe ich mit, da können Sie noch mal alles nachlesen. Das Self-Service-Center finden Sie hier den Gang runter auf der linken Seite, gleich die erste Tür links. Prima. Ich wünsche Ihnen einen schönen Tag. Auf Wiedersehen. Der Nächste, bitte. Einen Antrag stellen. Die Angaben. Hilfe … durchführen. Das geht am besten mit der BA-Secure-App. Ja. Und wenn ich jetzt Frage weitere Fragen haben, kann ich die Fragen auch online stellen? Jederzeit. Sie können Fragen stellen online. Sie werden haben dann auch sehr viel schneller natürlich eine Rückmeldung. Umgekehrt können wir auch Sie kontaktieren, wenn wir Informationen, Neuigkeiten für Sie haben, dann würden wir Ihnen diese über dieses System zukommen lassen. Also sehr einfach und sehr schnell. Das hört sich sehr gut an. René, du hast jetzt gerade Janosch geholfen, seinen Antrag auf Grundsicherung zu stellen. … man seinen Antrag auf Grundsicherung gestellt hat, wird man als Nächstes zu zwei Beratungsterminen eingeladen. Im ersten Beratungstermin geht es um die finanzielle Hilfe, also um diese Grundsicherung. Und Janosch, du hast deinen ersten Beratungstermin genau jetzt. Oh, ja. Der Beratungstermin. Besprechen. Das Einkommen. Der Ausweis. Der Bescheid. Die Bedarfsgemeinschaft. Die Bearbeitungszeit. Der Arbeitsvermittler, die Arbeitsvermittlerin. Hallo Herr Hamerski. Guten Tag. Guten Tag, wie geht's Ihnen? Sehr gut, danke sehr. Okay, ich bräuchte einmal Ihren Personalausweis zur Identifikation. … konkretisieren können. Und da kriegen Sie auch genug Unterstützung dabei. Sehr gut, danke. Ich habe noch ein paar Fragen zu dem Antrag. Sie haben gerade schon gesagt, Sie haben kein Einkommen. Wohnen Sie allein? Äh ich wohne mit meiner Frau zusammen. Okay. Und meine Frau hat auch äh kein Einkommen. hat kein Einkommen. Sie ist in einer ähnlichen Situation wie ich. Und wir werden allerdings sie sie arbeitet mit mir an meinem Projekt bzw. Das Projekt ist unser Projekt. Wir haben das zusammen ausgearbeitet. Okay, das ist schön. Ich frag diese Sachen nur um zu verstehen, dass sie auch … in Berlin. Was ist denn die Grundsicherung? Die Grundsicherung ist ein Sicherungssystem, um Menschen, die arbeitslos sind oder ein geringes Einkommen haben, zu unterstützen, sodass sie ihren Lebensunterhalt bestreiten können. Und wenn ich jetzt an Menschen denke, die neu in Deutschland sind, wer hat denn Anspruch auf Grundsicherung? Kann denn jeder, der in Deutschland wohnt, Grundsicherung beantragen? Was ist mit Leuten, die neu in Deutschland sind, z.B.? Grundsätzlich kann jeder, der in Deutschland wohnt, auch Grundsicherung beantragen. Anspruch haben aber tatsächlich nur Menschen, die … Mitgliedschaftsplattform. Da bekommt ihr interaktive Übungen und Vokabeln zu all unseren Videos. Ihr investiert Geld in uns, aber auch in euch und euer Deutsch lernen. Und wir freuen uns, wenn ihr auch dabei seid. Probiert das mal aus. Hier oben könnt ihr euch anmelden und damit verwirklicht ihr weiterhin Januschs Traum vom YouTube-Star. Gespannt sein. Die beruflichen Pläne. Der Nebenjob. Die Bewerbung. Janusch, nach deinem ersten Beratungstermin hier im Jobcenter sind schon ein paar Tage vergangen. Heute bist du eingeladen zu deinem zweiten Beratungstermin. Heute soll es um deine berufliche … angefangen zusammen mit meiner Frau. Okay, wie lange machen Sie das schon? Wir machen das schon seit etwa einem halben Jahr. Mhm. Okay, und was machen Sie da konkret? Wie sind die Vorstellungen? Die Vorstellung ist Okay, die Pläne, Ihre Pläne haben Sie mir jetzt dargelegt. Ich würde vorschlagen, wie wir besprochen haben, Sie laden den Businessplan im Jobcenter digital hoch, dass ich mir das noch mal in Ruhe anschauen kann, die Zahlen und dann treffen wir uns in vier Wochen wieder, dass ich mir auch noch mal einen Überblick über Ihren Kanal verschaffen kann und dann müssen wir gucken, was … wenn dort Unterstützung benötigt wird. Das sind so unsere zusätzlichen Aufgaben, die wir dann auch gerne mit aufnehmen und dabei auch unterstützen. Das heißt, ihr helft Menschen wirklich umfänglich bei ihrer Lebenssituation. Janosch hat jetzt eine Szene gespielt, die tatsächlich vor 15 Jahren mal so war, aber normalerweise wollen die Leute ja nicht unbedingt Youtuber werden. Was sind das so für Situationen oder wie helft ihr Menschen denn konkret in den Job? Es ist so breit gefächert. Wir haben wirklich alles. Wir haben die Helferberufe, die wir unterstützen. Wir haben aber auch ganz … hat man eine Idee. Janosch, du warst vor vielen, vielen Jahren in dieser Situation. Was würdest du heute jemandem empfehlen, der neu in Deutschland ist und noch nicht weiß, was er beruflich machen kann? Ja, nutzt diese diese Möglichkeit, gut beraten zu werden. Äh und äh traut euch auch, weil die Initiative muss von euch ausgehen, aber wenn ihr gute Beratung findet, habt ihr gute Chancen, euer Leben zu gewinnen. Wir verlinken mal die Seiten zum Jobcenter hier unter dem Video. Danke fürs Zusehen und wenn ihr Fragen habt, schreibt sie gerne in die Kommentare. Tschüss und bis nächstes Mal.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.033288948069241014
+  "src": "auto"
  },
  "aJvV7cHT3gg": {
   "channel": "Deutsch mit Marija",
@@ -66071,7 +66237,7 @@
  "foHqjh4bVjs": {
   "channel": "Deutsch mit Rieke",
   "lang": "de",
-  "checked": "2026-11-13T02:16:41+00:00",
+  "checked": "2026-11-26T05:54:58+00:00",
   "title": "C1: Diese Nomen-Verb-Verbindungen brauchst du!",
   "duration": 625,
   "published": "20251102",
@@ -66080,6 +66246,7 @@
   "pace": 136.5,
   "rare": 0.0251,
   "var": 0.7842,
+  "cl": null,
   "speech_s": 612.6,
   "tokens": 1394,
   "kw": [
@@ -66212,11 +66379,125 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "frage",
+    "wo du studieren wirst?” – “Nein, noch nicht. Es kommen mehrere Universitäten in Frage.”",
+    353,
+    362,
+    5.57,
+    7
+   ],
+   [
+    "gesagt",
+    "Deutsch abwechslungsreicher und lebendiger machen. - “Was hat eigentlich deine Mutter dazu gesagt,",
+    9,
+    16,
+    5.43,
+    6
+   ],
+   [
+    "kenntnis",
+    "– “Sie hat das einfach zur Kenntnis genommen und gar nichts dazu gesagt.”",
+    18,
+    24,
+    4.31,
+    5
+   ],
+   [
+    "informiert",
+    "Bescheid wissen über etwas, informiert sein über etwas. Ich frage hier also:",
+    455,
+    462,
+    4.58,
+    4
+   ],
+   [
+    "ferien",
+    "- „Nach den Ferien wollen wir die Renovierung des Badezimmers in Angriff nehmen.“",
+    135,
+    142,
+    4.18,
+    2
+   ],
+   [
+    "universitäten",
+    "wo du studieren wirst?” – “Nein, noch nicht. Es kommen mehrere Universitäten in Frage.”",
+    353,
+    362,
+    4.18,
+    2
+   ],
+   [
+    "nomen",
+    "Heute stelle ich euch einige Nomen-Verb-Verbindungen für",
+    0,
+    4,
+    3.33,
+    2
+   ],
+   [
+    "behalte",
+    "“Danke für den Vorschlag, ich behalte das Thema im Hinterkopf.” Damit sage ich:",
+    252,
+    259,
+    3.55,
+    1
+   ],
+   [
+    "empfange",
+    "dann empfange ich eine Information und verstehe die Information. Das bedeutet aber nicht,",
+    33,
+    41,
+    2.96,
+    1
+   ],
+   [
+    "abbricht",
+    "dass mein Sohn sein Studium abbricht”, aber das sagt sie ihm in dieser Situation nicht.",
+    52,
+    59,
+    2.95,
+    1
+   ],
+   [
+    "jobangebot",
+    "- “Meine Frau hat ein Jobangebot in München.” – “Oh,",
+    378,
+    383,
+    2.88,
+    1
+   ],
+   [
+    "skripte",
+    "außerdem Übungsaufgaben zu allen meinen Videos. Ihr könnt euch zudem die Skripte herunterladen,",
+    329,
+    337,
+    2.87,
+    1
+   ],
+   [
+    "abwechslungsreicher",
+    "Deutsch abwechslungsreicher und lebendiger machen. - “Was hat eigentlich deine Mutter dazu gesagt,",
+    9,
+    16,
+    2.74,
+    1
+   ],
+   [
+    "abspeichern",
+    "Also: Die Information, dass das Buch über 200 Jahre alt ist, musst du dir im Kopf abspeichern.",
+    223,
+    232,
+    2.68,
+    1
+   ]
+  ],
+  "voc": 0.027874564459930314,
   "tx": "Heute stelle ich euch einige Nomen-Verb-Verbindungen für Fortgeschrittene vor, die im Alltag sehr hilfreich und nützlich sind und die euer Deutsch abwechslungsreicher und lebendiger machen. - “Was hat eigentlich deine Mutter dazu gesagt, dass du dein Studium abbrechen willst?” – “Sie hat das einfach zur Kenntnis genommen und gar nichts dazu gesagt.” “Etwas zur Kenntnis nehmen” ist ein Ausdruck, den man häufiger mal hört und der recht praktisch ist. Wenn ich etwas zur Kenntnis nehme, dann empfange ich eine Information und verstehe die Information. Das bedeutet aber nicht, dass ich mit der … den Vorschlag der Mitarbeiter zur Kenntnis genommen.“ Das klingt ziemlich formell. Der Vorschlag ist bei der Geschäftsleitung angekommen, man hat ihn gelesen oder gehört – aber es wird nicht gesagt, ob man ihn gut findet oder ob man den Vorschlag umsetzen wird. Oder: - “Sie nahm seine Absage ruhig zur Kenntnis, obwohl sie enttäuscht war.” Hier hat er ihr vielleicht gesagt, dass er nicht zu ihrer Geburtstagsparty kommen wird. Er hat abgesagt. Und diese Absage hat sie einfach registriert und wahrgenommen. Sie war enttäuscht, hat ihm das aber nicht gezeigt. - “Ich will schon so lange Spanisch … Nächstes Jahr fange ich endlich damit an. Oder: - „Nach den Ferien wollen wir die Renovierung des Badezimmers in Angriff nehmen.“ Wir wollen das Badezimmer renovieren. Nach den Ferien fangen wir endlich damit an. Wenn man sagt, dass man etwas in Angriff nimmt, spricht man meistens von etwas Schwierigem. Es geht hier nicht um kleine Aufgaben, sondern um größere Projekte. Hier ist noch ein Beispiel: - “Hast du nicht mal gesagt, dass ihr in eine größere Wohnung ziehen wollt?” – “Ja, bisher hatten wir keine Zeit für die Wohnungssuche. Aber wir wollen das bald in Angriff nehmen.” Also: Wir … Idee. Wir sollten uns diese Idee merken und zu einem späteren Zeitpunkt noch einmal genauer darüber sprechen. Man speichert sozusagen einen Gedanken in seinem Kopf und holt ihn später wieder hervor, wenn er wichtig wird oder wenn man genauer darüber nachdenken möchte. Hier ist noch ein Beispiel: - “Das Buch wurde vor über 200 Jahren geschrieben. Das musst du beim Lesen im Hinterkopf behalten.” Also: Die Information, dass das Buch über 200 Jahre alt ist, musst du dir im Kopf abspeichern. Wenn du das Buch dann liest und manche Stellen im Buch vielleicht seltsam für dich sind, solltest du an … Ich merke mir das Thema und wenn ich dann später meine nächsten Videos plane, denke ich über das Thema nach und überlege, ob ich ein Video darüber drehen kann. Das ist ein sehr praktischer Ausdruck, den man in vielen Situationen gut benutzen kann – in privaten aber auch in beruflichen Situationen.- “In meinem Leben spielt Musik eine wichtige Rolle.” Wenn etwas eine Rolle spielt, dann ist es wichtig. Es bedeutet viel für jemanden. Ich sage hier: Musik ist ein wichtiger Teil meines Lebens. Hier ist noch ein Beispiel: - “Wo würdest du gerne Urlaub machen, wenn Geld keine Rolle spielen würde?” … ist doch nicht wichtig. Es ist nicht relevant. Mitglieder von Deutsch mit Rieke finden im Mitgliederbereich diese Woche ein Extra-Video mit weiteren Nomen-Verb-Verbindungen für Fortgeschrittene. Als Mitglieder bekommt ihr außerdem Übungsaufgaben zu allen meinen Videos. Ihr könnt euch zudem die Skripte herunterladen, bekommt Zugang zum Mitgliederbereich und könnt euch die neuesten Videos auch ohne Werbung anschauen. Und als Mitglieder unterstützt ihr auch noch meine Arbeit hier auf YouTube. Wenn du dabei sein möchtest, klick gerne hier oben oder auf den Link in der Videobeschreibung. - … Oder: - “Meine Frau hat ein Jobangebot in München.” – “Oh, interessant. Kommt ein Umzug nach München denn für euch in Frage?” Das bedeutet: Könnt ihr euch denn vorstellen, nach München zu ziehen? Ist ein Umzug nach München für euch möglich? Ich glaube, dass man diesen Ausdruck häufiger in seiner verneinten Form benutzt. Man sagt also zum Beispiel: - “Mein Chef hat mich gebeten, an Weihnachten zu arbeiten, aber das kommt für mich überhaupt nicht in Frage!” Also: Das kann ich mir überhaupt nicht vorstellen. Das ist nicht möglich für mich. Das mache ich auf keinen Fall. Oder: - … wurde auf nächste Woche verschoben.” – “Ach ja? Ist der Chef schon darüber im Bilde?” “Im Bilde über etwas sein”, das bedeutet: Bescheid wissen über etwas, informiert sein über etwas. Ich frage hier also: Ist der Chef schon informiert darüber, dass der Termin verschoben wurde? Weiß der Chef das schon? Dieser Ausdruck klingt etwas gehoben. Man hört ihn aber auch ab und zu mal im Alltag. Hier ist noch ein Beispiel: - “Mein Arzt ist immer über die neuesten Ergebnisse in der medizinischen Forschung im Bilde.” Mein Arzt weiß also immer informiert und kennt die neuesten Forschungsergebnisse. … ist “Bild”. Das war aber nicht immer so. Früher war der Dativ von “Bild” “Bilde”, da gab es im Dativ noch ein -e. Dieses Dativ-e sieht man in einigen alten Ausdrücken und Redewendungen auch heute noch. - „In dem Lied bringt der Künstler seine Traurigkeit über den Verlust eines Freundes zum Ausdruck.“ Wenn man etwas zum Ausdruck bringt, dann zeigt oder äußert man etwas so, dass andere es verstehen oder wahrnehmen können. Man macht seine Gedanken, Gefühle oder Meinungen deutlich. In seinem Lied zeigt er den Zuhörern, wie traurig er darüber ist, dass sein Freund nicht mehr da ist. Noch ein … das Geschenk gegeben hat, liebt. Sie hat es nicht direkt gesagt, aber das Geschenk drückt dieses Gefühl aus. Oder: - „Durch ihr Schweigen brachte sie ihre Ablehnung des Vorschlags zum Ausdruck.“ Das bedeutet: Sie sagte nichts, aber man konnte trotzdem erkennen, dass sie den Vorschlag ablehnt. Ihr Schweigen zeigte, dass sie den Vorschlag ablehnt. Welcher Ausdruck aus diesem Video hat dir am besten gefallen? Schreib doch mal einen Beispielsatz damit unten in die Kommentare. Und wenn dir das Video gefallen hat, vergiss nicht den Daumen nach oben. Vielen Dank und bis nächste Woche, macht’s gut!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.028423772609819122
+  "src": "cc"
  },
  "rvzXVjid5DA": {
   "channel": "comprehensible GERMANi",
@@ -67822,7 +68103,7 @@
  "b5jfqlTwpPw": {
   "channel": "Learn German with Anja",
   "lang": "de",
-  "checked": "2026-11-13T02:30:58+00:00",
+  "checked": "2026-11-26T05:25:14+00:00",
   "title": "Sound Like a Native! How to Express Feelings in German",
   "duration": 477,
   "published": "20250418",
@@ -67831,6 +68112,7 @@
   "pace": 124.5,
   "rare": 0.1019,
   "var": 0.6363,
+  "cl": null,
   "speech_s": 416.4,
   "tokens": 864,
   "kw": [
@@ -67995,11 +68277,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "for",
+    "like? For example, you can also say ich",
+    123,
+    131,
+    4.88,
+    10
+   ],
+   [
+    "finde",
+    "Now, hm, ich finde das interessant.",
+    240,
+    248,
+    5.3,
+    8
+   ],
+   [
+    "this",
+    "would you say I love this plant? Ich",
+    148,
+    155,
+    4.51,
+    5
+   ],
+   [
+    "love",
+    "weiter. Dann, ich liebe es. I love it.",
+    134,
+    143,
+    4.46,
+    5
+   ],
+   [
+    "but",
+    "ich bin durstig. But often we use ich",
+    218,
+    225,
+    4.05,
+    6
+   ],
+   [
+    "it's",
+    "remember it it's like a long while, so",
+    256,
+    262,
+    3.96,
+    5
+   ],
+   [
+    "means",
+    "Literally I have Angst, it means I am",
+    362,
+    368,
+    3.13,
+    3
+   ],
+   [
+    "feeling",
+    "are you feeling right now? Ich bin Now,",
+    185,
+    193,
+    3.59,
+    2
+   ],
+   [
+    "boring",
+    "How would you say I find that boring?",
+    250,
+    257,
+    2.46,
+    2
+   ],
+   [
+    "scared",
+    "am scared, we also say ich habe. Ich",
+    354,
+    363,
+    2.34,
+    2
+   ]
+  ],
+  "voc": 0.18710493046776233,
   "tx": "Ich bin ich bin müde, ich bin ich bin glücklich, ich bin ich bin sauer. Hallihallo, heute sprechen wir über Gefühle. Einen Rabatt. Der Rabatt ist der Discount. Erstmal, ich mag das. Ich mag das oder ich mag dich. Mag kommt von mögen. Mögen to like something. Zum Beispiel, ich mag. Du magst. Er, sie, es mag. Wir mögen. Ihr mögt und sie mögen. Mag ist ein little bit irregular. Ich mag diese Pflanze. Du auch? You too? Let me know in the comments, what do you like? For example, you can also say ich mag Fußball. I like football. Ich mag dich. Ich mag sie. Ich mag ihn und so weiter. Dann, ich liebe es. I love it. For example, how would you say I love you? Ich liebe dich. Ich liebe dich. How would you say I love this plant? Ich liebe diese Pflanze. And what do you think, how would you say I love her and I love him? Ich liebe sie und ich liebe ihn. Lieben plus Akkusativ. Now, to express how you are, you would say for example, ich bin ich bin müde. Ich bin Wuhu! Ich bin glücklich. Ich bin mhm ich bin sauer. And so, let me know in the comments, how are you feeling right now? Ich bin Now, how would you say I am cold and I am warm or I am hot? Now, you don't say ich bin, you would say mir ist mir ist kalt und mir ist huh warm. And how would you say I am hot? Wuhu! Mir ist heiß. Mir ist heiß. So now, to say I am hungry or I am thirsty, in German you could say ich bin hungrig. Ich bin hungrig oder ich bin durstig. But often we use ich habe. For example, ich habe Hunger. There's a song like this, wir haben Hunger Hunger Haben Hunger, Hunger, Hunger, haben Durst. And how would you say I am thirsty? What do you think? Ich habe Durst. Now, hm, ich finde das interessant. I find that interesting. Ich finde das interessant. How would you say I find that boring? Ich finde das, ah, langweilig. remember it it's like a long while, so it's kind of boring. The time passes slowly. Ich finde das langweilig. How would you say I find that great or awesome? Ich finde das super oder ich finde das großartig oder ich finde das geil. Geil can also mean horny, but normally nowadays we use it for saying something is awesome. Das ist geil. How would you say I don't like it at all? Ich finde das scheiße. Scheiße. Now, to say I like that or I don't like that, you can say ich mag das oder ich mag das nicht. But there is another way to say that and that is das gefällt mir, das gefällt mir. die Bluse gefällt mir oder die Hose gefällt mir. would you say I don't like that? Das gefällt mir nicht. Das gefällt mir nicht. Ah, diese Pflanze? Mir gefällt sie. Gefällt sie? Hier? Ja, mir gefällt die Pflanze. Nein, mir gefällt sie nicht. How would you say it this makes me feel something? We say das macht mich for example sad. Das macht mich traurig. Das macht mich glücklich. Das macht mich wütend. Wütend or what I told you before, sauer. Das macht mich so sauer. Das macht mich so wütend. Das macht mich oder es macht mich. You can also say. For this one I am scared, we also say ich habe. Ich habe Angst. Ich habe Angst. Literally I have Angst, it means I am scared. And then we also have something, it's a false friend. When you say ich habe Lust, do you know what that means? It means I feel like doing something, yeah? It can be sexual, but normally we use it for when you feel like something, z.B. ich habe Lust Deutsch zu lernen. I feel like learning German. And there goes a zu in there, you see that? Or for example, how would you say I feel like playing Football? Ich habe Lust Fußball zu spielen. So you see, this is something we use quite a lot. Ich habe Lust zu something. And the last one we say quite a lot, but it's a bit more complicated. It's to say I am worried. Yeah, the easy way to say it, even though we don't use it that often, is ich bin besorgt. Literally I am worried. But normally we say I'm making worries to myself, which is true. Normally we do it to ourselves. And that is ich mache mir Sorgen. Literally ich mache I make mir to me Sorgen worries. Let's say it together. Ich ich mache mache mir mir Sorgen Sorgen worries. And sometimes to calm somebody down, for example, we say mach dir keine Sorgen. Don't worry. Mach dir keine Sorgen. Or you can just say the short version keine Sorge. Keine Sorge. No worries. So now, let me know in the comments, how are you feeling today? You can say ich bin glücklich. Ich bin traurig, ich bin krank, ich habe Hunger, danke schön und tschüss.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.18710493046776233
+  "src": "auto"
  },
  "2jmp4b-h4cc": {
   "channel": "Get Germanized",
@@ -68534,7 +68898,7 @@
  "oj17SEeylz0": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-13T02:35:16+00:00",
+  "checked": "2026-11-26T05:29:11+00:00",
   "title": "You Can Learn German in 2026! / Gentle German Comprehensible Input Intermediate (eng ger subtitles)",
   "duration": 425,
   "published": "20251228",
@@ -68543,6 +68907,7 @@
   "pace": 75.4,
   "rare": 0.0447,
   "var": 0.7982,
+  "cl": null,
   "speech_s": 391.7,
   "tokens": 492,
   "kw": [
@@ -68627,16 +68992,178 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "nächsten",
+    "euch im ganzen nächsten Jahr keine Sorgen um Fehler zu machen.",
+    110,
+    125,
+    5.3,
+    4
+   ],
+   [
+    "person",
+    "Jede Person, die ein Problem damit hat,",
+    131,
+    141,
+    5.29,
+    4
+   ],
+   [
+    "kommentare",
+    "Kommentare euer Lieblingsdeutsches",
+    304,
+    312,
+    4.51,
+    2
+   ],
+   [
+    "riesigen",
+    "riesigen Vorsätze für das nächste Jahr.",
+    212,
+    223,
+    4.29,
+    2
+   ],
+   [
+    "unendlich",
+    "Es gibt unendlich viel zum Auswendig",
+    263,
+    269,
+    4.17,
+    1
+   ],
+   [
+    "gebt",
+    "Denn ich weiß, dass ihr euch Mühe gebt",
+    81,
+    93,
+    4.13,
+    1
+   ],
+   [
+    "äusseren",
+    "",
+    0,
+    0,
+    4.13,
+    1
+   ],
+   [
+    "unterrichtet",
+    "Unterrichtet euch viel mehr als nicht",
+    294,
+    301,
+    4.1,
+    1
+   ],
+   [
+    "anschliessen",
+    "",
+    0,
+    0,
+    4.07,
+    1
+   ],
+   [
+    "einflüssen",
+    "äußeren Einflüssen stressen lasst. Lasst euch Zeit, seid geduldig und vor",
+    349,
+    363,
+    3.51,
+    1
+   ],
+   [
+    "entspannte",
+    "nächste Jahr eine entspannte Lärerfahrung.",
+    332,
+    345,
+    3.5,
+    1
+   ],
+   [
+    "gigantischen",
+    "Macht euch keine gigantischen riesigen Vorsätze für das nächste Jahr.",
+    208,
+    223,
+    3.44,
+    1
+   ],
+   [
+    "cham",
+    "Cham. ",
+    416,
+    420,
+    3.35,
+    1
+   ],
+   [
+    "sprecht",
+    "sprecht auf Deutsch, auch wenn ihr es falsch macht.",
+    285,
+    295,
+    3.32,
+    1
+   ],
+   [
+    "stressen",
+    "äußeren Einflüssen stressen lasst. Lasst euch Zeit, seid geduldig und vor",
+    349,
+    363,
+    2.95,
+    1
+   ],
+   [
+    "lustigste",
+    "oder lustigste deutsche Wort, das ihr im",
+    314,
+    321,
+    2.92,
+    1
+   ],
+   [
+    "hinbekommt",
+    "hinbekommt. Ich glaube an euch",
+    373,
+    384,
+    2.86,
+    1
+   ],
+   [
+    "gechillt",
+    "Ich hoffe, dass ihr gechillt in das neue Jahr geht und euch nicht von",
+    338,
+    355,
+    2.83,
+    1
+   ],
+   [
+    "vorsätzen",
+    "neuen Vorsätzen und ich wollte die Gelegenheit in diesem",
+    45,
+    55,
+    2.59,
+    1
+   ],
+   [
+    "patreon",
+    "Vielen, vielen Dank an all die Patreon",
+    390,
+    398,
+    2.56,
+    1
+   ]
+  ],
+  "voc": 0.046228710462287104,
   "tx": "Hallo meine Lieben, willkommen zurück zu einer neuen Folge von Chill German. Das neue Jahr kommt immer mit großen neuen Vorsätzen und ich wollte die Gelegenheit in diesem Video nutzen, um euch ein bisschen Motivation zu geben. Denn wisst ihr was? Ich bin mir hundertprozentig sicher, dass alles, was ihr euch beim Sprachlernen für das nächste Jahr vorgenommen habt, auf jeden Fall erfolgreich sein wird. Denn ich weiß, dass ihr euch Mühe gebt und Mühe ist 90% der Arbeit. Wenn ich euch eine Sache vorschlagen kann, von der ich denke, dass sie das Wichtigste beim Sprachlernen ist, dann nehmt euch vor, euch im ganzen nächsten Jahr keine Sorgen um Fehler zu machen. Ihr werdet ganz viele Fehler machen, aber das ist völlig normal und kein Problem. Jede Person, die ein Problem damit hat, dass ihr etwas falsch aussprecht, dass ihr falsche Grammatik benutzt, dass ihr ein Wort falsch versteht. Jede Person, die damit ein Problem hat, ist keine Person, die wichtig ist. Fehler gehören zum Lernen und man lernt am besten und am schnellsten, wenn man aufhört sich um diese Fehler zu sorgen. Ich mache andauernd Fehler. Manchmal sind diese Fehler auch in diesen Videos drin, aber die meisten davon schneiden wir heraus. Auch Deutsche machen ständig Fehler. Deutsche Personen wissen oft noch weniger, wie ihre eigene Sprache funktioniert, wie ihr. Macht euch keine gigantischen riesigen Vorsätze für das nächste Jahr. Nehmt einfach einen Schritt nach dem Nächsten. Kleine Erfolge, kleine Ziele ergeben zusammen einen riesigen Erfolg. Setzt euch nicht zu viel unter Druck. geht die Sache entspannt an und ihr werdet merken, je weniger ihr euch an das Ziel festklammert, desto schneller und besser werdet ihr es erreichen. Deutsch ist eine komplizierte, anstrengende Sprache zu lernen. Es gibt unendlich viel zum Auswendig lernen. Also findet einen Weg Spaß dabei zu haben. Schaut Filme auf Deutsch, guckt Videos auf Deutsch, hört deutsche Musik und sprecht auf Deutsch, auch wenn ihr es falsch macht. Falsch auf Deutsch sprechen. Unterrichtet euch viel mehr als nicht auf Deutsch zu sprechen. Ich möchte, dass ihr mir unten in die Kommentare euer Lieblingsdeutsches Wort schreibt. Was ist das interessanteste oder lustigste deutsche Wort, das ihr im Jahr 2025 gelernt habt? Ich freue mich auf eure Kommentare. Ich wünsche mir für euch, für das nächste Jahr eine entspannte Lärerfahrung. Ich hoffe, dass ihr gechillt in das neue Jahr geht und euch nicht von äußeren Einflüssen stressen lasst. Lasst euch Zeit, seid geduldig und vor allem seid nett zu der wichtigsten Person in eurer Lernerfahrung, euch selbst. Ich bin mir hundertprozentig sicher, dass ihr das hinbekommt. Ich glaube an euch und ich freue mich schon ganz ganz toll auf ein neues Jahr mit euch hier auf unserem Kanal. Vielen, vielen Dank an all die Patreon Leute, die in diesem Jahr zu uns gestoßen sind und willkommen an alle, die sich uns im nächsten Jahr anschließen werden. Ich habe euch alle lieb. Wir sehen uns im nächsten Video und bis dahin Cham.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.046228710462287104
+  "src": "auto"
  },
  "NIYYO9TaFWc": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-13T02:35:20+00:00",
+  "checked": "2026-11-26T05:29:15+00:00",
   "title": "Komm mit zum Weihnachtsmarkt! / Real-life German Comprehensible Input Intermediate A2 B1",
   "duration": 913,
   "published": "20251221",
@@ -68645,6 +69172,7 @@
   "pace": 98.0,
   "rare": 0.0392,
   "var": 0.7802,
+  "cl": null,
   "speech_s": 813.0,
   "tokens": 1328,
   "kw": [
@@ -68793,16 +69321,114 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "eigentlich",
+    "aus welchem Land kommst du eigentlich?",
+    381,
+    388,
+    5.58,
+    5
+   ],
+   [
+    "z.b",
+    "Das ist z.B. ein Unterschied zu anderen",
+    134,
+    143,
+    5.03,
+    5
+   ],
+   [
+    "freunden",
+    "Freunden und Familie, meistens zum Abend.",
+    120,
+    129,
+    4.71,
+    3
+   ],
+   [
+    "normalerweise",
+    "darstellt, gibt es normalerweise in klein zu Hause mit ein paar Kerzen,",
+    72,
+    84,
+    4.51,
+    3
+   ],
+   [
+    "geglaubt",
+    "Weihnachtsmann geglaubt oder war das für",
+    596,
+    602,
+    4.08,
+    4
+   ],
+   [
+    "grossvater",
+    "",
+    0,
+    0,
+    4.07,
+    3
+   ],
+   [
+    "brennende",
+    "brennende Tasse bekommt. Darf ich auch probieren?",
+    305,
+    314,
+    3.58,
+    1
+   ],
+   [
+    "dekoration",
+    "Ton, von Dekoration über Seifenschalen, kleine Steine zum Verschenken",
+    358,
+    368,
+    3.55,
+    1
+   ],
+   [
+    "weihnachtszeit",
+    "bin ich gerne zur Weihnachtszeit in den",
+    684,
+    691,
+    3.55,
+    1
+   ],
+   [
+    "weihnachtsmärkte",
+    "Am beliebtesten sind Weihnachtsmärkte natürlich abends und nachts, wenn es",
+    841,
+    851,
+    2.95,
+    1
+   ],
+   [
+    "sossen",
+    "",
+    0,
+    0,
+    2.84,
+    1
+   ],
+   [
+    "selbstgemachtes",
+    "selbstgemachtes und Krimskrams, also alles mögliche.",
+    336,
+    346,
+    2.75,
+    1
+   ]
+  ],
+  "voc": 0.03220035778175313,
   "tx": "Bald ist es soweit. Bald ist Weihnachten. Hallo und herzlich willkommen zu einer neuen Folge von Jman. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Um dieses Thema geht es heute in diesem Video. Ich spreche über Weihnachten in Deutschland und zu diesem Thema machen wir etwas ganz typisch Deutsches. Wir gehen auf einen Weihnachtsmarkt. Aber nicht dieser Weihnachtsmarkt. Das ist nur ein ganz kleiner neben dem Hannover Hauptbahnhof. Wir gehen in die Altstadt zum Weihnachtsmarkt. Das Objekt, das dieses Gebäude darstellt, gibt es normalerweise in klein zu Hause mit ein paar Kerzen, … Am 24. Dezember trifft man sich mit Freunden und Familie, meistens zum Abend. Man ist gemeinsam ein sehr großes Abendessen und es gibt Geschenke. Das ist z.B. ein Unterschied zu anderen Ländern. In den USA gibt es z.B. erst am 25. am Morgen die Geschenke. In Deutschland machen wir das am 24. am Abend. Der 25. Und der 26. Dezember sind dann Ruhatetage. Dort verbringt man Zeit mit Familie und mit Freunden und ruht sich aus, entspannt sich. Am 24. Dezember gehen religiöse Menschen auch oft in die Kirche. Heutzutage ist Weihnachten nicht unbedingt ein religiöses Fest. Viele Menschen, die nicht … heiße Getränke und ganz beliebt. Und was ich normalerweise bestelle, ist ein Glühwein. Ein Glühwein ist ein heißer Wein, der mit verschiedenen Gewürzen gemischt wird. Aber Palina hat jetzt keinen Glühwein bestellt. Palina, was hast du denn jetzt bestellt? Eine Feuerzangenbohle. Und kannst du uns erzählen, was das ist? Ich weiß auch nicht genau, was das ist. Ein sehr guter Start. Also das ist rum mit, ich glaube Gewürzen und verbrannten Zucker und es ist sehr süß und ich mag es besser als Glühweal und es sieht natürlich auch sehr beeindruckend aus, wenn man eine brennende Tasse bekommt. Darf … sehe schon ein paar interessante Dinge. Was verkauft ihr denn hier? Wir verkaufen alle möglichen Sachen aus Ton, von Dekoration über Seifenschalen, kleine Steine zum Verschenken und auch ansonsten viel Dekorationsmittel zum Aufhängen, zum hinstellen. Super, vielen Dank. Sag mal, Palina, aus welchem Land kommst du eigentlich? Ich komme aus Russland. Oh wow, aus Russland. Kannst du mir mal sagen, wie man Weihnachten in Russland feiert? Wie ist es dort? Also, man feiert eigentlich kein Weihnachten in Russland. Ja, also ich bin mir sicher, dass es Leute gibt, die Weihnachten feiern. Also, es … es ist nicht so wichtig wie Silvester. Also Silvester in Russland sieht ein bisschen wie Weihnachten in Deutschland aus, würde ich sagen. Verstehe. Und kommt dann am 6. Januar auch der Weihnachtsmann in Russland? Äh nein, der Weihnachtsmann kommt am Silvester. Silvester wird ein bisschen wie Weihnachten gefeiert und der Weihnachtsmann kommt auch am Silvester und alle bekommen Geschenke auch am Silvester und nicht am Weihnachten. Und wenn jetzt der Weihnachtsmann an Silvester kommt, wie sagt man denn Weihnachtsmann auf Russisch? Detmaros. Setmaros. Und was bedeutet das? Ähm Großvater Frost. … das Christkind und bringt Geschenke. Beides existiert. Es hängt ein bisschen von der Familie ab, wer wo kommt. Du lebst ja jetzt schon eine ganze Weile hier in Deutschland. Hat sich deine Beziehung zu Weihnachten auf irgendeine Weise geändert? Ja, ich lebe schon seit 13 Jahren in Deutschland und deswegen feier ich auch ein bisschen schon Weihnachten. Ähm, aber es fühl sich nicht an, als wäre das ein sehr wichtiges Fest für mich. Z.B. jetzt, wo wir verheiratet sind, dann f ich ganz oft Weihnachten mit deiner Familie. Wir fahren zusammen und dann Silvester verbringe ich meistens mit meiner … mehr. Ähm, das finde ich sehr, sehr schade. Hast du jemals an Großvater Frost an den Weihnachtsmann geglaubt oder war das für dich immer eine Geschichte? Ich habe für sehr langer Zeit geglaubt. Für sehr langer Zeit. Ja, ich habe bis ich 10 oder 11 war geglaubt und seit dieser Zeit, seitdem ich nicht mehr glaube ist äh Silvester nicht äh nicht ganz so ähm ja, nicht ganz so magisch. Ich habe da niemals dran geglaubt. Ich bin da viel zu schlau für. Ich war sehr dumm und ich habe sehr lange geklaubt. Bitte fragt nicht meine Mutter, sie würde das äh sie würde etwas anderes sagen. Und wie … es ist viel zu teuer geworden. Es war immer zu teuer für mich, aber jetzt ist es wirklich teuer geworden, finde ich. Und man kann sich nichts mehr leisten. Mm. Und deswegen wir gehen eigentlich nie zum Weihnachtsmarkt. Das ist das erste Mal dieses Jahr und nur für dieses Video. Ja, wir sind tatsächlich nur für dieses Video hier auf den Weihnachtsmarkt gegangen. Als Kind, als ich noch in der Schule war, bin ich gerne zur Weihnachtszeit in den Pausen zum Weihnachtsmarkt in der Nähe gegangen, um mir dort Pommes oder so zu kaufen. Aber heutzutage Ja. Es ist für mich auch ein bisschen zu … kriegen wir gleich zurück, wenn wir die Tasse zurückbringen, aber das sind immer noch, aber das sind immer noch 6,50 € für ein kleines Getränk. Das ist nicht gerade günstig. Wir holen uns jetzt etwas zu essen, dass man typischerweise immer auf Weihnachtsmärkten bekommt. Pilze Portion und welchen West oder? Knoblauch Joghurt und vegan. Magst du ein Brot mit drauf? Äh gerne. Ja, sag mal nicht mal oder 7 € bitte. Oh, das wird passen. Das ist mir am liebsten soll schmecken. Danke sehr. Es gibt diese Champignons eigentlich schon immer auf jedem Weihnachtsmarkt, auf den ich gehe, aber ich habe … wenn es draußen dunkel wird, weil dann die ganzen Lichter angehen und der Weihnachtsmarkt ganz hell funkelt. Und jetzt, wo die Sonne untergeht und das Licht verschwindet und das Filmen ein bisschen schwieriger wird, haben wir das Ende von unserem Weihnachtsvideo erreicht. Ich hoffe, dass euch dieses Video gefallen hat und ich hoffe, dass ihr ein paar schöne Feiertage vor euch habt. Wie verbringt ihr diese Zeit? Erzählt es uns in den Kommentaren. Feiert ihr Weihnachten, feiert ihr keinen Weihnachten? Und was macht ihr zu dieser Zeit? Wir freuen uns von euch zu hören und bis dahin Jam Gut.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.02804878048780488
+  "src": "auto"
  },
  "epdHosO_hpE": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-13T02:36:08+00:00",
+  "checked": "2026-11-26T05:29:22+00:00",
   "title": "Was ist mit Lena passiert?",
   "duration": 488,
   "published": "20260528",
@@ -68811,6 +69437,7 @@
   "pace": 175.7,
   "rare": 0.0318,
   "var": 0.7735,
+  "cl": null,
   "speech_s": 386.9,
   "tokens": 1133,
   "kw": [
@@ -68943,11 +69570,125 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "lass",
+    "Lass uns in mein Büro gehen!",
+    8,
+    11,
+    5.0,
+    8
+   ],
+   [
+    "komm",
+    "Komm bitte mit in mein Büro!",
+    18,
+    21,
+    4.91,
+    8
+   ],
+   [
+    "büro",
+    "Lass uns in mein Büro gehen!",
+    8,
+    11,
+    4.73,
+    3
+   ],
+   [
+    "siehst",
+    "Siehst du es schon? Ja, was ist das?",
+    381,
+    384,
+    4.65,
+    3
+   ],
+   [
+    "mathe",
+    "Mathe ist nicht einfach! Was redest du da, Mia?",
+    93,
+    97,
+    4.12,
+    2
+   ],
+   [
+    "baustelle",
+    "Diese Baustelle ist irgendwie komisch! Komm jetzt, Mia!",
+    48,
+    52,
+    4.04,
+    2
+   ],
+   [
+    "erfahre",
+    "Jetzt erfahre ich, was mit Lena ist!",
+    391,
+    395,
+    3.59,
+    1
+   ],
+   [
+    "wegwerfen",
+    "Ich wollte nur meinen Kaugummi wegwerfen!",
+    194,
+    198,
+    3.56,
+    1
+   ],
+   [
+    "stecke",
+    "Ich stecke fest! Ich bekomme keine Luft!",
+    347,
+    350,
+    3.55,
+    1
+   ],
+   [
+    "erlaube",
+    "Das erlaube ich nicht! Ist ja gut! Chill mal!",
+    197,
+    200,
+    3.52,
+    1
+   ],
+   [
+    "folg",
+    "Na gut! Dann folg mir! Was ist hier los?",
+    403,
+    409,
+    2.95,
+    1
+   ],
+   [
+    "ertrinkt",
+    "Lena ertrinkt gerade! Was ist dann passiert?",
+    308,
+    313,
+    2.89,
+    1
+   ],
+   [
+    "beeil",
+    "Beeil dich! Ich ertrinke gleich!",
+    319,
+    322,
+    2.7,
+    1
+   ],
+   [
+    "privatunterricht",
+    "Ich mache Privatunterricht mit dir! Oh, wie cool!",
+    124,
+    128,
+    2.64,
+    1
+   ]
+  ],
+  "voc": 0.04512820512820513,
   "tx": "Wo ist, Lena? Mia? Sag es mir! Wo ist Lena? Ich werde dir alles erzählen! Dann mach endlich! Was ist mit Lena passiert? Lass uns in mein Büro gehen! Sag mir einfach, was mit Lena ist! Nein! Wir brauchen Ruhe dafür! Oh mein Gott! Geht es Lena nicht gut? Komm bitte mit in mein Büro! Da erzähle ich dir, was passiert ist! Ich habe so Angst! Bitte sei nicht tot, Lena! Ich flehe dich an! Sehr gut! Was machst du da? Äh, nichts! Was ist mit Lena passiert? Komm, wir gehen in mein Büro! Äh, hier wird gebaut! Ich habe doch gar nicht gefragt! Komm, lass uns über Lena reden! Ich hoffe, dir geht es gut, … komisch! Komm jetzt, Mia! Ich muss wissen, was mit Lena ist! Das war knapp! Was war knapp? Äh, nichts! Komm, lass uns über Lena reden! Na gut! Oh nein! Das Bild! Was ist jetzt mit Lena? Äh! Setz dich hin! Dann reden wir! Da ist ein Stuhl! Äh.. Auf dem Stuhl kann ich sitzen! Nein! Das kannst du nicht! Wieso nicht? Mia darf das Bild nicht sehen! Äh, der Stuhl ist kaputt! Setz dich auf den Sessel hinter dir! Hm, na gut! Ich will jetzt endlich wissen, was mit Lena ist! Das, was ich dir jetzt sage, wird nicht einfach, Mia! Eine Matheaufgabe? Äh, was? Mathe ist nicht einfach! Was redest … Sag mir jetzt, was mit Lena ist! Du lenkst nur ab! Du redest doch über Mathe! Ich habe Angst, Frau Stümpel! Wovor hast du Angst? Vor dem, was mit Lena passiert ist! Also willst du es nicht wissen? Doch, ich muss es wissen! Sag es mir! Lena ist.. Was ist mit Lena? Es war vor 2 Wochen, Mia! vor 2 Wochen Wir machen jetzt Sportunterricht am Fluss! Wo sind denn die anderen Schüler? Ich mache Privatunterricht mit dir! Oh, wie cool! Geh mal näher ans Wasser! Äh, na gut! So gut? Noch näher.. Hm, okay! Noch näher geht nicht! Sehr gut! Ihr habt Sport am Fluss gemacht? Ja, es war schönes Wetter! Und … erzähle weiter! Was soll ich jetzt machen? Mach Hampelmänner! Okay, die kann ich gut! Voll easy! Und jetzt dreh dich um! Ist das so gut? Ja, mach genauso weiter! Aber guck nicht zu mir! Ja, meine Lieblingslehrerin! Gleich ist es vorbei! Lena hat also Hampelmänner gemacht! Ja, direkt am Fluss! Was ist dann passiert? Lena ist.. Ich will nicht weiterreden, Mia! Sag mir, was passiert ist! Ich halte es nicht mehr aus! Ich muss wissen, was mit meiner Freundin passiert ist! Ich habe eine bessere Idee, Mia! Welche Idee? Ich zeige es dir! Komm mit zum Fluss! Äh, na gut! Ich werfe schnell meinen … Alter! Ich wollte nur meinen Kaugummi wegwerfen! Das erlaube ich nicht! Ist ja gut! Chill mal! Lass uns zum Fluss gehen! Äh, ja! Ich finde diese Baustelle irgendwie komisch! Äh, warum? Was wird da oben gebaut? Das geht dich nichts an! Du bist hier nur eine Schülerin! Ich gehe da einfach später hoch! Das darfst du nicht! Da steht Stop! Du darfst hier also nicht nach oben gehen! Hast du das verstanden? Sie verhalten sich komisch, Frau Stümpel! Hast du das verstanden, habe ich gefragt! Ja! Supi, Mia! Lass uns zum Fluss gehen! Das Leben ist schön! Lululu! Das ist so krank! Komm, wir gehen zum … was mit Lena passiert ist! Frau Stümpel verheimlicht etwas! Ich werde nach da oben gehen! Aber erst muss ich rausfinden, wo Lena ist! Ich habe so Angst! Haltet den Mund! Wir haben doch gar nichts gesagt! Oh stimmt! Hallo, Leute! Mia ist wieder da! Wisst ihr, wo Lena ist? Sie ist.. Sarah? Ich halte meinen Mund! Tuh es nicht, Melanie! Misch dich nicht ein, David! Willst du mir etwas sagen, Herr Becker? Äh, nein! Ich verstehe gar nichts mehr! Ich will doch nur wissen, wo Lena ist! Lass uns zum Fluss gehen! Da wirst du alles verstehen! Ich habe Angst vor der Wahrheit! Du kannst auch hier mit … Ich will wissen, wo Lena ist! Dann komm mit mir! Okay! Hier habt ihr Sport gemacht, oder? Ja, ich erzähle weiter! Wie mache ich das, Frau Stümpel? Sehr gut! Guck aber nicht nach hinten! Ich kann nicht mehr! Ich glaube, das reicht! Lena ist ins Wasser gefallen! Oh nein! Es war ein Unfall! Es läuft alles nach Plan! Ich brauche Hilfe! Oh nein! Lena ertrinkt gerade! Was ist dann passiert? Ich habe sofort Hilfe geholt! Dann hole ich mal Hilfe! Ich bin müde! Beeil dich! Ich ertrinke gleich! Jaja, Lena! Ich hole ein Seil! Oh, ein schöner Baumstamm! Der Baumstamm ist einfach so ins Wasser gefallen? … aufhalten! Was ist dann passiert? Ich traue mich nicht, es zu erzählen! Erzähl es! Oh nein! Der Baumstamm! Oh nein! Oh verdammt! Lena! Ich stecke fest! Ich bekomme keine Luft! Ich werde sterben! Ich habe es geschafft! Lena ist gleich tot! Nein, eine Sache muss ich noch machen! Mein Plan ist so genial! Also ist Lena ertrunken? Nein, viel schlimmer! Was kann denn noch schlimmer sein? Es war schrecklich! Ich muss es wissen! Ich zeige es dir einfach, Mia! Was willst du mir zeigen? Steig in das Boot, Mia! Wir fahren zur anderen Seite! Na gut! Siehst du es schon? Ja, was ist das? Es ist zu weit … Ich komme! Lass mich vorgehen! Jetzt erfahre ich, was mit Lena ist! Ich sehe etwas! Ich möchte dich warnen, Mia! Warum? Das was du gleich, siehst wird heftig! Ich muss es sehen! Na gut! Dann folg mir! Was ist hier los? Es tut mir leid, Mia! Ist das echt Lena? Ja, siehst du doch! Ich sehe nur Lenas Kopf! Was ist passiert? Ich erkläre es dir! Hilf mir, Hai! Sonst ertrinke ich! Ein Hai hat Lena getötet! Das kann ich nicht glauben! Warum nicht? Äh, ich meine es ist die Wahrheit, Mia! Oh mein Gott! Lena! Es läuft zu gut! ein paar Stunden später Lena ist wirklich tot! Sie ist bestimmt einsam … Kopf und schlafe zusammen mit ihr! Gleich bist du wieder in deinem Bett, Lena! Dann sind wir wieder Zimmernachbarn! Ich komme meine Freundin! Ich muss zum Fluss laufen! Was war das? Ich habe doch etwas gehört! Ich könnte mal gucken, was da oben ist! Ist jemand auf dem Flur? Wir haben Nachtruhe! Oh nein! Ich muss zu Lena! Also zu ihrem Kopf.. Hallo, Lena! Ich kann nicht glauben, dass du tot bist! Ich bringe dich jetzt in unser Zimmer! Lena fühlt sich irgendwie komisch an! Was ist hier los? Wollt ihr wissen, wie es weitergeht? Dann gebt einen Daumen hoch! Und klickt solange auf diese Folge!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.046038543897216275
+  "src": "cc"
  },
  "X_f6fzuqHqM": {
   "channel": "Authentic German Learning",
@@ -69228,7 +69969,7 @@
  "OeSez_iC5tk": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
   "lang": "de",
-  "checked": "2026-11-13T02:38:23+00:00",
+  "checked": "2026-11-26T05:31:18+00:00",
   "title": "Blueys Schwimmschule! 🤿 | Ein urkomischer Moment aus Staffel 2 | Bluey - Deutsch Offizieller Kanal",
   "duration": 4152,
   "published": "20260410",
@@ -69237,6 +69978,7 @@
   "pace": 141.7,
   "rare": 0.0746,
   "var": 0.8135,
+  "cl": null,
   "speech_s": 3851.2,
   "tokens": 9098,
   "kw": [
@@ -69401,11 +70143,93 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "bist",
+    "Genauso ist es. Du bist jetzt ein großer",
+    37,
+    41,
+    5.61,
+    32
+   ],
+   [
+    "hey",
+    "Hey Bandit, wie läuft bei dir?",
+    208,
+    213,
+    4.93,
+    32
+   ],
+   [
+    "guck",
+    "Guck mal, Dad, wir haben ein",
+    488,
+    492,
+    4.37,
+    9
+   ],
+   [
+    "louis",
+    "Louis, lass es. Klar doch, Alter.",
+    673,
+    680,
+    4.34,
+    8
+   ],
+   [
+    "mom",
+    "an. Keine Sorge, Mom. Ich werde sie ganz",
+    283,
+    287,
+    3.78,
+    11
+   ],
+   [
+    "malen",
+    "du ja lieber was malen gehen.",
+    873,
+    878,
+    4.11,
+    9
+   ],
+   [
+    "fahrkarte",
+    "Fahrkarte. Oh ja, hier ist sie schon.",
+    1606,
+    1611,
+    3.38,
+    5
+   ],
+   [
+    "indy",
+    "Indy, guck mal. Indy, die Zahnf hat mir fünf",
+    2450,
+    2458,
+    3.01,
+    5
+   ],
+   [
+    "weiblein",
+    "Mein Weiblein? Vielleicht ist das Gürtelmannsfeind. Was hast du noch",
+    3667,
+    3673,
+    2.6,
+    5
+   ],
+   [
+    "pferdchen",
+    "Nein, das ist ein Pferdchen. Ja, aber man nennt die Figur Springer.",
+    836,
+    843,
+    2.66,
+    4
+   ]
+  ],
+  "voc": 0.06127080181543117,
   "tx": "Familienberatung. Wir können keine großen Fische werden. Ja, diese Margaret gefällt mir überhaupt gar nicht. Sie ist eine ganz gemeine alte Wassermelone. Ja, ich will Karen zurück. Wie wä es, wenn wir uns weigang zu machen, was sie sagt? Ja, wenn wir zusammenhalten, was will sie dann machen? Was meinst du, Mirfindor? Miror? Und dann haben sie gesagt, dass sie überhaupt nicht auf sie hören wollen und dass sie Karen zurück haben wollen. Ausgezeichnet gepetzt, Schätzchen. Ungezogenheit wird bestraft. Mifendor, hast du uns etwa verpetzt? Das ist erlaubt. Genauso ist es. Du bist jetzt ein großer … denn die Ziellinie? Hier läuft überhaupt gar nichts um die Wette. Wir wollen einfach nur Spaß haben. Genau. Oh, ich verstehe. Was ist denn hier los? Ich bin jetzt ein Huhn. Warum gagad denn plötzlich wie ein Huhn? Er sagt, dass du Angst hast. Angst vor Hühnern? Nein, vor einem Wettlauf. Kennt ihr etwa keine feigen Hühner? Nein. Und die Kinder müssen auch nicht alles in einen Wettkampf verwandeln. Das ist totaler Quatsch. Kommt schon. Der Schlauch ist die Ziellinie. Auf die Plätze. Fertig. Nein, sie machen keinen Wettlauf. Ja, genau. Uns reicht es Spaß zu haben. Der Sieger kriegt … Siehst du, es gibt zwei Pferdchen. Okay. Und auch zwei Mauerköpfe und zwei Erbsenköpfchen. Das sind Läufer und ganz viele von den blauen Bauern. Also, dann ist das hier dein Team und das hier ist meins. Danke, Blu. Sehr schön, Blue. Nur leider geht das nicht. Das ist Laufenschlaukopf. Warte mal, es gibt ja nur eine Kronenfrau und ein Hochzeitstortenkopf. Ah, also das ist der König und das ist die Königin. König und Königin. Kann ich die Königin haben? Louis. Ähm, klar. Danke. Ihr könnt nicht einfach ist gut. Bist du denn auch wirklich mit dem König zufrieden? Ja, ich finde das okay. Und … das macht dann vier Talerscheine, bitte. Ah, wenn wir bezahlen, ist das Spiel vorbei. Was hast du denn jetzt vor, Spatz? Ich weiß was. Laufila. Okay. Wow. Hey, die. Das Spiel geht noch weiter. Das ist klasse. Spaß. Polizei! Hat hier jemand die Polizei gerufen? Ja, sie ist da lang gerannt. Halt! Polizei. Ha, reite los, Flamingo, reite los. Boah, Muffin, du bist echt richtig müde. Hallo. Hi. Ich würde gerne einen Tisch reservieren. Name? Romeo, wie war der noch mal? Von Blumental. Von Blumental natürlich. Okay, Klasse. Wir sehen uns dann. Did du Hi, haben Sie ein Tisch reserviert? Ja, von … lassen. Wo wohnt er denn? Ich weiß es nicht. Winon, ich weiß nur, dass er nicht bei meiner Moment. Gut, dann suche ich einfach seinen Pool. Er hat eine flache Seite und eine ganz tiefe Seite. Auf der tiefen Seite kann man gut auf dem Rücken schwimmen. Da ist er ja. Auf drei lass ich dich fallen. Ein, zwei, Pass auf, dass ich auf der tiefen Seite lande. Okay. Drei. Platsch. Hi, Dad. Hi, das war lustig. Hey, Chloe. Hi, Blue. Tiup. Landen. Das ist ein Hubschrauber. Steig ein. Okay, kann ich hinfliegen? Nein, du bist der Passagier. Aber du kannst mir sagen, wohin ich dich bringen soll. Oh, … ja, in Ordnung. Wir schließen den Burgerladen. Sehr gut. Und eröffnen einen Tacoladen. Ja, es reicht. Ich ziehe den Stöpfel und ist euch wieder warm? Ja, Dad, tut mir leid, dass wir nicht früher aus der Wand gekommen sind. Ist schon gut. Ich hätte euch zwingen müssen. Ich bleibe wohl lieber noch eine Weile gemein, oder? Ja. Wir sehen aus wie kleine Igel. Okay, Kinder, sofort ins Bett. Ja, M. Dad, können wir Igel spielen? Oh. Na ja, guten Morgen, Bendet. Hey Kinder. Uh, ihr seid aber früh hilft alles nicht. Hey, warum haben wir angehalten? Hier ist überhaupt kein Klettergerüst. Dad, komm … was du zu erledigen hast. Na ja, okay, wenn du dir sicher bist. Gut, ich stelle einen Timer auf meinem Handy. Wenn er klingelt, dann musst du Socks ranlassen. Okay, Muffin. Ah, ich glaube, das war ein Jahr. Ich m mal ein paar schöne Wolken. Uh, sehr schöne Wolken. Okay, Muffin, der Timer klingelt. Zox ist jetzt dran. Ja, ich muss aber mein Cowboyhut noch fertig malen. Nein, du musst deinen Cowboyhut nicht fertig malen, denn Zox ist jetzt dran. Aber ich will mein Cowboyhut noch fertig malen. Muffin, Muffin. Heiler, lass jetzt sofort deine Schwester ran. Aber ich will noch den Cowboy Hut … hast. Immer gerne Puppe. D. Ich tanze wundervoll. Undospuppe Blu, der Samen fängt an zu wachsen. Muffin Schätzchen, du kannst den Schutzkragen jetzt. Hurra! Danke, dass du blühst, du wunderschöne Sonnenblume. Wir lieben dich. Bis dann, Bingo. Bis dann, Chelly. Wir sind auf Kinder. Wir sehen uns Donnerstag. Wir sind gleich bei Bluey und Bingo. Muffin. Hurra! Hey Dad, guck doch mal. Hey! Oh, ich weiß es. Wir spielen einfach stille Post. Rutsch rüber, Riesenaddy. Wir tauschen den Platz. Okay, alle bereit? Bereit? Ich esse gern pinke Kekse zum Frühstückstee. Vor allem, wenn ich dabei mit dem … da brauchen wir auch. Okay. Und dieses da. Vielen Dank. Diese Folge von Blu heißt Platz. Ist das nicht schön, Kimj? Dein neues Schlafzimmer. Gefällt es dir? Ja, ich find's toll. Wollen wir hier vielleicht ein Spielzimmer für Kimjin bauen? Ja, das wäre richtig gut. Dad, du bist im Weg. Könnt ihr nicht um mich herumbauen? Ich versuche Cricket zu gucken. Nein. Gut, dann wäre das ja geklärt. Oh, und könnten wir das Kissen haben? Das wird das Bad für Kim Jim. Oh, ja, wir bauen ein Badezimmer. Okay. 5inhalb m. Ach, das ist ja viel zu kleinch. Hey, pass auf, das Handtuchregal. Entschuldigung. … voll rein. Komm schon, Muffin, du schaffst das. Los, Muffin, sieh mal da, Bentley. Los, Bentley, los, Bentley. Sie will es unbedingt schaffen. Sie kriegt es hin. Sie kriegt es hin. Ja, los, Bentley, du kriegst das hin. Ja, los, Muffin. Ja, geschafft. Ja, gut gemacht, Muffin. Ja, richtig gut, Muffin. Ja, ich hab's gleich. Ja, geschafft. Ja, ja, das war Spitze. Ja, richtig toll. Ich möchte jetzt wieder runter. Und wie schlägt sich Bingo? Oh, Bingo. Oh, Bingo. Das ist total eklig. Es ist nicht unbedingt toll, aber sie hat es geschafft. Ich bin stolz auf dich, Bingo. Ich bin stolz auf dich, Blui.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.055299539170506916
+  "src": "auto"
  },
  "PneBnF6i6s4": {
   "channel": "Deutsch mit Marija",
@@ -69592,7 +70416,7 @@
  "UFZFYcUTR3g": {
   "channel": "Chill German",
   "lang": "de",
-  "checked": "2026-11-13T02:50:32+00:00",
+  "checked": "2026-11-26T05:55:52+00:00",
   "title": "EASY German Learning Vlog for Beginners / A2 German Comprehensible Input",
   "duration": 1656,
   "published": "20251218",
@@ -69601,6 +70425,7 @@
   "pace": 88.6,
   "rare": 0.054,
   "var": 0.8109,
+  "cl": null,
   "speech_s": 1290.6,
   "tokens": 1906,
   "kw": [
@@ -69765,16 +70590,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "essen",
+    "bisschen zu essen und wir haben ungefähr",
+    110,
+    121,
+    5.33,
+    8
+   ],
+   [
+    "tag",
+    "Und jetzt haben wir den nächsten Tag",
+    285,
+    293,
+    5.69,
+    7
+   ],
+   [
+    "gucken",
+    "gucken uns einen anderen Ort an.",
+    451,
+    459,
+    4.48,
+    4
+   ],
+   [
+    "berge",
+    "Berge fahren, aber weil es regnet und",
+    82,
+    92,
+    4.35,
+    4
+   ],
+   [
+    "höflich",
+    "und auch sehr höflich. Äh, ich habe vorher manchmal Erfahrungen",
+    958,
+    969,
+    3.89,
+    3
+   ],
+   [
+    "regnet",
+    "Berge fahren, aber weil es regnet und",
+    82,
+    92,
+    3.84,
+    3
+   ],
+   [
+    "jam",
+    "Mein Name ist Jam. Ich spreche langsam",
+    15,
+    26,
+    3.4,
+    2
+   ],
+   [
+    "mountains",
+    "auch die Hanging Mountains. oder dieser",
+    545,
+    553,
+    3.16,
+    2
+   ],
+   [
+    "eingelegte",
+    "eingelegte und haben ein paar eingelegte Radieschen",
+    681,
+    689,
+    2.82,
+    2
+   ],
+   [
+    "palina",
+    "denn Palina, eine Freundin und ich, wir",
+    31,
+    41,
+    2.4,
+    2
+   ]
+  ],
+  "voc": 0.04503956177723676,
   "tx": "Hallo und herzlich willkommen zu einer neuen Folge von Chill German. Mein Name ist Jam. Ich spreche langsam und ihr lernt schnell. Wir sind in einem Flughafen, denn Palina, eine Freundin und ich, wir fliegen heute von Shanghai nachang. Eigentlich sagt man Junier. Oh. Uh. Danke sehr. Okay, vielleicht kriege ich es später besser hin. Ich werde es noch mal versuchen. Wir sind gerade gelandet. Und eigentlich wollten wir jetzt in die Berge fahren, aber weil es regnet und weil es sehr näblig ist, haben wir uns entschieden stattdessen in eine alte Stadt zu fahren, in ein Dorf und uns das anzugucken. … Look. เฮ Guten Morgen. Das gestern war ein wirklich kalter und nasser Spaß. Das Dorf, also der Ort war wirklich wirklich schön, besonders abends, als es dunkel wurde und die ganzen Lichter eingeschaltet wurden, aber uns ist echt kalt geworden und wir waren bis auf die Knochen durchnäst. Deswegen haben wir nicht mehr viel gefilmt und sind dann später zum Hotel zurück und sind einfach unter der warmen Decke eingeschlafen. Und jetzt haben wir den nächsten Tag und es gibt Frühstück. Ich freue mich schon sehr. Es sieht sehr lecker aus. I feel I feel geisted. เฮ Und unser Ziel für heute ist der … herumlaufen und uns die Natur angucken. Das gesamte Gebiet ist sehr, sehr groß. Das heißt, es ist eine ganz tägige Aktion. Wir werden den ganzen Tag hier verbringen und morgen kommen wir auch wieder hier in den Nationalpark, aber an eine andere Stelle und wir gucken uns einen anderen Ort an. Morgen soll das Wetter auch deutlich besser sein. Vielleicht können wir sogar die Sonne sehen. Hi, ich wollte mal unseren Patreon Subscriber danken und ich wollte euch sagen, dass wir auf Patreon einmal pro Monat ein exklusives Patreon Video hochladen und dass wir da auch alle unsere Videos ohne … man oft auch die Hanging Mountains. oder dieser Ort wird oft auch Avatar Mountains genannt, weil der Film Avatar visuell von diesem Park inspiriert wurde. Wir laufen hier jetzt schon seit ungefähr 10 Uhr morgens herum. Jetzt ist es 4 Uhr am Nachmittag. Wir sind also schon ungefähr 6 Stunden hier in dem Nationalpark unterwegs. Meine Füße tun langsam ein bisschen weh, aber es lohnt sich. Es ist wirklich wunderschön hier. Also, es ist sehr beeindruckend. Jetzt langsam geht es in Richtung nach Hause. Wir müssen einen weiteren Bus nehmen und einen großen Aufzug herunterfahren und dann gibt es … fast einen Kilometer hoch unterwegs. Vielleicht sogar mehr. Ja, stimmt. Und heute machen wir das Gegenteil. Wir sind in der gleichen Gegend, aber anstatt oben herumzulaufen, laufen wir unten herum. Und zwar folgen wir diesem Bach oder dem kleinen Fluss. Ich glaube, Bach passt besser. Mal gucken, vielleicht wird er noch größer. Vielleicht haben wir heute mehr Glück und sehen auch ein paar Affen. อ Wir stehen jetzt hier ungefähr 1 km weiter drin auf einer kleinen Brücke über dem Bach mit ein paar kleinen Fischen im Wasser. Es ist sehr, sehr schön und sehr sehr friedlich hier. Ich bin total … also Babyaffen und ein paar der Besucher haben Orangen für sie dabei. Deswegen können wir sie da drüben sehen, wie sie eine Orange essen. Sie sind wirklich unheimlich niedlich und auch sehr höflich. Äh, ich habe vorher manchmal Erfahrungen mit Affen gemacht, die ein bisschen verspielt sind, aber diese Affen sind sehr, sehr höflich. Ich weiß nicht, ob ihr es im Video hören könnt, aber sie machen ein sehr niedliches Geräusch. äh ein Quieken. Oh my god. Wir sind jetzt unten bei dem Bach fertig und sind dann jetzt doch noch einmal nach oben in die Berge gefahren, um uns die Gegend hier noch … Trinken und ja, dann gucken wir uns noch mal die Berge von oben an. Monkeys promis and monkeer out of experience. Wir sind jetzt ziemlich genau an dem Ort angekommen, wo wir gestern angefangen haben. Ich bin wirklich müde und ich habe langsam genug vom Laufen. Aber wir sind jetzt am Ende. Wir nehmen eine weitere Gondel und einen weiteren Bus zurück in die Stadt und dann suchen wir uns etwas zum Abendessen. Wir sind jetzt aus dem Nationalpark heraus und in der Innenstadt auf der Suche nach Abendessen. Wir waren eben in der Straße hier um die Ecke auf einem kleinen Nachtmarkt und haben uns … sehen, warum. Wir haben schon ein bisschen gegessen. Wir bekommen gleich noch ein bisschen mehr. Heute morgen gibt es für uns ein paar Wantons in Brühe und ein paar Century Eggs und wir bekommen gleich auch noch ein typisches Hunan Beef Sandwich. Ich habe dieses Essen sehr oft gegessen, als ich damals hier in der Hunan Region war und ich erinnere mich daran, dass es immer sehr sehr scharf war. Typisch für Hunan. Also mal gucken, ob wir es auch essen können. Eine weitere Gondel später sind wir wieder ganz weit oben, diesmal auf dem Tiernman Mountain. Und wir beginnen unseren Weg hinauf … zum Glück noch geöffnet. Den können wir uns ansehen. Und zwar ist es dieser Glasweg, der ungefähr 1000 m in der Luft ist. Ich war schon einmal hier vor 6 Jahren, aber damals konnte man nichts sehen. Es gab nur Nebel über, neben und unter uns. Alles war weiß. Heute kann man tatsächlich alles sehen. Wir sind ganz oben angekommen. Höher geht es nicht. Das ist die Feehenspitze vom Tierman Mountain. Hinter uns können wir die Stadt sehen und um uns herum das ganze Gebirge. Ich sehe hier keine Stelle, die noch höher ist. Wir nehmen eine weitere Gondel. Diesmal nicht ganz so weit, aber an der … Jetzt kommen wir sehr spät abends zu Hause in Shanghai an und dann brechen wir wahrscheinlich auch im Bett zusammen, schlafen morgen früh aus und haben dann einen entspannten Tag. Ich hoffe, dass ihr auch einen besonders entspannten Tag morgen habt und ich hoffe auch, dass euer Tag heute entspannt war und ich hoffe, dass euch dieses Video gefallen hat. Wart ihr schon mal in Zang Zangas? Erzählt uns in den Kommentaren, was ihr von unserem Trip am liebsten auch sehen möchtet und warum. Ich freue mich auf alle eure Kommentare und wie immer sehen wir uns im nächsten Video und bis dahin Jam",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.04524886877828054
+  "src": "auto"
  },
  "5poXi4UiBsk": {
   "channel": "Deutsch verstehen",
   "lang": "de",
-  "checked": "2026-11-13T02:51:22+00:00",
+  "checked": "2026-11-26T05:56:02+00:00",
   "title": "Emre kämpft um Mia!",
   "duration": 547,
   "published": "20260520",
@@ -69783,6 +70690,7 @@
   "pace": 195.0,
   "rare": 0.05,
   "var": 0.7953,
+  "cl": null,
   "speech_s": 437.2,
   "tokens": 1421,
   "kw": [
@@ -69939,11 +70847,101 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "gehen",
+    "Darf ich auf Toilette gehen? Warum fragst du mich das?",
+    77,
+    81,
+    5.65,
+    7
+   ],
+   [
+    "darf",
+    "Das darf nicht mit uns enden, Mia!",
+    62,
+    65,
+    5.5,
+    7
+   ],
+   [
+    "gib",
+    "Gib lieber auf, Emre! Mia wird dir nicht antworten!",
+    350,
+    354,
+    4.46,
+    3
+   ],
+   [
+    "guck",
+    "Guck dir Emre mal an! Willst du ihm nicht antworten?",
+    52,
+    58,
+    4.37,
+    3
+   ],
+   [
+    "mathe",
+    "Ja, und? Wir machen Mathe! Was kommt hier raus?",
+    5,
+    9,
+    4.12,
+    2
+   ],
+   [
+    "nimmst",
+    "Dann nimmst du mich wieder zurück!",
+    420,
+    422,
+    4.11,
+    2
+   ],
+   [
+    "six",
+    "six seven Ich hasse meinen Beruf!",
+    10,
+    15,
+    3.59,
+    1
+   ],
+   [
+    "bereite",
+    "Bereite schonmal das Frühstück vor, Schatz!",
+    448,
+    451,
+    3.56,
+    1
+   ],
+   [
+    "wegwerfen",
+    "Willst du das echt wegwerfen? Was machst du in der Mädchentoilette, Emre?",
+    290,
+    295,
+    3.56,
+    1
+   ],
+   [
+    "mias",
+    "Mias Platz riecht so gut! Ich glaube, sie hat eben gepupst!",
+    137,
+    141,
+    2.37,
+    2
+   ],
+   [
+    "ignorier",
+    "Ignorier mich also bitte nicht! Herr Schmidt?",
+    70,
+    73,
+    2.98,
+    1
+   ]
+  ],
+  "voc": 0.050335570469798654,
   "tx": "Werd wieder meine Freundin, Mia! Halt deinen Mund, Emre! Aber ich will Mia zurück! Ja, und? Wir machen Mathe! Was kommt hier raus? Oh nein, wartet! six seven Ich hasse meinen Beruf! Bitte nimm mich wieder, Mia! Ich glaube, sie ignoriert dich, Bro! Psst, Fatima! Was ist? Tipp mal Mia auf die Schulter! Ich muss mit ihr reden! Wir sind im Unterricht, Emre! Ich will keinen Ärger bekommen! Herr Schmidt hat eh aufgegeben! Ihr könnt mich alle mal! Schade! Ich wollte Mathe lernen! Okay Das war echt witzig! Bitte rede mit mir, Mia! Ich weiß, ich habe einen Fehler gemacht! Was machst du da, Bruder? … Tut mir leid, Schatz! Ich halte das nicht mehr aus! Das darf nicht mit uns enden, Mia! Das ist so traurig, Alter! Bitte rede mit mir, Mia! Ich weiß, dass du mich hörst! Ignorier mich also bitte nicht! Herr Schmidt? Was ist denn jetzt los? Was ist, Mia? Stör mich nicht in meiner Freizeit! Darf ich auf Toilette gehen? Warum fragst du mich das? Sie sind doch der Lehrer! Ach ja, stimmt! Mach, was du willst! Danke! Sie sind der Beste! Ich weiß! Ich bleibe hier stehen! Du kommst nicht an mir vorbei, Mia! Äh.. Kommst du mit mir auf Toilette, Fatima? Aber was ist mit Emre? Wer ist Emre? Das … Das reicht jetzt, Mia! Rede endlich mit Emre! Ich kenne keinen Emre! Hast du das verstanden, Fatima? Äh, ja! Tut mir leid! Komm jetzt! Sonst mache ich AA auf den Flur! So habe ich Mia noch nie erlebt! Sie ist richtig sauer auf Emre! Komm jetzt sofort, Fatima! Mias Platz riecht so gut! Ich glaube, sie hat eben gepupst! Das ist so krank, Alter! Nein! Ich liebe Mia! Ich glaube, Mia hasst dich aber, Bro! Was soll ich denn jetzt machen? Such dir eine neue Freundin! Die Frauen stehen auf so heiße Türken wie dich! Aber ich liebe Mia so sehr! Kämpfe um Mia, wenn du sie wirklich liebst! Glaubst du … Mias Herz zurückerobern! Ja! Ich werde um sie kämpfen! Ich darf Mia nicht verlieren! Gut! Hol sie dir, du türkischer Löwe! Ja! Das werde ich, Maria! Darf ich auf die Toilette gehen, Herr Schmidt? Mach, was du willst und nerv mich nicht! In meiner Freizeit darf mich niemand stören! Ich liebe diesen Lehrer! Ich komme, Mia! Musst du auch AA machen? Nein, nur Pipi! Hm, schade! Ich gebe Mia nicht auf! Sie ist doch meine Traumfrau! Ich muss es schaffen, dass Mia mit mir redet! Willst du eigentlich Abitur machen? Ja, ich will Anwältin werden! Was willst du werden? Ärztin oder Müllfrau! Äh, okay! … bin doch deine beste Freundin! Du bist gleich nicht mehr meine Freundin! Also hör sofort auf damit! Ich will den Namen \"Emre\" nie wieder hören! Äh, okay! Ich bin leise! Ich sage nichts mehr über Emre! Hier sind die Toiletten! Äh.. Kann ich in die Mädchentoilette gehen? Ja, ich muss mit Mia reden! Ich sollte aber meine Augen zumachen! Ich bin gleich fertig! Ich habe Bauchschmerzen! Wer ist das? Mia und Fatima sind in der Kabine! Ich bin Aylin! Ich kenne keine Aylin! Bist du neu auf der Schule? Äh, ja! Seid ihr Single? Ich habe keinen Freund zurzeit! Warum fragst du sowas? Ich habe gehört, … Oder, Mia? Das ist eine andere Mia! Ich kenne nämlich keinen Emre! DAS REICHT JETZT, MIA! Wir waren 3 Jahre zusammen! Willst du das echt wegwerfen? Was machst du in der Mädchentoilette, Emre? Ich kämpfe um Mia! Bitte nimm mich zurück, Schatz! Öh! Hallo, Mia! Lass uns wieder in die Klasse gehen! Du redest wieder mit mir! Ich bin so glücklich! Hörst du mich nicht, Fatima? Wir müssen wieder zurückgehen! Oh mein Gott! Bitte ignoriere mich nicht mehr, Mia! Ich kann das nicht mehr! Es tut so weh! Emre weint echt heftig! Ich sehe niemanden, der weint! Lass uns gehen! Ich halte es nicht aus, … Ich habe also eine Chance! Ich darf nicht aufgeben! Hast du gerade mit Emre geredet? Nein, wer ist Emre? Was muss ich machen, dass du mich zurücknimmst? Wir haben gleich Englisch! Gib lieber auf, Emre! Mia wird dir nicht antworten! Ich glaube, du hast Recht! Wirst du mich jetzt immer ignorieren, Mia? Du hast Mia zu sehr verletzt! Lass uns in die Klasse gehen, Fatima! Ich darf noch nicht aufgeben! Mia ist meine Traumfrau! Ist etwas passiert, als wir weg waren? Alles wie immer.. Gleich kommt aber Frau Sommer! Ich habe eine Idee! Mia! Wenn du mich ignorierst, hasst du Döner! Jetzt musst du … zu arbeiten! Ich glaube, ich werde auch Lehrer! Hat jemand ein Papier für mich? Ich kann dir ein Blatt geben! Danke! Und einen Stift brauche ich! Was hast du vor, Bruder? Ich werde Mia zurückerobern! Gib mir jetzt das Blatt und den Stift, Maria! Dann bekomme ich aber 5 Cent von dir! Ich liebe euch almans! Ich gebe dir sogar 6 Cent! Jetzt gib mir die Sachen! Ich werde dir jetzt einen Brief schreiben, Mia! Dann nimmst du mich wieder zurück! Hast du mich gehört? Gleich bist du wieder meine Freundin! Fatima! Du bist doch eine Frau, oder? Ja, warum? Was könnte ich Mia schreiben, damit sie mich … Schmidt? Bereite schonmal das Frühstück vor, Schatz! Äh, was? Oh! Hallo, Frau Winter! Schlafen Sie im Unterricht? Ja! Suchen Sie sich ein anderes Bett! Das muss ich der Direktorin melden! Du bist so eine Petze! Herr Schmidt ist nicht normal! Ich liebe diesen Mann! Seid mal leise! Ich versuche mich zu konzentrieren! Ich muss Mia einen Brief schreiben! Du hast noch gar nichts geschrieben! Ich fange jetzt an! Äh, Mia! Was soll ich dir schreiben? So ein Idiot! Ah, ich weiß! Bist du fertig? Ich habe nur 2 Wörter, Alter! Kann ich reinkommen, Frau Meier? Es ist sehr wichtig! Was stimmt nicht mit … kann nicht mehr! Emre tut mir so leid! Guck nicht auf den Brief, Mia! Verdammt! Das ist so süß! Warte, Emre! Ich kann nicht ohne Mia leben! Emre? Ich höre sogar ihre Stimme! Ich bin hier, du Idiot! Mia! Du redest mit mir! Ich habe deinen Brief gelesen! Nimmst du mich zurück? Das geht nicht, Emre! Liebst du mich nicht mehr? Doch, ich liebe dich noch sehr! Aber ich kann dir nicht mehr vertrauen! Bitte tu mir das nicht an, Mia! Wir können uns nicht mehr sehen! Ich verlasse diese Schule! Oh nein! Mia! Gebt einen Daumen, wenn ihr wissen wollt, wie es weitergeht! Und klickt auf diese Folge von DV!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.04288939051918736
+  "src": "cc"
  },
  "oBMw5Jnu3RI": {
   "channel": "Kathrin Shechtman (Story Listening)",
@@ -71008,7 +72006,7 @@
  "JS2c0oaB6Gs": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T02:52:13+00:00",
+  "checked": "2026-11-26T05:29:54+00:00",
   "title": "🎶 Deutsche Weihnachtslieder 🎅: Geschichte & Hintergründe",
   "duration": 403,
   "published": "20241219",
@@ -71017,6 +72015,7 @@
   "pace": 85.2,
   "rare": 0.1166,
   "var": 0.7933,
+  "cl": null,
   "speech_s": 398.4,
   "tokens": 566,
   "kw": [
@@ -71181,11 +72180,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bedeutung",
+    "der Kirche sowie bei Weihnachtsfeiern gesungen. Bedeutung der WeihnachtsliederWeihnachtslieder",
+    246,
+    258,
+    4.98,
+    4
+   ],
+   [
+    "freude",
+    "das neugeborene Jesuskind zu sehen. Es ist ein fröhliches, beschwingtes Lied, das die Freude und",
+    199,
+    209,
+    4.87,
+    3
+   ],
+   [
+    "möchtest",
+    "Weihnachtsstimmung erleben möchtest, kannst du diese Lieder singen oder anhören!",
+    330,
+    339,
+    4.53,
+    3
+   ],
+   [
+    "schnee",
+    "und es hat eine besonders festliche Stimmung. 3. Leise rieselt der Schnee:„Leise rieselt",
+    134,
+    147,
+    4.45,
+    3
+   ],
+   [
+    "bekanntesten",
+    "In diesem Video erkläre ich dir die bekanntesten Lieder, was sie bedeuten und warum sie so wichtig",
+    34,
+    43,
+    3.9,
+    2
+   ],
+   [
+    "fröhliche",
+    "das Staunen über die Geburt Jesu ausdrückt. 5. O du fröhliche:„O du fröhliche“ ist ein",
+    208,
+    222,
+    3.7,
+    2
+   ],
+   [
+    "traditionelles",
+    "der Schnee“ ist ein weiteres traditionelles Weihnachtslied. Es beschreibt die winterliche",
+    146,
+    155,
+    3.34,
+    2
+   ],
+   [
+    "festlichen",
+    "Deutschland ist nicht nur geprägt von festlichen Traditionen und leckeren Plätzchen, sondern auch",
+    17,
+    26,
+    3.21,
+    2
+   ],
+   [
+    "deutschkenntnisse",
+    "zu bekommen. AuthenticGermanLearning.com/free Möchtest du deine Deutschkenntnisse noch weiter",
+    361,
+    373,
+    2.97,
+    1
+   ],
+   [
+    "join",
+    "um dein Deutsch zu perfektionieren! AuthenticGermanLearning.com/join",
+    382,
+    394,
+    2.97,
+    1
+   ]
+  ],
+  "voc": 0.1179245283018868,
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute schauen wir uns ein besonders schönes Thema an: deutsche Weihnachtslieder! Weihnachten in Deutschland ist nicht nur geprägt von festlichen Traditionen und leckeren Plätzchen, sondern auch von den berühmten Weihnachtsliedern, die in vielen deutschen Haushalten und Kirchen zu hören sind. In diesem Video erkläre ich dir die bekanntesten Lieder, was sie bedeuten und warum sie so wichtig für die deutsche Weihnachtstradition sind. 1. Stille Nacht, heilige Nacht:Eines der bekanntesten deutschen Weihnachtslieder ist sicherlich „Stille Nacht, heilige Nacht“. Das Lied wurde 1818 in Österreich komponiert, aber es ist auch in Deutschland sehr beliebt. Es wurde in über 300 Sprachen übersetzt und wird weltweit in der Weihnachtszeit gesungen. Der Text spricht von der Geburt Jesu und der friedlichen Atmosphäre in der Heiligen Nacht. „Stille Nacht“ ist ein Symbol für den Frieden und die Besinnlichkeit dieser besonderen Zeit. 2. O Tannenbaum:Ein weiteres bekanntes Weihnachtslied ist „O Tannenbaum“. Es ist ein Lied über den Weihnachtsbaum, der in Deutschland eine wichtige Rolle spielt. Die Verse sprechen von der immergrünen Tanne, die in der winterlichen Kälte erblüht und an die Liebe und Treue erinnert. Dieses Lied wird in vielen deutschen Haushalten gesungen, wenn der Weihnachtsbaum geschmückt wird, und es hat eine besonders festliche Stimmung. 3. Leise rieselt der Schnee:„Leise rieselt der Schnee“ ist ein weiteres traditionelles Weihnachtslied. Es beschreibt die winterliche Landschaft und die friedliche, ruhige Atmosphäre, die mit der Adventszeit verbunden ist. Die sanften Worte und Melodien lassen uns die Kälte und den Schnee draußen vergessen und schaffen eine behagliche Stimmung, die zu Weihnachten passt. 4. Ihr Kinderlein, kommet:Ein weiteres sehr bekanntes Weihnachtslied, das besonders in deutschen Kirchen und Familien gesungen wird, ist „Ihr Kinderlein, kommet“. Das Lied lädt die Kinder ein, zur Krippe zu kommen und das neugeborene Jesuskind zu sehen. Es ist ein fröhliches, beschwingtes Lied, das die Freude und das Staunen über die Geburt Jesu ausdrückt. 5. O du fröhliche:„O du fröhliche“ ist ein weiteres traditionelles Weihnachtslied, das in Deutschland sehr populär ist. Der Text des Liedes spricht von der Freude über die Geburt Christi und von der Hoffnung, die Weihnachten mit sich bringt. Es hat einen besonders festlichen und feierlichen Charakter und wird oft in der Kirche sowie bei Weihnachtsfeiern gesungen. Bedeutung der WeihnachtsliederWeihnachtslieder sind in Deutschland nicht nur eine musikalische Tradition, sondern sie tragen auch eine tiefere Bedeutung. Sie vermitteln Werte wie Hoffnung, Frieden, Nächstenliebe und Freude. Viele deutsche Weihnachtslieder erzählen von der Geburt Jesu, aber sie sprechen auch universelle Themen an, die gerade in der Weihnachtszeit eine besondere Bedeutung haben. Sie schaffen eine festliche Atmosphäre, die die Menschen zusammenbringt und sie an das Wesentliche erinnert. Wie du siehst, gibt es viele bekannte deutsche Weihnachtslieder, die eine wichtige Rolle in der deutschen Weihnachtstradition spielen. Sie helfen uns, die besinnliche Zeit des Jahres zu feiern und die tiefere Bedeutung von Weihnachten zu spüren. Wenn du also das nächste Mal in Deutschland bist oder einfach die deutsche Weihnachtsstimmung erleben möchtest, kannst du diese Lieder singen oder anhören! Wenn du mehr über die deutsche Kultur und Traditionen lernen möchtest, abonniere meinen Kanal und hinterlasse einen Kommentar, welches dein Lieblings-Weihnachtslied ist! Und nicht vergessen: Melde dich für meinen Newsletter an, um noch mehr spannende Tipps zu bekommen. AuthenticGermanLearning.com/free Möchtest du deine Deutschkenntnisse noch weiter verbessern? Dann schau dir meine Akademie an, wo du viele nützliche Deutschkurse findest, um dein Deutsch zu perfektionieren! AuthenticGermanLearning.com/join Danke fürs Zuschauen! Bis zum nächsten Mal — bis morgen!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.1179245283018868
+  "src": "cc"
  },
  "rEo0z3Eu2iw": {
   "channel": "Caillou Deutsch",
@@ -71212,7 +72293,7 @@
  "AJZn-MAPzv0": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-13T03:03:20+00:00",
+  "checked": "2026-11-26T05:55:22+00:00",
   "title": "10 Hilarious German Words (and their meanings)│Intermediate German",
   "duration": 755,
   "published": "20210923",
@@ -71221,6 +72302,7 @@
   "pace": 86.2,
   "rare": 0.0906,
   "var": 0.6914,
+  "cl": null,
   "speech_s": 737.8,
   "tokens": 1060,
   "kw": [
@@ -71385,16 +72467,98 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "eigentlich",
+    "und ein schuss ist eigentlich ist",
+    215,
+    221,
+    5.58,
+    5
+   ],
+   [
+    "besser",
+    "jemand der immer alles besser weiß",
+    630,
+    640,
+    5.66,
+    4
+   ],
+   [
+    "bestimmte",
+    "bestimmte nährstoffe fehlen das dem körper bestimmte nährstoffe fehlen zum",
+    57,
+    68,
+    4.75,
+    3
+   ],
+   [
+    "gewicht",
+    "zu man nimmt an gewicht zu",
+    168,
+    179,
+    4.57,
+    3
+   ],
+   [
+    "sammelt",
+    "zunimmt dann sammelt sich das fett",
+    446,
+    456,
+    3.98,
+    2
+   ],
+   [
+    "süsses",
+    "",
+    0,
+    0,
+    3.93,
+    2
+   ],
+   [
+    "schnarchen",
+    "schnarchen ist schnarchen und die nase natürlich eine",
+    379,
+    394,
+    3.42,
+    3
+   ],
+   [
+    "nährstoffe",
+    "bestimmte nährstoffe fehlen das dem körper bestimmte nährstoffe fehlen zum",
+    57,
+    68,
+    3.37,
+    2
+   ],
+   [
+    "splitterfasernackt",
+    "splitterfasernackt also nackt ist man ja eigentlich wenn",
+    509,
+    521,
+    2.15,
+    3
+   ],
+   [
+    "besserwisser",
+    "besserwisser jemand der immer alles besser weiß",
+    628,
+    640,
+    2.92,
+    2
+   ]
+  ],
+  "voc": 0.13018867924528302,
   "tx": "hallöchen und willkommen zurück heute zeige ich euch zehn besonders lustige wörter in der deutschen sprache kummerspeck hüftgold coulin modell los geht's also wort nummer eins ist heißhunger also heiß und hunger heißhunger wenn man heißhunger hat dann hat man einen drang ein verlangen nach entweder etwas süßem oder salzigen oder fettige normalerweise ist das ein signal von unserem körper der körper schickt ein signal um uns zu zeigen dass uns gewisse bestimmte nährstoffe fehlen das dem körper bestimmte nährstoffe fehlen zum beispiel wenn der körper zucker braucht bekommt man heißhunger auf … in deutschland auch benutzt wenn man einfach ein großes verlangen nach etwas hat nach etwas bestimmtem zum beispiel pizza bereich ab so ein heißhunger auf pizza ich habe richtig lust auf pizza und das wäre jetzt genau das richtige für mich ich brauche eine pizza jetzt sofort nummer zwei kummerspeck kummer hat man wenn man traurig ist und wenn man sorgen hat dann hat man kummer und wenn man traurig ist und man hat so und man hat kummer dann ist man mann ist sehr viel und man ist vielleicht auch nicht unbedingt gesundes essen aber ungesundes essen süßes aber man ist und isst man ist mehr … sich nicht so gut fühlt und man versucht diese lehre in einem zu füllen dramatisch aber man fängt an zu essen wenn man sich nicht so gut fühlt und wenn man kummer hat und dann nimmt man zu man nimmt an gewicht zu und das ist der speck der speck ist das was man zunimmt so der speck ist das fett ja dass das fett was man dann zunimmt ja und wenn man isst und ist und dann zunimmt weil es einem nicht so gut ging dann hat man an kummerspeck zugenommen weil die ursache die ursache von der gewichtszunahme der kummer war und das nächste wort ist der hexenschuss also eine hexe und ein schuss ist … pistole eine kugel ab schießt das ist der schoss ein hexenschuss passiert dann wenn man starke schmerzen im rücken bekommt und diese schmerzen sind sehr plötzlich so aus dem nichts plötzlich vielleicht durch eine bestimmte bewegung ja und dann wenn man plötzlich diese starken schmerzen bekommt dann kann man sich auch meistens nicht mehr bewegen man kann sich nicht mehr bewegen darf ist der nächstes wort ist scherzkeks der scherzkeks ein scherz ein witz oder ein scherz ist ein spruch nein ein scherz der jemand anderen zum lachen bringen soll zum beispiel wie viele deutsche braucht man um … sind effizient und haben keinen humor scherzkeks also das war ein scherz und ein keks ist natürlich wie ein cookie ja ein keks zum essen scherzkeks so kann man eine person nennen wenn diese person keine guten witze oder scherze macht es ist eine ironische bezeichnung für jemanden der keine guten witze oder scherze macht oder wenn eine person etwas sehr unsinniges etwas unlogisches macht dann kann ich auch sagen du bist ja ein scherzkeks du bist ja ein scherzkeks das muss man doch so machen damit das funktioniert so kann das doch gar nicht funktionieren kuddelmuddel ein kuddelmuddel ist … wird auch oft benutzt wenn die kabel schon wieder ein einziges kuddelmuddel sind was ein kuddelmuddel nächstes wort schnarchnasen schnarchen ist schnarchen und die nase natürlich eine schneise ist jemand der besonders langsam ist oder wird der als sehr langweilig empfunden wird also jemand der sehr langsam ist oder eine sehr langweilige person mein gott da fährt schon wieder so eine schneider so vor mir ja er sitzt immer nur zu hause er verlässt nie das haus und macht mal etwas zum spaß sitzt immer nur zu hause auf der couch so eine schnarchnasen nächstes wort ist das hüftgold … und wenn man an gewicht zunimmt wenn man anfängt zunimmt dann sammelt sich das fett manchmal hier um die hüfte herum also das gold es einfach nur das fett das sich hier an der hüfte sammelt wenn man an gewicht an fett zunimmt das hüftgold die fettansammlung das wird das hüftgold genannt aber es gibt auch andere situationen wo das essen direkt also das essen das einen fett macht also süße sachen zum beispiel eine torte oder ein kuchen das essen direkt wird auch manchmal als hüftgold bezeichnet weil dieses süße fertige essen zu hüftgold führt was ein leckerer kuchen aber pures hüftgold … wenn man keine klamotten anhand dann ist man nackt aber wenn man sagt splitterfasernackt dann möchte man ausdrücken dass man wirklich komplett nackt es oder dass jemand komplett und völlig nackt es noch nicht einmal unterwäsche und dann hat sie sich einfach auf der straße umgezogen ja gut habe ich auch schon gemacht die war splitterfasernackt das habe ich jetzt noch nicht gemacht nächstes wird die ohrfeige oder backpfeife oder apache die ohrfeige also das ohr und das ist eine feige aber keine ahnung die ohrfeige ist wenn man mit der flachen hand jemandem auf die wange auf die wange … aber es wird auch backpfeife genannt manchmal backpfeife vielleicht weil das auch manchmal backe stadt wangen genannt wird aber eigentlich ist das die wange und eine pfeife ist eigentlich das also ohrfeige oder backpfeife und unser letztes wort ist der klugscheißer der klugscheißer ist ein besserwisser jemand der immer alles besser weiß jemand der klugscheißer oder jemand der immer alles besser weiß ist ein besserwisser oder ein klugscheißer klug ist ja das adjektiv das clever bedeutet und scheiße klugscheißer das wort ist natürlich ein bisschen negativ ja also wenn jemand immer alles … person als klugscheißer bezeichnen es wird oft eine person damit bezeichnet die ihre meinung immer und immer wieder mitteilen muss aber auch in einer besonders nervigen und aufdringlichen art und weise als ob die person mehr wissen oder bildung in einer bestimmten sache hätte und deswegen besser urteilen könnte als andere das wort gibt es natürlich auch für männliche und weibliche personen der klugscheißer die klugscheißer in plural die klugscheißer die klugscheißer rinnen sei keine schnarchen anna sind maike das video aktiviere die gluck und kommentiert damit ich kein kummerspeck bekommen",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.12912912912912913
+  "src": "auto"
  },
  "GtTnvhgg9Ds": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T03:03:55+00:00",
+  "checked": "2026-11-26T05:55:49+00:00",
   "title": "Part 2: Lyrics verstehen (Reinhard Mey) B1/B2 | easy and comprehensible German",
   "duration": 1277,
   "published": "20250504",
@@ -71403,6 +72567,7 @@
   "pace": 117.5,
   "rare": 0.0626,
   "var": 0.7679,
+  "cl": null,
   "speech_s": 1272.6,
   "tokens": 2493,
   "kw": [
@@ -71567,11 +72732,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "guten",
+    "guten Dinge sind drei. Das heißt, wir",
+    4,
+    12,
+    5.43,
+    12
+   ],
+   [
+    "ins",
+    "auf den Teppich. Die bringt mich ins",
+    280,
+    288,
+    5.68,
+    11
+   ],
+   [
+    "lied",
+    "weiter? Ein sehr langes Lied mit vielen",
+    18,
+    24,
+    4.73,
+    4
+   ],
+   [
+    "nett",
+    "Und er nennt es hier sehr nett, dass sie",
+    168,
+    175,
+    4.7,
+    4
+   ],
+   [
+    "schüssel",
+    "Negerkusswettesser eine Schüssel vors Bett.",
+    975,
+    984,
+    3.81,
+    4
+   ],
+   [
+    "abendessen",
+    "nicht, weiß ich nicht, Abendessen oder",
+    713,
+    718,
+    4.14,
+    3
+   ],
+   [
+    "kindergeburtstag",
+    "denke, ich soll zum Kindergeburtstag und",
+    485,
+    492,
+    3.07,
+    3
+   ],
+   [
+    "vors",
+    "Negerkusswettesser eine Schüssel vors Bett.",
+    975,
+    984,
+    3.55,
+    2
+   ],
+   [
+    "gardine",
+    "Gardine. Es ist nicht ganz genau das",
+    758,
+    766,
+    2.6,
+    3
+   ],
+   [
+    "stulle",
+    "bringen eine Stulle aufs Brett. Der",
+    971,
+    979,
+    2.58,
+    3
+   ]
+  ],
+  "voc": 0.05937353903693315,
   "tx": "Dieses Video ist Teil 2 des Liedes aller guten Dinge sind drei. Das heißt, wir fangen direkt an. So, schauen wir uns die zweite Strophe an und wie geht der Tag weiter? Ein sehr langes Lied mit vielen Strophen, weil der Tag sehr lang ist und sehr ereignisreich vor allem. Ich habe den mittleren zur Schule gebracht. Das versteht man, glaube ich, ganz gut. Und verwische Spuren der Haselnusscremenschlacht. Einmal haben wir das Wort verwischen. Verwischen ist, wenn man ähm ja etwas verteilt und äh die Spuren verwischen. Damit meint man, dass man die Spuren nicht mehr sieht. In diesem Fall geht es … Beispiel, aber hier so ein Marker. Das könnte man als Filzstift bezeichnen. Mit diesem Filzstift malt sie das Bein ihres Vaters an. Und er nennt es hier sehr nett, dass sie es erledigt. Also, sie kümmert sich darum, sie erledigt es. Aber ähm wie erledigt sie die Post durch zerreißen? Also, wir haben die Post des Vormonats, also von dem letzten Monat und während ihr Vater am Telefon ist, ein kurzes Telefonat hat, zerreißt sie die ganze Post und der Vater sagt: \"Nach, jetzt ist die Post erledigt, jetzt muss ich mich nicht mehr drum kümmern.\" Also, er versucht es positiv zu sehen. Jetzt, wie … Sie bringt mich ins Grab. Das könnte man damit übersetzen. Sie bringt mich um. Ich kann nicht mehr. Ich halte es nicht mehr um. Ich äh ich halte es nicht mehr aus. Ja, sie sie bringt mich um, würden wir heute wahrscheinlich sagen. Natürlich bringt die Tochter ihren Vater nicht wirklich um, aber für ihn ist es zu viel. Er denkt, ich sterbe gleich. Woher hole ich noch den Mittlern von der Schule ab? Dann gibt's Mittag und Streit, wer erste Fisch Fischstäbchen kriegt, bis die Tränen fließen und es auch der Erde liegt. Dann gibt's Mittag. Das ist einfach die Abkürzung für Mittagessen. Es … ich etwas Zeit. Also sie ernötigt seine Tochter, also sowas wie zwingen. Er zwingt seine Tochter zu einem Mittagsschlaf, damit er jetzt vielleicht ein bisschen Zeit hat, aber der Große beichtet mir seine Geschichtsarbeit und jetzt hat er drei Chaoten zum Spielen bestellt. Das heißt, der Älteste sagt erst, er beichtet. Also ähm, also er hat eine schlechte Note in Geschichte bekommen, er hat eine schlechte Arbeit zurückbekommen und jetzt muss er seinem Vater das beichten. Er muss sagen, oh, ich bin in der Schule nicht so gut. Er beichtet die Geschichtsarbeit und er hat drei Chaoten zum … Arzt gehen. Zum Glück ist der Arzt so nett, dass er sie früher dran nimmt. Das heißt, sie müssen nicht wirklich lang warten. Er nimmt sie vor, er zieht sie vor. Sie dürfen gleich dranommen dann. Ich kaufe schnell ein Geschenk und gebe den mittleren ab. Also Kindergeburtstag ist abgehakt, ist geschafft. Komm Schweißgebadet raus. Ich glaube, ich mache schlapp. Also, er kommt wieder aus dem Haus von dem Freund nach draußen. Er ist Schweiß gebadet. Schweiß, das ist, wenn man schwitzt und dann wird alles nass. Das ist der Schweiß. Er ist schweißgebadet. Also er schwitzt am ganzen Körper und er … Das ist ja toll. Der Vater ist immer zu Hause, aber wirklich frei hat Reinhard Mai ja nicht wirklich, wenn du hörst, was er alles zu tun hat. Zu Hause setzt bereits der Abendwahnsinn ein. Wahnsinn. Vielleicht kennst du dieses Wort. Das ist auch so etwas wie verrückt. Das heißt zu Hause, also abends wird es immer noch mal viel verrückter. Ähm die Kinder sind müde und wollen nicht, weiß ich nicht, Abendessen oder sich umziehen. Sie wollen nicht ins Bett. Also abends wird es noch mal viel chaotischer. Und das meint er, dass es einsetzt. Also es fängt an. Das abendliche Chaos fängt an. Die … richtig laut. Ist ohrenbetäubend. und dröhnen. Ja, das ist im Prinzip ein Verb, das etwas ähnliches beschreibt. Etw, wenn etwas sehr laut ist, dann dröhnt es. Aber der Sohn sagt: \"Hey, keine Sorge, Papa.\" Also, er sagt es nicht so nett. Ey, Alter, das ist nicht so, das ist nicht so nett. Aber er meint den Vater, bleib ganz cool, ich übe Mathematik. Also er sagt: \"Hey, ich mache doch Mathe. Ich mache meine Hausaufgaben. Ich lerne für die Schule. Ähm, beschwere dich doch nicht. Die Frage ist nur, kann er wirklich Mathe üben, wenn er so laute Musik hört? Der mittlere kommt vom … sich jetzt. Also er muss alles wieder spucken. Er muss es erbrechen, sich übergeben, er sich erbrechen oder ja spucken. Das sind so die drei Worte, die wir dafür benutzen können. Also den ganzen Magen wieder entlären. Der große und die kleine bringen eine Stulle aufs Brett. Der Negerkusswettesser eine Schüssel vors Bett. Also, zwei Kinder bekommen ein äh eine Stulle aufs Brett. Ähm zum Abendessen gibt es das, dass manche nicht auf einem Teller essen, sondern auf einem Brettchen, also richtiges Holzbrett und dort gibt es das Brot drauf. Ähm, ich weiß nicht, wie viele Menschen das heute … dass er direkt bei der Tagesschau, ups, was ist jetzt passiert? bei der Tagesschau einschläft. Und die Tagesschau, vielleicht kennst du den Begriff auch, das sind die 20 Uhr Nachrichten im Aad im Fernsehen, in dem äh ja ersten Programm. Das ist äh das sind die Nachrichten, würde ich sagen, wenn man im Fernsehen Nachrichten schaut, dann äh 20 Uhr Nachrichten im ARD, die Tagesschau, das kennt jeder. Ähm und damit wird natürlich auch gezeigt, wir haben erst 8 Uhr abends, aber der Vater ist fix und fertig und sch und schläft ja während den Nachrichten ein. Ich schlepp mich ins Bett. Die … aber wir können es erraten, wenn wir wissen, es ist ein Lied und es reimt sich. Also vielleicht sind alle guten Dinge ja nicht drei, vielleicht sind alle guten Dinge ja auch vier. Also, was will sie damit andeuten? Sie will damit andeuten, sollen wir nicht vielleicht ein viertes Kind bekommen? Aber was sagt der Vater? Ich breche zusammen. Ich kann nicht mehr. Ich breche zusammen. Nein, es bleibt dabei. Aller guten Dinge sind drei. Das Sprichwort bleibt alle guten Dinge sind drei und nicht alle guten Dinge sind vier. Und hier unten sehen wir noch einmal das Lied von 1988 von Reinhard Mai.",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.0659090909090909
+  "src": "auto"
  },
  "ZtazeFwa9TY": {
   "channel": "Deutsch verstehen",
@@ -71991,7 +73238,7 @@
  "1-fklApCd54": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T03:05:14+00:00",
+  "checked": "2026-11-26T05:56:35+00:00",
   "title": "Wie Deutsche Weihnachten feiern 🎅 – Die besten Bräuche und Traditionen",
   "duration": 571,
   "published": "20241217",
@@ -72000,6 +73247,7 @@
   "pace": 86.9,
   "rare": 0.1105,
   "var": 0.835,
+  "cl": null,
   "speech_s": 512.6,
   "tokens": 742,
   "kw": [
@@ -72164,11 +73412,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "deutschen",
+    "ist der wichtigste Tag in der deutschen Weihnachtstradition. An diesem Abend",
+    148,
+    157,
+    5.67,
+    4
+   ],
+   [
+    "vielen",
+    "an dem sie ihre Geschenke vom Christkind oder Weihnachtsmann bekommen. In vielen Familien",
+    185,
+    194,
+    5.52,
+    4
+   ],
+   [
+    "heilige",
+    "2. Der Heilige Abend – der wichtigste Tag Der 24. Dezember, der Heilige Abend,",
+    138,
+    149,
+    4.42,
+    4
+   ],
+   [
+    "beliebt",
+    "ist der Adventskalender. Er ist besonders für Kinder beliebt, aber auch Erwachsene",
+    85,
+    94,
+    4.36,
+    4
+   ],
+   [
+    "bereiten",
+    "wird der Baum erst am Heiligen Abend geschmückt, um den Kindern eine Überraschung zu bereiten.",
+    193,
+    204,
+    4.19,
+    1
+   ],
+   [
+    "aufregung",
+    "Aufregung ausgepackt. Besonders für Kinder ist es der Höhepunkt der Feierlichkeiten.",
+    421,
+    431,
+    4.16,
+    1
+   ],
+   [
+    "festlich",
+    "kommen die Familien zusammen, essen festlich und tauschen Geschenke aus. Viele Familien",
+    156,
+    165,
+    3.21,
+    3
+   ],
+   [
+    "gans",
+    "mit Würstchen oder ein traditionelles Weihnachtsmenü mit Gans, Rotkohl und Klößen.",
+    173,
+    182,
+    3.51,
+    2
+   ],
+   [
+    "rotkohl",
+    "mit Würstchen oder ein traditionelles Weihnachtsmenü mit Gans, Rotkohl und Klößen.",
+    173,
+    182,
+    2.79,
+    2
+   ],
+   [
+    "weihnachtsessen",
+    "5. Das Weihnachtsessen Das Weihnachtsessen ist in Deutschland oft",
+    342,
+    350,
+    2.61,
+    2
+   ]
+  ],
+  "voc": 0.07262569832402235,
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute geht es um die typischen Weihnachtstraditionen in Deutschland. Weihnachten wird hier auf eine ganz besondere Art gefeiert, und viele der Bräuche sind weltweit bekannt oder auch einzigartig. Heute schauen wir uns an, was Deutsche an Weihnachten tun, welche Bräuche es gibt und was Weihnachten in Deutschland so besonders macht. Los geht’s! 1. Der Advent und der Adventskranz Die Weihnachtszeit beginnt in Deutschland schon mit dem Advent. Viele Deutsche haben einen Adventskranz zu Hause, auf dem vier Kerzen stehen. An jedem Sonntag im Advent wird eine Kerze angezündet, bis alle vier brennen. Dieser Brauch symbolisiert die Vorbereitung auf Weihnachten und sorgt für eine festliche Atmosphäre. Ein weiterer Adventsbrauch, den viele Deutsche lieben, ist der Adventskalender. Er ist besonders für Kinder beliebt, aber auch Erwachsene nutzen ihn oft, um sich auf Weihnachten zu freuen. Jeden Tag gibt es ein Türchen zu öffnen – meistens mit einer kleinen Überraschung, wie Schokolade oder einer anderen Kleinigkeit. 2. Der Heilige Abend – der wichtigste Tag Der 24. Dezember, der Heilige Abend, ist der wichtigste Tag in der deutschen Weihnachtstradition. An diesem Abend kommen die Familien zusammen, essen festlich und tauschen Geschenke aus. Viele Familien beginnen den Abend mit einem gemeinsamen Essen. Besonders beliebt sind Gerichte wie Kartoffelsalat mit Würstchen oder ein traditionelles Weihnachtsmenü mit Gans, Rotkohl und Klößen. Für Kinder ist der Heilige Abend natürlich auch der Tag, an dem sie ihre Geschenke vom Christkind oder Weihnachtsmann bekommen. In vielen Familien wird der Baum erst am Heiligen Abend geschmückt, um den Kindern eine Überraschung zu bereiten. 3. Der Weihnachtsbaum Der Weihnachtsbaum ist ein weiterer zentraler Teil der deutschen Weihnachtsfeierlichkeiten. Traditionell wird der Baum an Heiligabend geschmückt. Viele Deutsche bevorzugen echte Tannenbäume, die in den Wochen vor Weihnachten verkauft werden. Der Baum wird mit Lichtern, Kugeln, Engeln und oft auch mit Zuckerstangen und Schokoladenkringeln geschmückt. In einigen Regionen gibt es auch den Brauch, den Weihnachtsbaum mit „Lametta“ zu schmücken – das sind dünne silberne oder goldene Fäden, die dem Baum einen besonderen Glanz verleihen. 4. Weihnachtsmärkte und Glühwein Weihnachtsmärkte sind in Deutschland ein absolutes Highlight der Weihnachtszeit. Überall in den Städten gibt es Märkte, die mit festlichen Lichtern und Ständen geschmückt sind. Hier kann man Weihnachtsgeschenke kaufen, Kunsthandwerk bewundern und vor allem den traditionellen Glühwein genießen. Glühwein ist ein heißes, gewürztes Weingetränk, das in der kalten Winterzeit sehr beliebt ist. Die Weihnachtsmärkte bieten auch oft leckere Spezialitäten wie Bratwurst, Lebkuchen und Maronen. Ein Besuch auf einem deutschen Weihnachtsmarkt gehört für viele Deutsche einfach zu Weihnachten dazu. 5. Das Weihnachtsessen Das Weihnachtsessen ist in Deutschland oft sehr festlich. Am Heiligen Abend gibt es häufig ein besonderes Abendessen. In vielen Familien wird Kartoffelsalat mit Würstchen serviert, aber auch ein aufwändiges Festmahl mit Gans, Ente oder Karpfen ist sehr beliebt. Zu den Beilagen gehören Rotkohl, Klöße oder auch Kartoffen. Der 25. Dezember ist dann der große Familientag, an dem noch einmal gemeinsam gegessen und gefeiert wird. Traditionelle Gerichte und ein gemeinsames Zusammensitzen machen den Tag besonders festlich. 6. Die „Bescherung“ Die Bescherung, also das Auspacken der Geschenke, findet meist am Heiligen Abend statt. In vielen Familien werden die Geschenke unter dem Weihnachtsbaum verteilt, und es wird mit viel Freude und Aufregung ausgepackt. Besonders für Kinder ist es der Höhepunkt der Feierlichkeiten. In einigen Regionen Deutschlands bringt das Christkind die Geschenke, in anderen kommt der Weihnachtsmann. Aber die Bescherung am 24. Dezember bleibt der zentrale Moment. 7. Der erste Weihnachtstag – ruhiger Tag mit der Familie Am ersten Weihnachtstag, dem 25. Dezember, ist es in vielen Familien üblich, den Tag ruhig mit der Familie zu verbringen. Viele Deutsche besuchen an diesem Tag die Kirche und verbringen den Rest des Tages mit gemeinsamen Mahlzeiten, Gesprächen und ruhigen Momenten. Der Tag ist weniger hektisch als der Heilige Abend und bietet die Möglichkeit, die Weihnachtszeit in Ruhe zu genießen. Das Fazit Weihnachten in Deutschland ist also voll von besonderen Traditionen, die für festliche Stimmung sorgen. Vom Adventskranz über den Weihnachtsbaum bis hin zu den Weihnachtsmärkten und dem festlichen Essen – es gibt viele Brauch und Rituale, die Weihnachten zu einem besonderen Ereignis machen. Egal, ob du gerade Deutsch lernst oder einfach mehr über die deutsche Kultur erfahren möchtest, diese Traditionen sind ein wunderbarer Teil der deutschen Weihnachtstradition. Wenn dir dieses Video gefallen hat, dann abonniere den Kanal für mehr Einblicke in die deutsche Kultur und Sprache. Und wenn du dein Deutsch noch weiter verbessern möchtest, schau dir unsere Akademie an, wo du noch viele wertvolle Tipps und Übungen findest. AuthenticGermanLearning.com/join Danke fürs Zuschauen! Bis zum nächsten Mal — bis morgen!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07262569832402235
+  "src": "cc"
  },
  "Q-2WjiV39dA": {
   "channel": "Caillou Deutsch",
@@ -72184,7 +73514,7 @@
  "zx5OJK2x6wo": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T03:05:36+00:00",
+  "checked": "2026-11-26T05:56:59+00:00",
   "title": "Learn German B1| B1 Deutsch Hörverstehen | Musik und Alltag | German Story for Intermediate Learners",
   "duration": 551,
   "published": "20260622",
@@ -72193,6 +73523,7 @@
   "pace": 132.1,
   "rare": 0.037,
   "var": 0.8408,
+  "cl": null,
   "speech_s": 196.7,
   "tokens": 433,
   "kw": [
@@ -72277,11 +73608,149 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "morgen",
+    "Jeden Morgen höre ich Musik, während ich mich für die Arbeit vorbereite.",
+    103,
+    109,
+    5.43,
+    3
+   ],
+   [
+    "manchmal",
+    "Manchmal stellte ich mir vor, dass ich auf einer großen Bühne stehe und vor vielen Menschen singe.",
+    68,
+    76,
+    5.19,
+    3
+   ],
+   [
+    "stimmung",
+    "Eine Musikliste heißt \"Gute Stimmung am Morgen\" und die höre ich fast jeden Tag.",
+    123,
+    131,
+    4.64,
+    2
+   ],
+   [
+    "einfache",
+    "Hallo! Heute hören wir eine einfache B1-Geschichte auf Deutsch.",
+    0,
+    6,
+    4.57,
+    2
+   ],
+   [
+    "lustige",
+    "Wir reden über neue Lieder und schicken uns lustige Musikvideos.",
+    181,
+    187,
+    4.12,
+    1
+   ],
+   [
+    "versionen",
+    "Auf unserem Kanal findest du auch einfachere A1- und A2-Versionen derselben Geschichte.",
+    12,
+    20,
+    4.08,
+    1
+   ],
+   [
+    "backen",
+    "Musik macht das Backen viel schöner und entspannter.",
+    160,
+    165,
+    4.06,
+    1
+   ],
+   [
+    "spazieren",
+    "Wenn ich mit dem Bus fahre oder spazieren gehe,",
+    137,
+    141,
+    3.99,
+    1
+   ],
+   [
+    "sang",
+    "Früher saß ich oft allein in meinem Zimmer, hörte meine Lieblingslieder und sang laut mit.",
+    62,
+    69,
+    3.98,
+    1
+   ],
+   [
+    "aussprache",
+    "Danach üben wir gemeinsam den Wortschatz und die Aussprache.",
+    23,
+    28,
+    3.88,
+    1
+   ],
+   [
+    "lustiges",
+    "Denn dort wartet ein lustiges Quiz auf dich, um dein Verständnis zu testen.",
+    29,
+    35,
+    3.59,
+    1
+   ],
+   [
+    "entspannte",
+    "Dort sind deutsche Lieder, internationale Popmusik und einige entspannte Lieder.",
+    130,
+    138,
+    3.5,
+    1
+   ],
+   [
+    "backe",
+    "Am Sonntag backe ich gerne Kuchen oder Kekse zu Hause.",
+    145,
+    150,
+    3.45,
+    1
+   ],
+   [
+    "gestresst",
+    "Wenn ich gestresst oder müde bin, höre ich Musik und fühle mich sofort besser.",
+    91,
+    98,
+    3.37,
+    1
+   ],
+   [
+    "klavierunterricht",
+    "Eines Tages träumte ich sogar, dass ich Klavierunterricht nehme",
+    75,
+    80,
+    2.69,
+    1
+   ],
+   [
+    "vorbereite",
+    "Jeden Morgen höre ich Musik, während ich mich für die Arbeit vorbereite.",
+    103,
+    109,
+    2.58,
+    1
+   ],
+   [
+    "lieblingslieder",
+    "Früher saß ich oft allein in meinem Zimmer, hörte meine Lieblingslieder und sang laut mit.",
+    62,
+    69,
+    2.5,
+    1
+   ]
+  ],
+  "voc": 0.05621301775147929,
   "tx": "Hallo! Heute hören wir eine einfache B1-Geschichte auf Deutsch. Die Geschichte heißt \"Mein Leben mit Musik\". Wenn dieses Niveau noch etwas schwierig ist, keine Sorge! Auf unserem Kanal findest du auch einfachere A1- und A2-Versionen derselben Geschichte. Höre gut zu und versuche so viel wie möglich zu verstehen. Danach üben wir gemeinsam den Wortschatz und die Aussprache. Bleib bis zum Ende dabei! Denn dort wartet ein lustiges Quiz auf dich, um dein Verständnis zu testen. Viel Spaß! Mein Leben mit Musik Ich heiße Sofia und Musik ist schon seit meiner Kindheit ein wichtiger Teil meines Lebens. Als ich klein war, hatte mein Vater zu Hause eine alte Gitarre und ich fand sie immer sehr interessant. Mit zehn Jahren bekam ich meine erste kleine Gitarre und begann einfache Lieder zu lernen. Seitdem liebe ich Musik noch mehr. Früher saß ich oft allein in meinem Zimmer, hörte meine Lieblingslieder und sang laut mit. Manchmal stellte ich mir vor, dass ich auf einer großen Bühne stehe und vor vielen Menschen singe. Eines Tages träumte ich sogar, dass ich Klavierunterricht nehme und ein schönes Lied auf dem Klavier spiele. Seit diesem Traum möchte ich wirklich Klavier lernen. Musik macht mich glücklich und hilft mir, meine Gefühle auszudrücken. Wenn ich gestresst oder müde bin, höre ich Musik und fühle mich sofort besser. Mein Musikgeschmack ist sehr vielfältig und Musik spielt eine große Rolle in meinem Alltag. Jeden Morgen höre ich Musik, während ich mich für die Arbeit vorbereite. Ohne Musik am Morgen bin ich oft noch müde. Meistens höre ich Popmusik oder ruhige Lieder, weil sie mir Energie geben und gute Laune machen. Ich habe viele Musiklisten auf YouTube und Spotify. Eine Musikliste heißt \"Gute Stimmung am Morgen\" und die höre ich fast jeden Tag. Dort sind deutsche Lieder, internationale Popmusik und einige entspannte Lieder. Wenn ich mit dem Bus fahre oder spazieren gehe, habe ich immer Kopfhörer dabei und höre meine Lieblingsmusikliste. Am Sonntag backe ich gerne Kuchen oder Kekse zu Hause. Dabei spiele ich Musik in der Küche und singe manchmal mit. Meine Nachbarn können mich wahrscheinlich hören, aber das ist mir egal. Musik macht das Backen viel schöner und entspannter. Manchmal tanze ich sogar mit einem Löffel in der Hand durch die Küche. Mein Lieblingssänger ist ein deutscher Künstler, aber ich höre auch internationale Musik. Am Wochenende höre ich oft Musik mit meinen Freunden oder meiner Familie. Wir reden über neue Lieder und schicken uns lustige Musikvideos. Ohne Musik wäre mein Leben wirklich langweilig. Musik begleitet mich überall und verbessert sofort meine Stimmung. Deshalb kann ich mir einen Tag ohne Musik nicht vorstellen.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.05621301775147929
+  "src": "cc"
  },
  "75ERLNAfsMQ": {
   "channel": "Daily Deutsch",
@@ -73480,7 +74949,7 @@
  "YkStqIdaM2o": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T03:27:03+00:00",
+  "checked": "2026-11-26T05:56:38+00:00",
   "title": "🎹🎻 Beethoven: Der Komponist, der die Musik revolutionierte 🎶✨",
   "duration": 317,
   "published": "20241216",
@@ -73489,6 +74958,7 @@
   "pace": 87.7,
   "rare": 0.0953,
   "var": 0.8595,
+  "cl": null,
   "speech_s": 308.7,
   "tokens": 451,
   "kw": [
@@ -73597,11 +75067,149 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "deutsche",
+    "hinweg und berührt uns tief im Inneren. Beethoven und die deutsche Kultur",
+    207,
+    216,
+    5.57,
+    3
+   ],
+   [
+    "dezember",
+    "Zeiten ein: Ludwig van Beethoven! Am 16. Dezember gedenken wir ihm,",
+    13,
+    21,
+    5.04,
+    3
+   ],
+   [
+    "kulturen",
+    "Musik als eine Quelle der Kraft und Hoffnung. Sie verbindet uns über Generationen und Kulturen",
+    199,
+    208,
+    4.21,
+    2
+   ],
+   [
+    "wiener",
+    "einflussreichsten Komponisten der Wiener Klassik. Beethoven war nicht nur ein talentierter Musiker,",
+    56,
+    67,
+    4.75,
+    1
+   ],
+   [
+    "beschäftigung",
+    "Durch seine Musik und die Beschäftigung mit seinen Texten kannst du nicht nur dein Vokabular",
+    262,
+    271,
+    4.18,
+    1
+   ],
+   [
+    "noten",
+    "Wer kennt nicht die ersten vier dramatischen Noten seiner berühmten 5. Sinfonie?",
+    95,
+    111,
+    4.18,
+    1
+   ],
+   [
+    "emotionen",
+    "sondern auch ein Revolutionär in der Musikwelt. Er brachte Emotionen und Tiefgründigkeit in die",
+    66,
+    76,
+    4.15,
+    1
+   ],
+   [
+    "inspirieren",
+    "indem du Beethovens Musik hörst und dich von seinen Kompositionen inspirieren lässt!",
+    299,
+    310,
+    3.56,
+    1
+   ],
+   [
+    "opern",
+    "oder Opern – sind nicht nur künstlerisch beeindruckend, sondern auch emotional fesselnd.",
+    87,
+    96,
+    3.56,
+    1
+   ],
+   [
+    "wagte",
+    "Musik auf eine Weise, die vor ihm kaum jemand wagte. Seine Werke – ob Sinfonien, Klavierstücke",
+    75,
+    88,
+    3.5,
+    1
+   ],
+   [
+    "vermächtnis",
+    "Sein Vermächtnis – Musik, die die Zeiten überdauert",
+    136,
+    142,
+    3.49,
+    1
+   ],
+   [
+    "brüderlichkeit",
+    "ist ein wahres Meisterwerk, das als Symbol für Einheit und Brüderlichkeit steht.",
+    126,
+    137,
+    2.99,
+    1
+   ],
+   [
+    "join",
+    "Deutschlern-Akademie der perfekte Ort dafür! Besuche jetzt: AuthenticGermanLearning.com/join",
+    285,
+    295,
+    2.97,
+    1
+   ],
+   [
+    "überdauert",
+    "Sein Vermächtnis – Musik, die die Zeiten überdauert",
+    136,
+    142,
+    2.92,
+    1
+   ],
+   [
+    "talentierter",
+    "einflussreichsten Komponisten der Wiener Klassik. Beethoven war nicht nur ein talentierter Musiker,",
+    56,
+    67,
+    2.9,
+    1
+   ],
+   [
+    "widrigkeiten",
+    "Für viele Menschen ist Beethoven ein Symbol für den Triumph des Geistes über Widrigkeiten.",
+    159,
+    169,
+    2.89,
+    1
+   ],
+   [
+    "fesselnd",
+    "oder Opern – sind nicht nur künstlerisch beeindruckend, sondern auch emotional fesselnd.",
+    87,
+    96,
+    2.86,
+    1
+   ]
+  ],
+  "voc": 0.0975609756097561,
   "tx": "Hallo, liebe Deutschlerner! Ich bin’s, Mark von Authentic German Learning. Heute tauchen wir in die Welt eines der größten Komponisten aller Zeiten ein: Ludwig van Beethoven! Am 16. Dezember gedenken wir ihm, einem Meister der klassischen Musik, dessen Werke bis heute die Herzen vieler Menschen berühren. Beethoven – Ein Genie aus Bonn Geboren in Bonn und am 17. Dezember 1770 getauft, wird angenommen, dass Beethoven am 16. Dezember das Licht der Welt erblickte. Schon in jungen Jahren zeigte sich sein Talent, und er entwickelte sich zu einem der einflussreichsten Komponisten der Wiener Klassik. Beethoven war nicht nur ein talentierter Musiker, sondern auch ein Revolutionär in der Musikwelt. Er brachte Emotionen und Tiefgründigkeit in die Musik auf eine Weise, die vor ihm kaum jemand wagte. Seine Werke – ob Sinfonien, Klavierstücke oder Opern – sind nicht nur künstlerisch beeindruckend, sondern auch emotional fesselnd. Wer kennt nicht die ersten vier dramatischen Noten seiner berühmten 5. Sinfonie? Diese kraftvolle Eröffnung hat Generationen von Musikliebhabern in ihren Bann gezogen. Und seine 9. Sinfonie, in der er Schillers „Ode an die Freude“ vertonte, ist ein wahres Meisterwerk, das als Symbol für Einheit und Brüderlichkeit steht. Sein Vermächtnis – Musik, die die Zeiten überdauert Denke auch an das bezaubernde Klavierstück „Für Elise“, das so vielen von uns durch den Kopf geht, sobald die ersten Töne erklingen. Was bedeutet Beethoven für uns heute? Für viele Menschen ist Beethoven ein Symbol für den Triumph des Geistes über Widrigkeiten. Trotz seines zunehmenden Hörverlusts komponierte er weiter und schuf einige seiner bedeutendsten Werke, als er bereits taub war. Das ist eine enorme Inspiration für uns alle: Beethoven zeigt, dass man nie aufgeben sollte, selbst wenn das Leben uns vor große Herausforderungen stellt. Viele Menschen denken an seine Musik als eine Quelle der Kraft und Hoffnung. Sie verbindet uns über Generationen und Kulturen hinweg und berührt uns tief im Inneren. Beethoven und die deutsche Kultur Beethoven ist untrennbar mit der deutschen und europäischen Musikgeschichte verbunden. Seine Werke haben die klassische Musik nicht nur geprägt, sondern auch in viele Kulturen der Welt getragen. Für Deutschland ist er ein bedeutender Vertreter der Kultur und des künstlerischen Erbes. Was kannst du als Deutschlerner von Beethoven lernen? Beethoven ist auch eine großartige Möglichkeit, dein Deutsch zu verbessern! Viele seiner Stücke basieren auf deutschen Texten, wie zum Beispiel die „Ode an die Freude“. Durch seine Musik und die Beschäftigung mit seinen Texten kannst du nicht nur dein Vokabular erweitern, sondern auch ein tieferes Verständnis für die deutsche Kultur entwickeln. Wenn du tiefer in die deutsche Sprache und Kultur eintauchen möchtest, dann ist unsere Deutschlern-Akademie der perfekte Ort dafür! Besuche jetzt: AuthenticGermanLearning.com/join Feiere diesen Tag, indem du Beethovens Musik hörst und dich von seinen Kompositionen inspirieren lässt! Danke fürs Zuschauen! Bis zum nächsten Mal — bis morgen!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.0975609756097561
+  "src": "cc"
  },
  "sNvrXjV1Fks": {
   "channel": "Authentic German Learning",
@@ -74123,7 +75731,7 @@
  "lZv9N8bI_-w": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-13T03:40:19+00:00",
+  "checked": "2026-11-26T05:29:35+00:00",
   "title": "Tag 32 (Geschichte 38) Frau Holle ❄",
   "duration": 1884,
   "published": "20191121",
@@ -74132,6 +75740,7 @@
   "pace": 63.9,
   "rare": 0.0589,
   "var": 0.6367,
+  "cl": null,
   "speech_s": 1817.1,
   "tokens": 1935,
   "kw": [
@@ -74296,11 +75905,93 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "musste",
+    "die schöne tochter musste immer arbeiten",
+    284,
+    295,
+    5.38,
+    14
+   ],
+   [
+    "sagte",
+    "apfelbaum sagte der apfelbaum spricht ja",
+    697,
+    715,
+    5.48,
+    13
+   ],
+   [
+    "hübsch",
+    "hübsch ist auch etwas ein anderes wort",
+    135,
+    147,
+    4.3,
+    3
+   ],
+   [
+    "näher",
+    "musste immer näher die erste tochter die schöne die",
+    416,
+    425,
+    4.74,
+    2
+   ],
+   [
+    "schütteln",
+    "schütteln mich ist so schütteln mich ja",
+    714,
+    725,
+    3.81,
+    8
+   ],
+   [
+    "nadel",
+    "wir auch er ist mit einer nadel",
+    385,
+    398,
+    3.77,
+    8
+   ],
+   [
+    "holle",
+    "wenn frau holle die betten und schüttelt",
+    1086,
+    1101,
+    3.18,
+    5
+   ],
+   [
+    "lebensende",
+    "wütend und bis an ihr lebensende bis ans",
+    1791,
+    1813,
+    3.38,
+    4
+   ],
+   [
+    "torbogen",
+    "mit und sie gingen auch zu dem torbogen",
+    1699,
+    1707,
+    2.64,
+    2
+   ],
+   [
+    "mariechen",
+    "gaben den namen golden und mariechen ist",
+    1837,
+    1861,
+    2.45,
+    2
+   ]
+  ],
+  "voc": 0.09612403100775194,
   "tx": "die geschichte heute ist ein märchen ein bisschen von den grünen genau die geschichte heißt der name frauchen frau ministerin hat ja nicht in einem meer stück ist ein name wie steckt ja es war einmal vor langer langer zeit dann gibt eine frau und die frau ist nicht vor rolle ja das ist sie das ist nicht frau wollen die frau hatte zwei kinder sie hatte zwei töchter töchter sind mädchen ja sie hatte zwei töchter mit augen zu ja so sie hatte zwei töchter töchter sind mädchen ja zwei kinder die eine tochter die eine tochter die erste tochter war schön ja sie war sehr schön weil sie war hübsch ist … habe ich dann entschuldige bitte so viele hässlich und sie war auch nicht plötzlich sie war ja lieber faul ja sie war sehr voll die frau liebt die zweite top die frau liebte die zweite tochter sehr denn die zweite tochter war ihre tochter die erste tochter war eine stieftochter das war die stieftochter als die frau liegt sie liebte die andere tochter aber die stieftochter liebte sie nicht die schöne tochter musste immer arbeiten sie musste arbeit machen ja sie musste immer arbeiten immer arbeiten ja ja sie musste immer arbeit immer im sie musste immer arbeiten und die stieftochter … t shirt ja meint ein t shirt oder man lädt eine jacke jahren eine vorsorge die sie musste immer näher die erste tochter die schöne die stieftochter die schöne stieftochter musste immer näher an dem brunnen sie saß hier auf dem brunnen die saas hierfür sind ihre füße und sie nähte eines tages bluteten ihre finger eines tages saß das schöne mädchen an drohnen und ihre finger das ist die hand und finger bluteten sie nähte soviel ihre finger bluteten unklar ließ die schön das schöne mädchen die nadel in den brunnen fallen die nadel viel ist in den brunnen gibt zu denken die nicht das mädchen … der an das mädchen in den brunnen sparen in den brunnen die erste tochter die schöne tochter sprang in den brunnen sie machte die armen zu und sprang als die schöne tochter die augen aufmachte da war sie auf einer wiese die war nicht tot ja sie waren nicht im wasser sie war auf einer wiese in ein glas ist ein märchen da ist das okay sie war auf einer wiese in graz hier ist die wiese und das mädchen war nicht tot das mädchen war auf der wiese im gras sie gehen und zwar einen apfelbaum sie sah einen apfelbaum hier ist der bau und äpfel ja rote äpfel der baum hatte rote äpfel ein apfelbaum das … kein schatten der auf dem baum der baum den baum ging es gut ja der hammer fand es dann gegen das mädchen weiter und als nächstes sei das mädchen einen ofen sie sah einen ofen einen alten ofen es auch hier ist ein und genau das die tür wir sind ja und da oben kommt rauch in einem ofen sagt man brot oder kuchen ja sie sah einen ofen und der ofen sagte dass die tür die tür geht auf vielleicht eine kürzung ok in den ofen war ein boot den ofen war ein droht offenbar ein brot brot man ist ja im ofen war an bord und das vor sagte ich bin fertig ich bin fertig und das mädchen das brot aus dem … jeden tag jeden tag jeden tag montag dienstag mittwoch donnerstag freitag samstag sonntag jeden tag musst du die betten die fetten die battle hier dass wir die bettdecke schütteln du musst jeden tag die bettdecke schütteln ja aus dem fenster hier ist sie fertig das fell ist und sie muss die bettdecke ja in den betten sind weder eine feder ein vogel ein vogel hat federn wildes ja und in der bettdecke sind fehlern in findet bitte ja prima sagt du musst jeden tag die bettdecke schüssel im bett und auf der erde auf der erde wir sind auf der erde ja das ist hier die erde wenn frau holle die … tages trat das mädchen ich will nach hause ich will zurück zu meiner familie meine familie ist nicht so nett aber ich will nach hause und für alles sagt gut du hast gut gearbeitet du wachst sehr fleißig und das mädchen und frau holle gehen zu einem tor ein tor ja sie gehen durch ein durch ein tor ja so ist es auf englisch so ja durch ein tor durch wo werden ein tor wie eine große tür ein schloss ok sie gehen durch das tor und als das mädchen unter dem tor steht das mädchen steht hier da regnet es gold da kommt aus dem tor gold gold wird auch das mädchen es regnet gold deswegen bald unter … tochter soll auf grün sein und sie sagt tochter zu der faulen tochter ja tochter e zum wohnen und nee nee undicht dir in die hand mit einer nadel sticht mit der nadel in die hand dass die finger bluten ja und dann spring in den brunnen wie die erste tochter ae&e sie will dass die zweite tochter auch gold ist ja und sie denke ich nur macht alles was die goldene tochter gemacht hat die tochter die zweite tochter geht zum brunnen und sinan die nadel sie nahmen nagel und da das gleiche spiel wie stark sich in die finger und die finger bluteten und dann sprang die zweite tochter ohne angst sie … apple waren auf dem baum sie schüttelte dv nicht sie gingen weiter und sah den ofen und das board im offen ließ nämlich aus nämlich aus ich bin fertig die faule haut haben sagte sie nahm das brot nicht aus dem ofen sie ging weiter das bodes im ofen da sah die vw tochter sie sah das haus von frau holle und sie gehen zu dem haus klopfte an die tür und frau holle sagte auch zu der fallen tochter comit meinhofs du kannst hier leben aber du musst jeden tag die bettdecke schütte denn ich bin vom 1 und wenn du die decken schüttelt schneit es auch der erst am ersten tag schüttelte die vw-tochter … und ja ich klebte an ihren armen und in den haaren und am kleid und das mädchen war von kopf bis fuß mit überzug die stiefmutter undicht und die tochter waren nicht glücklich ja sie war sauer die stiefmutter war wütend und bis an ihr lebensende bis ans lebensende unter verweis bis an ihr lebensende klebte gold an der fleißigen tochter und pay an der faulen tochter und die menschen die personen die leute sagten gaben den namen golden und mariechen ist anna maria eine goldmarie gold mariechen kennen das immer klein und pechmarie und die namen hatten die mädchen bis an ihr lebensende war sein",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.08938053097345133
+  "src": "auto"
  },
  "E2mYC9iroVE": {
   "channel": "Authentic German Learning",
@@ -75701,7 +77392,7 @@
  "bBphEG2nPQQ": {
   "channel": "Kathrin Shechtman (Story Listening)",
   "lang": "de",
-  "checked": "2026-11-13T03:51:54+00:00",
+  "checked": "2026-11-26T05:56:12+00:00",
   "title": "Tag 29 (Geschichte 35) Die drei Ziegen 🐐 🐐 🐐",
   "duration": 1724,
   "published": "20191109",
@@ -75710,6 +77401,7 @@
   "pace": 48.9,
   "rare": 0.0448,
   "var": 0.6892,
+  "cl": null,
   "speech_s": 1561.0,
   "tokens": 1273,
   "kw": [
@@ -75858,11 +77550,109 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "seite",
+    "andere seite auch die andere seite das",
+    1181,
+    1190,
+    5.49,
+    9
+   ],
+   [
+    "gehen",
+    "und so gehen die drei siegen zusammen",
+    420,
+    430,
+    5.65,
+    8
+   ],
+   [
+    "dicke",
+    "sieger und eine dicke große siege das",
+    188,
+    213,
+    4.43,
+    6
+   ],
+   [
+    "gras",
+    "cristian fiel das katharinen grünes gras",
+    352,
+    370,
+    4.26,
+    6
+   ],
+   [
+    "erwartete",
+    "toll wartete wartete richtig erwartete erwartete dass jemand eine person oder",
+    798,
+    819,
+    3.92,
+    4
+   ],
+   [
+    "wartete",
+    "toll wartete wartete richtig erwartete erwartete dass jemand eine person oder",
+    798,
+    819,
+    3.95,
+    3
+   ],
+   [
+    "antritt",
+    "antritt trocken auch die andere seite so die mittel ist",
+    1343,
+    1356,
+    3.57,
+    1
+   ],
+   [
+    "thw",
+    "thw kiel ist der ekelig lächerliches",
+    669,
+    684,
+    3.57,
+    1
+   ],
+   [
+    "furore",
+    "furore hoch oben auf dem berg",
+    326,
+    335,
+    2.99,
+    1
+   ],
+   [
+    "ekelig",
+    "thw kiel ist der ekelig lächerliches",
+    669,
+    684,
+    2.98,
+    1
+   ],
+   [
+    "wiesel",
+    "und eine nase wie ein wiesel",
+    718,
+    728,
+    2.95,
+    1
+   ],
+   [
+    "spies",
+    "hinter spies hatte riesengroßen augen und eine nase wie ein wiesel",
+    712,
+    728,
+    2.94,
+    1
+   ]
+  ],
+  "voc": 0.10761979575805185,
   "tx": "die geschichte die 33 die drei siegen liegen machen es war einmal es waren einmal 13 ok 13 eine kleine ich weiß nicht mal seine hey das ist gab 13 eine kleine ziege ja eine mittelgroße zähler nicht groß mittelgroß normal ja eine mittelgroße tempel dies hier sei dies ein bisschen größer und die anderen jetzt schon sowas auge ist dass das personal ist gibt es in europa wird die mittelgroße ziege mit ja mittelgroß nicht klar nicht groß mittel bus nummer dass sie am ende von allen mit der große sieger und eine dicke große siege das ist die erste ziele erster die zweite und die dritte distanz groß … die tafel also dicke große und die kleine ziege eine mittelgroße zielgruppe große dunkel die drei siegen die drei ziegen wollten auf einem berg es gab manchen jungen erwartung dass es ein berg richtig video hat ja das ist der berg und die drei ziegen wollten wir auch den bergischen deutschen piloten auf den berg denn furore hoch oben auf dem berg das ist new york nein kein schnee erst mal grünes machen lassen cristian fiel das katharinen grünes gras auf dem berg war viel grüne stars und die 13 hatten hunger sie hatten roma hier ja die 37 hatten hunger den 3 die 13 die 13 wollten das grüne … zusammen nicht allein nicht die erste link naja die zweite sie gingen zusammen das zusammen richtig zusammen die drei ziegen gehen zusammen zudem aber auf dem weg der w3c romberg auf den weg kamen die drei ziegen an eine brücke ist sich rücker hier ist die brücke darf ist eine hier ist die linke und die drei ziegen kamen an die brücke hier ist siege nummer eins ab die kleine ziege die mittelgroße ja aber hier ist was auf die die 13 vor wenn die drei zentralen an die brücke und unter der brücke unter der brücke wird war ein wasserfall ein wachsamer geworden hier kommt das nachforschen wohl … hier ist ein wasserfall und so gehen die sieger wollte auch die brücke gehen aber unter der brücke unter der brücke träume und lebte einfach ein tolles wie ein monster ein monster es gibt keine unter der brücke lebte ein troll und der thw kiel ist der ekelig lächerliches allerdings ist so der gemeinsten täglich sind toll der troll hatte riesen große augen hier ist der tolle riesengroße augen hinter spies hatte riesengroßen augen und eine nase wie ein wiesel die nase ist lahm wie ein besen ein besenstiel hier sein wesen hier ist der strom kommt hier richtig und das ist ja und das hier nur … nase war ja reichlich und hier der komischen keine ohren naja ich finde ja geworden da ist der treue der ton liegt unter der brücke und der toll wartete wartete richtig erwartete erwartete dass jemand eine person oder ein tier das jemand ja was ist jemand erwartet dass jemand der erwartete auch jemanden auf ein tier oder eine person erwartete er wartete auf jemanden auf eine person denn der zoll hatte auf der talbrücke jedem anderen messen er wollte jemanden ist ist das gleiche wie es noch das so leicht wohl leider wurden aber auf deutsch fresse ist für tiere essen ist für personen für … die brücke hier sind die kleine ziege achtung so kleine ziege die kleine ziege ist nicht hier die fleißige ging auf die brücke sie gehen sie in trippelschritten triple triple triple drittel der 2 der troll die kleinen dinge machte triple street triple triple und intrigen wer triple kleine brücke das ist das geräusch abtritt triple macht die kleine ziege und für trippelt auf meine die klein sagte ich finds oder ich bin ja jetzt liegen die geistige will auf den berg ich habe hunger ich will das grüne grüne gras fressen ja und der troll presse dich in einer stück ich fresse sich einen stück … klein ja ich bin so klein gleich nicht jetzt gleich in ein paar sekunden ja in einer minute der vergleich kommt mir meine schwester gleich kommt meine schwester und meine schwester ist größer als ich so dass meine schwester nicht möglich ja ja ist wichtig jetzt die tat meine schwester ist größer und dicker ja du bist meine schwester geht nicht ich bin so klein guck mal und der troll sagte oder der troll shri shri ist noch lang mutter erschien dann geh weg und die kleine ziege trippelte der betrieb in trippelschritten triple auf die andere seite auch die andere seite das ist die andere … gefressen da gehen die mittelgroße ziege auf die brücke und der tat rief wieder toll lief wieder die geometrie große ziehen und tritte nicht die mittel große ziele gehen tropft rücktritt auf die brücke ja toll auch weil die nähe große ziele sagte ich finds die mittelgroße ziege auf den berg das grüne grünen und der toll lief wieder ich lasse dich stück die mittelgroßen zirkel sagte und das ist keine gute idee ich nicht so groß gleich in ein paar sekunden öffnet meine schwester ums leben größer und dicker als wir dann warte auf meine große dicke der ton schrieb wieder dann und die mittellose … die andere seite der brücke als andere seite werden ja die sache so nötig sind ist die nase nicht traurig die große auf die brücke und sie nacht du nicht zu betrachten sie machte nicht triple triple sie tante wie hüte auf die brücke man findet sie braucht platz ließ er so groß noch ist garantiert so muss wie brücken derek roy lief wieder ein und die dicke große sieger großer sieger und ich bin die größte ist die größte die skeptiker sei nicht die größe und die sticker von allen und der troll ich will auf die andere seite ich bin auf dem er das grüne gras fressen der gemeine alte treu sagte … kletterte er hat hatte die burg hier ist der zoll großer lange nacht der trasse auch die brücke falls die ganze kreuzung und dafür die höhere nach hier und die ziege machte die kopfstoß den 3 von der brücke der treibgut von flow fiel runter runter runter und das war das ende für den troll nicht für die ziegen dass die dicke tante ziegel die dicke große ziele gehen auf die andere seite und die 13 gegen die gefühlte siege noch mal frage jetzt weiß ich nicht die große siege die mittelgroßen ziege die kleine ziege gegen auf den und fraßen das grüne grüne gras bis 13 groß und dick und fett waren",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.11194029850746269
+  "src": "auto"
  },
  "AAIXDDMsBTQ": {
   "channel": "Miffy - Deutsch",
