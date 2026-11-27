@@ -39,18 +39,74 @@
   "UCVwfqPkv08OTuHzkPU3EaDw": [
    "2026-11-15",
    "usable 0/3, another language 3"
+  ],
+  "UCywtp1ehctyZRNY0axQ9QTg": [
+   "2026-11-26",
+   "usable 0/3, another language 3"
+  ],
+  "UC0K1yE6W_EuXVlTGhNgjkIw": [
+   "2026-11-26",
+   "usable 0/3"
+  ],
+  "UCuf9l40I1Y5TEq89QnwUiBw": [
+   "2026-11-26",
+   "usable 0/3"
+  ],
+  "UC_Fr00uuYhlGM-asbPf6dVQ": [
+   "2026-11-26",
+   "usable 0/3"
+  ],
+  "UCNmfepkcaQlMEwyIsbUs63g": [
+   "2026-11-26",
+   "usable 1/3, another language 1"
+  ],
+  "UCL1vGbFw4uO8imilA1dDs7Q": [
+   "2026-11-26",
+   "usable 0/3, another language 2"
+  ],
+  "UCXQaYAb8D39Aq9otMyZLc9Q": [
+   "2026-11-26",
+   "usable 0/1, another language 1"
+  ],
+  "UCKRp9QaI8QAzKUWp8nU0uhQ": [
+   "2026-11-26",
+   "error: YouTube에 연결하지 못했어요 (인터넷 연결을 확인해 주세요)"
+  ],
+  "UCFN3F44NUQzkbPn9wgvgsFA": [
+   "2026-11-26",
+   "no videos"
+  ],
+  "UC5r3WHrX4Z7peSYpDlgktGw": [
+   "2026-11-26",
+   "usable 1/3, another language 2"
+  ],
+  "UCFItRYXsq7v3EwY5cpIAfXA": [
+   "2026-11-26",
+   "no videos"
+  ],
+  "UCPR3iRAsu0e7Am_g1QMRmxw": [
+   "2026-11-26",
+   "usable 0/2"
+  ],
+  "UC4sDvKtEaWH0OAhstSm_miA": [
+   "2026-11-26",
+   "usable 0/3, another language 3"
+  ],
+  "UCfwcImS3oYgV4VmZ9bnndsQ": [
+   "2026-11-26",
+   "usable 0/3, another language 1"
   ]
  },
  "langs": {
-  "zh": "2026-11-15",
-  "es": "2026-11-15",
-  "fr": "2026-11-15",
-  "de": "2026-11-15",
-  "en": "2026-11-15",
-  "ja": "2026-11-15",
-  "ko": "2026-11-15",
-  "no": "2026-11-15",
-  "ar": "2026-11-15"
+  "zh": "2026-11-26",
+  "es": "2026-11-26",
+  "fr": "2026-11-26",
+  "de": "2026-11-26",
+  "en": "2026-11-26",
+  "ja": "2026-11-26",
+  "ko": "2026-11-26",
+  "no": "2026-11-26",
+  "ar": "2026-11-26"
  },
  "queries": {
   "comprehensible input chinese": "2026-11-15",
@@ -70,7 +126,25 @@
   "comprehensible input norwegian": "2026-11-15",
   "lær norsk": "2026-11-15",
   "comprehensible input arabic": "2026-11-15",
-  "arabic listening practice": "2026-11-15"
+  "arabic listening practice": "2026-11-15",
+  "easy chinese stories": "2026-11-26",
+  "中文播客 中文学习": "2026-11-26",
+  "español fácil historias": "2026-11-26",
+  "aprender español con historias": "2026-11-26",
+  "apprendre le français avec des histoires": "2026-11-26",
+  "slow french": "2026-11-26",
+  "langsam gesprochenes deutsch": "2026-11-26",
+  "einfaches deutsch geschichten": "2026-11-26",
+  "slow english podcast": "2026-11-26",
+  "learn english through stories": "2026-11-26",
+  "日本語ポッドキャスト 学習者": "2026-11-26",
+  "japanese listening practice": "2026-11-26",
+  "korean listening practice": "2026-11-26",
+  "한국어 듣기 연습": "2026-11-26",
+  "norsk for innvandrere": "2026-11-26",
+  "norwegian listening practice": "2026-11-26",
+  "arabic podcast for learners": "2026-11-26",
+  "تعلم العربية قصص": "2026-11-26"
  },
  "seeds": {
   "https://www.youtube.com/channel/UCc-YIMz_tv1K_FKE4noY_Cw": "2026-11-15",
@@ -108,7 +182,43 @@
   "https://www.youtube.com/channel/UCQdEQ6KW8fpwuVSdtalXupg": "2026-11-15",
   "https://www.youtube.com/@ajplusarabi": "2026-11-15",
   "https://www.youtube.com/@dwarabic": "2026-11-15",
-  "https://www.youtube.com/@EasyArabic": "2026-11-15"
+  "https://www.youtube.com/@EasyArabic": "2026-11-15",
+  "https://www.youtube.com/channel/UCfZMbVwy_GS2cols8X4vu_w": "2026-11-26",
+  "https://www.youtube.com/channel/UC6vaHDbhkdOtq_HQ60bNGNA": "2026-11-26",
+  "https://www.youtube.com/channel/UCIYAzXc6_EkPU6I9qmNSD0g": "2026-11-26",
+  "https://www.youtube.com/channel/UCNVgB9yYGjpz-kTUOYTGLsQ": "2026-11-26",
+  "https://www.youtube.com/channel/UCouyFdE9-Lrjo3M_2idKq1A": "2026-11-26",
+  "https://www.youtube.com/channel/UCvqBmDu7Y3e1zFsAx3JVCig": "2026-11-26",
+  "https://www.youtube.com/channel/UCYOW3DzLXOHPllBt34ruWCA": "2026-11-26",
+  "https://www.youtube.com/channel/UCMVbkbyxW4_uZ1R-B8_Phbw": "2026-11-26",
+  "https://www.youtube.com/channel/UC0Oa7sZBIxTdYq9H-JIF8AA": "2026-11-26",
+  "https://www.youtube.com/channel/UCI4xp8qHD1MDErkqxb1dPbA": "2026-11-26",
+  "https://www.youtube.com/channel/UCVgW9ZQaGBk6fsiPgE2mYDg": "2026-11-26",
+  "https://www.youtube.com/channel/UC_XYAAXeuD_3JPDJ-QSv1jg": "2026-11-26",
+  "https://www.youtube.com/@EasyGerman": "2026-11-26",
+  "https://www.youtube.com/channel/UC1xaY8XtSMaJN38RYJoGGCg": "2026-11-26",
+  "https://www.youtube.com/channel/UCCAI6jmeW5hWz2-jaLPqLUQ": "2026-11-26",
+  "https://www.youtube.com/channel/UCthmoIZKvuR1-KuwednkjHg": "2026-11-26",
+  "https://www.youtube.com/channel/UCHaHD477h-FeBbVh9Sh7syA": "2026-11-26",
+  "https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ": "2026-11-26",
+  "https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA": "2026-11-26",
+  "https://www.youtube.com/channel/UCvgLaFuTGGRXl0eyvBRCifA": "2026-11-26",
+  "https://www.youtube.com/channel/UCp08vMyfpoMDcHAUBOcu-8g": "2026-11-26",
+  "https://www.youtube.com/channel/UCTTX6r6lMNDRCl5K5wM-IVg": "2026-11-26",
+  "https://www.youtube.com/channel/UCTHpohf0diT8V3E2q29Pyuw": "2026-11-26",
+  "https://www.youtube.com/channel/UC_lynzl0m1QQD3ggIDgYCEw": "2026-11-26",
+  "https://www.youtube.com/@basickoreanbk": "2026-11-26",
+  "https://www.youtube.com/@NamuoriKorean": "2026-11-26",
+  "https://www.youtube.com/@DidiKoreanPodcast": "2026-11-26",
+  "https://www.youtube.com/@LinasKorean": "2026-11-26",
+  "https://www.youtube.com/channel/UCDisCabc2DDWSxP4nbvAoBA": "2026-11-26",
+  "https://www.youtube.com/channel/UCYtPCrC03j9txRKY1Kw3EFw": "2026-11-26",
+  "https://www.youtube.com/channel/UCXCgk1-m-KnuAI2Xmf85wNw": "2026-11-26",
+  "https://www.youtube.com/channel/UCbrUYR892qBNQyY3DEqfTBg": "2026-11-26",
+  "https://www.youtube.com/@ElDa7ee7": "2026-11-26",
+  "https://www.youtube.com/@thmanyah": "2026-11-26",
+  "https://www.youtube.com/@learnegyptianeasilyy": "2026-11-26",
+  "https://www.youtube.com/@LearnArabicKhasu": "2026-11-26"
  },
  "items": [
   {
@@ -1168,6 +1278,947 @@
    ],
    "hits": 1,
    "t": "2026-11-15"
+  },
+  {
+   "name": "Learn Chinese Through Podcast",
+   "lang": "zh",
+   "url": "https://www.youtube.com/@LearnChineseThroughPodcast",
+   "cid": "UCI8Liuxdz6UPv5rgMskfwPg",
+   "score": 38,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 93,
+   "native": false,
+   "titles": [
+    "HSK 3+ | “Your Chinese Is So Good!” What Should You Say? | Chinese Listening Practice",
+    "HSK 2 - 4 | Chinese Round Table Rules: Seating, Toasts, and Saying No | Chinese Listening Practice",
+    "HSK 2 - 4 | 画蛇添足: Learn When to Stop Adding More at Work | Chinese Listening Practice"
+   ],
+   "via": [
+    [
+     "search",
+     "easy chinese stories"
+    ],
+    [
+     "search",
+     "中文播客 中文学习"
+    ]
+   ],
+   "hits": 3,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Chinese Podcast Station",
+   "lang": "zh",
+   "url": "https://www.youtube.com/@ChinesePodcastStation101",
+   "cid": "UCl4ilk3ZjTMhG0iG8ryMNvg",
+   "score": 28,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 73,
+   "native": false,
+   "titles": [
+    "HSK | 不要浪费生命 | Bú yào làng fèi shēng mìng | Don’t Waste Your Life",
+    "HSK | 怎么自然听懂母语者 | Zěnme zìrán tīng dǒng mǔyǔ zhě | How to Understand Native Speakers Naturally",
+    "HSK |日常习惯 | Rìcháng Xíguàn | Talking About Daily Habits"
+   ],
+   "via": [
+    [
+     "search",
+     "中文播客 中文学习"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Learning Chinese with stories",
+   "lang": "zh",
+   "url": "https://www.youtube.com/@learningchinesewithstories",
+   "cid": "UCnyUfpgkAnlz_Vq16WVfupQ",
+   "score": 28,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "My Hometown, My Family | Learning Chinese with stories |  Listening & Speaking Skills  #hsk4 #hsk3",
+    "I was “tricked” by WeChat Moments | Learning Chinese with stories | #mandarin #hsk4 #hsk3",
+    "Song Healed Her Sorrow | Learning Chinese with Stories | #mandarin #hsk4 #hsk3 #learnchinese"
+   ],
+   "via": [
+    [
+     "search",
+     "easy chinese stories"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Aprende español con historias",
+   "lang": "es",
+   "url": "https://www.youtube.com/@AprendeEsp",
+   "cid": "UCvKW6uiFvbjiYhr44ksiHJQ",
+   "score": 33,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Learn Spanish with famous couples: Love without marriage",
+    "Learn Spanish with detective stories: The Man Who Didn't Exist",
+    "Learn Spanish with History: The 2011 Triple Disaster"
+   ],
+   "via": [
+    [
+     "search",
+     "español fácil historias"
+    ],
+    [
+     "search",
+     "aprender español con historias"
+    ]
+   ],
+   "hits": 6,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Lyke.Espanol",
+   "lang": "es",
+   "url": "https://www.youtube.com/@Lyke.Espanol",
+   "cid": "UCsbsk49TzZ1GV1CyJqeHQvw",
+   "score": 27,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "THE SECRET I KEEP  |  Learn SPANISH with this SIMPLE STORY  ⭐   Level 3",
+    "THE GIRL BEHIND THE MASK  | Spanish Story for beginners |  Level 3 ⭐",
+    "A SPANISH STORY | Spanish Story for beginners |  Level 2⭐"
+   ],
+   "via": [
+    [
+     "search",
+     "aprender español con historias"
+    ]
+   ],
+   "hits": 3,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "TheRunningFarm",
+   "lang": "es",
+   "url": "https://www.youtube.com/@TheRunningFarm",
+   "cid": "UC693BBJet7rUMx4fK_-4_NQ",
+   "score": 42,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "LONG STORY | The Rooftop Nest | Learn Spanish by Listening",
+    "LONG STORY | The Chocolate Maker of Wide Street | Learn Spanish by Listening",
+    "LONG STORY | The Dawn Milkman | Learn Spanish by Listening"
+   ],
+   "via": [
+    [
+     "search",
+     "español fácil historias"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Churro · Espanhol com vídeos",
+   "lang": "es",
+   "url": "https://www.youtube.com/@churro.espanhol",
+   "cid": "UCpCGcDHn8nwykjAjgeHuFWg",
+   "score": 44,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Como aprender espanhol com o Churro (app grátis) — cenas reais de nativos",
+    "Easy Spanish Story 🖼️ | Learn Spanish A1-A2 | El retrato",
+    "El Pántano del Espíritu 👻 | Historia fácil en español (A1-A2) | Aprende español"
+   ],
+   "via": [
+    [
+     "search",
+     "español fácil historias"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "WowSpoken Spanish",
+   "lang": "es",
+   "url": "https://www.youtube.com/@WowSpokenSpanish",
+   "cid": "UCG6nlrrWxuSd07gFaDxetSA",
+   "score": 42,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Aprende Español con una A2-B1 Historia de Viaje en Familia | Practica Español",
+    "Practica A2-B1 Español Escuchando: Cómo Planeo Mi Semana ? | Aprende Español con Historias",
+    "Aprende Español con una A2-B1 Historia: Un Domingo Sin Prisa | Practica Español"
+   ],
+   "via": [
+    [
+     "search",
+     "español fácil historias"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Francais facile | Easy French",
+   "lang": "fr",
+   "url": "https://www.youtube.com/@Easy_French",
+   "cid": "UC7xqzOfOgsSegMN48WbrKxw",
+   "score": 16,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Learn French with an Easy Story for Beginners 🇫🇷 | A1–A2",
+    "Apprenez le français avec des histoires simples pour débutants (A1–A2)",
+    "Apprenez Comme un Espion || Histoire simple pour débutants (A1–A2)"
+   ],
+   "via": [
+    [
+     "search",
+     "apprendre le français avec des histoires"
+    ]
+   ],
+   "hits": 9,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Le French Club",
+   "lang": "fr",
+   "url": "https://www.youtube.com/@LeFrenchClub",
+   "cid": "UCXJhsHwX3IeKrP6iS8KnboQ",
+   "score": 20,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 47,
+   "native": false,
+   "titles": [
+    "4 extraits de séries pour tester ta compréhension orale en français 🇫🇷",
+    "Arrête de parler un français trop scolaire ! 🙅🏻 - Utilise ces expressions",
+    "🇫🇷 Parle français plus naturellement avec le SHADOWING ! (Exercice pratique)"
+   ],
+   "via": [
+    [
+     "search",
+     "apprendre le français avec des histoires"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Learn French with Elisabeth - HelloFrench",
+   "lang": "fr",
+   "url": "https://www.youtube.com/@elisabeth_hellofrench",
+   "cid": "UCo6iNXVDuG-SQlAdxAGPGHg",
+   "score": 28,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 87,
+   "native": false,
+   "titles": [
+    "How to Go from B1 to B2 in French - My Study Plan",
+    "Learn French with Brigitte Bardot's Controversial Story",
+    "A DAY WITH US - French Listening Practice (Subtitles)"
+   ],
+   "via": [
+    [
+     "search",
+     "apprendre le français avec des histoires"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "French mornings with Elisa",
+   "lang": "fr",
+   "url": "https://www.youtube.com/@FrenchmorningswithElisa",
+   "cid": "UCbj8Qov-9b5WTU1X4y7Yt-w",
+   "score": 13,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 67,
+   "native": false,
+   "titles": [
+    "Cuisine une tarte tatin en français avec moi - French cooking vlog",
+    "Si tu peux prononcer ces mots, ta prononciation est excellente !",
+    "French Vocabulary Lesson : Learn 50 words on a boat in the Mediterranean"
+   ],
+   "via": [
+    [
+     "playlist",
+     "maprofdefrançais"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "News Zentrale",
+   "lang": "de",
+   "url": "https://www.youtube.com/@newszentrale6870",
+   "cid": "UCndmr6gTAxUk8rxA8yF8Rwg",
+   "score": 38,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 33,
+   "native": false,
+   "titles": [
+    "Learning German with News, 11/26/2026 - spoken slowly",
+    "2026 November 26 BBC One minute World News",
+    "November 26, 2026 Tagesschau in 100 Seconds"
+   ],
+   "via": [
+    [
+     "search",
+     "langsam gesprochenes deutsch"
+    ]
+   ],
+   "hits": 5,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Deutsche Geschichten",
+   "lang": "de",
+   "url": "https://www.youtube.com/@German.Stories.1234",
+   "cid": "UCcCubRnVVfG76IIzxgRuF1A",
+   "score": 44,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Mein Weg aus der Armut | Learn German with Short Stories | German Short Stories",
+    "Meine Angst hat mein Leben bestimmt | Learn German with Short Stories | German Short Stories",
+    "Mein bester Freund hat mich verraten | Learn German with Short Stories | German Short Stories"
+   ],
+   "via": [
+    [
+     "search",
+     "einfaches deutsch geschichten"
+    ]
+   ],
+   "hits": 5,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "EXPOLINGUA Berlin",
+   "lang": "de",
+   "url": "https://www.youtube.com/@expolingua_online",
+   "cid": "UCHBm8EI1Q6BZc-JyfCccWtA",
+   "score": 49,
+   "ok": 2,
+   "n": 3,
+   "subs": 2,
+   "lt": 13,
+   "native": false,
+   "titles": [
+    "EXPOLINGUA Berlin, November 14-15, 2025",
+    "Hack your learning habits for language learning success",
+    "Norwegisch: Schnupperkurs für Anfänger ohne Vorkenntnisse"
+   ],
+   "via": [
+    [
+     "playlist",
+     "Deutsch mit Marija"
+    ]
+   ],
+   "hits": 4,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Let's Learn German",
+   "lang": "de",
+   "url": "https://www.youtube.com/@lets_learngerman",
+   "cid": "UCNXSzElUYaOdO387BA0Mpfw",
+   "score": 24,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Deutsche Geschichte (A1/A2) - Von dem Fischer und seiner Frau",
+    "Deutsche Geschichte (A2+ / B1) - Das Zaubertöpfchen",
+    "Deutsche Geschichte (A2+) - Der Müller, sein Sohn und der Esel"
+   ],
+   "via": [
+    [
+     "search",
+     "einfaches deutsch geschichten"
+    ]
+   ],
+   "hits": 3,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Learn German Through Story",
+   "lang": "de",
+   "url": "https://www.youtube.com/@LearnGermanThroughStory",
+   "cid": "UCoHNTyRzR_pFV9EpETeUT8A",
+   "score": 39,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 93,
+   "native": false,
+   "titles": [
+    "Deutsch Hörverstehen | Ein Spiel mit dem Schicksal | C1",
+    "Deutsch im Alltag | 3 Dialoge mit nützlichen Redewendungen",
+    "Deutsch lernen durch Hören B2 - C1 | Die perfekte Frau? | Lustige Geschichte"
+   ],
+   "via": [
+    [
+     "search",
+     "einfaches deutsch geschichten"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Miss Honey 🍯",
+   "lang": "en",
+   "url": "https://www.youtube.com/@Slow_English_Podcast",
+   "cid": "UCgoWgP5yvebzcyKS1D9nSpA",
+   "score": 15,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Learn English While you Chat with ME",
+    "The Easiest English Video on YouTube (Coffee and Chat With Me)",
+    "Live English Practice [BIRTHDAY SPECIAL]"
+   ],
+   "via": [
+    [
+     "search",
+     "slow english podcast"
+    ]
+   ],
+   "hits": 7,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "English Cozy Chat",
+   "lang": "en",
+   "url": "https://www.youtube.com/@englishcozychat",
+   "cid": "UCchoNkjEsOAm9QK4tXNGr9Q",
+   "score": 17,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Shadowing Practice 💬 At a Restaurant: English Speaking Practice (A2–B1)",
+    "Slow English Podcast - My Weekend! I went to a Football Game 🏈 (A2-B1)",
+    "Slow English Chat ☕ How I feel about CLOTHES (B1)"
+   ],
+   "via": [
+    [
+     "search",
+     "slow english podcast"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Slow English Time",
+   "lang": "en",
+   "url": "https://www.youtube.com/@Slowenglishtime",
+   "cid": "UCflH9ihbgkXUQbgg6u2ETkA",
+   "score": 14,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Spoken English course for beginners.Day 9 | How to speak English like a native",
+    "spoken English course from A to Z, Day 7 | A real English course for daily English conversations￼",
+    "English course from A to Z | Learn natural English and speak like a native"
+   ],
+   "via": [
+    [
+     "search",
+     "slow english podcast"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Volka English",
+   "lang": "en",
+   "url": "https://www.youtube.com/@VolkaEnglish",
+   "cid": "UCcvjK35lDPZTlkIrrwxpepg",
+   "score": 67,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 87,
+   "native": false,
+   "titles": [
+    "I Tried the Craziest Street Food in Japan",
+    "Read With Me and Shadow to Improve Your English Naturally",
+    "A Day in Tokyo: Think in English With Me"
+   ],
+   "via": [
+    [
+     "search",
+     "slow english podcast"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "YUYUの日本語Podcast",
+   "lang": "ja",
+   "url": "https://www.youtube.com/@yuyunihongopodcast",
+   "cid": "UC8dWfySP_cKDMFj6aFfQbFA",
+   "score": 53,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 80,
+   "native": false,
+   "titles": [
+    "日本語の読解力を伸ばすなら、もっと物語を読もう！【Satori Reader】Improve Your Japanese by Reading Stories! | Satori Reader",
+    "日本人はなぜ「腹」で感情を表すのか？日本語の不思議な慣用句3選 Why Do Japanese People Express Emotions Through Their Stomachs?",
+    "覚えた日本語が出てこない人へ！単語を「使える」に変える復習法 / How to Actually Remember and USE Japanese Vocabulary"
+   ],
+   "via": [
+    [
+     "search",
+     "日本語ポッドキャスト 学習者"
+    ]
+   ],
+   "hits": 10,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Speak Japanese Naturally PODCAST",
+   "lang": "ja",
+   "url": "https://www.youtube.com/@SpeakJapaneseNaturallyPodcast",
+   "cid": "UC_NROu3WWx1KZ7tNl275F7A",
+   "score": 36,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "日本の小学校で習うことが日本の社会を作っている｜日本語ポッドキャスト【中・上級】",
+    "みなさんは、冬の準備をしましたか？｜日本語ポッドキャスト【中・上級】",
+    "温泉ランキングとマナー｜日本語ポッドキャスト【中・上級】"
+   ],
+   "via": [
+    [
+     "search",
+     "日本語ポッドキャスト 学習者"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "MAIの日本語Podcast",
+   "lang": "ja",
+   "url": "https://www.youtube.com/@MaichanJapanesePodcast",
+   "cid": "UCHGG3r0AOPgc88OKka45UWw",
+   "score": 36,
+   "ok": 1,
+   "n": 1,
+   "subs": 1,
+   "lt": 73,
+   "native": false,
+   "titles": [
+    "💎【Casual Japanese Podcast】Recommended Japanese Dramas Released in September 2026! (Furigana Subs)",
+    "【Casual Japanese Podcast】Recommended Japanese Dramas Released in September 2026!",
+    "💎Ep.87– Dreaming of Living in Tokyo: What's It Really Like?(Membership)"
+   ],
+   "via": [
+    [
+     "search",
+     "日本語ポッドキャスト 学習者"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Japanese super immersion",
+   "lang": "ja",
+   "url": "https://www.youtube.com/@JSI55",
+   "cid": "UCLp9rnRAcrFSzsoXsjXYJYA",
+   "score": 32,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 80,
+   "native": false,
+   "titles": [
+    "０から始める日本語 【ラーメン屋の言葉】N5 Don't Say  Check  at a Japanese Ramen Shop",
+    "「お米を作る」は間違い？家にあるもの10個【N5】10 Home Words Beginners Use Wrong",
+    "0から始める日本語会話  「と」から始まる10動詞【N5】Japanese Listening practice"
+   ],
+   "via": [
+    [
+     "search",
+     "日本語ポッドキャスト 学習者"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Uki Uki Japanese Podcast by a Native Speaker",
+   "lang": "ja",
+   "url": "https://www.youtube.com/@ukiukijapanesepodcast",
+   "cid": "UCiGPz7mI2F9zOyF40mYmrQg",
+   "score": 35,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 87,
+   "native": false,
+   "titles": [
+    "幸せって？Are you really happy when doomscrolling? Let’s talk about 3 types of happiness💝",
+    "Why is it difficult for foreigners to find an apartment in Japan?　#日本語ポッドキャスト 🇯🇵",
+    "As you get older, you will lose friends… The truth is?｜Japanese Podcast🇯🇵"
+   ],
+   "via": [
+    [
+     "search",
+     "日本語ポッドキャスト 学習者"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "HINA Japanese",
+   "lang": "ja",
+   "url": "https://www.youtube.com/@HINAJapanese-e9d",
+   "cid": "UCmwE4l5LJeX6a9XrbfMnLug",
+   "score": 42,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 93,
+   "native": false,
+   "titles": [
+    "【ご報告】しばらく動画投稿をお休みします。",
+    "【Japanese Listening】漢字は、いらない？｜N3・N2中級podcast",
+    "【Japanese Listening】「するな」と言われたらしたくなる！｜N1・N2レベルpodcast"
+   ],
+   "via": [
+    [
+     "search",
+     "日本語ポッドキャスト 学習者"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Korean with Mina",
+   "lang": "ko",
+   "url": "https://www.youtube.com/@Koreanwithmina",
+   "cid": "UCYBToQk7WhzdlxGTNK2e8Zw",
+   "score": 21,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Interview with My Student, Lucy | Transcript • Study Pack • Shadowing Practice",
+    "K-Drama Fans, Have You Watched ALL of These? 👀 | Korean Conversation with a Canadian Student🎙️",
+    "SUB) Interview with My Student, Chelsea | Transcript • Study Pack • Shadowing Practice"
+   ],
+   "via": [
+    [
+     "search",
+     "korean listening practice"
+    ],
+    [
+     "search",
+     "한국어 듣기 연습"
+    ]
+   ],
+   "hits": 3,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Small Talk in Korean",
+   "lang": "ko",
+   "url": "https://www.youtube.com/@SmallTalkinKorean",
+   "cid": "UC0bsXLXrSxltCp0BN2O0Jpg",
+   "score": 7,
+   "ok": 2,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Learn Korean at a Café | 30 Essential Phrases | Listen & Repeat",
+    "Korean Listening Practice for Beginners 🇰🇷 | 50 Easy Conversations (3 Hours Nonstop)",
+    "Korean Abbreviations You Need to Know! 🇰🇷 | Learn Real Korean Conversation |  TOPIK II"
+   ],
+   "via": [
+    [
+     "search",
+     "korean listening practice"
+    ],
+    [
+     "search",
+     "한국어 듣기 연습"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Korean Story Corner 한국어 이야기 코너",
+   "lang": "ko",
+   "url": "https://www.youtube.com/@KoreanStoryCorner",
+   "cid": "UCpy5JvlFj9FHBweqZEvsLAg",
+   "score": 20,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "A2O LITE \"NEON\" LYRICS BREAKDOWN | Learn Korean with K-Pop 🎧🇰🇷",
+    "TOPIK 1-2 | What Makes Autumn Special 🍁🎙️| hwanna's Korean Podcast Ep 39 | Color Sub",
+    "TOPIK 1-2 | A Rainy Day Turned into a Flood 🌧️🎙️| hwanna's Korean Podcast Ep 38 | Color Sub"
+   ],
+   "via": [
+    [
+     "search",
+     "한국어 듣기 연습"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Korean Daily by Summer",
+   "lang": "ko",
+   "url": "https://www.youtube.com/@KoreanDailybySummer",
+   "cid": "UCOWHNOoOoJSRp1bkFQs5XGA",
+   "score": 20,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Learn Korean Through Real Life",
+    "Learn Korean with Me at the Airport ✈️ | Real-Life Korean Listening",
+    "Learn Korean Without Feeling Like You're Studying"
+   ],
+   "via": [
+    [
+     "search",
+     "korean listening practice"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Lær norsk Truong",
+   "lang": "no",
+   "url": "https://www.youtube.com/@learn-norwegian-truong",
+   "cid": "UCeglzz07pYkWKBS_TbNYVaA",
+   "score": 32,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Passiv og man: viktig – hva skjer, ikke hvem | Grammatikk til norskprøven A1–B1",
+    "Pluskvamperfektum: hadde + partisipp – enda tidligere | Grammatikk til norskprøven A1–B1",
+    "Det-setninger: setningen trenger alltid et subjekt | Grammatikk til norskprøven A1–B1"
+   ],
+   "via": [
+    [
+     "search",
+     "norsk for innvandrere"
+    ]
+   ],
+   "hits": 2,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Cappelen Damm Utdanning",
+   "lang": "no",
+   "url": "https://www.youtube.com/@CDUtdanning",
+   "cid": "UCn1XmYafICG_mPtRpiQx1yQ",
+   "score": 47,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 0,
+   "native": true,
+   "titles": [
+    "Pølser & politikk UNG: Redaksjonelle medier",
+    "Morfenes lesefest - Lesebok for 1. trinn│ Cappelen Damm",
+    "Presentasjon av barnehagen fra Cappelen Damm"
+   ],
+   "via": [
+    [
+     "search",
+     "norsk for innvandrere"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "NorskPass",
+   "lang": "no",
+   "url": "https://www.youtube.com/@NorskPassNorway",
+   "cid": "UCt7xzhDJQqZ1NfiirhkrXDA",
+   "score": 29,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Kan du bestå Norskprøven muntlig A2–B1? 🇳🇴 Full prøve med 5 oppgaver",
+    "Norskprøven muntlig A2–B1: Fordeler og ulemper ved å bo i et flerkulturelt område | Lett svar",
+    "Norskprøven muntlig A2–B1: Hvordan er været i hjemlandet ditt og hvilken årstid liker du best | Lett"
+   ],
+   "via": [
+    [
+     "search",
+     "norsk for innvandrere"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Arabic Speaking Practice",
+   "lang": "ar",
+   "url": "https://www.youtube.com/@ArabicSpeakingPractice",
+   "cid": "UCzi6C2AIl0-z99WwXNNFHYw",
+   "score": 40,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Learn Arabic Podcast | Harun al-Rashid – Easy Arabic conversation (B1–B2) | Arabic Podcast",
+    "Learn Arabic Podcast | Fires and Earthquakes That Transformed Entire Cities (B1-B2)| Arabic Podcast",
+    "Learn Arabic Podcast | Easy Arabic conversation: The 5 AM Club (B1-B2) | Arabic Podcast"
+   ],
+   "via": [
+    [
+     "search",
+     "arabic podcast for learners"
+    ]
+   ],
+   "hits": 13,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "Learn Arabic with Asmae",
+   "lang": "ar",
+   "url": "https://www.youtube.com/@learnarabicwithasmae1",
+   "cid": "UCqGbQn5wValHtuhkHdslzkQ",
+   "score": 4,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 87,
+   "native": false,
+   "titles": [
+    "Learn 50 Real-Life Arabic Phrases in 5 Days (Free Progress Tracker)",
+    "🔥 Learn Arabic in 1 Hour — Vocabulary, Verbs, Sentences, Conversation | Power Lesson 2",
+    "✅️ 50 Arabic Sentences That Will Save You In Any Arab Country 🚨 (Learn These First)"
+   ],
+   "via": [
+    [
+     "search",
+     "arabic podcast for learners"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
+  },
+  {
+   "name": "We Speak Arabic",
+   "lang": "ar",
+   "url": "https://www.youtube.com/@WeSpeakArabic",
+   "cid": "UCMymJz9Ea1aXio6UJA9oJNQ",
+   "score": 33,
+   "ok": 3,
+   "n": 3,
+   "subs": 3,
+   "lt": 100,
+   "native": false,
+   "titles": [
+    "Making the Bed | Arabic Shadowing Practice (B1) | Ep 93",
+    "The Frog Who Feared the Water | Arabic Story (B1-B2) | Ep 23",
+    "Discover France | Learn Arabic Podcast (B1-B2) | Ep 101"
+   ],
+   "via": [
+    [
+     "search",
+     "arabic podcast for learners"
+    ]
+   ],
+   "hits": 1,
+   "t": "2026-11-26"
   }
  ],
  "_comment": "Channels found and added by pipeline/discover.py (merge_channels.py lists them); an admin takes one out in the app (채널·영상 추가 → 자동으로 추가된 채널)."

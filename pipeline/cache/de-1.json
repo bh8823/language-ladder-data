@@ -89267,7 +89267,7 @@
  "_g4Hrc8yx5o": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:01:31+00:00",
+  "checked": "2026-11-27T02:20:31+00:00",
   "title": "#904 Leonard als Trainer - Berufe mit Geschichten zum Lesen & Hören [Deutsch lernen durch Hören]",
   "duration": 153,
   "published": "20250821",
@@ -89276,6 +89276,7 @@
   "pace": 106.3,
   "rare": 0.0158,
   "var": 0.8693,
+  "cl": null,
   "speech_s": 142.8,
   "tokens": 253,
   "kw": [
@@ -89360,16 +89361,122 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "trainer",
+    "Leonard als Trainer Leonard hat einen besonderen Job. Er arbeitet als",
+    7,
+    16,
+    4.81,
+    2
+   ],
+   [
+    "dort",
+    "Personal Trainer in einem großen Fitnessstudio. Er betreut dort seine Kunden und unterstützt sie bei",
+    15,
+    23,
+    5.78,
+    1
+   ],
+   [
+    "verbessern",
+    "Außerdem gibt er Paul Tipps, um seine Technik zu verbessern. Die nächste Kundin von Leonard",
+    71,
+    80,
+    4.48,
+    2
+   ],
+   [
+    "möchten",
+    "Übungen, um die Schmerzen zu verringern. Die letzten beiden Kunden von ihm möchten",
+    95,
+    103,
+    4.79,
+    1
+   ],
+   [
+    "schreibtisch",
+    "muss trainiert und fit sein, um seine Kunden zu motivieren. Dann geht er zu seinem Schreibtisch",
+    31,
+    40,
+    4.18,
+    1
+   ],
+   [
+    "aufpassen",
+    "ist eine alte Dame. Sie hat Rückenschmerzen und braucht dringend Hilfe. Leonard muss aufpassen,",
+    79,
+    89,
+    4.15,
+    1
+   ],
+   [
+    "trainiert",
+    "muss trainiert und fit sein, um seine Kunden zu motivieren. Dann geht er zu seinem Schreibtisch",
+    31,
+    40,
+    4.15,
+    1
+   ],
+   [
+    "bedürfnisse",
+    "Alle haben andere Wünsche und Bedürfnisse und deshalb muss er sein Training immer anpassen.",
+    46,
+    56,
+    4.14,
+    1
+   ],
+   [
+    "triathlon",
+    "auf einen Triathlon vor. Leonard erstellt mit ihm zusammen einen passenden Trainingsplan.",
+    62,
+    72,
+    3.53,
+    1
+   ],
+   [
+    "kundin",
+    "Außerdem gibt er Paul Tipps, um seine Technik zu verbessern. Die nächste Kundin von Leonard",
+    71,
+    80,
+    3.48,
+    1
+   ],
+   [
+    "rückenschmerzen",
+    "ist eine alte Dame. Sie hat Rückenschmerzen und braucht dringend Hilfe. Leonard muss aufpassen,",
+    79,
+    89,
+    3.48,
+    1
+   ],
+   [
+    "trainingsplan",
+    "auf einen Triathlon vor. Leonard erstellt mit ihm zusammen einen passenden Trainingsplan.",
+    62,
+    72,
+    2.82,
+    1
+   ],
+   [
+    "ernährungsplan",
+    "Gewicht verlieren. Leonard erstellt ihnen einen Ernährungsplan. Außerdem gibt er",
+    102,
+    110,
+    2.44,
+    1
+   ]
+  ],
+  "voc": 0.020512820512820513,
   "tx": "Leonard als Trainer Leonard hat einen besonderen Job. Er arbeitet als Personal Trainer in einem großen Fitnessstudio. Er betreut dort seine Kunden und unterstützt sie bei ihrem Training. Der Tag von Leonard beginnt schon früh am Morgen mit einem intensiven Work-out. Er muss trainiert und fit sein, um seine Kunden zu motivieren. Dann geht er zu seinem Schreibtisch und sieht nach, welche Termine er heute hat. Leonard hat viele verschiedene Kunden. Alle haben andere Wünsche und Bedürfnisse und deshalb muss er sein Training immer anpassen. Sein erster Kunde heute ist ein junger Mann namens Paul. Er bereitet sich gerade auf einen Triathlon vor. Leonard erstellt mit ihm zusammen einen passenden Trainingsplan. Außerdem gibt er Paul Tipps, um seine Technik zu verbessern. Die nächste Kundin von Leonard ist eine alte Dame. Sie hat Rückenschmerzen und braucht dringend Hilfe. Leonard muss aufpassen, dass die Gesundheit der Frau durch das Training nicht gefährdet wird. Er zeigt ihr einige leichte Übungen, um die Schmerzen zu verringern. Die letzten beiden Kunden von ihm möchten Gewicht verlieren. Leonard erstellt ihnen einen Ernährungsplan. Außerdem gibt er ihnen noch ein paar Tipps, wie sie schneller abnehmen und ihre Ziele erreichen können. Dann hat er es endlich geschafft. Leonard verabschiedet sich von den anderen Mitarbeitern im Fitnessstudio. Dann packt er seine Sachen ein und fährt nach Hause. Leonard liebt seinen Beruf. Sport ist sehr wichtig. Das Training hat ihm schon immer sehr viel Spaß gemacht. Mit seiner Arbeit kann er außerdem vielen Leuten helfen und ihre Gesundheit oder ihr Selbstbewusstsein verbessern.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.020512820512820513
+  "src": "cc"
  },
  "JIU9ubS72fs": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:03:40+00:00",
+  "checked": "2026-11-27T02:20:34+00:00",
   "title": "#911 Celine als Rettungssanitäterin - Deutsch lernen durch Hören - Deutsch lernen mit Geschichten",
   "duration": 174,
   "published": "20251005",
@@ -89378,6 +89485,7 @@
   "pace": 117.9,
   "rare": 0.0994,
   "var": 0.8389,
+  "cl": null,
   "speech_s": 158.8,
   "tokens": 312,
   "kw": [
@@ -89454,11 +89562,181 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "hilfe",
+    "die ganze Nacht. Dann braucht niemand ihre Hilfe. Aber heute hören sie aus dem Lautsprecher: „Unfall",
+    22,
+    31,
+    5.24,
+    2
+   ],
+   [
+    "manchmal",
+    "Sie trinkt Tee und unterhält sich mit ihrem Kollegen. Manchmal macht sie das",
+    17,
+    23,
+    5.19,
+    2
+   ],
+   [
+    "fährt",
+    "Warnweste. So ist sie auch nachts gut zu sehen. Schnell rennen alle zum Rettungswagen. Der fährt",
+    45,
+    56,
+    4.78,
+    1
+   ],
+   [
+    "rennen",
+    "Warnweste. So ist sie auch nachts gut zu sehen. Schnell rennen alle zum Rettungswagen. Der fährt",
+    45,
+    56,
+    4.78,
+    1
+   ],
+   [
+    "krankenhaus",
+    "Krankenhaus. Sofort kommen Ärzte und kümmern sich um den Patienten. Celines Arbeit ist erledigt.",
+    131,
+    140,
+    4.75,
+    1
+   ],
+   [
+    "unfall",
+    "die ganze Nacht. Dann braucht niemand ihre Hilfe. Aber heute hören sie aus dem Lautsprecher: „Unfall",
+    22,
+    31,
+    4.7,
+    1
+   ],
+   [
+    "warnt",
+    "dem Dach warnt alle anderen Verkehrsteilnehmer. Wenige Minuten später sind sie an der Unfallstelle",
+    62,
+    71,
+    4.18,
+    1
+   ],
+   [
+    "springt",
+    "auf der Autobahn Richtung Steinhaus“. Celine kennt sich aus. Sie springt auf und lässt den Tee auf",
+    30,
+    39,
+    4.11,
+    1
+   ],
+   [
+    "anstrengend",
+    "ihren Beruf, auch wenn er manchmal psychisch sehr anstrengend ist. Sie weiß, dass sie Leben rettet.",
+    158,
+    167,
+    4.08,
+    1
+   ],
+   [
+    "trinkt",
+    "Sie trinkt Tee und unterhält sich mit ihrem Kollegen. Manchmal macht sie das",
+    17,
+    23,
+    4.07,
+    1
+   ],
+   [
+    "hofft",
+    "Sie hofft, dass es dem Mann bald besser geht und er schnell wieder gesund wird.",
+    139,
+    146,
+    4.03,
+    1
+   ],
+   [
+    "leistet",
+    "übergeben muss. Sie leistet Erste Hilfe. Wenige Minuten später erreichen sie das",
+    124,
+    132,
+    4.02,
+    1
+   ],
+   [
+    "ersticken",
+    "den Patienten in die stabile Seitenlage. So kann er nicht ersticken, falls er sich",
+    118,
+    125,
+    3.57,
+    1
+   ],
+   [
+    "verkehrsteilnehmer",
+    "dem Dach warnt alle anderen Verkehrsteilnehmer. Wenige Minuten später sind sie an der Unfallstelle",
+    62,
+    71,
+    3.53,
+    1
+   ],
+   [
+    "atmung",
+    "Er atmet, ist aber bewusstlos. Celine kontrolliert regelmäßig seine Atmung",
+    104,
+    112,
+    3.5,
+    1
+   ],
+   [
+    "steinhaus",
+    "auf der Autobahn Richtung Steinhaus“. Celine kennt sich aus. Sie springt auf und lässt den Tee auf",
+    30,
+    39,
+    2.99,
+    1
+   ],
+   [
+    "wiederbeleben",
+    "und seinen Herzschlag. Wenn er nicht mehr atmet, muss sie ihn wiederbeleben. Sie dreht",
+    111,
+    119,
+    2.98,
+    1
+   ],
+   [
+    "reflektierende",
+    "dem Tisch stehen. Schnell zieht sie ihre Jacke über. Sie hat reflektierende Streifen wie eine",
+    38,
+    46,
+    2.73,
+    1
+   ],
+   [
+    "seitenlage",
+    "den Patienten in die stabile Seitenlage. So kann er nicht ersticken, falls er sich",
+    118,
+    125,
+    2.72,
+    1
+   ],
+   [
+    "warnweste",
+    "Warnweste. So ist sie auch nachts gut zu sehen. Schnell rennen alle zum Rettungswagen. Der fährt",
+    45,
+    56,
+    2.67,
+    1
+   ],
+   [
+    "warteraum",
+    "Celine sitzt mit ein paar anderen Rettungssanitätern im Warteraum.",
+    11,
+    18,
+    2.67,
+    1
+   ]
+  ],
+  "voc": 0.053497942386831275,
   "tx": "Celine als Rettungssanitäterin Celine sitzt mit ein paar anderen Rettungssanitätern im Warteraum. Sie trinkt Tee und unterhält sich mit ihrem Kollegen. Manchmal macht sie das die ganze Nacht. Dann braucht niemand ihre Hilfe. Aber heute hören sie aus dem Lautsprecher: „Unfall auf der Autobahn Richtung Steinhaus“. Celine kennt sich aus. Sie springt auf und lässt den Tee auf dem Tisch stehen. Schnell zieht sie ihre Jacke über. Sie hat reflektierende Streifen wie eine Warnweste. So ist sie auch nachts gut zu sehen. Schnell rennen alle zum Rettungswagen. Der fährt mit Blaulicht durch die Stadt. Der Rettungswagen darf auch über rote Ampeln fahren. Die Sirene auf dem Dach warnt alle anderen Verkehrsteilnehmer. Wenige Minuten später sind sie an der Unfallstelle auf der Autobahn. Die Feuerwehr ist schon da. Zwei Autos liegen mitten auf der Fahrbahn. Sie sind völlig zerstört. Die Feuerwehrleute schneiden ein Auto auf und ziehen einen Mann heraus. Er blutet stark. Celine und ihr Kollege legen den Mann auf eine Trage und bringen ihn in den Rettungswagen. Ein anderer Rettungswagen kümmert sich um die Fahrgäste des anderen Autos. Celine verbindet die Wunden des Mannes mit einem Verband. Er atmet, ist aber bewusstlos. Celine kontrolliert regelmäßig seine Atmung und seinen Herzschlag. Wenn er nicht mehr atmet, muss sie ihn wiederbeleben. Sie dreht den Patienten in die stabile Seitenlage. So kann er nicht ersticken, falls er sich übergeben muss. Sie leistet Erste Hilfe. Wenige Minuten später erreichen sie das Krankenhaus. Sofort kommen Ärzte und kümmern sich um den Patienten. Celines Arbeit ist erledigt. Sie hofft, dass es dem Mann bald besser geht und er schnell wieder gesund wird. Zurück in der Zentrale füllt Celine einen Bericht aus. Ihr Tee ist schon kalt. Sie muss alles dokumentieren und auch die Polizei spricht noch einmal mit ihr. Celine liebt ihren Beruf, auch wenn er manchmal psychisch sehr anstrengend ist. Sie weiß, dass sie Leben rettet.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.053497942386831275
+  "src": "cc"
  },
  "zxjeJdjR6kw": {
   "channel": "Mascha und der Bär",
@@ -89728,7 +90006,7 @@
  "3vHkICuFQs4": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:06:56+00:00",
+  "checked": "2026-11-27T02:23:59+00:00",
   "title": "#885 Torsten als Professor [Deutsch lernen durch Hören] @DldH Deutsch lernen mit Geschichten",
   "duration": 163,
   "published": "20250520",
@@ -89737,6 +90015,7 @@
   "pace": 117.5,
   "rare": 0.0424,
   "var": 0.8268,
+  "cl": null,
   "speech_s": 144.6,
   "tokens": 283,
   "kw": [
@@ -89845,16 +90124,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "seinen",
+    "in den Hörsaal, um sich auf die lange Vorlesung vorzubereiten. Er legt seine Notizen und seinen",
+    18,
+    26,
+    5.72,
+    2
+   ],
+   [
+    "danke",
+    "wie geht es dir?\", fragt sein Kollege. \"Mir geht es gut, danke\", antwortet Torsten.",
+    110,
+    117,
+    5.64,
+    2
+   ],
+   [
+    "praxis",
+    "zeigt, wie das Thema in der Praxis funktioniert. Nach der Vorlesung bleibt Torsten noch eine Weile",
+    55,
+    63,
+    4.76,
+    1
+   ],
+   [
+    "freut",
+    "\"Ich hatte eine gute Vorlesung heute.\" \"Das freut mich zu hören\", sagt sein",
+    116,
+    123,
+    4.75,
+    1
+   ],
+   [
+    "laptop",
+    "Laptop auf das Pult und testet das Mikrofon. Er schließt den Projektor an seinen Computer",
+    25,
+    33,
+    4.17,
+    1
+   ],
+   [
+    "ausführlich",
+    "in der Sprechstunde ausführlich darüber zu sprechen. Die Sprechstunde findet jeweils",
+    94,
+    101,
+    4.15,
+    1
+   ],
+   [
+    "antwortet",
+    "wie geht es dir?\", fragt sein Kollege. \"Mir geht es gut, danke\", antwortet Torsten.",
+    110,
+    117,
+    4.08,
+    1
+   ],
+   [
+    "praktikum",
+    "Einige Studenten fragen auch nach dem Praktikum und der Abschlussarbeit. Torsten lädt sie ein,",
+    87,
+    95,
+    4.03,
+    1
+   ],
+   [
+    "testet",
+    "Laptop auf das Pult und testet das Mikrofon. Er schließt den Projektor an seinen Computer",
+    25,
+    33,
+    3.49,
+    1
+   ],
+   [
+    "donnerstags",
+    "montags, donnerstags und freitags statt. Als er schließlich den Hörsaal verlässt,",
+    100,
+    108,
+    3.42,
+    1
+   ],
+   [
+    "pult",
+    "Laptop auf das Pult und testet das Mikrofon. Er schließt den Projektor an seinen Computer",
+    25,
+    33,
+    3.17,
+    1
+   ]
+  ],
+  "voc": 0.031818181818181815,
   "tx": "Torsten als Professor Torsten ist Professor an einer Universität und hat heute eine Vorlesung. Er kommt früh in den Hörsaal, um sich auf die lange Vorlesung vorzubereiten. Er legt seine Notizen und seinen Laptop auf das Pult und testet das Mikrofon. Er schließt den Projektor an seinen Computer an. Gelegentlich, wenn nötig, zeigt er etwas auf dem Projektor. Manchmal ist es ein Video. Er erklärt das Thema des Tages, stellt Fragen und erklärt auch noch einmal, wenn etwas unklar ist. Er will, dass die Studenten den Unterricht verstehen. Er gibt Beispiele und zeigt, wie das Thema in der Praxis funktioniert. Nach der Vorlesung bleibt Torsten noch eine Weile im Hörsaal, um Fragen von Studenten zu beantworten. Einige kommen zu ihm, um zusätzliche Informationen oder Hilfe bei einer Hausaufgabe zu bekommen. Torsten nimmt sich für jeden Studenten Zeit und beantwortet seine Fragen. Er erklärt komplizierte Themen verständlich und gibt Tipps, wie man erfolgreich sein kann. Einige Studenten fragen auch nach dem Praktikum und der Abschlussarbeit. Torsten lädt sie ein, in der Sprechstunde ausführlich darüber zu sprechen. Die Sprechstunde findet jeweils montags, donnerstags und freitags statt. Als er schließlich den Hörsaal verlässt, trifft er einen Kollegen. \"Hallo Torsten, wie geht es dir?\", fragt sein Kollege. \"Mir geht es gut, danke\", antwortet Torsten. \"Ich hatte eine gute Vorlesung heute.\" \"Das freut mich zu hören\", sagt sein Kollege. \"Wie geht es deinen Studenten?\" \"Ich denke, sie verstehen den Unterricht gut\", sagt Torsten. \"Einige hatten Fragen und ich konnte ihnen helfen.\" \"Das ist toll\", sagt sein Kollege. \"Du bist wirklich ein guter Professor.\" \"Danke, das ist ein schönes Kompliment\", sagt Torsten und lächelt. Jetzt bereitet er sich auf seine nächste Vorlesung vor. Auch wenn es viel Arbeit ist,",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.031818181818181815
+  "src": "cc"
  },
  "42UCNJcQgqw": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:10:58+00:00",
+  "checked": "2026-11-27T02:28:35+00:00",
   "title": "# 714 Luisa als Floristin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 160,
   "published": "20240324",
@@ -89863,6 +90232,7 @@
   "pace": 107.1,
   "rare": 0.1155,
   "var": 0.7985,
+  "cl": null,
   "speech_s": 140.6,
   "tokens": 251,
   "kw": [
@@ -89939,11 +90309,181 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "tag",
+    "Luisa hat ihr eigenes Blumengeschäft eröffnet. Sie liebt den Geruch, den sie jeden Tag bei der",
+    12,
+    21,
+    5.69,
+    2
+   ],
+   [
+    "natürlich",
+    "Erst dann wird der Laden aufgemacht. Die meisten Blumen verkauft sie natürlich an Valentinstag und",
+    73,
+    82,
+    5.62,
+    2
+   ],
+   [
+    "wünschen",
+    "auf. Außerdem nimmt sie auch Aufträge an und kreiert Gestecke nach den Wünschen der Kunden. Sie",
+    142,
+    151,
+    4.77,
+    1
+   ],
+   [
+    "freut",
+    "Arbeit riechen kann. Sie freut sich, dass so viele bunte Blumen jeden Tag um sie herum sind.",
+    20,
+    29,
+    4.75,
+    1
+   ],
+   [
+    "einzelne",
+    "sie bietet auch Adventskränze und Palmkätzchen an. Viele Leute kaufen einzelne Blumen und Pflanzen,",
+    91,
+    100,
+    4.74,
+    1
+   ],
+   [
+    "geruch",
+    "Luisa hat ihr eigenes Blumengeschäft eröffnet. Sie liebt den Geruch, den sie jeden Tag bei der",
+    12,
+    21,
+    4.14,
+    1
+   ],
+   [
+    "lieferung",
+    "Zuerst muss sie die Lieferung der Blumen und Pflanzen überprüfen. Wenn etwas fehlt,",
+    28,
+    35,
+    4.13,
+    1
+   ],
+   [
+    "rosen",
+    "aber auch ihre vorgefertigten Sträuße. Die meistverkauften Blumen sind Rosen.",
+    99,
+    107,
+    4.09,
+    1
+   ],
+   [
+    "ostern",
+    "Muttertag. Diese Zeit ist immer stressig. Auch zu Weihnachten und Ostern kommen viele Menschen, denn",
+    81,
+    92,
+    4.07,
+    1
+   ],
+   [
+    "bunte",
+    "Arbeit riechen kann. Sie freut sich, dass so viele bunte Blumen jeden Tag um sie herum sind.",
+    20,
+    29,
+    4.06,
+    1
+   ],
+   [
+    "kreativität",
+    "sie Blumensträuße und Gestecke zusammen. Sie liebt die Kreativität an ihrem Job. Doch auch",
+    50,
+    59,
+    4.02,
+    1
+   ],
+   [
+    "valentinstag",
+    "Erst dann wird der Laden aufgemacht. Die meisten Blumen verkauft sie natürlich an Valentinstag und",
+    73,
+    82,
+    3.53,
+    1
+   ],
+   [
+    "giftig",
+    "ein Haustier zu Hause, für das die Blume giftig sein kann. Darüber klärt sie ihre Kunden gerne",
+    134,
+    143,
+    3.49,
+    1
+   ],
+   [
+    "stressig",
+    "Muttertag. Diese Zeit ist immer stressig. Auch zu Weihnachten und Ostern kommen viele Menschen, denn",
+    81,
+    92,
+    3.47,
+    1
+   ],
+   [
+    "allergie",
+    "muss sie alle Blumen gut kennen, die sie verkauft. Denn eventuell hat eine Person eine Allergie oder",
+    126,
+    135,
+    3.45,
+    1
+   ],
+   [
+    "beidem",
+    "brauchen viel Wasser, andere brauchen viel Sonne und andere brauchen nichts von beidem. Dann stellt",
+    42,
+    51,
+    3.42,
+    1
+   ],
+   [
+    "gänseblümchen",
+    "Luisas Lieblingsblume ist das Gänseblümchen. Sie berät ihre Kunden so gut sie kann. Natürlich",
+    117,
+    127,
+    2.85,
+    1
+   ],
+   [
+    "vorgefertigten",
+    "aber auch ihre vorgefertigten Sträuße. Die meistverkauften Blumen sind Rosen.",
+    99,
+    107,
+    2.81,
+    1
+   ],
+   [
+    "meistverkauften",
+    "aber auch ihre vorgefertigten Sträuße. Die meistverkauften Blumen sind Rosen.",
+    99,
+    107,
+    2.71,
+    1
+   ],
+   [
+    "blumensträusse",
+    "",
+    0,
+    0,
+    2.44,
+    1
+   ],
+   [
+    "sträusse",
+    "",
+    0,
+    0,
+    2.36,
+    1
+   ]
+  ],
+  "voc": 0.09278350515463918,
   "tx": "Luisa als Floristin Luisa hat ihr eigenes Blumengeschäft eröffnet. Sie liebt den Geruch, den sie jeden Tag bei der Arbeit riechen kann. Sie freut sich, dass so viele bunte Blumen jeden Tag um sie herum sind. Zuerst muss sie die Lieferung der Blumen und Pflanzen überprüfen. Wenn etwas fehlt, muss es nachbestellt werden. Danach müssen die Blumen schnell richtig gelagert werden. Manche brauchen viel Wasser, andere brauchen viel Sonne und andere brauchen nichts von beidem. Dann stellt sie Blumensträuße und Gestecke zusammen. Sie liebt die Kreativität an ihrem Job. Doch auch Geschicklichkeit braucht sie. Danach präsentiert sie die Waren in ihrem Laden und schaut, welche Vasen mit Blumen nachgefüllt werden müssen. Zuletzt pflegt und gießt sie die Pflanzen. Erst dann wird der Laden aufgemacht. Die meisten Blumen verkauft sie natürlich an Valentinstag und Muttertag. Diese Zeit ist immer stressig. Auch zu Weihnachten und Ostern kommen viele Menschen, denn sie bietet auch Adventskränze und Palmkätzchen an. Viele Leute kaufen einzelne Blumen und Pflanzen, aber auch ihre vorgefertigten Sträuße. Die meistverkauften Blumen sind Rosen. Egal, ob rot, weiß oder rosa. Aber auch Tulpen, Lilien und Sonnenblumen sind sehr beliebt. Luisas Lieblingsblume ist das Gänseblümchen. Sie berät ihre Kunden so gut sie kann. Natürlich muss sie alle Blumen gut kennen, die sie verkauft. Denn eventuell hat eine Person eine Allergie oder ein Haustier zu Hause, für das die Blume giftig sein kann. Darüber klärt sie ihre Kunden gerne auf. Außerdem nimmt sie auch Aufträge an und kreiert Gestecke nach den Wünschen der Kunden. Sie",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.09230769230769231
+  "src": "cc"
  },
  "pz5gblFeacc": {
   "channel": "Mascha und der Bär",
@@ -90189,7 +90729,7 @@
  "WP2_8NVgeCM": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:13:32+00:00",
+  "checked": "2026-11-27T02:30:11+00:00",
   "title": "#745 Eva als Hausfrau - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 140,
   "published": "20240511",
@@ -90198,6 +90738,7 @@
   "pace": 122.9,
   "rare": 0.0231,
   "var": 0.7995,
+  "cl": null,
   "speech_s": 127.0,
   "tokens": 260,
   "kw": [
@@ -90290,16 +90831,122 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "haus",
+    "Um 08:00 Uhr ist sie allein im Haus. Sie nutzt die Zeit, um die Tiere zu füttern. Die Familie",
+    58,
+    66,
+    5.41,
+    3
+   ],
+   [
+    "herr",
+    "Kaffee für sich und ihren Mann. Danach bereitet sie das Frühstück zu. Herr",
+    30,
+    37,
+    5.24,
+    3
+   ],
+   [
+    "miteinander",
+    "in dem sie gerne miteinander spielen. Danach bereiten sie gemeinsam das Abendessen zu.",
+    113,
+    121,
+    4.78,
+    1
+   ],
+   [
+    "legt",
+    "Berger steht immer um 06:00 Uhr auf. Eva legt ihm die Tageszeitung auf den Tisch.",
+    36,
+    44,
+    4.73,
+    1
+   ],
+   [
+    "bereiten",
+    "in dem sie gerne miteinander spielen. Danach bereiten sie gemeinsam das Abendessen zu.",
+    113,
+    121,
+    4.19,
+    1
+   ],
+   [
+    "abendessen",
+    "in dem sie gerne miteinander spielen. Danach bereiten sie gemeinsam das Abendessen zu.",
+    113,
+    121,
+    4.14,
+    1
+   ],
+   [
+    "mittagessen",
+    "Kinder von der Schule ab. Gemeinsam essen sie das Mittagessen, das Eva bereits am",
+    93,
+    100,
+    4.14,
+    1
+   ],
+   [
+    "verabschiedet",
+    "Dann weckt sie die Kinder. Gemeinsam frühstücken sie, bis sich Herr Berger verabschiedet. Er",
+    43,
+    51,
+    4.11,
+    1
+   ],
+   [
+    "vormittags",
+    "Manchmal geht sie vormittags einkaufen, wäscht die Wäsche der Familie,",
+    82,
+    88,
+    3.58,
+    1
+   ],
+   [
+    "zubereitet",
+    "Vormittag zubereitet hat. Außerdem hilft sie den Kindern bei den Hausaufgaben.",
+    99,
+    106,
+    3.58,
+    1
+   ],
+   [
+    "familienmitglieder",
+    "erschöpft. Eva liebt ihr Leben als Hausfrau. Sie kümmert sich gerne um alle Familienmitglieder.",
+    127,
+    136,
+    3.57,
+    1
+   ],
+   [
+    "frühstücken",
+    "Dann weckt sie die Kinder. Gemeinsam frühstücken sie, bis sich Herr Berger verabschiedet. Er",
+    43,
+    51,
+    3.57,
+    1
+   ],
+   [
+    "strukturiert",
+    "abwechslungsreich, aber dennoch strukturiert. Sie steht um 05:00 Uhr morgens auf und kocht",
+    23,
+    31,
+    3.52,
+    1
+   ]
+  ],
+  "voc": 0.07772020725388601,
   "tx": "Eva als Hausfrau Eva Berger hat keine klassische Arbeit. Ihr Mann verdient viel Geld. Deshalb muss sie nicht arbeiten gehen. Sie ist Hausfrau und bleibt zu Hause. Ihr Alltag ist sehr abwechslungsreich, aber dennoch strukturiert. Sie steht um 05:00 Uhr morgens auf und kocht Kaffee für sich und ihren Mann. Danach bereitet sie das Frühstück zu. Herr Berger steht immer um 06:00 Uhr auf. Eva legt ihm die Tageszeitung auf den Tisch. Dann weckt sie die Kinder. Gemeinsam frühstücken sie, bis sich Herr Berger verabschiedet. Er fährt zur Arbeit. Dann zieht Eva die Kinder an, putzt ihnen die Zähne und fährt sie zur Schule. Um 08:00 Uhr ist sie allein im Haus. Sie nutzt die Zeit, um die Tiere zu füttern. Die Familie hat zwei Katzen und drei Hühner. Außerdem räumt sie auf und putzt das Haus. Dabei hört Eva immer laute Rockmusik. Die Arbeit entspannt sie. Sie putzt gerne, weil sie Ordnung mag. Manchmal geht sie vormittags einkaufen, wäscht die Wäsche der Familie, bereitet Aktivitäten für das Wochenende vor oder liest ein Buch. Mittags holt sie ihre Kinder von der Schule ab. Gemeinsam essen sie das Mittagessen, das Eva bereits am Vormittag zubereitet hat. Außerdem hilft sie den Kindern bei den Hausaufgaben. Am Nachmittag gehen Eva und ihre Kinder meistens nach draußen. Hinter dem Haus ist ein großer Wald, in dem sie gerne miteinander spielen. Danach bereiten sie gemeinsam das Abendessen zu. Herr Berger kommt erst um 18:00 Uhr nach Hause. Meistens ist er nach einem langen Tag sehr erschöpft. Eva liebt ihr Leben als Hausfrau. Sie kümmert sich gerne um alle Familienmitglieder.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07772020725388601
+  "src": "cc"
  },
  "mtfrdFrUKX8": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:13:36+00:00",
+  "checked": "2026-11-27T02:31:26+00:00",
   "title": "#858 Moritz als Radiosprecher - [Deutsch lernen durch Hören] @DldH Deutsch lernen mit Geschichten",
   "duration": 165,
   "published": "20241227",
@@ -90308,6 +90955,7 @@
   "pace": 113.0,
   "rare": 0.0481,
   "var": 0.8507,
+  "cl": null,
   "speech_s": 143.4,
   "tokens": 270,
   "kw": [
@@ -90376,16 +91024,170 @@
     8
    ]
   ],
+  "kx": [
+   [
+    "fragen",
+    "Spezialprogramm, bei dem Hörer anrufen und nach Rat fragen können. Die erste Anruferin",
+    101,
+    110,
+    5.47,
+    2
+   ],
+   [
+    "bevor",
+    "bevor er zu einer kurzen Werbung umschaltet. Dann wird es auch schon Zeit für das",
+    94,
+    102,
+    5.19,
+    2
+   ],
+   [
+    "berichtet",
+    "berichtet von den neuesten Nachrichten und wie das Wetter in der Nacht sein wird.",
+    75,
+    82,
+    4.77,
+    1
+   ],
+   [
+    "wetter",
+    "berichtet von den neuesten Nachrichten und wie das Wetter in der Nacht sein wird.",
+    75,
+    82,
+    4.76,
+    1
+   ],
+   [
+    "leitung",
+    "wartet schon in der Leitung. Moritz begrüßt sie, fragt nach ihrem Namen und Alter. Dann fordert",
+    109,
+    119,
+    4.73,
+    1
+   ],
+   [
+    "neuesten",
+    "berichtet von den neuesten Nachrichten und wie das Wetter in der Nacht sein wird.",
+    75,
+    82,
+    4.19,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "monitor",
+    "sprechen. Moritz stellt sich vor und beginnt, das Skript auf seinem Monitor zu lesen. Er",
+    67,
+    76,
+    3.91,
+    1
+   ],
+   [
+    "kopfhörer",
+    "seinen Tisch und macht Stimmübungen. Dann setzt er seine Kopfhörer auf und wartet auf",
+    51,
+    60,
+    3.88,
+    1
+   ],
+   [
+    "leuchtet",
+    "seinen Einsatz. Das kleine rote Licht leuchtet und zeigt Moritz an, dass er anfangen kann zu",
+    59,
+    68,
+    3.85,
+    1
+   ],
+   [
+    "skript",
+    "sprechen. Moritz stellt sich vor und beginnt, das Skript auf seinem Monitor zu lesen. Er",
+    67,
+    76,
+    3.54,
+    1
+   ],
+   [
+    "tagesablauf",
+    "sich den Tagesablauf an, über welche Themen sie heute berichten werden und andere wichtige Punkte.",
+    36,
+    45,
+    3.25,
+    1
+   ],
+   [
+    "bildschirmen",
+    "von den vielen Mikrofonen, Bildschirmen, Knöpfen und Kabeln erschrocken. Mittlerweile ist es sein",
+    19,
+    28,
+    3.09,
+    1
+   ],
+   [
+    "knöpfen",
+    "von den vielen Mikrofonen, Bildschirmen, Knöpfen und Kabeln erschrocken. Mittlerweile ist es sein",
+    19,
+    28,
+    3.08,
+    1
+   ],
+   [
+    "kabeln",
+    "von den vielen Mikrofonen, Bildschirmen, Knöpfen und Kabeln erschrocken. Mittlerweile ist es sein",
+    19,
+    28,
+    3.02,
+    1
+   ],
+   [
+    "beziehungsprobleme",
+    "er sie auf, ihre Frage zu stellen. Es geht um Beziehungsprobleme. Bevor andere Personen anrufen",
+    118,
+    128,
+    2.46,
+    1
+   ],
+   [
+    "mikrofonen",
+    "von den vielen Mikrofonen, Bildschirmen, Knöpfen und Kabeln erschrocken. Mittlerweile ist es sein",
+    19,
+    28,
+    2.45,
+    1
+   ],
+   [
+    "anruferin",
+    "Spezialprogramm, bei dem Hörer anrufen und nach Rat fragen können. Die erste Anruferin",
+    101,
+    110,
+    2.44,
+    1
+   ],
+   [
+    "umschaltet",
+    "bevor er zu einer kurzen Werbung umschaltet. Dann wird es auch schon Zeit für das",
+    94,
+    102,
+    2.03,
+    1
+   ]
+  ],
+  "voc": 0.02336448598130841,
   "tx": "Moritz als Radiosprecher Als Moritz das erste Mal in das Sendestudio gekommen ist, in dem er jetzt arbeitet, war er von den vielen Mikrofonen, Bildschirmen, Knöpfen und Kabeln erschrocken. Mittlerweile ist es sein Alltag. Heute fängt sein Arbeitstag erst abends an. Er setzt sich zu seinen Kollegen und hört sich den Tagesablauf an, über welche Themen sie heute berichten werden und andere wichtige Punkte. Danach bereitet Moritz sich darauf vor, live zu gehen. Er stellt eine Flasche Wasser auf seinen Tisch und macht Stimmübungen. Dann setzt er seine Kopfhörer auf und wartet auf seinen Einsatz. Das kleine rote Licht leuchtet und zeigt Moritz an, dass er anfangen kann zu sprechen. Moritz stellt sich vor und beginnt, das Skript auf seinem Monitor zu lesen. Er berichtet von den neuesten Nachrichten und wie das Wetter in der Nacht sein wird. Nach ein paar Minuten schaltet er zum ersten Lied um. Drei Lieder später spricht er wieder ins Mikrofon und gibt einen Überblick über die nächsten Themen, bevor er zu einer kurzen Werbung umschaltet. Dann wird es auch schon Zeit für das Spezialprogramm, bei dem Hörer anrufen und nach Rat fragen können. Die erste Anruferin wartet schon in der Leitung. Moritz begrüßt sie, fragt nach ihrem Namen und Alter. Dann fordert er sie auf, ihre Frage zu stellen. Es geht um Beziehungsprobleme. Bevor andere Personen anrufen und ihren Rat geben können, stellt Moritz weitere Fragen und gibt auch seine eigene Meinung ab. Zum Glück weiß Moritz immer, was er sagen soll, und hat immer eine Antwort. Es ist ihm schon immer leichtgefallen, zu reden und Geschichten zu erzählen. Das ist eine wichtige Fähigkeit,",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.02336448598130841
+  "src": "cc"
  },
  "1MHmG63HRH0": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:14:49+00:00",
+  "checked": "2026-11-27T02:31:29+00:00",
   "title": "#768 Ulrike als Nachhilfelehrerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 174,
   "published": "20240619",
@@ -90394,6 +91196,7 @@
   "pace": 96.4,
   "rare": 0.1107,
   "var": 0.8451,
+  "cl": null,
   "speech_s": 163.0,
   "tokens": 262,
   "kw": [
@@ -90454,16 +91257,202 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "bekommen",
+    "Lehrern bekommen haben. Über die Jahre",
+    139,
+    145,
+    5.42,
+    2
+   ],
+   [
+    "eigenen",
+    "Sie hat einen eigenen Klassenraum, unterrichtet ihre Nachhilfeschüler",
+    50,
+    59,
+    5.4,
+    2
+   ],
+   [
+    "gelernt",
+    "Unterrichtstechniken gelernt. Sie verwendet Arbeitsblätter, genauso",
+    144,
+    153,
+    4.74,
+    1
+   ],
+   [
+    "unmöglich",
+    "unmöglich, denn jedes Kind lernt unterschiedlich",
+    66,
+    75,
+    4.67,
+    1
+   ],
+   [
+    "vieles",
+    "Lineare, Zirkel, Radiergummis und vieles mehr. In Deutsch hilft sie vor allem bei",
+    85,
+    96,
+    4.65,
+    1
+   ],
+   [
+    "lösen",
+    "In Mathe lösen Sie einfache Rechnungen",
+    105,
+    111,
+    4.63,
+    1
+   ],
+   [
+    "noten",
+    "bestehen und gute Noten bekommen.",
+    164,
+    169,
+    4.18,
+    1
+   ],
+   [
+    "vorbereiten",
+    "jeden Schüler individuell vorbereiten kann. Das war in der Schule nahezu",
+    60,
+    69,
+    4.13,
+    1
+   ],
+   [
+    "mathe",
+    "In Mathe lösen Sie einfache Rechnungen",
+    105,
+    111,
+    4.12,
+    1
+   ],
+   [
+    "schwächen",
+    "und hat andere Stärken und Schwächen.",
+    71,
+    78,
+    4.11,
+    1
+   ],
+   [
+    "übungen",
+    "und Übungen, die die Schüler von ihren",
+    136,
+    143,
+    4.07,
+    1
+   ],
+   [
+    "einzelpersonen",
+    "Einzelpersonen arbeitet. Sie unterrichtet die Fächer Deutsch und",
+    25,
+    34,
+    3.53,
+    1
+   ],
+   [
+    "stifte",
+    "ihre eigenen Sachen mit. Stifte, Zettel,",
+    81,
+    90,
+    3.51,
+    1
+   ],
+   [
+    "formeln",
+    "aber auch schwierige Formeln, bei denen",
+    114,
+    121,
+    3.47,
+    1
+   ],
+   [
+    "lineare",
+    "Lineare, Zirkel, Radiergummis und vieles mehr. In Deutsch hilft sie vor allem bei",
+    85,
+    96,
+    3.47,
+    1
+   ],
+   [
+    "beizubringen",
+    "beizubringen. Daher ist es immer ein gutes Gefühl.",
+    157,
+    165,
+    3.45,
+    1
+   ],
+   [
+    "verben",
+    "Präpositionen und Verben. Außerdem wird erklärt, wie man groß und",
+    95,
+    106,
+    3.41,
+    1
+   ],
+   [
+    "multiplikation",
+    "Multiplikation und Division. aber auch schwierige Formeln, bei denen",
+    110,
+    121,
+    2.95,
+    1
+   ],
+   [
+    "kleinschreibung",
+    "Kleinschreibung und Kommas verwendet. In Mathe lösen Sie einfache Rechnungen",
+    101,
+    111,
+    2.87,
+    1
+   ],
+   [
+    "präpositionen",
+    "Präpositionen und Verben. Außerdem wird erklärt, wie man groß und",
+    95,
+    106,
+    2.75,
+    1
+   ],
+   [
+    "kommas",
+    "Kleinschreibung und Kommas verwendet. In Mathe lösen Sie einfache Rechnungen",
+    101,
+    111,
+    2.74,
+    1
+   ],
+   [
+    "arbeitsblätter",
+    "Sie verwendet Arbeitsblätter, genauso wie Videos oder Audios.",
+    146,
+    156,
+    2.61,
+    1
+   ],
+   [
+    "audios",
+    "wie Videos oder Audios. Ulriike gibt ihr Bestes, um ihren",
+    149,
+    158,
+    2.5,
+    1
+   ]
+  ],
+  "voc": 0.05,
   "tx": "Deutsch lernen durchhören. Ulriike als Nachhilfelehrerin. Ulriike arbeitet als Nachhilfelehrerin. Früher war sie Lehrerin an einer Schule, doch sie hat bemerkt, dass sie lieber mit kleineren Gruppen bzw. Einzelpersonen arbeitet. Sie unterrichtet die Fächer Deutsch und Mathematik. Meistens arbeitet sie nachmittags oder an Wochenenden. Seit kurzem unterrichtet sie jedoch auch Erwachsene in Deutsch, meistens in einem Abendkurs. Außerdem ist sie flexibel mit dem Arbeitsort. Sie hat einen eigenen Klassenraum, unterrichtet ihre Nachhilfeschüler jedoch auch gerne bei ihnen daheim. Sie liebt es, daß sie den Unterricht für jeden Schüler individuell vorbereiten kann. Das war in der Schule nahezu unmöglich, denn jedes Kind lernt unterschiedlich und hat andere Stärken und Schwächen. Sie passt ihren Unterricht immer an die Kinder an. Ulriike hat beim Nachhilfeunterricht ihre eigenen Sachen mit. Stifte, Zettel, Lineare, Zirkel, Radiergummis und vieles mehr. In Deutsch hilft sie vor allem bei der Grammatik, z.B. bei Artikeln, Präpositionen und Verben. Außerdem wird erklärt, wie man groß und Kleinschreibung und Kommas verwendet. In Mathe lösen Sie einfache Rechnungen wie Addition, Substraktion, Multiplikation und Division. aber auch schwierige Formeln, bei denen z.B. Buchstaben vorkommen. Des weiteren kann die Anwendung von Taschenrechnern kompliziert sein. Daher hilft sie dabei. Ulrike hat immer eigene Unterlagen, die sie vorbereitet hat. Meistens machen sie jedoch Hausaufgaben und Übungen, die die Schüler von ihren Lehrern bekommen haben. Über die Jahre hat sie viele verschiedene Unterrichtstechniken gelernt. Sie verwendet Arbeitsblätter, genauso wie Videos oder Audios. Ulriike gibt ihr Bestes, um ihren Schülern das Thema verständlich beizubringen. Daher ist es immer ein gutes Gefühl. wenn ihre Nachhilfeschüler Tests bestehen und gute Noten bekommen.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.05
+  "src": "auto"
  },
  "EHy_84xO3HE": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-13T06:15:01+00:00",
+  "checked": "2026-11-27T02:22:23+00:00",
   "title": "Mascha und der Bär 💥 NEUE FOLGE 2023 💥 Auf Wolke Bär (Folge 93) 💌",
   "duration": 899,
   "published": "20230210",
@@ -90472,6 +91461,7 @@
   "pace": 43.9,
   "rare": 0.0726,
   "var": 0.733,
+  "cl": null,
   "speech_s": 809.5,
   "tokens": 592,
   "kw": [
@@ -90596,16 +91586,138 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ersten",
+    "ersten Kinder auf dem Mond sein wir wollen uns noch nicht streiten",
+    505,
+    515,
+    5.76,
+    4
+   ],
+   [
+    "wollen",
+    "mit bitte wir wollen doch so gern die",
+    501,
+    508,
+    5.71,
+    4
+   ],
+   [
+    "traum",
+    "Traum der balte für die Traum sie wollen",
+    702,
+    707,
+    4.72,
+    2
+   ],
+   [
+    "wow",
+    "oh wow ohne Fernseher Filme anschauen",
+    99,
+    108,
+    4.71,
+    2
+   ],
+   [
+    "mars",
+    "erste Kind auf dem Mars sein",
+    855,
+    860,
+    4.08,
+    1
+   ],
+   [
+    "probiert",
+    "jetzt probiert ihr es mal",
+    894,
+    900,
+    4.07,
+    1
+   ],
+   [
+    "bde",
+    "BDE dir ja nichts ein ich werde das",
+    852,
+    860,
+    3.58,
+    1
+   ],
+   [
+    "him",
+    "ST a him bringen wir ein Geschenk der",
+    566,
+    576,
+    3.58,
+    1
+   ],
+   [
+    "forschen",
+    "forschen der Weltraum ist so groß welum",
+    548,
+    557,
+    3.56,
+    1
+   ],
+   [
+    "zeh",
+    "der Zeh mal da V uns",
+    618,
+    635,
+    3.44,
+    1
+   ],
+   [
+    "astronauten",
+    "los kleiner Astronauten ",
+    642,
+    672,
+    3.41,
+    1
+   ],
+   [
+    "schenkst",
+    "mir ah du schenkst jemandem dieses",
+    134,
+    143,
+    2.98,
+    1
+   ],
+   [
+    "rumläuft",
+    "rumläuft mein m ich werde das erste sein und wenn du",
+    428,
+    438,
+    2.91,
+    1
+   ],
+   [
+    "wel",
+    "die wel mal und mal dem Himmel bringen wir ein Geschenk",
+    557,
+    567,
+    2.88,
+    1
+   ],
+   [
+    "druckwelle",
+    "das Raumschiff ist bereit die Druckwelle",
+    530,
+    534,
+    2.77,
+    1
+   ]
+  ],
+  "voc": 0.0744466800804829,
   "tx": "auf Wolke Bär oh wow ohne Fernseher Filme anschauen hey Einladung zum Filmabend hey B warum ist das hier ein Herzchen aber B bitte sag's mir ah du schenkst jemandem dieses Herz ich verstehe schon alles klar alles klar ich finde wen für dich ganz ruhig ich mach das schon Bär du könntest hier wirklich mal aufräumen suchen suchen nein das war noch nicht Bär sie mal ich habe dein Herz schon gefunden oh super oh wow für wen sind all die Herzen die sind zum Verschenken hier das ist für dich und für dich und dieses hier bekommt Bär zurück hi bitte sehr wir sehen uns dann Jungs jemand zu Hause hier für euch wer hier ich habe den Herz gefunden oh und das ist für dich es liegt Liebe in der Luft ich bin das erste Kind das auf dem Mond rumläuft mein m ich werde das erste sein und wenn du dich auf den Kopf stellst lass mich rein du kannst nicht ohne mich zum Mond fliegen lass mich einsteigen was machst du bauchst du eine Mondrakete wir fliegen mit bitte wir wollen doch so gern die ersten Kinder auf dem Mond sein wir wollen uns noch nicht streiten und ganz brav sein bitte lass uns mitfliegen am nächsten Tag wir Zehen den K dann runter runter das Raumschiff ist bereit das Raumschiff ist bereit die Druckwelle kann kommen kommen dann geht die Reise los dann geht die Reise los Dorf auf großstad dor großstad der Kinderraum reicht wei der Kinderraum re we sie wollen das alle forschen der Weltraum ist so groß welum so gr undgen wir tief eine Woche später die wel mal und mal dem Himmel bringen wir ein Geschenk für Freunde mit ein H Leucht der kleiner ST a him bringen wir ein Geschenk der Freunde mit ein hellchen der kleiner Stirn super toll wir sind die Ersten kinderastronauten der Zeh mal da V uns ah Klasse wir sind schwerel los kleiner Astronauten treibsandt ich will raus Spitze ich auf dem Mond die Vorstellung von Kindern die Vorstellung von Kindern größer als ein Planet größer als ein Planet zschen den Sternen liegt der den Sternen liegt der balte für die Traum der balte für die Traum sie wollen es nicht glauben es nicht glauben doch unser Plan ersteht doch unser Plan ereht wir sind die ersten Kinder sind die ersten Kinder im galaktischen Raum im galaktischen Raum wir werden die Helden des welraumes sein die Erlebnisse teilen wir gern aus dem Himmel bringen wir ein Geschenk für Freunde mit ein hucht der kleiner Stern aus dem Himmel bringen wir ein Geschenk für Freunde mit ein H der kleiner Stern auf heute helfen wir Dir mal oh nein wo ist denn unsere Mondrakete hin B Hilfe ich glaube der Dumme Sand will uns runterchlucken aber wie sollen wir denn bloß wieder zurück auf die Erde kommen wir werden die hden des bumes sein die Erlebnisse teilen wir gern aus dem Himmel bringen wir ein Geschenk für Freunde mit ein H Leucht der kleiner STM aus dem Himmel bringen wir ein Geschenk der Freunde mit ein hellucht in der kleiner stirern BDE dir ja nichts ein ich werde das erste Kind auf dem Mars sein so so so so warum sind denn alle meine Videos verschwunden dann beginnen wir mal mit der Suche ein Z D 4 5 und se vielleicht finde ich sie ja hier oben rechts das Mikrofon klicke ich jetzt an und sage Masa und ist dran das war einfach und jetzt probiert ihr es mal",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.0744466800804829
+  "src": "auto"
  },
  "AdoSob1J-JQ": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:17:08+00:00",
+  "checked": "2026-11-27T02:34:02+00:00",
   "title": "#855 Svenja als Lehrerin - Berufe mit Geschichten zum Lesen & Hören | [Deutsch lernen durch Hören]",
   "duration": 143,
   "published": "20241222",
@@ -90614,6 +91726,7 @@
   "pace": 118.9,
   "rare": 0.0714,
   "var": 0.8345,
+  "cl": null,
   "speech_s": 134.2,
   "tokens": 266,
   "kw": [
@@ -90730,16 +91843,146 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "hause",
+    "Nach dem Unterricht packt sie ihre Sachen ein und fährt nach Hause. Doch ihr Arbeitstag ist",
+    71,
+    79,
+    5.17,
+    2
+   ],
+   [
+    "klasse",
+    "die Klasse. Svenja unterrichtet die Schulfächer Geografie und Deutsch.",
+    25,
+    33,
+    5.16,
+    2
+   ],
+   [
+    "fährt",
+    "Nach dem Unterricht packt sie ihre Sachen ein und fährt nach Hause. Doch ihr Arbeitstag ist",
+    71,
+    79,
+    4.78,
+    1
+   ],
+   [
+    "büro",
+    "noch lange nicht vorbei. Sie arbeitet jedoch lieber in ihrem Büro zu Hause weiter. Dort kann",
+    78,
+    86,
+    4.73,
+    1
+   ],
+   [
+    "kostet",
+    "Zeit, um Prüfungen und Schularbeiten zu korrigieren, da das viel Zeit kostet.",
+    133,
+    142,
+    4.73,
+    1
+   ],
+   [
+    "organisieren",
+    "organisieren. Auf den Ausflügen muss sie gut auf ihre Schüler aufpassen und darauf achten,",
+    118,
+    127,
+    4.18,
+    1
+   ],
+   [
+    "tafel",
+    "sie aus. Manchmal kann sie manche Themen jedoch am besten auf der Tafel beibringen.",
+    49,
+    56,
+    4.17,
+    1
+   ],
+   [
+    "ausflüge",
+    "Als Klassenlehrer hat sie auch manchmal die Aufgabe, Ausflüge zu planen und zu",
+    113,
+    119,
+    3.56,
+    1
+   ],
+   [
+    "klassenzimmer",
+    "Im Klassenzimmer angekommen, muss sie erst einmal ihre Klasse beruhigen,",
+    32,
+    38,
+    3.54,
+    1
+   ],
+   [
+    "ausgedruckt",
+    "über den Projektor, andere Unterlagen hat sie zuvor ausgedruckt und teilt",
+    43,
+    50,
+    3.24,
+    1
+   ],
+   [
+    "verständnisvoll",
+    "Svenja bemüht sich, auf alle Fragen offen und verständnisvoll zu sein. Sie will,",
+    55,
+    63,
+    3.09,
+    1
+   ],
+   [
+    "ausflügen",
+    "organisieren. Auf den Ausflügen muss sie gut auf ihre Schüler aufpassen und darauf achten,",
+    118,
+    127,
+    3.04,
+    1
+   ],
+   [
+    "geografie",
+    "die Klasse. Svenja unterrichtet die Schulfächer Geografie und Deutsch.",
+    25,
+    33,
+    2.99,
+    1
+   ],
+   [
+    "klassenlehrer",
+    "Als Klassenlehrer hat sie auch manchmal die Aufgabe, Ausflüge zu planen und zu",
+    113,
+    119,
+    2.91,
+    1
+   ],
+   [
+    "unterrichtsmaterialien",
+    "Dann muss Svenja Hausaufgaben und Schularbeiten korrigieren und Unterrichtsmaterialien für",
+    92,
+    99,
+    2.53,
+    1
+   ],
+   [
+    "schulfächer",
+    "die Klasse. Svenja unterrichtet die Schulfächer Geografie und Deutsch.",
+    25,
+    33,
+    2.1,
+    1
+   ]
+  ],
+  "voc": 0.034482758620689655,
   "tx": "Svenja als Lehrerin Svenja unterrichtet an einer Realschule. Sie kommt jeden Tag um 07:00 Uhr in die Schule und holt sich zuerst einen Kaffee aus dem Lehrerzimmer. Dann nimmt sie ihre Unterlagen für das nächste Fach und macht sich auf den Weg in die Klasse. Svenja unterrichtet die Schulfächer Geografie und Deutsch. Im Klassenzimmer angekommen, muss sie erst einmal ihre Klasse beruhigen, sodass sie mit dem Unterricht anfangen kann. Manche Unterlagen zeigt sie auf dem Computer über den Projektor, andere Unterlagen hat sie zuvor ausgedruckt und teilt sie aus. Manchmal kann sie manche Themen jedoch am besten auf der Tafel beibringen. Svenja bemüht sich, auf alle Fragen offen und verständnisvoll zu sein. Sie will, dass alle ihre Schüler das Thema gut verstehen. Hausaufgaben gibt sie nur im Fach Deutsch auf. Nach dem Unterricht packt sie ihre Sachen ein und fährt nach Hause. Doch ihr Arbeitstag ist noch lange nicht vorbei. Sie arbeitet jedoch lieber in ihrem Büro zu Hause weiter. Dort kann sie sich besser konzentrieren als im großen Lehrerzimmer, wo viele andere Lehrer sind. Dann muss Svenja Hausaufgaben und Schularbeiten korrigieren und Unterrichtsmaterialien für die nächsten Tage vorbereiten. Des Weiteren stellt sie Prüfungen zusammen und überlegt, wie sie ihren Unterricht verbessern kann. Zum Schluss liest und beantwortet sie ihre E-Mails. Als Klassenlehrer hat sie auch manchmal die Aufgabe, Ausflüge zu planen und zu organisieren. Auf den Ausflügen muss sie gut auf ihre Schüler aufpassen und darauf achten, dass alles gut läuft. Auch während den Schulferien hat Svenja viel Arbeit. Meistens nutzt sie die Zeit, um Prüfungen und Schularbeiten zu korrigieren, da das viel Zeit kostet.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.034482758620689655
+  "src": "cc"
  },
  "NXCG-jBQ1wc": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:17:12+00:00",
+  "checked": "2026-11-27T02:35:14+00:00",
   "title": "#743 Jule als Augenoptikerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 159,
   "published": "20240509",
@@ -90748,6 +91991,7 @@
   "pace": 116.5,
   "rare": 0.0646,
   "var": 0.7804,
+  "cl": null,
   "speech_s": 151.4,
   "tokens": 294,
   "kw": [
@@ -90832,16 +92076,122 @@
     10
    ]
   ],
+  "kx": [
+   [
+    "sehe",
+    "Ich sehe viele Buchstaben. In der ersten",
+    66,
+    74,
+    5.18,
+    3
+   ],
+   [
+    "ihren",
+    "liebt ihren Beruf und genießt es",
+    17,
+    23,
+    5.74,
+    2
+   ],
+   [
+    "liebt",
+    "liebt ihren Beruf und genießt es",
+    17,
+    23,
+    4.55,
+    2
+   ],
+   [
+    "verbessern",
+    "zu verbessern. Eines Tages kommt ein älterer Herr",
+    22,
+    30,
+    4.48,
+    2
+   ],
+   [
+    "konzentriert",
+    "Herr Schmidt konzentriert sich und liest",
+    49,
+    55,
+    4.15,
+    1
+   ],
+   [
+    "geniesst",
+    "",
+    0,
+    0,
+    4.12,
+    1
+   ],
+   [
+    "ähm",
+    "Zeile sehe ich ein A. Ähm, in der",
+    69,
+    79,
+    4.12,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "kleinste",
+    "geradeaus und lesen Sie die kleinste",
+    39,
+    46,
+    4.04,
+    1
+   ],
+   [
+    "geradeaus",
+    "geradeaus und lesen Sie die kleinste",
+    39,
+    46,
+    3.57,
+    1
+   ],
+   [
+    "linsen",
+    "Jule und hält ihm verschiedene Linsen",
+    45,
+    50,
+    3.57,
+    1
+   ],
+   [
+    "eleganten",
+    "schließlich für einen eleganten Rahmen, der perfekt zu seinem Gesicht passt.",
+    98,
+    107,
+    3.37,
+    1
+   ],
+   [
+    "durchhören",
+    "Deutsch lernen durchhören. Jule als Augenoptikerin.",
+    3,
+    15,
+    2.23,
+    1
+   ]
+  ],
+  "voc": 0.03056768558951965,
   "tx": "Deutsch lernen durchhören. Jule als Augenoptikerin. Jule ist Augenoptikerin und arbeitet in einem Optikergeschäft in der Stadt. Sie liebt ihren Beruf und genießt es Menschen dabei zu helfen, ihre Sehekraft zu verbessern. Eines Tages kommt ein älterer Herr namens Herr Schmidt in das Geschäft, um eine neue Brille zu kaufen. Jule begrüßt ihn freundlich und beginnt seine Augen zu untersuchen. Okay, Herr Schmidt, schauen Sie bitte geradeaus und lesen Sie die kleinste Zeile, die Sie erkennen können, sagt Jule und hält ihm verschiedene Linsen vor die Augen. Herr Schmidt konzentriert sich und liest die Zeile, die er gerade noch erkennen kann. Das ist eine Sieben, sagt er. Einen Moment bitte. Schauen Sie jetzt noch einmal. Was sehen Sie? Ich sehe viele Buchstaben. In der ersten Zeile sehe ich ein A. Ähm, in der zweiten Zeile sehe ich ein Z und ein O. Nein, nein, ich glaube, es ist ein Kuh. Okay, das ist gut, sagt Jule. Jetzt zeige ich Ihnen verschiedene Brillenrahmen. Wählen Sie die Brille aus, die Ihnen am besten gefällt und die am besten zu Ihnen passt. Herr Schmidt entscheidet sich schließlich für einen eleganten Rahmen, der perfekt zu seinem Gesicht passt. Wie gefällt ihn dieser Rahmen? Fragt Jule. Oh, ich finde ihn wunderschön, antwortete Herr Schmidt. Ich kann es kaum erwarten, meine neue Brille zu bekommen. Jule lächelt zufrieden. Sie weiß, dass Herr Schmidt glücklich sein wird, wenn er seine neue Brille bekommt und wieder scharf sehen kann. In ein paar Tagen bekommen Sie ihre neue Brille, sagt Jule. Ich bin sicher, sie werden den Unterschied merken. Herr Schmidt bedankt sich bei Jule und verläßt das Geschäft. Jule ist glücklich, dass sie jemandem helfen konnte, seine Sehekraft zu verbessern. Das ist der Grund, warum sie ihren Beruf als Augenoptikerin so liebt.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.03056768558951965
+  "src": "auto"
  },
  "QyDAPCYseys": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:18:11+00:00",
+  "checked": "2026-11-27T02:36:29+00:00",
   "title": "#760 Charlotte als Architektin - Berufe mit Geschichten zum Lesen & Hören | #DldH",
   "duration": 153,
   "published": "20240530",
@@ -90850,6 +92200,7 @@
   "pace": 119.9,
   "rare": 0.041,
   "var": 0.8659,
+  "cl": null,
   "speech_s": 134.1,
   "tokens": 268,
   "kw": [
@@ -90902,16 +92253,202 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "danach",
+    "Sie teilen die Aufgaben untereinander auf. Danach setzt Charlotte sich an ihren Schreibtisch,",
+    21,
+    30,
+    5.3,
+    2
+   ],
+   [
+    "müssen",
+    "Meeting. Sie und ihre Arbeitskollegen besprechen die Projekte, die sie zurzeit bearbeiten müssen.",
+    14,
+    22,
+    5.78,
+    1
+   ],
+   [
+    "aufgaben",
+    "Sie teilen die Aufgaben untereinander auf. Danach setzt Charlotte sich an ihren Schreibtisch,",
+    21,
+    30,
+    4.79,
+    1
+   ],
+   [
+    "bestimmte",
+    "ob es möglich ist, ein Gebäude auf eine bestimmte Art und Weise zu bauen. Denn",
+    81,
+    88,
+    4.75,
+    1
+   ],
+   [
+    "erstes",
+    "Am Nachmittag hat sie ein erstes Gespräch mit einem Kunden, um ihn zu beraten. Sie",
+    95,
+    102,
+    4.75,
+    1
+   ],
+   [
+    "büro",
+    "dass alles nach Plan abläuft und keine Fehler gemacht werden. Danach geht sie wieder ins Büro,",
+    134,
+    142,
+    4.73,
+    1
+   ],
+   [
+    "projekte",
+    "Meeting. Sie und ihre Arbeitskollegen besprechen die Projekte, die sie zurzeit bearbeiten müssen.",
+    14,
+    22,
+    4.57,
+    1
+   ],
+   [
+    "schreibtisch",
+    "Sie teilen die Aufgaben untereinander auf. Danach setzt Charlotte sich an ihren Schreibtisch,",
+    21,
+    30,
+    4.18,
+    1
+   ],
+   [
+    "verbracht",
+    "Studiums hat sie oft mehrere Stunden am Tag damit verbracht, ihre Zeichenkünste zu verbessern. Zum",
+    52,
+    61,
+    4.18,
+    1
+   ],
+   [
+    "erfordert",
+    "an die Vorgaben ihrer Kunden halten muss, erfordert Architektur viel Kreativität.",
+    67,
+    73,
+    4.17,
+    1
+   ],
+   [
+    "untereinander",
+    "Sie teilen die Aufgaben untereinander auf. Danach setzt Charlotte sich an ihren Schreibtisch,",
+    21,
+    30,
+    4.14,
+    1
+   ],
+   [
+    "vorgaben",
+    "an die Vorgaben ihrer Kunden halten muss, erfordert Architektur viel Kreativität.",
+    67,
+    73,
+    4.14,
+    1
+   ],
+   [
+    "verworfen",
+    "werden bald verworfen und andere weiterbearbeitet. Sie fertigt noch zwei weitere Zeichnungen an.",
+    37,
+    45,
+    3.58,
+    1
+   ],
+   [
+    "skizzen",
+    "auf dem viele Zettel herumliegen. Es sind verschiedene Skizzen von Gebäuden. Manche davon",
+    29,
+    38,
+    3.57,
+    1
+   ],
+   [
+    "arbeitskollegen",
+    "Meeting. Sie und ihre Arbeitskollegen besprechen die Projekte, die sie zurzeit bearbeiten müssen.",
+    14,
+    22,
+    3.29,
+    1
+   ],
+   [
+    "fertigt",
+    "werden bald verworfen und andere weiterbearbeitet. Sie fertigt noch zwei weitere Zeichnungen an.",
+    37,
+    45,
+    3.2,
+    1
+   ],
+   [
+    "missverständnissen",
+    "werden. Sonst kann es zu Missverständnissen und einem unzufriedenen Kunden kommen.",
+    120,
+    127,
+    3.1,
+    1
+   ],
+   [
+    "architektin",
+    "Charlotte als Architektin Charlottes Arbeitstag beginnt mit einem",
+    8,
+    15,
+    3.06,
+    1
+   ],
+   [
+    "unzufriedenen",
+    "werden. Sonst kann es zu Missverständnissen und einem unzufriedenen Kunden kommen.",
+    120,
+    127,
+    2.88,
+    1
+   ],
+   [
+    "herumliegen",
+    "auf dem viele Zettel herumliegen. Es sind verschiedene Skizzen von Gebäuden. Manche davon",
+    29,
+    38,
+    2.84,
+    1
+   ],
+   [
+    "kundenkontakt",
+    "notiert sich alles. Kundenkontakt ist wichtig und muss während des ganzen Projekts gepflegt",
+    113,
+    121,
+    2.75,
+    1
+   ],
+   [
+    "charlottes",
+    "Charlotte als Architektin Charlottes Arbeitstag beginnt mit einem",
+    8,
+    15,
+    2.44,
+    1
+   ],
+   [
+    "anfertigt",
+    "wo sie weitere Pläne anfertigt. Nach einem langen Tag kann Charlotte endlich nach Hause.",
+    141,
+    149,
+    2.31,
+    1
+   ]
+  ],
+  "voc": 0.057692307692307696,
   "tx": "Charlotte als Architektin Charlottes Arbeitstag beginnt mit einem Meeting. Sie und ihre Arbeitskollegen besprechen die Projekte, die sie zurzeit bearbeiten müssen. Sie teilen die Aufgaben untereinander auf. Danach setzt Charlotte sich an ihren Schreibtisch, auf dem viele Zettel herumliegen. Es sind verschiedene Skizzen von Gebäuden. Manche davon werden bald verworfen und andere weiterbearbeitet. Sie fertigt noch zwei weitere Zeichnungen an. Charlotte ist definitiv nicht mit einem Talent fürs Zeichnen auf die Welt gekommen. Während des Studiums hat sie oft mehrere Stunden am Tag damit verbracht, ihre Zeichenkünste zu verbessern. Zum Glück war sie schon immer kreativ und hat ein Auge für Ästhetik. Und obwohl sie sich an die Vorgaben ihrer Kunden halten muss, erfordert Architektur viel Kreativität. Auch Mathematik und Physik sind wichtige Bestandteile ihres Berufs. Sie muss wissen, ob es möglich ist, ein Gebäude auf eine bestimmte Art und Weise zu bauen. Denn das Wichtigste in ihrem Job ist es, auf Sicherheit und Stabilität zu achten. Am Nachmittag hat sie ein erstes Gespräch mit einem Kunden, um ihn zu beraten. Sie hört sich seine Wünsche und Vorstellungen an und überlegt, wie und ob diese Wünsche realisiert werden können. Sie tauschen sich für eine Stunde aus und Charlotte notiert sich alles. Kundenkontakt ist wichtig und muss während des ganzen Projekts gepflegt werden. Sonst kann es zu Missverständnissen und einem unzufriedenen Kunden kommen. Nach der Beratung muss sie auf eine Baustelle, um den Fortschritt zu überprüfen. Sie geht sicher, dass alles nach Plan abläuft und keine Fehler gemacht werden. Danach geht sie wieder ins Büro, wo sie weitere Pläne anfertigt. Nach einem langen Tag kann Charlotte endlich nach Hause.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.057692307692307696
+  "src": "cc"
  },
  "_k6Rcm_QfKQ": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:20:17+00:00",
+  "checked": "2026-11-27T02:37:48+00:00",
   "title": "#835 Joachim als Bäcker - Berufe mit Geschichten zum Lesen & Hören - [Deutsch lernen durch Hören]",
   "duration": 153,
   "published": "20241103",
@@ -90920,6 +92457,7 @@
   "pace": 119.8,
   "rare": 0.12,
   "var": 0.8204,
+  "cl": null,
   "speech_s": 137.7,
   "tokens": 275,
   "kw": [
@@ -91036,16 +92574,146 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kommen",
+    "kommen die Backwaren auch schon in den Ofen. Vorher muss er Ofenhandschuhe anziehen,",
+    72,
+    79,
+    5.71,
+    2
+   ],
+   [
+    "tag",
+    "Nachdem alle Backwaren für den Tag fertig sind, muss Joachim noch für den nächsten",
+    114,
+    121,
+    5.69,
+    2
+   ],
+   [
+    "kurze",
+    "Währenddessen macht er eine kurze Pause. Dann nimmt er die gut duftenden Backwaren",
+    86,
+    94,
+    4.79,
+    1
+   ],
+   [
+    "fährt",
+    "eine Zimtschnecke und einen Donut ein und fährt dann nach Hause, wo er ein Nickerchen macht.",
+    142,
+    150,
+    4.78,
+    1
+   ],
+   [
+    "hände",
+    "um sich nicht die Hände zu verbrennen. Kurz danach kommen auch die Süßwaren zum Backen in den Ofen.",
+    78,
+    87,
+    4.77,
+    1
+   ],
+   [
+    "legt",
+    "Tag vorbereiten. Er bereitet Backmischungen vor und legt fest, was morgen gebacken wird.",
+    120,
+    128,
+    4.73,
+    1
+   ],
+   [
+    "beruf",
+    "Joachim hat seine eigene Bäckerei. Er hat sein Hobby zum Beruf gemacht. Sein Arbeitstag beginnt",
+    9,
+    20,
+    4.66,
+    1
+   ],
+   [
+    "anziehen",
+    "kommen die Backwaren auch schon in den Ofen. Vorher muss er Ofenhandschuhe anziehen,",
+    72,
+    79,
+    4.16,
+    1
+   ],
+   [
+    "vorbereiten",
+    "Tag vorbereiten. Er bereitet Backmischungen vor und legt fest, was morgen gebacken wird.",
+    120,
+    128,
+    4.13,
+    1
+   ],
+   [
+    "hefe",
+    "große Mengen an Mehl, Salz, Hefe, Zucker und vieles mehr, dass man für das Backen braucht.",
+    34,
+    42,
+    3.44,
+    1
+   ],
+   [
+    "brote",
+    "Er beginnt damit, verschiedene Teige zu mischen und zu kneten. Daraus werden später Brote,",
+    42,
+    50,
+    3.31,
+    1
+   ],
+   [
+    "muffins",
+    "beginnt Joachim mit den Süßwaren. Heute backt er Donuts, Muffins und Zimtschnecken.",
+    57,
+    65,
+    3.26,
+    1
+   ],
+   [
+    "kneten",
+    "Er beginnt damit, verschiedene Teige zu mischen und zu kneten. Daraus werden später Brote,",
+    42,
+    50,
+    2.98,
+    1
+   ],
+   [
+    "donut",
+    "eine Zimtschnecke und einen Donut ein und fährt dann nach Hause, wo er ein Nickerchen macht.",
+    142,
+    150,
+    2.97,
+    1
+   ],
+   [
+    "glasur",
+    "bevor sie mit der Glasur bestrichen werden können. Jetzt ist alles fertig für den Verkauf.",
+    106,
+    114,
+    2.92,
+    1
+   ],
+   [
+    "duftenden",
+    "Währenddessen macht er eine kurze Pause. Dann nimmt er die gut duftenden Backwaren",
+    86,
+    94,
+    2.87,
+    1
+   ]
+  ],
+  "voc": 0.0861244019138756,
   "tx": "Joachim als Bäcker Joachim hat seine eigene Bäckerei. Er hat sein Hobby zum Beruf gemacht. Sein Arbeitstag beginnt sehr früh. Schon um 01:30 ist er in der Bäckerei, da die Backwaren schon zum Frühstück fertig sein müssen. Er zieht sich seine Schürze, Mütze und Handschuhe an. In der Bäckerei gibt es große Mengen an Mehl, Salz, Hefe, Zucker und vieles mehr, dass man für das Backen braucht. Er beginnt damit, verschiedene Teige zu mischen und zu kneten. Daraus werden später Brote, Brötchen, Croissants und andere Gebäcke. Während der fertige Teig zum Ruhen im Kühlschrank liegt, beginnt Joachim mit den Süßwaren. Heute backt er Donuts, Muffins und Zimtschnecken. Nach einiger Zeit nimmt Joachim den gekühlten Teig heraus und beginnt ihn zu formen. Dann kommen die Backwaren auch schon in den Ofen. Vorher muss er Ofenhandschuhe anziehen, um sich nicht die Hände zu verbrennen. Kurz danach kommen auch die Süßwaren zum Backen in den Ofen. Währenddessen macht er eine kurze Pause. Dann nimmt er die gut duftenden Backwaren nacheinander aus dem Ofen. Die Donuts lässt er abkühlen, bevor er sie mit Schokolade überzieht. Auch die Zimtschnecken müssen erst etwas abkühlen, bevor sie mit der Glasur bestrichen werden können. Jetzt ist alles fertig für den Verkauf. Nachdem alle Backwaren für den Tag fertig sind, muss Joachim noch für den nächsten Tag vorbereiten. Er bereitet Backmischungen vor und legt fest, was morgen gebacken wird. Bevor er nach Hause gehen kann, muss Joachim noch die Arbeitsflächen und Backöfen sauber machen. Hygiene ist ein Muss in jeder Bäckerei. Zum Schluss packt er sich noch ein Brot, eine Zimtschnecke und einen Donut ein und fährt dann nach Hause, wo er ein Nickerchen macht.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.08571428571428572
+  "src": "cc"
  },
  "Cct_6TedX7g": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:42:47+00:00",
+  "checked": "2026-11-27T02:43:34+00:00",
   "title": "#854 Melanie als Hundesitterin - Berufe mit Geschichten zum Lesen & Hören #DldH #learngerman @dldh",
   "duration": 147,
   "published": "20241221",
@@ -91054,6 +92722,7 @@
   "pace": 130.4,
   "rare": 0.0505,
   "var": 0.7948,
+  "cl": null,
   "speech_s": 127.5,
   "tokens": 277,
   "kw": [
@@ -91122,16 +92791,170 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "daher",
+    "über das Wochenende weg und benötigen daher einen Hundesitter. Sie kümmert sich um die",
+    20,
+    27,
+    5.37,
+    2
+   ],
+   [
+    "kennen",
+    "Hunde im Haus der Besitzer. Hier fühlen sie sich wohler, weil sie die Umgebung kennen.",
+    26,
+    34,
+    5.07,
+    2
+   ],
+   [
+    "umgebung",
+    "Hunde im Haus der Besitzer. Hier fühlen sie sich wohler, weil sie die Umgebung kennen.",
+    26,
+    34,
+    4.78,
+    1
+   ],
+   [
+    "garten",
+    "Sie essen brav auf und danach geht es in den Garten, wo sie hin und her laufen.",
+    75,
+    84,
+    4.73,
+    1
+   ],
+   [
+    "legt",
+    "Dann wird es Zeit für einen Spaziergang. Sie legt die Leinen an und verlässt mit",
+    92,
+    99,
+    4.73,
+    1
+   ],
+   [
+    "vorne",
+    "folgen ihr und schlafen auf den Kissen am Boden. Am nächsten Tag geht es wieder von vorne los.",
+    135,
+    144,
+    4.73,
+    1
+   ],
+   [
+    "benötigen",
+    "über das Wochenende weg und benötigen daher einen Hundesitter. Sie kümmert sich um die",
+    20,
+    27,
+    4.16,
+    1
+   ],
+   [
+    "aufpassen",
+    "auf zwei Hunde aufpassen. Es sind ein Golden Retriever und ein Husky. Die Besitzer sind",
+    12,
+    21,
+    4.15,
+    1
+   ],
+   [
+    "abendessen",
+    "Als sie trocken sind, gibt Nicole den Hunden noch ihr Abendessen, bevor sie sich selbst etwas",
+    119,
+    127,
+    4.14,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "streicheln",
+    "Nach dem Streicheln geht sie in die Küche und füllt die Futternäpfe mit Hundefutter.",
+    70,
+    76,
+    3.56,
+    1
+   ],
+   [
+    "shampoo",
+    "lauwarmes Wasser und spezielles Shampoo für Hunde, um einen nach dem anderen zu baden.",
+    112,
+    119,
+    3.43,
+    1
+   ],
+   [
+    "wohler",
+    "Hunde im Haus der Besitzer. Hier fühlen sie sich wohler, weil sie die Umgebung kennen.",
+    26,
+    34,
+    3.27,
+    1
+   ],
+   [
+    "gerollt",
+    "Da sich beide Hunde im Dreck gerollt haben, wird es Zeit für ein Bad. Melanie verwendet",
+    104,
+    113,
+    3.23,
+    1
+   ],
+   [
+    "gästezimmer",
+    "bestellt. Sie sieht ein bisschen fern und geht dann ins Gästezimmer, um zu schlafen. Die Hunde",
+    126,
+    136,
+    3.2,
+    1
+   ],
+   [
+    "gassi",
+    "können. Melanie ist schon einmal mit ihnen Gassi gegangen, daher kennen sie sich schon etwas.",
+    62,
+    70,
+    3.15,
+    1
+   ],
+   [
+    "retriever",
+    "auf zwei Hunde aufpassen. Es sind ein Golden Retriever und ein Husky. Die Besitzer sind",
+    12,
+    21,
+    2.84,
+    1
+   ],
+   [
+    "husky",
+    "auf zwei Hunde aufpassen. Es sind ein Golden Retriever und ein Husky. Die Besitzer sind",
+    12,
+    21,
+    2.8,
+    1
+   ],
+   [
+    "lauwarmes",
+    "lauwarmes Wasser und spezielles Shampoo für Hunde, um einen nach dem anderen zu baden.",
+    112,
+    119,
+    2.19,
+    1
+   ]
+  ],
+  "voc": 0.045662100456621,
   "tx": "Melanie als Hundesitterin Melanie muss über das Wochenende auf zwei Hunde aufpassen. Es sind ein Golden Retriever und ein Husky. Die Besitzer sind über das Wochenende weg und benötigen daher einen Hundesitter. Sie kümmert sich um die Hunde im Haus der Besitzer. Hier fühlen sie sich wohler, weil sie die Umgebung kennen. Als Melanie das Haus betritt, sieht sie sich zuerst um und liest sich noch einmal die Liste durch, die ihre Kunden ihr hinterlassen haben. Schon einige Tage vorher haben sie telefoniert und alles Wichtige besprochen. Wenn Melanie Fragen oder Probleme hat, kann sie jederzeit anrufen. Dann begrüßt sie die Hunde und streichelt sie, dass sie sich an sie gewöhnen können. Melanie ist schon einmal mit ihnen Gassi gegangen, daher kennen sie sich schon etwas. Nach dem Streicheln geht sie in die Küche und füllt die Futternäpfe mit Hundefutter. Sie essen brav auf und danach geht es in den Garten, wo sie hin und her laufen. Nicole spielt mit ihnen und wirft Bälle, die ihr die Hunde wieder zurückbringen. Dann wird es Zeit für einen Spaziergang. Sie legt die Leinen an und verlässt mit ihnen das Haus. Nach fast einer Stunde sind sie wieder zu Hause. Da sich beide Hunde im Dreck gerollt haben, wird es Zeit für ein Bad. Melanie verwendet lauwarmes Wasser und spezielles Shampoo für Hunde, um einen nach dem anderen zu baden. Als sie trocken sind, gibt Nicole den Hunden noch ihr Abendessen, bevor sie sich selbst etwas bestellt. Sie sieht ein bisschen fern und geht dann ins Gästezimmer, um zu schlafen. Die Hunde folgen ihr und schlafen auf den Kissen am Boden. Am nächsten Tag geht es wieder von vorne los.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.045454545454545456
+  "src": "cc"
  },
  "EXPlIQ3s11g": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:49:07+00:00",
+  "checked": "2026-11-27T02:43:37+00:00",
   "title": "#793 Werner als Bauer - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 137,
   "published": "20240730",
@@ -91140,6 +92963,7 @@
   "pace": 109.7,
   "rare": 0.0805,
   "var": 0.8495,
+  "cl": null,
   "speech_s": 129.0,
   "tokens": 236,
   "kw": [
@@ -91224,16 +93048,170 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "dort",
+    "steiler Hang. Dort baut Werners Familie schon seit langer Zeit Weintrauben an.",
+    41,
+    48,
+    5.78,
+    1
+   ],
+   [
+    "mann",
+    "Ort. Werner ist ein sehr reicher Mann. Mehrere Feldarbeiter und Helfer arbeiten für ihn.",
+    67,
+    77,
+    5.73,
+    1
+   ],
+   [
+    "baut",
+    "steiler Hang. Dort baut Werners Familie schon seit langer Zeit Weintrauben an.",
+    41,
+    48,
+    4.38,
+    2
+   ],
+   [
+    "umgebung",
+    "Aus der Ernte machen sie Wein, den sie an die Restaurants in der Umgebung verkaufen.",
+    47,
+    54,
+    4.78,
+    1
+   ],
+   [
+    "helfer",
+    "Ort. Werner ist ein sehr reicher Mann. Mehrere Feldarbeiter und Helfer arbeiten für ihn.",
+    67,
+    77,
+    4.19,
+    1
+   ],
+   [
+    "restaurants",
+    "Aus der Ernte machen sie Wein, den sie an die Restaurants in der Umgebung verkaufen.",
+    47,
+    54,
+    4.09,
+    1
+   ],
+   [
+    "antwortet",
+    "sagt Werners Frau. „Dafür habe ich keine Zeit“, antwortet er. Seine Frau erwidert:",
+    90,
+    98,
+    4.08,
+    1
+   ],
+   [
+    "grossvater",
+    "",
+    0,
+    0,
+    4.07,
+    1
+   ],
+   [
+    "hügel",
+    "hat einen großen Bauernhof auf einem kleinen Hügel. Es ist ein Vierkanthof. Das bedeutet,",
+    19,
+    27,
+    4.07,
+    1
+   ],
+   [
+    "feldes",
+    "eines Feldes. Hier fahren viele Autos. Deshalb ist der Platz perfekt. Werners",
+    111,
+    119,
+    3.45,
+    1
+   ],
+   [
+    "helfern",
+    "Auf dem Hof gibt es auch Kühe. Diese werden jeden Morgen von den Helfern gemolken. Aus",
+    76,
+    84,
+    3.45,
+    1
+   ],
+   [
+    "erwidert",
+    "sagt Werners Frau. „Dafür habe ich keine Zeit“, antwortet er. Seine Frau erwidert:",
+    90,
+    98,
+    3.27,
+    1
+   ],
+   [
+    "urgrossvater",
+    "",
+    0,
+    0,
+    3.17,
+    1
+   ],
+   [
+    "steiler",
+    "steiler Hang. Dort baut Werners Familie schon seit langer Zeit Weintrauben an.",
+    41,
+    48,
+    3.09,
+    1
+   ],
+   [
+    "weintrauben",
+    "steiler Hang. Dort baut Werners Familie schon seit langer Zeit Weintrauben an.",
+    41,
+    48,
+    2.98,
+    1
+   ],
+   [
+    "rechteckige",
+    "dass das Gebäude eine rechteckige Form hat. Werner ist sehr stolz auf seinen Hof.",
+    26,
+    35,
+    2.96,
+    1
+   ],
+   [
+    "bioladen",
+    "sie an einen Bekleidungshersteller verkaufen. Die Eier der Hühner verkaufen sie an den Bioladen im",
+    60,
+    68,
+    2.78,
+    1
+   ],
+   [
+    "gemolken",
+    "Auf dem Hof gibt es auch Kühe. Diese werden jeden Morgen von den Helfern gemolken. Aus",
+    76,
+    84,
+    2.77,
+    1
+   ],
+   [
+    "hofladen",
+    "der Milch machen sie Käse und Joghurt. „Wir könnten einen eigenen Hofladen aufmachen“,",
+    83,
+    91,
+    2.73,
+    1
+   ]
+  ],
+  "voc": 0.05,
   "tx": "Werner als Bauer Werners Vater war Bauer. Sein Großvater und sein Urgroßvater waren ebenfalls Bauern. Seine Familie hat einen großen Bauernhof auf einem kleinen Hügel. Es ist ein Vierkanthof. Das bedeutet, dass das Gebäude eine rechteckige Form hat. Werner ist sehr stolz auf seinen Hof. Seit vier Jahren gehört ihm der Bauernhof und der gesamte Grund. Hinter dem Gebäude ist ein steiler Hang. Dort baut Werners Familie schon seit langer Zeit Weintrauben an. Aus der Ernte machen sie Wein, den sie an die Restaurants in der Umgebung verkaufen. Außerdem haben sie Schweine, die sie an den Metzger verkaufen, und Schafe, deren Wolle sie an einen Bekleidungshersteller verkaufen. Die Eier der Hühner verkaufen sie an den Bioladen im Ort. Werner ist ein sehr reicher Mann. Mehrere Feldarbeiter und Helfer arbeiten für ihn. Auf dem Hof gibt es auch Kühe. Diese werden jeden Morgen von den Helfern gemolken. Aus der Milch machen sie Käse und Joghurt. „Wir könnten einen eigenen Hofladen aufmachen“, sagt Werners Frau. „Dafür habe ich keine Zeit“, antwortet er. Seine Frau erwidert: „Ich habe Zeit und Lust. Ein eigener Laden wird mir Spaß machen.“ Werner findet die Idee gut. Zusammen mit einigen Bauarbeitern baut Werner eine Holzhütte am Rande eines Feldes. Hier fahren viele Autos. Deshalb ist der Platz perfekt. Werners Frau verkauft viele Produkte vom Hof. Manche Leute denken, dass Bauern immer arm sind. Aber Werner zeigt, dass kluge Bauern viel Geld verdienen können.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.049689440993788817
+  "src": "cc"
  },
  "rewcEEqDDVo": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:52:21+00:00",
+  "checked": "2026-11-27T02:45:24+00:00",
   "title": "#811 Manuela als Barista - Berufe mit Geschichten zum Lesen & Hören [Deutsch lernen durch Hören]",
   "duration": 145,
   "published": "20240915",
@@ -91242,6 +93220,7 @@
   "pace": 120.2,
   "rare": 0.0996,
   "var": 0.8116,
+  "cl": null,
   "speech_s": 130.3,
   "tokens": 261,
   "kw": [
@@ -91358,16 +93337,146 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "darauf",
+    "und bedankt sich für das Trinkgeld. Sie gießt den Milchschaum in den Becher, gibt den Deckel darauf",
+    78,
+    86,
+    5.52,
+    2
+   ],
+   [
+    "bevor",
+    "Manuela arbeitet in einem Café. Schon bevor es öffnet, fängt für sie die Arbeit an. Sie",
+    10,
+    20,
+    5.19,
+    2
+   ],
+   [
+    "café",
+    "Manuela arbeitet in einem Café. Schon bevor es öffnet, fängt für sie die Arbeit an. Sie",
+    10,
+    20,
+    4.23,
+    2
+   ],
+   [
+    "diesmal",
+    "zwei Kugeln Vanilleeis. Für den Cappuccino verwendet sie diesmal Sojamilch und macht",
+    108,
+    116,
+    4.74,
+    1
+   ],
+   [
+    "motive",
+    "damit ein Herz auf den Kaffee. Das hat sie sich selbst beigebracht. Ein paar einfache Motive",
+    115,
+    124,
+    4.14,
+    1
+   ],
+   [
+    "getränke",
+    "auf und bereitet die Getränke zu. Einen Eiskaffee und einen Cappuccino. In den Eiskaffee gibt sie",
+    99,
+    109,
+    4.09,
+    1
+   ],
+   [
+    "deckel",
+    "und bedankt sich für das Trinkgeld. Sie gießt den Milchschaum in den Becher, gibt den Deckel darauf",
+    78,
+    86,
+    3.92,
+    1
+   ],
+   [
+    "kugeln",
+    "zwei Kugeln Vanilleeis. Für den Cappuccino verwendet sie diesmal Sojamilch und macht",
+    108,
+    116,
+    3.92,
+    1
+   ],
+   [
+    "frühstücken",
+    "Kunden im Café, um zu arbeiten oder zu frühstücken. Manuela nimmt ihre Bestellungen",
+    93,
+    100,
+    3.57,
+    1
+   ],
+   [
+    "espresso",
+    "Sie nimmt die ersten Bestellungen auf und bereitet sie zu. Von Cappuccino über Espresso bis zum Latte",
+    47,
+    57,
+    3.51,
+    1
+   ],
+   [
+    "coffee",
+    "vor. Die meisten Leute holen sich zu dieser Zeit nur einen Coffee-To-Go am Weg zur Arbeit.",
+    39,
+    47,
+    3.4,
+    1
+   ],
+   [
+    "käsekuchen",
+    "schafft sie locker. Sie serviert die Kaffees und den Käsekuchen, den die Kunden bestellt haben.",
+    123,
+    131,
+    2.97,
+    1
+   ],
+   [
+    "schlagsahne",
+    "Schlagsahne und Kakaopulver darauf.",
+    138,
+    142,
+    2.89,
+    1
+   ],
+   [
+    "kaffees",
+    "schafft sie locker. Sie serviert die Kaffees und den Käsekuchen, den die Kunden bestellt haben.",
+    123,
+    131,
+    2.87,
+    1
+   ],
+   [
+    "macchiato",
+    "macchiato wird alles bestellt. Ab und zu kann nur Wasser oder Orangensaft bestellt werden. Sie kann",
+    56,
+    66,
+    2.8,
+    1
+   ],
+   [
+    "barista",
+    "Manuela als Barista Manuela arbeitet in einem Café. Schon bevor es öffnet, fängt für sie die Arbeit an. Sie",
+    8,
+    20,
+    2.74,
+    1
+   ]
+  ],
+  "voc": 0.055,
   "tx": "Manuela als Barista Manuela arbeitet in einem Café. Schon bevor es öffnet, fängt für sie die Arbeit an. Sie macht die Maschinen sauber und schaltet sie ein. Dann müssen die Kaffeetassen und Gläser aus dem Geschirrspüler geholt, abgetrocknet und eingeräumt werden. Bevor sie die Türen öffnet, organisiert Manuela alles, was sie braucht, und bereitet sich auf den Ansturm am Morgen vor. Die meisten Leute holen sich zu dieser Zeit nur einen Coffee-To-Go am Weg zur Arbeit. Sie nimmt die ersten Bestellungen auf und bereitet sie zu. Von Cappuccino über Espresso bis zum Latte macchiato wird alles bestellt. Ab und zu kann nur Wasser oder Orangensaft bestellt werden. Sie kann die unterschiedlichen Maschinen mittlerweile im Schlaf bedienen. Der erste Kaffee tropft in den To-Go-Becher, während Manuela die Milch schäumt. Dann nimmt sie das Geld des Kunden und bedankt sich für das Trinkgeld. Sie gießt den Milchschaum in den Becher, gibt den Deckel darauf und reicht es dem Kunden mit einem Lächeln. Nach dem ersten großen Ansturm sitzen einige Kunden im Café, um zu arbeiten oder zu frühstücken. Manuela nimmt ihre Bestellungen auf und bereitet die Getränke zu. Einen Eiskaffee und einen Cappuccino. In den Eiskaffee gibt sie zwei Kugeln Vanilleeis. Für den Cappuccino verwendet sie diesmal Sojamilch und macht damit ein Herz auf den Kaffee. Das hat sie sich selbst beigebracht. Ein paar einfache Motive schafft sie locker. Sie serviert die Kaffees und den Käsekuchen, den die Kunden bestellt haben. Wenn es weniger los ist, macht sie sich gerne selbst einen Milchkaffee mit Mandelmilch, Schlagsahne und Kakaopulver darauf.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.055
+  "src": "cc"
  },
  "YXjMShx950c": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:57:42+00:00",
+  "checked": "2026-11-27T02:48:16+00:00",
   "title": "#819 Martin als Clown - Berufe mit Geschichten zum Lesen & Hören | Deutsch lernen durch Hören",
   "duration": 142,
   "published": "20240927",
@@ -91376,6 +93485,7 @@
   "pace": 117.3,
   "rare": 0.0158,
   "var": 0.8727,
+  "cl": null,
   "speech_s": 129.4,
   "tokens": 253,
   "kw": [
@@ -91436,16 +93546,138 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "seinen",
+    "Clown. So kann er sein Hobby und seinen Beruf verbinden. Seine Arbeit ist sehr",
+    33,
+    42,
+    5.72,
+    2
+   ],
+   [
+    "show",
+    "Nach einer Show ist er meistens sehr erschöpft, aber auch glücklich und zufrieden. Er weiß,",
+    95,
+    104,
+    4.81,
+    2
+   ],
+   [
+    "zufrieden",
+    "Nach einer Show ist er meistens sehr erschöpft, aber auch glücklich und zufrieden. Er weiß,",
+    95,
+    104,
+    4.78,
+    1
+   ],
+   [
+    "tritt",
+    "abwechslungsreich. Manchmal tritt er als Clown bei Geburtstagsfeiern auf. Die Kinder lachen",
+    41,
+    49,
+    4.75,
+    1
+   ],
+   [
+    "beruf",
+    "Clown. So kann er sein Hobby und seinen Beruf verbinden. Seine Arbeit ist sehr",
+    33,
+    42,
+    4.66,
+    1
+   ],
+   [
+    "rote",
+    "an und setzt seine rote Nase auf. Martin trägt immer einen gelben Hut und viel zu große Schuhe.",
+    86,
+    96,
+    4.65,
+    1
+   ],
+   [
+    "vorbereiten",
+    "vorbereiten. Er wählt seine Kostüme aus, probt seine Witze und sammelt kleine Geschenke für",
+    72,
+    80,
+    4.13,
+    1
+   ],
+   [
+    "gelben",
+    "an und setzt seine rote Nase auf. Martin trägt immer einen gelben Hut und viel zu große Schuhe.",
+    86,
+    96,
+    4.12,
+    1
+   ],
+   [
+    "bunt",
+    "das Publikum. Dann muss er sich noch schminken. Er malt sein Gesicht bunt",
+    79,
+    87,
+    4.06,
+    1
+   ],
+   [
+    "sorgfältig",
+    "Doch der Job als Clown ist nicht so einfach. Vor einem Auftritt muss sich Martin sorgfältig",
+    63,
+    73,
+    4.04,
+    1
+   ],
+   [
+    "künstlern",
+    "Dann reist er mit den anderen Künstlern durch ganz Deutschland und arbeitet in verschiedenen Städten.",
+    56,
+    64,
+    3.98,
+    1
+   ],
+   [
+    "abwechslungsreich",
+    "abwechslungsreich. Manchmal tritt er als Clown bei Geburtstagsfeiern auf. Die Kinder lachen",
+    41,
+    49,
+    3.27,
+    1
+   ],
+   [
+    "schminken",
+    "das Publikum. Dann muss er sich noch schminken. Er malt sein Gesicht bunt",
+    79,
+    87,
+    3.26,
+    1
+   ],
+   [
+    "probt",
+    "vorbereiten. Er wählt seine Kostüme aus, probt seine Witze und sammelt kleine Geschenke für",
+    72,
+    80,
+    2.77,
+    1
+   ],
+   [
+    "geburtstagsfeiern",
+    "abwechslungsreich. Manchmal tritt er als Clown bei Geburtstagsfeiern auf. Die Kinder lachen",
+    41,
+    49,
+    2.33,
+    1
+   ]
+  ],
+  "voc": 0.05472636815920398,
   "tx": "Martin als Clown Martin hat ein besonderes Talent: Er kann andere Menschen sehr leicht zum Lachen bringen. Schon als Kind hat er immer gerne Witze erzählt. Martin wollte seine Fähigkeiten nutzen. Deswegen hat er sich einen Job gesucht, der perfekt zu ihm passt. Er arbeitet jetzt als Clown. So kann er sein Hobby und seinen Beruf verbinden. Seine Arbeit ist sehr abwechslungsreich. Manchmal tritt er als Clown bei Geburtstagsfeiern auf. Die Kinder lachen jedes Mal und sind begeistert. Manchmal arbeitet er auch bei einem großen Zirkus. Dann reist er mit den anderen Künstlern durch ganz Deutschland und arbeitet in verschiedenen Städten. Doch der Job als Clown ist nicht so einfach. Vor einem Auftritt muss sich Martin sorgfältig vorbereiten. Er wählt seine Kostüme aus, probt seine Witze und sammelt kleine Geschenke für das Publikum. Dann muss er sich noch schminken. Er malt sein Gesicht bunt an und setzt seine rote Nase auf. Martin trägt immer einen gelben Hut und viel zu große Schuhe. Nach einer Show ist er meistens sehr erschöpft, aber auch glücklich und zufrieden. Er weiß, dass er mit seinem Job anderen Leuten eine Freude macht. Oft kommt jemand nach der Show zu ihm und bedankt sich für den lustigen Abend. In seiner Freizeit denkt sich Martin neue Witze aus. Er arbeitet ständig daran, dass seine Vorstellungen noch besser und lustiger werden. Aber es gibt auch Tage, an denen er keine Lust auf seinen Job hat. Manchmal ist Martin schlecht gelaunt. Dann fällt es ihm schwer, auf der Bühne Witze zu machen.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.054455445544554455
+  "src": "cc"
  },
  "iycq7b0nXOI": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:58:25+00:00",
+  "checked": "2026-11-27T02:48:19+00:00",
   "title": "#804 Nadine als Wahrsagerin - [Deutsch lernen durch Hören] @DldH Deutsch lernen mit Geschichten",
   "duration": 150,
   "published": "20240908",
@@ -91454,6 +93686,7 @@
   "pace": 122.9,
   "rare": 0.0534,
   "var": 0.8121,
+  "cl": null,
   "speech_s": 128.0,
   "tokens": 262,
   "kw": [
@@ -91506,16 +93739,202 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "bekommt",
+    "Der Mann bekommt Gänsehaut. Er nimmt den Rat an. Ein Jahr später bekommt Nadine",
+    120,
+    128,
+    5.1,
+    2
+   ],
+   [
+    "dort",
+    "Spaziergang. Dort wartet deine Traumfrau auf dich. Sei mutig und sprich sie an.“",
+    113,
+    121,
+    5.78,
+    1
+   ],
+   [
+    "starke",
+    "Nadine hat eine sehr starke Intuition. Manchmal ahnt sie, was im nächsten Moment passieren wird.",
+    11,
+    20,
+    4.79,
+    1
+   ],
+   [
+    "passieren",
+    "Nadine hat eine sehr starke Intuition. Manchmal ahnt sie, was im nächsten Moment passieren wird.",
+    11,
+    20,
+    4.78,
+    1
+   ],
+   [
+    "trinken",
+    "ob du ein Bier in der Kneipe trinken oder im Park spazieren gehen sollst. Mach den",
+    107,
+    114,
+    4.76,
+    1
+   ],
+   [
+    "karten",
+    "geistigen Welt. Sie hat auch Tarotkarten. Sie findet die Antwort in den Karten. Sie",
+    94,
+    102,
+    4.74,
+    1
+   ],
+   [
+    "rat",
+    "Der Mann bekommt Gänsehaut. Er nimmt den Rat an. Ein Jahr später bekommt Nadine",
+    120,
+    128,
+    4.74,
+    1
+   ],
+   [
+    "park",
+    "ob du ein Bier in der Kneipe trinken oder im Park spazieren gehen sollst. Mach den",
+    107,
+    114,
+    4.72,
+    1
+   ],
+   [
+    "sollst",
+    "ob du ein Bier in der Kneipe trinken oder im Park spazieren gehen sollst. Mach den",
+    107,
+    114,
+    4.19,
+    1
+   ],
+   [
+    "kennengelernt",
+    "ist. Das hat Nadine auch immer geglaubt. Eines Tages hat sie Menschen kennengelernt,",
+    47,
+    54,
+    4.18,
+    1
+   ],
+   [
+    "supermarkt",
+    "Erst gestern stand sie im Supermarkt an der Kasse. Ihr Bauchgefühl hat ihr gesagt, dass",
+    19,
+    27,
+    4.17,
+    1
+   ],
+   [
+    "ausprobieren",
+    "Kinder. Normalerweise glaubt er nicht an Spiritualität, aber er möchte es ausprobieren.",
+    78,
+    87,
+    4.16,
+    1
+   ],
+   [
+    "schwanger",
+    "schwanger und die beiden wollen heiraten. Nadine ist glücklich.",
+    132,
+    137,
+    4.15,
+    1
+   ],
+   [
+    "festhalten",
+    "und sie ist fast auf den Boden gefallen. Nadine konnte die Frau rechtzeitig festhalten.",
+    33,
+    41,
+    4.14,
+    1
+   ],
+   [
+    "gänsehaut",
+    "Der Mann bekommt Gänsehaut. Er nimmt den Rat an. Ein Jahr später bekommt Nadine",
+    120,
+    128,
+    3.55,
+    1
+   ],
+   [
+    "ahnt",
+    "Nadine hat eine sehr starke Intuition. Manchmal ahnt sie, was im nächsten Moment passieren wird.",
+    11,
+    20,
+    3.47,
+    1
+   ],
+   [
+    "intuition",
+    "Nadine hat eine sehr starke Intuition. Manchmal ahnt sie, was im nächsten Moment passieren wird.",
+    11,
+    20,
+    3.42,
+    1
+   ],
+   [
+    "spiritualität",
+    "Kinder. Normalerweise glaubt er nicht an Spiritualität, aber er möchte es ausprobieren.",
+    78,
+    87,
+    3.42,
+    1
+   ],
+   [
+    "umfallen",
+    "die Frau vor ihr umfallen wird. Plötzlich wurde die Frau tatsächlich schwach. Ihr war schwindlig",
+    26,
+    34,
+    3.34,
+    1
+   ],
+   [
+    "überlegst",
+    "sagt zu dem Mann: „Nächste Woche wirst du eine Entscheidung treffen. Du überlegst,",
+    101,
+    108,
+    2.93,
+    1
+   ],
+   [
+    "schwindlig",
+    "die Frau vor ihr umfallen wird. Plötzlich wurde die Frau tatsächlich schwach. Ihr war schwindlig",
+    26,
+    34,
+    2.87,
+    1
+   ],
+   [
+    "vorahnungen",
+    "die so sind wie sie. Sie hatten auch Vorahnungen und konnten die Zukunft vorherbestimmen.",
+    53,
+    62,
+    2.35,
+    1
+   ],
+   [
+    "tarotkarten",
+    "geistigen Welt. Sie hat auch Tarotkarten. Sie findet die Antwort in den Karten. Sie",
+    94,
+    102,
+    2.19,
+    1
+   ]
+  ],
+  "voc": 0.034482758620689655,
   "tx": "Nadine als Wahrsagerin Nadine hat eine sehr starke Intuition. Manchmal ahnt sie, was im nächsten Moment passieren wird. Erst gestern stand sie im Supermarkt an der Kasse. Ihr Bauchgefühl hat ihr gesagt, dass die Frau vor ihr umfallen wird. Plötzlich wurde die Frau tatsächlich schwach. Ihr war schwindlig und sie ist fast auf den Boden gefallen. Nadine konnte die Frau rechtzeitig festhalten. Lange hat Nadine diese Gabe ignoriert. Ihre Eltern haben immer gesagt, dass sie verrückt ist. Das hat Nadine auch immer geglaubt. Eines Tages hat sie Menschen kennengelernt, die so sind wie sie. Sie hatten auch Vorahnungen und konnten die Zukunft vorherbestimmen. Heute ist Nadine Wahrsagerin. Die Menschen kommen mit unterschiedlichen Anliegen zu ihr. Ein Mann im mittleren Alter kommt zu Nadine. Er möchte wissen, ob er in seinem Leben eine Frau finden wird. Er wünscht sich eine Familie und Kinder. Normalerweise glaubt er nicht an Spiritualität, aber er möchte es ausprobieren. Nadine und er atmen tief ein. Sie schließt die Augen und spricht mit ihren Schutzengeln und der geistigen Welt. Sie hat auch Tarotkarten. Sie findet die Antwort in den Karten. Sie sagt zu dem Mann: „Nächste Woche wirst du eine Entscheidung treffen. Du überlegst, ob du ein Bier in der Kneipe trinken oder im Park spazieren gehen sollst. Mach den Spaziergang. Dort wartet deine Traumfrau auf dich. Sei mutig und sprich sie an.“ Der Mann bekommt Gänsehaut. Er nimmt den Rat an. Ein Jahr später bekommt Nadine einen Brief. Der Mann schreibt, dass er die Frau angesprochen hat. Sie ist schwanger und die beiden wollen heiraten. Nadine ist glücklich.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.03431372549019608
+  "src": "cc"
  },
  "IRF5ClSUrX8": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:59:07+00:00",
+  "checked": "2026-11-27T02:48:50+00:00",
   "title": "#597 Hänsel und Gretel - Deutsch lernen durch Hören - in Leichter Sprache -  Niveau: A1-A2 #Märchen",
   "duration": 804,
   "published": "20230502",
@@ -91524,6 +93943,7 @@
   "pace": 136.2,
   "rare": 0.0717,
   "var": 0.8014,
+  "cl": null,
   "speech_s": 669.5,
   "tokens": 1520,
   "kw": [
@@ -91664,11 +94084,109 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "essen",
+    "Gretel. Die Frau ist ihre Stiefmutter. Die Familie ist so arm, dass sie oft nur wenig zu essen hat.",
+    36,
+    46,
+    5.33,
+    11
+   ],
+   [
+    "vater",
+    "Fast jeden Abend geht die Familie hungrig zu Bett. Deshalb macht sich der Vater große Sorgen.",
+    45,
+    54,
+    5.21,
+    10
+   ],
+   [
+    "vogel",
+    "sehen einen schönen weißen Vogel auf einem Ast. Der Vogel singt so schön.",
+    386,
+    392,
+    4.45,
+    4
+   ],
+   [
+    "steine",
+    "Er geht nach draußen und sammelt heimlich so viele kleine weiße Steine vom Hof.",
+    125,
+    132,
+    4.32,
+    4
+   ],
+   [
+    "stückchen",
+    "“Morgen früh bringen wir Hänsel und Gretel in den Wald und geben jedem noch ein Stückchen Brot. Dann",
+    66,
+    75,
+    3.71,
+    3
+   ],
+   [
+    "fressen",
+    "im Wald lassen. Dort gibt’s viele wilde Tiere. Sie werden die Kinder fressen.”",
+    85,
+    91,
+    4.13,
+    2
+   ],
+   [
+    "tröstet",
+    "Sie fürchten sich sehr, aber Hänsel tröstet Gretel: “Mach dir keine Sorgen,",
+    112,
+    119,
+    3.23,
+    2
+   ],
+   [
+    "wiederzusehen",
+    "ärgert sie sich sehr. Sie freut sich nicht, die Kinder wiederzusehen.",
+    236,
+    242,
+    3.14,
+    2
+   ],
+   [
+    "edelsteinen",
+    "viele Kisten und Kästen mit Gold, Perlen und Edelsteinen. Sie füllen sich die Taschen voll.",
+    688,
+    696,
+    2.92,
+    1
+   ],
+   [
+    "glitzern",
+    "Perlen und Gold. Sie glitzern wie Sterne.",
+    741,
+    745,
+    2.83,
+    1
+   ],
+   [
+    "schwesterchen",
+    "Er geht zurück zum Bett. Er tröstet sein Schwesterchen und sagt: „Weine nicht,",
+    286,
+    293,
+    2.66,
+    1
+   ],
+   [
+    "klettere",
+    "Am nächsten Morgen macht die Hexe ein Feuer im Ofen. “Gretel, klettere in den Ofen und siehe",
+    618,
+    627,
+    2.35,
+    1
+   ]
+  ],
+  "voc": 0.038135593220338986,
   "tx": "Hänsel und Gretel An einem großen Wald wohnen ein armer Holzhacker und seine Frau. Der Holzhacker hat zwei Kinder. Der Junge heißt Hänsel und das Mädchen Gretel. Die Frau ist ihre Stiefmutter. Die Familie ist so arm, dass sie oft nur wenig zu essen hat. Fast jeden Abend geht die Familie hungrig zu Bett. Deshalb macht sich der Vater große Sorgen. An einem Abend kann der Vater vor Sorge nicht einschlafen. Und er fragt seine Frau: “Was sollen wir machen?” Seine Frau hat eine Idee: “Morgen früh bringen wir Hänsel und Gretel in den Wald und geben jedem noch ein Stückchen Brot. Dann gehen wir weg … uns alle.” sagt die Frau leise. Der Vater ist zuerst sehr traurig. Aber am Ende stimmt er zu. Die zwei Kinder liegen im Bett, aber sie sind auch noch wach vom Hunger und hören alles. Sie fürchten sich sehr, aber Hänsel tröstet Gretel: “Mach dir keine Sorgen, Gretel. Ich weiß, wie wir uns helfen können. Jetzt schlaf nur ruhig.” Er geht nach draußen und sammelt heimlich so viele kleine weiße Steine vom Hof. Am nächsten Tag weckt die Stiefmutter die beiden Kinder. Sie sagt: “Steht auf … Kinder! Wir werden in den Wald gehen und Holz sammeln!” Als sie zusammen mit den Eltern in den Wald gehen, … Vater und die Stiefmutter gehen ohne Hänsel und Gretel nach Hause. Jetzt sind sie allein im Wald. Sie sitzen an dem Feuer und essen beide ein Stückchen Brot. Sie warten bis zum Abend, aber niemand kommt sie abholen. Als es zu dunkel wird, hat Gretel sehr viel Angst. Sie beginnt zu weinen. \"Gretel, lass uns warten, bis der Mond aufgeht. Dann können wir die kleinen weißen Steine sehen und den Weg finden.”, sagt Hänsel. Nun scheint der Mond hell. Hänsel nimmt seine Schwester an die Hand und sie suchen nach dem Weg nach Hause. Sie sehen die kleinen weißen Steine auf dem Weg. Sie laufen die … seine zwei Kinder sehr vermisst. Wenige Tage später hat die Familie wieder nichts zu essen. Die Stiefmutter sagt zu dem Vater: “Wir haben nur noch ein halbes Brot zu essen. Die Kinder müssen wir wieder in den Wald schicken. Aber dieses Mal noch tiefer in den Wald, dass sie nicht wieder nach Hause kommen können.“ Hänsel und Gretel hören das Gespräch - genau wie letztes Mal. Hänsel steht leise auf und will wieder kleine weißen Steine vom Hof holen. Aber die Tür kann er nicht öffnen, denn die Stiefmutter hat abends die Tür abgeschlossen. Er geht zurück zum Bett. Er tröstet sein Schwesterchen … kleine Stücke und lässt sie auf den Weg fallen. So hofft er, den Rückweg aus dem Wald zu finden. Sie sind nun tief im Wald. Sie waren noch nie zuvor hier. Dort schlafen Hänsel und Gretel an einem großen Feuer ein. Der Vater und die Stiefmutter gehen wieder Holz sammeln und wollen eigentlich abends die Kinder abholen. Aber niemand kommt zu den armen Kindern. Sie bleiben wieder allein im Wald zurück. Sie suchen nach den Brotstückchen, aber die Vögel haben schon alle gegessen. Deshalb können sie den Weg nach Hause nicht mehr finden und verlaufen sich immer mehr im tiefen Wald. Die armen Kinder … so schön. Sie halten an und hören ihm zu. Dann fliegt der Vogel über den Köpfen der Kinder und fliegt weiter. Hänsel und Gretel folgen dem Vogel wie verzaubert. Plötzlich kommen sie zu einem seltsamen kleinen Häuschen. Es ist kein normales Häuschen. Das ist aus Brot gebaut. Das Dach war mit süßen Kuchen gedeckt und die Fenster waren aus hellem Zucker. “Das Häuschen sieht lecker aus. Ich bin sehr hungrig. Lass uns ein Stück vom Häuschen essen.”, sagt Hänsel. “Gretel, du kannst ein Stück von dem süßen Fenster essen und ich will ein Stück von dem Dach nehmen.” Und so beginnen sie zu essen. … alte Frau mit einem Stock kommt aus dem Häuschen. Hänsel und Gretel erschrecken sich furchtbar. Aber die alte Frau ist zu nett zu ihnen und sagt: “Liebe Kinder! Kommt herein. Ich tue euch nichts.” Hänsel und Gretel gehen mit der alten Frau ins Häuschen. Sie bringt ihnen Äpfel, Milch und Pfannkuchen. Danach gibt sie ihnen ein schönes weiches Bett, da legen sie sich darauf. Sie sind sehr glücklich. Sie denken, sie sind im Himmel. Aber in Wahrheit ist die alte Frau eine böse Hexe, obwohl sie zu den Kindern so freundlich gesprochen hat. Sie will die Kinder essen! Das Haus hat sie extra … Denn die Hexe will ihn erst fressen. Jeden Morgen kommt die Hexe zu Hänsel und fragt: “Bist du schon fett? Zeig mir deine Finger.” Hänsel muss seinen Finger zeigen und die Hexe fühlt, ob er fett geworden ist. Aber er ist schlau. Er steckt einen dünnen Knochen oder ein Holzstückchen durch das Gitter. Die Hexe merkt es nicht, weil sie nicht gut sehen kann. Und sie denkt: Hänsel ist immer noch zu dünn. Nach vier Wochen wollte die Hexe nicht mehr länger warten. Sie wundert sich, dass Hänsel gar nicht fett wird. Schließlich sagt sie: “Fett oder mager, morgen will ich Hänsel im Backofen braten.” … Hexe sie in den Ofen schieben und darin braten will. Darum sagt sie: “Ich weiß nicht, wie ich das machen soll!” “Ach, dummes Mädchen! Geh da weg.”, ruft die Hexe. “Guck mal, ich werde es dir zeigen!” “Du musst nur so deinen Kopf in den Ofen stecken und gucken.” In diesem Moment stößt Gretel mit aller Kraft die Hexe in den Ofen hinein und macht schnell die Ofentür hinter ihr zu. Die Hexe schreit im Ofen. Aber Gretel läuft schnell zu Hänsel und öffnet die Tür zum Stall. Sie ruft: “Hänsel, Hänsel, wir sind frei! Die alte Hexe ist tot!” Hänsel und Gretel umarmen sich. Sie singen und tanzen … immer bekannter vor. Endlich finden sie den Weg aus dem Wald. Ein wenig später sehen Hänsel und Gretel das Haus vom Vater. Als sie dort ankommen, ist der Vater sehr froh, seine beiden Kinder wiederzusehen. Seit Wochen war er ohne seine Kinder sehr traurig. Die Stiefmutter ist nicht mehr da. Sie ist nämlich gestorben. Dann zeigen Hänsel und Gretel dem Vater die Edelsteine, Perlen und Gold. Sie glitzern wie Sterne. Nun sind sie reich und müssen nie wieder Hunger leiden. Und sie leben glücklich zusammen. Das war das Märchen von Hänsel und Gretel. Das Märchen wurde in Leichte Sprache übersetzt.",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.03178484107579462
+  "src": "cc"
  },
  "1mtpa7sUwxY": {
   "channel": "tagesschau",

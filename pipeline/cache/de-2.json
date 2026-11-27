@@ -89107,7 +89107,7 @@
  "F409vP_p8M0": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:03:44+00:00",
+  "checked": "2026-11-27T02:22:17+00:00",
   "title": "#910 Julia als Zahnärztin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 148,
   "published": "20251004",
@@ -89116,6 +89116,7 @@
   "pace": 118.0,
   "rare": 0.0637,
   "var": 0.8361,
+  "cl": null,
   "speech_s": 127.7,
   "tokens": 251,
   "kw": [
@@ -89200,11 +89201,165 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "manchmal",
+    "gründlich gereinigt. Manchmal hat der Patient Karies. Dann muss Julia eine Füllung machen.",
+    95,
+    104,
+    5.19,
+    2
+   ],
+   [
+    "tut",
+    "in drei Tagen immer noch weh tut, kommen Sie bitte wieder zu mir“, sagt die Ärztin.",
+    48,
+    56,
+    5.19,
+    2
+   ],
+   [
+    "praxis",
+    "einem Jahr hat sie ihre Praxis eröffnet und schon viele Patienten behandelt.\"",
+    76,
+    83,
+    4.76,
+    2
+   ],
+   [
+    "schaut",
+    "und stöhnt. „Machen Sie den Mund auf“, sagt Julia ruhig. Sie nimmt ihr Werkzeug und schaut mit einem",
+    18,
+    27,
+    4.67,
+    2
+   ],
+   [
+    "werkzeug",
+    "und stöhnt. „Machen Sie den Mund auf“, sagt Julia ruhig. Sie nimmt ihr Werkzeug und schaut mit einem",
+    18,
+    27,
+    4.07,
+    1
+   ],
+   [
+    "tötet",
+    "Stelle. Dann gibt sie dem Patienten eine Creme, die die Bakterien tötet. „Wenn es",
+    41,
+    49,
+    4.06,
+    1
+   ],
+   [
+    "bakterien",
+    "Stelle. Dann gibt sie dem Patienten eine Creme, die die Bakterien tötet. „Wenn es",
+    41,
+    49,
+    4.01,
+    1
+   ],
+   [
+    "gründlich",
+    "gründlich gereinigt. Manchmal hat der Patient Karies. Dann muss Julia eine Füllung machen.",
+    95,
+    104,
+    4.01,
+    1
+   ],
+   [
+    "spezialisiert",
+    "Zahnmedizin spezialisiert. Nach langer Zeit ist sie nun endlich selbst Zahnärztin. Vor",
+    67,
+    77,
+    3.92,
+    1
+   ],
+   [
+    "ärztin",
+    "in drei Tagen immer noch weh tut, kommen Sie bitte wieder zu mir“, sagt die Ärztin.",
+    48,
+    56,
+    3.88,
+    1
+   ],
+   [
+    "spritze",
+    "meistens weh. Deshalb gibt sie den Patienten vorher eine Spritze. Diese betäubt den Mund.",
+    116,
+    125,
+    3.58,
+    1
+   ],
+   [
+    "füllung",
+    "gründlich gereinigt. Manchmal hat der Patient Karies. Dann muss Julia eine Füllung machen.",
+    95,
+    104,
+    3.54,
+    1
+   ],
+   [
+    "assistentin",
+    "Zähne sind. Oft führt ihre Assistentin eine Prophylaxe durch. Dabei werden die Zähne",
+    88,
+    96,
+    3.52,
+    1
+   ],
+   [
+    "entzündet",
+    "kleinen Spiegel in den Mund des Patienten. Er hat schöne Zähne, aber das Zahnfleisch ist entzündet.",
+    26,
+    36,
+    3.51,
+    1
+   ],
+   [
+    "betäubt",
+    "meistens weh. Deshalb gibt sie den Patienten vorher eine Spritze. Diese betäubt den Mund.",
+    116,
+    125,
+    3.26,
+    1
+   ],
+   [
+    "bohrt",
+    "Dazu bohrt sie ein Loch an der Stelle, wo die Karies ist. Dann füllt sie es. Manchmal",
+    103,
+    111,
+    2.99,
+    1
+   ],
+   [
+    "desinfiziert",
+    "Die Lösung ist schnell und einfach. Julia reinigt und desinfiziert die entzündete",
+    35,
+    42,
+    2.88,
+    1
+   ],
+   [
+    "julias",
+    "„Ich habe so große Schmerzen“, sagt Julias Patient. Er liegt auf dem Behandlungsstuhl",
+    12,
+    19,
+    2.78,
+    1
+   ],
+   [
+    "zahnwurzel",
+    "reicht das nicht aus. Dann muss sie die Zahnwurzel behandeln. Leider tut das",
+    110,
+    117,
+    2.2,
+    1
+   ]
+  ],
+  "voc": 0.06217616580310881,
   "tx": "Julia als Zahnärztin „Ich habe so große Schmerzen“, sagt Julias Patient. Er liegt auf dem Behandlungsstuhl und stöhnt. „Machen Sie den Mund auf“, sagt Julia ruhig. Sie nimmt ihr Werkzeug und schaut mit einem kleinen Spiegel in den Mund des Patienten. Er hat schöne Zähne, aber das Zahnfleisch ist entzündet. Die Lösung ist schnell und einfach. Julia reinigt und desinfiziert die entzündete Stelle. Dann gibt sie dem Patienten eine Creme, die die Bakterien tötet. „Wenn es in drei Tagen immer noch weh tut, kommen Sie bitte wieder zu mir“, sagt die Ärztin. Der Patient ist sehr dankbar. In solchen Momenten denkt Julia: \"Die lange Ausbildung hat sich gelohnt. Jahrelang hat sie Medizin studiert. Dann hat sie sich auf Zahnmedizin spezialisiert. Nach langer Zeit ist sie nun endlich selbst Zahnärztin. Vor einem Jahr hat sie ihre Praxis eröffnet und schon viele Patienten behandelt.\" Alle sechs Monate kommen sie zur Kontrolle. Julia schaut sich genau an, wie gesund die Zähne sind. Oft führt ihre Assistentin eine Prophylaxe durch. Dabei werden die Zähne gründlich gereinigt. Manchmal hat der Patient Karies. Dann muss Julia eine Füllung machen. Dazu bohrt sie ein Loch an der Stelle, wo die Karies ist. Dann füllt sie es. Manchmal reicht das nicht aus. Dann muss sie die Zahnwurzel behandeln. Leider tut das meistens weh. Deshalb gibt sie den Patienten vorher eine Spritze. Diese betäubt den Mund. Julia gefällt an ihrer Arbeit besonders, dass sie Menschen helfen kann, die Schmerzen haben. Außerdem gefällt es ihr, dass sie ihre eigene Praxis hat.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.06217616580310881
+  "src": "cc"
  },
  "uqMStRpbkTA": {
   "channel": "Mascha und der Bär",
@@ -90280,7 +90435,7 @@
  "87ktrqfEfsc": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:32:11+00:00",
+  "checked": "2026-11-27T02:41:34+00:00",
   "title": "#756 Jennifer als Diätassistentin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 146,
   "published": "20240525",
@@ -90289,6 +90444,7 @@
   "pace": 103.4,
   "rare": 0.0837,
   "var": 0.8432,
+  "cl": null,
   "speech_s": 138.7,
   "tokens": 239,
   "kw": [
@@ -90397,16 +90553,154 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "patienten",
+    "Ernährungsplänen für Patienten mit unterschiedlichen medizinischen",
+    19,
+    28,
+    4.82,
+    2
+   ],
+   [
+    "dabei",
+    "Patienten wie Frau Schmidt dabei zu",
+    134,
+    140,
+    5.8,
+    1
+   ],
+   [
+    "fühlt",
+    "Hilfe. Sie fühlt sich besser und hat",
+    121,
+    128,
+    4.76,
+    1
+   ],
+   [
+    "bestimmte",
+    "verursacht wird und wie bestimmte Nahrungsmittel den Blutzuckerspiegel",
+    57,
+    66,
+    4.75,
+    1
+   ],
+   [
+    "ernähren",
+    "ernähren. Jennifer ist stolz darauf, Teil des",
+    127,
+    135,
+    3.94,
+    1
+   ],
+   [
+    "erstellung",
+    "Sie ist für die Erstellung von",
+    17,
+    23,
+    3.87,
+    1
+   ],
+   [
+    "mahlzeiten",
+    "Snacks und Mahlzeiten. Am Ende ihres Krankenhaushalts",
+    113,
+    122,
+    3.59,
+    1
+   ],
+   [
+    "frustriert",
+    "frustriert. Sie weiß nicht, wie sie ihre",
+    35,
+    41,
+    3.58,
+    1
+   ],
+   [
+    "kohlenhydrate",
+    "Jennifer. Man muss auf Kohlenhydrate, Eiweiß und Fett achten.",
+    69,
+    80,
+    3.44,
+    1
+   ],
+   [
+    "snacks",
+    "Snacks und Mahlzeiten. Am Ende ihres Krankenhaushalts",
+    113,
+    122,
+    3.44,
+    1
+   ],
+   [
+    "insulin",
+    "Diabetes durch einen Mangel an Insulin",
+    54,
+    60,
+    3.33,
+    1
+   ],
+   [
+    "nickt",
+    "Frau Schmidt nickt zustimmend und fragt:",
+    76,
+    83,
+    3.31,
+    1
+   ],
+   [
+    "zustimmend",
+    "Frau Schmidt nickt zustimmend und fragt:",
+    76,
+    83,
+    2.93,
+    1
+   ],
+   [
+    "krankengeschichte",
+    "Krankengeschichte und ihre derzeitige Ernährung zu sprechen. Sie erklärt, wie",
+    48,
+    58,
+    2.75,
+    1
+   ],
+   [
+    "mageres",
+    "z.B. Obst, Gemüse, mageres Fleisch, Fisch und Vollkornprodukte.",
+    88,
+    97,
+    2.56,
+    1
+   ],
+   [
+    "ernährungsplan",
+    "Ernährungsplan erstellen, der ihren Bedürfnissen und ihrem Geschmack",
+    96,
+    104,
+    2.44,
+    1
+   ],
+   [
+    "durchhören",
+    "Deutsch lernen durchhören. Jennifer als Diätassistentin.",
+    3,
+    16,
+    2.23,
+    1
+   ]
+  ],
+  "voc": 0.07017543859649122,
   "tx": "Deutsch lernen durchhören. Jennifer als Diätassistentin. Jennifer ist eine Diätassistentin in einem Krankenhaus. Sie ist für die Erstellung von Ernährungsplänen für Patienten mit unterschiedlichen medizinischen Bedürfnissen zuständig. Eines Tages trifft Jennifer auf eine Patientin namens Frau Schmidt, die an Diabetes leidet. Frau Schmidt ist frustriert. Sie weiß nicht, wie sie ihre Ernährung ändern soll, um ihren Blutzuckerspiegel zu kontrollieren. Jennifer setzt sich neben Frau Schmidt und beginnt mit ihr über ihre Krankengeschichte und ihre derzeitige Ernährung zu sprechen. Sie erklärt, wie Diabetes durch einen Mangel an Insulin verursacht wird und wie bestimmte Nahrungsmittel den Blutzuckerspiegel erhöhen können. Deshalb ist es wichtig, auf eine ausgewogene Ernährung zu achten, sagt Jennifer. Man muss auf Kohlenhydrate, Eiweiß und Fett achten. Frau Schmidt nickt zustimmend und fragt: \"Aber was darf ich sonst noch essen?\" Jennifer lächelt und sagt: \"Es gibt viele Lebensmittel, die man essen kann, z.B. Obst, Gemüse, mageres Fleisch, Fisch und Vollkornprodukte. Wir werden gemeinsam einen Ernährungsplan erstellen, der ihren Bedürfnissen und ihrem Geschmack entspricht. In den nächsten Wochen arbeitet Jennifer eng mit Frau Schmidt zusammen und hilft ihr ihre Ernährung umzustellen. Sie gibt ihr auch Tipps für gesunde Snacks und Mahlzeiten. Am Ende ihres Krankenhaushalts ist Frau Schmidt dankbar für Jennifers Hilfe. Sie fühlt sich besser und hat gelernt, sich gesund und ausgewogen zu ernähren. Jennifer ist stolz darauf, Teil des medizinischen Teams zu sein und Patienten wie Frau Schmidt dabei zu helfen, ihre Gesundheit durch gesunde Ernährung zu verbessern.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.07017543859649122
+  "src": "auto"
  },
  "d4fzbVXgrKc": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T22:05:19+00:00",
+  "checked": "2026-11-27T02:42:33+00:00",
   "title": "#820 Lena als Barkeeperin - Berufe mit Geschichten zum Lesen & Hören - [Deutsch lernen durch Hören]",
   "duration": 167,
   "published": "20240929",
@@ -90415,6 +90709,7 @@
   "pace": 114.9,
   "rare": 0.0976,
   "var": 0.8379,
+  "cl": null,
   "speech_s": 149.9,
   "tokens": 287,
   "kw": [
@@ -90531,11 +90826,141 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "neue",
+    "das erste Mal nach hinten ins Lager, um neue Zutaten und Getränke zu holen.",
+    133,
+    140,
+    5.77,
+    1
+   ],
+   [
+    "sollte",
+    "etwa 30 Sekunden sollte alles gut miteinander vermischt sein. Zum Schluss gießt sie das",
+    76,
+    85,
+    5.76,
+    1
+   ],
+   [
+    "andere",
+    "Snacks. Es gibt Chips, Nüsse, Nachos und andere Snacks. Doch Lena schenkt nicht nur Alkohol aus,",
+    115,
+    125,
+    5.75,
+    1
+   ],
+   [
+    "hinten",
+    "das erste Mal nach hinten ins Lager, um neue Zutaten und Getränke zu holen.",
+    133,
+    140,
+    4.79,
+    1
+   ],
+   [
+    "miteinander",
+    "etwa 30 Sekunden sollte alles gut miteinander vermischt sein. Zum Schluss gießt sie das",
+    76,
+    85,
+    4.78,
+    1
+   ],
+   [
+    "sekunden",
+    "etwa 30 Sekunden sollte alles gut miteinander vermischt sein. Zum Schluss gießt sie das",
+    76,
+    85,
+    4.78,
+    1
+   ],
+   [
+    "gäste",
+    "ordnet die Gläser und Flaschen hinter der Theke, während die ersten Gäste kommen.",
+    35,
+    41,
+    4.73,
+    1
+   ],
+   [
+    "tische",
+    "Es ist 17:00 Uhr und Lenas Arbeitstag beginnt. Für die nächste Stunde macht sie die Tische und die",
+    10,
+    20,
+    3.86,
+    2
+   ],
+   [
+    "arbeitstag",
+    "Es ist 17:00 Uhr und Lenas Arbeitstag beginnt. Für die nächste Stunde macht sie die Tische und die",
+    10,
+    20,
+    3.68,
+    2
+   ],
+   [
+    "verziert",
+    "Getränk in ein Cocktailglas und verziert es mit einer Scheibe Ananas und Ananasblättern.",
+    84,
+    92,
+    3.56,
+    1
+   ],
+   [
+    "ordnet",
+    "ordnet die Gläser und Flaschen hinter der Theke, während die ersten Gäste kommen.",
+    35,
+    41,
+    3.55,
+    1
+   ],
+   [
+    "shaker",
+    "Ananassaft, Kokossirup, Sahne und Eiswürfel in den Shaker füllen und kräftig schütteln. Nach",
+    68,
+    77,
+    2.81,
+    1
+   ],
+   [
+    "nachos",
+    "Snacks. Es gibt Chips, Nüsse, Nachos und andere Snacks. Doch Lena schenkt nicht nur Alkohol aus,",
+    115,
+    125,
+    2.73,
+    1
+   ],
+   [
+    "cosmopolitan",
+    "In der Bar werden neben den klassischen Cocktails wie Cosmopolitan und Mojito auch eigene Kreationen",
+    92,
+    101,
+    2.65,
+    1
+   ],
+   [
+    "stressiger",
+    "desto stressiger wird es. Da die Musik so laut ist,",
+    50,
+    56,
+    2.54,
+    1
+   ],
+   [
+    "mojito",
+    "In der Bar werden neben den klassischen Cocktails wie Cosmopolitan und Mojito auch eigene Kreationen",
+    92,
+    101,
+    2.51,
+    1
+   ]
+  ],
+  "voc": 0.09313725490196079,
   "tx": "Lena als Barkeeperin Es ist 17:00 Uhr und Lenas Arbeitstag beginnt. Für die nächste Stunde macht sie die Tische und die Theke sauber. Dann bereitet sie die Früchte für die Cocktails zu. Sie schneidet Ananas, Orangen, Äpfel und vieles mehr in Scheiben. Um 18:00 Uhr schließt Lena die Bar auf und ordnet die Gläser und Flaschen hinter der Theke, während die ersten Gäste kommen. Vor 20:00 Uhr ist die Bar ziemlich leer und Lena hat nicht viel zu tun. Doch je später es wird, desto stressiger wird es. Da die Musik so laut ist, hat sie manchmal Probleme, die Leute zu verstehen. Nun mixt Lena den ersten Cocktail des Abends, eine Pi­ña co­la­da. Dafür muss sie Rum, Ananassaft, Kokossirup, Sahne und Eiswürfel in den Shaker füllen und kräftig schütteln. Nach etwa 30 Sekunden sollte alles gut miteinander vermischt sein. Zum Schluss gießt sie das Getränk in ein Cocktailglas und verziert es mit einer Scheibe Ananas und Ananasblättern. In der Bar werden neben den klassischen Cocktails wie Cosmopolitan und Mojito auch eigene Kreationen serviert. Auch Lena durfte drei Cocktails selbst kreieren, die nun auf der Karte stehen. Den restlichen Abend schenkt Lena Bier aus, mixt Cocktails und serviert kleine Snacks. Es gibt Chips, Nüsse, Nachos und andere Snacks. Doch Lena schenkt nicht nur Alkohol aus, auch Cola, Säfte oder Wasser werden in Mengen getrunken. Um etwa 22:00 Uhr muss sie meistens das erste Mal nach hinten ins Lager, um neue Zutaten und Getränke zu holen. Wenn die Bar um 03:00 Uhr schließt, ist der Arbeitstag für Lena noch nicht vorbei. Sie muss noch die letzten Gläser und Utensilien in den Geschirrspüler einräumen, die Theke putzen und die Tische und Sessel auf ihren richtigen Platz stellen, bevor sie endlich nach Hause in ihr Bett kann.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.09313725490196079
+  "src": "cc"
  },
  "T0MYu5SfKek": {
   "channel": "Peppa Pig Deutsch - Offizieller Kanal",
@@ -91070,7 +91495,7 @@
  "08e6HEuNFBs": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:42:43+00:00",
+  "checked": "2026-11-27T02:42:36+00:00",
   "title": "#824 Amelie als Tierpflegerin - Berufe mit Geschichten zum Lesen & Hören | #DldH",
   "duration": 172,
   "published": "20241010",
@@ -91079,6 +91504,7 @@
   "pace": 117.6,
   "rare": 0.1156,
   "var": 0.8306,
+  "cl": null,
   "speech_s": 149.9,
   "tokens": 294,
   "kw": [
@@ -91219,16 +91645,122 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kleine",
+    "Er untersucht ihn und merkt, dass der Pinguin eine kleine Verletzung unter seinem Flügel hat.",
+    134,
+    143,
+    5.42,
+    2
+   ],
+   [
+    "handelt",
+    "spielt mit ihnen. Doch sollte man immer vorsichtig sein, denn es handelt sich trotzdem um wilde",
+    33,
+    43,
+    5.07,
+    2
+   ],
+   [
+    "aufgaben",
+    "Eine ihrer täglichen Aufgaben ist das Füttern der verschiedenen Tiere. Heute muss sie die Löwen,",
+    59,
+    67,
+    4.79,
+    1
+   ],
+   [
+    "wirkt",
+    "Heute kommt ein Tierarzt, um sich einen Pinguin anzusehen, der die letzten Tage sehr müde wirkt.",
+    127,
+    135,
+    4.79,
+    1
+   ],
+   [
+    "verantwortlich",
+    "die Fütterung und die Gesundheit der Tiere verantwortlich.",
+    122,
+    127,
+    4.78,
+    1
+   ],
+   [
+    "schnellen",
+    "Amelie auf, dass sie keine schnellen und unerwarteten Bewegungen macht,",
+    100,
+    106,
+    4.19,
+    1
+   ],
+   [
+    "anzusehen",
+    "Heute kommt ein Tierarzt, um sich einen Pinguin anzusehen, der die letzten Tage sehr müde wirkt.",
+    127,
+    135,
+    4.15,
+    1
+   ],
+   [
+    "eisbären",
+    "Medikamente geben müssen. Bevor er wieder geht, besucht er jedoch die Eisbären noch,",
+    148,
+    156,
+    3.59,
+    1
+   ],
+   [
+    "erschrecken",
+    "um die Tiere nicht zu erschrecken. Die Elefanten und Giraffen sind hier im Zoo",
+    105,
+    113,
+    3.57,
+    1
+   ],
+   [
+    "kängurus",
+    "Lieblingstiere sind die roten Pandas und Kängurus. Sie besucht sie jeden Tag und streichelt sie oder",
+    25,
+    34,
+    2.85,
+    1
+   ],
+   [
+    "achtsam",
+    "ist sie immer achtsam. Die Löwen werden bei der Fütterung in das innere Gehege gesperrt,",
+    73,
+    81,
+    2.83,
+    1
+   ],
+   [
+    "pandas",
+    "Lieblingstiere sind die roten Pandas und Kängurus. Sie besucht sie jeden Tag und streichelt sie oder",
+    25,
+    34,
+    2.8,
+    1
+   ],
+   [
+    "pflegern",
+    "Der Tierarzt erklärt den Pflegern, was sie zu tun haben und wie oft sie ihm",
+    143,
+    149,
+    2.65,
+    1
+   ]
+  ],
+  "voc": 0.048672566371681415,
   "tx": "Amelie als Tierpflegerin Amelie arbeitet seit vielen Jahren im Tiergarten. Sie wollte schon immer lieber mit Tieren arbeiten als mit Menschen. Jeder Tag ist aufregend. Ihre Lieblingstiere sind die roten Pandas und Kängurus. Sie besucht sie jeden Tag und streichelt sie oder spielt mit ihnen. Doch sollte man immer vorsichtig sein, denn es handelt sich trotzdem um wilde Tiere. Amelie hat schon jahrelange Erfahrung mit den Tieren im Zoo und kann ihre Körpersprache gut verstehen. Sie weiß, wann sie sich zurückziehen und die Tiere in Ruhe lassen sollte. Eine ihrer täglichen Aufgaben ist das Füttern der verschiedenen Tiere. Heute muss sie die Löwen, Elefanten und Giraffen füttern. Da es sich hier um gefährlichere Tiere handelt, ist sie immer achtsam. Die Löwen werden bei der Fütterung in das innere Gehege gesperrt, während Amelie das Fleisch im Außengehege verteilt. Sie versucht immer, einen Teil der Nahrung zu verstecken, um die Tiere zu beschäftigen. Die Elefanten und Giraffen dürfen bei der Fütterung draußen bleiben. Dennoch passt Amelie auf, dass sie keine schnellen und unerwarteten Bewegungen macht, um die Tiere nicht zu erschrecken. Die Elefanten und Giraffen sind hier im Zoo nicht aggressiv, können jedoch durch ihr Gewicht Verletzungen verursachen. Als Tierpflegerin ist Amelie für die Reinigung der Gehege, die Fütterung und die Gesundheit der Tiere verantwortlich. Heute kommt ein Tierarzt, um sich einen Pinguin anzusehen, der die letzten Tage sehr müde wirkt. Er untersucht ihn und merkt, dass der Pinguin eine kleine Verletzung unter seinem Flügel hat. Der Tierarzt erklärt den Pflegern, was sie zu tun haben und wie oft sie ihm Medikamente geben müssen. Bevor er wieder geht, besucht er jedoch die Eisbären noch, da eine Eisbärin in wenigen Tagen Nachwuchs bekommt. Amelie ist schon ganz aufgeregt. Sich um kleine Tierbabys zu kümmern, ist ihre Lieblingsaufgabe.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.048672566371681415
+  "src": "cc"
  },
  "QC64EsQk6pA": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:54:58+00:00",
+  "checked": "2026-11-27T02:46:13+00:00",
   "title": "#810 Vanessa als Flugbegleiterin - Berufe mit Geschichten zum Lesen & Hören | #DldH",
   "duration": 159,
   "published": "20240914",
@@ -91237,6 +91769,7 @@
   "pace": 114.3,
   "rare": 0.1004,
   "var": 0.8327,
+  "cl": null,
   "speech_s": 141.2,
   "tokens": 269,
   "kw": [
@@ -91313,16 +91846,186 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "dort",
+    "an. Sie braucht nur 15 Minuten von ihrer Wohnung zum Flughafen. Dort angekommen,",
+    51,
+    59,
+    5.78,
+    1
+   ],
+   [
+    "müssen",
+    "werden. Alle Leute müssen auf ihren Plätzen und angeschnallt sein,",
+    110,
+    117,
+    5.78,
+    1
+   ],
+   [
+    "trinken",
+    "trinken für alle Passagiere und Kollegen an Bord ist. Dann muss noch mal die Sauberkeit überprüft",
+    71,
+    80,
+    4.76,
+    1
+   ],
+   [
+    "flughafen",
+    "an. Sie braucht nur 15 Minuten von ihrer Wohnung zum Flughafen. Dort angekommen,",
+    51,
+    59,
+    4.75,
+    1
+   ],
+   [
+    "fragt",
+    "Dann ist es schon Zeit, das Essen und die Getränke zu servieren. Sie fragt die Passagiere,",
+    125,
+    133,
+    4.69,
+    1
+   ],
+   [
+    "rom",
+    "Diese Woche ist Vanessa auf einem Kurzflug von München nach Rom,",
+    11,
+    17,
+    4.69,
+    1
+   ],
+   [
+    "kalte",
+    "Dessert. Auf Kurzstreckenflügen werden kalte und heiße Getränke mit kleinen Keksen serviert.",
+    140,
+    149,
+    4.13,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "plätzen",
+    "werden. Alle Leute müssen auf ihren Plätzen und angeschnallt sein,",
+    110,
+    117,
+    4.03,
+    1
+   ],
+   [
+    "servieren",
+    "Dann ist es schon Zeit, das Essen und die Getränke zu servieren. Sie fragt die Passagiere,",
+    125,
+    133,
+    3.58,
+    1
+   ],
+   [
+    "abflug",
+    "Sie begrüßt die Passagiere und hilft ihnen, ihren Sitzplatz zu finden. Vor dem Abflug überprüft sie,",
+    85,
+    94,
+    3.5,
+    1
+   ],
+   [
+    "dessert",
+    "Dessert. Auf Kurzstreckenflügen werden kalte und heiße Getränke mit kleinen Keksen serviert.",
+    140,
+    149,
+    3.49,
+    1
+   ],
+   [
+    "snack",
+    "was sie wollen. Auf Langstreckenflügen gibt’s meistens eine Vorspeise, einen Snack und ein",
+    132,
+    141,
+    3.39,
+    1
+   ],
+   [
+    "sitzplatz",
+    "Sie begrüßt die Passagiere und hilft ihnen, ihren Sitzplatz zu finden. Vor dem Abflug überprüft sie,",
+    85,
+    94,
+    3.38,
+    1
+   ],
+   [
+    "passagieren",
+    "lange vor den Passagieren an Bord. Vanessa muss überprüfen, ob es genug zu essen und",
+    64,
+    72,
+    3.35,
+    1
+   ],
+   [
+    "keksen",
+    "Dessert. Auf Kurzstreckenflügen werden kalte und heiße Getränke mit kleinen Keksen serviert.",
+    140,
+    149,
+    2.96,
+    1
+   ],
+   [
+    "angeschnallt",
+    "werden. Alle Leute müssen auf ihren Plätzen und angeschnallt sein,",
+    110,
+    117,
+    2.93,
+    1
+   ],
+   [
+    "jetlag",
+    "sie drei Tage frei, um sich vom Jetlag und der Anstrengung ausruhen zu können.",
+    37,
+    45,
+    2.85,
+    1
+   ],
+   [
+    "arbeitstagen",
+    "länger als ein bis zwei Tage in dieser Stadt verbringt. Nach diesen vier Arbeitstagen hat",
+    31,
+    38,
+    2.75,
+    1
+   ],
+   [
+    "flugbegleiterin",
+    "Vanessa als Flugbegleiterin Diese Woche ist Vanessa auf einem Kurzflug von München nach Rom,",
+    7,
+    17,
+    2.46,
+    1
+   ],
+   [
+    "schminkt",
+    "Zu Hause schminkt sie sich, kämmt ihre Haare zu einem strengen Dutt und zieht sich ihre Uniform",
+    44,
+    52,
+    2.45,
+    1
+   ]
+  ],
+  "voc": 0.05970149253731343,
   "tx": "Vanessa als Flugbegleiterin Diese Woche ist Vanessa auf einem Kurzflug von München nach Rom, einem Flug nach London und einem Langstreckenflug nach New York. Und wieder zurück. Aufgrund ihres Jobs hat sie die Möglichkeit, viel von der Welt zu sehen. Auch wenn sie manchmal nicht länger als ein bis zwei Tage in dieser Stadt verbringt. Nach diesen vier Arbeitstagen hat sie drei Tage frei, um sich vom Jetlag und der Anstrengung ausruhen zu können. Zu Hause schminkt sie sich, kämmt ihre Haare zu einem strengen Dutt und zieht sich ihre Uniform an. Sie braucht nur 15 Minuten von ihrer Wohnung zum Flughafen. Dort angekommen, macht sie sich auf den Weg zum Flugzeug. Sie und ihr Team sind für den Tag schon lange vor den Passagieren an Bord. Vanessa muss überprüfen, ob es genug zu essen und trinken für alle Passagiere und Kollegen an Bord ist. Dann muss noch mal die Sauberkeit überprüft werden. Des Weiteren stellt sie sicher, dass die Innenausstattung funktioniert. Sie begrüßt die Passagiere und hilft ihnen, ihren Sitzplatz zu finden. Vor dem Abflug überprüft sie, ob das Handgepäck gut verstaut ist. Dann werden die Sicherheitsmaßnahmen erklärt, wie Rettungsweste, Notausgänge und Atemmasken. Während des Fluges geht Vanessa mehrmals sicher, dass die Vorschriften eingehalten werden. Alle Leute müssen auf ihren Plätzen und angeschnallt sein, wenn das Licht leuchtet. Sonst kann es bei Turbulenzen zu Unfällen und Verletzungen kommen. Dann ist es schon Zeit, das Essen und die Getränke zu servieren. Sie fragt die Passagiere, was sie wollen. Auf Langstreckenflügen gibt’s meistens eine Vorspeise, einen Snack und ein Dessert. Auf Kurzstreckenflügen werden kalte und heiße Getränke mit kleinen Keksen serviert.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.05970149253731343
+  "src": "cc"
  },
  "obi23Uta4MY": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:55:47+00:00",
+  "checked": "2026-11-27T02:46:16+00:00",
   "title": "#775 Helena als Sängerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 179,
   "published": "20240707",
@@ -91331,6 +92034,7 @@
   "pace": 106.4,
   "rare": 0.053,
   "var": 0.8519,
+  "cl": null,
   "speech_s": 159.6,
   "tokens": 283,
   "kw": [
@@ -91423,16 +92127,170 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "dort",
+    "Nach dem Unterricht geht sie in das Studio. Dort wartet ihr Produzent auf sie. „Hast du",
+    34,
+    43,
+    5.78,
+    1
+   ],
+   [
+    "sondern",
+    "den sie selbst geschrieben hat. Sie ist nicht nur Sängerin, sondern auch Liedtexterin.",
+    58,
+    68,
+    5.77,
+    1
+   ],
+   [
+    "hast",
+    "Nach dem Unterricht geht sie in das Studio. Dort wartet ihr Produzent auf sie. „Hast du",
+    34,
+    43,
+    5.75,
+    1
+   ],
+   [
+    "klavier",
+    "eine wunderschöne Melodie erfunden. Er spielt die Melodie auf dem Klavier und Helena singt den Text,",
+    50,
+    59,
+    4.2,
+    2
+   ],
+   [
+    "aufgaben",
+    "ist anstrengend. Sie hat viele Aufgaben und muss viele Rollen spielen. Doch die",
+    161,
+    169,
+    4.79,
+    1
+   ],
+   [
+    "noten",
+    "paar Noten und die Lehrerin lobt sie. Jede Woche trainiert Helena so ihren Gesang.",
+    26,
+    35,
+    4.18,
+    1
+   ],
+   [
+    "veröffentlichen",
+    "Produzent wird die Töne noch bearbeiten und dann als Single im Internet veröffentlichen. Helenas",
+    77,
+    85,
+    4.17,
+    1
+   ],
+   [
+    "scheinwerfer",
+    "auf der Bühne der Bar. Die Scheinwerfer scheinen auf sie. Über hundert Menschen warten gespannt.",
+    118,
+    128,
+    3.59,
+    1
+   ],
+   [
+    "cyrus",
+    "berühmt wie Harry Styles oder Miley Cyrus zu sein. Heute ist ein sehr stressiger Tag für Helena. Am",
+    93,
+    104,
+    3.56,
+    1
+   ],
+   [
+    "strophe",
+    "erste Strophe des Textes. Das Publikum liebt sie. Dieser Moment macht Helena glücklich. Ihr Alltag",
+    150,
+    162,
+    3.55,
+    1
+   ],
+   [
+    "albums",
+    "Nach ein paar Stunden ist das Lied fertig. Es ist das erste Musikstück des neuen Albums. Der",
+    67,
+    78,
+    3.47,
+    1
+   ],
+   [
+    "miley",
+    "berühmt wie Harry Styles oder Miley Cyrus zu sein. Heute ist ein sehr stressiger Tag für Helena. Am",
+    93,
+    104,
+    3.31,
+    1
+   ],
+   [
+    "styles",
+    "berühmt wie Harry Styles oder Miley Cyrus zu sein. Heute ist ein sehr stressiger Tag für Helena. Am",
+    93,
+    104,
+    3.11,
+    1
+   ],
+   [
+    "aufgewärmt",
+    "deine Stimme aufgewärmt?“, fragt er. Helena stellt sich vor das Mikrofon. Der Produzent hat",
+    42,
+    51,
+    2.9,
+    1
+   ],
+   [
+    "glitzernden",
+    "sich schnell um. Ihr Manager hat ein Kostüm vorbereitet. Im glitzernden Anzug steht sie",
+    110,
+    119,
+    2.89,
+    1
+   ],
+   [
+    "promoten",
+    "Aufgabe ist es, das Lied auf ihren sozialen Medien zu promoten. Ihr Ziel ist es, eines Tages so",
+    84,
+    94,
+    2.89,
+    1
+   ],
+   [
+    "musikstück",
+    "Nach ein paar Stunden ist das Lied fertig. Es ist das erste Musikstück des neuen Albums. Der",
+    67,
+    78,
+    2.86,
+    1
+   ],
+   [
+    "lampenfieber",
+    "Helena hat Lampenfieber. Sie ist nervös, weil so viele Leute hier sind. „Ich bin mutig“,",
+    127,
+    137,
+    2.83,
+    1
+   ],
+   [
+    "gesangsunterricht",
+    "Helena kommt zu spät. Ihr Gesangsunterricht hat vor zehn Minuten begonnen. „Heute lernst du,",
+    11,
+    20,
+    2.6,
+    1
+   ]
+  ],
+  "voc": 0.05472636815920398,
   "tx": "Helena als Sängerin Helena kommt zu spät. Ihr Gesangsunterricht hat vor zehn Minuten begonnen. „Heute lernst du, wie du deinen Atem kontrollierst“, sagt die Gesangslehrerin. Helena singt ein paar Noten und die Lehrerin lobt sie. Jede Woche trainiert Helena so ihren Gesang. Nach dem Unterricht geht sie in das Studio. Dort wartet ihr Produzent auf sie. „Hast du deine Stimme aufgewärmt?“, fragt er. Helena stellt sich vor das Mikrofon. Der Produzent hat eine wunderschöne Melodie erfunden. Er spielt die Melodie auf dem Klavier und Helena singt den Text, den sie selbst geschrieben hat. Sie ist nicht nur Sängerin, sondern auch Liedtexterin. Nach ein paar Stunden ist das Lied fertig. Es ist das erste Musikstück des neuen Albums. Der Produzent wird die Töne noch bearbeiten und dann als Single im Internet veröffentlichen. Helenas Aufgabe ist es, das Lied auf ihren sozialen Medien zu promoten. Ihr Ziel ist es, eines Tages so berühmt wie Harry Styles oder Miley Cyrus zu sein. Heute ist ein sehr stressiger Tag für Helena. Am Abend hat ihr Manager einen Auftritt in einer Bar gebucht. Sie geht nach Hause und zieht sich schnell um. Ihr Manager hat ein Kostüm vorbereitet. Im glitzernden Anzug steht sie auf der Bühne der Bar. Die Scheinwerfer scheinen auf sie. Über hundert Menschen warten gespannt. Helena hat Lampenfieber. Sie ist nervös, weil so viele Leute hier sind. „Ich bin mutig“, denkt sie und gibt der Band ein Handzeichen. Man hört das Klavier, die Gitarre und das Schlagzeug. Der Rhythmus der Melodie entspannt Helena und sie singt die erste Strophe des Textes. Das Publikum liebt sie. Dieser Moment macht Helena glücklich. Ihr Alltag ist anstrengend. Sie hat viele Aufgaben und muss viele Rollen spielen. Doch die",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.054455445544554455
+  "src": "cc"
  },
  "MbZ2O6B_z8g": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:56:44+00:00",
+  "checked": "2026-11-27T02:47:04+00:00",
   "title": "#774 Maria als Bloggerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 178,
   "published": "20240706",
@@ -91441,6 +92299,7 @@
   "pace": 109.5,
   "rare": 0.0464,
   "var": 0.8298,
+  "cl": null,
   "speech_s": 153.4,
   "tokens": 280,
   "kw": [
@@ -91541,16 +92400,122 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "schreiben",
+    "Außerdem ist Schreiben ihre Stärke. Sie will ihre Gedanken mit der Welt teilen. Sie erstellt",
+    93,
+    103,
+    5.25,
+    2
+   ],
+   [
+    "verschiedene",
+    "Danach kommen verschiedene Unternehmen zu ihr. Sie wollen, dass Maria ihre Produkte auf ihrem",
+    77,
+    85,
+    5.05,
+    2
+   ],
+   [
+    "erstellt",
+    "Während des Studiums hat sie eine eigene Website erstellt. Sie hat über ihre Erlebnisse als",
+    41,
+    49,
+    4.51,
+    2
+   ],
+   [
+    "hotels",
+    "schreibt über ihre Erfahrungen in Hotels. Die Hotels schenken ihr eine Nacht in einem Zimmer",
+    123,
+    131,
+    4.35,
+    2
+   ],
+   [
+    "angestellt",
+    "Marias Freund Bob arbeitet auch als Blogger. Er ist aber bei einem Unternehmen angestellt",
+    137,
+    146,
+    4.16,
+    1
+   ],
+   [
+    "positives",
+    "und bezahlen sie dafür, etwas Positives über das Hotel auf ihrem Blog zu veröffentlichen.",
+    130,
+    136,
+    4.04,
+    1
+   ],
+   [
+    "kreativ",
+    "und Fantasiewesen erfunden. Sie ist sehr kreativ. Als Kind wollte sie Autorin werden und für ein",
+    17,
+    26,
+    4.03,
+    1
+   ],
+   [
+    "journalismus",
+    "Magazin arbeiten. Darum hat sie Journalismus und Literatur studiert. Da hat sie mehr über alte",
+    25,
+    34,
+    4.02,
+    1
+   ],
+   [
+    "selbstständig",
+    "die Blogbeiträge für mehrere Firmen gleichzeitig schreiben und selbstständig sind. Sie haben",
+    151,
+    158,
+    4.0,
+    1
+   ],
+   [
+    "kontaktiert",
+    "immer mehr Menschen ihre Beiträge gelesen. Eines Tages kontaktiert ein großer Verlag",
+    55,
+    63,
+    3.52,
+    1
+   ],
+   [
+    "bewirbt",
+    "Blog bewirbt. Das gibt Maria Freiheit. Sie kann selbst entscheiden, wann und wo sie arbeitet.",
+    84,
+    94,
+    3.43,
+    1
+   ],
+   [
+    "abwechslungsreich",
+    "Das Leben als Bloggerin ist sehr abwechslungsreich. Es gibt viele",
+    110,
+    117,
+    3.27,
+    1
+   ],
+   [
+    "blogbeiträge",
+    "die Blogbeiträge für mehrere Firmen gleichzeitig schreiben und selbstständig sind. Sie haben",
+    151,
+    158,
+    2.42,
+    1
+   ]
+  ],
+  "voc": 0.020100502512562814,
   "tx": "Maria als Bloggerin Maria liebt es, Geschichten zu erzählen. Schon als kleines Mädchen hat sie Märchen und Fantasiewesen erfunden. Sie ist sehr kreativ. Als Kind wollte sie Autorin werden und für ein Magazin arbeiten. Darum hat sie Journalismus und Literatur studiert. Da hat sie mehr über alte Bücher und Autoren, Journalisten, neue Methoden, Schreibstile und die deutsche Sprache gelernt. Während des Studiums hat sie eine eigene Website erstellt. Sie hat über ihre Erlebnisse als Studentin, über ihre Reisen geschrieben und kurze Geschichten erfunden. Jeden Tag haben immer mehr Menschen ihre Beiträge gelesen. Eines Tages kontaktiert ein großer Verlag die junge Frau. Das Unternehmen möchte ihre Kurzgeschichten als Buch veröffentlichen. Das freut Maria sehr. Zum ersten Mal verdient sie durch ihren Blog Geld. Danach kommen verschiedene Unternehmen zu ihr. Sie wollen, dass Maria ihre Produkte auf ihrem Blog bewirbt. Das gibt Maria Freiheit. Sie kann selbst entscheiden, wann und wo sie arbeitet. Außerdem ist Schreiben ihre Stärke. Sie will ihre Gedanken mit der Welt teilen. Sie erstellt eine Website nur für das Reisen, eine Website nur für Kurzgeschichten und einen persönlichen Blog. Das Leben als Bloggerin ist sehr abwechslungsreich. Es gibt viele verschiedene Wege, wie man Bloggerin wird. Marias Freundin ist auch Bloggerin. Sie schreibt über ihre Erfahrungen in Hotels. Die Hotels schenken ihr eine Nacht in einem Zimmer und bezahlen sie dafür, etwas Positives über das Hotel auf ihrem Blog zu veröffentlichen. Marias Freund Bob arbeitet auch als Blogger. Er ist aber bei einem Unternehmen angestellt und schreibt Beiträge für die Website des Unternehmens. Es gibt auch Menschen, die Blogbeiträge für mehrere Firmen gleichzeitig schreiben und selbstständig sind. Sie haben ihr eigenes Unternehmen und verwalten die Website von anderen Unternehmen.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.0297029702970297
+  "src": "cc"
  },
  "kr28qGIjJqA": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:56:48+00:00",
+  "checked": "2026-11-27T02:47:41+00:00",
   "title": "#781 John als Auktionator - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 129,
   "published": "20240713",
@@ -91559,6 +92524,7 @@
   "pace": 126.9,
   "rare": 0.0533,
   "var": 0.8061,
+  "cl": null,
   "speech_s": 106.4,
   "tokens": 225,
   "kw": [
@@ -91635,16 +92601,162 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "preis",
+    "um den Preis für ein Objekt zu erhöhen. Sein Tag beginnt früh am Morgen,",
+    17,
+    23,
+    5.16,
+    2
+   ],
+   [
+    "kunden",
+    "In der Mittagspause unterhält sich John mit anderen Auktionatoren und Kunden. Sie",
+    83,
+    90,
+    4.95,
+    2
+   ],
+   [
+    "fährt",
+    "wenn er zur Auktionshalle fährt. Dort bereitet er alles für die bevorstehende Versteigerung vor. Er",
+    22,
+    31,
+    4.78,
+    1
+   ],
+   [
+    "fühlt",
+    "fühlt sich dann wie ein Schiedsrichter in einem Boxkampf. Aber er bleibt",
+    72,
+    78,
+    4.76,
+    1
+   ],
+   [
+    "ruhig",
+    "ruhig und gelassen und macht sich immer Notizen, um einen Überblick über die Gebote zu haben.",
+    77,
+    84,
+    4.76,
+    1
+   ],
+   [
+    "steigt",
+    "bekommen. Mit jedem Stück steigt die Spannung und John führt die Bieter durch die gesamte Auktion.",
+    52,
+    61,
+    4.65,
+    1
+   ],
+   [
+    "trick",
+    "John ist seit über 20 Jahren Auktionator und kennt jeden Trick,",
+    11,
+    18,
+    4.14,
+    1
+   ],
+   [
+    "trends",
+    "diskutieren über den Markt, neue Trends und besondere Stücke, die demnächst versteigert",
+    89,
+    96,
+    4.09,
+    1
+   ],
+   [
+    "sorgfältig",
+    "achtet darauf, dass alle Stücke sorgfältig geprüft sind und die Beschreibungen stimmen.",
+    30,
+    37,
+    4.04,
+    1
+   ],
+   [
+    "schiedsrichter",
+    "fühlt sich dann wie ein Schiedsrichter in einem Boxkampf. Aber er bleibt",
+    72,
+    78,
+    3.95,
+    1
+   ],
+   [
+    "begeistern",
+    "erste Stück präsentiert. Er ist ein Meister darin, die Leute zu begeistern und ihre Aufmerksamkeit zu",
+    44,
+    53,
+    3.93,
+    1
+   ],
+   [
+    "podium",
+    "Dann beginnt die Auktion. John betritt das Podium und beginnt mit einer kurzen Rede, bevor er das",
+    36,
+    45,
+    3.57,
+    1
+   ],
+   [
+    "bevorstehende",
+    "wenn er zur Auktionshalle fährt. Dort bereitet er alles für die bevorstehende Versteigerung vor. Er",
+    22,
+    31,
+    3.44,
+    1
+   ],
+   [
+    "versteigert",
+    "diskutieren über den Markt, neue Trends und besondere Stücke, die demnächst versteigert",
+    89,
+    96,
+    3.44,
+    1
+   ],
+   [
+    "versteigerung",
+    "wenn er zur Auktionshalle fährt. Dort bereitet er alles für die bevorstehende Versteigerung vor. Er",
+    22,
+    31,
+    3.4,
+    1
+   ],
+   [
+    "auktionen",
+    "werden. John ist immer auf der Suche nach neuen und spannenden Objekten für seine Auktionen.",
+    95,
+    104,
+    3.1,
+    1
+   ],
+   [
+    "boxkampf",
+    "fühlt sich dann wie ein Schiedsrichter in einem Boxkampf. Aber er bleibt",
+    72,
+    78,
+    2.81,
+    1
+   ],
+   [
+    "verhandler",
+    "John ist ein guter Verhandler und weiß genau, wann er den Hammer fallen lassen muss,",
+    60,
+    66,
+    2.44,
+    1
+   ]
+  ],
+  "voc": 0.04678362573099415,
   "tx": "John als Auktionator John ist seit über 20 Jahren Auktionator und kennt jeden Trick, um den Preis für ein Objekt zu erhöhen. Sein Tag beginnt früh am Morgen, wenn er zur Auktionshalle fährt. Dort bereitet er alles für die bevorstehende Versteigerung vor. Er achtet darauf, dass alle Stücke sorgfältig geprüft sind und die Beschreibungen stimmen. Dann beginnt die Auktion. John betritt das Podium und beginnt mit einer kurzen Rede, bevor er das erste Stück präsentiert. Er ist ein Meister darin, die Leute zu begeistern und ihre Aufmerksamkeit zu bekommen. Mit jedem Stück steigt die Spannung und John führt die Bieter durch die gesamte Auktion. John ist ein guter Verhandler und weiß genau, wann er den Hammer fallen lassen muss, um den besten Preis zu bekommen. Manchmal streiten sich die Bieter um ein Stück. John fühlt sich dann wie ein Schiedsrichter in einem Boxkampf. Aber er bleibt ruhig und gelassen und macht sich immer Notizen, um einen Überblick über die Gebote zu haben. In der Mittagspause unterhält sich John mit anderen Auktionatoren und Kunden. Sie diskutieren über den Markt, neue Trends und besondere Stücke, die demnächst versteigert werden. John ist immer auf der Suche nach neuen und spannenden Objekten für seine Auktionen. Am Ende des Tages ist John oft erschöpft, aber zufrieden. Er hat sein Bestes gegeben und die Kunden sind zufrieden. Er ist stolz auf seine",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.04678362573099415
+  "src": "cc"
  },
  "2_ZMEpZgc_w": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:59:11+00:00",
+  "checked": "2026-11-27T02:49:17+00:00",
   "title": "#576 Rotkäppchen und der böse Wolf - Deutsch lernen durch Hören - Ein Märchen der Brüder Grimm A1-A2",
   "duration": 567,
   "published": "20230403",
@@ -91653,6 +92765,7 @@
   "pace": 119.5,
   "rare": 0.0633,
   "var": 0.7658,
+  "cl": null,
   "speech_s": 396.7,
   "tokens": 790,
   "kw": [
@@ -91769,11 +92882,133 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ins",
+    "In dieser Zeit läuft der Wolf ins Haus der Großmutter. Er klopft an die Tür.",
+    218,
+    225,
+    5.68,
+    5
+   ],
+   [
+    "liebe",
+    "und pass gut auf die Dinge im Korb auf. Rotkäppchen antwortet: “Liebe Mutter,",
+    73,
+    82,
+    5.48,
+    5
+   ],
+   [
+    "kuchen",
+    "An einem Morgen sagt die Mutter zu dem Kind: „Hier ist ein Korb. Darin liegen ein Stück Kuchen und",
+    48,
+    57,
+    4.48,
+    4
+   ],
+   [
+    "bauch",
+    "sondern nimmt eine große Schere und fängt an, den Bauch vom Wolf aufzuschneiden.",
+    430,
+    438,
+    4.37,
+    4
+   ],
+   [
+    "bringe",
+    "und schwach. Deshalb bringe ich ihr Kuchen und Wein; gestern hat meine Mutter gebacken.“",
+    138,
+    146,
+    4.09,
+    2
+   ],
+   [
+    "wiese",
+    "Dann sagt der Wolf zu Rotkäppchen: “Schau dich einmal um, Rotkäppchen. Auf der Wiese",
+    178,
+    187,
+    4.08,
+    2
+   ],
+   [
+    "passe",
+    "ich bleibe auf dem Weg und passe gut auf den Korb auf. Das verspreche ich dir.”",
+    81,
+    89,
+    3.59,
+    1
+   ],
+   [
+    "grüss",
+    "",
+    0,
+    0,
+    3.54,
+    1
+   ],
+   [
+    "viertelstunde",
+    "„Ich glaube, noch eine Viertelstunde weiter im Wald. Dort gibt es drei",
+    165,
+    171,
+    3.52,
+    1
+   ],
+   [
+    "klopft",
+    "In dieser Zeit läuft der Wolf ins Haus der Großmutter. Er klopft an die Tür.",
+    218,
+    225,
+    3.47,
+    1
+   ],
+   [
+    "möchtet",
+    "Wenn ihr mehr Märchen wie dieses möchtet, schreibt in die Kommentare, welche sie sind.",
+    512,
+    519,
+    3.44,
+    1
+   ],
+   [
+    "erschrickt",
+    "geht zum Bett von der Großmutter und erschrickt, denn die Großmutter sieht so anders aus.",
+    310,
+    317,
+    2.84,
+    1
+   ],
+   [
+    "wolfes",
+    "und Rotkäppchen den Bauch des Wolfes mit Steinen und nähen ihn wieder zu.",
+    462,
+    469,
+    2.79,
+    1
+   ],
+   [
+    "hineingehen",
+    "Ich muss doch hineingehen und sehen, ob es der alten Frau gut geht.“",
+    394,
+    399,
+    2.66,
+    1
+   ],
+   [
+    "aufzuschneiden",
+    "sondern nimmt eine große Schere und fängt an, den Bauch vom Wolf aufzuschneiden.",
+    430,
+    438,
+    2.03,
+    1
+   ]
+  ],
+  "voc": 0.085667215815486,
   "tx": "Rotkäppchen Es war einmal ein kleines, süßes Mädchen, sie hat eine Großmutter. Die Großmutter schenkt dem Mädchen ein rotes Käppchen. Ein Käppchen ist eine kleine Mütze. Das kleine Mädchen mag dieses Käppchen sehr und trägt es immer. Deshalb heißt das Mädchen: Rotkäppchen. An einem Morgen sagt die Mutter zu dem Kind: „Hier ist ein Korb. Darin liegen ein Stück Kuchen und eine Flasche Wein. Du musst den Korb zu deiner Großmutter bringen. Sie ist krank und schwach. Sie wird sich darauf freuen. Aber du musst aufpassen: Es ist im Wald gefährlich. Bleibe also auf dem Weg und pass gut auf die Dinge im Korb auf. Rotkäppchen antwortet: “Liebe Mutter, ich bleibe auf dem Weg und passe gut auf den Korb auf. Das verspreche ich dir.” Und die Mutter sagt noch: „Grüß die Großmutter lieb von mir.” Die Großmutter wohnt in einem Häuschen im Wald. Rotkäppchen geht los. Als Rotkäppchen in den Wald kommt, begegnet es dem Wolf. Der Wolf ist ein böses Tier. Aber das weiß Rotkäppchen nicht. Deshalb hat Rotkäppchen keine Angst vor dem Wolf. Der Wolf ist sehr hungrig. Er sieht Rotkäppchen und fragt: „Hallo Rotkäppchen. Wohin gehst du schon so früh?“ Rotkäppchen antwortet ihm: “Hallo Wolf. Ich gehe zu meiner Großmutter. Sie ist sehr krank und schwach. Deshalb bringe ich ihr Kuchen und Wein; gestern hat meine Mutter gebacken.“ Der Wolf denkt: „Die kranke alte Frau kann ich leicht fressen, und als Nachtisch fresse ich noch das kleine Rotkäppchen.“ Der Wolf fragt weiter: „Rotkäppchen, wo wohnt deine Großmutter?“ „Ich glaube, noch eine Viertelstunde weiter im Wald. Dort gibt es drei große Eichbäume. Unter diesen Bäumen steht ihr Haus“, sagte Rotkäppchen. Dann sagt der Wolf zu Rotkäppchen: “Schau dich einmal um, Rotkäppchen. Auf der Wiese hier im Wald wachsen schöne Blumen. Bring doch deiner Großmutter einen bunten Strauß mit.” Rotkäppchen schaut sich um und denkt: “Großmutter freut sich sicher über einen Blumenstrauß.” Deshalb verlässt Rotkäppchen den Weg. Und sie geht auf die Wiese zu den Blumen. In dieser Zeit läuft der Wolf ins Haus der Großmutter. Er klopft an die Tür. Die Großmutter fragt: „Wer ist da?\" Der Wolf antwortet: “Rotkäppchen. Ich bringe dir Kuchen und Wein, mach auf.” Die Großmutter ruft: „Komm herein. Ich kann nicht aufstehen.“ Der Wolf geht in das Haus und frisst die Großmutter ganz schnell. Dann zieht der Wolf die Kleider von der Großmutter an und trägt auch ihre Mütze. Jetzt legt der Wolf sich ins Bett und wartet auf Rotkäppchen. Kurze Zeit später kommt Rotkäppchen zum Haus der Großmutter. Die Tür ist offen. Rotkäppchen hat Angst. Es geht langsam ins Haus und ruft: “Liebe Großmutter. Guten Morgen.” Aber die Großmutter antwortet nicht. Rotkäppchen geht zum Bett von der Großmutter und erschrickt, denn die Großmutter sieht so anders aus. Rotkäppchen denkt: „Ist das meine Großmutter?” Rotkäppchen fragt: „Liebe Großmutter. Warum hast du so große Ohren?” „So kann ich dich besser hören.“ „Warum hast du so große Augen?“ „So kann ich dich besser sehen.“ „Liebe Großmutter. Warum hast du so große Hände?“ “So kann ich dich besser packen.” “Liebe Großmutter. Warum hast du so einen großen Mund?” “So kann ich dich besser fressen.” Jetzt springt der Wolf aus dem Bett und frisst auch das arme Rotkäppchen. Der Wolf ist satt und zufrieden. Er legt sich wieder ins Bett, schläft ein und schnarcht sehr laut. Zum Glück kommt ein Jäger am Haus vorbei und hört das Schnarchen. Er wundert sich und denkt: “Warum schnarcht die alte Frau so? Ich muss doch hineingehen und sehen, ob es der alten Frau gut geht.“ Der Jäger geht ins Haus und sieht, dass der Wolf im Bett liegt. Der Jäger freut sich, denn er hat den Wolf schon lange Zeit gesucht. Der Jäger denkt: “Der Wolf hat die Großmutter gefressen und vielleicht kann ich sie noch retten.\" Der Jäger tötet den Wolf nicht, sondern nimmt eine große Schere und fängt an, den Bauch vom Wolf aufzuschneiden. Rotkäppchen und die Großmutter kommen aus dem Bauch vom Wolf. Es geht beiden gut. Das kleine Rotkäppchen sagt: „Gott sei Dank! Da drin war es so dunkel!“ Rotkäppchen holt große, schwere Steine von draußen. Nun füllen der Jäger und Rotkäppchen den Bauch des Wolfes mit Steinen und nähen ihn wieder zu. Als der Wolf aufwacht, sieht er den Jäger und will aus dem Bett springen, aber die Steine im Bauch sind sehr schwer. Deshalb fällt er tot zu Boden. Der Jäger bekommt das Fell vom Wolf. Rotkäppchen und die Großmutter danken dem Jäger und alle drei sind glücklich. Die Großmutter isst den Kuchen und trinkt den Wein. Sie erholt sich wieder. Das war das Märchen von Rotkäppchen. Dieses Märchen wurde vor allem in einer einfachen Sprache für Deutschlerner umgeschrieben. Wenn ihr mehr Märchen wie dieses möchtet, schreibt in die Kommentare, welche sie sind.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.085667215815486
+  "src": "cc"
  },
  "OqK-u8Nh7RU": {
   "channel": "tagesschau",

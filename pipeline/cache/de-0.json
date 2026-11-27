@@ -95851,7 +95851,7 @@
  "FYW9U-3ScgY": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:06:52+00:00",
+  "checked": "2026-11-27T02:22:20+00:00",
   "title": "#708 Lukas als Polizist - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten @DldH",
   "duration": 175,
   "published": "20240315",
@@ -95860,6 +95860,7 @@
   "pace": 105.7,
   "rare": 0.0534,
   "var": 0.8233,
+  "cl": null,
   "speech_s": 148.7,
   "tokens": 262,
   "kw": [
@@ -95944,11 +95945,165 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "musste",
+    "sein, damit weder sie noch nahestehende Personen verletzt werden. Dafür musste Lukas auch eine",
+    146,
+    155,
+    5.38,
+    2
+   ],
+   [
+    "fahren",
+    "Notruf kommt, fahren sie dorthin und kümmern sich um die Lage. Meistens geht es um einen",
+    31,
+    39,
+    5.2,
+    2
+   ],
+   [
+    "gefahren",
+    "gefahren ist. Es gibt keinen Eintrag. Er darf seinen Führerschein behalten,",
+    109,
+    116,
+    4.76,
+    1
+   ],
+   [
+    "erhält",
+    "erhält jedoch eine Vormerkung. An manchen Tagen ist Lukas nur",
+    115,
+    123,
+    4.74,
+    1
+   ],
+   [
+    "erlaubt",
+    "Das Gerät zeigt mehr Promille an als erlaubt ist. Sie nehmen den Mann mit auf die Polizeistation,",
+    86,
+    96,
+    4.73,
+    1
+   ],
+   [
+    "polizisten",
+    "haben sie einen bewaffneten Täter. In solchen Situationen müssen Polizisten sehr vorsichtig",
+    139,
+    147,
+    4.7,
+    1
+   ],
+   [
+    "eintrag",
+    "gefahren ist. Es gibt keinen Eintrag. Er darf seinen Führerschein behalten,",
+    109,
+    116,
+    4.16,
+    1
+   ],
+   [
+    "gefährliche",
+    "Es gibt nur selten gefährliche Einsätze, da sie in einer kleinen Stadt arbeiten. Doch ab und zu",
+    130,
+    140,
+    4.12,
+    1
+   ],
+   [
+    "einsätze",
+    "Es gibt nur selten gefährliche Einsätze, da sie in einer kleinen Stadt arbeiten. Doch ab und zu",
+    130,
+    140,
+    4.11,
+    1
+   ],
+   [
+    "betrunken",
+    "nehmen sie seine Daten auf und kontrollieren, ob das das erste Mal ist, dass er betrunken Auto",
+    101,
+    110,
+    4.1,
+    1
+   ],
+   [
+    "koordiniert",
+    "an der Dienststelle und beantwortet Mails, nimmt Anzeigen auf oder koordiniert die Streifenwagen.",
+    122,
+    131,
+    3.56,
+    1
+   ],
+   [
+    "promille",
+    "Das Gerät zeigt mehr Promille an als erlaubt ist. Sie nehmen den Mann mit auf die Polizeistation,",
+    86,
+    96,
+    3.55,
+    1
+   ],
+   [
+    "dienststelle",
+    "an der Dienststelle und beantwortet Mails, nimmt Anzeigen auf oder koordiniert die Streifenwagen.",
+    122,
+    131,
+    3.5,
+    1
+   ],
+   [
+    "blaulicht",
+    "daher schalten sie das Blaulicht ein und folgen dem Auto. Nach einigen Minuten",
+    53,
+    61,
+    3.49,
+    1
+   ],
+   [
+    "nahestehende",
+    "sein, damit weder sie noch nahestehende Personen verletzt werden. Dafür musste Lukas auch eine",
+    146,
+    155,
+    2.92,
+    1
+   ],
+   [
+    "ladendiebstahl",
+    "Verkehrsunfall oder einen Ladendiebstahl. Während sie durch die Stadt fahren,",
+    38,
+    46,
+    2.88,
+    1
+   ],
+   [
+    "vormerkung",
+    "erhält jedoch eine Vormerkung. An manchen Tagen ist Lukas nur",
+    115,
+    123,
+    2.12,
+    1
+   ],
+   [
+    "frühdienst",
+    "Heute hat er Frühdienst. Mit einem Kollegen ist er heute in einem Streifenwagen unterwegs. Wenn ein",
+    23,
+    32,
+    2.0,
+    1
+   ],
+   [
+    "polizeiuniform",
+    "Lukas zieht seine Polizeiuniform an und fährt mit seinem Dienstwagen zur Polizeistation.",
+    15,
+    24,
+    2.0,
+    1
+   ]
+  ],
+  "voc": 0.043689320388349516,
   "tx": "Lukas als Polizist Lukas zieht seine Polizeiuniform an und fährt mit seinem Dienstwagen zur Polizeistation. Heute hat er Frühdienst. Mit einem Kollegen ist er heute in einem Streifenwagen unterwegs. Wenn ein Notruf kommt, fahren sie dorthin und kümmern sich um die Lage. Meistens geht es um einen Verkehrsunfall oder einen Ladendiebstahl. Während sie durch die Stadt fahren, beobachten sie einen Autofahrer, der ziemlich unkontrolliert fährt. Das finden sie verdächtig, daher schalten sie das Blaulicht ein und folgen dem Auto. Nach einigen Minuten fährt das Auto in einen Parkplatz und bleibt stehen. Lukas und sein Kollege parken hinter ihm und steigen aus dem Auto aus. Sie können den Alkohol schon aus dem offenen Fenster riechen. Sie verlangen den Führerschein und die Zulassung. Dann muss er noch in das Alkoholmessgerät blasen. Das Gerät zeigt mehr Promille an als erlaubt ist. Sie nehmen den Mann mit auf die Polizeistation, wo sie einen Bericht und eine Anzeige schreiben müssen. Dort angekommen, nehmen sie seine Daten auf und kontrollieren, ob das das erste Mal ist, dass er betrunken Auto gefahren ist. Es gibt keinen Eintrag. Er darf seinen Führerschein behalten, erhält jedoch eine Vormerkung. An manchen Tagen ist Lukas nur an der Dienststelle und beantwortet Mails, nimmt Anzeigen auf oder koordiniert die Streifenwagen. Es gibt nur selten gefährliche Einsätze, da sie in einer kleinen Stadt arbeiten. Doch ab und zu haben sie einen bewaffneten Täter. In solchen Situationen müssen Polizisten sehr vorsichtig sein, damit weder sie noch nahestehende Personen verletzt werden. Dafür musste Lukas auch eine mehrjährige Ausbildung abschließen, bevor er Polizist werden konnte. Er musste nach 10",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.043478260869565216
+  "src": "cc"
  },
  "rmmBg40PuDg": {
   "channel": "Mascha und der Bär",
@@ -96194,7 +96349,7 @@
  "ozrjbq2fuU0": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:08:17+00:00",
+  "checked": "2026-11-27T02:25:33+00:00",
   "title": "#761 Carla als Rezeptionistin - Berufe mit Geschichten zum Lesen & Hören | #DldH",
   "duration": 158,
   "published": "20240531",
@@ -96203,6 +96358,7 @@
   "pace": 114.7,
   "rare": 0.0646,
   "var": 0.8572,
+  "cl": null,
   "speech_s": 137.6,
   "tokens": 263,
   "kw": [
@@ -96279,16 +96435,154 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "ausserdem",
+    "",
+    0,
+    0,
+    5.38,
+    2
+   ],
+   [
+    "hotel",
+    "Jahren als Rezeptionistin in einem Hotel in der Innenstadt. Ihre Arbeit beginnt schon sehr früh",
+    14,
+    23,
+    4.91,
+    2
+   ],
+   [
+    "aufgaben",
+    "Aufenthalt haben. Aber Carla hat auch noch viele andere Aufgaben. Sie nimmt Anrufe entgegen,",
+    65,
+    74,
+    4.79,
+    1
+   ],
+   [
+    "fährt",
+    "am Morgen. Mit dem Fahrrad fährt sie von ihrer Wohnung zum Hotel. Zuerst kontrolliert sie,",
+    22,
+    31,
+    4.78,
+    1
+   ],
+   [
+    "zufrieden",
+    "dann sind auch die Gäste zufrieden. Sie ist stolz darauf, als Rezeptionistin zu arbeiten.",
+    142,
+    151,
+    4.78,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "antwortet",
+    "für die schnelle Hilfe“, sagt der Gast. „Kein Problem, ich helfe immer gerne“, antwortet Carla.",
+    114,
+    121,
+    4.08,
+    1
+   ],
+   [
+    "möbel",
+    "ob alle Lampen funktionieren und ob irgendwelche Möbel beschädigt sind.",
+    36,
+    43,
+    4.07,
+    1
+   ],
+   [
+    "lauten",
+    "Plötzlich hört Carla einen lauten Schrei. Ein Gast ist gestürzt und hat sich das Bein gebrochen.",
+    96,
+    105,
+    4.02,
+    1
+   ],
+   [
+    "rechnungen",
+    "kontrolliert sie, ob alle Gäste ihre Rechnungen bezahlt haben. Sie hat den ganzen Tag sehr viel",
+    80,
+    89,
+    4.0,
+    1
+   ],
+   [
+    "erschöpft",
+    "Am Ende des Tages ist Carla oft müde und geht erschöpft nach Hause. Sie weiß,",
+    130,
+    138,
+    3.92,
+    1
+   ],
+   [
+    "aufgeräumt",
+    "ob der Empfangsbereich sauber und aufgeräumt ist. Carla überprüft außerdem,",
+    30,
+    37,
+    3.54,
+    1
+   ],
+   [
+    "sanitäter",
+    "Carla ruft sofort einen Krankenwagen und versorgt den Mann, bis die Sanitäter da sind. „Vielen Dank",
+    104,
+    115,
+    3.53,
+    1
+   ],
+   [
+    "krankenwagen",
+    "Carla ruft sofort einen Krankenwagen und versorgt den Mann, bis die Sanitäter da sind. „Vielen Dank",
+    104,
+    115,
+    3.5,
+    1
+   ],
+   [
+    "weiterarbeiten",
+    "Dann muss sie weiterarbeiten. In wenigen Stunden hat sie Feierabend und es gibt noch viel zu tun.",
+    120,
+    130,
+    3.19,
+    1
+   ],
+   [
+    "hotelgäste",
+    "Dann kommen die ersten Hotelgäste. Carla begrüßt sie und sieht nach, ob die Gäste",
+    42,
+    51,
+    2.57,
+    1
+   ],
+   [
+    "empfangsbereich",
+    "ob der Empfangsbereich sauber und aufgeräumt ist. Carla überprüft außerdem,",
+    30,
+    37,
+    2.25,
+    1
+   ]
+  ],
+  "voc": 0.04040404040404041,
   "tx": "Carla als Rezeptionistin Carla arbeitet seit mehreren Jahren als Rezeptionistin in einem Hotel in der Innenstadt. Ihre Arbeit beginnt schon sehr früh am Morgen. Mit dem Fahrrad fährt sie von ihrer Wohnung zum Hotel. Zuerst kontrolliert sie, ob der Empfangsbereich sauber und aufgeräumt ist. Carla überprüft außerdem, ob alle Lampen funktionieren und ob irgendwelche Möbel beschädigt sind. Dann kommen die ersten Hotelgäste. Carla begrüßt sie und sieht nach, ob die Gäste ein Zimmer reserviert haben. Sie gibt ihnen die Schlüssel und wünscht ihnen einen schönen Tag. Als Rezeptionistin muss sie immer höflich und freundlich sein, damit die Gäste einen angenehmen Aufenthalt haben. Aber Carla hat auch noch viele andere Aufgaben. Sie nimmt Anrufe entgegen, beantwortet E-Mails und hilft bei der Planung von verschiedenen Veranstaltungen. Außerdem kontrolliert sie, ob alle Gäste ihre Rechnungen bezahlt haben. Sie hat den ganzen Tag sehr viel zu tun. Zum Glück hat sie nette Kolleginnen und Kollegen, die ihr bei der Arbeit helfen. Plötzlich hört Carla einen lauten Schrei. Ein Gast ist gestürzt und hat sich das Bein gebrochen. Carla ruft sofort einen Krankenwagen und versorgt den Mann, bis die Sanitäter da sind. „Vielen Dank für die schnelle Hilfe“, sagt der Gast. „Kein Problem, ich helfe immer gerne“, antwortet Carla. Dann muss sie weiterarbeiten. In wenigen Stunden hat sie Feierabend und es gibt noch viel zu tun. Am Ende des Tages ist Carla oft müde und geht erschöpft nach Hause. Sie weiß, dass ihre Arbeit sehr wichtig ist. Wenn Carla ihren Job gut macht, dann sind auch die Gäste zufrieden. Sie ist stolz darauf, als Rezeptionistin zu arbeiten.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.04020100502512563
+  "src": "cc"
  },
  "B4iEh1kqFQQ": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:09:43+00:00",
+  "checked": "2026-11-27T02:27:04+00:00",
   "title": "#724 Anna als Konditorin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 167,
   "published": "20240406",
@@ -96297,6 +96591,7 @@
   "pace": 109.7,
   "rare": 0.1254,
   "var": 0.7487,
+  "cl": null,
   "speech_s": 157.0,
   "tokens": 287,
   "kw": [
@@ -96445,16 +96740,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "daraus",
+    "Daraus wird Schaum, den sie in den Teig",
+    73,
+    80,
+    4.86,
+    2
+   ],
+   [
+    "kaffee",
+    "Sie arbeitet in einem Kaffee und heute",
+    37,
+    44,
+    4.84,
+    2
+   ],
+   [
+    "freut",
+    "Darüber freut sich Anna sehr. Sie liebt",
+    150,
+    157,
+    4.75,
+    1
+   ],
+   [
+    "legt",
+    "legt sie auf schöne Teller. Dann bringt die Konditorin die Teller",
+    134,
+    143,
+    4.73,
+    1
+   ],
+   [
+    "backen",
+    "für die Menschen macht und das Backen",
+    156,
+    164,
+    4.06,
+    1
+   ],
+   [
+    "süssen",
+    "",
+    0,
+    0,
+    4.03,
+    1
+   ],
+   [
+    "schaum",
+    "Daraus wird Schaum, den sie in den Teig",
+    73,
+    80,
+    3.55,
+    1
+   ],
+   [
+    "torten",
+    "Die Torten sehen sehr lecker aus, sagt",
+    145,
+    151,
+    3.34,
+    1
+   ],
+   [
+    "putzt",
+    "putzt die Küche. Als erstes sind die",
+    102,
+    109,
+    3.33,
+    1
+   ],
+   [
+    "schüsseln",
+    "Sie sucht die Schüsseln, die Backformen,",
+    22,
+    28,
+    2.98,
+    1
+   ],
+   [
+    "zitronensaft",
+    "Zitronensaft in einer Schüssel zusammen. Daraus entsteht eine leckere Creme, die",
+    116,
+    126,
+    2.98,
+    1
+   ]
+  ],
+  "voc": 0.06511627906976744,
   "tx": "Deutsch lernen durchhören. Anna als Konditorin. Anna beginnt ihre Arbeit um 5 Uhr morgens. Als erstes geht sie in die Backstube und bereitet alles vor. Sie sucht die Schüsseln, die Backformen, das Backpapier, den Standmixer, den Schneebesen und die Waage. Sie stellt alles auf die Arbeitsplattform und holt ein Rezeptbuch aus dem Regal. Sie arbeitet in einem Kaffee und heute ist Samstag. Das heißt, daß sie viele leckere Nachspeisen machen muß. Das ist ihre Aufgabe als Konditorin. Heute macht sie nicht nur Bananenschnitten, Sachatorten und Croissons, sie macht auch Cupcakes, Schwarzwelder Kirschtorte, Topfenrouaden und Obstkuchen. Dazu stellt sie das Mehl, den Zucker und das Backpulver auf die Waage. Sie schaut aufs Rezept und schlägt das Eiweiß. Daraus wird Schaum, den sie in den Teig gibt. Sie bereitet die verschiedenen Teige zu. Dann gibt sie die Teige in die Backformen. Danach stellt sie die Formen in die Öfen. In der Küche wird es sehr heiß, weil mehrere Öfen gleichzeitig arbeiten. Jetzt muss Anna warten. Sie verschwendet die Zeit aber nicht. Sie räumt auf und putzt die Küche. Als erstes sind die Cupcakes fertig. Sie stellt sie auf die Arbeitsplattform und wartet, bis sie kühl sind. Dann rührt Anna Puderzucker, Eiweiß und Zitronensaft in einer Schüssel zusammen. Daraus entsteht eine leckere Creme, die sie auf die Cupcakes gibt. Um 8 Uhr öffnet das Kaffee. Die süßen Nachspeisen sind fertig. Anna schneidet die Kuchen in Stücke und legt sie auf schöne Teller. Dann bringt die Konditorin die Teller mit den Nachspeisen nach vorne. Die ersten Kunden kommen in das Geschäft. Die Torten sehen sehr lecker aus, sagt eine Dame. Darüber freut sich Anna sehr. Sie liebt ihre Arbeit, weil sie leckere Speisen für die Menschen macht und das Backen ihre Leidenschaft ist.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.06511627906976744
+  "src": "auto"
  },
  "Jn6atIPus9g": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:10:54+00:00",
+  "checked": "2026-11-27T02:27:07+00:00",
   "title": "#732 Nicole als Gärtnerin - Berufe mit Geschichten zum Lesen & Hören | Deutsch lernen durch Hören",
   "duration": 139,
   "published": "20240420",
@@ -96463,6 +96848,7 @@
   "pace": 120.5,
   "rare": 0.1038,
   "var": 0.8405,
+  "cl": null,
   "speech_s": 129.5,
   "tokens": 260,
   "kw": [
@@ -96547,16 +96933,178 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "neue",
+    "Am nächsten Tag möchte ihr Kunde mit ihr reden. Er wünscht sich neue Blumen in seinem Garten.",
+    108,
+    116,
+    5.77,
+    1
+   ],
+   [
+    "erst",
+    "Kirschbaum. Nach der harten Arbeit hat Nicole sich erst mal eine Pause verdient. Als Gärtner",
+    58,
+    67,
+    5.76,
+    1
+   ],
+   [
+    "fehlen",
+    "und Erdbeeren hin. Auch Kräuter wie Basilikum und Oregano dürfen nicht fehlen. Zum Schluss",
+    45,
+    54,
+    4.78,
+    1
+   ],
+   [
+    "legt",
+    "Heute legt Nicole ein neues Gemüsebeet im Garten eines Kunden an. Zuerst geht sie in den Wagen,",
+    12,
+    20,
+    4.73,
+    1
+   ],
+   [
+    "vieles",
+    "Rasenmäher, Sägen und vieles mehr. Nachdem sie alle ihre Werkzeuge geholt hat,",
+    25,
+    33,
+    4.65,
+    1
+   ],
+   [
+    "rasen",
+    "Sie schneidet die Hecke und mäht den Rasen. Danach pflegt sie die Gemüsepflanzen, die schon",
+    93,
+    101,
+    4.12,
+    1
+   ],
+   [
+    "samen",
+    "bereitet sie den Boden vor und gräbt die Erde auf. Sie pflanzt verschiedene Samen,",
+    32,
+    40,
+    4.05,
+    1
+   ],
+   [
+    "apfel",
+    "düngt und gießt sie die Pflanzen. Dann pflanzt sie noch einen Apfel- und einen",
+    53,
+    59,
+    4.03,
+    1
+   ],
+   [
+    "körperlich",
+    "muss man körperlich fit sein, denn die Arbeit ist härter, als sie aussieht.",
+    66,
+    74,
+    4.03,
+    1
+   ],
+   [
+    "tomaten",
+    "die später zu Tomaten, Paprika und Gurken werden. Danach kommen Himbeeren",
+    39,
+    46,
+    3.95,
+    1
+   ],
+   [
+    "gurken",
+    "die später zu Tomaten, Paprika und Gurken werden. Danach kommen Himbeeren",
+    39,
+    46,
+    3.57,
+    1
+   ],
+   [
+    "gepflanzt",
+    "länger gepflanzt sind. Doch bald muss sie diese Pflanzen entfernen, da ihre Saison vorbei ist.",
+    100,
+    109,
+    3.52,
+    1
+   ],
+   [
+    "unkraut",
+    "das Unkraut, das zwischen den einzelnen Steinen des Weges gewachsen ist. Dann gießt sie alle",
+    79,
+    87,
+    3.5,
+    1
+   ],
+   [
+    "hecke",
+    "Sie schneidet die Hecke und mäht den Rasen. Danach pflegt sie die Gemüsepflanzen, die schon",
+    93,
+    101,
+    3.36,
+    1
+   ],
+   [
+    "ausgeruht",
+    "Nachdem sie sich ausgeruht hat, kümmert sie sich um den restlichen Garten. Sie entfernt",
+    73,
+    80,
+    2.99,
+    1
+   ],
+   [
+    "düngemittel",
+    "wo alle ihre Geräte sind, wie zum Beispiel: Schaufeln, Düngemittel, Rechen, Gartenscheren,",
+    19,
+    26,
+    2.87,
+    1
+   ],
+   [
+    "oregano",
+    "und Erdbeeren hin. Auch Kräuter wie Basilikum und Oregano dürfen nicht fehlen. Zum Schluss",
+    45,
+    54,
+    2.76,
+    1
+   ],
+   [
+    "gartenschlauch",
+    "Blumen im Garten, ein paar mit Gießkannen, aber den Großteil mit dem Gartenschlauch.",
+    86,
+    94,
+    2.73,
+    1
+   ],
+   [
+    "dazulernen",
+    "kümmern muss und wann sie blüht, daher informiert sie sich. Auch Nicole kann immer viel dazulernen.",
+    128,
+    138,
+    2.68,
+    1
+   ],
+   [
+    "mäht",
+    "Sie schneidet die Hecke und mäht den Rasen. Danach pflegt sie die Gemüsepflanzen, die schon",
+    93,
+    101,
+    2.57,
+    1
+   ]
+  ],
+  "voc": 0.08040201005025126,
   "tx": "Nicole als Gärtnerin Heute legt Nicole ein neues Gemüsebeet im Garten eines Kunden an. Zuerst geht sie in den Wagen, wo alle ihre Geräte sind, wie zum Beispiel: Schaufeln, Düngemittel, Rechen, Gartenscheren, Rasenmäher, Sägen und vieles mehr. Nachdem sie alle ihre Werkzeuge geholt hat, bereitet sie den Boden vor und gräbt die Erde auf. Sie pflanzt verschiedene Samen, die später zu Tomaten, Paprika und Gurken werden. Danach kommen Himbeeren und Erdbeeren hin. Auch Kräuter wie Basilikum und Oregano dürfen nicht fehlen. Zum Schluss düngt und gießt sie die Pflanzen. Dann pflanzt sie noch einen Apfel- und einen Kirschbaum. Nach der harten Arbeit hat Nicole sich erst mal eine Pause verdient. Als Gärtner muss man körperlich fit sein, denn die Arbeit ist härter, als sie aussieht. Nachdem sie sich ausgeruht hat, kümmert sie sich um den restlichen Garten. Sie entfernt das Unkraut, das zwischen den einzelnen Steinen des Weges gewachsen ist. Dann gießt sie alle Blumen im Garten, ein paar mit Gießkannen, aber den Großteil mit dem Gartenschlauch. Sie schneidet die Hecke und mäht den Rasen. Danach pflegt sie die Gemüsepflanzen, die schon länger gepflanzt sind. Doch bald muss sie diese Pflanzen entfernen, da ihre Saison vorbei ist. Am nächsten Tag möchte ihr Kunde mit ihr reden. Er wünscht sich neue Blumen in seinem Garten. Nicole weiß so ziemlich alles, was man über Pflanzen, Bäume und Sträucher wissen kann, doch manchmal muss sie auch etwas nachschlagen. Sie weiß nicht, wie man sich um diese Blume kümmern muss und wann sie blüht, daher informiert sie sich. Auch Nicole kann immer viel dazulernen.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07960199004975124
+  "src": "cc"
  },
  "ymaX-hu8vjw": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:12:10+00:00",
+  "checked": "2026-11-27T02:28:38+00:00",
   "title": "#770 Veronika als Keramikerin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 197,
   "published": "20240621",
@@ -96565,6 +97113,7 @@
   "pace": 105.7,
   "rare": 0.0952,
   "var": 0.8024,
+  "cl": null,
   "speech_s": 190.6,
   "tokens": 336,
   "kw": [
@@ -96689,16 +97238,138 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "heisst",
+    "",
+    0,
+    0,
+    5.48,
+    2
+   ],
+   [
+    "kleinen",
+    "einen kleinen Haufen Tonmasse darauf. Die Drehscheibe dreht sich langsam im",
+    83,
+    93,
+    5.34,
+    2
+   ],
+   [
+    "produkt",
+    "den Entwurf für das Produkt. Dann geht sie zur Drehscheibe und stellt",
+    77,
+    88,
+    4.54,
+    2
+   ],
+   [
+    "zufrieden",
+    "sie mit der Form der Schüssel zufrieden",
+    107,
+    112,
+    4.78,
+    1
+   ],
+   [
+    "schützt",
+    "taucht. Das schützt die Schüssel und sie",
+    147,
+    155,
+    4.16,
+    1
+   ],
+   [
+    "kalte",
+    "Die kalte Schüssel wird von Veronika",
+    138,
+    144,
+    4.13,
+    1
+   ],
+   [
+    "lustige",
+    "Heute hat sie eine lustige Idee. Sie",
+    67,
+    75,
+    4.12,
+    1
+   ],
+   [
+    "letzt",
+    "Keramikfarben an. Zu guter Letzt macht",
+    168,
+    175,
+    3.58,
+    1
+   ],
+   [
+    "pinsel",
+    "Sie malt mit einem Pinsel bunte Muster",
+    160,
+    166,
+    3.54,
+    1
+   ],
+   [
+    "onlineshop",
+    "einen kleinen Onlineshop. Veronika liebt ihre Arbeit. Am meisten",
+    178,
+    187,
+    3.48,
+    1
+   ],
+   [
+    "schüsseln",
+    "fertige Produkte wie Teller, Schüsseln und Töpfe.",
+    37,
+    47,
+    2.98,
+    1
+   ],
+   [
+    "weitermacht",
+    "sie weitermacht. Heute hat sie eine lustige Idee. Sie",
+    65,
+    75,
+    2.92,
+    1
+   ],
+   [
+    "brennofen",
+    "Jetzt muss das Stück in den Brennofen.",
+    111,
+    120,
+    2.3,
+    1
+   ],
+   [
+    "durchhören",
+    "Deutsch lernen durchhören. Veronika als Keramikerin.",
+    3,
+    15,
+    2.23,
+    1
+   ],
+   [
+    "glasiert",
+    "glasiert, das heißt, dass sie das",
+    140,
+    147,
+    2.21,
+    1
+   ]
+  ],
+  "voc": 0.056910569105691054,
   "tx": "Deutsch lernen durchhören. Veronika als Keramikerin. Jeden Morgen nach dem Frühstück geht Veronika in ihr Studio in ihrer Garage. Da hat sie alles, was sie für ihre Arbeit braucht. In der Mitte des Raumes steht eine Drehscheibe. In dem Regal an der rechten Wand liegen Ton, kleine Werkzeuge und Gipsformen. Im Regal an der linken Wand stehen fertige Produkte wie Teller, Schüsseln und Töpfe. An der hinteren Wand steht ein kleiner Ofen, den sie für ihre Arbeit benötigt. Als erstes setzt sich Veronika an den Tisch neben der Tür. Dort liegen verschiedene Zeichnungen. Das sind Entwürfe. Sie entwirft zuerst ihre Produkte, bevor sie weitermacht. Heute hat sie eine lustige Idee. Sie möchte eine Schüssel mit einem Entenkopf für Kinder machen. Schnell zeichnet sie den Entwurf für das Produkt. Dann geht sie zur Drehscheibe und stellt einen kleinen Haufen Tonmasse darauf. Die Drehscheibe dreht sich langsam im Kreis. Mit ihren nassen Händen formt sie den weichen Ton zu einer Schüssel. Dann töpfert sie einen Entenkopf und drückt ihn an den Rand der Schüssel. Mit den Fingern formt sie den Ton, bis sie mit der Form der Schüssel zufrieden ist. Jetzt muss das Stück in den Brennofen. Hohe Temperaturen machen den Ton hart. Nach ein paar Stunden ist die Schüssel fertig. Jetzt stellt Veronika das Stück auf das Regal und läßt es abkühlen. Nach dem Brennen heißt das Material nicht mehr Ton, sondern Keramik. Die kalte Schüssel wird von Veronika glasiert, das heißt, dass sie das Produkt kurz in einen Eimer voll Glasur taucht. Das schützt die Schüssel und sie kann im Geschirrspüler gewaschen werden. Die Glasur muss trocknen, bevor den letzten Schritt machen kann. Sie malt mit einem Pinsel bunte Muster auf die Schüssel. Auch den Entenkopf malt sie bunt mit Keramikfarben an. Zu guter Letzt macht Veronika ein Foto von der Schüssel und stellt es ins Internet. Dort hat sie einen kleinen Onlineshop. Veronika liebt ihre Arbeit. Am meisten gefällt ihr, dass sie mit den Händen arbeitet, kreativ sein kann und jedes Mal etwas anderes gestaltet.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.056910569105691054
+  "src": "auto"
  },
  "AyS9u_Uc6ww": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:14:53+00:00",
+  "checked": "2026-11-27T02:32:41+00:00",
   "title": "#741 René als Fahrprüfer - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 196,
   "published": "20240505",
@@ -96707,6 +97378,7 @@
   "pace": 103.6,
   "rare": 0.0738,
   "var": 0.8139,
+  "cl": null,
   "speech_s": 188.2,
   "tokens": 325,
   "kw": [
@@ -96807,16 +97479,154 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "fragen",
+    "Dann stellt er ein paar Fragen, bevor",
+    114,
+    121,
+    5.47,
+    2
+   ],
+   [
+    "sofort",
+    "gemacht und sofort automatisch bewertet werden, gibt es hier nicht viel Arbeit.",
+    50,
+    62,
+    5.31,
+    2
+   ],
+   [
+    "hinten",
+    "Im Auto sitzt Rin als Prüfer hinten",
+    156,
+    163,
+    4.79,
+    1
+   ],
+   [
+    "kontrolle",
+    "der Fahrlehrer die Kontrolle. Das passiert jedoch sehr selten.",
+    178,
+    187,
+    4.79,
+    1
+   ],
+   [
+    "führerschein",
+    "Führerschein zu machen. Er versucht, die Personen zu beruhigen.",
+    101,
+    111,
+    4.19,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "übungen",
+    "machen Sie die Übungen am Fahrplatz wie",
+    139,
+    145,
+    4.07,
+    1
+   ],
+   [
+    "nervös",
+    "nervös vor einer Prüfung sind, vor allem",
+    86,
+    93,
+    4.06,
+    1
+   ],
+   [
+    "routen",
+    "Routen, die er bewertet. Er wählt sie",
+    70,
+    77,
+    3.58,
+    1
+   ],
+   [
+    "prüfer",
+    "Im Auto sitzt Rin als Prüfer hinten",
+    156,
+    163,
+    3.54,
+    1
+   ],
+   [
+    "ren",
+    "Ren hat jedoch schon einige Leute über",
+    94,
+    102,
+    3.53,
+    1
+   ],
+   [
+    "fortbildungen",
+    "dazu lernen und Fortbildungen machen. René muß selbst regelmäßig Prüfungen",
+    22,
+    31,
+    3.25,
+    1
+   ],
+   [
+    "rin",
+    "Im Auto sitzt Rin als Prüfer hinten",
+    156,
+    163,
+    3.15,
+    1
+   ],
+   [
+    "stressen",
+    "sind und sich nicht stressen. Dann stellt er ein paar Fragen, bevor",
+    110,
+    121,
+    2.95,
+    1
+   ],
+   [
+    "reifendruck",
+    "Reifendruck? Es kann entweder das Private oder ein",
+    130,
+    140,
+    2.46,
+    1
+   ],
+   [
+    "seitliches",
+    "rückwärts fahren und seitliches Einparken.",
+    142,
+    150,
+    2.25,
+    1
+   ],
+   [
+    "durchhören",
+    "Deutsch lernen durchhören. René als Fahrprüfer.",
+    3,
+    16,
+    2.23,
+    1
+   ]
+  ],
+  "voc": 0.03745318352059925,
   "tx": "Deutsch lernen durchhören. René als Fahrprüfer. René ist seit fast 30 Jahren Fahrprüfer. In letzter Zeit hat sich viel geändert. Daher muß auch er immer wieder etwas dazu lernen und Fortbildungen machen. René muß selbst regelmäßig Prüfungen ablegen. Als Fahrprüfer muss er perfekt und ohne Fehler fahren können. Auch die Theorie muss er im Kopf haben. Meist führt er praktische Fahrprüfungen durch. Selten überwacht er auch die theoretischen Prüfungen. Da diese mittlerweile am Computer gemacht und sofort automatisch bewertet werden, gibt es hier nicht viel Arbeit. Manchmal versucht er Hinweise zu geben, um den Fahrschülern zu helfen, auch wenn er das nicht darf. Für praktische Prüfungen hat René einige Routen, die er bewertet. Er wählt sie zufällig aus. Es gibt einige Vorschriften, an die er sich halten muß. Zuerst begrüßt er seinen Fahrschüler. Er weiß, dass die meisten Schüler sehr nervös vor einer Prüfung sind, vor allem da die meisten Fahrschüler noch ziemlich jung. Ren hat jedoch schon einige Leute über 40 geprüft. Es ist nie zu spät, seinen Führerschein zu machen. Er versucht, die Personen zu beruhigen. Sie sollen so fahren, wie sie es gewohnt sind und sich nicht stressen. Dann stellt er ein paar Fragen, bevor sich der Fahrschüler ins Auto setzt. Es sind einfache und technische Fragen, wie z.B. Prüfen Sie die Profiltiefe am Reifen oder wie kontrollieren Sie den Reifendruck? Es kann entweder das Private oder ein Fahrschulauto verwendet werden. Zunächst machen Sie die Übungen am Fahrplatz wie rückwärts fahren und seitliches Einparken. Danach geht es auf die Straße. Er gibt Anweisungen und notiert sich auf einem Block. wenn er Fehler bemerkt. Im Auto sitzt Rin als Prüfer hinten rechts, weil er einen guten Blick auf den Fahrschüler, den Tacho und die Straße hat. Und der Fahrlehrer sitzt wie gewohnt auf dem Beifahrersitz neben dem Fahrschüler. Wenn etwas gefährlich wird, übernimmt der Fahrlehrer die Kontrolle. Das passiert jedoch sehr selten. Nach der Prüfung erfährt der Schüler sofort, ob er bestanden hat oder nicht.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.03745318352059925
+  "src": "auto"
  },
  "HF8-ydK2Q_c": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:16:10+00:00",
+  "checked": "2026-11-27T02:33:58+00:00",
   "title": "#717 Antje als Croupière - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 162,
   "published": "20240327",
@@ -96825,6 +97635,7 @@
   "pace": 116.3,
   "rare": 0.0769,
   "var": 0.8453,
+  "cl": null,
   "speech_s": 140.8,
   "tokens": 273,
   "kw": [
@@ -96933,16 +97744,122 @@
     5
    ]
   ],
+  "kx": [
+   [
+    "leute",
+    "Antje liebt die Atmosphäre im Spielcasino. Die Lichter sind immer gedimmt. Die Leute",
+    9,
+    18,
+    5.63,
+    2
+   ],
+   [
+    "frauen",
+    "Mann nimmt seine Sonnenbrille ab und schaut die beiden Frauen an. „Alles Gute zum Geburtstag“,",
+    134,
+    142,
+    5.53,
+    2
+   ],
+   [
+    "glas",
+    "und trinken einen Margarita in einem edlen Glas. Neben ihnen sitzt ein junger Mann im",
+    57,
+    65,
+    4.61,
+    2
+   ],
+   [
+    "liebt",
+    "Antje liebt die Atmosphäre im Spielcasino. Die Lichter sind immer gedimmt. Die Leute",
+    9,
+    18,
+    4.55,
+    2
+   ],
+   [
+    "einsätze",
+    "anderen machen mit. Sie erhöhen ebenfalls ihre Einsätze. Schon sind über 300 Euro im Pot.",
+    111,
+    120,
+    4.11,
+    1
+   ],
+   [
+    "betrunken",
+    "und sie sind schon etwas betrunken. Der junge Mann setzt seine Sonnenbrille auf.",
+    77,
+    86,
+    4.1,
+    1
+   ],
+   [
+    "krawatte",
+    "Anzug. Seine Krawatte sitzt locker im Nacken und er trinkt ein Glas Whisky.",
+    64,
+    72,
+    3.56,
+    1
+   ],
+   [
+    "cocktails",
+    "weil die Leute meistens Cocktails trinken und risikobereiter sind",
+    39,
+    45,
+    3.52,
+    1
+   ],
+   [
+    "türme",
+    "Die Chips liegen wie kleine Türme vor ihnen. Der junge Mann erhöht seinen Einsatz. Die",
+    104,
+    112,
+    3.48,
+    1
+   ],
+   [
+    "elegante",
+    "elegante Uniform. Als Croupière muss man immer professionell aussehen. Nicht nur das Aussehen,",
+    22,
+    31,
+    3.46,
+    1
+   ],
+   [
+    "flüstert",
+    "ein Stein auf seinem Stuhl und bewegt sich nicht. Das Pärchen flüstert sich ins Ohr.",
+    97,
+    105,
+    3.37,
+    1
+   ],
+   [
+    "spielcasino",
+    "Antje liebt die Atmosphäre im Spielcasino. Die Lichter sind immer gedimmt. Die Leute",
+    9,
+    18,
+    2.47,
+    1
+   ],
+   [
+    "pokerspiel",
+    "als am Nachmittag. Sie geht zu ihrem Tisch. Heute leitet sie das Pokerspiel.",
+    44,
+    52,
+    2.37,
+    1
+   ]
+  ],
+  "voc": 0.07317073170731707,
   "tx": "Antje als Crou­pi­è­re Antje liebt die Atmosphäre im Spielcasino. Die Lichter sind immer gedimmt. Die Leute tragen immer schöne Kleider und Anzüge. Sie selbst trägt eine elegante Uniform. Als Croupière muss man immer professionell aussehen. Nicht nur das Aussehen, sondern auch das Verhalten muss ruhig und elegant sein. Ihr Arbeitstag beginnt immer am Abend. Sie liebt die Abenddienste, weil die Leute meistens Cocktails trinken und risikobereiter sind als am Nachmittag. Sie geht zu ihrem Tisch. Heute leitet sie das Pokerspiel. Ein älteres Ehepaar setzt sich an den Tisch. Beide sind elegant gekleidet und trinken einen Margarita in einem edlen Glas. Neben ihnen sitzt ein junger Mann im Anzug. Seine Krawatte sitzt locker im Nacken und er trinkt ein Glas Whisky. Schließlich nehmen zwei Freundinnen neben ihm Platz. Eine von ihnen hat Geburtstag und sie sind schon etwas betrunken. Der junge Mann setzt seine Sonnenbrille auf. Das Spiel beginnt. Als Croupière fragt Antje nach den Einsätzen der Spieler. Dann teilt sie die Karten aus. Die Freundinnen kichern. Der junge Mann sitzt wie ein Stein auf seinem Stuhl und bewegt sich nicht. Das Pärchen flüstert sich ins Ohr. Die Chips liegen wie kleine Türme vor ihnen. Der junge Mann erhöht seinen Einsatz. Die anderen machen mit. Sie erhöhen ebenfalls ihre Einsätze. Schon sind über 300 Euro im Pot. Antje deckt weitere Karten auf. Das Paar steigt aus. Das Risiko ist ihnen zu hoch. Antje deckt auch die letzten Karten auf. Die Freundinnen erhöhen und lachen. Der junge Mann nimmt seine Sonnenbrille ab und schaut die beiden Frauen an. „Alles Gute zum Geburtstag“, sagt er kühl und steht auf. Die Frauen jubeln. Sie bekommen den ganzen Einsatz.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07317073170731707
+  "src": "cc"
  },
  "GGfv_xpmEeQ": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:18:07+00:00",
+  "checked": "2026-11-27T02:35:18+00:00",
   "title": "#784 Benedikt als Kassierer - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 190,
   "published": "20240717",
@@ -96951,6 +97868,7 @@
   "pace": 119.4,
   "rare": 0.0497,
   "var": 0.8327,
+  "cl": null,
   "speech_s": 161.8,
   "tokens": 322,
   "kw": [
@@ -97051,16 +97969,162 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "uhr",
+    "Uhr morgens. Er begrüßt seine Kollegen und geht in den Laden, um seinen Arbeitsplatz vorzubereiten.",
+    19,
+    28,
+    5.67,
+    2
+   ],
+   [
+    "arbeit",
+    "Mittagspause und müssen in einer Stunde wieder bei der Arbeit sein. Benedikt muss schnell sein und",
+    96,
+    105,
+    5.57,
+    2
+   ],
+   [
+    "aussehen",
+    "ob die Regale neben der Kasse ordentlich aussehen und alles an seinem Platz ist. Es",
+    35,
+    42,
+    4.78,
+    1
+   ],
+   [
+    "fährt",
+    "Um 16 Uhr ist Benedikts Arbeitstag zu Ende. Er verabschiedet sich von seinen Kollegen und fährt",
+    156,
+    165,
+    4.78,
+    1
+   ],
+   [
+    "wetter",
+    "Sie fragen nach dem Wetter und erzählen Geschichten aus ihrem Leben. Benedikt",
+    76,
+    82,
+    4.76,
+    1
+   ],
+   [
+    "einzelne",
+    "Hier gibt es vor allem einzelne Schokoriegel, Bonbons, Kaugummis und kleine Schnapsflaschen.",
+    61,
+    70,
+    4.74,
+    1
+   ],
+   [
+    "butter",
+    "\"Ja, bitte?\", antwortet Benedikt. \"Können Sie mir sagen, wo die Butter ist?\",",
+    124,
+    131,
+    4.18,
+    1
+   ],
+   [
+    "gefüllt",
+    "ist sehr wichtig, dass dieser Bereich immer gefüllt ist. Denn die Kunden haben Zeit,",
+    41,
+    48,
+    4.17,
+    1
+   ],
+   [
+    "scanner",
+    "Benedikt legt das Wechselgeld in die Kasse und den Scanner auf den Tisch. Dann kontrolliert Benedikt,",
+    27,
+    36,
+    3.56,
+    1
+   ],
+   [
+    "regale",
+    "ob die Regale neben der Kasse ordentlich aussehen und alles an seinem Platz ist. Es",
+    35,
+    42,
+    3.47,
+    1
+   ],
+   [
+    "kaugummi",
+    "kaufen hier mindestens ein Produkt, meistens Kaugummi oder kleine Süßigkeiten wie tic tac.",
+    53,
+    62,
+    3.43,
+    1
+   ],
+   [
+    "hektisch",
+    "hektisch. Die Kunden kommen in großen Gruppen. Sie haben keine Geduld, denn die meisten machen nur",
+    89,
+    97,
+    3.4,
+    1
+   ],
+   [
+    "mittagszeit",
+    "hört aufmerksam zu und antwortet höflich. Um die Mittagszeit wird es für Benedikt",
+    81,
+    90,
+    3.26,
+    1
+   ],
+   [
+    "tac",
+    "kaufen hier mindestens ein Produkt, meistens Kaugummi oder kleine Süßigkeiten wie tic tac.",
+    53,
+    62,
+    2.99,
+    1
+   ],
+   [
+    "schokoriegel",
+    "Hier gibt es vor allem einzelne Schokoriegel, Bonbons, Kaugummis und kleine Schnapsflaschen.",
+    61,
+    70,
+    2.86,
+    1
+   ],
+   [
+    "kaugummis",
+    "Hier gibt es vor allem einzelne Schokoriegel, Bonbons, Kaugummis und kleine Schnapsflaschen.",
+    61,
+    70,
+    2.85,
+    1
+   ],
+   [
+    "scannt",
+    "darf keine Fehler machen. Er scannt die Artikel, gibt das Wechselgeld zurück und sagt freundlich zu",
+    104,
+    112,
+    2.72,
+    1
+   ],
+   [
+    "benedikts",
+    "Um 16 Uhr ist Benedikts Arbeitstag zu Ende. Er verabschiedet sich von seinen Kollegen und fährt",
+    156,
+    165,
+    2.46,
+    1
+   ]
+  ],
+  "voc": 0.03829787234042553,
   "tx": "Benedikt als Kassierer Benedikt arbeitet als Kassierer in einem Supermarkt. Sein Arbeitstag beginnt um 8 Uhr morgens. Er begrüßt seine Kollegen und geht in den Laden, um seinen Arbeitsplatz vorzubereiten. Benedikt legt das Wechselgeld in die Kasse und den Scanner auf den Tisch. Dann kontrolliert Benedikt, ob die Regale neben der Kasse ordentlich aussehen und alles an seinem Platz ist. Es ist sehr wichtig, dass dieser Bereich immer gefüllt ist. Denn die Kunden haben Zeit, sich die Produkte anzuschauen, während sie in der Schlange stehen, und die meisten Kunden kaufen hier mindestens ein Produkt, meistens Kaugummi oder kleine Süßigkeiten wie tic tac. Hier gibt es vor allem einzelne Schokoriegel, Bonbons, Kaugummis und kleine Schnapsflaschen. Die ersten Kunden sind meist ältere Leute, die sich gerne mit Benedikt unterhalten. Sie fragen nach dem Wetter und erzählen Geschichten aus ihrem Leben. Benedikt hört aufmerksam zu und antwortet höflich. Um die Mittagszeit wird es für Benedikt hektisch. Die Kunden kommen in großen Gruppen. Sie haben keine Geduld, denn die meisten machen nur Mittagspause und müssen in einer Stunde wieder bei der Arbeit sein. Benedikt muss schnell sein und darf keine Fehler machen. Er scannt die Artikel, gibt das Wechselgeld zurück und sagt freundlich zu jedem Kunden: \"Vielen Dank und einen schönen Tag! Ein Kunde, der seinen Einkauf erledigt hat, kommt zu Benedikt zurück. \"Entschuldigen Sie, ich habe eine Frage.\" \"Ja, bitte?\", antwortet Benedikt. \"Können Sie mir sagen, wo die Butter ist?\", fragt der Kunde. Benedikt zeigt auf den Gang mit den Molkereiprodukten und sagt: \"Da drüben, bei den Eiern. \"Vielen Dank\", sagt der Kunde und geht weiter. Nach einer kurzen Pause geht Benedikt wieder zur Kasse. Die Schlange wird immer kürzer. Benedikt nutzt die Zeit, um die Kasse zu zählen und das Wechselgeld zu überprüfen. Um 16 Uhr ist Benedikts Arbeitstag zu Ende. Er verabschiedet sich von seinen Kollegen und fährt nach Hause. Zu Hause entspannt er sich und denkt über seinen Tag nach. Manchmal ist die Arbeit",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.03829787234042553
+  "src": "cc"
  },
  "oGGPUh3K4Is": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T06:21:13+00:00",
+  "checked": "2026-11-27T02:40:30+00:00",
   "title": "#782 Tessa als Haus­häl­terin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 125,
   "published": "20240714",
@@ -97069,6 +98133,7 @@
   "pace": 128.7,
   "rare": 0.0826,
   "var": 0.8119,
+  "cl": null,
   "speech_s": 107.2,
   "tokens": 230,
   "kw": [
@@ -97145,16 +98210,138 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "gutes",
+    "hat ein gutes Verhältnis zu Gustav und weiß genau, was er mag und was nicht.",
+    28,
+    36,
+    5.03,
+    2
+   ],
+   [
+    "perfekt",
+    "und findet es befriedigend, wenn alles perfekt aussieht. Manchmal verbringt sie Stunden damit,",
+    53,
+    61,
+    4.84,
+    2
+   ],
+   [
+    "unterstützen",
+    "um Gustav zu helfen und zu unterstützen. Sie ist dankbar für ihren Job und freut",
+    107,
+    115,
+    4.76,
+    1
+   ],
+   [
+    "freut",
+    "um Gustav zu helfen und zu unterstützen. Sie ist dankbar für ihren Job und freut",
+    107,
+    115,
+    4.75,
+    1
+   ],
+   [
+    "schafft",
+    "wie sie das alles schafft. Die junge Frau erklärt ihm,",
+    78,
+    83,
+    4.7,
+    1
+   ],
+   [
+    "fragt",
+    "wie sauber und ordentlich das Haus ist und wie gut das Essen schmeckt. Er fragt Tessa,",
+    72,
+    79,
+    4.69,
+    1
+   ],
+   [
+    "butter",
+    "backt Brötchen und stellt Butter und Marmelade auf den Tisch. Tessa",
+    23,
+    29,
+    4.18,
+    1
+   ],
+   [
+    "beeindruckt",
+    "Gustav ist beeindruckt von Tessas Arbeit und schätzt sie noch mehr als zuvor. Er hat großes",
+    87,
+    96,
+    4.13,
+    1
+   ],
+   [
+    "geniesst",
+    "",
+    0,
+    0,
+    4.12,
+    1
+   ],
+   [
+    "anstrengend",
+    "Obwohl ihr Beruf anstrengend ist, genießt Tessa ihre Arbeit. Sie hat ein gutes Auge für Details",
+    45,
+    54,
+    4.08,
+    1
+   ],
+   [
+    "wäsche",
+    "die Wäsche zu waschen und zu bügeln und einzukaufen.",
+    40,
+    46,
+    4.04,
+    1
+   ],
+   [
+    "marmelade",
+    "backt Brötchen und stellt Butter und Marmelade auf den Tisch. Tessa",
+    23,
+    29,
+    3.57,
+    1
+   ],
+   [
+    "befriedigend",
+    "und findet es befriedigend, wenn alles perfekt aussieht. Manchmal verbringt sie Stunden damit,",
+    53,
+    61,
+    3.35,
+    1
+   ],
+   [
+    "bügeln",
+    "die Wäsche zu waschen und zu bügeln und einzukaufen.",
+    40,
+    46,
+    3.31,
+    1
+   ],
+   [
+    "talentierte",
+    "Glück, eine so talentierte Haushälterin zu haben. Tessa kümmert sich sehr gut um den Haushalt.",
+    95,
+    102,
+    3.26,
+    1
+   ]
+  ],
+  "voc": 0.07222222222222222,
   "tx": "Tessa als Haus­häl­terin Tessa ist seit vielen Jahren Haushälterin in der großen Villa von Gustav. Jeden Morgen steht sie früh auf, um das Frühstück für Gustav vorzubereiten. Sie kocht Kaffee, backt Brötchen und stellt Butter und Marmelade auf den Tisch. Tessa hat ein gutes Verhältnis zu Gustav und weiß genau, was er mag und was nicht. Tagsüber ist Tessa damit beschäftigt, das Haus sauber und ordentlich zu halten, die Wäsche zu waschen und zu bügeln und einzukaufen. Obwohl ihr Beruf anstrengend ist, genießt Tessa ihre Arbeit. Sie hat ein gutes Auge für Details und findet es befriedigend, wenn alles perfekt aussieht. Manchmal verbringt sie Stunden damit, einen Raum zu dekorieren oder ein besonderes Essen für Gustav zu kochen. Eines Tages ist Gustav zu Hause, als Tessa eine Pause macht. Ihm fällt auf, wie sauber und ordentlich das Haus ist und wie gut das Essen schmeckt. Er fragt Tessa, wie sie das alles schafft. Die junge Frau erklärt ihm, dass sie einfach hart arbeitet und darauf achtet, dass alles perfekt ist. Gustav ist beeindruckt von Tessas Arbeit und schätzt sie noch mehr als zuvor. Er hat großes Glück, eine so talentierte Haushälterin zu haben. Tessa kümmert sich sehr gut um den Haushalt. Tessa ist stolz auf ihre Arbeit und weiß, dass sie einen wichtigen Beitrag leistet, um Gustav zu helfen und zu unterstützen. Sie ist dankbar für ihren Job und freut",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07222222222222222
+  "src": "cc"
  },
  "dOOW4aplrek": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:49:11+00:00",
+  "checked": "2026-11-27T02:44:29+00:00",
   "title": "#786 Noah als Detektiv - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 128,
   "published": "20240722",
@@ -97163,6 +98350,7 @@
   "pace": 121.4,
   "rare": 0.0268,
   "var": 0.7971,
+  "cl": null,
   "speech_s": 110.7,
   "tokens": 224,
   "kw": [
@@ -97271,16 +98459,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "arbeitet",
+    "ganz auf die Ermittlungen. Er arbeitet hart und denkt an alle Möglichkeiten.",
+    61,
+    69,
+    4.87,
+    2
+   ],
+   [
+    "weiss",
+    "",
+    0,
+    0,
+    5.75,
+    1
+   ],
+   [
+    "gestohlen",
+    "Eines Tages erhält Noah einen komplizierten Fall. Eine wertvolle Statue wurde gestohlen",
+    31,
+    39,
+    4.23,
+    2
+   ],
+   [
+    "prozess",
+    "und folgt Hinweisen. Es ist ein langer und schwieriger Prozess, aber Noah gibt nicht auf.",
+    74,
+    84,
+    4.77,
+    1
+   ],
+   [
+    "erleichtert",
+    "gestohlen“ sagt er. Noah bemerkt, dass der Mann sich schämt. Der Detektiv ist erleichtert, dass",
+    90,
+    98,
+    4.19,
+    1
+   ],
+   [
+    "neuesten",
+    "Arbeit. Er schaut sich die neuesten Fälle an und entscheidet, welchen er als Nächstes bearbeitet.",
+    23,
+    32,
+    4.19,
+    1
+   ],
+   [
+    "hinweisen",
+    "und folgt Hinweisen. Es ist ein langer und schwieriger Prozess, aber Noah gibt nicht auf.",
+    74,
+    84,
+    4.18,
+    1
+   ],
+   [
+    "übergibt",
+    "er den Fall gelöst hat. Er übergibt den Täter der Polizei und gibt die Statue dem Besitzer zurück.",
+    97,
+    106,
+    3.5,
+    1
+   ],
+   [
+    "schämt",
+    "gestohlen“ sagt er. Noah bemerkt, dass der Mann sich schämt. Der Detektiv ist erleichtert, dass",
+    90,
+    98,
+    3.34,
+    1
+   ],
+   [
+    "überwachungskameras",
+    "und besucht den Tatort. Er überprüft die Überwachungskameras und spricht mit Zeugen.",
+    44,
+    52,
+    3.13,
+    1
+   ]
+  ],
+  "voc": 0.04216867469879518,
   "tx": "Noah als Detektiv Noah hat schon viele Fälle gelöst. Seine langjährige Erfahrung macht ihn zum perfekten Detektiv. Jeden Morgen geht er in sein Büro und macht sich an die Arbeit. Er schaut sich die neuesten Fälle an und entscheidet, welchen er als Nächstes bearbeitet. Eines Tages erhält Noah einen komplizierten Fall. Eine wertvolle Statue wurde gestohlen und der Besitzer bittet Noah um Hilfe bei der Suche. Noah beginnt mit seinen Ermittlungen und besucht den Tatort. Er überprüft die Überwachungskameras und spricht mit Zeugen. Der Dieb war ein Profi. Er hat keine Spuren hinterlassen. Noah weiß, dass es sich um einen komplizierten Fall handelt und konzentriert sich ganz auf die Ermittlungen. Er arbeitet hart und denkt an alle Möglichkeiten. Tag für Tag arbeitet Noah daran, den Fall zu lösen. Er spricht mit Verdächtigen und folgt Hinweisen. Es ist ein langer und schwieriger Prozess, aber Noah gibt nicht auf. Schließlich kommt er einem Verdächtigen auf die Spur. „Okay, ich gebe es zu. Ich habe die Statue gestohlen“ sagt er. Noah bemerkt, dass der Mann sich schämt. Der Detektiv ist erleichtert, dass er den Fall gelöst hat. Er übergibt den Täter der Polizei und gibt die Statue dem Besitzer zurück. Noah ist stolz auf seine Arbeit als Detektiv. Manche Fälle sind sehr kompliziert, aber seine Arbeit schützt die Gemeinde. Dank ihm ist der Ort sicherer. Er freut",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.041916167664670656
+  "src": "cc"
  },
  "U3CAg-tAPe8": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:54:54+00:00",
+  "checked": "2026-11-27T02:45:28+00:00",
   "title": "#780 Lilly als Schneiderin - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 127,
   "published": "20240712",
@@ -97289,6 +98559,7 @@
   "pace": 128.5,
   "rare": 0.0652,
   "var": 0.7995,
+  "cl": null,
   "speech_s": 107.4,
   "tokens": 230,
   "kw": [
@@ -97373,16 +98644,170 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "fertig",
+    "\"Denken Sie, dass es bis zur Hochzeit fertig ist?\" Lilly antwortet: \"Keine Sorge, ich werde",
+    69,
+    77,
+    5.02,
+    2
+   ],
+   [
+    "beginnt",
+    "Jeden Morgen öffnet sie ihren Laden und beginnt mit ihrer Arbeit. Sie ist umgeben von Stoffen,",
+    17,
+    24,
+    4.95,
+    2
+   ],
+   [
+    "gekauft",
+    "Eines Tages kommt eine Kundin in ihr Atelier. Sie hat ein Kleid gekauft,",
+    51,
+    57,
+    4.77,
+    1
+   ],
+   [
+    "fragt",
+    "Kleid anzieht. Lilly macht sich Notizen und beginnt mit den Anpassungen. Die Kundin fragt:",
+    62,
+    70,
+    4.69,
+    1
+   ],
+   [
+    "eigenes",
+    "Lilly ist eine talentierte Schneiderin und hat ihr eigenes Atelier in der Innenstadt.",
+    11,
+    18,
+    4.68,
+    1
+   ],
+   [
+    "beruf",
+    "Lilly ist stolz auf ihren Beruf als Schneiderin. Ihre Kreativität und ihr",
+    106,
+    112,
+    4.66,
+    1
+   ],
+   [
+    "bittet",
+    "das ihr nicht perfekt passt. Lilly begrüßt sie freundlich und bittet, dass sie das",
+    56,
+    63,
+    4.16,
+    1
+   ],
+   [
+    "begrüsst",
+    "",
+    0,
+    0,
+    4.1,
+    1
+   ],
+   [
+    "kleider",
+    "nächste Saison. Lilly hat ein Auge für Details und ist in der ganzen Stadt für ihre Kleider bekannt.",
+    43,
+    52,
+    4.09,
+    1
+   ],
+   [
+    "antwortet",
+    "\"Denken Sie, dass es bis zur Hochzeit fertig ist?\" Lilly antwortet: \"Keine Sorge, ich werde",
+    69,
+    77,
+    4.08,
+    1
+   ],
+   [
+    "bluse",
+    "Bluse oder ein Kleid für eine Brautjungfer. Andere Male arbeitet sie an einer Kollektion für die",
+    36,
+    44,
+    3.53,
+    1
+   ],
+   [
+    "genäht",
+    "Nähmaschinen und Kleidungsstücken, die sie entworfen und genäht hat.",
+    23,
+    30,
+    3.49,
+    1
+   ],
+   [
+    "anpassungen",
+    "Kleid anzieht. Lilly macht sich Notizen und beginnt mit den Anpassungen. Die Kundin fragt:",
+    62,
+    70,
+    3.43,
+    1
+   ],
+   [
+    "anzieht",
+    "Kleid anzieht. Lilly macht sich Notizen und beginnt mit den Anpassungen. Die Kundin fragt:",
+    62,
+    70,
+    3.4,
+    1
+   ],
+   [
+    "talentierte",
+    "Lilly ist eine talentierte Schneiderin und hat ihr eigenes Atelier in der Innenstadt.",
+    11,
+    18,
+    3.26,
+    1
+   ],
+   [
+    "kleidungsstücken",
+    "Nähmaschinen und Kleidungsstücken, die sie entworfen und genäht hat.",
+    23,
+    30,
+    2.81,
+    1
+   ],
+   [
+    "nähmaschinen",
+    "Nähmaschinen und Kleidungsstücken, die sie entworfen und genäht hat.",
+    23,
+    30,
+    2.75,
+    1
+   ],
+   [
+    "massgeschneiderte",
+    "",
+    0,
+    0,
+    2.72,
+    1
+   ],
+   [
+    "brautjungfer",
+    "Bluse oder ein Kleid für eine Brautjungfer. Andere Male arbeitet sie an einer Kollektion für die",
+    36,
+    44,
+    2.2,
+    1
+   ]
+  ],
+  "voc": 0.046242774566473986,
   "tx": "Lilly als Schneiderin Lilly ist eine talentierte Schneiderin und hat ihr eigenes Atelier in der Innenstadt. Jeden Morgen öffnet sie ihren Laden und beginnt mit ihrer Arbeit. Sie ist umgeben von Stoffen, Nähmaschinen und Kleidungsstücken, die sie entworfen und genäht hat. Während des Tages arbeitet Lilly an verschiedenen Projekten. Manchmal ist es eine maßgeschneiderte Bluse oder ein Kleid für eine Brautjungfer. Andere Male arbeitet sie an einer Kollektion für die nächste Saison. Lilly hat ein Auge für Details und ist in der ganzen Stadt für ihre Kleider bekannt. Eines Tages kommt eine Kundin in ihr Atelier. Sie hat ein Kleid gekauft, das ihr nicht perfekt passt. Lilly begrüßt sie freundlich und bittet, dass sie das Kleid anzieht. Lilly macht sich Notizen und beginnt mit den Anpassungen. Die Kundin fragt: \"Denken Sie, dass es bis zur Hochzeit fertig ist?\" Lilly antwortet: \"Keine Sorge, ich werde rechtzeitig fertig. Ich arbeite immer hart, um meine Kunden glücklich zu machen.\" Lilly hat fast vier Stunden an dem Kleid gearbeitet. Jetzt ist es perfekt. Als die Kundin es abholt, ist sie begeistert. Sie sagt: \"Es ist wunderschön, vielen Dank!\" Lilly lächelt und sagt: \"Ich freue mich, dass es Ihnen gefällt. Ich möchte, dass Sie sich auf Ihrer Hochzeit schön und selbstbewusst fühlen.\" Lilly ist stolz auf ihren Beruf als Schneiderin. Ihre Kreativität und ihr Geschick sind gefragt. Mit ihrer Arbeit kann sie das Leben vieler",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.046242774566473986
+  "src": "cc"
  },
  "ZsQMHGFomuY": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T15:57:38+00:00",
+  "checked": "2026-11-27T02:47:45+00:00",
   "title": "#750 Björn als Rettungsschwimmer - Deutsch lernen durch Hören @DldH Deutsch lernen mit Geschichten",
   "duration": 156,
   "published": "20240519",
@@ -97391,6 +98816,7 @@
   "pace": 109.4,
   "rare": 0.0694,
   "var": 0.9,
+  "cl": null,
   "speech_s": 134.3,
   "tokens": 245,
   "kw": [
@@ -97467,11 +98893,173 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "jedoch",
+    "mit den Augen, aber sie hören auf. Björn ist jedoch die Sicherheit aller Menschen im",
+    91,
+    99,
+    5.56,
+    2
+   ],
+   [
+    "schnell",
+    "die Badegäste und rufen um Hilfe. Björn muss dann schnell sein. Er springt ins",
+    121,
+    130,
+    5.51,
+    2
+   ],
+   [
+    "leisten",
+    "Wasser. Danach muss er Erste Hilfe leisten. Auch wenn es der Person danach entsprechend",
+    136,
+    146,
+    4.79,
+    1
+   ],
+   [
+    "extrem",
+    "Schwimmbad extrem wichtig, also ist er lieber ein Spielverderber. Zum Glück hat es während seiner",
+    98,
+    107,
+    4.75,
+    1
+   ],
+   [
+    "ausland",
+    "Hallenbad. Er hat auch schon mal ein Praktikum im Ausland an einem Strand gemacht. Es ist um einiges",
+    21,
+    30,
+    4.74,
+    1
+   ],
+   [
+    "meer",
+    "schwieriger, Menschen aus dem Meer zu retten. Doch sein Arbeitstag besteht nicht nur daraus,",
+    29,
+    38,
+    4.72,
+    1
+   ],
+   [
+    "einiges",
+    "Hallenbad. Er hat auch schon mal ein Praktikum im Ausland an einem Strand gemacht. Es ist um einiges",
+    21,
+    30,
+    4.7,
+    1
+   ],
+   [
+    "springt",
+    "die Badegäste und rufen um Hilfe. Björn muss dann schnell sein. Er springt ins",
+    121,
+    130,
+    4.11,
+    1
+   ],
+   [
+    "becken",
+    "Becken und eilt zur ertrinkenden Person. Dann rettet er sie so schnell wie möglich aus dem",
+    129,
+    137,
+    4.08,
+    1
+   ],
+   [
+    "praktikum",
+    "Hallenbad. Er hat auch schon mal ein Praktikum im Ausland an einem Strand gemacht. Es ist um einiges",
+    21,
+    30,
+    4.03,
+    1
+   ],
+   [
+    "rettet",
+    "Becken und eilt zur ertrinkenden Person. Dann rettet er sie so schnell wie möglich aus dem",
+    129,
+    137,
+    4.0,
+    1
+   ],
+   [
+    "unfälle",
+    "Dienstzeit noch keine tödlichen Unfälle gegeben. Es kann sehr schwierig sein, einen ertrinkenden",
+    106,
+    115,
+    3.95,
+    1
+   ],
+   [
+    "eilt",
+    "Becken und eilt zur ertrinkenden Person. Dann rettet er sie so schnell wie möglich aus dem",
+    129,
+    137,
+    3.53,
+    1
+   ],
+   [
+    "bewusstlos",
+    "bewusstlos. Meist benötigt diese Person nur etwas Schatten, Wasser und Essen. Björn muss",
+    60,
+    71,
+    3.48,
+    1
+   ],
+   [
+    "dienstzeit",
+    "Dienstzeit noch keine tödlichen Unfälle gegeben. Es kann sehr schwierig sein, einen ertrinkenden",
+    106,
+    115,
+    3.34,
+    1
+   ],
+   [
+    "hallenbad",
+    "Hallenbad. Er hat auch schon mal ein Praktikum im Ausland an einem Strand gemacht. Es ist um einiges",
+    21,
+    30,
+    3.34,
+    1
+   ],
+   [
+    "regelmässiges",
+    "",
+    0,
+    0,
+    3.21,
+    1
+   ],
+   [
+    "schwindlig",
+    "die Sonne und Hitze. Ihnen wird schwindlig oder schlecht, manchmal werden sie sogar",
+    53,
+    61,
+    2.87,
+    1
+   ],
+   [
+    "spielverderber",
+    "Schwimmbad extrem wichtig, also ist er lieber ein Spielverderber. Zum Glück hat es während seiner",
+    98,
+    107,
+    2.82,
+    1
+   ],
+   [
+    "beckenrand",
+    "dass sie nicht vom Beckenrand in das Wasser springen dürfen. Meistens rollen die Kinder",
+    85,
+    92,
+    2.74,
+    1
+   ]
+  ],
+  "voc": 0.06486486486486487,
   "tx": "Björn als Rettungsschwimmer Björn arbeitet im Sommer als Rettungsschwimmer in einem Freibad und das restliche Jahr in einem Hallenbad. Er hat auch schon mal ein Praktikum im Ausland an einem Strand gemacht. Es ist um einiges schwieriger, Menschen aus dem Meer zu retten. Doch sein Arbeitstag besteht nicht nur daraus, Leute vor dem Ertrinken zu retten. Das passiert zum Glück relativ selten. Oft muss er bei kleinen Verletzungen oder Kreislaufproblemen helfen. Vor allem im Sommer unterschätzen Badegäste die Sonne und Hitze. Ihnen wird schwindlig oder schlecht, manchmal werden sie sogar bewusstlos. Meist benötigt diese Person nur etwas Schatten, Wasser und Essen. Björn muss also nicht nur ein regelmäßiges Schwimmtraining, sondern auch einen Erste-Hilfe-Kurs absolvieren. Des Weiteren sorgt er für die Einhaltung der Badeordnung. Immer wieder muss er Kindern sagen, dass sie nicht vom Beckenrand in das Wasser springen dürfen. Meistens rollen die Kinder mit den Augen, aber sie hören auf. Björn ist jedoch die Sicherheit aller Menschen im Schwimmbad extrem wichtig, also ist er lieber ein Spielverderber. Zum Glück hat es während seiner Dienstzeit noch keine tödlichen Unfälle gegeben. Es kann sehr schwierig sein, einen ertrinkenden Menschen zu entdecken. Dafür hat Björn ein geschultes Auge. Meist bemerken es jedoch die Badegäste und rufen um Hilfe. Björn muss dann schnell sein. Er springt ins Becken und eilt zur ertrinkenden Person. Dann rettet er sie so schnell wie möglich aus dem Wasser. Danach muss er Erste Hilfe leisten. Auch wenn es der Person danach entsprechend",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.06486486486486487
+  "src": "cc"
  },
  "nSMEbwLVpQc": {
   "channel": "Bluey - Deutsch Offizieller Kanal",
