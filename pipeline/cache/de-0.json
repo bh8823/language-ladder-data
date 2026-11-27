@@ -82966,7 +82966,7 @@
  "l6TjJeVl-18": {
   "channel": "Daily Deutsch",
   "lang": "de",
-  "checked": "2026-11-13T04:08:31+00:00",
+  "checked": "2026-11-26T22:28:12+00:00",
   "title": "Learn German| German Listening Practice: Meine kleine Familie (Slow Narration)",
   "duration": 1056,
   "published": "20260527",
@@ -82975,6 +82975,7 @@
   "pace": 86.8,
   "rare": 0.0108,
   "var": 0.8634,
+  "cl": null,
   "speech_s": 256.3,
   "tokens": 371,
   "kw": [
@@ -83067,11 +83068,117 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kleinen",
+    "Ich wohne mit meiner Familie in einer kleinen Stadt.",
+    55,
+    62,
+    5.34,
+    4
+   ],
+   [
+    "vater",
+    "Mein Vater heißt Daniel. Er arbeitet in einem Büro und trinkt jeden Morgen Kaffee.",
+    79,
+    89,
+    5.21,
+    4
+   ],
+   [
+    "garten",
+    "Vor dem Haus gibt es einen kleinen Garten.",
+    67,
+    74,
+    4.73,
+    2
+   ],
+   [
+    "liebt",
+    "Leo liebt Musik und spielt jeden Tag Gitarre.",
+    133,
+    140,
+    4.55,
+    2
+   ],
+   [
+    "sofa",
+    "Am Abend sitzt Luna oft neben meinem Vater auf dem Sofa.",
+    215,
+    222,
+    4.15,
+    1
+   ],
+   [
+    "wohne",
+    "Ich wohne mit meiner Familie in einer kleinen Stadt.",
+    55,
+    62,
+    4.14,
+    1
+   ],
+   [
+    "riecht",
+    "Dann riecht die ganze Küche wunderbar.",
+    119,
+    125,
+    4.13,
+    1
+   ],
+   [
+    "leckeres",
+    "Sie kocht sehr gern und macht leckeres Essen für die Familie.",
+    109,
+    116,
+    3.55,
+    1
+   ],
+   [
+    "pasta",
+    "Am Sonntag kocht sie oft Suppe oder Pasta.",
+    115,
+    120,
+    3.51,
+    1
+   ],
+   [
+    "backt",
+    "Meine Oma backt den besten Kuchen.",
+    163,
+    169,
+    3.07,
+    1
+   ],
+   [
+    "schokoladenkuchen",
+    "Mein Lieblingskuchen ist Schokoladenkuchen. Wenn Oma kommt, trinken wir Tee im Wohnzimmer.",
+    168,
+    180,
+    2.49,
+    1
+   ],
+   [
+    "actionfilme",
+    "Mein Bruder mag Actionfilme und meine Mutter liebt romantische Filme.",
+    231,
+    240,
+    2.41,
+    1
+   ],
+   [
+    "lieblingskuchen",
+    "Mein Lieblingskuchen ist Schokoladenkuchen. Wenn Oma kommt, trinken wir Tee im Wohnzimmer.",
+    168,
+    180,
+    2.0,
+    1
+   ]
+  ],
+  "voc": 0.017605633802816902,
   "tx": "Meine kleine Familie. Hallo! Ich heiße Mia und bin 22 Jahre alt. Ich wohne mit meiner Familie in einer kleinen Stadt. Unsere Wohnung ist nicht groß, aber sehr schön und gemütlich. Vor dem Haus gibt es einen kleinen Garten. Dort sitzen wir oft zusammen und sprechen über unseren Tag. Mein Vater heißt Daniel. Er arbeitet in einem Büro und trinkt jeden Morgen Kaffee. Dabei liest er oft Nachrichten auf seinem Handy. Mein Vater ist ruhig, aber er macht gern Witze. Beim Abendessen lachen wir oft zusammen. Meine Mutter heißt Sofia und arbeitet in einem Krankenhaus. Sie kocht sehr gern und macht leckeres Essen für die Familie. Am Sonntag kocht sie oft Suppe oder Pasta. Dann riecht die ganze Küche wunderbar. Ich habe auch einen kleinen Bruder. Er heißt Leo und ist zwölf Jahre alt. Leo liebt Musik und spielt jeden Tag Gitarre. Manchmal ist seine Musik sehr laut. Dann sagt meine Mutter: „Leo, bitte nicht so laut!\" Aber nach ein paar Minuten lachen wir wieder. Meine Oma wohnt nicht weit von uns entfernt. Sie besucht uns oft am Wochenende. Meine Oma backt den besten Kuchen. Mein Lieblingskuchen ist Schokoladenkuchen. Wenn Oma kommt, trinken wir Tee im Wohnzimmer. Wir sprechen über Familie, Schule und das Leben. Manchmal erzählt Oma lustige Geschichten aus ihrer Jugend. Wir hören ihr immer gern zu. Wir haben auch einen Hund. Unser Hund heißt Luna. Sie ist klein, weiß und sehr aktiv. Jeden Morgen läuft sie durch den Garten und spielt mit ihrem Ball. Am Abend sitzt Luna oft neben meinem Vater auf dem Sofa. Dann sieht sie sehr zufrieden aus. Nach dem Abendessen sehen wir manchmal fern. Mein Bruder mag Actionfilme und meine Mutter liebt romantische Filme. Mein Vater schläft oft schon nach zehn Minuten ein. Das finden wir immer lustig. In unserem Wohnzimmer steht ein großer Tisch. Dort essen wir zusammen, trinken Tee und sprechen über unseren Tag. Ich liebe diese kleinen Momente mit meiner Familie. Natürlich haben wir manchmal Probleme oder Stress. Aber wir helfen uns immer gegenseitig. Wenn jemand traurig ist, sprechen wir zusammen. Wenn jemand glücklich ist, lachen wir zusammen. Meine Familie ist für mich sehr wichtig. Sie gibt mir Liebe, Kraft und viele schöne Erinnerungen. Ich bin sehr dankbar für meine kleine Familie.",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.01730103806228374
+  "src": "cc"
  },
  "H65hULs9AqM": {
   "channel": "Deutsch mit Lari",
@@ -83574,7 +83681,7 @@
  "KxMxXHSVJI0": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:14:32+00:00",
+  "checked": "2026-11-26T22:27:56+00:00",
   "title": "#907 ANTONIO - Deutsch lernen mit Geschichten [Deutsch lernen durch Hören] @DldH #dldh #learngerman",
   "duration": 994,
   "published": "20250902",
@@ -83583,6 +83690,7 @@
   "pace": 111.3,
   "rare": 0.0552,
   "var": 0.86,
+  "cl": null,
   "speech_s": 966.8,
   "tokens": 1794,
   "kw": [
@@ -83739,11 +83847,101 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "seinen",
+    "Zu seinen Kunden muss er nur gelegentlich persönlich fahren.",
+    24,
+    31,
+    5.72,
+    6
+   ],
+   [
+    "gehen",
+    "meinen Freunden chatten. Dazu muss ich nicht ins Café oder in die Bar gehen. Es ist viel bequemer,",
+    80,
+    89,
+    5.65,
+    6
+   ],
+   [
+    "blau",
+    "Ich verrate euch, was \"Blau machen\" bedeutet. Wenn jemand ohne Grund nicht zur Schule oder",
+    952,
+    962,
+    4.65,
+    4
+   ],
+   [
+    "lacht",
+    "ein seltsamer Name.“ Die Frau lacht: „Der Name ist gar nicht seltsam. Er bedeutet:",
+    440,
+    449,
+    4.32,
+    4
+   ],
+   [
+    "spazieren",
+    "losgerissen. Ich gehe einmal in der Woche mit ihm spazieren. Er gehört in das Tierheim da hinten.“",
+    416,
+    425,
+    3.99,
+    3
+   ],
+   [
+    "leine",
+    "Leine. Gemeinsam mit der Frau gehen sie ins Tierheim. Fidos Schritte werden langsamer,",
+    507,
+    516,
+    3.83,
+    3
+   ],
+   [
+    "pedale",
+    "ohne Räder. Man kann einstellen, wie schwer sich die Pedale treten lassen. Antonio hat",
+    268,
+    277,
+    3.12,
+    2
+   ],
+   [
+    "küsten",
+    "sich jetzt der Meeresspiegel. Viele Städte an den Küsten leiden unter Überschwemmungen. Man",
+    818,
+    827,
+    3.59,
+    1
+   ],
+   [
+    "deiche",
+    "möchte aber keine höheren Deiche bauen. Das wäre nämlich nur eine Lösung für den Übergang. Also",
+    826,
+    835,
+    2.9,
+    1
+   ],
+   [
+    "angefreundet",
+    "angefreundet.“ Die junge Frau stellt sich vor: „Ich bin Angie. Und das ist Luna. Sind Sie oft",
+    707,
+    716,
+    2.88,
+    1
+   ],
+   [
+    "styropor",
+    "und Styropor werden in Schichten verarbeitet. Aber das geht alles viel zu weit. Es ist kompliziert zu",
+    842,
+    851,
+    2.87,
+    1
+   ]
+  ],
+  "voc": 0.050694444444444445,
   "tx": "Geld macht Spaß Antonio ist IT-Spezialist. Er ist selbstständig. Sein Job macht ihm Spaß. Er verdient viel Geld. Antonio hat sein Büro in seiner eigenen Wohnung. Zu seinen Kunden muss er nur gelegentlich persönlich fahren. Antonio kann sich eine große Wohnung mit Garten leisten. „Mein Leben ist perfekt! Es ist schön, so viel Geld zu haben. Ich kann mir alles kaufen, was ich möchte. Geld macht Spaß!“ Sein Essen bestellt Antonio über eine App im Handy. „Das kann ich mir leisten. Ich habe Geld genug. Ich muss nicht selber einkaufen oder kochen.“ Manchmal fühlt Antonio sich einsam. Er hat keine … ruft seinen Freund Max an. Aber Max hat keine Zeit. Auch Tom und Orhan sind nicht zu erreichen. „Das habe ich jetzt davon. Ich habe meine Freunde vernachlässigt. Nun habe ich niemanden, der mich aufmuntert. Ich habe immer nur nach dem Geld geschaut. Das war falsch. Ich muss etwas ändern!“ Antonio weiß, dass sich seine Freunde immer zum Dart-Spielen in einer Bar treffen. „Heute Abend werde ich nicht arbeiten. Ich werde sie in der Bar überraschen. Vielleicht habe ich das Spielen noch nicht ganz verlernt.“ Als er am Abend in die Bar kommt, sind seine Freunde überrascht: „Was machst du … viel zu eng. Du musst entweder neue Kleidung kaufen oder du musst dich mehr bewegen!“ Antonio schaut an sich herunter. „Du hast recht, Max. Mein Bauch ist viel zu dick. Ich kann kaum noch meine Schuhe sehen. Ich brauche mehr Bewegung.“ Antonio überlegt, welcher Sport ihm Spaß machen würde. „Ich könnte mit dem Joggen anfangen. Aber hier in der Stadt ist das nicht schön. Ich müsste immer erst mit dem Auto in den Wald fahren. Das ist mir zu umständlich. Fitness ist mir zu langweilig. Radfahren ist zu gefährlich. Ah! Ich habe eine Idee!“ Antonio bestellt sich im Internet einen Heimtrainer. … Pedale. Draußen regnet es. Aber Antonio kann in seinem Wohnzimmer ganz gemütlich eine Radtour machen. „Das Einzige, was fehlt, ist die frische Waldluft,“ denkt Antonio. Aber auch hierzu hat er eine Idee. Er wird sich morgen ein Raumspray mit Tannenduft kaufen. Und natürlich eine Waage. Neue Heimat Antonio ist mit seinem Auto unterwegs. Er hat sich heute einen Tag freigenommen und möchte ein paar Dinge erledigen. Zuerst kauft er in einem Drogeriemarkt ein Raumspray mit Tannenduft. Dann besorgt er sich eine neue Personenwaage. Antonio möchte kontrollieren, wie viel Gewicht er durch sein … schaut sich den Hund an. Er ist ein mittelgroßer Terrier, der ihn mit seinen braunen Augen freundlich ansieht. „So, so. Du heißt also Fido! Was für ein seltsamer Name.“ Die Frau lacht: „Der Name ist gar nicht seltsam. Er bedeutet: Ich bin treu. Das ist doch ein wunderbarer Hundename. Fido ist ein ganz lieber Kerl. Aber er will nicht zurück ins Tierheim. Deswegen reißt er sich immer wieder los.“ Fido hat sich inzwischen auf Antonios Füße gelegt. „Sehen Sie: Er mag Sie!“ Die Frau lächelt Antonio an. Antonio spürt die Wärme des kleinen Hundes durch seine Schuhe hindurch. Fido schaut ihn … ist jetzt viel zu leer.“ Nach einigen Formalitäten darf Antonio den Hund sogar gleich mitnehmen. „So, Fido: jetzt hast du eine neue Heimat! Willkommen in meiner Wohnung!“ Fido schaut sich die Wohnung genau an und bleibt dann vor dem Heimtrainer stehen. Er hebt sein Beinchen und markiert. Antonio ist kurz erschrocken. Dann muss er lachen. „Du hast recht, Fido. Das Gerät werde ich nicht mehr brauchen. Ab jetzt bist du mein Trainer. Wir werden jeden Tag ein paar Runden spazieren laufen. Den Heimtrainer werde ich wieder verkaufen. Aber das Raumspray brauche ich jetzt trotzdem noch!“ Sport … fröhlich auf der Wiese umher. Plötzlich ruft jemand: „Halt! Luna, bleib stehen! Komm zurück!“ Antonio dreht sich um. Eine junge Frau läuft über die Wiese und versucht ihren Hund einzufangen. Das gelingt ihr natürlich nicht. Der Hund ist schneller. Er kommt direkt auf Antonio zu. Der zögert nicht lange. Er tritt auf die lange Leine, die an dem Geschirr des Hundes befestigt ist. „Ich habe ihn!“ Er winkt der jungen Frau zu. Mittlerweile ist auch Fido aufmerksam geworden. Er schnuppert interessiert an dem anderen Hund. „Tausend Dank! Ich hatte nur einen Moment auf mein Handy geschaut. Da war … die anderen Leute hier im Park vorstellen. Die meisten sind wirklich sehr nett.“ Antonio freut sich. „Ja, sehr gerne. So macht der Sport gleich noch mehr Spaß!“ Er nimmt sich vor, jetzt noch öfter in den Park zu gehen. Vielleicht begegnet er dann ganz zufällig wieder Luna und ihrem hübschen Frauchen. Schwimmende Städte Antonio und Angie treffen sich heute mit ihren Hunden zum Spaziergang im Park. „Angie, was machst du eigentlich beruflich? Das wollte ich dich schon immer fragen.“ - „Ich bin Architektin. Zurzeit arbeite ich an einem sehr spannenden Projekt. Es geht um Schwimmende Städte.“ … Beton und Styropor werden in Schichten verarbeitet. Aber das geht alles viel zu weit. Es ist kompliziert zu erklären. Jedenfalls wird überall auf der Welt an Ideen gearbeitet. Ich war neulich auf den Malediven. Dort gibt es schon schwimmende Städte.“ Antonio staunt. „Das hört sich spannend an. Aber wie ernähren sich die Leute? Kühe und Schweine werden sie dort sicher nicht halten?“ - „Nein. Man plant überwiegend pflanzliche Ernährung. Und natürlich Fische, Muscheln und so weiter. Allerdings gibt es in Rotterdam bereits einen schwimmenden Kuhstall. Das ist aber keine gute Idee. Für … werde meinem Fido nicht das Schwimmen beibringen. Lass uns mal um die Wette laufen. Da hinten ist ein Kiosk. Ich spendiere uns ein Eis!“ blaumachen Ich verrate euch, was \"Blau machen\" bedeutet. Wenn jemand ohne Grund nicht zur Schule oder zur Arbeit geht, macht er “Blau“. Zum Beispiel: Der Wecker klingelt um 6 Uhr. Florian wacht auf, aber er ist noch sehr müde und hat so gar keine Lust aufzustehen und in die Schule oder zur Arbeit zu gehen. Er sagt: „Ich glaube, ich mache heute einfach mal blau.“ Er zieht sich die Bettdecke wieder über seinen Kopf und schläft weiter. „Er macht blau.“",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.051833122629582805
+  "src": "cc"
  },
  "0YgJnMeqYEE": {
   "channel": "Get Germanized",
@@ -83759,7 +83957,7 @@
  "FcITBz2VbHE": {
   "channel": "Natürlich German",
   "lang": "de",
-  "checked": "2026-11-13T04:21:37+00:00",
+  "checked": "2026-11-26T22:27:47+00:00",
   "title": "NORSE MYTHOLOGY#9: The Apples Of Immortality (and Skadi's revenge)│Intermediate German",
   "duration": 1284,
   "published": "20210819",
@@ -83768,6 +83966,7 @@
   "pace": 92.9,
   "rare": 0.0752,
   "var": 0.7805,
+  "cl": null,
   "speech_s": 1263.5,
   "tokens": 1956,
   "kw": [
@@ -83932,16 +84131,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "zurück",
+    "hallo und willkommen zurück zu einer",
+    0,
+    6,
+    5.57,
+    6
+   ],
+   [
+    "vater",
+    "vater ich wusste doch dass du vernunft zeigen",
+    637,
+    647,
+    5.21,
+    6
+   ],
+   [
+    "füsse",
+    "",
+    0,
+    0,
+    4.43,
+    5
+   ],
+   [
+    "zog",
+    "im land der riesen zog sich die tochter",
+    876,
+    888,
+    4.78,
+    4
+   ],
+   [
+    "flog",
+    "und der adler flog sehr tief und lokis",
+    283,
+    294,
+    3.97,
+    8
+   ],
+   [
+    "guckt",
+    "haus herum und er guckt in jedes fenster",
+    721,
+    731,
+    4.03,
+    4
+   ],
+   [
+    "odin",
+    "und da war auch odin der altvater und",
+    627,
+    638,
+    3.23,
+    4
+   ],
+   [
+    "tanne",
+    "stand eine tanne und ideen sagt hier ist",
+    483,
+    494,
+    3.26,
+    3
+   ],
+   [
+    "asgard",
+    "schrei hörten die götter in asgard und",
+    795,
+    804,
+    2.62,
+    2
+   ],
+   [
+    "luki",
+    "also ein adler und luki denkt warum",
+    149,
+    159,
+    2.13,
+    2
+   ]
+  ],
+  "voc": 0.13394683026584867,
   "tx": "hallo und willkommen zurück zu einer neuen geschichte der nordischen mythologie und diese geschichte erzählte wieder davon wie loki die götter in schwierigkeiten bringt und dann am ende wieder retten muss viel spaß wisst ihr wie die götter ihre unsterblichkeit bewahren es gibt goldene äpfel der unsterblichkeit die die götter regelmäßig essen müssen damit sie nicht sterben und ideen die götzen der ewigen jugend bewahrt diese äpfel für die götter aber unsere geschichte fängt an mit tor loki und hohn die machen einen ausflug die sind unterwegs in den bergen und da in den bergen ist es sehr … um aber da war nichts und dann blickte loki auf und da oben im baum saß ein riesiger adler der sie da unten aus lachte hoch oben im baum saß also ein adler und luki denkt warum lachte so gehässig und er sagt hör mal weißt du warum unser fleisch nicht kochen will möglicherweise ihr sehr hungrig aus warum es ihr das fleisch mich einfach froh dass machen wie radler auch torwart hunger und der adler sagt als scheint fast so als würde eine art magie über euer feuer legen dass dem feuer die kraft nimmt wenn ihr mir verspricht mir zuerst etwas von dem fleisch abzugeben dann gebe ich euro im feuer … wieder runter fällt aber zu seiner überraschung blieb der speer im körper von dem adler stecken und dann breitete der adler seine flügel aus und er hob ab loki wollte den spähern loslassen aber er konnte nicht und der adler flog sehr tief und lokis beine schleiften schleiften über den boden und der adler flog gegen bäume und gegen berge und loki dachte da ist magie im spiel dagegen kann ich nichts tun und er flehte den adler an ihn wieder runter zu lassen er sagte bitte bitte ich hab solche schmerzen du wirst mich noch umbringen lass mich wieder runter vielleicht werde ich dich töten … und normalerweise ignoriert loki ideen aber heute sagt er die hübsche ich glaube das alter bricht über mich herein du siehst nicht so aus als ob du altern würdest ach ich verstecke es nur gut aber mein rücken altern ist ja so furchtbar schon gut schon gut hier hast du einen apfel und loki verschlingt den apfel und dann sagt er oh je ich habe gedacht du hättest bessere äpfel was für eine frechheit normalerweise bewundern die götter meine äpfel für ihre perfektion loki das sind die äpfel der götter die äpfel der unsterblichkeit vielleicht ja aber ich habe draußen im wald andere bessere … sollst eine gefährtin eine freundin für meine tochter sein und vielleicht wirst du dich sogar in mich verlieben aber auf jeden fall ist es vorbei mit der unsterblichkeit der götter und der adler fliegt aus der tanne heraus und greift sich die dann mit seinen krallen und fliegt davon und loki dachte ich wusste doch dass das kein gewöhnlicher adler war hoffentlich wird den göttern nicht so schnell auffallen dass sie den weg ist und wenn es ihnen auffällt dann wird hoffentlich niemand ihr verschwinden mit mir in verbindung bringen du hast sie als letzte gesehen rief tor während er sich die … wenn wir ihn foltern also wenn ich zufällig herausfinden würde wo ideen ist dann konto den sagte das ist seine einzige chance aufs überleben und tor sagte und glaube ja nicht du kannst einfach weg gehen und nicht mehr wiederkommen ich werde dich jagen ich bin immer noch stark und immer noch nervig sagte loki und er verwandelte sich in einen falken und flog ins land der eisrinne loki fliegt in gestalt eines falken über das zuhause von thiazi und er sieht in der ferne wie thiazi gerade zum fischen raus fährt und dann fliegt loki um das haus herum und er guckt in jedes fenster rein und da … haben kam der falke von hinten schon ganz nah und der falke stieß einen schrei aus einen schrei und diesen schrei hörten die götter in asgard und sie kamen alle zur mauer von ascot auf der mauer waren holzpfähle und da kam der falke geflogen dicht gefolgt von dem adler und dann schlief und dann zündeten sie die holzpfähle an die holzpfähle auf der maur brannten und loki flog gerade noch rechtzeitig über die mauer aber die flügel des adlers fingen feuer und er stürzte ab nun war froh wieder zu hause zu sein und auch die götter waren froh sie aßen die äpfel und erlangten ihre schönheit … die götter verhandeln also mit sky hd und am ende sagt den gut also du sollst mit drei dingen entschädigt werden nummer eins du sollst einen ehemann bekommen der deinen vater ersetzt die götter wussten dass gar die ein auge auf den schönen balda geworfen hatte nummer zwei wir werden dich endlich wieder zum lachen bringen wir wissen dass du seit dem tod seines vaters nicht mehr gelächelt hass und nummer drei wir werden dafür sorgen dass dein vater niemals vergessen wird also jetzt kannst du dir einen ehemann aussuchen aber nur an den füßen ja also die götter müssen sich alle in einer reihe … tor loki an und sagt auf bring sie doch mal zum lachen das ist sowieso alles deine schuld na gut und luki holt eine ziege von draußen rein und dann nimmt er ein seil und er bindet das seil an den bart der ziege verbindet das seil an den bart der ziege das eine ende und das andere ende findet er an seinen privatbereich also ein ende ist hier daran gebunden das andere ende an der ziege und loki zupfte an dem seil und die ziege schrie aufnehmen und sie zerrte zurück und das seil zerrte an lokis privatbereich und loki schrie auf und riss das seil wieder zurück die götter lachten herzlich … vater verbrannt wurden und da lagen zwei riesige kugeln zwei riesige kugeln gefüllt mit licht und odin sagte das waren die augen von deinem vater und er nahm die zwei augen und warf sie in den nachthimmel und dort schienen sie nebeneinander und wenn man heute noch im winter in den himmel guckt kann man die zwei zwillings sterne sehen das sind taxis augen und sie scheinen heute noch das war die geschichte von ideen und den äpfeln der unsterblichkeit wenn es euch gefallen hatte last ein leichter und guckt euch die anderen nordischen mythologie geschichten an und wir sehen uns beim nächsten 2",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.1347785108388313
+  "src": "auto"
  },
  "mBNDpFNi4fQ": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:22:00+00:00",
+  "checked": "2026-11-26T22:28:03+00:00",
   "title": "#902 VIKTOR - Deutsch lernen mit Geschichten [Deutsch lernen durch Hören]  Learn German with stories",
   "duration": 439,
   "published": "20250819",
@@ -83950,6 +84231,7 @@
   "pace": 116.4,
   "rare": 0.0429,
   "var": 0.8419,
+  "cl": null,
   "speech_s": 420.1,
   "tokens": 815,
   "kw": [
@@ -84098,16 +84380,114 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "strasse",
+    "",
+    0,
+    0,
+    5.27,
+    4
+   ],
+   [
+    "vorbei",
+    "passiert?“ Aber Herr Müller reagiert nicht. Er geht einfach an Viktor vorbei, in die Wohnung.",
+    61,
+    70,
+    5.15,
+    4
+   ],
+   [
+    "nachts",
+    "nachts bei mir klingeln, weiß ich, was los ist. Das Sofa ist jederzeit für Sie reserviert!“",
+    193,
+    205,
+    4.59,
+    3
+   ],
+   [
+    "schlaf",
+    "Mitten in der Nacht klingelt es an Viktors Wohnungstür. Viktor hat einen guten Schlaf.",
+    24,
+    32,
+    4.52,
+    3
+   ],
+   [
+    "klingeln",
+    "Er wacht nicht sofort auf. Aber das Klingeln hört nicht auf. Endlich erwacht Viktor. „Was",
+    31,
+    41,
+    3.69,
+    2
+   ],
+   [
+    "kreuze",
+    "drei Kreuze machen Wenn man redensartlich „drei Kreuze macht“, dann ist man erleichtert oder froh,",
+    410,
+    420,
+    3.63,
+    2
+   ],
+   [
+    "seltsames",
+    "sein Vermieter scheint ein netter Mensch zu sein. Doch heute passiert etwas Seltsames:",
+    17,
+    25,
+    3.39,
+    1
+   ],
+   [
+    "schleicht",
+    "Katze schleicht umher. Gelegentlich fährt ein Auto vorbei. Aber sonst ist es ziemlich still.",
+    285,
+    295,
+    3.32,
+    1
+   ],
+   [
+    "lichtstrahl",
+    "Plötzlich fällt ein Lichtstrahl auf den Bürgersteig vor Viktors Haus.",
+    294,
+    300,
+    2.82,
+    1
+   ],
+   [
+    "seltsamsten",
+    "wird es gefährlich. Viktor hat Herrn Müller schon an den seltsamsten Orten gefunden:",
+    244,
+    252,
+    2.68,
+    1
+   ],
+   [
+    "balanciert",
+    "Haus holen. Wenn jetzt ein Auto kommt, ist es vorbei!“ Herr Müller balanciert auf der",
+    317,
+    324,
+    2.67,
+    1
+   ],
+   [
+    "wolldecke",
+    "Herr Müller liegt jetzt auf dem Sofa. Viktor deckt ihn mit einer Wolldecke zu.",
+    121,
+    129,
+    2.55,
+    1
+   ]
+  ],
+  "voc": 0.05519480519480519,
   "tx": "Viktors Vermieter Viktor ist vor zwei Wochen in seine neue Wohnung gezogen. Er fühlt sich dort sehr wohl. Auch sein Vermieter scheint ein netter Mensch zu sein. Doch heute passiert etwas Seltsames: Mitten in der Nacht klingelt es an Viktors Wohnungstür. Viktor hat einen guten Schlaf. Er wacht nicht sofort auf. Aber das Klingeln hört nicht auf. Endlich erwacht Viktor. „Was ist denn los? Es ist doch erst halb drei. Wer kann das sein?“ Viktor steht müde auf und öffnet die Tür. Vor ihm steht Herr Müller, Viktors Vermieter. Herr Müller murmelt etwas. Viktor versteht ihn nicht. „Was ist los, Herr Müller? Ist etwas passiert?“ Aber Herr Müller reagiert nicht. Er geht einfach an Viktor vorbei, in die Wohnung. Im Wohnzimmer setzt er sich auf das blaue Sofa. Viktor folgt ihm. „Herr Müller?“ Sein Vermieter reagiert immer noch nicht. Viktor macht das Licht an. Jetzt bemerkt er, dass Herr Müller einen starren Blick hat. „Herr Müller? Sind Sie wach?“ Sein Vermieter reagiert auch jetzt nicht. „Ach du meine Güte. Ich glaube, Herr Müller ist ein Schlafwandler. Er läuft im Schlaf. Das ist ja gefährlich! Ich habe gelesen, dass man solche Leute nicht wecken soll. Vielleicht hilft es, wenn ich ihn hinlege.“ Viktor will Herrn Müller aufs Sofa legen. „Das ist sicherer. Vielleicht schläft er dann weiter.“ Herr Müller liegt jetzt auf dem Sofa. Viktor deckt ihn mit einer Wolldecke zu. Er selbst kann jetzt nicht mehr schlafen. Viktor macht sich eine große Tasse Tee und setzt sich auf den Sessel. Er beobachtet seinen Vermieter. Herr Müller scheint tief und fest zu schlafen. „Das ist ja wieder gut gegangen. Gut, dass er zu mir gekommen ist. Wenn er auf der Straße gelandet wäre, wäre es gefährlich geworden.“ Am nächsten Morgen kann sich Herr Müller an nichts mehr erinnern. Aber er ist dankbar, dass Viktor sich um ihn gekümmert hat. „Ich habe diese Krankheit schon sehr lange. Deshalb schließe ich meine Wohnungstür immer ab. Den Schlüssel verstecke ich in der Kaffeedose. So kann ich wenigstens nicht im Schlaf aus der Wohnung herauslaufen. Ich habe ihn wohl letzte Nacht vergessen. Vielen Dank für die Hilfe.“ Viktor muss lachen. „Herr Müller, Sie sind der seltsamste Vermieter, den ich je hatte. Kommen Sie, trinken wir einen Kaffee zusammen. Wenn Sie noch einmal nachts bei mir klingeln, weiß ich, was los ist. Das Sofa ist jederzeit für Sie reserviert!“ Tödlicher Unfall Viktor wohnt in einer kleinen Wohnung. Sie liegt an der Hauptstraße. Sein Vermieter, Herr Müller, leidet an einer seltenen Krankheit. Er ist Schlafwandler. Oft steht er nachts auf und läuft umher, ohne es zu merken. Das ist kein großes Problem, solange er in seiner Wohnung bleibt. Aber manchmal vergisst Herr Müller, die Wohnungstür abzuschließen. Dann wird es gefährlich. Viktor hat Herrn Müller schon an den seltsamsten Orten gefunden: im Treppenhaus, im Fahrradkeller und auf der Kinderschaukel im Garten. Viktor kann heute nicht schlafen. Er hat spät noch Kaffee getrunken und ist jetzt hellwach. „Ich werde mich noch kurz auf den Balkon setzen. Vielleicht macht mich die Nachtluft müde.“ Viktor setzt sich auf seinen Stuhl und schaut auf die Straße. Es ist ein Uhr nachts. Die meisten Menschen schlafen um diese Zeit. Eine schwarze Katze schleicht umher. Gelegentlich fährt ein Auto vorbei. Aber sonst ist es ziemlich still. Plötzlich fällt ein Lichtstrahl auf den Bürgersteig vor Viktors Haus. Jemand hat die Haustür geöffnet und kommt aus dem Haus. „Oh nein, bitte nicht! Das ist wieder Herr Müller! Der geht auf die Straße!“ Viktor reagiert sofort. Er rennt seinem Vermieter hinterher. „Ich muss ihn ins Haus holen. Wenn jetzt ein Auto kommt, ist es vorbei!“ Herr Müller balanciert auf der Straße auf der Fahrbahnmarkierung. „Herr Müller! Wachen Sie auf!“ Doch Herr Müller ist nicht ansprechbar. Viktor nimmt ihn am Arm. Er will ihn zurück auf den Bürgersteig ziehen. Da kommt ein Auto um die Ecke. Es fährt viel zu schnell. Das Auto trifft Herrn Müller an der Hüfte. Er wird durch die Luft geschleudert. Jetzt ist er wach! „Mein Gott, Herr Müller!“ Viktor schaut sofort nach ihm. „Sie sind verletzt. Ich rufe den Krankenwagen. Aber Sie haben großes Glück gehabt. Das hätte ein tödlicher Unfall werden können!“ Herr Müller schaut sich um: „Oh, mein Gott! Danke, Viktor. Sie haben mich wieder einmal gerettet! Was würde ich ohne Sie machen?“ Viktor nickt. „Ab heute werde ich jeden Abend kontrollieren, ob Sie Ihre Tür auch wirklich abgeschlossen haben. So kann es nicht weitergehen.“ Herr Müller stimmt zu. „Das ist sehr freundlich. Ich werde Ihnen die Miete etwas reduzieren. Dann sind Sie ab heute offiziell mein Leibwächter.“ Jetzt müssen beide lachen. „Aber lassen Sie sich erst einmal im Krankenhaus untersuchen. Der Krankenwagen kommt gleich.“ drei Kreuze machen Wenn man redensartlich „drei Kreuze macht“, dann ist man erleichtert oder froh, dass etwas vorbei ist. Zum Beispiel: Olaf hat morgen seine letzte Prüfung. Wenn er diese Prüfung überstanden hat, dann fühlt er sich erleichtert und ist glücklich,",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.054838709677419356
+  "src": "cc"
  },
  "SvTstD3lugU": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T04:23:04+00:00",
+  "checked": "2026-11-26T22:37:54+00:00",
   "title": "🎅 Deutsche Weihnachtslieder #3: Stille Nacht, heilige Nacht | Lieder zum Deutschlernen",
   "duration": 887,
   "published": "20190107",
@@ -84116,6 +84496,7 @@
   "pace": 88.1,
   "rare": 0.104,
   "var": 0.7439,
+  "cl": null,
   "speech_s": 864.2,
   "tokens": 1269,
   "kw": [
@@ -84280,11 +84661,93 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "welt",
+    "Die der Welt Heil gebracht, Aus des Himmels goldenen Höh’n",
+    213,
+    223,
+    5.66,
+    9
+   ],
+   [
+    "jemanden",
+    "jemanden seine Ergebenheit oder Verehrung zeigen.",
+    433,
+    438,
+    4.88,
+    8
+   ],
+   [
+    "engel",
+    "Durch der Engel Halleluja, Tönt es laut bei Ferne und Nah:",
+    635,
+    644,
+    4.51,
+    6
+   ],
+   [
+    "nah",
+    "Tönt es laut bei Ferne und Nah:",
+    639,
+    644,
+    4.55,
+    4
+   ],
+   [
+    "grimm",
+    "er hat keinen Grimm mehr, er ist nicht mehr grimmig.",
+    557,
+    562,
+    3.92,
+    4
+   ],
+   [
+    "himmels",
+    "Aus des Himmels goldenen Höh’n Uns der Gnaden Fülle lässt seh’n",
+    216,
+    228,
+    3.83,
+    4
+   ],
+   [
+    "hirten",
+    "Hirten erst kundgemacht Durch der Engel Halleluja,",
+    632,
+    640,
+    3.49,
+    3
+   ],
+   [
+    "knaben",
+    "und einen Knaben und es ist ein Weihnachtslied,",
+    111,
+    118,
+    3.51,
+    2
+   ],
+   [
+    "seh’n",
+    "Uns der Gnaden Fülle lässt seh’n",
+    222,
+    228,
+    2.87,
+    3
+   ],
+   [
+    "rettende",
+    "Da uns schlägt die rettende Stund’.",
+    165,
+    171,
+    2.84,
+    3
+   ]
+  ],
+  "voc": 0.10743801652892562,
   "tx": "Hallo, liebe Deutschlerner! Heute sprechen wir über das Weihnachtslied, das als Inbegriff des Weihnachtsbrauchtums im deutschen Sprachraum gilt, um Wikipedia zu zitieren. Ich wünsche dir viel Spaß mit diesem Video, wo wir den Liedtext analysieren werden. Viel Spaß! Ja, dieses Lied wurde zum ersten Mal 1818 in Österreich aufgeführt. Es ist also streng genommen ein österreichisches Weihnachtslied, aber es ist international bekannt. Es wurde in über 50 Sprachen übersetzt und du kennst es vielleicht als „Silent Night, Holy Night.“ Der deutsche Liedtext ist folgender: Stille Nacht, heilige Nacht! … Ruh! Es geht hier also um ein heiliges Paar und einen Knaben und es ist ein Weihnachtslied, wer ist also gemeint, na? Natürlich Josef und Maria und ihr Baby Jesus. Ja und in der ersten Strophe heißt es: Einsam wacht, Nur das traute heilige Paar Das heißt, die Eltern sind noch wach und wachen über den Knaben, über den Jungen. „Knabe“ ist ein altes deutsches Wort für Junge, ein männliches Kind. Die zweite Strophe: Stille Nacht! Heilige Nacht! Gottes Sohn! O! wie lacht Lieb’ aus deinem göttlichen Mund, Da uns schlägt die rettende Stund’. Jesus! in deiner Geburt! „Gottes Sohn“ – ja, das … ist es die rettende Stunde. Erlösen, retten – das sind fast Synonyme. Stille Nacht! Heilige Nacht! Die der Welt Heil gebracht, Aus des Himmels goldenen Höh’n Uns der Gnaden Fülle lässt seh’n Jesum in Menschengestalt! Also. „Die der Welt Heil gebracht“ – etwas heilen bedeutet, das es gesund wird und ein Heil ist die Gesundung oder ein Heil ist etwas sehr Gutes. Etwas wird gesund gemacht. „Aus des Himmels goldenen Höh’n“ – etwas ist sehr hoch. Aus des Himmels goldenen Höh’n Uns der Gnaden Fülle lässt seh’n Jesum in Menschengestalt! Also. Jesus kam aus den Höhen des Himmels und „der Gnaden … Gestalt eines Menschen. Und „Jesum“ ist der Akkusativ von „Jesus“. Jesus ist so bedeutend, dass man auch die Fälle auf seinen Namen anwendet, anscheinend. Ich habe „Jesum“ noch nie gehört, also ich kenne dieses Wort nur aus diesem Lied, aber anscheinend ist „Jesum“ der Akkusativ von „Jesus“. Die nächste Strophe: Stille Nacht! Heilige Nacht! Wo sich heut alle Macht Väterlicher Liebe ergoss Und als Bruder huldvoll umschloss Jesus die Völker der Welt! „Wo sich heut alle Macht“: Gott ist sehr mächtig, also ergießt er seine Macht. „Gießen“ benutzt man eigentlich zum Beispiel, wenn man Wasser … im gewissen Sinne. Also die Macht ergießt sich, beziehungsweise die Macht der Liebe, nicht nur Gottes Macht, sondern die Liebe, die Gott den Menschen zeigt. „Väterlicher Liebe“, also man sieht Gott als Gott den Vater und „väterliche Liebe“ ergießt sich in dieser Nacht. „Und als Bruder huldvoll umschloss Jesus die Völker der Welt!“ Was bedeutet „huldvoll“? Nun, das Verb „huldigen“ bedeutet: jemanden seine Ergebenheit oder Verehrung zeigen. Wenn man also etwas verehrt, dann huldigt man es. Wenn man sich jemanden unterwirft, dann huldigt man demjenigen. Oder man ist einer Gewohnheit treu, … der Welt!“ Das bedeutet also, dass Jesus die Völker der Welt verehrt, das ist ja Teil der christlichen Lehre, dass Jesus sich unter die Menschen gestellt hat, deswegen hat er auch den Menschen die Füße gewaschen. Das bedeutet „huldvoll“. Als Jesus den Menschen die Füße gewaschen hat, war er auch huldvoll. Die vorletzte Strophe: Stille Nacht! Heilige Nacht! Lange schon uns bedacht, Als der Herr vom Grimme befreit, In der Väter urgrauer Zeit Aller Welt Schonung verhieß! Also. „Lange schon uns bedacht“ – lange wurde an uns gedacht. „Jemanden bedenken“ heißt, dass man nicht nur an jemanden … Grimm mehr, er ist nicht mehr grimmig. Das Wörterbuch definiert „Grimm“ als intensives Gefühl des Zornes. Wenn man viel Zorn hat, dann ist man grimmig, dann hat man Grimm. Aber „vom Grimm befreit“ war Gott, als er Schonung walten ließ. Also. Gott, vom Zorne befreit, hat sich schon vor urgrauer Zeit, also schon zu Urzeiten, also schon vor ganz, ganz langer Zeit, also ganz am Anfang, hat er schon sich überlegt, dass er die Welt verschont – vor seinem Zorn, zum Beispiel. „In der Väter urgrauer Zeit Aller Welt Schonung verhieß!“ „Etwas verheißen“ heißt „etwas verkünden“ oder etwas so machen; … „Hirten erst kundgemacht“ – wenn du die Geschichte kennst, dann weißt du, dass die Hirten einen Stern gesehen haben und so haben sie herausgefunden, dass Jesus geboren wurde und haben es verkündet, sie haben es kundgemacht. „Etwas kundmachen“ bedeutet, dass man es anderen erzählt. „Durch der Engel Halleluja“ – also dadurch, dass die Engel es gesagt haben, haben sie es gewusst. „Halleluja“ ist ein Freudengesang beziehungsweise ein Ausruf. Man ruft „halleluja“, um Gott zu preisen und dadurch, dass die Engel „halleluja“ gerufen haben oder dass die Engel diesen Freudengesang gesungen haben, … als Retter. „Jemanden retten“ bedeutet, jemanden vor etwas bewahren, zum Beispiel jemanden das Leben retten. Wenn jemand ertrinkt und ich ziehe ihn aus dem Wasser, dann rette ich ihn. Und „Jesus der Retter ist da!“ – er wurde geboren, darum geht es natürlich in diesem Lied. „Tönt es laut bei Ferne und Nah“ – der Ton ist etwas, das man hören kann. Wenn etwas tönt, das bedeutet, dass es gesagt wird, dass man es hören kann – „bei Ferne und Nah“, also überall. Das war das Lied „Stille Nacht, Heilige Nacht“. Es war nicht ganz einfach, alles zu erklären. Ich musste auch ein bisschen Theologie … „Stille Nacht, Heilige Nacht“. Du hast es vielleicht selber schon einmal gesungen in der Variante deiner Muttersprache. Vielen Dank fürs Zuschauen. Ich wünsche dir frohe Weihnachten und bis zum nächsten Mal. Tschüss! Hubschrauber … ein sehr lauter Hubschrauber. Der Hubschrauber wird immer lauter, wie soll man da Videos machen? Hubschrauber, Hubschrauber, ich möchte ein Video machen. Hallo, fleißiger Deutschlerner oder Deutschlernerin! Wenn dir dieses Video gefallen hat, dann wird dir auch die Authentic-German-Learning-Akademie gefallen. Besuche JoinGermanClub.com. Wir sehen uns dort! Tschüss!",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.10422535211267606
+  "src": "cc"
  },
  "GX5ufVmfdMU": {
   "channel": "Get Germanized",
@@ -84565,7 +85028,7 @@
  "c1IVysmb5IA": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T04:28:22+00:00",
+  "checked": "2026-11-26T22:46:36+00:00",
   "title": "(4/24) LECKERE LECKEREIEN | German Christmas Treats",
   "duration": 805,
   "published": "20211203",
@@ -84574,6 +85037,7 @@
   "pace": 93.5,
   "rare": 0.0805,
   "var": 0.7893,
+  "cl": null,
   "speech_s": 748.9,
   "tokens": 1167,
   "kw": [
@@ -84738,16 +85202,98 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "essen",
+    "schlemmen ich werde sie essen schlemmen",
+    279,
+    285,
+    5.33,
+    5
+   ],
+   [
+    "sehen",
+    "puderzucker könnt ihr den sehen dass es",
+    458,
+    465,
+    5.69,
+    4
+   ],
+   [
+    "zeige",
+    "mein name ist tanja und heute zeige ich",
+    15,
+    21,
+    4.25,
+    5
+   ],
+   [
+    "erfunden",
+    "jahrhundert erfunden hat und nach der",
+    232,
+    241,
+    4.24,
+    3
+   ],
+   [
+    "schmecken",
+    "schmecken die nürnberger lebkuchen nicht nach nürnberger lebkuchen und",
+    178,
+    186,
+    4.17,
+    2
+   ],
+   [
+    "fliesst",
+    "",
+    0,
+    0,
+    4.14,
+    2
+   ],
+   [
+    "möchtet",
+    "ihr möchtet das jetzt am liebsten sofort",
+    423,
+    429,
+    3.44,
+    2
+   ],
+   [
+    "schnur",
+    "schnur das ist eine schnur an den",
+    607,
+    613,
+    3.44,
+    2
+   ],
+   [
+    "fruchtig",
+    "schmeckt richtig süß und fruchtig nach",
+    243,
+    249,
+    2.94,
+    1
+   ],
+   [
+    "hausgemachten",
+    "und werde dort ihre hausgemachten leckeren lebkuchen",
+    272,
+    285,
+    2.86,
+    1
+   ]
+  ],
+  "voc": 0.12767780634104542,
   "tx": "heute ist samstag der vierte dezember 2021 und das video wird präsentiert von tanja hallo und herzlich willkommen mein name ist tanja und heute zeige ich euch welche lieblings leckereien die deutschen an weihnachten haben dazu habe ich heute für euch zwei ganz besondere ausgesucht und auch gleich mitgebracht ich zeige sie euch und zwar wir sprechen heute einmal über die lebkuchen es gibt verschiedene sorten und auch über den weihnachtsstollen oder auch christstollen genannt ja so und da fangen wir auch schon direkt mit dem lebkuchen er ist das beliebteste weihnachtsgebäck der deutschen der … jedes jahr produziert je nach region gibt es natürlich auch kleine aber sehr feine unterschiede besonders beliebt sind die aachener printen und natürlich der berühmte nürnberger lebkuchen und diesen stelle ich euch jetzt vor der nürnberger lebkuchen wird entweder in fließbandarbeit oder in feiner handarbeit hergestellt dazu werden 25.000 flüssige schokolade benötigt der lebkuchen ist also eine wahre kalorienbombe er enthält circa 430 kalorien pro stück es gibt natürlich auch standard das ist der standort lebkuchen oder größere lebkuchen die haben dann natürlich noch mehr kalorien die … der darf nicht fehlen mandeln haselnüsse und natürlich die geheime lebkuchengewürz mischung ohne diese geheime gewürzmischung schmecken die nürnberger lebkuchen nicht nach nürnberger lebkuchen und am ende jeder lebkuchen hat eine platte das sind hier diese enden ja auf die wird die schokolade und die ganze mischung gelegt die findest du wirklich auf alle ja das nennt sich ob latte und das hier sind natürlich die bekanntesten nürnberger lebkuchen sie nennen sich auch elisen lebkuchen und zwar diese elisen lebkuchen wurden benannt nach elisabeth elisabeth war die tochter des bäckers der diese … und schmeckt richtig süß und fruchtig nach weihnachten eben und bäckereien die lebkuchen herstellen nennen sich lebt büchereien lebkücher reihen vielleicht habt ihr so eine leben küche rey bereits in deutschland einmal gesehen an weihnachten fliege ich dieses jahr auch zu meiner mama und werde dort ihre hausgemachten leckeren lebkuchen schlemmen ich werde sie essen schlemmen ich schlimme richtig weil mir dies so gut schmecken und jetzt werde ich natürlich auch ein stück essen absolut köstlich entschuldigung so das war der leckere lebkuchen und jetzt kommen wir zu unserem … erfunden von einem sächsischen becker dieser becker bereitete damals den stollen mit mandeln oder trockenfrüchten zu heutzutage macht man diesen stollen ich zeige ihnen euch nochmal das ist ein stollen ich schneide ihn auch gleich auf man ist diesen stollen heutzutage mit rosinen und mein lieblings stolle ist mit marzipan gefüllt jetzt zeige ich euch kurz den stollen keinen moment ich schneide ihn auf so sieht jetzt ein stollen aus seht ihr das der ist hier zb mit rosinen gefüllt und natürlich mit meinem lieblings marzipan genau und hier ist noch mal ein stück das werde ich jetzt dann auch … das jetzt am liebsten sofort essen und könnte es gar nicht mehr erwarten ich mach mal eine kurze pause denn ich möchte jetzt doch erst ein stück ist eine moment bitte was ich auch sehr liebe ist der puderzucker könnt ihr den sehen dass es puderzucker um diese kombination ist fabelhaft ich empfehle euch probiert einfach mal einen stollen aus auch wenn ihr im ausland lebt es gibt supermärkte deutsche supermärkte die an weihnachten diese stollen und auch die nürnberger lebkuchen verkaufen schaut euch einfach mal um nicht in allen ländern aber zum beispiel in spanien da ja gott sei dank … dann müsst ihr einen strietzel bestellen übrigens wenn ihr den stollen einmal selbst ausprobieren möchtet es gibt nämlich sehr viele rezepte im internet dann schüttet noch so ein bisschen rum mit dazu das verleiht dann noch zu diesem letzten schliff und schmeckt noch viel besser ja und was ist man noch an weihnachten ja das typische zum beispiel es gibt überall diese nikoläuse zu kaufen ja die sind aus schokolade aus leckerer schokolade und werden vor allem natürlich für die kinder gekauft aber auch ich als erwachsene liebe sie und dann gibt es noch auch auf schokolade kugel ja und das … euch noch und hier noch mal ein kleiner nikolaus und was wir noch haben ist eine glocke seht ihr die das ist eine glocke einen kirchturm klocke und auch die kann man sieht ihr das mit der schnur das ist eine schnur an den weihnachtsbaum hängen ich finde das eine fabelhafte idee so und jetzt zum ende des videos möchte ich noch ganz kurz mit euch zusammen meinen weihnachtskalender öffnen heute ist ja der vierte dezember das heißt wir dürfen hier ja jeden tag ein türchen essen das heißt wir haben ja hier in deutschland weihnachtskalender die sind für kinder gedacht aber ich selbst liebe … als die normalen ja weil da diese eier mit drin sind das heißt ich habe jetzt für den ersten den zweiten und den dritten dezember bereits die türen geöffnet gestern vorgestern und vorvorgestern heute ist der vierte dezember an der reihe und wir eröffnen das türchen gemeinsam ich hab schon geguckt hier ist die erste gewesen hier ist der zweite gewesen seht ihr die sind schon leer und hier der dritte gewesen das war ein ganz ganz kleines türchen uhr seht ihr das und heute ist der vierte dran der vierte dezember ab den haben wir hier oben schaut mal seht ihr den 4 dezember seht ihr den ich … mal seht ihr das ein kleines weihnachts schokoladen ein okay das werde ich jetzt euch zu ehren essen okay ich habe mich wahnsinnig gefreut euch hier heute mit den weihnachtsleckereien der deutschen begleiten zu dürfen und ihr könnt jetzt natürlich sehr gerne eure fragen oder eure neuen ideen in die kommentare schreiben freue mich schon diese zu lesen wünsche euch noch einen tollen advent und wir sehen uns später in einem der videos noch einmal bis dann und thusis in dieser plan ist findest du alle videos von unserem adventskalender und morgen sind wir zurück mit einem neuen video",
   "gist": "s",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.12320328542094455
+  "src": "auto"
  },
  "taNIonUTiq0": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:28:28+00:00",
+  "checked": "2026-11-26T22:37:51+00:00",
   "title": "#871 EMMA - Deutsch lernen mit Geschichten [Deutsch lernen durch Hören]  Learn German with stories",
   "duration": 728,
   "published": "20250219",
@@ -84756,6 +85302,7 @@
   "pace": 116.9,
   "rare": 0.0409,
   "var": 0.8418,
+  "cl": null,
   "speech_s": 689.6,
   "tokens": 1344,
   "kw": [
@@ -84912,16 +85459,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "ihrer",
+    "Emma hat von ihrer Tante Elisabeth ein kleines Haus in Kanada geerbt. Das will",
+    206,
+    213,
+    5.76,
+    4
+   ],
+   [
+    "kleinen",
+    "hat ganz alleine gelebt.“ Er zeigt Emma Fotos von einem kleinen Haus. Es ist ganz aus Holz",
+    89,
+    99,
+    5.34,
+    4
+   ],
+   [
+    "lacht",
+    "Der Mann lacht. „Nein, nein. Die Beerdigung ist bereits organisiert. Aber ich muss Sie unbedingt",
+    58,
+    67,
+    4.32,
+    4
+   ],
+   [
+    "elisabeth",
+    "hier ist Werner Klein. Ich bin Anwalt aus Köln. Ihre Tante Elisabeth ist vor Kurzem gestorben.",
+    29,
+    37,
+    4.25,
+    4
+   ],
+   [
+    "gemütlich",
+    "man gerade noch gemütlich mit einem Kaffee in der Hand und plötzlich hat man ein eigenes",
+    139,
+    146,
+    4.12,
+    3
+   ],
+   [
+    "gewehr",
+    "mit dem Gewehr. Hier draußen muss man sich schützen und verteidigen ... Das Haus liegt",
+    500,
+    507,
+    3.74,
+    3
+   ],
+   [
+    "auswandern",
+    "„Oder ich könnte auswandern. Das war schon immer mein Traum. Kanada ist wunderschön!“",
+    124,
+    132,
+    3.41,
+    2
+   ],
+   [
+    "brote",
+    "Emma stellt einen Topf mit Wasser auf den Ofen. „Bis das Wasser kocht, kann ich ein paar Brote",
+    566,
+    574,
+    3.31,
+    2
+   ],
+   [
+    "schmiert",
+    "mit Honig zubereiten. Das ist so gut wie Kuchen.“ Emma schmiert die Brote. Sie stellt das Glas mit",
+    573,
+    582,
+    2.93,
+    1
+   ],
+   [
+    "delikatesse",
+    "die ganz besondere Delikatesse ''Rotwurst'' zu. Es riecht schon lecker im ganzen Haus.",
+    699,
+    708,
+    2.92,
+    1
+   ],
+   [
+    "verjagen",
+    "Gegend. Hier gibt es wirklich Bären. Aber die kann man nicht mit Haarspray verjagen.“",
+    420,
+    427,
+    2.92,
+    1
+   ]
+  ],
+  "voc": 0.06028708133971292,
   "tx": "Unerwartete Nachricht Emma sitzt in der Küche. Sie trinkt Kaffee. Plötzlich klingelt ihr Telefon. Es ist eine unbekannte Nummer. \"Hallo, hier spricht Emma Schmidt\", meldet sie sich. - „Hallo, hier ist Werner Klein. Ich bin Anwalt aus Köln. Ihre Tante Elisabeth ist vor Kurzem gestorben. Ich kümmere mich um das Testament.“ Emma wundert sich. „Tante Elisabeth? Sie ist doch vor 20 Jahren nach Kanada ausgewandert. Ich habe sie kaum gekannt. Es ist bedauerlich, dass sie gestorben ist. Was möchten Sie von mir? Soll ich mich um die Beerdigung kümmern?“ Der Mann lacht. „Nein, nein. Die Beerdigung ist … erklärt ihr: „Ihre Tante hat Ihnen ihr Haus vererbt. Sie hat keine weiteren Verwandten in Kanada. Sie hat ganz alleine gelebt.“ Er zeigt Emma Fotos von einem kleinen Haus. Es ist ganz aus Holz und liegt an einem See. „Ist das in Kanada?“, fragt Emma. „Ja. Sie haben auch etwas Geld geerbt. Wenn Sie möchten, können Sie dorthin fliegen. Dann können Sie sich das Haus in Ruhe anschauen. Vielleicht möchten Sie es verkaufen? Oder Sie nehmen es als Ferienhaus.“ Emma überlegt. „Oder ich könnte auswandern. Das war schon immer mein Traum. Kanada ist wunderschön!“ Emma kann es noch gar nicht glauben. … „Das ist ja großartig. Ich würde gerne mitkommen. Und wenn du wirklich auswanderst, dann komme ich dich in jedem Urlaub besuchen. Nur nicht im Winter. Ich weiß, dass es dort sehr kalt ist.“ Emma lacht: „Natürlich kannst du mitkommen. Ich weiß nicht, ob ich wirklich auswandern möchte. Ich muss mir zuerst das Haus ansehen. Aber der Zeitpunkt wäre günstig. Nächste Woche habe ich die letzten Prüfungen an der Uni. Danach wollte ich sowieso Urlaub machen. Ich lade dich ein!“ Ein witziges Missverständnis Emma hat von ihrer Tante Elisabeth ein kleines Haus in Kanada geerbt. Das will sie sich nun … ist wunderschön hier“, sagt Emma. Betty stimmt zu: „Ja, wie im Bilderbuch. Hoffentlich kommen wir an, bevor es dunkel wird.“ Emma ist zuversichtlich. „Das schaffen wir. Das Navi zeigt uns den schnellsten Weg. Hier steht, dass wir etwa drei Stunden brauchen. Dann ist es noch hell.“ Die Fahrt verläuft problemlos. Nach drei Stunden sind sie tatsächlich da. Sie stehen vor einem kleinen Blockhaus. Es liegt direkt an einem See. „Wie wunderschön! Mensch, Emma, du hast so ein Glück!“ Emma ist sprachlos. Genau so hat sie sich das Haus vorgestellt! Sie schließt die Tür auf. Die beiden Frauen … wie man das Holz richtig anzündet. „Wenn man es falsch macht, raucht es! Das wollen wir nicht.“ Plötzlich hören die beiden ein Geräusch. Betty erschrickt. „Hast du das gehört, Emma? Da ist jemand. Hoffentlich ist es kein Bär!“ Auch Emma ist beunruhigt. „Ich schaue mal aus dem Fenster. Mach bitte die Tür zu!“ Aber Emma kann nichts erkennen. Draußen ist es dunkel geworden. Betty holt ihr Haarspray aus dem Rucksack. „Wir haben keine andere Waffe. Ich werde den Bären damit einsprühen. Dann läuft er weg!“ Jetzt ist das Geräusch an der Tür. Jemand versucht sie zu öffnen. Betty stellt sich … Tür. Er reibt sich die Augen. Emma kommt aus ihrem Versteck. „Wir dachten, Sie wären ein Bär! Warum haben Sie sich heimlich angeschlichen?“ Der Mann antwortet: „Ich dachte, Sie wären ein Einbrecher. Ich bin Ben. Ich passe auf das Haus auf. Sind Sie Emma?“ Jetzt müssen alle über das Missverständnis lachen. Ben zeigt Emma und Betty, wie man Feuer macht. Bald sitzen alle gemütlich im Wohnzimmer und trinken Tee. Dann verabschiedet sich Ben. „Ich komme morgen wieder. Dann zeige ich euch die Gegend. Hier gibt es wirklich Bären. Aber die kann man nicht mit Haarspray verjagen.“ Ein Abenteuer in … was sie in der Wildnis alles beachten muss. „Du musst Holz hacken. Sonst kannst du kein Feuer machen. In dem kleinen See sind Fische. Ich kann dir das Angeln beibringen. Und ich zeige dir, wie man auf die Jagd geht. Dann hast du immer etwas zum Essen.“ Emma erschrickt. „Ich soll angeln und jagen? Auf keinen Fall! Ich esse keine Tiere. Es gibt doch einen kleinen Lebensmittelladen im Nachbardorf. Da kann ich unser Essen kaufen.“ Ben lacht. „Okay, du bist eine von diesen Vegetarierinnen. Aber ich zeige dir trotzdem den Umgang mit dem Gewehr. Hier draußen muss man sich schützen und verteidigen … gefunden. Sie hat sie auf einen Baumstumpf gestellt. Das wird ihr Ziel für den Unterricht. Ben zeigt ihnen geduldig, wie sie das Gewehr laden müssen. Nach einigen Versuchen gelingt es Emma und Betty, die Dosen zu treffen. „Mir klingeln jetzt die Ohren. Das ist ganz schön laut!“, sagt Betty. Emma stimmt zu: „Lasst uns eine Pause machen. Ich werde ein Feuer machen und uns Kaffee kochen.“ Es dauert eine Weile, bis Emma das Feuer angezündet hat. In der Zwischenzeit hacken Betty und Ben Holz für den Vorrat. Emma stellt einen Topf mit Wasser auf den Ofen. „Bis das Wasser kocht, kann ich … kontrollieren will, sieht sie im Spiegel eine Bewegung am Fenster. „Oh nein! Was ist das?“ Sie dreht sich um. Da steht ein Bär am Fenster. Er hat den Honig gerochen. Er greift mit seinen Tatzen nach dem Glas. Aber es ist zu glitschig. Es rutscht ihm aus den Tatzen und fällt auf den Boden. Emma ist starr vor Schreck. Sie kann nichts sagen. Da hört sie draußen ein lautes Geschrei und einen Schuss. Sie rennt aus dem Haus, um nachzusehen. Ben hat sein Gewehr in der Hand. Betty steht hinter ihm. „Alles in Ordnung“, ruft er. „Ich habe nur in die Luft geschossen. Der Bär ist weggelaufen.“ Emma ist … stell nie wieder Honig so nah ans Fenster!“ Das schwarze Schaf sein Bianca lebt in einer großen Familie. Sie hat 5 Geschwister und ihre Großeltern wohnen auch bei ihnen. Bianca sieht ihre Oma sehr selten, wenn sie etwas kocht. Aber heute ist ein besonderer Tag. Biancas Vater hat Geburtstag. Deshalb steht ihre Oma am Herd und bereitet die ganz besondere Delikatesse ''Rotwurst'' zu. Es riecht schon lecker im ganzen Haus. Darüber sind alle froh - außer Bianca. Sie ist die einzige in der Familie, die Rotwurst nicht mag. Ihre Oma sagt: „Ach Bianca, du bist immerdas schwarze Schafder Familie.“",
   "gist": "s",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.0641025641025641
+  "src": "cc"
  },
  "bVVltNMIFmM": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:28:32+00:00",
+  "checked": "2026-11-26T22:46:40+00:00",
   "title": "#722 Anna Staudinger, aus Bremen - Deutsch lernen durch Hören - Niveau:A1-A2 - German stories",
   "duration": 131,
   "published": "20240404",
@@ -84930,6 +85567,7 @@
   "pace": 116.6,
   "rare": 0.0651,
   "var": 0.7794,
+  "cl": null,
   "speech_s": 110.6,
   "tokens": 215,
   "kw": [
@@ -84998,16 +85636,178 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "andere",
+    "einer Dönerbude. Zwei andere Menschen sind neben mir. Timur schneidet das Fleisch. Lukas backt die",
+    18,
+    28,
+    5.75,
+    1
+   ],
+   [
+    "drei",
+    "Brötchen und ich gebe die Sauce in den Döner. Schon seit drei Monaten arbeite ich in der",
+    27,
+    35,
+    5.72,
+    1
+   ],
+   [
+    "vielleicht",
+    "ich gerne, deshalb habe ich große Muskeln. Bald möchte ich wieder reisen, vielleicht",
+    106,
+    114,
+    5.72,
+    1
+   ],
+   [
+    "bitte",
+    "„Einen Döner ohne Zwiebeln bitte“, sagt der Kunde auf Schwedisch. Ich stehe in",
+    13,
+    19,
+    5.7,
+    1
+   ],
+   [
+    "bereits",
+    "wer ich bin. In meinem Leben hatte ich bereits viele verschiedene Jobs. Ich weiß nicht, was",
+    58,
+    66,
+    5.67,
+    1
+   ],
+   [
+    "beziehung",
+    "Wohnung in der Nähe vom Stand. Ich wohne bei ihm. Die Beziehung ist toll, aber nicht großartig.",
+    81,
+    91,
+    4.79,
+    1
+   ],
+   [
+    "bremen",
+    "Anna Staudinger, aus Bremen „Einen Döner ohne Zwiebeln bitte“, sagt der Kunde auf Schwedisch. Ich stehe in",
+    9,
+    19,
+    4.78,
+    1
+   ],
+   [
+    "brauche",
+    "ich machen will. Mir machen so viele Dinge Spaß. Ich brauche aber trotzdem Geld. Darum arbeite ich",
+    65,
+    74,
+    4.76,
+    1
+   ],
+   [
+    "lukas",
+    "einer Dönerbude. Zwei andere Menschen sind neben mir. Timur schneidet das Fleisch. Lukas backt die",
+    18,
+    28,
+    4.14,
+    1
+   ],
+   [
+    "wohne",
+    "Wohnung in der Nähe vom Stand. Ich wohne bei ihm. Die Beziehung ist toll, aber nicht großartig.",
+    81,
+    91,
+    4.14,
+    1
+   ],
+   [
+    "südafrika",
+    "nach Spanien oder Südafrika. Noch bin ich mir nicht sicher. \"Die Zukunft wird",
+    113,
+    120,
+    4.11,
+    1
+   ],
+   [
+    "muskeln",
+    "ich gerne, deshalb habe ich große Muskeln. Bald möchte ich wieder reisen, vielleicht",
+    106,
+    114,
+    4.08,
+    1
+   ],
+   [
+    "thailand",
+    "Thailand habe ich in einem Hotel gearbeitet. Mein Name ist Anna Staudinger und ich weiß nicht,",
+    50,
+    59,
+    4.07,
+    1
+   ],
+   [
+    "blonden",
+    "Meine kurzen, blonden Haare sind glatt, und ich bin recht klein, nur 1,57 Meter groß. Ich",
+    90,
+    100,
+    3.55,
+    1
+   ],
+   [
+    "schwedisch",
+    "„Einen Döner ohne Zwiebeln bitte“, sagt der Kunde auf Schwedisch. Ich stehe in",
+    13,
+    19,
+    3.47,
+    1
+   ],
+   [
+    "trainiere",
+    "bin stolz auf meine grünen Augen und meine Sommersprossen. In meiner Freizeit trainiere",
+    99,
+    107,
+    3.2,
+    1
+   ],
+   [
+    "backt",
+    "einer Dönerbude. Zwei andere Menschen sind neben mir. Timur schneidet das Fleisch. Lukas backt die",
+    18,
+    28,
+    3.07,
+    1
+   ],
+   [
+    "liebespaar",
+    "jetzt hier in der Dönerbude. Timur ist mein Chef. Wir sind ein Liebespaar. Er lebt in einer großen",
+    73,
+    82,
+    3.04,
+    1
+   ],
+   [
+    "sommersprossen",
+    "bin stolz auf meine grünen Augen und meine Sommersprossen. In meiner Freizeit trainiere",
+    99,
+    107,
+    2.85,
+    1
+   ],
+   [
+    "babysitterin",
+    "Ägypten habe ich als Hundetrainerin gearbeitet. In den USA war ich eine Babysitterin und in",
+    41,
+    51,
+    2.42,
+    1
+   ]
+  ],
+  "voc": 0.03571428571428571,
   "tx": "Anna Staudinger, aus Bremen „Einen Döner ohne Zwiebeln bitte“, sagt der Kunde auf Schwedisch. Ich stehe in einer Dönerbude. Zwei andere Menschen sind neben mir. Timur schneidet das Fleisch. Lukas backt die Brötchen und ich gebe die Sauce in den Döner. Schon seit drei Monaten arbeite ich in der Dönerbude. Nach der Schule habe ich hier in Schweden im Büro gearbeitet. In Ägypten habe ich als Hundetrainerin gearbeitet. In den USA war ich eine Babysitterin und in Thailand habe ich in einem Hotel gearbeitet. Mein Name ist Anna Staudinger und ich weiß nicht, wer ich bin. In meinem Leben hatte ich bereits viele verschiedene Jobs. Ich weiß nicht, was ich machen will. Mir machen so viele Dinge Spaß. Ich brauche aber trotzdem Geld. Darum arbeite ich jetzt hier in der Dönerbude. Timur ist mein Chef. Wir sind ein Liebespaar. Er lebt in einer großen Wohnung in der Nähe vom Stand. Ich wohne bei ihm. Die Beziehung ist toll, aber nicht großartig. Meine kurzen, blonden Haare sind glatt, und ich bin recht klein, nur 1,57 Meter groß. Ich bin stolz auf meine grünen Augen und meine Sommersprossen. In meiner Freizeit trainiere ich gerne, deshalb habe ich große Muskeln. Bald möchte ich wieder reisen, vielleicht nach Spanien oder Südafrika. Noch bin ich mir nicht sicher. \"Die Zukunft wird",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.03550295857988166
+  "src": "cc"
  },
  "dfHP0mRfj6o": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T04:29:31+00:00",
+  "checked": "2026-11-26T22:46:46+00:00",
   "title": "Adventszeit & Vorfreude! | Adventskranz [learn German][Deutsch lernen]",
   "duration": 243,
   "published": "20161206",
@@ -85016,6 +85816,7 @@
   "pace": 80.9,
   "rare": 0.0842,
   "var": 0.7684,
+  "cl": null,
   "speech_s": 220.2,
   "tokens": 297,
   "kw": [
@@ -85124,11 +85925,149 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "vier",
+    "Erst eins, dann zwei, dann drei, dann vier,",
+    4,
+    9,
+    5.44,
+    2
+   ],
+   [
+    "nächsten",
+    "Der Sonntag davor, der 11.12. — also nächsten Sonntag — ist der dritte Advent.",
+    129,
+    142,
+    5.3,
+    2
+   ],
+   [
+    "sage",
+    "Sage mir Beschied in den Kommentaren. Bis morgen und frohe Weihnachten!",
+    224,
+    231,
+    4.78,
+    1
+   ],
+   [
+    "familien",
+    "Zwei Anmerkungen zu dem Kinderreim: Bei manchen Familien in Deutschland",
+    44,
+    52,
+    4.77,
+    1
+   ],
+   [
+    "zählt",
+    "Man zählt die Adventssonntage. In diesem Jahr, 2016, fällt Heiligabend auf einen Sonnabend, auf einen Samstag.",
+    107,
+    122,
+    4.76,
+    1
+   ],
+   [
+    "supermarkt",
+    "Stollen im Supermarkt erhältlich sind. Ein Stollen ist eine typische deutsche Süßigkeit, die man zu Weihnachten isst.",
+    183,
+    193,
+    4.17,
+    1
+   ],
+   [
+    "schläft",
+    "Wenn man etwas verschläft, dann schläft man zu lange und man verpasst etwas.",
+    70,
+    78,
+    4.13,
+    1
+   ],
+   [
+    "fünfte",
+    "Und wenn das fünfte Lichtlein brennt, dann hast du Weihnachten verpennt!",
+    12,
+    24,
+    4.08,
+    1
+   ],
+   [
+    "befestigt",
+    "Das ist ein Kranz aus Tannenzweigen und meist gibt es vier Kerzen, die an dem Kranz befestigt sind.",
+    197,
+    212,
+    3.96,
+    1
+   ],
+   [
+    "anmerkungen",
+    "Zwei Anmerkungen zu dem Kinderreim: Bei manchen Familien in Deutschland",
+    44,
+    52,
+    3.92,
+    1
+   ],
+   [
+    "christkind",
+    "dann steht das Christkind vor der Tür.",
+    8,
+    13,
+    3.08,
+    2
+   ],
+   [
+    "sonnabend",
+    "In diesem Jahr, 2016, fällt Heiligabend auf einen Sonnabend, auf einen Samstag.",
+    111,
+    122,
+    3.58,
+    1
+   ],
+   [
+    "süssigkeit",
+    "",
+    0,
+    0,
+    2.85,
+    1
+   ],
+   [
+    "adventskranz",
+    "In Deutschland hat man auch oft einen Adventskranz.",
+    192,
+    198,
+    2.45,
+    1
+   ],
+   [
+    "beschied",
+    "Sage mir Beschied in den Kommentaren. Bis morgen und frohe Weihnachten!",
+    224,
+    231,
+    2.37,
+    1
+   ],
+   [
+    "verschläft",
+    "Wenn man etwas verschläft, dann schläft man zu lange und man verpasst etwas.",
+    70,
+    78,
+    2.36,
+    1
+   ],
+   [
+    "adventssonntag",
+    "Jeden Adventssonntag zündet man eine weitere Kerze an.",
+    211,
+    219,
+    2.34,
+    1
+   ]
+  ],
+  "voc": 0.05333333333333334,
   "tx": "Advent, Advent, ein Lichtlein brennt. Erst eins, dann zwei, dann drei, dann vier, dann steht das Christkind vor der Tür. Und wenn das fünfte Lichtlein brennt, dann hast du Weihnachten verpennt! Hallo, ich bin Marco von AuthenticGermanLearning.com und heute reden wir über die Adventszeit. Zwei Anmerkungen zu dem Kinderreim: Bei manchen Familien in Deutschland bringt nicht der Weihnachtsmann die Geschenke, sondern das Christkind. Und das Wort verpennen heißt verschlafen. Das Wort pennen ist ein umgangssprachlicher Ausdruck für schlafen. Wenn man etwas verschläft, dann schläft man zu lange und man verpasst etwas. Die Adventszeit ist die Zeit, wo man sich auf das Weihnachtsfest vorbereitet. Ein tolles deutsches Wort kommt da in den Sinn: Vorfreude! In der Adventszeit hat man Vorfreude — man freut sich schon vorher darauf, dass die Weihnachtszeit beginnt. Man zählt die Adventssonntage. In diesem Jahr, 2016, fällt Heiligabend auf einen Sonnabend, auf einen Samstag. Der Sonntag davor, der 18.12., ist der vierte Advent. Der Sonntag davor, der 11.12. — also nächsten Sonntag — ist der dritte Advent. Am nächsten Sonntag ist dritter Advent und letzten Sonntag war der zweite Advent und an dem Sonntag davor, am 27.11. war der erste Advent. Das heißt, dass in diesem Jahr die Adventszeit schon Ende November begonnen hat. Viele Leute freuen sich schon sehr, sehr früh auf Weihnachten, obwohl manche Leute ein bisschen irritiert sind, dass schon mehrere Monate vor Weihnachten Stollen im Supermarkt erhältlich sind. Ein Stollen ist eine typische deutsche Süßigkeit, die man zu Weihnachten isst. In Deutschland hat man auch oft einen Adventskranz. Das ist ein Kranz aus Tannenzweigen und meist gibt es vier Kerzen, die an dem Kranz befestigt sind. Jeden Adventssonntag zündet man eine weitere Kerze an. So wird die Adventszeit in Deutschland gefeiert. Wie ist es in deinem Land? Sage mir Beschied in den Kommentaren. Bis morgen und frohe Weihnachten!",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.05333333333333334
+  "src": "cc"
  },
  "h2-_4W4vAq8": {
   "channel": "Get Germanized",
@@ -85144,7 +86083,7 @@
  "-O_eKS4MM44": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T04:35:30+00:00",
+  "checked": "2026-11-26T22:54:28+00:00",
   "title": "(5/24) LASST UNS FROH UND MUNTER SEIN | German Nikolaus song explained",
   "duration": 690,
   "published": "20211204",
@@ -85153,6 +86092,7 @@
   "pace": 80.0,
   "rare": 0.0411,
   "var": 0.6586,
+  "cl": null,
   "speech_s": 675.7,
   "tokens": 901,
   "kw": [
@@ -85277,16 +86217,130 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "genug",
+    "dem man nicht genug danken kann",
+    510,
+    522,
+    5.35,
+    7
+   ],
+   [
+    "stelle",
+    "stelle ich den teller aufstell ist eigentlich stelle",
+    247,
+    261,
+    5.22,
+    7
+   ],
+   [
+    "lasst",
+    "das lied heißt lasst uns froh und munter",
+    63,
+    71,
+    4.63,
+    4
+   ],
+   [
+    "träume",
+    "dass träume ich jetzt bringt nikolaus was für mich also",
+    401,
+    414,
+    4.36,
+    4
+   ],
+   [
+    "gewiss",
+    "nikolaus liegt gewiss was drauf sehr",
+    324,
+    332,
+    4.1,
+    5
+   ],
+   [
+    "aufgestanden",
+    "jetzt wenn ich aufgestanden bin was",
+    446,
+    456,
+    3.61,
+    5
+   ],
+   [
+    "strophe",
+    "strophe nummer drei wenn ich schlafe dann freue mich wenn",
+    383,
+    396,
+    3.55,
+    1
+   ],
+   [
+    "kathrin",
+    "kathrin und wir lernen natürlich deutsch",
+    16,
+    29,
+    3.54,
+    1
+   ],
+   [
+    "abkürzungen",
+    "viele abkürzungen was das kommt von etwas",
+    329,
+    343,
+    3.48,
+    1
+   ],
+   [
+    "playlist",
+    "in dieser playlist findest du alle",
+    676,
+    683,
+    3.46,
+    1
+   ],
+   [
+    "weihnachtsbaum",
+    "weihnachtsbaum auf oder wir stellen die",
+    312,
+    319,
+    3.44,
+    1
+   ],
+   [
+    "aufstehe",
+    "ich aufstehe laufe ich zum teller",
+    627,
+    637,
+    2.71,
+    1
+   ],
+   [
+    "kinderlied",
+    "kinderlied über den nikolaustag morgen ist nikolaus und deshalb möchte",
+    30,
+    47,
+    2.54,
+    1
+   ],
+   [
+    "fro",
+    "fro kommt von fröhlich",
+    81,
+    92,
+    2.38,
+    1
+   ]
+  ],
+  "voc": 0.07547169811320754,
   "tx": "heute ist sonntag der fünfte dezember 2021 und das video wird präsentiert von katrin hallo herzlich willkommen ich bin kathrin und wir lernen natürlich deutsch heute habe ich ein lied für dich es gibt ein tolles kinderlied über den nikolaustag morgen ist nikolaus und deshalb möchte ich heute mit dir dieses lied anschauen wie lautet der text was kommt in diesem lied vor wir lesen den text zusammen und ich erkläre dir einige neue worte das lied heißt lasst uns froh und munter sein lasst uns sein ist eine aufforderung ja wir sind das lasst uns froh und munter sein fro kommt von fröhlich fröhlich oft sagen wir fröhlich und nicht froh aber froh konnte oft in liedern vor da sagen wir oft froh und munter ist etwas ähnliches wie fit und wach und was noch gut gelaunt also wir sollen uns freuen wir sollen ja motiviert sein wach und fröhlich und fit das sollen wir sein lasst uns froh und munter sein hier lasse und munter sein und uns recht von herzen freuen sich von herzen erfreuen ist abgekürzt von freuen nur weil es ein lied ist sich von herzen freuen bedeutet sich sehr sehr alt freuen von herzen freuen ich freue mich von herzen dass du da bist ich freue mich von herzen auf weihnachten sehr besonders freuen und recht das können wir eigentlich weg lassen dass es nicht so wichtig es ist nur ja was bedeutet es das ist schwer zu sagen aber es nicht so wichtig wir können es weglassen wir sollten froh und munter sein und uns sehr von herzen freuen warum lustig lustig tralala tralala da ist einfach ja ein singen ein gesang bald ist nikolaus abends da bald ist nikolausabend also wir sind froh und munter und lustig gut gelaunt weil bald der nikolausabend da ist bald kommt er was mache ich wenn es nikolausabend oder nikolaustag wird dann stelle ich den teller aufstell ist eigentlich stelle ich stelle den teller auf oder ich stelle den teller auf manche leute wie in diesem lied stellen einen teller für den nikolaus auf den tisch andere leute stellen einen schuh einen winterstiefel vor die türe für den nikolaus das gibt es alles morgen erzählt euch natalia noch mehr über den nikolaus in diesem lied ist es aber ein teller ich stelle den teller auf das heißt ich stelle etwas hin etwas aufstellen ist oft auch etwas aufbauen also wir stellen den weihnachtsbaum auf oder wir stellen die krippe auf genau extra für etwas hinstellen nikolaus liegt gewiss was drauf sehr viele abkürzungen was das kommt von etwas und 3 von darauf nikolaus liegt gewiss etwas darauf er legt etwas auf den teller was bedeutet das gewiss gewiss bedeutet so viel wie mit sicherheit auf jeden fall bestimmt ich bin mir sicher er macht das das bedeutet gewiss und wieder lustig lustig tralala bald ist nikolausabend dann bald ist nikolausabend da strophe nummer drei wenn ich schlafe dann freue mich wenn ich schlafe wenn ich schlafe dann freue mich dass träume ich jetzt bringt nikolaus was für mich also ich liege im bett ich schlafe und ich träume ich träume davon dass nikolaus mir etwas bringt er bringt etwas für mich was wieder etwas lustig lustig tralala bald ist nikolausabend da jetzt was kommt dann ich habe den teller aufgestellt dann bin ich schlafen gegangen und habe geträumt jetzt wenn ich aufgestanden bin was passiert wenn ich aufgestanden bin wenn ich aufgestanden bin laufe ich schnell zum teil also ich laufe schnell zum teller der teller steht auf dem tisch und ich laufe oder rennen zum teller warum renne ich hin ich bin sehr gespannt ob der nikolaus etwas auf den teller gelegt hat lustig lustig tralala waldis nikolausabend da bald ist nikolausabend da und der nikolaus hat etwas auf den teller gelegt nikolaus ist ein guter mann dem man nicht genug danken kann dem den mann er ist ein guter mann dem man nicht genug auch wieder abgekürzt weil es ein lied ist die man nicht genug danken kann ich danke ihm aber es ist nicht genug ich muss noch mehr danke ich danke ihm noch einmal ich sage danke aber es reicht noch nicht es ist nicht genug ich danke und danke und danke und danke aber ich kann nicht genug danke sagen so gut ist der nikolaus lustig lustig tralala waldes nikolausabend da bald ist nikolausabend da also was kommt in diesem lied vor zuerst warte ich auf den nikolausabend wenn der nikolaus abend kommt dann stelle ich den teller auf nikolaus liegt bestimmt etwas darauf dann gehe ich schlafen wenn ich schlafe dann freue mich dass der nikolaus kommt wenn ich schlafe dann träume ich jetzt kommen jetzt bringt nikolaus was für mich der nächste schritt wenn ich aufgestanden bin ich bin wieder wach ich stehe eher auf wenn ich aufgestanden bin laufe ich schnell zum teller hin wenn ich aufstehe laufe ich zum teller und es gibt so viele geschenke so viele süßigkeiten auf dem teller dass ich dem nikolaus danke sage aber ich kann nicht genug danken nikolaus ist so ein guter mann ich hoffe du hast etwas neues gelernt hier unten findest du auch den link um dir das lied anzuhören ich wünsche dir viel spaß und bis morgen zu einem neuen video in dieser playlist findest du alle videos von unserem adventskalender und morgen sind wir zurück mit einem neuen video",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.07547169811320754
+  "src": "auto"
  },
  "r_7GdYYanTU": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:35:44+00:00",
+  "checked": "2026-11-26T22:54:35+00:00",
   "title": "#749 Leonie Trauner, aus Dortmund - Deutsch lernen durch Hören - Niveau:A1-A2 - German stories",
   "duration": 145,
   "published": "20240518",
@@ -85295,6 +86349,7 @@
   "pace": 109.5,
   "rare": 0.0687,
   "var": 0.8405,
+  "cl": null,
   "speech_s": 127.7,
   "tokens": 233,
   "kw": [
@@ -85379,16 +86434,178 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "meiner",
+    "Ich gehe gerne mit meiner besten Freundin shoppen. Wir treffen uns ungefähr dreimal",
+    79,
+    87,
+    5.57,
+    2
+   ],
+   [
+    "meinen",
+    "mir keinen Spaß. Ich liebe meinen Freund sehr, aber es gibt zu viele konservative",
+    106,
+    114,
+    5.52,
+    2
+   ],
+   [
+    "umgebung",
+    "Menschen in unserer Umgebung. Deshalb küsse ich meinen Freund nicht in der Öffentlichkeit.",
+    113,
+    121,
+    4.78,
+    1
+   ],
+   [
+    "freut",
+    "„Dein Make-up sieht schön aus“, sagen die Kunden manchmal. Das freut mich sehr.",
+    73,
+    80,
+    4.75,
+    1
+   ],
+   [
+    "gelbe",
+    "Gelb ist meine Lieblingsfarbe. Heute trage ich einen gelben Schal und gelbe Schuhe.",
+    50,
+    59,
+    4.18,
+    1
+   ],
+   [
+    "make",
+    "„Dein Make-up sieht schön aus“, sagen die Kunden manchmal. Das freut mich sehr.",
+    73,
+    80,
+    4.16,
+    1
+   ],
+   [
+    "gelben",
+    "Gelb ist meine Lieblingsfarbe. Heute trage ich einen gelben Schal und gelbe Schuhe.",
+    50,
+    59,
+    4.12,
+    1
+   ],
+   [
+    "empfehle",
+    "wische die Böden und berate die Kunden. Ich empfehle ihnen auch oft Produkte.",
+    65,
+    74,
+    4.06,
+    1
+   ],
+   [
+    "braune",
+    "Mein Name ist Leonie Trauner. Ich habe kurze braune Haare. Meine Augen sind braun und ein",
+    11,
+    20,
+    4.0,
+    1
+   ],
+   [
+    "konservative",
+    "mir keinen Spaß. Ich liebe meinen Freund sehr, aber es gibt zu viele konservative",
+    106,
+    114,
+    4.0,
+    1
+   ],
+   [
+    "riese",
+    "1,95 Meter groß. „Du bist ein Riese!“, sagen die Leute auf der Straße manchmal zu ihm.",
+    28,
+    38,
+    3.57,
+    1
+   ],
+   [
+    "koche",
+    "Mein Freund Klaus und ich gehen gerne ins Restaurant. Ich koche nicht gerne. Das macht",
+    98,
+    107,
+    3.56,
+    1
+   ],
+   [
+    "regale",
+    "Ich bin 28 Jahre alt und arbeite in einer Drogerie. Ich räume Schminkzeug in die Regale,",
+    58,
+    66,
+    3.47,
+    1
+   ],
+   [
+    "kleidungsstücke",
+    "Freund interessiert sich nicht für Mode. Ich trage aber immer moderne Kleidungsstücke.",
+    43,
+    51,
+    3.34,
+    1
+   ],
+   [
+    "drogerie",
+    "Ich bin 28 Jahre alt und arbeite in einer Drogerie. Ich räume Schminkzeug in die Regale,",
+    58,
+    66,
+    3.26,
+    1
+   ],
+   [
+    "lieblingsfarbe",
+    "Gelb ist meine Lieblingsfarbe. Heute trage ich einen gelben Schal und gelbe Schuhe.",
+    50,
+    59,
+    2.96,
+    1
+   ],
+   [
+    "berühmtheiten",
+    "Mode, Models, Berühmtheiten, Essen und unsere Partner.",
+    92,
+    99,
+    2.8,
+    1
+   ],
+   [
+    "berate",
+    "wische die Böden und berate die Kunden. Ich empfehle ihnen auch oft Produkte.",
+    65,
+    74,
+    2.73,
+    1
+   ],
+   [
+    "wische",
+    "wische die Böden und berate die Kunden. Ich empfehle ihnen auch oft Produkte.",
+    65,
+    74,
+    2.56,
+    1
+   ],
+   [
+    "schminkt",
+    "in der Woche. Sie schminkt sich auch gerne. Wir reden über Schminkzeug,",
+    86,
+    93,
+    2.45,
+    1
+   ]
+  ],
+  "voc": 0.04,
   "tx": "Leonie Trauner, aus Dortmund Mein Name ist Leonie Trauner. Ich habe kurze braune Haare. Meine Augen sind braun und ein bisschen grün. Ich bin 1,87 Meter groß. Viele Leute mögen meine Größe. Mein Freund Klaus ist 1,95 Meter groß. „Du bist ein Riese!“, sagen die Leute auf der Straße manchmal zu ihm. Ich schminke mich fast jeden Tag. Auch meine Kleidung ist mir wichtig. Mein Freund interessiert sich nicht für Mode. Ich trage aber immer moderne Kleidungsstücke. Gelb ist meine Lieblingsfarbe. Heute trage ich einen gelben Schal und gelbe Schuhe. Ich bin 28 Jahre alt und arbeite in einer Drogerie. Ich räume Schminkzeug in die Regale, wische die Böden und berate die Kunden. Ich empfehle ihnen auch oft Produkte. „Dein Make-up sieht schön aus“, sagen die Kunden manchmal. Das freut mich sehr. Ich gehe gerne mit meiner besten Freundin shoppen. Wir treffen uns ungefähr dreimal in der Woche. Sie schminkt sich auch gerne. Wir reden über Schminkzeug, Mode, Models, Berühmtheiten, Essen und unsere Partner. Mein Freund Klaus und ich gehen gerne ins Restaurant. Ich koche nicht gerne. Das macht mir keinen Spaß. Ich liebe meinen Freund sehr, aber es gibt zu viele konservative Menschen in unserer Umgebung. Deshalb küsse ich meinen Freund nicht in der Öffentlichkeit. In meiner Freizeit bin ich auch gerne im Internet. Ich schaue mir Filme oder kurze Videos an. Auch die Sozialmedien finde ich sehr spannend. Dort teile ich Fotos von",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.04
+  "src": "cc"
  },
  "wWWoLV5qCps": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T04:43:09+00:00",
+  "checked": "2026-11-26T22:54:31+00:00",
   "title": "(7/24) SCHNEEFLOCKEN BASTELN | comprehensible explaination for crafting snowflakes",
   "duration": 460,
   "published": "20211207",
@@ -85397,6 +86614,7 @@
   "pace": 68.0,
   "rare": 0.0833,
   "var": 0.6679,
+  "cl": null,
   "speech_s": 434.0,
   "tokens": 492,
   "kw": [
@@ -85545,16 +86763,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "seiten",
+    "44 ecken zwei seiten sind lang und zwei",
+    64,
+    77,
+    5.14,
+    3
+   ],
+   [
+    "einmal",
+    "und noch einmal ecke auf ecke falten",
+    191,
+    199,
+    5.66,
+    2
+   ],
+   [
+    "findest",
+    "schneeflocke findest du sie schön vielleicht kann ich hier noch schneiden",
+    313,
+    326,
+    4.74,
+    2
+   ],
+   [
+    "falsche",
+    "wir müssen das quadrat falsche ecke",
+    167,
+    182,
+    4.65,
+    2
+   ],
+   [
+    "falten",
+    "falten und noch einmal ecke auf ecke falten",
+    188,
+    199,
+    3.77,
+    2
+   ],
+   [
+    "hirn",
+    "hirn ein jetzt wir können auch auf diese seite kleine",
+    267,
+    279,
+    4.18,
+    1
+   ],
+   [
+    "siebte",
+    "heute ist dienstag der siebte dezember",
+    0,
+    10,
+    3.58,
+    1
+   ],
+   [
+    "dekoration",
+    "dekoration das hier ist unser papier",
+    45,
+    59,
+    3.55,
+    1
+   ],
+   [
+    "feierten",
+    "also feierten wir diese ecke hier rüber",
+    86,
+    99,
+    3.55,
+    1
+   ],
+   [
+    "falte",
+    "ich falte noch ein dreieck und schneidet",
+    391,
+    400,
+    2.98,
+    1
+   ],
+   [
+    "aufklappen",
+    "dreieck aufklappen ist es ein quadrat",
+    153,
+    164,
+    2.46,
+    1
+   ]
+  ],
+  "voc": 0.1402439024390244,
   "tx": "heute ist dienstag der siebte dezember 2021 und das video wird präsentiert von kath hallo und herzlich willkommen ich bin kathrin und wir lernen natürlich deutsch heute bastele ich mit meinen töchtern schneeflocken und ich will dir zeigen wie das geht wir basteln zusammen schneeflocken für die fenster zur dekoration das hier ist unser papier es ist ein a4 papier din a4 und es hat vier ecken 123 44 ecken zwei seiten sind lang und zwei seiten sind kurz es ist ein rechteck aber wir brauchen für unsere schneeflocke ein quadrat also feierten wir diese ecke hier rüber so kannte auf kante seite auf seite ecke auf ecke sehr gut jetzt ist das papier kein quadrat mehr kein rechteck meine ich hier ist immer noch ein rechteck und hier ist ein dreieck wir müssen an dieser kannte diese linie müssen wir abschneiden wir schneiden das papier hier ist das rechteck das brauchen wir nicht mehr und hier ist das dreieck 1233 ecken das dreieck wenn wir das dreieck aufklappen ist es ein quadrat und wir brauchen ein quadrat jetzt wie basteln wir eine schneeflocke wir müssen das quadrat falsche ecke ein dreieck jetzt diese ecke auf diese ecke falsche ecke und falten und noch einmal ecke auf ecke falten so sehr gut diese ecke ist offen wir sehen viele papiere viele einzelnen seiten diese ecke ist geschlossen oder zu die zu einer ecke müssen wir festhalten und jetzt können wir schneiden zum beispiel einen halbkreis oder ein großes dreieck vielleicht auch ein kleines dreieck und noch ein kleines dreieck was sollen wir noch schneiden einen großen halbkreis also wir schneiden eine sehr großen halbkreis bis hier nun ein hirn ein jetzt wir können auch auf diese seite kleine halbkreise schneiden es ist egal wir können schneiden wie wir wollen aber die zu einer ecke dürfen wir nicht schneiden wenn wir fertig sind öffnen wir die schneeflocke wir machen die schneeflocke wieder auf wir halten sie auf ich glaube das wird eine runde schneeflocke ja das ist eine runde schneeflocke findest du sie schön vielleicht kann ich hier noch schneiden also ich wollte die schneeflocke noch einmal zusammen und ich schneide noch ein bisschen mehr ich halte die schneeflocke auseinander und das ist sie jetzt gibt es noch mehr löcher in der schneeflocke jetzt ist meine tochter dran hier siehst du wie sie ihre schneeflocke schneidet sie schneidet kleine dreiecke die schneeflocke wir halten die schneeflocke auseinander ganz vorsichtig muss ich sein und hier ist die schneeflocke ich falte noch ein dreieck und schneidet dann das papier noch ein kleineres dreieck und jetzt kann ich die schneeflocke noch ein paar dreiecke und dann bin ich fertig ich wollte die schneeflocke auseinander hast du auch schon solche schneeflocken gefaltet und gebastelt vielleicht als du ein kind warst schreibe es in die kommentare ich lese es auf jeden fall in dieser playlist findest du alle videos aus unseren adventskalender ich wünsche dir viel spaß beim deutsch lernen bis morgen",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.1402439024390244
+  "src": "auto"
  },
  "GOdc67chxBc": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T04:48:59+00:00",
+  "checked": "2026-11-26T23:18:59+00:00",
   "title": "#720 Gustav Gruso, aus Italien - Deutsch lernen durch Hören - Niveau:A1-A2 - German stories @DldH",
   "duration": 155,
   "published": "20240402",
@@ -85563,6 +86871,7 @@
   "pace": 109.3,
   "rare": 0.048,
   "var": 0.7834,
+  "cl": null,
   "speech_s": 137.3,
   "tokens": 250,
   "kw": [
@@ -85639,11 +86948,149 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "frau",
+    "Links und rechts von meinem Haus sind viele Weinberge. Ich wohne mit meiner Frau,",
+    17,
+    25,
+    5.66,
+    2
+   ],
+   [
+    "werde",
+    "Arzt: „Werde ich sterben?“ Der Arzt sagte: „Das weiß ich nicht.“ Auch meine Frau war sehr traurig.",
+    41,
+    53,
+    5.6,
+    2
+   ],
+   [
+    "gesund",
+    "Ich gehe an die frische Luft und vermeide Stress. Ich möchte gesund sein. Deshalb konzentriere ich",
+    69,
+    79,
+    4.56,
+    2
+   ],
+   [
+    "trinken",
+    "Nachbarn. Wir trinken oft ein Glas Wein und unterhalten uns über verschiedene",
+    138,
+    146,
+    4.76,
+    1
+   ],
+   [
+    "gesunde",
+    "gesunde Lebensmittel. Ich trainiere meinen Körper und mache Yoga. Ich meditiere auch.",
+    60,
+    70,
+    4.15,
+    1
+   ],
+   [
+    "wohne",
+    "Links und rechts von meinem Haus sind viele Weinberge. Ich wohne mit meiner Frau,",
+    17,
+    25,
+    4.14,
+    1
+   ],
+   [
+    "lustige",
+    "bringen mir gesundes Essen, erzählen mir lustige Geschichten und gehen mit mir",
+    100,
+    107,
+    4.12,
+    1
+   ],
+   [
+    "malen",
+    "Ich liebe Modellautos. Mit meinem Sohn baue ich gerne neue Autos aus Holz. Dann malen wir sie",
+    114,
+    124,
+    4.11,
+    1
+   ],
+   [
+    "motiviert",
+    "Aber jetzt bin ich motiviert. Mein Sohn weiß nicht, dass ich krank bin. Ich esse jeden Tag",
+    52,
+    61,
+    4.11,
+    1
+   ],
+   [
+    "glatze",
+    "bin erst 33 Jahre alt, aber ich habe keine Haare mehr. Jetzt habe ich eine Glatze.",
+    85,
+    95,
+    3.46,
+    1
+   ],
+   [
+    "elektriker",
+    "spazieren. Wegen meiner Krankheit kann ich nicht arbeiten. Ich bin Elektriker.",
+    106,
+    115,
+    3.43,
+    1
+   ],
+   [
+    "chemotherapie",
+    "mich auf die schönen Dinge im Leben. Leider werde ich mit Chemotherapie behandelt. Ich",
+    78,
+    86,
+    3.31,
+    1
+   ],
+   [
+    "weinberge",
+    "Links und rechts von meinem Haus sind viele Weinberge. Ich wohne mit meiner Frau,",
+    17,
+    25,
+    3.25,
+    1
+   ],
+   [
+    "lungenkrebs",
+    "meinem Sohn und meiner Katze zusammen. Leider bin ich krank. Ich habe Lungenkrebs.",
+    24,
+    33,
+    3.23,
+    1
+   ],
+   [
+    "konzentriere",
+    "Ich gehe an die frische Luft und vermeide Stress. Ich möchte gesund sein. Deshalb konzentriere ich",
+    69,
+    79,
+    3.2,
+    1
+   ],
+   [
+    "modellautos",
+    "Ich liebe Modellautos. Mit meinem Sohn baue ich gerne neue Autos aus Holz. Dann malen wir sie",
+    114,
+    124,
+    2.41,
+    1
+   ],
+   [
+    "meditiere",
+    "gesunde Lebensmittel. Ich trainiere meinen Körper und mache Yoga. Ich meditiere auch.",
+    60,
+    70,
+    2.08,
+    1
+   ]
+  ],
+  "voc": 0.04060913705583756,
   "tx": "Gustav Gruso, aus Italien Ich bin Gustav Gruso. Ich komme aus Italien und lebe in einem kleinen Dorf auf dem Land. Links und rechts von meinem Haus sind viele Weinberge. Ich wohne mit meiner Frau, meinem Sohn und meiner Katze zusammen. Leider bin ich krank. Ich habe Lungenkrebs. Vor zwei Monaten habe ich erfahren, dass ich Krebs habe. Das hat mir Angst gemacht. Ich fragte den Arzt: „Werde ich sterben?“ Der Arzt sagte: „Das weiß ich nicht.“ Auch meine Frau war sehr traurig. Aber jetzt bin ich motiviert. Mein Sohn weiß nicht, dass ich krank bin. Ich esse jeden Tag gesunde Lebensmittel. Ich trainiere meinen Körper und mache Yoga. Ich meditiere auch. Ich gehe an die frische Luft und vermeide Stress. Ich möchte gesund sein. Deshalb konzentriere ich mich auf die schönen Dinge im Leben. Leider werde ich mit Chemotherapie behandelt. Ich bin erst 33 Jahre alt, aber ich habe keine Haare mehr. Jetzt habe ich eine Glatze. Früher hatte ich schwarze Haare. Die Leute im Dorf helfen mir. Sie bringen mir gesundes Essen, erzählen mir lustige Geschichten und gehen mit mir spazieren. Wegen meiner Krankheit kann ich nicht arbeiten. Ich bin Elektriker. Ich liebe Modellautos. Mit meinem Sohn baue ich gerne neue Autos aus Holz. Dann malen wir sie bunt und spielen mit ihnen. Wenn ich mit meinem Sohn spiele, vergesse ich meine Krankheit. Ich fühle mich dann immer fit und gesund. An den Wochenenden besuche ich meine Nachbarn. Wir trinken oft ein Glas Wein und unterhalten uns über verschiedene",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.04060913705583756
+  "src": "cc"
  },
  "63YWfILQfVs": {
   "channel": "Mascha und der Bär",
@@ -85659,7 +87106,7 @@
  "DwWTux1lxMA": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T05:00:32+00:00",
+  "checked": "2026-11-26T23:18:56+00:00",
   "title": "(11/24) CHRISTKINDLMARKT IN NÜRNBERG | Weihnachtsmarkt 2021",
   "duration": 408,
   "published": "20211210",
@@ -85668,6 +87115,7 @@
   "pace": 107.1,
   "rare": 0.0896,
   "var": 0.8192,
+  "cl": null,
   "speech_s": 393.9,
   "tokens": 703,
   "kw": [
@@ -85824,16 +87272,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sehen",
+    "Christkindlesmarkt aber ihr Können sehen hier ist normalerweise der",
+    29,
+    39,
+    5.69,
+    3
+   ],
+   [
+    "alt",
+    "diese Kugel ist schon sehr sehr alt",
+    214,
+    220,
+    5.16,
+    3
+   ],
+   [
+    "möglichen",
+    "Lebkuchen also alle möglichen Weihnachtssachen der Weihnachtsmarkt",
+    68,
+    78,
+    4.61,
+    2
+   ],
+   [
+    "stammt",
+    "handgemacht und stammt aus Quedlinburg Quedlinburg ist eine sehr nette kleine",
+    229,
+    239,
+    4.58,
+    2
+   ],
+   [
+    "sachs",
+    "Standorte z.b. auf dem Hans-Sachs-Platz die Kinderweihnacht oder der Markt der",
+    118,
+    127,
+    3.73,
+    2
+   ],
+   [
+    "balkon",
+    "steht da auf dem Balkon unter der Uhr",
+    103,
+    110,
+    4.19,
+    1
+   ],
+   [
+    "quedlinburg",
+    "handgemacht und stammt aus Quedlinburg Quedlinburg ist eine sehr nette kleine",
+    229,
+    239,
+    3.12,
+    2
+   ],
+   [
+    "blonden",
+    "Krone dir aus goldlocken die blonden",
+    134,
+    143,
+    3.55,
+    1
+   ],
+   [
+    "rentier",
+    "Rentier ich schaue hast du mein Engel",
+    168,
+    182,
+    2.93,
+    1
+   ],
+   [
+    "walnuss",
+    "Pflaumen gemacht hier in Walnuss und",
+    318,
+    324,
+    2.87,
+    1
+   ],
+   [
+    "nussknacker",
+    "Nussknacker also solche Sachen kann man auch",
+    250,
+    257,
+    2.85,
+    1
+   ]
+  ],
+  "voc": 0.024734982332155476,
   "tx": "heute ist Samstag der 11. Dezember 2021 und das Video wird präsentiert von Aileen wir könnten wo ich bin ja ich bin in Nürnberg auf dem Weihnachtsmarkt auf dem Christkindlesmarkt aber ihr Können sehen hier ist normalerweise der Christkindlesmarkt aber in diesem Jahr ist alles leer also in diesem Jahr gibt es keinem Weihnachtsmarkt also soweit wir wissen ist der Nürnberger Christkindlesmarkt einer der ältesten oder vielleicht sogar der älteste in Deutschland auf jeden Fall ist er sehr sehr berühmt normalerweise sind ja ganz viele Buden in den kann man Glühwein trinken oder eine Bratwurst essen Christbaumschmuck einkaufen oder Lebkuchen also alle möglichen Weihnachtssachen der Weihnachtsmarkt wird auch traditionell vom Christkind eröffnet Christkind das Christkind ist ein Mädchen so um die 17 oder 18 und wird jedes Jahr neu gewählt es muss eine Nürnbergerin sein also ein Mädchen oder eine Frau die in Nürnberg geboren wurde und das Christkind eröffnet hier hinter mir da bei der Frauenkirche normalerweise den Weihnachtsmarkt die steht da auf dem Balkon unter der Uhr und eröffnet den Markt ich zeige euch hier mal den Hauptmarkt auf dem normalerweise der Hauptteil des Nürnberger Christkindlesmarkt stattfindet es gibt auch noch andere Standorte z.b. auf dem Hans-Sachs-Platz die Kinderweihnacht oder der Markt der Partnerstädte der ist hinter dem Rathaus so in etwa sieht das Nürnberger Christkind aus nur natürlich lebendig also es trägt die Krone dir aus goldlocken die blonden Locken und das Kostüm das Christkind ähnelt sehr dem Rauschgoldengel den man auf die Spitze eines Christbaums steckt also ein Christbaumschmuck wir haben davon auch einen den suche ich jetzt mal mit euch zusammen also hier sind ganz viele Weihnachtskugeln zum Teil selbst gemacht jetzt einen Fichtenzapfen und Rentier ich schaue hast du mein Engel ich ein bisschen vorsichtig sein glaube noch nicht hier das versteckt sich etwas das ist unser Rauschgold gerade noch ein paar Strohsterne dabei das ist alles Dekoration für unseren Weihnachtsbaum aber den dekorieren wir erst direkt am Heiligabend also am Vormittag von Heiligabend am 24.12 hier sieht man diese Kugel ist schon sehr sehr alt zum Teil ist das Weihnachtsbaumschmuck in der 3. 4. Generation ich habe das eine sehr bunte Mischung manche Sachen sind auch neu das ESZB handgemacht und stammt aus Quedlinburg Quedlinburg ist eine sehr nette kleine startender den wunderschönen Weihnachtsmarkt also wenn wir stattfindet lohnt sich das Essen doch so Nüsse Walnüsse und vier Söhne der Nussknacker also solche Sachen kann man auch normalerweise auf dem Weihnachtsmarkt kaufen ihr seht ich muss nichts mehr kaufen und wer versteckt sich unser Rauschgoldengel wer sehr sehr alt ist dass ich den haben wir ja schon sehr lange und er sieht auch die Haare sind nicht mehr ganz so sehr in Form der sieht dem Christkind doch schon ähnlich ja und den haben wir schon ich weiß nicht vielleicht vor meiner Geburt also der ist über 30 Jahre alt da muss ich fast noch mal Fragen der ist auch handgemacht vielleicht ist er auch vom ich denke mal der ist schon Nürnberger Christkindlmarkt bin mir fast sicher gehe jetzt noch mal kurz in das Studium meines Mannes denn da versteckt sich auch noch etwas das man auf dem Weihnachtsmarkt in Nürnberg kaufen kann zeig mal gespannt also das hier ist ein zwetschgenmännchen oder auch zwetschgenmandl ihr seht der ist aus Zwetschgen also aus getrockneten Pflaumen gemacht hier in Walnuss und solche Menschen kann man auch auf dem Nürnberger Christkindlesmarkt kaufen die sind ganz berühmt dort da gibt es alle möglichen verschiedenen Märchen so sollte der Weihnachtsmarkt in Nürnberg normalerweise Aussehen vor ein paar Wochen war ich auch schon einmal auf dem Hans-Sachs-Platz und mir die Kinder Weihnachten bisschen anzuschauen denn ja es war schon alles perfekt aufgebaut wie ihr sehen könnt hier ist eine Grippe oder da kann man noch ein paar Buden sehen und die Fahrgeschäfte denn hier gibt es ein Karussell z.b. leider kann das Karussell in diesem Jahr nicht fahren und es gibt noch ein paar andere Fahrgeschäfte z.b. eine Eisenbahn wart ihr schonmal auf dem Nürnberger Christkindlesmarkt und das Buch mit dem Weihnachtsmarkt stammt übrigens aus dem Nürnberg Wimmelbuch von Peter Engel beim Verlag Edition bunte Hunde in dieser Playlist findest du alle unsere Adventskalender Videos und morgen sind wir zurück mit einem neuen Video",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.024734982332155476
+  "src": "auto"
  },
  "JP4Ht_cJJWQ": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T05:00:36+00:00",
+  "checked": "2026-11-26T23:26:05+00:00",
   "title": "(12/24) REDEWENDUNGEN | Adventskalender zum Deutsch lernen 2021",
   "duration": 261,
   "published": "20211211",
@@ -85842,6 +87380,7 @@
   "pace": 100.8,
   "rare": 0.0884,
   "var": 0.782,
+  "cl": null,
   "speech_s": 175.0,
   "tokens": 294,
   "kw": [
@@ -85942,16 +87481,154 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "vielleicht",
+    "und wir ja vielleicht schon bist",
+    21,
+    27,
+    5.72,
+    1
+   ],
+   [
+    "bitte",
+    "kennen lernen möchtest schau doch bitte",
+    138,
+    144,
+    5.7,
+    1
+   ],
+   [
+    "nie",
+    "renate meldet sich nie ab sie",
+    66,
+    74,
+    5.67,
+    1
+   ],
+   [
+    "aufgaben",
+    "macht nur die aufgaben die ihm gefallen",
+    99,
+    107,
+    4.79,
+    1
+   ],
+   [
+    "findest",
+    "in dieser playlist findest du alle",
+    247,
+    256,
+    4.74,
+    1
+   ],
+   [
+    "mio",
+    "sind wir wieder zurück mit einem 9 mio",
+    255,
+    262,
+    4.66,
+    1
+   ],
+   [
+    "verschwindet",
+    "verschwindet einfach aus den meetings das geht mir auf den keks",
+    70,
+    78,
+    4.19,
+    1
+   ],
+   [
+    "instagram",
+    "instagram kanal und vernetze dich gerne",
+    143,
+    151,
+    4.12,
+    1
+   ],
+   [
+    "renate",
+    "renate meldet sich nie ab sie",
+    66,
+    74,
+    3.84,
+    1
+   ],
+   [
+    "kassiert",
+    "2021 und das video wird kassiert von",
+    4,
+    14,
+    3.83,
+    1
+   ],
+   [
+    "negatives",
+    "immer eher etwas negatives schreibt doch mal in die kommentare",
+    116,
+    126,
+    3.55,
+    1
+   ],
+   [
+    "weihnachtszeit",
+    "und passend zu der weihnachtszeit gibt",
+    26,
+    33,
+    3.55,
+    1
+   ],
+   [
+    "beschäftige",
+    "beschäftige ich mich mit redewendungen und passend zu der weihnachtszeit gibt",
+    24,
+    33,
+    3.49,
+    1
+   ],
+   [
+    "worldwide",
+    "auf learn the worldwide auf meinem",
+    140,
+    147,
+    2.95,
+    1
+   ],
+   [
+    "picken",
+    "sich die rosinen aus dem kuchen picken",
+    82,
+    89,
+    2.91,
+    1
+   ],
+   [
+    "unzuverlässigkeit",
+    "unzuverlässigkeit geht mir auf den keks",
+    62,
+    71,
+    2.65,
+    1
+   ],
+   [
+    "herausholt",
+    "herausholt thomas ist so lange in der firma und",
+    94,
+    103,
+    2.22,
+    1
+   ]
+  ],
+  "voc": 0.11945392491467577,
   "tx": "heute ist sonntag der zwölfte dezember 2021 und das video wird kassiert von maggie hallo ihr lieben ich bin heute dran mit unserem adventskalender und wir ja vielleicht schon bist beschäftige ich mich mit redewendungen und passend zu der weihnachtszeit gibt es eine redewendung die besonders gut passt nämlich es geht mir auf den keks wenn wir jemand auf den keks geht dann bedeutet das dass sich diese person besonders nervt es kann dir auch etwas auf den keks gehen das bedeutet dass sich eine situation besonders nervt ich kann dir ein paar beispiele geben jetzt ist der zug schon wieder 15 minuten verspätet diese unzuverlässigkeit geht mir auf den keks renate meldet sich nie ab sie verschwindet einfach aus den meetings das geht mir auf den keks sich die rosinen aus dem kuchen picken wenn man sich die rosinen aus dem kuchen pickt dann bedeutet das dass man sich immer nur das beste aus dem gesamten herausholt thomas ist so lange in der firma und macht nur die aufgaben die ihm gefallen er pickt sich also nur die rosinen aus dem kuchen das gefällt den anderen mitarbeitern gar nicht wenn sich eine person die rosinen aus dem kuchen pickt dann ist das also immer eher etwas negatives schreibt doch mal in die kommentare welche situationen kennst du in denen sich eine person die rosinen aus dem kuchen pickt wir sind natürlich alle gespannt von dir zu hören und freuen uns über deine kommentare hier wenn du noch weitere redewendungen kennen lernen möchtest schau doch bitte auf learn the worldwide auf meinem instagram kanal und vernetze dich gerne mit allen deutschlehrern die hier auf diesem kanal etwas präsentieren in dieser playlist findest du alle unsere adventskalender videos und morgen sind wir wieder zurück mit einem 9 mio",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.11945392491467577
+  "src": "auto"
  },
  "MPk_v29DhMM": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T05:04:05+00:00",
+  "checked": "2026-11-26T23:19:08+00:00",
   "title": "German Vlog #59 - Glück #3 Glück nur in der Zukunft!?",
   "duration": 265,
   "published": "20171227",
@@ -85960,6 +87637,7 @@
   "pace": 112.5,
   "rare": 0.012,
   "var": 0.7111,
+  "cl": null,
   "speech_s": 266.1,
   "tokens": 499,
   "kw": [
@@ -86044,16 +87722,114 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "sehen",
+    "dem glück ist viele leute sehen das",
+    19,
+    29,
+    5.69,
+    6
+   ],
+   [
+    "warum",
+    "aber warum ist das glück immer nur in",
+    82,
+    91,
+    5.75,
+    3
+   ],
+   [
+    "hundert",
+    "ja wir brauchen nur ein paar hundert",
+    150,
+    156,
+    4.53,
+    2
+   ],
+   [
+    "youtube",
+    "youtube ist und dieses video schaust",
+    188,
+    197,
+    4.78,
+    1
+   ],
+   [
+    "reiter",
+    "unsere reiter ja selbst wenn du in einem",
+    167,
+    175,
+    4.17,
+    1
+   ],
+   [
+    "neugierig",
+    "stelle die frage wo ich sehr neugierig",
+    248,
+    255,
+    4.15,
+    1
+   ],
+   [
+    "beweist",
+    "beweist mir das viel reicher bist als",
+    190,
+    201,
+    4.12,
+    1
+   ],
+   [
+    "umstand",
+    "allein schon der umstand dass du auf",
+    184,
+    191,
+    3.99,
+    1
+   ],
+   [
+    "erstaunt",
+    "wäre er total erstaunt deswegen denke ich dass das glück nicht",
+    213,
+    222,
+    3.97,
+    1
+   ],
+   [
+    "gesegnet",
+    "eigentlich sehr gesegnet sind ja dass",
+    140,
+    150,
+    3.5,
+    1
+   ],
+   [
+    "ärmer",
+    "dass früher die leute sehr viel ärmer",
+    155,
+    164,
+    3.32,
+    1
+   ],
+   [
+    "hectors",
+    "buch hectors reise oder die suche nach",
+    16,
+    26,
+    2.07,
+    1
+   ]
+  ],
+  "voc": 0.04008016032064128,
   "tx": "hallo ich bin marco von antic germanwings.com und dies ist mein drittes video in einer serie über das glück und die dritte lektion aus dem buch hectors reise oder die suche nach dem glück ist viele leute sehen das glück in der zukunft viele leute sehen das glück nur in der zukunft wie ist es mit dir siehst du dein glück nur in der zukunft oder siehst du auch einen weg wie du im hier und jetzt in der gegenwart glücklich sein kannst ich denke das ist eine sehr wichtige lektion ja ich denke es ist sehr wichtig sich das bewusst zu machen viele leute sehen das glück nur in der zukunft wenn ich das haus habe dann bin ich glücklich wenn ich die perfekte freundin habe bin ich glücklich wenn ich das auto habe bin ich glücklich wenn ich fließend deutsch spreche bin ich glücklich wenn ich in deutschland bin bin ich glücklich aber warum ist das glück immer nur in der zukunft warum können wir nicht im hier und jetzt glücklich sein die lektion aus dem buch gesagt viele leute sehen das glück nur in der zukunft es gibt keinen grund warum wir zu diesen leuten gehören sollten ja wir können auch anders denken wir können uns auch dazu entscheiden im hier und jetzt glücklich zu sein wir können uns überlegen was und sie jetzt glücklich machen kann wir können uns überlegen was wir alles für für tolle dinge jetzt haben ja wir können dankbar sein für das was wir haben können uns bewusst machen was wir eigentlich sehr gesegnet sind ja dass wir ein leben führen dass sehr viele vorteile hat ja wir brauchen nur ein paar hundert jahre zurück denken und uns überlegen dass früher die leute sehr viel ärmer waren als heute sehr viel weniger zu essen haben usw der sehr viel weniger zu essen hatten unsere reiter ja selbst wenn du in einem dritte welt land lebt selbst wenn du in einem armen land lebst hast du viel mehr als die leute vor ein paar hundert jahren allein schon der umstand dass du auf youtube ist und dieses video schaust beweist mir das viel reicher bist als ein ägyptischer könig sagen wir hier sagen wir mal ja vor 100 jahren ein ägyptischer könig hatte ganze macht ja viele viele menschen aber wenn man ihn in die heutige zeit versetzen würde dann wäre er total erstaunt deswegen denke ich dass das glück nicht nur in der zukunft sein kann sondern auch im hier und jetzt was denkst du ist es wahr dass viele leute das glück nur in der zukunft sehen und was denkst du über dein glück bist du im hier und jetzt glücklich oder bist du erst in der zukunft glücklich ja das ist die frage die ich dir heute stelle die frage wo ich sehr neugierig bin was du darüber denkst ich bin gespannt was du denkst sagen wir bescheid in den kommentaren und wir sehen uns morgen mit der vierten lektion",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.04008016032064128
+  "src": "auto"
  },
  "AZU8UWhP37U": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-13T05:04:09+00:00",
+  "checked": "2026-11-26T23:02:18+00:00",
   "title": "Mascha und der Bär 💥 NEUE FOLGE 2025 💥 Kein Stück vom Himmel🦜🌆❌ (Folge 125)",
   "duration": 808,
   "published": "20251205",
@@ -86062,6 +87838,7 @@
   "pace": 86.0,
   "rare": 0.1294,
   "var": 0.8249,
+  "cl": null,
   "speech_s": 420.5,
   "tokens": 603,
   "kw": [
@@ -86218,16 +87995,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "wohl",
+    "Das war's dann wohl ihr Trottel.",
+    358,
+    363,
+    5.73,
+    2
+   ],
+   [
+    "vielleicht",
+    "Hallo Jungs, habt ihr denn vielleicht",
+    328,
+    334,
+    5.72,
+    2
+   ],
+   [
+    "gast",
+    "hast den Gast rausgeworfen. Hurra! Mein Täubchen ist wieder hier.",
+    530,
+    547,
+    4.59,
+    2
+   ],
+   [
+    "vogel",
+    "Da kommt er. Ja, komm hierher, Vogel.",
+    428,
+    435,
+    4.45,
+    2
+   ],
+   [
+    "frech",
+    "Sei nicht so frech. Das sagst ausgerechnet du.",
+    119,
+    128,
+    3.84,
+    2
+   ],
+   [
+    "beibringen",
+    "Manieren beibringen. Sag mal, der Bär ist sehr lieb und Masha",
+    144,
+    156,
+    3.75,
+    2
+   ],
+   [
+    "manieren",
+    "Manieren beibringen. Sag mal, der Bär ist sehr lieb und Masha",
+    144,
+    156,
+    3.29,
+    2
+   ],
+   [
+    "erklär",
+    "jetzt erklär, denn in jedem Vogelschwarm",
+    168,
+    174,
+    3.58,
+    1
+   ],
+   [
+    "blücher",
+    "ich tun soll, du kleiner Blücher. Dicht",
+    164,
+    169,
+    2.99,
+    1
+   ],
+   [
+    "braver",
+    "So ein braver Vogel. Täubchen, du bist",
+    481,
+    487,
+    2.99,
+    1
+   ],
+   [
+    "streuner",
+    "Also gut, ihr Streuner, weil es mal",
+    289,
+    294,
+    2.85,
+    1
+   ]
+  ],
+  "voc": 0.126953125,
   "tx": "Kein Stück vom Himmel. Hokus pokus tralala. Ah, jetzt weiß ich, wie es funktioniert. Ich muss nur fokussiert bleiben. Umba samba cha cha. Hopla. Hallo ihr hübschen Täubchen. Was für eine tolle Begrüßung. Sagt hallo zu eurem Mitbewohner. Willkommen, neuer Mitbewohner. Seht euch das an. Da spielt sich einer als Boss auf. Zerstörung. Katastrophe. Hilfe. Er dreht durch. Angriff. Der Brombär wurde gestürzt. Ein Momentchen. Lass mich das lösen. Lass es sie klären. Sie klären. Sie wird es auch ohne dich Bromkaflösen. Sei nicht so frech. Das sagst ausgerechnet du. Ich war schon frech als Küken. Pass mal besser auf. Ja, ich bin Gederber, Fluche und genau und ich beschäfe jeden zu was sich einen traut. Denn gemeine Wörter, die kenne ich zu Haus. Viele schlimme Wörter. Hops Kaka. Ich glaube, wir sollten dir ein paar Manieren beibringen. Sag mal, der Bär ist sehr lieb und Masha ist sehr nett. Fürchterlich. Wenn du keinen Schreib willst, belehrst mich lieber nicht. Sag mir nicht, was ich tun soll, du kleiner Blücher. Dicht mach dir in die Hose, wenn ich dich jetzt erklär, denn in jedem Vogelschwarm bin ich der große Chef. In Vogelsfarm bin ich der große Chef. Nacht, probier noch mal. Masha, ist schlau. Der Bär ist voll lustig. Mit Haustieren muss man fertig sein. Mein Papa, Papa, Papa Papagei. Ich lieb die Reiberei. Ein Papa, Papa Papa Papagei legt nach Schiffen. Ich reie. Wie bringen wir dir bloß mal Niern bei? Komm zurück, du wirst da draußen erfrieren. Ariider, du Nervensäge wir müssen nach den Papageien sehen. Er könnte in der Kälte erfrieren. Also Rio de Janeiro ist das nicht hier. Nicht erfrieren, nicht erfrieren, nicht erfrieren. Toll, das war's. Bär, Bär, sieh doch dort. Also gut, ihr Streuner, weil es mal ordentlich ein. Ich bin hungrig wie ein Wolf. Habt ihr was zu knabbern? Freunde, verzeiht mir. Hört auf mit dem Quich bitte los. Gute Jungs, feine Hühnchen. Ganz brav. Hallo Jungs, habt ihr denn vielleicht meinen Papage gesehen? So, Hilfe! Katastrophe! Hurra! Wir haben den Papagei gefunden. Hey, das da das unser Papagei. Das war's dann wohl ihr Trottel. Hi. Wir müssen euch und dir wohl noch Manieren beibringen. Stimmt's? Bär. Also gut, dann fangen wir doch mal mit dir an. Ja, das hier ist wirklich nicht Rio de Janeo. Dann gut. B, was machst du? Lass uns einen Mistkasten bauen. Oh, wow, schon fertig. Fehlt nur noch der Starb. Da kommt er. Ja, komm hierher, Vogel. Komm her. Komm her. Äh, das ist kein Star. Ah, das ist eine Taube. Gula, gula gula, gula. Warte, warte, warte. Ich möchte die Taube auch mal halten. So ein braver Vogel. Täubchen, du bist so lieb. Lass uns einen Spaziergang machen. Puh, wir sind müde von unserem Spaziergang. Wir bleiben ein bisschen hier bei Per, jamäst du dich denn gar nicht? Du hast den Gast rausgeworfen. Hurra! Mein Täubchen ist wieder hier. Ui, ich glaube, sie hat Hunger. Bea, du musst deinem Gast was zu essen anbieten. Mach doch langsam. und schling nicht so. Hey Bär, du solltest deine Gäste unterhalten. Zeig uns seine Zaubertricks. Ja. Los, zeig uns noch mehr Tricks. Gur g. Ui, welches ist mein Täubchen? Tächen. Spitzenmäßige Tricksbär. Gur gur gur gur gur gur guru guru guru oh deckung Bär, Bär. Sieh mal, sieh mal. G So, so, so, so. Warum sind denn alle meine Videos verschwunden? Hm, dann beginnen wir mal mit der Suche. 1 2 3 4 5 und 6. Vielleicht finde ich sie ja hier oben rechts. Das Mikrofon klicke ich jetzt an und sage Mas und der Bär ist dran. Das war einfach. Und jetzt probiert ihr es mal. Amen.",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.126953125
+  "src": "auto"
  },
  "ZfSum3y_kz4": {
   "channel": "comprehensible GERMANi",
   "lang": "de",
-  "checked": "2026-11-13T05:12:50+00:00",
+  "checked": "2026-11-26T23:26:08+00:00",
   "title": "(13/24) WEIHNACHTSKEKSE und FORMEN | comprehensible input for Intermediate Beginners",
   "duration": 429,
   "published": "20211212",
@@ -86236,6 +88103,7 @@
   "pace": 74.9,
   "rare": 0.071,
   "var": 0.7109,
+  "cl": null,
   "speech_s": 417.4,
   "tokens": 521,
   "kw": [
@@ -86376,16 +88244,122 @@
     3
    ]
   ],
+  "kx": [
+   [
+    "herzen",
+    "steche in den teig ich steche herzen aus",
+    113,
+    127,
+    4.81,
+    3
+   ],
+   [
+    "neuen",
+    "einem neuen video in dieser playlist findest du alle",
+    408,
+    421,
+    5.63,
+    2
+   ],
+   [
+    "nächstes",
+    "und schön groß als nächstes brauche ich",
+    102,
+    114,
+    4.62,
+    3
+   ],
+   [
+    "sterne",
+    "und ich steche viele sterne aus die",
+    136,
+    146,
+    4.44,
+    3
+   ],
+   [
+    "wähle",
+    "ich wähle den teig aus oder ich rolle",
+    90,
+    103,
+    3.95,
+    2
+   ],
+   [
+    "mehl",
+    "sehr gut ich brauche etwas mehl",
+    315,
+    322,
+    3.83,
+    2
+   ],
+   [
+    "advent",
+    "zum advent und zu weihnachten gehören natürlich auch",
+    22,
+    33,
+    3.55,
+    1
+   ],
+   [
+    "monde",
+    "viele hunde ich steche monde aus das",
+    164,
+    175,
+    3.53,
+    1
+   ],
+   [
+    "erkennst",
+    "hier ist noch ein geschenk erkennst du",
+    234,
+    243,
+    3.5,
+    1
+   ],
+   [
+    "kneten",
+    "zuerst muss ich den teig kneten so wird",
+    69,
+    79,
+    2.98,
+    1
+   ],
+   [
+    "körnchen",
+    "das nächste körnchen ist ein baum ein",
+    179,
+    191,
+    2.65,
+    1
+   ],
+   [
+    "weihnachtsbäume",
+    "weihnachtsbäume aus was haben wir hier das ist ein engel der",
+    195,
+    209,
+    2.65,
+    1
+   ],
+   [
+    "ausgestochen",
+    "ausgestochen die nächste form ist ein mond der mut",
+    145,
+    158,
+    2.6,
+    1
+   ]
+  ],
+  "voc": 0.14779270633397312,
   "tx": "heute ist montag der 13 dezember 2021 das video wird präsentiert von kathrin hallo herzlich willkommen in kathrin und wir lernen natürlich deutsch zum advent und zu weihnachten gehören natürlich auch plätzchen oder kunst oder kekse oder ausstecher oder bradley es gibt so viele worte für weihnachtskekse und es gibt auch viele verschiedene formen heute möchte ich über die formen sprechen und auch ein paar vokabeln zum thema backen erklären zuerst muss ich den teig kneten so wird der teig schön weich und dann muss ich den teig auswählen ich habe einen welt holz oder auch nudelholz und ich wähle den teig aus oder ich rolle den teig aus ich mache ihm ganze nacht und schön groß als nächstes brauche ich die ausstecher das ist ein herz und ich steche in den teig ich steche herzen aus das werden meine letzten viele herzen als nächstes nehme ich einen stern der stern und ich steche viele sterne aus die sterne werden ausgestochen die nächste form ist ein mond der mut und ich steche mond plätzchen aus dem teig aus viele hunde ich steche monde aus das ausstechen ist aus metall das hier ist aus plastik es gibt beides das nächste körnchen ist ein baum ein tannenbaum das passt gut zu weihnachten und ich steche auch tannenbäume oder weihnachtsbäume aus was haben wir hier das ist ein engel der kopf die flügel und ein rock oder ein kleid das ist ein engel hier noch ein engel plätzchen dieses ausstechen ist auch aus metall und es passt sehr gut zu weihnachten der weihnachtsengel zum beispiel hier ist noch ein geschenk erkennst du es hier ist eine schleife da ist das geschenk es passt hier auf den teig und ich steche noch ein paar geschenke aus als nächstes brauche ich ein blech und ein backpapier hier kann ich die plätzchen auf das blech legen was haben wir ein engel ein geschenk sterne mein mund herzen alle plätzchen müssen jetzt auf das blech gelegt werden vorsichtig das geschenk kommt auf das blech die reste knete ich wieder zusammen zu einem klumpen oder zu einem ball ich nehme noch mehr teig dazu ich knete den teig zusammen damit ich noch mehr ausstecher ausstechen kann damit ich weiter backen kann sehr gut ich brauche etwas mehl und ich wähle den teig mit dem well holz wieder aus noch etwas mehl damit der teig nicht klebt und ich rolle den teig raus jetzt kommt eine neue form ein weihnachtsmann oder nikolaus die mütze und ein großer sack mit geschenken hier siehst du die stiefel und ich steche ein paar weihnachtsmänner oder nikoläuse aus die letzte form für heute ist ein schneemann hier hat der schneemann einen hut oder zylinder der kopf der bauch das ist aus schnee also noch ein paar schneemänner zum abschluss ich hoffe dieses video hat dir spaß gemacht vielleicht hast du jetzt auch lust etwas zu backen ich wünsche dir viel spaß und viel erfolg beim deutsch lernen und bis morgen wir sehen uns in einem neuen video in dieser playlist findest du alle videos zu unseren adventskalender und morgen sind wir zurück mit einem neuen video",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.14779270633397312
+  "src": "auto"
  },
  "wEUphqW1TvI": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T05:12:59+00:00",
+  "checked": "2026-11-26T23:26:14+00:00",
   "title": "#903 Das Verschwinden der Millionärin  [Krimi-Serien: Max und seine Freunde] Niveau: C1-C2 @DldH",
   "duration": 331,
   "published": "20250820",
@@ -86394,6 +88368,7 @@
   "pace": 98.1,
   "rare": 0.0795,
   "var": 0.8686,
+  "cl": null,
   "speech_s": 307.6,
   "tokens": 503,
   "kw": [
@@ -86550,16 +88525,106 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "kollegen",
+    "Aktivitäten genutzt wird. Zusammen mit zwei Kollegen macht er sich auf den Weg.",
+    202,
+    211,
+    4.83,
+    3
+   ],
+   [
+    "seinen",
+    "Bei seinen Recherchen stößt Max auf ein geheimes Tagebuch, das Isabella versteckt",
+    73,
+    80,
+    5.72,
+    2
+   ],
+   [
+    "ehemann",
+    "bietet dem Ehemann, Maximilian von Hohenberg, seine Hilfe an und will den Fall lösen. Er",
+    49,
+    58,
+    4.26,
+    2
+   ],
+   [
+    "genutzt",
+    "Aktivitäten genutzt wird. Zusammen mit zwei Kollegen macht er sich auf den Weg.",
+    202,
+    211,
+    4.79,
+    1
+   ],
+   [
+    "durchsuchen",
+    "beginnt, die Villa zu durchsuchen und spricht mit den Angestellten. Doch niemand kann sich erklären,",
+    57,
+    66,
+    3.65,
+    2
+   ],
+   [
+    "gesteht",
+    "verhören. Der Mann gesteht, dass er Isabella erpresst hat. Er hat ihre Affäre entdeckt und",
+    133,
+    143,
+    3.65,
+    2
+   ],
+   [
+    "rächen",
+    "rächen. Die Polizisten machen sich sofort auf den Weg zur Villa und verhaften Maximilian.",
+    282,
+    292,
+    3.56,
+    1
+   ],
+   [
+    "spurlos",
+    "Eines Tages verschwindet Isabella spurlos. Max, der erfahrene Kriminalpolizist, kennt",
+    31,
+    41,
+    3.53,
+    1
+   ],
+   [
+    "dubiosen",
+    "mit einem dubiosen Geschäftsmann gesehen wurde. Dieser Mann ist bekannt für seine",
+    109,
+    118,
+    2.99,
+    1
+   ],
+   [
+    "verhören",
+    "verhören. Der Mann gesteht, dass er Isabella erpresst hat. Er hat ihre Affäre entdeckt und",
+    133,
+    143,
+    2.95,
+    1
+   ],
+   [
+    "geschäftsfrau",
+    "In einer schicken Villa am Stadtrand lebt die wohlhabende Geschäftsfrau Isabella von",
+    16,
+    24,
+    2.92,
+    1
+   ]
+  ],
+  "voc": 0.0968586387434555,
   "tx": "Das Verschwinden der Millionärin In einer schicken Villa am Stadtrand lebt die wohlhabende Geschäftsfrau Isabella von Hohenberg. Sie führt ein glamouröses Leben, ist jedoch nicht glücklich. Eines Tages verschwindet Isabella spurlos. Max, der erfahrene Kriminalpolizist, kennt die Familie von Hohenberg schon seit vielen Jahren und ist überrascht von Isabellas Verschwinden. Er bietet dem Ehemann, Maximilian von Hohenberg, seine Hilfe an und will den Fall lösen. Er beginnt, die Villa zu durchsuchen und spricht mit den Angestellten. Doch niemand kann sich erklären, was passiert ist. Max vermutet, dass es sich nicht nur um ein einfaches Verschwinden handelt. Bei seinen Recherchen stößt Max auf ein geheimes Tagebuch, das Isabella versteckt hat. Durch die Einträge lernt Max eine andere Seite von ihr kennen – eine einsame Frau, die sich in ihrer Ehe gefangen fühlt und nach Freiheit sucht. Max erfährt auch von einer mysteriösen Liebesaffäre, die Isabella gehabt haben soll. Er befragt Isabellas Freundeskreis und findet heraus, dass sie vor einigen Wochen mit einem dubiosen Geschäftsmann gesehen wurde. Dieser Mann ist bekannt für seine kriminellen Verbindungen. Max weiß, dass er eine Schlüsselfigur in diesem Fall sein könnte. Max überwacht die Firma des Geschäftsmannes. Er kann ihn nach einigen Tagen endlich finden und verhören. Der Mann gesteht, dass er Isabella erpresst hat. Er hat ihre Affäre entdeckt und ihr gedroht, sie öffentlich zu demütigen. Um das zu verhindern, sollte Isabella ihm Geld zahlen. Doch Isabella hat sich geweigert. „Ich habe sie erpresst. Aber mit der Entführung habe ich nichts zu tun!“, verspricht der Geschäftsmann. Max glaubt ihm. Doch nun hat er ein Problem. Er weiß noch immer nicht, wer der Entführer ist. Max geht noch einmal zur Villa und überprüft den Tatort. Beim Durchsuchen von Isabellas Zimmer findet er einen wichtigen Hinweis. Unter einem der Schränke liegt eine kleine Schlüsselkarte. Sie gehört zu einem Warenlager am Stadtrand. Max weiß aus vorherigen Fällen, dass das Warenlager häufig für kriminelle Aktivitäten genutzt wird. Zusammen mit zwei Kollegen macht er sich auf den Weg. Vorsichtig nähern sich die Polizisten dem Lager und öffnen die Tür mit der Schlüsselkarte. In dem Raum sitzt tatsächlich Isabella, gefesselt und verzweifelt! Auch der Entführer ist bei ihr. Panisch versucht er zu fliehen. Max rennt ihm sofort hinterher, während seine Kollegen Isabella befreien. In einer aufregenden Verfolgungsjagd gelingt es dem Kriminalpolizisten schließlich, den Entführer zu stellen! Auf dem Polizeirevier wird der Mann verhört. Er gesteht, dass er Isabella entführt und gefesselt hat. Die Tat ist jedoch nur ein Auftrag gewesen. Max kann nicht glauben, wer in Wahrheit hinter der Entführung steckt. Der Auftraggeber war der Ehemann von Isabella, Maximilian von Hohenberg! Er hat von der Affäre seiner Frau erfahren und wollte sich so an ihr rächen. Die Polizisten machen sich sofort auf den Weg zur Villa und verhaften Maximilian. Damit war ein weiterer komplizierter Fall gelöst. Isabella bedankt sich herzlich bei Max und seinen Kollegen für ihre tolle Arbeit. Sie kann nicht glauben, dass ihr Mann der wahre Täter ist. Auch Max ist erschüttert, dass Maximilian so etwas getan hat. Doch aus früheren Fällen weiß er,",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.0968586387434555
+  "src": "cc"
  },
  "k4aRQTzLiD4": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T05:13:03+00:00",
+  "checked": "2026-11-26T23:32:41+00:00",
   "title": "#865 Feuer des Geheimnisses - Krimi-Serien: Max und seine Freunde Niveau: C1-C2 @DldH #learngerman",
   "duration": 313,
   "published": "20250122",
@@ -86568,6 +88633,7 @@
   "pace": 103.1,
   "rare": 0.0747,
   "var": 0.8684,
+  "cl": null,
   "speech_s": 288.0,
   "tokens": 495,
   "kw": [
@@ -86676,16 +88742,154 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "nie",
+    "Jahren stattgefunden. Dabei starben viele Kinder und die Ursache des Brandes wurde nie aufgeklärt.",
+    102,
+    113,
+    5.67,
+    3
+   ],
+   [
+    "geben",
+    "untersucht die Brandorte gründlich. Es scheint jedoch keine eindeutigen Beweise dafür zu geben,",
+    47,
+    56,
+    5.6,
+    3
+   ],
+   [
+    "taten",
+    "gelassen fühlt. Max zeigt Verständnis für seine Gefühle, verurteilt aber gleichzeitig seine Taten.",
+    214,
+    223,
+    4.46,
+    2
+   ],
+   [
+    "berichtet",
+    "alte Zeitung, die von einem verheerenden Brand in einem Waisenhaus berichtet. Dieser hat vor vielen",
+    93,
+    103,
+    4.77,
+    1
+   ],
+   [
+    "festgenommen",
+    "Der Brandstifter wird festgenommen und vor Gericht gestellt. Während des Prozesses enthüllt er den",
+    222,
+    232,
+    4.19,
+    1
+   ],
+   [
+    "benzin",
+    "beschattet den jungen Mann und beobachtet ihn dabei, wie er Benzin und Zündmaterial",
+    159,
+    168,
+    4.13,
+    1
+   ],
+   [
+    "zurückkehren",
+    "zurückkehren. Der Polizist weiß, dass seine Arbeit als Ermittler nie enden",
+    272,
+    279,
+    4.11,
+    1
+   ],
+   [
+    "starben",
+    "Jahren stattgefunden. Dabei starben viele Kinder und die Ursache des Brandes wurde nie aufgeklärt.",
+    102,
+    113,
+    4.1,
+    1
+   ],
+   [
+    "stösst",
+    "",
+    0,
+    0,
+    4.09,
+    1
+   ],
+   [
+    "reue",
+    "Grund für die Brandanschläge, erzählt von dem Verlust seiner Freunde und zeigt Reue für seine",
+    231,
+    240,
+    3.59,
+    1
+   ],
+   [
+    "aufruhr",
+    "wer der Täter ist. Die Bevölkerung ist in Aufruhr und die Angst vor einem",
+    55,
+    63,
+    3.57,
+    1
+   ],
+   [
+    "tragischen",
+    "eines tragischen Ereignisses. Die Stadt beginnt, Maßnahmen zu ergreifen, um Menschen in schwierigen",
+    248,
+    258,
+    3.56,
+    1
+   ],
+   [
+    "tatzeit",
+    "dass sie zur Tatzeit nicht in der Stadt waren. Doch ein junger Mann hat kein Alibi. Er war",
+    141,
+    151,
+    2.9,
+    1
+   ],
+   [
+    "mysteriöser",
+    "In der Stadt breitet sich Angst und Schrecken aus. Ein mysteriöser Serienbrandstifter setzt",
+    15,
+    25,
+    2.88,
+    1
+   ],
+   [
+    "beschattet",
+    "beschattet den jungen Mann und beobachtet ihn dabei, wie er Benzin und Zündmaterial",
+    159,
+    168,
+    2.69,
+    1
+   ],
+   [
+    "brandanschläge",
+    "Grund für die Brandanschläge, erzählt von dem Verlust seiner Freunde und zeigt Reue für seine",
+    231,
+    240,
+    2.58,
+    1
+   ],
+   [
+    "geheimnisses",
+    "Feuer des Geheimnisses In der Stadt breitet sich Angst und Schrecken aus. Ein mysteriöser Serienbrandstifter setzt",
+    12,
+    25,
+    2.48,
+    1
+   ]
+  ],
+  "voc": 0.07733333333333334,
   "tx": "Feuer des Geheimnisses In der Stadt breitet sich Angst und Schrecken aus. Ein mysteriöser Serienbrandstifter setzt scheinbar willkürlich Gebäude in Brand. Max, ein erfahrener Ermittler, wird mit diesem beunruhigenden Fall betraut. Er weiß, dass er den Täter schnell stoppen muss, bevor weitere unschuldige Menschenleben gefährdet werden. Max´ Team beginnt mit den Ermittlungen und untersucht die Brandorte gründlich. Es scheint jedoch keine eindeutigen Beweise dafür zu geben, wer der Täter ist. Die Bevölkerung ist in Aufruhr und die Angst vor einem weiteren Anschlag liegt in der Luft. Max ist ratlos. Er glaubt nicht, dass jemand aus purer Langeweile diese Brände verursacht. Es muss einen Grund geben. Er durchsucht alle Unterlagen, die mit dem Fall in Verbindung stehen könnten. Er sammelt Berichte zu allen Bränden, die es in der Stadt gegeben hat. Bei seinen Nachforschungen stößt er auf eine alte Zeitung, die von einem verheerenden Brand in einem Waisenhaus berichtet. Dieser hat vor vielen Jahren stattgefunden. Dabei starben viele Kinder und die Ursache des Brandes wurde nie aufgeklärt. Es ist ein trauriges Geheimnis aus der Vergangenheit, das bis heute ungelöst blieb. Max spürt, dass es eine Verbindung zwischen dem damaligen Brand und den aktuellen Brandanschlägen geben könnte. Er beginnt, die Überlebenden des ehemaligen Waisenhauses zu überprüfen. Viele von ihnen leben nicht mehr hier oder können beweisen, dass sie zur Tatzeit nicht in der Stadt waren. Doch ein junger Mann hat kein Alibi. Er war ebenfalls ein Bewohner des Waisenhauses und hat bei dem Brand seine besten Freunde verloren. Max beschattet den jungen Mann und beobachtet ihn dabei, wie er Benzin und Zündmaterial kauft. Max ist sich sicher. Der Junge aus dem Waisenhaus ist der Serienbrandstifter. Nun steht Max vor einer schweren Entscheidung. Er weiß, dass er den Mann festnehmen muss, um weitere Leben zu schützen. Gleichzeitig sieht er aber auch das gebrochene und verzweifelte Herz des Täters. Max verfolgt den Mann und stellt ihn, als er den nächsten Brand legen will. Er spricht mit ihm über seine Vergangenheit, sein Leid und seine Wut. Der Mann gibt zu, dass er das Trauma des schrecklichen Ereignisses nie überwunden hat und sich von der Gesellschaft im Stich gelassen fühlt. Max zeigt Verständnis für seine Gefühle, verurteilt aber gleichzeitig seine Taten. Der Brandstifter wird festgenommen und vor Gericht gestellt. Während des Prozesses enthüllt er den Grund für die Brandanschläge, erzählt von dem Verlust seiner Freunde und zeigt Reue für seine Taten. Die Bewohner der Stadt sehen den Täter nun nicht nur als Kriminellen, sondern auch als Opfer eines tragischen Ereignisses. Die Stadt beginnt, Maßnahmen zu ergreifen, um Menschen in schwierigen Situationen besser zu unterstützen. So sollen ähnliche Tragödien in Zukunft verhindert werden. Max hat den Brandstifter gefasst und die Stadt kann langsam zur Normalität zurückkehren. Der Polizist weiß, dass seine Arbeit als Ermittler nie enden wird. Aber er hofft, dass er durch seine Entschlossenheit und Empathie das Leben vieler Menschen positiv beeinflussen kann. Die Erinnerung an die traurigen Geheimnisse aus der Vergangenheit wird in den Herzen der Menschen weiterleben. Doch vielleicht",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07733333333333334
+  "src": "cc"
  },
  "iSGaIluGcs4": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T05:14:43+00:00",
+  "checked": "2026-11-26T23:26:18+00:00",
   "title": "German Vlog #60 - Glück #4 Glück = Reichtum + Macht !???",
   "duration": 272,
   "published": "20171228",
@@ -86694,6 +88898,7 @@
   "pace": 105.3,
   "rare": 0.0167,
   "var": 0.6512,
+  "cl": null,
   "speech_s": 273.1,
   "tokens": 479,
   "kw": [
@@ -86802,11 +89007,101 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "leute",
+    "buch lautet viele leute denken glück",
+    26,
+    39,
+    5.63,
+    3
+   ],
+   [
+    "glaube",
+    "glaube nicht ich glaube der das wichtigste ist dass",
+    83,
+    90,
+    5.39,
+    3
+   ],
+   [
+    "isst",
+    "man isst bin ich ein arschloch bin und",
+    123,
+    130,
+    4.28,
+    2
+   ],
+   [
+    "schade",
+    "vielen leuten schade und reicher werde",
+    177,
+    186,
+    4.78,
+    1
+   ],
+   [
+    "mächtig",
+    "ja es klingt auch sehr mächtig ja die um",
+    55,
+    68,
+    4.19,
+    2
+   ],
+   [
+    "kommentaren",
+    "in den kommentaren was du darüber denkt",
+    220,
+    230,
+    3.86,
+    2
+   ],
+   [
+    "attribute",
+    "das was man isst ja alle attribute alle",
+    158,
+    167,
+    3.37,
+    1
+   ],
+   [
+    "moralischer",
+    "schlechter wird eher moralischer wird ja",
+    250,
+    258,
+    3.29,
+    1
+   ],
+   [
+    "lektionen",
+    "lektionen über die wir heute reden ist",
+    185,
+    192,
+    3.15,
+    1
+   ],
+   [
+    "unglücklicher",
+    "unglücklicher kommt es auf den menschen",
+    240,
+    251,
+    3.05,
+    1
+   ],
+   [
+    "authentic",
+    "hallo ich bin marco von authentic german",
+    0,
+    6,
+    2.1,
+    1
+   ]
+  ],
+  "voc": 0.08350730688935282,
   "tx": "hallo ich bin marco von authentic german learning punkt com in der letzten woche im jahre 2017 reden wir über glück und heute reden wir über die vierte lektion aus dem buch hectors reise oder die suche nach dem glück und die vierte lektion aus diesem buch lautet viele leute denken glück bedeutet reicher oder mächtiger zu sein viele leute denken bin ich reich bin dann bin ich glücklich bin ich mehr geld habe bin ich glücklicher wenn ich mehr macht habe dann bin ich glücklich er macht ist so ein schönes deutsches wort ja es klingt auch sehr mächtig ja die um 8 auf englisch bauer mehr macht ja macht mehr macht glücklich macht es mich glücklich wenn ich macht habe über andere menschen ja macht es mich glücklich wenn ich sehr reich bin denn ich sehr mächtig bin glaubt nicht ich glaube nicht ich glaube der das wichtigste ist dass man nicht arm ist ja dass man nicht dass man keine angst hat davor zum verhungern oder nicht für sich sorgen zu können ja das denke ich ist wichtig aber wenn man sicher ist mit seinem einkommen dann wird man nicht unbedingt glücklicher wenn man reicher ist man wird vielleicht nur mehr von dem was man ist ja das ist meine meinung wenn man reicher wird dann wird man nicht unbedingt glücklicher sondern meiner meinung nach wird man mehr von dem was man isst bin ich ein arschloch bin und mehr geld habe bin ich ein reiches arschloch wenn ich ein sehr guter mensch bin wenn ich 1 1 ein gutes herz habe und viel geld haben oder viel geld bekomme dann bin ich ein reicher mensch mit einem guten herzen also ich denke im ergaben mit je mehr geld man hat desto mehr vergrößert man das was man isst ja alle attribute alle eigenschaften die man hat werden vergrößert ja wenn ich vielen leuten helfen möchte und reicher werde dann kann ich mehr leuten helfen wenn ich vielen leuten schade und reicher werde kann ich mehr leuten schaden aber die lektionen über die wir heute reden ist aus dem buch hectors reise oder die suche nach dem glück und die super und die lektion lautet viele leute denken glück bedeutet reicher oder mächtiger zu sein wird man glücklicher wenn man reicher ist wird man glücklicher wenn man mächtiger ist ich glaube nicht was denkst du sag mir bescheid in den kommentaren was du darüber denkt ja was passiert mit einem menschen der reicher wird was passiert mit einem menschen der mächtige rot was macht das mit einem menschen wird ihr glücklicher unglücklicher kommt es auf den menschen darauf an wird er besser wird eher schlechter wird eher moralischer wird ja unmoralischer was macht reichtum und macht mit einem menschen ich bin gespannt was du denkst schreibe mir in den kommentaren und wir sehen uns morgen mit lektion 5 über das glück",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.08350730688935282
+  "src": "auto"
  },
  "wRVHh9RC_Ag": {
   "channel": "Get Germanized",
@@ -86884,7 +89179,7 @@
  "xJxi6F6yGiY": {
   "channel": "Learn German by Listening (DldH)",
   "lang": "de",
-  "checked": "2026-11-13T05:28:42+00:00",
+  "checked": "2026-11-26T23:44:27+00:00",
   "title": "#728 Gute Bioprodukte? - Krimi-Serien: Max und seine Freunde - Deutsch lernen durch Hören -  @DldH",
   "duration": 163,
   "published": "20240410",
@@ -86893,6 +89188,7 @@
   "pace": 100.8,
   "rare": 0.0526,
   "var": 0.881,
+  "cl": null,
   "speech_s": 147.0,
   "tokens": 247,
   "kw": [
@@ -86969,11 +89265,173 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "seinem",
+    "Endlich wurde der Betrug aufgedeckt. Sie danken Max und seinem Team für ihre hervorragende Arbeit.",
+    113,
+    124,
+    5.63,
+    2
+   ],
+   [
+    "arbeit",
+    "Durch ihre harte Arbeit können Max und sein Team schließlich genügend Beweise sammeln,",
+    76,
+    85,
+    5.57,
+    2
+   ],
+   [
+    "beweise",
+    "Beweise und führen Interviews mit Kunden und Mitarbeitern des Unternehmens. Sie verfolgen",
+    63,
+    72,
+    4.31,
+    2
+   ],
+   [
+    "kurze",
+    "müssen für mehrere Jahre ins Gefängnis. Das Unternehmen wird kurze Zeit später geschlossen.",
+    99,
+    109,
+    4.79,
+    1
+   ],
+   [
+    "erleichtert",
+    "Die Kunden, die die gefälschten Produkte gekauft haben, sind erleichtert.",
+    108,
+    114,
+    4.19,
+    1
+   ],
+   [
+    "interviews",
+    "Beweise und führen Interviews mit Kunden und Mitarbeitern des Unternehmens. Sie verfolgen",
+    63,
+    72,
+    4.18,
+    1
+   ],
+   [
+    "springt",
+    "Sie müssen wieder einmal einen schwierigen Fall lösen. Max springt sofort aus dem Bett,",
+    17,
+    25,
+    4.11,
+    1
+   ],
+   [
+    "schwierigen",
+    "Sie müssen wieder einmal einen schwierigen Fall lösen. Max springt sofort aus dem Bett,",
+    17,
+    25,
+    4.04,
+    1
+   ],
+   [
+    "willi",
+    "Jetzt ist Feierabend. Max setzt sich in sein Auto und fährt zu seinem Freund Willi. Er lebt",
+    137,
+    147,
+    4.04,
+    1
+   ],
+   [
+    "hervorragende",
+    "Endlich wurde der Betrug aufgedeckt. Sie danken Max und seinem Team für ihre hervorragende Arbeit.",
+    113,
+    124,
+    3.95,
+    1
+   ],
+   [
+    "bewirbt",
+    "bewirbt seine Produkte als „bio“ und „natürlich“, obwohl sie schädliche Chemikalien beinhalten.",
+    47,
+    57,
+    3.43,
+    1
+   ],
+   [
+    "polizeibeamten",
+    "zieht sich an und fährt zur Polizeistation. Die anderen Polizeibeamten sind bereits da.",
+    24,
+    32,
+    3.31,
+    1
+   ],
+   [
+    "schädliche",
+    "bewirbt seine Produkte als „bio“ und „natürlich“, obwohl sie schädliche Chemikalien beinhalten.",
+    47,
+    57,
+    3.3,
+    1
+   ],
+   [
+    "aufzudecken",
+    "um den Betrug aufzudecken. Die Verantwortlichen werden verhaftet und vor Gericht gebracht. Sie",
+    84,
+    93,
+    3.22,
+    1
+   ],
+   [
+    "anonymer",
+    "untersuchen. Ein anonymer Informant hat der Polizei einen Tipp gegeben. Ein Unternehmen",
+    39,
+    48,
+    3.18,
+    1
+   ],
+   [
+    "informant",
+    "untersuchen. Ein anonymer Informant hat der Polizei einen Tipp gegeben. Ein Unternehmen",
+    39,
+    48,
+    2.97,
+    1
+   ],
+   [
+    "gründlichen",
+    "Max und seine Kollegen beginnen sofort mit einer gründlichen Untersuchung. Sie sammeln",
+    56,
+    64,
+    2.94,
+    1
+   ],
+   [
+    "betruges",
+    "werden wegen Betruges und Gefährdung der Gesundheit verurteilt. Alle Beteiligten",
+    92,
+    100,
+    2.74,
+    1
+   ],
+   [
+    "betrügerischer",
+    "Sein Kollege erklärt ihm, was zu tun ist. Das Team soll einen Fall von betrügerischer Werbung",
+    31,
+    40,
+    2.58,
+    1
+   ],
+   [
+    "bioprodukte",
+    "Gute Bioprodukte? Mitten in der Nacht klingelt das Handy von Max. Es ist einer seiner Kollegen.",
+    8,
+    18,
+    2.47,
+    1
+   ]
+  ],
+  "voc": 0.07222222222222222,
   "tx": "Gute Bioprodukte? Mitten in der Nacht klingelt das Handy von Max. Es ist einer seiner Kollegen. Sie müssen wieder einmal einen schwierigen Fall lösen. Max springt sofort aus dem Bett, zieht sich an und fährt zur Polizeistation. Die anderen Polizeibeamten sind bereits da. Sein Kollege erklärt ihm, was zu tun ist. Das Team soll einen Fall von betrügerischer Werbung untersuchen. Ein anonymer Informant hat der Polizei einen Tipp gegeben. Ein Unternehmen bewirbt seine Produkte als „bio“ und „natürlich“, obwohl sie schädliche Chemikalien beinhalten. Max und seine Kollegen beginnen sofort mit einer gründlichen Untersuchung. Sie sammeln Beweise und führen Interviews mit Kunden und Mitarbeitern des Unternehmens. Sie verfolgen das Geld, das durch den Verkauf der gefälschten Produkte erzielt wurde. Durch ihre harte Arbeit können Max und sein Team schließlich genügend Beweise sammeln, um den Betrug aufzudecken. Die Verantwortlichen werden verhaftet und vor Gericht gebracht. Sie werden wegen Betruges und Gefährdung der Gesundheit verurteilt. Alle Beteiligten müssen für mehrere Jahre ins Gefängnis. Das Unternehmen wird kurze Zeit später geschlossen. Die Kunden, die die gefälschten Produkte gekauft haben, sind erleichtert. Endlich wurde der Betrug aufgedeckt. Sie danken Max und seinem Team für ihre hervorragende Arbeit. Max ist zufrieden. Er hat heute einen wichtigen Fall gelöst. Besonders bei Lebensmitteln muss immer auf die Qualität geachtet werden. Jetzt ist Feierabend. Max setzt sich in sein Auto und fährt zu seinem Freund Willi. Er lebt auf dem Land und hat einen großen Bauernhof. Max kauft etwas Obst und Gemüse. „Bei dir weiß ich,",
   "gist": "w",
   "status": "ok",
-  "src": "cc",
-  "voc": 0.07222222222222222
+  "src": "cc"
  },
  "ZSxLZnQpSKg": {
   "channel": "Learn German by Listening (DldH)",
@@ -87048,7 +89506,7 @@
  "A01SorHN2lQ": {
   "channel": "Authentic German Learning",
   "lang": "de",
-  "checked": "2026-11-13T05:28:56+00:00",
+  "checked": "2026-11-26T23:44:31+00:00",
   "title": "German Vlog #99 - GLÜCK = ECHTE LIEBE",
   "duration": 164,
   "published": "20180205",
@@ -87057,6 +89515,7 @@
   "pace": 115.1,
   "rare": 0.0254,
   "var": 0.6444,
+  "cl": null,
   "speech_s": 164.2,
   "tokens": 315,
   "kw": [
@@ -87125,11 +89584,109 @@
     4
    ]
   ],
+  "kx": [
+   [
+    "tun",
+    "so zu tun als könnten wir mehr her wir",
+    127,
+    135,
+    5.58,
+    3
+   ],
+   [
+    "denke",
+    "ich denke das ist etwas sehr wichtiges",
+    56,
+    63,
+    5.25,
+    3
+   ],
+   [
+    "fühlt",
+    "man uns dann mehr liebt aber es fühlt",
+    144,
+    151,
+    4.76,
+    1
+   ],
+   [
+    "bestimmte",
+    "tun so als hätten wir bestimmte",
+    132,
+    137,
+    4.75,
+    1
+   ],
+   [
+    "kommentar",
+    "auf der einen kommentar und wir sehen",
+    158,
+    165,
+    4.71,
+    1
+   ],
+   [
+    "hoffen",
+    "und wir machen das weil wir hoffen dass",
+    141,
+    149,
+    4.67,
+    1
+   ],
+   [
+    "glücklicher",
+    "glücklicher moment das ist ein sehr",
+    105,
+    111,
+    3.93,
+    1
+   ],
+   [
+    "authentisch",
+    "authentisch und so ehrlich wie möglich",
+    77,
+    83,
+    3.74,
+    1
+   ],
+   [
+    "lektion",
+    "vierzehnte lektion aus dem buch hectors",
+    12,
+    21,
+    3.64,
+    1
+   ],
+   [
+    "prozentig",
+    "hallo ich bin marco von prozentig",
+    5,
+    13,
+    2.63,
+    1
+   ],
+   [
+    "vierzehnte",
+    "vierzehnte lektion aus dem buch hectors",
+    12,
+    21,
+    2.3,
+    1
+   ],
+   [
+    "hectors",
+    "vierzehnte lektion aus dem buch hectors",
+    12,
+    21,
+    2.07,
+    1
+   ]
+  ],
+  "voc": 0.03492063492063492,
   "tx": "glück ist wenn man dafür geliebt wird wie man eben ist hallo ich bin marco von prozentig germanwings.com und dies ist die vierzehnte lektion aus dem buch hectors reise oder die suche nach dem glück ja glück ist wenn man dafür geliebt wird wie man eben ist was bedeutet das eben nun das eben bedeutet dass man die aussage verstärkt ja man kann auch sagen glück ist wenn man dafür geliebt wird wie man erst wenn man sagt wie man eben ist ja damit verstärkt man die aussage ok glück ist wenn man dafür geliebt wird wie man eben ist und nicht anders und ich denke das ist etwas sehr wichtiges ok ich denke das ist eine wichtige aussage ja weil sich viele leute verstellen ja viele leute versuchen anders zu sein als sie tatsächlich sind ja ich auch manchmal ja ich versuche so authentisch und so ehrlich wie möglich zu sein aber auch ich bin manchmal anders als ich eigentlich bin wenn ich so bin wie ich bin ja wenn ich mich nicht verstellen ja wenn wir uns nicht verstellen und auch noch dafür geliebt werden dann denke ich ist es ein sehr glücklicher moment das ist ein sehr tolles gefühl wenn man dafür geliebt wird wie man eben ist manchmal verstellen wir uns weil wir denken wir werden dann gelingt ja wir versuchen anders zu sein als wir eigentlich sind ja wir versuchen so zu tun als könnten wir mehr her wir tun so als hätten wir bestimmte fähigkeiten die wir gar nicht haben wir tun so als hätten wir eine persönlichkeit die gar nicht unsere ist und wir machen das weil wir hoffen dass man uns dann mehr liebt aber es fühlt sich viel besser an wenn man dafür geliebt wird wie man auch tatsächlich ist okay was denkst du ich bin gespannt auf der einen kommentar und wir sehen uns morgen",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.03492063492063492
+  "src": "auto"
  },
  "WKh5GzUkqDA": {
   "channel": "Mascha und der Bär",
@@ -87327,7 +89884,7 @@
  "zna2hwmfoMQ": {
   "channel": "Mascha und der Bär",
   "lang": "de",
-  "checked": "2026-11-13T05:31:53+00:00",
+  "checked": "2026-11-26T23:39:14+00:00",
   "title": "Mascha und der Bär 💥 NEUE FOLGE 2024 💥🎬 Mutter tochter 👶🍼 (Folge 115)",
   "duration": 851,
   "published": "20240927",
@@ -87336,6 +89893,7 @@
   "pace": 49.4,
   "rare": 0.079,
   "var": 0.8089,
+  "cl": null,
   "speech_s": 630.2,
   "tokens": 519,
   "kw": [
@@ -87460,11 +90018,133 @@
     2
    ]
   ],
+  "kx": [
+   [
+    "klein",
+    "schinchen klein wo bist du hier ist dein",
+    398,
+    404,
+    4.94,
+    3
+   ],
+   [
+    "hey",
+    "Lippenstift hey Bär Hilfe uns beim",
+    87,
+    93,
+    4.93,
+    3
+   ],
+   [
+    "passieren",
+    "was wird jetzt passieren wird Rosi nun",
+    123,
+    129,
+    4.78,
+    1
+   ],
+   [
+    "sage",
+    "klicke ich jetzt an und sage Masa und",
+    841,
+    848,
+    4.78,
+    1
+   ],
+   [
+    "gesunden",
+    "alles was habt ihr für einen gesunden",
+    511,
+    518,
+    4.13,
+    1
+   ],
+   [
+    "besorgen",
+    "ich geh nur mal schnell etwas besorgen",
+    712,
+    727,
+    4.08,
+    1
+   ],
+   [
+    "elefant",
+    "dich du führst dich auf wie ein Elefant",
+    812,
+    817,
+    3.53,
+    1
+   ],
+   [
+    "trompete",
+    "Trompete weil du mal wieder nicht auf",
+    805,
+    813,
+    3.53,
+    1
+   ],
+   [
+    "gerannt",
+    "gerannt du bist Schweinchen nee",
+    774,
+    783,
+    3.49,
+    1
+   ],
+   [
+    "lippenstift",
+    "Lippenstift hey Bär Hilfe uns beim",
+    87,
+    93,
+    3.38,
+    1
+   ],
+   [
+    "schnuller",
+    "also du bist das Baby und der Schnuller",
+    77,
+    82,
+    2.86,
+    1
+   ],
+   [
+    "grossziehen",
+    "",
+    0,
+    0,
+    2.81,
+    1
+   ],
+   [
+    "mamis",
+    "Mamis du solltest dich besser ",
+    47,
+    63,
+    2.78,
+    1
+   ],
+   [
+    "schweini",
+    "Schweini Kleini hallo raus aus deine",
+    730,
+    738,
+    2.65,
+    1
+   ],
+   [
+    "masa",
+    "klicke ich jetzt an und sage Masa und",
+    841,
+    848,
+    2.38,
+    1
+   ]
+  ],
+  "voc": 0.07142857142857142,
   "tx": "muttertochter hier bist du ja mein süßes kleines babypppchen was ist das was du vor Mami versteckst liebes Rosi liebes das ist nicht für Babys du solltest dich schämen Rosi was Babys brauchen das sind schluller und all diese Dinge sind für Mamis du solltest dich besser Benehmen Bib stehen oder muss ich fangen aha hier versteckst du dich also du bist das Baby und der Schnuller gehört dir und ich bin die Mami also brauche ich den Lippenstift hey Bär Hilfe uns beim Klären ich sollte die Mami sein und sie sollte das Baby sein oh ich verstehe wir spielen lose Zehen ich muss anfangen sonst ist es unfair 1 Z 3 und 4 ich wünsche mir diese Tatze hier was wird jetzt passieren wird Rosi nun die Mami sein na gut so sei es dann bin ich eben das Baby wow wow hey Bär das Baby ist am Verhungern aber der Kopf unserer Mama ist im lalaland guck mal sie sie dir doch mal an das ist zu kalt das ist kochen heiß dein kleines Baby will jetzt auch mal gehen haben haben haben haben oh meine Mami bringt gern Farbe auf ihr Gesicht und in ihr Leben W jetzt ist es Zeit das Baby ins Bett zu bringen Mami ist erschöpft ich denke wir gehen jetzt besser heilen hey 1 Z 3 4 und jetzt alle zusammen los geht also wer wird denn heute die Mami sein schinchen klein wo bist du hier ist dein feines Frühstück da hat es sich versteckt mein kleines Baby oh du bist ja so quche sauber und du bist ja so ckend du bist ein kleines mazipanschweinchen so geht es jeden Tag й Schweinchen klein sieh mal was hier vor unserer Tür abgestellt wurde oh ich habe euch ja so lieb ihr seid bezaubernde Zwillinge meine neuen Babys haben einen richtigen wolfshunger sie verschlingen alles was habt ihr für einen gesunden Appetit h aber wo ist mein Schweinchen wo ist mein kindyin bloß hin hat es sich versteckt ich suche es morgen früh mit frischer Kraft meinem armen klein Schweinchen muss etwas passiert sein ihr bleibt schön hier und spielt ich geh nur mal schnell etwas besorgen Schweini Kleini hallo raus aus deine Versteck und komm nach Hause habt ihr mein entzückendes schweinebaby gesehen h das wird helfen jetzt kommst du zu deiner Mami gerannt du bist Schweinchen nee mein Baby hat zipfelörchen wie die Schleife und eine Stupsnase und wie siehst du aus Los Beweis mir dass du mein Baby bist aber warum hast du so riesige Ohren die sehen ja aus wie Suppenschüsseln und warum ist deine Nase so gigantisch die sieht ja aus wie eine Trompete weil du mal wieder nicht auf deine Liebe m gehört hast geh und schäm dich du führst dich auf wie ein Elefant im Porzellanladen Kinder großziehen ist nicht leicht so so so so warum sind denn alle meine Videos verschwunden dann beginnen wir mal mit der Suche 1 2 3 4 5 und se vielleicht ich sie hier oben rechts das Mikrofon klicke ich jetzt an und sage Masa und der B ist dran das war einfach und jetzt probiert ihr es mal",
   "gist": "w",
   "status": "ok",
-  "src": "auto",
-  "voc": 0.07142857142857142
+  "src": "auto"
  },
  "O2_Bc4v0j1c": {
   "channel": "Learn German by Listening (DldH)",
