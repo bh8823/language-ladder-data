@@ -62925,5 +62925,6204 @@
   "status": "ok",
   "src": "cc",
   "voc": 0.07752808988764046
+ },
+ "3QH5Mr0HXQ8": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T04:07:48+00:00",
+  "title": "Derfor, fordi og for å: derfor + verb, fordi + subjekt | Grammatikk til norskprøven A1–B1",
+  "duration": 497,
+  "published": "20261123",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 124.8,
+  "rare": 0.0435,
+  "var": 0.6427,
+  "cl": 0.0969,
+  "speech_s": 342.2,
+  "tokens": 712,
+  "kw": [
+   [
+    "derfor",
+    "Derfor blir jeg hjemme. Jeg blir hjemme fordi jeg er syk.",
+    6,
+    13,
+    5.6,
+    25
+   ],
+   [
+    "hjemme",
+    "Hvorfor blir du hjemme? Jeg er syk.",
+    1,
+    6,
+    5.36,
+    18
+   ],
+   [
+    "syk",
+    "Jeg er syk. Derfor blir jeg hjemme.",
+    4,
+    9,
+    4.87,
+    17
+   ],
+   [
+    "kommer",
+    "Konsekvensen er det som kommer etterpå.",
+    50,
+    53,
+    5.74,
+    13
+   ],
+   [
+    "pluss",
+    "Derfor pluss verb. Fordi pluss subjekt.",
+    32,
+    38,
+    4.71,
+    10
+   ],
+   [
+    "setning",
+    "Ikke del en fordi-setning fra resten med punktum.",
+    213,
+    218,
+    4.24,
+    7
+   ],
+   [
+    "episode",
+    "Velkommen til Grammatikk til norskprøven, episode 15.",
+    14,
+    18,
+    4.6,
+    6
+   ],
+   [
+    "kapittel",
+    "Du finner dette i På vei, kapittel åtte og tretten.",
+    458,
+    464,
+    4.32,
+    4
+   ],
+   [
+    "verb",
+    "Derfor pluss verb. Fordi pluss subjekt.",
+    32,
+    38,
+    3.7,
+    5
+   ],
+   [
+    "konsekvensen",
+    "Konsekvensen er det som kommer etterpå.",
+    50,
+    53,
+    4.15,
+    4
+   ],
+   [
+    "kafé",
+    "Hvorfor går du på kafé hver fredag?",
+    347,
+    350,
+    3.83,
+    2
+   ],
+   [
+    "subjekt",
+    "Fordi pluss subjekt. Mange ting har en årsak og en konsekvens.",
+    35,
+    44,
+    3.1,
+    7
+   ],
+   [
+    "verbet",
+    "Da må verbet komme rett etterpå: derfor blir jeg.",
+    76,
+    83,
+    2.26,
+    9
+   ],
+   [
+    "tretten",
+    "Det er den samme ordstillingen som i episode tretten.",
+    154,
+    159,
+    2.99,
+    3
+   ],
+   [
+    "infinitiv",
+    "Etter for å kommer verbet i infinitiv: for å få, for å lære, for å bo.",
+    262,
+    272,
+    2.49,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "jobb",
+    "For å få jobb. Jeg lærer norsk for å få jobb.",
+    256,
+    262,
+    5.56,
+    8
+   ],
+   [
+    "måter",
+    "Tre måter å svare på spørsmålet hvorfor.",
+    24,
+    29,
+    5.48,
+    8
+   ],
+   [
+    "lærer",
+    "Hvorfor lærer du norsk? For å få jobb.",
+    254,
+    259,
+    5.06,
+    8
+   ],
+   [
+    "først",
+    "Årsaken er det som skjer først.",
+    44,
+    47,
+    5.65,
+    5
+   ],
+   [
+    "svare",
+    "Tre måter å svare på spørsmålet hvorfor.",
+    24,
+    29,
+    4.91,
+    4
+   ],
+   [
+    "etterpå",
+    "Konsekvensen er det som kommer etterpå.",
+    50,
+    53,
+    4.9,
+    4
+   ],
+   [
+    "oppgave",
+    "Oppgave én. Si det med derfor.",
+    353,
+    357,
+    4.64,
+    3
+   ],
+   [
+    "årsaken",
+    "Årsaken er det som skjer først.",
+    44,
+    47,
+    4.45,
+    3
+   ],
+   [
+    "frisk",
+    "Jeg blir hjemme fordi jeg ikke er frisk.",
+    149,
+    154,
+    4.68,
+    2
+   ],
+   [
+    "bussen",
+    "Hvorfor tok du ikke bussen i dag?",
+    342,
+    344,
+    4.59,
+    2
+   ],
+   [
+    "utgave",
+    "Og i God i norsk to, kapittel tretten i første utgave og kapittel tre i andre utgave.",
+    471,
+    482,
+    4.59,
+    2
+   ],
+   [
+    "årsak",
+    "Mange ting har en årsak og en konsekvens.",
+    40,
+    44,
+    4.45,
+    2
+   ],
+   [
+    "telles",
+    "Mange kan telles, mye kan ikke.",
+    487,
+    492,
+    4.14,
+    1
+   ],
+   [
+    "punktum",
+    "Ikke del en fordi-setning fra resten med punktum.",
+    213,
+    218,
+    3.99,
+    1
+   ],
+   [
+    "femten",
+    "I God i norsk én, kapittel åtte og femten.",
+    465,
+    470,
+    3.97,
+    1
+   ],
+   [
+    "binde",
+    "Nå skal vi binde de to sammen på tre måter.",
+    55,
+    59,
+    3.84,
+    1
+   ],
+   [
+    "resten",
+    "Ikke del en fordi-setning fra resten med punktum.",
+    213,
+    218,
+    3.71,
+    1
+   ],
+   [
+    "fjorten",
+    "Og vi skriver komma, som i episode fjorten.",
+    176,
+    180,
+    3.59,
+    1
+   ],
+   [
+    "paraply",
+    "Derfor tar jeg paraply. Du kan også si: Jeg er syk, og derfor blir jeg hjemme.",
+    91,
+    100,
+    3.31,
+    1
+   ],
+   [
+    "lytt",
+    "Lytt etter derfor, fordi og for å.",
+    330,
+    336,
+    2.45,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.07386363636363637,
+  "vocv": 2,
+  "tx": "Hvorfor blir du hjemme? Jeg er syk. Derfor blir jeg hjemme. Jeg blir hjemme fordi jeg er syk. Velkommen til Grammatikk til norskprøven, episode 15. I dag: Derfor, fordi og for å. Tre måter å svare på spørsmålet hvorfor. Husk regelen. Derfor pluss verb. Fordi pluss subjekt. Mange ting har en årsak og en konsekvens. Årsaken er det som skjer først. Jeg er syk. Konsekvensen er det som kommer etterpå. Jeg blir hjemme. Nå skal vi binde de to sammen på tre måter. Første måte: derfor. Derfor viser konsekvensen. Jeg er syk. Derfor blir jeg hjemme. Derfor tar første plass i setningen. Da må verbet komme rett etterpå: derfor blir jeg. Verbet er nummer to, som i episode tre. Samme regel her: Det regner. Derfor tar jeg paraply. Du kan også si: Jeg er syk, og derfor blir jeg hjemme. Det er den samme setningen. Derfor pluss verb. Derfor blir jeg. Derfor tar jeg. Derfor kommer hun ikke. Andre måte: fordi. Fordi viser årsaken. Jeg blir hjemme fordi jeg er syk. Fordi starter en leddsetning, og leddsetningen hører til den første delen av setningen. Etter fordi kommer subjektet: fordi jeg, fordi hun, fordi det. Et lite unntak. I en leddsetning står ikke foran verbet. Jeg blir hjemme fordi jeg ikke er frisk. Det er den samme ordstillingen som i episode tretten. Leddsetningen kan også stå først. Fordi jeg er syk, blir jeg hjemme. Hele leddsetningen tar første plass, så verbet kommer rett etterpå: blir jeg. Og vi skriver komma, som i episode fjorten. Husk regelen igjen. Derfor pluss verb. Fordi pluss subjekt. Her er de samme to setningene på to måter. Med derfor kommer årsaken først. Jeg er syk. Derfor blir jeg hjemme. Med fordi kommer konsekvensen først. Jeg blir hjemme fordi jeg er syk. Ikke del en fordi-setning fra resten med punktum. Fordi jeg er syk, blir jeg hjemme. Den hører sammen. Du kjenner også ordet for fra episode åtte. Jeg blir hjemme, for jeg er syk. For gir også en årsak, men det er ikke en leddsetning. Etter for kommer en vanlig helsetning, med ikke etter verbet: for jeg er ikke frisk. Tredje måte: for å. Hvorfor lærer du norsk? For å få jobb. Jeg lærer norsk for å få jobb. Etter for å kommer verbet i infinitiv: for å få, for å lære, for å bo. Hvis du kan spørre hvorfor, kan du svare med for å. For å er den korte måten å si fordi jeg vil. Jeg lærer norsk for å få jobb. Jeg lærer norsk fordi jeg vil få jobb. Det er den samme tanken. Når subjektet er det samme, trenger vi ikke å si det to ganger. For å kan også stå først. For å få jobb lærer jeg norsk. Ingen komma, og verbet kommer rett etterpå: lærer jeg. Hvis vi ikke sier hvorfor, bruker vi bare å. Jeg liker å gå tur. Det er viktig å sove. Nå hører du Sara og Ali. Ali spør hvorfor, og Sara svarer. Lytt etter derfor, fordi og for å. Hvorfor kom du ikke på kurset i går? Jeg var syk. Derfor ble jeg hjemme. Hvorfor tok du ikke bussen i dag? Jeg tok ikke bussen fordi jeg ville gå. Hvorfor går du på kafé hver fredag? Jeg går på kafé for å treffe venner. Oppgave én. Si det med derfor. Jeg er syk. Jeg blir hjemme. Jeg er syk. Derfor blir jeg hjemme. Derfor, og så verbet. Oppgave to. Si det som én setning med fordi. Jeg er syk. Jeg blir hjemme. Jeg blir hjemme fordi jeg er syk. Fordi, og så subjektet. Oppgave tre. Si det som én setning med for å. Jeg lærer norsk. Jeg vil få jobb. Jeg lærer norsk for å få jobb. For å, og så verbet i infinitiv. Nå kan du svare på hvorfor på tre måter. Derfor pluss verb: derfor blir jeg. Fordi pluss subjekt: fordi jeg er syk. For å pluss infinitiv: for å få jobb. Derfor pluss verb. Fordi pluss subjekt. Du finner dette i På vei, kapittel åtte og tretten. I God i norsk én, kapittel åtte og femten. Og i God i norsk to, kapittel tretten i første utgave og kapittel tre i andre utgave. Neste episode: Mengdeord. Mange kan telles, mye kan ikke. Vi sees!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "gCraLMCE9IM": {
+  "channel": "Cappelen Damm Utdanning",
+  "lang": "no",
+  "checked": "2026-11-28T04:08:20+00:00",
+  "title": "Norsk 8-10 fra Cappelen Damm",
+  "duration": 1612,
+  "published": "20231208",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 150.1,
+  "rare": 0.0714,
+  "var": 0.7819,
+  "cl": 0.068,
+  "speech_s": 1557.3,
+  "tokens": 3895,
+  "kw": [
+   [
+    "teksten",
+    "av navnet er det teksten som løftes fram",
+    527,
+    533,
+    4.87,
+    124
+   ],
+   [
+    "viktig",
+    "viktig for oss at tekstene fikk stå i",
+    64,
+    70,
+    5.67,
+    18
+   ],
+   [
+    "andre",
+    "og ulike andre der de grunnleggende ferdighetene lesing",
+    242,
+    275,
+    5.6,
+    18
+   ],
+   [
+    "sånn",
+    "tekst i kontekst eh og sånn som vi har",
+    558,
+    562,
+    5.6,
+    14
+   ],
+   [
+    "elevene",
+    "at tilbakemeldinger fra elevene var svært Unison dem foretrekk og arbeid",
+    107,
+    117,
+    4.31,
+    28
+   ],
+   [
+    "oppgaver",
+    "variert utvalg gode oppgaver til alle",
+    229,
+    234,
+    4.64,
+    17
+   ],
+   [
+    "hele",
+    "hele skoleåret norskfaget er et tekstfil",
+    60,
+    67,
+    4.78,
+    16
+   ],
+   [
+    "kapittel",
+    "kapittel og vi fikk svært nyttige",
+    95,
+    101,
+    4.32,
+    14
+   ],
+   [
+    "kontekst",
+    "tekst i kontekst i praksis eh og da må",
+    392,
+    399,
+    3.87,
+    21
+   ],
+   [
+    "reflektere",
+    "reflektere over skjønnlitteratur og sakprosa på bokmål og nynorsk på svensk",
+    476,
+    485,
+    3.8,
+    6
+   ],
+   [
+    "muntlige",
+    "skriving og muntlige ferdigheter er integrert i hvert kapittel og der",
+    272,
+    281,
+    4.03,
+    5
+   ],
+   [
+    "utforske",
+    "uttrykksformer de skal utforske og reflektere over skjønnlitteratur og",
+    473,
+    482,
+    3.91,
+    5
+   ],
+   [
+    "sjanger",
+    "de er sjanger typiske eller en god",
+    667,
+    672,
+    3.59,
+    10
+   ],
+   [
+    "unges",
+    "fremstiller unges livssituasjon for det er et kompetansemål som ber om at",
+    614,
+    622,
+    3.46,
+    8
+   ],
+   [
+    "livssituasjon",
+    "fremstiller unges livssituasjon for det er et kompetansemål som ber om at",
+    614,
+    622,
+    3.18,
+    8
+   ],
+   [
+    "novellen",
+    "den nydelige novellen forbrytelse og straff av Gro Dale hentet fra norsk ni",
+    301,
+    310,
+    3.58,
+    6
+   ],
+   [
+    "norskfaget",
+    "et verk der alle delene av norskfaget",
+    56,
+    61,
+    2.84,
+    13
+   ],
+   [
+    "litteraturhistorien",
+    "litteraturhistorien i seg selv er et",
+    541,
+    546,
+    2.67,
+    5
+   ],
+   [
+    "grunnbok",
+    "en grunnbok og en lærerens bok til hvert",
+    35,
+    43,
+    2.24,
+    5
+   ],
+   [
+    "modernismen",
+    "vise fram modernismen Men fordi vi",
+    990,
+    996,
+    2.79,
+    4
+   ]
+  ],
+  "kx": [
+   [
+    "spørsmål",
+    "vi starte med et ganske stort spørsmål",
+    396,
+    403,
+    5.43,
+    12
+   ],
+   [
+    "skrevet",
+    "skrevet av sesan shakar eh som nok er",
+    840,
+    846,
+    5.25,
+    12
+   ],
+   [
+    "store",
+    "er fra et kapittel som heter Du store",
+    821,
+    827,
+    5.76,
+    11
+   ],
+   [
+    "hvert",
+    "en grunnbok og en lærerens bok til hvert",
+    35,
+    43,
+    5.73,
+    11
+   ],
+   [
+    "tenke",
+    "Eh vi kan også tenke oss at man kan",
+    1133,
+    1142,
+    5.41,
+    11
+   ],
+   [
+    "jobbe",
+    "klassen kan få utbyttet av å jobbe med",
+    580,
+    587,
+    5.29,
+    11
+   ],
+   [
+    "tema",
+    "tema som for eksempel Det levende",
+    128,
+    134,
+    4.78,
+    13
+   ],
+   [
+    "ulike",
+    "over hele landet vi sendte ut ulike",
+    90,
+    96,
+    4.27,
+    12
+   ],
+   [
+    "handler",
+    "handler det om å snu det litt på hodet",
+    700,
+    706,
+    4.76,
+    8
+   ],
+   [
+    "kjenne",
+    "sannsynligvis ikke alle kan kjenne seg",
+    792,
+    798,
+    4.76,
+    7
+   ],
+   [
+    "situasjon",
+    "å gjenkjenne sin egen situasjon nødvendigvis men om å forstå andres",
+    812,
+    819,
+    4.77,
+    6
+   ],
+   [
+    "fag",
+    "vårt nye norskverk til fag fornyelsen",
+    28,
+    36,
+    4.66,
+    6
+   ],
+   [
+    "virkemidler",
+    "virkemidler for å få fram tematikk som",
+    1121,
+    1128,
+    3.76,
+    5
+   ],
+   [
+    "tolker",
+    "om unges livssituasjon vi tolker det de",
+    754,
+    760,
+    4.1,
+    4
+   ],
+   [
+    "lesing",
+    "der de grunnleggende ferdighetene lesing skriving og muntlige ferdigheter er",
+    269,
+    278,
+    4.06,
+    4
+   ],
+   [
+    "integrert",
+    "integrert i hvert kapittel og der",
+    274,
+    281,
+    3.68,
+    4
+   ],
+   [
+    "forbrytelse",
+    "den nydelige novellen forbrytelse og straff av Gro Dale hentet fra norsk ni",
+    301,
+    310,
+    3.67,
+    4
+   ],
+   [
+    "tilbakemeldinger",
+    "tilbakemeldinger ønskene fra lærerne var nå ulik ofte knyttet til hvordan de var",
+    97,
+    105,
+    4.19,
+    3
+   ],
+   [
+    "tematisk",
+    "tematisk i norsk 8 tid er altså",
+    113,
+    121,
+    3.03,
+    4
+   ],
+   [
+    "tematikk",
+    "og det tror vi også er en tematikk som",
+    1078,
+    1083,
+    3.01,
+    4
+   ],
+   [
+    "normer",
+    "for å forstå den Hvilke normer fra den",
+    946,
+    953,
+    3.51,
+    3
+   ],
+   [
+    "ferdigheter",
+    "utvikle norskfaglige ferdigheter og forstå og skape på norskfagets premisser",
+    152,
+    160,
+    3.14,
+    3
+   ],
+   [
+    "ambisiøst",
+    "det er jo et kjempe ambisiøst mål men vi",
+    435,
+    441,
+    3.55,
+    2
+   ],
+   [
+    "dam",
+    "kapl dam før vi slipte forfatter Marte",
+    22,
+    29,
+    3.53,
+    2
+   ],
+   [
+    "lærerens",
+    "en grunnbok og en lærerens bok til hvert",
+    35,
+    43,
+    2.81,
+    3
+   ],
+   [
+    "dybdelæring",
+    "for dybdelæring da vi utforsket hvordan vi skulle gjøre",
+    82,
+    89,
+    2.46,
+    3
+   ],
+   [
+    "kompetansemål",
+    "er et kompetansemål som ber om at",
+    617,
+    622,
+    2.42,
+    3
+   ],
+   [
+    "fagfornyelsen",
+    "temaene i fagfornyelsen bærekraftig utvikling demokrati og medborgerskap og",
+    141,
+    150,
+    2.27,
+    3
+   ],
+   [
+    "livsmestring",
+    "folkehelse og livsmestring og vi har det",
+    146,
+    153,
+    2.15,
+    3
+   ],
+   [
+    "ehm",
+    "ehm og vi tenker også at et annet viktig",
+    655,
+    663,
+    2.95,
+    2
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.10080540400103923,
+  "vocv": 2,
+  "tx": "Hei og velkommen til webinar mitt navn er Heger Rødal skarpina og jeg er redaktør i norsk for ungdomstrinnet i kapl dam før vi slipte forfatter Marte blikstad blas skal jeg fortelle kort om vårt nye norskverk til fag fornyelsen norsk 81 norsk 81 fra kapl dam består av en grunnbok og en lærerens bok til hvert trinn i tillegg til en digital lærerressurs for Verket grunnbøkene tilbys også som unibok og brettbok da vi startet planlegging av norsk 8 til 10 var vi opptatt av å skape et verk der alle delene av norskfaget var en del av arbeid med fag gjennom hele skoleåret norskfaget er et tekstfil … meg og blant tekstene er det alltid en tekst til dybdelæring både bokmål og nynorsk med språk og grammatikkoppgaver det er også korte lettleste fagtekster som rammer for alle de autentiske tekstene og det gir elevene viktig norskfaglig kunnskap og det er et variert utvalg gode oppgaver til alle tekster Det er en egen begrepslæring og ulike andre der de grunnleggende ferdighetene lesing skriving og muntlige ferdigheter er integrert i hvert kapittel og der kjerneelementene i faget er integrert i hvert kapittel lærerens bok er en helt ny type bok for læreren og den eneste boka Læreren trenger i … og der vi også klarer å få elevene til å engasjere seg i de tekstene og få mening ut av møtene med de tekstene Vi tar med til dem eh og det er jo et kjempe ambisiøst mål men vi skal snakke litt om i dag Noen av måtene vi kan få til det på da skal vi starte med et av de nye kjerneelementene nemlig kjerne elementet tekst i kontekst Og der står det at elevene skal lese tekster for å oppleve bli engasjert undre seg lære og få innsikt i andre menneskers tanker og livsbetingelser norskfaget bygger på et utvidet tekstbøker som kombinerer ulike uttrykksformer de skal utforske og reflektere … Eh det skal være tekster på bokmål nynorsk og oversatte tekster eh og det skal være tekster på skandinaviske språk i tillegg så skal vi ha tekster fra både fortid og nåtid altså kulturhistorie og samtidstekster og tekster som fremstiller unges livssituasjon for det er et kompetansemål som ber om at elevene spesifikt skal vurdere og reflektere over hvordan unges situasjonen fremstilles så tekstene de må være gode eh Og de må være varierte og jeg kan si som lærebokforfatter at noe av det aller morsomste og vanskeligste Vi har gjort er å lese veldig mye tekster gamle tekster nye … med det er jo et premiss om at det at elevene skal lese om unges livssituasjon vi tolker det de H at de ikke nødvendigvis trenger å lese om en ung person som har det akkurat sånn som vi tror at unge mennesker i Norge i dag har det men unge mennesker generelt i litteraturhistorien og til alle tider og steder eh så den første teksten Jeg har tenkt å vise dere Det er en tegneserie eh og det er et utdrag fra Persepolis av Mariana satrapi som handler om Eh en ung kvinne som flykter fra Iran en ganske kjent og veldig populær tegneserie eh og der leser vi altså om et ungt menneske som … vi si litt om hva det betyr å se på teksten i kontekst ehm og en eh kontekst handler jo enkelt forklart om forhold rundt teksten som er relevante for hvordan vi forstår eller tolker den eller for hvordan den ble produsert så konteksten kan være med som en tolkningsspørsmål ta utgangspunkt i Og da kan vi se for oss at i noen tekster så er det viktig å snakke om kulturhistorisk kontekst Hva må Eleven kjenne til om den tiden teksten ble tilg for å forstå den Hvilke normer fra den aktuelle perioden preger teksten og vår tolkning av den eh men det er også sånn at samtidstekster krever kontekst … ungdomsskoleelever kjenner seg veldig igjen i eh Så det er mye eh som som kan være relaterbart til en nå situasjon for elevene og for å virkelig få fram den folkehelse og livsmestring tematikken så har vi satt den teksten opp mot en annen tekst nemlig en bildebok snill av Gro Dale og Svein Nyhus eh som også handler i stor grad om det å skulle passe inn og leve opp til Andres forventninger så der er det mange spennende oppgaver hvor elevene skal eh prøve å se etter felles temaer og eh hvordan de ulike tekstene bruker ulike virkemidler for å få fram tematikk som som er tildeles ganske lik i de … å tolke teksten i en kontekstuell ramme og det siste store viktige spørsmålet vi skal ta opp i dag Det er Hvordan kan vi jobbe godt med alle disse tekstene og det vi har tenkt i norsk 8 9 og 10 det er at oppgavene må være sånn at de hjelper Eleven å åpne tekstene og få mer ut av tekstene altså ikke oppgaver hvor de blir bedt om å eh på en måte svare på enkle spørsmål om handlingen først og fremst for å se om de har lest eller ikke men mer eh oppgaver som hjelper de å utforske og reflektere over det de har lest og hele tiden tenke mer på det som står i tekstene og hvordan de tolker det og … fra lærere som har prøvd ut disse lesestol Oppen eh at det er meningsfylt og gode samtaler man får ved å stoppe opp i teksten underveis og at mange synes det er gøy å lese tekst sammen så til hver av tekstene i eh norskverket så er det oppgaver man kan jobbe med Hvor vi da prøver å åpne tekstene så vi har ingen oppgaver hvor de bare blir bedt om å finne virkemidler og ramse opp virkemidlene Eh Jeg vil nesten sagt snarere Tvert imot dersom Vi spør om virkemidler så spør vi også så alltid om hva virkemidlet bidrar med i denne teksten og hva det gjør med denne teksten og noen ganger også … der er eh opp oppgaven de skal gjøre en store muntlige oppgaven er en fagsamtale Eh hvor de skal snakke om den teksten og vise eh faglig kompetanse om eh noveller og om litteratur gjennom den teksten Alt i alt så tror vi at et godt norskfag Det er et norskfag der tekstene er i sentrum av hver eneste norsktime Lykke til med fagfornyelsen og med tekst i kontekst Takk for at du har fulgt med på sendingen så langt vi fra forlaget sitter nå klare til å svare på det du måtte lure på for å stille spørsmål Skriv først navnet ditt i tekstboksen under og skriv så spørsmålet ditt før du trykker send",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "u6pQLJd6VdY": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:08:37+00:00",
+  "title": "Norskprøven muntlig A2–B1: Er det viktig at voksne lærer nye ting | Lett svar",
+  "duration": 140,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 78.5,
+  "rare": 0.0376,
+  "var": 0.7765,
+  "cl": 0.0301,
+  "speech_s": 101.7,
+  "tokens": 133,
+  "kw": [
+   [
+    "lære",
+    "Voksne bør lære digitale ferdigheter, økonomi, helse og førstehjelp.",
+    28,
+    36,
+    5.28,
+    5
+   ],
+   [
+    "nye",
+    "Er det viktig at voksne lærer nye ting?",
+    8,
+    14,
+    5.69,
+    3
+   ],
+   [
+    "viktig",
+    "Er det viktig at voksne lærer nye ting?",
+    8,
+    14,
+    5.67,
+    3
+   ],
+   [
+    "hjelp",
+    "Første hjelp første hjelp",
+    103,
+    111,
+    5.49,
+    2
+   ],
+   [
+    "voksne",
+    "Er det viktig at voksne lærer nye ting?",
+    8,
+    14,
+    4.63,
+    4
+   ],
+   [
+    "selvstendige",
+    "selvstendige. Selvstendige.",
+    113,
+    121,
+    4.38,
+    2
+   ],
+   [
+    "arbeidslivet",
+    "Samfunnet og arbeidslivet forandrer seg raskt.",
+    22,
+    31,
+    4.04,
+    2
+   ],
+   [
+    "ferdigheter",
+    "Voksne bør lære digitale ferdigheter, økonomi, helse og førstehjelp.",
+    28,
+    36,
+    3.14,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "lærer",
+    "Er det viktig at voksne lærer nye ting?",
+    8,
+    14,
+    5.06,
+    2
+   ],
+   [
+    "videoen",
+    "videoen. Snakk i 30 sekunder med egne ord.",
+    125,
+    133,
+    4.87,
+    2
+   ],
+   [
+    "samfunnet",
+    "Samfunnet og arbeidslivet forandrer seg raskt.",
+    22,
+    31,
+    4.84,
+    2
+   ],
+   [
+    "gjennom",
+    "Man kan lære gjennom kurs, arbeid, bøker",
+    54,
+    61,
+    5.79,
+    1
+   ],
+   [
+    "bør",
+    "Voksne bør lære digitale ferdigheter, økonomi, helse og førstehjelp.",
+    28,
+    36,
+    5.73,
+    1
+   ],
+   [
+    "hver",
+    "Likevel kan man lære litt hver dag fordi",
+    47,
+    55,
+    5.73,
+    1
+   ],
+   [
+    "kurs",
+    "Man kan lære gjennom kurs, arbeid, bøker",
+    54,
+    61,
+    4.67,
+    1
+   ],
+   [
+    "fungerer",
+    "og hvordan samfunnet fungerer. Det kan være vanskelig å lære når man",
+    38,
+    48,
+    4.62,
+    1
+   ],
+   [
+    "raskt",
+    "raskt. Voksne bør lære digitale ferdigheter,",
+    25,
+    36,
+    4.62,
+    1
+   ],
+   [
+    "digitale",
+    "Voksne bør lære digitale ferdigheter, økonomi, helse og førstehjelp.",
+    28,
+    36,
+    4.6,
+    1
+   ],
+   [
+    "forandrer",
+    "Samfunnet og arbeidslivet forandrer seg raskt.",
+    22,
+    31,
+    4.44,
+    1
+   ],
+   [
+    "trenger",
+    "man ikke trenger å gjøre alt på en gang.",
+    50,
+    58,
+    4.39,
+    1
+   ],
+   [
+    "regelmessig",
+    "øve regelmessig. Mening,",
+    68,
+    76,
+    4.19,
+    1
+   ],
+   [
+    "avslutning",
+    "avslutning voksne",
+    77,
+    85,
+    4.04,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "innvandrere",
+    "Innvandrere i Norge kan også lære norsk",
+    36,
+    43,
+    3.81,
+    1
+   ],
+   [
+    "førstehjelp",
+    "økonomi, helse og førstehjelp. Innvandrere i Norge kan også lære norsk",
+    30,
+    43,
+    3.26,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.05343511450381679,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Er det viktig at voksne lærer nye ting? Ja, jeg synes det er viktig at voksne lærer nye ting. Samfunnet og arbeidslivet forandrer seg raskt. Voksne bør lære digitale ferdigheter, økonomi, helse og førstehjelp. Innvandrere i Norge kan også lære norsk og hvordan samfunnet fungerer. Det kan være vanskelig å lære når man har jobb og familie. Likevel kan man lære litt hver dag fordi man ikke trenger å gjøre alt på en gang. Man kan lære gjennom kurs, arbeid, bøker og videoer. Nye ferdigheter kan gi bedre muligheter i arbeidslivet. Det viktigste er å være nysgjerrig og øve regelmessig. Mening, grunn, eksempel avslutning voksne ferdigheter. Første hjelp første hjelp selvstendige. Selvstendige. videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "kgh6DAUk-bc": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T04:26:24+00:00",
+  "title": "Leddsetninger med at, om og som: ikke før verbet | Grammatikk til norskprøven A1–B1",
+  "duration": 511,
+  "published": "20261120",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 114.3,
+  "rare": 0.0741,
+  "var": 0.7021,
+  "cl": 0.1274,
+  "speech_s": 354.3,
+  "tokens": 675,
+  "kw": [
+   [
+    "kommer",
+    "Han kommer ikke. Jeg tror at han ikke kommer.",
+    1,
+    7,
+    5.74,
+    20
+   ],
+   [
+    "bor",
+    "Hvor bor du? Sara spør hvor jeg bor.",
+    163,
+    168,
+    4.96,
+    12
+   ],
+   [
+    "tror",
+    "Jeg tror at han ikke kommer.",
+    3,
+    7,
+    5.51,
+    8
+   ],
+   [
+    "spør",
+    "Sara spør om jeg kommer. Jeg vet ikke om han har tid.",
+    145,
+    153,
+    4.93,
+    8
+   ],
+   [
+    "setning",
+    "En leddsetning er en liten setning inni en annen setning.",
+    26,
+    32,
+    4.24,
+    6
+   ],
+   [
+    "kapittel",
+    "Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten.",
+    467,
+    476,
+    4.32,
+    4
+   ],
+   [
+    "oppgave",
+    "Oppgave 1. Jeg tror.",
+    343,
+    347,
+    4.64,
+    3
+   ],
+   [
+    "episode",
+    "Velkommen til Grammatikk til norskprøven, episode 13.",
+    13,
+    18,
+    4.6,
+    3
+   ],
+   [
+    "bakte",
+    "Jeg liker kaken som Kari bakte.",
+    247,
+    251,
+    3.8,
+    2
+   ],
+   [
+    "subjektet",
+    "Etter at kommer subjektet med en gang: han.",
+    73,
+    78,
+    3.1,
+    12
+   ],
+   [
+    "verbet",
+    "Se hva som skjer: ikke og verbet bytter plass.",
+    7,
+    13,
+    2.26,
+    14
+   ],
+   [
+    "spørreordet",
+    "Subjektet kommer rett etter spørreordet. Ikke hvor bor jeg.",
+    168,
+    174,
+    2.23,
+    6
+   ]
+  ],
+  "kx": [
+   [
+    "venn",
+    "Jeg har en venn. Han bor i Bergen.",
+    181,
+    186,
+    4.96,
+    7
+   ],
+   [
+    "vet",
+    "At bruker vi etter tror, synes, sier og vet.",
+    112,
+    119,
+    5.35,
+    6
+   ],
+   [
+    "spørsmål",
+    "Om bruker vi i et ja eller nei-spørsmål.",
+    139,
+    144,
+    5.43,
+    5
+   ],
+   [
+    "bruker",
+    "At bruker vi etter tror, synes, sier og vet.",
+    112,
+    119,
+    5.68,
+    4
+   ],
+   [
+    "står",
+    "Har du to verb, står ikke foran det første: Ali sier at han ikke har tid.",
+    97,
+    107,
+    5.3,
+    4
+   ],
+   [
+    "regelen",
+    "Her er regelen du skal huske:",
+    32,
+    35,
+    4.85,
+    4
+   ],
+   [
+    "unntakene",
+    "Nå kommer unntakene. Et ja eller nei-spørsmål har alltid om, aldri hvis.",
+    223,
+    234,
+    4.76,
+    2
+   ],
+   [
+    "utgave",
+    "Og i God i norsk 2, kapittel fem og sju i første utgave og kapittel tre og fem i andre utgave.",
+    485,
+    498,
+    4.59,
+    2
+   ],
+   [
+    "tolv",
+    "Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten.",
+    467,
+    476,
+    4.51,
+    2
+   ],
+   [
+    "elleve",
+    "Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten.",
+    467,
+    476,
+    4.36,
+    2
+   ],
+   [
+    "kaken",
+    "Jeg liker kaken som Kari bakte.",
+    247,
+    251,
+    4.25,
+    2
+   ],
+   [
+    "temaet",
+    "Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten.",
+    467,
+    476,
+    4.78,
+    1
+   ],
+   [
+    "rekkefølgen",
+    "Rekkefølgen er den samme. Så om.",
+    134,
+    139,
+    4.14,
+    1
+   ],
+   [
+    "femten",
+    "Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten.",
+    467,
+    476,
+    3.97,
+    1
+   ],
+   [
+    "peker",
+    "I en leddsetning peker sin på subjektet i leddsetningen.",
+    285,
+    291,
+    3.97,
+    1
+   ],
+   [
+    "verb",
+    "Har du to verb, står ikke foran det første: Ali sier at han ikke har tid.",
+    97,
+    107,
+    3.7,
+    1
+   ],
+   [
+    "lomme",
+    "Nå legger vi en setning i en lomme: Jeg tror at han ikke kommer.",
+    64,
+    72,
+    3.67,
+    1
+   ],
+   [
+    "fjorten",
+    "Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten.",
+    467,
+    476,
+    3.59,
+    1
+   ],
+   [
+    "oppsummerer",
+    "Vi oppsummerer. At, om, et spørreord eller som starter leddsetningen.",
+    427,
+    438,
+    3.42,
+    1
+   ],
+   [
+    "substantiv",
+    "Som bruker vi når vi vil si mer om et substantiv.",
+    177,
+    182,
+    3.24,
+    1
+   ],
+   [
+    "tretten",
+    "I God i norsk 1, kapittel elleve, tolv og tretten.",
+    477,
+    485,
+    2.99,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.09090909090909091,
+  "vocv": 2,
+  "tx": "Han kommer ikke. Jeg tror at han ikke kommer. Se hva som skjer: ikke og verbet bytter plass. Velkommen til Grammatikk til norskprøven, episode 13. I dag: leddsetninger med at, om og som. En leddsetning er en liten setning inni en annen setning. Her er regelen du skal huske: Leddsetning: ikke før verbet. Si den sammen med meg: Leddsetning: ikke før verbet. Først en vanlig setning. Verbet er nummer to, og ikke kommer etter verbet. Han kommer ikke. Jeg har ikke tid. Nå legger vi en setning i en lomme: Jeg tror at han ikke kommer. Etter at kommer subjektet med en gang: han. Så kommer ikke. Til slutt kommer verbet. Ikke og verbet bytter plass. Hør regelen igjen: Leddsetning: ikke før verbet. Har du to verb, står ikke foran det første: Ali sier at han ikke har tid. Nå de tre ordene. Først at. At bruker vi etter tror, synes, sier og vet. Sara synes at norsk ikke er vanskelig. Etter tror, synes og sier kan at være borte: Jeg tror han ikke kommer. Rekkefølgen er den samme. Så om. Om bruker vi i et ja eller nei-spørsmål. Kommer du? Sara spør om jeg kommer. Jeg vet ikke om han har tid. Verbet flytter seg etter subjektet. Har spørsmålet et spørreord, blir det med. Hvor bor du? Sara spør hvor jeg bor. Subjektet kommer rett etter spørreordet. Ikke hvor bor jeg. Så som. Som bruker vi når vi vil si mer om et substantiv. Jeg har en venn. Han bor i Bergen. Jeg har en venn som bor i Bergen. Som er subjektet i leddsetningen. Det er likt for personer, dyr og ting: en katt som sover. Hvordan velger du mellom at og som? Prøv med det. Jeg vet at han bor i Bergen. Jeg vet det. Da er det at. En venn som bor i Bergen. Du kan ikke si: en venn det. Da er det som. Nå kommer unntakene. Et ja eller nei-spørsmål har alltid om, aldri hvis. Sara spør om jeg kan hjelpe. Hvis lærer vi i episode 14. Som kan være borte når det ikke er subjekt. Jeg liker kaken som Kari bakte. Eller: Jeg liker kaken Kari bakte. Men i en venn som bor i Bergen er som selv subjektet. Da må som være med. Er spørreordet selv subjektet, må som være med. Hvem kommer? Sara spør hvem som kommer. Hva skjer? Ali lurer på hva som skjer. Til slutt sin. I en leddsetning peker sin på subjektet i leddsetningen. Jeg vet at Per vasker bilen sin. Det er Pers bil. Husk regelen: Leddsetning: ikke før verbet. Unntakene hjelper deg å velge riktig ord. Hør Sara og Ali. Jeg tror at Per ikke kommer i dag. Vet du hva han gjør? Nei. Men jeg skal spørre om han har tid i morgen. Ikke står foran verbet. Spørreordet blir med. Og om hører til et ja eller nei-spørsmål. Nå er det din tur. Si svaret høyt. Trenger du mer tid, sett videoen på pause. Oppgave 1. Jeg tror. Han kommer ikke. Si det som én setning med at. Jeg tror at han ikke kommer. Ikke står foran verbet. Oppgave 2. Anna spør: Hvor bor du? Si: Hun spør ... Hun spør hvor jeg bor. Spørreordet blir med, og subjektet kommer rett etter. Oppgave 3. Jeg har en venn. Han bor i Bergen. Si det som én setning med som. Jeg har en venn som bor i Bergen. Som er subjektet, så som må være med. Vi oppsummerer. At, om, et spørreord eller som starter leddsetningen. Så kommer subjektet, så ikke, så verbet. Om bruker du i et ja eller nei-spørsmål, aldri hvis. Som kan være borte når det ikke er subjekt. Og regelen: Leddsetning: ikke før verbet. Vil du lese mer? Temaet står i På vei, kapittel ni, elleve, tolv, fjorten og femten. I God i norsk 1, kapittel elleve, tolv og tretten. Og i God i norsk 2, kapittel fem og sju i første utgave og kapittel tre og fem i andre utgave. Neste episode: leddsetninger med når, da og hvis. Vi sees!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "sfB_4KzMEuw": {
+  "channel": "Cappelen Damm Utdanning",
+  "lang": "no",
+  "checked": "2026-11-28T04:26:55+00:00",
+  "title": "Norsk 5-7 fra Cappelen Damm",
+  "duration": 1853,
+  "published": "20231208",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 148.4,
+  "rare": 0.0787,
+  "var": 0.7841,
+  "cl": 0.0626,
+  "speech_s": 1756.0,
+  "tokens": 4344,
+  "kw": [
+   [
+    "tekst",
+    "med en tekst i boka eller bare finne en",
+    503,
+    510,
+    4.87,
+    69
+   ],
+   [
+    "bruke",
+    "forstå og enkel å bruke og det er",
+    71,
+    78,
+    5.68,
+    28
+   ],
+   [
+    "jobbe",
+    "legger vi opp til at læreren kan jobbe",
+    241,
+    247,
+    5.29,
+    26
+   ],
+   [
+    "skrive",
+    "hjelp når eleven skal skrive selv den",
+    291,
+    297,
+    5.25,
+    22
+   ],
+   [
+    "elevene",
+    "oppgaver på elevene våre underveis i",
+    35,
+    42,
+    4.31,
+    77
+   ],
+   [
+    "kapittel",
+    "skriveoppgaver til tekstene kapittel 1 i",
+    624,
+    631,
+    4.32,
+    23
+   ],
+   [
+    "oppgavene",
+    "dem overhodet ikke oppgavene de er",
+    196,
+    203,
+    4.64,
+    19
+   ],
+   [
+    "hele",
+    "læreplanen og vi har hele tiden vært",
+    174,
+    180,
+    4.78,
+    14
+   ],
+   [
+    "fase",
+    "første fase fase 1 der skal de lære om",
+    760,
+    767,
+    4.17,
+    8
+   ],
+   [
+    "emnene",
+    "emnene var kjente for for oss da vi",
+    298,
+    303,
+    3.98,
+    8
+   ],
+   [
+    "mestre",
+    "lykkes å mestre faget og lærerne selv",
+    111,
+    117,
+    3.97,
+    6
+   ],
+   [
+    "grammatikk",
+    "grammatikk emner Hvilke teksttyper eller skrivehjelp planen blir ivaretatt",
+    152,
+    169,
+    3.74,
+    6
+   ],
+   [
+    "skriving",
+    "ha andre stilaser for skriving som du",
+    842,
+    848,
+    3.46,
+    7
+   ],
+   [
+    "dam",
+    "dam både medforfatter Stig og jeg vi er",
+    22,
+    28,
+    3.53,
+    6
+   ],
+   [
+    "ferdigheter",
+    "ferdigheter og Verket det består av en",
+    90,
+    97,
+    3.14,
+    6
+   ],
+   [
+    "tverrfaglige",
+    "kjerneelementene og de tverrfaglige emnene var kjente for for oss da vi",
+    296,
+    303,
+    3.24,
+    4
+   ],
+   [
+    "dybdelæring",
+    "dybdelæring og sammenheng i arbeidet med",
+    179,
+    186,
+    2.46,
+    9
+   ],
+   [
+    "læreplanen",
+    "læreplanen er dekket Vi har systematisk",
+    79,
+    86,
+    2.67,
+    6
+   ],
+   [
+    "grunnboka",
+    "en side i grunnboka slik at du som lærer",
+    424,
+    431,
+    2.24,
+    5
+   ],
+   [
+    "metodiske",
+    "oppgaver og massevis av metodiske tips",
+    126,
+    131,
+    2.92,
+    4
+   ]
+  ],
+  "kx": [
+   [
+    "boka",
+    "boka skal bli ivaretatt det at elevene",
+    182,
+    188,
+    4.99,
+    21
+   ],
+   [
+    "både",
+    "dam både medforfatter Stig og jeg vi er",
+    22,
+    28,
+    5.76,
+    16
+   ],
+   [
+    "lese",
+    "har vi lese og læringsstrategier fått",
+    217,
+    223,
+    5.39,
+    16
+   ],
+   [
+    "lærer",
+    "lærer om og de kan også fungere som emn",
+    288,
+    294,
+    5.06,
+    15
+   ],
+   [
+    "lagt",
+    "lesestrategien det har vi lagt opp på",
+    609,
+    615,
+    5.47,
+    14
+   ],
+   [
+    "sånn",
+    "sånn at du kan være helt trygg på at",
+    129,
+    134,
+    5.6,
+    13
+   ],
+   [
+    "oppleve",
+    "både er elevene som skal oppleve at de",
+    108,
+    115,
+    4.57,
+    11
+   ],
+   [
+    "undervisningen",
+    "undervisningen sin og det aller helst",
+    116,
+    122,
+    4.39,
+    11
+   ],
+   [
+    "arbeidet",
+    "i arbeidet De gjør norsk 57 Det er skrevet til den nye",
+    168,
+    177,
+    4.63,
+    9
+   ],
+   [
+    "fagene",
+    "underviser i de forskjellige fagene i",
+    263,
+    270,
+    4.66,
+    8
+   ],
+   [
+    "trenger",
+    "trenger for å tilpasse planlegge og",
+    350,
+    356,
+    4.39,
+    8
+   ],
+   [
+    "ulike",
+    "bruke tekster fra ulike fagområder legger vi opp til at læreren kan jobbe",
+    239,
+    247,
+    4.27,
+    8
+   ],
+   [
+    "består",
+    "ferdigheter og Verket det består av en",
+    90,
+    97,
+    4.11,
+    5
+   ],
+   [
+    "lesing",
+    "lesing før lesing og fsk før skriving så",
+    864,
+    872,
+    4.06,
+    5
+   ],
+   [
+    "muntlige",
+    "og begreper Vi jobber med muntlige",
+    88,
+    94,
+    4.03,
+    5
+   ],
+   [
+    "oppslag",
+    "lærerveiledningen ut hvert oppslag viser en side i grunnboka slik at du som lærer",
+    421,
+    431,
+    3.91,
+    5
+   ],
+   [
+    "utdrag",
+    "her kan dere se et utdrag fra den",
+    997,
+    1004,
+    4.02,
+    4
+   ],
+   [
+    "oppfordrer",
+    "oppfordrer til å ta i bruk alle tekstene",
+    211,
+    218,
+    3.98,
+    4
+   ],
+   [
+    "progresjon",
+    "progresjon fra år til år i denne",
+    146,
+    151,
+    3.43,
+    3
+   ],
+   [
+    "oppsummere",
+    "å stoppe opp og oppsummere innholdet",
+    597,
+    602,
+    3.42,
+    3
+   ],
+   [
+    "smakebiter",
+    "så finner dere selvfølgelig smakebiter fra klassikere men mest av alt så finner",
+    902,
+    911,
+    3.29,
+    3
+   ],
+   [
+    "henviser",
+    "bokhandelen senere og vi henviser også",
+    1025,
+    1032,
+    3.54,
+    2
+   ],
+   [
+    "folkehelse",
+    "demokrati og medborgerskap folkehelse og livsmestring og bærekraftig utvikling i",
+    302,
+    310,
+    3.51,
+    2
+   ],
+   [
+    "mestring",
+    "mestring og mestre skriveoppgaver det å",
+    853,
+    860,
+    3.48,
+    2
+   ],
+   [
+    "fagområder",
+    "bruke tekster fra ulike fagområder legger vi opp til at læreren kan jobbe",
+    239,
+    247,
+    2.99,
+    3
+   ],
+   [
+    "norskfaget",
+    "hvordan lykkes med norskfaget etter fagfornyelsen og da tenker vi på at det",
+    103,
+    112,
+    2.84,
+    3
+   ],
+   [
+    "erfare",
+    "erfare hvordan sånn tekst blir til",
+    807,
+    813,
+    2.98,
+    2
+   ],
+   [
+    "margen",
+    "trenger i den i margen utenfor",
+    430,
+    437,
+    2.8,
+    2
+   ],
+   [
+    "skjønnlitterære",
+    "skjønnlitterære tekstene og sakprosatekst de er sidestilte ved å",
+    234,
+    242,
+    2.58,
+    2
+   ],
+   [
+    "medborgerskap",
+    "demokrati og medborgerskap folkehelse og livsmestring og bærekraftig utvikling i",
+    302,
+    310,
+    2.36,
+    2
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.11278718960315619,
+  "vocv": 2,
+  "tx": "Hei jeg heter ingebor anli og jeg er en av Forfatterne i norsk 57 fra kappelen dam både medforfatter Stig og jeg vi er lærere med lang erfaring i grunnskolen og derfor så har vi en god del erfaring med hva som kreves av et godt norskverk og vi har testet ut alle tekster Og alle oppgaver på elevene våre underveis i arbeid med Verket og vi ønsket virkelig å lage et verk som fungerer i ekte klasserom med ekte elever og under de rammene og forutsetningene som man vanligvis har i skolen norsk 57 det er nyskrevet til fagfornyelsen og nå gleder jeg meg skikkelig til å vise fram det nye norskverket … legger til rette for dybdelæring V at er ryddet opp i stoffs i faget og Vi oppfordrer til å ta i bruk alle tekstene i boka til forskjellige formål videre så har vi lese og læringsstrategier fått stor plass i boka og vi modellerer for elevene hvordan de skal tas i bruk Hvordan strategiene skal tas i bruk og de kan utvikle en større og dypere forståelse for lærestoffet i læreplanen så er noe de skjønnlitterære tekstene og sakprosatekst de er sidestilte ved å bruke tekster fra ulike fagområder legger vi opp til at læreren kan jobbe med andre fag integrert i norskfaget elevene på den måten så … litterær samtale lesestrategier dybdelæring Grundig skriveopplæring bokmål og nynorsk språk og grammatikk og tilpasset opplæring Vi anbefaler jo virkelig at du leser den innføringen for å forstå tankene Vi har hatt bak Verket men først og fremst så består lærerveiledningen av en Grundig metodisk del som tar for seg side for side i boka og de ser sånn ut slik ser sidene i den metodiske delen av lærerveiledningen ut hvert oppslag viser en side i grunnboka slik at du som lærer du trenger bare en bok for du har det du trenger i den i margen utenfor faksimilen har vi forslag til spørsmål du kan … Her ser du de s lesestrategi som vi introduserer for elevene Vi har delt dem inn etter det elevene gjør før De leser mens De leser og etter at de har lest en tekst Vi har både overflate strategier som hjelper elevene å gripe meningen i det De leser for eksempel ved å stoppe opp og oppsummere innholdet teksten i arbeidet med dybdelæring strategiene Skal de bearbeide det de har lest og øve på å koble ny kunnskap og gammel kunnskap arbeidet med lesestrategien det har vi lagt opp på den måten at de skal lære dem ved å ta dem i bruk strategien det er aldri et mål i seg selv men elevene øver … lurt at du setter ord på de tankene og de valgene du som skriver gjør elevene har ikke den samme Skriver erfaringen som den du har Og i tillegg så får de se og erfare hvordan sånn tekst blir til elevene de bør senere ha tilgang til akkurat denne teksten når de skal skrive selv for da vil de ha et nært og personlig forhold til den og føle at de kan låne fra den i siste fase så har tiden kommet For at eleven skal skrive selv Vi tror at dette å jobbe i disse fasene Det er tilpasset opplæring i seg selv en elev som har vært gjennom alle disse fasene vil faktisk ha en ganske mye bedre … både i tekst og Enes serie og den teksten her Den kan dere bruke både som modellteknikk her kan dere se et utdrag fra den grafiske romanen om Anne Frank Det er en klassiker som aldri slutter å fascinere barn og ungdom og her har den kommet i en ny og mer tilgjengelig utgave for syvende klassingen så vil jeg at dere skal legge merke til bokomtaler som hører til hvert tekstutdrag her her kan elevene se forsiden på boka sånn at det skal bli lettere for dem å finne fram til boka enten på biblioteket eller i bokhandelen senere og vi henviser også til andre og beslektede utdrag nederst så ser … det her Det er forresten et prinsipp som vi har forsøkt å gjennomføre i alle oppgavesamlingen i norsk 57 Vi har stigende vanskelighetsgrad så det starter enkelt og blir vanskeligere og det her det skal gjøre at det skal bli lettere for læreren å organisere arbeidet å holde gruppa samlet siste oppgaven skal alltid være invitere til langsvarsoppgave som de elevene som er raske skal kunne jobbe lenge med i tillegg så har vi laget helhets resing opplegg til minst en tekst I hvert kapittel disse heftene De ligger som PDF på lærerressurs og du kan skrive det ut derfra personlig så har hatt … å komme i gang som bare skal spise blyanten som bare skal tisse som bare skal kanskje er det at disse elevene ikke har noe å skrive om at de mangler en felles inngang til skrivingen Det er lettere å skrive hvis du blir vist hvordan hvis du på forhånd har jobbet med sirkelen for undervisning og læring og skapt en tekst sammen med elevene så blir det lettere for Eleven å skrive selv senere for elever så er det morsommere å skrive hvis de vet at det de skriver faktisk skal brukes i noe elever synes ofte det er vanskelig å skrive Det er hardt arbeid og da er det mye morsommere hvis de vet at … Vi oppfordrer alltid til å lese mer enn en tekst som eksempeltekst og de fleste tekstene i kapittelet kan brukes som eksempeltekst og la elevene skrive ofte og mye Det er noe som Vi anbefaler kanskje så mye som 60 minutter hver dag og skriv i alle fagene og legge opp til skriveoppgaver på tvers av av fagene er med på å sikre dybdelæring når elevene skriver en Fantasy tekst så er jo ikke det for at de skal øve seg til å bli Fantasy forfatter når du blir voksen det handler faktisk om å lese eksempeltekster legge merke til de tekstlige og språklige særtrekkene som er i tekstene og så ta med … vi har tekster som engasjerer inspirerer og motiverer autentiske tekster og gode rike oppgaver lesing skriving og muntlige ferdigheter i sammenheng systematisk arbeid med ord og begreper Da vil jeg gjerne si Tusen hjertelig takk for at dere hørte på meg og så håper jeg virkelig at dere fikk lyst til å sjekke ut norsk 57 fra kappel dam og det i bruk Tusen takk Takk for at du har fulgt med på sendingen så langt vi fra forlaget sitter nå klare til å svare på det du måtte lure på for å stille spørsmål Skriv først navnet ditt i tekstboksen under og skriv så spørsmålene ditt før du trykker send",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "MUVyIkUf3-g": {
+  "channel": "Cappelen Damm Utdanning",
+  "lang": "no",
+  "checked": "2026-11-28T04:26:58+00:00",
+  "title": "Norsk 1-4 fra Cappelen Damm",
+  "duration": 2609,
+  "published": "20231208",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 140.0,
+  "rare": 0.0787,
+  "var": 0.7951,
+  "cl": 0.0469,
+  "speech_s": 2484.9,
+  "tokens": 5797,
+  "kw": [
+   [
+    "tekster",
+    "beholde dem med motiverende tekster oppgaver og opplegg men Guro Nå synes",
+    96,
+    104,
+    4.87,
+    30
+   ],
+   [
+    "bruke",
+    "deler vi kommer til å starte med å bruke",
+    67,
+    73,
+    5.68,
+    29
+   ],
+   [
+    "skolen",
+    "Plattform som heter skolen fra kapl dam",
+    13,
+    21,
+    5.33,
+    25
+   ],
+   [
+    "kommer",
+    "Ja vi kommer til å ta dere igjennom",
+    43,
+    50,
+    5.74,
+    24
+   ],
+   [
+    "elevene",
+    "elevene godt og ikke minst nok fagstoff",
+    122,
+    129,
+    4.31,
+    66
+   ],
+   [
+    "tema",
+    "har vi valgt ut et tema Vi er stolte av",
+    80,
+    86,
+    4.78,
+    23
+   ],
+   [
+    "oppgaver",
+    "oppgaver og opplegg men Guro Nå synes",
+    98,
+    104,
+    4.64,
+    23
+   ],
+   [
+    "trinn",
+    "fjerde trinn mhm for oss er det viktig å lage",
+    28,
+    35,
+    4.3,
+    23
+   ],
+   [
+    "bokstav",
+    "bokstavinnlæring og bokstav progresjon som skolen vel å gå for kan variere både",
+    244,
+    253,
+    3.91,
+    43
+   ],
+   [
+    "varierte",
+    "varierte undervisningsmetoder og vi vil at elevene skal få tilegne seg kunnskap",
+    153,
+    160,
+    4.07,
+    13
+   ],
+   [
+    "klasserommet",
+    "erfaring fra klasserommet Vi har begge",
+    21,
+    27,
+    3.61,
+    12
+   ],
+   [
+    "videre",
+    "fellesskap videre har vi delt inn",
+    833,
+    838,
+    3.81,
+    10
+   ],
+   [
+    "tegneserier",
+    "tegneserier tegneserier Det blir ofte litt undervurdert som arbeidsform og det",
+    1843,
+    1853,
+    3.49,
+    7
+   ],
+   [
+    "motiverende",
+    "beholde dem med motiverende tekster oppgaver og opplegg men Guro Nå synes",
+    96,
+    104,
+    3.47,
+    6
+   ],
+   [
+    "mhm",
+    "fjerde trinn mhm for oss er det viktig å lage",
+    28,
+    35,
+    3.26,
+    5
+   ],
+   [
+    "gru",
+    "gru Her blir det skumle historier",
+    2144,
+    2151,
+    3.47,
+    4
+   ],
+   [
+    "bøkene",
+    "med bøkene norsk 1 til 4 og vår digitale",
+    10,
+    16,
+    2.8,
+    16
+   ],
+   [
+    "læremidlene",
+    "læremidlene og i skolen så er det også",
+    305,
+    311,
+    2.08,
+    6
+   ],
+   [
+    "differensierte",
+    "ABC med differensierte øv tekster Og den",
+    380,
+    386,
+    2.86,
+    5
+   ],
+   [
+    "stavelser",
+    "stavelser og dobbeltkonsonant det neste nivået heter Les mer og er",
+    452,
+    461,
+    2.69,
+    4
+   ]
+  ],
+  "kx": [
+   [
+    "skrive",
+    "skrive opplæringer på 1 til 4 skal gi",
+    182,
+    187,
+    5.25,
+    22
+   ],
+   [
+    "andre",
+    "ene siden og skolen på den andre og litt",
+    49,
+    56,
+    5.6,
+    21
+   ],
+   [
+    "lærer",
+    "eller ved at du som lærer plukke ut det",
+    267,
+    273,
+    5.06,
+    21
+   ],
+   [
+    "boka",
+    "grunnboka første halvdel av boka er en",
+    377,
+    384,
+    4.99,
+    21
+   ],
+   [
+    "liten",
+    "og en liten bokstav sammen med et bilde",
+    901,
+    909,
+    5.54,
+    18
+   ],
+   [
+    "les",
+    "for å skape engasjerte elever Les og",
+    180,
+    185,
+    5.39,
+    18
+   ],
+   [
+    "ulike",
+    "og ulike måter for å skape en god",
+    157,
+    163,
+    4.27,
+    18
+   ],
+   [
+    "lyd",
+    "lese in lyd for å vise det de har lært",
+    313,
+    320,
+    4.61,
+    14
+   ],
+   [
+    "hele",
+    "ien øverst så finner dere hele",
+    812,
+    820,
+    4.78,
+    12
+   ],
+   [
+    "stasjon",
+    "stasjon og så får elevene beskjed om",
+    1513,
+    1519,
+    4.6,
+    12
+   ],
+   [
+    "øve",
+    "fram på tavla for å øve på både",
+    828,
+    834,
+    4.26,
+    11
+   ],
+   [
+    "innhold",
+    "ha variert innhold og fire av dem bør",
+    1522,
+    1528,
+    4.71,
+    9
+   ],
+   [
+    "lesing",
+    "lesing på tredje og fjerde trinn så",
+    214,
+    220,
+    4.06,
+    8
+   ],
+   [
+    "gjennomgått",
+    "gjennomgått til å begynne med inneholder",
+    444,
+    449,
+    4.06,
+    6
+   ],
+   [
+    "heter",
+    "Hei og velkommen Jeg heter Guro og jeg",
+    1,
+    8,
+    4.02,
+    6
+   ],
+   [
+    "inneholder",
+    "sammen tekstene på nivået Les inneholder",
+    438,
+    445,
+    3.92,
+    6
+   ],
+   [
+    "bokstaver",
+    "bare bokstaver som allerede er gjennomgått til å begynne med inneholder",
+    442,
+    449,
+    4.08,
+    5
+   ],
+   [
+    "språklig",
+    "oppgaver rettet mot språklig bevissthet som rim rytme stavelser språklek",
+    573,
+    583,
+    3.65,
+    5
+   ],
+   [
+    "skoleåret",
+    "skoleåret og boka eh med et journalist",
+    2075,
+    2082,
+    3.46,
+    4
+   ],
+   [
+    "tverrfaglig",
+    "tverrfaglig elevene vil nemlig møte både",
+    166,
+    174,
+    3.24,
+    4
+   ],
+   [
+    "anvende",
+    "læringsstrategi de trenger for å anvende",
+    186,
+    193,
+    3.58,
+    3
+   ],
+   [
+    "progresjon",
+    "bokstavinnlæring og bokstav progresjon som skolen vel å gå for kan variere både",
+    244,
+    253,
+    3.43,
+    3
+   ],
+   [
+    "dam",
+    "redaktører i kapl dam og vi jobber både",
+    7,
+    14,
+    3.53,
+    2
+   ],
+   [
+    "mestring",
+    "innhold samtidig som vi sikre mestring",
+    2095,
+    2100,
+    3.48,
+    2
+   ],
+   [
+    "selvgående",
+    "være så selvgående som mulig for at du",
+    1524,
+    1531,
+    2.44,
+    4
+   ],
+   [
+    "fenge",
+    "være trygge på vil fenge og fungere i",
+    34,
+    40,
+    2.12,
+    4
+   ],
+   [
+    "norskfaget",
+    "norskfaget men det er også naturlig å",
+    163,
+    167,
+    2.84,
+    3
+   ],
+   [
+    "fiskestang",
+    "får jo ikke fiske uten fiskestang da",
+    716,
+    721,
+    2.55,
+    3
+   ],
+   [
+    "lort",
+    "tilbake rusk rot skit og lort Se nå Det",
+    2020,
+    2031,
+    2.51,
+    3
+   ],
+   [
+    "spooky",
+    "møter karakterene spooky og nøtti disse",
+    656,
+    661,
+    2.35,
+    3
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.10880195599022005,
+  "vocv": 2,
+  "tx": "Hei og velkommen Jeg heter Guro og jeg heter Roy Petter vi er begge norsk redaktører i kapl dam og vi jobber både med bøkene norsk 1 til 4 og vår digitale Plattform som heter skolen fra kapl dam eller skolen men før vi starter her så kan vi jo si at vi begge har lang erfaring fra klasserommet Vi har begge jobbet i grunnskolen og vi har vært kontaktlærer flere runder på første til fjerde trinn mhm for oss er det viktig å lage undervisningsopplegg som dere lærere kan være trygge på vil fenge og fungere i klasserommet samtidig som Vi dekker kompetansemål og jobber utifra fagfornyelsen Ja vi … med begynnelsen altså første trin jo Roy Peter det skulle vi Eh vi vet jo at begynneropplæringen foregår på ulike måter rundt om i landet bokstavinnlæring og bokstav progresjon som skolen vel å gå for kan variere både norsk en bøkene og skolen Har gjennomtenkt og gjennomarbeidet bokstavinnlæring våres mål er at begge produkter skal være mulig å bruke hver for seg og aller helst sammen enten ved å følge den bokstavinnlæring som vi legger opp til eller ved at du som lærer plukke ut det du trenger til din metode eller din undervisning til sammen Så gir begge produktene et bredt utvalg med … en lang tekst visuelt så har vi valgt å i stedet ha tre separate tekster men er du en lærer som i stedet gjerne vil ha samme tekst på tre ulike nivåer så finner du dette inne på skolen der inne finner du også bokstavene opplest av skuespillere og mange av dem også i sangvik er laget for å presentere de ulike bokstavene for elevene men til elevenes eget arbeid med bokstavene så har vi denne boka her bokstav boka eh i den finner du flere Sider med varierte oppgaver til hver bokstav oppgaver rettet mot språklig bevissthet som rim rytme stavelser språklek oppgaver som går på bokstavens form … med utseende lyd og enkle sammensetninger av ord med hele rekk samtidig neste bokstavregning pleas som vi kaller det har både En stor og en liten bokstav sammen med et bilde knyttet til lyden vokalene er rød og konsonantene er blå her også lik som i boka nå skal jeg ta dere inn i bokstaven O for å vise litt hva som ligger bak en bokstav øverst ligger en felles læringssti og dette er et eksempel på en bokstav som har en bokstav sang Jeg har bil med nummer to og jeg er ikke redd for blod start pistolen sier bom og Ola bilen sier brom videre Får elevene en liten introduksjonsfilm av bokstav … oss opp strekk armene i været helt til jeg sier stopp stopp La høyre skulder rulle ta venstre skulder med vi ruller og vi ruller En og to og tre La øya se i taket strekk Haka ordentlig opp dra Haka din tilbake og ta et lite hopp Nå har vi tatt en pause gi deg selv en klem sett Rumpa De tilbake så teller vi til fem 1 2 3 4 5 så er vi i gang igjen OK da har vi sett på hva du finner i bøkene og hva du finner i skolen for først trinn så er det opp til deg hvordan du vil sette dette sammen hvis du er så heldig å ha tilgang til begge deler eh men om vi får lov å komme med noen anbefalinger så er … Eh det er stasjonsundervisning denne metoden egner seg også veldig godt til variert bruk av både bøkene våres og skolen Jeg vil anbefale å ha en felles oppstart i samling først der man gjennomgår stasjonene Grundig hvis vi tar utgangspunkt i at hver bokstav allerede er gjennomgått så kan samlingen se slik ut elevene får en rask repetisjon av bokstaven form og lyd og deretter så gjennomgår du en og en stasjon og så får elevene beskjed om hvilken gruppe de skal være på og hvor de skal starte i klasserommet de fem stasjonene de bør jo ha variert innhold og fire av dem bør være så selvgående … tema fra hvert av årene som vi vil vise fram Og da kan vi jo begynne med andre trin boka har åte kapitler og det vi vil trekke frem det er fakt kapittelet eh her Her jobber elevene både med å lese og skrive faktatekster de får mange eksempeltekster og skrivestøtte faktatekst handler om en rekke emner fra ulike fag gjennom dem lærer elevene hvordan man skriver saktekst i både naturfag samfunnsfag og til andre fagområder eh og Guro Det er mange fine opplegg om faktatekster inne i skolen også er det ikke Jo det stemmer og Peter eh Jeg skal ta dere inn i faktatekster på andre trinn eh Men … rydde litt Eh ja ja ja ja for disse bøkene her er jo i et virvar eh og det her er en god an ledning til å få en pauses som er tips som du kan dra inn i klasserommet og så bruke når du skal rydde i klasserommet elevene kommer til å kjenne igjen melodien og så kommer de til å vite sånn cirka hvor lang tid De har på rydde så denne her sangen den kan du bruke igjen og igjen Og kanskje elevene også har lyst til å synge med har rotene blitt store er tøyet DT på bordet er gulvet rotet opp på taket kom kom vi redder det tilbake rusk rot skit og lort Se nå Det går superfort 10 9 8 7 bort til … skal vi gå over til temaet skrekk og gru i skolen men vi tar en liten titt på fagfor siden på fjerde trinn først for å se litt hva som ligger der her tilbyr vi rikholdige temaer med masse spennende innhold vi skal liste oss videre inn i skrekk og gru og det første elevene møter i læringsstien på toppen det er en film som skal gi En opplevelse denne opplevelsen skal gjøre at de blir både engasjert De synes det er spennende og det skal være gøy å komme inn i temaet 4b overnatter i det gamle kulturhuset Det er bare Mike og Lea som er våkne Lea må tisse og hun vil ikke gå ut i den mørke gangen … veldig til her får elevene øve på rett skri og grammatikk på en morsom og spillbasert måte Vi tar oss sitter ett til AG Guro Ja vi tar et til Klarer dere å opprettholde Vennskapet i en travel hverdag i forlagsbransjen Ja hva skal vi si til trag Guro vel klarer vi det jeg vil jo si at vi klarer det ganske bra Ja men om det butt imot noen gang så pleier vi å synge vennskapssang og vennskapssang den kommer her Tusen takk for oss Ja Takk og pris for vennskapssang og tusen takk for at dere så venner la oss være venner venner Sammen er vi best venner la oss være sammen venner Sammen skal vi stå y",
+  "gist": "s",
+  "status": "ok",
+  "src": "auto"
+ },
+ "pgZAN3aDfGk": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:27:18+00:00",
+  "title": "Norskprøven muntlig A2–B1: Hva gjør du vanligvis i helgene | Lett svar",
+  "duration": 134,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 80.3,
+  "rare": 0.0522,
+  "var": 0.8247,
+  "cl": 0.0224,
+  "speech_s": 100.2,
+  "tokens": 134,
+  "kw": [
+   [
+    "sentrum",
+    "Vi besøker av og til sentrum eller et",
+    56,
+    62,
+    5.1,
+    3
+   ],
+   [
+    "vanligvis",
+    "Hva gjør du vanligvis i helgene?",
+    8,
+    13,
+    4.86,
+    3
+   ],
+   [
+    "bruke",
+    "I helgene prøver jeg å bruke mye tid med",
+    17,
+    23,
+    5.68,
+    2
+   ],
+   [
+    "uke",
+    "at jeg er klar for en ny uke.",
+    48,
+    57,
+    5.24,
+    2
+   ],
+   [
+    "helgene",
+    "Hva gjør du vanligvis i helgene?",
+    8,
+    13,
+    4.55,
+    4
+   ],
+   [
+    "planlegger",
+    "Vi spiser frokost sammen og planlegger",
+    22,
+    28,
+    4.48,
+    2
+   ],
+   [
+    "besøker",
+    "besøker en lekeplass med sønnen vår.",
+    29,
+    37,
+    4.28,
+    2
+   ],
+   [
+    "lekeplass",
+    "besøker en lekeplass med sønnen vår.",
+    29,
+    37,
+    3.12,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "spiser",
+    "Vi spiser frokost sammen og planlegger",
+    22,
+    28,
+    5.2,
+    2
+   ],
+   [
+    "liker",
+    "Når vi er hjemme liker jeg å lage mat og",
+    40,
+    46,
+    5.77,
+    1
+   ],
+   [
+    "vår",
+    "besøker en lekeplass med sønnen vår.",
+    29,
+    37,
+    5.75,
+    1
+   ],
+   [
+    "grunn",
+    "grunn, eksempel",
+    68,
+    76,
+    5.62,
+    1
+   ],
+   [
+    "ofte",
+    "Søndag kveld planlegger jeg ofte neste",
+    61,
+    67,
+    5.61,
+    1
+   ],
+   [
+    "egne",
+    "Snakk i 30 sekunder med egne ord.",
+    121,
+    127,
+    5.58,
+    1
+   ],
+   [
+    "handler",
+    "Noen ganger møter vi venner, handler",
+    34,
+    41,
+    4.76,
+    1
+   ],
+   [
+    "slappe",
+    "Helgene hjelper meg med å slappe av.",
+    52,
+    59,
+    4.64,
+    1
+   ],
+   [
+    "pause",
+    "pause videoen. Snakk i 30 sekunder med egne ord.",
+    118,
+    127,
+    4.59,
+    1
+   ],
+   [
+    "frokost",
+    "Vi spiser frokost sammen og planlegger",
+    22,
+    28,
+    4.4,
+    1
+   ],
+   [
+    "restaurant",
+    "eller spiser på restaurant. Når vi er hjemme liker jeg å lage mat og",
+    36,
+    46,
+    4.35,
+    1
+   ],
+   [
+    "museum",
+    "museum. Søndag kveld planlegger jeg ofte neste",
+    58,
+    67,
+    4.28,
+    1
+   ],
+   [
+    "avslutning",
+    "avslutning. Vanligvis",
+    72,
+    80,
+    4.04,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.08333333333333333,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Hva gjør du vanligvis i helgene? I helgene prøver jeg å bruke mye tid med familien. Vi spiser frokost sammen og planlegger dagen. Hvis været er fint, går vi en tur eller besøker en lekeplass med sønnen vår. Noen ganger møter vi venner, handler eller spiser på restaurant. Når vi er hjemme liker jeg å lage mat og se en film. Jeg bruker også litt tid på norsk slik at jeg er klar for en ny uke. Helgene hjelper meg med å slappe av. Vi besøker av og til sentrum eller et museum. Søndag kveld planlegger jeg ofte neste uke. Mening, grunn, eksempel avslutning. Vanligvis vanligvis Helgene Lekeplass lekeplass Yes. Sentrum sentrum pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "iktNxN3apgo": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:27:37+00:00",
+  "title": "Norskprøven muntlig A2–B1: Hvem har ansvaret mennesker staten eller selskapene | Lett svar",
+  "duration": 164,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 77.3,
+  "rare": 0.0662,
+  "var": 0.8048,
+  "cl": 0.0265,
+  "speech_s": 117.2,
+  "tokens": 151,
+  "kw": [
+   [
+    "ansvaret",
+    "Hvem har ansvaret mennesker, staten eller selskapene?",
+    8,
+    15,
+    5.14,
+    5
+   ],
+   [
+    "selskapene",
+    "eller selskapene? Øv på begge rollene.",
+    10,
+    24,
+    4.86,
+    5
+   ],
+   [
+    "stor",
+    "og selskapene har stor påvirkning. Staten kan lage regler og forbedre",
+    33,
+    44,
+    5.76,
+    2
+   ],
+   [
+    "hvem",
+    "Hvem har ansvaret mennesker, staten eller selskapene?",
+    8,
+    15,
+    5.66,
+    2
+   ],
+   [
+    "staten",
+    "Hvem har ansvaret mennesker, staten eller selskapene?",
+    8,
+    15,
+    4.55,
+    5
+   ],
+   [
+    "emballasje",
+    "produkter med mindre emballasje. >> Jeg synes mennesker også må tenke på hva",
+    46,
+    56,
+    3.22,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "mindre",
+    "produkter med mindre emballasje. >> Jeg synes mennesker også må tenke på hva",
+    46,
+    56,
+    5.54,
+    2
+   ],
+   [
+    "synes",
+    "Hvem synes du har størst ansvar for",
+    25,
+    31,
+    5.54,
+    2
+   ],
+   [
+    "lage",
+    "Staten kan lage regler og forbedre",
+    37,
+    44,
+    5.39,
+    2
+   ],
+   [
+    "rollene",
+    "Øv på begge rollene. På prøven må du lytte og reagere på den",
+    18,
+    26,
+    5.01,
+    2
+   ],
+   [
+    "vare",
+    "Forbrukerne kan velge vare med mindre",
+    87,
+    93,
+    4.97,
+    2
+   ],
+   [
+    "mennesker",
+    "Hvem har ansvaret mennesker, staten eller selskapene?",
+    8,
+    15,
+    4.84,
+    2
+   ],
+   [
+    "miljøet",
+    "miljøet? Jeg mener at alle har ansvar, men staten",
+    27,
+    38,
+    4.74,
+    1
+   ],
+   [
+    "enkle",
+    "være enkle og rimelige. >> Derfor må staten, selskapene og",
+    58,
+    69,
+    4.71,
+    1
+   ],
+   [
+    "rimelige",
+    "være enkle og rimelige. >> Derfor må staten, selskapene og",
+    58,
+    69,
+    4.69,
+    1
+   ],
+   [
+    "forskjellige",
+    "forskjellige. >> Staten kan støtte reparasjon og",
+    73,
+    82,
+    4.68,
+    1
+   ],
+   [
+    "bestemmer",
+    "Selskapene bestemmer hvordan varer produsert.",
+    81,
+    88,
+    4.64,
+    1
+   ],
+   [
+    "produsert",
+    "produsert. Forbrukerne kan velge vare med mindre",
+    84,
+    93,
+    4.56,
+    1
+   ],
+   [
+    "kandidaten",
+    "andre kandidaten. Hvem synes du har størst ansvar for",
+    23,
+    31,
+    4.13,
+    1
+   ],
+   [
+    "forbruk",
+    "forbruk tilgjengelige",
+    125,
+    140,
+    4.11,
+    1
+   ],
+   [
+    "reagere",
+    "På prøven må du lytte og reagere på den",
+    20,
+    26,
+    4.1,
+    1
+   ],
+   [
+    "innbyggerne",
+    "innbyggerne samarbeide. >> Enig.",
+    65,
+    74,
+    4.06,
+    1
+   ],
+   [
+    "forbrukerne",
+    "Forbrukerne kan velge vare med mindre",
+    87,
+    93,
+    4.03,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "oppsummer",
+    "Bli enige eller oppsummer. Ansvaret.",
+    99,
+    108,
+    3.42,
+    1
+   ],
+   [
+    "holdbare",
+    ">> Ja. Og selskapene kan lage holdbare",
+    43,
+    51,
+    2.8,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.125,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Hvem har ansvaret mennesker, staten eller selskapene? Øv på begge rollene. På prøven må du lytte og reagere på den andre kandidaten. Hvem synes du har størst ansvar for miljøet? Jeg mener at alle har ansvar, men staten og selskapene har stor påvirkning. Staten kan lage regler og forbedre kollektivtransporten. >> Ja. Og selskapene kan lage holdbare produkter med mindre emballasje. >> Jeg synes mennesker også må tenke på hva de kjøper. >> Det er sant. Men miljøvennlige valg må være enkle og rimelige. >> Derfor må staten, selskapene og innbyggerne samarbeide. >> Enig. Ansvaret er felles selv om rollene er forskjellige. >> Staten kan støtte reparasjon og gjenbruk. Selskapene bestemmer hvordan varer produsert. Forbrukerne kan velge vare med mindre emballasje. Si meningen din. Spør partneren. Svar. Bli enige eller oppsummer. Ansvaret. redusere forbruk tilgjengelige Pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "e7rLEm15JdM": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:27:40+00:00",
+  "title": "Norskprøven muntlig A2–B1: Trenger barn mer fritid enn voksne | Lett svar",
+  "duration": 138,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 78.0,
+  "rare": 0.0312,
+  "var": 0.8213,
+  "cl": 0.0391,
+  "speech_s": 98.5,
+  "tokens": 128,
+  "kw": [
+   [
+    "barn",
+    "Trenger barn mer fritid enn voksne?",
+    8,
+    14,
+    5.74,
+    5
+   ],
+   [
+    "bør",
+    "men barn bør ikke ha for mange",
+    49,
+    55,
+    5.73,
+    2
+   ],
+   [
+    "trenger",
+    "Trenger barn mer fritid enn voksne?",
+    8,
+    14,
+    4.39,
+    6
+   ],
+   [
+    "lek",
+    "Fri lek utvikler fantasi og sosiale",
+    28,
+    35,
+    4.29,
+    3
+   ],
+   [
+    "utvikler",
+    "Fri lek utvikler fantasi og sosiale",
+    28,
+    35,
+    4.73,
+    2
+   ],
+   [
+    "voksne",
+    "Trenger barn mer fritid enn voksne?",
+    8,
+    14,
+    4.63,
+    2
+   ],
+   [
+    "fritid",
+    "Trenger barn mer fritid enn voksne?",
+    8,
+    14,
+    3.88,
+    6
+   ],
+   [
+    "balanse",
+    "balanse. Balanse",
+    89,
+    97,
+    4.12,
+    2
+   ],
+   [
+    "fantasi",
+    "Fri lek utvikler fantasi og sosiale",
+    28,
+    35,
+    4.04,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "grunn",
+    "grunn, eksempel,",
+    71,
+    79,
+    5.62,
+    1
+   ],
+   [
+    "egne",
+    "Snakk i 30 sekunder med egne ord.",
+    124,
+    130,
+    5.58,
+    1
+   ],
+   [
+    "jobb",
+    "jobb, ansvar hjemme. Alt i alt trenger begge grupper fritid,",
+    42,
+    51,
+    5.56,
+    1
+   ],
+   [
+    "begge",
+    "Alt i alt trenger begge grupper fritid,",
+    46,
+    51,
+    5.5,
+    1
+   ],
+   [
+    "eksempel",
+    "eksempel, avslutning,",
+    73,
+    79,
+    5.46,
+    1
+   ],
+   [
+    "spørsmål",
+    "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i",
+    0,
+    9,
+    5.43,
+    1
+   ],
+   [
+    "aktiviteter",
+    "organiserte aktiviteter. Barn bør få velge noen aktiviteter selv.",
+    50,
+    59,
+    4.56,
+    2
+   ],
+   [
+    "rolig",
+    "Familier trenger også rolig tid sammen.",
+    64,
+    72,
+    4.78,
+    1
+   ],
+   [
+    "sosiale",
+    "Fri lek utvikler fantasi og sosiale",
+    28,
+    35,
+    4.74,
+    1
+   ],
+   [
+    "pause",
+    "pause videoen. Snakk i 30 sekunder med egne ord.",
+    121,
+    130,
+    4.59,
+    1
+   ],
+   [
+    "bevegelse",
+    "bevegelse. Familier trenger også rolig tid sammen.",
+    61,
+    72,
+    4.43,
+    1
+   ],
+   [
+    "mener",
+    "Jeg mener at barn trenger mye fritid.",
+    17,
+    25,
+    4.37,
+    1
+   ],
+   [
+    "skjerm",
+    "For mye skjerm kan ta tid fra lek og",
+    59,
+    65,
+    4.12,
+    1
+   ],
+   [
+    "avslutning",
+    "avslutning, fritid.",
+    75,
+    83,
+    4.04,
+    1
+   ],
+   [
+    "organiserte",
+    "organiserte aktiviteter. Barn bør få velge noen aktiviteter selv.",
+    50,
+    59,
+    4.04,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "skoledag",
+    "en lang skoledag. Voksne trenger også fritid fordi de har",
+    36,
+    47,
+    3.5,
+    1
+   ],
+   [
+    "ferdigheter",
+    "ferdigheter. Barn trenger også tid til å hvile etter",
+    31,
+    41,
+    3.14,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.10236220472440945,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Trenger barn mer fritid enn voksne? Jeg mener at barn trenger mye fritid. De lærer ikke bare på skolen, men også når de leker og er sammen med venner. Fri lek utvikler fantasi og sosiale ferdigheter. Barn trenger også tid til å hvile etter en lang skoledag. Voksne trenger også fritid fordi de har jobb, ansvar hjemme. Alt i alt trenger begge grupper fritid, men barn bør ikke ha for mange organiserte aktiviteter. Barn bør få velge noen aktiviteter selv. For mye skjerm kan ta tid fra lek og bevegelse. Familier trenger også rolig tid sammen. Mening, grunn, eksempel, avslutning, fritid. Fritid balanse. Balanse fantasien utvikler pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "kBjVf1D89xs": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T04:45:27+00:00",
+  "title": "Ordstilling og spørsmål: verbet er nummer to | Grammatikk til norskprøven A1–B1",
+  "duration": 500,
+  "published": "20261109",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 121.3,
+  "rare": 0.083,
+  "var": 0.701,
+  "cl": 0.0326,
+  "speech_s": 334.0,
+  "tokens": 675,
+  "kw": [
+   [
+    "står",
+    "Ordstilling betyr hvor ordene står i setningen.",
+    26,
+    29,
+    5.3,
+    15
+   ],
+   [
+    "plass",
+    "Verbet blir stående på Plass 2.",
+    11,
+    15,
+    5.57,
+    11
+   ],
+   [
+    "kommer",
+    "Kommer du ikke på kino i kveld, Sara?",
+    276,
+    280,
+    5.74,
+    9
+   ],
+   [
+    "spørsmål",
+    "I dag: ordstilling og spørsmål. Ordstilling betyr hvor ordene står i setningen.",
+    21,
+    29,
+    5.43,
+    9
+   ],
+   [
+    "helgen",
+    "Jeg spiller i helgen. I helgen spiller jeg.",
+    3,
+    9,
+    4.55,
+    7
+   ],
+   [
+    "kapittel",
+    "Temaet står i På vei, kapittel 1 og 7.",
+    465,
+    472,
+    4.32,
+    4
+   ],
+   [
+    "setninger",
+    "Og alt dette gjelder vanlige setninger.",
+    348,
+    353,
+    4.24,
+    4
+   ],
+   [
+    "oppgave",
+    "Oppgave 1. Begynn med I helgen: Jeg trener i helgen.",
+    371,
+    379,
+    4.64,
+    3
+   ],
+   [
+    "verb",
+    "Subjekt, verb, resten. Verbet er nummer 2.",
+    82,
+    88,
+    3.7,
+    4
+   ],
+   [
+    "resten",
+    "Fem: resten. Verbet er nummer 2.",
+    67,
+    73,
+    3.71,
+    2
+   ],
+   [
+    "subjektet",
+    "Tre: subjektet. Fire: ikke, eller et lite ord som også og aldri.",
+    58,
+    67,
+    3.1,
+    9
+   ],
+   [
+    "substantiv",
+    "Neste episode: substantiv. En, ei, et.",
+    489,
+    495,
+    3.24,
+    2
+   ],
+   [
+    "verbet",
+    "Verbet blir stående på Plass 2.",
+    11,
+    15,
+    2.26,
+    27
+   ],
+   [
+    "spørreord",
+    "Først spørsmål uten spørreord. Da er Plass 1 tom, og verbet flytter opp.",
+    210,
+    218,
+    2.23,
+    8
+   ],
+   [
+    "imperativ",
+    "Imperativ begynner også med verbet: Kom!",
+    228,
+    232,
+    2.49,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "jobber",
+    "Hun jobber i Oslo. Subjekt, verb, resten.",
+    78,
+    86,
+    5.29,
+    9
+   ],
+   [
+    "nummer",
+    "Verbet er nummer 2. Si den sammen med meg: Verbet er nummer 2.",
+    37,
+    46,
+    4.95,
+    9
+   ],
+   [
+    "spiller",
+    "Jeg spiller i helgen. I helgen spiller jeg.",
+    3,
+    9,
+    5.24,
+    8
+   ],
+   [
+    "først",
+    "Plass 1: først. Plass 2: verbet.",
+    52,
+    57,
+    5.65,
+    7
+   ],
+   [
+    "bor",
+    "Her bor jeg. Hør regelen igjen:",
+    117,
+    123,
+    4.96,
+    7
+   ],
+   [
+    "lørdag",
+    "Jeg jobber på lørdag. Jeg jobber ikke på lørdag.",
+    136,
+    142,
+    4.87,
+    7
+   ],
+   [
+    "episode",
+    "Velkommen til Grammatikk til norskprøven, episode 3.",
+    16,
+    20,
+    4.6,
+    3
+   ],
+   [
+    "trener",
+    "Begynn med I helgen: Jeg trener i helgen.",
+    373,
+    379,
+    4.68,
+    2
+   ],
+   [
+    "utgave",
+    "Og i God i norsk 2, kapittel 3 og 4 i første utgave, og kapittel 1 i andre utgave.",
+    479,
+    489,
+    4.59,
+    2
+   ],
+   [
+    "hopper",
+    "Subjektet hopper bak verbet. Det samme skjer med tid og sted.",
+    106,
+    114,
+    4.33,
+    2
+   ],
+   [
+    "helt",
+    "Det andre verbet går helt til slutt.",
+    162,
+    166,
+    4.78,
+    1
+   ],
+   [
+    "temaet",
+    "Temaet står i På vei, kapittel 1 og 7.",
+    465,
+    472,
+    4.78,
+    1
+   ],
+   [
+    "plasser",
+    "Vi bruker et kart med fem plasser.",
+    47,
+    51,
+    4.1,
+    1
+   ],
+   [
+    "spis",
+    "Spis! Med et spørreord står spørreordet på Plass 1, og verbet er nummer 2 igjen.",
+    232,
+    241,
+    4.08,
+    1
+   ],
+   [
+    "jakke",
+    "Hvilken jakke vil du ha? Hvilken bok leser du?",
+    263,
+    268,
+    3.88,
+    1
+   ],
+   [
+    "oppsummerer",
+    "Vi oppsummerer. Subjekt, tidsord, sted eller spørreord kan stå først, og verbet er nummer 2.",
+    429,
+    440,
+    3.42,
+    1
+   ],
+   [
+    "pronomen",
+    "Med et lite pronomen, som han eller hun, står ikke etter.",
+    198,
+    204,
+    3.2,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.09408194233687406,
+  "vocv": 2,
+  "tx": "Start med hva du vil. Jeg spiller i helgen. I helgen spiller jeg. Hva spiller du? Verbet blir stående på Plass 2. Velkommen til Grammatikk til norskprøven, episode 3. I dag: ordstilling og spørsmål. Ordstilling betyr hvor ordene står i setningen. Du bruker det i hver setning. Her er regelen du skal huske: Verbet er nummer 2. Si den sammen med meg: Verbet er nummer 2. Vi bruker et kart med fem plasser. Plass 1: først. Plass 2: verbet. Tre: subjektet. Fire: ikke, eller et lite ord som også og aldri. Fem: resten. Verbet er nummer 2. Ofte står subjektet først. Jeg spiller fotball. Hun jobber i Oslo. Subjekt, verb, resten. Verbet er nummer 2. Du kan sette noe annet først, for eksempel et tidsord. Jeg spiller fotball i helgen. I helgen spiller jeg fotball. Verbet blir stående på Plass 2. Subjektet hopper bak verbet. Det samme skjer med tid og sted. I morgen jobber hun. Her bor jeg. Hør regelen igjen: Verbet er nummer 2. Nå ordet ikke. Det står på plass 4, etter verbet og subjektet. Jeg jobber på lørdag. Jeg jobber ikke på lørdag. Samme plass for små ord som også, alltid og aldri. Hun spiller aldri. Har du to verb, som kan, må eller vil? Da står det første verbet på Plass 2. Det andre verbet går helt til slutt. Jeg kan komme. Jeg kan ikke komme. Ikke står etter verbet og subjektet, og før det andre verbet. Én ting til. Med et navn på plass 3 kan ikke også komme før det. På lørdag skal Kari ikke jobbe. Eller: På lørdag skal ikke Kari jobbe. Begge deler er riktig. Med et lite pronomen, som han eller hun, står ikke etter. På lørdag skal hun ikke jobbe. Nå spørsmål. Først spørsmål uten spørreord. Da er Plass 1 tom, og verbet flytter opp. Du bor i Oslo. Bor du i Oslo? Verbet står først. Imperativ begynner også med verbet: Kom! Spis! Med et spørreord står spørreordet på Plass 1, og verbet er nummer 2 igjen. Hva spiller du? Hvem bor her? Hvor bor du? Når har du fri? Hvordan går det? I Hvem bor her er hvem selve subjektet. Ett spørreord skifter form: hvilken. Det følger substantivet. Hvilken jakke vil du ha? Hvilken bok leser du? Hvilket hus bor du i? Hvilke bøker leser du? Hør på Sara og Ali. Kommer du ikke på kino i kveld, Sara? Jo, det gjør jeg! Har du billetter? Nei, det har jeg ikke. Jeg kjøper dem nå. Ali spør Kommer du ikke, med ikke i spørsmålet. Sara kommer, så hun svarer jo. Ikke ja. Jo bruker du bare når spørsmålet har ikke i seg. Kommer du ikke? Hvis svaret er at du ikke kommer, sier du nei. Se på det korte svaret: Nei, det har jeg ikke. Har du bil? Ja, det har jeg. Har, er og modalverbene sier du igjen. Med andre verb sier du gjør: Snakker du norsk? Ja, det gjør jeg. Verbet er nummer 2, bortsett fra på to steder: spørsmål uten spørreord og imperativ. Der står verbet først. Og alt dette gjelder vanlige setninger. Setninger med at, om og som har en egen regel, i episode 13. Nå er det din tur. Si svaret høyt. Trenger du mer tid, sett videoen på pause. Oppgave 1. Begynn med I helgen: Jeg trener i helgen. I helgen trener jeg. Subjektet hopper bak verbet. Oppgave 2. Sett inn ikke: Jeg jobber på lørdag. Jeg jobber ikke på lørdag. Ikke står etter verbet. Oppgave 3. Lag et spørsmål uten spørreord: Du har fri i morgen. Har du fri i morgen? Verbet flytter opp på Plass 1. Vi oppsummerer. Subjekt, tidsord, sted eller spørreord kan stå først, og verbet er nummer 2. Ikke og små ord står etter verbet. Har du to verb, går det andre til slutt. Spørsmål uten spørreord og imperativ starter med verbet. På et spørsmål med ikke svarer du jo. Og regelen: Verbet er nummer 2. Vil du lese mer? Temaet står i På vei, kapittel 1 og 7. I God i norsk 1, kapittel 1, 2, 3 og 8. Og i God i norsk 2, kapittel 3 og 4 i første utgave, og kapittel 1 i andre utgave. Neste episode: substantiv. En, ei, et. Vi sees!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "n7VX1v9tyyE": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T04:45:34+00:00",
+  "title": "Personlig pronomen og seg: jeg ser deg, du ser meg | Grammatikk til norskprøven A1–B1",
+  "duration": 490,
+  "published": "20261108",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 128.9,
+  "rare": 0.0324,
+  "var": 0.6871,
+  "cl": 0.0338,
+  "speech_s": 316.6,
+  "tokens": 680,
+  "kw": [
+   [
+    "bruker",
+    "Du bruker dem i nesten hver setning: når du snakker om deg selv, om familien din, og på norskprøven.",
+    39,
+    49,
+    5.68,
+    6
+   ],
+   [
+    "ord",
+    "Er det et en-ord eller et ei-ord, sier vi den.",
+    248,
+    253,
+    5.39,
+    6
+   ],
+   [
+    "hjelpe",
+    "Kan du hjelpe meg på lørdag?",
+    199,
+    202,
+    5.41,
+    4
+   ],
+   [
+    "står",
+    "Alle står på objektplassen. De får handlingen.",
+    231,
+    237,
+    5.3,
+    4
+   ],
+   [
+    "vasker",
+    "Han vasker seg. Det er én mann.",
+    278,
+    282,
+    4.38,
+    10
+   ],
+   [
+    "ringer",
+    "Jeg ringer deg. Du ringer meg.",
+    99,
+    103,
+    4.65,
+    5
+   ],
+   [
+    "handlingen",
+    "Den andre er den som får handlingen.",
+    76,
+    80,
+    4.58,
+    4
+   ],
+   [
+    "kapittel",
+    "Temaet står i På vei, kapittel én, to, tre og fem.",
+    455,
+    463,
+    4.32,
+    4
+   ],
+   [
+    "objektet",
+    "Det er objektet. Jeg ser deg.",
+    80,
+    85,
+    3.74,
+    7
+   ],
+   [
+    "tabellen",
+    "Nå bygger vi tabellen, rad for rad.",
+    93,
+    97,
+    4.08,
+    2
+   ],
+   [
+    "verb",
+    "Mange verb har alltid seg. Vi gleder oss til helgen.",
+    321,
+    328,
+    3.7,
+    2
+   ],
+   [
+    "subjektet",
+    "Det er subjektet. Den andre er den som får handlingen.",
+    74,
+    80,
+    3.1,
+    5
+   ],
+   [
+    "pronomen",
+    "I dag: personlig pronomen og seg.",
+    34,
+    38,
+    3.2,
+    3
+   ],
+   [
+    "formen",
+    "Her er formen lik. Dere ser oss.",
+    139,
+    144,
+    3.54,
+    2
+   ],
+   [
+    "substantivet",
+    "Pronomenet følger substantivet. Er det et en-ord eller et ei-ord, sier vi den.",
+    245,
+    253,
+    3.24,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "liker",
+    "Jeg liker det. Vi, oss.",
+    127,
+    133,
+    5.77,
+    3
+   ],
+   [
+    "andre",
+    "Den andre er den som får handlingen.",
+    76,
+    80,
+    5.6,
+    3
+   ],
+   [
+    "små",
+    "Vi snur setningen, og de små ordene snur seg også.",
+    7,
+    13,
+    5.54,
+    3
+   ],
+   [
+    "bilen",
+    "Bilen? Den er ny.",
+    257,
+    260,
+    5.26,
+    3
+   ],
+   [
+    "regelen",
+    "Her er regelen du skal huske:",
+    49,
+    52,
+    4.85,
+    3
+   ],
+   [
+    "hos",
+    "Objektformen bruker vi også etter en preposisjon, for eksempel med, til og hos.",
+    154,
+    161,
+    5.74,
+    2
+   ],
+   [
+    "setning",
+    "Du bruker dem i nesten hver setning: når du snakker om deg selv, om familien din, og på norskprøven.",
+    39,
+    49,
+    4.24,
+    4
+   ],
+   [
+    "oppgave",
+    "Oppgave 1. Jeg og hun.",
+    355,
+    359,
+    4.64,
+    3
+   ],
+   [
+    "kler",
+    "Faren kler på seg. Så kler han på sønnen.",
+    287,
+    292,
+    4.45,
+    3
+   ],
+   [
+    "tema",
+    "I denne serien lærer du grammatikken fra A1 til B1, ett tema om gangen.",
+    24,
+    33,
+    4.78,
+    2
+   ],
+   [
+    "kjenner",
+    "Han kjenner henne. Hun kjenner ham.",
+    111,
+    116,
+    4.76,
+    2
+   ],
+   [
+    "serien",
+    "I denne serien lærer du grammatikken fra A1 til B1, ett tema om gangen.",
+    24,
+    33,
+    4.73,
+    2
+   ],
+   [
+    "plasser",
+    "I en setning er det to plasser.",
+    67,
+    70,
+    4.1,
+    1
+   ],
+   [
+    "hytta",
+    "Hytta? Den er liten.",
+    260,
+    263,
+    4.09,
+    1
+   ],
+   [
+    "klokka",
+    "Så møter vi dem på kafeen klokka 10.",
+    220,
+    225,
+    3.97,
+    1
+   ],
+   [
+    "mangler",
+    "Hvilket ord mangler? Kari vasker seg.",
+    380,
+    391,
+    3.91,
+    1
+   ],
+   [
+    "bokmål",
+    "Tre: i bokmål kan du også bruke han som objekt.",
+    332,
+    336,
+    3.88,
+    1
+   ],
+   [
+    "oppsummerer",
+    "Vi oppsummerer. Hvert pronomen har to former: én for den som gjør, og én for den som får.",
+    412,
+    422,
+    3.42,
+    1
+   ],
+   [
+    "kafeen",
+    "Så møter vi dem på kafeen klokka 10.",
+    220,
+    225,
+    3.12,
+    1
+   ],
+   [
+    "presens",
+    "Neste episode: verb i presens og imperativ.",
+    480,
+    485,
+    2.83,
+    1
+   ],
+   [
+    "imperativ",
+    "Neste episode: verb i presens og imperativ.",
+    480,
+    485,
+    2.49,
+    1
+   ],
+   [
+    "preposisjon",
+    "Objektformen bruker vi også etter en preposisjon, for eksempel med, til og hos.",
+    154,
+    161,
+    2.24,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.049253731343283584,
+  "vocv": 2,
+  "tx": "Jeg ser deg. Du ser meg. Hørte du det? Vi snur setningen, og de små ordene snur seg også. Jeg blir meg. Du blir deg. Velkommen til Grammatikk til norskprøven, episode 1. I denne serien lærer du grammatikken fra A1 til B1, ett tema om gangen. I dag: personlig pronomen og seg. Du bruker dem i nesten hver setning: når du snakker om deg selv, om familien din, og på norskprøven. Her er regelen du skal huske: Jeg ser deg, du ser meg. Si den sammen med meg: Jeg ser deg, du ser meg. I en setning er det to plasser. Den første er den som gjør noe. Det er subjektet. Den andre er den som får handlingen. Det er objektet. Jeg ser deg. Jeg gjør noe, så jeg er subjekt. Du får handlingen, så du er objekt. Nå bygger vi tabellen, rad for rad. Jeg, meg. Jeg ringer deg. Du ringer meg. Du, deg. Du hjelper meg. Jeg hjelper deg. Han, ham. Han kjenner henne. Hun kjenner ham. Hun, henne. Hun ser ham. Han ser henne. Den og det har samme form som objekt. Jeg kjøper den. Jeg liker det. Vi, oss. Vi besøker dem. De besøker oss. Dere, dere. Her er formen lik. Dere ser oss. Vi ser dere. De, dem. De inviterer oss. Vi inviterer dem. Objektformen bruker vi også etter en preposisjon, for eksempel med, til og hos. Kan du komme med oss? Jeg har en gave til henne. I helgen bor vi hos dem. Se på hele tabellen. Til venstre: den som gjør. Til høyre: den som får. Husk regelen: Jeg ser deg, du ser meg. Hør på en kort samtale mellom Sara og Ali. Legg merke til de små ordene. Hei, Ali! Kan du hjelpe meg på lørdag? Ja, jeg kan hjelpe deg. Skal vi spørre Mina også? Jeg kan ringe henne. Ja! Og broren min? Kan du ringe ham? Ja da. Jeg ringer ham i kveld. Så møter vi dem på kafeen klokka 10. Hørte du dem? Meg, deg, henne, ham og dem. Alle står på objektplassen. De får handlingen. Nå tre ting du må passe på. Én: den og det om ting. Pronomenet følger substantivet. Er det et en-ord eller et ei-ord, sier vi den. Er det et et-ord, sier vi det. Bilen? Den er ny. Hytta? Den er liten. Huset? Det er gammelt. To: seg. Vi bruker seg når objektet er den samme som subjektet. Hør forskjellen. Han vasker seg. Det er én mann. Han vasker ham. Da er det to menn. Faren kler på seg. Så kler han på sønnen. Han kler på ham. Seg finnes bare for han, hun, den, det og de. Med de andre er formen lik objektformen. Jeg vasker meg. Du vasker deg. Vi vasker oss. Dere vasker dere. Men: Hun vasker seg. De vasker seg. Mange verb har alltid seg. Vi gleder oss til helgen. Sett deg her! Tre: i bokmål kan du også bruke han som objekt. Jeg ser han, er riktig. I denne serien bruker vi ham, men begge er riktige. Nå er det din tur. Si svaret høyt. Trenger du mer tid, sett videoen på pause. Oppgave 1. Jeg og hun. Lag setningen: Jeg liker … Jeg liker henne. Hun får handlingen, så hun blir henne. Oppgave 2. Kari vasker … Kari selv. Hvilket ord mangler? Kari vasker seg. Subjektet og objektet er samme person. Oppgave 3. Hvor er bilen? … står ute. Den står ute. En bil, så den. Vi oppsummerer. Hvert pronomen har to former: én for den som gjør, og én for den som får. Jeg, meg. Du, deg. Han, ham. Hun, henne. Vi, oss. Dere, dere. De, dem. Seg bruker vi i tredje person, når objektet er subjektet selv. Den og det følger substantivet. Og regelen: Jeg ser deg, du ser meg. Vil du lese mer? Temaet står i På vei, kapittel én, to, tre og fem. I God i norsk én, kapittel én, to og fire. Og i God i norsk to, kapittel to i første utgave, og kapittel én i andre utgave. Neste episode: verb i presens og imperativ. Vi sees!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "KBkxiWe3tNE": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T04:45:37+00:00",
+  "title": "Liker du jobben din? Hvorfor eller hvorfor ikke? | Norskprøven muntlig A2–B1",
+  "duration": 535,
+  "published": "20261106",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 128.5,
+  "rare": 0.0402,
+  "var": 0.7591,
+  "cl": 0.0683,
+  "speech_s": 382.9,
+  "tokens": 820,
+  "kw": [
+   [
+    "jobben",
+    "Ifølge SSB er 8 av 10 i Norge fornøyde med jobben sin.",
+    1,
+    7,
+    5.56,
+    29
+   ],
+   [
+    "liker",
+    "Så hva med deg: Liker du jobben din?",
+    14,
+    18,
+    5.77,
+    19
+   ],
+   [
+    "jobber",
+    "Og turnus betyr at du jobber på forskjellige tider, også kvelder og helger.",
+    56,
+    64,
+    5.29,
+    10
+   ],
+   [
+    "viktig",
+    "Så to små: Hva er viktig i en jobb, og Meg.",
+    139,
+    145,
+    5.67,
+    7
+   ],
+   [
+    "helt",
+    "Eller: Ikke helt, fordi … Husk: på prøven teller språket ditt, ikke hvilken mening du har.",
+    111,
+    122,
+    4.78,
+    6
+   ],
+   [
+    "kollegaer",
+    "Kollegaer. Arbeidsoppgaver.",
+    146,
+    151,
+    4.22,
+    6
+   ],
+   [
+    "slitne",
+    "Men 4 av 10 er fysisk slitne etter jobben hver uke.",
+    7,
+    13,
+    4.34,
+    5
+   ],
+   [
+    "lønn",
+    "Lønn. Og jeg lærer norsk.",
+    150,
+    156,
+    4.79,
+    4
+   ],
+   [
+    "lønna",
+    "Jeg likte den jobben også, men lønna var lav.",
+    305,
+    310,
+    3.87,
+    3
+   ],
+   [
+    "hjemlandet",
+    "Snakk om den siste jobben din, kanskje i hjemlandet.",
+    189,
+    194,
+    3.81,
+    3
+   ],
+   [
+    "slitsom",
+    "Men jobben er litt slitsom. Jeg jobber ofte i helgene, og jeg står hele dagen.",
+    253,
+    263,
+    3.6,
+    2
+   ],
+   [
+    "turnus",
+    "Og turnus betyr at du jobber på forskjellige tider, også kvelder og helger.",
+    56,
+    64,
+    3.35,
+    3
+   ],
+   [
+    "trivsel",
+    "Hva er viktigst for deg i en jobb, lønn eller trivsel?",
+    389,
+    394,
+    3.57,
+    2
+   ],
+   [
+    "meningsfull",
+    "På den ene siden er jobben meningsfull.",
+    337,
+    342,
+    3.02,
+    2
+   ],
+   [
+    "arbeidsoppgaver",
+    "Arbeidsoppgaver er det du gjør på jobben.",
+    53,
+    57,
+    2.48,
+    2
+   ],
+   [
+    "grenene",
+    "Nå hører du hvordan A2 og B1 bruker grenene.",
+    216,
+    222,
+    2.17,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "hver",
+    "Men 4 av 10 er fysisk slitne etter jobben hver uke.",
+    7,
+    13,
+    5.73,
+    6
+   ],
+   [
+    "bruker",
+    "Nå hører du hvordan A2 og B1 bruker grenene.",
+    216,
+    222,
+    5.68,
+    6
+   ],
+   [
+    "andre",
+    "På den andre siden er jobben fysisk tung.",
+    348,
+    352,
+    5.6,
+    5
+   ],
+   [
+    "svaret",
+    "Da blir svaret for kort. Snakk om den siste jobben din, kanskje i hjemlandet.",
+    186,
+    194,
+    5.23,
+    5
+   ],
+   [
+    "fornøyd",
+    "Fornøyd betyr at du synes noe er bra nok.",
+    44,
+    49,
+    4.96,
+    5
+   ],
+   [
+    "mening",
+    "Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den.",
+    19,
+    25,
+    4.95,
+    5
+   ],
+   [
+    "betyr",
+    "Fornøyd betyr at du synes noe er bra nok.",
+    44,
+    49,
+    4.54,
+    3
+   ],
+   [
+    "setninger",
+    "To typer setninger med «liker»: Liker å, og så et verb: Jeg liker å hjelpe folk.",
+    65,
+    75,
+    4.24,
+    3
+   ],
+   [
+    "kundene",
+    "Og jeg liker å snakke med kundene.",
+    242,
+    248,
+    4.44,
+    2
+   ],
+   [
+    "skriv",
+    "Skriv spørsmålet i midten. Lag to hovedgrener: Ja, fordi, og Ikke helt, fordi.",
+    130,
+    139,
+    4.44,
+    2
+   ],
+   [
+    "trives",
+    "Å trives betyr at du har det bra.",
+    49,
+    52,
+    4.4,
+    2
+   ],
+   [
+    "ssb",
+    "Ifølge SSB er 8 av 10 i Norge fornøyde med jobben sin.",
+    1,
+    7,
+    4.24,
+    2
+   ],
+   [
+    "teller",
+    "Husk: på prøven teller språket ditt, ikke hvilken mening du har.",
+    115,
+    122,
+    4.14,
+    1
+   ],
+   [
+    "sykehjem",
+    "Jeg jobber som helsefagarbeider på et sykehjem.",
+    332,
+    337,
+    4.1,
+    1
+   ],
+   [
+    "regninger",
+    "Lønna er selvfølgelig viktig, fordi jeg må betale regninger.",
+    394,
+    399,
+    4.05,
+    1
+   ],
+   [
+    "klokka",
+    "Jeg jobber turnus, så noen ganger begynner jeg klokka sju, og andre ganger jobber jeg til ti om kvelden.",
+    352,
+    360,
+    3.97,
+    1
+   ],
+   [
+    "kassa",
+    "Jeg lager kaffe og smørbrød, og jeg tar betalt i kassa.",
+    277,
+    283,
+    3.84,
+    1
+   ],
+   [
+    "kafé",
+    "Jeg jobber på en kafé i sentrum.",
+    233,
+    236,
+    3.83,
+    1
+   ],
+   [
+    "penger",
+    "Penger er ikke alt. Hva ville du forandre på jobben din?",
+    410,
+    417,
+    3.44,
+    1
+   ],
+   [
+    "begrunn",
+    "Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den.",
+    19,
+    25,
+    3.42,
+    1
+   ],
+   [
+    "beboer",
+    "Da kunne vi brukt mer tid på hver beboer, og vi hadde ikke vært så slitne.",
+    421,
+    428,
+    3.31,
+    1
+   ],
+   [
+    "smørbrød",
+    "Jeg lager kaffe og smørbrød, og jeg tar betalt i kassa.",
+    277,
+    283,
+    3.03,
+    1
+   ],
+   [
+    "praksisplassen",
+    "Eller om praksisplassen din, eller jobben du vil ha.",
+    194,
+    199,
+    2.53,
+    1
+   ],
+   [
+    "kvelder",
+    "Og turnus betyr at du jobber på forskjellige tider, også kvelder og helger.",
+    56,
+    64,
+    2.32,
+    1
+   ],
+   [
+    "verbet",
+    "«Ikke» kommer før verbet. Du trenger ikke å elske jobben din.",
+    92,
+    100,
+    2.26,
+    1
+   ],
+   [
+    "helsefagarbeider",
+    "Jeg jobber som helsefagarbeider på et sykehjem.",
+    332,
+    337,
+    2.23,
+    1
+   ],
+   [
+    "vakt",
+    "Jeg ville hatt flere kollegaer på hver vakt.",
+    417,
+    421,
+    2.13,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.07142857142857142,
+  "vocv": 2,
+  "tx": "Ifølge SSB er 8 av 10 i Norge fornøyde med jobben sin. Men 4 av 10 er fysisk slitne etter jobben hver uke. Så hva med deg: Liker du jobben din? Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den. Først lager vi et tankekart. Så hører du et A2-svar og et B1-svar. Liker du jobben din? Hvorfor eller hvorfor ikke? Lær ordene først. Fornøyd betyr at du synes noe er bra nok. Å trives betyr at du har det bra. Arbeidsoppgaver er det du gjør på jobben. Og turnus betyr at du jobber på forskjellige tider, også kvelder og helger. To typer setninger med «liker»: Liker å, og så et verb: Jeg liker å hjelpe folk. Liker at, og så en hel setning: Jeg liker at kollegaene mine er hyggelige. Og se på «ikke» etter «at»: Jeg liker at jeg ikke må jobbe om natten. «Ikke» kommer før verbet. Du trenger ikke å elske jobben din. Du kan svare på mange måter: Ja, absolutt. Stort sett ja, men … Ja og nei. Eller: Ikke helt, fordi … Husk: på prøven teller språket ditt, ikke hvilken mening du har. På prøven må du svare med en gang. Derfor øver du med et tankekart hjemme. Skriv spørsmålet i midten. Lag to hovedgrener: Ja, fordi, og Ikke helt, fordi. Så to små: Hva er viktig i en jobb, og Meg. Ja, fordi … Kollegaer. Arbeidsoppgaver. Lønn. Og jeg lærer norsk. Ikke helt, fordi … Jeg er sliten. Turnus. Lav lønn. Eller: Jeg får ikke brukt utdanningen min. Hva er viktig i en jobb? Kollegaer, lønn eller mening? Meg. Hvilken jobb har jeg, og hva synes jeg? Har du ikke jobb nå? Ikke bare si nei. Da blir svaret for kort. Snakk om den siste jobben din, kanskje i hjemlandet. Eller om praksisplassen din, eller jobben du vil ha. For eksempel: Jeg har ikke jobb nå, men jeg likte jobben min i hjemlandet, fordi jeg hadde gode kollegaer. Ser du? Hver gren er en del av svaret ditt. Nå hører du hvordan A2 og B1 bruker grenene. Så, liker du jobben din? Hvorfor eller hvorfor ikke? Ja, jeg liker jobben min. Jeg jobber på en kafé i sentrum. Først, fordi kollegaene mine er hyggelige. Og jeg liker å snakke med kundene. Da lærer jeg mye norsk hver dag. Men jobben er litt slitsom. Jeg jobber ofte i helgene, og jeg står hele dagen. Jeg liker at jeg ikke må jobbe om kvelden. Da kan jeg være med familien min. Så ja, jeg er fornøyd. Hva gjør du på jobben? Jeg lager kaffe og smørbrød, og jeg tar betalt i kassa. Jeg rydder også bordene. Om morgenen er det mye å gjøre. Hadde du en annen jobb før? Hmm … la meg tenke litt. Ja, i hjemlandet mitt jobbet jeg i en butikk. Jeg likte den jobben også, men lønna var lav. Dette er A2: én mening, to grunner og én «men», med korte setninger. Og hør: Jeg liker å snakke med kundene. Jeg liker at jeg ikke må jobbe om kvelden. Stort sett ja, men ikke alt. Jeg jobber som helsefagarbeider på et sykehjem. På den ene siden er jobben meningsfull. Jeg hjelper eldre mennesker hver dag, og jeg ser at de blir glade. På den andre siden er jobben fysisk tung. Jeg jobber turnus, så noen ganger begynner jeg klokka sju, og andre ganger jobber jeg til ti om kvelden. Ifølge SSB er rundt 8 av 10 fornøyde med jobben, men mange er også slitne. Sånn er det for meg også. Selv om jobben er slitsom, vil jeg ikke bytte. Det viktigste for meg er at jobben er meningsfull, og det er den. Alt i alt er jeg fornøyd, men jeg skulle ønske at vi var flere på jobb. Hva er viktigst for deg i en jobb, lønn eller trivsel? Lønna er selvfølgelig viktig, fordi jeg må betale regninger. Men jeg tror at trivsel er viktigere. Hvis jeg ikke trives, blir jeg sliten og lei, selv om lønna er høy. Penger er ikke alt. Hva ville du forandre på jobben din? Jeg ville hatt flere kollegaer på hver vakt. Da kunne vi brukt mer tid på hver beboer, og vi hadde ikke vært så slitne. Nå er det B1: begge sidene, et faktum med kilde, og en egen mening. Hør bindeordene: Stort sett ja, men. På den ene siden. På den andre siden. Selv om. Alt i alt. Se på tankekartet igjen. A2 bruker Ja, fordi, litt Ikke helt, og Meg. B1 bruker alle fire grenene. Bruk disse uttrykkene: Jeg liker å … Jeg liker at … fordi … Men … Stort sett … Ja og nei … På den ene siden … På den andre siden … Selv om … Det viktigste for meg er … Alt i alt … Nå er det din tur. Pause videoen og tegn ditt eget tankekart. Så snakker du høyt i to minutter. Hva med deg: Liker du jobben din? Hvorfor eller hvorfor ikke? Skriv svaret ditt i kommentarfeltet. Lykke til på prøven!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "ZIVPYASgRTg": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:45:50+00:00",
+  "title": "Norskprøven muntlig A2–B1: Positive og negative sider ved å kjøpe mindre | Lett svar",
+  "duration": 163,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 87.1,
+  "rare": 0.0398,
+  "var": 0.7762,
+  "cl": 0.0227,
+  "speech_s": 121.2,
+  "tokens": 176,
+  "kw": [
+   [
+    "kjøpe",
+    "Positive og negative sider ved å kjøpe",
+    8,
+    15,
+    5.56,
+    5
+   ],
+   [
+    "mindre",
+    "mindre. Øv på begge rollene.",
+    11,
+    24,
+    5.54,
+    4
+   ],
+   [
+    "bruker",
+    ">> Ja. Og vi lager mindre avfall og bruker",
+    30,
+    38,
+    5.68,
+    2
+   ],
+   [
+    "sider",
+    "Positive og negative sider ved å kjøpe",
+    8,
+    15,
+    5.4,
+    2
+   ],
+   [
+    "fordel",
+    "En fordel ved å kjøpe mindre er at vi",
+    25,
+    31,
+    4.73,
+    2
+   ],
+   [
+    "butikken",
+    "butikken. Jeg venter noen dager før jeg kjøper",
+    78,
+    87,
+    4.72,
+    2
+   ],
+   [
+    "påvirke",
+    "påvirke noen arbeidsplasser. >> Samtidig kan bedrifter tilby reparasjon,",
+    52,
+    64,
+    4.61,
+    2
+   ],
+   [
+    "negative",
+    "Positive og negative sider ved å kjøpe",
+    8,
+    15,
+    4.37,
+    2
+   ],
+   [
+    "arbeidsplasser",
+    "påvirke noen arbeidsplasser. >> Samtidig kan bedrifter tilby reparasjon,",
+    52,
+    64,
+    3.95,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "lager",
+    ">> Ja. Og vi lager mindre avfall og bruker",
+    30,
+    38,
+    5.39,
+    2
+   ],
+   [
+    "enig",
+    ">> Det er jeg enig i. Fordelene er større",
+    71,
+    77,
+    5.36,
+    2
+   ],
+   [
+    "finnes",
+    "Men finnes det noen negative sider?",
+    44,
+    53,
+    5.76,
+    1
+   ],
+   [
+    "større",
+    ">> Det er jeg enig i. Fordelene er større",
+    71,
+    77,
+    5.76,
+    1
+   ],
+   [
+    "bør",
+    "Vi bør bare unngå unødvendige kjøp.",
+    66,
+    74,
+    5.73,
+    1
+   ],
+   [
+    "andre",
+    "andre kandidaten. En fordel ved å kjøpe mindre er at vi",
+    23,
+    31,
+    5.6,
+    1
+   ],
+   [
+    "handle",
+    "handle. Vi bør bare unngå unødvendige kjøp.",
+    64,
+    74,
+    4.76,
+    1
+   ],
+   [
+    "positive",
+    "Positive og negative sider ved å kjøpe",
+    8,
+    15,
+    4.7,
+    1
+   ],
+   [
+    "sparer",
+    "sparer penger. >> Ja. Og vi lager mindre avfall og bruker",
+    27,
+    38,
+    4.65,
+    1
+   ],
+   [
+    "pause",
+    "pause videoen. Snakk i 30 sekunder med egne ord.",
+    147,
+    155,
+    4.59,
+    1
+   ],
+   [
+    "unødvendige",
+    "Vi bør bare unngå unødvendige kjøp.",
+    66,
+    74,
+    4.57,
+    1
+   ],
+   [
+    "tilby",
+    ">> Samtidig kan bedrifter tilby reparasjon,",
+    56,
+    64,
+    4.54,
+    1
+   ],
+   [
+    "kandidaten",
+    "andre kandidaten. En fordel ved å kjøpe mindre er at vi",
+    23,
+    31,
+    4.13,
+    1
+   ],
+   [
+    "reagere",
+    "På prøven må du lytte og reagere på den",
+    20,
+    26,
+    4.1,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "avfall",
+    ">> Ja. Og vi lager mindre avfall og bruker",
+    30,
+    38,
+    3.96,
+    1
+   ],
+   [
+    "reparasjon",
+    ">> Samtidig kan bedrifter tilby reparasjon,",
+    56,
+    64,
+    3.72,
+    1
+   ],
+   [
+    "utleie",
+    "utleie og brukte varer. >> Jeg mener ikke at vi skal slutte å",
+    59,
+    67,
+    3.66,
+    1
+   ],
+   [
+    "penger",
+    "sparer penger. >> Ja. Og vi lager mindre avfall og bruker",
+    27,
+    38,
+    3.44,
+    1
+   ],
+   [
+    "oppsummer",
+    "Bli enige eller oppsummer. Færre",
+    99,
+    107,
+    3.42,
+    1
+   ],
+   [
+    "handleliste",
+    ">> Jeg lager en handleliste før jeg går i",
+    76,
+    82,
+    2.47,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.08670520231213873,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Positive og negative sider ved å kjøpe mindre. Øv på begge rollene. På prøven må du lytte og reagere på den andre kandidaten. En fordel ved å kjøpe mindre er at vi sparer penger. >> Ja. Og vi lager mindre avfall og bruker færre naturressurser. >> Vi kan også kjøpe færre ting med bedre kvalitet. >> Det er sant. Men finnes det noen negative sider? >> Butikker kan selge mindre og det kan påvirke noen arbeidsplasser. >> Samtidig kan bedrifter tilby reparasjon, utleie og brukte varer. >> Jeg mener ikke at vi skal slutte å handle. Vi bør bare unngå unødvendige kjøp. >> Det er jeg enig i. Fordelene er større enn ulempene. >> Jeg lager en handleliste før jeg går i butikken. Jeg venter noen dager før jeg kjøper dyre ting. Det er bedre å kjøpe det man trenger enn det man bare ønsker seg. Si meningen din. Spør partneren. Svar. Bli enige eller oppsummer. Færre færre påvirke arbeidsplasser tilpasse seg pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "I5poQG0DGcg": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:45:53+00:00",
+  "title": "Norskprøven muntlig A2–B1: Hva bør vi gjøre i fritiden | Lett svar",
+  "duration": 140,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 81.5,
+  "rare": 0.0379,
+  "var": 0.8412,
+  "cl": 0.0227,
+  "speech_s": 97.2,
+  "tokens": 132,
+  "kw": [
+   [
+    "styrke",
+    "Felles aktiviteter kan styrke forholdet til familie og venner.",
+    58,
+    68,
+    4.88,
+    3
+   ],
+   [
+    "liker",
+    "Noen liker å trene, gå tur eller drive",
+    28,
+    34,
+    5.77,
+    2
+   ],
+   [
+    "bør",
+    "Hva bør vi gjøre i fritiden?",
+    8,
+    13,
+    5.73,
+    2
+   ],
+   [
+    "bruke",
+    "Jeg synes vi bør bruke fritiden på noe",
+    16,
+    24,
+    5.68,
+    2
+   ],
+   [
+    "aktivitet",
+    "fysisk aktivitet, læring og hvile. Hvis vi bare bruker skjerm, kan vi bli",
+    43,
+    55,
+    4.56,
+    3
+   ],
+   [
+    "fritiden",
+    "Hva bør vi gjøre i fritiden?",
+    8,
+    13,
+    3.88,
+    3
+   ]
+  ],
+  "kx": [
+   [
+    "person",
+    "Det kan være forskjellig fra person til",
+    23,
+    29,
+    5.3,
+    2
+   ],
+   [
+    "familie",
+    "til familie og venner. Det viktigste er å finne en balanse som",
+    61,
+    71,
+    5.14,
+    2
+   ],
+   [
+    "fysisk",
+    "fysisk aktivitet, læring og hvile. Hvis vi bare bruker skjerm, kan vi bli",
+    43,
+    55,
+    4.88,
+    2
+   ],
+   [
+    "finne",
+    "Det viktigste er å finne en balanse som",
+    64,
+    71,
+    5.74,
+    1
+   ],
+   [
+    "viktigste",
+    "Det viktigste er å finne en balanse som",
+    64,
+    71,
+    5.67,
+    1
+   ],
+   [
+    "grunn",
+    "grunn, eksempel,",
+    72,
+    79,
+    5.62,
+    1
+   ],
+   [
+    "roligere",
+    "Roligere. styrke",
+    102,
+    117,
+    4.78,
+    1
+   ],
+   [
+    "forskjellig",
+    "Det kan være forskjellig fra person til",
+    23,
+    29,
+    4.68,
+    1
+   ],
+   [
+    "trene",
+    "Noen liker å trene, gå tur eller drive",
+    28,
+    34,
+    4.68,
+    1
+   ],
+   [
+    "pause",
+    "Pause videoen. Snakk i 30 sekunder med egne ord.",
+    124,
+    132,
+    4.59,
+    1
+   ],
+   [
+    "læring",
+    "fysisk aktivitet, læring og hvile. Hvis vi bare bruker skjerm, kan vi bli",
+    43,
+    55,
+    4.45,
+    1
+   ],
+   [
+    "stress",
+    "En hobby kan redusere stress. Felles aktiviteter kan styrke forholdet",
+    54,
+    65,
+    4.43,
+    1
+   ],
+   [
+    "balanse",
+    "Det viktigste er å finne en balanse som",
+    64,
+    71,
+    4.12,
+    1
+   ],
+   [
+    "skjerm",
+    "Hvis vi bare bruker skjerm, kan vi bli",
+    48,
+    55,
+    4.12,
+    1
+   ],
+   [
+    "avslutning",
+    "avslutning. Fritiden.",
+    76,
+    83,
+    4.04,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "hobby",
+    "En hobby kan redusere stress. Felles aktiviteter kan styrke forholdet",
+    54,
+    65,
+    4.0,
+    1
+   ],
+   [
+    "passive",
+    "slitne og passive. En hobby kan redusere stress.",
+    50,
+    59,
+    3.9,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.08396946564885496,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Hva bør vi gjøre i fritiden? Jeg synes vi bør bruke fritiden på noe som gjør oss glade og gir oss energi. Det kan være forskjellig fra person til person. Noen liker å trene, gå tur eller drive med sport. Andre liker å lese, lage mat, høre på musikk eller se en film. Jeg prøver å kombinere tid med familien, fysisk aktivitet, læring og hvile. Hvis vi bare bruker skjerm, kan vi bli slitne og passive. En hobby kan redusere stress. Felles aktiviteter kan styrke forholdet til familie og venner. Det viktigste er å finne en balanse som passer deg. Mening, grunn, eksempel, avslutning. Fritiden. Fysisk aktivitet. Roligere. styrke styrke. Pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "aau3uFy3i_w": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:45:56+00:00",
+  "title": "Norskprøven muntlig A2–B1: Fortell om en jobb du kjenner godt | Lett svar",
+  "duration": 145,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 78.4,
+  "rare": 0.087,
+  "var": 0.8511,
+  "cl": 0.0362,
+  "speech_s": 105.6,
+  "tokens": 138,
+  "kw": [
+   [
+    "følger",
+    "En prosjektleder følger et prosjekt fra",
+    23,
+    30,
+    5.43,
+    2
+   ],
+   [
+    "kjenner",
+    "Fortell om en jobb du kjenner godt.",
+    8,
+    14,
+    4.76,
+    2
+   ],
+   [
+    "prosjektleder",
+    "En prosjektleder følger et prosjekt fra",
+    23,
+    30,
+    3.78,
+    5
+   ],
+   [
+    "organisere",
+    "organisere organisere Dere",
+    96,
+    105,
+    4.04,
+    2
+   ],
+   [
+    "leverandører",
+    "team, leverandører og ledere. Hvis det oppstår et problem, må",
+    40,
+    49,
+    4.03,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "liker",
+    "Jeg liker yrke fordi man både lærer og",
+    68,
+    75,
+    5.77,
+    1
+   ],
+   [
+    "både",
+    "Jeg liker yrke fordi man både lærer og",
+    68,
+    75,
+    5.76,
+    1
+   ],
+   [
+    "finne",
+    "prosjektlederen finne en løsning og informere de riktige personene.",
+    46,
+    56,
+    5.74,
+    1
+   ],
+   [
+    "viktig",
+    "Det er viktig å oppdage risiko tidlig.",
+    63,
+    71,
+    5.67,
+    1
+   ],
+   [
+    "grunn",
+    "grunn eksempel",
+    76,
+    84,
+    5.62,
+    1
+   ],
+   [
+    "andre",
+    "hjelper andre med å lykkes. Ening,",
+    70,
+    79,
+    5.6,
+    1
+   ],
+   [
+    "flink",
+    "Man må være strukturert, rolig og flink",
+    52,
+    59,
+    4.78,
+    1
+   ],
+   [
+    "rolig",
+    "Man må være strukturert, rolig og flink",
+    52,
+    59,
+    4.78,
+    1
+   ],
+   [
+    "løsning",
+    "prosjektlederen finne en løsning og informere de riktige personene.",
+    46,
+    56,
+    4.77,
+    1
+   ],
+   [
+    "prosjekt",
+    "En prosjektleder følger et prosjekt fra",
+    23,
+    30,
+    4.75,
+    1
+   ],
+   [
+    "fordeler",
+    "Prosjektlederen avtale mål, fordeler oppgaver og følger opp tid, kostnader og",
+    29,
+    38,
+    4.73,
+    1
+   ],
+   [
+    "team",
+    "team, leverandører og ledere. Hvis det oppstår et problem, må",
+    40,
+    49,
+    4.72,
+    1
+   ],
+   [
+    "beslutninger",
+    "En god prosjektleder tar beslutninger når det er nødvendig.",
+    58,
+    69,
+    4.17,
+    1
+   ],
+   [
+    "yrke",
+    "Jeg liker yrke fordi man både lærer og",
+    68,
+    75,
+    4.16,
+    1
+   ],
+   [
+    "oppdage",
+    "Det er viktig å oppdage risiko tidlig.",
+    63,
+    71,
+    4.14,
+    1
+   ],
+   [
+    "informere",
+    "informere de riktige personene. Man må være strukturert, rolig og flink",
+    48,
+    59,
+    4.12,
+    1
+   ],
+   [
+    "oppstår",
+    "Hvis det oppstår et problem, må",
+    44,
+    49,
+    4.07,
+    1
+   ],
+   [
+    "avslutning",
+    "avslutning prosjektlederke",
+    80,
+    88,
+    4.04,
+    1
+   ],
+   [
+    "prosjektledelse",
+    "jeg har jobbet med prosjektledelse i",
+    19,
+    24,
+    3.34,
+    1
+   ],
+   [
+    "strukturert",
+    "Man må være strukturert, rolig og flink",
+    52,
+    59,
+    2.69,
+    1
+   ],
+   [
+    "ening",
+    "Ening, grunn",
+    74,
+    81,
+    2.07,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.1259259259259259,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Fortell om en jobb du kjenner godt. Jeg kjenner prosjektlederrket godt fordi jeg har jobbet med prosjektledelse i mange år. En prosjektleder følger et prosjekt fra start til slutt. Prosjektlederen avtale mål, fordeler oppgaver og følger opp tid, kostnader og kvalitet. Han eller hun samarbeider med kunder, team, leverandører og ledere. Hvis det oppstår et problem, må prosjektlederen finne en løsning og informere de riktige personene. Man må være strukturert, rolig og flink til å lytte. En god prosjektleder tar beslutninger når det er nødvendig. Det er viktig å oppdage risiko tidlig. Jeg liker yrke fordi man både lærer og hjelper andre med å lykkes. Ening, grunn eksempel avslutning prosjektlederke prosjektlederyrke organisere organisere Dere leverandører fordele pause videoen Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "FL_wSbk20TY": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:46:05+00:00",
+  "title": "Norskprøven muntlig A2–B1: Er det viktig å lære om andre kulturer | Lett svar",
+  "duration": 138,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 81.3,
+  "rare": 0.062,
+  "var": 0.79,
+  "cl": 0.0388,
+  "speech_s": 95.2,
+  "tokens": 129,
+  "kw": [
+   [
+    "andre",
+    "Er det viktig å lære om andre kulturer?",
+    8,
+    14,
+    5.6,
+    4
+   ],
+   [
+    "kulturer",
+    "Er det viktig å lære om andre kulturer?",
+    8,
+    14,
+    5.17,
+    4
+   ],
+   [
+    "lære",
+    "Er det viktig å lære om andre kulturer?",
+    8,
+    14,
+    5.28,
+    3
+   ],
+   [
+    "bakgrunn",
+    "som har en annen bakgrunn. Kunnskap kan redusere fordommer og",
+    24,
+    34,
+    5.03,
+    3
+   ],
+   [
+    "misforståelser",
+    "misforståelser. For eksempel kan vanlig oppførsel i en",
+    30,
+    41,
+    3.62,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "viktig",
+    "Er det viktig å lære om andre kulturer?",
+    8,
+    14,
+    5.67,
+    2
+   ],
+   [
+    "måte",
+    "måte. Kunnskap om kulturer kan gjøre samarbeid",
+    61,
+    70,
+    5.48,
+    2
+   ],
+   [
+    "eksempel",
+    "For eksempel kan vanlig oppførsel i en",
+    34,
+    41,
+    5.46,
+    2
+   ],
+   [
+    "lettere",
+    "Da blir det lettere å forstå mennesker",
+    22,
+    29,
+    5.43,
+    2
+   ],
+   [
+    "spørsmål",
+    "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i",
+    0,
+    9,
+    5.43,
+    2
+   ],
+   [
+    "kunnskap",
+    "Kunnskap kan redusere fordommer og misforståelser.",
+    28,
+    34,
+    4.92,
+    2
+   ],
+   [
+    "lovene",
+    "respekt og følge lovene i landet vi bor",
+    48,
+    54,
+    4.71,
+    1
+   ],
+   [
+    "tradisjoner",
+    "tradisjoner. Likevel bør vi være nysgjerrige, vise",
+    42,
+    51,
+    4.5,
+    1
+   ],
+   [
+    "oppførsel",
+    "For eksempel kan vanlig oppførsel i en",
+    34,
+    41,
+    4.41,
+    1
+   ],
+   [
+    "trenger",
+    "Vi trenger ikke være enige i alle",
+    40,
+    46,
+    4.39,
+    1
+   ],
+   [
+    "nysgjerrige",
+    "Likevel bør vi være nysgjerrige, vise",
+    46,
+    51,
+    4.37,
+    1
+   ],
+   [
+    "sekunder",
+    "Snakk i 30 sekunder med egne ord.",
+    125,
+    130,
+    4.24,
+    1
+   ],
+   [
+    "avslutning",
+    "avslutning levemåter",
+    75,
+    83,
+    4.04,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "høflig",
+    "Vi kan stille spørsmål på en høflig",
+    59,
+    64,
+    3.89,
+    1
+   ],
+   [
+    "uvant",
+    "kultur virke uvant i en annen.",
+    36,
+    43,
+    3.47,
+    1
+   ],
+   [
+    "høytider",
+    "Mat, musikk og høytider er fine måter å",
+    53,
+    59,
+    3.23,
+    1
+   ],
+   [
+    "levemåter",
+    "levemåter bakgrunn.",
+    79,
+    94,
+    2.89,
+    1
+   ],
+   [
+    "fordommer",
+    "Kunnskap kan redusere fordommer og misforståelser.",
+    28,
+    34,
+    2.74,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.11023622047244094,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Er det viktig å lære om andre kulturer? Ja, jeg synes det er viktig å lære om andre kulturer. Da blir det lettere å forstå mennesker som har en annen bakgrunn. Kunnskap kan redusere fordommer og misforståelser. For eksempel kan vanlig oppførsel i en kultur virke uvant i en annen. Vi trenger ikke være enige i alle tradisjoner. Likevel bør vi være nysgjerrige, vise respekt og følge lovene i landet vi bor i. Mat, musikk og høytider er fine måter å lære på. Vi kan stille spørsmål på en høflig måte. Kunnskap om kulturer kan gjøre samarbeid lettere. Mening, grunn, eksempel avslutning levemåter bakgrunn. Bakgrunn fordommerdommer misforståelser Pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "6cS_RZYM254": {
+  "channel": "NorskPass",
+  "lang": "no",
+  "checked": "2026-11-28T04:46:11+00:00",
+  "title": "Norskprøven muntlig A2–B1: Bør flinke og mindre flinke elever gå i forskjellige klasser | Lett svar",
+  "duration": 166,
+  "published": "20260925",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 82.1,
+  "rare": 0.0517,
+  "var": 0.852,
+  "cl": 0.0287,
+  "speech_s": 127.1,
+  "tokens": 174,
+  "kw": [
+   [
+    "lærer",
+    "En blandet klasse lærer elevene å",
+    56,
+    63,
+    5.06,
+    5
+   ],
+   [
+    "klasse",
+    "Jeg synes elevene bør gå i samme klasse.",
+    26,
+    34,
+    4.94,
+    4
+   ],
+   [
+    "bør",
+    "Bør flinke og mindre flinke elever gå i",
+    8,
+    15,
+    5.73,
+    3
+   ],
+   [
+    "mindre",
+    "Bør flinke og mindre flinke elever gå i",
+    8,
+    15,
+    5.54,
+    3
+   ],
+   [
+    "elever",
+    "Bør flinke og mindre flinke elever gå i",
+    8,
+    15,
+    4.31,
+    10
+   ],
+   [
+    "flinke",
+    "Bør flinke og mindre flinke elever gå i",
+    8,
+    15,
+    4.78,
+    4
+   ],
+   [
+    "forskjellige",
+    "forskjellige klasser. Øv på begge rollene.",
+    11,
+    24,
+    4.68,
+    4
+   ],
+   [
+    "trenger",
+    "Elever som trenger mer hjelp kan også",
+    47,
+    55,
+    4.39,
+    2
+   ],
+   [
+    "klassekamerater",
+    "klassekamerater. Klassekamerater.",
+    127,
+    136,
+    2.54,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "enige",
+    "Da er vi enige om samme klasse, men",
+    74,
+    81,
+    5.36,
+    3
+   ],
+   [
+    "andre",
+    "andre kandidaten. Jeg synes elevene bør gå i samme klasse.",
+    23,
+    34,
+    5.6,
+    2
+   ],
+   [
+    "hjelp",
+    "Elever som trenger mer hjelp kan også",
+    47,
+    55,
+    5.49,
+    2
+   ],
+   [
+    "hver",
+    ">> Samtidig må læreren ha nok tid til hver",
+    62,
+    68,
+    5.73,
+    1
+   ],
+   [
+    "mens",
+    "Noen lærer raskt, mens andre trenger mer",
+    85,
+    92,
+    5.72,
+    1
+   ],
+   [
+    "mulig",
+    "mulig. Da er vi enige om samme klasse, men",
+    72,
+    81,
+    5.68,
+    1
+   ],
+   [
+    "delvis",
+    ">> Jeg er delvis enig, men flinke elever",
+    33,
+    40,
+    4.68,
+    1
+   ],
+   [
+    "evner",
+    "evner klassekamerater.",
+    117,
+    131,
+    4.64,
+    1
+   ],
+   [
+    "oppgaver",
+    "Læreren kan gi oppgaver med forskjellig",
+    41,
+    47,
+    4.64,
+    1
+   ],
+   [
+    "raskt",
+    "Noen lærer raskt, mens andre trenger mer",
+    85,
+    92,
+    4.62,
+    1
+   ],
+   [
+    "pause",
+    "Pause videoen. Snakk i 30 sekunder med egne ord.",
+    149,
+    158,
+    4.59,
+    1
+   ],
+   [
+    "partneren",
+    "Spør partneren. Svar:",
+    98,
+    108,
+    4.48,
+    1
+   ],
+   [
+    "kandidaten",
+    "andre kandidaten. Jeg synes elevene bør gå i samme klasse.",
+    23,
+    34,
+    4.13,
+    1
+   ],
+   [
+    "reagere",
+    "På prøven må du lytte og reagere på den",
+    21,
+    27,
+    4.1,
+    1
+   ],
+   [
+    "muntlig",
+    "fra norskprøven muntlig på nivå A2 B1 i",
+    2,
+    9,
+    4.03,
+    1
+   ],
+   [
+    "oppsummer",
+    "Bli enige eller oppsummer. Elever",
+    102,
+    111,
+    3.42,
+    1
+   ],
+   [
+    "vanskelighetsgrad",
+    "vanskelighetsgrad. Elever som trenger mer hjelp kan også",
+    43,
+    55,
+    3.05,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.07142857142857142,
+  "vocv": 2,
+  "tx": "Dette er et kandidatrapportert spørsmål fra norskprøven muntlig på nivå A2 B1 i september 2026. Bør flinke og mindre flinke elever gå i forskjellige klasser. Øv på begge rollene. På prøven må du lytte og reagere på den andre kandidaten. Jeg synes elevene bør gå i samme klasse. De kan lære av hverandre. >> Jeg er delvis enig, men flinke elever kan kjede seg. Det kan skje. Læreren kan gi oppgaver med forskjellig vanskelighetsgrad. Elever som trenger mer hjelp kan også jobbe i en liten gruppe noen timer. >> Ja. En blandet klasse lærer elevene å samarbeide med forskjellige mennesker. >> Samtidig må læreren ha nok tid til hver elev. Det er viktig. Skolen kan ha ekstra lærere når det er mulig. Da er vi enige om samme klasse, men tilpasset hjelp. >> Alle elever er flinke til forskjellige ting. Noen lærer raskt, mens andre trenger mer tid. Ingen elever bør føle seg mindre verdt. Si meningen din. Spør partneren. Svar: Bli enige eller oppsummer. Elever elever evner klassekamerater. Klassekamerater. Utfordring. Pause videoen. Snakk i 30 sekunder med egne ord.",
+  "gist": "w",
+  "status": "ok",
+  "src": "auto"
+ },
+ "sH84UMZW6Oo": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T05:02:41+00:00",
+  "title": "Fordeler og ulemper ved å bo i et flerkulturelt område | Norskprøven muntlig A2–B1",
+  "duration": 493,
+  "published": "20261103",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 130.6,
+  "rare": 0.049,
+  "var": 0.794,
+  "cl": 0.0425,
+  "speech_s": 356.5,
+  "tokens": 776,
+  "kw": [
+   [
+    "område",
+    "Men hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område?",
+    13,
+    22,
+    4.81,
+    9
+   ],
+   [
+    "snakker",
+    "Snakker du med naboen din? Ifølge Fafo snakker nesten halvparten av folk med innvandrerbakgrunn hver dag med naboer uten innvandrerbakgrunn.",
+    1,
+    13,
+    5.46,
+    8
+   ],
+   [
+    "synes",
+    "Men hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område?",
+    13,
+    22,
+    5.54,
+    7
+   ],
+   [
+    "bor",
+    "Et flerkulturelt område er et sted der folk fra mange land bor sammen.",
+    48,
+    54,
+    4.96,
+    6
+   ],
+   [
+    "fordeler",
+    "Men hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område?",
+    13,
+    22,
+    4.73,
+    13
+   ],
+   [
+    "hele",
+    "Det er butikker og mat fra hele verden.",
+    105,
+    109,
+    4.78,
+    4
+   ],
+   [
+    "møtes",
+    "Og en møteplass er et sted der folk møtes, for eksempel en lekeplass eller et bibliotek.",
+    68,
+    77,
+    4.75,
+    4
+   ],
+   [
+    "mener",
+    "B1 ser på begge sidene, og sier hva hun mener selv.",
+    166,
+    171,
+    4.37,
+    3
+   ],
+   [
+    "ulemper",
+    "Men hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område?",
+    13,
+    22,
+    3.64,
+    12
+   ],
+   [
+    "naboene",
+    "Kjenner du naboene dine? Ja, noen.",
+    220,
+    224,
+    4.0,
+    7
+   ],
+   [
+    "nabolag",
+    "Et nabolag er området rundt hjemmet ditt.",
+    55,
+    59,
+    3.8,
+    2
+   ],
+   [
+    "møteplasser",
+    "Derfor er møteplasser viktige, for eksempel skolen, idrettslaget og biblioteket.",
+    320,
+    328,
+    3.47,
+    3
+   ],
+   [
+    "innvandrerbakgrunn",
+    "Ifølge Fafo snakker nesten halvparten av folk med innvandrerbakgrunn hver dag med naboer uten innvandrerbakgrunn.",
+    3,
+    13,
+    3.5,
+    2
+   ],
+   [
+    "flerkulturelt",
+    "Men hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område?",
+    13,
+    22,
+    2.96,
+    6
+   ],
+   [
+    "grenene",
+    "B1 bruker alle fire grenene. Bruk disse uttrykkene:",
+    423,
+    430,
+    2.17,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "barna",
+    "Barna lærer flere språk. Og som ny er du ikke alene.",
+    109,
+    116,
+    5.74,
+    5
+   ],
+   [
+    "kommer",
+    "Så legger vi til to små grener: Det kommer an på, og Meg.",
+    93,
+    99,
+    5.74,
+    5
+   ],
+   [
+    "andre",
+    "Men de andre naboene kjenner jeg ikke så godt.",
+    231,
+    235,
+    5.6,
+    5
+   ],
+   [
+    "egen",
+    "Noen holder seg bare i sin egen gruppe.",
+    125,
+    129,
+    5.58,
+    5
+   ],
+   [
+    "kjent",
+    "Du blir kjent med folk fra mange land.",
+    101,
+    104,
+    5.58,
+    5
+   ],
+   [
+    "mindre",
+    "Kanskje snakker du mindre norsk. Det kan bli misforståelser.",
+    118,
+    124,
+    5.54,
+    5
+   ],
+   [
+    "biblioteket",
+    "Jeg liker biblioteket best. Der er det språkkafé på onsdager.",
+    247,
+    255,
+    4.22,
+    3
+   ],
+   [
+    "kjenner",
+    "Kjenner du naboene dine? Ja, noen.",
+    220,
+    224,
+    4.76,
+    2
+   ],
+   [
+    "butikker",
+    "Det er butikker og mat fra hele verden.",
+    105,
+    109,
+    4.72,
+    2
+   ],
+   [
+    "positivt",
+    "En fordel er noe positivt. En ulempe er noe negativt.",
+    59,
+    67,
+    4.7,
+    2
+   ],
+   [
+    "skriv",
+    "Skriv spørsmålet i midten, med to sider: fordeler, og ulemper.",
+    85,
+    93,
+    4.44,
+    2
+   ],
+   [
+    "øver",
+    "Derfor øver du med et tankekart hjemme.",
+    81,
+    85,
+    4.26,
+    2
+   ],
+   [
+    "heter",
+    "Naboen min heter Ana. Vi drikker kaffe sammen noen ganger.",
+    225,
+    231,
+    4.02,
+    1
+   ],
+   [
+    "trangt",
+    "Og noen steder er det trangt å bo, eller området har et dårlig rykte.",
+    128,
+    135,
+    4.0,
+    1
+   ],
+   [
+    "idrettslaget",
+    "Derfor er møteplasser viktige, for eksempel skolen, idrettslaget og biblioteket.",
+    320,
+    328,
+    3.96,
+    1
+   ],
+   [
+    "fritid",
+    "Skole og fritid: gjør barna ting sammen?",
+    140,
+    145,
+    3.88,
+    1
+   ],
+   [
+    "dugnad",
+    "Vi kan begynne med små ting, for eksempel å si hei i oppgangen, eller å invitere naboene til dugnad.",
+    341,
+    349,
+    3.83,
+    1
+   ],
+   [
+    "kommentarfeltet",
+    "Skriv svaret ditt i kommentarfeltet. Lykke til på prøven!",
+    482,
+    490,
+    3.81,
+    1
+   ],
+   [
+    "begrunn",
+    "Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den.",
+    22,
+    29,
+    3.42,
+    1
+   ],
+   [
+    "lekeplass",
+    "Og en møteplass er et sted der folk møtes, for eksempel en lekeplass eller et bibliotek.",
+    68,
+    77,
+    3.12,
+    1
+   ],
+   [
+    "halvparten",
+    "Ifølge Fafo snakker nesten halvparten av folk med innvandrerbakgrunn hver dag med naboer uten innvandrerbakgrunn.",
+    3,
+    13,
+    2.89,
+    1
+   ],
+   [
+    "norskopplæring",
+    "I Oslo får over 20 prosent av elevene ekstra norskopplæring, mens tallet i hele Norge er under 8 prosent.",
+    305,
+    315,
+    2.79,
+    1
+   ],
+   [
+    "fordommer",
+    "Når folk bor blandet, snakker de mer norsk, og det blir færre fordommer.",
+    369,
+    375,
+    2.74,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.07911802853437094,
+  "vocv": 2,
+  "tx": "Snakker du med naboen din? Ifølge Fafo snakker nesten halvparten av folk med innvandrerbakgrunn hver dag med naboer uten innvandrerbakgrunn. Men hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område? Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den. Først lager vi et tankekart. Så hører du et A2-svar og et B1-svar. Hva er fordeler og ulemper ved å bo i et flerkulturelt område? Lær ordene først. Et flerkulturelt område er et sted der folk fra mange land bor sammen. Et nabolag er området rundt hjemmet ditt. En fordel er noe positivt. En ulempe er noe negativt. Og en møteplass er et sted der folk møtes, for eksempel en lekeplass eller et bibliotek. På prøven må du svare med en gang. Derfor øver du med et tankekart hjemme. Skriv spørsmålet i midten, med to sider: fordeler, og ulemper. Så legger vi til to små grener: Det kommer an på, og Meg. Fordeler. Du blir kjent med folk fra mange land. Det er butikker og mat fra hele verden. Barna lærer flere språk. Og som ny er du ikke alene. Ulemper. Kanskje snakker du mindre norsk. Det kan bli misforståelser. Noen holder seg bare i sin egen gruppe. Og noen steder er det trangt å bo, eller området har et dårlig rykte. Det kommer an på … Møtes folk? Skole og fritid: gjør barna ting sammen? Og boligene: er det plass nok? Meg. Hvor bor jeg? Og hva synes jeg? Ser du? Hver gren er en del av svaret ditt. A2 gir to fordeler og én ulempe. B1 ser på begge sidene, og sier hva hun mener selv. Så, hva mener du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område? Jeg bor i et flerkulturelt område, og jeg liker det. Først, fordi jeg blir kjent med folk fra mange land. Barna mine har venner fra mange land også. Og det er mange butikker med mat fra hele verden. Det er fint. Men det er en ulempe også. Vi snakker ofte engelsk, ikke norsk. Da lærer jeg mindre norsk. Jeg synes at det er mest positivt. Kjenner du naboene dine? Ja, noen. Naboen min heter Ana. Vi drikker kaffe sammen noen ganger. Men de andre naboene kjenner jeg ikke så godt. Jeg sier bare hei. Hva liker du best i nabolaget ditt? Hmm … la meg tenke litt. Jeg liker biblioteket best. Der er det språkkafé på onsdager. Jeg øver norsk der. Dette er A2: én mening, to fordeler og én ulempe, med korte setninger. Og eksempler fra hennes eget liv. Det er et interessant spørsmål, og jeg synes at det kommer an på om folk møtes. På den ene siden er det mange fordeler. Man blir kjent med folk fra hele verden, og barna kan lære flere språk. En rapport fra Fafo viser også at mer kontakt med naboene henger sammen med mindre diskriminering. På den andre siden kan det være vanskelig å lære norsk, hvis alle rundt deg snakker andre språk. I Oslo får over 20 prosent av elevene ekstra norskopplæring, mens tallet i hele Norge er under 8 prosent. Og noen holder seg bare i sin egen gruppe. Derfor er møteplasser viktige, for eksempel skolen, idrettslaget og biblioteket. Alt i alt mener jeg at fordelene er størst, selv om det krever at vi snakker sammen. Hva kan vi gjøre for å bli bedre kjent? Vi kan begynne med små ting, for eksempel å si hei i oppgangen, eller å invitere naboene til dugnad. Barna er ofte flinkest. De møtes på skolen og på fotballaget, og da blir foreldrene også kjent med hverandre. Er det bedre at folk bor blandet? Ja, jeg tror det. Når folk bor blandet, snakker de mer norsk, og det blir færre fordommer. Men det er ikke alltid et valg. Mange bor der boligene er billigst. Derfor synes jeg at det er viktig med gode skoler og møteplasser i alle områder. Nå er det B1: begge sidene, et eksempel med tall, og en egen mening. Hør bindeordene: Det kommer an på. På den ene siden. På den andre siden. Derfor. Alt i alt. Selv om. Se på tankekartet igjen. A2 bruker Fordeler, litt Ulemper, og Meg. B1 bruker alle fire grenene. Bruk disse uttrykkene: Jeg synes at … fordi … En fordel er … En ulempe er … Det kommer an på … På den ene siden … På den andre siden … Alt i alt … Nå er det din tur. Pause videoen og tegn ditt eget tankekart. Så snakker du høyt i to minutter. Hva synes du: Hva er fordeler og ulemper ved å bo i et flerkulturelt område? Skriv svaret ditt i kommentarfeltet. Lykke til på prøven!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "_-NaCD2Uhd0": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T05:02:50+00:00",
+  "title": "Bør man fikse på utseendet sitt? | Norskprøven muntlig A2–B1",
+  "duration": 469,
+  "published": "20261029",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 132.2,
+  "rare": 0.0438,
+  "var": 0.7905,
+  "cl": 0.0451,
+  "speech_s": 331.7,
+  "tokens": 731,
+  "kw": [
+   [
+    "synes",
+    "Men hva synes du: Bør man fikse på utseendet sitt?",
+    8,
+    14,
+    5.54,
+    8
+   ],
+   [
+    "kommer",
+    "Så legger vi til to små grener: Det kommer an på, og Meg.",
+    76,
+    83,
+    5.74,
+    6
+   ],
+   [
+    "bruker",
+    "Bruker unge for mye sosiale medier?",
+    217,
+    222,
+    5.68,
+    6
+   ],
+   [
+    "derfor",
+    "Derfor øver du med et tankekart hjemme.",
+    65,
+    69,
+    5.6,
+    4
+   ],
+   [
+    "utseendet",
+    "Men hva synes du: Bør man fikse på utseendet sitt?",
+    8,
+    14,
+    4.61,
+    11
+   ],
+   [
+    "operasjon",
+    "Eller det kan være stort, som botox eller en operasjon.",
+    51,
+    56,
+    4.44,
+    7
+   ],
+   [
+    "kjenner",
+    "Mer enn 1 av 4 tenåringer i Norge kjenner mye press om å se bra ut.",
+    1,
+    8,
+    4.76,
+    4
+   ],
+   [
+    "håret",
+    "Utseendet er hvordan du ser ut: ansiktet, håret og kroppen.",
+    37,
+    44,
+    4.72,
+    3
+   ],
+   [
+    "frisøren",
+    "Hvor ofte går du til frisøren?",
+    199,
+    202,
+    3.74,
+    4
+   ],
+   [
+    "selvtillit",
+    "Man føler seg bra og får bedre selvtillit.",
+    86,
+    90,
+    4.18,
+    2
+   ],
+   [
+    "tenåringer",
+    "Mer enn 1 av 4 tenåringer i Norge kjenner mye press om å se bra ut.",
+    1,
+    8,
+    4.01,
+    2
+   ],
+   [
+    "medier",
+    "Mange kjenner kroppspress, for eksempel fra sosiale medier.",
+    100,
+    106,
+    3.92,
+    2
+   ],
+   [
+    "fikse",
+    "Men hva synes du: Bør man fikse på utseendet sitt?",
+    8,
+    14,
+    3.57,
+    8
+   ],
+   [
+    "kroppspress",
+    "Mange kjenner kroppspress, for eksempel fra sosiale medier.",
+    100,
+    106,
+    3.4,
+    2
+   ],
+   [
+    "tannregulering",
+    "Tannregulering er bra for tennene. Og å trene er sunt.",
+    91,
+    97,
+    2.91,
+    2
+   ],
+   [
+    "botox",
+    "Eller det kan være stort, som botox eller en operasjon.",
+    51,
+    56,
+    2.85,
+    2
+   ],
+   [
+    "filter",
+    "Men mange bilder har filter. Dette er A2: én tydelig mening, to grunner og korte setninger.",
+    235,
+    249,
+    2.69,
+    2
+   ],
+   [
+    "grenene",
+    "B1 bruker alle fire grenene og oppsummerer.",
+    397,
+    402,
+    2.17,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "sidene",
+    "B1 ser på begge sidene, og sier hva hun mener selv.",
+    149,
+    155,
+    5.4,
+    4
+   ],
+   [
+    "svar",
+    "Så hører du et A2-svar og et B1-svar.",
+    25,
+    30,
+    5.23,
+    4
+   ],
+   [
+    "dyrt",
+    "Det kan være dyrt. Og en operasjon har alltid en risiko.",
+    106,
+    113,
+    5.04,
+    4
+   ],
+   [
+    "unge",
+    "Bruker unge for mye sosiale medier?",
+    217,
+    222,
+    4.88,
+    4
+   ],
+   [
+    "likes",
+    "Og hvorfor: for seg selv, eller for likes?",
+    125,
+    130,
+    5.77,
+    3
+   ],
+   [
+    "barna",
+    "Ifølge SSB får nesten halvparten av barna i Norge det.",
+    278,
+    283,
+    5.74,
+    3
+   ],
+   [
+    "trener",
+    "Og jeg trener 3 ganger i uka.",
+    175,
+    179,
+    4.68,
+    3
+   ],
+   [
+    "mener",
+    "B1 ser på begge sidene, og sier hva hun mener selv.",
+    149,
+    155,
+    4.37,
+    3
+   ],
+   [
+    "sosiale",
+    "Mange kjenner kroppspress, for eksempel fra sosiale medier.",
+    100,
+    106,
+    4.74,
+    2
+   ],
+   [
+    "press",
+    "Mer enn 1 av 4 tenåringer i Norge kjenner mye press om å se bra ut.",
+    1,
+    8,
+    4.7,
+    2
+   ],
+   [
+    "risiko",
+    "Og en operasjon har alltid en risiko.",
+    109,
+    113,
+    4.64,
+    2
+   ],
+   [
+    "kroppen",
+    "Utseendet er hvordan du ser ut: ansiktet, håret og kroppen.",
+    37,
+    44,
+    4.54,
+    2
+   ],
+   [
+    "klippet",
+    "Når jeg har klippet håret, føler jeg meg fin.",
+    170,
+    174,
+    4.13,
+    1
+   ],
+   [
+    "sminke",
+    "Å fikse på utseendet kan være lite, som en ny frisyre eller sminke.",
+    44,
+    51,
+    4.05,
+    1
+   ],
+   [
+    "heter",
+    "Det heter plastisk kirurgi. På prøven må du svare med en gang.",
+    57,
+    65,
+    4.02,
+    1
+   ],
+   [
+    "klipper",
+    "Så noen ganger klipper søsteren min håret mitt.",
+    212,
+    217,
+    4.0,
+    1
+   ],
+   [
+    "kommentarfeltet",
+    "Skriv svaret ditt i kommentarfeltet. Lykke til på prøven!",
+    458,
+    466,
+    3.81,
+    1
+   ],
+   [
+    "tennene",
+    "Tannregulering er bra for tennene. Og å trene er sunt.",
+    91,
+    97,
+    3.75,
+    1
+   ],
+   [
+    "begrunn",
+    "Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den.",
+    14,
+    21,
+    3.42,
+    1
+   ],
+   [
+    "oppsummerer",
+    "B1 bruker alle fire grenene og oppsummerer.",
+    397,
+    402,
+    3.42,
+    1
+   ],
+   [
+    "plastisk",
+    "Det heter plastisk kirurgi. På prøven må du svare med en gang.",
+    57,
+    65,
+    3.24,
+    1
+   ],
+   [
+    "frisyre",
+    "Å fikse på utseendet kan være lite, som en ny frisyre eller sminke.",
+    44,
+    51,
+    3.0,
+    1
+   ],
+   [
+    "halvparten",
+    "Ifølge SSB får nesten halvparten av barna i Norge det.",
+    278,
+    283,
+    2.89,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.07510431154381085,
+  "vocv": 2,
+  "tx": "Mer enn 1 av 4 tenåringer i Norge kjenner mye press om å se bra ut. Men hva synes du: Bør man fikse på utseendet sitt? Dette er oppgave 3 på norskprøven: Si din mening, og begrunn den. Først lager vi et tankekart. Så hører du et A2-svar og et B1-svar. Bør man fikse på utseendet sitt? Lær ordene først. Utseendet er hvordan du ser ut: ansiktet, håret og kroppen. Å fikse på utseendet kan være lite, som en ny frisyre eller sminke. Eller det kan være stort, som botox eller en operasjon. Det heter plastisk kirurgi. På prøven må du svare med en gang. Derfor øver du med et tankekart hjemme. Skriv spørsmålet i midten, med to sider: ja, og nei. Så legger vi til to små grener: Det kommer an på, og Meg. Ja – det kan være bra. Man føler seg bra og får bedre selvtillit. Tannregulering er bra for tennene. Og å trene er sunt. Nei – det kan være farlig. Mange kjenner kroppspress, for eksempel fra sosiale medier. Det kan være dyrt. Og en operasjon har alltid en risiko. Det kommer an på … Hva: frisør eller operasjon? Hvem: en voksen, eller en ung person under 18? Og hvorfor: for seg selv, eller for likes? Meg. Hva gjør du selv? Og hva synes du? Ser du? Hver gren er en del av svaret ditt. A2 velger én side og gir to grunner. B1 ser på begge sidene, og sier hva hun mener selv. Så, hva mener du: Bør man fikse på utseendet sitt? Ja, jeg synes det er greit å fikse litt på utseendet. Først, fordi man føler seg bra. Når jeg har klippet håret, føler jeg meg fin. Og jeg trener 3 ganger i uka. Det er sunt, og jeg får mer energi. Men jeg vil ikke ta en operasjon. Det er dyrt, og det kan være farlig. Jeg liker meg selv sånn jeg er. Hvor ofte går du til frisøren? Jeg går til frisøren kanskje 4 ganger i året. Det er ganske dyrt i Norge. Så noen ganger klipper søsteren min håret mitt. Bruker unge for mye sosiale medier? Hmm … la meg tenke litt. Ja, jeg tror det. På Instagram ser alle perfekte ut. Men mange bilder har filter. Dette er A2: én tydelig mening, to grunner og korte setninger. Hun bruker fordi, og, og men. Og hun gir et eksempel fra sitt eget liv. Det er et spennende spørsmål, og jeg synes det kommer an på hva man gjør. På den ene siden er det helt normalt å fikse litt på utseendet. Vi går til frisøren, vi trener, og mange barn får tannregulering. Ifølge SSB får nesten halvparten av barna i Norge det. Det er bra for helsen og for selvtilliten. På den andre siden kjenner mange unge et stort kroppspress. Ifølge Ungdata kjenner mer enn 1 av 4 tenåringer mye press om å se bra ut. Derfor synes jeg det er bra at unge under 18 ikke får ta botox eller operasjoner bare for utseendet. Alt i alt mener jeg at man kan fikse litt på utseendet, hvis man gjør det for seg selv, og ikke for likes. Ville du tatt en operasjon for å se bedre ut? Nei, det tror jeg ikke. En operasjon er dyr, og det er alltid en risiko. Men jeg forstår godt at noen velger det, særlig hvis de har vært lei seg for utseendet sitt i mange år. Bør reklame vise mer vanlige kropper? Ja, absolutt. I Norge må reklame ha et merke hvis kroppen er retusjert. Det synes jeg er en god regel. Men det hjelper ikke så mye på Instagram, for der kan alle bruke filter. Derfor må vi snakke med barna om det. Nå er det B1: begge sidene, eksempler og en egen mening. Hør bindeordene: Det kommer an på. På den ene siden. På den andre siden. Derfor. Alt i alt. Se på tankekartet igjen. A2 bruker Ja, litt Nei, og Meg. B1 bruker alle fire grenene og oppsummerer. Bruk disse uttrykkene: Jeg synes at … fordi … Det kommer an på … På den ene siden … På den andre siden … Jeg forstår godt at noen … Alt i alt … Nå er det din tur. Pause videoen og tegn ditt eget tankekart. Så snakker du høyt i to minutter. Husk: ja, nei, det kommer an på, og meg. Hva synes du: Bør man fikse på utseendet sitt? Skriv svaret ditt i kommentarfeltet. Lykke til på prøven!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "FZjv09sxMbI": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T05:19:32+00:00",
+  "title": "Norskprøven muntlig: likestilling – A2 og B1",
+  "duration": 382,
+  "published": "20261021",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 118.5,
+  "rare": 0.0299,
+  "var": 0.8044,
+  "cl": 0.0528,
+  "speech_s": 287.7,
+  "tokens": 568,
+  "kw": [
+   [
+    "kvinner",
+    "Hva er viktig med likestilling mellom menn og kvinner?",
+    28,
+    32,
+    5.2,
+    11
+   ],
+   [
+    "menn",
+    "Hva er viktig med likestilling mellom menn og kvinner?",
+    28,
+    32,
+    5.62,
+    10
+   ],
+   [
+    "hjemme",
+    "Og du kan snakke om tre steder: hjemme, på jobben og i samfunnet.",
+    44,
+    53,
+    5.36,
+    10
+   ],
+   [
+    "barn",
+    "Kvinner passer barn, menn passer barn.",
+    69,
+    74,
+    5.74,
+    7
+   ],
+   [
+    "likestilling",
+    "Samtidig er Norge nummer tre i verden på likestilling.",
+    9,
+    14,
+    4.51,
+    10
+   ],
+   [
+    "tjener",
+    "Når en mann i Norge tjener hundre kroner, tjener en kvinne i snitt åttiåtte kroner.",
+    1,
+    9,
+    4.75,
+    4
+   ],
+   [
+    "setninger",
+    "Korte, enkle setninger, og ett eksempel fra hennes eget liv.",
+    137,
+    144,
+    4.24,
+    4
+   ],
+   [
+    "handler",
+    "For det første handler det om lønn.",
+    158,
+    161,
+    4.76,
+    3
+   ],
+   [
+    "kroner",
+    "Når en mann i Norge tjener hundre kroner, tjener en kvinne i snitt åttiåtte kroner.",
+    1,
+    9,
+    4.17,
+    2
+   ],
+   [
+    "hjemland",
+    "Hvordan er kjønnsrollene i ditt hjemland, sammenlignet med Norge?",
+    219,
+    225,
+    3.81,
+    2
+   ],
+   [
+    "rettigheter",
+    "Det betyr like rettigheter og like muligheter.",
+    39,
+    45,
+    3.38,
+    3
+   ],
+   [
+    "husarbeid",
+    "Hvem gjør mest husarbeid hjemme hos deg?",
+    101,
+    105,
+    3.47,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "jobber",
+    "Kvinner jobber, menn jobber. Kvinner passer barn, menn passer barn.",
+    65,
+    74,
+    5.29,
+    6
+   ],
+   [
+    "like",
+    "Likestilling betyr ikke at alle er helt like.",
+    35,
+    40,
+    4.97,
+    6
+   ],
+   [
+    "viktig",
+    "Hva er viktig med likestilling mellom menn og kvinner?",
+    28,
+    32,
+    5.67,
+    5
+   ],
+   [
+    "eksempel",
+    "For eksempel hjemme hos meg. Mannen min lager middag, og jeg vasker klær.",
+    74,
+    84,
+    5.46,
+    5
+   ],
+   [
+    "lager",
+    "Mannen min lager middag, og jeg vasker klær.",
+    78,
+    84,
+    5.39,
+    4
+   ],
+   [
+    "svar",
+    "Her er et A2-svar og et B1-svar, og ordene som gjør forskjellen.",
+    20,
+    27,
+    5.23,
+    4
+   ],
+   [
+    "arbeidet",
+    "Vi deler arbeidet. Og pappa kan være hjemme med babyen.",
+    83,
+    93,
+    4.63,
+    3
+   ],
+   [
+    "lønn",
+    "For det første handler det om lønn.",
+    158,
+    161,
+    4.79,
+    2
+   ],
+   [
+    "helt",
+    "Likestilling betyr ikke at alle er helt like.",
+    35,
+    40,
+    4.78,
+    2
+   ],
+   [
+    "enkle",
+    "Korte, enkle setninger, og ett eksempel fra hennes eget liv.",
+    137,
+    144,
+    4.71,
+    2
+   ],
+   [
+    "betyr",
+    "Likestilling betyr ikke at alle er helt like.",
+    35,
+    40,
+    4.54,
+    2
+   ],
+   [
+    "mener",
+    "Derfor mener jeg at likestilling er viktig for alle, ikke bare for kvinner.",
+    212,
+    219,
+    4.37,
+    2
+   ],
+   [
+    "yrker",
+    "En grunn er at mange kvinner jobber i yrker med lavere lønn, og mange jobber deltid.",
+    167,
+    175,
+    4.16,
+    1
+   ],
+   [
+    "femten",
+    "Her har fedre femten uker permisjon som er bare for dem, sånn at de også blir kjent med barnet.",
+    178,
+    187,
+    3.97,
+    1
+   ],
+   [
+    "klokka",
+    "Svar høyt mens klokka går. Hva er viktig med likestilling mellom menn og kvinner?",
+    334,
+    342,
+    3.97,
+    1
+   ],
+   [
+    "fedre",
+    "Her har fedre femten uker permisjon som er bare for dem, sånn at de også blir kjent med barnet.",
+    178,
+    187,
+    3.92,
+    1
+   ],
+   [
+    "deltid",
+    "En grunn er at mange kvinner jobber i yrker med lavere lønn, og mange jobber deltid.",
+    167,
+    175,
+    3.9,
+    1
+   ],
+   [
+    "permisjon",
+    "Her har fedre femten uker permisjon som er bare for dem, sånn at de også blir kjent med barnet.",
+    178,
+    187,
+    3.86,
+    1
+   ],
+   [
+    "oppfølgingsspørsmålene",
+    "Hun svarer også på oppfølgingsspørsmålene, og hun stopper ikke selv.",
+    144,
+    151,
+    2.55,
+    1
+   ],
+   [
+    "kjønnsrollene",
+    "Hvordan er kjønnsrollene i ditt hjemland, sammenlignet med Norge?",
+    219,
+    225,
+    2.14,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.04316546762589928,
+  "vocv": 2,
+  "tx": "Når en mann i Norge tjener hundre kroner, tjener en kvinne i snitt åttiåtte kroner. Samtidig er Norge nummer tre i verden på likestilling. Likestilling er et vanlig tema på norskprøven. Her er et A2-svar og et B1-svar, og ordene som gjør forskjellen. Hva er viktig med likestilling mellom menn og kvinner? Først: Forstå ordet. Likestilling betyr ikke at alle er helt like. Det betyr like rettigheter og like muligheter. Og du kan snakke om tre steder: hjemme, på jobben og i samfunnet. Jeg synes likestilling er veldig viktig. Fordi kvinner og menn har like rettigheter. Kvinner jobber, menn jobber. Kvinner passer barn, menn passer barn. For eksempel hjemme hos meg. Mannen min lager middag, og jeg vasker klær. Vi deler arbeidet. Og pappa kan være hjemme med babyen. Det er bra for barnet. Men det er ikke likt i alle land. Hvem gjør mest husarbeid hjemme hos deg? Hmm … kanskje jeg. Jeg er mer hjemme. Men mannen min lager mat hver helg! Hvordan var det da du var barn? Da var det annerledes. Mamma lagde all maten, og pappa jobbet. Nå er det mer likt. Dette er A2: mening, fordi, for eksempel og men. Korte, enkle setninger, og ett eksempel fra hennes eget liv. Hun svarer også på oppfølgingsspørsmålene, og hun stopper ikke selv. Jeg synes likestilling er viktig av flere grunner, både på jobben og hjemme. For det første handler det om lønn. I Norge tjener kvinner i snitt omtrent åttiåtte prosent av det menn tjener. En grunn er at mange kvinner jobber i yrker med lavere lønn, og mange jobber deltid. For det andre handler det om familien. Her har fedre femten uker permisjon som er bare for dem, sånn at de også blir kjent med barnet. Da vi fikk barn, var mannen min hjemme i nesten fire måneder, og det var veldig bra for oss begge. Samtidig har Norge kommet langt. Landet er nummer tre i verden på likestilling. Likevel er det ikke helt likt ennå, for kvinner gjør fortsatt mer husarbeid. Derfor mener jeg at likestilling er viktig for alle, ikke bare for kvinner. Hvordan er kjønnsrollene i ditt hjemland, sammenlignet med Norge? Det kommer an på hvor man bor. I byene jobber mange kvinner, men hjemme har mor ofte mest ansvar for barna. I Norge deler foreldrene mer, synes jeg. Men det endrer seg i hjemlandet mitt også. Hva kan vi gjøre for å få mer likestilling? La meg tenke litt. Jeg tror det begynner hjemme. Hvis gutter og jenter lærer å gjøre de samme oppgavene, blir det mer naturlig å dele arbeidet når de blir voksne. Nå er det B1. Hør bindeordene: For det første. For det andre. Samtidig. Likevel. Derfor. Hun bruker tall og en egen erfaring, hun ser begge sider, og hun lager lange setninger med hvis og fordi. Så hva er forskjellen? A2: korte setninger og enkle bindeord som og, fordi, men. B1: lengre setninger, flere bindeord, tall og egne erfaringer, og begge sider av saken. Bruk disse uttrykkene: Like rettigheter og like muligheter. Vi deler arbeidet hjemme. Det handler om … Samtidig har Norge kommet langt. Derfor mener jeg at … Nå er det din tur. Svar høyt mens klokka går. Hva er viktig med likestilling mellom menn og kvinner? Gi én grunn og ett eksempel. Husk: Mening. Fordi. For eksempel. Men. Skriv svaret ditt i kommentarfeltet, så kan andre lære av deg. Lykke til på prøven!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
+ },
+ "C704lZT1tK8": {
+  "channel": "Lær norsk Truong",
+  "lang": "no",
+  "checked": "2026-11-28T05:19:36+00:00",
+  "title": "Norskprøven muntlig: lære om andre kulturer – A2 og B1",
+  "duration": 393,
+  "published": "20261020",
+  "spoken": "no",
+  "spoken_v": 2,
+  "pace": 122.0,
+  "rare": 0.0293,
+  "var": 0.8196,
+  "cl": 0.0585,
+  "speech_s": 285.8,
+  "tokens": 581,
+  "kw": [
+   [
+    "kultur",
+    "Kultur er språk, mat, høytider, religion og tradisjoner.",
+    39,
+    47,
+    5.17,
+    12
+   ],
+   [
+    "lære",
+    "Er det viktig å lære om andre eller nye kulturer?",
+    26,
+    31,
+    5.28,
+    10
+   ],
+   [
+    "andre",
+    "Er det viktig å lære om andre eller nye kulturer?",
+    26,
+    31,
+    5.6,
+    9
+   ],
+   [
+    "eksempel",
+    "For eksempel. Men.",
+    61,
+    65,
+    5.46,
+    9
+   ],
+   [
+    "kollegaer",
+    "På jobben har jeg mye kollegaer fra andre land.",
+    75,
+    80,
+    4.22,
+    4
+   ],
+   [
+    "setninger",
+    "Korte, enkle setninger. To små feil.",
+    139,
+    145,
+    4.24,
+    3
+   ],
+   [
+    "forsiktig",
+    "Men man må være forsiktig. Ikke alle er like.",
+    125,
+    133,
+    4.73,
+    2
+   ],
+   [
+    "enkle",
+    "Korte, enkle setninger. To små feil.",
+    139,
+    145,
+    4.71,
+    2
+   ],
+   [
+    "klokka",
+    "Hos en norsk familie spiste vi middag klokka fem.",
+    233,
+    239,
+    3.97,
+    2
+   ]
+  ],
+  "kx": [
+   [
+    "synes",
+    "Og de aller fleste synes at kontakten er positiv.",
+    9,
+    15,
+    5.54,
+    7
+   ],
+   [
+    "kommer",
+    "For eksempel jeg lærte at nordmenn ofte kommer rett til poenget.",
+    194,
+    200,
+    5.74,
+    5
+   ],
+   [
+    "svar",
+    "Her er et A2-svar og et B1-svar, og ordene som gjør forskjellen.",
+    18,
+    26,
+    5.23,
+    5
+   ],
+   [
+    "bruk",
+    "Bruk oppskriften: Mening. Fordi.",
+    56,
+    62,
+    5.68,
+    4
+   ],
+   [
+    "viktig",
+    "Er det viktig å lære om andre eller nye kulturer?",
+    26,
+    31,
+    5.67,
+    4
+   ],
+   [
+    "egen",
+    "Derfor mener jeg at vi bør lære av hverandre, og også fortelle om vår egen kultur.",
+    221,
+    228,
+    5.58,
+    4
+   ],
+   [
+    "religion",
+    "Kultur er språk, mat, høytider, religion og tradisjoner.",
+    39,
+    47,
+    4.66,
+    2
+   ],
+   [
+    "befolkningen",
+    "Åttisju prosent av befolkningen i Norge har kontakt med innvandrere.",
+    1,
+    7,
+    4.65,
+    2
+   ],
+   [
+    "opplevd",
+    "Har du selv opplevd en kulturforskjell her i Norge?",
+    229,
+    233,
+    4.57,
+    2
+   ],
+   [
+    "tradisjoner",
+    "Kultur er språk, mat, høytider, religion og tradisjoner.",
+    39,
+    47,
+    4.5,
+    2
+   ],
+   [
+    "mener",
+    "Derfor mener jeg at vi bør lære av hverandre, og også fortelle om vår egen kultur.",
+    221,
+    228,
+    4.37,
+    2
+   ],
+   [
+    "negativt",
+    "Er det noe negativt med å lære om andre kulturer?",
+    118,
+    122,
+    4.37,
+    2
+   ],
+   [
+    "telle",
+    "«Mye kollegaer»: Vi kan telle kollegaer, så vi sier mange kollegaer.",
+    145,
+    152,
+    4.14,
+    1
+   ],
+   [
+    "hverandres",
+    "Hvis vi vet litt om hverandres tradisjoner og religioner, blir det lettere å forstå hverandre, både på jobben og i nabolaget.",
+    177,
+    188,
+    3.95,
+    1
+   ],
+   [
+    "overrasket",
+    "Jeg ble ganske overrasket, for hjemme spiser vi mye senere.",
+    239,
+    244,
+    3.94,
+    1
+   ],
+   [
+    "oppskriften",
+    "Bruk oppskriften: Mening. Fordi.",
+    56,
+    62,
+    3.93,
+    1
+   ],
+   [
+    "innvandrere",
+    "Åttisju prosent av befolkningen i Norge har kontakt med innvandrere.",
+    1,
+    7,
+    3.81,
+    1
+   ],
+   [
+    "kommentarfeltet",
+    "Skriv svaret ditt i kommentarfeltet, så kan andre lære av deg.",
+    381,
+    387,
+    3.81,
+    1
+   ],
+   [
+    "innvandrerbakgrunn",
+    "For det første har over en femtedel av befolkningen i Norge innvandrerbakgrunn.",
+    170,
+    177,
+    3.5,
+    1
+   ],
+   [
+    "sytten",
+    "Derfor lærer jeg om sytten mai og jul.",
+    94,
+    99,
+    3.27,
+    1
+   ],
+   [
+    "høytider",
+    "Kultur er språk, mat, høytider, religion og tradisjoner.",
+    39,
+    47,
+    3.23,
+    1
+   ],
+   [
+    "femtedel",
+    "For det første har over en femtedel av befolkningen i Norge innvandrerbakgrunn.",
+    170,
+    177,
+    2.86,
+    1
+   ],
+   [
+    "fordommer",
+    "Hvis man bare leser om en kultur, kan man få fordommer.",
+    208,
+    213,
+    2.74,
+    1
+   ],
+   [
+    "verbet",
+    "Etter for eksempel kommer verbet: For eksempel lærte jeg.",
+    296,
+    304,
+    2.26,
+    1
+   ]
+  ],
+  "kxv": 2,
+  "voc": 0.04424778761061947,
+  "vocv": 2,
+  "tx": "Åttisju prosent av befolkningen i Norge har kontakt med innvandrere. De fleste på jobben. Og de aller fleste synes at kontakten er positiv. Det kan du bruke på norskprøven. Her er et A2-svar og et B1-svar, og ordene som gjør forskjellen. Er det viktig å lære om andre eller nye kulturer? Hvorfor eller hvorfor ikke? Først: Forstå ordene. Kultur er språk, mat, høytider, religion og tradisjoner. Og spørsmålet har to sider: andre kulturer rundt deg, og den nye kulturen, Norge. Bruk oppskriften: Mening. Fordi. For eksempel. Men. Ja, jeg synes det er viktig. Fordi i Norge er det folk fra mange land. På jobben har jeg mye kollegaer fra andre land. For eksempel Anna fra Polen. Hun lagde polsk mat til meg. Det var godt! Jeg bor på Norge nå. Derfor lærer jeg om sytten mai og jul. Men det er ikke alltid lett. Det tar tid. Hva er typisk norsk kultur, synes du? Hmm … nordmenn liker å gå på tur. Og de snakker mye om været! Er det noe negativt med å lære om andre kulturer? Nei … kanskje ikke negativt. Men man må være forsiktig. Ikke alle er like. Dette er A2: mening, fordi, eksempel og men. Korte, enkle setninger. To små feil. «Mye kollegaer»: Vi kan telle kollegaer, så vi sier mange kollegaer. Og «på Norge»: Vi bor i Norge. Og se: Ikke alle er like. Et smart svar! Ja, jeg synes absolutt det er viktig, og det er særlig to grunner til det. For det første har over en femtedel av befolkningen i Norge innvandrerbakgrunn. Hvis vi vet litt om hverandres tradisjoner og religioner, blir det lettere å forstå hverandre, både på jobben og i nabolaget. For det andre må jeg lære om den norske kulturen, siden jeg har flyttet hit. For eksempel jeg lærte at nordmenn ofte kommer rett til poenget. Først syntes jeg det var uhøflig, men nå forstår jeg det. Samtidig må man være forsiktig. Hvis man bare leser om en kultur, kan man få fordommer. Det kommer an på hvordan man lærer. Det beste er å møte mennesker. Derfor mener jeg at vi bør lære av hverandre, og også fortelle om vår egen kultur. Har du selv opplevd en kulturforskjell her i Norge? Ja! Hos en norsk familie spiste vi middag klokka fem. Jeg ble ganske overrasket, for hjemme spiser vi mye senere. Nå synes jeg det er praktisk. Synes du at man må bli helt norsk når man bor i Norge? Hmm, la meg tenke litt. Man må lære språket og reglene i samfunnet. Men man trenger ikke å glemme sin egen kultur. Man kan ha to kulturer samtidig. Nå er det B1. Hør bindeordene: For det første. For det andre. Samtidig. Det kommer an på. Derfor. Hun bruker et tall og en egen erfaring, ser begge sider og slutter med sin mening. Én feil: «For eksempel jeg lærte». Etter for eksempel kommer verbet: For eksempel lærte jeg. Så hva er forskjellen? A2: korte setninger og enkle bindeord som og, fordi, men. B1: lengre setninger, flere bindeord, egne erfaringer, og begge sider. Bruk disse uttrykkene: Det blir lettere å forstå hverandre. Jeg har selv opplevd at … Det kommer an på … Derfor mener jeg at … Nå er det din tur. Svar høyt mens klokka går. Er det viktig å lære om andre eller nye kulturer? Gi én grunn og ett eksempel. Husk: Mening. Fordi. For eksempel. Men. Skriv svaret ditt i kommentarfeltet, så kan andre lære av deg. Lykke til på prøven!",
+  "gist": "w",
+  "status": "ok",
+  "src": "cc"
  }
 }
